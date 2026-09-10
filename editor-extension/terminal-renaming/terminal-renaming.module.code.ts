@@ -23,9 +23,6 @@ const SLUG = "terminal-tabs"
 
 let output: vscode.OutputChannel
 
-// The seat each terminal sits on, as the service last wrote it. Null until one has been read, and
-// a run over a null picture would name every terminal as seatless and reset the lot, so a run over
-// one is not made at all.
 let tabs: TerminalTabsState | null = null
 
 export async function activate(context: vscode.ExtensionContext): Promise<void> {
@@ -55,16 +52,8 @@ export async function activate(context: vscode.ExtensionContext): Promise<void> 
   output.appendLine(`activated; reading what the service writes for ${SLUG}`)
 }
 
-// A TRIGGER ARRIVING MID-NAMING IS RUN AFTER THAT NAMING RATHER THAN DROPPED. A naming takes the
-// picture at the moment that naming starts, so a trigger waited on and thrown away is a write of
-// the file that reached no terminal. The colors then held until a terminal happened to be opened or
-// focused, which is a second event covering for a lost one rather than a picture that follows.
 const applyAll = newestWins<string>(applyOnce)
 
-// A terminal answers its own process id and nothing else names a seat, so the pid is what the seat
-// is looked up by. Every other fact this used to work out — which seats are there, which shell
-// each tmux client runs under, what color each turn is — the service worked out once for the
-// workstation and wrote in the picture above.
 async function applyOnce(trigger: string): Promise<undefined> {
   const held = tabs
   if (held === null) return undefined
@@ -79,8 +68,6 @@ async function applyOnce(trigger: string): Promise<undefined> {
       readings.map((reading, index) => {
         const name =
           reading.outcome === "read" ? held.seatByShellPid[String(reading.pid)] : undefined
-        // The service writes the name of a color, not something the editor can draw, so the
-        // palette is read here. Handing the name straight to `recolor` left every tab uncolored.
         const named = name === undefined ? undefined : held.colorBySeat[name]
         const color = named === undefined ? undefined : colorNamed(named)
         return syncTerminal(reading, name, index, terminals.length, color, trigger, output)

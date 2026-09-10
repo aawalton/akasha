@@ -19,8 +19,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   output = vscode.window.createOutputChannel("Ops: Page Tree")
   context.subscriptions.push(output)
 
-  // THE FILE'S OWN ROW IS WHAT IS DRAWN. The row already names its document by a whole path, so
-  // there is nothing between the file and the view to spell it a second way.
   const tree = createPageTree()
   const view = vscode.window.createTreeView<PageTreeRow>(VIEW_ID, {
     treeDataProvider: tree.provider,
@@ -40,11 +38,8 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     return undefined
   }
 
-  // What the file last said, drawn or waiting to be drawn.
   let held: PageTreeState | null = null
 
-  // The file moved while nobody was looking at the panel. Nothing was drawn for it, and the
-  // drawing is owed until the panel is looked at again.
   let owed = false
 
   const draw = (state: PageTreeState, trigger: string): undefined => {
@@ -85,10 +80,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     return undefined
   }
 
-  // NOTHING IS DRAWN FOR A PANEL NOBODY IS LOOKING AT. The Pages view shares the secondary sidebar
-  // with Agents, Work and Domains, so it is hidden most of the time, and rebuilding five thousand
-  // rows for a hidden view spends the extension host's thread on nothing Alan can see. The state
-  // is kept all the same, so becoming visible draws what the file says now.
   const show = (state: PageTreeState, trigger: string): undefined => {
     held = state
     if (!view.visible) {
@@ -99,8 +90,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     return draw(state, trigger)
   }
 
-  // Asking for the file again answers a manual refresh at once rather than waiting to be told.
-  // A file the service has not written leaves the rows on the screen as they are.
   const refresh = (trigger: string): undefined => {
     const state = readState<PageTreeState>(stateAt(akashaRoot(), SLUG))
     if (state === null) {

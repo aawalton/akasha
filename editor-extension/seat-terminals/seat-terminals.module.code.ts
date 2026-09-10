@@ -13,14 +13,6 @@ import {
   tallyLine,
 } from "../terminal-pids/terminal-pids.module.code.ts"
 
-// WHICH SEAT A SHELL IS WORKING IN IS READ OFF THE FILE THE SERVICE ALREADY WRITES.
-//
-// This asked `ps` for the whole process table and `tmux` for its clients, then walked the parent
-// chain from each client up to the shell above it. A shell attaching to a seat now leaves a mark
-// naming that seat, and the service folds those marks into the terminal tabs file. The two routes
-// were measured against one another on this workstation and agreed on every pair, so reading the
-// file costs two forks and 849 process rows less on the extension host's thread at each drawing.
-
 const TERMINAL_TABS = "terminal-tabs"
 
 export interface SeatTerminal {
@@ -91,9 +83,6 @@ export async function readSeatTerminals(seatByShellPid: ReadonlyMap<number, stri
   return { seats: found, sweep, counted, ms, pidByTerminal }
 }
 
-// A FILE THAT COULD NOT BE READ IS TOLD APART FROM A FILE NAMING NO SEAT. The first leaves the
-// caller with what it sampled last, and the second is the answer that no terminal here holds a
-// seat, which is a sample worth recording.
 export function readSeatLookup(): ReadonlyMap<number, string> | null {
   const held = readState<TerminalTabsState>(stateAt(akashaRoot(), TERMINAL_TABS))
   if (held === null) {

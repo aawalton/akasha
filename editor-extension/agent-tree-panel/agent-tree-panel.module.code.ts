@@ -61,13 +61,6 @@ type Drawing = {
   readonly trigger: string
 }
 
-// The file spells a row the way every state file spells one. The panel spells it another way, and
-// so do the payloads vscode hands back when a menu is used, which are read by name at runtime
-// rather than checked by the compiler. Bridging the two here keeps that runtime reading untouched.
-//
-// A color is carried on as the name it is. The decoration provider puts that name in a uri path
-// and matches it against the palette, so a color turned into something drawable here would fail
-// that match and leave the row uncolored.
 function asNode(row: AgentTreeRow): AgentNode {
   return {
     id: row.key,
@@ -148,10 +141,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     return undefined
   }
 
-  // THE ROWS GO UP BEFORE THE TERMINALS ARE SWEPT. The rows come off the file and want nothing from
-  // the harness; the sweep asks the harness for the process table. Sweeping first put that round
-  // trip in front of every turn state Alan is shown, and a sweep that threw took the rows down with
-  // it, so a file that had been read fine drew nothing at all.
   const drawOnce = async (held: AgentTreeState, trigger: string): Promise<undefined> => {
     try {
       const roots = held.roots.map(asNode)
@@ -201,8 +190,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
   const draw = newestWins<Drawing>(({ held, trigger }) => drawOnce(held, trigger))
 
-  // An act on a seat asks for the file again rather than waiting for the service to notice, so the
-  // panel answers the act at once. A file the service has not written leaves the rows as they are.
   const refresh = async (trigger: string): Promise<undefined> => {
     const held = readState<AgentTreeState>(stateAt(akashaRoot(), SLUG))
     if (held === null) {

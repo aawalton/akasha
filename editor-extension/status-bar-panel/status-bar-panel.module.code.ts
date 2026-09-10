@@ -25,9 +25,6 @@ const SLUG = "status-bar"
 
 let output: vscode.OutputChannel
 
-// A SECTION THE SERVICE COULD NOT READ IS SAID TO HAVE FAILED. The drawing already knows what to
-// do with a reading that failed — keep the text the slot last had and say since when it has been
-// stale — so a null section is handed on as a rejection rather than as a blank.
 function sectionOf<Held>(said: Held | null | undefined): PromiseSettledResult<Held> {
   return said === null || said === undefined
     ? { status: "rejected", reason: new Error("the service read nothing for this section") }
@@ -103,8 +100,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     return undefined
   }
 
-  // Asking for the file again answers a click at once rather than waiting to be told.
-  // A file the service has not written leaves the strip as it is.
   const refresh = (trigger: string): undefined => {
     const held = readState<StatusBarState>(stateAt(akashaRoot(), SLUG))
     if (held === null) {
