@@ -61,11 +61,16 @@ export const addPageTypeTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type is refused for a list spelled in any type that page type extends.",
+      statement: "A page type whose type spells a key as a union of other types is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "The refusal names the key and the file the list is spelled in.",
+      statement:
+        "A page type is refused for either shape spelled in any type that page type extends.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refusal names the key, the shape spelled and the file spelling it.",
     },
   ],
   changeKind: "change-checked",

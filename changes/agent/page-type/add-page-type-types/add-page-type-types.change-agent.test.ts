@@ -168,6 +168,24 @@ test("a page type whose type spells a list of another type is refused, naming th
   expect(seen).toEqual([])
 })
 
+const UNIONED = `export type One = {
+  name: Name | null
+}
+`
+
+test("a page type whose type spells a key as a union is refused, naming the key", async () => {
+  const seen: Reached[] = []
+
+  const said = await addPageTypeTypes(
+    worldFor(catching(seen), { pageTypeSlug: "page-type", slug: "one" }, UNIONED),
+    { at: AT }
+  )
+
+  expect(said.refused ?? "").toMatch(/`name`/)
+  expect(said.refused ?? "").toMatch(/a union of other types/)
+  expect(seen).toEqual([])
+})
+
 const ABOVE_AT = "held/twos/two.page-type.ts"
 
 const ABOVE_LISTED = `export type Two = {

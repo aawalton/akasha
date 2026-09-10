@@ -31,22 +31,34 @@ const SLUG = "slug"
 
 const ABOVE = "extends"
 
+const LIST = "a list of another type"
+
+const UNION = "a union of other types"
+
 export type AddPageTypeTypesAsked = {
   readonly at: string
 }
 
-function listed(held: ts.TypeNode): boolean {
-  if (ts.isArrayTypeNode(held)) return true
-  return ts.isTypeOperatorNode(held) && held.operator === ts.SyntaxKind.ReadonlyKeyword
+function restating(held: ts.TypeNode): string | null {
+  if (ts.isArrayTypeNode(held)) return LIST
+  if (ts.isTypeOperatorNode(held) && held.operator === ts.SyntaxKind.ReadonlyKeyword) return LIST
+  if (ts.isUnionTypeNode(held)) return UNION
+  return null
 }
 
-export function listedIn(source: ts.SourceFile, of: string): string | null {
+export type Restated = {
+  readonly key: string
+  readonly why: string
+}
+
+export function restatedIn(source: ts.SourceFile, of: string): Restated | null {
   for (const one of source.statements) {
     if (!ts.isTypeAliasDeclaration(one) || one.name.text !== of) continue
-    const found: string[] = []
+    const found: Restated[] = []
     const walked = (held: ts.Node): undefined => {
-      if (ts.isPropertySignature(held) && held.type !== undefined && listed(held.type)) {
-        found.push(held.name.getText(source))
+      if (ts.isPropertySignature(held) && held.type !== undefined) {
+        const why = restating(held.type)
+        if (why !== null) found.push({ key: held.name.getText(source), why })
       }
       return ts.forEachChild(held, walked)
     }
@@ -63,12 +75,11 @@ export function declaredIn(source: ts.SourceFile, of: string): boolean {
   )
 }
 
-export type Listed = {
+export type RestatedAt = Restated & {
   readonly at: string
-  readonly key: string
 }
 
-export function listedAbove(world: World, at: string): Listed | null {
+export function restatedAbove(world: World, at: string): RestatedAt | null {
   const seen = new Set<string>()
   const left = [at]
   for (let one = left.shift(); one !== undefined; one = left.shift()) {
@@ -79,8 +90,8 @@ export function listedAbove(world: World, at: string): Listed | null {
     const slug = textAt(owner, SLUG)
     const text = world.textOf(one)
     if (slug !== null && text !== null) {
-      const key = listedIn(parsedAs(one, text), typedAs(slug))
-      if (key !== null) return { at: one, key }
+      const found = restatedIn(parsedAs(one, text), typedAs(slug))
+      if (found !== null) return { ...found, at: one }
     }
     for (const above of slugsIn(owner[ABOVE])) {
       const found = world.index.listedAt(PAGE_TYPE, above)[0]
@@ -103,11 +114,11 @@ export async function addPageTypeTypes(
   if (slug === null) return refusing(`\`${given.at}\` states no slug`)
   const to = besideAt(given.at, TYPES, HOLDS)
   if (to === null) return refusing(`\`${given.at}\` is no body another file sits beside`)
-  const many = listedAbove(world, given.at)
+  const many = restatedAbove(world, given.at)
   if (many !== null) {
     return refusing(
-      `\`${many.key}\` is written as a list of another type in \`${many.at}\`, and a written type ` +
-        `names a property's own type, so that property carries its list before this page type is ` +
+      `\`${many.key}\` is written as ${many.why} in \`${many.at}\`, and a written type names a ` +
+        `property's own type, so that property carries that shape before this page type is ` +
         `turned over`
     )
   }
