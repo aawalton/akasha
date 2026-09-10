@@ -28,6 +28,7 @@ export const codeSystem = {
     "page-type/lua-module",
     "page-type/lua-runtime-library",
     "page-type/route",
+    "page-type/app-routes",
     "page-type/router-app",
     "page-type/rust-crate",
     "page-type/rust-module",
