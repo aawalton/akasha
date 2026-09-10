@@ -2,6 +2,7 @@ import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.cod
 import { AKASHA, resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { Row } from "akasha/readouts/asking/readout-asking.module.code.ts"
 import { keepReading } from "akasha/readouts/reading/readout-reading.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import { charismaIn } from "../../../attributes/pages/charisma/charisma.attribute.code.ts"
 import { fetchConstitutionPoints } from "../../../attributes/pages/constitution/constitution.attribute.code.ts"
@@ -165,7 +166,7 @@ export async function takeReadings(root: string, now: Date = new Date()): Promis
 }
 
 if (import.meta.main) {
-  const root = process.env.AKASHA_ROOT ?? process.cwd()
+  const root = optionalEnv("AKASHA_ROOT") ?? process.cwd()
   try {
     const taken = await takeReadings(root)
     for (const one of taken.unread) process.stderr.write(`${one}\n`)
