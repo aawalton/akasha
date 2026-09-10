@@ -8,12 +8,12 @@ import {
 } from "./measure-personas.command.code.ts"
 
 const NAMED: readonly Named[] = [
-  { slug: "aura", label: "Aura", path: "personas/pages/aura/aura.persona.ts" },
-  { slug: "amy", label: "Amy", path: "personas/pages/amy/amy.persona.ts" },
-  { slug: "ione", label: "Ione", path: "personas/pages/ione/ione.persona.ts" },
+  { slug: "wren", label: "Wren", path: "lumen/pages/wren/wren.persona.ts" },
+  { slug: "dove", label: "Dove", path: "lumen/pages/dove/dove.persona.ts" },
+  { slug: "ash", label: "Ash", path: "lumen/pages/ash/ash.persona.ts" },
 ]
 
-const KEPT: Readonly<Record<string, number>> = { aura: 30.005, amy: 30.005, ione: 7 }
+const KEPT: Readonly<Record<string, number>> = { wren: 30.005, dove: 30.005, ash: 7 }
 
 const RUNGS: Readonly<Record<number, number>> = { 1: 7, 2: 28, 3: 88, 4: 268, 5: 808, 6: 2428 }
 
@@ -26,11 +26,11 @@ test("a total is floored rather than rounded", () => {
 })
 
 test("a persona carrying no total is left out of the lines", () => {
-  const named = [...NAMED, { slug: "nova", label: "Nova", path: "personas/pages/nova/nova.ts" }]
+  const named = [...NAMED, { slug: "swift", label: "Swift", path: "lumen/pages/swift/swift.ts" }]
   expect(measuredIn(named, totalOf, rungAt).map((one) => one.label)).toEqual([
-    "Amy",
-    "Aura",
-    "Ione",
+    "Dove",
+    "Wren",
+    "Ash",
   ])
 })
 
@@ -43,14 +43,14 @@ test("two personas on one total sit in the order of their names", () => {
     measuredIn(NAMED, totalOf, rungAt)
       .slice(0, 2)
       .map((one) => one.label)
-  ).toEqual(["Amy", "Aura"])
+  ).toEqual(["Dove", "Wren"])
 })
 
 test("each column is written to the width of its widest entry", () => {
   expect(linesOf(measuredIn(NAMED, totalOf, rungAt))).toEqual([
-    "Amy   2  30.00",
-    "Aura  2  30.00",
-    "Ione  1   7.00",
+    "Dove  2  30.00",
+    "Wren  2  30.00",
+    "Ash   1   7.00",
   ])
 })
 
