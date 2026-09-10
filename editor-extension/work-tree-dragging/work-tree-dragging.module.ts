@@ -117,5 +117,10 @@ export const workTreeDragging = {
       invariantKind: "departure",
       statement: "A refused move or hand tells the panel to let go of what it held.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "An intent is moved among its initiative's intents by its statement rather than by its place.",
+    },
   ],
 } as const satisfies Module

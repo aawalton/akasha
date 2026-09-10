@@ -129,6 +129,11 @@ export const workTreePanel = {
         "A row deleted while another deletion is settling names the intent that row is drawn as.",
     },
     {
+      invariantKind: "gap",
+      statement:
+        "A row dragged while a deletion is settling names the intent that row is drawn as.",
+    },
+    {
       invariantKind: "departure",
       statement: "How many rows the panel drew is said in the words the description module gives.",
     },
