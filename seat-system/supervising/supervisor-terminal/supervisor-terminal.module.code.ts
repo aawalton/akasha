@@ -1,5 +1,5 @@
-import { spawnSync } from "node:child_process"
 import { writeSync } from "node:fs"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import type { LogSink } from "../supervisor-console/supervisor-console.module.code.ts"
 
 const OSC_BACKGROUND_RESET = "\x1b]111\x07"
@@ -11,16 +11,12 @@ export function recordTermiosState(tag: string, getSink: () => LogSink): undefin
   const isatty = `0,1,2:${process.stdin.isTTY === true ? "T" : "F"},${process.stdout.isTTY === true ? "T" : "F"},${process.stderr.isTTY === true ? "T" : "F"}`
   let stty: string
   try {
-    const r = spawnSync("stty", ["-a", "-F", "/dev/tty"], {
-      stdio: ["ignore", "pipe", "pipe"],
-      encoding: "utf8",
-    })
-    if (r.status === 0 && typeof r.stdout === "string") {
-      stty = r.stdout.replace(/\s+/g, " ").trim()
+    const done = ran(["stty", "-a", "-F", "/dev/tty"])
+    if (done.code === 0) {
+      stty = done.out.replace(/\s+/g, " ").trim()
     } else {
-      const err =
-        typeof r.stderr === "string" ? r.stderr.replace(/\s+/g, " ").trim() : "(no-stderr)"
-      stty = `(stty-failed status=${r.status ?? "null"} err=${err})`
+      const err = done.err.replace(/\s+/g, " ").trim()
+      stty = `(stty-failed status=${done.code} err=${err === "" ? "(no-stderr)" : err})`
     }
   } catch (err) {
     stty = `(stty-throw ${err instanceof Error ? err.message : String(err)})`
@@ -33,7 +29,7 @@ export function recordTermiosState(tag: string, getSink: () => LogSink): undefin
 export function applySttySane(): undefined {
   if (process.stdin.isTTY !== true) return
   try {
-    spawnSync("stty", ["sane", "-F", "/dev/tty"], { stdio: "ignore" })
+    ran(["stty", "sane", "-F", "/dev/tty"])
   } catch {}
 }
 
