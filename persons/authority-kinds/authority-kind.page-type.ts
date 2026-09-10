@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-
-export type AuthorityKind = Domain
 
 export const authorityKind = {
   id: "01a0542d-0f76-7ac0-97f4-c19e1d035437",
@@ -18,4 +15,5 @@ export const authorityKind = {
     "authority-kind/page-schema",
   ],
   extends: ["page-type/domain"],
+  types: "ts",
 } as const satisfies PageType

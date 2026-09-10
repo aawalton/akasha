@@ -1,4 +1,4 @@
-import type { AuthorityKind } from "../authority-kind.page-type.ts"
+import type { AuthorityKind } from "../authority-kind.page-type.types.ts"
 
 export const pageData = {
   id: "01a0542d-4b9f-7079-9e11-326d273cc5e5",

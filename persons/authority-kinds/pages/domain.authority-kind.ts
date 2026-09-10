@@ -1,4 +1,4 @@
-import type { AuthorityKind } from "../authority-kind.page-type.ts"
+import type { AuthorityKind } from "../authority-kind.page-type.types.ts"
 
 export const domain = {
   id: "01a0542d-4b9e-77fa-a4e8-805866c6f329",
