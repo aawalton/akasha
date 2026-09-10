@@ -1,3 +1,5 @@
+import { z } from "zod"
+
 export type FieldType = "text" | "number" | "date" | "enum" | "list"
 
 export interface Field {
@@ -48,11 +50,25 @@ export interface RuleLocation {
   readonly slug: string
 }
 
+const LOCATION_GROUPS = z.object({
+  holder: z.string().optional(),
+  kind: z.string().optional(),
+  slug: z.string().optional(),
+})
+
+function parseLocation(matched: RegExpExecArray | null): RuleLocation | null {
+  if (matched === null) return null
+  const said = LOCATION_GROUPS.safeParse(matched.groups ?? {})
+  if (!said.success) return null
+  return {
+    holder: said.data.holder ?? null,
+    kind: said.data.kind ?? "",
+    slug: said.data.slug ?? "",
+  }
+}
+
 export function locationOf(ruleSet: RuleSet, relPath: string): RuleLocation | null {
-  const found = ruleSet.path.exec(relPath)
-  if (found === null) return null
-  const groups: Record<string, string | undefined> = found.groups ?? {}
-  return { holder: groups.holder ?? null, kind: groups.kind ?? "", slug: groups.slug ?? "" }
+  return parseLocation(ruleSet.path.exec(relPath))
 }
 
 export function comparisonsOf(ruleSet: RuleSet): readonly string[] {
@@ -119,6 +135,22 @@ export function mispaired(
 const VALUE = /^\s+-\s+`(.*)`\s*$/
 const HEADING = /^#\s/
 
+const CONDITION_CAPTURES = z.tuple([z.string(), z.string(), z.string()])
+
+const VALUE_CAPTURES = z.tuple([z.string(), z.string()])
+
+function parseCondition(matched: RegExpExecArray | null): readonly [string, string] | null {
+  if (matched === null) return null
+  const said = CONDITION_CAPTURES.safeParse([...matched])
+  return said.success ? [said.data[1], said.data[2]] : null
+}
+
+function parseValue(matched: RegExpExecArray | null): string | null {
+  if (matched === null) return null
+  const said = VALUE_CAPTURES.safeParse([...matched])
+  return said.success ? said.data[1] : null
+}
+
 export function parseMatch(ruleSet: RuleSet, body: string): Match {
   const spellings = spellingsOf(ruleSet)
   const names = ruleSet.fields.map((one) => one.name).join("|")
@@ -134,18 +166,18 @@ export function parseMatch(ruleSet: RuleSet, body: string): Match {
   for (const line of lines.slice(start + 1)) {
     if (HEADING.test(line)) break
     if (line.trim() === "") continue
-    const asCondition = condition.exec(line)
+    const asCondition = parseCondition(condition.exec(line))
     if (asCondition !== null) {
-      const spelling = spellings.get(asCondition[2] ?? "")
+      const spelling = spellings.get(asCondition[1])
       if (spelling !== undefined) {
-        found.push({ field: asCondition[1] ?? "", test: spelling.test, negated: spelling.negated })
+        found.push({ field: asCondition[0], test: spelling.test, negated: spelling.negated })
         values.push([])
         continue
       }
     }
-    const asValue = VALUE.exec(line)
+    const asValue = parseValue(VALUE.exec(line))
     if (asValue !== null && values.length > 0) {
-      values[values.length - 1]?.push(asValue[1] ?? "")
+      values[values.length - 1]?.push(asValue)
       continue
     }
     stray += 1
