@@ -5,11 +5,11 @@ import { HOME_NAV_SLUG } from "@akasha/alanwalton-web/home-dni"
 import { PageLayout, PageLayoutSkeleton, PageTitle } from "@akasha/design-layout/page-layout"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { reportError } from "@akasha/errors-client/error-reporting"
 import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { ViewPageContent } from "@akasha/pages-ui-components/view-page-content"
 import { buildPageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
+import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
 import { useEffect, useMemo } from "react"
 
 const NAV_SLUG = toPageTypeSlug("nav")

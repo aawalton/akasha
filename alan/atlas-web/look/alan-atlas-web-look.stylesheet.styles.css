@@ -1,7 +1,6 @@
 @import "tailwindcss";
 @import "@akasha/design-system/styles.css";
 
-@source "../../harness/errors-client/**/*.{ts,tsx}";
 @source "../../harness/supabase-rr/**/*.{ts,tsx}";
 @source "../../../design/forms/**/*.{ts,tsx}";
 @source "../../../design/layout/**/*.{ts,tsx}";

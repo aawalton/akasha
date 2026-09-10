@@ -45,7 +45,6 @@
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
     "@akasha/design-system": "workspace:*",
-    "@akasha/errors-client": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/object-store": "workspace:*",
     "@akasha/pages": "workspace:*",

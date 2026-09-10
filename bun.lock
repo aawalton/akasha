@@ -81,7 +81,6 @@
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
-        "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/object-store": "workspace:*",
         "@akasha/pages-access": "workspace:*",
@@ -123,15 +122,6 @@
         "zod": "^4.3.6",
       },
     },
-    "alan/harness/errors-client": {
-      "name": "@akasha/errors-client",
-      "dependencies": {
-        "@akasha/errors-core": "workspace:*",
-      },
-      "peerDependencies": {
-        "react": "^18 || ^19",
-      },
-    },
     "alan/harness/errors-core": {
       "name": "@akasha/errors-core",
       "dependencies": {
@@ -171,7 +161,6 @@
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
-        "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/object-store": "workspace:*",
         "@akasha/pages": "workspace:*",
@@ -245,7 +234,6 @@
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
-        "@akasha/errors-client": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-components": "workspace:*",
@@ -588,7 +576,6 @@
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
-        "@akasha/errors-client": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
@@ -630,7 +617,6 @@
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
-        "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
@@ -665,7 +651,6 @@
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
-        "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
@@ -707,7 +692,6 @@
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
-        "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/persons": "workspace:*",
@@ -911,7 +895,6 @@
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
-        "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
@@ -1001,8 +984,6 @@
     "@akasha/design-primitives": ["@akasha/design-primitives@workspace:design/primitives"],
 
     "@akasha/design-system": ["@akasha/design-system@workspace:design/system"],
-
-    "@akasha/errors-client": ["@akasha/errors-client@workspace:alan/harness/errors-client"],
 
     "@akasha/errors-core": ["@akasha/errors-core@workspace:alan/harness/errors-core"],
 

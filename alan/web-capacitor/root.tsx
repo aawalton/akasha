@@ -8,13 +8,6 @@ import { PageLayoutSkeleton } from "@akasha/design-layout/page-layout"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
-import { ErrorCaptureInstaller } from "@akasha/errors-client/error-capture-installer"
-import {
-  reportError,
-  setErrorReportOrigin,
-  setReleaseSha,
-} from "@akasha/errors-client/error-reporting"
-import { useReportRenderError } from "@akasha/errors-client/use-report-render-error"
 import { PagesUICapabilityHosts } from "@akasha/pages-ui/capabilities/capability-hosts"
 import { configureLocalPositionReader } from "@akasha/pages-ui-components/local-position-port"
 import { setStoreDiagnosticsSink } from "@akasha/pages-ui-store/diagnostics"
@@ -24,6 +17,13 @@ import {
   configurePagesStoreFetch,
 } from "@akasha/pages-ui-store/singleton"
 import literataLatinWoff2 from "@fontsource-variable/literata/files/literata-latin-wght-normal.woff2?url"
+import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
+import {
+  reportError,
+  setErrorReportOrigin,
+  setReleaseSha,
+} from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
+import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
 import { parseBuildSha } from "akasha/alan/harness/web-build-version/build-sha/build-sha.module.code.ts"
 import { type ReactNode, useEffect } from "react"
 import {

@@ -136,7 +136,6 @@
     "@akasha/design-layout": "workspace:*",
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
-    "@akasha/errors-client": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages-ui": "workspace:*",

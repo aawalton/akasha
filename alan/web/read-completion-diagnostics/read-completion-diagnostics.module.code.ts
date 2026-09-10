@@ -1,4 +1,4 @@
-import { reportError } from "@akasha/errors-client/error-reporting"
+import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
 
 export type ReadCompletionDiagReason =
   | "enqueued"

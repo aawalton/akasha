@@ -29,7 +29,6 @@
     "@capgo/background-geolocation": "^8.3.1",
     "@protomaps/basemaps": "^5.7.2",
     "@akasha/design-system": "workspace:*",
-    "@akasha/errors-client": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/object-store": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",

@@ -1,5 +1,5 @@
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
-import { useReportRenderError } from "@akasha/errors-client/use-report-render-error"
+import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
 import { isRouteErrorResponse, Link, useRouteError } from "react-router"
 
 export function PageDetailErrorBoundary() {

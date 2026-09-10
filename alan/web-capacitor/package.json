@@ -19,7 +19,6 @@
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
     "@akasha/design-system": "workspace:*",
-    "@akasha/errors-client": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
     "@akasha/pages-ui-components": "workspace:*",
