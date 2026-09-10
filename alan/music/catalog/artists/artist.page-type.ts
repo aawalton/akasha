@@ -6,7 +6,7 @@ import type { Reaction } from "./properties/reaction.file-property.ts"
 
 export type Artist = CollectionExternal & {
   title: Title
-  genre?: readonly ArtistGenre[]
+  genre?: ArtistGenre
   reaction?: Reaction
 }
 

@@ -1,6 +1,7 @@
+import type { List } from "@akasha/pages/page-property"
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type ArtistGenre = string
+export type ArtistGenre = List<string>
 
 export const artistGenre = {
   id: "01a06243-144b-7010-af12-3f9a28709cb9",
