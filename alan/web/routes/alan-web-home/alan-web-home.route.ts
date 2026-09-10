@@ -11,7 +11,11 @@ export const alanWebHome = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reader who is not signed in is shown the title alone.",
+      statement: "A reader who is not signed in is sent to the sign-in route.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A signed-in reader with no home nav item is shown the title alone.",
     },
   ],
 } as const satisfies Route

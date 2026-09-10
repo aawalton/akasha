@@ -1,10 +1,17 @@
 import { signInWithPassword } from "akasha/alan/harness/supabase-rr/auth-client/auth-client.module.code.ts"
+import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { AuthPageContent } from "akasha/design/patterns/auth-page-content/auth-page-content.module.code.tsx"
 import { safeRedirectTarget } from "akasha/pages/url/safe-target/safe-target.module.code.ts"
-import { useSearchParams } from "react-router"
+import { redirect, useSearchParams } from "react-router"
 
 export function meta() {
   return [{ title: "Sign In" }]
+}
+
+export async function loader({ request }: { request: Request }) {
+  const { user, headers } = await getUser(request)
+  if (user) throw redirect("/home", { headers })
+  return null
 }
 
 const ALLOWED_REDIRECT_HOSTS = ["alanwalton.com"] as const

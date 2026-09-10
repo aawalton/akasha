@@ -8,4 +8,10 @@ export const alanWebSignIn = {
   definition: "the form a reader signs in through",
   code: "tsx",
   urlPath: "sign-in",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A signed-in reader is sent to the home route.",
+    },
+  ],
 } as const satisfies Route
