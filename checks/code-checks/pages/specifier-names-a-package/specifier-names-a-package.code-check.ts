@@ -65,7 +65,6 @@ export const specifierNamesAPackage = {
       invariantKind: "departure",
       statement: "The scan deciding whether to parse reads the text rather than the parse.",
     },
-
     {
       invariantKind: "departure",
       statement: "Audit is the phase this check is for.",
@@ -98,4 +97,5 @@ export const specifierNamesAPackage = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
+  experimental: true,
 } as const satisfies CodeCheck
