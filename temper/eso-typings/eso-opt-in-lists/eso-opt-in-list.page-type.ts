@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { Tokens } from "./properties/tokens.file-property.ts"
-
-export type EsoOptInList = Domain & {
-  tokens: Tokens
-}
 
 export const esoOptInList = {
   id: "01a081b0-6ef0-79f7-8191-4b78fb717423",
@@ -16,4 +10,5 @@ export const esoOptInList = {
   parts: ["file-property/tokens"],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "file-property/tokens", required: true, many: false }],
+  types: "ts",
 } as const satisfies PageType
