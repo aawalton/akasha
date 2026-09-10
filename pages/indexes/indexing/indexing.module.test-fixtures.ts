@@ -15,7 +15,7 @@ import {
   thePage,
   VOCABULARY,
 } from "../fixture-world/fixture-world.module.code.ts"
-import { settlingOver } from "../index-settling/index-settling.module.code.ts"
+import { settlingOver } from "../settling/index-settling.module.code.ts"
 import { readingAt } from "../surface/index-surface.module.code.ts"
 import { indexingAt } from "./indexing.module.code.ts"
 
