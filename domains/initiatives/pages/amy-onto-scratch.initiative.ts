@@ -9,6 +9,9 @@ export const amyOntoScratch = {
   persona: "amy",
   intents: [
     {
+      statement: "Scratch D.",
+    },
+    {
       statement: "Scratch B.",
     },
     {
@@ -16,9 +19,6 @@ export const amyOntoScratch = {
     },
     {
       statement: "Scratch A.",
-    },
-    {
-      statement: "Scratch D.",
     },
   ],
 } as const satisfies Initiative
