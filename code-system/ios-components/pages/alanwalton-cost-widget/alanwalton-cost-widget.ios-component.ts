@@ -28,5 +28,9 @@ export const alanwaltonCostWidget = {
       invariantKind: "departure",
       statement: "Which moment that is comes off the feed rather than being worked out here.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The caption counts down in timer form rather than in spelled words.",
+    },
   ],
 } as const satisfies IosComponent

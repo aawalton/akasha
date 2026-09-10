@@ -21,8 +21,8 @@ enum CostFeed: WidgetFeed {
 struct CostHomeView: View {
     let entry: FeedEntry<CostResponse>
 
-    // A HARNESS DRAWING THIS TILE IN ANOTHER COUNTDOWN FORM HANDS THAT FORM IN.
-    var countdown: RingCountdown = .relative
+    // THE TILE COUNTS DOWN AS A TIMER, AND A HARNESS DRAWING ANOTHER FORM HANDS THAT FORM IN.
+    var countdown: RingCountdown = .timer
 
     var body: some View {
         Group {

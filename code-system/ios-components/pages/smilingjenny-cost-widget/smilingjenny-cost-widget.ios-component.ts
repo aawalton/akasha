@@ -36,5 +36,9 @@ export const smilingjennyCostWidget = {
       invariantKind: "departure",
       statement: "A tap on this tile opens nothing, Jenny's app holding no page for the cost.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The caption counts down in timer form rather than in spelled words.",
+    },
   ],
 } as const satisfies IosComponent
