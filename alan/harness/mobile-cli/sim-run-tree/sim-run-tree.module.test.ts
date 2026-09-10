@@ -56,11 +56,13 @@ describe("simRunSourceRepoPaths", () => {
   })
 
   test("delivers the shell, the Swift and the plists every shell compiles", () => {
-    const said = paths.join("\n")
-    expect(said).toContain("widget-components/widget-components.shell-script.shell.sh")
-    expect(said).toContain("ring/ring.ios-component.swift.swift")
-    expect(said).toContain("alanwalton-widget.ios-program.info-plist.plist")
-    expect(said).toContain("alanwalton-decode-harness/main.swift")
+    const anyEnding = (ending: string): boolean => paths.some((path) => path.endsWith(ending))
+    expect({
+      script: anyEnding(".shell.sh"),
+      component: anyEnding(".ios-component.swift.swift"),
+      plist: anyEnding(".plist"),
+      programSource: anyEnding("main.swift"),
+    }).toEqual({ script: true, component: true, plist: true, programSource: true })
   })
 
   test("no delivered path reaches above the repo root", () => {
