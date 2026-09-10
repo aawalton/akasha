@@ -1,4 +1,8 @@
-export const UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
+import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
+
+export function isAgentId(agentId: string): boolean {
+  return lowerUuid(agentId.toLowerCase())
+}
 
 const CLAUDE_CHILD_CMDLINE_RE = /\bclaude\b.*--dangerously-skip-permissions/
 
@@ -33,14 +37,13 @@ export type ProcLivenessEntry = {
   ppid?: number
 }
 
-/** The agent ids of every entry an agent is named on and the cmdline test holds of. */
 function agentIdsWhere(
   entries: readonly ProcLivenessEntry[],
   held: (cmdline: string) => boolean
 ): Set<string> {
   const live = new Set<string>()
   for (const { agentId, cmdline } of entries) {
-    if (!UUID_RE.test(agentId)) continue
+    if (!isAgentId(agentId)) continue
     if (!held(cmdline)) continue
     live.add(agentId)
   }
@@ -65,7 +68,7 @@ export function backgroundTaskCmdlinesByAgent(
   const liveClaudeChildIds = liveClaudeChildIdsFromProc(entries)
   const out = new Map<string, string[]>()
   for (const { agentId, cmdline, state } of entries) {
-    if (!UUID_RE.test(agentId)) continue
+    if (!isAgentId(agentId)) continue
     if (!liveClaudeChildIds.has(agentId)) continue
     if (isAgentProcessCmdline(cmdline)) continue
     if (isSeatInfrastructureCmdline(cmdline)) continue
@@ -88,7 +91,7 @@ export function liveAgentPidsFromProc(
 ): Map<string, number[]> {
   const byId = new Map<string, number[]>()
   for (const { agentId, cmdline, pid } of entries) {
-    if (!UUID_RE.test(agentId)) continue
+    if (!isAgentId(agentId)) continue
     if (!isAgentProcessCmdline(cmdline)) continue
     const existing = byId.get(agentId)
     if (existing === undefined) byId.set(agentId, [pid])
@@ -97,12 +100,6 @@ export function liveAgentPidsFromProc(
   return byId
 }
 
-// A SUBAGENT'S AGENT ID REACHES NO `AGENT_ID`. A subagent runs inside its seat's own Claude
-// process, so every process beneath it names the seat under `AGENT_ID` rather than the subagent.
-// What names the subagent is `ACTING_AGENT_ID`, which the harness sets on each process a subagent
-// spawns. A process carrying one proves that subagent is at work. Carrying none proves nothing,
-// because a subagent waiting on the model has spawned no process at all, so this answers who is
-// alive and never who is gone.
 export function actingAgentPidsFromProc(
   entries: readonly ProcLivenessEntry[]
 ): Map<string, number[]> {

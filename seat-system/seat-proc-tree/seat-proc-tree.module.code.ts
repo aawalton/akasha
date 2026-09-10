@@ -1,8 +1,8 @@
 import {
+  isAgentId,
   isAgentProcessCmdline,
   isClaudeChildCmdline,
   type ProcLivenessEntry,
-  UUID_RE,
 } from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
 
 export function newestProcStartMsByAgent(
@@ -10,7 +10,7 @@ export function newestProcStartMsByAgent(
 ): Map<string, number | null> {
   const out = new Map<string, number | null>()
   for (const { agentId, startMs, state } of entries) {
-    if (!UUID_RE.test(agentId)) continue
+    if (!isAgentId(agentId)) continue
     if (startMs === undefined) continue
     if (state === "D") continue
     const prev = out.get(agentId)
@@ -26,7 +26,7 @@ export function claudeChildProcsByAgent(
 ): Map<string, ClaudeChildProc[]> {
   const byId = new Map<string, ClaudeChildProc[]>()
   for (const { agentId, cmdline, pid, ppid, startMs } of entries) {
-    if (!UUID_RE.test(agentId)) continue
+    if (!isAgentId(agentId)) continue
     if (!isClaudeChildCmdline(cmdline)) continue
     const child: ClaudeChildProc = startMs === undefined ? { pid, ppid } : { pid, ppid, startMs }
     const existing = byId.get(agentId)
