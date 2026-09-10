@@ -15,8 +15,9 @@ import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.modu
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Stated } from "../change-preparing/change-preparing.module.code.ts"
 import { rowsFrom, rowsOf } from "../change-preparing/change-preparing.module.code.ts"
+import type { Bodies, Body } from "../drafting/drafting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import type { Drafted, FileEdit, Landed, Refused } from "./landing.module.code.ts"
+import type { Drafted, Landed, Refused } from "./landing.module.code.ts"
 import { baseOf, landing } from "./landing.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
@@ -54,13 +55,19 @@ export const PAGE = "akasha/a.domain.ts"
 
 export const DRAFT = { page: PAGE }
 
-function statedIn(root: string, changes: readonly FileEdit[]): Stated {
-  const held = rowsOf(changes)
+export type Held = { readonly path: string; readonly body: Uint8Array | null }
+
+function bodiesOf(changes: readonly Held[]): Bodies {
+  return new Map(changes.map((one): [string, Body] => [one.path, { was: null, body: one.body }]))
+}
+
+function statedIn(root: string, changes: readonly Held[]): Stated {
+  const held = rowsOf(bodiesOf(changes))
   if ("why" in held) return held
   return rowsFrom(root, baseOf(root), held.rows)
 }
 
-export function rowsIn(root: string, changes: readonly FileEdit[]): readonly FileChange[] {
+export function rowsIn(root: string, changes: readonly Held[]): readonly FileChange[] {
   const said = statedIn(root, changes)
   if ("why" in said) throw new Error(said.why)
   return said.rows
@@ -68,7 +75,7 @@ export function rowsIn(root: string, changes: readonly FileEdit[]): readonly Fil
 
 export function drafting(
   root: string,
-  changes: readonly FileEdit[],
+  changes: readonly Held[],
   gate: Judging = ADMITS
 ): Promise<Drafted | Refused> {
   const said = statedIn(root, changes)
@@ -154,7 +161,7 @@ const FANOUT = 2
 
 export const IGNORED_OUT: readonly string[] = [".gitignore", "new.txt", "one.txt"]
 
-const SPLIT: readonly FileEdit[] = [
+const SPLIT: readonly Held[] = [
   { path: "new.txt", body: bytesOf(PROPOSED) },
   { path: HELD_OUT, body: bytesOf("unsaid") },
 ]
@@ -281,7 +288,7 @@ export const identityAmong = (found: readonly string[]): readonly string[] =>
 
 const REAL: readonly Value[] = [textProperty, idPage, slugPage]
 
-export const CARRIED: readonly FileEdit[] = [
+export const CARRIED: readonly Held[] = [
   ...VOCABULARY.map(([path, body]) => ({ path, body: bytesOf(body) })),
   ...REAL.map((page) => {
     const [at, value] = thePage(page)

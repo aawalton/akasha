@@ -9,8 +9,9 @@ import type {
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { mappedFor } from "../address-mapping/address-mapping.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
+import type { Bodies } from "../drafting/drafting.module.code.ts"
 import { unexportableIn } from "../export-naming/export-naming.module.code.ts"
-import type { FileEdit, Refused } from "../landing/landing.module.code.ts"
+import type { Refused } from "../landing/landing.module.code.ts"
 import { changeOf } from "../landing/landing.module.code.ts"
 import { lockingFor } from "../manifest-locking/manifest-locking.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
@@ -49,16 +50,16 @@ function bodyIn(one: Adding | Replacing): string {
 
 export type Stated = { readonly rows: readonly FileChange[] } | { readonly why: string }
 
-export function rowsOf(changes: readonly FileEdit[]): Stated {
+export function rowsOf(held: Bodies): Stated {
   const rows: FileChange[] = []
-  for (const one of changes) {
+  for (const [path, one] of held) {
     if (one.body === null) {
-      rows.push({ kind: "remove", path: one.path })
+      rows.push({ kind: "remove", path })
       continue
     }
     const content = textFrom(one.body)
-    if (content === null) return { why: `${one.path} ${NO_TEXT}` }
-    rows.push({ kind: "add", path: one.path, content })
+    if (content === null) return { why: `${path} ${NO_TEXT}` }
+    rows.push({ kind: "add", path, content })
   }
   return { rows }
 }

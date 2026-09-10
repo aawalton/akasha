@@ -11,7 +11,7 @@ import { preparing, rowsOf } from "../change-preparing/change-preparing.module.c
 import { type Bodies, owedOf, type Running, rebasedHeld } from "../drafting/drafting.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
-import { type FileEdit, landing, type Refused } from "../landing/landing.module.code.ts"
+import { landing, type Refused } from "../landing/landing.module.code.ts"
 import { carryLanded } from "../landing-reading/landing-reading.module.code.ts"
 import { defaultMessage, formattedSaid } from "../landing-saying/landing-saying.module.code.ts"
 import { installingIn } from "../manifest-locking/manifest-locking.module.code.ts"
@@ -53,10 +53,6 @@ const NO_MEASURE = "`measure` takes `true`, and this one says something else"
 
 const NOTHING_MEASURED =
   "this apply was to measure, and nothing it carries sits beside a test, so nothing landed"
-
-function editsOf(held: Bodies): readonly FileEdit[] {
-  return [...held].map(([path, one]) => ({ path, body: one.body }))
-}
 
 function seatOver(root: string, page: string): string | null {
   const said = partedIn(page)
@@ -265,7 +261,7 @@ export async function applied(
   const running = holding.running
   const gate = running.checks ? judging : NO_GATE
   const moving = [...moves, ...(holding.moves ?? [])]
-  const stated = rowsOf(editsOf(said.held))
+  const stated = rowsOf(said.held)
   if ("why" in stated) return { refusals: [stated.why, KEPT_AS_IT_WAS] }
   const prepared = preparing(root, head, stated.rows, moving, holding.formatted)
   if ("refusals" in prepared) return { refusals: [...prepared.refusals, UNEXPORTABLE] }
