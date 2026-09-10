@@ -238,5 +238,9 @@ export const changeRunning = {
       invariantKind: "departure",
       statement: "A call naming no change is refused with every change the index has.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A refusal composed where no index answers is said without that command.",
+    },
   ],
 } as const satisfies Module

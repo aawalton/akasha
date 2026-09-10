@@ -14,7 +14,7 @@ import {
 import { decodeUtf8 } from "akasha/code-system/utf8-body/utf8-body.module.code.ts"
 import { changingOf, owedIn } from "akasha/context/modules/warranting/warranting.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { indexThere, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import { pathsOf, replayed } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type {
@@ -47,7 +47,8 @@ export const PAGE_LANDING =
   " that subagent with no page at all. Run this from a terminal to put the page up, then ask again:"
 
 export function noPageSaid(root: string, agentId: string | null): string {
-  return `${NO_PAGE}. ${PAGE_LANDING}\n  ${puttingUpSaid(root, agentId)}`
+  const said = puttingUpSaid(root, agentId)
+  return said === null ? NO_PAGE : `${NO_PAGE}. ${PAGE_LANDING}\n  ${said}`
 }
 
 const BARE: readonly string[] = []
@@ -385,7 +386,8 @@ const TS = "ts"
 
 const PUTTING_UP = "write"
 
-function presenceAt(root: string): string {
+function presenceAt(root: string): string | null {
+  if (!indexThere(root)) return null
   const page = listedAt(root, MODULE, PRESENCE)[0]
   const at = page === undefined ? null : besideAt(page.path, CODE, TS)
   if (at === null) {
@@ -394,12 +396,14 @@ function presenceAt(root: string): string {
   return at
 }
 
-export function puttingUpSaid(root: string, agentId: string | null): string {
+export function puttingUpSaid(root: string, agentId: string | null): string | null {
+  const at = presenceAt(root)
+  if (at === null) return null
   const mark = agentId === null ? -1 : agentId.indexOf(SUBAGENT_MARK)
   const held =
     agentId === null || mark <= 0
       ? "<the seat> <the id the subagent runs under> <the kind it was dispatched as> <the seat's id>"
       : `<the seat> ${agentId.slice(mark + SUBAGENT_MARK.length)}` +
         ` <the kind it was dispatched as> ${agentId.slice(0, mark)}`
-  return `bun ${join(root, presenceAt(root))} ${root} ${PUTTING_UP} ${held}`
+  return `bun ${join(root, at)} ${root} ${PUTTING_UP} ${held}`
 }
