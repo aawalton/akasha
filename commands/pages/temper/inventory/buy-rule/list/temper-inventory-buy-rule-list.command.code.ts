@@ -1,4 +1,4 @@
-import { USER_ID } from "@akasha/supabase-auth/user-id"
+import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
 import { computeItemStock } from "akasha/temper/items-core/compute-item-stock/compute-item-stock.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import { computeBuyShortfall } from "akasha/temper/items-rules-core/buy-rule-eval/buy-rule-eval.module.code.ts"

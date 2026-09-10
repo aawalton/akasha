@@ -44,7 +44,7 @@ export const alanHarness = {
     "domain/web-build-version",
     "domain/recurrence",
     "domain/reminder-system",
-    "workspace-package/supabase-auth",
+    "domain/supabase-auth",
     "domain/supabase-server",
     "domain/errors-core",
     "domain/supabase-client",

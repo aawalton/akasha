@@ -1,7 +1,10 @@
 import { chmodSync, mkdirSync } from "node:fs"
 import { dirname } from "node:path"
-import { isInvalidCredentialsError, signInWithPassword } from "@akasha/supabase-auth/auth"
-import { assertCredentialPathAllowed } from "@akasha/supabase-auth/protected-user"
+import {
+  isInvalidCredentialsError,
+  signInWithPassword,
+} from "akasha/alan/harness/supabase-auth/auth/auth.module.code.ts"
+import { assertCredentialPathAllowed } from "akasha/alan/harness/supabase-auth/protected-user/protected-user.module.code.ts"
 import { createClient } from "akasha/alan/harness/supabase-client/user-client/user-client.module.code.ts"
 import {
   DEFAULT_THROWAWAY_EMAIL,

@@ -1,6 +1,6 @@
 "use client"
 
-import type { SupabaseUser } from "@akasha/supabase-auth/supabase-user"
+import type { SupabaseUser } from "akasha/alan/harness/supabase-auth/supabase-user/supabase-user.module.code.ts"
 import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { PageTabsTrigger, Tabs, TabsList } from "akasha/design/patterns/tabs/tabs.module.code.tsx"

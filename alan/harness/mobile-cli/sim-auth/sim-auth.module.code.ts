@@ -1,5 +1,5 @@
-import { assertCredentialPathAllowed } from "@akasha/supabase-auth/protected-user"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { assertCredentialPathAllowed } from "akasha/alan/harness/supabase-auth/protected-user/protected-user.module.code.ts"
 import { z } from "zod"
 
 export const SUPABASE_STORAGE_KEY = "sb-supabase-auth-token"

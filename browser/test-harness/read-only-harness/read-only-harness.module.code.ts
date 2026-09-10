@@ -1,4 +1,4 @@
-import { assertCredentialPathAllowed } from "@akasha/supabase-auth/protected-user"
+import { assertCredentialPathAllowed } from "akasha/alan/harness/supabase-auth/protected-user/protected-user.module.code.ts"
 import { type Browser, type BrowserContext, chromium, type Page } from "playwright-core"
 import type {
   BrowserTestEnv,

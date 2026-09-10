@@ -1,4 +1,4 @@
-import type { SupabaseUser } from "@akasha/supabase-auth/supabase-user"
+import type { SupabaseUser } from "akasha/alan/harness/supabase-auth/supabase-user/supabase-user.module.code.ts"
 import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { redirect } from "react-router"
 

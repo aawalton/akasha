@@ -1,4 +1,4 @@
-import type { SupabaseUser } from "@akasha/supabase-auth/supabase-user"
+import type { SupabaseUser } from "akasha/alan/harness/supabase-auth/supabase-user/supabase-user.module.code.ts"
 import {
   getRequestServerClient,
   resolveRequestSession,

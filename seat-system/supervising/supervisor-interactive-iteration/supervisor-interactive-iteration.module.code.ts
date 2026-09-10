@@ -1,4 +1,4 @@
-import { USER_ID } from "@akasha/supabase-auth/user-id"
+import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
 import { claimSeatSupervision } from "akasha/seat-system/supervising/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import { createAgent } from "akasha/seat-system/supervising/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import type { SeatResume } from "akasha/seat-system/supervising/supervisor-args/supervisor-args.module.code.ts"

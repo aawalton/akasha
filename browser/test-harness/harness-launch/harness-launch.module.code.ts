@@ -1,5 +1,5 @@
-import { signInWithPassword } from "@akasha/supabase-auth/auth"
 import { createClient } from "@supabase/supabase-js"
+import { signInWithPassword } from "akasha/alan/harness/supabase-auth/auth/auth.module.code.ts"
 import { buildBrowserLaunchEnv } from "akasha/browser/launch-env/launch-env/launch-env.module.code.ts"
 import { type Browser, type BrowserContext, chromium, type Page } from "playwright-core"
 import {
