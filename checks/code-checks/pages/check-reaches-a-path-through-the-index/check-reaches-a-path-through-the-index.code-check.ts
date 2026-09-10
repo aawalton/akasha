@@ -5,7 +5,7 @@ export const checkReachesAPathThroughTheIndex = {
   pageTypeSlug: "code-check",
   type: "code-check",
   slug: "check-reaches-a-path-through-the-index",
-  definition: "the check refusing a page's code that lists a path the index answers for",
+  definition: "the check refusing a page's code that spells or lists a path the index answers for",
   runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
@@ -34,7 +34,23 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "A literal reaching anything else is let through.",
+      statement: "A literal naming a path the index has a page at is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder above a page is no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A literal naming a folder is refused only where a listing reaches that literal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A literal naming nothing the index answers for is let through.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A literal naming a page is refused once, at the line that literal sits on.",
     },
     {
       invariantKind: "departure",
@@ -96,6 +112,10 @@ export const checkReachesAPathThroughTheIndex = {
     {
       invariantKind: "departure",
       statement: "Only a page's code is judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's code is every file of that page whose last section is `code`.",
     },
     {
       invariantKind: "departure",
