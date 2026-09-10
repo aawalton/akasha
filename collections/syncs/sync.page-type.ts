@@ -1,10 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { SyncRuns } from "./properties/sync-runs.page-property-entry.ts"
-
-export type Sync = Page & {
-  syncRuns: SyncRuns
-}
 
 export const sync = {
   id: "01a06835-e289-7ad6-8588-3a59938a1140",
@@ -34,4 +28,5 @@ export const sync = {
       statement: "The value with the pull in flight is never committed.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

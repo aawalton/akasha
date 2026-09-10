@@ -1,4 +1,4 @@
-import type { Sync } from "../../sync.page-type.ts"
+import type { Sync } from "../../sync.page-type.types.ts"
 
 export const theGreatCourses = {
   id: "01a06861-f664-7a14-8c9d-9c4ffcd6c4ac",

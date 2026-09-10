@@ -1,4 +1,4 @@
-import type { Sync } from "../../sync.page-type.ts"
+import type { Sync } from "../../sync.page-type.types.ts"
 
 export const provoLibrary = {
   id: "01a06861-f664-787c-bb9e-f1ef8f5d25de",
