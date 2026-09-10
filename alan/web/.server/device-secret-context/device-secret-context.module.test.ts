@@ -8,6 +8,7 @@ import {
   generateDeviceSecret,
   hashDeviceSecret,
 } from "akasha/persons/device-secret-keeping/device-secret-keeping.module.code.ts"
+import { z } from "zod"
 import {
   readDeviceSecretAdmission,
   resolveDeviceSecretContext,
@@ -39,9 +40,13 @@ function pageFor(secret: string, over: Record<string, string> = {}) {
   }
 }
 
+const askedShape = z.object({
+  where: z.record(z.string(), z.object({ is: z.unknown() })).optional(),
+})
+
 function storeHolding(rows: readonly Record<string, unknown>[]): Fetcher {
   return async (_url, init) => {
-    const asked = JSON.parse(String(init.body)) as { where?: Record<string, { is?: unknown }> }
+    const asked = askedShape.parse(JSON.parse(String(init.body)))
     const held = rows.filter((row) => {
       for (const [key, wanted] of Object.entries(asked.where ?? {})) {
         if (row[key] !== wanted.is) return false
