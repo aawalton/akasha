@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-
-export type Repo = Domain
 
 export const repo = {
   id: "01a06835-e289-7ce5-b198-71205e81f789",
@@ -18,4 +15,5 @@ export const repo = {
       statement: "The repository a change lands in settles how that change lands.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
