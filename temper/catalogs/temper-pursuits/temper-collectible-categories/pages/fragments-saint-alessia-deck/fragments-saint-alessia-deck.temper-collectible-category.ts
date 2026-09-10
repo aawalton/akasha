@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.ts"
+import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
 
 export const fragmentsSaintAlessiaDeck = {
   id: "01a06165-9168-700e-bb32-6ae917e78a9d",

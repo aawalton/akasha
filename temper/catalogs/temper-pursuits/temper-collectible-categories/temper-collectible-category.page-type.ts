@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperPursuitThing } from "../temper-pursuit-things/temper-pursuit-thing.page-type.types.ts"
-import type { Collectibles } from "./properties/collectibles.page-property-entry.ts"
-import type { EsoCategoryIndex } from "./properties/eso-category-index.number-property.ts"
-
-export type TemperCollectibleCategory = TemperPursuitThing & {
-  esoCategoryIndex?: EsoCategoryIndex
-  collectibles?: Collectibles
-}
 
 export const temperCollectibleCategory = {
   id: "01a06165-ae0e-7003-b36d-6529ae625fb0",
@@ -39,4 +31,5 @@ export const temperCollectibleCategory = {
       statement: "A collectible a category has is a line of the file beside the page.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

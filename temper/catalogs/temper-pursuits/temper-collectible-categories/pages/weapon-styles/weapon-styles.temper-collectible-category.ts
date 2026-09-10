@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.ts"
+import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
 
 export const weaponStyles = {
   id: "01a06165-916a-701e-8995-83cce6116490",

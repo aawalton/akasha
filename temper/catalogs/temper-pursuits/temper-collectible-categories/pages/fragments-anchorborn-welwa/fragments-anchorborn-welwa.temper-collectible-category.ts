@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.ts"
+import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
 
 export const fragmentsAnchorbornWelwa = {
   id: "01a06165-9167-7007-b318-5556a254c230",

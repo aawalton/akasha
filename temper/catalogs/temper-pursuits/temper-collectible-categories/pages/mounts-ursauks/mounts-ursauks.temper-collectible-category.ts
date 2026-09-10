@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.ts"
+import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
 
 export const mountsUrsauks = {
   id: "01a06165-916a-7005-989b-fe3858c9f637",

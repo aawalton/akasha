@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.ts"
+import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
 
 export const appearanceMajorAdornments = {
   id: "01a06165-9165-7001-94ba-3b90b180a2ad",

@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.ts"
+import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
 
 export const customizedActionsWoodCutting = {
   id: "01a06165-9167-7002-96bf-47a5aa6efef7",

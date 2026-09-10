@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.ts"
+import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
 
 export const fragmentsPlanemeldsMaster = {
   id: "01a06165-9168-7008-a71c-6696c2b03016",

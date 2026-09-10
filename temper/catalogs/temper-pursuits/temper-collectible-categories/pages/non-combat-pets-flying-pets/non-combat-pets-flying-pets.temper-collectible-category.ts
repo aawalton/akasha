@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.ts"
+import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
 
 export const nonCombatPetsFlyingPets = {
   id: "01a06165-916a-700d-94b2-571f57c8943c",

@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.ts"
+import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
 
 export const fragmentsWildgrownChapelOfJulianos = {
   id: "01a06165-9168-7019-a624-c1186598678d",

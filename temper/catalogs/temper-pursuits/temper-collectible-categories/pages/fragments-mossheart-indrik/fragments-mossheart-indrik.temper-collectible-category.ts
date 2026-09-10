@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.ts"
+import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
 
 export const fragmentsMossheartIndrik = {
   id: "01a06165-9168-7002-87a4-273778a1583b",

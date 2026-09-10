@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.ts"
+import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
 
 export const nonCombatPetsDaedric = {
   id: "01a06165-916a-700a-832a-11e8ddacac7d",

@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.ts"
+import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
 
 export const mountsNixOxen = {
   id: "01a06165-9169-7014-9a8c-a08fc3df33b6",

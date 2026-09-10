@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.ts"
+import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
 
 export const fragmentsThornsBiteRevelryGown = {
   id: "01a06165-9168-7015-bcf6-d61c411c06d6",

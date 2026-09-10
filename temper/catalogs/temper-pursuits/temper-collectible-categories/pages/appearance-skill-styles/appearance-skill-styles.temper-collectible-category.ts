@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.ts"
+import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
 
 export const appearanceSkillStyles = {
   id: "01a06165-9165-7005-a3d4-7a19b42daa36",
