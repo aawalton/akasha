@@ -1,4 +1,4 @@
-import type { ReadoutScale } from "../readout-scale.page-type.ts"
+import type { ReadoutScale } from "../readout-scale.page-type.types.ts"
 
 export const liveCount = {
   id: "01a06559-e74c-7505-a0c3-0cea87098a33",

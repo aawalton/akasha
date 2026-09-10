@@ -1,4 +1,4 @@
-import type { ReadoutScale } from "../readout-scale.page-type.ts"
+import type { ReadoutScale } from "../readout-scale.page-type.types.ts"
 
 export const safetyLevel = {
   id: "01a05f42-92f5-7002-8664-c64ed3b1dcd2",

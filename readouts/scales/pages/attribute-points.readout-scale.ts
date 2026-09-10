@@ -1,4 +1,4 @@
-import type { ReadoutScale } from "../readout-scale.page-type.ts"
+import type { ReadoutScale } from "../readout-scale.page-type.types.ts"
 
 export const attributePoints = {
   id: "01a06838-93c6-782a-a203-2e72a2eaa2de",

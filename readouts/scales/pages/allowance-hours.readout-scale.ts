@@ -1,4 +1,4 @@
-import type { ReadoutScale } from "../readout-scale.page-type.ts"
+import type { ReadoutScale } from "../readout-scale.page-type.types.ts"
 
 export const allowanceHours = {
   id: "01a063bd-a526-751e-97d3-d164d0908a7f",

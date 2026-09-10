@@ -1,4 +1,4 @@
-import type { ReadoutScale } from "../readout-scale.page-type.ts"
+import type { ReadoutScale } from "../readout-scale.page-type.types.ts"
 
 export const activityCalories = {
   id: "01a06222-9828-7623-8030-e79779b599ef",

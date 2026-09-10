@@ -1,4 +1,4 @@
-import type { ReadoutScale } from "../readout-scale.page-type.ts"
+import type { ReadoutScale } from "../readout-scale.page-type.types.ts"
 
 export const dailyInbox = {
   id: "01a06230-b155-714b-a469-f3da2c38d3a6",

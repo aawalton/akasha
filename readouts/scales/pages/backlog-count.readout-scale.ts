@@ -1,4 +1,4 @@
-import type { ReadoutScale } from "../readout-scale.page-type.ts"
+import type { ReadoutScale } from "../readout-scale.page-type.types.ts"
 
 export const backlogCount = {
   id: "01a05453-a4f1-7185-b176-4cc4ae7266f6",

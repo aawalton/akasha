@@ -1,4 +1,4 @@
-import type { ReadoutScale } from "../readout-scale.page-type.ts"
+import type { ReadoutScale } from "../readout-scale.page-type.types.ts"
 
 export const plantGrams = {
   id: "01a06221-d65f-7b82-a0e5-2678b1cfb844",

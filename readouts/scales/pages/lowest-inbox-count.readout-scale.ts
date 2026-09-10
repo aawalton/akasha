@@ -1,4 +1,4 @@
-import type { ReadoutScale } from "../readout-scale.page-type.ts"
+import type { ReadoutScale } from "../readout-scale.page-type.types.ts"
 
 export const lowestInboxCount = {
   id: "01a06230-b155-759a-8649-ed876a1441e8",

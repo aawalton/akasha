@@ -1,4 +1,4 @@
-import type { ReadoutScale } from "../readout-scale.page-type.ts"
+import type { ReadoutScale } from "../readout-scale.page-type.types.ts"
 
 export const greenDayUnits = {
   id: "01a06297-07b1-7762-aa9f-d5a6cd460dd1",
