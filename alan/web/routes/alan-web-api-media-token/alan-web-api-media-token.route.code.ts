@@ -3,7 +3,7 @@ import { mediaTokenSecret, mintMediaToken } from "@akasha/pages-ui/media/media-t
 import { MEDIA_VARIANT_PATTERN, mediaPageExists } from "@akasha/pages-ui/media/serve-media"
 import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
-import { MEDIA_UUID_PATTERN } from "../../media-page/media-page.module.code.ts"
+import { isMediaPageId } from "../../media-page/media-page.module.code.ts"
 
 const TOKEN_TTL_MS = 60 * 60 * 1000
 
@@ -19,11 +19,7 @@ export function buildMediaTokenResponse(input: {
 }): Response {
   const { user, pageId, medium, variant, pageAccessible, secret, nowMs, headers } = input
   if (!user) return new Response("Unauthorized", { status: 401, headers })
-  if (
-    !MEDIA_UUID_PATTERN.test(pageId) ||
-    !isMedium(medium) ||
-    !MEDIA_VARIANT_PATTERN.test(variant)
-  ) {
+  if (!isMediaPageId(pageId) || !isMedium(medium) || !MEDIA_VARIANT_PATTERN.test(variant)) {
     return new Response("Not Found", { status: 404, headers })
   }
   if (!pageAccessible) return new Response("Not Found", { status: 404, headers })

@@ -1,7 +1,7 @@
 import { serveMedia } from "@akasha/pages-ui/media/serve-media"
 import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
-import { MEDIA_UUID_PATTERN } from "../../media-page/media-page.module.code.ts"
+import { isMediaPageId } from "../../media-page/media-page.module.code.ts"
 
 const DOWNLOAD_CORS = {
   allowHeaders: "Authorization, Range",
@@ -22,7 +22,7 @@ export async function loader({
   }
 
   const url = new URL(request.url)
-  const response = MEDIA_UUID_PATTERN.test(params.pageId)
+  const response = isMediaPageId(params.pageId)
     ? await serveMedia(
         request,
         {

@@ -4,7 +4,7 @@ import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/auth-server/
 import { DEFAULT_VOICE_INFER_URL } from "akasha/alan/harness/voice-core/infer-endpoint/infer-endpoint.module.code.ts"
 import { buildKokoroSpeechSegments } from "akasha/alan/harness/voice-core/speech/speech.module.code.ts"
 import { ensureReadAloudRendition } from "../../kokoro-render/kokoro-render.module.code.ts"
-import { MEDIA_UUID_PATTERN, resolveMediaPage } from "../../media-page/media-page.module.code.ts"
+import { isMediaPageId, resolveMediaPage } from "../../media-page/media-page.module.code.ts"
 
 const KOKORO_VOICE = "af_heart"
 
@@ -71,7 +71,7 @@ export async function loader({
   if (!user) return respond("Unauthorized", 401)
 
   const { pageId, medium } = params
-  if (!MEDIA_UUID_PATTERN.test(pageId)) return respond("Not Found", 404)
+  if (!isMediaPageId(pageId)) return respond("Not Found", 404)
   if (medium !== "audio") return respond("Not Found", 404)
   const found = await resolveMediaPage(pageId, ["id"])
   if (found === null) return respond("Not Found", 404)

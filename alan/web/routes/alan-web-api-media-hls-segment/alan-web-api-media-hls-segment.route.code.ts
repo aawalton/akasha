@@ -7,7 +7,7 @@ import {
   seaweedFSObjectStoreFromEnv,
 } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
-import { MEDIA_UUID_PATTERN } from "../../media-page/media-page.module.code.ts"
+import { isMediaPageId } from "../../media-page/media-page.module.code.ts"
 
 const SEGMENT_PATTERN = /^seg[0-9]{5}\.mp3$/
 
@@ -38,7 +38,7 @@ export async function loader({
   }
 
   if (
-    !MEDIA_UUID_PATTERN.test(pageId) ||
+    !isMediaPageId(pageId) ||
     medium !== "audio" ||
     variant == null ||
     !MEDIA_VARIANT_PATTERN.test(variant) ||

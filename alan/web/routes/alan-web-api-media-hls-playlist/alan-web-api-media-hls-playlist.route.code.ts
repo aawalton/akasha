@@ -10,7 +10,7 @@ import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-c
 import { forwardedOrigin } from "../../forwarded-origin/forwarded-origin.module.code.ts"
 import { ensureHlsPlaylist } from "../../hls-render/hls-render.module.code.ts"
 import { resolveChapterKokoroSegments } from "../../kokoro-render/kokoro-render.module.code.ts"
-import { MEDIA_UUID_PATTERN, resolveMediaPage } from "../../media-page/media-page.module.code.ts"
+import { isMediaPageId, resolveMediaPage } from "../../media-page/media-page.module.code.ts"
 import { rewriteHlsPlaylist } from "../../rewrite-hls-playlist/rewrite-hls-playlist.module.code.ts"
 
 async function readPlaylist(
@@ -61,7 +61,7 @@ export async function loader({
   }
 
   if (
-    !MEDIA_UUID_PATTERN.test(pageId) ||
+    !isMediaPageId(pageId) ||
     medium !== "audio" ||
     variant == null ||
     !MEDIA_VARIANT_PATTERN.test(variant)
