@@ -8,9 +8,12 @@ import {
   servingFrom,
 } from "../command-server-client/command-server-client.module.code.ts"
 
-export function akashaRoot(): string {
-  const stated = process.env.AKASHA_ROOT
+function parseRoot(stated: string | undefined): string {
   return stated === undefined || stated === "" ? path.join(os.homedir(), "repos", "akasha") : stated
+}
+
+export function akashaRoot(): string {
+  return parseRoot(process.env.AKASHA_ROOT)
 }
 
 const SERVER_AT = "editor-extension/command-server/command-server.module.code.ts"
@@ -39,12 +42,15 @@ function bunDirectory(): string {
   )
 }
 
+function parseInheritedPath(inherited: string | undefined, bun: string): string {
+  return inherited === undefined || inherited === "" ? bun : `${bun}${path.delimiter}${inherited}`
+}
+
 export function harnessEnvironment(): NodeJS.ProcessEnv {
-  const inherited = process.env.PATH ?? ""
   const bun = bunDirectory()
   return {
     ...process.env,
-    PATH: inherited === "" ? bun : `${bun}${path.delimiter}${inherited}`,
+    PATH: parseInheritedPath(process.env.PATH, bun),
   }
 }
 
