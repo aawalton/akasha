@@ -10,7 +10,7 @@ import { sayAnswer } from "../../commands/modules/answer-bytes/answer-bytes.modu
 import type { Answer, Given } from "../../commands/modules/calling/calling.module.code.ts"
 import { duringOneCall } from "../../commands/modules/during-call/during-call.module.code.ts"
 
-const HERE = "editor-extension/command-server/command-server.module.code.ts"
+const HERE = import.meta.path
 
 const CHECKOUT = join(import.meta.dir, "..", "..")
 

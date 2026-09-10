@@ -27,6 +27,10 @@ export const commandServer = {
     },
     {
       invariantKind: "departure",
+      statement: "The help names the file running rather than a path spelled here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An ask arrives on stdin.",
     },
     {
