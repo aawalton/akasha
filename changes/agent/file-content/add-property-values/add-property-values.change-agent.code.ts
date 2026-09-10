@@ -2,6 +2,7 @@ import { reaches } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import {
+  afterIn,
   readFor,
   singleIn,
   targetsIn,
@@ -43,7 +44,9 @@ export function readIn(said: string): Read {
   return { lines }
 }
 
-type Put = { readonly single: boolean } | { readonly refused: string }
+type Put =
+  | { readonly single: boolean; readonly after: string | null }
+  | { readonly refused: string }
 
 function putIn(world: World, one: Line): Put {
   const read = readFor(world, one.at)
@@ -55,7 +58,10 @@ function putIn(world: World, one: Line): Put {
       return { refused: `\`${one.key}\` names a relation, and ${reached.refused}` }
     }
   }
-  return { single: singleIn(world, read.value, one.key) }
+  return {
+    single: singleIn(world, read.value, one.key),
+    after: afterIn(world, read.value, one.key),
+  }
 }
 
 function lineOf(one: Line): string {
@@ -68,7 +74,8 @@ export async function addPropertyValues(world: World, lines: readonly Line[]): P
   for (const one of lines) {
     const held = putIn(seen, one)
     if ("refused" in held) return refusing(`${held.refused}. ${lineOf(one)}`)
-    const given = held.single ? { ...one, single: true } : one
+    const told = held.single ? { ...one, single: true } : one
+    const given = held.after === null ? told : { ...told, after: held.after }
     const reached = await reach(seen, ADD_PROPERTY_VALUE, given)
     const why = reached.said.refused
     if (why !== null) return refusing(`${why}. ${lineOf(one)}`)

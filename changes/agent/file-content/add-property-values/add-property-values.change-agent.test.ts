@@ -171,6 +171,42 @@ test("a value carrying a space is taken whole", async () => {
   expect(handed).toMatchObject({ at: CARRIER, key: "definition", value: "a page of two words" })
 })
 
+test("the key the pages of its type write it after is handed on", async () => {
+  let handed: unknown = null
+  const root = repo()
+  const world = worldAt(root, textIn(root), (_world, _at, given) => {
+    handed = given
+    return Promise.resolve(NOTHING_OVER)
+  })
+
+  await runChange(world, { added: `${CARRIER} note ${OF_ONE}\n` })
+
+  expect(handed).toMatchObject({ at: CARRIER, key: "note", value: OF_ONE, after: "code" })
+})
+
+test("a key falls before the keys the pages of its type write after it", async () => {
+  const world = worldIn(repo())
+
+  const said = await runChange(world, { added: `${CARRIER} note ${OF_ONE}\n` })
+  const body = bodiesIn(said, world.base).get(CARRIER) ?? ""
+
+  expect(said.refused).toBeNull()
+  expect(body.indexOf("note:")).toBeLessThan(body.indexOf(`"${PARTS}"`))
+})
+
+test("`after` is left out where the pages of that type write the key nowhere", async () => {
+  let handed: unknown = null
+  const root = repo()
+  const world = worldAt(root, textIn(root), (_world, _at, given) => {
+    handed = given
+    return Promise.resolve(NOTHING_OVER)
+  })
+
+  await runChange(world, { added: `${ONE} types ts\n` })
+
+  expect("after" in (handed as object)).toBe(false)
+})
+
 test("each value is left to the change reached at its address", async () => {
   const reached: string[] = []
   const root = repo()

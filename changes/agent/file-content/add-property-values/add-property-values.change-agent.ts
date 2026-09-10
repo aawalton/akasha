@@ -78,6 +78,15 @@ export const addPropertyValues = {
       invariantKind: "absence",
       statement: "Nothing here works out a body of its own.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A key the page writes nowhere yet is put in where the pages of its type write it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`after` is left out where the pages of that type write the key nowhere.",
+    },
   ],
   changeKind: "change-checked",
 } as const satisfies ChangeAgent
