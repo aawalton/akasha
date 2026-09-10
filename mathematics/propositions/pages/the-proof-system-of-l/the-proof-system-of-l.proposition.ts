@@ -1,4 +1,4 @@
-import type { Proposition } from "../../proposition.page-type.ts"
+import type { Proposition } from "../../proposition.page-type.types.ts"
 
 export const theProofSystemOfL = {
   id: "019f0f59-86c7-72a0-9f2f-ea23fa07f6fd",

@@ -1,16 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { PropositionKind } from "./properties/proposition-kind.select-property.ts"
-import type { PropositionStatus } from "./properties/proposition-status.select-property.ts"
-import type { Statement } from "./properties/statement.file-property.ts"
-
-export type Proposition = Page & {
-  title: Title
-  propositionKind: PropositionKind
-  propositionStatus: PropositionStatus
-  statement?: Statement
-}
 
 export const proposition = {
   id: "01a06575-c2ab-7655-98f1-b3163771f0dc",
@@ -50,4 +38,5 @@ export const proposition = {
       statement: "A proposition names no proof that attempts that proposition.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

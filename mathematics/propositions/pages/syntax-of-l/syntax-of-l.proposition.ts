@@ -1,4 +1,4 @@
-import type { Proposition } from "../../proposition.page-type.ts"
+import type { Proposition } from "../../proposition.page-type.types.ts"
 
 export const syntaxOfL = {
   id: "019f0edc-7797-7e41-8158-12a744341f98",
