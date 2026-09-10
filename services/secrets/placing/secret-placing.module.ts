@@ -33,6 +33,11 @@ export const secretPlacing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The secret pages are the index's answer for their page type rather than a listing of the checkout.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A manifest asking for a secret no page has is reported rather than passed over.",
     },
     {

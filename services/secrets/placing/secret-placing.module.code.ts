@@ -1,8 +1,7 @@
-import { join } from "node:path"
-import { git } from "akasha/git/capping/git-capping.module.code.ts"
 import { secretAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { type Secrets, secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
-import { textAt, type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { parseAllDocuments, stringify } from "yaml"
 import {
@@ -18,7 +17,7 @@ export class DeployRefused extends Error {
   }
 }
 
-const SECRET_GLOB = "*.secret.ts"
+const SECRET_TYPE = "secret"
 
 const VALUE_KEY = "value"
 
@@ -100,22 +99,13 @@ export function placementsIn(value: Value): readonly Placement[] {
 }
 
 export function secretPages(akasha: string): readonly SecretPage[] {
-  const held = git(akasha, ["ls-files", "-z", "--", `*/${SECRET_GLOB}`, SECRET_GLOB])
-  if (held.code !== 0) {
-    throw new DeployRefused(
-      `git could not list the secret pages under ${akasha}: ${held.stderr.trim()}`
-    )
-  }
   const found: SecretPage[] = []
-  for (const one of held.stdout.split("\0")) {
-    if (one === "") continue
-    const value = valueAt(join(akasha, one), akasha)
-    if (value === null) continue
-    const slug = textAt(value, "slug")
+  for (const one of valuesOfType(akasha, SECRET_TYPE)) {
+    const slug = textAt(one.value, "slug")
     if (slug === null) continue
-    const placements = placementsIn(value)
+    const placements = placementsIn(one.value)
     if (placements.length === 0) continue
-    found.push({ slug, relPath: one, placements })
+    found.push({ slug, relPath: one.path, placements })
   }
   return found
 }
