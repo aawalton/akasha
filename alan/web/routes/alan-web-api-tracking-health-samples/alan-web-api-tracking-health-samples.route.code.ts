@@ -23,7 +23,13 @@ export async function action({ request }: { request: Request }): Promise<Respons
   const headers = () => withCors(new Headers(), cors)
 
   const ctx = await resolveDeviceSecretContext(request)
-  if (!ctx.authenticated) {
+  if (ctx.outcome === "unread") {
+    return Response.json(
+      { ok: false, error: "Device secrets went unread.", retryable: true },
+      { status: 503, headers: headers() }
+    )
+  }
+  if (ctx.outcome === "refused") {
     return Response.json(
       { ok: false, error: "Not authenticated." },
       { status: 401, headers: headers() }

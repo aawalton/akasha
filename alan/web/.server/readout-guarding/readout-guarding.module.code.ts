@@ -1,5 +1,8 @@
 import { ROUTE_TARGETS } from "akasha/persons/route-access/route-access.module.code.ts"
-import { buildReadoutRefusal } from "akasha/readouts/credential/readout-credential.module.code.ts"
+import {
+  buildReadoutRefusal,
+  READOUT_CACHE_CONTROL,
+} from "akasha/readouts/credential/readout-credential.module.code.ts"
 import {
   type DeviceSecretContext,
   resolveDeviceSecretContext,
@@ -13,7 +16,13 @@ export async function guardReadout(
   resolveCredential: DeviceSecretResolver = resolveDeviceSecretContext
 ): Promise<Response | null> {
   const credential = await resolveCredential(request)
-  if (!credential.authenticated) return buildReadoutRefusal()
+  if (credential.outcome === "unread") {
+    return Response.json(
+      { ok: false },
+      { status: 503, headers: { "Cache-Control": READOUT_CACHE_CONTROL } }
+    )
+  }
+  if (credential.outcome === "refused") return buildReadoutRefusal()
   const permitted = await holdsRouteAccess(credential.userId, ROUTE_TARGETS.READOUT_FEED)
   return permitted ? null : buildReadoutRefusal()
 }
