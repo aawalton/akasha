@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { shadowAt } from "@akasha/pages/shadow"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { noRawNulBytes } from "./no-raw-nul-bytes.code-check.code.ts"
+import { noRawNulBytes } from "./no-raw-nul-bytes.code-check.check.code.ts"
 import {
   CERTIFICATE,
   ELSEWHERE,

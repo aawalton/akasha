@@ -6,8 +6,6 @@ export const noRawNulBytes = {
   type: "code-check",
   slug: "no-raw-nul-bytes",
   definition: "the check refusing a file with a raw NUL byte",
-  code: "ts",
-  test: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
