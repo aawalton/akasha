@@ -1,4 +1,4 @@
-import type { TemperCharacterRole } from "../temper-character-role.page-type.ts"
+import type { TemperCharacterRole } from "../temper-character-role.page-type.types.ts"
 
 export const solo = {
   id: "01a05fd0-d54b-72fd-b37d-14b326dfd35d",

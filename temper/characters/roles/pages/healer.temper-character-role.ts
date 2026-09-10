@@ -1,4 +1,4 @@
-import type { TemperCharacterRole } from "../temper-character-role.page-type.ts"
+import type { TemperCharacterRole } from "../temper-character-role.page-type.types.ts"
 
 export const healer = {
   id: "01a05fd0-d549-7341-930f-07b0bdbfc0df",

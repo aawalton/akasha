@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCharacterThing } from "../things/temper-character-thing.page-type.types.ts"
-
-export type TemperCharacterRole = TemperCharacterThing
 
 export const temperCharacterRole = {
   id: "01a05fcd-f547-7e5d-aa6c-38b9f3d06600",
@@ -11,4 +8,5 @@ export const temperCharacterRole = {
   definition: "the part a character plays in a group",
   pluralSlug: "temper-character-roles",
   extends: ["page-type/temper-character-thing"],
+  types: "ts",
 } as const satisfies PageType

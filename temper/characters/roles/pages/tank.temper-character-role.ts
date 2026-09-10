@@ -1,4 +1,4 @@
-import type { TemperCharacterRole } from "../temper-character-role.page-type.ts"
+import type { TemperCharacterRole } from "../temper-character-role.page-type.types.ts"
 
 export const tank = {
   id: "01a05fd0-d54b-7c23-9f4b-8a215677dd7c",

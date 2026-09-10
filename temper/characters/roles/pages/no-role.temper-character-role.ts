@@ -1,4 +1,4 @@
-import type { TemperCharacterRole } from "../temper-character-role.page-type.ts"
+import type { TemperCharacterRole } from "../temper-character-role.page-type.types.ts"
 
 export const noRole = {
   id: "01a05fd0-d54a-7877-8c3c-ea3f9e9cbe91",
