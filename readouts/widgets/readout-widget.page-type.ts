@@ -20,6 +20,7 @@ export const readoutWidget = {
     "readout-widget/smilingjenny-cost",
     "readout-widget/smilingjenny-safety-level",
     "readout-widget/smilingjenny-surplus",
+    "readout-widget/smilingjenny-upkeep-stoplights",
     "instant-property/last-tapped-at",
     "number-property/taps",
     "relation-property/app",
