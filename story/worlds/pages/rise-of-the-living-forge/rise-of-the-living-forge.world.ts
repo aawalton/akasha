@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const riseOfTheLivingForge = {
   id: "01a063d8-61f2-7c4a-86d2-fb6d7bf305ee",

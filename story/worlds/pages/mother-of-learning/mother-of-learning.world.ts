@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const motherOfLearning = {
   id: "01a063d8-61f2-7662-8575-87eef07b3db4",

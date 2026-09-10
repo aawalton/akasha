@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const crimsonEternalAnImmortalDeathMageLitrpg = {
   id: "01a063d8-61f2-7035-b7b0-877e7ba81602",

@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const godOfTrash = {
   id: "01a063d8-61f2-73e3-9636-cf634e0dd268",

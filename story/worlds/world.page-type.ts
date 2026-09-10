@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Description } from "../../pages/properties/description.text-property.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { CharacterReadings } from "./properties/character-readings.page-property-entry.ts"
-import type { MechanicReadings } from "./properties/mechanic-readings.page-property-entry.ts"
-
-export type World = Page & {
-  title: Title
-  description?: Description
-  characterReadings?: CharacterReadings
-  mechanicReadings?: MechanicReadings
-}
 
 export const world = {
   id: "01a063ce-6216-7000-8f40-f471a7c21987",
@@ -55,4 +43,5 @@ export const world = {
       statement: "Every story names the world the story is of.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

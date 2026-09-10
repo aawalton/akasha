@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const chrysalis = {
   id: "01a063d8-61f2-7c06-b139-f739976b133f",

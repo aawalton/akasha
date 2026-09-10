@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const savageDivinity = {
   id: "01a063d8-61f2-709c-a763-68ca6f6bff06",

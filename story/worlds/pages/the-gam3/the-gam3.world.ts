@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const theGam3 = {
   id: "01a063d8-61f2-7d93-a6fc-b9ea3730ef4c",

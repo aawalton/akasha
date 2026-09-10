@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const pathToProsperityLitrpgVol12Stubbed = {
   id: "01a063d8-61f2-72ff-94bc-1ba10b15e27a",

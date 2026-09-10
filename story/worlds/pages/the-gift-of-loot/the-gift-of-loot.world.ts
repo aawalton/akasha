@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const theGiftOfLoot = {
   id: "01a063d8-61f2-7923-91da-dfed1bd98cd3",

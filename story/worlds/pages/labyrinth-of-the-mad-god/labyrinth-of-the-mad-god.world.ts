@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const labyrinthOfTheMadGod = {
   id: "01a063d8-61f2-79a5-8098-f698ec6a6be3",

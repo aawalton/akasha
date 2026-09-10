@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const hellHoundEvolutionLitrpg = {
   id: "01a063d8-61f2-7b21-9b23-7337192abe1d",

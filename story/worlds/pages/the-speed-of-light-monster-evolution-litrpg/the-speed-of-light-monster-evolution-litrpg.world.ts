@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const theSpeedOfLightMonsterEvolutionLitrpg = {
   id: "01a063d8-61f2-7201-be15-d3b07a9eab96",

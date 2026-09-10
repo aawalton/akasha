@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const millennialMageASliceOfLifeProgressionFantasy = {
   id: "01a063d8-61f2-7cf9-b584-d309e3ba05a2",

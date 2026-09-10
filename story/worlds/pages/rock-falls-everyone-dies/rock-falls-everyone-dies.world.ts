@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const rockFallsEveryoneDies = {
   id: "01a063d8-61f2-7561-8f82-309b7b9e6534",

@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const ratGirlEvolutionLabRatToUnrivaled = {
   id: "01a063d8-61f2-7209-9100-f00e154f93c1",

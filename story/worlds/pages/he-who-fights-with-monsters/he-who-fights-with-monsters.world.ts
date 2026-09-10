@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const heWhoFightsWithMonsters = {
   id: "01a063d8-61f2-79a6-81d4-d6a33fc7b378",

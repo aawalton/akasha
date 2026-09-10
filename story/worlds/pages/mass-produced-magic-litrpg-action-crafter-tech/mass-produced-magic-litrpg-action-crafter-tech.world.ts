@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const massProducedMagicLitrpgActionCrafterTech = {
   id: "01a063d8-61f2-7f4f-badc-aa412b5854c5",

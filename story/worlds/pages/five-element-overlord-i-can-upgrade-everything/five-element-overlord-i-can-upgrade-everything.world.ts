@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const fiveElementOverlordICanUpgradeEverything = {
   id: "01a063d8-61f2-70fb-9f89-6526367f4ab9",

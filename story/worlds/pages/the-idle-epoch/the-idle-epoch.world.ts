@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const theIdleEpoch = {
   id: "01a063d8-61f2-79ae-9295-e20dbdd58b6f",

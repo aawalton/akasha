@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const readyPlayerOne = {
   id: "01a063d8-61f2-775e-908b-ee3e5d1a5dba",

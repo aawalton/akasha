@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const hellHorizonHealer = {
   id: "01a063d8-61f2-7620-992a-86e2ddce4bbe",

@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const theNewWorld = {
   id: "01a063d8-61f2-70a3-942e-8532f044726d",

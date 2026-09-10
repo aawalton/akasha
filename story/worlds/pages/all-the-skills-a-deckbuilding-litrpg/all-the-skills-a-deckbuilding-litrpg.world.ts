@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const allTheSkillsADeckbuildingLitrpg = {
   id: "01a063d8-61f2-7401-95f4-3a3227193ef2",

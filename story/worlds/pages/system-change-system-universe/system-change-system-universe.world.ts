@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const systemChangeSystemUniverse = {
   id: "01a063d8-61f2-710e-9d42-2b43321db67b",

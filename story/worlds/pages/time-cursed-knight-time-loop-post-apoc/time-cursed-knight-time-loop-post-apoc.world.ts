@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const timeCursedKnightTimeLoopPostApoc = {
   id: "01a063d8-61f2-78cd-ba3e-f72bfe9de0e8",

@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const darkMatterAscensionLitrpgSwordmageMc = {
   id: "01a063d8-61f2-7991-be52-3874fb1608a4",

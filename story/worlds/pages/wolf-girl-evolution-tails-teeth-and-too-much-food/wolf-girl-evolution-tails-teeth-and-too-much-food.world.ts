@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood = {
   id: "01a063d8-61f2-709e-8bcf-00e14e6f0857",

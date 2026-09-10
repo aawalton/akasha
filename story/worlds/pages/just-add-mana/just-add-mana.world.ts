@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const justAddMana = {
   id: "01a063d8-61f2-77ef-991c-1d09e94b0952",

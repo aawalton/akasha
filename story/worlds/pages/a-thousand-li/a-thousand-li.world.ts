@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const aThousandLi = {
   id: "01a063d8-61f2-7644-b103-d2d7e1347581",

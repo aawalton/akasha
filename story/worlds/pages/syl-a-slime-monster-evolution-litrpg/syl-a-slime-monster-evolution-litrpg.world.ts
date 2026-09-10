@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const sylASlimeMonsterEvolutionLitrpg = {
   id: "01a063d8-61f2-71d4-b36a-55ae94e0e80f",

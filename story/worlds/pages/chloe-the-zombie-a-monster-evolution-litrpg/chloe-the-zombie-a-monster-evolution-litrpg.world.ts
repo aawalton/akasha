@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const chloeTheZombieAMonsterEvolutionLitrpg = {
   id: "01a063d8-61f2-7a7f-b4ed-2dbc7bc5dcfb",

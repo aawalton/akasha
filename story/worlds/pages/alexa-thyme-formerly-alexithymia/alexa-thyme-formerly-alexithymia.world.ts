@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const alexaThymeFormerlyAlexithymia = {
   id: "01a063d8-61f2-7945-a7f1-909b51dd2b15",

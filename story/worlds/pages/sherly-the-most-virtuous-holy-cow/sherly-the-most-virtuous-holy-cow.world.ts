@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const sherlyTheMostVirtuousHolyCow = {
   id: "01a063d8-61f2-7356-92ed-b501876a7985",

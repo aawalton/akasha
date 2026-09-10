@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const roadToMastery = {
   id: "01a063d8-61f2-75de-9057-704fafed7f9a",

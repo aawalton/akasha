@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const chaosSeeds = {
   id: "01a063d8-61f2-760e-8f21-aa39112a727f",

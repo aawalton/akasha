@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const vuldranni = {
   id: "01a063d8-61f2-7394-ae68-54d8683e20d3",

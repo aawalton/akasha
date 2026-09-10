@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const apocalypseHealerPathOfDeathProgressionLitrpgvolume = {
   id: "01a063d8-61f2-7fb3-8536-196deb51f9e4",

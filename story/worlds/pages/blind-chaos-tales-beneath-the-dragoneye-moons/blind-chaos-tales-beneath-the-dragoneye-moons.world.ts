@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const blindChaosTalesBeneathTheDragoneyeMoons = {
   id: "01a063d8-61f2-737e-8718-7c2344b6df3d",

@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const manaDevourerLitrpgmanaCultivation = {
   id: "01a063d8-61f2-7929-94f6-ed5111e390f3",

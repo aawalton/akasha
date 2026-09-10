@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const awakenOnline = {
   id: "01a063d8-61f2-75ce-90e9-325f1a744530",

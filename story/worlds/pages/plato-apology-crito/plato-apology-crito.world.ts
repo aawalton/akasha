@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const platoApologyCrito = {
   id: "01a06586-d429-7d76-a213-da3bf07344ee",

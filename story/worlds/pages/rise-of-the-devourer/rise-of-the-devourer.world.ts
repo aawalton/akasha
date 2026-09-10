@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const riseOfTheDevourer = {
   id: "01a063d8-61f2-72da-bcbc-99a700a16b11",

@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const cornerstone = {
   id: "01a063d8-61f2-748f-a9e8-f4e7222e3cec",

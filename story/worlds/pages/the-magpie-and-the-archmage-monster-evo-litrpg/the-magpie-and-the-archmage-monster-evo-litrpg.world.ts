@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg = {
   id: "01a063d8-61f2-7535-9b3e-4bb04d416357",

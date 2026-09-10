@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const journeyToVeresavirFantasyLitrpg = {
   id: "01a063d8-61f2-7f2d-9d00-9d1ed234ef08",

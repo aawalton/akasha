@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const hyrule = {
   id: "01a063d8-61f2-75fc-a2b4-274931f3ceed",

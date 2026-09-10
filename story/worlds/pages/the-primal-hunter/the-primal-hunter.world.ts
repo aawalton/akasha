@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const thePrimalHunter = {
   id: "01a063d8-61f2-7976-acde-db28313b7aac",

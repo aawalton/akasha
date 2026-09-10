@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const kerasSelyrianUniverse = {
   id: "01a063d8-61f2-792e-8d04-167d9c9bed8b",

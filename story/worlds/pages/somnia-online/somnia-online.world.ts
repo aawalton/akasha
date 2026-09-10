@@ -1,4 +1,4 @@
-import type { World } from "../../world.page-type.ts"
+import type { World } from "../../world.page-type.types.ts"
 
 export const somniaOnline = {
   id: "01a063d8-61f2-723c-aa69-1b589383e501",
