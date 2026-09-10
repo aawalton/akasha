@@ -273,6 +273,24 @@ test("a body naming that type through a package names it from the workspace root
   expect(puttingAt(said, FAR)).toEqual([`import type { Kept } from "tree/${TO}"`])
 })
 
+const ROOTED_USING = `import type { Kept } from "tree/${FROM}"
+
+export type Wraps = {
+  readonly kept: Kept
+}
+`
+
+test("a body naming that type by the workspace root's own path names where it landed", async () => {
+  const world = worldOf({ [FROM]: HELD, [NAMED_AT]: NAMED, [ROOT_AT]: ROOT, [FAR]: ROOTED_USING }, [
+    FAR,
+  ])
+
+  const said = await runChange(world, { from: FROM, to: TO, of: "Kept" })
+
+  expect(said.refused).toBeNull()
+  expect(puttingAt(said, FAR)).toEqual([`import type { Kept } from "tree/${TO}"`])
+})
+
 test("a body written by hand is repointed though a generated one beside it is not", async () => {
   const world = {
     ...worldOf({ [FROM]: HELD, [WRITTEN]: WRITTEN_USING, [USES]: USING }),

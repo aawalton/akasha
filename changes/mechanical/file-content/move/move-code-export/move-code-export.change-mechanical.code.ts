@@ -214,9 +214,10 @@ function landingFor(
   if (spelled.startsWith(BESIDE)) {
     return spelled.endsWith(basename(given.from)) ? landingIn(spelled, given) : null
   }
-  if (naming.get(spelled) !== given.from) return null
   const rooted = rootedIn(naming)
-  return rooted === null ? null : JSON.stringify(`${rooted}${given.to}`)
+  if (rooted === null) return null
+  const names = naming.get(spelled) === given.from || spelled === `${rooted}${given.from}`
+  return names ? JSON.stringify(`${rooted}${given.to}`) : null
 }
 
 function repointedAt(
