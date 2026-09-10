@@ -24,6 +24,8 @@ const REQUIRED = "required"
 
 const SECRET = "secret"
 
+const FIXED = "fixed"
+
 const SHADOWING = new Set([
   "Array",
   "Boolean",
@@ -124,7 +126,7 @@ export function keysFor(
       key: exportedAs(filed.propertySlug),
       typeName: typedAs(filed.slug),
       at: listed.path,
-      optional: stated[REQUIRED] !== true || stated[SECRET] === true,
+      optional: stated[REQUIRED] !== true || stated[SECRET] === true || stated[FIXED] !== undefined,
     })
   }
   return found

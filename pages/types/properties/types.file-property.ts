@@ -30,6 +30,10 @@ export const types = {
     },
     {
       invariantKind: "departure",
+      statement: "A key the page type fixes is written as optional for the same reason.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A type whose name shadows a global is named here by the page type's name joined to it.",
     },
