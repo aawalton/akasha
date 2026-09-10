@@ -9,7 +9,6 @@ export const pageMatchesItsType = {
   parts: ["module/entry-reasons"],
   code: "ts",
   test: "ts",
-  testFixtures: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,

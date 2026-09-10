@@ -1,9 +1,14 @@
+import { mkdirSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { listedFiled, rebuiltIn, schemaFiled } from "@akasha/indexes/testing"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import type { Carried } from "@akasha/pages/page-type-properties"
 import type { Value } from "@akasha/pages/page-value"
 import { type Shadow, shadowAt } from "@akasha/pages/shadow"
+import { ran } from "@akasha/utils/run/running"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
+import { founded, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
 
 export const FORMAT = "all-lower"
 
@@ -279,6 +284,8 @@ export const THING_AT = "akasha/one.thing.ts"
 
 export const THING_BODY = 'export const one = { pageTypeSlug: "thing", slug: "one" }\n'
 
+export const THING_EXTRA = 'export const one = { pageTypeSlug: "thing", slug: "one", extra: 1 }\n'
+
 const KIND_AT = "akasha/waiting.generator-kind.ts"
 
 const UNIQUE_SLUG = {
@@ -419,4 +426,29 @@ export function besideCarried(uncommitted: boolean, secret = false): readonly Ca
       secret,
     },
   ]
+}
+
+export const scratch = scratchWorld()
+
+export function rooting(prefix: string = "akasha-matches-audit-"): string {
+  const root = scratch.rootFor(prefix)
+  founded(root)
+  typed(root, "thing", "page")
+  return root
+}
+
+export function wrote(root: string, files: Readonly<Record<string, string>>): string {
+  for (const [path, said] of Object.entries(files)) {
+    const at = join(root, path)
+    mkdirSync(dirname(at), { recursive: true })
+    writeFileSync(at, said)
+  }
+  return root
+}
+
+export function tracked(files: Readonly<Record<string, string>>): string {
+  const root = wrote(rooting(), files)
+  const done = ran(["git", "-C", root, "init", "-q"])
+  if (done.code !== 0) throw new Error(`no tree was made at ${root} — ${done.err.trim()}`)
+  return root
 }
