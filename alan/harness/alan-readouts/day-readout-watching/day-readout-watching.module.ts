@@ -26,6 +26,22 @@ export const dayReadoutWatching = {
     },
     {
       invariantKind: "departure",
+      statement: "A readout read off the day row moves with the index as well as with those files.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The day row is in the commit, so the index is what says that row has moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stretch is beside its day rather than in the commit, so its file is enough.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The constitution counts food entry pages, so it moves with the index.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The reading each readout takes is the one its own reading module takes.",
     },
     {
@@ -66,7 +82,11 @@ export const dayReadoutWatching = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here follows a file.",
+      statement: "Nothing here follows the index.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here dispatches a change to a readout.",
     },
     {
       invariantKind: "absence",
