@@ -15,8 +15,6 @@ export const inboxesTasks = {
   earnedKey: "inbox-tasks-cleared-today",
   groups: ["inboxes"],
   wireKey: "tasks",
-  querySlug: "inbox-readings-on-day",
-  queryKey: "inbox-tasks",
   invariants: [
     {
       invariantKind: "departure",
