@@ -9,7 +9,6 @@ export const command = {
   pluralSlug: "commands",
   parts: [
     "command/audit",
-    "command/calendar",
     "command/icloud",
     "command/ios-app",
     "command/push",
@@ -110,6 +109,7 @@ export const command = {
     "command/performance",
     "namespace/index",
     "module/complexity-rowing",
+    "module/calendar-eventing",
     "namespace/google",
   ],
   extends: ["page-type/module"],
