@@ -16,7 +16,7 @@ export const dallaDeployCleanup = {
     {
       statement: "Every ios app has deployed through `akasha deploy`.",
       workingMemory:
-        "Three ios apps. `akasha deploy <slug> --ref HEAD --no-upload` archived, exported and had Apple validate alanwalton (build 211) and smilingjenny (build 25) on 2026-09-10, so the road is proven for both. atlas will not archive: its page named a native shell no checkout has, now mended, and it states no `webDirectory` and no `programs`, so nothing stages `public`, `config.xml` and `capacitor.config.json` into its Xcode project. Left: the upload for the two, and whether atlas is meant to ship.\n",
+        "Three ios apps. alanwalton, as build 212, and smilingjenny, as build 25, were archived, exported and uploaded to TestFlight through `akasha deploy` on 2026-09-10, so both have deployed. atlas has no native shell at all: its folder holds a package, a Capacitor config, a web entry and two scripts, and no Xcode project, and its page names no programs and no web directory. Whether atlas is meant to ship is the one thing left, and it is Alan's to answer.\n",
     },
     {
       statement: "No competing akasha build or deploy command exists.",
