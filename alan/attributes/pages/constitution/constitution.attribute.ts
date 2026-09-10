@@ -1,4 +1,4 @@
-import type { Attribute } from "../../attribute.page-type.ts"
+import type { Attribute } from "../../attribute.page-type.types.ts"
 
 export const constitution = {
   id: "01a06841-a158-76c3-9089-9842c06dc7c0",

@@ -1,4 +1,4 @@
-import type { Attribute } from "../../attribute.page-type.ts"
+import type { Attribute } from "../../attribute.page-type.types.ts"
 
 export const luck = {
   id: "01a06841-a19b-775f-8183-8af74871a217",

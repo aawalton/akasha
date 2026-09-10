@@ -1,20 +1,4 @@
-import type { Code } from "../../code-system/modules/properties/code.code-file-property.ts"
-import type { Test } from "../../code-system/modules/properties/test.code-file-property.ts"
-import type { Domain } from "../../domains/domain.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
-import type { PointUnit } from "./properties/point-unit.text-property.ts"
-import type { PointsBeforeToday } from "./properties/points-before-today.number-property.ts"
-import type { PointsToday } from "./properties/points-today.number-property.ts"
-import type { PointsTotal } from "./properties/points-total.number-property.ts"
-
-export type Attribute = Domain & {
-  pointUnit: PointUnit
-  pointsBeforeToday?: PointsBeforeToday
-  pointsToday?: PointsToday
-  pointsTotal?: PointsTotal
-  code?: Code
-  test?: Test
-}
 
 export const attribute = {
   id: "01a06841-a0fd-7d6d-83ba-fed205a8f26a",
@@ -99,4 +83,5 @@ export const attribute = {
       statement: "A readout counting an attribute reads that attribute's points off its page.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

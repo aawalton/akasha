@@ -1,4 +1,4 @@
-import type { Attribute } from "../../attribute.page-type.ts"
+import type { Attribute } from "../../attribute.page-type.types.ts"
 
 export const intelligence = {
   id: "01a06841-a185-7471-8155-9b91e3f40e35",
