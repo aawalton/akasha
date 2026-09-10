@@ -12,6 +12,7 @@ export const smilingjennyWebRoutes = {
     "route/jenny-readout-relay",
     "route/jenny-safety-level",
     "route/jenny-surplus",
+    "route/jenny-upkeep",
     "route/jenny-api-health",
     "route/jenny-api-live-version",
     "route/jenny-api-errors",
