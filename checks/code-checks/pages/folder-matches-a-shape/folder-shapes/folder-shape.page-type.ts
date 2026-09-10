@@ -94,7 +94,7 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "Passing it over as a part loses no judgement.",
+      statement: "Passing such a subfolder over as a part loses no judgement.",
     },
     {
       invariantKind: "departure",
@@ -164,12 +164,13 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "That name has the opening it shares with the page above the folder taken off.",
+      statement:
+        "That name has the opening that name shares with the page above the folder taken off.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The opening is taken off again while what is left still opens with a name the page above has.",
+        "The opening is taken off again while the name left still opens with a name the page above has.",
     },
     {
       invariantKind: "departure",
@@ -182,7 +183,7 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "That answer is a folder wanting a name rather than a folder wanting none.",
+      statement: "That answer is a folder wanting a name rather than a folder wanting no name.",
     },
     {
       invariantKind: "departure",
@@ -198,8 +199,7 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The page type answers because a page type must state the plural slug a folder is named from.",
+      statement: "A page type states the plural slug a folder is named from.",
     },
     {
       invariantKind: "departure",
