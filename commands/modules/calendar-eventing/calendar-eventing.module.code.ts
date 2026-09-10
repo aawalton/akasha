@@ -1,13 +1,13 @@
-import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type {
   EventInput,
   EventPatch,
   RsvpStatus,
-} from "akasha/google/calendar/calendar-event-shapes/calendar-event-shapes.module.code.ts"
+} from "akasha/alan/google/calendar/calendar-event-shapes/calendar-event-shapes.module.code.ts"
 import {
   narrowSendUpdates,
   SEND_UPDATES,
-} from "akasha/google/calendar/send-updates-narrowing/send-updates-narrowing.module.code.ts"
+} from "akasha/alan/google/calendar/send-updates-narrowing/send-updates-narrowing.module.code.ts"
+import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { Answer } from "../calling/calling.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { quoted } from "../seat-act-calling/seat-act-calling.module.code.ts"
@@ -238,18 +238,18 @@ export function rsvpOf(read: Said): {
 
 export async function asAlan() {
   return await (
-    await import("akasha/google/calendar/calendar-client/calendar-client.module.code.ts")
+    await import("akasha/alan/google/calendar/calendar-client/calendar-client.module.code.ts")
   ).makeOAuthCalendarClient()
 }
 
 export async function asAkasha() {
   return await (
-    await import("akasha/google/calendar/calendar-client/calendar-client.module.code.ts")
+    await import("akasha/alan/google/calendar/calendar-client/calendar-client.module.code.ts")
   ).makeCalendarClient()
 }
 
 export async function eventsIn() {
-  return await import("akasha/google/calendar/calendar-events/calendar-events.module.code.ts")
+  return await import("akasha/alan/google/calendar/calendar-events/calendar-events.module.code.ts")
 }
 
 export async function answeredBy(

@@ -92,11 +92,11 @@ async function fetching(
   root: string,
   from: string
 ): Promise<Answer> {
-  const files = await import("akasha/google/drive/drive-files/drive-files.module.code.ts")
+  const files = await import("akasha/alan/google/drive/drive-files/drive-files.module.code.ts")
   const fileId = files.parseDriveFileId(said.get(SOURCE) ?? "")
   const folder = folderOf(said.get(OUT), root, from)
   const { makeDriveClient } = await import(
-    "akasha/google/drive/drive-client/drive-client.module.code.ts"
+    "akasha/alan/google/drive/drive-client/drive-client.module.code.ts"
   )
   const client = await makeDriveClient()
   try {

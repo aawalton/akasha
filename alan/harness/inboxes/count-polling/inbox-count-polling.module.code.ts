@@ -1,9 +1,9 @@
-import { dayAfter } from "akasha/alan/harness/day/string/day-string.module.code.ts"
-import { makeGmailClient } from "akasha/google/email/gmail-client/gmail-client.module.code.ts"
+import { makeGmailClient } from "akasha/alan/google/email/gmail-client/gmail-client.module.code.ts"
 import {
   INBOX_LABEL,
   listMessages,
-} from "akasha/google/email/gmail-messages/gmail-messages.module.code.ts"
+} from "akasha/alan/google/email/gmail-messages/gmail-messages.module.code.ts"
+import { dayAfter } from "akasha/alan/harness/day/string/day-string.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

@@ -2,7 +2,7 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import {
   getMessage,
   listMessages,
-} from "akasha/google/email/email-message-fetching/email-message-fetching.module.code.ts"
+} from "akasha/alan/google/email/email-message-fetching/email-message-fetching.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 export interface EmailMessage {

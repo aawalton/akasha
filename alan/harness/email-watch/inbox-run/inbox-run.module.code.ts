@@ -1,9 +1,9 @@
 import { appendFileSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
-import { forwardOf } from "akasha/google/email/forwarded-message/forwarded-message.module.code.ts"
+import { forwardOf } from "akasha/alan/google/email/forwarded-message/forwarded-message.module.code.ts"
 import type {
   Mailbox,
   Message,
-} from "akasha/google/email/gmail-mailbox/gmail-mailbox.module.code.ts"
+} from "akasha/alan/google/email/gmail-mailbox/gmail-mailbox.module.code.ts"
 import { personOr } from "akasha/persons/person-reading/person-reading.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { z } from "zod"

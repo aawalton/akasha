@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import { mailbox } from "akasha/google/email/gmail-mailbox/gmail-mailbox.module.code.ts"
+import { mailbox } from "akasha/alan/google/email/gmail-mailbox/gmail-mailbox.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { oneRun, type RunReport } from "../inbox-run/inbox-run.module.code.ts"
 
