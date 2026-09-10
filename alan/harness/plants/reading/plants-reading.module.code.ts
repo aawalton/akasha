@@ -3,6 +3,7 @@ import { asking } from "akasha/pages/service/page-asking/page-asking.module.code
 import type { Asking } from "akasha/readouts/asking/readout-asking.module.code.ts"
 import { fetchPlantGrams } from "akasha/readouts/pages/upkeep-plants/upkeep-plants.readout.code.ts"
 import { keepReading } from "akasha/readouts/reading/readout-reading.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import {
   openedDayOf,
   openedDayWindow,
@@ -28,7 +29,7 @@ export async function takeReading(root: string, now: Date = new Date()): Promise
 }
 
 if (import.meta.main) {
-  const root = process.env.AKASHA_ROOT ?? process.cwd()
+  const root = optionalEnv("AKASHA_ROOT") ?? process.cwd()
   try {
     await takeReading(root)
     process.stdout.write(`plant grams were counted and kept beside ${READOUT_PAGE}\n`)
