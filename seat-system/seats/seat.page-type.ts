@@ -17,6 +17,7 @@ export const seat = {
     "boolean-property/on-call",
     "boolean-property/send-in-flight",
     "instant-property/restart-armed-at",
+    "page-type/supervisor",
     "number-property/context-tokens",
     "number-property/proxy-port",
     "number-property/scanned-to",
