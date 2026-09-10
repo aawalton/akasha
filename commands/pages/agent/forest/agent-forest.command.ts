@@ -149,7 +149,11 @@ export const agentForest = {
     },
     {
       invariantKind: "departure",
-      statement: "One test calls the command itself, so a specifier reaching nothing fails there.",
+      statement: "One test calls the command itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A specifier reaching nothing fails there.",
     },
     {
       invariantKind: "absence",
