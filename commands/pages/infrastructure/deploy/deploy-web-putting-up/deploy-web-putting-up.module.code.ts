@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { pushBranch } from "akasha/git/git-pushing/git-pushing.module.code.ts"
+import { pushBranch } from "akasha/git/pushing/git-pushing.module.code.ts"
 import {
   alreadyBuilt,
   buildInPod,
