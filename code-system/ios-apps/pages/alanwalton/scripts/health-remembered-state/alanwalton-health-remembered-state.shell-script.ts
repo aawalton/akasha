@@ -11,7 +11,11 @@ export const alanwaltonHealthRememberedState = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The anchor is written from one place alone, the success arm of the upload.",
+      statement: "The anchor is written from one place alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That one place is the success arm of the upload.",
     },
     {
       invariantKind: "departure",
