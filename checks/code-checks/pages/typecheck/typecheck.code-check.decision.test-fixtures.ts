@@ -10,6 +10,7 @@ import {
   schemaFiled,
 } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
+import { ran } from "@akasha/utils/run/running"
 import { importEdge } from "akasha/graph/edges/pages/import-edge.graph-edge.ts"
 import { put, there } from "akasha/testing-system/putting/putting.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
@@ -165,6 +166,12 @@ export function staged(files: Readonly<Record<string, string>>): string {
   }
   reaching(root, files)
   graphed(root)
+  return root
+}
+
+export function tracked(root: string): string {
+  const done = ran(["git", "-C", root, "init", "-q"])
+  if (done.code !== 0) throw new Error(`no tree was made at ${root} — ${done.err.trim()}`)
   return root
 }
 

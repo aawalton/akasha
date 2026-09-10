@@ -8,7 +8,6 @@ export const typecheck = {
   definition: "the check refusing TypeScript that does not compile",
   code: "ts",
   test: "ts",
-  testFixtures: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,

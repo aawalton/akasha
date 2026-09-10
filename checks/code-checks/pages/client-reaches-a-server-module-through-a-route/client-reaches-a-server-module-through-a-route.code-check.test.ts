@@ -1,7 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { listedFiled, pathFiled } from "@akasha/indexes/testing"
+import { listedFiled, pathFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { shadowAt } from "@akasha/pages/shadow"
-import { change, scratch, staged } from "../typecheck/typecheck.code-check.test-fixtures.ts"
+import {
+  change,
+  scratch,
+  staged,
+} from "../typecheck/typecheck.code-check.decision.test-fixtures.ts"
 import {
   askingIn,
   clientReachesAServerModuleThroughARoute,
@@ -28,6 +32,7 @@ const LEAK = 'import { held } from "./held.server.ts"\n'
 function rooted(): string {
   const root = staged({ [PAGE]: HELD, [PLAIN]: HELD, [OUTSIDE]: HELD })
   listedFiled(root, APP, "web", [{ path: PAGE, id: ID }])
+  valueAlsoFiled(root, APP, [{ path: PAGE, value: { id: ID, pageTypeSlug: APP, slug: "web" } }])
   pathFiled(root, PAGE, [{ path: PAGE, id: ID }])
   pathFiled(root, PLAIN, [{ path: PLAIN, id: ID }])
   pathFiled(root, OUTSIDE, [{ path: OUTSIDE, id: ID }])

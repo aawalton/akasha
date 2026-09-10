@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { listedFiled, pathFiled } from "@akasha/indexes/testing"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
-import { scratch, staged } from "../typecheck/typecheck.code-check.test-fixtures.ts"
+import { scratch, staged } from "../typecheck/typecheck.code-check.decision.test-fixtures.ts"
 import { checkReachesAPathThroughTheIndex } from "./check-reaches-a-path-through-the-index.code-check.audit.code.ts"
 
 afterAll(scratch.sweep)

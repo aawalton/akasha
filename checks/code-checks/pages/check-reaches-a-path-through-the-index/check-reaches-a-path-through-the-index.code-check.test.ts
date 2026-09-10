@@ -3,7 +3,11 @@ import { listedFiled, pathFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { type Shadow, shadowFor } from "@akasha/pages/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { change, scratch, staged } from "../typecheck/typecheck.code-check.test-fixtures.ts"
+import {
+  change,
+  scratch,
+  staged,
+} from "../typecheck/typecheck.code-check.decision.test-fixtures.ts"
 import { checkReachesAPathThroughTheIndex } from "./check-reaches-a-path-through-the-index.code-check.code.ts"
 
 afterAll(scratch.sweep)

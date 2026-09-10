@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { listedFiled, pathFiled } from "@akasha/indexes/testing"
-import { scratch, staged } from "../typecheck/typecheck.code-check.test-fixtures.ts"
+import { scratch, staged } from "../typecheck/typecheck.code-check.decision.test-fixtures.ts"
 import {
   askingAt,
   clientReachesPagesThroughItsHooks,

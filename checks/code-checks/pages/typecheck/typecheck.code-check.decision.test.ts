@@ -1,0 +1,385 @@
+import { afterAll, expect, test } from "bun:test"
+import { readFileSync, rmSync } from "node:fs"
+import { join } from "node:path"
+import { NOWHERE } from "@akasha/code/code-typing"
+import type { Change } from "@akasha/pages/change"
+import { shadowAsked, shadowFor } from "@akasha/pages/shadow"
+import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import {
+  claimedIn,
+  configOf,
+  matching,
+  omittingIn,
+  reachedBy,
+  reachesTypegen,
+  refusalsOver,
+  rootsOf,
+  servingOf,
+  typesIn,
+} from "./typecheck.code-check.decision.code.ts"
+import {
+  across,
+  basing,
+  breaking,
+  CHAINED,
+  calling,
+  change,
+  DECLARED_AT,
+  declared,
+  declaring,
+  deep,
+  EARLY,
+  exporting,
+  FIRST_OF,
+  generating,
+  HERE,
+  holding,
+  IMPORTS_TYPEGEN,
+  LOADED_AT,
+  MADE,
+  moving,
+  noting,
+  numbered,
+  ONE_NUMBER,
+  packaging,
+  pairing,
+  READER_AT,
+  reading,
+  scratch,
+  THING_AT,
+  TWO_BREAKS,
+  twinned,
+  unreached,
+  WHOLE,
+  WITHOUT,
+  WRONG,
+} from "./typecheck.code-check.decision.test-fixtures.ts"
+
+afterAll(scratch.sweep)
+
+async function judged(one: Change): Promise<readonly Judged[]> {
+  const cast = shadowFor(one)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return await refusalsOver(one, cast.shadow)
+}
+
+function reached(one: Change): readonly string[] {
+  const cast = shadowFor(one)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return reachedBy(one, cast.shadow.index)
+}
+
+async function over(root: string, path: string, body: string | null): Promise<readonly Judged[]> {
+  return await judged(change(root, { [path]: body }))
+}
+
+test("the settings carry the files judged and every ambient type the packages folder holds", () => {
+  expect(typesIn(HERE)).toContain("bun")
+  const said: { compilerOptions: { types: string[] }; files: string[] } = JSON.parse(
+    configOf(HERE, ["one.ts", "two.ts"])
+  )
+  expect(said.files).toEqual(["one.ts", "two.ts"])
+  expect(said.compilerOptions.types).toContain("bun")
+})
+
+test("the config is answered at the path the compiler was told to open", () => {
+  const at = `${HERE}/tsconfig.typecheck.json`
+  const serving = servingOf(
+    HERE,
+    at,
+    "{}",
+    (path) => (path.endsWith("held.ts") ? "export const held = 1" : undefined),
+    NOWHERE
+  )
+  expect(serving(at)).toBe("{}")
+  expect(serving(`${HERE}/held.ts`)).toBe("export const held = 1")
+  expect(serving(`${HERE}/gone.ts`)).toBeNull()
+  expect(serving("/etc/hostname")).toBeUndefined()
+})
+
+test("a page the change takes away leaves what its page type says loads it uncompiled", async () => {
+  const root = declaring()
+  const gone = change(root, { [LOADED_AT]: null })
+  const cast = shadowFor(gone)
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(rootsOf(gone, cast.shadow.index)).toEqual([])
+  expect(await refusalsOver(gone, cast.shadow)).toEqual([])
+})
+
+test("a declaration file akasha holds names a global for a change no import reaches it from", async () => {
+  const root = declared({ "akasha/one.ts": "export const one = 1\n" })
+  expect(await over(root, "akasha/one.ts", "export const one = HELD_ONE\n")).toEqual([])
+})
+
+test("a declaration file the change carries is judged, so a fault inside it is refused", async () => {
+  const root = declared({})
+  const said = await over(root, DECLARED_AT, "declare const HELD_ONE: number = 1\n")
+  expect(said.map((one) => one.path)).toEqual([DECLARED_AT])
+  expect(said[0]?.reason).toContain("TS1039")
+})
+
+test("what a config's include names is read as a pattern rather than as plain text", () => {
+  expect(matching("a/src/*.ts").test("a/src/one.ts")).toBe(true)
+  expect(matching("a/src/*.ts").test("a/src/deep/one.ts")).toBe(false)
+  expect(matching("a/src/**/*.ts").test("a/src/deep/one.ts")).toBe(true)
+  expect(matching("a/one.d.ts").test("a/oneXd.ts")).toBe(false)
+})
+
+test("a file a lua runtime library's config names is compiled by that config rather than here", () => {
+  const held = change(HERE, {})
+  const claimed = claimedIn(held, shadowAsked(held).index)
+  const lua = "language-design/lua-compiler"
+  expect(claimed(`${lua}/performance-global/performance-global.type-declaration.d.ts`)).toBe(true)
+  expect(claimed(`${lua}/lualib/src/whatever.ts`)).toBe(true)
+  expect(claimed("checks/code-checks/pages/typecheck/typecheck.code-check.code.ts")).toBe(false)
+})
+
+test("a satisfies clause is narrowed where it stands, and the body keeps every line it had", () => {
+  const said = omittingIn(THING_AT, WITHOUT, ["held", "other"])
+  expect(said).toContain('satisfies Omit<Thing, "held" | "other">')
+  expect(said?.split("\n").length).toBe(WITHOUT.split("\n").length)
+})
+
+test("the narrowing reaches for no import, `Omit` being TypeScript's own", () => {
+  const said = omittingIn(THING_AT, WITHOUT, ["held"]) ?? ""
+  expect(said.match(/^import/gm)).toEqual(WITHOUT.match(/^import/gm))
+})
+
+test("keys naming nothing narrow nothing at all", () => {
+  expect(omittingIn(THING_AT, WITHOUT, [])).toBe(null)
+})
+
+test("a body carrying no satisfies clause narrows to nothing, so it is judged as it stands", () => {
+  expect(omittingIn("akasha/one.ts", "export const one = 1\n", ["held"])).toBe(null)
+})
+
+test("a page being created compiles without the property a generator fills after the checks", async () => {
+  expect(await judged(change(generating({}), { [THING_AT]: WITHOUT }))).toEqual([])
+})
+
+test("a body reaching one beside it in a folder the change makes is refused for nothing", async () => {
+  expect(await judged(change(generating({}), MADE))).toEqual([])
+})
+
+test("a page being created is refused for the property a generator fills before the checks, the value standing in the body by then", async () => {
+  const said = await judged(change(generating({}, EARLY), { [THING_AT]: WITHOUT }))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(THING_AT)
+  expect(said[0]?.reason).toContain("held")
+})
+
+test("a page already standing is refused for dropping the property a generator fills", async () => {
+  const said = await judged(change(generating({ [THING_AT]: WHOLE }), { [THING_AT]: WITHOUT }))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(THING_AT)
+  expect(said[0]?.reason).toContain("held")
+})
+
+test("a page being created is still refused for what the narrowing does not cover", async () => {
+  const said = await judged(change(generating({}), { [THING_AT]: WRONG }))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(THING_AT)
+  expect(said[0]?.reason).toContain("TS2322")
+  expect(said[0]?.reason).toContain("not assignable")
+})
+
+test("akasha TypeScript that compiles is judged clean", async () => {
+  const root = numbered()
+  expect(await over(root, "akasha/one.ts", ONE_NUMBER)).toEqual([])
+})
+
+test("a proposed body whose type does not hold is refused, and names the line", async () => {
+  const root = numbered()
+  const said = await over(root, "akasha/one.ts", TWO_BREAKS)
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe("akasha/one.ts")
+  expect(said[0]?.reason).toContain("line 2")
+  expect(said[0]?.reason).toContain("TS2322")
+})
+
+test("a proposed body that fixes what stands on disk is judged clean, so the change is what is read", async () => {
+  const root = breaking()
+  expect(await over(root, "akasha/one.ts", ONE_NUMBER)).toEqual([])
+  expect(await over(root, "akasha/one.ts", null)).toEqual([])
+})
+
+test("a proposed body that breaks what stands clean on disk is refused, so the change is what is read", async () => {
+  const root = numbered()
+  expect(await judged(change(root, {}))).toEqual([])
+  expect(await over(root, "akasha/one.ts", "export const one: string = 1\n")).toHaveLength(1)
+  expect(await judged(change(root, {}))).toEqual([])
+})
+
+test("a type is judged across files, so a caller is refused for a callee it no longer fits", async () => {
+  const root = calling()
+  const said = await over(
+    root,
+    "akasha/calls.ts",
+    'import { held } from "./held.ts"\nexport const one = held("no")\n'
+  )
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe("akasha/calls.ts")
+})
+
+test("a change that would break a file it does not touch is refused, and answers at that file", async () => {
+  const root = calling()
+  const said = await over(
+    root,
+    "akasha/held.ts",
+    "export function held(one: string): string {\n  return one\n}\n"
+  )
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe("akasha/calls.ts")
+  expect(said[0]?.reason).toContain("does not compile")
+})
+
+test("a file the change takes away is gone for the compiler, so a file still importing it is refused", async () => {
+  const root = calling()
+  const said = await over(root, "akasha/held.ts", null)
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe("akasha/calls.ts")
+  expect(said[0]?.reason).toContain("TS2307")
+})
+
+test("a file the change takes away answers for none of its own diagnostics", async () => {
+  const root = breaking()
+  expect(await over(root, "akasha/one.ts", null)).toEqual([])
+})
+
+test("an export the change takes away breaks the file reading it", async () => {
+  const root = exporting()
+  const said = await over(root, "akasha/held.ts", "export const one = 1\n")
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe("akasha/calls.ts")
+})
+
+test("a file the change brings is compiled though no disk holds it", async () => {
+  const root = numbered()
+  const said = await judged(change(root, { "akasha/two.ts": "export const two: string = 2\n" }))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe("akasha/two.ts")
+})
+
+test("a diagnostic against a file the change did not touch is reported once, however many paths it holds", async () => {
+  const root = reading()
+  const said = await judged(
+    change(root, {
+      "akasha/a.ts": "export const a = 10\n",
+      "akasha/b.ts": "export const b = 20\n",
+      "akasha/c.ts": "export const c = 30\n",
+    })
+  )
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe("akasha/broken.ts")
+})
+
+test("an index read without a guard is refused, so the settings are the strict ones", async () => {
+  const said = await over(holding(), "akasha/one.ts", FIRST_OF)
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("undefined")
+})
+
+test("a file that is not TypeScript is passed over, and one in any folder under the root is judged", async () => {
+  const root = holding()
+  expect(await over(root, "akasha/notes.txt", "nothing to compile\n")).toEqual([])
+  const said = await over(root, "shared/one.ts", "export const one: string = 1\n")
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe("shared/one.ts")
+})
+
+test("a folder holding no TypeScript is judged clean without a program being built", async () => {
+  const root = noting()
+  expect(await judged(change(root, { "akasha/notes.txt": "still nothing\n" }))).toEqual([])
+})
+
+test("the files compiled are the change and everything importing it, however far", () => {
+  const root = deep()
+  expect(reached(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
+    "akasha/deep/three.ts",
+    "akasha/deep/two.ts",
+    "akasha/one.ts",
+  ])
+  expect(reached(change(root, { "akasha/apart.ts": "export const apart = 2\n" }))).toEqual([
+    "akasha/apart.ts",
+  ])
+})
+
+test("a file nothing in the change reaches is not compiled, so its standing errors are not this change's", async () => {
+  const root = unreached()
+  expect(await judged(change(root, { "akasha/apart.ts": "export const apart = 2\n" }))).toEqual([])
+})
+
+test("the akasha folder is the whole repository, so an importer in any folder under it is a root", () => {
+  const root = across()
+  expect(reached(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
+    "akasha/one.ts",
+    "shared/two.ts",
+  ])
+})
+
+test("a shadow asked for a change reaches the importers the change itself reaches", async () => {
+  const root = pairing()
+  const held = change(root, { "akasha/one.ts": "export const one = 2\n" })
+  expect(reached(held)).toEqual(["akasha/one.ts", "akasha/two.ts"])
+  expect(reachedBy(held, shadowAsked(held).index)).toEqual(["akasha/one.ts", "akasha/two.ts"])
+  expect((await judged(held)).map((one) => one.path)).toEqual(["akasha/two.ts"])
+})
+
+test("an index standing and naming no importer is an answer, so the change alone is compiled", () => {
+  const root = twinned()
+  expect(reached(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
+    "akasha/one.ts",
+  ])
+})
+
+test("a change naming no TypeScript under the akasha folder asks the index nothing", async () => {
+  const root = holding()
+  rmSync(join(root, ".git"), { recursive: true })
+  expect(await judged(change(root, { "akasha/notes.txt": "nothing to compile\n" }))).toEqual([])
+})
+
+test("a file whole at base and deleted from the worktree alone still answers for its errors", async () => {
+  const root = basing()
+  const held = readFileSync(join(root, "akasha/b.ts"), "utf8")
+  const changed = { "akasha/a.ts": ONE_NUMBER }
+  const refusals = await judged(change(root, changed))
+  rmSync(join(root, "akasha/b.ts"))
+  const gone = await judged(change(root, changed, { "akasha/b.ts": held }))
+  expect(refusals).toHaveLength(1)
+  expect(refusals[0]?.path).toBe("akasha/b.ts")
+  expect(gone).toEqual(refusals)
+})
+
+test("a diagnostic carried in a chain is one reason", async () => {
+  const said = await over(holding(), "akasha/one.ts", CHAINED)
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("missing")
+})
+
+test("what is passed over is what imports generated route types rather than where it sits", () => {
+  expect(reachesTypegen("routes/one.ts", 'import type { Route } from "./+types/one"\n')).toBe(true)
+  expect(reachesTypegen("routes/one.ts", "export const one = 1\n")).toBe(false)
+  expect(reachesTypegen("held.ts", 'export const said = "./+types/root"\n')).toBe(false)
+})
+
+test("a body importing generated route types is reached and left unjudged", async () => {
+  const root = numbered()
+  const held = change(root, { "akasha/two.ts": IMPORTS_TYPEGEN })
+  expect(reached(held)).toEqual(["akasha/two.ts"])
+  expect(await judged(held)).toEqual([])
+})
+
+test("a package the change brings into being is reached where its manifest sits, with no link on disk", async () => {
+  expect(await judged(change(holding(), packaging("@akasha/persons")))).toEqual([])
+})
+
+test("a way in that manifest does not name is refused, so not every specifier resolves", async () => {
+  const said = await judged(change(holding(), packaging("@akasha/persons/apart")))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(READER_AT)
+  expect(said[0]?.reason).toContain("TS2307")
+})
+
+test("a moved package is judged where it lands rather than where the link points", async () => {
+  expect(await judged(moving())).toEqual([])
+})
