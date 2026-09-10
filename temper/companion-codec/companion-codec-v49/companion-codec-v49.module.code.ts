@@ -51,7 +51,7 @@ import {
   getCompanionWeaponTypeIndex,
 } from "../companion-codec-indices/companion-codec-indices.module.code.ts"
 
-const COMPANION_BUILD_TYPE = 0x02
+export const COMPANION_BUILD_TYPE = 0x02
 
 export const ESO_VERSION_49 = 49
 const CODEC_MINOR_VERSION = 8

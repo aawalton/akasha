@@ -21,12 +21,11 @@ import {
   getCompanionTraitId,
   getCompanionWeaponTypeId,
 } from "../companion-codec-indices/companion-codec-indices.module.code.ts"
-import { ESO_VERSION_48 } from "../companion-codec-v48/companion-codec-v48.module.code.ts"
 import {
   ESO_VERSION_49,
   encodeV49,
 } from "../companion-codec-v49/companion-codec-v49.module.code.ts"
-import { decodeCompanion, encodeCompanion } from "./companion-codec.module.code.ts"
+import { decodeCompanion, ESO_VERSION_48, encodeCompanion } from "./companion-codec.module.code.ts"
 
 const COMPANION_BUILD_TYPE = 2
 

@@ -7,12 +7,7 @@ export const temperCompanionCodec = {
   slug: "temper-companion-codec",
   definition:
     "packing a companion build into text and reading one back at whichever update wrote it",
-  parts: [
-    "module/companion-codec",
-    "module/companion-codec-indices",
-    "module/companion-codec-v48",
-    "module/companion-codec-v49",
-  ],
+  parts: ["module/companion-codec", "module/companion-codec-indices", "module/companion-codec-v49"],
   invariants: [
     {
       invariantKind: "departure",

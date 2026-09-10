@@ -8,14 +8,12 @@ import type { BuildHash } from "../../formula-framework/branded-id/branded-id.mo
 import { buildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import {
   COMPANION_BUILD_TYPE,
-  decodeV48,
-  ESO_VERSION_48,
-} from "../companion-codec-v48/companion-codec-v48.module.code.ts"
-import {
   decodeV49,
   ESO_VERSION_49,
   encodeV49,
 } from "../companion-codec-v49/companion-codec-v49.module.code.ts"
+
+export const ESO_VERSION_48 = 48
 
 export function encodeCompanion(build: CompanionState): BuildHash {
   const bytes = encodeV49(build)
@@ -38,7 +36,6 @@ export function decodeCompanion(encoded: BuildHash): CompanionState | null {
 
   switch (version) {
     case ESO_VERSION_48:
-      return decodeV48(bytes)
     case ESO_VERSION_49:
       return decodeV49(bytes)
     default:
