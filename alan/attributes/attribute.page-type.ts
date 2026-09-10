@@ -22,6 +22,7 @@ export const attribute = {
     "number-property/points-today",
     "number-property/points-total",
     "text-property/point-unit",
+    "domain/attribute-readouts",
   ],
   properties: [
     { pageProperty: "code-file-property/code", required: false, many: false },
