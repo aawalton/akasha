@@ -1,4 +1,4 @@
-import type { TemperStatusEffectType } from "../temper-status-effect-type.page-type.ts"
+import type { TemperStatusEffectType } from "../temper-status-effect-type.page-type.types.ts"
 
 export const knockback = {
   id: "019e5a51-291e-7975-b90f-0fbd533444d0",

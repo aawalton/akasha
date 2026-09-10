@@ -1,4 +1,4 @@
-import type { TemperStatusEffectType } from "../temper-status-effect-type.page-type.ts"
+import type { TemperStatusEffectType } from "../temper-status-effect-type.page-type.types.ts"
 
 export const fear = {
   id: "019e5a51-291a-7a75-9c13-eee79b63e7ae",

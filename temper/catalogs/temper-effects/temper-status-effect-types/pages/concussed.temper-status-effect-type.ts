@@ -1,4 +1,4 @@
-import type { TemperStatusEffectType } from "../temper-status-effect-type.page-type.ts"
+import type { TemperStatusEffectType } from "../temper-status-effect-type.page-type.types.ts"
 
 export const concussed = {
   id: "019e5a51-2927-78f0-abaa-97966ef93ee0",
