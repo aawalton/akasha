@@ -9,6 +9,11 @@ export const dallaDraftIntoAPatch = {
   persona: "dalla",
   intents: [
     {
+      statement: "Nothing carries a whole body between the edits and the write.",
+      workingMemory:
+        "`bodiesFrom` in `edits-landing` replays the folded edits against the bodies on disk into `Bodies`; `folding` carries that; `applying` rebases it through `rebasedHeld` and hashes `one.was` in `warrantedAgain`; `change-preparing`'s `rowsOf` turns it back into `FileChange` rows, flattening every replace into an add. `drafting` declares `Body` and `Bodies`. Edits go in and edits come out, and only the rebase happens between.\n",
+    },
+    {
       statement: "No code here works out a unified diff.",
       workingMemory:
         "`commands/modules/patching` writes and reads a unified diff; `agents/modules/patch-keeping` keeps one at `<page>.patch.diff`. Only `commands/modules/drafting` calls either. Ten of drafting's exports — `droppedPatch`, `putBack`, `heldIn`, `rebasedOnto`, `wouldHold`, `runningIn`, `drafted`, `tookIn`, `resolved`, `droppedAt` — reach nothing outside those two. Live code takes four types plus `rebasedHeld`, `owedOf`, `runningOf` and `headOf`.\n",
