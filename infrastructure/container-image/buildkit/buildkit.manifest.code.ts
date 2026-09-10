@@ -1,4 +1,5 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { configChecksum } from "akasha/infrastructure/cluster/k8s-types/config-checksum/config-checksum.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
 import { synthNamespaceConfigmapDeploymentService } from "akasha/infrastructure/cluster/k8s-types/manifest-composing/manifest-composing.module.code.ts"
 
@@ -60,6 +61,10 @@ const BUILDKITD_TOML = [
   "",
 ].join("\n")
 
+const CONFIG_DATA = {
+  "buildkitd.toml": BUILDKITD_TOML,
+} as const
+
 function configmapYaml(): string {
   return synthOne(NAMESPACE, "configmap", {
     apiVersion: "v1",
@@ -68,9 +73,7 @@ function configmapYaml(): string {
       name: "buildkit-config",
       labels: RESOURCE_LABELS,
     },
-    data: {
-      "buildkitd.toml": BUILDKITD_TOML,
-    },
+    data: CONFIG_DATA,
   })
 }
 
@@ -90,7 +93,7 @@ function deploymentYaml(): string {
         metadata: {
           labels: RESOURCE_LABELS,
           annotations: {
-            "checksum/config": "PLACEHOLDER",
+            "checksum/config": configChecksum(CONFIG_DATA),
           },
         },
         spec: {
