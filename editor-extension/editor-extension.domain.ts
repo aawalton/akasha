@@ -89,6 +89,7 @@ export const editorExtension = {
     "workspace-package/vscode-typings",
     "domain/status-bar",
     "type-declaration/vscode-api",
+    "module/work-tree-deleting",
   ],
   invariants: [
     {

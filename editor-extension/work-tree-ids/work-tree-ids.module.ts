@@ -5,7 +5,7 @@ export const workTreeIds = {
   pageTypeSlug: "module",
   type: "module",
   slug: "work-tree-ids",
-  definition: "the strings the editor knows the work tree's view and refresh command by",
+  definition: "the strings the editor knows the work tree's view and its commands by",
   code: "ts",
   invariants: [
     {
@@ -14,11 +14,11 @@ export const workTreeIds = {
     },
     {
       invariantKind: "departure",
-      statement: "The refresh command's name opens with the view's name.",
+      statement: "Every command's name opens with the view's name.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here makes the view or the command these names reach.",
+      statement: "Nothing here makes the view or the commands these names reach.",
     },
     {
       invariantKind: "absence",

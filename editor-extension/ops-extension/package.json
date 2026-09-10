@@ -146,6 +146,11 @@
         "command": "opsAgentTree.enterInSeatTerminal",
         "category": "Ops Agents",
         "title": "Submit In Seat Terminal"
+      },
+      {
+        "command": "opsWorkTree.deleteIntent",
+        "category": "Ops Work",
+        "title": "Delete"
       }
     ],
     "keybindings": [
@@ -208,6 +213,11 @@
           "command": "opsAgentTree.openPage",
           "when": "view == opsAgentTree",
           "group": "0_open@1"
+        },
+        {
+          "command": "opsWorkTree.deleteIntent",
+          "when": "view == opsWorkTree && viewItem == intent",
+          "group": "7_modification@1"
         }
       ],
       "editor/title/context/replace": [

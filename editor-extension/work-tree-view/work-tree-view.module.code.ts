@@ -20,11 +20,6 @@ export interface WorkTreeView {
   readonly dispose: () => undefined
 }
 
-// THE ROW THE FILE CARRIES IS THE ROW DRAWN, WITH NOTHING SPELLED AGAIN BETWEEN THE TWO.
-//
-// The row already names its document by a whole path, so the checkout is wanted for one thing
-// only: shortening that path for the tooltip, which is done for the rows drawn rather than for
-// every row held.
 export function createWorkTree(root: string): WorkTreeView {
   const emitter = new vscode.EventEmitter<undefined>()
   let held: readonly WorkTreeRow[] = []
@@ -95,6 +90,7 @@ function buildTreeItem(element: WorkTreeRow, root: string, filtering: boolean): 
   item.count = element.children.length === 0 ? undefined : element.children.length
   item.description = element.detail ?? undefined
   item.iconPath = new vscode.ThemeIcon("blank")
+  item.contextValue = element.kind
   if (element.color !== null) {
     item.resourceUri = vscode.Uri.from({
       scheme: WORK_SCHEME,
@@ -119,9 +115,6 @@ function buildTreeItem(element: WorkTreeRow, root: string, filtering: boolean): 
   return item
 }
 
-// A ROW IS COLORED THROUGH A URI RATHER THAN DIRECTLY. A tree item takes no color of its own, so a
-// row carrying one sits under a scheme of this panel's making and the decoration answering that
-// scheme is what the editor draws the color from.
 export function createWorkDecorationProvider(): vscode.FileDecorationProvider {
   return {
     provideFileDecoration: (uri: vscode.Uri) => {

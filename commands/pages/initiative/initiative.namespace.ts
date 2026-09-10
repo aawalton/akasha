@@ -6,5 +6,9 @@ export const initiative = {
   type: "namespace",
   slug: "initiative",
   definition: "the initiatives at work and the intents each one has",
-  parts: ["command/initiative-move-intent", "command/initiative-work-tree"],
+  parts: [
+    "command/initiative-move-intent",
+    "command/initiative-work-tree",
+    "command/initiative-delete-intent",
+  ],
 } as const satisfies Namespace

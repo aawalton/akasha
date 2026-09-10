@@ -7,6 +7,7 @@ import {
 import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
 import { recordObservation } from "../observation-store/observation-store.module.code.ts"
 import { describedAs } from "../tree-description/tree-description.module.code.ts"
+import { deletingIntent } from "../work-tree-deleting/work-tree-deleting.module.code.ts"
 import {
   agreementOf,
   createWorkDragging,
@@ -15,7 +16,11 @@ import {
   type Ordering,
   reorderedTo,
 } from "../work-tree-dragging/work-tree-dragging.module.code.ts"
-import { REFRESH_COMMAND, VIEW_ID } from "../work-tree-ids/work-tree-ids.module.code.ts"
+import {
+  DELETE_INTENT_COMMAND,
+  REFRESH_COMMAND,
+  VIEW_ID,
+} from "../work-tree-ids/work-tree-ids.module.code.ts"
 import {
   countOfKind,
   countRows,
@@ -141,7 +146,13 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       view.description = describedAs(tree.matchCount(), total)
     }),
     vscode.window.registerFileDecorationProvider(createWorkDecorationProvider()),
-    vscode.commands.registerCommand(REFRESH_COMMAND, () => refresh("manual"))
+    vscode.commands.registerCommand(REFRESH_COMMAND, () => refresh("manual")),
+    vscode.commands.registerCommand(DELETE_INTENT_COMMAND, (row?: WorkTreeRow) =>
+      deletingIntent(vscode, (line) => {
+        output.appendLine(line)
+        return undefined
+      })(row)
+    )
   )
   return undefined
 }

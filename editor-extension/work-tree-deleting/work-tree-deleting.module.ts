@@ -1,0 +1,66 @@
+import type { Module } from "../../code-system/modules/module.page-type.ts"
+
+export const workTreeDeleting = {
+  id: "01a08c50-69e1-76f0-a610-90ebd835ef29",
+  pageTypeSlug: "module",
+  type: "module",
+  slug: "work-tree-deleting",
+  definition: "the row Alan deletes in the work tree named to the command that deletes it",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A row is deleted from the menu the editor draws over that row.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An intent is named to the command by its initiative and its statement.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A row's initiative is read off that row's key by the module reading a drag's key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The statement named is the label the row is drawn under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row that is no intent deletes no intent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Deleting an intent is made by the command taking an intent out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A deletion that failed is said to Alan once and written to the panel's channel.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The editor is handed in rather than imported, so a test runs outside the editor.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The harness call is handed in rather than imported, for that same reason.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row deleted leaves the panel when the file the service writes has it gone.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Alan is not asked to confirm before an intent goes.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here writes the initiative's page.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here draws a row.",
+    },
+  ],
+} as const satisfies Module

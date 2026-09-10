@@ -58,6 +58,14 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
+      statement: "The menu over a row is answered by the deleting module the panel registers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A deletion says what it said on the same channel a drop says on.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file the service has not written leaves the rows drawn as they are.",
     },
     {
