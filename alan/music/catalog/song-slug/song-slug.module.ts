@@ -48,7 +48,7 @@ export const songSlug = {
     {
       invariantKind: "departure",
       statement:
-        "A colliding slug's number is fitted inside that length rather than added past it.",
+        "A colliding slug's number is fitted inside that length rather than added past that length.",
     },
     {
       invariantKind: "departure",
