@@ -1,4 +1,4 @@
-import type { TemperQuestGiver } from "../temper-quest-giver.page-type.ts"
+import type { TemperQuestGiver } from "../temper-quest-giver.page-type.types.ts"
 
 export const glirionTheRedbeard = {
   id: "019e121f-c742-7892-bd4f-b4fca9ab01b9",

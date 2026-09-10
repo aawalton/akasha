@@ -1,4 +1,4 @@
-import type { TemperQuestGiver } from "../temper-quest-giver.page-type.ts"
+import type { TemperQuestGiver } from "../temper-quest-giver.page-type.types.ts"
 
 export const urgarlagChiefBane = {
   id: "019e121f-c744-7eee-8487-370f70f4a93d",
