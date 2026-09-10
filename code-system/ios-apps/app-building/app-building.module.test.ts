@@ -71,24 +71,31 @@ test("both apps are built by the one script sitting above them", () => {
 })
 
 test("the build script is the shell file beside the page the app names", () => {
-  expect(planned("alanwalton").buildScriptPath).toEndWith(
-    "scripts/build-sim/build-sim.shell-script.shell.sh"
-  )
+  expect(planned("alanwalton").buildScriptPath).toEndWith("build-sim.shell-script.shell.sh")
 })
 
 test("the only directory delivered whole is the app's own package", () => {
   const held = planned("alanwalton")
-  expect(held.shellPath).toBe("code-system/ios-apps/pages/alanwalton")
   expect(held.deliverPaths).toEqual([held.shellPath])
+})
+
+test("each app is delivered from a directory of its own", () => {
+  expect(planned("alanwalton").shellPath).not.toBe(planned("smilingjenny").shellPath)
+})
+
+test("the script both apps run sits outside the directory either app is delivered from", () => {
+  const script = planned("alanwalton").buildScriptPath
+  expect(script.startsWith(`${planned("alanwalton").shellPath}/`)).toBe(false)
+  expect(script.startsWith(`${planned("smilingjenny").shellPath}/`)).toBe(false)
 })
 
 test("the shell, the Swift and the plists the mac reads are each delivered", () => {
   const said = planned("alanwalton").deliverFiles.join("\n")
-  expect(said).toContain("widget-components/widget-components.shell-script.shell.sh")
-  expect(said).toContain("ring/ring.ios-component.swift.swift")
+  expect(said).toContain("widget-components.shell-script.shell.sh")
+  expect(said).toContain("ring.ios-component.swift.swift")
   expect(said).toContain("alanwalton-widget.ios-program.info-plist.plist")
   expect(said).toContain("alanwalton-widget.ios-program.entitlements.entitlements")
-  expect(said).toContain("alanwalton-decode-harness/main.swift")
+  expect(said).toContain("alanwalton-decode-harness")
 })
 
 test("a shell script no app build shares reaches no mac", () => {
@@ -129,8 +136,8 @@ test("an app whose site is a page of its own is planned like any other", () => {
 
 test("every component the shipped program names is handed to the seam", () => {
   const said = planned("alanwalton").exports.join("\n")
-  expect(said).toContain("ring/ring.ios-component.swift.swift")
-  expect(said).toContain("tier/tier.ios-component.swift.swift")
+  expect(said).toContain("ring.ios-component.swift.swift")
+  expect(said).toContain("tier.ios-component.swift.swift")
 })
 
 test("an app whose site is a page of its own stages nothing", () => {
