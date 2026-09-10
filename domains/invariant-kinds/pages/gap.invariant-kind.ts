@@ -1,4 +1,4 @@
-import type { InvariantKind } from "../invariant-kind.page-type.ts"
+import type { InvariantKind } from "../invariant-kind.page-type.types.ts"
 
 export const gap = {
   id: "01a04e11-9f98-7835-9710-117a527c190d",

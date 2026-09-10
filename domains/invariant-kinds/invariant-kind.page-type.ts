@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "../domain.page-type.ts"
-import type { InvariantGroup } from "./properties/invariant-group.relation-property.ts"
-
-export type InvariantKind = Domain & {
-  invariantGroup: InvariantGroup
-}
 
 export const invariantKind = {
   id: "01a04e11-9f98-775b-846d-a9985a5ebd21",
@@ -30,4 +24,5 @@ export const invariantKind = {
       statement: "A kind is in one group.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
