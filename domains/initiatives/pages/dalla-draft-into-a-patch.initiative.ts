@@ -18,6 +18,11 @@ export const dallaDraftIntoAPatch = {
       workingMemory:
         "`.supervisors/<seat id>/` holds `oauth-proxy.log`, `oauth-proxy.sock`, `oauth-proxy.stderr.log`, `subagent-presence.log` and `supervisor.log`. `supervisor-log-path:4` names the folder, and `supervisor-console`, `supervisor-log-sweeping`, `subagent-census` and `subagent-presence` reach it. The seat page type already holds uncommitted properties, and `page-entry-landing` already names and writes their files.\n",
     },
+    {
+      statement: "Each piece the asking module holds sits in a module answering for one concern.",
+      workingMemory:
+        "`asking.module.code.ts` holds six concerns: `mistaking` and `troubling` word a refusal, and nearly every command reaches them; `bytesAt`, `textOf` and `textAt` read a body off disk; `BREAK_GLASS` names a flag `command-flags` carries the rest of; `glassSaid`, `bypassedIn`, `unloadableIn` and `counted` word commit trailers; `puttingUpSaid` spells the command putting a subagent's page up; `MECHANICAL` is a change kind. The module page states this as a gap already.\n",
+    },
   ],
   constraints: [
     "A read hands back the body at HEAD rather than the body the patch would leave.",
