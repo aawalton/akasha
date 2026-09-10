@@ -110,6 +110,14 @@ export const readout = {
       invariantKind: "gap",
       statement: "Every key a feed sends is decoded by the tile reading that feed.",
     },
+    {
+      invariantKind: "gap",
+      statement: "Every readout a group draws keeps its last reading beside its own page.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Every readout that takes a reading names a group that draws the reading.",
+    },
   ],
   directives: [
     {

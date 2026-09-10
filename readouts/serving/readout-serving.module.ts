@@ -111,5 +111,20 @@ export const readoutServing = {
       invariantKind: "absence",
       statement: "Nothing here reads a person or a device.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The reading relayed here is read before the reading carried on the readout's own row.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A machine that starts again draws its tiles from the readout rows rather than blank.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A workstation that stops taking readings leaves every tile drawn rather than blank.",
+    },
   ],
 } as const satisfies Module

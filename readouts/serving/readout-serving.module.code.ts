@@ -69,9 +69,6 @@ export async function answerReadoutAdmittedBy(
   const refusal = await admit(request)
   if (refusal !== null) return refusal
 
-  const value = relayedFresh(readoutSlug)
-  if (value === null) return noReading()
-
   const asked = await askingFor({
     pageTypeSlug: READOUT,
     where: { slug: { is: readoutSlug } },
@@ -80,6 +77,11 @@ export async function answerReadoutAdmittedBy(
 
   const [row] = asked.rows
   if (row === undefined) return noReading()
+
+  const relayed = relayedFresh(readoutSlug)
+  const carried = readingHeldOn(row)
+  const value = relayed ?? (carried.held === "fresh" ? carried.value : null)
+  if (value === null) return noReading()
 
   const wireKey = stated(row.wireKey)
   if (wireKey === undefined) return noReading()

@@ -163,6 +163,55 @@ test("a machine that starts again holds no reading", async () => {
   expect((await ring(CREDENTIAL)).status).toBe(503)
 })
 
+const rowCarrying = (value: number, at: Date = new Date()) => ({
+  ...READOUT_ROW,
+  lastValue: value,
+  lastValueAt: at.toISOString(),
+})
+
+const countAnswered = async (): Promise<unknown> =>
+  ((await (await ring(CREDENTIAL)).json()) as Record<string, unknown>)[WIRE_KEY]
+
+test("the reading relayed here is answered before the reading on the readout's own row", async () => {
+  ANSWERED.rows = [rowCarrying(7)]
+  relayedFor(READOUT, 41)
+  expect(await countAnswered()).toBe(41)
+})
+
+test("a machine that starts again answers the reading the readout's own row carries", async () => {
+  ANSWERED.rows = [rowCarrying(7)]
+  expect((await ring(CREDENTIAL)).status).toBe(200)
+  expect(await countAnswered()).toBe(7)
+})
+
+test("a reading on neither the relay nor the row is no reading", async () => {
+  const answered = await ring(CREDENTIAL)
+  expect(answered.status).toBe(503)
+  expect(await answered.json()).toEqual({ ok: false, error: "No reading." })
+})
+
+test("a reading on the row past forty-five minutes is no reading", async () => {
+  ANSWERED.rows = [rowCarrying(7, new Date(Date.now() - 46 * 60_000))]
+  expect((await ring(CREDENTIAL)).status).toBe(503)
+})
+
+test("a reading on the row inside forty-five minutes is still a reading", async () => {
+  ANSWERED.rows = [rowCarrying(7, new Date(Date.now() - 44 * 60_000))]
+  expect((await ring(CREDENTIAL)).status).toBe(200)
+})
+
+test("a reading of nothing on the row is answered as a count rather than as none", async () => {
+  ANSWERED.rows = [rowCarrying(0)]
+  expect((await ring(CREDENTIAL)).status).toBe(200)
+  expect(await countAnswered()).toBe(0)
+})
+
+test("a reading too old on the relay gives way to a fresh reading on the row", async () => {
+  ANSWERED.rows = [rowCarrying(7)]
+  relayedFor(READOUT, 41, new Date(Date.now() - 46 * 60_000))
+  expect(await countAnswered()).toBe(7)
+})
+
 test("the moment a reading is judged against is handed in rather than read here", () => {
   holdRelayed({ readout: READOUT, value: 19, at: TAKEN })
   expect(relayedFresh(READOUT, new Date("2026-08-31T12:44:00.000Z"))).toBe(19)
