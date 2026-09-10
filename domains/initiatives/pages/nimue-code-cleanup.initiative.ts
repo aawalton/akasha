@@ -21,7 +21,7 @@ export const nimueCodeCleanup = {
     {
       statement: "All code-system files are in the code/ folder.",
       workingMemory:
-        "The package is gone: `code-system` holds `code-system.domain.ts` and no `package.json`, so this move is `move-folder` rather than `move-folder-package`. The guard `folder-not-left-named` refuses a move whose body still spells the emptied folder. `code-system/ios-apps/scripts` is spelled in `app-building.module.code.ts`, in `sim-run-tree.module.code.ts` and in three test files beside them.\n",
+        "`move-folder` at `code-system` to `code` refuses at `app-building.module.test.ts`, which spells `code-system/ios-apps/pages/alanwalton`. The guard reads only TypeScript bodies the move writes, so seven files naming `code-system` outside TypeScript stay invisible: the agent settings JSON, `provisioning-bash-env`, `temper/watcher/image/Containerfile` and three ios shell scripts. Each wants repointing inside the move.\n",
     },
     {
       statement: "The code folder tree passes the folder-matches-a-shape check.",
