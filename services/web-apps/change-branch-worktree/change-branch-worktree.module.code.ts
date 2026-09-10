@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const WORKTREES = "worktrees"
 
@@ -10,7 +11,7 @@ export function changeBranchName(seq: number): string {
 }
 
 export function branchWorktreePath(name: string): string {
-  return join(process.env.HOME ?? "", WORKTREES, name)
+  return join(optionalEnv("HOME") ?? "", WORKTREES, name)
 }
 
 export type BranchWorktree =
@@ -19,8 +20,8 @@ export type BranchWorktree =
 
 export function changeBranchWorktree(seq: number): BranchWorktree {
   const name = changeBranchName(seq)
-  const stated = process.env.WORKTREE_DIR
-  if (stated !== undefined && stated !== "") {
+  const stated = optionalEnv("WORKTREE_DIR")
+  if (stated !== undefined) {
     if (!existsSync(stated)) {
       return {
         ok: false,
