@@ -1,15 +1,10 @@
 import { readFile } from "node:fs/promises"
 
-// A WINDOW IS SAID AS ONE STRING, THE PID ALONE NOT TELLING ONE WINDOW FROM ANOTHER. A pid is
-// handed to a new process once the process holding it ends, so the moment the process started is
-// read alongside the pid and the two are said together.
 interface WindowIdentity {
   readonly pid: number
   readonly startedAt: number
 }
 
-// The command a process runs under can hold spaces and brackets of its own, so the fields after it
-// are found by seeking the last closing bracket rather than by counting from the front.
 function parseProcessStart(stat: string): number | undefined {
   const afterComm = stat.lastIndexOf(")")
   if (afterComm === -1) {
