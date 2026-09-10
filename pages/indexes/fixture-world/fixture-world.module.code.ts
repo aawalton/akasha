@@ -199,6 +199,7 @@ export function indexedRepo(named: Readonly<Record<string, string>> = {}): strin
     git(held, ["init", "--quiet"])
     git(held, ["config", "user.email", "held@nowhere"])
     git(held, ["config", "user.name", "Held"])
+    git(held, ["config", "gc.auto", "0"])
     for (const [at, body] of Object.entries({ ...declaringUnder(TREE), ...REPO, ...named })) {
       put(held, at, body)
     }

@@ -7,4 +7,14 @@ export const fixtureWorld = {
   slug: "fixture-world",
   definition: "the world of pages a test is set up with",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A world is built once and copied for each test that asks for that world.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Git packs nothing in that world on its own, so a copy reads what is there.",
+    },
+  ],
 } as const satisfies Module
