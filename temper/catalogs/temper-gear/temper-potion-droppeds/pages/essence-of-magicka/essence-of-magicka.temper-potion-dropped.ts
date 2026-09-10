@@ -1,4 +1,4 @@
-import type { TemperPotionDropped } from "../../temper-potion-dropped.page-type.ts"
+import type { TemperPotionDropped } from "../../temper-potion-dropped.page-type.types.ts"
 
 export const essenceOfMagicka = {
   id: "019e21f5-bdb6-710e-9cd3-9e2950cf08bd",

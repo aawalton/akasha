@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.types.ts"
-
-export type TemperPotionDropped = TemperGearThing
 
 export const temperPotionDropped = {
   id: "01a05fd1-d435-7e26-b0e7-584020995ebe",
@@ -20,4 +17,5 @@ export const temperPotionDropped = {
     { pageProperty: "text-property/item-level", required: true, many: false },
     { pageProperty: "number-property/potion-seconds", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType

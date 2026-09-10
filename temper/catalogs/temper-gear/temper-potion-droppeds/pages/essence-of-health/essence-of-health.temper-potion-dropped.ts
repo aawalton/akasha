@@ -1,4 +1,4 @@
-import type { TemperPotionDropped } from "../../temper-potion-dropped.page-type.ts"
+import type { TemperPotionDropped } from "../../temper-potion-dropped.page-type.types.ts"
 
 export const essenceOfHealth = {
   id: "019e21f5-bdb2-75ed-8a74-8c81eb26af73",
