@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { statesVersionSeven } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
+import { statesVersionSeven } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
 import {
   listedFiled,
   schemaFiled,

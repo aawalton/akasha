@@ -3,7 +3,7 @@ import {
   lineOf,
   parsedAs,
 } from "akasha/code-system/code-source/code-source.module.code.ts"
-import { statesVersionSeven } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
+import { statesVersionSeven } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
 import ts from "typescript"
 
 const ID = "id"

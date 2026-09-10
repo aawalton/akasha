@@ -1,4 +1,4 @@
-import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
+import { uuidVersion7 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
 import {
   type CrossCharacterReading,
   materializeCrossCharacterProgress,

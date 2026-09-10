@@ -1,8 +1,8 @@
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { entriesAt } from "akasha/pages/entries/page-entries.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { uuidVersion7 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 

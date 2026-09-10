@@ -1,7 +1,7 @@
 import { insertedInto } from "akasha/code-system/value-inserting/value-inserting.module.code.ts"
-import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { heldIn, pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { uuidVersion7 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
 import type { Generated } from "akasha/pages/indexes/generated-properties/generated-properties.module.code.ts"
 import { generatedProperties } from "akasha/pages/indexes/generated-properties/generated-properties.module.code.ts"
 import { type Shadow, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"

@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const randomId = {
   id: "01a05c48-deeb-7012-98c6-5d13910416a7",

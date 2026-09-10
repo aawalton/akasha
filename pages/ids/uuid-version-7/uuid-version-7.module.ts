@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const uuidVersion7 = {
   id: "01a07be9-0fe1-7ffb-9765-633921d012dd",

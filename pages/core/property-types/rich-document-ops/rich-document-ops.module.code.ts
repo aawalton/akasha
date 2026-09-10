@@ -1,4 +1,4 @@
-import { randomId } from "akasha/id-minting/random-id/random-id.module.code.ts"
+import { randomId } from "akasha/pages/ids/random-id/random-id.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import {
   healBlockMarker,

@@ -1,5 +1,5 @@
 import { insertedInto } from "akasha/code-system/value-inserting/value-inserting.module.code.ts"
-import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
+import { uuidVersion7 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
 import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
 import { refusing } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
