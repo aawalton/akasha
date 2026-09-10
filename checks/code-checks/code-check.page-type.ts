@@ -3,15 +3,15 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 import type { Entries } from "./properties/entries.file-property.ts"
 import type { RunsOnAudit } from "./properties/runs-on-audit.boolean-property.ts"
+import type { RunsOnChange } from "./properties/runs-on-change.boolean-property.ts"
 import type { RunsOnDeploy } from "./properties/runs-on-deploy.boolean-property.ts"
-import type { RunsOnPatch } from "./properties/runs-on-patch.boolean-property.ts"
 import type { RunsOnWorktree } from "./properties/runs-on-worktree.boolean-property.ts"
 
 export type CodeCheck = Domain & {
   decision?: ModulePropertyGroupCeilings
   check?: ModulePropertyGroupCeilings
   audit?: ModulePropertyGroupCeilings
-  runsOnPatch: RunsOnPatch
+  runsOnPatch: RunsOnChange
   runsOnWorktree: RunsOnWorktree
   runsOnDeploy: RunsOnDeploy
   runsOnAudit: RunsOnAudit
@@ -29,7 +29,7 @@ export const codeCheck = {
     "boolean-property/runs-on-audit",
     "list/code-comment-forms",
     "boolean-property/runs-on-deploy",
-    "boolean-property/runs-on-patch",
+    "boolean-property/runs-on-change",
     "boolean-property/runs-on-worktree",
     "file-property/entries",
     "module-property-group/audit",
@@ -98,7 +98,7 @@ export const codeCheck = {
     { pageProperty: "module-property-group/decision", required: false, many: false },
     { pageProperty: "module-property-group/check", required: false, many: false },
     { pageProperty: "module-property-group/audit", required: false, many: false },
-    { pageProperty: "boolean-property/runs-on-patch", required: true, many: false },
+    { pageProperty: "boolean-property/runs-on-change", required: true, many: false },
     { pageProperty: "boolean-property/runs-on-worktree", required: true, many: false },
     { pageProperty: "boolean-property/runs-on-deploy", required: true, many: false },
     { pageProperty: "boolean-property/runs-on-audit", required: true, many: false },
