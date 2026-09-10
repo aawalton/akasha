@@ -81,5 +81,9 @@ export const besideTurning = {
       invariantKind: "departure",
       statement: "The pages naming an id are read from the relation index rather than from a walk.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page naming an id is read off the index rather than off the disk.",
+    },
   ],
 } as const satisfies Module
