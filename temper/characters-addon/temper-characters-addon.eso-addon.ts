@@ -94,7 +94,8 @@ export const temperCharactersAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "The shape of that saved table is declared by a package rather than here.",
+      statement:
+        "The shape of that saved table is declared by a folder outside this add-on rather than here.",
     },
   ],
 } as const satisfies EsoAddon
