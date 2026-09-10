@@ -19,7 +19,7 @@ export const alanAuthProvider = {
     },
     {
       invariantKind: "departure",
-      statement: "Signing out lands on the signed-out route, carrying where the person was.",
+      statement: "Signing out lands on the signed-out route carrying where the person was.",
     },
   ],
 } as const satisfies Module
