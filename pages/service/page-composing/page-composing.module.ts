@@ -8,6 +8,7 @@ export const pageComposing = {
   definition: "the values a caller hands over, made into a page and what it keeps beside it",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
