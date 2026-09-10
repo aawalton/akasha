@@ -10,15 +10,15 @@ export const runServing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One request is read, run, and answered before the next is read.",
+      statement: "One request is read and run and answered before the next request is read.",
     },
     {
       invariantKind: "departure",
-      statement: "The server ends where the channel it reads from ends.",
+      statement: "The server ends where the channel the server reads from ends.",
     },
     {
       invariantKind: "departure",
-      statement: "A run is started by the same code a caller starting one itself would use.",
+      statement: "A run is started by the same code a caller starting a run would use.",
     },
     {
       invariantKind: "departure",
@@ -26,11 +26,12 @@ export const runServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A ceiling is judged here, so the process watching it is a step further away.",
+      statement: "A ceiling is judged here rather than in the process that asked for the run.",
     },
     {
       invariantKind: "departure",
-      statement: "A throw from starting a process goes back in the head rather than ending this.",
+      statement:
+        "A throw from starting a process goes back in the head rather than ending the server.",
     },
     {
       invariantKind: "absence",
