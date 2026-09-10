@@ -5,7 +5,7 @@ export const theByteCeilingForcesTheDivisionThatCorruptsAGeneratedTable = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-byte-ceiling-forces-the-division-that-corrupts-a-generated-table",
-  domain: "domain/data",
+  domain: "domain/code-system",
   claim:
     "Akasha's byte ceiling forces a generated data table to be divided, and whether division corrupts the table rests on one thing: whether the emitter imposes a total order. Where it sorts, the wire index is a function of the keys and no division can move it. Where the gathering module spreads its groups in turn, division moves the index and nothing fails. Akasha reads no table for which of the two it is.",
   evidence:
