@@ -1,4 +1,10 @@
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
+import type { Day } from "./day.page-type.types.ts"
+import type { WorkedSessions } from "./properties/sessions.page-property-entry.ts"
+
+export type WorkedDay = Omit<Day, "sessions"> & {
+  sessions?: WorkedSessions
+}
 
 export const day = {
   id: "01a05fd8-c30f-72ee-80d9-eb1c179b8359",
@@ -165,7 +171,6 @@ export const day = {
     { pageProperty: "page-property-entry/listens", required: false, many: false },
     { pageProperty: "number-property/lowest-email-inbox-count", required: false, many: false },
   ],
-  worked: "ts",
   invariants: [
     {
       invariantKind: "departure",

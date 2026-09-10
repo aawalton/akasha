@@ -1,5 +1,5 @@
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
-import type { WorkedDay } from "../day.page-type.worked.ts"
+import type { WorkedDay } from "../day.page-type.ts"
 import {
   gapIn,
   multiplierFor,
