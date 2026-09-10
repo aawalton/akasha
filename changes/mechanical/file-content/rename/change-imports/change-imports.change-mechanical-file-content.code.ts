@@ -17,6 +17,8 @@ const CODE = new Set([".ts", ".tsx"])
 
 const ROOT = "akasha/"
 
+const MAPPED = new WeakMap<Readonly<Record<string, string>>, ReadonlyMap<string, string>>()
+
 function stemOf(path: string): string {
   const name = basename(path)
   const tail = extname(name)
@@ -92,10 +94,18 @@ export type Given = {
   readonly moved: Readonly<Record<string, string>>
 }
 
+function mapFor(moved: Readonly<Record<string, string>>): ReadonlyMap<string, string> {
+  const held = MAPPED.get(moved)
+  if (held !== undefined) return held
+  const made = new Map(Object.entries(moved))
+  MAPPED.set(moved, made)
+  return made
+}
+
 export function runChange(world: World, given: Given): Said {
   if (!CODE.has(extname(given.now))) return stating([])
   const held = world.bodyOf(given.now) ?? world.bodyOf(given.was)
   if (notText(held)) return stating([])
   if (held === null) return refusing(`\`${given.now}\` holds no body, so nothing is repointed`)
-  return changeImports(given.was, given.now, held, new Map(Object.entries(given.moved)))
+  return changeImports(given.was, given.now, held, mapFor(given.moved))
 }

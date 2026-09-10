@@ -28,6 +28,14 @@ export const changeImports = {
     },
     {
       invariantKind: "departure",
+      statement: "The map read off that object is kept against the object it was read off.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One caller repointing many bodies hands the same object down and reads it once.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A specifier naming a package other than the root is left as it is, whatever moved.",
     },
