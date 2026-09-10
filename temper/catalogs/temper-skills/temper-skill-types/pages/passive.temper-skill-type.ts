@@ -1,4 +1,4 @@
-import type { TemperSkillType } from "../temper-skill-type.page-type.ts"
+import type { TemperSkillType } from "../temper-skill-type.page-type.types.ts"
 
 export const passive = {
   id: "019e46b5-a243-7401-aced-bd121d4944b2",

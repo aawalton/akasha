@@ -1,4 +1,4 @@
-import type { TemperSkillType } from "../temper-skill-type.page-type.ts"
+import type { TemperSkillType } from "../temper-skill-type.page-type.types.ts"
 
 export const ultimate = {
   id: "019e46b5-a240-7527-869f-db0a20988a21",
