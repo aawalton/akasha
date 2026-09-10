@@ -61,6 +61,7 @@ export const codeSystem = {
     "module/test-overlay",
     "page-type/performance",
     "domain/browser",
+    "domain/editor",
   ],
   invariants: [
     {
