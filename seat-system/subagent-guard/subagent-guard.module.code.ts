@@ -1,5 +1,3 @@
-export const DECLARATION_RELATIVE_PATH = "tools/lib/subagent-guard.ts"
-
 export const SUBAGENT_REJECT_BASES = ["subagents-working"] as const
 
 export type SubagentRejectBasis = (typeof SUBAGENT_REJECT_BASES)[number]

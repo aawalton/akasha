@@ -1,6 +1,3 @@
-export const DECLARATION_RELATIVE_PATH =
-  "seat-system/seat-relaunch-name-decide/seat-relaunch-name-decide.module.code.ts"
-
 export const RELAUNCH_NAME_OUTCOMES = ["use-row", "bind", "need-name"] as const
 
 export type RelaunchNameOutcome = (typeof RELAUNCH_NAME_OUTCOMES)[number]
