@@ -233,6 +233,10 @@ export const readoutGroupServing = {
       statement: "The helpers reading a tile's rings sit in one file rather than in each test.",
     },
     {
+      invariantKind: "departure",
+      statement: "Relaying one reading and reading the one stoplight back is one helper.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here takes a reading.",
     },

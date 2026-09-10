@@ -20,6 +20,7 @@ import {
   OTHER,
   OTHER_ROW,
   offScaleDrawn,
+  oneDrawn,
   READOUT,
   READOUT_ROW,
   rowReading,
@@ -82,8 +83,7 @@ test("a readout carrying no reading is answered as a stoplight carrying no figur
 })
 
 test("a reading older than the window is answered as a stoplight carrying no figure", async () => {
-  relayedFor(READOUT, 3, agedOut())
-  const [one] = await stoplights()
+  const one = await oneDrawn(3, agedOut())
   expect(one?.label).toBe("Safety")
   expect(one?.habit).toBe("safety")
   expect(one?.readingHeld).toBe("stale")
@@ -117,12 +117,8 @@ test("the color of a stoplight carrying no figure is the color below every rung"
 })
 
 test("a stoplight carrying no figure carries the figure as empty text rather than leaving it out", async () => {
-  const answered = await drawn()
-  expect(answered.status).toBe(200)
-  const body = (await answered.json()) as { stoplights: readonly Record<string, unknown>[] }
-  const [one] = body.stoplights
-  expect(one === undefined ? [] : Object.keys(one)).toContain("reading")
-  expect(one?.reading).toBe("")
+  expect(await keysAnswered()).toContain("reading")
+  expect((await stoplights())[0]?.reading).toBe("")
 })
 
 test("a stoplight carrying no figure carries no tier above and no fraction climbed", async () => {
@@ -130,17 +126,14 @@ test("a stoplight carrying no figure carries no tier above and no fraction climb
   expect(never?.nextTier).toBeUndefined()
   expect(never?.progress).toBeUndefined()
 
-  relayedFor(READOUT, 3, agedOut())
-  const [tooOld] = await stoplights()
+  const tooOld = await oneDrawn(3, agedOut())
   expect(tooOld?.nextTier).toBeUndefined()
   expect(tooOld?.progress).toBeUndefined()
 })
 
 test("a stoplight carrying a reading says nothing of how that reading is held", async () => {
   relayedFor(READOUT, 2.5)
-  const answered = await drawn()
-  const body = (await answered.json()) as { stoplights: readonly Record<string, unknown>[] }
-  expect(Object.keys(body.stoplights[0] ?? {})).not.toContain("readingHeld")
+  expect(await keysAnswered()).not.toContain("readingHeld")
 })
 
 test("a readout whose page names no wire key is left out rather than answered keyless", async () => {
@@ -152,16 +145,14 @@ test("a readout whose page names no wire key is left out rather than answered ke
 })
 
 test("the color answered is the rung the reading reaches on the scale the readout names", async () => {
-  relayedFor(READOUT, 2.5)
-  const [one] = await stoplights()
+  const one = await oneDrawn(2.5)
   expect(one?.tier).toBe("yellow")
   expect(one?.nextTier).toBe("green")
   expect(one?.progress).toBe(0.5)
 })
 
 test("the label and the key answered are the ones the readout's own page carries", async () => {
-  relayedFor(READOUT, 3)
-  const [one] = await stoplights()
+  const one = await oneDrawn(3)
   expect(one?.label).toBe("Safety")
   expect(one?.habit).toBe("safety")
 })
@@ -194,28 +185,23 @@ test("the key the caller names carries a stoplight that carries no figure too", 
 })
 
 test("a reading under ten keeps one decimal place", async () => {
-  relayedFor(READOUT, 2.5)
-  expect((await stoplights())[0]?.reading).toBe("2.5")
+  expect((await oneDrawn(2.5))?.reading).toBe("2.5")
   dropRelayed()
-  relayedFor(READOUT, -1.5)
-  expect((await stoplights())[0]?.reading).toBe("-1.5")
+  expect((await oneDrawn(-1.5))?.reading).toBe("-1.5")
 })
 
 test("a reading added up out of hours is floored to one decimal place", async () => {
-  relayedFor(READOUT, -0.008333333333334636)
-  expect((await stoplights())[0]?.reading).toBe("-0.1")
+  expect((await oneDrawn(-0.008333333333334636))?.reading).toBe("-0.1")
 })
 
 test("a reading is never answered as the whole tail of the float it was added up from", async () => {
-  relayedFor(READOUT, 2.6666666666666665)
-  const said = (await stoplights())[0]?.reading ?? ""
+  const said = (await oneDrawn(2.6666666666666665))?.reading ?? ""
   expect(said.length).toBeLessThanOrEqual(6)
   expect(said).toBe("2.6")
 })
 
 test("a reading below every rung is black rather than left out", async () => {
-  relayedFor(READOUT, -2)
-  const [one] = await stoplights()
+  const one = await oneDrawn(-2)
   expect(one?.tier).toBe("black")
   expect(one?.nextTier).toBe("red")
   expect(one?.progress).toBeUndefined()
@@ -223,15 +209,13 @@ test("a reading below every rung is black rather than left out", async () => {
 })
 
 test("a reading on the highest rung has no tier above that rung", async () => {
-  relayedFor(READOUT, 5)
-  const [one] = await stoplights()
+  const one = await oneDrawn(5)
   expect(one?.tier).toBe("blue")
   expect(one?.nextTier).toBeUndefined()
 })
 
 test("a reading inside the window is still a reading", async () => {
-  relayedFor(READOUT, 3, new Date(Date.now() - 44 * 60_000))
-  const [one] = await stoplights()
+  const one = await oneDrawn(3, new Date(Date.now() - 44 * 60_000))
   expect(one?.reading).toBe("3")
   expect(one?.readingHeld).toBeUndefined()
 })
@@ -401,8 +385,7 @@ test("a scale is still answered as a scale now that groups are answered too", as
 
 test("a stoplight whose reading falls with the clock carries the moment and the rate", async () => {
   const took = new Date()
-  relayedFor(READOUT, 2.5, took, 2)
-  const [one] = await stoplights()
+  const one = await oneDrawn(2.5, took, 2)
   expect(one?.takenAt).toBe(took.toISOString())
   expect(one?.fallsPerHour).toBe(2)
   expect(one?.fallsPastAt).toBe(new Date(took.getTime() + 900_000).toISOString())
@@ -416,8 +399,7 @@ test("a stoplight whose reading falls at nothing an hour carries neither", async
 })
 
 test("a stoplight carrying no figure carries no moment and no rate", async () => {
-  relayedFor(READOUT, 2.5, agedOut(), 2)
-  const [one] = await stoplights()
+  const one = await oneDrawn(2.5, agedOut(), 2)
   expect(one?.takenAt).toBeUndefined()
   expect(one?.fallsPerHour).toBeUndefined()
 })

@@ -1,6 +1,7 @@
 import { expect } from "bun:test"
 import { join } from "node:path"
 import { Glob } from "bun"
+import { relayedFor } from "../relay/readout-relay.module.test-fixtures.ts"
 import {
   answerStoplightsAdmittedBy,
   type Stoplight,
@@ -103,6 +104,15 @@ export async function keysAnswered(wireKeyName?: string): Promise<readonly strin
 
 export async function keysDrawn(): Promise<readonly (string | undefined)[]> {
   return (await stoplights()).map((one) => one.habit)
+}
+
+export async function oneDrawn(
+  value: number,
+  at: Date = new Date(),
+  fallsPerHour?: number
+): Promise<Stoplight | undefined> {
+  relayedFor(READOUT, value, at, fallsPerHour)
+  return (await stoplights())[0]
 }
 
 export function rowReading(
