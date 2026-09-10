@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { shadowFor } from "@akasha/pages/shadow"
-import { noRuleInTwoFiles } from "./no-rule-in-two-files.code-check.code.ts"
+import { noRuleInTwoFiles } from "./no-rule-in-two-files.code-check.check.code.ts"
 import {
   bothArriving,
   ONE_CODE,
