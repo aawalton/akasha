@@ -11,6 +11,10 @@ export const dallaDeployCleanup = {
     { statement: "Every workstation service has deployed through `akasha deploy`." },
     { statement: "Every cluster service has deployed through `akasha deploy`." },
     { statement: "Every ios app has deployed through `akasha deploy`." },
-    { statement: "No competing akasha build or deploy command exists." },
+    {
+      statement: "No competing akasha build or deploy command exists.",
+      workingMemory:
+        "Three roads under `namespace/infrastructure` reach the real. `infrastructure-deploy` reads one slug as a web app or an ios app, refusing a slug both carry. `infrastructure-workload-apply` was landed 2026-09-09 for a cluster service no web app names, headscale being neither, and builds nothing; six slugs sit on both a web app page and a cluster service page, which is why it took a second command. `infrastructure-service install` writes a workstation service's systemd units.\n",
+    },
   ],
 } as const satisfies Initiative
