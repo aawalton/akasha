@@ -86,7 +86,11 @@ export const valueMinting = {
     },
     {
       invariantKind: "departure",
-      statement: "This module answers a change per body it put a value into, and nothing else.",
+      statement: "This module answers one change per body this module put a value into.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This module answers no other change.",
     },
   ],
 } as const satisfies Module
