@@ -11,7 +11,7 @@ import type { Says } from "./properties/says.file-property.ts"
 export type FitnessCoachingNote = Page & {
   title: Title
   active: FitnessCoachingNoteActive
-  focusTags: readonly FocusTags[]
+  focusTags: FocusTags
   kind: FitnessCoachingNoteKind
   date?: FitnessCoachingNoteDate
   sortOrder?: FitnessCoachingNoteSortOrder

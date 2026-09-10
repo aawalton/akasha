@@ -1,3 +1,4 @@
+import type { List } from "@akasha/pages/page-property"
 import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const focusTags = {
@@ -21,4 +22,6 @@ export const focusTags = {
   ],
 } as const satisfies SelectProperty
 
-export type FocusTags = (typeof focusTags.values)[number]
+export type FocusTag = (typeof focusTags.values)[number]
+
+export type FocusTags = List<FocusTag>
