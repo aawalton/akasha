@@ -6,7 +6,7 @@ export const temperWeb = {
   type: "web-app",
   slug: "temper-web",
   definition: "the parts of Temper that run in a browser",
-  sourceDirectory: "temper/temper-web",
+  sourceDirectory: "temper/web",
   buildCommand: "bun run build",
   basePort: 3300,
   secretResource: "temper-secrets",
