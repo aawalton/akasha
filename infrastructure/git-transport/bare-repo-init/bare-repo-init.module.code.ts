@@ -8,7 +8,7 @@ const MEMORY_BARE_REPO_PATH = transportRepo("memory").bareRepoPath
 const STORIES_BARE_REPO_PATH = transportRepo("stories").bareRepoPath
 const CODE_EDITOR_BARE_REPO_PATH = transportRepo("code-editor").bareRepoPath
 const AKASHA_BARE_REPO_PATH = transportRepo("akasha").bareRepoPath
-const HOOKS_AT = `${ORCHESTRATOR_CACHE_REPO_PATH}/infrastructure/git-transport/hooks`
+const HOOKS_AT = `${ORCHESTRATOR_CACHE_REPO_PATH}/infrastructure/git-transport/git-hooks`
 
 function hookAt(slug: string): string {
   return `${HOOKS_AT}/${slug}/${slug}.git-hook.shell.sh`
