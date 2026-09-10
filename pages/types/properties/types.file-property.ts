@@ -26,11 +26,11 @@ export const types = {
     },
     {
       invariantKind: "departure",
-      statement: "A key held as a secret is written as optional, since no page's file has it.",
+      statement: "A key held as a secret is written as optional.",
     },
     {
       invariantKind: "departure",
-      statement: "A key the page type fixes is written as optional for the same reason.",
+      statement: "A key the page type fixes is written as optional.",
     },
     {
       invariantKind: "departure",

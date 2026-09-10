@@ -13,7 +13,8 @@ export const pageProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "That property is declared on the same page type, is required, and has one value.",
+      statement:
+        "That property is declared on the same page type and is required and has one value.",
     },
     {
       invariantKind: "departure",

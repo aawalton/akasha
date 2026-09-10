@@ -22,7 +22,7 @@ export const fixedValue = {
     },
     {
       invariantKind: "departure",
-      statement: "A fixed value is not a default, since no page may state another.",
+      statement: "A fixed value is not a default.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +34,11 @@ export const fixedValue = {
     },
     {
       invariantKind: "departure",
-      statement: "An optional one is on a page or is not, and the page says neither way.",
+      statement: "An optional property with a fixed value is on a page or is not.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page says neither way.",
     },
     {
       invariantKind: "stopgap",
