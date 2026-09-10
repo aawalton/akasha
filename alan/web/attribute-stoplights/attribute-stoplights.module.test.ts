@@ -9,6 +9,7 @@ import {
 } from "akasha/readouts/group-serving/readout-group-serving.module.test-fixtures.ts"
 import { dropRelayed } from "akasha/readouts/relay/readout-relay.module.code.ts"
 import { relayedFor } from "akasha/readouts/relay/readout-relay.module.test-fixtures.ts"
+import { z } from "zod"
 import { GROUP, WIRE_KEY_NAME } from "./attribute-stoplights.module.code.ts"
 
 globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
@@ -95,6 +96,8 @@ const CARRIED: readonly (readonly [string, number])[] = [
 
 const ANSWERED: { readouts: readonly Record<string, unknown>[] } = { readouts: READOUT_ROWS }
 
+const heldEnv = z.string().optional()
+
 let store: ReturnType<typeof Bun.serve>
 let server: ReturnType<typeof Bun.serve>
 let heldOrigin: string | undefined
@@ -114,7 +117,7 @@ beforeAll(() => {
       return Response.json({ rows: scale === undefined ? [] : [scale] })
     },
   })
-  heldOrigin = process.env.PAGES_SERVICE_ORIGIN
+  heldOrigin = heldEnv.parse(process.env.PAGES_SERVICE_ORIGIN)
   process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
   server = Bun.serve({
     port: 0,
