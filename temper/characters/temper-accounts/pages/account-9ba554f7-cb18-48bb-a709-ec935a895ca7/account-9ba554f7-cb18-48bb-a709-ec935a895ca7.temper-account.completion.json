@@ -55307,7 +55307,7 @@
     },
     "402": {
       "name": "Moon Hunter",
-      "slotsUnlocked": 9,
+      "slotsUnlocked": 10,
       "subcategoryName": "Moon Hunter Keep",
       "pieces": {
         "1": {
@@ -55316,7 +55316,7 @@
         },
         "2": {
           "name": "Moon Hunter Epaulets",
-          "unlocked": false
+          "unlocked": true
         },
         "3": {
           "name": "Moon Hunter Robe",
@@ -55404,16 +55404,16 @@
     },
     "403": {
       "name": "Savage Werewolf",
-      "slotsUnlocked": 2,
+      "slotsUnlocked": 6,
       "subcategoryName": "Moon Hunter Keep",
       "pieces": {
         "1": {
           "name": "Savage Werewolf's Helmet",
-          "unlocked": false
+          "unlocked": true
         },
         "2": {
           "name": "Savage Werewolf's Arm Cops",
-          "unlocked": false
+          "unlocked": true
         },
         "3": {
           "name": "Savage Werewolf's Jack",
@@ -55421,7 +55421,7 @@
         },
         "4": {
           "name": "Savage Werewolf's Bracers",
-          "unlocked": false
+          "unlocked": true
         },
         "5": {
           "name": "Savage Werewolf's Belt",
@@ -55433,7 +55433,7 @@
         },
         "7": {
           "name": "Savage Werewolf's Boots",
-          "unlocked": false
+          "unlocked": true
         },
         "8": {
           "name": "Savage Werewolf's Necklace",
@@ -55501,7 +55501,7 @@
     },
     "404": {
       "name": "Jailer's Tenacity",
-      "slotsUnlocked": 9,
+      "slotsUnlocked": 10,
       "subcategoryName": "Moon Hunter Keep",
       "pieces": {
         "1": {
@@ -55562,7 +55562,7 @@
         },
         "15": {
           "name": "Jailer's Maul",
-          "unlocked": false
+          "unlocked": true
         },
         "16": {
           "name": "Jailer's Greatsword",
