@@ -27,7 +27,7 @@ export const personaPointsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A count short of a hundred earns the fraction of a point it reaches.",
+      statement: "A count short of a hundred earns the fraction of a point the count reaches.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const personaPointsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "Keeping either half replaces the total rather than adding to it.",
+      statement: "Keeping either half replaces the total rather than adding to the total.",
     },
     {
       invariantKind: "departure",

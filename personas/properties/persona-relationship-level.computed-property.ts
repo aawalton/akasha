@@ -27,7 +27,7 @@ export const personaRelationshipLevel = {
     },
     {
       invariantKind: "departure",
-      statement: "The rungs are climbed from the first upward until one is out of reach.",
+      statement: "The rungs are climbed from the first upward until a rung is out of reach.",
     },
     {
       invariantKind: "departure",

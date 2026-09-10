@@ -14,7 +14,7 @@ export const supabaseAuthUserId = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This names a row Supabase auth has.",
+      statement: "The account names a row Supabase auth has.",
     },
     {
       invariantKind: "departure",

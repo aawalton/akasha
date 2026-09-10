@@ -13,7 +13,7 @@ export const pointsToNext = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each rung after the first takes three times what the rung before it took.",
+      statement: "Each rung after the first takes three times the points the rung before took.",
     },
     {
       invariantKind: "departure",

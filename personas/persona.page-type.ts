@@ -121,7 +121,7 @@ export const persona = {
     },
     {
       invariantKind: "departure",
-      statement: "A persona earns one point for every hundred messages Alan writes her.",
+      statement: "A persona earns one point for every hundred messages Alan writes that persona.",
     },
     {
       invariantKind: "departure",
