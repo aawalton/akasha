@@ -12,8 +12,8 @@ import {
   getPropertyDefinitions,
   getSequenceConfig,
 } from "@akasha/pages-access/page-type-config"
+import type { ReaderNeighborLink } from "@akasha/pages-ui/components/reader-chrome"
 import type { MediaVariant } from "@akasha/pages-ui/media/page-media-player"
-import type { ReaderNeighborLink } from "@akasha/pages-ui-components/reader-chrome"
 import {
   getRequestServerClient,
   resolveRequestSession,

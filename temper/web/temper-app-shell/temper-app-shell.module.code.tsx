@@ -1,8 +1,8 @@
 "use client"
 
 import { useAppVersionCheck } from "@akasha/pages-ui/app-version/use-app-version-check"
-import { SortableNavs } from "@akasha/pages-ui-components/sortable-navs"
-import { useAppNavItems } from "@akasha/pages-ui-components/use-app-nav-items"
+import { SortableNavs } from "@akasha/pages-ui/components/sortable-navs"
+import { useAppNavItems } from "@akasha/pages-ui/components/use-app-nav-items"
 import { signOut } from "@akasha/supabase-rr/auth-client"
 import { AppShell as SharedAppShell } from "akasha/design/layout/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/layout/nav-types/nav-types.module.code.ts"

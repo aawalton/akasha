@@ -8,7 +8,7 @@ export const pagesUi = {
   definition: "what draws pages in a browser and takes what a reader does to them",
   manifest: "json",
   parts: [
-    "workspace-package/components",
+    "domain/components",
     "domain/pages-ui-action-verbs",
     "domain/pages-ui-app-version",
     "domain/pages-ui-supabase",

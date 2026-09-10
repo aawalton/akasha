@@ -20,7 +20,7 @@ import {
   relativeToTodayToJson,
   sentinelDateToJson,
   sentinelInstantToJson,
-} from "@akasha/pages-ui-components/date-time-filter-inputs-parse"
+} from "@akasha/pages-ui/components/date-time-filter-inputs-parse"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { Check, ChevronDown } from "lucide-react"
 import { useEffect, useState } from "react"

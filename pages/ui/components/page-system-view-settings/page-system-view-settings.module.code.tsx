@@ -6,18 +6,18 @@ import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitiv
 import { SubView } from "@akasha/design-primitives/sub-view"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { GalleryOptionsPicker } from "@akasha/pages-ui-components/gallery-options-picker"
-import { GroupByPicker } from "@akasha/pages-ui-components/group-by-picker"
-import { NotesOptionsPicker } from "@akasha/pages-ui-components/notes-options-picker"
-import { PageSizePicker } from "@akasha/pages-ui-components/page-size-picker"
-import { PropertyVisibilityPicker } from "@akasha/pages-ui-components/property-visibility-picker"
-import { TimelinePicker } from "@akasha/pages-ui-components/timeline-picker"
+import { GalleryOptionsPicker } from "@akasha/pages-ui/components/gallery-options-picker"
+import { GroupByPicker } from "@akasha/pages-ui/components/group-by-picker"
+import { NotesOptionsPicker } from "@akasha/pages-ui/components/notes-options-picker"
+import { PageSizePicker } from "@akasha/pages-ui/components/page-size-picker"
+import { PropertyVisibilityPicker } from "@akasha/pages-ui/components/property-visibility-picker"
+import { TimelinePicker } from "@akasha/pages-ui/components/timeline-picker"
 import {
   DEFAULT_LAYOUT,
   LAYOUT_OPTIONS,
   type ViewSettingsButtonProps,
   type ViewSettingsView,
-} from "@akasha/pages-ui-components/view-settings-options"
+} from "@akasha/pages-ui/components/view-settings-options"
 import {
   ChevronRight,
   Eye,

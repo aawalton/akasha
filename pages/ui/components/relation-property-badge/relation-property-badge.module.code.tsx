@@ -4,18 +4,18 @@ import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import { relationConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import {
-  type PageResolverValue,
-  usePageResolverOptional,
-} from "@akasha/pages-ui/contexts/page-resolver-context"
-import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"
+import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import {
   getRelationId,
   type RelationValue,
   resolveRelationName,
   resolveRelationVariant,
-} from "@akasha/pages-ui-components/relation-display"
-import { RelationPopover } from "@akasha/pages-ui-components/relation-popover"
+} from "@akasha/pages-ui/components/relation-display"
+import { RelationPopover } from "@akasha/pages-ui/components/relation-popover"
+import {
+  type PageResolverValue,
+  usePageResolverOptional,
+} from "@akasha/pages-ui/contexts/page-resolver-context"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useBadgeLayoutContext } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"

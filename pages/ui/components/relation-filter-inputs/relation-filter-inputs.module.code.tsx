@@ -4,9 +4,9 @@ import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value
 import type { FilterOperator } from "@akasha/pages-core/property-types/types"
 import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
 import type { PageFilterDimension } from "@akasha/pages-core/view/generate-filter-dimensions"
+import { toStringArray } from "@akasha/pages-ui/components/value-filter-inputs"
 import { usePageResolverOptional } from "@akasha/pages-ui/contexts/page-resolver-context"
 import { useRelationPicker } from "@akasha/pages-ui/contexts/relation-picker-context"
-import { toStringArray } from "@akasha/pages-ui-components/value-filter-inputs"
 import { InputBadge } from "akasha/design/badges/input-badge/input-badge.module.code.tsx"
 import {
   SearchMultiSelect,

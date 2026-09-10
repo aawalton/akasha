@@ -2,18 +2,18 @@
 
 import { cn } from "@akasha/design-primitives/cn"
 import { Table, TableHead, TableHeader, TableRow } from "@akasha/design-primitives/table"
-import { PageTableColGroup } from "@akasha/pages-ui-components/page-table-colgroup"
+import { PageTableColGroup } from "@akasha/pages-ui/components/page-table-colgroup"
 import {
   applyColumnDrop,
   type ColumnDropZone,
   type ColumnRectMeasure,
   computeColumnDropZone,
-} from "@akasha/pages-ui-components/page-table-column-dnd-helpers"
+} from "@akasha/pages-ui/components/page-table-column-dnd-helpers"
 import {
   ACTIONS_COLUMN_PX,
   type PageTableColumn,
-} from "@akasha/pages-ui-components/page-table-shared"
-import { tableMinWidthPx } from "@akasha/pages-ui-components/page-table-widths"
+} from "@akasha/pages-ui/components/page-table-shared"
+import { tableMinWidthPx } from "@akasha/pages-ui/components/page-table-widths"
 import type { DragEndEvent, DragStartEvent } from "@dnd-kit/core"
 import {
   DndContext,

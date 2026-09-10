@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const components = {
   id: "01a0613d-bbb1-7000-a299-964eee1c712c",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "components",
   definition: "the parts a page and its listings are drawn from",
-  manifest: "json",
+
   parts: [
     "module/action-button-property-badge",
     "module/aggregate-property-badge",
@@ -167,4 +167,4 @@ export const components = {
     "module/view-tab-context-menu",
     "module/view-tabs",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

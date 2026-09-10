@@ -9,12 +9,12 @@ import {
 } from "@akasha/design-primitives/context-menu"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { useSentenceNarration } from "@akasha/pages-ui/media/sentence-narration-context"
-import { type ProseBlock, splitInlineEmphasis } from "@akasha/pages-ui-components/reader-prose"
+import { type ProseBlock, splitInlineEmphasis } from "@akasha/pages-ui/components/reader-prose"
 import type {
   BlockSentenceLayout,
   SentenceRun,
-} from "@akasha/pages-ui-components/reader-sentence-layout"
+} from "@akasha/pages-ui/components/reader-sentence-layout"
+import { useSentenceNarration } from "@akasha/pages-ui/media/sentence-narration-context"
 import { Fragment } from "react"
 
 const SENTENCE_SPAN_CLASS =

@@ -1,8 +1,8 @@
 import { parsePageHrefParam } from "@akasha/pages/url/page-href"
 import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { getPageByIdSuffix, getPages } from "@akasha/pages-access/get"
-import { PageDetailContent } from "@akasha/pages-ui-components/page-detail-content"
-import { ViewPageContent } from "@akasha/pages-ui-components/view-page-content"
+import { PageDetailContent } from "@akasha/pages-ui/components/page-detail-content"
+import { ViewPageContent } from "@akasha/pages-ui/components/view-page-content"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import {

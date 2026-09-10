@@ -14,7 +14,7 @@ import { parseConfig } from "@akasha/pages-core/schema/pages"
 import { selectConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
 import type { SelectOption } from "@akasha/pages-core/schema/select-option-create"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"
+import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useBadgeLayoutContext } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 

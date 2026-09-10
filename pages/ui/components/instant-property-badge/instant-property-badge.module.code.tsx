@@ -13,7 +13,7 @@ import {
   instantConfigSchema,
 } from "@akasha/pages-core/schema/property-config-schemas"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"
+import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useState } from "react"
 

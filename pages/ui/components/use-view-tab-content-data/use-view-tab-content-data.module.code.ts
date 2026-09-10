@@ -8,24 +8,24 @@ import { resolveDefinitionOptions } from "@akasha/pages-core/schema/resolve-sele
 import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 import { type LockedFacet, mergeLockedFacets } from "@akasha/pages-core/schema/view-data-locked"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
+import { buildServerGroupedSections } from "@akasha/pages-ui/components/build-server-grouped-sections"
+import { toPageDataRecord } from "@akasha/pages-ui/components/page-data-json"
+import type { ServerGroupedSection } from "@akasha/pages-ui/components/page-system-tab-content-props"
+import { useViewRowAggregates } from "@akasha/pages-ui/components/view-engine/use-view-row-aggregates"
+import { useViewRowRollups } from "@akasha/pages-ui/components/view-engine/use-view-row-rollups"
+import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
+import type { PageTypeOption } from "@akasha/pages-ui/components/view-settings-options"
+import {
+  buildPageTypeSlugMaps,
+  resolveRowPageTypeSlug,
+} from "@akasha/pages-ui/components/view-tab-content-href"
+import { selectViewQueryResult } from "@akasha/pages-ui/components/view-tab-content-results"
 import { useGroupByPaginatedQuery } from "@akasha/pages-ui/supabase/group-by-hooks"
 import { useRelatedPages } from "@akasha/pages-ui/supabase/hooks"
 import { usePageViewQuery } from "@akasha/pages-ui/supabase/hooks-view-query"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useOptionListLookup } from "@akasha/pages-ui/supabase/use-option-list-lookup"
 import { viewDataOfPage } from "@akasha/pages-ui/supabase/view-data-of-page"
-import { buildServerGroupedSections } from "@akasha/pages-ui-components/build-server-grouped-sections"
-import { toPageDataRecord } from "@akasha/pages-ui-components/page-data-json"
-import type { ServerGroupedSection } from "@akasha/pages-ui-components/page-system-tab-content-props"
-import { useViewRowAggregates } from "@akasha/pages-ui-components/view-engine/use-view-row-aggregates"
-import { useViewRowRollups } from "@akasha/pages-ui-components/view-engine/use-view-row-rollups"
-import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
-import type { PageTypeOption } from "@akasha/pages-ui-components/view-settings-options"
-import {
-  buildPageTypeSlugMaps,
-  resolveRowPageTypeSlug,
-} from "@akasha/pages-ui-components/view-tab-content-href"
-import { selectViewQueryResult } from "@akasha/pages-ui-components/view-tab-content-results"
 import { deriveViewTargetSlugs } from "@akasha/pages-ui-store/query/view-target-slugs"
 import { useCallback, useMemo } from "react"
 

@@ -23,7 +23,6 @@
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
-    "@akasha/pages-ui-components": "workspace:*",
     "@akasha/pages-ui-store": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",

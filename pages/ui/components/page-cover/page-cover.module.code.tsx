@@ -6,7 +6,7 @@ import { Input } from "@akasha/design-primitives/input"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { DegradingImage } from "@akasha/pages-ui-components/degrading-image"
+import { DegradingImage } from "@akasha/pages-ui/components/degrading-image"
 import { ImagePlus, Pencil, Trash2 } from "lucide-react"
 import { useState } from "react"
 

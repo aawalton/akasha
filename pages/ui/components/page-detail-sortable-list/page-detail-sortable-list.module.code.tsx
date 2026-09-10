@@ -1,7 +1,7 @@
 "use client"
 
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import { type DropZoneInfo, findDropZone } from "@akasha/pages-ui-components/drop-zones"
+import { type DropZoneInfo, findDropZone } from "@akasha/pages-ui/components/drop-zones"
 import type { DragEndEvent, DragStartEvent } from "@dnd-kit/core"
 import {
   DndContext,

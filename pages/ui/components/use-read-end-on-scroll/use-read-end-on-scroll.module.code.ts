@@ -1,7 +1,7 @@
 "use client"
 
-import { clampFraction } from "@akasha/pages-ui-components/position-fraction"
-import type { ReaderPositionAnchor } from "@akasha/pages-ui-components/reader-prose-body"
+import { clampFraction } from "@akasha/pages-ui/components/position-fraction"
+import type { ReaderPositionAnchor } from "@akasha/pages-ui/components/reader-prose-body"
 import { type RefObject, useEffect, useRef } from "react"
 
 const READ_END_FRACTION_THRESHOLD = 0.98

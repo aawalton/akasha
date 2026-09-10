@@ -15,8 +15,8 @@ import { formatSmartDate } from "@akasha/pages-core/view/format-smart-date"
 import {
   type PageTableColumn,
   TITLE_COLUMN_ID,
-} from "@akasha/pages-ui-components/page-table-shared"
-import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+} from "@akasha/pages-ui/components/page-table-shared"
+import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { formatTime12h } from "akasha/design/forms/format-time/format-time.module.code.ts"
 

@@ -1,20 +1,20 @@
 "use client"
 
 import { cn } from "@akasha/design-primitives/cn"
-import { clampFraction, fractionToScrollTop } from "@akasha/pages-ui-components/position-fraction"
+import { clampFraction, fractionToScrollTop } from "@akasha/pages-ui/components/position-fraction"
 import {
   blockPositionForFraction,
   buildProseCharTable,
   fractionForBlockPosition,
-} from "@akasha/pages-ui-components/reader-char-table"
+} from "@akasha/pages-ui/components/reader-char-table"
 import {
   estimateProseBlockHeight,
   type ProseBlock,
   parseProseBlocks,
   proseBlockSource,
-} from "@akasha/pages-ui-components/reader-prose"
-import { ProseBlockView } from "@akasha/pages-ui-components/reader-prose-block"
-import type { BlockSentenceLayout } from "@akasha/pages-ui-components/reader-sentence-layout"
+} from "@akasha/pages-ui/components/reader-prose"
+import { ProseBlockView } from "@akasha/pages-ui/components/reader-prose-block"
+import type { BlockSentenceLayout } from "@akasha/pages-ui/components/reader-sentence-layout"
 import { useWindowVirtualizer } from "@tanstack/react-virtual"
 import { memo, type RefObject, useImperativeHandle, useMemo, useRef } from "react"
 

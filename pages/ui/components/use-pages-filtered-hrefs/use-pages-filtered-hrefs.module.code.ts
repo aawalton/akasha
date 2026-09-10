@@ -3,12 +3,12 @@
 import { buildPageHref } from "@akasha/pages/url/page-href"
 import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
-import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import {
   buildRelationBackLinkHref,
   readRelationConfig,
-} from "@akasha/pages-ui-components/view-tab-content-href"
+} from "@akasha/pages-ui/components/view-tab-content-href"
+import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useCallback } from "react"
 
 export interface PagesFilteredHrefs {

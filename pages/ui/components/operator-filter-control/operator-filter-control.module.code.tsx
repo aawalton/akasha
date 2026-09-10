@@ -13,11 +13,11 @@ import {
   DateSentinelInput,
   InstantSentinelInput,
   RelativeToTodayInput,
-} from "@akasha/pages-ui-components/date-time-filter-inputs"
+} from "@akasha/pages-ui/components/date-time-filter-inputs"
 import {
   MultiRelationValueInput,
   RelationValueInput,
-} from "@akasha/pages-ui-components/relation-filter-inputs"
+} from "@akasha/pages-ui/components/relation-filter-inputs"
 import {
   CalendarTimeValueInput,
   DateValueInput,
@@ -25,7 +25,7 @@ import {
   NumberValueInput,
   SelectBadgePicker,
   TextValueInput,
-} from "@akasha/pages-ui-components/value-filter-inputs"
+} from "@akasha/pages-ui/components/value-filter-inputs"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
 import {

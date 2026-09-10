@@ -4,8 +4,8 @@ import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import {
   buildTimelineLayout,
   rowsToTimelineInputs,
-} from "@akasha/pages-ui-components/page-timeline-helpers"
-import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+} from "@akasha/pages-ui/components/page-timeline-helpers"
+import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import type { ReactNode } from "react"
 
 interface PageTimelineProps {

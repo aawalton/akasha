@@ -15,8 +15,8 @@ import {
   type PageFilterDimension,
 } from "@akasha/pages-core/view/generate-filter-dimensions"
 import { generateSortOptions, type SortOption } from "@akasha/pages-core/view/generate-sort-options"
+import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { usePageResolverOptional } from "@akasha/pages-ui/contexts/page-resolver-context"
-import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import { useCallback, useMemo, useRef } from "react"
 
 export interface UsePageViewProps {

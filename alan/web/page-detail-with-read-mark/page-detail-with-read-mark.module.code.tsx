@@ -1,6 +1,6 @@
 "use client"
 
-import { PageDetailContent } from "@akasha/pages-ui-components/page-detail-content"
+import { PageDetailContent } from "@akasha/pages-ui/components/page-detail-content"
 import type { ComponentProps } from "react"
 import { useMarkReadOnEnd } from "../use-mark-read-on-end/use-mark-read-on-end.module.code.ts"
 

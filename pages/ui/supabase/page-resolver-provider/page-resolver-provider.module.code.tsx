@@ -1,6 +1,7 @@
 "use client"
 
 import { resolveDescendantPageTypeIds } from "@akasha/pages-core/schema/page-type-inheritance"
+import { buildPageResolver } from "@akasha/pages-ui/components/view-engine/build-page-resolver"
 import {
   PageResolverProvider,
   type PageResolverValue,
@@ -12,7 +13,6 @@ import {
 } from "@akasha/pages-ui/contexts/relation-picker-context"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { usePaginatedRelationPicker } from "@akasha/pages-ui/supabase/relation-picker"
-import { buildPageResolver } from "@akasha/pages-ui-components/view-engine/build-page-resolver"
 import { createContext, useCallback, useContext, useMemo } from "react"
 
 interface SupabasePageResolverProviderProps {

@@ -3,13 +3,13 @@
 import type {
   PageSystemTabContentProps,
   ServerGroupedSection,
-} from "@akasha/pages-ui-components/page-system-tab-content-props"
+} from "@akasha/pages-ui/components/page-system-tab-content-props"
 import {
   PageViewEmpty,
   TimelineLayoutBody,
-} from "@akasha/pages-ui-components/page-system-view-helpers"
-import type { withColumnWidths } from "@akasha/pages-ui-components/page-table-widths"
-import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+} from "@akasha/pages-ui/components/page-system-view-helpers"
+import type { withColumnWidths } from "@akasha/pages-ui/components/page-table-widths"
+import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { createGenericLayout } from "akasha/design/layout/column-layout/column-layout.module.code.ts"
 import { LoadMoreButton } from "akasha/design/layout/load-more-button/load-more-button.module.code.tsx"
 import { ResponsiveColumnsSkeleton } from "akasha/design/layout/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"

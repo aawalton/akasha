@@ -6,24 +6,24 @@ import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import { resolveDefinitionOptions } from "@akasha/pages-core/schema/resolve-select-options"
 import type { ViewFilter } from "@akasha/pages-core/schema/view-data"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
+import { buildBaseConditions } from "@akasha/pages-ui/components/base-conditions"
+import { buildServerGroupedSections } from "@akasha/pages-ui/components/build-server-grouped-sections"
+import { buildFlatQueryArgs } from "@akasha/pages-ui/components/flat-query-args"
+import { toPageDataRecord } from "@akasha/pages-ui/components/page-data-json"
+import type { ServerGroupedSection } from "@akasha/pages-ui/components/page-system-tab-content-props"
+import {
+  buildBaseFilters,
+  buildSyntheticConfig,
+} from "@akasha/pages-ui/components/synthetic-config"
+import { useEffectiveListing } from "@akasha/pages-ui/components/use-effective-listing"
+import { useViewRowAggregates } from "@akasha/pages-ui/components/view-engine/use-view-row-aggregates"
+import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
+import { buildPageTypeSlugMaps } from "@akasha/pages-ui/components/view-tab-content-href"
 import { useGroupByPaginatedQuery } from "@akasha/pages-ui/supabase/group-by-hooks"
 import { useAllPages, useRelatedPages } from "@akasha/pages-ui/supabase/hooks"
 import { usePageViewQuery } from "@akasha/pages-ui/supabase/hooks-view-query"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useOptionListLookup } from "@akasha/pages-ui/supabase/use-option-list-lookup"
-import { buildBaseConditions } from "@akasha/pages-ui-components/base-conditions"
-import { buildServerGroupedSections } from "@akasha/pages-ui-components/build-server-grouped-sections"
-import { buildFlatQueryArgs } from "@akasha/pages-ui-components/flat-query-args"
-import { toPageDataRecord } from "@akasha/pages-ui-components/page-data-json"
-import type { ServerGroupedSection } from "@akasha/pages-ui-components/page-system-tab-content-props"
-import {
-  buildBaseFilters,
-  buildSyntheticConfig,
-} from "@akasha/pages-ui-components/synthetic-config"
-import { useEffectiveListing } from "@akasha/pages-ui-components/use-effective-listing"
-import { useViewRowAggregates } from "@akasha/pages-ui-components/view-engine/use-view-row-aggregates"
-import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
-import { buildPageTypeSlugMaps } from "@akasha/pages-ui-components/view-tab-content-href"
 import { useMemo } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"

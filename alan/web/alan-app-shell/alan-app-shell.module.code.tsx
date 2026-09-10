@@ -1,6 +1,10 @@
 import { createPage } from "@akasha/pages-access/create"
 import { NEVER_MATCH_SLUG } from "@akasha/pages-access/sentinels"
 import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
+import { CreatePageDialog } from "@akasha/pages-ui/components/create-page-dialog"
+import { useActiveQuickAddPageType } from "@akasha/pages-ui/components/quick-add/use-active-quick-add-page-type"
+import { SortableNavs } from "@akasha/pages-ui/components/sortable-navs"
+import { useAppNavItems } from "@akasha/pages-ui/components/use-app-nav-items"
 import { PagesUILinkProvider, PagesUIRouterProvider } from "@akasha/pages-ui/navigation-context"
 import {
   type CreateSelectOptionEffect,
@@ -9,10 +13,6 @@ import {
 import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import { CreatePageDialog } from "@akasha/pages-ui-components/create-page-dialog"
-import { useActiveQuickAddPageType } from "@akasha/pages-ui-components/quick-add/use-active-quick-add-page-type"
-import { SortableNavs } from "@akasha/pages-ui-components/sortable-navs"
-import { useAppNavItems } from "@akasha/pages-ui-components/use-app-nav-items"
 import { signOut } from "@akasha/supabase-rr/auth-client"
 import { AppShell as SharedAppShell } from "akasha/design/layout/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/layout/nav-types/nav-types.module.code.ts"

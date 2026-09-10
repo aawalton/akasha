@@ -7,7 +7,7 @@ import { StatusBarSync } from "@akasha/alanwalton-web/status-bar-sync"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 import { PagesUICapabilityHosts } from "@akasha/pages-ui/capabilities/capability-hosts"
-import { configureLocalPositionReader } from "@akasha/pages-ui-components/local-position-port"
+import { configureLocalPositionReader } from "@akasha/pages-ui/components/local-position-port"
 import { setStoreDiagnosticsSink } from "@akasha/pages-ui-store/diagnostics"
 import {
   configureContentPersistence,

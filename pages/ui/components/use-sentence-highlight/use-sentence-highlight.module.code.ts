@@ -1,8 +1,8 @@
 "use client"
 
+import type { SentenceLayout } from "@akasha/pages-ui/components/reader-sentence-layout"
 import { useOptionalPlayingSession } from "@akasha/pages-ui/media/playing-session-context"
 import { resolveActiveSentence } from "@akasha/pages-ui/media/resolve-active-sentence"
-import type { SentenceLayout } from "@akasha/pages-ui-components/reader-sentence-layout"
 import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import { type RefObject, useEffect } from "react"
 

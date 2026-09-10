@@ -1,6 +1,6 @@
+import { SortableNavs } from "@akasha/pages-ui/components/sortable-navs"
+import { useAppNavItems } from "@akasha/pages-ui/components/use-app-nav-items"
 import { PagesUILinkProvider, PagesUIRouterProvider } from "@akasha/pages-ui/navigation-context"
-import { SortableNavs } from "@akasha/pages-ui-components/sortable-navs"
-import { useAppNavItems } from "@akasha/pages-ui-components/use-app-nav-items"
 import { AppShell as SharedAppShell } from "akasha/design/layout/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/layout/nav-types/nav-types.module.code.ts"
 import {

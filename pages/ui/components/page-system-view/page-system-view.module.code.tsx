@@ -2,15 +2,15 @@
 
 import type { ViewFilter } from "@akasha/pages-core/schema/view-data"
 import { applySearch } from "@akasha/pages-core/view/apply-search"
-import { usePageResolverOptional } from "@akasha/pages-ui/contexts/page-resolver-context"
 import {
   buildTableColumns,
   isCardEligibleProperty,
-} from "@akasha/pages-ui-components/card-property-columns"
-import type { PageSystemTabContentProps } from "@akasha/pages-ui-components/page-system-tab-content-props"
-import { sortServerGrouped } from "@akasha/pages-ui-components/page-system-view-helpers"
-import { withColumnWidths } from "@akasha/pages-ui-components/page-table-widths"
-import { usePageView } from "@akasha/pages-ui-components/view-engine/use-page-view"
+} from "@akasha/pages-ui/components/card-property-columns"
+import type { PageSystemTabContentProps } from "@akasha/pages-ui/components/page-system-tab-content-props"
+import { sortServerGrouped } from "@akasha/pages-ui/components/page-system-view-helpers"
+import { withColumnWidths } from "@akasha/pages-ui/components/page-table-widths"
+import { usePageView } from "@akasha/pages-ui/components/view-engine/use-page-view"
+import { usePageResolverOptional } from "@akasha/pages-ui/contexts/page-resolver-context"
 import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { useCollapsedGroups } from "akasha/design/patterns/use-collapsed-groups/use-collapsed-groups.module.code.ts"
 import { useCallback, useEffect, useMemo, useState } from "react"

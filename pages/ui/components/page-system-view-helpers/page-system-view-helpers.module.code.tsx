@@ -10,9 +10,9 @@ import {
   getDefaultGroupSorts,
   sortGroupedResults,
 } from "@akasha/pages-core/view/apply-grouping-sort"
-import type { ServerGroupedSection } from "@akasha/pages-ui-components/page-system-tab-content-props"
-import { PageTimeline } from "@akasha/pages-ui-components/page-timeline"
-import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+import type { ServerGroupedSection } from "@akasha/pages-ui/components/page-system-tab-content-props"
+import { PageTimeline } from "@akasha/pages-ui/components/page-timeline"
+import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import {
   Empty,
   EmptyDescription,

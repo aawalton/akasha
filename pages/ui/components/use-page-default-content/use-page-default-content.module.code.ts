@@ -9,6 +9,17 @@ import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/ro
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import { resolveDefinitionOptions } from "@akasha/pages-core/schema/resolve-select-options"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
+import { createOptionOnDefinition } from "@akasha/pages-ui/components/create-option"
+import {
+  toAggregateInputs,
+  toPageDataJSON,
+  toPageDataRecord,
+} from "@akasha/pages-ui/components/page-data-json"
+import {
+  DETAIL_EXCLUDED_IDS,
+  extractPageTypeId,
+  PAGE_TYPE_SLUG,
+} from "@akasha/pages-ui/components/page-detail-content-helpers"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useHostCreateSelectOption } from "@akasha/pages-ui/option-create-context"
 import { useAllPages, useRelatedPages } from "@akasha/pages-ui/supabase/hooks"
@@ -16,17 +27,6 @@ import { useOptimisticPatchPropertyDefinition } from "@akasha/pages-ui/supabase/
 import { useOptionListLookup } from "@akasha/pages-ui/supabase/use-option-list-lookup"
 import { usePage } from "@akasha/pages-ui/supabase/use-page"
 import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
-import { createOptionOnDefinition } from "@akasha/pages-ui-components/create-option"
-import {
-  toAggregateInputs,
-  toPageDataJSON,
-  toPageDataRecord,
-} from "@akasha/pages-ui-components/page-data-json"
-import {
-  DETAIL_EXCLUDED_IDS,
-  extractPageTypeId,
-  PAGE_TYPE_SLUG,
-} from "@akasha/pages-ui-components/page-detail-content-helpers"
 import { useCallback, useMemo } from "react"
 
 export function usePageDefaultContent({

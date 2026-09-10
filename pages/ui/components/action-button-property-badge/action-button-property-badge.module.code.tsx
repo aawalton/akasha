@@ -6,8 +6,8 @@ import {
   getActionVerb,
   getActionVerbPresentation,
 } from "@akasha/pages-ui/action-verbs/action-verb-registry"
+import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
-import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"
 import {
   BadgeLayoutProvider,
   useBadgeLayoutContext,

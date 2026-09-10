@@ -2,10 +2,10 @@ import type { GroupGranularity } from "@akasha/pages-core/schema/view-data"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { GROUP_NONE_KEY } from "@akasha/pages-core/view/apply-grouping-shared"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
+import { toPageDataRecord } from "@akasha/pages-ui/components/page-data-json"
+import type { ServerGroupedSection } from "@akasha/pages-ui/components/page-system-tab-content-props"
+import { buildPageResolver } from "@akasha/pages-ui/components/view-engine/build-page-resolver"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
-import { toPageDataRecord } from "@akasha/pages-ui-components/page-data-json"
-import type { ServerGroupedSection } from "@akasha/pages-ui-components/page-system-tab-content-props"
-import { buildPageResolver } from "@akasha/pages-ui-components/view-engine/build-page-resolver"
 import { getPageGroupDefinition } from "../view-engine/generate-group-definitions/generate-group-definitions.module.code.ts"
 
 interface GroupedSource {

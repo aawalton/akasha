@@ -3,7 +3,7 @@
 import {
   POSITION_WRITE_EVENT,
   parsePositionWriteDetail,
-} from "@akasha/pages-ui-components/position-write-event"
+} from "@akasha/pages-ui/components/position-write-event"
 import { getContentPersistence } from "@akasha/pages-ui-store/singleton"
 import {
   selectReadAheadChapterIds,

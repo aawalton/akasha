@@ -4,8 +4,8 @@ import { propertyTypeRendersWhenEmpty } from "@akasha/pages-core/property-types/
 import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 import { resolvePropertyVisibilityMode } from "@akasha/pages-core/schema/view-data"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
-import { selectVisibleCardProperties } from "@akasha/pages-ui-components/card-property-columns"
-import { isEmptyValue, PropertyBadge } from "@akasha/pages-ui-components/property-badge"
+import { selectVisibleCardProperties } from "@akasha/pages-ui/components/card-property-columns"
+import { isEmptyValue, PropertyBadge } from "@akasha/pages-ui/components/property-badge"
 import { BadgeRow } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useMemo } from "react"
 

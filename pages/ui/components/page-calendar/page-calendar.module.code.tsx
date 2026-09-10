@@ -12,8 +12,8 @@ import {
   monthKeyOf,
   shiftMonth,
 } from "@akasha/pages-core/view/calendar-grid"
-import { usePageCalendarState } from "@akasha/pages-ui-components/use-page-calendar-state"
-import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+import { usePageCalendarState } from "@akasha/pages-ui/components/use-page-calendar-state"
+import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { DndContext, DragOverlay, useDraggable } from "@dnd-kit/core"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"

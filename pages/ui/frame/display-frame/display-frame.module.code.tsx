@@ -3,12 +3,12 @@
 import { cn } from "@akasha/design-primitives/cn"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import type { FrameConfig } from "@akasha/pages-core/schema/detail-config"
+import { useChromeToggle } from "@akasha/pages-ui/components/use-chrome-toggle"
 import { frameFollowMode, frameSupportsFocusMode } from "@akasha/pages-ui/frame/frame-config"
 import { FrameSafeAreaMasks } from "@akasha/pages-ui/frame/frame-safe-area-masks"
 import { FrameStickyFooter } from "@akasha/pages-ui/frame/frame-sticky-footer"
 import { type FrameHeader, FrameStickyHeader } from "@akasha/pages-ui/frame/frame-sticky-header"
 import { useFollowAnchor } from "@akasha/pages-ui/frame/use-follow-anchor"
-import { useChromeToggle } from "@akasha/pages-ui-components/use-chrome-toggle"
 import { ArrowDown } from "lucide-react"
 import { type ReactNode, type RefObject, useCallback } from "react"
 

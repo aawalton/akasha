@@ -5,9 +5,9 @@ import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import {
   type BoardColumnRect,
   computeBoardDropColumn,
-} from "@akasha/pages-ui-components/page-board-dnd-helpers"
-import type { ServerGroupedSection } from "@akasha/pages-ui-components/page-system-tab-content-props"
-import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+} from "@akasha/pages-ui/components/page-board-dnd-helpers"
+import type { ServerGroupedSection } from "@akasha/pages-ui/components/page-system-tab-content-props"
+import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import type { DragStartEvent } from "@dnd-kit/core"
 import {
   DndContext,

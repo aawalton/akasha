@@ -2,8 +2,8 @@
 
 import { cn } from "@akasha/design-primitives/cn"
 import { Textarea } from "@akasha/design-primitives/textarea"
+import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import { MarkdownRenderer } from "@akasha/pages-ui/markdown/markdown-renderer"
-import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { useEffect, useRef, useState } from "react"

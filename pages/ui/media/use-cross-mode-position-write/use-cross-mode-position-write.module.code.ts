@@ -1,11 +1,11 @@
-import type { PlayingSessionState } from "@akasha/pages-ui/media/playing-session"
-import type { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
 import {
   POSITION_WRITE_EPSILON,
   timeToFraction,
-} from "@akasha/pages-ui-components/position-fraction"
-import { emitPositionWrite } from "@akasha/pages-ui-components/position-write-event"
-import { computeReadProgress } from "@akasha/pages-ui-components/read-progress"
+} from "@akasha/pages-ui/components/position-fraction"
+import { emitPositionWrite } from "@akasha/pages-ui/components/position-write-event"
+import { computeReadProgress } from "@akasha/pages-ui/components/read-progress"
+import type { PlayingSessionState } from "@akasha/pages-ui/media/playing-session"
+import type { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
 import { type RefObject, useEffect } from "react"
 
 export function useCrossModePositionWrite(args: {

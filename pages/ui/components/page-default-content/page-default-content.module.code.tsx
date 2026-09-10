@@ -3,15 +3,15 @@
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
 import { BlockEditor } from "@akasha/pages-ui/block-editor/block-editor"
-import { MarkdownRenderer } from "@akasha/pages-ui/markdown/markdown-renderer"
-import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
-import { MultiRelationPropertyBadge } from "@akasha/pages-ui-components/multi-relation-property-badge"
-import { PageDetailHeaderMenu } from "@akasha/pages-ui-components/page-detail-header-menu"
+import { MultiRelationPropertyBadge } from "@akasha/pages-ui/components/multi-relation-property-badge"
+import { PageDetailHeaderMenu } from "@akasha/pages-ui/components/page-detail-header-menu"
 import {
   hasValue,
   JsonSectionRenderer,
   ToggleSection,
-} from "@akasha/pages-ui-components/page-detail-sections"
+} from "@akasha/pages-ui/components/page-detail-sections"
+import { MarkdownRenderer } from "@akasha/pages-ui/markdown/markdown-renderer"
+import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
 import { isRecord } from "@akasha/utils/narrow/is-record"
 import { BadgeLayoutProvider } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import { InlineEditableText } from "akasha/design/forms/inline-editable-text/inline-editable-text.module.code.tsx"

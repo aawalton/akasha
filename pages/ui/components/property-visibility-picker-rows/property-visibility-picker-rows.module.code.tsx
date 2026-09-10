@@ -1,7 +1,7 @@
 "use client"
 
 import { cn } from "@akasha/design-primitives/cn"
-import type { PropertyVisibilityOption } from "@akasha/pages-ui-components/property-visibility-picker-helpers"
+import type { PropertyVisibilityOption } from "@akasha/pages-ui/components/property-visibility-picker-helpers"
 import type { SyntheticListenerMap } from "@dnd-kit/core/dist/hooks/utilities"
 import { useSortable } from "@dnd-kit/sortable"
 import { GripVertical } from "lucide-react"

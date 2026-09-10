@@ -1,6 +1,6 @@
 import type { ViewConfig } from "@akasha/pages-core/schema/view-data"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import { TIMELINE_DATE_PROPERTY_TYPES } from "@akasha/pages-ui-components/page-timeline-helpers"
+import { TIMELINE_DATE_PROPERTY_TYPES } from "@akasha/pages-ui/components/page-timeline-helpers"
 import { useCallback, useMemo } from "react"
 
 export function useTimelineConfig({

@@ -2,7 +2,7 @@
 
 import { PALETTE_ONLY } from "@akasha/design-primitives/keyboard-registry"
 import { useKeyboardBinding } from "@akasha/design-primitives/use-keyboard-registry"
-import { useNavCommandBindings } from "@akasha/pages-ui-components/use-nav-command-bindings"
+import { useNavCommandBindings } from "@akasha/pages-ui/components/use-nav-command-bindings"
 import type { AppNavItem } from "akasha/design/layout/nav-types/nav-types.module.code.ts"
 import { useNavigate } from "react-router"
 import {

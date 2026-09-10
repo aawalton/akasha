@@ -8,14 +8,14 @@ import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-s
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
+import { DegradingImage } from "@akasha/pages-ui/components/degrading-image"
+import { toPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
+import { PageDetailHeaderMenu } from "@akasha/pages-ui/components/page-detail-header-menu"
+import { PropertyBadge } from "@akasha/pages-ui/components/property-badge"
 import { PagesUILink } from "@akasha/pages-ui/navigation-context"
 import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
 import { useResolvedDefinitions } from "@akasha/pages-ui/supabase/use-option-list-lookup"
 import { usePage } from "@akasha/pages-ui/supabase/use-page"
-import { DegradingImage } from "@akasha/pages-ui-components/degrading-image"
-import { toPageDataJSON } from "@akasha/pages-ui-components/page-data-json"
-import { PageDetailHeaderMenu } from "@akasha/pages-ui-components/page-detail-header-menu"
-import { PropertyBadge } from "@akasha/pages-ui-components/property-badge"
 import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import {
   Empty,

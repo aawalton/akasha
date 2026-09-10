@@ -5,20 +5,20 @@ import { parseListingConfig } from "@akasha/pages-core/schema/listing-config"
 import { isLocked, isPageTypeLocked, type ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 import type { LockedFacet } from "@akasha/pages-core/schema/view-data-locked"
 import { completionShapeOf } from "@akasha/pages-core/task-lifecycle"
+import { pageRowToPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
+import { useReorderViewWiring } from "@akasha/pages-ui/components/use-reorder-view-wiring"
+import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
+import type { PageTypeOption } from "@akasha/pages-ui/components/view-settings-options"
+import {
+  buildRelationBackLinkHref,
+  buildRowHref,
+  readRelationConfig,
+} from "@akasha/pages-ui/components/view-tab-content-href"
 import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useCompletePageOptimistic } from "@akasha/pages-ui/supabase/use-complete-page-optimistic"
 import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import { pageRowToPageDataJSON } from "@akasha/pages-ui-components/page-data-json"
-import { useReorderViewWiring } from "@akasha/pages-ui-components/use-reorder-view-wiring"
-import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
-import type { PageTypeOption } from "@akasha/pages-ui-components/view-settings-options"
-import {
-  buildRelationBackLinkHref,
-  buildRowHref,
-  readRelationConfig,
-} from "@akasha/pages-ui-components/view-tab-content-href"
 import { PageCardRenderer } from "../page-card-renderer/page-card-renderer.module.code.tsx"
 import { PageSystemTabContent } from "../page-system-view/page-system-view.module.code.tsx"
 import { PageTableRowCells } from "../page-table/page-table.module.code.tsx"

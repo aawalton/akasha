@@ -12,16 +12,16 @@ import {
 import { type CompletionShape, readsAsDone } from "@akasha/pages-core/task-lifecycle"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
-import { orderTableColumns } from "@akasha/pages-ui-components/card-property-columns"
-import { PageActionsMenu } from "@akasha/pages-ui-components/page-actions-menu"
-import { PageTableColGroup } from "@akasha/pages-ui-components/page-table-colgroup"
+import { orderTableColumns } from "@akasha/pages-ui/components/card-property-columns"
+import { PageActionsMenu } from "@akasha/pages-ui/components/page-actions-menu"
+import { PageTableColGroup } from "@akasha/pages-ui/components/page-table-colgroup"
 import {
   ACTIONS_COLUMN_PX,
   type PageTableColumn,
-} from "@akasha/pages-ui-components/page-table-shared"
-import { tableMinWidthPx } from "@akasha/pages-ui-components/page-table-widths"
-import { PropertyBadge } from "@akasha/pages-ui-components/property-badge"
-import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+} from "@akasha/pages-ui/components/page-table-shared"
+import { tableMinWidthPx } from "@akasha/pages-ui/components/page-table-widths"
+import { PropertyBadge } from "@akasha/pages-ui/components/property-badge"
+import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { LoadMoreButton } from "akasha/design/layout/load-more-button/load-more-button.module.code.tsx"
 import { useLoadMore } from "akasha/design/layout/use-load-more/use-load-more.module.code.ts"
 import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"

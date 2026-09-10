@@ -5,15 +5,15 @@ import type { IconName } from "@akasha/pages-core/generated/icon-search-index"
 import { completionShapeOf } from "@akasha/pages-core/task-lifecycle"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
 import { type GalleryCardSize, resolveGalleryCoverUrl } from "@akasha/pages-core/view/gallery"
-import { getCoverClickHandler } from "@akasha/pages-ui/cover-click/cover-click-registry"
-import { getCoverMask } from "@akasha/pages-ui/cover-click/cover-mask-registry"
-import { pageRowToPageDataJSON } from "@akasha/pages-ui-components/page-data-json"
-import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+import { pageRowToPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
+import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import {
   buildRelationBackLinkHref,
   buildRowHref,
   readRelationConfig,
-} from "@akasha/pages-ui-components/view-tab-content-href"
+} from "@akasha/pages-ui/components/view-tab-content-href"
+import { getCoverClickHandler } from "@akasha/pages-ui/cover-click/cover-click-registry"
+import { getCoverMask } from "@akasha/pages-ui/cover-click/cover-mask-registry"
 import { PageCard } from "../page-card/page-card.module.code.tsx"
 import { PageCardNotes } from "../page-card-notes/page-card-notes.module.code.tsx"
 
