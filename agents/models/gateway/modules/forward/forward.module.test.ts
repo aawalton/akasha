@@ -1,4 +1,4 @@
-import { expect, test } from "bun:test"
+import { afterEach, beforeEach, expect, mock, spyOn, test } from "bun:test"
 import type { IdleFetch, IdleTimers } from "../idle-timeout/idle-timeout.module.code.ts"
 import type { ObserverSlot } from "../observer-slot/observer-slot.module.code.ts"
 import type { ArmableStreamObserver } from "../transport-log/transport-log.module.code.ts"
@@ -103,6 +103,14 @@ function watchedSlot(calls: Call[], endInFlight?: () => undefined): ObserverSlot
     endInFlight,
   }
 }
+
+beforeEach(() => {
+  spyOn(console, "error").mockImplementation((): undefined => undefined)
+})
+
+afterEach(() => {
+  mock.restore()
+})
 
 test("the upstream url is the anthropic base with the path and the query", async () => {
   const sent: Sent[] = []

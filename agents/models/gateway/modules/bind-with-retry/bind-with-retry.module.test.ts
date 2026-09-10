@@ -1,4 +1,4 @@
-import { expect, test } from "bun:test"
+import { afterEach, beforeEach, expect, mock, spyOn, test } from "bun:test"
 import { type BindRetryClock, bindWithRetry } from "./bind-with-retry.module.code.ts"
 
 const PORT = 4321
@@ -29,6 +29,14 @@ function heldClock(): {
     slept: () => slept,
   }
 }
+
+beforeEach(() => {
+  spyOn(console, "error").mockImplementation((): undefined => undefined)
+})
+
+afterEach(() => {
+  mock.restore()
+})
 
 test("a bind returns what the attempt returns", () => {
   const held = heldClock()

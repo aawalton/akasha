@@ -1,4 +1,4 @@
-import { expect, test } from "bun:test"
+import { afterEach, beforeEach, expect, mock, spyOn, test } from "bun:test"
 import {
   buildIdleGuard,
   fetchWithIdleGuard,
@@ -82,6 +82,14 @@ function abortReason(signal: AbortSignal): DOMException {
   if (reason instanceof DOMException) return reason
   throw new Error("the guard aborted with something other than a DOMException")
 }
+
+beforeEach(() => {
+  spyOn(console, "error").mockImplementation((): undefined => undefined)
+})
+
+afterEach(() => {
+  mock.restore()
+})
 
 test("a guard fires only where the idle span passes with no reset", () => {
   const clock = heldTimers()
