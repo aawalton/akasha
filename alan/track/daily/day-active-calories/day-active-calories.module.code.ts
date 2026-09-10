@@ -56,5 +56,5 @@ if (import.meta.main) {
     )
     process.exit(2)
   }
-  process.stdout.write(`active calories landed on ${landed.join(", ")}\n`)
+  process.stdout.write(`active calories on ${landed.join(", ")}\n`)
 }
