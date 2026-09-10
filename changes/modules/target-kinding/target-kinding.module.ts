@@ -19,11 +19,11 @@ export const targetKinding = {
     },
     {
       invariantKind: "departure",
-      statement: "A path under a `page-type` name is a page type before it is a page.",
+      statement: "A path under a `page-type` name is a page type before that path is a page.",
     },
     {
       invariantKind: "departure",
-      statement: "A path under a page property name is a page property before it is a page.",
+      statement: "A path under a page property name is a page property before that path is a page.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const targetKinding = {
     },
     {
       invariantKind: "departure",
-      statement: "The kind answered is the slug of the change target subtype naming it.",
+      statement: "The kind answered is the slug of the change target subtype naming that path.",
     },
     {
       invariantKind: "absence",

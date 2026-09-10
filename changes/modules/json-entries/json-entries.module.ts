@@ -11,7 +11,8 @@ export const jsonEntries = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The object answered is the one the named key of the body's top-level object has.",
+      statement:
+        "The object answered is the object the named key of the body's top-level object has.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +28,7 @@ export const jsonEntries = {
     },
     {
       invariantKind: "departure",
-      statement: "The text answered is the one the named key has where that key has a string.",
+      statement: "The text answered is the text the named key has where that key has a string.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +36,7 @@ export const jsonEntries = {
     },
     {
       invariantKind: "departure",
-      statement: "The body's own top-level object is answered apart from any key it has.",
+      statement: "The body's own top-level object is answered apart from any key the body has.",
     },
     {
       invariantKind: "departure",
@@ -43,15 +44,16 @@ export const jsonEntries = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry goes with the space before it back to where the entry before it ended.",
+      statement:
+        "An entry goes with the space before that entry back to where the preceding entry ended.",
     },
     {
       invariantKind: "departure",
-      statement: "An entry with a comma after it goes with that comma.",
+      statement: "An entry followed by a comma goes with that comma.",
     },
     {
       invariantKind: "departure",
-      statement: "An entry with no comma after it goes back to take the comma before it.",
+      statement: "An entry followed by no comma goes back to take the comma before that entry.",
     },
     {
       invariantKind: "departure",

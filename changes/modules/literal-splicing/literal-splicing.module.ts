@@ -11,24 +11,24 @@ export const literalSplicing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value put into a list with none falls just inside the bracket.",
+      statement: "A value put into a list holding no value falls just inside the bracket.",
     },
     {
       invariantKind: "departure",
-      statement: "A value put into a list already holding values falls after the last of them.",
+      statement: "A value put into a list already holding values falls after the last value.",
     },
     {
       invariantKind: "departure",
-      statement: "A value written after another is written behind a comma and a space.",
+      statement: "A value written after another value is written behind a comma and a space.",
     },
     {
       invariantKind: "departure",
-      statement: "A value is written as the caller spells it.",
+      statement: "A value is written as the caller spells that value.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An entry put into an object with none falls just inside the brace on a line of its own.",
+        "An entry put into an object holding no entry falls just inside the brace on its own line.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,7 @@ export const literalSplicing = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry falls after the last entry where `after` names none of them.",
+      statement: "An entry falls after the last entry where `after` names no entry.",
     },
     {
       invariantKind: "departure",
@@ -50,11 +50,12 @@ export const literalSplicing = {
     {
       invariantKind: "departure",
       statement:
-        "An entry with a comma after it goes with that comma and with the space before it.",
+        "An entry followed by a comma goes with that comma and with the space before the entry.",
     },
     {
       invariantKind: "departure",
-      statement: "An entry with no comma after it goes back to where the entry before it ended.",
+      statement:
+        "An entry followed by no comma goes back to where the entry before that entry ended.",
     },
     {
       invariantKind: "departure",
