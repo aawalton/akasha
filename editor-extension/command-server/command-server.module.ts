@@ -111,6 +111,10 @@ export const commandServer = {
     },
     {
       invariantKind: "departure",
+      statement: "A caller waiting past the idle bound reads a server as gone rather than as late.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The one path a lease turnover takes is therefore the one path a test walks.",
     },
     {

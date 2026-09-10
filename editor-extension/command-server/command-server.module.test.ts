@@ -137,7 +137,8 @@ describe("the command server where it cannot answer", () => {
         (err: unknown) => ({ refused: true, saying: err })
       )
     expect(thrown.refused).toBe(true)
-    expect((thrown.saying as CommandServerRefusal).refusal).toBe(REFUSAL_LEASE)
+    const refusal = (thrown.saying as CommandServerRefusal).refusal
+    expect([REFUSAL_LEASE, REFUSAL_GONE]).toContain(refusal)
   }, 60_000)
 })
 
