@@ -8,6 +8,7 @@ export const shadow = {
   definition: "the files and index as a change would leave them",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
