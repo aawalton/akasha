@@ -11,7 +11,7 @@ export const dallaDeployCleanup = {
     {
       statement: "Every cluster service has deployed through `akasha deploy`.",
       workingMemory:
-        "52 cluster service pages, every one run through `akasha deploy` on 2026-09-10. 41 now run exactly as their pages describe, the 5 web apps among them rebuilt and rolled out 1/1. The other 11 refuse over a checksum or an image nothing filled in, which is the finding `the-akasha-deploy-path-places-no-secret` and the one thing left before this is met. Three faults the run found are mended: a hook stub written through a stale symlink, `kubectl diff` asked in `default`, and a dry run that pushed.\n",
+        "52 cluster service pages, every one run through `akasha deploy`. 50 now run exactly as their pages describe. The two left, auth-proxy and calendar-sync, name an image nothing in the tree builds, which is the finding `three-images-the-cluster-pulls-are-built-by-nothing-here` and the same work as the rivals below. Every placeholder checksum is now the hash of the config emitted beside it or of the secret the cluster holds.\n",
     },
     {
       statement: "Every ios app has deployed through `akasha deploy`.",
