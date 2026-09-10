@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "2614 refusals remain. 40 of the 53 checks that ran are green. A bare audit no longer finishes. The run is killed at the 300 second ceiling the audit command states, so tests-pass, typecheck and types-file-runs-nothing go unrun and no answer is printed. Two checks hold 53%: no-rule-in-two-files 1046, identifier-matches-its-place 340. A check refusing what no file can change is mended in the check rather than in the files. 414 such refusals are left. Take the worst files first.",
+        "A bare audit is still killed at its 300 second ceiling, 5:01 wall and 17.1 GB peak. 48 of the 51 live checks ran, 204 seconds of check wall between them. tests-pass, typecheck and types-file-runs-nothing never ran and are still last alphabetically. page-matches-its-type is 49 of those seconds and relation-resolves peaks at 20 GB. Six checks are dormant under the experimental property. no-rule-in-two-files is 918. Alan holds the ceiling.",
     },
     {
       statement: "Every route file is claimed by a page.",
