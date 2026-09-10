@@ -9,6 +9,7 @@ export const changeMechanicalFileContent = {
   pluralSlug: "change-mechanical-file-content",
   parts: [
     "domain/change-mechanical-file-content-add",
+    "domain/change-mechanical-file-content-append",
     "domain/change-mechanical-file-content-change",
     "domain/change-mechanical-file-content-move",
     "domain/change-mechanical-file-content-remove",

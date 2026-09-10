@@ -11,6 +11,9 @@ export type Changes = {
   "change-mechanical-file-content/add-type-member": Parameters<
     typeof import("../../../mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
+  "change-mechanical-file-content/append-lines": Parameters<
+    typeof import("../../../mechanical/file-content/append/append-lines/append-lines.change-mechanical-file-content.code.ts")["runChange"]
+  >[1]
   "change-mechanical-file-content/change-domain-parent": Parameters<
     typeof import("../../../mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
