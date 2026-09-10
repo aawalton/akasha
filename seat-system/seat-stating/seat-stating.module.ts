@@ -95,8 +95,7 @@ export const seatStating = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path the index files no page at has its page alone taken away, as nothing beside it is claimed.",
+      statement: "A path the index files no page at has that page alone taken away.",
     },
     {
       invariantKind: "departure",

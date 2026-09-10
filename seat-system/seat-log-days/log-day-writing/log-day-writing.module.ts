@@ -30,7 +30,15 @@ export const logDayWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A day's page sits in a folder of its own, named for that day, with its lines.",
+      statement: "A day's page sits in a folder of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day's folder is named for the day.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day's lines sit in the day's folder.",
     },
     {
       invariantKind: "stopgap",
