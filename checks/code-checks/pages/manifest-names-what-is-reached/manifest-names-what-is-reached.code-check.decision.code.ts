@@ -10,7 +10,7 @@ import {
 } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import { textsAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textsAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import {
   bodyNamed,
   everyFileOf,
