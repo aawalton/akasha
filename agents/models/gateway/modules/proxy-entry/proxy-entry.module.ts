@@ -39,7 +39,7 @@ export const proxyEntry = {
     },
     {
       invariantKind: "departure",
-      statement: "An agent id naming no seat sends the console to the file alone.",
+      statement: "An agent id naming no seat yet sends the console to the file until it names one.",
     },
     {
       invariantKind: "departure",

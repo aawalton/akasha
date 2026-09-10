@@ -8,6 +8,7 @@ import {
   pageSink,
   redirectConsoleToSink,
   SUPERVISOR_CONSOLE_SOURCE,
+  seatPageSink,
   shouldRotate,
 } from "./supervisor-console.module.code.ts"
 
@@ -41,7 +42,7 @@ test("a line the page refuses lands in the fallback rather than being lost", () 
   const fell: string[] = []
   let refusal: string | null = "the page is full"
   const writer = { write: () => undefined, refused: () => refusal }
-  const sink = pageSink(writer as never, "a", (level, text) => {
+  const sink = pageSink(SUPERVISOR_CONSOLE_SOURCE, writer as never, "a", (level, text) => {
     fell.push(`${level} ${text}`)
   })
   sink("LOG", "one")
@@ -58,10 +59,55 @@ test("a line the page refuses lands in the fallback rather than being lost", () 
 test("a page that refuses nothing sends nothing to the fallback", () => {
   const fell: string[] = []
   const writer = { write: () => undefined, refused: () => null }
-  pageSink(writer as never, "a", (level, text) => {
+  pageSink(SUPERVISOR_CONSOLE_SOURCE, writer as never, "a", (level, text) => {
     fell.push(`${level} ${text}`)
   })("LOG", "one")
   expect(fell).toHaveLength(0)
+})
+
+function writerTaking(taken: string[]): unknown {
+  return { write: (row: { text: string }) => taken.push(row.text), refused: () => null }
+}
+
+test("a sink whose seat cannot be named yet writes to the file and joins the page once it can", () => {
+  const fell: string[] = []
+  const taken: string[] = []
+  let seat: string | null = null
+  const seams = { seatFor: () => seat, writerFor: () => writerTaking(taken) }
+  const sink = seatPageSink(
+    SUPERVISOR_CONSOLE_SOURCE,
+    "a",
+    (level, text) => {
+      fell.push(`${level} ${text}`)
+    },
+    seams as never
+  )
+
+  sink("LOG", "before")
+  expect(fell).toEqual(["LOG before"])
+  expect(taken).toEqual([])
+  seat = "thea"
+  sink("LOG", "after")
+  expect(taken).toEqual(["after"])
+  expect(fell).toEqual(["LOG before"])
+})
+
+test("the seat a sink found once is not looked for again", () => {
+  let asked = 0
+  const taken: string[] = []
+  const seams = {
+    seatFor: (): string => {
+      asked += 1
+      return "thea"
+    },
+    writerFor: () => writerTaking(taken),
+  }
+  const sink = seatPageSink(SUPERVISOR_CONSOLE_SOURCE, "a", () => undefined, seams as never)
+
+  sink("LOG", "one")
+  sink("LOG", "two")
+  expect(asked).toBe(1)
+  expect(taken).toEqual(["one", "two"])
 })
 
 test("a redirected console is put back as it was", () => {

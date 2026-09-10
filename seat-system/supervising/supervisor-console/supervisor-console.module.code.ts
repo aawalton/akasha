@@ -59,7 +59,12 @@ export function fileSink(logPath: string, rotate?: RotationOptions): LogSink {
   }
 }
 
-export function pageSink(writer: LogWriter, agentId: string, fallback: LogSink): LogSink {
+export function pageSink(
+  source: string,
+  writer: LogWriter,
+  agentId: string,
+  fallback: LogSink
+): LogSink {
   let named: string | null = null
   return (level, text): undefined => {
     writer.write({ "written-at": new Date().toISOString(), "agent-id": agentId, level, text })
@@ -69,10 +74,34 @@ export function pageSink(writer: LogWriter, agentId: string, fallback: LogSink):
       named = refused
       fallback(
         "ERROR",
-        `[${SUPERVISOR_CONSOLE_SOURCE}] the seat log page refuses these lines, so they land here instead: ${refused}`
+        `[${source}] the seat log page refuses these lines, so they land here instead: ${refused}`
       )
     }
     fallback(level, text)
+  }
+}
+
+export type SeatSeams = {
+  readonly seatFor: (agentId: string) => string | null
+  readonly writerFor: (source: string, seatName: string) => LogWriter
+}
+
+const SEAT_SEAMS: SeatSeams = { seatFor: seatNameForAgent, writerFor: logWriter }
+
+export function seatPageSink(
+  source: string,
+  agentId: string,
+  fallback: LogSink,
+  seams: SeatSeams = SEAT_SEAMS
+): LogSink {
+  let onPage: LogSink | null = null
+  return (level, text): undefined => {
+    if (onPage === null) {
+      const seatName = seams.seatFor(agentId)
+      if (seatName === null) return fallback(level, text)
+      onPage = pageSink(source, seams.writerFor(source, seatName), agentId, fallback)
+    }
+    onPage(level, text)
   }
 }
 
@@ -127,9 +156,7 @@ export function buildAgentLogRedirect(supervisorsDir: string = DEFAULT_SUPERVISO
       mkdirSync(agentDir, { recursive: true })
       active?.()
       const toFile = fileSink(agentPath, { maxBytes: LOG_MAX_BYTES })
-      const seatName = seatNameForAgent(agentId)
-      const writer = seatName === null ? null : logWriter(SUPERVISOR_CONSOLE_SOURCE, seatName)
-      activeSink = writer === null ? toFile : pageSink(writer, agentId, toFile)
+      activeSink = seatPageSink(SUPERVISOR_CONSOLE_SOURCE, agentId, toFile)
       if (!bootstrapMigrated) {
         bootstrapMigrated = true
         if (existsSync(bootstrapPath)) {

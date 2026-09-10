@@ -1,7 +1,5 @@
 import { join } from "node:path"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { logWriter } from "akasha/seat-system/seat-log-days/log-day-writing/log-day-writing.module.code.ts"
-import { seatNameForAgent } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 import {
   clearProxyState,
   writeProxyStateQuietly,
@@ -9,8 +7,8 @@ import {
 import {
   fileSink,
   LOG_MAX_BYTES,
-  pageSink,
   redirectConsoleToSink,
+  seatPageSink,
 } from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
 import { supervisorSocketPath } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 import { type ProcessDoors, runGatewayProcess } from "../proxy-process/proxy-process.module.code.ts"
@@ -23,9 +21,7 @@ export const CONSOLE_LOG_NAME = "oauth-proxy.log"
 
 export function consoleSentTo(logDir: string, agentId: string): undefined {
   const toFile = fileSink(join(logDir, CONSOLE_LOG_NAME), { maxBytes: LOG_MAX_BYTES })
-  const seatName = seatNameForAgent(agentId)
-  const writer = seatName === null ? null : logWriter(CONSOLE_SOURCE, seatName)
-  redirectConsoleToSink(writer === null ? toFile : pageSink(writer, agentId, toFile))
+  redirectConsoleToSink(seatPageSink(CONSOLE_SOURCE, agentId, toFile))
 }
 
 export function processSeams(): ProcessDoors {

@@ -4,13 +4,27 @@ export const supervisorConsole = {
   id: "01a0683e-3dbe-7015-b25d-4d947ec851f0",
   pageTypeSlug: "module",
   slug: "supervisor-console",
-  definition: "a supervisor's console lines sent to its seat's log page and its log file",
+  definition:
+    "console lines sent to a seat's log page, and to a file until that page can take them",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A line the log page refuses lands in the file instead rather than being lost.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The seat whose page holds a source's lines is looked for again until it is found.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line written before that seat is found lands in the file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal is said in the name of the source whose lines were refused.",
     },
     {
       invariantKind: "departure",
