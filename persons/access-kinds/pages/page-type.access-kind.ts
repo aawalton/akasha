@@ -1,4 +1,4 @@
-import type { AccessKind } from "../access-kind.page-type.ts"
+import type { AccessKind } from "../access-kind.page-type.types.ts"
 
 export const pageType = {
   id: "01a0542d-4b9d-7680-b74a-818e4ddb54ff",

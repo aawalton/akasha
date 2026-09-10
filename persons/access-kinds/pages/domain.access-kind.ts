@@ -1,4 +1,4 @@
-import type { AccessKind } from "../access-kind.page-type.ts"
+import type { AccessKind } from "../access-kind.page-type.types.ts"
 
 export const domain = {
   id: "01a0542d-4b9c-7d57-8deb-e792aaff9c5d",

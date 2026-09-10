@@ -1,4 +1,4 @@
-import type { AccessKind } from "../access-kind.page-type.ts"
+import type { AccessKind } from "../access-kind.page-type.types.ts"
 
 export const databaseRow = {
   id: "01a0542d-4b9b-7def-a5a9-90a85c3618b7",

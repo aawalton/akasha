@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-
-export type AccessKind = Domain
 
 export const accessKind = {
   id: "01a0542d-0f75-73b3-a578-8d20baddb655",
@@ -17,4 +14,5 @@ export const accessKind = {
     "access-kind/route",
   ],
   extends: ["page-type/domain"],
+  types: "ts",
 } as const satisfies PageType

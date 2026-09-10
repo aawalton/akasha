@@ -1,4 +1,4 @@
-import type { AccessKind } from "../access-kind.page-type.ts"
+import type { AccessKind } from "../access-kind.page-type.types.ts"
 
 export const route = {
   id: "01a0542d-4b9d-74e1-98b8-4892e4ed15b5",
