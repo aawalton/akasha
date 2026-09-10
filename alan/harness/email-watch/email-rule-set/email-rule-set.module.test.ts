@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   EMAIL_RULE_KINDS,
   EMAIL_RULE_SET,
-  emailRuleSet,
+  EMAIL_RULE_SET_NAME,
   ruleFileSuffix,
   ruleFolderIn,
   ruleFolderOf,
@@ -12,24 +12,24 @@ import {
 
 describe("the fields an email rule tests", () => {
   test("every field holds text", () => {
-    for (const field of emailRuleSet.fields) expect(field.type).toBe("text")
+    for (const field of EMAIL_RULE_SET.fields) expect(field.type).toBe("text")
   })
 
   test("names the fields a message is matched on", () => {
-    expect(emailRuleSet.fields.map((one) => one.name)).toEqual(["from", "list", "subject", "to"])
+    expect(EMAIL_RULE_SET.fields.map((one) => one.name)).toEqual(["from", "list", "subject", "to"])
   })
 
   test("states no value of its own for any field", () => {
-    for (const field of emailRuleSet.fields) expect(field.values).toEqual([])
+    for (const field of EMAIL_RULE_SET.fields) expect(field.values).toEqual([])
   })
 
   test("fills an absent address field rather than leaving it empty", () => {
-    const filled = emailRuleSet.fields.filter((one) => one.filler !== undefined)
+    const filled = EMAIL_RULE_SET.fields.filter((one) => one.filler !== undefined)
     expect(filled.map((one) => one.name)).toEqual(["from", "to"])
   })
 
   test("is named", () => {
-    expect(emailRuleSet.name).toBe(EMAIL_RULE_SET)
+    expect(EMAIL_RULE_SET.name).toBe(EMAIL_RULE_SET_NAME)
   })
 })
 
@@ -56,7 +56,7 @@ describe("where a person's rules of each kind are", () => {
 
   test("each kind's glob reaches the same folder for every person", () => {
     for (const kind of ruleKinds()) {
-      expect(emailRuleSet.kinds[kind]?.glob).toBe(
+      expect(EMAIL_RULE_SET.kinds[kind]?.glob).toBe(
         `${ruleFolderIn("*", kind)}/*${ruleFileSuffix(kind)}`
       )
     }

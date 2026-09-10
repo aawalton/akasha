@@ -4,7 +4,7 @@ import type {
 } from "akasha/alan/harness/rules-engine/rule-conditions/rule-conditions.module.code.ts"
 import { z } from "zod"
 
-export const EMAIL_RULE_SET = "email-rule"
+export const EMAIL_RULE_SET_NAME = "email-rule"
 
 export const EMAIL_RULE_KINDS = ["agent", "code"] as const
 
@@ -36,8 +36,8 @@ export function ruleFolderOf(person: string): string {
   return EMAIL_RULE_KINDS.map((kind) => ruleFolderIn(person, kind)).join(" and ")
 }
 
-export const emailRuleSet: RuleSet = {
-  name: EMAIL_RULE_SET,
+export const EMAIL_RULE_SET: RuleSet = {
+  name: EMAIL_RULE_SET_NAME,
   fields: FIELDS,
   path: EMAIL_RULE_PATH,
   normalizer: null,
