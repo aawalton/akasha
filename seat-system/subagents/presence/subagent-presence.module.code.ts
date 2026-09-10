@@ -89,7 +89,7 @@ export function bodyOf(
   id: string | null = null
 ): string {
   return [
-    'import type { Subagent } from "../subagent.page-type.ts"',
+    'import type { Subagent } from "../subagent.page-type.types.ts"',
     "",
     `export const ${exportedAs(slug)} = {`,
     ...(id === null ? [] : [`  id: ${said(id)},`]),

@@ -12,7 +12,7 @@ const HELD = "01a06d00-0000-7000-8000-000000000001"
 
 function bodyOf(id: string, kind: string, agentId: string): string {
   return [
-    'import type { Subagent } from "../subagent.page-type.ts"',
+    'import type { Subagent } from "../subagent.page-type.types.ts"',
     "",
     "export const akashaA38f63805f9b94edf = {",
     `  id: ${JSON.stringify(id)},`,
