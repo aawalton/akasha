@@ -1,12 +1,14 @@
 #!/usr/bin/env bun
 
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import { monarchHeaders } from "../credential/monarch-credential.module.code.ts"
 import { categoryPages, keyOf } from "../files/monarch-files.module.code.ts"
 import { createTransaction } from "../transaction-create/monarch-transaction-create.module.code.ts"
 
 const CASH_ACCOUNT_ID = "151732808422660966"
 const MERCHANT = "Audible Credit Transfer"
-const DEFAULT_LIST = `${process.env.HOME ?? "."}/audible/rebuild.tsv`
+const HOME = shape.string().default(".").parse(process.env.HOME)
+const DEFAULT_LIST = `${HOME}/audible/rebuild.tsv`
 
 interface BookTransfer {
   readonly label: string
@@ -32,7 +34,7 @@ function categoryId(ids: ReadonlyMap<string, string>, name: string): string {
   return found
 }
 
-export function readList(text: string): readonly BookTransfer[] {
+export function parseBookList(text: string): readonly BookTransfer[] {
   const lines = text
     .split("\n")
     .map((line) => line.trim())
@@ -65,7 +67,7 @@ if (import.meta.main) {
   const write = process.argv.includes("--write")
   const only = flag("only")
   const listPath = flag("list") ?? DEFAULT_LIST
-  const all = readList(await Bun.file(listPath).text())
+  const all = parseBookList(await Bun.file(listPath).text())
   const chosen = only === undefined ? all : all.filter((b) => b.title.includes(only))
   if (chosen.length === 0)
     throw new Error(`nothing in ${listPath} matches --only "${String(only)}"`)
