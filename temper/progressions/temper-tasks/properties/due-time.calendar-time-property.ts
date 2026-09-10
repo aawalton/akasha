@@ -1,4 +1,4 @@
-import type { CalendarTimeProperty } from "@akasha/pages/calendar-time-property"
+import type { CalendarTimeProperty } from "akasha/pages/calendar-time-properties/calendar-time-property.page-type.types.ts"
 
 export type DueTime = string
 

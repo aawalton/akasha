@@ -1,7 +1,4 @@
-import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-
-export type CalendarTimeProperty = PageProperty
 
 export const calendarTimeProperty = {
   id: "01a06d87-9d4d-7c65-aad0-8a0385b221c6",
@@ -30,4 +27,5 @@ export const calendarTimeProperty = {
         "A moment on a stated day is an instant property rather than a calendar time property.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
