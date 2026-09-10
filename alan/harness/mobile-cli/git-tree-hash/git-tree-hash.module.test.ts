@@ -4,7 +4,11 @@ import { join, resolve } from "node:path"
 import { said } from "akasha/utils/run/running/running.module.code.ts"
 import { buildInputSources } from "../build-input-sources/build-input-sources.module.code.ts"
 import type { MobileApp } from "../mobile-app/mobile-app.module.code.ts"
-import { computeBuildInputTreeHash } from "./git-tree-hash.module.code.ts"
+import {
+  ABSENT_OBJECT,
+  computeBuildInputTreeHash,
+  objectIdAt,
+} from "./git-tree-hash.module.code.ts"
 
 const SCRATCH = "/var/tmp"
 
@@ -136,6 +140,26 @@ describe("computeBuildInputTreeHash — build-input closure scope", () => {
       commitEdit(codeRoot, "notes.md", "still outside the closure — reworded\n")
       commitEdit(shellRoot, "agent/seat/somebody.seat.md", "still outside the shell tree\n")
       expect(hashOf(codeRoot, shellRoot)).toBe(before)
+    } finally {
+      cleanup()
+    }
+  })
+})
+
+describe("objectIdAt", () => {
+  test("a path absent at the ref answers the literal string absent", () => {
+    const { root, cleanup } = makeCodeRepo()
+    try {
+      expect(objectIdAt(root, "HEAD", "nothing/is/here.ts")).toBe(ABSENT_OBJECT)
+    } finally {
+      cleanup()
+    }
+  })
+
+  test("a path present at the ref answers that path's object id instead", () => {
+    const { root, cleanup } = makeCodeRepo()
+    try {
+      expect(objectIdAt(root, "HEAD", "bun.lock")).toMatch(/^[0-9a-f]{40}$/)
     } finally {
       cleanup()
     }
