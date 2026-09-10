@@ -2,6 +2,18 @@ import { lstatSync } from "node:fs"
 import { join } from "node:path"
 import { said as gitIn, told as gitTold } from "../../../git/running/git-running.module.code.ts"
 
+export function unloadableIn(message: string, broken: string): string {
+  return `${message}\nChecks-unloadable: ${broken}`
+}
+
+export function bypassedIn(message: string, reason: string): string {
+  return `${message}\n\nChecks-bypassed: ${reason}`
+}
+
+export function glassSaid(reason: string): string {
+  return `no check ran — the glass was broken for: ${reason}`
+}
+
 export const AUTHOR = "Akasha <akasha@alanwalton.com>"
 
 export const UNNAMED = "unnamed"

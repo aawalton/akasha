@@ -48,18 +48,6 @@ export function textAt(at: string): string | null {
   return "bytes" in held ? textOf(held.bytes) : null
 }
 
-export function glassSaid(reason: string): string {
-  return `no check ran — the glass was broken for: ${reason}`
-}
-
-export function bypassedIn(message: string, reason: string): string {
-  return `${message}\n\nChecks-bypassed: ${reason}`
-}
-
-export function unloadableIn(message: string, broken: string): string {
-  return `${message}\nChecks-unloadable: ${broken}`
-}
-
 export function counted(many: number, one: string): string {
   return `${many} ${one}${many === 1 ? "" : "s"}`
 }
