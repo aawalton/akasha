@@ -1,4 +1,5 @@
-import { dirname } from "node:path"
+import { readFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { lineOf, parsedAs } from "@akasha/code/code-source"
 import { partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
@@ -31,6 +32,35 @@ const DOT = "."
 
 const SAID = "and only a change writes the repository"
 
+const IGNORE_AT = ".gitignore"
+
+const GIT = ".git"
+
+const UN_IGNORED = "!"
+
+const NOTED = "#"
+
+const ANY = "*"
+
+const OPENING = /^\/+/
+
+const CLOSING = /\/+$/
+
+export function asideIn(text: string): readonly string[] {
+  const found = new Set<string>([GIT])
+  for (const line of text.split("\n")) {
+    const said = line.trim()
+    if (said === "" || said.startsWith(NOTED) || said.startsWith(UN_IGNORED)) continue
+    const bare = said.replaceAll(ANY, "").replace(OPENING, "").replace(CLOSING, "")
+    if (bare !== "") found.add(bare)
+  }
+  return [...found]
+}
+
+export function asideAt(root: string): readonly string[] {
+  return asideIn(readFileSync(join(root, IGNORE_AT), "utf8"))
+}
+
 const WRITES = new Map<string, readonly number[]>([
   ["appendFile", [0]],
   ["appendFileSync", [0]],
@@ -41,8 +71,6 @@ const WRITES = new Map<string, readonly number[]>([
   ["createWriteStream", [0]],
   ["link", [1]],
   ["linkSync", [1]],
-  ["mkdir", [0]],
-  ["mkdirSync", [0]],
   ["rename", [0, 1]],
   ["renameSync", [0, 1]],
   ["rm", [0]],
@@ -194,12 +222,19 @@ function spreadOver(
   return found
 }
 
-function tsNamed(node: ts.Node): boolean {
-  if (ts.isStringLiteralLike(node)) return textNamed(node.text)
+function textIn(node: ts.Node): string | null {
+  if (ts.isStringLiteralLike(node)) return node.text
   if (ts.isTemplateHead(node) || ts.isTemplateMiddle(node) || ts.isTemplateTail(node)) {
-    return textNamed(node.text)
+    return node.text
   }
-  return false
+  return null
+}
+
+function asideBy(aside: readonly string[]): (node: ts.Node) => boolean {
+  return (node) => {
+    const said = textIn(node)
+    return said !== null && aside.some((one) => said.includes(one))
+  }
 }
 
 function calledAs(node: ts.CallExpression, taken: Taken): readonly number[] | null {
@@ -216,34 +251,38 @@ function pointsRoot(node: ts.Node): boolean {
   return ts.isPropertyAccessExpression(node) && node.name.text === ROOT
 }
 
-export function reasonsIn(at: string, text: string): readonly string[] {
+export function reasonsOver(at: string, text: string, aside: readonly string[]): readonly string[] {
   const source = parsedAs(at, text)
   const taken = takenIn(source)
   const bun = text.includes(BUN_WRITE)
   if (taken.writes.size === 0 && taken.spaces.size === 0 && !bun) return []
   const stated = statedIn(source)
   const rooted = spreadOver(stated, taken.rooted, pointsRoot)
-  const named = spreadOver(stated, new Set<string>(), tsNamed)
+  const asideNamed = asideBy(aside)
+  const named = spreadOver(stated, new Set<string>(), asideNamed)
   const isRooted = (one: ts.Node): boolean =>
     pointsRoot(one) || (ts.isIdentifier(one) && rooted.has(one.text))
-  const isNamed = (one: ts.Node): boolean =>
-    tsNamed(one) || (ts.isIdentifier(one) && named.has(one.text))
+  const isAside = (one: ts.Node): boolean =>
+    asideNamed(one) || (ts.isIdentifier(one) && named.has(one.text))
   const said: string[] = []
   const walk = (node: ts.Node): undefined => {
     if (ts.isCallExpression(node)) {
       for (const which of calledAs(node, taken) ?? []) {
         const given = node.arguments[which]
         if (given === undefined) continue
-        if (!heldIn(given, isRooted) || !heldIn(given, isNamed)) continue
-        said.push(
-          `line ${lineOf(source, node)} writes a TypeScript file under the checkout root, ${SAID}`
-        )
+        if (!heldIn(given, isRooted) || heldIn(given, isAside)) continue
+        said.push(`line ${lineOf(source, node)} writes under the checkout root, ${SAID}`)
       }
     }
     ts.forEachChild(node, walk)
   }
   ts.forEachChild(source, walk)
   return said
+}
+
+export function reasonsOf(root: string): (at: string, text: string) => readonly string[] {
+  const aside = asideAt(root)
+  return (at, text) => reasonsOver(at, text, aside)
 }
 
 function folderOf(shadow: Shadow, slug: string): string {

@@ -3,9 +3,9 @@ import { overEveryNamed } from "../../../modules/change-walking/change-walking.m
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   outsideBy,
-  reasonsIn,
+  reasonsOf,
 } from "./repository-is-written-by-a-change.code-check.decision.code.ts"
 
 export function repositoryIsWrittenByAChange(root: string): readonly Judged[] {
-  return overEveryNamed(root, outsideBy(shadowAt(root)), reasonsIn)
+  return overEveryNamed(root, outsideBy(shadowAt(root)), reasonsOf(root))
 }

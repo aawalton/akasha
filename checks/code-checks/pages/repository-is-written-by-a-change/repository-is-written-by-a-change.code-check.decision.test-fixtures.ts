@@ -23,11 +23,16 @@ const CHANGE_ID = "01a08299-65c2-7001-8000-000000000001"
 
 const COMMAND_ID = "01a08299-65c2-7002-8000-000000000002"
 
+const IGNORE_AT = ".gitignore"
+
+const IGNORES = "*.uncommitted.*\n.supervisors/\nnode_modules/\n"
+
 export const scratch = scratchWorld()
 
 export function rooted(): string {
   const root = scratch.rootFor("akasha-written-by-")
   founded(root)
+  writing(root, IGNORE_AT, IGNORES)
   typed(root, "domain", "page")
   listedFiled(root, "domain", "change", [{ path: CHANGE_AT, id: CHANGE_ID }])
   listedFiled(root, "domain", "command", [{ path: COMMAND_AT, id: COMMAND_ID }])

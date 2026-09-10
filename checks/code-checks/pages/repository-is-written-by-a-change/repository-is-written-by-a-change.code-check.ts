@@ -5,8 +5,7 @@ export const repositoryIsWrittenByAChange = {
   pageTypeSlug: "code-check",
   type: "code-check",
   slug: "repository-is-written-by-a-change",
-  definition:
-    "the check refusing code outside the changes that writes TypeScript into the repository",
+  definition: "the check refusing code outside the changes that writes into the repository",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
@@ -53,7 +52,19 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "departure",
-      statement: "A name built from a name spelling `.ts` spells `.ts` too.",
+      statement: "What the repository ignores is read from `.gitignore` rather than named here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule is read as the name left once its stars and its edging slashes are gone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`.git` is ignored though no rule names it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name built from a name spelling an ignored name spells that name too.",
     },
     {
       invariantKind: "departure",
@@ -62,11 +73,11 @@ export const repositoryIsWrittenByAChange = {
     {
       invariantKind: "departure",
       statement:
-        "A destination is refused where the destination is rooted and named `.ts` or `.tsx`.",
+        "A destination is refused where the destination is rooted and names nothing ignored.",
     },
     {
       invariantKind: "departure",
-      statement: "A directory made under the root is no source file, so making one is let through.",
+      statement: "Making a directory writes no body, so `mkdir` is no write.",
     },
     {
       invariantKind: "departure",
@@ -78,7 +89,11 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "gap",
-      statement: "A write of anything but TypeScript is not seen.",
+      statement: "A destination holding an ignored name by chance is let through.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A rule un-ignoring a path is passed over, so that path is let through.",
     },
     {
       invariantKind: "gap",

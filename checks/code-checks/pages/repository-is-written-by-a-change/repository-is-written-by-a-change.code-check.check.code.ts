@@ -7,10 +7,22 @@ import {
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
   outsideBy,
-  reasonsIn,
+  reasonsOf,
 } from "./repository-is-written-by-a-change.code-check.decision.code.ts"
 
+type Reasons = (at: string, text: string) => readonly string[]
+
 const OUTSIDE_BY = new WeakMap<Shadow, (path: string) => boolean>()
+
+const REASONS_BY = new WeakMap<Shadow, Reasons>()
+
+function reasonsFor(shadow: Shadow, root: string): Reasons {
+  const found = REASONS_BY.get(shadow)
+  if (found !== undefined) return found
+  const made = reasonsOf(root)
+  REASONS_BY.set(shadow, made)
+  return made
+}
 
 function outsideFor(shadow: Shadow): (path: string) => boolean {
   const found = OUTSIDE_BY.get(shadow)
@@ -27,6 +39,6 @@ export const OUTSIDE: Selector<Text> = {
     TEXTS.from(change, shadow).filter((one) => outsideFor(shadow)(one.path)),
 }
 
-export const repositoryIsWrittenByAChange = judgingEach(OUTSIDE, (given) =>
-  reasonsIn(given.path, given.text)
+export const repositoryIsWrittenByAChange = judgingEach(OUTSIDE, (given, shadow) =>
+  reasonsFor(shadow, given.root)(given.path, given.text)
 )

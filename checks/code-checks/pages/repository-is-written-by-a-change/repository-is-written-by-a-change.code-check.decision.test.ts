@@ -1,11 +1,23 @@
 import { expect, test } from "bun:test"
-import { reasonsIn } from "./repository-is-written-by-a-change.code-check.decision.code.ts"
+import {
+  asideIn,
+  reasonsOver,
+} from "./repository-is-written-by-a-change.code-check.decision.code.ts"
 
 const AT = "commands/pages/one/one.command.code.ts"
 
+const IGNORED =
+  "# a note\n\n*.uncommitted.*\n.supervisors/\nnode_modules/\n!keep/a.uncommitted.js\n"
+
+const ASIDE = asideIn(IGNORED)
+
 function only(text: string): readonly string[] {
-  return reasonsIn(AT, text)
+  return reasonsOver(AT, text, ASIDE)
 }
+
+test("the names the repository ignores are read with `.git` and without an un-ignoring rule", () => {
+  expect(ASIDE).toEqual([".git", ".uncommitted.", ".supervisors", "node_modules"])
+})
 
 test("a TypeScript file written under a root taken from the root module is refused", () => {
   const said = only(
@@ -85,13 +97,62 @@ test("a directory made under the root is no source file", () => {
   ).toEqual([])
 })
 
-test("a file under the root that is no TypeScript is let through", () => {
+test("a file under the root that is no TypeScript is refused too", () => {
   expect(
     only(
       'import { writeFileSync } from "node:fs"\n' +
         'import { join } from "node:path"\n' +
         "export function one(given: { root: string }): void {\n" +
         '  writeFileSync(join(given.root, "a/b.json"), "")\n' +
+        "}\n"
+    )
+  ).toHaveLength(1)
+})
+
+test("a file under the root the repository ignores is let through", () => {
+  expect(
+    only(
+      'import { writeFileSync } from "node:fs"\n' +
+        'import { join } from "node:path"\n' +
+        "export function one(given: { root: string }): void {\n" +
+        '  writeFileSync(join(given.root, "a/b.uncommitted.jsonl"), "")\n' +
+        "}\n"
+    )
+  ).toEqual([])
+})
+
+test("a file under a folder the repository ignores is let through", () => {
+  expect(
+    only(
+      'import { writeFileSync } from "node:fs"\n' +
+        'import { join } from "node:path"\n' +
+        "export function one(given: { root: string }): void {\n" +
+        '  writeFileSync(join(given.root, ".supervisors", "a", "b.log"), "")\n' +
+        "}\n"
+    )
+  ).toEqual([])
+})
+
+test("a file under `.git` is let through though no rule names it", () => {
+  expect(
+    only(
+      'import { writeFileSync } from "node:fs"\n' +
+        'import { join } from "node:path"\n' +
+        "export function one(given: { root: string }): void {\n" +
+        '  writeFileSync(join(given.root, ".git", "held.txt"), "")\n' +
+        "}\n"
+    )
+  ).toEqual([])
+})
+
+test("an ignored name a constant carries is followed", () => {
+  expect(
+    only(
+      'import { writeFileSync } from "node:fs"\n' +
+        'import { join } from "node:path"\n' +
+        'const OUT = "a/b.uncommitted.jsonl"\n' +
+        "export function one(given: { root: string }): void {\n" +
+        '  writeFileSync(join(given.root, OUT), "")\n' +
         "}\n"
     )
   ).toEqual([])
