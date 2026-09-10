@@ -1,9 +1,13 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
-import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "akasha/design/primitives/popover/popover.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import type { ReactElement, ReactNode } from "react"
 import React from "react"
 import type { ChipProps } from "../chip/chip.module.code.tsx"

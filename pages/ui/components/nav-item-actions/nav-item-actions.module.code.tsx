@@ -1,14 +1,14 @@
 "use client"
 
+import { deletePage } from "@akasha/pages/access/delete"
+import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
+import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
 import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuTrigger,
-} from "@akasha/design-primitives/dropdown-menu"
-import { deletePage } from "@akasha/pages/access/delete"
-import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
-import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
+} from "akasha/design/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
 import { MoreHorizontal, Trash2 } from "lucide-react"
 
 const NAV_SLUG = "nav"

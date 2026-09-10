@@ -1,14 +1,14 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { cn } from "@akasha/design-primitives/cn"
-import { Heading } from "@akasha/design-primitives/heading"
-import { Skeleton } from "@akasha/design-primitives/skeleton"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { ListContentSkeleton } from "akasha/design/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"
 import { LoadingContainer } from "akasha/design/layout/loading-container/loading-container.module.code.tsx"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { SkeletonText } from "akasha/design/layout/skeleton-text/skeleton-text.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
+import { Skeleton } from "akasha/design/primitives/skeleton/skeleton.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useState } from "react"
 
 const RADIUS_VARIANTS = ["sm", "md", "lg", "full"] as const

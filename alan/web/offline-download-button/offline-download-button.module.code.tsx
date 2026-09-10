@@ -1,6 +1,6 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { useState } from "react"
 import { useSearchParams } from "react-router"
 import { isNativeShell } from "../capacitor-bridge/capacitor-bridge.module.code.ts"

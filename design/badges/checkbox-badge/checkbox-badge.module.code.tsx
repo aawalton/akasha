@@ -1,6 +1,6 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { CheckIcon } from "lucide-react"
 import type { KeyboardEvent } from "react"
 

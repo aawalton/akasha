@@ -1,6 +1,6 @@
 "use client"
 
-import { Heading } from "@akasha/design-primitives/heading"
+import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
 import { Lock, X } from "lucide-react"
 import type * as React from "react"
 

@@ -1,11 +1,15 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { Input } from "@akasha/design-primitives/input"
-import { Label } from "@akasha/design-primitives/label"
-import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import type { ViewDataJSON } from "@akasha/pages/core/schema/view-data"
 import { defaultViewData, stripLockedFacet } from "@akasha/pages/core/schema/view-data"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
+import { Label } from "akasha/design/primitives/label/label.module.code.tsx"
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "akasha/design/primitives/popover/popover.module.code.tsx"
 import { Plus } from "lucide-react"
 import { useEffect, useRef, useState } from "react"
 

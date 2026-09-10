@@ -1,4 +1,4 @@
-import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
+import { SurfaceProvider } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 
 export function SystemCard({
   title,

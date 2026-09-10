@@ -1,13 +1,13 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
 import type { PropertyDefinition } from "@akasha/pages/core/types"
 import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { BlockEditor } from "@akasha/pages-ui/block-editor/block-editor"
 import { MarkdownPropertyBadge } from "@akasha/pages-ui/components/markdown-property-badge"
 import { usePage } from "@akasha/pages-ui/supabase/use-page"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 
 interface PageCardNotesProps {
   pageId: string

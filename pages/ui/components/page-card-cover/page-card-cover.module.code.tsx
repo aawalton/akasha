@@ -1,7 +1,7 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
 import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 
 interface PageCardCoverProps {
   coverUrl?: string | null

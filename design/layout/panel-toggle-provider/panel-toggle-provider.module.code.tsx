@@ -1,6 +1,6 @@
 "use client"
 
-import { useKeyboardBinding } from "@akasha/design-primitives/use-keyboard-registry"
+import { useKeyboardBinding } from "akasha/design/primitives/use-keyboard-registry/use-keyboard-registry.module.code.ts"
 import { useCallback, useState } from "react"
 import {
   PanelToggleContext,

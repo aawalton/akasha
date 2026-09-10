@@ -1,7 +1,5 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { Card, CardContent } from "@akasha/design-primitives/card"
 import { PaginatedCardGrid } from "akasha/design/layout/paginated-card-grid/paginated-card-grid.module.code.tsx"
 import {
   Empty,
@@ -11,6 +9,8 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "akasha/design/patterns/empty/empty.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { Card, CardContent } from "akasha/design/primitives/card/card.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import { FolderOpen, Search } from "lucide-react"
 import { useCallback, useMemo } from "react"

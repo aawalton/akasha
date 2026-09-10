@@ -1,6 +1,5 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { ListContentSkeleton } from "akasha/design/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"
 import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
@@ -16,6 +15,7 @@ import {
   EmptyTitle,
 } from "akasha/design/patterns/empty/empty.module.code.tsx"
 import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { computeCurrencyGoldTotal } from "akasha/temper/items-core/inventory-currencies/inventory-currencies.module.code.ts"
 import {
   filterInventoryTypeGroups,

@@ -1,7 +1,7 @@
 "use client"
 
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { parseBuildSha } from "akasha/alan/harness/web-build-version/build-sha/build-sha.module.code.ts"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useEffect, useRef } from "react"
 import { toast } from "sonner"
 import {

@@ -6,10 +6,10 @@ import {
   DialogContent,
   DialogHeader,
   DialogTitle,
-} from "@akasha/design-primitives/dialog"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { Textarea } from "@akasha/design-primitives/textarea"
+} from "akasha/design/primitives/dialog/dialog.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { Textarea } from "akasha/design/primitives/textarea/textarea.module.code.tsx"
 import { type ChangeEvent, useEffect, useState } from "react"
 
 interface RuleNotesDialogProps {

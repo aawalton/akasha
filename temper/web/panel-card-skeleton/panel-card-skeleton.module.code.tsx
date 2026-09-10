@@ -1,15 +1,15 @@
 "use client"
 
+import { PANEL_CARD_WIDTH_CLASSES } from "akasha/design/layout/panel-card-data/panel-card-data.module.code.ts"
 import {
   Card,
   CardAction,
   CardContent,
   CardHeader,
   CardTitle,
-} from "@akasha/design-primitives/card"
-import { cn } from "@akasha/design-primitives/cn"
-import { Skeleton } from "@akasha/design-primitives/skeleton"
-import { PANEL_CARD_WIDTH_CLASSES } from "akasha/design/layout/panel-card-data/panel-card-data.module.code.ts"
+} from "akasha/design/primitives/card/card.module.code.tsx"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { Skeleton } from "akasha/design/primitives/skeleton/skeleton.module.code.tsx"
 import { ChevronDown } from "lucide-react"
 
 interface PanelCardSkeletonProps {

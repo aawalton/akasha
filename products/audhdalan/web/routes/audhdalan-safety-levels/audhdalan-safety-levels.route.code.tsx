@@ -1,7 +1,7 @@
-import { Heading } from "@akasha/design-primitives/heading"
-import { Separator } from "@akasha/design-primitives/separator"
-import { Text } from "@akasha/design-primitives/text-body"
 import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
+import { Separator } from "akasha/design/primitives/separator/separator.module.code.tsx"
+import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
 
 type LevelRow = {
   level: string

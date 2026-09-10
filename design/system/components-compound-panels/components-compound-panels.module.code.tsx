@@ -1,31 +1,5 @@
 "use client"
 
-import {
-  Carousel,
-  CarouselContent,
-  CarouselItem,
-  CarouselNext,
-  CarouselPrevious,
-} from "@akasha/design-primitives/carousel"
-import { cn } from "@akasha/design-primitives/cn"
-import {
-  Command,
-  CommandEmpty,
-  CommandGroup,
-  CommandInput,
-  CommandItem,
-  CommandList,
-  CommandSeparator,
-  CommandShortcut,
-} from "@akasha/design-primitives/command"
-import { Heading } from "@akasha/design-primitives/heading"
-import { Input } from "@akasha/design-primitives/input"
-import {
-  ResizableHandle,
-  ResizablePanel,
-  ResizablePanelGroup,
-} from "@akasha/design-primitives/resizable"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { Calendar } from "akasha/design/forms/calendar/calendar.module.code.tsx"
 import {
   Field,
@@ -36,6 +10,32 @@ import {
   FieldSet,
 } from "akasha/design/forms/field/field.module.code.tsx"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import {
+  Carousel,
+  CarouselContent,
+  CarouselItem,
+  CarouselNext,
+  CarouselPrevious,
+} from "akasha/design/primitives/carousel/carousel.module.code.tsx"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import {
+  Command,
+  CommandEmpty,
+  CommandGroup,
+  CommandInput,
+  CommandItem,
+  CommandList,
+  CommandSeparator,
+  CommandShortcut,
+} from "akasha/design/primitives/command/command.module.code.tsx"
+import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
+import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
+import {
+  ResizableHandle,
+  ResizablePanel,
+  ResizablePanelGroup,
+} from "akasha/design/primitives/resizable/resizable.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import {
   Calculator,
   Calendar as CalendarIcon,

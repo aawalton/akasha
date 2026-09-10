@@ -1,8 +1,5 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
-import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { type DropZoneInfo, findDropZone } from "@akasha/pages-ui/components/drop-zones"
 import { PagesUILink, usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import type { DragEndEvent, DragStartEvent } from "@dnd-kit/core"
@@ -19,6 +16,13 @@ import { SortableContext, useSortable } from "@dnd-kit/sortable"
 import type { AppNavItem } from "akasha/design/layout/nav-types/nav-types.module.code.ts"
 import { SidebarNavGroup } from "akasha/design/layout/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
 import { useSidebarState } from "akasha/design/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "akasha/design/primitives/popover/popover.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 
 function SortableNavItem({

@@ -1,25 +1,25 @@
 "use client"
 
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
+import { InlineEditableText } from "akasha/design/forms/inline-editable-text/inline-editable-text.module.code.tsx"
+import { ItemCard } from "akasha/design/patterns/item-card/item-card.module.code.tsx"
 import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
-} from "@akasha/design-primitives/dropdown-menu"
+} from "akasha/design/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@akasha/design-primitives/select-control"
-import { Text } from "@akasha/design-primitives/text-body"
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
-import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
-import { InlineEditableText } from "akasha/design/forms/inline-editable-text/inline-editable-text.module.code.tsx"
-import { ItemCard } from "akasha/design/patterns/item-card/item-card.module.code.tsx"
+} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
+import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
 import {
   goalIdToValue,
   goalValueToId,

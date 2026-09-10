@@ -1,6 +1,9 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
+import type { ViewCallbacks } from "@akasha/pages-ui/mutators/view-callbacks"
+import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
+import { MenuTabsTrigger } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import {
   Dialog,
   DialogBody,
@@ -8,17 +11,14 @@ import {
   DialogFooter,
   DialogHeader,
   DialogTitle,
-} from "@akasha/design-primitives/dialog"
+} from "akasha/design/primitives/dialog/dialog.module.code.tsx"
 import {
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuSeparator,
-} from "@akasha/design-primitives/dropdown-menu"
-import { Input } from "@akasha/design-primitives/input"
-import { Label } from "@akasha/design-primitives/label"
-import type { ViewCallbacks } from "@akasha/pages-ui/mutators/view-callbacks"
-import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
-import { MenuTabsTrigger } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+} from "akasha/design/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
+import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
+import { Label } from "akasha/design/primitives/label/label.module.code.tsx"
 import { useEffect, useRef, useState } from "react"
 
 export const VIEW_FALLBACK_ICON_NAME = "layout-list"

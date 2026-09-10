@@ -1,7 +1,17 @@
 "use client"
 
-import { Alert, AlertDescription, AlertTitle } from "@akasha/design-primitives/alert"
-import { Avatar, AvatarFallback, AvatarImage } from "@akasha/design-primitives/avatar"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { Kbd, KbdGroup } from "akasha/design/patterns/kbd/kbd.module.code.tsx"
+import {
+  Alert,
+  AlertDescription,
+  AlertTitle,
+} from "akasha/design/primitives/alert/alert.module.code.tsx"
+import {
+  Avatar,
+  AvatarFallback,
+  AvatarImage,
+} from "akasha/design/primitives/avatar/avatar.module.code.tsx"
 import {
   Breadcrumb,
   BreadcrumbItem,
@@ -9,12 +19,10 @@ import {
   BreadcrumbList,
   BreadcrumbPage,
   BreadcrumbSeparator,
-} from "@akasha/design-primitives/breadcrumb"
-import { Heading } from "@akasha/design-primitives/heading"
-import { Separator } from "@akasha/design-primitives/separator"
-import { Text } from "@akasha/design-primitives/text-body"
-import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
-import { Kbd, KbdGroup } from "akasha/design/patterns/kbd/kbd.module.code.tsx"
+} from "akasha/design/primitives/breadcrumb/breadcrumb.module.code.tsx"
+import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
+import { Separator } from "akasha/design/primitives/separator/separator.module.code.tsx"
+import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
 
 const TEXT_VARIANTS = ["description", "hint", "caption", "prose"] as const
 

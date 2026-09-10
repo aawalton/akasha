@@ -1,7 +1,7 @@
 "use client"
 
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { usePlayingSession } from "@akasha/pages-ui/media/playing-session-context"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { Pause, Play, RotateCcw, RotateCw } from "lucide-react"
 import { useNavigate } from "react-router"
 

@@ -1,6 +1,6 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import * as React from "react"
 
 import { Badge, type BadgeVariant } from "../badge/badge.module.code.tsx"

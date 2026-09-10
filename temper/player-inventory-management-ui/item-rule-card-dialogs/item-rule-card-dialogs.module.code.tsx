@@ -9,9 +9,9 @@ import {
   AlertDialogFooter,
   AlertDialogHeader,
   AlertDialogTitle,
-} from "@akasha/design-primitives/alert-dialog"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
+} from "akasha/design/primitives/alert-dialog/alert-dialog.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { getActionLabel } from "../action-options/action-options.module.code.ts"
 import { RuleNotesDialog } from "../rule-notes-dialog/rule-notes-dialog.module.code.tsx"

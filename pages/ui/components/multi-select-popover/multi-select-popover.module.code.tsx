@@ -1,10 +1,14 @@
 "use client"
 
-import { Input } from "@akasha/design-primitives/input"
-import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import type { BadgeVariant } from "@akasha/pages/core/schema/color-rule-variant"
 import type { SelectOption } from "@akasha/pages/core/schema/select-option-create"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "akasha/design/primitives/popover/popover.module.code.tsx"
 import { Plus, X } from "lucide-react"
 import { useState } from "react"
 

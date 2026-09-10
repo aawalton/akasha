@@ -11,7 +11,7 @@ export const design = {
     "domain/design-forms",
     "domain/design-layout",
     "domain/design-patterns",
-    "workspace-package/design-primitives",
+    "domain/design-primitives",
     "workspace-package/design-system",
     "domain/design-tokens",
     "page-type/color",

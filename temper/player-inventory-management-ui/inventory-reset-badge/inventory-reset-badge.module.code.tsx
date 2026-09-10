@@ -1,5 +1,6 @@
 "use client"
 
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import {
   AlertDialog,
   AlertDialogAction,
@@ -9,8 +10,7 @@ import {
   AlertDialogFooter,
   AlertDialogHeader,
   AlertDialogTitle,
-} from "@akasha/design-primitives/alert-dialog"
-import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+} from "akasha/design/primitives/alert-dialog/alert-dialog.module.code.tsx"
 import { useState } from "react"
 
 export function ResetBadge({

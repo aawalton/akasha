@@ -1,7 +1,5 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { Card, CardContent } from "@akasha/design-primitives/card"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   PageTabHeader,
@@ -19,6 +17,8 @@ import {
 } from "akasha/design/patterns/empty/empty.module.code.tsx"
 import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import { TabsContent } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { Card, CardContent } from "akasha/design/primitives/card/card.module.code.tsx"
 import { getCompanionName } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { FolderOpen, Search } from "lucide-react"
 import { type ReactNode, useCallback, useMemo } from "react"

@@ -7,15 +7,15 @@ import {
   CommandInput,
   CommandItem,
   CommandList,
-} from "@akasha/design-primitives/command"
+} from "akasha/design/primitives/command/command.module.code.tsx"
 import {
   Dialog,
   DialogBody,
   DialogContent,
   DialogHeader,
   DialogTitle,
-} from "@akasha/design-primitives/dialog"
-import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value"
+} from "akasha/design/primitives/dialog/dialog.module.code.tsx"
+import { useDebouncedValue } from "akasha/design/primitives/use-debounced-value/use-debounced-value.module.code.ts"
 import type { MinedItemSearchResult } from "akasha/temper/items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
 import { useEffect, useState } from "react"
 

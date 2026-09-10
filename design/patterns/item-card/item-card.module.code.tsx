@@ -1,9 +1,9 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { cn } from "@akasha/design-primitives/cn"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import { Info, Plus, X } from "lucide-react"
 import type { ReactNode } from "react"
 

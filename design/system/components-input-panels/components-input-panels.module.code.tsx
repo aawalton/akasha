@@ -1,19 +1,19 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
-import { Input } from "@akasha/design-primitives/input"
-import { Label } from "@akasha/design-primitives/label"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { InputPanelCard } from "akasha/design/patterns/input-panel-card/input-panel-card.module.code.tsx"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
+import { Label } from "akasha/design/primitives/label/label.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@akasha/design-primitives/select-control"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { Textarea } from "@akasha/design-primitives/textarea"
-import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
-import { InputPanelCard } from "akasha/design/patterns/input-panel-card/input-panel-card.module.code.tsx"
+} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { Textarea } from "akasha/design/primitives/textarea/textarea.module.code.tsx"
 import { useState } from "react"
 
 export function ComponentsInputPanels() {

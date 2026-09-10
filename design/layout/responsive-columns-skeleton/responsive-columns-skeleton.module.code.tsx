@@ -1,8 +1,8 @@
 "use client"
 
-import { Skeleton } from "@akasha/design-primitives/skeleton"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { Skeleton } from "akasha/design/primitives/skeleton/skeleton.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import type { ColumnLayout } from "../column-layout/column-layout.module.code.ts"
 
 export function ResponsiveColumnsSkeleton({ layout }: { layout: ColumnLayout }) {

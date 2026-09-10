@@ -1,7 +1,7 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 
 export function FrameSafeAreaMasks({ chromeHidden }: { chromeHidden: boolean }) {
   return (

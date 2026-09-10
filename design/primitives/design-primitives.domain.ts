@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const designPrimitives = {
   id: "01a05bde-9a73-7b0d-9c03-ebd55459b775",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "design-primitives",
   definition: "the plain controls and surfaces every other design package is built from",
-  manifest: "json",
+
   parts: [
     "module/accordion",
     "module/alert",
@@ -78,4 +78,4 @@ export const designPrimitives = {
       statement: "The manifest names every package this package reaches.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

@@ -1,8 +1,19 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { cn } from "@akasha/design-primitives/cn"
-import { Input } from "@akasha/design-primitives/input"
+import {
+  Form,
+  FormControl,
+  FormDescription,
+  FormField,
+  FormItem,
+  FormLabel,
+  FormMessage,
+} from "akasha/design/forms/form/form.module.code.tsx"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { SidebarNavGroup } from "akasha/design/layout/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
 import {
   Menubar,
   MenubarCheckboxItem,
@@ -17,20 +28,9 @@ import {
   MenubarSubContent,
   MenubarSubTrigger,
   MenubarTrigger,
-} from "@akasha/design-primitives/menubar"
-import { Toaster } from "@akasha/design-primitives/sonner"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import {
-  Form,
-  FormControl,
-  FormDescription,
-  FormField,
-  FormItem,
-  FormLabel,
-  FormMessage,
-} from "akasha/design/forms/form/form.module.code.tsx"
-import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
-import { SidebarNavGroup } from "akasha/design/layout/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
+} from "akasha/design/primitives/menubar/menubar.module.code.tsx"
+import { Toaster } from "akasha/design/primitives/sonner/sonner.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useState } from "react"
 import { useForm } from "react-hook-form"
 import { toast } from "sonner"

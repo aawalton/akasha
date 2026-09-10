@@ -1,14 +1,14 @@
 "use client"
 
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { ItemCard } from "akasha/design/patterns/item-card/item-card.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@akasha/design-primitives/select-control"
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { ItemCard } from "akasha/design/patterns/item-card/item-card.module.code.tsx"
+} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
 import {
   type ArmorEnchantId,
   armorEnchants,

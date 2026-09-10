@@ -1,9 +1,5 @@
 "use client"
 
-import { Card, CardContent, CardHeader, CardTitle } from "@akasha/design-primitives/card"
-import { cn } from "@akasha/design-primitives/cn"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
 import type { IconName } from "@akasha/pages/core/generated/icon-search-index"
 import type { CompletionShape } from "@akasha/pages/core/task-lifecycle"
 import { readsAsDone } from "@akasha/pages/core/task-lifecycle"
@@ -15,6 +11,15 @@ import { PagesUILink } from "@akasha/pages-ui/navigation-context"
 import { PANEL_CARD_WIDTH_CLASSES } from "akasha/design/layout/panel-card-data/panel-card-data.module.code.ts"
 import { IconPicker } from "akasha/design/patterns/icon-picker/icon-picker.module.code.tsx"
 import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
+import {
+  Card,
+  CardContent,
+  CardHeader,
+  CardTitle,
+} from "akasha/design/primitives/card/card.module.code.tsx"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import { CheckCircle2, Circle } from "lucide-react"
 import type * as React from "react"
 import { type ReactNode, useMemo } from "react"

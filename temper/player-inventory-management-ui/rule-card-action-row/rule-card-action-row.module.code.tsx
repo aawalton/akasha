@@ -1,12 +1,5 @@
 "use client"
 
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@akasha/design-primitives/select-control"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { EditableNumber } from "akasha/design/forms/editable-number/editable-number.module.code.tsx"
@@ -15,6 +8,13 @@ import {
   InputGroupAddon,
   InputGroupInput,
 } from "akasha/design/forms/input-group/input-group.module.code.tsx"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
 import type {
   CategoryRule,
   DestinationChain,

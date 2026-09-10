@@ -1,4 +1,4 @@
-import { Button } from "@akasha/design-primitives/button"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import {
   Dialog,
   DialogBody,
@@ -6,17 +6,17 @@ import {
   DialogFooter,
   DialogHeader,
   DialogTitle,
-} from "@akasha/design-primitives/dialog"
+} from "akasha/design/primitives/dialog/dialog.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@akasha/design-primitives/select-control"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { Text } from "@akasha/design-primitives/text-body"
+} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
 import type { ScribedSkill } from "akasha/temper/character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
 import {
   getGrimoireCompatibleScripts,

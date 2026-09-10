@@ -1,14 +1,5 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
-import {
-  Table,
-  TableBody,
-  TableCell,
-  TableHead,
-  TableHeader,
-  TableRow,
-} from "@akasha/design-primitives/table"
 import { type CompletionShape, readsAsDone } from "@akasha/pages/core/task-lifecycle"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages/core/types"
 import { expandDateMentions } from "@akasha/pages/core/view/expand-date-mentions"
@@ -25,6 +16,15 @@ import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { LoadMoreButton } from "akasha/design/layout/load-more-button/load-more-button.module.code.tsx"
 import { useLoadMore } from "akasha/design/layout/use-load-more/use-load-more.module.code.ts"
 import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import {
+  Table,
+  TableBody,
+  TableCell,
+  TableHead,
+  TableHeader,
+  TableRow,
+} from "akasha/design/primitives/table/table.module.code.tsx"
 import { CheckCircle2, Circle } from "lucide-react"
 import type { ReactNode } from "react"
 import { ReorderableColumnTable } from "../page-table-header/page-table-header.module.code.tsx"

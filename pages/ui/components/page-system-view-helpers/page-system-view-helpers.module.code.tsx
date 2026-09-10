@@ -1,8 +1,5 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
 import type { ViewSort } from "@akasha/pages/core/schema/view-data"
 import type { PropertyDefinition } from "@akasha/pages/core/types"
 import type { PageResolver } from "@akasha/pages/core/view/apply-grouping-shared"
@@ -19,6 +16,9 @@ import {
   EmptyHeader,
   EmptyTitle,
 } from "akasha/design/patterns/empty/empty.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import { Plus } from "lucide-react"
 import type { ReactNode } from "react"
 

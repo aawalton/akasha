@@ -1,7 +1,7 @@
 "use client"
 
-import { Text } from "@akasha/design-primitives/text-body"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
 import type { ReactNode } from "react"
 import type { PricingSourceNoteKind } from "../pricing-source/pricing-source.module.code.ts"
 

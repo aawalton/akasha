@@ -1,16 +1,16 @@
 "use client"
 
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
+import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@akasha/design-primitives/select-control"
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
-import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
-import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
+} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
 import type { ControlledRule } from "akasha/temper/items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import {
   goalIdToValue,

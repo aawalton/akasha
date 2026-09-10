@@ -1,7 +1,7 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { Card, CardContent } from "@akasha/design-primitives/card"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { Card, CardContent } from "akasha/design/primitives/card/card.module.code.tsx"
 import { FolderOpen } from "lucide-react"
 import { Component, type ReactNode } from "react"
 import {

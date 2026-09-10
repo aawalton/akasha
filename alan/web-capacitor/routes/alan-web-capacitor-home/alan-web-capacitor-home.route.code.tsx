@@ -2,7 +2,6 @@
 
 import { ALANWALTON_APP_SLUG } from "@akasha/alanwalton-web/alan-app-id"
 import { HOME_NAV_SLUG } from "@akasha/alanwalton-web/home-dni"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { buildPageHrefParam } from "@akasha/pages/url/page-href"
 import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { ViewPageContent } from "@akasha/pages-ui/components/view-page-content"
@@ -14,6 +13,7 @@ import {
   PageTitle,
 } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useEffect, useMemo } from "react"
 
 const NAV_SLUG = toPageTypeSlug("nav")

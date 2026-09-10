@@ -1,8 +1,8 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
-import { Label } from "@akasha/design-primitives/label"
 import { Slot } from "@radix-ui/react-slot"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { Label } from "akasha/design/primitives/label/label.module.code.tsx"
 import * as React from "react"
 import {
   Controller,

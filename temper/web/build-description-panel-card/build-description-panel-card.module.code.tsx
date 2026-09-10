@@ -1,7 +1,7 @@
 "use client"
 
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import { TextAreaPanelCard } from "../text-area-panel-card/text-area-panel-card.module.code.tsx"
 
 interface BuildDescriptionPanelCardProps {

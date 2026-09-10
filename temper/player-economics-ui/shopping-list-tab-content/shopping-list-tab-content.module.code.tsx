@@ -1,18 +1,5 @@
 "use client"
 
-import {
-  AlertDialog,
-  AlertDialogAction,
-  AlertDialogCancel,
-  AlertDialogContent,
-  AlertDialogDescription,
-  AlertDialogFooter,
-  AlertDialogHeader,
-  AlertDialogTitle,
-} from "@akasha/design-primitives/alert-dialog"
-import { Card, CardContent, CardTitleBadges } from "@akasha/design-primitives/card"
-import { Progress } from "@akasha/design-primitives/progress-bar"
-import { Text } from "@akasha/design-primitives/text-body"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
@@ -26,6 +13,23 @@ import {
   EmptyTitle,
 } from "akasha/design/patterns/empty/empty.module.code.tsx"
 import { ItemRow } from "akasha/design/patterns/item-row/item-row.module.code.tsx"
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+} from "akasha/design/primitives/alert-dialog/alert-dialog.module.code.tsx"
+import {
+  Card,
+  CardContent,
+  CardTitleBadges,
+} from "akasha/design/primitives/card/card.module.code.tsx"
+import { Progress } from "akasha/design/primitives/progress-bar/progress-bar.module.code.tsx"
+import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
 import { PricingRegionNote } from "akasha/temper/player-inventory-management-ui/pricing-region-note/pricing-region-note.module.code.tsx"
 import {
   needToShoppingItem,

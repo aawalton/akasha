@@ -1,10 +1,10 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
-import { Separator } from "@akasha/design-primitives/separator"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { Slot } from "@radix-ui/react-slot"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { Separator } from "akasha/design/primitives/separator/separator.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import { cva, type VariantProps } from "class-variance-authority"
 
 const buttonGroupVariants = cva(

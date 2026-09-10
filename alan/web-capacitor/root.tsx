@@ -4,8 +4,6 @@ import { createNativeFsContentPersistence } from "@akasha/alanwalton-web/content
 import { readLocalPosition } from "@akasha/alanwalton-web/offline-text"
 import { createNativeFsPagesPersistence } from "@akasha/alanwalton-web/pages-persistence-fs"
 import { StatusBarSync } from "@akasha/alanwalton-web/status-bar-sync"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 import { setStoreDiagnosticsSink } from "@akasha/pages/ui-store/diagnostics"
 import {
   configureContentPersistence,
@@ -25,6 +23,8 @@ import { useReportRenderError } from "akasha/alan/harness/errors-client/use-repo
 import { parseBuildSha } from "akasha/alan/harness/web-build-version/build-sha/build-sha.module.code.ts"
 import { PageLayoutSkeleton } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { SurfaceProvider } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import { type ReactNode, useEffect } from "react"
 import {
   isRouteErrorResponse,

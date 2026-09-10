@@ -1,13 +1,13 @@
 "use client"
 
+import { Badge, type badgeVariants } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@akasha/design-primitives/select-control"
-import { Badge, type badgeVariants } from "akasha/design/badges/badge/badge.module.code.tsx"
+} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
 import type { VariantProps } from "class-variance-authority"
 
 type BadgeVariant = VariantProps<typeof badgeVariants>["variant"]

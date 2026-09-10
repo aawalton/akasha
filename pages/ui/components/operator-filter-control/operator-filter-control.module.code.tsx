@@ -1,8 +1,5 @@
 "use client"
 
-import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useDebouncedCallback } from "@akasha/design-primitives/use-debounced-callback"
 import type { FilterOperator } from "@akasha/pages/core/property-types/types"
 import type { ReadonlyJSONValue } from "@akasha/pages/core/schema/pages"
 import type { ViewFilter } from "@akasha/pages/core/schema/view-data"
@@ -33,6 +30,13 @@ import {
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "akasha/design/primitives/popover/popover.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useDebouncedCallback } from "akasha/design/primitives/use-debounced-callback/use-debounced-callback.module.code.ts"
 import { Check, ChevronDown } from "lucide-react"
 import { useState } from "react"
 

@@ -1,13 +1,17 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { CardContent, CardHeader, CardTitle } from "@akasha/design-primitives/card"
-import { cn } from "@akasha/design-primitives/cn"
-import { Input } from "@akasha/design-primitives/input"
-import { Label } from "@akasha/design-primitives/label"
-import { Spinner } from "@akasha/design-primitives/spinner"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import {
+  CardContent,
+  CardHeader,
+  CardTitle,
+} from "akasha/design/primitives/card/card.module.code.tsx"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
+import { Label } from "akasha/design/primitives/label/label.module.code.tsx"
+import { Spinner } from "akasha/design/primitives/spinner/spinner.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import type { ReactNode } from "react"
 import { useState } from "react"
 

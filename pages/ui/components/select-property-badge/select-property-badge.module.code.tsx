@@ -1,12 +1,5 @@
 "use client"
 
-import {
-  DropdownMenu,
-  DropdownMenuContent,
-  DropdownMenuItem,
-  DropdownMenuTrigger,
-} from "@akasha/design-primitives/dropdown-menu"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import type { PropertyValue } from "@akasha/pages/core/property-types/types"
 import { resolveBadgeVariant } from "@akasha/pages/core/resolve-badge-variant"
 import type { BadgeVariant } from "@akasha/pages/core/schema/color-rule-variant"
@@ -17,6 +10,13 @@ import type { PropertyDefinition } from "@akasha/pages/core/types"
 import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useBadgeLayoutContext } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuTrigger,
+} from "akasha/design/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 
 function getOptions(definition: PropertyDefinition): readonly SelectOption[] {
   return parseConfig(selectConfigSchema, definition.config, { options: [] }).options

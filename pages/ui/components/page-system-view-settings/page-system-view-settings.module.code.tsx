@@ -1,11 +1,5 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { FilterableList, FilterableListItem } from "@akasha/design-primitives/filterable-list"
-import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
-import { SubView } from "@akasha/design-primitives/sub-view"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { GalleryOptionsPicker } from "@akasha/pages-ui/components/gallery-options-picker"
 import { GroupByPicker } from "@akasha/pages-ui/components/group-by-picker"
 import { NotesOptionsPicker } from "@akasha/pages-ui/components/notes-options-picker"
@@ -18,6 +12,19 @@ import {
   type ViewSettingsButtonProps,
   type ViewSettingsView,
 } from "@akasha/pages-ui/components/view-settings-options"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import {
+  FilterableList,
+  FilterableListItem,
+} from "akasha/design/primitives/filterable-list/filterable-list.module.code.tsx"
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "akasha/design/primitives/popover/popover.module.code.tsx"
+import { SubView } from "akasha/design/primitives/sub-view/sub-view.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import {
   ChevronRight,
   Eye,

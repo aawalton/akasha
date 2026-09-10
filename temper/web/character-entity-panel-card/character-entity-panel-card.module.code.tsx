@@ -1,6 +1,3 @@
-import { CardContent, CardTitle } from "@akasha/design-primitives/card"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
@@ -9,6 +6,9 @@ import {
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { CardContent, CardTitle } from "akasha/design/primitives/card/card.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import {

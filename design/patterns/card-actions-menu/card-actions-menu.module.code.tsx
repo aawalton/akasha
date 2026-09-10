@@ -9,13 +9,13 @@ import {
   AlertDialogFooter,
   AlertDialogHeader,
   AlertDialogTitle,
-} from "@akasha/design-primitives/alert-dialog"
+} from "akasha/design/primitives/alert-dialog/alert-dialog.module.code.tsx"
 import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuTrigger,
-} from "@akasha/design-primitives/dropdown-menu"
+} from "akasha/design/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
 import { Ellipsis } from "lucide-react"
 import { useState } from "react"
 

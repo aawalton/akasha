@@ -1,9 +1,9 @@
 "use client"
 
-import { Card, CardContent } from "@akasha/design-primitives/card"
-import { Heading } from "@akasha/design-primitives/heading"
-import { Text } from "@akasha/design-primitives/text-body"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { Card, CardContent } from "akasha/design/primitives/card/card.module.code.tsx"
+import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
+import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
 import { AlertTriangle, CheckCircle2, CircleDashed, HelpCircle, Wrench } from "lucide-react"
 import { formatTimeAgo } from "../format-time-ago/format-time-ago.module.code.ts"
 import type { WatcherBuildSummary } from "../watcher-build-status/watcher-build-status.module.code.ts"

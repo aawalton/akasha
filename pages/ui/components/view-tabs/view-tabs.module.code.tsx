@@ -1,11 +1,5 @@
 "use client"
 
-import {
-  DropdownMenu,
-  DropdownMenuContent,
-  DropdownMenuItem,
-  DropdownMenuTrigger,
-} from "@akasha/design-primitives/dropdown-menu"
 import type { ViewDataJSON } from "@akasha/pages/core/schema/view-data"
 import { CreateViewPopover } from "@akasha/pages-ui/components/create-view-popover"
 import {
@@ -28,6 +22,12 @@ import { horizontalListSortingStrategy, SortableContext, useSortable } from "@dn
 import { CSS } from "@dnd-kit/utilities"
 import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import { TabsList, TabsTrigger } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuTrigger,
+} from "akasha/design/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
 import { Ellipsis } from "lucide-react"
 import { type CSSProperties, useCallback, useEffect, useRef, useState } from "react"
 

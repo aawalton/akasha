@@ -1,11 +1,11 @@
 "use client"
 
+import { MarkdownRenderer } from "@akasha/pages-ui/markdown/markdown-renderer"
 import {
   Collapsible,
   CollapsibleContent,
   CollapsibleTrigger,
-} from "@akasha/design-primitives/collapsible"
-import { MarkdownRenderer } from "@akasha/pages-ui/markdown/markdown-renderer"
+} from "akasha/design/primitives/collapsible/collapsible.module.code.tsx"
 import type { ReactNode } from "react"
 
 const HEADING_TAGS = ["h2", "h3", "h4", "h5", "h6"] as const

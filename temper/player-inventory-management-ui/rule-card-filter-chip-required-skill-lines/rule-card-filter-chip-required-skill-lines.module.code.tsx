@@ -1,19 +1,23 @@
 "use client"
 
-import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "akasha/design/primitives/popover/popover.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@akasha/design-primitives/select-control"
-import { Text } from "@akasha/design-primitives/text-body"
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import {
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
+import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
 import type { RequiredSkillLinesCondition } from "akasha/temper/items-rules-core/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
 import type { ReactNode } from "react"
 import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"

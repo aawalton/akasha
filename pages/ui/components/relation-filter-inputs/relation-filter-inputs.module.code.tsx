@@ -1,6 +1,5 @@
 "use client"
 
-import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value"
 import type { FilterOperator } from "@akasha/pages/core/property-types/types"
 import type { ReadonlyJSONValue } from "@akasha/pages/core/schema/pages"
 import type { PageFilterDimension } from "@akasha/pages/core/view/generate-filter-dimensions"
@@ -12,6 +11,7 @@ import {
   SearchMultiSelect,
   type SearchMultiSelectItem,
 } from "akasha/design/forms/search-multi-select/search-multi-select.module.code.tsx"
+import { useDebouncedValue } from "akasha/design/primitives/use-debounced-value/use-debounced-value.module.code.ts"
 import { useMemo, useState } from "react"
 
 const RELATION_SEARCH_DEBOUNCE_MS = 200

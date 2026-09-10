@@ -1,16 +1,16 @@
 "use client"
 
-import { Input } from "@akasha/design-primitives/input"
+import { InputPanelCard } from "akasha/design/patterns/input-panel-card/input-panel-card.module.code.tsx"
+import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@akasha/design-primitives/select-control"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { InputPanelCard } from "akasha/design/patterns/input-panel-card/input-panel-card.module.code.tsx"
+} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import { toVisibility } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import { useEffect, useState } from "react"
 import { useCompanionMetadata } from "../use-companion/use-companion.module.code.ts"

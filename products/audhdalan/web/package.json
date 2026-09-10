@@ -16,7 +16,6 @@
   },
   "dependencies": {
     "@fontsource-variable/geist": "^5.2.9",
-    "@akasha/design-primitives": "workspace:*",
     "@akasha/design-system": "workspace:*",
     "@akasha/pages": "workspace:*",
     "isbot": "^5.1.36",

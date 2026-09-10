@@ -1,9 +1,13 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { InputPanelCard } from "akasha/design/patterns/input-panel-card/input-panel-card.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "akasha/design/primitives/popover/popover.module.code.tsx"
 import {
   type PotionId,
   potions,

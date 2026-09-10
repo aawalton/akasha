@@ -1,15 +1,19 @@
 "use client"
 
-import { Alert, AlertDescription, AlertTitle } from "@akasha/design-primitives/alert"
-import { Button } from "@akasha/design-primitives/button"
-import { Card, CardContent } from "@akasha/design-primitives/card"
-import { cn } from "@akasha/design-primitives/cn"
-import { Spinner } from "@akasha/design-primitives/spinner"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
+import {
+  Alert,
+  AlertDescription,
+  AlertTitle,
+} from "akasha/design/primitives/alert/alert.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { Card, CardContent } from "akasha/design/primitives/card/card.module.code.tsx"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { Spinner } from "akasha/design/primitives/spinner/spinner.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import { useInventoryImport } from "akasha/temper/player-inventory-management-ui/use-inventory-import/use-inventory-import.module.code.ts"
 import { AlertCircle, CheckCircle2, FileUp, Upload } from "lucide-react"
 import {

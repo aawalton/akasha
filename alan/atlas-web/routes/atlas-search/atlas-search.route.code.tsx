@@ -1,5 +1,3 @@
-import { Button } from "@akasha/design-primitives/button"
-import { Card } from "@akasha/design-primitives/card"
 import {
   InputGroup,
   InputGroupAddon,
@@ -7,6 +5,8 @@ import {
   InputGroupInput,
 } from "akasha/design/forms/input-group/input-group.module.code.tsx"
 import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { Card } from "akasha/design/primitives/card/card.module.code.tsx"
 import { Search } from "lucide-react"
 import { useState } from "react"
 import { Link } from "react-router"

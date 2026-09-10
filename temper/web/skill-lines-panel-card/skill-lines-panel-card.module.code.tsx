@@ -1,3 +1,4 @@
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import {
   Select,
   SelectContent,
@@ -6,8 +7,7 @@ import {
   SelectLabel,
   SelectTrigger,
   SelectValue,
-} from "@akasha/design-primitives/select-control"
-import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
 import {
   getAvailableSkillLinesGrouped,
   getClassForSkillLine,

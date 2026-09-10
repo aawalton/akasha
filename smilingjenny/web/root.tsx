@@ -1,6 +1,6 @@
-import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
+import { SurfaceProvider } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import type React from "react"
 import {
   isRouteErrorResponse,

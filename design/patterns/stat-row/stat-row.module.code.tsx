@@ -1,4 +1,4 @@
-import { cn } from "@akasha/design-primitives/cn"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import type { ElementType, ReactNode } from "react"
 
 interface StatRowProps {

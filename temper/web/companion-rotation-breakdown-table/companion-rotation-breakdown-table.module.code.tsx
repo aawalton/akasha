@@ -14,7 +14,7 @@ import {
   TableRowLabel,
   TableTotalCell,
   TableValue,
-} from "@akasha/design-primitives/table"
+} from "akasha/design/primitives/table/table.module.code.tsx"
 import {
   buildSlotData,
   computeRotationTotals,

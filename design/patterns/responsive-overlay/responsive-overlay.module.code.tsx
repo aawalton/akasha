@@ -1,8 +1,16 @@
 "use client"
 
-import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
-import { Sheet, SheetContent, SheetTrigger } from "@akasha/design-primitives/sheet"
-import { useIsMobile } from "@akasha/design-primitives/use-mobile"
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "akasha/design/primitives/popover/popover.module.code.tsx"
+import {
+  Sheet,
+  SheetContent,
+  SheetTrigger,
+} from "akasha/design/primitives/sheet/sheet.module.code.tsx"
+import { useIsMobile } from "akasha/design/primitives/use-mobile/use-mobile.module.code.tsx"
 import type * as React from "react"
 
 export interface ResponsiveOverlayProps {

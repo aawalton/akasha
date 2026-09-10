@@ -1,6 +1,6 @@
 "use client"
 
-import { formatRelativeTime } from "@akasha/design-primitives/format-relative-time"
+import { formatRelativeTime } from "akasha/design/primitives/format-relative-time/format-relative-time.module.code.ts"
 
 import { Badge, type BadgeVariant } from "../badge/badge.module.code.tsx"
 

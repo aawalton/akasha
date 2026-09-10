@@ -1,20 +1,20 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
-import {
-  ContextMenu,
-  ContextMenuContent,
-  ContextMenuItem,
-  ContextMenuTrigger,
-} from "@akasha/design-primitives/context-menu"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { type ProseBlock, splitInlineEmphasis } from "@akasha/pages-ui/components/reader-prose"
 import type {
   BlockSentenceLayout,
   SentenceRun,
 } from "@akasha/pages-ui/components/reader-sentence-layout"
 import { useSentenceNarration } from "@akasha/pages-ui/media/sentence-narration-context"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import {
+  ContextMenu,
+  ContextMenuContent,
+  ContextMenuItem,
+  ContextMenuTrigger,
+} from "akasha/design/primitives/context-menu/context-menu.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import { Fragment } from "react"
 
 const SENTENCE_SPAN_CLASS =

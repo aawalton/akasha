@@ -1,9 +1,9 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { SurfaceProvider } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import { formatPlayerChoiceAction } from "akasha/story/engine/core/choice-action/choice-action.module.code.ts"
 import type { SystemChoice } from "akasha/story/engine/core/system-window-schema/system-window-schema.module.code.ts"
 import { type ReactNode, useState } from "react"

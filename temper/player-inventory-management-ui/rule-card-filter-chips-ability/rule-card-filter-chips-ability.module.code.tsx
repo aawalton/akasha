@@ -1,14 +1,14 @@
 "use client"
 
+import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@akasha/design-primitives/select-control"
-import { assertNever } from "@akasha/utils/narrow/assert-never"
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
 import { CAN_COMPANION_EQUIP_OPTIONS } from "akasha/temper/items-rules-core/can-companion-equip-filter/can-companion-equip-filter.module.code.ts"
 import { CAN_GIVE_MAX_REWARDS_OPTIONS } from "akasha/temper/items-rules-core/can-give-max-rewards-filter/can-give-max-rewards-filter.module.code.ts"
 import { CAN_INSPIRE_OPTIONS } from "akasha/temper/items-rules-core/can-inspire-filter/can-inspire-filter.module.code.ts"

@@ -1,7 +1,5 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
-import { Table, TableHead, TableHeader, TableRow } from "@akasha/design-primitives/table"
 import { PageTableColGroup } from "@akasha/pages-ui/components/page-table-colgroup"
 import {
   applyColumnDrop,
@@ -25,6 +23,13 @@ import {
 } from "@dnd-kit/core"
 import { restrictToHorizontalAxis } from "@dnd-kit/modifiers"
 import { horizontalListSortingStrategy, SortableContext, useSortable } from "@dnd-kit/sortable"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import {
+  Table,
+  TableHead,
+  TableHeader,
+  TableRow,
+} from "akasha/design/primitives/table/table.module.code.tsx"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 
 interface SortableColumnHeaderProps {

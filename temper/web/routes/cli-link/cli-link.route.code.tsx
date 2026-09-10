@@ -1,8 +1,8 @@
-import { Button } from "@akasha/design-primitives/button"
-import { cn } from "@akasha/design-primitives/cn"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { data, useSearchParams } from "react-router"
 import { CliLinkContent } from "../../cli-link-content/cli-link-content.module.code.tsx"
 

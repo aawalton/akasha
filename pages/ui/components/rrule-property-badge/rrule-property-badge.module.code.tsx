@@ -1,8 +1,5 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { Input } from "@akasha/design-primitives/input"
-import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import type { PropertyValue } from "@akasha/pages/core/property-types/types"
 import type { PropertyDefinition } from "@akasha/pages/core/types"
 import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
@@ -11,6 +8,13 @@ import { labelRrule } from "akasha/alan/harness/recurrence/labeling/labeling.mod
 import { parseRecurringText } from "akasha/alan/harness/recurrence/parsing/parsing.module.code.ts"
 import { getOccurrenceAtOrAfter } from "akasha/alan/harness/recurrence/scheduling/scheduling.module.code.ts"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "akasha/design/primitives/popover/popover.module.code.tsx"
 import { useId, useState } from "react"
 
 interface RruleValue {

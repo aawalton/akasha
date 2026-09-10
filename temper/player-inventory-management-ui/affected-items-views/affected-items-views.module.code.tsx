@@ -1,11 +1,5 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
-import { formatGold } from "@akasha/design-primitives/format-gold"
-import { ScrollArea } from "@akasha/design-primitives/scroll-area"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { Text } from "@akasha/design-primitives/text-body"
 import { ItemRow } from "akasha/design/patterns/item-row/item-row.module.code.tsx"
 import { buildNodePath } from "akasha/design/patterns/path/path.module.code.ts"
 import {
@@ -15,6 +9,12 @@ import {
   TabsTrigger,
 } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
 import { useSetToggle } from "akasha/design/patterns/use-set-toggle/use-set-toggle.module.code.ts"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { formatGold } from "akasha/design/primitives/format-gold/format-gold.module.code.ts"
+import { ScrollArea } from "akasha/design/primitives/scroll-area/scroll-area.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import type {
   InventoryLeafNode,

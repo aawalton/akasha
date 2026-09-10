@@ -1,6 +1,6 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import type * as React from "react"
 import { isValidElement, useCallback, useLayoutEffect, useRef, useState } from "react"
 import {

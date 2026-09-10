@@ -1,6 +1,6 @@
 "use client"
 
-import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
+import { useSingleFlight } from "akasha/design/primitives/use-single-flight/use-single-flight.module.code.ts"
 import type {
   PurchaseRecommendation,
   ShoppingItem,

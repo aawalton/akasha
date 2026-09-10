@@ -1,6 +1,3 @@
-import { CommandPalette } from "@akasha/design-primitives/command-palette"
-import { ShortcutSheet } from "@akasha/design-primitives/shortcut-sheet"
-import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 import { setStoreDiagnosticsSink } from "@akasha/pages/ui-store/diagnostics"
 import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-normal.woff2?url"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
@@ -10,6 +7,9 @@ import {
   type AuthRouteConfig,
   authGuard,
 } from "akasha/alan/harness/supabase-rr/auth-guard/auth-guard.module.code.ts"
+import { CommandPalette } from "akasha/design/primitives/command-palette/command-palette.module.code.tsx"
+import { ShortcutSheet } from "akasha/design/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"
+import { SurfaceProvider } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import type React from "react"
 import { useEffect } from "react"
 import {

@@ -1,12 +1,5 @@
 "use client"
 
-import {
-  Dialog,
-  DialogBody,
-  DialogContent,
-  DialogHeader,
-  DialogTitle,
-} from "@akasha/design-primitives/dialog"
 import type { PropertyValue } from "@akasha/pages/core/property-types/types"
 import { resolveBadgeVariant } from "@akasha/pages/core/resolve-badge-variant"
 import type { BadgeVariant } from "@akasha/pages/core/schema/color-rule-variant"
@@ -17,6 +10,13 @@ import { isRecord } from "@akasha/utils/narrow/is-record"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { StatRow } from "akasha/design/patterns/stat-row/stat-row.module.code.tsx"
+import {
+  Dialog,
+  DialogBody,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+} from "akasha/design/primitives/dialog/dialog.module.code.tsx"
 import { useState } from "react"
 
 interface NarrowedEntry {

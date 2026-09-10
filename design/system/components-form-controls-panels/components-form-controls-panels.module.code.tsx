@@ -1,14 +1,20 @@
 "use client"
 
-import { Checkbox } from "@akasha/design-primitives/checkbox"
-import { Label } from "@akasha/design-primitives/label"
-import { Progress } from "@akasha/design-primitives/progress-bar"
-import { RadioGroup, RadioGroupItem } from "@akasha/design-primitives/radio-group"
-import { Slider } from "@akasha/design-primitives/slider"
-import { Switch } from "@akasha/design-primitives/switch-control"
-import { Toggle } from "@akasha/design-primitives/toggle"
-import { ToggleGroup, ToggleGroupItem } from "@akasha/design-primitives/toggle-group"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { Checkbox } from "akasha/design/primitives/checkbox/checkbox.module.code.tsx"
+import { Label } from "akasha/design/primitives/label/label.module.code.tsx"
+import { Progress } from "akasha/design/primitives/progress-bar/progress-bar.module.code.tsx"
+import {
+  RadioGroup,
+  RadioGroupItem,
+} from "akasha/design/primitives/radio-group/radio-group.module.code.tsx"
+import { Slider } from "akasha/design/primitives/slider/slider.module.code.tsx"
+import { Switch } from "akasha/design/primitives/switch-control/switch-control.module.code.tsx"
+import { Toggle } from "akasha/design/primitives/toggle/toggle.module.code.tsx"
+import {
+  ToggleGroup,
+  ToggleGroupItem,
+} from "akasha/design/primitives/toggle-group/toggle-group.module.code.tsx"
 import { useState } from "react"
 
 export function ComponentsFormControlsPanels() {

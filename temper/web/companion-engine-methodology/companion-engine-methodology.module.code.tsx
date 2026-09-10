@@ -1,9 +1,13 @@
-import { CardContent, CardHeader, CardTitle } from "@akasha/design-primitives/card"
-import { Heading } from "@akasha/design-primitives/heading"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { Text } from "@akasha/design-primitives/text-body"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import {
+  CardContent,
+  CardHeader,
+  CardTitle,
+} from "akasha/design/primitives/card/card.module.code.tsx"
+import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
 
 function InlineCode({ children }: { children: React.ReactNode }) {
   const surface = useSurface()

@@ -1,5 +1,7 @@
 "use client"
 
+import type { badgeVariants } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import {
   AlertDialog,
   AlertDialogAction,
@@ -9,19 +11,17 @@ import {
   AlertDialogFooter,
   AlertDialogHeader,
   AlertDialogTitle,
-} from "@akasha/design-primitives/alert-dialog"
+} from "akasha/design/primitives/alert-dialog/alert-dialog.module.code.tsx"
 import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
-} from "@akasha/design-primitives/dropdown-menu"
-import { ScrollArea } from "@akasha/design-primitives/scroll-area"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
-import type { badgeVariants } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+} from "akasha/design/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
+import { ScrollArea } from "akasha/design/primitives/scroll-area/scroll-area.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import type { VariantProps } from "class-variance-authority"
 import { useState } from "react"
 

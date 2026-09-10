@@ -1,4 +1,4 @@
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 
 export function SessionDivider({ session }: { session: number }) {
   return (

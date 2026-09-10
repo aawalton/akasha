@@ -1,18 +1,5 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { cn } from "@akasha/design-primitives/cn"
-import { Heading } from "@akasha/design-primitives/heading"
-import { Spinner } from "@akasha/design-primitives/spinner"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import {
-  Table,
-  TableBody,
-  TableCell,
-  TableHead,
-  TableHeader,
-  TableRow,
-} from "@akasha/design-primitives/table"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import {
   Empty,
@@ -22,6 +9,19 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "akasha/design/patterns/empty/empty.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
+import { Spinner } from "akasha/design/primitives/spinner/spinner.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import {
+  Table,
+  TableBody,
+  TableCell,
+  TableHead,
+  TableHeader,
+  TableRow,
+} from "akasha/design/primitives/table/table.module.code.tsx"
 import { AlertCircle, FolderOpen, Search } from "lucide-react"
 import { PatternsUxLayoutPanels } from "../patterns-ux-layout-panels/patterns-ux-layout-panels.module.code.tsx"
 

@@ -1,6 +1,5 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
 import { formatShortNumber as fmt } from "@akasha/pages/core/property-types/number"
 import {
   gainedStars,
@@ -13,6 +12,7 @@ import {
   totalRate,
 } from "akasha/alan/harness/idle-system/idle-rate/idle-rate.module.code.ts"
 import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { Heart, Sparkles } from "lucide-react"
 import { useState } from "react"
 import { deriveAscensionView } from "../idle-display/idle-display.module.code.ts"

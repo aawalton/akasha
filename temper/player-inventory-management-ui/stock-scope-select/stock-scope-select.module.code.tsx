@@ -1,14 +1,14 @@
 "use client"
 
+import { useUserId } from "@akasha/pages-ui/use-user-id"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@akasha/design-primitives/select-control"
-import { useUserId } from "@akasha/pages-ui/use-user-id"
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
 import type {
   MoveToDestination,
   StockScope,

@@ -1,7 +1,5 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { Card, CardContent } from "@akasha/design-primitives/card"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
@@ -24,6 +22,8 @@ import { SearchButton } from "akasha/design/patterns/search-button/search-button
 import { SearchSortFilterRow } from "akasha/design/patterns/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import { SortButton } from "akasha/design/patterns/sort-button/sort-button.module.code.tsx"
 import { TabsContent } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { Card, CardContent } from "akasha/design/primitives/card/card.module.code.tsx"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
 import type { AccountSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import { Globe } from "lucide-react"

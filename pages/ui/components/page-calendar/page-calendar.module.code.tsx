@@ -1,10 +1,5 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { FilterableList, FilterableListItem } from "@akasha/design-primitives/filterable-list"
-import { Heading } from "@akasha/design-primitives/heading"
-import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import type { PropertyDefinition } from "@akasha/pages/core/types"
 import {
   buildMonthGrid,
@@ -17,6 +12,18 @@ import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { DndContext, DragOverlay, useDraggable } from "@dnd-kit/core"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import {
+  FilterableList,
+  FilterableListItem,
+} from "akasha/design/primitives/filterable-list/filterable-list.module.code.tsx"
+import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "akasha/design/primitives/popover/popover.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { Calendar as CalendarIcon, ChevronLeft, ChevronRight } from "lucide-react"
 import {
   type KeyboardEvent as ReactKeyboardEvent,

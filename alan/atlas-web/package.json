@@ -15,7 +15,6 @@
     "test": "bun test"
   },
   "dependencies": {
-    "@akasha/design-primitives": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@capacitor/core": "^8.4.1",

@@ -1,6 +1,6 @@
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { SurfaceProvider } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import type {
   ItemAward,
   QuestWindow,

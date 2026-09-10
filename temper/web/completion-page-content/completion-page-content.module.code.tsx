@@ -1,8 +1,5 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value"
-import { useKeyboardBinding } from "@akasha/design-primitives/use-keyboard-registry"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import {
@@ -15,6 +12,9 @@ import { scrollToCard } from "akasha/design/layout/scroll-to-card/scroll-to-card
 import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import { PageTabsTrigger, Tabs, TabsList } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { useDebouncedValue } from "akasha/design/primitives/use-debounced-value/use-debounced-value.module.code.ts"
+import { useKeyboardBinding } from "akasha/design/primitives/use-keyboard-registry/use-keyboard-registry.module.code.ts"
 import {
   ACTIVITY_CATEGORIES,
   type ActivityCategoryId,

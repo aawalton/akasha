@@ -1,8 +1,5 @@
 "use client"
 
-import { FilterTextField } from "@akasha/design-primitives/filterable-list"
-import { Heading } from "@akasha/design-primitives/heading"
-import { SubView } from "@akasha/design-primitives/sub-view"
 import type { PropertyVisibilityMode, VisibilityChange } from "@akasha/pages/core/schema/view-data"
 import {
   applySectionDrop,
@@ -31,6 +28,9 @@ import {
 } from "@dnd-kit/core"
 import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
 import { SortableContext } from "@dnd-kit/sortable"
+import { FilterTextField } from "akasha/design/primitives/filterable-list/filterable-list.module.code.tsx"
+import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
+import { SubView } from "akasha/design/primitives/sub-view/sub-view.module.code.tsx"
 import { type ReactNode, useCallback, useEffect, useMemo, useRef, useState } from "react"
 
 interface PropertyVisibilityPickerProps {

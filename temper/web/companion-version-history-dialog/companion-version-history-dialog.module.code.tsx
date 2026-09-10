@@ -1,19 +1,5 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { cn } from "@akasha/design-primitives/cn"
-import {
-  Dialog,
-  DialogBody,
-  DialogContent,
-  DialogHeader,
-  DialogTitle,
-} from "@akasha/design-primitives/dialog"
-import { Heading } from "@akasha/design-primitives/heading"
-import { Input } from "@akasha/design-primitives/input"
-import { ScrollArea } from "@akasha/design-primitives/scroll-area"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { createPage } from "@akasha/pages/access/create"
 import { patchPage } from "@akasha/pages/access/patch"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
@@ -21,6 +7,20 @@ import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import {
+  Dialog,
+  DialogBody,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+} from "akasha/design/primitives/dialog/dialog.module.code.tsx"
+import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
+import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
+import { ScrollArea } from "akasha/design/primitives/scroll-area/scroll-area.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import { Loader2 } from "lucide-react"
 import { useCallback, useEffect, useState } from "react"
 import { toast } from "sonner"

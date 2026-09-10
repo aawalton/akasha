@@ -1,14 +1,20 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import {
   Collapsible,
   CollapsibleContent,
   CollapsibleTrigger,
-} from "@akasha/design-primitives/collapsible"
-import { HorizontalScrollFade } from "@akasha/design-primitives/horizontal-scroll-fade"
-import { clampSurfaceLevel, surfaceClass } from "@akasha/design-primitives/surface-class"
-import { SurfaceProvider, useSurface } from "@akasha/design-primitives/surface-provider"
+} from "akasha/design/primitives/collapsible/collapsible.module.code.tsx"
+import { HorizontalScrollFade } from "akasha/design/primitives/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
+import {
+  clampSurfaceLevel,
+  surfaceClass,
+} from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import {
+  SurfaceProvider,
+  useSurface,
+} from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import { ChevronDown } from "lucide-react"
 import { type ReactNode, useState } from "react"
 

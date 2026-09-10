@@ -1,6 +1,5 @@
 "use client"
 
-import { useDebouncedCallback } from "@akasha/design-primitives/use-debounced-callback"
 import type { Block, RichDocument } from "@akasha/pages/core/property-types/rich-document"
 import {
   applyEditorOp,
@@ -19,6 +18,7 @@ import { useBlockPersistence } from "@akasha/pages-ui/block-editor/use-block-per
 import { useBlockSelection } from "@akasha/pages-ui/block-editor/use-block-selection"
 import { useCoarsePointer } from "@akasha/pages-ui/block-editor/use-coarse-pointer"
 import { useKeyboardInset } from "@akasha/pages-ui/block-editor/use-keyboard-inset"
+import { useDebouncedCallback } from "akasha/design/primitives/use-debounced-callback/use-debounced-callback.module.code.ts"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 import { BlockRow } from "../block-row/block-row.module.code.tsx"
 

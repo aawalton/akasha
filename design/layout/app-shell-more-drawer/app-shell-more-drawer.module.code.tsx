@@ -1,8 +1,12 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
-import { Drawer, DrawerContent, DrawerTitle } from "@akasha/design-primitives/drawer"
 import * as CollapsiblePrimitive from "@radix-ui/react-collapsible"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import {
+  Drawer,
+  DrawerContent,
+  DrawerTitle,
+} from "akasha/design/primitives/drawer/drawer.module.code.tsx"
 import { ChevronRightIcon } from "lucide-react"
 import { isNavItemActive } from "../nav-active/nav-active.module.code.ts"
 import type { AppNavItem, MoreDrawerGroup } from "../nav-types/nav-types.module.code.ts"

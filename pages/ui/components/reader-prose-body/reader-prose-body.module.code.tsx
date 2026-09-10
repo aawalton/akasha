@@ -1,6 +1,5 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
 import { clampFraction, fractionToScrollTop } from "@akasha/pages-ui/components/position-fraction"
 import {
   blockPositionForFraction,
@@ -16,6 +15,7 @@ import {
 import { ProseBlockView } from "@akasha/pages-ui/components/reader-prose-block"
 import type { BlockSentenceLayout } from "@akasha/pages-ui/components/reader-sentence-layout"
 import { useWindowVirtualizer } from "@tanstack/react-virtual"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { memo, type RefObject, useImperativeHandle, useMemo, useRef } from "react"
 
 export interface ReaderPositionAnchor {

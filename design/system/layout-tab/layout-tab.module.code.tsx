@@ -1,16 +1,5 @@
 "use client"
 
-import { cn } from "@akasha/design-primitives/cn"
-import { Heading } from "@akasha/design-primitives/heading"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import {
-  Table,
-  TableBody,
-  TableCell,
-  TableHead,
-  TableHeader,
-  TableRow,
-} from "@akasha/design-primitives/table"
 import { COLUMN_WIDTH } from "akasha/design/layout/layout-data/layout-data.module.code.ts"
 import { getPageWidth } from "akasha/design/layout/page-layout-data/page-layout-data.module.code.ts"
 import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
@@ -18,6 +7,17 @@ import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.cod
 import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { useColumnCount } from "akasha/design/layout/use-column-count/use-column-count.module.code.tsx"
 import { TabsContent } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import {
+  Table,
+  TableBody,
+  TableCell,
+  TableHead,
+  TableHeader,
+  TableRow,
+} from "akasha/design/primitives/table/table.module.code.tsx"
 import { LayoutSpacingPanels } from "../layout-spacing-panels/layout-spacing-panels.module.code.tsx"
 
 export function LayoutTabContent() {

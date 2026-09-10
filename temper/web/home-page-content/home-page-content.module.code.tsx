@@ -1,6 +1,5 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
 import { PagesUILink as Link, usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { ListContentSkeleton } from "akasha/design/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"
@@ -17,6 +16,7 @@ import {
   EmptyTitle,
 } from "akasha/design/patterns/empty/empty.module.code.tsx"
 import { QueryErrorBoundary } from "akasha/design/patterns/query-error-boundary/query-error-boundary.module.code.tsx"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import {
   applyCharacterMetadata,

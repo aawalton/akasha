@@ -1,7 +1,5 @@
 "use client"
 
-import { listenerSet } from "@akasha/design-primitives/listener-set"
-import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
 import { deletePages } from "@akasha/pages/access/delete"
 import { NEVER_MATCH_VALUE } from "@akasha/pages/access/sentinels"
 import { upsertPage, upsertPages } from "@akasha/pages/access/upsert"
@@ -13,6 +11,8 @@ import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { isRecord } from "@akasha/utils/narrow/is-record"
 import type { Json } from "@akasha/utils/narrow/json-value"
+import { listenerSet } from "akasha/design/primitives/listener-set/listener-set.module.code.ts"
+import { useSingleFlight } from "akasha/design/primitives/use-single-flight/use-single-flight.module.code.ts"
 import type {
   AutomationSettings,
   CharacterAutomationToggles,

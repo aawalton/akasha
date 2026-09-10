@@ -1,14 +1,18 @@
 "use client"
 
-import { Heading } from "@akasha/design-primitives/heading"
-import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
-import { Switch } from "@akasha/design-primitives/switch-control"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
+import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "akasha/design/primitives/popover/popover.module.code.tsx"
+import { Switch } from "akasha/design/primitives/switch-control/switch-control.module.code.tsx"
 import type {
   CharacterAutomationToggles,
   CompanionAutomationToggles,

@@ -1,9 +1,5 @@
 "use client"
 
-import { buttonVariants } from "@akasha/design-primitives/button"
-import { cn } from "@akasha/design-primitives/cn"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { parsePageTypeData } from "@akasha/pages/core/schema/pages"
 import type { PropertyDefinition } from "@akasha/pages/core/types"
 import { expandDateMentions } from "@akasha/pages/core/view/expand-date-mentions"
@@ -24,6 +20,10 @@ import {
   EmptyTitle,
 } from "akasha/design/patterns/empty/empty.module.code.tsx"
 import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
+import { buttonVariants } from "akasha/design/primitives/button/button.module.code.tsx"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import { PagesFilteredContent } from "../pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 
 const PAGE_TYPE_SLUG = "page-type"

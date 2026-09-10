@@ -1,6 +1,10 @@
 "use client"
 
-import { HoverCard, HoverCardContent, HoverCardTrigger } from "@akasha/design-primitives/hover-card"
+import {
+  HoverCard,
+  HoverCardContent,
+  HoverCardTrigger,
+} from "akasha/design/primitives/hover-card/hover-card.module.code.tsx"
 import { Info } from "lucide-react"
 import * as React from "react"
 

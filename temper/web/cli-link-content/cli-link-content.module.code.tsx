@@ -1,10 +1,13 @@
 "use client"
 
-import { Button } from "@akasha/design-primitives/button"
-import { cn } from "@akasha/design-primitives/cn"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { SurfaceProvider, useSurface } from "@akasha/design-primitives/surface-provider"
 import { isRecord } from "@akasha/utils/narrow/is-record"
+import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import {
+  SurfaceProvider,
+  useSurface,
+} from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import { useCallback, useState } from "react"
 import {
   type CliLinkFailure,
