@@ -1,4 +1,4 @@
-import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.ts"
+import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.types.ts"
 
 export const fileContentPage = {
   id: "01a0826a-6400-79ce-a5e5-6dc4c2ad75e8",

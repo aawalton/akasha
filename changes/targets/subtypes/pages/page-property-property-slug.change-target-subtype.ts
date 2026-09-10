@@ -1,4 +1,4 @@
-import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.ts"
+import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.types.ts"
 
 export const pagePropertyPropertySlug = {
   id: "01a08194-703b-7387-bedc-4d987dbad775",

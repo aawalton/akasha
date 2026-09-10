@@ -1,4 +1,4 @@
-import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.ts"
+import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.types.ts"
 
 export const folderPackage = {
   id: "01a07c7a-711a-7aa6-8c17-9a7e184b842e",

@@ -1,4 +1,4 @@
-import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.ts"
+import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.types.ts"
 
 export const fileContentPagePropertyValueProse = {
   id: "01a07c7a-362d-7b18-9313-74111bd7c28e",

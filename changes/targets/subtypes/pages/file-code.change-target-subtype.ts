@@ -1,4 +1,4 @@
-import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.ts"
+import type { ChangeTargetSubtype } from "../change-target-subtype.page-type.types.ts"
 
 export const fileCode = {
   id: "01a07c70-afc7-75b7-a1aa-9615a67cf8ce",

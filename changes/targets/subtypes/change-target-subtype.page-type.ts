@@ -1,12 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
 import type { PageType } from "../../../pages/types/page-type.page-type.ts"
-import type { ChangeTargetType } from "../../properties/change-target-type.relation-property.ts"
-import type { ChangeTargetSubtypeParent } from "./properties/change-target-subtype-parent.relation-property.ts"
-
-export type ChangeTargetSubtype = Domain & {
-  changeTargetType: ChangeTargetType
-  parent?: ChangeTargetSubtypeParent
-}
 
 export const changeTargetSubtype = {
   id: "01a07c71-2924-76f9-b37f-a239b7b97045",
@@ -62,4 +54,5 @@ export const changeTargetSubtype = {
       statement: "A target subtype narrows the target type its parent narrows.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
