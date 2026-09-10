@@ -73,6 +73,7 @@ export const codeCheck = {
     "code-check/hand-written-global-is-no-method",
     "code-check/repository-is-written-by-a-change",
     "code-check/specifier-names-a-package",
+    "boolean-property/experimental",
   ],
   extends: ["page-type/domain"],
   loadedBy: "module/checking",
@@ -91,6 +92,7 @@ export const codeCheck = {
       uncommitted: true,
       default: "jsonl",
     },
+    { pageProperty: "boolean-property/experimental", required: false, many: false },
   ],
   invariants: [
     {
