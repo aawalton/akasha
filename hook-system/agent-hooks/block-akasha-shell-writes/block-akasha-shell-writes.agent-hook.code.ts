@@ -1,7 +1,9 @@
 import { lstatSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
 import { gitIgnoring } from "akasha/git/pathspec/git-pathspec.module.code.ts"
+import { z } from "zod"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
+import { parseHookPayload } from "../../hook-answer/hook-answer.module.code.ts"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 import {
   basenameOf,
@@ -71,6 +73,23 @@ const QUOTES = new Set(["'", '"'])
 
 const SEPARATORS = new Set(["\n", ";", "|", "&"])
 
+const CAPTURED = z.tuple([z.string(), z.string()])
+
+function parseRedirect(word: string): string | null {
+  const read = CAPTURED.safeParse(REDIRECT.exec(word))
+  return read.success ? read.data[1] : null
+}
+
+function parseOutFile(word: string): string | null {
+  const read = CAPTURED.safeParse(OUT_FILE.exec(word))
+  return read.success ? read.data[1] : null
+}
+
+function parseHeredocEnd(one: string): string | null {
+  const read = CAPTURED.safeParse(HEREDOC.exec(one))
+  return read.success ? read.data[1] : null
+}
+
 export type Landing = {
   readonly at: string
   readonly how: string
@@ -92,12 +111,12 @@ function pastRedirects(words: readonly string[]): readonly string[] {
   for (let at = 0; at < words.length; at += 1) {
     const word = words[at]
     if (word === undefined) continue
-    const said = REDIRECT.exec(word)
+    const said = parseRedirect(word)
     if (said === null) {
       kept.push(word)
       continue
     }
-    if ((said[1] ?? "") === "") at += 1
+    if (said === "") at += 1
   }
   return kept
 }
@@ -121,9 +140,8 @@ export function redirectsIn(words: readonly string[]): readonly string[] {
   for (let at = 0; at < words.length; at += 1) {
     const word = words[at]
     if (word === undefined) continue
-    const said = REDIRECT.exec(word)
-    if (said === null) continue
-    const tail = said[1] ?? ""
+    const tail = parseRedirect(word)
+    if (tail === null) continue
     if (tail.startsWith("&")) continue
     const target = tail === "" ? (words[at + 1] ?? "") : tail
     if (target !== "") found.push(target)
@@ -154,9 +172,8 @@ export function landingsIn(command: string): readonly Landing[] {
       }
       if (tool === DD) {
         for (const word of words.slice(1)) {
-          const said = OUT_FILE.exec(word)
-          const target = said?.[1]
-          if (target !== undefined && target !== "") found.push({ at: target, how: tool })
+          const target = parseOutFile(word)
+          if (target !== null && target !== "") found.push({ at: target, how: tool })
         }
       }
     }
@@ -205,9 +222,8 @@ export function rawCallsIn(command: string): readonly string[] {
 
 export function programHandedIn(calls: readonly string[], at: number): string {
   const one = calls[at] ?? ""
-  const said = HEREDOC.exec(one)
-  if (said === null) return one
-  const ends = said[1]
+  const ends = parseHeredocEnd(one)
+  if (ends === null) return one
   let text = one
   for (let next = at + 1; next < calls.length; next += 1) {
     const line = calls[next] ?? ""
@@ -368,14 +384,14 @@ export function refusalFor(command: string, from: string, root: string): string 
 async function main(): Promise<number> {
   const raw = await Bun.stdin.text()
   if (raw.trim() === "") return 0
-  let payload: unknown
+  let payload: Record<string, unknown> | null
   try {
-    payload = JSON.parse(raw)
+    payload = parseHookPayload(raw)
   } catch {
     process.stderr.write(`${HOOK_NAME}: the hook payload would not read, so nothing was judged\n`)
     return UNREADABLE
   }
-  const held = payload as {
+  const held = (payload ?? {}) as {
     readonly tool_input?: { readonly command?: unknown }
     readonly cwd?: unknown
   }
