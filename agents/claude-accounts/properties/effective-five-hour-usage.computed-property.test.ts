@@ -1,20 +1,20 @@
 import { expect, test } from "bun:test"
 import type { Computed, Reach } from "akasha/pages/computing/page-computing.module.code.ts"
 import { computingOver } from "akasha/pages/computing/page-computing.module.code.ts"
-import type { WorkedClaudeAccount } from "../claude-account.page-type.worked.ts"
+import type { ClaudeAccount } from "../claude-account.page-type.types.ts"
 import { work } from "./effective-five-hour-usage.computed-property.code.ts"
 import { work as sevenDay } from "./effective-seven-day-usage.computed-property.code.ts"
 
 const REACH: Reach = { target: () => null, naming: () => [] }
 
-const BASE: WorkedClaudeAccount = {
+const BASE: ClaudeAccount = {
   id: "one",
   slug: "aine",
   email: "aine@alanwalton.com",
   aliasIndex: 0,
 }
 
-function account(held: Record<string, unknown>): WorkedClaudeAccount {
+function account(held: Record<string, unknown>): ClaudeAccount {
   return Object.assign({ ...BASE }, held)
 }
 

@@ -1,9 +1,9 @@
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
-import type { WorkedClaudeAccount } from "../claude-account.page-type.worked.ts"
+import type { ClaudeAccount } from "../claude-account.page-type.types.ts"
 
 const CEILING = 100
 
-function fiveHourSpentIn(page: WorkedClaudeAccount): number | null {
+function fiveHourSpentIn(page: ClaudeAccount): number | null {
   const said: unknown = page.fiveHourPercentUsed
   if (typeof said === "number") return Number.isFinite(said) ? said : null
   if (typeof said !== "string" || said === "") return null
@@ -11,7 +11,7 @@ function fiveHourSpentIn(page: WorkedClaudeAccount): number | null {
   return Number.isFinite(found) ? found : null
 }
 
-export const work: Work<WorkedClaudeAccount, number> = (page) => {
+export const work: Work<ClaudeAccount, number> = (page) => {
   const seven = page.effectiveSevenDayUsage
   if (seven !== undefined && seven >= CEILING) return CEILING
   return fiveHourSpentIn(page)
