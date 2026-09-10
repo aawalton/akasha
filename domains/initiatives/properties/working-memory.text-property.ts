@@ -11,10 +11,4 @@ export const workingMemory = {
   definition: "the state of the work on one intent",
   maxLength: 500,
   nameFormat: null,
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "Working memory is emptied when its intent leaves.",
-    },
-  ],
 } as const satisfies TextProperty
