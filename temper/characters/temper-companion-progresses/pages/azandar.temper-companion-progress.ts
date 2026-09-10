@@ -1,4 +1,4 @@
-import type { TemperCompanionProgress } from "../temper-companion-progress.page-type.ts"
+import type { TemperCompanionProgress } from "../temper-companion-progress.page-type.types.ts"
 
 export const azandar = {
   id: "019dda20-ef86-78be-bf43-b241b052add2",

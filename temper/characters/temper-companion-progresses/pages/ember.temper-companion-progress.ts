@@ -1,4 +1,4 @@
-import type { TemperCompanionProgress } from "../temper-companion-progress.page-type.ts"
+import type { TemperCompanionProgress } from "../temper-companion-progress.page-type.types.ts"
 
 export const ember = {
   id: "019dda20-e6b9-7e98-a576-7447b5f442f5",

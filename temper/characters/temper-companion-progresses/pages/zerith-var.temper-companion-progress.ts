@@ -1,4 +1,4 @@
-import type { TemperCompanionProgress } from "../temper-companion-progress.page-type.ts"
+import type { TemperCompanionProgress } from "../temper-companion-progress.page-type.types.ts"
 
 export const zerithVar = {
   id: "019dda20-f573-7169-a65a-edcca64e45ba",

@@ -1,4 +1,4 @@
-import type { TemperCompanionProgress } from "../temper-companion-progress.page-type.ts"
+import type { TemperCompanionProgress } from "../temper-companion-progress.page-type.types.ts"
 
 export const bastian = {
   id: "019dda20-e0ef-782c-beb0-ff89523344e3",

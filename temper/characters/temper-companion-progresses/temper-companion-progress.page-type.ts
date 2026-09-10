@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCharacterThing } from "../things/temper-character-thing.page-type.types.ts"
-import type { CompanionRoles } from "./properties/companion-roles.relation-property.ts"
-
-export type TemperCompanionProgress = TemperCharacterThing & {
-  roles?: CompanionRoles
-}
 
 export const temperCompanionProgress = {
   id: "01a05fcd-f54b-7497-b549-b7f8ef55b323",
@@ -25,4 +19,5 @@ export const temperCompanionProgress = {
       maxCount: null,
     },
   ],
+  types: "ts",
 } as const satisfies PageType

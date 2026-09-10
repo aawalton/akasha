@@ -1,4 +1,4 @@
-import type { TemperCompanionProgress } from "../temper-companion-progress.page-type.ts"
+import type { TemperCompanionProgress } from "../temper-companion-progress.page-type.types.ts"
 
 export const sharpAsNight = {
   id: "019dda20-ec83-7e9b-a326-01a95d1160da",
