@@ -67,6 +67,7 @@ export const lualib = {
     "lualib/instance-of",
     "lualib/instance-of-object",
     "lualib/lua-iterator-spread",
+    "lualib/map",
     "lualib/map-group-by",
     "lualib/math-atan2",
     "lualib/number-to-fixed",
