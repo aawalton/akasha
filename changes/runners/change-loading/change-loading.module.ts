@@ -60,6 +60,10 @@ export const changeLoading = {
     },
     {
       invariantKind: "departure",
+      statement: "An address naming no page and a body exporting no run are two refusals.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Loading a change and running that change are two acts.",
     },
     {

@@ -40,11 +40,13 @@ export function sittingAt(world: World, path: string): string {
   return path
 }
 
-async function exportedAt(world: World, address: string, named: string): Promise<unknown> {
-  const at = codeAt(world, address)
-  if (at === null) return null
+async function exportedFrom(world: World, at: string, named: string): Promise<unknown> {
   const held = (await import(join(world.root, sittingAt(world, at)))) as Record<string, unknown>
   return held[named] ?? null
+}
+
+function namingNoPage(address: string): string {
+  return `\`${address}\` names no page here, so no code is there to load`
 }
 
 export function guardsNamedIn(world: World, address: string): readonly string[] {
@@ -59,7 +61,9 @@ export function guardsNamedIn(world: World, address: string): readonly string[] 
 async function guardsIn(world: World, address: string): Promise<readonly Guard[] | string> {
   const found: Guard[] = []
   for (const slug of guardsNamedIn(world, address)) {
-    const held = await exportedAt(world, slug, RUN_GUARD)
+    const path = codeAt(world, slug)
+    if (path === null) return namingNoPage(slug)
+    const held = await exportedFrom(world, path, RUN_GUARD)
     if (typeof held !== "function") {
       return `\`${slug}\` names no guard exporting \`${RUN_GUARD}\`, so the change is not run`
     }
@@ -79,7 +83,9 @@ export async function loadedAt(world: World, at: string): Promise<Loaded | strin
   const held = LOADED.get(world)
   const before = held?.get(at)
   if (before !== undefined) return before
-  const run = await exportedAt(world, at, RUN_CHANGE)
+  const path = codeAt(world, at)
+  if (path === null) return namingNoPage(at)
+  const run = await exportedFrom(world, path, RUN_CHANGE)
   if (typeof run !== "function") {
     return `\`${at}\` reaches no change exporting \`${RUN_CHANGE}\``
   }

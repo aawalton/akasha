@@ -10,7 +10,14 @@ import {
   NOTHING_OVER,
   type World,
 } from "../../modules/shadow/change-shadow.module.code.ts"
-import { codeAt, partsOf, ranBy, sittingAt, targetRefusal } from "./change-loading.module.code.ts"
+import {
+  codeAt,
+  loadedAt,
+  partsOf,
+  ranBy,
+  sittingAt,
+  targetRefusal,
+} from "./change-loading.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -267,6 +274,14 @@ test("the subtype a change judges a path against is worked out once over one wor
 
   expect(targetRefusal(over, ADDRESS, { at: AT })).toBeNull()
   expect(asked).toBe(0)
+})
+
+test("an address naming no page is refused for that rather than for exporting no run", async () => {
+  const world = { ...worldOf(), index: { listedAt: () => [] } as never }
+
+  expect(await loadedAt(world, ADDRESS)).toBe(
+    `\`${ADDRESS}\` names no page here, so no code is there to load`
+  )
 })
 
 test("a call handing in no path has no path judged", () => {
