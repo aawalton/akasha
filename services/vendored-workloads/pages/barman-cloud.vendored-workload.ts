@@ -1,4 +1,4 @@
-import type { VendoredWorkload } from "../vendored-workload.page-type.ts"
+import type { VendoredWorkload } from "../vendored-workload.page-type.types.ts"
 
 export const barmanCloud = {
   id: "01a068e5-527c-7342-9656-a0172825938d",

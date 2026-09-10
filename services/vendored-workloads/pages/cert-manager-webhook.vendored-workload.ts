@@ -1,4 +1,4 @@
-import type { VendoredWorkload } from "../vendored-workload.page-type.ts"
+import type { VendoredWorkload } from "../vendored-workload.page-type.types.ts"
 
 export const certManagerWebhook = {
   id: "01a068e5-527c-7030-88b5-ece6202b1900",

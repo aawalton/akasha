@@ -1,4 +1,4 @@
-import type { VendoredWorkload } from "../vendored-workload.page-type.ts"
+import type { VendoredWorkload } from "../vendored-workload.page-type.types.ts"
 
 export const kubeProxy = {
   id: "01a068e5-527c-7672-8027-1e5b535dab2d",

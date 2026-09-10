@@ -1,4 +1,4 @@
-import type { VendoredWorkload } from "../vendored-workload.page-type.ts"
+import type { VendoredWorkload } from "../vendored-workload.page-type.types.ts"
 
 export const certManager = {
   id: "01a068e5-527c-7785-80d9-e385e21d4690",

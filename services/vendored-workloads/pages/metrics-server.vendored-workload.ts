@@ -1,4 +1,4 @@
-import type { VendoredWorkload } from "../vendored-workload.page-type.ts"
+import type { VendoredWorkload } from "../vendored-workload.page-type.types.ts"
 
 export const metricsServer = {
   id: "01a068e5-527c-769a-932a-0da336ed9815",

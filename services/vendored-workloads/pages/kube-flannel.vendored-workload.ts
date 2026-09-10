@@ -1,4 +1,4 @@
-import type { VendoredWorkload } from "../vendored-workload.page-type.ts"
+import type { VendoredWorkload } from "../vendored-workload.page-type.types.ts"
 
 export const kubeFlannel = {
   id: "01a068e5-527c-7e51-81d4-b0a4ffe3365e",

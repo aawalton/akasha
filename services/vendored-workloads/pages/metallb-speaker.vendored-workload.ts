@@ -1,4 +1,4 @@
-import type { VendoredWorkload } from "../vendored-workload.page-type.ts"
+import type { VendoredWorkload } from "../vendored-workload.page-type.types.ts"
 
 export const metallbSpeaker = {
   id: "01a068e5-527c-704c-8fe5-f706dfe94839",
