@@ -9,13 +9,13 @@ import {
 } from "./agent-forest.module.code.ts"
 import { NO_PLACES, NO_SUBAGENTS, row, subagent } from "./agent-forest.module.test-fixtures.ts"
 
-const LIVE = (...ids: string[]): ReadonlySet<string> => new Set(ids)
+const live = (...ids: string[]): ReadonlySet<string> => new Set(ids)
 
 describe("the seats a forest hangs together", () => {
   test("a seat hangs under the seat it names as its parent", () => {
     const roots = assembleForest(
       [row("p", "parent", null), row("c", "child", "p")],
-      LIVE("p", "c"),
+      live("p", "c"),
       NO_SUBAGENTS,
       NO_PLACES
     )
@@ -26,7 +26,7 @@ describe("the seats a forest hangs together", () => {
   test("a seat answering to Alan is a root however it names its parent", () => {
     const roots = assembleForest(
       [row("p", "parent", null), row("c", "child", "p", "alan")],
-      LIVE("p", "c"),
+      live("p", "c"),
       NO_SUBAGENTS,
       NO_PLACES
     )
@@ -34,12 +34,12 @@ describe("the seats a forest hangs together", () => {
   })
 
   test("a seat naming a parent no row answers to is a root", () => {
-    const roots = assembleForest([row("c", "child", "gone")], LIVE("c"), NO_SUBAGENTS, NO_PLACES)
+    const roots = assembleForest([row("c", "child", "gone")], live("c"), NO_SUBAGENTS, NO_PLACES)
     expect(roots.map((r) => r.name)).toEqual(["child"])
   })
 
   test("a seat naming itself as its parent is a root rather than its own child", () => {
-    const roots = assembleForest([row("c", "child", "c")], LIVE("c"), NO_SUBAGENTS, NO_PLACES)
+    const roots = assembleForest([row("c", "child", "c")], live("c"), NO_SUBAGENTS, NO_PLACES)
     expect(roots.map((r) => r.name)).toEqual(["child"])
     expect(roots[0]?.children).toEqual([])
   })
@@ -47,7 +47,7 @@ describe("the seats a forest hangs together", () => {
   test("a branch holding nothing running is dropped whole", () => {
     const roots = assembleForest(
       [row("p", "parent", null), row("c", "child", "p")],
-      LIVE(),
+      live(),
       NO_SUBAGENTS,
       NO_PLACES
     )
@@ -57,7 +57,7 @@ describe("the seats a forest hangs together", () => {
   test("a stopped seat remains where something under it still runs", () => {
     const roots = assembleForest(
       [row("p", "parent", null), row("c", "child", "p")],
-      LIVE("c"),
+      live("c"),
       NO_SUBAGENTS,
       NO_PLACES
     )
@@ -67,7 +67,7 @@ describe("the seats a forest hangs together", () => {
   })
 
   test("a seat naming no name is drawn under its id", () => {
-    const roots = assembleForest([row("s1", null, null)], LIVE("s1"), NO_SUBAGENTS, NO_PLACES)
+    const roots = assembleForest([row("s1", null, null)], live("s1"), NO_SUBAGENTS, NO_PLACES)
     expect(roots[0]?.name).toBe("s1")
   })
 
@@ -75,7 +75,7 @@ describe("the seats a forest hangs together", () => {
     const places: ReadonlyMap<string, SeatMode> = new Map([["a", "interactive"]])
     const roots = assembleForest(
       [row("a", "a", null), row("b", "b", null)],
-      LIVE("a", "b"),
+      live("a", "b"),
       NO_SUBAGENTS,
       places
     )
@@ -87,7 +87,7 @@ describe("the subagents a seat carries", () => {
   const withSubagent = (agentId: string | null, pages: ReadonlyMap<string, string>) =>
     assembleForest(
       [row("s1", "ember", null)],
-      LIVE("s1"),
+      live("s1"),
       new Map([["s1", [subagent("t1", "writing", [], agentId)]]]),
       NO_PLACES,
       "ops.color.blue",
@@ -119,7 +119,7 @@ describe("the subagents a seat carries", () => {
   test("the subagents come after the seats under one parent", () => {
     const roots = assembleForest(
       [row("p", "parent", null), row("c", "zeta", "p")],
-      LIVE("p", "c"),
+      live("p", "c"),
       new Map([["p", [subagent("t1", "aaa", [], null)]]]),
       NO_PLACES
     )
@@ -131,7 +131,7 @@ describe("what a joined answer and a drawn forest are counted as", () => {
   test("a seat's own page is joined against the repository the answer named", () => {
     const roots = assembleForest(
       [{ ...row("s1", "ember", null), at: "pages/seat/ember.ts" }],
-      LIVE("s1"),
+      live("s1"),
       NO_SUBAGENTS,
       NO_PLACES,
       undefined,
@@ -143,7 +143,7 @@ describe("what a joined answer and a drawn forest are counted as", () => {
   test("an answer naming no repository leaves a row naming no page", () => {
     const roots = assembleForest(
       [{ ...row("s1", "ember", null), at: "pages/seat/ember.ts" }],
-      LIVE("s1"),
+      live("s1"),
       NO_SUBAGENTS,
       NO_PLACES,
       undefined,
@@ -171,7 +171,7 @@ describe("what a joined answer and a drawn forest are counted as", () => {
   test("the rows and the running ones are counted apart", () => {
     const roots = assembleForest(
       [row("p", "parent", null), row("c", "child", "p")],
-      LIVE("c"),
+      live("c"),
       new Map([["c", [subagent("t1", "writing", [subagent("t2", "deeper")])]]]),
       NO_PLACES
     )
