@@ -36,15 +36,11 @@ if [[ -z "$CAP" ]]; then
   exit 1
 fi
 
-# This shell's www/ is a built SPA bundle rather than a committed page, staged by
-# alanwalton-stage-app or rsynced in by the run that cuts a build. Capacitor copies
-# whatever stands there, so an absent one is caught here rather than shipped empty.
-if [[ ! -f www/index.html ]]; then
-  echo "ERROR: no www/index.html — this shell serves a built SPA bundle, and Capacitor would copy an empty directory into the app. Run alanwalton-stage-app first." >&2
-  exit 1
-fi
-
 bash "$SHARED/write-capacitor-config/write-capacitor-config.shell-script.shell.sh" \
   "$PACKAGE/alanwalton.ios-app.capacitor-config.json"
+# BEFORE the Capacitor call, which copies whatever sits in webDir into the native
+# project. Staged after, this run would ship the page the run before it left there.
+bash "$SHARED/stage-web-entry/stage-web-entry.shell-script.shell.sh" \
+  "$PACKAGE/alanwalton.ios-app.web-entry.html"
 "$CAP" "$MODE" ios
 bash "$HERE/../ios-seam/alanwalton-ios-seam.shell-script.shell.sh"

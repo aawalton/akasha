@@ -87,9 +87,10 @@ describe("records agree with the shells they name", () => {
     }
   })
 
-  test("an app has a mac staging directory exactly when it has content to stage", () => {
+  test("no app stages a site on the mac, now every shell boots its live origin", () => {
     for (const app of ALL) {
-      expect(app.macWwwStagingRel === null).toBe(app.wwwStageScript === null)
+      expect(app.macWwwStagingRel).toBeNull()
+      expect(app.wwwStageScript).toBeNull()
     }
   })
 

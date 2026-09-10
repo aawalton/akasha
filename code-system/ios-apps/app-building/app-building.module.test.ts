@@ -116,12 +116,7 @@ test("every component the shipped program names is handed to the seam", () => {
   expect(said).toContain("tier/tier.ios-component.swift.swift")
 })
 
-test("what stages an app's site and where that site is built from are read off its page", () => {
-  const held = planned("alanwalton").staging
-  expect(held?.sourcePath).toBe("alan/web-capacitor")
-  expect(held?.scriptPath).toEndWith("stage-app/alanwalton-stage-app.shell-script.shell.sh")
-})
-
 test("an app whose site is a page of its own stages nothing", () => {
+  expect(planned("alanwalton").staging).toBe(null)
   expect(planned("smilingjenny").staging).toBe(null)
 })

@@ -20,7 +20,6 @@ export const alanwalton = {
   iconDrawing: "svg",
   macBuildLockDir: "$HOME/.appstoreconnect/deploy-testflight.lock",
   macBuildNumberFile: "$HOME/.appstoreconnect/testflight-build-number",
-  macWwwStagingRel: ".testflight-www-staging",
   marketingVersion: "1.0",
   nativeShellRepoPath: "akasha:code-system/ios-apps/pages/alanwalton",
   programs: [
@@ -28,8 +27,6 @@ export const alanwalton = {
     "ios-program/alanwalton-decode-harness",
     "ios-program/alanwalton-widget",
   ],
-  spaSourcePath: "alan/web-capacitor",
-  stageScript: "shell-script/alanwalton-stage-app",
   toolReached: [
     "@capacitor/app",
     "@capacitor/cli",
@@ -82,4 +79,5 @@ export const alanwalton = {
     "shell-script/alanwalton-widget-refresh",
     "shell-script/alanwalton-widget-target",
   ],
+  webEntry: "html",
 } as const satisfies IosApp
