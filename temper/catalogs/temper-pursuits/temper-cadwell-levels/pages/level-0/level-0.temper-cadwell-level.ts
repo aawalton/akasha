@@ -1,4 +1,4 @@
-import type { TemperCadwellLevel } from "../../temper-cadwell-level.page-type.ts"
+import type { TemperCadwellLevel } from "../../temper-cadwell-level.page-type.types.ts"
 
 export const level0 = {
   id: "01a0616b-2cde-7002-8121-3289e2e0e3e2",
