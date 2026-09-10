@@ -36,7 +36,8 @@ export const initiativeMoveIntent = {
     },
     {
       invariantKind: "departure",
-      statement: "The place the intent is moved onto is named by the intent already holding it.",
+      statement:
+        "The place the intent is moved onto is named by the intent already holding that place.",
     },
     {
       invariantKind: "departure",
@@ -48,11 +49,11 @@ export const initiativeMoveIntent = {
     },
     {
       invariantKind: "departure",
-      statement: "An intent moved onto one above it sits before that intent.",
+      statement: "An intent moved onto a higher intent sits before that intent.",
     },
     {
       invariantKind: "departure",
-      statement: "An intent moved onto one below it sits after that intent.",
+      statement: "An intent moved onto a lower intent sits after that intent.",
     },
     {
       invariantKind: "departure",
@@ -78,7 +79,7 @@ export const initiativeMoveIntent = {
     {
       invariantKind: "departure",
       statement:
-        "An intent moved onto one the page no longer states is refused rather than placed.",
+        "An intent moved onto an intent the page no longer states is refused rather than placed.",
     },
     {
       invariantKind: "departure",
@@ -94,7 +95,7 @@ export const initiativeMoveIntent = {
     },
     {
       invariantKind: "absence",
-      statement: "No check runs over what a run lands.",
+      statement: "No check runs over the change a run lands.",
     },
   ],
 } as const satisfies Command
