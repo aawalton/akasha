@@ -40,16 +40,20 @@ export const commandServerClient = {
     },
     {
       invariantKind: "departure",
-      statement: "A lease, a gone server and a server that never started are the three of those.",
+      statement:
+        "A lease and a gone server and a server that never started say a server ran nothing.",
     },
     {
       invariantKind: "constraint",
-      statement: "Asking again would run twice what a server had already run.",
+      statement: "Asking again would run a second time the command a server had already run.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The pipe answers come back on is listened to for its end, so nothing else closes it.",
+      statement: "The pipe answers come back on is listened to for its end.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing but this client closes the pipe answers come back on.",
     },
     {
       invariantKind: "absence",
@@ -62,23 +66,23 @@ export const commandServerClient = {
     {
       invariantKind: "departure",
       statement:
-        "A server's exit refuses no ask before what the server already said has been taken.",
+        "A server's exit refuses no ask before every answer that server already said has been taken.",
     },
     {
       invariantKind: "departure",
-      statement: "A server's exit refuses what waits, because the answer pipe may never end.",
+      statement: "A server's exit refuses every ask still waiting.",
     },
     {
       invariantKind: "departure",
-      statement: "A server that says no hello is refused with what that server wrote instead.",
+      statement: "A server that says no hello is refused with the bytes that server wrote instead.",
     },
     {
       invariantKind: "departure",
-      statement: "That refusal waits for the server's streams to close, so what it wrote is there.",
+      statement: "That refusal waits for the server's streams to close.",
     },
     {
       invariantKind: "departure",
-      statement: "Only the last of what a server wrote is kept, so a flood refuses in few words.",
+      statement: "The last four thousand characters a server wrote are kept.",
     },
   ],
 } as const satisfies Module
