@@ -1,4 +1,4 @@
-import type { TemperCharacterSkillActivation } from "../../temper-character-skill-activation.page-type.ts"
+import type { TemperCharacterSkillActivation } from "../../temper-character-skill-activation.page-type.types.ts"
 
 export const purifyingLight = {
   id: "019e646c-c4e4-7f50-aafc-ac53cbcd88e4",

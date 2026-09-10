@@ -1,4 +1,4 @@
-import type { TemperCharacterSkillActivation } from "../../temper-character-skill-activation.page-type.ts"
+import type { TemperCharacterSkillActivation } from "../../temper-character-skill-activation.page-type.types.ts"
 
 export const radiantGlory = {
   id: "019e646c-c4ec-7752-bf6b-35862f20781c",

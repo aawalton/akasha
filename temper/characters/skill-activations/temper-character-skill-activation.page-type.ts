@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCharacterThing } from "../things/temper-character-thing.page-type.types.ts"
-import type { ActivationEffects } from "./properties/activation-effects.page-property-entry.ts"
-import type { DescriptionTemplate } from "./properties/description-template.text-property.ts"
-
-export type TemperCharacterSkillActivation = TemperCharacterThing & {
-  descriptionTemplate: DescriptionTemplate
-  activationEffects: ActivationEffects
-}
 
 export const temperCharacterSkillActivation = {
   id: "01a05fcd-f54a-7717-a057-2b49e5aeaa04",
@@ -35,4 +27,5 @@ export const temperCharacterSkillActivation = {
       statement: "The slug of an activation is the skill the activation is of.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
