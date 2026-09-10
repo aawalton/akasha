@@ -1,4 +1,4 @@
-import type { TemperAntiquityCategory } from "../../temper-antiquity-category.page-type.ts"
+import type { TemperAntiquityCategory } from "../../temper-antiquity-category.page-type.types.ts"
 
 export const theReach = {
   id: "01a06166-503e-7000-87b3-09c1de262f83",

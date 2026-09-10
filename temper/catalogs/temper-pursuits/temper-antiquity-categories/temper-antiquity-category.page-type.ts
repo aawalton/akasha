@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperPursuitThing } from "../temper-pursuit-things/temper-pursuit-thing.page-type.types.ts"
-import type { Antiquities } from "./properties/antiquities.page-property-entry.ts"
-import type { EsoAntiquityCategoryId } from "./properties/eso-antiquity-category-id.number-property.ts"
-
-export type TemperAntiquityCategory = TemperPursuitThing & {
-  esoAntiquityCategoryId: EsoAntiquityCategoryId
-  antiquities: Antiquities
-}
 
 export const temperAntiquityCategory = {
   id: "01a06166-503c-7000-a696-166a5a6ce1df",
@@ -34,4 +26,5 @@ export const temperAntiquityCategory = {
       statement: "A category is numbered in a key space of its own rather than by zone.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

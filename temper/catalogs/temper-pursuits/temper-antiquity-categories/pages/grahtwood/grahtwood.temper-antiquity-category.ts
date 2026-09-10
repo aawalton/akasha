@@ -1,4 +1,4 @@
-import type { TemperAntiquityCategory } from "../../temper-antiquity-category.page-type.ts"
+import type { TemperAntiquityCategory } from "../../temper-antiquity-category.page-type.types.ts"
 
 export const grahtwood = {
   id: "01a06166-503d-7001-ba6d-6e0ea9d72931",

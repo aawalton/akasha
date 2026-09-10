@@ -1,4 +1,4 @@
-import type { TemperAntiquityCategory } from "../../temper-antiquity-category.page-type.ts"
+import type { TemperAntiquityCategory } from "../../temper-antiquity-category.page-type.types.ts"
 
 export const theRift = {
   id: "01a06166-503c-700b-a482-831a8c79df6b",

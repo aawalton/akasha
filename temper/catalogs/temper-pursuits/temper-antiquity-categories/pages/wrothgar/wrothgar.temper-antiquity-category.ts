@@ -1,4 +1,4 @@
-import type { TemperAntiquityCategory } from "../../temper-antiquity-category.page-type.ts"
+import type { TemperAntiquityCategory } from "../../temper-antiquity-category.page-type.types.ts"
 
 export const wrothgar = {
   id: "01a06166-503d-7008-9537-0e25191acef8",

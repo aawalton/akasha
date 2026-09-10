@@ -1,4 +1,4 @@
-import type { TemperAntiquityCategory } from "../../temper-antiquity-category.page-type.ts"
+import type { TemperAntiquityCategory } from "../../temper-antiquity-category.page-type.types.ts"
 
 export const clockworkCity = {
   id: "01a06166-503d-700c-acca-9769a53d94a4",
