@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const rebornAsADemonicTree7 = {
   id: "019db533-f391-746f-ba22-878d87de0ba7",

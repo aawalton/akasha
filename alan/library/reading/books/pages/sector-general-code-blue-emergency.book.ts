@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const sectorGeneralCodeBlueEmergency = {
   id: "019db533-f38b-718b-9e73-25ac0b477160",

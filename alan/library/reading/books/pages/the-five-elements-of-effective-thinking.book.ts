@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theFiveElementsOfEffectiveThinking = {
   id: "019db533-f39d-7f1d-932c-f74857a766ae",

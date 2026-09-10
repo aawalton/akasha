@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theElderEmpireSeaOfSeaAndShadow = {
   id: "019db533-f39a-7dde-a5cf-b5c7abe1fd22",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const flinxTranscendent = {
   id: "019db533-f399-7ae0-b4ee-8470d1c201a5",

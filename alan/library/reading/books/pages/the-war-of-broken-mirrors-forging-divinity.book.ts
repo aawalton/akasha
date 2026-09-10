@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theWarOfBrokenMirrorsForgingDivinity = {
   id: "019db533-f39b-7032-aae5-cb626946c5b7",

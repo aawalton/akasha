@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const worldTreeTrilogyWorldTreesEnd = {
   id: "019db533-f38b-75dd-a24a-57e46985e2b3",

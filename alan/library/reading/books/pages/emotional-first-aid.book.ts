@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const emotionalFirstAid = {
   id: "019db533-f39e-7225-a5ac-e85cd02d98c5",

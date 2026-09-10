@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const killashandra = {
   id: "019db533-f399-7dea-99e4-927f216191b7",

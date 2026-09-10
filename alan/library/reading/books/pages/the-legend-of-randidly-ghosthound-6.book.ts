@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theLegendOfRandidlyGhosthound6 = {
   id: "019db533-f391-79a7-b388-78c3b04ad881",

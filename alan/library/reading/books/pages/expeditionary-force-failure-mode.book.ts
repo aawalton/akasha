@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const expeditionaryForceFailureMode = {
   id: "019db533-f39b-70b5-b2de-611dd055113c",

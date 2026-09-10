@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const expeditionaryForceMatchGame = {
   id: "019db533-f39a-7f4e-98fd-7b71b39e64a3",

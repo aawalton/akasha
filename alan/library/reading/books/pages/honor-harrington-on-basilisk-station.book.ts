@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const honorHarringtonOnBasiliskStation = {
   id: "019db533-f39a-7d94-8473-df14a053bb2b",

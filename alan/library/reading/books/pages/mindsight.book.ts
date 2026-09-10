@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const mindsight = {
   id: "019db533-f39e-70c5-93b8-e764ea3bcc4e",

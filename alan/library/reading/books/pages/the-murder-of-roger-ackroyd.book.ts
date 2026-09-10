@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theMurderOfRogerAckroyd = {
   id: "019db533-f399-7d20-a39b-e21519369061",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const howToWinFriendsAndInfluencePeople = {
   id: "019db533-f39e-71cd-b71f-9326187fc61a",

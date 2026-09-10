@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const slidingScales = {
   id: "019db533-f399-7a8a-b57c-c88ab46e4666",

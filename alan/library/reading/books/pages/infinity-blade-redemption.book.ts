@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const infinityBladeRedemption = {
   id: "019db533-f39d-70c3-a934-3ac9f2ca4f81",

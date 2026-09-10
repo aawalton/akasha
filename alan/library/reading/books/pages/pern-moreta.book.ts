@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const pernMoreta = {
   id: "019db533-f39a-7ed8-b9f7-6f8e72c386e1",

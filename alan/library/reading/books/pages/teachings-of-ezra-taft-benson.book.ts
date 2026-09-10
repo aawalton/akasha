@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const teachingsOfEzraTaftBenson = {
   id: "019db533-f39d-79cc-8cfb-ffed4301b388",

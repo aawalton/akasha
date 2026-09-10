@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const discoursesOfPresidentGordonBHinckleyVolume2 = {
   id: "019db533-f39d-73e3-9cb3-099292172eb5",

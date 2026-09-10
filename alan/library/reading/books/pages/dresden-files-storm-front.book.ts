@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const dresdenFilesStormFront = {
   id: "019db533-f39a-7b7d-b8fd-767c9ea438af",

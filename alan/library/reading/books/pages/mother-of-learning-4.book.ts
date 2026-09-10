@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const motherOfLearning4 = {
   id: "019db533-f391-732e-ab9e-e87058b183ac",

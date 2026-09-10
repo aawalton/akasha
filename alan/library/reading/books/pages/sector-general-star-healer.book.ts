@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const sectorGeneralStarHealer = {
   id: "019db533-f38b-73d0-a44e-3f5064050325",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const riseOfTheDevourerDragonWarrior = {
   id: "019db533-f391-74c0-b4ae-5fae470bd92d",

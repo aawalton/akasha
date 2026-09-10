@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGreatBooksOfTheWesternWorld11LucretiusEpictetusMarcusAureliusPlotinus = {
   id: "019db533-f39d-791b-83b8-793667223c7d",

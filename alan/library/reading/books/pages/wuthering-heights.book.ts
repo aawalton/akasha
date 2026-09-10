@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const wutheringHeights = {
   id: "019db533-f39d-75c7-a08f-28e2179f0faa",

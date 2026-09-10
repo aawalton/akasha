@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const azarinthHealer2 = {
   id: "019db533-f390-78e1-9793-ab289d1432e4",

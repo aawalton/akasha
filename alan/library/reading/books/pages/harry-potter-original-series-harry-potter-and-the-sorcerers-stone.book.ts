@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const harryPotterOriginalSeriesHarryPotterAndTheSorcerersStone = {
   id: "019db533-f38b-703d-b7af-4f6a42d366f8",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const melodyOfMana4 = {
   id: "019db533-f391-7285-a1bb-2c963c47de25",

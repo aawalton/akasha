@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGreatBooksOfTheWesternWorld8AristotleIi = {
   id: "019db533-f39d-77c3-8d44-34ee333e256a",

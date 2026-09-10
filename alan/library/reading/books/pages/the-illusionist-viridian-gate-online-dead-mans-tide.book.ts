@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theIllusionistViridianGateOnlineDeadMansTide = {
   id: "019db533-f38a-7302-9d7a-b1529f7d52e9",

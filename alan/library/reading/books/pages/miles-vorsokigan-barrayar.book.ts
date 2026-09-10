@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const milesVorsokiganBarrayar = {
   id: "019db533-f39b-71b9-a3b2-b895eaad3359",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const artoriansArchivesAntelucan = {
   id: "019db533-f390-77be-b946-721b07a17af5",

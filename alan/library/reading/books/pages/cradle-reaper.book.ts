@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const cradleReaper = {
   id: "019db533-f390-7bf1-b328-8d326a24cdd1",

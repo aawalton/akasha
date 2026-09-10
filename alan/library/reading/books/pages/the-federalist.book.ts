@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theFederalist = {
   id: "019db533-f39d-78cf-8ee5-37c911a5eb2d",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const guardianOfAsterFallAstralThreads = {
   id: "019db533-f390-7fc1-ae29-b8d039b2f719",

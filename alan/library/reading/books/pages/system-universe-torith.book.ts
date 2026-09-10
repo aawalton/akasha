@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const systemUniverseTorith = {
   id: "019db533-f391-777c-9435-bae67f619e7a",

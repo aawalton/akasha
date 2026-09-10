@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const milesVorsokiganTheVorGame = {
   id: "019db533-f39a-7876-911b-590b6244e8c7",

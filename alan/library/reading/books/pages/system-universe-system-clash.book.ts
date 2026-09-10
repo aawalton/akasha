@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const systemUniverseSystemClash = {
   id: "019db533-f388-7f07-a95d-b1b3d9e44566",

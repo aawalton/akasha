@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const vorkosiganSagaWinterfairGifts = {
   id: "019db533-f39a-7839-bf22-f4b378b74613",

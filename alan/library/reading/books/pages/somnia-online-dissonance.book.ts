@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const somniaOnlineDissonance = {
   id: "019db533-f391-7616-8a0c-caa837288d32",

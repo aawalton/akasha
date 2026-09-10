@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGreatBooksOfTheWesternWorld14Tacitus = {
   id: "019db533-f39d-7906-9f6a-7b88578df4a5",

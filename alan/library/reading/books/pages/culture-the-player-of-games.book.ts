@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const cultureThePlayerOfGames = {
   id: "019db533-f39a-79f1-983d-0641fa6ffbb1",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const disgardiumGloryToTheDominion = {
   id: "019db533-f390-7d67-8d40-050e31c702cc",

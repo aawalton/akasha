@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const legionSkinDeep = {
   id: "019db533-f38a-7c1b-8f24-2ead76493597",

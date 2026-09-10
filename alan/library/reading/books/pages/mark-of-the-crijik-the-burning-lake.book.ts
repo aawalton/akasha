@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const markOfTheCrijikTheBurningLake = {
   id: "019db533-f391-71a4-8f63-b2aa7ef4224d",

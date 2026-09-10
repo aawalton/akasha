@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const monsterHuntersInternationalMonsterHunterLegion = {
   id: "019db533-f39a-7f1c-9962-a6fd3a27cb7c",

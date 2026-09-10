@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const swordArtOnlineAlternativeGunGaleOnlineFiveOrdeals = {
   id: "019db533-f38b-7268-b609-8e3eabc19861",

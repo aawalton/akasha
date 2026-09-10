@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theBeginningOfInfinity2 = {
   id: "019db533-f39e-7196-8c32-fdac049597a6",

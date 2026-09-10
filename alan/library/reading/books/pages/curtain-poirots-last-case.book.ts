@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const curtainPoirotsLastCase = {
   id: "019db533-f399-7b60-977d-fe8b9f34eaa8",

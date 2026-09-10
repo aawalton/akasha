@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const expeditionaryForceCriticalMass = {
   id: "019db533-f39b-714e-9808-fdc34e90278c",

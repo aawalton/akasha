@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const sectorGeneralMindChanger = {
   id: "019db533-f39a-7ebf-a9d7-ccccf02fe083",

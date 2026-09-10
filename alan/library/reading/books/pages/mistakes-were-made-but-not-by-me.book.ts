@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const mistakesWereMadeButNotByMe = {
   id: "019db533-f39e-70f4-9c55-d825c16f2361",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const weaponsAndWieldersDiamantine = {
   id: "019db533-f38a-7399-81fe-38a8144b1ea3",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const rcnSeriesWhatDistantDeeps = {
   id: "019db533-f39a-7840-a8c9-95aa38c7b175",

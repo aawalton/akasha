@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const linksOfWaltonHistory = {
   id: "019db533-f39d-7aaf-bede-a7518b011603",

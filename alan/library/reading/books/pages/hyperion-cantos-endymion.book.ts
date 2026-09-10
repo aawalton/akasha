@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const hyperionCantosEndymion = {
   id: "019db533-f39b-70ae-809a-51545820e32a",

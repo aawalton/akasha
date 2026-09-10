@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const brainRules = {
   id: "019db533-f39e-715a-8daf-30f7e04dc639",

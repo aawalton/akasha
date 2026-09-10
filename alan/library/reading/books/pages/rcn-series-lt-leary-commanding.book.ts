@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const rcnSeriesLtLearyCommanding = {
   id: "019db533-f39a-7f82-bbfe-996476b9f9b5",

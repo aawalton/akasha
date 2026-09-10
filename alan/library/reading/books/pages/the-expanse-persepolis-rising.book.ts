@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theExpansePersepolisRising = {
   id: "019db533-f39a-7c20-b914-8b7c7465432d",

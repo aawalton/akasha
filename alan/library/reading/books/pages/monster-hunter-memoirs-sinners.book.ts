@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const monsterHunterMemoirsSinners = {
   id: "019db533-f39a-7f48-be12-52b6cef0c27f",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const guardianOfAsterFallWorldSeal = {
   id: "019db533-f391-700e-b419-0b766ec2e076",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const cradleWaybound = {
   id: "019db533-f390-7bd0-a0f3-4dea5172f43f",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const aTaleOfTwoCities = {
   id: "019db533-f39d-7c1f-b596-2fc44a252246",

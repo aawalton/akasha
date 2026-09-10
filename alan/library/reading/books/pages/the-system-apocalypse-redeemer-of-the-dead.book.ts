@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theSystemApocalypseRedeemerOfTheDead = {
   id: "019db533-f391-7bfe-b901-3d0ac8fc594c",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const rcnSeriesToClearAwayTheShadows = {
   id: "019db533-f39a-79eb-a920-935a694b6505",

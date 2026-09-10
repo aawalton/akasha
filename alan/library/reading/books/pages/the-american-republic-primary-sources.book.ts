@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theAmericanRepublicPrimarySources = {
   id: "019db533-f39d-790d-854e-a9d5151efa91",

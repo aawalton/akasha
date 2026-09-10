@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const speedrunningTheMultiverse4 = {
   id: "019db533-f391-7680-a12c-b61f8084c11a",

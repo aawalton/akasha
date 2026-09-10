@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const cultureSurfaceDetail = {
   id: "019db533-f39a-7ae3-9e24-dd0b148d3f20",

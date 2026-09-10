@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theCompletionistChroniclesRexusSideQuest = {
   id: "019db533-f391-7866-8a4f-00e78341263b",

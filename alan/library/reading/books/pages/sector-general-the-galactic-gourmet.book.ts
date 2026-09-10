@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const sectorGeneralTheGalacticGourmet = {
   id: "019db533-f38b-717a-97cd-91d1b1f69479",

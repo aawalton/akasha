@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const yourDeceptiveMindAScientificGuideToCriticalThinking = {
   id: "019db533-f39d-7f73-b29b-f0fadfd2980f",

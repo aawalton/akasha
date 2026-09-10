@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const harryPotterOriginalSeriesHarryPotterAndTheGobletOfFire = {
   id: "019db533-f38a-7ed3-942b-51099255d97e",

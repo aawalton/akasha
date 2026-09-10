@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const sermonsNotSpoken = {
   id: "019db533-f39d-7245-8964-260598dcc7a3",

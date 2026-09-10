@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theoriesOfHumanDevelopment = {
   id: "019db533-f39d-7f16-aaa2-14bd1a96d03a",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const riseOfTheDevourerAbyssalRift = {
   id: "019db533-f391-74f2-8dfd-931a0759ffab",

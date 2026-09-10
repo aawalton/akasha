@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const salvosTheTreasuresOfAlexander = {
   id: "019db533-f391-75da-81d4-8bfda3e80a1c",

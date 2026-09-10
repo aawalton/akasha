@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const doctrinalCommentaryOnTheBookOfMormonVolume3 = {
   id: "019db533-f39d-74c4-a3ce-fd8edeebef2e",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const evershore = {
   id: "019db533-f39c-7f8a-9bb5-62a9f0c05a6a",

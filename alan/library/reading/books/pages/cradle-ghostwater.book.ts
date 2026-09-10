@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const cradleGhostwater = {
   id: "019db533-f390-7c1e-9a45-120237365fb6",

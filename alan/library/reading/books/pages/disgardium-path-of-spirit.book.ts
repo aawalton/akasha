@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const disgardiumPathOfSpirit = {
   id: "019db533-f390-7d97-a287-6a8dc598f914",

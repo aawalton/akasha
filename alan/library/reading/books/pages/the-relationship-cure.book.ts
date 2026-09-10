@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theRelationshipCure = {
   id: "019db533-f39d-7e66-8fff-e08af2d7ee64",

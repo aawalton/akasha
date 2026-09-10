@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theSystemApocalypseCitiesInChains = {
   id: "019db533-f391-7bcf-b9f0-3474c9173865",

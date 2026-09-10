@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const platonic = {
   id: "019db533-f39e-70dc-a070-555275600b2c",

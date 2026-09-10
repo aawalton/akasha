@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theHollow = {
   id: "019db533-f399-7cf5-bccf-2a3f0e8b52e4",

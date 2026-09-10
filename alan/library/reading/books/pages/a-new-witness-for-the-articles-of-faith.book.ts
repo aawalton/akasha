@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const aNewWitnessForTheArticlesOfFaith = {
   id: "019db533-f39d-760b-84cb-03184bb4d149",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const disgardiumTheFinalBattleVolume1 = {
   id: "019db533-f390-7d4a-b97e-fd1ddd888164",

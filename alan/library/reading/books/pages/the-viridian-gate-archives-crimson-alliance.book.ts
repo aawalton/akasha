@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theViridianGateArchivesCrimsonAlliance = {
   id: "019db533-f38b-70d9-9662-b5aaa2ac536b",

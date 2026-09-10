@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const sylDiffusion = {
   id: "019db533-f391-7733-9a3c-4265a4ec32d7",

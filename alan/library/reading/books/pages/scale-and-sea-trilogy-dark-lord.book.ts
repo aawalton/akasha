@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const scaleAndSeaTrilogyDarkLord = {
   id: "019db533-f38a-74a7-b762-b4a436a319c4",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theSpaceTrilogyOutOfTheSilentPlanet = {
   id: "019db533-f39a-7de9-a334-a69a14de2b1c",

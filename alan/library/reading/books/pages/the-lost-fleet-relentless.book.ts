@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theLostFleetRelentless = {
   id: "019db533-f39a-78f0-b041-caa5fefd323f",

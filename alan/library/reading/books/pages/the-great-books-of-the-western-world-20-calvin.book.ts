@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGreatBooksOfTheWesternWorld20Calvin = {
   id: "019db533-f39d-78a5-b6f1-d507f41e7512",

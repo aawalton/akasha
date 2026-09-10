@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGreatBooksOfTheWesternWorld4AeschylusSophoclesEuripidesAristophanes = {
   id: "019db533-f39d-76d8-874f-c1a946c2ad59",

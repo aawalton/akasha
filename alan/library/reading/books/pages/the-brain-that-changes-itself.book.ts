@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theBrainThatChangesItself = {
   id: "019db533-f39d-7f0e-9fcb-0d9e0626cc17",

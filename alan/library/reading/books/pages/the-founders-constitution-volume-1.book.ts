@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theFoundersConstitutionVolume1 = {
   id: "019db533-f39d-73d4-9357-cfe8f7530893",

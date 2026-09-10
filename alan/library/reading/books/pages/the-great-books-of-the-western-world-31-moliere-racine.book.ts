@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGreatBooksOfTheWesternWorld31MoliereRacine = {
   id: "019db533-f39d-78e7-b628-8d4f35d89984",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGreatBooksOfTheWesternWorld42LavoisierFaraday = {
   id: "019db533-f39d-761b-ad77-c3567cc4f308",

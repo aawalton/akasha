@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const markOfTheCrijikGestiSky = {
   id: "019db533-f391-71e0-98ed-df451f3f281f",

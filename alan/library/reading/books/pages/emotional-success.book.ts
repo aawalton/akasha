@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const emotionalSuccess = {
   id: "019db533-f39e-719e-8a8e-c622a20a6456",

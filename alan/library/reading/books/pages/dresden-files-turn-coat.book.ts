@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const dresdenFilesTurnCoat = {
   id: "019db533-f39a-791e-aa14-149f27003d62",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const honorHarringtonStarKingdomFireSeason = {
   id: "019db533-f39b-709c-a617-5d54c97fe62d",

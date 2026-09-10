@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const swordArtOnlineAlternativeGunGaleOnlineSecondSquadJamFinish = {
   id: "019db533-f38b-7288-b07f-14ae51f2fe9d",

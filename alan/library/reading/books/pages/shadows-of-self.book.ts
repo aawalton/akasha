@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const shadowsOfSelf = {
   id: "019db533-f39d-7216-b217-41d019bc4919",

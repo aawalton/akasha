@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theFrugalWizardsHandbookForSurvivingMedievalEngland = {
   id: "019db533-f39d-727a-8930-c085885d6434",

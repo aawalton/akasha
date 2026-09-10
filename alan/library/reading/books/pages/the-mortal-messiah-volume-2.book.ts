@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theMortalMessiahVolume2 = {
   id: "019db533-f39d-71c6-9121-e5319b45c8c1",

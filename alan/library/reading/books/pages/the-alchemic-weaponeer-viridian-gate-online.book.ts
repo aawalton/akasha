@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theAlchemicWeaponeerViridianGateOnline = {
   id: "019db533-f38a-72d4-92ec-8953639b2237",

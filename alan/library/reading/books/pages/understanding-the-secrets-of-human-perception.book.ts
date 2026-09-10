@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const understandingTheSecretsOfHumanPerception = {
   id: "019db533-f39d-7ea5-b0eb-82ed7d79e240",

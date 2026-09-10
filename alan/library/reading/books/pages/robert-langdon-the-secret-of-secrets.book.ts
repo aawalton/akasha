@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const robertLangdonTheSecretOfSecrets = {
   id: "019db533-f38b-7169-8844-24b4ce70717f",

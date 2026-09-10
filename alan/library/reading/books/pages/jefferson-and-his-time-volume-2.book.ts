@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const jeffersonAndHisTimeVolume2 = {
   id: "019db533-f39d-748f-a3e1-777f6603bad4",

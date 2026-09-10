@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const shrubleyTheMonsterAdventurer2 = {
   id: "019db533-f38a-747d-bd1d-051e6580b9cf",

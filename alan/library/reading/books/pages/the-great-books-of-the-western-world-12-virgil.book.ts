@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGreatBooksOfTheWesternWorld12Virgil = {
   id: "019db533-f39d-792b-b0b9-bedc07563da5",

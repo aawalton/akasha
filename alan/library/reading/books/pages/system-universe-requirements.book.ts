@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const systemUniverseRequirements = {
   id: "019db533-f391-775d-987e-dd641ff4a212",

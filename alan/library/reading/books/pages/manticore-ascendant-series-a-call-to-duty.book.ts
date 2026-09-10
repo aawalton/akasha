@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const manticoreAscendantSeriesACallToDuty = {
   id: "019db533-f39b-744e-82c3-b2e42e931974",

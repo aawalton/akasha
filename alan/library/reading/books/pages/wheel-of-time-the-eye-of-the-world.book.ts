@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const wheelOfTimeTheEyeOfTheWorld = {
   id: "019db533-f39a-7a93-8539-7d17f5c455be",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const aPocketFullOfRye = {
   id: "019db533-f399-7b95-b8df-a25f20e1975e",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theCalamitousBobBlackManaGambit = {
   id: "019db533-f391-7802-8173-866e1764bc98",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGoodGuysFourBeheadingsAndAFuneral = {
   id: "019db533-f391-792f-bbc5-a78c00e5c91c",

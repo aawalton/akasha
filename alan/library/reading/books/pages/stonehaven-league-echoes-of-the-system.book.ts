@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const stonehavenLeagueEchoesOfTheSystem = {
   id: "019db533-f391-7687-9d61-b85a7d270f19",

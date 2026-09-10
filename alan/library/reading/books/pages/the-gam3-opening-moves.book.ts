@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGam3OpeningMoves = {
   id: "019db533-f391-7905-abea-9a9096308eea",

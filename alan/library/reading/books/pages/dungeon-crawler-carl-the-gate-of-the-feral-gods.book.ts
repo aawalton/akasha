@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const dungeonCrawlerCarlTheGateOfTheFeralGods = {
   id: "019db533-f390-7ed1-8b94-2bea6dc051b2",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const aTouchOfPowerSiphon = {
   id: "019db533-f390-7652-a5a0-e30e45d7c2d6",

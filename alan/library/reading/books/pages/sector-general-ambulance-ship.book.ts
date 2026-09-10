@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const sectorGeneralAmbulanceShip = {
   id: "019db533-f38b-739e-a892-d18098400788",

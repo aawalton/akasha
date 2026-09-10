@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theScienceOfTrust = {
   id: "019db533-f39d-7f6b-9140-56bd69fcd686",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const awakenOnlineTarotFlame = {
   id: "019db533-f390-78bd-a5f9-cd1e9ba0f506",

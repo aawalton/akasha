@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const discworldNightWatch = {
   id: "019db533-f388-7e54-9921-489f4c02ea14",

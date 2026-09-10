@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const troubleMagnet = {
   id: "019db533-f399-7aaa-b30d-556c3298f00a",

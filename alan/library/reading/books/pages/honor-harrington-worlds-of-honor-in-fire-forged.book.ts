@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const honorHarringtonWorldsOfHonorInFireForged = {
   id: "019db533-f39a-7fb0-9c34-2eee66e71a9e",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const selfCareForAutisticPeople = {
   id: "019db533-f39e-70b5-9252-27d1b80424a2",

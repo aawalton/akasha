@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const memoryAndTheHumanLifespan = {
   id: "019db533-f39e-700b-adce-9a78ff69b3d9",

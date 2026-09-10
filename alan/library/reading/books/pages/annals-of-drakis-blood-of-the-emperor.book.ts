@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const annalsOfDrakisBloodOfTheEmperor = {
   id: "019db533-f38b-7161-9219-9f8166a65e43",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const arcanumUnbounded = {
   id: "019db533-f39d-75d7-980d-7c911c4e2de9",

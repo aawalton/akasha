@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const sagewoodAWayHome = {
   id: "019db533-f391-7551-9480-21fc96c0dd12",

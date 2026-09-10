@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const runelordsTheLairOfBones = {
   id: "019db533-f39a-7858-90f9-868f6f51a599",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const fantasticBeastsTheOriginalScreenplay = {
   id: "019db533-f38b-7046-9fab-cbe676b0732f",

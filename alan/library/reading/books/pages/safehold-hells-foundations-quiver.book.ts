@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const safeholdHellsFoundationsQuiver = {
   id: "019db533-f39a-7fa9-b843-79bbbdd4555d",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const teachingsOfHeberJGrant = {
   id: "019db533-f39d-7977-a982-e7488a4b983e",

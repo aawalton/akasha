@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const millennialMageEskau = {
   id: "019db533-f391-72f4-95f7-40c3a7c3abe0",

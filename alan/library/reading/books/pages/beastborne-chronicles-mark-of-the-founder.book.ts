@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const beastborneChroniclesMarkOfTheFounder = {
   id: "019db533-f390-7574-99cc-189eeecdc0e2",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const blink = {
   id: "019db533-f39e-7152-a1a6-e24ba6646347",

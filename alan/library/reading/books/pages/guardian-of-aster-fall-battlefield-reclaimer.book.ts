@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const guardianOfAsterFallBattlefieldReclaimer = {
   id: "019db533-f391-701f-bab2-b4d0ca97e8d2",

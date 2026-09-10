@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const algorithmsToLiveBy = {
   id: "019db533-f39e-71ad-8cce-b0cc7be996f5",

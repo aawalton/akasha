@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const wheelOfTimeNewSpring = {
   id: "019db533-f38a-7d8e-ad35-b522b583f6c6",

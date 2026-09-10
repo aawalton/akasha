@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theHistoryOfJosephSmithByHisMother = {
   id: "019db533-f39d-76b9-955f-cdc741ad748a",

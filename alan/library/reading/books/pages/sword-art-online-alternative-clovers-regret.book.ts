@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const swordArtOnlineAlternativeCloversRegret = {
   id: "019db533-f386-775e-a28f-c854fe6e15b1",

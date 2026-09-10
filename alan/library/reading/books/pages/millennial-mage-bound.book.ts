@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const millennialMageBound = {
   id: "019db533-f391-730b-b5f1-aa4da066368f",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const expeditionaryForceBrushfire = {
   id: "019db533-f39b-72ea-b8fe-2a765823b760",

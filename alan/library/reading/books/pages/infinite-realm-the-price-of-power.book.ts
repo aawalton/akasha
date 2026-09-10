@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const infiniteRealmThePriceOfPower = {
   id: "019db533-f391-7b62-ab98-986f7812fde9",

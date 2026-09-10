@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theViridianGateArchivesEmpiricalEndgame = {
   id: "019db533-f391-7c09-b241-fd3865d71072",

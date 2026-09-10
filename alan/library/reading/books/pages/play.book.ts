@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const play = {
   id: "019db533-f39e-7022-91f9-bae533384e16",

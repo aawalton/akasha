@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const grit = {
   id: "019db533-f39e-71c5-bcac-b94486a52980",

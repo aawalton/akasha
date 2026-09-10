@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const dragonsong = {
   id: "019db533-f399-7dcb-a5c6-af401904d3fa",

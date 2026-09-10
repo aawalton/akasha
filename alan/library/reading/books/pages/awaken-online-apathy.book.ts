@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const awakenOnlineApathy = {
   id: "019db533-f390-787c-916f-9a3c28c1eaa9",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theCompletionistChroniclesTenacity = {
   id: "019db533-f391-7833-bc42-64eae1ec9776",

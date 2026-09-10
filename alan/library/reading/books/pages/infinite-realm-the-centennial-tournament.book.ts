@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const infiniteRealmTheCentennialTournament = {
   id: "019db533-f391-7b5a-b8a3-ca0d3a9aff23",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const awakenOnlineArmageddon = {
   id: "019db533-f390-7853-bd29-f4418760c46f",

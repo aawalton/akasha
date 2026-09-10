@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const arcaneAscensionABriefHistoryOfChronomancy = {
   id: "019db533-f38a-73ad-a609-94e9d211f056",

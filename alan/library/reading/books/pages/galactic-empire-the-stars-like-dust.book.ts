@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const galacticEmpireTheStarsLikeDust = {
   id: "019db533-f39a-79dd-a76f-1f803846ba5d",

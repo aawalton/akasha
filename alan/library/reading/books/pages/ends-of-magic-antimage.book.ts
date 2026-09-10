@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const endsOfMagicAntimage = {
   id: "019db533-f390-7f88-a945-dcadae075e1a",

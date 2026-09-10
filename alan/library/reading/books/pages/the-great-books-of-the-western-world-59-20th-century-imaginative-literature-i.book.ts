@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGreatBooksOfTheWesternWorld5920thCenturyImaginativeLiteratureI = {
   id: "019db533-f39d-77bb-97c8-60e300c5d26a",

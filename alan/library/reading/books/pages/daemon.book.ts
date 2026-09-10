@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const daemon = {
   id: "019db533-f39b-7309-971e-bf4518eec2e0",

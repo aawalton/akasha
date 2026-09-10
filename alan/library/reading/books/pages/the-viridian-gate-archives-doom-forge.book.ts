@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theViridianGateArchivesDoomForge = {
   id: "019db533-f38b-70a3-b4ae-a470bec1a064",

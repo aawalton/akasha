@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theChecklistManifesto = {
   id: "019db533-f39d-7e96-852e-18961bb77d31",

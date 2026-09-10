@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const strayCatStrut2 = {
   id: "019db533-f391-76f7-865a-8c4a2c0808b6",

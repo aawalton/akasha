@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const safeholdAMightyFortress = {
   id: "019db533-f39b-72a0-8380-acb6bbe9c4ec",

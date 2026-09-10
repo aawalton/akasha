@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const milesVorsokiganMirrorDance = {
   id: "019db533-f39a-7e3e-82eb-0cc2189e2c3c",

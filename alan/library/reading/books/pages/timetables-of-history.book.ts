@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const timetablesOfHistory = {
   id: "019db533-f39d-75e7-b285-f65a41cd0692",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const bushidoOnlineFriendsAndFoes = {
   id: "019db533-f390-7a64-aaa9-25077ea137de",

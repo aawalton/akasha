@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const honorHarringtonWorldsOfHonorBeginnings = {
   id: "019db533-f39b-71da-813a-bc19bdf51e06",

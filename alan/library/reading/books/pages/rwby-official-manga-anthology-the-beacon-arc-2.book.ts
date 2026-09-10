@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const rwbyOfficialMangaAnthologyTheBeaconArc2 = {
   id: "019db533-f38b-71b0-948e-efd9a830bf3c",

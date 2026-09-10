@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const godelEscherBachAnEternalGoldenBraid = {
   id: "019db533-f39d-79fc-bcb1-58193fb074aa",

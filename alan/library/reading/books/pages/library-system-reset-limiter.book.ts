@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const librarySystemResetLimiter = {
   id: "019db533-f391-7191-956f-8d0ad2c6f286",

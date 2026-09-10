@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const honorHarringtonCrownOfSlavesTorchOfFreedom = {
   id: "019db533-f39a-78c4-b3ea-a071fc3d339a",

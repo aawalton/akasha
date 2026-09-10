@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const spaceOdyssey3001TheFinalOdyssey = {
   id: "019db533-f39b-74a8-9124-5eae2f660833",

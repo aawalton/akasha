@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const everythingIsTuberculosis = {
   id: "019db533-f39e-71e5-8b0b-c8da4c67bd54",

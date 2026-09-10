@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const beastborneChroniclesCrucible = {
   id: "019db533-f390-7905-9d43-aa60b62e0ee9",

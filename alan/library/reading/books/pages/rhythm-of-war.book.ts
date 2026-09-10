@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const rhythmOfWar = {
   id: "019db533-f39d-70eb-8f3c-ce97fd0328b1",

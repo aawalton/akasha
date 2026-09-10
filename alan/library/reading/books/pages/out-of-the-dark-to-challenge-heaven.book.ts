@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const outOfTheDarkToChallengeHeaven = {
   id: "019db533-f39a-7862-92b0-6a9a3d6ecc15",

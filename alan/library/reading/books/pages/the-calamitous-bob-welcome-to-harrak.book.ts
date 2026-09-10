@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theCalamitousBobWelcomeToHarrak = {
   id: "019db533-f391-7824-a972-f8a00e701a23",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const ofOneHeartLookBackAtSodom = {
   id: "019db533-f39d-707c-938c-4f3e75be12a9",

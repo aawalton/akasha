@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGreatBooksOfTheWesternWorld21MachiavelliHobbes = {
   id: "019db533-f39d-7861-a9f3-5de3ee487e3e",

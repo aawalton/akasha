@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const sagewoodRestoreTheFarm = {
   id: "019db533-f391-7568-9c8c-9ab37643a18f",

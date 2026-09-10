@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theWhisperingCrystalsUnnaturalLaws = {
   id: "019db533-f38b-759c-b8ce-5f143b670222",

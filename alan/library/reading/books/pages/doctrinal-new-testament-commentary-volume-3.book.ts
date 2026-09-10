@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const doctrinalNewTestamentCommentaryVolume3 = {
   id: "019db533-f39d-71ef-9c69-acb7c6b8895f",

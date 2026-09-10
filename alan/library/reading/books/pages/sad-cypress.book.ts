@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const sadCypress = {
   id: "019db533-f399-7c40-a1f2-ab312d9bfb74",

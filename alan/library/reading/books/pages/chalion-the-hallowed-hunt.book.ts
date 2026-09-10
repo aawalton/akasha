@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const chalionTheHallowedHunt = {
   id: "019db533-f39a-7bd2-b8c9-39e15bdd9563",

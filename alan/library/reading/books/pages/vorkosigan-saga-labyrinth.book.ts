@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const vorkosiganSagaLabyrinth = {
   id: "019db533-f39a-7e7f-8c52-ca805dbb6f38",

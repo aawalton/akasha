@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const aThousandLiTheSecondSect = {
   id: "019db533-f390-7618-bc01-45777a71a3e7",

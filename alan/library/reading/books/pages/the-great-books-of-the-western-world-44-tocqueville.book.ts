@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGreatBooksOfTheWesternWorld44Tocqueville = {
   id: "019db533-f39d-76c1-97c6-03ab8fdb0404",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const disgardiumWhispersOfTheNether = {
   id: "019db533-f390-7d58-9670-da513183e849",

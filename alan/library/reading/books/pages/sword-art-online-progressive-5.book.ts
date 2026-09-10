@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const swordArtOnlineProgressive5 = {
   id: "019db533-f391-7713-9d16-ddff8bced015",

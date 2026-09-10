@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const marchUpcountryMarchToTheSea = {
   id: "019db533-f39a-7e9f-b861-7d3a8f086399",

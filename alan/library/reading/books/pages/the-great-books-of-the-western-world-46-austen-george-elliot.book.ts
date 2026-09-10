@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGreatBooksOfTheWesternWorld46AustenGeorgeElliot = {
   id: "019db533-f39d-7705-9721-52eacf762553",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const pyresoulsApocalypseFuturesGrave = {
   id: "019db533-f391-743e-8737-ee12c6ccad02",

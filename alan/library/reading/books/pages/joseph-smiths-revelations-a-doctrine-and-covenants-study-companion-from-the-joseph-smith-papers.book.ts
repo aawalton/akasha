@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const josephSmithsRevelationsADoctrineAndCovenantsStudyCompanionFromTheJosephSmithPapers = {
   id: "019db533-f39d-7a13-8b50-a5b64b8aa23f",

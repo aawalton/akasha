@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const dungeonCrawlerCarlThisInevitableRuin = {
   id: "019db533-f390-7ee8-ac15-c0dd9fe3a9f2",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theIntrovertAdvantage = {
   id: "019db533-f39d-7f3d-b0b0-7ee023e80d05",

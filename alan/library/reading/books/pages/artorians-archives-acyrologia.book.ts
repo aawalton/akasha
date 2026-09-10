@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const artoriansArchivesAcyrologia = {
   id: "019db533-f390-77f2-9254-bf1e439d9b06",

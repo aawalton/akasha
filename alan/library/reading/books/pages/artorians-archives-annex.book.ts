@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const artoriansArchivesAnnex = {
   id: "019db533-f390-7830-b3f0-506b95505573",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const tressOfTheEmeraldSea = {
   id: "019db533-f39d-73dc-a901-480ec54aa67f",

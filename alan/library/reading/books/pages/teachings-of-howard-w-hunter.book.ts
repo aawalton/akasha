@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const teachingsOfHowardWHunter = {
   id: "019db533-f39d-7a89-97d5-d8e9472890ad",

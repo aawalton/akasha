@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const galacticEmpirePebbleInTheSky = {
   id: "019db533-f39a-7c5d-9396-0c15a1961f04",

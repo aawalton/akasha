@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const makeItStick = {
   id: "019db533-f39e-7059-98d5-dadf188137c3",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const runelordsTheWyrmlingHorde = {
   id: "019db533-f39a-7a2f-bb9e-25160e96bfa6",

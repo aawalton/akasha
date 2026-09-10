@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const earthenContendersUnaffiliatedHealer = {
   id: "019db533-f390-7f15-b58b-be9293f3dae1",

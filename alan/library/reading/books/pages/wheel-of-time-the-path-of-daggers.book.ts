@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const wheelOfTimeThePathOfDaggers = {
   id: "019db533-f39a-79c5-9a1c-59b5559a6db4",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const disgardiumClassAThreat = {
   id: "019db533-f390-7dbe-a698-1bd76c55ed7f",

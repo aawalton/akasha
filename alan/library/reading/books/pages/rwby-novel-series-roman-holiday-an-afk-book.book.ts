@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const rwbyNovelSeriesRomanHolidayAnAfkBook = {
   id: "019db533-f38b-71d1-8fc6-14b76b0d961f",

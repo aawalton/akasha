@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theElderEmpireShadowOfKillersAndKings = {
   id: "019db533-f39a-7df4-a99b-dcd8f19e97a2",

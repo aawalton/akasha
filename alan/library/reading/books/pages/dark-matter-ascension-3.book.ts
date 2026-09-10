@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const darkMatterAscension3 = {
   id: "019db533-f390-7c6e-9f7c-c61135e365d8",

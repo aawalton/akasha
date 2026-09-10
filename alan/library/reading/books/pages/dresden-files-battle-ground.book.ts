@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const dresdenFilesBattleGround = {
   id: "019db533-f39b-7326-9ddc-b0674a7b4579",

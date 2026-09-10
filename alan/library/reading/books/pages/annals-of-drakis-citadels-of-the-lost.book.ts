@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const annalsOfDrakisCitadelsOfTheLost = {
   id: "019db533-f39b-71ea-8038-e039bc5931a0",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const chalionTheCurseOfChalion = {
   id: "019db533-f39a-7aa1-85ca-006797d633bc",

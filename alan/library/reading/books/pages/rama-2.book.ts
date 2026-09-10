@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const rama2 = {
   id: "019db533-f39a-7d69-b3d3-6848491f9279",

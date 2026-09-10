@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const hiddenPotential = {
   id: "019db533-f39e-722d-b1a9-b056924a0864",

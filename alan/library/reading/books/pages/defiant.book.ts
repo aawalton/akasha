@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const defiant = {
   id: "019db533-f39c-7fff-89d0-2bc7b1b8eb0c",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const vattasWarMarqueAndReprisal = {
   id: "019db533-f39a-7f64-8143-2de092f4e2f4",

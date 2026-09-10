@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theSecretLifeOfTheGrownUpBrain = {
   id: "019db533-f39d-7e87-a07a-775604f8f5a4",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const tenLessonsToTransformYourMarriage = {
   id: "019db533-f39e-70bd-9895-e27bdf3e37fd",

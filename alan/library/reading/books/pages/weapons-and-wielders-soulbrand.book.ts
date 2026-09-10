@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const weaponsAndWieldersSoulbrand = {
   id: "019db533-f38a-73a2-b7c9-debf45bb895f",

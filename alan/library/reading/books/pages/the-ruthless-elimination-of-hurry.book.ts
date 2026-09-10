@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theRuthlessEliminationOfHurry = {
   id: "019db533-f388-7ef0-9b5f-c376ac4d928d",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const breakerOfHorizonsBook1 = {
   id: "019db533-f390-7a6b-9968-8495903fa30b",

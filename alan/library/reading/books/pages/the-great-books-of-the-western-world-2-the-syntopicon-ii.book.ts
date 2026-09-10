@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGreatBooksOfTheWesternWorld2TheSyntopiconIi = {
   id: "019db533-f39d-78d7-bcef-a5ba404dd3be",

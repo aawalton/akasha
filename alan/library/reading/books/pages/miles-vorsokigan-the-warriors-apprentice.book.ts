@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const milesVorsokiganTheWarriorsApprentice = {
   id: "019db533-f39a-7a36-b3f6-9e6bb8074f8c",

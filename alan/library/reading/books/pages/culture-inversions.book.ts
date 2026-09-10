@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const cultureInversions = {
   id: "019db533-f39a-7f74-aa81-fd55cdbac5c1",

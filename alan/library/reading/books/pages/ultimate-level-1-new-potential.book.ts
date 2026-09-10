@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const ultimateLevel1NewPotential = {
   id: "019db533-f38b-7127-8284-06d347113edf",

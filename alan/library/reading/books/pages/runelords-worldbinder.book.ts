@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const runelordsWorldbinder = {
   id: "019db533-f39a-77fa-9dca-e6452e993c75",

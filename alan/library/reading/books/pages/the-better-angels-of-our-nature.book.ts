@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theBetterAngelsOfOurNature = {
   id: "019db533-f39e-7096-a7d8-2b3b8adbff20",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const somniaOnlineAnomaly = {
   id: "019db533-f391-7652-90aa-5028224b4093",

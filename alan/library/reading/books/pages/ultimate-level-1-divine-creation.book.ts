@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const ultimateLevel1DivineCreation = {
   id: "019db533-f38a-7520-b429-c494c188696d",

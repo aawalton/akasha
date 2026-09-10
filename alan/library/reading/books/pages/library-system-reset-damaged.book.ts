@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const librarySystemResetDamaged = {
   id: "019db533-f391-71c2-b73f-ea7726632dd2",

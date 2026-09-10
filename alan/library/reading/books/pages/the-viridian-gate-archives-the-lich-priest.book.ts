@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theViridianGateArchivesTheLichPriest = {
   id: "019db533-f38b-7096-bec1-ec0369aae6a9",

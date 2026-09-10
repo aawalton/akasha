@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const factfulness = {
   id: "019db533-f39e-7187-881e-c6d708b92b6a",

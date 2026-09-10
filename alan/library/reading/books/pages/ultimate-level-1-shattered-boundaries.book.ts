@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const ultimateLevel1ShatteredBoundaries = {
   id: "019db533-f38b-7116-87e0-f8515d559739",

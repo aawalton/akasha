@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const warGodWarMaidsChoice = {
   id: "019db533-f39a-7a4c-9d0d-3eaa17bc7516",

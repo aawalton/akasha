@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const beastborneChroniclesTowerOfBlight = {
   id: "019db533-f390-790e-b4d4-77bb593d07df",

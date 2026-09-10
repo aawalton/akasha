@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const runelordsChaosbound = {
   id: "019db533-f39b-7238-a20f-bcf937be9ac9",

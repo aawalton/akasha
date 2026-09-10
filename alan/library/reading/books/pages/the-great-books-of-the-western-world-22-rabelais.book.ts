@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGreatBooksOfTheWesternWorld22Rabelais = {
   id: "019db533-f39d-784e-a86c-80aa490be40c",

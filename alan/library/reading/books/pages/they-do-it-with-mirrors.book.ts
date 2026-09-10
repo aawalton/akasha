@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theyDoItWithMirrors = {
   id: "019db533-f399-7baa-b8de-d8c412c5c544",

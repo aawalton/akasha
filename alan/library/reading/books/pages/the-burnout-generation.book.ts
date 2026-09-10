@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theBurnoutGeneration = {
   id: "019db533-f39d-7f54-86da-4af9be2c8cd9",

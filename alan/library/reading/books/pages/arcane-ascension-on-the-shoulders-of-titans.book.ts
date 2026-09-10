@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const arcaneAscensionOnTheShouldersOfTitans = {
   id: "019db533-f38a-7403-a97f-1ce3e4e1d476",

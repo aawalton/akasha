@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const swordArtOnline12 = {
   id: "019db533-f38b-732d-98e4-9db72e89d65c",

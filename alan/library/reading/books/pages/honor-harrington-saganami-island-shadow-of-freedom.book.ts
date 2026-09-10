@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const honorHarringtonSaganamiIslandShadowOfFreedom = {
   id: "019db533-f39a-7d20-9782-6fa8781f7565",

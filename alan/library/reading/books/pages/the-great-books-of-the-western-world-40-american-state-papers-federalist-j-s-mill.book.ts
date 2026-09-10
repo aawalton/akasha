@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGreatBooksOfTheWesternWorld40AmericanStatePapersFederalistJSMill = {
   id: "019db533-f39d-76e0-99cd-d943a2b9e612",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const scaleAndSeaTrilogyGloamtideGuild = {
   id: "019db533-f38a-7496-b9f1-2aac80e91799",

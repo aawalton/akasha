@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theMovingFinger = {
   id: "019db533-f399-7c4a-847f-5ac2c2baa8df",

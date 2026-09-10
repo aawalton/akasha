@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const discworldMovingPictures = {
   id: "019db533-f39a-7d89-97b3-3c76d32b77e4",

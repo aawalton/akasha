@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const milesVorsokiganKomarr = {
   id: "019db533-f39a-7f05-b2f3-f77919a502fe",

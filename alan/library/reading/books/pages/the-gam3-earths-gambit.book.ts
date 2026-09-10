@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theGam3EarthsGambit = {
   id: "019db533-f391-78f5-a799-ead760aff5f9",

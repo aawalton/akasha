@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const administrativeRecords = {
   id: "019db533-f39d-7c5e-b352-8559beed64ba",

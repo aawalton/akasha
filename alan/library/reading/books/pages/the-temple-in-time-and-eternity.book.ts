@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theTempleInTimeAndEternity = {
   id: "019db533-f39d-757e-8ec2-892fd05a9f7b",

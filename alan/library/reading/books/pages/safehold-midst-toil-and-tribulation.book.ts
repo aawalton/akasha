@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const safeholdMidstToilAndTribulation = {
   id: "019db533-f39a-7e34-a9a7-0c4bf6855cd4",

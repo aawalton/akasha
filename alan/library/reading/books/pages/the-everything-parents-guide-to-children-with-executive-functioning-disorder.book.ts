@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theEverythingParentsGuideToChildrenWithExecutiveFunctioningDisorder = {
   id: "019db533-f393-77dd-ba72-e7714bf984b0",

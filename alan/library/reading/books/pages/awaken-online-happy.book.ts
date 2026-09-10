@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const awakenOnlineHappy = {
   id: "019db533-f390-785b-9f21-e886031fd622",

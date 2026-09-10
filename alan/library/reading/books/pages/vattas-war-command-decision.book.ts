@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const vattasWarCommandDecision = {
   id: "019db533-f39b-72c5-9c19-b1a5a596fbe5",

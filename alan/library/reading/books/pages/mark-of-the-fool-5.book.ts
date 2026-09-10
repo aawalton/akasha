@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const markOfTheFool5 = {
   id: "019db533-f391-7235-9235-f54f7514943c",

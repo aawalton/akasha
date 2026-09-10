@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const teachingsOfJosephFieldingSmithPart1 = {
   id: "019db533-f39d-7327-b6cf-b3410fe63452",

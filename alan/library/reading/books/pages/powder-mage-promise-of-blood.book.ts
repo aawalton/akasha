@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const powderMagePromiseOfBlood = {
   id: "019db533-f39a-7bf8-afcd-f9fea3e7d954",

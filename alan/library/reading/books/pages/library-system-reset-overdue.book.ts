@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const librarySystemResetOverdue = {
   id: "019db533-f391-71d0-a25b-457abdb50720",

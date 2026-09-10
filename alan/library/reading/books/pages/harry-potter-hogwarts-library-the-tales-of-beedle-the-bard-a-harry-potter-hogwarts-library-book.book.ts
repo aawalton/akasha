@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const harryPotterHogwartsLibraryTheTalesOfBeedleTheBardAHarryPotterHogwartsLibraryBook = {
   id: "019db533-f38b-707e-af18-ac73e95d97a8",

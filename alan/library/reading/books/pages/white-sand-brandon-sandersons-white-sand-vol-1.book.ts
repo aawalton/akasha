@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const whiteSandBrandonSandersonsWhiteSandVol1 = {
   id: "019db533-f38a-7c29-9473-afee9126d674",

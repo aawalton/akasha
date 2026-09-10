@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const infiniteRealmTheRunesmith = {
   id: "019db533-f391-7b34-8338-52fdc40eb95d",

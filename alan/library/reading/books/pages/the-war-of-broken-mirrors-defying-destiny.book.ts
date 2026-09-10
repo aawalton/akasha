@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theWarOfBrokenMirrorsDefyingDestiny = {
   id: "019db533-f39b-731f-b6cb-af7116df10db",

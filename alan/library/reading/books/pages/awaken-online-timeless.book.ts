@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const awakenOnlineTimeless = {
   id: "019db533-f390-784b-842c-b54c3ee5fd92",

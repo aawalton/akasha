@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const rcnSeriesTheRoadOfDanger = {
   id: "019db533-f39a-79cd-a66d-700f6fa62ec6",

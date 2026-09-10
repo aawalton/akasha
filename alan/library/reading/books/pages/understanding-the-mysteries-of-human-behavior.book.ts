@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const understandingTheMysteriesOfHumanBehavior = {
   id: "019db533-f39d-7f4c-81dc-0e4684266b2c",

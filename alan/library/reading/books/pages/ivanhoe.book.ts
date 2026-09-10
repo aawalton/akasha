@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const ivanhoe = {
   id: "019db533-f39d-79d6-acfa-9ad6ac5ce45e",

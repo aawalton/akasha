@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const arcaneAscensionSufficientlyAdvancedMagic = {
   id: "019db533-f38a-73f2-afb9-9054d65e3bdc",

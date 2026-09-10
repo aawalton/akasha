@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const murderInMesopotamia = {
   id: "019db533-f399-7d2a-8669-1b9f79c101cc",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const marsTrilogyGreenMars = {
   id: "019db533-f39b-70a6-861d-49199813f464",

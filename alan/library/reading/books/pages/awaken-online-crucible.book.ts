@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const awakenOnlineCrucible = {
   id: "019db533-f386-76fa-9d08-f7e093cdd45a",

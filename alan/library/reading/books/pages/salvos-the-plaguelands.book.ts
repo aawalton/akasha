@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const salvosThePlaguelands = {
   id: "019db533-f391-75f2-bc7c-2d16bf4e0030",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const dresdenFilesSkinGame = {
   id: "019db533-f39a-7d3e-bff6-2020fa49a4c0",

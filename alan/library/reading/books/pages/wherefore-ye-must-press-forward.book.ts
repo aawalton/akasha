@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const whereforeYeMustPressForward = {
   id: "019db533-f39c-7fba-9cd6-38aab60fc370",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const beneathTheDragoneyeMoonsMoonfall = {
   id: "019db533-f390-794a-b69c-03219cd0834a",

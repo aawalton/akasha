@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const rewire = {
   id: "019db533-f39e-7060-9558-251a590c33fd",

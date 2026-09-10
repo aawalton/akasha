@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const weTalkOfChristWeRejoiceInChrist = {
   id: "019db533-f39c-7fa9-8961-6d19d55f140e",

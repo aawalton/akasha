@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const systemUniverseTrialsOfCydaria = {
   id: "019db533-f391-7765-90a6-67e1eb70b979",

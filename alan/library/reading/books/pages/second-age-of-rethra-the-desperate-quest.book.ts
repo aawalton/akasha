@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const secondAgeOfRethraTheDesperateQuest = {
   id: "019db533-f38a-7d77-a1e5-f0f681870727",

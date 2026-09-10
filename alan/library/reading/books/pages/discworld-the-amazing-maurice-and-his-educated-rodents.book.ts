@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const discworldTheAmazingMauriceAndHisEducatedRodents = {
   id: "019db533-f388-7e3d-b1df-28c2558beb2b",

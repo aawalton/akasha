@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const annalsOfAmericaVolume21 = {
   id: "019db533-f39d-7b8e-ac36-86821e22c3f8",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const theLastHorizonThePilot = {
   id: "019db533-f38a-7ebf-ad91-577a22947daf",

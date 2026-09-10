@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const awakenOnlinePrecipice = {
   id: "019db533-f390-7884-a525-403ccd8912cc",

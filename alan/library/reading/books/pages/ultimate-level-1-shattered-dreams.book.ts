@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const ultimateLevel1ShatteredDreams = {
   id: "019db533-f38b-7130-8314-1602a5c445c4",

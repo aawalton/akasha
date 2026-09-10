@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const powderMageTheAutumnRepublic = {
   id: "019db533-f39a-7b28-8573-205c8f8de3ed",

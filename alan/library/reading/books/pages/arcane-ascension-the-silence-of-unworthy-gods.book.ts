@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const arcaneAscensionTheSilenceOfUnworthyGods = {
   id: "019db533-f38a-73cc-9c00-87e4df80f795",

@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const rcnSeriesInTheStormyRedSky = {
   id: "019db533-f39a-7ffa-874e-3eaa74387831",

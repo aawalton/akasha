@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const notwithstandingMyWeakness = {
   id: "019db533-f39d-70f3-8a02-cf7d068e0ac4",

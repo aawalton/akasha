@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const fantasticBeastsTheSecretsOfDumbledoreTheCompleteScreenplay = {
   id: "019db533-f38b-7064-9e76-f7f12cd57ae0",

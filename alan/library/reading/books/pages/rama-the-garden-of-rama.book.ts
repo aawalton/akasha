@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const ramaTheGardenOfRama = {
   id: "019db533-f39a-7bea-8861-6bcffc4e0f5e",

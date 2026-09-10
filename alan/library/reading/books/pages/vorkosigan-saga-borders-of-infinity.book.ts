@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const vorkosiganSagaBordersOfInfinity = {
   id: "019db533-f39b-7140-b424-72748107a0d4",

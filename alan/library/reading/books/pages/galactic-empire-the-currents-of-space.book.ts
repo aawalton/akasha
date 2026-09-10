@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const galacticEmpireTheCurrentsOfSpace = {
   id: "019db533-f39a-7bb2-9fa2-3dc3056e76f1",

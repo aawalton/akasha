@@ -1,4 +1,4 @@
-import type { Book } from "../book.page-type.ts"
+import type { Book } from "../book.page-type.types.ts"
 
 export const thePromiseOfDiscipleship = {
   id: "019db533-f39d-70a3-bf90-5a956a4fe5ff",
