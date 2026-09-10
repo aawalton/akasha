@@ -77,7 +77,6 @@ export const persona = {
     { pageProperty: "file-property/desktop-wallpaper", required: false, many: false },
     { pageProperty: "file-property/mobile-wallpaper", required: false, many: false },
   ],
-  worked: "ts",
   invariants: [
     {
       invariantKind: "departure",
