@@ -27,7 +27,7 @@ export const rankProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A rung is read off a rank property's own file, where the values are.",
+      statement: "A rung is read off a rank property's own file.",
     },
     {
       invariantKind: "gap",
