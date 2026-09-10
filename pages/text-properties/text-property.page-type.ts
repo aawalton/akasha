@@ -5,7 +5,7 @@ import type { NameFormat } from "./properties/name-format.relation-property.ts"
 
 export type TextProperty = PageProperty & {
   maxLength: MaxLength
-  nameFormat: NameFormat | null
+  nameFormat: NameFormat
 }
 
 export const textProperty = {

@@ -62,6 +62,10 @@ export const seatStating = {
       statement: "The seat page type is reached by the id it keeps rather than by its slug.",
     },
     {
+      invariantKind: "departure",
+      statement: "The type a seat's page names is imported from the file the page type states.",
+    },
+    {
       invariantKind: "constraint",
       statement: "A stop takes away the page an address is read from.",
     },

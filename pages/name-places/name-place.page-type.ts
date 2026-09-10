@@ -3,7 +3,7 @@ import type { NameFormat } from "../text-properties/properties/name-format.relat
 import type { PageType } from "../types/page-type.page-type.ts"
 
 export type NamePlace = Domain & {
-  nameFormat: NameFormat | null
+  nameFormat: NameFormat
 }
 
 export const namePlace = {

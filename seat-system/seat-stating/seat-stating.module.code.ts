@@ -1,7 +1,9 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { listedAt, readingIn, slugsOfType, typeSlugOf } from "@akasha/indexes"
+import { importedFrom } from "@akasha/pages/page-body"
 import { exportedAs } from "@akasha/pages/page-export-name"
+import { besideAt } from "@akasha/pages/page-file-name"
 import { kindsUnder } from "@akasha/pages/page-type-descent"
 import { valueAt } from "@akasha/pages/page-value"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -27,6 +29,20 @@ const UNFILED = "names no page, so no page is taken away"
 const ASSIGNMENT = "assignmentSlug"
 
 const ADDRESSED = "/"
+
+const PAGE_TYPE = "page-type"
+
+const TYPES = "types"
+
+const HOLDS = "ts"
+
+export function typedFrom(root: string, page: string, typeSlug: string): string {
+  const at = listedAt(root, PAGE_TYPE, typeSlug)[0]?.path
+  if (at === undefined) return ""
+  const typing = valueAt(at, root) ?? {}
+  const stated = (typing as Record<string, unknown>)[TYPES]
+  return importedFrom(page, (stated === HOLDS ? besideAt(at, TYPES, HOLDS) : null) ?? at)
+}
 
 export type SeatStated = {
   readonly agentId: string
@@ -93,14 +109,15 @@ export function seatBody(
   const person = personNamed(root, principal)
   const above = person ? null : stated.parentName
   if (!person && (above === null || above === "")) return null
-  const typeSlug = said(typeSlugOf(root, SEAT_TYPE))
+  const typeSlug = typeSlugOf(root, SEAT_TYPE)
+  const named = said(typeSlug)
   return [
-    'import type { Seat } from "../seat.page-type.ts"',
+    `import type { Seat } from "${typedFrom(root, seatPathForName(seatName), typeSlug)}"`,
     "",
     `export const ${exportedAs(seatName)} = {`,
     `  id: ${said(stated.agentId)},`,
-    `  pageTypeSlug: ${typeSlug},`,
-    `  type: ${typeSlug},`,
+    `  pageTypeSlug: ${named},`,
+    `  type: ${named},`,
     `  slug: ${said(seatName)},`,
     `  persona: ${said(persona)},`,
     `  assignmentSlug: ${said(addressed ?? assignmentAddressOf(domain, root))},`,

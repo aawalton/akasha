@@ -1,4 +1,4 @@
-import type { Seat } from "../seat.page-type.ts"
+import type { Seat } from "../seat.page-type.types.ts"
 
 export const athena = {
   id: "01a08197-ca18-7000-96a6-c880b5f44819",
