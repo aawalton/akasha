@@ -1,4 +1,4 @@
-import type { GenerationLog } from "../../generation-log.page-type.ts"
+import type { GenerationLog } from "../../generation-log.page-type.types.ts"
 
 export const alan = {
   id: "01a01d18-285a-7000-81e8-0b46a3c77d27",

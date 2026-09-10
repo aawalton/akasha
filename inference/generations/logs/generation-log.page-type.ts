@@ -1,8 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { GenerationAudios } from "./properties/generation-audios.file-property.ts"
-import type { GenerationImages } from "./properties/generation-images.file-property.ts"
-import type { GenerationRuns } from "./properties/generation-runs.file-property.ts"
 
 export const generationLog = {
   id: "01a01d18-306b-7000-9796-b41f285a1bad",
@@ -41,10 +37,5 @@ export const generationLog = {
       statement: "The log reaches only as far as its last hand-written line.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
-
-export type GenerationLog = Page & {
-  runs: GenerationRuns
-  images?: GenerationImages
-  audios?: GenerationAudios
-}
