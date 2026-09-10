@@ -1,4 +1,4 @@
-import type { TemperCompletionOverride } from "../temper-completion-override.page-type.ts"
+import type { TemperCompletionOverride } from "../temper-completion-override.page-type.types.ts"
 
 export const erinSolsticeSkillPointsGeneralTutorial = {
   id: "01a05fd0-4dea-7a8b-bb2b-3a41e8320847",
