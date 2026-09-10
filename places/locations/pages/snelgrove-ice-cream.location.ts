@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const snelgroveIceCream = {
   id: "019f1b49-55f7-7508-b4fe-91c87ef830b4",

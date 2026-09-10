@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const onohsMalasadaCoUtahCounty = {
   id: "019f322c-9ae4-7a07-afa9-14e5b6808545",

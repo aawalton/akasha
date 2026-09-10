@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const tinRoofGrill = {
   id: "019f1aec-0cea-7cf0-bc20-406156ea3c2e",

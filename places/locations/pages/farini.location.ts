@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const farini = {
   id: "019f1aec-0e17-796b-af97-f24c1fc34dc3",

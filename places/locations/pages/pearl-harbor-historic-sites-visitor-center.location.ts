@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const pearlHarborHistoricSitesVisitorCenter = {
   id: "019f1b49-52d9-7e4e-91f6-0c196878dacd",

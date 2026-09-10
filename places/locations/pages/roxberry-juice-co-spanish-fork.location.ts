@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const roxberryJuiceCoSpanishFork = {
   id: "019f322c-9b69-7509-ad53-b46177747454",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const campoDeFiori = {
   id: "019f1aec-0dab-7573-968f-7bfa5c1a5770",

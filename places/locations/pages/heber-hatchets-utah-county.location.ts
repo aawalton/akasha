@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const heberHatchetsUtahCounty = {
   id: "019f322c-96d1-7e3e-9433-f501fa53e2f9",

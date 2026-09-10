@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const viaDelPorticoDottavia = {
   id: "019f1aec-0da6-7564-bbdb-b865d9c48444",

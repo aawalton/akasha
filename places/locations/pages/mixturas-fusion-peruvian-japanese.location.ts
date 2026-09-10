@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const mixturasFusionPeruvianJapanese = {
   id: "019f1aec-0fa6-707b-8c5a-1a6e2b74ac32",

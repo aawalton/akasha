@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const theRoundTower = {
   id: "019f1b49-538f-7ce7-b5bb-3ef6eca07614",

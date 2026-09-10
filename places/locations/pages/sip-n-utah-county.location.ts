@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const sipNUtahCounty = {
   id: "019f322c-9b81-7a26-9258-87b7f5f60314",

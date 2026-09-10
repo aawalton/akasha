@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const lanikaiBeach = {
   id: "019f1b49-52ae-7eff-ab87-c8e934e9c317",

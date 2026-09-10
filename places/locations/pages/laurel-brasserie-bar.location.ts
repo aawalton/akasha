@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const laurelBrasserieBar = {
   id: "019f1aec-0d1e-7883-bd73-dbb09558d815",

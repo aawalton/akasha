@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const theRiftAugmentedRealityProvo = {
   id: "019f322c-9bea-7e5b-a492-995e29254c87",

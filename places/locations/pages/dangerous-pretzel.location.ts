@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const dangerousPretzel = {
   id: "019f1aec-0cf3-70a9-9f4b-dd7aa649d6fb",

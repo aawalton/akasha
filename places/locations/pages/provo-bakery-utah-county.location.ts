@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const provoBakeryUtahCounty = {
   id: "019f322c-9b1e-7d18-8ffa-be5b8f719b54",

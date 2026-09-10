@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const boutTimePubGrub = {
   id: "019f1aec-0d24-75b0-b07c-1f6b514411fe",

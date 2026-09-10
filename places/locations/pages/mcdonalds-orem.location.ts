@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const mcdonaldsOrem = {
   id: "019f322c-9a9b-75a0-99af-86157605cebe",

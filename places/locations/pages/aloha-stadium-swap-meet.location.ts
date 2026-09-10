@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const alohaStadiumSwapMeet = {
   id: "019f1b49-52ba-7532-bbc5-18808a4f80e3",

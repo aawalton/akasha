@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const legolandCalifornia = {
   id: "019f1aec-0f5a-78a4-8918-6d9e263df321",

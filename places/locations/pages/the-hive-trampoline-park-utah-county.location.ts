@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const theHiveTrampolineParkUtahCounty = {
   id: "019f322c-9bc1-7578-b2b3-652c874e3437",

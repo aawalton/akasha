@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const twigsBistroAndMartiniBar = {
   id: "019f1b49-54c0-7e54-80f4-10a64c84b123",

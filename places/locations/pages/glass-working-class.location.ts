@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const glassWorkingClass = {
   id: "019f1aec-0f34-7b03-82c6-d7cf3eea6dda",

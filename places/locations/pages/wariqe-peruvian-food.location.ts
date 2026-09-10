@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const wariqePeruvianFood = {
   id: "019f1aec-0fd0-70bc-9f03-7be25cfe67d7",

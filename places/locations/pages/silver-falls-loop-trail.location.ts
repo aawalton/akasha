@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const silverFallsLoopTrail = {
   id: "019f1aec-0c82-727d-947c-0951e59c9bab",

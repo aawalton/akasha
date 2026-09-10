@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const sceraUtahCounty = {
   id: "019f322c-9b75-79b6-ad17-4d96a4a1f6fe",

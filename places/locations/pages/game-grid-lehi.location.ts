@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const gameGridLehi = {
   id: "019f322c-9602-795f-a410-e04ff402dbf4",

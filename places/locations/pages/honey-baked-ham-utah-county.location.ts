@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const honeyBakedHamUtahCounty = {
   id: "019f322c-970f-7ea7-ad7b-5ca0afd1ac0a",

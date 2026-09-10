@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const cedarBreaksNationalMonument = {
   id: "019f1b49-5664-7f3a-9bf0-da3d9ee0f42a",

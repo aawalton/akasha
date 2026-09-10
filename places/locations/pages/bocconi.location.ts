@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const bocconi = {
   id: "019f1aec-0ed4-764e-b2de-5b02db44f944",

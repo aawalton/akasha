@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const splashSummitWaterparkUtahCounty = {
   id: "019f322c-9b91-7c1c-923b-6ef59b42f248",

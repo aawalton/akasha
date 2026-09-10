@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const dugwayGeodeBeds = {
   id: "019f1aec-0cc9-7c24-b9aa-fe63df3da853",

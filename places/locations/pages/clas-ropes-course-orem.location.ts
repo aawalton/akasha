@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const clasRopesCourseOrem = {
   id: "019f322c-9330-79b1-bbb5-fda0a94815b7",

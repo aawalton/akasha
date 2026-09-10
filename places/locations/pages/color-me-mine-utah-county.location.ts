@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const colorMeMineUtahCounty = {
   id: "019f322c-93f5-7cac-a1da-91f8fdaf01a3",

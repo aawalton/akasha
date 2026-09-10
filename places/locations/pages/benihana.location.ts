@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const benihana = {
   id: "019f1b49-54d8-7d75-b9d3-9efa23d42bcf",

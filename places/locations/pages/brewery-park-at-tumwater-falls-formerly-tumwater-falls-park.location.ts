@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const breweryParkAtTumwaterFallsFormerlyTumwaterFallsPark = {
   id: "019f1b49-50ce-71c9-bc27-e5225702313a",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const weienseeCemetery = {
   id: "019f1aec-0d5a-7098-8085-8db3e828f6ef",

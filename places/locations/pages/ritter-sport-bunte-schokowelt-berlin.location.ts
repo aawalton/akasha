@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const ritterSportBunteSchokoweltBerlin = {
   id: "019f1aec-0d57-77fd-860b-bc4d69ecfa83",

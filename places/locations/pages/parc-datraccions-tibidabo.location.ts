@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const parcDatraccionsTibidabo = {
   id: "019f1aec-0e70-7a89-b4dc-54c5345279dc",

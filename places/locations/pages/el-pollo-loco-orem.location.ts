@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const elPolloLocoOrem = {
   id: "019f322c-9529-7330-8325-32fae6d86ea8",

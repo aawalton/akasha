@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const moonglassAntiques = {
   id: "019f1aec-0f89-73ed-8d5b-14cf5805a483",

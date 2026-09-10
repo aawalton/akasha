@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const waltonCove = {
   id: "019f1aec-0f05-7c98-84aa-9a8838ed2aa8",

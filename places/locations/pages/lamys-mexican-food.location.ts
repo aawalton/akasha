@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const lamysMexicanFood = {
   id: "019f1b49-5604-7e4f-9561-d338ff865ff5",

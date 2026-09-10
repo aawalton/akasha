@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const stonegroundItalianKitchen = {
   id: "019f1b49-51da-70f6-a9fc-34e6a803a43b",

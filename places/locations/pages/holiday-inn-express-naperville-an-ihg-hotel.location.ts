@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const holidayInnExpressNapervilleAnIhgHotel = {
   id: "019f1b49-54ae-770e-bd3e-0955f4b10699",

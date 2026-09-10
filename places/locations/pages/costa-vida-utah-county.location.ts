@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const costaVidaUtahCounty = {
   id: "019f322c-93ff-7064-b361-39560ddd3dec",

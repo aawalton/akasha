@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const campidoglio = {
   id: "019f1aec-0db3-7f9f-aa59-165f7ee44a5a",

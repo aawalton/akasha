@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const natureParkSchonebergerSudgelande = {
   id: "019f1b49-5301-7749-9fa8-ab49838a2eb6",

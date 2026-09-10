@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const rumbiIslandGrillUtahCounty = {
   id: "019f322c-9b6f-7b8c-9e9e-3002d7d5883e",

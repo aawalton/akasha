@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const cosmica = {
   id: "019f1aec-0f15-7282-96ae-fc1a1a8ec3b2",

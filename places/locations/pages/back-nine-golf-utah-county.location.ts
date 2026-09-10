@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const backNineGolfUtahCounty = {
   id: "019f322c-918e-72d8-822f-db7abc452424",

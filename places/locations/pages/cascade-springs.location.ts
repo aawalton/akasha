@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const cascadeSprings = {
   id: "019f1b49-5718-7936-a203-fc2a12fe3647",

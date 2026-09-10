@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const porticoOfOctavia = {
   id: "019f1b49-53c8-70b1-88ff-d733a04e4d9a",

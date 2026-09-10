@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const pathwaysGathering = {
   id: "019f1aec-0f2b-7826-96a2-b4b515d2460b",

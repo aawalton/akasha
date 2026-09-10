@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const borgundStaveChurch = {
   id: "019f1b49-573b-70f2-8e2b-32f3cd7e2f3f",

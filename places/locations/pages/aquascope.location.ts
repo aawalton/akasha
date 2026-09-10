@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const aquascope = {
   id: "019f1aec-0cb2-7004-ac8a-516b276795ca",

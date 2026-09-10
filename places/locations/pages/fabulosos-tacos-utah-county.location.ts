@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const fabulososTacosUtahCounty = {
   id: "019f322c-958c-79d9-a0b5-6cc28374f18c",

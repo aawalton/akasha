@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const secretCombinationsEscapeRooms = {
   id: "019f1aec-0d28-766d-bca0-d6c6b3c1febf",

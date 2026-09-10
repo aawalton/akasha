@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const stockholmsCentralstation = {
   id: "019f1aec-0e12-719d-8a4d-9ac5689f8691",

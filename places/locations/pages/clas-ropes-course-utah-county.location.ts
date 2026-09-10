@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const clasRopesCourseUtahCounty = {
   id: "019f322c-9338-79f5-a4f8-7df11dcb69d1",

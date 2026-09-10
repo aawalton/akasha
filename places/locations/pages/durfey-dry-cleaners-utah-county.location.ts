@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const durfeyDryCleanersUtahCounty = {
   id: "019f322c-94d9-74cc-8b5a-123a11106b75",

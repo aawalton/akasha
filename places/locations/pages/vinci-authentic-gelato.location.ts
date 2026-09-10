@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const vinciAuthenticGelato = {
   id: "019f1aec-0f7b-79e6-90cf-398c101b2af2",

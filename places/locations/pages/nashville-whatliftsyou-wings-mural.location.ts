@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const nashvilleWhatliftsyouWingsMural = {
   id: "019f1b49-548a-7e7b-b707-79bea2b6a827",

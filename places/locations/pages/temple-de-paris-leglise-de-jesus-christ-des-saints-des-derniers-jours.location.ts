@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const templeDeParisLegliseDeJesusChristDesSaintsDesDerniersJours = {
   id: "019f1b49-542a-71fb-a2a1-146f7ea571de",

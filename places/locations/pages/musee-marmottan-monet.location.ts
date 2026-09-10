@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const museeMarmottanMonet = {
   id: "019f1aec-0dc6-77bf-8162-36016a2c8412",

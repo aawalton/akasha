@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const fantoftStaveChurch = {
   id: "019f1b49-572d-7f5a-aaa3-32c691eced8e",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const theChocolateADessertCafe = {
   id: "019f1aec-1006-7d04-9d2c-ec94a809e286",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const daylightDonutsSaratogaSprings = {
   id: "019f322c-947d-7521-a71d-b91d4717517b",

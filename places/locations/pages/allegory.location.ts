@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const allegory = {
   id: "019f1b49-566b-7492-8d13-a0c3f2095e4e",

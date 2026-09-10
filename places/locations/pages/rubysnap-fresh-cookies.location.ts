@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const rubysnapFreshCookies = {
   id: "019f1b49-54ea-75c9-b642-69b4644733ab",

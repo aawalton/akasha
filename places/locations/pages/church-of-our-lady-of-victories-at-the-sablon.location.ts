@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const churchOfOurLadyOfVictoriesAtTheSablon = {
   id: "019f1b49-56f4-71e1-83ff-8937465c10a6",

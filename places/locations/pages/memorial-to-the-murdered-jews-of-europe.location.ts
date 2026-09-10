@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const memorialToTheMurderedJewsOfEurope = {
   id: "019f1aec-0d5d-79f4-86ea-255990a6a202",

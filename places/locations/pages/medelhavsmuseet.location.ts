@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const medelhavsmuseet = {
   id: "019f1aec-0e0d-7309-bc97-97e57fec1806",

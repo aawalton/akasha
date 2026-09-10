@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const kobe = {
   id: "019f1aec-0d43-7039-a1b2-4e09e6f5d2a5",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const seaLifeParkHawaii = {
   id: "019f1b49-52c2-7c03-844c-511411973bfb",

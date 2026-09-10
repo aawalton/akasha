@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const mandalynAcademyUtahCounty = {
   id: "019f322c-9a44-7c1d-bd95-55bc7dea36d1",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const museoNacionalDelPrado = {
   id: "019f1aec-0d72-7fdc-b6d2-a9ee93342a4a",

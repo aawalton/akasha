@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const redFortCuisineOfIndia = {
   id: "019f1b49-54d6-7b18-8e37-f00ae6f72d36",

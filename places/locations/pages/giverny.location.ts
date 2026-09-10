@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const giverny = {
   id: "019f1b49-541a-7809-ab93-1dc29d924c51",

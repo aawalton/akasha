@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const fristArtMuseum = {
   id: "019f1aec-0def-7435-b0f5-82947be9a7f8",

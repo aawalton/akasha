@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const miracleBowlOrem = {
   id: "019f322c-9abc-70c8-bcec-92a59557de00",

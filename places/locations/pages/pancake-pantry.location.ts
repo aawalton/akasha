@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const pancakePantry = {
   id: "019f1aec-0ddc-7667-9b38-e7804ed692ac",

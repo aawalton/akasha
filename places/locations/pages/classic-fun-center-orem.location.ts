@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const classicFunCenterOrem = {
   id: "019f322c-937d-70d0-afb7-5674bc078d1c",

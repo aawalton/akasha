@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const toshiosTeriyaki = {
   id: "019f1aec-0c6e-72e4-a8c0-74ca9ffb3a8a",

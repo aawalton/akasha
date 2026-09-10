@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const escapesInTimeProvo = {
   id: "019f322c-9570-7a05-a23b-2000383b57b0",

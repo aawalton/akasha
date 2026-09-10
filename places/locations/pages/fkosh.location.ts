@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const fkosh = {
   id: "019f1aec-0cb7-7023-9010-96624bf7468d",

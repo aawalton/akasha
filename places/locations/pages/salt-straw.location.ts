@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const saltStraw = {
   id: "019f1aec-0c83-784e-9b46-d44d447e2ef7",

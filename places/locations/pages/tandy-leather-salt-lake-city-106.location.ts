@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const tandyLeatherSaltLakeCity106 = {
   id: "019f1b49-512d-7e31-955e-c7e3b1555111",

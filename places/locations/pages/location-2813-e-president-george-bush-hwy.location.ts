@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const location2813EPresidentGeorgeBushHwy = {
   id: "019f1b49-535a-7a23-ab1c-ddbc1a7daba3",

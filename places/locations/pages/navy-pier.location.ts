@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const navyPier = {
   id: "019f1aec-0eb2-7dcf-8f3d-8edd5224686a",

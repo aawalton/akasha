@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const midiciTheNeapolitanPizzaCompanyUtahCounty = {
   id: "019f322c-9ab4-7f03-b05b-3c369de41332",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const piazzaDelPopolo = {
   id: "019f1aec-0dad-7c50-b750-ef002b4d9e10",

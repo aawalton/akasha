@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const dollarTree9fcd = {
   id: "019f1aec-0c80-7c4d-bc51-d23779959fcd",

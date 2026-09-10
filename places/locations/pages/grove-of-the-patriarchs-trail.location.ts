@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const groveOfThePatriarchsTrail = {
   id: "019f1aec-0ca0-7f50-9ba1-8b227654bba4",

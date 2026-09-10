@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const nryfjordWorldHeritagePark = {
   id: "019f1b49-5731-7188-a9af-ca5a31b02cb2",

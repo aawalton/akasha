@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const tacoTimeOrem = {
   id: "019f322c-9b9f-7eb3-8937-4b2a6384b26f",

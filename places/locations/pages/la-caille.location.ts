@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const laCaille = {
   id: "019f1aec-0d0e-792d-b3ad-c5396728d5db",

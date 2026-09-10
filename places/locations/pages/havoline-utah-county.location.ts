@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const havolineUtahCounty = {
   id: "019f322c-96cb-7276-b261-accdb65992a8",

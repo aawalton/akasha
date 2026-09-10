@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const parowanGapPetroglyphs = {
   id: "019f1b49-5661-7f28-8593-c0bd1f14260d",

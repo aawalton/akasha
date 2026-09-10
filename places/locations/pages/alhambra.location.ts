@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const alhambra = {
   id: "019f1aec-0d75-76e5-a91a-33ab7a523d1a",

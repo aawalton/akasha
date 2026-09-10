@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const diamondHead = {
   id: "019f1b49-52c5-78ee-91bf-f4acf603cd87",

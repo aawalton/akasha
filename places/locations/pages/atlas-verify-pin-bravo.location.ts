@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const atlasVerifyPinBravo = {
   id: "019f18e8-cb3c-73c9-aa12-94dcd1dcb468",

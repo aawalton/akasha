@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const chiropracticAxcessAccidentCenterUtahCounty = {
   id: "019f322c-92bd-7cd7-b445-8f79c5eca81a",

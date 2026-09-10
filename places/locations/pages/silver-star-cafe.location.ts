@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const silverStarCafe = {
   id: "019f1b49-5717-71dd-b76a-99722afbb3e6",

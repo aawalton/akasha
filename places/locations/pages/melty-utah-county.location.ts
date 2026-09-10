@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const meltyUtahCounty = {
   id: "019f322c-9ab0-7597-82f6-ef2a16a77d57",

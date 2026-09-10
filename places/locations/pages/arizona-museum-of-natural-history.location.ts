@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const arizonaMuseumOfNaturalHistory = {
   id: "019f1aec-0cba-7bed-ae1e-90aa8a686329",

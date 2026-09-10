@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const springhillSuitesByMarriottSaltLakeCitySouthJordan = {
   id: "019f1aec-0f91-77f6-bb58-fbcef9193f15",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const gwc = {
   id: "019f1aec-0f7a-7553-80ad-516e436044e1",

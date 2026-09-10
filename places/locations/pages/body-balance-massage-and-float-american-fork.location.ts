@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const bodyBalanceMassageAndFloatAmericanFork = {
   id: "019f322c-91af-78c9-b71d-32bac067d554",

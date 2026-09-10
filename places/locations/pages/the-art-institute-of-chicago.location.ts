@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const theArtInstituteOfChicago = {
   id: "019f1aec-0ea6-7db0-b653-aecd4201278e",

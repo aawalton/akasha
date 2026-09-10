@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const museumOfGlassA1f2 = {
   id: "019f1b49-5511-7bcd-b5f4-1215f8eea1f2",

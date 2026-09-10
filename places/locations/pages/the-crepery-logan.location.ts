@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const theCreperyLogan = {
   id: "019f1aec-0f0c-73a7-aade-a150836d02b7",

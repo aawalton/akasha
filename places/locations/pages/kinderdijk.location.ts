@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const kinderdijk = {
   id: "019f1aec-0e26-75d2-a823-501fd1fdd5f8",

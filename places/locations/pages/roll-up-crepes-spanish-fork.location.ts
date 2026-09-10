@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const rollUpCrepesSpanishFork = {
   id: "019f322c-9b5c-7dbb-b9ff-866dd122fae3",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const universalStudioTour = {
   id: "019f1b49-5791-7f60-9ca8-0bf9d27c95de",

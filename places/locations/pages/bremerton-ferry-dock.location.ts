@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const bremertonFerryDock = {
   id: "019f1b49-5105-7f88-8fba-3c3d8571175f",

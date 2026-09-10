@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const rollUpCrepesOrem = {
   id: "019f322c-9b59-7e9a-a86c-3d6f5f3ca944",

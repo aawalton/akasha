@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const rockyMountainChocolateFactoryOrem = {
   id: "019f322c-9b50-7dd9-adb6-c39e7dbfbda6",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const greatHarvestBreadCoProvo = {
   id: "019f322c-96be-79e6-9df0-1347bf177846",

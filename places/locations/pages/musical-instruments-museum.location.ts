@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const musicalInstrumentsMuseum = {
   id: "019f1aec-0ed8-732b-9436-99880b73eb24",

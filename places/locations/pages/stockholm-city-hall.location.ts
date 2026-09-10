@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const stockholmCityHall = {
   id: "019f1aec-0e10-7d97-96a1-cff0668220b8",

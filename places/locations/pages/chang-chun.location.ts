@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const changChun = {
   id: "019f1aec-1045-70ee-bb7c-665119966edd",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const kanarraFalls = {
   id: "019f1b49-5660-7609-acdf-8cca94423dc6",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const chipCookies = {
   id: "019f1aec-0f87-7da6-b3eb-532cdd9d084a",

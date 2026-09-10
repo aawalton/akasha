@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const quickWitsComedyUtahCounty = {
   id: "019f322c-9b39-797f-b5d4-ea7fdcb99faa",

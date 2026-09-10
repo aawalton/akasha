@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const theBellyOfTheDragonTrailhead = {
   id: "019f1b49-51f1-75c3-8b29-a2faa2d98fc3",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const nationalTileMuseum = {
   id: "019f1aec-0ec2-7baa-b0c0-d7c9e094d9a8",

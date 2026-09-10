@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const ninjaPlaygroundUtahCounty = {
   id: "019f322c-9ad8-78f3-9458-2cec8fc0a90f",

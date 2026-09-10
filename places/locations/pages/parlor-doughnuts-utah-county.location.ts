@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const parlorDoughnutsUtahCounty = {
   id: "019f322c-9af2-71fd-ac09-2baa3f1ec393",

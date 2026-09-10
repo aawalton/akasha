@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const boxBite = {
   id: "019f1aec-0e04-75b2-80b5-6a1beec454a8",

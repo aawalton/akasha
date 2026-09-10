@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const voltageEbikeUtahCounty = {
   id: "019f322c-9c5d-730d-abfb-af045c779fcf",

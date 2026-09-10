@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const cultivateCraftKitchen = {
   id: "019f1aec-0f9c-7509-b0c0-a9ca68a1bc91",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const wasatchTherapeuticMassage = {
   id: "019f1b49-529c-7a93-bfaa-7e7570a62fdb",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const amritRestaurantSchoneberg = {
   id: "019f1aec-0d53-7470-96fb-c4787e59d2b5",

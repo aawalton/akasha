@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const backereiLadewig = {
   id: "019f1b49-52eb-7e19-a123-e2a3ce5d6348",

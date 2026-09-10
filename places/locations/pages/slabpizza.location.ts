@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const slabpizza = {
   id: "019f1aec-1000-7e7f-a984-29242ad8d71a",

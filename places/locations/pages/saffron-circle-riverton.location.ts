@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const saffronCircleRiverton = {
   id: "019f1b49-516d-7322-a25c-2f8920b4d5ea",

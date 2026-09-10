@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const cravingsAlishasCupcakesUtahCounty = {
   id: "019f322c-9404-7889-a5a2-648dddbd595c",

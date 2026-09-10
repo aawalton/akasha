@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const tram28 = {
   id: "019f1b49-56ca-7a71-8fa8-2982aa5d6513",

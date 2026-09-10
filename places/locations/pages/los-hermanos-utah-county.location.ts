@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const losHermanosUtahCounty = {
   id: "019f322c-9a31-74c1-aa67-3f6f722d8be9",

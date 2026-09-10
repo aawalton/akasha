@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const waybackBurgersPleasantGrove = {
   id: "019f322c-9c66-7d7f-8ff2-ad67a327c4b3",

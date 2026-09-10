@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const berthillonGlacier = {
   id: "019f1b49-543a-76d4-99b4-17f11497a182",

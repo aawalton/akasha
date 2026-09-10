@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const rialtoBridge = {
   id: "019f1aec-0e20-705f-88be-ed15c029cb49",

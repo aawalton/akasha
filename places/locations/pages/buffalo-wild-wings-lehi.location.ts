@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const buffaloWildWingsLehi = {
   id: "019f322c-91be-7c88-8634-cdf8a74788be",

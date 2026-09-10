@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const normalIceCreamStore = {
   id: "019f1b49-51ed-7af8-9926-ff57046d8349",

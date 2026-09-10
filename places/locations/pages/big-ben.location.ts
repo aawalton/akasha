@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const bigBen = {
   id: "019f1aec-0e7e-784e-b527-0fdb440b112c",

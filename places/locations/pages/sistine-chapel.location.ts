@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const sistineChapel = {
   id: "019f1b49-53e7-7c71-820f-99344c5cfce1",

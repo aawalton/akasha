@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const elCamino = {
   id: "019f1aec-0ca5-73b6-a4c8-bbbdc0700e4e",

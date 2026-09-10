@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const elMexsal = {
   id: "019f1aec-0d18-7625-bc2a-a821cfad3ed2",

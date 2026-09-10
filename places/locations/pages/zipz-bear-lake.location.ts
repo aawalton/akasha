@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const zipzBearLake = {
   id: "019f1aec-0f16-7771-b24b-d8a06cc8bbd3",

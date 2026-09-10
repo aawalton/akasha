@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const hashHouseAGoGo = {
   id: "019f1b49-55a7-75b5-9de8-517973eb5ea8",

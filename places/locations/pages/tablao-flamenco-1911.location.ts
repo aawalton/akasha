@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const tablaoFlamenco1911 = {
   id: "019f1aec-0d66-7a12-a263-7b0da16d5702",

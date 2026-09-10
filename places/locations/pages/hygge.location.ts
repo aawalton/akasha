@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const hygge = {
   id: "019f1aec-0ed1-7d57-8b11-4bdbd31cbf0b",

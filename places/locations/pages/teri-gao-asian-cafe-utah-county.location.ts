@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const teriGaoAsianCafeUtahCounty = {
   id: "019f322c-9bb6-71f0-8c4e-3293a7fe76e5",

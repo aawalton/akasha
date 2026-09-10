@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const midwayCrater = {
   id: "019f1b49-570d-7b85-865d-66c71cfc2fd6",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const californiaScienceCenter = {
   id: "019f1aec-0f66-74aa-b283-9f0eeadebe46",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const gandolfosUtahCounty = {
   id: "019f322c-9643-7b9a-be53-bcdc431e856f",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const cloudGate = {
   id: "019f1aec-0eb4-7cf1-bf24-0f2d8f9c3b03",

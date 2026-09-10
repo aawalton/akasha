@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const dreamwalkParkUtahCounty = {
   id: "019f322c-94cd-725f-a0cc-c5ee83ec4f57",

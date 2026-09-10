@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const brightPediatricDentistry = {
   id: "019f1aec-0f8c-74ed-903f-5987023e54ad",

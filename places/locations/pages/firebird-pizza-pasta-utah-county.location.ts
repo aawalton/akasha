@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const firebirdPizzaPastaUtahCounty = {
   id: "019f322c-95de-7003-b15e-80ceb5258801",

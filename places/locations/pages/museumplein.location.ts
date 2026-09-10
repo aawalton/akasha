@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const museumplein = {
   id: "019f1aec-0e2d-73a7-bdde-f4c9d47b2c16",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const theUnlockablesAPuzzleEscapeExperience = {
   id: "019f1b49-558d-75ef-b464-02b625258bf8",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const theGreatGreekMediterraneanGrillUtahCounty = {
   id: "019f322c-9bbd-7b4c-a017-9ab0cd2424d4",

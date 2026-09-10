@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const shamrockFoodserviceWarehouse = {
   id: "019f1aec-0cd3-787a-bf2c-e838886192a1",

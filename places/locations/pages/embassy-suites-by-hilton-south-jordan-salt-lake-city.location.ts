@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const embassySuitesByHiltonSouthJordanSaltLakeCity = {
   id: "019f1b49-5152-7e54-bc8a-8c3dfef6fd61",

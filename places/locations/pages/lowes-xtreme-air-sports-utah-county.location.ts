@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const lowesXtremeAirSportsUtahCounty = {
   id: "019f322c-9a3a-70da-a5ef-69a638ad2398",

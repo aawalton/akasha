@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const palatineHill = {
   id: "019f1aec-0dba-711c-9247-d8a445445854",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const chunkyCoSlc = {
   id: "019f1b49-5191-7ef1-8863-f8d906002438",

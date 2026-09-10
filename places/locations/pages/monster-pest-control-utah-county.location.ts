@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const monsterPestControlUtahCounty = {
   id: "019f322c-9abf-7962-ba2c-ec77ae2973ff",

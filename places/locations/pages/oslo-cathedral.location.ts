@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const osloCathedral = {
   id: "019f1aec-0ee2-756f-a35b-32d3a8325889",

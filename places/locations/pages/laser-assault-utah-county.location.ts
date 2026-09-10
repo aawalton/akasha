@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const laserAssaultUtahCounty = {
   id: "019f322c-99df-759b-9ecc-311756962832",

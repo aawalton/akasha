@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const kohinoorCuisineOfIndiaUtahCounty = {
   id: "019f322c-9974-7541-a7fe-1a4ec946c415",

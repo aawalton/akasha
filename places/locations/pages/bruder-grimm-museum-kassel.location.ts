@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const bruderGrimmMuseumKassel = {
   id: "019f1b49-5638-7874-a2f3-9f72071c89e1",

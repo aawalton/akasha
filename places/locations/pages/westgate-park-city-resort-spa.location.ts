@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const westgateParkCityResortSpa = {
   id: "019f1b49-574c-7b52-9e0b-723742c23fe0",

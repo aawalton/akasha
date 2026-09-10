@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const museumGalleryXpoSalvadorDali = {
   id: "019f1b49-5705-7886-b5ef-87a563d5348f",

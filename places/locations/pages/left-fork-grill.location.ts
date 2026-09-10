@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const leftForkGrill = {
   id: "019f1b49-54e8-7032-8a81-48caa9382b05",

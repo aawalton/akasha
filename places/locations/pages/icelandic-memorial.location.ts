@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const icelandicMemorial = {
   id: "019f1b49-51a2-79df-86b9-27f2285e4ecd",

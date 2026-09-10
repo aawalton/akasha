@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const hanaumaBay = {
   id: "019f1b49-52d8-7819-bd3a-9f81378452e5",

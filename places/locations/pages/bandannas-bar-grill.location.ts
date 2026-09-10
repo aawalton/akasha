@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const bandannasBarGrill = {
   id: "019f1aec-0cd7-72b3-9be8-a063b212a767",

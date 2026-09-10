@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const taxFreedomFightersUtahCounty = {
   id: "019f322c-9bac-7e32-9664-5a770f94819e",

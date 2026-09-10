@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const hubByPremierInnEdinburghRoyalMile = {
   id: "019f1b49-5620-7e67-b150-659bed21a535",

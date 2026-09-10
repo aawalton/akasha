@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const shriKailasaTempleEllora = {
   id: "019f1b49-5198-78bb-a919-73abe6273d48",

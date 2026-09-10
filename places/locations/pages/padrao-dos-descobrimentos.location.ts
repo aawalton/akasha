@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const padraoDosDescobrimentos = {
   id: "019f1aec-0ecd-7f49-b7e5-f5a847a32d42",

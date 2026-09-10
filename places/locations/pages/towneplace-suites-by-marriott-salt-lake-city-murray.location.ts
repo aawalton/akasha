@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const towneplaceSuitesByMarriottSaltLakeCityMurray = {
   id: "019f1b49-54c8-7125-9ad7-3a8423021e50",

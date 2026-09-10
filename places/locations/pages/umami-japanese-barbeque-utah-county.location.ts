@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const umamiJapaneseBarbequeUtahCounty = {
   id: "019f322c-9c42-7261-af1a-e481c42e15aa",

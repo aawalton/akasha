@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const hangTimeAdventureParkUtahCounty = {
   id: "019f322c-96c7-74d8-998a-f100f596f540",

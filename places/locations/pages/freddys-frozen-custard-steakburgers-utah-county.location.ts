@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const freddysFrozenCustardSteakburgersUtahCounty = {
   id: "019f322c-95f9-7416-bd4e-08ca5d3504e1",

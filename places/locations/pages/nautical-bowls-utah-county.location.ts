@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const nauticalBowlsUtahCounty = {
   id: "019f322c-9ad3-7510-a6c6-55def99901a4",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const gOATHaircutsUtahCounty = {
   id: "019f322c-95fd-76b3-bb35-74eeeb3d3c29",

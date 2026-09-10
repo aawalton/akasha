@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const edHoysInternationalArtGlassSupplies = {
   id: "019f1b49-56b7-7503-b20e-81b7e6d3176c",

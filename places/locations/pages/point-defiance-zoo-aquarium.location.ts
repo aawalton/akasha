@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const pointDefianceZooAquarium = {
   id: "019f1aec-0c8e-7a3f-ac78-6e1b3cb5b503",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const bingCrosbyHouse = {
   id: "019f1aec-0c9e-7640-bf85-a6654e8a007c",

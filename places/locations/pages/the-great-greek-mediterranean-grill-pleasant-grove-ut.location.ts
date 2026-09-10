@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const theGreatGreekMediterraneanGrillPleasantGroveUt = {
   id: "019f1b49-549a-76c5-aac8-fbd910003fc6",

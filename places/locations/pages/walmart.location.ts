@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const walmart = {
   id: "019f1b49-52c4-729a-8bab-bec7f46cb7a3",

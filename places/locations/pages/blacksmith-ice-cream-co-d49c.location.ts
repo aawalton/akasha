@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const blacksmithIceCreamCoD49c = {
   id: "019f1b49-54b7-754d-b4d0-6f655c19d49c",

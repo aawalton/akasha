@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const avisCarRental = {
   id: "019f1aec-0f04-7886-a7fe-bf162b183c13",

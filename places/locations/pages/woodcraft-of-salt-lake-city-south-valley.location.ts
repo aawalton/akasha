@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const woodcraftOfSaltLakeCitySouthValley = {
   id: "019f1b49-512c-74bb-a44c-c7e3142ef5a5",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const treviFountain = {
   id: "019f1aec-0db8-7dcb-9721-cbf2421a9baf",

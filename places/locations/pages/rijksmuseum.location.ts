@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const rijksmuseum = {
   id: "019f1aec-0e3f-71a4-b8f6-f9feef400c93",

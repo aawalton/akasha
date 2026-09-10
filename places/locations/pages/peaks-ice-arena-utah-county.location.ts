@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const peaksIceArenaUtahCounty = {
   id: "019f322c-9afd-7396-8235-ff4751946c6e",

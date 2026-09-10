@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const mountainDonutsTopYourOwn = {
   id: "019f1b49-529b-7302-84fa-1d4b993d4bab",

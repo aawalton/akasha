@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const superChixChickenCustard = {
   id: "019f1aec-0f7d-722c-8cde-b2f40dd47f0a",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const fairfieldInnSuitesByMarriottTustinOrangeCounty = {
   id: "019f1b49-5790-76a9-b066-dd7d79bfd412",

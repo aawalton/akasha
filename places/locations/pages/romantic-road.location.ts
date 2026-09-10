@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const romanticRoad = {
   id: "019f1aec-0efa-7137-b5d8-417b996fa55a",

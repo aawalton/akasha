@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const milkshakeFactoryUtahCounty = {
   id: "019f322c-9ab8-77e3-b0a4-07d0d4399849",

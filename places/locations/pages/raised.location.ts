@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const raised = {
   id: "019f1aec-0fcc-7fbd-a02f-d3d4f361ebec",

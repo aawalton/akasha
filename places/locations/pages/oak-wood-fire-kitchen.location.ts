@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const oakWoodFireKitchen = {
   id: "019f1aec-0ce0-770b-862d-3bab6f7b859a",

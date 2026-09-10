@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const windyRidgeViewpoint = {
   id: "019f1aec-0c96-78d9-9630-27609073182e",

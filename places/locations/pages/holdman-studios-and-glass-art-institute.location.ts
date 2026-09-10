@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const holdmanStudiosAndGlassArtInstitute = {
   id: "019f1aec-0cf4-73ed-8a49-34289875c6ca",

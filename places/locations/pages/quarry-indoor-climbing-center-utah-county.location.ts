@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const quarryIndoorClimbingCenterUtahCounty = {
   id: "019f322c-9b2f-7316-80c3-b5c98cf90ad4",

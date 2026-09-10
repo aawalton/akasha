@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const keplerMuseum = {
   id: "019f1b49-5622-75c6-9e2e-9463cf655df8",

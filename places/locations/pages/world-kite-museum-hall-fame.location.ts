@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const worldKiteMuseumHallFame = {
   id: "019f1b49-50e3-7cfd-bf6a-3fff9c6e8314",

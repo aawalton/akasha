@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const theCopperOnion = {
   id: "019f1aec-0cc3-7929-9c28-386533faddbd",

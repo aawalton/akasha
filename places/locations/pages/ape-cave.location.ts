@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const apeCave = {
   id: "019f1aec-0c97-7fa6-bc3c-43f996dcbbb0",

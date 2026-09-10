@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const chiesaDiSantIgnazioDiLoyola = {
   id: "019f1b49-53ba-7a46-9762-7787cc1b1e63",

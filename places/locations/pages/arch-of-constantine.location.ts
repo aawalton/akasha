@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const archOfConstantine = {
   id: "019f1aec-0db6-7744-aad5-2c472b0922c3",

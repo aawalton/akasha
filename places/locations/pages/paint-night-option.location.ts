@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const paintNightOption = {
   id: "019f1aec-0f45-7fb6-9056-698b70092f39",

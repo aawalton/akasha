@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const trastevere = {
   id: "019f1aec-0dbc-7818-ba5e-c14cd25d377e",

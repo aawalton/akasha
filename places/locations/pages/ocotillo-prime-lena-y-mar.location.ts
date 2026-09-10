@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const ocotilloPrimeLenaYMar = {
   id: "019f1b49-513f-75a3-8b97-e96b6410cb23",

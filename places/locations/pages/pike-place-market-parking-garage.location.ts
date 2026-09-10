@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const pikePlaceMarketParkingGarage = {
   id: "019f1b49-50be-7946-8de3-fb51696963a4",

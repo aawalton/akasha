@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const wingNutzOrem = {
   id: "019f322c-9c85-754f-ba4a-e91314f4d2e1",

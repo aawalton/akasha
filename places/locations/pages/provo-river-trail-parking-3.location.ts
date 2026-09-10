@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const provoRiverTrailParking3 = {
   id: "019f1b49-52de-72de-8ff0-3fdf06e6aaa4",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const aromaCafe = {
   id: "019f1aec-0d15-7ee4-82d0-556aaddc46df",

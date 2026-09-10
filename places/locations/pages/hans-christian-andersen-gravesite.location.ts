@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const hansChristianAndersenGravesite = {
   id: "019f1b49-5362-753c-8b20-ed8280f29cf3",

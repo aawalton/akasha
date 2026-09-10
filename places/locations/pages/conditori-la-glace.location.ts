@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const conditoriLaGlace = {
   id: "019f1aec-0d98-7b90-a796-dd50d5c09204",

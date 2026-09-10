@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const rubyRiverUtahCounty = {
   id: "019f322c-9b6c-7642-b2a0-2dc78998647c",

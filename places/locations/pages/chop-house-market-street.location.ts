@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const chopHouseMarketStreet = {
   id: "019f1aec-0e8c-739c-989f-48db68d42f5d",

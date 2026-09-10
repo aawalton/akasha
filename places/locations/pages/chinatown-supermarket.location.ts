@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const chinatownSupermarket = {
   id: "019f1b49-54ce-7461-963a-0a9395a8dc11",

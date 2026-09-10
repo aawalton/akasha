@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const vanWonderenStroopwafels = {
   id: "019f1aec-0e27-7ad2-b0e5-365d50bd3e7f",

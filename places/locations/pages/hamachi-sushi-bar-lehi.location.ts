@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const hamachiSushiBarLehi = {
   id: "019f1aec-0cde-79c0-b0bd-e73c589d13f9",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const elBetoProvo = {
   id: "019f322c-9512-700a-adaa-d13f9940bc66",

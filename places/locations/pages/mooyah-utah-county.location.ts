@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const mooyahUtahCounty = {
   id: "019f322c-9ac4-7cf9-87ae-d2099489b154",

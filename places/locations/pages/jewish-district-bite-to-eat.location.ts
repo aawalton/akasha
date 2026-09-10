@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const jewishDistrictBiteToEat = {
   id: "019f1aec-0f27-79d0-ac13-8178d9f844d2",

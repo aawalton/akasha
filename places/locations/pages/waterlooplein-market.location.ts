@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const waterloopleinMarket = {
   id: "019f1aec-0e41-79a4-a943-a2c1e5c71197",

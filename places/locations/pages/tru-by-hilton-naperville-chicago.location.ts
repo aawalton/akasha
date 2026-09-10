@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const truByHiltonNapervilleChicago = {
   id: "019f1b49-54af-7e51-ab33-dee7b4270d1c",

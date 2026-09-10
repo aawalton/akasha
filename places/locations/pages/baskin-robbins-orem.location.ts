@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const baskinRobbinsOrem = {
   id: "019f322c-91a7-7d2d-8748-06f960d85411",

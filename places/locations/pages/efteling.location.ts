@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const efteling = {
   id: "019f1aec-0e2f-7151-a46b-c6c543ce0ec3",

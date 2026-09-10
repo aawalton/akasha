@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const laSagradaFamilia = {
   id: "019f1aec-0e74-7696-954d-dcf28547771f",

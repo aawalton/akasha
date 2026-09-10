@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const etecoBread = {
   id: "019f1b49-5123-7d0d-b004-85a17ef23627",

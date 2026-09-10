@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const stAngeloBridge = {
   id: "019f1b49-53fa-7bea-bb4b-51f4015b5ae2",

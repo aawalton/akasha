@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const summerbird = {
   id: "019f1aec-0d87-7ac5-93ff-2f854394c45a",

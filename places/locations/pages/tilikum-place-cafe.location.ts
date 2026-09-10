@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const tilikumPlaceCafe = {
   id: "019f1aec-0ca3-7f6c-83e9-edb34e8c3610",

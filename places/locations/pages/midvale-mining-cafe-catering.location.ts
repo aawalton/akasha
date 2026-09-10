@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const midvaleMiningCafeCatering = {
   id: "019f1aec-0d0f-7bce-9537-d400efe207a0",

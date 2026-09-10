@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const hyttefadet = {
   id: "019f1aec-0d79-70a4-b012-9f16c7f8413a",

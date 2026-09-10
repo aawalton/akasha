@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const snowCanyonStatePark = {
   id: "019f1b49-5606-76d8-9f54-b5b7eae66264",

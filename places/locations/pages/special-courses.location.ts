@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const specialCourses = {
   id: "019f1b49-5796-7631-8a2f-3958eec63769",

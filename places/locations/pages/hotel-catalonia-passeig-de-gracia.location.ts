@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const hotelCataloniaPasseigDeGracia = {
   id: "019f1aec-0e65-7358-a90e-5b872517c3c8",

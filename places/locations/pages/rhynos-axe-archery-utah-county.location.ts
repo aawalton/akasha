@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const rhynosAxeArcheryUtahCounty = {
   id: "019f322c-9b4a-771e-aba3-3ecec39861cd",

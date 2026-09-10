@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const magnoliaTable = {
   id: "019f1aec-0e93-7b39-a3d1-c158d2c35595",

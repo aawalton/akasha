@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const haleiwa = {
   id: "019f1b49-52aa-782c-bba7-ac6b4f94d607",

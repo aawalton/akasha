@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const rucas = {
   id: "019f1aec-0f17-7fd3-a7e1-43baa92126fb",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const muranoGlassNativitySet = {
   id: "019f1b49-5781-76f4-846c-3c627162389a",

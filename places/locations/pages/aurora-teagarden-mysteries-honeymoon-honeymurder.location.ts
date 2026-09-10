@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const auroraTeagardenMysteriesHoneymoonHoneymurder = {
   id: "019f1b49-577b-7aec-a45c-3e8a657ad61b",

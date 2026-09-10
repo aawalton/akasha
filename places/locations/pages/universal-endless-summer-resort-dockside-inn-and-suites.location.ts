@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const universalEndlessSummerResortDocksideInnAndSuites = {
   id: "019f1b49-5760-7440-b387-221702ee616d",

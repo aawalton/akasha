@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const wingNutzSpanishFork = {
   id: "019f322c-9c88-766b-b6b8-d6304a450087",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const etsyPinterest = {
   id: "019f1b49-5669-7930-b581-856b19aa199e",

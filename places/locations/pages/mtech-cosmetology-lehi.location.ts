@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const mtechCosmetologyLehi = {
   id: "019f322c-9acc-74d8-9df5-d73c4a7ebdc2",

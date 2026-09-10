@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const fossilLakeSafari = {
   id: "019f1b49-5166-772f-81e6-c2f50fa482c6",

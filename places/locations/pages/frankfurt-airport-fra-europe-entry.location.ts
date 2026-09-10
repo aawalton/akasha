@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const frankfurtAirportFraEuropeEntry = {
   id: "019f37a9-67d8-7994-8f02-5b305de72fd6",

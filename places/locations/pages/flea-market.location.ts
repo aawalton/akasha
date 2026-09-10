@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const fleaMarket = {
   id: "019f1b49-52e3-7102-af5b-91372aa36da0",

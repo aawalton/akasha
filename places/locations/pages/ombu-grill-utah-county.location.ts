@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const ombuGrillUtahCounty = {
   id: "019f322c-9ae1-7559-a28d-eeb4c5061ed6",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const pappalecco = {
   id: "019f1aec-0ff4-7b0d-ac81-fabcd1db90ed",

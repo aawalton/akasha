@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const forgeJewelryWorksUtahCounty = {
   id: "019f322c-95ee-7c2c-81bf-0348e97066f0",

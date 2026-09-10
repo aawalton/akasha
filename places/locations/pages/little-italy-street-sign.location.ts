@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const littleItalyStreetSign = {
   id: "019f1b49-558a-77f3-b80b-ff7b2204166f",

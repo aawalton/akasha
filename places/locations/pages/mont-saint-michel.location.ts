@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const montSaintMichel = {
   id: "019f1aec-0f1b-7d49-846c-fca5ff203a87",

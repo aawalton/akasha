@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const padelisStreetGreek = {
   id: "019f1aec-0e01-7c8a-aeea-c173bb3e4407",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const daliTheatreMuseum = {
   id: "019f1b49-55af-7cc0-9697-d678b9ea3281",

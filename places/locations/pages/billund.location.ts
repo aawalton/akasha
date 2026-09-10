@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const billund = {
   id: "019f1aec-0d93-7ebc-8b08-888705f74487",

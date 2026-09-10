@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const adventureGolfRaceway = {
   id: "019f1b49-529f-788c-a2a2-0a66eddd4ea4",

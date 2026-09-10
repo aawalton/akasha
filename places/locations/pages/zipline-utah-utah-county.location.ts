@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const ziplineUtahUtahCounty = {
   id: "019f322c-9ca6-7f3a-bcab-2b3819eea6ad",

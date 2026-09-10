@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const amrit = {
   id: "019f1aec-0d51-770b-aa55-9770f765d49b",

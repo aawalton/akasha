@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const fremontTroll = {
   id: "019f1aec-0c8b-7db6-9ebf-edd10d092055",

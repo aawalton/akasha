@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const hart6773 = {
   id: "019f1aec-0d8c-78fb-814b-055363216773",

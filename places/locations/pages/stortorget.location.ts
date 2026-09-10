@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const stortorget = {
   id: "019f1aec-0e0a-7c3c-b93e-3985b75f05d7",

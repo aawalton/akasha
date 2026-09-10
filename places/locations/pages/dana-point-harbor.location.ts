@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const danaPointHarbor = {
   id: "019f1b49-558b-7ed8-8756-a0d234496a79",

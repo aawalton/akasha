@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const romanForum = {
   id: "019f1aec-0db7-7a9b-baa6-2f175c56a3e0",

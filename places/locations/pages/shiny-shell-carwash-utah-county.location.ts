@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const shinyShellCarwashUtahCounty = {
   id: "019f322c-9b7e-767e-8860-92fda3a1d0cd",

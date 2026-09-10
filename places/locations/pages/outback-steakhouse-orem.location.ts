@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const outbackSteakhouseOrem = {
   id: "019f322c-9ae7-7de3-a866-74ec2f11c8c0",

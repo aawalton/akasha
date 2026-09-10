@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const pozzetto = {
   id: "019f1aec-0dd2-7622-8433-d3617793ed6c",

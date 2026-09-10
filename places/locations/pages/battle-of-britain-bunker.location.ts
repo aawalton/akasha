@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const battleOfBritainBunker = {
   id: "019f1aec-0cfd-7cdc-8e90-4cdfe8a0685b",

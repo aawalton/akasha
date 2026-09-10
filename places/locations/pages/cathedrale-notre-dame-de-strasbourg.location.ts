@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const cathedraleNotreDameDeStrasbourg = {
   id: "019f1b49-5408-79dc-9585-2d09dd4ccc97",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const theCrookedSpoon = {
   id: "019f1b49-5761-7ceb-99f3-06173f2afcff",

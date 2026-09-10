@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const mtechCosmetologySpanishFork = {
   id: "019f322c-9acf-7df6-a4a1-e4713ad0689c",

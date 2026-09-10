@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const interlaken = {
   id: "019f1aec-0f08-7680-8770-5a88db5688d3",

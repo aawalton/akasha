@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const theEscapeGameNashville = {
   id: "019f1aec-0df1-7c82-92dc-15172f9b5f59",

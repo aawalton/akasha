@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const hallstatt = {
   id: "019f1aec-0f1f-7ce3-9077-197a099c486a",

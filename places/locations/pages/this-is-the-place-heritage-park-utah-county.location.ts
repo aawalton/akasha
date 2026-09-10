@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const thisIsThePlaceHeritageParkUtahCounty = {
   id: "019f322c-9c26-7f2c-8256-7374006debeb",

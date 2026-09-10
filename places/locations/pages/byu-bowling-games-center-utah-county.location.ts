@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const byuBowlingGamesCenterUtahCounty = {
   id: "019f322c-9200-7bce-8bf9-a5b032097b0e",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const fatcatsProvo = {
   id: "019f322c-9598-78c4-865e-0e1a37cbc017",

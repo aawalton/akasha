@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const nothingBundtCakesUtahCounty = {
   id: "019f322c-9add-7ea1-bf7e-02dcde11ed0f",

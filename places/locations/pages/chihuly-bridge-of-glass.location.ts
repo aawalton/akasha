@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const chihulyBridgeOfGlass = {
   id: "019f1aec-0cae-7187-a764-bdc120a9fd65",

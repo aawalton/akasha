@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const twistedSugarSaratogaSprings = {
   id: "019f322c-9c3f-714b-8474-9d7075b898e3",

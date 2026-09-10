@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const pantheon = {
   id: "019f1aec-0db0-744d-89f1-2b6a9091ab49",

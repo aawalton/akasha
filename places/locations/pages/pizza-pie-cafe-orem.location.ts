@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const pizzaPieCafeOrem = {
   id: "019f322c-9b14-735c-a660-409365159d23",

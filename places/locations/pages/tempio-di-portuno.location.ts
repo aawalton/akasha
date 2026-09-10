@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const tempioDiPortuno = {
   id: "019f1aec-0da5-713f-9b44-ceecf7f0eaf3",

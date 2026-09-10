@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const elev8Fun = {
   id: "019f1aec-0efe-71fc-84c8-f616085bd8ca",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const tuacahnCenterForTheArts = {
   id: "019f1b49-55f3-7162-96d6-1dbe01c5f3c7",

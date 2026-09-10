@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const wallabysUtahCounty = {
   id: "019f322c-9c63-711b-acd1-f795cc00d971",

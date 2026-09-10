@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const theBridgeCafeAndGrill = {
   id: "019f1b49-5710-74a6-8978-1b6caba087f3",

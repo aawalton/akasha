@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const redlineRacingUtahCounty = {
   id: "019f322c-9b44-7353-b34d-fd4ea1beb31b",

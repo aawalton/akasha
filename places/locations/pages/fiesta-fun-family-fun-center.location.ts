@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const fiestaFunFamilyFunCenter = {
   id: "019f1b49-5614-7de4-a1a5-10d4c7efe829",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const matsumotoShaveIce = {
   id: "019f1b49-52cc-795b-a6da-26f3ce1c831a",

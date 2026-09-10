@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const fatamorganaMonti = {
   id: "019f1aec-0da0-7376-9ae2-6d30d29ee214",

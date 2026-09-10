@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const strget = {
   id: "019f1aec-0d90-7463-b7bc-4b324965ea36",

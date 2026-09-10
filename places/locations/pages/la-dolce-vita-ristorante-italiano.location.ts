@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const laDolceVitaRistoranteItaliano = {
   id: "019f1aec-0fd2-7f65-bd67-b467a305a8ac",

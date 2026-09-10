@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const vetreriaArtisticaRenoSchiavonSRL = {
   id: "019f1b49-550c-734f-9431-ef96c93cf8a8",

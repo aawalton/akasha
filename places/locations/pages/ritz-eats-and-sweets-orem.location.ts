@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const ritzEatsAndSweetsOrem = {
   id: "019f322c-9b4d-7740-a1a6-eacd30df318d",

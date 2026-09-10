@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const rainbowDriveIn = {
   id: "019f1b49-52ce-7972-987d-423be6b0737b",

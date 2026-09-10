@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const catHeadSilhouetteFreeVectorsLogosIconsAndPhotosDownloads = {
   id: "019f1b49-5668-7105-b472-0ce955db36c1",

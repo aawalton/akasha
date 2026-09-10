@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const salsaAtSouthworthUtahCounty = {
   id: "019f322c-9b72-7a3d-a5e4-588bd960256a",

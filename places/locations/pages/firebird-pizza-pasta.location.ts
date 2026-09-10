@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const firebirdPizzaPasta = {
   id: "019f1aec-0d1f-7b66-9086-6b39428eafab",

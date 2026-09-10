@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const pasteisDeBelem = {
   id: "019f1aec-0ec4-7b13-bde3-5326d8101821",

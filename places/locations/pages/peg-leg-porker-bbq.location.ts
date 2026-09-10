@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const pegLegPorkerBbq = {
   id: "019f1b49-5466-74e2-b156-9859f7330afb",

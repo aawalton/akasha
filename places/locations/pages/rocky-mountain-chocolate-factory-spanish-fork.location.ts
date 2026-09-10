@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const rockyMountainChocolateFactorySpanishFork = {
   id: "019f322c-9b53-7df7-8c6d-49c30b99e6c5",

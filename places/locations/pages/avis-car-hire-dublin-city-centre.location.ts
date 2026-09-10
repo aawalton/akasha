@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const avisCarHireDublinCityCentre = {
   id: "019f1b49-531c-77de-a15c-3b32be0d305d",

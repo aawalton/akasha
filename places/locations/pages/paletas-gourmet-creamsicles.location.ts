@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const paletasGourmetCreamsicles = {
   id: "019f1aec-0ccc-737c-b26d-eba2b5e282ae",

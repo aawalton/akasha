@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const jackInTheBoxUtahCounty = {
   id: "019f322c-9730-77c7-8742-d8ef5d068ab2",

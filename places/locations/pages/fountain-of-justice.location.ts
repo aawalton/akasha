@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const fountainOfJustice = {
   id: "019f1b49-5632-78a8-bc47-68a8b077c986",

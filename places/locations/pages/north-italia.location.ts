@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.ts"
+import type { Location } from "../location.page-type.types.ts"
 
 export const northItalia = {
   id: "019f1aec-0ce7-7336-9a65-eadbf1bc732a",
