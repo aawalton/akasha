@@ -137,8 +137,13 @@ function spelledFor(given: Asked, from: string): string {
   return held === null ? from : specifierFor(dirname(given.to), held)
 }
 
+function ownIn(given: Asked, from: string): boolean {
+  return from.startsWith(BESIDE) && landingOf(given.from, from) === given.to
+}
+
 function bodyFor(carried: ReadonlyMap<string, Carried>, passage: string, given: Asked): string {
   const lines = [...carried]
+    .filter(([, named]) => !ownIn(given, named.from))
     .sort((one, two) => one[1].from.localeCompare(two[1].from))
     .map(([name, named]) => lineFor(name, spelledFor(given, named.from), named.type))
   const held = `${passage.replace(/^\n+/, "").trimEnd()}${LINE}`
@@ -301,12 +306,6 @@ function openedIn(landed: string, source: ts.SourceFile, lines: readonly string[
   return landed.replace(anchor, `${anchor}${LINE}${lines.join(LINE)}`)
 }
 
-function afterImports(at: string, text: string, passage: string): string {
-  const anchor = anchorIn(text, parsedAs(at, text))
-  if (anchor === null) return `${passage}${LINE}${LINE}${text}`
-  return text.replace(anchor, `${anchor}${LINE}${LINE}${passage}`)
-}
-
 function ontoFor(
   given: Asked,
   whole: string,
@@ -320,6 +319,7 @@ function ontoFor(
   const held = importsIn(source)
   const lines: string[] = []
   for (const [name, one] of carried) {
+    if (ownIn(given, one.from)) continue
     const spelled = spelledFor(given, one.from)
     const there = held.get(name)
     if (there === undefined) {
@@ -332,7 +332,7 @@ function ontoFor(
   }
   const opened = openedIn(landed, source, lines)
   const trimmed = passage.replace(/^\n+/, "").trimEnd()
-  return { at: given.to, old: whole, new: afterImports(given.to, opened, trimmed) }
+  return { at: given.to, old: whole, new: `${opened.trimEnd()}${LINE}${LINE}${trimmed}${LINE}` }
 }
 
 function planFor(

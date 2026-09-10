@@ -245,15 +245,13 @@ const IMPORTS_IT = `import { AT } from "./one.held.ts"
 export const OTHER = AT
 `
 
-test("a landing body already naming that import takes the declaration after its imports", async () => {
+test("a landing body already naming that import takes the declaration at its end", async () => {
   const world = worldOf({ [FROM]: VALUED, [TO]: ALREADY })
 
   const said = await runChange(world, { from: FROM, to: TO, of: "AT" })
 
   expect(said.refused).toBeNull()
-  expect(puttingAt(said, TO)).toEqual([
-    `import { join } from "node:path"\n\nexport const AT = join("a", "b")\n\nexport const OTHER = join("x", "y")\n`,
-  ])
+  expect(puttingAt(said, TO)).toEqual([`${ALREADY}\nexport const AT = join("a", "b")\n`])
 })
 
 test("a landing body naming no such import takes the import with the declaration", async () => {
@@ -263,8 +261,24 @@ test("a landing body naming no such import takes the import with the declaration
 
   expect(said.refused).toBeNull()
   expect(puttingAt(said, TO)).toEqual([
-    `import { join } from "node:path"\n\nexport const AT = join("a", "b")\n\nexport const OTHER = 1\n`,
+    `import { join } from "node:path"\n\n${BARE}\nexport const AT = join("a", "b")\n`,
   ])
+})
+
+const OWN_USING = `import type { Reached } from "../two/two.held.ts"
+
+export function reaches(): Reached {
+  return { absent: true }
+}
+`
+
+test("an import naming the landing body itself is left out of what lands", async () => {
+  const world = worldOf({ [FROM]: OWN_USING })
+
+  const said = await runChange(world, { from: FROM, to: ELSEWHERE, of: "reaches" })
+
+  expect(said.refused).toBeNull()
+  expect(addedAt(said, ELSEWHERE)).not.toContain("import")
 })
 
 test("a landing body that imported what moved no longer imports it", async () => {

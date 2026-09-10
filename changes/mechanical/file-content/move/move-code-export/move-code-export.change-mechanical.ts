@@ -26,11 +26,15 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing path holding a body takes the declaration after that body's imports.",
+      statement: "A landing path holding a body takes the declaration at the end of that body.",
     },
     {
       invariantKind: "departure",
       statement: "A landing body that imported what moved no longer imports it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An import naming the landing body itself is left out rather than written.",
     },
     {
       invariantKind: "departure",
