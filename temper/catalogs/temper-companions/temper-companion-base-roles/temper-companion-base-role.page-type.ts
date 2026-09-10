@@ -9,7 +9,7 @@ export type TemperCompanionBaseRole = TemperCompanionThing & {
   abbreviation: Abbreviation
   validArmorWeights: ValidArmorWeights
   validTraitIds: ValidTraitIds
-  validWeaponRoleIds: readonly ValidWeaponRoleIds[]
+  validWeaponRoleIds: ValidWeaponRoleIds
 }
 
 export const temperCompanionBaseRole = {
