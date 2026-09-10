@@ -1,4 +1,4 @@
-import type { IdentityStatement } from "../identity-statement.page-type.ts"
+import type { IdentityStatement } from "../identity-statement.page-type.types.ts"
 
 export const iAmAudhd = {
   id: "019ea810-a73a-70c4-8bb8-e4c4241dfcca",

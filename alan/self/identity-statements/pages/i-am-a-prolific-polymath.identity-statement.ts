@@ -1,4 +1,4 @@
-import type { IdentityStatement } from "../identity-statement.page-type.ts"
+import type { IdentityStatement } from "../identity-statement.page-type.types.ts"
 
 export const iAmAProlificPolymath = {
   id: "019ea810-a30f-7bbe-bbf1-37ac53f014d6",

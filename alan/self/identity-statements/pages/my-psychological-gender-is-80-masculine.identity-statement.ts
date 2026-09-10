@@ -1,4 +1,4 @@
-import type { IdentityStatement } from "../identity-statement.page-type.ts"
+import type { IdentityStatement } from "../identity-statement.page-type.types.ts"
 
 export const myPsychologicalGenderIs80Masculine = {
   id: "019ea810-a42b-73cd-a534-a062d7d7131e",

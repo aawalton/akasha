@@ -1,4 +1,4 @@
-import type { IdentityStatement } from "../identity-statement.page-type.ts"
+import type { IdentityStatement } from "../identity-statement.page-type.types.ts"
 
 export const femininityHasADarkSideAsWellAsALightSide = {
   id: "019ea810-a462-7c1c-bd25-f345fde6b5f4",

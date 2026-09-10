@@ -1,4 +1,4 @@
-import type { IdentityStatement } from "../identity-statement.page-type.ts"
+import type { IdentityStatement } from "../identity-statement.page-type.types.ts"
 
 export const iHaveAUniquePerspective = {
   id: "019ea810-ada7-7fa4-840f-9fa05a7bc09b",

@@ -1,4 +1,4 @@
-import type { IdentityStatement } from "../identity-statement.page-type.ts"
+import type { IdentityStatement } from "../identity-statement.page-type.types.ts"
 
 export const iValueOthersJustAsMuchAsIValueMyself = {
   id: "019ea810-ac9f-78f1-a8e4-e7fdef658aab",
