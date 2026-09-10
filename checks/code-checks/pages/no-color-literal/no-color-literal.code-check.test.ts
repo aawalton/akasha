@@ -1,131 +1,45 @@
-import { expect, test } from "bun:test"
-import { bodiesAt } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { afterAll, expect, test } from "bun:test"
+import { shadowFor } from "@akasha/pages/shadow"
+import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
+import { noColorLiteral } from "./no-color-literal.code-check.code.ts"
 import {
-  found as finding,
-  judgedAt as judging,
-  type Passing,
-  reasonsOver,
-} from "./no-color-literal.code-check.code.ts"
+  CODED_AT,
+  DRESSED_AT,
+  PAGE_AT,
+  rooted,
+  scratch,
+} from "./no-color-literal.code-check.decision.test-fixtures.ts"
 
-const ROOT = "/repo"
+afterAll(scratch.sweep)
 
-const GRANTED_AT = "alan/atlas-web/location-map/location-map.module.code.tsx"
+const WRITTEN = 'export const ACCENT = "#b87b11"\n'
 
-const HOME = "checks/code-checks/pages/no-color-literal/"
-
-const PASSING: Passing = {
-  palette: "design/",
-  home: HOME,
-  granted: new Map([[GRANTED_AT, new Set(["#e6e4df"])]]),
+function judged(root: string, changed: readonly string[]): readonly Judged[] {
+  const held = change(root, changed)
+  const cast = shadowFor(held)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return noColorLiteral(held, cast.shadow)
 }
 
-const reasonsIn = reasonsOver(PASSING)
-
-function found(path: string, text: string): readonly string[] {
-  return finding(PASSING, path, text)
-}
-
-function judgedAt(path: string): boolean {
-  return judging(PASSING, path)
-}
-
-const coded = bodiesAt(ROOT, "alan/web/held/held.module.code.ts")
-
-const dressed = bodiesAt(ROOT, "alan/web/held/held.stylesheet.styles.css")
-
-test("a stylesheet reaching a token by name is let through", () => {
-  expect(reasonsIn(dressed(".held {\n  color: var(--yellow);\n}\n"))).toEqual([])
+test("a color a text the change carries writes out is refused, and names that path", () => {
+  const said = judged(rooted({ [CODED_AT]: WRITTEN }), [CODED_AT])
+  expect(said.map((one) => one.path)).toEqual([CODED_AT])
+  expect(said[0]?.reason).toContain("#b87b11")
 })
 
-test("a stylesheet writing a color out is refused, and names the line", () => {
-  const said = reasonsIn(dressed(".held {\n  color: #b87b11;\n}\n"))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("line 2")
-  expect(said[0]).toContain("#b87b11")
+test("a color a stylesheet the change carries writes out is refused too", () => {
+  const body = ".held {\n  color: #b87b11;\n}\n"
+  const said = judged(rooted({ [DRESSED_AT]: body }), [DRESSED_AT])
+  expect(said.map((one) => one.path)).toEqual([DRESSED_AT])
 })
 
-test("a color worked out from a token by relative color syntax is let through", () => {
-  const body =
-    "::selection {\n  background-color: oklch(from var(--color-accent) l c h / 0.15);\n}\n"
-  expect(reasonsIn(dressed(body))).toEqual([])
+test("a page the change carries states a value and dresses nothing, so nothing judges it", () => {
+  const body = 'export const held = { slug: "held", accent: "#b87b11" }\n'
+  expect(judged(rooted({ [PAGE_AT]: body }), [PAGE_AT])).toEqual([])
 })
 
-test("an achromatic color at an alpha is a shadow rather than a shade of the palette", () => {
-  expect(reasonsIn(dressed(".held {\n  box-shadow: 0 1px 3px rgb(0 0 0 / 40%);\n}\n"))).toEqual([])
-})
-
-test("an achromatic color among the other words of one value is let through", () => {
-  expect(reasonsIn(dressed(".held {\n  border: 1px solid #3a3a3a;\n}\n"))).toEqual([])
-})
-
-test("an achromatic color alone in one value is refused", () => {
-  expect(reasonsIn(dressed(".held {\n  color: #888888;\n}\n"))).toHaveLength(1)
-})
-
-test("a string that is one color on its own is refused", () => {
-  const said = reasonsIn(coded('export const ACCENT = "oklch(0.63 0.13 73)"\n'))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("line 1")
-})
-
-test("a string naming a custom property is let through", () => {
-  expect(reasonsIn(coded('export const ACCENT = "var(--yellow)"\n'))).toEqual([])
-})
-
-test("a color a color-bearing key carries is refused", () => {
-  const said = reasonsIn(coded('const HELD = { borderTop: "1px solid #a51c32" }\n'))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("#a51c32")
-})
-
-test("a color inside a utility class's bracketed value is refused", () => {
-  const said = reasonsIn(coded('export const HELD = "rounded text-[#2c5a9d] p-2"\n'))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("#2c5a9d")
-})
-
-test("an address holding a hash and digits is no color", () => {
-  expect(reasonsIn(coded('export const AT = "180 S Main St #100, Bountiful, UT 84010"\n'))).toEqual(
-    []
-  )
-})
-
-test("a value Alan granted a file is let through in that file alone", () => {
-  const body = 'const FALLBACK_BACKGROUND = "#e6e4df"\n'
-  expect(found(GRANTED_AT, body)).toEqual([])
-  expect(found("alan/web/held/held.module.code.ts", body)).toHaveLength(1)
-})
-
-test("a value no grant names is refused in a file holding a grant", () => {
-  expect(found(GRANTED_AT, 'const OTHER = "#b87b11"\n')).toHaveLength(1)
-})
-
-test("the palette's own home is judged by nothing", () => {
-  expect(judgedAt("design/system/token-values/token-values.stylesheet.styles.css")).toBe(false)
-  expect(found("design/colors/pages/yellow.color.ts", 'const hex = "#b87b11"\n')).toEqual([])
-})
-
-test("a test body and a generated body are judged by nothing", () => {
-  expect(judgedAt("alan/web/held/held.module.test.ts")).toBe(false)
-  expect(judgedAt("pages/core/generated/entries-00/entries-00.module.code.ts")).toBe(false)
-  expect(judgedAt("alan/web/held/held.generated.ts")).toBe(false)
-})
-
-test("the check's own home is judged by nothing, so the grants it states are no violation", () => {
-  expect(judgedAt(`${HOME}no-color-literal.code-check.code.ts`)).toBe(false)
-  expect(judgedAt(`${HOME}no-color-literal.code-check.decision.code.ts`)).toBe(false)
-})
-
-test("a body that is neither code nor a stylesheet is passed over", () => {
-  const held = {
-    root: ROOT,
-    path: "alan/web/notes.md",
-    bytes: new TextEncoder().encode('color: "#b87b11"\n'),
-  }
-  expect(reasonsIn(held)).toEqual([])
-})
-
-test("every color a body writes out is reported, one reason each", () => {
-  const body = ".one {\n  color: #b87b11;\n}\n.two {\n  color: #a51c32;\n}\n"
-  expect(reasonsIn(dressed(body))).toHaveLength(2)
+test("a body the change carries that is neither text nor stylesheet is passed over", () => {
+  const at = "alan/web/notes.md"
+  expect(judged(rooted({ [at]: WRITTEN }), [at])).toEqual([])
 })
