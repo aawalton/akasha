@@ -1,7 +1,5 @@
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
 
-export type PersonAccessKind = "database-row" | "domain" | "page-type" | "route"
-
 export const personAccessKind = {
   id: "01a0542e-017c-7d0a-bbee-cf9bbe611884",
   pageTypeSlug: "relation-property",
@@ -10,4 +8,5 @@ export const personAccessKind = {
   propertySlug: "access-kind",
   definition: "which sort of thing the access reaches",
   targetPageType: "page-type/access-kind",
+  types: "ts",
 } as const satisfies RelationProperty

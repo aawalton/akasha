@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type ChampionedDomain = Slug
 
 export const championedDomain = {
   id: "01a0534a-80f9-742b-83f5-bdbe548d9b58",
@@ -11,4 +8,5 @@ export const championedDomain = {
   propertySlug: "championed-domain",
   definition: "the domain a persona champions",
   targetPageType: "page-type/domain",
+  types: "ts",
 } as const satisfies RelationProperty

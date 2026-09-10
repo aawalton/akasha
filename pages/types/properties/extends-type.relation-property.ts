@@ -1,8 +1,4 @@
-import type { Slug } from "../../properties/slug.text-property.ts"
 import type { RelationProperty } from "../../relation-properties/relation-property.page-type.types.ts"
-import type { List } from "../page-properties/page-property.page-type.ts"
-
-export type ExtendsType = List<Slug>
 
 export const extendsType = {
   id: "01a049b9-856c-78f3-ac14-e3f86c75d104",
@@ -34,4 +30,5 @@ export const extendsType = {
       statement: "A type naming no type states an empty list rather than nothing.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

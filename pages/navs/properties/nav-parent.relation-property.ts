@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type NavParent = Slug
 
 export const navParent = {
   id: "01a0680e-5e00-7001-b562-4f8a2d1c5102",
@@ -21,4 +18,5 @@ export const navParent = {
       statement: "A nav item naming no parent is at the top.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

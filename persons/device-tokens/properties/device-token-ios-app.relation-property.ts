@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type DeviceTokenIosApp = Slug
 
 export const deviceTokenIosApp = {
   id: "01a05dc7-77db-7e0b-a9c2-97d83c1cd9fd",
@@ -17,4 +14,5 @@ export const deviceTokenIosApp = {
       statement: "The bundle a push is addressed to is read from the app rather than kept here.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

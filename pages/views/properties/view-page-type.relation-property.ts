@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type ViewPageType = Slug
 
 export const viewPageType = {
   id: "01a078d1-cb91-71c2-895b-d2fc87b9e79e",
@@ -25,4 +22,5 @@ export const viewPageType = {
       statement: "A view naming neither lists nothing.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

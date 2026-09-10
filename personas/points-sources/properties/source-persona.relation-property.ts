@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type SourcePersona = Slug
 
 export const sourcePersona = {
   id: "01a06d68-851d-7f22-97a3-73cc26de43fd",
@@ -11,4 +8,5 @@ export const sourcePersona = {
   propertySlug: "persona",
   definition: "the persona whose points a source is counted into",
   targetPageType: "page-type/persona",
+  types: "ts",
 } as const satisfies RelationProperty

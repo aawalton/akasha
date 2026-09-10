@@ -1,7 +1,4 @@
-import type { Slug } from "../../properties/slug.text-property.ts"
 import type { RelationProperty } from "../../relation-properties/relation-property.page-type.types.ts"
-
-export type Owner = Slug
 
 export const owner = {
   id: "01a06c50-b15f-7d22-9f4b-7590e602dd05",
@@ -25,4 +22,5 @@ export const owner = {
       statement: "A narrow on who owns a page is lowered onto the property a page type names.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

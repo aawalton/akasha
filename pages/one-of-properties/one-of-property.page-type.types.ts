@@ -1,5 +1,5 @@
 import type { PageProperty } from "../types/page-properties/page-property.page-type.types.ts"
-import type { Members } from "./properties/members.relation-property.ts"
+import type { Members } from "./properties/members.relation-property.types.ts"
 
 export type OneOfProperty = PageProperty & {
   members: Members

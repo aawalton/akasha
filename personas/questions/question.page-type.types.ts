@@ -1,7 +1,7 @@
 import type { Page } from "../../pages/page.page-type.types.ts"
 import type { QuestionAnswer } from "./properties/question-answer.text-property.ts"
 import type { QuestionAsk } from "./properties/question-ask.text-property.ts"
-import type { QuestionAskedBy } from "./properties/question-asked-by.relation-property.ts"
+import type { QuestionAskedBy } from "./properties/question-asked-by.relation-property.types.ts"
 import type { QuestionAskedIn } from "./properties/question-asked-in.text-property.ts"
 import type { QuestionClosedAt } from "./properties/question-closed-at.instant-property.types.ts"
 import type { QuestionContext } from "./properties/question-context.file-property.ts"

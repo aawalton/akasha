@@ -1,7 +1,7 @@
 import type { Page } from "../../pages/page.page-type.types.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Address } from "./properties/address.text-property.ts"
-import type { Collection } from "./properties/collection.relation-property.ts"
+import type { Collection } from "./properties/collection.relation-property.types.ts"
 import type { CuisineOrType } from "./properties/cuisine-or-type.text-property.ts"
 import type { Latitude } from "./properties/latitude.number-property.types.ts"
 import type { LocationCategory } from "./properties/location-category.text-property.ts"

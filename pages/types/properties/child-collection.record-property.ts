@@ -1,6 +1,6 @@
 import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
 import type { ChildRelation } from "./child-relation.text-property.ts"
-import type { ChildType } from "./child-type.relation-property.ts"
+import type { ChildType } from "./child-type.relation-property.types.ts"
 
 export type ChildCollection = {
   childType: ChildType

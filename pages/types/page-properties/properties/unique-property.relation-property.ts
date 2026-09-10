@@ -1,7 +1,5 @@
 import type { RelationProperty } from "../../../relation-properties/relation-property.page-type.types.ts"
 
-export type UniqueProperty = string
-
 export const uniqueProperty = {
   id: "01a07c96-3272-7d36-9394-051287145f2a",
   pageTypeSlug: "relation-property",
@@ -37,4 +35,5 @@ export const uniqueProperty = {
       statement: "A property naming none is unique across the whole of the kind it states.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

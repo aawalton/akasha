@@ -4,11 +4,11 @@ import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Icon } from "../../temper/things/properties/icon.text-property.ts"
 import type { ValueSlug } from "../properties/value-slug.text-property.ts"
 import type { AdvanceCount } from "./properties/advance-count.number-property.types.ts"
-import type { CraftDayPersona } from "./properties/craft-day-persona.relation-property.ts"
+import type { CraftDayPersona } from "./properties/craft-day-persona.relation-property.types.ts"
 import type { GreenDay } from "./properties/green-day.number-property.types.ts"
 import type { ImprovementCount } from "./properties/improvement-count.number-property.types.ts"
 import type { NewPersonaCount } from "./properties/new-persona-count.number-property.types.ts"
-import type { PersonasCrafted } from "./properties/personas-crafted.relation-property.ts"
+import type { PersonasCrafted } from "./properties/personas-crafted.relation-property.types.ts"
 
 export type PersonaCraftDay = Page & {
   title: Title

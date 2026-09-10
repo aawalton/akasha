@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type DeviceTokenPerson = Slug
 
 export const deviceTokenPerson = {
   id: "01a05dc7-77db-73e5-a433-7a5181faab7e",
@@ -18,4 +15,5 @@ export const deviceTokenPerson = {
         "The account a person signed in under is read from that person rather than kept here.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

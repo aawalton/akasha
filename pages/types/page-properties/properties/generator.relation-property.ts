@@ -1,7 +1,5 @@
 import type { RelationProperty } from "../../../relation-properties/relation-property.page-type.types.ts"
 
-export type Generator = "uuid-v7"
-
 export const generator = {
   id: "01a04f17-5b7b-7835-87db-af7b36e912b5",
   pageTypeSlug: "relation-property",
@@ -28,4 +26,5 @@ export const generator = {
       statement: "A move is one page arriving somewhere else rather than a second page.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

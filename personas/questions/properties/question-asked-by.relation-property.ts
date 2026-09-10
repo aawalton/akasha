@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type QuestionAskedBy = Slug
 
 export const questionAskedBy = {
   id: "01a06823-89b2-7002-ab72-c525aa8adb1e",
@@ -22,4 +19,5 @@ export const questionAskedBy = {
       statement: "The persona who put a question is the persona Alan's answer comes back to.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

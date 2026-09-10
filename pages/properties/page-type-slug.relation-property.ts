@@ -1,7 +1,4 @@
 import type { RelationProperty } from "../relation-properties/relation-property.page-type.types.ts"
-import type { Slug } from "./slug.text-property.ts"
-
-export type PageTypeSlug = Slug
 
 export const pageTypeSlug = {
   id: "01a04a10-319c-7000-a5f4-e048da231b65",
@@ -11,4 +8,5 @@ export const pageTypeSlug = {
   propertySlug: "page-type-slug",
   definition: "the page type a page is",
   targetPageType: "page-type/page-type",
+  types: "ts",
 } as const satisfies RelationProperty

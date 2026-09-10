@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type Collection = Slug
 
 export const collection = {
   id: "01a06583-acfb-7d2e-8d12-b5df7cabbd81",
@@ -11,4 +8,5 @@ export const collection = {
   propertySlug: "collection",
   definition: "the location collection a place or an offer is part of",
   targetPageType: "page-type/location-collection",
+  types: "ts",
 } as const satisfies RelationProperty
