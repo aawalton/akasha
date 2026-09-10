@@ -12,6 +12,7 @@ import {
   sha256Hex,
 } from "akasha/inference/runs/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import {
   aloneIn,
   calledAs,
@@ -144,7 +145,7 @@ export async function inferenceUpscale(argv: readonly string[]): Promise<Answer>
                 outName,
                 resolution,
                 seed,
-                upscaleHome: upscaleHomeOf(process.env[UPSCALE_HOME]),
+                upscaleHome: upscaleHomeOf(optionalEnv(UPSCALE_HOME)),
               })
         await ensureOutputDir(outputPath)
         await writeFile(outputPath, outputBytes)
