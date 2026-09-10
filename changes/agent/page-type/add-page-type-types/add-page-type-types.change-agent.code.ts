@@ -1,7 +1,7 @@
 import { parsedAs } from "@akasha/code/code-source"
 import { typedAs } from "@akasha/pages/page-export-name"
 import { besideAt } from "@akasha/pages/page-file-name"
-import { textAt } from "@akasha/pages/page-value-reading"
+import { slugsIn, textAt } from "@akasha/pages/page-value-reading"
 import ts from "typescript"
 import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
@@ -29,6 +29,8 @@ const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 const SLUG = "slug"
 
+const ABOVE = "extends"
+
 export type AddPageTypeTypesAsked = {
   readonly at: string
 }
@@ -54,6 +56,33 @@ export function listedIn(source: ts.SourceFile, of: string): string | null {
   return null
 }
 
+export type Listed = {
+  readonly at: string
+  readonly key: string
+}
+
+export function listedAbove(world: World, at: string): Listed | null {
+  const seen = new Set<string>()
+  const left = [at]
+  for (let one = left.shift(); one !== undefined; one = left.shift()) {
+    if (seen.has(one)) continue
+    seen.add(one)
+    const owner = pageIn(world, one)
+    if (owner === null) continue
+    const slug = textAt(owner, SLUG)
+    const text = world.textOf(one)
+    if (slug !== null && text !== null) {
+      const key = listedIn(parsedAs(one, text), typedAs(slug))
+      if (key !== null) return { at: one, key }
+    }
+    for (const above of slugsIn(owner[ABOVE])) {
+      const found = world.index.listedAt(PAGE_TYPE, above)[0]
+      if (found !== undefined) left.push(found.path)
+    }
+  }
+  return null
+}
+
 export async function addPageTypeTypes(
   world: World,
   given: AddPageTypeTypesAsked
@@ -67,13 +96,12 @@ export async function addPageTypeTypes(
   if (slug === null) return refusing(`\`${given.at}\` states no slug`)
   const to = besideAt(given.at, TYPES, HOLDS)
   if (to === null) return refusing(`\`${given.at}\` is no body another file sits beside`)
-  const text = world.textOf(given.at)
-  if (text === null) return refusing(`\`${given.at}\` could not be read`)
-  const many = listedIn(parsedAs(given.at, text), typedAs(slug))
+  const many = listedAbove(world, given.at)
   if (many !== null) {
     return refusing(
-      `\`${many}\` is written as a list of another type, and a written type names a property's ` +
-        `own type, so that property carries its list before this page type is turned over`
+      `\`${many.key}\` is written as a list of another type in \`${many.at}\`, and a written type ` +
+        `names a property's own type, so that property carries its list before this page type is ` +
+        `turned over`
     )
   }
   const answers: Answer[] = []

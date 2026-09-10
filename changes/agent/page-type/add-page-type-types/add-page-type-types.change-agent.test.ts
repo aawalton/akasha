@@ -164,6 +164,40 @@ test("a page type whose type spells a list of another type is refused, naming th
   expect(seen).toEqual([])
 })
 
+const ABOVE_AT = "held/twos/two.page-type.ts"
+
+const ABOVE_LISTED = `export type Two = {
+  names: readonly Name[]
+}
+`
+
+function worldAbove(reaching: Reaching): World {
+  const pages: Record<string, Record<string, unknown>> = {
+    [AT]: { pageTypeSlug: "page-type", slug: "one", extends: ["page-type/two"] },
+    [ABOVE_AT]: { pageTypeSlug: "page-type", slug: "two" },
+  }
+  const bodies: Record<string, string> = { [AT]: BODY, [ABOVE_AT]: ABOVE_LISTED }
+  return {
+    ...worldOf({}),
+    index: {
+      pageByPath: (path: string) => pages[path] ?? null,
+      listedAt: () => [{ path: ABOVE_AT }],
+    } as never,
+    textOf: (path: string) => bodies[path] ?? null,
+    reaching,
+  }
+}
+
+test("a list spelled in a type the page type extends is refused, naming that file", async () => {
+  const seen: Reached[] = []
+
+  const said = await addPageTypeTypes(worldAbove(catching(seen)), { at: AT })
+
+  expect(said.refused ?? "").toMatch(/`names`/)
+  expect(said.refused ?? "").toContain(ABOVE_AT)
+  expect(seen).toEqual([])
+})
+
 test("a page type whose keys each name one type is turned over", async () => {
   const seen: Reached[] = []
 
