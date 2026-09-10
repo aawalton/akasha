@@ -1,4 +1,4 @@
-import type { TemperCompanionRole } from "../temper-companion-role.page-type.ts"
+import type { TemperCompanionRole } from "../temper-companion-role.page-type.types.ts"
 
 export const healerSupport = {
   id: "01a05fcd-70fe-765b-aaab-9cf083672f4d",

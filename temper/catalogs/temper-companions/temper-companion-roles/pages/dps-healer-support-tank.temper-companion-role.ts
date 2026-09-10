@@ -1,4 +1,4 @@
-import type { TemperCompanionRole } from "../temper-companion-role.page-type.ts"
+import type { TemperCompanionRole } from "../temper-companion-role.page-type.types.ts"
 
 export const dpsHealerSupportTank = {
   id: "01a05fcd-70fc-7826-9c94-d38647275dda",
