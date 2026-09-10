@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type InvariantGroup = Slug
 
 export const invariantGroup = {
   id: "01a04e11-9f98-7cf1-ac25-c66b4eea07c5",
@@ -11,4 +8,5 @@ export const invariantGroup = {
   propertySlug: "invariant-group",
   definition: "a slug naming an invariant group",
   targetPageType: "page-type/invariant-group",
+  types: "ts",
 } as const satisfies RelationProperty

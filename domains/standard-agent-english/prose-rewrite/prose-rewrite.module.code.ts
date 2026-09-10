@@ -1,5 +1,5 @@
 import type { Found } from "../prose-pattern/prose-pattern.module.code.ts"
-import type { ProseFrame } from "../terms/banned-terms/properties/prose-frame.relation-property.ts"
+import type { ProseFrame } from "../terms/banned-terms/properties/prose-frame.relation-property.types.ts"
 
 const SLOT = /^\[[a-z]+\]$/
 

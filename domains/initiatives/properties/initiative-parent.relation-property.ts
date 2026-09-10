@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type InitiativeParent = Slug
 
 export const initiativeParent = {
   id: "01a04e58-5735-7668-9aee-b2da5c7b346a",
@@ -21,4 +18,5 @@ export const initiativeParent = {
       statement: "This edge is read inverted.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

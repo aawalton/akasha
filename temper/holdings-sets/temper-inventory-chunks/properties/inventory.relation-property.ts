@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type Inventory = Slug
 
 export const inventory = {
   id: "01a05fcb-fd2e-7b76-8f9e-ab136135d3a5",
@@ -11,4 +8,5 @@ export const inventory = {
   propertySlug: "inventory",
   definition: "the reading a slice belongs to",
   targetPageType: "page-type/temper-inventory-snapshot",
+  types: "ts",
 } as const satisfies RelationProperty

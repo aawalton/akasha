@@ -1,7 +1,5 @@
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
 
-export type ProseFrame = "object" | "fronted" | "participle" | "placed"
-
 export const proseFrame = {
   id: "01a08243-41cd-7873-9af3-308bc9152b5d",
   pageTypeSlug: "relation-property",
@@ -21,4 +19,5 @@ export const proseFrame = {
       statement: "The frame a pair names is the frame a reader of the sentence's tree answers.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

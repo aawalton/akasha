@@ -1,5 +1,5 @@
-import type { Initiative } from "akasha/domains/initiatives/properties/initiative.relation-property.ts"
-import type { PageDomain } from "akasha/domains/properties/page-domain.relation-property.ts"
+import type { Initiative } from "akasha/domains/initiatives/properties/initiative.relation-property.types.ts"
+import type { PageDomain } from "akasha/domains/properties/page-domain.relation-property.types.ts"
 import type { OneOfProperty } from "akasha/pages/one-of-properties/one-of-property.page-type.types.ts"
 
 export type AssignmentSlug = PageDomain | Initiative

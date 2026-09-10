@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type ModelFamily = Slug
 
 export const modelFamily = {
   id: "01a053eb-6b27-7641-97ae-c865663ac0d5",
@@ -11,4 +8,5 @@ export const modelFamily = {
   propertySlug: "model-family",
   definition: "a slug naming a model family",
   targetPageType: "page-type/model-family",
+  types: "ts",
 } as const satisfies RelationProperty

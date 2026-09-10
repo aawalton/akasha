@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type Index = Slug
 
 export const index = {
   id: "01a04fe8-cebe-7dd9-9d9f-9c476d9fd293",
@@ -11,4 +8,5 @@ export const index = {
   propertySlug: "index",
   definition: "the index answering an edge kind",
   targetPageType: "page-type/index",
+  types: "ts",
 } as const satisfies RelationProperty

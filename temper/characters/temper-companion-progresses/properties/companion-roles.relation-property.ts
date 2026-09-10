@@ -1,8 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type CompanionRoles = List<Slug>
 
 export const companionRoles = {
   id: "01a076c3-0a1f-7a37-9498-511bec8c2675",
@@ -12,4 +8,5 @@ export const companionRoles = {
   propertySlug: "roles",
   definition: "a duty a companion is planned to cover",
   targetPageType: "page-type/temper-companion-role",
+  types: "ts",
 } as const satisfies RelationProperty

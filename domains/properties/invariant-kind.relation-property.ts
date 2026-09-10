@@ -1,7 +1,5 @@
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
 
-export type InvariantKind = "departure" | "absence" | "constraint" | "gap" | "stopgap" | "upkeep"
-
 export const invariantKind = {
   id: "01a04d66-767b-740d-a958-1f84e5858ad0",
   pageTypeSlug: "relation-property",
@@ -17,4 +15,5 @@ export const invariantKind = {
         "The plain word `kind` names the kind of value a property holds rather than the kind of invariant.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

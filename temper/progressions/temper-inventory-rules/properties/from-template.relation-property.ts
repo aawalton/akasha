@@ -1,7 +1,5 @@
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
 
-export type FromTemplate = string
-
 export const fromTemplate = {
   id: "01a07283-f295-75b5-b96e-68b5ca4e2ea7",
   pageTypeSlug: "relation-property",
@@ -16,4 +14,5 @@ export const fromTemplate = {
       statement: "A rule a player wrote from nothing names no template.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

@@ -1,7 +1,5 @@
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
 
-export type QuestGiver = string
-
 export const questGiver = {
   id: "01a05fc4-7a93-7960-9695-186bd5fc0248",
   pageTypeSlug: "relation-property",
@@ -10,4 +8,5 @@ export const questGiver = {
   propertySlug: "quest-giver",
   definition: "the character handing out a dungeon's pledge",
   targetPageType: "page-type/temper-quest-giver",
+  types: "ts",
 } as const satisfies RelationProperty

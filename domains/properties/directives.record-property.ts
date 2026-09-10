@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { Act } from "./act.standard-agent-english-property.ts"
 import type { Aids } from "./aids.standard-agent-english-property.ts"
-import type { DirectiveKind } from "./directive-kind.relation-property.ts"
+import type { DirectiveKind } from "./directive-kind.relation-property.types.ts"
 import type { Name } from "./name.text-property.ts"
 import type { Warrant } from "./warrant.standard-agent-english-property.ts"
 

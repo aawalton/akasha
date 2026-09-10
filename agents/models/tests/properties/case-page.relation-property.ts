@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type CasePage = Slug
 
 export const casePage = {
   id: "01a05f8d-eaa0-7000-8c49-cf81f87d38a4",
@@ -11,4 +8,5 @@ export const casePage = {
   propertySlug: "page",
   definition: "the page a case is drawn from",
   targetPageType: "page-type/page",
+  types: "ts",
 } as const satisfies RelationProperty

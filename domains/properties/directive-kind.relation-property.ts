@@ -1,7 +1,5 @@
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
 
-export type DirectiveKind = "rule" | "principle"
-
 export const directiveKind = {
   id: "01a04e1f-cbf6-7619-8cf2-ab2e898f5abe",
   pageTypeSlug: "relation-property",
@@ -10,4 +8,5 @@ export const directiveKind = {
   propertySlug: "directive-kind",
   definition: "which sort of directive one entry is",
   targetPageType: "page-type/directive-kind",
+  types: "ts",
 } as const satisfies RelationProperty

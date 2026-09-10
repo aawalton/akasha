@@ -1,8 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type Secrets = List<Slug>
 
 export const secrets = {
   id: "01a081fd-c5ac-72ac-acff-a780301c30e4",
@@ -27,4 +23,5 @@ export const secrets = {
       statement: "A resource a workload reads under many keys is named one secret per key.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

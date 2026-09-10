@@ -1,6 +1,6 @@
 import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 import type { Cases } from "./properties/cases.page-property-entry.types.ts"
-import type { ModelFamily } from "./properties/model-family.relation-property.ts"
+import type { ModelFamily } from "./properties/model-family.relation-property.types.ts"
 import type { Prompt } from "./properties/prompt.text-property.ts"
 
 export type ModelTest = Module & {

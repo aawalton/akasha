@@ -1,7 +1,5 @@
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
 
-export type Goal = string
-
 export const goal = {
   id: "01a05fd0-3aa5-7e52-843e-37a0187718f4",
   pageTypeSlug: "relation-property",
@@ -10,4 +8,5 @@ export const goal = {
   propertySlug: "goal",
   definition: "what a player is keeping the item for",
   targetPageType: "page-type/temper-rule-goal",
+  types: "ts",
 } as const satisfies RelationProperty

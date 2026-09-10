@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type ClusterServiceManifest = Slug
 
 export const clusterServiceManifest = {
   id: "01a07317-ae51-7f69-a24e-d94859315637",
@@ -25,4 +22,5 @@ export const clusterServiceManifest = {
       statement: "The index answers for the code file.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

@@ -1,8 +1,4 @@
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-import type { PageDomain } from "./page-domain.relation-property.ts"
-
-export type Parts = List<PageDomain>
 
 export const parts = {
   id: "01a0877e-e1fa-73c7-909f-f872c144f719",
@@ -22,4 +18,5 @@ export const parts = {
       statement: "A page is named by exactly one parent.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

@@ -1,5 +1,5 @@
 import type { Page } from "../../pages/page.page-type.types.ts"
-import type { PageDomain } from "../properties/page-domain.relation-property.ts"
+import type { PageDomain } from "../properties/page-domain.relation-property.types.ts"
 import type { Claim } from "./properties/claim.text-property.ts"
 import type { Evidence } from "./properties/evidence.text-property.ts"
 
