@@ -22,7 +22,8 @@ export const costRing = {
     },
     {
       invariantKind: "departure",
-      statement: "A cost carrying the surplus it was colored with counts down to that surplus.",
+      statement:
+        "A cost carrying the surplus that cost was colored with counts down to that surplus.",
     },
     {
       invariantKind: "departure",
@@ -30,12 +31,19 @@ export const costRing = {
     },
     {
       invariantKind: "departure",
-      statement: "A rung already crossed is never aimed at, the one under it being aimed at.",
+      statement: "A rung already crossed is never aimed at.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The wait shrinks a second a second whatever the rate, so the rate fixes the moment only.",
+      statement: "The rung under a crossed rung is aimed at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The wait shrinks a second a second whatever the rate.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rate fixes the moment only.",
     },
     {
       invariantKind: "departure",
@@ -52,11 +60,15 @@ export const costRing = {
     },
     {
       invariantKind: "departure",
-      statement: "A figure is floored before it is sent, so a band read off a figure reads wrong.",
+      statement: "A figure is floored before that figure is sent.",
     },
     {
       invariantKind: "departure",
-      statement: "A cost drawn green or black is left as the server drew it.",
+      statement: "A band read off a figure reads wrong.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cost drawn green or black is left as the server drew that cost.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +76,11 @@ export const costRing = {
     },
     {
       invariantKind: "departure",
-      statement: "That moment is handed to the feed, which draws the tile again there.",
+      statement: "That moment is handed to the feed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The feed draws the tile again at that moment.",
     },
     {
       invariantKind: "absence",
