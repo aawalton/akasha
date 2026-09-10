@@ -1,4 +1,4 @@
-import type { TemperCompanionWeaponSlot } from "../temper-companion-weapon-slot.page-type.ts"
+import type { TemperCompanionWeaponSlot } from "../temper-companion-weapon-slot.page-type.types.ts"
 
 export const offHand = {
   id: "01a05fcd-7102-774d-92fc-2ae4fd766287",
