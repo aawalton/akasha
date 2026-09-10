@@ -1,4 +1,4 @@
-import type { CapturedAt } from "../../catalogs/temper-world/properties/captured-at.instant-property.ts"
+import type { CapturedAt } from "../../catalog/temper-world/properties/captured-at.instant-property.ts"
 import type { AccountPage } from "../../things/properties/account-page.text-property.ts"
 import type { TotalValue } from "../things/properties/total-value.number-property.ts"
 import type { TemperHoldingsThing } from "../things/temper-holdings-thing.page-type.types.ts"

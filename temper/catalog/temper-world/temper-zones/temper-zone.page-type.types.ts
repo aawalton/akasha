@@ -1,4 +1,4 @@
-import type { TemperCatalogThing } from "../../../catalog/things/temper-catalog-thing.page-type.types.ts"
+import type { TemperCatalogThing } from "../../things/temper-catalog-thing.page-type.types.ts"
 import type { DropsScripts } from "../properties/drops-scripts.boolean-property.ts"
 import type { IsDlc } from "../properties/is-dlc.boolean-property.ts"
 

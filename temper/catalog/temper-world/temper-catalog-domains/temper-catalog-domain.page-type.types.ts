@@ -1,5 +1,5 @@
-import type { TemperCatalogThing } from "../../../catalog/things/temper-catalog-thing.page-type.types.ts"
 import type { Icon } from "../../../things/properties/icon.text-property.ts"
+import type { TemperCatalogThing } from "../../things/temper-catalog-thing.page-type.types.ts"
 import type { ApiVersion } from "../properties/api-version.text-property.ts"
 import type { CapturedAt } from "../properties/captured-at.instant-property.ts"
 import type { Dormant } from "../properties/dormant.boolean-property.ts"
