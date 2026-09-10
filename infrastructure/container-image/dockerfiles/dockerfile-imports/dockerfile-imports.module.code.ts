@@ -1,5 +1,5 @@
 import { existsSync, readFileSync, statSync } from "node:fs"
-import { dirname, join, resolve } from "node:path"
+import { dirname, join, relative, resolve } from "node:path"
 import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import { Glob } from "bun"
 import { readJson } from "../dockerfile-deps/dockerfile-deps.module.code.ts"
@@ -20,6 +20,7 @@ const RESOLVE_SUFFIXES = [
   "/index.js",
 ] as const
 const EXPORT_CONDITIONS = ["bun", "import", "module", "default", "require"] as const
+const ROOT_PACKAGE = "akasha"
 
 function isTestOrDeclaration(relPath: string): boolean {
   return relPath.endsWith(".d.ts") || /\.test\.tsx?$/.test(relPath)
@@ -120,14 +121,25 @@ function transpilerFor(file: string): Bun.Transpiler {
   return transpiler
 }
 
+function foldedDirs(files: ReadonlySet<string>, appDir: string): readonly string[] {
+  const appAt = join(ROOT, appDir)
+  const held = new Set<string>()
+  for (const file of files) {
+    if (file === appAt || file.startsWith(`${appAt}/`)) continue
+    const at = relative(ROOT, dirname(file))
+    if (at === "" || at.startsWith("..")) continue
+    held.add(at)
+  }
+  const every = [...held]
+  return every
+    .filter((one) => !every.some((two) => two !== one && one.startsWith(`${two}/`)))
+    .sort((a, b) => a.localeCompare(b))
+}
+
 export function collectExecutedDeps(
   appDir: string,
   nameMap: Map<string, string>
 ): readonly string[] {
-  const dirToName = new Map<string, string>()
-  for (const [name, dir] of nameMap) dirToName.set(dir, name)
-
-  const reached = new Set<string>()
   const visited = new Set<string>()
   const queue = [...listEntryRoots(appDir)]
 
@@ -162,10 +174,20 @@ export function collectExecutedDeps(
       }
 
       const { name, subpath } = splitBareSpecifier(specifier)
+      if (name === ROOT_PACKAGE) {
+        const held = resolveFilePath(join(ROOT, subpath))
+        if (held == null) {
+          throw new Error(
+            `${file} imports "${specifier}", which the root package answers by path, and ${join(ROOT, subpath)} is not there. ` +
+              `The image would carry the folder and still fail to resolve it.`
+          )
+        }
+        if (isSourceFile(held)) queue.push(held)
+        continue
+      }
       const pkgDir = nameMap.get(name)
       if (pkgDir == null) continue
 
-      reached.add(name)
       const target = packageEntryFile(pkgDir, subpath)
       if (target == null) {
         throw new Error(
@@ -177,6 +199,5 @@ export function collectExecutedDeps(
     }
   }
 
-  reached.delete(dirToName.get(appDir) ?? "")
-  return [...reached].sort((a, b) => a.localeCompare(b))
+  return foldedDirs(visited, appDir)
 }

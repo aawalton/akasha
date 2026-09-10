@@ -1,6 +1,5 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 import type {
   DockerfileExtensions,
   ServiceConfig,
@@ -21,10 +20,9 @@ export function generateBunServiceDockerfile(
     return generateSingleStageBunService(appName, config, ext)
   }
 
-  const deps = collectExecutedDeps(appDir, nameMap)
-  const depDirs = deps.map((d) => requireGet(nameMap, d, "nameMap")).sort()
+  const depDirs = collectExecutedDeps(appDir, nameMap)
 
-  return generateWorkspaceBunService(appName, config, nameMap, ext, deps, depDirs, allWorkspaceDirs)
+  return generateWorkspaceBunService(appName, config, nameMap, ext, depDirs, allWorkspaceDirs)
 }
 
 export function generateWorkspaceBunService(
@@ -32,7 +30,6 @@ export function generateWorkspaceBunService(
   config: ServiceConfig,
   _nameMap: Map<string, string>,
   ext: DockerfileExtensions,
-  _deps: readonly string[],
   depDirs: readonly string[],
   allWorkspaceDirs: readonly string[]
 ): string {
