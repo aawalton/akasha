@@ -1,4 +1,4 @@
-import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-service/asking"
 
 const NONE = "none"
@@ -48,9 +48,8 @@ function flagged(values: Held, key: string): boolean {
 }
 
 function checkoutRoot(): string {
-  const roots = resolveRoots() as unknown as Readonly<Record<string, string>>
-  const root = roots[AKASHA]
-  if (root === undefined || root === "") {
+  const root = rootFor(resolveRoots(), AKASHA)
+  if (root === "") {
     throw new Error("no akasha checkout stands here, so nothing states what a seat runs under")
   }
   return root
