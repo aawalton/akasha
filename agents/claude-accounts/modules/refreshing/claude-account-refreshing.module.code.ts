@@ -1,6 +1,7 @@
 import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import { usageFetched } from "../../../models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import { markedIn, pacingMarks, usageFrom } from "../marking/claude-account-marking.module.code.ts"
 import { credentialIn, everyAccountSlugIn } from "../reading/claude-account-reading.module.code.ts"
@@ -36,10 +37,6 @@ export function notesOf(every: readonly Refreshing[]): readonly string[] {
   return found
 }
 
-function sayOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
-}
-
 export async function refreshOne(root: string, account: string, now: number): Promise<Refreshing> {
   const held = credentialIn(root, account, secretsIn)
   if (held.kind === "absent") return { account, kind: "absent", why: held.why }
@@ -55,7 +52,7 @@ export async function refreshOne(root: string, account: string, now: number): Pr
     return { account, kind: "refused", why: `the usage endpoint answered ${read.status}` }
   }
   if (read.kind === "threw") {
-    return { account, kind: "refused", why: sayOf(read.error) }
+    return { account, kind: "refused", why: saidBy(read.error) }
   }
   const usage = usageFrom(read.body)
   if (usage === null) return { account, kind: "refused", why: MALFORMED_WHY }
