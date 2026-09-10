@@ -39,7 +39,6 @@ export const akasha = {
     "domain/digit-padding",
     "domain/id-minting",
     "domain/file-page-identity",
-    "domain/checkout-version",
     "domain/temper",
     "domain/story",
     "domain/google",
