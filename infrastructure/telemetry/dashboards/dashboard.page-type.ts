@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { DashboardLayout } from "./properties/dashboard-layout.file-property.ts"
-
-export type Dashboard = Domain & {
-  layout: DashboardLayout
-}
 
 export const dashboard = {
   id: "01a07c67-a724-7337-8adc-5a5e3a393057",
@@ -31,4 +25,5 @@ export const dashboard = {
         "A manifest inlines a dashboard rather than a chart server fetching that dashboard.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

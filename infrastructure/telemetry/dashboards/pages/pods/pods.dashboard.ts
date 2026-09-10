@@ -1,4 +1,4 @@
-import type { Dashboard } from "../../dashboard.page-type.ts"
+import type { Dashboard } from "../../dashboard.page-type.types.ts"
 
 export const pods = {
   id: "01a07c67-c792-7942-ba2f-031531a70cfa",

@@ -1,4 +1,4 @@
-import type { Dashboard } from "../../dashboard.page-type.ts"
+import type { Dashboard } from "../../dashboard.page-type.types.ts"
 
 export const database = {
   id: "01a07c67-b40e-77da-a23f-d6c6c7121707",
