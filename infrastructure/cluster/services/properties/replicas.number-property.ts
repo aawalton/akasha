@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type Replicas = number
-
 export const replicas = {
   id: "01a05b26-f8b6-7a90-82f8-63a141d99dab",
   pageTypeSlug: "number-property",
@@ -16,4 +14,5 @@ export const replicas = {
       statement: "A workload asked for no pods is stopped rather than taken away.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

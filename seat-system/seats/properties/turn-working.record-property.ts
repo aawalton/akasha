@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 import type { ActiveTurn } from "./active-turn.boolean-property.types.ts"
 import type { OpenAgents } from "./open-agents.text-property.ts"
 import type { OpenShells } from "./open-shells.text-property.ts"
-import type { ScannedTo } from "./scanned-to.number-property.ts"
+import type { ScannedTo } from "./scanned-to.number-property.types.ts"
 
 export type TurnWorking = {
   activeTurn: ActiveTurn

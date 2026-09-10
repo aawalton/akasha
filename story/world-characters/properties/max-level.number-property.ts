@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type MaxLevel = number
-
 export const maxLevel = {
   id: "01a0657a-9ccc-799d-b3da-5f74e280345a",
   pageTypeSlug: "number-property",
@@ -21,4 +19,5 @@ export const maxLevel = {
       statement: "A character the text never levels has no highest level.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type RestartForceExitStatus = number
-
 export const restartForceExitStatus = {
   id: "01a06738-9f12-73a0-90cc-37a2bd477895",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const restartForceExitStatus = {
   propertySlug: "restart-force-exit-status",
   definition: "the exit code a unit is started again on whatever its restart says",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

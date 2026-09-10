@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type RelationshipLevel = number
-
 export const relationshipLevel = {
   id: "01a0655b-4a9b-7002-96a4-5f01bb918e88",
   pageTypeSlug: "number-property",
@@ -24,4 +22,5 @@ export const relationshipLevel = {
       statement: "This property is a relation to a closeness level.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type MaxLength = number
-
 export const maxLength = {
   id: "01a0780a-4fc5-7ef6-8dbb-c783a3f64f6b",
   pageTypeSlug: "number-property",
@@ -21,4 +19,5 @@ export const maxLength = {
       statement: "A list holds each entry to the length rather than the entries together.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

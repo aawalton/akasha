@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type Latitude = number
-
 export const latitude = {
   id: "01a06583-acfb-72db-90d5-cd59efa93680",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const latitude = {
   propertySlug: "latitude",
   definition: "how far north of the equator the place is, in degrees",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

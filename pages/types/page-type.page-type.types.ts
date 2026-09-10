@@ -6,7 +6,7 @@ import type { ExtendsType } from "./properties/extends-type.relation-property.ts
 import type { LoadedBy } from "./properties/loaded-by.relation-property.ts"
 import type { MediaConfig } from "./properties/media-config.record-property.ts"
 import type { Mortal } from "./properties/mortal.boolean-property.types.ts"
-import type { NextSeq } from "./properties/next-seq.number-property.ts"
+import type { NextSeq } from "./properties/next-seq.number-property.types.ts"
 import type { Owner } from "./properties/owner.relation-property.ts"
 import type { Properties } from "./properties/properties.record-property.ts"
 import type { RunsTabooCheck } from "./properties/runs-taboo-check.boolean-property.types.ts"

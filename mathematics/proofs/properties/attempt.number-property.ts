@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type Attempt = number
-
 export const attempt = {
   id: "01a0657f-5da8-78fc-8867-129a7c5694f9",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const attempt = {
   propertySlug: "attempt",
   definition: "which try at one proposition a proof is, counting from one",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

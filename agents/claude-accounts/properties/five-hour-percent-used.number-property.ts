@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type FiveHourPercentUsed = number
-
 export const fiveHourPercentUsed = {
   id: "01a054d8-1d39-7bc9-bb38-636d44d7d1fb",
   pageTypeSlug: "number-property",
@@ -16,4 +14,5 @@ export const fiveHourPercentUsed = {
       statement: "An account that has spent its seven-day window has spent its five-hour window.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

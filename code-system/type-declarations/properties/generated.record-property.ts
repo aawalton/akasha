@@ -1,5 +1,5 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { SourceVersion } from "./source-version.number-property.ts"
+import type { SourceVersion } from "./source-version.number-property.types.ts"
 import type { WrittenBy } from "./written-by.text-property.ts"
 
 export type Generated = {

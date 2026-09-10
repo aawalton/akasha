@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type BasePort = number
-
 export const basePort = {
   id: "01a08cfa-c5f4-7b3f-80e6-1a9623e9954d",
   pageTypeSlug: "number-property",
@@ -21,4 +19,5 @@ export const basePort = {
       statement: "A hundred ports from the base port belong to the web app stating the base port.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

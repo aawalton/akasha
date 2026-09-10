@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type CurrentSession = number
-
 export const currentSession = {
   id: "01a0673c-8e0e-700a-8ba4-03b058f7cf88",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const currentSession = {
   propertySlug: "current-session",
   definition: "which sitting a game has reached",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type ViewPlace = number
-
 export const viewPlace = {
   id: "01a0680d-4d00-7015-b643-6e2c9a8f4116",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const viewPlace = {
   propertySlug: "view-place",
   definition: "where a view sits among the views under one nav item",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

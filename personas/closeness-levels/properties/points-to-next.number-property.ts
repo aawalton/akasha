@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type PointsToNext = number
-
 export const pointsToNext = {
   id: "01a0541b-6a83-7beb-9eb1-d13e2108d749",
   pageTypeSlug: "number-property",
@@ -20,4 +18,5 @@ export const pointsToNext = {
       statement: "The last rung states no points.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

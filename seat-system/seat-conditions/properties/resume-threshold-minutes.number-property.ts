@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type ResumeThresholdMinutes = number
-
 export const resumeThresholdMinutes = {
   id: "01a0687a-3d9d-7635-aea8-41e35f78143b",
   pageTypeSlug: "number-property",
@@ -20,4 +18,5 @@ export const resumeThresholdMinutes = {
       statement: "A threshold no seat reaches is how the resume menu never appears.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

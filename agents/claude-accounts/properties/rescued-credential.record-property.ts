@@ -1,6 +1,6 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { RescuedAccessToken } from "./rescued-access-token.text-property.ts"
-import type { RescuedExpiresAtMs } from "./rescued-expires-at-ms.number-property.ts"
+import type { RescuedExpiresAtMs } from "./rescued-expires-at-ms.number-property.types.ts"
 import type { RescuedRefreshToken } from "./rescued-refresh-token.text-property.ts"
 
 export type RescuedCredential = {

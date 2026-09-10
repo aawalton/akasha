@@ -1,6 +1,6 @@
 import type { Agent } from "../../agents/agent.page-type.types.ts"
 import type { ClaudeCodeSessionUuid } from "./properties/claude-code-session-uuid.text-property.ts"
-import type { ContextTokens } from "./properties/context-tokens.number-property.ts"
+import type { ContextTokens } from "./properties/context-tokens.number-property.types.ts"
 import type { Mode } from "./properties/mode.text-property.ts"
 import type { Model } from "./properties/model.text-property.ts"
 import type { OnCall } from "./properties/on-call.boolean-property.types.ts"

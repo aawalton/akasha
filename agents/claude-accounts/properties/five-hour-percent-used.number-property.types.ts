@@ -1,0 +1,1 @@
+export type FiveHourPercentUsed = number

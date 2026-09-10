@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type MobilePinOrder = number
-
 export const mobilePinOrder = {
   id: "01a0680e-5e00-7003-a748-2c9f6b3e5104",
   pageTypeSlug: "number-property",
@@ -16,4 +14,5 @@ export const mobilePinOrder = {
       statement: "A nav item stating nothing is not pinned.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type ToolTimeout = number
-
 export const toolTimeout = {
   id: "01a0687a-3d9d-7cc0-8dbb-09100312e372",
   pageTypeSlug: "number-property",
@@ -16,4 +14,5 @@ export const toolTimeout = {
       statement: "The agent harness reads this number as milliseconds.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

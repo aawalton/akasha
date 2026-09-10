@@ -10,7 +10,7 @@ import type { RedemptionCode } from "./properties/redemption-code.text-property.
 import type { Section } from "./properties/section.text-property.ts"
 import type { StruckOut } from "./properties/struck-out.boolean-property.types.ts"
 import type { UseLimit } from "./properties/use-limit.select-property.types.ts"
-import type { UsesUsed } from "./properties/uses-used.number-property.ts"
+import type { UsesUsed } from "./properties/uses-used.number-property.types.ts"
 
 export type LocationDeal = Page & {
   title: Title

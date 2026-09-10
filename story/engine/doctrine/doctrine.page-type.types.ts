@@ -1,5 +1,5 @@
 import type { Page } from "../../../pages/page.page-type.types.ts"
-import type { DoctrineVersion } from "./properties/doctrine-version.number-property.ts"
+import type { DoctrineVersion } from "./properties/doctrine-version.number-property.types.ts"
 import type { GateDimensions } from "./properties/gate-dimensions.file-property.ts"
 import type { Policies } from "./properties/policies.file-property.ts"
 import type { SheetTemplate } from "./properties/sheet-template.file-property.ts"

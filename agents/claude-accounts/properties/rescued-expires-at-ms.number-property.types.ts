@@ -1,0 +1,1 @@
+export type RescuedExpiresAtMs = number

@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type AutoCompactWindow = number
-
 export const autoCompactWindow = {
   id: "01a0687a-3d99-7951-ba5c-41a586269d17",
   pageTypeSlug: "number-property",
@@ -21,4 +19,5 @@ export const autoCompactWindow = {
       statement: "A seat on a model with a smaller context window compacts at that window instead.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

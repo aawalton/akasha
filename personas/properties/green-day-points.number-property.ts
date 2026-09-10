@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type GreenDayPoints = number
-
 export const greenDayPoints = {
   id: "01a05395-58b3-7e1e-b765-ab3c7b87daab",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const greenDayPoints = {
   propertySlug: "green-day-points",
   definition: "how many points a persona must earn in a day for it to draw green",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

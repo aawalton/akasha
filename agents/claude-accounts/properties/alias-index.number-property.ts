@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type AliasIndex = number
-
 export const aliasIndex = {
   id: "01a054d8-1d39-7b15-a48d-62c2122c274b",
   pageTypeSlug: "number-property",
@@ -21,4 +19,5 @@ export const aliasIndex = {
       statement: "An index freed by a departing account is not handed to another account.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

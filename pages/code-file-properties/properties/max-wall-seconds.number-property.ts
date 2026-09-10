@@ -1,7 +1,5 @@
 import type { NumberProperty } from "../../number-properties/number-property.page-type.types.ts"
 
-export type MaxWallSeconds = number
-
 export const maxWallSeconds = {
   id: "01a08790-c7ec-7749-b14a-e818de74aed8",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const maxWallSeconds = {
   propertySlug: "max-wall-seconds",
   definition: "the most time one run of the file may take, in seconds",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

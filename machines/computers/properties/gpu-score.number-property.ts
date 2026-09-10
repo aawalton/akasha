@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type GpuScore = number
-
 export const gpuScore = {
   id: "01a0658c-329a-780e-b6f1-9356bce1f913",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const gpuScore = {
   propertySlug: "gpu-score",
   definition: "how the graphics card benchmarks",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

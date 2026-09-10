@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type ContextTokens = number
-
 export const contextTokens = {
   id: "01a0540f-f536-742b-bc8e-9887484f4426",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const contextTokens = {
   propertySlug: "context-tokens",
   definition: "how much of the context window a seat has spent, in tokens",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

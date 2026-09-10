@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type PointsToHere = number
-
 export const pointsToHere = {
   id: "01a0541b-6a82-72e4-a9db-75b5573cc8ee",
   pageTypeSlug: "number-property",
@@ -24,4 +22,5 @@ export const pointsToHere = {
       statement: "Everyone starts at level 0.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

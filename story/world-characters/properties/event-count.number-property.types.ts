@@ -1,0 +1,1 @@
+export type EventCount = number

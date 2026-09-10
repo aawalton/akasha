@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type LiveRefreshMs = number
-
 export const liveRefreshMs = {
   id: "01a0680d-4d00-7013-9a16-8c4b2d7e4114",
   pageTypeSlug: "number-property",
@@ -16,4 +14,5 @@ export const liveRefreshMs = {
       statement: "A view stating nothing redraws only when the pages that view draws change.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

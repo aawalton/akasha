@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type AnchorVolume = number
-
 export const anchorVolume = {
   id: "01a0685e-ef8a-7c9f-83ab-bffc6078bb5e",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const anchorVolume = {
   propertySlug: "volume",
   definition: "the volume the chapter the dating words are in belongs to",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

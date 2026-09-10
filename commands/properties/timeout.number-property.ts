@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type Timeout = number | null
-
 export const timeout = {
   id: "01a0820f-feb2-79e4-8435-06a161f3c6ab",
   pageTypeSlug: "number-property",
@@ -37,4 +35,5 @@ export const timeout = {
       statement: "Alan settles a raise rather than the agent the ceiling stopped.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

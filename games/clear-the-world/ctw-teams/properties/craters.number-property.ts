@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type Craters = number
-
 export const craters = {
   id: "01a06579-e4f7-7792-a8c5-47fa15198d5f",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const craters = {
   propertySlug: "craters",
   definition: "how many craters the team has set off",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

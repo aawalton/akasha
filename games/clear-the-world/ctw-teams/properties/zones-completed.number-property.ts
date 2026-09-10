@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type ZonesCompleted = number
-
 export const zonesCompleted = {
   id: "01a06579-e4f7-7f85-ac4a-1085dfcce10d",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const zonesCompleted = {
   propertySlug: "zones-completed",
   definition: "how many zones the team has completed",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

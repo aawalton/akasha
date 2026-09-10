@@ -1,0 +1,1 @@
+export type ProxyPort = number

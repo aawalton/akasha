@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type NextSeq = number
-
 export const nextSeq = {
   id: "01a06973-e90a-76de-be02-4662bda83eac",
   pageTypeSlug: "number-property",
@@ -20,4 +18,5 @@ export const nextSeq = {
       statement: "The counter moves under a lock held on the page type file.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

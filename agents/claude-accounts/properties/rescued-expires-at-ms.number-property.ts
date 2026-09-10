@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type RescuedExpiresAtMs = number
-
 export const rescuedExpiresAtMs = {
   id: "01a0637b-78bb-748c-abf5-487f7793c2a7",
   pageTypeSlug: "number-property",
@@ -16,4 +14,5 @@ export const rescuedExpiresAtMs = {
       statement: "A rescued pair is preferred over the committed pair by this number alone.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

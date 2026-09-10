@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type Bodyweight = number
-
 export const bodyweight = {
   id: "01a06860-a0ef-76b6-bebf-a5ed8fc42f7b",
   pageTypeSlug: "number-property",
@@ -24,4 +22,5 @@ export const bodyweight = {
       statement: "A movement's load factor is the share of this weight that movement has.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

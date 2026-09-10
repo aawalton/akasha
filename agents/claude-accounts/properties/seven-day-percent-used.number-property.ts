@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type SevenDayPercentUsed = number
-
 export const sevenDayPercentUsed = {
   id: "01a054d8-1d39-7b82-b6e2-afc9026c368b",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const sevenDayPercentUsed = {
   propertySlug: "seven-day-percent-used",
   definition: "how much of the seven-day allowance is spent",
   max: 100,
+  types: "ts",
 } as const satisfies NumberProperty

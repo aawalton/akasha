@@ -1,6 +1,6 @@
 import type { Page } from "../../../../pages/page.page-type.types.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { Bodyweight } from "../../../../persons/people/properties/bodyweight.number-property.ts"
+import type { Bodyweight } from "../../../../persons/people/properties/bodyweight.number-property.types.ts"
 import type { ActiveCalories } from "./properties/active-calories.number-property.types.ts"
 import type { BreathingPoints } from "./properties/breathing-points.number-property.types.ts"
 import type { CardioPoints } from "./properties/cardio-points.number-property.types.ts"

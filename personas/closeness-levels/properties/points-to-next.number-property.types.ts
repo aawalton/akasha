@@ -1,0 +1,1 @@
+export type PointsToNext = number

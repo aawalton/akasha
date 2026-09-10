@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type NewPersonaCount = number
-
 export const newPersonaCount = {
   id: "01a0655b-4a9b-7005-ae52-6dec6ae581ad",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const newPersonaCount = {
   propertySlug: "new-persona-count",
   definition: "how many personas came to be on a day",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

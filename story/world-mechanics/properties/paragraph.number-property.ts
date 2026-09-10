@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type Paragraph = number
-
 export const paragraph = {
   id: "01a06558-a991-707e-8ed8-d4d213635cdc",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const paragraph = {
   propertySlug: "paragraph",
   definition: "which paragraph of its chapter a naming is in",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

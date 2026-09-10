@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type ChapterNumber = number
-
 export const chapterNumber = {
   id: "01a06577-f385-7786-a0f1-67d9d9f258b8",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const chapterNumber = {
   propertySlug: "chapter-number",
   definition: "the chapter of a story something is read as of",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

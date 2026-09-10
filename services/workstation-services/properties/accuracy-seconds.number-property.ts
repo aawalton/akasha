@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type AccuracySeconds = number
-
 export const accuracySeconds = {
   id: "01a06738-9f12-7dcb-b57a-122407b359b5",
   pageTypeSlug: "number-property",
@@ -16,4 +14,5 @@ export const accuracySeconds = {
       statement: "A wider window lets a timer's run fall together with another timer's.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

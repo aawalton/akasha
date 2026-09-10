@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type SourceVersion = number
-
 export const sourceVersion = {
   id: "01a08234-f12b-7ac2-bfbb-0dd5515b7b36",
   pageTypeSlug: "number-property",
@@ -21,4 +19,5 @@ export const sourceVersion = {
       statement: "Two generated declarations stating different versions are a partial run.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type JitterSeconds = number
-
 export const jitterSeconds = {
   id: "01a05a3f-b42f-70bd-b842-502dd6568a36",
   pageTypeSlug: "number-property",
@@ -16,4 +14,5 @@ export const jitterSeconds = {
       statement: "Each timer stating this property starts at its own moment.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

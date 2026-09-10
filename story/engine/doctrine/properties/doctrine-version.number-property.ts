@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type DoctrineVersion = number
-
 export const doctrineVersion = {
   id: "01a06590-c57a-7735-8352-d549372de788",
   pageTypeSlug: "number-property",
@@ -16,4 +14,5 @@ export const doctrineVersion = {
       statement: "Changing the doctrine a pack has without raising this number is refused.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

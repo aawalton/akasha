@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type WorksWithinSeconds = number
-
 export const worksWithinSeconds = {
   id: "01a08caf-5c90-7f52-b4dc-e6e010e9aa46",
   pageTypeSlug: "number-property",
@@ -29,4 +27,5 @@ export const worksWithinSeconds = {
         "A service states a window only where the service writes when a round of work landed.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty
