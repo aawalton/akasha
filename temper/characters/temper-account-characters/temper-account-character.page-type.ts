@@ -7,7 +7,7 @@ import type { LiveBuildId } from "./properties/live-build-id.text-property.ts"
 export type TemperAccountCharacter = TemperCharacterThing & {
   firstName?: FirstName
   liveBuildId?: LiveBuildId
-  roles?: readonly CharacterRoles[]
+  roles?: CharacterRoles
 }
 
 export const temperAccountCharacter = {

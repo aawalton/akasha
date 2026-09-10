@@ -11,7 +11,7 @@ export type CharacterBuild = TemperCharacterThing & {
   visibility: BuildVisibility
   correlationId?: BuildCorrelationId
   targetCount?: BuildTargetCount
-  roles?: readonly CharacterRoles[]
+  roles?: CharacterRoles
 }
 
 export const characterBuild = {
