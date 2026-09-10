@@ -14,7 +14,7 @@ export const movePropertyValue = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A place is counted from one.",
+      statement: "A place is counted from `1`.",
     },
     {
       invariantKind: "departure",
@@ -26,11 +26,11 @@ export const movePropertyValue = {
     },
     {
       invariantKind: "departure",
-      statement: "The values keep the order they were in among themselves.",
+      statement: "The values keep the order those values were in among themselves.",
     },
     {
       invariantKind: "departure",
-      statement: "The characters between one value and the next stay where they sit.",
+      statement: "The characters between one value and the next stay where those characters sit.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,8 @@ export const movePropertyValue = {
     },
     {
       invariantKind: "departure",
-      statement: "The value moved is named by its place or by the text one of its fields states.",
+      statement:
+        "The value moved is named by its place or by the text a field of that value states.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +47,8 @@ export const movePropertyValue = {
     },
     {
       invariantKind: "departure",
-      statement: "The place moved to is named by a place or by the value already holding it.",
+      statement:
+        "The place moved to is named by a place or by the value already holding that place.",
     },
     {
       invariantKind: "departure",
@@ -54,11 +56,11 @@ export const movePropertyValue = {
     },
     {
       invariantKind: "departure",
-      statement: "A value moved onto one above it sits before that value.",
+      statement: "A value moved onto an earlier value sits before that value.",
     },
     {
       invariantKind: "departure",
-      statement: "A value moved onto one below it sits after that value.",
+      statement: "A value moved onto a later value sits after that value.",
     },
     {
       invariantKind: "departure",
