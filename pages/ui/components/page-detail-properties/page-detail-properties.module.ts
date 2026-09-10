@@ -7,4 +7,11 @@ export const pageDetailProperties = {
   slug: "page-detail-properties",
   definition: "the property rows shown down the side of one page",
   code: "tsx",
+  invariants: [
+    { invariantKind: "departure", statement: "The rows are drawn in the order their titles read." },
+    {
+      invariantKind: "departure",
+      statement: "The order a page type declares its properties in is not read here.",
+    },
+  ],
 } as const satisfies Module

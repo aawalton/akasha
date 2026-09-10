@@ -33,7 +33,8 @@ export function PageDetailProperties({
 }: PageDetailPropertiesProps) {
   const bodyDefs = useMemo(() => {
     const reservedExclusions: readonly string[] = RESERVED_PROPERTY_IDS
-    return definitions?.filter((d) => !reservedExclusions.includes(d.id)) ?? []
+    const shown = definitions?.filter((d) => !reservedExclusions.includes(d.id)) ?? []
+    return [...shown].sort((one, other) => one.title.localeCompare(other.title))
   }, [definitions])
   const wrappedOnPropertyChange = onPropertyChange
     ? (propertyId: string, value: PropertyValue) => onPropertyChange(propertyId, value)
