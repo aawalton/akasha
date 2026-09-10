@@ -14,7 +14,7 @@ const STATE: SimSessionState = {
   udid: "7E6CC581-6299-49D1-AFF5-C788ABF22F9F",
   appiumBase: "http://100.64.0.2:4723",
   webviewContext: "WEBVIEW_1",
-  route: "https://alanwalton.com/x?kbDebug=1",
+  route: "capacitor://localhost/x?kbDebug=1",
   startedAtMs: 1_700_000_000_000,
 }
 
