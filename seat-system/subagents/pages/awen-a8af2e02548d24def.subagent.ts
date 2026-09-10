@@ -1,4 +1,4 @@
-import type { Subagent } from "../subagent.page-type.ts"
+import type { Subagent } from "../subagent.page-type.types.ts"
 
 export const awenA8af2e02548d24def = {
   id: "01a082a7-1e58-776b-b962-350183901d73",

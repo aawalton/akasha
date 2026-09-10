@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Agent } from "../../agents/agent.page-type.types.ts"
-import type { PrincipalSeatName } from "../seats/properties/principal-seat-name.relation-property.ts"
-import type { DispatchedAs } from "../subagent-kinds/properties/dispatched-as.text-property.ts"
-import type { AgentId } from "./properties/agent-id.text-property.ts"
-import type { SubagentKind } from "./properties/subagent-kind.relation-property.ts"
-
-export type Subagent = Agent & {
-  principalSeatName: PrincipalSeatName
-  dispatchedAs?: DispatchedAs
-  subagentKind?: SubagentKind
-  agentId: AgentId
-}
 
 export const subagent = {
   id: "01a05978-f2e1-78e7-9017-ab14c5c1d79b",
@@ -88,4 +76,5 @@ export const subagent = {
       statement: "A message to a subagent dies with the session that had the message.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
