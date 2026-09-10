@@ -1,10 +1,14 @@
-/** @noSelfInFile */
 type StringCaptures = string[]
-function StringCaptures(c: unknown[]): StringCaptures {
+function StringCaptures(this: void, c: unknown[]): StringCaptures {
   return c as StringCaptures
 }
 
-export function __TS__Match(s: string, pattern: string, init?: number): LuaMultiReturn<string[]> {
+export function __TS__Match(
+  this: void,
+  s: string,
+  pattern: string,
+  init?: number
+): LuaMultiReturn<string[]> {
   const [start, end, ...captures] = string.find(s, pattern, init)
   if (start === undefined || end === undefined) {
     return $multi()

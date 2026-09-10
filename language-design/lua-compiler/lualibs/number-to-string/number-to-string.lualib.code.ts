@@ -1,4 +1,4 @@
-import { __TS__MathModf } from "./MathModf"
+import { __TS__MathModf } from "../math-modf/math-modf.lualib.code.ts"
 
 const radixChars = "0123456789abcdefghijklmnopqrstuvwxyz"
 

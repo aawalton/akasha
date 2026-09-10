@@ -1,4 +1,4 @@
-import { __TS__Match } from "./Match"
+import { __TS__Match } from "../match/match.lualib.code.ts"
 
 const parseIntBasePattern = "0123456789aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTvVwWxXyYzZ"
 
