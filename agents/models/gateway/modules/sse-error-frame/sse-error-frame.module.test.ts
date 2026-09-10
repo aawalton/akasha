@@ -1,9 +1,15 @@
 import { expect, test } from "bun:test"
+import { z } from "zod"
 import { buildAnthropicSseErrorFrame } from "./sse-error-frame.module.code.ts"
 
 const DECODER = new TextDecoder()
 
 const DATA_PREFIX = "data: "
+
+const FRAME_SCHEMA = z.looseObject({
+  type: z.string(),
+  error: z.looseObject({ type: z.string(), message: z.string() }),
+})
 
 function frameText(errorType: string, message: string): string {
   return DECODER.decode(buildAnthropicSseErrorFrame(errorType, message))
@@ -16,6 +22,10 @@ function frameLines(errorType: string, message: string): readonly string[] {
 function frameData(errorType: string, message: string): string {
   const line = frameLines(errorType, message)[1] ?? ""
   return line.slice(DATA_PREFIX.length)
+}
+
+function parsedFrame(said: string): unknown {
+  return FRAME_SCHEMA.parse(JSON.parse(said))
 }
 
 test("a frame is bytes rather than a string", () => {
@@ -31,7 +41,7 @@ test("a frame names its event error", () => {
 test("a frame's whole json is on one data line", () => {
   const lines = frameLines("api_error", "boom")
   expect(lines[1]?.startsWith(DATA_PREFIX)).toBe(true)
-  expect(JSON.parse(frameData("api_error", "boom"))).toEqual({
+  expect(parsedFrame(frameData("api_error", "boom"))).toEqual({
     type: "error",
     error: { type: "api_error", message: "boom" },
   })
@@ -45,7 +55,7 @@ test("a frame ends with the blank line an event is closed by", () => {
 })
 
 test("the json is an object whose own type is error", () => {
-  const parsed = JSON.parse(frameData("overloaded_error", "busy"))
+  const parsed = parsedFrame(frameData("overloaded_error", "busy"))
   expect(parsed).toEqual({
     type: "error",
     error: { type: "overloaded_error", message: "busy" },
@@ -53,7 +63,7 @@ test("the json is an object whose own type is error", () => {
 })
 
 test("the error type and message passed in are nested under the json's error key", () => {
-  const parsed = JSON.parse(frameData("rate_limit_error", "slow down"))
+  const parsed = parsedFrame(frameData("rate_limit_error", "slow down"))
   expect(parsed).toEqual({
     type: "error",
     error: { type: "rate_limit_error", message: "slow down" },
@@ -66,7 +76,7 @@ test("a newline in a message is escaped into the json rather than ending the fra
   const lines = text.split("\n")
   expect(lines.length).toBe(4)
   expect(text.indexOf("\n\n")).toBe(text.length - 2)
-  expect(JSON.parse((lines[1] ?? "").slice(DATA_PREFIX.length))).toEqual({
+  expect(parsedFrame((lines[1] ?? "").slice(DATA_PREFIX.length))).toEqual({
     type: "error",
     error: { type: "api_error", message },
   })
@@ -74,7 +84,7 @@ test("a newline in a message is escaped into the json rather than ending the fra
 
 test("nothing here chooses which error type a frame carries", () => {
   for (const errorType of ["api_error", "overloaded_error", "not_a_real_kind"]) {
-    expect(JSON.parse(frameData(errorType, "m"))).toEqual({
+    expect(parsedFrame(frameData(errorType, "m"))).toEqual({
       type: "error",
       error: { type: errorType, message: "m" },
     })
