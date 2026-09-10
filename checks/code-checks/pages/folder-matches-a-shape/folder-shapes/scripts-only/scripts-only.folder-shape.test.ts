@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { folderFrom } from "../../folder-matches-a-shape.code-check.test-fixtures.ts"
+import { folderFrom } from "../../folder-matches-a-shape.code-check.decision.test-fixtures.ts"
 import { scriptsOnly } from "./scripts-only.folder-shape.code.ts"
 
 const FOLDER = "akasha/code-system/ios-harnesses/scripts"

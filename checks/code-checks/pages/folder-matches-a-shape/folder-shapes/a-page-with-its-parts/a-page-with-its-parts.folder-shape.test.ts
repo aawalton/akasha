@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { folderFrom } from "../../folder-matches-a-shape.code-check.test-fixtures.ts"
+import { folderFrom } from "../../folder-matches-a-shape.code-check.decision.test-fixtures.ts"
 import type { Standing, Wanted } from "../folder-shape.page-type.ts"
 import { aPageWithItsParts } from "./a-page-with-its-parts.folder-shape.code.ts"
 

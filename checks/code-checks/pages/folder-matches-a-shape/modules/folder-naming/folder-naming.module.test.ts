@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { grouping, holding } from "../../folder-matches-a-shape.code-check.test-fixtures.ts"
+import {
+  grouping,
+  holding,
+} from "../../folder-matches-a-shape.code-check.decision.test-fixtures.ts"
 import {
   answeringTo,
   heldFolder,

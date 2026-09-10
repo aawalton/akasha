@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { folderFrom } from "../../folder-matches-a-shape.code-check.test-fixtures.ts"
+import { folderFrom } from "../../folder-matches-a-shape.code-check.decision.test-fixtures.ts"
 import { aDomainWithItsParts } from "./a-domain-with-its-parts.folder-shape.code.ts"
 
 const FOLDER = "akasha/models"

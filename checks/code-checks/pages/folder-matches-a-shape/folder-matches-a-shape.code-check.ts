@@ -14,7 +14,6 @@ export const folderMatchesAShape = {
   ],
   code: "ts",
   test: "ts",
-  testFixtures: "ts",
   runsOnPatch: false,
   runsOnWorktree: false,
   runsOnDeploy: false,

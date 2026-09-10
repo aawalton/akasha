@@ -10,7 +10,7 @@ import {
   grouping,
   HELD_IN_TESTS,
   holding,
-} from "./folder-matches-a-shape.code-check.test-fixtures.ts"
+} from "./folder-matches-a-shape.code-check.decision.test-fixtures.ts"
 import {
   ancestorsOf,
   folderOf,

@@ -14,7 +14,7 @@ import {
   folderFrom,
   segmented,
   segmentedLater,
-} from "./folder-matches-a-shape.code-check.test-fixtures.ts"
+} from "./folder-matches-a-shape.code-check.decision.test-fixtures.ts"
 import { sectionsOfTheBookAbove } from "./folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts"
 
 const ROOT = "/repo"
