@@ -1,4 +1,4 @@
-import type { TemperArmorType } from "../temper-armor-type.page-type.ts"
+import type { TemperArmorType } from "../temper-armor-type.page-type.types.ts"
 
 export const waist = {
   id: "01a05fd5-4dd0-7b4e-a6cf-104b294b6966",

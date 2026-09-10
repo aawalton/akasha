@@ -1,4 +1,4 @@
-import type { TemperArmorType } from "../temper-armor-type.page-type.ts"
+import type { TemperArmorType } from "../temper-armor-type.page-type.types.ts"
 
 export const hands = {
   id: "01a05fd5-4dce-7497-8a60-3d2aec3761d1",

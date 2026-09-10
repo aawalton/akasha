@@ -1,4 +1,4 @@
-import type { TemperArmorType } from "../temper-armor-type.page-type.ts"
+import type { TemperArmorType } from "../temper-armor-type.page-type.types.ts"
 
 export const shield = {
   id: "01a05fd5-4dcf-7229-b15e-ba21f4283324",

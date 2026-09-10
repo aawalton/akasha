@@ -1,4 +1,4 @@
-import type { TemperArmorType } from "../temper-armor-type.page-type.ts"
+import type { TemperArmorType } from "../temper-armor-type.page-type.types.ts"
 
 export const head = {
   id: "01a05fd5-4dcf-7b10-8d5b-cb0c96173698",

@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { ArmorMultiplier } from "../properties/armor-multiplier.number-property.ts"
-import type { IsLargeEnchantSlot } from "../properties/is-large-enchant-slot.boolean-property.ts"
-import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.types.ts"
-
-export type TemperArmorType = TemperGearThing & {
-  armorMultiplier: ArmorMultiplier
-  isLargeEnchantSlot: IsLargeEnchantSlot
-}
 
 export const temperArmorType = {
   id: "01a05fd1-d430-77ed-ace6-98856e2a09d7",
@@ -23,4 +15,5 @@ export const temperArmorType = {
     { pageProperty: "boolean-property/is-large-enchant-slot", required: true, many: false },
     { pageProperty: "text-property/valid-slots", required: true, many: true, maxCount: null },
   ],
+  types: "ts",
 } as const satisfies PageType
