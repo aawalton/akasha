@@ -1,7 +1,9 @@
 const ORIGIN = "https://app.monarch.com"
 
-export async function monarchHeaders(): Promise<Readonly<Record<string, string>>> {
-  const cookie = process.env.MONARCH_COOKIE?.trim()
+const CSRF_TOKEN = /csrftoken=([^;]+)/
+
+function parseCookieHeader(said: string | undefined): string {
+  const cookie = said?.trim()
   if (!cookie) {
     throw new Error(
       "no Monarch credential: set MONARCH_COOKIE to the whole Cookie header from a signed-in " +
@@ -9,7 +11,11 @@ export async function monarchHeaders(): Promise<Readonly<Record<string, string>>
         "so it expires and only Alan at a browser can produce another."
     )
   }
-  const csrf = /csrftoken=([^;]+)/.exec(cookie)?.[1]
+  return cookie
+}
+
+function parseCsrfToken(found: RegExpExecArray | null): string {
+  const csrf = found?.[1]
   if (!csrf) {
     throw new Error(
       "MONARCH_COOKIE carries no `csrftoken=` value. Monarch matches the X-CSRFToken header " +
@@ -17,6 +23,13 @@ export async function monarchHeaders(): Promise<Readonly<Record<string, string>>
         "cannot authenticate. The whole Cookie header is wanted here, not one of its parts."
     )
   }
+  return csrf
+}
+
+export async function monarchHeaders(): Promise<Readonly<Record<string, string>>> {
+  const cookie = parseCookieHeader(process.env.MONARCH_COOKIE)
+  const found = CSRF_TOKEN.exec(cookie)
+  const csrf = parseCsrfToken(found)
   return Object.freeze({
     "Content-Type": "application/json",
     "Client-Platform": "web",
