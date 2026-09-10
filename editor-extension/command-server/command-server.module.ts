@@ -91,7 +91,7 @@ export const commandServer = {
     },
     {
       invariantKind: "departure",
-      statement: "A server finishing stays for the goodbye, so what it last said is read first.",
+      statement: "A server finishing stays for the goodbye.",
     },
     {
       invariantKind: "constraint",
@@ -155,11 +155,19 @@ export const commandServer = {
     },
     {
       invariantKind: "departure",
-      statement: "An export answers through stdout, and what it wrote there is the answer.",
+      statement: "An export answers through stdout.",
     },
     {
       invariantKind: "departure",
-      statement: "An export takes the arguments and the call, and answers a report and a code.",
+      statement: "The bytes an export wrote on stdout are the answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An export takes the arguments and the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An export answers a report and a code.",
     },
     {
       invariantKind: "departure",
@@ -179,7 +187,7 @@ export const commandServer = {
     },
     {
       invariantKind: "departure",
-      statement: "The repository a call works on is the one the environment names.",
+      statement: "The repository a call works on is the repository the environment names.",
     },
     {
       invariantKind: "departure",
@@ -199,7 +207,7 @@ export const commandServer = {
     },
     {
       invariantKind: "constraint",
-      statement: "The editor's node host imports it.",
+      statement: "The editor's node host imports the protocol the caller reads.",
     },
     {
       invariantKind: "departure",
@@ -247,24 +255,27 @@ export const commandServer = {
     },
     {
       invariantKind: "constraint",
-      statement: "A rejection nothing catches ends the runtime, so every ask is served inside one.",
+      statement: "A rejection nothing catches ends the runtime.",
     },
     {
       invariantKind: "departure",
-      statement: "An answer says the server ran the export, whatever code that export answered.",
+      statement: "An answer says the server ran the export whatever code that export answered.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A command refusing what it was asked answers a nonzero code rather than a refusal.",
+      statement: "A command refusing the ask answers a nonzero code rather than a refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal is the server's own.",
     },
     {
       invariantKind: "absence",
-      statement: "A refusal is the server's own, so nothing a command decided is said as one.",
+      statement: "Nothing a command decided is said as a refusal.",
     },
     {
       invariantKind: "departure",
-      statement: "A lease once spent stays spent for every ask after it.",
+      statement: "A lease once spent stays spent for every ask that follows.",
     },
     {
       invariantKind: "departure",
