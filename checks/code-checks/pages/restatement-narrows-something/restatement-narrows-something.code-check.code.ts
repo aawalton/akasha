@@ -9,7 +9,7 @@ import {
   looseningIn,
   underEach,
   widthOf,
-} from "../key-names-one-property/key-names-one-property.code-check.code.ts"
+} from "../key-names-one-property/key-names-one-property.code-check.decision.code.ts"
 import { carriedBy } from "../relation-resolves/relation-resolves.code-check.code.ts"
 
 function fallen(was: number | null, now: number | null): boolean {
