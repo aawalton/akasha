@@ -36,7 +36,7 @@ export const codeRule = {
     },
     {
       invariantKind: "departure",
-      statement: "A template joining names is no literal, however many names that template joins.",
+      statement: "A template joining names is no literal however many names that template joins.",
     },
     {
       invariantKind: "departure",

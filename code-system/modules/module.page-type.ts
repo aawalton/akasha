@@ -62,7 +62,8 @@ export const module = {
     },
     {
       invariantKind: "departure",
-      statement: "A module composing what a container runs says its paths are that container's.",
+      statement:
+        "A module composing the code a container runs says its paths are that container's.",
     },
   ],
 } as const satisfies PageType

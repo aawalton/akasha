@@ -21,8 +21,11 @@ export const luaRuntimeLibrary = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A function compiled here takes a hidden receiver, no config here turning implicit self off.",
+      statement: "A function compiled here takes a hidden receiver.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No config here turns implicit self off.",
     },
     {
       invariantKind: "departure",
