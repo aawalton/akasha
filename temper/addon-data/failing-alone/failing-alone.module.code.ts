@@ -1,6 +1,4 @@
-function said(reason: unknown): string {
-  return reason instanceof Error ? reason.message : String(reason)
-}
+import { saidBy } from "../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 
 export function rendered(
   w: (dir: string, name: string, source: string) => Promise<number>,
@@ -11,7 +9,7 @@ export function rendered(
   return Promise.resolve()
     .then(() => w(dir, name, render()))
     .catch((reason: unknown) => {
-      throw new Error(`\`${name}\` was not written: ${said(reason)}`)
+      throw new Error(`\`${name}\` was not written: ${saidBy(reason)}`)
     })
 }
 
@@ -24,6 +22,6 @@ export function built<P, W>(
   try {
     return build(p, w)
   } catch (reason) {
-    return [Promise.reject(new Error(`the \`${name}\` section wrote nothing: ${said(reason)}`))]
+    return [Promise.reject(new Error(`the \`${name}\` section wrote nothing: ${saidBy(reason)}`))]
   }
 }
