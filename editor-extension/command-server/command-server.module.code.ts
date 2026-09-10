@@ -287,7 +287,7 @@ function finish(): undefined {
   } catch {}
   setTimeout(() => {
     process.exit(0)
-  }, GOODBYE_MS).unref()
+  }, GOODBYE_MS)
   return undefined
 }
 

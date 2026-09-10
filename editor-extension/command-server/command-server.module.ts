@@ -91,6 +91,14 @@ export const commandServer = {
     },
     {
       invariantKind: "departure",
+      statement: "A server finishing stays for the goodbye, so what it last said is read first.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A caller reads an exit before a pipe where the two arrive together.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A lease is spent on the next ask rather than by a clock killing the process.",
     },
     {
