@@ -1,83 +1,34 @@
-import { expect, test } from "bun:test"
-import { indexNamed } from "@akasha/indexes"
-import { bodiesIn } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { reasonsOver } from "./no-index-path-spelled.code-check.code.ts"
+import { afterAll, expect, test } from "bun:test"
+import { shadowFor } from "@akasha/pages/shadow"
+import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
+import { noIndexPathSpelled } from "./no-index-path-spelled.code-check.code.ts"
+import {
+  AT,
+  HELD,
+  PAGE,
+  rooted,
+  scratch,
+} from "./no-index-path-spelled.code-check.decision.test-fixtures.ts"
 
-const ROOT = "/repo"
+afterAll(scratch.sweep)
 
-const given = bodiesIn(ROOT)
+const SPELLS = `const at = "${AT}/identity/module/slug"\n`
 
-const AT = indexNamed()
+function judged(root: string, changed: readonly string[]): readonly Judged[] {
+  const held = change(root, changed)
+  const cast = shadowFor(held)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return noIndexPathSpelled(held, cast.shadow)
+}
 
-const HELD = "akasha/command-system/held.module.code.ts"
-
-const PAGE = "akasha/command-system/held.module.ts"
-
-const PAGE_TYPES: ReadonlySet<string> = new Set(["module"])
-
-const INDEXES = "pages/indexes/"
-
-const OWNED = `${INDEXES}reading/index-reading.module.code.ts`
-
-const reasonsIn = reasonsOver(INDEXES, PAGE_TYPES)
-
-test("a body spelling a path into the index is refused", () => {
-  const said = reasonsIn(given(HELD, `const at = "${AT}/identity/check/slug"\n`))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("spells a path into the index")
+test("a body the change carries spelling a path into the index is refused, naming that path", () => {
+  const said = judged(rooted({ [HELD]: SPELLS }), [HELD])
+  expect(said.map((one) => one.path)).toEqual([HELD])
+  expect(said[0]?.reason).toContain("spells a path into the index")
 })
 
-test("the indexes folder is where the index's place is said, so it is passed over", () => {
-  expect(reasonsIn(given(OWNED, `const INDEX_AT = "${AT}"\n`))).toEqual([])
-})
-
-test("a path built segment by segment is seen as the path it builds", () => {
-  const said = reasonsIn(given(HELD, 'const at = join(".git", "data", "index")\n'))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("segment by segment")
-})
-
-test("asking the indexes folder for the path leaves nothing to refuse", () => {
-  const body = 'import { indexIn } from "../a.ts"\nconst at = indexIn(root)\n'
-  expect(reasonsIn(given(HELD, body))).toEqual([])
-})
-
-test("the guarded root is not the index, so a guard naming `.git/data` is let through", () => {
-  const body = 'const INDEX = join(".git", "data")\nconst bound = "`.git/data` is refused here."\n'
-  expect(reasonsIn(given(HELD, body))).toEqual([])
-})
-
-test("segments that do not begin at the index are not read as one path", () => {
-  expect(reasonsIn(given(HELD, 'const said = ["a note", ".git", "data"]\n'))).toEqual([])
-})
-
-test("each spelling is named on its own", () => {
-  const said = reasonsIn(given(HELD, `const a = "${AT}/path"\nconst b = "${AT}/import"\n`))
-  expect(said).toHaveLength(2)
-})
-
-test("a long string carrying the path is shortened where the refusal names it", () => {
-  const why = `nothing at all is under ${AT}/identity/page/id, so the index answered nothing`
-  const said = reasonsIn(given(HELD, `const why = "${why}"\n`))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("…")
-})
-
-test("a file that is not TypeScript is passed over", () => {
-  expect(reasonsIn(given("akasha/notes.txt", `held at ${AT}\n`))).toEqual([])
-})
-
-test("a page asks the index nothing, so a page is passed over", () => {
-  const body = `export const held = {\n  evidence: "measured at ${AT}/identity/module/slug",\n}\n`
-  expect(reasonsIn(given(PAGE, body))).toEqual([])
-})
-
-test("a file beside a page is judged, so the page alone is passed over", () => {
-  expect(reasonsIn(given(HELD, `const at = "${AT}/identity/module/slug"\n`))).toHaveLength(1)
-})
-
-test("a body that is not text refuses rather than being passed over", () => {
-  const held = { root: ROOT, path: HELD, bytes: new Uint8Array([0xff, 0xfe, 0x00]) }
-  expect(() => reasonsIn(held)).toThrow(HELD)
-  expect(() => reasonsIn(held)).toThrow("not valid UTF-8")
+test("a page the change carries asks the index nothing, so a page is passed over", () => {
+  const body = `export const held = { evidence: "measured at ${AT}/identity/module/slug" }\n`
+  expect(judged(rooted({ [PAGE]: body }), [PAGE])).toEqual([])
 })
