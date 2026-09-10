@@ -57,6 +57,22 @@ export const harnessCall = {
     },
     {
       invariantKind: "departure",
+      statement: "A call reaching a command that lands is given longer than a landing waits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One ceiling here is what every such caller is given, rather than one each.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A landing queued behind another lands after the caller that gave up on it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call reaching a command that writes nothing is given whatever its caller says.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A call answering with a nonzero code is thrown as an error.",
     },
     {

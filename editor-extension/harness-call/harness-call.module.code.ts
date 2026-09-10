@@ -48,6 +48,8 @@ export function harnessEnvironment(): NodeJS.ProcessEnv {
   }
 }
 
+export const LANDING_TIMEOUT_MS = 150_000
+
 export interface HarnessCallOptions {
   readonly timeout: number
 }

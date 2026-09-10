@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { LANDING_TIMEOUT_MS } from "../harness-call/harness-call.module.code.ts"
 import {
   deletingInitiative,
   deletingIntent,
@@ -86,7 +87,7 @@ test("deleting an intent names the initiative and the statement to the command",
       module: "initiative-delete-intent",
       exported: "initiativeDeleteIntent",
       args: ["held", "A thing is so."],
-      timeout: 150_000,
+      timeout: LANDING_TIMEOUT_MS,
     },
   ])
   expect(lines).toEqual(["[delete intent] held: the intent is gone"])
@@ -175,7 +176,7 @@ test("an initiative goes once Alan answers the modal with the confirming word", 
       module: "initiative-delete",
       exported: "initiativeDelete",
       args: ["held"],
-      timeout: 150_000,
+      timeout: LANDING_TIMEOUT_MS,
     },
   ])
   expect(lines).toEqual(["[delete initiative] held is gone"])

@@ -1,6 +1,6 @@
 import type * as vscode from "vscode"
 import { seatTerminals } from "../agent-tree-state/agent-tree-state.module.code.ts"
-import { callHarness } from "../harness-call/harness-call.module.code.ts"
+import { callHarness, LANDING_TIMEOUT_MS } from "../harness-call/harness-call.module.code.ts"
 
 export const FOCUS_KEY = "opsAgentTree.seatTerminalFocused"
 
@@ -11,8 +11,6 @@ const MESSAGED_MODULE = "seat-messaged"
 const MESSAGED_EXPORT = "seatMessaged"
 
 const SUBMIT = "\r"
-
-const MESSAGED_TIMEOUT_MS = 10_000
 
 const SET_CONTEXT = "setContext"
 
@@ -56,7 +54,7 @@ export async function enterPressed(
   }
   try {
     await callHarness(MESSAGED_MODULE, MESSAGED_EXPORT, [name], {
-      timeout: MESSAGED_TIMEOUT_MS,
+      timeout: LANDING_TIMEOUT_MS,
     })
     say(`[enter] ${name} marked`)
   } catch (err) {

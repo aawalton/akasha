@@ -91,6 +91,10 @@ export const workTreeDragging = {
     },
     {
       invariantKind: "departure",
+      statement: "A drop waits the ceiling the harness names rather than one named here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A refused move tells the panel to let the new order go.",
     },
   ],

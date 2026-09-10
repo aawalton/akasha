@@ -1,7 +1,7 @@
 import * as vscode from "vscode"
 import { output } from "../agent-tree-state/agent-tree-state.module.code.ts"
 import { seatTerminalOptions } from "../editor-group/editor-group.module.code.ts"
-import { callHarness } from "../harness-call/harness-call.module.code.ts"
+import { callHarness, LANDING_TIMEOUT_MS } from "../harness-call/harness-call.module.code.ts"
 import type { ToggleTarget } from "../invoked-seat/invoked-seat.module.code.ts"
 import { columnForSeat } from "../seat-showing/seat-showing.module.code.ts"
 import { readSeatLookup } from "../seat-terminals/seat-terminals.module.code.ts"
@@ -10,8 +10,6 @@ import {
   resumePromptIn,
   type SeatStep,
 } from "../seat-toggles/seat-toggles.module.code.ts"
-
-const SEAT_TIMEOUT_MS = 120_000
 
 const NOTICES_MODULE = "seat-compose-notices"
 
@@ -38,7 +36,7 @@ async function runSeat(
   exported: string,
   args: readonly string[]
 ): Promise<undefined> {
-  await callHarness(module, exported, args, { timeout: SEAT_TIMEOUT_MS })
+  await callHarness(module, exported, args, { timeout: LANDING_TIMEOUT_MS })
   return undefined
 }
 
@@ -64,7 +62,7 @@ async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefine
       return undefined
     case "revive": {
       const said = await callHarness(NOTICES_MODULE, NOTICES_EXPORT, [], {
-        timeout: SEAT_TIMEOUT_MS,
+        timeout: LANDING_TIMEOUT_MS,
       })
       const prompt = resumePromptIn(said)
       await runSeat(RESUME_MODULE, RESUME_EXPORT, [seat.name, "--prompt", prompt])

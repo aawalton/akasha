@@ -52,6 +52,10 @@ export const holding = {
       statement: "A caller that never took the hold never has its act run.",
     },
     {
+      invariantKind: "departure",
+      statement: "The longest a caller waits for the hold is named for another caller to read.",
+    },
+    {
       invariantKind: "gap",
       statement: "Two landings over one worktree never overlap.",
     },
