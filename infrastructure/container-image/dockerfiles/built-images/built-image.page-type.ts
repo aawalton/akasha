@@ -8,7 +8,6 @@ export const builtImage = {
   definition: "a container image a Dockerfile is written for",
   pluralSlug: "built-images",
   parts: [
-    "built-image/alanwalton-calendar-sync",
     "built-image/auth-proxy",
     "built-image/buildkit",
     "built-image/bun-git",

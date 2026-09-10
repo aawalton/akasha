@@ -14,7 +14,6 @@ export const clusterService = {
     "cluster-service/alanwalton-web",
     "cluster-service/archive-of-worlds-web",
     "cluster-service/audhdalan-web",
-    "cluster-service/calendar-sync",
     "cluster-service/smilingjenny-web",
     "cluster-service/temper-web",
     "cluster-service/voice-infer",
