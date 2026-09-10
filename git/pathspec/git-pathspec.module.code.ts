@@ -5,7 +5,7 @@ import {
   git,
   ranGit as ran,
   gitTextOf as text,
-} from "../git-capping/git-capping.module.code.ts"
+} from "../capping/git-capping.module.code.ts"
 
 const PATHSPEC_CEILING = 100_000
 

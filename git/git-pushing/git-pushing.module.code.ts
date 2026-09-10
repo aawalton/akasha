@@ -1,4 +1,4 @@
-import { git, PUSH_CEILING_MS } from "../git-capping/git-capping.module.code.ts"
+import { git, PUSH_CEILING_MS } from "../capping/git-capping.module.code.ts"
 
 export interface PushOutcome {
   readonly failed: boolean

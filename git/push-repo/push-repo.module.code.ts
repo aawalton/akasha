@@ -1,4 +1,4 @@
-import { git } from "../git-capping/git-capping.module.code.ts"
+import { git } from "../capping/git-capping.module.code.ts"
 import { pushBranch, remoteOf } from "../git-pushing/git-pushing.module.code.ts"
 import {
   releasePushLock,

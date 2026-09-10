@@ -12,7 +12,7 @@ import {
 import { dirname, join } from "node:path"
 import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { holderProcessRuns } from "akasha/file-system/lock-holder-runs/lock-holder-runs.module.code.ts"
-import { git } from "akasha/git/git-capping/git-capping.module.code.ts"
+import { git } from "akasha/git/capping/git-capping.module.code.ts"
 import { remoteOf } from "akasha/git/git-pushing/git-pushing.module.code.ts"
 
 const STATE_DIR = "harness-push"

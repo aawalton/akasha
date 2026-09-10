@@ -1,5 +1,5 @@
-import type { GitResult } from "../git-capping/git-capping.module.code.ts"
-import { git } from "../git-capping/git-capping.module.code.ts"
+import type { GitResult } from "../capping/git-capping.module.code.ts"
+import { git } from "../capping/git-capping.module.code.ts"
 import {
   gitAskingPaths,
   gitIgnoring,
