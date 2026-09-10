@@ -11,11 +11,11 @@ export const performance = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A performance is run by naming it rather than by a check.",
+      statement: "A performance is run by naming that performance rather than by a check.",
     },
     {
       invariantKind: "departure",
-      statement: "A performance run reports what it measured rather than refusing.",
+      statement: "A performance run reports the measurement rather than refusing.",
     },
     {
       invariantKind: "departure",
