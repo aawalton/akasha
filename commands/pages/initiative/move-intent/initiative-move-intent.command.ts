@@ -64,7 +64,7 @@ export const initiativeMoveIntent = {
     },
     {
       invariantKind: "departure",
-      statement: "A statement of no text is refused, whichever intent it names.",
+      statement: "A statement of no text is refused whichever intent that statement names.",
     },
     {
       invariantKind: "departure",
