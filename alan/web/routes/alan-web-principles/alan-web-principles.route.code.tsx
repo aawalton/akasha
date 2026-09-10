@@ -15,7 +15,7 @@ export function meta() {
   return [{ title: "Principles" }]
 }
 
-const principles = [
+const PRINCIPLES = [
   {
     number: 1,
     name: "Judgment",
@@ -78,7 +78,7 @@ export default function PrinciplesRoute() {
           <TabsContent value="all">
             <PageTabHeader title="All Principles" />
             <ResponsiveColumns>
-              {principles.map((p) => (
+              {PRINCIPLES.map((p) => (
                 <PanelCard
                   key={p.number}
                   id={`principle-${p.number}`}
