@@ -13,11 +13,11 @@ export const messagesSent = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A message Alan wrote is counted where the message left him.",
+      statement: "A message Alan wrote is counted where the message left Alan.",
     },
     {
       invariantKind: "absence",
-      statement: "What a persona wrote back is counted nowhere.",
+      statement: "A message a persona wrote back is counted nowhere.",
     },
   ],
 } as const satisfies NumberProperty
