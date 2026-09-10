@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const animeAndShowsCompleted = {
   id: "01a06577-2614-7005-b335-134f3e00e1b6",

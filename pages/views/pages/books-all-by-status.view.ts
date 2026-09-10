@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const booksAllByStatus = {
   id: "01a06577-2614-700a-bc90-6e8c18159c96",

@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const storiesTheWanderingInn = {
   id: "01a06577-2615-700a-8633-ceb65cac729a",

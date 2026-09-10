@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const scribingSourceList = {
   id: "01a06577-2615-7005-845b-b92c4aa53dd0",

@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const storiesRoyalRoad = {
   id: "01a06577-2615-7009-af17-d7796ab3f974",

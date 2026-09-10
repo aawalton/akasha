@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const temperTasksUpNext = {
   id: "01a06577-2615-7014-b537-c9ecd384b1ee",

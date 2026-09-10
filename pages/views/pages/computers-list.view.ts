@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const computersList = {
   id: "01a06577-2614-700f-a238-8a567d71f076",

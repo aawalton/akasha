@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const tasksNotCompleted = {
   id: "01a06577-2615-700b-ba4a-6d91b781b8ac",

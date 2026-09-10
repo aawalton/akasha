@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const trackingValuePoints = {
   id: "01a06577-2615-7017-bee5-17467adfe3a1",

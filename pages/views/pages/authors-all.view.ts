@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const authorsAll = {
   id: "01a06577-2614-7009-b863-b1c4106e3d03",

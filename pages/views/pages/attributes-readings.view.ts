@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const attributesReadings = {
   id: "01a07cd7-2bb6-7d40-acb4-895746f0208f",

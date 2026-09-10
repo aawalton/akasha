@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const personasNotEmpty = {
   id: "01a06577-2614-7021-b31b-8c4518e69fa3",

@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const mathPropositions = {
   id: "01a06577-2614-701b-b472-79b749355411",

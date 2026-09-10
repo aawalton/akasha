@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const temperDungeonsList = {
   id: "01a06577-2615-700f-b336-b7f631a6ac1f",

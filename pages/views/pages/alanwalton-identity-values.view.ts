@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const alanwaltonIdentityValues = {
   id: "01a06577-2614-7002-a57f-36cabc33d4cc",

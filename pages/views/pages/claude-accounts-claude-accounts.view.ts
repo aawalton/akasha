@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const claudeAccountsClaudeAccounts = {
   id: "01a06577-2614-700e-8c8c-7c9dfed077f6",

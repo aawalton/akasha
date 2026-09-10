@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const animeAndShowsToWatch = {
   id: "01a06577-2614-7006-b684-9cc2c30d6478",

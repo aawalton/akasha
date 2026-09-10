@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const tasksUpNext = {
   id: "01a06577-2615-700d-ba5e-bde16eef17ea",

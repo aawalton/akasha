@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const homeFavorites = {
   id: "01a06577-2614-7015-87d9-aedd5490da48",

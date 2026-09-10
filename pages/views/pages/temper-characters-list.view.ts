@@ -1,4 +1,4 @@
-import type { View } from "../view.page-type.ts"
+import type { View } from "../view.page-type.types.ts"
 
 export const temperCharactersList = {
   id: "01a06577-2615-700e-880d-7fc36e8b213b",
