@@ -1,4 +1,4 @@
-import type { CtwTeam } from "../ctw-team.page-type.ts"
+import type { CtwTeam } from "../ctw-team.page-type.types.ts"
 
 export const apopo = {
   id: "019dbb6d-6889-730e-9edc-8037b6cbafb3",

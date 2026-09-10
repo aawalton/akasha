@@ -1,20 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Hex } from "../../../design/colors/properties/hex.text-property.ts"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { CellsCleared } from "./properties/cells-cleared.number-property.ts"
-import type { Craters } from "./properties/craters.number-property.ts"
-import type { HazardsMarked } from "./properties/hazards-marked.number-property.ts"
-import type { ZonesCompleted } from "./properties/zones-completed.number-property.ts"
-
-export type CtwTeam = Page & {
-  title: Title
-  cellsCleared: CellsCleared
-  craters: Craters
-  hazardsMarked: HazardsMarked
-  zonesCompleted: ZonesCompleted
-  hex: Hex
-}
 
 export const ctwTeam = {
   id: "01a06579-e4f7-77d8-a696-adb848da2d3e",
@@ -52,4 +36,5 @@ export const ctwTeam = {
       statement: "A hex is the color the team is drawn in.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
