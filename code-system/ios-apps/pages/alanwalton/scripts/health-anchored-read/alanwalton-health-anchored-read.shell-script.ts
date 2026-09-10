@@ -11,13 +11,16 @@ export const alanwaltonHealthAnchoredRead = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement:
-        "HealthKit hides read authorization, so an app cannot infer that a read was declined.",
+      statement: "HealthKit hides read authorization.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "An app cannot infer that a read was declined.",
     },
     {
       invariantKind: "constraint",
       statement:
-        "A refused read comes back empty with a valid anchor and no error, as a quiet read does.",
+        "A refused read comes back empty with a valid anchor and no error as a quiet read does.",
     },
   ],
 } as const satisfies ShellScript
