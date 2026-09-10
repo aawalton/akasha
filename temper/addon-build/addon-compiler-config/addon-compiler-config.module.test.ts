@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { valueAlsoFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   bundleEntryPathIn,
@@ -15,26 +16,31 @@ const SCRATCH = scratchWorld()
 
 afterAll(SCRATCH.sweep)
 
+const ESO_ADDON = "eso-addon"
+
+const DECLARATION = "type-declaration"
+
+const NAMING_LEAF = "temper-lib-table-functions"
+
+const ENTRY_LEAF = "table-functions-entry"
+
+const NAMING_PAGE = `akasha/temper/${NAMING_LEAF}/${NAMING_LEAF}.eso-addon.ts`
+
 function addonFolderNaming(entrySlug: string | null): { root: string; dir: string } {
   const root = SCRATCH.rootFor("temper-addon-compiler-")
-  const dir = join(root, "akasha/temper/temper-lib-table-functions")
-  mkdirSync(join(dir, "table-functions-entry"), { recursive: true })
-  writeFileSync(
-    join(dir, "table-functions-entry/table-functions-entry.module.code.ts"),
-    "export const ONE = 1\n"
-  )
-  const names = entrySlug === null ? "" : `  bundleEntry: "${entrySlug}",\n`
-  writeFileSync(
-    join(dir, "temper-lib-table-functions.eso-addon.ts"),
-    `export const temperLibTableFunctions = {\n  pageTypeSlug: "eso-addon",\n  slug: "temper-lib-table-functions",\n${names}}\n`
-  )
+  const dir = join(root, `akasha/temper/${NAMING_LEAF}`)
+  mkdirSync(join(dir, ENTRY_LEAF), { recursive: true })
+  writeFileSync(bundleEntryPathIn(dir, ENTRY_LEAF), "export const ONE = 1\n")
+  const value =
+    entrySlug === null ? { slug: NAMING_LEAF } : { slug: NAMING_LEAF, bundleEntry: entrySlug }
+  valueAlsoFiled(root, ESO_ADDON, [{ path: NAMING_PAGE, value }])
   return { root, dir }
 }
 
 test("an addon page beside the manifest is found by its own file name", () => {
-  const { dir } = addonFolderNaming("table-functions-entry")
-  expect(esoAddonPagePathIn(dir)).toBe(join(dir, "temper-lib-table-functions.eso-addon.ts"))
-  expect(esoAddonPagePathIn(join(dir, "gone"))).toBeNull()
+  const { root, dir } = addonFolderNaming("table-functions-entry")
+  expect(esoAddonPagePathIn(root, dir)).toBe(join(dir, `${NAMING_LEAF}.eso-addon.ts`))
+  expect(esoAddonPagePathIn(root, join(dir, "gone"))).toBeNull()
 })
 
 test("a bundle entry slug becomes the path of that module's code", () => {
@@ -126,6 +132,16 @@ function addonReaching(
     join(held, "temper-lorebooks.eso-addon.addon-manifest.json"),
     JSON.stringify({ name: heldName })
   )
+  valueAlsoFiled(root, ESO_ADDON, [
+    {
+      path: "temper/temper-collections-addon/temper-collections-addon.eso-addon.ts",
+      value: { slug: "temper-collections-addon" },
+    },
+    {
+      path: "temper/temper-lorebooks/temper-lorebooks.eso-addon.ts",
+      value: { slug: "temper-lorebooks" },
+    },
+  ])
   return { root, dir, held }
 }
 
@@ -162,21 +178,21 @@ test("the written settings reach every declaration an addon this addon depends o
 
 test("a temper folder holding declarations and no addon page is read by every addon", () => {
   const root = SCRATCH.rootFor("temper-addon-declaring-")
-  const found = join(root, "temper/skill-point-finder/skill-point-finder-controls")
-  const addon = join(root, "temper/temper-characters-addon/characters-entry")
-  mkdirSync(found, { recursive: true })
-  mkdirSync(addon, { recursive: true })
-  writeFileSync(
-    join(found, "skill-point-finder-controls.type-declaration.d.ts"),
-    "declare const USPF_GUI: number\n"
-  )
-  writeFileSync(
-    join(root, "temper/temper-characters-addon/temper-characters-addon.eso-addon.ts"),
-    'export const temperCharactersAddon = { pageTypeSlug: "eso-addon" }\n'
-  )
-  writeFileSync(
-    join(addon, "characters-entry.type-declaration.d.ts"),
-    "declare const TEMPER_CHARACTERS: number\n"
-  )
+  valueAlsoFiled(root, ESO_ADDON, [
+    {
+      path: "temper/temper-characters-addon/temper-characters-addon.eso-addon.ts",
+      value: { slug: "temper-characters-addon" },
+    },
+  ])
+  valueAlsoFiled(root, DECLARATION, [
+    {
+      path: "temper/skill-point-finder/controls/controls.type-declaration.ts",
+      value: { slug: "controls" },
+    },
+    {
+      path: "temper/temper-characters-addon/entry/entry.type-declaration.ts",
+      value: { slug: "entry" },
+    },
+  ])
   expect(declaringDirs(root)).toEqual([join(root, "temper/skill-point-finder")])
 })

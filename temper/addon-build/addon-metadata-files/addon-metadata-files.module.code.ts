@@ -16,10 +16,10 @@ function bindingsFileIn(dir: string): string | null {
   return existsSync(game) ? game : null
 }
 
-export async function addonBindingsPathIn(dir: string): Promise<string | null> {
+export async function addonBindingsPathIn(repoRoot: string, dir: string): Promise<string | null> {
   const found = bindingsFileIn(dir)
   if (found !== null) return found
-  const page = await readEsoAddonPage(dir)
+  const page = readEsoAddonPage(repoRoot, dir)
   if (page === null || page.bindings === null) return null
   throw new Error(
     `addonBindingsPathIn: the page in ${dir} claims a ${BINDINGS_FILE_NAME}, and no such file is beside that page or under ${GAME_METADATA_DIR}/`

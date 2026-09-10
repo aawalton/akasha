@@ -57,7 +57,7 @@ export async function copyAddonMetadata(
     namedMarkup === null ? EMPTY_MARKUP : readFileSync(namedMarkup, "utf-8")
   )
 
-  const bindings = await addonBindingsPathIn(addonDir)
+  const bindings = await addonBindingsPathIn(root, addonDir)
   writeFileSync(
     join(distDir, BINDINGS_FILE_NAME),
     bindings === null ? EMPTY_BINDINGS : readFileSync(bindings, "utf-8")

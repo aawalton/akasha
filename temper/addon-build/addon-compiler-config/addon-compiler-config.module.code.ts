@@ -1,10 +1,14 @@
-import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
 
 export const TSCONFIG_NAME = "tsconfig.json"
 
-export const ESO_ADDON_PAGE_SUFFIX = ".eso-addon.ts"
+const ESO_ADDON_TYPE = "eso-addon"
+
+const DECLARATION_TYPE = "type-declaration"
 
 const CODE_SUFFIX = ".module.code.ts"
 
@@ -19,12 +23,6 @@ const CODE_UNDER = `**/*${CODE_SUFFIX}`
 const OWN_DECLARATIONS_UNDER = "**/*.d.ts"
 
 const DECLARATIONS_UNDER = "**/*.type-declaration.d.ts"
-
-const DECLARATION_SUFFIX = ".type-declaration.d.ts"
-
-const TEMPER_UNDER = "temper"
-
-const LINKED_UNDER = "node_modules"
 
 const VERSION_MARK = /[<>=!]/
 
@@ -51,23 +49,52 @@ function dependedOnIn(dir: string): readonly string[] {
   return named.map((one) => (one.split(VERSION_MARK)[0] ?? "").trim()).filter((one) => one !== "")
 }
 
-const addonDirsHeld = new Map<string, ReadonlyMap<string, string>>()
+type Reached = {
+  readonly pageAt: ReadonlyMap<string, string>
+  readonly valueAt: ReadonlyMap<string, Value>
+  readonly namedAt: ReadonlyMap<string, string>
+  readonly declaring: readonly string[]
+}
 
-function addonDirsByName(repoRoot: string): ReadonlyMap<string, string> {
-  const held = addonDirsHeld.get(repoRoot)
+const reachedHeld = new Map<string, Reached>()
+
+function reachedIn(repoRoot: string): Reached {
+  const held = reachedHeld.get(repoRoot)
   if (held !== undefined) return held
-  const found = new Map<string, string>()
-  const under = join(repoRoot, TEMPER_UNDER)
-  if (existsSync(under)) {
-    for (const one of readdirSync(under, { withFileTypes: true })) {
-      if (!one.isDirectory() || one.name.startsWith(".")) continue
-      const dir = join(under, one.name)
-      const named = addonManifestIn(dir)?.name
-      if (named !== undefined) found.set(named, dir)
+  const pageAt = new Map<string, string>()
+  const valueAt = new Map<string, Value>()
+  const namedAt = new Map<string, string>()
+  const addonUnder = new Set<string>()
+  const addonsUnder = new Set<string>()
+  for (const one of valuesOfType(repoRoot, ESO_ADDON_TYPE)) {
+    const folder = dirname(one.path)
+    const dir = join(repoRoot, folder)
+    if (pageAt.has(dir)) continue
+    pageAt.set(dir, join(repoRoot, one.path))
+    valueAt.set(dir, one.value)
+    addonUnder.add(folder)
+    addonsUnder.add(dirname(folder))
+    const named = addonManifestIn(dir)?.name
+    if (named !== undefined && !namedAt.has(named)) namedAt.set(named, dir)
+  }
+  const declaring = new Set<string>()
+  for (const one of valuesOfType(repoRoot, DECLARATION_TYPE)) {
+    for (const under of addonsUnder) {
+      const head = `${under}/`
+      if (!one.path.startsWith(head)) continue
+      const named = one.path.slice(head.length).split("/")[0]
+      if (named === undefined || named === "") continue
+      const folder = `${under}/${named}`
+      if (!addonUnder.has(folder)) declaring.add(join(repoRoot, folder))
     }
   }
-  addonDirsHeld.set(repoRoot, found)
-  return found
+  const made: Reached = { pageAt, valueAt, namedAt, declaring: [...declaring].sort() }
+  reachedHeld.set(repoRoot, made)
+  return made
+}
+
+function addonDirsByName(repoRoot: string): ReadonlyMap<string, string> {
+  return reachedIn(repoRoot).namedAt
 }
 
 export function reachedAddonDirs(repoRoot: string, addonDir: string): readonly string[] {
@@ -88,37 +115,8 @@ export function reachedAddonDirs(repoRoot: string, addonDir: string): readonly s
   return [...found].sort()
 }
 
-function holdsDeclarations(dir: string): boolean {
-  for (const one of readdirSync(dir, { withFileTypes: true })) {
-    if (one.name === LINKED_UNDER) continue
-    if (one.isDirectory()) {
-      if (holdsDeclarations(join(dir, one.name))) return true
-      continue
-    }
-    if (one.name.endsWith(DECLARATION_SUFFIX)) return true
-  }
-  return false
-}
-
-function addonFolder(dir: string): boolean {
-  return readdirSync(dir).some((one) => one.endsWith(ESO_ADDON_PAGE_SUFFIX))
-}
-
-const declaringHeld = new Map<string, readonly string[]>()
-
 export function declaringDirs(repoRoot: string): readonly string[] {
-  const held = declaringHeld.get(repoRoot)
-  if (held !== undefined) return held
-  const under = join(repoRoot, TEMPER_UNDER)
-  const found = existsSync(under)
-    ? readdirSync(under, { withFileTypes: true })
-        .filter((one) => one.isDirectory() && !one.name.startsWith("."))
-        .map((one) => join(under, one.name))
-        .filter((dir) => !addonFolder(dir) && holdsDeclarations(dir))
-        .sort()
-    : []
-  declaringHeld.set(repoRoot, found)
-  return found
+  return reachedIn(repoRoot).declaring
 }
 
 export type EsoAddonPage = {
@@ -128,44 +126,25 @@ export type EsoAddonPage = {
   readonly luaModules: readonly string[]
 }
 
-export function esoAddonPagePathIn(dir: string): string | null {
-  let entries: readonly string[]
-  try {
-    entries = readdirSync(dir)
-  } catch {
-    return null
-  }
-  const named = entries.filter((one) => one.endsWith(ESO_ADDON_PAGE_SUFFIX)).sort()
-  const first = named[0]
-  return first === undefined ? null : join(dir, first)
+export function esoAddonPagePathIn(repoRoot: string, dir: string): string | null {
+  return reachedIn(repoRoot).pageAt.get(dir) ?? null
 }
 
-export async function readEsoAddonPage(dir: string): Promise<EsoAddonPage | null> {
-  const path = esoAddonPagePathIn(dir)
-  if (path === null) return null
-  const loaded = (await import(path)) as Record<string, unknown>
-  for (const value of Object.values(loaded)) {
-    if (typeof value !== "object" || value === null) continue
-    const said = value as {
-      slug?: unknown
-      pageTypeSlug?: unknown
-      bundleEntry?: unknown
-      bindings?: unknown
-      luaModules?: unknown
-    }
-    if (said.pageTypeSlug !== "eso-addon" || typeof said.slug !== "string") continue
-    const entry = said.bundleEntry
-    const bound = said.bindings
-    const luaHeld = said.luaModules
-    const luaSaid: readonly unknown[] = Array.isArray(luaHeld) ? luaHeld : []
-    return {
-      slug: said.slug,
-      bundleEntry: typeof entry === "string" ? entry : null,
-      bindings: typeof bound === "string" ? bound : null,
-      luaModules: luaSaid.filter((one) => typeof one === "string"),
-    }
+export function readEsoAddonPage(repoRoot: string, dir: string): EsoAddonPage | null {
+  const value = reachedIn(repoRoot).valueAt.get(dir)
+  if (value === undefined) return null
+  const slug = value.slug
+  if (typeof slug !== "string") return null
+  const entry = value.bundleEntry
+  const bound = value.bindings
+  const luaHeld = value.luaModules
+  const luaSaid: readonly unknown[] = Array.isArray(luaHeld) ? luaHeld : []
+  return {
+    slug,
+    bundleEntry: typeof entry === "string" ? entry : null,
+    bindings: typeof bound === "string" ? bound : null,
+    luaModules: luaSaid.filter((one) => typeof one === "string"),
   }
-  return null
 }
 
 export function slugBareOf(slug: string): string {
@@ -230,7 +209,7 @@ export async function compilerConfigPathFor(
 ): Promise<string | null> {
   const beside = join(addonDir, TSCONFIG_NAME)
   if (existsSync(beside)) return beside
-  const page = await readEsoAddonPage(addonDir)
+  const page = readEsoAddonPage(repoRoot, addonDir)
   if (page === null || page.bundleEntry === null) return null
   const entryPath = bundleEntryPathIn(addonDir, page.bundleEntry)
   if (!existsSync(entryPath)) {

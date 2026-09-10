@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { valueAlsoFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   addonBindingsPathIn,
@@ -14,13 +15,25 @@ const SCRATCH = scratchWorld()
 
 afterAll(SCRATCH.sweep)
 
-function addonFolderStating(said: string): string {
+type Stating = { readonly root: string; readonly dir: string }
+
+const ADDON_LEAF = "temper-companions-addon"
+
+const ADDON_PAGE = `akasha/temper/${ADDON_LEAF}/${ADDON_LEAF}.eso-addon.ts`
+
+function addonPageFiled(said: Readonly<Record<string, string>>): Stating {
   const root = SCRATCH.rootFor("temper-addon-metadata-")
-  const dir = join(root, "akasha/temper/temper-companions-addon")
+  const dir = join(root, `akasha/temper/${ADDON_LEAF}`)
   mkdirSync(dir, { recursive: true })
+  valueAlsoFiled(root, "eso-addon", [{ path: ADDON_PAGE, value: { slug: ADDON_LEAF, ...said } }])
+  return { root, dir }
+}
+
+function addonFolderStating(said: string): string {
+  const { dir } = addonPageFiled({})
   writeFileSync(
-    join(dir, "temper-companions-addon.eso-addon.ts"),
-    `export const temperCompanionsAddon = {\n  pageTypeSlug: "eso-addon",\n  slug: "temper-companions-addon",\n${said}}\n`
+    join(dir, `${ADDON_LEAF}.eso-addon.ts`),
+    `export const temperCompanionsAddon = {\n  pageTypeSlug: "eso-addon",\n  slug: "${ADDON_LEAF}",\n${said}}\n`
   )
   return dir
 }
@@ -36,26 +49,28 @@ function documentUnder(dir: string, slug: string, kind: string, loadedAs: string
 }
 
 test("an addon page claiming keybinds with no such file refuses the call", async () => {
-  const dir = addonFolderStating(`  bindings: "xml",\n`)
-  await expect(addonBindingsPathIn(dir)).rejects.toThrow(BINDINGS_FILE_NAME)
+  const { root, dir } = addonPageFiled({ bindings: "xml" })
+  await expect(addonBindingsPathIn(root, dir)).rejects.toThrow(BINDINGS_FILE_NAME)
 })
 
 test("an akasha addon holds its keybinds beside the page", async () => {
-  const dir = addonFolderStating(`  bindings: "xml",\n`)
+  const { root, dir } = addonPageFiled({ bindings: "xml" })
   writeFileSync(join(dir, BINDINGS_FILE_NAME), "<Bindings></Bindings>\n")
-  expect(await addonBindingsPathIn(dir)).toBe(join(dir, BINDINGS_FILE_NAME))
+  expect(await addonBindingsPathIn(root, dir)).toBe(join(dir, BINDINGS_FILE_NAME))
 })
 
 test("a game addon holds its keybinds under a metadata folder", async () => {
-  const dir = addonFolderStating("")
+  const { root, dir } = addonPageFiled({})
   mkdirSync(join(dir, GAME_METADATA_DIR), { recursive: true })
   writeFileSync(join(dir, GAME_METADATA_DIR, BINDINGS_FILE_NAME), "<Bindings></Bindings>\n")
-  expect(await addonBindingsPathIn(dir)).toBe(join(dir, GAME_METADATA_DIR, BINDINGS_FILE_NAME))
+  expect(await addonBindingsPathIn(root, dir)).toBe(
+    join(dir, GAME_METADATA_DIR, BINDINGS_FILE_NAME)
+  )
 })
 
 test("an addon page claiming no keybinds answers that there are none", async () => {
-  const dir = addonFolderStating("")
-  expect(await addonBindingsPathIn(dir)).toBeNull()
+  const { root, dir } = addonPageFiled({})
+  expect(await addonBindingsPathIn(root, dir)).toBeNull()
 })
 
 test("a page states the name its manifest loads it by", async () => {
