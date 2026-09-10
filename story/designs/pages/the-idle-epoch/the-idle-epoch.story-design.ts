@@ -1,4 +1,4 @@
-import type { StoryDesign } from "../../story-design.page-type.ts"
+import type { StoryDesign } from "../../story-design.page-type.types.ts"
 
 export const theIdleEpoch = {
   id: "01a0657d-bb8d-7b68-95ee-ac453535d922",

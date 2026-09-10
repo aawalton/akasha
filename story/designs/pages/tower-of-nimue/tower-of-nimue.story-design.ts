@@ -1,4 +1,4 @@
-import type { StoryDesign } from "../../story-design.page-type.ts"
+import type { StoryDesign } from "../../story-design.page-type.types.ts"
 
 export const towerOfNimue = {
   id: "01a0657d-bb8e-77a8-bafb-000d2b166210",

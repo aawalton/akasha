@@ -1,4 +1,4 @@
-import type { StoryDesign } from "../../story-design.page-type.ts"
+import type { StoryDesign } from "../../story-design.page-type.types.ts"
 
 export const theTower = {
   id: "01a0657d-bb8e-764d-a24a-103a24ed8e84",

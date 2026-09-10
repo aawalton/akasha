@@ -1,4 +1,4 @@
-import type { StoryDesign } from "../../story-design.page-type.ts"
+import type { StoryDesign } from "../../story-design.page-type.types.ts"
 
 export const bathhouseConfession = {
   id: "01a0657d-bb8c-7a01-9799-ae4eb11d383d",
