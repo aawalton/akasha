@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const mobilityReadingMetric = {
   id: "01a06558-36e9-75cc-bf53-dedc96579d71",

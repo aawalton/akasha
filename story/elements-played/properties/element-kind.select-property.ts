@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const elementKind = {
   id: "01a06828-cb97-7ee3-9578-4a81ad1884a6",

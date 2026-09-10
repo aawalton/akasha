@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const restart = {
   id: "01a05a3f-b42e-7f07-a396-69c8d83c02cb",

@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const emailRuleMatchField = {
   id: "01a06860-549f-7cea-a615-3d15b6c3ddce",

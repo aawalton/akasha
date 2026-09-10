@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const stockScope = {
   id: "01a05fd0-3aa6-791c-b6da-a96ebc31c770",

@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const matchComparison = {
   id: "01a0680c-3c00-7001-a763-8d2f5b9e3102",

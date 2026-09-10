@@ -1,4 +1,4 @@
-import type { SelectProperty } from "../select-properties/select-property.page-type.ts"
+import type { SelectProperty } from "../select-properties/select-property.page-type.types.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
 
 export type Rung =

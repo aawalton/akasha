@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const galleryCardSize = {
   id: "01a0680d-4d00-7011-8d69-5f1a4c7b4112",

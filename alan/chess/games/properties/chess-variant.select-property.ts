@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const chessVariant = {
   id: "01a06582-bd62-7e3d-b7b8-4f186da6875b",

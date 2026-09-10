@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const groupGranularity = {
   id: "01a0680d-4d00-7009-8c62-3f7a1d5b410a",

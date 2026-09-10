@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const maturityRating = {
   id: "01a06598-222b-7001-a964-8dd2fc87d5bc",

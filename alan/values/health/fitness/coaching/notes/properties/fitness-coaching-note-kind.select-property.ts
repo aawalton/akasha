@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const fitnessCoachingNoteKind = {
   id: "01a0657a-fe00-7149-b974-3ad13dd29e09",

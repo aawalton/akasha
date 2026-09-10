@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const connectionActivitySafety = {
   id: "01a0658e-c30e-73bb-985f-a37f0c4401b7",

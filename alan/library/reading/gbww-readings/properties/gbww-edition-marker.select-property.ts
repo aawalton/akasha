@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const gbwwEditionMarker = {
   id: "01a0659f-93da-7017-ae3f-0e9294f8b40f",

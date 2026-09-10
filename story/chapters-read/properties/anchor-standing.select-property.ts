@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const anchorStanding = {
   id: "01a0685e-ef8a-7fef-b999-aae06d585ffb",

@@ -1,10 +1,4 @@
-import type { PageProperty } from "../types/page-properties/page-property.page-type.types.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-import type { SelectValues } from "./properties/select-values.text-property.ts"
-
-export type SelectProperty = PageProperty & {
-  values: SelectValues
-}
 
 export const selectProperty = {
   id: "01a063de-2c60-7003-a9bc-92d52325a70d",
@@ -36,4 +30,5 @@ export const selectProperty = {
       statement: "A text property with a hand-written union is no select property.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

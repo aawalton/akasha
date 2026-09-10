@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const skillCost = {
   id: "01a0657e-2bc0-70b8-9883-2ec311b92460",

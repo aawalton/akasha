@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const categorySource = {
   id: "01a0680b-2b00-700a-9c37-6e8b4f2d210b",

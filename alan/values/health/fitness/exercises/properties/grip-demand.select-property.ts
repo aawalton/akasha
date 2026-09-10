@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const gripDemand = {
   id: "01a0657e-2bbf-7def-8aa4-63a661a263ff",

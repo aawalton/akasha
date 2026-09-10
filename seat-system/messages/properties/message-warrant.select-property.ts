@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const messageWarrant = {
   id: "01a06818-107b-7002-8cb9-81d4d299a260",

@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const propositionKind = {
   id: "01a06575-c2ac-79a2-8fb6-6813b90c6e3e",

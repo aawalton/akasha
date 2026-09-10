@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const layout = {
   id: "01a0680d-4d00-7003-9c58-7b4e2a6d4104",

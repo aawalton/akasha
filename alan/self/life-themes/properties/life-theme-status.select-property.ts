@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const lifeThemeStatus = {
   id: "01a06575-c2c0-7b91-a932-fc1cef6fd656",

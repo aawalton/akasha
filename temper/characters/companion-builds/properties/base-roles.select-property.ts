@@ -1,5 +1,5 @@
 import type { List } from "@akasha/pages/page-property"
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const baseRoles = {
   id: "01a06862-c4ee-780f-ab05-93eb2cdb2991",

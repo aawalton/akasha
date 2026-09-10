@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const relationshipDepositSize = {
   id: "01a0658d-16bc-738e-9d2e-3534cd4e99e1",

@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const accountType = {
   id: "01a0680a-1a00-7004-8e19-5b2c7d4e1105",

@@ -1,5 +1,5 @@
 import type { List } from "@akasha/pages/page-property"
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const emailRuleCodeActions = {
   id: "01a06860-54a0-7cf6-aa4f-d2130e8c5b06",

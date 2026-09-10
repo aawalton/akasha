@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const dayOfWeek = {
   id: "01a0657a-e62d-7e2c-96f2-7108ef5b0bf1",

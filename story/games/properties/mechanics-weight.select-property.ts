@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const mechanicsWeight = {
   id: "01a0673c-8e0e-7008-975c-8cd78b5fcf4f",

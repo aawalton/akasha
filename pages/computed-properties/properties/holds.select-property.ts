@@ -1,4 +1,4 @@
-import type { SelectProperty } from "../../select-properties/select-property.page-type.ts"
+import type { SelectProperty } from "../../select-properties/select-property.page-type.types.ts"
 
 export const holds = {
   id: "01a06952-7a5c-7bad-8818-9124b8845f75",

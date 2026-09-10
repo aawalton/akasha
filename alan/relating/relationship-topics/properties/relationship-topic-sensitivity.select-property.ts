@@ -1,4 +1,4 @@
-import type { SelectProperty } from "@akasha/pages/select-property"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const relationshipTopicSensitivity = {
   id: "01a0658a-170f-7cc5-825a-2417116e376a",
