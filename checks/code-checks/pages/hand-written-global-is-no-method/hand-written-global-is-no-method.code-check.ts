@@ -7,8 +7,6 @@ export const handWrittenGlobalIsNoMethod = {
   slug: "hand-written-global-is-no-method",
   definition:
     "the check refusing a hand-written global the generated declarations carry only as a method",
-  code: "ts",
-  test: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,

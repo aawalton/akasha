@@ -5,7 +5,7 @@ import { shadowFor } from "@akasha/pages/shadow"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { filing } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { handWrittenGlobalIsNoMethod } from "./hand-written-global-is-no-method.code-check.code.ts"
+import { handWrittenGlobalIsNoMethod } from "./hand-written-global-is-no-method.code-check.check.code.ts"
 import { DECLARATION } from "./hand-written-global-is-no-method.code-check.decision.code.ts"
 
 const OBJECTS_AT = "akasha/objects.type-declaration.ts"
