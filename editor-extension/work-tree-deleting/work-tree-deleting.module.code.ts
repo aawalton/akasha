@@ -64,6 +64,7 @@ export function initiativeFailureSaid(slug: string, why: string): string {
 export interface WorkDeleteWatch {
   readonly intentGoing: (one: IntentGone) => undefined
   readonly initiativeGoing: (slug: string) => undefined
+  readonly answered: (slug: string) => undefined
   readonly stayed: (slug: string) => undefined
 }
 
@@ -87,6 +88,7 @@ export function deletingInitiative(
       const said = await call(INITIATIVE_MODULE, INITIATIVE_EXPORT, [slug], {
         timeout: LANDING_TIMEOUT_MS,
       })
+      watch.answered(slug)
       say(`[delete initiative] ${said.trim()}`)
     } catch (thrown) {
       watch.stayed(slug)
@@ -112,6 +114,7 @@ export function deletingIntent(
       const said = await call(INTENT_MODULE, INTENT_EXPORT, [one.slug, one.statement], {
         timeout: LANDING_TIMEOUT_MS,
       })
+      watch.answered(one.slug)
       say(`[delete intent] ${said.trim()}`)
     } catch (thrown) {
       watch.stayed(one.slug)

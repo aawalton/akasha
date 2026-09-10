@@ -119,6 +119,10 @@ export const workTreeDragging = {
     },
     {
       invariantKind: "departure",
+      statement: "A move or hand the command answered is told to the panel as answered.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The intent moved is named by the statement its row is drawn under.",
     },
     {

@@ -102,6 +102,7 @@ export function handFailureSaid(handing: Handing, why: string): string {
 export interface WorkDropWatch {
   readonly moving: (order: Ordering) => undefined
   readonly handing: (one: Handing) => undefined
+  readonly answered: (slug: string) => undefined
   readonly refused: (slug: string) => undefined
 }
 
@@ -133,6 +134,7 @@ export function createWorkDragging(
         [order.slug, order.statement, String(order.to)],
         { timeout: LANDING_TIMEOUT_MS }
       )
+      watch.answered(order.slug)
       say(`[drop] ${said.trim()}`)
     } catch (thrown) {
       watch.refused(order.slug)
@@ -151,6 +153,7 @@ export function createWorkDragging(
         [handing.from, handing.statement, handing.to],
         { timeout: LANDING_TIMEOUT_MS }
       )
+      watch.answered(handing.from)
       say(`[drop] ${said.trim()}`)
     } catch (thrown) {
       watch.refused(handing.from)

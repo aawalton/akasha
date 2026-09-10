@@ -2,8 +2,9 @@ import { expect, test } from "bun:test"
 import {
   agreementOf,
   drawnAs,
-  HOLDING_NOTHING,
   type Holding,
+  heldAnswered,
+  heldGone,
   heldMoved,
   heldWithout,
   intentLabelsIn,
@@ -28,9 +29,11 @@ const TREE: readonly WorkTreeRow[] = [
   rowOf("initiative", "other", "other"),
 ]
 
-function holding(labels: readonly string[], without: readonly string[] = []): Holding {
-  return { kind: "intents", labels, without }
+function holding(labels: readonly string[], without: readonly string[] = [], waiting = 1): Holding {
+  return { kind: "intents", labels, without, waiting }
 }
+
+const GONE = heldGone(undefined)
 
 test("the intents an initiative holds answer their statements in order", () => {
   expect(intentLabelsIn(TREE, "held")).toEqual(["first", "second", "third"])
@@ -76,12 +79,12 @@ test("a file gaining an intent while one is held to be going is gone", () => {
 })
 
 test("an initiative still in the file while held to be gone is stale", () => {
-  expect(agreementOf([], HOLDING_NOTHING)).toBe("stale")
-  expect(agreementOf(["a"], HOLDING_NOTHING)).toBe("stale")
+  expect(agreementOf([], GONE)).toBe("stale")
+  expect(agreementOf(["a"], GONE)).toBe("stale")
 })
 
 test("an initiative out of the file while held to be gone agrees", () => {
-  expect(agreementOf(null, HOLDING_NOTHING)).toBe("agrees")
+  expect(agreementOf(null, GONE)).toBe("agrees")
 })
 
 test("the rows are drawn in the order held and renumbered from one", () => {
@@ -102,18 +105,18 @@ test("an intent held to be going is left out of the rows drawn", () => {
 })
 
 test("an initiative held to be gone is left out of the rows drawn", () => {
-  const left = drawnAs(TREE, "held", HOLDING_NOTHING)
+  const left = drawnAs(TREE, "held", GONE)
   expect(left.map((row) => row.key)).toEqual(["other"])
 })
 
 test("an initiative held to be gone leaves every other initiative drawn", () => {
-  const left = drawnAs(TREE, "other", HOLDING_NOTHING)
+  const left = drawnAs(TREE, "other", GONE)
   expect(left.map((row) => row.key)).toEqual(["held"])
   expect(intentLabelsIn(left, "held")).toEqual(["first", "second", "third"])
 })
 
 test("an initiative nested beneath a row is left out where it is held to be gone", () => {
-  const left = drawnAs(TREE, "below", HOLDING_NOTHING)
+  const left = drawnAs(TREE, "below", GONE)
   expect(left[0]?.children.map((child) => child.key)).toEqual(["held#1", "held#2", "held#3"])
 })
 
@@ -122,6 +125,7 @@ test("taking an intent out of nothing held holds the rest and names that intent 
     kind: "intents",
     labels: ["a", "c"],
     without: ["b"],
+    waiting: 1,
   })
 })
 
@@ -130,13 +134,14 @@ test("taking a second intent out keeps the first named going", () => {
     kind: "intents",
     labels: ["a"],
     without: ["b", "c"],
+    waiting: 2,
   })
 })
 
 test("an intent no order holds is held to be going by nothing", () => {
   expect(heldWithout(undefined, ["a", "b"], "c")).toBe(null)
   expect(heldWithout(undefined, null, "a")).toBe(null)
-  expect(heldWithout(HOLDING_NOTHING, ["a"], "a")).toBe(null)
+  expect(heldWithout(GONE, ["a"], "a")).toBe(null)
 })
 
 test("a move made while an intent is held to be going keeps that intent going", () => {
@@ -144,6 +149,7 @@ test("a move made while an intent is held to be going keeps that intent going", 
     kind: "intents",
     labels: ["c", "a"],
     without: ["b"],
+    waiting: 2,
   })
 })
 
@@ -152,6 +158,7 @@ test("the intent moved is followed by its statement rather than by its place", (
     kind: "intents",
     labels: ["c", "a", "b"],
     without: [],
+    waiting: 1,
   })
 })
 
@@ -234,14 +241,14 @@ test("an intent deleted while a drop is settling leaves both held", () => {
 })
 
 test("a deletion held for one initiative leaves every other initiative alone", () => {
-  const holds = new Map<string, Holding>([["held", HOLDING_NOTHING]])
+  const holds = new Map<string, Holding>([["held", GONE]])
   const shown = settledOver(fileOf(["first"]), holds)
   expect(shown.map((row) => row.key)).toEqual(["other"])
   expect(holds.has("held")).toBe(true)
 })
 
 test("an initiative held to be gone is let go once the file has it gone", () => {
-  const holds = new Map<string, Holding>([["held", HOLDING_NOTHING]])
+  const holds = new Map<string, Holding>([["held", GONE]])
   const shown = settledOver([rowOf("initiative", "other", "other")], holds)
   expect(shown.map((row) => row.key)).toEqual(["other"])
   expect(holds.has("held")).toBe(false)
@@ -262,12 +269,13 @@ test("a move made with nothing held names no intent going", () => {
     kind: "intents",
     labels: ["b", "a"],
     without: [],
+    waiting: 1,
   })
 })
 
 test("a move naming no place, or made over an initiative held to be gone, holds nothing", () => {
   expect(heldMoved(undefined, ["a", "b"], "a", 3)).toBe(null)
-  expect(heldMoved(HOLDING_NOTHING, ["a", "b"], "a", 2)).toBe(null)
+  expect(heldMoved(GONE, ["a", "b"], "a", 2)).toBe(null)
 })
 
 test("a drag made while a deletion is settling moves the intent dragged", () => {
@@ -280,5 +288,71 @@ test("a drag made while a deletion is settling moves the intent dragged", () => 
   expect(intentLabelsIn(left, "held")).toEqual(["second", "third"])
 
   const moved = heldMoved(holds.get("held"), intentLabelsIn(left, "held"), "third", 1)
-  expect(moved).toEqual({ kind: "intents", labels: ["third", "second"], without: ["first"] })
+  expect(moved).toEqual({
+    kind: "intents",
+    labels: ["third", "second"],
+    without: ["first"],
+    waiting: 2,
+  })
+})
+
+test("a landing answering counts one less, and never below none", () => {
+  expect(heldAnswered(holding(["a"], [], 2))).toEqual(holding(["a"], [], 1))
+  expect(heldAnswered(holding(["a"], [], 1))).toEqual(holding(["a"], [], 0))
+  expect(heldAnswered(holding(["a"], [], 0))).toEqual(holding(["a"], [], 0))
+  expect(heldAnswered(GONE)).toEqual({ kind: "nothing", waiting: 0 })
+  expect(heldAnswered(undefined)).toBe(null)
+})
+
+test("a second hold made over one already there counts one landing more", () => {
+  expect(heldGone(holding(["a"], [], 1)).waiting).toBe(2)
+})
+
+test("a move that landed in another order than the one held lets the hold go", () => {
+  const holds = new Map<string, Holding>()
+  const file = fileOf(["a", "b", "c", "d"])
+
+  const asked = heldMoved(undefined, intentLabelsIn(file, "held"), "b", 4)
+  if (asked !== null) holds.set("held", asked)
+  let shown = settledOver(file, holds)
+  expect(intentLabelsIn(shown, "held")).toEqual(["a", "c", "d", "b"])
+
+  const answered = heldAnswered(holds.get("held"))
+  if (answered !== null) holds.set("held", answered)
+
+  shown = settledOver(fileOf(["a", "c", "b", "d"]), holds)
+  expect(intentLabelsIn(shown, "held")).toEqual(["a", "c", "b", "d"])
+  expect(holds.has("held")).toBe(false)
+})
+
+test("a hold whose landing has not answered survives the same disagreement", () => {
+  const holds = new Map<string, Holding>()
+  const file = fileOf(["a", "b", "c", "d"])
+
+  const asked = heldMoved(undefined, intentLabelsIn(file, "held"), "b", 4)
+  if (asked !== null) holds.set("held", asked)
+
+  const shown = settledOver(fileOf(["a", "c", "b", "d"]), holds)
+  expect(intentLabelsIn(shown, "held")).toEqual(["a", "c", "d", "b"])
+  expect(holds.has("held")).toBe(true)
+})
+
+test("a hold outlives no landing it was made for", () => {
+  const holds = new Map<string, Holding>()
+  const file = fileOf(["a", "b", "c"])
+
+  const shown = settledOver(file, holds)
+  deleting(holds, shown, "a")
+  deleting(holds, settledOver(file, holds), "c")
+  expect(holds.get("held")?.waiting).toBe(2)
+
+  const once = heldAnswered(holds.get("held"))
+  if (once !== null) holds.set("held", once)
+  const twice = heldAnswered(holds.get("held"))
+  if (twice !== null) holds.set("held", twice)
+  expect(holds.get("held")?.waiting).toBe(0)
+
+  const later = settledOver(file, holds)
+  expect(intentLabelsIn(later, "held")).toEqual(["a", "b", "c"])
+  expect(holds.has("held")).toBe(false)
 })

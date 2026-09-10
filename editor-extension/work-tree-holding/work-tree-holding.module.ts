@@ -105,7 +105,27 @@ export const workTreeHolding = {
     },
     {
       invariantKind: "departure",
-      statement: "A stale hold is settled over the rows and kept.",
+      statement: "A stale hold still waiting on a landing is settled over the rows and kept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is held counts the landings it is waiting on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Making a hold counts one landing more, and a landing answering counts one less.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A hold waiting on no landing is let go however the file reads.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A hold outlives no landing it was made for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing answering more often than a hold was made counts down to none.",
     },
     {
       invariantKind: "departure",

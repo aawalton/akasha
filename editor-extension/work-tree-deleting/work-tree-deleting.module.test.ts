@@ -67,6 +67,10 @@ function watching(told: Told[] = []): WorkDeleteWatch {
       told.push({ told: "initiative going", slug, statement: null })
       return undefined
     },
+    answered: (slug) => {
+      told.push({ told: "answered", slug, statement: null })
+      return undefined
+    },
     stayed: (slug) => {
       told.push({ told: "stayed", slug, statement: null })
       return undefined
@@ -104,7 +108,10 @@ test("deleting an intent names the initiative and the statement to the command",
     callingWith("held: the intent is gone", kept)
   )(INTENT)
 
-  expect(told).toEqual([{ told: "intent going", slug: "held", statement: "A thing is so." }])
+  expect(told).toEqual([
+    { told: "intent going", slug: "held", statement: "A thing is so." },
+    { told: "answered", slug: "held", statement: null },
+  ])
   expect(kept).toEqual([
     {
       module: "initiative-delete-intent",
@@ -198,7 +205,10 @@ test("an initiative goes once Alan answers the modal with the confirming word", 
     callingWith("held is gone", kept)
   )(INITIATIVE)
 
-  expect(told).toEqual([{ told: "initiative going", slug: "held", statement: null }])
+  expect(told).toEqual([
+    { told: "initiative going", slug: "held", statement: null },
+    { told: "answered", slug: "held", statement: null },
+  ])
   expect(asked).toEqual([
     {
       said: "Delete the initiative held?",
@@ -296,6 +306,10 @@ test("Alan answers the modal before the panel is told the initiative is going", 
         order.push("told")
         return undefined
       },
+      answered: () => {
+        order.push("answered")
+        return undefined
+      },
       stayed: () => undefined,
     },
     async () => {
@@ -304,7 +318,7 @@ test("Alan answers the modal before the panel is told the initiative is going", 
     }
   )(INITIATIVE)
 
-  expect(order).toEqual(["asked", "told", "called"])
+  expect(order).toEqual(["asked", "told", "called", "answered"])
 })
 
 test("a failure is said in words naming the initiative", () => {

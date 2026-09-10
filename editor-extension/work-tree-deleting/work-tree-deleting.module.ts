@@ -88,6 +88,10 @@ export const workTreeDeleting = {
     },
     {
       invariantKind: "departure",
+      statement: "The panel is told the deletion answered where the command landed it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A row the command deleted is told to the panel once and no more.",
     },
     {

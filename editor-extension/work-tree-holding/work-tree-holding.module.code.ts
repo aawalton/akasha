@@ -5,10 +5,9 @@ export type Holding =
       readonly kind: "intents"
       readonly labels: readonly string[]
       readonly without: readonly string[]
+      readonly waiting: number
     }
-  | { readonly kind: "nothing" }
-
-export const HOLDING_NOTHING: Holding = { kind: "nothing" }
+  | { readonly kind: "nothing"; readonly waiting: number }
 
 export type Agreement = "agrees" | "stale" | "gone"
 
@@ -71,6 +70,20 @@ function withoutOf(held: Holding | undefined): readonly string[] {
   return held === undefined || held.kind !== "intents" ? [] : held.without
 }
 
+function waitingOf(held: Holding | undefined): number {
+  return held === undefined ? 0 : held.waiting
+}
+
+export function heldGone(held: Holding | undefined): Holding {
+  return { kind: "nothing", waiting: waitingOf(held) + 1 }
+}
+
+export function heldAnswered(held: Holding | undefined): Holding | null {
+  if (held === undefined) return null
+  const waiting = Math.max(0, held.waiting - 1)
+  return held.kind === "nothing" ? { kind: "nothing", waiting } : { ...held, waiting }
+}
+
 export function heldMoved(
   held: Holding | undefined,
   labels: readonly string[] | null,
@@ -82,7 +95,12 @@ export function heldMoved(
   if (from === -1) return null
   const moved = movedLabels(labels, from + 1, to)
   if (moved === null) return null
-  return { kind: "intents", labels: moved, without: withoutOf(held) }
+  return {
+    kind: "intents",
+    labels: moved,
+    without: withoutOf(held),
+    waiting: waitingOf(held) + 1,
+  }
 }
 
 export function heldWithout(
@@ -97,6 +115,7 @@ export function heldWithout(
     kind: "intents",
     labels: [...labels.slice(0, at), ...labels.slice(at + 1)],
     without: [...withoutOf(held), statement],
+    waiting: waitingOf(held) + 1,
   }
 }
 
@@ -149,7 +168,7 @@ export function settledOver(
 ): readonly WorkTreeRow[] {
   let rows = roots
   for (const [slug, held] of [...holding]) {
-    if (agreementOf(intentLabelsIn(rows, slug), held) === "stale") {
+    if (held.waiting > 0 && agreementOf(intentLabelsIn(rows, slug), held) === "stale") {
       rows = drawnAs(rows, slug, held)
       continue
     }

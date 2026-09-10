@@ -18,8 +18,9 @@ import {
   type Ordering,
 } from "../work-tree-dragging/work-tree-dragging.module.code.ts"
 import {
-  HOLDING_NOTHING,
   type Holding,
+  heldAnswered,
+  heldGone,
   heldMoved,
   heldWithout,
   intentLabelsIn,
@@ -66,6 +67,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       {
         moving: (order) => holdMoved(order),
         handing: (one) => holdWithout({ slug: one.from, statement: one.statement }),
+        answered: (slug) => answered(slug),
         refused: (slug) => letGo(slug),
       }
     ),
@@ -142,8 +144,14 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   }
 
   const holdGone = (slug: string): undefined => {
-    holding.set(slug, HOLDING_NOTHING)
+    holding.set(slug, heldGone(holding.get(slug)))
     return draw({ roots: filed }, "delete")
+  }
+
+  const answered = (slug: string): undefined => {
+    const held = heldAnswered(holding.get(slug))
+    if (held !== null) holding.set(slug, held)
+    return undefined
   }
 
   const letGo = (slug: string): undefined => {
@@ -154,6 +162,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   const deleting: WorkDeleteWatch = {
     intentGoing: (one) => holdWithout(one),
     initiativeGoing: (slug) => holdGone(slug),
+    answered: (slug) => answered(slug),
     stayed: (slug) => letGo(slug),
   }
 

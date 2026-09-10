@@ -101,6 +101,18 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
+      statement: "What is held is let go once every command it waits on has answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file disagreeing after those commands answered is drawn as that file has it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command answering draws nothing of itself.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file with those intents in another order is drawn in the order held.",
     },
     {
