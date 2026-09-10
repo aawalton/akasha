@@ -150,7 +150,7 @@ test("the store standing on this workstation answers what names a domain", async
   const asked = await underOrigin(() =>
     askNaming({
       key: "domain",
-      name: "workspace-package/page",
+      name: "domain/all-about-alan",
       pageTypes: ["finding"],
     })
   )

@@ -44,6 +44,10 @@ export const storePageAsking = {
       statement: "A query asked for by name is refused.",
     },
     {
+      invariantKind: "departure",
+      statement: "A live ask names a page address this repository does not move.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here has an answer for a later question.",
     },
