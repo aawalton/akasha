@@ -1,0 +1,1 @@
+export type PoiIndex = number

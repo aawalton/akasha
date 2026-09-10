@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type RecipeItemId = number
-
 export const recipeItemId = {
   id: "01a0626e-c112-72f4-b2d2-af3e22205118",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const recipeItemId = {
   propertySlug: "recipe-item-id",
   definition: "the game's own id for the item a recipe is learned from",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

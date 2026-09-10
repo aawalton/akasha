@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type EstimatedValue = number
-
 export const estimatedValue = {
   id: "01a06053-b37d-7603-aa73-880a2e6d55eb",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const estimatedValue = {
   propertySlug: "estimated-value",
   definition: "what an item is reckoned to be worth in gold",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

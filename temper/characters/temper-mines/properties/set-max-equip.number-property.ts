@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type SetMaxEquip = number
-
 export const setMaxEquip = {
   id: "01a05fcd-f555-7778-a87a-87338b2f1827",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const setMaxEquip = {
   propertySlug: "set-max-equip",
   definition: "how many pieces of a set count towards its bonuses",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

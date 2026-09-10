@@ -1,0 +1,1 @@
+export type VersionNumber = number

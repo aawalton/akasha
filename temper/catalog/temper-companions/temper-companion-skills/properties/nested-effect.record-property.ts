@@ -1,6 +1,6 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { DamageType } from "../../../../characters/skill-activations/properties/damage-type.text-property.ts"
-import type { Duration } from "./duration.number-property.ts"
+import type { Duration } from "./duration.number-property.types.ts"
 import type { EffectConditions } from "./effect-conditions.record-property.ts"
 import type { EffectFormula } from "./effect-formula.record-property.ts"
 import type { EffectStatus } from "./effect-status.record-property.ts"

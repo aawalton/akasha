@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type Cooldown = number
-
 export const cooldown = {
   id: "01a05fd1-d438-747e-827d-b5c526eef556",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const cooldown = {
   propertySlug: "cooldown",
   definition: "how many seconds fall between one firing of an effect and the next",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

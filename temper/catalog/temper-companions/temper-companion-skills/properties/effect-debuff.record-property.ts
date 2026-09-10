@@ -1,8 +1,8 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { EffectValue } from "../../../things/properties/effect-value.number-property.ts"
+import type { EffectValue } from "../../../things/properties/effect-value.number-property.types.ts"
 import type { ValueType } from "../../../things/properties/value-type.text-property.ts"
 import type { DebuffName } from "./debuff-name.text-property.ts"
-import type { Duration } from "./duration.number-property.ts"
+import type { Duration } from "./duration.number-property.types.ts"
 
 export type EffectDebuff = {
   debuff?: DebuffName

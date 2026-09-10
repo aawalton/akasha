@@ -1,0 +1,1 @@
+export type EsoCollectibleId = number

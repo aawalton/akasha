@@ -1,7 +1,4 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type TraitTypeRange = List<number>
 
 export const traitTypeRange = {
   id: "01a05fcb-fd32-7977-ac60-f00e6fea58f4",
@@ -11,4 +8,5 @@ export const traitTypeRange = {
   propertySlug: "trait-type-range",
   definition: "one end of a run of trait numbers",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

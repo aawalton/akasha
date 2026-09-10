@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type EsoCompanionId = number
-
 export const esoCompanionId = {
   id: "01a05fcf-2468-705a-8ce6-cfcfa9a91f98",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const esoCompanionId = {
   propertySlug: "eso-companion-id",
   definition: "the number The Elder Scrolls Online names a companion by",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

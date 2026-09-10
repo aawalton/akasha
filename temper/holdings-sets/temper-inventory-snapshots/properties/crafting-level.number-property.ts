@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type CraftingLevel = number
-
 export const craftingLevel = {
   id: "01a0675a-f185-7e56-a6c0-0df2e6c5b864",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const craftingLevel = {
   propertySlug: "crafting-level",
   definition: "how far a character has come in one craft",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

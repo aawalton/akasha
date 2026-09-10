@@ -1,6 +1,6 @@
 import type { AccountPage } from "../../things/properties/account-page.text-property.ts"
 import type { CategoryId } from "../../things/properties/category-id.text-property.ts"
-import type { DisplayOrder } from "../../things/properties/display-order.number-property.ts"
+import type { DisplayOrder } from "../../things/properties/display-order.number-property.types.ts"
 import type { Action } from "../temper-rules/properties/action.relation-property.ts"
 import type { Active } from "../temper-rules/properties/active.boolean-property.types.ts"
 import type { TemperRule } from "../temper-rules/temper-rule.page-type.types.ts"

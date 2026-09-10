@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type EsoCategoryIndex = number
-
 export const esoCategoryIndex = {
   id: "01a06165-ae0e-7000-940b-03b7446138c3",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const esoCategoryIndex = {
   propertySlug: "eso-category-index",
   definition: "the number The Elder Scrolls Online names a collectible category by",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

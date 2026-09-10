@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type QuestId = number
-
 export const questId = {
   id: "01a05fcd-f552-74af-93bb-fae63aec0744",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const questId = {
   propertySlug: "quest-id",
   definition: "the number the game names a quest by",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

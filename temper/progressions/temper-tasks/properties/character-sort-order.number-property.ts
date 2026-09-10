@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type CharacterSortOrder = number
-
 export const characterSortOrder = {
   id: "01a06959-98a7-75a1-b25b-ef19416fec86",
   pageTypeSlug: "number-property",
@@ -29,4 +27,5 @@ export const characterSortOrder = {
       statement: "No property gives a temper character the sort order this value reads.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

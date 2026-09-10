@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type CraftTypeId = number
-
 export const craftTypeId = {
   id: "01a0675a-f185-7d51-8d97-cdad0a8ac27f",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const craftTypeId = {
   propertySlug: "craft-type-id",
   definition: "the craft a level is in, as the game numbers crafts",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

@@ -2,10 +2,10 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 import type { ConditionKind } from "./condition-kind.text-property.ts"
 import type { ConditionWeaponType } from "./condition-weapon-type.text-property.ts"
 import type { EnemyTypes } from "./enemy-types.text-property.ts"
-import type { HealthBelow } from "./health-below.number-property.ts"
+import type { HealthBelow } from "./health-below.number-property.types.ts"
 import type { IsCasting } from "./is-casting.boolean-property.types.ts"
-import type { MaxDistance } from "./max-distance.number-property.ts"
-import type { MinDistance } from "./min-distance.number-property.ts"
+import type { MaxDistance } from "./max-distance.number-property.types.ts"
+import type { MinDistance } from "./min-distance.number-property.types.ts"
 import type { TargetType } from "./target-type.text-property.ts"
 
 export type EffectConditions = {

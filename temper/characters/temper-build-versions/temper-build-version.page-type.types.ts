@@ -4,7 +4,7 @@ import type { Build } from "./properties/build.text-property.ts"
 import type { BuildHash } from "./properties/build-hash.text-property.ts"
 import type { CheckpointName } from "./properties/checkpoint-name.text-property.ts"
 import type { IsCheckpoint } from "./properties/is-checkpoint.boolean-property.types.ts"
-import type { VersionNumber } from "./properties/version-number.number-property.ts"
+import type { VersionNumber } from "./properties/version-number.number-property.types.ts"
 
 export type TemperBuildVersion = TemperCharacterThing & {
   accountPage: AccountPage

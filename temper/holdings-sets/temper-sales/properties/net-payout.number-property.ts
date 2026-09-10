@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type NetPayout = number
-
 export const netPayout = {
   id: "01a0685d-89aa-7dab-b4d1-44a1c21309c3",
   pageTypeSlug: "number-property",
@@ -11,4 +9,5 @@ export const netPayout = {
   definition: "what a seller was left with in gold",
   max: null,
   invariants: [{ invariantKind: "departure", statement: "A payout is the price less the tax." }],
+  types: "ts",
 } as const satisfies NumberProperty

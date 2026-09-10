@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type CollectionIndex = number
-
 export const collectionIndex = {
   id: "01a05fd1-d437-7503-943d-4cfbfe666121",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const collectionIndex = {
   propertySlug: "collection-index",
   definition: "where a style sits in the game's own collection list",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

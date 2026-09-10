@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type ValuePerPiece = number
-
 export const valuePerPiece = {
   id: "01a05fe0-8428-7c08-a3df-30db8ae9ad6a",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const valuePerPiece = {
   propertySlug: "value-per-piece",
   definition: "what one piece of armor adds to the metric an effect moves",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

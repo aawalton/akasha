@@ -1,0 +1,1 @@
+export type HitCount = number

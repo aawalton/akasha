@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type EnchantmentMultiplier = number
-
 export const enchantmentMultiplier = {
   id: "01a05fd1-d43a-7f89-a21f-954013b3adfe",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const enchantmentMultiplier = {
   propertySlug: "enchantment-multiplier",
   definition: "how much of a glyph's effect a weapon of this kind carries",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

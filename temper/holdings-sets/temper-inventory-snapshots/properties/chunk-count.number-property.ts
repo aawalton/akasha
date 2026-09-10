@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type ChunkCount = number
-
 export const chunkCount = {
   id: "01a05fcb-fd2d-7dd6-91a7-ef600287f306",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const chunkCount = {
   propertySlug: "chunk-count",
   definition: "how many files one reading of an inventory was cut into",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

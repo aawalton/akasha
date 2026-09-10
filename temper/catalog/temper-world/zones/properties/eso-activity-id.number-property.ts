@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type EsoActivityId = number
-
 export const esoActivityId = {
   id: "01a06167-3f9b-7004-95fb-a1c63b19f807",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const esoActivityId = {
   propertySlug: "eso-activity-id",
   definition: "the number the game gives a completion activity",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

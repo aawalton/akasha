@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type ArmorMultiplier = number
-
 export const armorMultiplier = {
   id: "01a05fd1-d436-747d-9b85-c19e00005b75",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const armorMultiplier = {
   propertySlug: "armor-multiplier",
   definition: "the share of a weight's armor one piece of this kind carries",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

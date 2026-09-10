@@ -1,9 +1,9 @@
 import type { CapturedAt } from "../../catalog/temper-world/properties/captured-at.instant-property.types.ts"
 import type { AccountPage } from "../../things/properties/account-page.text-property.ts"
-import type { TotalValue } from "../things/properties/total-value.number-property.ts"
+import type { TotalValue } from "../things/properties/total-value.number-property.types.ts"
 import type { TemperHoldingsThing } from "../things/temper-holdings-thing.page-type.types.ts"
 import type { BagSizes } from "./properties/bag-sizes.page-property-entry.types.ts"
-import type { ChunkCount } from "./properties/chunk-count.number-property.ts"
+import type { ChunkCount } from "./properties/chunk-count.number-property.types.ts"
 import type { CraftingLevels } from "./properties/crafting-levels.page-property-entry.types.ts"
 import type { Currencies } from "./properties/currencies.page-property-entry.types.ts"
 import type { Data } from "./properties/data.file-property.ts"
@@ -13,8 +13,8 @@ import type { PlacedFurnishings } from "./properties/placed-furnishings.page-pro
 import type { PriceSource } from "./properties/price-source.text-property.ts"
 import type { SnapshotLocations } from "./properties/snapshot-locations.page-property-entry.types.ts"
 import type { Stacks } from "./properties/stacks.page-property-entry.types.ts"
-import type { TransmuteCrystalAmount } from "./properties/transmute-crystal-amount.number-property.ts"
-import type { TransmuteCrystalCap } from "./properties/transmute-crystal-cap.number-property.ts"
+import type { TransmuteCrystalAmount } from "./properties/transmute-crystal-amount.number-property.types.ts"
+import type { TransmuteCrystalCap } from "./properties/transmute-crystal-cap.number-property.types.ts"
 
 export type TemperInventorySnapshot = TemperHoldingsThing & {
   accountPage: AccountPage

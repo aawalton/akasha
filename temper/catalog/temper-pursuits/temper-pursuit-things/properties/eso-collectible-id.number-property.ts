@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type EsoCollectibleId = number
-
 export const esoCollectibleId = {
   id: "01a06153-0ea9-7001-b53f-073db3a36aa1",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const esoCollectibleId = {
   propertySlug: "eso-collectible-id",
   definition: "the number The Elder Scrolls Online names a collectible by",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

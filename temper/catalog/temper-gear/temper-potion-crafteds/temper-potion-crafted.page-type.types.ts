@@ -2,7 +2,7 @@ import type { Description } from "../../../../pages/properties/description.text-
 import type { Icon } from "../../../things/properties/icon.text-property.ts"
 import type { Key } from "../../../things/properties/key.text-property.ts"
 import type { ItemLevel } from "../properties/item-level.text-property.ts"
-import type { PotionSeconds } from "../properties/potion-seconds.number-property.ts"
+import type { PotionSeconds } from "../properties/potion-seconds.number-property.types.ts"
 import type { Recipes } from "../properties/recipes.record-property.ts"
 import type { TemperGearThing } from "../things/temper-gear-thing.page-type.types.ts"
 

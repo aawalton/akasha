@@ -1,0 +1,1 @@
+export type ProgressTotal = number

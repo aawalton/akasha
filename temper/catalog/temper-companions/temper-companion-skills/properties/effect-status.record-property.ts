@@ -1,7 +1,7 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { Duration } from "./duration.number-property.ts"
-import type { StatusDistance } from "./status-distance.number-property.ts"
-import type { StatusMagnitude } from "./status-magnitude.number-property.ts"
+import type { Duration } from "./duration.number-property.types.ts"
+import type { StatusDistance } from "./status-distance.number-property.types.ts"
+import type { StatusMagnitude } from "./status-magnitude.number-property.types.ts"
 import type { StatusName } from "./status-name.text-property.ts"
 
 export type EffectStatus = {

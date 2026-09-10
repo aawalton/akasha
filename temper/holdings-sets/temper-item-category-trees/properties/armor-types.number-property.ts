@@ -1,7 +1,4 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type ArmorTypes = List<number>
 
 export const armorTypes = {
   id: "01a05fcb-fd2f-745c-a3dd-7f72bedb3bf8",
@@ -11,4 +8,5 @@ export const armorTypes = {
   propertySlug: "armor-types",
   definition: "an armor type The Elder Scrolls Online numbers",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

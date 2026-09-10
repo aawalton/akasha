@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type EsoAntiquitySetId = number
-
 export const esoAntiquitySetId = {
   id: "01a06176-a912-7000-8819-19b71a0dafd6",
   pageTypeSlug: "number-property",
@@ -20,4 +18,5 @@ export const esoAntiquitySetId = {
       statement: "Nothing refuses an antiquity row stating `eso-set-id`.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

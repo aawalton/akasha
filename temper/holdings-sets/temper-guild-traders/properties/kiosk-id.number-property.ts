@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type KioskId = number
-
 export const kioskId = {
   id: "01a05fcb-fd2c-797f-87db-5d4343649f75",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const kioskId = {
   propertySlug: "kiosk-id",
   definition: "the number The Elder Scrolls Online gives a trading kiosk",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

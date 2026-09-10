@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type WeaponPower = number
-
 export const weaponPower = {
   id: "01a05fcd-f556-71bb-8465-689adcc32b4a",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const weaponPower = {
   propertySlug: "weapon-power",
   definition: "how much damage a weapon is worth",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

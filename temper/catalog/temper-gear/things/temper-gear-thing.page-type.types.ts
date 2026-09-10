@@ -3,7 +3,7 @@ import type { EsoEnchantConstantName } from "../properties/eso-enchant-constant-
 import type { EssenceRune } from "../properties/essence-rune.text-property.ts"
 import type { GlyphName } from "../properties/glyph-name.text-property.ts"
 import type { ItemLevel } from "../properties/item-level.text-property.ts"
-import type { PotionSeconds } from "../properties/potion-seconds.number-property.ts"
+import type { PotionSeconds } from "../properties/potion-seconds.number-property.types.ts"
 import type { ValidSlots } from "../properties/valid-slots.text-property.ts"
 
 export type TemperGearThing = TemperCatalogThing & {

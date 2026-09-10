@@ -1,0 +1,1 @@
+export type MinPrice = number

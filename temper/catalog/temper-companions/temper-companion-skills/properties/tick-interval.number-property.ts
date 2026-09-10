@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type TickInterval = number
-
 export const tickInterval = {
   id: "01a06193-6ca8-7471-9460-6a7a73360a6e",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const tickInterval = {
   propertySlug: "tick-interval",
   definition: "how many seconds fall between one tick of an effect and the next",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

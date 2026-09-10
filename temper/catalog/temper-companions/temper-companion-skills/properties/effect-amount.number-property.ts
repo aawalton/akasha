@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type EffectAmount = number
-
 export const effectAmount = {
   id: "01a06193-6ca9-77b4-9ef7-a846d70c1675",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const effectAmount = {
   propertySlug: "amount",
   definition: "how much of a resource an effect gives or takes",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

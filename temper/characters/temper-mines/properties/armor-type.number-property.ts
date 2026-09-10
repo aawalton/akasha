@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type ArmorType = number
-
 export const armorType = {
   id: "01a05fcd-f54c-7e54-b137-1ee0839f485b",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const armorType = {
   propertySlug: "armor-type",
   definition: "the weight class of armor an item is",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

@@ -1,8 +1,6 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type EsoCurseId = number
-export type EsoCurseIds = List<EsoCurseId>
 
 export const esoCurseIds = {
   id: "01a05fc5-94cd-7c97-9330-6c78011127fa",
@@ -18,4 +16,5 @@ export const esoCurseIds = {
       statement: "One list has every ability the game marks one curse by.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty
