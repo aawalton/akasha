@@ -21,6 +21,7 @@ import {
   SUBAGENT_MARK,
 } from "../../../commands/modules/reading/reading.module.code.ts"
 import { subagentPageInHistory } from "../../subagent-page-history/subagent-page-history.module.code.ts"
+import { movedOnto } from "../../subagent-recovering/subagent-recovering.module.code.ts"
 import { subagentReturned } from "../properties/subagent-returned.boolean-property.ts"
 
 export const SUBAGENTS_AT = "seat-system/subagents/pages"
@@ -223,6 +224,8 @@ export async function tookUnder(
 ): Promise<Went> {
   const paths = pathsUnder(root, seatName)
   if (paths.length === 0) return WENT
+  const seat = seatPageIn(root, seatName)
+  if (seat !== null) for (const at of paths) movedOnto(root, seat, at)
   const gone = wentBy(
     await landing(
       root,

@@ -226,6 +226,15 @@ export const subagentPresence = {
     {
       invariantKind: "departure",
       statement:
+        "What each page under a seat has beside it moves onto the seat before that page goes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat the index has no page for sweeps its pages without moving anything.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A run of hyphens between the seat's name and the subagent's own id is written as one.",
     },
   ],

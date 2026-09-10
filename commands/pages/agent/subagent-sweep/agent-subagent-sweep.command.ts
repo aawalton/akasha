@@ -24,7 +24,8 @@ export const agentSubagentSweep = {
     "no page's age is read: a page written long ago under a process still running says nothing.",
     "the report names, for each page, its seat, its agent id, what answers for it, and why.",
     "a removal is landed by this command rather than drafted, as the put-up that wrote the page was.",
-    "a page a subagent left edits waiting beside is kept though it was judged stale, because nothing reaches those edits once the page goes.",
+    "a page a subagent left edits waiting beside is kept though it was judged stale, so the seat can take those edits up as its own.",
+    "a page that does go takes its files with it, and what those files held moves onto the seat that dispatched the subagent first.",
   ],
   invariants: [
     {
@@ -38,7 +39,23 @@ export const agentSubagentSweep = {
     },
     {
       invariantKind: "departure",
-      statement: "A page taken away goes through the change removing a file.",
+      statement: "A page taken away goes through the change taking a file of any kind away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That change takes a page away with every file that page claims.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a page has beside it moves onto that page's seat before the page goes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page whose seat the index has no page for moves nothing and still goes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The report names what moved before it names what went.",
     },
     {
       invariantKind: "departure",

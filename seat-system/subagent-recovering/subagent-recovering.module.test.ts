@@ -2,8 +2,14 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { refusalsKept } from "akasha/commands/modules/refusals-keeping/refusals-keeping.module.code.ts"
+import {
+  appendEdits,
+  linesIn,
+} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import {
+  refusalsAt,
+  refusalsKept,
+} from "akasha/commands/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import {
   movedOnto,
@@ -62,6 +68,30 @@ test("a second subagent's edits follow the first rather than replacing them", ()
       .split("\n")
       .filter((one) => one !== "")
   ).toEqual([JSON.stringify(ROW), JSON.stringify(OTHER)])
+})
+
+test("what was moved is taken from beside the subagent rather than copied", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  folderFor(root, UNDER)
+  appendEdits(root, UNDER, [ROW])
+  refusalsKept(root, UNDER, ["why"])
+  movedOnto(root, SEAT, UNDER)
+
+  expect(linesIn(root, UNDER)).toEqual([])
+  expect(bodyAt(root, refusalsAt(UNDER))).toBe("")
+})
+
+test("a second move over the same subagent moves nothing", () => {
+  const root = scratch.rootFor("subagent-recovering-")
+  appendEdits(root, UNDER, [ROW])
+  movedOnto(root, SEAT, UNDER)
+
+  expect(movedOnto(root, SEAT, UNDER)).toEqual({ edits: 0, refusals: false })
+  expect(
+    bodyAt(root, seatEditsAt(SEAT))
+      .split("\n")
+      .filter((one) => one !== "")
+  ).toEqual([JSON.stringify(ROW)])
 })
 
 test("a subagent with nothing beside it moves nothing", () => {

@@ -1,9 +1,15 @@
 import { appendFileSync, mkdirSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { linesIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import {
+  droppedAll,
+  linesIn,
+} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { exclusively } from "akasha/file-system/exclusive/exclusive.module.code.ts"
 import { partedIn, uncommittedBesideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { refusalsAt } from "../../commands/modules/refusals-keeping/refusals-keeping.module.code.ts"
+import {
+  refusalsAt,
+  refusalsKept,
+} from "../../commands/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import { subagentEdits } from "../seats/properties/subagent-edits.file-property.ts"
 import { subagentRefusals } from "../seats/properties/subagent-refusals.file-property.ts"
 
@@ -64,10 +70,14 @@ export function movedOnto(root: string, seatPage: string, subagentPage: string):
   const editsTo = seatEditsAt(seatPage)
   const refusalsTo = seatRefusalsAt(seatPage)
   const lines = editsTo === null ? [] : linesIn(root, subagentPage)
-  if (editsTo !== null && lines.length > 0) appended(root, editsTo, editsSaid(lines))
+  if (editsTo !== null && lines.length > 0) {
+    appended(root, editsTo, editsSaid(lines))
+    droppedAll(root, subagentPage)
+  }
   const refused = refusalsTo === null ? null : textAt(root, refusalsAt(subagentPage))
   if (refusalsTo !== null && refused !== null) {
     appended(root, refusalsTo, refusalsSaid(namedAt(subagentPage), refused))
+    refusalsKept(root, subagentPage, [])
   }
   return { edits: lines.length, refusals: refused !== null }
 }

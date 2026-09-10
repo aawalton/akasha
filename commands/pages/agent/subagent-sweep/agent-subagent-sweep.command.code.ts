@@ -25,6 +25,11 @@ import {
   outlivedAmong,
   subagentsDirOf,
 } from "akasha/seat-system/subagent-outliving/subagent-outliving.module.code.ts"
+import {
+  movedOnto,
+  saidOf,
+} from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
+import { seatPageIn } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 import { transcriptOf } from "../../../../seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { subagentReturned } from "../../../../seat-system/subagents/properties/subagent-returned.boolean-property.ts"
 import { type Answer, answering, type Given } from "../../../modules/calling/calling.module.code.ts"
@@ -34,7 +39,7 @@ const REMOVE = "--remove"
 
 const CALLED_AS = "akasha agent subagent sweep"
 
-export const TAKE = "change-mechanical-file/remove-file"
+export const TAKE = "change-mechanical/remove-file-of-any-kind"
 
 const WRONG = 3
 
@@ -173,7 +178,18 @@ export function messageOf(stale: readonly Judged[]): string {
   ].join("\n")
 }
 
+function moving(root: string, stale: readonly Judged[]): readonly string[] {
+  const said: string[] = []
+  for (const one of stale) {
+    const seat = seatPageIn(root, one.page.seatName)
+    if (seat === null) continue
+    said.push(...saidOf(one.page.slug, movedOnto(root, seat, one.page.path)))
+  }
+  return said
+}
+
 async function taking(root: string, stale: readonly Judged[], landing: Landing): Promise<Answer> {
+  const moved = moving(root, stale)
   const changes: readonly Asking[] = stale.map((one) => ({
     at: TAKE,
     given: { at: one.page.path },
@@ -185,11 +201,7 @@ async function taking(root: string, stale: readonly Judged[], landing: Landing):
     root,
     stale.map((one) => one.page.path)
   )
-  return answering(
-    stale.map((one) => `${one.page.path} went`),
-    [],
-    0
-  )
+  return answering([...moved, ...stale.map((one) => `${one.page.path} went`)], [], 0)
 }
 
 export async function agentSubagentSweep(

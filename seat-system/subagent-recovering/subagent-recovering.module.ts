@@ -43,6 +43,18 @@ export const subagentRecovering = {
     },
     {
       invariantKind: "departure",
+      statement: "What was moved is taken from beside the subagent rather than copied.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A second move over the same subagent therefore moves nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sweep refused after a move leaves what moved reachable from the seat.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A write here takes a lock keyed on the file the write writes.",
     },
     {
