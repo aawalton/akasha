@@ -16,7 +16,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "The lualib migration is done: all 47 `lualib/src` files are `lualibs/<slug>/` pages, both tsconfigs are trimmed, and `src` is gone. 11 refusals are left: the repo root, `ast-unused-configs/pages`, `seat-log-days/pages`, `subagents/pages`, five under `temper`, and `pages/indexes/index-settling`. The three `pages` folders compose their paths flat in running code, so converting one means changing writers while the swarm runs.\n",
+        "4 refusals are left: the repo root, `ast-unused-configs/pages`, `seat-log-days/pages`, `subagents/pages`. The three `pages` folders fail one invariant — `pages-of-the-type-above` allows no file beside a page file, and each holds sidecars — and Alan's ruling on that is per-page folders. The two under `seat-system` have their flat paths composed by running code. `move-folder` cost 0.11 s a file until `facingIn` went lazy; 1841 files now draft in under 3 s.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
