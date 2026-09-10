@@ -30,7 +30,8 @@ export const trackSessionSwitch = {
   helpNotes: [
     "every time said here is a US Mountain wall time, and no other clock is read or written.",
     "a day is named at --day and nowhere else.",
-    "a sleep switch ends moves to the day it woke into, and the next stretch opens that day.",
+    "a sleep switch ends moves to the day that sleep opened, and the next stretch opens that day.",
+    "a sleep beginning at or after six the evening in New York opens the day after it.",
     "--relationship names a relationship by its id or by its title.",
     "a title carrying one of a relationship's aliases tags the stretch with that relationship, with no flag said, and what --relationship names is kept beside it.",
     "an alias more than one relationship carries tags neither, and says nothing about it, since no act that writes stops to ask.",
@@ -54,15 +55,19 @@ export const trackSessionSwitch = {
     },
     {
       invariantKind: "departure",
-      statement: "A sleep a `switch` ends moves to the day that sleep woke into.",
+      statement: "A sleep a `switch` ends moves to the day that sleep opened.",
     },
     {
       invariantKind: "departure",
-      statement: "The stretch a `switch` begins opens the day that sleep woke into.",
+      statement: "The stretch a `switch` begins opens the day that sleep opened.",
     },
     {
       invariantKind: "departure",
-      statement: "The day a sleep woke into is named by the ESO reset at six in New York.",
+      statement: "The day a sleep opened is read from when that sleep began.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sleep beginning at or after six the evening in New York opens the day after.",
     },
     {
       invariantKind: "departure",
