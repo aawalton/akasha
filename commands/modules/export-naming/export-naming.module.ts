@@ -19,7 +19,8 @@ export const exportNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug that could not become an export name is said, with the path it sits at.",
+      statement:
+        "A slug that could not become an export name is said with the path that slug sits at.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +33,11 @@ export const exportNaming = {
     },
     {
       invariantKind: "absence",
-      statement: "An append names no slug, so an edit appending is judged for no export name.",
+      statement: "An append names no slug.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "An edit appending is judged for no export name.",
     },
     {
       invariantKind: "absence",
