@@ -8,6 +8,5 @@ export const foodEntry20260910StringCheese = {
   cover: "/api/image/01a08d04-44b4-7000-911b-59f123cea3d0",
   title: "String Cheese",
   happenedAt: "2026-09-10T20:31:02.312Z",
-  plantGrams: 0,
   estimatedCalories: 160,
 } as const satisfies FoodEntry
