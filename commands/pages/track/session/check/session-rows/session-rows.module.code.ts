@@ -366,7 +366,7 @@ export function faultsIn(rows: readonly Row[], held: Held): readonly string[] {
     const named = `row ${String(at + 1)}`
     const began = new Date(row.startTime)
     const on = Number.isNaN(began.getTime()) ? null : getEsoDayStr(began)
-    const opened = at === 0 && on === dayBefore(held.day)
+    const opened = on === dayBefore(held.day)
     if (on !== null && on !== held.day && !opened) {
       said.push(`${named} began on ${on} rather than on ${held.day}, whose page holds it`)
     }

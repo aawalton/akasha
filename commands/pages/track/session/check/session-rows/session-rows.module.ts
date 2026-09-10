@@ -28,7 +28,7 @@ export const sessionRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A day's first row began the day before where that day opened with a sleep.",
+      statement: "A day opens in the evening before it, so its rows may have begun the day before.",
     },
     {
       invariantKind: "departure",
