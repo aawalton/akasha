@@ -90,5 +90,5 @@ test("a held addon page, an addon page and the manifest beside it are input", ()
 
 test("a file naming neither page type is not input", () => {
   expect(touches("temper/temper-lib-async/package.json")).toBe(false)
-  expect(touches("pages/shadow/shadow.module.code.ts")).toBe(false)
+  expect(touches("humming/humming.module.code.ts")).toBe(false)
 })
