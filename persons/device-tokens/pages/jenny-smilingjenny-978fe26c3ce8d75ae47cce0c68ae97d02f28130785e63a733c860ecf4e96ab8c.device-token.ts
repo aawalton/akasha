@@ -1,4 +1,4 @@
-import type { DeviceToken } from "../device-token.page-type.ts"
+import type { DeviceToken } from "../device-token.page-type.types.ts"
 
 export const jennySmilingjenny978fe26c3ce8d75ae47cce0c68ae97d02f28130785e63a733c860ecf4e96ab8c = {
   id: "01a05dc7-421c-7001-96bf-303c9e523ffa",

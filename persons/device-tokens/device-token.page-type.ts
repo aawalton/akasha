@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { DeviceTokenIosApp } from "./properties/device-token-ios-app.relation-property.ts"
-import type { DeviceTokenLastSeenAt } from "./properties/device-token-last-seen-at.instant-property.ts"
-import type { DeviceTokenPerson } from "./properties/device-token-person.relation-property.ts"
-import type { DeviceTokenToken } from "./properties/device-token-token.text-property.ts"
-
-export type DeviceToken = Page & {
-  person: DeviceTokenPerson
-  iosApp: DeviceTokenIosApp
-  token: DeviceTokenToken
-  lastSeenAt?: DeviceTokenLastSeenAt
-}
 
 export const deviceToken = {
   id: "01a05dc7-77d9-7c93-878e-d93457c7db5f",
@@ -68,4 +56,5 @@ export const deviceToken = {
       statement: "When a token was last seen is kept outside the commit.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
