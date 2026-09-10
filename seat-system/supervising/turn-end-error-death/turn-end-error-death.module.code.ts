@@ -10,18 +10,23 @@ export interface DeathReading {
   readonly statuses: readonly number[]
 }
 
+function parseTranscriptLine(held: unknown): Record<string, unknown> | null {
+  if (typeof held !== "object" || held === null || Array.isArray(held)) return null
+  return held as Record<string, unknown>
+}
+
 function assistantRecords(text: string): Record<string, unknown>[] {
   const held: Record<string, unknown>[] = []
   for (const raw of text.split("\n")) {
     if (raw.trim() === "") continue
-    let line: unknown
+    let record: Record<string, unknown> | null = null
     try {
-      line = JSON.parse(raw)
+      const line: unknown = JSON.parse(raw)
+      record = parseTranscriptLine(line)
     } catch {
       continue
     }
-    if (typeof line !== "object" || line === null || Array.isArray(line)) continue
-    const record = line as Record<string, unknown>
+    if (record === null) continue
     if (record.type === "assistant") held.push(record)
   }
   return held
