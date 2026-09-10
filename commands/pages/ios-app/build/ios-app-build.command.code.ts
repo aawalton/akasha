@@ -7,14 +7,10 @@ import {
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { ran as running } from "akasha/utils/run/running/running.module.code.ts"
 import { z } from "zod"
-import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
-import { SCRATCH_AT } from "../../modules/scratching/scratching.module.code.ts"
-
-export const BUILD = "build"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { SCRATCH_AT } from "../../../modules/scratching/scratching.module.code.ts"
 
 export const WWW = "--www"
-
-const ACTS = [BUILD]
 
 const HOST_ENV = "AKASHA_MAC_HOST"
 
@@ -41,10 +37,8 @@ function parseInstalledUdid(said: string): string | null {
 }
 
 export type Read =
-  | { readonly act: string; readonly app: string; readonly www: string | null }
+  | { readonly app: string; readonly www: string | null }
   | { readonly refused: string }
-
-const acts = (): string => ACTS.join("`, `")
 
 export function readIn(argv: readonly string[]): Read {
   const bare: string[] = []
@@ -65,18 +59,14 @@ export function readIn(argv: readonly string[]): Read {
     }
     bare.push(one)
   }
-  const [act, app, ...rest] = bare
-  if (act === undefined) return { refused: `this names no act — it carries \`${acts()}\`` }
-  if (!ACTS.includes(act)) {
-    return { refused: `\`${act}\` is no act this carries — it carries \`${acts()}\`` }
-  }
-  if (app === undefined) return { refused: `\`${act}\` names an app, and nothing followed it` }
+  const [app, ...rest] = bare
+  if (app === undefined) return { refused: "this names an app, and nothing was said" }
   if (rest.length > 0) {
     return {
       refused: `\`${rest.join("`, `")}\` follows the app \`${app}\`, and one call names one app`,
     }
   }
-  return { act, app, www }
+  return { app, www }
 }
 
 type Ran = { readonly out: string; readonly code: number }
@@ -147,7 +137,7 @@ function built(script: string, host: string): Ran {
   }
 }
 
-export function iosApp(argv: readonly string[], given: Given): Answer {
+export function iosAppBuild(argv: readonly string[], given: Given): Answer {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: [read.refused], code: 1 }
   const plan = planFor(given.root, read.app)

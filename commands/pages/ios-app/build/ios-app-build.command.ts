@@ -1,16 +1,14 @@
-import type { Command } from "../../command.page-type.types.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
-export const iosApp = {
-  id: "01a059ba-a798-7c72-b37c-b3b3cdfc33a9",
-  pageTypeSlug: "command",
+export const iosAppBuild = {
+  id: "01a08cfb-0248-744a-b27f-bd776c527fca", pageTypeSlug: "command",
   type: "command",
-  slug: "ios-app",
-  definition: "the command acting on the iOS apps akasha carries",
+  slug: "ios-app-build",
+  definition: "the act building one iOS app and installing it on a simulator",
   code: "ts",
   test: "ts",
   changeKind: "change-none",
   taking: [
-    { said: "build", takes: "the act, which is to build one app and install it on a simulator" },
     { said: "<app>", takes: "the app to build, which is the slug of an ios-app page" },
     { said: "--www <dir>", takes: "the site to install inside it, as some other build left it" },
   ],
@@ -23,14 +21,6 @@ export const iosApp = {
     "a build naming a site skips that staging and installs the site it was named.",
   ],
   invariants: [
-    {
-      invariantKind: "departure",
-      statement: "The act is the first word and the app is the second.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "`build` is the only act there is.",
-    },
     {
       invariantKind: "departure",
       statement: "One call names one app.",

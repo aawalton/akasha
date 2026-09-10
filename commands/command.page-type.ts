@@ -10,7 +10,7 @@ export const command = {
   parts: [
     "command/audit",
     "namespace/icloud",
-    "command/ios-app",
+    "namespace/ios-app",
     "command/push",
     "command/read",
     "command/restore",
