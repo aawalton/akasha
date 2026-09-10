@@ -1,4 +1,4 @@
-import type { ShowCollection } from "../show-collection.page-type.ts"
+import type { ShowCollection } from "../show-collection.page-type.types.ts"
 
 export const awardWinningMovies = {
   id: "01a06808-6a77-7001-9952-6ee2f1f82888",

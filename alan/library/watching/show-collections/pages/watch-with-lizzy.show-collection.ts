@@ -1,4 +1,4 @@
-import type { ShowCollection } from "../show-collection.page-type.ts"
+import type { ShowCollection } from "../show-collection.page-type.types.ts"
 
 export const watchWithLizzy = {
   id: "01a06808-6a77-7017-b0dd-953bd5d2c830",

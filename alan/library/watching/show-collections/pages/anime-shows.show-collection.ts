@@ -1,4 +1,4 @@
-import type { ShowCollection } from "../show-collection.page-type.ts"
+import type { ShowCollection } from "../show-collection.page-type.types.ts"
 
 export const animeShows = {
   id: "01a06808-6a77-7000-af3c-d6655341f91f",

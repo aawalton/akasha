@@ -1,4 +1,4 @@
-import type { ShowCollection } from "../show-collection.page-type.ts"
+import type { ShowCollection } from "../show-collection.page-type.types.ts"
 
 export const familyFriendlyShows = {
   id: "01a06808-6a77-7007-bb2f-714dadc112de",

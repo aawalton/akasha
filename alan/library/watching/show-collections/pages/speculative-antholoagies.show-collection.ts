@@ -1,4 +1,4 @@
-import type { ShowCollection } from "../show-collection.page-type.ts"
+import type { ShowCollection } from "../show-collection.page-type.types.ts"
 
 export const speculativeAntholoagies = {
   id: "01a06808-6a77-7010-bb27-6c9f0e56be3f",

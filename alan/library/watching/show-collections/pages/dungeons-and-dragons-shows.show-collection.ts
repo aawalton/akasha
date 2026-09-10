@@ -1,4 +1,4 @@
-import type { ShowCollection } from "../show-collection.page-type.ts"
+import type { ShowCollection } from "../show-collection.page-type.types.ts"
 
 export const dungeonsAndDragonsShows = {
   id: "01a06808-6a77-7006-819d-378765a98da2",

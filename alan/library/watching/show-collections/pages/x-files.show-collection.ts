@@ -1,4 +1,4 @@
-import type { ShowCollection } from "../show-collection.page-type.ts"
+import type { ShowCollection } from "../show-collection.page-type.types.ts"
 
 export const xFiles = {
   id: "01a06808-6a77-7018-9efe-6fe48d04cfca",

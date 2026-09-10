@@ -1,4 +1,4 @@
-import type { ShowCollection } from "../show-collection.page-type.ts"
+import type { ShowCollection } from "../show-collection.page-type.types.ts"
 
 export const ncis2 = {
   id: "01a06808-6a77-700b-a2e7-4ee5f7597a43",

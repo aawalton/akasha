@@ -1,4 +1,4 @@
-import type { ShowCollection } from "../show-collection.page-type.ts"
+import type { ShowCollection } from "../show-collection.page-type.types.ts"
 
 export const phineasAndFerb = {
   id: "01a06808-6a77-700c-b741-b18ec0c15e36",

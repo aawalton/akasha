@@ -1,4 +1,4 @@
-import type { ShowCollection } from "../show-collection.page-type.ts"
+import type { ShowCollection } from "../show-collection.page-type.types.ts"
 
 export const harryPotterMovies = {
   id: "01a06808-6a77-700a-8767-b6fcfa40f34a",
