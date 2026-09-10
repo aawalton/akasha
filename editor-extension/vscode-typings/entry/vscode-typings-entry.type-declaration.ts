@@ -24,7 +24,7 @@ export const vscodeTypingsEntry = {
     {
       invariantKind: "departure",
       statement:
-        "A reference path is read against the real folder of the file holding it, never against the link.",
+        "A reference path is read against the file's real folder rather than against the link.",
     },
     {
       invariantKind: "departure",

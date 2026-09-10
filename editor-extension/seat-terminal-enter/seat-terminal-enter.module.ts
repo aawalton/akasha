@@ -40,7 +40,7 @@ export const seatTerminalEnter = {
     },
     {
       invariantKind: "departure",
-      statement: "The editor is handed in rather than imported, so a test runs outside the editor.",
+      statement: "The editor is handed in rather than imported.",
     },
     {
       invariantKind: "absence",
