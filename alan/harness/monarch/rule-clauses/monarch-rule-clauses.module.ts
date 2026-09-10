@@ -55,7 +55,7 @@ export const monarchRuleClauses = {
     },
     {
       invariantKind: "departure",
-      statement: "A stated rule is what a rule page says before any of that is weighed.",
+      statement: "A stated rule is a rule page's own words before those words are weighed.",
     },
   ],
 } as const satisfies Module
