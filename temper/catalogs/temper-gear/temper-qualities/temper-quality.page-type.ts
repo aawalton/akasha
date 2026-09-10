@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.types.ts"
-
-export type TemperQuality = TemperCatalogThing
 
 export const temperQuality = {
   id: "01a05fd1-d43f-7460-806b-41a2697dcbed",
@@ -16,4 +13,5 @@ export const temperQuality = {
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "boolean-property/available", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType

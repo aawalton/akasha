@@ -1,4 +1,4 @@
-import type { TemperQuality } from "../temper-quality.page-type.ts"
+import type { TemperQuality } from "../temper-quality.page-type.types.ts"
 
 export const superior = {
   id: "019e2fc4-de16-7b96-aecb-4c8af4cf242a",

@@ -1,4 +1,4 @@
-import type { TemperQuality } from "../temper-quality.page-type.ts"
+import type { TemperQuality } from "../temper-quality.page-type.types.ts"
 
 export const fine = {
   id: "019e2fc4-de14-71ef-b544-07071b91af02",
