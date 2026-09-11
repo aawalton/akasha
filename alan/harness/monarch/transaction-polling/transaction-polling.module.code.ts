@@ -1,8 +1,10 @@
 import { pollTransactions } from "akasha/alan/harness/monarch/poll/monarch-poll.module.code.ts"
 
-async function main(argv: readonly string[]): Promise<number> {
+export async function runTransactionPolling(argv: readonly string[]): Promise<void> {
   await pollTransactions({ verbose: argv.includes("--verbose") })
-  return 0
 }
 
-if (import.meta.main) process.exit(await main(process.argv.slice(2)))
+if (import.meta.main) {
+  await runTransactionPolling(process.argv.slice(2))
+  process.exit(0)
+}
