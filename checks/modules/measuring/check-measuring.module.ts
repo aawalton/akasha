@@ -279,7 +279,7 @@ export const checkMeasuring = {
     {
       invariantKind: "absence",
       statement:
-        "No count here is the count no-rule-in-two-files answers with, each being an upper bound.",
+        "No count here is the count no-rule-in-two-files answers with, and neither bounds the other.",
     },
   ],
 } as const satisfies Module
