@@ -9,6 +9,7 @@ export const ambientTypes = {
   slug: "ambient-types",
   propertySlug: "d",
   definition: "the types a page declares for a compiler to read",
+  extensions: ["ts"],
   runsFileLength: false,
   invariants: [
     {

@@ -9,4 +9,5 @@ export const rust = {
   slug: "rust",
   propertySlug: "rust",
   definition: "the Rust a page is",
+  extensions: ["rs"],
 } as const satisfies CodeFileProperty

@@ -9,6 +9,7 @@ export const styles = {
   slug: "styles",
   propertySlug: "styles",
   definition: "the rules a browser dresses a thing by",
+  extensions: ["css"],
   invariants: [
     {
       invariantKind: "departure",

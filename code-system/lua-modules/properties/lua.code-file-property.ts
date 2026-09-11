@@ -9,4 +9,5 @@ export const lua = {
   slug: "lua",
   propertySlug: "lua",
   definition: "the Lua a page is",
+  extensions: ["lua"],
 } as const satisfies CodeFileProperty

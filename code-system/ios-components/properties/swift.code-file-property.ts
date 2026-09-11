@@ -9,6 +9,7 @@ export const swift = {
   slug: "swift",
   propertySlug: "swift",
   definition: "the Swift a page is",
+  extensions: ["swift"],
   invariants: [
     {
       invariantKind: "gap",

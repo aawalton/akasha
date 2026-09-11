@@ -9,6 +9,7 @@ export const routeCode = {
   slug: "route-code",
   propertySlug: "code",
   definition: "the code a route is",
+  extensions: ["ts", "tsx"],
   invariants: [
     {
       invariantKind: "departure",

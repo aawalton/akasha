@@ -9,6 +9,7 @@ export const universalConfig = {
   slug: "universal-config",
   propertySlug: "universal-config",
   definition: "what a build for every Lua but 5.0 overlays the source tree with",
+  extensions: ["json"],
   fileName: "tsconfig.json",
   toolResolvesPaths: true,
 } as const satisfies FileProperty

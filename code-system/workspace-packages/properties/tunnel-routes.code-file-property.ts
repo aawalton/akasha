@@ -9,5 +9,6 @@ export const tunnelRoutes = {
   slug: "tunnel-routes",
   propertySlug: "tunnel-routes",
   definition: "the hostnames a folder puts through the tunnel, each with the service answering it",
+  extensions: ["ts"],
   fileName: "tunnel-routes.ts",
 } as const satisfies CodeFileProperty

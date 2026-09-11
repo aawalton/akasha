@@ -9,4 +9,5 @@ export const addonManifest = {
   slug: "addon-manifest",
   propertySlug: "addon-manifest",
   definition: "what an addon states about itself",
+  extensions: ["json"],
 } as const satisfies FileProperty

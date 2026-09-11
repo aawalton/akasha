@@ -9,6 +9,7 @@ export const crateIcon = {
   slug: "crate-icon",
   propertySlug: "icon",
   definition: "a crate's icon picture, carried as text beside the crate's page",
+  extensions: ["json"],
   invariants: [
     {
       invariantKind: "departure",

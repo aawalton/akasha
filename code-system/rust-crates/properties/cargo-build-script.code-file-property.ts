@@ -9,5 +9,6 @@ export const cargoBuildScript = {
   slug: "cargo-build-script",
   propertySlug: "cargo-build-script",
   definition: "what Cargo runs before Cargo compiles a crate",
+  extensions: ["rs"],
   fileName: "build.rs",
 } as const satisfies CodeFileProperty

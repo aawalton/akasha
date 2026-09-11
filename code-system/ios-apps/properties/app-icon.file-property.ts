@@ -9,6 +9,7 @@ export const appIcon = {
   slug: "app-icon",
   propertySlug: "icon",
   definition: "an app's icon picture, carried as text beside the app's page",
+  extensions: ["json"],
   invariants: [
     {
       invariantKind: "departure",

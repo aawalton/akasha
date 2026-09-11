@@ -9,5 +9,6 @@ export const bindings = {
   slug: "bindings",
   propertySlug: "bindings",
   definition: "the keys an addon binds",
+  extensions: ["xml"],
   fileName: "Bindings.xml",
 } as const satisfies FileProperty

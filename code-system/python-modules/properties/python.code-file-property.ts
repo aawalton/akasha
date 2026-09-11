@@ -9,4 +9,5 @@ export const python = {
   slug: "python",
   propertySlug: "python",
   definition: "the Python a page is",
+  extensions: ["py"],
 } as const satisfies CodeFileProperty

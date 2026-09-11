@@ -9,6 +9,7 @@ export const logs = {
   slug: "logs",
   propertySlug: "logs",
   definition: "the cost of each run of a group's code, appended a line at a time",
+  extensions: ["jsonl"],
   generated: true,
   invariants: [
     {

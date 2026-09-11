@@ -9,6 +9,7 @@ export const moduleTypes = {
   slug: "module-types",
   propertySlug: "types",
   definition: "the type declarations a module's code and its callers both state",
+  extensions: ["ts"],
   invariants: [
     {
       invariantKind: "departure",

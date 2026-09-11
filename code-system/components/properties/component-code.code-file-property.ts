@@ -9,6 +9,7 @@ export const componentCode = {
   slug: "component-code",
   propertySlug: "code",
   definition: "the code a component is",
+  extensions: ["tsx"],
   invariants: [
     {
       invariantKind: "departure",

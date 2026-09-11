@@ -9,6 +9,7 @@ export const javascript = {
   slug: "javascript",
   propertySlug: "javascript",
   definition: "the JavaScript a page is",
+  extensions: ["mjs"],
   invariants: [
     {
       invariantKind: "departure",

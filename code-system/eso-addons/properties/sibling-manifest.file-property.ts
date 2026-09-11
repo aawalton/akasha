@@ -9,4 +9,5 @@ export const siblingManifest = {
   slug: "sibling-manifest",
   propertySlug: "sibling-manifest",
   definition: "what a second addon shipped inside this one states about itself",
+  extensions: ["json"],
 } as const satisfies FileProperty

@@ -9,5 +9,6 @@ export const main = {
   slug: "main",
   propertySlug: "main",
   definition: "where a program's run begins",
+  extensions: ["swift"],
   fileName: "main.swift",
 } as const satisfies CodeFileProperty

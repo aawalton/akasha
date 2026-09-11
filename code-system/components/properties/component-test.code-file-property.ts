@@ -9,6 +9,7 @@ export const componentTest = {
   slug: "component-test",
   propertySlug: "test",
   definition: "what proves a component's code",
+  extensions: ["tsx"],
   invariants: [
     {
       invariantKind: "departure",

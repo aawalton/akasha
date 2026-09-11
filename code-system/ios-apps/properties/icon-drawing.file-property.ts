@@ -9,4 +9,5 @@ export const iconDrawing = {
   slug: "icon-drawing",
   propertySlug: "icon-drawing",
   definition: "the drawing an app's icon is made from",
+  extensions: ["svg"],
 } as const satisfies FileProperty

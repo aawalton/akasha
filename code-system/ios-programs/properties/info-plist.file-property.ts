@@ -9,4 +9,5 @@ export const infoPlist = {
   slug: "info-plist",
   propertySlug: "info-plist",
   definition: "what a build target tells iOS about itself",
+  extensions: ["plist"],
 } as const satisfies FileProperty

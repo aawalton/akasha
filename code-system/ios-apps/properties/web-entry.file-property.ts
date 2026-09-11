@@ -9,4 +9,5 @@ export const webEntry = {
   slug: "web-entry",
   propertySlug: "web-entry",
   definition: "the page a shell boots before it reaches its site",
+  extensions: ["html"],
 } as const satisfies FileProperty

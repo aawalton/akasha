@@ -9,6 +9,7 @@ export const routeTest = {
   slug: "route-test",
   propertySlug: "test",
   definition: "what proves a route's code",
+  extensions: ["ts", "tsx"],
   invariants: [
     {
       invariantKind: "departure",

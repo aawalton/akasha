@@ -9,4 +9,5 @@ export const markup = {
   slug: "markup",
   propertySlug: "markup",
   definition: "the XML a page is",
+  extensions: ["xml"],
 } as const satisfies FileProperty

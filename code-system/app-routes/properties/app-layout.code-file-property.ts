@@ -9,6 +9,7 @@ export const appLayout = {
   slug: "app-layout",
   propertySlug: "app-layout",
   definition: "the route a signed-in reader's routes render inside",
+  extensions: ["tsx"],
   fileName: "_app-layout.tsx",
   invariants: [
     {

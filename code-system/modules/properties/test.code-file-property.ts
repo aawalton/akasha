@@ -9,6 +9,7 @@ export const test = {
   slug: "test",
   propertySlug: "test",
   definition: "what proves a page's code",
+  extensions: ["ts", "tsx"],
   maxCpuSeconds: 5,
   invariants: [
     {

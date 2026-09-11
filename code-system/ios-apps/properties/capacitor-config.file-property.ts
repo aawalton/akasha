@@ -9,4 +9,5 @@ export const capacitorConfig = {
   slug: "capacitor-config",
   propertySlug: "capacitor-config",
   definition: "what Capacitor is told to wrap and where it may go",
+  extensions: ["json"],
 } as const satisfies FileProperty

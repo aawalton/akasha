@@ -9,6 +9,7 @@ export const manifest = {
   slug: "manifest",
   propertySlug: "manifest",
   definition: "what a package states about itself",
+  extensions: ["json"],
   fileName: "package.json",
   runsFileLength: false,
   toolResolvesPaths: true,

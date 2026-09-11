@@ -9,5 +9,6 @@ export const cargoManifest = {
   slug: "cargo-manifest",
   propertySlug: "cargo-manifest",
   definition: "what a crate states about itself",
+  extensions: ["toml"],
   fileName: "Cargo.toml",
 } as const satisfies FileProperty

@@ -9,5 +9,6 @@ export const curation = {
   slug: "curation",
   propertySlug: "curation",
   definition: "the root of a curation, naming the parts merged into it",
+  extensions: ["json"],
   fileName: "ast-unused.config.json",
 } as const satisfies FileProperty

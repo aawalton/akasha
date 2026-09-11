@@ -9,5 +9,6 @@ export const shell = {
   slug: "shell",
   propertySlug: "shell",
   definition: "the shell a page is",
+  extensions: ["sh"],
   writtenBy: "module-property-group/scripting",
 } as const satisfies CodeFileProperty

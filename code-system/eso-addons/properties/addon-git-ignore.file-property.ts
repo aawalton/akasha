@@ -9,5 +9,6 @@ export const addonGitIgnore = {
   slug: "addon-git-ignore",
   propertySlug: "git-ignore",
   definition: "what a build leaves behind that git does not keep",
+  extensions: ["gitignore"],
   fileName: ".gitignore",
 } as const satisfies FileProperty

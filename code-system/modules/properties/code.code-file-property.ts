@@ -9,6 +9,7 @@ export const code = {
   slug: "code",
   propertySlug: "code",
   definition: "the code a page is",
+  extensions: ["ts", "tsx"],
   invariants: [
     {
       invariantKind: "departure",

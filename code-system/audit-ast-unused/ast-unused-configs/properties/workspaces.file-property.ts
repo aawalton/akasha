@@ -9,4 +9,5 @@ export const workspaces = {
   slug: "workspaces",
   propertySlug: "workspaces",
   definition: "the globs the audit reads one workspace's files under",
+  extensions: ["json"],
 } as const satisfies FileProperty

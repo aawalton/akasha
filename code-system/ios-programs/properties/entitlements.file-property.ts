@@ -9,4 +9,5 @@ export const entitlements = {
   slug: "entitlements",
   propertySlug: "entitlements",
   definition: "the capabilities a signed target is granted",
+  extensions: ["entitlements"],
 } as const satisfies FileProperty

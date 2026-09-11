@@ -9,6 +9,7 @@ export const recipe = {
   slug: "recipe",
   propertySlug: "recipe",
   definition: "the steps an image is built by",
+  extensions: ["dockerfile"],
   fileName: "Containerfile",
   generated: true,
   writtenBy: "module-property-group/composing",
