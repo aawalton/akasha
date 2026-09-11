@@ -1,15 +1,12 @@
 import { mkdirSync, readFileSync, unlinkSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
+import { errnoCodeOf } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 import type { z } from "zod"
 
 const CACHE_FOLDER = "collections-music-spotify"
 
 const OWNER_ONLY = 0o600
-
-function isErrnoException(thrown: unknown): thrown is NodeJS.ErrnoException {
-  return thrown instanceof Error && "code" in thrown
-}
 
 export function defaultBaseDir(): string {
   return join(homedir(), ".cache", CACHE_FOLDER)
@@ -43,7 +40,7 @@ export function readCacheFile<T extends z.ZodTypeAny>(
   try {
     raw = readFileSync(path, "utf8")
   } catch (thrown) {
-    if (isErrnoException(thrown) && thrown.code === "ENOENT") return null
+    if (errnoCodeOf(thrown) === "ENOENT") return null
     throw thrown
   }
   try {
@@ -66,7 +63,7 @@ export function removeCacheFile(path: string): undefined {
   try {
     unlinkSync(path)
   } catch (thrown) {
-    if (isErrnoException(thrown) && thrown.code === "ENOENT") return
+    if (errnoCodeOf(thrown) === "ENOENT") return
     throw thrown
   }
 }

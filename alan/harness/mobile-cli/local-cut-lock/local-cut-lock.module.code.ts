@@ -1,7 +1,10 @@
 import { closeSync, openSync, readFileSync, unlinkSync, writeSync } from "node:fs"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { expandTilde } from "akasha/utils/fs/expand-tilde/expand-tilde.module.code.ts"
-import { pidAliveOrAssumeDead } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
+import {
+  errnoCodeOf,
+  pidAliveOrAssumeDead,
+} from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 import { z } from "zod"
 
 export const LOCAL_CUT_LOCK_PATH = "~/.mobile-cut-testflight.lock"
@@ -26,10 +29,6 @@ export function parseLockRecord(raw: string): LockRecord | null {
   } catch {
     return null
   }
-}
-
-function isErrnoException(err: unknown): err is NodeJS.ErrnoException {
-  return err instanceof Error && "code" in err
 }
 
 export type LockDecision =
@@ -67,7 +66,7 @@ export function acquireLocalCutLock(nowMs: number, selfPid: number): undefined {
       closeSync(fd)
       return
     } catch (err) {
-      if (!isErrnoException(err) || err.code !== "EEXIST") throw err
+      if (errnoCodeOf(err) !== "EEXIST") throw err
     }
     let raw = ""
     try {
