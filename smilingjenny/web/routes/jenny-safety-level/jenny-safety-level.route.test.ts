@@ -4,6 +4,7 @@ import {
   RELAY_PATH,
   relayReading,
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+import { carryTo } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
 import { action } from "akasha/smilingjenny/web/routes/jenny-readout-relay/jenny-readout-relay.route.code.ts"
 import { loader } from "akasha/smilingjenny/web/routes/jenny-safety-level/jenny-safety-level.route.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
@@ -87,13 +88,6 @@ const tile = (credential: string | null = RING_CREDENTIAL) =>
     headers: credential === null ? {} : { "X-Ring-Credential": credential },
   })
 
-const carry = (secret: string, body: unknown) =>
-  fetch(`${origin}${RELAY_PATH}`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json", "X-Relay-Secret": secret },
-    body: JSON.stringify(body),
-  })
-
 const carryNow = (value: number, at: Date = new Date()) =>
   relayReading(origin, RELAY_SECRET, { readout: READOUT, value, at: at.toISOString() })
 
@@ -117,13 +111,15 @@ test("a carrier holding no relay secret is refused", async () => {
     body: "{}",
   })
   expect(bare.status).toBe(401)
-  expect((await carry(crypto.randomUUID(), {})).status).toBe(401)
+  expect((await carryTo(origin, crypto.randomUUID(), {})).status).toBe(401)
 })
 
 test("a body that is not a whole reading is refused rather than held", async () => {
-  expect((await carry(RELAY_SECRET, { nope: 1 })).status).toBe(400)
-  expect((await carry(RELAY_SECRET, { readout: READOUT, value: 3 })).status).toBe(400)
-  expect((await carry(RELAY_SECRET, { readout: READOUT, value: 3, at: "soon" })).status).toBe(400)
+  expect((await carryTo(origin, RELAY_SECRET, { nope: 1 })).status).toBe(400)
+  expect((await carryTo(origin, RELAY_SECRET, { readout: READOUT, value: 3 })).status).toBe(400)
+  expect(
+    (await carryTo(origin, RELAY_SECRET, { readout: READOUT, value: 3, at: "soon" })).status
+  ).toBe(400)
 })
 
 test("nothing carried in shows an empty ring rather than a level of zero", async () => {

@@ -8,6 +8,7 @@ import {
   RELAY_PATH,
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
 import {
+  carryTo,
   type Relaying,
   relayingTo,
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
@@ -96,13 +97,6 @@ const askedWith = (credential: string | null) =>
     headers: credential === null ? {} : { "X-Ring-Credential": credential },
   })
 
-const carry = (secret: string, body: unknown) =>
-  fetch(`${origin}${RELAY_PATH}`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json", "X-Relay-Secret": secret },
-    body: JSON.stringify(body),
-  })
-
 const carryNow = (value: number, at: Date = new Date()) => carried(READOUT, value, at)
 
 const drawn = () => tile.drawn()
@@ -120,13 +114,15 @@ test("a carrier holding no relay secret is refused", async () => {
     body: "{}",
   })
   expect(bare.status).toBe(401)
-  expect((await carry(crypto.randomUUID(), {})).status).toBe(401)
+  expect((await carryTo(origin, crypto.randomUUID(), {})).status).toBe(401)
 })
 
 test("a body that is not a whole reading is refused rather than held", async () => {
-  expect((await carry(RELAY_SECRET, { nope: 1 })).status).toBe(400)
-  expect((await carry(RELAY_SECRET, { readout: READOUT, value: 1 })).status).toBe(400)
-  expect((await carry(RELAY_SECRET, { readout: READOUT, value: 1, at: "soon" })).status).toBe(400)
+  expect((await carryTo(origin, RELAY_SECRET, { nope: 1 })).status).toBe(400)
+  expect((await carryTo(origin, RELAY_SECRET, { readout: READOUT, value: 1 })).status).toBe(400)
+  expect(
+    (await carryTo(origin, RELAY_SECRET, { readout: READOUT, value: 1, at: "soon" })).status
+  ).toBe(400)
 })
 
 test("nothing carried in shows an empty ring rather than a surplus of zero", async () => {
