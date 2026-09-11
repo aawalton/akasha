@@ -35,6 +35,10 @@ export const aelwynStrengthTraining = {
     {
       statement: "A movement Alan may not perform is gone before any movement is ranked.",
     },
+    {
+      statement:
+        "Every constraint keeping a movement out names when that constraint is tested again.",
+    },
   ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
