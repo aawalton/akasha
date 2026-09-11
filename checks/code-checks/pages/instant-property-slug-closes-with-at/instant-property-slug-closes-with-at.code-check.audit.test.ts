@@ -1,10 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
+import { instantPropertySlugClosesWithAt } from "akasha/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.audit.code.ts"
+import {
+  founded,
+  put,
+  treed,
+  typed,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { founded, put, treed, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { instantPropertySlugClosesWithAt } from "./instant-property-slug-closes-with-at.code-check.audit.code.ts"
 
 const INSTANT = "instant-property"
 

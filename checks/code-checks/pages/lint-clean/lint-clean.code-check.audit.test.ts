@@ -1,13 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
-import { tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { lintClean } from "./lint-clean.code-check.audit.code.ts"
+import { lintClean } from "akasha/checks/code-checks/pages/lint-clean/lint-clean.code-check.audit.code.ts"
 import {
   CLEAN,
   RULE,
   repo,
   scratch,
   UNUSED,
-} from "./lint-clean.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/lint-clean/lint-clean.code-check.decision.test-fixtures.ts"
+import { tracked } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 
 afterAll(scratch.sweep)
 

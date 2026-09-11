@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { nameFormatJudgesByOneShape } from "./name-format-judges-by-one-shape.code-check.audit.code.ts"
+import { nameFormatJudgesByOneShape } from "akasha/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.audit.code.ts"
 import {
   AT,
   IMPORTING,
   scratch,
   tracked,
-} from "./name-format-judges-by-one-shape.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

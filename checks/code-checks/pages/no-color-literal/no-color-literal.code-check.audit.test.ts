@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { noColorLiteral } from "./no-color-literal.code-check.audit.code.ts"
+import { noColorLiteral } from "akasha/checks/code-checks/pages/no-color-literal/no-color-literal.code-check.audit.code.ts"
 import {
   CODED_AT,
   PALETTE_AT,
   scratch,
   tracked,
-} from "./no-color-literal.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-color-literal/no-color-literal.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,10 +1,10 @@
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { valueAlsoFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import {
+  judgedIn,
+  refusalsOver,
+  underEach,
+} from "akasha/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.decision.code.ts"
+import { carriedBy } from "akasha/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.decision.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
   declaring,
   filing,
@@ -13,13 +13,13 @@ import {
   pathFor,
   put,
   typed,
-} from "../../../modules/scratch/check-scratch.module.code.ts"
-import { carriedBy } from "../relation-resolves/relation-resolves.code-check.decision.code.ts"
-import {
-  judgedIn,
-  refusalsOver,
-  underEach,
-} from "./key-names-one-property.code-check.decision.code.ts"
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { valueAlsoFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 
 export const PAGE_TYPE = "page-type"
 

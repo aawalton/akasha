@@ -1,6 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { listedTakenFrom } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { landing, shadowed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   declaresIn,
   introducedIn,
@@ -8,7 +6,7 @@ import {
   partedIn,
   sourceOf,
   typeNamedIn,
-} from "./introduced-property-is-a-part.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.decision.code.ts"
 import {
   bytesOf,
   judgedBy,
@@ -19,7 +17,9 @@ import {
   scratch,
   TEXT,
   typed,
-} from "./introduced-property-is-a-part.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.decision.test-fixtures.ts"
+import { landing, shadowed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { listedTakenFrom } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

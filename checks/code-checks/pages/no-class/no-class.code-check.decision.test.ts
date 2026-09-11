@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { classesIn } from "./no-class.code-check.decision.code.ts"
+import { classesIn } from "akasha/checks/code-checks/pages/no-class/no-class.code-check.decision.code.ts"
 import {
   AT,
   DERIVED,
@@ -7,7 +7,7 @@ import {
   LIBRARY,
   ROOT,
   reasonsIn,
-} from "./no-class.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-class/no-class.code-check.decision.test-fixtures.ts"
 
 const TSX = "akasha/held.tsx"
 

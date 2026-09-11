@@ -1,14 +1,14 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
 import {
   found,
   marked,
   splitAt,
   statementsIn,
-} from "./invariant-statement-is-plain.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.decision.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const AT = "akasha/held.check.ts"
 

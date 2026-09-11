@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import {
   found as finding,
   judgedAt as judging,
-} from "./no-color-literal.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/no-color-literal/no-color-literal.code-check.decision.code.ts"
 import {
   coded,
   dressed,
@@ -14,7 +14,7 @@ import {
   reasonsIn,
   rooted,
   scratch,
-} from "./no-color-literal.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-color-literal/no-color-literal.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

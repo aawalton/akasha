@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import { introducedPropertyIsAPart } from "./introduced-property-is-a-part.code-check.audit.code.ts"
+import { introducedPropertyIsAPart } from "akasha/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.audit.code.ts"
 import {
   pathFor,
   rooted,
   scratch,
   TEXT,
   typed,
-} from "./introduced-property-is-a-part.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.decision.test-fixtures.ts"
 
 const UNDER = "akasha-introduced-audit-"
 

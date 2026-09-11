@@ -1,13 +1,17 @@
 import { afterAll, expect, test } from "bun:test"
-import { landing, NO_BYTES, shadowed } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { introducedPropertyIsAPart } from "./introduced-property-is-a-part.code-check.check.code.ts"
+import { introducedPropertyIsAPart } from "akasha/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.check.code.ts"
 import {
   bytesOf,
   pathFor,
   rooted,
   scratch,
   typed,
-} from "./introduced-property-is-a-part.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.decision.test-fixtures.ts"
+import {
+  landing,
+  NO_BYTES,
+  shadowed,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 
 afterAll(scratch.sweep)
 

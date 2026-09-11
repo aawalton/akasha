@@ -1,12 +1,15 @@
-import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
-import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
+import {
+  found,
+  marked,
+} from "akasha/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.decision.code.ts"
+import type { Body } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import {
   judgingEachAsync,
   overEachText,
   overEachTextAsync,
   TEXTS,
-} from "../../../modules/change-walking/change-walking.module.code.ts"
-import { found, marked } from "./invariant-statement-is-plain.code-check.decision.code.ts"
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 
 export const reasonsIn = overEachText(marked)
 

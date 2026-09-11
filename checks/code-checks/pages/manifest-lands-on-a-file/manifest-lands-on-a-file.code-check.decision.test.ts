@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import type { Asking } from "./manifest-lands-on-a-file.code-check.decision.code.ts"
-import { missingIn, refusalsOver } from "./manifest-lands-on-a-file.code-check.decision.code.ts"
+import type { Asking } from "akasha/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.decision.code.ts"
+import {
+  missingIn,
+  refusalsOver,
+} from "akasha/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.decision.code.ts"
 import {
   AT,
   EXPORTS,
@@ -8,7 +11,7 @@ import {
   MANIFEST_AT,
   manifest,
   OTHER,
-} from "./manifest-lands-on-a-file.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.decision.test-fixtures.ts"
 
 const BOTH = { "./one": "./one/one.module.code.ts", "./two": "./two/two.module.code.ts" }
 

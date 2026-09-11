@@ -1,11 +1,11 @@
+import type { Carried } from "akasha/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.decision.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   type Carried as Declared,
   identityOf,
 } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import type { Carried } from "../relation-resolves/relation-resolves.code-check.decision.code.ts"
 
 const PAGE_TYPE = "page-type"
 

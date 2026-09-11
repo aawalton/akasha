@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { reasonsAt } from "./instant-property-slug-closes-with-at.code-check.decision.code.ts"
+import { reasonsAt } from "akasha/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.decision.code.ts"
 
 const AT = "akasha/created-at.instant-property.ts"
 

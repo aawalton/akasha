@@ -1,13 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import {
-  declaring,
-  edging,
-  landing,
-  pathFor,
-  typed,
-} from "../../../modules/scratch/check-scratch.module.code.ts"
-import { looseningIn } from "./key-names-one-property.code-check.decision.code.ts"
+import { looseningIn } from "akasha/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.decision.code.ts"
 import {
   holding,
   judgedBy,
@@ -24,7 +16,15 @@ import {
   THREE,
   TWO,
   typing,
-} from "./key-names-one-property.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.decision.test-fixtures.ts"
+import {
+  declaring,
+  edging,
+  landing,
+  pathFor,
+  typed,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

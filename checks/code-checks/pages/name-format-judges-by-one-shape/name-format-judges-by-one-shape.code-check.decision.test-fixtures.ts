@@ -1,4 +1,14 @@
 import {
+  type Handed,
+  handedIn,
+  reasonsIn,
+  refusalsOver,
+} from "akasha/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.decision.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { change } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import {
   idFiled,
   listedFiled,
   pathFiled,
@@ -6,16 +16,6 @@ import {
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import {
-  type Handed,
-  handedIn,
-  reasonsIn,
-  refusalsOver,
-} from "./name-format-judges-by-one-shape.code-check.decision.code.ts"
 
 export const AT = "akasha/f/lower-kebab-case.name-format.code.ts"
 

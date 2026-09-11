@@ -1,9 +1,12 @@
 import { expect, test } from "bun:test"
+import {
+  reasonsIn,
+  reasonsShaped,
+} from "akasha/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.check.code.ts"
+import { paged } from "akasha/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.decision.test-fixtures.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bodiesAt } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
-import { reasonsIn, reasonsShaped } from "./invariant-statement-is-plain.code-check.check.code.ts"
-import { paged } from "./invariant-statement-is-plain.code-check.decision.test-fixtures.ts"
 
 const ROOT = "/repo"
 

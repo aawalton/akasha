@@ -1,9 +1,3 @@
-import { lintedOver } from "akasha/code-system/code-lint/code-lint.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { mirroredOf } from "../../../modules/change-mirror/change-mirror.module.code.ts"
-import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { FILES, input } from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   CONFIG,
   carriedIn,
@@ -11,7 +5,16 @@ import {
   judgedOf,
   readsIn,
   skippedIn,
-} from "./lint-clean.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/lint-clean/lint-clean.code-check.decision.code.ts"
+import { mirroredOf } from "akasha/checks/modules/change-mirror/change-mirror.module.code.ts"
+import type {
+  Body,
+  Selector,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import { FILES, input } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { lintedOver } from "akasha/code-system/code-lint/code-lint.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 
 const IGNORE = ".gitignore"
 

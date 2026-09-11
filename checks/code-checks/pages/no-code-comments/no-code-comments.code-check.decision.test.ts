@@ -3,8 +3,13 @@ import {
   commentsIn,
   reasonsIn,
   styleCommentsIn,
-} from "./no-code-comments.code-check.decision.code.ts"
-import { AT, dressed, given, ROOT } from "./no-code-comments.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.decision.code.ts"
+import {
+  AT,
+  dressed,
+  given,
+  ROOT,
+} from "akasha/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.decision.test-fixtures.ts"
 
 test("a file carrying no comment is let through", () => {
   expect(reasonsIn(given('export const one = "held"\n'))).toEqual([])

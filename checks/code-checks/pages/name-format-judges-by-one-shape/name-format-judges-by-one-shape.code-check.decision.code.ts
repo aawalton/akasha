@@ -1,3 +1,5 @@
+import { textIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import { landingOf } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
@@ -6,8 +8,6 @@ import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module
 import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import ts from "typescript"
-import { textIn } from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 const NAME_FORMAT = "name-format"
 

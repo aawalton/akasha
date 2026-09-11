@@ -1,5 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { askingAt, manifestLandsOnAFile } from "./manifest-lands-on-a-file.code-check.audit.code.ts"
+import {
+  askingAt,
+  manifestLandsOnAFile,
+} from "akasha/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.audit.code.ts"
 import {
   AT,
   EXPORTS,
@@ -9,7 +12,7 @@ import {
   rooted,
   scratch,
   wrote,
-} from "./manifest-lands-on-a-file.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.decision.test-fixtures.ts"
 
 const UNDER = "akasha-manifest-audit-"
 

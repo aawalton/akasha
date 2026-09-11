@@ -1,6 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { declaring, pathFor, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { keyNamesOneProperty } from "./key-names-one-property.code-check.audit.code.ts"
+import { keyNamesOneProperty } from "akasha/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.audit.code.ts"
 import {
   NUMBER,
   ONE,
@@ -9,7 +8,12 @@ import {
   rooted,
   scratch,
   TEXT,
-} from "./key-names-one-property.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.decision.test-fixtures.ts"
+import {
+  declaring,
+  pathFor,
+  typed,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 
 const UNDER = "akasha-keyed-audit-"
 

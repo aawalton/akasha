@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { noCodeComments } from "./no-code-comments.code-check.audit.code.ts"
+import { noCodeComments } from "akasha/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.audit.code.ts"
 import {
   AT,
   STYLE_AT,
   scratch,
   tracked,
-} from "./no-code-comments.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

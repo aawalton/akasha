@@ -1,9 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { declaring, landing, pathFor } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { keyNamesOneProperty } from "./key-names-one-property.code-check.check.code.ts"
+import { keyNamesOneProperty } from "akasha/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.check.code.ts"
 import {
   NUMBER,
   ONE,
@@ -13,7 +9,15 @@ import {
   TEXT,
   TWO,
   typing,
-} from "./key-names-one-property.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.decision.test-fixtures.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import {
+  declaring,
+  landing,
+  pathFor,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

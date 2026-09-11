@@ -1,9 +1,9 @@
-import { lineAt, parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import ts from "typescript"
 import {
   overEachBody,
   styleNamed,
-} from "../../../modules/change-walking/change-walking.module.code.ts"
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import { lineAt, parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import ts from "typescript"
 
 export type Found = {
   readonly line: number

@@ -1,3 +1,5 @@
+import type { Carried } from "akasha/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.decision.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import { partedIn as nameParted } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { namesIn } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
@@ -14,8 +16,6 @@ import {
   textAt,
   type Value,
 } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import type { Carried } from "../relation-resolves/relation-resolves.code-check.decision.code.ts"
 
 export const PAGE_TYPE = "page-type"
 

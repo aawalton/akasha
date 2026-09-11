@@ -1,6 +1,20 @@
 import { builtinModules } from "node:module"
 import { dirname, join } from "node:path"
 import {
+  type Manifest,
+  manifestNamed,
+  manifestsIn,
+  packagePagesIn,
+} from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
+import {
+  bodyNamed,
+  everyFileOf,
+  styleNamed,
+  textIn,
+  textNamed,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import {
   landingOf,
   specifiersIn,
 } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
@@ -11,20 +25,6 @@ import {
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { textsAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import {
-  bodyNamed,
-  everyFileOf,
-  styleNamed,
-  textIn,
-  textNamed,
-} from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import {
-  type Manifest,
-  manifestNamed,
-  manifestsIn,
-  packagePagesIn,
-} from "../package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
 
 const AT = "@"
 

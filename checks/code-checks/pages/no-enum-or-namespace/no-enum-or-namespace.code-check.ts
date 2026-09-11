@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const noEnumOrNamespace = {
   id: "01a04bc8-6c55-748f-89e3-72c3b8da2444",

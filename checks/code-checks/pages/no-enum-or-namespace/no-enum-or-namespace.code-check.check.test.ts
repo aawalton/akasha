@@ -1,9 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
+import { noEnumOrNamespace } from "akasha/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.check.code.ts"
+import {
+  AT,
+  rooted,
+  scratch,
+} from "akasha/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.decision.test-fixtures.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { change } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { noEnumOrNamespace } from "./no-enum-or-namespace.code-check.check.code.ts"
-import { AT, rooted, scratch } from "./no-enum-or-namespace.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

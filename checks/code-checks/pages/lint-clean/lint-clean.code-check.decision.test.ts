@@ -1,5 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { change, gone } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   carriedIn,
   judgedOf,
@@ -7,7 +6,7 @@ import {
   outsideOf,
   readsIn,
   reasonOf,
-} from "./lint-clean.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/lint-clean/lint-clean.code-check.decision.code.ts"
 import {
   CLEAN,
   READS,
@@ -16,7 +15,8 @@ import {
   STYLED,
   said,
   scratch,
-} from "./lint-clean.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/lint-clean/lint-clean.code-check.decision.test-fixtures.ts"
+import { change, gone } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 
 afterAll(scratch.sweep)
 

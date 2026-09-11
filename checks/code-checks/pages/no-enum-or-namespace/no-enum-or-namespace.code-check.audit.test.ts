@@ -1,6 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { noEnumOrNamespace } from "./no-enum-or-namespace.code-check.audit.code.ts"
-import { AT, scratch, tracked } from "./no-enum-or-namespace.code-check.decision.test-fixtures.ts"
+import { noEnumOrNamespace } from "akasha/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.audit.code.ts"
+import {
+  AT,
+  scratch,
+  tracked,
+} from "akasha/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

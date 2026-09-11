@@ -1,15 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { noColorLiteral } from "./no-color-literal.code-check.check.code.ts"
+import { noColorLiteral } from "akasha/checks/code-checks/pages/no-color-literal/no-color-literal.code-check.check.code.ts"
 import {
   CODED_AT,
   DRESSED_AT,
   PAGE_AT,
   rooted,
   scratch,
-} from "./no-color-literal.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-color-literal/no-color-literal.code-check.decision.test-fixtures.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { change } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

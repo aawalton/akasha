@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const invariantStatementIsPlain = {
   id: "01a05407-306d-7b50-85c4-bf43575aa786",

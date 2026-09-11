@@ -8,7 +8,7 @@ import {
   rooted,
   SLUG,
   scratch,
-} from "./name-format-judges-by-one-shape.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

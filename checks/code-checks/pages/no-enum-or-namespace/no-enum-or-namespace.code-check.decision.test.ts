@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
-import { reasonsIn } from "./no-enum-or-namespace.code-check.decision.code.ts"
-import { AT, given, ROOT } from "./no-enum-or-namespace.code-check.decision.test-fixtures.ts"
+import { reasonsIn } from "akasha/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.decision.code.ts"
+import {
+  AT,
+  given,
+  ROOT,
+} from "akasha/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.decision.test-fixtures.ts"
 
 test("a file declaring neither an enum nor a namespace is let through", () => {
   const body = 'export type Needs = "path" | "file"\n'

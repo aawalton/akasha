@@ -1,18 +1,18 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { change, proposing } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { lintClean } from "./lint-clean.code-check.check.code.ts"
+import { lintClean } from "akasha/checks/code-checks/pages/lint-clean/lint-clean.code-check.check.code.ts"
 import {
   CLEAN,
   RULE,
   repo,
   scratch,
   UNUSED,
-} from "./lint-clean.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/lint-clean/lint-clean.code-check.decision.test-fixtures.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { change, proposing } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

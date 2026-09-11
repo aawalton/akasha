@@ -1,17 +1,21 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
+  declaringIn,
+  type Named,
+  type Reach,
+} from "akasha/checks/code-checks/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.code-check.decision.code.ts"
+import {
+  declaring,
+  founded,
+  typed,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import {
   listingFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { declaring, founded, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
-import {
-  declaringIn,
-  type Named,
-  type Reach,
-} from "./manifest-names-what-is-reached.code-check.decision.code.ts"
 
 export const PACKAGE = "workspace-package"
 

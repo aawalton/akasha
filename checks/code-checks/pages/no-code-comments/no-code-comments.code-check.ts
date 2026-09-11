@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const noCodeComments = {
   id: "01a04bc8-6c45-741c-8dfd-0665538af7c4",

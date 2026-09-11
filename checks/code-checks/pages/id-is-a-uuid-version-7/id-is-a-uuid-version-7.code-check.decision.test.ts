@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { foundIn, statedIn } from "./id-is-a-uuid-version-7.code-check.decision.code.ts"
+import {
+  foundIn,
+  statedIn,
+} from "akasha/checks/code-checks/pages/id-is-a-uuid-version-7/id-is-a-uuid-version-7.code-check.decision.code.ts"
 
 const AT = "akasha/held.check.ts"
 

@@ -1,8 +1,12 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import {
+  declaring,
+  founded,
+  typed,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { declaring, founded, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
 
 export const PACKAGE = "workspace-package"
 

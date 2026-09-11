@@ -1,19 +1,19 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import {
+  everyType,
+  refusalsOver,
+  sourceOf,
+} from "akasha/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.decision.code.ts"
+import { carriedBy } from "akasha/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.decision.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { declaring, shadowed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { declaring, shadowed } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { carriedBy } from "../relation-resolves/relation-resolves.code-check.decision.code.ts"
-import {
-  everyType,
-  refusalsOver,
-  sourceOf,
-} from "./introduced-property-is-a-part.code-check.decision.code.ts"
 
 export const TEXT = "text-property"
 

@@ -1,9 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { manifestLandsOnAFile } from "./manifest-lands-on-a-file.code-check.check.code.ts"
+import { manifestLandsOnAFile } from "akasha/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.check.code.ts"
 import {
   AT,
   EXPORTS,
@@ -13,7 +9,11 @@ import {
   rooted,
   scratch,
   wrote,
-} from "./manifest-lands-on-a-file.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.decision.test-fixtures.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { change } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

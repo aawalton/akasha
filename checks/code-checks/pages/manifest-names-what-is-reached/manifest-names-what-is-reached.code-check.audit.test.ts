@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { manifestNamesWhatIsReached } from "./manifest-names-what-is-reached.code-check.audit.code.ts"
+import { manifestNamesWhatIsReached } from "akasha/checks/code-checks/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.code-check.audit.code.ts"
 import {
   AT,
   HELD,
@@ -7,7 +7,7 @@ import {
   manifest,
   scratch,
   tracked,
-} from "./manifest-names-what-is-reached.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.code-check.decision.test-fixtures.ts"
 
 const REACHES = 'import held from "zod"\n'
 

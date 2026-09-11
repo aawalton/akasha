@@ -1,7 +1,7 @@
 import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
 export const READS: readonly string[] = [".ts", ".tsx", ".css"]
 
