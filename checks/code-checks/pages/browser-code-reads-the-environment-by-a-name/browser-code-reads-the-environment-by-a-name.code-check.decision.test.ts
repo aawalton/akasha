@@ -137,6 +137,12 @@ test("a module outside every app folder is clean where it reads a name", () => {
   expect(refusalsOver([HELPER], asking({ [TABLE]: TABLE_TEXT, [HELPER]: WRITTEN }))).toEqual([])
 })
 
+test("a module reaching one that reads a name in full is clean", () => {
+  expect(
+    refusalsOver([PANEL], asking({ [TABLE]: TABLE_TEXT, [HELPER]: WRITTEN, [PANEL]: REACHES }))
+  ).toEqual([])
+})
+
 test("the root route is judged", () => {
   expect(over(ROOTED, KEYED)).toHaveLength(1)
 })
