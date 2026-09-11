@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const byuVocalPointNearerMyGodToTheeArrJamesLStevens = {
   id: "01a0676a-d725-7042-ba62-39dc77523399",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const taylorSwift2FearlessTaylorSVersion = {
   id: "01a0676a-d71d-706c-b5f2-5cdc19d23870",

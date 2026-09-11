@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.types.ts"
+import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
 
 export const taylorSwiftIWishYouWould = {
   id: "019ea416-2052-7448-88b1-4361f2076ac7",

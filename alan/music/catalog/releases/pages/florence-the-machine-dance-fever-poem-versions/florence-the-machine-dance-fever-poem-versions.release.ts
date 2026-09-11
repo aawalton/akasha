@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const florenceTheMachineDanceFeverPoemVersions = {
   id: "01a0676a-d71b-7058-9842-b9436e8e7e16",

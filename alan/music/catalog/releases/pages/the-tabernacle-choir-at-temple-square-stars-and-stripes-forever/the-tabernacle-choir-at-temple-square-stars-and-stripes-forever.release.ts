@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const theTabernacleChoirAtTempleSquareStarsAndStripesForever = {
   id: "01a0676a-d72a-7014-8dc4-c22399150e9a",

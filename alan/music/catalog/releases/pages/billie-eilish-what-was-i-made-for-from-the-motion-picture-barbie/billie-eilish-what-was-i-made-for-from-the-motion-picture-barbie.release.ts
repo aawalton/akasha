@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const billieEilishWhatWasIMadeForFromTheMotionPictureBarbie = {
   id: "01a0676a-d730-704c-a08d-ec15452dcaf6",

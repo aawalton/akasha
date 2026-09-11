@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const lilithMaxStrangerSEyes = {
   id: "01a0676a-d72a-702b-bf57-6d9d2f925184",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const justinTimberlakeThe2020ExperienceDeluxeVersion = {
   id: "01a0676a-d72c-7022-990f-21a5b0df1e04",

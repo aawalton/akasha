@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.types.ts"
+import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
 
 export const emBeiholdVanGogh = {
   id: "019ea4df-78f1-7bc4-a7d2-81bc4ccf3ce8",

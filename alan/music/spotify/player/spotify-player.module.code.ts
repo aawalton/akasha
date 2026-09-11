@@ -1,9 +1,9 @@
-import { z } from "zod"
 import {
   cursorPageSchema,
   spotifyGet,
   spotifyRequest,
-} from "../client/spotify-client.module.code.ts"
+} from "akasha/alan/music/spotify/client/spotify-client.module.code.ts"
+import { z } from "zod"
 
 const emptyBodySchema = z.null()
 

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const kellyClarksonStrongerWhatDoesnTKillYouTheRemixes = {
   id: "01a0676a-d72a-7033-add6-ccc6f7ff5949",

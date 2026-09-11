@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const justinTimberlakeTkoRadioEdit = {
   id: "01a0676a-d72f-7000-83db-b27bd05eb8c9",

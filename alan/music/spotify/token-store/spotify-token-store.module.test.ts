@@ -1,7 +1,6 @@
 import { afterAll, afterEach, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   getTokenFilePath,
   readToken,
@@ -9,7 +8,8 @@ import {
   type SpotifyToken,
   SpotifyTokenSchema,
   writeToken,
-} from "./spotify-token-store.module.code.ts"
+} from "akasha/alan/music/spotify/token-store/spotify-token-store.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
 const TOKEN: SpotifyToken = {
   accessToken: "an-access-token",

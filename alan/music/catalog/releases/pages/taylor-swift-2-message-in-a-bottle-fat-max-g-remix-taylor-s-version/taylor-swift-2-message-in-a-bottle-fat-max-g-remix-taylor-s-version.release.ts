@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const taylorSwift2MessageInABottleFatMaxGRemixTaylorSVersion = {
   id: "01a0676a-d724-7051-bfec-f462f3bd82b5",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const epicTheMusicalEpicTheCirceSagaOfficialConceptAlbum = {
   id: "01a0676a-d71d-7018-a962-aef6dd41aa45",

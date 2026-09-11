@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const linkinParkFriendlyFire = {
   id: "01a0676a-d71e-7036-8c68-a096b06963a0",

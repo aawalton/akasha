@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const ellaHendersonAlibiFeatRudimentalJoelCorryExtendedRemix = {
   id: "01a0676a-d716-7008-b6e4-abafb5187590",

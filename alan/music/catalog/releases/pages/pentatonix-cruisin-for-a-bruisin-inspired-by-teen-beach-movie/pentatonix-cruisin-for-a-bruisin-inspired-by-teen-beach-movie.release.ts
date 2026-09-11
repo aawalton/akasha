@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const pentatonixCruisinForABruisinInspiredByTeenBeachMovie = {
   id: "01a0676a-d71b-7041-a3e7-1d7bfc81fbc6",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const pentatonixPtxVol1 = {
   id: "01a0676a-d727-702d-9b1c-6e83c58f90e8",

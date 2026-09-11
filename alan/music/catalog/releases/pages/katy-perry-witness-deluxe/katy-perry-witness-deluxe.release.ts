@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const katyPerryWitnessDeluxe = {
   id: "01a0676a-d731-7030-aab7-f97122d8cf28",

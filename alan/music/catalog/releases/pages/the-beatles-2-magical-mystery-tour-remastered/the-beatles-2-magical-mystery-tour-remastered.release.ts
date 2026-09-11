@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const theBeatles2MagicalMysteryTourRemastered = {
   id: "01a0676a-d724-7028-a4f4-36affbe98ab6",

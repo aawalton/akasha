@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const celticWoman2EmeraldMusicalGems = {
   id: "01a0676a-d71d-700b-9146-fcf411c45f14",

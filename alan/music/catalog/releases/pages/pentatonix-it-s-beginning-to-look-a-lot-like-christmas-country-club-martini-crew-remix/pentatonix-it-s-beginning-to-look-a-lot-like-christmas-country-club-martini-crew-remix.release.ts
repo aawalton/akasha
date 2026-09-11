@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const pentatonixItSBeginningToLookALotLikeChristmasCountryClubMartiniCrewRemix = {
   id: "01a0676a-d722-700c-b6a6-9d9497608e5d",

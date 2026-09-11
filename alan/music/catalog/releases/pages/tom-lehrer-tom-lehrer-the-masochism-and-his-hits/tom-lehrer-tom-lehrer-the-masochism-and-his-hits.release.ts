@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const tomLehrerTomLehrerTheMasochismAndHisHits = {
   id: "01a0676a-d72f-700f-bca8-3921ed96964c",

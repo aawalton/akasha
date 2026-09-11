@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const leonardCohenTheEssentialLeonardCohen = {
   id: "01a0676a-d72d-7009-8500-ef8a4b55eb8b",

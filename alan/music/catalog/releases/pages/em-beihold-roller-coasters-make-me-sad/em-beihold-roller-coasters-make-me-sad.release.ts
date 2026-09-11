@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const emBeiholdRollerCoastersMakeMeSad = {
   id: "01a0676a-d728-701a-a0c5-d1a413f247db",

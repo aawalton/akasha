@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const sabrinaCarpenterNonsenseSpedUpVersion = {
   id: "01a0676a-d725-7076-ad2c-2f64ab2b2580",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const coldplayHigherPowerTiestoRemix = {
   id: "01a0676a-d720-703e-acfd-785bfa10c205",

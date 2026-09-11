@@ -1,5 +1,9 @@
 import { afterEach, expect, test } from "bun:test"
-import { fetchingIs, fetchingIsOverHttp, fetchSpotify } from "./spotify-fetching.module.code.ts"
+import {
+  fetchingIs,
+  fetchingIsOverHttp,
+  fetchSpotify,
+} from "akasha/alan/music/spotify/fetching/spotify-fetching.module.code.ts"
 
 afterEach(() => {
   fetchingIsOverHttp()

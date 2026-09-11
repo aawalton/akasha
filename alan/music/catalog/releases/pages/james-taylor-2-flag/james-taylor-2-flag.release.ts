@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const jamesTaylor2Flag = {
   id: "01a0676a-d71e-700a-862e-2fe1a9c9d79f",

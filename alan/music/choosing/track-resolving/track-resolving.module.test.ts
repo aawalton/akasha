@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { parseTrackId, trackToResolved } from "./track-resolving.module.code.ts"
+import {
+  parseTrackId,
+  trackToResolved,
+} from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
 
 describe("parseTrackId", () => {
   test("reads the id out of a track uri", () => {

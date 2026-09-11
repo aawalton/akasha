@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.types.ts"
+import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
 
 export const zaraLarssonLightACandle = {
   id: "019ea4a0-789d-76d0-b90c-62cfbb35959f",

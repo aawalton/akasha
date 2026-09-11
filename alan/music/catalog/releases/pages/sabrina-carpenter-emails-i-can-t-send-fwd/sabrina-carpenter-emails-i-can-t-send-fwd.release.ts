@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const sabrinaCarpenterEmailsICanTSendFwd = {
   id: "01a0676a-d71d-700a-82c6-22cb7a1ed89c",

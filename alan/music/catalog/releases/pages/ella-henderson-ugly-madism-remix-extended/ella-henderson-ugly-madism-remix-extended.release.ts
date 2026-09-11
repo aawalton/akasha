@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const ellaHendersonUglyMadismRemixExtended = {
   id: "01a0676a-d72f-702c-83c3-5626afb4e9c7",

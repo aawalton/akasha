@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const katyPerrySmallTalkLostKingsRemix = {
   id: "01a0676a-d729-7027-be7b-6498dedff207",

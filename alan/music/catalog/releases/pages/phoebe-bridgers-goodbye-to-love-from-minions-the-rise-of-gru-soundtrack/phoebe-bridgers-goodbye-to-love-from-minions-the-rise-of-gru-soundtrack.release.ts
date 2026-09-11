@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const phoebeBridgersGoodbyeToLoveFromMinionsTheRiseOfGruSoundtrack = {
   id: "01a0676a-d71f-7020-b1e6-4d800b438fce",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const lindseyStirling2BestOfChristmasClassics = {
   id: "01a0676a-d718-7046-ab0e-fb8e24260203",

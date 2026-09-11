@@ -1,9 +1,15 @@
 import { afterAll, afterEach, beforeEach, expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { fetchingIs, fetchingIsOverHttp } from "../fetching/spotify-fetching.module.code.ts"
-import { writeToken } from "../token-store/spotify-token-store.module.code.ts"
-import { buildSearchPath, searchPaginate } from "./spotify-search.module.code.ts"
+import {
+  fetchingIs,
+  fetchingIsOverHttp,
+} from "akasha/alan/music/spotify/fetching/spotify-fetching.module.code.ts"
+import {
+  buildSearchPath,
+  searchPaginate,
+} from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
+import { writeToken } from "akasha/alan/music/spotify/token-store/spotify-token-store.module.code.ts"
 
 const ROOT = mkdtempSync("/var/tmp/spotify-search-")
 

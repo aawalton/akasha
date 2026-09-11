@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const vinnyMarchiPoserRemastered = {
   id: "01a0676a-d727-700a-a528-1238f81be268",

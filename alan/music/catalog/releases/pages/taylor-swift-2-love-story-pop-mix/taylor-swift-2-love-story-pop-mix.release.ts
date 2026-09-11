@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const taylorSwift2LoveStoryPopMix = {
   id: "01a0676a-d724-7001-921c-6207b45be06c",

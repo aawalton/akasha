@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.types.ts"
+import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
 
 export const taylorSwiftThisIsWhyWeCanTHaveNiceThings = {
   id: "019ea416-45f4-7c7d-8f6f-aed1b20f2e1d",

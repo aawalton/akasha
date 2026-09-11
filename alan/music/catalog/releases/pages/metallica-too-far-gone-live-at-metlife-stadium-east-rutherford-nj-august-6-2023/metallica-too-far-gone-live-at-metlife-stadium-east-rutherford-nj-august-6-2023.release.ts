@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const metallicaTooFarGoneLiveAtMetlifeStadiumEastRutherfordNjAugust62023 = {
   id: "01a0676a-d72f-7012-9edb-924f7778134c",

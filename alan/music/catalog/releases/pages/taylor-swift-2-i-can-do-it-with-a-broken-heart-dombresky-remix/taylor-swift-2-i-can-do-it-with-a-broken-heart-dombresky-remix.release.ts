@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const taylorSwift2ICanDoItWithABrokenHeartDombreskyRemix = {
   id: "01a0676a-d721-7005-a26a-e402c35b37ed",

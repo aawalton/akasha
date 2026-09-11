@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const alexWarrenBeforeYouLeaveMeTelykastRemix = {
   id: "01a0676a-d718-7037-a7d8-f7e47a415682",

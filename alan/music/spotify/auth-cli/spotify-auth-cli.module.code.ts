@@ -5,11 +5,21 @@ import {
   parseTokenResponse,
   persistTokenResponse,
   TOKEN_URL,
-} from "../auth/spotify-auth.module.code.ts"
-import { basicAuthHeader, getCredentials } from "../credentials/spotify-credentials.module.code.ts"
-import { fetchSpotify } from "../fetching/spotify-fetching.module.code.ts"
-import { readPkce, removePkce, writePkce } from "../pkce-store/spotify-pkce-store.module.code.ts"
-import { SPOTIFY_SCOPE_STRING, SPOTIFY_SCOPES } from "../scopes/spotify-scopes.module.code.ts"
+} from "akasha/alan/music/spotify/auth/spotify-auth.module.code.ts"
+import {
+  basicAuthHeader,
+  getCredentials,
+} from "akasha/alan/music/spotify/credentials/spotify-credentials.module.code.ts"
+import { fetchSpotify } from "akasha/alan/music/spotify/fetching/spotify-fetching.module.code.ts"
+import {
+  readPkce,
+  removePkce,
+  writePkce,
+} from "akasha/alan/music/spotify/pkce-store/spotify-pkce-store.module.code.ts"
+import {
+  SPOTIFY_SCOPE_STRING,
+  SPOTIFY_SCOPES,
+} from "akasha/alan/music/spotify/scopes/spotify-scopes.module.code.ts"
 
 const AUTHORIZE_URL = "https://accounts.spotify.com/authorize"
 

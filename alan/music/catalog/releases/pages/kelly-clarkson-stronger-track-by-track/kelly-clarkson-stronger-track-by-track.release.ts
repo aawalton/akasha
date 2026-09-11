@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const kellyClarksonStrongerTrackByTrack = {
   id: "01a0676a-d72a-7032-81c7-2fc5f05a11c0",

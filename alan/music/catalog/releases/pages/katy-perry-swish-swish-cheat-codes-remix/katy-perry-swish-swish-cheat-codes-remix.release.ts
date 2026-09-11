@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const katyPerrySwishSwishCheatCodesRemix = {
   id: "01a0676a-d72b-7006-ac4d-495a087db50a",

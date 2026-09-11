@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const lilithMaxStorybook = {
   id: "01a0676a-d72a-7027-aa78-adf1321f9b19",

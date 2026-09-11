@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const zaraLarssonABrandNewDayBtsWorldOriginalSoundtrackPt2 = {
   id: "01a0676a-d715-701b-b5e7-167e1c04ed2f",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const theLordOfTheRingsMusicTheHobbitTheBattleOfTheFiveArmies = {
   id: "01a0676a-d72d-7025-98af-9285ee3fb8e3",

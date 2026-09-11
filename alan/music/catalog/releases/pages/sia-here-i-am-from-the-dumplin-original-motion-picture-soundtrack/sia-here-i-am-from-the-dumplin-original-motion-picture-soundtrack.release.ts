@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const siaHereIAmFromTheDumplinOriginalMotionPictureSoundtrack = {
   id: "01a0676a-d720-7030-9a8d-31451240c56a",

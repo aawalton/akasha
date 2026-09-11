@@ -1,11 +1,11 @@
-import { z } from "zod"
-import { basicAuthHeader } from "../credentials/spotify-credentials.module.code.ts"
-import { fetchSpotify } from "../fetching/spotify-fetching.module.code.ts"
+import { basicAuthHeader } from "akasha/alan/music/spotify/credentials/spotify-credentials.module.code.ts"
+import { fetchSpotify } from "akasha/alan/music/spotify/fetching/spotify-fetching.module.code.ts"
 import {
   readToken,
   type SpotifyToken,
   writeToken,
-} from "../token-store/spotify-token-store.module.code.ts"
+} from "akasha/alan/music/spotify/token-store/spotify-token-store.module.code.ts"
+import { z } from "zod"
 
 export const TOKEN_URL = "https://accounts.spotify.com/api/token"
 

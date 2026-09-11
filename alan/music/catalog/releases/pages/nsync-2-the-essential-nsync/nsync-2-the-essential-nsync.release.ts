@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const nsync2TheEssentialNsync = {
   id: "01a0676a-d72d-700c-9118-757bdd2fc2c9",

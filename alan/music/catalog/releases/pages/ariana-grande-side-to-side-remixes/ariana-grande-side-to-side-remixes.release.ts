@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const arianaGrandeSideToSideRemixes = {
   id: "01a0676a-d729-7001-bc2c-b388752da592",

@@ -1,5 +1,8 @@
+import {
+  offsetPageSchema,
+  spotifyGet,
+} from "akasha/alan/music/spotify/client/spotify-client.module.code.ts"
 import { z } from "zod"
-import { offsetPageSchema, spotifyGet } from "../client/spotify-client.module.code.ts"
 
 export const SEARCH_TYPES = [
   "album",

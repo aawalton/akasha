@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const siaColourTheSmallOne = {
   id: "01a0676a-d71b-7012-b66e-b06f047e9e01",

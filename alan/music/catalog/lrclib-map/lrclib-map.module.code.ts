@@ -1,6 +1,6 @@
+import type { LrclibRecord } from "akasha/alan/music/catalog/lrclib-schema/lrclib-schema.module.code.ts"
+import type { LyricsSource } from "akasha/alan/music/catalog/songs/properties/lyrics-source.text-property.types.ts"
 import { compareKey } from "akasha/utils/narrow/compare-key/compare-key.module.code.ts"
-import type { LrclibRecord } from "../lrclib-schema/lrclib-schema.module.code.ts"
-import type { LyricsSource } from "../songs/properties/lyrics-source.text-property.types.ts"
 
 export type SongLyrics = {
   readonly lyricsSource: LyricsSource

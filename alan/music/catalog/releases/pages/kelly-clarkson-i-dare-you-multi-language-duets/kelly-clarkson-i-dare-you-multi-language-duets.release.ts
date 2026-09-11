@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const kellyClarksonIDareYouMultiLanguageDuets = {
   id: "01a0676a-d721-700e-a0e9-35d1f18a7746",

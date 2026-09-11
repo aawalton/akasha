@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const katyPerryOneOfTheBoys15thAnniversaryEdition = {
   id: "01a0676a-d726-7035-8025-d99dec21d9c5",

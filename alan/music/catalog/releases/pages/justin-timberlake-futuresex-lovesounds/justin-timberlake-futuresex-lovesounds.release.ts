@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const justinTimberlakeFuturesexLovesounds = {
   id: "01a0676a-d71e-7049-9dea-2f91b76f568c",

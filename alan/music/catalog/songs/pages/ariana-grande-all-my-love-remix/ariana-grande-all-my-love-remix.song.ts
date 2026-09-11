@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.types.ts"
+import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
 
 export const arianaGrandeAllMyLoveRemix = {
   id: "019ea4e2-17cb-742b-bb82-04a445d15679",

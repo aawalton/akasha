@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const linkinParkHybridTheory20thAnniversaryEdition = {
   id: "01a0676a-d720-707c-93f0-b7487a035eb0",

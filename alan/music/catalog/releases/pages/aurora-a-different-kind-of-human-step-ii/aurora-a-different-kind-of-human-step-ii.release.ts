@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const auroraADifferentKindOfHumanStepIi = {
   id: "01a0676a-d715-7022-86c2-8b774e42d321",

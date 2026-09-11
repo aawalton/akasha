@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.types.ts"
+import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
 
 export const taylorSwiftTheBestDay = {
   id: "019ea416-40e9-7a5b-9a00-31dd37cbf3b3",

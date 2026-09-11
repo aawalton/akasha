@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const siaSolsburyHillHumaneWorldForAnimalsCover = {
   id: "01a0676a-d729-704e-a0c2-665868c23d4f",

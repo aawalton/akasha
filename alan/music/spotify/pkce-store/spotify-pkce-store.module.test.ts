@@ -1,14 +1,14 @@
 import { afterAll, afterEach, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   getPkceFilePath,
   type PkceHandoff,
   readPkce,
   removePkce,
   writePkce,
-} from "./spotify-pkce-store.module.code.ts"
+} from "akasha/alan/music/spotify/pkce-store/spotify-pkce-store.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
 const HANDOFF: PkceHandoff = { verifier: "a-verifier", state: "a-state" }
 

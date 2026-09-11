@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const nickelCreek2Celebrants = {
   id: "01a0676a-d71a-7007-b908-6089a5d340f6",

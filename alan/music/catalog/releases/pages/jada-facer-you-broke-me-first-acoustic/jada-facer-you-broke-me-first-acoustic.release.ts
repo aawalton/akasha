@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const jadaFacerYouBrokeMeFirstAcoustic = {
   id: "01a0676a-d732-7003-a508-b36dd9023556",

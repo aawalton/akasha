@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const linkinParkMinutesToMidnight = {
   id: "01a0676a-d724-706e-b4f7-bf7104b39acd",

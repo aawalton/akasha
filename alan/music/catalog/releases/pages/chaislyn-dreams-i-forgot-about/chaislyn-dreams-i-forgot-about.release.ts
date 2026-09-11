@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const chaislynDreamsIForgotAbout = {
   id: "01a0676a-d71c-7039-9feb-bede978e416a",

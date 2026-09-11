@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const celticWoman2AChristmasCelebration = {
   id: "01a0676a-d715-701d-9169-fc690969b1d6",

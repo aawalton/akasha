@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.types.ts"
+import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.types.ts"
 
 export const coldplay = {
   id: "01a06803-676b-7008-bce3-0dbae6d3edc7",

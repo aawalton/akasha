@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const greenDayStuckWithMeBbcLiveSession = {
   id: "01a0676a-d72a-7034-931e-c034e0f0ea31",

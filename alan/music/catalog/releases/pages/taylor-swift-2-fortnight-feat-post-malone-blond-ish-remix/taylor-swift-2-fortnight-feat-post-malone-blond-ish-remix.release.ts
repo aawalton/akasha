@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const taylorSwift2FortnightFeatPostMaloneBlondIshRemix = {
   id: "01a0676a-d71e-7031-baf9-ec90d27b2100",

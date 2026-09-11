@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const sylviaDaleyNoiseCancellingHeadphones = {
   id: "01a0676a-d725-7071-bed1-2455be8cdabd",

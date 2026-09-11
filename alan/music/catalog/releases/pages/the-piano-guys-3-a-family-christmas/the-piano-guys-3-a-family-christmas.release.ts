@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const thePianoGuys3AFamilyChristmas = {
   id: "01a0676a-d715-7025-9134-20f02dc6ec2f",

@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.types.ts"
+import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
 
 export const mitskiIGuess = {
   id: "019f0e9e-2936-741e-b691-a25601a39ffc",

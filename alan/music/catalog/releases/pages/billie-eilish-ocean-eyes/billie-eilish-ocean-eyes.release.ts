@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const billieEilishOceanEyes = {
   id: "01a0676a-d726-7012-bf16-98a75717e1b4",

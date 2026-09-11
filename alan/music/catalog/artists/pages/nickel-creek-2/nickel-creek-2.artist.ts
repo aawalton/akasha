@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.types.ts"
+import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.types.ts"
 
 export const nickelCreek2 = {
   id: "01a06803-676c-7000-abea-c3af47f95595",

@@ -1,4 +1,4 @@
-import type { RankProperty } from "../../../../../pages/rank-properties/rank-property.page-type.types.ts"
+import type { RankProperty } from "akasha/pages/rank-properties/rank-property.page-type.types.ts"
 
 export const singability = {
   id: "01a06243-144b-700b-83e8-f1b91786511f",

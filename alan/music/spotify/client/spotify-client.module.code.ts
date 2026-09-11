@@ -1,6 +1,9 @@
+import {
+  forceRefresh,
+  getOAuthAccessToken,
+} from "akasha/alan/music/spotify/auth/spotify-auth.module.code.ts"
+import { fetchSpotify } from "akasha/alan/music/spotify/fetching/spotify-fetching.module.code.ts"
 import { z } from "zod"
-import { forceRefresh, getOAuthAccessToken } from "../auth/spotify-auth.module.code.ts"
-import { fetchSpotify } from "../fetching/spotify-fetching.module.code.ts"
 
 const BASE_URL = "https://api.spotify.com/v1"
 

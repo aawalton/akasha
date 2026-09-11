@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const siaCheapThrillsFeatSeanPaul = {
   id: "01a0676a-d71a-7023-ab28-a8c59de2641b",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const snailMailTwoLegsSnailMailVersion = {
   id: "01a0676a-d72f-7028-8c94-f8873eb34563",

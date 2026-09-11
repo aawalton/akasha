@@ -1,9 +1,6 @@
 import { afterAll, afterEach, beforeEach, expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { z } from "zod"
-import { fetchingIs, fetchingIsOverHttp } from "../fetching/spotify-fetching.module.code.ts"
-import { writeToken } from "../token-store/spotify-token-store.module.code.ts"
 import {
   paginateOffset,
   parseRateLimitMs,
@@ -12,7 +9,13 @@ import {
   retryAfterMs,
   spotifyGet,
   spotifyRequest,
-} from "./spotify-client.module.code.ts"
+} from "akasha/alan/music/spotify/client/spotify-client.module.code.ts"
+import {
+  fetchingIs,
+  fetchingIsOverHttp,
+} from "akasha/alan/music/spotify/fetching/spotify-fetching.module.code.ts"
+import { writeToken } from "akasha/alan/music/spotify/token-store/spotify-token-store.module.code.ts"
+import { z } from "zod"
 
 const anything = z.unknown()
 

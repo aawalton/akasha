@@ -1,11 +1,11 @@
 import { describe, expect, test } from "bun:test"
-import type { SearchItem } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
 import {
   matchesArtist,
   selectCandidates,
   toCandidate,
   toCandidates,
-} from "./track-candidate.module.code.ts"
+} from "akasha/alan/music/choosing/track-candidate/track-candidate.module.code.ts"
+import type { SearchItem } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
 
 type Hit = {
   id: string | null

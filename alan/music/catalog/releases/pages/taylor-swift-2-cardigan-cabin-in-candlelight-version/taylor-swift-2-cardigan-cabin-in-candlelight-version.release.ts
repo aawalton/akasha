@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const taylorSwift2CardiganCabinInCandlelightVersion = {
   id: "01a0676a-d719-7063-9ce3-7b69e3f07943",

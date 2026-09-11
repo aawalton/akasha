@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const nsync2NoStringsAttached = {
   id: "01a0676a-d725-706b-a55e-d653bd37ee1c",

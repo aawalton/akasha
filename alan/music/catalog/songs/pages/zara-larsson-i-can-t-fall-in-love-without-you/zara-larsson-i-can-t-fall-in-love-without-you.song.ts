@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.types.ts"
+import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
 
 export const zaraLarssonICanTFallInLoveWithoutYou = {
   id: "019ea4a1-2c05-7fc6-8bac-b340fbe055cc",

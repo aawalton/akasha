@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const florenceTheMachineSpotifySingles = {
   id: "01a0676a-d729-7081-a7b5-cf783bad4665",

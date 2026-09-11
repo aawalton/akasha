@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const japaneseBreakfastBeSweetKoreanVersion = {
   id: "01a0676a-d718-7020-a186-8b04ef7e4497",

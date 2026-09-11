@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const taylorSwift2SpeakNow = {
   id: "01a0676a-d729-7073-83d5-9c7fc4af984b",

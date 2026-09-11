@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const trackCandidate = {
   id: "01a06281-4d9d-7003-a5cb-de0f475a7e60",

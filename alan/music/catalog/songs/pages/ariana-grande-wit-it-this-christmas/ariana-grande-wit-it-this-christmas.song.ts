@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.types.ts"
+import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
 
 export const arianaGrandeWitItThisChristmas = {
   id: "019ea4e5-3f71-7cba-9d4a-f0d0d6e911e9",

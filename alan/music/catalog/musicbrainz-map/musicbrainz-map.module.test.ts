@@ -1,11 +1,4 @@
 import { describe, expect, test } from "bun:test"
-import type {
-  MbArtist,
-  MbArtistSearchHit,
-  MbRecording,
-  MbRelation,
-  MbWork,
-} from "../musicbrainz-schema/musicbrainz-schema.module.code.ts"
 import {
   dedupeRecordings,
   deriveSongType,
@@ -18,7 +11,14 @@ import {
   mbWorkToSongFields,
   performedWorkIds,
   pickBestArtist,
-} from "./musicbrainz-map.module.code.ts"
+} from "akasha/alan/music/catalog/musicbrainz-map/musicbrainz-map.module.code.ts"
+import type {
+  MbArtist,
+  MbArtistSearchHit,
+  MbRecording,
+  MbRelation,
+  MbWork,
+} from "akasha/alan/music/catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
 
 const QUEEN = "mbid-queen"
 const BOWIE = "mbid-bowie"

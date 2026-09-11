@@ -6,7 +6,7 @@ import {
   selectNextArtist,
   selectNextExploration,
   selectNextSong,
-} from "./music-exploration.module.code.ts"
+} from "akasha/alan/music/choosing/music-exploration/music-exploration.module.code.ts"
 
 function artist(slug: string, fields: Partial<CatalogArtist> = {}): CatalogArtist {
   return { slug, title: slug, ...fields }

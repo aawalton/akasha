@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const siaDiamondEyesFeatSia = {
   id: "01a0676a-d71c-700f-aa45-d7feb2313fbb",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const phoebeBridgersSpotifySingles = {
   id: "01a0676a-d72a-700b-89ba-68bd0cbbb1b6",

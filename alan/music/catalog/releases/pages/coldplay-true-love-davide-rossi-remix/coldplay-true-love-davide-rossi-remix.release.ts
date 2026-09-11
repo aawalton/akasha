@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const coldplayTrueLoveDavideRossiRemix = {
   id: "01a0676a-d72f-7020-94ab-c63afbe89981",

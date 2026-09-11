@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const zaraLarssonSoGoodTheWildRemix = {
   id: "01a0676a-d729-7045-be20-85d0a16476cf",

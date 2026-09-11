@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const ledZeppelinLedZeppelinIiRemaster = {
   id: "01a0676a-d722-706c-8d77-759fd75f5548",

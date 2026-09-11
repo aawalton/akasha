@@ -2,16 +2,22 @@ import { afterAll, afterEach, beforeEach, expect, test } from "bun:test"
 import crypto from "node:crypto"
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { fetchingIs, fetchingIsOverHttp } from "../fetching/spotify-fetching.module.code.ts"
-import { readPkce, writePkce } from "../pkce-store/spotify-pkce-store.module.code.ts"
-import { readToken } from "../token-store/spotify-token-store.module.code.ts"
 import {
   authorizeUrlFor,
   challengeFor,
   makePkcePair,
   readCodeFlag,
   runAuthCli,
-} from "./spotify-auth-cli.module.code.ts"
+} from "akasha/alan/music/spotify/auth-cli/spotify-auth-cli.module.code.ts"
+import {
+  fetchingIs,
+  fetchingIsOverHttp,
+} from "akasha/alan/music/spotify/fetching/spotify-fetching.module.code.ts"
+import {
+  readPkce,
+  writePkce,
+} from "akasha/alan/music/spotify/pkce-store/spotify-pkce-store.module.code.ts"
+import { readToken } from "akasha/alan/music/spotify/token-store/spotify-token-store.module.code.ts"
 
 const ROOT = mkdtempSync("/var/tmp/spotify-auth-cli-")
 

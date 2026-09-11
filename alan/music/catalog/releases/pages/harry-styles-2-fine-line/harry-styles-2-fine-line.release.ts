@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const harryStyles2FineLine = {
   id: "01a0676a-d71d-7079-962f-5e669314a839",

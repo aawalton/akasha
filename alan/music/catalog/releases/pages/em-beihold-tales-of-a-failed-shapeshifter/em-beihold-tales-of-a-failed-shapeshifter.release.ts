@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const emBeiholdTalesOfAFailedShapeshifter = {
   id: "01a0676a-d72b-701c-afba-a2005f8fc8cb",

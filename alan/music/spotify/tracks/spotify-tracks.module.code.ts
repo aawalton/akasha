@@ -1,5 +1,5 @@
+import { spotifyGet } from "akasha/alan/music/spotify/client/spotify-client.module.code.ts"
 import { z } from "zod"
-import { spotifyGet } from "../client/spotify-client.module.code.ts"
 
 export const trackArtistRefSchema = z.object({ name: z.string() }).passthrough()
 

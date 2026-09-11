@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const byuVocalPointNewbornKing = {
   id: "01a0676a-d725-7059-a464-b7c1d266a10a",

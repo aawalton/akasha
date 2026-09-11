@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const siaYouReNeverFullyDressedWithoutASmile2014FilmVersion = {
   id: "01a0676a-d732-7015-8c0a-03e27c012ef1",

@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.types.ts"
+import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
 
 export const billieEilishBirdsOfAFeather = {
   id: "019ea4a9-b01b-7ced-8184-b9c4eeaf675c",

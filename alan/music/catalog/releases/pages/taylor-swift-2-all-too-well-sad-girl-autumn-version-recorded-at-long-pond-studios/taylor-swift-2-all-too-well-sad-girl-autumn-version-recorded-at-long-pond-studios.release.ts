@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const taylorSwift2AllTooWellSadGirlAutumnVersionRecordedAtLongPondStudios = {
   id: "01a0676a-d716-702a-adf2-e6231de1fa96",

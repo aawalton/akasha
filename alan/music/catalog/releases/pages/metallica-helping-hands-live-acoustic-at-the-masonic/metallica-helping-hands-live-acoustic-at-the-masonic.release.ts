@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const metallicaHelpingHandsLiveAcousticAtTheMasonic = {
   id: "01a0676a-d720-702c-9c5e-21d5d3b7ec99",

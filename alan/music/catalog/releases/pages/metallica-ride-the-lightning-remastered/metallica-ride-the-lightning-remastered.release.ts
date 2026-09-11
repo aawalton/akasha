@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const metallicaRideTheLightningRemastered = {
   id: "01a0676a-d728-7005-a7ab-3853a6a2a909",

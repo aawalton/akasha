@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const ellaHendersonAlibiFeatRudimentalShapesVipMix = {
   id: "01a0676a-d716-700b-80c5-3be6603068c7",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const siaIfTheEarthIsSpinningJamesHurrKarstenSollorsRemix = {
   id: "01a0676a-d721-7054-b4b8-31bf3588f7f1",

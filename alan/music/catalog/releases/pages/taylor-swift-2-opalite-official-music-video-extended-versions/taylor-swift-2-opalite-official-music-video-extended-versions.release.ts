@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const taylorSwift2OpaliteOfficialMusicVideoExtendedVersions = {
   id: "01a0676a-d726-7041-9637-c7da36f5eeea",

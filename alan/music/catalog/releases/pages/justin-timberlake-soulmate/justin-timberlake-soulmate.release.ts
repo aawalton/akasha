@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const justinTimberlakeSoulmate = {
   id: "01a0676a-d729-706d-bdd2-6bb82fa488f8",

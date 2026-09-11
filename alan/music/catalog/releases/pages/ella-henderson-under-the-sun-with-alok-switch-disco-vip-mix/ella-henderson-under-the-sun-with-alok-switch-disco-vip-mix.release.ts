@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const ellaHendersonUnderTheSunWithAlokSwitchDiscoVipMix = {
   id: "01a0676a-d72f-703c-b8e0-a39797339bd2",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const jamesTaylor2JamesTaylorSGreatestHits2019Remaster = {
   id: "01a0676a-d722-701d-b246-71aaae190c29",

@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.types.ts"
+import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
 
 export const siaSpaceBetween = {
   id: "019ea4cb-a6df-72f9-99bf-150e98de0e4e",

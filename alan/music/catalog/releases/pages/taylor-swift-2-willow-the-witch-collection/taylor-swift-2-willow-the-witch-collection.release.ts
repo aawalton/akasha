@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const taylorSwift2WillowTheWitchCollection = {
   id: "01a0676a-d731-7024-9ffa-1bcf9d499090",

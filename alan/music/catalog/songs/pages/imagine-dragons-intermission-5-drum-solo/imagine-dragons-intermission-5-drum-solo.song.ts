@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.types.ts"
+import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
 
 export const imagineDragonsIntermission5DrumSolo = {
   id: "019ea49a-82a7-7e1d-ba30-8993035ae7f7",

@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdtempSync, rmSync, statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { z } from "zod"
 import {
   cachePathOf,
   defaultBaseDir,
@@ -9,7 +8,8 @@ import {
   readCacheFile,
   removeCacheFile,
   writeCacheFile,
-} from "./spotify-cache-file.module.code.ts"
+} from "akasha/alan/music/spotify/cache-file/spotify-cache-file.module.code.ts"
+import { z } from "zod"
 
 const shape = z.object({ one: z.string() }).strict()
 

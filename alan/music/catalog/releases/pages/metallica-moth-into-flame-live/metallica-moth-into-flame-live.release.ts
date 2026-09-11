@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const metallicaMothIntoFlameLive = {
   id: "01a0676a-d725-7008-bcaa-fa9b1c83a2b5",

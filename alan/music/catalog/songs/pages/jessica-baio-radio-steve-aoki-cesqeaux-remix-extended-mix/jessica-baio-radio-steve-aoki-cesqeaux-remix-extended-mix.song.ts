@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.types.ts"
+import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
 
 export const jessicaBaioRadioSteveAokiCesqeauxRemixExtendedMix = {
   id: "019ea4f8-b650-7d19-a1b9-1d1b8ceca335",

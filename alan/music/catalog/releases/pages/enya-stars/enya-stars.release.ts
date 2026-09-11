@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const enyaStars = {
   id: "01a0676a-d72a-7012-bdaf-d8573077df23",

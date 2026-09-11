@@ -6,7 +6,7 @@ import {
   songNamesFrom,
   songSlugBase,
   songSlugFor,
-} from "./song-slug.module.code.ts"
+} from "akasha/alan/music/catalog/song-slug/song-slug.module.code.ts"
 
 describe("slugifyName", () => {
   test("lowercases and joins words with a dash", () => {

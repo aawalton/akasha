@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const ellaHendersonNoSleepDropGRemix = {
   id: "01a0676a-d725-7069-960a-9f0ba3698391",

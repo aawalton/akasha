@@ -1,4 +1,4 @@
-import type { SelectProperty } from "../../../../../pages/select-properties/select-property.page-type.types.ts"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const written = {
   id: "01a06243-144b-7009-8017-c942088ed2c7",

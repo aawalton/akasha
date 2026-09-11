@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const linkinParkOneMoreLightSteveAokiChesterForeverRemix = {
   id: "01a0676a-d726-7033-b1a5-13316257467d",

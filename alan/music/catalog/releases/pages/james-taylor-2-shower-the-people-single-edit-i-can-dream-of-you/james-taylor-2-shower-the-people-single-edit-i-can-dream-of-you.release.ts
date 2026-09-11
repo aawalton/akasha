@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const jamesTaylor2ShowerThePeopleSingleEditICanDreamOfYou = {
   id: "01a0676a-d728-707b-839d-37a00a77b4e4",

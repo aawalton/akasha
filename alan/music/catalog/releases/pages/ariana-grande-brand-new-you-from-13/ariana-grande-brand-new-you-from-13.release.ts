@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const arianaGrandeBrandNewYouFrom13 = {
   id: "01a0676a-d719-702d-a6cb-50a5f5521895",

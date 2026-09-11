@@ -5,7 +5,7 @@ import {
   MUSIC_RATINGS,
   type MusicRating,
   ratingRung,
-} from "./rating-ladder.module.code.ts"
+} from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
 
 describe("MUSIC_RATINGS", () => {
   test("runs from F up to S+ in sixteen rungs", () => {

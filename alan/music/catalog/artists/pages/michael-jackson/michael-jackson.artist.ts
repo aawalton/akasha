@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.types.ts"
+import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.types.ts"
 
 export const michaelJackson = {
   id: "01a06803-676b-7029-876e-83ab268f9dd8",

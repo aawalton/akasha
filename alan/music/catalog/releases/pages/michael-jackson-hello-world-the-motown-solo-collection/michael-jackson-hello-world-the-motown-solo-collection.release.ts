@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const michaelJacksonHelloWorldTheMotownSoloCollection = {
   id: "01a0676a-d720-702a-bd2b-96bc9b64f7c3",

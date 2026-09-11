@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const billyJoelAMatterOfTrustTheBridgeToRussiaCommentaryAlbum = {
   id: "01a0676a-d715-702f-8943-55316b8e459f",

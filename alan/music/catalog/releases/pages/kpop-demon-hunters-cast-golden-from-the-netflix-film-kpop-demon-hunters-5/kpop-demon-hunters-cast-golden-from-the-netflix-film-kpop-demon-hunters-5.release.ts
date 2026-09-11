@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const kpopDemonHuntersCastGoldenFromTheNetflixFilmKpopDemonHunters5 = {
   id: "01a0676a-d71f-7018-8921-11db27bee063",

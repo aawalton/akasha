@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const siaElasticHeartFromTheHungerGamesCatchingFireSoundtrack = {
   id: "01a0676a-d71c-7061-862b-0ce1d38d6ea6",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const sabrinaCarpenterSkinQuarterheadRemix = {
   id: "01a0676a-d729-7018-a9a9-796a995cc58b",

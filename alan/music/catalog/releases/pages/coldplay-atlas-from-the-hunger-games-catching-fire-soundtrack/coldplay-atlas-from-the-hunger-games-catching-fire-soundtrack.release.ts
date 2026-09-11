@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const coldplayAtlasFromTheHungerGamesCatchingFireSoundtrack = {
   id: "01a0676a-d717-703b-950a-936b0738f6f2",

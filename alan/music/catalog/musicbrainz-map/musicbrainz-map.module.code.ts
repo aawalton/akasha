@@ -1,14 +1,14 @@
-import { compareKey } from "akasha/utils/narrow/compare-key/compare-key.module.code.ts"
-import type { Artist } from "../artists/artist.page-type.types.ts"
+import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.types.ts"
 import type {
   MbArtist,
   MbArtistSearchHit,
   MbRecording,
   MbWork,
-} from "../musicbrainz-schema/musicbrainz-schema.module.code.ts"
-import type { SongType } from "../songs/properties/song-type.select-property.types.ts"
-import type { Written } from "../songs/properties/written.select-property.types.ts"
-import type { Song } from "../songs/song.page-type.types.ts"
+} from "akasha/alan/music/catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
+import type { SongType } from "akasha/alan/music/catalog/songs/properties/song-type.select-property.types.ts"
+import type { Written } from "akasha/alan/music/catalog/songs/properties/written.select-property.types.ts"
+import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
+import { compareKey } from "akasha/utils/narrow/compare-key/compare-key.module.code.ts"
 
 export type ArtistFields = Pick<
   Artist,

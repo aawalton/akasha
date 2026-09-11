@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const enyaStormsInAfricaPtIi2009Remaster = {
   id: "01a0676a-d72a-7026-87a4-0d63b3f6c7c1",

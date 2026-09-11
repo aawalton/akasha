@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const elvisPresley2KingCreoleOriginalMotionPictureSoundtrack = {
   id: "01a0676a-d722-7046-82f5-20396386def1",

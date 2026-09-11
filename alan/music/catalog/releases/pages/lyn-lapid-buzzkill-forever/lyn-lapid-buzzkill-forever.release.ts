@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const lynLapidBuzzkillForever = {
   id: "01a0676a-d719-704d-bab1-d8802beb7baf",

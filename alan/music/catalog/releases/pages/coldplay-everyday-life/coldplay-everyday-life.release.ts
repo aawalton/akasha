@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const coldplayEverydayLife = {
   id: "01a0676a-d71d-703a-ade5-0292b88685cc",

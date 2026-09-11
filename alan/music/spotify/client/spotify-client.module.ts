@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const spotifyClient = {
   id: "01a06261-dc1d-7007-8f9c-f19cb6de7402",

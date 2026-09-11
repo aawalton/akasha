@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const emBeiholdPedestal = {
   id: "01a0676a-d726-706a-8bbf-100004e11a77",

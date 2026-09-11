@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const siaFloatingThroughSpace = {
   id: "01a0676a-d71e-7013-a28e-ebee2dbe61ac",

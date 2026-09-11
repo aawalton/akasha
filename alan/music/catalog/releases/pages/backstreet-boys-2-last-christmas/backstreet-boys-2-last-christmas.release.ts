@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const backstreetBoys2LastChristmas = {
   id: "01a0676a-d722-705b-a85f-0fff22f191b2",

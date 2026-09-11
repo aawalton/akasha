@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const paulCardallFocusStudyWithPeacefulPianoMusicRemastered2025 = {
   id: "01a0676a-d71e-701a-9354-645e15fa6600",

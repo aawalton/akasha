@@ -1,5 +1,5 @@
+import { paginateOffset } from "akasha/alan/music/spotify/client/spotify-client.module.code.ts"
 import { z } from "zod"
-import { paginateOffset } from "../client/spotify-client.module.code.ts"
 
 export const TIME_RANGES = ["short_term", "medium_term", "long_term"] as const
 

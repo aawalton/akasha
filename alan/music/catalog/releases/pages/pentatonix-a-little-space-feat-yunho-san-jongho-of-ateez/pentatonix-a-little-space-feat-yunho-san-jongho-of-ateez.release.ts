@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const pentatonixALittleSpaceFeatYunhoSanJonghoOfAteez = {
   id: "01a0676a-d715-702c-961c-19892aeb1e63",

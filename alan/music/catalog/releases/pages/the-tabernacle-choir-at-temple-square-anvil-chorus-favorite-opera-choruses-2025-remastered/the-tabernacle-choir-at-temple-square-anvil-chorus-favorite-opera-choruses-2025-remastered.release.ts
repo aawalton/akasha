@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const theTabernacleChoirAtTempleSquareAnvilChorusFavoriteOperaChoruses2025Remastered = {
   id: "01a0676a-d717-702b-9cbe-5280ef26de50",

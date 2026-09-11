@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const ledZeppelinCodaDeluxeEdition = {
   id: "01a0676a-d71b-7006-9ca8-99925f3c685b",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const justinTimberlakeLoveNeverFeltSoGoodDavidMoralesAndEricKupperDefMix = {
   id: "01a0676a-d723-7076-8f8c-87e5b1cbd95e",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const elvisPresley2FrankieJohnny = {
   id: "01a0676a-d71e-7032-8f82-f428c49e5c32",

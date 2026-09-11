@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const siaNumbRemixes1 = {
   id: "01a0676a-d726-7008-a31f-a92ab6ca0fa2",

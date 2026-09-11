@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.types.ts"
+import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
 
 export const kellyClarksonGrownUpChristmasList = {
   id: "019ea4af-7fbf-70de-b554-b92a8ef98667",

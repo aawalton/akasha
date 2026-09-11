@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const greenDayAmericanIdiot20thAnniversaryDeluxeEdition = {
   id: "01a0676a-d717-7004-befe-82f6b956aa00",

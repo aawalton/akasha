@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const greenDayCorpusChristi = {
   id: "01a0676a-d71b-702b-adfc-4be41ac04a98",

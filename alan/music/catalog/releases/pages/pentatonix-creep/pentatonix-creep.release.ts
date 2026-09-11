@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const pentatonixCreep = {
   id: "01a0676a-d71b-703c-a8d0-fcd21cd56736",

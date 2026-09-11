@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const siaHeliumSiaVsDavidGuettaAfrojack = {
   id: "01a0676a-d720-7027-b1aa-7332cf3f87e7",

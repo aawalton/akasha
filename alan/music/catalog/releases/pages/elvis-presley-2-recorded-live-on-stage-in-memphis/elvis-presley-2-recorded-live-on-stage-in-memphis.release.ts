@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const elvisPresley2RecordedLiveOnStageInMemphis = {
   id: "01a0676a-d727-705b-96f7-3e836e55912a",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const ellaHenderson21ReasonsFeatEllaHendersonBillenTedRemix = {
   id: "01a0676a-d714-702b-9f0a-4bf26fc02c3c",

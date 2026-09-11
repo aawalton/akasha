@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const imagineDragonsSmokeMirrorsDeluxe = {
   id: "01a0676a-d729-7035-85e6-59a6c41d9a6b",

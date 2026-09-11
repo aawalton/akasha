@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.types.ts"
+import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.types.ts"
 
 export const celticWoman2 = {
   id: "01a06803-676b-7005-a078-1595cfcab4e9",

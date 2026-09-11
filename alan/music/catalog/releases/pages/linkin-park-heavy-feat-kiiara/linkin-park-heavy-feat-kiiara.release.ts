@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const linkinParkHeavyFeatKiiara = {
   id: "01a0676a-d720-7024-95b8-e5859b7a1949",

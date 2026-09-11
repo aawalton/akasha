@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const leonardCohenCanTForgetASouvenirOfTheGrandTour = {
   id: "01a0676a-d719-7057-b52f-79cedd498a45",

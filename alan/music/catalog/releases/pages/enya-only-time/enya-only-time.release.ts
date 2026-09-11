@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const enyaOnlyTime = {
   id: "01a0676a-d726-703a-82d2-7c9ce0f5fa04",

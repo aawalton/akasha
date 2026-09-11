@@ -1,4 +1,3 @@
-import { pacedQueue } from "akasha/utils/narrow/paced-queue/paced-queue.module.code.ts"
 import {
   type MbArtist,
   type MbArtistSearchHit,
@@ -8,7 +7,8 @@ import {
   mbArtistSearchSchema,
   mbRecordingBrowseSchema,
   mbWorkBrowseSchema,
-} from "../musicbrainz-schema/musicbrainz-schema.module.code.ts"
+} from "akasha/alan/music/catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
+import { pacedQueue } from "akasha/utils/narrow/paced-queue/paced-queue.module.code.ts"
 
 const BASE_URL = "https://musicbrainz.org/ws/2"
 

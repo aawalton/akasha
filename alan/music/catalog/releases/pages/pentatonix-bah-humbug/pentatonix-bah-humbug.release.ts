@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const pentatonixBahHumbug = {
   id: "01a0676a-d718-7011-95f1-886e01c381e6",

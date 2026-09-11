@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const metallicaMetallicaThroughTheNeverMusicFromTheMotionPicture = {
   id: "01a0676a-d724-7055-9fb0-1c8dac5b3083",

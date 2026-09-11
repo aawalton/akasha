@@ -1,4 +1,4 @@
-import type { SelectProperty } from "../../../../../pages/select-properties/select-property.page-type.types.ts"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const songType = {
   id: "01a06243-144b-7007-a86b-aaf8bdbc945b",

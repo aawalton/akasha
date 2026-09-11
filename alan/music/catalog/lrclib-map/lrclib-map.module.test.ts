@@ -1,6 +1,9 @@
 import { describe, expect, test } from "bun:test"
-import type { LrclibRecord } from "../lrclib-schema/lrclib-schema.module.code.ts"
-import { lyricsFieldsOf, pickBestLyrics } from "./lrclib-map.module.code.ts"
+import {
+  lyricsFieldsOf,
+  pickBestLyrics,
+} from "akasha/alan/music/catalog/lrclib-map/lrclib-map.module.code.ts"
+import type { LrclibRecord } from "akasha/alan/music/catalog/lrclib-schema/lrclib-schema.module.code.ts"
 
 function record(over: Partial<LrclibRecord> = {}): LrclibRecord {
   return {

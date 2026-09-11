@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const siaThundercloudsLostFrequenciesRemix = {
   id: "01a0676a-d72e-703f-900f-a7c6c795f7a4",

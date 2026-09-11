@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.types.ts"
+import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
 
 export const taylorSwiftIHateItHere = {
   id: "019ea416-2b57-7b22-8a9b-4e5f4b9dccfc",

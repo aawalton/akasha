@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const pentatonixDoYouHearWhatIHear2 = {
   id: "01a0676a-d71c-701c-b9d8-d0ed245a7f09",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const snailMailBenFranklin = {
   id: "01a0676a-d718-7040-a825-3ec7fbcbb099",

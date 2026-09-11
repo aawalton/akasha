@@ -1,8 +1,8 @@
-import { pacedQueue } from "akasha/utils/narrow/paced-queue/paced-queue.module.code.ts"
 import {
   type LrclibRecord,
   lrclibSearchSchema,
-} from "../lrclib-schema/lrclib-schema.module.code.ts"
+} from "akasha/alan/music/catalog/lrclib-schema/lrclib-schema.module.code.ts"
+import { pacedQueue } from "akasha/utils/narrow/paced-queue/paced-queue.module.code.ts"
 
 const BASE_URL = "https://lrclib.net/api"
 

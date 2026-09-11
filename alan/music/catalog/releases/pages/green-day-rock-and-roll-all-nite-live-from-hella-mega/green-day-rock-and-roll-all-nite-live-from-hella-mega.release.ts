@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const greenDayRockAndRollAllNiteLiveFromHellaMega = {
   id: "01a0676a-d728-7016-aeee-3d6eb424b2d5",

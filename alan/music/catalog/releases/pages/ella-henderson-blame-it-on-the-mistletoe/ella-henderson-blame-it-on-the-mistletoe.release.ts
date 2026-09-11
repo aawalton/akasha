@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const ellaHendersonBlameItOnTheMistletoe = {
   id: "01a0676a-d719-7014-8d05-f2811175bc1e",

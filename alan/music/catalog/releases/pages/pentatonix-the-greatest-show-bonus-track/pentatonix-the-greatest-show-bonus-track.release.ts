@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const pentatonixTheGreatestShowBonusTrack = {
   id: "01a0676a-d72d-701b-9bb1-929b2d9350f8",

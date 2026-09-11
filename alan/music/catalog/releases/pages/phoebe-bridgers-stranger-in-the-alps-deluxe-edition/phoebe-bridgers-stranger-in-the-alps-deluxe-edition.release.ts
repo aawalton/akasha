@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const phoebeBridgersStrangerInTheAlpsDeluxeEdition = {
   id: "01a0676a-d72a-702a-bae8-b10cb509324d",

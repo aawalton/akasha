@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const coldplayUpUpFreedoRemix = {
   id: "01a0676a-d72f-7056-9e81-190e97c77ef8",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.types.ts"
+import type { Release } from "akasha/alan/music/catalog/releases/release.page-type.types.ts"
 
 export const siaDynamite = {
   id: "01a0676a-d71c-7045-9ffd-66d72835af66",

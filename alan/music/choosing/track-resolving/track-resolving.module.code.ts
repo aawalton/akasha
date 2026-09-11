@@ -2,6 +2,7 @@ import {
   DataError,
   OperationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { selectCandidates } from "akasha/alan/music/choosing/track-candidate/track-candidate.module.code.ts"
 import {
   getDevices,
   getPlaybackState,
@@ -9,7 +10,6 @@ import {
 import { search } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
 import { requireMatchPositional } from "akasha/utils/narrow/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
-import { selectCandidates } from "../track-candidate/track-candidate.module.code.ts"
 
 const SEARCH_LIMIT = 5
 
