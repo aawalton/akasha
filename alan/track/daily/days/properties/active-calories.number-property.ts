@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const activeCalories = {
   id: "01a05fd8-c30f-79d0-aebb-2017f8333f88",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "active-calories",
   propertySlug: "active-calories",

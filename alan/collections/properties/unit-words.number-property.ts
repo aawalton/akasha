@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const unitWords = {
   id: "01a06959-98a7-7ec0-bc21-02de65c2abf5",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "unit-words",
   propertySlug: "unit-words",

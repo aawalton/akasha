@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const bodyweight = {
   id: "01a06860-a0ef-76b6-bebf-a5ed8fc42f7b",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "bodyweight",
   propertySlug: "bodyweight",

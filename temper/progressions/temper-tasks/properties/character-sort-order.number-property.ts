@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const characterSortOrder = {
   id: "01a06959-98a7-75a1-b25b-ef19416fec86",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "character-sort-order",
   propertySlug: "character-sort-order",

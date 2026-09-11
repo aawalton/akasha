@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const topicCalibration = {
   id: "01a0659f-93da-7003-b4ed-cdcc0bbed4b5",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "topic-calibration",
   propertySlug: "calibration",

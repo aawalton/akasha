@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const contextTokens = {
   id: "01a0540f-f536-742b-bc8e-9887484f4426",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "context-tokens",
   propertySlug: "context-tokens",

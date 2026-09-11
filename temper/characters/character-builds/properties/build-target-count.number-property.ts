@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const buildTargetCount = {
   id: "01a06862-c4ee-70c5-9850-11bd6c7f9df0",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "build-target-count",
   propertySlug: "target-count",

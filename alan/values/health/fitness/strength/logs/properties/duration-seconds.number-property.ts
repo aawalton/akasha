@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const durationSeconds = {
   id: "01a06580-66fd-75fc-9405-1f02e059eb3c",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "duration-seconds",
   propertySlug: "duration-seconds",

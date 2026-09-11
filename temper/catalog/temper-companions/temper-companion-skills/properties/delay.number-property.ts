@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const delay = {
   id: "01a06193-6ca8-7884-956b-237d461f1c14",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "delay",
   propertySlug: "delay",

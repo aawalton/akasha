@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const targetRadius = {
   id: "01a06193-6cac-7448-823a-98e679dfdb1a",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "target-radius",
   propertySlug: "radius",

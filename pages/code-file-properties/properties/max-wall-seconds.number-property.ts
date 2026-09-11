@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const maxWallSeconds = {
   id: "01a08790-c7ec-7749-b14a-e818de74aed8",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "max-wall-seconds",
   propertySlug: "max-wall-seconds",

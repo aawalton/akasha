@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const restartDelaySeconds = {
   id: "01a05a3f-b42e-71bb-aaae-77ddc02c8745",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "restart-delay-seconds",
   propertySlug: "restart-delay-seconds",

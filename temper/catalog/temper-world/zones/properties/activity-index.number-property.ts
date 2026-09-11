@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const activityIndex = {
   id: "01a06167-3f9b-7003-a660-2e741cb204d9",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "activity-index",
   propertySlug: "activity-index",

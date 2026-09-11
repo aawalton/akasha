@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const ownLength = {
   id: "01a06553-4713-7000-832b-753158e3fec9",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "own-length",
   propertySlug: "own-length",

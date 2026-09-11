@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const displayOrder = {
   id: "01a05fac-7584-76ae-9152-c162b96618d1",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "display-order",
   propertySlug: "display-order",

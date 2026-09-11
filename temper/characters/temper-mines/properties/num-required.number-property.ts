@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const numRequired = {
   id: "01a05fcd-f552-747a-9d38-842aa35260d0",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "num-required",
   propertySlug: "num-required",

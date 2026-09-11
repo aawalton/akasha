@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const aliasIndex = {
   id: "01a054d8-1d39-7b15-a48d-62c2122c274b",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "alias-index",
   propertySlug: "alias-index",

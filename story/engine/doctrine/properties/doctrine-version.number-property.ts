@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const doctrineVersion = {
   id: "01a06590-c57a-7735-8352-d549372de788",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "doctrine-version",
   propertySlug: "doctrine-version",

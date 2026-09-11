@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const toolTimeout = {
   id: "01a0687a-3d9d-7cc0-8dbb-09100312e372",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "tool-timeout",
   propertySlug: "tool-timeout",

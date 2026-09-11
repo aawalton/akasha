@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const conditionalMultiplier = {
   id: "01a06193-6cab-770f-a188-54931a2fd3fd",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "conditional-multiplier",
   propertySlug: "conditional-multiplier",

@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const resumeTokenThreshold = {
   id: "01a0687a-3d9d-7913-bd68-1b64d021e9be",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "resume-token-threshold",
   propertySlug: "resume-token-threshold",

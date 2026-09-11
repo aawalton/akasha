@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const weightFunctionality = {
   id: "01a06865-7f45-7940-abd7-09b6c5b199ce",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "weight-functionality",
   propertySlug: "weight-functionality",

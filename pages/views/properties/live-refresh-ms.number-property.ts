@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const liveRefreshMs = {
   id: "01a0680d-4d00-7013-9a16-8c4b2d7e4114",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "live-refresh-ms",
   propertySlug: "live-refresh-ms",

@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const healthBelow = {
   id: "01a06193-6cae-7ee6-b94c-69630c96ddf2",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "health-below",
   propertySlug: "below",

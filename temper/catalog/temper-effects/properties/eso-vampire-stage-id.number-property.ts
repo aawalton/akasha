@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const esoVampireStageId = {
   id: "01a05fc5-94ce-7081-93f6-d99c2d729a54",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "eso-vampire-stage-id",
   propertySlug: "eso-vampire-stage-id",

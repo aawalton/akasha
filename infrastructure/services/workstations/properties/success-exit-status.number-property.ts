@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const successExitStatus = {
   id: "01a06738-9f12-724d-8c06-c1f4e4e3bc35",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "success-exit-status",
   propertySlug: "success-exit-status",

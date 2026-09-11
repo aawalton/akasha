@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const setMaxEquip = {
   id: "01a05fcd-f555-7778-a87a-87338b2f1827",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "set-max-equip",
   propertySlug: "set-max-equip",

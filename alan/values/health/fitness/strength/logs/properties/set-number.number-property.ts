@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const setNumber = {
   id: "01a06580-66fd-7ae8-ac42-5007edf1d65b",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "set-number",
   propertySlug: "set-number",

@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const lowestEmailInboxCount = {
   id: "01a06828-59d2-7157-9085-6ef017a64ed4",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "lowest-email-inbox-count",
   propertySlug: "lowest-email-inbox-count",

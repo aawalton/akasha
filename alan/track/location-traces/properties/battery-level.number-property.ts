@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const batteryLevel = {
   id: "01a06935-68b3-75ae-9b71-1b4d0d344683",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "battery-level",
   propertySlug: "battery-level",

@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const weeklySetFloor = {
   id: "01a06865-7f46-734e-ac69-7d1c718f0231",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "weekly-set-floor",
   propertySlug: "weekly-set-floor",

@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const headingDeg = {
   id: "01a06935-68b4-7370-a96d-a05e0ee03b6d",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "heading-deg",
   propertySlug: "heading-deg",

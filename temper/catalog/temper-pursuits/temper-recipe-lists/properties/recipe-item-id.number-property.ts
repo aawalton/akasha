@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const recipeItemId = {
   id: "01a0626e-c112-72f4-b2d2-af3e22205118",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "recipe-item-id",
   propertySlug: "recipe-item-id",

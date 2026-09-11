@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const capacityRate = {
   id: "01a05fd8-c30f-7486-b22b-7e17134582db",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "capacity-rate",
   propertySlug: "capacity-rate",

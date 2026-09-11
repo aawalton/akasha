@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const accuracyM = {
   id: "01a06935-68b2-7b97-8c49-7df243d3b26a",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "accuracy-m",
   propertySlug: "accuracy-m",

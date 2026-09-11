@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const speedMps = {
   id: "01a06935-68b5-7fcb-aea6-a3c534c1c03b",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "speed-mps",
   propertySlug: "speed-mps",

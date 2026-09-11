@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const maxRank = {
   id: "01a05fca-cb85-7145-9db5-02dbc3c326e6",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "max-rank",
   propertySlug: "max-rank",

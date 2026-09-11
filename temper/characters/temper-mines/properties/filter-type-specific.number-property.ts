@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const filterTypeSpecific = {
   id: "01a05fcd-f54e-7daa-82d0-15f58d598aa1",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "filter-type-specific",
   propertySlug: "filter-type-specific",

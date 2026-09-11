@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const statusDistance = {
   id: "01a06193-6cad-7244-a3f2-6634cf115b2b",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "status-distance",
   propertySlug: "distance",

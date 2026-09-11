@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const furnitureSubcategoryId = {
   id: "01a06053-b37e-76a2-b86a-9e08ca3de11c",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "furniture-subcategory-id",
   propertySlug: "furniture-subcategory-id",

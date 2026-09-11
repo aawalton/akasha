@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const craters = {
   id: "01a06579-e4f7-7792-a8c5-47fa15198d5f",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "craters",
   propertySlug: "craters",

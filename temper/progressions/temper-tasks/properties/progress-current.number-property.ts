@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const progressCurrent = {
   id: "01a05fd3-435e-7786-ae6f-f5ee9cb17092",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "progress-current",
   propertySlug: "progress-current",

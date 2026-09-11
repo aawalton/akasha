@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const threshold = {
   id: "01a06579-e4f7-7121-8179-b21785f74250",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "threshold",
   propertySlug: "threshold",

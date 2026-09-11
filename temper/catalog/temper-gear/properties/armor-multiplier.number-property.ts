@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const armorMultiplier = {
   id: "01a05fd1-d436-747d-9b85-c19e00005b75",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "armor-multiplier",
   propertySlug: "armor-multiplier",

@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const enchantmentMultiplier = {
   id: "01a05fd1-d43a-7f89-a21f-954013b3adfe",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "enchantment-multiplier",
   propertySlug: "enchantment-multiplier",

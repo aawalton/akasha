@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const altitudeM = {
   id: "01a06935-68b3-78dc-87ae-e65beefa66fa",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "altitude-m",
   propertySlug: "altitude-m",

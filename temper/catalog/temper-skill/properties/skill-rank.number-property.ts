@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const skillRank = {
   id: "01a05fca-cb87-7d7e-afd6-495b5195642e",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "skill-rank",
   propertySlug: "rank",

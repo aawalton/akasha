@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const maxCount = {
   id: "01a07807-639f-78de-a246-cc6e8ef667e9",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "max-count",
   propertySlug: "max-count",

@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const groupMaxCpuSeconds = {
   id: "01a08bb3-5e69-75cb-8d94-70b459a24ce7",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "group-max-cpu-seconds",
   propertySlug: "max-cpu-seconds",

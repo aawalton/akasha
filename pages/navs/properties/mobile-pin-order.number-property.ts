@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const mobilePinOrder = {
   id: "01a0680e-5e00-7003-a748-2c9f6b3e5104",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "mobile-pin-order",
   propertySlug: "mobile-pin-order",

@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const transmuteCrystalAmount = {
   id: "01a0675a-f185-7a1b-bbef-b8873cf8b97e",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "transmute-crystal-amount",
   propertySlug: "transmute-crystal-amount",

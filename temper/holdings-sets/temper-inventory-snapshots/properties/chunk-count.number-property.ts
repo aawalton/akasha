@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const chunkCount = {
   id: "01a05fcb-fd2d-7dd6-91a7-ef600287f306",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "chunk-count",
   propertySlug: "chunk-count",

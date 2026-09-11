@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const sleepPoints = {
   id: "01a05fd8-c30f-73f0-a384-6ae806f54d2c",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "sleep-points",
   propertySlug: "sleep-points",

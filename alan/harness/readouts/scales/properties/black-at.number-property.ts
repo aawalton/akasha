@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const blackAt = {
   id: "01a0544e-f1f0-768d-a7d6-b32d64b20ddc",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "black-at",
   propertySlug: "black-at",

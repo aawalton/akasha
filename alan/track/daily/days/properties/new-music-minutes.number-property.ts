@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const newMusicMinutes = {
   id: "01a06240-340f-7006-a08a-3236a3341467",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "new-music-minutes",
   propertySlug: "new-music-minutes",

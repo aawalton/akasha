@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const coefficient = {
   id: "01a05fcd-f548-778c-a2fa-4da3aa0c7663",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "coefficient",
   propertySlug: "coefficient",

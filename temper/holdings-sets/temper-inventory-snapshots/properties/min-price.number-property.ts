@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const minPrice = {
   id: "01a06053-b380-7e76-b2ba-223b0a8e15ed",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "min-price",
   propertySlug: "min-price",

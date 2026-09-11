@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const skippedCount = {
   id: "01a06861-f664-71f7-a5a5-fceabced2a58",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "skipped-count",
   propertySlug: "skipped-count",

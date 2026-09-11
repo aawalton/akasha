@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const generatorRanForManifestApiVersion = {
   id: "01a05fc4-7a92-7ab8-b98f-ca40f8af5eb1",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "generator-ran-for-manifest-api-version",
   propertySlug: "generator-ran-for-manifest-api-version",

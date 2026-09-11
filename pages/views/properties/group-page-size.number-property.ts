@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const groupPageSize = {
   id: "01a0680d-4d00-700f-9e48-6b2d7f1a4110",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "group-page-size",
   propertySlug: "group-page-size",

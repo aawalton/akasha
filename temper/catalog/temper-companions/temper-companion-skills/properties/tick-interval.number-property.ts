@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const tickInterval = {
   id: "01a06193-6ca8-7471-9460-6a7a73360a6e",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "tick-interval",
   propertySlug: "tick-interval",

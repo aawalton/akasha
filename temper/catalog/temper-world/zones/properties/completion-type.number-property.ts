@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const completionType = {
   id: "01a06167-3f9b-7002-8497-0d807cc8fb98",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "completion-type",
   propertySlug: "completion-type",

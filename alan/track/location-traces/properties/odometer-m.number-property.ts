@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const odometerM = {
   id: "01a06935-68b4-7ba8-ae6b-0d71860e38e9",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "odometer-m",
   propertySlug: "odometer-m",

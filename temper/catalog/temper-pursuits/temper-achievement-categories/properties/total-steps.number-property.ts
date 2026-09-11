@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const totalSteps = {
   id: "01a06168-7245-7003-9baa-622ecb1ea0d4",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "total-steps",
   propertySlug: "total-steps",

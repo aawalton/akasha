@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const latitude = {
   id: "01a06583-acfb-72db-90d5-cd59efa93680",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "latitude",
   propertySlug: "latitude",

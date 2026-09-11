@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const maxMemoryMb = {
   id: "01a08790-d9b0-7541-af41-a057d8a7faab",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "max-memory-mb",
   propertySlug: "max-memory-mb",

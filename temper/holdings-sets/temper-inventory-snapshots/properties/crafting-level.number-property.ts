@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const craftingLevel = {
   id: "01a0675a-f185-7e56-a6c0-0df2e6c5b864",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "crafting-level",
   propertySlug: "crafting-level",

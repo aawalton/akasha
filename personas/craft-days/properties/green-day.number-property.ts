@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const greenDay = {
   id: "01a0655b-4a9b-7008-9a0b-56117a559064",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "green-day",
   propertySlug: "green-day",

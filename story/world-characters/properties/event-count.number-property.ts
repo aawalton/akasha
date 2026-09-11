@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const eventCount = {
   id: "01a0657a-9ccd-7a56-8e7f-edaa21e21771",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "event-count",
   propertySlug: "event-count",

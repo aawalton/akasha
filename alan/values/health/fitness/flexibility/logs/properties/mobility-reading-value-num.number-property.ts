@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const mobilityReadingValueNum = {
   id: "01a06558-36e9-7e9e-9c9b-5166a2ede396",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "mobility-reading-value-num",
   propertySlug: "mobility-reading-value-num",

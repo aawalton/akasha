@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const currentBalance = {
   id: "01a0680a-1a00-7003-ab52-6d3f8c9a1104",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "current-balance",
   propertySlug: "current-balance",

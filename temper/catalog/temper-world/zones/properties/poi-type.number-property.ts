@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const poiType = {
   id: "01a06167-3f9b-7000-9f20-1b7599e09e3c",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "poi-type",
   propertySlug: "poi-type",

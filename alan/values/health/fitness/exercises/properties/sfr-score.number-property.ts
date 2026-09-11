@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const sfrScore = {
   id: "01a0657e-2bc0-716f-a6c4-53b659cdb799",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "sfr-score",
   propertySlug: "sfr-score",

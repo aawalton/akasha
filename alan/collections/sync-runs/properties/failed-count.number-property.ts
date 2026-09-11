@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const failedCount = {
   id: "01a06861-f664-79a4-bf61-064bcd7e6204",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "failed-count",
   propertySlug: "failed-count",

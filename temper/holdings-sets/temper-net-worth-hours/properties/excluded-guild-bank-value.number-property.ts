@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const excludedGuildBankValue = {
   id: "01a06006-154d-7e2e-a167-9efa2ff3d358",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "excluded-guild-bank-value",
   propertySlug: "excluded-guild-bank-value",

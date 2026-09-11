@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const esoAntiquityCategoryId = {
   id: "01a06166-503b-7000-8733-81a510d764fc",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "eso-antiquity-category-id",
   propertySlug: "eso-antiquity-category-id",

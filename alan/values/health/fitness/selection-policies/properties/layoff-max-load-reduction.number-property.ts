@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const layoffMaxLoadReduction = {
   id: "01a06865-7f45-7e15-ac39-affe43c37b79",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "layoff-max-load-reduction",
   propertySlug: "layoff-max-load-reduction",

@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const traceLongitude = {
   id: "01a06935-68b4-7dc7-bd4f-591607dcc576",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "trace-longitude",
   propertySlug: "longitude",

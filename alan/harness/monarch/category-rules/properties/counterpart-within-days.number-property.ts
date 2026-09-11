@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const counterpartWithinDays = {
   id: "01a0680c-3c00-7004-9a36-5b8e2c7f3105",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "counterpart-within-days",
   propertySlug: "counterpart-within-days",

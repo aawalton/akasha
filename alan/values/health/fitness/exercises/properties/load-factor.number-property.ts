@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const loadFactor = {
   id: "01a0657e-2bbf-7aaa-8416-91fe9f47a3a9",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "load-factor",
   propertySlug: "load-factor",

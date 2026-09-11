@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const hazardsMarked = {
   id: "01a06579-e4f7-741f-a468-31a55899ac37",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "hazards-marked",
   propertySlug: "hazards-marked",

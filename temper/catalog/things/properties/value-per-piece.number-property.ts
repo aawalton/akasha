@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const valuePerPiece = {
   id: "01a05fe0-8428-7c08-a3df-30db8ae9ad6a",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "value-per-piece",
   propertySlug: "value-per-piece",

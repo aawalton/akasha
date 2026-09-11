@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const subagentStarted = {
   id: "01a08e51-10e7-7934-9e6b-b8a1583bd481",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "subagent-started",
   propertySlug: "started",

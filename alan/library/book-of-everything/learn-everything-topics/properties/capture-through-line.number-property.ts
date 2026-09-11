@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const captureThroughLine = {
   id: "01a0659f-93da-7007-991f-18353cf657a0",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "capture-through-line",
   propertySlug: "capture-through-line",

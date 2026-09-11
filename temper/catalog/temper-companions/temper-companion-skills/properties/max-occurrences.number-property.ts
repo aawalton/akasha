@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const maxOccurrences = {
   id: "01a06193-6cab-70b7-ab3c-01c5061dbc9e",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "max-occurrences",
   propertySlug: "max-occurrences",

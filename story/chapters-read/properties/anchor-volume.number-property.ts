@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const anchorVolume = {
   id: "01a0685e-ef8a-7c9f-83ab-bffc6078bb5e",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "anchor-volume",
   propertySlug: "volume",

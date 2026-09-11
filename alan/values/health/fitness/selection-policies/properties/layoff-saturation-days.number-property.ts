@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const layoffSaturationDays = {
   id: "01a06865-7f46-720e-adae-0de43a7b2070",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "layoff-saturation-days",
   propertySlug: "layoff-saturation-days",

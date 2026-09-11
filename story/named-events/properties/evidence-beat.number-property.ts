@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const evidenceBeat = {
   id: "01a0658b-9f41-7fdc-b27f-1f0abedae455",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "evidence-beat",
   propertySlug: "evidence-beat",

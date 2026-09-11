@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const esoCollectionIndex = {
   id: "01a06343-f9f7-7000-b21d-baade49cf0ed",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "eso-collection-index",
   propertySlug: "eso-collection-index",

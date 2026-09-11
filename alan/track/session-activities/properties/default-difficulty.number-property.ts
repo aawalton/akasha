@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const defaultDifficulty = {
   id: "01a06589-d117-76d4-b8fa-fc6d9a05beb4",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "default-difficulty",
   propertySlug: "default-difficulty",

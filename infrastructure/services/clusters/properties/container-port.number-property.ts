@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const containerPort = {
   id: "01a05b26-f8b6-79b3-99f7-89dda59659cc",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "container-port",
   propertySlug: "container-port",

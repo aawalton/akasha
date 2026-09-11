@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const repeatableType = {
   id: "01a05fcd-f553-7f0c-93bb-05bec8327fe5",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "repeatable-type",
   propertySlug: "repeatable-type",

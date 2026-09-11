@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const esoZoneId = {
   id: "01a06167-3f9a-7000-893b-ab22be7b8210",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "eso-zone-id",
   propertySlug: "eso-zone-id",

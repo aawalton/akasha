@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const holdingValue = {
   id: "01a0680a-1a00-7015-9c68-3f8a1d4e1115",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "holding-value",
   propertySlug: "holding-value",

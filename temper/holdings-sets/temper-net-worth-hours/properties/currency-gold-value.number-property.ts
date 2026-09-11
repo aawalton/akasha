@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const currencyGoldValue = {
   id: "01a06006-154c-7c0e-a5e5-e12741aab64d",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "currency-gold-value",
   propertySlug: "currency-gold-value",

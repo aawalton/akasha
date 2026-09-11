@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const esoCompanionId = {
   id: "01a05fcf-2468-705a-8ce6-cfcfa9a91f98",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "eso-companion-id",
   propertySlug: "eso-companion-id",

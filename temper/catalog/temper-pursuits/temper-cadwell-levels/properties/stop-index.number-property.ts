@@ -2,7 +2,6 @@ import type { NumberProperty } from "akasha/pages/number-properties/number-prope
 
 export const stopIndex = {
   id: "01a06180-7a17-7000-8c95-74fd69e6c770",
-  pageTypeSlug: "number-property",
   type: "number-property",
   slug: "stop-index",
   propertySlug: "stop-index",
