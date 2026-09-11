@@ -1,15 +1,15 @@
-import type * as vscode from "vscode"
-import { shellNameOf } from "../shell-naming/shell-naming.module.code.ts"
+import { shellNameOf } from "akasha/code-system/editor/extension/shell-naming/shell-naming.module.code.ts"
 import {
   lastAppliedByTerminal,
   lastColorByTerminal,
   SILENT_TERMINAL_NAME,
-} from "../terminal-marks/terminal-marks.module.code.ts"
+} from "akasha/code-system/editor/extension/terminal-marks/terminal-marks.module.code.ts"
 import {
   describeTerminal,
   type PidReading,
   PROCESS_ID_TIMEOUT_MS,
-} from "../terminal-pids/terminal-pids.module.code.ts"
+} from "akasha/code-system/editor/extension/terminal-pids/terminal-pids.module.code.ts"
+import type * as vscode from "vscode"
 
 export function syncColor(
   term: vscode.Terminal,
