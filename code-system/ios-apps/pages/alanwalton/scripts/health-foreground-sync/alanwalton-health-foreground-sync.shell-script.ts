@@ -19,6 +19,10 @@ export const alanwaltonHealthForegroundSync = {
     },
     {
       invariantKind: "departure",
+      statement: "The phone drains its health samples without anyone running a shortcut.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run the app started posts no notice and reports as every other run does.",
     },
     {
