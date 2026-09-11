@@ -2,14 +2,14 @@ import { join } from "node:path"
 import { PSEUDO_MAP_INDICES } from "akasha/temper/lib-map-data/map-data-pseudo-indices/map-data-pseudo-indices.module.code.ts"
 import { MAP_DATA } from "akasha/temper/lib-map-data/map-data-table/map-data-table.module.code.ts"
 import { makeLuaVm } from "akasha/temper/lua-runner/lua-vm/lua-vm.module.code.ts"
-import { LUA_DUMP } from "../leaf-dump/leaf-dump.module.code.ts"
+import { LUA_DUMP } from "akasha/temper/upstream-data/leaf-dump/leaf-dump.module.code.ts"
 import {
   gathered,
   leavesOf,
   ruledBetween,
   upstreamLeavesIn,
-} from "../upstream-leaf-reading/upstream-leaf-reading.module.code.ts"
-import type { Ruling } from "../upstream-libraries/upstream-libraries.module.code.ts"
+} from "akasha/temper/upstream-data/upstream-leaf-reading/upstream-leaf-reading.module.code.ts"
+import type { Ruling } from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
 
 const DATA_FILE = "LibMapData/LibMapData_Data.lua"
 

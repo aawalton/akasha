@@ -5,16 +5,16 @@ import {
   parsePorcelainStatusZ,
 } from "akasha/git/porcelain-status/porcelain-status.module.code.ts"
 import { addonUpstreamDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import {
   LIBSETS_UPSTREAM,
   type UpstreamPin,
-} from "../libsets-upstream-pin/libsets-upstream-pin.module.code.ts"
+} from "akasha/temper/upstream-data/libsets-upstream-pin/libsets-upstream-pin.module.code.ts"
 import {
   countBundleMarkers,
   type UpstreamProbe,
   verifyUpstream,
-} from "../libsets-upstream-verify/libsets-upstream-verify.module.code.ts"
+} from "akasha/temper/upstream-data/libsets-upstream-verify/libsets-upstream-verify.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 export interface UpstreamPaths {
   readonly checkoutRoot: string

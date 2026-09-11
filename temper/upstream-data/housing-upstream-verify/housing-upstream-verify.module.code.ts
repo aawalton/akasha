@@ -5,8 +5,8 @@ import { makeLuaVm } from "akasha/temper/lua-runner/lua-vm/lua-vm.module.code.ts
 import {
   gathered,
   ruledOverValues,
-} from "../upstream-leaf-reading/upstream-leaf-reading.module.code.ts"
-import type { Ruling } from "../upstream-libraries/upstream-libraries.module.code.ts"
+} from "akasha/temper/upstream-data/upstream-leaf-reading/upstream-leaf-reading.module.code.ts"
+import type { Ruling } from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
 
 const DATA_FILE = "PortToFriendsHouse/PortToFriendsHouseLibraryData.lua"
 

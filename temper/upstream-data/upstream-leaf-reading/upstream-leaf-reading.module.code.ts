@@ -1,6 +1,10 @@
 import type { LuaVm } from "akasha/temper/lua-runner/lua-vm/lua-vm.module.code.ts"
-import { agreedIn, dumpJsWalk, partedIn } from "../leaf-dump/leaf-dump.module.code.ts"
-import type { Ruling } from "../upstream-libraries/upstream-libraries.module.code.ts"
+import {
+  agreedIn,
+  dumpJsWalk,
+  partedIn,
+} from "akasha/temper/upstream-data/leaf-dump/leaf-dump.module.code.ts"
+import type { Ruling } from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
 
 function dumped(expression: string): string {
   return `local out = {} dump_walk(${expression}, "", out) table.sort(out) return table.concat(out, "\\n")`

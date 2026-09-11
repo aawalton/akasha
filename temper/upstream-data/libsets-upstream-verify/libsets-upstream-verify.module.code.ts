@@ -1,4 +1,4 @@
-import type { UpstreamPin } from "../libsets-upstream-pin/libsets-upstream-pin.module.code.ts"
+import type { UpstreamPin } from "akasha/temper/upstream-data/libsets-upstream-pin/libsets-upstream-pin.module.code.ts"
 
 export interface UpstreamProbe {
   readonly checkedOutCommit: string | undefined

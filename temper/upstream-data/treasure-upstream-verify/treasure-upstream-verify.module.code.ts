@@ -1,17 +1,16 @@
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
+import { BOOK_ID } from "akasha/temper/lib-treasure/treasure-book-ids/treasure-book-ids.module.code.ts"
+import { ICONS } from "akasha/temper/lib-treasure/treasure-icons/treasure-icons.module.code.ts"
+import { ALL_DATA } from "akasha/temper/lib-treasure/treasure-pins-data/treasure-pins-data.module.code.ts"
+import type { AllData } from "akasha/temper/lib-treasure/treasure-types/treasure-types.module.code.ts"
 import { makeLuaVm } from "akasha/temper/lua-runner/lua-vm/lua-vm.module.code.ts"
-import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
-import { BOOK_ID } from "../../lib-treasure/treasure-book-ids/treasure-book-ids.module.code.ts"
-import { ICONS } from "../../lib-treasure/treasure-icons/treasure-icons.module.code.ts"
-import { ALL_DATA } from "../../lib-treasure/treasure-pins-data/treasure-pins-data.module.code.ts"
-import type { AllData } from "../../lib-treasure/treasure-types/treasure-types.module.code.ts"
-
 import {
   gathered,
   ruledOverValues,
-} from "../upstream-leaf-reading/upstream-leaf-reading.module.code.ts"
-import type { Ruling } from "../upstream-libraries/upstream-libraries.module.code.ts"
+} from "akasha/temper/upstream-data/upstream-leaf-reading/upstream-leaf-reading.module.code.ts"
+import type { Ruling } from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 
 const DATA_FILE = "LibTreasure/data.lua"
 
