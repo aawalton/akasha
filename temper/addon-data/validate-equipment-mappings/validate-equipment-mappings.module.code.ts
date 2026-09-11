@@ -1,6 +1,8 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   COMPANION_ARMOR_WEIGHT_IDS,
   companionTraitIds,
@@ -9,7 +11,13 @@ import {
 import { equipmentQualities } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import { z } from "zod"
 
-const EQUIPMENT_MAPPINGS = "temper-bit-codec/equipment-mappings/equipment-mappings.module.code.ts"
+const MODULE = "module"
+
+const CODE = "code"
+
+const TS = "ts"
+
+const EQUIPMENT_MAPPINGS = "equipment-mappings"
 
 interface Table {
   readonly label: string
@@ -27,7 +35,15 @@ const TABLES: readonly Table[] = [
 const RAW_MATCH_OR_NULL = z.array(z.string()).min(2).nullable()
 
 function committedAt(): string {
-  return resolve(codeRoot(), "temper", EQUIPMENT_MAPPINGS)
+  const root = codeRoot()
+  const page = listedAt(root, MODULE, EQUIPMENT_MAPPINGS)[0]
+  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
+  if (at === null) {
+    throw new Error(
+      `no \`${MODULE}\` is slugged \`${EQUIPMENT_MAPPINGS}\`, so no table would be compared`
+    )
+  }
+  return resolve(root, at)
 }
 
 function parseEntriesBody(content: string, label: string): string | null {
@@ -48,7 +64,7 @@ export function validateEquipmentMappings(): boolean {
 
   if (!existsSync(equipmentPath)) {
     console.error(
-      `  Equipment validation FAILED: committed mappings file not found at ${equipmentPath} — the resolve() path is stale (the module moved). Repoint EQUIPMENT_MAPPINGS.`
+      `  Equipment validation FAILED: committed mappings file not found at ${equipmentPath} — the index names that path for the \`${EQUIPMENT_MAPPINGS}\` module and nothing is there.`
     )
     return false
   }
