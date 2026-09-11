@@ -3,6 +3,7 @@ import {
   offsetPageSchema,
   type PageStep,
   spotifyGet,
+  withQuery,
 } from "akasha/alan/music/spotify/client/spotify-client.module.code.ts"
 import { z } from "zod"
 
@@ -64,13 +65,13 @@ export type SearchParams = {
 }
 
 export function buildSearchPath(params: SearchParams): string {
-  const asked = new URLSearchParams()
-  asked.set("q", params.q)
-  asked.set("type", params.types.join(","))
-  if (params.limit !== undefined) asked.set("limit", String(params.limit))
-  if (params.offset !== undefined) asked.set("offset", String(params.offset))
-  if (params.market !== undefined) asked.set("market", params.market)
-  return `/search?${asked.toString()}`
+  return withQuery("/search", {
+    q: params.q,
+    type: params.types.join(","),
+    limit: params.limit,
+    offset: params.offset,
+    market: params.market,
+  })
 }
 
 export function search(params: SearchParams): Promise<SearchResponse> {

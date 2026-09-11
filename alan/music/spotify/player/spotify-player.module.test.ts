@@ -1,6 +1,7 @@
 import { afterAll, afterEach, beforeEach, expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
+import { withQuery } from "akasha/alan/music/spotify/client/spotify-client.module.code.ts"
 import {
   fetchingIs,
   fetchingIsOverHttp,
@@ -11,7 +12,6 @@ import {
   getRecentlyPlayed,
   pausePlayback,
   startResumePlayback,
-  withQuery,
 } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
 import { writeToken } from "akasha/alan/music/spotify/token-store/spotify-token-store.module.code.ts"
 

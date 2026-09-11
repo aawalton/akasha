@@ -86,5 +86,6 @@ export const spotifyClient = {
       invariantKind: "departure",
       statement: "Every read that pages follows `next` through this one module.",
     },
+    { invariantKind: "departure", statement: "Every query a path carries is written here." },
   ],
 } as const satisfies Module

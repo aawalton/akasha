@@ -1,4 +1,7 @@
-import { paginateOffset } from "akasha/alan/music/spotify/client/spotify-client.module.code.ts"
+import {
+  paginateOffset,
+  withQuery,
+} from "akasha/alan/music/spotify/client/spotify-client.module.code.ts"
 import { z } from "zod"
 
 export const TIME_RANGES = ["short_term", "medium_term", "long_term"] as const
@@ -37,7 +40,7 @@ export const topTrackSchema = z
 export type TopTrack = z.infer<typeof topTrackSchema>
 
 export function topItemsPath(entity: "artists" | "tracks", timeRange: TimeRange): string {
-  return `/me/top/${entity}?time_range=${timeRange}&limit=${PAGE_LIMIT}`
+  return withQuery(`/me/top/${entity}`, { time_range: timeRange, limit: PAGE_LIMIT })
 }
 
 export function getTopArtists(timeRange: TimeRange): Promise<TopArtist[]> {

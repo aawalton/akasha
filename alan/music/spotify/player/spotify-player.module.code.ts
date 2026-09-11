@@ -2,6 +2,7 @@ import {
   cursorPageSchema,
   spotifyGet,
   spotifyRequest,
+  withQuery,
 } from "akasha/alan/music/spotify/client/spotify-client.module.code.ts"
 import { z } from "zod"
 
@@ -96,18 +97,6 @@ export type StartResumeOptions = DeviceOption & {
 }
 
 export type RepeatState = "track" | "context" | "off"
-
-export function withQuery(
-  path: string,
-  params: Readonly<Record<string, string | number | boolean | undefined>>
-): string {
-  const search = new URLSearchParams()
-  for (const [key, value] of Object.entries(params)) {
-    if (value !== undefined) search.set(key, String(value))
-  }
-  const asked = search.toString()
-  return asked.length > 0 ? `${path}?${asked}` : path
-}
 
 async function put(path: string, body?: unknown): Promise<void> {
   await spotifyRequest(path, emptyBodySchema, {
