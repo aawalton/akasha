@@ -5,6 +5,7 @@ import {
   pathsIn,
   straysIn,
 } from "akasha/infrastructure/services/workstations/run-path-reading/run-path-reading.module.code.ts"
+import { MOVED_AT } from "akasha/infrastructure/services/workstations/run-path-reading/run-path-reading.module.test-fixtures.ts"
 
 const WATCHER_AT = "temper/watcher/a-watcher/a-watcher.module.code.ts"
 
@@ -31,7 +32,7 @@ const EXPORTER = "/home/linuxbrew/.linuxbrew/bin/node_exporter --web.listen-addr
 
 const LAUNCH = '/usr/bin/protontricks-launch --no-term "%h/Documents/Client.exe"'
 
-const MOVED = "service-system/workstations/service-watching/service-watching.module.code.ts"
+const MOVED = MOVED_AT
 
 const PAGE_PATH = "infrastructure/services/workstations/pages/a-service.service-workstation.ts"
 

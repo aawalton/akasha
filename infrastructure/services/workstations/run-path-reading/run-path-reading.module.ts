@@ -8,6 +8,7 @@ export const runPathReading = {
   definition: "the files of this repository a workstation service's run command names",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
