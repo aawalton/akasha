@@ -65,7 +65,7 @@ export const wardedAt: string = indexedRepo({
     pageTypeSlug: "page-type",
     slug: "warded",
     pluralSlug: "warded",
-    extendsSlug: ["page-type/module"],
+    extends: ["page-type/module"],
     properties: [
       { pagePropertySlug: "relation-property/note", required: false, many: false, secret: true },
     ],
@@ -101,7 +101,7 @@ export const wideAt: string = indexedRepo({
     id: idOf("e"),
     pageTypeSlug: "page-type",
     slug: "page-property-entry",
-    extendsSlug: ["page-type/page-property"],
+    extends: ["page-type/page-property"],
     properties: [],
   }),
   "akasha/sessions.page-property-entry.ts": bodyOf({
@@ -139,7 +139,7 @@ export const keptAt: string = indexedRepo({
     pageTypeSlug: "page-type",
     slug: "file-property",
     pluralSlug: "file-properties",
-    extendsSlug: ["page-type/page-property"],
+    extends: ["page-type/page-property"],
   }),
   "akasha/entries.file-property.ts": pageOf({
     id: keptId("1"),
@@ -152,7 +152,7 @@ export const keptAt: string = indexedRepo({
     pageTypeSlug: "page-type",
     slug: "kept",
     pluralSlug: "kepts",
-    extendsSlug: ["page-type/module"],
+    extends: ["page-type/module"],
     properties: [
       {
         pagePropertySlug: "file-property/entries",
@@ -189,7 +189,7 @@ export const wayAt: string = indexedRepo({
     pageTypeSlug: "page-type",
     slug: "file-property",
     pluralSlug: "file-properties",
-    extendsSlug: ["page-type/page-property"],
+    extends: ["page-type/page-property"],
   }),
   "akasha/manifest.file-property.ts": pageOf({
     id: wayId("1"),
@@ -203,7 +203,7 @@ export const wayAt: string = indexedRepo({
     pageTypeSlug: "page-type",
     slug: "workspace-package",
     pluralSlug: "workspace-packages",
-    extendsSlug: ["page-type/domain"],
+    extends: ["page-type/domain"],
     properties: [{ pagePropertySlug: "file-property/manifest", required: true, many: false }],
   }),
   "akasha/nine/nine.workspace-package.ts": pageOf({
