@@ -7,6 +7,7 @@ export const spotifyScopes = {
   slug: "spotify-scopes",
   definition: "what Alan consents to when he authorises this client",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
