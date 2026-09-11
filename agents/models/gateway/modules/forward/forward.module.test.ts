@@ -7,7 +7,10 @@ import type {
   IdleFetch,
   IdleTimers,
 } from "akasha/agents/models/gateway/modules/idle-timeout/idle-timeout.module.code.ts"
-import type { ObserverSlot } from "akasha/agents/models/gateway/modules/observer-slot/observer-slot.module.code.ts"
+import {
+  emptySlot,
+  type ObserverSlot,
+} from "akasha/agents/models/gateway/modules/observer-slot/observer-slot.module.code.ts"
 import type { ArmableStreamObserver } from "akasha/agents/models/gateway/modules/transport-log/transport-log.module.code.ts"
 
 const LOG_PREFIX = "[forward-test]"
@@ -92,10 +95,6 @@ function watch(observer: ArmableStreamObserver, calls: Call[]): undefined {
   }
 }
 
-function bareSlot(): ObserverSlot {
-  return { current: null }
-}
-
 function watchedSlot(calls: Call[], endInFlight?: () => undefined): ObserverSlot {
   let held: ArmableStreamObserver | null = null
   return {
@@ -121,7 +120,7 @@ afterEach(() => {
 test("the upstream url is the anthropic base with the path and the query", async () => {
   const sent: Sent[] = []
   const forward = forwardWith({ fetchImpl: sender(sent, plain) })
-  await forward(ask("/v1/messages?beta=true"), "tok", null, null, bareSlot())
+  await forward(ask("/v1/messages?beta=true"), "tok", null, null, emptySlot())
   expect(sent[0]?.url).toBe("https://api.anthropic.com/v1/messages?beta=true")
   expect(sent[0]?.init.method).toBe("POST")
 })
@@ -136,7 +135,7 @@ test("the hop-by-hop headers are dropped and the token becomes the bearer", asyn
     "content-length": "9",
     "anthropic-version": "2023-06-01",
   })
-  await forward(incoming, "upstream-token", null, null, bareSlot())
+  await forward(incoming, "upstream-token", null, null, emptySlot())
   const headers = new Headers(sent[0]?.init.headers)
   expect(headers.get("authorization")).toBe("Bearer upstream-token")
   expect(headers.get("anthropic-version")).toBe("2023-06-01")
@@ -149,14 +148,14 @@ test("a request handed no token carries the authorization it arrived with", asyn
   const sent: Sent[] = []
   const forward = forwardWith({ fetchImpl: sender(sent, plain) })
   const incoming = ask("/v1/messages", { authorization: "Bearer client" })
-  await forward(incoming, null, null, null, bareSlot())
+  await forward(incoming, null, null, null, emptySlot())
   expect(new Headers(sent[0]?.init.headers).get("authorization")).toBe("Bearer client")
 })
 
 test("a request holding no authorization of either sort is sent with none", async () => {
   const sent: Sent[] = []
   const forward = forwardWith({ fetchImpl: sender(sent, plain) })
-  await forward(ask("/v1/messages"), null, null, null, bareSlot())
+  await forward(ask("/v1/messages"), null, null, null, emptySlot())
   expect(new Headers(sent[0]?.init.headers).has("authorization")).toBe(false)
 })
 
@@ -164,7 +163,7 @@ test("the body buffer handed in is the body sent upstream", async () => {
   const sent: Sent[] = []
   const forward = forwardWith({ fetchImpl: sender(sent, plain) })
   const buffer = new ArrayBuffer(16)
-  await forward(ask("/v1/messages"), "tok", buffer, null, bareSlot())
+  await forward(ask("/v1/messages"), "tok", buffer, null, emptySlot())
   expect(sent[0]?.init.body).toBe(buffer)
 })
 
@@ -180,7 +179,7 @@ test("the response carries the upstream status and the copied headers", async ()
       },
     })
   const forward = forwardWith({ fetchImpl: sender([], make) })
-  const res = await forward(ask("/v1/messages"), "tok", null, null, bareSlot())
+  const res = await forward(ask("/v1/messages"), "tok", null, null, emptySlot())
   expect(res.status).toBe(429)
   expect(res.statusText).toBe("Too Many Requests")
   expect(res.headers.get("x-ratelimit-remaining")).toBe("0")
@@ -189,14 +188,14 @@ test("the response carries the upstream status and the copied headers", async ()
 })
 
 test("a slot carrying no end beside no log file is left holding nothing", async () => {
-  const slot = bareSlot()
+  const slot = emptySlot()
   const forward = forwardWith({ fetchImpl: sender([], plain) })
   await forward(ask("/v1/messages"), "tok", null, null, slot)
   expect(slot.current).toBe(null)
 })
 
 test("an observer is built where the slot carries an end", async () => {
-  const slot = bareSlot()
+  const slot = emptySlot()
   slot.endInFlight = (): undefined => {}
   const forward = forwardWith({ fetchImpl: sender([], plain) })
   await forward(ask("/v1/messages"), "tok", null, null, slot)
@@ -204,7 +203,7 @@ test("an observer is built where the slot carries an end", async () => {
 })
 
 test("an observer is built where a log file is handed in", async () => {
-  const slot = bareSlot()
+  const slot = emptySlot()
   const forward = forwardWith({
     fetchImpl: sender([], plain),
     logAt: "/var/tmp/fwd-build-9002/nowhere/nowhere.module.ts",
@@ -285,7 +284,7 @@ test("an idle guard is armed on the messages path", async () => {
     timers: fakeTimers(timing),
     fetchImpl: sender(sent, plain),
   })
-  const res = await forward(ask("/v1/messages"), "tok", null, "acct", bareSlot())
+  const res = await forward(ask("/v1/messages"), "tok", null, "acct", emptySlot())
   expect(timing.armed[0]?.ms).toBe(5000)
   expect(sent[0]?.init.signal).not.toBe(undefined)
   await res.text()
@@ -294,7 +293,7 @@ test("an idle guard is armed on the messages path", async () => {
 
 test("a guard that fires aborts the fetch the request is sent by", async () => {
   const timing: Timing = { armed: [], clears: 0 }
-  const slot = bareSlot()
+  const slot = emptySlot()
   slot.endInFlight = (): undefined => {}
   const forward = forwardWith({
     idleTimeoutMs: 5000,
@@ -320,7 +319,7 @@ test("a path neither messages API answers is sent unguarded", async () => {
     timers: fakeTimers(timing),
     fetchImpl: sender(sent, plain),
   })
-  await forward(ask("/v1/models"), "tok", null, "acct", bareSlot())
+  await forward(ask("/v1/models"), "tok", null, "acct", emptySlot())
   expect(timing.armed.length).toBe(0)
   expect(sent[0]?.init.signal).toBe(undefined)
 })
@@ -333,7 +332,7 @@ test("an idle span of zero leaves the request unguarded", async () => {
     timers: fakeTimers(timing),
     fetchImpl: sender(sent, plain),
   })
-  await forward(ask("/v1/messages/count_tokens"), "tok", null, "acct", bareSlot())
+  await forward(ask("/v1/messages/count_tokens"), "tok", null, "acct", emptySlot())
   expect(timing.armed.length).toBe(0)
   expect(sent[0]?.init.signal).toBe(undefined)
 })

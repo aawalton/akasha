@@ -5,6 +5,10 @@ export type ObserverSlot = {
   endInFlight?: () => void
 }
 
+export function emptySlot(): ObserverSlot {
+  return { current: null }
+}
+
 export function buildEndInFlightOnce(end: () => void): () => undefined {
   let ended = false
   return (): undefined => {
