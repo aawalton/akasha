@@ -20,7 +20,11 @@ export const relationNotLeftHanging = {
     },
     {
       invariantKind: "departure",
-      statement: "The pages naming the page taken away are read from the index the answer leaves.",
+      statement: "The pages naming the page taken away are read from the world before the change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether that name still reaches a page is read from the index the answer leaves.",
     },
     {
       invariantKind: "departure",
@@ -60,7 +64,7 @@ export const relationNotLeftHanging = {
     },
     {
       invariantKind: "gap",
-      statement: "A page the change rewrites files no edge to the page taken away.",
+      statement: "A page the answer rewrites is named by nothing here.",
     },
     {
       invariantKind: "gap",
