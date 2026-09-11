@@ -1,13 +1,18 @@
 import { describe, expect, test } from "bun:test"
-import type { SeatMode } from "../seat-mode/seat-mode.module.code.ts"
 import {
   agentPagesIn,
   assembleForest,
   countRows,
   countRunning,
   subagentKey,
-} from "./agent-forest.module.code.ts"
-import { NO_PLACES, NO_SUBAGENTS, row, subagent } from "./agent-forest.module.test-fixtures.ts"
+} from "akasha/code-system/editor/extension/agent-forest/agent-forest.module.code.ts"
+import {
+  NO_PLACES,
+  NO_SUBAGENTS,
+  row,
+  subagent,
+} from "akasha/code-system/editor/extension/agent-forest/agent-forest.module.test-fixtures.ts"
+import type { SeatMode } from "akasha/code-system/editor/extension/seat-mode/seat-mode.module.code.ts"
 
 const live = (...ids: string[]): ReadonlySet<string> => new Set(ids)
 

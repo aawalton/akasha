@@ -1,8 +1,8 @@
 import * as path from "node:path"
-import type { ForestAnswer } from "../agent-forest-answer/agent-forest-answer.module.code.ts"
-import type { AgentNode } from "../agent-row/agent-row.module.code.ts"
-import type { SeatMode } from "../seat-mode/seat-mode.module.code.ts"
-import type { SubagentNode } from "../subagent-reading/subagent-reading.module.code.ts"
+import type { ForestAnswer } from "akasha/code-system/editor/extension/agent-forest-answer/agent-forest-answer.module.code.ts"
+import type { AgentNode } from "akasha/code-system/editor/extension/agent-row/agent-row.module.code.ts"
+import type { SeatMode } from "akasha/code-system/editor/extension/seat-mode/seat-mode.module.code.ts"
+import type { SubagentNode } from "akasha/code-system/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 
 export const ALAN = "alan"
 
