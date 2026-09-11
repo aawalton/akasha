@@ -8,9 +8,7 @@ export const fileProperty = {
   definition: "a page property held in its own file",
   pluralSlug: "file-properties",
   parts: [
-    "boolean-property/holds-bytes",
     "boolean-property/generated",
-    "boolean-property/runs-file-length",
     "text-property/file-name",
     "boolean-property/tool-resolves-paths",
     "relation-property/file-written-by",

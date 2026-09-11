@@ -1,4 +1,4 @@
-export type Changes = {
+export type Changes = Readonly<{
   "change-agent/add-binary-file": Parameters<
     typeof import("akasha/changes/agent/file/add-binary-file/add-binary-file.change-agent.code.ts")["runChange"]
   >[1]
@@ -140,4 +140,4 @@ export type Changes = {
   "change-agent/rename-pages": Parameters<
     typeof import("akasha/changes/agent/file/rename-pages/rename-pages.change-agent.code.ts")["runChange"]
   >[1]
-}
+}>

@@ -18,6 +18,8 @@ export const pageProperty = {
     "text-property/property-slug",
     "text-property/rendered-as",
     "boolean-property/nullable",
+    "boolean-property/holds-bytes",
+    "boolean-property/runs-file-length",
   ],
   extends: ["page-type/domain"],
   properties: [
