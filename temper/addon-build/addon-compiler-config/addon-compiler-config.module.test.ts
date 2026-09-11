@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   bundleEntryPathIn,
   compilerConfigBody,
@@ -10,7 +10,7 @@ import {
   declaringDirs,
   esoAddonPagePathIn,
   reachedAddonDirs,
-} from "./addon-compiler-config.module.code.ts"
+} from "akasha/temper/addon-build/addon-compiler-config/addon-compiler-config.module.code.ts"
 
 const SCRATCH = scratchWorld()
 

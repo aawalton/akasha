@@ -1,5 +1,17 @@
 import { cpSync, existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import {
+  ADDONS_REL_ROOT,
+  DIST_UNDER,
+  writeLoadOrder,
+} from "akasha/temper/addon-build/addon-load-order/addon-load-order.module.code.ts"
+import {
+  addonBindingsPathIn,
+  BINDINGS_FILE_NAME,
+  GAME_METADATA_DIR,
+  namedFilePathOrNull,
+  namedFilePathsIn,
+} from "akasha/temper/addon-build/addon-metadata-files/addon-metadata-files.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
 import { OWNERSHIP_MARKER_FILE } from "akasha/temper/addons-resolve/folder-ownership/folder-ownership.module.code.ts"
@@ -9,18 +21,6 @@ import {
   siblingManifestsIn,
   siblingSourceDir,
 } from "akasha/temper/addons-resolve/sibling-addons/sibling-addons.module.code.ts"
-import {
-  ADDONS_REL_ROOT,
-  DIST_UNDER,
-  writeLoadOrder,
-} from "../addon-load-order/addon-load-order.module.code.ts"
-import {
-  addonBindingsPathIn,
-  BINDINGS_FILE_NAME,
-  GAME_METADATA_DIR,
-  namedFilePathOrNull,
-  namedFilePathsIn,
-} from "../addon-metadata-files/addon-metadata-files.module.code.ts"
 
 const EMPTY_MARKUP = "<GuiXml></GuiXml>\n"
 

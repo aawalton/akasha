@@ -2,15 +2,15 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { numberAt, textAt } from "akasha/pages/value/page-value.module.code.ts"
+import {
+  compilerConfigPathFor,
+  TSCONFIG_NAME,
+} from "akasha/temper/addon-build/addon-compiler-config/addon-compiler-config.module.code.ts"
 import type { AddonManifest } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import {
-  compilerConfigPathFor,
-  TSCONFIG_NAME,
-} from "../addon-compiler-config/addon-compiler-config.module.code.ts"
 
 export const BUILD_ID_FILE = "build-id.lua"
 
