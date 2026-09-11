@@ -12,6 +12,7 @@ export const subagent = {
   parts: [
     "boolean-property/subagent-returned",
     "module/subagent-presence",
+    "number-property/subagent-started",
     "relation-property/subagent-kind",
     "text-property/agent-id",
   ],
@@ -22,6 +23,12 @@ export const subagent = {
     { pageProperty: "text-property/agent-id", required: true, many: false },
     {
       pageProperty: "boolean-property/subagent-returned",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "number-property/subagent-started",
       required: false,
       many: false,
       uncommitted: true,

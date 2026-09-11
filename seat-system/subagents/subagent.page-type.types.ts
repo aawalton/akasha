@@ -4,6 +4,7 @@ import type { DispatchedAs } from "akasha/seat-system/subagent-kinds/properties/
 import type { AgentId } from "akasha/seat-system/subagents/properties/agent-id.text-property.types.ts"
 import type { SubagentKind } from "akasha/seat-system/subagents/properties/subagent-kind.relation-property.types.ts"
 import type { SubagentReturned } from "akasha/seat-system/subagents/properties/subagent-returned.boolean-property.types.ts"
+import type { SubagentStarted } from "akasha/seat-system/subagents/properties/subagent-started.number-property.types.ts"
 
 export type Subagent = Agent & {
   principalSeatName: PrincipalSeatName
@@ -11,4 +12,5 @@ export type Subagent = Agent & {
   subagentKind?: SubagentKind
   agentId: AgentId
   returned?: SubagentReturned
+  started?: SubagentStarted
 }
