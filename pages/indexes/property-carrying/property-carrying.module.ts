@@ -137,5 +137,13 @@ export const propertyCarrying = {
       invariantKind: "departure",
       statement: "A face built again works it out again.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Whether a tool resolves the paths in the file at a path is answered here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only a property naming a file says a tool resolves the paths in that file.",
+    },
   ],
 } as const satisfies Module

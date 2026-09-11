@@ -185,6 +185,11 @@ export const checkReachesAPathThroughTheIndex = {
       statement: "A file a page property says a machine writes is judged by nothing here.",
     },
     {
+      invariantKind: "absence",
+      statement:
+        "A file a page property says a tool resolves the paths in is judged by nothing here.",
+    },
+    {
       invariantKind: "departure",
       statement:
         "A body whose language is not parsed is read as the runs of path characters that body holds.",

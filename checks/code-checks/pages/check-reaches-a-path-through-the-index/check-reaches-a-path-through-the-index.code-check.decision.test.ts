@@ -242,10 +242,13 @@ const STRAY = "akasha/stray.json"
 
 const MADE = "akasha/made.json"
 
+const RESOLVED = "akasha/resolved.json"
+
 const ASKED: Asked = {
   types: TYPES,
   listed: (path) => path !== STRAY,
   generated: (path) => path === MADE,
+  toolResolvesPaths: (path) => path === RESOLVED,
 }
 
 const SHELL = "akasha/one.thing.shell.sh"
@@ -270,6 +273,10 @@ test("a file the index names for no page is judged by nothing", () => {
 
 test("a file a page property says a machine writes is judged by nothing", () => {
   expect(judgingOver(ASKED)(MADE)).toBe(false)
+})
+
+test("a file a page property says a tool resolves the paths in is judged by nothing", () => {
+  expect(judgingOver(ASKED)(RESOLVED)).toBe(false)
 })
 
 test("a file held uncommitted is judged by nothing", () => {

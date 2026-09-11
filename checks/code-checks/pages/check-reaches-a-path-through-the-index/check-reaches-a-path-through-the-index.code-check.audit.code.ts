@@ -3,6 +3,7 @@ import { pageTypesIn } from "akasha/pages/indexes/entries/index-entries.module.c
 import {
   facingOn,
   generatedIn,
+  toolResolvesPathsIn,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 import { everyPath, listedByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { everythingIn } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -23,6 +24,7 @@ export function checkReachesAPathThroughTheIndex(root: string): readonly Judged[
     types: pageTypesIn(root),
     listed: (path) => listedByPath(root, path).length > 0,
     generated: (path) => generatedIn(facing, path),
+    toolResolvesPaths: (path) => toolResolvesPathsIn(facing, path),
   })
   const change = everythingIn(root)
   const said: Judged[] = []

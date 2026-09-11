@@ -18,6 +18,8 @@ import {
   generates,
   heldBeside,
   type Naming,
+  toolResolvesPaths,
+  toolResolvesPathsIn,
 } from "./property-carrying.module.code.ts"
 
 const scratch = scratchWorld()
@@ -220,6 +222,32 @@ test("a property saying nothing of a machine says nothing of its value", () => {
 
 test("a property saying an author writes its file says nothing of its value", () => {
   expect(generates({ generated: false })).toBe(false)
+})
+
+test("a property saying a tool resolves the paths in its file says so of its value", () => {
+  expect(toolResolvesPaths({ toolResolvesPaths: true })).toBe(true)
+})
+
+test("a property saying nothing of a tool says nothing of its value", () => {
+  expect(toolResolvesPaths({ fileName: "package.json" })).toBe(false)
+})
+
+function facingSaying(value: Value | null): Facing {
+  return {
+    kindsUnder: () => ["file-property"],
+    everyOfType: () => [{ path: NAMING.path }],
+    valueAt: () => value,
+    carryingOf: carryingAt(OWNER),
+  }
+}
+
+test("a file beside a property saying a tool resolves its paths is answered so", () => {
+  const said = { fileName: "bun.lock", toolResolvesPaths: true }
+  expect(toolResolvesPathsIn(facingSaying(said), "bun.lock")).toBe(true)
+})
+
+test("a file beside a property saying nothing of a tool is answered no", () => {
+  expect(toolResolvesPathsIn(facingSaying({ fileName: "bun.lock" }), "bun.lock")).toBe(false)
 })
 
 const ENTRIES = idOf("9")

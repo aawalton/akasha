@@ -294,6 +294,7 @@ export type Asked = {
   readonly types: ReadonlySet<string>
   readonly listed: (path: string) => boolean
   readonly generated: (path: string) => boolean
+  readonly toolResolvesPaths: (path: string) => boolean
 }
 
 export function judgingOver(asked: Asked): (path: string) => boolean {
@@ -301,6 +302,7 @@ export function judgingOver(asked: Asked): (path: string) => boolean {
   return (path) => {
     if (typed(path)) return coded(path)
     if (uncommittedHeld(path)) return false
-    return asked.listed(path) && !asked.generated(path)
+    if (!asked.listed(path)) return false
+    return !asked.generated(path) && !asked.toolResolvesPaths(path)
   }
 }

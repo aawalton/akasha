@@ -2,6 +2,7 @@ import { textIn } from "akasha/code-system/body-text/body-text.module.code.ts"
 import {
   type Facing,
   generatedIn,
+  toolResolvesPathsIn,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
@@ -44,6 +45,7 @@ function judgedFor(shadow: Shadow): (path: string) => boolean {
     types: shadow.index.pageTypesIn(),
     listed: (path) => shadow.index.listedByPath(path).length > 0,
     generated: (path) => generatedIn(facingFor(shadow), path),
+    toolResolvesPaths: (path) => toolResolvesPathsIn(facingFor(shadow), path),
   })
   JUDGED.set(shadow, made)
   return made

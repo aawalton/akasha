@@ -25,6 +25,8 @@ const FILE_NAME = "fileName"
 
 const GENERATED = "generated"
 
+const TOOL_RESOLVES_PATHS = "toolResolvesPaths"
+
 const FILE_PROPERTY = "file-property"
 
 const PROPERTY_SLUG = "propertySlug"
@@ -150,6 +152,10 @@ export function generates(value: Value): boolean {
   return value[GENERATED] === true
 }
 
+export function toolResolvesPaths(value: Value): boolean {
+  return value[TOOL_RESOLVES_PATHS] === true
+}
+
 function kindedIn(given: string | Reading): Kinded {
   const held = new Map<string, Value>()
   const filling = (kind: string): undefined => {
@@ -205,6 +211,14 @@ export function generatedIn(given: Facing, path: string): boolean {
     const held = derivedFor(given)
     if (sectionHeld(path, held.slugs)) return true
     return heldBeside(path, held.naming, generates, given.carryingOf)
+  } catch {
+    return false
+  }
+}
+
+export function toolResolvesPathsIn(given: Facing, path: string): boolean {
+  try {
+    return heldBeside(path, derivedFor(given).naming, toolResolvesPaths, given.carryingOf)
   } catch {
     return false
   }
