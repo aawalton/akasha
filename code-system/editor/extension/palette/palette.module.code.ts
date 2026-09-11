@@ -7,6 +7,7 @@ import {
   YELLOW,
 } from "akasha/design/interfaces/tokens/semantic-color/semantic-color.module.code.ts"
 import type { Rgb } from "akasha/design/interfaces/tokens/surface-color/surface-color.module.code.ts"
+import { TEXT_PRIMARY } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
 
 const PALETTE: Readonly<Record<string, Rgb>> = {
   blue: BLUE,
@@ -14,6 +15,7 @@ const PALETTE: Readonly<Record<string, Rgb>> = {
   orange: ORANGE,
   purple: PURPLE,
   red: RED,
+  text: TEXT_PRIMARY,
   yellow: YELLOW,
 }
 

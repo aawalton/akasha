@@ -7,10 +7,19 @@ export const palette = {
   slug: "palette",
   definition: "the color names the editor admits and the hex triplet each name answers with",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A color here is a semantic color the design tokens have.",
+      statement: "A color here is a color the design tokens have.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every color a turn state names is a name here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The color a stopped seat names answers with the text color.",
     },
     {
       invariantKind: "departure",
