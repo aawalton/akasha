@@ -1,3 +1,4 @@
+import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
 import { FLEX } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import { pageValuesOf } from "../seat-page-values/seat-page-values.module.code.ts"
 import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
@@ -25,12 +26,8 @@ function nameOf(agent: string): string | null {
   return seatNameForAgent(seat)
 }
 
-function parseFlexCapture(found: RegExpExecArray | null): string | null {
-  return found === null ? null : (found[1] as string)
-}
-
 export function flexInName(name: string): string | null {
-  return parseFlexCapture(FLEX_IN_NAME.exec(name))
+  return firstCapture(FLEX_IN_NAME.exec(name))
 }
 
 export function flexOf(agent: string): FlexRecord | null {

@@ -10,6 +10,7 @@ import { fileStemOf } from "akasha/pages/identity/file-page/file-page.module.cod
 import { fileKeysAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { landRemovals } from "akasha/seat-system/gated-landing/gated-landing.module.code.ts"
+import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
 import { dropReadings } from "../../../commands/modules/reading/reading.module.code.ts"
 
 const DEFAULT_KEEP_DAYS = 7
@@ -43,10 +44,6 @@ export interface DaysRead {
   readonly unjudged: readonly string[]
 }
 
-function parseDayDate(found: RegExpExecArray | null): string | null {
-  return found === null ? null : (found[1] as string)
-}
-
 export function daysIn(root: string): DaysRead {
   const found: DayFacts[] = []
   const unjudged: string[] = []
@@ -60,7 +57,7 @@ export function daysIn(root: string): DaysRead {
       unjudged.push(name)
       continue
     }
-    const date = parseDayDate(DATE.exec(text))
+    const date = firstCapture(DATE.exec(text))
     if (date === null) {
       unjudged.push(name)
       continue
