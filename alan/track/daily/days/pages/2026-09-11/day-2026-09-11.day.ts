@@ -11,10 +11,10 @@ export const day20260911 = {
   nutritionPoints: 360,
   wisdomWords: 0,
   intelligenceTopics: 0,
-  inboxTasks: 6,
+  inboxTasks: 5,
   inboxTasksClearedToday: false,
   inboxTemperTasks: 14,
   inboxTemperTasksClearedToday: false,
-  lowestEmailInboxCount: 0,
   sessions: "jsonl",
+  lowestEmailInboxCount: 0,
 } as const satisfies Day
