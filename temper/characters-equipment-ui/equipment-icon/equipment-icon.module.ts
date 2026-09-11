@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const equipmentIcon = {
   id: "01a06333-1bba-7ed5-888a-b5a3ca70eacf",

@@ -1,7 +1,7 @@
 import {
   type EquipmentQualityOptionId,
   equipmentQualities,
-} from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+} from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 
 export function getQualityVariant(
   quality: EquipmentQualityOptionId,

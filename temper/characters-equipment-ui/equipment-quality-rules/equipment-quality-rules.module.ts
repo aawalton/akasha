@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const equipmentQualityRules = {
   id: "01a06333-1bcc-79b7-bb9c-18d82e7b134a",
