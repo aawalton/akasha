@@ -1,4 +1,7 @@
-import { everyRow, textAt } from "../page-query/page-query.module.code.ts"
+import {
+  everyRow,
+  textAt,
+} from "akasha/alan/collections/great-courses/page-query/page-query.module.code.ts"
 
 const GREAT_COURSES_SUBJECT_SLUG = "great-courses-subject"
 

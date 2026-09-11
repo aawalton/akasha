@@ -1,4 +1,4 @@
-import type { Sync } from "../../sync.page-type.types.ts"
+import type { Sync } from "akasha/alan/collections/syncs/sync.page-type.types.ts"
 
 export const royalRoad = {
   id: "01a06861-f664-73fd-a5db-03ac63ef2331",

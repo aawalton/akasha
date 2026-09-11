@@ -1,4 +1,4 @@
-import type { RoyalRoadAccount } from "../../royal-road-account.page-type.types.ts"
+import type { RoyalRoadAccount } from "akasha/alan/collections/royal-road-accounts/royal-road-account.page-type.types.ts"
 
 export const alan = {
   id: "01a01257-3e4f-7000-a256-37b02dd285cb",

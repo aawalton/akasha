@@ -1,4 +1,7 @@
-import type { Course, Subject } from "../course-types/course-types.module.code.ts"
+import type {
+  Course,
+  Subject,
+} from "akasha/alan/collections/great-courses/course-types/course-types.module.code.ts"
 
 export function mapCourseToSubjects(
   course: Course,

@@ -1,6 +1,6 @@
+import type { Collection } from "akasha/alan/collections/collection.page-type.types.ts"
+import type { CollectionCompletion } from "akasha/alan/collections/properties/collection-completion.computed-property.types.ts"
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
-import type { Collection } from "../collection.page-type.types.ts"
-import type { CollectionCompletion } from "./collection-completion.computed-property.types.ts"
 
 export const work: Work<Collection, CollectionCompletion> = (page) => {
   const length = page.totalLengthInWords

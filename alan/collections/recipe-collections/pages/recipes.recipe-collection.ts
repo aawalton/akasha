@@ -1,4 +1,4 @@
-import type { RecipeCollection } from "../recipe-collection.page-type.types.ts"
+import type { RecipeCollection } from "akasha/alan/collections/recipe-collections/recipe-collection.page-type.types.ts"
 
 export const recipes = {
   id: "01a06808-ddb3-7005-ac78-a301272de1c6",

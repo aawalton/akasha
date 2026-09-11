@@ -1,4 +1,4 @@
-import type { SyncResult } from "../sync-outcome/sync-outcome.module.code.ts"
+import type { SyncResult } from "akasha/alan/collections/great-courses/sync-outcome/sync-outcome.module.code.ts"
 
 const SYNC_RUN_SLUG = "sync-run"
 

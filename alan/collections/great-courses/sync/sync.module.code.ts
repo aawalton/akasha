@@ -1,20 +1,26 @@
-import { extractExternalIdFromUrl, getCatalogData } from "../catalogue/catalogue.module.code.ts"
-import { mapCourseToSubjects } from "../course-mapping/course-mapping.module.code.ts"
-import { findAllCourses } from "../courses-query/courses-query.module.code.ts"
-import { createCourse } from "../create-course/create-course.module.code.ts"
-import { pageTitled, textAt } from "../page-query/page-query.module.code.ts"
+import {
+  extractExternalIdFromUrl,
+  getCatalogData,
+} from "akasha/alan/collections/great-courses/catalogue/catalogue.module.code.ts"
+import { mapCourseToSubjects } from "akasha/alan/collections/great-courses/course-mapping/course-mapping.module.code.ts"
+import { findAllCourses } from "akasha/alan/collections/great-courses/courses-query/courses-query.module.code.ts"
+import { createCourse } from "akasha/alan/collections/great-courses/create-course/create-course.module.code.ts"
+import {
+  pageTitled,
+  textAt,
+} from "akasha/alan/collections/great-courses/page-query/page-query.module.code.ts"
 import {
   shouldRunGreatCoursesSync,
   updateRootParentLastSyncedAt,
-} from "../root-parent-query/root-parent-query.module.code.ts"
-import { findSubjectCollections } from "../subject-collections-query/subject-collections-query.module.code.ts"
+} from "akasha/alan/collections/great-courses/root-parent-query/root-parent-query.module.code.ts"
+import { findSubjectCollections } from "akasha/alan/collections/great-courses/subject-collections-query/subject-collections-query.module.code.ts"
 import {
   classifyError,
   combineSyncResults,
   logError,
   type SyncResult,
   toError,
-} from "../sync-outcome/sync-outcome.module.code.ts"
+} from "akasha/alan/collections/great-courses/sync-outcome/sync-outcome.module.code.ts"
 
 const GREAT_COURSES_COLLECTION_SLUG = "great-courses-collection"
 const ALL_GREAT_COURSES_TITLE = "All Great Courses"

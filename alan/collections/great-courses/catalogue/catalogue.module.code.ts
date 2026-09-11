@@ -1,4 +1,3 @@
-import { JSDOM, VirtualConsole } from "jsdom"
 import type {
   Course,
   CourseData,
@@ -6,13 +5,14 @@ import type {
   Episode,
   Subject,
   SubjectList,
-} from "../course-types/course-types.module.code.ts"
+} from "akasha/alan/collections/great-courses/course-types/course-types.module.code.ts"
 import {
   classifyError,
   logError,
   retryWithBackoff,
   toError,
-} from "../sync-outcome/sync-outcome.module.code.ts"
+} from "akasha/alan/collections/great-courses/sync-outcome/sync-outcome.module.code.ts"
+import { JSDOM, VirtualConsole } from "jsdom"
 
 const SOURCE_URL = "https://plus.thegreatcourses.com/allprograms"
 

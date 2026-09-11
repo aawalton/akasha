@@ -1,4 +1,4 @@
-import type { CollectionType } from "../collection-type.page-type.types.ts"
+import type { CollectionType } from "akasha/alan/collections/types/collection-type.page-type.types.ts"
 
 export const release = {
   id: "01a06579-855d-7012-a45a-0f4a23d26caa",

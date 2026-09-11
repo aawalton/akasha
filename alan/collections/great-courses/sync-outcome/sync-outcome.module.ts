@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const syncOutcome = {
   id: "01a06580-196a-7000-9451-e53d200e3e2d",
