@@ -37,6 +37,7 @@ export const inferencePool = {
     "shell-script/ollama-provision",
     "shell-script/segment-rembg-provision",
     "shell-script/traffic-cop-provision",
+    "inference-service/moss-tts",
   ],
   invariants: [
     {
