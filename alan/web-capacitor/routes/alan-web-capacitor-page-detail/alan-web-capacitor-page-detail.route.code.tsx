@@ -20,6 +20,7 @@ import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.m
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { lazy, Suspense } from "react"
 import { useParams } from "react-router"
+import { NotFoundNotice } from "../../not-found-notice/not-found-notice.module.code.tsx"
 
 const NAV_SLUG = "nav"
 
@@ -70,7 +71,7 @@ function PageDetailDispatch({
     pageTypeSlug === READING_STORY_SLUG ? page?._id : undefined
   )
 
-  if (parsed === null) return <NotFound />
+  if (parsed === null) return <NotFoundNotice />
   if (isLoading) {
     return (
       <main className="mx-auto max-w-2xl p-6 text-primary">
@@ -80,7 +81,7 @@ function PageDetailDispatch({
   }
   if (page === null) {
     if (!isOnline && configDisplay === "chess-review") return <OfflineReviewUncached />
-    return <NotFound />
+    return <NotFoundNotice />
   }
 
   const genericBody = (
@@ -153,15 +154,6 @@ function PageDetailDispatch({
     default:
       return assertNever(displayKind)
   }
-}
-
-function NotFound() {
-  return (
-    <main className="mx-auto flex max-w-2xl flex-col gap-4 p-6 text-primary">
-      <h1 className="font-semibold text-lg">Not found</h1>
-      <p className="text-secondary">This page couldn’t be found.</p>
-    </main>
-  )
 }
 
 function OfflineReviewUncached() {

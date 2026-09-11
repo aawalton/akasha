@@ -5,6 +5,7 @@ import { useAllPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useMemo } from "react"
 import { useParams, useSearchParams } from "react-router"
+import { NotFoundNotice } from "../../not-found-notice/not-found-notice.module.code.tsx"
 
 const PAGE_TYPE_SLUG = "page-type"
 
@@ -40,21 +41,12 @@ export default function CapacitorPageListing() {
       </main>
     )
   }
-  if (resolvedSlug === null) return <NotFound />
+  if (resolvedSlug === null) return <NotFoundNotice />
 
   return (
     <PagesFilteredContent
       pageTypeSlug={toPageTypeSlug(resolvedSlug)}
       searchParams={parsedSearchParams}
     />
-  )
-}
-
-function NotFound() {
-  return (
-    <main className="mx-auto flex max-w-2xl flex-col gap-4 p-6 text-primary">
-      <h1 className="font-semibold text-lg">Not found</h1>
-      <p className="text-secondary">This page couldn’t be found.</p>
-    </main>
   )
 }
