@@ -165,6 +165,18 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
+      statement: "What putting a thing up cost is kept beside the page that thing was read from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is counted is the putting up rather than the reading and judging before it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A dry run keeps no cost, since a dry run puts nothing up.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A commit kept here is uncommitted, so no deploy lands a commit of its own.",
     },
     {

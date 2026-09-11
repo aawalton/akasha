@@ -1,3 +1,4 @@
+import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
@@ -46,6 +47,7 @@ import { putUpService } from "akasha/infrastructure/services/workstations/servic
 const INPUT = 1
 const DATA = 2
 const OPERATIONAL = 3
+const PUT_UP = "deploy"
 const DRY_RUN = "--dry-run"
 const NO_UPLOAD = "--no-upload"
 const MEASURED = "--measured"
@@ -206,7 +208,11 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
   if (unjudged.length > 0) {
     return answering([`commit\t${commit}`], [...unjudged, ...noting()], DATA)
   }
+  const before = opening()
   const answer = await putUp(read, slug, commit, rest, given)
+  if (!dry) {
+    costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, answer.refusals.length)
+  }
   const lines = [`commit\t${commit}`, ...answer.report]
   if (answer.code !== 0 || answer.refusals.length > 0) {
     return answering(lines, [...answer.refusals, ...noting()], answer.code)
