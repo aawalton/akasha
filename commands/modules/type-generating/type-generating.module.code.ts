@@ -4,14 +4,8 @@ import type { Adding, Replacing } from "akasha/changes/modules/answer/change-ans
 import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
 import { formattedBody } from "akasha/code-system/code-format/code-format.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import {
-  type Facing,
-  facingOn,
-  generatedIn,
-} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
-import { importersIn, readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { readingIn, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
@@ -27,15 +21,19 @@ const GENERATOR = "type-generator"
 
 const GENERATOR_AT = "typeGenerator"
 
-const TYPES = "types"
-
 const GENERATES = "generateTypes"
+
+const TURNS = "couldTurn"
 
 const loadFrom = createRequire(import.meta.url)
 
 export type Generating = (root: string, shadow: Shadow) => readonly Adding[]
 
-export type Reached = { readonly generating: Generating } | { readonly missing: string }
+export type Turning = (change: Change) => boolean
+
+export type Reached =
+  | { readonly generating: Generating; readonly turning?: Turning }
+  | { readonly missing: string }
 
 export type Reaching = (root: string, at: string) => Reached
 
@@ -59,7 +57,9 @@ export function generatingIn(root: string, at: string): Reached {
   }
   const named = held[GENERATES]
   if (typeof named !== "function") return { missing: `it answers to no \`${GENERATES}\`` }
-  return { generating: named as Generating }
+  const said = held[TURNS]
+  if (typeof said !== "function") return { generating: named as Generating }
+  return { generating: named as Generating, turning: said as Turning }
 }
 
 type Answered = { readonly written: readonly Adding[] } | { readonly missing: string }
@@ -100,6 +100,7 @@ export function typedOver(
       )
       continue
     }
+    if (reached.turning !== undefined && !reached.turning(change)) continue
     const answered = writtenBy(reached.generating, change.root, shadow)
     if ("missing" in answered) {
       said.push(
@@ -123,39 +124,26 @@ export function typedOver(
   return { edits, said }
 }
 
-function generatedReader(facing: Facing, reading: Reading, path: string): boolean {
-  for (const one of importersIn(reading, path)) {
-    if (generatedIn(facing, one)) return true
-  }
-  return false
+function askedOf(change: Change, reaching: Reaching, path: string): boolean {
+  const beside = generatorAt(path)
+  if (beside === null) return false
+  const reached = reaching(change.root, beside)
+  if ("missing" in reached) return true
+  const turning = reached.turning
+  return turning === undefined || turning(change)
 }
 
-function readByGenerated(root: string, paths: readonly string[]): boolean {
-  const reading = readingIn(root)
-  const facing = facingOn(reading)
-  for (const path of paths) {
-    if (generatedReader(facing, reading, path)) return true
+export function turnsFor(change: Change, reaching: Reaching = generatingIn): boolean {
+  for (const one of valuesOfType(readingIn(change.root), PAGE_TYPE)) {
+    if (one.value[GENERATOR_AT] !== HOLDS) continue
+    if (askedOf(change, reaching, one.path)) return true
   }
   return false
-}
-
-export function couldTurn(change: Change): boolean {
-  const pages: string[] = []
-  for (const path of change.changed) {
-    const said = partedIn(path)
-    if (said === null || said.held !== HOLDS) continue
-    if (said.sections.includes(GENERATOR)) return true
-    if (said.sections.includes(TYPES)) return true
-    if (said.sections.length > 0) continue
-    if (said.pageType === PAGE_TYPE) return true
-    pages.push(path)
-  }
-  return pages.length > 0 && readByGenerated(change.root, pages)
 }
 
 export function typesFor(change: Change): Typed {
   try {
-    if (!couldTurn(change)) return NOTHING_TYPED
+    if (!turnsFor(change)) return NOTHING_TYPED
     const cast = shadowFor(change)
     if ("refused" in cast) return NOTHING_TYPED
     return typedOver(change, cast.shadow)

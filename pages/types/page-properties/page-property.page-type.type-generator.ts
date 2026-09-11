@@ -1,9 +1,11 @@
 import type { Adding } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { keysFor, resolvingIn } from "akasha/pages/types/page-type.page-type.type-generator.ts"
+import { turnedBy } from "akasha/pages/types/type-turning/type-turning.module.code.ts"
 
 const PAGE_PROPERTY = "page-property"
 
@@ -202,6 +204,10 @@ export function bodyFor(slug: string, written: Written, many: boolean, nothing: 
   const said = nothing ? `${listed} | null` : listed
   const lines = [...imports, ...(imports.length === 0 ? [] : [""])]
   return `${[...lines, `export type ${typedAs(slug)} = ${said}`].join("\n")}\n`
+}
+
+export function couldTurn(change: Change): boolean {
+  return turnedBy(change)
 }
 
 export function generateTypes(_root: string, shadow: Shadow): readonly Adding[] {

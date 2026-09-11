@@ -22,8 +22,16 @@ export const typeGenerator = {
       statement: "That function answers the bodies to write rather than writing them.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here says when the code runs.",
+      invariantKind: "departure",
+      statement: "The code here may export a function named `couldTurn`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That function says whether a change could turn what this generator writes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The code exporting no such function is run over every change.",
     },
   ],
   types: "ts",

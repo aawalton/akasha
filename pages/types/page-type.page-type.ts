@@ -12,6 +12,7 @@ export const pageType = {
     "module/page-type-folder",
     "module/page-type-gathering",
     "module/declared-properties",
+    "module/type-turning",
     "boolean-property/allows-tmp-paths",
     "boolean-property/frame-edge-to-edge",
     "boolean-property/frame-focus-mode",

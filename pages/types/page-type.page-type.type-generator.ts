@@ -1,8 +1,10 @@
 import type { Adding } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import { turnedBy } from "akasha/pages/types/type-turning/type-turning.module.code.ts"
 import { slugsIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const ROOT = "akasha/"
@@ -168,6 +170,10 @@ export function bodyFor(slug: string, parents: readonly Taken[], keys: readonly 
     "}",
   ]
   return `${lines.join("\n")}\n`
+}
+
+export function couldTurn(change: Change): boolean {
+  return turnedBy(change)
 }
 
 export function generateTypes(_root: string, shadow: Shadow): readonly Adding[] {

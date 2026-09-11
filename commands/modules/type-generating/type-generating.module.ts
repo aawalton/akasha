@@ -67,7 +67,23 @@ export const typeGenerating = {
     },
     {
       invariantKind: "departure",
-      statement: "What a change could turn is read from the names of the paths that change has.",
+      statement: "What a change could turn is asked of each generator rather than worked out here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which page types state a generator is read from the index before the change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A generator saying nothing about what a change turns is run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A generator that could not be loaded is run rather than passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A generator saying the change turns nothing writes no type for that change.",
     },
     {
       invariantKind: "departure",
@@ -85,21 +101,6 @@ export const typeGenerating = {
       invariantKind: "absence",
       statement:
         "`loadedBy` names a page type, and only one stating a generator is loaded, so nothing declares it.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A path a generated body imports could turn a type whether the change writes or takes it.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Which bodies import that path is read from the index before the change rather than the shadow.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "That reading is taken only where the names of the changed paths answered nothing.",
     },
   ],
 } as const satisfies Module
