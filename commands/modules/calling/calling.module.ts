@@ -39,17 +39,8 @@ export const calling = {
       statement: "The file with a command's code is answered from the page the index names.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "The command that repairs the index is found through the index as every other command is.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The index is built again where no command is found through the index.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The code that repairs the index is imported rather than named by a path.",
+      invariantKind: "gap",
+      statement: "No call here refreshes the index, whatever the index is missing.",
     },
     {
       invariantKind: "departure",
