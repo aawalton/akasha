@@ -1,8 +1,8 @@
 import "akasha/temper/eso-types/eso-functions-02/eso-functions-02.type-declaration.d.ts"
-import { EU_LIBRARY_DATA } from "../housing-library-data-eu/housing-library-data-eu.module.code.ts"
-import { NA_LIBRARY_DATA } from "../housing-library-data-na/housing-library-data-na.module.code.ts"
-import { portToFriend } from "../housing-state/housing-state.module.code.ts"
-import type { LibraryEntry } from "../housing-types/housing-types.module.code.ts"
+import { EU_LIBRARY_DATA } from "akasha/temper/housing-addon/housing-library-data-eu/housing-library-data-eu.module.code.ts"
+import { NA_LIBRARY_DATA } from "akasha/temper/housing-addon/housing-library-data-na/housing-library-data-na.module.code.ts"
+import { portToFriend } from "akasha/temper/housing-addon/housing-state/housing-state.module.code.ts"
+import type { LibraryEntry } from "akasha/temper/housing-addon/housing-types/housing-types.module.code.ts"
 
 function createEuDataList(this: void) {
   portToFriend.libData.euData = EU_LIBRARY_DATA

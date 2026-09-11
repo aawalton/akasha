@@ -1,7 +1,7 @@
 import "akasha/temper/eso-types/eso-extra/eso-extra.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { portToFriend } from "../housing-state/housing-state.module.code.ts"
-import { asVcControls } from "../housing-visit-cards-view/housing-visit-cards-view.module.code.ts"
+import { portToFriend } from "akasha/temper/housing-addon/housing-state/housing-state.module.code.ts"
+import { asVcControls } from "akasha/temper/housing-addon/housing-visit-cards-view/housing-visit-cards-view.module.code.ts"
 
 function vcBdOnMouseEnter(this: void, index: number): undefined {
   const vc = asVcControls(portToFriend.controls.vc)

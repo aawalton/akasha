@@ -3,8 +3,8 @@ import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { portToFriend } from "../housing-state/housing-state.module.code.ts"
-import type { SortedMyHouse } from "../housing-types/housing-types.module.code.ts"
+import { portToFriend } from "akasha/temper/housing-addon/housing-state/housing-state.module.code.ts"
+import type { SortedMyHouse } from "akasha/temper/housing-addon/housing-types/housing-types.module.code.ts"
 
 interface TlwView {
   IsHidden: (this: TlwView) => boolean

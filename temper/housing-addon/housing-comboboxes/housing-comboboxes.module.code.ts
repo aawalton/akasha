@@ -3,7 +3,7 @@ import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declarati
 import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { portToFriend } from "../housing-state/housing-state.module.code.ts"
+import { portToFriend } from "akasha/temper/housing-addon/housing-state/housing-state.module.code.ts"
 
 let UNIQUE_NAME_COUNTER = 0
 

@@ -4,8 +4,11 @@ import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { getPtfSavedVars, portToFriend } from "../housing-state/housing-state.module.code.ts"
-import type { PurchasedHouse } from "../housing-types/housing-types.module.code.ts"
+import {
+  getPtfSavedVars,
+  portToFriend,
+} from "akasha/temper/housing-addon/housing-state/housing-state.module.code.ts"
+import type { PurchasedHouse } from "akasha/temper/housing-addon/housing-types/housing-types.module.code.ts"
 
 interface ListSlider {
   IsHidden: (this: ListSlider) => boolean

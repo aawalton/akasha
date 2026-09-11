@@ -1,7 +1,7 @@
 import {
   ADDON_NAME,
   ADDON_VERSION,
-} from "../housing-addon-names/housing-addon-names.module.code.ts"
+} from "akasha/temper/housing-addon/housing-addon-names/housing-addon-names.module.code.ts"
 
 export interface TemperHousingApi {
   ADDON_NAME: typeof ADDON_NAME

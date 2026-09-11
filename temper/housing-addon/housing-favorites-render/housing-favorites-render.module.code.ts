@@ -4,8 +4,8 @@ import "akasha/temper/eso-types/eso-objects-01/eso-objects-01.type-declaration.d
 import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import { portToFriend } from "../housing-state/housing-state.module.code.ts"
-import type { Favorite } from "../housing-types/housing-types.module.code.ts"
+import { portToFriend } from "akasha/temper/housing-addon/housing-state/housing-state.module.code.ts"
+import type { Favorite } from "akasha/temper/housing-addon/housing-types/housing-types.module.code.ts"
 
 interface HousePanel {
   scrollPanel: Control

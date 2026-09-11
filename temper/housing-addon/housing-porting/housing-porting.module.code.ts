@@ -5,7 +5,7 @@ import "akasha/temper/eso-types/eso-functions-08/eso-functions-08.type-declarati
 import "akasha/temper/eso-types/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { portToFriend } from "../housing-state/housing-state.module.code.ts"
+import { portToFriend } from "akasha/temper/housing-addon/housing-state/housing-state.module.code.ts"
 
 interface EditboxControl {
   GetText: (this: EditboxControl) => string

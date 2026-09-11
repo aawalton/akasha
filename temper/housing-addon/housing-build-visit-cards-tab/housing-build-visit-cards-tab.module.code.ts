@@ -10,8 +10,8 @@ import {
   asTreeNode,
   controlsTree,
   nilName,
-} from "../housing-build-casts/housing-build-casts.module.code.ts"
-import { portToFriend } from "../housing-state/housing-state.module.code.ts"
+} from "akasha/temper/housing-addon/housing-build-casts/housing-build-casts.module.code.ts"
+import { portToFriend } from "akasha/temper/housing-addon/housing-state/housing-state.module.code.ts"
 
 export function buildVcTab(this: void): undefined {
   const c = controlsTree(portToFriend.controls)

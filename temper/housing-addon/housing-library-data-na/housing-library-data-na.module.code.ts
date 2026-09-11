@@ -1,4 +1,4 @@
-import type { LibraryEntry } from "../housing-types/housing-types.module.code.ts"
+import type { LibraryEntry } from "akasha/temper/housing-addon/housing-types/housing-types.module.code.ts"
 
 export const NA_LIBRARY_DATA: LibraryEntry[] = [
   {

@@ -1,4 +1,4 @@
-import type { PortToFriendMenuHolder } from "../housing-state-types/housing-state-types.module.code.ts"
+import type { PortToFriendMenuHolder } from "akasha/temper/housing-addon/housing-state-types/housing-state-types.module.code.ts"
 
 function asPortToFriendMenuHolder(value: unknown): PortToFriendMenuHolder {
   return value as PortToFriendMenuHolder
