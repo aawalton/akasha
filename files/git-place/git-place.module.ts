@@ -4,29 +4,41 @@ export const gitPlace = {
   id: "01a05361-09df-7452-a3cc-9443498c1d89",
   type: "module",
   slug: "git-place",
-  definition: "where akasha keeps what it works out, under the folder git does not track",
+  definition: "every store akasha keeps under the folder git does not track",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The place is said here alone.",
+      statement: "Every store is named here and nowhere else.",
     },
     {
       invariantKind: "departure",
-      statement: "A path under the place is named by the owner of that path.",
+      statement: "The folder git does not track is named here once.",
     },
     {
       invariantKind: "departure",
-      statement: "The place is answered both under a root and on its own.",
+      statement: "A store is one name directly under that folder.",
     },
     {
       invariantKind: "departure",
-      statement: "A guard settles the place against a root.",
+      statement: "The stores are answered as one list, which is what a sweep reads.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the place as text.",
+      statement: "A path under a store is named by the owner of that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A store is answered both under a root and on its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A guard settles a store against a root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names a store as text.",
     },
     {
       invariantKind: "absence",
@@ -34,7 +46,7 @@ export const gitPlace = {
     },
     {
       invariantKind: "absence",
-      statement: "Where the place sits is an answer.",
+      statement: "Where a store sits is an answer.",
     },
     {
       invariantKind: "absence",
@@ -42,23 +54,11 @@ export const gitPlace = {
     },
     {
       invariantKind: "absence",
-      statement: "The files the place has are not said here.",
+      statement: "The files a store has are not said here.",
     },
     {
       invariantKind: "absence",
-      statement: "The index names its own place.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "The read record names its own place.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "A test's seeded warrants name their own place.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Those places are not known here.",
+      statement: "A name git keeps for itself is no store.",
     },
   ],
 } as const satisfies Module
