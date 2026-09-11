@@ -133,9 +133,8 @@ export const moveCodeExport = {
       statement: "A carried import joins the line the landing body already takes from that path.",
     },
     {
-      invariantKind: "gap",
-      statement:
-        "Two carried names from one path the landing body does not take are written as two lines.",
+      invariantKind: "departure",
+      statement: "Carried names sharing one path are written as one import line.",
     },
   ],
   changeKind: "change-mechanical",

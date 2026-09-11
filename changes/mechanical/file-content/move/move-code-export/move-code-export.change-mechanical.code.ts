@@ -7,15 +7,16 @@ import type {
 import {
   anchorIn,
   type Carried,
-  everyFor,
   everyIn,
   importsIn,
   lineFor,
+  linesOf,
   namedIn,
   namesIn,
   namingOf,
   namingsIn,
   openedIn,
+  type Taking,
   withName,
   withoutName,
   withoutOne,
@@ -121,8 +122,8 @@ function namedAs(name: string, one: Carrying): string {
   return one.naming === name ? name : `${one.naming} as ${name}`
 }
 
-function lineAs(name: string, spelled: string, one: Carrying): string {
-  return one.every ? everyFor(name, spelled) : lineFor(namedAs(name, one), spelled, one.type)
+function takingOf(name: string, spelled: string, one: Carrying): Taking {
+  return { name: namedAs(name, one), from: spelled, type: one.type, every: one.every }
 }
 
 function spelledFor(given: Asked, from: string): string {
@@ -141,10 +142,12 @@ function bodyFor(
   given: Asked,
   naming: Naming
 ): string {
-  const lines = [...carried]
-    .filter(([, named]) => !ownIn(given, named.from, naming))
-    .sort((one, two) => one[1].from.localeCompare(two[1].from))
-    .map(([name, one]) => lineAs(name, spelledFor(given, one.from), one))
+  const lines = linesOf(
+    [...carried]
+      .filter(([, named]) => !ownIn(given, named.from, naming))
+      .sort((one, two) => one[1].from.localeCompare(two[1].from))
+      .map(([name, one]) => takingOf(name, spelledFor(given, one.from), one))
+  )
   const held = `${passage.replace(/^\n+/, "").trimEnd()}${LINE}`
   return lines.length === 0 ? held : `${lines.join(LINE)}${LINE}${LINE}${held}`
 }
@@ -280,7 +283,7 @@ function ontoFor(
   const landed = gone === null ? whole : whole.replace(gone.old, gone.new)
   const source = parsedAs(given.to, landed)
   const held = new Map([...importsIn(source), ...everyIn(source)])
-  const lines: string[] = []
+  const taking: Taking[] = []
   let text = landed
   let read = source
   for (const [name, one] of carried) {
@@ -295,13 +298,13 @@ function ontoFor(
     }
     const joined = one.every ? null : withName(text, read, spelled, namedAs(name, one), one.type)
     if (joined === null) {
-      lines.push(lineAs(name, spelled, one))
+      taking.push(takingOf(name, spelled, one))
       continue
     }
     text = text.replace(joined.old, joined.new)
     read = parsedAs(given.to, text)
   }
-  const opened = openedIn(text, read, lines)
+  const opened = openedIn(text, read, linesOf(taking))
   const trimmed = passage.replace(/^\n+/, "").trimEnd()
   return { at: given.to, old: whole, new: `${opened.trimEnd()}${LINE}${LINE}${trimmed}${LINE}` }
 }

@@ -5,6 +5,7 @@ import {
   everyIn,
   importsIn,
   lineFor,
+  linesOf,
   namedIn,
   namesIn,
   namingOf,
@@ -158,6 +159,32 @@ test("every name a body's import lines bind is answered by the name at its sourc
 
   expect(found.get("held")).toBe("one")
   expect(found.get("two")).toBe("two")
+})
+
+function taking(name: string, from: string, type = false, every = false) {
+  return { name, from, type, every }
+}
+
+test("names sharing one path are written as one line, and a namespace never joins", () => {
+  expect(
+    linesOf([
+      taking("one", AT_HELD),
+      taking("held", "./two.module.code.ts", false, true),
+      taking("two", AT_HELD),
+    ])
+  ).toEqual([
+    `import * as held from "./two.module.code.ts"`,
+    `import { one, two } from "${AT_HELD}"`,
+  ])
+})
+
+test("a line of names is marked type throughout only where every name is a type", () => {
+  expect(linesOf([taking("Held", AT_HELD, true), taking("Kept", AT_HELD, true)])).toEqual([
+    `import type { Held, Kept } from "${AT_HELD}"`,
+  ])
+  expect(linesOf([taking("one", AT_HELD), taking("Kept", AT_HELD, true)])).toEqual([
+    `import { one, type Kept } from "${AT_HELD}"`,
+  ])
 })
 
 test("a body taking nothing from that path, or already naming it, is left whole", () => {

@@ -122,6 +122,13 @@ export type Other = {
 }
 `
 
+export const TWO_CARRIED = `import { dirname, join } from "node:path"
+
+export const AT = join(dirname("a"), "b")
+
+export const KEPT = dirname("c")
+`
+
 export const OTHER_PATH = `import { dirname } from "node:path"
 
 export const OTHER = dirname("x")

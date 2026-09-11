@@ -88,5 +88,10 @@ export const importLines = {
       statement:
         "Every name a body's import lines bind is answered together with the name at its source.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Names taken from one path are written as one line, and a namespace name as a line of its own.",
+    },
   ],
 } as const satisfies Module

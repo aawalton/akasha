@@ -25,6 +25,7 @@ import {
   STILL,
   TAKEN,
   TO,
+  TWO_CARRIED,
   takenAt,
   USES,
   USING,
@@ -216,6 +217,17 @@ test("a carried import joins the line the landing body already takes from that p
   const put = puttingAt(said, TO).join("")
   expect(put).toContain(`import { dirname, join } from "node:path"`)
   expect(put.split(`from "node:path"`).length - 1).toBe(1)
+})
+
+const NODE_PATH = `from "node:path"`
+
+test("carried names sharing one path are written as one line", async () => {
+  const given = { from: FROM, to: TO, of: "AT" }
+  const made = await runChange(worldOf({ [FROM]: TWO_CARRIED }), given)
+  const onto = await runChange(worldOf({ [FROM]: TWO_CARRIED, [TO]: BARE }), given)
+
+  expect(addedAt(made, TO).split(NODE_PATH).length - 1).toBe(1)
+  expect(puttingAt(onto, TO).join("").split(NODE_PATH).length - 1).toBe(1)
 })
 
 test("a landing body naming that import from another path is refused", async () => {

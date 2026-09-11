@@ -93,6 +93,33 @@ export function everyFor(name: string, spelled: string): string {
   return `import ${EVERY} as ${name} from ${JSON.stringify(spelled)}`
 }
 
+export type Taking = {
+  readonly name: string
+  readonly from: string
+  readonly type: boolean
+  readonly every: boolean
+}
+
+export function linesOf(taking: readonly Taking[]): readonly string[] {
+  const lines: string[] = []
+  const found = new Map<string, Taking[]>()
+  for (const one of taking) {
+    if (one.every) {
+      lines.push(everyFor(one.name, one.from))
+      continue
+    }
+    const held = found.get(one.from)
+    if (held === undefined) found.set(one.from, [one])
+    else held.push(one)
+  }
+  for (const [from, held] of found) {
+    const whole = held.every((one) => one.type)
+    const names = held.map((one) => (whole || !one.type ? one.name : `type ${one.name}`))
+    lines.push(`import ${whole ? "type " : ""}{ ${names.join(", ")} } from ${JSON.stringify(from)}`)
+  }
+  return lines
+}
+
 export function withoutOne(
   text: string,
   one: ts.ImportDeclaration,
