@@ -7,4 +7,5 @@ export const eppieAgentStopHook = {
   slug: "eppie-agent-stop-hook",
   domain: "domain/hook",
   persona: "eppie",
+  constraints: ["A refusal reminds an agent of a directive Alan's own page states."],
 } as const satisfies Initiative
