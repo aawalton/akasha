@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperCaptureDescriptor = {
   id: "01a06053-3638-7139-bd21-390fdc77e0f0",
