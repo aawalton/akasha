@@ -21,6 +21,7 @@ export const supabaseRr = {
     "module/auth-client",
     "module/auth-server",
     "module/auth-guard",
+    "module/root-loader",
     "module/supabase-provider",
     "module/client-env-define",
   ],

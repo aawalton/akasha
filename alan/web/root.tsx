@@ -2,10 +2,8 @@ import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-no
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
 import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
-import {
-  type AuthRouteConfig,
-  authGuard,
-} from "akasha/alan/harness/supabase-rr/auth-guard/auth-guard.module.code.ts"
+import type { AuthRouteConfig } from "akasha/alan/harness/supabase-rr/auth-guard/auth-guard.module.code.ts"
+import { guardedRootData } from "akasha/alan/harness/supabase-rr/root-loader/root-loader.module.code.ts"
 import { CommandPalette } from "akasha/design/interfaces/primitives/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/interfaces/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
@@ -18,7 +16,6 @@ import {
 import type React from "react"
 import { useEffect } from "react"
 import {
-  data,
   isRouteErrorResponse,
   Links,
   Meta,
@@ -108,9 +105,7 @@ export const meta: Route.MetaFunction = () => [
 ]
 
 export async function loader({ request, context }: Route.LoaderArgs) {
-  const guard = await authGuard(request, AUTH_CONFIG)
-  if (guard instanceof Response) return guard
-  return data({ nonce: context.nonce }, { headers: guard.headers })
+  return guardedRootData(request, AUTH_CONFIG, context.nonce)
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {
