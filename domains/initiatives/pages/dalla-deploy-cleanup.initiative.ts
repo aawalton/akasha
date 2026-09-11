@@ -16,7 +16,7 @@ export const dallaDeployCleanup = {
     {
       statement: "No competing akasha build or deploy command exists.",
       workingMemory:
-        "`infrastructure-workload-apply`, `infrastructure service install`, the three buildctl shell scripts, `akasha ios-app build` and `akasha mobile deploy device` are all deleted. `akasha deploy <slug>` builds and pushes a container recipe's image, ships an ios app to TestFlight, installs one on a simulator under `--simulator` and onto the plugged-in phone under `--device`. Left: whether `akasha inference-apply`, the talos commands and the temper addon commands are rivals, which is Alan's to settle.",
+        "Deleted so far: `infrastructure-workload-apply`, `infrastructure service install`, three buildctl shell scripts, `akasha ios-app build` and `akasha mobile deploy device`. Alan ruled the rest: inference services get a page type beside the cluster and workstation service and go up through the command; a temper addon deploys rather than building then installing, and the addon bundle build and publish join the tempereso.com web app deploy; talos is machine provisioning rather than a deploy.",
     },
   ],
   constraints: [
