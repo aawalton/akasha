@@ -35,6 +35,22 @@ export const pathRuns = {
     },
     {
       invariantKind: "departure",
+      statement: "A run states whether a shell variable opens the path that run is part of.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shell variable is a `$` before a name, with or without braces around it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A `$` a path character sits before opens nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A `$` before no name is no shell variable.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A line is numbered from one.",
     },
     {

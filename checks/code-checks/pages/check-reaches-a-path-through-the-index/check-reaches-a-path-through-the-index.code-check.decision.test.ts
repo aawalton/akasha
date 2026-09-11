@@ -14,6 +14,7 @@ import {
   CONTAINERFILE,
   DOTTED,
   HELD,
+  HUMMING,
   MADE,
   NAMED,
   naming,
@@ -319,8 +320,14 @@ test("a run of a body whose language is not parsed that names a page is refused"
   expect(said[0]).toContain("line 1")
 })
 
-test("a run is read again from each separator, and a path after a variable is read", () => {
-  expect(ran(`cp $ROOT/${YELLOW} .\n`)).toHaveLength(1)
+test("a run a shell variable opens is no path, one it fills a segment of is", () => {
+  expect(ran(`cp $ROOT/${YELLOW} .\n`)).toEqual([])
+  expect(ran(`cp up/$KIND/${YELLOW} .\n`)).toHaveLength(1)
+})
+
+test("a literal a shell variable opens is no path, one it fills a segment of is", () => {
+  expect(only(`const at = "$ROOT/${HUMMING}"\n`)).toEqual([])
+  expect(only(`const at = "at/$KIND/${HUMMING}"\n`)).toHaveLength(1)
 })
 
 test("a run naming a folder above a page is let through", () => {

@@ -160,6 +160,7 @@ export function askingOver(paths: readonly string[]): Reaching {
 
 function readingIn(said: string, asking: Asking): Reached | null {
   for (const run of runsIn(said)) {
+    if (run.rooted) continue
     for (let at = 0; at < run.said.length; at += 1) {
       const one = run.said[at] ?? ""
       if (at > 0 && one.startsWith(PARTED_AT)) continue
@@ -318,6 +319,7 @@ function typedIn(asking: Asking, naming: Naming, path: string, text: string): re
 function ranIn(asking: Asking, text: string): readonly string[] {
   const said: string[] = []
   for (const run of runsIn(text)) {
+    if (run.rooted) continue
     for (const one of run.said) {
       const found = asking(one)
       if (found === null || !found.page) continue

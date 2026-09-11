@@ -7,9 +7,11 @@ import {
 
 export const YELLOW = "design/colors/pages/yellow.color.ts"
 
+export const HUMMING = "utils/hum/humming/humming.module.code.ts"
+
 export const HELD = [
   YELLOW,
-  "utils/hum/humming/humming.module.code.ts",
+  HUMMING,
   "pages/hum-formats/modules/hum-matching/hum-matching.module.code.ts",
 ]
 
@@ -60,4 +62,4 @@ export const TWICE = [ONE, TWO]
 
 export const nearer = askingOver(TWICE)
 
-export const BUILT = 'podman build -f "$PKG_DIR/image/Containerfile"\n'
+export const BUILT = `podman build -f build/${CONTAINERFILE}\n`

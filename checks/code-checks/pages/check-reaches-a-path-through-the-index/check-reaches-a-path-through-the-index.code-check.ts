@@ -149,6 +149,19 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
+      statement: "A run a shell variable opens names a place the shell picks at run time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No reading of such a run is asked of the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run whose own opening is spelled is asked though a variable fills a segment after it.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A reading opening with a dot is a reach from the folder the spelling file sits in.",
     },
