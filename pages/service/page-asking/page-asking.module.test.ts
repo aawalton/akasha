@@ -112,22 +112,22 @@ test("a page type nothing extends and no page is filed under is answered empty",
 })
 
 test("a page type extending the one named is answered too", () => {
-  const rows = rowsOf(asking(root, { pageTypeSlug: "collection", keys: ["pageTypeSlug"] }))
-  const said = new Set(rows.map((one) => one.pageTypeSlug))
+  const rows = rowsOf(asking(root, { pageTypeSlug: "collection", keys: ["type"] }))
+  const said = new Set(rows.map((one) => one.type))
   expect(rows.length).toBeGreaterThan(1000)
   expect(said.has("book")).toBe(true)
   expect(said.has("song")).toBe(true)
 })
 
 test("a row carries the page type its own page states rather than the one named", () => {
-  const rows = rowsOf(asking(root, { pageTypeSlug: "collection", keys: ["pageTypeSlug"] }))
-  expect(rows.some((one) => one.pageTypeSlug === "collection")).toBe(false)
+  const rows = rowsOf(asking(root, { pageTypeSlug: "collection", keys: ["type"] }))
+  expect(rows.some((one) => one.type === "collection")).toBe(false)
 })
 
 test("a page type nothing extends answers its own pages alone", () => {
-  const rows = rowsOf(asking(root, { pageTypeSlug: "invariant-kind", keys: ["pageTypeSlug"] }))
+  const rows = rowsOf(asking(root, { pageTypeSlug: "invariant-kind", keys: ["type"] }))
   expect(rows.length).toBe(6)
-  for (const one of rows) expect(one.pageTypeSlug).toBe("invariant-kind")
+  for (const one of rows) expect(one.type).toBe("invariant-kind")
 })
 
 test("a calculation the page type named declares is worked out over a page of a type under it", () => {
@@ -135,10 +135,10 @@ test("a calculation the page type named declares is worked out over a page of a 
     asking(root, {
       pageTypeSlug: "collection",
       where: { slug: { is: "a-thousand-li-the-first-step" } },
-      keys: ["pageTypeSlug", "ownLength", "ownProgress", "ownRemaining"],
+      keys: ["type", "ownLength", "ownProgress", "ownRemaining"],
     })
   )
-  expect(rows[0]?.pageTypeSlug).toBe("book")
+  expect(rows[0]?.type).toBe("book")
   expect(rows[0]?.ownLength).toBe(76750)
   expect(rows[0]?.ownRemaining).toBe(0)
 })
