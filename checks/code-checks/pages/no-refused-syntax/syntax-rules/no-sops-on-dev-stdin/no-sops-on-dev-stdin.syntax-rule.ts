@@ -43,7 +43,7 @@ export const noSopsOnDevStdin = {
       statement: "The call's own name is not asked.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "A path built by joining or interpolating is not seen.",
     },
     {
