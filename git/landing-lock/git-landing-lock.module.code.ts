@@ -1,10 +1,9 @@
 import { readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { HARNESS_LANDING_LOCK } from "akasha/files/git-place/git-place.module.code.ts"
 import { holderProcessRuns } from "akasha/files/lock-holder-runs/lock-holder-runs.module.code.ts"
-import { git } from "akasha/git/capping/git-capping.module.code.ts"
+import { gitDirIn } from "akasha/git/dir/git-dir.module.code.ts"
 import { pause } from "akasha/utils/waiting/thread-pause/thread-pause.module.code.ts"
-
-const LANDING_LOCK = "harness-landing.lock"
 
 export const LANDING_CEILING_MS = 120_000
 const LANDING_POLL_MS = 250
@@ -14,10 +13,8 @@ export type LandingOutcome<T> =
   | { readonly ok: false; readonly reason: string }
 
 function landingLockPath(root: string): string | null {
-  const found = git(root, ["rev-parse", "--git-common-dir"])
-  if (found.code !== 0) return null
-  const dir = found.stdout
-  return join(dir.startsWith("/") ? dir : join(root, dir), LANDING_LOCK)
+  const dir = gitDirIn(root)
+  return dir === null ? null : join(dir, HARNESS_LANDING_LOCK)
 }
 
 export function whileHoldingLanding<T>(
