@@ -48,4 +48,5 @@ export const temperCaptureDataminingAddon = {
       statement: "The game writes saved variables only as the client shuts down.",
     },
   ],
+  deployedCommit: "a7614535df9e31c7814d25c95c26da6644037920",
 } as const satisfies EsoAddon
