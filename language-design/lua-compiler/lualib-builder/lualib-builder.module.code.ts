@@ -273,6 +273,38 @@ function resolveLualibTsconfig(luaTarget: LuaTarget): string {
   return path.join(lualibRoot, configName)
 }
 
+function hostTaking(
+  takenInstead: ReadonlyMap<string, string>,
+  options: ts.CompilerOptions
+): ts.CompilerHost {
+  const host = ts.createCompilerHost(options)
+  if (takenInstead.size === 0) return host
+  host.resolveModuleNameLiterals = (
+    literals,
+    containingFile,
+    redirectedReference,
+    moduleOptions,
+    _containingSourceFile,
+    _reusedNames
+  ) =>
+    literals.map((literal) => {
+      const resolved = ts.resolveModuleName(
+        literal.text,
+        containingFile,
+        moduleOptions,
+        host,
+        undefined,
+        redirectedReference
+      )
+      const found = resolved.resolvedModule
+      if (found === undefined) return resolved
+      const instead = takenInstead.get(found.resolvedFileName)
+      if (instead === undefined) return resolved
+      return { ...resolved, resolvedModule: { ...found, resolvedFileName: instead } }
+    })
+  return host
+}
+
 export function buildLuaLib(luaTarget: LuaTarget): BuiltLuaLib {
   const cached = cache.get(luaTarget)
   if (cached) return cached
@@ -291,6 +323,7 @@ export function buildLuaLib(luaTarget: LuaTarget): BuiltLuaLib {
   const program = ts.createProgram({
     rootNames: sources.rootNames,
     options: parsedConfig.options,
+    host: hostTaking(sources.takenInstead, parsedConfig.options),
   })
 
   const plugin = createLuaLibPlugin(sources.featureBySourceName)

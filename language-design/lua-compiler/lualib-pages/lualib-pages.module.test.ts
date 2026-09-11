@@ -80,6 +80,26 @@ test("a build for Lua 5.0 passes over the scanned code file of a page holding Lu
   expect(held.rootNames).toContain(UNPACK_LUA50)
 })
 
+test("a build for Lua 5.0 takes a page's Lua 5.0 code in place of that page's code", () => {
+  const held = sourcesFrom(SCANNED, [UNPACK], true)
+  expect(held.takenInstead.get(UNPACK.codePath)).toBe(UNPACK_LUA50)
+})
+
+test("a build that is not for Lua 5.0 takes no file in place of another", () => {
+  const held = sourcesFrom(SCANNED, [UNPACK], false)
+  expect(held.takenInstead.size).toBe(0)
+})
+
+test("a page holding no Lua 5.0 code has no file taken in place of its code", () => {
+  const held = sourcesFrom(SCANNED, [ARRAY_AT], true)
+  expect(held.takenInstead.size).toBe(0)
+})
+
+test("an import naming the code of a page holding Lua 5.0 code names that page's feature", () => {
+  const held = sourcesFrom(SCANNED, [UNPACK], true)
+  expect(held.featureBySourceName.get("unpack.lualib.code")).toBe("Unpack")
+})
+
 test("two pages naming one lualib feature refuse the build", () => {
   const bare: LualibPage = {
     pagePath: "/lua-compiler/lualibs/well-known-symbols/well-known-symbols.lualib.ts",

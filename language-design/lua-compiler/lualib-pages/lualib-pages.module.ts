@@ -32,6 +32,16 @@ export const lualibPages = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A build for Lua 5.0 names the code each page's Lua 5.0 code is taken in place of.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An import naming the code of a page holding Lua 5.0 code names that page's feature.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A Lua export names its feature once the export's `__TS__` prefix is dropped.",
     },
     {
