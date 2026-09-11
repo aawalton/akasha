@@ -27,8 +27,7 @@ export const alanWebCapacitor = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The view a route here draws comes from the package beside this router app through its manifest.",
+      statement: "The view a route here draws comes from the folder beside this router app.",
     },
     {
       invariantKind: "absence",
@@ -41,6 +40,11 @@ export const alanWebCapacitor = {
     {
       invariantKind: "constraint",
       statement: "The server entry here runs once at build time rather than on a request.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What parts this build from alan/web's is the folder each build runs in and that folder's config.",
     },
   ],
 } as const satisfies RouterApp
