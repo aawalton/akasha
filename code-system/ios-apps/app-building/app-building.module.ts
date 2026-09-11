@@ -32,6 +32,20 @@ export const appBuilding = {
       statement: "An app naming part of its staging is refused.",
     },
     {
+      invariantKind: "departure",
+      statement: "An app naming no sync script is refused rather than walked to.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The range each package an app reaches is installed at is read from the akasha manifest.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A package an app reaches that the akasha manifest states no range for is refused.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reaches a machine.",
     },

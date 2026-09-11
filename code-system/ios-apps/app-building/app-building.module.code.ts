@@ -1,4 +1,5 @@
-import { dirname } from "node:path"
+import { readFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { sharedBuildFiles } from "akasha/code-system/ios-apps/shared-build-files/shared-build-files.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { indexThere, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -14,6 +15,10 @@ const COMPONENT = "ios-component/"
 
 const SUFFIX = ".ios-component.swift.swift"
 
+const MANIFEST = "package.json"
+
+export type Ranged = Readonly<Record<string, string>>
+
 export type Staging = {
   readonly scriptPath: string
   readonly sourcePath: string
@@ -23,6 +28,8 @@ export type Plan = {
   readonly appSlug: string
   readonly shellPath: string
   readonly buildScriptPath: string
+  readonly syncScriptPath: string
+  readonly dependencies: Ranged
   readonly staging: Staging | null
   readonly deliverPaths: readonly string[]
   readonly deliverFiles: readonly string[]
@@ -113,6 +120,30 @@ function shellOf(root: string, named: string, appSlug: string, kind: string): Fo
   return at === null ? { why: `no shell file can sit beside ${page}` } : { at }
 }
 
+type Ranging = { readonly ranges: Ranged } | { readonly why: string }
+
+function dependenciesOf(root: string, app: Value, appSlug: string): Ranging {
+  const named = listAt(app, "toolReached")
+  const held = JSON.parse(readFileSync(join(root, MANIFEST), "utf8")) as {
+    readonly dependencies?: Ranged
+    readonly devDependencies?: Ranged
+  }
+  const stated: Ranged = { ...held.dependencies, ...held.devDependencies }
+  const ranges: Record<string, string> = {}
+  const missing: string[] = []
+  for (const one of named) {
+    const range = stated[one]
+    if (range === undefined) missing.push(one)
+    else ranges[one] = range
+  }
+  if (missing.length > 0) {
+    return {
+      why: `${appSlug} reaches ${missing.join(", ")} and the akasha manifest states no range for any of them`,
+    }
+  }
+  return { ranges }
+}
+
 type Staged = { readonly staging: Staging | null } | { readonly why: string }
 
 function stagingOf(root: string, app: Value, appSlug: string): Staged {
@@ -145,6 +176,18 @@ export function planFor(root: string, appSlug: string): Planned {
   if ("why" in staged) return { refused: [staged.why] }
   const built = shellOf(root, named, appSlug, "build script")
   if ("why" in built) return { refused: [built.why] }
+  const syncing = textAt(app, "syncScript")
+  if (syncing === null) {
+    return {
+      refused: [
+        `${appSlug} states no \`sync-script\`, so its page names nothing making its native sources`,
+      ],
+    }
+  }
+  const synced = shellOf(root, syncing, appSlug, "sync script")
+  if ("why" in synced) return { refused: [synced.why] }
+  const ranged = dependenciesOf(root, app, appSlug)
+  if ("why" in ranged) return { refused: [ranged.why] }
   const programs = programsOf(root, app, appSlug)
   if ("why" in programs) return { refused: [programs.why] }
   const shared = sharedBuildFiles(root)
@@ -154,6 +197,8 @@ export function planFor(root: string, appSlug: string): Planned {
     appSlug,
     shellPath,
     buildScriptPath: built.at,
+    syncScriptPath: synced.at,
+    dependencies: ranged.ranges,
     staging: staged.staging,
     deliverPaths: [shellPath],
     deliverFiles: shared.files,
