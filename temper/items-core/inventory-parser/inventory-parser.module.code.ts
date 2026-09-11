@@ -24,6 +24,7 @@ import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
+import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
 
 function asNumber(value: unknown): number {
   return typeof value === "number" ? value : 0
@@ -32,10 +33,6 @@ function asNumber(value: unknown): number {
 function parsePriceSource(value: unknown): PriceSource | undefined {
   if (value === "ttc" || value === "none") return value
   return undefined
-}
-
-function asString(value: unknown): string {
-  return typeof value === "string" ? value : ""
 }
 
 const TITLE_CASE_LOWERCASE = new Set([
@@ -79,8 +76,8 @@ export function parseItem(raw: unknown): InventoryItemData | undefined {
 
   const parsed: InventoryItemData = {
     itemId: asNumber(item.itemId),
-    itemName: cleanItemName(asString(item.itemName)),
-    itemLink: asString(item.itemLink),
+    itemName: cleanItemName(parseString(item.itemName)),
+    itemLink: parseString(item.itemLink),
     quality: asNumber(item.quality),
     filterType: asNumber(item.filterType),
     itemType: asNumber(item.itemType),
@@ -161,10 +158,10 @@ function parsePlacedFurnishing(raw: unknown): PlacedFurnishingData | undefined {
   if (!f) return undefined
 
   const parsed: PlacedFurnishingData = {
-    itemName: cleanItemName(asString(f.itemName)),
+    itemName: cleanItemName(parseString(f.itemName)),
     quality: asNumber(f.quality),
-    itemLink: asString(f.itemLink),
-    collectibleLink: asString(f.collectibleLink),
+    itemLink: parseString(f.itemLink),
+    collectibleLink: parseString(f.collectibleLink),
   }
 
   if (parsed.itemLink !== "" && !isItemLinkBound(parsed.itemLink)) {
@@ -237,7 +234,7 @@ function parseLocation(raw: unknown): InventoryLocationData | undefined {
 
   const result: InventoryLocationData = {
     bags,
-    displayName: asString(loc.displayName),
+    displayName: parseString(loc.displayName),
     lastScanned: asNumber(loc.lastScanned),
   }
   if (bagSizes) result.bagSizes = bagSizes
@@ -260,8 +257,8 @@ export function parseInventoryContent(content: string): InventoryDatabase {
 
   const rawMeta = asRecord(db.meta)
   const meta: InventoryDatabase["meta"] = {
-    displayName: asString(rawMeta?.displayName),
-    worldName: asString(rawMeta?.worldName),
+    displayName: parseString(rawMeta?.displayName),
+    worldName: parseString(rawMeta?.worldName),
     lastFullScan: asNumber(rawMeta?.lastFullScan),
   }
   const priceSource = parsePriceSource(rawMeta?.priceSource)
@@ -318,7 +315,7 @@ function parseCurrencies(raw: unknown): InventoryCurrencies | undefined {
       const balances = parseCurrencyBalances(charObj.balances)
       if (balances) {
         characters[charId] = {
-          displayName: asString(charObj.displayName),
+          displayName: parseString(charObj.displayName),
           lastScanned: asNumber(charObj.lastScanned),
           balances,
         }
