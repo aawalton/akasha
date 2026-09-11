@@ -21,7 +21,7 @@ export const theaChecksSystem = {
     {
       statement: "A check looks for unused code and passes.",
       workingMemory:
-        "Verified 2026-09-10, and the premise was wrong. The finder is deleted rather than unwired: 8ead8507d0a took out its 568 lines, and 8392949e28 dropped it as a check because an instrument stating a population refuses nothing. Its target, the code repo, tracks zero files at HEAD. The 8 curation pages name 25 workspaces, of which 8 have no directory and 6 are packages. nimue-code-cleanup does not name it. Reaching this intent is a rebuild Alan approves.",
+        "Settled 2026-09-10. The premise was wrong twice over: the finder was deleted rather than unwired, and its target repository tracks zero files because it moved here. The curation has no reader in akasha. A check is the wrong instrument: 3636 value exports across 1432 files are named by no importer, and a change-scoped check cannot see the fault at all, since a change to one file leaves another dead and the other is unchanged. Control: 1287 of 1287 test files have no importer.",
     },
     {
       statement: "No finding is filed on checks-system or any part beneath it.",
