@@ -92,39 +92,36 @@ test("a telling nobody takes is carried to the one stated instead", async () => 
   rmSync(home, { recursive: true, force: true })
 })
 
-test("a tick over the services there today writes a ledger and refuses nothing", async () => {
-  const home = mkdtempSync("/var/tmp/service-watching-live-")
-  const ticked = await ticking({
-    root: ROOT,
-    home,
-    now: new Date().toISOString(),
-    send: async () => null,
-    keep: () => [],
-  })
-  expect(ticked.refused).toEqual([])
-  expect(existsSync(ledgerAt(home))).toBe(true)
-  rmSync(home, { recursive: true, force: true })
+const LIVE_HOME = mkdtempSync("/var/tmp/service-watching-live-")
+
+afterAll(() => rmSync(LIVE_HOME, { recursive: true, force: true }))
+
+const LIVE_NOW = new Date().toISOString()
+
+const SEEN: string[] = []
+
+const NAMED: string[] = []
+
+const LIVE = await ticking({
+  root: ROOT,
+  home: LIVE_HOME,
+  now: LIVE_NOW,
+  send: async () => null,
+  keep: (root, health, at, slug) => {
+    NAMED.push(`${root} ${at} ${slug}`)
+    for (const one of health) SEEN.push(one.pagePath)
+    return []
+  },
 })
 
-test("this run hands the keeper every service, its moment and its own slug", async () => {
-  const home = mkdtempSync("/var/tmp/service-watching-verdict-")
-  const now = new Date().toISOString()
-  const seen: string[] = []
-  const named: string[] = []
-  await ticking({
-    root: ROOT,
-    home,
-    now,
-    send: async () => null,
-    keep: (root, health, at, slug) => {
-      named.push(`${root} ${at} ${slug}`)
-      for (const one of health) seen.push(one.pagePath)
-      return []
-    },
-  })
-  expect(named).toEqual([`${ROOT} ${now} ${OWN_SLUG}`])
-  expect(seen.length).toBeGreaterThan(0)
-  expect(seen.every((one) => one.endsWith(SERVICE_ENDING))).toBe(true)
-  expect(seen.filter((one) => one.endsWith(`${OWN_SLUG}${SERVICE_ENDING}`)).length).toBe(1)
-  rmSync(home, { recursive: true, force: true })
+test("a tick over the services there today writes a ledger and refuses nothing", () => {
+  expect(LIVE.refused).toEqual([])
+  expect(existsSync(ledgerAt(LIVE_HOME))).toBe(true)
+})
+
+test("this run hands the keeper every service, its moment and its own slug", () => {
+  expect(NAMED).toEqual([`${ROOT} ${LIVE_NOW} ${OWN_SLUG}`])
+  expect(SEEN.length).toBeGreaterThan(0)
+  expect(SEEN.every((one) => one.endsWith(SERVICE_ENDING))).toBe(true)
+  expect(SEEN.filter((one) => one.endsWith(`${OWN_SLUG}${SERVICE_ENDING}`)).length).toBe(1)
 })
