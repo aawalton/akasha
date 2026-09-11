@@ -230,6 +230,10 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "The file such a link names is the one the page holds its body in.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A link that could not be placed is answered rather than refusing the landing.",
     },
     {
