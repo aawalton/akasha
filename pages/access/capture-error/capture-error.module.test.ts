@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import type { Fetcher } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import {
   againValuesFor,
   captureError,
   type ErrorCapturePayload,
   firstValuesFor,
   slugFor,
-} from "./capture-error.module.code.ts"
+} from "akasha/pages/access/capture-error/capture-error.module.code.ts"
+import type { Fetcher } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 
 const AN_INSTANT = "2026-09-01T12:00:00.000Z"
 

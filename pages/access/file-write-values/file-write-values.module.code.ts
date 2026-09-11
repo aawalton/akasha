@@ -1,15 +1,18 @@
-import { nameOfPageId, type Translated } from "../file-page-name/file-page-name.module.code.ts"
-import { fileRelationDeclarations } from "../file-property-defs/file-property-defs.module.code.ts"
+import {
+  nameOfPageId,
+  type Translated,
+} from "akasha/pages/access/file-page-name/file-page-name.module.code.ts"
+import { fileRelationDeclarations } from "akasha/pages/access/file-property-defs/file-property-defs.module.code.ts"
 import {
   namesNothing,
   pageUnder,
   type RelationOnType,
   relationsOn,
-} from "../file-relation/file-relation.module.code.ts"
-import { camelizeKey, kebabizeKey } from "../file-rows/file-rows.module.code.ts"
-import { backings } from "../file-write-backing/file-write-backing.module.code.ts"
-import { FileWriteError } from "../file-write-error/file-write-error.module.code.ts"
-import type { Value } from "../types/types.module.code.ts"
+} from "akasha/pages/access/file-relation/file-relation.module.code.ts"
+import { camelizeKey, kebabizeKey } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
+import { backings } from "akasha/pages/access/file-write-backing/file-write-backing.module.code.ts"
+import { FileWriteError } from "akasha/pages/access/file-write-error/file-write-error.module.code.ts"
+import type { Value } from "akasha/pages/access/types/types.module.code.ts"
 
 function describeValue(value: unknown): string {
   if (Array.isArray(value)) {

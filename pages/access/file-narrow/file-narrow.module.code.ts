@@ -1,3 +1,5 @@
+import { camelizeKey, kebabizeKey } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
 import type {
   Page,
   PageCondition,
@@ -5,8 +7,6 @@ import type {
 } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type { Test } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
-import { camelizeKey, kebabizeKey } from "../file-rows/file-rows.module.code.ts"
-import type { PropertyDefinition } from "../page-type-config/page-type-config.module.code.ts"
 
 export function declaredAs(key: string, definitions: readonly PropertyDefinition[]): string {
   const canonical = camelizeKey(key)

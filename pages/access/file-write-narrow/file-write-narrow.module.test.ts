@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { loweredFrom, narrowedFrom } from "./file-write-narrow.module.code.ts"
+import {
+  loweredFrom,
+  narrowedFrom,
+} from "akasha/pages/access/file-write-narrow/file-write-narrow.module.code.ts"
 
 describe("a narrow is lowered whole or it refuses", () => {
   test("eq lowers to `is`", () => {

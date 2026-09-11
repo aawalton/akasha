@@ -1,6 +1,4 @@
 import { expect, test } from "bun:test"
-import { RosterUnreachable } from "../file-read/file-read.module.code.ts"
-import type { PropertyDefinition } from "../page-type-config/page-type-config.module.code.ts"
 import {
   answerPages,
   answerPageTypes,
@@ -8,7 +6,9 @@ import {
   type PageTypeReading,
   type PageTypesDeps,
   withDefinitions,
-} from "./answer.module.code.ts"
+} from "akasha/pages/access/answer/answer.module.code.ts"
+import { RosterUnreachable } from "akasha/pages/access/file-read/file-read.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
 
 const AT = "https://alanwalton.com/api/pages/readout"
 

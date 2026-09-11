@@ -1,3 +1,6 @@
+import { FileWriteError } from "akasha/pages/access/file-write-error/file-write-error.module.code.ts"
+import { narrowedFrom } from "akasha/pages/access/file-write-narrow/file-write-narrow.module.code.ts"
+import type { PageSelect } from "akasha/pages/access/types/types.module.code.ts"
 import {
   asPage,
   type Page,
@@ -16,9 +19,6 @@ import type {
 } from "akasha/pages/service/page-reading/page-reading.module.code.ts"
 import type { Wrote } from "akasha/pages/service/page-writing/page-writing.module.code.ts"
 import { z } from "zod"
-import { FileWriteError } from "../file-write-error/file-write-error.module.code.ts"
-import { narrowedFrom } from "../file-write-narrow/file-write-narrow.module.code.ts"
-import type { PageSelect } from "../types/types.module.code.ts"
 
 const DEFAULT_WRITER = "pages-access"
 

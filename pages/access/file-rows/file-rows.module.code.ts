@@ -1,13 +1,13 @@
+import type { PropertyDefinition } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
+import { parsePageSeq } from "akasha/pages/access/parse-page-seq/parse-page-seq.module.code.ts"
+import type { RawPageRow } from "akasha/pages/access/raw-page-row/raw-page-row.module.code.ts"
+import type { QueryRow } from "akasha/pages/access/types/types.module.code.ts"
 import {
   idOfFilePage,
   slugOfFilePage,
 } from "akasha/pages/identity/file-page/file-page.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { z } from "zod"
-import type { PropertyDefinition } from "../page-type-config/page-type-config.module.code.ts"
-import { parsePageSeq } from "../parse-page-seq/parse-page-seq.module.code.ts"
-import type { RawPageRow } from "../raw-page-row/raw-page-row.module.code.ts"
-import type { QueryRow } from "../types/types.module.code.ts"
 
 const LIFTED_COLUMN = {
   id: "id",

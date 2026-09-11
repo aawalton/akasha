@@ -1,10 +1,13 @@
+import { fileRelationDeclarations } from "akasha/pages/access/file-property-defs/file-property-defs.module.code.ts"
+import {
+  type FileReadDeps,
+  fileBackedPageTypes,
+} from "akasha/pages/access/file-read/file-read.module.code.ts"
+import { kebabizeKey } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
+import type { PageSelect } from "akasha/pages/access/types/types.module.code.ts"
 import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import { z } from "zod"
-import { fileRelationDeclarations } from "../file-property-defs/file-property-defs.module.code.ts"
-import { type FileReadDeps, fileBackedPageTypes } from "../file-read/file-read.module.code.ts"
-import { kebabizeKey } from "../file-rows/file-rows.module.code.ts"
-import type { PageSelect } from "../types/types.module.code.ts"
 
 const ADDRESS = /^([a-z0-9-]+)\/([a-z0-9-]+)$/
 

@@ -1,24 +1,32 @@
-import type { Page, PageCondition } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { JsonSchema } from "akasha/utils/narrow/json-schema/json-schema.module.code.ts"
-import { z } from "zod"
 import {
   type CreatePageIfAbsentResult,
   createPage,
   createPageIfAbsent,
-} from "../create/create.module.code.ts"
+} from "akasha/pages/access/create/create.module.code.ts"
 import {
   deletePage,
   deletePageById,
   deletePageByIds,
   deletePages,
-} from "../deleting/deleting.module.code.ts"
+} from "akasha/pages/access/deleting/deleting.module.code.ts"
 import {
   isWriteOverServerOp,
   type WriteOverServerOp,
-} from "../over-server/over-server.module.code.ts"
-import { patchPage, patchPageById, patchPages } from "../patch/patch.module.code.ts"
-import { bulkUpsertPages, upsertPage, upsertPages } from "../upsert/upsert.module.code.ts"
+} from "akasha/pages/access/over-server/over-server.module.code.ts"
+import {
+  patchPage,
+  patchPageById,
+  patchPages,
+} from "akasha/pages/access/patch/patch.module.code.ts"
+import {
+  bulkUpsertPages,
+  upsertPage,
+  upsertPages,
+} from "akasha/pages/access/upsert/upsert.module.code.ts"
+import type { Page, PageCondition } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { JsonSchema } from "akasha/utils/narrow/json-schema/json-schema.module.code.ts"
+import { z } from "zod"
 
 export type PageWriteAsked = {
   readonly op: WriteOverServerOp

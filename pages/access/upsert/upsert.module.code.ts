@@ -1,3 +1,19 @@
+import { upsertFilePage } from "akasha/pages/access/file-write/file-write.module.code.ts"
+import {
+  enforcePipelineScope,
+  rejectDefinitionTier,
+  rejectReadOnlyKeys,
+  requireFileBacked,
+} from "akasha/pages/access/guards/guards.module.code.ts"
+import {
+  asPageList,
+  overServer,
+  writesOverServer,
+} from "akasha/pages/access/over-server/over-server.module.code.ts"
+import type {
+  PagePropertiesInput,
+  PageSelect,
+} from "akasha/pages/access/types/types.module.code.ts"
 import {
   asPage,
   type Page,
@@ -6,15 +22,6 @@ import {
 import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
-import { upsertFilePage } from "../file-write/file-write.module.code.ts"
-import {
-  enforcePipelineScope,
-  rejectDefinitionTier,
-  rejectReadOnlyKeys,
-  requireFileBacked,
-} from "../guards/guards.module.code.ts"
-import { asPageList, overServer, writesOverServer } from "../over-server/over-server.module.code.ts"
-import type { PagePropertiesInput, PageSelect } from "../types/types.module.code.ts"
 
 export type UpsertPageArgs<T extends Record<string, unknown> = Record<string, Json>> = {
   pageTypeSlug: string

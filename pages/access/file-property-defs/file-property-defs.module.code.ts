@@ -1,9 +1,9 @@
+import { camelizeKey } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
 import { shapeFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { z } from "zod"
-import { camelizeKey } from "../file-rows/file-rows.module.code.ts"
-import type { PropertyDefinition } from "../page-type-config/page-type-config.module.code.ts"
 
 export const PAGE_TYPE = "page-type"
 

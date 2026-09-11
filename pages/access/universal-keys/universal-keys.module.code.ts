@@ -1,4 +1,4 @@
-import type { PROMOTED_COLUMN } from "../routing-core/routing-core.module.code.ts"
+import type { PROMOTED_COLUMN } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
 
 const PAGE_TYPE = "type"
 

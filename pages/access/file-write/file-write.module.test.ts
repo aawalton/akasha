@@ -1,11 +1,4 @@
 import { describe, expect, test } from "bun:test"
-import type { Asked, Query } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-import type { Writing } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
-import type {
-  Read,
-  Asked as Sought,
-} from "akasha/pages/service/page-reading/page-reading.module.code.ts"
-import type { Wrote } from "akasha/pages/service/page-writing/page-writing.module.code.ts"
 import {
   createFilePage,
   type FileWriteDeps,
@@ -15,7 +8,14 @@ import {
   slugsOf,
   upsertFilePage,
   writerLine,
-} from "./file-write.module.code.ts"
+} from "akasha/pages/access/file-write/file-write.module.code.ts"
+import type { Asked, Query } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import type { Writing } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import type {
+  Read,
+  Asked as Sought,
+} from "akasha/pages/service/page-reading/page-reading.module.code.ts"
+import type { Wrote } from "akasha/pages/service/page-writing/page-writing.module.code.ts"
 
 type Taken = {
   readonly asks: Query[]

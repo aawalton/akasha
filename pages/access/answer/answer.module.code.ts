@@ -1,18 +1,18 @@
-import type { Asked } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import {
   fileBackedPageTypes,
   RosterUnreachable,
   valuedRows,
-} from "../file-read/file-read.module.code.ts"
-import { buildRawPageRows } from "../file-rows/file-rows.module.code.ts"
-import { getPageTypeBySlug } from "../page-type/page-type.module.code.ts"
+} from "akasha/pages/access/file-read/file-read.module.code.ts"
+import { buildRawPageRows } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
+import { getPageTypeBySlug } from "akasha/pages/access/page-type/page-type.module.code.ts"
 import {
   getPropertyDefinitions,
   type PropertyDefinition,
-} from "../page-type-config/page-type-config.module.code.ts"
-import type { RawPageRow } from "../raw-page-row/raw-page-row.module.code.ts"
+} from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
+import type { RawPageRow } from "akasha/pages/access/raw-page-row/raw-page-row.module.code.ts"
+import type { Asked } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 
 export const LISTING_CEILING = 5_000
 

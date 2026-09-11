@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { renderedType } from "./file-property-defs.module.code.ts"
+import { renderedType } from "akasha/pages/access/file-property-defs/file-property-defs.module.code.ts"
 
 const DRAWN = [
   "text",

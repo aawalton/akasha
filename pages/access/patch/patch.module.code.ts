@@ -1,19 +1,30 @@
 import {
-  asPage,
-  type Page,
-  type PageWhere,
-} from "akasha/pages/core/page-types/page-types.module.code.ts"
-import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
-import { patchFilePages, refuseJsonPatch } from "../file-write/file-write.module.code.ts"
+  patchFilePages,
+  refuseJsonPatch,
+} from "akasha/pages/access/file-write/file-write.module.code.ts"
 import {
   enforcePipelineScope,
   rejectDefinitionTier,
   rejectReadOnlyKeys,
   rejectWholesaleTagsSet,
   requireFileBacked,
-} from "../guards/guards.module.code.ts"
-import { asPageList, overServer, writesOverServer } from "../over-server/over-server.module.code.ts"
-import type { JsonPatch, PagePropertiesInput, PageSelect } from "../types/types.module.code.ts"
+} from "akasha/pages/access/guards/guards.module.code.ts"
+import {
+  asPageList,
+  overServer,
+  writesOverServer,
+} from "akasha/pages/access/over-server/over-server.module.code.ts"
+import type {
+  JsonPatch,
+  PagePropertiesInput,
+  PageSelect,
+} from "akasha/pages/access/types/types.module.code.ts"
+import {
+  asPage,
+  type Page,
+  type PageWhere,
+} from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 
 const LAST_VIEWED_AT_KEY = "lastViewedAt"
 

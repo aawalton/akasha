@@ -1,6 +1,4 @@
-import type { Page, PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
-import type { FileReadShape } from "../file-read/file-read.module.code.ts"
+import type { FileReadShape } from "akasha/pages/access/file-read/file-read.module.code.ts"
 import {
   getFilePage,
   getFilePageByIdSuffix,
@@ -8,10 +6,16 @@ import {
   getFilePagesByIdSuffix,
   isFileBacked,
   pickOne,
-} from "../file-read/file-read.module.code.ts"
-import { fileShapeOf } from "../file-shape/file-shape.module.code.ts"
-import { applySelect } from "../routing-core/routing-core.module.code.ts"
-import type { PageCursor, PageOrder, PageSelect } from "../types/types.module.code.ts"
+} from "akasha/pages/access/file-read/file-read.module.code.ts"
+import { fileShapeOf } from "akasha/pages/access/file-shape/file-shape.module.code.ts"
+import { applySelect } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
+import type {
+  PageCursor,
+  PageOrder,
+  PageSelect,
+} from "akasha/pages/access/types/types.module.code.ts"
+import type { Page, PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 
 const ID_SUFFIX_PATTERN = /^[0-9a-f]{8}$/
 

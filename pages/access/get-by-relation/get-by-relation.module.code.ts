@@ -1,9 +1,9 @@
-import type { Page, PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import {
   type FileRelationDeps,
   getFilePagesByRelation,
-} from "../file-relation/file-relation.module.code.ts"
-import type { PageSelect } from "../types/types.module.code.ts"
+} from "akasha/pages/access/file-relation/file-relation.module.code.ts"
+import type { PageSelect } from "akasha/pages/access/types/types.module.code.ts"
+import type { Page, PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
 
 export type GetPagesByRelationArgs = {
   relationKey: string

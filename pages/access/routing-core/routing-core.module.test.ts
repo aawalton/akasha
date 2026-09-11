@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { flattenRow, fromColumn, isPromotedKey } from "./routing-core.module.code.ts"
+import {
+  flattenRow,
+  fromColumn,
+  isPromotedKey,
+} from "akasha/pages/access/routing-core/routing-core.module.code.ts"
 
 const MARKED_AT = "2026-09-07T02:16:06.577Z"
 
