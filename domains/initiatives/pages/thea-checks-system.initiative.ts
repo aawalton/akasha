@@ -21,7 +21,7 @@ export const theaChecksSystem = {
     {
       statement: "Every property file has the page whose property that file is.",
       workingMemory:
-        "The addressed stray is gone and the mechanism holding it mended: 78b39f745ee replaced writtenAgain, which read only the path name, with writtenPathsIn, reading the change-runner pages the index holds. Both addressed files left have their runner page, and no test pins the orphan case. file-has-its-page judges 124582 files and refuses 9, every one a property file its page's deletion left behind: seven subagent edit files, two seat files. One mechanism rather than nine strays.",
+        "file-has-its-page refuses 0 of 124582, and the nine were two mechanisms rather than one. Seven were subagent edits files left by seat-restart sweeps before 3643bc5da5c had a take-down take a page's claimed files; the four sweeps since left nothing. No page remained to reach them through and the paths they named are gone. Two were seat sidecars stranded by the move into per-seat folders at 7fc1be118b8, each beside a live copy in its folder. A gitignored file's removal leaves no commit to say why.",
     },
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
