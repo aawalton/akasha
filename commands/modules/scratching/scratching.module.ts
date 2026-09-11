@@ -66,5 +66,9 @@ export const scratching = {
       invariantKind: "departure",
       statement: "Every scratch root the command system takes is taken from that place.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A body read back out of a test's scratch root is empty where no file is there.",
+    },
   ],
 } as const satisfies Module

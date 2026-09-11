@@ -10,7 +10,10 @@ import {
 } from "akasha/commands/modules/holding/holding.module.code.ts"
 import { blobIdOf, recordRead } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { keptAt, scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import {
+  bodyAt,
+  writing,
+} from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { startedAt } from "akasha/files/lock-holder/lock-holder.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import {
@@ -152,10 +155,6 @@ export async function inTwoScratch(
   } finally {
     world.sweep()
   }
-}
-
-export function bodyAt(root: string, at: string | null): string {
-  return at !== null && existsSync(join(root, at)) ? readFileSync(join(root, at), "utf8") : ""
 }
 
 export function keptBySeat(root: string): { readonly edits: string; readonly refusals: string } {

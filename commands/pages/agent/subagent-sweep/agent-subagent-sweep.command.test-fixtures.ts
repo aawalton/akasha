@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -7,7 +7,10 @@ import type { Applied } from "akasha/commands/modules/applying/applying.module.c
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { refusalsKept } from "akasha/commands/modules/refusals-keeping/refusals-keeping.module.code.ts"
-import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import {
+  bodyAt,
+  writing,
+} from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   agentSubagentSweep,
   type Landing,
@@ -133,10 +136,6 @@ export function seatFiled(root: string, seatName: string, seatId: string): strin
   gitIn(root, ["commit", "--quiet", "-m", `${seatName} sits`])
   listedFiled(root, "seat", seatName, [{ path: at, id: seatId }])
   return at
-}
-
-function bodyAt(root: string, at: string | null): string {
-  return at !== null && existsSync(join(root, at)) ? readFileSync(join(root, at), "utf8") : ""
 }
 
 export function keptBySeat(

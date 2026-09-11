@@ -1,4 +1,4 @@
-import { mkdirSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { blobIdOf } from "akasha/commands/modules/reading/reading.module.code.ts"
 
@@ -11,4 +11,8 @@ export function writing(root: string, path: string, body: string): string {
 
 export function manifest(name: string): string {
   return `${JSON.stringify({ name, private: true }, null, 2)}\n`
+}
+
+export function bodyAt(root: string, at: string | null): string {
+  return at !== null && existsSync(join(root, at)) ? readFileSync(join(root, at), "utf8") : ""
 }
