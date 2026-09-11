@@ -5,6 +5,12 @@ import {
   turnsFor,
   typedOver,
 } from "akasha/commands/modules/type-generating/type-generating.module.code.ts"
+import {
+  AT,
+  GENERATOR_AT,
+  OTHER,
+  OWN,
+} from "akasha/commands/modules/type-generating/type-generating.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   idFiled,
@@ -18,12 +24,6 @@ const scratch = scratchWorld()
 afterAll(scratch.sweep)
 
 const ROOT = "/nowhere"
-
-const AT = "thrumming/types/page-type.page-type.ts"
-
-const OWN = "thrumming/types/page-type.page-type.types.ts"
-
-const OTHER = "thrumming/modules/module.page-type.types.ts"
 
 const BYTES = new TextEncoder()
 
@@ -59,7 +59,7 @@ function only(page: Record<string, unknown>): ReadonlyMap<string, Record<string,
 }
 
 test("the generator sits beside the page type as that page type's `type-generator` section", () => {
-  expect(generatorAt(AT)).toBe("thrumming/types/page-type.page-type.type-generator.ts")
+  expect(generatorAt(AT)).toBe(GENERATOR_AT)
 })
 
 test("a page type stating no type generator has no generator run for it", () => {

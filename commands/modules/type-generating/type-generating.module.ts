@@ -8,6 +8,7 @@ export const typeGenerating = {
   definition: "the types a page type's generator writes for every page of that page type",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
