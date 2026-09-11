@@ -9,7 +9,6 @@ import {
   noPageSaid,
   owedBy,
   owingBy,
-  puttingUpSaid,
   stamped,
   textIn,
 } from "akasha/commands/modules/change-running/change-running.module.code.ts"
@@ -428,25 +427,33 @@ test("a change whose writer owes reading asks the record before appending its ed
   expect(pathsIn(root)).toEqual([])
 })
 
-test("the call that puts a page up names no kind to guess", () => {
-  const root = repo()
-  listedFiled(root, "module", "subagent-presence", [{ path: PRESENCE_AT, id: PRESENCE_ID }])
-
-  const said = puttingUpSaid(root, `${SEAT_ID}--${OWN}`)
-
-  expect(said).toContain("akasha/subagent-presence.module.code.ts")
-  expect(said).toContain(` write <the seat> ${OWN} '' ${SEAT_ID}`)
-})
-
-test("the refusal names the resume before the call a person runs by hand", () => {
+test("the refusal opens with the retry and names where to look before it explains", () => {
   const root = repo()
   listedFiled(root, "module", "subagent-presence", [{ path: PRESENCE_AT, id: PRESENCE_ID }])
 
   const said = noPageSaid(root, `${SEAT_ID}--${OWN}`)
 
-  expect(said).toContain("it stamps no started moment")
-  expect(said.indexOf("Resuming the subagent")).toBeGreaterThan(0)
-  expect(said.indexOf("Resuming the subagent")).toBeLessThan(said.indexOf("bun "))
+  expect(said).toContain("Run this same call again")
+  expect(said).toContain("nothing was kept and nothing was lost")
+  expect(said.indexOf("subagent-presence.log")).toBeLessThan(said.indexOf("still be queued"))
+})
+
+test("the refusal promises no outcome from waiting and names no call an agent is refused", () => {
+  const root = repo()
+  listedFiled(root, "module", "subagent-presence", [{ path: PRESENCE_AT, id: PRESENCE_ID }])
+
+  const said = noPageSaid(root, `${SEAT_ID}--${OWN}`)
+
+  expect(said).toContain("waiting will not mend it")
+  expect(said).toContain("nothing may have started it")
+  expect(said).not.toContain("bun ")
+})
+
+test("a call naming no agent at all is refused without the retry", () => {
+  const root = repo()
+  listedFiled(root, "module", "subagent-presence", [{ path: PRESENCE_AT, id: PRESENCE_ID }])
+
+  expect(noPageSaid(root, null)).not.toContain("Run this same call again")
 })
 
 test("a change whose writer owes no reading appends without asking the record", async () => {

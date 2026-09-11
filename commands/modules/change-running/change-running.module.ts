@@ -139,55 +139,43 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "That refusal names resuming the subagent as the way the page comes back.",
+      statement: "That refusal opens by naming the retry, which costs only the wait.",
     },
     {
       invariantKind: "departure",
-      statement: "A resume stamps the moment the subagent started.",
+      statement: "That refusal says nothing was kept, so a retry loses nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "That refusal also names the command putting a subagent's page up by hand.",
+      statement: "That refusal names the log to read next before it explains anything.",
     },
     {
       invariantKind: "departure",
-      statement: "The resume is named before that command.",
+      statement: "That refusal says a refusal surviving a few tries will not clear by waiting.",
     },
     {
       invariantKind: "departure",
-      statement: "That command is for a person at a terminal rather than for an agent.",
+      statement: "That refusal names all three causes rather than the one that clears.",
     },
     {
       invariantKind: "departure",
-      statement: "An agent naming that command in a shell call is refused.",
+      statement: "A landing refused for any reason but the lock is retried by nothing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "That refusal promises no outcome from waiting.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "That refusal names no act the agent reading it is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "That command stamps no moment the subagent started.",
+      statement: "A call naming no agent at all is refused without the retry.",
     },
     {
       invariantKind: "departure",
-      statement: "A page that command puts up goes at the next take-down.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Where that command sits is asked of the index rather than spelled.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That command is filled in from the agent id as far as that id says.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That command is left open past the point the id reaches.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That command leaves the kind empty, which the page in history states.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A subagent dispatched a moment ago can run before that page lands.",
+      statement: "A subagent dispatched or resumed a moment ago can run before that page lands.",
     },
     {
       invariantKind: "departure",
@@ -280,7 +268,7 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal composed where no index answers is said without that command.",
+      statement: "A refusal composed where no index answers is said without the retry.",
     },
   ],
 } as const satisfies Module
