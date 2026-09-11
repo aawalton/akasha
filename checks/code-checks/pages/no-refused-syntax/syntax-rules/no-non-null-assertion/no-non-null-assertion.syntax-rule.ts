@@ -35,9 +35,5 @@ export const noNonNullAssertion = {
       invariantKind: "departure",
       statement: "Logical negation shares the character and is untouched.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A cast asserting the same absence away some other way is left.",
-    },
   ],
 } as const satisfies SyntaxRule
