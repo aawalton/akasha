@@ -1,6 +1,6 @@
-import { UNKNOWN } from "../leads-location-types/leads-location-types.module.code.ts"
-import { LOCATIONS } from "../leads-locations/leads-locations.module.code.ts"
-import { STRINGS } from "../leads-ui-strings/leads-ui-strings.module.code.ts"
+import { UNKNOWN } from "akasha/temper/antiquities-addon/leads-location-types/leads-location-types.module.code.ts"
+import { LOCATIONS } from "akasha/temper/antiquities-addon/leads-locations/leads-locations.module.code.ts"
+import { STRINGS } from "akasha/temper/antiquities-addon/leads-ui-strings/leads-ui-strings.module.code.ts"
 
 let lastAntiquityFound = 0
 let editBoxContent = ""

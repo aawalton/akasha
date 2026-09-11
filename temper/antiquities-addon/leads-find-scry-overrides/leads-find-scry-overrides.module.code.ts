@@ -1,4 +1,7 @@
-import { FAKE_ZONE_IDS, ZONE_IDS } from "../leads-zones/leads-zones.module.code.ts"
+import {
+  FAKE_ZONE_IDS,
+  ZONE_IDS,
+} from "akasha/temper/antiquities-addon/leads-zones/leads-zones.module.code.ts"
 
 export const FIND_SCRY_DIFFERENT_ZONES: Record<number, number> = {
   99: FAKE_ZONE_IDS.ALLZONES,

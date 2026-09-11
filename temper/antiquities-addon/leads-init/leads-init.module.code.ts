@@ -1,12 +1,15 @@
-import "../leads-global/leads-global.module.code.ts"
+import "akasha/temper/antiquities-addon/leads-global/leads-global.module.code.ts"
 
-import { ADDON_NAME, SLASH_COMMAND } from "../leads-constants/leads-constants.module.code.ts"
-import { createInventoryDropdown } from "../leads-dropdowns/leads-dropdowns.module.code.ts"
-import { antiquityFound } from "../leads-reporting/leads-reporting.module.code.ts"
-import { initializeSavedVariables } from "../leads-saved-variables/leads-saved-variables.module.code.ts"
-import { toggleLeadsWindow } from "../leads-toggle/leads-toggle.module.code.ts"
-import { STRINGS } from "../leads-ui-strings/leads-ui-strings.module.code.ts"
-import { createUnitList } from "../leads-unit-list/leads-unit-list.module.code.ts"
+import {
+  ADDON_NAME,
+  SLASH_COMMAND,
+} from "akasha/temper/antiquities-addon/leads-constants/leads-constants.module.code.ts"
+import { createInventoryDropdown } from "akasha/temper/antiquities-addon/leads-dropdowns/leads-dropdowns.module.code.ts"
+import { antiquityFound } from "akasha/temper/antiquities-addon/leads-reporting/leads-reporting.module.code.ts"
+import { initializeSavedVariables } from "akasha/temper/antiquities-addon/leads-saved-variables/leads-saved-variables.module.code.ts"
+import { toggleLeadsWindow } from "akasha/temper/antiquities-addon/leads-toggle/leads-toggle.module.code.ts"
+import { STRINGS } from "akasha/temper/antiquities-addon/leads-ui-strings/leads-ui-strings.module.code.ts"
+import { createUnitList } from "akasha/temper/antiquities-addon/leads-unit-list/leads-unit-list.module.code.ts"
 
 export function initLeads(this: void): undefined {
   initializeSavedVariables()

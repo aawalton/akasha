@@ -7,8 +7,8 @@ import {
   PURPLE_TEXT_HEX,
   RED_TEXT_HEX,
   YELLOW_TEXT_HEX,
-} from "../leads-colors/leads-colors.module.code.ts"
-import type { LeadsColor } from "../leads-unit-shapes/leads-unit-shapes.module.code.ts"
+} from "akasha/temper/antiquities-addon/leads-colors/leads-colors.module.code.ts"
+import type { LeadsColor } from "akasha/temper/antiquities-addon/leads-unit-shapes/leads-unit-shapes.module.code.ts"
 
 const [defaultR, defaultG, defaultB, defaultA] = DEFAULT_TEXT_RGBA
 const DEFAULT_TEXT = ZO_ColorDef.New(defaultR, defaultG, defaultB, defaultA)

@@ -1,4 +1,4 @@
-import type { LocationEntry } from "../leads-location-types/leads-location-types.module.code.ts"
+import type { LocationEntry } from "akasha/temper/antiquities-addon/leads-location-types/leads-location-types.module.code.ts"
 import {
   ENDLESSARCHIVE,
   LOCDATA_LONG_ALLLOOTTABLES,
@@ -19,7 +19,7 @@ import {
   LOCDATA_TYPE_STARTER,
   LOCDATA_TYPE_TREASUREMAP,
   LOCDATA_TYPE_WORLDBOSS,
-} from "../leads-location-types/leads-location-types.module.code.ts"
+} from "akasha/temper/antiquities-addon/leads-location-types/leads-location-types.module.code.ts"
 
 export const LOCATIONS_10: Record<number, LocationEntry> = {
   599: {

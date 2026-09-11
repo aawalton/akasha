@@ -1,13 +1,13 @@
-import { ACTIVITY_ID_TO_ANTIQUITY_ID } from "../leads-activity-map/leads-activity-map.module.code.ts"
+import { ACTIVITY_ID_TO_ANTIQUITY_ID } from "akasha/temper/antiquities-addon/leads-activity-map/leads-activity-map.module.code.ts"
 import {
   BLUE_TEXT_HEX,
   GREEN_TEXT_HEX,
   ORANGE_TEXT_HEX,
   RED_TEXT_HEX,
   YELLOW_TEXT_HEX,
-} from "../leads-colors/leads-colors.module.code.ts"
-import { STRINGS } from "../leads-ui-strings/leads-ui-strings.module.code.ts"
-import { getPledgeDungeons } from "../leads-undaunted/leads-undaunted.module.code.ts"
+} from "akasha/temper/antiquities-addon/leads-colors/leads-colors.module.code.ts"
+import { STRINGS } from "akasha/temper/antiquities-addon/leads-ui-strings/leads-ui-strings.module.code.ts"
+import { getPledgeDungeons } from "akasha/temper/antiquities-addon/leads-undaunted/leads-undaunted.module.code.ts"
 
 let alertsTooltipMessages: string[] = []
 

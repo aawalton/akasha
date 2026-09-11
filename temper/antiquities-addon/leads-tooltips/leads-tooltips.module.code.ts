@@ -1,16 +1,16 @@
-import { getAlertsTooltipMessages } from "../leads-alerts/leads-alerts.module.code.ts"
+import { getAlertsTooltipMessages } from "akasha/temper/antiquities-addon/leads-alerts/leads-alerts.module.code.ts"
 import {
   LOCDATA_TYPE_FIXLOCATION,
   UNKNOWN,
-} from "../leads-location-types/leads-location-types.module.code.ts"
-import { LOCATIONS } from "../leads-locations/leads-locations.module.code.ts"
+} from "akasha/temper/antiquities-addon/leads-location-types/leads-location-types.module.code.ts"
+import { LOCATIONS } from "akasha/temper/antiquities-addon/leads-locations/leads-locations.module.code.ts"
 import {
   antiquityFound,
   getLastAntiquityFound,
-} from "../leads-reporting/leads-reporting.module.code.ts"
-import { SET_ID_TO_ITEM_ID } from "../leads-set-links/leads-set-links.module.code.ts"
-import { STRINGS } from "../leads-ui-strings/leads-ui-strings.module.code.ts"
-import { getUnitList } from "../leads-unit-list/leads-unit-list.module.code.ts"
+} from "akasha/temper/antiquities-addon/leads-reporting/leads-reporting.module.code.ts"
+import { SET_ID_TO_ITEM_ID } from "akasha/temper/antiquities-addon/leads-set-links/leads-set-links.module.code.ts"
+import { STRINGS } from "akasha/temper/antiquities-addon/leads-ui-strings/leads-ui-strings.module.code.ts"
+import { getUnitList } from "akasha/temper/antiquities-addon/leads-unit-list/leads-unit-list.module.code.ts"
 
 function restoreTooltipMaxX(maxX: number): undefined {
   InformationTooltip.SetDimensionConstraints(undefined, undefined, maxX, undefined)

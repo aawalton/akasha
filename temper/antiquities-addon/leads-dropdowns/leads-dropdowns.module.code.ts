@@ -1,7 +1,7 @@
-import { DROPDOWN_DATA } from "../leads-constants/leads-constants.module.code.ts"
-import { getDropdownChoice } from "../leads-saved-variables/leads-saved-variables.module.code.ts"
-import { STRINGS } from "../leads-ui-strings/leads-ui-strings.module.code.ts"
-import { getUnitList } from "../leads-unit-list/leads-unit-list.module.code.ts"
+import { DROPDOWN_DATA } from "akasha/temper/antiquities-addon/leads-constants/leads-constants.module.code.ts"
+import { getDropdownChoice } from "akasha/temper/antiquities-addon/leads-saved-variables/leads-saved-variables.module.code.ts"
+import { STRINGS } from "akasha/temper/antiquities-addon/leads-ui-strings/leads-ui-strings.module.code.ts"
+import { getUnitList } from "akasha/temper/antiquities-addon/leads-unit-list/leads-unit-list.module.code.ts"
 
 type DropdownName = "Major" | "Zone" | "SetType"
 

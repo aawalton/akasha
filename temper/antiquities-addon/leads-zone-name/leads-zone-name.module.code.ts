@@ -1,5 +1,8 @@
-import { STRINGS } from "../leads-ui-strings/leads-ui-strings.module.code.ts"
-import { DUAL_ZONE_COMPONENTS, FAKE_ZONE_IDS } from "../leads-zones/leads-zones.module.code.ts"
+import { STRINGS } from "akasha/temper/antiquities-addon/leads-ui-strings/leads-ui-strings.module.code.ts"
+import {
+  DUAL_ZONE_COMPONENTS,
+  FAKE_ZONE_IDS,
+} from "akasha/temper/antiquities-addon/leads-zones/leads-zones.module.code.ts"
 
 export function specialZoneName(zoneId: number): string | undefined {
   if (zoneId === FAKE_ZONE_IDS.ALLZONES) {

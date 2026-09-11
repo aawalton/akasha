@@ -1,4 +1,4 @@
-import type { LocationEntry } from "../leads-location-types/leads-location-types.module.code.ts"
+import type { LocationEntry } from "akasha/temper/antiquities-addon/leads-location-types/leads-location-types.module.code.ts"
 import {
   LOCDATA_LONG_ANTIQUEMAP,
   LOCDATA_LONG_TREASUREMAP,
@@ -13,7 +13,7 @@ import {
   LOCDATA_TYPE_PUBLICDUNGEON,
   LOCDATA_TYPE_TREASUREMAP,
   LOCDATA_TYPE_WORLDBOSS,
-} from "../leads-location-types/leads-location-types.module.code.ts"
+} from "akasha/temper/antiquities-addon/leads-location-types/leads-location-types.module.code.ts"
 
 export const LOCATIONS_1: Record<number, LocationEntry> = {
   18: {

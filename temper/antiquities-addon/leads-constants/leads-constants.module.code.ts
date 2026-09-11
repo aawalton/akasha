@@ -1,4 +1,4 @@
-import { STRINGS } from "../leads-ui-strings/leads-ui-strings.module.code.ts"
+import { STRINGS } from "akasha/temper/antiquities-addon/leads-ui-strings/leads-ui-strings.module.code.ts"
 
 export const ADDON_NAME = "TemperLeads"
 export const SAVED_VARIABLES_NAME = "TemperLeads_SavedVariables"

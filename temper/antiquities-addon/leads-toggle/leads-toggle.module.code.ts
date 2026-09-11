@@ -1,12 +1,15 @@
-import { setAlerts } from "../leads-alerts/leads-alerts.module.code.ts"
-import { DROPDOWN_DATA } from "../leads-constants/leads-constants.module.code.ts"
-import { FIND_SCRY_DIFFERENT_ZONES } from "../leads-find-scry-overrides/leads-find-scry-overrides.module.code.ts"
-import { UNKNOWN } from "../leads-location-types/leads-location-types.module.code.ts"
-import { LOCATIONS } from "../leads-locations/leads-locations.module.code.ts"
-import { getUnitList } from "../leads-unit-list/leads-unit-list.module.code.ts"
-import { setSetsMinFound, setUnits } from "../leads-unit-state/leads-unit-state.module.code.ts"
-import { zoneDisplayName } from "../leads-zone-name/leads-zone-name.module.code.ts"
-import { FAKE_ZONE_IDS } from "../leads-zones/leads-zones.module.code.ts"
+import { setAlerts } from "akasha/temper/antiquities-addon/leads-alerts/leads-alerts.module.code.ts"
+import { DROPDOWN_DATA } from "akasha/temper/antiquities-addon/leads-constants/leads-constants.module.code.ts"
+import { FIND_SCRY_DIFFERENT_ZONES } from "akasha/temper/antiquities-addon/leads-find-scry-overrides/leads-find-scry-overrides.module.code.ts"
+import { UNKNOWN } from "akasha/temper/antiquities-addon/leads-location-types/leads-location-types.module.code.ts"
+import { LOCATIONS } from "akasha/temper/antiquities-addon/leads-locations/leads-locations.module.code.ts"
+import { getUnitList } from "akasha/temper/antiquities-addon/leads-unit-list/leads-unit-list.module.code.ts"
+import {
+  setSetsMinFound,
+  setUnits,
+} from "akasha/temper/antiquities-addon/leads-unit-state/leads-unit-state.module.code.ts"
+import { zoneDisplayName } from "akasha/temper/antiquities-addon/leads-zone-name/leads-zone-name.module.code.ts"
+import { FAKE_ZONE_IDS } from "akasha/temper/antiquities-addon/leads-zones/leads-zones.module.code.ts"
 
 let alreadyRun = false
 
