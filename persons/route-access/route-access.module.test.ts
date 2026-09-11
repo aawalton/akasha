@@ -1,19 +1,19 @@
 import { expect, test } from "bun:test"
 import type { Fetcher } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
-import { asObjectRecord } from "akasha/utils/narrow/as-object-record/as-object-record.module.code.ts"
 import {
   accountStatedBy,
   noNap,
   overTheLiveStore,
   recordingFetcher,
-} from "../person-enrolment/person-enrolment.module.test-fixtures.ts"
+} from "akasha/persons/person-enrolment/person-enrolment.module.test-fixtures.ts"
 import {
   grantsRoute,
   ROUTE_TARGETS,
   routeAccessForAccount,
   routeAccessForPerson,
   routeTargetsFor,
-} from "./route-access.module.code.ts"
+} from "akasha/persons/route-access/route-access.module.code.ts"
+import { asObjectRecord } from "akasha/utils/narrow/as-object-record/as-object-record.module.code.ts"
 
 const ACCOUNT_NOBODY_STATES = "00000000-0000-7000-8000-000000000000"
 

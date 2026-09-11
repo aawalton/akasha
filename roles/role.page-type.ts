@@ -1,4 +1,4 @@
-import type { PageType } from "../pages/types/page-type.page-type.types.ts"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const role = {
   id: "01a053b2-2c20-7e34-9306-65f44016381a",

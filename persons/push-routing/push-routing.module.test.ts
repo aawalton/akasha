@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { decideOpenUrlRoute, decidePushRoute } from "./push-routing.module.code.ts"
+import {
+  decideOpenUrlRoute,
+  decidePushRoute,
+} from "akasha/persons/push-routing/push-routing.module.code.ts"
 
 test("a payload naming a path inside the app opens it", () => {
   expect(decidePushRoute({ path: "/pages/notification" })).toBe("/pages/notification")

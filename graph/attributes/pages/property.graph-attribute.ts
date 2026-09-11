@@ -1,4 +1,4 @@
-import type { GraphAttribute } from "../graph-attribute.page-type.types.ts"
+import type { GraphAttribute } from "akasha/graph/attributes/graph-attribute.page-type.types.ts"
 
 export const property = {
   id: "01a04fee-4eea-763c-a3b9-cea5b55f06c7",

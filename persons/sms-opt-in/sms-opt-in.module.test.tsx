@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { SmsOptInForm } from "./sms-opt-in.module.code.tsx"
+import { SmsOptInForm } from "akasha/persons/sms-opt-in/sms-opt-in.module.code.tsx"
 
 test("the form is written as a tag, and the tag names the component itself", () => {
   const written = <SmsOptInForm />

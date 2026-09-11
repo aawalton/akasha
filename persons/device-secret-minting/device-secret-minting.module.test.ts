@@ -6,7 +6,7 @@ import {
   RECOVERY_SPAN,
   recoveryMarkRead,
   routeRead,
-} from "./device-secret-minting.module.code.ts"
+} from "akasha/persons/device-secret-minting/device-secret-minting.module.code.ts"
 
 const A_MOMENT = 1756700000000
 

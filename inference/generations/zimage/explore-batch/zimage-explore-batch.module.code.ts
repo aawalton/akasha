@@ -1,8 +1,11 @@
 import { appendFile, copyFile, mkdir, readFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, join } from "node:path"
-import { buildModelGraph } from "../graph/zimage-graph.module.code.ts"
-import { MODELS, toModelId } from "../models/zimage-models.module.code.ts"
+import { buildModelGraph } from "akasha/inference/generations/zimage/graph/zimage-graph.module.code.ts"
+import {
+  MODELS,
+  toModelId,
+} from "akasha/inference/generations/zimage/models/zimage-models.module.code.ts"
 
 export type Rendered = { readonly filename: string; readonly subfolder: string }
 

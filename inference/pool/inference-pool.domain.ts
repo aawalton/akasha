@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const inferencePool = {
   id: "01a06815-9efd-7015-b82a-e620372e1e32",

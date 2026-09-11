@@ -1,4 +1,4 @@
-import type { Domain } from "../../../../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const emailActionNotify = {
   id: "01a0675b-16e4-79c5-b78b-e333b399492e",

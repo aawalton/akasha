@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { healthSamplesIngestSchema, MAX_INGEST_SAMPLES } from "./health-samples-body.module.code.ts"
+import {
+  healthSamplesIngestSchema,
+  MAX_INGEST_SAMPLES,
+} from "akasha/persons/health-samples-body/health-samples-body.module.code.ts"
 
 const STEPS = {
   metric: "stepCount",

@@ -1,5 +1,4 @@
 import { createHash } from "node:crypto"
-import { z } from "zod"
 import {
   INFERENCE_OPERATIONS,
   INFERENCE_SERVICES,
@@ -7,7 +6,8 @@ import {
   type InferenceService,
   SERVICE_VERSIONS,
   ServiceVersionsSchema,
-} from "../services/inference-run-services.module.code.ts"
+} from "akasha/inference/runs/services/inference-run-services.module.code.ts"
+import { z } from "zod"
 
 export const InferenceRunRecordSchema = z.object({
   title: z.string(),

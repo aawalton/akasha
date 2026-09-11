@@ -1,4 +1,4 @@
-import type { GraphAttribute } from "../graph-attribute.page-type.types.ts"
+import type { GraphAttribute } from "akasha/graph/attributes/graph-attribute.page-type.types.ts"
 
 export type Known = "index" | "declaration"
 

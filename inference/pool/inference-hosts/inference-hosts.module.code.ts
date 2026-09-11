@@ -1,7 +1,7 @@
 import {
   type InferenceHost,
   InferenceHostSchema,
-} from "../inference-schema/inference-schema.module.code.ts"
+} from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
 
 export const HOSTS: Readonly<Record<string, InferenceHost>> = {
   macbook: InferenceHostSchema.parse({

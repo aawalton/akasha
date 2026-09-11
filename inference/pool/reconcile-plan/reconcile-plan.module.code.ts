@@ -6,7 +6,7 @@ import type {
   PruneAction,
   ReconcilePlan,
   SkipAction,
-} from "../inference-schema/inference-schema.module.code.ts"
+} from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
 
 export interface DesiredEntry {
   readonly service: InferenceService

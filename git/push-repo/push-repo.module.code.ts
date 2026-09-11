@@ -1,10 +1,10 @@
-import { git } from "../capping/git-capping.module.code.ts"
+import { git } from "akasha/git/capping/git-capping.module.code.ts"
 import {
   releasePushLock,
   takePushLock,
   writePushState,
-} from "../push-handoff/git-push-handoff.module.code.ts"
-import { pushBranch, remoteOf } from "../pushing/git-pushing.module.code.ts"
+} from "akasha/git/push-handoff/git-push-handoff.module.code.ts"
+import { pushBranch, remoteOf } from "akasha/git/pushing/git-pushing.module.code.ts"
 
 const PUSH_CEILING_MS = 120_000
 

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { isRiff } from "./riff-bytes.module.code.ts"
+import { isRiff } from "akasha/inference/clients/riff-bytes/riff-bytes.module.code.ts"
 
 const HEADER = 44
 

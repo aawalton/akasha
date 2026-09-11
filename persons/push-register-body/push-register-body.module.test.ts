@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { registerDeviceTokenSchema } from "./push-register-body.module.code.ts"
+import { registerDeviceTokenSchema } from "akasha/persons/push-register-body/push-register-body.module.code.ts"
 
 test("a body naming a token and iOS is taken", () => {
   expect(

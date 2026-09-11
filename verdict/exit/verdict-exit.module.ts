@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const verdictExit = {
   id: "01a05c87-a161-7870-a94a-5b4c8861bdc2",

@@ -1,4 +1,4 @@
-import type { ProvisionedFile } from "../../provisioned-file.page-type.types.ts"
+import type { ProvisionedFile } from "akasha/machines/provisioning/provisioned-files/provisioned-file.page-type.types.ts"
 
 export const containerInsecureRegistries = {
   id: "01a06862-af5c-7fa0-91f1-92764202b14a",

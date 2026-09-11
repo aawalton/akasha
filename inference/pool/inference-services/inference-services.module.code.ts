@@ -2,8 +2,8 @@ import {
   type InferenceService,
   InferenceServiceSchema,
   type ManagedEnv,
-} from "../inference-schema/inference-schema.module.code.ts"
-import { MLX_AUDIO_SERVICES } from "../mlx-audio-services/mlx-audio-services.module.code.ts"
+} from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
+import { MLX_AUDIO_SERVICES } from "akasha/inference/pool/mlx-audio-services/mlx-audio-services.module.code.ts"
 
 export const SERVICES: readonly InferenceService[] = [
   ...MLX_AUDIO_SERVICES,

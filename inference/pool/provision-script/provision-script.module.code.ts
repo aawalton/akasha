@@ -4,11 +4,11 @@ import {
   launchdLabel,
   plistPath,
   serviceDir,
-} from "../inference-naming/inference-naming.module.code.ts"
+} from "akasha/inference/pool/inference-naming/inference-naming.module.code.ts"
 import type {
   InferenceHost,
   InferenceService,
-} from "../inference-schema/inference-schema.module.code.ts"
+} from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
 
 function sq(value: string): string {
   return `'${value.replaceAll("'", "'\\''")}'`

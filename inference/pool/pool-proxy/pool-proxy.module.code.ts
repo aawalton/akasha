@@ -1,4 +1,4 @@
-import type { PoolService } from "../pool-config/pool-config.module.code.ts"
+import type { PoolService } from "akasha/inference/pool/pool-config/pool-config.module.code.ts"
 
 function upstreamUrl(internalPort: number, pathname: string, search: string): string {
   return `http://127.0.0.1:${internalPort}${pathname}${search}`

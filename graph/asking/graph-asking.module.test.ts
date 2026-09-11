@@ -1,16 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { relative } from "node:path"
-import {
-  type Answering,
-  answeringOver,
-  type PageOf,
-} from "akasha/pages/indexes/answering/index-answering.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { readingLaidOver } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { rootOf } from "../../commands/modules/rooting/rooting.module.code.ts"
-import { edgesInto, reachingInto } from "./graph-asking.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { edgesInto, reachingInto } from "akasha/graph/asking/graph-asking.module.code.ts"
 import {
   APART_AT,
   AT_INDEX,
@@ -48,7 +39,16 @@ import {
   TARGET_AT,
   THIRD_AT,
   TYPE_AT,
-} from "./graph-asking.module.test-fixtures.ts"
+} from "akasha/graph/asking/graph-asking.module.test-fixtures.ts"
+import {
+  type Answering,
+  answeringOver,
+  type PageOf,
+} from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { readingLaidOver } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 const REPO_AT = rootOf(import.meta.dir)
 

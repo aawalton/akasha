@@ -1,5 +1,8 @@
-import type { VerdictCoverage, VerdictFinding } from "../shape/verdict-shape.module.code.ts"
-import { renderCoverage } from "../text/verdict-text.module.code.ts"
+import type {
+  VerdictCoverage,
+  VerdictFinding,
+} from "akasha/verdict/shape/verdict-shape.module.code.ts"
+import { renderCoverage } from "akasha/verdict/text/verdict-text.module.code.ts"
 
 export type ReadingCoverage = VerdictCoverage
 

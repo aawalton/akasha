@@ -1,16 +1,16 @@
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
+  buildUpscaleServingJob,
+  UPSCALE_SERVING_BUCKET,
+  UPSCALE_SERVING_NAMESPACE,
+} from "akasha/inference/generations/upscale/serving-job/upscale-serving-job.module.code.ts"
+import {
   createJob,
   readJobPodLogs,
   waitForJob,
 } from "akasha/infrastructure/cluster/api/cluster-jobs/cluster-jobs.module.code.ts"
 import { makeSeaweedFSObjectStore } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { z } from "zod"
-import {
-  buildUpscaleServingJob,
-  UPSCALE_SERVING_BUCKET,
-  UPSCALE_SERVING_NAMESPACE,
-} from "../serving-job/upscale-serving-job.module.code.ts"
 
 const JOB_WAIT_TIMEOUT_MS = 31 * 60_000
 const JOB_POLL_MS = 5_000

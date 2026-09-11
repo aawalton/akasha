@@ -1,4 +1,4 @@
-import type { Computer } from "../computer.page-type.types.ts"
+import type { Computer } from "akasha/machines/computers/computer.page-type.types.ts"
 
 export const node06 = {
   id: "019e8b92-3986-783e-a1fb-0c525265432d",

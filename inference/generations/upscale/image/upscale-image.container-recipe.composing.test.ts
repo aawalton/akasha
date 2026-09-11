@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { recipeIn } from "./upscale-image.container-recipe.composing.code.ts"
+import { recipeIn } from "akasha/inference/generations/upscale/image/upscale-image.container-recipe.composing.code.ts"
 
 const HERE = dirname(import.meta.path)
 

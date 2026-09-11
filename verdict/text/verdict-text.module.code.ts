@@ -2,7 +2,7 @@ import type {
   AnyVerdict,
   VerdictCoverage,
   VerdictReach,
-} from "../shape/verdict-shape.module.code.ts"
+} from "akasha/verdict/shape/verdict-shape.module.code.ts"
 
 export const UNMEASURED = "UNMEASURED"
 

@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { CONSENT_TEXT, CONSENT_TEXT_VERSION } from "./sms-consent.module.code.ts"
+import {
+  CONSENT_TEXT,
+  CONSENT_TEXT_VERSION,
+} from "akasha/persons/sms-consent/sms-consent.module.code.ts"
 
 test("the version is a date, so one wording is told from another by when it was written", () => {
   expect(CONSENT_TEXT_VERSION).toMatch(/^\d{4}-\d{2}-\d{2}$/)

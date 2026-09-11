@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
 import type { Fetcher } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
-import { personSlugForAccount } from "./person-enrolment.module.code.ts"
+import { personSlugForAccount } from "akasha/persons/person-enrolment/person-enrolment.module.code.ts"
 import {
   accountStatedBy,
   noNap,
   overTheLiveStore,
   recordingFetcher,
-} from "./person-enrolment.module.test-fixtures.ts"
+} from "akasha/persons/person-enrolment/person-enrolment.module.test-fixtures.ts"
 
 const ACCOUNT_NOBODY_STATES = "00000000-0000-7000-8000-000000000000"
 

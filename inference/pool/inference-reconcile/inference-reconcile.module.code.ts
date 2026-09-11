@@ -4,35 +4,42 @@ import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit
 import {
   buildGuiSessionProbeScript,
   decideGuiSession,
-} from "../gui-session/gui-session.module.code.ts"
-import { getHost } from "../inference-hosts/inference-hosts.module.code.ts"
+} from "akasha/inference/pool/gui-session/gui-session.module.code.ts"
+import { getHost } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
 import {
   serviceDir,
   TRAFFIC_COP_SERVICE_NAME,
-} from "../inference-naming/inference-naming.module.code.ts"
+} from "akasha/inference/pool/inference-naming/inference-naming.module.code.ts"
 import {
   type ActualResource,
   ActualResourceSchema,
   type InferenceHost,
   type InferenceService,
   type ReconcilePlan,
-} from "../inference-schema/inference-schema.module.code.ts"
-import { MANAGED_ENVS, SERVICES } from "../inference-services/inference-services.module.code.ts"
-import { runSsh, runSshCapture, syncDir } from "../inference-ssh/inference-ssh.module.code.ts"
-import { computeInputsHash } from "../inputs-hash/inputs-hash.module.code.ts"
+} from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
+import {
+  MANAGED_ENVS,
+  SERVICES,
+} from "akasha/inference/pool/inference-services/inference-services.module.code.ts"
+import {
+  runSsh,
+  runSshCapture,
+  syncDir,
+} from "akasha/inference/pool/inference-ssh/inference-ssh.module.code.ts"
+import { computeInputsHash } from "akasha/inference/pool/inputs-hash/inputs-hash.module.code.ts"
 import {
   buildPoolConfig,
   buildWritePoolConfigScript,
   foldPoolConfigHash,
   serializePoolConfig,
-} from "../pool-config-build/pool-config-build.module.code.ts"
+} from "akasha/inference/pool/pool-config-build/pool-config-build.module.code.ts"
 import {
   buildApplyScript,
   buildPruneScript,
   buildQueryScript,
-} from "../provision-script/provision-script.module.code.ts"
-import { computePlan } from "../reconcile-plan/reconcile-plan.module.code.ts"
-import { foldServiceManifest } from "../service-hash/service-hash.module.code.ts"
+} from "akasha/inference/pool/provision-script/provision-script.module.code.ts"
+import { computePlan } from "akasha/inference/pool/reconcile-plan/reconcile-plan.module.code.ts"
+import { foldServiceManifest } from "akasha/inference/pool/service-hash/service-hash.module.code.ts"
 
 export interface ReconcileSummary {
   readonly applied: number

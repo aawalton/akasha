@@ -1,4 +1,4 @@
-import type { AuthorityKind } from "../authority-kind.page-type.types.ts"
+import type { AuthorityKind } from "akasha/persons/authority-kinds/authority-kind.page-type.types.ts"
 
 export const featureApproval = {
   id: "01a0542d-4b9e-79f1-a980-5b85fffc94cd",

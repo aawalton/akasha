@@ -1,4 +1,4 @@
-import type { ProvisionedFile } from "../../provisioned-file.page-type.types.ts"
+import type { ProvisionedFile } from "akasha/machines/provisioning/provisioned-files/provisioned-file.page-type.types.ts"
 
 export const containerShortNames = {
   id: "01a06862-af5c-7f74-8ad4-0444d0757ed5",

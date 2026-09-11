@@ -2,11 +2,20 @@ import {
   killService,
   startService,
   stopService,
-} from "../launchd-service/launchd-service.module.code.ts"
-import type { PoolConfig, PoolService } from "../pool-config/pool-config.module.code.ts"
-import type { createMutex, LockPriority } from "../pool-mutex/pool-mutex.module.code.ts"
-import { waitForPort, waitForPortFree } from "../port-readiness/port-readiness.module.code.ts"
-import { decideSwap } from "../swap-decision/swap-decision.module.code.ts"
+} from "akasha/inference/pool/launchd-service/launchd-service.module.code.ts"
+import type {
+  PoolConfig,
+  PoolService,
+} from "akasha/inference/pool/pool-config/pool-config.module.code.ts"
+import type {
+  createMutex,
+  LockPriority,
+} from "akasha/inference/pool/pool-mutex/pool-mutex.module.code.ts"
+import {
+  waitForPort,
+  waitForPortFree,
+} from "akasha/inference/pool/port-readiness/port-readiness.module.code.ts"
+import { decideSwap } from "akasha/inference/pool/swap-decision/swap-decision.module.code.ts"
 
 type PortPollOpts = { readonly timeoutMs: number; readonly intervalMs: number }
 

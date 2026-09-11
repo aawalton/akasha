@@ -1,4 +1,4 @@
-import type { PersonAccess } from "../person-access.page-type.types.ts"
+import type { PersonAccess } from "akasha/persons/person-accesses/person-access.page-type.types.ts"
 
 export const kiPageTypeKiEpisode = {
   id: "01a05433-f104-721c-acb4-2e62a1cdd395",

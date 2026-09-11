@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { parseSizeOrNull } from "./wan-size.module.code.ts"
+import { parseSizeOrNull } from "akasha/inference/generations/wan/size/wan-size.module.code.ts"
 
 test("two whole numbers parted by an x read as a size", () => {
   expect(parseSizeOrNull("1280x720")).toEqual({ width: 1280, height: 720 })

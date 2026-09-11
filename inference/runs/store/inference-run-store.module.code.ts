@@ -1,23 +1,26 @@
-import { JsonSchema } from "akasha/utils/narrow/json-schema/json-schema.module.code.ts"
-import { z } from "zod"
-import { landRow, mergeRow } from "../generation-log/generation-log.module.code.ts"
+import {
+  landRow,
+  mergeRow,
+} from "akasha/inference/runs/generation-log/generation-log.module.code.ts"
 import {
   defaultPersistAudioDeps,
   persistInferenceAudio,
   shouldPersistAudio,
-} from "../persist-audio/persist-audio.module.code.ts"
+} from "akasha/inference/runs/persist-audio/persist-audio.module.code.ts"
 import {
   defaultPersistImageDeps,
   persistInferenceImage,
   shouldPersistImage,
-} from "../persist-image/persist-image.module.code.ts"
+} from "akasha/inference/runs/persist-image/persist-image.module.code.ts"
 import {
   buildFinishPatch,
   type FinishInferenceRunInput,
   type InferenceRunRecord,
   sha256Hex,
-} from "../record/inference-run-record.module.code.ts"
-import { INFERENCE_RUN_PAGE_TYPE_SLUG } from "../services/inference-run-services.module.code.ts"
+} from "akasha/inference/runs/record/inference-run-record.module.code.ts"
+import { INFERENCE_RUN_PAGE_TYPE_SLUG } from "akasha/inference/runs/services/inference-run-services.module.code.ts"
+import { JsonSchema } from "akasha/utils/narrow/json-schema/json-schema.module.code.ts"
+import { z } from "zod"
 
 const RowValuesSchema = z.record(z.string(), JsonSchema)
 

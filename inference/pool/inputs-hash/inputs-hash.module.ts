@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const inputsHash = {
   id: "01a07740-d031-75fd-8c46-8bdcc92c5a1b",

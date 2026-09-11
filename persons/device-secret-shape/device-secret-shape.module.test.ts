@@ -3,7 +3,7 @@ import {
   DEVICE_SECRET_BODY_LENGTH,
   DEVICE_SECRET_PREFIX,
   hasDeviceSecretShape,
-} from "./device-secret-shape.module.code.ts"
+} from "akasha/persons/device-secret-shape/device-secret-shape.module.code.ts"
 
 const BODY = "a".repeat(DEVICE_SECRET_BODY_LENGTH)
 

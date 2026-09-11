@@ -1,7 +1,7 @@
 import { writeFile } from "node:fs/promises"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { ensureOutputDir } from "akasha/inference/clients/inference-output-path/inference-output-path.module.code.ts"
 import { z } from "zod"
-import { ensureOutputDir } from "../inference-output-path/inference-output-path.module.code.ts"
 
 export interface MusicRequestParams {
   readonly prompt: string

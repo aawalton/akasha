@@ -1,12 +1,15 @@
-import { z } from "zod"
 import {
   loadPoolConfig,
   type PoolConfig,
   type PoolService,
-} from "../pool-config/pool-config.module.code.ts"
-import { createMutex, type LockPriority } from "../pool-mutex/pool-mutex.module.code.ts"
-import { proxyToService } from "../pool-proxy/pool-proxy.module.code.ts"
-import { createSwapController } from "../pool-swap/pool-swap.module.code.ts"
+} from "akasha/inference/pool/pool-config/pool-config.module.code.ts"
+import {
+  createMutex,
+  type LockPriority,
+} from "akasha/inference/pool/pool-mutex/pool-mutex.module.code.ts"
+import { proxyToService } from "akasha/inference/pool/pool-proxy/pool-proxy.module.code.ts"
+import { createSwapController } from "akasha/inference/pool/pool-swap/pool-swap.module.code.ts"
+import { z } from "zod"
 
 const PRIORITY_HEADER = "x-cop-priority"
 

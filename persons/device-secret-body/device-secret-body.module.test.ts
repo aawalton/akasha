@@ -3,7 +3,7 @@ import {
   mintDeviceSecretResponseSchema,
   mintDeviceSecretSchema,
   revokeDeviceSecretSchema,
-} from "./device-secret-body.module.code.ts"
+} from "akasha/persons/device-secret-body/device-secret-body.module.code.ts"
 
 test("a mint body naming a device is taken", () => {
   expect(mintDeviceSecretSchema.safeParse({ deviceId: "a-device" }).success).toBe(true)

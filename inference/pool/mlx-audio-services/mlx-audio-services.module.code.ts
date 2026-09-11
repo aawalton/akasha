@@ -1,7 +1,7 @@
 import {
   type InferenceService,
   InferenceServiceSchema,
-} from "../inference-schema/inference-schema.module.code.ts"
+} from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
 
 export const MLX_AUDIO_SERVICES: readonly InferenceService[] = [
   InferenceServiceSchema.parse({

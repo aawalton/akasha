@@ -1,9 +1,12 @@
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { getHost } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
+import { TRAFFIC_COP_SERVICE_NAME } from "akasha/inference/pool/inference-naming/inference-naming.module.code.ts"
+import { SERVICES } from "akasha/inference/pool/inference-services/inference-services.module.code.ts"
+import {
+  runSshCapture,
+  type SshTarget,
+} from "akasha/inference/pool/inference-ssh/inference-ssh.module.code.ts"
 import { z } from "zod"
-import { getHost } from "../inference-hosts/inference-hosts.module.code.ts"
-import { TRAFFIC_COP_SERVICE_NAME } from "../inference-naming/inference-naming.module.code.ts"
-import { SERVICES } from "../inference-services/inference-services.module.code.ts"
-import { runSshCapture, type SshTarget } from "../inference-ssh/inference-ssh.module.code.ts"
 
 export interface CopHandle {
   readonly target: SshTarget

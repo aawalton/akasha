@@ -4,7 +4,7 @@ import {
   AUTHORED_FILE_NODE_TYPES,
   authorshipOf,
   nodeTypeOf,
-} from "./file-kind-authorship.module.code.ts"
+} from "akasha/graph/file-kind-authorship/file-kind-authorship.module.code.ts"
 
 test("a kind a hand writes is authored", () => {
   expect(authorshipOf("ts")).toBe("authored")

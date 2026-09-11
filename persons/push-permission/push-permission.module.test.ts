@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { decidePermissionAction } from "./push-permission.module.code.ts"
+import { decidePermissionAction } from "akasha/persons/push-permission/push-permission.module.code.ts"
 
 test("a device that granted the permission registers", () => {
   expect(decidePermissionAction("granted")).toBe("register")

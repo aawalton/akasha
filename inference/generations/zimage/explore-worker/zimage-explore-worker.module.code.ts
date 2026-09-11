@@ -16,10 +16,13 @@ import {
   homeOf,
   renderedIn,
   submitted,
-} from "../explore-batch/zimage-explore-batch.module.code.ts"
-import { buildModelGraph } from "../graph/zimage-graph.module.code.ts"
-import type { ModelSpec } from "../models/zimage-models.module.code.ts"
-import { MODELS, toModelId } from "../models/zimage-models.module.code.ts"
+} from "akasha/inference/generations/zimage/explore-batch/zimage-explore-batch.module.code.ts"
+import { buildModelGraph } from "akasha/inference/generations/zimage/graph/zimage-graph.module.code.ts"
+import type { ModelSpec } from "akasha/inference/generations/zimage/models/zimage-models.module.code.ts"
+import {
+  MODELS,
+  toModelId,
+} from "akasha/inference/generations/zimage/models/zimage-models.module.code.ts"
 
 const IDLE_POLL_MS = 2000
 

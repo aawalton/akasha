@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { argvFor, askedFor, said, told } from "./git-running.module.code.ts"
+import { argvFor, askedFor, said, told } from "akasha/git/running/git-running.module.code.ts"
 
 const SEED = "seed"
 

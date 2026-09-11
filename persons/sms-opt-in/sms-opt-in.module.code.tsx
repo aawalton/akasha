@@ -3,9 +3,9 @@ import { Checkbox } from "akasha/design/interfaces/primitives/checkbox/checkbox.
 import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"
 import { Label } from "akasha/design/interfaces/primitives/label/label.module.code.tsx"
+import { CONSENT_TEXT } from "akasha/persons/sms-consent/sms-consent.module.code.ts"
 import { type FormEvent, useState } from "react"
 import { z } from "zod"
-import { CONSENT_TEXT } from "../sms-consent/sms-consent.module.code.ts"
 
 const ResponseSchema = z.object({ ok: z.boolean().optional(), error: z.string().optional() })
 

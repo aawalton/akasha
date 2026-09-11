@@ -9,12 +9,12 @@ import {
   type Sleeper,
   writingFor,
 } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
-import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 import {
   DEVICE_SECRET_PREFIX,
   hasDeviceSecretShape,
-} from "../device-secret-shape/device-secret-shape.module.code.ts"
-import { personSlugForAccount } from "../person-enrolment/person-enrolment.module.code.ts"
+} from "akasha/persons/device-secret-shape/device-secret-shape.module.code.ts"
+import { personSlugForAccount } from "akasha/persons/person-enrolment/person-enrolment.module.code.ts"
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 export const DEVICE_SECRET_PAGE_TYPE = "device-secret"
 

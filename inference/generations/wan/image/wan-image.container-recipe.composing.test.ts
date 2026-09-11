@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { recipeIn } from "akasha/inference/generations/wan/image/wan-image.container-recipe.composing.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
-import { recipeIn } from "./wan-image.container-recipe.composing.code.ts"
 
 const ROOT = codeRoot()
 

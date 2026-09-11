@@ -1,4 +1,4 @@
-import { git } from "../capping/git-capping.module.code.ts"
+import { git } from "akasha/git/capping/git-capping.module.code.ts"
 
 export const TRANSPORT = "origin"
 

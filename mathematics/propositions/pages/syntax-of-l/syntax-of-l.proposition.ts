@@ -1,4 +1,4 @@
-import type { Proposition } from "../../proposition.page-type.types.ts"
+import type { Proposition } from "akasha/mathematics/propositions/proposition.page-type.types.ts"
 
 export const syntaxOfL = {
   id: "019f0edc-7797-7e41-8158-12a744341f98",

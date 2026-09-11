@@ -1,9 +1,9 @@
-import { runGitRaw } from "../answering/git-answering.module.code.ts"
+import { runGitRaw } from "akasha/git/answering/git-answering.module.code.ts"
 import {
   PORCELAIN_STATUS_ARGS,
   type PorcelainEntry,
   parsePorcelainStatusZ,
-} from "../porcelain-status/porcelain-status.module.code.ts"
+} from "akasha/git/porcelain-status/porcelain-status.module.code.ts"
 
 export type PorcelainStatusResult =
   | { readonly ok: true; readonly entries: readonly PorcelainEntry[] }
