@@ -2,6 +2,7 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
 import {
   homeAt,
   installing,
@@ -155,6 +156,7 @@ async function ran(argv: readonly string[], given: Given): Promise<Answer> {
   const reached = await reachedFor(given.root, slug)
   if ("refused" in reached) return refused(reached.refused, DATA)
 
+  allowedThrough()
   await reached.running()
   return { report: [`${RUN}\t${slug}`], refusals: [], code: 0 }
 }

@@ -33,6 +33,7 @@ export const infrastructureService = {
     "a unit of ours that the pages no longer account for is disabled and taken away by `sweep`.",
     "putting a service's units where systemd reads them is `akasha deploy`, which nothing here does.",
     "a systemctl that refuses is carried back as a refusal rather than printed beside a success.",
+    "`run` runs under no ceiling on the wall clock, since a service runs until it is stopped.",
   ],
   invariants: [
     {
@@ -94,6 +95,14 @@ export const infrastructureService = {
     {
       invariantKind: "gap",
       statement: "A service akasha carries is reached from the cluster.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run is let through the wall clock ceiling once the service's code is reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An act other than a run is stopped at the seconds this page allows.",
     },
   ],
 } as const satisfies Command
