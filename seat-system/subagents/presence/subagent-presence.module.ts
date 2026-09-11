@@ -261,5 +261,9 @@ export const subagentPresence = {
       statement:
         "A run of hyphens between the seat's name and the subagent's own id is written as one.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page composed names its type from the root rather than by a relative path.",
+    },
   ],
 } as const satisfies Module

@@ -110,7 +110,7 @@ export function bodyOf(
   id: string | null = null
 ): string {
   return [
-    'import type { Subagent } from "../../subagent.page-type.types.ts"',
+    'import type { Subagent } from "akasha/seat-system/subagents/subagent.page-type.types.ts"',
     "",
     `export const ${exportedAs(slug)} = {`,
     ...(id === null ? [] : [`  id: ${said(id)},`]),

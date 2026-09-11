@@ -127,7 +127,7 @@ test("a log sits in the seat's own folder named for this module", () => {
 
 test("a body states the type and slug and seat and assignment and kind and agent id", () => {
   const body = bodyOf("akasha-abc", "akasha", "domain/akasha-system", "Explore", "seat--own")
-  expect(body).toContain('from "../../subagent.page-type.types.ts"')
+  expect(body).toContain('from "akasha/seat-system/subagents/subagent.page-type.types.ts"')
   expect(body).toContain("export const akashaAbc = {")
   expect(body).toContain('pageTypeSlug: "subagent"')
   expect(body).toContain('type: "subagent"')
