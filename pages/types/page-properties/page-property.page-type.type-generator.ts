@@ -1,9 +1,9 @@
 import type { Adding } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { exportedAs, typedAs } from "../../export-name/page-export-name.module.code.ts"
-import { besideAt } from "../../file-name/page-file-name.module.code.ts"
-import type { Shadow } from "../../shadow/shadow.module.code.ts"
-import { keysFor, resolvingIn } from "../page-type.page-type.type-generator.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import { keysFor, resolvingIn } from "akasha/pages/types/page-type.page-type.type-generator.ts"
 
 const PAGE_PROPERTY = "page-property"
 

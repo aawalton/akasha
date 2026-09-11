@@ -1,18 +1,18 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   listedFiled,
   schemaFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
-import { valueAt } from "../../value/page-value.module.code.ts"
 import {
   type Carried,
   declarationsOf,
   membersIfNamed,
   propertiesOf,
   sourceIn,
-} from "./declared-properties.module.code.ts"
+} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 export const scratch = scratchWorld()
 

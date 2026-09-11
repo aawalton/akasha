@@ -1,4 +1,4 @@
-import type { BooleanProperty } from "../../boolean-properties/boolean-property.page-type.types.ts"
+import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
 export const secret = {
   id: "01a0547c-6ae7-7000-897a-83b3e0d40bc4",

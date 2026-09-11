@@ -1,4 +1,4 @@
-import type { BooleanProperty } from "../../boolean-properties/boolean-property.page-type.types.ts"
+import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
 export const frameFocusMode = {
   id: "01a0683a-620a-7c50-9431-5e9e2efdc3e9",

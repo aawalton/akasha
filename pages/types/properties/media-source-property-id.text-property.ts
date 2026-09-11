@@ -1,4 +1,4 @@
-import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
 export const mediaSourcePropertyId = {
   id: "01a062b8-8775-7004-96c1-c6b300535f4e",

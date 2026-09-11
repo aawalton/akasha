@@ -1,4 +1,4 @@
-import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
 export const progressPropertyId = {
   id: "01a0683a-620a-7e65-a95a-efdc99a80eaa",

@@ -1,4 +1,4 @@
-import type { BooleanProperty } from "../../../boolean-properties/boolean-property.page-type.types.ts"
+import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
 export const nullable = {
   id: "01a08d70-c263-7e18-b970-543a49a8397c",

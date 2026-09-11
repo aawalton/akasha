@@ -1,4 +1,4 @@
-import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
 export const sequenceGroupBy = {
   id: "01a062de-2001-7001-8470-331eaddff9ce",

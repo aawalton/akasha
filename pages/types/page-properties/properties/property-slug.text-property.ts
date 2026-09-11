@@ -1,4 +1,4 @@
-import type { TextProperty } from "../../../text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
 export const propertySlug = {
   id: "01a0539b-2a0f-7187-ba5a-aa8bff23fe15",

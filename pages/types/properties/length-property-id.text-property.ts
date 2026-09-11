@@ -1,4 +1,4 @@
-import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
 export const lengthPropertyId = {
   id: "01a0683a-620a-7c9f-8c62-ed7e2e10a9ca",

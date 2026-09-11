@@ -1,6 +1,10 @@
-import { heldOnce, valuesOfType } from "../../indexes/reading/index-reading.module.code.ts"
-import type { Reading } from "../../indexes/shape/index-shape.module.code.ts"
-import { slugsIn, textAt, type Value } from "../../value-reading/page-value-reading.module.code.ts"
+import { heldOnce, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import {
+  slugsIn,
+  textAt,
+  type Value,
+} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

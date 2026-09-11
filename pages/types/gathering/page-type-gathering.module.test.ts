@@ -5,7 +5,11 @@ import {
   indexedRepo,
   scratch,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { typeSlugsIn, typesAmong, typeValuesIn } from "./page-type-gathering.module.code.ts"
+import {
+  typeSlugsIn,
+  typesAmong,
+  typeValuesIn,
+} from "akasha/pages/types/gathering/page-type-gathering.module.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
+import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 
 export const childCollection = {
   id: "01a0683a-620a-7821-a81d-95fedabac32d",

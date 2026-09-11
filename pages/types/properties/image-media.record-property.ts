@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
+import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 
 export const imageMedia = {
   id: "01a062b8-8775-7002-af76-179b0e1a6c4c",

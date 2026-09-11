@@ -1,4 +1,4 @@
-import type { PageType } from "../page-type.page-type.types.ts"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export type List<T> = readonly T[]
 

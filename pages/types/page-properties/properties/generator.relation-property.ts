@@ -1,4 +1,4 @@
-import type { RelationProperty } from "../../../relation-properties/relation-property.page-type.types.ts"
+import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
 
 export const generator = {
   id: "01a04f17-5b7b-7835-87db-af7b36e912b5",

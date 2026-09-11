@@ -1,9 +1,9 @@
 import type { Adding } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { exportedAs, typedAs } from "../export-name/page-export-name.module.code.ts"
-import { besideAt } from "../file-name/page-file-name.module.code.ts"
-import type { Shadow } from "../shadow/shadow.module.code.ts"
-import { slugsIn } from "../value-reading/page-value-reading.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import { slugsIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const ROOT = "akasha/"
 

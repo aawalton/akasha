@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { folderFor } from "./page-type-folder.module.code.ts"
+import { folderFor } from "akasha/pages/types/folder/page-type-folder.module.code.ts"
 
 const CHANGE = { slug: "change", pluralSlug: "changes" }
 

@@ -1,19 +1,19 @@
+import { addressIn, slugIn } from "akasha/pages/address/page-address.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import type {
   Identifier,
   ScopedBy,
 } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import { listedAt, schemaOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading, Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { addressIn, slugIn } from "../../address/page-address.module.code.ts"
-import { exportedAs } from "../../export-name/page-export-name.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import {
   numberAt,
   slugAt,
   slugsIn,
   textAt,
   type Value,
-} from "../../value-reading/page-value-reading.module.code.ts"
-import { kindsUnder } from "../descent/page-type-descent.module.code.ts"
+} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

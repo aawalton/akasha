@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
+import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 
 export const sequence = {
   id: "01a062de-2001-7000-bc0f-0dd4d369ec1b",

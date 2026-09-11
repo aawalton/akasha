@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
+import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 
 export const audioMedia = {
   id: "01a062b8-8775-7001-8dc5-cf2cfeb779b3",

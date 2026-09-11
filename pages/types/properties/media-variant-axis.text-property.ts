@@ -1,4 +1,4 @@
-import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
 export const mediaVariantAxis = {
   id: "01a062b8-8775-7005-bf65-1446f2feb5d3",

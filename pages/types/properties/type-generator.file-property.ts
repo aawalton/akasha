@@ -1,4 +1,4 @@
-import type { FileProperty } from "../../file-properties/file-property.page-type.types.ts"
+import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
 export type TypeGenerator = "ts"
 
