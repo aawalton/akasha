@@ -8,4 +8,5 @@ export const alanwaltonStageApp = {
   definition: "the in-shell SPA built and put where Capacitor serves it",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
