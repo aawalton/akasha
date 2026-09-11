@@ -68,6 +68,10 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
+      statement: "A carried import names what its path exports under the name the body gave it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An import the body left behind no longer names goes with the declaration.",
     },
     {

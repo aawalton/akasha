@@ -446,3 +446,26 @@ test("that other name is kept where the import naming it names something else to
       `import type { Kept as Held } from "./two.held.ts"`,
   ])
 })
+
+const CARRIED_ALIAS = `import { said as gitIn } from "./git.held.ts"
+
+export const AT = gitIn("a")
+`
+
+test("a carried import names what its path exports under the name the body gave it", async () => {
+  const world = worldOf({ [FROM]: CARRIED_ALIAS })
+
+  const said = await runChange(world, { from: FROM, to: TO, of: "AT" })
+
+  expect(said.refused).toBeNull()
+  expect(addedAt(said, TO)).toBe(CARRIED_ALIAS)
+})
+
+test("a landing body takes that carried import under that name too", async () => {
+  const world = worldOf({ [FROM]: CARRIED_ALIAS, [TO]: BARE })
+
+  const said = await runChange(world, { from: FROM, to: TO, of: "AT" })
+
+  expect(said.refused).toBeNull()
+  expect(puttingAt(said, TO).join("")).toContain(`import { said as gitIn } from "./git.held.ts"`)
+})

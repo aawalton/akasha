@@ -56,6 +56,8 @@ type Plan = {
 
 type Refused = { readonly refused: string }
 
+type Carrying = Carried & { readonly naming: string }
+
 type Held =
   | ts.TypeAliasDeclaration
   | ts.InterfaceDeclaration
@@ -90,14 +92,31 @@ function textOfNode(text: string, one: ts.Node): string {
   return text.slice(one.getStart(one.getSourceFile()), one.getEnd())
 }
 
-function carriedIn(declared: Held): ReadonlyMap<string, Carried> {
-  const held = importsIn(declared.getSourceFile())
-  const found = new Map<string, Carried>()
-  for (const name of namesIn(declared)) {
-    const named = held.get(name)
-    if (named !== undefined) found.set(name, named)
+function namingsIn(source: ts.SourceFile): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  for (const one of source.statements) {
+    if (!ts.isImportDeclaration(one)) continue
+    const bound = namedIn(one)
+    if (bound === null) continue
+    for (const each of bound.elements) found.set(each.name.text, namingOf(each))
   }
   return found
+}
+
+function carriedIn(declared: Held): ReadonlyMap<string, Carrying> {
+  const source = declared.getSourceFile()
+  const held = importsIn(source)
+  const naming = namingsIn(source)
+  const found = new Map<string, Carrying>()
+  for (const name of namesIn(declared)) {
+    const named = held.get(name)
+    if (named !== undefined) found.set(name, { ...named, naming: naming.get(name) ?? name })
+  }
+  return found
+}
+
+function namedAs(name: string, one: Carrying): string {
+  return one.naming === name ? name : `${one.naming} as ${name}`
 }
 
 function spelledFor(given: Asked, from: string): string {
@@ -110,11 +129,11 @@ function ownIn(given: Asked, from: string): boolean {
   return from.startsWith(BESIDE) && landingOf(given.from, from) === given.to
 }
 
-function bodyFor(carried: ReadonlyMap<string, Carried>, passage: string, given: Asked): string {
+function bodyFor(carried: ReadonlyMap<string, Carrying>, passage: string, given: Asked): string {
   const lines = [...carried]
     .filter(([, named]) => !ownIn(given, named.from))
     .sort((one, two) => one[1].from.localeCompare(two[1].from))
-    .map(([name, named]) => lineFor(name, spelledFor(given, named.from), named.type))
+    .map(([name, one]) => lineFor(namedAs(name, one), spelledFor(given, one.from), one.type))
   const held = `${passage.replace(/^\n+/, "").trimEnd()}${LINE}`
   return lines.length === 0 ? held : `${lines.join(LINE)}${LINE}${LINE}${held}`
 }
@@ -251,7 +270,7 @@ function repointedIn(world: World, given: Asked): { readonly found: readonly Pas
 function ontoFor(
   given: Asked,
   whole: string,
-  carried: ReadonlyMap<string, Carried>,
+  carried: ReadonlyMap<string, Carrying>,
   passage: string
 ): Passage | Refused {
   const first = parsedAs(given.to, whole)
@@ -265,7 +284,7 @@ function ontoFor(
     const spelled = spelledFor(given, one.from)
     const there = held.get(name)
     if (there === undefined) {
-      lines.push(lineFor(name, spelled, one.type))
+      lines.push(lineFor(namedAs(name, one), spelled, one.type))
       continue
     }
     if (there.from !== spelled) {
