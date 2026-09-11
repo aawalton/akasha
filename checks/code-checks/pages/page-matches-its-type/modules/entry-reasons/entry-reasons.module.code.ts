@@ -1,9 +1,5 @@
 import { addressIn } from "akasha/pages/address/page-address.module.code.ts"
-import {
-  entriedAmong,
-  entriesIn,
-  type Rows,
-} from "akasha/pages/entries/page-entries.module.code.ts"
+import { entriedAmong, entriesIn } from "akasha/pages/entries/page-entries.module.code.ts"
 import { partsReading } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import type { Formatting } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
@@ -211,19 +207,29 @@ export function fieldsOf(
   return said
 }
 
-export function entriesOver(
-  path: string,
-  propertySlug: string,
-  held: string,
-  beside: (at: string) => string | null
-): Rows {
-  const found: Value[] = []
-  for (const [at, text] of partsReading(path, propertySlug, held, beside)) {
-    const read = entriesIn(at, text)
-    if ("refused" in read) return read
-    found.push(...read.entries)
+function entryShapingFor(
+  one: Carried,
+  shadow: Shadow,
+  pageFor: (each: Carried) => Value | null,
+  formatting: Formatting,
+  fieldsIn: Fielding
+): Shaping | null {
+  const page = pageFor(one)
+  if (page === null) return null
+  const slug = one.pagePropertySlug
+  const fields = fieldsFor(page, shadow, slug)
+  if (fields.size === 0) return null
+  return { fields, slug, pageFor, formatting, fieldsIn }
+}
+
+function rowsJudged(rows: readonly Value[], shaping: Shaping, said: string[]): undefined {
+  const slug = shaping.slug
+  for (const entry of rows) {
+    if (typeof entry[ID] !== "string") {
+      said.push(`keeps an entry of \`${slug}\` carrying no id, and every entry carries an id`)
+    }
+    for (const reason of fieldsOf(entry, shaping, OWN)) said.push(reason)
   }
-  return { entries: found }
 }
 
 export function entryReasonsIn(
@@ -241,23 +247,23 @@ export function entryReasonsIn(
   for (const one of entriedAmong(declared)) {
     const held = value[one.key]
     if (typeof held !== "string") continue
-    const read = entriesOver(path, one.propertySlug, held, beside)
-    if ("refused" in read) {
-      said.push(read.refused)
+    const shaping = entryShapingFor(one, shadow, pageFor, formatting, fieldsIn)
+    const found: string[] = []
+    let refused: string | null = null
+    for (const [at, text] of partsReading(path, one.propertySlug, held, beside)) {
+      const read = entriesIn(at, text)
+      if ("refused" in read) {
+        refused = read.refused
+        break
+      }
+      if (shaping === null) continue
+      rowsJudged(read.entries, shaping, found)
+    }
+    if (refused !== null) {
+      said.push(refused)
       continue
     }
-    const page = pageFor(one)
-    if (page === null) continue
-    const slug = one.pagePropertySlug
-    const fields = fieldsFor(page, shadow, slug)
-    if (fields.size === 0) continue
-    const shaping: Shaping = { fields, slug, pageFor, formatting, fieldsIn }
-    for (const entry of read.entries) {
-      if (typeof entry[ID] !== "string") {
-        said.push(`keeps an entry of \`${slug}\` carrying no id, and every entry carries an id`)
-      }
-      said.push(...fieldsOf(entry, shaping, OWN))
-    }
+    for (const reason of found) said.push(reason)
   }
   return said
 }

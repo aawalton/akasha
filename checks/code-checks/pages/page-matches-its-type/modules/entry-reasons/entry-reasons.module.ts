@@ -91,5 +91,17 @@ export const entryReasons = {
       invariantKind: "departure",
       statement: "An entry file that will not read refuses the page.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The rows of one entry file are judged before the next file is read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file that will not read leaves the rows judged before it giving no reason.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file that will not read leaves the files after it unread.",
+    },
   ],
 } as const satisfies Module

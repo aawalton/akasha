@@ -99,3 +99,13 @@ test("the cases beside the restatement test are read and judged", () => {
 test("a numbered entry file is read once rather than looked for and then read", () => {
   expect(secondPartReads("", ID_LESS)).toBe(1)
 })
+
+test("a part that will not read leaves the rows read before it giving no reason", () => {
+  const said = partsJudged(ID_LESS, "no json here\n")
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("unknown rather than nothing")
+})
+
+test("a part that will not read leaves the parts after it unread", () => {
+  expect(secondPartReads("no json here\n", ID_LESS)).toBe(0)
+})
