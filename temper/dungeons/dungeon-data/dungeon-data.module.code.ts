@@ -1,5 +1,5 @@
-import type { Dungeon } from "../dungeon-registry/dungeon-registry.module.code.ts"
-import type { QuestGiver } from "../pledge-rotation/pledge-rotation.module.code.ts"
+import type { Dungeon } from "akasha/temper/dungeons/dungeon-registry/dungeon-registry.module.code.ts"
+import type { QuestGiver } from "akasha/temper/dungeons/pledge-rotation/pledge-rotation.module.code.ts"
 
 export const TEMPER_DUNGEONS = [
   {
