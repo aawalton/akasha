@@ -36,5 +36,5 @@ export const removePropertyRecord = {
       statement: "Nothing here works out a body of its own.",
     },
   ],
-  changeKind: "change-checked",
+  changeKind: "change-authored",
 } as const satisfies ChangeAgent
