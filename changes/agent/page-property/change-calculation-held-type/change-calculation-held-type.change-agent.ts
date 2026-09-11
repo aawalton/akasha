@@ -10,6 +10,7 @@ export const changeCalculationHeldType = {
   definition: "every calculation naming its own property's type rather than restating that kind",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

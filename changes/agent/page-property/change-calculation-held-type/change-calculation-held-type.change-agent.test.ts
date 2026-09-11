@@ -3,6 +3,14 @@ import {
   changeCalculationHeldType,
   runChange,
 } from "akasha/changes/agent/page-property/change-calculation-held-type/change-calculation-held-type.change-agent.code.ts"
+import {
+  APART,
+  APART_CODE,
+  AT,
+  CODE,
+  KIND_AT,
+  TYPES_IMPORT,
+} from "akasha/changes/agent/page-property/change-calculation-held-type/change-calculation-held-type.change-agent.test-fixtures.ts"
 import type { Reaching, World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   catching,
@@ -12,18 +20,9 @@ import {
 
 const KIND = "computed-property"
 
-const AT = "held/ones/properties/total-remaining.computed-property.ts"
-
-const APART = "apart/ones/properties/total-remaining.computed-property.ts"
-
-const CODE = "held/ones/properties/total-remaining.computed-property.code.ts"
-
-const APART_CODE = "apart/ones/properties/total-remaining.computed-property.code.ts"
-
 const REACHED = "change-mechanical-file-content/change-file-content-code"
 
-const WORK_AT =
-  'import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"'
+const WORK_AT = `import type { Work } from "${KIND_AT}"`
 
 const BODY = `${WORK_AT}
 
@@ -40,8 +39,7 @@ const LOOSE = `${WORK_AT}
 export const held = 1
 `
 
-const REACHING_AT =
-  'import type { Reach, Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"'
+const REACHING_AT = `import type { Reach, Work } from "${KIND_AT}"`
 
 const REACHING = `${REACHING_AT}
 
@@ -90,7 +88,7 @@ test("the type named is imported from beside the property", async () => {
   await changeCalculationHeldType(worldFor(catching(seen), { [CODE]: BODY }), {})
 
   expect(String(seen[1]?.given ? (seen[1]?.given as { new: string }).new : "")).toContain(
-    'import type { TotalRemaining } from "akasha/held/ones/properties/total-remaining.computed-property.types.ts"'
+    TYPES_IMPORT
   )
 })
 
@@ -102,7 +100,7 @@ test("a calculation taking a reach as well is named beside the shape it takes", 
   expect(said.refused).toBeNull()
   expect(seen[1]?.given).toEqual({
     at: CODE,
-    new: `import type { TotalRemaining } from "akasha/held/ones/properties/total-remaining.computed-property.types.ts"\n${REACHING_AT}`,
+    new: `${TYPES_IMPORT}\n${REACHING_AT}`,
     old: REACHING_AT,
   })
 })
