@@ -44,6 +44,25 @@ export function repo(files: Record<string, string>): string {
   return root
 }
 
+export const TREE = "akasha"
+
+export const TYPE_WAS = `${TREE}/text-property.page-type.ts`
+
+export const TYPE_NOW = `${TREE}/types/text-property.page-type.ts`
+
+const INDEXES = Bun.resolveSync(
+  "akasha/pages/indexes/reading/index-reading.module.code.ts",
+  import.meta.dir
+)
+
+export const RESOLVES =
+  'import { expect, test } from "bun:test"\n' +
+  `import { listedAt } from ${JSON.stringify(INDEXES)}\n` +
+  'test("one", () => {\n' +
+  '  const found = listedAt(process.cwd(), "page-type", "text-property")\n' +
+  `  expect(found.map((one) => one.path)).toEqual([${JSON.stringify(TYPE_NOW)}])\n` +
+  "})\n"
+
 export const SORTED_AT = "utils/narrow/sorted-once/sorted-once.module.test.ts"
 
 export const COUNTED_AT = "utils/text/counted/counted.module.test.ts"

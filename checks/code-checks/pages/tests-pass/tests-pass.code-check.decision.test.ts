@@ -36,10 +36,14 @@ import {
   HOLDS,
   PASSES,
   READS,
+  RESOLVES,
   repo,
   SORTED_AT,
   scratch,
   THROWS,
+  TREE,
+  TYPE_NOW,
+  TYPE_WAS,
   withGuard,
   withoutGuard,
 } from "./tests-pass.code-check.decision.test-fixtures.ts"
@@ -256,25 +260,6 @@ test("the whole run is carried rather than the end of the run", () => {
   expect(said).toContain("line 0\n")
   expect(said).toContain("line 199")
 })
-
-const TREE = "akasha"
-
-const TYPE_WAS = `${TREE}/text-property.page-type.ts`
-
-const TYPE_NOW = `${TREE}/types/text-property.page-type.ts`
-
-const INDEXES = Bun.resolveSync(
-  "akasha/pages/indexes/reading/index-reading.module.code.ts",
-  import.meta.dir
-)
-
-const RESOLVES =
-  'import { expect, test } from "bun:test"\n' +
-  `import { listedAt } from ${JSON.stringify(INDEXES)}\n` +
-  'test("one", () => {\n' +
-  '  const found = listedAt(process.cwd(), "page-type", "text-property")\n' +
-  `  expect(found.map((one) => one.path)).toEqual([${JSON.stringify(TYPE_NOW)}])\n` +
-  "})\n"
 
 test("a run under a change that moves a page type resolves that page type where it lands", () => {
   const root = repoAt(realpathSync(scratch.rootFor("tests-pass-moved-")), typingUnder(TREE))
