@@ -50,6 +50,16 @@ function movedInto(world: World, at: string, to: string, under: readonly string[
   return { moved: said }
 }
 
+function searchable(world: World): (path: string) => string | null {
+  return (path) => {
+    try {
+      return world.textOf(path)
+    } catch {
+      return null
+    }
+  }
+}
+
 function waysNaming(world: World, at: string, moved: ReadonlyMap<string, string>): boolean {
   const held = world.textOf(at)
   if (held === null) return false
@@ -119,7 +129,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     seen = answer.world
   }
   const known = new Set([...moved.keys(), ...reading.importers])
-  for (const path of spellersIn(seen.index.everyPath(), seen.textOf, moved, known)) {
+  for (const path of spellersIn(seen.index.everyPath(), searchable(seen), moved, known)) {
     const asked = { was: path, now: path, moved: carried }
     const answer = await reach(seen, CHANGE_IMPORTS, asked)
     if (answer.said.refused !== null) return answer.said

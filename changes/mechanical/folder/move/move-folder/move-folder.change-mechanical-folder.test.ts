@@ -58,6 +58,8 @@ const CHANGE_MANIFEST_WAYS = "change-mechanical-file-content/change-manifest-way
 
 const MANIFEST = "akasha/package.json"
 
+const NOT_TEXT = "akasha/five/weights.onnx"
+
 const MANIFEST_BODY = `{
   "name": "@akasha/four",
   "exports": {
@@ -66,8 +68,8 @@ const MANIFEST_BODY = `{
 }
 `
 
-function worldIn(root: string): World {
-  return worldAt(root, textIn(root), (world, at, given) => {
+function worldOn(root: string, read: (path: string) => string | null): World {
+  return worldAt(root, read, (world, at, given) => {
     if (at === MOVE_FILE) {
       return Promise.resolve(moveFile(world, given as Parameters<typeof moveFile>[1]))
     }
@@ -78,6 +80,19 @@ function worldIn(root: string): World {
     }
     return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
   })
+}
+
+function worldIn(root: string): World {
+  return worldOn(root, textIn(root))
+}
+
+function worldUnreadable(root: string): World {
+  const read = textIn(root)
+  const world = worldOn(root, (path) => {
+    if (path === NOT_TEXT) throw new Error(`\`${path}\` is not text`)
+    return read(path)
+  })
+  return { ...world, index: { ...world.index, everyPath: () => [NOT_TEXT] } }
 }
 
 function worldNaming(root: string): World {
@@ -147,6 +162,15 @@ test("a manifest naming no path that moved is left as that manifest is", async (
 
   expect(said.refused).toBeNull()
   expect(bodiesIn(said, world.base).has(MANIFEST)).toBe(false)
+})
+
+test("a body that is not text is searched for no name", async () => {
+  const root = indexedRepo(HELD)
+  put(root, NOT_TEXT, "gamma.module.code.ts")
+  const said = await runChange(worldUnreadable(root), { from: FROM, to: INTO })
+
+  expect(said.refused).toBeNull()
+  expect(pathsIn(said)).not.toContain(NOT_TEXT)
 })
 
 test("a file the index names nowhere is carried with the rest", async () => {

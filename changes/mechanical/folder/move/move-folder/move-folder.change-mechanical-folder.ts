@@ -137,6 +137,10 @@ export const moveFolder = {
       invariantKind: "departure",
       statement: "A generated body importing what moved is written by the generator.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A body that is not text spells no path that moved.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFolder
