@@ -27,5 +27,13 @@ export const addonLog = {
       invariantKind: "departure",
       statement: "A first value holding a placeholder takes the values after it as its fillings.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Whether a log viewer is loaded is read once, as an add-on's log is made.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A log viewer loading after that read is not seen.",
+    },
   ],
 } as const satisfies Module
