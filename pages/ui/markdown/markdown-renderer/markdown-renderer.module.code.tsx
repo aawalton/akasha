@@ -7,15 +7,12 @@ import { MentionChip } from "akasha/pages/ui/markdown/mention-chip/mention-chip.
 import type { MentionResolver } from "akasha/pages/ui/markdown/remark-mentions/remark-mentions.module.code.ts"
 import { remarkMentions } from "akasha/pages/ui/markdown/remark-mentions/remark-mentions.module.code.ts"
 import { remarkSectionize } from "akasha/pages/ui/markdown/remark-sectionize/remark-sectionize.module.code.ts"
+import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
 import type { ReactNode } from "react"
 import { useMemo } from "react"
 import type { Components } from "react-markdown"
 import ReactMarkdown from "react-markdown"
 import remarkGfm from "remark-gfm"
-
-function asString(value: unknown): string {
-  return typeof value === "string" ? value : ""
-}
 
 function asOptionalString(value: unknown): string | undefined {
   return typeof value === "string" ? value : undefined
@@ -127,8 +124,8 @@ export function MarkdownRenderer({
     const mentionComponent = {
       mention: (props: Record<string, unknown>) => (
         <MentionChip
-          mentionType={asString(props.mentionType)}
-          mentionId={asString(props.mentionId)}
+          mentionType={parseString(props.mentionType)}
+          mentionId={parseString(props.mentionId)}
           mentionAnchor={asOptionalString(props.mentionAnchor)}
           resolver={resolver}
         />
