@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const oauthClient = {
   id: "01a06d16-f135-7230-acd8-d3d66ea08433",

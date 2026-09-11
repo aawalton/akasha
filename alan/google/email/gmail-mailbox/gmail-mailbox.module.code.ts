@@ -1,4 +1,4 @@
-import { readGmailCredentials } from "../gmail-credentials/gmail-credentials.module.code.ts"
+import { readGmailCredentials } from "akasha/alan/google/email/gmail-credentials/gmail-credentials.module.code.ts"
 
 const TOKEN_URL = "https://oauth2.googleapis.com/token"
 const API = "https://gmail.googleapis.com/gmail/v1/users/me"

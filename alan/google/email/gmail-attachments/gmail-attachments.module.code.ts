@@ -1,12 +1,12 @@
 import { readFile } from "node:fs/promises"
 import { basename } from "node:path"
-import type { GmailClient } from "../gmail-client/gmail-client.module.code.ts"
+import type { GmailClient } from "akasha/alan/google/email/gmail-client/gmail-client.module.code.ts"
 import {
   type GmailMessagePart,
   gmailBodySchema,
   type ParsedFullMessage,
-} from "../gmail-schema/gmail-schema.module.code.ts"
-import type { MimeAttachment } from "../mime-message/mime-message.module.code.ts"
+} from "akasha/alan/google/email/gmail-schema/gmail-schema.module.code.ts"
+import type { MimeAttachment } from "akasha/alan/google/email/mime-message/mime-message.module.code.ts"
 
 export interface AttachmentRef {
   readonly filename: string

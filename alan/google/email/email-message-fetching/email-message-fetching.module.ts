@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const emailMessageFetching = {
   id: "01a07253-d962-737b-8253-aa8fc539d58e",

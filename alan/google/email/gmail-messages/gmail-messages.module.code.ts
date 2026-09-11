@@ -1,4 +1,3 @@
-import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type {
   ComposeInput,
   EmailLabelMutationResult,
@@ -7,8 +6,8 @@ import type {
   EmailSendResult,
   ListMessagesQuery,
   ModifyLabelsInput,
-} from "../email-shapes/email-shapes.module.code.ts"
-import type { GmailClient } from "../gmail-client/gmail-client.module.code.ts"
+} from "akasha/alan/google/email/email-shapes/email-shapes.module.code.ts"
+import type { GmailClient } from "akasha/alan/google/email/gmail-client/gmail-client.module.code.ts"
 import {
   getHeader,
   gmailMessageListSchema,
@@ -18,8 +17,12 @@ import {
   normalizeMessage,
   normalizeMessageSummary,
   type ParsedFullMessage,
-} from "../gmail-schema/gmail-schema.module.code.ts"
-import { buildMimeMessage, toBase64Url } from "../mime-message/mime-message.module.code.ts"
+} from "akasha/alan/google/email/gmail-schema/gmail-schema.module.code.ts"
+import {
+  buildMimeMessage,
+  toBase64Url,
+} from "akasha/alan/google/email/mime-message/mime-message.module.code.ts"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 
 const SUMMARY_HEADERS = ["From", "To", "Subject", "Date"]
 

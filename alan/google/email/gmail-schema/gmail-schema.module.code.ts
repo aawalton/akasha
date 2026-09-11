@@ -1,11 +1,11 @@
-import * as z from "zod"
 import type {
   EmailDraft,
   EmailLabelMutationResult,
   EmailMessage,
   EmailMessageSummary,
-} from "../email-shapes/email-shapes.module.code.ts"
-import { fromBase64Url } from "../mime-message/mime-message.module.code.ts"
+} from "akasha/alan/google/email/email-shapes/email-shapes.module.code.ts"
+import { fromBase64Url } from "akasha/alan/google/email/mime-message/mime-message.module.code.ts"
+import * as z from "zod"
 
 export const gmailMessageRefSchema = z
   .object({

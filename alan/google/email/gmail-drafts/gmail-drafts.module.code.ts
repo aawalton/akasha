@@ -1,7 +1,13 @@
-import type { ComposeInput, EmailDraft } from "../email-shapes/email-shapes.module.code.ts"
-import type { GmailClient } from "../gmail-client/gmail-client.module.code.ts"
-import { buildRawEmail } from "../gmail-messages/gmail-messages.module.code.ts"
-import { gmailDraftsListSchema, normalizeDraft } from "../gmail-schema/gmail-schema.module.code.ts"
+import type {
+  ComposeInput,
+  EmailDraft,
+} from "akasha/alan/google/email/email-shapes/email-shapes.module.code.ts"
+import type { GmailClient } from "akasha/alan/google/email/gmail-client/gmail-client.module.code.ts"
+import { buildRawEmail } from "akasha/alan/google/email/gmail-messages/gmail-messages.module.code.ts"
+import {
+  gmailDraftsListSchema,
+  normalizeDraft,
+} from "akasha/alan/google/email/gmail-schema/gmail-schema.module.code.ts"
 
 export async function createDraft(client: GmailClient, input: ComposeInput): Promise<EmailDraft> {
   const raw = await buildRawEmail(client, input)

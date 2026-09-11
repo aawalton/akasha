@@ -1,5 +1,5 @@
 import { gmail, type gmail_v1 } from "@googleapis/gmail"
-import { makeAuthClient } from "../gmail-auth/gmail-auth.module.code.ts"
+import { makeAuthClient } from "akasha/alan/google/email/gmail-auth/gmail-auth.module.code.ts"
 
 export interface GmailClient {
   readonly raw: gmail_v1.Gmail

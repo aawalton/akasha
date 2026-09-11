@@ -1,6 +1,6 @@
+import type { GmailClient } from "akasha/alan/google/email/gmail-client/gmail-client.module.code.ts"
+import { sendMessage } from "akasha/alan/google/email/gmail-messages/gmail-messages.module.code.ts"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import type { GmailClient } from "../gmail-client/gmail-client.module.code.ts"
-import { sendMessage } from "../gmail-messages/gmail-messages.module.code.ts"
 
 export interface ParsedUnsubscribe {
   readonly oneClickUrl: string | undefined

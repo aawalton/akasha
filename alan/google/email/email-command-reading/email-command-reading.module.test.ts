@@ -1,8 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Given } from "../../../../commands/modules/calling/calling.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   BODY_FILING,
   COMPOSING,
@@ -12,7 +10,9 @@ import {
   readTaking,
   SUBJECT_FILING,
   type Taking,
-} from "./email-command-reading.module.code.ts"
+} from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
 const NAMING: Taking = { valued: [MESSAGE], needed: [MESSAGE], named: MESSAGE }
 

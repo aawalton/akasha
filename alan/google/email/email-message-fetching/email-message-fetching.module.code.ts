@@ -1,9 +1,9 @@
-import { emailGoogle } from "../email-operations/email-operations.module.code.ts"
+import { emailGoogle } from "akasha/alan/google/email/email-operations/email-operations.module.code.ts"
 import type {
   EmailMessage,
   EmailMessageSummary,
   ListMessagesQuery,
-} from "../email-shapes/email-shapes.module.code.ts"
+} from "akasha/alan/google/email/email-shapes/email-shapes.module.code.ts"
 
 export interface MessageWanted {
   readonly id: string

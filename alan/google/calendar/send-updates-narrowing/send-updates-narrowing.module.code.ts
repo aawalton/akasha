@@ -1,5 +1,5 @@
+import type { SendUpdates } from "akasha/alan/google/calendar/calendar-event-shapes/calendar-event-shapes.module.code.ts"
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import type { SendUpdates } from "../calendar-event-shapes/calendar-event-shapes.module.code.ts"
 
 export const SEND_UPDATES: readonly SendUpdates[] = ["all", "externalOnly", "none"]
 

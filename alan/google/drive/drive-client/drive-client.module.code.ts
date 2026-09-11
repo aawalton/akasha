@@ -1,5 +1,5 @@
 import { drive, type drive_v3 } from "@googleapis/drive"
-import { makeAuthClient } from "../drive-auth/drive-auth.module.code.ts"
+import { makeAuthClient } from "akasha/alan/google/drive/drive-auth/drive-auth.module.code.ts"
 
 export interface DriveClient {
   readonly raw: drive_v3.Drive

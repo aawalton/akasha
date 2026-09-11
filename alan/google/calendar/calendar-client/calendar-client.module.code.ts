@@ -1,6 +1,9 @@
 import { calendar, type calendar_v3 } from "@googleapis/calendar"
-import { makeAuthClient, makeOAuthClient } from "../calendar-auth/calendar-auth.module.code.ts"
-import { readDefaultCalendarId } from "../calendar-credentials/calendar-credentials.module.code.ts"
+import {
+  makeAuthClient,
+  makeOAuthClient,
+} from "akasha/alan/google/calendar/calendar-auth/calendar-auth.module.code.ts"
+import { readDefaultCalendarId } from "akasha/alan/google/calendar/calendar-credentials/calendar-credentials.module.code.ts"
 
 export interface CalendarClient {
   readonly raw: calendar_v3.Calendar

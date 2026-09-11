@@ -1,10 +1,10 @@
-import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import type { z } from "zod"
-import type { GmailClient } from "../gmail-client/gmail-client.module.code.ts"
+import type { GmailClient } from "akasha/alan/google/email/gmail-client/gmail-client.module.code.ts"
 import {
   gmailHistoryListSchema,
   gmailProfileSchema,
-} from "../gmail-schema/gmail-schema.module.code.ts"
+} from "akasha/alan/google/email/gmail-schema/gmail-schema.module.code.ts"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import type { z } from "zod"
 
 type ParsedHistoryList = z.infer<typeof gmailHistoryListSchema>
 

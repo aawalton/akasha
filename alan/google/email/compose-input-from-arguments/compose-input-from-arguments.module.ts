@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const composeInputFromArguments = {
   id: "01a0658e-2bf5-7000-bebe-fd0c97b225b3",
