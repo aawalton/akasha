@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "Of the 55 refusals outside no-rule-in-two-files, all are cleared but the 13 on pages/value, which wait on a barrel deleted last, after 18 groups of callers move. tests-pass is green. no-rule-in-two-files is falling and unmeasured since: a scan of every tracked file reads 455, an upper bound, where the check reads only paths the index names. A count taken inside one domain is blind to its own outward pairs, 41 of temper's 161 pairing outside temper.",
+        "Every refusal outside no-rule-in-two-files is cleared, the pages/value barrel gone at 8d8b1387a80. tests-pass judged 124539 files and refused none. no-rule-in-two-files is at 429, from 559 an hour before. Only the check's own count counts: my scan of every tracked file read 455 and was no upper bound on it. A count taken inside one domain is blind to its own outward pairs, 41 of temper's 161 pairing outside temper.",
     },
     {
       statement: "Every runtime helper the Lua compiler has is a page.",
