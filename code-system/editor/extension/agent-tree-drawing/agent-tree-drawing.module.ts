@@ -6,8 +6,9 @@ export const agentTreeDrawing = {
   type: "module",
   slug: "agent-tree-drawing",
   definition:
-    "how a row of the agent tree draws, what it opens, and the colour a decoration gives it",
+    "how a row of the agent tree draws, what it opens, and the color a decoration gives it",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -59,7 +60,19 @@ export const agentTreeDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A stopped seat or a subagent or a turn colour takes its own decoration.",
+      statement: "A stopped seat or a subagent or a turn color takes its own decoration.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stopped seat's row is drawn in the color that seat's turn state names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row naming no color takes a path with no color in it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The word a decoration carries is its tooltip rather than its badge.",
     },
     {
       invariantKind: "departure",

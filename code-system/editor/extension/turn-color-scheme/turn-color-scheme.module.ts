@@ -7,6 +7,7 @@ export const turnColorScheme = {
   slug: "turn-color-scheme",
   definition: "the color a turn path is drawn in and the sentence a turn state reads as",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -18,7 +19,15 @@ export const turnColorScheme = {
     },
     {
       invariantKind: "departure",
-      statement: "A turn and a subagent are read out of a path the same way.",
+      statement: "A turn, a subagent and a stopped seat are read out of a path the same way.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every color id this answers is one the editor's manifest contributes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A color the manifest contributes is the hex the palette answers that name with.",
     },
     {
       invariantKind: "departure",

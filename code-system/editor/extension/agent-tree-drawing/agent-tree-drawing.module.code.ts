@@ -60,7 +60,13 @@ function buildTreeItem(element: AgentNode, filtering: boolean): vscode.TreeItem 
           : `/subagent/${element.color}/${element.id}`,
     })
   } else if (!element.live) {
-    item.resourceUri = vscode.Uri.from({ scheme: AGENT_SCHEME, path: `/stopped/${element.id}` })
+    item.resourceUri = vscode.Uri.from({
+      scheme: AGENT_SCHEME,
+      path:
+        element.color === undefined
+          ? `/stopped/${element.id}`
+          : `/stopped/${element.color}/${element.id}`,
+    })
   } else if (element.color !== undefined) {
     item.resourceUri = vscode.Uri.from({
       scheme: AGENT_SCHEME,
@@ -151,7 +157,7 @@ export function createAgentDecorationProvider(): vscode.FileDecorationProvider {
       if (uri.scheme !== AGENT_SCHEME) {
         return undefined
       }
-      const badge = uri.path.startsWith("/subagent/")
+      const said = uri.path.startsWith("/subagent/")
         ? "Subagent"
         : uri.path.startsWith("/stopped/")
           ? "Stopped"
@@ -159,7 +165,7 @@ export function createAgentDecorationProvider(): vscode.FileDecorationProvider {
       const turn = turnColorIn(uri.path)
       return new vscode.FileDecoration(
         undefined,
-        badge,
+        said,
         turn === undefined ? undefined : new vscode.ThemeColor(turn)
       )
     },

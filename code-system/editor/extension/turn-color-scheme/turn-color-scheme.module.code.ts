@@ -9,7 +9,7 @@ function parsePaletteName(found: RegExpExecArray | null): string {
 }
 
 export function turnColorIn(path: string): string | undefined {
-  const name = parsePaletteName(/^\/(?:turn|subagent)\/([a-z-]+)\//.exec(path))
+  const name = parsePaletteName(/^\/(?:turn|subagent|stopped)\/([a-z-]+)\//.exec(path))
   return PALETTE_NAMES.has(name) ? `${COLOR_ID_PREFIX}${name}` : undefined
 }
 

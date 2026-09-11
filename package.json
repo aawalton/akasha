@@ -177,6 +177,16 @@
         }
       },
       {
+        "id": "ops.color.text",
+        "description": "The chalk grey the design names, drawn on a row whose turn state names it.",
+        "defaults": {
+          "dark": "#d7d7d7",
+          "light": "#d7d7d7",
+          "highContrast": "#d7d7d7",
+          "highContrastLight": "#d7d7d7"
+        }
+      },
+      {
         "id": "ops.color.yellow",
         "description": "The gemstone yellow the design names, drawn on a row whose turn state names it.",
         "defaults": {
