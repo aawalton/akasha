@@ -5,7 +5,7 @@ export const wallpaperBlackLauncher = {
   pageTypeSlug: "provisioned-file",
   type: "provisioned-file",
   slug: "wallpaper-black-launcher",
-  definition: "the desktop entry KDE binds Meta+L to",
+  definition: "the desktop entry KDE binds ScrollLock to",
   content: "conf",
   placedBy: "link",
   onlyOn: "linux",
