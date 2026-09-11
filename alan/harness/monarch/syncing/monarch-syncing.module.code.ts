@@ -1,8 +1,10 @@
 import { sync } from "akasha/alan/harness/monarch/sync/monarch-sync.module.code.ts"
 
-async function main(argv: readonly string[]): Promise<number> {
-  await sync({ incremental: argv.includes("--incremental") })
-  return 0
+export async function runMonarchSyncing(args: readonly string[]): Promise<void> {
+  await sync({ incremental: args.includes("--incremental") })
 }
 
-if (import.meta.main) process.exit(await main(process.argv.slice(2)))
+if (import.meta.main) {
+  await runMonarchSyncing(process.argv.slice(2))
+  process.exit(0)
+}
