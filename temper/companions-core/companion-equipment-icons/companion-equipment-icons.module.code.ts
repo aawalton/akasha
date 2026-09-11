@@ -1,9 +1,9 @@
-import { getEsoIconUrl } from "../../formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
-import type { CompanionArmorSlotId } from "../companion-armor-slots/companion-armor-slots.module.code.ts"
-import type { CompanionArmorWeight } from "../companion-armor-weights/companion-armor-weights.module.code.ts"
-import type { CompanionEquipmentQualityId } from "../companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import type { CompanionJewelrySlotId } from "../companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
-import type { CompanionWeaponTypeId } from "../companion-weapon-types/companion-weapon-types.module.code.ts"
+import type { CompanionArmorSlotId } from "akasha/temper/companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
+import type { CompanionArmorWeight } from "akasha/temper/companions-core/companion-armor-weights/companion-armor-weights.module.code.ts"
+import type { CompanionEquipmentQualityId } from "akasha/temper/companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import type { CompanionJewelrySlotId } from "akasha/temper/companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
+import type { CompanionWeaponTypeId } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
+import { getEsoIconUrl } from "akasha/temper/formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
 
 const ARMOR_SLOT_TO_ICON_NAME: Record<CompanionArmorSlotId, string> = {
   head: "helm",

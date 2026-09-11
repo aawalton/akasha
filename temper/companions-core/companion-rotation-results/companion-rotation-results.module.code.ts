@@ -1,16 +1,16 @@
-import type { DamageType } from "../../skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
-import { extractFormulaComponents } from "../companion-formula-extraction/companion-formula-extraction.module.code.ts"
-import { calculateLightAttackDamage } from "../companion-light-attack/companion-light-attack.module.code.ts"
-import { classifyHealingTarget } from "../companion-rotation-state/companion-rotation-state.module.code.ts"
-import { companionSkills } from "../companion-skills/companion-skills.module.code.ts"
-import { calculateEffectiveMultiplier } from "../condition-evaluator/condition-evaluator.module.code.ts"
+import { extractFormulaComponents } from "akasha/temper/companions-core/companion-formula-extraction/companion-formula-extraction.module.code.ts"
+import { calculateLightAttackDamage } from "akasha/temper/companions-core/companion-light-attack/companion-light-attack.module.code.ts"
+import { classifyHealingTarget } from "akasha/temper/companions-core/companion-rotation-state/companion-rotation-state.module.code.ts"
+import { companionSkills } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
+import { calculateEffectiveMultiplier } from "akasha/temper/companions-core/condition-evaluator/condition-evaluator.module.code.ts"
 import type {
   DamageBreakdown,
   RotationConfig,
   RotationResult,
   RotationState,
   SkillUsageSummary,
-} from "../rotation-types/rotation-types.module.code.ts"
+} from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
+import type { DamageType } from "akasha/temper/skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 
 export function createEmptyResult(config: RotationConfig): RotationResult {
   return {

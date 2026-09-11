@@ -1,33 +1,33 @@
-import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
-import { convertRatingToChance } from "../../formula-framework/rating-chance/rating-chance.module.code.ts"
-import { activateLightAttack } from "../companion-light-attack/companion-light-attack.module.code.ts"
+import { activateLightAttack } from "akasha/temper/companions-core/companion-light-attack/companion-light-attack.module.code.ts"
 import {
   type CompanionMetricValue,
   companionMetrics,
-} from "../companion-metrics/companion-metrics.module.code.ts"
+} from "akasha/temper/companions-core/companion-metrics/companion-metrics.module.code.ts"
 import {
   calculateResults,
   createEmptyResult,
-} from "../companion-rotation-results/companion-rotation-results.module.code.ts"
-import { initializeState } from "../companion-rotation-state/companion-rotation-state.module.code.ts"
+} from "akasha/temper/companions-core/companion-rotation-results/companion-rotation-results.module.code.ts"
+import { initializeState } from "akasha/temper/companions-core/companion-rotation-state/companion-rotation-state.module.code.ts"
 import {
   activateSkill,
   selectNextSkill,
-} from "../companion-skill-executor/companion-skill-executor.module.code.ts"
+} from "akasha/temper/companions-core/companion-skill-executor/companion-skill-executor.module.code.ts"
 import {
   type CompanionSkillId,
   companionSkills,
-} from "../companion-skills/companion-skills.module.code.ts"
+} from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
 import type {
   HealthSamples,
   RotationConfig,
   RotationResult,
-} from "../rotation-types/rotation-types.module.code.ts"
+} from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
 import {
   DEFAULT_ROTATION_CONFIG,
   SIMULATION_TICK_INTERVAL,
   ULTIMATE_GENERATION_RATE,
-} from "../rotation-types/rotation-types.module.code.ts"
+} from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
+import { convertRatingToChance } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
+import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 
 export function simulateCompanionRotation(
   skillIds: readonly CompanionSkillId[],

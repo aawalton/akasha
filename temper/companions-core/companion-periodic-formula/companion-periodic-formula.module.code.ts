@@ -1,12 +1,12 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { badTruncate } from "../bad-truncate/bad-truncate.module.code.ts"
-import type { CompanionFormulaStats } from "../companion-skill-formula/companion-skill-formula.module.code.ts"
+import { badTruncate } from "akasha/temper/companions-core/bad-truncate/bad-truncate.module.code.ts"
+import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
 import {
   applyHealingDone,
   evaluateSkillFormula,
-} from "../companion-skill-formula/companion-skill-formula.module.code.ts"
-import type { CompanionValueFormula } from "../companion-value-formula/companion-value-formula.module.code.ts"
-import { getFormulaCoefficientType } from "../companion-value-formula/companion-value-formula.module.code.ts"
+} from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
+import type { CompanionValueFormula } from "akasha/temper/companions-core/companion-value-formula/companion-value-formula.module.code.ts"
+import { getFormulaCoefficientType } from "akasha/temper/companions-core/companion-value-formula/companion-value-formula.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 function evaluatePeriodicTotalPerTick(
   formula: Extract<CompanionValueFormula, { type: "metric-scaling" }>,

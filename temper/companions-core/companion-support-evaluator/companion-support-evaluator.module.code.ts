@@ -1,11 +1,11 @@
-import type { RotationMetricEntry } from "../companion-rotation-metrics/companion-rotation-metrics.module.code.ts"
-import type { CompanionStatsResult } from "../companion-stats-result/companion-stats-result.module.code.ts"
+import type { RotationMetricEntry } from "akasha/temper/companions-core/companion-rotation-metrics/companion-rotation-metrics.module.code.ts"
+import type { CompanionStatsResult } from "akasha/temper/companions-core/companion-stats-result/companion-stats-result.module.code.ts"
 import {
   computeSupportDpsContribution,
   computeSupportTpsContribution,
   extractAllyVisibleBuffUptimes,
-} from "../companion-support-contributions/companion-support-contributions.module.code.ts"
-import type { ReferenceBaseline } from "../companion-support-types/companion-support-types.module.code.ts"
+} from "akasha/temper/companions-core/companion-support-contributions/companion-support-contributions.module.code.ts"
+import type { ReferenceBaseline } from "akasha/temper/companions-core/companion-support-types/companion-support-types.module.code.ts"
 
 export function computeSupportMetrics(
   result: CompanionStatsResult,

@@ -1,3 +1,5 @@
+import type { CompanionBaseRoleId } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
 import type {
   AddNode,
   ConstantNode,
@@ -6,9 +8,7 @@ import type {
   MaxNode,
   MinNode,
   MultiplyNode,
-} from "../../formula-framework/arithmetic-node/arithmetic-node.module.code.ts"
-import type { CompanionBaseRoleId } from "../companion-base-roles/companion-base-roles.module.code.ts"
-import type { CompanionMetricId } from "../companion-metric-ids/companion-metric-ids.module.code.ts"
+} from "akasha/temper/formula-framework/arithmetic-node/arithmetic-node.module.code.ts"
 
 type CompanionMetricRefNode = {
   type: "metric-ref"

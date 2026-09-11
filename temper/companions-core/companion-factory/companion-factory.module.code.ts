@@ -1,20 +1,20 @@
-import { buildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import { randomFrom } from "../../formula-framework/random-from/random-from.module.code.ts"
 import {
   type CompanionBaseRoleId,
   getArmorWeightForBaseRoles,
-} from "../companion-base-roles/companion-base-roles.module.code.ts"
-import { getDefaultUltimateForCompanion } from "../companion-skills/companion-skills.module.code.ts"
-import type { CompanionTraitId } from "../companion-traits/companion-traits.module.code.ts"
-import type { CompanionState } from "../companion-types/companion-types.module.code.ts"
+} from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
+import { getDefaultUltimateForCompanion } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
+import type { CompanionTraitId } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   type CompanionWeaponTypeId,
   companionWeaponTypes,
   DESTRUCTION_STAFF_WEAPONS,
   ONE_HANDED_MELEE_WEAPONS,
   TWO_HANDED_MELEE_WEAPONS,
-} from "../companion-weapon-types/companion-weapon-types.module.code.ts"
-import { companions } from "../companions/companions.module.code.ts"
+} from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
+import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import { buildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { randomFrom } from "akasha/temper/formula-framework/random-from/random-from.module.code.ts"
 
 const ACTUAL_COMPANIONS = companions.ids.filter((id) => id !== "no-companion")
 

@@ -1,6 +1,6 @@
-import { getCompanionTraitMetricEffect } from "../companion-traits/companion-traits.module.code.ts"
-import type { CompanionState } from "../companion-types/companion-types.module.code.ts"
-import { companionWeaponTypes } from "../companion-weapon-types/companion-weapon-types.module.code.ts"
+import { getCompanionTraitMetricEffect } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
+import { companionWeaponTypes } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
 
 export function computeSoothingHealingDone(build: CompanionState): number {
   let total = 0

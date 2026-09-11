@@ -1,17 +1,17 @@
-import { buffOrDebuff } from "../../formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+import { companionActivationBuffs } from "akasha/temper/companions-core/companion-activation-buffs/companion-activation-buffs.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
+import { companionPassiveMetrics } from "akasha/temper/companions-core/companion-passive-metrics/companion-passive-metrics.module.code.ts"
+import { buffOrDebuff } from "akasha/temper/formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import type {
   SpecialEffectType,
   StatusEffectType,
-} from "../../skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
+} from "akasha/temper/skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import type {
   ActivationBuffType,
   ActivationDebuffType,
-} from "../../skill-kinds/skill-buff-debuff-types/skill-buff-debuff-types.module.code.ts"
-import { specialEffectTypes } from "../../skill-kinds/special-effect-types/special-effect-types.module.code.ts"
-import { statusEffectTypes } from "../../skill-kinds/status-effect-types/status-effect-types.module.code.ts"
-import { companionActivationBuffs } from "../companion-activation-buffs/companion-activation-buffs.module.code.ts"
-import type { CompanionMetricId } from "../companion-metric-ids/companion-metric-ids.module.code.ts"
-import { companionPassiveMetrics } from "../companion-passive-metrics/companion-passive-metrics.module.code.ts"
+} from "akasha/temper/skill-kinds/skill-buff-debuff-types/skill-buff-debuff-types.module.code.ts"
+import { specialEffectTypes } from "akasha/temper/skill-kinds/special-effect-types/special-effect-types.module.code.ts"
+import { statusEffectTypes } from "akasha/temper/skill-kinds/status-effect-types/status-effect-types.module.code.ts"
 
 const buffOrDebuffByName: Readonly<Record<string, { name: string }>> = buffOrDebuff.data
 

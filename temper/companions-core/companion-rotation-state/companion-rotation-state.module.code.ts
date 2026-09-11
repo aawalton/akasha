@@ -1,19 +1,19 @@
-import type { TargetType } from "../../skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
-import { extractFormulaComponents } from "../companion-formula-extraction/companion-formula-extraction.module.code.ts"
+import { extractFormulaComponents } from "akasha/temper/companions-core/companion-formula-extraction/companion-formula-extraction.module.code.ts"
 import {
   getSkillCastTime,
   getSkillCooldown,
   getSkillUltimateCost,
-} from "../companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
+} from "akasha/temper/companions-core/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import {
   type CompanionSkillId,
   companionSkills,
-} from "../companion-skills/companion-skills.module.code.ts"
+} from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
 import type {
   RotationCategory,
   RotationState,
   SkillState,
-} from "../rotation-types/rotation-types.module.code.ts"
+} from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
+import type { TargetType } from "akasha/temper/skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 
 function classifySkill(skillId: CompanionSkillId): RotationCategory {
   const skill = companionSkills.data[skillId]

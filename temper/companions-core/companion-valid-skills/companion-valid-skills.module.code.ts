@@ -1,13 +1,13 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { getArmorWeightForBaseRoles } from "../companion-base-roles/companion-base-roles.module.code.ts"
+import { getArmorWeightForBaseRoles } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   type CompanionSkillId,
   companionSkills,
-} from "../companion-skills/companion-skills.module.code.ts"
-import type { CompanionState } from "../companion-types/companion-types.module.code.ts"
-import { getWeaponRole } from "../companion-weapon-role-match/companion-weapon-role-match.module.code.ts"
-import { companionWeaponRoles } from "../companion-weapon-roles/companion-weapon-roles.module.code.ts"
-import { companionSkillLines } from "../skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
+} from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
+import { getWeaponRole } from "akasha/temper/companions-core/companion-weapon-role-match/companion-weapon-role-match.module.code.ts"
+import { companionWeaponRoles } from "akasha/temper/companions-core/companion-weapon-roles/companion-weapon-roles.module.code.ts"
+import { companionSkillLines } from "akasha/temper/companions-core/skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 const NO_SKILL: CompanionSkillId = "no-skill"
 

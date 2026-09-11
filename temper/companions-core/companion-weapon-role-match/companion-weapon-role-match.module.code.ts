@@ -1,13 +1,13 @@
-import { randomFrom } from "../../formula-framework/random-from/random-from.module.code.ts"
-import type { CompanionState } from "../companion-types/companion-types.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   type CompanionWeaponRoleId,
   companionWeaponRoles,
-} from "../companion-weapon-roles/companion-weapon-roles.module.code.ts"
+} from "akasha/temper/companions-core/companion-weapon-roles/companion-weapon-roles.module.code.ts"
 import {
   type CompanionWeaponTypeId,
   companionWeaponTypes,
-} from "../companion-weapon-types/companion-weapon-types.module.code.ts"
+} from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
+import { randomFrom } from "akasha/temper/formula-framework/random-from/random-from.module.code.ts"
 
 const NO_WEAPON_ROLE: CompanionWeaponRoleId = "no-weapon-role"
 

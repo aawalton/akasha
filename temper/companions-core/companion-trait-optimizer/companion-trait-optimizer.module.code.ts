@@ -1,15 +1,15 @@
-import type { CompanionArmorSlotId } from "../companion-armor-slots/companion-armor-slots.module.code.ts"
-import { companionArmorSlots } from "../companion-armor-slots/companion-armor-slots.module.code.ts"
+import type { CompanionArmorSlotId } from "akasha/temper/companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
+import { companionArmorSlots } from "akasha/temper/companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
 import {
   countEmptyTraitSlots,
   setNextEmptyTrait,
-} from "../companion-equipment-slots/companion-equipment-slots.module.code.ts"
-import type { CompanionJewelrySlotId } from "../companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
-import { companionJewelrySlots } from "../companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
-import type { CompanionTraitId } from "../companion-traits/companion-traits.module.code.ts"
-import type { CompanionState } from "../companion-types/companion-types.module.code.ts"
-import type { CompanionWeaponSlotId } from "../companion-weapon-slots/companion-weapon-slots.module.code.ts"
-import { companionWeaponSlots } from "../companion-weapon-slots/companion-weapon-slots.module.code.ts"
+} from "akasha/temper/companions-core/companion-equipment-slots/companion-equipment-slots.module.code.ts"
+import type { CompanionJewelrySlotId } from "akasha/temper/companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
+import { companionJewelrySlots } from "akasha/temper/companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
+import type { CompanionTraitId } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
+import type { CompanionWeaponSlotId } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
+import { companionWeaponSlots } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 
 const GOLD_SLOT_IDS = new Set<CompanionJewelrySlotId>(["ring-1", "ring-2"])
 

@@ -1,20 +1,20 @@
-import { targetArmor } from "../../character-sources/target-armors/target-armors.module.code.ts"
+import { targetArmor } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
 import {
   COMPANION_METRIC_IDS,
   type CompanionMetricId,
-} from "../companion-metric-ids/companion-metric-ids.module.code.ts"
-import type { CompanionEffect } from "../companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
-import { companionSkills } from "../companion-skills/companion-skills.module.code.ts"
-import { calculateCompanionStatsWithBaseline } from "../companion-stats-calculator-impl/companion-stats-calculator-impl.module.code.ts"
+} from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
+import type { CompanionEffect } from "akasha/temper/companions-core/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
+import { companionSkills } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
+import { calculateCompanionStatsWithBaseline } from "akasha/temper/companions-core/companion-stats-calculator-impl/companion-stats-calculator-impl.module.code.ts"
 import {
   accumulateDamageBuffDelta,
   getCritChancePercent,
-} from "../companion-support-buff-math/companion-support-buff-math.module.code.ts"
+} from "akasha/temper/companions-core/companion-support-buff-math/companion-support-buff-math.module.code.ts"
 import {
   EMPTY_BASELINE,
   type ReferenceBaseline,
-} from "../companion-support-types/companion-support-types.module.code.ts"
-import type { CompanionState } from "../companion-types/companion-types.module.code.ts"
+} from "akasha/temper/companions-core/companion-support-types/companion-support-types.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 
 export function computeReferenceBaseline(build: CompanionState): ReferenceBaseline {
   const result = calculateCompanionStatsWithBaseline(build, EMPTY_BASELINE)

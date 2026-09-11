@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const companionEffectFormatters = {
   id: "01a06110-abe2-7eb7-80be-0dcee47ef954",

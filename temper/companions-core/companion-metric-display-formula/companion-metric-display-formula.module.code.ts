@@ -1,25 +1,25 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import {
-  convertArithmeticToDisplay,
-  type DisplayResult,
-} from "../../formula-framework/display-formula-convert/display-formula-convert.module.code.ts"
-import type {
-  DisplayFormulaNode,
-  NumberFormat,
-} from "../../formula-framework/display-formula-node/display-formula-node.module.code.ts"
-import { formatDecimal } from "../../formula-framework/number-format/number-format.module.code.ts"
-import { convertRatingToChance } from "../../formula-framework/rating-chance/rating-chance.module.code.ts"
-import { sourceCategories } from "../../formula-framework/source-category/source-category.module.code.ts"
-import type { CompanionBaseRoleId } from "../companion-base-roles/companion-base-roles.module.code.ts"
-import type { CompanionEffectSource } from "../companion-effect-sources/companion-effect-sources.module.code.ts"
-import type { CompanionMetricId } from "../companion-metric-ids/companion-metric-ids.module.code.ts"
-import type { CompanionFormulaNode } from "../companion-metric-template/companion-metric-template.module.code.ts"
+import type { CompanionBaseRoleId } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
+import type { CompanionEffectSource } from "akasha/temper/companions-core/companion-effect-sources/companion-effect-sources.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
+import type { CompanionFormulaNode } from "akasha/temper/companions-core/companion-metric-template/companion-metric-template.module.code.ts"
 import {
   COMPANION_CATEGORIES,
   type CompanionMetricValue,
   companionMetrics,
   getCompanionMetricName,
-} from "../companion-metrics/companion-metrics.module.code.ts"
+} from "akasha/temper/companions-core/companion-metrics/companion-metrics.module.code.ts"
+import {
+  convertArithmeticToDisplay,
+  type DisplayResult,
+} from "akasha/temper/formula-framework/display-formula-convert/display-formula-convert.module.code.ts"
+import type {
+  DisplayFormulaNode,
+  NumberFormat,
+} from "akasha/temper/formula-framework/display-formula-node/display-formula-node.module.code.ts"
+import { formatDecimal } from "akasha/temper/formula-framework/number-format/number-format.module.code.ts"
+import { convertRatingToChance } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
+import { sourceCategories } from "akasha/temper/formula-framework/source-category/source-category.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 function getContributionsByCategory(
   sources: readonly CompanionEffectSource[],

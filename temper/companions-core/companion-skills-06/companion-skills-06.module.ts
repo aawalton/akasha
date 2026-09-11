@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const companionSkills06 = {
   id: "01a06119-5cad-7e18-92ea-db65fa71db27",

@@ -1,15 +1,15 @@
-import { companionArmorSlots } from "../companion-armor-slots/companion-armor-slots.module.code.ts"
-import type { CompanionArmorWeight } from "../companion-armor-weights/companion-armor-weights.module.code.ts"
+import { companionArmorSlots } from "akasha/temper/companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
+import type { CompanionArmorWeight } from "akasha/temper/companions-core/companion-armor-weights/companion-armor-weights.module.code.ts"
 import {
   type CompanionBaseRoleId,
   getArmorWeightForBaseRoles,
-} from "../companion-base-roles/companion-base-roles.module.code.ts"
+} from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   type CompanionSkillId,
   getDefaultUltimateForCompanion,
-} from "../companion-skills/companion-skills.module.code.ts"
-import type { CompanionState } from "../companion-types/companion-types.module.code.ts"
-import type { CompanionId } from "../companions/companions.module.code.ts"
+} from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
+import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 
 export function setAllArmorWeights(
   build: CompanionState,

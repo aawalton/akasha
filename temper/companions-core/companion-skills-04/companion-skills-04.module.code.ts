@@ -1,4 +1,4 @@
-import type { CompanionSkillTemplate } from "../companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
+import type { CompanionSkillTemplate } from "akasha/temper/companions-core/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 
 export const COMPANION_SKILLS_04 = {
   "mirri-impeccable-shot": {

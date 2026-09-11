@@ -1,3 +1,5 @@
+import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
+import type { CompanionValueFormula } from "akasha/temper/companions-core/companion-value-formula/companion-value-formula.module.code.ts"
 import type {
   CastTimeEffect,
   ChannelEffect,
@@ -8,13 +10,11 @@ import type {
   SpecialEffectType,
   StatusEffect,
   Targeting,
-} from "../../skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
+} from "akasha/temper/skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import type {
   ActivationBuffEffect,
   ActivationDebuffEffect,
-} from "../../skill-kinds/skill-buff-debuff-types/skill-buff-debuff-types.module.code.ts"
-import type { CompanionMetricId } from "../companion-metric-ids/companion-metric-ids.module.code.ts"
-import type { CompanionValueFormula } from "../companion-value-formula/companion-value-formula.module.code.ts"
+} from "akasha/temper/skill-kinds/skill-buff-debuff-types/skill-buff-debuff-types.module.code.ts"
 
 export interface CompanionDamageComponent {
   type: "damage"

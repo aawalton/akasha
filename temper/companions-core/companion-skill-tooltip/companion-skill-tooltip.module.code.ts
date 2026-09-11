@@ -1,10 +1,9 @@
-import type { Targeting } from "../../skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import {
   computeAugmentedDurations,
   formatDuration,
   substituteDescriptionPlaceholders,
-} from "../companion-description-utils/companion-description-utils.module.code.ts"
-import { calculatePeriodicTooltipValue } from "../companion-periodic-formula/companion-periodic-formula.module.code.ts"
+} from "akasha/temper/companions-core/companion-description-utils/companion-description-utils.module.code.ts"
+import { calculatePeriodicTooltipValue } from "akasha/temper/companions-core/companion-periodic-formula/companion-periodic-formula.module.code.ts"
 import type {
   CompanionDamageComponent,
   CompanionDelayedEffectComponent,
@@ -19,10 +18,11 @@ import type {
   CompanionShieldComponent,
   CompanionSkillEffectComponent,
   CompanionSynergyComponent,
-} from "../companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
-import type { CompanionFormulaStats } from "../companion-skill-formula/companion-skill-formula.module.code.ts"
-import { evaluateSkillFormula } from "../companion-skill-formula/companion-skill-formula.module.code.ts"
-import type { CompanionValueFormula } from "../companion-value-formula/companion-value-formula.module.code.ts"
+} from "akasha/temper/companions-core/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
+import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
+import { evaluateSkillFormula } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
+import type { CompanionValueFormula } from "akasha/temper/companions-core/companion-value-formula/companion-value-formula.module.code.ts"
+import type { Targeting } from "akasha/temper/skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 
 type FormulaEffect =
   | CompanionDamageComponent

@@ -1,23 +1,23 @@
-import { companionArmorSlots } from "../companion-armor-slots/companion-armor-slots.module.code.ts"
-import { getValidTraitIdsForBaseRoles } from "../companion-base-roles/companion-base-roles.module.code.ts"
+import { companionArmorSlots } from "akasha/temper/companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
+import { getValidTraitIdsForBaseRoles } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,
-} from "../companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+} from "akasha/temper/companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import {
   type CompanionJewelrySlotId,
   companionJewelrySlots,
-} from "../companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
-import { evaluate } from "../companion-optimizer/companion-optimizer.module.code.ts"
+} from "akasha/temper/companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
+import { evaluate } from "akasha/temper/companions-core/companion-optimizer/companion-optimizer.module.code.ts"
 import {
   type CompanionSkillSlotId,
   companionSkillSlots,
-} from "../companion-skill-slots/companion-skill-slots.module.code.ts"
-import { companionSkills } from "../companion-skills/companion-skills.module.code.ts"
-import { companionTraits } from "../companion-traits/companion-traits.module.code.ts"
-import type { CompanionState } from "../companion-types/companion-types.module.code.ts"
-import { getValidSkillIds } from "../companion-valid-skills/companion-valid-skills.module.code.ts"
-import { companionWeaponSlots } from "../companion-weapon-slots/companion-weapon-slots.module.code.ts"
+} from "akasha/temper/companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
+import { companionSkills } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
+import { companionTraits } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
+import { getValidSkillIds } from "akasha/temper/companions-core/companion-valid-skills/companion-valid-skills.module.code.ts"
+import { companionWeaponSlots } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 
 export interface CompanionSuggestion {
   type: "trait" | "quality" | "skill"

@@ -1,8 +1,8 @@
-import type { BuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import { buildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import { computeReferenceBaseline } from "../companion-support-baseline/companion-support-baseline.module.code.ts"
-import type { ReferenceBaseline } from "../companion-support-types/companion-support-types.module.code.ts"
-import type { CompanionState } from "../companion-types/companion-types.module.code.ts"
+import { computeReferenceBaseline } from "akasha/temper/companions-core/companion-support-baseline/companion-support-baseline.module.code.ts"
+import type { ReferenceBaseline } from "akasha/temper/companions-core/companion-support-types/companion-support-types.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
+import type { BuildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { buildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 
 const REFERENCE_BUILD_CODE = "AjADh2kaRpGkaRpGkJDw8U8AMx1p3WrQgA"
 

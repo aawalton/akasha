@@ -1,24 +1,24 @@
-import { targetArmor } from "../../character-sources/target-armors/target-armors.module.code.ts"
-import type { SourceCategoryId } from "../../formula-framework/source-category/source-category.module.code.ts"
-import { getCompanionArmorBaseValue } from "../companion-armor-base-values/companion-armor-base-values.module.code.ts"
-import { companionArmorSlots } from "../companion-armor-slots/companion-armor-slots.module.code.ts"
-import { companionJewelrySlots } from "../companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
-import type { CompanionMetricEffect } from "../companion-metric-effect/companion-metric-effect.module.code.ts"
-import { getCompanionPassiveEffects } from "../companion-passive-effects/companion-passive-effects.module.code.ts"
+import { targetArmor } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
+import { getCompanionArmorBaseValue } from "akasha/temper/companions-core/companion-armor-base-values/companion-armor-base-values.module.code.ts"
+import { companionArmorSlots } from "akasha/temper/companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
+import { companionJewelrySlots } from "akasha/temper/companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
+import type { CompanionMetricEffect } from "akasha/temper/companions-core/companion-metric-effect/companion-metric-effect.module.code.ts"
+import { getCompanionPassiveEffects } from "akasha/temper/companions-core/companion-passive-effects/companion-passive-effects.module.code.ts"
 import {
   type CompanionSkillId,
   companionSkills,
-} from "../companion-skills/companion-skills.module.code.ts"
-import { getCompanionTraitMetricEffect } from "../companion-traits/companion-traits.module.code.ts"
-import type { CompanionState } from "../companion-types/companion-types.module.code.ts"
+} from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
+import { getCompanionTraitMetricEffect } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   getCompanionShieldArmorValue,
   getCompanionWeaponBaseDamage,
   isCompanionWeaponShield,
-} from "../companion-weapon-base-values/companion-weapon-base-values.module.code.ts"
-import { companionWeaponSlots } from "../companion-weapon-slots/companion-weapon-slots.module.code.ts"
-import { companionWeaponTypes } from "../companion-weapon-types/companion-weapon-types.module.code.ts"
-import { companions } from "../companions/companions.module.code.ts"
+} from "akasha/temper/companions-core/companion-weapon-base-values/companion-weapon-base-values.module.code.ts"
+import { companionWeaponSlots } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
+import { companionWeaponTypes } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
+import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import type { SourceCategoryId } from "akasha/temper/formula-framework/source-category/source-category.module.code.ts"
 
 export interface CompanionEffectSource {
   id: string

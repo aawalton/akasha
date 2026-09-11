@@ -1,14 +1,14 @@
-import { companionSkills } from "../companion-skills/companion-skills.module.code.ts"
-import { evaluateCondition } from "../condition-evaluator/condition-evaluator.module.code.ts"
+import { companionSkills } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
+import { evaluateCondition } from "akasha/temper/companions-core/condition-evaluator/condition-evaluator.module.code.ts"
 import type {
   HealthSamples,
   RotationState,
   SkillState,
-} from "../rotation-types/rotation-types.module.code.ts"
+} from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
 import {
   COMPANION_GCD_DURATION,
   ULTIMATE_GENERATION_WINDOW_DURATION,
-} from "../rotation-types/rotation-types.module.code.ts"
+} from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
 
 function isSkillAvailable(state: RotationState, skillState: SkillState): boolean {
   if (state.currentTime < state.castEndsAt) {

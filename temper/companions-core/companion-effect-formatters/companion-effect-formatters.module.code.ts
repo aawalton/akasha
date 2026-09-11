@@ -1,11 +1,11 @@
-import { capitalize } from "akasha/utils/text/capitalize/capitalize.module.code.ts"
 import type {
   TargetScope,
   TargetType,
-} from "../../skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
-import { statusEffectTypes } from "../../skill-kinds/status-effect-types/status-effect-types.module.code.ts"
-import { targetScopes } from "../../skill-kinds/target-scopes/target-scopes.module.code.ts"
-import { targetTypes } from "../../skill-kinds/target-types/target-types.module.code.ts"
+} from "akasha/temper/skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
+import { statusEffectTypes } from "akasha/temper/skill-kinds/status-effect-types/status-effect-types.module.code.ts"
+import { targetScopes } from "akasha/temper/skill-kinds/target-scopes/target-scopes.module.code.ts"
+import { targetTypes } from "akasha/temper/skill-kinds/target-types/target-types.module.code.ts"
+import { capitalize } from "akasha/utils/text/capitalize/capitalize.module.code.ts"
 
 export function formatDamageType(type: string): string {
   return capitalize(type)

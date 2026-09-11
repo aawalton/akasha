@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const companionRotationResults = {
   id: "01a06152-c2cf-7e15-a652-e564d4083d72",

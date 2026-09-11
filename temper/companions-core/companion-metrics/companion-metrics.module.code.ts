@@ -1,11 +1,11 @@
+import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
+import type { CompanionMetricTemplate } from "akasha/temper/companions-core/companion-metric-template/companion-metric-template.module.code.ts"
+import { COMPANION_METRICS_00 } from "akasha/temper/companions-core/companion-metrics-00/companion-metrics-00.module.code.ts"
+import { COMPANION_METRICS_01 } from "akasha/temper/companions-core/companion-metrics-01/companion-metrics-01.module.code.ts"
+import { COMPANION_METRICS_02 } from "akasha/temper/companions-core/companion-metrics-02/companion-metrics-02.module.code.ts"
+import type { RatingSurplusInfo } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
+import type { SourceCategoryId } from "akasha/temper/formula-framework/source-category/source-category.module.code.ts"
 import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
-import type { RatingSurplusInfo } from "../../formula-framework/rating-chance/rating-chance.module.code.ts"
-import type { SourceCategoryId } from "../../formula-framework/source-category/source-category.module.code.ts"
-import type { CompanionMetricId } from "../companion-metric-ids/companion-metric-ids.module.code.ts"
-import type { CompanionMetricTemplate } from "../companion-metric-template/companion-metric-template.module.code.ts"
-import { COMPANION_METRICS_00 } from "../companion-metrics-00/companion-metrics-00.module.code.ts"
-import { COMPANION_METRICS_01 } from "../companion-metrics-01/companion-metrics-01.module.code.ts"
-import { COMPANION_METRICS_02 } from "../companion-metrics-02/companion-metrics-02.module.code.ts"
 
 export const COMPANION_CATEGORIES: SourceCategoryId[] = [
   "companion-base",

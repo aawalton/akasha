@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const companionActivationBuffs = {
   id: "01a06110-abe1-76b3-a5f0-27936e095c05",

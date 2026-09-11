@@ -1,20 +1,20 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import type {
-  DamageType,
-  EffectCondition,
-  TargetType,
-} from "../../skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
-import type { CompanionSkillTemplate } from "../companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
+import type { CompanionSkillTemplate } from "akasha/temper/companions-core/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import type {
   CompanionEffect,
   CompanionSkillEffectComponent,
-} from "../companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
+} from "akasha/temper/companions-core/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 import {
   type CompanionScalingMetricId,
   type CompanionValueFormula,
   getFormulaCoefficientType,
-} from "../companion-value-formula/companion-value-formula.module.code.ts"
-import { companionBase } from "../companions-base-source/companions-base-source.module.code.ts"
+} from "akasha/temper/companions-core/companion-value-formula/companion-value-formula.module.code.ts"
+import { companionBase } from "akasha/temper/companions-core/companions-base-source/companions-base-source.module.code.ts"
+import type {
+  DamageType,
+  EffectCondition,
+  TargetType,
+} from "akasha/temper/skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 type EffectTriggerType =
   | "retaliation"

@@ -1,43 +1,46 @@
-import type { CompanionArmorSlotId } from "../companion-armor-slots/companion-armor-slots.module.code.ts"
-import type { CompanionArmorWeight } from "../companion-armor-weights/companion-armor-weights.module.code.ts"
+import type { CompanionArmorSlotId } from "akasha/temper/companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
+import type { CompanionArmorWeight } from "akasha/temper/companions-core/companion-armor-weights/companion-armor-weights.module.code.ts"
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,
   getValidTraitIdsForBaseRoles,
   getValidWeaponRoleIdsForBaseRoles,
-} from "../companion-base-roles/companion-base-roles.module.code.ts"
+} from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   setBaseRoles,
   setCompanion,
-} from "../companion-build-edits/companion-build-edits.module.code.ts"
+} from "akasha/temper/companions-core/companion-build-edits/companion-build-edits.module.code.ts"
 import {
   countEmptyTraitSlots,
   setNextEmptyTrait,
   setRingQualityToLegendary,
-} from "../companion-equipment-slots/companion-equipment-slots.module.code.ts"
-import type { CompanionMetricId } from "../companion-metric-ids/companion-metric-ids.module.code.ts"
+} from "akasha/temper/companions-core/companion-equipment-slots/companion-equipment-slots.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
 import {
   findBestPermutation,
   optimizeSkills,
-} from "../companion-skill-optimizer/companion-skill-optimizer.module.code.ts"
+} from "akasha/temper/companions-core/companion-skill-optimizer/companion-skill-optimizer.module.code.ts"
 import {
   type CompanionSkillSlotId,
   companionSkillSlots,
-} from "../companion-skill-slots/companion-skill-slots.module.code.ts"
+} from "akasha/temper/companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
 import {
   type CompanionSkillId,
   companionSkills,
-} from "../companion-skills/companion-skills.module.code.ts"
-import { calculateCompanionStats } from "../companion-stats-calculator/companion-stats-calculator.module.code.ts"
-import { optimizeTraits } from "../companion-trait-optimizer/companion-trait-optimizer.module.code.ts"
-import type { CompanionTraitId } from "../companion-traits/companion-traits.module.code.ts"
-import type { CompanionState } from "../companion-types/companion-types.module.code.ts"
+} from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
+import { calculateCompanionStats } from "akasha/temper/companions-core/companion-stats-calculator/companion-stats-calculator.module.code.ts"
+import { optimizeTraits } from "akasha/temper/companions-core/companion-trait-optimizer/companion-trait-optimizer.module.code.ts"
+import type { CompanionTraitId } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   getWeaponRole,
   setWeaponTypesForRole,
-} from "../companion-weapon-role-match/companion-weapon-role-match.module.code.ts"
-import type { CompanionWeaponRoleId } from "../companion-weapon-roles/companion-weapon-roles.module.code.ts"
-import { type CompanionId, companions } from "../companions/companions.module.code.ts"
+} from "akasha/temper/companions-core/companion-weapon-role-match/companion-weapon-role-match.module.code.ts"
+import type { CompanionWeaponRoleId } from "akasha/temper/companions-core/companion-weapon-roles/companion-weapon-roles.module.code.ts"
+import {
+  type CompanionId,
+  companions,
+} from "akasha/temper/companions-core/companions/companions.module.code.ts"
 
 type CompanionAction =
   | { type: "select-companion"; companionId: CompanionId }

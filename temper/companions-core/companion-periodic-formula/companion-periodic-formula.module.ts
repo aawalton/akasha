@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const companionPeriodicFormula = {
   id: "01a06152-c2ce-7fc4-8e01-f2c9a0d80207",

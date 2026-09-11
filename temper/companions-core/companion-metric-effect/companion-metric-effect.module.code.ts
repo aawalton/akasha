@@ -1,4 +1,4 @@
-import type { CompanionMetricId } from "../companion-metric-ids/companion-metric-ids.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
 
 type CompanionMetricEffectBase = {
   metricId: CompanionMetricId

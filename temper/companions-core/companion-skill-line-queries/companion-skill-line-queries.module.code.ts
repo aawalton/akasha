@@ -1,14 +1,14 @@
-import { companionArmorSlots } from "../companion-armor-slots/companion-armor-slots.module.code.ts"
-import type { CompanionArmorWeight } from "../companion-armor-weights/companion-armor-weights.module.code.ts"
-import type { CompanionState } from "../companion-types/companion-types.module.code.ts"
+import { companionArmorSlots } from "akasha/temper/companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
+import type { CompanionArmorWeight } from "akasha/temper/companions-core/companion-armor-weights/companion-armor-weights.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   type CompanionWeaponTypeId,
   ONE_HANDED_MELEE_WEAPONS,
-} from "../companion-weapon-types/companion-weapon-types.module.code.ts"
+} from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
 import {
   type CompanionSkillLineId,
   companionSkillLines,
-} from "../skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
+} from "akasha/temper/companions-core/skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
 
 const WEAPON_SKILL_LINE: Partial<Record<CompanionWeaponTypeId, CompanionSkillLineId>> = {
   greatsword: "weapon-two-handed",

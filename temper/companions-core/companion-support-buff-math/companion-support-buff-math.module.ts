@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const companionSupportBuffMath = {
   id: "01a06152-c2d7-7695-9439-9870ccc2e399",

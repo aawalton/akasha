@@ -1,14 +1,14 @@
-import { convertRatingToChance } from "../../formula-framework/rating-chance/rating-chance.module.code.ts"
-import { companionMetrics } from "../companion-metrics/companion-metrics.module.code.ts"
-import type { CompanionEffect } from "../companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
-import { companionSkills } from "../companion-skills/companion-skills.module.code.ts"
-import type { CompanionStatsResult } from "../companion-stats-result/companion-stats-result.module.code.ts"
-import { accumulateDamageBuffDelta } from "../companion-support-buff-math/companion-support-buff-math.module.code.ts"
+import { companionMetrics } from "akasha/temper/companions-core/companion-metrics/companion-metrics.module.code.ts"
+import type { CompanionEffect } from "akasha/temper/companions-core/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
+import { companionSkills } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
+import type { CompanionStatsResult } from "akasha/temper/companions-core/companion-stats-result/companion-stats-result.module.code.ts"
+import { accumulateDamageBuffDelta } from "akasha/temper/companions-core/companion-support-buff-math/companion-support-buff-math.module.code.ts"
 import {
   ALLY_VISIBLE_BUFF_TARGETS,
   type BuffUptimeEntry,
   type ReferenceBaseline,
-} from "../companion-support-types/companion-support-types.module.code.ts"
+} from "akasha/temper/companions-core/companion-support-types/companion-support-types.module.code.ts"
+import { convertRatingToChance } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
 
 export function extractAllyVisibleBuffUptimes(
   result: CompanionStatsResult
