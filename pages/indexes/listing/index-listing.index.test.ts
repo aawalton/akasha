@@ -9,6 +9,7 @@ import {
 import { pathIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import type {
   Beside,
+  IsThere,
   SidecarsBy,
 } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 
@@ -26,17 +27,21 @@ const VALUE = { id: A, pageTypeSlug: "domain", slug: "a" }
 
 const AT = "/repo/a.domain.ts"
 
+const SOPS = "a.domain.sops.yaml"
+
+const SOPS_THERE: IsThere = (at) => at === SOPS
+
 test("the one file this index files is named for the index", () => {
   expect(LISTED_UNDER).toBe("listing")
   expect(LISTED_AT).toBe("listing/path.jsonl")
 })
 
 test("every path the path index files is one line of that one file", () => {
-  const filed = pathIn(VALUE, AT, "/repo", NO_FILES, SECRET)
+  const filed = pathIn(VALUE, AT, "/repo", NO_FILES, SECRET, undefined, SOPS_THERE)
 
   expect(listedOf(filed)).toEqual([
     { at: LISTED_AT, line: "a.domain.ts" },
-    { at: LISTED_AT, line: "a.domain.sops.yaml" },
+    { at: LISTED_AT, line: SOPS },
   ])
 })
 
