@@ -240,6 +240,7 @@ function facingSaying(value: Value | null): Facing {
     everyOfType: () => [{ path: NAMING.path }],
     valueAt: () => value,
     carryingOf: carryingAt(OWNER),
+    filesIn: () => [],
   }
 }
 
@@ -347,6 +348,7 @@ function counting(seen: { reads: number }): Facing {
     },
     valueAt: () => null,
     carryingOf: refusing,
+    filesIn: () => [],
   }
 }
 
