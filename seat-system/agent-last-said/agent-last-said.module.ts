@@ -5,13 +5,21 @@ export const agentLastSaid = {
   pageTypeSlug: "module",
   type: "module",
   slug: "agent-last-said",
-  definition: "the words an agent wrote last in its transcript",
+  definition: "the words each side wrote last in a transcript",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "What a tool carried is no part of what the agent wrote.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line the person's own prompt made is the only line read as the person's words.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the person wrote is read past every word the agent wrote after it.",
     },
     {
       invariantKind: "departure",
