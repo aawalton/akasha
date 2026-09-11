@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "An audit over 53 checks and 124573 files read 379 refusals; 2742650427a then closed the last import cycle, so no-rule-in-two-files is the only check refusing, and it answers 375 over 309 files in 158 families, 129 of them lone pairs. The seven checks judging nothing are deliberate parks with page sanction: five experimental, one silent till its migration lands, one a model check at zero runs. Narrowing it to honour an absence is Alan's.",
+        "no-rule-in-two-files is the only check refusing: about 345 in 144 families. Folding rather than narrowing is the route, since one-literal bodies that cannot drift are only 14. It runs at audit only; at change it re-parses all 82k ts files for 6.4s, 5.4x the whole 48-check suite, so nothing stops the count rising, and the mend is filing the rule map beside the index. It reads a free name as written, so 7 of 150 families have a leg it cannot see.",
     },
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
