@@ -60,7 +60,16 @@ export const rebuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A file the pages no longer imply is found by walking the index.",
+      statement: "A file is laid down against the entries one index has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file is taken away against the entries every index has.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file the pages no longer imply is found by reading the whole index rather than one index's folder.",
     },
     {
       invariantKind: "departure",
@@ -80,8 +89,8 @@ export const rebuilding = {
       statement: "Where the index stands is derived from the repository root given here.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here takes away a path outside the entry files the pages imply.",
+      invariantKind: "departure",
+      statement: "A path under the index that no entry names is taken away, whatever it is named.",
     },
     {
       invariantKind: "absence",

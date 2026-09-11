@@ -45,8 +45,8 @@ export const indexRefresh = {
       statement: "An entry that would not file is refused.",
     },
     {
-      invariantKind: "absence",
-      statement: "A refresh takes away no path outside the entry files the pages imply.",
+      invariantKind: "departure",
+      statement: "A refresh takes away every path under the index that no entry names.",
     },
     {
       invariantKind: "departure",

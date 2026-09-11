@@ -22,9 +22,12 @@ export function bodiesFrom(
   return held
 }
 
-export type Drift = {
+export type Laid = {
   readonly added: readonly string[]
   readonly changed: readonly string[]
+}
+
+export type Drift = Laid & {
   readonly went: readonly string[]
 }
 
@@ -67,16 +70,10 @@ export function keepDelta(at: string, one: Filing, root: string): undefined {
   keepWhole(at, lines, root)
 }
 
-export function reconcile(
-  under: string,
-  entries: readonly Entry[],
-  root: string,
-  put: boolean
-): Drift {
+export function reconcile(entries: readonly Entry[], root: string, put: boolean): Laid {
   const wanted = Map.groupBy(entries, (one) => one.at)
   const added: string[] = []
   const changed: string[] = []
-  const went: string[] = []
   for (const [at, held] of wanted) {
     const lines = [...new Set(held.map((one) => one.line))].sort()
     const path = join(root, at)
@@ -86,11 +83,21 @@ export function reconcile(
     else changed.push(at)
     if (put) keepWhole(path, lines, root)
   }
-  for (const one of existsSync(under) ? walkedUnder(under, () => true) : []) {
+  return { added: added.sort(), changed: changed.sort() }
+}
+
+export function takenAway(
+  entries: readonly Entry[],
+  root: string,
+  put: boolean
+): readonly string[] {
+  const wanted = new Set(entries.map((one) => one.at))
+  const went: string[] = []
+  for (const one of existsSync(root) ? walkedUnder(root, () => true) : []) {
     const at = one.slice(root.length + 1)
     if (wanted.has(at)) continue
     went.push(at)
     if (put) keepWhole(one, [], root)
   }
-  return { added: added.sort(), changed: changed.sort(), went: went.sort() }
+  return went.sort()
 }

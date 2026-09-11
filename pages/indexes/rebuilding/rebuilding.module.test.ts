@@ -7,6 +7,7 @@ import {
   bodiesFrom,
   keepDelta,
   reconcile,
+  takenAway,
   wholeOf,
 } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
 
@@ -20,6 +21,8 @@ const AT = "held/one.jsonl"
 
 const GONE = "held/gone.jsonl"
 
+const STRAY = "stray.txt"
+
 function rootAt(): string {
   return scratch.rootFor("akasha-reconcile-")
 }
@@ -28,15 +31,25 @@ function bodyAt(root: string, at: string): string | null {
   return existsSync(join(root, at)) ? readFileSync(join(root, at), "utf8") : null
 }
 
-test("an entry no file holds is written, and an entry no page carries is taken away", () => {
+test("an entry no file holds is written", () => {
   const root = rootAt()
-  writing(root, GONE, "{}\n")
 
-  const drift = reconcile(join(root, UNDER), [{ at: AT, line: "{}" }], root, true)
+  const drift = reconcile([{ at: AT, line: "{}" }], root, true)
 
   expect(bodyAt(root, AT)).toBe("{}\n")
+  expect(drift).toEqual({ added: [AT], changed: [] })
+})
+
+test("a file no entry names is taken away, whatever that file is named", () => {
+  const root = rootAt()
+  writing(root, GONE, "{}\n")
+  writing(root, STRAY, "{}\n")
+
+  const went = takenAway([{ at: AT, line: "{}" }], root, true)
+
   expect(bodyAt(root, GONE)).toBe(null)
-  expect(drift).toEqual({ added: [AT], changed: [], went: [GONE] })
+  expect(bodyAt(root, STRAY)).toBe(null)
+  expect(went).toEqual([GONE, STRAY])
 })
 
 test("an entry already saying what the pages say is left as the entry is", () => {
@@ -44,9 +57,9 @@ test("an entry already saying what the pages say is left as the entry is", () =>
   writing(root, AT, "{}\n")
   const was = statSync(join(root, AT)).ino
 
-  const drift = reconcile(join(root, UNDER), [{ at: AT, line: "{}" }], root, true)
+  const drift = reconcile([{ at: AT, line: "{}" }], root, true)
 
-  expect(drift).toEqual({ added: [], changed: [], went: [] })
+  expect(drift).toEqual({ added: [], changed: [] })
   expect(statSync(join(root, AT)).ino).toBe(was)
 })
 
@@ -54,28 +67,29 @@ test("an entry saying something else is written again and named as changed", () 
   const root = rootAt()
   writing(root, AT, '{"was":1}\n')
 
-  const drift = reconcile(join(root, UNDER), [{ at: AT, line: "{}" }], root, true)
+  const drift = reconcile([{ at: AT, line: "{}" }], root, true)
 
   expect(bodyAt(root, AT)).toBe("{}\n")
-  expect(drift).toEqual({ added: [], changed: [AT], went: [] })
+  expect(drift).toEqual({ added: [], changed: [AT] })
 })
 
 test("a repair putting nothing in place writes nothing and says the same difference", () => {
   const root = rootAt()
   writing(root, GONE, "{}\n")
 
-  const drift = reconcile(join(root, UNDER), [{ at: AT, line: "{}" }], root, false)
+  const drift = reconcile([{ at: AT, line: "{}" }], root, false)
+  const went = takenAway([{ at: AT, line: "{}" }], root, false)
 
   expect(bodyAt(root, AT)).toBe(null)
   expect(bodyAt(root, GONE)).toBe("{}\n")
-  expect(drift).toEqual({ added: [AT], changed: [], went: [GONE] })
+  expect(drift).toEqual({ added: [AT], changed: [] })
+  expect(went).toEqual([GONE])
 })
 
 test("one entry file holds every line the pages imply, each once and sorted", () => {
   const root = rootAt()
 
   reconcile(
-    join(root, UNDER),
     [
       { at: AT, line: '{"b":1}' },
       { at: AT, line: '{"a":1}' },
@@ -92,7 +106,7 @@ test("a folder left holding nothing goes with the entry file taken away", () => 
   const root = rootAt()
   writing(root, GONE, "{}\n")
 
-  reconcile(join(root, UNDER), [], root, true)
+  takenAway([], root, true)
 
   expect(existsSync(join(root, UNDER))).toBe(false)
 })
@@ -139,7 +153,6 @@ test("the body an entry file holds is written the way a filing is answered", () 
   const lines = ['{"a":1}', '{"b":1}']
 
   reconcile(
-    join(root, UNDER),
     lines.map((line) => ({ at: AT, line })),
     root,
     true

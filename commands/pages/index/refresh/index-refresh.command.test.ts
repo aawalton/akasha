@@ -268,15 +268,15 @@ test("the report counts the indexes a difference falls under beside the files it
   expect(said(answer)).toMatch(/taken away — \S+ \d+ — /)
 })
 
-test("a path belonging to no index is left where it is rather than swept", () => {
+test("a path belonging to no index is taken away and named", () => {
   const root = repoAt()
   seeded(root)
-  const stray = join(root, indexNamed(), "athena-stray.jsonl")
+  const stray = join(root, indexNamed(), "athena-stray.txt")
   writeFileSync(stray, "{}\n")
   const answer = indexRefresh([], givenAt(root))
   expect(answer.code).toBe(OK)
-  expect(said(answer)).not.toContain("athena-stray.jsonl")
-  expect(existsSync(stray)).toBe(true)
+  expect(said(answer)).toContain("athena-stray.txt")
+  expect(existsSync(stray)).toBe(false)
 })
 
 test("every flag the page shows is one this takes", () => {

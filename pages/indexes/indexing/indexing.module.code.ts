@@ -2,10 +2,7 @@ import { mkdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { typed } from "akasha/code/code-typing/code-typing.module.code.ts"
 import { rowsOver } from "akasha/pages/entries/page-entries.module.code.ts"
-import {
-  DECLARING_UNDER,
-  declaredIn,
-} from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
+import { declaredIn } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import {
   fileKeysIn,
   filePropertiesIn,
@@ -14,27 +11,24 @@ import {
   uniquePropertiesIn,
 } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import { identityIn } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
-import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
 import { importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
-import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
-import { LISTED_UNDER, listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
+import { listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
 import {
   bodiesAt,
   reachingBuilt,
 } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import { claimingIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
-import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
 import { sidecarsIn, under } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import { knownIn } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import {
   type Drift,
   keepDelta,
+  type Laid,
   reconcile,
+  takenAway,
 } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
 import { relationIn } from "akasha/pages/indexes/relation/index-relation.index.code.ts"
-import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
 import { readAt, readerIn, ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
-import { indexRule } from "akasha/pages/indexes/rule/index-rule.index.ts"
 import {
   refusingEmpty,
   settlingOver,
@@ -46,25 +40,12 @@ import {
   walkedUnder,
 } from "akasha/pages/indexes/tree-reading/tree-reading.module.code.ts"
 import { valueIn } from "akasha/pages/indexes/value/index-value.index.code.ts"
-import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import {
   identifyingFrom,
   sourceOver,
 } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-
-const IDENTITY = indexIdentity.name
-
-const IMPORT = indexImport.name
-
-const PATH = indexPath.name
-
-const RELATION = indexRelation.name
-
-const RULE = indexRule.name
-
-const VALUE = indexValue.name
 
 type Pending = {
   readonly before: string | null
@@ -84,11 +65,11 @@ export type Refreshed = {
   readonly drift: Drift
 }
 
-function drifting(said: readonly Drift[]): Drift {
+function drifting(said: readonly Laid[], went: readonly string[]): Drift {
   return {
     added: said.flatMap((one) => one.added),
     changed: said.flatMap((one) => one.changed),
-    went: said.flatMap((one) => one.went),
+    went,
   }
 }
 
@@ -107,7 +88,7 @@ export function refreshedFrom(tree: string, root: string, repo: string, put = tr
   refusingEmpty(unique, held.length)
   const identifying = identifyingFrom(sourceOver(values))
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, identifying))
-  const drift = [reconcile(join(root, IDENTITY), identity, root, put)]
+  const drift = [reconcile(identity, root, put)]
   const sidecars = sidecarsIn(values)
   const claim = claimingIn(
     repo,
@@ -117,12 +98,12 @@ export function refreshedFrom(tree: string, root: string, repo: string, put = tr
     folderPropertiesIn(values)
   )
   const paths = held.flatMap((one) => claim(one.value, one.path, false))
-  drift.push(reconcile(join(root, PATH), paths, root, put))
+  drift.push(reconcile(paths, root, put))
   const listed = listedOf(paths)
-  drift.push(reconcile(join(root, LISTED_UNDER), listed, root, put))
-  drift.push(reconcile(join(root, DECLARING_UNDER), declared, root, put))
+  drift.push(reconcile(listed, root, put))
+  drift.push(reconcile(declared, root, put))
   const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
-  drift.push(reconcile(join(root, VALUE), valued, root, put))
+  drift.push(reconcile(valued, root, put))
   const known = knownIn(readingAt(root), (path) => valueAt(path, repo))
   const beside = bodiesAt(repo)
   const filed = held.map((one) =>
@@ -135,12 +116,12 @@ export function refreshedFrom(tree: string, root: string, repo: string, put = tr
     )
   )
   const relation = filed.flatMap((one) => one.entries)
-  drift.push(reconcile(join(root, RELATION), relation, root, put))
+  drift.push(reconcile(relation, root, put))
   const naming = reachingBuilt(held, repo, fileProperties, filedBy)
   const imported = walkedUnder(tree, typed).flatMap((path) =>
     importIn(readFileSync(path, "utf8"), path, repo, naming)
   )
-  drift.push(reconcile(join(root, IMPORT), imported, root, put))
+  drift.push(reconcile(imported, root, put))
   const walked = walkedUnder(tree, typed)
   const bodied = new Set(walked.map((one) => under(repo, one)))
   const ruled = [
@@ -148,7 +129,17 @@ export function refreshedFrom(tree: string, root: string, repo: string, put = tr
     ...listed.flatMap((one) => (bodied.has(one.line) ? [] : readAt(join(repo, one.line), repo))),
     readerIn(),
   ]
-  drift.push(reconcile(join(root, RULE), ruled, root, put))
+  drift.push(reconcile(ruled, root, put))
+  const every = [
+    ...identity,
+    ...paths,
+    ...listed,
+    ...declared,
+    ...valued,
+    ...relation,
+    ...imported,
+    ...ruled,
+  ]
   return {
     pages: held.length,
     entries:
@@ -160,7 +151,7 @@ export function refreshedFrom(tree: string, root: string, repo: string, put = tr
       ruled.length +
       valued.length,
     refused: filed.flatMap((one) => one.refused),
-    drift: drifting(drift),
+    drift: drifting(drift, takenAway(every, root, put)),
   }
 }
 

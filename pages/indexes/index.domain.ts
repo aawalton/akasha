@@ -163,8 +163,12 @@ export const index = {
       statement: "A question answered once over one reading is held rather than worked out again.",
     },
     {
-      invariantKind: "gap",
-      statement: "A folder under the index that no index page names is taken away by nothing.",
+      invariantKind: "departure",
+      statement: "A refresh takes away every path under the index that the pages do not imply.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder under the index that no index page names goes with the next refresh.",
     },
   ],
 } as const satisfies Domain
