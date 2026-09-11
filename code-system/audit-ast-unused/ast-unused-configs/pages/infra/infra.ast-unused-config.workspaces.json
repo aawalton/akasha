@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "infra/git-cli": {
+    "infrastructure/git-transport": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -8,27 +8,9 @@
         "**/*.ts"
       ]
     },
-    "infra/git-porcelain": {
+    "infrastructure/cluster/k8s-synth": {
       "entry": [
         "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "infra/git-transport": {
-      "entry": [
-        "**/*.test.{ts,tsx}",
-        "src/server.ts"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "infra/k8s-synth": {
-      "entry": [
-        "**/*.test.{ts,tsx}",
-        "src/manifests.ts"
       ],
       "project": [
         "**/*.ts"
