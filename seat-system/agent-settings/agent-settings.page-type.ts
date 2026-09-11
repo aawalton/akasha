@@ -15,9 +15,13 @@ export const agentSettings = {
     "agent-settings/remote-control",
     "agent-settings/tool-access",
     "file-property/harness-settings",
+    "module-property-group/telling",
   ],
   extends: ["page-type/domain"],
-  properties: [{ pageProperty: "file-property/harness-settings", required: true, many: false }],
+  properties: [
+    { pageProperty: "file-property/harness-settings", required: true, many: false },
+    { pageProperty: "module-property-group/telling", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
