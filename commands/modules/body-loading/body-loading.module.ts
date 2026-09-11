@@ -8,6 +8,7 @@ export const bodyLoading = {
   definition: "the code at a module path, loaded from the body a change leaves there",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

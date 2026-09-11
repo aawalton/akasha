@@ -4,14 +4,18 @@ import {
   heldOver,
   leftHeldAt,
 } from "akasha/commands/modules/body-loading/body-loading.module.code.ts"
+import { BESIDE } from "akasha/commands/modules/body-loading/body-loading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const ROOT = codeRoot()
 
-const AT = "commands/modules/body-loading/body-loading.module.ts"
+const MODULE = "module"
 
-const BESIDE = "commands/modules/body-loading/body-loading.module.code.ts"
+const SLUG = "body-loading"
+
+const AT = listedAt(ROOT, MODULE, SLUG)[0]?.path ?? ""
 
 const MARKER = "the body the change leaves\n"
 
