@@ -4,6 +4,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
   PAGE_EXTENSION,
   pageStemOf,
@@ -36,10 +37,6 @@ function asKind(held: unknown, kind: Kind): unknown {
   const said = Number(held)
   if (!Number.isFinite(said)) return null
   return kind === "number" ? said : new Date(said).toISOString()
-}
-
-function camel(slug: string): string {
-  return slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
 }
 
 function carriedFrom(values: Beside): Beside | null {
@@ -114,7 +111,7 @@ export function keepBesideUnder(page: string, key: string, values: Beside): unde
     )
   }
   const under: Beside = {}
-  for (const [name, value] of Object.entries(values)) under[camel(name)] = bare(value)
+  for (const [name, value] of Object.entries(values)) under[exportedAs(name)] = bare(value)
   inAkasha(page, { [key]: under })
 }
 

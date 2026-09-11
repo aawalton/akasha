@@ -1,3 +1,4 @@
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { akashaObservedOf } from "../seat-akasha-read/seat-akasha-read.module.code.ts"
 import { keepBesideUnder } from "../seat-beside/seat-beside.module.code.ts"
 import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
@@ -27,10 +28,6 @@ export function anyPendingRead(pending: TurnPending): boolean {
   return TURN_PENDING_COMPONENTS.some((one) => pending[one] !== undefined)
 }
 
-function camelOf(slug: string): string {
-  return slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
-}
-
 export function pendingOf(agent: string): TurnPending {
   if (agent === "") return {}
   const held = akashaObservedOf(agent)?.[PENDING_KEY]
@@ -40,7 +37,7 @@ export function pendingOf(agent: string): TurnPending {
   const said = held as Record<string, unknown>
   const found: Record<string, PendingRecord> = {}
   for (const component of TURN_PENDING_COMPONENTS) {
-    const value = said[camelOf(component)]
+    const value = said[exportedAs(component)]
     if (typeof value === "boolean") found[component] = { value }
   }
   return found
