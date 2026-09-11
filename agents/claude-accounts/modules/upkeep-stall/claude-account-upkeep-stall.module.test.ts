@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import {
   UPKEEP_PERIOD_MS,
   UPKEEP_RENEWAL_MARGIN_MS,

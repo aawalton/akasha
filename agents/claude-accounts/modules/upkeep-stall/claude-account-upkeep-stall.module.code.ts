@@ -1,4 +1,4 @@
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
 import {
   UPKEEP_PERIOD_MS,

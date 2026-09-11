@@ -17,7 +17,7 @@ import {
   mergeUncommitted,
   uncommittedIn,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import type { Applied } from "../../../../commands/modules/applying/applying.module.code.ts"
 import type { Refused } from "../../../../commands/modules/landing/landing.module.code.ts"
 import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
