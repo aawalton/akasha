@@ -55,5 +55,10 @@ export const keepAlanDirectives = {
       invariantKind: "gap",
       statement: "A turn held open twice running says so to the person.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A turn ending with a subagent or a background command still to report is left alone.",
+    },
   ],
 } as const satisfies InferenceHook

@@ -3,8 +3,10 @@ import {
   directivesIn,
   personIn,
   SCOPE,
+  stillWorking,
   type Valued,
 } from "akasha/agents/hooks/agent-hooks/inference-hooks/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"
+import type { SubagentPage } from "akasha/seat-system/subagent-census/subagent-census.module.code.ts"
 
 const SEATS: readonly Valued[] = [
   { path: "one.seat.ts", value: { id: "a", person: "alan" } },
@@ -48,6 +50,23 @@ test("anything that is no list of directives reads as none", () => {
   expect(directivesIn(null)).toEqual([])
   expect(directivesIn("directives")).toEqual([])
   expect(directivesIn([null, 1, "one"])).toEqual([])
+})
+
+const CHILD: readonly SubagentPage[] = [
+  { path: "one.subagent.ts", slug: "one", seatName: "amy", agentId: "a--b", seatId: "a", own: "b" },
+]
+
+test("a seat a subagent page names is still working", () => {
+  expect(stillWorking(CHILD, "a", {})).toBe(true)
+})
+
+test("a seat with a background command still open is still working", () => {
+  expect(stillWorking([], "a", { openShells: ["task"] })).toBe(true)
+})
+
+test("a seat with no child and nothing open is not still working", () => {
+  expect(stillWorking(CHILD, "z", { openShells: [] })).toBe(false)
+  expect(stillWorking([], "a", {})).toBe(false)
 })
 
 test("the scope says what the hook does not catch", () => {

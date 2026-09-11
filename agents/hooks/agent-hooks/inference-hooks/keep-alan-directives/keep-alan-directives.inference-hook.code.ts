@@ -21,6 +21,16 @@ import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valuedAt, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/seat-system/agent-io-probe/agent-io-probe.module.code.ts"
 import { lastSaidIn } from "akasha/seat-system/agent-last-said/agent-last-said.module.code.ts"
+import {
+  anyLiveShell,
+  type TurnWorking,
+  workingOf,
+} from "akasha/seat-system/seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
+import { seatsWithSubagentPage } from "akasha/seat-system/seat-pending/pending-from-files/pending-from-files.module.code.ts"
+import {
+  pagesIn,
+  type SubagentPage,
+} from "akasha/seat-system/subagent-census/subagent-census.module.code.ts"
 import { ran as spawned } from "akasha/utils/run/running/running.module.code.ts"
 
 const HOOK = "keep-alan-directives"
@@ -67,6 +77,7 @@ export const SCOPE: readonly string[] = [
   "  a turn under a seat that answers to no person.",
   "  a turn the agent closed with a tool call and no words.",
   "  a stop this hook held open already.",
+  "  a turn ending while a subagent or a background command the seat started is still to report.",
   "  what a subagent wrote.",
   "  any tool call, and any event but `Stop`.",
   "",
@@ -131,9 +142,18 @@ function askedOf(
   return answers as readonly string[]
 }
 
+export function stillWorking(
+  pages: readonly SubagentPage[],
+  agent: string,
+  working: TurnWorking
+): boolean {
+  return seatsWithSubagentPage(pages).has(agent) || anyLiveShell(working)
+}
+
 export function judging(root: string, agent: string, turn: string): Answer {
   const person = personIn(valuesOfType(root, SEAT) as readonly Valued[], agent)
   if (person === null) return LET_THROUGH
+  if (stillWorking(pagesIn(root), agent, workingOf(agent))) return LET_THROUGH
   const directives = directivesIn(valuedAt(root, PERSON, person).value[DIRECTIVES])
   if (directives.length === 0) return LET_THROUGH
   const asking = directiveKept({ turn, directives })
