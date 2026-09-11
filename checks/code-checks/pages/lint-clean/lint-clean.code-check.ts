@@ -97,6 +97,10 @@ export const lintClean = {
     },
     {
       invariantKind: "departure",
+      statement: "An audit reads no body to find which files the linter reads.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file the change takes away is judged by nothing.",
     },
     {

@@ -66,18 +66,25 @@ export function lookedAt(
   return reads === null || reads.some((one) => path.endsWith(one))
 }
 
+export function namedIn(
+  paths: readonly string[],
+  reads: readonly string[] | null,
+  skips: readonly string[] = []
+): readonly string[] {
+  const held = new Set<string>()
+  for (const one of paths) {
+    if (!lookedAt(one, reads, skips)) continue
+    held.add(one)
+  }
+  return [...held].sort()
+}
+
 export function carriedIn(
   change: Change,
   reads: readonly string[] | null,
   skips: readonly string[] = []
 ): readonly string[] {
-  const held = new Set<string>()
-  for (const one of change.changed) {
-    if (!lookedAt(one, reads, skips)) continue
-    if (change.after(one) === null) continue
-    held.add(one)
-  }
-  return [...held].sort()
+  return namedIn(change.changed, reads, skips).filter((one) => change.after(one) !== null)
 }
 
 export function outsideOf(said: string, root: string, named: string = MIRROR): string {

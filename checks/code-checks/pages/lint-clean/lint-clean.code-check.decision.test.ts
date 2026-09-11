@@ -3,6 +3,7 @@ import {
   carriedIn,
   judgedOf,
   lookedAt,
+  namedIn,
   outsideOf,
   readsIn,
   reasonOf,
@@ -67,6 +68,12 @@ test("a configuration narrowing by no name leaves every changed file read", () =
 test("a configuration that will not parse narrows nothing rather than throwing", () => {
   expect(readsIn(said("{not json"))).toBe(null)
   expect(readsIn(null)).toBe(null)
+})
+
+test("the paths the linter reads are named from the list rather than from the bodies", () => {
+  const changed = ["akasha/two.ts", "akasha/one.ts", "akasha/one.ts", "akasha/held.md"]
+
+  expect(namedIn(changed, READS)).toEqual(["akasha/one.ts", "akasha/two.ts"])
 })
 
 test("a file the change takes away is judged by nothing", () => {

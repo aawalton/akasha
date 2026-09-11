@@ -1,8 +1,8 @@
 import {
   CONFIG,
-  carriedIn,
   HERE,
   judgedOf,
+  namedIn,
   readsIn,
   skippedIn,
 } from "akasha/checks/code-checks/pages/lint-clean/lint-clean.code-check.decision.code.ts"
@@ -15,8 +15,7 @@ const TREE = "the tree this audit read"
 export function lintClean(root: string): readonly Judged[] {
   const change = everythingIn(root)
   const said = change.after(CONFIG)
-  const carried = carriedIn(change, readsIn(said), skippedIn(said))
-  const first = carried[0]
+  const first = namedIn(change.changed, readsIn(said), skippedIn(said))[0]
   if (first === undefined) return []
   return judgedOf(lintedOver(root, HERE), first, root, TREE)
 }
