@@ -14,11 +14,6 @@ export const astraGeneratedTypes = {
   ],
   intents: [
     {
-      statement: "A page property's written type says everything its hand-written type said.",
-      workingMemory:
-        "A written type names a property's type rather than restating it, so an extension the data leaves out and a relation that collapses to a slug bar nothing. Naming bars it. Of 1773 property pages, 1743 export the type named for the page's slug and 30 do not: 23 are named for the property slug, 7 for neither. Forty export an element type as well, and in every one the property's own type is the one named for the slug.\n",
-    },
-    {
       statement: "No page property's type is written by hand.",
       workingMemory:
         "1758 of 1759 property pages have their type written beside them, and every kind but one is whole. The one left is `record-property/properties`, whose `Declaration` is two arms parted on the literal `many`: `maxCount` is required in one arm, `default` and `fixed` admitted only in the other. A flat list of fields says neither that a field waits on another field's value nor that a field is pinned to a literal. Alan has the case.",
