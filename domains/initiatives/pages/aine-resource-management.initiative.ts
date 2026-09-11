@@ -76,6 +76,11 @@ export const aineResourceManagement = {
       workingMemory:
         "The same eight kinds. maxCpuSeconds is judged by ranOver and refuses with check-over-its-ceiling. maxWallSeconds and maxMemoryMb are declared beside it on module-property-group and on code-file-property, read by no code, and no page states either. A run blocked on a network call or on a lock spends no processor seconds, so the one ceiling enforced never ends it however long Alan waits on it.\n",
     },
+    {
+      statement: "What each kind of work spent is recorded beside the page of what ran.",
+      workingMemory:
+        "check-cost already does this for four of the eight: a check and an audit through checking, a command through calling, a change through change-running and apply-running. Each writes one jsonl line carrying cpuSeconds, childCpuSeconds, wallMs and the memory peak, beside the page of what ran, uncommitted and rolling at 8 MiB. A guard, a test, a deploy and a bash call record nothing, which is why half the ceilings would be guesses.\n",
+    },
   ],
   constraints: ["Every ceiling number is settled with Alan rather than chosen."],
 } as const satisfies Initiative
