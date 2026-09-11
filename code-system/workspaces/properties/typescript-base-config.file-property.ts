@@ -10,4 +10,5 @@ export const typescriptBaseConfig = {
   propertySlug: "typescript-base-config",
   definition: "the TypeScript settings every other config in this tree extends",
   fileName: "tsconfig.base.json",
+  toolResolvesPaths: true,
 } as const satisfies FileProperty
