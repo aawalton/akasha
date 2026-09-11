@@ -270,5 +270,18 @@ export const changeRunning = {
       invariantKind: "departure",
       statement: "A refusal composed where no index answers is said without the retry.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A change is run under the processor seconds that change's page allows.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change past those seconds runs to its end and then appends nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Those seconds are taken around the change alone rather than around the whole call.",
+    },
   ],
 } as const satisfies Module

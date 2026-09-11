@@ -9,7 +9,7 @@ export const changeApply = {
   code: "ts",
   test: "ts",
   changeKind: "change-mechanical",
-  timeout: 300,
+  timeout: null,
   helpNotes: [
     "an apply naming no change lands the edits already kept beside this agent's page.",
     "an apply naming a change answers that change first, then lands every edit kept, and `measure` measures that landing rather than landing it.",
@@ -28,6 +28,7 @@ export const changeApply = {
     "an apply that refuses puts the fold back, so the edits are kept for a change to mend.",
     "an edit for a body the apply writes again is dropped rather than folded, and the report names it.",
     "an apply says how many subagents handed edits over, because an apply lands none of them.",
+    "an apply runs under no ceiling on the clock, and a change past the processor seconds its page allows lands nothing.",
   ],
   invariants: [
     {
@@ -139,6 +140,11 @@ export const changeApply = {
     {
       invariantKind: "departure",
       statement: "What lands is not always the text handed in.",
+    },
+    { invariantKind: "departure", statement: "An apply runs under no ceiling on the wall clock." },
+    {
+      invariantKind: "departure",
+      statement: "A change past the processor seconds its page allows lands nothing.",
     },
   ],
 } as const satisfies Command

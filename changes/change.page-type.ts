@@ -36,6 +36,7 @@ export const change = {
     "module/key-requiring",
     "module/value-carrying",
     "boolean-property/temporary",
+    "number-property/change-max-cpu-seconds",
   ],
   properties: [
     { pageProperty: "relation-property/change-kind", required: true, many: false },
@@ -51,6 +52,7 @@ export const change = {
       required: false,
       many: false,
     },
+    { pageProperty: "number-property/change-max-cpu-seconds", required: false, many: false },
   ],
   invariants: [
     {

@@ -30,6 +30,7 @@ import {
 } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { NO_PAGE, saidOf } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
+import { underIts } from "akasha/commands/modules/change-ceiling/change-ceiling.module.code.ts"
 import { commandPageAt } from "akasha/commands/modules/change-costing/change-costing.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { unknownIn } from "akasha/commands/modules/flags/command-flags.module.code.ts"
@@ -363,15 +364,18 @@ export async function changing(
   const loaded = await loading(world, `${type}/${slug}`)
   if (typeof loaded === "string") return mistaking([loaded])
   const held: Loaded = loaded
-  const kind = kindOf(world, world.index.pageAt(type, slug))
+  const stated = world.index.pageAt(type, slug)
+  const kind = kindOf(world, stated)
   const owed = owedBy(kind)
   const owing = owingBy(kind)
   let paths = 0
-  const answered = await appending(root, page, agentId, owing, async (one) => {
-    const made = stamped(await ranBy(one, held, asked.given), owed, owing)
-    paths = new Set(made.edits.flatMap(pathsOf)).size
-    return made
-  })
+  const answered = await appending(root, page, agentId, owing, async (one) =>
+    underIts(slug, stated, async () => {
+      const made = stamped(await ranBy(one, held, asked.given), owed, owing)
+      paths = new Set(made.edits.flatMap(pathsOf)).size
+      return made
+    })
+  )
   costRecorded(
     root,
     commandPageAt(root, chosen.slug),

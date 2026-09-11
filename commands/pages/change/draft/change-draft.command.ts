@@ -9,6 +9,7 @@ export const changeDraft = {
   code: "ts",
   test: "ts",
   changeKind: "change-mechanical",
+  timeout: null,
   helpNotes: [
     "the change to answer is the first word, and the arguments that change takes are piped in.",
     "a call naming no change is refused with every change a draft runs.",
@@ -27,6 +28,7 @@ export const changeDraft = {
     "a draft that refuses keeps nothing and leaves the edits as the edits were.",
     "no check runs over a draft, and the checks run where the edits land.",
     "a draft is refused where its writer has not read what the draft writes.",
+    "a draft runs under no ceiling on the clock, and a change past the processor seconds its page allows keeps nothing.",
   ],
   invariants: [
     {
@@ -104,6 +106,11 @@ export const changeDraft = {
     {
       invariantKind: "absence",
       statement: "No redirect carries that answer to a file.",
+    },
+    { invariantKind: "departure", statement: "A draft runs under no ceiling on the wall clock." },
+    {
+      invariantKind: "departure",
+      statement: "A change past the processor seconds its page allows keeps nothing.",
     },
   ],
 } as const satisfies Command
