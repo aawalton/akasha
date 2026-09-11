@@ -6,4 +6,10 @@ export const fcoMainmenu = {
   slug: "fco-mainmenu",
   definition: "the main menu rows the interface tweaks change",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "absence",
+      statement: "No shared guard is kept for the type each guard here narrows to.",
+    },
+  ],
 } as const satisfies Module
