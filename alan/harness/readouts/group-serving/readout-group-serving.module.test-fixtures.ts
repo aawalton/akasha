@@ -1,5 +1,4 @@
 import { expect } from "bun:test"
-import { join } from "node:path"
 import { RING_CREDENTIAL_HEADER } from "akasha/alan/harness/readouts/credential/readout-credential.module.code.ts"
 import {
   answerStoplightsAdmittedBy,
@@ -7,8 +6,10 @@ import {
   stoplightsInGroup,
 } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
 import { relayedFor } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { textIn, textsAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { Glob } from "bun"
 
 export const GROUP = "a-group-named-only-in-this-test"
 
@@ -204,18 +205,18 @@ export function tileAt(
   }
 }
 
-export async function readoutsNaming(root: string, group: string): Promise<readonly string[]> {
+const READOUT_TYPE = "readout"
+
+const SLUG = "slug"
+
+const GROUPS = "groups"
+
+export function readoutsNaming(group: string): readonly string[] {
   const named: string[] = []
-  for await (const relative of new Glob("**/*.readout.ts").scan({ cwd: root })) {
-    if (relative.includes("node_modules")) continue
-    const loaded = (await import(join(root, relative))) as Record<
-      string,
-      { slug?: string; groups?: readonly string[] } | undefined
-    >
-    for (const one of Object.values(loaded)) {
-      if (one?.slug === undefined) continue
-      if (one.groups?.includes(group) === true) named.push(one.slug)
-    }
+  for (const value of shadowAt(akashaRoot()).index.valuesByPath(READOUT_TYPE).values()) {
+    const slug = textIn(value, SLUG)
+    if (slug === null) continue
+    if (textsAt(value, GROUPS)?.includes(group) === true) named.push(slug)
   }
   return named.sort()
 }

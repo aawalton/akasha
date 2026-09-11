@@ -1,5 +1,4 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
-import { join } from "node:path"
 import { answerStoplightsAdmittedBy } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
 import {
   colorIn,
@@ -129,20 +128,12 @@ async function carryAll(at: Date = new Date()): Promise<void> {
   for (const [readout, value] of CARRIED) await carryNow(readout, value, at)
 }
 
-const AKASHA = join(import.meta.dir, "..", "..", "..", "..")
-
-test("the pages naming the inboxes group are the three the fixture holds", async () => {
-  expect(await readoutsNaming(AKASHA, GROUP)).toEqual([
-    "inboxes-email",
-    "inboxes-tasks",
-    "inboxes-temper-tasks",
-  ])
+test("the pages naming the inboxes group are the three the fixture holds", () => {
+  expect(readoutsNaming(GROUP)).toEqual(["inboxes-email", "inboxes-tasks", "inboxes-temper-tasks"])
 })
 
-test("the fixture holds every page naming the group and no page it does not", async () => {
-  expect(READOUT_ROWS.map((one) => one.slug).sort()).toEqual([
-    ...(await readoutsNaming(AKASHA, GROUP)),
-  ])
+test("the fixture holds every page naming the group and no page it does not", () => {
+  expect(READOUT_ROWS.map((one) => one.slug).sort()).toEqual([...readoutsNaming(GROUP)])
 })
 
 test("nothing carried in shows three empty rings rather than an empty list", async () => {

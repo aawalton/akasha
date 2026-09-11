@@ -1,5 +1,4 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
-import { join } from "node:path"
 import { answerStoplightsAdmittedBy } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
 import {
   colorIn,
@@ -151,8 +150,6 @@ function carryAll(at: Date = new Date()): undefined {
   for (const [readout, value] of CARRIED) relayedFor(readout, value, at)
 }
 
-const AKASHA = join(import.meta.dir, "..", "..", "..")
-
 test("the group this answers for is the attributes group", () => {
   expect(GROUP).toBe("attributes")
 })
@@ -161,8 +158,8 @@ test("the key a reading travels under is `attribute` rather than `habit`", () =>
   expect(WIRE_KEY_NAME).toBe("attribute")
 })
 
-test("the pages naming the attributes group are the six the fixture holds", async () => {
-  expect(await readoutsNaming(AKASHA, GROUP)).toEqual([
+test("the pages naming the attributes group are the six the fixture holds", () => {
+  expect(readoutsNaming(GROUP)).toEqual([
     "attribute-charisma",
     "attribute-constitution",
     "attribute-endurance",
@@ -172,10 +169,8 @@ test("the pages naming the attributes group are the six the fixture holds", asyn
   ])
 })
 
-test("the fixture holds every page naming the group and no page it does not", async () => {
-  expect(READOUT_ROWS.map((one) => one.slug).sort()).toEqual([
-    ...(await readoutsNaming(AKASHA, GROUP)),
-  ])
+test("the fixture holds every page naming the group and no page it does not", () => {
+  expect(READOUT_ROWS.map((one) => one.slug).sort()).toEqual([...readoutsNaming(GROUP)])
 })
 
 test("nothing carried in shows six empty rings rather than an empty list", async () => {
