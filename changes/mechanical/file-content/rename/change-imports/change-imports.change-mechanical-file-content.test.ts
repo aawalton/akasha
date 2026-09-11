@@ -334,6 +334,18 @@ test("a name read against the body's own folder is left as the body spells it", 
   )
 })
 
+test("a path a longer string holds follows the folder that moved", () => {
+  const text = `export const said = 'import { one } from "akasha/code-system/one.ts"'\n`
+
+  expect(carriedBody(TABLE, text)).toContain('from \\"akasha/code/one.ts\\"')
+})
+
+test("a specifier naming a package is left alone though a run inside it would land", () => {
+  const text = `import { one } from "@held/code-system/one.ts"\n`
+
+  expect(carriedOver(TABLE, text).edits).toEqual([])
+})
+
 test("a specifier spelled from the root under the folder that moved follows it", () => {
   const text = `import { one } from "akasha/code-system/one/one.module.code.ts"\n`
 

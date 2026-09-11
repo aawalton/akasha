@@ -146,6 +146,15 @@ export const changeImports = {
       invariantKind: "departure",
       statement: "A name opening with the root package is never respelled against a folder.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A string in code that is no path of its own is read as the runs that string holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A specifier is read as a whole path or as nothing rather than as runs.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

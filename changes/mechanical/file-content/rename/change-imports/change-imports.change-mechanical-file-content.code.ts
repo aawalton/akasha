@@ -86,12 +86,20 @@ function nextFor(
   return specifier ? specifierFor(dir, landed) : null
 }
 
+function withinFor(was: string, dir: string, said: string, landing: Landing): string | null {
+  const splices = runsFor(was, dir, said, landing)
+  return splices.length === 0 ? null : putOver(said, splices)
+}
+
 export function changeImports(was: string, now: string, text: string, landing: Landing): Said {
   const dir = dirname(now)
   const specifier = new Set(placedIn(now, text).map((one) => one.start))
   const splices: Splice[] = []
   for (const one of spelledIn(now, text)) {
-    const next = nextFor(was, now, dir, one.text, landing, specifier.has(one.start))
+    const held = specifier.has(one.start)
+    const next =
+      nextFor(was, now, dir, one.text, landing, held) ??
+      (held ? null : withinFor(was, dir, one.text, landing))
     if (next === null || next === one.text) continue
     splices.push({ from: one.start, to: one.end, put: JSON.stringify(next) })
   }
@@ -136,8 +144,17 @@ function openingsIn(lines: readonly string[]): readonly number[] {
   return found
 }
 
-export function changeRuns(was: string, now: string, text: string, landing: Landing): Said {
-  const dir = dirname(now)
+function putOver(text: string, splices: readonly Splice[]): string {
+  let put = ""
+  let at = 0
+  for (const one of splices) {
+    put = `${put}${text.slice(at, one.from)}${one.put}`
+    at = one.to
+  }
+  return `${put}${text.slice(at)}`
+}
+
+function runsFor(was: string, dir: string, text: string, landing: Landing): readonly Splice[] {
   const lines = text.split(LINES)
   const opens = openingsIn(lines)
   const splices: Splice[] = []
@@ -160,7 +177,11 @@ export function changeRuns(was: string, now: string, text: string, landing: Land
     const from = open + found + held.at
     splices.push({ from, to: from + held.said.length, put: held.put })
   }
-  return stating(splicing(now, text, splices))
+  return splices
+}
+
+export function changeRuns(was: string, now: string, text: string, landing: Landing): Said {
+  return stating(splicing(now, text, runsFor(was, dirname(now), text, landing)))
 }
 
 export type Carried = {
