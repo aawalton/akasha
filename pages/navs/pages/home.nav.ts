@@ -1,4 +1,4 @@
-import type { Nav } from "../nav.page-type.types.ts"
+import type { Nav } from "akasha/pages/navs/nav.page-type.types.ts"
 
 export const home = {
   id: "01a06577-2613-700d-a041-62a4896e80cc",

@@ -1,4 +1,4 @@
-import type { Nav } from "../nav.page-type.types.ts"
+import type { Nav } from "akasha/pages/navs/nav.page-type.types.ts"
 
 export const tasks = {
   id: "01a06577-2613-7018-84f7-f596a7242626",

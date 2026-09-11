@@ -1,4 +1,4 @@
-import type { Nav } from "../nav.page-type.types.ts"
+import type { Nav } from "akasha/pages/navs/nav.page-type.types.ts"
 
 export const math = {
   id: "01a06577-2613-7011-aad1-1fb659fbacf4",

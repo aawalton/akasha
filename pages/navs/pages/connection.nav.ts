@@ -1,4 +1,4 @@
-import type { Nav } from "../nav.page-type.types.ts"
+import type { Nav } from "akasha/pages/navs/nav.page-type.types.ts"
 
 export const connection = {
   id: "01a06577-2613-7008-9a87-f0d100b78172",
