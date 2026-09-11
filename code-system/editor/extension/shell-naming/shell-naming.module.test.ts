@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { shellNameOf } from "./shell-naming.module.code.ts"
+import { shellNameOf } from "akasha/code-system/editor/extension/shell-naming/shell-naming.module.code.ts"
 
 test("a running process answers with the name it runs under", () => {
   const name = shellNameOf(process.pid)
