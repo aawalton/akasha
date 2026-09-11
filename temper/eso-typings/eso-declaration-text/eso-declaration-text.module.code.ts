@@ -3,7 +3,7 @@ import type {
   ParsedEvent,
   ParsedFunction,
   ParsedObject,
-} from "../eso-doc-tokens/eso-doc-tokens.module.code.ts"
+} from "akasha/temper/eso-typings/eso-doc-tokens/eso-doc-tokens.module.code.ts"
 
 function header(title: string): string {
   return [

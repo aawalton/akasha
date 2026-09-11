@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import type { EsoOptIn } from "../eso-token-scope/eso-token-scope.module.code.ts"
+import type { EsoOptIn } from "akasha/temper/eso-typings/eso-token-scope/eso-token-scope.module.code.ts"
 
 const MANIFEST_PATH = new URL(
   "../declared-tokens/declared-tokens.eso-opt-in-list.tokens.json",
