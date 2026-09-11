@@ -1,3 +1,4 @@
+import { parseLuaCapture } from "akasha/temper/narrow/parse-lua-capture/parse-lua-capture.module.code.ts"
 import {
   asAddonListData,
   asEsoHandler,
@@ -41,10 +42,6 @@ export function scrollDataIntoView(
       ZO_ScrollList_ScrollAbsolute(list, zo_min(targetMax, scrollMax))
     }
   }
-}
-
-function parseLuaCapture(this: void, captured: unknown): string | undefined {
-  return typeof captured === "string" ? captured : undefined
 }
 
 export function getSearchFilterFunc(

@@ -1,3 +1,4 @@
+import { parseLuaCapture } from "akasha/temper/narrow/parse-lua-capture/parse-lua-capture.module.code.ts"
 import {
   asControl,
   asLamFactory,
@@ -23,10 +24,6 @@ import {
 } from "../addon-menu-util/addon-menu-util.module.code.ts"
 
 const SLIDER_HANDLER_NAMESPACE = "LAM2_Slider"
-
-function parseLuaCapture(this: void, captured: unknown): string | undefined {
-  return typeof captured === "string" ? captured : undefined
-}
 
 function roundDecimalToPlace(this: void, d: number, place: number): number | undefined {
   return tonumber(string.format("%." + tostring(place) + "f", d))

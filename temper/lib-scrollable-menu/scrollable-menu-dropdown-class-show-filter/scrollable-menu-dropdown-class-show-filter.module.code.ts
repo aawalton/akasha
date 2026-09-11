@@ -1,3 +1,4 @@
+import { parseLuaCapture } from "akasha/temper/narrow/parse-lua-capture/parse-lua-capture.module.code.ts"
 import {
   asLsmCastIsFilterEnabledThisUnknownUnknown,
   asLsmCastMDropdownUnknown,
@@ -79,10 +80,6 @@ function asLsmCastLocalGetFilterFunctionThisUnknownTypeofFilterFunc(
   value: unknown
 ): LsmCastLocalGetFilterFunctionThisUnknownTypeofFilterFunc {
   return value as LsmCastLocalGetFilterFunctionThisUnknownTypeofFilterFunc
-}
-
-function parseLuaCapture(this: void, captured: unknown): string | undefined {
-  return typeof captured === "string" ? captured : undefined
 }
 
 const isBoolean = new LuaTable<boolean | string, boolean>()
