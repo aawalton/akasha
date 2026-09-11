@@ -19,6 +19,7 @@ export const deploy = {
     "module/deploy-simulator-installing",
     "module/deploy-device-installing",
     "module/deploy-inference-installing",
+    "module/deploy-addon-installing",
   ],
   taking: [
     {
@@ -81,6 +82,11 @@ export const deploy = {
     "the pool file the traffic cop reads is written from every inference service before the one named is applied.",
     "an inference service whose page says it is not to be running is torn off the host rather than left there.",
     "`--dry-run` belongs to an inference service too, and it reaches the host to read the host and changes nothing.",
+    "an ESO addon is transpiled to Lua here and its folder in the game replaced with what that build left.",
+    "the folder an addon is built from is the folder its page sits in, and the name the game reads it by comes from the manifest there.",
+    "each sibling folder the addon's manifest declares is replaced beside it, and every file written is verified against its source by sha256.",
+    "a folder in the game carrying no build stamp was installed by something else, and it is left alone or refused rather than deleted.",
+    "`--dry-run` belongs to an ESO addon too, and it says where the addon is built from and what it is placed as, touching neither.",
   ],
   invariants: [
     {
@@ -175,6 +181,18 @@ export const deploy = {
     {
       invariantKind: "departure",
       statement: "An inference service its page says is not to be running is torn off its host.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An ESO addon is compiled to Lua and put where the game reads it by this command.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An addon that will not compile leaves the game's folder as it was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder in the game nothing here wrote is never deleted on missing evidence.",
     },
   ],
 } as const satisfies Command

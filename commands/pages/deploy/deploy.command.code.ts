@@ -1,6 +1,7 @@
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
+import { putUpAddon } from "akasha/commands/pages/deploy/deploy-addon-installing/deploy-addon-installing.module.code.ts"
 import { installedOnDevice } from "akasha/commands/pages/deploy/deploy-device-installing/deploy-device-installing.module.code.ts"
 import { pushedImage } from "akasha/commands/pages/deploy/deploy-image-pushing/deploy-image-pushing.module.code.ts"
 import { putUpInferenceService } from "akasha/commands/pages/deploy/deploy-inference-installing/deploy-inference-installing.module.code.ts"
@@ -8,6 +9,7 @@ import { shipIosApp } from "akasha/commands/pages/deploy/deploy-ios-shipping/dep
 import {
   CLUSTER_SERVICE,
   CONTAINER_RECIPE,
+  ESO_ADDON,
   INFERENCE_SERVICE,
   IOS_APP,
   kindNamed,
@@ -37,6 +39,7 @@ const NAMED: Readonly<Record<string, string>> = {
   [WEB_APP]: "a web app",
   [CONTAINER_RECIPE]: "a container recipe",
   [INFERENCE_SERVICE]: "an inference service",
+  [ESO_ADDON]: "an ESO addon",
 }
 
 export interface RefNamed {
@@ -156,6 +159,9 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
   }
   if (read.kind === INFERENCE_SERVICE) {
     return await putUpInferenceService(given.root, slug, rest.includes(DRY_RUN))
+  }
+  if (read.kind === ESO_ADDON) {
+    return await putUpAddon(given.root, slug, read.pagePath, rest.includes(DRY_RUN))
   }
   if (read.kind === CLUSTER_SERVICE) {
     const servable = servableNamed(given.root, slug)

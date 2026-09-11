@@ -14,6 +14,8 @@ export const CONTAINER_RECIPE = "container-recipe"
 
 export const INFERENCE_SERVICE = "inference-service"
 
+export const ESO_ADDON = "eso-addon"
+
 export type Kind =
   | typeof WEB_APP
   | typeof IOS_APP
@@ -21,6 +23,7 @@ export type Kind =
   | typeof WORKSTATION_SERVICE
   | typeof CONTAINER_RECIPE
   | typeof INFERENCE_SERVICE
+  | typeof ESO_ADDON
 
 export type Named = {
   readonly kind: Kind
@@ -54,17 +57,15 @@ export function kindNamed(root: string, slug: string, iosApps: IosApps = mobileA
     found.push({ kind: WEB_APP, pagePath: one })
   }
   if (iosNamed !== undefined) found.push({ kind: IOS_APP, pagePath: iosNamed.pagePath })
-  for (const one of pathsNamed(root, CLUSTER_SERVICE, slug)) {
-    found.push({ kind: CLUSTER_SERVICE, pagePath: one })
-  }
-  for (const one of pathsNamed(root, WORKSTATION_SERVICE, slug)) {
-    found.push({ kind: WORKSTATION_SERVICE, pagePath: one })
-  }
-  for (const one of pathsNamed(root, CONTAINER_RECIPE, slug)) {
-    found.push({ kind: CONTAINER_RECIPE, pagePath: one })
-  }
-  for (const one of pathsNamed(root, INFERENCE_SERVICE, slug)) {
-    found.push({ kind: INFERENCE_SERVICE, pagePath: one })
+  const rest = [
+    CLUSTER_SERVICE,
+    WORKSTATION_SERVICE,
+    CONTAINER_RECIPE,
+    INFERENCE_SERVICE,
+    ESO_ADDON,
+  ] as const
+  for (const kind of rest) {
+    for (const one of pathsNamed(root, kind, slug)) found.push({ kind, pagePath: one })
   }
 
   const web = found.some((one) => one.kind === WEB_APP)
@@ -77,8 +78,9 @@ export function kindNamed(root: string, slug: string, iosApps: IosApps = mobileA
     const runners = having("workstation service", slugsOfType(root, WORKSTATION_SERVICE))
     const recipes = having("container recipe", slugsOfType(root, CONTAINER_RECIPE))
     const models = having("inference service", slugsOfType(root, INFERENCE_SERVICE))
+    const addons = having("eso addon", slugsOfType(root, ESO_ADDON))
     return {
-      refused: `no page of any kind a deploy puts up is named \`${slug}\` — ${webs}, ${ioses}, ${servers}, ${runners}, ${recipes}, and ${models}`,
+      refused: `no page of any kind a deploy puts up is named \`${slug}\` — ${webs}, ${ioses}, ${servers}, ${runners}, ${recipes}, ${models}, and ${addons}`,
     }
   }
   if (left.length > 1) {
