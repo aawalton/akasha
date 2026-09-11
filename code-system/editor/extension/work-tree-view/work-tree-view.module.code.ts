@@ -1,10 +1,13 @@
 import { relative } from "node:path"
-import * as vscode from "vscode"
-import { filterTree, textMatches } from "../tree-filter/tree-filter.module.code.ts"
+import {
+  filterTree,
+  textMatches,
+} from "akasha/code-system/editor/extension/tree-filter/tree-filter.module.code.ts"
 import {
   TURN_SCHEME_PATH,
   turnColorIn,
-} from "../turn-color-scheme/turn-color-scheme.module.code.ts"
+} from "akasha/code-system/editor/extension/turn-color-scheme/turn-color-scheme.module.code.ts"
+import * as vscode from "vscode"
 
 const WORK_SCHEME = "ops-work"
 
