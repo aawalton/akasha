@@ -41,6 +41,14 @@ export const indexRelation = {
     },
     {
       invariantKind: "departure",
+      statement: "A name for a mortal page type refuses nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name held by a mortal page refuses nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "One write creates and removes only files that write alone owns.",
     },
     {
