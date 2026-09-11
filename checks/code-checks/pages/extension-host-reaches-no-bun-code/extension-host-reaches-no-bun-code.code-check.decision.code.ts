@@ -15,6 +15,7 @@ import {
   reachingOver,
 } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 import ts from "typescript"
 
 const PACKAGE = "workspace-package"
@@ -142,7 +143,7 @@ function reasonFor(why: string, at: string, from: ReadonlyMap<string, string>): 
     here = said
   }
   if (held.length === 0) return `${why}, and the host loads it as its own entry — ${HOST}`
-  const through = held.map((one) => `\`${one}\``).join(", reached from ")
+  const through = namesDrawn(held, ", reached from ")
   return `${why}, and the host reaches it from ${through} — ${HOST}`
 }
 
