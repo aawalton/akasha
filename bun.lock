@@ -141,18 +141,6 @@
         "@capacitor/cli": "^8.4.1",
       },
     },
-    "code-system/ios-apps/pages/smilingjenny": {
-      "name": "@smilingjenny/native-shell",
-      "version": "0.0.1",
-      "dependencies": {
-        "@capacitor/core": "^8.4.1",
-        "@capacitor/ios": "^8.4.1",
-        "@capacitor/push-notifications": "^8.1.1",
-      },
-      "devDependencies": {
-        "@capacitor/cli": "^8.4.1",
-      },
-    },
   },
   "trustedDependencies": [
     "esbuild",
@@ -627,8 +615,6 @@
     "@rollup/rollup-win32-x64-gnu": ["@rollup/rollup-win32-x64-gnu@4.63.1", "", { "os": "win32", "cpu": "x64" }, "sha512-RgroPfMmKlD1RzSDxvwgcPiy2HNQKoYV7OmwIXDsk73uKW5t6B/V8KIy27SMv/FNXFo/oSBtWc9J0X7t91ezZg=="],
 
     "@rollup/rollup-win32-x64-msvc": ["@rollup/rollup-win32-x64-msvc@4.63.1", "", { "os": "win32", "cpu": "x64" }, "sha512-at8QVep6S3h5Y6gSbdGU06bRY5WJkf6WUduM9YtvYMbYhB1MOFfUgc6kehitQXzOtMSaT70q7f9ydPhpqu821w=="],
-
-    "@smilingjenny/native-shell": ["@smilingjenny/native-shell@workspace:code-system/ios-apps/pages/smilingjenny"],
 
     "@standard-schema/spec": ["@standard-schema/spec@1.1.0", "", {}, "sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w=="],
 

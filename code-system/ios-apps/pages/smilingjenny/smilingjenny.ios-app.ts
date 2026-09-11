@@ -6,7 +6,6 @@ export const smilingjenny = {
   type: "ios-app",
   slug: "smilingjenny",
   definition: "the app on Jenny's phone and the shell it runs in",
-  manifest: "json",
   appProfileName: "smilingjenny app App Store",
   ascCapabilities: ["PUSH_NOTIFICATIONS"],
   bundleId: "me.smilingjenny.app",
