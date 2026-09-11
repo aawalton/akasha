@@ -19,7 +19,7 @@ export const removePropertyFromEveryPage = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type with no property under the key is refused.",
+      statement: "A key the page type no longer declares goes from every page holding it.",
     },
     {
       invariantKind: "departure",
@@ -60,7 +60,7 @@ export const removePropertyFromEveryPage = {
     },
     {
       invariantKind: "departure",
-      statement: "A key mistyped is caught here by the page type with no property under it.",
+      statement: "A key mistyped is caught here by no page of that page type holding the key.",
     },
     {
       invariantKind: "departure",

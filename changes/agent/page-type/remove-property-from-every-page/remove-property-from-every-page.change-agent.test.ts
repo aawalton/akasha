@@ -10,7 +10,7 @@ import {
   type Reaching,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { worldOfType } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 
 const REACHES: Reaching = (world, at, given) => {
@@ -75,12 +75,7 @@ const HOLDS = { slug: "held", sectionOfSlug: "solar-power", partOfSlugs: ["alpha
 
 function worldFor(bodies: Files, carried: readonly Carried[] | null, listed: string[]): World {
   const values = new Map(listed.map((path) => [path, HOLDS]))
-  const index = {
-    kindsUnder: () => new Set(["book-section"]),
-    valuesByPath: () => values,
-    propertiesIfNamed: () => carried,
-  }
-  return { ...worldOf(bodies), index: index as never, reaching: REACHES }
+  return worldOfType("book-section", bodies, carried, values, REACHES)
 }
 
 const EVERY = [ONE_AT, TWO_AT]
@@ -126,14 +121,14 @@ test("a page already stating no such key answers no edit while the rest lose it"
   expect(pathsIn(said)).toEqual([ONE_AT])
 })
 
-test("a page type carrying no property under the key is refused", async () => {
+test("a key the page type no longer declares goes from every page holding it", async () => {
   const said = await removePropertyFromEveryPage(worldFor(BODIES, [], EVERY), {
     pageType: "book-section",
     key: "sectionOfSlug",
   })
 
-  expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toMatch(/carries no property under `sectionOfSlug`/)
+  expect(said.refused).toBeNull()
+  expect(pathsIn(said)).toEqual([ONE_AT, TWO_AT])
 })
 
 test("a page type the index does not name is refused", async () => {
