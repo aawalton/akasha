@@ -19,6 +19,7 @@ import {
   type SecretsRead,
   stateFrom,
 } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
+import { TYPE_PAGE } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   listedFiled,
@@ -33,8 +34,6 @@ const scratch = scratchWorld()
 afterAll(scratch.sweep)
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
-
-const TYPE_PAGE = "akasha/agents/claude-accounts/claude-account.page-type.ts"
 
 const PAGES_AT = "akasha/agents/claude-accounts/pages"
 
