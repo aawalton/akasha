@@ -1,4 +1,4 @@
-import { addressIn } from "../address/page-address.module.code.ts"
+import { addressIn } from "akasha/pages/address/page-address.module.code.ts"
 
 export type Value = Record<string, unknown>
 
