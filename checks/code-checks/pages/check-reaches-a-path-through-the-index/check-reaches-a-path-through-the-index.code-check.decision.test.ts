@@ -11,19 +11,23 @@ import {
   ASKED,
   AT,
   BUILT,
+  CONTAINERFILE,
   DOTTED,
   HELD,
   MADE,
   NAMED,
   naming,
   nearer,
+  ONE,
   only,
   RESOLVED,
   ran,
   reaching,
   STRAY,
   SWEEPS,
+  TWO,
   TYPES,
+  YELLOW,
 } from "akasha/checks/code-checks/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.code-check.decision.test-fixtures.ts"
 
 test("a literal a listing is handed straight off is refused", () => {
@@ -97,7 +101,7 @@ test("a specifier opening with a dot is a specifier rather than a reach", () => 
 
 test("a reach climbing above the tree lands nowhere, so a plainer reading answers", () => {
   const said = only(`const at = "../${DOTTED}"\n`)
-  expect(said[0]).toContain("spells `design/colors/pages/yellow.color.ts`")
+  expect(said[0]).toContain(`spells \`${YELLOW}\``)
 })
 
 test("a reach is answered by where it lands rather than by a path ending with it", () => {
@@ -113,7 +117,7 @@ test("a reading opening with a separator names no path, so the next reading answ
 const PACKAGED = "akasha/utils/hum/humming/humming.module.code.ts"
 
 test("a path spelled inside a longer literal is read", () => {
-  expect(only('const s = "see design/colors/pages/yellow.color.ts here"\n')).toHaveLength(1)
+  expect(only(`const s = "see ${YELLOW} here"\n`)).toHaveLength(1)
 })
 
 test("a literal is read again from each separator in that literal", () => {
@@ -180,7 +184,7 @@ test("a long literal is shortened where the refusal names that literal", () => {
 })
 
 test("a literal naming a path the index has a page at is refused", () => {
-  expect(only('const at = "design/colors/pages/yellow.color.ts"\n')).toHaveLength(1)
+  expect(only(`const at = "${YELLOW}"\n`)).toHaveLength(1)
 })
 
 test("a literal naming a page is refused wherever that literal sits", () => {
@@ -192,7 +196,7 @@ test("a literal naming a folder above a page is let through", () => {
 })
 
 test("a literal a listing reaches that names a page is refused once", () => {
-  const named = 'const AT = "design/colors/pages/yellow.color.ts"\n'
+  const named = `const AT = "${YELLOW}"\n`
   expect(only(`${named}readdirSync(AT)\n`)).toHaveLength(1)
 })
 
@@ -310,13 +314,13 @@ test("a file held uncommitted is judged by nothing", () => {
 
 test("a run of a body whose language is not parsed that names a page is refused", () => {
   const at = "akasha/one.thing.config.json"
-  const said = reasonsIn(reaching, naming, at, '{ "at": "design/colors/pages/yellow.color.ts" }\n')
+  const said = reasonsIn(reaching, naming, at, `{ "at": "${YELLOW}" }\n`)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 1")
 })
 
 test("a run is read again from each separator, and a path after a variable is read", () => {
-  expect(ran("cp $ROOT/design/colors/pages/yellow.color.ts .\n")).toHaveLength(1)
+  expect(ran(`cp $ROOT/${YELLOW} .\n`)).toHaveLength(1)
 })
 
 test("a run naming a folder above a page is let through", () => {
@@ -324,7 +328,7 @@ test("a run naming a folder above a page is let through", () => {
 })
 
 test("one run is refused once however many readings of that run name the page", () => {
-  expect(ran("cat design/colors/pages/yellow.color.ts\n")).toHaveLength(1)
+  expect(ran(`cat ${YELLOW}\n`)).toHaveLength(1)
 })
 
 test("a body outside TypeScript holds no listing", () => {
@@ -336,33 +340,33 @@ test("a run the index knows a path ending with is refused", () => {
 })
 
 test("the line a run sits on is the line the refusal names", () => {
-  expect(ran("one\ntwo\ncat design/colors/pages/yellow.color.ts\n")[0]).toContain("line 3")
+  expect(ran(`one\ntwo\ncat ${YELLOW}\n`)[0]).toContain("line 3")
 })
 
 test("the page named is the one sharing the most folders with the file that spells it", () => {
   const at = "a/two/up/two-up.shell-script.shell.sh"
   const said = reasonsIn(nearer, naming, at, BUILT)
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("a/two/image/Containerfile")
+  expect(said[0]).toContain(TWO)
 })
 
 test("the same path spelled from another folder names the page beside that folder", () => {
   const at = "a/one/up/one-up.shell-script.shell.sh"
   const said = reasonsIn(nearer, naming, at, BUILT)
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("a/one/image/Containerfile")
+  expect(said[0]).toContain(ONE)
 })
 
 test("a path more than one page ends with is refused wherever that path is spelled", () => {
   const at = "b/far/far.shell-script.shell.sh"
-  const said = reasonsIn(nearer, naming, at, "cat image/Containerfile\n")
+  const said = reasonsIn(nearer, naming, at, `cat ${CONTAINERFILE}\n`)
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("a/one/image/Containerfile")
+  expect(said[0]).toContain(ONE)
 })
 
 test("a literal is named by the page nearest the file that spells that literal", () => {
   const at = "a/two/code/two.code-check.code.ts"
-  const said = reasonsIn(nearer, naming, at, 'const AT = "image/Containerfile"\n')
+  const said = reasonsIn(nearer, naming, at, `const AT = "${CONTAINERFILE}"\n`)
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("a/two/image/Containerfile")
+  expect(said[0]).toContain(TWO)
 })

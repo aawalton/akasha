@@ -5,8 +5,10 @@ import {
   reasonsIn,
 } from "akasha/checks/code-checks/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.code-check.decision.code.ts"
 
+export const YELLOW = "design/colors/pages/yellow.color.ts"
+
 export const HELD = [
-  "design/colors/pages/yellow.color.ts",
+  YELLOW,
   "utils/hum/humming/humming.module.code.ts",
   "pages/hum-formats/modules/hum-matching/hum-matching.module.code.ts",
 ]
@@ -48,7 +50,13 @@ export function ran(text: string): readonly string[] {
   return reasonsIn(reaching, naming, SHELL, text)
 }
 
-export const TWICE = ["a/one/image/Containerfile", "a/two/image/Containerfile"]
+export const CONTAINERFILE = "image/Containerfile"
+
+export const ONE = `a/one/${CONTAINERFILE}`
+
+export const TWO = `a/two/${CONTAINERFILE}`
+
+export const TWICE = [ONE, TWO]
 
 export const nearer = askingOver(TWICE)
 
