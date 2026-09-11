@@ -1,4 +1,4 @@
-import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
+import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-type.types.ts"
 
 export const atlasIosAdd = {
   id: "01a090fe-4e12-7c8b-9e00-cbfb92e5c553",

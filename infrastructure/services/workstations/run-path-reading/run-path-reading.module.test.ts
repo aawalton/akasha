@@ -17,7 +17,7 @@ const READOUT_AT = "readouts/pages/a-readout/a-readout.readout.ts"
 
 const RELAY = `-bun ${RELAY_AT} ${READOUT_AT} https://alanwalton.com`
 
-const PURGE = "code-system/shell-scripts/pages/a-purge/a-purge.shell-script.shell.sh"
+const PURGE = "code/shell-scripts/pages/a-purge/a-purge.shell-script.shell.sh"
 
 const PURGE_RUN = `bash ${PURGE}`
 

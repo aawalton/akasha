@@ -1,3 +1,4 @@
+import type { WorkspacePackage } from "akasha/code/workspace-packages/workspace-package.page-type.types.ts"
 import type { AddonBundleImage } from "akasha/code-system/router-apps/properties/addon-bundle-image.code-file-property.types.ts"
 import type { BundleDirectory } from "akasha/code-system/router-apps/properties/bundle-directory.build-folder-property.types.ts"
 import type { CompileConfig } from "akasha/code-system/router-apps/properties/compile-config.file-property.types.ts"
@@ -14,7 +15,6 @@ import type { SidebarBoot } from "akasha/code-system/router-apps/properties/side
 import type { SiteIcon } from "akasha/code-system/router-apps/properties/site-icon.file-property.types.ts"
 import type { TestPreload } from "akasha/code-system/router-apps/properties/test-preload.file-property.types.ts"
 import type { ViteConfig } from "akasha/code-system/router-apps/properties/vite-config.code-file-property.types.ts"
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
 
 export type RouterApp = WorkspacePackage & {
   rootRoute: RootRoute

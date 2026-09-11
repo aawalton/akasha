@@ -1,4 +1,4 @@
-import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
+import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-type.types.ts"
 
 export const statusline = {
   id: "01a05849-ff1d-7137-9c84-ed12b05bd07c",

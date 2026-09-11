@@ -1,4 +1,4 @@
-import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
+import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-type.types.ts"
 
 export const alanwaltonHealthForegroundSync = {
   id: "01a0918a-3664-7abd-bf6c-187ed7e96493",

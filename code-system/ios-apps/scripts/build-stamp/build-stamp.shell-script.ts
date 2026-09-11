@@ -1,4 +1,4 @@
-import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
+import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-type.types.ts"
 
 export const buildStamp = {
   id: "01a05934-fe0c-75ac-a104-88e6686eb2af",

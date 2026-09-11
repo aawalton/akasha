@@ -1,4 +1,4 @@
-import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
+import type { ShellScript } from "akasha/code/shell-scripts/shell-script.page-type.types.ts"
 
 export const stageWebEntry = {
   id: "01a05934-fe0d-7f00-9227-54350a6d6c49",

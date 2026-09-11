@@ -1,3 +1,4 @@
+import type { WorkspacePackage } from "akasha/code/workspace-packages/workspace-package.page-type.types.ts"
 import type { AppIcon } from "akasha/code-system/ios-apps/properties/app-icon.file-property.types.ts"
 import type { AppProfileName } from "akasha/code-system/ios-apps/properties/app-profile-name.text-property.types.ts"
 import type { AscCapabilities } from "akasha/code-system/ios-apps/properties/asc-capabilities.text-property.types.ts"
@@ -23,7 +24,6 @@ import type { WebEntry } from "akasha/code-system/ios-apps/properties/web-entry.
 import type { WebEnvPath } from "akasha/code-system/ios-apps/properties/web-env-path.text-property.types.ts"
 import type { WidgetBundleId } from "akasha/code-system/ios-apps/properties/widget-bundle-id.text-property.types.ts"
 import type { WidgetProfileName } from "akasha/code-system/ios-apps/properties/widget-profile-name.text-property.types.ts"
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
 import type { Service } from "akasha/infrastructure/services/service.page-type.types.ts"
 
 export type IosApp = WorkspacePackage &

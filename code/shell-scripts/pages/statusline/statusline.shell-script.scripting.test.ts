@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { bodyIn } from "akasha/code-system/shell-scripts/pages/statusline/statusline.shell-script.scripting.code.ts"
+import { bodyIn } from "akasha/code/shell-scripts/pages/statusline/statusline.shell-script.scripting.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()

@@ -34,7 +34,7 @@ const EXTENSION = "ops-extension"
 
 const PACKAGE_ID = "01a08b0d-0001-7000-8000-000000000001"
 
-const PACKAGE_TYPE_AT = "code-system/workspace-packages/workspace-package.page-type.ts"
+const PACKAGE_TYPE_AT = "code/workspace-packages/workspace-package.page-type.ts"
 
 const PACKAGE_TYPE_ID = "01a08b0d-0002-7000-8000-000000000002"
 
@@ -42,7 +42,7 @@ const DOMAIN_TYPE_AT = "domains/domain.page-type.ts"
 
 const DOMAIN_TYPE_ID = "01a08b0d-0003-7000-8000-000000000003"
 
-const PROPERTY_AT = "code-system/workspace-packages/properties/linked-at.text-property.ts"
+const PROPERTY_AT = "code/workspace-packages/properties/linked-at.text-property.ts"
 
 const PROPERTY_ID = "01a08b0d-0004-7000-8000-000000000004"
 

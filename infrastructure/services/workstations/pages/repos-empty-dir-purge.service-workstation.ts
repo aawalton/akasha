@@ -7,7 +7,7 @@ export const reposEmptyDirPurge = {
   slug: "repos-empty-dir-purge",
   definition: "the service removing every directory with nothing under Alan's repositories",
   runs: [
-    "bash code-system/shell-scripts/pages/repos-empty-dir-purge/repos-empty-dir-purge.shell-script.shell.sh",
+    "bash code/shell-scripts/pages/repos-empty-dir-purge/repos-empty-dir-purge.shell-script.shell.sh",
   ],
   starts: [{ code: "shell-script/repos-empty-dir-purge" }],
   enabled: false,
