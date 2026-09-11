@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const doubleSpeedByWindAndOar = {
   id: "01a06575-9805-78a0-9a2c-11e9c105c25e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "double-speed-by-wind-and-oar",
   title: "Double Speed, By Wind and Oar",

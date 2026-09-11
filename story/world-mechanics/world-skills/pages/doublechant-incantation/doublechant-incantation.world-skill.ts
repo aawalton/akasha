@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const doublechantIncantation = {
   id: "01a06575-9805-7260-80d0-38c1cd6e89df",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "doublechant-incantation",
   title: "Doublechant Incantation",

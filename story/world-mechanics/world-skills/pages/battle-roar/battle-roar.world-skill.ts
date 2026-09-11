@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const battleRoar = {
   id: "01a06575-97f4-772d-92fd-c5ef66a8fc77",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "battle-roar",
   title: "Battle Roar",

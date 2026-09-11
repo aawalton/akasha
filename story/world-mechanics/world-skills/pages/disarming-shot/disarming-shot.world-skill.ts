@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const disarmingShot = {
   id: "01a06575-9804-7ab9-a313-05187acff8c5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "disarming-shot",
   title: "Disarming Shot",

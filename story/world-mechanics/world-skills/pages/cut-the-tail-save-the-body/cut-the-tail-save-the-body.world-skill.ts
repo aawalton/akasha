@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const cutTheTailSaveTheBody = {
   id: "01a06575-9800-7a23-ba90-0c8ac496fe1a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "cut-the-tail-save-the-body",
   title: "Cut the Tail, Save the Body",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const casualCommunication = {
   id: "01a06575-97fa-72bf-85c2-c7504e431c6a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "casual-communication",
   title: "Casual Communication",

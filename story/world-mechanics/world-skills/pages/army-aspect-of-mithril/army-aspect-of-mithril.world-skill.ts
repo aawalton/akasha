@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const armyAspectOfMithril = {
   id: "01a06575-97ec-77f0-b6cb-2f99cb0369e9",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "army-aspect-of-mithril",
   title: "Army: Aspect of Mithril",

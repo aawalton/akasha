@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const convertDeathMana = {
   id: "01a06575-97fd-7a61-b872-b3aeb4ad3ef1",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "convert-death-mana",
   title: "Convert Death Mana",

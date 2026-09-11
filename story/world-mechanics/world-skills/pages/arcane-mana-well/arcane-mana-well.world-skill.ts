@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const arcaneManaWell = {
   id: "01a06575-97ec-7356-a716-8fbaa2677dfc",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "arcane-mana-well",
   title: "Arcane Mana Well",

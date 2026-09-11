@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const adaptivePlumbing = {
   id: "01a06575-97e9-7807-9fac-a5d674442102",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "adaptive-plumbing",
   title: "Adaptive Plumbing",

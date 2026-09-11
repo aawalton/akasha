@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const chaosFuelsMyHeart = {
   id: "01a06575-97fa-7ccc-bc5b-094a2a2d5efe",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "chaos-fuels-my-heart",
   title: "Chaos Fuels My Heart",

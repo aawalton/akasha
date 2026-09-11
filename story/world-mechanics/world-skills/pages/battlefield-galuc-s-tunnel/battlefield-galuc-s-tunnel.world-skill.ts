@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const battlefieldGalucSTunnel = {
   id: "01a06575-97f4-7318-9a41-afde9004417c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "battlefield-galuc-s-tunnel",
   title: "Battlefield: Galuc’s Tunnel",

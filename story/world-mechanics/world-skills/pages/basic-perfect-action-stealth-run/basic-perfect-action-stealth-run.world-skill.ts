@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const basicPerfectActionStealthRun = {
   id: "01a06575-97f4-789f-8d0d-98d900163046",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "basic-perfect-action-stealth-run",
   title: "Basic Perfect Action: Stealth Run",

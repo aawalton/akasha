@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const crossbowIrregularAmmunitionStones = {
   id: "01a06575-97ff-777f-8076-c83b96842249",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "crossbow-irregular-ammunition-stones",
   title: "Crossbow: Irregular Ammunition (Stones)",

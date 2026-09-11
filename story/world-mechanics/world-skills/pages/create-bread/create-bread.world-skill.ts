@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const createBread = {
   id: "01a06575-97fe-7c21-ae5e-57f9fd9ce118",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "create-bread",
   title: "Create Bread",

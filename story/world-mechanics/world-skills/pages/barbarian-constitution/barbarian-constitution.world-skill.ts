@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const barbarianConstitution = {
   id: "01a06575-97f3-7094-92cc-eef0fdb12f4c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "barbarian-constitution",
   title: "Barbarian Constitution",

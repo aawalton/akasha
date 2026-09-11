@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const coldIronMists = {
   id: "01a06575-97fb-791c-84d3-56be08c3e054",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "cold-iron-mists",
   title: "Cold Iron Mists",

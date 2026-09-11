@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const divineProtection = {
   id: "01a06575-9804-7704-acb2-d7630032a04a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "divine-protection",
   title: "Divine Protection",

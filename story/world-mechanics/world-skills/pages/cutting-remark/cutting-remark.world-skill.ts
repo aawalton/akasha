@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const cuttingRemark = {
   id: "01a06575-9800-7b2b-bf33-9c9a064e508a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "cutting-remark",
   title: "Cutting Remark",

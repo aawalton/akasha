@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const delightCooking = {
   id: "01a06575-9802-7709-b86a-9864c4acb14e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "delight-cooking",
   title: "Delight Cooking",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const boardToughAsSteel = {
   id: "01a06575-97f6-791b-83b6-51cef8e3936f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "board-tough-as-steel",
   title: "Board: Tough as Steel",

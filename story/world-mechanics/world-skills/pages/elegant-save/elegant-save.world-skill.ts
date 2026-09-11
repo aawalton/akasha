@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const elegantSave = {
   id: "01a06575-9807-7f0f-bcbc-29c9478098cd",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "elegant-save",
   title: "Elegant Save",

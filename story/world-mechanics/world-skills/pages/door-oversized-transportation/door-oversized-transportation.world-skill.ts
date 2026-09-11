@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const doorOversizedTransportation = {
   id: "01a06575-9805-7f55-84a8-2d8700dce8ea",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "door-oversized-transportation",
   title: "Door: Oversized Transportation",

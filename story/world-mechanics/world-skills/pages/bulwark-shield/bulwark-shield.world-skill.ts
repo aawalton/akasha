@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const bulwarkShield = {
   id: "01a06575-97f9-753e-b1f0-57ff14078e67",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "bulwark-shield",
   title: "Bulwark Shield",

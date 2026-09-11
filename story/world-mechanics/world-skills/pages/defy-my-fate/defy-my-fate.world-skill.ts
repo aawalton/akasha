@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const defyMyFate = {
   id: "01a06575-9802-788c-881d-5623277354ea",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "defy-my-fate",
   title: "Defy My Fate",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const antiCrampingMuscles = {
   id: "01a06575-97eb-726c-b60d-e798649886af",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "anti-cramping-muscles",
   title: "Anti-Cramping Muscles",

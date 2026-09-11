@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const clearStatement = {
   id: "01a06575-97fb-78f1-a953-204568805c25",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "clear-statement",
   title: "Clear Statement",

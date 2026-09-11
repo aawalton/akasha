@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const boonOfTheGuestPebblesnatch = {
   id: "01a06575-97f7-7cab-9eec-ef03e1655871",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "boon-of-the-guest-pebblesnatch",
   title: "Boon of the Guest: Pebblesnatch",

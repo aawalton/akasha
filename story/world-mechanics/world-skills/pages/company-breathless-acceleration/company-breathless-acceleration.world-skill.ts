@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const companyBreathlessAcceleration = {
   id: "01a06575-97fc-7a09-b3f4-afbcc43362e0",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "company-breathless-acceleration",
   title: "Company: Breathless Acceleration",

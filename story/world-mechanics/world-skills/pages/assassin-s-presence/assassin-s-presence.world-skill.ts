@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const assassinSPresence = {
   id: "01a06575-97ee-7168-95ee-12cfa649cb4a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "assassin-s-presence",
   title: "Assassin’s Presence",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const deeperCut = {
   id: "01a06575-9802-714f-9276-6494c63f3a57",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "deeper-cut",
   title: "Deeper Cut",

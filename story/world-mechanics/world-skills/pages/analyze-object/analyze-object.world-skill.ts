@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const analyzeObject = {
   id: "01a06575-97eb-7c77-a3ae-967dcab3cd53",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "analyze-object",
   title: "Analyze Object",

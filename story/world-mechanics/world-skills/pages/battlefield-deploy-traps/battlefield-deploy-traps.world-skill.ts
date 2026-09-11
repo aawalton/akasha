@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const battlefieldDeployTraps = {
   id: "01a06575-97f4-70ba-add2-b1d4fa2f7c36",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "battlefield-deploy-traps",
   title: "Battlefield: Deploy Traps",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const aspectOfSilver = {
   id: "01a06575-97ee-7a79-a332-f164af3687ba",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "aspect-of-silver",
   title: "Aspect of Silver",

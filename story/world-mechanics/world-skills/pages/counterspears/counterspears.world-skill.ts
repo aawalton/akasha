@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const counterspears = {
   id: "01a06575-97fe-75cd-922e-550985820bb1",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "counterspears",
   title: "Counterspears",

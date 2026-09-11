@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const chargeOfTheLion = {
   id: "01a06575-97fa-74d6-ae86-3de9a7c00300",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "charge-of-the-lion",
   title: "Charge of the Lion",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const aeriformPunch = {
   id: "01a06575-97ea-7bcf-a5f0-4d126ea9eea9",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "aeriform-punch",
   title: "Aeriform Punch",

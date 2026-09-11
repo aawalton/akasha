@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const earmarkedFunds = {
   id: "01a06575-9806-7ab8-b656-51fdd591cb86",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "earmarked-funds",
   title: "Earmarked Funds",

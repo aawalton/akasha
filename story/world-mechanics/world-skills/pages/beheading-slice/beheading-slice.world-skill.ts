@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const beheadingSlice = {
   id: "01a06575-97f4-7920-ac33-da47108f40fc",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "beheading-slice",
   title: "Beheading Slice",

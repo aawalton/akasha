@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const emberashSpray = {
   id: "01a06575-9807-73a0-85d2-3d0901371ecf",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "emberash-spray",
   title: "Emberash Spray",

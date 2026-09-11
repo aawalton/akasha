@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const balancedPosture = {
   id: "01a06575-97f2-766c-b2da-4989dd0150fd",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "balanced-posture",
   title: "Balanced Posture",

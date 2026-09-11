@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const correctedSpelling = {
   id: "01a06575-97fe-7f54-a2d3-644b9cdacfe3",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "corrected-spelling",
   title: "Corrected Spelling",

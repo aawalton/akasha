@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const doublePotency = {
   id: "01a06575-9805-74cf-9da3-78dbd7feb176",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "double-potency",
   title: "Double Potency",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const duststormKick = {
   id: "01a06575-9806-734b-b010-d4f74141a063",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "duststorm-kick",
   title: "Duststorm Kick",

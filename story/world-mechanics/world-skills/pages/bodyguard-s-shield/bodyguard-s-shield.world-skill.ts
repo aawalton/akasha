@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const bodyguardSShield = {
   id: "01a06575-97f7-7880-8368-b1bc4d1d911d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "bodyguard-s-shield",
   title: "Bodyguard’s Shield",

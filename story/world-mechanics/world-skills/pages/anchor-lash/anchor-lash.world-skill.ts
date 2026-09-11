@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const anchorLash = {
   id: "01a06575-97eb-71f7-8d56-bf12e93f2133",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "anchor-lash",
   title: "Anchor Lash",

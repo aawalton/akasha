@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const doubledRange = {
   id: "01a06575-9805-7a7e-946f-7d05ab68e0f7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "doubled-range",
   title: "Doubled Range",

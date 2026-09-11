@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const crewBloodthirstyFrenzy = {
   id: "01a06575-97ff-79eb-b1ea-4fdc5b281f39",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "crew-bloodthirsty-frenzy",
   title: "Crew: Bloodthirsty Frenzy",

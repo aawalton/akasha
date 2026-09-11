@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const divineCross = {
   id: "01a06575-9804-736e-8d8b-cfa8be453ecd",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "divine-cross",
   title: "Divine Cross",

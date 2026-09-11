@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const decoyMyWard = {
   id: "01a06575-9802-7c8c-9cce-8af1f3d8d190",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "decoy-my-ward",
   title: "Decoy: My Ward",

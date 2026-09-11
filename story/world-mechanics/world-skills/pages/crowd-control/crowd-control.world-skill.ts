@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const crowdControl = {
   id: "01a06575-97ff-7a0f-845f-3883ae2d6be5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "crowd-control",
   title: "Crowd Control",

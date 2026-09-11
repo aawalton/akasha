@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const arbiterSJudgmentEveryNationSJudge = {
   id: "01a06575-97ec-70f5-9c48-8c78dbd4e019",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "arbiter-s-judgment-every-nation-s-judge",
   title: "Arbiter’s Judgment: Every Nation’s Judge",

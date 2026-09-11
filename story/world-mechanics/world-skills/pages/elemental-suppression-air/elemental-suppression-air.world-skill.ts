@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const elementalSuppressionAir = {
   id: "01a06575-9807-78e3-b1b6-54fd4d99757b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "elemental-suppression-air",
   title: "Elemental Suppression: Air",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const basicNegotiator = {
   id: "01a06575-97f4-7152-8446-0fd354b97e7a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "basic-negotiator",
   title: "Basic Negotiator",

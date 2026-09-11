@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const copyMagicalSeal = {
   id: "01a06575-97fd-7e61-9556-22ca79dc2c79",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "copy-magical-seal",
   title: "Copy Magical Seal",

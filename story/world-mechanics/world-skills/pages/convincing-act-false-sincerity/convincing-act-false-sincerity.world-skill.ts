@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const convincingActFalseSincerity = {
   id: "01a06575-97fd-7e99-a4c1-fd0eac72d65c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "convincing-act-false-sincerity",
   title: "Convincing Act: False Sincerity",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const anvilKick = {
   id: "01a06575-97eb-7d13-8d56-f5b536a022b4",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "anvil-kick",
   title: "Anvil Kick",

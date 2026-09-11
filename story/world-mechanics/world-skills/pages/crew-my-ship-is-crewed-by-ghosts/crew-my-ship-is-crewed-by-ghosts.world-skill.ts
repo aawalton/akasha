@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const crewMyShipIsCrewedByGhosts = {
   id: "01a06575-97ff-73c7-bd5f-be5bedf0ad40",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "crew-my-ship-is-crewed-by-ghosts",
   title: "Crew: My Ship is Crewed by Ghosts",

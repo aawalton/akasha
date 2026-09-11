@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const avertDisaster = {
   id: "01a06575-97f2-7c0a-ab8b-fe2f802c3a9b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "avert-disaster",
   title: "Avert Disaster",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const ectoplasmHandler = {
   id: "01a06575-9806-77cb-a785-36f78f6bd6a2",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "ectoplasm-handler",
   title: "Ectoplasm Handler",

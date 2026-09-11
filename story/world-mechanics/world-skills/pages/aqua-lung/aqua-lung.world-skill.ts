@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const aquaLung = {
   id: "01a06575-97ec-7a48-ac86-b7a5e962b4a6",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "aqua-lung",
   title: "Aqua Lung",

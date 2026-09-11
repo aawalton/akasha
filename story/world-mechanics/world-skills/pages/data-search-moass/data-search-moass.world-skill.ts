@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const dataSearchMoass = {
   id: "01a06575-9801-7d27-b2f0-f2834c40c8c4",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "data-search-moass",
   title: "Data Search: Moass",

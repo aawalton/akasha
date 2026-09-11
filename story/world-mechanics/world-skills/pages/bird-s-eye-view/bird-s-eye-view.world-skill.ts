@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const birdSEyeView = {
   id: "01a06575-97f5-72fe-a245-573dea993303",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "bird-s-eye-view",
   title: "Bird’s Eye View",

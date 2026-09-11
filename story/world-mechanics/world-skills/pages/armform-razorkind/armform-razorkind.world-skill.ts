@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const armformRazorkind = {
   id: "01a06575-97ec-7d9e-a710-5a0fb310c0ca",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "armform-razorkind",
   title: "Armform: Razorkind",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const conjureFastFireball = {
   id: "01a06575-97fc-7913-96ec-dbfc7a8584b6",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "conjure-fast-fireball",
   title: "Conjure Fast Fireball",

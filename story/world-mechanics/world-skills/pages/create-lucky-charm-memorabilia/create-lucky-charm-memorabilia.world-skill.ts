@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const createLuckyCharmMemorabilia = {
   id: "01a06575-97ff-7546-98ee-25454ce0d9a3",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "create-lucky-charm-memorabilia",
   title: "Create Lucky Charm (Memorabilia)",

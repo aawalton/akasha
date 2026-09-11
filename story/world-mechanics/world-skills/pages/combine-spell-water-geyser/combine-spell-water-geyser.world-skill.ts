@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const combineSpellWaterGeyser = {
   id: "01a06575-97fc-7ecc-9ed0-340dde810114",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "combine-spell-water-geyser",
   title: "Combine Spell: Water Geyser",

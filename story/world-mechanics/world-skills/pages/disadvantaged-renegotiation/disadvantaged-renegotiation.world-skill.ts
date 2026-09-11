@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const disadvantagedRenegotiation = {
   id: "01a06575-9804-7899-a2fe-0defe889e483",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "disadvantaged-renegotiation",
   title: "Disadvantaged Renegotiation",

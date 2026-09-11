@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const bodyOceanOfManaNature = {
   id: "01a06575-97f7-77b6-a18e-24cf2c23f712",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "body-ocean-of-mana-nature",
   title: "Body: Ocean of Mana (Nature)",

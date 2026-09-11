@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const aRefreshingRepast = {
   id: "01a06575-97e7-76c2-80f2-cf64efee0c12",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "a-refreshing-repast",
   title: "A Refreshing Repast",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const defySolecismDaily = {
   id: "01a06575-9802-761b-8c74-3b498a35a3b5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "defy-solecism-daily",
   title: "Defy Solecism (Daily)",

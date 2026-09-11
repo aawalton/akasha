@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const burstGallop = {
   id: "01a06575-97f9-7995-9476-bb0fdbeb2f95",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "burst-gallop",
   title: "Burst Gallop",

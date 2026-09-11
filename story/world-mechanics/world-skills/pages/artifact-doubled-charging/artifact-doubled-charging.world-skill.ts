@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const artifactDoubledCharging = {
   id: "01a06575-97ed-74ba-a41e-eaad8620d935",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "artifact-doubled-charging",
   title: "Artifact: Doubled Charging",

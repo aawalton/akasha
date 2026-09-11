@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const chantOfLogic = {
   id: "01a06575-97fa-74e7-913e-f66f1440d2d8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "chant-of-logic",
   title: "Chant of Logic",

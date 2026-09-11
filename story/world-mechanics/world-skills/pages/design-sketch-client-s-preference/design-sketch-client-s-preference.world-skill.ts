@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const designSketchClientSPreference = {
   id: "01a06575-9803-768c-b830-302c747e660b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "design-sketch-client-s-preference",
   title: "Design Sketch: Client’s Preference",

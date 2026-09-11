@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const boundItemJournalOfTheConnectedResearcher = {
   id: "01a06575-97f8-72f4-b4d9-889cbff4a063",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "bound-item-journal-of-the-connected-researcher",
   title: "Bound Item: Journal of the Connected Researcher",

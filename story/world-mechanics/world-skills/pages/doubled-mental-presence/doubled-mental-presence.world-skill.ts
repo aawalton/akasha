@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const doubledMentalPresence = {
   id: "01a06575-9805-7980-8923-49b271c69750",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "doubled-mental-presence",
   title: "Doubled Mental Presence",

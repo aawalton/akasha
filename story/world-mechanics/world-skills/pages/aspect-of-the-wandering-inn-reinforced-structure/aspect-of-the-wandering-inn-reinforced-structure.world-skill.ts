@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const aspectOfTheWanderingInnReinforcedStructure = {
   id: "01a06575-97ee-70ec-9547-2dc6ba4f2d10",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "aspect-of-the-wandering-inn-reinforced-structure",
   title: "Aspect of the Wandering Inn: Reinforced Structure",

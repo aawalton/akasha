@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const boneRattlingHeadbutt = {
   id: "01a06575-97f7-7654-804a-491386a56a98",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "bone-rattling-headbutt",
   title: "Bone-rattling Headbutt",

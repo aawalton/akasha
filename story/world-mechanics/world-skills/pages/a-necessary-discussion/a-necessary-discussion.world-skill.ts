@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const aNecessaryDiscussion = {
   id: "01a06575-97e7-73e3-8a08-29404a844377",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "a-necessary-discussion",
   title: "A Necessary Discussion",

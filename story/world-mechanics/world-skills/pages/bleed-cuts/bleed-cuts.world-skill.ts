@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const bleedCuts = {
   id: "01a06575-97f6-74e1-8602-f366db93f2c8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "bleed-cuts",
   title: "Bleed Cuts",

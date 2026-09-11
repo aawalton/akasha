@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const aSoundReasoning = {
   id: "01a06575-97e7-73c2-8637-e39e501a3d75",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "a-sound-reasoning",
   title: "A Sound Reasoning",

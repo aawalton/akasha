@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const distantVision = {
   id: "01a06575-9804-7665-a3e2-9f103d3791b3",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "distant-vision",
   title: "Distant Vision",

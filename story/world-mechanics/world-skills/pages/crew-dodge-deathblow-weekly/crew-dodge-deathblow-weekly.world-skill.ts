@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const crewDodgeDeathblowWeekly = {
   id: "01a06575-97ff-7da7-beef-f0f2bedaadd5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "crew-dodge-deathblow-weekly",
   title: "Crew: Dodge Deathblow (Weekly)",

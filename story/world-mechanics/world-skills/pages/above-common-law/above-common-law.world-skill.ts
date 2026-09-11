@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const aboveCommonLaw = {
   id: "01a06575-97e7-737c-8799-f7aeaf930fbb",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "above-common-law",
   title: "Above Common Law",

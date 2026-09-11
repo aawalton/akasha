@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const doubleSlash = {
   id: "01a06575-9805-7e33-9d37-c04e3429cad4",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "double-slash",
   title: "Double Slash—",

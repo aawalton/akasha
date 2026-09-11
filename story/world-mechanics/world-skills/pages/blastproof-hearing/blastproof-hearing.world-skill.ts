@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const blastproofHearing = {
   id: "01a06575-97f6-7d66-93bf-748f48f8e9f1",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "blastproof-hearing",
   title: "Blastproof Hearing",

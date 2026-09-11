@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const challengeOfTheKnight = {
   id: "01a06575-97fa-747d-b5c7-c0ea30b8a428",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "challenge-of-the-knight",
   title: "Challenge of the Knight",

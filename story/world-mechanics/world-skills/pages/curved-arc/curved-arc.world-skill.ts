@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const curvedArc = {
   id: "01a06575-97ff-730d-a547-54e667becdec",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "curved-arc",
   title: "Curved Arc",

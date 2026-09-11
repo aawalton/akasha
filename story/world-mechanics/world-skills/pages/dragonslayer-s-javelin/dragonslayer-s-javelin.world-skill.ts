@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const dragonslayerSJavelin = {
   id: "01a06575-9805-7c77-af18-4bc81a643ef5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "dragonslayer-s-javelin",
   title: "Dragonslayer’s Javelin",

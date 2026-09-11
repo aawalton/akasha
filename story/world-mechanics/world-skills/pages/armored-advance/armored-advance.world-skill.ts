@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const armoredAdvance = {
   id: "01a06575-97ec-7f5d-91d3-889047832564",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "armored-advance",
   title: "Armored Advance",

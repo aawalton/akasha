@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const boundShipTheWanderingShip = {
   id: "01a06575-97f8-7f8c-86de-57720a035f11",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "bound-ship-the-wandering-ship",
   title: "Bound Ship: The Wandering Ship",

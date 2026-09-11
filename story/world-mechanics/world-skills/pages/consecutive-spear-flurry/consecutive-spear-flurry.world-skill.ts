@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const consecutiveSpearFlurry = {
   id: "01a06575-97fc-7b8d-988a-c648e4368711",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "consecutive-spear-flurry",
   title: "Consecutive Spear Flurry",

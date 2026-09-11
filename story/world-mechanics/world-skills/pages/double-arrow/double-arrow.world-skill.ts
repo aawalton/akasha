@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const doubleArrow = {
   id: "01a06575-9805-7135-a1de-0b698e744d76",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "double-arrow",
   title: "Double Arrow",

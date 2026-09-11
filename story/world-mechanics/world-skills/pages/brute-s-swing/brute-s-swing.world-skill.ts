@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const bruteSSwing = {
   id: "01a06575-97f9-7f6c-8749-17292b978ada",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "brute-s-swing",
   title: "Brute’s Swing",

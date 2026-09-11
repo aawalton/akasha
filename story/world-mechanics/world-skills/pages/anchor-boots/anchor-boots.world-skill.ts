@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const anchorBoots = {
   id: "01a06575-97eb-78da-a73a-c5d0b5ea0172",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "anchor-boots",
   title: "Anchor Boots",

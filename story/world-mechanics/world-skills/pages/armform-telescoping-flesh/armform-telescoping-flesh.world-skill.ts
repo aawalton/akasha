@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const armformTelescopingFlesh = {
   id: "01a06575-97ec-78ed-91b7-a622bd9c5d99",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "armform-telescoping-flesh",
   title: "Armform: Telescoping Flesh",

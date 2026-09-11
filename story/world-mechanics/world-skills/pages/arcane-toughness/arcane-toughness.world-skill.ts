@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const arcaneToughness = {
   id: "01a06575-97ec-75df-944b-8f8555df7ad7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "arcane-toughness",
   title: "Arcane Toughness",

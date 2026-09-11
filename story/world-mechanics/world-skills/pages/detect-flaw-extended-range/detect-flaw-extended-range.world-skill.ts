@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const detectFlawExtendedRange = {
   id: "01a06575-9803-7038-82bc-7aed0f2f3307",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "detect-flaw-extended-range",
   title: "Detect Flaw: Extended Range",

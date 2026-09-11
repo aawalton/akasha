@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const delayHunger = {
   id: "01a06575-9802-7b56-97c6-5af0fa1ad1c5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "delay-hunger",
   title: "Delay Hunger",

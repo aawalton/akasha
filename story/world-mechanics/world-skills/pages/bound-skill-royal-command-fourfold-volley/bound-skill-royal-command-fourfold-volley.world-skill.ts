@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const boundSkillRoyalCommandFourfoldVolley = {
   id: "01a06575-97f8-75c6-b358-36d535b6d66c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "bound-skill-royal-command-fourfold-volley",
   title: "Bound Skill: Royal Command — Fourfold Volley",

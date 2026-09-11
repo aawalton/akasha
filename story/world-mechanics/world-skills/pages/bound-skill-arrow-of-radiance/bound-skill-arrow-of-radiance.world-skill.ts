@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const boundSkillArrowOfRadiance = {
   id: "01a06575-97f8-7a07-9fd9-4af9742c0d27",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "bound-skill-arrow-of-radiance",
   title: "Bound Skill: Arrow of Radiance",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const detectCavern = {
   id: "01a06575-9803-700a-8980-e942f835fbf7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "detect-cavern",
   title: "Detect Cavern",

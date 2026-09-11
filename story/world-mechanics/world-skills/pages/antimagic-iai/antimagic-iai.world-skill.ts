@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const antimagicIai = {
   id: "01a06575-97eb-7640-8a9d-d410695c014a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "antimagic-iai",
   title: "Antimagic Iai",

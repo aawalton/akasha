@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const durablePicks = {
   id: "01a06575-9806-7ee4-9fe5-99c436ef4ddd",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "durable-picks",
   title: "Durable Picks",

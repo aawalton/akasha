@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const artifactsUncoverPotential = {
   id: "01a06575-97ed-7665-91b2-1e8bc1a3bef3",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "artifacts-uncover-potential",
   title: "Artifacts: Uncover Potential",

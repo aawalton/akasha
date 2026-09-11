@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const coatingOfAcid = {
   id: "01a06575-97fb-7bad-8f86-73d4e2ed0674",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "coating-of-acid",
   title: "Coating of Acid",

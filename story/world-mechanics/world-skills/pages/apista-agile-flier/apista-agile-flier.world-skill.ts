@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const apistaAgileFlier = {
   id: "01a06575-97eb-7d5a-b820-bcb73368c4c9",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "apista-agile-flier",
   title: "Apista: Agile Flier",

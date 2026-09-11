@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const bodyWaterRetention = {
   id: "01a06575-97f7-7a56-bde6-7421a8fcb545",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "body-water-retention",
   title: "Body: Water Retention",

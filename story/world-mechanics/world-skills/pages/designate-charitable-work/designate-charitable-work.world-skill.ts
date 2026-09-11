@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const designateCharitableWork = {
   id: "01a06575-9803-78b1-8109-dd1728b06c3a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "designate-charitable-work",
   title: "Designate Charitable Work",

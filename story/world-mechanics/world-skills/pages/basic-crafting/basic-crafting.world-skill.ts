@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const basicCrafting = {
   id: "01a06575-97f3-7943-a9ca-2e1380d59e67",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "basic-crafting",
   title: "Basic Crafting",

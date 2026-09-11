@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const championsAriseToBattleInArmorAndHealth = {
   id: "01a06575-97fa-7448-9c93-4d3860a4f011",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "champions-arise-to-battle-in-armor-and-health",
   title: "Champions, Arise to Battle in Armor and Health",

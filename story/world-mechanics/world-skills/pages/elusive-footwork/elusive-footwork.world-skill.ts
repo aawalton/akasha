@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const elusiveFootwork = {
   id: "01a06575-9807-7f51-9c07-f7d687e46734",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "elusive-footwork",
   title: "Elusive Footwork",

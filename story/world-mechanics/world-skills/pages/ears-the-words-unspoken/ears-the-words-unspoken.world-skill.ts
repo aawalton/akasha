@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const earsTheWordsUnspoken = {
   id: "01a06575-9806-7de2-848c-df1511715603",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "ears-the-words-unspoken",
   title: "Ears: The Words Unspoken",

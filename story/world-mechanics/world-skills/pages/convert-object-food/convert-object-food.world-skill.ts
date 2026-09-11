@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const convertObjectFood = {
   id: "01a06575-97fd-78d3-83ba-b755d928a08c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "convert-object-food",
   title: "Convert Object: Food",

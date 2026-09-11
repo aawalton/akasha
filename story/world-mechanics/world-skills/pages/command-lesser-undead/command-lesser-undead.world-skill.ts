@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const commandLesserUndead = {
   id: "01a06575-97fc-744a-8233-6caaef4d8988",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "command-lesser-undead",
   title: "Command Lesser Undead",

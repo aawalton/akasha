@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const beingASmartMouthedJerk = {
   id: "01a06575-97f4-7e7d-aa7a-50f23aa9ee66",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "being-a-smart-mouthed-jerk",
   title: "Being a Smart-mouthed Jerk",

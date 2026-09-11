@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const detectImpurities = {
   id: "01a06575-9803-7dfa-82bf-ee40386169c8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "detect-impurities",
   title: "Detect Impurities",

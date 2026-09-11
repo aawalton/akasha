@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const concealingPresence = {
   id: "01a06575-97fc-7a24-9119-e16d6289e3ac",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "concealing-presence",
   title: "Concealing Presence",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const bloodlessIncision = {
   id: "01a06575-97f6-7fbf-85b3-6e00c8a16821",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "bloodless-incision",
   title: "Bloodless Incision",

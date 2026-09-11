@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const anchorBalance = {
   id: "01a06575-97eb-7ac3-86e7-bf34ed167125",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "anchor-balance",
   title: "Anchor Balance",

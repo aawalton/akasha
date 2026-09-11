@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const edictOfBloom = {
   id: "01a06575-9806-70cb-b1ac-561e8ce3cd9a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "edict-of-bloom",
   title: "Edict of Bloom",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const axeOfTheGigant = {
   id: "01a06575-97f2-7df5-beda-2e01552b1c28",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "axe-of-the-gigant",
   title: "Axe of the Gigant",

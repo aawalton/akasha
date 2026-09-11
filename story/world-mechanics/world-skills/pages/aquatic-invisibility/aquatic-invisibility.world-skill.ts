@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const aquaticInvisibility = {
   id: "01a06575-97ec-7b52-b54a-cf4b33dfe9aa",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "aquatic-invisibility",
   title: "Aquatic Invisibility",

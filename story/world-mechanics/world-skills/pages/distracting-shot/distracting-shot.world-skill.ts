@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const distractingShot = {
   id: "01a06575-9804-7015-ae9b-013f665642e8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "distracting-shot",
   title: "Distracting Shot",

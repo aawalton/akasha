@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const eideticMemory = {
   id: "01a06575-9807-7c60-9941-0ce598dc3157",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "eidetic-memory",
   title: "Eidetic Memory",

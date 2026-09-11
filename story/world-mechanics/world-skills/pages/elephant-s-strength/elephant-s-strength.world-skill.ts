@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const elephantSStrength = {
   id: "01a06575-9807-7820-900e-a2795d74afbc",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "elephant-s-strength",
   title: "Elephant’s Strength",

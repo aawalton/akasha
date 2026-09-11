@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const bravehearts = {
   id: "01a06575-97f8-791f-ad1f-2ae40624fcfa",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "bravehearts",
   title: "Bravehearts",

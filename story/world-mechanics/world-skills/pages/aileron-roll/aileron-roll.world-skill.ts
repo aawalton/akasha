@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const aileronRoll = {
   id: "01a06575-97ea-7dd3-b59b-61746cddd5ff",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "aileron-roll",
   title: "Aileron Roll",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const companyCheckCondition = {
   id: "01a06575-97fc-744a-967d-da2419adace6",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "company-check-condition",
   title: "Company: Check Condition",

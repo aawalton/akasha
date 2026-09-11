@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const coconutSplitstrike = {
   id: "01a06575-97fb-7ba3-9aec-4c516e339371",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "coconut-splitstrike",
   title: "Coconut Splitstrike",

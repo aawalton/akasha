@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const aspectOfTheChampion = {
   id: "01a06575-97ee-7cf2-a464-b45d6a5cbe6f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "aspect-of-the-champion",
   title: "Aspect of the Champion",

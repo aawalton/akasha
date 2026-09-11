@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const delayedReload = {
   id: "01a06575-9802-74bc-98bb-cb8d2830abc1",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "delayed-reload",
   title: "Delayed Reload",

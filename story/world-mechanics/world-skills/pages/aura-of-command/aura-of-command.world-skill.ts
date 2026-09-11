@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const auraOfCommand = {
   id: "01a06575-97ee-73d5-a416-c950a51deb30",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "aura-of-command",
   title: "Aura of Command",

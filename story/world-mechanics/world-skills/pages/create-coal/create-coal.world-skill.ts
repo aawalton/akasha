@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const createCoal = {
   id: "01a06575-97fe-7848-8bc9-c81ff3830b44",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "create-coal",
   title: "Create: Coal",

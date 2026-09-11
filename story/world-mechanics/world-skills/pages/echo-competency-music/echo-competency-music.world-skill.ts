@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const echoCompetencyMusic = {
   id: "01a06575-9806-7b31-84ee-db3efa057501",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "echo-competency-music",
   title: "Echo Competency: Music",

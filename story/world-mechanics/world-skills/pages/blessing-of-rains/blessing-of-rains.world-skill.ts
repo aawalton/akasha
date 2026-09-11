@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const blessingOfRains = {
   id: "01a06575-97f6-7d68-aadc-34938421e12c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "blessing-of-rains",
   title: "Blessing of Rains",

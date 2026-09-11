@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const basicEfficientAction = {
   id: "01a06575-97f3-7fca-9807-11ab3a006956",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "basic-efficient-action",
   title: "Basic Efficient Action",

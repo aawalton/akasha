@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const dangerZoneMultipliedVelocity = {
   id: "01a06575-9800-758b-b2d7-7f815d88393a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "danger-zone-multiplied-velocity",
   title: "Danger Zone: Multiplied Velocity",

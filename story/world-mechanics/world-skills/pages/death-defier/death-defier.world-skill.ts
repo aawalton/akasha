@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const deathDefier = {
   id: "01a06575-9802-7930-b61a-f69a5cb2262b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "death-defier",
   title: "Death Defier",

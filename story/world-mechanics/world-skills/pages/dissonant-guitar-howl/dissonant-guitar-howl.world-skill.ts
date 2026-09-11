@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const dissonantGuitarHowl = {
   id: "01a06575-9804-7ce8-b4ec-173cb4b67167",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "dissonant-guitar-howl",
   title: "Dissonant Guitar Howl",

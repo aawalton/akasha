@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const aMissingEntryFilled = {
   id: "01a06575-97e7-7d24-96c1-367ba7d09052",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "a-missing-entry-filled",
   title: "A Missing Entry, Filled",

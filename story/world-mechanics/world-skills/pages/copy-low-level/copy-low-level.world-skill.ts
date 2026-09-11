@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const copyLowLevel = {
   id: "01a06575-97fd-704e-81cc-d94047546873",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "copy-low-level",
   title: "Copy Low-Level",

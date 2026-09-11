@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const catSEvasion = {
   id: "01a06575-97fa-731b-a205-9fd30cfd5da8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "cat-s-evasion",
   title: "Cat’s Evasion",

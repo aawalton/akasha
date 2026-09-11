@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const deflectProjectile = {
   id: "01a06575-9802-7ec5-95d8-bbe46241292c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "deflect-projectile",
   title: "Deflect Projectile",

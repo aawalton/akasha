@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const antisepticJab = {
   id: "01a06575-97eb-73c6-b557-43d2283388ba",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "antiseptic-jab",
   title: "Antiseptic Jab",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const deflectArrows = {
   id: "01a06575-9802-7888-8d3f-0488cfeb551d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "deflect-arrows",
   title: "Deflect Arrows",

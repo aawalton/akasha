@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const auraOfSpring = {
   id: "01a06575-97ef-7075-a42e-53b2ea7a42ab",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "aura-of-spring",
   title: "Aura of Spring",

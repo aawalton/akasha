@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const artComesToLife = {
   id: "01a06575-97ed-7e01-8610-5e7cf660b780",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "art-comes-to-life",
   title: "Art Comes to Life",

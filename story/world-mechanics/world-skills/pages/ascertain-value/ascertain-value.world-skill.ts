@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const ascertainValue = {
   id: "01a06575-97ed-7d53-8a6d-d1bb6f1445f3",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "ascertain-value",
   title: "Ascertain Value",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const cargoSofterLanding = {
   id: "01a06575-97fa-7f7b-9545-be06a9a75b1b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "cargo-softer-landing",
   title: "Cargo: Softer Landing",

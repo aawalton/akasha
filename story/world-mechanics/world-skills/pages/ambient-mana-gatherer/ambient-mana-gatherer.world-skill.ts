@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const ambientManaGatherer = {
   id: "01a06575-97eb-7c5e-bf14-e1afb8702c23",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "ambient-mana-gatherer",
   title: "Ambient Mana Gatherer",

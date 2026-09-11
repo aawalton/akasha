@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const detectWeapon = {
   id: "01a06575-9803-79f2-80fb-4aad24c0a04d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "detect-weapon",
   title: "Detect Weapon",

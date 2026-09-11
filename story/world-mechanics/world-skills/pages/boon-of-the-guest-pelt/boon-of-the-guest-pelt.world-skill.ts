@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const boonOfTheGuestPelt = {
   id: "01a06575-97f7-7003-a8f9-f3e55239a2f9",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "boon-of-the-guest-pelt",
   title: "Boon of the Guest: Pelt",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const deflectProjectileAlly = {
   id: "01a06575-9802-70f6-9ec5-0fa447f839fe",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "deflect-projectile-ally",
   title: "Deflect Projectile (Ally)",

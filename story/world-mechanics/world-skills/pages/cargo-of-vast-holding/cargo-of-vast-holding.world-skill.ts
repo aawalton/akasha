@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const cargoOfVastHolding = {
   id: "01a06575-97fa-7627-99aa-fd4718a3b47a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "cargo-of-vast-holding",
   title: "Cargo of Vast Holding",

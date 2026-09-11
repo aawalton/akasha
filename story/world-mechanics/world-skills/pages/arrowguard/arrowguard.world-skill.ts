@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const arrowguard = {
   id: "01a06575-97ed-7e67-a3dd-344bf9923a32",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "arrowguard",
   title: "Arrowguard",

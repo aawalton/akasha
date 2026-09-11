@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const doubleCut = {
   id: "01a06575-9805-7217-b186-89759876d738",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "double-cut",
   title: "Double Cut",

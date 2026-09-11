@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const dirtyPunch = {
   id: "01a06575-9803-7098-b71e-9234144c9066",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "dirty-punch",
   title: "Dirty Punch",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const bodyFirebreath = {
   id: "01a06575-97f6-7eab-836c-94a7636ddc95",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "body-firebreath",
   title: "Body: Firebreath",

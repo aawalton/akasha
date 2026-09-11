@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const braceTheDeck = {
   id: "01a06575-97f8-7504-9575-8cca59e4afb3",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "brace-the-deck",
   title: "Brace the Deck",

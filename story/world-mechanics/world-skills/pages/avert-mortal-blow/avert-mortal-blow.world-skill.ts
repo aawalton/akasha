@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const avertMortalBlow = {
   id: "01a06575-97f2-787c-892a-8444b6e952af",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "avert-mortal-blow",
   title: "Avert Mortal Blow",

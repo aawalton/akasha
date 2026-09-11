@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const eideticMemoryScripture = {
   id: "01a06575-9807-7cfa-bbbf-3ad5824a8529",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "eidetic-memory-scripture",
   title: "Eidetic Memory: Scripture",

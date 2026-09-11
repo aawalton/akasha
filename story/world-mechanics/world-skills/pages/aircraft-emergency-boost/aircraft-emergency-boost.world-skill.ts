@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const aircraftEmergencyBoost = {
   id: "01a06575-97ea-728c-a011-c17d597d7987",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "aircraft-emergency-boost",
   title: "Aircraft: Emergency Boost",

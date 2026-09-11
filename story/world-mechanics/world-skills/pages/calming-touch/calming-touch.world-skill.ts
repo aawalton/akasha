@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const calmingTouch = {
   id: "01a06575-97fa-7517-8e9b-3cc5cc9e7525",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "calming-touch",
   title: "Calming Touch",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const battlefieldTriage = {
   id: "01a06575-97f4-7e11-b4f0-2940a25d18ff",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "battlefield-triage",
   title: "Battlefield Triage",

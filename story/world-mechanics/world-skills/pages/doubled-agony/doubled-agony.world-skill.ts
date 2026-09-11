@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const doubledAgony = {
   id: "01a06575-9805-7b2a-8acb-6a76bae990ee",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "doubled-agony",
   title: "Doubled Agony",

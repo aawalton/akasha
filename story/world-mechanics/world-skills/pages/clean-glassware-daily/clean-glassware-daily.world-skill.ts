@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const cleanGlasswareDaily = {
   id: "01a06575-97fb-7ff4-96de-d2512a4c85c1",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "clean-glassware-daily",
   title: "Clean Glassware (Daily)",

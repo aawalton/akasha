@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const auraFireball = {
   id: "01a06575-97ee-74b5-bfb6-3f2025ab023c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "aura-fireball",
   title: "Aura Fireball",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const blessingOfFlight = {
   id: "01a06575-97f6-7272-950d-5b39f38956dc",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "blessing-of-flight",
   title: "Blessing of Flight",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const camouflagedPosition = {
   id: "01a06575-97fa-7dee-a24c-b85d02f44a19",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "camouflaged-position",
   title: "Camouflaged Position",

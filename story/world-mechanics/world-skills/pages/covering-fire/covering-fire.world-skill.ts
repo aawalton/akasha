@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const coveringFire = {
   id: "01a06575-97fe-709c-b4d9-7e6a85cdf1d6",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "covering-fire",
   title: "Covering Fire",

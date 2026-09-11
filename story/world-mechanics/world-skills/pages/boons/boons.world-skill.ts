@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const boons = {
   id: "01a06575-97f8-79e6-b149-e225a651f867",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "boons",
   title: "Boons",

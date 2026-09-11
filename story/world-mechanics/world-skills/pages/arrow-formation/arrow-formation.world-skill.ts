@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const arrowFormation = {
   id: "01a06575-97ed-7167-9ed8-4cfae93ad377",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "arrow-formation",
   title: "Arrow Formation",

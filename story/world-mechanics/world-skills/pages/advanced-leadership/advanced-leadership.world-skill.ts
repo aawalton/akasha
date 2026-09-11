@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const advancedLeadership = {
   id: "01a06575-97e9-7811-91c1-13ba04810409",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "advanced-leadership",
   title: "Advanced Leadership",

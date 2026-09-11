@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const destinationFastTravel = {
   id: "01a06575-9803-7d66-b704-5e7d8b811fc6",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "destination-fast-travel",
   title: "Destination: Fast Travel",

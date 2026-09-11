@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const dexterityOfThought = {
   id: "01a06575-9803-760d-978f-f1a66fd648b1",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "dexterity-of-thought",
   title: "Dexterity of Thought",

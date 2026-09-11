@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const coordinatedActionSafeBoarding = {
   id: "01a06575-97fd-72b1-ac71-18fba00fe547",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "coordinated-action-safe-boarding",
   title: "Coordinated Action: Safe Boarding",

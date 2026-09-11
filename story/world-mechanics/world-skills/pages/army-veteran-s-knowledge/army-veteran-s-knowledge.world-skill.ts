@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const armyVeteranSKnowledge = {
   id: "01a06575-97ed-7234-b117-b77fd8fe4e92",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "army-veteran-s-knowledge",
   title: "Army: Veteran’s Knowledge",

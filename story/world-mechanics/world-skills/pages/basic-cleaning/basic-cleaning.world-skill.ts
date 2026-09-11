@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const basicCleaning = {
   id: "01a06575-97f3-7906-a7ef-461259ab52b8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "basic-cleaning",
   title: "Basic Cleaning",

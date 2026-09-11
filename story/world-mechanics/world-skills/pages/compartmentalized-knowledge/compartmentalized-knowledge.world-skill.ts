@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const compartmentalizedKnowledge = {
   id: "01a06575-97fc-7524-a42b-613d1a72ce7c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "compartmentalized-knowledge",
   title: "Compartmentalized Knowledge",

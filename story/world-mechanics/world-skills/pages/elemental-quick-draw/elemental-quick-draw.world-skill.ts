@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const elementalQuickDraw = {
   id: "01a06575-9807-79c3-bf3a-41baf2f86207",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "elemental-quick-draw",
   title: "Elemental Quick-Draw",

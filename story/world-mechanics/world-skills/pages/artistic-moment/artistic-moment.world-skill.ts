@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const artisticMoment = {
   id: "01a06575-97ed-71e0-97c2-2e4deee6f1fb",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "artistic-moment",
   title: "Artistic Moment",

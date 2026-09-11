@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const crossworldsUtilityMedicalEquipment = {
   id: "01a06575-97ff-7ff0-9a2c-a00b0612f4a0",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "crossworlds-utility-medical-equipment",
   title: "Crossworlds Utility (Medical Equipment)",

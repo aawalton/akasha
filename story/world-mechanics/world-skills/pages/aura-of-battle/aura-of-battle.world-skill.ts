@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const auraOfBattle = {
   id: "01a06575-97ee-7dd4-a03e-27426f0b995f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "aura-of-battle",
   title: "Aura of Battle",

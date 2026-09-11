@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const commandingPresence = {
   id: "01a06575-97fc-74a5-8c2c-e95cb9ee2c37",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "commanding-presence",
   title: "Commanding Presence",

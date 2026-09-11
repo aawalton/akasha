@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const blackskyRiders = {
   id: "01a06575-97f5-7d37-a002-8e4d94125b61",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "blacksky-riders",
   title: "Blacksky Riders",

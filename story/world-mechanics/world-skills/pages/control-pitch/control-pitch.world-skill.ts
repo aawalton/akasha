@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const controlPitch = {
   id: "01a06575-97fd-7364-a7c4-7cafc1283121",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "control-pitch",
   title: "Control Pitch",

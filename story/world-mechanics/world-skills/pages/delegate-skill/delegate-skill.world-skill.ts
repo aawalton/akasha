@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const delegateSkill = {
   id: "01a06575-9802-7224-9a0b-a71a625c9adf",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "delegate-skill",
   title: "Delegate Skill",

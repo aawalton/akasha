@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const emergencyRegeneration = {
   id: "01a06575-9807-7847-aef0-aaaeefd38aab",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "emergency-regeneration",
   title: "Emergency Regeneration",
