@@ -1,13 +1,13 @@
 import {
   type SkillLineId,
   skillLines,
-} from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
+} from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
 import {
   computeCharacterMorphProgressByEsoId,
   type ExpectedMorphableSkill,
   type MorphSkillLineProgressMap,
-} from "../character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
-import { morphableSkillsByLine } from "../morphable-skills/morphable-skills.module.code.ts"
+} from "akasha/temper/skill-morphs/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+import { morphableSkillsByLine } from "akasha/temper/skill-morphs/morphable-skills/morphable-skills.module.code.ts"
 
 export interface CharacterMorphProgressInput {
   applicableLines: ReadonlySet<SkillLineId>

@@ -1,10 +1,10 @@
-import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
-import type { MorphSkillLineProgressMap } from "../character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import type { MorphSkillLineProgressMap } from "akasha/temper/skill-morphs/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 import type {
   MorphableSkillDetail,
   SkillMorphProgressEntry,
-} from "../morph-progress-types/morph-progress-types.module.code.ts"
-import { morphableSkillsByLine } from "../morphable-skills/morphable-skills.module.code.ts"
+} from "akasha/temper/skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
+import { morphableSkillsByLine } from "akasha/temper/skill-morphs/morphable-skills/morphable-skills.module.code.ts"
 
 const classSkillLineIds = skillLines.list
   .filter((sl) => sl.subcategoryId === "class")

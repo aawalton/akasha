@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const morphConflict = {
   id: "01a061c7-0738-7d7a-a8e1-ba123ea07011",

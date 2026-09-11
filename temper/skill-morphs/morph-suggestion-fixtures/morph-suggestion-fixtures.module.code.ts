@@ -1,11 +1,11 @@
-import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
-import { morphableSkillsByLine } from "../morphable-skills/morphable-skills.module.code.ts"
+import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import { morphableSkillsByLine } from "akasha/temper/skill-morphs/morphable-skills/morphable-skills.module.code.ts"
 import type {
   ExpectedMorphableSkillForSuggestion,
   MorphSkillLineInput,
   MorphSuggestionInput,
   SkillMorphInput,
-} from "../select-morph-suggestions/select-morph-suggestions.module.code.ts"
+} from "akasha/temper/skill-morphs/select-morph-suggestions/select-morph-suggestions.module.code.ts"
 
 export const MORPHABLE_LINE_DISPLAY_ORDERS: ReadonlyMap<number, number> = (() => {
   const map = new Map<number, number>()

@@ -1,7 +1,7 @@
 import type {
   MorphSuggestionEntry,
   SkillMorphInput,
-} from "../select-morph-suggestions/select-morph-suggestions.module.code.ts"
+} from "akasha/temper/skill-morphs/select-morph-suggestions/select-morph-suggestions.module.code.ts"
 
 export function buildMorphEntry(
   morphData: SkillMorphInput,

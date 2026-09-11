@@ -1,9 +1,9 @@
-import type { SkillLineId } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
-import type { CharacterSkillMorphProgress } from "../morph-progress-types/morph-progress-types.module.code.ts"
+import type { SkillLineId } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
 import {
   morphableSkillLineIds,
   morphableSkillsByLine,
-} from "../morphable-skills/morphable-skills.module.code.ts"
+} from "akasha/temper/skill-morphs/morphable-skills/morphable-skills.module.code.ts"
 
 export type MorphRankMap = ReadonlyMap<string, ReadonlyMap<SkillLineId, number>>
 
