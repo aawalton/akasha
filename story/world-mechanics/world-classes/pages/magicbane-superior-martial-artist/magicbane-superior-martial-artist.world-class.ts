@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const magicbaneSuperiorMartialArtist = {
   id: "01a0657e-022b-7f24-9521-4af0f74a769d",

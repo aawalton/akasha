@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const footballManager = {
   id: "01a0657e-1365-7770-99d9-55d57be88b33",

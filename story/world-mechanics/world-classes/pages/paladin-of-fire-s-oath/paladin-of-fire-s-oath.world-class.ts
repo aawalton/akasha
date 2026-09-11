@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const paladinOfFireSOath = {
   id: "01a0657e-0236-7730-a627-f44f7e9c4a50",

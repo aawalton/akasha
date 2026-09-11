@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const oldbloodFlamebreathWarriorLevel41 = {
   id: "01a0657e-0235-7d44-8434-bc3025d7a3a1",

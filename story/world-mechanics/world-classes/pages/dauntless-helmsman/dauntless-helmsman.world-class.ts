@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const dauntlessHelmsman = {
   id: "01a0657e-01ce-7770-a226-b24fab0126e5",

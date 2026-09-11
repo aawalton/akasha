@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const infernoPyromancer = {
   id: "01a0657e-01fb-7175-92bf-ba61ce11e4d9",

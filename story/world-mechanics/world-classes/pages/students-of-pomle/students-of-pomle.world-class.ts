@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const studentsOfPomle = {
   id: "01a0657e-0261-7f87-867b-7611cfcd6314",

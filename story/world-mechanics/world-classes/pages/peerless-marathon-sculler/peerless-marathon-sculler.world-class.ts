@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const peerlessMarathonSculler = {
   id: "01a0657e-13b6-72f6-817b-2bd36f131e53",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const rank2HorrorManyInAJar = {
   id: "01a0657e-0243-71d3-93ba-f2f2310a3612",

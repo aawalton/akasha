@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const bloodtearPirates = {
   id: "01a0657e-133f-72f3-8b85-e84d270935b9",

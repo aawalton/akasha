@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const rank2HorrorCarrionEater = {
   id: "01a06586-0a1d-709b-8927-96a7dc9e9d47",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const cavalryRider = {
   id: "01a0657e-1347-72ea-a9c9-cc2a3e8dc1bd",

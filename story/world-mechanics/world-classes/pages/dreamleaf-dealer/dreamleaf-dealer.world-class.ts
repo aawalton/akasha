@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const dreamleafDealer = {
   id: "01a0657e-1357-77b8-a037-9de9f61459b7",

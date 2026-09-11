@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const archmageOfDeath = {
   id: "01a0657e-01aa-765d-bd69-5ce1c912973a",

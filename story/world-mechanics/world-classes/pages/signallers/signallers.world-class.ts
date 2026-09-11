@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const signallers = {
   id: "01a06586-0a3c-7f8d-9898-8ff4ef58b2ea",

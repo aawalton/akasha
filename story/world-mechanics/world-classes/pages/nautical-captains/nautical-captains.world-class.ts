@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const nauticalCaptains = {
   id: "01a0657e-0234-74f6-99ef-d2ecc793fb0d",

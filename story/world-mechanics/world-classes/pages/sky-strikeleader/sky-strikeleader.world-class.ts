@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const skyStrikeleader = {
   id: "01a0657e-0256-7462-a119-f2330b5e67b6",

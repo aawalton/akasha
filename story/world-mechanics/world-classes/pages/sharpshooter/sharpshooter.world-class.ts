@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const sharpshooter = {
   id: "01a0657e-0254-71f7-a66d-10c0bd2ff01e",

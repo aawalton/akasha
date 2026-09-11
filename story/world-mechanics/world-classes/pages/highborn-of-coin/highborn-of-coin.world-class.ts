@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const highbornOfCoin = {
   id: "01a0657e-01f8-75a8-a316-ecad7ece387b",

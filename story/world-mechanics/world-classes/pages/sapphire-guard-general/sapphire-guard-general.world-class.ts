@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const sapphireGuardGeneral = {
   id: "01a0657e-024a-7a92-a806-676886bc20bf",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const chiefDiplomatOfBijouSplendor = {
   id: "01a0657e-01c4-7727-a109-bafee5d2cad3",

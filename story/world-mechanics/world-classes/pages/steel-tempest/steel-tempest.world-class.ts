@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const steelTempest = {
   id: "01a06586-0a53-7e54-9ff5-eccf5500bbd6",

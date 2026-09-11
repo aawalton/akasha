@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const djinnSLegacySeeker = {
   id: "01a0657e-1354-7e40-9421-d3552c7e56ab",

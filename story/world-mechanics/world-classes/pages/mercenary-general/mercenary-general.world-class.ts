@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const mercenaryGeneral = {
   id: "01a0657e-13a0-798f-9c5b-e12d78acf17f",

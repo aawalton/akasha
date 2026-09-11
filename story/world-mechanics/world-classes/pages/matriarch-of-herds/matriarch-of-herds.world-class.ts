@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const matriarchOfHerds = {
   id: "01a0657e-0230-7514-9fab-971d3c8ec58a",

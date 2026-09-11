@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const armsManufacturer = {
   id: "01a0657e-1330-79a1-bc06-60d0a0c8ed47",

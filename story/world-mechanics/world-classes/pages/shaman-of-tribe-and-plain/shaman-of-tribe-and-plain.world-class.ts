@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const shamanOfTribeAndPlain = {
   id: "01a0657e-024d-7576-a21d-aefa7242aa66",

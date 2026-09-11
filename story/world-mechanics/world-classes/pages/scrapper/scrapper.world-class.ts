@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const scrapper = {
   id: "01a0657e-024b-7a05-ac3f-108c7ae6ff9d",

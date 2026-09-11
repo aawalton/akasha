@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const gateGuard = {
   id: "01a0657e-01df-7714-b7ee-1ae1550b9c6e",

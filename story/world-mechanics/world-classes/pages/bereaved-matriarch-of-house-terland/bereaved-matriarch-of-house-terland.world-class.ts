@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const bereavedMatriarchOfHouseTerland = {
   id: "01a0657e-133d-7adf-89bb-b1c4371a5162",

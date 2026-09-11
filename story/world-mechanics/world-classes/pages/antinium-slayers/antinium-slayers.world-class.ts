@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const antiniumSlayers = {
   id: "01a0657e-01a8-7af2-8777-8ff902f9a65b",

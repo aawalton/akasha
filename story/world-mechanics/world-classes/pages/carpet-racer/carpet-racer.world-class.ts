@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const carpetRacer = {
   id: "01a0657e-1346-7fa3-8673-7bd0ee30b995",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const lockdownGrappler = {
   id: "01a0657e-138f-7da6-8bfd-e0050c27b427",

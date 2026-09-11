@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const grandmasterKnightOfHonorSFlame = {
   id: "01a0657e-01e4-7369-9959-c057dd91cf87",

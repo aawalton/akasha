@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const mobileMechanic = {
   id: "01a0657e-0233-7e96-8e81-b24d0a5247b3",

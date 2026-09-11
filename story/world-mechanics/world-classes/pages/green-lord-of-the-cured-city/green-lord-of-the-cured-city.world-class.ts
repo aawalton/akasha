@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const greenLordOfTheCuredCity = {
   id: "01a0657e-01e4-72b0-87f0-ee290e0069cf",

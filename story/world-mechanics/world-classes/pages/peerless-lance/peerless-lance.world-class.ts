@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const peerlessLance = {
   id: "01a0657e-0237-7585-9d8d-eeb4627f54d1",

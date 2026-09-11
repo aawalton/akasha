@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const deaconOfTheTrinity = {
   id: "01a0657e-01ce-786a-88ef-87223067e2e8",

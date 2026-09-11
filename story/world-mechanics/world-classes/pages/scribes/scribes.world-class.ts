@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const scribes = {
   id: "01a0657e-024b-76d1-b3eb-bc0ec6f6d0cf",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const rushRoofers = {
   id: "01a0657e-0249-778c-b4f8-fa8c1eb81edc",

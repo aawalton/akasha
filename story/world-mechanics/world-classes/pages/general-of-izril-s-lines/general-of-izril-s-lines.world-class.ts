@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const generalOfIzrilSLines = {
   id: "01a0657e-01e0-767e-8bfd-41a5bc41cdc6",

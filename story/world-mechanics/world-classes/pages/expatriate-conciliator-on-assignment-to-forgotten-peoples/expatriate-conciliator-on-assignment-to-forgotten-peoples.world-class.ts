@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const expatriateConciliatorOnAssignmentToForgottenPeoples = {
   id: "01a0657e-1361-73bc-8d56-9fdca3edf830",

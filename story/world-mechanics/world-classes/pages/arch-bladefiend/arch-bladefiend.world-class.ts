@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const archBladefiend = {
   id: "01a0657e-132d-7d6b-b6bc-6f75bf0d962a",

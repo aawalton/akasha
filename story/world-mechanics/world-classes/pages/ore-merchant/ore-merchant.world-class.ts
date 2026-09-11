@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const oreMerchant = {
   id: "01a0657e-13b4-7dcc-b120-13934e8c42c8",

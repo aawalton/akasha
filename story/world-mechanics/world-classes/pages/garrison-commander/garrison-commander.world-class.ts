@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const garrisonCommander = {
   id: "01a0657e-01df-7e07-86bf-c0a5079ac532",

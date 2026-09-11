@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const transmigrator = {
   id: "01a06586-0a6a-7d80-a7dd-05c64bd03ef6",

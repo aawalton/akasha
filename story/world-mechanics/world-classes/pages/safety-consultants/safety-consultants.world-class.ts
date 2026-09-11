@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const safetyConsultants = {
   id: "01a0657e-0249-7402-9d7b-6f7e0e84271f",

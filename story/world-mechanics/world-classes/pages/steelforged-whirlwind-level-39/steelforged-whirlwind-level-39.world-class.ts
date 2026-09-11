@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const steelforgedWhirlwindLevel39 = {
   id: "01a0657e-025f-748b-9b74-b6222d3da173",

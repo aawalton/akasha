@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const lightMage = {
   id: "01a0657e-021a-7ab7-af86-4a1d2bda2a7c",

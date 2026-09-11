@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const pagesOfGlorySFlame = {
   id: "01a0657e-0235-7887-a879-84e2bbda0f74",

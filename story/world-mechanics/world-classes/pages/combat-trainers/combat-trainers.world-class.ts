@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const combatTrainers = {
   id: "01a0657e-134c-7cd5-a7ae-3b69a54e571f",

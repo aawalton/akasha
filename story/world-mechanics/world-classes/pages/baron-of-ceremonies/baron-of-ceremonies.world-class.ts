@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const baronOfCeremonies = {
   id: "01a0657e-133b-7300-a6d0-c140bff8a87d",

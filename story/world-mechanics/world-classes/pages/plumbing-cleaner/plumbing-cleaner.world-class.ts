@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const plumbingCleaner = {
   id: "01a0657e-023e-7408-80bd-d7619d1b6625",

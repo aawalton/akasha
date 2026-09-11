@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const paragonOfVirtue = {
   id: "01a0657e-0236-7523-a733-b8ca5f9c64d4",

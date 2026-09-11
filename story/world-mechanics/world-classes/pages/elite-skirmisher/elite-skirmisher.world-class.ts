@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const eliteSkirmisher = {
   id: "01a0657e-1359-74b3-80f3-acfef12e933f",

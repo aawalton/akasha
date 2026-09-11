@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const golemMakers = {
   id: "01a0657e-01e3-7c3a-9379-c9ea2037e96d",

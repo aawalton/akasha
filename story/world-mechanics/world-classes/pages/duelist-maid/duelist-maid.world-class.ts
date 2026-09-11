@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const duelistMaid = {
   id: "01a0657e-01d5-7ca7-ade9-70546ee321b5",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const nutCrazedCaravanLeader = {
   id: "01a0657e-0235-7bf9-a854-9e3b3324d323",

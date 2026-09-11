@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const magicalWeaver = {
   id: "01a0657e-139b-71ac-ad1c-6865b2a97233",

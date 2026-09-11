@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const archmageOfSands = {
   id: "01a0657e-01aa-76fa-9f7e-70475bb7b3dd",

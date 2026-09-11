@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const geniusPolymath = {
   id: "01a0657e-01e1-7666-aa23-93f1dc09a955",

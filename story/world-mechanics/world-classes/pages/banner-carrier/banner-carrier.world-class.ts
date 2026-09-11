@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const bannerCarrier = {
   id: "01a0657e-1339-7d04-b91e-9695b6d1d302",

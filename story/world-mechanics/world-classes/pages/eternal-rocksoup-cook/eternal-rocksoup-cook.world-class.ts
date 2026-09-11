@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const eternalRocksoupCook = {
   id: "01a0657e-01d9-7954-823d-d7a1906a2a6f",

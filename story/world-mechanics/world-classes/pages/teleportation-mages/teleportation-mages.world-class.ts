@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const teleportationMages = {
   id: "01a0657e-0269-74f9-ab24-1045a8ede4b1",

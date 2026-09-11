@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const magearmorSoldiers = {
   id: "01a0657e-1392-77f8-ba59-08a28e3b744f",

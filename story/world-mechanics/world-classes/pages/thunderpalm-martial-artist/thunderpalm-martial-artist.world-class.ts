@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const thunderpalmMartialArtist = {
   id: "01a06586-0a68-777d-aa50-4e2755bf1f3a",

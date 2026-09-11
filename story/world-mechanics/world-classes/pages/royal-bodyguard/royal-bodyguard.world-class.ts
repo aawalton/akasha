@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const royalBodyguard = {
   id: "01a0657e-0248-7bfe-a250-1f00a1f820b4",

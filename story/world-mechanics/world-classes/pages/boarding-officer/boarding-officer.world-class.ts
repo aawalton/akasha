@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const boardingOfficer = {
   id: "01a0657e-01be-71f0-a99a-5fdabfcc3293",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const glassblowers = {
   id: "01a0657e-01e2-76ad-a892-4b5f0b4fbc81",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const streetBrawler = {
   id: "01a06586-0a5d-7d3e-b0d9-5d2c67bc4dad",

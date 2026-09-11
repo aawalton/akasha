@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const battleMages = {
   id: "01a0657e-01b6-7a2f-bd05-0557cf2e90e7",

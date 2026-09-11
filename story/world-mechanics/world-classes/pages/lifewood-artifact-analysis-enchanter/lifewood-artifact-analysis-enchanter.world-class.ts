@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const lifewoodArtifactAnalysisEnchanter = {
   id: "01a0657e-021a-7695-ab54-fee0a1148b2e",

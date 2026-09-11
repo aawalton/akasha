@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const linebreakerCaptain = {
   id: "01a0657e-021b-770a-b61c-5d6e237cb443",

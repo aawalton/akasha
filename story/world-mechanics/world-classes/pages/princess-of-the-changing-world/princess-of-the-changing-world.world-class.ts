@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const princessOfTheChangingWorld = {
   id: "01a0657e-023f-7fad-8f74-89f4cbbb6839",

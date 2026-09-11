@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const ambushLeader = {
   id: "01a0657e-132c-7ca6-99bf-f27030bfe2ee",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const heroOfLaughterAndGrief = {
   id: "01a0657e-1373-7e7d-91ef-2a4c6b169b43",

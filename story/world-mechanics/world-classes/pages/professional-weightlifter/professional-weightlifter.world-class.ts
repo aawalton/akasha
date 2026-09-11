@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const professionalWeightlifter = {
   id: "01a0657e-0240-74e2-a374-237c8443dfa5",

@@ -1,4 +1,4 @@
-import type { WorldClass } from "../../world-class.page-type.types.ts"
+import type { WorldClass } from "akasha/story/world-mechanics/world-classes/world-class.page-type.types.ts"
 
 export const covertMaids = {
   id: "01a0657e-1350-73ae-b3cb-b99275ea1ef8",
