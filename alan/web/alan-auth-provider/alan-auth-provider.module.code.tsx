@@ -1,5 +1,6 @@
 "use client"
 
+import { refreshBrowserSession } from "akasha/alan/harness/supabase-rr/browser-session-refresh/browser-session-refresh.module.code.ts"
 import { useSupabase } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
 import { isNativeShell } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { DeepLinkOpenSync } from "akasha/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx"
@@ -54,12 +55,7 @@ export function AuthProvider({ children }: AuthProviderProps) {
   useEffect(() => {
     let cancelled = false
 
-    const refreshAuth = async (): Promise<void> => {
-      const { error } = await supabase.auth.refreshSession()
-      if (error !== null) {
-        console.warn("[auth-provider] auth-stale session refresh failed", error.message)
-      }
-    }
+    const refreshAuth = (): Promise<void> => refreshBrowserSession(supabase)
     const pushAuthToStore = async (jwt: string | null): Promise<void> => {
       const work = (async (): Promise<void> => {
         try {

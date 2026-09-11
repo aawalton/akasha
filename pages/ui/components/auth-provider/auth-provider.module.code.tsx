@@ -1,5 +1,6 @@
 "use client"
 
+import { refreshBrowserSession } from "akasha/alan/harness/supabase-rr/browser-session-refresh/browser-session-refresh.module.code.ts"
 import { useSupabase } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
 import { useAppVersionCheck } from "akasha/pages/ui/app-version/use-app-version-check/use-app-version-check.module.code.ts"
 import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
@@ -34,12 +35,7 @@ export function AuthProvider({ children }: AuthProviderProps) {
   useEffect(() => {
     let cancelled = false
 
-    const refreshAuth = async (): Promise<void> => {
-      const { error } = await supabase.auth.refreshSession()
-      if (error !== null) {
-        console.warn("[auth-provider] auth-stale session refresh failed", error.message)
-      }
-    }
+    const refreshAuth = (): Promise<void> => refreshBrowserSession(supabase)
     const pushAuthToStore = async (jwt: string | null): Promise<void> => {
       const work = (async (): Promise<void> => {
         try {

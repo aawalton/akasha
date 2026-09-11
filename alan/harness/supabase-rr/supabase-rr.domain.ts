@@ -15,6 +15,7 @@ export const supabaseRr = {
     "module/session-cookie",
     "module/effective-auth",
     "module/browser-client",
+    "module/browser-session-refresh",
     "module/server-client",
     "module/request-session-cache",
     "module/session-refresh",
