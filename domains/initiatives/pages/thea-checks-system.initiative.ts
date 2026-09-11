@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "no-rule-in-two-files groups by body: ruleOf canonicalises parameters and plain locals, not destructured names, and omits the return type. The count moves hourly, so measure rather than trust a written one. Two thirds are lone pairs, and how many of those genuinely want an absence is unjudged. An absence leaves both files refused, which the check states itself and twelve landed absences bore out, so some pairs cannot clear. Narrowing it to honour an absence is Alan's.",
+        "An audit over 53 checks and 124571 files reads 395 refusals, and all but a handful are no-rule-in-two-files: every other check is green. It groups by body, and ruleOf canonicalises parameters and plain locals but neither destructured names nor the return type. Two thirds are lone pairs, and how many want an absence is unjudged. An absence leaves both files refused, which twelve landed absences bore out. Narrowing it to honour an absence is Alan's.",
     },
     {
       statement: "Every runtime helper the Lua compiler has is a page.",
