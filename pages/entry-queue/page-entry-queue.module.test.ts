@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { readBack } from "../entries/page-entries.module.test-fixtures.ts"
-import { landedAt } from "../entry-landing/page-entry-landing.module.code.ts"
-import type { Value } from "../value-reading/page-value-reading.module.code.ts"
-import { type Queue, queueAt } from "./page-entry-queue.module.code.ts"
+import { readBack } from "akasha/pages/entries/page-entries.module.test-fixtures.ts"
+import { landedAt } from "akasha/pages/entry-landing/page-entry-landing.module.code.ts"
+import { type Queue, queueAt } from "akasha/pages/entry-queue/page-entry-queue.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const SCRATCH_AT = "/var/tmp"
 

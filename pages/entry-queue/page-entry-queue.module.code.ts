@@ -1,14 +1,14 @@
 import { appendFile } from "node:fs/promises"
 import { join } from "node:path"
-import { saidBy } from "../../utils/narrow/said-by/said-by.module.code.ts"
 import {
   bytesIn,
   type Filling,
   openedAt,
   rolledInto,
-} from "../entry-landing/page-entry-landing.module.code.ts"
-import { lineFor } from "../entry-writing/page-entry-writing.module.code.ts"
-import type { Value } from "../value-reading/page-value-reading.module.code.ts"
+} from "akasha/pages/entry-landing/page-entry-landing.module.code.ts"
+import { lineFor } from "akasha/pages/entry-writing/page-entry-writing.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 type Chunk = { path: string; text: string }
 
