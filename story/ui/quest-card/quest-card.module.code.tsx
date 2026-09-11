@@ -1,4 +1,5 @@
 import type { QuestStatus } from "akasha/story/engine/core/quest-schema/quest-schema.module.code.ts"
+import { CardField } from "../card-field/card-field.module.code.tsx"
 import type { ClientQuest } from "../client-session/client-session.module.code.ts"
 
 const STATUS_LABEL: Record<QuestStatus, string> = {
@@ -21,20 +22,11 @@ export function QuestStatusBadge({ status }: { status: QuestStatus }) {
   )
 }
 
-function Field({ label, value }: { label: string; value: string }) {
-  return (
-    <div className="flex flex-col gap-[2px]">
-      <div className="font-mono text-[10px] text-tertiary uppercase tracking-[0.16em]">{label}</div>
-      <div className="text-[13px] text-secondary leading-[1.5]">{value}</div>
-    </div>
-  )
-}
-
 export function QuestFields({ quest }: { quest: ClientQuest }) {
   const conditions = quest.conditions ?? []
   return (
     <div className="flex flex-col gap-2">
-      <Field label="Objective" value={quest.objective} />
+      <CardField label="Objective" value={quest.objective} />
       {conditions.length > 0 ? (
         <div className="flex flex-col gap-[2px]">
           <div className="font-mono text-[10px] text-tertiary uppercase tracking-[0.16em]">
@@ -50,7 +42,7 @@ export function QuestFields({ quest }: { quest: ClientQuest }) {
         </div>
       ) : null}
       {quest.reward != null && quest.reward !== "" ? (
-        <Field label="Reward" value={quest.reward} />
+        <CardField label="Reward" value={quest.reward} />
       ) : null}
     </div>
   )

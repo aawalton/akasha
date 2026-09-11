@@ -8,19 +8,11 @@ import type {
   TalentActivation,
 } from "akasha/story/engine/core/system-window-schema/system-window-schema.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { CardField } from "../card-field/card-field.module.code.tsx"
 import {
   type SubmitPlayerAction,
   SystemChoiceCard,
 } from "../system-choice-card/system-choice-card.module.code.tsx"
-
-function Field({ label, value }: { label: string; value: string }) {
-  return (
-    <div className="flex flex-col gap-[2px]">
-      <div className="font-mono text-[10px] text-tertiary uppercase tracking-[0.16em]">{label}</div>
-      <div className="text-[13px] text-secondary leading-[1.5]">{value}</div>
-    </div>
-  )
-}
 
 function ReadoutGrid({ record }: { record: Record<string, number> }) {
   const entries = Object.entries(record)
@@ -71,9 +63,9 @@ function QuestWindowCard({
   return (
     <WindowFrame banner={banner} bannerClass={bannerClass}>
       <div className="font-mono font-semibold text-[14px] text-primary">{quest.title}</div>
-      <Field label="Objective" value={quest.objective} />
+      <CardField label="Objective" value={quest.objective} />
       {quest.reward != null && quest.reward !== "" ? (
-        <Field label="Reward" value={quest.reward} />
+        <CardField label="Reward" value={quest.reward} />
       ) : null}
     </WindowFrame>
   )
@@ -119,11 +111,11 @@ function StatusAssessmentCard({ assessment }: { assessment: StatusAssessment }) 
 function TalentActivationCard({ activation }: { activation: TalentActivation }) {
   return (
     <WindowFrame banner="Talent Activation" bannerClass="text-accent">
-      <Field label="Holder" value={activation.holder} />
-      <Field label="Talent" value={activation.talent} />
-      <Field label="Status" value={activation.status} />
+      <CardField label="Holder" value={activation.holder} />
+      <CardField label="Talent" value={activation.talent} />
+      <CardField label="Status" value={activation.status} />
       {activation.note != null && activation.note !== "" ? (
-        <Field label="Note" value={activation.note} />
+        <CardField label="Note" value={activation.note} />
       ) : null}
     </WindowFrame>
   )
@@ -134,7 +126,7 @@ function ItemAwardCard({ award }: { award: ItemAward }) {
     <WindowFrame banner="Item Acquired" bannerClass="text-accent">
       <div className="font-mono font-semibold text-[14px] text-primary">{award.item}</div>
       {award.descriptors?.map((descriptor, index) => (
-        <Field
+        <CardField
           key={`${descriptor.label}-${index}`}
           label={descriptor.label}
           value={descriptor.value}
@@ -148,7 +140,9 @@ function LevelUpCard({ level, attrPoints }: { level: number; attrPoints?: number
   return (
     <WindowFrame banner="Level Up" bannerClass="text-accent">
       <div className="font-mono font-semibold text-[14px] text-primary">Level {level}</div>
-      {attrPoints != null ? <Field label="Attribute Points" value={String(attrPoints)} /> : null}
+      {attrPoints != null ? (
+        <CardField label="Attribute Points" value={String(attrPoints)} />
+      ) : null}
     </WindowFrame>
   )
 }
@@ -157,7 +151,7 @@ function SkillCard({ skill, rank }: { skill: string; rank?: string }) {
   return (
     <WindowFrame banner="Skill" bannerClass="text-accent">
       <div className="font-mono font-semibold text-[14px] text-primary">{skill}</div>
-      {rank != null && rank !== "" ? <Field label="Rank" value={rank} /> : null}
+      {rank != null && rank !== "" ? <CardField label="Rank" value={rank} /> : null}
     </WindowFrame>
   )
 }

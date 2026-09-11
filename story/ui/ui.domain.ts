@@ -10,6 +10,7 @@ export const ui = {
     "module/alert-controls",
     "module/alert-notification",
     "module/alert-sound",
+    "module/card-field",
     "module/chapter-prose",
     "module/client-envelope",
     "module/client-session",
