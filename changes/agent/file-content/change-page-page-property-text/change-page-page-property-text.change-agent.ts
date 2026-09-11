@@ -6,7 +6,7 @@ export const changePagePagePropertyText = {
   type: "change-agent",
   slug: "change-page-page-property-text",
   changeMode: "change-mode-change",
-  definition: "one text property of one page stated anew in other words",
+  definition: "the whole value one text property of one page has, stated anew in other words",
   code: "ts",
   test: "ts",
   invariants: [
@@ -38,6 +38,18 @@ export const changePagePagePropertyText = {
     {
       invariantKind: "departure",
       statement: "A key the page's own page type has no property for is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The value under the key is stated anew whole rather than a passage of it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument this change does not take is refused by the key naming it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal says the whole value under the key is stated anew.",
     },
     {
       invariantKind: "absence",

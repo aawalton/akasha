@@ -126,6 +126,21 @@ test("a key the page's own page type carries no property for is refused", async 
   expect(said.refused ?? "").toMatch(/carries no property under `startMode`/)
 })
 
+test("an argument this change does not take is refused by the key naming it", async () => {
+  const world = worldTold([carrying("startMode", "text-property")], PAGE)
+
+  const said = await runChange(world, {
+    at: AT,
+    key: "startMode",
+    is: "words this page states nowhere",
+    to: "headless",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toMatch(/`is` is no argument this change takes/)
+  expect(said.refused ?? "").toMatch(/`to` states the whole value anew/)
+})
+
 test("an argument this change was handed no value for is refused by the key", async () => {
   const world = worldTold([carrying("startMode", "text-property")], PAGE)
 
