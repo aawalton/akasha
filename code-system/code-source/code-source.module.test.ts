@@ -1,6 +1,11 @@
 import { expect, test } from "bun:test"
+import {
+  lineAt,
+  lineOf,
+  parsedAs,
+  skimmedAs,
+} from "akasha/code-system/code-source/code-source.module.code.ts"
 import ts from "typescript"
-import { lineAt, lineOf, parsedAs, skimmedAs } from "./code-source.module.code.ts"
 
 const AT = "held.ts"
 
