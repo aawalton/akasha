@@ -34,14 +34,7 @@ async function readSweep(deadlineMs: number): Promise<SweepReading> {
   }
 }
 
-async function main(): Promise<void> {
-  const args = process.argv.slice(2)
-  for (const one of args) {
-    if (!one.startsWith("--")) continue
-    process.stderr.write(`\`${one}\` is not an argument this takes — run it with --help\n`)
-    process.exit(1)
-  }
-
+export async function runOrphanSweeping(): Promise<void> {
   const reading = await readSweep(Date.now() + SWEEP_CEILING_MS)
   console.log(
     `${SAID} ran=${reading.ranOk}; ${reading.orphans.length} orphan(s); ` +
@@ -72,7 +65,14 @@ async function main(): Promise<void> {
 }
 
 if (import.meta.main) {
-  await main().catch(async (err) => {
+  const args = process.argv.slice(2)
+  for (const one of args) {
+    if (!one.startsWith("--")) continue
+    process.stderr.write(`\`${one}\` is not an argument this takes — run it with --help\n`)
+    process.exit(1)
+  }
+
+  await runOrphanSweeping().catch(async (err) => {
     console.error(`${SAID} fatal:`, err instanceof Error ? err.message : err)
     process.exit(1)
   })
