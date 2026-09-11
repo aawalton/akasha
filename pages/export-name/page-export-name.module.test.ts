@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
-import { exportedAs, nameFaultIn, typedAs } from "./page-export-name.module.code.ts"
+import {
+  exportedAs,
+  nameFaultIn,
+  typedAs,
+} from "akasha/pages/export-name/page-export-name.module.code.ts"
 
 const CODE = `${import.meta.dir}/page-export-name.module.code.ts`
 
