@@ -38,11 +38,6 @@ export const nimueCodeCleanup = {
       workingMemory:
         "`file-has-its-page` reads a hardcoded `node_modules` today, and reading the property instead retires that constant and covers every build folder at once. `folder-matches-a-shape` has the same gap: it refuses the two ios app folders over their `www`, which is declared a build folder already. Both checks want the property rather than one.",
     },
-    {
-      statement: "Every container recipe is written by a generator rather than by hand.",
-      workingMemory:
-        "All nine recipes carry the `composing` module-property-group and a byte-for-byte test, and `recipe.file-property.ts` states `generated` (`dce4762646c`). Four recipes were stale: temper's six COPY paths, wan, eso-rig's two, and upscale's cluster image. Nothing runs a group's code yet, so a hand edit to a Containerfile is dropped in silence until dalla's deploy tooling reaches these groups.\n",
-    },
   ],
   constraints: [
     "The relative addresses reaching into the folder are repointed inside the move rather than by a landing before it.",
