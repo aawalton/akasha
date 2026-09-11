@@ -1,4 +1,4 @@
-import type { Module } from "../../../modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const launchEnv = {
   id: "01a05c48-deeb-7004-ae00-696bc1c422ae",
