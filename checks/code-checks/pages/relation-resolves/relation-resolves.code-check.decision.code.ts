@@ -1,5 +1,5 @@
 import { dirname, join } from "node:path"
-import { bodyOf, textIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import { textIn, textWas } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { type Rowing, rowsOver } from "akasha/pages/entries/page-entries.module.code.ts"
@@ -25,9 +25,9 @@ export type Carried = {
 }
 
 export function valueFor(change: Change, path: string): Value | null {
-  const bytes = change.after(path)
-  if (bytes === null) return null
-  return valueIn(bodyOf({ root: change.root, path, bytes }))
+  const text = textIn(change, path)
+  if (text === null) return null
+  return valueIn(text)
 }
 
 export function carriedBy(change: Change, pageTypes: ReadonlySet<string>): readonly Carried[] {
@@ -86,9 +86,9 @@ export function relationProperties(shadow: Shadow, known: Known): readonly strin
 }
 
 export function idTakenFrom(change: Change, path: string): string | null {
-  const bytes = change.before(path)
-  if (bytes === null) return null
-  const value = valueIn(bodyOf({ root: change.root, path, bytes }))
+  const text = textWas(change, path)
+  if (text === null) return null
+  const value = valueIn(text)
   return value === null ? null : textAt(value, "id")
 }
 
