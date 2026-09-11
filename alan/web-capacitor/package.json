@@ -1,6 +1,6 @@
 {
   "name": "@akasha/alanwalton-web-capacitor",
-  "description": "A second react-router app over the same site as @akasha/alanwalton-web, built ssr:false so the whole route tree runs from the native shell's www root with no server. react-router resolves an app root to the nearest ancestor package.json, so a separate manifest is what keeps this build from taking the SSR route tree of the package beside it.",
+  "description": "A second react-router app over the same site as @akasha/alanwalton-web, built ssr:false so the whole route tree runs from the native shell's www root with no server. react-router takes an app root from the working directory rather than from any ancestor package.json, so what keeps this build off the SSR route tree of the package beside it is the folder each build runs in together with this folder's own react-router.config.ts and routes.ts.",
   "functionalType": "service",
   "version": "0.1.0",
   "private": true,
