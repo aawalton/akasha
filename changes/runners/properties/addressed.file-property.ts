@@ -9,6 +9,7 @@ export const addressed = {
   slug: "addressed",
   propertySlug: "addressed",
   definition: "the type binding each change address to that change's own arguments",
+  extensions: ["ts"],
   generated: true,
   runsFileLength: false,
   invariants: [
