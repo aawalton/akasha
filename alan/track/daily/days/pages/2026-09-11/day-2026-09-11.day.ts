@@ -11,5 +11,9 @@ export const day20260911 = {
   nutritionPoints: 360,
   wisdomWords: 0,
   intelligenceTopics: 0,
+  inboxTasks: 6,
+  inboxTasksClearedToday: false,
+  inboxTemperTasks: 14,
+  inboxTemperTasksClearedToday: false,
   lowestEmailInboxCount: 0,
 } as const satisfies Day
