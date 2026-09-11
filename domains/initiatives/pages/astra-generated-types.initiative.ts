@@ -24,7 +24,7 @@ export const astraGeneratedTypes = {
     {
       statement: "No page property's type is written by hand.",
       workingMemory:
-        "809 of 1822 property pages have their type written beside them: boolean, number, instant, url, calendar-date, calendar-time, email-address, phone-number, process, entry, build-folder, select, rank. By hand still: 618 text, 142 relation, 126 file, 44 record, 38 computed, 30 code-file, 7 standard-agent-english, 2 one-of. `add-page-property-types` turns one kind over. Text waits on 17 hand-written unions becoming select or rank; file waits on its extensions becoming page data.\n",
+        "1758 of 1759 property pages have their type written beside them, and every kind but one is whole. The one left is `record-property/properties`, whose `Declaration` is two arms parted on the literal `many`: `maxCount` is required in one arm, `default` and `fixed` admitted only in the other. A flat list of fields says neither that a field waits on another field's value nor that a field is pinned to a literal. Alan has the case.",
     },
     {
       statement: "Every generated type is written by the generator the page it belongs to states.",
