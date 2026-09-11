@@ -44,6 +44,7 @@ export const codeSystem = {
     "module/code-specifier",
     "module/code-rule",
     "module/code-source",
+    "module/module-directory",
     "module/code-path-between",
     "module/code-runtime-path",
     "module/code-tokens",

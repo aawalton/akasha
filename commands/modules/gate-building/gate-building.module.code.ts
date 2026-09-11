@@ -1,7 +1,7 @@
 import { createRequire } from "node:module"
-import { dirname, join, relative } from "node:path"
-import { fileURLToPath } from "node:url"
+import { join, relative } from "node:path"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { dirOfModule } from "akasha/code-system/module-directory/module-directory.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import type { Indexing } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
@@ -14,21 +14,11 @@ const CHANGE = "change"
 
 const loadFrom = createRequire(import.meta.url)
 
-function dirHere(): string | undefined {
-  const meta: { readonly dir?: string; readonly dirname?: string; readonly url?: string } =
-    import.meta
-  const named = meta.dir ?? meta.dirname
-  if (named !== undefined) return named
-  if (meta.url === undefined) return undefined
-  if (typeof fileURLToPath !== "function") return undefined
-  return dirname(fileURLToPath(meta.url))
-}
-
 let heldHere: string | null = null
 
 function here(): string {
   if (heldHere !== null) return heldHere
-  const dir = dirHere()
+  const dir = dirOfModule(import.meta)
   if (dir === undefined || dir === "") {
     throw new Error(`nothing here says where this file is, so nothing says where ${CHECKING_IN} is`)
   }

@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { dirname, resolve } from "node:path"
-import { fileURLToPath } from "node:url"
+import { dirOfModule } from "akasha/code-system/module-directory/module-directory.module.code.ts"
 import type { Repo } from "akasha/pages/markdown-document/markdown-document.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import { canonicalize } from "akasha/pages/repo-path/repo-path.module.code.ts"
@@ -28,18 +28,8 @@ function checkoutFrom(dir: string): string {
   return at
 }
 
-function dirOfThisFile(): string | undefined {
-  const meta: { readonly dir?: string; readonly dirname?: string; readonly url?: string } =
-    import.meta
-  const named = meta.dir ?? meta.dirname
-  if (named !== undefined) return named
-  if (meta.url === undefined) return undefined
-  if (typeof fileURLToPath !== "function") return undefined
-  return dirname(fileURLToPath(meta.url))
-}
-
 function checkoutFound(): string {
-  const dir = dirOfThisFile()
+  const dir = dirOfModule(import.meta)
   if (dir === undefined || dir === "") {
     throw new Error(
       `nothing here says where this file is, so nothing says where \`${AKASHA}\` is — name it in \`${rootEnvName(AKASHA)}\``
