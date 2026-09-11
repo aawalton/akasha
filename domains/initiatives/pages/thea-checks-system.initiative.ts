@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "The audit says 559: 504 no-rule-in-two-files and 55 over five checks — 35 files left behind under seat-system, 13 on pages/value alone, 5 manifests naming react-dom, 1 log over the ceiling. tests-pass is green. speltIn reads only a function declaration or a variable holding one, so an arrow held as a property, a class method, and anything inside a template literal are all invisible; widening it would double the count, which is a step to take on its own.",
+        "Of the 55 refusals outside no-rule-in-two-files, all are cleared but the 13 on pages/value, which wait on a barrel deleted last, after 18 groups of callers move. tests-pass is green. no-rule-in-two-files is falling and unmeasured since: a scan of every tracked file reads 455, an upper bound, where the check reads only paths the index names. A count taken inside one domain is blind to its own outward pairs, 41 of temper's 161 pairing outside temper.",
     },
     {
       statement: "Every runtime helper the Lua compiler has is a page.",
