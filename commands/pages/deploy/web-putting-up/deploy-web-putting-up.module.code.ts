@@ -8,7 +8,6 @@ import {
   buildTargetOf,
   carriedByOrigin,
   declaredBuildEnv,
-  headOf,
   inPod,
   installableAt,
   livePod,
@@ -29,7 +28,12 @@ const DATA = 2
 const OPERATIONAL = 3
 const SAID = 4
 
-export async function putUpWebApp(slug: string, given: Given, dryRun: boolean): Promise<Answer> {
+export async function putUpWebApp(
+  slug: string,
+  sha: string,
+  given: Given,
+  dryRun: boolean
+): Promise<Answer> {
   const read = deployableNamed(given.root, slug)
   if ("refused" in read) return refused(read.refused, DATA)
   const deployable = read.deployable
@@ -56,16 +60,6 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean): 
     }
   }
 
-  const sha = headOf(given.root)
-  if (sha === null) {
-    return {
-      report,
-      refusals: [
-        `git says no commit stands at HEAD under ${given.root}, so nothing names the source to build`,
-      ],
-      code: DATA,
-    }
-  }
   const carried = carriedByOrigin(given.root, sha)
   if ("why" in carried) return { report, refusals: [carried.why], code: OPERATIONAL }
   report.push(

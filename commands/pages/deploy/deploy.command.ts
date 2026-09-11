@@ -72,7 +72,7 @@ export const deploy = {
     "what the deploy is made of is not on the call: the page names a cluster service, that page names a workload, and the code beside it emits the manifests.",
     "the namespace comes first, then what is placed in it, then the workload that reads it.",
     "a manifest the cluster already holds is applied again by nothing, so a second call does nothing.",
-    "the build a pod serves is made here, inside that pod, from the commit HEAD is at.",
+    "the build a pod serves is made here, inside that pod, from the commit the deploy names.",
     "a pod takes its source from origin, so a commit origin main does not carry is pushed there before the build begins.",
     "that commit is first proved to install from the manifests it tracks, since a workspace resolving on a workstation can be missing from git.",
     "a build already made from that commit is made again by nothing.",

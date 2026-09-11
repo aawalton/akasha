@@ -23,7 +23,7 @@ export const deployWebPuttingUp = {
     },
     {
       invariantKind: "departure",
-      statement: "The source built is the commit the workstation's HEAD stands at.",
+      statement: "The source built is the commit the deploy names.",
     },
     {
       invariantKind: "departure",

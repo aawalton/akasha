@@ -115,7 +115,7 @@ export async function putUp(
   if (bundle !== null && bundle.refusals.length > 0) {
     return answering(bundle.lines, bundle.refusals, OPERATIONAL)
   }
-  const up = await putUpWebApp(slug, given, dryRun)
+  const up = await putUpWebApp(slug, commit, given, dryRun)
   if (bundle === null) return up
   return answering([...bundle.lines, ...up.report], up.refusals, up.code)
 }

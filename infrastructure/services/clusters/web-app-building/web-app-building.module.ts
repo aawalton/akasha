@@ -19,7 +19,7 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "The sha built is the sha the workstation's HEAD is at.",
+      statement: "The sha built is the sha the caller names.",
     },
     {
       invariantKind: "departure",
