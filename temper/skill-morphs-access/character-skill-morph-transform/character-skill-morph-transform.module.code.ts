@@ -4,8 +4,8 @@ import type {
   SkillMorphProgressEntry,
 } from "akasha/temper/skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
 import { morphableSkillsByLine } from "akasha/temper/skill-morphs/morphable-skills/morphable-skills.module.code.ts"
-import { ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID } from "../eso-id-helpers/eso-id-helpers.module.code.ts"
-import type { MorphCharacterRow } from "../morph-completion-shapes/morph-completion-shapes.module.code.ts"
+import { ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID } from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
+import type { MorphCharacterRow } from "akasha/temper/skill-morphs-access/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 
 export function transformSkillMorphProgress(
   rows: readonly MorphCharacterRow[]

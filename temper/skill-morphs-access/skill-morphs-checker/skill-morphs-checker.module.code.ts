@@ -1,16 +1,16 @@
+import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
 import { computeCharacterMorphProgress } from "akasha/temper/skill-morphs/character-morph-progress/character-morph-progress.module.code.ts"
 import { morphableSkillsByLine } from "akasha/temper/skill-morphs/morphable-skills/morphable-skills.module.code.ts"
-import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import {
   ESO_CLASS_ID_TO_CLASS_ID,
   ESO_RACE_ID_TO_RACE_ID,
   ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID,
   getApplicableSkillLineIds,
-} from "../eso-id-helpers/eso-id-helpers.module.code.ts"
+} from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
 import type {
   MorphCardChecker,
   MorphCharacterRow,
-} from "../morph-completion-shapes/morph-completion-shapes.module.code.ts"
+} from "akasha/temper/skill-morphs-access/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 
 export const SKILL_MORPHS_CHECKER: MorphCardChecker = {
   isCardComplete(completion) {

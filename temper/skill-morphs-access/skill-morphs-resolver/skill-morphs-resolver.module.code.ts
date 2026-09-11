@@ -6,8 +6,8 @@ import {
   ESO_RACE_ID_TO_RACE_ID,
   ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID,
   getApplicableSkillLineIds,
-} from "../eso-id-helpers/eso-id-helpers.module.code.ts"
-import type { MorphCharacterRow } from "../morph-completion-shapes/morph-completion-shapes.module.code.ts"
+} from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
+import type { MorphCharacterRow } from "akasha/temper/skill-morphs-access/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 
 interface TaskProgress {
   current: number

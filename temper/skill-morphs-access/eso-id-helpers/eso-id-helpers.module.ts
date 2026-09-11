@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const esoIdHelpers = {
   id: "01a061e2-5e38-7a72-a17d-f942564d7534",
