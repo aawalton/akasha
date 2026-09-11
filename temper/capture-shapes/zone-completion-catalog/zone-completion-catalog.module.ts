@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const zoneCompletionCatalog = {
   id: "01a0604d-23a2-79a2-808b-325871382906",
