@@ -5,7 +5,7 @@ export const wake = {
   pageTypeSlug: "taboo-term",
   type: "taboo-term",
   slug: "wake",
-  pattern: "\\bwak(e|es|ed|ing)\\b|\\bwoken\\b",
+  pattern: "\\bwak(e|es|ed|ing)\\b|\\bwoken?\\b",
   tabooSenses: [
     {
       sense: "a message that earned the start of a stopped seat",
