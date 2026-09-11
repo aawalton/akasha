@@ -14,7 +14,7 @@ import { getScriptItemIdByName } from "akasha/temper/items-core/script-knowledge
 import { ALL_CATEGORIES_ID } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { resolvePotionRestoreMetricIds } from "akasha/temper/items-rules-core/potion-restore-resolve/potion-restore-resolve.module.code.ts"
 import type { ItemKey } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
-import type { ItemFacts } from "../item-facts/item-facts.module.code.ts"
+import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 
 function parsePotionDataFromLink(itemLink: string): number {
   return parseItemLink(itemLink)?.potionData ?? 0

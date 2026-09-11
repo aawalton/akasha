@@ -1,4 +1,4 @@
-import type { ItemFacts } from "../item-facts/item-facts.module.code.ts"
+import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 
 export const ESO_CRAFTING_TYPE_BLACKSMITHING = 1
 export const ESO_CRAFTING_TYPE_CLOTHIER = 2

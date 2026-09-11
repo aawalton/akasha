@@ -1,4 +1,4 @@
-import type { ItemFacts } from "../item-facts/item-facts.module.code.ts"
+import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 
 export type CategoryMatch =
   | { readonly kind: "match" }

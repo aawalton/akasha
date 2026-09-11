@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const checkCrossCharacterCraft = {
   id: "01a06137-f964-7c61-843b-2d70fcb4ffe7",

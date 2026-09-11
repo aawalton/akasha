@@ -1,12 +1,12 @@
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
-import type { ConditionCheckResult } from "../check-result/check-result.module.code.ts"
+import type { ConditionCheckResult } from "akasha/temper/items-rules-eval/check-result/check-result.module.code.ts"
 import {
   getTraitMapForCraftingType,
   inferInspireCraftingType,
   inferResearchCraftingType,
-} from "../craft-inference/craft-inference.module.code.ts"
-import type { EvalContext } from "../eval-env/eval-env.module.code.ts"
-import type { ItemFacts } from "../item-facts/item-facts.module.code.ts"
+} from "akasha/temper/items-rules-eval/craft-inference/craft-inference.module.code.ts"
+import type { EvalContext } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
+import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 
 export function checkCrossCharacterCraft(
   rule: CompiledOrderedRule,
