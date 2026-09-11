@@ -1,5 +1,10 @@
 import { expect, test } from "bun:test"
-import { calledIn, dependsIn, reachesIn, reachingOver } from "./package-manifest.module.code.ts"
+import {
+  calledIn,
+  dependsIn,
+  reachesIn,
+  reachingOver,
+} from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 
 const FOLDER = "akasha/pages-system/indexes"
 
