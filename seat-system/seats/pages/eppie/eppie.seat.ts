@@ -10,6 +10,6 @@ export const eppie = {
   role: "companion",
   person: "alan",
   startMode: "interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "aawalton",
 } as const satisfies Seat
