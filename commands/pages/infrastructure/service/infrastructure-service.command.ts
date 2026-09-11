@@ -18,6 +18,7 @@ export const infrastructureService = {
     { said: "restart", takes: "the act, which is to ask systemd to run a service's unit afresh" },
     { said: "start", takes: "the act, which is to ask systemd to run a service's unit" },
     { said: "stop", takes: "the act, which is to ask systemd to end a service's unit" },
+    { said: "run", takes: "the act, which is to run a service's own code in this process" },
     { said: "<slug>", takes: "the service acted on, named by the slug its page carries" },
     { said: "--dry-run", takes: "say what would happen and change nothing" },
   ],
@@ -25,6 +26,9 @@ export const infrastructureService = {
     "the act is first and one call names one act.",
     "a service is named for `start`, `stop` and `restart`, and one is started, stopped or restarted at a time.",
     "`sweep` names no service, since it reaches every unit of ours at once.",
+    "`run` runs one service in this process out of the code its `running` group holds beside its page.",
+    "a service whose `running` code is not there, or exports no `runService`, is refused by name rather than run.",
+    "`run` asks systemd nothing, so a service already under systemd is left running where it is.",
     "a scheduled service is reached by its timer, and one that is not by its service unit.",
     "a unit is written under your home and reached by a link systemd reads, which is how it is known to be ours.",
     "a unit of ours that the pages no longer account for is disabled and taken away by `sweep`.",
@@ -59,6 +63,22 @@ export const infrastructureService = {
     {
       invariantKind: "departure",
       statement: "A systemctl that refuses makes the call refuse.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run reaches the code the named service's `running` group holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service page is found through the index rather than by the folder it sits in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service whose running code is not there is refused rather than run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service whose running code exports no `runService` is refused rather than run.",
     },
     {
       invariantKind: "absence",

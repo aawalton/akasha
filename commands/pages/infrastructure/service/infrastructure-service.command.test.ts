@@ -14,80 +14,105 @@ function given(root: string): Given {
 
 const HERE = given(process.cwd())
 
-test("a call naming no act is refused as the caller's fault", () => {
-  const answer = infrastructureService([], HERE)
+test("a call naming no act is refused with every act this command carries", async () => {
+  const answer = await infrastructureService([], HERE)
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("sweep")
+  expect(answer.refusals[0]).toContain("`run`")
 })
 
-test("an act this command does not carry is refused by name", () => {
-  const answer = infrastructureService(["uninstall"], HERE)
+test("an act this command does not carry is refused by name", async () => {
+  const answer = await infrastructureService(["uninstall"], HERE)
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("`uninstall`")
 })
 
-test("installing is no act this command carries any more", () => {
-  const answer = infrastructureService(["install", "pages-service"], HERE)
+test("installing is no act this command carries any more", async () => {
+  const answer = await infrastructureService(["install", "pages-service"], HERE)
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("`install` is no act")
 })
 
-test("a sweep naming a service is refused as the caller's fault", () => {
-  const answer = infrastructureService(["sweep", "pages-service"], HERE)
+test("a sweep naming a service is refused as the caller's fault", async () => {
+  const answer = await infrastructureService(["sweep", "pages-service"], HERE)
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("every unit akasha owns")
 })
 
-test("a flag this command does not take is refused by name", () => {
-  const answer = infrastructureService(["sweep", "--apply"], HERE)
+test("a flag this command does not take is refused by name", async () => {
+  const answer = await infrastructureService(["sweep", "--apply"], HERE)
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("`--apply`")
 })
 
-test("a dry run of a sweep writes nothing and asks systemd nothing", () => {
-  const answer = infrastructureService(["sweep", "--dry-run"], HERE)
+test("a dry run of a sweep asks systemd nothing and plans no unit written or enabled", async () => {
+  const answer = await infrastructureService(["sweep", "--dry-run"], HERE)
   expect(answer.code).toBe(0)
   expect(answer.refusals).toEqual([])
-})
-
-test("a sweep plans no unit to be written", () => {
-  const answer = infrastructureService(["sweep", "--dry-run"], HERE)
   for (const line of answer.report) expect(line).not.toContain("write\t")
-})
-
-test("a sweep plans no unit to be enabled", () => {
-  const answer = infrastructureService(["sweep", "--dry-run"], HERE)
   for (const line of answer.report) expect(line).not.toContain("enable\t")
 })
 
-test("an act asking systemd for no named service is refused as the caller's fault", () => {
-  const answer = infrastructureService(["restart"], HERE)
+test("an act asking systemd for no named service is refused as the caller's fault", async () => {
+  const answer = await infrastructureService(["restart"], HERE)
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("name the service to restart")
 })
 
-test("an act asking systemd for two services is refused", () => {
-  const answer = infrastructureService(["stop", "one", "two"], HERE)
+test("an act asking systemd for two services is refused", async () => {
+  const answer = await infrastructureService(["stop", "one", "two"], HERE)
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("one service at a time")
 })
 
-test("every service is nothing an act asking systemd takes", () => {
-  const answer = infrastructureService(["start", "one", "--all"], HERE)
+test("every service is nothing an act asking systemd takes", async () => {
+  const answer = await infrastructureService(["start", "one", "--all"], HERE)
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("`--all`")
 })
 
-test("an act asking systemd for a slug no page carries is the data's fault", () => {
-  const answer = infrastructureService(["restart", "no-such-service-is-here"], HERE)
+test("an act asking systemd for a slug no page carries is the data's fault", async () => {
+  const answer = await infrastructureService(["restart", "no-such-service-is-here"], HERE)
   expect(answer.code).toBe(2)
   expect(answer.refusals[0]).toContain("no-such-service-is-here")
 })
 
-test("a dry run names the unit systemd would be asked about and asks nothing", () => {
-  const answer = infrastructureService(["restart", "pages-service", "--dry-run"], HERE)
+test("a dry run names the unit systemd would be asked about and asks nothing", async () => {
+  const answer = await infrastructureService(["restart", "pages-service", "--dry-run"], HERE)
   expect(answer.code).toBe(0)
   expect(answer.refusals).toEqual([])
   expect(answer.report[0]).toBe("restart\tpages-service.service")
   expect(answer.report[answer.report.length - 1]).toContain("dry-run")
+})
+
+test("a run naming no service is refused as the caller's fault", async () => {
+  const answer = await infrastructureService(["run"], HERE)
+  expect(answer.code).toBe(1)
+  expect(answer.refusals[0]).toContain("name the service to run")
+})
+
+test("a run naming two services is refused rather than chosen between", async () => {
+  const answer = await infrastructureService(["run", "one", "two"], HERE)
+  expect(answer.code).toBe(1)
+  expect(answer.refusals[0]).toContain("one service at a time")
+})
+
+test("a flag the run does not take is refused by name", async () => {
+  const answer = await infrastructureService(["run", "one", "--dry-run"], HERE)
+  expect(answer.code).toBe(1)
+  expect(answer.refusals[0]).toContain("`--dry-run`")
+})
+
+test("a run naming a slug no service page carries is the data's fault", async () => {
+  const answer = await infrastructureService(["run", "no-such-service-is-here"], HERE)
+  expect(answer.code).toBe(2)
+  expect(answer.refusals[0]).toContain("no-such-service-is-here")
+  expect(answer.report).toEqual([])
+})
+
+test("a service keeping no running code is refused by name rather than run", async () => {
+  const answer = await infrastructureService(["run", "pages-service"], HERE)
+  expect(answer.code).toBe(2)
+  expect(answer.refusals[0]).toContain("pages-service")
+  expect(answer.refusals[0]).toContain("running")
 })

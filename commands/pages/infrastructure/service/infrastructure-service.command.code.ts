@@ -1,3 +1,5 @@
+import { existsSync } from "node:fs"
+import { join } from "node:path"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
@@ -12,17 +14,25 @@ import {
   readFor,
 } from "akasha/infrastructure/services/workstations/service-reading/service-reading.module.code.ts"
 import { installedUnitName } from "akasha/infrastructure/services/workstations/unit-writing/unit-writing.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const INPUT = 1
 const DATA = 2
 const OPERATIONAL = 3
 const SWEEP = "sweep"
+const RUN = "run"
 const RESTART = "restart"
 const START = "start"
 const STOP = "stop"
 const ASKED: readonly string[] = [RESTART, START, STOP]
-const ACTS: readonly string[] = [SWEEP, ...ASKED]
+const ACTS: readonly string[] = [SWEEP, RUN, ...ASKED]
+const SERVICE_WORKSTATION = "service-workstation"
+const RUNNING = "running"
+const CODE = "code"
+const TS = "ts"
+const RUNS = "runService"
 const DRY_RUN = "--dry-run"
 const NOT_ASKED = "dry-run\tsystemd was not asked; run it again without `--dry-run` to carry it out"
 const NOT_SWEPT =
@@ -101,7 +111,58 @@ function asked(act: string, argv: readonly string[], given: Given): Answer {
   return { report: [`${act}\t${unit}`], refusals: [], code: 0 }
 }
 
-export function infrastructureService(argv: readonly string[], given: Given): Answer {
+export type Running = () => void | Promise<void>
+
+type Reached = { readonly running: Running } | { readonly refused: string }
+
+function runningAt(page: string): string | null {
+  return besideAt(page, `${RUNNING}.${CODE}`, TS)
+}
+
+async function reachedFor(root: string, slug: string): Promise<Reached> {
+  const found = listedAt(root, SERVICE_WORKSTATION, slug)[0]
+  if (found === undefined) return { refused: `no workstation service is slugged \`${slug}\`` }
+  const at = runningAt(found.path)
+  if (at === null) {
+    return { refused: `\`${slug}\` sits at \`${found.path}\`, which takes no code beside it` }
+  }
+  if (!existsSync(join(root, at))) {
+    return { refused: `\`${slug}\` keeps no \`${RUNNING}\` code at \`${at}\`` }
+  }
+  const held = (await import(join(root, at))) as Record<string, unknown>
+  const named = held[RUNS]
+  if (typeof named !== "function") {
+    return { refused: `\`${at}\` runs \`${slug}\`, and it exports no \`${RUNS}\`` }
+  }
+  return { running: named as Running }
+}
+
+async function ran(argv: readonly string[], given: Given): Promise<Answer> {
+  const named = argv.filter((one) => !one.startsWith("-"))
+  const strange = argv.find((one) => one.startsWith("-"))
+
+  if (strange !== undefined) {
+    return refused(
+      `\`${strange}\` is nothing \`akasha infrastructure service ${RUN}\` takes`,
+      INPUT
+    )
+  }
+
+  const slug = named[0]
+  if (slug === undefined) return refused(`name the service to ${RUN} by its slug`, INPUT)
+  if (named.length > 1) return refused(`this ${RUN}s one service at a time`, INPUT)
+
+  const reached = await reachedFor(given.root, slug)
+  if ("refused" in reached) return refused(reached.refused, DATA)
+
+  await reached.running()
+  return { report: [`${RUN}\t${slug}`], refusals: [], code: 0 }
+}
+
+export async function infrastructureService(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
   const act = argv[0]
   if (act === undefined) {
     return refused(`\`akasha infrastructure service\` takes an act, which is ${acts()}`, INPUT)
@@ -113,5 +174,7 @@ export function infrastructureService(argv: readonly string[], given: Given): An
     )
   }
   const rest = argv.slice(1)
-  return act === SWEEP ? swept(rest, given) : asked(act, rest, given)
+  if (act === SWEEP) return swept(rest, given)
+  if (act === RUN) return ran(rest, given)
+  return asked(act, rest, given)
 }
