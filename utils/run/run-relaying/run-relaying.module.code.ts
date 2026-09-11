@@ -1,5 +1,9 @@
 import { dlopen, FFIType } from "bun:ffi"
 import { closeSync, readSync, writeSync } from "node:fs"
+import { join } from "node:path"
+import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { resolveMappedLibc } from "akasha/utils/process/libc-mapping/libc-mapping.module.code.ts"
 import type { Asked, Held } from "akasha/utils/run/running/running.module.code.ts"
 
@@ -11,7 +15,13 @@ const SIZES = 12
 
 const LOST_CODE = -1
 
-const SERVING = new URL("../run-serving/run-serving.module.code.ts", import.meta.url).pathname
+const MODULE = "module"
+
+const SERVING = "run-serving"
+
+const CODE = "code"
+
+const TS = "ts"
 
 const libc = dlopen(resolveMappedLibc(), {
   pipe2: { args: [FFIType.ptr, FFIType.i32], returns: FFIType.i32 },
@@ -130,13 +140,23 @@ export function parseServingMarker(said: string | undefined): boolean {
   return said !== undefined && said.length > 0
 }
 
+function servingAt(): string {
+  const root = ownRepoRoot()
+  const page = listedAt(root, MODULE, SERVING)[0]
+  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
+  if (at === null) {
+    throw new Error(`no \`${MODULE}\` is slugged \`${SERVING}\`, so nothing would answer a run`)
+  }
+  return join(root, at)
+}
+
 function started(): Channel {
   if (parseServingMarker(process.env[SERVING_MARKER])) {
     throw new Error(`a process under ${SERVING_MARKER} starts no server of its own`)
   }
   const [askRead, askWrite] = piped()
   const [sayRead, sayWrite] = piped()
-  const source = `const served = await import(${JSON.stringify(SERVING)}); served.serving()`
+  const source = `const served = await import(${JSON.stringify(servingAt())}); served.serving()`
   const server = Bun.spawn(["bun", "-e", source], {
     stdin: askRead,
     stdout: sayWrite,
