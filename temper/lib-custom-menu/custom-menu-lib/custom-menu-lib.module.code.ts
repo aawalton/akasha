@@ -1,4 +1,4 @@
-import { asMenuRegistry } from "../custom-menu-casts/custom-menu-casts.module.code.ts"
+import { asMenuRegistry } from "akasha/temper/lib-custom-menu/custom-menu-casts/custom-menu-casts.module.code.ts"
 import {
   CATEGORY_EARLY,
   CATEGORY_LATE,
@@ -9,9 +9,9 @@ import {
   DIVIDER,
   HEADER_FONT,
   MENU_ADD_OPTION_HEADER,
-} from "../custom-menu-constants/custom-menu-constants.module.code.ts"
-import type { Lib } from "../custom-menu-types/custom-menu-types.module.code.ts"
-import { menu } from "../eso-menu/eso-menu.module.code.ts"
+} from "akasha/temper/lib-custom-menu/custom-menu-constants/custom-menu-constants.module.code.ts"
+import type { Lib } from "akasha/temper/lib-custom-menu/custom-menu-types/custom-menu-types.module.code.ts"
+import { menu } from "akasha/temper/lib-custom-menu/eso-menu/eso-menu.module.code.ts"
 import {
   checkBoxFactory,
   dividerFactory,
@@ -19,8 +19,8 @@ import {
   menuItemFactory,
   resetCheckBox,
   resetMenuItem,
-} from "../menu-row-factories/menu-row-factories.module.code.ts"
-import { subMenuItemFactory } from "../submenu-item/submenu-item.module.code.ts"
+} from "akasha/temper/lib-custom-menu/menu-row-factories/menu-row-factories.module.code.ts"
+import { subMenuItemFactory } from "akasha/temper/lib-custom-menu/submenu-item/submenu-item.module.code.ts"
 
 function addMenuItem(
   this: void,

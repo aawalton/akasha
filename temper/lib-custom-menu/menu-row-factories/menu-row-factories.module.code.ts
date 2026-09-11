@@ -2,9 +2,12 @@ import type {
   LcmLabel,
   LcmRowControl,
   PooledRow,
-} from "../custom-menu-types/custom-menu-types.module.code.ts"
-import { menu } from "../eso-menu/eso-menu.module.code.ts"
-import { setupDivider, setupHeader } from "../menu-row-setup/menu-row-setup.module.code.ts"
+} from "akasha/temper/lib-custom-menu/custom-menu-types/custom-menu-types.module.code.ts"
+import { menu } from "akasha/temper/lib-custom-menu/eso-menu/eso-menu.module.code.ts"
+import {
+  setupDivider,
+  setupHeader,
+} from "akasha/temper/lib-custom-menu/menu-row-setup/menu-row-setup.module.code.ts"
 
 let upInside: LcmRowControl | undefined
 

@@ -1,20 +1,26 @@
-import type { GlobalTable } from "../custom-menu-casts/custom-menu-casts.module.code.ts"
-import { asVoidSelfFn, asZoColorDef } from "../custom-menu-casts/custom-menu-casts.module.code.ts"
+import type { GlobalTable } from "akasha/temper/lib-custom-menu/custom-menu-casts/custom-menu-casts.module.code.ts"
+import {
+  asVoidSelfFn,
+  asZoColorDef,
+} from "akasha/temper/lib-custom-menu/custom-menu-casts/custom-menu-casts.module.code.ts"
 import {
   MENU_ADD_OPTION_HEADER,
   SUBMENU_ITEM_MOUSE_CLICKED,
   SUBMENU_ITEM_MOUSE_ENTER,
   SUBMENU_ITEM_MOUSE_EXIT,
-} from "../custom-menu-constants/custom-menu-constants.module.code.ts"
-import { LIB } from "../custom-menu-lib/custom-menu-lib.module.code.ts"
+} from "akasha/temper/lib-custom-menu/custom-menu-constants/custom-menu-constants.module.code.ts"
+import { LIB } from "akasha/temper/lib-custom-menu/custom-menu-lib/custom-menu-lib.module.code.ts"
 import type {
   LcmSubmenuParent,
   MenuEntry,
   TooltipValue,
   Valued,
-} from "../custom-menu-types/custom-menu-types.module.code.ts"
-import { menu } from "../eso-menu/eso-menu.module.code.ts"
-import { getValueOrCallback, noop } from "../menu-row-setup/menu-row-setup.module.code.ts"
+} from "akasha/temper/lib-custom-menu/custom-menu-types/custom-menu-types.module.code.ts"
+import { menu } from "akasha/temper/lib-custom-menu/eso-menu/eso-menu.module.code.ts"
+import {
+  getValueOrCallback,
+  noop,
+} from "akasha/temper/lib-custom-menu/menu-row-setup/menu-row-setup.module.code.ts"
 
 function addCustomMenuItem(
   this: void,

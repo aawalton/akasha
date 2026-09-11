@@ -1,4 +1,4 @@
-import { asLcmLabel } from "../custom-menu-casts/custom-menu-casts.module.code.ts"
+import { asLcmLabel } from "akasha/temper/lib-custom-menu/custom-menu-casts/custom-menu-casts.module.code.ts"
 import {
   DEFAULT_ITEM_FONT,
   DIVIDER,
@@ -6,24 +6,27 @@ import {
   MENU_ADD_OPTION_HEADER,
   SUBMENU_ITEM_MOUSE_ENTER,
   SUBMENU_ITEM_MOUSE_EXIT,
-} from "../custom-menu-constants/custom-menu-constants.module.code.ts"
+} from "akasha/temper/lib-custom-menu/custom-menu-constants/custom-menu-constants.module.code.ts"
 import type {
   LcmLabel,
   LcmRowControl,
   Submenu,
-} from "../custom-menu-types/custom-menu-types.module.code.ts"
-import { menu } from "../eso-menu/eso-menu.module.code.ts"
+} from "akasha/temper/lib-custom-menu/custom-menu-types/custom-menu-types.module.code.ts"
+import { menu } from "akasha/temper/lib-custom-menu/eso-menu/eso-menu.module.code.ts"
 import {
   getValueOrCallback,
   runTooltip,
   setupDivider,
   setupHeader,
-} from "../menu-row-setup/menu-row-setup.module.code.ts"
+} from "akasha/temper/lib-custom-menu/menu-row-setup/menu-row-setup.module.code.ts"
 import {
   DEFAULT_TEXT_COLOR,
   DEFAULT_TEXT_HIGHLIGHT,
-} from "../submenu-text-colors/submenu-text-colors.module.code.ts"
-import { clearTimeout, setTimeout } from "../submenu-timeout/submenu-timeout.module.code.ts"
+} from "akasha/temper/lib-custom-menu/submenu-text-colors/submenu-text-colors.module.code.ts"
+import {
+  clearTimeout,
+  setTimeout,
+} from "akasha/temper/lib-custom-menu/submenu-timeout/submenu-timeout.module.code.ts"
 
 const wm = WINDOW_MANAGER
 

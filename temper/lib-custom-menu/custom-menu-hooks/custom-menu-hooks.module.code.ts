@@ -1,13 +1,16 @@
-import type { GlobalFnTable } from "../custom-menu-casts/custom-menu-casts.module.code.ts"
+import type { GlobalFnTable } from "akasha/temper/lib-custom-menu/custom-menu-casts/custom-menu-casts.module.code.ts"
 import {
   asLcmControlBase,
   asSlotActionsTable,
   asZoInventorySlotActions,
-} from "../custom-menu-casts/custom-menu-casts.module.code.ts"
-import { LIB } from "../custom-menu-lib/custom-menu-lib.module.code.ts"
-import { menu } from "../eso-menu/eso-menu.module.code.ts"
-import { cleanupEntryHeights, runTooltip } from "../menu-row-setup/menu-row-setup.module.code.ts"
-import { clearTimeout } from "../submenu-timeout/submenu-timeout.module.code.ts"
+} from "akasha/temper/lib-custom-menu/custom-menu-casts/custom-menu-casts.module.code.ts"
+import { LIB } from "akasha/temper/lib-custom-menu/custom-menu-lib/custom-menu-lib.module.code.ts"
+import { menu } from "akasha/temper/lib-custom-menu/eso-menu/eso-menu.module.code.ts"
+import {
+  cleanupEntryHeights,
+  runTooltip,
+} from "akasha/temper/lib-custom-menu/menu-row-setup/menu-row-setup.module.code.ts"
+import { clearTimeout } from "akasha/temper/lib-custom-menu/submenu-timeout/submenu-timeout.module.code.ts"
 
 const everyGlobal: unknown = globalThis
 const glob = everyGlobal as GlobalFnTable

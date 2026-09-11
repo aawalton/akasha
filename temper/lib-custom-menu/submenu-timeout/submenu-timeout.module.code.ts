@@ -1,4 +1,4 @@
-import { SUBMENU_SHOW_TIMEOUT } from "../custom-menu-constants/custom-menu-constants.module.code.ts"
+import { SUBMENU_SHOW_TIMEOUT } from "akasha/temper/lib-custom-menu/custom-menu-constants/custom-menu-constants.module.code.ts"
 
 const HANDLE_PREFIX = "LibCustomMenuSubMenuTimeout"
 
