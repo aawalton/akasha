@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { requiredIn } from "akasha/changes/modules/key-requiring/key-requiring.module.code.ts"
 import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { holdingOver } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const ROOT = "/var/tmp/key-requiring"
 
@@ -28,12 +29,7 @@ const BARE = `import type { Held } from "./held.page-type.ts"
 export type Also = Held
 `
 
-function holding(body: string): (path: string) => string | null {
-  return (path) => {
-    if (path === PAGE) return body
-    return path === TYPE ? DECLARED : null
-  }
-}
+const holding = holdingOver(PAGE, TYPE, DECLARED)
 
 function requiring(key: string, textOf: (path: string) => string | null): boolean | null {
   return requiredIn(worldAt(ROOT, textOf), { at: PAGE, key })

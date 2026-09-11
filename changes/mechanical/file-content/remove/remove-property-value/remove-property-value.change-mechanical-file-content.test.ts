@@ -3,7 +3,10 @@ import { removePropertyValue } from "akasha/changes/mechanical/file-content/remo
 import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { bodyOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import {
+  bodyOf,
+  holdingOver,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const ROOT = "/var/tmp/remove-property-value"
 
@@ -33,12 +36,7 @@ export const held = {
 } as const satisfies Held
 `
 
-function holding(body: string): (path: string) => string | null {
-  return (path) => {
-    if (path === PAGE) return body
-    return path === TYPE ? DECLARED : null
-  }
-}
+const holding = holdingOver(PAGE, TYPE, DECLARED)
 
 function saidOf(key: string, value: string, textOf: (path: string) => string | null): Answer {
   return removePropertyValue(worldAt(ROOT, textOf), { at: PAGE, key, value })

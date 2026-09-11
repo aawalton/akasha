@@ -190,6 +190,17 @@ export function refusalOf(said: Answer, textOf: BodyOf = () => null): string {
   return "refused" in held ? held.refused : ""
 }
 
+export function holdingOver(
+  at: string,
+  typeAt: string,
+  declared: string
+): (body: string) => (path: string) => string | null {
+  return (body) => (path) => {
+    if (path === at) return body
+    return path === typeAt ? declared : null
+  }
+}
+
 export function worldOf(held: Readonly<Record<string, string>>): World {
   return {
     root: "/nowhere",

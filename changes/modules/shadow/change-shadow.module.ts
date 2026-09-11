@@ -16,6 +16,11 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A reader answering one page's body and its type's body is built here rather than by each test.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A world reaching one address is built here rather than by each test.",
     },
     {
