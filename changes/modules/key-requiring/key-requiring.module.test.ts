@@ -1,68 +1,43 @@
 import { expect, test } from "bun:test"
 import { requiredIn } from "akasha/changes/modules/key-requiring/key-requiring.module.code.ts"
-import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
-  bodyAt,
-  holdingOver,
+  declaring,
+  worldKnowing,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-
-const ROOT = "/var/tmp/key-requiring"
+import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 
 const PAGE = "akasha/one/held.module.ts"
 
-const TYPE = "akasha/one/held.page-type.ts"
+const BESIDE = "akasha/one/held.module.code.ts"
 
-const DECLARED = `export type Held = {
-  slug: string
-  definition?: string
-  partSlugs?: readonly string[]
-}
-`
+const NAMES_NO_PAGE = "akasha/one/README"
 
-const BODY = `import type { Held } from "./held.page-type.ts"
+const DECLARED: readonly Carried[] = [declaring("slug", true), declaring("definition", false)]
 
-export const held = {
-  slug: "held",
-  definition: "one thing",
-} as const satisfies Held
-`
-
-const BARE = `import type { Held } from "./held.page-type.ts"
-
-export type Also = Held
-`
-
-const holding = holdingOver(PAGE, TYPE, DECLARED)
-
-function requiring(key: string, textOf: (path: string) => string | null): boolean | null {
-  return requiredIn(worldAt(ROOT, textOf), { at: PAGE, key })
+function requiring(at: string, key: string, held: readonly Carried[] | null = DECLARED) {
+  return requiredIn(worldKnowing({}, held), { at, key })
 }
 
-test("a key the type marks neither absent nor optional is required", () => {
-  expect(requiring("slug", holding(BODY))).toBe(true)
+test("a key the page type declares as required is required", () => {
+  expect(requiring(PAGE, "slug")).toBe(true)
 })
 
-test("a key the type marks optional is not required", () => {
-  expect(requiring("definition", holding(BODY))).toBe(false)
+test("a key the page type declares as not required is not required", () => {
+  expect(requiring(PAGE, "definition")).toBe(false)
 })
 
-test("a key the type marks optional is not required though the body holds no value under it", () => {
-  expect(requiring("partSlugs", holding(BODY))).toBe(false)
+test("a key the page type declares no property under is not required", () => {
+  expect(requiring(PAGE, "cover")).toBe(false)
 })
 
-test("a key the type states no property under is not required", () => {
-  expect(requiring("cover", holding(BODY))).toBe(false)
+test("a page type the index answers nothing for is answered as neither required nor not", () => {
+  expect(requiring(PAGE, "slug", null)).toBe(null)
 })
 
-test("a page that could not be read is answered as neither required nor not", () => {
-  expect(requiring("slug", () => null)).toBe(null)
+test("a path naming no page is answered as neither required nor not", () => {
+  expect(requiring(NAMES_NO_PAGE, "slug")).toBe(null)
 })
 
-test("a page holding no literal is answered as neither required nor not", () => {
-  expect(requiring("slug", holding(BARE))).toBe(null)
-})
-
-test("a type that could not be read is answered as neither required nor not", () => {
-  const textOf = bodyAt(PAGE, BODY)
-  expect(requiring("slug", textOf)).toBe(null)
+test("a file beside a page rather than the page is answered as neither required nor not", () => {
+  expect(requiring(BESIDE, "slug")).toBe(null)
 })

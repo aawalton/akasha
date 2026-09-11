@@ -5,42 +5,47 @@ export const keyRequiring = {
   pageTypeSlug: "module",
   type: "module",
   slug: "key-requiring",
-  definition: "whether the type a page's literal satisfies requires a key",
+  definition: "whether the page type a page is requires a key",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The type a page's literal satisfies says whether a key is required.",
+      statement: "The page type a page's file name states says whether a key is required.",
     },
     {
       invariantKind: "departure",
-      statement: "The type is read over the bodies the world has rather than the bodies on disk.",
+      statement: "That page type is read through the world's index rather than off disk.",
     },
     {
       invariantKind: "departure",
-      statement: "A page with no literal is answered as neither required nor not.",
+      statement: "A path naming no page is answered as neither required nor not.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A contextual type read as `any` or `unknown` is answered as neither required nor not.",
+        "A file beside a page rather than the page is answered as neither required nor not.",
     },
     {
       invariantKind: "departure",
-      statement: "A key the type states no property under is not required.",
+      statement:
+        "A page type the index answers nothing for is answered as neither required nor not.",
     },
     {
       invariantKind: "departure",
-      statement: "A key the type marks optional is not required.",
+      statement: "A key the page type declares no property under is not required.",
     },
     {
       invariantKind: "departure",
-      statement: "A key the type marks neither absent nor optional is required.",
+      statement: "A key the page type declares as not required is not required.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key the page type declares as required is required.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads the index.",
+      statement: "Nothing here reads the page's body.",
     },
     {
       invariantKind: "absence",

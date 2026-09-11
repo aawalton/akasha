@@ -22,7 +22,7 @@ export const removePropertyValue = {
     },
     {
       invariantKind: "departure",
-      statement: "Whether a property is required is read from the type the page's body satisfies.",
+      statement: "Whether a property is required is read from the page type the page is.",
     },
     {
       invariantKind: "departure",
@@ -48,10 +48,6 @@ export const removePropertyValue = {
       invariantKind: "departure",
       statement:
         "The passage answered is the lines the value is taken out of rather than the body.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Nothing here reads the index.",
     },
     {
       invariantKind: "absence",

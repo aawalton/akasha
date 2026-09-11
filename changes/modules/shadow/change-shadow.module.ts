@@ -26,7 +26,11 @@ export const changeShadow = {
     {
       invariantKind: "departure",
       statement:
-        "A reader answering one page's body and its type's body is built here rather than by each test.",
+        "A world whose index answers what a page type carries is built here rather than by each test.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One such property is built here rather than by each test.",
     },
     {
       invariantKind: "departure",

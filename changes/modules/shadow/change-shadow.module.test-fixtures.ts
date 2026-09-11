@@ -213,17 +213,6 @@ export function bodyAt(at: string, body: string): (path: string) => string | nul
   return (path) => (path === at ? body : null)
 }
 
-export function holdingOver(
-  at: string,
-  typeAt: string,
-  declared: string
-): (body: string) => (path: string) => string | null {
-  return (body) => (path) => {
-    if (path === at) return body
-    return path === typeAt ? declared : null
-  }
-}
-
 export function worldOf(held: Readonly<Record<string, string>>): World {
   return {
     root: "/nowhere",
@@ -234,6 +223,30 @@ export function worldOf(held: Readonly<Record<string, string>>): World {
     base: (path) => held[path] ?? null,
     over: NOTHING_OVER,
   }
+}
+
+export function declaring(key: string, required: boolean): Declared {
+  return {
+    pagePropertySlug: `text-property/${key}`,
+    pageTypeSlug: "text-property",
+    propertySlug: key,
+    key,
+    unique: null,
+    declaredBy: "module",
+    required,
+    many: false,
+    maxCount: null,
+    maxLength: null,
+    uncommitted: false,
+    secret: false,
+  }
+}
+
+export function worldKnowing(
+  held: Readonly<Record<string, string>>,
+  carried: readonly Declared[] | null
+): World {
+  return { ...worldOf(held), index: { propertiesIfNamed: () => carried } as never }
 }
 
 export type Carried = { at: string; given: unknown }
