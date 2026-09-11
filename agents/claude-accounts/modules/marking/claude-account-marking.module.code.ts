@@ -16,6 +16,7 @@ import {
   mergeUncommitted,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 import { z } from "zod"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
@@ -82,10 +83,6 @@ export type UsageWindow = {
 export type Usage = {
   readonly fiveHour: UsageWindow
   readonly sevenDay: UsageWindow
-}
-
-function listed(keys: readonly string[]): string {
-  return keys.map((one) => `\`${one}\``).join(", ")
 }
 
 export function instantOf(ms: number): string | null {
@@ -184,19 +181,19 @@ export function sortedFrom(routing: Routing, marks: Given): Sorted {
   if (unnamed.length > 0) {
     return {
       kind: "refused",
-      why: `${listed(unnamed)} names nothing the claude-account page type declares, so where to write it is unknown`,
+      why: `${namesDrawn(unnamed)} names nothing the claude-account page type declares, so where to write it is unknown`,
     }
   }
   if (secret.length > 0) {
     return {
       kind: "refused",
-      why: `${listed(secret)} is a secret the sops file beside the page holds rather than a mark`,
+      why: `${namesDrawn(secret)} is a secret the sops file beside the page holds rather than a mark`,
     }
   }
   if (stated.length > 0) {
     return {
       kind: "refused",
-      why: `${listed(stated)} is what the account states rather than a reading taken of that account, and what an account states is settled when the account is made`,
+      why: `${namesDrawn(stated)} is what the account states rather than a reading taken of that account, and what an account states is settled when the account is made`,
     }
   }
   const wrong = unfit[0]
