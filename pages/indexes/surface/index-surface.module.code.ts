@@ -27,7 +27,6 @@ function linesOf(at: string): readonly string[] {
 }
 
 export function readingAt(index: string): Reading {
-  const held = new Map<string, readonly string[]>()
   return {
     holds: (at) => existsSync(join(index, at)),
     listing: (at) => {
@@ -40,13 +39,7 @@ export function readingAt(index: string): Reading {
         return []
       }
     },
-    lines: (at) => {
-      const found = held.get(at)
-      if (found !== undefined) return found
-      const made = linesOf(join(index, at))
-      held.set(at, made)
-      return made
-    },
+    lines: (at) => linesOf(join(index, at)),
   }
 }
 
