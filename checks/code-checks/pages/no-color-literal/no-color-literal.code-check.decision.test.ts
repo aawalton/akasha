@@ -4,10 +4,12 @@ import {
   judgedAt as judging,
 } from "akasha/checks/code-checks/pages/no-color-literal/no-color-literal.code-check.decision.code.ts"
 import {
+  COLOR_AT,
   coded,
   dressed,
   GRANTED_AT,
   HOME,
+  PALETTE_AT,
   PASSING,
   passingAt,
   ROOT,
@@ -94,8 +96,8 @@ test("a value no grant names is refused in a file holding a grant", () => {
 })
 
 test("the palette's own home is judged by nothing", () => {
-  expect(judgedAt("design/system/token-values/token-values.stylesheet.styles.css")).toBe(false)
-  expect(found("design/colors/pages/yellow.color.ts", 'const hex = "#b87b11"\n')).toEqual([])
+  expect(judgedAt(PALETTE_AT)).toBe(false)
+  expect(found(COLOR_AT, 'const hex = "#b87b11"\n')).toEqual([])
 })
 
 test("a test body and a generated body are judged by nothing", () => {

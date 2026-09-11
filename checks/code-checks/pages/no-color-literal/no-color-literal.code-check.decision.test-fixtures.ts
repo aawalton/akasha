@@ -25,6 +25,8 @@ export const PAGE_AT = "alan/web/held/held.module.ts"
 
 export const PALETTE_AT = "design/tokens/token-values.stylesheet.styles.css"
 
+export const COLOR_AT = "design/colors/pages/yellow.color.ts"
+
 export const PASSING: Passing = {
   palette: "design/",
   home: HOME,
