@@ -40,10 +40,6 @@ function EditableNumber({
     }
   }
 
-  function handleCancel() {
-    setEditing(false)
-  }
-
   React.useEffect(() => {
     if (editing) {
       inputRef.current?.focus()
@@ -78,7 +74,7 @@ function EditableNumber({
               handleCommit()
             } else if (e.key === "Escape") {
               e.preventDefault()
-              handleCancel()
+              setEditing(false)
             }
           }}
           onBlur={handleCommit}

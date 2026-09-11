@@ -104,10 +104,6 @@ function NumberBadgeEditable({
     }
   }
 
-  function handleCancel() {
-    setEditing(false)
-  }
-
   React.useEffect(() => {
     if (editing) {
       requestAnimationFrame(() => {
@@ -151,7 +147,7 @@ function NumberBadgeEditable({
                 handleCommit()
               } else if (e.key === "Escape") {
                 e.preventDefault()
-                handleCancel()
+                setEditing(false)
               }
             }}
             onBlur={handleCommit}
