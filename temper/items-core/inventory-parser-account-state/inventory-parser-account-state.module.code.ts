@@ -1,4 +1,5 @@
 import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
+import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 
 export function parseOpenCooldowns(raw: unknown): Record<string, number> | undefined {
   const obj = asRecord(raw)
@@ -32,9 +33,9 @@ export function parseCraftingLevels(
 }
 
 export function parseTransmuteCrystalCap(raw: unknown): number | undefined {
-  return typeof raw === "number" ? raw : undefined
+  return parseNumber(raw)
 }
 
 export function parseTransmuteCrystalAmount(raw: unknown): number | undefined {
-  return typeof raw === "number" ? raw : undefined
+  return parseNumber(raw)
 }

@@ -9,6 +9,7 @@ import type {
   CompanionCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
 import { parseTimestamp } from "akasha/utils/narrow/parse-timestamp/parse-timestamp.module.code.ts"
 import { useMemo } from "react"
@@ -55,7 +56,7 @@ function parseOptionalString(value: unknown): string | undefined {
 }
 
 function parseOptionalNumber(value: unknown): number | undefined {
-  return typeof value === "number" ? value : undefined
+  return parseNumber(value)
 }
 
 function parseStringArray(value: unknown): readonly string[] {

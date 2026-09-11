@@ -23,6 +23,7 @@ import { parseItemLink } from "akasha/temper/items-core/item-link-parser/item-li
 import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
+import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 
 function asNumber(value: unknown): number {
   return typeof value === "number" ? value : 0
@@ -65,7 +66,7 @@ function isItemLinkBound(itemLink: string): boolean {
 }
 
 function asOptionalNumber(value: unknown): number | undefined {
-  return typeof value === "number" ? value : undefined
+  return parseNumber(value)
 }
 
 function asOptionalString(value: unknown): string | undefined {

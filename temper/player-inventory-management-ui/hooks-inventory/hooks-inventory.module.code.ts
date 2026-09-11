@@ -6,6 +6,7 @@ import { assembleInventory } from "akasha/temper/items-core/assemble-inventory/a
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import { chunksStillLoading } from "akasha/temper/player-inventory-management-ui/chunks-loading/chunks-loading.module.code.ts"
 import type { PricingData } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
+import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 import { useMemo } from "react"
 
@@ -20,7 +21,7 @@ interface InventorySnapshotRow {
 }
 
 function readNumber(value: unknown): number | undefined {
-  return typeof value === "number" ? value : undefined
+  return parseNumber(value)
 }
 
 function mapSnapshotRow(row: Record<string, unknown>): InventorySnapshotRow {

@@ -1,9 +1,10 @@
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 import { z } from "zod"
 
 function readNumber(value: unknown): number | undefined {
-  return typeof value === "number" ? value : undefined
+  return parseNumber(value)
 }
 
 const INVENTORY_DATABASE_SCHEMA: z.ZodType<InventoryDatabase> = z.custom<InventoryDatabase>(
