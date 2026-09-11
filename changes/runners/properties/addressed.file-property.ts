@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type Addressed = "ts"
-
 export const addressed = {
   id: "01a077c9-302e-73d9-ab09-7e86e4854566",
   pageTypeSlug: "file-property",
@@ -42,4 +40,5 @@ export const addressed = {
       statement: "Nothing the map holds survives into the code that runs.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty
