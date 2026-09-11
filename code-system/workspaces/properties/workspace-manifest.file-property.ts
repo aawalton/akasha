@@ -10,4 +10,5 @@ export const workspaceManifest = {
   propertySlug: "workspace-manifest",
   definition: "what a workspace states about itself",
   fileName: "package.json",
+  toolResolvesPaths: true,
 } as const satisfies FileProperty

@@ -10,4 +10,5 @@ export const testPreload = {
   propertySlug: "test-preload",
   definition: "what a test run loads before the first test",
   fileName: "bunfig.toml",
+  toolResolvesPaths: true,
 } as const satisfies FileProperty

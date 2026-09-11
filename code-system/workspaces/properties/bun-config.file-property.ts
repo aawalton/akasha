@@ -10,4 +10,5 @@ export const bunConfig = {
   propertySlug: "bun-config",
   definition: "what the package manager is told about this tree",
   fileName: "bunfig.toml",
+  toolResolvesPaths: true,
 } as const satisfies FileProperty

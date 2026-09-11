@@ -11,4 +11,5 @@ export const manifest = {
   definition: "what a package states about itself",
   fileName: "package.json",
   runsFileLength: false,
+  toolResolvesPaths: true,
 } as const satisfies FileProperty
