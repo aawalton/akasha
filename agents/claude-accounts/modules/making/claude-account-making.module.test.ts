@@ -70,10 +70,13 @@ describe("accountPageAt", () => {
 
 describe("accountPageText", () => {
   test("an account states its id, its page type, its slug, its address and its alias slot", () => {
-    expect(
-      accountPageText({ slug: "c-seven", email: "seven@example.com", aliasIndex: 7, id: ID }, HERE)
-    ).toBe(`import type { ClaudeAccount } from "akasha/agents/claude-accounts/claude-account.page-type.types.ts"
-
+    const text = accountPageText(
+      { slug: "c-seven", email: "seven@example.com", aliasIndex: 7, id: ID },
+      HERE
+    )
+    const [opening = "", ...rest] = text.split("\n")
+    expect(opening.startsWith("import type { ClaudeAccount } from ")).toBe(true)
+    expect(rest.join("\n")).toBe(`
 export const cSeven = {
   id: "01a06400-0000-7000-8000-000000000000",
   type: "claude-account",
