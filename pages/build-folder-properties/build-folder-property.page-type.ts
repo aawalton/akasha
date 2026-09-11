@@ -22,6 +22,10 @@ export const buildFolderProperty = {
       statement: "A build folder has a body that is not text.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every folder a build writes is declared by a property of this type.",
+    },
+    {
       invariantKind: "gap",
       statement: "A change moving a folder leaves out the folders this property names.",
     },

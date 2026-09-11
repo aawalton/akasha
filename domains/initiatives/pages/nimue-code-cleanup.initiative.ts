@@ -28,11 +28,6 @@ export const nimueCodeCleanup = {
       workingMemory:
         "`akasha audit --check folder-matches-a-shape --file-path code-system` judges 561 files and answers 1 refusal, at the repository root, where `akasha.domain.ts` and `akasha-workspace.workspace.ts` sit as two pages in one folder. That refusal is the workspace's rather than this initiative's. What is left is the move itself, and there is no `code` folder yet.\n",
     },
-    {
-      statement: "Every folder a build writes is declared as a build folder property.",
-      workingMemory:
-        "Declared: `www` on an ios app, `.react-router`, `dist` and `build` on a router app, `generated` on a manifest, `__pycache__` on a python module, `node_modules` on the workspace. `alan/web/generated` is gone; a synth writes beside its own `.manifest.code.ts`, which moved to `alan/web/alanwalton-web/`. Left is `temper/addons/dist`, which the addon build writes. A build folder is `dirname(page)` joined to `folderName`, so only a page at `temper/addons` claims it, and nothing authored sits there.",
-    },
   ],
   constraints: [
     "The relative addresses reaching into the folder are repointed inside the move rather than by a landing before it.",
