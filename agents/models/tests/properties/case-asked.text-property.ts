@@ -6,7 +6,7 @@ export const caseAsked = {
   slug: "case-asked",
   propertySlug: "asked",
   definition: "what a case has the person say before the words the case puts to a model",
-  maxLength: 200,
+  maxLength: 6000,
   nameFormat: null,
   types: "ts",
 } as const satisfies TextProperty
