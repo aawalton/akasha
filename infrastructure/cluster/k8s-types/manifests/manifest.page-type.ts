@@ -30,6 +30,11 @@ export const manifest = {
       invariantKind: "departure",
       statement: "A container told to run start runs in a package stating a start script.",
     },
+    {
+      invariantKind: "upkeep",
+      statement:
+        "A manifest's checksum annotation sums a secret or config that manifest names in an invariant.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType

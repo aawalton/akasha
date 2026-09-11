@@ -9,12 +9,6 @@ export const theaChecksSystem = {
   persona: "thea",
   intents: [
     {
-      statement: "Every checksum annotation a workload has derives from a secret its page names.",
-      workingMemory:
-        "All 16 sites surveyed; every page now names what it hashes. 11 derive from a secret across 10 workloads; every value agrees with the live Secret, the generated yaml and the running pod. 5 hash config through a pure function of its argument, emitted from one value in one synth, so they cannot disagree. 3 mount a second Secret unhashed; 17 annotate none. The committed yaml pictures a thing that moves: authority is the reading at synth, and a diff against a fresh synth is the design working.",
-    },
-
-    {
       statement: "No finding is filed on checks-system or any part beneath it.",
       workingMemory:
         "7 findings name domain/check and none names a part beneath it, from 17; one names folder-matches-a-shape and is out of scope. Every one that went, went by mending rather than disposing: a check reading config through the change, a mirror holding only what the change carries, a process bound proven impossible rather than unbitten. Disposal cannot reach this. The tree filed 6, 2, 16, 24 and 28 over five days and 11 in four hours, one at 21:41 dead at 21:45.",
