@@ -1,4 +1,4 @@
-import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.types.ts"
+import type { StoryWikiEntry } from "akasha/story/wiki-entries/story-wiki-entry.page-type.types.ts"
 
 export const theFallFirstCull = {
   id: "01a0657d-bb98-719d-a172-eb1f14efc911",

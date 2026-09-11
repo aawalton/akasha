@@ -1,4 +1,4 @@
-import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.types.ts"
+import type { StoryWikiEntry } from "akasha/story/wiki-entries/story-wiki-entry.page-type.types.ts"
 
 export const nimue = {
   id: "01a0657d-bb97-7be4-81e0-56e20296e8b2",

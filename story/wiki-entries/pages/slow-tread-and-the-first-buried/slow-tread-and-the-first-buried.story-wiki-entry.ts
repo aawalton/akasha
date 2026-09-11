@@ -1,4 +1,4 @@
-import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.types.ts"
+import type { StoryWikiEntry } from "akasha/story/wiki-entries/story-wiki-entry.page-type.types.ts"
 
 export const slowTreadAndTheFirstBuried = {
   id: "01a0657d-bb95-76c4-8244-dea0fd7d5f9f",

@@ -1,4 +1,4 @@
-import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.types.ts"
+import type { StoryWikiEntry } from "akasha/story/wiki-entries/story-wiki-entry.page-type.types.ts"
 
 export const theWakingStoneTheCore = {
   id: "01a0657d-bb96-7f95-b06e-d416be62f365",
