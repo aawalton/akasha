@@ -6,7 +6,7 @@ export const aelwyn = {
   type: "seat",
   slug: "aelwyn",
   persona: "aelwyn",
-  assignmentSlug: "domain/fitness",
+  assignmentSlug: "initiative/aelwyn-strength-training",
   role: "coach",
   person: "alan",
   startMode: "interactive",
