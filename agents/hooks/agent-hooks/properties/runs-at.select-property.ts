@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const runsAt = {
   id: "01a04e0a-f8fb-7beb-b0b8-ac268528b27e",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "runs-at",
   propertySlug: "runs-at",

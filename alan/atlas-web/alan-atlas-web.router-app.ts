@@ -2,7 +2,6 @@ import type { RouterApp } from "akasha/code/router-apps/router-app.page-type.typ
 
 export const alanAtlasWeb = {
   id: "01a06582-6b30-78d1-8b0b-1d3af65a8bcd",
-  pageTypeSlug: "router-app",
   type: "router-app",
   slug: "alan-atlas-web",
   definition: "the routes Alan's map site serves to a browser",

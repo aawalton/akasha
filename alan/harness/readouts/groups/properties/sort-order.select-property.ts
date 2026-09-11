@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const sortOrder = {
   id: "01a063bd-a526-7474-a7c9-3980d10c48b3",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "sort-order",
   propertySlug: "sort-order",

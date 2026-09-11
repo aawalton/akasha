@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const laterality = {
   id: "01a0657e-2bbf-7361-b107-9e463ab38778",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "laterality",
   propertySlug: "laterality",

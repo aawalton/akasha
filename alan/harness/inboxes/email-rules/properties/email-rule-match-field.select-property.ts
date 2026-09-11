@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const emailRuleMatchField = {
   id: "01a06860-549f-7cea-a615-3d15b6c3ddce",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "email-rule-match-field",
   propertySlug: "field",

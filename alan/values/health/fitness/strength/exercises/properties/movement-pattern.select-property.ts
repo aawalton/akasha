@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const movementPattern = {
   id: "01a0657e-2bbf-7dea-b8cd-ef434268cd50",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "movement-pattern",
   propertySlug: "movement-pattern",

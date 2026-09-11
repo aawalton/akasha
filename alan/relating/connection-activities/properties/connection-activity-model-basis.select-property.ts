@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const connectionActivityModelBasis = {
   id: "01a0658e-c30e-7f33-9570-3b9eca01266e",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "connection-activity-model-basis",
   propertySlug: "connection-activity-model-basis",

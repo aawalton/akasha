@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const written = {
   id: "01a06243-144b-7009-8017-c942088ed2c7",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "written",
   propertySlug: "written",

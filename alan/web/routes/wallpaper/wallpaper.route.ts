@@ -2,7 +2,6 @@ import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const wallpaper = {
   id: "01a07855-477e-7aa1-8183-3cb381287569",
-  pageTypeSlug: "route",
   type: "route",
   slug: "wallpaper",
   definition: "the persona Alan wrote to most recently, answered as a picture for his phone",

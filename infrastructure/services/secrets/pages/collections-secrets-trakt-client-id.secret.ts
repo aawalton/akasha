@@ -2,7 +2,6 @@ import type { Secret } from "akasha/infrastructure/services/secrets/secret.page-
 
 export const collectionsSecretsTraktClientId = {
   id: "01a076b8-0030-703a-a416-3d07a27e3895",
-  pageTypeSlug: "secret",
   type: "secret",
   slug: "collections-secrets-trakt-client-id",
   placements: [{ resourceName: "alanwalton-secrets", resourceKey: "TRAKT_CLIENT_ID" }],

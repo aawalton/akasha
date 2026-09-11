@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const primaryMuscles = {
   id: "01a0657e-2bc0-76e6-9024-ceadf74cf40b",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "primary-muscles",
   propertySlug: "primary-muscles",

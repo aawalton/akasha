@@ -2,7 +2,6 @@ import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const atlasApiPlacesAdd = {
   id: "01a0883b-b4dd-7183-8f6a-4afc210a6fc8",
-  pageTypeSlug: "route",
   type: "route",
   slug: "atlas-api-places-add",
   definition: "the location page a reader keeps a found place as",

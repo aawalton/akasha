@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const lockState = {
   id: "01a06596-f0d5-700b-af22-da0e38963974",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "lock-state",
   propertySlug: "lock-state",

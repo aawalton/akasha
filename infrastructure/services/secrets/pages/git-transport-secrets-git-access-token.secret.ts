@@ -2,7 +2,6 @@ import type { Secret } from "akasha/infrastructure/services/secrets/secret.page-
 
 export const gitTransportSecretsGitAccessToken = {
   id: "01a06832-cf2d-7c2b-a782-eb5f6fc1dc27",
-  pageTypeSlug: "secret",
   type: "secret",
   slug: "git-transport-secrets-git-access-token",
   placements: [

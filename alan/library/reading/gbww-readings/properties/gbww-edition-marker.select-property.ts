@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const gbwwEditionMarker = {
   id: "01a0659f-93da-7017-ae3f-0e9294f8b40f",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "gbww-edition-marker",
   propertySlug: "edition-marker",

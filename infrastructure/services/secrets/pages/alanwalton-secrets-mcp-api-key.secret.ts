@@ -2,7 +2,6 @@ import type { Secret } from "akasha/infrastructure/services/secrets/secret.page-
 
 export const alanwaltonSecretsMcpApiKey = {
   id: "01a076b8-c99e-7131-9583-f1eb92ab5dbb",
-  pageTypeSlug: "secret",
   type: "secret",
   slug: "alanwalton-secrets-mcp-api-key",
   placements: [{ resourceName: "alanwalton-secrets", resourceKey: "MCP_API_KEY" }],

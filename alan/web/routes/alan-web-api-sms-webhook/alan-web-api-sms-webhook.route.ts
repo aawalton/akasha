@@ -2,7 +2,6 @@ import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const alanWebApiSmsWebhook = {
   id: "01a08830-10e1-711f-916e-888aba8c6066",
-  pageTypeSlug: "route",
   type: "route",
   slug: "alan-web-api-sms-webhook",
   definition: "the inbound text Telnyx hands this app",

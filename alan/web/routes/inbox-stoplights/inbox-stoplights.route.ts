@@ -2,7 +2,6 @@ import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const inboxStoplights = {
   id: "01a072b2-59cc-72dc-9f34-01e609e3f191",
-  pageTypeSlug: "route",
   type: "route",
   slug: "inbox-stoplights",
   definition: "Alan's inboxes as the colors their counts reach",

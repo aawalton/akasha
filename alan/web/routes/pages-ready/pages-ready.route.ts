@@ -2,7 +2,6 @@ import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const pagesReady = {
   id: "01a072b4-378d-70ab-8d75-5361b4ca7293",
-  pageTypeSlug: "route",
   type: "route",
   slug: "pages-ready",
   definition: "whether this pod can read a page",

@@ -2,7 +2,6 @@ import type { RestaurantMenuItem } from "akasha/alan/collections/places/restaura
 
 export const tripleBerryBliss = {
   id: "01a06808-b765-701d-bed3-83678207ee6c",
-  pageTypeSlug: "restaurant-menu-item",
   type: "restaurant-menu-item",
   slug: "triple-berry-bliss",
   title: "Triple Berry Bliss",

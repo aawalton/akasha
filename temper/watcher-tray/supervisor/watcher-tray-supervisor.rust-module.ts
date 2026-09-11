@@ -2,7 +2,6 @@ import type { RustModule } from "akasha/code/rust-modules/rust-module.page-type.
 
 export const watcherTraySupervisor = {
   id: "01a06034-87f3-7170-a8fa-a5f3354324b8",
-  pageTypeSlug: "rust-module",
   type: "rust-module",
   slug: "watcher-tray-supervisor",
   definition: "the worker process the tray spawns and spawns again",

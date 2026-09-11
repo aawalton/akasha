@@ -2,7 +2,6 @@ import type { Role } from "akasha/agents/roles/role.page-type.types.ts"
 
 export const handler = {
   id: "01a053c5-8d2a-7e24-96b7-b979c198e039",
-  pageTypeSlug: "role",
   type: "role",
   slug: "handler",
   definition: "an agent keeping one person's inbound path, private to them",

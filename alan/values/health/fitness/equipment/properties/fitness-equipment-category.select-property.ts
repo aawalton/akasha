@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const fitnessEquipmentCategory = {
   id: "01a06865-7f45-7967-91d8-74b7b421ef60",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "fitness-equipment-category",
   propertySlug: "category",

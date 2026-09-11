@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const collectionTypeStatus = {
   id: "01a0680f-6f00-7000-9a52-4c7b3d8e6101",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "collection-type-status",
   propertySlug: "collection-type-status",

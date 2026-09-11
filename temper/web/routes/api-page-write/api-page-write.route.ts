@@ -2,7 +2,6 @@ import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const apiPageWrite = {
   id: "01a082a1-9eab-776d-b29b-3c1448c8d5fa",
-  pageTypeSlug: "route",
   type: "route",
   slug: "api-page-write",
   definition: "a page a browser writes",

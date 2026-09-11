@@ -2,7 +2,6 @@ import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const atlasSearch = {
   id: "01a0883f-0826-7e5c-8e46-5e2a38ee8554",
-  pageTypeSlug: "route",
   type: "route",
   slug: "atlas-search",
   definition: "the places a reader looks up and keeps",

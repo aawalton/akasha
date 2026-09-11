@@ -2,7 +2,6 @@ import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const noSuchRoute = {
   id: "01a072dd-d488-7e97-b669-7076f6de9c20",
-  pageTypeSlug: "route",
   type: "route",
   slug: "no-such-route",
   definition: "that no route answers the address a caller asked for",

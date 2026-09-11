@@ -2,7 +2,6 @@ import type { Secret } from "akasha/infrastructure/services/secrets/secret.page-
 
 export const collectionsSecretsJwtSecret = {
   id: "01a076b6-9349-7b5a-b8f8-d780de29be90",
-  pageTypeSlug: "secret",
   type: "secret",
   slug: "collections-secrets-jwt-secret",
   placements: [

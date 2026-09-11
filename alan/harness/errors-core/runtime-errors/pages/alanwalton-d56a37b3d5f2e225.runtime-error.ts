@@ -2,7 +2,6 @@ import type { RuntimeError } from "akasha/alan/harness/errors-core/runtime-error
 
 export const alanwaltonD56a37b3d5f2e225 = {
   id: "01a0913c-963b-7b25-86f7-57c412360f82",
-  pageTypeSlug: "runtime-error",
   type: "runtime-error",
   slug: "alanwalton-d56a37b3d5f2e225",
   fingerprint: "d56a37b3d5f2e225",

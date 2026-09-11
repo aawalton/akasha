@@ -2,7 +2,6 @@ import type { Secret } from "akasha/infrastructure/services/secrets/secret.page-
 
 export const alertmanagerConfigAlertmanagerYml = {
   id: "01a07698-1a84-7190-b819-d6594a3ca5a0",
-  pageTypeSlug: "secret",
   type: "secret",
   slug: "alertmanager-config-alertmanager-yml",
   placements: [{ resourceName: "alertmanager-config", resourceKey: "alertmanager.yml" }],

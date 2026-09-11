@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const playerColor = {
   id: "01a06582-bd62-7f64-abc7-2bde8817177b",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "player-color",
   propertySlug: "player-color",

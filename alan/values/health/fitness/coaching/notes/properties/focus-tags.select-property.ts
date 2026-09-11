@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const focusTags = {
   id: "01a0657a-fe00-7a03-baad-8bd900be24b0",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "focus-tags",
   propertySlug: "focus-tags",

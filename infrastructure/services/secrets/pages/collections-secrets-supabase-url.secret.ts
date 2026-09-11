@@ -2,7 +2,6 @@ import type { Secret } from "akasha/infrastructure/services/secrets/secret.page-
 
 export const collectionsSecretsSupabaseUrl = {
   id: "01a076b8-f1f6-79f8-88c0-1e0a407a7526",
-  pageTypeSlug: "secret",
   type: "secret",
   slug: "collections-secrets-supabase-url",
   placements: [

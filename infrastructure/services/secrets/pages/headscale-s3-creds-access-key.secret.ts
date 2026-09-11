@@ -2,7 +2,6 @@ import type { Secret } from "akasha/infrastructure/services/secrets/secret.page-
 
 export const headscaleS3CredsAccessKey = {
   id: "01a082fc-62b7-7663-ac74-2b6b9cb277cb",
-  pageTypeSlug: "secret",
   type: "secret",
   slug: "headscale-s3-creds-access-key",
   placements: [{ resourceName: "headscale-s3-creds", resourceKey: "access_key" }],

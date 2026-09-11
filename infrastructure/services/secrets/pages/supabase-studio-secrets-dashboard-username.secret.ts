@@ -2,7 +2,6 @@ import type { Secret } from "akasha/infrastructure/services/secrets/secret.page-
 
 export const supabaseStudioSecretsDashboardUsername = {
   id: "01a06832-cf2d-75b6-aff3-8a71163f401c",
-  pageTypeSlug: "secret",
   type: "secret",
   slug: "supabase-studio-secrets-dashboard-username",
   placements: [{ resourceName: "supabase-studio-secrets", resourceKey: "DASHBOARD_USERNAME" }],

@@ -2,7 +2,6 @@ import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const jennyCategorization = {
   id: "01a08260-8738-752f-9a25-c4cddf4cfd5e",
-  pageTypeSlug: "route",
   type: "route",
   slug: "jenny-categorization",
   definition: "the count of unreviewed transactions Jenny's tile draws",

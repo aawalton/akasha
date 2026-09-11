@@ -2,7 +2,6 @@ import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const jennyApiErrors = {
   id: "01a08821-1176-79ea-9464-19a361d48e09",
-  pageTypeSlug: "route",
   type: "route",
   slug: "jenny-api-errors",
   definition: "the errors Jenny's browser reports",

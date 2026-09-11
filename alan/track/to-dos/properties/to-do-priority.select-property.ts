@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const toDoPriority = {
   id: "01a065a1-49b7-7880-b138-f141f4b9971f",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "to-do-priority",
   propertySlug: "to-do-priority",

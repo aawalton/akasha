@@ -2,7 +2,6 @@ import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const apiAsk = {
   id: "01a082a0-4e24-772e-9707-d1ad4af1da6b",
-  pageTypeSlug: "route",
   type: "route",
   slug: "api-ask",
   definition: "the answer to a question a browser puts",

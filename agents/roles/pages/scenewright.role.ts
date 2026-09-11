@@ -2,7 +2,6 @@ import type { Role } from "akasha/agents/roles/role.page-type.types.ts"
 
 export const scenewright = {
   id: "01a053c5-8d2d-70a4-8ed2-c8c6f6cc611c",
-  pageTypeSlug: "role",
   type: "role",
   slug: "scenewright",
   definition: "an agent writing one persona's scene whole and landing it",

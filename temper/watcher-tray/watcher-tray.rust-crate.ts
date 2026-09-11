@@ -2,7 +2,6 @@ import type { RustCrate } from "akasha/code/rust-crates/rust-crate.page-type.typ
 
 export const watcherTray = {
   id: "01a06034-87f1-70ce-9bb8-126ea33109ad",
-  pageTypeSlug: "rust-crate",
   type: "rust-crate",
   slug: "watcher-tray",
   definition: "the Windows tray program keeping Temper's SavedVariables worker running",

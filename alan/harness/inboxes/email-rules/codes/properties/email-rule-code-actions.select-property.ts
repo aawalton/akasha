@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const emailRuleCodeActions = {
   id: "01a06860-54a0-7cf6-aa4f-d2130e8c5b06",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "email-rule-code-actions",
   propertySlug: "actions",

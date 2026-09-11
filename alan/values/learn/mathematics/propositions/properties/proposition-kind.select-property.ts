@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const propositionKind = {
   id: "01a06575-c2ac-79a2-8fb6-6813b90c6e3e",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "proposition-kind",
   propertySlug: "proposition-kind",

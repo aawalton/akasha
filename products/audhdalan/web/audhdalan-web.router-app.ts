@@ -2,7 +2,6 @@ import type { RouterApp } from "akasha/code/router-apps/router-app.page-type.typ
 
 export const audhdalanWeb = {
   id: "01a06558-c2cc-7008-82aa-ce6fcd6a0c2a",
-  pageTypeSlug: "router-app",
   type: "router-app",
   slug: "audhdalan-web",
   definition: "the routes audhdalan.com serves to a browser",

@@ -2,7 +2,6 @@ import type { Secret } from "akasha/infrastructure/services/secrets/secret.page-
 
 export const alanwaltonSecretsReadingRelaySecret = {
   id: "01a076d8-38bd-73ac-82e0-6c3bbbf22748",
-  pageTypeSlug: "secret",
   type: "secret",
   slug: "alanwalton-secrets-reading-relay-secret",
   placements: [

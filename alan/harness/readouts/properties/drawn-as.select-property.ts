@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const drawnAs = {
   id: "01a063bd-a526-78b3-ad87-dc9525cc297e",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "drawn-as",
   propertySlug: "drawn-as",

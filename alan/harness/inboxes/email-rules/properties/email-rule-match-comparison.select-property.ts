@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const emailRuleMatchComparison = {
   id: "01a06860-549f-73bf-9cb1-d6bcba6417f3",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "email-rule-match-comparison",
   propertySlug: "comparison",

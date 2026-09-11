@@ -2,7 +2,6 @@ import type { SeatConditions } from "akasha/seat-system/seat-conditions/seat-con
 
 export const seatConditionsCurrent = {
   id: "01a0157f-f2ec-7001-80d4-d83b4f922552",
-  pageTypeSlug: "seat-conditions",
   type: "seat-conditions",
   slug: "seat-conditions-current",
   model: "opus",

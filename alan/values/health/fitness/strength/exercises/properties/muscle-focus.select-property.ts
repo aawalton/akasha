@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const muscleFocus = {
   id: "01a0657e-2bc0-7229-8e6a-9937d7e7b16e",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "muscle-focus",
   propertySlug: "muscle-focus",

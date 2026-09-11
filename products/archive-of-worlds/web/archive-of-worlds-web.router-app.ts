@@ -2,7 +2,6 @@ import type { RouterApp } from "akasha/code/router-apps/router-app.page-type.typ
 
 export const archiveOfWorldsWeb = {
   id: "01a06582-2737-7abe-a512-ecb40685ecf4",
-  pageTypeSlug: "router-app",
   type: "router-app",
   slug: "archive-of-worlds-web",
   definition: "the routes archiveofworlds.app serves to a browser",

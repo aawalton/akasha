@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const operatingSystem = {
   id: "01a0658c-329a-7dce-bdbd-00b709366c9f",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "operating-system",
   propertySlug: "operating-system",

@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const scoringMode = {
   id: "01a0657e-2bc0-7aa5-9e66-12b33002585d",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "scoring-mode",
   propertySlug: "scoring-mode",

@@ -2,7 +2,6 @@ import type { Secret } from "akasha/infrastructure/services/secrets/secret.page-
 
 export const pgbouncerTlsTlsKey = {
   id: "01a0768e-dcfa-76ec-8099-20de33c43eab",
-  pageTypeSlug: "secret",
   type: "secret",
   slug: "pgbouncer-tls-tls-key",
   placements: [{ resourceName: "pgbouncer-tls", resourceKey: "tls.key" }],

@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const displayResolution = {
   id: "01a0658c-329a-7fdf-a7c9-f5d76820e07c",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "display-resolution",
   propertySlug: "display-resolution",

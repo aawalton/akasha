@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const useLimit = {
   id: "01a06585-5fc5-73dd-8b25-bb4b4eaf5918",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "use-limit",
   propertySlug: "use-limit",

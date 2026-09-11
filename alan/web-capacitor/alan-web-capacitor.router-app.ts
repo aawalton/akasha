@@ -2,7 +2,6 @@ import type { RouterApp } from "akasha/code/router-apps/router-app.page-type.typ
 
 export const alanWebCapacitor = {
   id: "01a06582-324d-7c85-97b1-23c659bd7d23",
-  pageTypeSlug: "router-app",
   type: "router-app",
   slug: "alan-web-capacitor",
   definition: "the routes Alan's site serves inside the shell on his phone",

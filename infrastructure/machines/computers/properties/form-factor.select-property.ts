@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const formFactor = {
   id: "01a0658c-329a-7f51-8e21-80f6d2aded06",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "form-factor",
   propertySlug: "form-factor",

@@ -2,7 +2,6 @@ import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const archiveOfWorldsApiHealth = {
   id: "01a0827f-258b-77c8-a876-e856c2cf6951",
-  pageTypeSlug: "route",
   type: "route",
   slug: "archive-of-worlds-api-health",
   definition: "whether the app answers",

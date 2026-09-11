@@ -2,7 +2,6 @@ import type { RustModule } from "akasha/code/rust-modules/rust-module.page-type.
 
 export const watcherTrayLogger = {
   id: "01a06034-87f3-7e8f-8172-3c3603e9bb0c",
-  pageTypeSlug: "rust-module",
   type: "rust-module",
   slug: "watcher-tray-logger",
   definition: "the rotating log file the tray writes its lines to",

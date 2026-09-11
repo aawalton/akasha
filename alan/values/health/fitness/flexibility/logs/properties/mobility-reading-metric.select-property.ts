@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const mobilityReadingMetric = {
   id: "01a06558-36e9-75cc-bf53-dedc96579d71",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "mobility-reading-metric",
   propertySlug: "mobility-reading-metric",

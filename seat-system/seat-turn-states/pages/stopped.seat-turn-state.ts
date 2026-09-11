@@ -2,7 +2,6 @@ import type { SeatTurnState } from "akasha/seat-system/seat-turn-states/seat-tur
 
 export const stopped = {
   id: "01a06925-c777-7d08-a189-07f102279387",
-  pageTypeSlug: "seat-turn-state",
   type: "seat-turn-state",
   slug: "stopped",
   definition: "an agent no longer present to take a turn",

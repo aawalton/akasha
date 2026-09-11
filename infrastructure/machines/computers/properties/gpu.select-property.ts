@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const gpu = {
   id: "01a0658c-329a-75c8-9044-3abbb33f0293",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "gpu",
   propertySlug: "gpu",

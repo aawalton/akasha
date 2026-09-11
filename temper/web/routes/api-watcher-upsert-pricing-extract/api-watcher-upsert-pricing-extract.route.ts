@@ -2,7 +2,6 @@ import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const apiWatcherUpsertPricingExtract = {
   id: "01a082fe-11cd-7a65-b8ed-c1dfdf1595f5",
-  pageTypeSlug: "route",
   type: "route",
   slug: "api-watcher-upsert-pricing-extract",
   definition: "the pricing extract the watcher posts",

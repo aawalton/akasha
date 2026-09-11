@@ -2,7 +2,6 @@ import type { SelectProperty } from "akasha/pages/select-properties/select-prope
 
 export const gpuSize = {
   id: "01a0658c-329a-7bea-9a01-26a5774ab8dc",
-  pageTypeSlug: "select-property",
   type: "select-property",
   slug: "gpu-size",
   propertySlug: "gpu-size",

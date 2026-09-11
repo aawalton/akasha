@@ -2,7 +2,6 @@ import type { RestaurantMenuItem } from "akasha/alan/collections/places/restaura
 
 export const peachPerfectWithRaspberryDrizzle = {
   id: "01a06808-b765-7015-a864-6e69a4972767",
-  pageTypeSlug: "restaurant-menu-item",
   type: "restaurant-menu-item",
   slug: "peach-perfect-with-raspberry-drizzle",
   title: "Peach Perfect with Raspberry Drizzle",

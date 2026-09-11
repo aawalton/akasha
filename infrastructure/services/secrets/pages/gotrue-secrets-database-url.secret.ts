@@ -2,7 +2,6 @@ import type { Secret } from "akasha/infrastructure/services/secrets/secret.page-
 
 export const gotrueSecretsDatabaseUrl = {
   id: "01a06832-cf2d-79d5-b7ce-25b4cd7ba81a",
-  pageTypeSlug: "secret",
   type: "secret",
   slug: "gotrue-secrets-database-url",
   placements: [{ resourceName: "gotrue-secrets", resourceKey: "DATABASE_URL" }],

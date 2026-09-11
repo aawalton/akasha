@@ -2,7 +2,6 @@ import type { Route } from "akasha/code/routes/route.page-type.types.ts"
 
 export const audhdalanHome = {
   id: "01a08288-5a0e-71e8-9abc-fc5c7fb4e4be",
-  pageTypeSlug: "route",
   type: "route",
   slug: "audhdalan-home",
   definition: "what a reader lands on first",
