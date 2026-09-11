@@ -10,4 +10,5 @@ export const bashrc = {
   placedBy: "link",
   onlyOn: "any",
   installPath: "~/.bashrc",
+  filling: {},
 } as const satisfies ProvisionedFile
