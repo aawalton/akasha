@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "no-rule-in-two-files reads 404 in 169 families, grouped by body: ruleOf canonicalises every bound name, and omits the return type, which is the one way a family is two rules. 284 of 426 were lone pairs wanting an absence rather than a module. But an absence leaves both files refused, which the check states itself, so this check reaches zero only by sharing bodies that should not be shared. Narrowing it to honour an absence is Alan's.",
+        "no-rule-in-two-files groups by body: ruleOf canonicalises every bound name and omits the return type, which is the one way a family is two rules. The count moves hourly, so measure rather than trust a written one. Two thirds are lone pairs, and how many of those genuinely want an absence is unjudged. An absence leaves both files refused, which the check states itself and twelve landed absences bore out, so some pairs cannot clear. Narrowing it to honour an absence is Alan's.",
     },
     {
       statement: "Every runtime helper the Lua compiler has is a page.",
