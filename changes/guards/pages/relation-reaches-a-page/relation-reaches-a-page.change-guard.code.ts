@@ -40,7 +40,7 @@ export function relationReachesAPage(given: Guarding): string | null {
       const why = danglingAt(given, known, path)
       if (why !== null) return why
     }
-    return null
+    return given.shadow.refusals()[0] ?? null
   } catch (cause) {
     return unreadable(cause)
   }

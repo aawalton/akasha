@@ -13,9 +13,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
-import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -103,21 +100,7 @@ function notePointing(target: string): string {
   })
 }
 
-function settledBy(root: string, was: string, now: string): readonly string[] {
-  const textOf = textIn(root)
-  return settlingOver(
-    readingIn(root),
-    root,
-    [{ path: NOTE_AT, before: was, after: now }],
-    (path) => {
-      const body = textOf(path)
-      return body === null ? null : valueIn(body)
-    },
-    textOf
-  ).refused
-}
-
-test("a page the answer does not write and a turned target breaks is judged by nothing", () => {
+test("a page the answer does not write and a turned target breaks refuses the answer", () => {
   const root = indexedRepo()
   const was = textIn(root)(NOTE_AT) ?? ""
   const now = notePointing("page-property")
@@ -127,8 +110,8 @@ test("a page the answer does not write and a turned target breaks is judged by n
     stating([{ kind: "replace", path: NOTE_AT, contentFrom: was, contentTo: now }])
   )
 
-  expect(said.refused).toBe(null)
-  expect(settledBy(root, was, now)).toEqual([
-    `${NAMER_PAGE}: \`note\` — no page admitting \`page-property\` carries the slug \`held\``,
-  ])
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    `${NAMER_PAGE}: \`note\` — no page admitting \`page-property\` carries the slug \`held\``
+  )
 })

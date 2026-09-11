@@ -63,16 +63,12 @@ export const relationNotLeftHanging = {
       statement: "Nothing here reads the working tree or the index on disk.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A page the answer rewrites is named by nothing here.",
     },
     {
-      invariantKind: "gap",
-      statement: "A name held by such a page is found by no guard here.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "`relation-resolves` judges the name this guard cannot see.",
+      invariantKind: "departure",
+      statement: "`relation-reaches-a-page` judges the name such a page holds.",
     },
   ],
 } as const satisfies ChangeGuard

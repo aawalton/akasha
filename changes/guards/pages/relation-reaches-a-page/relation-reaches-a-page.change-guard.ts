@@ -28,6 +28,15 @@ export const relationReachesAPage = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A page the answer does not write and the change leaves naming nothing refuses the answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal the world already had refuses no answer.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The refusal names the property the name is held under.",
     },
     {
