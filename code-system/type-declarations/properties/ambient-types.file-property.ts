@@ -22,6 +22,14 @@ export const ambientTypes = {
       invariantKind: "departure",
       statement: "A compiler emits nothing from the types this file has.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "A glob never reaches this file, because the page beside it has the same stem.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Compiler settings meaning to read this file name the file rather than a glob.",
+    },
   ],
   types: "ts",
 } as const satisfies FileProperty
