@@ -116,10 +116,6 @@ export const noBodyReadBesideAnIndex = {
     },
     {
       invariantKind: "gap",
-      statement: "A reader reached through a second file is not followed.",
-    },
-    {
-      invariantKind: "gap",
       statement: "A root reaching a function under a name with no root word is not seen.",
     },
     {
