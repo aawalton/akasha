@@ -8,4 +8,5 @@ export const atlasIosAdd = {
   definition: "the run that makes Atlas's native sources and applies its seam",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
