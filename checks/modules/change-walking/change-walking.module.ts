@@ -109,8 +109,12 @@ export const changeWalking = {
       statement: "An audit reading each text in the tree reads that text through this module.",
     },
     {
-      invariantKind: "gap",
-      statement: "Every check reading a body a change carries reads that body through this module.",
+      invariantKind: "departure",
+      statement: "A check refusing a body that is not text reads that body through this module.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check reading a body leniently reaches `body-text` rather than this module.",
     },
   ],
 } as const satisfies Module
