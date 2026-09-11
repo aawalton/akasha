@@ -1,13 +1,13 @@
 import { expect, test } from "bun:test"
 import { readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { Glob } from "bun"
-import { codeRoot } from "../code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   composesAPageType,
   linesComposingOneKey,
   statesTheTypeKey,
-} from "./type-keys.module.code.ts"
+} from "akasha/pages/type-keys/type-keys.module.code.ts"
+import { Glob } from "bun"
 
 const ROOT = codeRoot()
 
