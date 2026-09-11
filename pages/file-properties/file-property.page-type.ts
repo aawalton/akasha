@@ -14,6 +14,7 @@ export const fileProperty = {
     "text-property/file-name",
     "boolean-property/tool-resolves-paths",
     "relation-property/file-written-by",
+    "text-property/extensions",
   ],
   extends: ["page-type/page-property"],
   properties: [
@@ -23,6 +24,7 @@ export const fileProperty = {
     { pageProperty: "boolean-property/holds-bytes", required: false, many: false },
     { pageProperty: "boolean-property/tool-resolves-paths", required: false, many: false },
     { pageProperty: "relation-property/file-written-by", required: false, many: false },
+    { pageProperty: "text-property/extensions", required: false, many: true, maxCount: null },
   ],
   invariants: [
     {
