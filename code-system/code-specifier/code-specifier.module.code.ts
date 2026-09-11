@@ -10,6 +10,8 @@ const STAR = "*"
 
 const PARTED_BY = "/"
 
+const ROOT = "akasha/"
+
 export type Naming = ReadonlyMap<string, string>
 
 export const NAMING_NONE: Naming = new Map()
@@ -73,6 +75,10 @@ function starredIn(specifier: string, naming: Naming): string | null {
   return null
 }
 
+function rootedIn(specifier: string): string | null {
+  return specifier.startsWith(ROOT) ? specifier.slice(ROOT.length) : null
+}
+
 export function landingOf(
   path: string,
   specifier: string,
@@ -81,7 +87,7 @@ export function landingOf(
   if (RELATIVE.test(specifier)) return join(dirname(path), specifier)
   const said = naming.get(specifier)
   if (said !== undefined) return said
-  return starredIn(specifier, naming)
+  return starredIn(specifier, naming) ?? rootedIn(specifier)
 }
 
 export function specifierFor(dir: string, target: string): string {

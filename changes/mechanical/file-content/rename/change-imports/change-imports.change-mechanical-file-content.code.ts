@@ -71,6 +71,7 @@ function nextFor(
   if (rooted !== undefined) return rooted
   const landed = landingOf(was, said)
   if (landed === null) return specifier ? null : beneathFor(was, dir, said, moved)
+  if (said.startsWith(ROOT)) return null
   const carried = moved.get(landed)
   if (carried !== undefined) return specifierFor(dir, carried)
   return specifier ? specifierFor(dir, landed) : null

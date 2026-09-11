@@ -72,6 +72,10 @@ export const changeImports = {
       invariantKind: "absence",
       statement: "Nothing here has a file.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A name opening with the root package is never respelled against a folder.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

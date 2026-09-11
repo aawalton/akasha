@@ -59,10 +59,6 @@ export const codeSpecifier = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller handing in no naming is answered as naming no package.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The specifier naming a path from a folder is worked out here for any caller.",
     },
     {
@@ -89,14 +85,6 @@ export const codeSpecifier = {
       invariantKind: "absence",
       statement:
         "A caller refusing a specifier that climbs out of the root keeps that rule where the rule belongs.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "No package is named here.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "A specifier spelt from the root is answered by the naming alone.",
     },
     {
       invariantKind: "absence",
@@ -137,6 +125,23 @@ export const codeSpecifier = {
     {
       invariantKind: "departure",
       statement: "A way in whose target closes with no star names no landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller handing in no naming is answered as naming no package but the root.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A specifier opening with the root package's name lands on the path that specifier names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The root package's name is the one package name written here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A naming naming a root specifier is answered before the root package's name.",
     },
   ],
 } as const satisfies Module
