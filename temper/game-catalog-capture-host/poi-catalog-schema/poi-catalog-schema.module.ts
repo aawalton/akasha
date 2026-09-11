@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const poiCatalogSchema = {
   id: "01a06084-d419-7e65-9fe0-2100e873d96e",

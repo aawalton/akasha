@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const cadwellCatalogSchema = {
   id: "01a06076-5ea8-75f8-9c02-0071e3b7330b",
