@@ -49,10 +49,6 @@ export const stylesheet = {
       statement: "A stylesheet declares nothing a compiler could type.",
     },
     {
-      invariantKind: "absence",
-      statement: "A stylesheet imports nothing.",
-    },
-    {
       invariantKind: "departure",
       statement: "A comment in a stylesheet is refused as prose in code is.",
     },
