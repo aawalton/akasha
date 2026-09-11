@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "No finding is filed on checks-system or any part beneath it.",
       workingMemory:
-        "4 name domain/check, from 17, beside one naming folder-matches-a-shape that is out of scope. All were read against the tree and not one is dead. Alan ruled against a confinement check, for leaving shellcheck on the host, and for an audit service carrying the third away as two intents. The lua-runtime one is out of scope too: its subject states experimental at line 170. What is left waits on work rather than on Alan.",
+        "4 name the check domain, from 17, and the lua-runtime one is out of scope: its subject states experimental. The cause of a-new-unique-property-costs-the-gate-minutes is in the code rather than in a run: wherever a property unique kind turns, index-settling loads every page the index names and files each twice through identityIn, and beside-turning states that sweep as a departure. Left is timing it. The other two wait on a deploy gate from a tracked-tree install and on an install that prunes.",
     },
     {
       statement: "No gap invariant is written on checks-system or any part beneath it.",
