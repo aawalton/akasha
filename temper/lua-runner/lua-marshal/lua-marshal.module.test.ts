@@ -3,7 +3,7 @@ import {
   luaLongStringLiteral,
   luaStringLiteral,
   marshalLuaValue,
-} from "./lua-marshal.module.code.ts"
+} from "akasha/temper/lua-runner/lua-marshal/lua-marshal.module.code.ts"
 
 test("a missing value and a null value both become nil", () => {
   expect(marshalLuaValue(null)).toBe("nil")

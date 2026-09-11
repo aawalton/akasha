@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { normalizeValue, responseSchema } from "./lua-protocol.module.code.ts"
+import {
+  normalizeValue,
+  responseSchema,
+} from "akasha/temper/lua-runner/lua-protocol/lua-protocol.module.code.ts"
 
 test("an answer carrying a value parses", () => {
   const parsed = responseSchema.parse({ ok: true, value: 1 })

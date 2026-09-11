@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { luaNumberString } from "./lua-number-string.module.code.ts"
+import { luaNumberString } from "akasha/temper/lua-runner/lua-number-string/lua-number-string.module.code.ts"
 
 test("a whole number is written with no fractional part", () => {
   expect(luaNumberString(0)).toBe("0")

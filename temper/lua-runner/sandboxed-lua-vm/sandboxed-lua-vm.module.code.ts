@@ -4,8 +4,8 @@ import {
   luaLongStringLiteral,
   luaStringLiteral,
   marshalLuaValue,
-} from "../lua-marshal/lua-marshal.module.code.ts"
-import { makeLuaVm } from "../lua-vm/lua-vm.module.code.ts"
+} from "akasha/temper/lua-runner/lua-marshal/lua-marshal.module.code.ts"
+import { makeLuaVm } from "akasha/temper/lua-runner/lua-vm/lua-vm.module.code.ts"
 
 const PRELUDE_PATH = resolve(
   import.meta.dir,

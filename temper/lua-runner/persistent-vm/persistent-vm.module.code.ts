@@ -5,7 +5,7 @@ import {
   type Response,
   RUN_SENTINEL,
   responseSchema,
-} from "../lua-protocol/lua-protocol.module.code.ts"
+} from "akasha/temper/lua-runner/lua-protocol/lua-protocol.module.code.ts"
 
 const DRIVER_PATH = resolve(import.meta.dir, "../lua-driver/lua-driver.lua-module.lua.lua")
 

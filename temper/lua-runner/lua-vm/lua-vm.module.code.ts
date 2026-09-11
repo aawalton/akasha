@@ -1,4 +1,4 @@
-import { spawnPersistentVm } from "../persistent-vm/persistent-vm.module.code.ts"
+import { spawnPersistentVm } from "akasha/temper/lua-runner/persistent-vm/persistent-vm.module.code.ts"
 
 export type LuaVm = {
   readonly run: (script: string) => Promise<unknown>
