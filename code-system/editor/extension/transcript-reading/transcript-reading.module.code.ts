@@ -1,6 +1,10 @@
 import { stat } from "node:fs/promises"
 import * as path from "node:path"
-import { emptyTail, foldTail, type Tail } from "../tail-fold/tail-fold.module.code.ts"
+import {
+  emptyTail,
+  foldTail,
+  type Tail,
+} from "akasha/code-system/editor/extension/tail-fold/tail-fold.module.code.ts"
 import {
   type Entry,
   type EntryFold,
@@ -9,11 +13,11 @@ import {
   type FoldJournal,
   foldEntryLine,
   undoFold,
-} from "../transcript-model/transcript-model.module.code.ts"
+} from "akasha/code-system/editor/extension/transcript-model/transcript-model.module.code.ts"
 import {
   readSubagentsIn,
   type SubagentTranscript,
-} from "../transcript-sources/transcript-sources.module.code.ts"
+} from "akasha/code-system/editor/extension/transcript-sources/transcript-sources.module.code.ts"
 
 export interface TranscriptRead {
   readonly entries: readonly Entry[]
