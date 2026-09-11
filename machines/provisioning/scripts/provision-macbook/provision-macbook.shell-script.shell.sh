@@ -3,8 +3,8 @@
 set -euo pipefail
 
 HERE="$(cd -- "$(dirname -- "$(readlink -f -- "$0")")" && pwd -P)"
-. "$HERE/../repo-roots/repo-roots.shell-script.shell.sh"
-REPO="$AKASHA_ROOT"
+REPO="$(cd -- "$HERE/../../../.." && pwd -P)"
+. "$REPO/machines/provisioning/scripts/repo-roots/repo-roots.shell-script.shell.sh"
 AKASHA="$AKASHA_ROOT"
 FILES="$AKASHA_ROOT/machines/provisioning/provisioned-files/pages"
 SUDOERS_FILE="/etc/sudoers.d/walton-nopasswd"
