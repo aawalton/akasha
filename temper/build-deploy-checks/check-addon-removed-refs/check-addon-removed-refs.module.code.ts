@@ -11,11 +11,9 @@ import {
   scanBundleFile,
 } from "akasha/temper/build-deploy-checks/addon-removed-refs/addon-removed-refs.module.code.ts"
 import { parseSingleFileFlag } from "akasha/temper/build-deploy-checks/cli-args/cli-args.module.code.ts"
-import {
-  errnoCode,
-  errorMessage,
-} from "akasha/temper/build-deploy-checks/error-message/error-message.module.code.ts"
+import { errorMessage } from "akasha/temper/build-deploy-checks/error-message/error-message.module.code.ts"
 import { renderPopulationBound } from "akasha/temper/build-deploy-checks/population-bound/population-bound.module.code.ts"
+import { errnoCodeOf } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 
 const GATE = "addon-removed-refs"
 
@@ -41,7 +39,7 @@ export function runAddonRemovedRefs({ singleFile }: AddonRemovedRefsOptions): nu
     try {
       issues = scanBundleFile(file)
     } catch (err) {
-      if (errnoCode(err) === "ENOENT") {
+      if (errnoCodeOf(err) === "ENOENT") {
         continue
       }
       console.error(`${GATE}: failed to read ${file}: ${errorMessage(err)}`)

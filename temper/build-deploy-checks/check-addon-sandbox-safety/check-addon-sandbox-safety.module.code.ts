@@ -11,11 +11,9 @@ import {
   refuseAddonDistPopulation,
 } from "akasha/temper/build-deploy-checks/addon-dist-bundles/addon-dist-bundles.module.code.ts"
 import { parseSingleFileFlag } from "akasha/temper/build-deploy-checks/cli-args/cli-args.module.code.ts"
-import {
-  errnoCode,
-  errorMessage,
-} from "akasha/temper/build-deploy-checks/error-message/error-message.module.code.ts"
+import { errorMessage } from "akasha/temper/build-deploy-checks/error-message/error-message.module.code.ts"
 import { renderPopulationBound } from "akasha/temper/build-deploy-checks/population-bound/population-bound.module.code.ts"
+import { errnoCodeOf } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 
 const GATE = "addon-sandbox-safety"
 
@@ -41,7 +39,7 @@ export function runAddonSandboxSafety({ singleFile }: AddonSandboxSafetyOptions)
     try {
       issues = scanBundleFile(file)
     } catch (err) {
-      if (errnoCode(err) === "ENOENT" && bundles !== null) {
+      if (errnoCodeOf(err) === "ENOENT" && bundles !== null) {
         continue
       }
       const readBound = renderPopulationBound({

@@ -7,9 +7,3 @@ export function errorMessage(err: unknown): string {
     return "<unrenderable error>"
   }
 }
-
-export function errnoCode(err: unknown): string | undefined {
-  if (err === null || typeof err !== "object" || !("code" in err)) return undefined
-  const { code } = err
-  return typeof code === "string" ? code : undefined
-}

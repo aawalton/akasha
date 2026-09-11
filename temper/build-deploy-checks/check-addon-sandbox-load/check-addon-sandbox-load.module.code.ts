@@ -20,13 +20,11 @@ import {
   summarizeBundle,
 } from "akasha/temper/build-deploy-checks/addon-sandbox-load/addon-sandbox-load.module.code.ts"
 import { parseSingleFileFlag } from "akasha/temper/build-deploy-checks/cli-args/cli-args.module.code.ts"
-import {
-  errnoCode,
-  errorMessage,
-} from "akasha/temper/build-deploy-checks/error-message/error-message.module.code.ts"
+import { errorMessage } from "akasha/temper/build-deploy-checks/error-message/error-message.module.code.ts"
 import { ESO_BASE_GAME_STRING_IDS } from "akasha/temper/build-deploy-checks/eso-base-game-string-ids/eso-base-game-string-ids.module.code.ts"
 import { renderPopulationBound } from "akasha/temper/build-deploy-checks/population-bound/population-bound.module.code.ts"
 import { makeSandboxedLuaVm } from "akasha/temper/lua-runner/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"
+import { errnoCodeOf } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 
 const ESO_BANNED_GLOBALS = [
   "debug",
@@ -118,7 +116,7 @@ async function loadOneBundle(
     source = readFileSync(file, "utf8")
     mtimeIso = statSync(file).mtime.toISOString()
   } catch (err) {
-    if (errnoCode(err) === "ENOENT") {
+    if (errnoCodeOf(err) === "ENOENT") {
       return { ok: true, bundle: file }
     }
     return { ok: false, bundle: file, error: `read error: ${errorMessage(err)}` }
