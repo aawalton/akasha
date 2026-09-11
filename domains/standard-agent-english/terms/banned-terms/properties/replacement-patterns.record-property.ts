@@ -1,13 +1,4 @@
-import type { FromPattern } from "akasha/domains/standard-agent-english/terms/banned-terms/properties/from-pattern.text-property.types.ts"
-import type { ProseFrame } from "akasha/domains/standard-agent-english/terms/banned-terms/properties/prose-frame.relation-property.types.ts"
-import type { ToPattern } from "akasha/domains/standard-agent-english/terms/banned-terms/properties/to-pattern.text-property.types.ts"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-
-export type ReplacementPattern = {
-  frame: ProseFrame
-  fromPattern: FromPattern
-  toPattern: ToPattern
-}
 
 export const replacementPatterns = {
   id: "01a0822d-c124-76d5-acd8-925e9cdcdb81",

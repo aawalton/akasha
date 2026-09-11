@@ -1,17 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { Lenient } from "./lenient.boolean-property.types.ts"
-import type { RunArgument } from "./run-argument.text-property.types.ts"
-import type { RunBefore } from "./run-before.text-property.types.ts"
-import type { RunCode } from "./run-code.relation-property.types.ts"
-import type { RunPage } from "./run-page.relation-property.types.ts"
-
-export type Start = {
-  code: RunCode
-  before?: RunBefore
-  pages?: RunPage
-  arguments?: RunArgument
-  lenient?: Lenient
-}
 
 export const starts = {
   id: "01a08e09-01aa-7087-947d-3ba243cffb36",

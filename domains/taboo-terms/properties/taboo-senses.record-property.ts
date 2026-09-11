@@ -1,11 +1,4 @@
-import type { Instead } from "akasha/domains/taboo-terms/properties/instead.text-property.types.ts"
-import type { Sense } from "akasha/domains/taboo-terms/properties/sense.text-property.types.ts"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-
-export type TabooSense = {
-  sense: Sense
-  instead: Instead
-}
 
 export const tabooSenses = {
   id: "01a0592f-d53e-7a82-b68e-38856ee374cf",

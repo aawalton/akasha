@@ -1,13 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { EmailRuleMatchComparison } from "./email-rule-match-comparison.select-property.types.ts"
-import type { EmailRuleMatchField } from "./email-rule-match-field.select-property.types.ts"
-import type { EmailRuleMatchValues } from "./email-rule-match-values.text-property.types.ts"
-
-export type EmailRuleMatch = {
-  field: EmailRuleMatchField
-  comparison: EmailRuleMatchComparison
-  values: EmailRuleMatchValues
-}
 
 export const emailRuleMatches = {
   id: "01a06860-549f-7699-a464-5922a5455508",

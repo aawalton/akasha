@@ -1,11 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { MessagedPersona } from "./messaged-persona.relation-property.types.ts"
-import type { MessagesSent } from "./messages-sent.number-property.types.ts"
-
-export type PersonaMessage = {
-  persona: MessagedPersona
-  sent: MessagesSent
-}
 
 export const personaMessages = {
   id: "01a082e2-4994-7f71-aa2d-ad0fc9b437f9",

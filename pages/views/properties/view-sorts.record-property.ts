@@ -1,11 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { SortDescending } from "./sort-descending.boolean-property.types.ts"
-import type { SortKey } from "./sort-key.text-property.types.ts"
-
-export type ViewSort = {
-  key: SortKey
-  descending: SortDescending
-}
 
 export const viewSorts = {
   id: "01a0680d-4d00-7004-a139-6e5c8b2f4105",

@@ -1,9 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { ReagentNames } from "akasha/temper/catalog/temper-gear/properties/reagent-names.text-property.types.ts"
-
-export type Recipe = {
-  names: ReagentNames
-}
 
 export const recipes = {
   id: "01a05fd1-d43d-7c95-8ac4-1739e09c409e",

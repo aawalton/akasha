@@ -1,11 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { ResourceName } from "../../../infrastructure/cluster/services/properties/resource-name.text-property.types.ts"
-import type { ResourceKey } from "./resource-key.text-property.types.ts"
-
-export type Placement = {
-  resourceName: ResourceName
-  resourceKey: ResourceKey
-}
 
 export const placements = {
   id: "01a0765c-3223-7d78-a54c-e8653b46a958",

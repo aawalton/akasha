@@ -1,11 +1,4 @@
-import type { IntentStatement } from "akasha/domains/initiatives/properties/intent-statement.standard-agent-english-property.types.ts"
-import type { WorkingMemory } from "akasha/domains/initiatives/properties/working-memory.text-property.types.ts"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-
-export type Intent = {
-  statement: IntentStatement
-  workingMemory?: WorkingMemory
-}
 
 export const intents = {
   id: "01a058a3-b01f-7002-b869-8274ae8203a6",

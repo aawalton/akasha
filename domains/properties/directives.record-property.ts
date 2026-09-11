@@ -1,17 +1,4 @@
-import type { Act } from "akasha/domains/properties/act.standard-agent-english-property.types.ts"
-import type { Aids } from "akasha/domains/properties/aids.standard-agent-english-property.types.ts"
-import type { DirectiveKind } from "akasha/domains/properties/directive-kind.relation-property.types.ts"
-import type { Name } from "akasha/domains/properties/name.text-property.types.ts"
-import type { Warrant } from "akasha/domains/properties/warrant.standard-agent-english-property.types.ts"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-
-export type Directive = {
-  directiveKind: DirectiveKind
-  name: Name
-  act: Act
-  warrant: Warrant
-  aids: Aids
-}
 
 export const directives = {
   id: "01a04e1f-cbf6-7150-812b-844b9bf21ed2",

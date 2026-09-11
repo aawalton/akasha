@@ -1,11 +1,4 @@
-import type { MemberName } from "akasha/domains/lists/properties/member-name.text-property.types.ts"
-import type { Definition } from "akasha/domains/properties/definition.standard-agent-english-property.types.ts"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-
-export type Member = {
-  memberName: MemberName
-  definition: Definition
-}
 
 export const listMembers = {
   id: "01a06838-7a9e-7730-9e7f-e9d9393fe6ad",
