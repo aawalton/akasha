@@ -8,6 +8,7 @@ export const statusline = {
   definition: "the line under an agent's prompt saying what it is and what it has",
   shell: "sh",
   sourced: false,
+  scripting: {},
   invariants: [
     {
       invariantKind: "departure",
