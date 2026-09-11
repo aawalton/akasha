@@ -36,7 +36,7 @@ export const theaChecksSystem = {
     {
       statement: "A check looks for unused code and passes.",
       workingMemory:
-        "The ast-unused audit is the finder that exists: 8 ast-unused-config pages, now under code-system/audit-ast-unused/ast-unused-configs/pages, name the entry globs each workspace family is read under. They were parked in the cluster-checks folder and came out before it went. Nothing in the tree resolves the curation path or runs the tool, so both what runs it and what it answers over the tree as it is are unmeasured. nimue-code-cleanup names it too.",
+        "Verified 2026-09-10, and the premise was wrong. The finder is deleted rather than unwired: 8ead8507d0a took out its 568 lines, and 8392949e28 dropped it as a check because an instrument stating a population refuses nothing. Its target, the code repo, tracks zero files at HEAD. The 8 curation pages name 25 workspaces, of which 8 have no directory and 6 are packages. nimue-code-cleanup does not name it. Reaching this intent is a rebuild Alan approves.",
     },
     {
       statement: "No finding is filed on checks-system or any part beneath it.",
