@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { statesVersionSeven, uuidVersion7 } from "./uuid-version-7.module.code.ts"
+import {
+  statesVersionSeven,
+  uuidVersion7,
+} from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
 
 const VARIANT = "89ab"
 
