@@ -1,4 +1,4 @@
-import type { StoryChapterWritten } from "../../story-chapter-written.page-type.types.ts"
+import type { StoryChapterWritten } from "akasha/story/chapters-written/story-chapter-written.page-type.types.ts"
 
 export const cornerstone001BlindGround = {
   id: "01a06599-c37f-7cfe-a3a9-cb46c5f0e624",
