@@ -8,4 +8,10 @@ export const voiceInfer = {
   definition: "the speech workload, its namespace and the way in to it",
   code: "ts",
   generatedDirectory: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The pod template carries the hash of the voice-infer-s3-creds secret.",
+    },
+  ],
 } as const satisfies Manifest
