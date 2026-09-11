@@ -10,4 +10,14 @@ export const running = {
   slug: "running",
   propertySlug: "running",
   definition: "the code a workstation service runs",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A service that runs until stopped never answers from its run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The code a service runs is reached by that service's slug rather than by a path.",
+    },
+  ],
 } as const satisfies ModulePropertyGroup
