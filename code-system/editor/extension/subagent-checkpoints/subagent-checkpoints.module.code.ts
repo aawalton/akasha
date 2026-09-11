@@ -1,8 +1,8 @@
 import { type FileHandle, mkdir, open, readFile, rename, writeFile } from "node:fs/promises"
 import * as os from "node:os"
 import * as path from "node:path"
+import type { SubagentState } from "akasha/code-system/editor/extension/subagent-core/subagent-core.module.code.ts"
 import { z } from "zod"
-import type { SubagentState } from "../subagent-core/subagent-core.module.code.ts"
 
 const ANCHOR_BYTES = 64
 
