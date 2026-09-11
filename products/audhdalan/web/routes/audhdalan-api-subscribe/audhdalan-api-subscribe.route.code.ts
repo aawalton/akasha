@@ -1,3 +1,4 @@
+import { slugOf } from "akasha/utils/slug/slug-of/slug-of.module.code.ts"
 import { z } from "zod"
 
 const BodySchema = z.object({
@@ -7,13 +8,6 @@ const BodySchema = z.object({
 const WRITER = "audhdalan-subscribe"
 
 const OwnerSchema = z.string().uuid()
-
-function nameFor(email: string): string {
-  return email
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "")
-}
 
 export async function action({ request }: { request: Request }): Promise<Response> {
   if (request.method !== "POST") {
@@ -38,7 +32,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
   }
 
   console.error(
-    `subscribe: \`audhdalan-subscriber/${nameFor(email)}\` was not kept — nothing renders that page's body out of its keys, so ${WRITER} has no way to land one`
+    `subscribe: \`audhdalan-subscriber/${slugOf(email)}\` was not kept — nothing renders that page's body out of its keys, so ${WRITER} has no way to land one`
   )
   return Response.json(
     {
