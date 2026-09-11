@@ -8,10 +8,19 @@ import {
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
+import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 
 export const PAGE_TYPE_SLUG = "claude-account"
+
+const PAGE_TYPE = "page-type"
+
+const TYPES = "types"
+
+const TS = "ts"
 
 const PUT = "change-mechanical-file/add-file"
 
@@ -67,14 +76,27 @@ export function accountPagePathIn(given: string | Reading, slug: string): string
   return accountPageAt(accountsAtIn(given), slug)
 }
 
-export function accountPageText(given: {
-  readonly slug: string
-  readonly email: string
-  readonly aliasIndex: number
-  readonly id: string
-}): string {
+function typedFrom(given: string | Reading, typeSlug: string): string {
+  const page = listedAt(given, PAGE_TYPE, typeSlug)[0]
+  const at = page === undefined ? null : besideAt(page.path, TYPES, TS)
+  if (at === null) {
+    throw new Error(`no \`${PAGE_TYPE}\` is slugged \`${typeSlug}\`, so a body names no type`)
+  }
+  return importedFrom(at)
+}
+
+export function accountPageText(
+  given: {
+    readonly slug: string
+    readonly email: string
+    readonly aliasIndex: number
+    readonly id: string
+  },
+  reading: string | Reading
+): string {
+  const named = typedAs(PAGE_TYPE_SLUG)
   return [
-    `import type { ClaudeAccount } from "akasha/agents/claude-accounts/claude-account.page-type.types.ts"`,
+    `import type { ${named} } from "${typedFrom(reading, PAGE_TYPE_SLUG)}"`,
     ``,
     `export const ${exportedAs(given.slug)} = {`,
     `  id: "${given.id}",`,
@@ -82,7 +104,7 @@ export function accountPageText(given: {
     `  slug: "${given.slug}",`,
     `  email: "${given.email}",`,
     `  aliasIndex: ${given.aliasIndex},`,
-    `} as const satisfies ClaudeAccount`,
+    `} as const satisfies ${named}`,
     ``,
   ].join("\n")
 }
@@ -126,7 +148,10 @@ export async function madeIn(
 
     const path = accountPagePathIn(reading, slug)
     const id = given.id ?? Bun.randomUUIDv7()
-    const text = accountPageText({ slug, email: given.email, aliasIndex: given.aliasIndex, id })
+    const text = accountPageText(
+      { slug, email: given.email, aliasIndex: given.aliasIndex, id },
+      reading
+    )
     const landed = await landing(
       root,
       [{ at: PUT, given: { at: path, body: text } }],

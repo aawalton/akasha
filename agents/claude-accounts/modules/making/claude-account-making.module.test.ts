@@ -6,9 +6,12 @@ import {
   type Landing,
   madeIn,
 } from "akasha/agents/claude-accounts/modules/making/claude-account-making.module.code.ts"
+import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 
 const ROOT = "/nowhere"
+
+const HERE = ownRepoRoot()
 
 const ID = "01a06400-0000-7000-8000-000000000000"
 
@@ -68,7 +71,7 @@ describe("accountPageAt", () => {
 describe("accountPageText", () => {
   test("an account states its id, its page type, its slug, its address and its alias slot", () => {
     expect(
-      accountPageText({ slug: "c-seven", email: "seven@example.com", aliasIndex: 7, id: ID })
+      accountPageText({ slug: "c-seven", email: "seven@example.com", aliasIndex: 7, id: ID }, HERE)
     ).toBe(`import type { ClaudeAccount } from "akasha/agents/claude-accounts/claude-account.page-type.types.ts"
 
 export const cSeven = {
@@ -82,23 +85,26 @@ export const cSeven = {
   })
 
   test("the export a page is bound to is the slug with each dash dropped", () => {
-    const text = accountPageText({ slug: "c-one-two", email: "a@b.co", aliasIndex: 1, id: ID })
+    const text = accountPageText(
+      { slug: "c-one-two", email: "a@b.co", aliasIndex: 1, id: ID },
+      HERE
+    )
     expect(text).toContain("export const cOneTwo = {")
   })
 
   test("an alias slot is written as a number rather than as text", () => {
-    const text = accountPageText({ slug: "c1", email: "a@b.co", aliasIndex: 12, id: ID })
+    const text = accountPageText({ slug: "c1", email: "a@b.co", aliasIndex: 12, id: ID }, HERE)
     expect(text).toContain("  aliasIndex: 12,")
     expect(text).not.toContain('aliasIndex: "12"')
   })
 
   test("the text closes with one newline", () => {
-    const text = accountPageText({ slug: "c1", email: "a@b.co", aliasIndex: 1, id: ID })
+    const text = accountPageText({ slug: "c1", email: "a@b.co", aliasIndex: 1, id: ID }, HERE)
     expect(text.endsWith("} as const satisfies ClaudeAccount\n")).toBe(true)
   })
 
   test("nothing but the account's own values is written", () => {
-    const text = accountPageText({ slug: "c1", email: "a@b.co", aliasIndex: 1, id: ID })
+    const text = accountPageText({ slug: "c1", email: "a@b.co", aliasIndex: 1, id: ID }, HERE)
     expect(text).not.toContain("accountUuid")
     expect(text).not.toContain("subscriptionType")
     expect(text).not.toContain("rateLimitTier")
