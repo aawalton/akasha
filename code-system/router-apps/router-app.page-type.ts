@@ -14,6 +14,7 @@ export const routerApp = {
     "file-property/placeholder-image",
     "module/font-preload",
     "module/health-answer",
+    "module/root-nonce-loader",
     "module/router-app-rendering",
     "module/router-context-adapters",
     "code-file-property/root-route",

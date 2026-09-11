@@ -2,6 +2,7 @@ import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-no
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
 import { fontPreloading } from "akasha/code-system/router-apps/font-preload/font-preload.module.code.ts"
+import { rootNonceLoader } from "akasha/code-system/router-apps/root-nonce-loader/root-nonce-loader.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import type React from "react"
 import {
@@ -23,9 +24,7 @@ export const meta: Route.MetaFunction = () => [
   { name: "description", content: "audhdalan.com" },
 ]
 
-export async function loader({ context }: Route.LoaderArgs) {
-  return { nonce: context.nonce }
-}
+export const loader = rootNonceLoader
 
 export function Layout({ children }: { children: React.ReactNode }) {
   const nonce = useRouteLoaderData<typeof loader>("root")?.nonce
