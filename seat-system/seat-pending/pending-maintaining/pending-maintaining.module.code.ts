@@ -71,7 +71,7 @@ function follow(dir: string, deep: boolean, nudge: () => boolean): boolean {
   }
 }
 
-function main(argv: readonly string[]): number {
+export function runPendingMaintaining(argv: readonly string[]): number {
   fromFiles()
   if (argv.includes("--once")) return 0
   let followed = 0
@@ -94,5 +94,5 @@ function main(argv: readonly string[]): number {
 }
 
 if (import.meta.main) {
-  process.exitCode = main(process.argv.slice(2))
+  process.exitCode = runPendingMaintaining(process.argv.slice(2))
 }
