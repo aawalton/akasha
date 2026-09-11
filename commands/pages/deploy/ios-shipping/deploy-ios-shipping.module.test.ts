@@ -6,7 +6,7 @@ import {
   NO_UPLOAD_SAID,
   saidOfUnpushed,
   UPLOAD_SAID,
-} from "akasha/commands/pages/deploy/deploy-ios-shipping/deploy-ios-shipping.module.code.ts"
+} from "akasha/commands/pages/deploy/ios-shipping/deploy-ios-shipping.module.code.ts"
 
 const COMMIT = "0123456789abcdef0123456789abcdef01234567"
 

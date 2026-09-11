@@ -4,7 +4,7 @@ import { INPUT } from "akasha/commands/modules/answering/command-answering.modul
 import {
   installedOnDevice,
   scriptOf,
-} from "akasha/commands/pages/deploy/deploy-device-installing/deploy-device-installing.module.code.ts"
+} from "akasha/commands/pages/deploy/device-installing/deploy-device-installing.module.code.ts"
 
 const UDID = "00008030-000B0C0D0E0F1112"
 

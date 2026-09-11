@@ -3,7 +3,7 @@ import { join } from "node:path"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { DATA } from "akasha/commands/modules/cli/cli.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { installedOnSimulator } from "akasha/commands/pages/deploy/deploy-simulator-installing/deploy-simulator-installing.module.code.ts"
+import { installedOnSimulator } from "akasha/commands/pages/deploy/simulator-installing/deploy-simulator-installing.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 

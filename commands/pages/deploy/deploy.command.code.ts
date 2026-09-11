@@ -1,19 +1,19 @@
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
-import { putUpAddon } from "akasha/commands/pages/deploy/deploy-addon-installing/deploy-addon-installing.module.code.ts"
-import { publishedBundleFor } from "akasha/commands/pages/deploy/deploy-bundle-publishing/deploy-bundle-publishing.module.code.ts"
+import { putUpAddon } from "akasha/commands/pages/deploy/addon-installing/deploy-addon-installing.module.code.ts"
+import { publishedBundleFor } from "akasha/commands/pages/deploy/bundle-publishing/deploy-bundle-publishing.module.code.ts"
 import {
   AT_HEAD,
   commitAt,
   driftedFrom,
   saidOfDrift,
   saidOfNoCommit,
-} from "akasha/commands/pages/deploy/deploy-commit-naming/deploy-commit-naming.module.code.ts"
-import { installedOnDevice } from "akasha/commands/pages/deploy/deploy-device-installing/deploy-device-installing.module.code.ts"
-import { pushedImage } from "akasha/commands/pages/deploy/deploy-image-pushing/deploy-image-pushing.module.code.ts"
-import { putUpInferenceService } from "akasha/commands/pages/deploy/deploy-inference-installing/deploy-inference-installing.module.code.ts"
-import { shipIosApp } from "akasha/commands/pages/deploy/deploy-ios-shipping/deploy-ios-shipping.module.code.ts"
+} from "akasha/commands/pages/deploy/commit-naming/deploy-commit-naming.module.code.ts"
+import { installedOnDevice } from "akasha/commands/pages/deploy/device-installing/deploy-device-installing.module.code.ts"
+import { pushedImage } from "akasha/commands/pages/deploy/image-pushing/deploy-image-pushing.module.code.ts"
+import { putUpInferenceService } from "akasha/commands/pages/deploy/inference-installing/deploy-inference-installing.module.code.ts"
+import { shipIosApp } from "akasha/commands/pages/deploy/ios-shipping/deploy-ios-shipping.module.code.ts"
 import {
   CLUSTER_SERVICE,
   CONTAINER_RECIPE,
@@ -24,9 +24,9 @@ import {
   type Named as Read,
   WEB_APP,
   WORKSTATION_SERVICE,
-} from "akasha/commands/pages/deploy/deploy-kind-reading/deploy-kind-reading.module.code.ts"
-import { installedOnSimulator } from "akasha/commands/pages/deploy/deploy-simulator-installing/deploy-simulator-installing.module.code.ts"
-import { putUpWebApp } from "akasha/commands/pages/deploy/deploy-web-putting-up/deploy-web-putting-up.module.code.ts"
+} from "akasha/commands/pages/deploy/kind-reading/deploy-kind-reading.module.code.ts"
+import { installedOnSimulator } from "akasha/commands/pages/deploy/simulator-installing/deploy-simulator-installing.module.code.ts"
+import { putUpWebApp } from "akasha/commands/pages/deploy/web-putting-up/deploy-web-putting-up.module.code.ts"
 import {
   appliedWorkload,
   servableNamed,
