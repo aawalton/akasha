@@ -6,6 +6,7 @@ import type {
   InferenceService,
 } from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
 import { SERVICES } from "akasha/inference/pool/inference-services/inference-services.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const PROSE_ROUTE = "-file"
 
@@ -97,9 +98,7 @@ export function wordsIn(
       continue
     }
     if (looksLikeFlag(one)) {
-      const takes = [...canon.keys(), ...routes.keys(), ...switches]
-        .map((said) => `\`${said}\``)
-        .join(", ")
+      const takes = namesDrawn([...canon.keys(), ...routes.keys(), ...switches])
       refusals.push(`\`${one}\` is no flag this takes — it takes ${takes}`)
       continue
     }
@@ -128,10 +127,7 @@ export function heldOr<T>(value: Reading<T>, refusals: string[]): T | null {
 
 export function aloneIn(said: Said, wants: string): Reading<string | undefined> {
   if (said.loose.length > 1) {
-    const extra = said.loose
-      .slice(1)
-      .map((one) => `\`${one}\``)
-      .join(", ")
+    const extra = namesDrawn(said.loose.slice(1))
     return { refused: [`this names ${wants} once, and ${extra} followed the one it named`] }
   }
   return said.loose[0]
