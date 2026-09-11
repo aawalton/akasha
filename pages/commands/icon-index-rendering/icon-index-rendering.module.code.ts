@@ -1,6 +1,7 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { DataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   everyOfType,
@@ -9,8 +10,6 @@ import {
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const MODULE_TYPE = "01a04a20-6e04-7b99-81a0-0efe0ad0a02a"
-
-const ROOT = "akasha/"
 
 const TYPES = "types"
 
@@ -160,7 +159,7 @@ function typesAt(root: string): string {
       `\`${listed.path}\` is under no TypeScript name, so a rendered page could import no type`
     )
   }
-  return `${ROOT}${beside}`
+  return importedFrom(beside)
 }
 
 export function pageBody(root: string, slug: string, definition: string): string {
@@ -208,7 +207,7 @@ export function aggregate(indexShards: number, pascalShards: number): Staged {
   const overPascal = <T>(f: (at: number) => T): T[] =>
     Array.from({ length: pascalShards }, (_unused, at) => f(at))
   const reaching = (named: string, slug: string): string =>
-    `import { ${named} } from "${ROOT}${codeAtOf(slug)}"`
+    `import { ${named} } from "${importedFrom(codeAtOf(slug))}"`
 
   const body = [
     ...overIndex((at) => reaching(shardConst("ICON_SEARCH_INDEX", at), shardSlug(INDEX_STEM, at))),
