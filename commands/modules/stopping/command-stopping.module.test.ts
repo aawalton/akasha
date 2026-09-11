@@ -99,3 +99,44 @@ test("allowing a call through where no watch is live leaves it with no watch", (
 
   expect(() => allowedThrough()).not.toThrow()
 })
+
+const CODE = `${import.meta.dir}/command-stopping.module.code.ts`
+
+const THROUGH = "ran through"
+
+type Ran = {
+  readonly signal: string | null
+  readonly code: number | null
+  readonly said: string
+  readonly out: string
+}
+
+async function ranOf(stated: string): Promise<Ran> {
+  const source =
+    `const { secondsIn, watching } = await import(${JSON.stringify(CODE)})\n` +
+    `watching(secondsIn({ timeout: ${stated} }), ${JSON.stringify(NAMED)})\n` +
+    `await Bun.sleep(${SECOND * 2})\n` +
+    `console.log(${JSON.stringify(THROUGH)})\n`
+  const kid = Bun.spawn(["bun", "-e", source], { stdin: "ignore", stdout: "pipe", stderr: "pipe" })
+  const out = await new Response(kid.stdout).text()
+  const said = await new Response(kid.stderr).text()
+  await kid.exited
+  return { signal: kid.signalCode, code: kid.exitCode, said, out }
+}
+
+test("a call whose page states seconds is stopped where that call runs past them", async () => {
+  const ran = await ranOf("1")
+
+  expect(ran.signal).toBe("SIGKILL")
+  expect(ran.said).toContain(saidOf(NAMED, 1))
+  expect(ran.out).not.toContain(THROUGH)
+})
+
+test("a call whose page states null for its seconds is left to run past them", async () => {
+  const ran = await ranOf("null")
+
+  expect(ran.code).toBe(0)
+  expect(ran.signal).toBe(null)
+  expect(ran.out).toContain(THROUGH)
+  expect(ran.said).not.toContain("stopped")
+})
