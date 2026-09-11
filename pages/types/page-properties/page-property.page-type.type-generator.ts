@@ -63,6 +63,8 @@ const HELD = new Map<string, string>([
   ["page-property-entry", '"jsonl"'],
   ["phone-number-property", "string"],
   ["process-property", "string"],
+  ["standard-agent-english-property", "string"],
+  ["text-property", "string"],
   ["url-property", "string"],
 ])
 
