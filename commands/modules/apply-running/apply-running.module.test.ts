@@ -38,6 +38,8 @@ const MAPPED_ID = "01a081cd-0cb7-7579-9073-ed4e5aa98bf0"
 
 const MAPPED = `akasha/mapped.${RUNNER}.addressed.ts`
 
+const ORPHAN = `akasha/orphan.${RUNNER}.addressed.ts`
+
 const WAS = "a\nb\nc\n"
 
 const NOW = "a\nB\nc\n"
@@ -214,6 +216,17 @@ test("a row written again on every apply is dropped where another row folds", as
 
   expect("folded" in said ? said.dropped : []).toEqual([MAPPED])
   expect("folded" in said ? said.folded : []).toEqual([ONE])
+})
+
+test("a row for a map no runner page claims folds like any other row", async () => {
+  const root = await repo()
+  await committing(root, ORPHAN, WAS)
+  appendEdits(root, PAGE, [replacing(ORPHAN, WAS, NOW)])
+
+  const said = folding(root, PAGE)
+
+  expect("folded" in said ? said.dropped : []).toEqual([])
+  expect("folded" in said ? said.folded : []).toEqual([ORPHAN])
 })
 
 test("a fold the apply landed is left where the apply left it", async () => {
