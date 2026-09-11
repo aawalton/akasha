@@ -1,7 +1,7 @@
 import { beforeEach, expect, test } from "bun:test"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { AppLoadContext } from "react-router"
+import { loaderArgs } from "akasha/temper/web/resource-loader-args-test-utils/resource-loader-args-test-utils.module.code.ts"
 
 const SCRATCH_AT = "/var/tmp"
 
@@ -13,19 +13,6 @@ const { ADDONS_BUNDLE_DIR } = await import(
 )
 
 const BUNDLE_FILE = join(ADDONS_BUNDLE_DIR, "temper-addons.zip")
-
-type ResourceLoaderArgs = {
-  request: Request
-  url: URL
-  params: Record<string, never>
-  pattern: string
-  context: AppLoadContext
-}
-
-function loaderArgs(pathname: string): ResourceLoaderArgs {
-  const url = new URL(`https://tempereso.com${pathname}`)
-  return { request: new Request(url), url, params: {}, pattern: pathname, context: {} }
-}
 
 const BUNDLE_BYTES = new Uint8Array([0x50, 0x4b, 0x03, 0x04, 0x00, 0x01, 0x02, 0x03])
 

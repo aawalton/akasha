@@ -1,7 +1,7 @@
 import { beforeEach, expect, test } from "bun:test"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { AppLoadContext } from "react-router"
+import { loaderArgs } from "akasha/temper/web/resource-loader-args-test-utils/resource-loader-args-test-utils.module.code.ts"
 
 const SCRATCH_AT = "/var/tmp"
 
@@ -15,19 +15,6 @@ const { ADDONS_BUNDLE_DIR } = await import(
 )
 
 const VERSION_FILE = join(ADDONS_BUNDLE_DIR, "version.txt")
-
-type ResourceLoaderArgs = {
-  request: Request
-  url: URL
-  params: Record<string, never>
-  pattern: string
-  context: AppLoadContext
-}
-
-function loaderArgs(pathname: string): ResourceLoaderArgs {
-  const url = new URL(`https://tempereso.com${pathname}`)
-  return { request: new Request(url), url, params: {}, pattern: pathname, context: {} }
-}
 
 beforeEach(() => {
   rmSync(VERSION_FILE, { force: true })

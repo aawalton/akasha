@@ -221,6 +221,7 @@ export const temperWeb = {
     "module/recent-characters-card",
     "module/recent-companions-card",
     "module/recipes-progress-panel-card",
+    "module/resource-loader-args-test-utils",
     "module/restore-confirm-dialog",
     "module/scribing-knowledge-progress-panel-card",
     "module/scribing-panel-card",
