@@ -1,5 +1,6 @@
 #!/usr/bin/env bun
 
+import { chunk } from "../../../../utils/narrow/chunk/chunk.module.code.ts"
 import { categorizeRecent } from "../categorize-recent/monarch-categorize-recent.module.code.ts"
 import type { MonarchStamp, MonarchTransaction } from "../client/monarch-client.module.code.ts"
 import { monarchClient } from "../client/monarch-client.module.code.ts"
@@ -24,12 +25,6 @@ export interface PollTally {
 }
 
 const REFETCH_IDS = 400
-
-function chunk<T>(items: readonly T[], size: number): readonly (readonly T[])[] {
-  const out: T[][] = []
-  for (let i = 0; i < items.length; i += size) out.push(items.slice(i, i + size))
-  return out
-}
 
 export function changedIds(
   stamps: readonly MonarchStamp[],

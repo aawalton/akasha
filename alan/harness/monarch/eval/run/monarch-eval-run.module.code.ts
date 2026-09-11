@@ -1,5 +1,6 @@
 #!/usr/bin/env bun
 
+import { chunk } from "akasha/utils/narrow/chunk/chunk.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import { readHistory } from "../../history/monarch-history.module.code.ts"
 import { loadCategoryRules } from "../../rule-documents/monarch-rule-documents.module.code.ts"
@@ -45,12 +46,6 @@ export interface RunFile {
   readonly digestBefore: Digest
   readonly digestAfter: Digest
   readonly pagesMoved: readonly string[]
-}
-
-function chunk<T>(items: readonly T[], size: number): readonly (readonly T[])[] {
-  const out: T[][] = []
-  for (let i = 0; i < items.length; i += size) out.push(items.slice(i, i + size))
-  return out
 }
 
 async function ask(
