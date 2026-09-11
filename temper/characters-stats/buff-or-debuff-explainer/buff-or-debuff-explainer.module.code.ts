@@ -1,16 +1,19 @@
 import type { PotionSource } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import type { BuffOrDebuffSource } from "../../formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
-import type { BuffOrDebuffEffect } from "../../formula-framework/effect/effect.module.code.ts"
+import { getBuffOrDebuffId } from "akasha/temper/characters-stats/buff-or-debuff-id/buff-or-debuff-id.module.code.ts"
+import {
+  getMetricDisplayName,
+  metrics,
+} from "akasha/temper/characters-stats/metrics/metrics.module.code.ts"
+import type { BuffOrDebuffSource } from "akasha/temper/formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+import type { BuffOrDebuffEffect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
 import {
   isBuffOrDebuffEffect,
   isMetricEffect,
   type MetricEffect,
-} from "../../formula-framework/effect/effect.module.code.ts"
-import type { EffectSource } from "../../formula-framework/effect-source/effect-source.module.code.ts"
-import type { SkillSource } from "../../formula-framework/skill-source/skill-source.module.code.ts"
-import { getBuffOrDebuffId } from "../buff-or-debuff-id/buff-or-debuff-id.module.code.ts"
-import { getMetricDisplayName, metrics } from "../metrics/metrics.module.code.ts"
+} from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import type { EffectSource } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
+import type { SkillSource } from "akasha/temper/formula-framework/skill-source/skill-source.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 function isSkillSource(source: EffectSource): source is SkillSource {
   return source.categoryId === "skills"

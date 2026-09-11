@@ -5,13 +5,13 @@ import type {
   MetricEffect,
   SlottedAbilityScalingEffect,
   WeaponTypeConditionalEffect,
-} from "../../formula-framework/effect/effect.module.code.ts"
+} from "akasha/temper/formula-framework/effect/effect.module.code.ts"
 import {
   isArmorPieceScalingEffect,
   isSlottedAbilityScalingEffect,
   isWeaponTypeConditionalEffect,
-} from "../../formula-framework/effect/effect.module.code.ts"
-import type { SkillLineId } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
+} from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import type { SkillLineId } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
 
 function resolveEffects<E extends Effect>(
   effects: readonly Effect[],

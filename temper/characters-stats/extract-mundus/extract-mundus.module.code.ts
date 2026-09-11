@@ -1,5 +1,5 @@
-import { createMundusSource } from "../../character-sources/mundus-source/mundus-source.module.code.ts"
-import type { PipelineStage } from "../pipeline-types/pipeline-types.module.code.ts"
+import { createMundusSource } from "akasha/temper/character-sources/mundus-source/mundus-source.module.code.ts"
+import type { PipelineStage } from "akasha/temper/characters-stats/pipeline-types/pipeline-types.module.code.ts"
 
 export const extractMundus: PipelineStage = (build, context) => {
   if (build.character.mundusStone === "no-mundus") return []

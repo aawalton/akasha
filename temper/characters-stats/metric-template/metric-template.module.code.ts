@@ -1,6 +1,6 @@
-import type { MetricId } from "../../formula-framework/metric-id/metric-id.module.code.ts"
-import type { FormulaNode } from "../formula-types/formula-types.module.code.ts"
-import type { MetricValueType } from "../metric-value-types/metric-value-types.module.code.ts"
+import type { FormulaNode } from "akasha/temper/characters-stats/formula-types/formula-types.module.code.ts"
+import type { MetricValueType } from "akasha/temper/characters-stats/metric-value-types/metric-value-types.module.code.ts"
+import type { MetricId } from "akasha/temper/formula-framework/metric-id/metric-id.module.code.ts"
 
 type EsoStatFields =
   | { category: "base"; esoStatConstantName: string }

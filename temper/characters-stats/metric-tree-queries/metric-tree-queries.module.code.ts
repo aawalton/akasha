@@ -1,10 +1,10 @@
-import type { MetricId } from "../../formula-framework/metric-id/metric-id.module.code.ts"
-import { METRIC_TREE } from "../metric-tree-data/metric-tree-data.module.code.ts"
+import { METRIC_TREE } from "akasha/temper/characters-stats/metric-tree-data/metric-tree-data.module.code.ts"
 import {
   isMetricNode,
   type MetricTree,
   type MetricTreeNode,
-} from "../metric-tree-types/metric-tree-types.module.code.ts"
+} from "akasha/temper/characters-stats/metric-tree-types/metric-tree-types.module.code.ts"
+import type { MetricId } from "akasha/temper/formula-framework/metric-id/metric-id.module.code.ts"
 
 function buildParentChainIndex(tree: MetricTree): Map<MetricId, MetricId[]> {
   const index = new Map<MetricId, MetricId[]>()

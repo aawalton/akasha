@@ -7,13 +7,13 @@ import {
   createSetSource,
   type SetSource,
 } from "akasha/temper/characters-equipment/set-source/set-source.module.code.ts"
+import type { PipelineStage } from "akasha/temper/characters-stats/pipeline-types/pipeline-types.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import {
   type EquipmentQualityId,
   resolveQuality,
-} from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
-import { valuesOf } from "../../formula-framework/record-parts/record-parts.module.code.ts"
-import type { PipelineStage } from "../pipeline-types/pipeline-types.module.code.ts"
+} from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import { valuesOf } from "akasha/temper/formula-framework/record-parts/record-parts.module.code.ts"
 
 function getSetInfo(
   item: ArmorSlotItem | JewelrySlotItem | WeaponSlotItem

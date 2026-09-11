@@ -1,4 +1,4 @@
-import type { MetricTree } from "../metric-tree-types/metric-tree-types.module.code.ts"
+import type { MetricTree } from "akasha/temper/characters-stats/metric-tree-types/metric-tree-types.module.code.ts"
 
 export const METRIC_TREE_DATA_01 = {
   "damage": {

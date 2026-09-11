@@ -1,18 +1,3 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
-import {
-  convertArithmeticToDisplay,
-  type DisplayResult,
-} from "../../formula-framework/display-formula-convert/display-formula-convert.module.code.ts"
-import type {
-  DisplayFormulaNode,
-  NumberFormat,
-} from "../../formula-framework/display-formula-node/display-formula-node.module.code.ts"
-import type { EffectSource } from "../../formula-framework/effect-source/effect-source.module.code.ts"
-import type { MetricId } from "../../formula-framework/metric-id/metric-id.module.code.ts"
-import { formatDecimal } from "../../formula-framework/number-format/number-format.module.code.ts"
-import { convertRatingToChance } from "../../formula-framework/rating-chance/rating-chance.module.code.ts"
-import { sourceCategories } from "../../formula-framework/source-category/source-category.module.code.ts"
 import {
   getAttributeEffects,
   getConditionalChanceEffects,
@@ -21,11 +6,30 @@ import {
   getIntegerEffects,
   getNumberPerSecondsEffects,
   getPercentageEffects,
-} from "../extractors/extractors.module.code.ts"
-import type { FormulaNode } from "../formula-types/formula-types.module.code.ts"
-import { getAggregateMetricIds } from "../metric-tree-queries/metric-tree-queries.module.code.ts"
-import type { MetricValue } from "../metric-value/metric-value.module.code.ts"
-import { getMetricDisplayName, hasFormula, metrics } from "../metrics/metrics.module.code.ts"
+} from "akasha/temper/characters-stats/extractors/extractors.module.code.ts"
+import type { FormulaNode } from "akasha/temper/characters-stats/formula-types/formula-types.module.code.ts"
+import { getAggregateMetricIds } from "akasha/temper/characters-stats/metric-tree-queries/metric-tree-queries.module.code.ts"
+import type { MetricValue } from "akasha/temper/characters-stats/metric-value/metric-value.module.code.ts"
+import {
+  getMetricDisplayName,
+  hasFormula,
+  metrics,
+} from "akasha/temper/characters-stats/metrics/metrics.module.code.ts"
+import {
+  convertArithmeticToDisplay,
+  type DisplayResult,
+} from "akasha/temper/formula-framework/display-formula-convert/display-formula-convert.module.code.ts"
+import type {
+  DisplayFormulaNode,
+  NumberFormat,
+} from "akasha/temper/formula-framework/display-formula-node/display-formula-node.module.code.ts"
+import type { EffectSource } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
+import type { MetricId } from "akasha/temper/formula-framework/metric-id/metric-id.module.code.ts"
+import { formatDecimal } from "akasha/temper/formula-framework/number-format/number-format.module.code.ts"
+import { convertRatingToChance } from "akasha/temper/formula-framework/rating-chance/rating-chance.module.code.ts"
+import { sourceCategories } from "akasha/temper/formula-framework/source-category/source-category.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 
 function effectTypeToFormat(effectType: string): NumberFormat {
   switch (effectType) {

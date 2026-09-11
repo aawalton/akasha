@@ -1,5 +1,5 @@
-import type { MetricId } from "../../formula-framework/metric-id/metric-id.module.code.ts"
-import type { MetricValue } from "../metric-value/metric-value.module.code.ts"
+import type { MetricValue } from "akasha/temper/characters-stats/metric-value/metric-value.module.code.ts"
+import type { MetricId } from "akasha/temper/formula-framework/metric-id/metric-id.module.code.ts"
 
 export interface MetricChange {
   metric: MetricValue

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const extractArmor = {
   id: "01a06271-abcf-73d3-9f27-e843cae7cf5f",

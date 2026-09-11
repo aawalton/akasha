@@ -1,23 +1,23 @@
 import { indexBy } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
-import { base } from "../../character-sources/base-source/base-source.module.code.ts"
-import type { EffectSource } from "../../formula-framework/effect-source/effect-source.module.code.ts"
-import type { MetricId } from "../../formula-framework/metric-id/metric-id.module.code.ts"
-import { topologicalSort } from "../../formula-framework/topological-sort/topological-sort.module.code.ts"
-import { calculateBuffs } from "../buff-or-debuff-calculator/buff-or-debuff-calculator.module.code.ts"
-import { buildStateToEffectSources } from "../build-state-adapter/build-state-adapter.module.code.ts"
-import type { FormulaNode } from "../formula-types/formula-types.module.code.ts"
+import { base } from "akasha/temper/character-sources/base-source/base-source.module.code.ts"
+import { calculateBuffs } from "akasha/temper/characters-stats/buff-or-debuff-calculator/buff-or-debuff-calculator.module.code.ts"
+import { buildStateToEffectSources } from "akasha/temper/characters-stats/build-state-adapter/build-state-adapter.module.code.ts"
+import type { FormulaNode } from "akasha/temper/characters-stats/formula-types/formula-types.module.code.ts"
 import {
   evaluateFormula,
   roundMetricValue,
-} from "../metric-formulas/metric-formulas.module.code.ts"
-import type { MetricValue } from "../metric-value/metric-value.module.code.ts"
+} from "akasha/temper/characters-stats/metric-formulas/metric-formulas.module.code.ts"
+import type { MetricValue } from "akasha/temper/characters-stats/metric-value/metric-value.module.code.ts"
 import {
   hasFormula,
   type MetricWithFormula,
   metrics,
   metricsWithFormulas,
-} from "../metrics/metrics.module.code.ts"
+} from "akasha/temper/characters-stats/metrics/metrics.module.code.ts"
+import type { EffectSource } from "akasha/temper/formula-framework/effect-source/effect-source.module.code.ts"
+import type { MetricId } from "akasha/temper/formula-framework/metric-id/metric-id.module.code.ts"
+import { topologicalSort } from "akasha/temper/formula-framework/topological-sort/topological-sort.module.code.ts"
 
 export interface CalculationResult {
   sources: readonly EffectSource[]

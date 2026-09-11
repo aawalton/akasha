@@ -1,14 +1,17 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { buffOrDebuff } from "../../formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+import {
+  getMetricDisplayName,
+  metrics,
+} from "akasha/temper/characters-stats/metrics/metrics.module.code.ts"
+import { buffOrDebuff } from "akasha/temper/formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import {
   type BuffOrDebuffEffect,
   type Effect,
   isBuffOrDebuffEffect,
   isMetricEffect,
   type MetricEffect,
-} from "../../formula-framework/effect/effect.module.code.ts"
-import { formatPercent } from "../../formula-framework/number-format/number-format.module.code.ts"
-import { getMetricDisplayName, metrics } from "../metrics/metrics.module.code.ts"
+} from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import { formatPercent } from "akasha/temper/formula-framework/number-format/number-format.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 function resolveMetricName(metricId: string): string {
   return metrics.has(metricId) ? getMetricDisplayName(metricId) : metricId

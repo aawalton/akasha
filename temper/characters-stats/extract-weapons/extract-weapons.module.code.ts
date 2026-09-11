@@ -1,5 +1,5 @@
 import { createWeaponSource } from "akasha/temper/characters-equipment/weapon-source/weapon-source.module.code.ts"
-import type { PipelineStage } from "../pipeline-types/pipeline-types.module.code.ts"
+import type { PipelineStage } from "akasha/temper/characters-stats/pipeline-types/pipeline-types.module.code.ts"
 
 export const extractWeapons: PipelineStage = (build, context) => {
   if (context.bar === "primary-weapon-bar") {

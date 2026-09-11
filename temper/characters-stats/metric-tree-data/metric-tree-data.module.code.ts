@@ -1,6 +1,6 @@
-import { METRIC_TREE_DATA_01 } from "../metric-tree-data-01/metric-tree-data-01.module.code.ts"
-import { METRIC_TREE_DATA_02 } from "../metric-tree-data-02/metric-tree-data-02.module.code.ts"
-import type { MetricTree } from "../metric-tree-types/metric-tree-types.module.code.ts"
+import { METRIC_TREE_DATA_01 } from "akasha/temper/characters-stats/metric-tree-data-01/metric-tree-data-01.module.code.ts"
+import { METRIC_TREE_DATA_02 } from "akasha/temper/characters-stats/metric-tree-data-02/metric-tree-data-02.module.code.ts"
+import type { MetricTree } from "akasha/temper/characters-stats/metric-tree-types/metric-tree-types.module.code.ts"
 
 export const METRIC_TREE = {
   "damage": METRIC_TREE_DATA_01["damage"],

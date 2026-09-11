@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const buffOrDebuffId = {
   id: "01a0614a-4ce5-7613-983f-ed59da792009",

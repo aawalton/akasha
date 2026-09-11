@@ -1,16 +1,16 @@
 import { skills } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
-import type { Effect } from "../../formula-framework/effect/effect.module.code.ts"
-import type { SkillSource } from "../../formula-framework/skill-source/skill-source.module.code.ts"
 import {
   resolveArmorPieceScalingEffects,
   resolveSlottedAbilityScalingEffects,
   resolveWeaponTypeConditionalEffects,
-} from "../passive-effect-resolution/passive-effect-resolution.module.code.ts"
+} from "akasha/temper/characters-stats/passive-effect-resolution/passive-effect-resolution.module.code.ts"
 import {
   buildEligibilityContext,
   isPassiveEligible,
-} from "../passive-eligibility/passive-eligibility.module.code.ts"
-import type { PipelineStage } from "../pipeline-types/pipeline-types.module.code.ts"
+} from "akasha/temper/characters-stats/passive-eligibility/passive-eligibility.module.code.ts"
+import type { PipelineStage } from "akasha/temper/characters-stats/pipeline-types/pipeline-types.module.code.ts"
+import type { Effect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import type { SkillSource } from "akasha/temper/formula-framework/skill-source/skill-source.module.code.ts"
 
 export const extractPassives: PipelineStage = (build, context) => {
   const sources: SkillSource[] = []

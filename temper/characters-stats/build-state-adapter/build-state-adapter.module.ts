@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const buildStateAdapter = {
   id: "01a06271-abcf-7611-b89c-a1d283dbe141",
