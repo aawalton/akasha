@@ -10,6 +10,8 @@ import {
   type Warrant,
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
+  type Declared,
+  declaring,
   pathsOf,
   warrantsSeeded,
 } from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
@@ -31,19 +33,6 @@ afterAll(scratch.sweep)
 const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
 const PATH = "akasha/thing/thing.module.ts"
-
-type Declared = {
-  readonly pageTypeSlug: string
-  readonly slug: string
-}
-
-function declaring(said: readonly Declared[]): readonly Record<string, unknown>[] {
-  return said.map((one) => ({
-    pagePropertySlug: `${one.pageTypeSlug}/${one.slug}`,
-    required: false,
-    many: false,
-  }))
-}
 
 function pageType(root: string, slug: string, said: readonly Declared[] = []): undefined {
   const id = mintedId(slug)

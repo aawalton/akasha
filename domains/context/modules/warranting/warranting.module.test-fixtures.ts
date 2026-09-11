@@ -205,6 +205,19 @@ export function pathsOf(found: readonly Warrant[]): readonly string[] {
   return found.map((one) => one.path)
 }
 
+export type Declared = {
+  readonly pageTypeSlug: string
+  readonly slug: string
+}
+
+export function declaring(said: readonly Declared[]): readonly Record<string, unknown>[] {
+  return said.map((one) => ({
+    pagePropertySlug: `${one.pageTypeSlug}/${one.slug}`,
+    required: false,
+    many: false,
+  }))
+}
+
 function filed(root: string, held: Listed, typeSlug: string, slug: string): undefined {
   pathFiled(root, held.path, [held])
   idFiled(root, held.id, [held])

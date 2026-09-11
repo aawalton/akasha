@@ -9,7 +9,11 @@ import {
   knowingIn,
   type Warrant,
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { pathsOf } from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
+import {
+  type Declared,
+  declaring,
+  pathsOf,
+} from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
 import {
   filePropertyFile,
   PAGE,
@@ -38,25 +42,12 @@ const TEST_PROPERTY_AT = "akasha/properties/test.file-property.ts"
 
 const TYPE_AT = "akasha/file-property/file-property.page-type.ts"
 
-type Declared = {
-  readonly pageTypeSlug: string
-  readonly slug: string
-}
-
 const STATED: readonly Declared[] = [
   { pageTypeSlug: "file-property", slug: "code" },
   { pageTypeSlug: "file-property", slug: "test" },
   { pageTypeSlug: "file-property", slug: "cases" },
   { pageTypeSlug: "text-property", slug: "notes" },
 ]
-
-function declaring(said: readonly Declared[]): readonly Record<string, unknown>[] {
-  return said.map((one) => ({
-    pagePropertySlug: `${one.pageTypeSlug}/${one.slug}`,
-    required: false,
-    many: false,
-  }))
-}
 
 function pageType(root: string, slug: string, said: readonly Declared[] = []): string {
   const id = mintedId(slug)
