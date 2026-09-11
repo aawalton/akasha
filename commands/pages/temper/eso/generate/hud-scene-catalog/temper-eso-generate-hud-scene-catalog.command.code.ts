@@ -29,6 +29,8 @@ const DOC_REL = "ESOUIDocumentation.txt"
 
 const CATALOG_DIR = "temper/hud-components"
 
+const CATALOG_AT = `akasha/${CATALOG_DIR}`
+
 const AKASHA_FILE_CEILING = 15000
 
 const PUT = "change-mechanical/add-file-code"
@@ -81,8 +83,8 @@ function renderRecord(record: HudComponentRecord): string {
 }
 
 function renderModule(binding: string, records: readonly HudComponentRecord[]): string {
-  return `import type { HudComponentRecord } from "../hud-component-record/hud-component-record.module.code.ts"
-import { HUD_SCENE_SOURCE } from "../hud-scene-source/hud-scene-source.module.code.ts"
+  return `import type { HudComponentRecord } from "${CATALOG_AT}/hud-component-record/hud-component-record.module.code.ts"
+import { HUD_SCENE_SOURCE } from "${CATALOG_AT}/hud-scene-source/hud-scene-source.module.code.ts"
 
 export const ${binding} = [
 ${records.map(renderRecord).join("\n")}

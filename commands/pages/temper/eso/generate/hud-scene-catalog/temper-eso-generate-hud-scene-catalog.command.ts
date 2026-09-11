@@ -59,6 +59,11 @@ export const temperEsoGenerateHudSceneCatalog = {
       statement: "The three modules are written into the folder the hud components already sit in.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A rendered module names what it imports from the root rather than by a relative path.",
+    },
+    {
       invariantKind: "absence",
       statement: "A component the game creates at runtime is outside this catalog.",
     },
