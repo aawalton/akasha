@@ -55,7 +55,6 @@ function enqueue<T>(run: () => Promise<T>): Promise<T> {
 export type RequestOptions = {
   readonly method?: string
   readonly body?: unknown
-  readonly rawContentType?: string
 }
 
 type RawResponse = {
@@ -78,16 +77,11 @@ async function performRequest(url: string, options?: RequestOptions): Promise<Ra
   const token = await getOAuthAccessToken()
   const method = options?.method ?? "GET"
   const hasBody = options?.body !== undefined
-  const rawContentType = options?.rawContentType
   const headers: Record<string, string> = {
     Authorization: `Bearer ${token}`,
-    ...(hasBody && { "Content-Type": rawContentType ?? "application/json" }),
+    ...(hasBody && { "Content-Type": "application/json" }),
   }
-  const body = hasBody
-    ? rawContentType !== undefined
-      ? String(options?.body)
-      : JSON.stringify(options?.body)
-    : undefined
+  const body = hasBody ? JSON.stringify(options?.body) : undefined
   const response = await fetchSpotify(url, { method, headers, ...(hasBody && { body }) })
   return {
     status: response.status,

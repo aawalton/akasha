@@ -2,7 +2,6 @@ import {
   cachePathOf,
   parseCacheOverride,
   readCacheFile,
-  removeCacheFile,
   writeCacheFile,
 } from "akasha/alan/music/spotify/cache-file/spotify-cache-file.module.code.ts"
 import { z } from "zod"
@@ -33,8 +32,4 @@ export function writeToken(token: SpotifyToken, baseDir?: string): undefined {
 
 export function readToken(baseDir?: string): SpotifyToken | null {
   return readCacheFile(getTokenFilePath(baseDir), SpotifyTokenSchema, NAMED)
-}
-
-export function removeToken(baseDir?: string): undefined {
-  removeCacheFile(getTokenFilePath(baseDir))
 }

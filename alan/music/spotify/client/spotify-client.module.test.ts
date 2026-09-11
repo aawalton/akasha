@@ -185,7 +185,7 @@ test("a shape the answer does not match throws", async () => {
   await expect(spotifyGet("/one", z.object({ id: z.string() }))).rejects.toThrow()
 })
 
-test("a body is sent as JSON where no raw content type is named", async () => {
+test("a body is sent as JSON", async () => {
   answering({ status: 200, body: null })
   await spotifyRequest("/me/player", z.null(), { method: "PUT", body: { device_ids: ["a"] } })
   expect(sent[0]?.body).toBe(JSON.stringify({ device_ids: ["a"] }))

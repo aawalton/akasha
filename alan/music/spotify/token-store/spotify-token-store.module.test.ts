@@ -4,7 +4,6 @@ import { join } from "node:path"
 import {
   getTokenFilePath,
   readToken,
-  removeToken,
   type SpotifyToken,
   SpotifyTokenSchema,
   writeToken,
@@ -65,13 +64,6 @@ test("a token file missing its refresh token reads as nothing", () => {
 test("a token file carrying a field the shape does not name reads as nothing", () => {
   const at = scratch()
   writeFileSync(join(at, "token.json"), JSON.stringify({ ...TOKEN, extra: 1 }))
-  expect(readToken(at)).toBe(null)
-})
-
-test("removing the token takes it away", () => {
-  const at = scratch()
-  writeToken(TOKEN, at)
-  removeToken(at)
   expect(readToken(at)).toBe(null)
 })
 

@@ -53,5 +53,6 @@ export const spotifyTokenStore = {
       invariantKind: "absence",
       statement: "Nothing here judges whether a token is expired.",
     },
+    { invariantKind: "absence", statement: "Nothing here takes a token away." },
   ],
 } as const satisfies Module
