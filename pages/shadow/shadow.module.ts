@@ -116,6 +116,10 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A refusal the world already had is dropped however often the change leaves it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A shadow over a change that moves nothing answers no refusal.",
     },
     {
