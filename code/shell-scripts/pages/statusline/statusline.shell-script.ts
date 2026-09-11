@@ -30,5 +30,10 @@ export const statusline = {
       invariantKind: "stopgap",
       statement: "The usage the payload observed is kept by code outside akasha.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A client reaches this script by a link outside every checkout.",
+    },
   ],
+  linkedAt: "~/.local/state/akasha/statusline",
 } as const satisfies ShellScript
