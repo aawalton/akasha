@@ -30,6 +30,7 @@ export const check = {
     "module/audit-verdict",
     "module/audit-serving",
     "module/audit-asking",
+    "module/audit-request",
     "service-workstation/audit-running",
   ],
   invariants: [
