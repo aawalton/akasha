@@ -1,9 +1,9 @@
-import type { EquipmentItem } from "akasha/alan/values/health/fitness/equipment-items/equipment-item.page-type.types.ts"
+import type { FitnessEquipment } from "akasha/alan/values/health/fitness/equipment/fitness-equipment.page-type.types.ts"
 
 export const handGripper = {
   id: "019f0aaa-882e-7851-b3e2-c733095ecb9c",
-  pageTypeSlug: "equipment-item",
-  type: "equipment-item",
+  pageTypeSlug: "fitness-equipment",
+  type: "fitness-equipment",
   slug: "hand-gripper",
   title: "Hand Gripper",
   category: "other",
@@ -11,4 +11,4 @@ export const handGripper = {
   available: true,
   notes:
     "Adjustable resistance gripper, range 10-132 lb. Crush/forearm grip. Watch joint-swelling response (repetitive hand work).",
-} as const satisfies EquipmentItem
+} as const satisfies FitnessEquipment

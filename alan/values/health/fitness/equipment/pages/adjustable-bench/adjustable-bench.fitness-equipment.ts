@@ -1,9 +1,9 @@
-import type { EquipmentItem } from "akasha/alan/values/health/fitness/equipment-items/equipment-item.page-type.types.ts"
+import type { FitnessEquipment } from "akasha/alan/values/health/fitness/equipment/fitness-equipment.page-type.types.ts"
 
 export const adjustableBench = {
   id: "019f01e1-b22e-7858-a88e-87c274072184",
-  pageTypeSlug: "equipment-item",
-  type: "equipment-item",
+  pageTypeSlug: "fitness-equipment",
+  type: "fitness-equipment",
   slug: "adjustable-bench",
   title: "Adjustable Bench",
   category: "bench",
@@ -11,4 +11,4 @@ export const adjustableBench = {
   available: true,
   notes: "Flat + incline.",
   sortOrder: 3,
-} as const satisfies EquipmentItem
+} as const satisfies FitnessEquipment

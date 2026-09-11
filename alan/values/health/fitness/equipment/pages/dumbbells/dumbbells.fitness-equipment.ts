@@ -1,9 +1,9 @@
-import type { EquipmentItem } from "akasha/alan/values/health/fitness/equipment-items/equipment-item.page-type.types.ts"
+import type { FitnessEquipment } from "akasha/alan/values/health/fitness/equipment/fitness-equipment.page-type.types.ts"
 
 export const dumbbells = {
   id: "019f01e1-b0dc-72f8-9040-f0924d81a528",
-  pageTypeSlug: "equipment-item",
-  type: "equipment-item",
+  pageTypeSlug: "fitness-equipment",
+  type: "fitness-equipment",
   slug: "dumbbells",
   title: "Dumbbells",
   category: "dumbbells",
@@ -12,4 +12,4 @@ export const dumbbells = {
   loads: [3, 5, 8, 10, 15, 20, 25, 30],
   notes: "Standard + light DB pairs, one continuous ladder.",
   sortOrder: 1,
-} as const satisfies EquipmentItem
+} as const satisfies FitnessEquipment

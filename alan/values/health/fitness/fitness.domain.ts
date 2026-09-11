@@ -7,7 +7,7 @@ export const fitness = {
   slug: "fitness",
   definition: "how Alan trains his body and what the training did",
   parts: [
-    "page-type/equipment-item",
+    "page-type/fitness-equipment",
     "page-type/exercise",
     "page-type/mobility-reading",
     "page-type/schedule-day",
