@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0023Chapter23BossFight = {
   id: "01a06730-4ee0-7306-b753-e567818600a9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0023-chapter-23-boss-fight",
   title: "Chapter 23: Boss Fight!",

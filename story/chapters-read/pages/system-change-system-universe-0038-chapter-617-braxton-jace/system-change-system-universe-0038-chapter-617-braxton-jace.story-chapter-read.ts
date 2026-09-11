@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemChangeSystemUniverse0038Chapter617BraxtonJace = {
   id: "01a06730-4fba-7220-9fac-7431270e5f43",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-change-system-universe-0038-chapter-617-braxton-jace",
   title: "Chapter 617: Braxton/Jace",

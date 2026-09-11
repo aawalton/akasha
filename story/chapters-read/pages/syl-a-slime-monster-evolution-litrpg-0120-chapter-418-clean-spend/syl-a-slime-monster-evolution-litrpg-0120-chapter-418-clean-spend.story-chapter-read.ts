@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0120Chapter418CleanSpend = {
   id: "01a06730-4e2a-7c4e-b9dc-7e5429ed5c49",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0120-chapter-418-clean-spend",
   title: "Chapter 418 : Clean Spend",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0008Chapter8ComingOutAWinner = {
   id: "01a06730-4eda-715a-8929-ea6d2fd11467",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0008-chapter-8-coming-out-a-winner",
   title: "Chapter 8: Coming Out a Winner",

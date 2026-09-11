@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0064Chapter144BankingWithBobTheLeagueSteals = {
   id: "01a06730-4f71-7d76-913d-cc92fd556096",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0064-chapter-144-banking-with-bob-the-league-steals",
   title: "Chapter 144: Banking with Bob (The League Steals)",

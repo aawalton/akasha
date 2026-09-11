@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemGirlSystemMcWorldHoppingComedy0085Chapter84TheGreatEscape = {
   id: "01a06730-4dfc-7f73-aa34-cfd667b79d6b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0085-chapter-84-the-great-escape",
   title: "Chapter 84: The Great Escape",

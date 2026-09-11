@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemChangeSystemUniverse0022SystemUniverseBook8IsOutToday = {
   id: "01a06730-4fb9-7462-a1bc-79d0dffc8f21",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-change-system-universe-0022-system-universe-book-8-is-out-today",
   title: "System Universe Book 8 is out today!",

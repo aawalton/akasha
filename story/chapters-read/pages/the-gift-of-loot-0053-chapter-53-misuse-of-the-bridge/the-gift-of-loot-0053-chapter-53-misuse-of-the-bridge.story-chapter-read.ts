@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0053Chapter53MisuseOfTheBridge = {
   id: "01a06730-4ef3-7bbb-9802-de1c08114dd1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0053-chapter-53-misuse-of-the-bridge",
   title: "Chapter 53: Misuse of The Bridge",

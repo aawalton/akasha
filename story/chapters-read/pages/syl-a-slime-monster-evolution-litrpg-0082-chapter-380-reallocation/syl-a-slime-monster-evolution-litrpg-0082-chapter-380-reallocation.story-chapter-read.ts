@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0082Chapter380Reallocation = {
   id: "01a06730-4e20-7935-a56b-369500d39bba",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0082-chapter-380-reallocation",
   title: "Chapter 380 : Reallocation",

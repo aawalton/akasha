@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0017Chapter98TheHollowMountain = {
   id: "01a06730-4f46-79ff-a66f-1bc57e7c556a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0017-chapter-98-the-hollow-mountain",
   title: "Chapter 98: The Hollow Mountain",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemChangeSystemUniverse0091Chapter669BranchHeir = {
   id: "01a06730-4fbc-75b2-bf81-2c29ba48374b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-change-system-universe-0091-chapter-669-branch-heir",
   title: "Chapter 669: Branch Heir",

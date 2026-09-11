@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0060Chapter140InterviewWithADeadGod = {
   id: "01a06730-4f6e-7c8e-a407-47657c092682",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0060-chapter-140-interview-with-a-dead-god",
   title: "Chapter 140: Interview with a dead god",

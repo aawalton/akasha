@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemGirlSystemMcWorldHoppingComedy0052Chapter51TheThermostatOfTears = {
   id: "01a06730-4df0-76f2-b3dc-47bbfee46a43",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0052-chapter-51-the-thermostat-of-tears",
   title: "Chapter 51: The Thermostat of Tears",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0072Chapter72StarEyed = {
   id: "01a06730-4efb-7884-b2f9-c722294958b7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0072-chapter-72-star-eyed",
   title: "Chapter 72: Star-Eyed",

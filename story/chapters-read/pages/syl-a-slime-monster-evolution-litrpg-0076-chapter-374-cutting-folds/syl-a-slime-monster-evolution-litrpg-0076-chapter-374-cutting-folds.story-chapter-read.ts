@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0076Chapter374CuttingFolds = {
   id: "01a06730-4e1f-78a6-83ee-c780c90ffa4a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0076-chapter-374-cutting-folds",
   title: "Chapter 374 : Cutting Folds",

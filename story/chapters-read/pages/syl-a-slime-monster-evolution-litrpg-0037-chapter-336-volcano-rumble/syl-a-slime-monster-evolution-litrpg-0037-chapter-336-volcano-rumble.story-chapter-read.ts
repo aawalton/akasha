@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0037Chapter336VolcanoRumble = {
   id: "01a06730-4e1b-70ec-8926-fc36a3ed8623",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0037-chapter-336-volcano-rumble",
   title: "Chapter 336 : Volcano Rumble",

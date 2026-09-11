@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0284TwoHundredEightyTwoBeanshot = {
   id: "01a06730-4f22-7f20-8087-2f941c916f87",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0284-two-hundred-eighty-two-beanshot",
   title: "TWO HUNDRED EIGHTY-TWO: Beanshot",

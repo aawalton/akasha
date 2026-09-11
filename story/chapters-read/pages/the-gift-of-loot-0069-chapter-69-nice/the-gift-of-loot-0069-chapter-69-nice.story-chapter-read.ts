@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0069Chapter69Nice = {
   id: "01a06730-4efa-708f-a36c-bfb53b8de855",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0069-chapter-69-nice",
   title: "Chapter 69: Nice",

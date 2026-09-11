@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0093Chapter171SardanalSCradle = {
   id: "01a06730-4f8f-790b-82ab-38c027f59670",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0093-chapter-171-sardanal-s-cradle",
   title: "Chapter 171: Sardanal’s Cradle",

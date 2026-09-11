@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0023Chapter104Judgment = {
   id: "01a06730-4f4c-7d48-861e-8002c60431d2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0023-chapter-104-judgment",
   title: "Chapter 104: Judgment",

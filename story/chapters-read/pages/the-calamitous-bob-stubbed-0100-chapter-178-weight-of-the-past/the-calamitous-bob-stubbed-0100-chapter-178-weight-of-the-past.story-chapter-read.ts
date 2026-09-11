@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0100Chapter178WeightOfThePast = {
   id: "01a06730-4f96-73d1-86d9-a56a737399db",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0100-chapter-178-weight-of-the-past",
   title: "Chapter 178: Weight of the Past",

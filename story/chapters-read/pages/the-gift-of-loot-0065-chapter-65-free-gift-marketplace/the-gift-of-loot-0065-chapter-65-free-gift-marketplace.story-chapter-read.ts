@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0065Chapter65FreeGiftMarketplace = {
   id: "01a06730-4ef8-76d8-bbd1-a1f508dd362a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0065-chapter-65-free-gift-marketplace",
   title: "Chapter 65: Free Gift Marketplace",

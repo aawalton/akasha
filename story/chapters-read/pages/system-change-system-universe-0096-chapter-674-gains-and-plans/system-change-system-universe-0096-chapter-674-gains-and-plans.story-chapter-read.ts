@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemChangeSystemUniverse0096Chapter674GainsAndPlans = {
   id: "01a06730-4fbd-7402-8337-d5a695aee05a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-change-system-universe-0096-chapter-674-gains-and-plans",
   title: "Chapter 674: Gains and Plans",

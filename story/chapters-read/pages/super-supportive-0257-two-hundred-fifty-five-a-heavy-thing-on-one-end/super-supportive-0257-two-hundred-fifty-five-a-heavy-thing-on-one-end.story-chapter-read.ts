@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0257TwoHundredFiftyFiveAHeavyThingOnOneEnd = {
   id: "01a06730-4f11-7006-8dce-325cfb69dd5e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0257-two-hundred-fifty-five-a-heavy-thing-on-one-end",
   title: "TWO HUNDRED FIFTY-FIVE: A Heavy Thing on One End",

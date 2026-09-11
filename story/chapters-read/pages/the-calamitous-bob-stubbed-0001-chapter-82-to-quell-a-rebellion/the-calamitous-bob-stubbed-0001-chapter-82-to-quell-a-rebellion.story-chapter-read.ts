@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0001Chapter82ToQuellARebellion = {
   id: "01a06730-4f35-7c4c-ad34-65c154344202",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0001-chapter-82-to-quell-a-rebellion",
   title: "Chapter 82: To Quell a Rebellion",

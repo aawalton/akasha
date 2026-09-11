@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0087AnnouncementAnotherBookOut = {
   id: "01a06730-4f8a-7cdb-ac32-9145136c8395",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0087-announcement-another-book-out",
   title: "Announcement: another book out!",

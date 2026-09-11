@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0059Chapter59HailMary = {
   id: "01a06730-4ef5-7895-803a-99c46d1423a2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0059-chapter-59-hail-mary",
   title: "Chapter 59: Hail Mary",

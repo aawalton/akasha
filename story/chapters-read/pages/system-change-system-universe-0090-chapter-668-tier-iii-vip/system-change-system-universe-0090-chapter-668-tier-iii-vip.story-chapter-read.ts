@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemChangeSystemUniverse0090Chapter668TierIiiVip = {
   id: "01a06730-4fbc-7f7a-a428-0061731019ce",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-change-system-universe-0090-chapter-668-tier-iii-vip",
   title: "Chapter 668: Tier III VIP",

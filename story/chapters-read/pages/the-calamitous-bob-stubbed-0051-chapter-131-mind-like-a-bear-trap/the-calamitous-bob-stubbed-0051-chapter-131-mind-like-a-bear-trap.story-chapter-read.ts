@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0051Chapter131MindLikeABearTrap = {
   id: "01a06730-4f64-7bda-8ed4-aa0074e3804b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0051-chapter-131-mind-like-a-bear-trap",
   title: "Chapter 131: Mind like a bear trap",

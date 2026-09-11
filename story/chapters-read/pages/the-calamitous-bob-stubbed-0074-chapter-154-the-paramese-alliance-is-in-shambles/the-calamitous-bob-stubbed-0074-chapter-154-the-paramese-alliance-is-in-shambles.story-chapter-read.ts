@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0074Chapter154TheParameseAllianceIsInShambles = {
   id: "01a06730-4f7c-76e5-9efa-3bceb7c0c5c4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0074-chapter-154-the-paramese-alliance-is-in-shambles",
   title: "Chapter 154: The Paramese Alliance is in shambles",

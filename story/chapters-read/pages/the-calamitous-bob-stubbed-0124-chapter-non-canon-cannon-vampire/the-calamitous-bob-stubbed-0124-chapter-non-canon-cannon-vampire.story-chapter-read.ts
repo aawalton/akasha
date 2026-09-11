@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0124ChapterNonCanonCannonVampire = {
   id: "01a06730-4fb1-7ae7-9473-24763a3f1da9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0124-chapter-non-canon-cannon-vampire",
   title: "Chapter ??? Non canon cannon vampire",

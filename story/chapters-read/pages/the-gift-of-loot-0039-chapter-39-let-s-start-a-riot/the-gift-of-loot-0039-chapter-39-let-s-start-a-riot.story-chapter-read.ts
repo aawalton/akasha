@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0039Chapter39LetSStartARiot = {
   id: "01a06730-4ee8-73b5-aa4a-d9eb1a7ef10c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0039-chapter-39-let-s-start-a-riot",
   title: "Chapter 39: Let's Start A Riot",

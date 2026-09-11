@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0011Chapter310PlayingInTheWater = {
   id: "01a06730-4e19-7a9c-939b-c66ce57af0b8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0011-chapter-310-playing-in-the-water",
   title: "Chapter 310 : Playing in the Water",

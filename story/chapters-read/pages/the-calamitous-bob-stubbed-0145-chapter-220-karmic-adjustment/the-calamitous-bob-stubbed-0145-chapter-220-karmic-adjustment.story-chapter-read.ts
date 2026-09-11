@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0145Chapter220KarmicAdjustment = {
   id: "01a06730-4fc8-766f-87e7-2d1a17adf56f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0145-chapter-220-karmic-adjustment",
   title: "Chapter 220: Karmic adjustment.",

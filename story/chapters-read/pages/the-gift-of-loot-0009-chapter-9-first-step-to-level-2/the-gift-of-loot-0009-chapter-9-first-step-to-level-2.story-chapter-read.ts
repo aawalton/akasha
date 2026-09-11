@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0009Chapter9FirstStepToLevel2 = {
   id: "01a06730-4eda-715b-b757-8b03fb8f2f5e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0009-chapter-9-first-step-to-level-2",
   title: "Chapter 9: First Step to Level 2",

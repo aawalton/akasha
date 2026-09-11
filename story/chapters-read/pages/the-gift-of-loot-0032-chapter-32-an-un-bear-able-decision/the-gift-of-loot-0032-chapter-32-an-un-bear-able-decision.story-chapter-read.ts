@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0032Chapter32AnUnBearAbleDecision = {
   id: "01a06730-4ee4-7faf-a39b-11c7fc689bf9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0032-chapter-32-an-un-bear-able-decision",
   title: "Chapter 32: An Un-bear-able Decision",

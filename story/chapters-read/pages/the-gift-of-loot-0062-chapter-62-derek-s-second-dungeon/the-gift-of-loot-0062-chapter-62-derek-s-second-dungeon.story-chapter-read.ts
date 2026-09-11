@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0062Chapter62DerekSSecondDungeon = {
   id: "01a06730-4ef6-7bc1-9113-549721208a94",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0062-chapter-62-derek-s-second-dungeon",
   title: "Chapter 62: Derek's Second Dungeon",

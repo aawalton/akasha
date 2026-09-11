@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0121Chapter419RaysOfPower = {
   id: "01a06730-4e2a-7d55-b3de-e33b4552e7a2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0121-chapter-419-rays-of-power",
   title: "Chapter 419 : Rays of Power",

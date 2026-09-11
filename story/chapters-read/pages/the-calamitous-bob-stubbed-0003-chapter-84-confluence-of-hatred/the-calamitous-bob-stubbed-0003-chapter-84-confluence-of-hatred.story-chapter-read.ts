@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0003Chapter84ConfluenceOfHatred = {
   id: "01a06730-4f39-7a0b-ba01-965ba2e4d883",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0003-chapter-84-confluence-of-hatred",
   title: "Chapter 84: Confluence of Hatred.",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0111Chapter409Plug = {
   id: "01a06730-4e24-76ee-9041-cd8a6f4e6858",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0111-chapter-409-plug",
   title: "Chapter 409 : Plug",

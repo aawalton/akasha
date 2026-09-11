@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0055Book2StartsHereChapter55ATerriblePet = {
   id: "01a06730-4ef3-7fe3-ae01-585a49020b0e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0055-book-2-starts-here-chapter-55-a-terrible-pet",
   title: "(Book 2 Starts Here) Chapter 55: A Terrible Pet",

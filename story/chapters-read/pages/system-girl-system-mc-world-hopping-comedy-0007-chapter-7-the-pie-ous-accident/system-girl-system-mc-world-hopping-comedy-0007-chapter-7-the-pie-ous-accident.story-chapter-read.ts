@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemGirlSystemMcWorldHoppingComedy0007Chapter7ThePieOusAccident = {
   id: "01a06730-4deb-79cf-a4df-002fae4c0621",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0007-chapter-7-the-pie-ous-accident",
   title: "Chapter 7: The Pie-ous Accident",

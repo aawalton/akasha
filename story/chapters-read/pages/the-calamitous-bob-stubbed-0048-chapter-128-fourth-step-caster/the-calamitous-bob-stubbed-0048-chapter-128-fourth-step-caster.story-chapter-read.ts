@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0048Chapter128FourthStepCaster = {
   id: "01a06730-4f62-74e3-99e8-49bb290c8985",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0048-chapter-128-fourth-step-caster",
   title: "Chapter 128: Fourth Step Caster",

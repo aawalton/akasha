@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0101Chapter399EnchantingOffer = {
   id: "01a06730-4e22-7f1e-8725-536089ee01b8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0101-chapter-399-enchanting-offer",
   title: "Chapter 399 : Enchanting Offer",

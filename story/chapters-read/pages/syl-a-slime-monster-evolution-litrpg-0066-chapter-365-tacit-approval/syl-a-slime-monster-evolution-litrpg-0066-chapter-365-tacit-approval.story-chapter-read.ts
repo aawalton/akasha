@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0066Chapter365TacitApproval = {
   id: "01a06730-4e1d-7fff-9a96-5810cc33e01f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0066-chapter-365-tacit-approval",
   title: "Chapter 365 : Tacit Approval",

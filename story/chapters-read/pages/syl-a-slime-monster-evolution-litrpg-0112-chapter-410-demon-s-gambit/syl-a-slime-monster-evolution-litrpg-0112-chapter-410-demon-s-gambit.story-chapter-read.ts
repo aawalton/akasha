@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0112Chapter410DemonSGambit = {
   id: "01a06730-4e28-798c-87eb-3d4b2ee86300",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0112-chapter-410-demon-s-gambit",
   title: "Chapter 410 : Demon's Gambit",

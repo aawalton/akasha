@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theLegendOfRandidlyGhosthound0402Chapter2137 = {
   id: "01a06730-4e1b-7c34-a0c4-b3de3cd7b180",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-legend-of-randidly-ghosthound-0402-chapter-2137",
   title: "Chapter 2137",

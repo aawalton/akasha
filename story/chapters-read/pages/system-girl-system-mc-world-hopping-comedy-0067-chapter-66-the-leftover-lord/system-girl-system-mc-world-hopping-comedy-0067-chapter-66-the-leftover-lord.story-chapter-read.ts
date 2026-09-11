@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemGirlSystemMcWorldHoppingComedy0067Chapter66TheLeftoverLord = {
   id: "01a06730-4df6-7414-a38b-947a3edd3299",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0067-chapter-66-the-leftover-lord",
   title: "Chapter 66: The Leftover Lord",

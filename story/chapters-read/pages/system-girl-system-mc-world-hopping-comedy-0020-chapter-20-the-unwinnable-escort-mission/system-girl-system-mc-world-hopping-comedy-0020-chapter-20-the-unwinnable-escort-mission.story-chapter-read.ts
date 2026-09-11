@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemGirlSystemMcWorldHoppingComedy0020Chapter20TheUnwinnableEscortMission = {
   id: "01a06730-4ded-75db-abf5-90ce6c1da6a7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0020-chapter-20-the-unwinnable-escort-mission",
   title: "Chapter 20: The Unwinnable Escort Mission",

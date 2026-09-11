@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0079Chapter79BrilliantHealthOfTheAdaptive = {
   id: "01a08791-2567-7936-9ef2-0b1a81f868d3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0079-chapter-79-brilliant-health-of-the-adaptive",
   position: 79,

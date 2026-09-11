@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0098Chapter176WhereItAllBegan = {
   id: "01a06730-4f94-77b0-b764-1d2dd650b159",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0098-chapter-176-where-it-all-began",
   title: "Chapter 176: Where it all Began",

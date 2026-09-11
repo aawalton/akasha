@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemChangeSystemUniverse0089Chapter667Backing = {
   id: "01a06730-4fbc-79c4-aabd-28e89a101ad6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-change-system-universe-0089-chapter-667-backing",
   title: "Chapter 667: Backing",

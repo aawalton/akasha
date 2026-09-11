@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0005Chapter86LooseEnds = {
   id: "01a06730-4f3b-7da5-8bbb-af0fc8bff472",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0005-chapter-86-loose-ends",
   title: "Chapter 86: Loose Ends",

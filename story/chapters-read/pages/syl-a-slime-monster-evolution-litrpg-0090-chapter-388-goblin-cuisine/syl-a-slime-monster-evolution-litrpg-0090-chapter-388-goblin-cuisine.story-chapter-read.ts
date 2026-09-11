@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0090Chapter388GoblinCuisine = {
   id: "01a06730-4e21-72a9-88ae-bee1e1981e2e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0090-chapter-388-goblin-cuisine",
   title: "Chapter 388 : Goblin Cuisine",

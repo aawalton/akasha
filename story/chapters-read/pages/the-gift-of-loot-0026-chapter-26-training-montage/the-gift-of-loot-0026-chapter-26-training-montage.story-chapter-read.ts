@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0026Chapter26TrainingMontage = {
   id: "01a06730-4ee1-74bb-b2a8-90f5c2cc7534",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0026-chapter-26-training-montage",
   title: "Chapter 26: Training Montage",

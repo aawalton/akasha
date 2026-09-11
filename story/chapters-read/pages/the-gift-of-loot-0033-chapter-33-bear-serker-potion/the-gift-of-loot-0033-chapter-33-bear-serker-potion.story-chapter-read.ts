@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0033Chapter33BearSerkerPotion = {
   id: "01a06730-4ee4-7a59-821e-bb999e5afa3e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0033-chapter-33-bear-serker-potion",
   title: "Chapter 33: Bear-Serker Potion",

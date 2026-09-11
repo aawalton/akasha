@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemGirlSystemMcWorldHoppingComedy0093Chapter92TheWarOfAttrition = {
   id: "01a06730-4e04-73bb-b3fe-e777753e1e60",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0093-chapter-92-the-war-of-attrition",
   title: "Chapter 92: The War of Attrition",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const godOfTrash0362362LookADistraction = {
   id: "01a09211-e283-7a3b-9b40-6283d7c9a358",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "god-of-trash-0362-362-look-a-distraction",
   position: 362,

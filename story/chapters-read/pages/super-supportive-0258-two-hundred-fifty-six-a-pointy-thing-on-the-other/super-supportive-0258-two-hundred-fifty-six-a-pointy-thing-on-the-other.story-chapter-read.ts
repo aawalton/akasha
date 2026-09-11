@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0258TwoHundredFiftySixAPointyThingOnTheOther = {
   id: "01a06730-4f12-711b-902a-c4f15440ac78",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0258-two-hundred-fifty-six-a-pointy-thing-on-the-other",
   title: "TWO HUNDRED FIFTY-SIX:  A Pointy Thing on the Other",

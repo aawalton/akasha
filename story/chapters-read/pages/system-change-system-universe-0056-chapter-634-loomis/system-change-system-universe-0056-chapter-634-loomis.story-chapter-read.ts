@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemChangeSystemUniverse0056Chapter634Loomis = {
   id: "01a06730-4fbb-7c2d-a499-ae42d1da0d8d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-change-system-universe-0056-chapter-634-loomis",
   title: "Chapter 634: Loomis",

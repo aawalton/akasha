@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0068Chapter148HarrakIsBack = {
   id: "01a06730-4f75-7cde-b89a-12fd4f84c3dd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0068-chapter-148-harrak-is-back",
   title: "Chapter 148: Harrak is back.",

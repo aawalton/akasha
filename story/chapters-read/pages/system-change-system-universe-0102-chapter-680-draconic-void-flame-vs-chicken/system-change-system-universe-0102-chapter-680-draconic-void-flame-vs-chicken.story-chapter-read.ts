@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemChangeSystemUniverse0102Chapter680DraconicVoidFlameVsChicken = {
   id: "01a06730-4fbd-7d53-8d93-9b50a54c68e3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-change-system-universe-0102-chapter-680-draconic-void-flame-vs-chicken",
   title: "Chapter 680: Draconic Void Flame VS. Chicken",

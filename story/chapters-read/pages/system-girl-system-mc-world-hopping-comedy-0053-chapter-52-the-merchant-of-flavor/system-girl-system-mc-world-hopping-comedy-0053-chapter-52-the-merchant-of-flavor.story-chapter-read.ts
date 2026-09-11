@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemGirlSystemMcWorldHoppingComedy0053Chapter52TheMerchantOfFlavor = {
   id: "01a06730-4df1-7666-885b-20985a701123",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0053-chapter-52-the-merchant-of-flavor",
   title: "Chapter 52: The Merchant of Flavor",

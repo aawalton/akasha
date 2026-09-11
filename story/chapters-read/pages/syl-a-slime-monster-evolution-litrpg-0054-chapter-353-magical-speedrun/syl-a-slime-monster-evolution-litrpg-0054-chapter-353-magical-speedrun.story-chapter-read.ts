@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0054Chapter353MagicalSpeedrun = {
   id: "01a06730-4e1b-713f-9337-c18f35b7b9b0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0054-chapter-353-magical-speedrun",
   title: "Chapter 353 : Magical Speedrun",

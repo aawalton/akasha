@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemGirlSystemMcWorldHoppingComedy0080Chapter79ThePastaProposal = {
   id: "01a06730-4dfb-77ea-96f7-ac77a191ead6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0080-chapter-79-the-pasta-proposal",
   title: "Chapter 79: The Pasta Proposal",

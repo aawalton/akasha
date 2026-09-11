@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0115Chapter413RemoteWork = {
   id: "01a06730-4e29-7432-a99d-2c499041cab6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0115-chapter-413-remote-work",
   title: "Chapter 413 : Remote Work",

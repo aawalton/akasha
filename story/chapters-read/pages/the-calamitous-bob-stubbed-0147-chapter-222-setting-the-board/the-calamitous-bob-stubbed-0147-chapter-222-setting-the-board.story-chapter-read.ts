@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0147Chapter222SettingTheBoard = {
   id: "01a06730-4fca-72e5-9fa9-f82546824b56",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0147-chapter-222-setting-the-board",
   title: "Chapter 222: Setting the Board",

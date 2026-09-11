@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0089Chapter167TheGangIsBackInTown = {
   id: "01a06730-4f8c-7541-8baa-6044b16017f2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0089-chapter-167-the-gang-is-back-in-town",
   title: "Chapter 167: The Gang is Back in Town",

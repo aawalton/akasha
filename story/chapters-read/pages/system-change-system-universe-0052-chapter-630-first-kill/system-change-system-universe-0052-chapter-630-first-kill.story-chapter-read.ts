@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemChangeSystemUniverse0052Chapter630FirstKill = {
   id: "01a06730-4fbb-7dac-be5a-edb246d131a0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-change-system-universe-0052-chapter-630-first-kill",
   title: "Chapter 630: First Kill",

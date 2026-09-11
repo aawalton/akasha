@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemChangeSystemUniverse0103Chapter681Protocol3 = {
   id: "01a06730-4fbd-77e7-8e5f-e791339e434c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-change-system-universe-0103-chapter-681-protocol-3",
   title: "Chapter 681: Protocol 3",

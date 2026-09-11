@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemChangeSystemUniverse0019Chapter599PrologueProbably = {
   id: "01a06730-4fb9-7f1f-a5bd-ef88289080d8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-change-system-universe-0019-chapter-599-prologue-probably",
   title: "Chapter 599: Prologue... Probably",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0086Chapter384TheArtOfBruteForce = {
   id: "01a06730-4e21-786f-badb-73d0ed5d2028",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0086-chapter-384-the-art-of-brute-force",
   title: "Chapter 384 : The Art of Brute Force",

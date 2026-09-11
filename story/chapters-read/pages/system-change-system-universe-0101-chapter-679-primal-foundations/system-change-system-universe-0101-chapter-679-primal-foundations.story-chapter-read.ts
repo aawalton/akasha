@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemChangeSystemUniverse0101Chapter679PrimalFoundations = {
   id: "01a06730-4fbd-7ee4-bda1-6f7638de018f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-change-system-universe-0101-chapter-679-primal-foundations",
   title: "Chapter 679: Primal Foundations",

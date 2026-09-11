@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemGirlSystemMcWorldHoppingComedy0056Chapter55TheAscensionOfTheSupplyLord = {
   id: "01a06730-4df3-7f41-9e28-83a9a40a78ca",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0056-chapter-55-the-ascension-of-the-supply-lord",
   title: "Chapter 55: The Ascension of the Supply Lord",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0060Chapter60Purge = {
   id: "01a06730-4ef5-75a4-a95a-8a7ff685c2fc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0060-chapter-60-purge",
   title: "Chapter 60: Purge",

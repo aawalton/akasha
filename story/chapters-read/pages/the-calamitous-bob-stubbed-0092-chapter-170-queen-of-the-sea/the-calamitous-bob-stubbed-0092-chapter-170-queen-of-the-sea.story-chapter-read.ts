@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0092Chapter170QueenOfTheSea = {
   id: "01a06730-4f8f-76a9-83a6-613ea98f99bc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0092-chapter-170-queen-of-the-sea",
   title: "Chapter 170: Queen of the Sea.",

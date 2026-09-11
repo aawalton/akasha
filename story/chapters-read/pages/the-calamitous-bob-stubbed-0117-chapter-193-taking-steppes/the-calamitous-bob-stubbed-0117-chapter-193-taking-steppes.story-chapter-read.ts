@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0117Chapter193TakingSteppes = {
   id: "01a06730-4fa9-7f9e-aacb-847f056a0e46",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0117-chapter-193-taking-steppes",
   title: "Chapter 193: Taking Steppes",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemGirlSystemMcWorldHoppingComedy0044Chapter43ASoulForASoul = {
   id: "01a06730-4dee-7608-8ba0-904c7e1f75c9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0044-chapter-43-a-soul-for-a-soul",
   title: "Chapter 43: A Soul for a Soul",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0005Chapter5OctopusSGarden = {
   id: "01a06730-4eda-730a-b7cd-ecec00f83129",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0005-chapter-5-octopus-s-garden",
   title: "Chapter 5: Octopus's Garden",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemGirlSystemMcWorldHoppingComedy0017Chapter17DdosAttackOnTheEconomy = {
   id: "01a06730-4dec-7a71-96e3-717de6802495",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0017-chapter-17-ddos-attack-on-the-economy",
   title: "Chapter 17: DDoS Attack on the Economy",

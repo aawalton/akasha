@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theGiftOfLoot0046Chapter46WorstElviraCosplayEver = {
   id: "01a06730-4eee-7f27-bb54-8975407926c3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-gift-of-loot-0046-chapter-46-worst-elvira-cosplay-ever",
   title: "Chapter 46: Worst Elvira Cosplay Ever",

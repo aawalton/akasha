@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0303ThreeHundredOneCupsBowlsAndUnknownWizards = {
   id: "01a06730-4f32-7f67-8e1b-28928ff75566",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0303-three-hundred-one-cups-bowls-and-unknown-wizards",
   title: "THREE HUNDRED ONE:  Cups, Bowls, and Unknown Wizards",

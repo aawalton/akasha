@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0079Chapter377BehindTheDoor = {
   id: "01a06730-4e1f-7318-9866-3e18f26b5fab",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0079-chapter-377-behind-the-door",
   title: "Chapter 377 : Behind the Door",

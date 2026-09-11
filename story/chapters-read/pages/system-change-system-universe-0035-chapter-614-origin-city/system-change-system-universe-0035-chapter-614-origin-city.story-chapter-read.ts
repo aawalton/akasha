@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemChangeSystemUniverse0035Chapter614OriginCity = {
   id: "01a06730-4fba-733c-b3a1-0ecead340ea1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-change-system-universe-0035-chapter-614-origin-city",
   title: "Chapter 614: Origin City",

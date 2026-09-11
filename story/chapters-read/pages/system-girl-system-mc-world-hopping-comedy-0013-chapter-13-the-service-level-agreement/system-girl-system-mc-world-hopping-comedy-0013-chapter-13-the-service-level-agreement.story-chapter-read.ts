@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemGirlSystemMcWorldHoppingComedy0013Chapter13TheServiceLevelAgreement = {
   id: "01a06730-4deb-7866-9501-660da28aa81a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0013-chapter-13-the-service-level-agreement",
   title: "Chapter 13: The Service Level Agreement",

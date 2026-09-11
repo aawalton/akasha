@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0110Chapter408TaintedDepths = {
   id: "01a06730-4e24-7713-9dc9-cf7470d4b610",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0110-chapter-408-tainted-depths",
   title: "Chapter 408 : Tainted Depths",

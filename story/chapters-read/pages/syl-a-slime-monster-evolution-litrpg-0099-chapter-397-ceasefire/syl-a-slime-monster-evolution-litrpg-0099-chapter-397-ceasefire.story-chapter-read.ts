@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0099Chapter397Ceasefire = {
   id: "01a06730-4e22-7418-b9cf-565afd081f00",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0099-chapter-397-ceasefire",
   title: "Chapter 397 : Ceasefire",

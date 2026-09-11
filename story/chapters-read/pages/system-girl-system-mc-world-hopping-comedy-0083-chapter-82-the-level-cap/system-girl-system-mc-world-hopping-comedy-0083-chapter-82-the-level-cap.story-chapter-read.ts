@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemGirlSystemMcWorldHoppingComedy0083Chapter82TheLevelCap = {
   id: "01a06730-4dfc-77ba-9dac-8952ec0fd8aa",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0083-chapter-82-the-level-cap",
   title: "Chapter 82: The Level Cap",

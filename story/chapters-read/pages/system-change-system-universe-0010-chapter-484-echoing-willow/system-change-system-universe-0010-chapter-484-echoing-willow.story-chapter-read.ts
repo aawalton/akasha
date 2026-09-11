@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const systemChangeSystemUniverse0010Chapter484EchoingWillow = {
   id: "01a06730-4fb7-7a82-9645-b4f3e238bfea",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "system-change-system-universe-0010-chapter-484-echoing-willow",
   title: "Chapter 484: Echoing Willow",

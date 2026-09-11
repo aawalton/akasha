@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sylASlimeMonsterEvolutionLitrpg0084Chapter382NoTimeForRestBook6 = {
   id: "01a06730-4e21-75cf-8090-a606269c835f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0084-chapter-382-no-time-for-rest-book-6",
   title: "Chapter 382 : No Time for Rest [Book 6]",

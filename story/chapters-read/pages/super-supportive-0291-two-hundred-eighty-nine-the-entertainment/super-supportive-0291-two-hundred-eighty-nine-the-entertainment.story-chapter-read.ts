@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0291TwoHundredEightyNineTheEntertainment = {
   id: "01a06730-4f27-7d08-bc0e-7e810844b4fa",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0291-two-hundred-eighty-nine-the-entertainment",
   title: "TWO HUNDRED EIGHTY-NINE: The Entertainment",

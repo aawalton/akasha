@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theCalamitousBobStubbed0109Chapter187KingsAndBeasts = {
   id: "01a06730-4fa2-7c04-9387-07ec70fd585e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0109-chapter-187-kings-and-beasts",
   title: "Chapter 187: Kings and Beasts",
