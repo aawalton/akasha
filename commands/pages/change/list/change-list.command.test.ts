@@ -9,13 +9,13 @@ const OUTSIDE = {
   agentId: null,
 }
 
-test("a list naming two words is refused before any page is looked for", () => {
-  const said = changeList(["one", "two"], OUTSIDE)
+test("a list naming a word is refused before any page is looked for", () => {
+  const said = changeList(["one"], OUTSIDE)
   expect(said.code).not.toBe(0)
-  expect(said.refusals[0]).toContain("one subagent or none")
+  expect(said.refusals[0]).toContain("takes no word")
 })
 
-test("a flag where the subagent would be is refused", () => {
+test("a flag on the command line is refused", () => {
   expect(changeList(["--all"], OUTSIDE).refusals[0]).toContain("takes no flag")
 })
 

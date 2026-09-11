@@ -10,9 +10,7 @@ export const changeDrop = {
   test: "ts",
   changeKind: "change-authored",
   helpNotes: [
-    "a drop naming nothing reaches the edits kept beside this agent's own page.",
-    "a drop naming a subagent reaches the edits that subagent handed over.",
-    "the subagent is named as a bare word, so no shell reads a quote or a backslash.",
+    "a drop reaches the edits kept beside this agent's own page, and takes no word naming anything else.",
     "the paths to drop are piped in, one to a line, written `at` and the path.",
     "`all: true` piped in reaches every edit the drop is over, and no path is named beside it.",
     "a drop piping nothing in is refused, so a bare call takes nothing away.",
@@ -23,27 +21,15 @@ export const changeDrop = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A drop naming no subagent reaches the edits kept beside this agent's page.",
+      statement: "A drop reaches the edits kept beside this agent's page.",
     },
     {
       invariantKind: "departure",
-      statement: "A drop naming a subagent reaches the edits that subagent handed over.",
+      statement: "A word on the command line is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A drop leaves every edit a subagent handed over where no subagent is named.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A subagent is named as a bare word on the command line.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A second word after the subagent is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A flag where the subagent would be is refused.",
+      statement: "A flag is refused as any other word is.",
     },
     {
       invariantKind: "departure",

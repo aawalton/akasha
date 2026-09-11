@@ -53,14 +53,6 @@ export const changeActing = {
     },
     {
       invariantKind: "departure",
-      statement: "A take and a forget reach the edits handed over.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A drop leaves every edit a subagent handed over.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An act saying `all: true` reaches every edit that act reaches.",
     },
     {
@@ -85,40 +77,7 @@ export const changeActing = {
     },
     {
       invariantKind: "departure",
-      statement: "A take folds the handed edits it names into the edits this agent keeps.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A take that would not fold refuses and leaves both sets where those sets were.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A take that folds takes away the handed edits that were folded in.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "An act reaching handed edits and naming no subagent is refused rather than reaching all.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The edits a subagent handed over are kept apart from the edits this agent keeps.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A listing of the edits kept names each edit and the call landing those edits.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That listing names each subagent holding edits for this agent.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A listing of one subagent's handed edits names each of those edits.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "How a subagent's handed edits are counted is worked out in one place.",
     },
     {
       invariantKind: "absence",

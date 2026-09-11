@@ -1,15 +1,8 @@
 const DASH = "-"
 
-export type Named = { readonly named: string | null } | { readonly why: string }
-
-export function subagentIn(argv: readonly string[], said: string): Named {
-  if (argv.length > 1) {
-    return { why: `a ${said} names one subagent or none, and this call named more` }
-  }
+export function wordlessIn(argv: readonly string[], said: string): string | null {
   const one = argv[0]
-  if (one === undefined) return { named: null }
-  if (one.startsWith(DASH)) {
-    return { why: `a ${said} names a subagent as a bare word, and takes no flag` }
-  }
-  return { named: one }
+  if (one === undefined) return null
+  if (one.startsWith(DASH)) return `a ${said} takes no flag, and this call named \`${one}\``
+  return `a ${said} takes no word, and this call named \`${one}\``
 }

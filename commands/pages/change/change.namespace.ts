@@ -10,7 +10,6 @@ export const change = {
     "command/change-show",
     "command/change-list",
     "command/change-drop",
-    "command/change-take",
     "command/change-draft",
     "command/change-apply",
   ],

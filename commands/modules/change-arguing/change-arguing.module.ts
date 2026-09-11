@@ -5,33 +5,29 @@ export const changeArguing = {
   pageTypeSlug: "module",
   type: "module",
   slug: "change-arguing",
-  definition: "the words a command under `akasha change` takes on the command line",
+  definition: "whether a command under `akasha change` was named a word it takes none of",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A subagent is named as a bare word rather than as the value of a flag.",
+      statement: "A command under `akasha change` takes no word on the command line.",
     },
     {
       invariantKind: "departure",
-      statement: "A call naming no subagent is answered with no name rather than refused.",
+      statement: "A call naming no word is answered with nothing to refuse.",
     },
     {
       invariantKind: "departure",
-      statement: "A call naming more than one word is refused.",
+      statement: "A call naming a word is refused by the first word that call named.",
     },
     {
       invariantKind: "departure",
-      statement: "A flag where the subagent would be is refused.",
+      statement: "A word opening with a hyphen is refused as a flag rather than as a word.",
     },
     {
       invariantKind: "departure",
-      statement: "The refusal names the act the caller was making.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Nothing here looks for the subagent named.",
+      statement: "The refusal names the act the caller was making and the word that call named.",
     },
     {
       invariantKind: "absence",

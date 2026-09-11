@@ -5,34 +5,19 @@ export const changeList = {
   pageTypeSlug: "command",
   type: "command",
   slug: "change-list",
-  definition: "the edits an agent keeps, and the edits each subagent handed that agent",
+  definition: "the edits an agent keeps and has not landed",
   code: "ts",
   test: "ts",
   changeKind: "change-authored",
   helpNotes: [
-    "a list naming nothing names the edits kept beside this agent's own page.",
-    "a list names each subagent holding edits for this agent, and how many each one holds.",
-    "a list naming a subagent names the edits that subagent handed over.",
-    "the subagent is named as a bare word, so no shell reads a quote or a backslash.",
+    "a list names the edits kept beside this agent's own page, and takes no word naming anything else.",
     "a list takes nothing piped in.",
     "a list changes nothing, so a list over the same edits twice says the same thing twice.",
   ],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A list naming no subagent names the edits kept beside this agent's page.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That list names each subagent holding edits for this agent.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That list says how many edits each of those subagents has.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A list naming a subagent names the edits that subagent handed over.",
+      statement: "A list names the edits kept beside this agent's page.",
     },
     {
       invariantKind: "departure",
@@ -44,19 +29,11 @@ export const changeList = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent is named as a bare word on the command line.",
+      statement: "A word on the command line is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A second word after the subagent is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A flag where the subagent would be is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A subagent with no edits for this agent is said rather than refused.",
+      statement: "A flag is refused as any other word is.",
     },
     {
       invariantKind: "departure",

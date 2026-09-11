@@ -44,7 +44,7 @@ test("a change command alone is let through", () => {
 })
 
 test("a change command with the word it takes is let through", () => {
-  expect(refusalIn("akasha change take some-agent")).toBe(null)
+  expect(refusalIn("akasha change draft add-file")).toBe(null)
 })
 
 test("the namespace named with no command of its own is let through", () => {

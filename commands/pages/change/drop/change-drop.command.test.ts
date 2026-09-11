@@ -9,13 +9,13 @@ const OUTSIDE = {
   agentId: null,
 }
 
-test("a drop naming two words is refused before any page is looked for", () => {
-  const said = changeDrop(["one", "two"], OUTSIDE)
+test("a drop naming a word is refused before any page is looked for", () => {
+  const said = changeDrop(["one"], OUTSIDE)
   expect(said.code).not.toBe(0)
-  expect(said.refusals[0]).toContain("one subagent or none")
+  expect(said.refusals[0]).toContain("takes no word")
 })
 
-test("a flag where the subagent would be is refused", () => {
+test("a flag on the command line is refused", () => {
   expect(changeDrop(["--all"], OUTSIDE).refusals[0]).toContain("takes no flag")
 })
 

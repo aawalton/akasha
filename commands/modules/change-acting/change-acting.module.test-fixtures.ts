@@ -4,27 +4,17 @@ import {
   appendEdits,
   editsIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import {
-  handedFrom,
-  pageOf,
-} from "akasha/changes/modules/subagent-handed/subagent-handed.module.test-fixtures.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   DROP_WORDS,
   dropping,
-  forgetting,
   pipedPathsIn,
-  taking,
 } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { indexedRepo } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 export const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
-
-export const SUB = "tester-one"
-
-export const OTHER = "tester-two"
 
 export const MISSING = "akasha/one/missing.module.ts"
 
@@ -38,30 +28,13 @@ export const MOVED_FROM = "akasha/three/from.md"
 
 export const MOVED_TO = "akasha/three/to.md"
 
-export const HANDED_AT = "akasha/three/handed.md"
-
-export const HANDED_OTHER = "akasha/three/other.md"
-
-export const HANDED_ONE: FileChange = { kind: "add", path: HANDED_AT, content: "handed" }
-
-export const HANDED_TWO: FileChange = { kind: "add", path: HANDED_OTHER, content: "other" }
-
 const MOVED: FileChange = { kind: "move", pathFrom: MOVED_FROM, pathTo: MOVED_TO }
 
 export const KEPT_BOTH: readonly string[] = [KEPT_ONE, KEPT_TWO]
 
-export const HANDED_BOTH: readonly string[] = [HANDED_AT, HANDED_OTHER]
-
 export const DROPPED = "these edits are gone, and no apply lands them"
 
-export const TOOK = "these edits are this agent's own now, and `akasha change apply` lands them"
-
-export const NONE_HANDED = "no subagent has handed edits to this agent"
-
 export const NOTHING_HELD = "no edits are kept beside this agent's page"
-
-export const HANDED_LANDS =
-  "`akasha change take <subagent>` takes one of these into this agent's own"
 
 export const KEPT_LANDS = "`akasha change apply` lands these"
 
@@ -93,19 +66,6 @@ function rowsIn(root: string, page: string): readonly FileChange[] {
 
 export function keptIn(root: string): readonly string[] {
   return rowsIn(root, PAGE).flatMap(pathsOf).sort()
-}
-
-export function handedIn(root: string): readonly string[] {
-  return rowsIn(root, pageOf(SUB)).flatMap(pathsOf).sort()
-}
-
-export function handing(root: string, under: string, rows: readonly FileChange[]): undefined {
-  handedFrom(root, under, rows)
-}
-
-export function handingBoth(root: string): string {
-  handing(root, SUB, [HANDED_ONE, HANDED_TWO])
-  return root
 }
 
 export function keeping(root: string): string {
@@ -218,94 +178,5 @@ export const DROPS: readonly Drop[] = [
     code: 1,
     refusalHolds: "names no path",
     kept: KEPT_BOTH,
-  },
-]
-
-export type Acting = (root: string, page: string, under: string | undefined, said: Piping) => Answer
-
-export type Hand = {
-  readonly name: string
-  readonly act: Acting
-  readonly said: Piping
-  readonly code?: number
-  readonly refusals?: readonly string[]
-  readonly refusalHolds?: string
-  readonly report?: readonly string[]
-  readonly own?: readonly string[]
-  readonly left?: readonly string[]
-}
-
-const ONE_LEFT = "1 edit(s) are still handed over by this subagent"
-
-const ACTS: readonly (readonly [string, Acting])[] = [
-  ["take", taking],
-  ["forget", forgetting],
-]
-
-function refusingBoth(name: string, holds: string, said: Piping): readonly Hand[] {
-  return ACTS.map(([word, act]) => ({
-    name: `${name}, and that ${word} moves nothing`,
-    act,
-    said,
-    code: 1,
-    refusalHolds: holds,
-    own: [],
-    left: HANDED_BOTH,
-  }))
-}
-
-export const HANDS: readonly Hand[] = [
-  ...refusingBoth("piping nothing in is refused", "this call piped nothing in", NOTHING),
-  ...refusingBoth(
-    "a path naming no edit handed over is refused",
-    `\`${MISSING}\` names no edit this subagent handed over`,
-    naming(MISSING)
-  ),
-  ...refusingBoth(
-    "`all: true` said beside a path is refused",
-    "the two together are refused",
-    piping(`all: true\nat: ${HANDED_AT}\n`)
-  ),
-  ...refusingBoth("`all` said another value is refused", "and no other value", ANOTHER),
-  ...refusingBoth("an input that will not open is refused", "went quiet", QUIET),
-  {
-    name: "a take saying `all: true` moves every edit that subagent handed over",
-    act: taking,
-    said: ALL,
-    code: 0,
-    refusals: [],
-    report: [`adds ${HANDED_AT}`, `adds ${HANDED_OTHER}`, TOOK],
-    own: HANDED_BOTH,
-    left: [],
-  },
-  {
-    name: "a forget saying `all: true` takes away every edit that subagent handed over",
-    act: forgetting,
-    said: ALL,
-    code: 0,
-    refusals: [],
-    report: [`adds ${HANDED_AT}`, `adds ${HANDED_OTHER}`, DROPPED],
-    own: [],
-    left: [],
-  },
-  {
-    name: "a take naming one path moves that edit and leaves the rest handed over",
-    act: taking,
-    said: naming(HANDED_AT),
-    code: 0,
-    refusals: [],
-    report: [`adds ${HANDED_AT}`, TOOK, ONE_LEFT],
-    own: [HANDED_AT],
-    left: [HANDED_OTHER],
-  },
-  {
-    name: "a forget naming one path takes that edit away and leaves the rest handed over",
-    act: forgetting,
-    said: naming(HANDED_OTHER),
-    code: 0,
-    refusals: [],
-    report: [`adds ${HANDED_OTHER}`, DROPPED, ONE_LEFT],
-    own: [],
-    left: [HANDED_AT],
   },
 ]
