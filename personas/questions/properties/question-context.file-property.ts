@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type QuestionContext = "txt"
-
 export const questionContext = {
   id: "01a06823-89b2-7008-be90-ba24ce4e692b",
   pageTypeSlug: "file-property",
@@ -20,4 +18,5 @@ export const questionContext = {
       statement: "A question does without context where the ask carries itself.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type HarnessSettings = "json"
-
 export const harnessSettings = {
   id: "01a0657b-ad40-7560-a9d3-d510dfab3cf8",
   pageTypeSlug: "file-property",
@@ -25,4 +23,5 @@ export const harnessSettings = {
       statement: "A key akasha derives is absent from the body rather than written by hand.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

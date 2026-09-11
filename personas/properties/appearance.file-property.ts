@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type Appearance = "md"
-
 export const appearance = {
   id: "01a0658c-fbfe-7000-a50a-efaa762bf9d7",
   pageTypeSlug: "file-property",
@@ -34,4 +32,5 @@ export const appearance = {
       statement: "An appearance names the ancestry the persona's anchor image shows.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

@@ -3,7 +3,7 @@ import type { BagSizes } from "akasha/temper/holdings-sets/temper-inventory-snap
 import type { ChunkCount } from "akasha/temper/holdings-sets/temper-inventory-snapshots/properties/chunk-count.number-property.types.ts"
 import type { CraftingLevels } from "akasha/temper/holdings-sets/temper-inventory-snapshots/properties/crafting-levels.page-property-entry.types.ts"
 import type { Currencies } from "akasha/temper/holdings-sets/temper-inventory-snapshots/properties/currencies.page-property-entry.types.ts"
-import type { Data } from "akasha/temper/holdings-sets/temper-inventory-snapshots/properties/data.file-property.ts"
+import type { Data } from "akasha/temper/holdings-sets/temper-inventory-snapshots/properties/data.file-property.types.ts"
 import type { LastFullScanAt } from "akasha/temper/holdings-sets/temper-inventory-snapshots/properties/last-full-scan-at.instant-property.types.ts"
 import type { OpenCooldowns } from "akasha/temper/holdings-sets/temper-inventory-snapshots/properties/open-cooldowns.page-property-entry.types.ts"
 import type { PlacedFurnishings } from "akasha/temper/holdings-sets/temper-inventory-snapshots/properties/placed-furnishings.page-property-entry.types.ts"

@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type SubagentEdits = "jsonl"
-
 export const subagentEdits = {
   id: "01a08d62-417b-781b-9088-442ac476d7ae",
   pageTypeSlug: "file-property",
@@ -39,4 +37,5 @@ export const subagentEdits = {
       statement: "No author writes a line here by hand.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

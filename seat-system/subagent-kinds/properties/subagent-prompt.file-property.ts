@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type SubagentPrompt = "md"
-
 export const subagentPrompt = {
   id: "01a06838-7a9e-7b95-ab3e-f0ad9a5d9095",
   pageTypeSlug: "file-property",
@@ -20,4 +18,5 @@ export const subagentPrompt = {
       statement: "A prompt says nothing about the work one subagent is given.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

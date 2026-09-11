@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type NoticeText = "md"
-
 export const noticeText = {
   id: "01a06861-e7cd-7340-b6d9-e2011e270d0f",
   pageTypeSlug: "file-property",
@@ -20,4 +18,5 @@ export const noticeText = {
       statement: "Wrapping is the author's convenience rather than part of the words.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

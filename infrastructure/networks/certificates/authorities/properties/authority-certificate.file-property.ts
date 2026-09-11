@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type AuthorityCertificate = "pem"
-
 export const authorityCertificate = {
   id: "01a0685e-1c21-7a40-9f3e-2b7c4d51e803",
   pageTypeSlug: "file-property",
@@ -22,4 +20,5 @@ export const authorityCertificate = {
       statement: "PEM carries a certificate as base64 text.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

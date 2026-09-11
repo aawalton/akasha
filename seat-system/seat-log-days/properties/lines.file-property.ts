@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type Lines = "jsonl"
-
 export const lines = {
   id: "01a0657c-cb14-7d57-b8ba-4bd082337746",
   pageTypeSlug: "file-property",
@@ -45,4 +43,5 @@ export const lines = {
       statement: "Lines are kept outside the commit.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

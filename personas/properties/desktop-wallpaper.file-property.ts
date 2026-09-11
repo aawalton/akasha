@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type DesktopWallpaper = "png"
-
 export const desktopWallpaper = {
   id: "01a07861-ccaa-7c89-8461-ecbc1ac81264",
   pageTypeSlug: "file-property",
@@ -37,4 +35,5 @@ export const desktopWallpaper = {
       statement: "A workstation service sets the monitor from this property.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type ReviewSessionNotes = "txt"
-
 export const reviewSessionNotes = {
   id: "01a06743-d160-7000-a21c-00ed7a409bee",
   pageTypeSlug: "file-property",
@@ -16,4 +14,5 @@ export const reviewSessionNotes = {
       statement: "The notes are the persona's own account rather than a summary of that account.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

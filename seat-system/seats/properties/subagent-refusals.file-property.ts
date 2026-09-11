@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type SubagentRefusals = "txt"
-
 export const subagentRefusals = {
   id: "01a08d62-5be7-74d0-8fa3-63a8fc24f035",
   pageTypeSlug: "file-property",
@@ -39,4 +37,5 @@ export const subagentRefusals = {
       statement: "No author writes a line here by hand.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

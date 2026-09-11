@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type MobileWallpaper = "png"
-
 export const mobileWallpaper = {
   id: "01a0782e-1f17-71d7-90a2-279f0591ec44",
   pageTypeSlug: "file-property",
@@ -33,4 +31,5 @@ export const mobileWallpaper = {
         "A mobile wallpaper has a persona's cover picture until a picture is drawn for a phone.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

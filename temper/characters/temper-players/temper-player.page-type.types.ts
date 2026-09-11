@@ -2,7 +2,7 @@ import type { CompletionVisibility } from "akasha/temper/characters/temper-playe
 import type { Platform } from "akasha/temper/characters/temper-players/properties/platform.select-property.types.ts"
 import type { PlayerHandle } from "akasha/temper/characters/temper-players/properties/player-handle.text-property.types.ts"
 import type { Server } from "akasha/temper/characters/temper-players/properties/server.select-property.types.ts"
-import type { Settings } from "akasha/temper/characters/temper-players/properties/settings.file-property.ts"
+import type { Settings } from "akasha/temper/characters/temper-players/properties/settings.file-property.types.ts"
 import type { TemperCharacterThing } from "akasha/temper/characters/things/temper-character-thing.page-type.types.ts"
 
 export type TemperPlayer = TemperCharacterThing & {

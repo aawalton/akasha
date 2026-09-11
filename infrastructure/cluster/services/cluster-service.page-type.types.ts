@@ -1,4 +1,4 @@
-import type { ClusterServiceConfig } from "akasha/infrastructure/cluster/services/properties/cluster-service-config.file-property.ts"
+import type { ClusterServiceConfig } from "akasha/infrastructure/cluster/services/properties/cluster-service-config.file-property.types.ts"
 import type { ClusterServiceManifest } from "akasha/infrastructure/cluster/services/properties/cluster-service-manifest.relation-property.types.ts"
 import type { ClusterServiceSchedule } from "akasha/infrastructure/cluster/services/properties/cluster-service-schedule.text-property.types.ts"
 import type { ContainerPort } from "akasha/infrastructure/cluster/services/properties/container-port.number-property.types.ts"

@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type Data = "json"
-
 export const data = {
   id: "01a0675d-04be-72a0-82d2-910e3f2f80d3",
   pageTypeSlug: "file-property",
@@ -46,4 +44,5 @@ export const data = {
         "The transport's division is not carried into akasha with the bytes that transport divided.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty
