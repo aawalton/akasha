@@ -101,7 +101,9 @@ export async function searchPaginate(
     for (const item of section.items) {
       if (item != null) items.push(item)
     }
-    if (options.max !== undefined && items.length >= options.max) break
+    if (options.max !== undefined && items.length >= options.max) {
+      return items.slice(0, options.max)
+    }
     next = section.next
   }
   return items

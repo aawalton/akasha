@@ -104,3 +104,16 @@ test("paging follows next and stops at the most it was asked for", async () => {
   expect(found).toEqual([{ id: "one", name: "One" }])
   expect(asked.length).toBe(1)
 })
+
+test("a page wider than the most it was asked for gives back only that many", async () => {
+  answering({
+    tracks: pageOf(
+      [
+        { id: "one", name: "One" },
+        { id: "two", name: "Two" },
+      ],
+      null
+    ),
+  })
+  expect(await searchPaginate("rock", "track", { max: 1 })).toEqual([{ id: "one", name: "One" }])
+})
