@@ -20,24 +20,14 @@ PACKAGE="$(cd "$HERE/../.." && pwd)"
 SHARED="$(cd "$PACKAGE/../../scripts" && pwd)"
 cd "$PACKAGE"
 
-# cap is a devDependency binary, and bun hoists it to the workspace root rather
-# than leaving it beside the package that depends on it — so it is looked for the
-# way node resolves one, from this package upward. Reached through `bun run` it is
-# already on PATH and reached by running this file directly it is not, and a PATH
-# that happens to hold it is not something to build on.
-CAP=""
-CANDIDATE="$PACKAGE"
-while [[ "$CANDIDATE" != "/" ]]; do
-  if [[ -x "$CANDIDATE/node_modules/.bin/cap" ]]; then
-    CAP="$CANDIDATE/node_modules/.bin/cap"
-    break
-  fi
-  CANDIDATE="$(dirname "$CANDIDATE")"
-done
-if [[ -z "$CAP" ]]; then
-  echo "ERROR: no Capacitor CLI in any node_modules/.bin from $PACKAGE upward — it is a devDependency of this package and the workspace installs it. Run 'bun install' at the repo root." >&2
+# The one manifest is at the root of the tree this shell sits in, the install runs
+# there, and the Capacitor CLI lands there rather than beside this shell.
+TREE_ROOT="${NATIVE_SHELL_TREE_ROOT:?is unset. The one manifest is at the root of the tree this shell sits in, and the command running this build names where that root is.}"
+CAP="$TREE_ROOT/node_modules/.bin/cap"
+[ -x "$CAP" ] || {
+  echo "ERROR: no Capacitor CLI at $CAP. The manifest at that root names it, and the install did not run." >&2
   exit 1
-fi
+}
 
 bash "$SHARED/write-capacitor-config/write-capacitor-config.shell-script.shell.sh" \
   "$PACKAGE/smilingjenny.ios-app.capacitor-config.json"
@@ -45,5 +35,11 @@ bash "$SHARED/write-capacitor-config/write-capacitor-config.shell-script.shell.s
 # project. Staged after, this run would ship the page the run before it left there.
 bash "$SHARED/stage-web-entry/stage-web-entry.shell-script.shell.sh" \
   "$PACKAGE/smilingjenny.ios-app.web-entry.html"
+
+# Capacitor reads its config out of the folder it runs in and refuses a folder
+# holding no manifest, so it runs at the root above. The config written there names
+# this shell's own web directory and native sources from that root.
+cd "$TREE_ROOT"
 "$CAP" "$MODE" ios
+cd "$PACKAGE"
 bash "$HERE/../ios-seam/smilingjenny-ios-seam.shell-script.shell.sh"

@@ -24,6 +24,7 @@ const APP: MobileApp = {
   spaSourceRepoPath: null,
   webEnvSegments: null,
   ascCapabilities: [],
+  toolReached: [],
   appProfileName: "fixture app App Store",
   widgetProfileName: "fixture widget App Store",
   macBuildLockDir: "$HOME/.lock",

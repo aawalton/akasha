@@ -107,7 +107,8 @@ export const iosApp = {
     },
     {
       invariantKind: "departure",
-      statement: "The config Capacitor reads is made from the config file beside the page.",
+      statement:
+        "The config Capacitor reads is made at the tree root from the config beside the page.",
     },
     {
       invariantKind: "gap",

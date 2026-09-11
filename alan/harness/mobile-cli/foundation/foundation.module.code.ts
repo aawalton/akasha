@@ -192,6 +192,8 @@ export function buildNativeSync(opts: {
   return [
     `cd ${opts.root}`,
     "bun install",
+    `export NATIVE_SHELL_TREE_ROOT=${opts.root}`,
+    `export NATIVE_SHELL_PLUGINS=${quoted(opts.app.toolReached.join(" "))}`,
     `cd ${nativeShellDir(opts.app, opts.root)}`,
     ...injectWww,
     ...appValueExports(opts.app),

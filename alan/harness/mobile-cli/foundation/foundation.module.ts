@@ -92,5 +92,9 @@ export const foundation = {
       statement:
         "The script making an app's native sources is run by name rather than through a manifest.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The plugins a build compiles in are the packages the app's page reaches.",
+    },
   ],
 } as const satisfies Module

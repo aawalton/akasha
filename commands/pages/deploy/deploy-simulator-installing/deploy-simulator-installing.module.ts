@@ -49,5 +49,9 @@ export const deploySimulatorInstalling = {
       invariantKind: "absence",
       statement: "Nothing here uploads to App Store Connect.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The plugins the build compiles in are the packages the app's page reaches.",
+    },
   ],
 } as const satisfies Module

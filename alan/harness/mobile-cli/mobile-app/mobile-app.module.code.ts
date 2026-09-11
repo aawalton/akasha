@@ -28,6 +28,7 @@ export interface MobileApp {
   readonly spaSourceRepoPath: string | null
   readonly webEnvSegments: readonly string[] | null
   readonly ascCapabilities: readonly string[]
+  readonly toolReached: readonly string[]
   readonly appProfileName: string
   readonly widgetProfileName: string | null
   readonly macBuildLockDir: string
@@ -109,6 +110,7 @@ function mobileAppOf(value: Value, path: string): MobileApp {
     spaSourceRepoPath: stated(value, "spaSourcePath"),
     webEnvSegments: webEnvPath === null ? null : webEnvPath.split("/"),
     ascCapabilities: textsAt(value, "ascCapabilities") ?? [],
+    toolReached: textsAt(value, "toolReached") ?? [],
     appProfileName: required(value, "appProfileName", path),
     widgetProfileName: stated(value, "widgetProfileName"),
     macBuildLockDir: required(value, "macBuildLockDir", path),

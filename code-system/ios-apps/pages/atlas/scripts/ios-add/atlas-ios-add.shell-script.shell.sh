@@ -18,23 +18,22 @@ SHELL_DIR="$(cd "$HERE/../.." && pwd)"
 SHARED="$(cd "$SHELL_DIR/../../scripts" && pwd)"
 cd "$SHELL_DIR"
 
-# cap is installed at the root of the tree this shell sits in rather than beside
-# the shell, so it is looked for the way node resolves one, from here upward.
-CAP=""
-CANDIDATE="$SHELL_DIR"
-while [[ "$CANDIDATE" != "/" ]]; do
-  if [[ -x "$CANDIDATE/node_modules/.bin/cap" ]]; then
-    CAP="$CANDIDATE/node_modules/.bin/cap"
-    break
-  fi
-  CANDIDATE="$(dirname "$CANDIDATE")"
-done
-if [[ -z "$CAP" ]]; then
-  echo "ERROR: no Capacitor CLI in any node_modules/.bin from $SHELL_DIR upward. The install root above this shell names it, and the install did not run." >&2
+# The one manifest is at the root of the tree this shell sits in, the install runs
+# there, and the Capacitor CLI lands there rather than beside this shell.
+TREE_ROOT="${NATIVE_SHELL_TREE_ROOT:?is unset. The one manifest is at the root of the tree this shell sits in, and the command running this build names where that root is.}"
+CAP="$TREE_ROOT/node_modules/.bin/cap"
+[ -x "$CAP" ] || {
+  echo "ERROR: no Capacitor CLI at $CAP. The manifest at that root names it, and the install did not run." >&2
   exit 1
-fi
+}
 
 bash "$SHARED/write-capacitor-config/write-capacitor-config.shell-script.shell.sh" \
   "$SHELL_DIR/atlas.ios-app.capacitor-config.json"
+
+# Capacitor reads its config out of the folder it runs in and refuses a folder
+# holding no manifest, so it runs at the root above. The config written there names
+# this shell's own web directory and native sources from that root.
+cd "$TREE_ROOT"
 "$CAP" "$MODE" ios
+cd "$SHELL_DIR"
 bash "$HERE/../ios-seam/atlas-ios-seam.shell-script.shell.sh"

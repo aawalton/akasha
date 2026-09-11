@@ -105,6 +105,7 @@ function scriptOf(root: string, plan: Plan, stamp: string): string {
     `export NATIVE_SHELL_TREE_ROOT="$HOME/${RUN_ROOT}"`,
     `export NATIVE_SHELL_SYNC_SCRIPT="$HOME/${RUN_ROOT}/${plan.syncScriptPath}"`,
     `export NATIVE_SHELL_DEPENDENCIES=${quoted(JSON.stringify(plan.dependencies))}`,
+    `export NATIVE_SHELL_PLUGINS=${quoted(Object.keys(plan.dependencies).join(" "))}`,
     `export NATIVE_SHELL_STAMP_COMMIT='${stamp}'`,
     ...plan.exports,
   ]

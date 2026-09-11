@@ -22,6 +22,7 @@ const QUIET = {
   spaSourceRepoPath: null,
   webEnvSegments: null,
   ascCapabilities: [],
+  toolReached: [],
   appProfileName: "Quiet App",
   widgetProfileName: null,
   macBuildLockDir: "$HOME/.quiet-lock",

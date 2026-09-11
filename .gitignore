@@ -52,6 +52,12 @@ alan/web-capacitor/build/
 **/build.next/
 **/build.old/
 
+# The config Capacitor reads, written at the root of whatever tree a build runs in
+# because the CLI reads its config out of the folder it runs in and runs where the
+# one manifest is. The authored config sits beside the app's page under the naming
+# grammar, and this is what a build makes from it.
+/capacitor.config.json
+
 # Kubernetes manifests synthesized from their TypeScript source.
 *.generated.yaml
 

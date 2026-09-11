@@ -26,6 +26,7 @@ const APP: MobileApp = {
   spaSourceRepoPath: null,
   webEnvSegments: null,
   ascCapabilities: [],
+  toolReached: [],
   appProfileName: "example app App Store",
   widgetProfileName: null,
   macBuildLockDir: "$HOME/.lock",
