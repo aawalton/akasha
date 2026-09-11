@@ -6,4 +6,17 @@ export const change = {
   slug: "change",
   definition: "how a change to the repository is worked out and reached by name",
   parts: ["page-type/change"],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Correctness In The Writer",
+      act: "Build into a mechanical writer every truth a check would have caught.",
+      warrant:
+        "A mechanical change runs no check, so a wrong value it writes lands silently and stays.",
+      aids: [
+        "Reaching the change system is not being judged.",
+        "A check that exists refuses nothing a mechanical change writes.",
+      ],
+    },
+  ],
 } as const satisfies Domain
