@@ -83,6 +83,10 @@ export const codeRule = {
     },
     {
       invariantKind: "absence",
+      statement: "A name bound to a call answering a function says no rule either.",
+    },
+    {
+      invariantKind: "absence",
       statement: "Only a renaming is defeated, and not one onto a name the code cannot rename.",
     },
     {
