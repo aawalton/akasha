@@ -1,13 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
-import { tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { relationResolves } from "./relation-resolves.code-check.audit.code.ts"
+import { relationResolves } from "akasha/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.audit.code.ts"
 import {
   A,
   A_ID,
   filing,
   rooted,
   scratch,
-} from "./relation-resolves.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.decision.test-fixtures.ts"
+import { tracked } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 
 afterAll(scratch.sweep)
 
