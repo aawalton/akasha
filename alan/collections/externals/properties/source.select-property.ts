@@ -1,14 +1,5 @@
 import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
-export type Source =
-  | "kindle"
-  | "musicbrainz"
-  | "open-library"
-  | "royal-road"
-  | "the-great-courses"
-  | "the-wandering-inn"
-  | "tmdb"
-
 export const source = {
   id: "01a063de-2c60-701e-9aed-2067429a2664",
   pageTypeSlug: "select-property",
@@ -35,4 +26,5 @@ export const source = {
       statement: "A provider is named here before a page may state that provider.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty

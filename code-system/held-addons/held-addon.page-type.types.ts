@@ -1,4 +1,4 @@
-import type { AddonKind } from "akasha/code-system/held-addons/properties/addon-kind.select-property.ts"
+import type { AddonKind } from "akasha/code-system/held-addons/properties/addon-kind.select-property.types.ts"
 import type { AddonName } from "akasha/code-system/held-addons/properties/addon-name.text-property.types.ts"
 import type { Adjacents } from "akasha/code-system/held-addons/properties/adjacents.relation-property.types.ts"
 import type { EsoAddon } from "akasha/code-system/held-addons/properties/eso-addon.relation-property.types.ts"

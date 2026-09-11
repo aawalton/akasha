@@ -1,7 +1,5 @@
 import type { SelectProperty } from "../../../../../pages/select-properties/select-property.page-type.types.ts"
 
-export type SortOrder = "label" | "place"
-
 export const sortOrder = {
   id: "01a063bd-a526-7474-a7c9-3980d10c48b3",
   pageTypeSlug: "select-property",
@@ -20,4 +18,5 @@ export const sortOrder = {
       statement: "Two readings sharing one place draw in label order between the two.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty

@@ -1,7 +1,5 @@
 import type { SelectProperty } from "../../../pages/select-properties/select-property.page-type.types.ts"
 
-export type AddonKind = "library" | "native" | "ported"
-
 export const addonKind = {
   id: "01a0819d-3406-7d80-bea3-6be9825ecdca",
   pageTypeSlug: "select-property",
@@ -24,4 +22,5 @@ export const addonKind = {
       statement: "A library addon is a framework other addons load.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty

@@ -1,7 +1,7 @@
 import type { Attribute } from "akasha/alan/harness/readouts/properties/attribute.relation-property.types.ts"
 import type { ColorFrom } from "akasha/alan/harness/readouts/properties/color-from.relation-property.types.ts"
 import type { ColorSlug } from "akasha/alan/harness/readouts/properties/color-slug.text-property.types.ts"
-import type { DrawnAs } from "akasha/alan/harness/readouts/properties/drawn-as.select-property.ts"
+import type { DrawnAs } from "akasha/alan/harness/readouts/properties/drawn-as.select-property.types.ts"
 import type { EarnedKey } from "akasha/alan/harness/readouts/properties/earned-key.text-property.types.ts"
 import type { Groups } from "akasha/alan/harness/readouts/properties/groups.relation-property.types.ts"
 import type { Label } from "akasha/alan/harness/readouts/properties/label.text-property.types.ts"

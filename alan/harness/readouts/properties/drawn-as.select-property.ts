@@ -1,7 +1,5 @@
 import type { SelectProperty } from "../../../../pages/select-properties/select-property.page-type.types.ts"
 
-export type DrawnAs = "stoplight" | "number"
-
 export const drawnAs = {
   id: "01a063bd-a526-78b3-ad87-dc9525cc297e",
   pageTypeSlug: "select-property",
@@ -20,4 +18,5 @@ export const drawnAs = {
       statement: "A reading drawn as a number is drawn without a rung behind the figure.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty

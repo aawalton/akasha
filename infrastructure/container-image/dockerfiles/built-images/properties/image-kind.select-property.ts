@@ -1,7 +1,5 @@
 import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
-export type ImageKind = "nextjs" | "bun-service" | "tool-image"
-
 export const imageKind = {
   id: "01a08193-7355-71ba-87d6-55a66969775c",
   pageTypeSlug: "select-property",
@@ -10,4 +8,5 @@ export const imageKind = {
   propertySlug: "kind",
   definition: "the sort of Dockerfile written for an image",
   values: ["nextjs", "bun-service", "tool-image"],
+  types: "ts",
 } as const satisfies SelectProperty

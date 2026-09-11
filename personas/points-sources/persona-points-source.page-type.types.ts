@@ -1,6 +1,6 @@
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
-import type { PointsSourceAggregate } from "akasha/personas/points-sources/properties/points-source-aggregate.select-property.ts"
-import type { PointsSourceKind } from "akasha/personas/points-sources/properties/points-source-kind.select-property.ts"
+import type { PointsSourceAggregate } from "akasha/personas/points-sources/properties/points-source-aggregate.select-property.types.ts"
+import type { PointsSourceKind } from "akasha/personas/points-sources/properties/points-source-kind.select-property.types.ts"
 import type { PointsSourceMarker } from "akasha/personas/points-sources/properties/points-source-marker.text-property.types.ts"
 import type { PointsSourcePathPrefix } from "akasha/personas/points-sources/properties/points-source-path-prefix.text-property.types.ts"
 import type { PointsSourcePointField } from "akasha/personas/points-sources/properties/points-source-point-field.text-property.types.ts"

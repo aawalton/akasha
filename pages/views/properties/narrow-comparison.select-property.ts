@@ -1,16 +1,5 @@
 import type { SelectProperty } from "../../select-properties/select-property.page-type.types.ts"
 
-export type NarrowComparison =
-  | "is"
-  | "in"
-  | "not-in"
-  | "has"
-  | "contains"
-  | "ends-with"
-  | "empty"
-  | "at-or-after"
-  | "before"
-
 export const narrowComparison = {
   id: "01a063ee-2a3b-7703-9869-e8ab3280d56f",
   pageTypeSlug: "select-property",
@@ -30,4 +19,5 @@ export const narrowComparison = {
         "A comparison taking many values is given as many values as that comparison needs.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty

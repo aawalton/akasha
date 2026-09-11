@@ -1,7 +1,4 @@
-import type { Rank } from "akasha/alan/collections/properties/rank.rank-property.types.ts"
 import type { RankProperty } from "../../../../../pages/rank-properties/rank-property.page-type.types.ts"
-
-export type Singability = Rank
 
 export const singability = {
   id: "01a06243-144b-700b-83e8-f1b91786511f",
@@ -34,4 +31,5 @@ export const singability = {
       statement: "A singability is graded on the ladder a rank is graded on.",
     },
   ],
+  types: "ts",
 } as const satisfies RankProperty
