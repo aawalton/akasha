@@ -16,9 +16,8 @@ export const extensionHostReachesNoBunCode = {
       statement: "Where the extension's manifest sits is asked of the index rather than spelled.",
     },
     {
-      invariantKind: "absence",
-      statement:
-        "The folder the editor is linked to is named here rather than read from `linked-at`.",
+      invariantKind: "departure",
+      statement: "The folder the editor is linked to is read from the page stating `linked-at`.",
     },
     {
       invariantKind: "departure",

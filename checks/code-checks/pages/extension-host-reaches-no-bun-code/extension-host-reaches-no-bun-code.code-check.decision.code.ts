@@ -15,30 +15,56 @@ import {
   reachingOver,
 } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import type { Carried } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 import ts from "typescript"
 
-const LINKED_TYPE = "domain"
-
-const LINKED = "akasha"
+const LINKED = "linked-at"
 
 const MANIFEST_PROPERTY = "manifest"
 
+const UNKNOWN = "so what the host loads is unknown"
+
 export type Indexing = {
-  readonly listedAt: (pageTypeSlug: string, slug: string) => readonly { readonly path: string }[]
+  readonly carryingOf: (named: string) => Carried
+  readonly valuesByPath: (pageTypeSlug: string) => ReadonlyMap<string, Value>
   readonly fileKeysAt: () => ReadonlyMap<string, string | null>
 }
 
-export function manifestIn(index: Indexing): string {
-  const page = index.listedAt(LINKED_TYPE, LINKED)[0]
-  const named = index.fileKeysAt().get(MANIFEST_PROPERTY) ?? null
-  if (page === undefined || named === null) {
+export function linkedIn(index: Indexing): string {
+  const carried = index.carryingOf(LINKED)
+  if ("refused" in carried) throw new Error(`${carried.refused}, ${UNKNOWN}`)
+  const key = exportedAs(LINKED)
+  const found: string[] = []
+  for (const one of carried.carrying) {
+    const value = index.valuesByPath(one.pageTypeSlug).get(one.path)
+    if (value === undefined || typeof value[key] !== "string") continue
+    if (!found.includes(one.path)) found.push(one.path)
+  }
+  const page = found[0]
+  if (page === undefined || found.length > 1) {
     throw new Error(
-      `no \`${LINKED_TYPE}\` is slugged \`${LINKED}\` carrying a \`${MANIFEST_PROPERTY}\`, ` +
-        "so what the host loads is unknown"
+      `${found.length} pages state a \`${LINKED}\`, and the folder the editor is linked to ` +
+        `is the folder of the one page stating it, ${UNKNOWN}`
     )
   }
-  return normalize(join(dirname(page.path), named))
+  return page
+}
+
+const MANIFEST_AT = new WeakMap<Indexing, string>()
+
+export function manifestIn(index: Indexing): string {
+  const held = MANIFEST_AT.get(index)
+  if (held !== undefined) return held
+  const named = index.fileKeysAt().get(MANIFEST_PROPERTY) ?? null
+  if (named === null) {
+    throw new Error(`no page property is slugged \`${MANIFEST_PROPERTY}\`, ${UNKNOWN}`)
+  }
+  const made = normalize(join(dirname(linkedIn(index)), named))
+  MANIFEST_AT.set(index, made)
+  return made
 }
 
 const NAMED = "package.json"

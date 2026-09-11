@@ -1,10 +1,15 @@
 import { expect, test } from "bun:test"
-import { refusalsOver } from "akasha/checks/code-checks/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.code-check.decision.code.ts"
+import {
+  manifestIn,
+  refusalsOver,
+} from "akasha/checks/code-checks/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.code-check.decision.code.ts"
 import {
   change,
   ENTRY,
   FAR,
   hosted,
+  LINKED_PAGE,
+  LINKED_TO,
   MANIFEST,
   NEXT,
   NOTICED,
@@ -12,9 +17,34 @@ import {
   PACKAGED_BODY,
   pathsRefused,
   refused,
+  stating,
 } from "akasha/checks/code-checks/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.code-check.decision.test-fixtures.ts"
 
 const READS_NEXT = 'import { next } from "./next.module.code.ts"\n\nexport const one = next\n'
+
+const OTHER = "elsewhere/other.workspace-package.ts"
+
+test("the manifest beside the page stating `linked-at` is what the host loads", () => {
+  expect(manifestIn(stating({ [LINKED_PAGE]: LINKED_TO }))).toBe(MANIFEST)
+})
+
+test("a page carrying `linked-at` and stating none is passed over", () => {
+  expect(manifestIn(stating({ [OTHER]: null, [LINKED_PAGE]: LINKED_TO }))).toBe(MANIFEST)
+})
+
+test("no page stating a `linked-at` is refused rather than guessed", () => {
+  expect(() => manifestIn(stating({ [LINKED_PAGE]: null }))).toThrow("0 pages state a")
+})
+
+test("two pages stating a `linked-at` are refused rather than chosen between", () => {
+  const two = stating({ [LINKED_PAGE]: LINKED_TO, [OTHER]: LINKED_TO })
+  expect(() => manifestIn(two)).toThrow("2 pages state a")
+})
+
+test("no `manifest` file key is refused rather than guessed", () => {
+  const held = stating({ [LINKED_PAGE]: LINKED_TO }, null)
+  expect(() => manifestIn(held)).toThrow("no page property is slugged")
+})
 
 test("a graph the host loads that reaches no bun is let through", () => {
   expect(pathsRefused({ [ENTRY]: READS_NEXT, [NEXT]: "export const next = 2\n" })).toEqual([])
