@@ -11,12 +11,12 @@ import { usePages } from "akasha/pages/ui/supabase/use-pages/use-pages.module.co
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import type { CharacterBuildMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import type { CharacterVisibility } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
-import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
-import { useMemo } from "react"
 import {
   type RoleId,
   characterRoles as roles,
-} from "../../character-sources/character-roles/character-roles.module.code.ts"
+} from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
+import { useMemo } from "react"
 
 const CHARACTER_BUILD_PAGE_TYPE_SLUG = "character-build"
 
