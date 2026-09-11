@@ -39,7 +39,12 @@ export function daysUpTo(dayStr: string, count: number): readonly string[] {
   return days
 }
 
-if (import.meta.main) {
+export const NOTHING_LANDED =
+  "no day of the four carries a health sample the calories are counted from"
+
+const NOTHING_LANDED_STATUS = 2
+
+export async function runDayActiveCalories(): Promise<void> {
   const landed: string[] = []
   for (const day of daysUpTo(getEsoDayStr(new Date()), DAYS_ROLLED)) {
     try {
@@ -50,11 +55,16 @@ if (import.meta.main) {
       process.stderr.write(`the active calories for ${day} did not land: ${why}\n`)
     }
   }
-  if (landed.length === 0) {
-    process.stderr.write(
-      "no day of the four carries a health sample the calories are counted from\n"
-    )
-    process.exit(2)
-  }
+  if (landed.length === 0) throw new Error(NOTHING_LANDED)
   process.stdout.write(`active calories on ${landed.join(", ")}\n`)
+}
+
+if (import.meta.main) {
+  try {
+    await runDayActiveCalories()
+  } catch (thrown) {
+    if (!(thrown instanceof Error) || thrown.message !== NOTHING_LANDED) throw thrown
+    process.stderr.write(`${NOTHING_LANDED}\n`)
+    process.exit(NOTHING_LANDED_STATUS)
+  }
 }
