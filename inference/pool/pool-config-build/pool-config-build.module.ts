@@ -15,7 +15,7 @@ export const poolConfigBuild = {
     },
     {
       invariantKind: "departure",
-      statement: "A loopback service is fronted on 127.0.0.1 and every other service on 0.0.0.0.",
+      statement: "A service is fronted on every address the host answers at.",
     },
     {
       invariantKind: "departure",

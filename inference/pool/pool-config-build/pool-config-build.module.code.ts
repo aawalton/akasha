@@ -2,19 +2,21 @@ import {
   launchdLabel,
   serviceDir,
 } from "akasha/inference/pool/inference-naming/inference-naming.module.code.ts"
-import type {
-  InferenceHost,
-  InferenceService,
-} from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
+import type { InferenceHost } from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
 import { hashFiles } from "akasha/inference/pool/inputs-hash/inputs-hash.module.code.ts"
 import type { PoolConfig } from "akasha/inference/pool/pool-config/pool-config.module.code.ts"
 
 const encoder = new TextEncoder()
 
-export function buildPoolConfig(
-  services: readonly InferenceService[],
-  adminPort: number
-): PoolConfig {
+export interface Fronted {
+  readonly name: string
+  readonly port: number
+  readonly lifecycle: "pool" | "always-on"
+  readonly internalPort?: number
+  readonly warm: boolean
+}
+
+export function buildPoolConfig(services: readonly Fronted[], adminPort: number): PoolConfig {
   const poolServices = services.filter((s) => s.lifecycle === "pool")
   return {
     adminPort,
@@ -26,7 +28,7 @@ export function buildPoolConfig(
       return {
         name: s.name,
         publicPort: s.port,
-        publicHost: s.publicBind === "loopback" ? "127.0.0.1" : "0.0.0.0",
+        publicHost: "0.0.0.0",
         internalPort: s.internalPort,
         launchdLabel: launchdLabel(s.name),
       }
@@ -47,7 +49,7 @@ export function foldPoolConfigHash(baseHash: string, poolJson: string) {
 
 export function buildWritePoolConfigScript(args: {
   host: InferenceHost
-  services: readonly InferenceService[]
+  services: readonly Fronted[]
   copName: string
   adminPort: number
 }): string {
