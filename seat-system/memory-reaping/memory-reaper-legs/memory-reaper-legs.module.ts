@@ -8,6 +8,7 @@ export const memoryReaperLegs = {
   definition: "whether one process or one supervisor tree is over its memory ceiling",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

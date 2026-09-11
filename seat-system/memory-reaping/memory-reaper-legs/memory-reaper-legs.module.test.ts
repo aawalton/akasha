@@ -1,15 +1,11 @@
 import { describe, expect, test } from "bun:test"
-import type { PidSnapshot } from "../memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 import {
   assessMemoryKill,
   assessTreeKills,
   KB_PER_GB,
   selectTopmostSupervisors,
 } from "./memory-reaper-legs.module.code.ts"
-
-function snap(pid: number, ppid: number, gb: number): PidSnapshot {
-  return { pid, ppid, vmRssKb: gb * KB_PER_GB, pssKb: gb * KB_PER_GB, name: `p${pid}` }
-}
+import { snap } from "./memory-reaper-legs.module.test-fixtures.ts"
 
 describe("assessMemoryKill", () => {
   test("kills strictly over the ceiling", () => {

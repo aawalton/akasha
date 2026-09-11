@@ -1,14 +1,10 @@
 import { describe, expect, test } from "bun:test"
 import { KB_PER_GB } from "../memory-reaper-legs/memory-reaper-legs.module.code.ts"
-import type { PidSnapshot } from "../memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
+import { snap } from "../memory-reaper-legs/memory-reaper-legs.module.test-fixtures.ts"
 import { planReaperKills, seatsInTree } from "./memory-reaper-plan.module.code.ts"
 
 const SEAT_A = "11111111-2222-3333-4444-555555555555"
 const SEAT_B = "66666666-7777-8888-9999-aaaaaaaaaaaa"
-
-function snap(pid: number, ppid: number, gb: number): PidSnapshot {
-  return { pid, ppid, vmRssKb: gb * KB_PER_GB, pssKb: gb * KB_PER_GB, name: `p${pid}` }
-}
 
 const CEILINGS = {
   perProcessThresholdKb: 32 * KB_PER_GB,
