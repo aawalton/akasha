@@ -5,7 +5,7 @@ import {
   type Held,
   type Source,
   type Subject,
-} from "./page-computing.module.code.ts"
+} from "akasha/pages/computing/page-computing.module.code.ts"
 
 function held(slug: string, holds: string, work: Computed["work"]): Computed {
   return { slug, key: slug.replace(/-(.)/g, (_, one: string) => one.toUpperCase()), holds, work }
