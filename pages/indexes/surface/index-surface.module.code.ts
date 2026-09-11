@@ -112,7 +112,10 @@ type Laid = {
   readonly edits: ReadonlyMap<string, Edit>
   readonly named: ReadonlyMap<string, ReadonlyMap<string, boolean>>
   readonly thinned: ReadonlySet<string>
+  readonly bodies: ReadonlyMap<string, string | null>
 }
+
+const NOTHING_WROTE: ReadonlyMap<string, string | null> = new Map()
 
 const LAID = new WeakMap<Reading, Laid>()
 
@@ -156,13 +159,18 @@ function owned(named: Named, owns: Set<string>, dir: string): Map<string, boolea
   return made
 }
 
-export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading {
+export function overlaidOn(
+  under: Reading,
+  filings: readonly Filing[],
+  wrote: ReadonlyMap<string, string | null> = NOTHING_WROTE
+): Reading {
   const laid = LAID.get(under)
   const base = laid?.base ?? under
   const edits = new Map<string, Edit>(laid?.edits)
   const named: Named = new Map(laid?.named as ReadonlyMap<string, Map<string, boolean>>)
   const thinned = new Set<string>(laid?.thinned)
   const owns = new Set<string>()
+  const bodies = new Map<string, string | null>([...(laid?.bodies ?? []), ...wrote])
 
   for (const one of filings) {
     edits.set(one.at, editedBy(edits.get(one.at), one))
@@ -204,7 +212,7 @@ export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading 
   const laying: Reading = {
     holds: holds,
     lines: linesAt,
-    read: (path) => base.read(path),
+    read: (path) => (bodies.has(path) ? (bodies.get(path) ?? null) : base.read(path)),
     listing: (at) => {
       const found = new Map<string, boolean>()
       for (const one of base.listing(at)) found.set(one.name, one.directory)
@@ -217,6 +225,6 @@ export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading 
       return said
     },
   }
-  LAID.set(laying, { base, edits, named, thinned })
+  LAID.set(laying, { base, edits, named, thinned, bodies })
   return laying
 }

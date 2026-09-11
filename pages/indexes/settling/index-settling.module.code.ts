@@ -322,8 +322,9 @@ export function settlingOver(
   )
 
   const filings = [...imported, ...ruled, ...identity, ...paths, ...relation, ...valued, ...listing]
+  const wrote = new Map(moving.map((one) => [under(repo, one.path), one.after] as const))
   return {
-    reading: overlaidOn(given, filings),
+    reading: overlaidOn(given, filings, wrote),
     filings,
     noted,
     refusedBefore: was.flatMap((one) => one.refused),

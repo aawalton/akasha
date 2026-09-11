@@ -40,6 +40,18 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
+      statement: "A lay answers the body a change leaves at a path rather than the body on disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the change takes away answers no body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the change does not carry answers the body beneath the lay.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An entry file is read at the first ask and one copy of it is held.",
     },
     {
