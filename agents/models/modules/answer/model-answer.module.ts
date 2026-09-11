@@ -14,6 +14,15 @@ export const modelAnswer = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An answer whose last line is yes alone is a yes to a caller reading the last line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller reading the last line takes a line holding anything besides yes as no.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Everything that is no letter is passed over before the opening is read.",
     },
     {
