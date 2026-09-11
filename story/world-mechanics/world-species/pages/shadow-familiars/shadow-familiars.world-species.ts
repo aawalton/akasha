@@ -1,4 +1,4 @@
-import type { WorldSpecies } from "../../world-species.page-type.types.ts"
+import type { WorldSpecies } from "akasha/story/world-mechanics/world-species/world-species.page-type.types.ts"
 
 export const shadowFamiliars = {
   id: "01a0655a-0687-7323-ad17-017b1d2ea8b2",

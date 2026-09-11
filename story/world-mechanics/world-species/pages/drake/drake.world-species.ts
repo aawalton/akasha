@@ -1,4 +1,4 @@
-import type { WorldSpecies } from "../../world-species.page-type.types.ts"
+import type { WorldSpecies } from "akasha/story/world-mechanics/world-species/world-species.page-type.types.ts"
 
 export const drake = {
   id: "01a0655a-0687-7fd4-b572-3f6bec7bcbf1",

@@ -1,4 +1,4 @@
-import type { WorldSpecies } from "../../world-species.page-type.types.ts"
+import type { WorldSpecies } from "akasha/story/world-mechanics/world-species/world-species.page-type.types.ts"
 
 export const borealHalfElf = {
   id: "01a0655a-0687-7dc9-86bf-5cefbf5b7c1d",
