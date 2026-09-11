@@ -58,6 +58,7 @@ export const serviceWorkstation = {
     "module/run-composing",
     "module/run-path-reading",
     "module/service-putting-up",
+    "module-property-group/running",
   ],
   properties: [
     { pageProperty: "text-property/runs", required: false, many: true, maxCount: null },
@@ -93,6 +94,7 @@ export const serviceWorkstation = {
       many: false,
       uncommitted: true,
     },
+    { pageProperty: "module-property-group/running", required: false, many: false },
   ],
   invariants: [
     {
