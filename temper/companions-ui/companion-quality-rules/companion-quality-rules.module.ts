@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const companionQualityRules = {
   id: "01a06360-7480-7004-99b9-59ca52965b19",
