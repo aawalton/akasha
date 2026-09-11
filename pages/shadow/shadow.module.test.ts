@@ -1,5 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { bodyOf, idOf } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import {
+  bodyOf,
+  idOf,
+  indexedRepo,
+  NAMER_PAGE,
+  scratch as worldScratch,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { everyValue, readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   everythingRead,
@@ -36,6 +42,34 @@ import {
 } from "./shadow.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
+
+afterAll(worldScratch.sweep)
+
+const NOTE_AT = "akasha/note.relation-property.ts"
+
+const PARTS_AT = "akasha/part-slugs.relation-property.ts"
+
+const NOTE_BROKEN = `${NAMER_PAGE}: \`note\` — no page admitting \`page-property\` carries the slug \`held\``
+
+const PARTS_BROKEN =
+  `${NAMER_PAGE}: \`part-slugs\` — \`module/held\` names a \`module\`, ` +
+  "and this property admits only `page-type` and what extends it"
+
+function aRelation(one: string, slug: string, target: string): string {
+  return bodyOf({
+    id: idOf(one),
+    pageTypeSlug: "relation-property",
+    slug,
+    propertySlug: slug,
+    targetPageType: target,
+  })
+}
+
+function repointing(root: string, at: string, body: string): Change {
+  const held = onDisk(root)
+  const bytes = TEXT.encode(body)
+  return { root, changed: [at], before: held, after: (path) => (path === at ? bytes : held(path)) }
+}
 
 test("the shadow answers exactly what the index answers once that change has really landed", () => {
   const repo = seeded()
@@ -233,4 +267,27 @@ test("a page the working tree holds and no base holds is no page in the shadow",
   const cast = shadowOnto(repo, base)
   if ("refused" in cast) throw new Error(cast.refused)
   expect(cast.shadow.pageOf(UNFILED_AT)).toBe(null)
+})
+
+test("a page the change leaves naming nothing is among the refusals, though the change does not carry it", () => {
+  const root = indexedRepo()
+  const cast = shadowFor(repointing(root, NOTE_AT, aRelation("b", "note", "page-property")))
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(cast.shadow.refusals()).toEqual([NOTE_BROKEN])
+})
+
+test("a refusal the world already had is no refusal the change leaves", () => {
+  const root = indexedRepo({ [NOTE_AT]: aRelation("b", "note", "page-property") })
+  const cast = shadowFor(repointing(root, PARTS_AT, aRelation("c", "part-slugs", "page-type")))
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(cast.shadow.refusals()).toEqual([PARTS_BROKEN])
+})
+
+test("a shadow over a change that moves nothing answers no refusal", () => {
+  const repo = seeded()
+  const held = onDisk(repo)
+  const change: Change = { root: repo, changed: [inside("b.domain.ts")], before: held, after: held }
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(cast.shadow.refusals()).toEqual([])
 })

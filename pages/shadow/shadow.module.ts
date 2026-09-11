@@ -108,6 +108,19 @@ export const shadow = {
     {
       invariantKind: "departure",
       statement:
+        "A shadow answers the refusals the change leaves beside the entry files the change writes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal the world already had is no refusal the change leaves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shadow over a change that moves nothing answers no refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A caller setting that index up elsewhere writes the entry files the change files.",
     },
     {

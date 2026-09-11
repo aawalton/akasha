@@ -15,6 +15,7 @@ import type { Value } from "../value-reading/page-value-reading.module.code.ts"
 export type Shadow = {
   readonly index: Answering
   readonly filed: () => readonly Filing[]
+  readonly refusals: () => readonly string[]
   readonly pageOf: (path: string) => Value | null
   readonly codeAt: (path: string) => string | null
 }
@@ -93,6 +94,11 @@ function nothingMoved(change: Change): boolean {
   return change.after === change.before
 }
 
+function leftOver(before: readonly string[], after: readonly string[]): readonly string[] {
+  const had = new Set(before)
+  return after.filter((one) => !had.has(one))
+}
+
 function codeOver(change: Change): (path: string) => string | null {
   const carried = new Set(change.changed)
   let held: Map<string, string> | null = null
@@ -125,6 +131,7 @@ function shadowOver(
   return {
     index: answeringOver(reading, pageOf),
     filed: () => [],
+    refusals: () => [],
     pageOf,
     codeAt: (path) => path,
   }
@@ -154,7 +161,9 @@ function castFrom(was: Reading, change: Change, held: Remembered): Cast {
     const reading = settled.reading
     const index = answeringOver(reading, pageOf)
     const filed = (): readonly Filing[] => settled.filings
-    return { shadow: { index, filed, pageOf, codeAt: codeOver(change) }, reading }
+    const left = leftOver(settled.refusedBefore, settled.refused)
+    const refusals = (): readonly string[] => left
+    return { shadow: { index, filed, refusals, pageOf, codeAt: codeOver(change) }, reading }
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     return { refused: `${NOT_WORKED_OUT} — ${why}` }
@@ -191,6 +200,7 @@ export function shadowAsked(change: Change): Shadow {
   return {
     index: answeringOver(reading, pageOf),
     filed: () => worked().shadow.filed(),
+    refusals: () => worked().shadow.refusals(),
     pageOf,
     codeAt: (path) => worked().shadow.codeAt(path),
   }
