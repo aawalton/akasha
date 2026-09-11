@@ -1,5 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { harnessSettingsAt } from "akasha/seat-system/agent-settings/harness-settings-reading/harness-settings-reading.module.code.ts"
 import type { RemoteControlEnv } from "akasha/seat-system/supervising/supervisor-env/supervisor-env.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
@@ -37,21 +39,22 @@ function readCredentialFileSync(
   }
 }
 
-const RC_SETTINGS_PATH = new URL(
-  "../../agent-settings/pages/remote-control/remote-control.agent-settings.harness-settings.json",
-  import.meta.url
-).pathname
+const REMOTE_CONTROL = "remote-control"
+
+const UNKNOWN = "the scopes remote control falls back on are unknown"
 
 const RC_SETTINGS_SCHEMA = shape.object({
   fallbackScopes: shape.array(shape.string()),
 })
 
 function declaredFallbackScopes(): string {
-  const raw = readFileSync(RC_SETTINGS_PATH, "utf-8")
+  const root = ownRepoRoot()
+  const at = join(root, harnessSettingsAt(root, REMOTE_CONTROL, UNKNOWN))
+  const raw = readFileSync(at, "utf-8")
   const declared = RC_SETTINGS_SCHEMA.parse(JSON.parse(raw)).fallbackScopes
   if (declared.length === 0) {
     throw new Error(
-      `${RC_SETTINGS_PATH} declares no fallback scopes, and remote control claims the scopes it is given`
+      `${at} declares no fallback scopes, and remote control claims the scopes it is given`
     )
   }
   return declared.join(" ")
