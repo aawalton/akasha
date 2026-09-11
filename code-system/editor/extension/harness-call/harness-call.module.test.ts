@@ -1,9 +1,13 @@
 import { describe, expect, test } from "bun:test"
 import { existsSync } from "node:fs"
 import * as path from "node:path"
-import { WAITED_AT_MOST } from "../../../../commands/modules/holding/holding.module.code.ts"
-import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
-import { akashaRoot, LANDING_TIMEOUT_MS, serverPath } from "./harness-call.module.code.ts"
+import {
+  akashaRoot,
+  LANDING_TIMEOUT_MS,
+  serverPath,
+} from "akasha/code-system/editor/extension/harness-call/harness-call.module.code.ts"
+import { WAITED_AT_MOST } from "akasha/commands/modules/holding/holding.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 
 const CHECKOUT = rootOf(import.meta.path)
 

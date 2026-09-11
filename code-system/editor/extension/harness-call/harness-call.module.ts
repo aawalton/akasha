@@ -1,4 +1,4 @@
-import type { Module } from "../../../modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const harnessCall = {
   id: "01a064f0-734d-7459-91b7-33e6eb60021d",

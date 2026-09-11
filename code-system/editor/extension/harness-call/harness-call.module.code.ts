@@ -1,12 +1,12 @@
 import * as fs from "node:fs"
 import * as os from "node:os"
 import * as path from "node:path"
-import { answerBytesSaid } from "../../../../commands/modules/answer-bytes/answer-bytes.module.code.ts"
 import {
   askServed,
   type Serving,
   servingFrom,
-} from "../command-server-client/command-server-client.module.code.ts"
+} from "akasha/code-system/editor/extension/command-server-client/command-server-client.module.code.ts"
+import { answerBytesSaid } from "akasha/commands/modules/answer-bytes/answer-bytes.module.code.ts"
 
 function parseRoot(stated: string | undefined): string {
   return stated === undefined || stated === "" ? path.join(os.homedir(), "repos", "akasha") : stated
