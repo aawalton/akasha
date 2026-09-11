@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { sentenceCase } from "./sentence-case.name-format.code.ts"
+import { sentenceCase } from "akasha/pages/name-formats/pages/sentence-case/sentence-case.name-format.code.ts"
 
 test("an opening capital with the rest lower is written in it", () => {
   expect(sentenceCase("Name")).toBe(true)
