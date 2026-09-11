@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.types.ts"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const processProperty = {
   id: "01a05406-9bc6-71c5-8fcf-b15b97d86578",
