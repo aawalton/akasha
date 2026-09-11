@@ -24,6 +24,7 @@ export const agentHook = {
     "text-property/over-tools",
     "select-property/runs-at",
     "agent-hook/block-combined-akasha-calls",
+    "agent-hook/weigh-bash-call",
   ],
   extends: ["page-type/module"],
   properties: [
