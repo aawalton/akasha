@@ -1,10 +1,10 @@
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
 
-export const clusterServiceManifest = {
+export const serviceClusterManifest = {
   id: "01a07317-ae51-7f69-a24e-d94859315637",
   pageTypeSlug: "relation-property",
   type: "relation-property",
-  slug: "cluster-service-manifest",
+  slug: "service-cluster-manifest",
   propertySlug: "manifest",
   definition: "the manifest a cluster service is applied as",
   targetPageType: "page-type/manifest",
