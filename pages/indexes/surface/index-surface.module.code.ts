@@ -113,36 +113,78 @@ function anythingLeft(under: Reading, at: string, emptied: ReadonlySet<string>):
   return false
 }
 
+type Counted = {
+  readonly directory: boolean
+  readonly count: number
+}
+
+type Added = Map<string, ReadonlyMap<string, Counted>>
+
 type Laid = {
   readonly base: Reading
   readonly held: ReadonlyMap<string, readonly string[]>
+  readonly filled: ReadonlySet<string>
+  readonly emptied: ReadonlySet<string>
+  readonly added: ReadonlyMap<string, ReadonlyMap<string, Counted>>
+  readonly thinned: ReadonlyMap<string, number>
 }
 
 const LAID = new WeakMap<Reading, Laid>()
+
+type Touched = Map<string, Map<string, Counted>>
+
+function owned(added: Added, touched: Touched, dir: string): Map<string, Counted> {
+  const found = touched.get(dir)
+  if (found !== undefined) return found
+  const made = new Map(added.get(dir))
+  touched.set(dir, made)
+  added.set(dir, made)
+  return made
+}
+
+function countingIn(added: Added, touched: Touched, at: string, by: number): undefined {
+  for (const one of notedUp(at)) {
+    const held = owned(added, touched, one.dir)
+    const count = (held.get(one.name)?.count ?? 0) + by
+    if (count > 0) held.set(one.name, { directory: one.directory, count })
+    else held.delete(one.name)
+  }
+}
+
+function thinningIn(thinned: Map<string, number>, at: string, by: number): undefined {
+  for (const dir of markedUp(at)) {
+    const count = (thinned.get(dir) ?? 0) + by
+    if (count > 0) thinned.set(dir, count)
+    else thinned.delete(dir)
+  }
+}
 
 export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading {
   const laid = LAID.get(under)
   const base = laid?.base ?? under
   const held = new Map<string, readonly string[]>(laid?.held)
-  for (const one of filings) held.set(one.at, one.lines)
+  const filled = new Set<string>(laid?.filled)
+  const emptied = new Set<string>(laid?.emptied)
+  const added: Added = new Map(laid?.added)
+  const thinned = new Map<string, number>(laid?.thinned)
+  const touched: Touched = new Map()
 
-  const filled = new Set<string>()
-  const emptied = new Set<string>()
-  for (const [at, lines] of held) {
-    if (lines.length === 0) emptied.add(at)
-    else filled.add(at)
+  for (const one of filings) {
+    const was = held.get(one.at)
+    const wasFilled = was !== undefined && was.length > 0
+    const wasEmptied = was !== undefined && was.length === 0
+    const fills = one.lines.length > 0
+    if (wasFilled !== fills) countingIn(added, touched, one.at, fills ? 1 : -1)
+    if (wasEmptied === fills) thinningIn(thinned, one.at, fills ? -1 : 1)
+    held.set(one.at, one.lines)
+    if (fills) filled.add(one.at)
+    else filled.delete(one.at)
+    if (fills) emptied.delete(one.at)
+    else emptied.add(one.at)
   }
-
-  const added = new Map(
-    [...Map.groupBy([...filled].flatMap(notedUp), (one) => one.dir)].map(
-      ([dir, noted]): readonly [string, ReadonlyMap<string, boolean>] => [
-        dir,
-        new Map(noted.map((one): readonly [string, boolean] => [one.name, one.directory])),
-      ]
-    )
-  )
-
-  const thinned = new Set([...emptied].flatMap(markedUp))
+  for (const [dir, names] of touched) {
+    if (names.size === 0) added.delete(dir)
+  }
 
   const holds = (at: string): boolean => {
     if (filled.has(at)) return true
@@ -158,7 +200,7 @@ export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading 
     listing: (at) => {
       const found = new Map<string, boolean>()
       for (const one of base.listing(at)) found.set(one.name, one.directory)
-      for (const [name, directory] of added.get(at) ?? []) found.set(name, directory)
+      for (const [name, counted] of added.get(at) ?? []) found.set(name, counted.directory)
       const said: Child[] = []
       for (const [name, directory] of found) {
         if (thinned.has(at) && !holds(beneath(at, name))) continue
@@ -167,6 +209,6 @@ export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading 
       return said
     },
   }
-  LAID.set(laying, { base, held })
+  LAID.set(laying, { base, held, filled, emptied, added, thinned })
   return laying
 }

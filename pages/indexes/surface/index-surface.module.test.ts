@@ -176,3 +176,41 @@ test("a later act's lines are the ones a laid reading answers", () => {
   expect(first.lines("identity/page/id/one.jsonl")).toEqual(['{"id":"first"}'])
   expect(second.lines("identity/page/id/two.jsonl")).toEqual(['{"id":"two"}'])
 })
+
+test("a file filled in one lay and emptied in a later one is there no more", () => {
+  const at = seeded()
+  const first = overlaidOn(readingAt(at), [
+    { at: "identity/module/slug/new.jsonl", lines: ['{"slug":"new"}'] },
+  ])
+  const second = overlaidOn(first, [{ at: "identity/module/slug/new.jsonl", lines: [] }])
+
+  expect(second.holds("identity/module/slug/new.jsonl")).toBe(false)
+  expect(second.holds("identity/module")).toBe(false)
+  expect(namesIn(second.listing("identity"))).toEqual(["domain", "page"])
+  expect(first.holds("identity/module/slug/new.jsonl")).toBe(true)
+})
+
+test("a file emptied in one lay and filled in a later one is there again", () => {
+  const at = seeded()
+  const first = overlaidOn(readingAt(at), [{ at: "identity/domain/slug/a.jsonl", lines: [] }])
+  const second = overlaidOn(first, [
+    { at: "identity/domain/slug/a.jsonl", lines: ['{"slug":"again"}'] },
+  ])
+
+  expect(second.holds("identity/domain/slug/a.jsonl")).toBe(true)
+  expect(second.holds("identity/domain")).toBe(true)
+  expect(namesIn(second.listing("identity"))).toEqual(["domain", "page"])
+  expect(first.holds("identity/domain")).toBe(false)
+})
+
+test("a directory is there while another file laid under it is still filled", () => {
+  const at = seeded()
+  const first = overlaidOn(readingAt(at), [
+    { at: "identity/module/slug/one.jsonl", lines: ['{"slug":"one"}'] },
+    { at: "identity/module/slug/two.jsonl", lines: ['{"slug":"two"}'] },
+  ])
+  const second = overlaidOn(first, [{ at: "identity/module/slug/one.jsonl", lines: [] }])
+
+  expect(second.holds("identity/module")).toBe(true)
+  expect(namesIn(second.listing("identity/module/slug"))).toEqual(["two.jsonl"])
+})

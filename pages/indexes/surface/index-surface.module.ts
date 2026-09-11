@@ -84,5 +84,13 @@ export const indexSurface = {
       invariantKind: "absence",
       statement: "Nothing here reads a page body.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A reading laid over another leaves that one answering as it did.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A lay is worked out from the acts laid rather than from the acts laid before.",
+    },
   ],
 } as const satisfies Module
