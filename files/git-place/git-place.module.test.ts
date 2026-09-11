@@ -9,6 +9,7 @@ import {
   KEPT,
   keptAt,
   LANDING_LOCK,
+  LEFT,
   STORES,
   storeAt,
   storeIn,
@@ -48,4 +49,17 @@ test("what akasha keeps is every store and the hold a landing takes", () => {
 test("a name akasha keeps sits directly under the folder git does not track", () => {
   expect(keptAt(LANDING_LOCK)).toBe(".git/akasha-landing.lock")
   expect(keptAt(CACHE)).toBe(storeAt(CACHE))
+})
+
+test("a path akasha keeps no longer is read against that folder rather than against a root", () => {
+  for (const one of LEFT) {
+    expect(one.startsWith(".git/")).toBe(false)
+    expect(one.startsWith("/")).toBe(false)
+  }
+})
+
+test("a path akasha keeps no longer is no name akasha keeps", () => {
+  for (const one of LEFT) {
+    expect(KEPT).not.toContain(one)
+  }
 })

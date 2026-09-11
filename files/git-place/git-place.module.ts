@@ -34,6 +34,22 @@ export const gitPlace = {
     },
     {
       invariantKind: "departure",
+      statement: "A path akasha kept before and keeps no longer is named here as well.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That path is read against the folder git does not track.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path named there is a sweep's whole reach.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path goes from there once every checkout has been swept of that path.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path under a store is named by the owner of that path.",
     },
     {
