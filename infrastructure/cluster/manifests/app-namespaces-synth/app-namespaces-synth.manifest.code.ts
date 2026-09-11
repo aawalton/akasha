@@ -6,7 +6,6 @@ export const NAMESPACE_NAMES = [
   "audhdalan",
   "collections",
   "connect",
-  "design-system",
   "relationships",
   "temper",
   "tracking",
@@ -75,19 +74,6 @@ function namespacesYaml(): string {
           name: "connect",
           labels: {
             "kubernetes.io/metadata.name": "connect",
-          },
-        },
-      },
-    },
-    {
-      id: "design-system",
-      manifest: {
-        apiVersion: "v1",
-        kind: "Namespace",
-        metadata: {
-          name: "design-system",
-          labels: {
-            "kubernetes.io/metadata.name": "design-system",
           },
         },
       },
