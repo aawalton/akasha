@@ -1,4 +1,3 @@
-import { readFieldKey } from "akasha/temper/build-deploy-checks/ts-node-shapes/ts-node-shapes.module.code.ts"
 import ts from "typescript"
 
 export function parseAddonSource(source: string, filePath: string): ts.SourceFile {
@@ -91,6 +90,20 @@ function isInsideFunctionBody(node: ts.Node): boolean {
     p = p.parent
   }
   return false
+}
+
+function readFieldKey(expr: ts.Expression): string | undefined {
+  if (ts.isPropertyAccessExpression(expr) && ts.isIdentifier(expr.expression)) {
+    return `${expr.expression.text}.${expr.name.text}`
+  }
+  if (
+    ts.isElementAccessExpression(expr) &&
+    ts.isIdentifier(expr.expression) &&
+    ts.isStringLiteralLike(expr.argumentExpression)
+  ) {
+    return `${expr.expression.text}.${expr.argumentExpression.text}`
+  }
+  return undefined
 }
 
 export function collectDeferredPublishedFields(sf: ts.SourceFile): readonly string[] {

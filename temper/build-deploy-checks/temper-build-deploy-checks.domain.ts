@@ -15,7 +15,6 @@ export const temperBuildDeployChecks = {
     "module/addon-roster-guard",
     "module/addon-source-files",
     "module/addon-global-ownership",
-    "module/ts-node-shapes",
     "module/eso-doc-api-version",
     "module/eso-clone-artifacts",
     "module/check-eso-typings-fresh",
