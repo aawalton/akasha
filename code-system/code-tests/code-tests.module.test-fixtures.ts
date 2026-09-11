@@ -31,3 +31,5 @@ export const SETS = "globalThis.held = true\n"
 export const NEEDS =
   'import { expect, test } from "bun:test"\n' +
   'test("one", () => { expect(globalThis.held).toBe(true) })\n'
+
+export const WEB_BUNFIG = "akasha/web/bunfig.toml"

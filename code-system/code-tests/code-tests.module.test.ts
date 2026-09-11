@@ -28,6 +28,7 @@ import {
   ROOTED,
   SETS,
   THROWS,
+  WEB_BUNFIG,
 } from "akasha/code-system/code-tests/code-tests.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
@@ -214,7 +215,7 @@ check("the mark a run carries is read back by whoever is inside it", () => {
 
 check("a test is run with what the nearest bunfig.toml above it preloads", () => {
   const root = repo({ "web/one.test.ts": NEEDS, "web/sets.ts": SETS, "plain.test.ts": PASSES })
-  writeFileSync(join(root, "akasha/web/bunfig.toml"), '[test]\npreload = ["./sets.ts"]\n')
+  writeFileSync(join(root, WEB_BUNFIG), '[test]\npreload = ["./sets.ts"]\n')
   expect(groupedBy(root, ["akasha"])).toEqual([
     { preloads: [], named: ["akasha/plain.test.ts"] },
     { preloads: [join(root, "akasha/web/sets.ts")], named: ["akasha/web/one.test.ts"] },
