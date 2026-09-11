@@ -151,11 +151,7 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "gap",
-      statement: "A rule un-ignoring a path is passed over.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "That path is let through.",
+      statement: "A path a rule un-ignores is judged rather than let through.",
     },
     {
       invariantKind: "gap",
