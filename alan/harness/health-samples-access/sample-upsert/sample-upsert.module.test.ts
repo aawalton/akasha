@@ -8,10 +8,34 @@ import {
   TRIES,
   type WritingFor,
 } from "akasha/alan/harness/health-samples-access/sample-upsert/sample-upsert.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 import { z } from "zod"
 
-const AT = "akasha/alan/track/daily/days/pages/2026-01-01/day-2026-01-01.day.health-samples.jsonl"
+const ROOT = process.cwd()
+
+const DAY_SLUG = "day-2026-01-01"
+
+const SAMPLES = "health-samples"
+
+const ROWS_HELD = "jsonl"
+
+const REPO = "akasha"
+
+function rowsAt(slug: string): string {
+  const page = listedAt(ROOT, "day", slug)[0]
+  if (page === undefined) {
+    throw new Error(`no \`day/${slug}\` is filed, so nothing says where its readings sit`)
+  }
+  const beside = besideAt(page.path, SAMPLES, ROWS_HELD)
+  if (beside === null) {
+    throw new Error(`\`${page.path}\` is no TypeScript file, and a page is one`)
+  }
+  return `${REPO}/${beside}`
+}
+
+const AT = rowsAt(DAY_SLUG)
 
 const ARRIVED = "2026-01-01T12:00:00.000Z"
 
