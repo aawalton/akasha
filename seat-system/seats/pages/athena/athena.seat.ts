@@ -10,6 +10,6 @@ export const athena = {
   role: "definer",
   person: "alan",
   startMode: "interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "aawalton",
 } as const satisfies Seat
