@@ -113,7 +113,11 @@ export const testsPass = {
     },
     {
       invariantKind: "constraint",
-      statement: "A run already inside a run judges nothing and lets the outer one answer.",
+      statement: "The marker saying a run is going descends every process that run starts.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run already inside a run refuses rather than answering that the tests passed.",
     },
     {
       invariantKind: "constraint",
