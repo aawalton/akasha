@@ -12,8 +12,14 @@ import {
 } from "akasha/commands/modules/value-minting/value-minting.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import { statesVersionSeven } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
-import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
-import { shapeAdded } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import {
+  relationFiled,
+  shapeAdded,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 
 const scratch = scratchWorld()
@@ -43,8 +49,18 @@ const PAGE_TYPE_AT = "akasha/page-type.page-type.ts"
 
 const PAGE_TYPE_BODY =
   `export const held = { id: "${TYPE_ID}", pageTypeSlug: "page-type", slug: "page-type",` +
-  ' extendsSlug: [], properties: [{ pagePropertySlug: "id", required: true, many: false },' +
+  ' extends: [], properties: [{ pagePropertySlug: "id", required: true, many: false },' +
   ' { pagePropertySlug: "slug", required: true, many: false }] }\n'
+
+const IDS = new Map<string, string>()
+
+function idFor(said: string): string {
+  const found = IDS.get(said)
+  if (found !== undefined) return found
+  const made = `01a0503f-14ea-74e4-9759-${String(IDS.size + 100).padStart(12, "0")}`
+  IDS.set(said, made)
+  return made
+}
 
 function property(
   root: string,
@@ -53,29 +69,35 @@ function property(
   unique: string | null = null
 ): undefined {
   const said = generator === null ? "" : `, generator: "${generator}"`
+  const at = `akasha/${slug}.text-property.ts`
+  const id = idFor(`text-property/${slug}`)
   put(
     root,
-    `akasha/${slug}.text-property.ts`,
-    `export const held = { id: "${HELD_ID}", pageTypeSlug: "text-property",` +
-      ` slug: "${slug}"${said} }\n`
+    at,
+    `export const held = { id: "${id}", pageTypeSlug: "text-property",` +
+      ` slug: "${slug}", propertySlug: "${slug}"${said} }\n`
   )
   shapeAdded(root, "text-property", slug, [
     { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique, slug, propertySlug: slug },
   ])
-  listedFiled(root, "text-property", slug, [
-    { path: `akasha/${slug}.text-property.ts`, id: HELD_ID },
-  ])
+  listedFiled(root, "text-property", slug, [{ path: at, id }])
+  if (generator !== null) {
+    relationFiled(root, idFor(`generator-kind/${generator}`), "generator", id, [{ path: at }])
+  }
 }
 
 function kind(root: string, slug: string, afterChecks: boolean): undefined {
+  const at = `akasha/${slug}.generator-kind.ts`
+  const id = idFor(`generator-kind/${slug}`)
   put(
     root,
-    `akasha/${slug}.generator-kind.ts`,
-    `export const kind = { id: "${HELD_ID}", pageTypeSlug: "generator-kind",` +
+    at,
+    `export const kind = { id: "${id}", pageTypeSlug: "generator-kind",` +
       ` slug: "${slug}", afterChecks: ${afterChecks} }\n`
   )
-  listedFiled(root, "generator-kind", slug, [
-    { path: `akasha/${slug}.generator-kind.ts`, id: HELD_ID },
+  listedFiled(root, "generator-kind", slug, [{ path: at, id }])
+  valueAlsoFiled(root, "generator-kind", [
+    { path: at, value: { id, pageTypeSlug: "generator-kind", slug, afterChecks } },
   ])
 }
 
