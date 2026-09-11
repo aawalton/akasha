@@ -75,6 +75,8 @@ const OUT_FILE = /^of=(.+)$/
 
 const REDIRECT = /^\d*>>?(.*)$/
 
+const READING_IN = /^\d*<{1,3}-?(?!>)(.*)$/
+
 const SPELLED = /[A-Za-z0-9_.~+@/-]+/g
 
 const HEREDOC = /<<-?\s*['"]?([A-Za-z_][A-Za-z0-9_]*)['"]?/
@@ -87,6 +89,11 @@ const CAPTURED = z.tuple([z.string(), z.string()])
 
 function parseRedirect(word: string): string | null {
   const read = CAPTURED.safeParse(REDIRECT.exec(word))
+  return read.success ? read.data[1] : null
+}
+
+function parseReadIn(word: string): string | null {
+  const read = CAPTURED.safeParse(READING_IN.exec(word))
   return read.success ? read.data[1] : null
 }
 
@@ -122,6 +129,11 @@ function pastRedirects(words: readonly string[]): readonly string[] {
   for (let at = 0; at < words.length; at += 1) {
     const word = words[at]
     if (word === undefined) continue
+    const reads = parseReadIn(word)
+    if (reads !== null) {
+      if (reads === "") at += 1
+      continue
+    }
     const said = parseRedirect(word)
     if (said === null) {
       kept.push(word)

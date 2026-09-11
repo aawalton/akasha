@@ -40,6 +40,11 @@ export const blockAkashaShellWrites = {
     {
       invariantKind: "departure",
       statement:
+        "A redirect reading in names what a call is handed rather than where the call lands.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A command that makes or takes away a file is judged on every path the command names.",
     },
     {
