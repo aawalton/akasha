@@ -115,6 +115,76 @@ test("a body holding a literal is a rule, so two files writing it are refused", 
   expect(reasonsIn("one.ts", one, every)).toHaveLength(1)
 })
 
+test("a body that is one literal is passed over, nothing in it being able to change", () => {
+  const one = `function noNode(): null {
+  return null
+}
+`
+  const two = `function gone(): null {
+  return null
+}
+`
+  const every = byRule([
+    { path: "one.ts", text: one },
+    { path: "two.ts", text: two },
+  ])
+  const [said] = speltIn("one.ts", one)
+  if (said === undefined) throw new Error("that body spells no rule")
+  expect(every(said.rule)).toHaveLength(2)
+  expect(reasonsIn("one.ts", one, every)).toEqual([])
+})
+
+test("a body answering an object built only of literals is passed over too", () => {
+  const one = `function makeBitWriter(): Writer {
+  return { bytes: [], currentByte: 0, bitPosition: 0 }
+}
+`
+  const two = `function freshWriter(): Writer {
+  return { bytes: [], currentByte: 0, bitPosition: 0 }
+}
+`
+  const every = byRule([
+    { path: "one.ts", text: one },
+    { path: "two.ts", text: two },
+  ])
+  const [said] = speltIn("one.ts", one)
+  if (said === undefined) throw new Error("that body spells no rule")
+  expect(every(said.rule)).toHaveLength(2)
+  expect(reasonsIn("one.ts", one, every)).toEqual([])
+})
+
+test("a body holding a name beside its literals is refused, that name reading what it reads", () => {
+  const one = `function gamepadBodyStyle(): Style {
+  return { fontSize: 27, fontColorField: GAMEPAD_TOOLTIP_COLOR_GENERAL_COLOR_3 }
+}
+`
+  const two = `function bodyStyle(): Style {
+  return { fontSize: 27, fontColorField: GAMEPAD_TOOLTIP_COLOR_GENERAL_COLOR_3 }
+}
+`
+  const every = byRule([
+    { path: "one.ts", text: one },
+    { path: "two.ts", text: two },
+  ])
+  expect(reasonsIn("one.ts", one, every)).toHaveLength(1)
+})
+
+test("two bound names joined by one operator are a rule, so two files spelling it are refused", () => {
+  const one = `function lapsed(one: number, two: number): boolean {
+  return one <= two
+}
+`
+  const two = `function isPacedMoveConfirmed(first: number, second: number): boolean {
+  return first <= second
+}
+`
+  const every = byRule([
+    { path: "one.ts", text: one },
+    { path: "two.ts", text: two },
+  ])
+  expect(reasonsIn("one.ts", one, every)).toHaveLength(1)
+})
+
 test("a rule spelled inline is not seen, because only a function is read", () => {
   const inline = `const camel = one.slug.replace(/-([a-z0-9])/g, (_, first: string) => first.toUpperCase())\n`
   const every = byRule([{ path: "two.module.code.ts", text: EXPORTED_AS }])

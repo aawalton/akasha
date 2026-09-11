@@ -6,6 +6,7 @@ export type Spelt = {
   readonly rule: string
   readonly exported: boolean
   readonly forwards: boolean
+  readonly literal: boolean
 }
 
 const SAYING: ReadonlySet<ts.SyntaxKind> = new Set([
@@ -32,6 +33,16 @@ const SAYING: ReadonlySet<ts.SyntaxKind> = new Set([
   ts.SyntaxKind.DoStatement,
   ts.SyntaxKind.SwitchStatement,
   ts.SyntaxKind.TryStatement,
+])
+
+const ONLY: ReadonlySet<ts.SyntaxKind> = new Set([
+  ts.SyntaxKind.StringLiteral,
+  ts.SyntaxKind.NumericLiteral,
+  ts.SyntaxKind.BigIntLiteral,
+  ts.SyntaxKind.NoSubstitutionTemplateLiteral,
+  ts.SyntaxKind.TrueKeyword,
+  ts.SyntaxKind.FalseKeyword,
+  ts.SyntaxKind.NullKeyword,
 ])
 
 const DECLARED = "function"
@@ -103,6 +114,36 @@ function forwarding(fn: ts.FunctionLikeDeclaration): boolean {
   return only
 }
 
+function keyed(name: ts.PropertyName): boolean {
+  return ts.isIdentifier(name) || ts.isStringLiteral(name) || ts.isNumericLiteral(name)
+}
+
+function onlyLiteral(node: ts.Node): boolean {
+  if (ts.isParenthesizedExpression(node)) return onlyLiteral(node.expression)
+  if (ONLY.has(node.kind)) return true
+  if (ts.isArrayLiteralExpression(node)) return node.elements.every((one) => onlyLiteral(one))
+  if (ts.isObjectLiteralExpression(node)) {
+    return node.properties.every(
+      (one) => ts.isPropertyAssignment(one) && keyed(one.name) && onlyLiteral(one.initializer)
+    )
+  }
+  return false
+}
+
+function answered(body: ts.Node): ts.Node | null {
+  if (!ts.isBlock(body)) return body
+  const [one] = body.statements
+  if (body.statements.length !== 1 || one === undefined) return null
+  if (!ts.isReturnStatement(one)) return null
+  return one.expression ?? null
+}
+
+function literalBody(fn: ts.FunctionLikeDeclaration): boolean {
+  if (fn.body === undefined) return false
+  const said = answered(fn.body)
+  return said !== null && onlyLiteral(said)
+}
+
 function exported(node: ts.Node): boolean {
   const held = ts.canHaveModifiers(node) ? ts.getModifiers(node) : undefined
   if (held?.some((one) => one.kind === ts.SyntaxKind.ExportKeyword) === true) return true
@@ -126,6 +167,7 @@ export function speltIn(path: string, text: string): readonly Spelt[] {
           rule,
           exported: exported(node),
           forwards: forwarding(node),
+          literal: literalBody(node),
         })
       }
     }
@@ -142,6 +184,7 @@ export function speltIn(path: string, text: string): readonly Spelt[] {
           rule,
           exported: exported(node),
           forwards: forwarding(node.initializer),
+          literal: literalBody(node.initializer),
         })
       }
     }

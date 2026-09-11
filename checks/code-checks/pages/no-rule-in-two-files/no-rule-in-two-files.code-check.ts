@@ -82,8 +82,13 @@ export const noRuleInTwoFiles = {
       statement: "An empty body is passed over the same way.",
     },
     {
+      invariantKind: "departure",
+      statement: "A body built only out of literals is passed over the same way.",
+    },
+    {
       invariantKind: "absence",
-      statement: "A body that is only a literal is read as a rule though nothing in it can change.",
+      statement:
+        "Two files holding one generated backtick string with no name in it are not refused.",
     },
 
     {

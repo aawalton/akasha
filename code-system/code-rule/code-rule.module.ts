@@ -49,6 +49,24 @@ export const codeRule = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether a body is built only out of literals is answered beside its rule.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body is built that way where the body answers one literal and does nothing else.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An object or an array is a literal where every key is a name and every value is a literal.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A name held as a value leaves the body built out of more than literals.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A template joining names is no literal however many names that template joins.",
     },
     {

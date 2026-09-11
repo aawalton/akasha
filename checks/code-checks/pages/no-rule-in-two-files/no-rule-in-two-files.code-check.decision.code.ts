@@ -34,7 +34,7 @@ export function everyFiledIn(shadow: Shadow): Saying {
 export function reasonsIn(path: string, text: string, every: Saying): readonly string[] {
   const said: string[] = []
   for (const one of speltIn(path, text)) {
-    if (one.forwards) continue
+    if (one.forwards || one.literal) continue
     const apart = every(one.rule).filter((each) => each.path !== path)
     const first = apart[0]
     if (first === undefined) continue

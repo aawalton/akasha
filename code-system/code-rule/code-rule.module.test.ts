@@ -210,6 +210,52 @@ test("a cast to a type passes its names along, since a type is no literal", () =
   expect(speltIn("one.ts", said)[0]?.forwards).toBe(true)
 })
 
+test("a body answering one literal and nothing else is built only out of literals", () => {
+  const said = `const nothing = (): null => null\n`
+  expect(speltIn("one.ts", said)[0]?.literal).toBe(true)
+})
+
+test("a block whose one statement returns a literal is built that way too", () => {
+  const said = `function noNode(): boolean {
+  return false
+}
+`
+  expect(speltIn("one.ts", said)[0]?.literal).toBe(true)
+})
+
+test("an object whose every key is a name and every value a literal is a literal", () => {
+  const said = `function held(): Writer {
+  return { bytes: [], currentByte: 0, bitPosition: 0 }
+}
+`
+  expect(speltIn("one.ts", said)[0]?.literal).toBe(true)
+})
+
+test("a name held as a value leaves the body built out of more than literals", () => {
+  const said = `function held(): Style {
+  return { fontSize: 27, fontColorField: TOOLTIP_COLOR }
+}
+`
+  expect(speltIn("one.ts", said)[0]?.literal).toBe(false)
+})
+
+test("a body answering two names joined by an operator is built out of more than literals", () => {
+  const said = `function held(one: number, two: number): boolean {
+  return one <= two
+}
+`
+  expect(speltIn("one.ts", said)[0]?.literal).toBe(false)
+})
+
+test("a body answering a literal beside anything else is built out of more than literals", () => {
+  const said = `function held(): number {
+  const one = 1
+  return one
+}
+`
+  expect(speltIn("one.ts", said)[0]?.literal).toBe(false)
+})
+
 test("a rule bound to nothing is not read, because only a function is", () => {
   const said = `const one = "a-b".replace(/-/g, "")\n`
   expect(speltIn("one.ts", said)).toEqual([])
