@@ -2,7 +2,6 @@ import type { TemperTask } from "akasha/temper/progressions/temper-tasks/temper-
 
 export const infiniteArchiveWeeklyLeaderboard = {
   id: "019db533-f381-75b1-ae47-75a551046ec2",
-  pageTypeSlug: "temper-task",
   type: "temper-task",
   slug: "infinite-archive-weekly-leaderboard",
   title: "Infinite Archive Weekly Leaderboard",

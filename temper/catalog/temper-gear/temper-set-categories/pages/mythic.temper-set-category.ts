@@ -2,7 +2,6 @@ import type { TemperSetCategory } from "akasha/temper/catalog/temper-gear/temper
 
 export const mythic = {
   id: "019e46b5-0dc4-78c4-a7c2-92ad1154f3e7",
-  pageTypeSlug: "temper-set-category",
   type: "temper-set-category",
   slug: "mythic",
   title: "Mythic",

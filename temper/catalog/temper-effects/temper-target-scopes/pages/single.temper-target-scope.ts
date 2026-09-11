@@ -2,7 +2,6 @@ import type { TemperTargetScope } from "akasha/temper/catalog/temper-effects/tem
 
 export const single = {
   id: "019e5a4f-78e7-758c-a100-d76802c0003f",
-  pageTypeSlug: "temper-target-scope",
   type: "temper-target-scope",
   slug: "single",
   title: "Single",

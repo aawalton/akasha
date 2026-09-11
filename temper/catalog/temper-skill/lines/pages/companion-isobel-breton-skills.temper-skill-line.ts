@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const companionIsobelBretonSkills = {
   id: "019e61dc-f20b-7328-ae6d-cd4fb71e6e3c",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "companion-isobel-breton-skills",
   title: "Breton Skills",

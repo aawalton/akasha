@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const craftProvisioning = {
   id: "019e61dc-f1e6-7d79-809f-77cf5bd63d34",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "craft-provisioning",
   title: "Provisioning",

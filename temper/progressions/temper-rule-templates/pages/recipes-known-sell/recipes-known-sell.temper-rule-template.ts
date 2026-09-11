@@ -2,7 +2,6 @@ import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-
 
 export const recipesKnownSell = {
   id: "019e3104-2628-7b7f-bd11-f6d4ad45e189",
-  pageTypeSlug: "temper-rule-template",
   type: "temper-rule-template",
   slug: "recipes-known-sell",
   title: "Sell known recipes",

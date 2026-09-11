@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const se = {
   id: "019e6471-1544-7f56-84e2-56bf85151811",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "se",
   title: "Southern Elsweyr",

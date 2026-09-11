@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const cc = {
   id: "019e6471-153f-7681-b087-7d914bf84349",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "cc",
   title: "Clockwork City",

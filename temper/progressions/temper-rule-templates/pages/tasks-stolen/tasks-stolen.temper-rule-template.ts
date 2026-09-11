@@ -2,7 +2,6 @@ import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-
 
 export const tasksStolen = {
   id: "019e3104-2615-7cda-ba54-233e6c758ff2",
-  pageTypeSlug: "temper-rule-template",
   type: "temper-rule-template",
   slug: "tasks-stolen",
   title: "Launder stolen task items",

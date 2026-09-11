@@ -2,7 +2,6 @@ import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/t
 
 export const crusadersDefiance = {
   id: "019e46b5-7e26-7ee3-9da7-1a5aaf91a1a1",
-  pageTypeSlug: "temper-signature-script",
   type: "temper-signature-script",
   slug: "crusaders-defiance",
   title: "Crusader's Defiance",

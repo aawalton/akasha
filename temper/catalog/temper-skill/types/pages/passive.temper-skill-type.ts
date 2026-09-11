@@ -2,7 +2,6 @@ import type { TemperSkillType } from "akasha/temper/catalog/temper-skill/types/t
 
 export const passive = {
   id: "019e46b5-a243-7401-aced-bd121d4944b2",
-  pageTypeSlug: "temper-skill-type",
   type: "temper-skill-type",
   slug: "passive",
   title: "Passive",

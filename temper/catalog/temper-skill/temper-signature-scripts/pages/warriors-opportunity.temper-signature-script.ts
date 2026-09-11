@@ -2,7 +2,6 @@ import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/t
 
 export const warriorsOpportunity = {
   id: "019e46b5-7e2b-7eff-8e10-b466537051a3",
-  pageTypeSlug: "temper-signature-script",
   type: "temper-signature-script",
   slug: "warriors-opportunity",
   title: "Warrior's Opportunity",

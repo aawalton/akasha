@@ -2,7 +2,6 @@ import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-
 
 export const trophiesBank = {
   id: "019e3104-2621-7ca2-8422-38d1ebaf66d8",
-  pageTypeSlug: "temper-rule-template",
   type: "temper-rule-template",
   slug: "trophies-bank",
   title: "Bank trophies",

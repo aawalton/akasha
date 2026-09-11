@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const wr = {
   id: "019e6471-153a-710c-a27d-bc085d9d7aaf",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "wr",
   title: "Wrothgar",

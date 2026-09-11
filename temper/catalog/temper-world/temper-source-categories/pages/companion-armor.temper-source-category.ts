@@ -2,7 +2,6 @@ import type { TemperSourceCategory } from "akasha/temper/catalog/temper-world/te
 
 export const companionArmor = {
   id: "019e3104-cc14-733f-9b20-3ab96d0c8c86",
-  pageTypeSlug: "temper-source-category",
   type: "temper-source-category",
   slug: "companion-armor",
   title: "Companion Armor",

@@ -2,7 +2,6 @@ import type { TemperSetCategory } from "akasha/temper/catalog/temper-gear/temper
 
 export const dungeon = {
   id: "019e46b5-0db9-7e77-847f-cc0d0d257fee",
-  pageTypeSlug: "temper-set-category",
   type: "temper-set-category",
   slug: "dungeon",
   title: "Dungeon",

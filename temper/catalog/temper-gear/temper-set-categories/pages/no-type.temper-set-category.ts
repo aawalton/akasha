@@ -2,7 +2,6 @@ import type { TemperSetCategory } from "akasha/temper/catalog/temper-gear/temper
 
 export const noType = {
   id: "019e46b5-0dca-77e7-8f82-275af16ff41b",
-  pageTypeSlug: "temper-set-category",
   type: "temper-set-category",
   slug: "no-type",
   title: "Unknown",

@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const dc2 = {
   id: "019e6471-1527-7342-bb7a-e8710a0add47",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "dc2",
   title: "Stormhaven",

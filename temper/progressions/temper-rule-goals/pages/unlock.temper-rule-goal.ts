@@ -2,7 +2,6 @@ import type { TemperRuleGoal } from "akasha/temper/progressions/temper-rule-goal
 
 export const unlock = {
   id: "01a071f5-ae75-7e5f-8fb9-75c8e06177a1",
-  pageTypeSlug: "temper-rule-goal",
   type: "temper-rule-goal",
   slug: "unlock",
   title: "Unlock",

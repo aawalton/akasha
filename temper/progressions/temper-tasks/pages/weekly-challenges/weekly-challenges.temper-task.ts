@@ -2,7 +2,6 @@ import type { TemperTask } from "akasha/temper/progressions/temper-tasks/temper-
 
 export const weeklyChallenges = {
   id: "019f9420-7fe5-7a60-8791-99f0d72cd040",
-  pageTypeSlug: "temper-task",
   type: "temper-task",
   slug: "weekly-challenges",
   title: "Weekly Challenges",

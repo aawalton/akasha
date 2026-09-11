@@ -2,7 +2,6 @@ import type { TemperTargetArmor } from "akasha/temper/catalog/temper-effects/tem
 
 export const overland = {
   id: "019e21f4-76bc-710f-846a-35f7ad0e9866",
-  pageTypeSlug: "temper-target-armor",
   type: "temper-target-armor",
   slug: "overland",
   title: "Overland",

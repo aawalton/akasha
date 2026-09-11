@@ -2,7 +2,6 @@ import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-
 
 export const craftingStolen = {
   id: "019e3104-261d-7c75-8813-f427ac1358a8",
-  pageTypeSlug: "temper-rule-template",
   type: "temper-rule-template",
   slug: "crafting-stolen",
   title: "Launder crafting materials",

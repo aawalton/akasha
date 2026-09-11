@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const companionTanlorinRadiatingHeart = {
   id: "019e61dc-f217-709d-8e39-78857b2b4a13",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "companion-tanlorin-radiating-heart",
   title: "Radiating Heart",

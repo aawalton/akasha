@@ -2,7 +2,6 @@ import type { TemperTargetScope } from "akasha/temper/catalog/temper-effects/tem
 
 export const cone = {
   id: "019e5a4f-78eb-7d16-a27e-7e368002f93f",
-  pageTypeSlug: "temper-target-scope",
   type: "temper-target-scope",
   slug: "cone",
   title: "Cone",

@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const allianceWarEmperor = {
   id: "019e61dc-f1d0-77b6-b555-1d34565fdaa2",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "alliance-war-emperor",
   title: "Emperor",

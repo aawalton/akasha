@@ -2,7 +2,6 @@ import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-
 
 export const treasuresEpicBank = {
   id: "019e3104-2620-7fe8-87df-816b5a447437",
-  pageTypeSlug: "temper-rule-template",
   type: "temper-rule-template",
   slug: "treasures-epic-bank",
   title: "Bank epic+ treasures",

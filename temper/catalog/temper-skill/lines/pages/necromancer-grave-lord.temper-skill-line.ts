@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const necromancerGraveLord = {
   id: "019e61dc-f1b9-7e2b-ac98-0d75be1f6157",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "necromancer-grave-lord",
   title: "Grave Lord",

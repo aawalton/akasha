@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const companionTanlorinHighElfSkills = {
   id: "019e61dc-f21a-7e06-a0a3-7bdb5a070201",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "companion-tanlorin-high-elf-skills",
   title: "High Elf Skills",

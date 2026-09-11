@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const hi = {
   id: "019e6471-154c-706b-bcb5-539a890b91ed",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "hi",
   title: "High Isle",

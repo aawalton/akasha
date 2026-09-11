@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const companionBastianDraconicArmor = {
   id: "019e61dc-f1f9-779e-a9d3-5b8e2c8a0636",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "companion-bastian-draconic-armor",
   title: "Draconic Armor",

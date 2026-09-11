@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const racialArgonianSkills = {
   id: "019e61dc-f1d7-78ff-ad35-c4e5f5426091",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "racial-argonian-skills",
   title: "Argonian Skills",

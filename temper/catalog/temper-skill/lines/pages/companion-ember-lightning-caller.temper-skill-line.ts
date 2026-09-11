@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const companionEmberLightningCaller = {
   id: "019e61dc-f202-7441-9b92-b2c3d7f500f8",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "companion-ember-lightning-caller",
   title: "Lightning Caller",

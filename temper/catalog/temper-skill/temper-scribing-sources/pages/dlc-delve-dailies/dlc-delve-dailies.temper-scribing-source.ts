@@ -2,7 +2,6 @@ import type { TemperScribingSource } from "akasha/temper/catalog/temper-skill/te
 
 export const dlcDelveDailies = {
   id: "019e12b0-85de-7980-a1e6-2104cabea998",
-  pageTypeSlug: "temper-scribing-source",
   type: "temper-scribing-source",
   slug: "dlc-delve-dailies",
   title: "DLC Delve Dailies",

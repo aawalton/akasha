@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const templarDawnsWrath = {
   id: "019e61dc-f1b3-7dbd-bfa7-06426cfc89cf",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "templar-dawns-wrath",
   title: "Dawn's Wrath",

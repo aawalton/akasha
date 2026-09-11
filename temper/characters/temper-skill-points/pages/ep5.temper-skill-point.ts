@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const ep5 = {
   id: "019e6471-1533-7dd5-b570-fa86c53bb6f0",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "ep5",
   title: "The Rift",

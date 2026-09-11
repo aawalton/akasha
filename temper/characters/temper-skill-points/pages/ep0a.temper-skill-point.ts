@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const ep0a = {
   id: "019e6471-152d-7558-8073-fc4cb30fd3d3",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "ep0a",
   title: "Bal Foyen",

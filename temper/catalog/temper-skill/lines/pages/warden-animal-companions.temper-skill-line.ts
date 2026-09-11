@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const wardenAnimalCompanions = {
   id: "019e61dc-f1b5-7fde-a419-a90f82294c4c",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "warden-animal-companions",
   title: "Animal Companions",

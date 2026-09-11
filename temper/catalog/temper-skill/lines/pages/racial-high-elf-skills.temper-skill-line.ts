@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const racialHighElfSkills = {
   id: "019e61dc-f1da-77df-8633-f64928dc3da3",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "racial-high-elf-skills",
   title: "High Elf Skills",

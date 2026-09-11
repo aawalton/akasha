@@ -2,7 +2,6 @@ import type { TemperTributePatron } from "akasha/temper/catalog/temper-pursuits/
 
 export const theDruidKing = {
   id: "01a06153-0eaa-700a-9109-247000ac4a81",
-  pageTypeSlug: "temper-tribute-patron",
   type: "temper-tribute-patron",
   slug: "the-druid-king",
   title: "The Druid King",

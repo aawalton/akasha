@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const dc0b = {
   id: "019e6471-1523-74cb-afc3-004d04fed216",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "dc0b",
   title: "Stros M'Kai",

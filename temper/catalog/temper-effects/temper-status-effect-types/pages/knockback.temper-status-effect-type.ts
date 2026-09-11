@@ -2,7 +2,6 @@ import type { TemperStatusEffectType } from "akasha/temper/catalog/temper-effect
 
 export const knockback = {
   id: "019e5a51-291e-7975-b90f-0fbd533444d0",
-  pageTypeSlug: "temper-status-effect-type",
   type: "temper-status-effect-type",
   slug: "knockback",
   title: "Knockback",

@@ -2,7 +2,6 @@ import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/t
 
 export const anchoritesCruelty = {
   id: "019e46b5-7e20-7414-8f7d-e202fdea640c",
-  pageTypeSlug: "temper-signature-script",
   type: "temper-signature-script",
   slug: "anchorites-cruelty",
   title: "Anchorite's Cruelty",

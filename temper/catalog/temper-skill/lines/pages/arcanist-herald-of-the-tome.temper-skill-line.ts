@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const arcanistHeraldOfTheTome = {
   id: "019e61dc-f1bc-7f39-834c-3b9de53aa24c",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "arcanist-herald-of-the-tome",
   title: "Herald of the Tome",

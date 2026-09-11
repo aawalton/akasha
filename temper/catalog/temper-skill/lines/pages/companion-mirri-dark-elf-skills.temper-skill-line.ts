@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const companionMirriDarkElfSkills = {
   id: "019e61dc-f201-7063-bdbc-60da531ed701",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "companion-mirri-dark-elf-skills",
   title: "Dark Elf Skills",

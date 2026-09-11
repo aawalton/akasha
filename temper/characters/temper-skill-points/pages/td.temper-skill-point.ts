@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const td = {
   id: "019e6471-154a-794a-9016-9612b0f4fb6e",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "td",
   title: "The Deadlands",

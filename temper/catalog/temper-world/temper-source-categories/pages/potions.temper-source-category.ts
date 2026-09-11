@@ -2,7 +2,6 @@ import type { TemperSourceCategory } from "akasha/temper/catalog/temper-world/te
 
 export const potions = {
   id: "019e3104-cc06-7c6c-b7df-b53c46194857",
-  pageTypeSlug: "temper-source-category",
   type: "temper-source-category",
   slug: "potions",
   title: "Potions",

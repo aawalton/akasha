@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const worldExcavation = {
   id: "019e61dc-f1d6-7739-88fd-88fb74b09951",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "world-excavation",
   title: "Excavation",

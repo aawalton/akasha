@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const companionAzandarRedguardSkills = {
   id: "019e61dc-f215-7ba7-8792-a3a943575c9c",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "companion-azandar-redguard-skills",
   title: "Redguard Skills",

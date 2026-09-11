@@ -2,7 +2,6 @@ import type { TemperSourceCategory } from "akasha/temper/catalog/temper-world/te
 
 export const skills = {
   id: "019e3104-cc0b-78bd-ab6e-341ad9f44cab",
-  pageTypeSlug: "temper-source-category",
   type: "temper-source-category",
   slug: "skills",
   title: "Skills",

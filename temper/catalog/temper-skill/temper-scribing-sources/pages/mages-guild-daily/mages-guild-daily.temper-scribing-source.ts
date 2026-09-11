@@ -2,7 +2,6 @@ import type { TemperScribingSource } from "akasha/temper/catalog/temper-skill/te
 
 export const magesGuildDaily = {
   id: "019e12b0-85db-772f-8925-757e9bacd178",
-  pageTypeSlug: "temper-scribing-source",
   type: "temper-scribing-source",
   slug: "mages-guild-daily",
   title: "Mages Guild Daily",

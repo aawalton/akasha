@@ -2,7 +2,6 @@ import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/t
 
 export const warmagesDefense = {
   id: "019e46b5-7e23-7867-aeea-5d911f65750a",
-  pageTypeSlug: "temper-signature-script",
   type: "temper-signature-script",
   slug: "warmages-defense",
   title: "Warmage's Defense",

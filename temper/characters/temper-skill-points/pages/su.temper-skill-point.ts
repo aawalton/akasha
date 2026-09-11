@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const su = {
   id: "019e6471-1540-7ca1-85ee-778382605908",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "su",
   title: "Summerset",

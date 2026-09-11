@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const allianceWarAssault = {
   id: "019e61dc-f1ce-7741-a5c3-6915eac5e6b9",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "alliance-war-assault",
   title: "Assault",

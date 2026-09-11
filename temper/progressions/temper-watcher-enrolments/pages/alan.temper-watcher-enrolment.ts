@@ -2,7 +2,6 @@ import type { TemperWatcherEnrolment } from "akasha/temper/progressions/temper-w
 
 export const alan = {
   id: "01a05fd3-698d-785b-8c2d-028d78baca65",
-  pageTypeSlug: "temper-watcher-enrolment",
   type: "temper-watcher-enrolment",
   slug: "alan",
   title: "Temper Watcher for Alan",

@@ -2,7 +2,6 @@ import type { TemperSkillBar } from "akasha/temper/characters/temper-skill-bars/
 
 export const backupSkillBar = {
   id: "019e2fc4-3e97-73ab-9816-94ffaec4b8ae",
-  pageTypeSlug: "temper-skill-bar",
   type: "temper-skill-bar",
   slug: "backup-skill-bar",
   title: "Backup Bar",

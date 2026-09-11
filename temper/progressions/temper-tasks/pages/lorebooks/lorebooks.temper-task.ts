@@ -2,7 +2,6 @@ import type { TemperTask } from "akasha/temper/progressions/temper-tasks/temper-
 
 export const lorebooks = {
   id: "019e2215-efc0-78bd-8676-b89e52598dd4",
-  pageTypeSlug: "temper-task",
   type: "temper-task",
   slug: "lorebooks",
   title: "Lorebooks",

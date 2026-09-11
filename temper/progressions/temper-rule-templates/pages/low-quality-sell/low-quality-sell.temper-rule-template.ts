@@ -2,7 +2,6 @@ import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-
 
 export const lowQualitySell = {
   id: "019e3104-262d-7918-8dcc-4b97684d4e61",
-  pageTypeSlug: "temper-rule-template",
   type: "temper-rule-template",
   slug: "low-quality-sell",
   title: "Sell low quality items",

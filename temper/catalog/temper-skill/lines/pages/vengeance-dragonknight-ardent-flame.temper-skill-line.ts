@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const vengeanceDragonknightArdentFlame = {
   id: "019e6f53-86aa-73b4-beae-f67e8aed26ca",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "vengeance-dragonknight-ardent-flame",
   title: "Vengeance Ardent Flame",

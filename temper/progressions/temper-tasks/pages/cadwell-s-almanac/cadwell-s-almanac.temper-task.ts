@@ -2,7 +2,6 @@ import type { TemperTask } from "akasha/temper/progressions/temper-tasks/temper-
 
 export const cadwellSAlmanac = {
   id: "019db533-f381-7609-8205-f9904634be23",
-  pageTypeSlug: "temper-task",
   type: "temper-task",
   slug: "cadwell-s-almanac",
   title: "Cadwell's Almanac",

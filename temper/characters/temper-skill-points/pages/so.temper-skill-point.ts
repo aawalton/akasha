@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const so = {
   id: "019e6471-1551-7a95-8fc8-4c8ad6c5cbd7",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "so",
   title: "Solstice",

@@ -2,7 +2,6 @@ import type { TemperSourceCategory } from "akasha/temper/catalog/temper-world/te
 
 export const target = {
   id: "019e3104-cc0f-754e-990e-dae60cf10aaf",
-  pageTypeSlug: "temper-source-category",
   type: "temper-source-category",
   slug: "target",
   title: "Target",

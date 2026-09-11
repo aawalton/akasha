@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const vengeanceGuildFightersGuild = {
   id: "019e6f53-86c9-7397-9560-53e0519f8a82",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "vengeance-guild-fighters-guild",
   title: "Vengeance Fighters Guild",

@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const companionSharedOneHandAndShield = {
   id: "019e61dc-f1ea-79e7-84b8-b4156668687d",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "companion-shared-one-hand-and-shield",
   title: "One Hand and Shield",

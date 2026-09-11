@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const gy = {
   id: "019e6471-154d-79c3-bdcf-b4c92a5e281e",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "gy",
   title: "Galen",

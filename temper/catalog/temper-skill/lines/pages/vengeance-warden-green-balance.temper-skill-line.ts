@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const vengeanceWardenGreenBalance = {
   id: "019e6f53-86b8-7aba-93f4-09b1ff59da76",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "vengeance-warden-green-balance",
   title: "Vengeance Green Balance",

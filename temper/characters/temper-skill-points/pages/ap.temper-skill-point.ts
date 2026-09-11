@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const ap = {
   id: "019e6471-154e-7f7f-8613-cd8a2466b23b",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "ap",
   title: "Apocrypha",

@@ -2,7 +2,6 @@ import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-
 
 export const surveyReportsBank = {
   id: "019e3104-2618-72cb-bf08-c915663ebbae",
-  pageTypeSlug: "temper-rule-template",
   type: "temper-rule-template",
   slug: "survey-reports-bank",
   title: "Bank survey reports",

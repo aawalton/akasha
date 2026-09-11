@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const vengeanceArcanistCurativeRuneforms = {
   id: "019e6f53-86be-705d-96b1-9b6393eb81b3",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "vengeance-arcanist-curative-runeforms",
   title: "Vengeance Curative Runeforms",

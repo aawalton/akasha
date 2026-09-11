@@ -2,7 +2,6 @@ import type { TemperScribingSource } from "akasha/temper/catalog/temper-skill/te
 
 export const dlcWorldBossDailies = {
   id: "019e12b0-85e7-70ea-a0d8-773c407acbbf",
-  pageTypeSlug: "temper-scribing-source",
   type: "temper-scribing-source",
   slug: "dlc-world-boss-dailies",
   title: "DLC World Boss Dailies",

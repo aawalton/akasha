@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const ww = {
   id: "019e6471-1550-755b-8b4d-61114b9c485a",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "ww",
   title: "West Weald",

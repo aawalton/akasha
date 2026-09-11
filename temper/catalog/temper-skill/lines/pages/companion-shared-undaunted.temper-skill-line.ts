@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const companionSharedUndaunted = {
   id: "019e61dc-f1f7-7110-9f6c-e813bea57d2b",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "companion-shared-undaunted",
   title: "Undaunted",

@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const ep2 = {
   id: "019e6471-152f-7f93-94e6-ce5a1db9c634",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "ep2",
   title: "Deshaan",

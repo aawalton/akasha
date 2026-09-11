@@ -2,7 +2,6 @@ import type { TemperTask } from "akasha/temper/progressions/temper-tasks/temper-
 
 export const activeQuests = {
   id: "019eacc6-8a95-7996-a9e7-68db48fa97fc",
-  pageTypeSlug: "temper-task",
   type: "temper-task",
   slug: "active-quests",
   title: "Active Quests",

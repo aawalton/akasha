@@ -2,7 +2,6 @@ import type { TemperTask } from "akasha/temper/progressions/temper-tasks/temper-
 
 export const skillMorphs = {
   id: "019db533-f381-756b-b84a-3e607b6d82ee",
-  pageTypeSlug: "temper-task",
   type: "temper-task",
   slug: "skill-morphs",
   title: "Skill Morphs",

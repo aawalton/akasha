@@ -2,7 +2,6 @@ import type { TemperTargetType } from "akasha/temper/catalog/temper-effects/temp
 
 export const self = {
   id: "019e5d5a-d85e-74ac-a2a6-096318679725",
-  pageTypeSlug: "temper-target-type",
   type: "temper-target-type",
   slug: "self",
   title: "Self",

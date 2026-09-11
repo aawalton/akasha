@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const companionSharedDualWield = {
   id: "019e61dc-f1eb-7d6c-a9c0-a2d6e3ddf0bb",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "companion-shared-dual-wield",
   title: "Dual Wield",

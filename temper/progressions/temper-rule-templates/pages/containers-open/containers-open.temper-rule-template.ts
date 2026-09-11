@@ -2,7 +2,6 @@ import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-
 
 export const containersOpen = {
   id: "019e3104-2608-73dd-9d1c-a7890d444f99",
-  pageTypeSlug: "temper-rule-template",
   type: "temper-rule-template",
   slug: "containers-open",
   title: "Open containers",

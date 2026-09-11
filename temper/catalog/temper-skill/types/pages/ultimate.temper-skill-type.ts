@@ -2,7 +2,6 @@ import type { TemperSkillType } from "akasha/temper/catalog/temper-skill/types/t
 
 export const ultimate = {
   id: "019e46b5-a240-7527-869f-db0a20988a21",
-  pageTypeSlug: "temper-skill-type",
   type: "temper-skill-type",
   slug: "ultimate",
   title: "Ultimate",

@@ -2,7 +2,6 @@ import type { TemperSourceCategory } from "akasha/temper/catalog/temper-world/te
 
 export const championPoints = {
   id: "019e3104-cc0a-75f2-8476-93e86393e6a8",
-  pageTypeSlug: "temper-source-category",
   type: "temper-source-category",
   slug: "champion-points",
   title: "Champion Points",

@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const companionBastianArdentWarrior = {
   id: "019e61dc-f1f8-73d6-b103-dae1ac68511a",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "companion-bastian-ardent-warrior",
   title: "Ardent Warrior",

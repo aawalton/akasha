@@ -2,7 +2,6 @@ import type { TemperTargetScope } from "akasha/temper/catalog/temper-effects/tem
 
 export const line = {
   id: "019e5a4f-78f2-7814-afe5-77d727109d8e",
-  pageTypeSlug: "temper-target-scope",
   type: "temper-target-scope",
   slug: "line",
   title: "Line",

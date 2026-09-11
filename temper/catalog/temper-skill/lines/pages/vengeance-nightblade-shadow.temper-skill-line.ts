@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const vengeanceNightbladeShadow = {
   id: "019e6f53-86af-7860-9aad-1a8fee4397c8",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "vengeance-nightblade-shadow",
   title: "Vengeance Shadow",

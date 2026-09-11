@@ -2,7 +2,6 @@ import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-
 
 export const toolsBank = {
   id: "019e3104-2620-7327-ad6d-ed207296369c",
-  pageTypeSlug: "temper-rule-template",
   type: "temper-rule-template",
   slug: "tools-bank",
   title: "Bank tools",

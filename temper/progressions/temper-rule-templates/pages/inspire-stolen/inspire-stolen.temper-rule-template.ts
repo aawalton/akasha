@@ -2,7 +2,6 @@ import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-
 
 export const inspireStolen = {
   id: "019e3104-2614-7316-8d1c-1e373007d0dc",
-  pageTypeSlug: "temper-rule-template",
   type: "temper-rule-template",
   slug: "inspire-stolen",
   title: "Launder stolen inspiration",

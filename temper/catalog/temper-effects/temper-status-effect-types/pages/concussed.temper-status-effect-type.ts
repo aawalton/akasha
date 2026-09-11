@@ -2,7 +2,6 @@ import type { TemperStatusEffectType } from "akasha/temper/catalog/temper-effect
 
 export const concussed = {
   id: "019e5a51-2927-78f0-abaa-97966ef93ee0",
-  pageTypeSlug: "temper-status-effect-type",
   type: "temper-status-effect-type",
   slug: "concussed",
   title: "Concussed",

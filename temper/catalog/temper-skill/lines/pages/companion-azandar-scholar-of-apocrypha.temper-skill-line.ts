@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const companionAzandarScholarOfApocrypha = {
   id: "019e61dc-f211-7bde-a88a-2de7f77e1ce3",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "companion-azandar-scholar-of-apocrypha",
   title: "Scholar of Apocrypha",

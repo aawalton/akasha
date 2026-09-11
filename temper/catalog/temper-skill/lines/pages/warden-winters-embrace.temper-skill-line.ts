@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const wardenWintersEmbrace = {
   id: "019e61dc-f1b8-724b-a7c9-dc62d81bb641",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "warden-winters-embrace",
   title: "Winter's Embrace",

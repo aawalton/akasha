@@ -2,7 +2,6 @@ import type { TemperSourceCategory } from "akasha/temper/catalog/temper-world/te
 
 export const foodDrink = {
   id: "019e3104-cc05-797d-8466-34b79f331c11",
-  pageTypeSlug: "temper-source-category",
   type: "temper-source-category",
   slug: "food-drink",
   title: "Food / Drink",

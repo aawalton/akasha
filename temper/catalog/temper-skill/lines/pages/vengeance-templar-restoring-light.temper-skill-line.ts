@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const vengeanceTemplarRestoringLight = {
   id: "019e6f53-86b3-7a76-b404-cfa04ae16c4d",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "vengeance-templar-restoring-light",
   title: "Vengeance Restoring Light",

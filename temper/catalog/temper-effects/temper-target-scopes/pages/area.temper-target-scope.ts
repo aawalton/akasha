@@ -2,7 +2,6 @@ import type { TemperTargetScope } from "akasha/temper/catalog/temper-effects/tem
 
 export const area = {
   id: "019e5a4f-78ef-7c5d-82e9-43cf36e42ed3",
-  pageTypeSlug: "temper-target-scope",
   type: "temper-target-scope",
   slug: "area",
   title: "Area",

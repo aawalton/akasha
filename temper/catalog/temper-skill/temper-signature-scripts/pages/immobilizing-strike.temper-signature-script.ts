@@ -2,7 +2,6 @@ import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/t
 
 export const immobilizingStrike = {
   id: "019e46b5-7e1d-75b0-87d7-93f75fbed5a2",
-  pageTypeSlug: "temper-signature-script",
   type: "temper-signature-script",
   slug: "immobilizing-strike",
   title: "Immobilizing Strike",

@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const worldVampire = {
   id: "019e61dc-f1d2-796a-81de-f4c8fffca45e",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "world-vampire",
   title: "Vampire",

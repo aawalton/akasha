@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const ic = {
   id: "019e6471-1538-7d45-947f-f9308e8ef790",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "ic",
   title: "Imperial City",

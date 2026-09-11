@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const worldWerewolf = {
   id: "019e61dc-f1d3-77f9-9922-91b2f42640eb",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "world-werewolf",
   title: "Werewolf",

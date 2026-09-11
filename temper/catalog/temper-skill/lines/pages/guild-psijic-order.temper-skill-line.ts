@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const guildPsijicOrder = {
   id: "019e61dc-f1cb-771d-991d-3314effff2d6",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "guild-psijic-order",
   title: "Psijic Order",

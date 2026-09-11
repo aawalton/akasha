@@ -2,7 +2,6 @@ import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/t
 
 export const druidsResurgence = {
   id: "019e46b5-7e24-79c7-b519-97d697258c8a",
-  pageTypeSlug: "temper-signature-script",
   type: "temper-signature-script",
   slug: "druids-resurgence",
   title: "Druid's Resurgence",

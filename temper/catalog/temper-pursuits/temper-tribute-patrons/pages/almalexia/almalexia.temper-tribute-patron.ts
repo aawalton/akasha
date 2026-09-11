@@ -2,7 +2,6 @@ import type { TemperTributePatron } from "akasha/temper/catalog/temper-pursuits/
 
 export const almalexia = {
   id: "01a06153-0ea9-7009-a905-fc732e55d6b7",
-  pageTypeSlug: "temper-tribute-patron",
   type: "temper-tribute-patron",
   slug: "almalexia",
   title: "Almalexia",

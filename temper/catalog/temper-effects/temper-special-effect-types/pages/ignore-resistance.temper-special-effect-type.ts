@@ -2,7 +2,6 @@ import type { TemperSpecialEffectType } from "akasha/temper/catalog/temper-effec
 
 export const ignoreResistance = {
   id: "019e4ccf-ce3d-7693-aa74-7b445737daa0",
-  pageTypeSlug: "temper-special-effect-type",
   type: "temper-special-effect-type",
   slug: "ignore-resistance",
   title: "Ignore Resistance",

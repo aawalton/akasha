@@ -2,7 +2,6 @@ import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-
 
 export const craftedNothing = {
   id: "019e3104-260b-72d1-adc2-e89106a13e08",
-  pageTypeSlug: "temper-rule-template",
   type: "temper-rule-template",
   slug: "crafted-nothing",
   title: "Protect crafted gear",

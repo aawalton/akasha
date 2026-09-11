@@ -2,7 +2,6 @@ import type { TemperSetCategory } from "akasha/temper/catalog/temper-gear/temper
 
 export const arena = {
   id: "019e46b5-0dbd-7210-a89e-8bb2b35a6ad9",
-  pageTypeSlug: "temper-set-category",
   type: "temper-set-category",
   slug: "arena",
   title: "Arena",

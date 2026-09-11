@@ -2,7 +2,6 @@ import type { TemperTask } from "akasha/temper/progressions/temper-tasks/temper-
 
 export const companionQuests = {
   id: "019e0394-18d8-7034-bda0-e7cc372eb80d",
-  pageTypeSlug: "temper-task",
   type: "temper-task",
   slug: "companion-quests",
   title: "Companion Quests",

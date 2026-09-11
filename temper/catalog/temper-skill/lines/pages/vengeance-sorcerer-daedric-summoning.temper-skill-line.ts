@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const vengeanceSorcererDaedricSummoning = {
   id: "019e6f53-86b4-7a72-aac4-d5dab74eca90",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "vengeance-sorcerer-daedric-summoning",
   title: "Vengeance Daedric Summoning",

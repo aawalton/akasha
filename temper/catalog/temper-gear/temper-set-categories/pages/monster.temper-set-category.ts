@@ -2,7 +2,6 @@ import type { TemperSetCategory } from "akasha/temper/catalog/temper-gear/temper
 
 export const monster = {
   id: "019e46b5-0dc3-71ff-a97e-cdf4f55ab557",
-  pageTypeSlug: "temper-set-category",
   type: "temper-set-category",
   slug: "monster",
   title: "Monster",

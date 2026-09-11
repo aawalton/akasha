@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const endlessarchive = {
   id: "019e6471-151a-7559-9242-38f8f4e2a9e8",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "endlessarchive",
   title: "Endless Archive",

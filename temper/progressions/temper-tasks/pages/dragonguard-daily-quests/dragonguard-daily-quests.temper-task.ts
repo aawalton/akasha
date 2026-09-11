@@ -2,7 +2,6 @@ import type { TemperTask } from "akasha/temper/progressions/temper-tasks/temper-
 
 export const dragonguardDailyQuests = {
   id: "019db533-f381-75c3-9780-5890e62c0c88",
-  pageTypeSlug: "temper-task",
   type: "temper-task",
   slug: "dragonguard-daily-quests",
   title: "Dragonguard Daily Quests",

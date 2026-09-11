@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const ws = {
   id: "019e6471-1546-7631-b53c-6193793f1687",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "ws",
   title: "Western Skyrim",

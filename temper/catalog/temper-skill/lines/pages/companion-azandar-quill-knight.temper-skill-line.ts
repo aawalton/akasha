@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const companionAzandarQuillKnight = {
   id: "019e61dc-f213-7063-8bdf-c73745af4d03",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "companion-azandar-quill-knight",
   title: "Quill Knight",

@@ -2,7 +2,6 @@ import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-
 
 export const treasureMapsBank = {
   id: "019e3104-2618-7f6b-9442-fb9a11ef7939",
-  pageTypeSlug: "temper-rule-template",
   type: "temper-rule-template",
   slug: "treasure-maps-bank",
   title: "Bank treasure maps",

@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const templarRestoringLight = {
   id: "019e61dc-f1b4-7ec5-9a16-e7243d81e922",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "templar-restoring-light",
   title: "Restoring Light",

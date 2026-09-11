@@ -2,7 +2,6 @@ import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-
 
 export const unlockByPriority = {
   id: "019e3104-2610-72db-8869-9f0539544306",
-  pageTypeSlug: "temper-rule-template",
   type: "temper-rule-template",
   slug: "unlock-by-priority",
   title: "Use unlockables",

@@ -2,7 +2,6 @@ import type { TemperSkillPoint } from "akasha/temper/characters/temper-skill-poi
 
 export const dc0a = {
   id: "019e6471-1524-7bcb-a4f0-953ed793d87b",
-  pageTypeSlug: "temper-skill-point",
   type: "temper-skill-point",
   slug: "dc0a",
   title: "Betnikh",

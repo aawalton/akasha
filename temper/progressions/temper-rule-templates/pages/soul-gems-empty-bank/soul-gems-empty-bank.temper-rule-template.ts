@@ -2,7 +2,6 @@ import type { TemperRuleTemplate } from "akasha/temper/progressions/temper-rule-
 
 export const soulGemsEmptyBank = {
   id: "019e3104-2619-7c16-a6af-1fd45755e988",
-  pageTypeSlug: "temper-rule-template",
   type: "temper-rule-template",
   slug: "soul-gems-empty-bank",
   title: "Bank empty soul gems",

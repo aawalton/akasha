@@ -2,7 +2,6 @@ import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/lines/t
 
 export const companionMirriLivingShade = {
   id: "019e61dc-f1fe-777b-b310-7c40abca7725",
-  pageTypeSlug: "temper-skill-line",
   type: "temper-skill-line",
   slug: "companion-mirri-living-shade",
   title: "Living Shade",

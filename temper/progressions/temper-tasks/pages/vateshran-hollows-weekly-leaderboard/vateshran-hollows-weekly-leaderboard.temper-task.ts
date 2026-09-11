@@ -2,7 +2,6 @@ import type { TemperTask } from "akasha/temper/progressions/temper-tasks/temper-
 
 export const vateshranHollowsWeeklyLeaderboard = {
   id: "019db533-f381-7537-ae93-c60ca6656758",
-  pageTypeSlug: "temper-task",
   type: "temper-task",
   slug: "vateshran-hollows-weekly-leaderboard",
   title: "Vateshran Hollows Weekly Leaderboard",

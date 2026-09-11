@@ -2,7 +2,6 @@ import type { TemperScribingSource } from "akasha/temper/catalog/temper-skill/te
 
 export const cyrodiilTownDailies = {
   id: "019e12b0-85e4-77f3-aa3b-76b242b50c2f",
-  pageTypeSlug: "temper-scribing-source",
   type: "temper-scribing-source",
   slug: "cyrodiil-town-dailies",
   title: "Cyrodiil Town Dailies",

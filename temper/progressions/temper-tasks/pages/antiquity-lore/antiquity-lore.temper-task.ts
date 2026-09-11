@@ -2,7 +2,6 @@ import type { TemperTask } from "akasha/temper/progressions/temper-tasks/temper-
 
 export const antiquityLore = {
   id: "019db533-f381-762c-874e-b381b6005239",
-  pageTypeSlug: "temper-task",
   type: "temper-task",
   slug: "antiquity-lore",
   title: "Antiquity Lore",
