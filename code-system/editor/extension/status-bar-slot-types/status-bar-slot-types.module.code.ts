@@ -1,4 +1,4 @@
-import type { UsageReading } from "../status-bar-usage/status-bar-usage.module.code.ts"
+import type { UsageReading } from "akasha/code-system/editor/extension/status-bar-usage/status-bar-usage.module.code.ts"
 
 export type UsageSlotDef = {
   readonly kind: "usage"
