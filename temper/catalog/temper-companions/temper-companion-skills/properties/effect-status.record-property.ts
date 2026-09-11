@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/pages/record-properties/record-prope
 import type { Duration } from "./duration.number-property.types.ts"
 import type { StatusDistance } from "./status-distance.number-property.types.ts"
 import type { StatusMagnitude } from "./status-magnitude.number-property.types.ts"
-import type { StatusName } from "./status-name.text-property.ts"
+import type { StatusName } from "./status-name.text-property.types.ts"
 
 export type EffectStatus = {
   status?: StatusName

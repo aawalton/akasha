@@ -1,0 +1,1 @@
+export type AntiquityName = string

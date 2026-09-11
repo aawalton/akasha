@@ -1,9 +1,9 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { MaxTargets } from "./max-targets.number-property.types.ts"
-import type { TargetKind } from "./target-kind.text-property.ts"
+import type { TargetKind } from "./target-kind.text-property.types.ts"
 import type { TargetRadius } from "./target-radius.number-property.types.ts"
 import type { TargetRange } from "./target-range.number-property.types.ts"
-import type { TargetScope } from "./target-scope.text-property.ts"
+import type { TargetScope } from "./target-scope.text-property.types.ts"
 
 export type EffectTarget = {
   type?: TargetKind

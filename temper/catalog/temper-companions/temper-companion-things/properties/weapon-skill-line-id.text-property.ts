@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type WeaponSkillLineId = string
-
 export const weaponSkillLineId = {
   id: "01a05fcd-aed2-704d-9ca2-b1d66e3f79e7",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const weaponSkillLineId = {
   definition: "the skill line a weapon pairing draws from",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

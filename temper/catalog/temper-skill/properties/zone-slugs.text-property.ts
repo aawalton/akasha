@@ -1,8 +1,6 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type ZoneSlug = string
-export type ZoneSlugs = List<ZoneSlug>
 
 export const zoneSlugs = {
   id: "01a05fca-cb88-7387-b51b-731bff669c39",
@@ -19,4 +17,5 @@ export const zoneSlugs = {
       statement: "This property is a relation to a zone.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

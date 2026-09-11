@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type EffectType = string
-
 export const effectType = {
   id: "01a05fb0-3cec-7336-a2af-ef2657a47e86",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const effectType = {
   definition: "how an effect's value is read against the metric the effect moves",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

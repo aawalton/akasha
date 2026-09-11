@@ -1,6 +1,6 @@
 import type { TemperCatalogThing } from "../../things/temper-catalog-thing.page-type.types.ts"
 import type { CycleLength } from "../properties/cycle-length.number-property.types.ts"
-import type { Epoch } from "../properties/epoch.text-property.ts"
+import type { Epoch } from "../properties/epoch.text-property.types.ts"
 
 export type TemperQuestGiver = TemperCatalogThing & {
   cycleLength: CycleLength

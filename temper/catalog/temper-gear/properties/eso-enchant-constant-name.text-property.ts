@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type EsoEnchantConstantName = string
-
 export const esoEnchantConstantName = {
   id: "01a05fcc-41f2-79fd-b6e5-16cff264ed35",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const esoEnchantConstantName = {
   definition: "the constant The Elder Scrolls Online names an enchant by in its own code",
   maxLength: 200,
   nameFormat: "name-format/upper-snake-case",
+  types: "ts",
 } as const satisfies TextProperty

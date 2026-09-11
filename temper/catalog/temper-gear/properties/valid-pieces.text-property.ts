@@ -1,8 +1,6 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type ValidPiece = string
-export type ValidPieces = List<ValidPiece>
 
 export const validPieces = {
   id: "01a05fd1-d43f-7be1-a074-25f62cd6a7ee",
@@ -17,4 +15,5 @@ export const validPieces = {
     { invariantKind: "departure", statement: "One list has every piece a set is made in." },
     { invariantKind: "departure", statement: "A star covers every piece the game offers." },
   ],
+  types: "ts",
 } as const satisfies TextProperty

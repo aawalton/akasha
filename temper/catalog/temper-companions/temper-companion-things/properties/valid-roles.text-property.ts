@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type ValidRoles = List<string>
 
 export const validRoles = {
   id: "01a05fcf-90fe-7faf-8ab5-b05131821f7e",
@@ -12,4 +9,5 @@ export const validRoles = {
   definition: "a role a skill suits",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

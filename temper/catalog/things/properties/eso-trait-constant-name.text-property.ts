@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type EsoTraitConstantName = string
-
 export const esoTraitConstantName = {
   id: "01a05fb0-3cec-795c-95ad-9ceda7a30724",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const esoTraitConstantName = {
   definition: "the constant The Elder Scrolls Online names a trait by in its own code",
   maxLength: 200,
   nameFormat: "name-format/upper-snake-case",
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type EssenceRune = string
-
 export const essenceRune = {
   id: "01a05fcc-41f2-7de9-816e-7c90d5a24ce7",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const essenceRune = {
   definition: "the rune deciding which enchant a glyph carries",
   maxLength: 200,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

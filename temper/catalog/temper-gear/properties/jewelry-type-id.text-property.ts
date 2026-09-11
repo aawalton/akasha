@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type JewelryTypeId = string
-
 export const jewelryTypeId = {
   id: "01a05fd1-d43c-7d49-81c6-a1c0aa409075",
   pageTypeSlug: "text-property",
@@ -14,4 +12,5 @@ export const jewelryTypeId = {
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a jewelry type." },
   ],
+  types: "ts",
 } as const satisfies TextProperty

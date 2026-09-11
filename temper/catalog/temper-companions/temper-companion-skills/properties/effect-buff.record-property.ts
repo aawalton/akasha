@@ -1,7 +1,7 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { EffectValue } from "../../../things/properties/effect-value.number-property.types.ts"
-import type { ValueType } from "../../../things/properties/value-type.text-property.ts"
-import type { BuffName } from "./buff-name.text-property.ts"
+import type { ValueType } from "../../../things/properties/value-type.text-property.types.ts"
+import type { BuffName } from "./buff-name.text-property.types.ts"
 import type { Duration } from "./duration.number-property.types.ts"
 
 export type EffectBuff = {

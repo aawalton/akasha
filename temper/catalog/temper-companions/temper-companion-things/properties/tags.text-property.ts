@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type Tags = List<string>
 
 export const tags = {
   id: "01a05fcf-90fe-73a9-a63b-b7aa36ddc92a",
@@ -12,4 +9,5 @@ export const tags = {
   definition: "a note about how a skill behaves",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

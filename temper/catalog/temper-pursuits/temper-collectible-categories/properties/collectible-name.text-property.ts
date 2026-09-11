@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type CollectibleName = string
-
 export const collectibleName = {
   id: "01a06165-ae0e-7001-a94f-12db8229907f",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const collectibleName = {
   definition: "the name the game shows a collectible under",
   maxLength: 200,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

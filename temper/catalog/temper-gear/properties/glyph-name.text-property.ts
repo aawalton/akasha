@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type GlyphName = string
-
 export const glyphName = {
   id: "01a05fcc-41f3-7fbf-9f03-9633908e93c8",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const glyphName = {
   definition: "what the game calls the glyph an enchant is carried by",
   maxLength: 200,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

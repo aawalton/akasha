@@ -1,8 +1,6 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type ValidSlot = string
-export type ValidSlots = List<ValidSlot>
 
 export const validSlots = {
   id: "01a05fcc-41f4-739e-a73e-ae1c6505faab",
@@ -17,4 +15,5 @@ export const validSlots = {
     { invariantKind: "gap", statement: "This property is a relation to a slot." },
     { invariantKind: "departure", statement: "One list has every slot a kind fits." },
   ],
+  types: "ts",
 } as const satisfies TextProperty

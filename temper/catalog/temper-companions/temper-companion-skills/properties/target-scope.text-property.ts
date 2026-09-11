@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type TargetScope = string
-
 export const targetScope = {
   id: "01a06193-6ca3-7e85-96e0-7cf3c6b79ba2",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const targetScope = {
   definition: "how many the thing an effect lands on covers",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

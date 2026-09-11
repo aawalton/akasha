@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type TraitId = string
-
 export const traitId = {
   id: "01a05fd1-d43e-71b5-b24b-b39383044c71",
   pageTypeSlug: "text-property",
@@ -12,4 +10,5 @@ export const traitId = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a trait." }],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,8 +1,6 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type FocusScript = string
-export type FocusScripts = List<FocusScript>
 
 export const focusScripts = {
   id: "01a05fca-cb82-7738-87f5-0530f38d10af",
@@ -19,4 +17,5 @@ export const focusScripts = {
       statement: "This property is a relation to a focus script.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

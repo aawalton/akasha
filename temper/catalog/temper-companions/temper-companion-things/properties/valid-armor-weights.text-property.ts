@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type ValidArmorWeights = List<string>
 
 export const validArmorWeights = {
   id: "01a05fce-1853-7880-bba6-4f23630e1dbf",
@@ -12,4 +9,5 @@ export const validArmorWeights = {
   definition: "an armor weight a role is built around",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

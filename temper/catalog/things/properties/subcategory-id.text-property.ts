@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type SubcategoryId = string
-
 export const subcategoryId = {
   id: "01a05fba-ce3b-7c4b-adf4-7b752fef3058",
   pageTypeSlug: "text-property",
@@ -14,4 +12,5 @@ export const subcategoryId = {
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to  a subcategory." },
   ],
+  types: "ts",
 } as const satisfies TextProperty

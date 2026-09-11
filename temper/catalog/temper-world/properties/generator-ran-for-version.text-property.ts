@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type GeneratorRanForVersion = string
-
 export const generatorRanForVersion = {
   id: "01a05fc4-7a92-760e-9d6f-0e6cdd38c794",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const generatorRanForVersion = {
   definition: "the game build the generator last ran for",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

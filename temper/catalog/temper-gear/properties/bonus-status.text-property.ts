@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type BonusStatus = string
-
 export const bonusStatus = {
   id: "01a05fd1-d437-73eb-b682-b54edb64a96b",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const bonusStatus = {
       statement: "A bonus marked unsupported moves no metric temper counts.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

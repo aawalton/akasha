@@ -1,8 +1,6 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type DropSource = string
-export type DropSources = List<DropSource>
 
 export const dropSources = {
   id: "01a05fd1-d439-7027-bdca-1804e14d6caf",
@@ -17,4 +15,5 @@ export const dropSources = {
     { invariantKind: "gap", statement: "This property is a relation to a scribing source." },
     { invariantKind: "departure", statement: "One list has every errand a style drops from." },
   ],
+  types: "ts",
 } as const satisfies TextProperty

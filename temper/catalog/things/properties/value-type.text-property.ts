@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ValueType = string
-
 export const valueType = {
   id: "01a05fe0-8427-7a16-b94d-45c0b105ce0a",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const valueType = {
   definition: "whether an effect's value counts as a whole number or as a fraction",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

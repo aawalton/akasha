@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ItemLevel = string
-
 export const itemLevel = {
   id: "01a05fcc-41f3-75f3-b81e-993d8b24e369",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const itemLevel = {
       statement: "A level reading Scaled follows the character with the item.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

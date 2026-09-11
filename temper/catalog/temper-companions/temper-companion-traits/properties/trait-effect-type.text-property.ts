@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type TraitEffectType = string
-
 export const traitEffectType = {
   id: "01a08786-5eff-74dc-8463-bba942e61344",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const traitEffectType = {
   definition: "how a trait's value is read against the metric the trait moves",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

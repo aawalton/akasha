@@ -1,8 +1,8 @@
 import type { Icon } from "../../../things/properties/icon.text-property.ts"
-import type { SkillLineId } from "../../things/properties/skill-line-id.text-property.ts"
-import type { AbilityIcon } from "../properties/ability-icon.text-property.ts"
+import type { SkillLineId } from "../../things/properties/skill-line-id.text-property.types.ts"
+import type { AbilityIcon } from "../properties/ability-icon.text-property.types.ts"
 import type { AffixScripts } from "../properties/affix-scripts.page-property-entry.types.ts"
-import type { FocusScripts } from "../properties/focus-scripts.text-property.ts"
+import type { FocusScripts } from "../properties/focus-scripts.text-property.types.ts"
 import type { SignatureScripts } from "../properties/signature-scripts.page-property-entry.types.ts"
 import type { TemperScribingThing } from "../temper-scribing-things/temper-scribing-thing.page-type.types.ts"
 

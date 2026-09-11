@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ConstantKind = string
-
 export const constantKind = {
   id: "01a05fcf-246a-7dcf-b177-c235a40a5808",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const constantKind = {
   definition: "the sort of value a game constant holds",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

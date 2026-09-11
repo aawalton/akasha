@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type OppositeId = string
-
 export const oppositeId = {
   id: "01a05fd1-d43d-7ade-8dad-6cb14825b926",
   pageTypeSlug: "text-property",
@@ -14,4 +12,5 @@ export const oppositeId = {
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a poison effect." },
   ],
+  types: "ts",
 } as const satisfies TextProperty

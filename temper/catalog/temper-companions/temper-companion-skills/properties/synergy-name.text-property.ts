@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type SynergyName = string
-
 export const synergyName = {
   id: "01a06193-6ca2-72d1-ab8b-4089e6bc8c55",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const synergyName = {
   definition: "what the game calls the synergy a skill offers",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

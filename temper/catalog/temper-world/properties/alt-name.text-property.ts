@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type AltName = string
-
 export const altName = {
   id: "01a05fc4-7a8f-7317-a065-cf6c35fe2012",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const altName = {
   definition: "the second name a people is known by",
   maxLength: 200,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

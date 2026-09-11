@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Quality = string
-
 export const quality = {
   id: "01a05fb0-3ced-77db-9e30-4e6234c93115",
   pageTypeSlug: "text-property",
@@ -12,4 +10,5 @@ export const quality = {
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a quality." }],
+  types: "ts",
 } as const satisfies TextProperty

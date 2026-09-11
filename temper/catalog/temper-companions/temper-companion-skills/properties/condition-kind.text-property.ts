@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ConditionKind = string
-
 export const conditionKind = {
   id: "01a06193-6c9f-770c-8d91-5ed8daef932d",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const conditionKind = {
   definition: "what one test inside an effect reads",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

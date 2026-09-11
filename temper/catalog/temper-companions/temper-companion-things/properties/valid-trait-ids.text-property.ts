@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type ValidTraitIds = List<string>
 
 export const validTraitIds = {
   id: "01a05fce-1853-7aad-97fd-8d8e8e51af86",
@@ -12,4 +9,5 @@ export const validTraitIds = {
   definition: "a trait a role is built around",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

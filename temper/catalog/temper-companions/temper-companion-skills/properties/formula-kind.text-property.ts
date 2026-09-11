@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type FormulaKind = string
-
 export const formulaKind = {
   id: "01a06193-6c9e-76cf-becf-954a806b18e9",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const formulaKind = {
   definition: "how an effect works out the number it has",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

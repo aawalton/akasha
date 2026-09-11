@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type ValidOffHandWeaponTypes = List<string>
 
 export const validOffHandWeaponTypes = {
   id: "01a05fcd-aed3-7341-ac9b-0786c5adcd7c",
@@ -12,4 +9,5 @@ export const validOffHandWeaponTypes = {
   definition: "a weapon a pairing takes in the off hand",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

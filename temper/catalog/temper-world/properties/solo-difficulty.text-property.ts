@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type SoloDifficulty = string
-
 export const soloDifficulty = {
   id: "01a05fc4-7a94-7c7a-a850-0f1b6fb1427d",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const soloDifficulty = {
   definition: "how hard a dungeon is to get through alone",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

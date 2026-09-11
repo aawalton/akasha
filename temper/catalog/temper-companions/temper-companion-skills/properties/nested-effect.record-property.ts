@@ -5,7 +5,7 @@ import type { EffectConditions } from "./effect-conditions.record-property.ts"
 import type { EffectFormula } from "./effect-formula.record-property.ts"
 import type { EffectStatus } from "./effect-status.record-property.ts"
 import type { EffectTarget } from "./effect-target.record-property.ts"
-import type { SkillEffectType } from "./skill-effect-type.text-property.ts"
+import type { SkillEffectType } from "./skill-effect-type.text-property.types.ts"
 
 export type NestedEffect = {
   type?: SkillEffectType

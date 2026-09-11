@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type SkillLineClass = string
-
 export const skillLineClass = {
   id: "01a05fca-cb87-7a9a-9dda-95916e9f73d7",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const skillLineClass = {
       statement: "This property is a relation to a class.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

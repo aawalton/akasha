@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type SkillLineId = string
-
 export const skillLineId = {
   id: "01a05fba-ce3b-7214-b302-f798be22e99e",
   pageTypeSlug: "text-property",
@@ -14,4 +12,5 @@ export const skillLineId = {
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to  a skill line." },
   ],
+  types: "ts",
 } as const satisfies TextProperty

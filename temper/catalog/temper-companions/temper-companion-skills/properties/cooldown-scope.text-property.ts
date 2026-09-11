@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type CooldownScope = string
-
 export const cooldownScope = {
   id: "01a06193-6ca1-72e9-8534-eb54b1e77eca",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const cooldownScope = {
   definition: "how widely a cooldown reduction reaches",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

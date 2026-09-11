@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type ValidMainHandWeaponTypes = List<string>
 
 export const validMainHandWeaponTypes = {
   id: "01a05fcd-aed3-794f-9b17-277957dc2758",
@@ -12,4 +9,5 @@ export const validMainHandWeaponTypes = {
   definition: "a weapon a pairing takes in the main hand",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty
