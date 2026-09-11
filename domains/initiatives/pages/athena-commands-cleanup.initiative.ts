@@ -81,6 +81,12 @@ export const athenaCommandsCleanup = {
       workingMemory:
         "Required belongs to the command rather than the argument: `--subject` is needed by a send and by nothing else, at `email-command-reading.module.code.ts:73`. Repeating belongs to the argument. `properties.one-of-property.ts:15-40` already has a page type declare what it adds and narrow what it inherits, optional becoming required, and the type generator runs off that shape. A command's declaration of an argument narrows it the same way.\n",
     },
+    {
+      statement:
+        "One reader reads every command's arguments from the pages, refusing what no page names.",
+      workingMemory:
+        "Three readers run today — `readIn` at `inventory-rule-calling.module.code.ts:164`, `readTaking` at `email-command-reading.module.code.ts:93`, and the hand-written one at `index-refresh.command.code.ts:30` — each refusing an unknown flag in its own words. `inventory-rule-calling.module.ts:24` already states that a command names the act to run and states nothing of how a call is read; that becomes true of every command rather than of the twenty-five under it.\n",
+    },
   ],
   constraints: [
     "Every landing in this repository runs through the command system, so a fault landed here stops every agent at once.",
