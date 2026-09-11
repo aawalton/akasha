@@ -4,6 +4,10 @@ import {
   runChange,
 } from "akasha/changes/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.code.ts"
 import {
+  FROM,
+  MANIFEST_FROM,
+} from "akasha/changes/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.test-fixtures.ts"
+import {
   bodyOf,
   refusalOf,
   worldOf,
@@ -11,9 +15,7 @@ import {
 
 const AT = "held/one.page-type.ts"
 
-const FROM = "./properties/web-directory.build-folder-property.ts"
-
-const HOLDING = `import type { Manifest } from "./properties/manifest.file-property.ts"
+const HOLDING = `import type { Manifest } from "${MANIFEST_FROM}"
 
 export type IosApp = WorkspacePackage & {
   manifest: Manifest

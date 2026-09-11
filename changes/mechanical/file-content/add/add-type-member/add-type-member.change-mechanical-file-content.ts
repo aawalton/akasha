@@ -10,6 +10,7 @@ export const addTypeMember = {
   definition: "one member put into an exported object type",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
