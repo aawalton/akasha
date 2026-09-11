@@ -26,7 +26,7 @@ export const gitPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "The hold a landing takes is a name akasha keeps that is no store.",
+      statement: "A hold a landing takes is a name akasha keeps that is no store.",
     },
     {
       invariantKind: "departure",

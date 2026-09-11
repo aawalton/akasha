@@ -5,6 +5,7 @@ import {
   dataAt,
   dataIn,
   HANDOFF,
+  HARNESS_LANDING_LOCK,
   INDEXES,
   KEPT,
   keptAt,
@@ -42,8 +43,12 @@ test("the data store is one of the stores, answered by a name of its own", () =>
   expect(dataAt("sops")).toBe(storeAt(DATA, "sops"))
 })
 
-test("what akasha keeps is every store and the hold a landing takes", () => {
-  expect([...KEPT].sort()).toEqual([...STORES, LANDING_LOCK].sort())
+test("what akasha keeps is every store and every hold a landing takes", () => {
+  expect([...KEPT].sort()).toEqual([...STORES, LANDING_LOCK, HARNESS_LANDING_LOCK].sort())
+})
+
+test("the akasha landing and the harness landing take holds of their own", () => {
+  expect(HARNESS_LANDING_LOCK).not.toBe(LANDING_LOCK)
 })
 
 test("a name akasha keeps sits directly under the folder git does not track", () => {
