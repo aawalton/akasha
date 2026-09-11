@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test"
+import { ptyProxyRel } from "akasha/seat-system/seat-entry-paths/seat-entry-paths.module.code.ts"
 import {
   claudeNewAccountFn,
   supervisorFn,
@@ -13,9 +14,7 @@ describe("a client opened on one account", () => {
   })
 
   test("is reached through the pty proxy rather than run directly", () => {
-    expect(said).toContain(
-      'bun run "$_root/seat-system/pty-proxy/pty-proxy.module.code.ts" -- bun run'
-    )
+    expect(said).toContain(`bun run "$_root/${ptyProxyRel()}" -- bun run`)
   })
 
   test("resets the terminal and ends with what the client ended with", () => {
