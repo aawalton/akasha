@@ -56,8 +56,17 @@ export const popoverKeepsItsViewportCap = {
       statement: "A tree where no wrapper caps refuses the check rather than reporting clean.",
     },
     {
-      invariantKind: "gap",
-      statement: "A change to a wrapper's own cap is judged over the files using that wrapper.",
+      invariantKind: "departure",
+      statement:
+        "The tags judged are read from every file the index names as the change leaves that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change to a wrapper's cap judges the files that change carries and no other.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file using that wrapper is judged when that file is next changed or at audit.",
     },
   ],
   check: { maxCpuSeconds: 10 },
