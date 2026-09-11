@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "no-rule-in-two-files was 852, measured 595 after the first collapses: temper 202, checks 64, alan 62, pages 39, changes 39, commands 31, agents 31, products 25, seat-system 23, code-system 23, smilingjenny 22, tail 34. Agents hold disjoint slices and the count moves under them, so re-measure before slicing. A cluster of N refusals is often one missing module wearing N names: check-staging proved it. The check under-reports, since speltIn passes over an arrow held as an object property.",
+        "The audit says 559: 504 no-rule-in-two-files and 55 over five checks — 35 files left behind under seat-system, 13 on pages/value alone, 5 manifests naming react-dom, 1 log over the ceiling. tests-pass is green. speltIn reads only a function declaration or a variable holding one, so an arrow held as a property, a class method, and anything inside a template literal are all invisible; widening it would double the count, which is a step to take on its own.",
     },
     {
       statement: "Every runtime helper the Lua compiler has is a page.",
