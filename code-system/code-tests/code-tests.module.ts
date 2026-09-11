@@ -52,6 +52,11 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The runner ends a test on a clock of its own rather than the seconds one file may spend.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Only a file past the seconds one file may spend makes a run slow.",
     },
     {
