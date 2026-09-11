@@ -1,8 +1,5 @@
 import { expect, test } from "bun:test"
-import {
-  lastAskedIn,
-  lastSaidIn,
-} from "akasha/seat-system/agent-last-said/agent-last-said.module.code.ts"
+import { lastAskedIn, lastSaidIn } from "akasha/seat-system/last-said/last-said.module.code.ts"
 
 function said(text: string, more: Record<string, unknown> = {}): string {
   return JSON.stringify({
