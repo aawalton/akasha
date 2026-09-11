@@ -1,5 +1,5 @@
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { CALLSTACK_MAX_LEN } from "../errors-addon-limits/errors-addon-limits.module.code.ts"
+import { CALLSTACK_MAX_LEN } from "akasha/temper/errors-addon/errors-addon-limits/errors-addon-limits.module.code.ts"
 
 export function matchedText(matched: unknown): string | null {
   return typeof matched === "string" ? matched : null

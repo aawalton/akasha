@@ -1,5 +1,5 @@
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { matchedText } from "../errors-addon-traceback/errors-addon-traceback.module.code.ts"
+import { matchedText } from "akasha/temper/errors-addon/errors-addon-traceback/errors-addon-traceback.module.code.ts"
 
 interface BuildIdHolder {
   TemperBuildIds?: Record<string, string>

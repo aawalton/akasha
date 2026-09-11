@@ -5,8 +5,8 @@ import {
   registerErrorHooks,
   registerPreInitHooks,
   unregisterPreInitHooks,
-} from "../errors-addon-hooks/errors-addon-hooks.module.code.ts"
-import { setSavedVariablesAccessor } from "../errors-addon-record/errors-addon-record.module.code.ts"
+} from "akasha/temper/errors-addon/errors-addon-hooks/errors-addon-hooks.module.code.ts"
+import { setSavedVariablesAccessor } from "akasha/temper/errors-addon/errors-addon-record/errors-addon-record.module.code.ts"
 
 registerPreInitHooks()
 

@@ -1,8 +1,8 @@
 import "akasha/temper/eso-types/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { ADDON_NAME } from "../errors-addon-limits/errors-addon-limits.module.code.ts"
-import { captureError } from "../errors-addon-record/errors-addon-record.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/errors-addon/errors-addon-limits/errors-addon-limits.module.code.ts"
+import { captureError } from "akasha/temper/errors-addon/errors-addon-record/errors-addon-record.module.code.ts"
 
 const PRE_INIT_LUA_ERROR_NS = `${ADDON_NAME}_PreInitLuaError`
 const PRE_INIT_LOW_MEMORY_NS = `${ADDON_NAME}_PreInitLowMemory`
