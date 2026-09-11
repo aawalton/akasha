@@ -97,7 +97,7 @@ export function keepDaysFrom(argv: readonly string[]): number | null {
   return Number.isFinite(days) && days >= 0 ? days : null
 }
 
-async function main(argv: readonly string[]): Promise<number> {
+export async function sweepLogDays(argv: readonly string[]): Promise<number> {
   const keepDays = keepDaysFrom(argv)
   if (keepDays === null) {
     process.stderr.write("--keep-days takes a count of days, zero or more\n")
@@ -162,4 +162,4 @@ async function main(argv: readonly string[]): Promise<number> {
   return held.length === 0 ? 0 : 1
 }
 
-if (import.meta.main) process.exit(await main(process.argv.slice(2)))
+if (import.meta.main) process.exit(await sweepLogDays(process.argv.slice(2)))
