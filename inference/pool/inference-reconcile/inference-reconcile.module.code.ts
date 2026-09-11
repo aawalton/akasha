@@ -78,14 +78,6 @@ function sourceFileSet(workspace: string, sourceDir: string): readonly string[] 
     .sort()
 }
 
-export function parseMfluxTools(raw: string): readonly string[] {
-  return raw
-    .split("\n")
-    .map((line) => line.trim())
-    .filter((line) => line.startsWith("mflux-"))
-    .sort()
-}
-
 function printPlan(
   host: InferenceHost,
   plan: ReconcilePlan,

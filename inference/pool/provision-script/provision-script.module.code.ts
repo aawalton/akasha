@@ -278,3 +278,11 @@ export function parseActualState(raw: string): readonly ActualResource[] {
   }
   return [...acc.entries()].map(([name, e]) => ActualResourceSchema.parse({ name, ...e }))
 }
+
+export function parseMfluxTools(raw: string): readonly string[] {
+  return raw
+    .split("\n")
+    .map((line) => line.trim())
+    .filter((line) => line.startsWith("mflux-"))
+    .sort()
+}
