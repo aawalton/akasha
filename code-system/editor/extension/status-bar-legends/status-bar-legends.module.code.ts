@@ -1,4 +1,4 @@
-import type { StoplightsSection } from "../status-bar-slot-types/status-bar-slot-types.module.code.ts"
+import type { StoplightsSection } from "akasha/code-system/editor/extension/status-bar-slot-types/status-bar-slot-types.module.code.ts"
 
 export type StoplightLegends = Readonly<Record<StoplightsSection, string | undefined>>
 
