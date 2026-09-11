@@ -6,6 +6,7 @@ import {
 } from "akasha/code-system/ios-apps/app-building/app-building.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { ran as running } from "akasha/utils/run/running/running.module.code.ts"
 import { z } from "zod"
@@ -101,6 +102,9 @@ function scriptOf(root: string, plan: Plan, stamp: string): string {
   const head = [
     MAC_PATH,
     `export NATIVE_SHELL_DIR="${shellDir}"`,
+    `export NATIVE_SHELL_TREE_ROOT="$HOME/${RUN_ROOT}"`,
+    `export NATIVE_SHELL_SYNC_SCRIPT="$HOME/${RUN_ROOT}/${plan.syncScriptPath}"`,
+    `export NATIVE_SHELL_DEPENDENCIES=${quoted(JSON.stringify(plan.dependencies))}`,
     `export NATIVE_SHELL_STAMP_COMMIT='${stamp}'`,
     ...plan.exports,
   ]

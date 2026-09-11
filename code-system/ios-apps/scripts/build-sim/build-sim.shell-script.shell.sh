@@ -31,9 +31,31 @@ SHELL_DIR="${NATIVE_SHELL_DIR:-}"
   echo "ERROR: NATIVE_SHELL_DIR=$SHELL_DIR does not exist — the rsync that makes it did not run." >&2
   exit 1
 }
+TREE_ROOT="${NATIVE_SHELL_TREE_ROOT:?is unset. The tree delivered here is rooted above the shell, and whatever runs this build names where. This script states no value of its own to fall back to.}"
+DEPENDENCIES="${NATIVE_SHELL_DEPENDENCIES:?is unset. The ios-app page states tool-reached, the akasha manifest states each range, and whatever runs this build joins them and exports them. This script states no value of its own to fall back to.}"
+
+# The delivered tree is a few folders rather than a checkout, so the manifest the
+# install reads is written here. In akasha the root manifest is the only one, and
+# no folder under it is a package.
+echo "==> Writing the install root at $TREE_ROOT"
+node -e '
+  const fs = require("fs");
+  const [at, dependencies] = process.argv.slice(1);
+  const manifest = {
+    name: "native-shell-install-root",
+    version: "0.0.0",
+    private: true,
+    dependencies: JSON.parse(dependencies),
+  };
+  fs.writeFileSync(at + "/package.json", JSON.stringify(manifest, null, 2) + "\n");
+  console.log("OK: " + Object.keys(manifest.dependencies).length + " dependencies");
+' "$TREE_ROOT" "$DEPENDENCIES"
+
+cd "$TREE_ROOT"
+npm install
+
 cd "$SHELL_DIR"
 echo "==> Building in $SHELL_DIR (rsynced from the invoking working tree by this run)"
-npm install
 
 if [ -n "${STAGED_WWW_DIR:-}" ]; then
   echo "==> Injecting staged www from $STAGED_WWW_DIR ..."
@@ -41,12 +63,13 @@ if [ -n "${STAGED_WWW_DIR:-}" ]; then
   mkdir -p www
   cp -R "$STAGED_WWW_DIR"/. www/
 fi
+SYNC_SCRIPT="${NATIVE_SHELL_SYNC_SCRIPT:?is unset. The ios-app page states sync-script, and whatever runs this build reads it off that page and exports it. This script builds more than one app and names no script of its own to fall back to.}"
 if [ -d ios ]; then
-  echo "==> cap sync + apply-ios-seam (ios:sync)..."
-  npm run ios:sync
+  echo "==> cap sync + apply-ios-seam..."
+  bash "$SYNC_SCRIPT" sync
 else
-  echo "==> cap add ios + apply-ios-seam (ios:add; this tree carries no ios/ yet)..."
-  npm run ios:add
+  echo "==> cap add ios + apply-ios-seam (this tree carries no ios/ yet)..."
+  bash "$SYNC_SCRIPT" add
 fi
 
 # After the package's own add/sync, because an app whose site is a page authored

@@ -30,6 +30,18 @@ export const deploySimulatorInstalling = {
       statement: "A build reporting no sentinel counts as nothing installed.",
     },
     {
+      invariantKind: "departure",
+      statement: "The delivered tree's root is named to the build, since the shell sits under it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the build installs is the range each package the app's page reaches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The script making an app's native sources is named to the build by its path.",
+    },
+    {
       invariantKind: "constraint",
       statement: "Nothing is reported until the build has finished.",
     },

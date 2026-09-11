@@ -21,7 +21,24 @@ export const buildSim = {
     },
     {
       invariantKind: "departure",
-      statement: "A site is looked for after the package's own add or sync rather than before.",
+      statement: "A site is looked for after the app's own add or sync rather than before.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The manifest the install reads is written at the root of the delivered tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The install runs at that root rather than in the shell folder.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No folder of the delivered tree but its root carries a manifest.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The script making an app's native sources is run by name rather than by a manifest.",
     },
     {
       invariantKind: "departure",
