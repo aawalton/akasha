@@ -23,6 +23,14 @@ export const specifierPlacing = {
     },
     {
       invariantKind: "departure",
+      statement: "The first literal a test hands `mock.module` names a module.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A name handed to `mock.module` rather than a literal is not followed.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A literal handed to `resolve` on a name taken from `createRequire` names a module.",
     },

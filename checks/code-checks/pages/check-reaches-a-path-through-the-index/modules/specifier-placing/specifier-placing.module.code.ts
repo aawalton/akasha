@@ -1,3 +1,4 @@
+import { mocking } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import ts from "typescript"
 
 const REQUIRING = "createRequire"
@@ -104,7 +105,9 @@ function placed(node: ts.Node): boolean {
   if (up === undefined) return false
   if (ts.isImportDeclaration(up) || ts.isExportDeclaration(up)) return up.moduleSpecifier === node
   if (ts.isLiteralTypeNode(up)) return up.parent !== undefined && ts.isImportTypeNode(up.parent)
-  return ts.isCallExpression(up) && up.expression.kind === ts.SyntaxKind.ImportKeyword
+  if (!ts.isCallExpression(up)) return false
+  if (up.expression.kind === ts.SyntaxKind.ImportKeyword) return true
+  return mocking(up) && up.arguments[0] === node
 }
 
 export function specifyingIn(source: ts.SourceFile): Specified {

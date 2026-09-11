@@ -43,6 +43,22 @@ test("a literal handed to `require.resolve` names a module", () => {
   expect(named(`require.resolve("${SPEC}")\n`)).toEqual([SPEC])
 })
 
+test("the first literal a test hands `mock.module` names a module", () => {
+  expect(named(`mock.module("${SPEC}", () => ({ a: 1 }))\n`)).toEqual([SPEC])
+})
+
+test("a name handed to `mock.module` rather than a literal is not followed", () => {
+  expect(named(`const AT = "${SPEC}"\nmock.module(AT, () => ({ a: 1 }))\n`)).toEqual([])
+})
+
+test("a `module` call on anything but `mock` names no module", () => {
+  expect(named(`other.module("${SPEC}", () => ({ a: 1 }))\n`)).toEqual([])
+})
+
+test("another call on `mock` names no module", () => {
+  expect(named(`mock.other("${SPEC}", () => ({ a: 1 }))\n`)).toEqual([])
+})
+
 test("a literal handed to `resolve` on a name taken from `createRequire` names a module", () => {
   expect(named(`${MADE}loadFrom.resolve("${SPEC}")\n`)).toEqual([SPEC])
 })
