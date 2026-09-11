@@ -8,6 +8,7 @@ export const emailRuleSet = {
   definition: "the fields an email rule tests, and where a person's rules of each kind are",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

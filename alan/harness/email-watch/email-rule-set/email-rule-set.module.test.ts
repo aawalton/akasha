@@ -9,6 +9,7 @@ import {
   ruleKinds,
   ruleLocation,
 } from "akasha/alan/harness/email-watch/email-rule-set/email-rule-set.module.code.ts"
+import { NO_RULE_AT } from "akasha/alan/harness/email-watch/email-rule-set/email-rule-set.module.test-fixtures.ts"
 
 describe("the fields an email rule tests", () => {
   test("every field holds text", () => {
@@ -90,6 +91,6 @@ describe("ruleLocation", () => {
   })
 
   test("answers none for a path that is no rule", () => {
-    expect(ruleLocation("akasha/email-watch/inbox-run/inbox-run.module.code.ts")).toBeNull()
+    expect(ruleLocation(NO_RULE_AT)).toBeNull()
   })
 })
