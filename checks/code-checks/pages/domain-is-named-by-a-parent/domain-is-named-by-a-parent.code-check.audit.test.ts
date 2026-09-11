@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
+import { domainIsNamedByAParent } from "akasha/checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.audit.code.ts"
 import {
   claiming,
   declaring,
@@ -8,8 +8,8 @@ import {
   founded,
   pathFor,
   typed,
-} from "../../../modules/scratch/check-scratch.module.code.ts"
-import { domainIsNamedByAParent } from "./domain-is-named-by-a-parent.code-check.audit.code.ts"
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
 const ONE = "01a04d5f-c731-7001-8000-000000000001"
 

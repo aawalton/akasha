@@ -1,8 +1,4 @@
 import { dirname } from "node:path"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import { input, TEXTS, textIn } from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   type Asking,
   DIRECTIVE,
@@ -10,7 +6,15 @@ import {
   PACKAGE,
   reasonsIn,
   sidesIn,
-} from "./client-reaches-pages-through-its-hooks.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/client-reaches-pages-through-its-hooks/client-reaches-pages-through-its-hooks.code-check.decision.code.ts"
+import {
+  input,
+  TEXTS,
+  textIn,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
 export function askingIn(change: Change, shadow: Shadow): Asking {
   return {

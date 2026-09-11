@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import {
   type Asking,
   appsIn,
@@ -10,7 +9,8 @@ import {
   refusalsOver,
   routesOf,
   servedAlone,
-} from "./browser-code-reads-the-environment-by-a-name.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.code-check.decision.code.ts"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 
 const PAGE = "held-web/held-web.router-app.ts"
 

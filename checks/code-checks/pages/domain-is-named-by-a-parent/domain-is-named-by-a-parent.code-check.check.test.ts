@@ -1,10 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { namedUnder } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { shadowAt, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import { domainIsNamedByAParent } from "akasha/checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.check.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
   claiming,
   declaring,
@@ -16,8 +12,12 @@ import {
   pathFor,
   put,
   typed,
-} from "../../../modules/scratch/check-scratch.module.code.ts"
-import { domainIsNamedByAParent } from "./domain-is-named-by-a-parent.code-check.check.code.ts"
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { namedUnder } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shadowAt, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const ONE = "01a04d5f-c731-7001-8000-000000000001"
 

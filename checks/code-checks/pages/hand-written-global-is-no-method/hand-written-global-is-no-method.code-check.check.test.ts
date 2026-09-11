@@ -1,15 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
+import { handWrittenGlobalIsNoMethod } from "akasha/checks/code-checks/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.code-check.check.code.ts"
+import { DECLARATION } from "akasha/checks/code-checks/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.code-check.decision.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { filing } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   noPathsFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { filing } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { handWrittenGlobalIsNoMethod } from "./hand-written-global-is-no-method.code-check.check.code.ts"
-import { DECLARATION } from "./hand-written-global-is-no-method.code-check.decision.code.ts"
 
 const OBJECTS_AT = "akasha/objects.type-declaration.ts"
 

@@ -1,18 +1,25 @@
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { namedUnder, pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { filedById, reaches } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
-import type { Paged, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { bodyOf, input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   DOMAIN,
   judgingBy,
   partsOf,
   THE_WHOLE,
   theWhole,
-} from "./domain-is-named-by-a-parent.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.code-check.decision.code.ts"
+import type {
+  Paged,
+  Selector,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import {
+  bodyOf,
+  input,
+  PAGES,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { namedUnder, pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { filedById, reaches } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
 
 const kindsHeld = new WeakMap<Shadow, ReadonlySet<string>>()
 

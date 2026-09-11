@@ -1,16 +1,16 @@
+import {
+  type Asking,
+  refusalsOver,
+} from "akasha/checks/code-checks/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.code-check.decision.code.ts"
+import { bodyOf, onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { APP } from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
 import { filePropertiesAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import {
   everyOfType,
   everyPath,
   valuesByPath,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { bodyOf, onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { APP } from "../../../modules/router-app-code/router-app-code.module.code.ts"
-import {
-  type Asking,
-  refusalsOver,
-} from "./client-reaches-a-server-module-through-a-route.code-check.decision.code.ts"
 
 const NONE: ReadonlyMap<string, string | null> = new Map()
 

@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import { extensionHostReachesNoBunCode } from "./extension-host-reaches-no-bun-code.code-check.audit.code.ts"
+import { extensionHostReachesNoBunCode } from "akasha/checks/code-checks/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.code-check.audit.code.ts"
 import {
   ENTRY,
   NEXT,
   scratch,
   tracked,
   withManifest,
-} from "./extension-host-reaches-no-bun-code.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

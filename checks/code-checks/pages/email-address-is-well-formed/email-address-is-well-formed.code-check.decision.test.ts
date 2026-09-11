@@ -1,14 +1,18 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { declaring, founded, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   ADDRESS,
   type Keying,
   keyingIn,
   reasonsIn,
   whyRefused,
-} from "./email-address-is-well-formed.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.decision.code.ts"
+import {
+  declaring,
+  founded,
+  typed,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const TEXT = "text-property"
 

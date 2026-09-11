@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const domainIsNamedByAParent = {
   id: "01a04d5f-c731-7000-9066-3abf317a1d58",

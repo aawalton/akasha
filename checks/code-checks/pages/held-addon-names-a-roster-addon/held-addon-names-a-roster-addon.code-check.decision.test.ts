@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import {
   type Asking,
   heldIn,
   refusalsOver,
   rosterIn,
-} from "./held-addon-names-a-roster-addon.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/held-addon-names-a-roster-addon/held-addon-names-a-roster-addon.code-check.decision.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const ADDON_PAGE = "temper/temper-hum-async/temper-hum-async.eso-addon.ts"
 

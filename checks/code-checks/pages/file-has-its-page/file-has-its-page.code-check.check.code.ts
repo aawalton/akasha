@@ -1,7 +1,13 @@
+import {
+  claimingIn,
+  unclaimedAt,
+} from "akasha/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.decision.code.ts"
+import {
+  FILES,
+  judgingEach,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import { FILES, judgingEach } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { claimingIn, unclaimedAt } from "./file-has-its-page.code-check.decision.code.ts"
 
 export function unclaimedIn(change: Change, shadow: Shadow): readonly string[] {
   const claimed = claimingIn(shadow)

@@ -1,16 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { fileLength } from "./file-length.code-check.check.code.ts"
-import { CEILING } from "./file-length.code-check.decision.code.ts"
+import { fileLength } from "akasha/checks/code-checks/pages/file-length/file-length.code-check.check.code.ts"
+import { CEILING } from "akasha/checks/code-checks/pages/file-length/file-length.code-check.decision.code.ts"
 import {
   ELSEWHERE,
   LOCKFILE,
   letOff,
   scratch,
   seeded,
-} from "./file-length.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/file-length/file-length.code-check.decision.test-fixtures.ts"
+import { onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const HELD = "akasha/held.ts"
 

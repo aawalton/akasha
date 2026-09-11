@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const emailAddressIsWellFormed = {
   id: "01a058ff-b65d-7ee3-a34f-8bb41d52b52d",

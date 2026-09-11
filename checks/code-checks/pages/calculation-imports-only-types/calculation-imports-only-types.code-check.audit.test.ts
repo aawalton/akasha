@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
+import { calculationImportsOnlyTypes } from "akasha/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.audit.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as git } from "../../../../git/running/git-running.module.code.ts"
-import { calculationImportsOnlyTypes } from "./calculation-imports-only-types.code-check.audit.code.ts"
 
 const scratch = scratchWorld()
 

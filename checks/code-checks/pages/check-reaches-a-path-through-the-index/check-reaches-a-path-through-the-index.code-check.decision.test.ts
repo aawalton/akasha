@@ -8,7 +8,7 @@ import {
   judgingOver,
   namingOver,
   reasonsIn,
-} from "./check-reaches-a-path-through-the-index.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.code-check.decision.code.ts"
 
 const HELD = [
   "design/colors/pages/yellow.color.ts",

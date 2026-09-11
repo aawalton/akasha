@@ -1,16 +1,3 @@
-import { textIn } from "akasha/code-system/body-text/body-text.module.code.ts"
-import {
-  type Facing,
-  generatedIn,
-  toolResolvesPathsIn,
-} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import {
-  type Body,
-  FILES,
-  judgingEach,
-  type Selector,
-} from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
   type Asking,
   askingOver,
@@ -18,7 +5,20 @@ import {
   type Naming,
   namingOver,
   reasonsIn,
-} from "./check-reaches-a-path-through-the-index.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.code-check.decision.code.ts"
+import {
+  type Body,
+  FILES,
+  judgingEach,
+  type Selector,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import { textIn } from "akasha/code-system/body-text/body-text.module.code.ts"
+import {
+  type Facing,
+  generatedIn,
+  toolResolvesPathsIn,
+} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const FACING = new WeakMap<Shadow, Facing>()
 

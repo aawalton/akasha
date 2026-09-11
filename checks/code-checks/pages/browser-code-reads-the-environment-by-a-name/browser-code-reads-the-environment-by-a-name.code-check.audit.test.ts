@@ -1,15 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratch } from "../../../modules/check-staging/check-staging.module.code.ts"
+import {
+  askingAt,
+  browserCodeReadsTheEnvironmentByAName,
+} from "akasha/checks/code-checks/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.code-check.audit.code.ts"
+import { scratch } from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
 import {
   APP_HELD,
   APP_PAGE,
   APP_PLAIN,
   appRooted,
-} from "../../../modules/router-app-code/router-app-code.module.test-fixtures.ts"
-import {
-  askingAt,
-  browserCodeReadsTheEnvironmentByAName,
-} from "./browser-code-reads-the-environment-by-a-name.code-check.audit.code.ts"
+} from "akasha/checks/modules/router-app-code/router-app-code.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

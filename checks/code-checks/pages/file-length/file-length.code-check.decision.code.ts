@@ -1,3 +1,4 @@
+import { textNamed } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
 import { partedIn, sectionedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
@@ -11,7 +12,6 @@ import {
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { textNamed } from "../../../modules/change-walking/change-walking.module.code.ts"
 
 export const CEILING = 15000
 

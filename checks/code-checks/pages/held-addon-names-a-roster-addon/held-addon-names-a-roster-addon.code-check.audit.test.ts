@@ -1,15 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  askingAt,
+  heldAddonNamesARosterAddon,
+} from "akasha/checks/code-checks/pages/held-addon-names-a-roster-addon/held-addon-names-a-roster-addon.code-check.audit.code.ts"
+import { filing } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import {
   noPathsFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { filing } from "../../../modules/scratch/check-scratch.module.code.ts"
-import {
-  askingAt,
-  heldAddonNamesARosterAddon,
-} from "./held-addon-names-a-roster-addon.code-check.audit.code.ts"
 
 const ADDON = "eso-addon"
 

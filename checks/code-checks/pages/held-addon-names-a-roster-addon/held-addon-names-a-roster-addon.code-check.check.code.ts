@@ -1,19 +1,19 @@
 import { dirname } from "node:path"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import {
-  input,
-  textIn,
-  textsBy,
-} from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   ADDON,
   type Asking,
   HELD,
   refusalsOver,
-} from "./held-addon-names-a-roster-addon.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/held-addon-names-a-roster-addon/held-addon-names-a-roster-addon.code-check.decision.code.ts"
+import {
+  input,
+  textIn,
+  textsBy,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
 export function askingIn(change: Change, shadow: Shadow): Asking {
   return {

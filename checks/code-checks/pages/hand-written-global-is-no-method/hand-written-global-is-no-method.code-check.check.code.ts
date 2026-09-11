@@ -1,14 +1,14 @@
 import {
-  input,
-  textIn,
-  textsBy,
-} from "../../../modules/change-walking/change-walking.module.code.ts"
-import {
   AMBIENT,
   DECLARATION,
   HELD,
   refusalsOver,
-} from "./hand-written-global-is-no-method.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.code-check.decision.code.ts"
+import {
+  input,
+  textIn,
+  textsBy,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 
 const PAGE_TAIL = `.${DECLARATION}.${HELD}`
 

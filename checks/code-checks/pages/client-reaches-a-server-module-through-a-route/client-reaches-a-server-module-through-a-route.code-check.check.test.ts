@@ -1,15 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { change, scratch } from "../../../modules/check-staging/check-staging.module.code.ts"
+import {
+  askingIn,
+  clientReachesAServerModuleThroughARoute,
+} from "akasha/checks/code-checks/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.code-check.check.code.ts"
+import { change, scratch } from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
 import {
   APP_PAGE,
   APP_PLAIN,
   appRooted,
-} from "../../../modules/router-app-code/router-app-code.module.test-fixtures.ts"
-import {
-  askingIn,
-  clientReachesAServerModuleThroughARoute,
-} from "./client-reaches-a-server-module-through-a-route.code-check.check.code.ts"
+} from "akasha/checks/modules/router-app-code/router-app-code.module.test-fixtures.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const browserCodeReadsTheEnvironmentByAName = {
   id: "01a08dbe-1652-7000-bba4-cd7488c7a8ec",

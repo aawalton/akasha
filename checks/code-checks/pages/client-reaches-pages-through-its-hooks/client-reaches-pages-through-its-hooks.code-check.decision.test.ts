@@ -4,7 +4,7 @@ import {
   reasonsIn,
   type Sides,
   sidesIn,
-} from "./client-reaches-pages-through-its-hooks.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/client-reaches-pages-through-its-hooks/client-reaches-pages-through-its-hooks.code-check.decision.code.ts"
 
 const SIDES: Sides = {
   access: { folder: "akasha/access", named: "@t/access" },

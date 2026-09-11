@@ -1,17 +1,17 @@
 import { afterAll, expect, test } from "bun:test"
+import {
+  askingIn,
+  heldAddonNamesARosterAddon,
+  touches,
+} from "akasha/checks/code-checks/pages/held-addon-names-a-roster-addon/held-addon-names-a-roster-addon.code-check.check.code.ts"
+import { ADDON } from "akasha/checks/code-checks/pages/held-addon-names-a-roster-addon/held-addon-names-a-roster-addon.code-check.decision.code.ts"
+import { filing, shadowed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   noPathsFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { filing, shadowed } from "../../../modules/scratch/check-scratch.module.code.ts"
-import {
-  askingIn,
-  heldAddonNamesARosterAddon,
-  touches,
-} from "./held-addon-names-a-roster-addon.code-check.check.code.ts"
-import { ADDON } from "./held-addon-names-a-roster-addon.code-check.decision.code.ts"
 
 const ADDON_PAGE = "akasha/lib-async.eso-addon.ts"
 

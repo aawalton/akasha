@@ -1,12 +1,12 @@
-import { filePropertiesAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import { everyOfType, everyPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { bodyOf, onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { APP } from "../../../modules/router-app-code/router-app-code.module.code.ts"
 import {
   type Asking,
   refusalsOver,
-} from "./browser-code-reads-the-environment-by-a-name.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.code-check.decision.code.ts"
+import { bodyOf, onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { APP } from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
+import { filePropertiesAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { everyOfType, everyPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const NONE: ReadonlyMap<string, string | null> = new Map()
 

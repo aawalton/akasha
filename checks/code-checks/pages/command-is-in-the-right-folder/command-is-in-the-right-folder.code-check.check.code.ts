@@ -1,10 +1,16 @@
+import {
+  judgingBy,
+  kindsFor,
+} from "akasha/checks/code-checks/pages/command-is-in-the-right-folder/command-is-in-the-right-folder.code-check.decision.code.ts"
+import type {
+  Paged,
+  Selector,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import { input, PAGES } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { namedUnder, pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import type { Paged, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { judgingBy, kindsFor } from "./command-is-in-the-right-folder.code-check.decision.code.ts"
 
 const kindsHeld = new WeakMap<Shadow, ReadonlySet<string>>()
 

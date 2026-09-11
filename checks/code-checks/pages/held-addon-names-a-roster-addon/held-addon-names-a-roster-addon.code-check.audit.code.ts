@@ -1,11 +1,11 @@
 import { dirname } from "node:path"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { bodyOf, onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   type Asking,
   refusalsOver,
-} from "./held-addon-names-a-roster-addon.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/held-addon-names-a-roster-addon/held-addon-names-a-roster-addon.code-check.decision.code.ts"
+import { bodyOf, onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 export function askingAt(root: string): Asking {
   const shadow = shadowAt(root)

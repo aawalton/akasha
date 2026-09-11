@@ -3,7 +3,7 @@ import {
   foundIn,
   runsFromText,
   valueImportsIn,
-} from "./calculation-imports-only-types.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.decision.code.ts"
 
 const AT = "akasha/held.computed-property.code.ts"
 

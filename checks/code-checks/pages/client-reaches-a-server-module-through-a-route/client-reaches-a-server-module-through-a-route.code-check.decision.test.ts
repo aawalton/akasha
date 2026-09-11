@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import {
   type Asking,
   appsIn,
@@ -7,7 +6,8 @@ import {
   reachesIn,
   refusalsOver,
   routesOf,
-} from "./client-reaches-a-server-module-through-a-route.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.code-check.decision.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const PAGE = "hum/hum.router-app.ts"
 

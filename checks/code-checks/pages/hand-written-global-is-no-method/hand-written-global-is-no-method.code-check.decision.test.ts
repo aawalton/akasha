@@ -5,7 +5,7 @@ import {
   methodsIn,
   reasonsIn,
   surfaceIn,
-} from "./hand-written-global-is-no-method.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.code-check.decision.code.ts"
 
 const OBJECTS = `interface AddOnManager {
   GetAddOnInfo: (index?: number) => string

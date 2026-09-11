@@ -1,18 +1,18 @@
 import { afterAll, expect, test } from "bun:test"
 import {
-  listedFiled,
-  pathFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+  askingIn,
+  clientReachesPagesThroughItsHooks,
+} from "akasha/checks/code-checks/pages/client-reaches-pages-through-its-hooks/client-reaches-pages-through-its-hooks.code-check.check.code.ts"
 import {
   change,
   scratch,
   staged,
-} from "../../../modules/check-staging/check-staging.module.code.ts"
+} from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
 import {
-  askingIn,
-  clientReachesPagesThroughItsHooks,
-} from "./client-reaches-pages-through-its-hooks.code-check.check.code.ts"
+  listedFiled,
+  pathFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

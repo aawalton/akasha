@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const clientReachesAServerModuleThroughARoute = {
   id: "01a0826b-f1ac-77a7-8379-299804f515d2",

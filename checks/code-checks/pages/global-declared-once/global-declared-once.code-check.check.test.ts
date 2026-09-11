@@ -1,4 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
+import {
+  globalDeclaredOnce,
+  readingIn,
+} from "akasha/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.check.code.ts"
+import {
+  change,
+  scratch,
+  staged,
+} from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { shadowed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   listedFiled,
@@ -8,14 +19,6 @@ import {
   schemaFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import {
-  change,
-  scratch,
-  staged,
-} from "../../../modules/check-staging/check-staging.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { shadowed } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { globalDeclaredOnce, readingIn } from "./global-declared-once.code-check.check.code.ts"
 import {
   globally,
   indented,

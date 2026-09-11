@@ -1,6 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
+import { emailAddressIsWellFormed } from "akasha/checks/code-checks/pages/email-address-is-well-formed/email-address-is-well-formed.code-check.audit.code.ts"
 import {
   claiming,
   declaring,
@@ -9,8 +8,9 @@ import {
   pathFor,
   put,
   typed,
-} from "../../../modules/scratch/check-scratch.module.code.ts"
-import { emailAddressIsWellFormed } from "./email-address-is-well-formed.code-check.audit.code.ts"
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 
 const ADDRESS = "email-address-property"
 

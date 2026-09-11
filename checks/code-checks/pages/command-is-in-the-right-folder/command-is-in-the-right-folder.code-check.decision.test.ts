@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { PAGES_AT, reasonIn } from "./command-is-in-the-right-folder.code-check.decision.code.ts"
+import {
+  PAGES_AT,
+  reasonIn,
+} from "akasha/checks/code-checks/pages/command-is-in-the-right-folder/command-is-in-the-right-folder.code-check.decision.code.ts"
 
 const ROOT = { folder: PAGES_AT, slug: null }
 

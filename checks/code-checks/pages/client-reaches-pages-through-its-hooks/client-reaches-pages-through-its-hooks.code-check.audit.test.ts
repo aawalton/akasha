@@ -1,13 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  askingAt,
+  clientReachesPagesThroughItsHooks,
+} from "akasha/checks/code-checks/pages/client-reaches-pages-through-its-hooks/client-reaches-pages-through-its-hooks.code-check.audit.code.ts"
+import { scratch, staged } from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
+import {
   listedFiled,
   pathFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { scratch, staged } from "../../../modules/check-staging/check-staging.module.code.ts"
-import {
-  askingAt,
-  clientReachesPagesThroughItsHooks,
-} from "./client-reaches-pages-through-its-hooks.code-check.audit.code.ts"
 
 afterAll(scratch.sweep)
 

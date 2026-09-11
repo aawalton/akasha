@@ -1,9 +1,12 @@
 import {
+  foundIn,
+  runsFromText,
+} from "akasha/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.decision.code.ts"
+import {
   judgingEach,
   overEachText,
   textsBy,
-} from "../../../modules/change-walking/change-walking.module.code.ts"
-import { foundIn, runsFromText } from "./calculation-imports-only-types.code-check.decision.code.ts"
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 
 export const reasonsIn = overEachText(foundIn)
 

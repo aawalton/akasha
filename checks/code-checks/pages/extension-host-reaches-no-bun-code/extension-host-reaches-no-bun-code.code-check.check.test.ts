@@ -1,14 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
-import { bodiesOver } from "../../../modules/check-staging/check-staging.module.code.ts"
-import { extensionHostReachesNoBunCode } from "./extension-host-reaches-no-bun-code.code-check.check.code.ts"
+import { extensionHostReachesNoBunCode } from "akasha/checks/code-checks/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.code-check.check.code.ts"
 import {
   ENTRY,
   NEXT,
   rooted,
   scratch,
   withManifest,
-} from "./extension-host-reaches-no-bun-code.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.code-check.decision.test-fixtures.ts"
+import { bodiesOver } from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
+import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

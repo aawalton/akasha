@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const commandIsInTheRightFolder = {
   id: "01a08d69-0b2e-7025-abd3-c4abe10799be",

@@ -1,4 +1,12 @@
 import { join } from "node:path"
+import { textNamed } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import {
+  APP,
+  folderOf,
+  modulesIn,
+  serverNamed,
+} from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
 import {
   lineOf,
   parsedAs,
@@ -8,14 +16,6 @@ import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { slugFor } from "akasha/pages/types/page-properties/key/page-property-key.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import ts from "typescript"
-import { textNamed } from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import {
-  APP,
-  folderOf,
-  modulesIn,
-  serverNamed,
-} from "../../../modules/router-app-code/router-app-code.module.code.ts"
 
 const TABLE = "route-table"
 

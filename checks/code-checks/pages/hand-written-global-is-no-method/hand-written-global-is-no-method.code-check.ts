@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const handWrittenGlobalIsNoMethod = {
   id: "01a0823c-3bff-7d55-9301-1297ad069ef4",

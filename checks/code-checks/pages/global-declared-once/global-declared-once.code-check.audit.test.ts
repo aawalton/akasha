@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { said as git } from "../../../../git/running/git-running.module.code.ts"
-import { scratch, staged } from "../../../modules/check-staging/check-staging.module.code.ts"
-import { globalDeclaredOnce } from "./global-declared-once.code-check.audit.code.ts"
+import { globalDeclaredOnce } from "akasha/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.audit.code.ts"
+import { scratch, staged } from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
+import { said as git } from "akasha/git/running/git-running.module.code.ts"
 
 afterAll(scratch.sweep)
 

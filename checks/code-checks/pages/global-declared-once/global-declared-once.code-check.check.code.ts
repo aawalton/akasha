@@ -1,16 +1,23 @@
-import { compiled } from "akasha/code-system/code-typing/code-typing.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { FILES, input, textIn } from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   clashesIn,
   DECLARED,
   judgedOf,
   SPELT,
-} from "./global-declared-once.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.decision.code.ts"
+import type {
+  Body,
+  Selector,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import {
+  FILES,
+  input,
+  textIn,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { compiled } from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const AMBIENT = "ambient-types"
 

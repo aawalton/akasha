@@ -1,12 +1,4 @@
 import { dirname } from "node:path"
-import { fileKeysAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import { everyPath, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import {
-  bodyOf,
-  onDisk,
-  textNamed,
-} from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   type Asking,
   DIRECTIVE,
@@ -14,7 +6,15 @@ import {
   PACKAGE,
   reasonsIn,
   sidesIn,
-} from "./client-reaches-pages-through-its-hooks.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/client-reaches-pages-through-its-hooks/client-reaches-pages-through-its-hooks.code-check.decision.code.ts"
+import {
+  bodyOf,
+  onDisk,
+  textNamed,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { fileKeysAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { everyPath, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 export function askingAt(root: string): Asking {
   const disk = onDisk(root)

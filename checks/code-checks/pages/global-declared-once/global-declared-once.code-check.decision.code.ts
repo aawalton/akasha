@@ -1,6 +1,6 @@
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { lineOf, parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import ts from "typescript"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 export const DECLARED = ".d.ts"
 

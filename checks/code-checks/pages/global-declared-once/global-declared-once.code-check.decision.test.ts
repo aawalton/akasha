@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   clashesIn,
   judgedOf,
   keyOf,
   mergedBy,
   statedIn,
-} from "./global-declared-once.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.decision.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
   globally,
   indented,

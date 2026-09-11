@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
+import { reasonsIn } from "akasha/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.check.code.ts"
 import { bodiesAt } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { reasonsIn } from "./calculation-imports-only-types.code-check.check.code.ts"
 
 const ROOT = "/repo"
 

@@ -1,4 +1,11 @@
 import { join } from "node:path"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import {
+  APP,
+  folderOf,
+  modulesIn,
+  serverNamed,
+} from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
 import {
   lineOf,
   parsedAs,
@@ -7,13 +14,6 @@ import {
 import { landingOf } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import ts from "typescript"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import {
-  APP,
-  folderOf,
-  modulesIn,
-  serverNamed,
-} from "../../../modules/router-app-code/router-app-code.module.code.ts"
 
 const TABLE = "route-table"
 

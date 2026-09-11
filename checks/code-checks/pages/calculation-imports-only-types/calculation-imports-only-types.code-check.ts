@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const calculationImportsOnlyTypes = {
   id: "01a07222-b261-7961-a84e-6a8e0c0e5ed3",

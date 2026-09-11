@@ -1,16 +1,19 @@
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import {
+  type Asking,
+  refusalsOver,
+} from "akasha/checks/code-checks/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.code-check.decision.code.ts"
 import {
   input,
   type Selector,
   textIn,
-} from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { APP, insideAnApp } from "../../../modules/router-app-code/router-app-code.module.code.ts"
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
-  type Asking,
-  refusalsOver,
-} from "./client-reaches-a-server-module-through-a-route.code-check.decision.code.ts"
+  APP,
+  insideAnApp,
+} from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
 export function askingIn(change: Change, shadow: Shadow): Asking {
   return {

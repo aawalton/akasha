@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { refusalsOver } from "./extension-host-reaches-no-bun-code.code-check.decision.code.ts"
+import { refusalsOver } from "akasha/checks/code-checks/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.code-check.decision.code.ts"
 import {
   change,
   ENTRY,
@@ -12,7 +12,7 @@ import {
   PACKAGED_BODY,
   pathsRefused,
   refused,
-} from "./extension-host-reaches-no-bun-code.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.code-check.decision.test-fixtures.ts"
 
 const READS_NEXT = 'import { next } from "./next.module.code.ts"\n\nexport const one = next\n'
 
