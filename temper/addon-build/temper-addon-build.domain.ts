@@ -48,14 +48,7 @@ export const temperAddonBuild = {
       invariantKind: "gap",
       statement: "A landing runs the addon typecheck.",
     },
-    {
-      invariantKind: "gap",
-      statement: "Every file an addon's manifest names is in akasha.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A file of bytes reaches akasha through a change.",
-    },
+
     {
       invariantKind: "gap",
       statement:
