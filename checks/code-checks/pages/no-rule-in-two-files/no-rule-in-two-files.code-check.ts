@@ -85,10 +85,7 @@ export const noRuleInTwoFiles = {
       invariantKind: "absence",
       statement: "A body that is only a literal is read as a rule though nothing in it can change.",
     },
-    {
-      invariantKind: "absence",
-      statement: "A writer is never sent to add a module to quiet this check.",
-    },
+
     {
       invariantKind: "absence",
       statement:
