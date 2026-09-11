@@ -5,6 +5,13 @@ export interface PageWithProperties {
   properties: Record<string, unknown>
 }
 
+export function pageById(
+  pages: readonly PageWithProperties[],
+  id: string
+): PageWithProperties | undefined {
+  return pages.find((one) => one._id === id)
+}
+
 export function toPageWithProperties(props: Page): PageWithProperties {
   const id = typeof props.id === "string" ? props.id : ""
   return {

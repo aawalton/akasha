@@ -6,7 +6,10 @@ import {
   buildRelationBackLinkHref,
   readRelationConfig,
 } from "akasha/pages/ui/components/view-tab-content-href/view-tab-content-href.module.code.ts"
-import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+import {
+  type PageWithProperties,
+  pageById,
+} from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
 import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback } from "react"
@@ -50,8 +53,7 @@ export function usePagesFilteredHrefs(args: {
 
   const pageHrefById = useCallback(
     (id: string, opts?: { targetPageTypeId?: string }): string => {
-      const findIn = (xs: readonly PageWithProperties[]) => xs.find((p) => p._id === id)
-      const match = findIn(allPages) ?? findIn(relatedPages)
+      const match = pageById(allPages, id) ?? pageById(relatedPages, id)
       const props = match?.properties
       const matchedPageTypeId = typeof props?.pageTypeId === "string" ? props.pageTypeId : undefined
       const resolvedPageTypeId = matchedPageTypeId ?? opts?.targetPageTypeId

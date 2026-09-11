@@ -27,7 +27,10 @@ import { selectViewQueryResult } from "akasha/pages/ui/components/view-tab-conte
 import { useGroupByPaginatedQuery } from "akasha/pages/ui/supabase/group-by-hooks/group-by-hooks.module.code.ts"
 import { useRelatedPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
 import { usePageViewQuery } from "akasha/pages/ui/supabase/hooks-view-query/hooks-view-query.module.code.ts"
-import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+import {
+  type PageWithProperties,
+  pageById,
+} from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
 import { useOptionListLookup } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { viewDataOfPage } from "akasha/pages/ui/supabase/view-data-of-page/view-data-of-page.module.code.ts"
 import { deriveViewTargetSlugs } from "akasha/pages/ui-store/query/view-target-slugs/view-target-slugs.module.code.ts"
@@ -273,8 +276,7 @@ export function useViewTabContentData({
 
   const pageHrefById = useCallback(
     (id: string, opts?: { targetPageTypeId?: string }): string => {
-      const findIn = (xs: readonly PageWithProperties[]) => xs.find((p) => p._id === id)
-      const match = findIn(allPages) ?? findIn(relatedPages)
+      const match = pageById(allPages, id) ?? pageById(relatedPages, id)
       const props = match?.properties
       const matchedPageTypeId = typeof props?.pageTypeId === "string" ? props.pageTypeId : undefined
       const resolvedPageTypeId = matchedPageTypeId ?? opts?.targetPageTypeId
