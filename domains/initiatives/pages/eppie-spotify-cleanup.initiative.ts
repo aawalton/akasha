@@ -19,11 +19,6 @@ export const eppieSpotifyCleanup = {
         "`spotify-pkce-store` writes a verifier and a state, and its shape refuses a handoff carrying anything else. The exchange step in `spotify-auth-cli` reads `handoff.verifier` alone. A grep over `alan/music/spotify` finds `state` read back nowhere. It is sent to Spotify in the authorize URL, but Alan hand-copies only the code off the callback page, so nothing ever compares the state that comes back. Either the exchange checks it or the store stops keeping it.",
     },
     {
-      statement: "Every module under the spotify domain has a test.",
-      workingMemory:
-        'Ten of the thirteen state `test: "ts"`. Three state none: `spotify-credentials`, which reads the three secrets out of the environment and throws on a missing one; `spotify-scopes`, which joins the scope list into one space-parted line; and `spotify-tracks`, which reads one track by its id and names its artists. None of the three can be proved without reaching Spotify unless the call goes through `spotify-fetching`, which a test swaps out.',
-    },
-    {
       statement: "A Spotify call asks the environment only for the secrets that call uses.",
       workingMemory:
         "`basicAuthHeader` takes the client id and secret out of `getCredentials()`, which `requireEnv`s `SPOTIFY_REDIRECT_URI` beside them and throws where it is unset. `forceRefresh` reaches it, so a refresh demands a redirect URI it never sends. `alanwalton-web` and `alanwalton-atlas` mount only the client id and secret, and no `alanwalton-secrets-spotify-redirect-uri` page exists. The only such page is `collections-secrets-spotify-redirect-uri`, mounted by nothing.\n",
