@@ -1,14 +1,14 @@
 import { existsSync, type FSWatcher, watch } from "node:fs"
 import { basename, dirname, join } from "node:path"
-import * as vscode from "vscode"
-import { newestWins } from "../newest-wins/newest-wins.module.code.ts"
-import { renderEntries } from "../transcript-drawing/transcript-drawing.module.code.ts"
-import type { Entry } from "../transcript-model/transcript-model.module.code.ts"
+import { newestWins } from "akasha/code-system/editor/extension/newest-wins/newest-wins.module.code.ts"
+import { renderEntries } from "akasha/code-system/editor/extension/transcript-drawing/transcript-drawing.module.code.ts"
+import type { Entry } from "akasha/code-system/editor/extension/transcript-model/transcript-model.module.code.ts"
 import {
   createTranscriptReader,
   type TranscriptRead,
-} from "../transcript-reading/transcript-reading.module.code.ts"
-import { seatTranscriptOf } from "../transcript-sources/transcript-sources.module.code.ts"
+} from "akasha/code-system/editor/extension/transcript-reading/transcript-reading.module.code.ts"
+import { seatTranscriptOf } from "akasha/code-system/editor/extension/transcript-sources/transcript-sources.module.code.ts"
+import * as vscode from "vscode"
 
 export interface TranscriptTarget {
   readonly agentId?: string
