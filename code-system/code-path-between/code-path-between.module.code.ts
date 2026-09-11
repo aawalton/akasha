@@ -12,7 +12,7 @@ function pathOf(href: string): string | null {
   return target
 }
 
-export function dirOf(absolute: string): string {
+export function folderOf(absolute: string): string {
   const cut = absolute.lastIndexOf("/")
   return cut === -1 ? "" : absolute.slice(0, cut)
 }
@@ -31,5 +31,5 @@ export function resolves(href: string, hostBefore: string): string | null {
   if (target === null) return null
   return target.startsWith("/")
     ? normalizeAbsolute(target)
-    : normalizeAbsolute(`${dirOf(hostBefore)}/${target}`)
+    : normalizeAbsolute(`${folderOf(hostBefore)}/${target}`)
 }

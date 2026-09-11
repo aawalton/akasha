@@ -1,5 +1,5 @@
 import {
-  dirOf,
+  folderOf,
   relativeBetween,
 } from "akasha/code-system/code-path-between/code-path-between.module.code.ts"
 import {
@@ -116,8 +116,8 @@ export function runtimePatches(
     const name = match[1]
     if (name !== undefined) bases.add(name)
   }
-  const beneath = dirOf(hostBefore)
-  const lands = dirOf(hostAfter)
+  const beneath = folderOf(hostBefore)
+  const lands = folderOf(hostAfter)
   const patches: Patch[] = []
   const dark: { readonly span: Span; readonly prefix: string }[] = []
   let read = 0
@@ -236,7 +236,7 @@ export function runtimePatches(
     }
   }
 
-  const holding = new Set([...moved.keys()].map((one) => dirOf(one)))
+  const holding = new Set([...moved.keys()].map((one) => folderOf(one)))
   const bites = (prefix: string): boolean => beneath !== lands || holding.has(prefix)
   return {
     patches,

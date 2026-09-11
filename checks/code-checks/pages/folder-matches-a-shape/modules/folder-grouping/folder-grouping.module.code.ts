@@ -1,10 +1,6 @@
+import { folderOf } from "akasha/code-system/code-path-between/code-path-between.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
-
-export function folderOf(path: string): string {
-  const cut = path.lastIndexOf("/")
-  return cut === -1 ? "" : path.slice(0, cut)
-}
 
 export function ancestorsOf(path: string): readonly string[] {
   const found: string[] = []

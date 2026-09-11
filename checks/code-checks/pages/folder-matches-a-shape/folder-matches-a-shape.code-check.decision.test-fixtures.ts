@@ -7,11 +7,11 @@ import { HOLDS as HELD_BY_PROPERTY_PAGES_ONLY } from "akasha/checks/code-checks/
 import { HOLDS as HELD_BY_SCRIPTS_ONLY } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/scripts-only/scripts-only.folder-shape.code.ts"
 import { HOLDS as HELD_BY_SECTIONS_OF_THE_BOOK_ABOVE } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts"
 import {
-  folderOf,
   type Grouped,
   segmentingOver,
 } from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
 import type { Holds } from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/folder-naming/folder-naming.module.code.ts"
+import { folderOf } from "akasha/code-system/code-path-between/code-path-between.module.code.ts"
 import { heldIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 
 export function holding(named: Readonly<Record<string, readonly string[]>>): Holds {

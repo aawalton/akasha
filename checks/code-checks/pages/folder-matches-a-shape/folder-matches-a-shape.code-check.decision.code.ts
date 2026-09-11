@@ -4,7 +4,6 @@ import type {
   Standing,
 } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
 import {
-  folderOf,
   type Grouped,
   segmentingOver,
 } from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
@@ -22,6 +21,7 @@ import {
   shapesIn,
 } from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { folderOf } from "akasha/code-system/code-path-between/code-path-between.module.code.ts"
 import type { Naming } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import { type Held, heldIn, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"

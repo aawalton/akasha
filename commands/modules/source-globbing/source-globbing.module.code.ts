@@ -1,5 +1,6 @@
 import type { Replacing } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
+import { folderOf } from "akasha/code-system/code-path-between/code-path-between.module.code.ts"
 import type { Naming } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
@@ -50,11 +51,6 @@ function everyIn(change: Change): readonly string[] {
     else held.add(path)
   }
   return [...held].sort()
-}
-
-export function folderOf(path: string): string {
-  const at = path.lastIndexOf("/")
-  return at === -1 ? "" : path.slice(0, at)
 }
 
 function typedName(path: string): boolean {
