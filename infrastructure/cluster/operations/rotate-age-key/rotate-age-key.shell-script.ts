@@ -8,4 +8,5 @@ export const rotateAgeKey = {
   definition: "a new age keypair minted and every SOPS file re-keyed onto it",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
