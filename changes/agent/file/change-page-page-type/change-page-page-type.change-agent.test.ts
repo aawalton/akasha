@@ -128,7 +128,7 @@ test("the page type a page states is restated in the body", async () => {
 
   expect(body).toContain(`pageTypeSlug: "spare"`)
   expect(body).toContain("satisfies Spare")
-  expect(body).toContain(`from "../spare.page-type.ts"`)
+  expect(body).toContain(`from "akasha/${SPARE_TYPE}"`)
 })
 
 test("a moved body naming another moved path is repointed in the same answer", async () => {
