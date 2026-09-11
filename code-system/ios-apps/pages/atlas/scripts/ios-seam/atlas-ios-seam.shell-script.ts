@@ -6,7 +6,7 @@ export const atlasIosSeam = {
   type: "shell-script",
   slug: "atlas-ios-seam",
   definition: "the native layer written into Atlas's generated Xcode project",
-  scripting: {},
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
