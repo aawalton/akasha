@@ -58,7 +58,7 @@ export const watcherPageLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "The import a page body opens with is derived from the page type slug.",
+      statement: "The import a page body opens with names the page type file from the root.",
     },
     {
       invariantKind: "departure",

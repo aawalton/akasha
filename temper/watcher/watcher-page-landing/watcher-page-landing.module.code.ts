@@ -143,8 +143,9 @@ export function typeNameFor(pageTypeSlug: string): string {
   return named.charAt(0).toUpperCase() + named.slice(1)
 }
 
-export function pageTypeImportFor(pageTypeSlug: string): string {
-  return `../../${pageTypeSlug}.page-type.types.ts`
+export function pageTypeImportFor(folder: string, pageTypeSlug: string): string {
+  const above = folder.split("/").slice(0, -1).join("/")
+  return `akasha/${above}/${pageTypeSlug}.page-type.types.ts`
 }
 
 export function closingFor(pageTypeSlug: string): string {
@@ -154,13 +155,15 @@ export function closingFor(pageTypeSlug: string): string {
 export type PageKey = readonly [string, string | number | boolean]
 
 export function pageBodyFor(
+  folder: string,
   pageTypeSlug: string,
   slug: string,
   id: string,
   keys: readonly PageKey[]
 ): string {
+  const typed = typeNameFor(pageTypeSlug)
   const lines = [
-    `import type { ${typeNameFor(pageTypeSlug)} } from "${pageTypeImportFor(pageTypeSlug)}"`,
+    `import type { ${typed} } from "${pageTypeImportFor(folder, pageTypeSlug)}"`,
     "",
     `export const ${exportNameFor(slug)} = {`,
     `  id: ${JSON.stringify(id)},`,

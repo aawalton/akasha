@@ -23,6 +23,9 @@ const PAGE_PATH = `temper/holdings-sets/temper-net-worth-hours/pages/${HOUR_SLUG
 
 const LINES_PATH = `temper/holdings-sets/temper-net-worth-hours/pages/${HOUR_SLUG}/${HOUR_SLUG}.temper-net-worth-hour.snapshots.jsonl`
 
+const TYPES_AT =
+  "temper/holdings-sets/temper-net-worth-hours/temper-net-worth-hour.page-type.types.ts"
+
 const FIRST = {
   id: "01a06009-45d7-758a-9196-9597c258a996",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
@@ -154,10 +157,10 @@ test("an hour takes another account's reading at the same instant", () => {
   )
 })
 
-test("an hour page is the body that landed for that hour", () => {
+test("an hour page is the body that lands for that hour", () => {
   expect(netWorthHourBody(FIRST_AT, "01a06009-4775-7004-82c8-ee74889a2ada")).toBe(
     [
-      'import type { TemperNetWorthHour } from "../../temper-net-worth-hour.page-type.types.ts"',
+      `import type { TemperNetWorthHour } from "akasha/${TYPES_AT}"`,
       "",
       "export const hour2026042914 = {",
       '  id: "01a06009-4775-7004-82c8-ee74889a2ada",',

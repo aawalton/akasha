@@ -64,7 +64,7 @@ export function netWorthHourLinesPath(slug: string): string {
 }
 
 export function netWorthHourBody(capturedAt: string, id: string): string {
-  return pageBodyFor(NET_WORTH_HOUR_PAGE_TYPE_SLUG, netWorthHourSlug(capturedAt), id, [
+  return pageBodyFor(FOLDER, NET_WORTH_HOUR_PAGE_TYPE_SLUG, netWorthHourSlug(capturedAt), id, [
     ["title", netWorthHourTitle(capturedAt)],
     [ROWS_PROPERTY, "jsonl"],
   ])
