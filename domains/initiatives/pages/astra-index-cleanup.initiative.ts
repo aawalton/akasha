@@ -8,8 +8,6 @@ export const astraIndexCleanup = {
   domain: "domain/index",
   persona: "astra",
   intents: [
-    { statement: "The identity index is filed under `.git/indexes`." },
-    { statement: "The relation index is filed under `.git/indexes`." },
     { statement: "Alan holds the schema index's structure correct." },
     { statement: "Alan holds the declaring index's structure correct." },
     { statement: "Alan holds the value index's structure correct." },
@@ -25,7 +23,7 @@ export const astraIndexCleanup = {
     {
       statement: "`.git/data` is gone.",
       workingMemory:
-        "Holds `index`, `reads` and `sops`. `reads/agent` is a dead layout of 487k files, replaced by `reads/path` in b88f7238d4d, and nothing writes or sweeps it.",
+        "Holds `index`, `reads` and `sops`. `index` is a stale copy nothing writes or reads since 234f8ddeac03; taking it away waits on the pty proxies and gateways started before that, which read it and throw where it is absent. `reads/agent` is a dead layout of 487k files, replaced by `reads/path` in b88f7238d4d, and nothing writes or sweeps it.",
     },
     { statement: "`.git/akasha-restored` is gone." },
     { statement: "`.git/answers` is gone." },
