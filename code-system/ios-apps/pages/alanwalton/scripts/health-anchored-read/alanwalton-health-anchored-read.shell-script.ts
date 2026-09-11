@@ -5,7 +5,8 @@ export const alanwaltonHealthAnchoredRead = {
   pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "alanwalton-health-anchored-read",
-  definition: "the Swift running one anchored query page and returning its samples and anchor",
+  definition:
+    "the Swift running one anchored query page and returning its samples, anchor and error",
   shell: "sh",
   sourced: true,
   invariants: [
