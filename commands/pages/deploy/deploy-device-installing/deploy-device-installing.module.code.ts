@@ -14,7 +14,6 @@ import { MACBOOK } from "akasha/alan/harness/mobile-cli/macbook-target/macbook-t
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import {
   iosAppDir,
-  nativeShellDir,
   resolveApp,
 } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { runSshCapture } from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
@@ -59,7 +58,7 @@ export function scriptOf(app: MobileApp, device: string): string {
     buildRunCheckout(MAIN),
     buildNativeSync({
       app,
-      nativeShellDir: nativeShellDir(app, CHECKOUT_ROOT),
+      root: CHECKOUT_ROOT,
       nativeShellAps: readNativeShellApsEnv() ?? OFF,
       nativeShellHealthkit: readNativeShellHealthkitEnv() ?? OFF,
     }),

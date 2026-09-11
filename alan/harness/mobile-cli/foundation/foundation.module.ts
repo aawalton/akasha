@@ -15,8 +15,7 @@ export const foundation = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An install inside a native shell reaches the manifest at the root of the tree above.",
+      statement: "An install for a native shell runs at the root of the tree above that shell.",
     },
     {
       invariantKind: "departure",
@@ -87,6 +86,11 @@ export const foundation = {
       invariantKind: "departure",
       statement:
         "Taking the mac checkout away falls back to `rm -rf` where `git worktree remove --force` cannot.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The script making an app's native sources is run by name rather than through a manifest.",
     },
   ],
 } as const satisfies Module

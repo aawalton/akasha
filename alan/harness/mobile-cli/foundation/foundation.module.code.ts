@@ -5,7 +5,9 @@ import {
 } from "akasha/alan/harness/mobile-cli/ios-program-components/ios-program-components.module.code.ts"
 import {
   type MobileApp,
+  nativeShellDir,
   ringCredentialScriptFor,
+  splitRepoPath,
 } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
 import { z } from "zod"
@@ -148,7 +150,7 @@ export function buildRunCheckout(commit: string): string {
 
 export function buildNativeSync(opts: {
   readonly app: MobileApp
-  readonly nativeShellDir: string
+  readonly root: string
   readonly nativeShellWidget?: string
   readonly nativeShellAps?: string
   readonly nativeShellHealthkit?: string
@@ -181,9 +183,16 @@ export function buildNativeSync(opts: {
     opts?.stagedWwwDir !== undefined && opts.stagedWwwDir !== ""
       ? [`rm -rf www`, `mkdir -p www`, `cp -R ${opts.stagedWwwDir}/. www/`]
       : []
+  const syncing = opts.app.syncScript
+  if (syncing === null) {
+    throw new InputError(
+      `${opts.app.slug} states no \`sync-script\`, so its page names nothing making its native sources`
+    )
+  }
   return [
-    `cd ${opts.nativeShellDir}`,
+    `cd ${opts.root}`,
     "bun install",
+    `cd ${nativeShellDir(opts.app, opts.root)}`,
     ...injectWww,
     ...appValueExports(opts.app),
     ...widgetExport,
@@ -191,7 +200,7 @@ export function buildNativeSync(opts: {
     ...healthkitExport,
     ...ringCredentialExport,
     ...kokoroExport,
-    "bun run ios:add",
+    `bash ${opts.root}/${splitRepoPath(syncing).path} add`,
   ].join("\n")
 }
 

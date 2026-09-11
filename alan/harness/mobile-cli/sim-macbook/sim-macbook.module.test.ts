@@ -19,6 +19,7 @@ const APP: MobileApp = {
   developmentTeam: "TEAM123456",
   nativeShellRepoPath: "packages/example/native-shell",
   simBuildScript: null,
+  syncScript: null,
   wwwStageScript: null,
   spaSourceRepoPath: null,
   webEnvSegments: null,

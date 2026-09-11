@@ -17,6 +17,7 @@ const APP: MobileApp = {
   developmentTeam: "TEAM123456",
   nativeShellRepoPath: "akasha:native-shell/example",
   simBuildScript: null,
+  syncScript: null,
   wwwStageScript: null,
   spaSourceRepoPath: null,
   webEnvSegments: null,

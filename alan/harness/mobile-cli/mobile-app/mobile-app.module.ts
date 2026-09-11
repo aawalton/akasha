@@ -57,5 +57,10 @@ export const mobileApp = {
       invariantKind: "absence",
       statement: "No file name ending is spelled here to find a script.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "An app carries the file making its native sources as well as the file building it.",
+    },
   ],
 } as const satisfies Module

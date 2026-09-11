@@ -28,7 +28,6 @@ import {
   iosAppDir,
   type MobileApp,
   macWwwStagingDir,
-  nativeShellDir,
 } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 
 export function buildTestflightDeployScript(opts: {
@@ -85,7 +84,7 @@ export function buildTestflightDeployScript(opts: {
     sections.push(
       buildNativeSync({
         app: opts.app,
-        nativeShellDir: nativeShellDir(opts.app, CHECKOUT_ROOT),
+        root: CHECKOUT_ROOT,
         nativeShellWidget: opts.nativeShellWidget,
         nativeShellAps: opts.nativeShellAps,
         nativeShellHealthkit: opts.nativeShellHealthkit,
