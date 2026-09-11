@@ -1,3 +1,5 @@
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
+
 export interface HarnessRow {
   readonly id: string
   readonly name: string | null
@@ -71,11 +73,6 @@ export function parseForestRows(answer: unknown): readonly HarnessRow[] {
   })
 }
 
-function textIn(held: Record<string, unknown>, key: string): string | null {
-  const value = held[key]
-  return typeof value === "string" && value !== "" ? value : null
-}
-
 export function parseSubagentPages(answer: unknown): readonly SubagentPage[] {
   if (answer === null || typeof answer !== "object") {
     return []
@@ -90,9 +87,9 @@ export function parseSubagentPages(answer: unknown): readonly SubagentPage[] {
       continue
     }
     const one = raw as Record<string, unknown>
-    const seat = textIn(one, "seat")
-    const own = textIn(one, "own")
-    const at = textIn(one, "at")
+    const seat = textAt(one, "seat")
+    const own = textAt(one, "own")
+    const at = textAt(one, "at")
     if (seat === null || own === null || at === null) {
       continue
     }
@@ -104,7 +101,7 @@ export function parseSubagentPages(answer: unknown): readonly SubagentPage[] {
 export function parseForest(answer: unknown): ForestAnswer {
   const rows = parseForestRows(answer)
   const held = answer as Record<string, unknown>
-  const repo = textIn(held, "repo")
+  const repo = textAt(held, "repo")
   return {
     repo,
     rows,
