@@ -4,6 +4,11 @@ import {
   costStoplights,
 } from "akasha/alan/harness/cost/stoplight/cost-stoplight.module.code.ts"
 import type { Stoplight } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
+import {
+  type AskedOf,
+  agedOut,
+  rowsAsked,
+} from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.test-fixtures.ts"
 import { dropRelayed } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
 import { relayedFor } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
@@ -44,21 +49,6 @@ const ANSWERED: {
   scales: readonly Record<string, unknown>[]
 } = { readouts: [COST_ROW, SURPLUS_ROW], scales: [SCALE_ROW] }
 
-type Asked = {
-  pageTypeSlug: string
-  where?: { slug?: { is?: string }; groups?: { has?: string } }
-}
-
-function readoutsAsked(where: Asked["where"]): readonly Record<string, unknown>[] {
-  const named = where?.slug?.is
-  if (named !== undefined) return ANSWERED.readouts.filter((row) => row.slug === named)
-  const grouped = where?.groups?.has
-  if (grouped === undefined) return ANSWERED.readouts
-  return ANSWERED.readouts.filter(
-    (row) => Array.isArray(row.groups) && (row.groups as readonly string[]).includes(grouped)
-  )
-}
-
 let store: ReturnType<typeof Bun.serve>
 let heldOrigin: string | undefined
 
@@ -66,9 +56,9 @@ beforeAll(() => {
   store = Bun.serve({
     port: 0,
     fetch: async (request) => {
-      const asked = (await request.json()) as Asked
+      const asked = (await request.json()) as AskedOf
       if (asked.pageTypeSlug === "readout") {
-        return Response.json({ rows: readoutsAsked(asked.where) })
+        return Response.json({ rows: rowsAsked(ANSWERED.readouts, asked.where) })
       }
       if (asked.pageTypeSlug === "readout-scale") return Response.json({ rows: ANSWERED.scales })
       return Response.json({ rows: [] })
@@ -89,8 +79,6 @@ beforeEach(() => {
   ANSWERED.readouts = [COST_ROW, SURPLUS_ROW]
   ANSWERED.scales = [SCALE_ROW]
 })
-
-const agedOut = () => new Date(Date.now() - 46 * 60_000)
 
 const drawn = () => answerCostAdmittedBy(new Request("http://a.test/"), () => null)
 

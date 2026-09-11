@@ -1,11 +1,19 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import { answerStoplightsAdmittedBy } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
 import {
+  colorIn,
+  type Tile,
+  tileAt,
+} from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.test-fixtures.ts"
+import {
   dropRelayed,
   RELAY_PATH,
-  relayReading,
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
-import { carryTo } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
+import {
+  carryTo,
+  type RelayingOne,
+  relayingOneTo,
+} from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
 import { action } from "akasha/alan/web/routes/readout-relay/readout-relay.route.code.ts"
 import { z } from "zod"
 
@@ -14,6 +22,7 @@ globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Re
 const RELAY_SECRET = crypto.randomUUID()
 const READOUT = "upkeep-safety"
 const GROUP = "safety"
+const PATH = "/api/safety-level"
 
 process.env.READING_RELAY_SECRET = RELAY_SECRET
 
@@ -39,6 +48,9 @@ let store: ReturnType<typeof Bun.serve>
 let server: ReturnType<typeof Bun.serve>
 let origin: string
 let heldOrigin: string | undefined
+let tile: Tile
+let carryNow: RelayingOne
+let drawn: Tile["drawn"]
 
 beforeAll(() => {
   store = Bun.serve({
@@ -56,13 +68,16 @@ beforeAll(() => {
     fetch(request) {
       const { pathname } = new URL(request.url)
       if (pathname === RELAY_PATH) return action({ request } as never)
-      if (pathname === "/api/safety-level") {
+      if (pathname === PATH) {
         return answerStoplightsAdmittedBy(request, () => null, GROUP)
       }
       return new Response("no such route", { status: 404 })
     },
   })
   origin = `http://localhost:${server.port}`
+  tile = tileAt(origin, PATH, GROUP)
+  carryNow = relayingOneTo(origin, RELAY_SECRET, READOUT)
+  drawn = tile.drawn
 })
 
 afterAll(() => {
@@ -76,28 +91,6 @@ beforeEach(() => {
   dropRelayed()
   ANSWERED.readouts = [READOUT_ROW]
 })
-
-type Stoplight = {
-  habit?: string
-  label?: string
-  tier: string
-  reading?: string
-  readingHeld?: string
-  nextTier?: string
-  progress?: number
-}
-
-const tile = () => fetch(`${origin}/api/safety-level`)
-
-const carryNow = (value: number, at: Date = new Date()) =>
-  relayReading(origin, RELAY_SECRET, { readout: READOUT, value, at: at.toISOString() })
-
-async function drawn(): Promise<readonly Stoplight[]> {
-  const answered = await tile()
-  expect(answered.status).toBe(200)
-  const body = (await answered.json()) as { stoplights: readonly Stoplight[] }
-  return body.stoplights
-}
 
 test("a carrier holding no relay secret is refused", async () => {
   const bare = await fetch(`${origin}${RELAY_PATH}`, {
@@ -143,8 +136,8 @@ test("every stoplight carries a tier that is one of the six colors the phone dec
     dropRelayed()
     await carryNow(level)
     for (const one of await drawn()) {
-      expect(TIERS).toContain(one.tier)
-      if (one.nextTier !== undefined) expect(TIERS).toContain(one.nextTier)
+      expect(TIERS).toContain(colorIn(one, "tier"))
+      if (one.nextTier !== undefined) expect(TIERS).toContain(colorIn(one, "nextTier"))
     }
   }
 })
@@ -155,7 +148,7 @@ test("the color is resolved here rather than sent as rungs for the phone to work
   expect(one?.tier).toBe("yellow")
   expect(one?.nextTier).toBe("green")
   expect(one?.progress).toBe(0.5)
-  expect((one as Record<string, unknown>).scale).toBeUndefined()
+  expect(one?.scale).toBeUndefined()
 })
 
 test("the label and the key are read off the readout's page rather than named in the route", async () => {
@@ -218,7 +211,7 @@ test("a reading never taken and one taken long ago are told apart on the wire", 
 
 test("nothing between here and the tile is allowed to keep an answer", async () => {
   await carryNow(3)
-  expect((await tile()).headers.get("Cache-Control")).toBe("no-store")
+  expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
   dropRelayed()
-  expect((await tile()).headers.get("Cache-Control")).toBe("no-store")
+  expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
 })

@@ -10,8 +10,11 @@ import {
 import {
   dropRelayed,
   RELAY_PATH,
-  relayReading,
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+import {
+  type Relaying,
+  relayingTo,
+} from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
 import { action } from "akasha/alan/web/routes/readout-relay/readout-relay.route.code.ts"
 import { z } from "zod"
 
@@ -90,6 +93,7 @@ let server: ReturnType<typeof Bun.serve>
 let origin: string
 let heldOrigin: string | undefined
 let tile: Tile
+let carryNow: Relaying
 
 beforeAll(() => {
   store = Bun.serve({
@@ -120,6 +124,7 @@ beforeAll(() => {
   })
   origin = `http://localhost:${server.port}`
   tile = tileAt(origin, PATH, "inbox")
+  carryNow = relayingTo(origin, RELAY_SECRET)
 })
 
 afterAll(() => {
@@ -133,9 +138,6 @@ beforeEach(() => {
   dropRelayed()
   ANSWERED.readouts = READOUT_ROWS
 })
-
-const carryNow = (readout: string, value: number, at: Date = new Date()) =>
-  relayReading(origin, RELAY_SECRET, { readout, value, at: at.toISOString() })
 
 async function carryAll(at: Date = new Date()): Promise<void> {
   for (const [readout, value] of CARRIED) await carryNow(readout, value, at)

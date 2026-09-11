@@ -1,10 +1,18 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import {
+  colorIn,
+  type Tile,
+  tileAt,
+} from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.test-fixtures.ts"
+import {
   dropRelayed,
   RELAY_PATH,
-  relayReading,
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
-import { carryTo } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
+import {
+  carryTo,
+  type RelayingOne,
+  relayingOneTo,
+} from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
 import { action } from "akasha/smilingjenny/web/routes/jenny-readout-relay/jenny-readout-relay.route.code.ts"
 import { loader } from "akasha/smilingjenny/web/routes/jenny-safety-level/jenny-safety-level.route.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
@@ -13,6 +21,7 @@ const RING_CREDENTIAL = crypto.randomUUID()
 const RELAY_SECRET = crypto.randomUUID()
 const READOUT = "upkeep-safety"
 const GROUP = "safety"
+const PATH = "/api/safety-level"
 
 process.env.SMILINGJENNY_RING_CREDENTIAL = RING_CREDENTIAL
 process.env.READING_RELAY_SECRET = RELAY_SECRET
@@ -37,6 +46,10 @@ let store: ReturnType<typeof Bun.serve>
 let server: ReturnType<typeof Bun.serve>
 let origin: string
 let heldOrigin: string | undefined
+let tile: Tile
+let carryNow: RelayingOne
+let askedWith: Tile["askedWith"]
+let drawn: Tile["drawn"]
 
 beforeAll(() => {
   store = Bun.serve({
@@ -54,11 +67,15 @@ beforeAll(() => {
     fetch(request) {
       const { pathname } = new URL(request.url)
       if (pathname === RELAY_PATH) return action({ request } as never)
-      if (pathname === "/api/safety-level") return loader({ request } as never)
+      if (pathname === PATH) return loader({ request } as never)
       return new Response("no such route", { status: 404 })
     },
   })
   origin = `http://localhost:${server.port}`
+  tile = tileAt(origin, PATH, GROUP, RING_CREDENTIAL)
+  carryNow = relayingOneTo(origin, RELAY_SECRET, READOUT)
+  askedWith = tile.askedWith
+  drawn = tile.drawn
 })
 
 afterAll(() => {
@@ -73,35 +90,10 @@ beforeEach(() => {
   ANSWERED.readouts = [READOUT_ROW]
 })
 
-type Stoplight = {
-  habit?: string
-  label?: string
-  tier: string
-  reading?: string
-  readingHeld?: string
-  nextTier?: string
-  progress?: number
-}
-
-const tile = (credential: string | null = RING_CREDENTIAL) =>
-  fetch(`${origin}/api/safety-level`, {
-    headers: credential === null ? {} : { "X-Ring-Credential": credential },
-  })
-
-const carryNow = (value: number, at: Date = new Date()) =>
-  relayReading(origin, RELAY_SECRET, { readout: READOUT, value, at: at.toISOString() })
-
-async function drawn(): Promise<readonly Stoplight[]> {
-  const answered = await tile()
-  expect(answered.status).toBe(200)
-  const body = (await answered.json()) as { stoplights: readonly Stoplight[] }
-  return body.stoplights
-}
-
 test("a caller holding no ring credential is refused", async () => {
   await carryNow(3)
-  expect((await tile(null)).status).toBe(401)
-  expect((await tile(crypto.randomUUID())).status).toBe(401)
+  expect((await askedWith(null)).status).toBe(401)
+  expect((await askedWith(crypto.randomUUID())).status).toBe(401)
 })
 
 test("a carrier holding no relay secret is refused", async () => {
@@ -147,8 +139,8 @@ test("every stoplight carries a tier that is one of the six colors the phone dec
     dropRelayed()
     await carryNow(level)
     for (const one of await drawn()) {
-      expect(TIERS).toContain(one.tier)
-      if (one.nextTier !== undefined) expect(TIERS).toContain(one.nextTier)
+      expect(TIERS).toContain(colorIn(one, "tier"))
+      if (one.nextTier !== undefined) expect(TIERS).toContain(colorIn(one, "nextTier"))
     }
   }
 })
@@ -159,7 +151,7 @@ test("the color is resolved here rather than sent as rungs for the phone to work
   expect(one?.tier).toBe("yellow")
   expect(one?.nextTier).toBe("green")
   expect(one?.progress).toBe(0.5)
-  expect((one as Record<string, unknown>).scale).toBeUndefined()
+  expect(one?.scale).toBeUndefined()
 })
 
 test("the label and the key are read off the readout's page rather than named in the route", async () => {
@@ -222,7 +214,7 @@ test("a reading never taken and one taken long ago are told apart on the wire", 
 
 test("nothing between here and the tile is allowed to keep an answer", async () => {
   await carryNow(3)
-  expect((await tile()).headers.get("Cache-Control")).toBe("no-store")
+  expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
   dropRelayed()
-  expect((await tile()).headers.get("Cache-Control")).toBe("no-store")
+  expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
 })
