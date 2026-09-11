@@ -2,16 +2,16 @@ import {
   base64urlToBytes,
   bytesToBase64url,
 } from "akasha/temper/build-hash/build-hash-base64url/build-hash-base64url.module.code.ts"
-import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
-import { registerCompanionDecoder } from "akasha/temper/companions-core/reference-build-data/reference-build-data.module.code.ts"
-import type { BuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import { buildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import {
   COMPANION_BUILD_TYPE,
   decodeV49,
   ESO_VERSION_49,
   encodeV49,
-} from "../companion-codec-v49/companion-codec-v49.module.code.ts"
+} from "akasha/temper/companion-codec/companion-codec-v49/companion-codec-v49.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
+import { registerCompanionDecoder } from "akasha/temper/companions-core/reference-build-data/reference-build-data.module.code.ts"
+import type { BuildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { buildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 
 export const ESO_VERSION_48 = 48
 

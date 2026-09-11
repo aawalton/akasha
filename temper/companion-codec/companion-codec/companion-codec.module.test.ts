@@ -3,6 +3,23 @@ import {
   base64urlToBytes,
   bytesToBase64url,
 } from "akasha/temper/build-hash/build-hash-base64url/build-hash-base64url.module.code.ts"
+import {
+  decodeCompanion,
+  ESO_VERSION_48,
+  encodeCompanion,
+} from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
+import {
+  getCompanionArmorWeightId,
+  getCompanionId,
+  getCompanionQualityId,
+  getCompanionSkillId,
+  getCompanionTraitId,
+  getCompanionWeaponTypeId,
+} from "akasha/temper/companion-codec/companion-codec-indices/companion-codec-indices.module.code.ts"
+import {
+  ESO_VERSION_49,
+  encodeV49,
+} from "akasha/temper/companion-codec/companion-codec-v49/companion-codec-v49.module.code.ts"
 import type { CompanionArmorSlotId } from "akasha/temper/companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
 import type { CompanionJewelrySlotId } from "akasha/temper/companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import type {
@@ -12,20 +29,10 @@ import type {
   CompanionWeaponSlotItem,
 } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import type { CompanionWeaponSlotId } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
-import { buildHash, buildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import {
-  getCompanionArmorWeightId,
-  getCompanionId,
-  getCompanionQualityId,
-  getCompanionSkillId,
-  getCompanionTraitId,
-  getCompanionWeaponTypeId,
-} from "../companion-codec-indices/companion-codec-indices.module.code.ts"
-import {
-  ESO_VERSION_49,
-  encodeV49,
-} from "../companion-codec-v49/companion-codec-v49.module.code.ts"
-import { decodeCompanion, ESO_VERSION_48, encodeCompanion } from "./companion-codec.module.code.ts"
+  buildHash,
+  buildId,
+} from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 
 const COMPANION_BUILD_TYPE = 2
 
