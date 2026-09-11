@@ -34,9 +34,21 @@ export const provisioning = {
         "A script that sets a machine up names the files that script places rather than holding those files.",
     },
     {
+      invariantKind: "departure",
+      statement: "A file placed by a link under the home is linked there by every landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move of the folder such a file sits in is caught by the landing that moves it.",
+    },
+    {
       invariantKind: "gap",
       statement:
         "The scripts still have their table of files to place rather than reading the table from the pages.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A file placed with rights the landing has not is placed by the script alone.",
     },
   ],
 } as const satisfies Domain
