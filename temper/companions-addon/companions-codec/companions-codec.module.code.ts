@@ -29,9 +29,9 @@ import {
   TARGET_HEALTH_BITS,
   TRAIT_BITS,
   WEAPON_TYPE_BITS,
-} from "../companions-codec-constants/companions-codec-constants.module.code.ts"
-import { getCompanionIndex } from "../companions-id-map/companions-id-map.module.code.ts"
-import { getSkillIndex } from "../companions-skill-map/companions-skill-map.module.code.ts"
+} from "akasha/temper/companions-addon/companions-codec-constants/companions-codec-constants.module.code.ts"
+import { getCompanionIndex } from "akasha/temper/companions-addon/companions-id-map/companions-id-map.module.code.ts"
+import { getSkillIndex } from "akasha/temper/companions-addon/companions-skill-map/companions-skill-map.module.code.ts"
 
 export const ARMOR_SLOTS = [
   EQUIP_SLOT_HEAD,

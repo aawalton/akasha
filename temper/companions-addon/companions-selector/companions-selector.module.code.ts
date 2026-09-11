@@ -16,21 +16,21 @@ import {
   JEWELRY_SLOTS,
   SKILL_SLOT_INDICES,
   WEAPON_SLOTS,
-} from "../companions-codec/companions-codec.module.code.ts"
-import { ADDON_NAME } from "../companions-constants/companions-constants.module.code.ts"
+} from "akasha/temper/companions-addon/companions-codec/companions-codec.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/companions-addon/companions-constants/companions-constants.module.code.ts"
 import {
   formatArmorSlot,
   formatJewelrySlot,
   formatWeaponSlot,
   getQualityColorForSlot,
-} from "../companions-equipment-formatters/companions-equipment-formatters.module.code.ts"
-import { ALL_COMPANION_IDS } from "../companions-id-map/companions-id-map.module.code.ts"
+} from "akasha/temper/companions-addon/companions-equipment-formatters/companions-equipment-formatters.module.code.ts"
+import { ALL_COMPANION_IDS } from "akasha/temper/companions-addon/companions-id-map/companions-id-map.module.code.ts"
 import {
   ensureCompanionEntry,
   getSavedVariables,
   type SavedCompanionBuild,
   type SavedCompanionEquipmentSlot,
-} from "../companions-saved-variables/companions-saved-variables.module.code.ts"
+} from "akasha/temper/companions-addon/companions-saved-variables/companions-saved-variables.module.code.ts"
 export const DROPDOWN_HEIGHT = 30
 export const DROPDOWN_WIDTH = 200
 export const DROPDOWN_BOTTOM_MARGIN = 12

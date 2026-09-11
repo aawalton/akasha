@@ -13,43 +13,43 @@ import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { TEXT_TERTIARY } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
-import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 import {
   ARMOR_SLOTS,
   type CompanionBuildData,
   JEWELRY_SLOTS,
   WEAPON_SLOTS,
-} from "../companions-codec/companions-codec.module.code.ts"
-import { decodeCompanionBuild } from "../companions-decoder/companions-decoder.module.code.ts"
-import { SLOT_NAMES } from "../companions-display-names/companions-display-names.module.code.ts"
+} from "akasha/temper/companions-addon/companions-codec/companions-codec.module.code.ts"
+import { decodeCompanionBuild } from "akasha/temper/companions-addon/companions-decoder/companions-decoder.module.code.ts"
+import { SLOT_NAMES } from "akasha/temper/companions-addon/companions-display-names/companions-display-names.module.code.ts"
 import {
   formatArmorSlot,
   formatJewelrySlot,
   formatWeaponSlot,
   getQualityColorForSlot,
-} from "../companions-equipment-formatters/companions-equipment-formatters.module.code.ts"
+} from "akasha/temper/companions-addon/companions-equipment-formatters/companions-equipment-formatters.module.code.ts"
 import {
   equipState,
   hideOptimalColumn,
   hideUpgradeIndicators,
   refreshUpgradeIndicators,
-} from "../companions-equipment-panel/companions-equipment-panel.module.code.ts"
-import { TWO_HANDED_TYPES } from "../companions-equipment-rows/companions-equipment-rows.module.code.ts"
+} from "akasha/temper/companions-addon/companions-equipment-panel/companions-equipment-panel.module.code.ts"
+import { TWO_HANDED_TYPES } from "akasha/temper/companions-addon/companions-equipment-rows/companions-equipment-rows.module.code.ts"
 import {
   formatArmorFromIndices,
   formatJewelryFromIndices,
   formatWeaponFromIndices,
   getQualityColorFromIndex,
   isWeaponIndexTwoHanded,
-} from "../companions-reverse-mappings/companions-reverse-mappings.module.code.ts"
-import type { SavedCompanionBuild } from "../companions-saved-variables/companions-saved-variables.module.code.ts"
+} from "akasha/temper/companions-addon/companions-reverse-mappings/companions-reverse-mappings.module.code.ts"
+import type { SavedCompanionBuild } from "akasha/temper/companions-addon/companions-saved-variables/companions-saved-variables.module.code.ts"
 import {
   getCleanCompanionName,
   getSavedCompanionBuild,
   getSelectedCompanionId,
   isSelectedCompanionActive,
-} from "../companions-selector/companions-selector.module.code.ts"
-import { getTargetBuildHash } from "../companions-target-build-input/companions-target-build-input.module.code.ts"
+} from "akasha/temper/companions-addon/companions-selector/companions-selector.module.code.ts"
+import { getTargetBuildHash } from "akasha/temper/companions-addon/companions-target-build-input/companions-target-build-input.module.code.ts"
+import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 export function refreshEquipmentOptimalColumn(decoded: CompanionBuildData): undefined {
   if (!equipState) return
 

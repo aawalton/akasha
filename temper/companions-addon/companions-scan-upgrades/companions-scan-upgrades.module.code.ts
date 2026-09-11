@@ -4,9 +4,11 @@ import "akasha/temper/eso-types/eso-functions-02/eso-functions-02.type-declarati
 import "akasha/temper/eso-types/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
-import { ARMOR_SLOTS, JEWELRY_SLOTS } from "../companions-codec/companions-codec.module.code.ts"
-import { decodeCompanionBuild } from "../companions-decoder/companions-decoder.module.code.ts"
+import {
+  ARMOR_SLOTS,
+  JEWELRY_SLOTS,
+} from "akasha/temper/companions-addon/companions-codec/companions-codec.module.code.ts"
+import { decodeCompanionBuild } from "akasha/temper/companions-addon/companions-decoder/companions-decoder.module.code.ts"
 import {
   findBestArmorMatch,
   findBestJewelryMatch,
@@ -14,14 +16,15 @@ import {
   getWeaponRoleFromBuild,
   scanCompanionInventory,
   WEAPON_ROLE_TYPES,
-} from "../companions-inventory-matcher/companions-inventory-matcher.module.code.ts"
+} from "akasha/temper/companions-addon/companions-inventory-matcher/companions-inventory-matcher.module.code.ts"
 import {
   getArmorTraitFromIndex,
   getArmorTypeFromIndex,
   getJewelryTraitFromIndex,
   getQualityFromIndex,
   getWeaponTraitFromIndex,
-} from "../companions-reverse-mappings/companions-reverse-mappings.module.code.ts"
+} from "akasha/temper/companions-addon/companions-reverse-mappings/companions-reverse-mappings.module.code.ts"
+import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
 export interface SlotUpgrade {
   bagSlot: number

@@ -6,7 +6,7 @@ import "akasha/temper/eso-types/eso-functions-07/eso-functions-07.type-declarati
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { FCOCO } from "../companion-qol-state/companion-qol-state.module.code.ts"
+import { FCOCO } from "akasha/temper/companions-addon/companion-qol-state/companion-qol-state.module.code.ts"
 
 function createRapportValueLabel(
   this: void,

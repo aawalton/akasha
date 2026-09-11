@@ -2,7 +2,7 @@ import type {
   AddonVars,
   CompanionInfo,
   SettingsVars,
-} from "../companion-qol-types/companion-qol-types.module.code.ts"
+} from "akasha/temper/companions-addon/companion-qol-types/companion-qol-types.module.code.ts"
 
 export interface FCOCO {
   addonVars: AddonVars

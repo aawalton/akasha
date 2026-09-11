@@ -19,37 +19,37 @@ import {
   TEXT_PRIMARY,
   TEXT_TERTIARY,
 } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
-import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 import {
   applyBuild,
   equipUpgrades,
-} from "../companions-apply-build/companions-apply-build.module.code.ts"
+} from "akasha/temper/companions-addon/companions-apply-build/companions-apply-build.module.code.ts"
 import {
   ARMOR_SLOTS,
   type CompanionBuildData,
   captureCompanionBuild,
   JEWELRY_SLOTS,
   WEAPON_SLOTS,
-} from "../companions-codec/companions-codec.module.code.ts"
-import { decodeCompanionBuild } from "../companions-decoder/companions-decoder.module.code.ts"
-import { SLOT_NAMES } from "../companions-display-names/companions-display-names.module.code.ts"
+} from "akasha/temper/companions-addon/companions-codec/companions-codec.module.code.ts"
+import { decodeCompanionBuild } from "akasha/temper/companions-addon/companions-decoder/companions-decoder.module.code.ts"
+import { SLOT_NAMES } from "akasha/temper/companions-addon/companions-display-names/companions-display-names.module.code.ts"
 import {
   describeMismatch,
   EQUIPMENT_SLOT_COUNT,
   type EquipmentSlotGroup,
   evaluateEquipmentMatch,
   type SlotMismatch,
-} from "../companions-equipment-match/companions-equipment-match.module.code.ts"
-import { scanForUpgrades } from "../companions-scan-upgrades/companions-scan-upgrades.module.code.ts"
+} from "akasha/temper/companions-addon/companions-equipment-match/companions-equipment-match.module.code.ts"
+import { scanForUpgrades } from "akasha/temper/companions-addon/companions-scan-upgrades/companions-scan-upgrades.module.code.ts"
 import {
   captureAndSaveActiveCompanionBuild,
   getSavedCompanionBuild,
-} from "../companions-selector/companions-selector.module.code.ts"
+} from "akasha/temper/companions-addon/companions-selector/companions-selector.module.code.ts"
 import {
   type SummaryRow,
   summaryState,
-} from "../companions-summary-panel/companions-summary-panel.module.code.ts"
-import { getTargetBuildHash } from "../companions-target-build-input/companions-target-build-input.module.code.ts"
+} from "akasha/temper/companions-addon/companions-summary-panel/companions-summary-panel.module.code.ts"
+import { getTargetBuildHash } from "akasha/temper/companions-addon/companions-target-build-input/companions-target-build-input.module.code.ts"
+import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 
 export const COLOR_GREEN = GREEN
 export const COLOR_GOLD: [number, number, number] = [0.98, 0.86, 0.24]

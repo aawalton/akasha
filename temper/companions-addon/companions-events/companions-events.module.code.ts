@@ -18,10 +18,10 @@ import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import { applySkills } from "../companions-apply-build/companions-apply-build.module.code.ts"
-import { ADDON_NAME } from "../companions-constants/companions-constants.module.code.ts"
-import { decodeCompanionBuild } from "../companions-decoder/companions-decoder.module.code.ts"
-import { notifyCompanionRapportChange } from "../companions-overview-rapport/companions-overview-rapport.module.code.ts"
+import { applySkills } from "akasha/temper/companions-addon/companions-apply-build/companions-apply-build.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/companions-addon/companions-constants/companions-constants.module.code.ts"
+import { decodeCompanionBuild } from "akasha/temper/companions-addon/companions-decoder/companions-decoder.module.code.ts"
+import { notifyCompanionRapportChange } from "akasha/temper/companions-addon/companions-overview-rapport/companions-overview-rapport.module.code.ts"
 import {
   addCompanionSkillLine,
   collectCompanionProgress,
@@ -29,12 +29,12 @@ import {
   refreshAllCompanionSkillLines,
   updateCompanionExperience,
   updateCompanionSkillLine,
-} from "../companions-progress/companions-progress.module.code.ts"
+} from "akasha/temper/companions-addon/companions-progress/companions-progress.module.code.ts"
 import {
   captureAndSaveActiveCompanionBuild,
   setSelectedCompanionId,
-} from "../companions-selector/companions-selector.module.code.ts"
-import { getTargetBuildHash } from "../companions-target-build-input/companions-target-build-input.module.code.ts"
+} from "akasha/temper/companions-addon/companions-selector/companions-selector.module.code.ts"
+import { getTargetBuildHash } from "akasha/temper/companions-addon/companions-target-build-input/companions-target-build-input.module.code.ts"
 export function registerCompanionEvents(): undefined {
   EVENT_MANAGER.RegisterForEvent(
     ADDON_NAME + "_CompanionActivated",

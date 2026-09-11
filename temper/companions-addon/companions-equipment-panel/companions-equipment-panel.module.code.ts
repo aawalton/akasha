@@ -13,28 +13,28 @@ import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { TEXT_SECONDARY } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
-import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 import {
   ARMOR_SLOTS,
   JEWELRY_SLOTS,
   WEAPON_SLOTS,
-} from "../companions-codec/companions-codec.module.code.ts"
+} from "akasha/temper/companions-addon/companions-codec/companions-codec.module.code.ts"
 import {
   createEquipRowsForSection,
   type EquipmentRow,
-} from "../companions-equipment-rows/companions-equipment-rows.module.code.ts"
+} from "akasha/temper/companions-addon/companions-equipment-rows/companions-equipment-rows.module.code.ts"
 import {
   type SlotUpgrade,
   scanForUpgrades,
   type UpgradeScanResult,
-} from "../companions-scan-upgrades/companions-scan-upgrades.module.code.ts"
+} from "akasha/temper/companions-addon/companions-scan-upgrades/companions-scan-upgrades.module.code.ts"
 import {
   captureAndSaveActiveCompanionBuild,
   createCompanionDropdown,
   DROPDOWN_BOTTOM_MARGIN,
   DROPDOWN_HEIGHT,
-} from "../companions-selector/companions-selector.module.code.ts"
-import { getTargetBuildHash } from "../companions-target-build-input/companions-target-build-input.module.code.ts"
+} from "akasha/temper/companions-addon/companions-selector/companions-selector.module.code.ts"
+import { getTargetBuildHash } from "akasha/temper/companions-addon/companions-target-build-input/companions-target-build-input.module.code.ts"
+import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 export interface EquipmentPanelState {
   panel: Control
   noCompanionLabel: LabelControl

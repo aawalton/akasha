@@ -11,12 +11,12 @@ import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import { collectCompanionProgress } from "../companions-progress/companions-progress.module.code.ts"
-import { getSavedVariables } from "../companions-saved-variables/companions-saved-variables.module.code.ts"
+import { collectCompanionProgress } from "akasha/temper/companions-addon/companions-progress/companions-progress.module.code.ts"
+import { getSavedVariables } from "akasha/temper/companions-addon/companions-saved-variables/companions-saved-variables.module.code.ts"
 import {
   captureAndSaveActiveCompanionBuild,
   setSelectedCompanionId,
-} from "../companions-selector/companions-selector.module.code.ts"
+} from "akasha/temper/companions-addon/companions-selector/companions-selector.module.code.ts"
 
 export function refreshAllCompanionData(): undefined {
   if (HasActiveCompanion()) {

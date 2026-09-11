@@ -6,7 +6,7 @@ import "akasha/temper/eso-types/eso-functions-07/eso-functions-07.type-declarati
 import {
   ensureCompanionEntry,
   type SavedCompanionEntry,
-} from "../companions-saved-variables/companions-saved-variables.module.code.ts"
+} from "akasha/temper/companions-addon/companions-saved-variables/companions-saved-variables.module.code.ts"
 
 export function getActiveCompanionEntry(): SavedCompanionEntry | undefined {
   if (!HasActiveCompanion()) return undefined

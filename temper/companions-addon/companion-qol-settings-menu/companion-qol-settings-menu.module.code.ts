@@ -1,13 +1,13 @@
-import "../../addon-library-types/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon-library-types/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import { asNumber } from "akasha/temper/companions-addon/companion-qol-casts/companion-qol-casts.module.code.ts"
+import { FCOCO } from "akasha/temper/companions-addon/companion-qol-state/companion-qol-state.module.code.ts"
 import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
-import { asNumber } from "../companion-qol-casts/companion-qol-casts.module.code.ts"
-import { FCOCO } from "../companion-qol-state/companion-qol-state.module.code.ts"
 
 FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
   const settings = FCOCO.settingsVars.settings

@@ -16,14 +16,13 @@ import {
   TEXT_SECONDARY,
   TEXT_TERTIARY,
 } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
-import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 import {
   type CompanionBuildData,
   SKILL_SLOT_INDICES,
-} from "../companions-codec/companions-codec.module.code.ts"
-import { decodeCompanionBuild } from "../companions-decoder/companions-decoder.module.code.ts"
-import { getAbilityIdFromSkillIndex } from "../companions-reverse-mappings/companions-reverse-mappings.module.code.ts"
-import type { SavedCompanionBuild } from "../companions-saved-variables/companions-saved-variables.module.code.ts"
+} from "akasha/temper/companions-addon/companions-codec/companions-codec.module.code.ts"
+import { decodeCompanionBuild } from "akasha/temper/companions-addon/companions-decoder/companions-decoder.module.code.ts"
+import { getAbilityIdFromSkillIndex } from "akasha/temper/companions-addon/companions-reverse-mappings/companions-reverse-mappings.module.code.ts"
+import type { SavedCompanionBuild } from "akasha/temper/companions-addon/companions-saved-variables/companions-saved-variables.module.code.ts"
 import {
   createCompanionDropdown,
   DROPDOWN_BOTTOM_MARGIN,
@@ -32,8 +31,9 @@ import {
   getSavedCompanionBuild,
   getSelectedCompanionId,
   isSelectedCompanionActive,
-} from "../companions-selector/companions-selector.module.code.ts"
-import { getTargetBuildHash } from "../companions-target-build-input/companions-target-build-input.module.code.ts"
+} from "akasha/temper/companions-addon/companions-selector/companions-selector.module.code.ts"
+import { getTargetBuildHash } from "akasha/temper/companions-addon/companions-target-build-input/companions-target-build-input.module.code.ts"
+import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 export const MINI_ICON_SIZE = 24
 export const MINI_CARD_HEIGHT = 32
 export const MINI_CARD_PADDING = 4

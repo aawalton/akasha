@@ -1,7 +1,7 @@
 import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import type { FcoSettings } from "../companion-qol-types/companion-qol-types.module.code.ts"
+import type { FcoSettings } from "akasha/temper/companions-addon/companion-qol-types/companion-qol-types.module.code.ts"
 
 export function asNumber(value: unknown): number {
   return value as number
