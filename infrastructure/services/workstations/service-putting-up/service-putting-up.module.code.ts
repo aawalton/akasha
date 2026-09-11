@@ -16,7 +16,11 @@ export interface PutUp {
   readonly code: number
 }
 
-export function putUpEvery(root: string, dryRun: boolean): PutUp {
+export function putUpEvery(
+  root: string,
+  dryRun: boolean,
+  restarting: ReadonlySet<string> = new Set()
+): PutUp {
   const read = everyService(root)
   if ("refused" in read) return { report: [], refusals: [read.refused], code: DATA }
 
@@ -29,10 +33,11 @@ export function putUpEvery(root: string, dryRun: boolean): PutUp {
     }
   }
 
-  const plan = planFor(read.services, ourInstalled(home))
+  const plan = planFor(read.services, ourInstalled(home), restarting)
   const report: string[] = [`service-workstation\t${read.services.length} service(s)`]
   for (const name of plan.write.keys()) report.push(`write\t${name}`)
   for (const name of plan.enable) report.push(`enable\t${name}`)
+  for (const name of plan.restart ?? []) report.push(`restart\t${name}`)
   for (const name of plan.stop) report.push(`stop\t${name}`)
   for (const name of plan.remove) report.push(`remove\t${name}`)
 

@@ -12,6 +12,7 @@ import {
 import { join } from "node:path"
 import {
   installedUnitName,
+  isScheduled,
   type Service,
   serviceUnitText,
   timerUnitText,
@@ -34,6 +35,7 @@ export type Plan = {
   readonly enable: readonly string[]
   readonly stop: readonly string[]
   readonly remove: readonly string[]
+  readonly restart?: readonly string[]
 }
 
 export type Done = {
@@ -98,19 +100,27 @@ export function textFor(given: Service): ReadonlyMap<string, string> {
   return held
 }
 
-export function planFor(services: readonly Service[], owned: readonly string[]): Plan {
+export function planFor(
+  services: readonly Service[],
+  owned: readonly string[],
+  restarting: ReadonlySet<string> = new Set()
+): Plan {
   const write = new Map<string, string>()
   const enable: string[] = []
   const stop: string[] = []
+  const restart: string[] = []
   for (const one of services) {
     for (const [name, text] of textFor(one)) write.set(name, text)
     const named = installedUnitName(one)
     if (one.service.enabled) enable.push(named)
     else stop.push(named)
+    if (one.service.enabled && !isScheduled(one) && restarting.has(one.service.slug)) {
+      restart.push(`${one.service.slug}${SERVICE_SUFFIX}`)
+    }
   }
   const ours = new Set(write.keys())
   const remove = owned.filter((one) => !ours.has(one)).sort()
-  return { write, enable: enable.sort(), stop: stop.sort(), remove }
+  return { write, enable: enable.sort(), stop: stop.sort(), remove, restart: restart.sort() }
 }
 
 export function systemctl(args: readonly string[]): Ran {
@@ -169,6 +179,7 @@ export function installing(
   took("reloaded", run(["daemon-reload"]))
 
   for (const name of plan.enable) took(`enabled ${name}`, run(["enable", "--now", name]))
+  for (const name of plan.restart ?? []) took(`restarted ${name}`, run(["restart", name]))
   for (const name of plan.stop) {
     took(`stopped ${name}`, run(["stop", name]))
     took(`disabled ${name}`, run(["disable", name]))

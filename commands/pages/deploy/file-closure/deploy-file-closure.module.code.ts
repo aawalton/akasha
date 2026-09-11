@@ -15,7 +15,11 @@ import {
   manifestsAmong,
   reachingOf,
 } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
-import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  everyOfType,
+  valuesOfType,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const MANIFEST = "package.json"
 
@@ -98,6 +102,40 @@ export function closureOver(
 ): ReadonlySet<string> {
   const naming = reachingOf(manifestsAmong(tracked, MANIFEST), bodyAt)
   return reachedFrom(seeds, codeBodies(bodyAt), naming, new Set(tracked))
+}
+
+export function closuresOf(
+  root: string,
+  kind: string,
+  commit: string
+): ReadonlyMap<string, ReadonlySet<string>> {
+  const tracked = trackedAt(root, commit)
+  const bodies = bodiesFrom(root, commit)
+  const found = new Map<string, ReadonlySet<string>>()
+  for (const one of valuesOfType(root, kind)) {
+    const slug = textAt(one.value, "slug")
+    if (slug === null) continue
+    found.set(slug, closureOver(tracked, besideThe(tracked, one.path), bodies))
+  }
+  return found
+}
+
+export function unionOf(closures: ReadonlyMap<string, ReadonlySet<string>>): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const built of closures.values()) for (const one of built) found.add(one)
+  return found
+}
+
+export function touchedIn(
+  closures: ReadonlyMap<string, ReadonlySet<string>>,
+  changed: readonly string[] | null
+): ReadonlySet<string> {
+  if (changed === null) return new Set(closures.keys())
+  const found = new Set<string>()
+  for (const [slug, built] of closures) {
+    if (changed.some((one) => built.has(one))) found.add(slug)
+  }
+  return found
 }
 
 export function closureFor(

@@ -5,6 +5,7 @@ import { allowedThrough } from "akasha/commands/modules/stopping/command-stoppin
 import { putUpAddon } from "akasha/commands/pages/deploy/addon-installing/deploy-addon-installing.module.code.ts"
 import { publishedBundleFor } from "akasha/commands/pages/deploy/bundle-publishing/deploy-bundle-publishing.module.code.ts"
 import {
+  changedBetween,
   judgedOnDeploy,
   sinceCommit,
 } from "akasha/commands/pages/deploy/check-judging/deploy-check-judging.module.code.ts"
@@ -19,7 +20,12 @@ import {
   recordedRefusal,
 } from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
 import { installedOnDevice } from "akasha/commands/pages/deploy/device-installing/deploy-device-installing.module.code.ts"
-import { closureFor } from "akasha/commands/pages/deploy/file-closure/deploy-file-closure.module.code.ts"
+import {
+  closureFor,
+  closuresOf,
+  touchedIn,
+  unionOf,
+} from "akasha/commands/pages/deploy/file-closure/deploy-file-closure.module.code.ts"
 import { pushedImage } from "akasha/commands/pages/deploy/image-pushing/deploy-image-pushing.module.code.ts"
 import { putUpInferenceService } from "akasha/commands/pages/deploy/inference-installing/deploy-inference-installing.module.code.ts"
 import { shipIosApp } from "akasha/commands/pages/deploy/ios-shipping/deploy-ios-shipping.module.code.ts"
@@ -104,14 +110,17 @@ export async function putUp(
   slug: string,
   commit: string,
   rest: readonly string[],
-  given: Given
+  given: Given,
+  restarting: ReadonlySet<string> | null = null
 ): Promise<Answer> {
   const dryRun = rest.includes(DRY_RUN)
   if (read.kind === IOS_APP) {
     return shipIosApp(slug, read.pagePath, rest.includes(NO_UPLOAD), commit)
   }
   if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, dryRun)
-  if (read.kind === WORKSTATION_SERVICE) return putUpEvery(given.root, dryRun)
+  if (read.kind === WORKSTATION_SERVICE) {
+    return putUpEvery(given.root, dryRun, restarting ?? new Set())
+  }
   if (read.kind === INFERENCE_SERVICE) return await putUpInferenceService(given.root, slug, dryRun)
   if (read.kind === ESO_ADDON) return await putUpAddon(given.root, slug, read.pagePath, dryRun)
   if (read.kind === CLUSTER_SERVICE) {
@@ -194,8 +203,11 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
   }
   const commit = commitAt(given.root, ref)
   if (commit === null) return refused(saidOfNoCommit(ref ?? AT_HEAD), INPUT)
-  const built = closureFor(given.root, slug, read, commit)
+  const closures = read.every === true ? closuresOf(given.root, read.kind, commit) : null
+  const built = closures === null ? closureFor(given.root, slug, read, commit) : unionOf(closures)
   const was = sinceCommit(given.root, commitRecordedIn(given.root, read.pagePath))
+  const moved = was === null ? null : changedBetween(given.root, was, commit)
+  const restarting = closures === null ? null : touchedIn(closures, moved)
   const unjudged = await judgedOnDeploy(given.root, slug, was, commit, built)
   const dry = rest.includes(DRY_RUN)
   const noting = () => (dry ? [] : recordedRefusal(given.root, slug, read.pagePath, commit))
@@ -203,7 +215,7 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
     return answering([`commit\t${commit}`], [...unjudged, ...noting()], DATA)
   }
   const before = opening()
-  const answer = await putUp(read, slug, commit, rest, given)
+  const answer = await putUp(read, slug, commit, rest, given, restarting)
   if (!dry) {
     costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, answer.refusals.length)
   }
