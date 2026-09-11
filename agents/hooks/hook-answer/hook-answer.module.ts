@@ -39,11 +39,7 @@ export const hookAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A hook's repository root is four folders above the hook's own file.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That depth is written here rather than worked out.",
+      statement: "A hook's repository root is walked up to rather than counted in folders.",
     },
     {
       invariantKind: "departure",

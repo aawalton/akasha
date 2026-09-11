@@ -9,12 +9,27 @@ export const agentHookRegistration = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A registration names the hook's code file rather than resolving a name at the call.",
+      statement: "A registration names the link an event is dispatched through rather than a hook.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One registration answers for every hook running at that event.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The registration matches every tool, and which hook runs is settled at the call.",
     },
     {
       invariantKind: "departure",
       statement: "A client reads the settings document once at spawn and never again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path written here names no checkout, so a moving tree leaves it true.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The links are put in place here, before any registration names one.",
     },
     {
       invariantKind: "departure",
@@ -26,11 +41,7 @@ export const agentHookRegistration = {
     },
     {
       invariantKind: "departure",
-      statement: "A hook command names the checkout the hook's code file was found under.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A path written here is frozen against a tree that keeps moving.",
+      statement: "What a hook page carries is read from the index rather than by loading the page.",
     },
   ],
 } as const satisfies Module
