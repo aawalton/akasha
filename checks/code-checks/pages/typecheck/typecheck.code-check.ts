@@ -211,6 +211,19 @@ export const typecheck = {
       invariantKind: "gap",
       statement: "A type error never lands.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "No test fails where the committed index is read in place of the one the change leaves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An audit hands this check every file, so its program is the whole tree.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A change reading clean here can refuse at audit over a file no change roots.",
+    },
   ],
   check: { maxCpuSeconds: 60 },
   audit: { maxCpuSeconds: 60 },
