@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const worldTreeTrilogyWorldTreeOnline = {
   id: "019db533-f38b-75f7-b63d-3df91f16d3cb",
-  pageTypeSlug: "book",
   type: "book",
   slug: "world-tree-trilogy-world-tree-online",
   title: "World-Tree Trilogy: World-Tree Online",

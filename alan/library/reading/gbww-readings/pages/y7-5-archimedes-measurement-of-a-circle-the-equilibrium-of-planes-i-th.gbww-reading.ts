@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y75ArchimedesMeasurementOfACircleTheEquilibriumOfPlanesITh = {
   id: "019f0c09-be7f-7291-9e7d-56ed75f30e38",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y7-5-archimedes-measurement-of-a-circle-the-equilibrium-of-planes-i-th",
   title:

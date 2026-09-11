@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y1010HarveyOnTheGenerationOfAnimals = {
   id: "019f0c09-c1f7-74ba-a9ae-c3bcafee9d4f",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y10-10-harvey-on-the-generation-of-animals",
   title: "Y10.10 Harvey: On the Generation of Animals",

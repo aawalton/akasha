@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y513HarveyOnTheMotionOfTheHeartAndBloodInAnimals = {
   id: "019f0c09-bddc-7c37-803a-eeeee9f9bdfd",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y5-13-harvey-on-the-motion-of-the-heart-and-blood-in-animals",
   title: "Y5.13 Harvey: On the Motion of the Heart and Blood in Animals",

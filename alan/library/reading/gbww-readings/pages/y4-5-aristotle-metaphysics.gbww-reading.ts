@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y45AristotleMetaphysics = {
   id: "019f0c09-bd5d-73cd-b513-6704537f95f5",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y4-5-aristotle-metaphysics",
   title: "Y4.5 Aristotle: Metaphysics",

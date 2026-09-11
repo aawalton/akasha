@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y114RousseauTheSocialContract = {
   id: "019f0c09-bc16-75c9-aa3a-76fd72206301",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y1-14-rousseau-the-social-contract",
   title: "Y1.14 Rousseau: The Social Contract",

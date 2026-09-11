@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const yumiAndTheNightmarePainter = {
   id: "019db533-f39d-7299-9874-497a7bfe52f1",
-  pageTypeSlug: "book",
   type: "book",
   slug: "yumi-and-the-nightmare-painter",
   title: "Yumi and the Nightmare Painter",

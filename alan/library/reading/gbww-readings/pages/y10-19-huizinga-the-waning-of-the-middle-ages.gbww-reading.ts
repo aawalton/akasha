@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y1019HuizingaTheWaningOfTheMiddleAges = {
   id: "019f0c09-c307-7929-96f5-521721bbdfd2",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y10-19-huizinga-the-waning-of-the-middle-ages",
   title: "Y10.19 Huizinga: The Waning of the Middle Ages",

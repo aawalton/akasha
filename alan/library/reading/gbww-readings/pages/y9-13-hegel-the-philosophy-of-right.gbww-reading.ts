@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y913HegelThePhilosophyOfRight = {
   id: "019f0c09-c08b-78f3-91f1-4dc1ce498c5f",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y9-13-hegel-the-philosophy-of-right",
   title: "Y9.13 Hegel: The Philosophy of Right",

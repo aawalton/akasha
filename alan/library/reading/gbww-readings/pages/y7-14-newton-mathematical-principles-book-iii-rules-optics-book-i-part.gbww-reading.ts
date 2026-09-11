@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y714NewtonMathematicalPrinciplesBookIiiRulesOpticsBookIPart = {
   id: "019f0c09-bea7-781d-adf3-93e3036c656c",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y7-14-newton-mathematical-principles-book-iii-rules-optics-book-i-part",
   title:

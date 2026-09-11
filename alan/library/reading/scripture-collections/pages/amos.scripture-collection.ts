@@ -2,7 +2,6 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const amos = {
   id: "01a06808-34d9-7018-9880-e5bb9f2bf4d1",
-  pageTypeSlug: "scripture-collection",
   type: "scripture-collection",
   slug: "amos",
   title: "Amos",

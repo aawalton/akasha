@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y66PlotinusTheFifthEnnead = {
   id: "019f0c09-be27-70e0-827f-ec9e4b72eb43",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y6-6-plotinus-the-fifth-ennead",
   title: "Y6.6 Plotinus: The Fifth Ennead",

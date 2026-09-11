@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y718MillUtilitarianism = {
   id: "019f0c09-beb9-72f7-882b-ba39ccfed47d",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y7-18-mill-utilitarianism",
   title: "Y7.18 Mill: Utilitarianism",

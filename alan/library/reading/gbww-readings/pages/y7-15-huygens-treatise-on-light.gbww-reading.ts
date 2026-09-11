@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y715HuygensTreatiseOnLight = {
   id: "019f0c09-beab-7feb-9124-cdb3f0dd5c5c",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y7-15-huygens-treatise-on-light",
   title: "Y7.15 Huygens: Treatise on Light",

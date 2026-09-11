@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const scripturePassage2Chronicles16 = {
   id: "01a06804-11a9-7047-b646-664b95728129",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "scripture-passage-2-chronicles-16",
   title: "2 Chronicles 16",

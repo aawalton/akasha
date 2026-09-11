@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y96StThomasAquinasSummaTheologica = {
   id: "019f0c09-bff0-7b0c-8770-90f746ba846f",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y9-6-st-thomas-aquinas-summa-theologica",
   title: "Y9.6 St. Thomas Aquinas: Summa Theologica",

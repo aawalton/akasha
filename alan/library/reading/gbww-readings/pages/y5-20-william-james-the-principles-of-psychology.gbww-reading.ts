@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y520WilliamJamesThePrinciplesOfPsychology = {
   id: "019f0c09-bdfc-7580-a9b5-62aaf6ebc49a",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y5-20-william-james-the-principles-of-psychology",
   title: "Y5.20 William James: The Principles of Psychology",

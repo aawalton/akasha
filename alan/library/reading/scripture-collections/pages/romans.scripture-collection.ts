@@ -2,7 +2,6 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const romans = {
   id: "01a06808-34da-7029-bd21-07fbe8fd8c43",
-  pageTypeSlug: "scripture-collection",
   type: "scripture-collection",
   slug: "romans",
   title: "Romans",

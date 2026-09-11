@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y37EuclidElements = {
   id: "019f0c09-bd0d-7d2c-bffc-d1e075fdfcdf",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y3-7-euclid-elements",
   title: "Y3.7 Euclid: Elements",

@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y610ShakespeareTheComedyOfErrorsTheTamingOfTheShrewAsYou = {
   id: "019f0c09-be38-7384-ae45-19a0f837d8b7",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y6-10-shakespeare-the-comedy-of-errors-the-taming-of-the-shrew-as-you",
   title:

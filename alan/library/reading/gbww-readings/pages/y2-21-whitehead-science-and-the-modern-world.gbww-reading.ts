@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y221WhiteheadScienceAndTheModernWorld = {
   id: "019f0c09-bceb-7a38-8db8-0d613449f972",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y2-21-whitehead-science-and-the-modern-world",
   title: "Y2.21 Whitehead: Science and the Modern World",

@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y316LavoisierElementsOfChemistry = {
   id: "019f0c09-bd33-798b-8b45-c2c891be747d",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y3-16-lavoisier-elements-of-chemistry",
   title: "Y3.16 Lavoisier: Elements of Chemistry",

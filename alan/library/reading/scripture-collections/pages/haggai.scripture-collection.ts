@@ -2,7 +2,6 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const haggai = {
   id: "01a06808-34d9-702a-90d7-6e77471be211",
-  pageTypeSlug: "scripture-collection",
   type: "scripture-collection",
   slug: "haggai",
   title: "Haggai",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const wordsOfRadiance = {
   id: "019db533-f39c-7f54-9735-77fc2a61b9de",
-  pageTypeSlug: "book",
   type: "book",
   slug: "words-of-radiance",
   title: "Words of Radiance",

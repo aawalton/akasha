@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y19MachiavelliThePrince = {
   id: "019f0c09-bb53-706f-80d3-33dbe7102987",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y1-9-machiavelli-the-prince",
   title: "Y1.9 Machiavelli: The Prince",

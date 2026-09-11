@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const daniel9 = {
   id: "01a06804-11ab-702b-9d50-14704d730d94",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "daniel-9",
   title: "Daniel 9",

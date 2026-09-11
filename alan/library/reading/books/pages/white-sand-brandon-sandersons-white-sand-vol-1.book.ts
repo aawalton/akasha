@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const whiteSandBrandonSandersonsWhiteSandVol1 = {
   id: "019db533-f38a-7c29-9473-afee9126d674",
-  pageTypeSlug: "book",
   type: "book",
   slug: "white-sand-brandon-sandersons-white-sand-vol-1",
   title: "White Sand: Brandon Sanderson's White Sand Vol. 1",

@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y721BrechtMotherCourageAndHerChildren = {
   id: "019f0c09-bec6-76a1-b4ec-2ca36eafad5d",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y7-21-brecht-mother-courage-and-her-children",
   title: "Y7.21 Brecht: Mother Courage and Her Children",

@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y59KeplerEpitomeOfCopernicanAstronomy = {
   id: "019f0c09-bdca-72e7-97aa-93171d5be4e5",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y5-9-kepler-epitome-of-copernican-astronomy",
   title: "Y5.9 Kepler: Epitome of Copernican Astronomy",

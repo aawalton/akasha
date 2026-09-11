@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y514CervantesDonQuixote = {
   id: "019f0c09-bde2-7c70-b297-c0322116dd3b",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y5-14-cervantes-don-quixote",
   title: "Y5.14 Cervantes: Don Quixote",

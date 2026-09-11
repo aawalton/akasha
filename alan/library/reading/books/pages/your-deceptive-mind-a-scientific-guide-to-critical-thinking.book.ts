@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const yourDeceptiveMindAScientificGuideToCriticalThinking = {
   id: "019db533-f39d-7f73-b29b-f0fadfd2980f",
-  pageTypeSlug: "book",
   type: "book",
   slug: "your-deceptive-mind-a-scientific-guide-to-critical-thinking",
   title: "Your Deceptive Mind: A Scientific Guide to Critical Thinking",

@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const scripturePassage1Thessalonians5 = {
   id: "01a06804-11a9-7039-9828-7270ccc929e6",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "scripture-passage-1-thessalonians-5",
   title: "1 Thessalonians 5",

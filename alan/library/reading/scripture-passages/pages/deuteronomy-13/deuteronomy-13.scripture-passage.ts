@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const deuteronomy13 = {
   id: "01a06804-11ab-7030-adcc-749659259aba",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "deuteronomy-13",
   title: "Deuteronomy 13",

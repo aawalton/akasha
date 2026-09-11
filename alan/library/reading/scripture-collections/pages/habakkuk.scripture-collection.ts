@@ -2,7 +2,6 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const habakkuk = {
   id: "01a06808-34d9-7029-9fa2-96b741d3dd6c",
-  pageTypeSlug: "scripture-collection",
   type: "scripture-collection",
   slug: "habakkuk",
   title: "Habakkuk",

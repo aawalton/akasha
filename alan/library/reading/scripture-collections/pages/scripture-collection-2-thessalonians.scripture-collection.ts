@@ -2,7 +2,6 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const scriptureCollection2Thessalonians = {
   id: "01a06808-34d9-7010-b225-697e562f40c9",
-  pageTypeSlug: "scripture-collection",
   type: "scripture-collection",
   slug: "scripture-collection-2-thessalonians",
   title: "2 Thessalonians",

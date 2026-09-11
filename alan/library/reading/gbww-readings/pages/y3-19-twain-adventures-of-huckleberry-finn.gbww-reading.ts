@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y319TwainAdventuresOfHuckleberryFinn = {
   id: "019f0c09-bd40-72fe-9bea-3acfb70c702a",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y3-19-twain-adventures-of-huckleberry-finn",
   title: "Y3.19 Twain: Adventures of Huckleberry Finn",

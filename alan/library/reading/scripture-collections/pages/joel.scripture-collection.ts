@@ -2,7 +2,6 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const joel = {
   id: "01a06808-34da-7008-9aae-f3a793590007",
-  pageTypeSlug: "scripture-collection",
   type: "scripture-collection",
   slug: "joel",
   title: "Joel",

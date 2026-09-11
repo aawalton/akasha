@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y115GibbonTheDeclineAndFallOfTheRomanEmpire = {
   id: "019f0c09-bc1e-7e6b-9193-33f4bce7641c",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y1-15-gibbon-the-decline-and-fall-of-the-roman-empire",
   title: "Y1.15 Gibbon: The Decline and Fall of the Roman Empire",

@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const scripturePassage1Timothy6 = {
   id: "01a06804-11a9-703f-b92d-29f4cbaf5dc3",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "scripture-passage-1-timothy-6",
   title: "1 Timothy 6",

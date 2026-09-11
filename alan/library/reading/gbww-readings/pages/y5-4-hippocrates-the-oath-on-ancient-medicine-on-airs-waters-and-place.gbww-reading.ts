@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y54HippocratesTheOathOnAncientMedicineOnAirsWatersAndPlace = {
   id: "019f0c09-bdb4-75d5-9821-88cbdcffc2f5",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y5-4-hippocrates-the-oath-on-ancient-medicine-on-airs-waters-and-place",
   title:

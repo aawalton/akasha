@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y12AristophanesCloudsLysistrata = {
   id: "019f0c09-ba14-77b3-93e5-82190db55cab",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y1-2-aristophanes-clouds-lysistrata",
   title: "Y1.2 Aristophanes: Clouds, Lysistrata",

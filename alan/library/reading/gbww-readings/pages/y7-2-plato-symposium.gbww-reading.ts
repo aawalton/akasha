@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y72PlatoSymposium = {
   id: "019f0c09-be71-7be9-9e26-fdd53bc142e9",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y7-2-plato-symposium",
   title: "Y7.2 Plato: Symposium",

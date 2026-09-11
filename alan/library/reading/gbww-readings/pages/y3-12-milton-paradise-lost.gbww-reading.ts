@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y312MiltonParadiseLost = {
   id: "019f0c09-bd22-7f1f-a8e4-6c9ee537323c",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y3-12-milton-paradise-lost",
   title: "Y3.12 Milton: Paradise Lost",

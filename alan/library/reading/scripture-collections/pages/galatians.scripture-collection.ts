@@ -2,7 +2,6 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const galatians = {
   id: "01a06808-34d9-7027-bc1d-b90e2b884557",
-  pageTypeSlug: "scripture-collection",
   type: "scripture-collection",
   slug: "galatians",
   title: "Galatians",

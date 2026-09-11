@@ -2,7 +2,6 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const scriptureCollection1Samuel = {
   id: "01a06808-34d9-7006-a8dd-ed9857b8bdd3",
-  pageTypeSlug: "scripture-collection",
   type: "scripture-collection",
   slug: "scripture-collection-1-samuel",
   title: "1 Samuel",

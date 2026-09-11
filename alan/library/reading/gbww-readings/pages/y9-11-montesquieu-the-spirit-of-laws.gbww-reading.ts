@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y911MontesquieuTheSpiritOfLaws = {
   id: "019f0c09-c081-748d-89ef-3d5a42ce4278",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y9-11-montesquieu-the-spirit-of-laws",
   title: "Y9.11 Montesquieu: The Spirit of Laws",

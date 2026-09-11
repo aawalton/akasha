@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y95StAugustineTheCityOfGod = {
   id: "019f0c09-bfeb-781a-9001-47327424f9f7",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y9-5-st-augustine-the-city-of-god",
   title: "Y9.5 St. Augustine: The City of God",

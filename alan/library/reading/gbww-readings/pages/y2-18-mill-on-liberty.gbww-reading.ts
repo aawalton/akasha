@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y218MillOnLiberty = {
   id: "019f0c09-bcdd-7c0a-a1a9-ad92141e987f",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y2-18-mill-on-liberty",
   title: "Y2.18 Mill: On Liberty",

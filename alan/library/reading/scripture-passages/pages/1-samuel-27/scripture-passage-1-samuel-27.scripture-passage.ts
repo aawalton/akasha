@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const scripturePassage1Samuel27 = {
   id: "01a06804-11a9-7029-957f-a0140f747fed",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "scripture-passage-1-samuel-27",
   title: "1 Samuel 27",

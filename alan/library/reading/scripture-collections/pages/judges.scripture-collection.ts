@@ -2,7 +2,6 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const judges = {
   id: "01a06808-34da-700f-8763-189cfb3fda26",
-  pageTypeSlug: "scripture-collection",
   type: "scripture-collection",
   slug: "judges",
   title: "Judges",

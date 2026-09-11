@@ -2,7 +2,6 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const enos = {
   id: "01a06808-34d9-7020-a0bd-c5988ea9dd68",
-  pageTypeSlug: "scripture-collection",
   type: "scripture-collection",
   slug: "enos",
   title: "Enos",

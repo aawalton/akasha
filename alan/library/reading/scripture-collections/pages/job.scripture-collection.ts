@@ -2,7 +2,6 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const job = {
   id: "01a06808-34da-7007-a29d-0e21be3fc585",
-  pageTypeSlug: "scripture-collection",
   type: "scripture-collection",
   slug: "job",
   title: "Job",

@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y116AmericanFoundersDeclarationOfIndependenceConstitutionOfTh = {
   id: "019f0c09-bc60-71aa-b291-b4326bc8f114",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y1-16-american-founders-declaration-of-independence-constitution-of-th",
   title:

@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y119TocquevilleDemocracyInAmerica = {
   id: "019f0c09-bc82-74d8-be31-2411f2ca30d3",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y1-19-tocqueville-democracy-in-america",
   title: "Y1.19 Tocqueville: Democracy in America",

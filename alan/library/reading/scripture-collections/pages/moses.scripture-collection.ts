@@ -2,7 +2,6 @@ import type { ScriptureCollection } from "akasha/alan/library/reading/scripture-
 
 export const moses = {
   id: "01a06808-34da-7019-937c-3b9ef503a97e",
-  pageTypeSlug: "scripture-collection",
   type: "scripture-collection",
   slug: "moses",
   title: "Moses",

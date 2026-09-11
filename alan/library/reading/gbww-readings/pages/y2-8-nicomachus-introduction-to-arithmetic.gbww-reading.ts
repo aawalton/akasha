@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y28NicomachusIntroductionToArithmetic = {
   id: "019f0c09-bcb0-771a-af61-643404d48308",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y2-8-nicomachus-introduction-to-arithmetic",
   title: "Y2.8 Nicomachus: Introduction to Arithmetic",

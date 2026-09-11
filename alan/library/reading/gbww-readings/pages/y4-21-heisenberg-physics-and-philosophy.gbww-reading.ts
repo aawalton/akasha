@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y421HeisenbergPhysicsAndPhilosophy = {
   id: "019f0c09-bda3-7ac7-a824-3596e36082ec",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y4-21-heisenberg-physics-and-philosophy",
   title: "Y4.21 Heisenberg: Physics and Philosophy",

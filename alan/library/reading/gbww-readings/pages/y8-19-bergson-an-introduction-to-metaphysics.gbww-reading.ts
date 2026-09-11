@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y819BergsonAnIntroductionToMetaphysics = {
   id: "019f0c09-bfc9-784a-8f3f-29103d8e7046",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y8-19-bergson-an-introduction-to-metaphysics",
   title: "Y8.19 Bergson: An Introduction to Metaphysics",

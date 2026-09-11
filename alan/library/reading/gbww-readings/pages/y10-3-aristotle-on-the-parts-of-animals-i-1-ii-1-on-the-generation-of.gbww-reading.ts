@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y103AristotleOnThePartsOfAnimalsI1Ii1OnTheGenerationOf = {
   id: "019f0c09-c11e-7180-8da4-4827436dbe36",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y10-3-aristotle-on-the-parts-of-animals-i-1-ii-1-on-the-generation-of",
   title:

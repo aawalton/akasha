@@ -2,7 +2,6 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-readings/gbww
 
 export const y105VirgilTheEcloguesTheGeorgics = {
   id: "019f0c09-c141-7935-891f-b109deca0026",
-  pageTypeSlug: "gbww-reading",
   type: "gbww-reading",
   slug: "y10-5-virgil-the-eclogues-the-georgics",
   title: "Y10.5 Virgil: The Eclogues, The Georgics",
