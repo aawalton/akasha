@@ -278,14 +278,16 @@ test("a fault the server wrote as something other than text is raised as the sta
 })
 
 test("a network failure is raised naming the address asked", async () => {
-  const failing: Fetching = async () => {
-    throw new Error("connect ECONNREFUSED")
-  }
   const run = runImportDataMining(
     fixture(EMPTY_ITEMS, GOOD_QUESTS),
     "https://example.test",
     "tok-123",
-    { fetching: failing, retry: FAST_RETRY }
+    {
+      fetching: async () => {
+        throw new Error("connect ECONNREFUSED")
+      },
+      retry: FAST_RETRY,
+    }
   )
   await expect(run).rejects.toThrow(`Network error calling ${QUESTS_URL}: connect ECONNREFUSED`)
 })

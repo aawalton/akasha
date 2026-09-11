@@ -257,10 +257,13 @@ test("the version check reaches the worker version address", async () => {
 })
 
 test("a network reach that throws is unreachable carrying the message", async () => {
-  const fetchText: FetchingText = async () => {
-    throw new Error("connect ECONNREFUSED")
-  }
-  expect(await checkForUpdate("https://temper.test", "8", { fetchText })).toEqual({
+  expect(
+    await checkForUpdate("https://temper.test", "8", {
+      fetchText: async () => {
+        throw new Error("connect ECONNREFUSED")
+      },
+    })
+  ).toEqual({
     kind: "check-failed",
     reason: "unreachable",
     detail: "connect ECONNREFUSED",
