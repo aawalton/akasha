@@ -8,7 +8,6 @@ export const file = {
   pluralSlug: "files",
   parts: [
     "domain/folder-path",
-    "module/answer-keeping",
     "module/answer-mark",
     "module/data-place",
     "module/exclusive",
