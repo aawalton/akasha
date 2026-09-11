@@ -47,6 +47,7 @@ export const alanHarness = {
     "domain/errors-core",
     "domain/supabase-client",
     "domain/errors-client",
+    "domain/error-report-answers",
     "domain/supabase-rr",
     "domain/status-bar-access",
     "domain/mobile-cli",

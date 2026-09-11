@@ -1,40 +1,7 @@
-import { computeFingerprint } from "akasha/alan/harness/errors-core/error-fingerprint/error-fingerprint.module.code.ts"
-import { ErrorReportSchema } from "akasha/alan/harness/errors-core/error-report/error-report.module.code.ts"
-import {
-  captureError,
-  type ErrorCapturePayload,
-} from "akasha/pages/access/capture-error/capture-error.module.code.ts"
+import { answerErrorReport } from "akasha/alan/harness/error-report-answers/answer-error-report/answer-error-report.module.code.ts"
+
+const SHELL_ORIGINS: readonly string[] = []
 
 export async function action({ request }: { request: Request }): Promise<Response> {
-  if (request.method !== "POST") {
-    return Response.json({ error: "method-not-allowed" }, { status: 405 })
-  }
-
-  let rawBody: unknown
-  try {
-    rawBody = await request.json()
-  } catch {
-    return Response.json({ error: "invalid-json" }, { status: 400 })
-  }
-
-  const parsed = ErrorReportSchema.safeParse(rawBody)
-  if (!parsed.success) {
-    return Response.json({ error: "invalid-payload" }, { status: 400 })
-  }
-
-  const fingerprint = computeFingerprint(parsed.data)
-  const payload: ErrorCapturePayload = {
-    ...parsed.data,
-    fingerprint,
-    releaseSha: parsed.data.releaseSha ?? undefined,
-  }
-
-  try {
-    await captureError(payload)
-  } catch (thrown) {
-    console.error(`api/errors: ${thrown instanceof Error ? thrown.message : String(thrown)}`)
-    return Response.json({ error: "capture-failed" }, { status: 500 })
-  }
-
-  return new Response(null, { status: 204 })
+  return answerErrorReport(request, SHELL_ORIGINS)
 }
