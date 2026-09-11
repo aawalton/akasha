@@ -9,7 +9,10 @@ import {
   type World,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { bodyAfter } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import {
+  bodyAfter,
+  bodyAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   aType,
   bodyOf,
@@ -45,7 +48,7 @@ const PLURAL = `export const held = {
 `
 
 function holding(body: string): (path: string) => string | null {
-  return (path) => (path === PAGE ? body : null)
+  return bodyAt(PAGE, body)
 }
 
 function worldIn(root: string, textOf: (path: string) => string | null): World {

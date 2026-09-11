@@ -5,7 +5,7 @@ import {
 } from "akasha/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts"
 import { gathered, pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { bodyOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { bodyAt, bodyOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const AT = "seat-system/package.json"
 
@@ -38,7 +38,7 @@ const BROKEN = `{
 `
 
 function textIn(text: string): (path: string) => string | null {
-  return (path) => (path === AT ? text : null)
+  return bodyAt(AT, text)
 }
 
 function saidOf(moved: Record<string, string>, text: string): Answer {
