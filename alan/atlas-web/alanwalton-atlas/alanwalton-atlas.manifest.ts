@@ -13,5 +13,10 @@ export const alanwaltonAtlas = {
       invariantKind: "departure",
       statement: "The pod template carries the hash of the alanwalton-s3-creds secret.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The keys hashed from the alanwalton-s3-creds secret are access_key and secret_key.",
+    },
   ],
 } as const satisfies Manifest
