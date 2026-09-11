@@ -112,7 +112,7 @@ export const browserCodeReadsTheEnvironmentByAName = {
         "An app whose route table reads as nothing refuses rather than judging its routes clean.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement:
         "A loader-only route reading a name only a define supplies by a key is seen by nothing here.",
     },
