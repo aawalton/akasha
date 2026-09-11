@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0254295AConvincingArgument = {
   id: "01a06730-4eb6-7cc3-a823-1e6e7e07734c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0254-295-a-convincing-argument",
   title: "295 A Convincing Argument",

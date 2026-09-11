@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0083124Almost = {
   id: "01a06730-4e5e-7532-9421-9d94d910811f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0083-124-almost",
   title: "124 Almost",

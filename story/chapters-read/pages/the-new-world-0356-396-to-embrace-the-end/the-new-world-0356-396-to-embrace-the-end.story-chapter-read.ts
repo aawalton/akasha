@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0356396ToEmbraceTheEnd = {
   id: "01a06730-4ed9-740b-b808-12c3291cf48d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0356-396-to-embrace-the-end",
   title: "396 To Embrace the End",

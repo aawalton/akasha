@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0024Chapter24LittleHeroes = {
   id: "01a06730-4fde-7f7b-9c3f-835692d590ff",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0024-chapter-24-little-heroes",
   title: "Chapter 24 – Little Heroes",

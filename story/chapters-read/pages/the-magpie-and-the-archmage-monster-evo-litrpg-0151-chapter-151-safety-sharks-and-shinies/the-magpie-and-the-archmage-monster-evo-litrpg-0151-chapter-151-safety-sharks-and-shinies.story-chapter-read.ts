@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0151Chapter151SafetySharksAndShinies = {
   id: "01a06730-4fe3-706e-adcb-7e21f1ee5de8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0151-chapter-151-safety-sharks-and-shinies",
   title: "Chapter 151 – Safety, Sharks, and Shinies",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0053Chapter53PriceOfAdvancement = {
   id: "01a06730-4fdf-758a-b614-e5b6b3b9fc71",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0053-chapter-53-price-of-advancement",
   title: "Chapter 53 – Price of Advancement",

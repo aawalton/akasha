@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0093Chapter93BloodOnFeathers = {
   id: "01a06730-4fe1-71dc-af87-b4aac6357249",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0093-chapter-93-blood-on-feathers",
   title: "Chapter 93 – Blood on Feathers",

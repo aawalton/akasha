@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0392432ASweepingReform = {
   id: "01a06730-4ef2-7432-9db7-ab15cd2d453d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0392-432-a-sweeping-reform",
   title: "432  A Sweeping Reform",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0079121WhatLiesAroundUs = {
   id: "01a06730-4e5d-757b-a706-4a0ab88e30ad",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0079-121-what-lies-around-us",
   title: "121 What Lies Around Us",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0015Chapter1143MaskAndBow = {
   id: "01a06730-4dce-7cbf-a141-be8f654cad01",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0015-chapter-1143-mask-and-bow",
   title: "Chapter 1143 - Mask & Bow",

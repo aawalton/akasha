@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0143Chapter1270ATotallyStandardHumanBEvolution = {
   id: "01a06730-4e12-70b6-ad3c-20cc14013544",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0143-chapter-1270-a-totally-standard-human-b-evolution",
   title: "Chapter 1270 - A Totally Standard Human(B) Evolution",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0090131WeavingThreads = {
   id: "01a06730-4e60-76a9-9f36-68b6f89d6705",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0090-131-weaving-threads",
   title: "131 Weaving Threads",

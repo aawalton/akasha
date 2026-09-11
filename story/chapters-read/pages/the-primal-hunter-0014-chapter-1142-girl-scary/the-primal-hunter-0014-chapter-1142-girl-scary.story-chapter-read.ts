@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0014Chapter1142GirlScary = {
   id: "01a06730-4dcd-75a9-a1f5-682e713637d8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0014-chapter-1142-girl-scary",
   title: "Chapter 1142 - Girl Scary",

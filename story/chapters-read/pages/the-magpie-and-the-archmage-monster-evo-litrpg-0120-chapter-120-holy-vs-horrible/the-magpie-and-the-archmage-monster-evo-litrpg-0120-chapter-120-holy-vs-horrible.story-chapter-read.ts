@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0120Chapter120HolyVsHorrible = {
   id: "01a06730-4fe2-741b-9bac-0dd1b5abf609",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0120-chapter-120-holy-vs-horrible",
   title: "Chapter 120 – Holy vs Horrible",

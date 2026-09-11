@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0300341AnIsolatingInvasion = {
   id: "01a06730-4ec4-7806-a2ce-8695bb6bdd54",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0300-341-an-isolating-invasion",
   title: "341 An Isolating Invasion",

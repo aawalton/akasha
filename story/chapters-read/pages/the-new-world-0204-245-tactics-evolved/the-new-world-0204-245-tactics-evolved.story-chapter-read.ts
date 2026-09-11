@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0204245TacticsEvolved = {
   id: "01a06730-4e98-7042-8c93-747d6fbf25bf",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0204-245-tactics-evolved",
   title: "245 Tactics, Evolved",

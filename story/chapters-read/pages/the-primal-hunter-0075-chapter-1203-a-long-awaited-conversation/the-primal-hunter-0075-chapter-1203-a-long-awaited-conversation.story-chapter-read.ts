@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0075Chapter1203ALongAwaitedConversation = {
   id: "01a06730-4df2-7c6a-a50f-e5782be8e659",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0075-chapter-1203-a-long-awaited-conversation",
   title: "Chapter 1203 - A Long-awaited Conversation",

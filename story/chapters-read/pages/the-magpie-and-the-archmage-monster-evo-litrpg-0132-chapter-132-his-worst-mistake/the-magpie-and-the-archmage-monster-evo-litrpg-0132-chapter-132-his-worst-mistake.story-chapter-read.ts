@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0132Chapter132HisWorstMistake = {
   id: "01a06730-4fe2-7530-8cbf-bdae34916b11",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0132-chapter-132-his-worst-mistake",
   title: "Chapter 132 – His Worst Mistake",

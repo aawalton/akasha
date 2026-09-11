@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0292333Leviathan7 = {
   id: "01a06730-4ec2-7443-8541-ed493daea3b2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0292-333-leviathan-7",
   title: "333 Leviathan-7",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0102Chapter102TwoPillars = {
   id: "01a06730-4fe1-7e3a-82d3-7d9be4f5daf2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0102-chapter-102-two-pillars",
   title: "Chapter 102 – Two Pillars",

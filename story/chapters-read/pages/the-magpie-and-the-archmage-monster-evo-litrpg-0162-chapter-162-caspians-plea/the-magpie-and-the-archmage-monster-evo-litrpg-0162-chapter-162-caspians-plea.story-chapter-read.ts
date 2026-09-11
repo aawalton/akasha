@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0162Chapter162CaspiansPlea = {
   id: "01a06730-4fe4-7892-a05b-dc284a76dc25",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0162-chapter-162-caspians-plea",
   title: "Chapter 162 – Caspian's Plea",

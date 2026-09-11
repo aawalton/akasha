@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0090Chapter90APerfectImitation = {
   id: "01a06730-4fe0-7c33-95d0-05c0f99bbbaf",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0090-chapter-90-a-perfect-imitation",
   title: "Chapter 90 – A Perfect Imitation",

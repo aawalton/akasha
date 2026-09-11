@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0045Chapter45TheFallOfDamienStolte = {
   id: "01a06730-4fdf-7df4-ae1e-61a49b5bb238",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0045-chapter-45-the-fall-of-damien-stolte",
   title: "Chapter 45 – The Fall of Damien Stolte",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0427467AmassingTerritory = {
   id: "01a06730-4f11-7a11-8091-f8221b92d45f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0427-467-amassing-territory",
   title: "467 Amassing Territory",

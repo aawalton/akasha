@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0125Chapter125TheMagpiesWarning = {
   id: "01a06730-4fe2-7eab-af78-a15a23b968be",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0125-chapter-125-the-magpies-warning",
   title: "Chapter 125 – The Magpie's Warning",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0337378AHopefulDeath = {
   id: "01a06730-4ed2-7fae-922b-04669ca2f683",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0337-378-a-hopeful-death",
   title: "378 A Hopeful Death",

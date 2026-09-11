@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0112153WhatOnceWas = {
   id: "01a06730-4e6b-77c1-a79d-f70b7febdad5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0112-153-what-once-was",
   title: "153 What Once Was",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0372412ReforgingAMind = {
   id: "01a06730-4ee6-7e7e-b58d-621b844257b3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0372-412-reforging-a-mind",
   title: "412 Reforging a Mind",

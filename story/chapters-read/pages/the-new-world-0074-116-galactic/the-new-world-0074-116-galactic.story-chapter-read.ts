@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0074116Galactic = {
   id: "01a06730-4e5c-714e-89da-27109b9ec31b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0074-116-galactic",
   title: "116 Galactic",

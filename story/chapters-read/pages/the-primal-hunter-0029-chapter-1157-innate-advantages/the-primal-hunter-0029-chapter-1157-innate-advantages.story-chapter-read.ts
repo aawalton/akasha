@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0029Chapter1157InnateAdvantages = {
   id: "01a06730-4dd9-75da-8f13-9bb3ebd66e9c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0029-chapter-1157-innate-advantages",
   title: "Chapter 1157 - Innate Advantages",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0404444RitualsAndCultures = {
   id: "01a06730-4f00-7600-af14-d997024f905f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0404-444-rituals-and-cultures",
   title: "444 Rituals and Cultures",

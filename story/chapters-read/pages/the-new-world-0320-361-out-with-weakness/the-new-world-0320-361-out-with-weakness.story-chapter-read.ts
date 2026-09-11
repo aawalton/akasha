@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0320361OutWithWeakness = {
   id: "01a06730-4ecd-79b8-b895-439a31ad586f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0320-361-out-with-weakness",
   title: "361 Out With Weakness",

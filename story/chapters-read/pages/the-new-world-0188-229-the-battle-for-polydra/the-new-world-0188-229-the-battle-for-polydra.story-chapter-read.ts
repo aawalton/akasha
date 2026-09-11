@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0188229TheBattleForPolydra = {
   id: "01a06730-4e93-7c22-8d55-f8e595daa1e0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0188-229-the-battle-for-polydra",
   title: "229 The Battle for Polydra",

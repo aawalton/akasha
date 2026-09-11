@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0001Chapter1AnotherMondayMorning = {
   id: "01a06730-4dc7-7fa7-b6dd-ffb72c137363",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0001-chapter-1-another-monday-morning",
   title: "Chapter 1 - Another Monday morning",

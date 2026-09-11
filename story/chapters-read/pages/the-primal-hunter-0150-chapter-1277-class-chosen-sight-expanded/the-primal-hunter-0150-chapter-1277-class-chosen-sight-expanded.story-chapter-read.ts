@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0150Chapter1277ClassChosenSightExpanded = {
   id: "01a06730-4e14-7d28-aba6-c97b8e79df31",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0150-chapter-1277-class-chosen-sight-expanded",
   title: "Chapter 1277 - Class Chosen, Sight Expanded",

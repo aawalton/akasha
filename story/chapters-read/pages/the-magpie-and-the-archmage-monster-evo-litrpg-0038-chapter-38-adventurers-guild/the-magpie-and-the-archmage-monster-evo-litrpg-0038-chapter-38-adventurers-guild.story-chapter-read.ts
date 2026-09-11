@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0038Chapter38AdventurersGuild = {
   id: "01a06730-4fdf-785b-92d6-319172739f12",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0038-chapter-38-adventurers-guild",
   title: "Chapter 38 – Adventurer's Guild",

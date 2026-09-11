@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0258299AShiningMassacre = {
   id: "01a06730-4eb8-7ce9-bac4-9eb3158d5fee",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0258-299-a-shining-massacre",
   title: "299 A Shining Massacre",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0128Chapter128SuspicionAndSilence = {
   id: "01a06730-4fe2-7965-a7a6-2800ffb0216e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0128-chapter-128-suspicion-and-silence",
   title: "Chapter 128 – Suspicion and Silence",

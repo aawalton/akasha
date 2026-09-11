@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0055Chapter1183OperationMoonfall = {
   id: "01a06730-4de7-71dc-b176-5918d0e6b697",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0055-chapter-1183-operation-moonfall",
   title: "Chapter 1183 - Operation: Moonfall",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0034Chapter34MagicTraining = {
   id: "01a06730-4fdf-7993-aeca-e6c74fd3efc6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0034-chapter-34-magic-training",
   title: "Chapter 34 – Magic Training",

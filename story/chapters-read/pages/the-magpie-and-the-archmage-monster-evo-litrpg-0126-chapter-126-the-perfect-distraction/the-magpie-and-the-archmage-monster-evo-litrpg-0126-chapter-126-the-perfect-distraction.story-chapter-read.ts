@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0126Chapter126ThePerfectDistraction = {
   id: "01a06730-4fe2-7640-a812-5a13f0ca9354",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0126-chapter-126-the-perfect-distraction",
   title: "Chapter 126 – The Perfect Distraction",

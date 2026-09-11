@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0097138ProdigyOfWar = {
   id: "01a06730-4e63-7a80-a1d1-2a08c3886815",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0097-138-prodigy-of-war",
   title: "138 Prodigy of War",

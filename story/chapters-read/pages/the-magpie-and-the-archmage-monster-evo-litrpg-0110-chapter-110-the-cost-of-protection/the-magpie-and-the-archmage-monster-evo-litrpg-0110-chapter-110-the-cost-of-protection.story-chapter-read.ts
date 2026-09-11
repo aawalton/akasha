@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0110Chapter110TheCostOfProtection = {
   id: "01a06730-4fe1-7268-be5d-46790cfb551d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0110-chapter-110-the-cost-of-protection",
   title: "Chapter 110 – The Cost of Protection",

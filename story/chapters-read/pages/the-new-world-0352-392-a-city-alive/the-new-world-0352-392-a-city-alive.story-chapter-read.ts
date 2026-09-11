@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0352392ACityAlive = {
   id: "01a06730-4ed8-7d7a-b6dd-3747892ca45b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0352-392-a-city-alive",
   title: "392  A City Alive",

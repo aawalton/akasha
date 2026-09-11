@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0109Chapter109DaintyBeasties = {
   id: "01a06730-4fe1-7d08-b34c-d9dcf8638929",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0109-chapter-109-dainty-beasties",
   title: "Chapter 109 – Dainty Beasties",

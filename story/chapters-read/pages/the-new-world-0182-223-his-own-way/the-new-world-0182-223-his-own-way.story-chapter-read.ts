@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0182223HisOwnWay = {
   id: "01a06730-4e90-72a2-8b33-9218845fe27c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0182-223-his-own-way",
   title: "223 His Own Way",

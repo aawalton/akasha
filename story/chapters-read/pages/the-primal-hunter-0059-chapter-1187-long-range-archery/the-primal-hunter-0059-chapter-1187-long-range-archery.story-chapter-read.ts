@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0059Chapter1187LongRangeArchery = {
   id: "01a06730-4de9-7c04-8cdb-cdd032d541e4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0059-chapter-1187-long-range-archery",
   title: "Chapter 1187 - Long Range Archery",

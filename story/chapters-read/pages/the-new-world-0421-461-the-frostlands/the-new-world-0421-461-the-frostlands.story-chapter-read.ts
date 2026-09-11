@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0421461TheFrostlands = {
   id: "01a06730-4f0c-7a24-acdb-1127701df3ee",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0421-461-the-frostlands",
   title: "461 The Frostlands",

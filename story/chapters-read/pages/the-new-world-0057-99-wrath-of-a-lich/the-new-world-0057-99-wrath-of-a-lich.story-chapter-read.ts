@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld005799WrathOfALich = {
   id: "01a06730-4e50-7827-bc29-a40a8cb97737",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0057-99-wrath-of-a-lich",
   title: "99 Wrath of a Lich",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0134175EyeOfTheStorm = {
   id: "01a06730-4e79-7c5b-be9d-7bf10d4a7636",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0134-175-eye-of-the-storm",
   title: "175 Eye of The Storm",

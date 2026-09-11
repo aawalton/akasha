@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0137Chapter137NewFormNewProblems = {
   id: "01a06730-4fe2-7dc2-8549-0a75c66cc033",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0137-chapter-137-new-form-new-problems",
   title: "Chapter 137 – New Form, New Problems",

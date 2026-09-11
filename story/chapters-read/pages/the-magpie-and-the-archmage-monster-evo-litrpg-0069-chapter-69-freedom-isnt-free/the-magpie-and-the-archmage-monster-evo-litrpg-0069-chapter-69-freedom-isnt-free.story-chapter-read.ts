@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0069Chapter69FreedomIsntFree = {
   id: "01a06730-4fe0-776a-858e-de39db38f797",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0069-chapter-69-freedom-isnt-free",
   title: "Chapter 69 – Freedom Isn't Free",

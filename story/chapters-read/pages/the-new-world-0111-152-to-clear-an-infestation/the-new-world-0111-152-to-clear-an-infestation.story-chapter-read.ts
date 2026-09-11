@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0111152ToClearAnInfestation = {
   id: "01a06730-4e6a-7259-9f2c-fc914bd56265",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0111-152-to-clear-an-infestation",
   title: "152 To Clear an Infestation",

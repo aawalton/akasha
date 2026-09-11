@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0239280ADifferentLife = {
   id: "01a06730-4eab-7c68-8002-1b10c6d06a1e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0239-280-a-different-life",
   title: "280 A Different Life",

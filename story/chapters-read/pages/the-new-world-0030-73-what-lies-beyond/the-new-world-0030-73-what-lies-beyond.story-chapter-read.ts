@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld003073WhatLiesBeyond = {
   id: "01a06730-4e43-75c1-90f0-626029e5bcd5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0030-73-what-lies-beyond",
   title: "73 What Lies Beyond",

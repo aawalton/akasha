@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0077Chapter1205QuestionableTrip = {
   id: "01a06730-4df2-7ab8-b809-c02a9e3a7620",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0077-chapter-1205-questionable-trip",
   title: "Chapter 1205 - Questionable Trip",

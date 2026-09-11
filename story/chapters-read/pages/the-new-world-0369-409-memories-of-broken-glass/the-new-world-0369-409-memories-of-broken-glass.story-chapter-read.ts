@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0369409MemoriesOfBrokenGlass = {
   id: "01a06730-4ee4-7090-bee9-2f371cfa5dd2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0369-409-memories-of-broken-glass",
   title: "409 Memories Of Broken Glass",

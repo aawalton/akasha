@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0272313AncientAndVenerable = {
   id: "01a06730-4ebe-7ef6-9183-5de88a811d81",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0272-313-ancient-and-venerable",
   title: "313 Ancient and Venerable",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0260301AnAbdication = {
   id: "01a06730-4eb9-75d9-96aa-9add71a7fa18",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0260-301-an-abdication",
   title: "301 An Abdication",

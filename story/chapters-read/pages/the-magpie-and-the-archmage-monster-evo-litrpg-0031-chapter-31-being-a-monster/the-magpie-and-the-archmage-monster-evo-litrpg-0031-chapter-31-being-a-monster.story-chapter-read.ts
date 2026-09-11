@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0031Chapter31BeingAMonster = {
   id: "01a06730-4fde-7101-872d-8b4e9474056e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0031-chapter-31-being-a-monster",
   title: "Chapter 31 – Being a Monster",

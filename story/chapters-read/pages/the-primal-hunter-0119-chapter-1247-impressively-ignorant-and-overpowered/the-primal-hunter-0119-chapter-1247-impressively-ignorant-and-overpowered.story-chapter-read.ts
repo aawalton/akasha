@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0119Chapter1247ImpressivelyIgnorantAndOverpowered = {
   id: "01a06730-4e09-7368-ad0e-0db82d034598",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0119-chapter-1247-impressively-ignorant-and-overpowered",
   title: "Chapter 1247 - Impressively Ignorant & Overpowered",

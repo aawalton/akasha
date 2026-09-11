@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0012Chapter12Blightstone = {
   id: "01a06730-4fde-7ecf-92ff-e24bc00c74cd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0012-chapter-12-blightstone",
   title: "Chapter 12 – Blightstone",

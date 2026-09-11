@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0095136TheSoundOfThunder = {
   id: "01a06730-4e62-72f1-995d-b8c065774428",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0095-136-the-sound-of-thunder",
   title: "136 The Sound of Thunder",

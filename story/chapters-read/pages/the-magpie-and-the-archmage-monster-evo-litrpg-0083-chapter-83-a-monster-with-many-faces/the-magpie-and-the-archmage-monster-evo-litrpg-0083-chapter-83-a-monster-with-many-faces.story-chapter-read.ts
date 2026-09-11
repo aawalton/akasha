@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0083Chapter83AMonsterWithManyFaces = {
   id: "01a06730-4fe0-72dc-9850-86f4d0497e60",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0083-chapter-83-a-monster-with-many-faces",
   title: "Chapter 83 – A Monster With Many Faces",

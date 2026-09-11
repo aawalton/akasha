@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0296337ScorchedEarthAndShiningSoil = {
   id: "01a06730-4ec3-71e7-9d16-42bb66e366ce",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0296-337-scorched-earth-and-shining-soil",
   title: "337 Scorched Earth and Shining Soil",

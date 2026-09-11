@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0126Chapter1254FinallyFinalBossTime = {
   id: "01a06730-4e0c-7b24-b8b8-d06971e2c3a8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0126-chapter-1254-finally-final-boss-time",
   title: "Chapter 1254 - Finally Final Boss Time",

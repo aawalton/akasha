@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0107Chapter107PointBlank = {
   id: "01a06730-4fe1-7266-956e-426c8738e378",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0107-chapter-107-point-blank",
   title: "Chapter 107 – Point Blank",

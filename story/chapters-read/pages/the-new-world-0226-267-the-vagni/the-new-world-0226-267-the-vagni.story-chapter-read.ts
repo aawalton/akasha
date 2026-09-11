@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0226267TheVagni = {
   id: "01a06730-4ea2-7cff-9c21-d44aec77a9a9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0226-267-the-vagni",
   title: "267 The Vagni",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0158Chapter1285ASeasonedSwordsman = {
   id: "01a06730-4e17-7607-b164-a18ba9249f76",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0158-chapter-1285-a-seasoned-swordsman",
   title: "Chapter 1285 - A Seasoned Swordsman",

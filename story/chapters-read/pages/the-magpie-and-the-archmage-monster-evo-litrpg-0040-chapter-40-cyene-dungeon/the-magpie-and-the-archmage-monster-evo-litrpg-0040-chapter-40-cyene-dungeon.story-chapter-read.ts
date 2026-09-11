@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0040Chapter40CyeneDungeon = {
   id: "01a06730-4fdf-766e-ae20-49b2bab0367d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0040-chapter-40-cyene-dungeon",
   title: "Chapter 40 – Cyene Dungeon",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0364404TheAbyssalChasm = {
   id: "01a06730-4ee1-7c46-b92d-983520b9390f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0364-404-the-abyssal-chasm",
   title: "404 The Abyssal Chasm",

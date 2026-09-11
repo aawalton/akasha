@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0102143Free = {
   id: "01a06730-4e65-754f-a6a7-3dd203da910f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0102-143-free",
   title: "143 Free",

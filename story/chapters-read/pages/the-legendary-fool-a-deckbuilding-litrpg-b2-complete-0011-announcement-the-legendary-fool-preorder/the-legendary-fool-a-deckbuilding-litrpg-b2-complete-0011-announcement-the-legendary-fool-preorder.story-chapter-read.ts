@@ -3,7 +3,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 export const theLegendaryFoolADeckbuildingLitrpgB2Complete0011AnnouncementTheLegendaryFoolPreorder =
   {
     id: "01a06730-4e2b-7e53-b5d2-df6680b8e82a",
-    pageTypeSlug: "story-chapter-read",
     type: "story-chapter-read",
     slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0011-announcement-the-legendary-fool-preorder",
     title: "Announcement: The Legendary Fool Preorder",

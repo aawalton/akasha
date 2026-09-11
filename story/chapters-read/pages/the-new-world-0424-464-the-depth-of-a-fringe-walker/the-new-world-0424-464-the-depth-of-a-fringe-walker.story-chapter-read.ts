@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0424464TheDepthOfAFringeWalker = {
   id: "01a06730-4f0f-715d-865f-e75eaa5d8177",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0424-464-the-depth-of-a-fringe-walker",
   title: "464  The Depth of a Fringe Walker",

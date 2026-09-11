@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0074Chapter74TheReturnOfTheSpider = {
   id: "01a06730-4fe0-7450-b854-40c9d6e3a1d1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0074-chapter-74-the-return-of-the-spider",
   title: "Chapter 74 – The Return of The Spider",

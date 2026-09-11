@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0112Chapter112StaringContest = {
   id: "01a06730-4fe1-7507-ae98-6eb42aa1cbab",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0112-chapter-112-staring-contest",
   title: "Chapter 112 – Staring Contest",

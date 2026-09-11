@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0159Chapter159ACrackInTheCage = {
   id: "01a06730-4fe3-7c17-9545-29d5c74da34b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0159-chapter-159-a-crack-in-the-cage",
   title: "Chapter 159 – A Crack in the Cage",

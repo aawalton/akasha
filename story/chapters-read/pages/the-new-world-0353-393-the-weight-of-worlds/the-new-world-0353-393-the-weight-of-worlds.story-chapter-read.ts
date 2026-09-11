@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0353393TheWeightOfWorlds = {
   id: "01a06730-4ed8-7de1-85cc-3b435af7e77c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0353-393-the-weight-of-worlds",
   title: "393 The Weight of Worlds",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0057Chapter57BeetleTrial = {
   id: "01a06730-4fdf-7a4f-b4de-73d434dfd5c6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0057-chapter-57-beetle-trial",
   title: "Chapter 57 – Beetle Trial",

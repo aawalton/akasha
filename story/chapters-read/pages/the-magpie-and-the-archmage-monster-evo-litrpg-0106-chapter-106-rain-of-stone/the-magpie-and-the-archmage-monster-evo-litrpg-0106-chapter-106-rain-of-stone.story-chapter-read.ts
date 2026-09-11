@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0106Chapter106RainOfStone = {
   id: "01a06730-4fe1-76ef-b7d6-0591e5929cff",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0106-chapter-106-rain-of-stone",
   title: "Chapter 106 – Rain of Stone",

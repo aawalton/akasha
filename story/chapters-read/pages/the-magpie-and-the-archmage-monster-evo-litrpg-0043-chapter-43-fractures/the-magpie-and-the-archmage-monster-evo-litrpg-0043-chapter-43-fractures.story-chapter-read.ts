@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0043Chapter43Fractures = {
   id: "01a06730-4fdf-74a5-8ec6-f8b18c8a2cf5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0043-chapter-43-fractures",
   title: "Chapter 43 – Fractures",

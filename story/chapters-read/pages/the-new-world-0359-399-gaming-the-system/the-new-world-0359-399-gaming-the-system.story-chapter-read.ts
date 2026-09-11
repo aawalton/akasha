@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0359399GamingTheSystem = {
   id: "01a06730-4ede-71f2-b213-a11bee56c512",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0359-399-gaming-the-system",
   title: "399 Gaming the System",

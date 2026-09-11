@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0285326APrimordialPlayground = {
   id: "01a06730-4ec1-74eb-9199-9db43fd341ac",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0285-326-a-primordial-playground",
   title: "326 A Primordial Playground",

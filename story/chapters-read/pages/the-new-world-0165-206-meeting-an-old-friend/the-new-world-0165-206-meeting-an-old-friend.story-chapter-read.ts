@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0165206MeetingAnOldFriend = {
   id: "01a06730-4e86-7b43-b799-e2429e11d778",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0165-206-meeting-an-old-friend",
   title: "206 Meeting an Old Friend",

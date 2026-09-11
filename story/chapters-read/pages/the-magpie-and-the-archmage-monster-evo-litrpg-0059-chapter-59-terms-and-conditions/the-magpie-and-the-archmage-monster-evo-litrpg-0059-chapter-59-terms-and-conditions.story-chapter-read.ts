@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0059Chapter59TermsAndConditions = {
   id: "01a06730-4fdf-7a7b-bf0b-7f91aba654ea",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0059-chapter-59-terms-and-conditions",
   title: "Chapter 59 – Terms and Conditions",

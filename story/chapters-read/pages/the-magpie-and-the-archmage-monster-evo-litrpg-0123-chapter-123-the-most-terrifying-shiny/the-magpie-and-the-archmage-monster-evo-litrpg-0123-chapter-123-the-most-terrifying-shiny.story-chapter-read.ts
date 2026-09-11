@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0123Chapter123TheMostTerrifyingShiny = {
   id: "01a06730-4fe2-70a9-bdbe-9b1f604cad44",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0123-chapter-123-the-most-terrifying-shiny",
   title: "Chapter 123 – The Most Terrifying Shiny",

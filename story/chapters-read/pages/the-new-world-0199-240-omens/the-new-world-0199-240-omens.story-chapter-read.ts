@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0199240Omens = {
   id: "01a06730-4e96-7f7a-965c-ee94973090fc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0199-240-omens",
   title: "240 Omens",

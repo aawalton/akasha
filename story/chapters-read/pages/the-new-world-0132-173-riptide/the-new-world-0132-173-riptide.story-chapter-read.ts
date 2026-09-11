@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0132173Riptide = {
   id: "01a06730-4e79-7912-bfa7-0f39a25f2058",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0132-173-riptide",
   title: "173 Riptide",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0311352ClashingKingdoms = {
   id: "01a06730-4eca-7448-9788-9643d316beb3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0311-352-clashing-kingdoms",
   title: "352 Clashing Kingdoms",

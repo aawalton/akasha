@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0060102Respite = {
   id: "01a06730-4e52-7692-a5c8-e9c146ca740a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0060-102-respite",
   title: "102 Respite",

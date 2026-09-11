@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0278319AHivemindSPotential = {
   id: "01a06730-4ebf-75e3-ab12-ae3a59e820f6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0278-319-a-hivemind-s-potential",
   title: "319 A Hivemind's Potential",

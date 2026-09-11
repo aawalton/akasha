@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0098Chapter98BeneathSeabloomIsland = {
   id: "01a06730-4fe1-7915-8739-f1aae623730b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0098-chapter-98-beneath-seabloom-island",
   title: "Chapter 98 – Beneath Seabloom Island",

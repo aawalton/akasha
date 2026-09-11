@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0042Chapter42MaskSlips = {
   id: "01a06730-4fdf-7c02-ae01-4df3c657be27",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0042-chapter-42-mask-slips",
   title: "Chapter 42 – Mask Slips",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0240281WielderOfMonsters = {
   id: "01a06730-4eab-7c0e-aa32-ec17797b9372",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0240-281-wielder-of-monsters",
   title: "281 Wielder of Monsters",

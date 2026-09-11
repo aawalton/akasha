@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld000750PiecesOfThePuzzle = {
   id: "01a06730-4e31-73a3-ba67-c53fefe0424f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0007-50-pieces-of-the-puzzle",
   title: "50 Pieces of the Puzzle",

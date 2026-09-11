@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0162Chapter1365NineTenLeafedFlower = {
   id: "01a06730-4e1b-7e7a-9716-f2f3a513536c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0162-chapter-1365-nine-ten-leafed-flower",
   title: "Chapter 1365 - Nine(Ten)-Leafed Flower",

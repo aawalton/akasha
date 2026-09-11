@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0176217AShatteredGod = {
   id: "01a06730-4e8c-79ab-a974-2f9282ac75a1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0176-217-a-shattered-god",
   title: "217 A Shattered God",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0141182AMaskedHistory = {
   id: "01a06730-4e7c-7701-8f0b-8e11edc78e37",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0141-182-a-masked-history",
   title: "182 A Masked History",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0005Chapter5BigPig = {
   id: "01a06730-4dca-7f62-912b-31451b5ce4ef",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0005-chapter-5-big-pig",
   title: "Chapter 5 - Big pig",

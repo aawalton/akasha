@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0067109CalmBeforeTheStorm = {
   id: "01a06730-4e56-77b1-a634-e93fd4fe4b2e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0067-109-calm-before-the-storm",
   title: "109 Calm Before the Storm",

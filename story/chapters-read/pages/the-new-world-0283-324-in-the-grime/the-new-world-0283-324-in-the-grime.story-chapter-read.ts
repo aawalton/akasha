@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0283324InTheGrime = {
   id: "01a06730-4ec0-7597-9547-f8dc86774449",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0283-324-in-the-grime",
   title: "324 In the Grime",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0020Chapter1148ThePowerOfBlood = {
   id: "01a06730-4dd2-7e6f-91cb-cc78394fa071",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0020-chapter-1148-the-power-of-blood",
   title: "Chapter 1148 - The Power of Blood",

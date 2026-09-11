@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0343383GolemicProgenitor = {
   id: "01a06730-4ed4-7678-8132-98a43ddd7afd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0343-383-golemic-progenitor",
   title: "383 Golemic Progenitor",

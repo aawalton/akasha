@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0265306FittingRightIn = {
   id: "01a06730-4ebb-779f-87cd-e7c43271e71f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0265-306-fitting-right-in",
   title: "306 Fitting Right In",

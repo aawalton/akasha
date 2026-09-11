@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0171Chapter1298AmbushingThePursuers = {
   id: "01a06730-4e21-7dd9-a524-8846bd9568e9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0171-chapter-1298-ambushing-the-pursuers",
   title: "Chapter 1298 - Ambushing The Pursuers",

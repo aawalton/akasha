@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0099Chapter1227AFundamentalEvolutionaryDifference = {
   id: "01a06730-4dfc-7af5-aa28-9989c60c62a6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0099-chapter-1227-a-fundamental-evolutionary-difference",
   title: "Chapter 1227 - A Fundamental Evolutionary Difference",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0125Chapter1253RisingTide = {
   id: "01a06730-4e0c-7ea4-8a4a-a045f667d768",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0125-chapter-1253-rising-tide",
   title: "Chapter 1253 - Rising Tide",

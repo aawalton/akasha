@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0122163ADarkPlan = {
   id: "01a06730-4e73-7fda-8047-ca642f83a6e9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0122-163-a-dark-plan",
   title: "163 A Dark Plan",

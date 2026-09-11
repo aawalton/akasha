@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0175216TheHeavensWeep = {
   id: "01a06730-4e8a-71bd-a969-b5b0a23a6cda",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0175-216-the-heavens-weep",
   title: "216 The Heavens Weep",

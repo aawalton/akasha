@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0035Chapter1163RoyalDecree = {
   id: "01a06730-4ddc-7fef-a52b-cc1cc345feb7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0035-chapter-1163-royal-decree",
   title: "Chapter 1163 - Royal Decree",

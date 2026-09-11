@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0276317HeresyUnveiled = {
   id: "01a06730-4ebf-7ba9-9f33-ef4fcc304ba8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0276-317-heresy-unveiled",
   title: "317 Heresy Unveiled",

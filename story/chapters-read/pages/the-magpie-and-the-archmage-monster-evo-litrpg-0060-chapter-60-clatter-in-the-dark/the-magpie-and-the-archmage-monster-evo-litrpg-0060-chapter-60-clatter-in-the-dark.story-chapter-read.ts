@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0060Chapter60ClatterInTheDark = {
   id: "01a06730-4fdf-7e18-819d-62214b2e5048",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0060-chapter-60-clatter-in-the-dark",
   title: "Chapter 60 – Clatter in the Dark",

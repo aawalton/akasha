@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0129Chapter129PreciousGlimmerstones = {
   id: "01a06730-4fe2-7ebf-bcc9-7c23ec471405",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0129-chapter-129-precious-glimmerstones",
   title: "Chapter 129 – Precious Glimmerstones",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0133Chapter133WhereFireLives = {
   id: "01a06730-4fe2-7365-9e06-593cee081c3a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0133-chapter-133-where-fire-lives",
   title: "Chapter 133 – Where Fire Lives",

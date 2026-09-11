@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theLegendaryFoolADeckbuildingLitrpgB2Complete0013LegendaryFool1IsOutOnKindle = {
   id: "01a06730-4e2b-709e-a81f-0eaf590e7641",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0013-legendary-fool-1-is-out-on-kindle",
   title: "Legendary Fool 1 is out on Kindle Unlimited and Audible!",

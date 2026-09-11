@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld005698ToCorrupt = {
   id: "01a06730-4e50-7e67-93b5-058277e7dc89",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0056-98-to-corrupt",
   title: "98 To Corrupt",

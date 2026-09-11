@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0175AShamefulMarketingMessage = {
   id: "01a06730-4e24-7903-9ecb-4a80627f3089",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0175-a-shameful-marketing-message",
   title: "A Shameful Marketing Message",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0066Chapter66TheUnyieldingBadger = {
   id: "01a06730-4fe0-7dbe-b1d4-dd588374fa79",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0066-chapter-66-the-unyielding-badger",
   title: "Chapter 66 – The Unyielding Badger",

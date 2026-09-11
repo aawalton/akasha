@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0273314ThinkingAhead = {
   id: "01a06730-4ebe-790f-86de-addc63d7f466",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0273-314-thinking-ahead",
   title: "314 Thinking Ahead",

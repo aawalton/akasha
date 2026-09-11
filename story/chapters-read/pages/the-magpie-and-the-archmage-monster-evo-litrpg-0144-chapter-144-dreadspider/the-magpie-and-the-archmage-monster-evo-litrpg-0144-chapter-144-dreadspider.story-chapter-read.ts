@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0144Chapter144Dreadspider = {
   id: "01a06730-4fe3-7020-b2bc-cb10befae685",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0144-chapter-144-dreadspider",
   title: "Chapter 144 – Dreadspider",

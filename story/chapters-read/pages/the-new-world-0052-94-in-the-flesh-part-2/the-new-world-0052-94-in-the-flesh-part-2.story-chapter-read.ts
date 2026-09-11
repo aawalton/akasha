@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld005294InTheFleshPart2 = {
   id: "01a06730-4e4e-71da-88ca-d097d3dd48a1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0052-94-in-the-flesh-part-2",
   title: "94 In the Flesh(part 2)",

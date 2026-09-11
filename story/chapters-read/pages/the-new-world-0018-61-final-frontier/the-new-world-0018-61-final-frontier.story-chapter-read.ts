@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld001861FinalFrontier = {
   id: "01a06730-4e3a-75c5-8fee-85e9899cc715",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0018-61-final-frontier",
   title: "61 Final Frontier",

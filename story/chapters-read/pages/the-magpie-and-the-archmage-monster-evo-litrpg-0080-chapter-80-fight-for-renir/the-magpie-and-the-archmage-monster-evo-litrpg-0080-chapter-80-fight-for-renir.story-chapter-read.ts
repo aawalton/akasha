@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0080Chapter80FightForRenir = {
   id: "01a06730-4fe0-7e0e-8c54-2a9171d179ae",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0080-chapter-80-fight-for-renir",
   title: "Chapter 80 – Fight for Renir",

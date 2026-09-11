@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0102Chapter1230ALuckyMan = {
   id: "01a06730-4dfd-7123-9527-388606f676ab",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0102-chapter-1230-a-lucky-man",
   title: "Chapter 1230 - A Lucky Man",

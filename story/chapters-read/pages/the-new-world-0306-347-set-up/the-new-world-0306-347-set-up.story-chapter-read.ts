@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0306347SetUp = {
   id: "01a06730-4ec8-79cf-8372-d3a3481481ad",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0306-347-set-up",
   title: "347 Set Up",

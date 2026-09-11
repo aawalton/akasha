@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0371411CaughtInACycle = {
   id: "01a06730-4ee5-7432-967c-c1f13c6a034e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0371-411-caught-in-a-cycle",
   title: "411 Caught In a Cycle",

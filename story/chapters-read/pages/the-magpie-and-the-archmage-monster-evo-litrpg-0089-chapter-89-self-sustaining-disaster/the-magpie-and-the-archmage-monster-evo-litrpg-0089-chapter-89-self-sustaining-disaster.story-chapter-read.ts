@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0089Chapter89SelfSustainingDisaster = {
   id: "01a06730-4fe0-7fbb-8c34-0846898a8cb8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0089-chapter-89-self-sustaining-disaster",
   title: "Chapter 89 – Self-Sustaining Disaster",

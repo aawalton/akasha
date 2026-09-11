@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0046Chapter1174SomethingWorthCelebrating = {
   id: "01a06730-4de4-7e40-bd30-4f6f1dd70f8e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0046-chapter-1174-something-worth-celebrating",
   title: "Chapter 1174 - Something Worth Celebrating",

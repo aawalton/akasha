@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0234275Infinite = {
   id: "01a06730-4ea8-7403-ad54-1f41e5b1cf3e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0234-275-infinite",
   title: "275 Infinite",

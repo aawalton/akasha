@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0145Chapter1272TheGoodMostlyGoodAndBadPartsOfEvolution = {
   id: "01a06730-4e13-7f1d-a63c-03678c086067",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0145-chapter-1272-the-good-mostly-good-and-bad-parts-of-evolution",
   title: "Chapter 1272 - The Good (Mostly Good) And Bad Parts of Evolution",

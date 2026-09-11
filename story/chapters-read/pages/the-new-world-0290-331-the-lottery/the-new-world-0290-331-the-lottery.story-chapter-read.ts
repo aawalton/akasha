@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theNewWorld0290331TheLottery = {
   id: "01a06730-4ec2-7d93-8b05-45854ec43d22",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-new-world-0290-331-the-lottery",
   title: "331 The Lottery",

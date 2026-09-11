@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0074Chapter1202TheOlderAndWiserFriend = {
   id: "01a06730-4df1-7ff3-a5a5-33f613d1d2f2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0074-chapter-1202-the-older-and-wiser-friend",
   title: "Chapter 1202 - The Older & Wiser Friend",

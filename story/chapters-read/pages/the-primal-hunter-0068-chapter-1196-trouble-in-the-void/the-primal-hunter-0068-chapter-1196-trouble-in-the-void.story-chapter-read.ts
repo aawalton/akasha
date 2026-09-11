@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0068Chapter1196TroubleInTheVoid = {
   id: "01a06730-4def-79d8-9f4b-a56a5b193d7c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0068-chapter-1196-trouble-in-the-void",
   title: "Chapter 1196 - Trouble In the Void",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0136Chapter1263HowToTrainAGeneration = {
   id: "01a06730-4e10-786d-9e58-b52a4dabfbed",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0136-chapter-1263-how-to-train-a-generation",
   title: "Chapter 1263 - How To Train A Generation",

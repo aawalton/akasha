@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thePrimalHunter0177Chapter1380ADeviouslyDeliciousPlan = {
   id: "01a09138-0ecd-78fb-9015-1cde6c277aa2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-primal-hunter-0177-chapter-1380-a-deviously-delicious-plan",
   position: 177,

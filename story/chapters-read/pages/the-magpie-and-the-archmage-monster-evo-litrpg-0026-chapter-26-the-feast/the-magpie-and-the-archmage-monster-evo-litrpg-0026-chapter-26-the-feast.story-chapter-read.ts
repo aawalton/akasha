@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0026Chapter26TheFeast = {
   id: "01a06730-4fde-74a7-bf27-af03af4cba41",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0026-chapter-26-the-feast",
   title: "Chapter 26 – The Feast",
