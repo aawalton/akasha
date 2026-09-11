@@ -1,4 +1,4 @@
-import type { AllData } from "../treasure-types/treasure-types.module.code.ts"
+import type { AllData } from "akasha/temper/lib-treasure/treasure-types/treasure-types.module.code.ts"
 
 export const TREASURE_PINS_03: AllData = {
   [1349]: {

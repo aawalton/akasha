@@ -1,7 +1,7 @@
-import { buildDerivedData } from "../treasure-build-data/treasure-build-data.module.code.ts"
-import { LIB_NAME } from "../treasure-constants/treasure-constants.module.code.ts"
-import { ICONS } from "../treasure-icons/treasure-icons.module.code.ts"
-import type { LibTreasureTable } from "../treasure-types/treasure-types.module.code.ts"
+import { buildDerivedData } from "akasha/temper/lib-treasure/treasure-build-data/treasure-build-data.module.code.ts"
+import { LIB_NAME } from "akasha/temper/lib-treasure/treasure-constants/treasure-constants.module.code.ts"
+import { ICONS } from "akasha/temper/lib-treasure/treasure-icons/treasure-icons.module.code.ts"
+import type { LibTreasureTable } from "akasha/temper/lib-treasure/treasure-types/treasure-types.module.code.ts"
 
 function getAddonVersion(this: void): number | undefined {
   const addOnManager = GetAddOnManager()

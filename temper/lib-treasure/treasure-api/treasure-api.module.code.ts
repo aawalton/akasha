@@ -1,7 +1,7 @@
-import { asNumber } from "../treasure-casts/treasure-casts.module.code.ts"
-import { ICONS } from "../treasure-icons/treasure-icons.module.code.ts"
-import { LIB } from "../treasure-lib-state/treasure-lib-state.module.code.ts"
-import type { PinRecord } from "../treasure-types/treasure-types.module.code.ts"
+import { asNumber } from "akasha/temper/lib-treasure/treasure-casts/treasure-casts.module.code.ts"
+import { ICONS } from "akasha/temper/lib-treasure/treasure-icons/treasure-icons.module.code.ts"
+import { LIB } from "akasha/temper/lib-treasure/treasure-lib-state/treasure-lib-state.module.code.ts"
+import type { PinRecord } from "akasha/temper/lib-treasure/treasure-types/treasure-types.module.code.ts"
 
 export function libTreasureGetAllItemsData(this: void): Record<number, PinRecord> {
   return LIB.data.ITEMS_DATA

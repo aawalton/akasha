@@ -6,9 +6,9 @@ import {
   libTreasureGetItemIdData,
   libTreasureGetMapIdData,
   libTreasureGetTextureData,
-} from "../treasure-api/treasure-api.module.code.ts"
-import type { GlobalTable } from "../treasure-casts/treasure-casts.module.code.ts"
-import { LIB } from "../treasure-lib-state/treasure-lib-state.module.code.ts"
+} from "akasha/temper/lib-treasure/treasure-api/treasure-api.module.code.ts"
+import type { GlobalTable } from "akasha/temper/lib-treasure/treasure-casts/treasure-casts.module.code.ts"
+import { LIB } from "akasha/temper/lib-treasure/treasure-lib-state/treasure-lib-state.module.code.ts"
 
 const glob = globalThis as GlobalTable
 

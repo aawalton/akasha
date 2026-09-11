@@ -1,6 +1,9 @@
-import { BOOK_ID } from "../treasure-book-ids/treasure-book-ids.module.code.ts"
-import { ALL_DATA } from "../treasure-pins-data/treasure-pins-data.module.code.ts"
-import type { LibTreasureData, PinRecord } from "../treasure-types/treasure-types.module.code.ts"
+import { BOOK_ID } from "akasha/temper/lib-treasure/treasure-book-ids/treasure-book-ids.module.code.ts"
+import { ALL_DATA } from "akasha/temper/lib-treasure/treasure-pins-data/treasure-pins-data.module.code.ts"
+import type {
+  LibTreasureData,
+  PinRecord,
+} from "akasha/temper/lib-treasure/treasure-types/treasure-types.module.code.ts"
 
 export function buildDerivedData(this: void): LibTreasureData {
   const itemsData: Record<number, PinRecord> = {}

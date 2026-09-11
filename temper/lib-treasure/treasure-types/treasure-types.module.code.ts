@@ -2,7 +2,7 @@ import type {
   PIN_TYPE_CLUES,
   PIN_TYPE_SURVEYS,
   PIN_TYPE_TREASURE,
-} from "../treasure-constants/treasure-constants.module.code.ts"
+} from "akasha/temper/lib-treasure/treasure-constants/treasure-constants.module.code.ts"
 
 export type PinType = typeof PIN_TYPE_TREASURE | typeof PIN_TYPE_SURVEYS | typeof PIN_TYPE_CLUES
 
