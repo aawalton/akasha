@@ -5,6 +5,7 @@ import {
   rebuiltIn,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
+import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
 import { PUT_BACK } from "../../../commands/modules/change-freshness/change-freshness.module.code.ts"
 import {
   keptAt,
@@ -132,12 +133,8 @@ export function pastTheStamp(line: string): string {
   return line.replace(STAMP, "")
 }
 
-function parseBodyId(found: RegExpExecArray | null): string | null {
-  return found?.[1] ?? null
-}
-
 export function idIn(body: string): string | null {
-  return parseBodyId(/\n {2}id: "([^"]+)",/.exec(body))
+  return firstCapture(/\n {2}id: "([^"]+)",/.exec(body))
 }
 
 export function landedUnder(root: string, seatName: string, own: string): string {
