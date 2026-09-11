@@ -1,7 +1,7 @@
 import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
+import { baseOf, changeOf } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { secretNamed, uncommittedNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { baseOf, changeOf } from "../../../commands/modules/landing/landing.module.code.ts"
 
 export type Named = {
   readonly pageTypeSlug: string

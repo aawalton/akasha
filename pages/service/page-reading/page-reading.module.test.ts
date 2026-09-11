@@ -1,9 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
-import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
-import { namedIn, type Placing, placedIn, reading, refusalIn } from "./page-reading.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
+import {
+  namedIn,
+  type Placing,
+  placedIn,
+  reading,
+  refusalIn,
+} from "akasha/pages/service/page-reading/page-reading.module.code.ts"
 
 const scratch = scratchWorld()
 

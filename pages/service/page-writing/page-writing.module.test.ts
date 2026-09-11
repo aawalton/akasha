@@ -14,7 +14,7 @@ import {
   refusalIn,
   thrownWhy,
   writerFor,
-} from "./page-writing.module.code.ts"
+} from "akasha/pages/service/page-writing/page-writing.module.code.ts"
 
 const SCRATCH_AT = "/var/tmp"
 

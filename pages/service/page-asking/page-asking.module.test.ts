@@ -10,7 +10,7 @@ import {
   type Query,
   shaping,
   titledAs,
-} from "./page-asking.module.code.ts"
+} from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 
 const root = join(import.meta.dir, "..", "..", "..")
 

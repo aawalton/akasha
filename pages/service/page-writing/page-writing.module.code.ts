@@ -3,9 +3,9 @@ import {
   type Asking,
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { mintingOnto } from "akasha/commands/modules/value-minting/value-minting.module.code.ts"
 import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { mintingOnto } from "../../../commands/modules/value-minting/value-minting.module.code.ts"
 
 export type Put = {
   readonly path: string

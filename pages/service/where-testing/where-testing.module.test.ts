@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { bare, matches, weigh } from "./where-testing.module.code.ts"
+import {
+  bare,
+  matches,
+  weigh,
+} from "akasha/pages/service/where-testing/where-testing.module.code.ts"
 
 test("a value holding nothing reads as bare", () => {
   expect(bare(undefined)).toBe(true)

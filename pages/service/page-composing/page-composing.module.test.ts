@@ -1,6 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import {
   besideItsPage,
   endingRefused,
@@ -10,13 +9,14 @@ import {
   orderedIn,
   pathFor,
   slugRefused,
-} from "./page-composing.module.code.ts"
+} from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import {
   HELD_CRATE_ID,
   HELD_THING_BODY,
   HELD_THING_ID,
   ROOT,
-} from "./page-composing.module.test-fixtures.ts"
+} from "akasha/pages/service/page-composing/page-composing.module.test-fixtures.ts"
+import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 
 afterAll(scratch.sweep)
 

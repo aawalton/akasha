@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import { ASK_AT, FILE_AT, READ_AT, WRITE_AT } from "../page-serving/page-serving.module.code.ts"
 import {
   ASK_AT as ASKS,
   ATTEMPTS,
@@ -15,7 +14,13 @@ import {
   type Sleeper,
   WRITE_AT as WRITES,
   writingFor,
-} from "./page-calling.module.code.ts"
+} from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import {
+  ASK_AT,
+  FILE_AT,
+  READ_AT,
+  WRITE_AT,
+} from "akasha/pages/service/page-serving/page-serving.module.code.ts"
 
 const A_FILE = { pageTypeSlug: "persona", slug: "amy", key: "mobileWallpaper" }
 

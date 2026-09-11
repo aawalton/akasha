@@ -1,7 +1,15 @@
-import type { Query, Row, Asked as Rows, Shaped } from "../page-asking/page-asking.module.code.ts"
-import type { Naming } from "../page-composing/page-composing.module.code.ts"
-import type { Read, Asked as Sought } from "../page-reading/page-reading.module.code.ts"
-import type { Put, Wrote } from "../page-writing/page-writing.module.code.ts"
+import type {
+  Query,
+  Row,
+  Asked as Rows,
+  Shaped,
+} from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import type { Naming } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+import type {
+  Read,
+  Asked as Sought,
+} from "akasha/pages/service/page-reading/page-reading.module.code.ts"
+import type { Put, Wrote } from "akasha/pages/service/page-writing/page-writing.module.code.ts"
 
 export const ASK_AT = "/ask"
 
