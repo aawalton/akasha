@@ -1,6 +1,6 @@
 import { readFileSync, statSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
-import type { Value } from "../value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 function newTranspiler() {
   return new Bun.Transpiler({ loader: "ts" })
