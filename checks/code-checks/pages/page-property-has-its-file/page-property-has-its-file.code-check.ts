@@ -68,10 +68,6 @@ export const pagePropertyHasItsFile = {
       invariantKind: "departure",
       statement: "A page the change takes away is passed over.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A file a page has stopped claiming is refused.",
-    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
