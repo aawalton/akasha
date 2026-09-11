@@ -11,12 +11,13 @@ export const dallaDeployCleanup = {
       statement:
         "A deploy is built from a tree pinned at the commit rather than from the working checkout.",
       workingMemory:
-        "A git worktree pinned at the commit shares the object store, so this costs a checkout of the tree rather than a clone. The tree is the commit, so the gate refusing a worktree that differs never fires. A tree an artifact is built from is taken away once the deploy is done, and the one a workstation service runs from is kept.",
+        "A worktree per deploy kind is reset to the commit rather than made afresh, so it costs the files that changed rather than a checkout of the whole tree. The kind's own deploy service is the only thing that moves its tree, so no two deploys race over one. The tree is kept rather than taken away.",
     },
     {
-      statement: "A workstation service runs from a checkout that only its own deploy moves.",
+      statement:
+        "Every workstation service runs from one checkout the workstation deploy alone moves.",
       workingMemory:
-        "The wrapper stops following files and restarting on a change, so nothing unjudged reaches a running service. The deploy moves that checkout to the commit and restarts the unit. The main checkout is the database and the only write target, so the pinned one holds the code a unit runs while the root pages are read and written under stays the main checkout.",
+        "The wrapper stops following files, so nothing unjudged reaches a running service. The whole kind is put up by one deploy named for the kind, judged over the union of every workstation closure. The tree moves once and only the units whose own closure changed are restarted; a scheduled unit reads the tree on its next tick. The main checkout is the database and the only write target, so a unit reads and writes pages under it while running its code out of the pinned one.",
     },
     {
       statement: "One workstation service runs the deploy loops for every service of one kind.",
@@ -38,6 +39,11 @@ export const dallaDeployCleanup = {
     {
       statement:
         "A service is deployed without anyone asking once a commit changes what it is built from.",
+    },
+    {
+      statement: "A deploy loop puts up first the service furthest behind that is able to deploy.",
+      workingMemory:
+        "Furthest behind is the service whose deployed commit is oldest, among those past their cooldown and not held back by a service they depend on. A service nothing can be deployed for is passed over rather than waited on.",
     },
   ],
   constraints: [
