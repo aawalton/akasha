@@ -299,6 +299,12 @@ test("a run closing on a separator keeps that separator once the folder moves", 
   expect(carriedBody(STYLES, SOURCED)).toContain("router-apps/**")
 })
 
+test("a name closing on a separator keeps that separator once the folder moves", () => {
+  const text = `export const at = "code-system/ios-apps/"\n`
+
+  expect(carriedBody(TABLE, text)).toBe(`export const at = "code/ios-apps/"\n`)
+})
+
 test("a run reached through a shell variable follows the folder that moved", () => {
   expect(carriedBody(SCRIPT, RAN)).toBe(RAN_AT)
 })
