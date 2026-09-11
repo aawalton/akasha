@@ -10,16 +10,13 @@ import {
   splicing,
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { filesOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const AT = "akasha/one/held.ts"
 
 const AWAY = "akasha/one/gone.ts"
 
-function holding(bodies: Readonly<Record<string, string>>): BodyOf {
-  return (path) => bodies[path] ?? null
-}
-
-const NOTHING = holding({})
+const NOTHING = filesOf({})
 
 test("an add answers the content as the body where its path holds nothing", () => {
   const said = expanded({ kind: "add", path: AT, content: "one" }, NOTHING)
@@ -28,13 +25,13 @@ test("an add answers the content as the body where its path holds nothing", () =
 })
 
 test("an add onto a path already holding a body is refused", () => {
-  const said = expanded({ kind: "add", path: AT, content: "one" }, holding({ [AT]: "two" }))
+  const said = expanded({ kind: "add", path: AT, content: "one" }, filesOf({ [AT]: "two" }))
 
   expect(said).toEqual({ refused: `\`${AT}\` holds a body already, so nothing is added` })
 })
 
 test("an append answers the body its path held with its content after that body", () => {
-  const said = expanded({ kind: "append", path: AT, content: "two" }, holding({ [AT]: "one" }))
+  const said = expanded({ kind: "append", path: AT, content: "two" }, filesOf({ [AT]: "one" }))
 
   expect(said).toEqual({ left: { path: AT, body: "onetwo" } })
 })
@@ -46,7 +43,7 @@ test("an append onto a path holding nothing answers that content alone", () => {
 })
 
 test("an append of no characters is refused", () => {
-  const said = expanded({ kind: "append", path: AT, content: "" }, holding({ [AT]: "one" }))
+  const said = expanded({ kind: "append", path: AT, content: "" }, filesOf({ [AT]: "one" }))
 
   expect(said).toEqual({
     refused: `\`${AT}\` reads the same after this, so this change writes nothing`,
@@ -56,7 +53,7 @@ test("an append of no characters is refused", () => {
 test("a replace answers the body the passage leaves", () => {
   const one = { kind: "replace", path: AT, contentFrom: "two", contentTo: "three" } as const
 
-  expect(expanded(one, holding({ [AT]: "one two" }))).toEqual({
+  expect(expanded(one, filesOf({ [AT]: "one two" }))).toEqual({
     left: { path: AT, body: "one three" },
   })
 })
@@ -64,7 +61,7 @@ test("a replace answers the body the passage leaves", () => {
 test("a replace naming a passage of no characters is refused", () => {
   const one = { kind: "replace", path: AT, contentFrom: "", contentTo: "three" } as const
 
-  expect(expanded(one, holding({ [AT]: "one two" }))).toEqual({
+  expect(expanded(one, filesOf({ [AT]: "one two" }))).toEqual({
     refused: "a passage of no characters names no place in a body",
   })
 })
@@ -80,7 +77,7 @@ test("a replace on a path holding no body is refused", () => {
 test("a replace naming a passage the body does not hold is refused", () => {
   const one = { kind: "replace", path: AT, contentFrom: "four", contentTo: "three" } as const
 
-  expect(expanded(one, holding({ [AT]: "one two" }))).toEqual({
+  expect(expanded(one, filesOf({ [AT]: "one two" }))).toEqual({
     refused: `\`${AT}\` holds no such passage, so nothing is changed`,
   })
 })
@@ -88,7 +85,7 @@ test("a replace naming a passage the body does not hold is refused", () => {
 test("a replace naming a passage the body holds twice is refused", () => {
   const one = { kind: "replace", path: AT, contentFrom: "two", contentTo: "three" } as const
 
-  expect(expanded(one, holding({ [AT]: "two two" }))).toEqual({
+  expect(expanded(one, filesOf({ [AT]: "two two" }))).toEqual({
     refused: `\`${AT}\` holds that passage twice or more, and one change works one`,
   })
 })
@@ -96,13 +93,13 @@ test("a replace naming a passage the body holds twice is refused", () => {
 test("a replace leaving the body as it was is refused", () => {
   const one = { kind: "replace", path: AT, contentFrom: "two", contentTo: "two" } as const
 
-  expect(expanded(one, holding({ [AT]: "one two" }))).toEqual({
+  expect(expanded(one, filesOf({ [AT]: "one two" }))).toEqual({
     refused: `\`${AT}\` reads the same after this, so this change writes nothing`,
   })
 })
 
 test("a remove answers no body under the path", () => {
-  const said = expanded({ kind: "remove", path: AT }, holding({ [AT]: "one" }))
+  const said = expanded({ kind: "remove", path: AT }, filesOf({ [AT]: "one" }))
 
   expect(said).toEqual({ left: { path: AT, body: null } })
 })
@@ -116,7 +113,7 @@ test("a remove of a path holding no body is refused", () => {
 test("a move answers the body under the path moved to and names the path moved from", () => {
   const one = { kind: "move", pathFrom: AWAY, pathTo: AT } as const
 
-  expect(expanded(one, holding({ [AWAY]: "one" }))).toEqual({
+  expect(expanded(one, filesOf({ [AWAY]: "one" }))).toEqual({
     left: { path: AT, body: "one", from: AWAY },
   })
 })
@@ -132,7 +129,7 @@ test("a move from a path holding no body is refused", () => {
 test("a move onto a path already holding a body is refused", () => {
   const one = { kind: "move", pathFrom: AWAY, pathTo: AT } as const
 
-  expect(expanded(one, holding({ [AWAY]: "one", [AT]: "two" }))).toEqual({
+  expect(expanded(one, filesOf({ [AWAY]: "one", [AT]: "two" }))).toEqual({
     refused: `\`${AT}\` holds a body already, so nothing is moved there`,
   })
 })
@@ -140,7 +137,7 @@ test("a move onto a path already holding a body is refused", () => {
 test("a move onto a path holding no characters is answered", () => {
   const one = { kind: "move", pathFrom: AWAY, pathTo: AT } as const
 
-  expect(expanded(one, holding({ [AWAY]: "one", [AT]: "" }))).toEqual({
+  expect(expanded(one, filesOf({ [AWAY]: "one", [AT]: "" }))).toEqual({
     left: { path: AT, body: "one", from: AWAY },
   })
 })
@@ -180,7 +177,7 @@ test("an add onto a path holding a body that is not text is refused", () => {
 })
 
 function replaying(edits: readonly FileChange[], bodies: Readonly<Record<string, string>>) {
-  return replayed({ edits, refused: null }, holding(bodies))
+  return replayed({ edits, refused: null }, filesOf(bodies))
 }
 
 test("a replay over no edit leaves no body", () => {
