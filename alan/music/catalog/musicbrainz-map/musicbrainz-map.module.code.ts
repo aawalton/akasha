@@ -1,3 +1,4 @@
+import { compareKey } from "akasha/utils/narrow/compare-key/compare-key.module.code.ts"
 import type { Artist } from "../artists/artist.page-type.types.ts"
 import type {
   MbArtist,
@@ -50,13 +51,6 @@ const BRACKETED_SEGMENT_RE = /[([]([^)\]]*)[)\]]/g
 const MUSICBRAINZ_BASE = "https://musicbrainz.org"
 
 const DEFAULT_MAX_GENRES = 8
-
-function normalize(s: string): string {
-  return s
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, " ")
-    .trim()
-}
 
 export function artistExternalLink(mbid: string): string {
   return `${MUSICBRAINZ_BASE}/artist/${mbid}`
@@ -156,7 +150,7 @@ export function dedupeRecordings(recordings: readonly MbRecording[]): readonly D
   for (const rec of recordings) {
     const title = rec.title
     if (title == null || title.trim() === "") continue
-    const key = normalize(title)
+    const key = compareKey(title)
     if (key === "") continue
     const existing = groups.get(key)
     if (existing == null || rec.id < existing.recordingId) {

@@ -21,6 +21,7 @@ export const utilsNarrow = {
     "module/badge-variant",
     "module/chunk",
     "module/collapse",
+    "module/compare-key",
     "module/create-data-file",
     "module/delete-record-key",
     "module/escape-reg-exp",

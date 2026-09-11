@@ -1,3 +1,4 @@
+import { compareKey } from "akasha/utils/narrow/compare-key/compare-key.module.code.ts"
 import type { LrclibRecord } from "../lrclib-schema/lrclib-schema.module.code.ts"
 import type { LyricsSource } from "../songs/properties/lyrics-source.text-property.types.ts"
 
@@ -8,13 +9,6 @@ export type SongLyrics = {
 }
 
 const LYRICS_SOURCE = "lrclib"
-
-function normalize(s: string): string {
-  return s
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, " ")
-    .trim()
-}
 
 function textOrNull(held: string | null | undefined): string | null {
   return held != null && held !== "" ? held : null
@@ -29,14 +23,14 @@ export function pickBestLyrics(
   title: string,
   artistName: string
 ): LrclibRecord | null {
-  const wantTitle = normalize(title)
-  const wantArtist = normalize(artistName)
+  const wantTitle = compareKey(title)
+  const wantArtist = compareKey(artistName)
   const qualifying = records.filter(
     (r) =>
       !r.instrumental &&
       hasLyrics(r) &&
-      normalize(r.trackName) === wantTitle &&
-      normalize(r.artistName).includes(wantArtist)
+      compareKey(r.trackName) === wantTitle &&
+      compareKey(r.artistName).includes(wantArtist)
   )
   if (qualifying.length === 0) return null
   const synced = qualifying.find((r) => textOrNull(r.syncedLyrics) != null)
