@@ -20,7 +20,7 @@ import {
   STRING_ID_RECORDING_PRELUDE,
   summarizeBundle,
 } from "../addon-sandbox-load/addon-sandbox-load.module.code.ts"
-import { parseArgs as parseCliArgs } from "../cli-args/cli-args.module.code.ts"
+import { parseSingleFileFlag } from "../cli-args/cli-args.module.code.ts"
 import { errnoCode, errorMessage } from "../error-message/error-message.module.code.ts"
 import { ESO_BASE_GAME_STRING_IDS } from "../eso-base-game-string-ids/eso-base-game-string-ids.module.code.ts"
 import { renderPopulationBound } from "../population-bound/population-bound.module.code.ts"
@@ -37,15 +37,6 @@ const ESO_BANNED_GLOBALS = [
   "load",
   "loadstring",
 ] as const
-
-function parseArgs(argv: readonly string[]): { singleFile: string | null } {
-  try {
-    const { flags } = parseCliArgs(argv, { file: { kind: "string" } }, { passthrough: true })
-    return { singleFile: flags.file ?? null }
-  } catch {
-    return { singleFile: null }
-  }
-}
 
 const GATE = "addon-sandbox-load"
 
@@ -240,7 +231,7 @@ export async function runAddonSandboxLoad({
 }
 
 export async function main(argv: readonly string[] = process.argv.slice(2)): Promise<number> {
-  return runAddonSandboxLoad(parseArgs(argv))
+  return runAddonSandboxLoad(parseSingleFileFlag(argv))
 }
 
 if (import.meta.main) {

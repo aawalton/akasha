@@ -10,18 +10,9 @@ import {
   collectAddonDistBundles,
   refuseAddonDistPopulation,
 } from "../addon-dist-bundles/addon-dist-bundles.module.code.ts"
-import { parseArgs as parseCliArgs } from "../cli-args/cli-args.module.code.ts"
+import { parseSingleFileFlag } from "../cli-args/cli-args.module.code.ts"
 import { errnoCode, errorMessage } from "../error-message/error-message.module.code.ts"
 import { renderPopulationBound } from "../population-bound/population-bound.module.code.ts"
-
-function parseArgs(argv: readonly string[]): { singleFile: string | null } {
-  try {
-    const { flags } = parseCliArgs(argv, { file: { kind: "string" } }, { passthrough: true })
-    return { singleFile: flags.file ?? null }
-  } catch {
-    return { singleFile: null }
-  }
-}
 
 const GATE = "addon-sandbox-safety"
 
@@ -90,7 +81,7 @@ export function runAddonSandboxSafety({ singleFile }: AddonSandboxSafetyOptions)
 }
 
 export function main(argv: readonly string[] = process.argv.slice(2)): number {
-  return runAddonSandboxSafety(parseArgs(argv))
+  return runAddonSandboxSafety(parseSingleFileFlag(argv))
 }
 
 if (import.meta.main) {

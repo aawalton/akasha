@@ -10,18 +10,9 @@ import {
   type RemovedRefIssue,
   scanBundleFile,
 } from "../addon-removed-refs/addon-removed-refs.module.code.ts"
-import { parseArgs as parseCliArgs } from "../cli-args/cli-args.module.code.ts"
+import { parseSingleFileFlag } from "../cli-args/cli-args.module.code.ts"
 import { errnoCode, errorMessage } from "../error-message/error-message.module.code.ts"
 import { renderPopulationBound } from "../population-bound/population-bound.module.code.ts"
-
-function parseArgs(argv: readonly string[]): { singleFile: string | null } {
-  try {
-    const { flags } = parseCliArgs(argv, { file: { kind: "string" } }, { passthrough: true })
-    return { singleFile: flags.file ?? null }
-  } catch {
-    return { singleFile: null }
-  }
-}
 
 const GATE = "addon-removed-refs"
 
@@ -83,7 +74,7 @@ export function runAddonRemovedRefs({ singleFile }: AddonRemovedRefsOptions): nu
 }
 
 export function main(argv: readonly string[] = process.argv.slice(2)): number {
-  return runAddonRemovedRefs(parseArgs(argv))
+  return runAddonRemovedRefs(parseSingleFileFlag(argv))
 }
 
 if (import.meta.main) {

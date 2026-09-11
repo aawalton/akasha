@@ -181,6 +181,15 @@ export function parseArgs<F extends Record<string, FlagSpec>>(
   }
 }
 
+export function parseSingleFileFlag(argv: readonly string[]): { singleFile: string | null } {
+  try {
+    const { flags } = parseArgs(argv, { file: { kind: "string" } }, { passthrough: true })
+    return { singleFile: flags.file ?? null }
+  } catch {
+    return { singleFile: null }
+  }
+}
+
 export const REPO_ROOT_FLAG = {
   repoRoot: { kind: "string" },
 } as const satisfies Record<string, FlagSpec>

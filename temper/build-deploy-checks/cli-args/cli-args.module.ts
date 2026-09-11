@@ -28,5 +28,9 @@ export const cliArgs = {
       invariantKind: "constraint",
       statement: "A flag name is said on the line in kebab case and read back in camel case.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "A line naming no single file, or no line this shape reads, is one file of none.",
+    },
   ],
 } as const satisfies Module
