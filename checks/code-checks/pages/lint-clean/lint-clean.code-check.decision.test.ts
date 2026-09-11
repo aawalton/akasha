@@ -6,6 +6,7 @@ import {
   outsideOf,
   readsIn,
   reasonOf,
+  UNREAD,
 } from "akasha/checks/code-checks/pages/lint-clean/lint-clean.code-check.decision.code.ts"
 import {
   CLEAN,
@@ -93,7 +94,47 @@ test("a run that failed is answered against the first file named", () => {
   const judged = judgedOf(looked, "akasha/one.ts", "/held")
   expect(judged.length).toBe(1)
   expect(judged[0]?.path).toBe("akasha/one.ts")
+  expect(judged[0]?.threw).toBe(true)
   expect(judged[0]?.reason).toBe(
     "nothing is under the mirror this change was written into. A linter that could not look has verified nothing, so nothing was judged."
+  )
+})
+
+test("a path the linter could not open is no finding in that path", () => {
+  const went = { path: "akasha/gone.ts", line: 0, column: 0, rule: UNREAD, said: "No such file" }
+  const fault = { path: "akasha/one.ts", line: 12, column: 7, rule: RULE, said: "This is unused." }
+  const looked = { code: 1, errors: 2, found: [went, fault], failed: null }
+
+  const judged = judgedOf(looked, "akasha/one.ts", "/held")
+
+  expect(judged.length).toBe(2)
+  expect(judged[0]?.reason).toBe(`\`${RULE}\` at line 12, column 7 — This is unused.`)
+  expect(judged[0]?.threw).toBe(undefined)
+  expect(judged[1]?.threw).toBe(true)
+  expect(judged[1]?.reason).toBe(
+    "the linter could not read akasha/gone.ts. A linter that could not look has verified nothing, so nothing was judged."
+  )
+})
+
+test("every path the linter could not open is answered as one run that fell short", () => {
+  const missing = (path: string) => ({
+    path,
+    line: 0,
+    column: 0,
+    rule: UNREAD,
+    said: "No such file",
+  })
+  const looked = {
+    code: 1,
+    errors: 2,
+    found: [missing("akasha/two.ts"), missing("akasha/one.ts"), missing("akasha/two.ts")],
+    failed: null,
+  }
+
+  const judged = judgedOf(looked, "akasha/one.ts", "/held", "the tree")
+
+  expect(judged.length).toBe(1)
+  expect(judged[0]?.reason).toBe(
+    "the linter could not read akasha/one.ts, akasha/two.ts. A linter that could not look has verified nothing, so nothing was judged."
   )
 })

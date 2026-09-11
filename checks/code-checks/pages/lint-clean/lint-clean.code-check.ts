@@ -81,6 +81,22 @@ export const lintClean = {
     },
     {
       invariantKind: "departure",
+      statement: "A path the linter could not open is no finding in that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every path the linter could not open is answered as one run that fell short.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that fell short says so rather than naming a file at fault.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The tree an audit reads is live, so a path can go while the linter walks it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file the change takes away is judged by nothing.",
     },
     {

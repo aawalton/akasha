@@ -16,6 +16,10 @@ const MIRROR = "the mirror this change was written into"
 
 const UNLOOKED = "A linter that could not look has verified nothing, so nothing was judged."
 
+export const UNREAD = "internalError/io"
+
+const WENT = "the linter could not read"
+
 export function readsIn(said: Uint8Array | null): readonly string[] | null {
   if (said === null) return null
   const found: string[] = []
@@ -91,10 +95,19 @@ export function judgedOf(
   named: string = MIRROR
 ): readonly Judged[] {
   if (linted.failed !== null) {
-    return [{ path: first, reason: `${outsideOf(linted.failed, root, named)}. ${UNLOOKED}` }]
+    const stopped = `${outsideOf(linted.failed, root, named)}. ${UNLOOKED}`
+    return [{ path: first, reason: stopped, threw: true }]
   }
-  return linted.found.map((one) => ({
-    path: one.path,
-    reason: outsideOf(reasonOf(one), root, named),
-  }))
+  const judged: Judged[] = []
+  const went: string[] = []
+  for (const one of linted.found) {
+    if (one.rule === UNREAD) {
+      went.push(outsideOf(one.path, root, named))
+      continue
+    }
+    judged.push({ path: one.path, reason: outsideOf(reasonOf(one), root, named) })
+  }
+  if (went.length === 0) return judged
+  const why = `${WENT} ${[...new Set(went)].sort().join(", ")}. ${UNLOOKED}`
+  return [...judged, { path: first, reason: why, threw: true }]
 }
