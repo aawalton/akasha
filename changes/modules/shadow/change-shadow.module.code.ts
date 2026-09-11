@@ -1,7 +1,4 @@
-import { existsSync } from "node:fs"
-import { join, relative } from "node:path"
 import { formattedBody } from "akasha/code-system/code-format/code-format.module.code.ts"
-import { trackedUnder } from "akasha/git/pathspec/git-pathspec.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   type Facing,
@@ -10,7 +7,6 @@ import {
 import type { Change } from "../../../pages/change/change.module.code.ts"
 import type { Answering } from "../../../pages/indexes/answering/index-answering.module.code.ts"
 import type { Reading } from "../../../pages/indexes/shape/index-shape.module.code.ts"
-import { walkedUnder } from "../../../pages/indexes/tree-reading/tree-reading.module.code.ts"
 import {
   type Cast,
   forgotten,
@@ -25,7 +21,6 @@ import {
 } from "../../../pages/shadow/shadow.module.code.ts"
 import type { Changes as AgentChanges } from "../../runners/pages/agent-change-running/agent-change-running.change-runner.addressed.ts"
 import type { Changes as MechanicalChanges } from "../../runners/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"
-
 import {
   type BodyOf,
   beyond,
@@ -42,12 +37,16 @@ import type {
   Held,
   Replayed,
 } from "../answer/change-answer.module.types.ts"
+import {
+  treeTracked,
+  treeUnder,
+  treeUnentered,
+  underOver,
+} from "../shadow-tree/change-shadow-tree.module.code.ts"
 
 const BYTES = new TextEncoder()
 
 const TEXT = new TextDecoder()
-
-const OUTSIDE = ".."
 
 const PAGE_TYPE = "page-type"
 
@@ -95,51 +94,6 @@ function facingHeld(world: World): Facing {
   const made = facingIn(world)
   FACING.set(world, made)
   return made
-}
-
-function treeUnder(root: string, folder: string, index: Answering): readonly string[] {
-  const at = join(root, folder)
-  if (!existsSync(at)) return []
-  const entering = (path: string): boolean => index.listedByPath(relative(root, path)).length === 0
-  return walkedUnder(at, () => true, entering)
-    .map((one) => relative(root, one))
-    .sort()
-}
-
-export function treeUnentered(root: string, folder: string, index: Answering): readonly string[] {
-  const at = join(root, folder)
-  if (!existsSync(at)) return []
-  const found: string[] = []
-  const entering = (path: string): boolean => {
-    if (index.listedByPath(relative(root, path)).length === 0) return true
-    if (walkedUnder(path, () => true).length > 0) found.push(relative(root, path))
-    return false
-  }
-  walkedUnder(at, () => false, entering)
-  return [...found].sort()
-}
-
-function treeTracked(root: string, folder: string): readonly string[] | null {
-  const held = trackedUnder(root, folder)
-  if (held === null) return null
-  return held.filter((one) => existsSync(join(root, one)))
-}
-
-function beneath(folder: string, path: string): boolean {
-  const held = relative(folder, path)
-  return held !== "" && !held.startsWith(OUTSIDE)
-}
-
-function underOver(had: readonly string[], said: Answer, folder: string): readonly string[] {
-  const found = new Set(had)
-  for (const one of said.edits) {
-    if (one.kind === "remove") found.delete(one.path)
-    else if (one.kind === "move") {
-      found.delete(one.pathFrom)
-      found.add(one.pathTo)
-    } else found.add(one.path)
-  }
-  return [...found].filter((one) => beneath(folder, one)).sort()
 }
 
 export const NOTHING_OVER: Answer = { edits: [], refused: null }

@@ -15,6 +15,7 @@ export const change = {
     "page-type/change-kind",
     "page-type/change-guard",
     "module/change-shadow",
+    "module/change-shadow-tree",
     "module/change-guarding",
     "module/page-claiming",
     "module/page-knowing",

@@ -132,19 +132,7 @@ export const changeShadow = {
       invariantKind: "departure",
       statement: "An answer is replayed over the bodies a world answers rather than over its text.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "A world answers the paths under a folder from the tree rather than from the index.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path an answer writes under a folder is among the paths that folder answers.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path an answer takes away is left out of the paths that folder answers.",
-    },
+
     {
       invariantKind: "departure",
       statement:
@@ -294,36 +282,18 @@ export const changeShadow = {
       statement:
         "A reach inside a change states an edit the reach around that change states again.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "A folder the index files as a page's own is left out of the paths a folder answers.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Every file that folder has is left out with the folder.",
-    },
+
     {
       invariantKind: "departure",
       statement:
         "A world answers which folders under a folder are left out beside the paths that folder answers.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A folder left out holding no file is left out of that answer too.",
-    },
+
     {
       invariantKind: "departure",
       statement: "Those folders are read from the tree rather than from the answers gathered.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A world answers which files git tracks under a folder and holds on disk.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A repository git will not answer for answers nothing rather than no file.",
-    },
+
     {
       invariantKind: "departure",
       statement: "Carrying a world onto an answer is one act.",
