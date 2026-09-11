@@ -1,8 +1,8 @@
-import { ACHIEVEMENT_IDS } from "../dungeon-champion-achievement-ids/dungeon-champion-achievement-ids.module.code.ts"
+import { ACHIEVEMENT_IDS } from "akasha/temper/dungeon-champions/dungeon-champion-achievement-ids/dungeon-champion-achievement-ids.module.code.ts"
 import {
   DUNGEON_CHAMPIONS_DATA,
   DUNGEON_CHAMPIONS_DATA_ID,
-} from "../dungeon-champion-places/dungeon-champion-places.module.code.ts"
+} from "akasha/temper/dungeon-champions/dungeon-champion-places/dungeon-champion-places.module.code.ts"
 
 export type ChampionPin = readonly [
   x: number,

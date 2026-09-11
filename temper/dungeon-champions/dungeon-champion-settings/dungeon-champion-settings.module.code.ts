@@ -1,13 +1,10 @@
-import { dropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
-import { header } from "akasha/temper/settings-panel/header/header.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 import {
   newColorDef,
   setTextureColor,
   unpackRgba,
-} from "../dungeon-champion-colors/dungeon-champion-colors.module.code.ts"
-import { DEFAULTS } from "../dungeon-champion-defaults/dungeon-champion-defaults.module.code.ts"
-import { getUiString } from "../dungeon-champion-labels/dungeon-champion-labels.module.code.ts"
+} from "akasha/temper/dungeon-champions/dungeon-champion-colors/dungeon-champion-colors.module.code.ts"
+import { DEFAULTS } from "akasha/temper/dungeon-champions/dungeon-champion-defaults/dungeon-champion-defaults.module.code.ts"
+import { getUiString } from "akasha/temper/dungeon-champions/dungeon-champion-labels/dungeon-champion-labels.module.code.ts"
 import {
   ADDON_VERSION,
   PINS_COLLECTED,
@@ -15,12 +12,15 @@ import {
   PINS_COMPASS_UNKNOWN,
   PINS_UNKNOWN,
   SETTINGS_PANEL_ID,
-} from "../dungeon-champion-names/dungeon-champion-names.module.code.ts"
+} from "akasha/temper/dungeon-champions/dungeon-champion-names/dungeon-champion-names.module.code.ts"
 import {
   getPinTexturesList,
   PIN_TEXTURES,
-} from "../dungeon-champion-pin-textures/dungeon-champion-pin-textures.module.code.ts"
-import { getSavedVariables } from "../dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.code.ts"
+} from "akasha/temper/dungeon-champions/dungeon-champion-pin-textures/dungeon-champion-pin-textures.module.code.ts"
+import { getSavedVariables } from "akasha/temper/dungeon-champions/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.code.ts"
+import { dropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
+import { header } from "akasha/temper/settings-panel/header/header.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 
 interface LamDropdownWidget {
   GetControl: () => Control

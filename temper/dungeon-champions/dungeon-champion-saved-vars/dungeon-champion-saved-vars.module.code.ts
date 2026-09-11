@@ -1,8 +1,8 @@
 import {
   type DcsDefaults,
   DEFAULTS,
-} from "../dungeon-champion-defaults/dungeon-champion-defaults.module.code.ts"
-import { SAVED_VARIABLES_NAME } from "../dungeon-champion-names/dungeon-champion-names.module.code.ts"
+} from "akasha/temper/dungeon-champions/dungeon-champion-defaults/dungeon-champion-defaults.module.code.ts"
+import { SAVED_VARIABLES_NAME } from "akasha/temper/dungeon-champions/dungeon-champion-names/dungeon-champion-names.module.code.ts"
 
 export type DcsSavedVariables = DcsDefaults & { namesToIDSavedVars?: boolean }
 

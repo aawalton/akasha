@@ -3,7 +3,7 @@ import {
   PINS_COMPASS_KNOWN,
   PINS_COMPASS_UNKNOWN,
   PINS_UNKNOWN,
-} from "../dungeon-champion-names/dungeon-champion-names.module.code.ts"
+} from "akasha/temper/dungeon-champions/dungeon-champion-names/dungeon-champion-names.module.code.ts"
 
 export interface PinTextureSettings {
   type: number

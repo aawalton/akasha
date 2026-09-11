@@ -1,4 +1,4 @@
-import { getUiString } from "../dungeon-champion-labels/dungeon-champion-labels.module.code.ts"
+import { getUiString } from "akasha/temper/dungeon-champions/dungeon-champion-labels/dungeon-champion-labels.module.code.ts"
 
 export const PIN_TEXTURES: {
   unknown: Record<number, string>

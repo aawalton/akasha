@@ -1,4 +1,4 @@
-import { getCombinedZone } from "../dungeon-champion-map-zone/dungeon-champion-map-zone.module.code.ts"
+import { getCombinedZone } from "akasha/temper/dungeon-champions/dungeon-champion-map-zone/dungeon-champion-map-zone.module.code.ts"
 
 function myPrint(message: string): undefined {
   CHAT_SYSTEM.AddMessage(message)

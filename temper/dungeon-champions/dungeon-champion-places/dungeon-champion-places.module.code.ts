@@ -1,5 +1,5 @@
-import { DUNGEON_CHAMPION_PLACES_00 } from "../dungeon-champion-places-00/dungeon-champion-places-00.module.code.ts"
-import { DUNGEON_CHAMPION_PLACES_01 } from "../dungeon-champion-places-01/dungeon-champion-places-01.module.code.ts"
+import { DUNGEON_CHAMPION_PLACES_00 } from "akasha/temper/dungeon-champions/dungeon-champion-places-00/dungeon-champion-places-00.module.code.ts"
+import { DUNGEON_CHAMPION_PLACES_01 } from "akasha/temper/dungeon-champions/dungeon-champion-places-01/dungeon-champion-places-01.module.code.ts"
 
 export const DUNGEON_CHAMPIONS_DATA: Record<string, Record<string, number[][]>> = {
   ...DUNGEON_CHAMPION_PLACES_00,

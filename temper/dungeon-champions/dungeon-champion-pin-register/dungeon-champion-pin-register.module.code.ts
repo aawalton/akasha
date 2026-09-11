@@ -1,23 +1,23 @@
 import {
   newColorDef,
   setTextureColor,
-} from "../dungeon-champion-colors/dungeon-champion-colors.module.code.ts"
-import { getUiString } from "../dungeon-champion-labels/dungeon-champion-labels.module.code.ts"
+} from "akasha/temper/dungeon-champions/dungeon-champion-colors/dungeon-champion-colors.module.code.ts"
+import { getUiString } from "akasha/temper/dungeon-champions/dungeon-champion-labels/dungeon-champion-labels.module.code.ts"
 import {
   PINS_COLLECTED,
   PINS_COMPASS_KNOWN,
   PINS_COMPASS_UNKNOWN,
   PINS_UNKNOWN,
-} from "../dungeon-champion-names/dungeon-champion-names.module.code.ts"
-import { PIN_TEXTURES } from "../dungeon-champion-pin-textures/dungeon-champion-pin-textures.module.code.ts"
+} from "akasha/temper/dungeon-champions/dungeon-champion-names/dungeon-champion-names.module.code.ts"
+import { PIN_TEXTURES } from "akasha/temper/dungeon-champions/dungeon-champion-pin-textures/dungeon-champion-pin-textures.module.code.ts"
 import {
   compassCallbackKnown,
   compassCallbackUnknown,
   mapCallbackCollected,
   mapCallbackUnknown,
   PIN_TOOLTIP_CREATOR,
-} from "../dungeon-champion-pins/dungeon-champion-pins.module.code.ts"
-import { getSavedVariables } from "../dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.code.ts"
+} from "akasha/temper/dungeon-champions/dungeon-champion-pins/dungeon-champion-pins.module.code.ts"
+import { getSavedVariables } from "akasha/temper/dungeon-champions/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.code.ts"
 
 function compassSizeCallback(
   this: void,
