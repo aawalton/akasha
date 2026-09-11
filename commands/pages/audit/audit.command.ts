@@ -9,28 +9,21 @@ export const audit = {
   test: "ts",
   changeKind: "change-none",
   taking: [
-    { said: "--check <slug>", takes: "a check to run on its own even where it runs at no audit" },
     {
-      said: "--file-path <path>",
-      takes: "a file or folder the checks judge in place of every file this repository holds",
+      said: "--check <slug>",
+      takes: "a check the round runs beyond the ones the audit phase names",
     },
   ],
   helpNotes: [
-    "--check and --file-path each repeat, so several checks and several paths narrow one call.",
-    "named nothing, it asks the audit service for a round at the commit the repository is at, and answers from the verdicts that round leaves.",
+    "--check repeats, so several checks are asked for in one call.",
+    "it asks the audit service for a round at the commit the repository is at, and answers from the verdicts that round leaves.",
     "a check whose verdict already answers for that commit costs no round, so asking again right after is cheap.",
     "a round is asked for twice at most, and a check still unanswered after that is named rather than counted clean.",
-    "--check and --file-path judge in this process rather than asking the service.",
-    "--check narrows which checks run and --file-path narrows which files those checks see, and a narrowed run says in its answer that the run is not an audit.",
-    "a folder named by --file-path means every file under that folder.",
-    "a run where no named file is a check's input is refused rather than answered clean.",
-    "a run narrowed by --file-path says nothing about the files that run did not judge.",
+    "a check named by --check is run by the round even where that check runs at no phase, and the answer says the run is not an audit.",
     "it lands no change, and holds nothing still while it runs.",
     "a refusal it found is written whole beside the calling agent's page, and the answer names that file and the call opening it, so a reason the answer shortened is read there in full.",
     "a bare run judges by the checks stating the audit phase, so a check that judges on no phase is left out, and the answer says how many were left out that way.",
-    "--check narrows which checks run rather than which files they see, so the cost sits in which checks run.",
-    "it runs under no ceiling on the clock, so a bare run takes as long as its checks take, and a check overrunning the processor seconds its own page states is refused.",
-    "a check forced by name over every file measured under a second at the cheapest and 141 processor seconds at the slowest, lint-clean, on 2026-09-10.",
+    "it runs under no ceiling on the clock, so a run takes as long as the round takes, and a check overrunning the processor seconds its own page states is refused.",
     "a seat runs it in the background, and several seats asking at once are answered by one round.",
   ],
   timeout: null,
@@ -42,10 +35,6 @@ export const audit = {
     {
       invariantKind: "departure",
       statement: "A run narrowed to named checks says in its answer that the run is not an audit.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A run narrowed to named files says in its answer that the run is not an audit.",
     },
     {
       invariantKind: "departure",
@@ -65,19 +54,15 @@ export const audit = {
     },
     {
       invariantKind: "departure",
-      statement: "A path naming no file this repository has and no folder with a file is refused.",
+      statement: "Every run asks the audit service for a round.",
     },
     {
-      invariantKind: "departure",
-      statement: "A folder named means every file under that folder.",
+      invariantKind: "absence",
+      statement: "No run judges a check in the calling process.",
     },
     {
-      invariantKind: "departure",
-      statement: "A run naming no check and no file asks the audit service for a round.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A run naming a check or a file judges in this process.",
+      invariantKind: "absence",
+      statement: "No run narrows which files the checks see.",
     },
     {
       invariantKind: "departure",
@@ -94,14 +79,6 @@ export const audit = {
     {
       invariantKind: "departure",
       statement: "A run that asks and whose environment names no home is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A run naming a file runs the checks over that file rather than the audits.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A run no check takes input from is refused rather than answered clean.",
     },
     {
       invariantKind: "departure",
