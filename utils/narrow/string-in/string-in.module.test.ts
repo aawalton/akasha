@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { stringIn } from "./string-in.module.code.ts"
+import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 
 describe("stringIn", () => {
   test("answers the string a value holds", () => {
