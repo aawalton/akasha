@@ -1,6 +1,11 @@
 import { existsSync, readFileSync } from "node:fs"
-import { join, relative } from "node:path"
+import { homedir } from "node:os"
+import { basename, join, relative } from "node:path"
 import { fileURLToPath } from "node:url"
+import {
+  askedAt,
+  placedAt,
+} from "akasha/commands/modules/folder-linking/folder-linking.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -97,13 +102,20 @@ function scriptAt(root: string, slug: string): string {
         "page named that way"
     )
   }
-  const at = join(root, beside)
-  if (!existsSync(at)) {
+  if (!existsSync(join(root, beside))) {
     throw new Error(
       `\`${SHELL_SCRIPT}/${slug}\` names \`${beside}\`, and nothing is there for a seat to run`
     )
   }
-  return at
+  const asked = askedAt(root, page, homedir())
+  if (asked === null) {
+    throw new Error(
+      `\`${page}\` is the page for \`${SHELL_SCRIPT}/${slug}\` and says where no link reaches ` +
+        "its folder, so a seat would hold a path a page moving breaks"
+    )
+  }
+  placedAt(root, asked)
+  return join(asked.at, basename(beside))
 }
 
 function envWith(stated: unknown, bashEnv: string): Record<string, unknown> {

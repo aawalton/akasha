@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { existsSync, readFileSync } from "node:fs"
+import { existsSync, readFileSync, realpathSync } from "node:fs"
 import { join } from "node:path"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { harnessSettingsAt } from "akasha/seat-system/agent-settings/harness-settings-reading/harness-settings-reading.module.code.ts"
@@ -51,6 +51,15 @@ test("the statusline runs bash over the shell file beside the `statusline` page"
   expect(at).toStartWith("/")
   expect(at).toEndWith(STATUSLINE_ENDS)
   expect(existsSync(at)).toBe(true)
+})
+
+test("neither shared script is handed to a seat as a path inside this checkout", () => {
+  const at = textAt(objectAt(document, "env"), "BASH_ENV")
+  const command = textAt(objectAt(document, "statusLine"), "command").slice(RUN.length)
+
+  expect(at.startsWith(`${ROOT}/`)).toBe(false)
+  expect(command.startsWith(`${ROOT}/`)).toBe(false)
+  expect(realpathSync(command)).toStartWith(`${ROOT}/`)
 })
 
 test("the env keys the page states are kept beside the key akasha derives", () => {

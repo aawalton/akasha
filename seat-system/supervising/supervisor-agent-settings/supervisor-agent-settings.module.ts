@@ -32,6 +32,20 @@ export const supervisorAgentSettings = {
     {
       invariantKind: "departure",
       statement:
+        "A seat is handed the link outside every checkout rather than the path inside one.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The link is placed as the document is composed, so no seat holds a link that is not there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A script saying where no link reaches its folder refuses the spawn.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A shell script the index answers no page for is refused rather than emitted as an empty path.",
     },
     {
