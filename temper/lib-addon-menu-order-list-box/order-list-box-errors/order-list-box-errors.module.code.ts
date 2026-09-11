@@ -1,7 +1,7 @@
 import {
   ERROR_TEXTS,
   WIDGET_PREFIX,
-} from "../order-list-box-constants/order-list-box-constants.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-constants/order-list-box-constants.module.code.ts"
 
 export function errorOutput(
   this: void,

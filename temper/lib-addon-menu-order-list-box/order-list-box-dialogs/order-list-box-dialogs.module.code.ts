@@ -1,19 +1,19 @@
 import {
   asEsoHandler,
   asOrderButtonControl,
-} from "../order-list-box-casts/order-list-box-casts.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-casts/order-list-box-casts.module.code.ts"
 import {
   ORDER_LIST_BOX_ADD_NEW_ENTRY_BUTTON_SUFFIX,
   ORDER_LIST_BOX_ADD_NEW_ENTRY_DIALOG_SUFFIX,
   ORDER_LIST_BOX_ASK_BEFORE_REMOVE_ENTRY_DIALOG_SUFFIX,
   ORDER_LIST_BOX_REMOVE_ENTRY_BUTTON_SUFFIX,
   translation,
-} from "../order-list-box-constants/order-list-box-constants.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-constants/order-list-box-constants.module.code.ts"
 import {
   getDefaultValue,
   getStringFromValue,
   wm,
-} from "../order-list-box-state/order-list-box-state.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-state/order-list-box-state.module.code.ts"
 
 export function setupAddEntryDialog(
   this: void,

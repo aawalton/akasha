@@ -1,4 +1,7 @@
-import { asLamControl, asThunk } from "../order-list-box-casts/order-list-box-casts.module.code.ts"
+import {
+  asLamControl,
+  asThunk,
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-casts/order-list-box-casts.module.code.ts"
 import {
   LAM_SORT_LIST_BOX_SCROLL_LIST_DATATYPE,
   SORT_LIST_ROW_DEFAULT_FONT,
@@ -6,9 +9,12 @@ import {
   SORT_LIST_ROW_DEFAULT_MAXLINES,
   SORT_LIST_ROW_SELECTION_TEMPLATE_NAME,
   SORT_LIST_ROW_TEMPLATE_NAME,
-} from "../order-list-box-constants/order-list-box-constants.module.code.ts"
-import { abortDragging } from "../order-list-box-drag-cursor/order-list-box-drag-cursor.module.code.ts"
-import { getDefaultValue, util } from "../order-list-box-state/order-list-box-state.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-constants/order-list-box-constants.module.code.ts"
+import { abortDragging } from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-drag-cursor/order-list-box-drag-cursor.module.code.ts"
+import {
+  getDefaultValue,
+  util,
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-state/order-list-box-state.module.code.ts"
 
 export function getShowPositionInfoFromListBoxData(
   this: void,

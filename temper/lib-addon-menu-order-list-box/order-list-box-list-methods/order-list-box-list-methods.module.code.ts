@@ -2,17 +2,17 @@ import {
   asControl,
   asDisplayText,
   asOrderRowControl,
-} from "../order-list-box-casts/order-list-box-casts.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-casts/order-list-box-casts.module.code.ts"
 import {
   ERROR_TEXTS,
   mouseCursorDoNotCare,
   mouseCursorHand,
   mouseCursorResizeNS,
-} from "../order-list-box-constants/order-list-box-constants.module.code.ts"
-import { setMouseCursor } from "../order-list-box-drag-cursor/order-list-box-drag-cursor.module.code.ts"
-import { checkOrderListBoxEntriesForCorrectFormat } from "../order-list-box-errors/order-list-box-errors.module.code.ts"
-import { updateRemoveEntryEnabledState } from "../order-list-box-row-setup/order-list-box-row-setup.module.code.ts"
-import { getStringFromValue } from "../order-list-box-state/order-list-box-state.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-constants/order-list-box-constants.module.code.ts"
+import { setMouseCursor } from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-drag-cursor/order-list-box-drag-cursor.module.code.ts"
+import { checkOrderListBoxEntriesForCorrectFormat } from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-errors/order-list-box-errors.module.code.ts"
+import { updateRemoveEntryEnabledState } from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-row-setup/order-list-box-row-setup.module.code.ts"
+import { getStringFromValue } from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-state/order-list-box-state.module.code.ts"
 
 export function populate(this: OrderListBox, orderListBoxData: OrderListBoxData): ListEntry[] {
   const masterList = orderListBoxData.listEntries ?? []

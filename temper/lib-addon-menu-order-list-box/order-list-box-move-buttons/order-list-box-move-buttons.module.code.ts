@@ -1,7 +1,7 @@
 import {
   asControl,
   asOrderButtonControl,
-} from "../order-list-box-casts/order-list-box-casts.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-casts/order-list-box-casts.module.code.ts"
 import {
   mouseCursorDoNotCare,
   mouseCursorHand,
@@ -9,9 +9,12 @@ import {
   SCROLLBOX_DOWN_TEXTURE,
   SCROLLBOX_UP_TEXTURE,
   translation,
-} from "../order-list-box-constants/order-list-box-constants.module.code.ts"
-import { setMouseCursor } from "../order-list-box-drag-cursor/order-list-box-drag-cursor.module.code.ts"
-import { getStringFromValue, wm } from "../order-list-box-state/order-list-box-state.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-constants/order-list-box-constants.module.code.ts"
+import { setMouseCursor } from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-drag-cursor/order-list-box-drag-cursor.module.code.ts"
+import {
+  getStringFromValue,
+  wm,
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-state/order-list-box-state.module.code.ts"
 
 export function createMoveButtons(
   this: void,

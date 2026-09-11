@@ -1,11 +1,16 @@
-import "../order-list-box-widget/order-list-box-widget.module.code.ts"
+import "akasha/temper/lib-addon-menu-order-list-box/order-list-box-widget/order-list-box-widget.module.code.ts"
 
-import { WIDGET_VERSION } from "../order-list-box-constants/order-list-box-constants.module.code.ts"
+import { WIDGET_VERSION } from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-constants/order-list-box-constants.module.code.ts"
 import {
   checkIfDraggedAndDisableUpdateHandler,
   getCursorTLC,
-} from "../order-list-box-drag-cursor/order-list-box-drag-cursor.module.code.ts"
-import { cm, em, LAM, STATE } from "../order-list-box-state/order-list-box-state.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-drag-cursor/order-list-box-drag-cursor.module.code.ts"
+import {
+  cm,
+  em,
+  LAM,
+  STATE,
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-state/order-list-box-state.module.code.ts"
 
 const EVENT_ADD_ON_LOADED_NAMESPACE = "LibAddonMenuOrderListBox_EVENT_ADD_ON_LOADED"
 

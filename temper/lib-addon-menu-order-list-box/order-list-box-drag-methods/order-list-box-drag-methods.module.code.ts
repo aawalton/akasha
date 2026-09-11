@@ -1,4 +1,4 @@
-import { asNumber } from "../order-list-box-casts/order-list-box-casts.module.code.ts"
+import { asNumber } from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-casts/order-list-box-casts.module.code.ts"
 import {
   EVENT_HANDLER_NAMESPACE,
   GLOBAL_MOUSE_DOWN,
@@ -6,7 +6,7 @@ import {
   mouseCursorDoNotCare,
   mouseCursorHand,
   mouseCursorResizeNS,
-} from "../order-list-box-constants/order-list-box-constants.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-constants/order-list-box-constants.module.code.ts"
 import {
   abortDragging,
   autoScroll,
@@ -14,12 +14,12 @@ import {
   disableOnUpdateHandlerAndResetMouseCursor,
   getCursorTLC,
   setMouseCursor,
-} from "../order-list-box-drag-cursor/order-list-box-drag-cursor.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-drag-cursor/order-list-box-drag-cursor.module.code.ts"
 import {
   em,
   getStringFromValue,
   STATE,
-} from "../order-list-box-state/order-list-box-state.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-state/order-list-box-state.module.code.ts"
 
 export function onGlobalMouseDownDuringDrag(this: OrderListBox, ...args: unknown[]): undefined {
   if (this.disabled || this.isDragDisabled) {

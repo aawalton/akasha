@@ -1,17 +1,17 @@
-import { createOrderListBox } from "../order-list-box-build/order-list-box-build.module.code.ts"
-import { asLamControl } from "../order-list-box-casts/order-list-box-casts.module.code.ts"
+import { createOrderListBox } from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-build/order-list-box-build.module.code.ts"
+import { asLamControl } from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-casts/order-list-box-casts.module.code.ts"
 import {
   MIN_HEIGHT,
   ORDER_LIST_BOX_NAME_TEMPLATE,
-} from "../order-list-box-constants/order-list-box-constants.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-constants/order-list-box-constants.module.code.ts"
 import {
   setupAddEntryDialog,
   setupRemoveEntryButton,
-} from "../order-list-box-dialogs/order-list-box-dialogs.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-dialogs/order-list-box-dialogs.module.code.ts"
 import {
   updateDisabled,
   updateValue,
-} from "../order-list-box-row-setup/order-list-box-row-setup.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-row-setup/order-list-box-row-setup.module.code.ts"
 import {
   getDefaultValue,
   getStringFromValue,
@@ -19,7 +19,7 @@ import {
   STATE,
   util,
   wm,
-} from "../order-list-box-state/order-list-box-state.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-state/order-list-box-state.module.code.ts"
 
 function createOrderListBoxControl(
   this: void,

@@ -1,15 +1,19 @@
 import {
   asCursorTLC,
   asLabelControl,
-} from "../order-list-box-casts/order-list-box-casts.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-casts/order-list-box-casts.module.code.ts"
 import {
   EVENT_HANDLER_NAMESPACE,
   GLOBAL_MOUSE_DOWN,
   GLOBAL_MOUSE_UP,
   mouseCursorDoNotCare,
   widgetCursorTLCName,
-} from "../order-list-box-constants/order-list-box-constants.module.code.ts"
-import { em, STATE, wm } from "../order-list-box-state/order-list-box-state.module.code.ts"
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-constants/order-list-box-constants.module.code.ts"
+import {
+  em,
+  STATE,
+  wm,
+} from "akasha/temper/lib-addon-menu-order-list-box/order-list-box-state/order-list-box-state.module.code.ts"
 
 export function setMouseCursor(this: void, cursorName: number): undefined {
   wm.SetMouseCursor(cursorName)
