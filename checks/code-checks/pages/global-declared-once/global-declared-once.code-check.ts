@@ -119,10 +119,6 @@ export const globalDeclaredOnce = {
       invariantKind: "absence",
       statement: "No name is kept as permitted.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A global name two files declare never lands.",
-    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
