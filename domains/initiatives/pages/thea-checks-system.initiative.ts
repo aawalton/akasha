@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "An audit over 53 checks and 124571 files reads 395 refusals, and all but a handful are no-rule-in-two-files: every other check is green. It groups by body, and ruleOf canonicalises parameters and plain locals but neither destructured names nor the return type. Two thirds are lone pairs, and how many want an absence is unjudged. An absence leaves both files refused, which twelve landed absences bore out. Narrowing it to honour an absence is Alan's.",
+        "An audit over 53 checks and 124571 files reads 395 refusals, and no-rule-in-two-files accounts for all but about five. Seven further checks judge nothing at all, so they are unmeasured rather than green. It groups by body, and 565c1908676 has ruleOf canonicalise destructured names too, but never bare shorthand, which names the property read, nor the return type. Two thirds are lone pairs. An absence leaves both files refused, so narrowing it to honour one is Alan's.",
     },
     {
       statement: "Every runtime helper the Lua compiler has is a page.",
