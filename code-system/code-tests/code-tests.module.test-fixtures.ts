@@ -1,4 +1,5 @@
 import { RUNNING } from "akasha/code-system/code-tests/code-tests.module.code.ts"
+import { AKASHA, rootEnvName } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 
 export const PASSES =
   'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'
@@ -9,6 +10,14 @@ export const FAILS =
 export const MARKED =
   'import { expect, test } from "bun:test"\n' +
   `test("one", () => { expect(process.env["${RUNNING}"]).toBe("1") })\n`
+
+export const ROOTED =
+  'import { expect, test } from "bun:test"\n' +
+  'import { readFileSync } from "node:fs"\n' +
+  'import { join } from "node:path"\n' +
+  `test("one", () => { const root = process.env["${rootEnvName(AKASHA)}"]\n` +
+  "  expect(root).toBeDefined()\n" +
+  '  expect(readFileSync(join(String(root), "akasha/carried.txt"), "utf8")).toBe("carried\\n") })\n'
 
 export const BURNS =
   'import { test } from "bun:test"\n' +

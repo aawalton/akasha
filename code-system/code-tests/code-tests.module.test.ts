@@ -25,6 +25,7 @@ import {
   MARKED,
   NEEDS,
   PASSES,
+  ROOTED,
   SETS,
   THROWS,
 } from "akasha/code-system/code-tests/code-tests.module.test-fixtures.ts"
@@ -187,6 +188,12 @@ check("a run handed bodies reads them over the checkout, which is left as it was
   const bodies = { "akasha/one.test.ts": PASSES }
   expect(ranOver(root, ["akasha"], 1, null, bodies).verdict).toBe("pass")
   expect(readFileSync(join(root, "akasha/one.test.ts"), "utf8")).toBe(FAILS)
+})
+
+check("a run inside the overlay names that overlay as the akasha root", () => {
+  const root = repo({ "one.test.ts": ROOTED })
+  const bodies = { "akasha/carried.txt": "carried\n" }
+  expect(ranOver(root, ["akasha"], 1, null, bodies).verdict).toBe("pass")
 })
 
 check("what a run spawns is marked as inside one", () => {

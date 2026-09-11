@@ -254,6 +254,15 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "A run inside the overlay names that overlay as the akasha root.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A repository cloned beside the checkout is named at that checkout rather than under the overlay.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The mount that overlay made is swept whatever the run said.",
     },
     {
