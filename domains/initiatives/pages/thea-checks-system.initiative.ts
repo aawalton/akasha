@@ -21,7 +21,7 @@ export const theaChecksSystem = {
     {
       statement: "Every property file has the page whose property that file is.",
       workingMemory:
-        "Ten of eleven settled. The eight ESO days from 2026-08-31 to 09-07 have pages again and their samples are claimed, Alan taking the writer itself separately. The two eso-daily-tracking strays are gone, every measurement in them already on its ESO day once floats and timestamps are normalised. Left is change-running.change-runner.addressed.ts, which no hand can remove: an apply drops any edit naming a change-runner addressed file, reading only the name. Filed as a finding.",
+        "The last stray is gone and the mechanism holding it is mended. 78b39f745ee on 2026-09-08 replaced writtenAgain, which read only the path name, with writtenPathsIn, reading the change-runner pages the index holds, so edits for a map no runner page claims fold like any other. 9fc7dc6c58f then removed change-running.change-runner.addressed.ts and the finding naming it. Both addressed files left have their runner page. No test pins the orphan case, and the audit answering the intent is unrun.",
     },
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
