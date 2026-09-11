@@ -135,6 +135,11 @@ export const alanHarness = {
       invariantKind: "departure",
       statement: "Alan's phone drains its health samples into akasha every day.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The code editor panel named Page Types is a tree of page types by what each extends.",
+    },
   ],
   directives: [
     {
