@@ -9,10 +9,10 @@ import type {
   Guard,
   Guarding,
 } from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
+import { namedBy } from "akasha/code/folder-spelling/folder-spelling.module.code.ts"
 import { runsIn } from "akasha/code/path-runs/path-runs.module.code.ts"
 import { spelledIn } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
-import { namedBy } from "akasha/code-system/folder-spelling/folder-spelling.module.code.ts"
 
 const UNDER = "/"
 

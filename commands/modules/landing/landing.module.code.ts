@@ -5,7 +5,7 @@ import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { textIn, textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
+import { textIn, textOf } from "akasha/code/body-text/body-text.module.code.ts"
 import {
   commitNamed,
   unfresh,

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { carriesBytes } from "akasha/code-system/file-kind-bytes/file-kind-bytes.module.code.ts"
+import { carriesBytes } from "akasha/code/file-kind-bytes/file-kind-bytes.module.code.ts"
 
 test("the kinds of file that are bytes are said to be", () => {
   for (const one of ["held.png", "held.jpg", "held.jpeg", "held.ico", "held.dds"]) {

@@ -5,7 +5,7 @@ import {
   changingFile,
   landingAt,
   removingAt,
-} from "akasha/code-system/name-series/name-series.module.code.ts"
+} from "akasha/code/name-series/name-series.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   AGGREGATE,

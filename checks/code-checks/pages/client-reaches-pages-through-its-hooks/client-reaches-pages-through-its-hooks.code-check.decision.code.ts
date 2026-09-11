@@ -1,7 +1,7 @@
 import { join } from "node:path"
+import { calledIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
 import { lineOf, parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import { landingOf } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
-import { calledIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import ts from "typescript"
 
 export const PACKAGE = "workspace-package"

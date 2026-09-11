@@ -12,7 +12,7 @@ import {
   judgingEach,
   type Selector,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
-import { textIn } from "akasha/code-system/body-text/body-text.module.code.ts"
+import { textIn } from "akasha/code/body-text/body-text.module.code.ts"
 import {
   type Facing,
   generatedIn,

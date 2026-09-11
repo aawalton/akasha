@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { namedIn } from "akasha/code/script-paths/script-paths.module.code.ts"
 import {
   bodyIn,
   componentSwiftIn,
   mainSwiftIn,
 } from "akasha/code-system/ios-apps/pages/smilingjenny/scripts/decode-harness-run/smilingjenny-decode-harness-run.shell-script.scripting.code.ts"
-import { namedIn } from "akasha/code-system/script-paths/script-paths.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()

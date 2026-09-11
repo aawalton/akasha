@@ -1,6 +1,6 @@
 import type { Manifest } from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { reachesIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
+import { reachesIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
 
 const SAID = "a way into a package lands on a file that is there"
 

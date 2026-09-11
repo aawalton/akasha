@@ -1,4 +1,4 @@
-import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
+import { textOf } from "akasha/code/body-text/body-text.module.code.ts"
 import { digestOf } from "akasha/code-system/carried-file/carried-file.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"

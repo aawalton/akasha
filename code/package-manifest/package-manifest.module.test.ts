@@ -4,7 +4,7 @@ import {
   dependsIn,
   reachesIn,
   reachingOver,
-} from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
+} from "akasha/code/package-manifest/package-manifest.module.code.ts"
 
 const FOLDER = "akasha/pages-system/indexes"
 

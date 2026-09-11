@@ -1,5 +1,5 @@
 import type { Adding, Replacing } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
+import { textOf } from "akasha/code/body-text/body-text.module.code.ts"
 import { formattedBody } from "akasha/code-system/code-format/code-format.module.code.ts"
 import {
   bodyFor,

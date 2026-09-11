@@ -1,4 +1,4 @@
-import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
+import { textOf } from "akasha/code/body-text/body-text.module.code.ts"
 import {
   baseOf,
   changeOf,

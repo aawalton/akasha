@@ -1,8 +1,5 @@
 import { expect, test } from "bun:test"
-import {
-  landedAt,
-  namedBy,
-} from "akasha/code-system/folder-spelling/folder-spelling.module.code.ts"
+import { landedAt, namedBy } from "akasha/code/folder-spelling/folder-spelling.module.code.ts"
 
 const FOLDER = "code-system"
 

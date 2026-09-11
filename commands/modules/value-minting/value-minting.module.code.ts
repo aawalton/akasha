@@ -3,7 +3,7 @@ import type {
   FileChange,
   Replacing,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { insertedInto } from "akasha/code-system/value-inserting/value-inserting.module.code.ts"
+import { insertedInto } from "akasha/code/value-inserting/value-inserting.module.code.ts"
 import {
   baseOf,
   changeOf,

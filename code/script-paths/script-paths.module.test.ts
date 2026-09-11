@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { namedIn } from "akasha/code-system/script-paths/script-paths.module.code.ts"
+import { namedIn } from "akasha/code/script-paths/script-paths.module.code.ts"
 
 test("a name is read where the root is written plain", () => {
   expect(namedIn('cp "$AKASHA_ROOT/one/two.ts" .')).toEqual(["one/two.ts"])

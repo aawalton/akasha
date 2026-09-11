@@ -6,7 +6,7 @@ import {
 } from "akasha/checks/code-checks/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.code-check.decision.code.ts"
 import { everythingIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
+import { textOf } from "akasha/code/body-text/body-text.module.code.ts"
 import { pageTypesIn } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import {
   facingOn,
