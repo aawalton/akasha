@@ -1,4 +1,5 @@
 import { readFileSync } from "node:fs"
+import { escapeRegExp } from "akasha/utils/narrow/escape-reg-exp/escape-reg-exp.module.code.ts"
 import { z } from "zod"
 import { maskStringLiterals } from "../addon-banned-symbols/addon-banned-symbols.module.code.ts"
 import {
@@ -31,10 +32,6 @@ function parseNextExec(re: RegExp, input: string): { symbol: string; index: numb
   return REGEX_EXEC_SCHEMA.parse(re.exec(input))
 }
 
-function escapeRegex(name: string): string {
-  return name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
-}
-
 function hintFor(entry: RemovedAddonGlobal, symbol: string): string {
   const owner = entry.addon === symbol ? "" : `${entry.addon}: `
   return `${owner}removed external addon, ${entry.remedy}; addon source must not reference it`
@@ -51,7 +48,7 @@ export function scanBundle(source: string, file: string): readonly RemovedRefIss
     const masked = maskStringLiterals(line)
     const lineNumber = i + 1
     for (const entry of REMOVED_EXTERNAL_ADDON_GLOBALS) {
-      const re = new RegExp(`\\b${escapeRegex(entry.global)}\\b`, "g")
+      const re = new RegExp(`\\b${escapeRegExp(entry.global)}\\b`, "g")
       let match = parseNextExec(re, masked)
       while (match !== null) {
         issues.push({

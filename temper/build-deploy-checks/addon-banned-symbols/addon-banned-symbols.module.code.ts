@@ -1,4 +1,5 @@
 import { readFileSync } from "node:fs"
+import { escapeRegExp } from "akasha/utils/narrow/escape-reg-exp/escape-reg-exp.module.code.ts"
 import { z } from "zod"
 import {
   ESO_AVAILABLE_COROUTINE,
@@ -123,10 +124,6 @@ export function maskStringLiterals(line: string): string {
   return chars.join("")
 }
 
-function escapeRegex(name: string): string {
-  return name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
-}
-
 const PARTIAL_AVAILABLE: ReadonlyMap<string, ReadonlySet<string>> = new Map(
   PARTIAL_NAMESPACES.map((ns) => [ns.name, ns.available])
 )
@@ -134,7 +131,7 @@ const PARTIAL_AVAILABLE: ReadonlyMap<string, ReadonlySet<string>> = new Map(
 function alternation(names: readonly string[]): string {
   return [...names]
     .sort((a, b) => b.length - a.length || (a < b ? -1 : 1))
-    .map(escapeRegex)
+    .map(escapeRegExp)
     .join("|")
 }
 

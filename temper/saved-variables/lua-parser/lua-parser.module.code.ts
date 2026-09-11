@@ -1,3 +1,4 @@
+import { escapeRegExp } from "akasha/utils/narrow/escape-reg-exp/escape-reg-exp.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { z } from "zod"
 
@@ -18,7 +19,7 @@ export function parseLuaSavedVariablesFile(
   content: string,
   variableName: string
 ): Record<string, unknown> {
-  const pattern = new RegExp(`${escapeRegex(variableName)}\\s*=\\s*`)
+  const pattern = new RegExp(`${escapeRegExp(variableName)}\\s*=\\s*`)
   const head = MATCH_HEAD_SCHEMA.parse(content.match(pattern))
   if (head === null) {
     throw new Error(`Invalid SavedVariables format: missing ${variableName} assignment`)
@@ -311,10 +312,6 @@ function parseTableEntries(
   if (input.charAt(i) === "}") i++
 
   return { value: obj, endIndex: i }
-}
-
-function escapeRegex(str: string): string {
-  return str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
 }
 
 function skipTrivia(input: string, start: number): number {

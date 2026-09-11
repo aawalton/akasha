@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import {
   appendGlobalToTarget,
-  escapeRegExp,
   extractMemberGlobalBlocks,
   extractTopLevelBlock,
   renameGlobals,
@@ -51,8 +50,4 @@ test("a rename that changes nothing is not counted", () => {
     [/^Z\s*=/m, "Y ="],
   ])
   expect(held).toEqual({ content: "B = 1\n", renamedCount: 1 })
-})
-
-test("a literal is escaped before becoming a pattern", () => {
-  expect(escapeRegExp("a.b*c")).toBe("a\\.b\\*c")
 })

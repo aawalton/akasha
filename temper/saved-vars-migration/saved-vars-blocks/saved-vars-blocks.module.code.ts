@@ -1,10 +1,8 @@
+import { escapeRegExp } from "akasha/utils/narrow/escape-reg-exp/escape-reg-exp.module.code.ts"
+
 const TOP_LEVEL_CLOSE = /^\}/
 
 const TOP_LEVEL_ASSIGN = /^[A-Za-z_][A-Za-z0-9_]*[ \t]*=/
-
-export function escapeRegExp(literal: string): string {
-  return literal.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
-}
 
 export function assignmentOf(global: string): RegExp {
   return new RegExp(`^${escapeRegExp(global)}[ \\t]*=`)

@@ -1,3 +1,4 @@
+import { escapeRegExp } from "akasha/utils/narrow/escape-reg-exp/escape-reg-exp.module.code.ts"
 import { parseInlineHandlers } from "../addon-orphan-xml-handler/addon-orphan-xml-handler.module.code.ts"
 
 export interface DispatchFinding {
@@ -11,16 +12,12 @@ export interface DispatchFinding {
 
 const MAX_SNIPPET = 160
 
-function escapeRe(s: string): string {
-  return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
-}
-
 function referencesNamespace(body: string, namespace: string): boolean {
-  return new RegExp(`\\b${escapeRe(namespace)}\\s*[.:]`).test(body)
+  return new RegExp(`\\b${escapeRegExp(namespace)}\\s*[.:]`).test(body)
 }
 
 function namespaceRefCount(body: string, namespace: string): number {
-  return [...body.matchAll(new RegExp(`\\b${escapeRe(namespace)}\\s*[.:]`, "g"))].length
+  return [...body.matchAll(new RegExp(`\\b${escapeRegExp(namespace)}\\s*[.:]`, "g"))].length
 }
 
 function snippetOf(body: string): string {
@@ -32,7 +29,7 @@ export function isSingleDispatch(body: string, namespace: string): boolean {
   const trimmed = body.trim()
   if (trimmed.length === 0) return false
 
-  const head = new RegExp(`^${escapeRe(namespace)}\\s*[.:]\\s*[A-Za-z_][A-Za-z0-9_]*\\s*\\(`)
+  const head = new RegExp(`^${escapeRegExp(namespace)}\\s*[.:]\\s*[A-Za-z_][A-Za-z0-9_]*\\s*\\(`)
   if (!head.test(trimmed)) return false
 
   const openIdx = trimmed.indexOf("(")

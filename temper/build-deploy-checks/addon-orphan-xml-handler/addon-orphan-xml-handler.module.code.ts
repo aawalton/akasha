@@ -1,3 +1,4 @@
+import { escapeRegExp } from "akasha/utils/narrow/escape-reg-exp/escape-reg-exp.module.code.ts"
 import ts from "typescript"
 
 export type OrphanReason = "undefined-symbol" | "onupdate-storm-vector"
@@ -96,12 +97,8 @@ export function parseInlineHandlers(xml: string): readonly InlineHandler[] {
   return handlers
 }
 
-function escapeRe(s: string): string {
-  return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
-}
-
 function referencedMembers(body: string, namespace: string): readonly string[] {
-  const re = new RegExp(`\\b${escapeRe(namespace)}\\s*[.:]\\s*([A-Za-z_][A-Za-z0-9_]*)`, "g")
+  const re = new RegExp(`\\b${escapeRegExp(namespace)}\\s*[.:]\\s*([A-Za-z_][A-Za-z0-9_]*)`, "g")
   const out: string[] = []
   for (const m of body.matchAll(re)) {
     const member = m[1]
@@ -111,7 +108,7 @@ function referencedMembers(body: string, namespace: string): readonly string[] {
 }
 
 function referencesNamespace(body: string, namespace: string): boolean {
-  return new RegExp(`\\b${escapeRe(namespace)}\\s*[.:]`).test(body)
+  return new RegExp(`\\b${escapeRegExp(namespace)}\\s*[.:]`).test(body)
 }
 
 function snippetOf(body: string): string {
