@@ -53,4 +53,5 @@ export const temperTradingAddon = {
       statement: "Nothing here buys or lists without the player saying so.",
     },
   ],
+  deployedCommit: "e9cd467bbcec2c9bdb1eb4c3a678020ef1a93678",
 } as const satisfies EsoAddon
