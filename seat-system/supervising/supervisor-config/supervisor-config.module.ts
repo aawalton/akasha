@@ -15,10 +15,5 @@ export const supervisorConfig = {
       invariantKind: "departure",
       statement: "A symlink pointing elsewhere is replaced rather than left as the symlink is.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "The repository root is the one the environment names, and the checkout only where none is named.",
-    },
   ],
 } as const satisfies Module
