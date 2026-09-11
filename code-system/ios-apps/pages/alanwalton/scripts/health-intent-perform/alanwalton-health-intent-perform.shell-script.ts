@@ -30,5 +30,9 @@ export const alanwaltonHealthIntentPerform = {
       statement:
         "A reset reached only under a condition leaves the run querying the cursor that reset drops.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A run's outcome reaches akasha rather than the phone alone.",
+    },
   ],
 } as const satisfies ShellScript
