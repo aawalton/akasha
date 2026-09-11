@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const shouldINameEchoThePersonaLeadOfPackagesInfraVoice = {
   id: "019f8b61-c553-7189-90ac-e7f211381939",
-  pageTypeSlug: "question",
   type: "question",
   slug: "should-i-name-echo-the-persona-lead-of-packages-infra-voice",
   ask: "Should I name echo the persona lead of packages/infra/voice-infer? It names no lead today (that gap caused #15770's voice-side to mis-route to aranya), and echo is the de-facto owner — she's done the recent generation + render work on the stack.",

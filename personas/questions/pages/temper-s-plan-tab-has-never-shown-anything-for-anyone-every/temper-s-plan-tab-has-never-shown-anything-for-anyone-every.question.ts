@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const temperSPlanTabHasNeverShownAnythingForAnyoneEvery = {
   id: "019f9944-98d9-717f-9279-062cbff42125",
-  pageTypeSlug: "question",
   type: "question",
   slug: "temper-s-plan-tab-has-never-shown-anything-for-anyone-every",
   ask: "Temper's Plan tab has never shown anything for anyone. Every synced character already carries its full in-game build in the database — nothing turns it into a Plan card. When a character syncs, what should Temper do?",

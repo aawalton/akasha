@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const aDepartureOnTheDomainAxisHasNoSpellingShouldTheNa = {
   id: "019fc7a0-6ca3-7a04-a72f-24c893b2308b",
-  pageTypeSlug: "question",
   type: "question",
   slug: "a-departure-on-the-domain-axis-has-no-spelling-should-the-na",
   ask: "A departure on the domain axis has no spelling. Should the name grammar learn one, or should the objective stop asking for it?",

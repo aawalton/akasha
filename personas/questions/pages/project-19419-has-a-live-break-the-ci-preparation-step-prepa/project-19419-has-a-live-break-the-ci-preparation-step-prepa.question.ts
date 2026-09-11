@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const project19419HasALiveBreakTheCiPreparationStepPrepa = {
   id: "01a017fc-c557-7f8c-9d77-25d5c7c68492",
-  pageTypeSlug: "question",
   type: "question",
   slug: "project-19419-has-a-live-break-the-ci-preparation-step-prepa",
   ask: "project-19419 has a live break: the CI preparation step 'preparation-synth-k8s' runs 'bun ops k8s synth --write', but nothing populates the instructions tree it needs any more. Restore the instructions-tree acquisition, or stop that step using ops?",

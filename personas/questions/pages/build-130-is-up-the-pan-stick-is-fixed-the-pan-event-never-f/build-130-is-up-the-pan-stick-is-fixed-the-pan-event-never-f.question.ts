@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const build130IsUpThePanStickIsFixedThePanEventNeverF = {
   id: "019f6b2d-fb06-74fb-9187-fbc9c9b15bd8",
-  pageTypeSlug: "question",
   type: "question",
   slug: "build-130-is-up-the-pan-stick-is-fixed-the-pan-event-never-f",
   ask: "Build 130 is up — the pan-stick is fixed (the pan event never fires on your shell; a focus-scoped per-frame fallback now re-samples). How do the checks look?",

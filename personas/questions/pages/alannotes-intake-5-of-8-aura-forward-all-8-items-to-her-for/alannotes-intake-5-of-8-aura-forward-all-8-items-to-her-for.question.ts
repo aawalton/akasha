@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const alannotesIntake5Of8AuraForwardAll8ItemsToHerFor = {
   id: "019f6922-6a6b-7f5c-ad51-1680c7052192",
-  pageTypeSlug: "question",
   type: "question",
   slug: "alannotes-intake-5-of-8-aura-forward-all-8-items-to-her-for",
   ask: "alanNotes intake, 5 of 8 (Aura): forward all 8 items to her for intake, or settle the 5 small UI ones (sticky header, rank zero, +10/max buttons, auto-rank) here first?",

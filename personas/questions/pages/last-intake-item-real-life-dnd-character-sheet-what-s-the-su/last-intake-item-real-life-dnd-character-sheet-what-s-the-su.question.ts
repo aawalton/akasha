@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const lastIntakeItemRealLifeDndCharacterSheetWhatSTheSu = {
   id: "019f6983-c1da-72d3-92a1-f6d010a31f1f",
-  pageTypeSlug: "question",
   type: "question",
   slug: "last-intake-item-real-life-dnd-character-sheet-what-s-the-su",
   ask: "Last intake item — 'Real life DND character sheet': what's the subject of the sheet?",

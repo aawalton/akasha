@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const doesTheFleetWorkHaltBindThisSeatSSubagentFanOut = {
   id: "019fb43d-82d9-7c38-947a-48a361c1f366",
-  pageTypeSlug: "question",
   type: "question",
   slug: "does-the-fleet-work-halt-bind-this-seat-s-subagent-fan-out",
   ask: "Does the fleet work halt bind this seat's subagent fan-out?",

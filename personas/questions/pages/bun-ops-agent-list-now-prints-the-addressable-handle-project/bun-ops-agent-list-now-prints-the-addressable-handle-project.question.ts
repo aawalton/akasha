@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const bunOpsAgentListNowPrintsTheAddressableHandleProject = {
   id: "019fa7d6-a218-7436-9be2-29ad97ad8d07",
-  pageTypeSlug: "question",
   type: "question",
   slug: "bun-ops-agent-list-now-prints-the-addressable-handle-project",
   ask: "`bun ops agent list` now prints the addressable handle (`project-16255`) where it used to print the project title. Does losing that title cost you something on a line you read constantly?",

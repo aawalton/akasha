@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const shouldThePersonaPageRepresentYourRealSelfOrAFictio = {
   id: "019f517b-8a1d-7d54-a957-dbb2826b4210",
-  pageTypeSlug: "question",
   type: "question",
   slug: "should-the-persona-page-represent-your-real-self-or-a-fictio",
   ask: "Should the persona page represent your real self or a fictionalized playable character that can differ across games?",

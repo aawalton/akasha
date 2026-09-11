@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const forTheNewAppearanceStylePersonaWhatSHerFantasyPill = {
   id: "019f9509-5d46-7927-84ab-d1c80e3b339b",
-  pageTypeSlug: "question",
   type: "question",
   slug: "for-the-new-appearance-style-persona-what-s-her-fantasy-pill",
   ask: "For the new appearance/style persona — what's her Fantasy pillar? The mythic or fictional conceit she springs from, the one that makes her beautiful and unlike anyone else. This is the pillar I must never invent — it's yours. Which well pulls at you, or what source rises up when you picture her?",

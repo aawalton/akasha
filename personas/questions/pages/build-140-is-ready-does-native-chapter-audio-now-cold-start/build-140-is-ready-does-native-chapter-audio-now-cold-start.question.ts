@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const build140IsReadyDoesNativeChapterAudioNowColdStart = {
   id: "019f762c-0637-741b-9b19-45d9658bea7c",
-  pageTypeSlug: "question",
   type: "question",
   slug: "build-140-is-ready-does-native-chapter-audio-now-cold-start",
   ask: "Build 140 is ready — does native chapter audio now cold-start properly on your iPhone (visible download, then playback, no hang)?",

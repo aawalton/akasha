@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const yourNotesOnTheAlanPersonaPageWereWipedOn20260724 = {
   id: "019f991a-c548-762f-9451-520d08ff07f7",
-  pageTypeSlug: "question",
   type: "question",
   slug: "your-notes-on-the-alan-persona-page-were-wiped-on-2026-07-24",
   ask: "Your notes on the alan persona page were wiped on 2026-07-24 and have been empty since. Want me to restore them?",

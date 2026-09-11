@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const whenYouReadStoriesWithAudioNarrationWhichDoYouUse = {
   id: "019f9448-161d-72f2-beae-51ff5883724d",
-  pageTypeSlug: "question",
   type: "question",
   slug: "when-you-read-stories-with-audio-narration-which-do-you-use",
   ask: "When you read stories with audio narration, which do you use — desktop Chrome/Firefox, or iPhone Safari / the iOS app?",

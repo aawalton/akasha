@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const testflightBuild138IsReadyToInstallDoesChapterAudio = {
   id: "019f7443-5ae3-7839-8e8d-e88916120d2e",
-  pageTypeSlug: "question",
   type: "question",
   slug: "testflight-build-138-is-ready-to-install-does-chapter-audio",
   ask: "TestFlight build 138 is ready to install — does chapter audio now play in the shell, and have the mystery refreshes stopped?",

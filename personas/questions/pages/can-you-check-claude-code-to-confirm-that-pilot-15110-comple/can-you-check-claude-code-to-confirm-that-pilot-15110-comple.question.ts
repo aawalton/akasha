@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const canYouCheckClaudeCodeToConfirmThatPilot15110Comple = {
   id: "019f4c9b-9fd9-71c6-90e8-2879cef064ae",
-  pageTypeSlug: "question",
   type: "question",
   slug: "can-you-check-claude-code-to-confirm-that-pilot-15110-comple",
   ask: "Can you check Claude Code to confirm that pilot #15110 completed its work and my seat is now visible in the app?",

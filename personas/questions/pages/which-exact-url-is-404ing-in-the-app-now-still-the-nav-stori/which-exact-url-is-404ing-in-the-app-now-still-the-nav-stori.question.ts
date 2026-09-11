@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const whichExactUrlIs404ingInTheAppNowStillTheNavStori = {
   id: "019f6f05-703a-7807-b563-b7ed3d9cdd81",
-  pageTypeSlug: "question",
   type: "question",
   slug: "which-exact-url-is-404ing-in-the-app-now-still-the-nav-stori",
   ask: "Which exact URL is 404ing in the app now — still the /nav/stories link, or a story-chapter page you navigated into? If it's a chapter, could you paste its URL (share sheet)?",

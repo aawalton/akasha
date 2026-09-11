@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const doYourThreeStoplightTilesNowTellYouWhatYouWanted = {
   id: "019fec05-33ec-74a4-bded-27726c4c174c",
-  pageTypeSlug: "question",
   type: "question",
   slug: "do-your-three-stoplight-tiles-now-tell-you-what-you-wanted",
   ask: "Do your three stoplight tiles now tell you what you wanted?",

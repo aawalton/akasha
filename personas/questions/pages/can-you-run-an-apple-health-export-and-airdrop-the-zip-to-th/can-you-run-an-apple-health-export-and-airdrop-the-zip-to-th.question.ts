@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const canYouRunAnAppleHealthExportAndAirdropTheZipToTh = {
   id: "019fdd5f-f211-718f-8fe3-4a681dda4a81",
-  pageTypeSlug: "question",
   type: "question",
   slug: "can-you-run-an-apple-health-export-and-airdrop-the-zip-to-th",
   ask: "Can you run an Apple Health export and AirDrop the zip to the macbook, leaving it in ~/Downloads?",

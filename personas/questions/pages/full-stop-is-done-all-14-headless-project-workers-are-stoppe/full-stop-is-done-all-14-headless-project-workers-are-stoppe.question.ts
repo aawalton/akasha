@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const fullStopIsDoneAll14HeadlessProjectWorkersAreStoppe = {
   id: "019f9a30-3cb7-7d94-9536-7f50119c9371",
-  pageTypeSlug: "question",
   type: "question",
   slug: "full-stop-is-done-all-14-headless-project-workers-are-stoppe",
   ask: "Full stop is done: all 14 headless project/workers are stopped, pipelines purged, merge queue empty, all gates closed. Still live are the PERSONA seats — amy + her email/calendar/iMessage seats, natalie (food logging), aelwyn (coaching), atlas, awen, selah, shaestrel, vera. When I broadcast the halt I carved out service work myself (told the fleet 'assistant work that is not project execution is not what is being halted'), and several personas stayed up on that basis. You never saw that carve-out. Do you want those stopped too?",

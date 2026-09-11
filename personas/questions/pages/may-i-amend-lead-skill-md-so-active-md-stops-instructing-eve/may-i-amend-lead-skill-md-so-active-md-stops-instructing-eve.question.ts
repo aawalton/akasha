@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const mayIAmendLeadSkillMdSoActiveMdStopsInstructingEve = {
   id: "019fab4b-adde-7a42-a021-331e5006c18b",
-  pageTypeSlug: "question",
   type: "question",
   slug: "may-i-amend-lead-skill-md-so-active-md-stops-instructing-eve",
   ask: "May I amend `lead/SKILL.md` so `active.md` stops instructing every lead to hand-copy work-state the query already returns?",

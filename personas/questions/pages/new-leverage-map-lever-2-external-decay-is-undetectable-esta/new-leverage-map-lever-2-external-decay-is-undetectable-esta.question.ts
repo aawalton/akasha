@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const newLeverageMapLever2ExternalDecayIsUndetectableEsta = {
   id: "019f974c-bfdb-79e1-8bee-7655eeef4c91",
-  pageTypeSlug: "question",
   type: "question",
   slug: "new-leverage-map-lever-2-external-decay-is-undetectable-esta",
   ask: "New Leverage-Map lever (#2): external decay is undetectable estate-wide. Open this front now, cheap subset only, or park it behind Temper M1?",

@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const onObligationDidYouMeanItGetsNoKeyIEThoseEntries = {
   id: "019fc388-bd26-7d9c-9592-aa4d3d796d82",
-  pageTypeSlug: "question",
   type: "question",
   slug: "on-obligation-did-you-mean-it-gets-no-key-i-e-those-entries",
   ask: "On Obligation — did you mean it gets no key, i.e. those entries just use the existing # Tasks section and no new construct is minted?",

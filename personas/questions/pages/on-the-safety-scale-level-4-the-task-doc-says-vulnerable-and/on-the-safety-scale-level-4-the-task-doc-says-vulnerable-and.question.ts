@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const onTheSafetyScaleLevel4TheTaskDocSaysVulnerableAnd = {
   id: "019fbbd7-7649-7d3d-b227-7165fb439cfe",
-  pageTypeSlug: "question",
   type: "question",
   slug: "on-the-safety-scale-level-4-the-task-doc-says-vulnerable-and",
   ask: "On the safety scale, level 4: the task doc says 'vulnerable' and the shipped table says 'Can be secure'. Read as a capability ('can be vulnerable' = safe enough to open up) they agree and 4 is high-safety; read as a bare state, 'vulnerable' means the opposite. A seat hearing 'I feel vulnerable' currently scores it 4, near the top. Which did you mean?",

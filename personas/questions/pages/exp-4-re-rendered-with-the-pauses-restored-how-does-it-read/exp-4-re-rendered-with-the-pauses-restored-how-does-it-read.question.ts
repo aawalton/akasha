@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const exp4ReRenderedWithThePausesRestoredHowDoesItRead = {
   id: "019f76b7-99c1-7606-9218-9a181a072900",
-  pageTypeSlug: "question",
   type: "question",
   slug: "exp-4-re-rendered-with-the-pauses-restored-how-does-it-read",
   ask: "Exp-4 re-rendered with the pauses restored — how does it read now?",

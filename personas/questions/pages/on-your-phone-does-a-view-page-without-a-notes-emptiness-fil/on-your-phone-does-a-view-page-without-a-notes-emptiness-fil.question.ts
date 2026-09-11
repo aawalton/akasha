@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const onYourPhoneDoesAViewPageWithoutANotesEmptinessFil = {
   id: "019f4c60-e479-7f71-95f9-15f32e041593",
-  pageTypeSlug: "question",
   type: "question",
   slug: "on-your-phone-does-a-view-page-without-a-notes-emptiness-fil",
   ask: "On your phone, does a view page without a notes-emptiness filter (like Tracking or Projects view) also display without cards right now?",

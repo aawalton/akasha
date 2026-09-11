@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const yourDatabaseFailedOverYesterdayAt1644AndTheNewPri = {
   id: "019f9942-77ab-74bd-b010-70c2bdd8b8b3",
-  pageTypeSlug: "question",
   type: "question",
   slug: "your-database-failed-over-yesterday-at-16-44-and-the-new-pri",
   ask: "Your database failed over yesterday at 16:44 and the new primary is 3-5x slower. I can try moving it to the quieter node, but that drops every connection for ~10 minutes. Want me to, and when?",

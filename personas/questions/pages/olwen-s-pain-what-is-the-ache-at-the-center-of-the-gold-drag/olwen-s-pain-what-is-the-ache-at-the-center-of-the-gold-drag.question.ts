@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const olwenSPainWhatIsTheAcheAtTheCenterOfTheGoldDrag = {
   id: "019f6e3c-7804-79dd-9784-3fc427c31a9f",
-  pageTypeSlug: "question",
   type: "question",
   slug: "olwen-s-pain-what-is-the-ache-at-the-center-of-the-gold-drag",
   ask: "Olwen's Pain — what is the ache at the center of the gold dragon?",

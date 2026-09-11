@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const reAskingYourEarlierTapWasLostToTheSinceFixedResol = {
   id: "019f69f0-e6a3-7403-b171-49a3e5495332",
-  pageTypeSlug: "question",
   type: "question",
   slug: "re-asking-your-earlier-tap-was-lost-to-the-since-fixed-resol",
   ask: "Re-asking (your earlier tap was lost to the since-fixed resolve bug): on build 122, when the keyboard hid after deleting a block — which affordance had you used?",

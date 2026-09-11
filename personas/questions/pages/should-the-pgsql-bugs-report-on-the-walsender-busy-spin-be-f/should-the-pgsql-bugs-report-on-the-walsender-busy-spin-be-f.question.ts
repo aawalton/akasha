@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const shouldThePgsqlBugsReportOnTheWalsenderBusySpinBeF = {
   id: "019f5116-cadb-774d-a6e5-183e76400970",
-  pageTypeSlug: "question",
   type: "question",
   slug: "should-the-pgsql-bugs-report-on-the-walsender-busy-spin-be-f",
   ask: "Should the pgsql-bugs report on the walsender busy-spin be filed, and if so, under which identity/email?",

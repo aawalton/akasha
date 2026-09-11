@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const ratifyTheWorkerVocabularySectionForTheAgentTaxonomy = {
   id: "019f73e5-348d-715b-899f-5a3faa697d1c",
-  pageTypeSlug: "question",
   type: "question",
   slug: "ratify-the-worker-vocabulary-section-for-the-agent-taxonomy",
   ask: "Ratify the 'worker' vocabulary section for the agent-taxonomy doc? (Your /p vocabulary, so the final call is yours.)",

@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const build142IsReadyDoesOfflineChapterAudioWorkAirplane = {
   id: "019f7694-5f8c-73ac-8fd2-bf142046c90a",
-  pageTypeSlug: "question",
   type: "question",
   slug: "build-142-is-ready-does-offline-chapter-audio-work-airplane",
   ask: "Build 142 is ready — does offline chapter audio work? (airplane mode → never-opened chapter → Listen)",

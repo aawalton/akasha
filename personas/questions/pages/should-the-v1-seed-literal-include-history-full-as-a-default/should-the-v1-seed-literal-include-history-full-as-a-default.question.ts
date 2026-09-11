@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const shouldTheV1SeedLiteralIncludeHistoryFullAsADefault = {
   id: "019f4c6e-1a37-7cfb-a590-9c7c46fd9dbe",
-  pageTypeSlug: "question",
   type: "question",
   slug: "should-the-v1-seed-literal-include-history-full-as-a-default",
   ask: "Should the v1 seed literal include `history:'full'` as a default, or does the continuous-scroll default live elsewhere?",

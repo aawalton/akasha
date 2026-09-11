@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const canYouReviewTheSixTierTextsInPackagesAlanwaltonPer = {
   id: "019f4eda-9d59-7e6b-be2c-6f468486d331",
-  pageTypeSlug: "question",
   type: "question",
   slug: "can-you-review-the-six-tier-texts-in-packages-alanwalton-per",
   ask: "Can you review the six tier texts in `packages/alanwalton/personas/core/src/ladder.ts` for #15082 when you have time?",

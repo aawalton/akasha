@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const shouldDefinePrincipleOrRuleSDefineProjectExitAccept = {
   id: "019fce42-9c3f-778d-9428-fef0ba726c8c",
-  pageTypeSlug: "question",
   type: "question",
   slug: "should-define-principle-or-rule-s-define-project-exit-accept",
   ask: "Should define-principle-or-rule's define-project exit accept a finding as discharge when the row is not the seat's to cut?",

@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const yourNeverPassTwoImagesToNanoRuleKeepItBluntOrRef = {
   id: "019f993b-9cb5-7abe-9362-80b09f846baa",
-  pageTypeSlug: "question",
   type: "question",
   slug: "your-never-pass-two-images-to-nano-rule-keep-it-blunt-or-ref",
   ask: 'Your "never pass two images to Nano" rule — keep it blunt, or refine it? The log says the discriminator is the prompt\'s scope, not the image count.',

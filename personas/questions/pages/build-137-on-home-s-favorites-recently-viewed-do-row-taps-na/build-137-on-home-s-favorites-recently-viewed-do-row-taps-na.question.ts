@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const build137OnHomeSFavoritesRecentlyViewedDoRowTapsNa = {
   id: "019f7033-893d-7180-9cf5-d6be7b86cd04",
-  pageTypeSlug: "question",
   type: "question",
   slug: "build-137-on-home-s-favorites-recently-viewed-do-row-taps-na",
   ask: "Build 137: on Home's Favorites/Recently Viewed — do row taps navigate now, and does the new per-row ⋯ menu (View / Favorite / Delete) work, including the favorite toggle?",

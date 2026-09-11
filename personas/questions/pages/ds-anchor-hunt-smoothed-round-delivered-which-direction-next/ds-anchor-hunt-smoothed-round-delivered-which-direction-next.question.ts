@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const dsAnchorHuntSmoothedRoundDeliveredWhichDirectionNext = {
   id: "019f6a3f-85b2-7b4a-94b3-9254d226147a",
-  pageTypeSlug: "question",
   type: "question",
   slug: "ds-anchor-hunt-smoothed-round-delivered-which-direction-next",
   ask: "DS anchor hunt: smoothed round delivered — which direction next?",

@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const whenYouReNextInGameNoRushAfterAReloaduiDoesTheA = {
   id: "019f94af-94e8-79d5-9f73-bc78582e4277",
-  pageTypeSlug: "question",
   type: "question",
   slug: "when-you-re-next-in-game-no-rush-after-a-reloadui-does-the-a",
   ask: "When you're next in-game (no rush): after a /reloadui, does the Antiquity Leads HUD show 'High Isle' for Stone Shank Frame now, instead of Glenumbra?",

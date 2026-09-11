@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const olwenSEconomyWhatFundsHerPoints = {
   id: "019f6e5b-2845-721e-a23d-0026c88aec49",
-  pageTypeSlug: "question",
   type: "question",
   slug: "olwen-s-economy-what-funds-her-points",
   ask: "Olwen's economy: what funds her points?",

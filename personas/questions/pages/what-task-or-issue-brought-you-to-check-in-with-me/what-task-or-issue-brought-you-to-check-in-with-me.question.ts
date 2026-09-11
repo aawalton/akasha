@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const whatTaskOrIssueBroughtYouToCheckInWithMe = {
   id: "019f4d6f-e1e9-7ee6-b402-d2c9805b50b3",
-  pageTypeSlug: "question",
   type: "question",
   slug: "what-task-or-issue-brought-you-to-check-in-with-me",
   ask: "What task or issue brought you to check in with me?",

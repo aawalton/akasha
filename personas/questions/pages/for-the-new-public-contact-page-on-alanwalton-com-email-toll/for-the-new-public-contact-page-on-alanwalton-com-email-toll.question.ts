@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const forTheNewPublicContactPageOnAlanwaltonComEmailToll = {
   id: "019f7087-cede-7697-948b-d122ba7ad37a",
-  pageTypeSlug: "question",
   type: "question",
   slug: "for-the-new-public-contact-page-on-alanwalton-com-email-toll",
   ask: "For the new public contact page on alanwalton.com: email + toll-free number only, or also publish a physical mailing address (Telnyx reviewers sometimes want one)?",

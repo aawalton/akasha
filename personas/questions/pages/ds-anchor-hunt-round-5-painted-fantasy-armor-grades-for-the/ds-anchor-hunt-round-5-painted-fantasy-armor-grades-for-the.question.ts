@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const dsAnchorHuntRound5PaintedFantasyArmorGradesForThe = {
   id: "019f69a1-924f-7a74-8714-adaf985af316",
-  pageTypeSlug: "question",
   type: "question",
   slug: "ds-anchor-hunt-round-5-painted-fantasy-armor-grades-for-the",
   ask: "DS anchor hunt, round 5 (painted fantasy armor): grades for the six?",

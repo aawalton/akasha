@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const dualConditioningIsACleanNegativeProceedWithParagraph = {
   id: "019f7c33-5366-794a-a387-8a05df83715e",
-  pageTypeSlug: "question",
   type: "question",
   slug: "dual-conditioning-is-a-clean-negative-proceed-with-paragraph",
   ask: "Dual-conditioning is a clean negative — proceed with paragraph-aligned re-anchors for the seams?",

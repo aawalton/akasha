@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const build136DoAllFourWidgetTapsLandOnTheirViewsValues = {
   id: "019f6fd8-b2d0-7bdd-9864-21a83d738266",
-  pageTypeSlug: "question",
   type: "question",
   slug: "build-136-do-all-four-widget-taps-land-on-their-views-values",
   ask: "Build 136: do all four widget taps land on their views? (Values→Tracking, Projects→Projects, Claude Usage→claude-accounts, Inbox→Tasks.) And does the claude-accounts landing look right — weekly % + reset time per account, sorted by reset?",

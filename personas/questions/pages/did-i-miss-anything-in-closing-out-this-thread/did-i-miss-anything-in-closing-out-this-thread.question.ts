@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const didIMissAnythingInClosingOutThisThread = {
   id: "019f4f17-b0b1-7b94-ae6b-5f3762fcc0ff",
-  pageTypeSlug: "question",
   type: "question",
   slug: "did-i-miss-anything-in-closing-out-this-thread",
   ask: "Did I miss anything in closing out this thread?",

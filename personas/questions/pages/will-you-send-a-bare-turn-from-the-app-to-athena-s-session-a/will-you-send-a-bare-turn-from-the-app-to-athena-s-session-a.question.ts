@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const willYouSendABareTurnFromTheAppToAthenaSSessionA = {
   id: "019f4c5d-aa2d-7250-beab-68fb2490acb1",
-  pageTypeSlug: "question",
   type: "question",
   slug: "will-you-send-a-bare-turn-from-the-app-to-athena-s-session-a",
   ask: "Will you send a bare turn from the app to athena's session and then to aranya's session to test whether control commands reach these seats despite their rcConnections being 0?",

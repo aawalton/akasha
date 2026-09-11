@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const doesTheKeeperUnrevivableNotificationArriveOnYourDevi = {
   id: "019fa64b-70db-79d0-97b8-e06359532b61",
-  pageTypeSlug: "question",
   type: "question",
   slug: "does-the-keeper-unrevivable-notification-arrive-on-your-devi",
   ask: "Does the keeper-unrevivable notification arrive on your device, and does it read clearly enough that you know what happened without going to look?",

@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const onceAPackageSClaudeMdIsRebuiltAsAFolderDomainHer = {
   id: "019fba83-f773-73c7-b205-693aaa752978",
-  pageTypeSlug: "question",
   type: "question",
   slug: "once-a-package-s-claude-md-is-rebuilt-as-a-folder-domain-her",
   ask: "Once a package's CLAUDE.md is rebuilt as a folder domain here, what happens to the CLAUDE.md still sitting in the code tree?",

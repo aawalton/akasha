@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const kokoroAudioOnYourPhoneDoesItPlayNow = {
   id: "019f752c-6dba-76e9-b2b7-8184cb810482",
-  pageTypeSlug: "question",
   type: "question",
   slug: "kokoro-audio-on-your-phone-does-it-play-now",
   ask: "Kokoro audio on your phone: does it play now?",

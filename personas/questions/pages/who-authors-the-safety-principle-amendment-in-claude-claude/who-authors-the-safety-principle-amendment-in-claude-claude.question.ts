@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const whoAuthorsTheSafetyPrincipleAmendmentInClaudeClaude = {
   id: "019f9ab0-1796-7a2a-910c-1f8f1725bab7",
-  pageTypeSlug: "question",
   type: "question",
   slug: "who-authors-the-safety-principle-amendment-in-claude-claude",
   ask: "Who authors the Safety principle amendment in ~/.claude/CLAUDE.md — the worker on #16259, or you?",

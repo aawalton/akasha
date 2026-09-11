@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const canYouPhysicallyPowerCycleNode03WhenYouGetThisIt = {
   id: "019f9648-85d1-771d-b910-1417a3b67a3b",
-  pageTypeSlug: "question",
   type: "question",
   slug: "can-you-physically-power-cycle-node-03-when-you-get-this-it",
   ask: "Can you physically power-cycle node-03 when you get this? It's the sole unblock for the entire Milestone-1 web-readiness landing (your #1 project) and all cluster CI pushes.",

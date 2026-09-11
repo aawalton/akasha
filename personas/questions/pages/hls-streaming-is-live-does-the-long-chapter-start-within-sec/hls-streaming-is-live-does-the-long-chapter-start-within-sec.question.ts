@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const hlsStreamingIsLiveDoesTheLongChapterStartWithinSec = {
   id: "019f764c-4209-746d-985c-7bcb45fefdcc",
-  pageTypeSlug: "question",
   type: "question",
   slug: "hls-streaming-is-live-does-the-long-chapter-start-within-sec",
   ask: "HLS streaming is live — does the long chapter start within seconds on your phone now?",

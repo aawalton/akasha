@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const canYouFillInTheDetailsForLewisAndAmberTheirRoles = {
   id: "019f4cac-4185-7972-b335-8fa6fb4ff9ac",
-  pageTypeSlug: "question",
   type: "question",
   slug: "can-you-fill-in-the-details-for-lewis-and-amber-their-roles",
   ask: "Can you fill in the details for Lewis and Amber (their roles, conversation notes, and follow-ups) when you have time tonight?",

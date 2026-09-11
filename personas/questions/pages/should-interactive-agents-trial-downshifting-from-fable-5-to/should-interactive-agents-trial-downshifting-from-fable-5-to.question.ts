@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const shouldInteractiveAgentsTrialDownshiftingFromFable5To = {
   id: "019f95c9-8ce2-7318-865b-f66561ef8d17",
-  pageTypeSlug: "question",
   type: "question",
   slug: "should-interactive-agents-trial-downshifting-from-fable-5-to",
   ask: "Should interactive agents trial downshifting from Fable 5 to Opus 5 as the default interactive tier?",

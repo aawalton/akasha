@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const for16104DatabaseWaitEventObservabilityTakeTheCheapS = {
   id: "019f9b3b-d295-7317-b4d2-749899c2ffdd",
-  pageTypeSlug: "question",
   type: "question",
   slug: "for-16104-database-wait-event-observability-take-the-cheap-s",
   ask: "For #16104 (database wait-event observability): take the cheap sampled instrument now, or the correct one that needs a Postgres primary restart?",

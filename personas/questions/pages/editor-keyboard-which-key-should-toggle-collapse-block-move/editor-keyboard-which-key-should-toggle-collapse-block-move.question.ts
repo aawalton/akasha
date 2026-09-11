@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const editorKeyboardWhichKeyShouldToggleCollapseBlockMove = {
   id: "019f9538-9924-77fa-ad31-2fd8c4830080",
-  pageTypeSlug: "question",
   type: "question",
   slug: "editor-keyboard-which-key-should-toggle-collapse-block-move",
   ask: "Editor keyboard: which key should 'toggle-collapse block' move to? It's being freed off Mod+Enter (which returns to its standard job, submit). This changes a key you may have in your fingers, so it's your call.",

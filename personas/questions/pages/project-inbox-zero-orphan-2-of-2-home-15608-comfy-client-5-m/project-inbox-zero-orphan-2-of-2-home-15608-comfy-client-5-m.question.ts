@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const projectInboxZeroOrphan2Of2Home15608ComfyClient5M = {
   id: "019f6e48-12ed-714e-bf07-464f3cdc1309",
-  pageTypeSlug: "question",
   type: "question",
   slug: "project-inbox-zero-orphan-2-of-2-home-15608-comfy-client-5-m",
   ask: "Project inbox-zero, orphan 2 of 2: home #15608 (comfy-client 5-min hang on ComfyUI execution_cached replay of byte-identical graphs) to aranya?",

@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const howDoesDavidActuallyGetTemperOntoHisMachineRightNo = {
   id: "019f98a2-80fa-7707-8707-ed168c8f9c68",
-  pageTypeSlug: "question",
   type: "question",
   slug: "how-does-david-actually-get-temper-onto-his-machine-right-no",
   ask: "How does David actually get Temper onto his machine? Right now there is no way — `bun ops project deploy` is the only thing that installs addons, and it only runs on your workstation, out of the monorepo.",

@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const rcCheckTwoSeatsCoalescedSupersedesTheRhiaOnlyAskDo = {
   id: "019f6e1e-d57a-7b24-b645-fba303cfdac5",
-  pageTypeSlug: "question",
   type: "question",
   slug: "rc-check-two-seats-coalesced-supersedes-the-rhia-only-ask-do",
   ask: "RC check, two seats coalesced (supersedes the rhia-only ask): do rhia and/or aura show disconnected in your app right now?",

@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const dsAnchorHuntFairSkinBlackHairDecoPaintLockedWhich = {
   id: "019f69f7-4c87-7143-a1a1-e78697b1bce2",
-  pageTypeSlug: "question",
   type: "question",
   slug: "ds-anchor-hunt-fair-skin-black-hair-deco-paint-locked-which",
   ask: "DS anchor hunt: fair skin + black hair + deco paint locked — which of the six is she, or closest?",

@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const doYouWantToReAuthAowNowOrShouldAthenaQueueItBeh = {
   id: "019f996a-fbb5-75f5-bf44-8f6e1cbcbc72",
-  pageTypeSlug: "question",
   type: "question",
   slug: "do-you-want-to-re-auth-aow-now-or-should-athena-queue-it-beh",
   ask: "Do you want to re-auth aow now, or should Athena queue it behind the structural fix?",

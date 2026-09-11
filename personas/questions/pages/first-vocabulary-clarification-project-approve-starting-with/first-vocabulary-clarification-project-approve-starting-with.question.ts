@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const firstVocabularyClarificationProjectApproveStartingWith = {
   id: "019f73d2-6c5f-7abd-8f6d-9998c3190794",
-  pageTypeSlug: "question",
   type: "question",
   slug: "first-vocabulary-clarification-project-approve-starting-with",
   ask: "First vocabulary-clarification project: approve starting with 'outcome' (pin one definition of the /p lifecycle term in its register — smallest true clarification, proves the loop), or pick a different first candidate?",

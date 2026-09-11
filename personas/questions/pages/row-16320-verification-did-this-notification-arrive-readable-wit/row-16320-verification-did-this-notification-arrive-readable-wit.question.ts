@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const row16320VerificationDidThisNotificationArriveReadableWit = {
   id: "019fa4f5-4594-71f4-aec1-3cba0430c3dc",
-  pageTypeSlug: "question",
   type: "question",
   slug: "row-16320-verification-did-this-notification-arrive-readable-wit",
   ask: "#16320 verification: did this notification arrive readable, with the shell syntax below intact as literal text?",

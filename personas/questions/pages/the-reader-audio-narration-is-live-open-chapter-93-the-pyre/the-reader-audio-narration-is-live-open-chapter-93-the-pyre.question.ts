@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const theReaderAudioNarrationIsLiveOpenChapter93ThePyre = {
   id: "019f9428-d541-7c57-9bc6-e12cd5230429",
-  pageTypeSlug: "question",
   type: "question",
   slug: "the-reader-audio-narration-is-live-open-chapter-93-the-pyre",
   ask: "The reader audio narration is live — open Chapter 93: The Pyre, hit 'Read aloud', and watch the first minute or two: does the highlight + auto-scroll track the narration sentence-by-sentence as it plays?",

@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const row16905PreDeployVerificationNoAnswerNeededThisResolves = {
   id: "019fa89b-22c1-7131-b78f-082ebf584499",
-  pageTypeSlug: "question",
   type: "question",
   slug: "row-16905-pre-deploy-verification-no-answer-needed-this-resolves",
   ask: "[#16905 pre-deploy verification — no answer needed, this resolves itself] First of two asks, proving one persona can now hold two open questions at once.",

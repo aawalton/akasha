@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const alannotesIntake10Of13TwiAudioCheckIsThisVerifying = {
   id: "019f6987-963a-7d61-979d-388f0a511d2f",
-  pageTypeSlug: "question",
   type: "question",
   slug: "alannotes-intake-10-of-13-twi-audio-check-is-this-verifying",
   ask: "alanNotes intake, 10 of 13: 'TWI audio check' — is this verifying persona-voiced chapter audio for TWI chapters, and whose desk: Rhia (TWI pipeline) or Echo (audio-render path)?",

@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const aelwynSMorningRitualIsGoingAwayAfterItDoesDoYouS = {
   id: "019fa8c3-4f0f-7b0c-8bf3-294fe74a5f8f",
-  pageTypeSlug: "question",
   type: "question",
   slug: "aelwyn-s-morning-ritual-is-going-away-after-it-does-do-you-s",
   ask: "Aelwyn's morning ritual is going away. After it does, do you still want an unprompted daily air-quality + Vyvanse beat, or is the at-session gate enough?",

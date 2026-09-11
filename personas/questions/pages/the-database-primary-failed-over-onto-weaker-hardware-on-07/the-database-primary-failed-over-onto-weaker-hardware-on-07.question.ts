@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const theDatabasePrimaryFailedOverOntoWeakerHardwareOn07 = {
   id: "019f994c-db37-736d-a7da-671cb046d83e",
-  pageTypeSlug: "question",
   type: "question",
   slug: "the-database-primary-failed-over-onto-weaker-hardware-on-07",
   ask: "The database primary failed over onto weaker hardware on 07-24 and the estate has been ~2x slower since. Switch it back, move it to node-06, or just fence CI off it and leave the placement alone?",

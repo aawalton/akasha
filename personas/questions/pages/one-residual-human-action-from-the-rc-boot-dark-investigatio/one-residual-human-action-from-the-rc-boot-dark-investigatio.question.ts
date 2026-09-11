@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const oneResidualHumanActionFromTheRcBootDarkInvestigatio = {
   id: "019f70f9-8638-764c-9acc-c04e0a788486",
-  pageTypeSlug: "question",
   type: "question",
   slug: "one-residual-human-action-from-the-rc-boot-dark-investigatio",
   ask: "One residual human action from the RC boot-dark investigation: file the drafted upstream report to Anthropic?",

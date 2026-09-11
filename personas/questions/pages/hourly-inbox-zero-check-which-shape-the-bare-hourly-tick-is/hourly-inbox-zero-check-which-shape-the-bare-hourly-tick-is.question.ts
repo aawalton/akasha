@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const hourlyInboxZeroCheckWhichShapeTheBareHourlyTickIs = {
   id: "019f70c2-2272-71bb-aa4d-fc6fd19fc6f9",
-  pageTypeSlug: "question",
   type: "question",
   slug: "hourly-inbox-zero-check-which-shape-the-bare-hourly-tick-is",
   ask: "Hourly inbox-zero check: which shape? The bare hourly tick is the doctrine's named anti-pattern, so I owe you the conflict before running it.",

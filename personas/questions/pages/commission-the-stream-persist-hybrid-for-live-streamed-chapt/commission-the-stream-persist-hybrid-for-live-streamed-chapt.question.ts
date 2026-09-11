@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const commissionTheStreamPersistHybridForLiveStreamedChapt = {
   id: "019f74a5-3310-7324-bc22-8f3fa36a6201",
-  pageTypeSlug: "question",
   type: "question",
   slug: "commission-the-stream-persist-hybrid-for-live-streamed-chapt",
   ask: "Commission the stream+persist hybrid for live-streamed chapter audio?",

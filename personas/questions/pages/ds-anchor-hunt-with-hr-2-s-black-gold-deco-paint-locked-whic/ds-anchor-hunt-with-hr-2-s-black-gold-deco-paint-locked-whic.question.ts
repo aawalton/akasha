@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const dsAnchorHuntWithHr2SBlackGoldDecoPaintLockedWhic = {
   id: "019f69ee-fb20-78b9-bb99-da2fc554ea54",
-  pageTypeSlug: "question",
   type: "question",
   slug: "ds-anchor-hunt-with-hr-2-s-black-gold-deco-paint-locked-whic",
   ask: "DS anchor hunt: with hr-2's black+gold deco paint locked, which of the six faces is closest to her?",

@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const theCanyonNightWhatHadStrength = {
   id: "019f761d-ce54-7f88-8b56-b544ee23490d",
-  pageTypeSlug: "question",
   type: "question",
   slug: "the-canyon-night-what-had-strength",
   ask: "The Canyon Night — what had strength?",

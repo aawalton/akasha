@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const alannotesIntakeItems68SecurityClusterDoSecurityAudi = {
   id: "019f6957-8483-7488-988a-8e8b01ffb6a7",
-  pageTypeSlug: "question",
   type: "question",
   slug: "alannotes-intake-items-6-8-security-cluster-do-security-audi",
   ask: "alanNotes intake, items 6-8 (security cluster): do 'Security audit' + 'E2E encryption' + 'Encryption at rest' form one security stream, and whose seat — Athena (harness) or Aranya (ground layer)?",

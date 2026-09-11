@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const doYouWantYourEmailTriageToKeepWakingAmyOrBecomeS = {
   id: "019f9ac1-521c-725c-8d43-a63d8c5d8030",
-  pageTypeSlug: "question",
   type: "question",
   slug: "do-you-want-your-email-triage-to-keep-waking-amy-or-become-s",
   ask: "Do you want your email triage to keep waking amy, or become something you pull?",

@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const steamFlaggedAccessFromNewWebOrMobileDeviceOnYourA = {
   id: "019f6c4b-18e4-75f5-82b2-37a240846af4",
-  pageTypeSlug: "question",
   type: "question",
   slug: "steam-flagged-access-from-new-web-or-mobile-device-on-your-a",
   ask: "Steam flagged 'Access from new web or mobile device' on your account — was that you?",

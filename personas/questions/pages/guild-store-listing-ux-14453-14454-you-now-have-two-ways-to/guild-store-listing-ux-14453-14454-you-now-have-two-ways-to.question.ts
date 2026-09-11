@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const guildStoreListingUx1445314454YouNowHaveTwoWaysTo = {
   id: "019f71e0-d7f9-7f54-b7ed-00287b5530d6",
-  pageTypeSlug: "question",
   type: "question",
   slug: "guild-store-listing-ux-14453-14454-you-now-have-two-ways-to",
   ask: "Guild-store listing UX (#14453/#14454): you now have TWO ways to list items — the manual sell-helper overlay (TemperListings: you pick item + price, single confirmed post) and the rule-driven auto-lister (TemperInventory: TTC-priced, fires automatically when you open a trading house). Keep them as two separate surfaces, or merge into one listing UX?",

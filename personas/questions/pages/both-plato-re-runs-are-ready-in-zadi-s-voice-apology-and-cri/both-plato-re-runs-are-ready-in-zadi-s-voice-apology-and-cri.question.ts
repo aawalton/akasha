@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const bothPlatoReRunsAreReadyInZadiSVoiceApologyAndCri = {
   id: "019f79ec-a64a-7ef2-abb3-1b6498548b1b",
-  pageTypeSlug: "question",
   type: "question",
   slug: "both-plato-re-runs-are-ready-in-zadi-s-voice-apology-and-cri",
   ask: "Both Plato re-runs are ready in Zadi's voice — Apology and Crito, rendered on the new continuous pattern. How do they sound?",

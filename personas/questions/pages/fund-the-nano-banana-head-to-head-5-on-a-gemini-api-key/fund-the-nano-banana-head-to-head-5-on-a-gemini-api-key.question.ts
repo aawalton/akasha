@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const fundTheNanoBananaHeadToHead5OnAGeminiApiKey = {
   id: "019f6b68-7177-783d-9e88-350b01e824d0",
-  pageTypeSlug: "question",
   type: "question",
   slug: "fund-the-nano-banana-head-to-head-5-on-a-gemini-api-key",
   ask: "Fund the Nano Banana head-to-head? (~$5 on a Gemini API key)",

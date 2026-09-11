@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const inEsoRightNowTwoOneLookTooltipChecksDoesSet698Vi = {
   id: "019f995f-8f4b-7cf2-b36d-5dd7f7df0d4b",
-  pageTypeSlug: "question",
   type: "question",
   slug: "in-eso-right-now-two-one-look-tooltip-checks-does-set-698-vi",
   ask: 'In ESO right now — two one-look tooltip checks: does set 698 Vivec\'s Duality list "Overland group bosses" ONCE (not twice) on its Vivec City line, and does set 625 Markyn Ring of Majesty\'s row in the LibSets Search UI end with "(+1)"?',

@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const shouldThe15000ByteTokenCeilingApplyToQuestionsMdA = {
   id: "019fbafa-8933-7240-bef4-efce69912299",
-  pageTypeSlug: "question",
   type: "question",
   slug: "should-the-15-000-byte-token-ceiling-apply-to-questions-md-a",
   ask: "Should the 15,000-byte token ceiling apply to `questions/*.md` at all, or should that kind be exempt the way a knowledge document's cost is paid only by whoever opens it?",

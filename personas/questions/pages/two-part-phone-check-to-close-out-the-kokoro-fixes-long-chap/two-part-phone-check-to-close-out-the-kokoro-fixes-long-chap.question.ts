@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const twoPartPhoneCheckToCloseOutTheKokoroFixesLongChap = {
   id: "019f75ea-3294-70fb-8810-931a644ac52c",
-  pageTypeSlug: "question",
   type: "question",
   slug: "two-part-phone-check-to-close-out-the-kokoro-fixes-long-chap",
   ask: "Two-part phone check to close out the kokoro fixes: long chapter + chapter hop",

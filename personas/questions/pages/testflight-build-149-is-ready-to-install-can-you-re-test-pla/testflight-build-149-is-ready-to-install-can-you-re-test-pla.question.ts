@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const testflightBuild149IsReadyToInstallCanYouReTestPla = {
   id: "019f9737-f6da-795d-8a2a-58c319a0590a",
-  pageTypeSlug: "question",
   type: "question",
   slug: "testflight-build-149-is-ready-to-install-can-you-re-test-pla",
   ask: "TestFlight build 149 is ready to install — can you re-test play in the app when you get a chance?",

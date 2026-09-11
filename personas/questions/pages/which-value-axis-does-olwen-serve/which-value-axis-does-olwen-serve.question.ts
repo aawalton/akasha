@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const whichValueAxisDoesOlwenServe = {
   id: "019f6e57-e719-7a4a-8734-0fb7bb114e4b",
-  pageTypeSlug: "question",
   type: "question",
   slug: "which-value-axis-does-olwen-serve",
   ask: "Which value axis does Olwen serve?",

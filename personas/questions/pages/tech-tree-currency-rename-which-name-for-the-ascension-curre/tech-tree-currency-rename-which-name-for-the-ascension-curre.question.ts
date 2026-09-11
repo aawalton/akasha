@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const techTreeCurrencyRenameWhichNameForTheAscensionCurre = {
   id: "019f6982-06db-7144-8894-14b9d8d3bfff",
-  pageTypeSlug: "question",
   type: "question",
   slug: "tech-tree-currency-rename-which-name-for-the-ascension-curre",
   ask: "Tech-tree currency rename: which name for the ascension currency (currently 'stars', ambiguous with gacha girls' 0-5 stars)?",

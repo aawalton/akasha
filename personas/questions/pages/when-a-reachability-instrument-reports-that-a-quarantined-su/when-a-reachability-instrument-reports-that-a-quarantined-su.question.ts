@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const whenAReachabilityInstrumentReportsThatAQuarantinedSu = {
   id: "019fba70-e8b1-72bf-9505-12489fc90f93",
-  pageTypeSlug: "question",
   type: "question",
   slug: "when-a-reachability-instrument-reports-that-a-quarantined-su",
   ask: "When a reachability instrument reports that a quarantined surface is reached by nothing on the clean perimeter, may I retire it on that measurement alone, in batches?",

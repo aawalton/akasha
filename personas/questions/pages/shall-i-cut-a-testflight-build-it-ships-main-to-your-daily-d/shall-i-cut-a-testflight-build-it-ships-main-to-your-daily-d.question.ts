@@ -2,7 +2,6 @@ import type { Question } from "akasha/personas/questions/question.page-type.type
 
 export const shallICutATestflightBuildItShipsMainToYourDailyD = {
   id: "019faa04-2a5e-773e-b1e9-9601b433a116",
-  pageTypeSlug: "question",
   type: "question",
   slug: "shall-i-cut-a-testflight-build-it-ships-main-to-your-daily-d",
   ask: "Shall I cut a TestFlight build? It ships main to your daily-driver phone, and it is owed anyway.",
