@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperBitCodec = {
   id: "01a060af-255f-7995-9b3e-b6dcbaae7cd7",

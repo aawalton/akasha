@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const bitReader = {
   id: "01a060b3-77ca-7b4f-a569-3dce9d9f75ad",
