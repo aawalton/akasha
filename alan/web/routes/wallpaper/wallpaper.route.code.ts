@@ -4,6 +4,7 @@ import {
   orderedWallpaperSlugs,
   type WallpaperRow,
 } from "akasha/personas/wallpaper-order/wallpaper-order.module.code.ts"
+import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 
 const PERSONA_PAGE_TYPE_SLUG = "persona"
 
@@ -18,10 +19,6 @@ const EVERY_PERSONA_WALLPAPER: Query = {
   keys: ["id", "slug", WALLPAPER_KEY, "lastMessagedAt"],
 }
 
-function asStringOrNull(value: unknown): string | null {
-  return typeof value === "string" ? value : null
-}
-
 export async function loader(): Promise<Response> {
   const asked = await askingFor(EVERY_PERSONA_WALLPAPER)
   if ("refused" in asked) {
@@ -29,14 +26,14 @@ export async function loader(): Promise<Response> {
   }
 
   const personaRows: WallpaperRow[] = asked.rows.flatMap((row) => {
-    const id = asStringOrNull(row.id)
+    const id = stringIn(row.id)
     if (id === null) return []
     return [
       {
         id,
-        slug: asStringOrNull(row.slug),
-        wallpaper: asStringOrNull(row[WALLPAPER_KEY]),
-        lastMessagedAt: asStringOrNull(row.lastMessagedAt),
+        slug: stringIn(row.slug),
+        wallpaper: stringIn(row[WALLPAPER_KEY]),
+        lastMessagedAt: stringIn(row.lastMessagedAt),
       },
     ]
   })
