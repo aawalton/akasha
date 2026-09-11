@@ -110,8 +110,8 @@ export const noVoidReturn = {
       statement: "`void` used as an operator on an expression is no type at all.",
     },
     {
-      invariantKind: "gap",
-      statement: "A body filling a slot spelled `void` and dropping a promise is refused.",
+      invariantKind: "absence",
+      statement: "A body filling a slot spelled `void` and dropping a promise is left.",
     },
   ],
 } as const satisfies SyntaxRule
