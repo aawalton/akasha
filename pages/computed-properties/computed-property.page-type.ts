@@ -102,6 +102,16 @@ export const computedProperty = {
       invariantKind: "absence",
       statement: "No computed property's type is a hand-written union.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A calculation's `Held` type argument restates the kind of value its computed property states.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "No check reads a computed property's stated kind against its calculation's `Held`.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
