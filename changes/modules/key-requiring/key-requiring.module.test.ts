@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
 import { requiredIn } from "akasha/changes/modules/key-requiring/key-requiring.module.code.ts"
 import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { holdingOver } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import {
+  bodyAt,
+  holdingOver,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const ROOT = "/var/tmp/key-requiring"
 
@@ -60,6 +63,6 @@ test("a page holding no literal is answered as neither required nor not", () => 
 })
 
 test("a type that could not be read is answered as neither required nor not", () => {
-  const textOf = (path: string): string | null => (path === PAGE ? BODY : null)
+  const textOf = bodyAt(PAGE, BODY)
   expect(requiring("slug", textOf)).toBe(null)
 })

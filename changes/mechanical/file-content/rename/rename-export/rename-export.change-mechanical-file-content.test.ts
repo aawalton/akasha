@@ -3,6 +3,7 @@ import { renameExport } from "akasha/changes/mechanical/file-content/rename/rena
 import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { bodiesIn } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { bodyAt } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import { NOWHERE } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import {
   bodyOf,
@@ -41,7 +42,7 @@ const kept: Kept = { one: 1 }
 export const held = kept.one
 `
 
-const ownBody = (path: string): string | null => (path === OWN_CODE ? OWN_BODY : null)
+const ownBody = bodyAt(OWN_CODE, OWN_BODY)
 
 const shorthandRepo = (): string =>
   indexedRepo({

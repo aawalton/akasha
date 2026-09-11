@@ -190,6 +190,10 @@ export function refusalOf(said: Answer, textOf: BodyOf = () => null): string {
   return "refused" in held ? held.refused : ""
 }
 
+export function bodyAt(at: string, body: string): (path: string) => string | null {
+  return (path) => (path === at ? body : null)
+}
+
 export function holdingOver(
   at: string,
   typeAt: string,

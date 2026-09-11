@@ -4,6 +4,7 @@ import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
+  bodyAt,
   bodyOf,
   holdingOver,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
@@ -96,7 +97,7 @@ test("a body that could not be read is refused", () => {
 })
 
 test("a type that could not be read refuses rather than taking the property away", () => {
-  const textOf = (path: string): string | null => (path === PAGE ? BODY : null)
+  const textOf = bodyAt(PAGE, BODY)
   expect(whyOf("definition", "one thing", textOf)).toBe(
     "whether `definition` is required could not be read"
   )
