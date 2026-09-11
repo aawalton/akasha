@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "no-rule-in-two-files is 852, not 815: 624 pairs share a name and 228 have drifted apart, since the check pairs rule bodies rather than names, so escapeRe and escapeRegex are one rule and real. temper 251, alan 111, checks 92, changes 55, pages 54, seat-system 46, commands 45, agents 33, tail 127. Six agents hold disjoint slices. check-reaches-a-path-through-the-index is Nimue's work and now experimental.",
+        "no-rule-in-two-files was 852, measured 595 after the first collapses: temper 202, checks 64, alan 62, pages 39, changes 39, commands 31, agents 31, products 25, seat-system 23, code-system 23, smilingjenny 22, tail 34. Agents hold disjoint slices and the count moves under them, so re-measure before slicing. A cluster of N refusals is often one missing module wearing N names: check-staging proved it. The check under-reports, since speltIn passes over an arrow held as an object property.",
     },
     {
       statement: "Every runtime helper the Lua compiler has is a page.",
