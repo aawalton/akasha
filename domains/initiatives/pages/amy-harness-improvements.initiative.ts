@@ -15,9 +15,9 @@ export const amyHarnessImprovements = {
         "The reattach itself already worked; what the restart lost was which tab held which seat, because the revive attaches tmux directly and that was the one path writing no seat mark. The bash every shell evals now writes the mark when the editor hands it VSCODE_TMUX_REATTACH. Nothing more can be told from here: the next editor restart is what exercises it.",
     },
     {
-      statement: "The Stream Health Samples shortcut succeeds when an iOS automation runs it.",
+      statement: "Alan's phone drains its health samples without him running a shortcut.",
       workingMemory:
-        "TestFlight build 214 carries a reporter: every run posts its outcome sentence to /api/errors, a route asking for no credential, so even a run that reads nothing out of the Keychain is heard. Read the runs by asking for runtime-error pages whose url is stream-health-samples; the build number rides on the userAgent. Why an automation fails is still unknown. A locked phone can read neither HealthKit nor the Keychain, and that is the reading these reports are there to settle.",
+        'A Shortcuts automation on a timer cannot be relied on. HealthKit\'s store is encrypted while the phone is locked, so every read from a run firing then fails: the 11:30 run on 2026-09-11 reported "Health\'s store was shut" for both metrics, and nothing on the phone can schedule "unlocked". The drain therefore also runs when the app comes forward, which is unlocked by definition, at most once an hour. Read the runs by asking for runtime-error pages whose url is stream-health-samples.',
     },
   ],
 } as const satisfies Initiative
