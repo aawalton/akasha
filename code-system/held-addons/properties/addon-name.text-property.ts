@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type AddonName = string
-
 export const addonName = {
   id: "01a0819c-d367-7e7f-bd2f-562afd223044",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const addonName = {
       statement: "The addon roster answers with this name for the addon.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

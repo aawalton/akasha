@@ -1,7 +1,7 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-import type { Said } from "./said.text-property.ts"
-import type { Takes } from "./takes.text-property.ts"
+import type { Said } from "./said.text-property.types.ts"
+import type { Takes } from "./takes.text-property.types.ts"
 
 export type Take = {
   said: Said

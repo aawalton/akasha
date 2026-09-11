@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type HelpNotes = List<string>
 
 export const helpNotes = {
   id: "01a0503a-e9d3-7871-a992-1d4e1e22d792",
@@ -35,4 +32,5 @@ export const helpNotes = {
       statement: "A line has nothing generated.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

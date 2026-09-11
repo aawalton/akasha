@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type WrittenBy = string
-
 export const writtenBy = {
   id: "01a08234-d8ba-7bb5-9be6-95a087589e12",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const writtenBy = {
       statement: "The command is spelled as a reader would say the command on a command line.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

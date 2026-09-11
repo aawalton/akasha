@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type DisplayName = string
-
 export const displayName = {
   id: "01a0597a-8ead-7ee4-a22f-6a01b0e80d4d",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const displayName = {
   definition: "the name under an app's icon",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

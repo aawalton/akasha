@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type MarketingVersion = string
-
 export const marketingVersion = {
   id: "01a05f96-1925-7984-9108-b4d5346476fc",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const marketingVersion = {
       statement: "A build gives an app the version its page states.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

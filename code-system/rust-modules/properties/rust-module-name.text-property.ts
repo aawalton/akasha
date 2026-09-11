@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type RustModuleName = string
-
 export const rustModuleName = {
   id: "01a06040-f979-76e1-87ca-d456990e75c8",
   pageTypeSlug: "text-property",
@@ -33,4 +31,5 @@ export const rustModuleName = {
       statement: "The module a crate's run begins in is named `main`.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

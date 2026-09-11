@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type TiCleanBlockedReason = string
-
 export const tiCleanBlockedReason = {
   id: "01a0819e-62fa-71d4-9b29-5683cd0211ea",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const tiCleanBlockedReason = {
       statement: "A reason names the call sites the addon cannot convert.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

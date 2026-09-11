@@ -1,9 +1,6 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type ToolReach = string
-
-export type ToolReached = List<ToolReach>
 
 export const toolReached = {
   id: "01a08244-d443-73d4-a3ac-7e9977467048",
@@ -33,4 +30,5 @@ export const toolReached = {
         "A package naming nothing here has every dependency reached by a body the package has.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type TargetName = string
-
 export const targetName = {
   id: "01a059c0-5610-793f-b79a-cb8f78cf963e",
   pageTypeSlug: "text-property",
@@ -18,4 +16,5 @@ export const targetName = {
       statement: "The name a program is built under is the name the built bundle is named for.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

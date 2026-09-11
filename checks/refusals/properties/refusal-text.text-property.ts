@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type RefusalText = string
-
 export const refusalText = {
   id: "01a0699d-4001-7b32-8d47-5e19c4a7f003",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const refusalText = {
       statement: "A hole named in the text and handed no value refuses the printing.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

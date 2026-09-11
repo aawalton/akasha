@@ -12,7 +12,7 @@ import {
 import { costRecorded, opening } from "../../../checks/modules/cost/check-cost.module.code.ts"
 import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
 import { indexRefresh } from "../../pages/index/refresh/index-refresh.command.code.ts"
-import type { HelpNotes } from "../../properties/help-notes.text-property.ts"
+import type { HelpNotes } from "../../properties/help-notes.text-property.types.ts"
 import type { Taking } from "../../properties/taking.record-property.ts"
 import {
   type Held,

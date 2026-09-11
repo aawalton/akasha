@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type NativeShellRepoPath = string
-
 export const nativeShellRepoPath = {
   id: "01a068c9-394b-7ab1-bae3-1499a45430c5",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const nativeShellRepoPath = {
       statement: "A path carrying no colon names the code repository.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

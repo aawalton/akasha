@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type WidgetProfileName = string
-
 export const widgetProfileName = {
   id: "01a068c9-394b-7587-af7d-e66c162badae",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const widgetProfileName = {
   definition: "the App Store profile an app's widgets are signed with",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

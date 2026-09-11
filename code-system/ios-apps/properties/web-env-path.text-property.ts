@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type WebEnvPath = string
-
 export const webEnvPath = {
   id: "01a05f87-1b06-7e23-8e4c-c86b56b73813",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const webEnvPath = {
       statement: "An app whose site needs no env file states no path here.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

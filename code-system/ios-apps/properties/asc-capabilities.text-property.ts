@@ -1,9 +1,6 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type AscCapability = string
-
-export type AscCapabilities = List<AscCapability>
 
 export const ascCapabilities = {
   id: "01a05f87-1b05-7b14-8908-d107128af1be",
@@ -28,4 +25,5 @@ export const ascCapabilities = {
       statement: "A widget's own identifier is given no capability here.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

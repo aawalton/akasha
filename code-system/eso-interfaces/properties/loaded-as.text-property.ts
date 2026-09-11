@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type LoadedAs = string
-
 export const loadedAs = {
   id: "01a061c5-760e-7c2b-8bed-7804c4b4226d",
   pageTypeSlug: "text-property",
@@ -33,4 +31,5 @@ export const loadedAs = {
       statement: "A manifest name matching no page refuses the build rather than being skipped.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

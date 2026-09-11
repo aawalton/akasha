@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Said = string
-
 export const said = {
   id: "01a05027-c468-7aba-9ec6-e02a71e9af84",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const said = {
       statement: "A value a flag has is named in angle brackets after the flag.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

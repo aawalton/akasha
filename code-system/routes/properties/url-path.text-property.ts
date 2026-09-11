@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type UrlPath = string
-
 export const urlPath = {
   id: "01a071dc-83c6-7c58-b6e1-8aaf847e66ef",
   pageTypeSlug: "text-property",
@@ -29,4 +27,5 @@ export const urlPath = {
       statement: "A segment of `*` matches whatever is left of the url.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type DefaultDeviceUdid = string
-
 export const defaultDeviceUdid = {
   id: "01a06289-79d6-72a5-ab7c-3b93f6a436a5",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const defaultDeviceUdid = {
   definition: "the device an app is installed on when the call names none",
   maxLength: 40,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty
