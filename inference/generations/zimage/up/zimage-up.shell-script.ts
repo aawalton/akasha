@@ -8,4 +8,5 @@ export const zimageUp = {
   definition: "the Z-Image container started with the card attached",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
