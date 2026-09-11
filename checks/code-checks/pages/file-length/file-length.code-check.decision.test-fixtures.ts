@@ -65,10 +65,10 @@ function alsoSeeded(root: string): undefined {
   for (const value of CARRIED) {
     const kind = String(value["pageTypeSlug"])
     const slug = String(value["slug"])
-    const id = filing(kind, slug, `akasha/${slug}.${kind}.ts`, value)
     shapeAdded(root, kind, slug, [
       { pageTypeSlug: kind, targetPageTypeSlug: null, unique: null, slug, propertySlug: slug },
     ])
+    const id = filing(kind, slug, `akasha/${slug}.${kind}.ts`, value)
     relationFiled(root, id, "page-property", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
   }
 }
