@@ -239,10 +239,6 @@ export const typecheck = {
     },
     {
       invariantKind: "gap",
-      statement: "A type error never lands.",
-    },
-    {
-      invariantKind: "gap",
       statement:
         "No test fails where the committed index is read in place of the one the change leaves.",
     },
