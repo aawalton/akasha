@@ -5,11 +5,17 @@ import {
   plistPath,
   serviceDir,
 } from "akasha/inference/pool/inference-naming/inference-naming.module.code.ts"
-import type {
-  InferenceHost,
-  InferenceService,
-} from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
+import type { InferenceHost } from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
 import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
+
+export interface Provisioned {
+  readonly name: string
+  readonly pythonVersion: string
+  readonly sourceDir: string
+  readonly workdir: string
+  readonly runs: string
+  readonly lifecycle: "pool" | "always-on"
+}
 
 function provisionScriptName(sourceDir: string): string {
   const slug = sourceDir.slice(sourceDir.lastIndexOf("/") + 1)
@@ -99,9 +105,9 @@ export function buildMfluxQueryScript(host: InferenceHost, serviceName: string):
   ].join("\n")
 }
 
-export function buildRunScript(host: InferenceHost, service: InferenceService): string {
+export function buildRunScript(host: InferenceHost, service: Provisioned): string {
   const cwd = `${serviceDir(host.home, service.name)}/${service.workdir}`
-  const execLine = `exec ${service.command.map(quoted).join(" ")}`
+  const execLine = `exec ${service.runs}`
   return [
     "#!/bin/bash",
     "set -euo pipefail",
@@ -113,7 +119,7 @@ export function buildRunScript(host: InferenceHost, service: InferenceService): 
   ].join("\n")
 }
 
-export function buildPlist(host: InferenceHost, service: InferenceService): string {
+export function buildPlist(host: InferenceHost, service: Provisioned): string {
   const dir = serviceDir(host.home, service.name)
   const supervised = service.lifecycle === "always-on"
   const boolTag = (v: boolean) => (v ? "<true/>" : "<false/>")
@@ -143,7 +149,7 @@ export function buildPlist(host: InferenceHost, service: InferenceService): stri
 
 export function buildApplyScript(args: {
   host: InferenceHost
-  service: InferenceService
+  service: Provisioned
   inputsHash: string
 }): string {
   const { host, service, inputsHash } = args

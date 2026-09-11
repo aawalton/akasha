@@ -37,9 +37,22 @@ import {
   buildApplyScript,
   buildPruneScript,
   buildQueryScript,
+  type Provisioned,
 } from "akasha/inference/pool/provision-script/provision-script.module.code.ts"
 import { computePlan } from "akasha/inference/pool/reconcile-plan/reconcile-plan.module.code.ts"
 import { foldServiceManifest } from "akasha/inference/pool/service-hash/service-hash.module.code.ts"
+import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
+
+function provisioned(service: InferenceService): Provisioned {
+  return {
+    name: service.name,
+    pythonVersion: service.pythonVersion,
+    sourceDir: service.sourceDir,
+    workdir: service.workdir,
+    runs: service.command.map(quoted).join(" "),
+    lifecycle: service.lifecycle,
+  }
+}
 
 export interface ReconcileSummary {
   readonly applied: number
@@ -228,7 +241,10 @@ async function reconcileHost(args: {
       localDir: join(workspace, a.service.sourceDir),
       remoteDir: `${serviceDir(host.home, a.service.name)}/src`,
     })
-    await runSsh(target, buildApplyScript({ host, service: a.service, inputsHash: a.inputsHash }))
+    await runSsh(
+      target,
+      buildApplyScript({ host, service: provisioned(a.service), inputsHash: a.inputsHash })
+    )
   }
 
   return { applied: plan.apply.length, skipped: plan.skip.length, pruned: plan.prune.length }
