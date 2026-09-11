@@ -176,9 +176,11 @@ export function rebuiltWhole(repo: string, tree: string, put: boolean): Rebuilt 
   const [leading, ...also] = indexRootsIn(repo)
   const swept = sweptBeside(leading, put)
   const said = rebuiltFrom(tree, leading, repo, put)
-  for (const root of also) {
-    sweptBeside(root, put)
-    rebuiltFrom(tree, root, repo, put)
+  if (put) {
+    for (const root of also) {
+      sweptBeside(root, put)
+      rebuiltFrom(tree, root, repo, put)
+    }
   }
   return { ...said, swept }
 }
