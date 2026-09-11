@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { relationResolves } from "akasha/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.check.code.ts"
 import {
   A,
+  A_ID,
   note,
   over,
   ROWS_AT,
@@ -10,6 +11,7 @@ import {
   scratch,
 } from "akasha/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.decision.test-fixtures.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { claiming } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
@@ -64,6 +66,7 @@ test("the check lets through a row whose relation reaches a page", () => {
 
 test("the check takes an entry row's file as its input", () => {
   const root = rooted()
+  claiming(root, ROWS_AT, A, A_ID)
   const cast = shadowFor(over(root, [ROWS_AT], { [ROWS_AT]: row("domain/d") }))
   if ("refused" in cast) throw new Error(cast.refused)
 

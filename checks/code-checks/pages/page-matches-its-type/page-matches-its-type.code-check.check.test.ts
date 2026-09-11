@@ -9,7 +9,7 @@ import {
   wrote,
 } from "akasha/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.decision.test-fixtures.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { change } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { change, claiming } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const UNDER = "akasha-matches-bound-"
@@ -55,21 +55,23 @@ const ROWING = { [THING_AT]: ROWED, [ROWS_AT]: "not json at all\n" }
 
 const UNREAD = `'${ROWS_AT}' holds no JSON on line 1, so what the page carries there is unknown rather than nothing`
 
+function rowed(): string {
+  const root = wrote(rooting(UNDER), ROWING)
+  claiming(root, ROWS_AT, THING_AT, "id-one")
+  return root
+}
+
 test("the check takes an entry file as its input, though the change carries no page", () => {
-  const cast = shadowFor(change(wrote(rooting(UNDER), ROWING), [ROWS_AT]))
+  const cast = shadowFor(change(rowed(), [ROWS_AT]))
   if ("refused" in cast) throw new Error(cast.refused)
 
   expect(pageMatchesItsType.isInput(ROWS_AT, cast.shadow)).toBe(true)
 })
 
 test("a change with an entry file alone is judged as the page that file sits beside", () => {
-  const root = wrote(rooting(UNDER), ROWING)
-
-  expect(judged(root, [ROWS_AT])).toEqual([{ path: THING_AT, reason: UNREAD }])
+  expect(judged(rowed(), [ROWS_AT])).toEqual([{ path: THING_AT, reason: UNREAD }])
 })
 
 test("a page the change carries beside its own entry file is judged once rather than twice", () => {
-  const root = wrote(rooting(UNDER), ROWING)
-
-  expect(judged(root, [ROWS_AT, THING_AT])).toEqual([{ path: THING_AT, reason: UNREAD }])
+  expect(judged(rowed(), [ROWS_AT, THING_AT])).toEqual([{ path: THING_AT, reason: UNREAD }])
 })
