@@ -19,7 +19,7 @@ export const styles = {
       statement: "A path in a stylesheet is a specifier a bundler resolves rather than a place.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "A change moving what such a specifier reaches repoints that specifier.",
     },
   ],
