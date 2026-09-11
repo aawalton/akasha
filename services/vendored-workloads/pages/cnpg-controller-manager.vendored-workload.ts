@@ -1,4 +1,4 @@
-import type { VendoredWorkload } from "../vendored-workload.page-type.types.ts"
+import type { VendoredWorkload } from "akasha/services/vendored-workloads/vendored-workload.page-type.types.ts"
 
 export const cnpgControllerManager = {
   id: "01a068e5-527c-75fd-b83c-9d21a07b4077",

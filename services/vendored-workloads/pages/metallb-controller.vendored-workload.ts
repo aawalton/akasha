@@ -1,4 +1,4 @@
-import type { VendoredWorkload } from "../vendored-workload.page-type.types.ts"
+import type { VendoredWorkload } from "akasha/services/vendored-workloads/vendored-workload.page-type.types.ts"
 
 export const metallbController = {
   id: "01a068e5-527c-718d-96eb-f449ce869cd1",

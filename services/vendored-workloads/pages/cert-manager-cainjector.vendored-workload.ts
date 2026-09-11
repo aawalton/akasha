@@ -1,4 +1,4 @@
-import type { VendoredWorkload } from "../vendored-workload.page-type.types.ts"
+import type { VendoredWorkload } from "akasha/services/vendored-workloads/vendored-workload.page-type.types.ts"
 
 export const certManagerCainjector = {
   id: "01a068e5-527c-73ac-8664-2c8bb2697205",
