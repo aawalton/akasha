@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import {
   type Asking,
   heldIn,
