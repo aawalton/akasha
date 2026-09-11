@@ -6,8 +6,8 @@ export const clientReachesPagesThroughItsHooks = {
   slug: "client-reaches-pages-through-its-hooks",
   definition: "the check refusing a browser file reaching the pages table outside the pages hooks",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

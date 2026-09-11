@@ -6,8 +6,8 @@ export const domainIsNamedByAParent = {
   slug: "domain-is-named-by-a-parent",
   definition: "the check refusing a domain the whole does not reach by exactly one chain of parts",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

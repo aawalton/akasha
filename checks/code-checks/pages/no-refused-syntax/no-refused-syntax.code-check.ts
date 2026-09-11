@@ -7,8 +7,8 @@ export const noRefusedSyntax = {
   definition: "the check refusing a source file with a pattern a syntax rule names",
   parts: ["page-type/syntax-rule"],
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

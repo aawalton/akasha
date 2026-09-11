@@ -6,8 +6,8 @@ export const noReExport = {
   slug: "no-re-export",
   definition: "the check refusing a file that exports a name it did not declare itself",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

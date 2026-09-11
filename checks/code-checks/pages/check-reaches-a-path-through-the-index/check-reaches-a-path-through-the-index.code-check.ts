@@ -7,8 +7,8 @@ export const checkReachesAPathThroughTheIndex = {
   definition: "the check refusing a page file that spells or lists a path the index answers for",
   parts: ["module/specifier-placing"],
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

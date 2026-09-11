@@ -7,8 +7,8 @@ export const pageMatchesItsType = {
   definition: "the check refusing a page that does not carry what its page type declares",
   parts: ["module/entry-reasons", "module/page-reasons"],
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

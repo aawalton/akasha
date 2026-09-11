@@ -6,8 +6,8 @@ export const calculationImportsOnlyTypes = {
   slug: "calculation-imports-only-types",
   definition: "the check refusing an import a calculation cannot fold into its own text",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

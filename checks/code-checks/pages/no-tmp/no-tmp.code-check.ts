@@ -6,8 +6,8 @@ export const noTmp = {
   slug: "no-tmp",
   definition: "the check refusing a reach for /tmp, where no scratch of ours sits",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

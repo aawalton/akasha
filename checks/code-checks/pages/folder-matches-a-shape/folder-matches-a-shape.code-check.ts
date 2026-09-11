@@ -12,8 +12,8 @@ export const folderMatchesAShape = {
     "page-type/folder-shape",
   ],
   runsOnChange: false,
-  runsOnWorktree: false,
   runsOnDeploy: false,
+  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

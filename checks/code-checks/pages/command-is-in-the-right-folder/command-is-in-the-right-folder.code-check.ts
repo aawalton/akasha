@@ -7,8 +7,8 @@ export const commandIsInTheRightFolder = {
   definition:
     "the check refusing a command or a namespace whose folder is not the one its parts name",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

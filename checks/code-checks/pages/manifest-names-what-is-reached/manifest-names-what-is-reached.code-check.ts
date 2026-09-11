@@ -7,8 +7,8 @@ export const manifestNamesWhatIsReached = {
   definition:
     "the check judging a package's dependencies and the packages its own code reaches to be one set",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

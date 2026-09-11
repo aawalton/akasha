@@ -95,6 +95,10 @@ export const check = {
       statement: "Every check runs at change unless Alan has that check off.",
     },
     {
+      invariantKind: "upkeep",
+      statement: "Every check that runs at change runs at deploy.",
+    },
+    {
       invariantKind: "departure",
       statement: "An input wider than the answer rests on costs a run that finds nothing.",
     },

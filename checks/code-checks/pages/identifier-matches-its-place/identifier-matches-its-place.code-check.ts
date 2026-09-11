@@ -6,8 +6,8 @@ export const identifierMatchesItsPlace = {
   slug: "identifier-matches-its-place",
   definition: "the check refusing a declared name not written in the format its place states",
   runsOnChange: false,
-  runsOnWorktree: false,
   runsOnDeploy: false,
+  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

@@ -7,8 +7,8 @@ export const noIndexPathSpelled = {
   definition:
     "the check refusing code outside the indexes folder that spells a path into the index",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

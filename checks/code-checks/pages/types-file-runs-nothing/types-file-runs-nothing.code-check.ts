@@ -6,8 +6,8 @@ export const typesFileRunsNothing = {
   slug: "types-file-runs-nothing",
   definition: "the check refusing anything but a declaration in a module's types file",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

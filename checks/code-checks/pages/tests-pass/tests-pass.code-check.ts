@@ -6,8 +6,8 @@ export const testsPass = {
   slug: "tests-pass",
   definition: "the check refusing a change whose tests do not pass",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

@@ -6,8 +6,8 @@ export const keyNamesOneProperty = {
   slug: "key-names-one-property",
   definition: "the check with each of a declarer's keys to one property, narrowed where restated",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

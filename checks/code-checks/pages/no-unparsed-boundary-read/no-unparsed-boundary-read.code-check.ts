@@ -6,8 +6,8 @@ export const noUnparsedBoundaryRead = {
   slug: "no-unparsed-boundary-read",
   definition: "the check refusing a read across a boundary that no parse follows",
   runsOnChange: false,
-  runsOnWorktree: false,
   runsOnDeploy: false,
+  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

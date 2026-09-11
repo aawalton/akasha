@@ -6,8 +6,8 @@ export const phoneNumberIsE164 = {
   slug: "phone-number-is-e164",
   definition: "the check refusing a phone number that is not written in E.164",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

@@ -6,8 +6,8 @@ export const globalDeclaredOnce = {
   slug: "global-declared-once",
   definition: "the check refusing a global name a declaration file and another file both declare",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

@@ -7,8 +7,8 @@ export const idIsAUuidVersion7 = {
   definition:
     "the check refusing a page whose stated id is not a uuid version 7 written in lower uuid",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

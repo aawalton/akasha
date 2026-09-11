@@ -6,8 +6,8 @@ export const invariantStatementIsPlain = {
   slug: "invariant-statement-is-plain",
   definition: "the check refusing an invariant that is not written in plain language",
   runsOnChange: false,
-  runsOnWorktree: false,
   runsOnDeploy: false,
+  runsOnWorktree: false,
   runsOnAudit: true,
   invariants: [
     {

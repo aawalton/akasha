@@ -6,8 +6,8 @@ export const noImportCycle = {
   slug: "no-import-cycle",
   definition: "the check refusing a module under akasha that imports its way back around to itself",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

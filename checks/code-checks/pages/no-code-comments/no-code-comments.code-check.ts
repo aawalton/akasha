@@ -6,8 +6,8 @@ export const noCodeComments = {
   slug: "no-code-comments",
   definition: "the check refusing a comment that is none of the code comment forms",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

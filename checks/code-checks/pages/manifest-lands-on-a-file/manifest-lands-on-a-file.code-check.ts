@@ -6,8 +6,8 @@ export const manifestLandsOnAFile = {
   slug: "manifest-lands-on-a-file",
   definition: "the check refusing a way into a package that lands where no file is",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

@@ -6,8 +6,8 @@ export const noMethodSignature = {
   slug: "no-method-signature",
   definition: "the check refusing a method signature in an interface or a type literal",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

@@ -6,8 +6,8 @@ export const shellClean = {
   slug: "shell-clean",
   definition: "the check refusing a change shellcheck finds fault in",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

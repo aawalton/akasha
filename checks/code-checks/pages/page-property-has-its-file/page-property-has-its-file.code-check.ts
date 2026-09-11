@@ -6,8 +6,8 @@ export const pagePropertyHasItsFile = {
   slug: "page-property-has-its-file",
   definition: "the check refusing a page that states a property held in a file it does not have",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

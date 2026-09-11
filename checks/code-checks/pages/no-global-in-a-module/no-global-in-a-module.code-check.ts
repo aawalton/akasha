@@ -6,8 +6,8 @@ export const noGlobalInAModule = {
   slug: "no-global-in-a-module",
   definition: "the check refusing a module body that declares a global",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

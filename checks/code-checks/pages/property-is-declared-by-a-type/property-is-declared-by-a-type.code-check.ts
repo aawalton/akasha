@@ -6,8 +6,8 @@ export const propertyIsDeclaredByAType = {
   slug: "property-is-declared-by-a-type",
   definition: "the check refusing a page property that no page type declares",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

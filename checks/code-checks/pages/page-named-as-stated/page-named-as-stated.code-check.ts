@@ -6,8 +6,8 @@ export const pageNamedAsStated = {
   slug: "page-named-as-stated",
   definition: "the check refusing a page whose file name or export name is not the name it states",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

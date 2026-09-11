@@ -7,8 +7,8 @@ export const handWrittenGlobalIsNoMethod = {
   definition:
     "the check refusing a hand-written global the generated declarations carry only as a method",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

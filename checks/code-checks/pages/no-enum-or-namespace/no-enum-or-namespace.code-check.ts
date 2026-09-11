@@ -6,8 +6,8 @@ export const noEnumOrNamespace = {
   slug: "no-enum-or-namespace",
   definition: "the check refusing an enum or a named namespace",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

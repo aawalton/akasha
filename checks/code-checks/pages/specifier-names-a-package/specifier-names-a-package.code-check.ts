@@ -6,8 +6,8 @@ export const specifierNamesAPackage = {
   slug: "specifier-names-a-package",
   definition: "the check refusing a specifier that reaches by a package name no manifest states",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

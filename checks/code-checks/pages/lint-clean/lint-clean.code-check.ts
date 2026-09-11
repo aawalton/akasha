@@ -6,8 +6,8 @@ export const lintClean = {
   slug: "lint-clean",
   definition: "the check refusing a change the linter finds fault in",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

@@ -6,8 +6,8 @@ export const introducedPropertyIsAPart = {
   slug: "introduced-property-is-a-part",
   definition: "the check with a page type to naming the properties it introduces among its parts",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

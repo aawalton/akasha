@@ -7,8 +7,8 @@ export const relationResolves = {
   definition:
     "the check refusing a name that reaches no page, and a non-mortal page that names a mortal one",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

@@ -7,8 +7,8 @@ export const heldAddonNamesARosterAddon = {
   definition:
     "the check refusing a `held-addon` page naming an addon the roster finds nowhere or elsewhere",
   runsOnChange: true,
+  runsOnDeploy: true,
   runsOnWorktree: false,
-  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {
