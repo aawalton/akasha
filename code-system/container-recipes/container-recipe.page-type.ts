@@ -45,6 +45,11 @@ export const containerRecipe = {
       statement: "A recipe whose image is pushed names the repository it is pushed to.",
     },
     { invariantKind: "absence", statement: "A recipe nothing pushes names no repository." },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every recipe is composed by the group beside its page rather than written by hand.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
