@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const malachi4 = {
   id: "01a06804-11af-7017-8f5f-de82f8558f71",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "malachi-4",
   title: "Malachi 4",

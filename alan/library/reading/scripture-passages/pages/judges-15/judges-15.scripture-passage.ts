@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const judges15 = {
   id: "01a06804-11ae-709c-98ce-0f9f8508c14b",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "judges-15",
   title: "Judges 15",

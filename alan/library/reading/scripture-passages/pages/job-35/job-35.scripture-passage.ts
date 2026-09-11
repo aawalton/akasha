@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const job35 = {
   id: "01a06804-11ae-7051-aab7-a6a2b446a068",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "job-35",
   title: "Job 35",

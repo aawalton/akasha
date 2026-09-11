@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const ecclesiastes318 = {
   id: "019ffda3-1ec6-78ec-8e88-9b6c4e435fc9",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "ecclesiastes-3-1-8",
   title: "Ecclesiastes 3:1-8",

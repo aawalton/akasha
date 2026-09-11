@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const exodus31314 = {
   id: "019ffda3-1c40-70c5-9e57-c1876df7d059",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "exodus-3-13-14",
   title: "Exodus 3:13-14",

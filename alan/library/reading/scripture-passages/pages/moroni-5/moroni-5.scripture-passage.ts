@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const moroni5 = {
   id: "019f0977-617b-7d88-a202-67b5b0db95e6",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "moroni-5",
   title: "Moroni 5",

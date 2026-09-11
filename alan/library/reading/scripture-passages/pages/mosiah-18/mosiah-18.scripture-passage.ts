@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const mosiah18 = {
   id: "019f0976-eb29-7852-9f49-8fc6fbeed941",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "mosiah-18",
   title: "Mosiah 18",

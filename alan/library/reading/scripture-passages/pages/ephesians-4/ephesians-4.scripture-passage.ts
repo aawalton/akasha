@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const ephesians4 = {
   id: "01a06804-11ac-700a-840c-35abf5637918",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "ephesians-4",
   title: "Ephesians 4",

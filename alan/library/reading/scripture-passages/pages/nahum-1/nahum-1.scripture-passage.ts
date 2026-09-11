@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const nahum1 = {
   id: "01a06804-11af-7053-9699-b72fd7d5bee2",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "nahum-1",
   title: "Nahum 1",

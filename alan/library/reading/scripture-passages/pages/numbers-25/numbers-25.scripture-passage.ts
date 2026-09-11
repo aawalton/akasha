@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const numbers25 = {
   id: "01a06804-11af-7074-8db1-77a8829568b4",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "numbers-25",
   title: "Numbers 25",

@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const proverbs30 = {
   id: "01a06804-11b0-701e-af40-c406da0d2993",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "proverbs-30",
   title: "Proverbs 30",

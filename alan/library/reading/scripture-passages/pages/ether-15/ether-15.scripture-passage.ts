@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const ether15 = {
   id: "019f0977-5d9f-71be-8917-65c878776d60",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "ether-15",
   title: "Ether 15",

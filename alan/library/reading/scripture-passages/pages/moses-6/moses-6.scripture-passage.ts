@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const moses6 = {
   id: "01a06804-11af-7050-af1e-3ded6c15015a",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "moses-6",
   title: "Moses 6",

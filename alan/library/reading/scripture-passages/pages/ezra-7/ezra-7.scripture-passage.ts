@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const ezra7 = {
   id: "01a06804-11ad-7007-98a3-2c4a5f9fe5b4",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "ezra-7",
   title: "Ezra 7",

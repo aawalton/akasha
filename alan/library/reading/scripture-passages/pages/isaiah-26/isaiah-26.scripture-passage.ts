@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const isaiah26 = {
   id: "01a06804-11ad-7074-a26b-5931febf9bc4",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "isaiah-26",
   title: "Isaiah 26",

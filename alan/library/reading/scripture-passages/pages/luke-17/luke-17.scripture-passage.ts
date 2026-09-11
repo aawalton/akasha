@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const luke17 = {
   id: "01a06804-11af-7004-886f-d4ba0796d50a",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "luke-17",
   title: "Luke 17",

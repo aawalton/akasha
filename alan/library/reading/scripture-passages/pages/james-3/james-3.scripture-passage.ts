@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const james3 = {
   id: "01a06804-11ad-70a6-b599-71bfe8323a95",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "james-3",
   title: "James 3",

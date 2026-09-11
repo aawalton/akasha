@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const joshua14 = {
   id: "01a06804-11ae-7082-9f2f-4fd4167fa741",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "joshua-14",
   title: "Joshua 14",
