@@ -8,4 +8,5 @@ export const provisionMacbook = {
   definition: "the MacBook brought to parity with the workstation",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
