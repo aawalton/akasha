@@ -42,11 +42,16 @@ export const index = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The index is written under `.git/data`.",
+      statement: "The index is written under `.git/indexes`.",
     },
     {
       invariantKind: "departure",
-      statement: "Git does not track `.git/data`.",
+      statement: "Git does not track `.git/indexes`.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement:
+        "Every answer is filed under `.git/data/index` as well, and read from there by nothing.",
     },
     {
       invariantKind: "departure",

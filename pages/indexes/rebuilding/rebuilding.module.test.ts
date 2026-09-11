@@ -100,13 +100,13 @@ test("a folder left holding nothing goes with the entry file taken away", () => 
 test("a filing is answered as the body the entry file would hold, under its own path", () => {
   const said = bodiesFrom([{ at: AT, lines: ['{"a":1}', '{"b":1}'] }])
 
-  expect([...said]).toEqual([[".git/data/index/held/one.jsonl", '{"a":1}\n{"b":1}\n']])
+  expect([...said]).toEqual([[".git/indexes/held/one.jsonl", '{"a":1}\n{"b":1}\n']])
 })
 
 test("a filing holding no line is answered as a path carrying no body", () => {
   const said = bodiesFrom([{ at: GONE, lines: [] }])
 
-  expect(said.get(".git/data/index/held/gone.jsonl")).toBeNull()
+  expect(said.get(".git/indexes/held/gone.jsonl")).toBeNull()
 })
 
 test("the body an entry file holds is written the way a filing is answered", () => {
