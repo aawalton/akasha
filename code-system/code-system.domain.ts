@@ -63,6 +63,7 @@ export const codeSystem = {
     "domain/browser",
     "domain/editor",
     "module/path-runs",
+    "module/script-paths",
   ],
   invariants: [
     {

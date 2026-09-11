@@ -6,6 +6,7 @@ import {
   mainSwiftIn,
   scriptIn,
 } from "akasha/code-system/ios-apps/pages/alanwalton/scripts/decode-harness-run/alanwalton-decode-harness-run.shell-script.scripting.code.ts"
+import { namedIn } from "akasha/code-system/script-paths/script-paths.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
@@ -18,24 +19,8 @@ const OWN = "alanwalton-decode-harness-run.shell-script.scripting.code.ts"
 
 const MOVED = "code-system"
 
-const UNDER = '"$AKASHA_ROOT/'
-
-const CLOSING = '"'
-
 function committed(): string {
   return readFileSync(join(HERE, SCRIPT), "utf8")
-}
-
-function namedIn(script: string): readonly string[] {
-  const found: string[] = []
-  for (const line of script.split("\n")) {
-    const at = line.indexOf(UNDER)
-    if (at < 0) continue
-    const said = line.slice(at + UNDER.length)
-    if (!said.endsWith(CLOSING)) continue
-    found.push(said.slice(0, -CLOSING.length))
-  }
-  return found
 }
 
 test("the script written here is the script committed beside this test, byte for byte", () => {
