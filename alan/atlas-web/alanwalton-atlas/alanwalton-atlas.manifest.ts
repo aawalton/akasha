@@ -8,4 +8,10 @@ export const alanwaltonAtlas = {
   definition: "the deployment and service drawing Alan's map and taking in his phone's locations",
   code: "ts",
   generatedDirectory: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The pod template carries the hash of the alanwalton-s3-creds secret.",
+    },
+  ],
 } as const satisfies Manifest
