@@ -180,7 +180,12 @@ export const serviceWorkstation = {
     },
     {
       invariantKind: "departure",
-      statement: "A workstation service reaches systemd through `akasha deploy` alone.",
+      statement:
+        "A workstation service's unit is written and enabled through `akasha deploy` alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service whose work lands in rounds is asked for a round by whoever needs one.",
     },
   ],
   types: "ts",
