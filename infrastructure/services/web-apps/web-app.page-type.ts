@@ -7,7 +7,7 @@ export const webApp = {
   slug: "web-app",
   definition: "a site built from one folder of this repository and served over the web",
   pluralSlug: "web-apps",
-  extends: ["page-type/domain"],
+  extends: ["page-type/service"],
   parts: [
     "module/change-branch-worktree",
     "module/dev-server-env-writing",
