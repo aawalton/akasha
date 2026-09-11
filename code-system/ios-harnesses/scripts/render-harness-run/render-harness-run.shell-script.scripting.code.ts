@@ -9,6 +9,7 @@ import {
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { slugsIn, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import { upFrom } from "akasha/utils/narrow/up-from/up-from.module.code.ts"
 
 const SCRIPT = "shell-script"
 
@@ -33,8 +34,6 @@ const COMPONENTS = "components"
 const SLUG = "slug"
 
 const WIDGET = "-widget"
-
-const UP = ".."
 
 const UNDER = "$AKASHA_ROOT/"
 
@@ -75,13 +74,6 @@ function fileOf(
   const at = besideAt(page.path, propertySlug, held)
   if (at === null) throw new Error(`\`${page.path}\` is no TypeScript file, and a page is one`)
   return at
-}
-
-function upFrom(path: string): string {
-  return dirname(path)
-    .split("/")
-    .map(() => UP)
-    .join("/")
 }
 
 export function componentSwiftIn(given: string | Reading, programSlug: string): readonly string[] {
