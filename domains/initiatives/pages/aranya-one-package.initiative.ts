@@ -33,7 +33,7 @@ export const aranyaOnePackage = {
     {
       statement: "No folder but the root is a workspace package.",
       workingMemory:
-        "Four manifests are left. ops-extension is gone: the editor link points at the repository root, so the root manifest is the extension manifest and the id is now vscode.akasha, proved by an activation in the exthost log. The three ios-apps wait on the mac build installing at the root. vscode-typings goes once the IDE has another route to the vscode types. linked-at is declared on workspace-package rather than domain, so the root page cannot yet state it.\n",
+        "Three manifests are left, all ios-apps, waiting on the mac build installing at the root. ops-extension and vscode-typings are both gone: the editor link points at the repository root and reads the root manifest as vscode.akasha, and the ambient editor api is reached by the extension's own tsconfig rather than by a package name, which typechecks clean over the whole extension. linked-at moved to domain, so the root page states where the editor reaches it.\n",
     },
     {
       statement: "A cluster service deploys naming no package but the root.",
