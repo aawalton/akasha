@@ -150,19 +150,19 @@ export const checkCost = {
       statement: "The two are told apart by whether the page named is there.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "The peak memory a reaped child reached is read nowhere here.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "constraint",
       statement: "A run's peak has the memory earlier runs left resident.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "constraint",
       statement: "A peak a run within forgot is no peak of the run around that run.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "Nothing here has a lock against another writer of the same file.",
     },
   ],
