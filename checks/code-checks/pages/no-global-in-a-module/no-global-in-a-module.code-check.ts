@@ -55,11 +55,6 @@ export const noGlobalInAModule = {
       invariantKind: "absence",
       statement: "The check reads no path beyond the ones the change carries.",
     },
-
-    {
-      invariantKind: "gap",
-      statement: "No module body declares a global.",
-    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
