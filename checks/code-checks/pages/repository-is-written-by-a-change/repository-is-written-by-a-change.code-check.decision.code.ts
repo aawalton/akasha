@@ -52,13 +52,18 @@ const CLOSING = /\/+$/
 
 export function asideIn(text: string): readonly string[] {
   const found = new Set<string>([GIT])
+  const back: string[] = []
   for (const line of text.split("\n")) {
     const said = line.trim()
-    if (said === "" || said.startsWith(NOTED) || said.startsWith(UN_IGNORED)) continue
+    if (said === "" || said.startsWith(NOTED)) continue
+    if (said.startsWith(UN_IGNORED)) {
+      back.push(said.slice(UN_IGNORED.length))
+      continue
+    }
     const bare = said.replaceAll(ANY, "").replace(OPENING, "").replace(CLOSING, "")
     if (bare !== "") found.add(bare)
   }
-  return [...found]
+  return [...found].filter((one) => !back.some((said) => namesAside(said, one)))
 }
 
 export function asideAt(root: string): readonly string[] {

@@ -151,10 +151,6 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "gap",
-      statement: "A path a rule un-ignores is judged rather than let through.",
-    },
-    {
-      invariantKind: "gap",
       statement: "A rule in a `.gitignore` below the root is read.",
     },
     {
@@ -172,6 +168,11 @@ export const repositoryIsWrittenByAChange = {
     {
       invariantKind: "absence",
       statement: "A write from a language other than TypeScript is not judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An un-ignoring rule drops the whole ignored name it reaches rather than only the path it names.",
     },
   ],
   check: { maxCpuSeconds: 10 },

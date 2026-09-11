@@ -17,7 +17,7 @@ afterAll(scratch.sweep)
 const AT = "commands/pages/one/one.command.code.ts"
 
 const IGNORED =
-  "# a note\n\n*.uncommitted.*\n.claude/\nnode_modules/\ndist/\n!keep/a.uncommitted.js\n"
+  "# a note\n\n*.uncommitted.*\n.claude/\nnode_modules/\ndist/\n*.d.ts\n!**/types/**/*.d.ts\n"
 
 const ASIDE = asideIn(IGNORED)
 
@@ -27,7 +27,7 @@ function only(text: string): readonly string[] {
   return reasonsOver(AT, text, ASIDE, ROOTED)
 }
 
-test("the names the repository ignores are read with `.git` and without an un-ignoring rule", () => {
+test("the ignored names are read with `.git` and without one an un-ignoring rule reaches", () => {
   expect(ASIDE).toEqual([".git", ".uncommitted.", ".claude", "node_modules", "dist"])
 })
 
@@ -316,4 +316,16 @@ test("the modules answering a checkout root are the ones whose pages say so and 
   expect(found).toEqual([...ROOT_MODULES_FILED])
   expect(found).not.toContain("change-walking")
   expect(found).not.toContain("shadow")
+})
+
+test("a write to a name an un-ignoring rule reaches is judged where that rule is there", () => {
+  const body =
+    'import { writeFileSync } from "node:fs"\n' +
+    'import { join } from "node:path"\n' +
+    "export function one(given: { root: string }): void {\n" +
+    '  writeFileSync(join(given.root, "a/b.d.ts"), "")\n' +
+    "}\n"
+
+  expect(reasonsOver(AT, body, asideIn("*.d.ts\n"), ROOTED)).toEqual([])
+  expect(reasonsOver(AT, body, asideIn("*.d.ts\n!**/types/**/*.d.ts\n"), ROOTED)).toHaveLength(1)
 })
