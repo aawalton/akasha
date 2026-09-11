@@ -68,7 +68,7 @@ export const spotifyClient = {
     },
     {
       invariantKind: "absence",
-      statement: "No call is made outside the queue.",
+      statement: "No Web API call is made outside the queue.",
     },
     {
       invariantKind: "absence",
