@@ -11,11 +11,11 @@ import {
   type ActivityCategoryId,
 } from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
 import { completionPercent } from "akasha/temper/player-completion/completion-percent/completion-percent.module.code.ts"
+import { useCompletionActivityMode } from "akasha/temper/player-completion-ui/completion-activity-mode-context/completion-activity-mode-context.module.code.tsx"
+import { useCompletionSearch } from "akasha/temper/player-completion-ui/completion-search-context/completion-search-context.module.code.tsx"
 import { CheckIcon, MinusIcon } from "lucide-react"
 import type { ReactNode } from "react"
 import { useEffect, useRef, useState } from "react"
-import { useCompletionActivityMode } from "../completion-activity-mode-context/completion-activity-mode-context.module.code.tsx"
-import { useCompletionSearch } from "../completion-search-context/completion-search-context.module.code.tsx"
 
 type NodeFilter = (node: CompletionNode) => boolean
 
