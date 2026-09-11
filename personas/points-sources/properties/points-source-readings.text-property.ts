@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type PointsSourceReadingsReading = string
-
 export const pointsSourceReadings = {
   id: "01a060b8-bfaf-7006-99ee-756f9ebe1b75",
   pageTypeSlug: "text-property",

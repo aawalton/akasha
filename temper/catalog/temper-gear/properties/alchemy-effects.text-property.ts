@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type AlchemyEffect = string
-
 export const alchemyEffects = {
   id: "01a05fd1-d435-7be6-b06d-cee7752f59c6",
   pageTypeSlug: "text-property",

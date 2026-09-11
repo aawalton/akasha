@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ValidPiece = string
-
 export const validPieces = {
   id: "01a05fd1-d43f-7be1-a074-25f62cd6a7ee",
   pageTypeSlug: "text-property",

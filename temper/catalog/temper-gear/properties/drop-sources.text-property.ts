@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type DropSource = string
-
 export const dropSources = {
   id: "01a05fd1-d439-7027-bdca-1804e14d6caf",
   pageTypeSlug: "text-property",

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ToolReach = string
-
 export const toolReached = {
   id: "01a08244-d443-73d4-a3ac-7e9977467048",
   pageTypeSlug: "text-property",

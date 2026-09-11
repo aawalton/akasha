@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type KeptSense = string
-
 export const keptSenses = {
   id: "01a05d78-f343-7862-8bea-66d8b696dedb",
   pageTypeSlug: "text-property",

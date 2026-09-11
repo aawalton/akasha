@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type AscCapability = string
-
 export const ascCapabilities = {
   id: "01a05f87-1b05-7b14-8908-d107128af1be",
   pageTypeSlug: "text-property",

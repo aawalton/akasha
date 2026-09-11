@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ZoneSlug = string
-
 export const zoneSlugs = {
   id: "01a05fca-cb88-7387-b51b-731bff669c39",
   pageTypeSlug: "text-property",
