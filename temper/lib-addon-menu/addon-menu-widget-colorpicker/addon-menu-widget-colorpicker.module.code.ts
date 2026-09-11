@@ -1,3 +1,4 @@
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import { asControl, asLamFactory } from "../addon-menu-casts/addon-menu-casts.module.code.ts"
 import { WIDGET_VERSION } from "../addon-menu-constants/addon-menu-constants.module.code.ts"
 import { LAMCC, lam, registerWidget, wm } from "../addon-menu-state/addon-menu-state.module.code.ts"
@@ -26,12 +27,8 @@ function toNumber(this: void, value: unknown): number | undefined {
   return typeof value === "number" ? value : undefined
 }
 
-function isRecord(this: void, value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null
-}
-
 function readColorTable(this: void, value: unknown): ColorTable {
-  if (isRecord(value)) {
+  if (isObjectRecord(value)) {
     return {
       r: toNumber(value.r) ?? 0,
       g: toNumber(value.g) ?? 0,

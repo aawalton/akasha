@@ -63,7 +63,7 @@ export function testEnchant(this: void, itemLink: string): undefined {
 }
 
 export function isNonNullObject<T>(this: void, value: unknown): value is T {
-  return typeof value === "object" && value !== null
+  return isObjectRecord(value)
 }
 const SIGIL_ABILITIES: Record<number, boolean> = {
   [236960]: true,
