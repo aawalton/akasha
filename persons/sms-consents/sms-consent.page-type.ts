@@ -41,7 +41,8 @@ export const smsConsent = {
     },
     {
       invariantKind: "departure",
-      statement: "A consent's slug is the digits of the number and the day the person agreed.",
+      statement:
+        "A consent's slug is the page type slug, the digits of the number and the day the person agreed.",
     },
     {
       invariantKind: "gap",

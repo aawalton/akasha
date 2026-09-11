@@ -9,8 +9,13 @@ const CONSENT_PAGE_TYPE_SLUG = "sms-consent"
 
 const CONSENT_WRITER = "alanwalton web <web@alanwalton.com>"
 
+const ADDRESS_HOLDS = 45
+
+const AGENT_HOLDS = 500
+
 export function consentNamed(e164: string, submittedAt: string): string {
-  return `${e164.replace(/\D/g, "")}-${submittedAt.slice(0, 10)}`
+  const digits = e164.replace(/\D/g, "")
+  return `${CONSENT_PAGE_TYPE_SLUG}-${digits}-${submittedAt.slice(0, 10)}`
 }
 
 const BodySchema = z
@@ -30,9 +35,14 @@ function toE164Us(raw: string): string | null {
 
 function addressOf(request: Request): string | null {
   const forwarded = request.headers.get("x-forwarded-for")?.split(",")[0]?.trim()
-  if (forwarded !== undefined && forwarded !== "") return forwarded
+  if (forwarded !== undefined && forwarded !== "") return forwarded.slice(0, ADDRESS_HOLDS)
   const real = request.headers.get("x-real-ip")?.trim()
-  return real === undefined || real === "" ? null : real
+  return real === undefined || real === "" ? null : real.slice(0, ADDRESS_HOLDS)
+}
+
+function agentOf(request: Request): string | null {
+  const said = request.headers.get("user-agent")?.trim()
+  return said === undefined || said === "" ? null : said.slice(0, AGENT_HOLDS)
 }
 
 export async function loader({ request }: { request: Request }): Promise<Response> {
@@ -83,7 +93,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
   const submittedAt = new Date().toISOString()
   const named = consentNamed(e164, submittedAt)
   const address = addressOf(request)
-  const agent = request.headers.get("user-agent")
+  const agent = agentOf(request)
   const wrote = await writingFor({
     writer: CONSENT_WRITER,
     message: `the consent named \`${named}\` is written down`,
@@ -100,7 +110,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
           consentTextVersion: CONSENT_TEXT_VERSION,
           submittedAt,
           ...(address === null ? {} : { ipAddress: address }),
-          ...(agent === null || agent === "" ? {} : { userAgent: agent }),
+          ...(agent === null ? {} : { userAgent: agent }),
         },
       },
     ],
