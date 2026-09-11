@@ -1,3 +1,4 @@
+import { leftAt } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type {
   Adding,
   FileChange,
@@ -90,17 +91,13 @@ export function formattingIn(
   return { edits, formatted }
 }
 
-function pathIn(one: FileChange): string {
-  return one.kind === "move" ? one.pathTo : one.path
-}
-
 function foldedOver(...runs: readonly (readonly FileChange[])[]): readonly FileChange[] {
   const held = new Map<string, FileChange>()
   const ended: FileChange[] = []
   for (const run of runs) {
     for (const one of run) {
       if (one.kind === "append") ended.push(one)
-      else held.set(pathIn(one), one)
+      else held.set(leftAt(one), one)
     }
   }
   return [...held.values(), ...ended]

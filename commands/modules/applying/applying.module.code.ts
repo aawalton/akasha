@@ -1,3 +1,4 @@
+import { leftAt } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { MEASURING } from "akasha/code-system/code-tests/code-tests.module.code.ts"
@@ -81,7 +82,7 @@ export function noneSaid(root: string, page: string): string {
 }
 
 export function pathsIn(rows: readonly FileChange[]): readonly string[] {
-  return rows.map((one) => (one.kind === "move" ? one.pathTo : one.path))
+  return rows.map(leftAt)
 }
 
 export function messageFor(

@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
+import { leftAt } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { notUtf8 } from "akasha/checks/modules/body-not-utf8/body-not-utf8.module.code.ts"
 import { bytesAt, textOf } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
@@ -68,10 +69,6 @@ function wasAt(root: string, path: string): Uint8Array | null {
   return "bytes" in held ? held.bytes : null
 }
 
-export function pathIn(one: FileChange): string {
-  return one.kind === "move" ? one.pathTo : one.path
-}
-
 function bodyIn(one: FileChange): Uint8Array | null {
   if (one.kind === "add") return BYTES.encode(one.content)
   return one.kind === "replace" ? BYTES.encode(one.contentTo) : null
@@ -82,8 +79,8 @@ export function unrestatedFor(given: Given, changes: readonly FileChange[]): rea
   return unrestatedIn(
     given.root,
     changes.map((one) => ({
-      path: pathIn(one),
-      was: wasAt(given.root, pathIn(one)),
+      path: leftAt(one),
+      was: wasAt(given.root, leftAt(one)),
       now: bodyIn(one),
     }))
   )
@@ -316,6 +313,6 @@ export function builtIn(argv: readonly string[], given: Given, piping: Piping): 
   if (troubled !== null) return troubled
   return {
     changes,
-    message: said.message ?? defaultMessage("write", changes.map(pathIn)),
+    message: said.message ?? defaultMessage("write", changes.map(leftAt)),
   }
 }

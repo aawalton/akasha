@@ -9,6 +9,7 @@ import {
 import {
   type BodyOf,
   gathered,
+  leftAt,
   refusing,
 } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer, Moving } from "../../../../modules/answer/change-answer.module.types.ts"
@@ -41,7 +42,7 @@ function worldIn(root: string, textOf: (path: string) => string | null): World {
 }
 
 function pathsOf(said: Answer): readonly string[] {
-  return said.edits.map((one) => (one.kind === "move" ? one.pathTo : one.path)).sort()
+  return said.edits.map(leftAt).sort()
 }
 
 function movesOf(said: Answer): readonly Moving[] {

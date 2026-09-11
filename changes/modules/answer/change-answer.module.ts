@@ -65,6 +65,11 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The path an edit leaves a body at is the path moved to for a move and the path named otherwise.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A whole body written over another is a replace with the whole body each side.",
     },
     {

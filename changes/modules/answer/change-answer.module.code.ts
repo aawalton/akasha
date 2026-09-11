@@ -49,6 +49,10 @@ export function pathsIn(said: Answer): readonly string[] {
   return said.edits.flatMap(pathsOf)
 }
 
+export function leftAt(one: FileChange): string {
+  return one.kind === "move" ? one.pathTo : one.path
+}
+
 export function missing(key: string): string {
   return `\`${key}\` names what this change is handed, and the arguments hold no \`${key}\``
 }
