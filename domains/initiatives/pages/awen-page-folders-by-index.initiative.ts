@@ -13,13 +13,13 @@ export const awenPageFoldersByIndex = {
       statement:
         "Code reaching the pages of a type asks the index for them rather than spelling their folder.",
       workingMemory:
-        "The population was counted rather than guessed: 71 page code files call a listing, and 6 of those also spell a page file name the index answers a file for. Landed are the deploy readers, the mobile scripts through `listedAt`, the source globber through the naming grammar, and the addon manifests as the file an `eso-addon` page carries. Each was measured before and after: 152 of 152 slugs, 105 of 105 scripts, 16 of 16 stylesheets, 48 of 48 addons. Only synth-discovery is left.\n",
+        "71 page code files call a listing; 6 also spell a page file name the index answers a file for. Landed: the deploy readers, the mobile scripts through `listedAt`, the source globber through the naming grammar, the addon manifests as an `eso-addon` page's own file, and synth discovery as the code file of every `manifest` page. Measured each time: 152 slugs, 105 scripts, 16 stylesheets, 48 addons, 56 synths. Retyping the five `module` synths `manifest` restored a synth the spelled folder lost.\n",
     },
     {
       statement:
         "No page's code lists a folder off disk where the index answers the pages in that folder.",
       workingMemory:
-        "The widening is landed and was measured over the tree rather than read: a page's code that both lists and holds a plain literal naming a page-type file-name tail the index answers a file for. The audit now gives 276 refusals over 44 files, of which exactly 2 are this rule, both in synth-discovery. It stays off a page's test, where it wrongly catches invented scratch pages. A page type reached through a template rather than a plain string is still unseen.\n",
+        "The widening is landed and was measured over the tree: a page's code that both lists and holds a plain literal naming a page-type file-name tail the index answers a file for. The audit gives 270 refusals over 42 files, and none is this rule. It stays off a page's test, where it wrongly catches invented scratch pages. A page type reached through a template is still unseen. The two whole-repo sweeps left are neither this rule: the import sweeps in `source-globbing` and `dockerfile-imports`.\n",
     },
   ],
 } as const satisfies Initiative
