@@ -1,14 +1,19 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
+import { identifierNamesOnePage } from "akasha/checks/code-checks/pages/identifier-names-one-page/identifier-names-one-page.code-check.audit.code.ts"
+import {
+  founded,
+  put,
+  treed,
+  typed,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   listedFiled,
   pageFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { founded, put, treed, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { identifierNamesOnePage } from "./identifier-names-one-page.code-check.audit.code.ts"
 
 const CHECK = "check"
 

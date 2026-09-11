@@ -4,7 +4,7 @@ import {
   type Listing,
   refusalsOf,
   type Stated,
-} from "./identifier-names-one-page.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/identifier-names-one-page/identifier-names-one-page.code-check.decision.code.ts"
 
 const ONE_AT = "akasha/one.check.ts"
 

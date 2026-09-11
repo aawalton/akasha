@@ -1,10 +1,13 @@
+import {
+  refusalsOf,
+  statedBy,
+} from "akasha/checks/code-checks/pages/identifier-names-one-page/identifier-names-one-page.code-check.decision.code.ts"
+import { carriedBy } from "akasha/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.decision.code.ts"
+import { input, PAGES } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { identifyingFrom } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { carriedBy } from "../relation-resolves/relation-resolves.code-check.decision.code.ts"
-import { refusalsOf, statedBy } from "./identifier-names-one-page.code-check.decision.code.ts"
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carried = carriedBy(change, shadow.index.pageTypesIn())
