@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { newestWins } from "./newest-wins.module.code.ts"
+import { newestWins } from "akasha/code-system/editor/extension/newest-wins/newest-wins.module.code.ts"
 
 const tick = (): Promise<undefined> =>
   new Promise((go) => {
