@@ -1,1 +1,1 @@
-export type MaxCount = number
+export type MaxCount = number | null

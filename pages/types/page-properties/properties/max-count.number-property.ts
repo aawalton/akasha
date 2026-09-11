@@ -7,6 +7,7 @@ export const maxCount = {
   slug: "max-count",
   propertySlug: "max-count",
   definition: "the most entries a list may hold",
+  nullable: true,
   max: null,
   invariants: [
     {

@@ -9,7 +9,7 @@ export const recordProperty = {
   pluralSlug: "record-properties",
   extends: ["page-type/page-property"],
   properties: [
-    { pageProperty: "record-property/properties", required: true, many: true, maxCount: null },
+    { pageProperty: "one-of-property/properties", required: true, many: true, maxCount: null },
   ],
   types: "ts",
 } as const satisfies PageType

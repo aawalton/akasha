@@ -8,7 +8,7 @@ import type { MediaConfig } from "akasha/pages/types/properties/media-config.rec
 import type { Mortal } from "akasha/pages/types/properties/mortal.boolean-property.types.ts"
 import type { NextSeq } from "akasha/pages/types/properties/next-seq.number-property.types.ts"
 import type { Owner } from "akasha/pages/types/properties/owner.relation-property.types.ts"
-import type { Properties } from "akasha/pages/types/properties/properties.record-property.ts"
+import type { Properties } from "akasha/pages/types/properties/properties.one-of-property.types.ts"
 import type { RunsTabooCheck } from "akasha/pages/types/properties/runs-taboo-check.boolean-property.types.ts"
 import type { Sequence } from "akasha/pages/types/properties/sequence.record-property.types.ts"
 import type { TypeGenerator } from "akasha/pages/types/properties/type-generator.file-property.types.ts"
