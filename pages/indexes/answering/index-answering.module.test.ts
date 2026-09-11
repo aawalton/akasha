@@ -1,11 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { answeringOver } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
-import {
-  fileKeysAt,
-  pageTypesIn,
-  schemaAt,
-} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { fileKeysAt, pageTypesIn } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import {
   idFiled,
   listedFiled,
@@ -15,6 +11,7 @@ import {
   carryingOf,
   declaringOf,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { knownIn } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import {
   everyOfType,
@@ -160,7 +157,7 @@ test("every question answers what the reader beneath it answers with the reading
   expect(index.pageAt(MODULE, "held")).toEqual(pageAt(reading, MODULE, "held", pageOf))
   expect(index.pageTypesIn()).toEqual(pageTypesIn(reading))
   expect(index.propertiesOf(MODULE)).toEqual(propertiesOf(MODULE, reading, pageOf))
-  expect(index.schemaAt()).toEqual(schemaAt(reading))
+  expect(index.shapesAt()).toEqual(shapesAt(reading))
   expect(index.typeSlugById(HELD_ID)).toEqual(typeSlugById(reading, HELD_ID))
   expect(index.typeSlugOf(HELD_ID)).toEqual(typeSlugOf(reading, HELD_ID))
 })

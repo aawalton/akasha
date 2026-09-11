@@ -26,7 +26,7 @@ function waitsFor(shadow: Shadow, kind: string): boolean {
 
 export function generatedProperties(shadow: Shadow): ReadonlyMap<string, Generated> {
   const found = new Map<string, Generated>()
-  for (const held of shadow.index.schemaAt().values()) {
+  for (const held of shadow.index.shapesAt().values()) {
     for (const one of shadow.index.listedAt(held.pageTypeSlug, held.slug)) {
       const value = shadow.pageOf(one.path)
       if (value === null) continue

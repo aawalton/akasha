@@ -5,7 +5,6 @@ import {
   filePropertiesAt,
   filePropertiesIn,
   filePropertiesOver,
-  schemaAt,
   uncommittedFiledIn,
   uniquePropertiesAt,
 } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
@@ -53,7 +52,7 @@ test("the properties held in a file are read from the schema the index carries",
   expect([...fileKeysAt(readingAt(root))]).toEqual([["code", null]])
 })
 
-test("a schema line saying nothing about unique declares no identifier", () => {
+test("a declared shape saying nothing about unique declares no identifier", () => {
   const index = scratch.rootFor("akasha-entries-schema-")
   declaring(index, "text-property", "held", {
     pageTypeSlug: "text-property",
@@ -61,18 +60,7 @@ test("a schema line saying nothing about unique declares no identifier", () => {
     slug: "held",
   })
 
-  expect(schemaAt(readingAt(index)).get("text-property/held")?.unique).toBe(null)
   expect([...uniquePropertiesAt(readingAt(index)).keys()]).toEqual([])
-})
-
-test("a schema line saying nothing about its target names no target", () => {
-  const index = scratch.rootFor("akasha-entries-target-")
-  declaring(index, "relation-property", "held", {
-    pageTypeSlug: "relation-property",
-    slug: "held",
-  })
-
-  expect(schemaAt(readingAt(index)).get("relation-property/held")?.targetPageTypeSlug).toBe(null)
 })
 
 test("a schema line that does say unique declares it still", () => {
@@ -115,28 +103,6 @@ test("a schema line stating no key declares no identifier", () => {
   })
 
   expect([...uniquePropertiesAt(readingAt(index)).keys()]).toEqual([])
-})
-
-test("two properties of one slug are answered apart, each under the page type it is", () => {
-  const index = scratch.rootFor("akasha-entries-two-")
-  declaring(index, "text-property", "foo", { pageTypeSlug: "text-property", slug: "foo" })
-  declaring(index, "number-property", "foo", { pageTypeSlug: "number-property", slug: "foo" })
-
-  expect([...schemaAt(readingAt(index)).keys()].sort()).toEqual([
-    "number-property/foo",
-    "text-property/foo",
-  ])
-})
-
-test("a line carries the key a page reads the property by", () => {
-  const index = scratch.rootFor("akasha-entries-key-")
-  declaring(index, "text-property", "held", {
-    pageTypeSlug: "text-property",
-    slug: "held",
-    propertySlug: "held",
-  })
-
-  expect(schemaAt(readingAt(index)).get("text-property/held")?.propertySlug).toBe("held")
 })
 
 test("a schema line stating a file name says the property is held in a file of that name", () => {

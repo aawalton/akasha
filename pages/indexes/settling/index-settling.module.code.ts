@@ -20,7 +20,6 @@ import {
   folderPropertiesOver,
   type Identifier,
   pageTypesIn,
-  schemaAt,
   uncommittedFiledOver,
   uniquePropertiesAt,
 } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
@@ -38,6 +37,7 @@ import {
   sidecarsOver,
   under,
 } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
+import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { knownIn, type Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import { indexThere } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
@@ -289,7 +289,7 @@ export function settlingOver(
     rowsOver(under(repo, path), value, shaped.entriedIn(value), body)
   const wasKnown = knownIn(reading, wasPageOf)
   const known = knownIn(stepped, nowPageOf)
-  const turnedRelations = relationsTurned(schemaAt(reading), schemaAt(overSchema))
+  const turnedRelations = relationsTurned(shapesAt(reading), shapesAt(overSchema))
   const relating = pagesOfTypes(
     reading,
     typesDeclaring(reading, [wasSource, nowSource], turnedRelations),

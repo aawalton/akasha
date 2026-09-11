@@ -80,7 +80,7 @@ export function resolvingIn(shadow: Shadow): (named: string) => Schema | null {
   let held: Known | null = null
   const known = (): Known => {
     if (held === null) {
-      const shaped = shadow.index.schemaAt()
+      const shaped = shadow.index.shapesAt()
       held = { shaped, bare: narrowedIn(shaped) }
     }
     return held

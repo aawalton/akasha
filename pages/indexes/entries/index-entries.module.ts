@@ -74,10 +74,6 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
-      statement: "The first line a property is filed under answers for that property.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A declaration naming a file property group holds every member of that group in a file.",
     },

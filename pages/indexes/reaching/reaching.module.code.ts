@@ -1,7 +1,7 @@
 import { addressIn, type PageAddress } from "akasha/pages/address/page-address.module.code.ts"
 import type { Rowed, Rowing } from "akasha/pages/entries/page-entries.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { schemaAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import {
   everyOfType,
   type Listed,
@@ -90,7 +90,7 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
   const target = new Map<string, string>()
   const keyOfSlug = new Map<string, string>()
   const keyed = new Map<string, string[]>()
-  for (const held of schemaAt(reading).values()) {
+  for (const held of shapesAt(reading).values()) {
     const named = held.pageTypeSlug === "relation-property" ? held.targetPageTypeSlug : null
     if (named !== null) target.set(held.slug, named)
     if (held.propertySlug === "") continue

@@ -148,7 +148,7 @@ function keyedIn(shadow: Shadow): Keyed {
   const found = KEYED.get(shadow)
   if (found !== undefined) return found
   const rows = new Set<string>()
-  for (const held of shadow.index.schemaAt().values()) {
+  for (const held of shadow.index.shapesAt().values()) {
     if (held.pageTypeSlug === ENTRY_PROPERTY) rows.add(held.propertySlug)
   }
   const made: Keyed = { filed: new Set(shadow.index.fileKeysAt().keys()), rows }

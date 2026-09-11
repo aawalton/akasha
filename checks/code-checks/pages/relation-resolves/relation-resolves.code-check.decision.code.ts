@@ -62,7 +62,7 @@ export function rowsFor(change: Change, known: Shaped, one: Carried): readonly R
 
 export function relationProperties(shadow: Shadow, known: Known): readonly string[] {
   const found: string[] = []
-  for (const held of shadow.index.schemaAt().values()) {
+  for (const held of shadow.index.shapesAt().values()) {
     if (known.targetOf(held.slug) !== null) found.push(held.slug)
   }
   return found.sort()

@@ -1,9 +1,9 @@
 import { join } from "node:path"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { DECLARING_AT } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
+import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { answered, heldOnce } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Reading, Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {
   typeSlugsIn,
   typesAmong,
@@ -149,43 +149,13 @@ export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string 
 
 export type UncommittedBy = ReadonlyMap<string, ReadonlySet<string>>
 
-function schemaFiledIn(reading: Reading): ReadonlyMap<string, Schema> {
-  const found = new Map<string, Schema>()
-  for (const line of reading.lines(DECLARING_AT)) {
-    const said: unknown = JSON.parse(line)
-    if (said === null || typeof said !== "object" || Array.isArray(said)) continue
-    const held = said as Value
-    const pageTypeSlug = textAt(held, "pageTypeSlug") ?? ""
-    const slug = textAt(held, "slug") ?? ""
-    const named = `${pageTypeSlug}/${slug}`
-    if (found.has(named)) continue
-    found.set(named, {
-      pageTypeSlug,
-      targetPageTypeSlug: textAt(held, "targetPageTypeSlug"),
-      unique: textAt(held, "unique"),
-      uniquePropertySlug: textAt(held, "uniquePropertySlug"),
-      slug,
-      propertySlug: textAt(held, "propertySlug") ?? "",
-      fileName: textAt(held, "fileName"),
-      folderName: textAt(held, "folderName"),
-    })
-  }
-  return found
-}
-
-const schemaFiled = heldOnce(schemaFiledIn)
-
-export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
-  return schemaFiled(given)
-}
-
 export function fileKeysAt(given: string | Reading): ReadonlyMap<string, string | null> {
   return answered(given, "", "which keys any page type holds in a file", (reading) => {
     const types = typesIn(reading)
     const above = aboveIn(types)
     const beside = besidesIn(above)
     const grouped = reachingIn(above, GROUP)
-    const properties = schemaAt(reading)
+    const properties = shapesAt(reading)
     const found = new Map<string, string | null>()
     const keyed = keyingBy(types, properties, above, found)
     for (const held of properties.values()) {
@@ -332,7 +302,7 @@ function carriedBy(
 }
 
 function filedAmong(given: string | Reading): ReadonlyMap<string, Held> {
-  return schemaAt(given)
+  return shapesAt(given)
 }
 
 export function filePropertiesIn(values: Iterable<Value>): FilePropertiesBy {
@@ -397,7 +367,7 @@ export function folderPropertiesAt(given: string | Reading): FoldersBy {
 
 export function entryShapesAt(given: string | Reading): ReadonlySet<string> {
   const found = new Set<string>()
-  for (const held of schemaAt(given).values()) {
+  for (const held of shapesAt(given).values()) {
     if (held.pageTypeSlug === ENTRY_PROPERTY) found.add(held.slug)
   }
   return found
@@ -428,7 +398,7 @@ export function uniquePropertiesIn(values: Iterable<Value>): ReadonlyMap<string,
 
 export function uniquePropertiesAt(given: string | Reading): ReadonlyMap<string, Identifier> {
   const found = new Map<string, Identifier>()
-  for (const held of schemaAt(given).values()) {
+  for (const held of shapesAt(given).values()) {
     if (held.unique === null || held.propertySlug === "") continue
     found.set(held.slug, { key: exportedAs(held.propertySlug), uniqueKind: held.unique })
   }

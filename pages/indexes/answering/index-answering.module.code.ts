@@ -6,7 +6,6 @@ import {
   filePropertiesAt,
   folderPropertiesAt,
   pageTypesIn,
-  schemaAt,
   type UncommittedBy,
   uncommittedFiledAt,
 } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
@@ -21,6 +20,7 @@ import {
   declaringOf,
   type Carried as Reached,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { knownIn, type Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import {
   everyOfType,
@@ -110,8 +110,8 @@ export type Answering = {
   readonly propertiesIfNamed: (pageTypeSlug: string) => readonly Carried[] | null
   readonly ruleWhole: () => boolean
   readonly saidOf: (rule: string) => readonly Said[]
-  readonly schemaAt: () => ReadonlyMap<string, Filed>
   readonly schemaOf: (named: string) => Schemad
+  readonly shapesAt: () => ReadonlyMap<string, Filed>
   readonly sidecarsAt: () => SidecarsBy
   readonly slugsOfType: (pageTypeSlug: string) => readonly string[]
   readonly sourceIn: () => Source
@@ -165,8 +165,8 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     propertiesIfNamed: (pageTypeSlug) => propertiesIfNamedOf(pageTypeSlug, reading, pageOf),
     ruleWhole: heldOnce(() => ruleWhole(reading, everyPath(reading))),
     saidOf: (rule) => saidOf(reading, rule),
-    schemaAt: heldOnce(() => schemaAt(reading)),
     schemaOf: (named) => schemaOf(reading, named),
+    shapesAt: heldOnce(() => shapesAt(reading)),
     sidecarsAt: heldOnce(() => sidecarsOver(reading, [])),
     slugsOfType: (pageTypeSlug) => slugsOfType(reading, pageTypeSlug),
     sourceIn: heldOnce(() => sourceIn(reading, pageOf)),
