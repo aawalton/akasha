@@ -215,8 +215,12 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
+      statement: "A store set up for a test answers the rows the answering it was handed gives.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A store set up for a test answers each page type asked for from a branch of its own.",
+        "A caller handing no answering over has each page type asked for answered from a branch.",
     },
     {
       invariantKind: "departure",

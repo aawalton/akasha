@@ -73,16 +73,19 @@ export function rowsAsked(rows: Rows, where: AskedOf["where"]): Rows {
 
 let heldOrigin: string | undefined
 
-export function servingStore(): ReturnType<typeof Bun.serve> {
+export type Answering = (asked: AskedOf) => Rows
+
+export function answeredRows(asked: AskedOf): Rows {
+  if (asked.pageTypeSlug === "readout") return ANSWERED.readouts
+  if (asked.pageTypeSlug === "readout-group") return ANSWERED.groups
+  if (asked.pageTypeSlug === "readout-scale") return ANSWERED.scales
+  return []
+}
+
+export function servingStore(answering: Answering = answeredRows): ReturnType<typeof Bun.serve> {
   const store = Bun.serve({
     port: 0,
-    fetch: async (request) => {
-      const asked = (await request.json()) as { pageTypeSlug: string }
-      if (asked.pageTypeSlug === "readout") return Response.json({ rows: ANSWERED.readouts })
-      if (asked.pageTypeSlug === "readout-group") return Response.json({ rows: ANSWERED.groups })
-      if (asked.pageTypeSlug === "readout-scale") return Response.json({ rows: ANSWERED.scales })
-      return Response.json({ rows: [] })
-    },
+    fetch: async (request) => Response.json({ rows: answering((await request.json()) as AskedOf) }),
   })
   heldOrigin = optionalEnv("PAGES_SERVICE_ORIGIN")
   process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
