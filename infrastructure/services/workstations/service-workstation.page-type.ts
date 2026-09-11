@@ -99,7 +99,8 @@ export const serviceWorkstation = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A workstation service runs the code as the code is in the repository.",
+      statement:
+        "A workstation service runs the code out of the tree its kind's deploy pinned at a commit.",
     },
     {
       invariantKind: "departure",
@@ -181,11 +182,16 @@ export const serviceWorkstation = {
     {
       invariantKind: "departure",
       statement:
-        "A workstation service's unit is written and enabled through `akasha deploy` alone.",
+        "Every workstation service's unit is written and enabled by one deploy naming the kind.",
     },
     {
       invariantKind: "departure",
       statement: "A service whose work lands in rounds is asked for a round by whoever needs one.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The pages a workstation service reads and writes sit in the main checkout rather than that tree.",
     },
   ],
   types: "ts",

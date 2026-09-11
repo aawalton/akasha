@@ -54,7 +54,6 @@ export const deploy = {
     "a cluster service no web app names is put up here too, its manifests applied and its image built where the registry does not hold it.",
     "an image is tagged with the hash of what it was built from, so a checkout that changed nothing names the image already there and builds nothing.",
     "a workstation service is put up here as its systemd units, written where akasha owns them and linked where systemd reads them.",
-    "one call reaches one workstation service's own units, and the units of a service the pages no longer account for are swept by `akasha infrastructure service sweep`.",
     "an ios app is named by the `app-slug` its page states, which is its short name rather than the page's own slug.",
     "an ios app is built on the MacBook at Release at the commit named, and the build takes its own number.",
     "`--ref` takes whatever git resolves — a branch, a tag or a sha — and every deploy reports the hash it resolved to.",
@@ -100,6 +99,8 @@ export const deploy = {
     "the tag naming that image lands as its own commit once the push is done, and the app is then built from the commit that tag is in.",
     "what a deploy is built from is read out of the commit named rather than off the worktree, so a file changed and not committed reaches no deploy.",
     "an ios app is built from origin on the MacBook rather than from this checkout's tree.",
+    "the workstation kind is named whole as `service-workstation`, and naming one of its services is refused, because the whole kind is judged and put up at once.",
+    "that deploy moves one tree pinned at the commit, writes every unit to run its code out of that tree, and restarts only the services whose own closure changed since the last deploy.",
   ],
   invariants: [
     {
@@ -129,7 +130,8 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
-      statement: "A deploy reaches the units of the one workstation service it names.",
+      statement:
+        "A deploy reaches every workstation service's units at once rather than one service's.",
     },
     {
       invariantKind: "departure",
