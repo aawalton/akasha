@@ -18,6 +18,7 @@ export const modulePropertyGroup = {
     "number-property/group-max-cpu-seconds",
     "number-property/group-max-memory-mb",
     "number-property/group-max-wall-seconds",
+    "relation-property/writes",
   ],
   extends: ["page-type/file-property-group"],
   properties: [
@@ -39,6 +40,7 @@ export const modulePropertyGroup = {
     { pageProperty: "number-property/group-max-cpu-seconds", required: false, many: false },
     { pageProperty: "number-property/group-max-wall-seconds", required: false, many: false },
     { pageProperty: "number-property/group-max-memory-mb", required: false, many: false },
+    { pageProperty: "relation-property/writes", required: false, many: false },
   ],
   invariants: [
     {
