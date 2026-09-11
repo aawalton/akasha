@@ -1,5 +1,5 @@
 import { dirname, join } from "node:path"
-import { bodyOf } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import { textIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -62,9 +62,9 @@ export function missingFor(
   filedBy: FilePropertiesBy,
   withheld: UncommittedBy
 ): readonly Judged[] {
-  const bytes = change.after(page)
-  if (bytes === null) return []
-  const value = valueIn(bodyOf({ root: change.root, path: page, bytes }))
+  const text = textIn(change, page)
+  if (text === null) return []
+  const value = valueIn(text)
   if (value === null) return []
   const said: Judged[] = []
   for (const one of filesClaimedIn(value, page, change.root, filedBy, withheld)) {
