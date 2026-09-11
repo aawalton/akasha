@@ -7,6 +7,7 @@ export const monarchDomainFiles = {
   slug: "monarch-domain-files",
   definition: "the account, category, tag and holding pages, composed from Monarch's own rows",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
