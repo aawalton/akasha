@@ -1,0 +1,19 @@
+import type { StrengthLog } from "akasha/alan/values/health/fitness/strength/logs/strength-log.page-type.types.ts"
+
+export const tuesdayPull2026062327175e57OneArmDumbbellRowSet1 = {
+  id: "019ef5b8-767a-77e4-80c9-e2eb0d31e7ab",
+  pageTypeSlug: "strength-log",
+  type: "strength-log",
+  slug: "tuesday-pull-2026-06-23-27175e57-one-arm-dumbbell-row-set-1",
+  title: "One-Arm Dumbbell Row set 1",
+  exercise: "one-arm-dumbbell-row",
+  isWarmup: false,
+  note: "left arm, 7/10, bench-braced",
+  reps: 12,
+  rpe: 7,
+  sessionSlug: "tuesday-pull-2026-06-23-27175e57",
+  setLogDate: "2026-06-23",
+  day: "day-2026-06-23",
+  setNumber: 1,
+  weight: 30,
+} as const satisfies StrengthLog

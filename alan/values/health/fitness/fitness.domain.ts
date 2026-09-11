@@ -10,9 +10,9 @@ export const fitness = {
     "page-type/fitness-equipment",
     "page-type/exercise",
     "page-type/schedule-day",
-    "page-type/strength-log",
     "page-type/selection-policy",
     "domain/fitness-coaching",
     "domain/flexibility",
+    "domain/strength",
   ],
 } as const satisfies Domain

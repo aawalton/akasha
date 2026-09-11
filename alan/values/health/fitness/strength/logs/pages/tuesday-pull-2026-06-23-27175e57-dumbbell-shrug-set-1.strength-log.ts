@@ -1,0 +1,19 @@
+import type { StrengthLog } from "akasha/alan/values/health/fitness/strength/logs/strength-log.page-type.types.ts"
+
+export const tuesdayPull2026062327175e57DumbbellShrugSet1 = {
+  id: "019ef5c4-cf89-780d-aab8-bd0bc1d2eac9",
+  pageTypeSlug: "strength-log",
+  type: "strength-log",
+  slug: "tuesday-pull-2026-06-23-27175e57-dumbbell-shrug-set-1",
+  title: "Dumbbell Shrug set 1",
+  exercise: "dumbbell-shrug",
+  isWarmup: false,
+  note: "20lb DB each hand, 8/10; pause-and-squeeze at top, no roll",
+  reps: 15,
+  rpe: 8,
+  sessionSlug: "tuesday-pull-2026-06-23-27175e57",
+  setLogDate: "2026-06-23",
+  day: "day-2026-06-23",
+  setNumber: 1,
+  weight: 20,
+} as const satisfies StrengthLog

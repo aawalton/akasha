@@ -4,7 +4,7 @@ import type { MobilityReadingMetric } from "akasha/alan/values/health/fitness/fl
 import type { MobilityReadingValueNum } from "akasha/alan/values/health/fitness/flexibility/logs/properties/mobility-reading-value-num.number-property.types.ts"
 import type { MobilityReadingValueText } from "akasha/alan/values/health/fitness/flexibility/logs/properties/mobility-reading-value-text.text-property.types.ts"
 import type { Side } from "akasha/alan/values/health/fitness/flexibility/logs/properties/side.select-property.types.ts"
-import type { Note } from "akasha/alan/values/health/fitness/strength-logs/properties/note.text-property.types.ts"
+import type { Note } from "akasha/alan/values/health/fitness/strength/logs/properties/note.text-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
