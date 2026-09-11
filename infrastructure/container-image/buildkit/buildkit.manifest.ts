@@ -8,4 +8,10 @@ export const buildkit = {
   definition: "the deployment running the builder that turns a Dockerfile into an image",
   code: "ts",
   generatedDirectory: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The pod template carries the hash of the buildkit-config configmap.",
+    },
+  ],
 } as const satisfies Manifest
