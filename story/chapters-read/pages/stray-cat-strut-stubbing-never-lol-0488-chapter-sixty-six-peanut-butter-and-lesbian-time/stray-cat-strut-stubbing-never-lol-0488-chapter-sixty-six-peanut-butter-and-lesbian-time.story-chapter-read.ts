@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0488ChapterSixtySixPeanutButterAndLesbianTime = {
   id: "01a06730-4e5b-7653-8093-058df2226baa",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0488-chapter-sixty-six-peanut-butter-and-lesbian-time",
   title: "Chapter Sixty-Six - Peanut Butter and Lesbian Time",

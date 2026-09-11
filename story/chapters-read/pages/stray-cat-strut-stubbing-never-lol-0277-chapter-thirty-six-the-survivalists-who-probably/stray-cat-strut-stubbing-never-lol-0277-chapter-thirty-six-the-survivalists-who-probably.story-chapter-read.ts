@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0277ChapterThirtySixTheSurvivalistsWhoProbably = {
   id: "01a06730-4e15-71f7-8579-146bf41e24ac",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0277-chapter-thirty-six-the-survivalists-who-probably",
   title: "Chapter Thirty-Six - The Survivalists Who Probably Won't",

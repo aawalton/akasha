@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0065ChapterSixtyThreePeopleAreStupid = {
   id: "01a06730-4e0d-7ab7-a6df-def52d70ffe5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0065-chapter-sixty-three-people-are-stupid",
   title: "Chapter Sixty-Three - People are Stupid",

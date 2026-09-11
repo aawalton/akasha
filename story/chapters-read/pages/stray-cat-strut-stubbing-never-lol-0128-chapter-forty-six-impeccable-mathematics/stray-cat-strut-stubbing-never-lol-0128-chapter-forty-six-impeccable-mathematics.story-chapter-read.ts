@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0128ChapterFortySixImpeccableMathematics = {
   id: "01a06730-4e0f-7df9-b33a-6e31521344ac",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0128-chapter-forty-six-impeccable-mathematics",
   title: "Chapter Forty-Six - Impeccable Mathematics",

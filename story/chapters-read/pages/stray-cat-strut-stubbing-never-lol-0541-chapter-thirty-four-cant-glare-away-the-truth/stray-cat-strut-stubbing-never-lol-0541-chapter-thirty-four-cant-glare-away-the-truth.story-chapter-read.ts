@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0541ChapterThirtyFourCantGlareAwayTheTruth = {
   id: "01a06730-4e8f-7b32-a21b-c996abd10b9c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0541-chapter-thirty-four-cant-glare-away-the-truth",
   title: "Chapter Thirty-Four - Can't Glare Away the Truth",

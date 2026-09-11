@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0474ChapterFiftySevenHitEverythingEverywhereAll = {
   id: "01a06730-4e5b-7028-b01f-c1109049b5d7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0474-chapter-fifty-seven-hit-everything-everywhere-all",
   title: "Chapter Fifty-Seven - Hit Everything, Everywhere, All At Once",

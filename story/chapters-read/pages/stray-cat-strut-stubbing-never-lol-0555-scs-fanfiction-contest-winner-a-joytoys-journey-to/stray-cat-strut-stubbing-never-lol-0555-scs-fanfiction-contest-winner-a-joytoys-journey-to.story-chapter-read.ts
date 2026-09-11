@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0555ScsFanfictionContestWinnerAJoytoysJourneyTo = {
   id: "01a06730-4ec2-721a-a7c8-8629de528da0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0555-scs-fanfiction-contest-winner-a-joytoys-journey-to",
   title: "SCS Fanfiction Contest Winner: A Joytoy's Journey to become a Hive-Queen By PhyonesArc!",

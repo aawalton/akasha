@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0384ScsFanfictionContestWinnerAboveTheCloudsBy = {
   id: "01a06730-4e4b-7f77-ba75-8de3f867f269",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0384-scs-fanfiction-contest-winner-above-the-clouds-by",
   title: "SCS Fanfiction Contest Winner - Above the Clouds - By Luke W. Logan",

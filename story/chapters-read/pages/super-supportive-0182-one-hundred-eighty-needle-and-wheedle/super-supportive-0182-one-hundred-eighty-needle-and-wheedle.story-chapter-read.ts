@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0182OneHundredEightyNeedleAndWheedle = {
   id: "01a06730-4edf-766b-b763-0fc33b0388b1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0182-one-hundred-eighty-needle-and-wheedle",
   title: "ONE HUNDRED EIGHTY: Needle & Wheedle",

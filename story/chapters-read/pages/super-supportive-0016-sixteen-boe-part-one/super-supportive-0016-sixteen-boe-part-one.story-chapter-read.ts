@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0016SixteenBoePartOne = {
   id: "01a06730-4dea-7a71-a672-e50e84ca8d29",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0016-sixteen-boe-part-one",
   title: "SIXTEEN: Boe, Part One",

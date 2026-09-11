@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0372ChapterFiftyFourAllThatWealthIsGoodFor = {
   id: "01a06730-4e18-74b7-b670-ca6deb7a3fcc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0372-chapter-fifty-four-all-that-wealth-is-good-for",
   title: "Chapter Fifty-Four - All That Wealth is Good For",

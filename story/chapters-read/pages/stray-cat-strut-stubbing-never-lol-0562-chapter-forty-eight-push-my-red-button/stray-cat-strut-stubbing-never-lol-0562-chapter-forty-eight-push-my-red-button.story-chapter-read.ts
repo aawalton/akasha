@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0562ChapterFortyEightPushMyRedButton = {
   id: "01a06730-4ec2-7b3b-9120-694792b6afcb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0562-chapter-forty-eight-push-my-red-button",
   title: "Chapter Forty-Eight - Push My Red Button",

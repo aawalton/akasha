@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0546ScsFanfictionContestWinnerLibitaniaBy = {
   id: "01a06730-4ea3-7847-928c-67fe91f1bba9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0546-scs-fanfiction-contest-winner-libitania-by",
   title: "SCS Fanfiction Contest Winner: Libitania, by NiameScrawls",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0248ChapterEightTheCatsWhoWereHerded = {
   id: "01a06730-4e14-7cc9-af43-607a1a8d82c2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0248-chapter-eight-the-cats-who-were-herded",
   title: "Chapter Eight - The Cats Who Were Herded",

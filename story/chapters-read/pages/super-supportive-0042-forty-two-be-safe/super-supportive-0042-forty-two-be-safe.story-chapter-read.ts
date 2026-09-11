@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0042FortyTwoBeSafe = {
   id: "01a06730-4e0b-77f8-a0a8-efa1438bafc0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0042-forty-two-be-safe",
   title: "FORTY-TWO: Be Safe",

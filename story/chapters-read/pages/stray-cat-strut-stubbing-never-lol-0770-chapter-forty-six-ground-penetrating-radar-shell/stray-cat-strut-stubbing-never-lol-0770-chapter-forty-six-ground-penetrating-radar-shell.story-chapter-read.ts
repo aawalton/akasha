@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0770ChapterFortySixGroundPenetratingRadarShell = {
   id: "01a06730-4ed8-7bfd-a603-78837518e972",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0770-chapter-forty-six-ground-penetrating-radar-shell",
   title: "Chapter Forty-Six - Ground Penetrating Radar Shell",

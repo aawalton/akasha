@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0466ChapterFiftyThreeWhoLetTheWormsOut = {
   id: "01a06730-4e5a-76a5-9f6f-800e288a0554",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0466-chapter-fifty-three-who-let-the-worms-out",
   title: "Chapter Fifty-Three - Who Let the Worms Out?",

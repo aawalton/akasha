@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0001OneTheBoyInTheBubble = {
   id: "01a06730-4de4-7c10-b782-26ec96116ea3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0001-one-the-boy-in-the-bubble",
   title: "ONE: The Boy in the Bubble",

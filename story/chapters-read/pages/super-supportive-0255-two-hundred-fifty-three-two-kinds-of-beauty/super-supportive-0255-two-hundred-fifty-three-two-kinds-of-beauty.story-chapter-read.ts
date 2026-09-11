@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0255TwoHundredFiftyThreeTwoKindsOfBeauty = {
   id: "01a06730-4f10-7fbc-97d7-c3407fc74504",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0255-two-hundred-fifty-three-two-kinds-of-beauty",
   title: "TWO HUNDRED FIFTY-THREE: Two Kinds of Beauty",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0049FortyNineWordsForDemons = {
   id: "01a06730-4e10-717c-8290-6ab502689a99",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0049-forty-nine-words-for-demons",
   title: "FORTY-NINE: Words for Demons",

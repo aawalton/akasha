@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0129ChapterFortySevenClosingADeal = {
   id: "01a06730-4e0f-7128-9aea-649c1bc62fde",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0129-chapter-forty-seven-closing-a-deal",
   title: "Chapter Forty-Seven - Closing a Deal",

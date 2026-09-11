@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0078ChapterSeventySixTheBigPlayers = {
   id: "01a06730-4e0e-78fb-b21b-06bb24132b9d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0078-chapter-seventy-six-the-big-players",
   title: "Chapter Seventy-Six - The Big Players",

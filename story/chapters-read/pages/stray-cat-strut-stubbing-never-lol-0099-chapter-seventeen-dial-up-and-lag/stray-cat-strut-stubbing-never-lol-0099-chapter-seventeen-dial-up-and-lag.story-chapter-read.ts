@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0099ChapterSeventeenDialUpAndLag = {
   id: "01a06730-4e0e-7a7f-a3f7-73a70eaaf93e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0099-chapter-seventeen-dial-up-and-lag",
   title: "Chapter Seventeen - Dial-Up and Lag",

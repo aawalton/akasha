@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0086EightyFiveTheOtherHalfOfIt = {
   id: "01a06730-4e41-71df-bd84-96d384e5b5bc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0086-eighty-five-the-other-half-of-it",
   title: "EIGHTY-FIVE: The Other Half of It",

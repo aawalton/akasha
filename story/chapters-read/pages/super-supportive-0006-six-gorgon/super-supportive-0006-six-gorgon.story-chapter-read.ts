@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0006SixGorgon = {
   id: "01a06730-4de6-707f-ae50-060298605eac",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0006-six-gorgon",
   title: "SIX: Gorgon",

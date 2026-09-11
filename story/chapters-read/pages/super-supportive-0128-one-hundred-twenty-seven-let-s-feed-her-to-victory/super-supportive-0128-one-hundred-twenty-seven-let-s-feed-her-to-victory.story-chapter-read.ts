@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0128OneHundredTwentySevenLetSFeedHerToVictory = {
   id: "01a06730-4ea3-7153-a094-a2abdc610c9f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0128-one-hundred-twenty-seven-let-s-feed-her-to-victory",
   title: "ONE HUNDRED TWENTY-SEVEN:  Let's Feed Her to Victory",

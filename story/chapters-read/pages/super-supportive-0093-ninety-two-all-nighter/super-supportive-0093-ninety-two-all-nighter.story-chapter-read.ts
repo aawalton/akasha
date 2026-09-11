@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0093NinetyTwoAllNighter = {
   id: "01a06730-4e4c-7782-900d-745b075bcd24",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0093-ninety-two-all-nighter",
   title: "NINETY-TWO: All Nighter",

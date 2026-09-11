@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0727ChapterEightPreemptiveBitching = {
   id: "01a06730-4ed7-72a3-a759-8f5667fa7d39",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0727-chapter-eight-preemptive-bitching",
   title: "Chapter Eight - Preemptive Bitching",

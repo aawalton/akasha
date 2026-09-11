@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0065SixtyFourToAQuietRabbit = {
   id: "01a06730-4e1c-7734-89c1-50333abc8846",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0065-sixty-four-to-a-quiet-rabbit",
   title: "SIXTY-FOUR: To a Quiet Rabbit",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0169OneHundredSixtySevenNotion = {
   id: "01a06730-4ed1-7d04-8026-521b9ea6de38",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0169-one-hundred-sixty-seven-notion",
   title: "ONE HUNDRED SIXTY-SEVEN: Notion",

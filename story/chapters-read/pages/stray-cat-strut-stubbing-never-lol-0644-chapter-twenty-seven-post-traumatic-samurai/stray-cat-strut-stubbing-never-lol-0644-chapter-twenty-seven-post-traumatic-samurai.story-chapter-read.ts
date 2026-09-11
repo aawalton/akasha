@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0644ChapterTwentySevenPostTraumaticSamurai = {
   id: "01a06730-4ed3-7334-b697-72773f573fe4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0644-chapter-twenty-seven-post-traumatic-samurai",
   title: "Chapter Twenty-Seven - Post-Traumatic Samurai Disorder",

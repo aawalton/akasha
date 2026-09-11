@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0019NineteenTeleport = {
   id: "01a06730-4ded-74e1-a8d9-e51255fd10a1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0019-nineteen-teleport",
   title: "NINETEEN: Teleport",

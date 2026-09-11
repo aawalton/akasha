@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0159BOneHundredFiftySevenFamilyMattersIiiPartB = {
   id: "01a06730-4ec5-7145-82b9-44bda23a5969",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0159-b-one-hundred-fifty-seven-family-matters-iii-part-b",
   title: "B. ONE HUNDRED FIFTY-SEVEN: Family Matters III, part B",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0010TenSideEffects = {
   id: "01a06730-4de8-7226-8e53-632185f080a8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0010-ten-side-effects",
   title: "TEN: Side Effects",

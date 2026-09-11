@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0675ChapterFiftyThreeWarCrimeWaifu = {
   id: "01a06730-4ed4-75d8-a7e0-b7b8dab37db3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0675-chapter-fifty-three-war-crime-waifu",
   title: "Chapter Fifty-Three - War Crime Waifu",

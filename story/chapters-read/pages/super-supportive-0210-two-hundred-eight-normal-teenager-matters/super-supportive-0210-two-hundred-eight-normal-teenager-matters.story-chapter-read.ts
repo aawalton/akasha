@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0210TwoHundredEightNormalTeenagerMatters = {
   id: "01a06730-4ef3-7364-8368-8ec88372d19f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0210-two-hundred-eight-normal-teenager-matters",
   title: "TWO HUNDRED EIGHT: Normal Teenager Matters",

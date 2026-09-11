@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0102OneHundredOneAnesidoraTime0715Pm = {
   id: "01a06730-4e62-709b-8986-6cc2c47e48fd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0102-one-hundred-one-anesidora-time-07-15-pm",
   title: "ONE HUNDRED ONE: Anesidora Time, 07:15 PM",

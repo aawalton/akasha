@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0231ChapterSixtyThreeAVeryNiceAndCivil = {
   id: "01a06730-4e14-7b85-9e47-6da878f602ab",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0231-chapter-sixty-three-a-very-nice-and-civil",
   title: "Chapter Sixty-Three - A Very Nice and Civil Discussion",

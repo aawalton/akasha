@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0089ChapterEightHover = {
   id: "01a06730-4e0e-7f07-9524-20ef97b8b508",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0089-chapter-eight-hover",
   title: "Chapter Eight - Hover",

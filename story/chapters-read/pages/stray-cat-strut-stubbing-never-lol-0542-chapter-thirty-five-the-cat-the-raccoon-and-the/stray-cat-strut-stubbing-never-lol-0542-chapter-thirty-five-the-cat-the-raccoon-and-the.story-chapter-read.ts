@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0542ChapterThirtyFiveTheCatTheRaccoonAndThe = {
   id: "01a06730-4e8f-7c0f-b506-cd46df00a767",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0542-chapter-thirty-five-the-cat-the-raccoon-and-the",
   title: "Chapter Thirty-Five - The Cat, the Raccoon, and the Cowboy",

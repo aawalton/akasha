@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0538ChapterThirtyTwoThisOneTimeInBibleClub = {
   id: "01a06730-4e8f-7be9-907d-63f3dde5d0ba",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0538-chapter-thirty-two-this-one-time-in-bible-club",
   title: "Chapter Thirty-Two - This One Time, In Bible Club",

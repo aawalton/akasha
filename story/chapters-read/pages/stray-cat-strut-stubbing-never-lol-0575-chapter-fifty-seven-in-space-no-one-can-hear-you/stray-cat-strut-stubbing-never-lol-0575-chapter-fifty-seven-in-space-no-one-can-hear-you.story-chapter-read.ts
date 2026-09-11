@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0575ChapterFiftySevenInSpaceNoOneCanHearYou = {
   id: "01a06730-4ec2-73a2-af08-be1ade41a471",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0575-chapter-fifty-seven-in-space-no-one-can-hear-you",
   title: "Chapter Fifty-Seven - In Space No One Can Hear You Buzz",

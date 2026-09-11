@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0147OneHundredFortySixDawnIii = {
   id: "01a06730-4eba-75f2-81d0-82b21c3801f7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0147-one-hundred-forty-six-dawn-iii",
   title: "ONE HUNDRED FORTY-SIX: Dawn III",

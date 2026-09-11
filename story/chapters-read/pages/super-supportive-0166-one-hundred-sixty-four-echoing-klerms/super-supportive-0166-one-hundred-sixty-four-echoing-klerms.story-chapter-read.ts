@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0166OneHundredSixtyFourEchoingKlerms = {
   id: "01a06730-4ecf-76a4-abdd-73936a767f0c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0166-one-hundred-sixty-four-echoing-klerms",
   title: "ONE HUNDRED SIXTY-FOUR: Echoing Klerms",

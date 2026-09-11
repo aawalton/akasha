@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0673ChapterFiftyOneOlReliableScorchedEarth = {
   id: "01a06730-4ed4-70b0-920b-9d88d691cb82",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0673-chapter-fifty-one-ol-reliable-scorched-earth",
   title: "Chapter Fifty-One - 'Ol Reliable: Scorched Earth",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0545ScsFanfictionContestWinnerHavocByKenny = {
   id: "01a06730-4ea3-7d68-a6fa-4b9fbfcca3b0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0545-scs-fanfiction-contest-winner-havoc-by-kenny",
   title: "SCS Fanfiction Contest Winner: Havoc, by Kenny Celican",

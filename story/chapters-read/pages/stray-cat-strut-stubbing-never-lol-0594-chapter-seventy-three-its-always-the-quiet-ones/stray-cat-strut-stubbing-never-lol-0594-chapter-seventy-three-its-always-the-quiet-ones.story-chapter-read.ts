@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0594ChapterSeventyThreeItsAlwaysTheQuietOnes = {
   id: "01a06730-4ec3-7f62-9580-6ab5f46db084",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0594-chapter-seventy-three-its-always-the-quiet-ones",
   title: "Chapter Seventy-Three - It's Always The Quiet Ones",

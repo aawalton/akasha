@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0082EightyOneOCruzamento = {
   id: "01a06730-4e3b-7eb7-be1d-ca98c33f74e5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0082-eighty-one-o-cruzamento",
   title: "EIGHTY-ONE: O Cruzamento",

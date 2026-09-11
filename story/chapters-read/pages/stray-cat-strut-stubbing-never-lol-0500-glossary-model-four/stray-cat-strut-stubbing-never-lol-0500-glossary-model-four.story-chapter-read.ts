@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0500GlossaryModelFour = {
   id: "01a06730-4e5b-72c2-88ab-884bf64dd51b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0500-glossary-model-four",
   title: "Glossary: Model Four",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0159ChapterSeventyFiveTriggeringButTheFunSort = {
   id: "01a06730-4e11-7df5-9208-daab1cfaca9c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0159-chapter-seventy-five-triggering-but-the-fun-sort",
   title: "Chapter Seventy-Five - Triggering, But the Fun Sort Where Things Explode",

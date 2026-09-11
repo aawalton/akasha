@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0656ChapterThirtySevenTheRolodexGambit = {
   id: "01a06730-4ed3-787c-a83d-10d4f98ee120",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0656-chapter-thirty-seven-the-rolodex-gambit",
   title: "Chapter Thirty-Seven - The Rolodex Gambit",

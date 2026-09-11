@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const speedrunningTheMultiverseComplete0049293SpeedrunningTheMultiverseIi = {
   id: "01a06730-4de3-72e3-9008-fb38b38cc14d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0049-293-speedrunning-the-multiverse-ii",
   title: "293. Speedrunning the Multiverse (II)",

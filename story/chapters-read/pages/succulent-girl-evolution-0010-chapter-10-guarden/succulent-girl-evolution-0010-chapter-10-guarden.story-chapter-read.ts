@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const succulentGirlEvolution0010Chapter10Guarden = {
   id: "01a06730-4dea-788d-bc1b-6e9ae6bbe594",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "succulent-girl-evolution-0010-chapter-10-guarden",
   title: "Chapter 10: Guarden",

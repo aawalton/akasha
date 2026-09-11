@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0090EightyNineHeroTypes = {
   id: "01a06730-4e44-794a-82e0-f136ce5e2cc3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0090-eighty-nine-hero-types",
   title: "EIGHTY-NINE: Hero Types",

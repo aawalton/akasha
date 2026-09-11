@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0072SeventyOneWhereSTheReallySharpKnife = {
   id: "01a06730-4e23-7772-9f4c-002ffa1096a1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0072-seventy-one-where-s-the-really-sharp-knife",
   title: "SEVENTY-ONE: Where's the Really Sharp Knife?",

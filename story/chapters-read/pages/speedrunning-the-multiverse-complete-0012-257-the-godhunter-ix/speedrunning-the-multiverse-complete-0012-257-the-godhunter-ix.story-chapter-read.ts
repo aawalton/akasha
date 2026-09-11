@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const speedrunningTheMultiverseComplete0012257TheGodhunterIx = {
   id: "01a06730-4de0-7982-9531-62df94c9fecc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0012-257-the-godhunter-ix",
   title: "257. The Godhunter (IX)",

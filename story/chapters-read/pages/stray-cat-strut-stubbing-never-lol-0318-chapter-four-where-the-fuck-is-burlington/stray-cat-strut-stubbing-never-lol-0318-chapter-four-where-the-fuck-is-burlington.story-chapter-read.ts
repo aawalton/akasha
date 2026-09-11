@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0318ChapterFourWhereTheFuckIsBurlington = {
   id: "01a06730-4e16-7ac1-a604-9e24666debd2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0318-chapter-four-where-the-fuck-is-burlington",
   title: "Chapter Four - Where the Fuck is Burlington?",

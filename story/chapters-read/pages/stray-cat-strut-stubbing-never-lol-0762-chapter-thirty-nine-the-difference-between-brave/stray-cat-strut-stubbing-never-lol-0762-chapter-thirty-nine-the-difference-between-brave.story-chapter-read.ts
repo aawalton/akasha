@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0762ChapterThirtyNineTheDifferenceBetweenBrave = {
   id: "01a06730-4ed8-7e41-aee3-5143d2a29592",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0762-chapter-thirty-nine-the-difference-between-brave",
   title: "Chapter Thirty-Nine - The Difference Between Brave and Stupid",

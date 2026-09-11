@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0060FiftyNineMotherPt1 = {
   id: "01a06730-4e16-7b9b-a96e-66c7a8b3f42b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0060-fifty-nine-mother-pt-1",
   title: "FIFTY-NINE: Mother, pt. 1",

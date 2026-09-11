@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0243ChapterThreeTheLittleMeet = {
   id: "01a06730-4e14-72eb-a7ab-b82f691f22f8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0243-chapter-three-the-little-meet",
   title: "Chapter Three - The Little Meet",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0218TwoHundredSixteenTheSnakeShapedLetterI = {
   id: "01a06730-4efb-73ab-bc52-8404e3f08cc5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0218-two-hundred-sixteen-the-snake-shaped-letter-i",
   title: "TWO HUNDRED SIXTEEN: The Snake-shaped Letter I",

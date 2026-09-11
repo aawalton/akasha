@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0057FiftySevenAScaleTips = {
   id: "01a06730-4e14-77ec-91b4-b06647266c34",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0057-fifty-seven-a-scale-tips",
   title: "FIFTY-SEVEN: A Scale Tips",

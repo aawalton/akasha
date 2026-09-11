@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0416ChapterTwentyTwoDressForStress = {
   id: "01a06730-4e4c-76be-a196-e871699df5e6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0416-chapter-twenty-two-dress-for-stress",
   title: "Chapter Twenty-Two - Dress for Stress",

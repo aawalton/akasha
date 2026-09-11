@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0615ChapterTwoItDoesntSayNoParking = {
   id: "01a06730-4ed2-7dba-974c-2309894c1ba7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0615-chapter-two-it-doesnt-say-no-parking",
   title: "Chapter Two - It Doesn't Say No Parking",

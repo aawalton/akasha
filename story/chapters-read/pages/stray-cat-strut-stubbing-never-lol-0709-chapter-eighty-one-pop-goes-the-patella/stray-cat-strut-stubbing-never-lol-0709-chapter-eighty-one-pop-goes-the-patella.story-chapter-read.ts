@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0709ChapterEightyOnePopGoesThePatella = {
   id: "01a06730-4ed6-7132-acbb-f0b803f6cba4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0709-chapter-eighty-one-pop-goes-the-patella",
   title: "Chapter Eighty-One - Pop Goes the Patella",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0737ChapterSixteenPatchUpToCatchUp = {
   id: "01a06730-4ed7-7e45-913b-f2e5b77c10f7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0737-chapter-sixteen-patch-up-to-catch-up",
   title: "Chapter Sixteen - Patch Up to Catch Up",

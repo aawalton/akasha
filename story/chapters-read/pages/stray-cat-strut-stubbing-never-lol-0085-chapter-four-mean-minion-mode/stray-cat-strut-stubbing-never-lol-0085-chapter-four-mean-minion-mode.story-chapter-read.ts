@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0085ChapterFourMeanMinionMode = {
   id: "01a06730-4e0e-789e-ba34-5683916444cb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0085-chapter-four-mean-minion-mode",
   title: "Chapter Four - Mean Minion Mode",

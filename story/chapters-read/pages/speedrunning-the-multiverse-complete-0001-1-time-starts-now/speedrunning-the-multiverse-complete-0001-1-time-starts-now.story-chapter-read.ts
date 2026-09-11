@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const speedrunningTheMultiverseComplete00011TimeStartsNow = {
   id: "01a06730-4ddf-77a3-afbb-92653ffab239",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0001-1-time-starts-now",
   title: "1. Time Starts Now",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0020TwentyAnOrdinaryMailbox = {
   id: "01a06730-4ded-7430-bf00-eb278ff5cefc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0020-twenty-an-ordinary-mailbox",
   title: "TWENTY: An Ordinary Mailbox",

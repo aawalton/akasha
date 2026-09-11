@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0631ChapterFifteenImNotWiserJustOlder = {
   id: "01a06730-4ed3-7569-8fc0-5c3fbc3dba1e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0631-chapter-fifteen-im-not-wiser-just-older",
   title: "Chapter Fifteen - I'm Not Wiser, Just Older",

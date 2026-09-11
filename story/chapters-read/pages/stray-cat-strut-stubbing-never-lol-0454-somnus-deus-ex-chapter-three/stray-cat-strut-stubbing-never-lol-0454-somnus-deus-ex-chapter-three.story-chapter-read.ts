@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0454SomnusDeusExChapterThree = {
   id: "01a06730-4e5a-7a0d-b959-bd198c9eda3b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0454-somnus-deus-ex-chapter-three",
   title: "Somnus Deus Ex - Chapter Three",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0580ScsFanfictionContestWinnerCassyTheClownsBig = {
   id: "01a06730-4ec2-7ca7-b17c-a863280836b3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0580-scs-fanfiction-contest-winner-cassy-the-clowns-big",
   title: "SCS Fanfiction Contest Winner: Cassy the Clowns Big Top Bonanza, by FullAutoAlice",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0162OneHundredSixtyShinyWaterBugs = {
   id: "01a06730-4ec8-7840-9d35-2786d5507f20",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0162-one-hundred-sixty-shiny-water-bugs",
   title: "ONE HUNDRED SIXTY: Shiny Water Bugs",

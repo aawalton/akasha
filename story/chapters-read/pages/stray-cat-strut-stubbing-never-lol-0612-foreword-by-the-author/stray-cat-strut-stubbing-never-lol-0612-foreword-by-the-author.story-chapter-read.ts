@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0612ForewordByTheAuthor = {
   id: "01a06730-4ed2-7e67-87cb-b5a872034515",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0612-foreword-by-the-author",
   title: "Foreword by the Author",

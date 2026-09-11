@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0254TwoHundredFiftyTwoSlumberParty = {
   id: "01a06730-4f0f-771d-92cb-b7c6cd52ab71",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0254-two-hundred-fifty-two-slumber-party",
   title: "TWO HUNDRED FIFTY-TWO: Slumber Party",

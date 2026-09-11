@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0067SixtySixPinball = {
   id: "01a06730-4e1d-772d-8ce4-199373df02c0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0067-sixty-six-pinball",
   title: "SIXTY-SIX: Pinball",

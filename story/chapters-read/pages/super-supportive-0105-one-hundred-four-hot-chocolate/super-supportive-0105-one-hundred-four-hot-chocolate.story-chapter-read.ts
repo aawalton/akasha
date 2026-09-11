@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0105OneHundredFourHotChocolate = {
   id: "01a06730-4e6b-716f-8e9a-8a4dcfa4ef63",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0105-one-hundred-four-hot-chocolate",
   title: "ONE HUNDRED FOUR: Hot Chocolate",

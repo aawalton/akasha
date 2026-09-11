@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0149OneHundredFortyEightEveryoneEverywhereIi = {
   id: "01a06730-4ebc-7b2d-a88b-1a4dd2833cfd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0149-one-hundred-forty-eight-everyone-everywhere-ii",
   title: "ONE HUNDRED FORTY-EIGHT: Everyone, Everywhere II",

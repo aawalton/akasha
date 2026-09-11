@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0679ChapterFiftySixFillTheSkyWithFireAndSmoke = {
   id: "01a06730-4ed4-7f7d-8955-f6bcaa959a6d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0679-chapter-fifty-six-fill-the-sky-with-fire-and-smoke",
   title: "Chapter Fifty-Six - Fill The Sky With Fire And Smoke",

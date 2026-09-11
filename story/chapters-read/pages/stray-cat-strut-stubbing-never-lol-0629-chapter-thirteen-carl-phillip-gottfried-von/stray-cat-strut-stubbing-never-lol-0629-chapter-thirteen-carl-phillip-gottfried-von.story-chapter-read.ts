@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0629ChapterThirteenCarlPhillipGottfriedVon = {
   id: "01a06730-4ed3-72f2-8020-b04dbb75d906",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0629-chapter-thirteen-carl-phillip-gottfried-von",
   title: "Chapter Thirteen - Carl Phillip Gottfried von Clauswitz",

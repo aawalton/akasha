@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const speedrunningTheMultiverseComplete0045289TheGodOfAlchemyI = {
   id: "01a06730-4de3-787f-bd58-5a99d54a8d09",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0045-289-the-god-of-alchemy-i",
   title: "289. The God of Alchemy (I) ",

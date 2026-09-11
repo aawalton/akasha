@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0203TwoHundredOneAWeirdPlace = {
   id: "01a06730-4eed-7e1c-9d24-89de2c8f9591",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0203-two-hundred-one-a-weird-place",
   title: "TWO HUNDRED ONE: A Weird Place",

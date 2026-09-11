@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const succulentGirlEvolution0022Chapter22CharacterGrowthAtTheWrongTime = {
   id: "01a06730-4dea-7656-b294-3eeb84bcead4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "succulent-girl-evolution-0022-chapter-22-character-growth-at-the-wrong-time",
   title: "Chapter 22: Character Growth at the Wrong Time",

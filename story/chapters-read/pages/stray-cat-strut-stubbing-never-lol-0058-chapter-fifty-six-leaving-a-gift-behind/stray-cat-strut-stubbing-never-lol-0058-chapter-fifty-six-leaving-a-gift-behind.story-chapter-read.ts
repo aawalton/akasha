@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0058ChapterFiftySixLeavingAGiftBehind = {
   id: "01a06730-4e0d-7bfa-bf03-e0782eb6bc2d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0058-chapter-fifty-six-leaving-a-gift-behind",
   title: "Chapter Fifty-Six - Leaving a Gift Behind",

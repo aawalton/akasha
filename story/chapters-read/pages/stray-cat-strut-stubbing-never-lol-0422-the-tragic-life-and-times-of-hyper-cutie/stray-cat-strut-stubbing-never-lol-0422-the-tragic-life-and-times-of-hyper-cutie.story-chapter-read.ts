@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0422TheTragicLifeAndTimesOfHyperCutie = {
   id: "01a06730-4e4d-74f5-a7c3-fc4ff540323a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0422-the-tragic-life-and-times-of-hyper-cutie",
   title:

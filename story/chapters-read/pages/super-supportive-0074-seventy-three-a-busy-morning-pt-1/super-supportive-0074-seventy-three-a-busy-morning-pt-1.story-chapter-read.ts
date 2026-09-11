@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0074SeventyThreeABusyMorningPt1 = {
   id: "01a06730-4e27-7b88-8019-3cded63ae9dc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0074-seventy-three-a-busy-morning-pt-1",
   title: "SEVENTY-THREE: A Busy Morning, pt. 1",

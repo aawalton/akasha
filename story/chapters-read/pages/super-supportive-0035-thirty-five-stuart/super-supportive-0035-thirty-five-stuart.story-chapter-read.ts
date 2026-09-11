@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0035ThirtyFiveStuart = {
   id: "01a06730-4dff-748b-b92c-cd783e79896f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0035-thirty-five-stuart",
   title: "THIRTY-FIVE: Stuart",

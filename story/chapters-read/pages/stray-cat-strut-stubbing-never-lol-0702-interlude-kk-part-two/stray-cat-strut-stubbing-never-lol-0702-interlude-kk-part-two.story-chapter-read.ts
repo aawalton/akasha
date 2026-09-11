@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0702InterludeKkPartTwo = {
   id: "01a06730-4ed6-754e-9aef-8cb406fc4294",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0702-interlude-kk-part-two",
   title: "Interlude K&K - Part Two",

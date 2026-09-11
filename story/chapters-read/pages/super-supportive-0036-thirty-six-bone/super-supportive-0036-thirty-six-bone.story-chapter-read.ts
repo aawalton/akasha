@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0036ThirtySixBone = {
   id: "01a06730-4e00-77cf-871c-5388d340f9c3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0036-thirty-six-bone",
   title: "THIRTY-SIX: Bone",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0199ChapterThirtyTwoTheDoctorsInTheHouse = {
   id: "01a06730-4e13-7db1-adbc-f0c314339a7e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0199-chapter-thirty-two-the-doctors-in-the-house",
   title: "Chapter Thirty-Two - The Doctor’s In the House",

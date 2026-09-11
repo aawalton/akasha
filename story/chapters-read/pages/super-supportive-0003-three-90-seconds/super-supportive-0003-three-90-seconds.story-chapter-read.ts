@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0003Three90Seconds = {
   id: "01a06730-4de5-719e-857a-f33deffd5b60",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0003-three-90-seconds",
   title: "THREE: 90 seconds",

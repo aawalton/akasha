@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const succulentGirlEvolution0030Chapter30PraiseMissFish = {
   id: "01a06730-4deb-7f56-ab16-e7826312370c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "succulent-girl-evolution-0030-chapter-30-praise-miss-fish",
   title: "Chapter 30: Praise Miss Fish",

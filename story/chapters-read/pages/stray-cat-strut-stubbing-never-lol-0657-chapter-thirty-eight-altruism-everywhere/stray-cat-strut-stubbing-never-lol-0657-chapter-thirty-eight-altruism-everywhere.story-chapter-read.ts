@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0657ChapterThirtyEightAltruismEverywhere = {
   id: "01a06730-4ed3-7451-b924-dfad5f05206b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0657-chapter-thirty-eight-altruism-everywhere",
   title: "Chapter Thirty-Eight - Altruism Everywhere",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0558ChapterFortyFiveIfYoureUnhappyAndYouKnow = {
   id: "01a06730-4ec2-7376-b81d-f145605ed7de",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0558-chapter-forty-five-if-youre-unhappy-and-you-know",
   title: "Chapter Forty-Five - If You're Unhappy and You Know It, Flap Your Wings!",

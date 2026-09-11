@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0117OneHundredSixteenTwinkleTwinkleGokoratch = {
   id: "01a06730-4e8c-7c79-833d-90ae40e1c5bb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0117-one-hundred-sixteen-twinkle-twinkle-gokoratch",
   title: "ONE HUNDRED SIXTEEN: Twinkle, Twinkle, Gokoratch",

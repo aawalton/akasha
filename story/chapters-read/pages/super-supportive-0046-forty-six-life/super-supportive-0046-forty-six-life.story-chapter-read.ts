@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0046FortySixLife = {
   id: "01a06730-4e0d-7d8e-a43c-f8075b51234f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0046-forty-six-life",
   title: "FORTY-SIX: Life",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0641ChapterTwentyFourInTheNameOfTheMoon = {
   id: "01a06730-4ed3-7492-8d8b-5143b40bd5d1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0641-chapter-twenty-four-in-the-name-of-the-moon",
   title: "Chapter Twenty-Four - In the Name of the Moon!",

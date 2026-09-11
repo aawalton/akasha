@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0111OneHundredTenTheChainerIi = {
   id: "01a06730-4e7b-729a-bd78-e7b66b870187",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0111-one-hundred-ten-the-chainer-ii",
   title: "ONE HUNDRED TEN: The Chainer, II",

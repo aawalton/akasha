@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const strayCatStrutStubbingNeverLol0589ChapterSixtyEightLateLockedAndLoaded = {
   id: "01a06730-4ec3-73de-b894-e2776a23e7e7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0589-chapter-sixty-eight-late-locked-and-loaded",
   title: "Chapter Sixty-Eight - Late, Locked, and Loaded",

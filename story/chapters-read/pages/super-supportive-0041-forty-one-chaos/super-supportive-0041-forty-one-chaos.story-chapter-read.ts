@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const superSupportive0041FortyOneChaos = {
   id: "01a06730-4e0b-7109-9db6-cbb8e240945d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "super-supportive-0041-forty-one-chaos",
   title: "FORTY-ONE: Chaos",
