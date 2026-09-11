@@ -89,5 +89,4 @@ export const temperAntiquitiesAddon = {
         "The pledge tracker is read where that tracker is installed and skipped where that tracker is not.",
     },
   ],
-  deployedCommit: "c351dab2463f61214388ac0874b6e596372c9917",
 } as const satisfies EsoAddon

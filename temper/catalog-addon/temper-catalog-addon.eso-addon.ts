@@ -51,5 +51,4 @@ export const temperCatalogAddon = {
       statement: "A collector that fails is skipped with its reason kept beside the catalog.",
     },
   ],
-  deployedCommit: "fa502ca517f5e337c277e8c801e3cd00537c76cb",
 } as const satisfies EsoAddon

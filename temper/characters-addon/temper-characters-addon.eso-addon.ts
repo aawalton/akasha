@@ -99,5 +99,4 @@ export const temperCharactersAddon = {
         "The shape of that saved table is declared by a folder outside this add-on rather than here.",
     },
   ],
-  deployedCommit: "16df7c65e29fa2862ea1a871826bae02d8f0496c",
 } as const satisfies EsoAddon
