@@ -1,6 +1,6 @@
 import { existsSync, unwatchFile, watchFile } from "node:fs"
 import { basename } from "node:path"
-import { saidBy } from "../../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
 import {
   buildConfig as buildConfigFromDisk,
   sourcePathFor,

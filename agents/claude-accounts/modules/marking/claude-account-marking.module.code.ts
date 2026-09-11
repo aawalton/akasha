@@ -10,7 +10,7 @@ import {
   mergeUncommitted,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { z } from "zod"
-import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
 import {
   backoffExpiryMs,
   USAGE_RESPONSE_SCHEMA,

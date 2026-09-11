@@ -1,7 +1,7 @@
 import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
-import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
 import { credentialOf } from "../../../models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import {
   DOORS as PUSH_DOORS,

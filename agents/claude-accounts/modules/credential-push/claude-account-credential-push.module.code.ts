@@ -19,8 +19,8 @@ import {
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import type { Applied } from "../../../../commands/modules/applying/applying.module.code.ts"
-import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Refused } from "../../../../commands/modules/landing/landing.module.code.ts"
+import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
 import { instantOf, markedIn, type Routing } from "../marking/claude-account-marking.module.code.ts"
 import { accountPathIn } from "../reading/claude-account-reading.module.code.ts"
 

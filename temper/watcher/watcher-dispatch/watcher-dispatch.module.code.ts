@@ -1,4 +1,4 @@
-import { saidBy } from "../../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
 import { buildConfig, sourcePathFor } from "../watcher-config/watcher-config.module.code.ts"
 import { runExportCompanionBuilds } from "../watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"
 import { runExportSettings } from "../watcher-export-settings/watcher-export-settings.module.code.ts"

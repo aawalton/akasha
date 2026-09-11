@@ -1,6 +1,6 @@
 import { appendFile } from "node:fs/promises"
 import { join } from "node:path"
-import { saidBy } from "../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../utils/narrow/said-by/said-by.module.code.ts"
 import {
   bytesIn,
   type Filling,

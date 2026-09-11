@@ -14,9 +14,9 @@ import {
   UPSTREAM_LIBRARIES,
 } from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
 import { verifyZone } from "akasha/temper/upstream-data/zone-upstream-verify/zone-upstream-verify.module.code.ts"
+import { saidBy } from "../../../../../utils/narrow/said-by/said-by.module.code.ts"
 import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import { answering, refused } from "../../../../modules/calling/calling.module.code.ts"
-import { saidBy } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const DATA = 2
 const FAILED = 3

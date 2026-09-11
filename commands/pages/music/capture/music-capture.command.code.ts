@@ -8,10 +8,10 @@ import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.
 import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { textIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
 import { textAt } from "../../../modules/body-reaching/body-reaching.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { answering, refused } from "../../../modules/calling/calling.module.code.ts"
-import { saidBy } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 import {
   buildPlayRow,
   esoDayOfPlay,

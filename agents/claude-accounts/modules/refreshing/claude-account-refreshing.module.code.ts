@@ -1,7 +1,7 @@
 import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
 import { usageFetched } from "../../../models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import { markedIn, pacingMarks, usageFrom } from "../marking/claude-account-marking.module.code.ts"
 import { credentialIn, everyAccountSlugIn } from "../reading/claude-account-reading.module.code.ts"

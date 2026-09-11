@@ -3,7 +3,7 @@ import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.cod
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
 import {
   markedOn,
   type UsageRead,

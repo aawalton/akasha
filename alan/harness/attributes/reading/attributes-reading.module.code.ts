@@ -3,7 +3,7 @@ import type { Row } from "akasha/alan/harness/readouts/asking/readout-asking.mod
 import { keepReading } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
 import { AKASHA, resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
 import { charismaIn } from "../../../attributes/pages/charisma/charisma.attribute.code.ts"
 import { fetchConstitutionPoints } from "../../../attributes/pages/constitution/constitution.attribute.code.ts"
 import { enduranceIn } from "../../../attributes/pages/endurance/endurance.attribute.code.ts"

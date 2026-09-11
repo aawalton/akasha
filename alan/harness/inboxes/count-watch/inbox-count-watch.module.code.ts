@@ -16,7 +16,7 @@ import {
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import { followFolders } from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
-import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
 import {
   pollTaskCounts,
   type TaskCounts,

@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
-import { framesOf, oneLine, saidBy, whyOf } from "./fault-saying.module.code.ts"
+import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
+import { framesOf, oneLine, whyOf } from "./fault-saying.module.code.ts"
 
 test("an Error says its message and nothing about its kind", () => {
   expect(saidBy(new Error("it would not load"))).toBe("it would not load")

@@ -10,7 +10,7 @@ import {
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
 import type { InboxKey } from "../keys/inbox-keys.module.code.ts"
 
 const EMAIL_MAX = 100

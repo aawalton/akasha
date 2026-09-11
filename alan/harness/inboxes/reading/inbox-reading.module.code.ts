@@ -10,7 +10,7 @@ import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
 import { openedDayOf } from "../../../track/daily/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 

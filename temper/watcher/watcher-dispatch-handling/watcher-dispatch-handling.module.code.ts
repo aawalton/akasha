@@ -1,5 +1,5 @@
 import { existsSync } from "node:fs"
-import { saidBy } from "../../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
 import type { WatcherConfig } from "../watcher-config/watcher-config.module.code.ts"
 import type { FileType } from "../watcher-file-type/watcher-file-type.module.code.ts"
 import { log, logError } from "../watcher-logging/watcher-logging.module.code.ts"

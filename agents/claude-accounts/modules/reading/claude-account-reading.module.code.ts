@@ -8,7 +8,7 @@ import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { z } from "zod"
-import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 

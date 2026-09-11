@@ -1,4 +1,4 @@
-import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
 import type { LatestBuild } from "../asc-client/asc-client.module.code.ts"
 
 export const POLL_INTERVAL_MS = 30_000

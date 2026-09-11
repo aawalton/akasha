@@ -11,14 +11,6 @@ export const faultSaying = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A thrown thing is read for a message.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A thrown thing is made to speak even where that thing is no Error.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A refusal has the message in one line.",
     },
     {

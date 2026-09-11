@@ -14,10 +14,10 @@ import type {
   Replacing,
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
+import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
 import { commitNamed, unfresh } from "../change-freshness/change-freshness.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
-import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import {
   clearedOff,
   clearedUnder,

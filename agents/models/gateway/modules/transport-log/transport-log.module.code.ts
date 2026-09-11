@@ -1,6 +1,6 @@
 import { type Queue, queueAt } from "akasha/pages/entry-queue/page-entry-queue.module.code.ts"
 import { z } from "zod"
-import { saidBy } from "../../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../../../utils/narrow/said-by/said-by.module.code.ts"
 import type { StreamClock, StreamObserver } from "../retry/retry.module.code.ts"
 
 const TRANSPORT_PROPERTY_SLUG = "transport"

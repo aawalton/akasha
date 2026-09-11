@@ -1,6 +1,6 @@
 import { existsSync, statSync } from "node:fs"
 import { dirname } from "node:path"
-import { saidBy } from "../../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
 import type { FileType } from "../watcher-file-type/watcher-file-type.module.code.ts"
 import type {
   SyncOperation,

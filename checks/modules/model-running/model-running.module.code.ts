@@ -6,7 +6,7 @@ import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module
 import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { saidBy } from "../../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
 import { PAGES } from "../change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "../judging/judging.module.code.ts"
 

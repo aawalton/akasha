@@ -1,4 +1,4 @@
-import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
 import { shape } from "../../../../utils/narrow/shape/shape.module.code.ts"
 import type { RingCounts } from "../../readouts/body/readout-body.module.code.ts"
 import { fetchRingCountsFromMonarch } from "../../readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"

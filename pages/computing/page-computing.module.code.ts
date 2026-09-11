@@ -1,4 +1,4 @@
-import { saidBy } from "../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../utils/narrow/said-by/said-by.module.code.ts"
 import type { Reach, Work } from "../computed-properties/computed-property.page-type.ts"
 
 export type Held = Record<string, unknown>

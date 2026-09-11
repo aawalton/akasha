@@ -46,9 +46,9 @@ import {
   songNamesFrom,
   songSlugFor,
 } from "../../../../alan/music/catalog/song-slug/song-slug.module.code.ts"
+import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { answering, refused } from "../../../modules/calling/calling.module.code.ts"
-import { saidBy } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const INPUT = 1
 
