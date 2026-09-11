@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "akasha/temper/characters/temper-account-characters/temper-account-character.page-type.types.ts"
+import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
 
 export const archmageAmerys = {
   id: "019dda20-785c-725c-9755-e858993eda07",
