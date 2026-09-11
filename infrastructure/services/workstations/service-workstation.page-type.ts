@@ -59,6 +59,7 @@ export const serviceWorkstation = {
     "module/run-path-reading",
     "module/service-putting-up",
     "module-property-group/running",
+    "module/binary-running",
   ],
   properties: [
     { pageProperty: "text-property/runs", required: false, many: true, maxCount: null },
