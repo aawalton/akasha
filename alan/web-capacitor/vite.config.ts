@@ -1,5 +1,5 @@
 import path from "node:path"
-import { supabaseClientEnvDefine } from "akasha/alan/harness/supabase-rr/client-env-define/client-env-define.module.code.ts"
+import { supabaseClientEnvGuard } from "akasha/alan/harness/supabase-rr/client-env-define/client-env-define.module.code.ts"
 import { buildShaDefine } from "akasha/alan/harness/web-build-version/build-sha-define/build-sha-define.module.code.ts"
 import { reactRouter } from "@react-router/dev/vite"
 import tailwindcss from "@tailwindcss/vite"
@@ -70,12 +70,12 @@ const noNodeInClient: Plugin = {
 export default defineConfig({
   base: "/",
   envDir: "../web",
-  plugins: [tailwindcss(), reactRouter(), noNodeInClient],
+  plugins: [tailwindcss(), reactRouter(), noNodeInClient, supabaseClientEnvGuard()],
   resolve: {
     tsconfigPaths: true,
   },
   ssr: {
     noExternal: ["rrule", "lucide-react"],
   },
-  define: { ...supabaseClientEnvDefine(), ...buildShaDefine() },
+  define: { ...buildShaDefine() },
 })
