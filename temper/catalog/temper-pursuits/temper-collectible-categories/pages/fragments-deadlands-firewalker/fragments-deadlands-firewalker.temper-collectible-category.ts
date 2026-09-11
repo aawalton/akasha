@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsDeadlandsFirewalker = {
   id: "01a06165-9167-7010-90ee-1bc5ea235649",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "fragments-deadlands-firewalker",
   title: "Deadlands Firewalker",

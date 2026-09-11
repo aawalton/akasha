@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const mirriMirriTwilightMantle = {
   id: "019e6484-388e-7c29-977a-8a29e729a0e4",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "mirri-mirri-twilight-mantle",
   key: "mirri-twilight-mantle",

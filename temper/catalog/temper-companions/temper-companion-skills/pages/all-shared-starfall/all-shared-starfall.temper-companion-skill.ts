@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedStarfall = {
   id: "019e6688-86f6-787b-878e-b7cf86af8bca",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "all-shared-starfall",
   key: "shared-starfall",

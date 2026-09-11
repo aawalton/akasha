@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const upgradeCompanionKeepsakes = {
   id: "01a06165-916a-7019-b3f0-c938f9cb932e",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "upgrade-companion-keepsakes",
   title: "Companion Keepsakes",

@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const isobelIsobelGallantBlitz = {
   id: "019e6484-3872-7a18-a4ac-c005928549a5",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "isobel-isobel-gallant-blitz",
   key: "isobel-gallant-blitz",

@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsVoriplasmPet = {
   id: "01a06165-9168-7018-98da-b30fd8d4c3f4",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "fragments-voriplasm-pet",
   title: "Voriplasm Pet",

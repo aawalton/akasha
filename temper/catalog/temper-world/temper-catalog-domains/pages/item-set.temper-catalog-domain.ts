@@ -2,7 +2,6 @@ import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/tem
 
 export const itemSet = {
   id: "01a05fc5-7430-7db3-888b-11a13df55845",
-  pageTypeSlug: "temper-catalog-domain",
   type: "temper-catalog-domain",
   slug: "item-set",
   title: "Item Set",

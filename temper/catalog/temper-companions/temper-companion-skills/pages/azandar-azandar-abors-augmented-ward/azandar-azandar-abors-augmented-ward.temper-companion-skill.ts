@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const azandarAzandarAborsAugmentedWard = {
   id: "019e6484-3837-75fc-a834-638f18af72f8",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "azandar-azandar-abors-augmented-ward",
   key: "azandar-abors-augmented-ward",

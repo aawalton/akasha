@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const bastianBastianFieryFlail = {
   id: "019e6484-384e-7e08-ba17-77fb370e009b",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "bastian-bastian-fiery-flail",
   key: "bastian-fiery-flail",

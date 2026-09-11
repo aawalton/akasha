@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedBitingTrap = {
   id: "019e6688-86ef-7413-98b6-627022a4ae10",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "all-shared-biting-trap",
   key: "shared-biting-trap",

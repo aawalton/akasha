@@ -2,7 +2,6 @@ import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/tem
 
 export const zoneCompletion = {
   id: "01a05fc5-7432-7be7-bcd6-72aa7861e704",
-  pageTypeSlug: "temper-catalog-domain",
   type: "temper-catalog-domain",
   slug: "zone-completion",
   title: "Zone Completion",

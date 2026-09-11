@@ -2,7 +2,6 @@ import type { TemperCompanionArmorSlot } from "akasha/temper/catalog/temper-comp
 
 export const shoulders = {
   id: "01a05fcd-ea69-7d82-8b0a-c9ccc29f54f9",
-  pageTypeSlug: "temper-companion-armor-slot",
   type: "temper-companion-armor-slot",
   slug: "shoulders",
   key: "shoulders",

@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsThornsBiteRevelryGown = {
   id: "01a06165-9168-7015-bcf6-d61c411c06d6",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "fragments-thorns-bite-revelry-gown",
   title: "Thorn's Bite Revelry Gown",

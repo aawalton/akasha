@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsHoardhunterUrsauk = {
   id: "01a06165-9167-7016-89b2-08944b522404",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "fragments-hoardhunter-ursauk",
   title: "Hoardhunter Ursauk",

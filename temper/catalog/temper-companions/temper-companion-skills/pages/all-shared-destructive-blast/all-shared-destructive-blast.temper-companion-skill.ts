@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedDestructiveBlast = {
   id: "019e668d-c552-7c9f-9836-7e129d2978d5",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "all-shared-destructive-blast",
   key: "shared-destructive-blast",

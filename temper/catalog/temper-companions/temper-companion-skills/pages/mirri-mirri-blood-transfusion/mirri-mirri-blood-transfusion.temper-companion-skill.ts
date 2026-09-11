@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const mirriMirriBloodTransfusion = {
   id: "019e6484-387c-7710-aeee-ac5010dab342",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "mirri-mirri-blood-transfusion",
   key: "mirri-blood-transfusion",

@@ -2,7 +2,6 @@ import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/tem
 
 export const recipe = {
   id: "01a05fc5-7431-7a5c-80fa-9ef426145ff9",
-  pageTypeSlug: "temper-catalog-domain",
   type: "temper-catalog-domain",
   slug: "recipe",
   title: "Recipe",

@@ -2,7 +2,6 @@ import type { TemperCompanionPassiveMetric } from "akasha/temper/catalog/temper-
 
 export const companionDamageTaken = {
   id: "01a05fcd-70f9-7343-87c0-2927fd7cdf3a",
-  pageTypeSlug: "temper-companion-passive-metric",
   type: "temper-companion-passive-metric",
   slug: "companion-damage-taken",
   key: "companion-damage-taken",

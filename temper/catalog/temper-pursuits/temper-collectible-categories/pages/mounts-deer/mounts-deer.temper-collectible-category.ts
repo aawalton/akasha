@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const mountsDeer = {
   id: "01a06165-9169-700c-a2a6-6f5db14ebe82",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "mounts-deer",
   title: "Deer",

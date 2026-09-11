@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const emberEmberHurricaneVisage = {
   id: "019e6484-385c-7fe5-b2a7-27779712886f",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "ember-ember-hurricane-visage",
   key: "ember-hurricane-visage",

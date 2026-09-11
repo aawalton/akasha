@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const emberEmberSharedWards = {
   id: "019e6484-3863-79ea-ba1a-bcd91761da8a",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "ember-ember-shared-wards",
   key: "ember-shared-wards",

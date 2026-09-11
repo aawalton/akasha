@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const zerithVarZerithVarPerigeanArmor = {
   id: "019e6484-38b3-76f6-bc94-1f0f38294f83",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "zerith-var-zerith-var-perigean-armor",
   key: "zerith-var-perigean-armor",

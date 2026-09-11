@@ -2,7 +2,6 @@ import type { TemperCharacterRole } from "akasha/temper/characters/roles/temper-
 
 export const solo = {
   id: "01a05fd0-d54b-72fd-b37d-14b326dfd35d",
-  pageTypeSlug: "temper-character-role",
   type: "temper-character-role",
   slug: "solo",
   title: "Solo",

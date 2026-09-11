@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedReverseEntropy = {
   id: "019e6688-86f2-7974-b9a7-518094a485da",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "all-shared-reverse-entropy",
   key: "shared-reverse-entropy",

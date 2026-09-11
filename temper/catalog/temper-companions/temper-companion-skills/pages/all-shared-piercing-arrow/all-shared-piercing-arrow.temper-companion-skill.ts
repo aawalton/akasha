@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedPiercingArrow = {
   id: "019e668d-c54e-717c-857e-6243e6cc27f5",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "all-shared-piercing-arrow",
   key: "shared-piercing-arrow",

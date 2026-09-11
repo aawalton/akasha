@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const emberEmberCrystalBlast = {
   id: "019e6484-3858-70a4-b668-839c1c23b5ae",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "ember-ember-crystal-blast",
   key: "ember-crystal-blast",

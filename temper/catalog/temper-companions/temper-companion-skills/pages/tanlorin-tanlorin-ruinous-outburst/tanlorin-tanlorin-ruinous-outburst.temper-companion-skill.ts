@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const tanlorinTanlorinRuinousOutburst = {
   id: "019e6484-38a8-733f-bac6-da554a2d8bdf",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "tanlorin-tanlorin-ruinous-outburst",
   key: "tanlorin-ruinous-outburst",

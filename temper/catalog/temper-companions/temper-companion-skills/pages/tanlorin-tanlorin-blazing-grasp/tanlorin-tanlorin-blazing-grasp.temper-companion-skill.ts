@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const tanlorinTanlorinBlazingGrasp = {
   id: "019e6484-38a1-7344-ba89-c44e4c636b4e",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "tanlorin-tanlorin-blazing-grasp",
   key: "tanlorin-blazing-grasp",

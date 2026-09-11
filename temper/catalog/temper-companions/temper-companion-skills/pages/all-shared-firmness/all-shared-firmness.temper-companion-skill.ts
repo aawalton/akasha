@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedFirmness = {
   id: "019e6484-382a-7dbd-8802-313f8d8dcfbf",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "all-shared-firmness",
   key: "shared-firmness",

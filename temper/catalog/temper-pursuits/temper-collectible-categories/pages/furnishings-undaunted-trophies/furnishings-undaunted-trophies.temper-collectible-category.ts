@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const furnishingsUndauntedTrophies = {
   id: "01a06165-9169-7000-8a9d-89d9061ecdc9",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "furnishings-undaunted-trophies",
   title: "Undaunted Trophies",

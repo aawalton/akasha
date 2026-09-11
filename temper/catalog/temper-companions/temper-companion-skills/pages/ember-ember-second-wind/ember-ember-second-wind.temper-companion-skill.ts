@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const emberEmberSecondWind = {
   id: "019e6484-3862-72b6-b3a5-3a3f002a12cc",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "ember-ember-second-wind",
   key: "ember-second-wind",

@@ -2,7 +2,6 @@ import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/tem
 
 export const scribing = {
   id: "01a05fc5-7431-7624-84cd-ae7a31a81cb3",
-  pageTypeSlug: "temper-catalog-domain",
   type: "temper-catalog-domain",
   slug: "scribing",
   title: "Scribing",

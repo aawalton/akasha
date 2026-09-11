@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const appearanceHairStyles = {
   id: "01a06165-9164-7006-92f3-f86260c9c9d2",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "appearance-hair-styles",
   title: "Hair Styles",

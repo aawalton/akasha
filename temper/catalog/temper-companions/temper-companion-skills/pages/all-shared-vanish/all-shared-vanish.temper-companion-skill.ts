@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedVanish = {
   id: "019e6484-3833-71ac-8a70-d0f4721f424b",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "all-shared-vanish",
   key: "shared-vanish",

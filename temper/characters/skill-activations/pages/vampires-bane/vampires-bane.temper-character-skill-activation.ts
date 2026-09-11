@@ -2,7 +2,6 @@ import type { TemperCharacterSkillActivation } from "akasha/temper/characters/sk
 
 export const vampiresBane = {
   id: "019e646c-c4d7-7476-98c1-519adf268149",
-  pageTypeSlug: "temper-character-skill-activation",
   type: "temper-character-skill-activation",
   slug: "vampires-bane",
   title: "Vampire's Bane",

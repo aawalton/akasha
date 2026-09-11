@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const tanlorinTanlorinIgneousArmor = {
   id: "019e6484-38a5-7607-82f5-b623e4ff3f9b",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "tanlorin-tanlorin-igneous-armor",
   key: "tanlorin-igneous-armor",

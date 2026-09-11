@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const mountsWelwas = {
   id: "01a06165-916a-7007-8631-0bcc6d3dc80a",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "mounts-welwas",
   title: "Welwas",

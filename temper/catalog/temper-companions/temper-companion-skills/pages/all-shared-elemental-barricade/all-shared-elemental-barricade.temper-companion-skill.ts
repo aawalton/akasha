@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedElementalBarricade = {
   id: "019e668d-c553-7e7c-819d-0fca148827c8",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "all-shared-elemental-barricade",
   key: "shared-elemental-barricade",

@@ -2,7 +2,6 @@ import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/tem
 
 export const skill = {
   id: "01a05fc5-7431-7eef-8734-c245c9e1cb74",
-  pageTypeSlug: "temper-catalog-domain",
   type: "temper-catalog-domain",
   slug: "skill",
   title: "Skill",

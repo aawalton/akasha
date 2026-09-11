@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const azandarAzandarTriptychPhysic = {
   id: "019e6484-3842-79f2-9ad8-f809263c772e",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "azandar-azandar-triptych-physic",
   key: "azandar-triptych-physic",

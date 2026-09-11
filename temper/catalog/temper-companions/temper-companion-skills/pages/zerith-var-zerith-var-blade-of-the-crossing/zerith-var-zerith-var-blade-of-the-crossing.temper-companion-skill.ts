@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const zerithVarZerithVarBladeOfTheCrossing = {
   id: "019e6484-38ae-78e1-bcea-00334a19c551",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "zerith-var-zerith-var-blade-of-the-crossing",
   key: "zerith-var-blade-of-the-crossing",

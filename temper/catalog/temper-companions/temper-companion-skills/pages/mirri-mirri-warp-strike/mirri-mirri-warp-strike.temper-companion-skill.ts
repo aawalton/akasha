@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const mirriMirriWarpStrike = {
   id: "019e6484-3890-7e7f-a758-fe111e6bfedb",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "mirri-mirri-warp-strike",
   key: "mirri-warp-strike",

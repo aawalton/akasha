@@ -2,7 +2,6 @@ import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/tem
 
 export const tribute = {
   id: "01a05fc5-7432-75e7-9867-6afe94511048",
-  pageTypeSlug: "temper-catalog-domain",
   type: "temper-catalog-domain",
   slug: "tribute",
   title: "Tribute",

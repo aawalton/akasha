@@ -2,7 +2,6 @@ import type { TemperCharacterSkillActivation } from "akasha/temper/characters/sk
 
 export const radiantOppression = {
   id: "019e646c-c4ed-7ba0-8d00-df4d036b4685",
-  pageTypeSlug: "temper-character-skill-activation",
   type: "temper-character-skill-activation",
   slug: "radiant-oppression",
   title: "Radiant Oppression",

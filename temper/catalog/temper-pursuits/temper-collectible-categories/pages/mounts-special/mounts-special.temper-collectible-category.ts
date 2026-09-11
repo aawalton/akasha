@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const mountsSpecial = {
   id: "01a06165-916a-7002-b9b6-e1d95941e4c4",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "mounts-special",
   title: "Special",

@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const azandarAzandarTheTriuneWord = {
   id: "019e6484-3841-7504-a5c3-3e506776506a",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "azandar-azandar-the-triune-word",
   key: "azandar-the-triune-word",

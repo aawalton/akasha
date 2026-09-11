@@ -2,7 +2,6 @@ import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/tem
 
 export const quest = {
   id: "01a05fc5-7431-76c8-bfb1-9b372dd57885",
-  pageTypeSlug: "temper-catalog-domain",
   type: "temper-catalog-domain",
   slug: "quest",
   title: "Quest",

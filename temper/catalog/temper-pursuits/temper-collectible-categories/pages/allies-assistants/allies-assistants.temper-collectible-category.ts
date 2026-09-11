@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const alliesAssistants = {
   id: "01a06165-9164-7000-a99e-b88a63eb9f48",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "allies-assistants",
   title: "Assistants",

@@ -2,7 +2,6 @@ import type { TemperCharacterSkillActivation } from "akasha/temper/characters/sk
 
 export const solarDisturbance = {
   id: "019e646c-c4e2-7198-a5a7-d5d105f2b4e0",
-  pageTypeSlug: "temper-character-skill-activation",
   type: "temper-character-skill-activation",
   slug: "solar-disturbance",
   title: "Solar Disturbance",

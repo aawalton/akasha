@@ -2,7 +2,6 @@ import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/tem
 
 export const furniture = {
   id: "01a05fc5-742f-7d3d-8f09-f04f7aece04b",
-  pageTypeSlug: "temper-catalog-domain",
   type: "temper-catalog-domain",
   slug: "furniture",
   title: "Furniture",

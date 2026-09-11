@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const bastianBastianBlazingGrasp = {
   id: "019e6484-3848-7e12-ba67-dae2c98c1c6b",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "bastian-bastian-blazing-grasp",
   key: "bastian-blazing-grasp",

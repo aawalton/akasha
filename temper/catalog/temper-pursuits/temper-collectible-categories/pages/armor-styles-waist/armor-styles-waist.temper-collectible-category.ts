@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const armorStylesWaist = {
   id: "01a06165-9166-7004-bf07-222205ad7957",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "armor-styles-waist",
   title: "Waist",

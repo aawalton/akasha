@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsPassionsMuse = {
   id: "01a06165-9168-7007-b493-10c30cf45ee4",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "fragments-passions-muse",
   title: "Passion's Muse",

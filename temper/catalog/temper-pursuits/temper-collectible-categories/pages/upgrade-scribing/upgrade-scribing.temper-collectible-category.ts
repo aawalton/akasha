@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const upgradeScribing = {
   id: "01a06165-916a-701d-9d17-d63b4405cac3",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "upgrade-scribing",
   title: "Scribing",

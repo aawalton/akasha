@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsSoulfireDragonIllusion = {
   id: "01a06165-9168-7011-ba45-f5e70986474c",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "fragments-soulfire-dragon-illusion",
   title: "Soulfire Dragon Illusion",

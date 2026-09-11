@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const tanlorinTanlorinExtinguishingBreath = {
   id: "019e6484-38a3-74ab-b39c-fc9be548688b",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "tanlorin-tanlorin-extinguishing-breath",
   key: "tanlorin-extinguishing-breath",

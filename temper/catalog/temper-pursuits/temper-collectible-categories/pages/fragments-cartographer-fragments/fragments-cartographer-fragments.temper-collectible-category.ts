@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsCartographerFragments = {
   id: "01a06165-9167-700b-8e2f-a8bf6e75e4ca",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "fragments-cartographer-fragments",
   title: "Cartographer Fragments",

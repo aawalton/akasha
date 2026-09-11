@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedSnipingSilver = {
   id: "019e6688-86f5-7d39-ad04-0ae17a3ce28d",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "all-shared-sniping-silver",
   key: "shared-sniping-silver",

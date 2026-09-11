@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const azandarAzandarVigorousTentacularEruption = {
   id: "019e6484-3843-7ef8-96c1-69fd47ca7dae",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "azandar-azandar-vigorous-tentacular-eruption",
   key: "azandar-vigorous-tentacular-eruption",

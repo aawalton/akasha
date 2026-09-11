@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsSpectralIndrik = {
   id: "01a06165-9168-7013-8559-a91f1aef1578",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "fragments-spectral-indrik",
   title: "Spectral Indrik",

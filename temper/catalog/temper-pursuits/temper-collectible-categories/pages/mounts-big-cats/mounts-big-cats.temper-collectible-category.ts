@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const mountsBigCats = {
   id: "01a06165-9169-7009-93c5-2fc31ab1717b",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "mounts-big-cats",
   title: "Big Cats",

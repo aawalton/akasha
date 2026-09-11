@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const furnishingsStorage = {
   id: "01a06165-9168-701e-a8d8-ede079833c61",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "furnishings-storage",
   title: "Storage",

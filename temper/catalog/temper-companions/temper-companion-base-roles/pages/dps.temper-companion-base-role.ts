@@ -2,7 +2,6 @@ import type { TemperCompanionBaseRole } from "akasha/temper/catalog/temper-compa
 
 export const dps = {
   id: "01a05fce-c49a-791b-a58b-9a311f674333",
-  pageTypeSlug: "temper-companion-base-role",
   type: "temper-companion-base-role",
   slug: "dps",
   key: "dps",

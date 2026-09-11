@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedBulwark = {
   id: "019e6484-3825-7700-83fd-b1b8fc5895da",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "all-shared-bulwark",
   key: "shared-bulwark",

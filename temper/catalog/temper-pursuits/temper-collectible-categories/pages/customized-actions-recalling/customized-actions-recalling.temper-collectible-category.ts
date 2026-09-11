@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const customizedActionsRecalling = {
   id: "01a06165-9167-7000-97f9-202b1bb1cff8",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "customized-actions-recalling",
   title: "Recalling",

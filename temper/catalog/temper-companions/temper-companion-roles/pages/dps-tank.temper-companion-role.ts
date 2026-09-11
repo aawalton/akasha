@@ -2,7 +2,6 @@ import type { TemperCompanionRole } from "akasha/temper/catalog/temper-companion
 
 export const dpsTank = {
   id: "01a05fcd-70fe-7793-885c-166ed0b5d25e",
-  pageTypeSlug: "temper-companion-role",
   type: "temper-companion-role",
   slug: "dps-tank",
   key: "dps+tank",

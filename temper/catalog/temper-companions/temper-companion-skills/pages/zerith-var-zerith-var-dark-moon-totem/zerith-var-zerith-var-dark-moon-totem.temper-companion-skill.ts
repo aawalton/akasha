@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const zerithVarZerithVarDarkMoonTotem = {
   id: "019e6484-38b1-7497-9570-c8c2b004c881",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "zerith-var-zerith-var-dark-moon-totem",
   key: "zerith-var-dark-moon-totem",

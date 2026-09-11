@@ -2,7 +2,6 @@ import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/tem
 
 export const collectibles = {
   id: "01a05fc5-742f-72a0-9a10-c33ca5d2d510",
-  pageTypeSlug: "temper-catalog-domain",
   type: "temper-catalog-domain",
   slug: "collectibles",
   title: "Collectibles",

@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedSkeletalAegis = {
   id: "019e6688-86f5-71bd-a87c-0282a2c22291",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "all-shared-skeletal-aegis",
   key: "shared-skeletal-aegis",

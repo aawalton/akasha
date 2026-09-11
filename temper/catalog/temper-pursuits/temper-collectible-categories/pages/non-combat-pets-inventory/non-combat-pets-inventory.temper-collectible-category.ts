@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const nonCombatPetsInventory = {
   id: "01a06165-916a-700f-b6bb-8241d2fac6a2",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "non-combat-pets-inventory",
   title: "Inventory",

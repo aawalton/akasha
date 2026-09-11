@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const isobelIsobelSpearOfLight = {
   id: "019e6484-3879-7556-82d6-106ef37ef763",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "isobel-isobel-spear-of-light",
   key: "isobel-spear-of-light",

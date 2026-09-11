@@ -2,7 +2,6 @@ import type { TemperCompanionRole } from "akasha/temper/catalog/temper-companion
 
 export const healer = {
   id: "01a05fcd-70ff-7c8b-a3dc-3fbbfa37dd67",
-  pageTypeSlug: "temper-companion-role",
   type: "temper-companion-role",
   slug: "healer",
   key: "healer",

@@ -2,7 +2,6 @@ import type { TemperCharacterSkillActivation } from "akasha/temper/characters/sk
 
 export const powerOfTheLight = {
   id: "019e646c-c4e7-70ab-a496-c082da9ab7f7",
-  pageTypeSlug: "temper-character-skill-activation",
   type: "temper-character-skill-activation",
   slug: "power-of-the-light",
   title: "Power of the Light",

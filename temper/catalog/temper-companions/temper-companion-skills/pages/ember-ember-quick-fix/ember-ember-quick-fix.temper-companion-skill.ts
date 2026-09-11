@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const emberEmberQuickFix = {
   id: "019e6484-385e-7e59-ad59-ee3e62563dae",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "ember-ember-quick-fix",
   key: "ember-quick-fix",

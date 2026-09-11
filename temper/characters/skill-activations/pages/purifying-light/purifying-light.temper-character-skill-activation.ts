@@ -2,7 +2,6 @@ import type { TemperCharacterSkillActivation } from "akasha/temper/characters/sk
 
 export const purifyingLight = {
   id: "019e646c-c4e4-7f50-aafc-ac53cbcd88e4",
-  pageTypeSlug: "temper-character-skill-activation",
   type: "temper-character-skill-activation",
   slug: "purifying-light",
   title: "Purifying Light",

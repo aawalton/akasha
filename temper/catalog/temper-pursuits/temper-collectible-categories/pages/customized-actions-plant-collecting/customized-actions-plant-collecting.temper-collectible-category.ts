@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const customizedActionsPlantCollecting = {
   id: "01a06165-9166-7007-a4bf-64b9ff5bf995",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "customized-actions-plant-collecting",
   title: "Plant Collecting",

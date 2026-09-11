@@ -2,7 +2,6 @@ import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/tem
 
 export const poi = {
   id: "01a05fc5-7430-7333-91b4-aab03e8bd3cb",
-  pageTypeSlug: "temper-catalog-domain",
   type: "temper-catalog-domain",
   slug: "poi",
   title: "POI",

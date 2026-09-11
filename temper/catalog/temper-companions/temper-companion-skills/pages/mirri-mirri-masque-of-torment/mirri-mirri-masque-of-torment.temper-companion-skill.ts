@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const mirriMirriMasqueOfTorment = {
   id: "019e6484-3888-7377-8e0b-1a7c9cd33def",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "mirri-mirri-masque-of-torment",
   key: "mirri-masque-of-torment",

@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const mirriMirriImpeccableShot = {
   id: "019e6484-3881-73a7-96c7-246fb67b1dde",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "mirri-mirri-impeccable-shot",
   key: "mirri-impeccable-shot",

@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const fragmentsSovereignSow = {
   id: "01a06165-9168-7012-9ce5-867d4453d1c3",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "fragments-sovereign-sow",
   title: "Sovereign Sow",

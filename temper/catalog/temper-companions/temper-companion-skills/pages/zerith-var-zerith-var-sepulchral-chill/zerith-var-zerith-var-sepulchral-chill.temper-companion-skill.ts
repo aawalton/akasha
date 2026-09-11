@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const zerithVarZerithVarSepulchralChill = {
   id: "019e6484-38b4-7c55-9732-c11e5ed18abb",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "zerith-var-zerith-var-sepulchral-chill",
   key: "zerith-var-sepulchral-chill",

@@ -2,7 +2,6 @@ import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companio
 
 export const allSharedCrimsonFont = {
   id: "019e6688-86f0-77f2-9cee-f65e46f9b17f",
-  pageTypeSlug: "temper-companion-skill",
   type: "temper-companion-skill",
   slug: "all-shared-crimson-font",
   key: "shared-crimson-font",

@@ -2,7 +2,6 @@ import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pur
 
 export const mountsElephants = {
   id: "01a06165-9169-700f-8c28-94aeab9d0be6",
-  pageTypeSlug: "temper-collectible-category",
   type: "temper-collectible-category",
   slug: "mounts-elephants",
   title: "Elephants",

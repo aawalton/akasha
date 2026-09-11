@@ -2,7 +2,6 @@ import type { TemperCharacterRole } from "akasha/temper/characters/roles/temper-
 
 export const dps = {
   id: "01a05fd0-d549-7d2b-87af-dd034bd21cd5",
-  pageTypeSlug: "temper-character-role",
   type: "temper-character-role",
   slug: "dps",
   title: "DPS",
