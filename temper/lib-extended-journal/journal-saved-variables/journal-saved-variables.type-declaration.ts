@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-declaration.page-type.types.ts"
+import type { TypeDeclaration } from "akasha/code/type-declarations/type-declaration.page-type.types.ts"
 
 export const journalSavedVariables = {
   id: "01a0617d-5452-7163-906a-24713c416df1",

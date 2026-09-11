@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-declaration.page-type.types.ts"
+import type { TypeDeclaration } from "akasha/code/type-declarations/type-declaration.page-type.types.ts"
 
 export const esoProvisionerStation = {
   id: "01a0616f-b191-7b36-abc6-49bac5140b22",

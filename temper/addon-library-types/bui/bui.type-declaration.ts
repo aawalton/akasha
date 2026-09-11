@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-declaration.page-type.types.ts"
+import type { TypeDeclaration } from "akasha/code/type-declarations/type-declaration.page-type.types.ts"
 
 export const bui = {
   id: "01a06090-f5af-7589-9396-3dead4ae4900",

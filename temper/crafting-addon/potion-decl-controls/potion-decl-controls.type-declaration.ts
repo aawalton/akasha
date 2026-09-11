@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-declaration.page-type.types.ts"
+import type { TypeDeclaration } from "akasha/code/type-declarations/type-declaration.page-type.types.ts"
 
 export const potionDeclControls = {
   id: "01a061c7-e87c-76f5-b30a-8675d44cffdb",

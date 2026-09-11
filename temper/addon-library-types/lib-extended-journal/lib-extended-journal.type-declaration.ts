@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-declaration.page-type.types.ts"
+import type { TypeDeclaration } from "akasha/code/type-declarations/type-declaration.page-type.types.ts"
 
 export const libExtendedJournal = {
   id: "01a06090-f5b2-7792-a6f7-19a6555c5087",

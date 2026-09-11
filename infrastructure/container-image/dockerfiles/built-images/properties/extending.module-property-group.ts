@@ -1,5 +1,5 @@
-import type { ModulePropertyGroupCeilings } from "akasha/code-system/module-property-groups/module-property-group.page-type.ts"
-import type { ModulePropertyGroup } from "akasha/code-system/module-property-groups/module-property-group.page-type.types.ts"
+import type { ModulePropertyGroupCeilings } from "akasha/code/module-property-groups/module-property-group.page-type.ts"
+import type { ModulePropertyGroup } from "akasha/code/module-property-groups/module-property-group.page-type.types.ts"
 
 export type Extending = ModulePropertyGroupCeilings
 

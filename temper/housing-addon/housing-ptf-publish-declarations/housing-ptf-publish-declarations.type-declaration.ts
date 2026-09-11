@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-declaration.page-type.types.ts"
+import type { TypeDeclaration } from "akasha/code/type-declarations/type-declaration.page-type.types.ts"
 
 export const housingPtfPublishDeclarations = {
   id: "01a0625f-6d05-750b-a082-d4ace9f90cbb",
