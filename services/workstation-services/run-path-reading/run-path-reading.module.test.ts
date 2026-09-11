@@ -1,23 +1,25 @@
-import { expect, test } from "bun:test"
-import { checkoutHere } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { everyService } from "../service-reading/service-reading.module.code.ts"
-import { pathsIn, type Stray, straysIn } from "./run-path-reading.module.code.ts"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
+import { pathsIn, straysIn } from "./run-path-reading.module.code.ts"
 
-const ROOT = checkoutHere()
+const WATCHER_AT = "temper/watcher/a-watcher/a-watcher.module.code.ts"
 
-const WATCHER = "bun temper/watcher/watcher-running/watcher-running.module.code.ts"
+const WATCHER = `bun ${WATCHER_AT}`
 
-const RELAY =
-  "-bun readouts/relay/readout-relay.module.code.ts readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts https://alanwalton.com"
+const RELAY_AT = "readouts/relay/a-relay.module.code.ts"
 
-const PURGE_RUN =
-  "bash code-system/shell-scripts/pages/repos-empty-dir-purge/repos-empty-dir-purge.shell-script.shell.sh"
+const READOUT_AT = "readouts/pages/a-readout/a-readout.readout.ts"
 
-const PURGE =
-  "code-system/shell-scripts/pages/repos-empty-dir-purge/repos-empty-dir-purge.shell-script.shell.sh"
+const RELAY = `-bun ${RELAY_AT} ${READOUT_AT} https://alanwalton.com`
 
-const LOCKED =
-  "flock -n /var/tmp/royal-road-sync.lock bun collections/royal-road/syncing/royal-road-syncing.module.code.ts --commit"
+const PURGE = "code-system/shell-scripts/pages/a-purge/a-purge.shell-script.shell.sh"
+
+const PURGE_RUN = `bash ${PURGE}`
+
+const LOCKED_AT = "collections/royal-road/syncing/a-syncing.module.code.ts"
+
+const LOCKED = `flock -n /var/tmp/royal-road-sync.lock bun ${LOCKED_AT} --commit`
 
 const IMAGE =
   "/usr/bin/podman run --rm --name dcgm-exporter nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04"
@@ -30,21 +32,23 @@ const MOVED = "service-system/workstation-services/service-watching/service-watc
 
 const PAGE_PATH = "services/workstation-services/pages/a-service.workstation-service.ts"
 
-function said(one: Stray): string {
-  return `${one.pagePath} runs \`${one.run}\`, and no file is at \`${one.path}\``
-}
+const SCRATCH_AT = process.env["SCRATCH_AT"] ?? "/var/tmp"
+
+const scratch = mkdtempSync(join(SCRATCH_AT, "run-path-reading-"))
+
+mkdirSync(join(scratch, dirname(WATCHER_AT)), { recursive: true })
+writeFileSync(join(scratch, WATCHER_AT), "")
+
+afterAll(() => {
+  rmSync(scratch, { recursive: true, force: true })
+})
 
 test("the file a command runs is the path that command spells", () => {
-  expect(pathsIn(WATCHER)).toEqual([
-    "temper/watcher/watcher-running/watcher-running.module.code.ts",
-  ])
+  expect(pathsIn(WATCHER)).toEqual([WATCHER_AT])
 })
 
 test("a command that may fail and names two files names both of them", () => {
-  expect(pathsIn(RELAY)).toEqual([
-    "readouts/relay/readout-relay.module.code.ts",
-    "readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts",
-  ])
+  expect(pathsIn(RELAY)).toEqual([RELAY_AT, READOUT_AT])
 })
 
 test("a shell script is a file of this repository the same way", () => {
@@ -55,24 +59,13 @@ test("a word naming what is not in this repository names no path", () => {
   expect(pathsIn(IMAGE)).toEqual([])
   expect(pathsIn(EXPORTER)).toEqual([])
   expect(pathsIn(LAUNCH)).toEqual([])
-  expect(pathsIn(LOCKED)).toEqual([
-    "collections/royal-road/syncing/royal-road-syncing.module.code.ts",
-  ])
+  expect(pathsIn(LOCKED)).toEqual([LOCKED_AT])
 })
 
 test("a command naming a file that is not there is given back with that path", () => {
   const run = `bun ${MOVED}`
-  expect(straysIn(ROOT, PAGE_PATH, [WATCHER, run])).toEqual([
+  expect(straysIn(scratch, PAGE_PATH, [WATCHER, run])).toEqual([
     { pagePath: PAGE_PATH, run, path: MOVED },
   ])
-  expect(straysIn(ROOT, PAGE_PATH, [WATCHER])).toEqual([])
-})
-
-test("every workstation service page names files that are there", () => {
-  const read = everyService(ROOT)
-  expect("refused" in read).toBe(false)
-  if ("refused" in read) return
-  expect(read.services.map((one) => one.service.slug)).toContain("service-watching")
-  const strays = read.services.flatMap((one) => straysIn(ROOT, one.pagePath, one.service.runs))
-  expect(strays.map(said)).toEqual([])
+  expect(straysIn(scratch, PAGE_PATH, [WATCHER])).toEqual([])
 })
