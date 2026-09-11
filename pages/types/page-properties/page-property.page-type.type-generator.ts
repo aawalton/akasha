@@ -25,9 +25,7 @@ const LIST_AT = "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 const RELATION = "relation-property"
 
-const SLUG_HELD = "Slug"
-
-const SLUG_AT = "akasha/pages/properties/slug.text-property.ts"
+const SLUG_AT = "text-property/slug"
 
 const CHOSEN = new Set(["rank-property", "select-property"])
 
@@ -141,9 +139,7 @@ export type Asked = {
 export function writtenFor(shadow: Shadow, asked: Asked): Written | null {
   const held = HELD.get(asked.kind)
   if (held !== undefined) return { held, imports: [] }
-  if (asked.kind === RELATION) {
-    return { held: SLUG_HELD, imports: [`import type { ${SLUG_HELD} } from "${SLUG_AT}"`] }
-  }
+  if (asked.kind === RELATION) return memberIn(shadow, SLUG_AT)
   if (CHOSEN.has(asked.kind)) return chosenIn(asked.path, asked.slug)
   if (asked.kind === ONE_OF) return oneOfIn(shadow, asked.value)
   if (asked.kind !== COMPUTED) return null
