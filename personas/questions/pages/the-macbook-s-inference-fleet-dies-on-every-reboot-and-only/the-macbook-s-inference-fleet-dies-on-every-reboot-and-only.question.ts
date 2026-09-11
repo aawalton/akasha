@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const theMacbookSInferenceFleetDiesOnEveryRebootAndOnly = {
   id: "019f9851-a75a-7806-8489-0120e7323030",

@@ -1,9 +1,9 @@
 import type { PageCondition } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import { pad2 } from "../image-name/image-name.module.code.ts"
+import { pad2 } from "akasha/personas/image-name/image-name.module.code.ts"
 import {
   personaCondition,
   relationshipLevelMatchCondition,
-} from "../page-conditions/persona-page-conditions.module.code.ts"
+} from "akasha/personas/page-conditions/persona-page-conditions.module.code.ts"
 
 export const PERSONA_WALLPAPER_PAGE_TYPE_SLUG = "persona-wallpaper"
 

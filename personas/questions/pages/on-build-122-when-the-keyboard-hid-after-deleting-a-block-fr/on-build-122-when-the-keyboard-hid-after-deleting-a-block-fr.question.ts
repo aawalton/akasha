@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const onBuild122WhenTheKeyboardHidAfterDeletingABlockFr = {
   id: "019f6917-63ca-7f90-bc0f-37ae49667e5c",

@@ -1,5 +1,5 @@
 import type { Rank } from "akasha/alan/collections/properties/rank.rank-property.types.ts"
-import type { RankProperty } from "../../../pages/rank-properties/rank-property.page-type.types.ts"
+import type { RankProperty } from "akasha/pages/rank-properties/rank-property.page-type.types.ts"
 
 export type Grade = Rank
 

@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { buildAnchorImageRecord, buildCoverImageRecord } from "./anchor-cover-record.module.code.ts"
+import {
+  buildAnchorImageRecord,
+  buildCoverImageRecord,
+} from "akasha/personas/anchor-cover-record/anchor-cover-record.module.code.ts"
 
 describe("buildAnchorImageRecord", () => {
   test("matches the anchor by the persona alone", () => {

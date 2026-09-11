@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { matchPersonaForAgent, type PersonaMatchCandidate } from "./last-messaged.module.code.ts"
+import {
+  matchPersonaForAgent,
+  type PersonaMatchCandidate,
+} from "akasha/personas/last-messaged/last-messaged.module.code.ts"
 
 const PERSONAS: readonly PersonaMatchCandidate[] = [
   { id: "1", slug: "aria-blue" },

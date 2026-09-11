@@ -1,5 +1,5 @@
-import type { Host } from "../hosts/host.page-type.types.ts"
-import type { TalosSecrets } from "./properties/talos-secrets.text-property.ts"
+import type { TalosSecrets } from "akasha/machines/clusters/properties/talos-secrets.text-property.ts"
+import type { Host } from "akasha/machines/hosts/host.page-type.types.ts"
 
 export type Cluster = Host & {
   talosSecrets?: TalosSecrets

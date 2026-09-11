@@ -1,8 +1,8 @@
-import type { AccountPage } from "../../things/properties/account-page.text-property.types.ts"
-import type { TemperThing } from "../../things/temper-thing.page-type.types.ts"
-import type { ByteCount } from "./properties/byte-count.number-property.types.ts"
-import type { ChunkIndex } from "./properties/chunk-index.number-property.types.ts"
-import type { Inventory } from "./properties/inventory.relation-property.types.ts"
+import type { ByteCount } from "akasha/temper/holdings-sets/temper-inventory-chunks/properties/byte-count.number-property.types.ts"
+import type { ChunkIndex } from "akasha/temper/holdings-sets/temper-inventory-chunks/properties/chunk-index.number-property.types.ts"
+import type { Inventory } from "akasha/temper/holdings-sets/temper-inventory-chunks/properties/inventory.relation-property.types.ts"
+import type { AccountPage } from "akasha/temper/things/properties/account-page.text-property.types.ts"
+import type { TemperThing } from "akasha/temper/things/temper-thing.page-type.types.ts"
 
 export type TemperInventoryChunk = TemperThing & {
   accountPage: AccountPage

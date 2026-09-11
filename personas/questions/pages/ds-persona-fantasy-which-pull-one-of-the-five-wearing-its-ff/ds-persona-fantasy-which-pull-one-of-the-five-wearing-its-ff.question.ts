@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const dsPersonaFantasyWhichPullOneOfTheFiveWearingItsFf = {
   id: "019f6957-49cc-7ebe-8e79-b4b61ac932fd",

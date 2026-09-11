@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const renderPrompt = {
   id: "01a05b70-a58d-7a82-b208-fbcd6f5976f9",

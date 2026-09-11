@@ -1,3 +1,3 @@
-import type { publicationStatus } from "./publication-status.select-property.ts"
+import type { publicationStatus } from "akasha/story/stories-read/properties/publication-status.select-property.ts"
 
 export type PublicationStatus = (typeof publicationStatus.values)[number]

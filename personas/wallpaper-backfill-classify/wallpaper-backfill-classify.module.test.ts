@@ -4,7 +4,7 @@ import {
   findConfidentWallpaperSource,
   pathBasename,
   type UpscaleRunRef,
-} from "./wallpaper-backfill-classify.module.code.ts"
+} from "akasha/personas/wallpaper-backfill-classify/wallpaper-backfill-classify.module.code.ts"
 
 const RUNS: readonly UpscaleRunRef[] = [
   { inputImagePath: "/src/other.png", outputImagePath: "/out/other.png" },

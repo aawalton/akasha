@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const dsAnchorHuntWithHr2SBlackGoldDecoPaintLockedWhic = {
   id: "019f69ee-fb20-78b9-bb99-da2fc554ea54",

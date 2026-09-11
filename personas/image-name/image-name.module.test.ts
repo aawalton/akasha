@@ -4,7 +4,7 @@ import {
   parseImageName,
   parseImageTimestamp,
   toPersonaSlug,
-} from "./image-name.module.code.ts"
+} from "akasha/personas/image-name/image-name.module.code.ts"
 
 const moment = new Date(Date.UTC(2026, 0, 15, 10, 30, 0))
 

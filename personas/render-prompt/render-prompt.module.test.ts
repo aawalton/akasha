@@ -7,7 +7,7 @@ import {
   SCENE_PLACEHOLDER,
   UNIVERSAL_SCENE_DIRECTION,
   WALLPAPER_RENDER_TARGET,
-} from "./render-prompt.module.code.ts"
+} from "akasha/personas/render-prompt/render-prompt.module.code.ts"
 
 describe("buildRenderClause", () => {
   test("names the size the frame is rendered at", () => {

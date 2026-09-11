@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   personaCondition,
   relationshipLevelMatchCondition,
-} from "./persona-page-conditions.module.code.ts"
+} from "akasha/personas/page-conditions/persona-page-conditions.module.code.ts"
 
 describe("personaCondition", () => {
   test("matches the persona by her slug", () => {

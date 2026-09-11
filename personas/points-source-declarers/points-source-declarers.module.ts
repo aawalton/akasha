@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pointsSourceDeclarers = {
   id: "01a05b70-a58d-7513-8c39-624c74cdaf3a",

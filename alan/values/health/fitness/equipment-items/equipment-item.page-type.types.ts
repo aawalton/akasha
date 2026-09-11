@@ -1,11 +1,11 @@
-import type { Page } from "../../../../../pages/page.page-type.types.ts"
-import type { Title } from "../../../../../pages/properties/title.text-property.ts"
-import type { EquipmentAvailable } from "./properties/equipment-available.boolean-property.types.ts"
-import type { EquipmentCategory } from "./properties/equipment-category.select-property.types.ts"
-import type { EquipmentConfiguration } from "./properties/equipment-configuration.select-property.types.ts"
-import type { EquipmentLoads } from "./properties/equipment-loads.number-property.types.ts"
-import type { EquipmentNotes } from "./properties/equipment-notes.text-property.ts"
-import type { EquipmentSortOrder } from "./properties/equipment-sort-order.number-property.types.ts"
+import type { EquipmentAvailable } from "akasha/alan/values/health/fitness/equipment-items/properties/equipment-available.boolean-property.types.ts"
+import type { EquipmentCategory } from "akasha/alan/values/health/fitness/equipment-items/properties/equipment-category.select-property.types.ts"
+import type { EquipmentConfiguration } from "akasha/alan/values/health/fitness/equipment-items/properties/equipment-configuration.select-property.types.ts"
+import type { EquipmentLoads } from "akasha/alan/values/health/fitness/equipment-items/properties/equipment-loads.number-property.types.ts"
+import type { EquipmentNotes } from "akasha/alan/values/health/fitness/equipment-items/properties/equipment-notes.text-property.ts"
+import type { EquipmentSortOrder } from "akasha/alan/values/health/fitness/equipment-items/properties/equipment-sort-order.number-property.types.ts"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.ts"
 
 export type EquipmentItem = Page & {
   title: Title

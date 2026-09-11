@@ -1,3 +1,3 @@
-import type { PageType } from "../../../../pages/types/page-type.page-type.types.ts"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export type RulesEngineRuleSet = PageType & {}

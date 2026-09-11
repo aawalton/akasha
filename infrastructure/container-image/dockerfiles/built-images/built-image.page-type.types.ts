@@ -1,8 +1,8 @@
-import type { Domain } from "../../../../domains/domain.page-type.types.ts"
-import type { ImageExtensions } from "./properties/image-extensions.file-property.ts"
-import type { ImageFolder } from "./properties/image-folder.text-property.ts"
-import type { ImageKind } from "./properties/image-kind.select-property.ts"
-import type { ImageRepository } from "./properties/image-repository.text-property.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { ImageExtensions } from "akasha/infrastructure/container-image/dockerfiles/built-images/properties/image-extensions.file-property.ts"
+import type { ImageFolder } from "akasha/infrastructure/container-image/dockerfiles/built-images/properties/image-folder.text-property.ts"
+import type { ImageKind } from "akasha/infrastructure/container-image/dockerfiles/built-images/properties/image-kind.select-property.ts"
+import type { ImageRepository } from "akasha/infrastructure/container-image/dockerfiles/built-images/properties/image-repository.text-property.ts"
 
 export type BuiltImage = Domain & {
   kind: ImageKind

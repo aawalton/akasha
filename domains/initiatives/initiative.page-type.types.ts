@@ -1,9 +1,9 @@
-import type { Page } from "../../pages/page.page-type.types.ts"
-import type { PageDomain } from "../properties/page-domain.relation-property.types.ts"
-import type { Constraints } from "./properties/constraints.standard-agent-english-property.types.ts"
-import type { InitiativeParent } from "./properties/initiative-parent.relation-property.types.ts"
-import type { InitiativePersona } from "./properties/initiative-persona.relation-property.types.ts"
-import type { Intents } from "./properties/intents.record-property.ts"
+import type { Constraints } from "akasha/domains/initiatives/properties/constraints.standard-agent-english-property.types.ts"
+import type { InitiativeParent } from "akasha/domains/initiatives/properties/initiative-parent.relation-property.types.ts"
+import type { InitiativePersona } from "akasha/domains/initiatives/properties/initiative-persona.relation-property.types.ts"
+import type { Intents } from "akasha/domains/initiatives/properties/intents.record-property.ts"
+import type { PageDomain } from "akasha/domains/properties/page-domain.relation-property.types.ts"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 
 export type Initiative = Page & {
   domain: PageDomain

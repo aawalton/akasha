@@ -1,3 +1,3 @@
-import type { cpu } from "./cpu.select-property.ts"
+import type { cpu } from "akasha/machines/computers/properties/cpu.select-property.ts"
 
 export type Cpu = (typeof cpu.values)[number]

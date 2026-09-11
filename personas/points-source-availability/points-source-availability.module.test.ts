@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { pointsSourceMayWrite } from "./points-source-availability.module.code.ts"
+import { pointsSourceMayWrite } from "akasha/personas/points-source-availability/points-source-availability.module.code.ts"
 
 describe("pointsSourceMayWrite", () => {
   test("lets a persona with a named source write", () => {

@@ -3,7 +3,7 @@ import {
   orderedWallpaperSlugs,
   stampMsOf,
   type WallpaperRow,
-} from "./wallpaper-order.module.code.ts"
+} from "akasha/personas/wallpaper-order/wallpaper-order.module.code.ts"
 
 const PNG = "png"
 

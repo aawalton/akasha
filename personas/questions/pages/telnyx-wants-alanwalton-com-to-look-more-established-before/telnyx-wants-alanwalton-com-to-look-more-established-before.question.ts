@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const telnyxWantsAlanwaltonComToLookMoreEstablishedBefore = {
   id: "019f7069-7ff4-7f40-89ad-5cb50d23b1c0",

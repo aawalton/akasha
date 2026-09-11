@@ -1,8 +1,8 @@
-import type { Page } from "../../../pages/page.page-type.types.ts"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { ChessGame } from "./properties/chess-game.relation-property.types.ts"
-import type { ChessReviewSessionNotes } from "./properties/chess-review-session-notes.file-property.ts"
-import type { ReviewedAt } from "./properties/reviewed-at.instant-property.types.ts"
+import type { ChessGame } from "akasha/alan/chess/review-sessions/properties/chess-game.relation-property.types.ts"
+import type { ChessReviewSessionNotes } from "akasha/alan/chess/review-sessions/properties/chess-review-session-notes.file-property.ts"
+import type { ReviewedAt } from "akasha/alan/chess/review-sessions/properties/reviewed-at.instant-property.types.ts"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.ts"
 
 export type ChessReviewSession = Page & {
   title: Title

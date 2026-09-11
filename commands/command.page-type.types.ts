@@ -1,9 +1,9 @@
-import type { Entries } from "../checks/code-checks/properties/entries.file-property.ts"
-import type { Module } from "../code-system/modules/module.page-type.types.ts"
-import type { ChangeKind } from "./properties/change-kind.relation-property.types.ts"
-import type { HelpNotes } from "./properties/help-notes.text-property.ts"
-import type { Taking } from "./properties/taking.record-property.ts"
-import type { Timeout } from "./properties/timeout.number-property.types.ts"
+import type { Entries } from "akasha/checks/code-checks/properties/entries.file-property.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { ChangeKind } from "akasha/commands/properties/change-kind.relation-property.types.ts"
+import type { HelpNotes } from "akasha/commands/properties/help-notes.text-property.ts"
+import type { Taking } from "akasha/commands/properties/taking.record-property.ts"
+import type { Timeout } from "akasha/commands/properties/timeout.number-property.types.ts"
 
 export type Command = Module & {
   changeKind: ChangeKind

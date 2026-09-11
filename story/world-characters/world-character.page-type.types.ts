@@ -1,10 +1,10 @@
-import type { Page } from "../../pages/page.page-type.types.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { World } from "../stories-played/properties/world.relation-property.types.ts"
-import type { EventCount } from "./properties/event-count.number-property.types.ts"
-import type { FirstChapter } from "./properties/first-chapter.number-property.types.ts"
-import type { LastChapter } from "./properties/last-chapter.number-property.types.ts"
-import type { MaxLevel } from "./properties/max-level.number-property.types.ts"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { World } from "akasha/story/stories-played/properties/world.relation-property.types.ts"
+import type { EventCount } from "akasha/story/world-characters/properties/event-count.number-property.types.ts"
+import type { FirstChapter } from "akasha/story/world-characters/properties/first-chapter.number-property.types.ts"
+import type { LastChapter } from "akasha/story/world-characters/properties/last-chapter.number-property.types.ts"
+import type { MaxLevel } from "akasha/story/world-characters/properties/max-level.number-property.types.ts"
 
 export type WorldCharacter = Page & {
   title: Title

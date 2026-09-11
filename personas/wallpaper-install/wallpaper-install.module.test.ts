@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { planWallpaperInstall } from "./wallpaper-install.module.code.ts"
+import { planWallpaperInstall } from "akasha/personas/wallpaper-install/wallpaper-install.module.code.ts"
 
 const NEW_NAME = "aria-L03-20260115T103000Z.png"
 

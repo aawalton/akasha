@@ -1,4 +1,4 @@
-import type { Persona } from "../../persona.page-type.types.ts"
+import type { Persona } from "akasha/personas/persona.page-type.types.ts"
 
 export const ceri = {
   id: "019ef053-c0c2-7ae0-9faf-ec57e78ded39",

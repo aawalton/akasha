@@ -1,7 +1,7 @@
-import type { Key } from "../../../things/properties/key.text-property.types.ts"
-import type { ItemId } from "../../things/properties/item-id.number-property.types.ts"
-import type { TemperCatalogThing } from "../../things/temper-catalog-thing.page-type.types.ts"
-import type { UespId } from "../properties/uesp-id.number-property.types.ts"
+import type { UespId } from "akasha/temper/catalog/temper-skill/properties/uesp-id.number-property.types.ts"
+import type { ItemId } from "akasha/temper/catalog/things/properties/item-id.number-property.types.ts"
+import type { TemperCatalogThing } from "akasha/temper/catalog/things/temper-catalog-thing.page-type.types.ts"
+import type { Key } from "akasha/temper/things/properties/key.text-property.types.ts"
 
 export type TemperScribingThing = TemperCatalogThing & {
   key: Key

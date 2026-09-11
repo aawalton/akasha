@@ -1,5 +1,5 @@
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { Collection } from "../../../collections/collection.page-type.types.ts"
+import type { Collection } from "akasha/alan/collections/collection.page-type.types.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.ts"
 
 export type FandomCollection = Collection & {
   title: Title

@@ -1,11 +1,11 @@
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { CollectionExternal } from "../../../collections/externals/collection-external.page-type.types.ts"
-import type { Genres } from "../properties/genres.text-property.ts"
-import type { ImdbId } from "../properties/imdb-id.text-property.ts"
-import type { PosterPath } from "../properties/poster-path.text-property.ts"
-import type { ProductionStatus } from "../properties/production-status.select-property.types.ts"
-import type { VoteAverage } from "../properties/vote-average.number-property.types.ts"
-import type { LastAirDate } from "./properties/last-air-date.calendar-date-property.types.ts"
+import type { CollectionExternal } from "akasha/alan/collections/externals/collection-external.page-type.types.ts"
+import type { Genres } from "akasha/alan/library/watching/properties/genres.text-property.ts"
+import type { ImdbId } from "akasha/alan/library/watching/properties/imdb-id.text-property.ts"
+import type { PosterPath } from "akasha/alan/library/watching/properties/poster-path.text-property.ts"
+import type { ProductionStatus } from "akasha/alan/library/watching/properties/production-status.select-property.types.ts"
+import type { VoteAverage } from "akasha/alan/library/watching/properties/vote-average.number-property.types.ts"
+import type { LastAirDate } from "akasha/alan/library/watching/shows/properties/last-air-date.calendar-date-property.types.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.ts"
 
 export type Show = CollectionExternal & {
   title: Title

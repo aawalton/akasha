@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const theContainmentBreachRcaIsDoneAndCleanRootCauseThe = {
   id: "019f9ac5-e2f2-7abe-a15c-675b093a09a1",

@@ -1,6 +1,6 @@
-import type { Module } from "../../../../../code-system/modules/module.page-type.types.ts"
-import type { Test } from "../../../../../code-system/modules/properties/test.code-file-property.ts"
-import type { FolderShapeEnabled } from "./properties/folder-shape-enabled.boolean-property.types.ts"
+import type { FolderShapeEnabled } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/properties/folder-shape-enabled.boolean-property.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Test } from "akasha/code-system/modules/properties/test.code-file-property.ts"
 
 export type FolderShape = Module & {
   test: Test

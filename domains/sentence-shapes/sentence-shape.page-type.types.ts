@@ -1,7 +1,7 @@
-import type { Module } from "../../code-system/modules/module.page-type.types.ts"
-import type { Test } from "../../code-system/modules/properties/test.code-file-property.ts"
-import type { Allowed } from "./properties/allowed.boolean-property.types.ts"
-import type { Reason } from "./properties/reason.text-property.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Test } from "akasha/code-system/modules/properties/test.code-file-property.ts"
+import type { Allowed } from "akasha/domains/sentence-shapes/properties/allowed.boolean-property.types.ts"
+import type { Reason } from "akasha/domains/sentence-shapes/properties/reason.text-property.ts"
 
 export type SentenceShape = Module & {
   test: Test

@@ -3,7 +3,7 @@ import {
   declaresPointsSource,
   personasDeclaringPointsSource,
   TOWER_WORDS_POINTS_SOURCE,
-} from "./points-source-declarers.module.code.ts"
+} from "akasha/personas/points-source-declarers/points-source-declarers.module.code.ts"
 
 describe("declaresPointsSource", () => {
   test("counts a source declared external", () => {

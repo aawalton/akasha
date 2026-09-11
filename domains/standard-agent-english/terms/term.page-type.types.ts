@@ -1,7 +1,7 @@
-import type { Page } from "../../../pages/page.page-type.types.ts"
-import type { Definition } from "../../properties/definition.standard-agent-english-property.types.ts"
-import type { Spelling } from "./properties/spelling.text-property.ts"
-import type { Variants } from "./properties/variants.text-property.ts"
+import type { Definition } from "akasha/domains/properties/definition.standard-agent-english-property.types.ts"
+import type { Spelling } from "akasha/domains/standard-agent-english/terms/properties/spelling.text-property.ts"
+import type { Variants } from "akasha/domains/standard-agent-english/terms/properties/variants.text-property.ts"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 
 export type Term = Page & {
   spelling: Spelling

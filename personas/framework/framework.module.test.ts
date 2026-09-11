@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { stripFrontmatter } from "./framework.module.code.ts"
+import { stripFrontmatter } from "akasha/personas/framework/framework.module.code.ts"
 
 describe("stripFrontmatter", () => {
   test("takes a leading frontmatter block off", () => {

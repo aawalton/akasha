@@ -1,11 +1,11 @@
-import type { Domain } from "../../../../domains/domain.page-type.types.ts"
-import type { BlackAt } from "./properties/black-at.number-property.types.ts"
-import type { BlueAt } from "./properties/blue-at.number-property.types.ts"
-import type { EarnedColorSlug } from "./properties/earned-color-slug.text-property.types.ts"
-import type { GreenAt } from "./properties/green-at.number-property.types.ts"
-import type { OrangeAt } from "./properties/orange-at.number-property.types.ts"
-import type { RedAt } from "./properties/red-at.number-property.types.ts"
-import type { YellowAt } from "./properties/yellow-at.number-property.types.ts"
+import type { BlackAt } from "akasha/alan/harness/readouts/scales/properties/black-at.number-property.types.ts"
+import type { BlueAt } from "akasha/alan/harness/readouts/scales/properties/blue-at.number-property.types.ts"
+import type { EarnedColorSlug } from "akasha/alan/harness/readouts/scales/properties/earned-color-slug.text-property.types.ts"
+import type { GreenAt } from "akasha/alan/harness/readouts/scales/properties/green-at.number-property.types.ts"
+import type { OrangeAt } from "akasha/alan/harness/readouts/scales/properties/orange-at.number-property.types.ts"
+import type { RedAt } from "akasha/alan/harness/readouts/scales/properties/red-at.number-property.types.ts"
+import type { YellowAt } from "akasha/alan/harness/readouts/scales/properties/yellow-at.number-property.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export type ReadoutScale = Domain & {
   blackAt?: BlackAt

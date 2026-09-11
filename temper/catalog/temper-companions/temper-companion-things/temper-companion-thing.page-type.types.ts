@@ -1,5 +1,5 @@
-import type { TemperCatalogThing } from "../../things/temper-catalog-thing.page-type.types.ts"
-import type { EquipType } from "./properties/equip-type.number-property.types.ts"
+import type { EquipType } from "akasha/temper/catalog/temper-companions/temper-companion-things/properties/equip-type.number-property.types.ts"
+import type { TemperCatalogThing } from "akasha/temper/catalog/things/temper-catalog-thing.page-type.types.ts"
 
 export type TemperCompanionThing = TemperCatalogThing & {
   equipType?: EquipType

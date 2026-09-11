@@ -1,9 +1,9 @@
-import type { Code } from "../../../code-system/modules/properties/code.code-file-property.ts"
-import type { Domain } from "../../../domains/domain.page-type.types.ts"
-import type { CompiledLua } from "./properties/compiled-lua.code-file-property.ts"
-import type { LuaExport } from "./properties/lua-export.text-property.ts"
-import type { LuaFeature } from "./properties/lua-feature.text-property.ts"
-import type { Lua50Code } from "./properties/lua50-code.code-file-property.ts"
+import type { Code } from "akasha/code-system/modules/properties/code.code-file-property.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { CompiledLua } from "akasha/language-design/lua-compiler/lualibs/properties/compiled-lua.code-file-property.ts"
+import type { LuaExport } from "akasha/language-design/lua-compiler/lualibs/properties/lua-export.text-property.ts"
+import type { LuaFeature } from "akasha/language-design/lua-compiler/lualibs/properties/lua-feature.text-property.ts"
+import type { Lua50Code } from "akasha/language-design/lua-compiler/lualibs/properties/lua50-code.code-file-property.ts"
 
 export type Lualib = Domain & {
   code: Code

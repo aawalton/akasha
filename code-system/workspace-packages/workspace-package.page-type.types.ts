@@ -1,6 +1,6 @@
-import type { Domain } from "../../domains/domain.page-type.types.ts"
-import type { Manifest } from "./properties/manifest.file-property.ts"
-import type { ToolReached } from "./properties/tool-reached.text-property.ts"
+import type { Manifest } from "akasha/code-system/workspace-packages/properties/manifest.file-property.ts"
+import type { ToolReached } from "akasha/code-system/workspace-packages/properties/tool-reached.text-property.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export type WorkspacePackage = Domain & {
   manifest?: Manifest

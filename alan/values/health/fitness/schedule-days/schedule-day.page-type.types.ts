@@ -1,7 +1,7 @@
-import type { Page } from "../../../../../pages/page.page-type.types.ts"
-import type { Title } from "../../../../../pages/properties/title.text-property.ts"
-import type { DayOfWeek } from "./properties/day-of-week.select-property.types.ts"
-import type { Focus } from "./properties/focus.select-property.types.ts"
+import type { DayOfWeek } from "akasha/alan/values/health/fitness/schedule-days/properties/day-of-week.select-property.types.ts"
+import type { Focus } from "akasha/alan/values/health/fitness/schedule-days/properties/focus.select-property.types.ts"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.ts"
 
 export type ScheduleDay = Page & {
   title: Title

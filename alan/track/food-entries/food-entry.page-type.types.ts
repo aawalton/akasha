@@ -1,9 +1,9 @@
-import type { Page } from "../../../pages/page.page-type.types.ts"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { EstimatedCalories } from "./properties/estimated-calories.number-property.types.ts"
-import type { FoodEntryNote } from "./properties/food-entry-note.file-property.ts"
-import type { HappenedAt } from "./properties/happened-at.instant-property.types.ts"
-import type { PlantGrams } from "./properties/plant-grams.number-property.types.ts"
+import type { EstimatedCalories } from "akasha/alan/track/food-entries/properties/estimated-calories.number-property.types.ts"
+import type { FoodEntryNote } from "akasha/alan/track/food-entries/properties/food-entry-note.file-property.ts"
+import type { HappenedAt } from "akasha/alan/track/food-entries/properties/happened-at.instant-property.types.ts"
+import type { PlantGrams } from "akasha/alan/track/food-entries/properties/plant-grams.number-property.types.ts"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.ts"
 
 export type FoodEntry = Page & {
   title: Title

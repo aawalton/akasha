@@ -1,3 +1,3 @@
-import type { dayOfWeek } from "./day-of-week.select-property.ts"
+import type { dayOfWeek } from "akasha/alan/values/health/fitness/schedule-days/properties/day-of-week.select-property.ts"
 
 export type DayOfWeek = (typeof dayOfWeek.values)[number]

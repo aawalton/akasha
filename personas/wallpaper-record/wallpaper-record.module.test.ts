@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { buildWallpaperImageRecord } from "./wallpaper-record.module.code.ts"
+import { buildWallpaperImageRecord } from "akasha/personas/wallpaper-record/wallpaper-record.module.code.ts"
 
 const INPUT = {
   personaSlug: "aria",

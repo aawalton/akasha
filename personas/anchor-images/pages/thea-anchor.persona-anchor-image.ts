@@ -1,4 +1,4 @@
-import type { PersonaAnchorImage } from "../persona-anchor-image.page-type.types.ts"
+import type { PersonaAnchorImage } from "akasha/personas/anchor-images/persona-anchor-image.page-type.types.ts"
 
 export const theaAnchor = {
   id: "019f324d-8020-7057-a6a4-578e665723fc",

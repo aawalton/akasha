@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const canYouPhysicallyPowerCycleNode03WhenYouGetThisIt = {
   id: "019f9648-85d1-771d-b910-1417a3b67a3b",

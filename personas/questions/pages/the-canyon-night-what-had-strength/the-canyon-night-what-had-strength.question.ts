@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const theCanyonNightWhatHadStrength = {
   id: "019f761d-ce54-7f88-8b56-b544ee23490d",

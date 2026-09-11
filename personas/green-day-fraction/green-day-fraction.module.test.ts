@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { greenDayPointsOf } from "./green-day-fraction.module.code.ts"
+import { greenDayPointsOf } from "akasha/personas/green-day-fraction/green-day-fraction.module.code.ts"
 
 describe("greenDayPointsOf", () => {
   test("answers the figure a persona states", () => {

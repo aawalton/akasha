@@ -6,12 +6,12 @@ import {
   isPerLevelBackfillTarget,
   parsePngDimensions,
   planRetry,
-} from "./wallpaper-backfill-execute.module.code.ts"
+} from "akasha/personas/wallpaper-backfill-execute/wallpaper-backfill-execute.module.code.ts"
 import {
   notAPngBytes,
   pngHeaderBytes,
   truncatedBytes,
-} from "./wallpaper-backfill-execute.module.test-fixtures.ts"
+} from "akasha/personas/wallpaper-backfill-execute/wallpaper-backfill-execute.module.test-fixtures.ts"
 
 describe("isPerLevelBackfillTarget", () => {
   test("takes a whole level from zero up", () => {

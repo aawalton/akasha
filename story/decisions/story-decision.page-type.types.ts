@@ -1,12 +1,12 @@
-import type { Page } from "../../pages/page.page-type.types.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { Prose } from "../stories-played/properties/prose.file-property.ts"
-import type { World } from "../stories-played/properties/world.relation-property.types.ts"
-import type { ChapterNumber } from "../wiki-entries/properties/chapter-number.number-property.types.ts"
-import type { Chosen } from "./properties/chosen.text-property.ts"
-import type { DecisionEffect } from "./properties/decision-effect.text-property.ts"
-import type { DecisionOptions } from "./properties/decision-options.text-property.ts"
-import type { DecisionType } from "./properties/decision-type.select-property.types.ts"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Chosen } from "akasha/story/decisions/properties/chosen.text-property.ts"
+import type { DecisionEffect } from "akasha/story/decisions/properties/decision-effect.text-property.ts"
+import type { DecisionOptions } from "akasha/story/decisions/properties/decision-options.text-property.ts"
+import type { DecisionType } from "akasha/story/decisions/properties/decision-type.select-property.types.ts"
+import type { Prose } from "akasha/story/stories-played/properties/prose.file-property.ts"
+import type { World } from "akasha/story/stories-played/properties/world.relation-property.types.ts"
+import type { ChapterNumber } from "akasha/story/wiki-entries/properties/chapter-number.number-property.types.ts"
 
 export type StoryDecision = Page & {
   title: Title

@@ -1,9 +1,9 @@
-import type { Page } from "../../../../pages/page.page-type.types.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { TransactionCategory } from "../months/properties/transaction-category.relation-property.types.ts"
-import type { CounterpartWithinDays } from "./properties/counterpart-within-days.number-property.types.ts"
-import type { Matches } from "./properties/matches.record-property.ts"
-import type { RuleNote } from "./properties/rule-note.text-property.types.ts"
+import type { CounterpartWithinDays } from "akasha/alan/harness/monarch/category-rules/properties/counterpart-within-days.number-property.types.ts"
+import type { Matches } from "akasha/alan/harness/monarch/category-rules/properties/matches.record-property.ts"
+import type { RuleNote } from "akasha/alan/harness/monarch/category-rules/properties/rule-note.text-property.types.ts"
+import type { TransactionCategory } from "akasha/alan/harness/monarch/months/properties/transaction-category.relation-property.types.ts"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.ts"
 
 export type CategoryRule = Page & {
   title: Title

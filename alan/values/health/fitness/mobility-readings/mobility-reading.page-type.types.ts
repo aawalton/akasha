@@ -1,12 +1,12 @@
-import type { Page } from "../../../../../pages/page.page-type.types.ts"
-import type { Title } from "../../../../../pages/properties/title.text-property.ts"
-import type { Note } from "../set-logs/properties/note.text-property.ts"
-import type { Context } from "./properties/context.select-property.types.ts"
-import type { MobilityReadingDate } from "./properties/mobility-reading-date.calendar-date-property.types.ts"
-import type { MobilityReadingMetric } from "./properties/mobility-reading-metric.select-property.types.ts"
-import type { MobilityReadingValueNum } from "./properties/mobility-reading-value-num.number-property.types.ts"
-import type { MobilityReadingValueText } from "./properties/mobility-reading-value-text.text-property.ts"
-import type { Side } from "./properties/side.select-property.types.ts"
+import type { Context } from "akasha/alan/values/health/fitness/mobility-readings/properties/context.select-property.types.ts"
+import type { MobilityReadingDate } from "akasha/alan/values/health/fitness/mobility-readings/properties/mobility-reading-date.calendar-date-property.types.ts"
+import type { MobilityReadingMetric } from "akasha/alan/values/health/fitness/mobility-readings/properties/mobility-reading-metric.select-property.types.ts"
+import type { MobilityReadingValueNum } from "akasha/alan/values/health/fitness/mobility-readings/properties/mobility-reading-value-num.number-property.types.ts"
+import type { MobilityReadingValueText } from "akasha/alan/values/health/fitness/mobility-readings/properties/mobility-reading-value-text.text-property.ts"
+import type { Side } from "akasha/alan/values/health/fitness/mobility-readings/properties/side.select-property.types.ts"
+import type { Note } from "akasha/alan/values/health/fitness/set-logs/properties/note.text-property.ts"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.ts"
 
 export type MobilityReading = Page & {
   title: Title

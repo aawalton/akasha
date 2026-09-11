@@ -1,4 +1,4 @@
-import type { Domain } from "../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const persona = {
   id: "01a0532a-a54c-785e-97fa-4e56cb1bc0d1",

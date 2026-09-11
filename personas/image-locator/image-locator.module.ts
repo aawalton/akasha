@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const imageLocator = {
   id: "01a05b70-a58c-726c-8271-4f467712887a",

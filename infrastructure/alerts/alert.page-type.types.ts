@@ -1,12 +1,12 @@
-import type { Definition } from "../../domains/properties/definition.standard-agent-english-property.types.ts"
-import type { Page } from "../../pages/page.page-type.types.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { Person } from "../../seat-system/seats/properties/person.relation-property.types.ts"
-import type { AlertDomain } from "./properties/alert-domain.text-property.ts"
-import type { AlertPersona } from "./properties/alert-persona.relation-property.types.ts"
-import type { AlertRoleSlug } from "./properties/alert-role-slug.text-property.ts"
-import type { AlertRunbook } from "./properties/alert-runbook.file-property.ts"
-import type { AlertSummary } from "./properties/alert-summary.text-property.ts"
+import type { Definition } from "akasha/domains/properties/definition.standard-agent-english-property.types.ts"
+import type { AlertDomain } from "akasha/infrastructure/alerts/properties/alert-domain.text-property.ts"
+import type { AlertPersona } from "akasha/infrastructure/alerts/properties/alert-persona.relation-property.types.ts"
+import type { AlertRoleSlug } from "akasha/infrastructure/alerts/properties/alert-role-slug.text-property.ts"
+import type { AlertRunbook } from "akasha/infrastructure/alerts/properties/alert-runbook.file-property.ts"
+import type { AlertSummary } from "akasha/infrastructure/alerts/properties/alert-summary.text-property.ts"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.ts"
+import type { Person } from "akasha/seat-system/seats/properties/person.relation-property.types.ts"
 
 export type Alert = Page & {
   title: Title

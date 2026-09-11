@@ -1,11 +1,11 @@
-import type { Description } from "../../../pages/properties/description.text-property.ts"
-import type { CategoryId } from "../../things/properties/category-id.text-property.types.ts"
-import type { DisplayOrder } from "../../things/properties/display-order.number-property.types.ts"
-import type { Key } from "../../things/properties/key.text-property.types.ts"
-import type { Action } from "../temper-rules/properties/action.relation-property.types.ts"
-import type { Active } from "../temper-rules/properties/active.boolean-property.types.ts"
-import type { Goal } from "../temper-rules/properties/goal.relation-property.types.ts"
-import type { TemperRule } from "../temper-rules/temper-rule.page-type.types.ts"
+import type { Description } from "akasha/pages/properties/description.text-property.ts"
+import type { Action } from "akasha/temper/progressions/temper-rules/properties/action.relation-property.types.ts"
+import type { Active } from "akasha/temper/progressions/temper-rules/properties/active.boolean-property.types.ts"
+import type { Goal } from "akasha/temper/progressions/temper-rules/properties/goal.relation-property.types.ts"
+import type { TemperRule } from "akasha/temper/progressions/temper-rules/temper-rule.page-type.types.ts"
+import type { CategoryId } from "akasha/temper/things/properties/category-id.text-property.types.ts"
+import type { DisplayOrder } from "akasha/temper/things/properties/display-order.number-property.types.ts"
+import type { Key } from "akasha/temper/things/properties/key.text-property.types.ts"
 
 export type TemperRuleTemplate = TemperRule & {
   key: Key

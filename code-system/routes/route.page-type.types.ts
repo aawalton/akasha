@@ -1,7 +1,7 @@
-import type { Domain } from "../../domains/domain.page-type.types.ts"
-import type { RouteCode } from "./properties/route-code.code-file-property.ts"
-import type { RouteTest } from "./properties/route-test.code-file-property.ts"
-import type { UrlPath } from "./properties/url-path.text-property.ts"
+import type { RouteCode } from "akasha/code-system/routes/properties/route-code.code-file-property.ts"
+import type { RouteTest } from "akasha/code-system/routes/properties/route-test.code-file-property.ts"
+import type { UrlPath } from "akasha/code-system/routes/properties/url-path.text-property.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export type Route = Domain & {
   code: RouteCode

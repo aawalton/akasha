@@ -4,7 +4,7 @@ import {
   type PersonaWallpaper,
   type Ran,
   settingIn,
-} from "./desktop-wallpaper-setting.module.code.ts"
+} from "akasha/personas/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"
 
 const ROOT = "/repo"
 

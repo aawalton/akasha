@@ -1,4 +1,4 @@
-import type { PersonaWallpaper } from "../persona-wallpaper.page-type.types.ts"
+import type { PersonaWallpaper } from "akasha/personas/wallpapers/persona-wallpaper.page-type.types.ts"
 
 export const ioneL0120260705t174941z = {
   id: "019ef402-d4fd-7e11-89d3-25e6550953ec",

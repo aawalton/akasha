@@ -1,3 +1,3 @@
-import type { AllowedTerm } from "../allowed-terms/allowed-term.page-type.types.ts"
+import type { AllowedTerm } from "akasha/domains/standard-agent-english/terms/allowed-terms/allowed-term.page-type.types.ts"
 
 export type ForeignNameTerm = AllowedTerm & {}

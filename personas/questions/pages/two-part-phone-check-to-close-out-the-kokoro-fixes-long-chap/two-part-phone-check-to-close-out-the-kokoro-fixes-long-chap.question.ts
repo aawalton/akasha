@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const twoPartPhoneCheckToCloseOutTheKokoroFixesLongChap = {
   id: "019f75ea-3294-70fb-8810-931a644ac52c",

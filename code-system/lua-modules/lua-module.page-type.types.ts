@@ -1,6 +1,6 @@
-import type { Domain } from "../../domains/domain.page-type.types.ts"
-import type { LoadedAs } from "../eso-interfaces/properties/loaded-as.text-property.ts"
-import type { Lua } from "./properties/lua.code-file-property.ts"
+import type { LoadedAs } from "akasha/code-system/eso-interfaces/properties/loaded-as.text-property.ts"
+import type { Lua } from "akasha/code-system/lua-modules/properties/lua.code-file-property.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export type LuaModule = Domain & {
   lua: Lua

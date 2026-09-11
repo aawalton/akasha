@@ -1,5 +1,5 @@
-import type { Domain } from "../domains/domain.page-type.types.ts"
-import type { OnCall } from "../seat-system/seats/properties/on-call.boolean-property.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { OnCall } from "akasha/seat-system/seats/properties/on-call.boolean-property.types.ts"
 
 export type Role = Domain & {
   onCall: OnCall

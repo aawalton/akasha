@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const canYouLogIntoTheMacbookConsoleOrScreenSharingSoI = {
   id: "019f6964-4da7-77ec-a8ce-c789834e42be",

@@ -5,11 +5,11 @@ import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { textAt, valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { NO_CODE, ran, type Said } from "akasha/utils/run/running/running.module.code.ts"
 import {
   orderedWallpaperSlugs,
   type WallpaperRow,
-} from "../wallpaper-order/wallpaper-order.module.code.ts"
+} from "akasha/personas/wallpaper-order/wallpaper-order.module.code.ts"
+import { NO_CODE, ran, type Said } from "akasha/utils/run/running/running.module.code.ts"
 
 const PERSONA = "persona"
 

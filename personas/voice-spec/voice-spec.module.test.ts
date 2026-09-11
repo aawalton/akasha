@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { ECAPA_CENTROID_DIM, VoiceSpecSchema } from "./voice-spec.module.code.ts"
+import {
+  ECAPA_CENTROID_DIM,
+  VoiceSpecSchema,
+} from "akasha/personas/voice-spec/voice-spec.module.code.ts"
 
 const CENTROID = {
   kind: "inline" as const,

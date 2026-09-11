@@ -1,3 +1,3 @@
-import type { Page } from "../../../../pages/page.page-type.types.ts"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 
 export type CodeEditorTerminal = Page & {}

@@ -1,6 +1,6 @@
-import type { Domain } from "../../domains/domain.page-type.types.ts"
-import type { Swift } from "../ios-components/properties/swift.code-file-property.ts"
-import type { Main } from "../ios-programs/properties/main.code-file-property.ts"
+import type { Swift } from "akasha/code-system/ios-components/properties/swift.code-file-property.ts"
+import type { Main } from "akasha/code-system/ios-programs/properties/main.code-file-property.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export type IosHarness = Domain & {
   swift?: Swift

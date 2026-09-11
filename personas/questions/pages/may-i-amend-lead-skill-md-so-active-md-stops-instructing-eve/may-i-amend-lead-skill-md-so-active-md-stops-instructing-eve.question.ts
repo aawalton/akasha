@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const mayIAmendLeadSkillMdSoActiveMdStopsInstructingEve = {
   id: "019fab4b-adde-7a42-a021-331e5006c18b",

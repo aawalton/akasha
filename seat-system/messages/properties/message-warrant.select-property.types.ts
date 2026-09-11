@@ -1,3 +1,3 @@
-import type { messageWarrant } from "./message-warrant.select-property.ts"
+import type { messageWarrant } from "akasha/seat-system/messages/properties/message-warrant.select-property.ts"
 
 export type MessageWarrant = (typeof messageWarrant.values)[number]

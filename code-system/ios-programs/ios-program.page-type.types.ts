@@ -1,11 +1,11 @@
-import type { Domain } from "../../domains/domain.page-type.types.ts"
-import type { BundleId } from "../ios-apps/properties/bundle-id.text-property.ts"
-import type { Components } from "./properties/components.relation-property.types.ts"
-import type { Entitlements } from "./properties/entitlements.file-property.ts"
-import type { InfoPlist } from "./properties/info-plist.file-property.ts"
-import type { Main } from "./properties/main.code-file-property.ts"
-import type { ProfileName } from "./properties/profile-name.text-property.ts"
-import type { TargetName } from "./properties/target-name.text-property.ts"
+import type { BundleId } from "akasha/code-system/ios-apps/properties/bundle-id.text-property.ts"
+import type { Components } from "akasha/code-system/ios-programs/properties/components.relation-property.types.ts"
+import type { Entitlements } from "akasha/code-system/ios-programs/properties/entitlements.file-property.ts"
+import type { InfoPlist } from "akasha/code-system/ios-programs/properties/info-plist.file-property.ts"
+import type { Main } from "akasha/code-system/ios-programs/properties/main.code-file-property.ts"
+import type { ProfileName } from "akasha/code-system/ios-programs/properties/profile-name.text-property.ts"
+import type { TargetName } from "akasha/code-system/ios-programs/properties/target-name.text-property.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export type IosProgram = Domain & {
   bundleId?: BundleId

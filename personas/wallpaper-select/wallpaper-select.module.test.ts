@@ -3,7 +3,7 @@ import {
   selectFollowWallpaper,
   selectWallpaper,
   type WallpaperCandidate,
-} from "./wallpaper-select.module.code.ts"
+} from "akasha/personas/wallpaper-select/wallpaper-select.module.code.ts"
 
 const CANDIDATES: readonly WallpaperCandidate[] = [
   { slug: "aria", level: 1, path: "aria-1.png" },

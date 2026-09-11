@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const voiceSpec = {
   id: "01a05b70-a58d-78db-84fb-024bfd2939aa",

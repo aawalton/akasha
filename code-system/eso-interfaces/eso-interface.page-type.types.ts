@@ -1,6 +1,6 @@
-import type { Domain } from "../../domains/domain.page-type.types.ts"
-import type { LoadedAs } from "./properties/loaded-as.text-property.ts"
-import type { Markup } from "./properties/markup.file-property.ts"
+import type { LoadedAs } from "akasha/code-system/eso-interfaces/properties/loaded-as.text-property.ts"
+import type { Markup } from "akasha/code-system/eso-interfaces/properties/markup.file-property.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export type EsoInterface = Domain & {
   markup: Markup

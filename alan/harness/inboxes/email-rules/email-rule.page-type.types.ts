@@ -1,6 +1,6 @@
-import type { Page } from "../../../../pages/page.page-type.types.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { EmailRuleMatches } from "./properties/email-rule-matches.record-property.ts"
+import type { EmailRuleMatches } from "akasha/alan/harness/inboxes/email-rules/properties/email-rule-matches.record-property.ts"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.ts"
 
 export type EmailRule = Page & {
   title: Title

@@ -1,8 +1,8 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-import type { LinkLabel } from "./link-label.text-property.ts"
-import type { LinkPlatform } from "./link-platform.select-property.types.ts"
-import type { LinkTarget } from "./link-target.text-property.ts"
+import type { LinkLabel } from "akasha/personas/questions/properties/link-label.text-property.ts"
+import type { LinkPlatform } from "akasha/personas/questions/properties/link-platform.select-property.types.ts"
+import type { LinkTarget } from "akasha/personas/questions/properties/link-target.text-property.ts"
 
 export type QuestionLink = {
   label: LinkLabel

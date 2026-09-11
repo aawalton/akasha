@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
 import type { Reach } from "akasha/pages/computed-properties/computed-property.page-type.ts"
-import { LADDER, levelOf, work } from "./persona-relationship-level.computed-property.code.ts"
+import {
+  LADDER,
+  levelOf,
+  work,
+} from "akasha/personas/properties/persona-relationship-level.computed-property.code.ts"
 
 const RUNGS: Readonly<Record<number, number>> = { 1: 7, 2: 28, 3: 88, 4: 268, 5: 808, 6: 2428 }
 

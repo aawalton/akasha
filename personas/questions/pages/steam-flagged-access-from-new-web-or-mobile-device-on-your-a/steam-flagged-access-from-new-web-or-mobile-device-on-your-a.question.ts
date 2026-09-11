@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const steamFlaggedAccessFromNewWebOrMobileDeviceOnYourA = {
   id: "019f6c4b-18e4-75f5-82b2-37a240846af4",

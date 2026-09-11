@@ -1,4 +1,4 @@
-import type { ClosenessLevel } from "../closeness-level.page-type.types.ts"
+import type { ClosenessLevel } from "akasha/personas/closeness-levels/closeness-level.page-type.types.ts"
 
 export const level6 = {
   id: "01a0540e-e430-78f4-ad48-3a694d35c080",

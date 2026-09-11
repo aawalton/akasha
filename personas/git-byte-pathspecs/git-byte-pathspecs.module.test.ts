@@ -6,7 +6,7 @@ import {
   pathspecsForPrefix,
   pathspecsForPrefixes,
   resolvePointsPrefixes,
-} from "./git-byte-pathspecs.module.code.ts"
+} from "akasha/personas/git-byte-pathspecs/git-byte-pathspecs.module.code.ts"
 
 describe("extensionsForPrefix", () => {
   test("counts code under a prefix it knows", () => {

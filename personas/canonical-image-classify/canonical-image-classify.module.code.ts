@@ -1,8 +1,8 @@
 import {
   type NamedRoot,
   relativizeToNamedRoot,
-} from "../image-locator/image-locator.module.code.ts"
-import { toPersonaSlug } from "../image-name/image-name.module.code.ts"
+} from "akasha/personas/image-locator/image-locator.module.code.ts"
+import { toPersonaSlug } from "akasha/personas/image-name/image-name.module.code.ts"
 
 const IMAGE_EXTENSIONS: readonly string[] = ["png", "jpg", "jpeg", "webp"]
 

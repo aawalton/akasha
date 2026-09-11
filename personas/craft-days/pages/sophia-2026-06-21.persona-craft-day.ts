@@ -1,4 +1,4 @@
-import type { PersonaCraftDay } from "../persona-craft-day.page-type.types.ts"
+import type { PersonaCraftDay } from "akasha/personas/craft-days/persona-craft-day.page-type.types.ts"
 
 export const sophia20260621 = {
   id: "019f15d6-9993-730a-84a1-a00a2c9b536b",

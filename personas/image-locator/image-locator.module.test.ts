@@ -5,7 +5,7 @@ import {
   resolveByRootTag,
   resolveUnderRoot,
   toRootRelative,
-} from "./image-locator.module.code.ts"
+} from "akasha/personas/image-locator/image-locator.module.code.ts"
 
 const ROOTS: readonly NamedRoot[] = [
   { tag: "personas", root: "/img/personas" },

@@ -1,6 +1,6 @@
-import type { Page } from "../../../../../pages/page.page-type.types.ts"
-import type { OpenQuestion } from "./properties/open-question.text-property.ts"
-import type { QuestionTopic } from "./properties/question-topic.relation-property.types.ts"
+import type { OpenQuestion } from "akasha/alan/books/pages/all-about-alan/questions/properties/open-question.text-property.ts"
+import type { QuestionTopic } from "akasha/alan/books/pages/all-about-alan/questions/properties/question-topic.relation-property.types.ts"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 
 export type AllAboutAlanQuestion = Page & {
   topic: QuestionTopic

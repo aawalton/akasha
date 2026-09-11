@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const bridgeOrWaitWantThe2MinuteManualIphoneShortcutFeed = {
   id: "019f951f-f990-7b50-b4d6-a7b5a8324fd9",

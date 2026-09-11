@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const focusModePolishWithTheFixInFlightWhenTheChromeHid = {
   id: "019f6a49-0329-7efe-933a-e53cdb762836",

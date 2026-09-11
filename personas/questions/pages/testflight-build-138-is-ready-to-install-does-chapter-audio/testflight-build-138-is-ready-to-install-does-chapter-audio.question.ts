@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const testflightBuild138IsReadyToInstallDoesChapterAudio = {
   id: "019f7443-5ae3-7839-8e8d-e88916120d2e",

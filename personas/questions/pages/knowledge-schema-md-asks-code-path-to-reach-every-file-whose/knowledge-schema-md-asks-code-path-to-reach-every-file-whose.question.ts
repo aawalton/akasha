@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const knowledgeSchemaMdAsksCodePathToReachEveryFileWhose = {
   id: "019fbb51-e62d-7e6e-bfe1-42537b3a3318",

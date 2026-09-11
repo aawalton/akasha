@@ -1,10 +1,10 @@
-import type { Page } from "../../../pages/page.page-type.types.ts"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { EndDate } from "./properties/end-date.calendar-date-property.types.ts"
-import type { LifeThemeParent } from "./properties/life-theme-parent.relation-property.types.ts"
-import type { LifeThemeStatus } from "./properties/life-theme-status.select-property.types.ts"
-import type { LifeThemeValue } from "./properties/life-theme-value.relation-property.types.ts"
-import type { StartDate } from "./properties/start-date.calendar-date-property.types.ts"
+import type { EndDate } from "akasha/alan/self/life-themes/properties/end-date.calendar-date-property.types.ts"
+import type { LifeThemeParent } from "akasha/alan/self/life-themes/properties/life-theme-parent.relation-property.types.ts"
+import type { LifeThemeStatus } from "akasha/alan/self/life-themes/properties/life-theme-status.select-property.types.ts"
+import type { LifeThemeValue } from "akasha/alan/self/life-themes/properties/life-theme-value.relation-property.types.ts"
+import type { StartDate } from "akasha/alan/self/life-themes/properties/start-date.calendar-date-property.types.ts"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.ts"
 
 export type LifeTheme = Page & {
   title: Title

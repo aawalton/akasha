@@ -1,11 +1,11 @@
-import type { Page } from "../../../pages/page.page-type.types.ts"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { AppearanceExperimentDay } from "./properties/appearance-experiment-day.calendar-date-property.types.ts"
-import type { AppearanceVerdict } from "./properties/appearance-verdict.select-property.types.ts"
-import type { ExperimentPersona } from "./properties/experiment-persona.relation-property.types.ts"
-import type { EyeRead } from "./properties/eye-read.file-property.ts"
-import type { FeltRead } from "./properties/felt-read.file-property.ts"
-import type { WhatTried } from "./properties/what-tried.file-property.ts"
+import type { AppearanceExperimentDay } from "akasha/alan/style/appearance-experiments/properties/appearance-experiment-day.calendar-date-property.types.ts"
+import type { AppearanceVerdict } from "akasha/alan/style/appearance-experiments/properties/appearance-verdict.select-property.types.ts"
+import type { ExperimentPersona } from "akasha/alan/style/appearance-experiments/properties/experiment-persona.relation-property.types.ts"
+import type { EyeRead } from "akasha/alan/style/appearance-experiments/properties/eye-read.file-property.ts"
+import type { FeltRead } from "akasha/alan/style/appearance-experiments/properties/felt-read.file-property.ts"
+import type { WhatTried } from "akasha/alan/style/appearance-experiments/properties/what-tried.file-property.ts"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.ts"
 
 export type AppearanceExperiment = Page & {
   title: Title

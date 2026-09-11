@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const yourIosReaderBugIsFixedAndLiveCanYouReTestOnYou = {
   id: "019f96b1-bc73-7676-bdfd-c900e326aa29",

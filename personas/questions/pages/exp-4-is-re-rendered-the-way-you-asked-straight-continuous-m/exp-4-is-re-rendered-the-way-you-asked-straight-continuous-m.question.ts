@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const exp4IsReRenderedTheWayYouAskedStraightContinuousM = {
   id: "019f771b-2bba-77c7-9001-e66cbe5a24c3",

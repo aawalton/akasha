@@ -1,4 +1,4 @@
-import type { PersonaWallpaperNotification } from "../persona-wallpaper-notification.page-type.types.ts"
+import type { PersonaWallpaperNotification } from "akasha/personas/wallpaper-notifications/persona-wallpaper-notification.page-type.types.ts"
 
 export const graceL1 = {
   id: "019f1e3f-84db-7b7e-9aff-809b4caee880",

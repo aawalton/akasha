@@ -1,7 +1,7 @@
-import type { Domain } from "../../domains/domain.page-type.types.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { HostAddress } from "./properties/host-address.text-property.ts"
-import type { LoginUser } from "./properties/login-user.text-property.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { HostAddress } from "akasha/machines/hosts/properties/host-address.text-property.ts"
+import type { LoginUser } from "akasha/machines/hosts/properties/login-user.text-property.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.ts"
 
 export type Host = Domain & {
   title: Title

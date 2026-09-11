@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const keyboardRolloutTheLastScopeCallIsArchiveOfWorldsWe = {
   id: "019f95ab-e489-745d-8149-c777b6392263",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const alannotesSweepRunAll8DispositionsAsProposedOrAnswer = {
   id: "019f6918-a340-7022-964e-8478b71da213",

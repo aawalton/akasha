@@ -1,3 +1,3 @@
-import type { KiCollectionTemplate } from "../collection-templates/ki-collection-template.page-type.types.ts"
+import type { KiCollectionTemplate } from "akasha/ki/collection-templates/ki-collection-template.page-type.types.ts"
 
 export type KiShow = KiCollectionTemplate & {}

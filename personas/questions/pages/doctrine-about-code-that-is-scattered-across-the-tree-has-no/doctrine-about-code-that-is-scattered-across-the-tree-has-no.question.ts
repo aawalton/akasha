@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const doctrineAboutCodeThatIsScatteredAcrossTheTreeHasNo = {
   id: "019fbaa1-d065-7ca3-ae0f-215d6b77cdef",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const whatDidTheSenduserfileProbesActuallyLookLikeOnYour = {
   id: "019f9a6e-d266-7e22-93dd-941fba70dbef",

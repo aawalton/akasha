@@ -1,5 +1,5 @@
-import type { CollectionExternal } from "../../alan/collections/externals/collection-external.page-type.types.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
+import type { CollectionExternal } from "akasha/alan/collections/externals/collection-external.page-type.types.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.ts"
 
 export type KiCollectionTemplate = CollectionExternal & {
   title: Title

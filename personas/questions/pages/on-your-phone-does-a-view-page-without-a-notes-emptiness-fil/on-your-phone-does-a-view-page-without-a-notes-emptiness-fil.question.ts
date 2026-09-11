@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.types.ts"
+import type { Question } from "akasha/personas/questions/question.page-type.types.ts"
 
 export const onYourPhoneDoesAViewPageWithoutANotesEmptinessFil = {
   id: "019f4c60-e479-7f71-95f9-15f32e041593",

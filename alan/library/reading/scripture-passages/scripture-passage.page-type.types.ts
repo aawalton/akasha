@@ -1,9 +1,9 @@
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { Collection } from "../../../collections/collection.page-type.types.ts"
-import type { ExternalId } from "../../../collections/externals/properties/external-id.text-property.ts"
-import type { PassageText } from "./properties/passage-text.file-property.ts"
-import type { ScriptureBook } from "./properties/scripture-book.text-property.ts"
-import type { ScriptureTranslation } from "./properties/scripture-translation.select-property.types.ts"
+import type { Collection } from "akasha/alan/collections/collection.page-type.types.ts"
+import type { ExternalId } from "akasha/alan/collections/externals/properties/external-id.text-property.ts"
+import type { PassageText } from "akasha/alan/library/reading/scripture-passages/properties/passage-text.file-property.ts"
+import type { ScriptureBook } from "akasha/alan/library/reading/scripture-passages/properties/scripture-book.text-property.ts"
+import type { ScriptureTranslation } from "akasha/alan/library/reading/scripture-passages/properties/scripture-translation.select-property.types.ts"
+import type { Title } from "akasha/pages/properties/title.text-property.ts"
 
 export type ScripturePassage = Collection & {
   title: Title
