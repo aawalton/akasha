@@ -7,6 +7,7 @@ export const spotifyTracks = {
   slug: "spotify-tracks",
   definition: "one track read by its Spotify id",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

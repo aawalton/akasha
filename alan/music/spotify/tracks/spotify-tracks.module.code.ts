@@ -10,7 +10,7 @@ export const trackSchema = z
     duration_ms: z.number(),
     explicit: z.boolean(),
     external_urls: z.object({ spotify: z.string() }).passthrough(),
-    artists: z.array(trackArtistRefSchema).optional(),
+    artists: z.array(trackArtistRefSchema),
   })
   .passthrough()
 
