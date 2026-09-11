@@ -7,6 +7,7 @@ export const pageReasons = {
   definition: "the reasons a page's values give against what its page type declares",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

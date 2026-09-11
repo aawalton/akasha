@@ -4,11 +4,13 @@ import {
   reasonsIn,
 } from "akasha/checks/code-checks/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.code.ts"
 import {
+  FORMAT,
+  seeded,
+} from "akasha/checks/code-checks/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.test-fixtures.ts"
+import {
   allows,
   besideCarried,
-  FORMAT,
   scratch,
-  seeded,
 } from "akasha/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.decision.test-fixtures.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {

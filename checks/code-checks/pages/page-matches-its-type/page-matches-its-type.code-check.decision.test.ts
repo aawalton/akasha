@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { seeded } from "akasha/checks/code-checks/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.test-fixtures.ts"
 import {
   DECLARES_NO_PAGE,
   refusalsOver,
@@ -16,7 +17,6 @@ import {
   ONE_HELD,
   ONE_HELD_AT,
   scratch,
-  seeded,
   THING_AT,
   THING_BODY,
   typing,
