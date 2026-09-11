@@ -1,5 +1,5 @@
 import { afterEach, beforeEach, expect, mock, spyOn, test } from "bun:test"
-import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import { credentialFor } from "akasha/agents/models/gateway/modules/account-walk/account-walk.module.test-fixtures.ts"
 import {
   attemptPermissionDeniedRebind,
   type PermissionDeniedRebindArgs,
@@ -40,18 +40,6 @@ afterEach(() => {
   mock.restore()
 })
 
-function credential(account: string): OAuthCredential {
-  return {
-    account,
-    accessToken: `fake-access-${account}`,
-    refreshToken: `fake-refresh-${account}`,
-    expiresAt: 1_000,
-    scopes: ["user:inference"],
-    subscriptionType: "max",
-    rateLimitTier: null,
-  }
-}
-
 function argsFor(overrides: Partial<PermissionDeniedRebindArgs> = {}): PermissionDeniedRebindArgs {
   return {
     res: new Response(DENIED, { status: 403, statusText: "Forbidden" }),
@@ -62,7 +50,7 @@ function argsFor(overrides: Partial<PermissionDeniedRebindArgs> = {}): Permissio
     pathname: "/v1/messages",
     logPrefix: "[gateway]",
     pickAccount: async () => "beta",
-    getFreshToken: async (account) => credential(account),
+    getFreshToken: async (account) => credentialFor(account),
     logRes: (account, status): undefined => {
       LOGS.answered.push([account, status])
     },

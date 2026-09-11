@@ -1,9 +1,9 @@
 import { afterEach, beforeEach, expect, mock, spyOn, test } from "bun:test"
+import { credentialFor } from "akasha/agents/models/gateway/modules/account-walk/account-walk.module.test-fixtures.ts"
 import {
   attemptModelUnavailableRebind,
   type ModelUnavailableRebindArgs,
 } from "akasha/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.code.ts"
-import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 
 const MISSING = JSON.stringify({
   type: "error",
@@ -38,18 +38,6 @@ afterEach(() => {
   mock.restore()
 })
 
-function credential(account: string): OAuthCredential {
-  return {
-    account,
-    accessToken: `fake-access-${account}`,
-    refreshToken: `fake-refresh-${account}`,
-    expiresAt: 1_000,
-    scopes: ["user:inference"],
-    subscriptionType: "max",
-    rateLimitTier: null,
-  }
-}
-
 function argsFor(overrides: Partial<ModelUnavailableRebindArgs> = {}): ModelUnavailableRebindArgs {
   return {
     res: new Response(MISSING, { status: 404, statusText: "Not Found" }),
@@ -61,7 +49,7 @@ function argsFor(overrides: Partial<ModelUnavailableRebindArgs> = {}): ModelUnav
     logPrefix: "[gateway]",
     markedByReason: new Map<string, string>(),
     pickAccount: async () => "beta",
-    getFreshToken: async (account) => credential(account),
+    getFreshToken: async (account) => credentialFor(account),
     markDisabled: async (account, reason): Promise<undefined> => {
       MARKED.push([account, reason])
     },
