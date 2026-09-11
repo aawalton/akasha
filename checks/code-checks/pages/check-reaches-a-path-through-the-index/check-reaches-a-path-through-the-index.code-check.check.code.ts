@@ -1,7 +1,11 @@
+import { textIn } from "akasha/code-system/body-text/body-text.module.code.ts"
+import {
+  type Facing,
+  generatedIn,
+} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   type Body,
-  bodyOf,
   FILES,
   judgingEach,
   type Selector,
@@ -9,16 +13,36 @@ import {
 import {
   type Asking,
   askingOver,
-  judgedBy,
+  judgingOver,
   reasonsIn,
 } from "./check-reaches-a-path-through-the-index.code-check.decision.code.ts"
+
+const FACING = new WeakMap<Shadow, Facing>()
+
+function facingFor(shadow: Shadow): Facing {
+  const found = FACING.get(shadow)
+  if (found !== undefined) return found
+  const index = shadow.index
+  const made: Facing = {
+    kindsUnder: (of) => index.kindsUnder(of),
+    everyOfType: (kind) => index.everyOfType(kind),
+    valueAt: (path) => index.pageByPath(path),
+    carryingOf: (named) => index.carryingOf(named),
+  }
+  FACING.set(shadow, made)
+  return made
+}
 
 const JUDGED = new WeakMap<Shadow, (path: string) => boolean>()
 
 function judgedFor(shadow: Shadow): (path: string) => boolean {
   const found = JUDGED.get(shadow)
   if (found !== undefined) return found
-  const made = judgedBy(shadow.index.pageTypesIn())
+  const made = judgingOver({
+    types: shadow.index.pageTypesIn(),
+    listed: (path) => shadow.index.listedByPath(path).length > 0,
+    generated: (path) => generatedIn(facingFor(shadow), path),
+  })
   JUDGED.set(shadow, made)
   return made
 }
@@ -33,12 +57,12 @@ function askingFor(shadow: Shadow): Asking {
   return made
 }
 
-export const PAGE_CODE: Selector<Body> = {
-  named: "the code a page runs",
+export const PAGE_FILES: Selector<Body> = {
+  named: "the files a page holds",
   isInput: (path, shadow) => judgedFor(shadow)(path),
   from: (change, shadow) => FILES.from(change, shadow).filter((one) => judgedFor(shadow)(one.path)),
 }
 
-export const checkReachesAPathThroughTheIndex = judgingEach(PAGE_CODE, (given, shadow) =>
-  reasonsIn(askingFor(shadow), given.path, bodyOf(given))
+export const checkReachesAPathThroughTheIndex = judgingEach(PAGE_FILES, (given, shadow) =>
+  reasonsIn(askingFor(shadow), given.path, textIn(given.bytes))
 )

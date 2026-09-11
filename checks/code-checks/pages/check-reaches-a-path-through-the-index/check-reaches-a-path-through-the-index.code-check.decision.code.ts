@@ -1,5 +1,7 @@
 import { lineOf, parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import { runsIn } from "akasha/code-system/path-runs/path-runs.module.code.ts"
+import { partedIn, uncommittedHeld } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import ts from "typescript"
 
 const CODE = "code"
@@ -149,7 +151,7 @@ function listedBy(node: ts.Node): readonly ts.Expression[] {
   return [...(node.arguments ?? [])]
 }
 
-export function reasonsIn(asking: Asking, path: string, text: string): readonly string[] {
+function typedIn(asking: Asking, path: string, text: string): readonly string[] {
   const source = parsedAs(path, text)
   const held = heldIn(source, asking)
   const said: string[] = []
@@ -176,11 +178,46 @@ export function reasonsIn(asking: Asking, path: string, text: string): readonly 
   return said
 }
 
+function ranIn(asking: Asking, text: string): readonly string[] {
+  const said: string[] = []
+  for (const run of runsIn(text)) {
+    for (const one of run.said) {
+      const found = asking(one)
+      if (found === null || !found.page) continue
+      said.push(
+        `line ${run.line} spells \`${shortened(one)}\`, ` +
+          `where the page \`${found.at}\` sits — ${SPELT}`
+      )
+      break
+    }
+  }
+  return said
+}
+
+export function reasonsIn(asking: Asking, path: string, text: string): readonly string[] {
+  return typed(path) ? typedIn(asking, path, text) : ranIn(asking, text)
+}
+
 export function judgedBy(types: ReadonlySet<string>): (path: string) => boolean {
   return (path) => {
     const said = partedIn(path)
     if (said === null || !types.has(said.pageType)) return false
     const last = said.sections[said.sections.length - 1]
     return last === CODE || last === TEST
+  }
+}
+
+export type Asked = {
+  readonly types: ReadonlySet<string>
+  readonly listed: (path: string) => boolean
+  readonly generated: (path: string) => boolean
+}
+
+export function judgingOver(asked: Asked): (path: string) => boolean {
+  const coded = judgedBy(asked.types)
+  return (path) => {
+    if (typed(path)) return coded(path)
+    if (uncommittedHeld(path)) return false
+    return asked.listed(path) && !asked.generated(path)
   }
 }

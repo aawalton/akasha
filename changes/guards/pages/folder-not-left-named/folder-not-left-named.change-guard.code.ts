@@ -1,6 +1,7 @@
 import { dirname } from "node:path"
 import { spelledIn } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import { runsIn } from "akasha/code-system/path-runs/path-runs.module.code.ts"
 import {
   carriedIn,
   takingIn,
@@ -12,8 +13,6 @@ import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.
 const UNDER = "/"
 
 const HERE = "."
-
-const APART = /[^\w./-]+/
 
 function holdingIn(every: readonly string[]): ReadonlySet<string> {
   const found = new Set<string>()
@@ -52,17 +51,9 @@ function namedBy(said: string, folders: readonly string[]): string | null {
   return null
 }
 
-function tailsOf(run: string): readonly string[] {
-  const found = [run]
-  for (let at = run.indexOf(UNDER); at >= 0; at = run.indexOf(UNDER, at + 1)) {
-    found.push(run.slice(at + 1))
-  }
-  return found
-}
-
 function saidIn(path: string, text: string): readonly string[] {
   if (typed(path)) return spelledIn(path, text).map((one) => one.text)
-  return text.split(APART).flatMap(tailsOf)
+  return runsIn(text).flatMap((one) => one.said)
 }
 
 function spellingIn(path: string, text: string, folders: readonly string[]): string | null {

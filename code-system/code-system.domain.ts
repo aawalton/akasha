@@ -62,6 +62,7 @@ export const codeSystem = {
     "page-type/performance",
     "domain/browser",
     "domain/editor",
+    "module/path-runs",
   ],
   invariants: [
     {
