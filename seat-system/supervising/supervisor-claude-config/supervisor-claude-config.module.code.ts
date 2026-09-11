@@ -1,10 +1,19 @@
 import { readFileSync } from "node:fs"
+import { join } from "node:path"
+import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { harnessSettingsAt } from "akasha/seat-system/agent-settings/harness-settings-reading/harness-settings-reading.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 
-export const CLAUDE_CONFIG_PATH = new URL(
-  "../../agent-settings/pages/claude-config/claude-config.agent-settings.harness-settings.json",
-  import.meta.url
-).pathname
+const CLAUDE_CONFIG = "claude-config"
+
+const UNKNOWN = "the Claude configuration a seat boots on is unknown"
+
+function claudeConfigPath(): string {
+  const root = ownRepoRoot()
+  return join(root, harnessSettingsAt(root, CLAUDE_CONFIG, UNKNOWN))
+}
+
+export const CLAUDE_CONFIG_PATH = claudeConfigPath()
 
 const HOME_TOKEN = "$HOME"
 
