@@ -199,6 +199,25 @@ export function worldOf(held: Readonly<Record<string, string>>): World {
   }
 }
 
+export type Carried = { at: string; given: unknown }
+
+export function worldRecording(carried: Carried): World {
+  return {
+    root: "/nowhere",
+    index: {} as World["index"],
+    textOf: () => null,
+    bodyOf: () => null,
+    under: () => [],
+    base: () => null,
+    over: NOTHING_OVER,
+    reaching: (_world, at, given) => {
+      carried.at = at
+      carried.given = given
+      return Promise.resolve(NOTHING_OVER)
+    },
+  }
+}
+
 export function worldFor(
   page: Value,
   body: string,

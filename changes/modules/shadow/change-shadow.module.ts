@@ -24,6 +24,11 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A world recording the change reached rather than running it is built here rather than by each test.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An index face is built here from the answers a test states.",
     },
     {
