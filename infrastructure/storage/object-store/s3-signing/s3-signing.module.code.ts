@@ -1,13 +1,10 @@
-import { createHash, createHmac } from "node:crypto"
+import { createHmac } from "node:crypto"
+import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
 
 const SIGNED_HEADERS = ["host", "x-amz-content-sha256", "x-amz-date"]
 
 function hex(buf: Buffer | Uint8Array): string {
   return Buffer.from(buf).toString("hex")
-}
-
-function sha256Hex(data: string | Uint8Array): string {
-  return createHash("sha256").update(data).digest("hex")
 }
 
 function hmac(key: Buffer | string, data: string): Buffer {
