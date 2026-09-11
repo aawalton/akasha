@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
+import type { TemperAccountCharacter } from "akasha/temper/characters/temper-account-characters/temper-account-character.page-type.types.ts"
 
 export const rafaemaColoseuvia = {
   id: "019dda20-9803-7566-8a23-432c0301720b",
