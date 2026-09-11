@@ -186,7 +186,33 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A page whose subagent the seat's transcript names as one that has not returned is left where it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seat whose transcript is read is named by the agent id the page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat stating no transcript leaves the take-down to the other evidence.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A transcript that will not open leaves the take-down to the other evidence.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A page left where it is over a transcript writes no line to the log.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A stop told no moment takes the page away rather than leaving it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A subagent is looked for among the seat's own rather than among the subagents below those.",
     },
     {
       invariantKind: "departure",

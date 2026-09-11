@@ -16,7 +16,20 @@ export const stateSubagent = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent that has stopped has no page.",
+      statement: "A subagent its seat has seen return has no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop ends a turn rather than a subagent, so a stop alone takes no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A subagent the seat's transcript still names as one that has not returned keeps its page.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A return the seat's transcript has yet to carry leaves a page for the sweep.",
     },
     {
       invariantKind: "departure",

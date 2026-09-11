@@ -3,6 +3,7 @@ import { dirname, join } from "node:path"
 import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { createSubagentReader } from "akasha/code-system/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
 import { LOCK_AT } from "akasha/commands/modules/holding/holding.module.code.ts"
 import { dropReadings, SUBAGENT_MARK } from "akasha/commands/modules/reading/reading.module.code.ts"
@@ -20,6 +21,7 @@ import {
   uncommittedIn,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { transcriptOf } from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { subagentPageInHistory } from "akasha/seat-system/subagent-page-history/subagent-page-history.module.code.ts"
 import { movedOnto } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 import { subagentStarted } from "akasha/seat-system/subagents/properties/subagent-started.number-property.ts"
@@ -48,6 +50,8 @@ const ASSIGNMENT = "assignmentSlug"
 const KIND = "dispatchedAs"
 
 const ID = "id"
+
+const AGENT_ID = "agentId"
 
 const SUFFIX = ".subagent.ts"
 
@@ -217,6 +221,23 @@ export function startedAfter(root: string, page: string, stoppedAt: number | nul
   return held !== null && held > stoppedAt
 }
 
+export async function stillWorking(root: string, page: string, own: string): Promise<boolean> {
+  try {
+    const value = valueAt(page, root)
+    const agentId = value === null ? null : textAt(value, AGENT_ID)
+    if (agentId === null) return false
+    const mark = agentId.indexOf(SUBAGENT_MARK)
+    if (mark <= 0) return false
+    const seatId = agentId.slice(0, mark)
+    const named = transcriptOf(seatId)?.value
+    if (named === undefined || named === "") return false
+    const running = await createSubagentReader().forSeat(seatId, named)
+    return running.some((one) => one.agentId === own)
+  } catch {
+    return false
+  }
+}
+
 export function leftWhereItIs(root: string, seatName: string, at: string): string | null {
   if (seatPageIn(root, seatName) !== null) return null
   if (!editsWaiting(root, at)) return null
@@ -245,6 +266,7 @@ export async function took(
   const at = pathIn(root, slug)
   if (!existsSync(join(root, at))) return WENT
   if (startedAfter(root, at, stoppedAt)) return WENT
+  if (await stillWorking(root, at, own)) return WENT
   const moved = movingOff(root, seatName, at)
   if ("why" in moved) return moved
   const why = `${slug} is done, so its page goes; what it was is in this repository's history`
