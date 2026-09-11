@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const traitor = {
   id: "01a0657e-026c-70a3-a695-fcbef4fdde39",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "traitor",
   title: "Traitor",

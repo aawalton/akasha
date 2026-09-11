@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const surpremeMarshal = {
   id: "01a06586-0a60-79d7-bf54-0f87619e77af",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "surpreme-marshal",
   title: "Surpreme Marshal",

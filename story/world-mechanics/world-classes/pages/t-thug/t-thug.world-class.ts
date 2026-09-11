@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const tThug = {
   id: "01a06586-0a62-72bc-a00b-218486c91895",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "t-thug",
   title: "T-Thug",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const tundraFighter = {
   id: "01a0657e-026d-7e31-bc73-b1b8b3e67aa8",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "tundra-fighter",
   title: "Tundra Fighter",

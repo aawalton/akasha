@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const stylishCutmaster = {
   id: "01a0657e-0261-7214-b0ba-302df3246b11",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "stylish-cutmaster",
   title: "Stylish Cutmaster",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const troublemakerProbably = {
   id: "01a0657e-026d-7b5d-acfd-a7a7a74e8eee",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "troublemaker-probably",
   title: "Troublemaker probably",

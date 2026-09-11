@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const teaWitch = {
   id: "01a0657e-0269-7ed7-b74f-dc66b35fc5b5",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "tea-witch",
   title: "Tea Witch",

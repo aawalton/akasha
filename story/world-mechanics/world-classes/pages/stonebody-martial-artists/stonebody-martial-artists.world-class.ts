@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const stonebodyMartialArtists = {
   id: "01a0657e-025f-7f80-8594-4c6bf50ae54f",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "stonebody-martial-artists",
   title: "Stonebody Martial Artists",

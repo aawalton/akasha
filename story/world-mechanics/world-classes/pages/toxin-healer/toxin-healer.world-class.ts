@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const toxinHealer = {
   id: "01a0657e-026c-7276-b598-7e18cdd5f9b8",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "toxin-healer",
   title: "Toxin Healer",

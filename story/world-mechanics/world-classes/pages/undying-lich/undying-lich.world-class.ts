@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const undyingLich = {
   id: "01a0657e-026e-78ff-bed9-84db7b4d93b7",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "undying-lich",
   title: "Undying Lich",

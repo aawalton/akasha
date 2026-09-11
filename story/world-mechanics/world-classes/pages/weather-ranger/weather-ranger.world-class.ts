@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const weatherRanger = {
   id: "01a06586-0a76-7ba1-a648-1f3f86bc82b5",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "weather-ranger",
   title: "Weather Ranger",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const swarmLord = {
   id: "01a06586-0a60-79ae-92d3-a79760b44d79",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "swarm-lord",
   title: "Swarm Lord",

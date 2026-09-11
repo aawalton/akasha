@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const townCrier = {
   id: "01a0657e-026c-79bd-a4ca-38291b7e38cc",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "town-crier",
   title: "Town Crier",

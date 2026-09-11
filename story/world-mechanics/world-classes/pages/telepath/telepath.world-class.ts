@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const telepath = {
   id: "01a06586-0a64-7a70-bed3-7b560831288a",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "telepath",
   title: "Telepath",

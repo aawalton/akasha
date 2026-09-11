@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const yodellingLieutenant = {
   id: "01a0657e-0272-7750-84e7-9ed57166e14b",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "yodelling-lieutenant",
   title: "Yodelling Lieutenant",

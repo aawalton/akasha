@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const treasuryKeeper = {
   id: "01a06586-0a6c-78be-ad3f-177bb8620713",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "treasury-keeper",
   title: "Treasury Keeper",

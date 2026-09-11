@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const viperborn = {
   id: "01a0657e-026f-75d9-85a0-9a822e52cd46",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "viperborn",
   title: "Viperborn",

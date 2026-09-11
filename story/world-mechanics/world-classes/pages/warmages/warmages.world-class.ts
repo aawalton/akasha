@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const warmages = {
   id: "01a06586-0a72-7ab5-b1b6-bdc2f05b5a9b",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "warmages",
   title: "Warmages",

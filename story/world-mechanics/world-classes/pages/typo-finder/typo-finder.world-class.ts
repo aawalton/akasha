@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const typoFinder = {
   id: "01a0657e-026e-7ee0-bad2-2aff2cba3217",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "typo-finder",
   title: "Typo Finder",

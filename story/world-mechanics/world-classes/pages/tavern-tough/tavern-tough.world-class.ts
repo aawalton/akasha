@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const tavernTough = {
   id: "01a06586-0a63-79a0-893d-33aac1f87e9d",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "tavern-tough",
   title: "Tavern Tough",

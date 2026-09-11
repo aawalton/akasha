@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const taxInspectors = {
   id: "01a0657e-0269-77ed-9822-73f4462dc9f4",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "tax-inspectors",
   title: "Tax Inspectors",

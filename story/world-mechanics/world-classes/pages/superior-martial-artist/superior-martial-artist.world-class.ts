@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const superiorMartialArtist = {
   id: "01a0657e-0261-7599-8cb6-0465e30bea4c",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "superior-martial-artist",
   title: "Superior Martial Artist",

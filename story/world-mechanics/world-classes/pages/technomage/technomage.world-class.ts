@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const technomage = {
   id: "01a0657e-0269-743f-87cb-38997eed187a",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "technomage",
   title: "Technomage",

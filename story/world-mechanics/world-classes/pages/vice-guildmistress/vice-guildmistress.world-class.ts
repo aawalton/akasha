@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const viceGuildmistress = {
   id: "01a0657e-026e-74b3-9b45-2f68fd3689c3",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "vice-guildmistress",
   title: "Vice Guildmistress",

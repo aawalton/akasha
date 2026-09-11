@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const summoner = {
   id: "01a06586-0a5f-7b11-b907-1115850e941e",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "summoner",
   title: "Summoner",

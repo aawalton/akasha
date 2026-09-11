@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const witchOfSecondChancesLBehindYou = {
   id: "01a0657e-0271-7dd6-b71c-0e94ed64f99d",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "witch-of-second-chances-l-behind-you",
   title: "Witch of Second Chances L—BEHIND YOU",

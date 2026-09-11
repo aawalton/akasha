@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const tough = {
   id: "01a06586-0a68-773f-9a6f-6f384dcfa3e7",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "tough",
   title: "Tough",

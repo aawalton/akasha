@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const tennisPlayer = {
   id: "01a0657e-0269-75e7-b8dd-89b31163e065",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "tennis-player",
   title: "Tennis Player",

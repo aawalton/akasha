@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const surehoofScout = {
   id: "01a06586-0a5f-7f81-ac6f-a3d0d8e2d2af",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "surehoof-scout",
   title: "Surehoof Scout",

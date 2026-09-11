@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const swordgraceMajor = {
   id: "01a06586-0a61-71ab-bf4a-ba51ab8d5530",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "swordgrace-major",
   title: "Swordgrace Major",

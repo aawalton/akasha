@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const thousandFootJavelineerMajor = {
   id: "01a06586-0a67-7898-a44d-a9d7d06a7600",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "thousand-foot-javelineer-major",
   title: "Thousand-Foot Javelineer Major",

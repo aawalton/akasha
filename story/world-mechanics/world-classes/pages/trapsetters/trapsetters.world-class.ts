@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const trapsetters = {
   id: "01a06586-0a6b-7d89-a500-47602ad9cd4f",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "trapsetters",
   title: "Trapsetters",

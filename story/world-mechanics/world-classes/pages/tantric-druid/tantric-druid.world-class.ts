@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const tantricDruid = {
   id: "01a06586-0a63-739a-896e-7c17cac516ac",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "tantric-druid",
   title: "Tantric Druid",

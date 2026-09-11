@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const wallLordOfThe5thRank = {
   id: "01a06586-0a71-7ea2-899b-f5da65b6f319",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "wall-lord-of-the-5th-rank",
   title: "Wall Lord of the 5th Rank",

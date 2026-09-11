@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const surefootMartialArtist = {
   id: "01a0657e-0262-73d7-acbf-3c2f0115129e",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "surefoot-martial-artist",
   title: "Surefoot Martial Artist",

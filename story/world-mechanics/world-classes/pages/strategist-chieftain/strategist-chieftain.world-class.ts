@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const strategistChieftain = {
   id: "01a06586-0a56-7679-acd1-83efbb32b5f1",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "strategist-chieftain",
   title: "Strategist Chieftain",

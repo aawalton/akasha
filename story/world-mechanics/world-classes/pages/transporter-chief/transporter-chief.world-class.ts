@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const transporterChief = {
   id: "01a0657e-026c-78bd-bb1e-cff5aca5c5ac",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "transporter-chief",
   title: "Transporter Chief",

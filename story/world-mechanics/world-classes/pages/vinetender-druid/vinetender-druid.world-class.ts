@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const vinetenderDruid = {
   id: "01a06586-0a70-729e-b149-ea4c216cf102",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "vinetender-druid",
   title: "Vinetender Druid",

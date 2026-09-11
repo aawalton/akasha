@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const stonesoupHerdmistressOfTheGreatland = {
   id: "01a06586-0a54-78dd-a80f-42c767ab75db",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "stonesoup-herdmistress-of-the-greatland",
   title: "Stonesoup Herdmistress of the Greatland",

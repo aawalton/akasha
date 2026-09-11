@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const ultimateSupporter = {
   id: "01a06586-0a6e-75ae-8c8c-74c0a2070fe6",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "ultimate-supporter",
   title: "Ultimate Supporter",
