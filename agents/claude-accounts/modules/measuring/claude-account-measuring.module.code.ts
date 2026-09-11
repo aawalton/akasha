@@ -1,6 +1,7 @@
 import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { wholeValue } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { asInstant } from "akasha/utils/narrow/as-instant/as-instant.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
@@ -35,12 +36,6 @@ function numberIn(held: Record<string, unknown>, key: string): number | null {
   if (text === null) return null
   const found = Number(text)
   return Number.isFinite(found) ? found : null
-}
-
-export function instantOf(iso: string | null): number | null {
-  if (iso === null) return null
-  const at = Date.parse(iso)
-  return Number.isNaN(at) ? null : at
 }
 
 export function readingsIn(root: string): readonly Reading[] {
@@ -80,7 +75,7 @@ export function fiveHourSpent(one: Reading): number | null {
 }
 
 function hoursUntil(iso: string | null, now: number): number {
-  const at = instantOf(iso)
+  const at = asInstant(iso)
   if (at === null) return FALLBACK_HOURS
   const left = at - now
   return left <= 0 ? FALLBACK_HOURS : left / MS_AN_HOUR
@@ -100,7 +95,7 @@ export function aheadOf(one: Reading, two: Reading, now: number): number {
 export function takenOf(readings: readonly Reading[], now: number): string | null {
   let best: Reading | null = null
   for (const one of readings) {
-    const expires = instantOf(one.accessTokenExpiresAt)
+    const expires = asInstant(one.accessTokenExpiresAt)
     if (expires !== null && expires <= now) continue
     if ((fiveHourSpent(one) ?? 0) >= CEILING) continue
     if ((sevenDaySpent(one) ?? 0) >= CEILING) continue
@@ -120,7 +115,7 @@ export function marksOf(one: Reading): readonly string[] {
 }
 
 export function clockOf(iso: string | null): string {
-  const at = instantOf(iso)
+  const at = asInstant(iso)
   if (at === null) return ""
   const on = new Date(at)
   const day = on.toLocaleDateString("en-US", { weekday: "short" })
@@ -129,7 +124,7 @@ export function clockOf(iso: string | null): string {
 }
 
 function orderOf(one: Reading): number {
-  return instantOf(one.sevenDayResetsAt) ?? Number.POSITIVE_INFINITY
+  return asInstant(one.sevenDayResetsAt) ?? Number.POSITIVE_INFINITY
 }
 
 function sayPercent(spent: number | null): string {

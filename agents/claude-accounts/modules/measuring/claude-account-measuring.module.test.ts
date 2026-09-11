@@ -5,7 +5,6 @@ import {
   clockOf,
   fiveHourSpent,
   inOrder,
-  instantOf,
   linesOf,
   marksOf,
   type Reading,
@@ -168,7 +167,6 @@ test("a marked account carries its marks in one order", () => {
 test("an instant nothing states is no clock, and one that is no instant is no clock either", () => {
   expect(clockOf(null)).toBe("")
   expect(clockOf("the day after")).toBe("")
-  expect(instantOf("the day after")).toBeNull()
 })
 
 test("one line represents each account, and the taken one is the marked one", () => {

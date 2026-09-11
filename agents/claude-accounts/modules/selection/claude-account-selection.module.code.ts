@@ -1,3 +1,4 @@
+import { asInstant } from "akasha/utils/narrow/as-instant/as-instant.module.code.ts"
 import type { AccountState } from "../../../models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 
 const CEILING = 100
@@ -32,12 +33,6 @@ export type AccountPick<T> = {
   readonly state: AccountState
 }
 
-function instantOf(iso: string | null): number | null {
-  if (iso === null) return null
-  const at = Date.parse(iso)
-  return Number.isNaN(at) ? null : at
-}
-
 export function explainAccountEligibility(state: AccountState): EligibilityExplanation {
   const reasons: IneligibilityReason[] = []
   if (state.fiveHourUtil >= CEILING) reasons.push("five-hour-maxed")
@@ -65,7 +60,7 @@ function accountEligibleAgainMs(state: AccountState): number | null {
   if (blocking.length === 0) return null
   const known: number[] = []
   for (const iso of blocking) {
-    const at = instantOf(iso)
+    const at = asInstant(iso)
     if (at === null) return null
     known.push(at)
   }
@@ -151,7 +146,7 @@ export function selectBestAccount<T extends AccountCandidate>(args: {
 }
 
 export function parseFutureIsoMs(iso: string | null, now: number): number | null {
-  const at = instantOf(iso)
+  const at = asInstant(iso)
   if (at === null) return null
   return at > now ? at : null
 }

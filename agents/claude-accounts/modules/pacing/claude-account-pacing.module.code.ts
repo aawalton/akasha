@@ -2,6 +2,7 @@ import {
   getEsoDayStr,
   getEsoDayWindow,
 } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { asInstant } from "akasha/utils/narrow/as-instant/as-instant.module.code.ts"
 
 const MS_AN_HOUR = 3_600_000
 
@@ -34,12 +35,6 @@ type PacingDerivations = {
   readonly sevenDayStartedAt: string | null
 }
 
-function instantOf(iso: string | null): number | null {
-  if (iso === null) return null
-  const at = new Date(iso).getTime()
-  return Number.isNaN(at) ? null : at
-}
-
 function sundayOverlapMs(startMs: number, endMs: number): number {
   if (endMs <= startMs) return 0
   const firstMidnight = Math.floor(startMs / MS_A_DAY) * MS_A_DAY
@@ -59,7 +54,7 @@ function endOfTodayMs(now: number): number {
 }
 
 function elapsedFraction(now: number, sevenDayResetsAt: string | null): number {
-  const resetMs = instantOf(sevenDayResetsAt)
+  const resetMs = asInstant(sevenDayResetsAt)
   if (resetMs === null) return 1
   const windowStart = resetMs - MS_A_WEEK
   const effectiveEnd = Math.min(endOfTodayMs(now), resetMs)
@@ -70,7 +65,7 @@ function elapsedFraction(now: number, sevenDayResetsAt: string | null): number {
 }
 
 function hoursRemaining(now: number, sevenDayResetsAt: string | null): number {
-  const resetMs = instantOf(sevenDayResetsAt)
+  const resetMs = asInstant(sevenDayResetsAt)
   if (resetMs === null) return HOURS_FALLBACK
   const rawMs = resetMs - now
   const sundayMs = sundayOverlapMs(now, resetMs)
@@ -78,12 +73,12 @@ function hoursRemaining(now: number, sevenDayResetsAt: string | null): number {
 }
 
 function startedBefore(iso: string | null, ms: number): string | null {
-  const at = instantOf(iso)
+  const at = asInstant(iso)
   return at === null ? null : new Date(at - ms).toISOString()
 }
 
 export function hoursUntilReset(args: { now: number; sevenDayResetsAt: string | null }): number {
-  const resetMs = instantOf(args.sevenDayResetsAt)
+  const resetMs = asInstant(args.sevenDayResetsAt)
   if (resetMs === null) return HOURS_FALLBACK
   const rawMs = resetMs - args.now
   if (rawMs <= 0) return HOURS_FALLBACK
