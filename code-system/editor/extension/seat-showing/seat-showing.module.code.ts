@@ -1,15 +1,25 @@
-import * as vscode from "vscode"
-import type { SeatClick } from "../agent-row/agent-row.module.code.ts"
-import { ancestorNames } from "../agent-tree-lookup/agent-tree-lookup.module.code.ts"
-import { columns, forest, output } from "../agent-tree-state/agent-tree-state.module.code.ts"
-import { type ColumnNumber, chooseColumn } from "../editor-group/editor-group.module.code.ts"
-import { parseSeatClick } from "../invoked-seat/invoked-seat.module.code.ts"
+import type { SeatClick } from "akasha/code-system/editor/extension/agent-row/agent-row.module.code.ts"
+import { ancestorNames } from "akasha/code-system/editor/extension/agent-tree-lookup/agent-tree-lookup.module.code.ts"
+import {
+  columns,
+  forest,
+  output,
+} from "akasha/code-system/editor/extension/agent-tree-state/agent-tree-state.module.code.ts"
+import {
+  type ColumnNumber,
+  chooseColumn,
+} from "akasha/code-system/editor/extension/editor-group/editor-group.module.code.ts"
+import { parseSeatClick } from "akasha/code-system/editor/extension/invoked-seat/invoked-seat.module.code.ts"
 import {
   groupForTerminal,
   openColumns,
   readSeatLookup,
-} from "../seat-terminals/seat-terminals.module.code.ts"
-import { identified, readProcessIds } from "../terminal-pids/terminal-pids.module.code.ts"
+} from "akasha/code-system/editor/extension/seat-terminals/seat-terminals.module.code.ts"
+import {
+  identified,
+  readProcessIds,
+} from "akasha/code-system/editor/extension/terminal-pids/terminal-pids.module.code.ts"
+import * as vscode from "vscode"
 
 const OPEN_TRANSCRIPT_COMMAND = "opsTranscript.open"
 
