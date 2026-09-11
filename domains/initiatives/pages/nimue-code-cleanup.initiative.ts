@@ -11,7 +11,7 @@ export const nimueCodeCleanup = {
     {
       statement: "No code spells a path as a string literal.",
       workingMemory:
-        "`check-reaches-a-path-through-the-index` answers no refusal over 123376 files, and that zero is the check's reach rather than the tree's state: the check's page states only a page's code is judged. 33 test files spell `code-system/`. The check is being widened to reach a page's test files, leaving fixtures out. `app-building.module.test.ts:81` pins a path the test found, which `test.domain.ts` already refuses.\n",
+        "`check-reaches-a-path-through-the-index` judges every file, not a page's code alone. The remedy is a `module-property-group` whose `bodyIn` composes the file from the index, and `group-writing` runs every group off the `file-written-by` on the property naming the file, so a new group needs no new mechanism. A stylesheet is exempt, its paths being bundler specifiers. Mending a dead path raises the count rather than lowering it, because the check cannot see a run resolving to nothing.\n",
     },
     {
       statement: "A change moving a folder repoints the manifest naming that folder.",
