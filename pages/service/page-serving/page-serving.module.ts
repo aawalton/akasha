@@ -8,6 +8,7 @@ export const pageServing = {
   definition: "a question or a write arriving over HTTP, and the answer sent back",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

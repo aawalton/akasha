@@ -1,9 +1,18 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
+import {
+  A_DEVICE_TOKEN,
+  A_PAGE,
+  AN_INSTANT,
+  asking,
+  bodyOf,
+  GIVEN,
+  over,
+  repoWith,
+  scratch,
+  TOLD,
+  writing,
+} from "akasha/pages/service/page-serving/page-serving.module.test-fixtures.ts"
 import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
-import type { Asked, Wrote } from "../page-writing/page-writing.module.code.ts"
 import {
   ASK_AT,
   answering,
@@ -14,34 +23,6 @@ import {
   WRITE_AT,
   writeIn,
 } from "./page-serving.module.code.ts"
-
-const ROOT = join(import.meta.dir, "..", "..", "..")
-
-const TOLD: Asked[] = []
-
-const NOTHING_LANDS: Wrote = { commit: null, wrote: [], took: [] }
-
-const GIVEN = {
-  root: ROOT,
-  writer: {
-    writing: (asked: Asked) => {
-      TOLD.push(asked)
-      return Promise.resolve(NOTHING_LANDS)
-    },
-  },
-}
-
-function asking(body: unknown, at: string = ASK_AT, method: string = "POST"): Request {
-  return new Request(`http://workstation${at}`, {
-    method,
-    body: method === "POST" ? JSON.stringify(body) : undefined,
-    headers: { "content-type": "application/json" },
-  })
-}
-
-async function bodyOf(answered: Response): Promise<Record<string, unknown>> {
-  return (await answered.json()) as Record<string, unknown>
-}
 
 test("a question is answered with rows", async () => {
   const answered = await answering(
@@ -247,28 +228,7 @@ test("a test stating nothing is refused by the key it stands on", () => {
   expect("refused" in read && read.refused).toContain("where.slug")
 })
 
-const scratch = scratchWorld()
-
 afterAll(scratch.sweep)
-
-const A_PAGE = "akasha/a-page.module.ts"
-
-function repoWith(body: string): string {
-  const root = scratch.rootFor("akasha-page-serving-")
-  gitIn(root, ["init", "--quiet"])
-  gitIn(root, ["config", "user.email", "held@nowhere"])
-  gitIn(root, ["config", "user.name", "Held"])
-  const at = join(root, A_PAGE)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, body)
-  gitIn(root, ["add", "-A"])
-  gitIn(root, ["commit", "--quiet", "-m", "first"])
-  return root
-}
-
-function over(root: string) {
-  return { root, writer: GIVEN.writer }
-}
 
 test("a read is handed in at a path of its own", async () => {
   const root = repoWith("the whole body\n")
@@ -333,25 +293,6 @@ test("a write stating what it read as something other than a string is refused",
   })
   expect("refused" in read && read.refused).toContain("`read`")
 })
-
-const AN_INSTANT = "2026-09-01T12:00:00.000Z"
-
-const A_DEVICE_TOKEN = {
-  pageTypeSlug: "device-token",
-  slug: "held-one",
-  values: {
-    id: "01a05dc7-421c-7000-b93a-ac4514adf294",
-    pageTypeSlug: "device-token",
-    slug: "held-one",
-    person: "alan",
-    iosApp: "alanwalton",
-    lastSeenAt: AN_INSTANT,
-  },
-}
-
-function writing(body: Record<string, unknown>): Request {
-  return asking({ writer: "Amy <amy@alanwalton.com>", message: "a message", ...body }, WRITE_AT)
-}
 
 test("a write may have pages rather than bodies", async () => {
   const answered = await answering(GIVEN, writing({ pages: [A_DEVICE_TOKEN] }))
