@@ -1,5 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { SortDescending } from "./sort-descending.boolean-property.types.ts"
 import type { SortKey } from "./sort-key.text-property.types.ts"
 
@@ -7,8 +6,6 @@ export type GroupSort = {
   key: SortKey
   descending: SortDescending
 }
-
-export type GroupSorts = List<GroupSort>
 
 export const groupSorts = {
   id: "01a0680d-4d00-7008-a715-4d2b9c8e4109",
@@ -27,4 +24,5 @@ export const groupSorts = {
       statement: "Only a view gathering its pages orders its groups.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

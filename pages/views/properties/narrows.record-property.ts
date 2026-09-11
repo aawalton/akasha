@@ -1,5 +1,4 @@
 import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
-import type { List } from "../../types/page-properties/page-property.page-type.ts"
 import type { NarrowComparison } from "./narrow-comparison.select-property.types.ts"
 import type { NarrowKey } from "./narrow-key.text-property.types.ts"
 import type { NarrowValues } from "./narrow-values.text-property.types.ts"
@@ -9,8 +8,6 @@ export type Narrow = {
   comparison: NarrowComparison
   values: NarrowValues
 }
-
-export type Narrows = List<Narrow>
 
 export const narrows = {
   id: "01a063ee-2a3b-732c-983b-68ef37a472f5",
@@ -43,4 +40,5 @@ export const narrows = {
       statement: "A narrow a query cannot read is refused rather than dropped.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty
