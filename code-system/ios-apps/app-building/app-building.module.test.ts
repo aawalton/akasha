@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
+import { planFor } from "akasha/code-system/ios-apps/app-building/app-building.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
-import { planFor } from "./app-building.module.code.ts"
 
 const root = join(import.meta.dir, "..", "..", "..")
 

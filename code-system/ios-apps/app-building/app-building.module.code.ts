@@ -1,9 +1,9 @@
 import { dirname } from "node:path"
+import { sharedBuildFiles } from "akasha/code-system/ios-apps/shared-build-files/shared-build-files.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { indexThere, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { slugOf, textAt, type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
-import { sharedBuildFiles } from "../shared-build-files/shared-build-files.module.code.ts"
 
 const COMPONENT = "ios-component/"
 
