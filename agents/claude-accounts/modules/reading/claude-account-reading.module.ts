@@ -139,5 +139,10 @@ export const claudeAccountReading = {
       invariantKind: "gap",
       statement: "An account's scopes are read as text and are matched against no declared scope.",
     },
+    {
+      invariantKind: "absence",
+      statement:
+        "No key is read through `text-at` here, because five readers of a key are one family.",
+    },
   ],
 } as const satisfies Module
