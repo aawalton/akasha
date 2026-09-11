@@ -34,6 +34,10 @@ export const pageTypeDescent = {
       statement: "A caller naming no reader is answered from the values the index holds.",
     },
     {
+      invariantKind: "departure",
+      statement: "A slug two page types carry stands under every type either names.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here walks the pages.",
     },

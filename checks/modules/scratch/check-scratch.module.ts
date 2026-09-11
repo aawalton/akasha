@@ -65,10 +65,7 @@ export const checkScratch = {
       invariantKind: "departure",
       statement: "Typing a page type files that page type's value.",
     },
-    {
-      invariantKind: "departure",
-      statement: "That filing takes away any value filed for that page type before.",
-    },
+
     {
       invariantKind: "departure",
       statement:

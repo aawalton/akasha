@@ -179,7 +179,7 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A fixture states a shape's kind as a page type only where no page type has it.",
+      statement: "A fixture files a shape's kind as a page type once for each root.",
     },
   ],
 } as const satisfies Module
