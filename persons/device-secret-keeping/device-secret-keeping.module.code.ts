@@ -1,5 +1,4 @@
 import { createHash, randomBytes, timingSafeEqual } from "node:crypto"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { upperUuid } from "akasha/pages/name-formats/pages/upper-uuid/upper-uuid.name-format.code.ts"
 import type { Test } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import {
@@ -22,8 +21,6 @@ export const DEVICE_SECRET_HEADER = "X-Device-Secret"
 
 export const DEVICE_SECRET_RANDOM_BYTES = 32
 
-export const DEVICE_SECRETS_FOLDER = "persons/device-secrets/pages"
-
 export const DEVICE_SECRET_WRITER = "alanwalton web <web@alanwalton.com>"
 
 export const SECRET_HASH_KEY = "secretHash"
@@ -36,23 +33,22 @@ export const REVOKED_AT_KEY = "revokedAt"
 
 const HASH_SHAPE = /^[0-9a-f]{64}$/
 
-const STAMPED = 6
-
-const OVER = 256
-
 const NO_MATCH = "no device secret represents the secret presented"
 
 export type Presented =
   | { readonly ok: true; readonly secret: string }
   | { readonly ok: false; readonly reason: "absent" | "malformed" }
 
-export type DeviceSecretPage = {
-  readonly id: string
-  readonly slug: string
+export type DeviceSecretValues = {
   readonly userId: string
   readonly deviceId: string
   readonly secretHash: string
   readonly revokedAt: string | null
+}
+
+export type DeviceSecretPage = DeviceSecretValues & {
+  readonly id: string
+  readonly slug: string
 }
 
 export type Found =
@@ -100,48 +96,18 @@ export function deviceSecretHashesEqual(one: string, two: string): boolean {
   return timingSafeEqual(Buffer.from(one, "utf8"), Buffer.from(two, "utf8"))
 }
 
-export function uuidVersion7(at: number = Date.now()): string {
-  const bytes = randomBytes(16)
-  let left = at
-  for (let one = STAMPED - 1; one >= 0; one -= 1) {
-    bytes[one] = left % OVER
-    left = Math.floor(left / OVER)
-  }
-  bytes[6] = ((bytes[6] ?? 0) & 0x0f) | 0x70
-  bytes[8] = ((bytes[8] ?? 0) & 0x3f) | 0x80
-  const said = bytes.toString("hex")
-  return [
-    said.slice(0, 8),
-    said.slice(8, 12),
-    said.slice(12, 16),
-    said.slice(16, 20),
-    said.slice(20),
-  ].join("-")
-}
-
 export function deviceSecretSlug(personSlug: string, deviceId: string): string {
   return `${personSlug}-${deviceId.toLowerCase()}`
 }
 
-export function deviceSecretPath(slug: string): string {
-  return `${DEVICE_SECRETS_FOLDER}/${slug}.device-secret.ts`
-}
-
-export function deviceSecretBody(page: DeviceSecretPage): string {
-  const lines = [
-    'import type { DeviceSecret } from "akasha/persons/device-secrets/device-secret.page-type.types.ts"',
-    "",
-    `export const ${exportedAs(page.slug)} = {`,
-    `  id: ${JSON.stringify(page.id)},`,
-    `  type: ${JSON.stringify(DEVICE_SECRET_PAGE_TYPE)},`,
-    `  slug: ${JSON.stringify(page.slug)},`,
-    `  userId: ${JSON.stringify(page.userId)},`,
-    `  deviceId: ${JSON.stringify(page.deviceId)},`,
-    `  secretHash: ${JSON.stringify(page.secretHash)},`,
-  ]
-  if (page.revokedAt !== null) lines.push(`  revokedAt: ${JSON.stringify(page.revokedAt)},`)
-  lines.push("} as const satisfies DeviceSecret", "")
-  return lines.join("\n")
+export function deviceSecretValues(kept: DeviceSecretValues): Record<string, unknown> {
+  const values: Record<string, unknown> = {
+    [USER_ID_KEY]: kept.userId,
+    [DEVICE_ID_KEY]: kept.deviceId,
+    [SECRET_HASH_KEY]: kept.secretHash,
+  }
+  if (kept.revokedAt !== null) values[REVOKED_AT_KEY] = kept.revokedAt
+  return values
 }
 
 export function pageIn(values: Readonly<Record<string, unknown>>): DeviceSecretPage | null {
@@ -238,16 +204,17 @@ export async function deviceSecretPresented(
 }
 
 async function landing(
-  page: DeviceSecretPage,
+  slug: string,
+  kept: DeviceSecretValues,
   over: boolean,
   message: string,
   fetcher?: Fetcher,
   naps?: Sleeper
 ): Promise<Landed> {
-  const put = { path: deviceSecretPath(page.slug), content: deviceSecretBody(page) }
+  const named = { pageTypeSlug: DEVICE_SECRET_PAGE_TYPE, slug }
   let read: string | undefined
   if (over) {
-    const held = await readingFor({ paths: [put.path] }, fetcher, naps)
+    const held = await readingFor({ pages: [named] }, fetcher, naps)
     if ("refused" in held) return { ok: false, why: held.refused }
     read = held.at
   }
@@ -255,7 +222,7 @@ async function landing(
     {
       writer: DEVICE_SECRET_WRITER,
       message,
-      puts: [put],
+      pages: [{ ...named, values: deviceSecretValues(kept) }],
       ...(read === undefined ? {} : { read }),
     },
     fetcher,
@@ -280,16 +247,9 @@ export async function mintDeviceSecret(
   if (found.outcome === "unread") return { ok: false, why: found.why }
   const slug = deviceSecretSlug(enrolled.personSlug, deviceId)
   const secret = generateDeviceSecret()
-  const page: DeviceSecretPage = {
-    id: found.outcome === "found" ? found.page.id : uuidVersion7(),
-    slug,
-    userId,
-    deviceId,
-    secretHash: hashDeviceSecret(secret),
-    revokedAt: null,
-  }
   const landed = await landing(
-    page,
+    slug,
+    { userId, deviceId, secretHash: hashDeviceSecret(secret), revokedAt: null },
     found.outcome === "found",
     `a device secret is minted for ${enrolled.personSlug}`,
     fetcher,
@@ -312,6 +272,7 @@ export async function revokeDeviceSecret(
   const page = found.page
   if (page.revokedAt !== null) return { ok: true, slug: page.slug, at: null }
   const landed = await landing(
+    page.slug,
     { ...page, revokedAt: at },
     true,
     `the device secret ${page.slug} is revoked`,

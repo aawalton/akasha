@@ -1,18 +1,15 @@
 import { expect, test } from "bun:test"
-import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import type { Fetcher } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import {
   DEVICE_SECRET_PAGE_TYPE,
-  deviceSecretBody,
   deviceSecretHashesEqual,
-  deviceSecretPath,
   deviceSecretPresented,
   deviceSecretSlug,
+  deviceSecretValues,
   generateDeviceSecret,
   hashDeviceSecret,
   pageIn,
   readPresentedDeviceSecret,
-  uuidVersion7,
 } from "akasha/persons/device-secret-keeping/device-secret-keeping.module.code.ts"
 import {
   DEVICE_SECRET_PREFIX,
@@ -28,7 +25,7 @@ const ALAN_ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 
 const A_DEVICE = "A1B2C3D4-E5F6-47B8-9C0D-1E2F3A4B5C6D"
 
-const AN_IDENTIFIER = /^[A-Za-z][A-Za-z0-9]*$/
+const AN_ID = "01a05b39-f50c-7841-a154-33ae8bc93e0a"
 
 type Rows = Record<string, readonly Record<string, unknown>[]>
 
@@ -52,7 +49,7 @@ function storeLike(byType: Rows): Fetcher {
 
 function pageFor(secret: string, over: Partial<Record<string, string>> = {}) {
   return {
-    id: uuidVersion7(),
+    id: AN_ID,
     pageTypeSlug: DEVICE_SECRET_PAGE_TYPE,
     slug: deviceSecretSlug("alan", A_DEVICE),
     userId: ALAN_ACCOUNT,
@@ -101,49 +98,30 @@ test("a slug names the person and the device in lower kebab", () => {
   expect(deviceSecretSlug("alan", A_DEVICE)).toBe("alan-a1b2c3d4-e5f6-47b8-9c0d-1e2f3a4b5c6d")
 })
 
-test("a slug becomes an export name that opens with a letter", () => {
-  const name = exportedAs(deviceSecretSlug("alan", A_DEVICE))
-  expect(name).toBe("alanA1b2c3d4E5f647b89c0d1e2f3a4b5c6d")
-  expect(name).toMatch(AN_IDENTIFIER)
-})
-
-test("a page is at a path under the device secrets folder", () => {
-  expect(deviceSecretPath("alan-a1b2")).toBe(
-    "persons/device-secrets/pages/alan-a1b2.device-secret.ts"
-  )
-})
-
-test("a rendered body declares the page and names no secret", () => {
+test("the values handed over name no secret and say nothing of a revocation", () => {
   const secret = generateDeviceSecret()
-  const page = {
-    id: "01a05b39-f50c-7841-a154-33ae8bc93e0a",
-    slug: "alan-a1b2",
+  const values = deviceSecretValues({
     userId: ALAN_ACCOUNT,
     deviceId: A_DEVICE,
     secretHash: hashDeviceSecret(secret),
     revokedAt: null,
-  }
-  const body = deviceSecretBody(page)
-  expect(body).toContain(
-    'import type { DeviceSecret } from "akasha/persons/device-secrets/device-secret.page-type.types.ts"'
-  )
-  expect(body).toContain("export const alanA1b2 = {")
-  expect(body).toContain(`  secretHash: "${page.secretHash}",`)
-  expect(body).toContain("} as const satisfies DeviceSecret")
-  expect(body).not.toContain("revokedAt")
-  expect(body).not.toContain(secret)
+  })
+  expect(values).toEqual({
+    userId: ALAN_ACCOUNT,
+    deviceId: A_DEVICE,
+    secretHash: hashDeviceSecret(secret),
+  })
+  expect(JSON.stringify(values)).not.toContain(secret)
 })
 
-test("a rendered body states when the secret was revoked where it was", () => {
-  const body = deviceSecretBody({
-    id: "01a05b39-f50c-7841-a154-33ae8bc93e0a",
-    slug: "alan-a1b2",
+test("the values handed over state when the secret was revoked where it was", () => {
+  const values = deviceSecretValues({
     userId: ALAN_ACCOUNT,
     deviceId: A_DEVICE,
     secretHash: hashDeviceSecret("one"),
     revokedAt: "2026-08-31T00:00:00.000Z",
   })
-  expect(body).toContain('  revokedAt: "2026-08-31T00:00:00.000Z",')
+  expect(values.revokedAt).toBe("2026-08-31T00:00:00.000Z")
 })
 
 test("a row missing the hash is read as no page", () => {

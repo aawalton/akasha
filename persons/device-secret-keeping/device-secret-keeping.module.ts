@@ -48,11 +48,19 @@ export const deviceSecretKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A page is written as a whole body carried to the pages system service.",
+      statement: "A page is written as values handed to the pages system service.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here spells where a device secret page sits.",
     },
     {
       invariantKind: "departure",
-      statement: "A page written over names the commit its body was read at.",
+      statement: "A page being created takes its identity from the pages system service.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page written over names the commit that page was read at.",
     },
     {
       invariantKind: "departure",
@@ -73,10 +81,6 @@ export const deviceSecretKeeping = {
     {
       invariantKind: "gap",
       statement: "When a secret was last presented is written nowhere.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page written here names its type from the root rather than by a relative path.",
     },
   ],
 } as const satisfies Module
