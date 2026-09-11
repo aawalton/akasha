@@ -76,7 +76,6 @@ export const alanWeb = {
     "module/idle-display",
     "module/idle-draw-verb",
     "module/idle-error-message",
-    "module/idle-fetch-stub",
     "module/idle-format",
     "module/idle-game",
     "module/idle-game-store",
