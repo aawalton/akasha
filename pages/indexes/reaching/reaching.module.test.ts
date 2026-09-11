@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   B,
   C,
@@ -10,9 +9,15 @@ import {
   grounded,
   scratch,
   shaped,
-} from "../entries/index-entries.module.test-fixtures.ts"
-import { readingAt } from "../surface/index-surface.module.code.ts"
-import { knownIn, namesMortal, reaches, type Shaped } from "./reaching.module.code.ts"
+} from "akasha/pages/indexes/entries/index-entries.module.test-fixtures.ts"
+import {
+  knownIn,
+  namesMortal,
+  reaches,
+  type Shaped,
+} from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+import { readingAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 afterAll(scratch.sweep)
 

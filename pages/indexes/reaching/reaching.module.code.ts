@@ -1,10 +1,14 @@
 import { addressIn, type PageAddress } from "akasha/pages/address/page-address.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { schemaAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import {
+  everyOfType,
+  type Listed,
+  listedEvery,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { propertiesIfNamedOf } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { slugOf, slugsIn, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
-import { schemaAt } from "../entries/index-entries.module.code.ts"
-import { everyOfType, type Listed, listedEvery } from "../reading/index-reading.module.code.ts"
-import type { Reading } from "../shape/index-shape.module.code.ts"
 
 const RECORD = "record-property"
 

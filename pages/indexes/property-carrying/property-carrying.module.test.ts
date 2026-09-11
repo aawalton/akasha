@@ -1,14 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
-import {
-  idFiled,
-  listedAndValued,
-  listedFiled,
-  relationFiled,
-  schemaFiled,
-  valueAlsoFiled,
-} from "../reading/index-reading.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   type Carried,
   carryingOf,
@@ -20,7 +11,16 @@ import {
   type Naming,
   toolResolvesPaths,
   toolResolvesPathsIn,
-} from "./property-carrying.module.code.ts"
+} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+import {
+  idFiled,
+  listedAndValued,
+  listedFiled,
+  relationFiled,
+  schemaFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 
 const scratch = scratchWorld()
 

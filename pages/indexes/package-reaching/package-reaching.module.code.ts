@@ -5,13 +5,16 @@ import {
   reachesIn,
   reachingOver,
 } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
+import {
+  type FilePropertiesBy,
+  fileKeysAt,
+} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { pathsOf, under } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
+import { carryingOf } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+import { everyPath, importersIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { readingOf } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import { type FilePropertiesBy, fileKeysAt } from "../entries/index-entries.module.code.ts"
-import { pathsOf, under } from "../path-claiming/path-claiming.module.code.ts"
-import { carryingOf } from "../property-carrying/property-carrying.module.code.ts"
-import { everyPath, importersIn } from "../reading/index-reading.module.code.ts"
-import type { Reading } from "../shape/index-shape.module.code.ts"
-import { readingOf } from "../surface/index-surface.module.code.ts"
 
 const MANIFEST = "manifest"
 

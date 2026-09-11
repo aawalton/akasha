@@ -1,15 +1,15 @@
 import { join } from "node:path"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { slugAt, slugsIn, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import { DECLARING_AT } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
+import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
+import { answered, heldOnce } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Reading, Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {
   typeSlugsIn,
   typesAmong,
   typeValuesIn,
-} from "../../types/gathering/page-type-gathering.module.code.ts"
-import { DECLARING_AT } from "../declaring/index-declaring.index.code.ts"
-import { indexIdentity } from "../identity/index-identity.index.ts"
-import { answered, heldOnce } from "../reading/index-reading.module.code.ts"
-import type { Reading, Schema } from "../shape/index-shape.module.code.ts"
+} from "akasha/pages/types/gathering/page-type-gathering.module.code.ts"
+import { slugAt, slugsIn, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 
 const ENDING = ".jsonl"
 

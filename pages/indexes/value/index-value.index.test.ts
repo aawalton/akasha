@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { fileFor, valuedIn, valueIn } from "./index-value.index.code.ts"
+import { fileFor, valuedIn, valueIn } from "akasha/pages/indexes/value/index-value.index.code.ts"
 
 const REPO = "/repo"
 

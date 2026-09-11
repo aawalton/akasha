@@ -1,17 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { answeringOver } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import {
-  carriedIn,
-  declarationsOf,
-  pageAt,
-  propertiesOf,
-  sourceIn,
-} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
-import { fileKeysAt, pageTypesIn, schemaAt } from "../entries/index-entries.module.code.ts"
-import { carryingOf, declaringOf } from "../property-carrying/property-carrying.module.code.ts"
-import { knownIn } from "../reaching/reaching.module.code.ts"
+  fileKeysAt,
+  pageTypesIn,
+  schemaAt,
+} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import {
+  carryingOf,
+  declaringOf,
+} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+import { knownIn } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import {
   everyOfType,
   everyPath,
@@ -25,7 +24,7 @@ import {
   readingIn,
   typeSlugById,
   typeSlugOf,
-} from "../reading/index-reading.module.code.ts"
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   idFiled,
   importFiled,
@@ -35,9 +34,17 @@ import {
   relationFiled,
   schemaFiled,
   valueAlsoFiled,
-} from "../reading/index-reading.module.test-fixtures.ts"
-import type { Reading } from "../shape/index-shape.module.code.ts"
-import { answeringOver } from "./index-answering.module.code.ts"
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import {
+  carriedIn,
+  declarationsOf,
+  pageAt,
+  propertiesOf,
+  sourceIn,
+} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 
 const scratch = scratchWorld()
 

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { A, SCHEMA } from "../entries/index-entries.module.test-fixtures.ts"
-import { schemaIn } from "./index-schema.index.code.ts"
+import { A, SCHEMA } from "akasha/pages/indexes/entries/index-entries.module.test-fixtures.ts"
+import { schemaIn } from "akasha/pages/indexes/schema/index-schema.index.code.ts"
 
 test("a property is filed under its page type and slug, and a target it does not name is held as null", () => {
   const value = { id: A, pageTypeSlug: "file-property", slug: "code", propertySlug: "code" }

@@ -1,17 +1,4 @@
 import {
-  type Carried,
-  carriedIn,
-  declarationsOf,
-  membersIfNamedOf,
-  pageAt,
-  propertiesIfNamedOf,
-  propertiesOf,
-  type Source,
-  sourceIn,
-} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import {
   entryShapesAt,
   type FilePropertiesBy,
   type FoldersBy,
@@ -22,16 +9,19 @@ import {
   schemaAt,
   type UncommittedBy,
   uncommittedFiledAt,
-} from "../entries/index-entries.module.code.ts"
-import { manifestsBeside } from "../package-reaching/package-reaching.module.code.ts"
-import { type SidecarsBy, sidecarsOver } from "../path-claiming/path-claiming.module.code.ts"
+} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { manifestsBeside } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
+import {
+  type SidecarsBy,
+  sidecarsOver,
+} from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import {
   carryingOf,
   type Declaring,
   declaringOf,
   type Carried as Reached,
-} from "../property-carrying/property-carrying.module.code.ts"
-import { knownIn, type Shaped } from "../reaching/reaching.module.code.ts"
+} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+import { knownIn, type Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import {
   everyOfType,
   everyPath,
@@ -53,8 +43,24 @@ import {
   typeSlugById,
   typeSlugOf,
   valuesByPath,
-} from "../reading/index-reading.module.code.ts"
-import type { Schema as Filed, Reading } from "../shape/index-shape.module.code.ts"
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type {
+  Schema as Filed,
+  Reading,
+} from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import {
+  type Carried,
+  carriedIn,
+  declarationsOf,
+  membersIfNamedOf,
+  pageAt,
+  propertiesIfNamedOf,
+  propertiesOf,
+  type Source,
+  sourceIn,
+} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 
 export type PageOf = (path: string) => Value | null
 

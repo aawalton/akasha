@@ -1,7 +1,5 @@
 import { basename, dirname } from "node:path"
 import { partedIn, sectionedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import {
   everyOfType,
   idsNaming,
@@ -10,8 +8,10 @@ import {
   readingIn,
   schemaOf,
   valuesOfType,
-} from "../reading/index-reading.module.code.ts"
-import type { Reading } from "../shape/index-shape.module.code.ts"
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 
 const DECLARES = "page-property"
 

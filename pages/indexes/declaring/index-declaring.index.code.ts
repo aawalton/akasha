@@ -1,6 +1,6 @@
 import { join } from "node:path"
-import type { Entry } from "../entries/index-entries.module.code.ts"
-import { indexDeclaring } from "./index-declaring.index.ts"
+import { indexDeclaring } from "akasha/pages/indexes/declaring/index-declaring.index.ts"
+import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 
 export const DECLARING_UNDER = indexDeclaring.name
 

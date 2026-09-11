@@ -1,15 +1,15 @@
 import { join } from "node:path"
-import { slugOf, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
-import type { Entry } from "../entries/index-entries.module.code.ts"
-import { under } from "../path-claiming/path-claiming.module.code.ts"
+import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { under } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import {
   namesIn,
   namesMortal,
   namingsIn,
   reaches,
   type Shaped,
-} from "../reaching/reaching.module.code.ts"
-import { indexRelation } from "./index-relation.index.ts"
+} from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
+import { slugOf, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 
 const RELATION = indexRelation.name
 

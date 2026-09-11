@@ -1,7 +1,7 @@
 import { join } from "node:path"
-import type { Entry } from "../entries/index-entries.module.code.ts"
-import { pathAt } from "../path/index-path.index.code.ts"
-import { indexListing } from "./index-listing.index.ts"
+import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { indexListing } from "akasha/pages/indexes/listing/index-listing.index.ts"
+import { pathAt } from "akasha/pages/indexes/path/index-path.index.code.ts"
 
 export const LISTED_UNDER = indexListing.name
 

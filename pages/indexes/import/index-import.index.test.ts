@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { edgesIn, importIn } from "./index-import.index.code.ts"
+import { edgesIn, importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
 
 const READING = "akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 

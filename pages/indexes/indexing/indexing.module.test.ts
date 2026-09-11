@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
-import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
 import {
   aProperty,
   aType,
@@ -9,8 +8,8 @@ import {
   put,
   scratch,
   thePage,
-} from "../fixture-world/fixture-world.module.code.ts"
-import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import { indexingAt, rebuiltFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import {
   A,
   aSource,
@@ -48,7 +47,8 @@ import {
   writingTo,
   wrotePages,
   wroteText,
-} from "./indexing.module.test-fixtures.ts"
+} from "akasha/pages/indexes/indexing/indexing.module.test-fixtures.ts"
+import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
 
 afterAll(scratch.sweep, 5000)
 

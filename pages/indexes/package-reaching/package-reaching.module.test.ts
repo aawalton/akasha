@@ -1,13 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
-import { writing as wrote } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { reading } from "../../value/page-value.module.test-fixtures.ts"
-import { readingIn } from "../reading/index-reading.module.code.ts"
-import {
-  importFiled,
-  pathFiled,
-  schemaFiled,
-} from "../reading/index-reading.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing as wrote } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   bodiesAt,
   manifestsAmong,
@@ -16,7 +9,14 @@ import {
   reachingIn,
   reachingOf,
   rereadOver,
-} from "./package-reaching.module.code.ts"
+} from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  importFiled,
+  pathFiled,
+  schemaFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { reading } from "akasha/pages/value/page-value.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 

@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
-import { schemaIn } from "../schema/index-schema.index.code.ts"
-import { DECLARING_AT, DECLARING_UNDER, declaredOf } from "./index-declaring.index.code.ts"
+import {
+  DECLARING_AT,
+  DECLARING_UNDER,
+  declaredOf,
+} from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
+import { schemaIn } from "akasha/pages/indexes/schema/index-schema.index.code.ts"
 
 const VALUE = { pageTypeSlug: "text-property", slug: "slug", propertySlug: "slug" }
 

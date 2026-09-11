@@ -1,15 +1,12 @@
 import { cpSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { keptAt, scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { said as git } from "akasha/git/running/git-running.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { rebuiltWhole } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/pages/properties/slug.text-property.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
-import {
-  keptAt,
-  scratchWorld,
-} from "../../../commands/modules/scratching/scratching.module.code.ts"
-import { said as git } from "../../../git/running/git-running.module.code.ts"
-import { rebuiltWhole } from "../indexing/indexing.module.code.ts"
 
 export type Held = Record<string, unknown>
 

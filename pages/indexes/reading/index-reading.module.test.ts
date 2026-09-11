@@ -1,6 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
-import { indexAt, indexIn } from "../surface/index-surface.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   everyOfType,
   everyPath,
@@ -11,7 +10,7 @@ import {
   listedWithin,
   readingIn,
   schemaOf,
-} from "./index-reading.module.code.ts"
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   idFiled,
   importFiled,
@@ -23,7 +22,8 @@ import {
   schemaFiled,
   scopedFiled,
   valueAlsoFiled,
-} from "./index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { indexAt, indexIn } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 
 const A = "01a04bdd-0000-7000-8000-00000000000a"
 const B = "01a04bdd-0000-7000-8000-00000000000b"

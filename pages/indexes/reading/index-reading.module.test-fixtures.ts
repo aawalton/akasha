@@ -8,24 +8,28 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
+import { said as git } from "akasha/git/running/git-running.module.code.ts"
+import { DECLARING_AT } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
+import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
+import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
+import { rebuiltFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+import { indexListing } from "akasha/pages/indexes/listing/index-listing.index.ts"
+import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
+import { indexSchema } from "akasha/pages/indexes/schema/index-schema.index.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import {
+  beneath,
+  indexIn,
+  overlaidOn,
+} from "akasha/pages/indexes/surface/index-surface.module.code.ts"
+import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 import { admitting } from "akasha/testing-system/minting/minting.module.code.ts"
 import { HELD } from "akasha/testing-system/page-holding/page-holding.module.code.ts"
 import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
-import { said as git } from "../../../git/running/git-running.module.code.ts"
-import { DECLARING_AT } from "../declaring/index-declaring.index.code.ts"
-import type { Entry } from "../entries/index-entries.module.code.ts"
-import { indexIdentity } from "../identity/index-identity.index.ts"
-import { indexImport } from "../import/index-import.index.ts"
-import { rebuiltFrom } from "../indexing/indexing.module.code.ts"
-import { indexListing } from "../listing/index-listing.index.ts"
-import { indexPath } from "../path/index-path.index.ts"
-import { indexRelation } from "../relation/index-relation.index.ts"
-import { indexSchema } from "../schema/index-schema.index.ts"
-import type { Reading } from "../shape/index-shape.module.code.ts"
-import { beneath, indexIn, overlaidOn } from "../surface/index-surface.module.code.ts"
-import { indexValue } from "../value/index-value.index.ts"
-import { readingIn } from "./index-reading.module.code.ts"
 
 const ENDING = ".jsonl"
 

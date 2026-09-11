@@ -12,10 +12,10 @@ import { basename, dirname, join } from "node:path"
 
 const INDEX = "index"
 
-import type { Entry } from "../entries/index-entries.module.code.ts"
-import type { Filing } from "../shape/index-shape.module.code.ts"
-import { indexAt } from "../surface/index-surface.module.code.ts"
-import { walkedUnder } from "../tree-reading/tree-reading.module.code.ts"
+import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import type { Filing } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { indexAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
+import { walkedUnder } from "akasha/pages/indexes/tree-reading/tree-reading.module.code.ts"
 
 export function wholeOf(lines: readonly string[]): string {
   return `${lines.join("\n")}\n`

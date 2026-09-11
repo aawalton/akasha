@@ -6,23 +6,23 @@ import {
   type PageAddress,
 } from "akasha/pages/address/page-address.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
-import { stringAt } from "akasha/utils/narrow/string-at/string-at.module.code.ts"
-import { indexIdentity } from "../identity/index-identity.index.ts"
-import { indexImport } from "../import/index-import.index.ts"
-import { indexListing } from "../listing/index-listing.index.ts"
-import { indexPath } from "../path/index-path.index.ts"
-import { indexRelation } from "../relation/index-relation.index.ts"
-import { indexSchema } from "../schema/index-schema.index.ts"
-import type { Reading, Schema } from "../shape/index-shape.module.code.ts"
+import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
+import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
+import { indexListing } from "akasha/pages/indexes/listing/index-listing.index.ts"
+import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
+import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
+import { indexSchema } from "akasha/pages/indexes/schema/index-schema.index.ts"
+import type { Reading, Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {
   beneath,
   INDEX_AT,
   indexAt,
   indexIn,
   readingOf,
-} from "../surface/index-surface.module.code.ts"
-import { indexValue } from "../value/index-value.index.ts"
+} from "akasha/pages/indexes/surface/index-surface.module.code.ts"
+import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
+import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import { stringAt } from "akasha/utils/narrow/string-at/string-at.module.code.ts"
 
 export type Listed = {
   readonly path: string

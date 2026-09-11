@@ -5,8 +5,12 @@ import {
   filedAs,
   HELD_PAGE,
   withholding,
-} from "../entries/index-entries.module.test-fixtures.ts"
-import { claimsOf, pathsOf, sidecarsIn } from "./path-claiming.module.code.ts"
+} from "akasha/pages/indexes/entries/index-entries.module.test-fixtures.ts"
+import {
+  claimsOf,
+  pathsOf,
+  sidecarsIn,
+} from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 
 test("a property no page property declares to be a file is filed under no path", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a", definition: "what is held" }

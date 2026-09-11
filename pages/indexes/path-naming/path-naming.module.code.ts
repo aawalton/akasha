@@ -1,5 +1,8 @@
 import { basename } from "node:path"
 import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import { textOf } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
+import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import type { Listed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   everyPath,
@@ -7,9 +10,6 @@ import {
   listedByPath,
   readingIn,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { textOf } from "../../../commands/modules/body-reaching/body-reaching.module.code.ts"
-import { bodyAt } from "../../../commands/modules/commit-reading/commit-reading.module.code.ts"
-import type { Answering } from "../answering/index-answering.module.code.ts"
 
 export type Naming = { readonly held: Listed | null } | { readonly unread: string }
 

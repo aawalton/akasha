@@ -1,11 +1,5 @@
 import { pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
-  identifyingFrom,
-  sourceAmong,
-  sourceIn,
-} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { loadedFrom, type Value } from "akasha/pages/value/page-value.module.code.ts"
-import {
   idsUnnamed,
   pagesElsewhere,
   pagesNaming,
@@ -14,8 +8,8 @@ import {
   pagesTurned,
   relationsTurned,
   typesDeclaring,
-} from "../beside-turning/beside-turning.module.code.ts"
-import { declaredOf } from "../declaring/index-declaring.index.code.ts"
+} from "akasha/pages/indexes/beside-turning/beside-turning.module.code.ts"
+import { declaredOf } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import {
   type Entry,
   fileKeysAt,
@@ -27,25 +21,37 @@ import {
   schemaAt,
   uncommittedFiledOver,
   uniquePropertiesAt,
-} from "../entries/index-entries.module.code.ts"
-import { identityIn } from "../identity/index-identity.index.code.ts"
-import { importIn } from "../import/index-import.index.code.ts"
-import { listedOf } from "../listing/index-listing.index.code.ts"
+} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { identityIn } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
+import { importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
+import { listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
 import {
   type Body,
   bodiesAt,
   reachingSettled,
   rereadOver,
-} from "../package-reaching/package-reaching.module.code.ts"
-import { claimingIn } from "../path/index-path.index.code.ts"
-import { sidecarsOver, under } from "../path-claiming/path-claiming.module.code.ts"
-import { knownIn } from "../reaching/reaching.module.code.ts"
-import { indexThere } from "../reading/index-reading.module.code.ts"
-import { NOTHING_FILED, relationIn } from "../relation/index-relation.index.code.ts"
-import { schemaIn } from "../schema/index-schema.index.code.ts"
-import type { Filing, Reading } from "../shape/index-shape.module.code.ts"
-import { overlaidOn, readingNone } from "../surface/index-surface.module.code.ts"
-import { valueIn } from "../value/index-value.index.code.ts"
+} from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
+import { claimingIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
+import {
+  sidecarsOver,
+  under,
+} from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
+import { knownIn } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+import { indexThere } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  NOTHING_FILED,
+  relationIn,
+} from "akasha/pages/indexes/relation/index-relation.index.code.ts"
+import { schemaIn } from "akasha/pages/indexes/schema/index-schema.index.code.ts"
+import type { Filing, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { overlaidOn, readingNone } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
+import { valueIn } from "akasha/pages/indexes/value/index-value.index.code.ts"
+import {
+  identifyingFrom,
+  sourceAmong,
+  sourceIn,
+} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { loadedFrom, type Value } from "akasha/pages/value/page-value.module.code.ts"
 
 function keyOf(one: Entry): string {
   return `${one.at} ${one.line}`

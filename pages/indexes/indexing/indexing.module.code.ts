@@ -2,44 +2,53 @@ import { mkdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import {
-  identifyingFrom,
-  sourceOver,
-} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { DECLARING_UNDER, declaredOf } from "../declaring/index-declaring.index.code.ts"
+  DECLARING_UNDER,
+  declaredOf,
+} from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import {
   fileKeysIn,
   filePropertiesIn,
   folderPropertiesIn,
   uncommittedFiledIn,
   uniquePropertiesIn,
-} from "../entries/index-entries.module.code.ts"
-import { identityIn } from "../identity/index-identity.index.code.ts"
-import { indexIdentity } from "../identity/index-identity.index.ts"
-import { importIn } from "../import/index-import.index.code.ts"
-import { indexImport } from "../import/index-import.index.ts"
-import { LISTED_UNDER, listedOf } from "../listing/index-listing.index.code.ts"
-import { reachingBuilt } from "../package-reaching/package-reaching.module.code.ts"
-import { claimingIn } from "../path/index-path.index.code.ts"
-import { indexPath } from "../path/index-path.index.ts"
-import { sidecarsIn } from "../path-claiming/path-claiming.module.code.ts"
-import { knownIn } from "../reaching/reaching.module.code.ts"
+} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { identityIn } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
+import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
+import { importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
+import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
+import { LISTED_UNDER, listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
+import { reachingBuilt } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
+import { claimingIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
+import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
+import { sidecarsIn } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
+import { knownIn } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import {
   type Drift,
   keepWhole,
   reconcile,
   sweptBeside,
-} from "../rebuilding/rebuilding.module.code.ts"
-import { relationIn } from "../relation/index-relation.index.code.ts"
-import { indexRelation } from "../relation/index-relation.index.ts"
-import { schemaIn } from "../schema/index-schema.index.code.ts"
-import { indexSchema } from "../schema/index-schema.index.ts"
-import { refusingEmpty, settlingOver } from "../settling/index-settling.module.code.ts"
-import type { Filing } from "../shape/index-shape.module.code.ts"
-import { indexIn, readingAt } from "../surface/index-surface.module.code.ts"
-import { pagesUnder, walkedUnder } from "../tree-reading/tree-reading.module.code.ts"
-import { valueIn } from "../value/index-value.index.code.ts"
-import { indexValue } from "../value/index-value.index.ts"
+} from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
+import { relationIn } from "akasha/pages/indexes/relation/index-relation.index.code.ts"
+import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
+import { schemaIn } from "akasha/pages/indexes/schema/index-schema.index.code.ts"
+import { indexSchema } from "akasha/pages/indexes/schema/index-schema.index.ts"
+import {
+  refusingEmpty,
+  settlingOver,
+} from "akasha/pages/indexes/settling/index-settling.module.code.ts"
+import type { Filing } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { indexIn, readingAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
+import {
+  pagesUnder,
+  walkedUnder,
+} from "akasha/pages/indexes/tree-reading/tree-reading.module.code.ts"
+import { valueIn } from "akasha/pages/indexes/value/index-value.index.code.ts"
+import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
+import {
+  identifyingFrom,
+  sourceOver,
+} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 const IDENTITY = indexIdentity.name
 

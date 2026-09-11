@@ -1,7 +1,5 @@
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   aProperty,
   aType,
@@ -14,10 +12,12 @@ import {
   scratch,
   thePage,
   VOCABULARY,
-} from "../fixture-world/fixture-world.module.code.ts"
-import { settlingOver } from "../settling/index-settling.module.code.ts"
-import { readingAt } from "../surface/index-surface.module.code.ts"
-import { indexingAt } from "./indexing.module.code.ts"
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import { indexingAt } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+import { settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
+import { readingAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
+import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 export const A = idOf("a")
 export const B = idOf("b")

@@ -1,21 +1,21 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import type {
   Entry,
   FilePropertiesBy,
   FoldersBy,
   UncommittedBy,
-} from "../entries/index-entries.module.code.ts"
+} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
 import {
   claimsOf,
   type IsThere,
   type SidecarsBy,
   under,
-} from "../path-claiming/path-claiming.module.code.ts"
-import { keepWhole } from "../rebuilding/rebuilding.module.code.ts"
-import { indexIn, readingAt } from "../surface/index-surface.module.code.ts"
-import { indexPath } from "./index-path.index.ts"
+} from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
+import { keepWhole } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
+import { indexIn, readingAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 
 const PATH = indexPath.name
 

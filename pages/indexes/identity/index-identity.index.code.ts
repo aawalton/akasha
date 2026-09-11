@@ -1,9 +1,13 @@
 import { join } from "node:path"
+import type {
+  Entry,
+  Identifier,
+  ScopedBy,
+} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
+import { under } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import type { Identifying } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
-import type { Entry, Identifier, ScopedBy } from "../entries/index-entries.module.code.ts"
-import { under } from "../path-claiming/path-claiming.module.code.ts"
-import { indexIdentity } from "./index-identity.index.ts"
 
 const IDENTITY = indexIdentity.name
 

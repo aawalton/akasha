@@ -5,15 +5,18 @@ import {
   uncommittedAt,
 } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { partsOf, uncommittedPartsOf } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
-import { slugFor } from "akasha/pages/types/page-properties/key/page-property-key.module.code.ts"
-import { slugOf, slugsIn, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
-import { typeSlugsIn, typeValuesIn } from "../../types/gathering/page-type-gathering.module.code.ts"
 import type {
   FilePropertiesBy,
   FoldersBy,
   UncommittedBy,
-} from "../entries/index-entries.module.code.ts"
-import type { Reading } from "../shape/index-shape.module.code.ts"
+} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import {
+  typeSlugsIn,
+  typeValuesIn,
+} from "akasha/pages/types/gathering/page-type-gathering.module.code.ts"
+import { slugFor } from "akasha/pages/types/page-properties/key/page-property-key.module.code.ts"
+import { slugOf, slugsIn, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

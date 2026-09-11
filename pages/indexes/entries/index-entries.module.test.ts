@@ -1,6 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { pathsOf } from "../path-claiming/path-claiming.module.code.ts"
-import { readingAt } from "../surface/index-surface.module.code.ts"
 import {
   fileKeysAt,
   fileKeysIn,
@@ -10,7 +8,7 @@ import {
   schemaAt,
   uncommittedFiledIn,
   uniquePropertiesAt,
-} from "./index-entries.module.code.ts"
+} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import {
   A,
   declaring,
@@ -21,7 +19,9 @@ import {
   SHARED_NAME,
   scratch,
   TWO_ABOVE,
-} from "./index-entries.module.test-fixtures.ts"
+} from "akasha/pages/indexes/entries/index-entries.module.test-fixtures.ts"
+import { pathsOf } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
+import { readingAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 
 afterAll(scratch.sweep)
 
