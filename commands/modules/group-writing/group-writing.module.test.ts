@@ -3,7 +3,7 @@ import {
   composingAt,
   composingIn,
   recipeAt,
-} from "akasha/commands/modules/recipe-composing/recipe-composing.module.code.ts"
+} from "akasha/commands/modules/group-writing/group-writing.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 

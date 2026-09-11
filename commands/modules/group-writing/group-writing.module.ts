@@ -1,10 +1,10 @@
 import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
-export const recipeComposing = {
+export const groupWriting = {
   id: "01a08dd3-479a-794b-bdd2-2b24e59840c6",
   pageTypeSlug: "module",
   type: "module",
-  slug: "recipe-composing",
+  slug: "group-writing",
   definition: "the recipe a container recipe's composing group writes beside that page",
   code: "ts",
   test: "ts",
