@@ -177,5 +177,9 @@ export const indexReading = {
       invariantKind: "departure",
       statement: "A page carrying no value refuses that answer too.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A fixture states a shape's kind as a page type only where no page type has it.",
+    },
   ],
 } as const satisfies Module

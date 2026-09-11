@@ -193,12 +193,19 @@ export function listingFiled(root: string, paths: readonly string[]): undefined 
   writeFileSync(at, paths.map((one) => `${one}\n`).join(""))
 }
 
-const KINDED = new Set<string>()
+function slugsFiled(root: string, pageTypeSlug: string): ReadonlySet<string> {
+  const at = under(root, `${join(indexValue.name, pageTypeSlug)}${ENDING}`)
+  if (!existsSync(at)) return new Set()
+  const found = new Set<string>()
+  for (const line of readFileSync(at, "utf8").split("\n")) {
+    const said = line === "" ? undefined : slugSaid(line)
+    if (typeof said === "string") found.add(said)
+  }
+  return found
+}
 
 function kindFiled(root: string, kind: string): undefined {
-  const named = `${root} ${kind}`
-  if (KINDED.has(named) || kind === PAGE_PROPERTY) return
-  KINDED.add(named)
+  if (kind === PAGE_PROPERTY || slugsFiled(root, PAGE_TYPE).has(kind)) return
   valueAlsoFiled(root, PAGE_TYPE, [
     {
       path: `akasha/${kind}.${PAGE_TYPE}.ts`,

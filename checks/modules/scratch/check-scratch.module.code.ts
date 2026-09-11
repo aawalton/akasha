@@ -13,6 +13,7 @@ import {
   pathFiled,
   relationFiled,
   shapeAdded,
+  valueTakenFrom,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { type Shadow, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
@@ -61,6 +62,7 @@ export function typed(
       ` pageTypeSlug: ${JSON.stringify(PAGE_TYPE)}, slug: ${JSON.stringify(slug)},` +
       ` extends: ${said}, properties: [${declared(declares)}] }\n`
   )
+  valueTakenFrom(root, PAGE_TYPE, slug)
   valueAlsoFiled(root, PAGE_TYPE, [
     {
       path,
