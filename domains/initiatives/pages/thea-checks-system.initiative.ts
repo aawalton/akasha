@@ -21,7 +21,7 @@ export const theaChecksSystem = {
     {
       statement: "Every property file has the page whose property that file is.",
       workingMemory:
-        "The last stray is gone and the mechanism holding it is mended. 78b39f745ee on 2026-09-08 replaced writtenAgain, which read only the path name, with writtenPathsIn, reading the change-runner pages the index holds, so edits for a map no runner page claims fold like any other. 9fc7dc6c58f then removed change-running.change-runner.addressed.ts and the finding naming it. Both addressed files left have their runner page. No test pins the orphan case, and the audit answering the intent is unrun.",
+        "The addressed stray is gone and the mechanism holding it mended: 78b39f745ee replaced writtenAgain, which read only the path name, with writtenPathsIn, reading the change-runner pages the index holds. Both addressed files left have their runner page, and no test pins the orphan case. file-has-its-page judges 124582 files and refuses 9, every one a property file its page's deletion left behind: seven subagent edit files, two seat files. One mechanism rather than nine strays.",
     },
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
