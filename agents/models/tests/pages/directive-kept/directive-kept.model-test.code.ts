@@ -1,7 +1,9 @@
 import { directiveKept as test } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.ts"
 import {
+  type Asked,
   type Case,
   filling,
+  type Got,
   keptBy,
   type PageReading,
 } from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
@@ -37,7 +39,7 @@ export type Judging = {
   readonly directives: readonly Directive[]
 }
 
-export type Asked = {
+export type Putting = {
   readonly statement: string
   readonly prompt: string
 }
@@ -63,25 +65,24 @@ export function directivesIn(given: unknown): readonly Directive[] {
   return found
 }
 
-export function asking(one: Case, reading: PageReading): string | null {
+export function asking(one: Case, reading: PageReading): readonly Asked[] {
   const page = reading(PERSON, one.page)
-  if (page === null) return null
-  for (const found of directivesIn(page[DIRECTIVES])) {
-    if (found.name !== one.against) continue
-    return filling(test.prompt, {
+  if (page === null) return []
+  return directivesIn(page[DIRECTIVES]).map((found) => ({
+    about: found.name,
+    prompt: filling(test.prompt, {
       [ASKED]: one.asked ?? "",
       [TURN]: one.statement,
       [RULE]: ruleOf(found),
-    })
-  }
-  return null
+    }),
+  }))
 }
 
-export function keeping(one: Case, got: string): boolean {
+export function keeping(one: Case, got: readonly Got[]): boolean {
   return keptBy(one, got)
 }
 
-export function directiveKept(judging: Judging): readonly Asked[] {
+export function directiveKept(judging: Judging): readonly Putting[] {
   return judging.directives.map((one) => {
     const rule = ruleOf(one)
     return {

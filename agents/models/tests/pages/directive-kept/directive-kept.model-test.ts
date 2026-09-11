@@ -19,6 +19,18 @@ export const directiveKept = {
     },
     {
       invariantKind: "departure",
+      statement: "Every rule the person states is put for every case.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A case is caught where any one of those rules answers yes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rule a case names is the one expected to answer yes rather than the one put.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What Alan asked for is put to the model beside what the agent wrote back.",
     },
     {

@@ -1,8 +1,10 @@
 import { expect, test } from "bun:test"
 import {
+  anyYes,
   type Case,
   casesIn,
   filling,
+  type Got,
   keptBy,
 } from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
 
@@ -27,19 +29,33 @@ test("a line holding no object is passed over", () => {
   expect(casesIn(["[1]", '"one"', "null"].join("\n"))).toEqual([])
 })
 
+function got(...said: readonly string[]): readonly Got[] {
+  return said.map((one, at) => ({ about: `rule ${at}`, said: one }))
+}
+
 test("a case is kept where the answer and the label agree", () => {
-  expect(keptBy(ONE, "YES")).toBe(true)
-  expect(keptBy({ ...ONE, answer: "NO" }, "NO — it does not")).toBe(true)
+  expect(keptBy(ONE, got("YES"))).toBe(true)
+  expect(keptBy({ ...ONE, answer: "NO" }, got("NO — it does not"))).toBe(true)
 })
 
 test("a case is broken where the answer and the label disagree", () => {
-  expect(keptBy(ONE, "NO")).toBe(false)
-  expect(keptBy({ ...ONE, answer: "NO" }, "YES")).toBe(false)
+  expect(keptBy(ONE, got("NO"))).toBe(false)
+  expect(keptBy({ ...ONE, answer: "NO" }, got("YES"))).toBe(false)
 })
 
 test("an answer that opens with neither word reads as no", () => {
-  expect(keptBy({ ...ONE, answer: "NO" }, "")).toBe(true)
-  expect(keptBy(ONE, "")).toBe(false)
+  expect(keptBy({ ...ONE, answer: "NO" }, got(""))).toBe(true)
+  expect(keptBy(ONE, got(""))).toBe(false)
+})
+
+test("one answer opening yes is enough, and no answer at all is none", () => {
+  expect(anyYes(got("NO", "NO", "YES"))).toBe(true)
+  expect(anyYes(got("NO", "NO"))).toBe(false)
+  expect(anyYes([])).toBe(false)
+})
+
+test("a case labelled unbroken is broken where any one answer opens yes", () => {
+  expect(keptBy({ ...ONE, answer: "NO" }, got("NO", "YES"))).toBe(false)
 })
 
 test("every sign a prompt carries takes its value", () => {

@@ -17,8 +17,8 @@ export const modelTest = {
   ],
   helpNotes: [
     "a rival prompt is weighed by running it over the cases of the test it rivals, so both are scored on the same cases.",
-    "a case the prompt cannot be built for is counted broken and marked unreached, because a prompt that cannot be built answers nothing.",
-    "a run costs one model call for every case, so the cases are the bill.",
+    "a case nothing could be asked about is counted broken and marked unreached, because nothing asked answers nothing.",
+    "a run costs one model call for every thing a test asks about a case, so a test asking every rule multiplies the bill.",
   ],
   invariants: [
     {

@@ -19,7 +19,15 @@ export const modelTestRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A case whose prompt cannot be built is answered as reaching nothing.",
+      statement: "A case is put to the model once for each thing its test asks about that case.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer comes back beside the name of what it answers about.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A case a test asks nothing about is answered as reaching nothing.",
     },
     {
       invariantKind: "departure",

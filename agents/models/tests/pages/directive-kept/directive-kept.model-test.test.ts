@@ -73,24 +73,45 @@ const CASE: Case = {
   answer: "NO",
 }
 
-const PAGE: Record<string, unknown> = { directives: [{ directiveKind: "principle", ...ONE }] }
+const TWO: Directive = {
+  name: "Don't Stop!",
+  act: "Work until the work is done.",
+  warrant: "Agents stop too much.",
+  aids: ["Reporting progress is stopping."],
+}
 
-test("a case is put as the rule it names, with what was asked and what was written", () => {
-  const prompt = asking(CASE, () => PAGE)
-  expect(prompt).toContain("<asked>\nhold there\n</asked>")
-  expect(prompt).toContain("<turn>\nholding\n</turn>")
-  expect(prompt).toContain(ruleOf(ONE))
+const PAGE: Record<string, unknown> = {
+  directives: [
+    { directiveKind: "principle", ...ONE },
+    { directiveKind: "principle", ...TWO },
+  ],
+}
+
+test("every rule the page states is put for one case, each on its own", () => {
+  expect(asking(CASE, () => PAGE).map((put) => put.about)).toEqual([
+    "Act By Default",
+    "Don't Stop!",
+  ])
+})
+
+test("a case carries what was asked, what was written and the rule put", () => {
+  const put = asking(CASE, () => PAGE)
+  expect(put[0]?.prompt).toContain("<asked>\nhold there\n</asked>")
+  expect(put[0]?.prompt).toContain("<turn>\nholding\n</turn>")
+  expect(put[0]?.prompt).toContain(ruleOf(ONE))
+  expect(put[1]?.prompt).toContain(ruleOf(TWO))
 })
 
 test("a case naming nothing asked is put with that block empty", () => {
-  const prompt = asking({ ...CASE, asked: undefined }, () => PAGE)
-  expect(prompt).toContain("<asked>\n\n</asked>")
+  expect(asking({ ...CASE, asked: undefined }, () => PAGE)[0]?.prompt).toContain(
+    "<asked>\n\n</asked>"
+  )
 })
 
 test("a case naming a page that is not there is put to nothing", () => {
-  expect(asking(CASE, () => null)).toBeNull()
+  expect(asking(CASE, () => null)).toEqual([])
 })
 
-test("a case naming a rule the page does not hold is put to nothing", () => {
-  expect(asking({ ...CASE, against: "No Such Rule" }, () => PAGE)).toBeNull()
+test("the rule a case names does not narrow what is put", () => {
+  expect(asking({ ...CASE, against: "No Such Rule" }, () => PAGE)).toHaveLength(2)
 })

@@ -47,15 +47,19 @@ export type Case = {
 
 export type PageReading = (pageTypeSlug: string, slug: string) => Record<string, unknown> | null
 
-export type Asking = (one: Case, reading: PageReading) => string | null
+export type Asked = { readonly about: string; readonly prompt: string }
 
-export type Keeping = (one: Case, got: string) => boolean
+export type Got = { readonly about: string; readonly said: string }
+
+export type Asking = (one: Case, reading: PageReading) => readonly Asked[]
+
+export type Keeping = (one: Case, got: readonly Got[]) => boolean
 
 export type Beside = { readonly asking: Asking; readonly keeping: Keeping }
 
 export type Judged = {
   readonly one: Case
-  readonly got: string
+  readonly got: readonly Got[]
   readonly kept: boolean
   readonly reached: boolean
 }
@@ -112,8 +116,12 @@ export function filling(prompt: string, values: Readonly<Record<string, string>>
   return prompt.replace(SIGNS, (sign) => values[sign] ?? sign)
 }
 
-export function keptBy(one: Case, got: string): boolean {
-  return opensYes(got) === (one.answer === YES)
+export function anyYes(got: readonly Got[]): boolean {
+  return got.some((one) => opensYes(one.said))
+}
+
+export function keptBy(one: Case, got: readonly Got[]): boolean {
+  return anyYes(got) === (one.answer === YES)
 }
 
 export function readingIn(root: string): PageReading {
@@ -124,6 +132,12 @@ export function readingIn(root: string): PageReading {
       return null
     }
   }
+}
+
+type Span = {
+  readonly one: Case
+  readonly opens: number
+  readonly asked: readonly Asked[]
 }
 
 function besideIn(root: string, at: string): Beside {
@@ -154,25 +168,25 @@ export async function runningOf(
   const { asking, keeping } = besideIn(root, codeAt)
   const reading = readingIn(root)
   const prompts: string[] = []
-  const asked: Case[] = []
+  const spans: Span[] = []
   const missed: Judged[] = []
   for (const one of await everyCase(root, from)) {
-    const prompt = asking(one, reading)
-    if (prompt === null) {
-      missed.push({ one, got: "", kept: false, reached: false })
+    const asked = asking(one, reading)
+    if (asked.length === 0) {
+      missed.push({ one, got: [], kept: false, reached: false })
       continue
     }
-    prompts.push(prompt)
-    asked.push(one)
+    spans.push({ one, opens: prompts.length, asked })
+    for (const each of asked) prompts.push(each.prompt)
   }
   const answers = askedOf(root, modelOf(root, family), prompts)
   if (answers === null) throw new Error(`\`${slug}\` reached no model, so nothing was judged`)
-  const judged: Judged[] = []
-  for (let at = 0; at < asked.length; at += 1) {
-    const one = asked[at]
-    if (one === undefined) continue
-    const got = answers[at] ?? ""
-    judged.push({ one, got, kept: keeping(one, got), reached: true })
-  }
+  const judged: Judged[] = spans.map((span) => {
+    const got = span.asked.map((each, at) => ({
+      about: each.about,
+      said: answers[span.opens + at] ?? "",
+    }))
+    return { one: span.one, got, kept: keeping(span.one, got), reached: true }
+  })
   return [...judged, ...missed]
 }

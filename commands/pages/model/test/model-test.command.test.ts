@@ -52,17 +52,22 @@ const ONE: Judged = {
     statement: "Shall I go on?",
     answer: "YES",
   },
-  got: "YES",
+  got: [
+    { about: "Act By Default", said: "NO" },
+    { about: "Don't Stop!", said: "YES" },
+  ],
   kept: true,
   reached: true,
 }
 
-test("a row says whether the case was kept, what was wanted and what came back", () => {
-  expect(rowOf(ONE)).toBe("kept\tDon't Stop!\tYES\tYES\tShall I go on?")
+test("a row says whether the case was kept, what was wanted and what each rule said", () => {
+  expect(rowOf(ONE)).toBe(
+    "kept\tDon't Stop!\tYES\tAct By Default=NO | Don't Stop!=YES\tShall I go on?"
+  )
 })
 
-test("a case the prompt could not be built for says so in place of an answer", () => {
-  expect(rowOf({ ...ONE, kept: false, reached: false, got: "" })).toContain("unreached")
+test("a case nothing could be asked of says so in place of an answer", () => {
+  expect(rowOf({ ...ONE, kept: false, reached: false, got: [] })).toContain("unreached")
 })
 
 test("the score counts the cases kept out of every case", () => {

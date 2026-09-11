@@ -6,7 +6,10 @@ import {
   namesARule,
   rulesOf,
 } from "akasha/agents/models/tests/pages/directives-kept/directives-kept.model-test.code.ts"
-import type { Case } from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
+import type {
+  Case,
+  Got,
+} from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
 
 const ONE: Directive = {
   name: "Act By Default",
@@ -39,15 +42,16 @@ const CASE: Case = {
   answer: "NO",
 }
 
-test("every rule reaches the prompt in the order the page states them", () => {
-  const prompt = asking(CASE, () => PAGE)
-  expect(prompt).toContain(rulesOf([ONE, TWO]))
+test("every rule reaches one prompt in the order the page states them", () => {
+  const put = asking(CASE, () => PAGE)
+  expect(put).toHaveLength(1)
+  expect(put[0]?.prompt).toContain(rulesOf([ONE, TWO]))
 })
 
 test("what Alan asked and what the agent wrote both reach the prompt", () => {
-  const prompt = asking(CASE, () => PAGE)
-  expect(prompt).toContain("<asked>\nhold there\n</asked>")
-  expect(prompt).toContain("<turn>\nholding\n</turn>")
+  const put = asking(CASE, () => PAGE)
+  expect(put[0]?.prompt).toContain("<asked>\nhold there\n</asked>")
+  expect(put[0]?.prompt).toContain("<turn>\nholding\n</turn>")
 })
 
 test("a rule is put whole, with its warrant and its aids", () => {
@@ -57,11 +61,11 @@ test("a rule is put whole, with its warrant and its aids", () => {
 })
 
 test("a case naming a page that is not there is put to nothing", () => {
-  expect(asking(CASE, () => null)).toBeNull()
+  expect(asking(CASE, () => null)).toEqual([])
 })
 
 test("a page stating no rule is put to nothing", () => {
-  expect(asking(CASE, () => ({}))).toBeNull()
+  expect(asking(CASE, () => ({}))).toEqual([])
 })
 
 test("an answer naming a rule is read by its letters alone", () => {
@@ -75,17 +79,21 @@ test("an answer naming no rule is read as breaking none", () => {
   expect(namesARule("")).toBe(false)
 })
 
+function got(said: string): readonly Got[] {
+  return [{ about: "every rule", said }]
+}
+
 test("a case is kept where a rule is named and the case is labelled broken", () => {
-  expect(keeping({ ...CASE, answer: "YES" }, "Don't Stop!")).toBe(true)
-  expect(keeping(CASE, "NONE")).toBe(true)
+  expect(keeping({ ...CASE, answer: "YES" }, got("Don't Stop!"))).toBe(true)
+  expect(keeping(CASE, got("NONE"))).toBe(true)
 })
 
 test("a case is broken where the answer and the label disagree", () => {
-  expect(keeping({ ...CASE, answer: "YES" }, "NONE")).toBe(false)
-  expect(keeping(CASE, "Don't Stop!")).toBe(false)
+  expect(keeping({ ...CASE, answer: "YES" }, got("NONE"))).toBe(false)
+  expect(keeping(CASE, got("Don't Stop!"))).toBe(false)
 })
 
 test("a rule other than the one a case names still answers that a rule was broken", () => {
-  expect(keeping({ ...CASE, answer: "YES" }, "Act By Default")).toBe(true)
-  expect(keeping(CASE, "Act By Default")).toBe(false)
+  expect(keeping({ ...CASE, answer: "YES" }, got("Act By Default"))).toBe(true)
+  expect(keeping(CASE, got("Act By Default"))).toBe(false)
 })

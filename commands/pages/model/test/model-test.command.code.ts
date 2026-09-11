@@ -1,4 +1,5 @@
 import {
+  type Got,
   type Judged,
   runningOf,
 } from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
@@ -12,6 +13,8 @@ export const BROKEN = "--broken"
 export const JSON_OUT = "--json"
 
 const UNREACHED = "unreached"
+
+const SAID = 40
 
 export type Read =
   | {
@@ -58,9 +61,15 @@ export function readIn(argv: readonly string[]): Read {
   return { test, from, on }
 }
 
+export function sayingOf(got: readonly Got[]): string {
+  return got
+    .map((one) => `${one.about}=${one.said.trim().replace(/\s+/g, " ").slice(0, SAID)}`)
+    .join(" | ")
+}
+
 export function rowOf(judged: Judged): string {
   const kept = judged.kept ? "kept" : "broke"
-  const got = judged.reached ? judged.got.trim().replace(/\s+/g, " ") : UNREACHED
+  const got = judged.reached ? sayingOf(judged.got) : UNREACHED
   return [kept, judged.one.against ?? "", judged.one.answer, got, judged.one.statement].join("\t")
 }
 
