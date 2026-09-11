@@ -1,4 +1,5 @@
 import { dropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
+import { whenPanelControlsCreated } from "akasha/temper/settings-panel/panel-controls-created/panel-controls-created.module.code.ts"
 import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 import {
   ADDON_VERSION,
@@ -246,11 +247,5 @@ export function createSettingsMenu(this: void): undefined {
   }
   const settingsPanel = registerPanel(LAM, OPTIONS_PANEL_ID, panelData, buildOptionsTable())
 
-  const createIcons = (panel: unknown): undefined => {
-    if (panel === settingsPanel) {
-      createAllIconPreviews()
-      CALLBACK_MANAGER.UnregisterCallback("LAM-PanelControlsCreated", createIcons)
-    }
-  }
-  CALLBACK_MANAGER.RegisterCallback("LAM-PanelControlsCreated", createIcons)
+  whenPanelControlsCreated(CALLBACK_MANAGER, settingsPanel, createAllIconPreviews)
 }

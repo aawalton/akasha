@@ -14,6 +14,7 @@ import { buildMapFiltersSubmenu } from "akasha/temper/navigation-addon/destinati
 import { buildMiscPoiSubmenu } from "akasha/temper/navigation-addon/destinations-settings-misc-poi/destinations-settings-misc-poi.module.code.ts"
 import { buildUnknownPoiSubmenu } from "akasha/temper/navigation-addon/destinations-settings-unknown-poi/destinations-settings-unknown-poi.module.code.ts"
 import { buildVampireWerewolfSubmenu } from "akasha/temper/navigation-addon/destinations-settings-vampire-werewolf/destinations-settings-vampire-werewolf.module.code.ts"
+import { whenPanelControlsCreated } from "akasha/temper/settings-panel/panel-controls-created/panel-controls-created.module.code.ts"
 import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 
 const LAM = LibAddonMenu2
@@ -47,11 +48,5 @@ export function initSettings(): undefined {
 
   const settingsPanel = registerPanel(LAM, OPTIONS_PANEL_ID, panelData, optionsTable)
 
-  const createIcons = (panel: unknown): undefined => {
-    if (panel === settingsPanel) {
-      createAllIconPreviews()
-      CALLBACK_MANAGER.UnregisterCallback("LAM-PanelControlsCreated", createIcons)
-    }
-  }
-  CALLBACK_MANAGER.RegisterCallback("LAM-PanelControlsCreated", createIcons)
+  whenPanelControlsCreated(CALLBACK_MANAGER, settingsPanel, createAllIconPreviews)
 }

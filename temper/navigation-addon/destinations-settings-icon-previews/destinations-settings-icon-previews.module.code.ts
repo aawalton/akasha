@@ -83,7 +83,7 @@ function entryPreview(
   return createPreview(host, offsetX, texturePathAt(paths, entry.type), entry.size, entry.tint)
 }
 
-export function createAllIconPreviews(): undefined {
+export function createAllIconPreviews(this: void): undefined {
   const pins = getSavedVariables().pins
   const paths = PIN_TEXTURE_PATHS
   previews = {

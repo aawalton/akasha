@@ -6,7 +6,13 @@ export const temperSettingsPanel = {
   type: "domain",
   slug: "temper-settings-panel",
   definition: "the settings an add-on shows in the game's own add-on menu",
-  parts: ["module/build-lookup", "module/dropdown", "module/header", "module/register-panel"],
+  parts: [
+    "module/build-lookup",
+    "module/dropdown",
+    "module/header",
+    "module/panel-controls-created",
+    "module/register-panel",
+  ],
   invariants: [
     {
       invariantKind: "departure",
