@@ -137,10 +137,6 @@ export const repositoryIsWrittenByAChange = {
       statement: "A destination is judged only where the destination spells a name to judge.",
     },
     {
-      invariantKind: "gap",
-      statement: "A destination whose name is worked out at run time is not seen.",
-    },
-    {
       invariantKind: "departure",
       statement: "An ignored folder is named where a whole part of the path is that folder.",
     },
