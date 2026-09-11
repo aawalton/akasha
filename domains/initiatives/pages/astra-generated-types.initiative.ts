@@ -31,10 +31,5 @@ export const astraGeneratedTypes = {
       workingMemory:
         "A landing runs six writers through `change-preparing`. Four write no type: a lockfile, Swift spacing steps, source globs, a Containerfile. `type-generating` runs the generator a page type states, and `page-type` and `page-property` each state one. The sixth, `address-mapping`, writes the change runners' address maps, which are types, by hand. Porting it waits on the guard deciding whether a generator runs: `type-generating`'s reads path names and misses a change adding a change agent.",
     },
-    {
-      statement: "A calculation's return type is written from the kind its property states.",
-      workingMemory:
-        "The kind is stated twice: `holds` on the computed property page, and the second type argument of the `Work<Page, Held>` its code file exports. `Held` is free, so the compiler compares nothing and a disagreement lands. Only a reader catches it, at `pages/computing/page-computing.module.code.ts:91-103`. Of 33 calculations, 25 hold number and 8 hold text, so the kinds in use are the two a wrong return type would transpose. A check comparing the two files was weighed and not built.\n",
-    },
   ],
 } as const satisfies Initiative
