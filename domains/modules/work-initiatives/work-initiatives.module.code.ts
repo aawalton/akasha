@@ -5,6 +5,7 @@ import {
   typeSlugOf,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
 
 const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
 
@@ -42,10 +43,6 @@ function slugIn(path: string, typeSlug: string): string | null {
   const said = partedIn(path)
   if (said === null || said.sections.length > 0 || said.pageType !== typeSlug) return null
   return said.slug
-}
-
-function textIn(held: unknown): string | null {
-  return typeof held === "string" && held !== "" ? held : null
 }
 
 function intentsIn(held: unknown): readonly InitiativeIntent[] {
