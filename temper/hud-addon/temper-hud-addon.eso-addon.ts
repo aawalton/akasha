@@ -48,5 +48,4 @@ export const temperHudAddon = {
       statement: "Nothing here knows the meaning of any other add-on's field.",
     },
   ],
-  deployedCommit: "4a85db341ca7b74d2409cdb745c98028ec823a25",
 } as const satisfies EsoAddon

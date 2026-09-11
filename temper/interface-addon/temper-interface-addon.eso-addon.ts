@@ -122,5 +122,4 @@ export const temperInterfaceAddon = {
       statement: "A keybind is named after the assistant the player has unlocked.",
     },
   ],
-  deployedCommit: "784eaa07c0fb5661847d3df1be291ed4122a0c85",
 } as const satisfies EsoAddon
