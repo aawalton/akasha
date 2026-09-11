@@ -1,4 +1,4 @@
-import type { Subagent } from "../../subagent.page-type.types.ts"
+import type { Subagent } from "akasha/seat-system/subagents/subagent.page-type.types.ts"
 
 export const aranyaA09ca8024046ce2fa = {
   id: "01a08dea-d758-778d-8c9e-6bdaea2a4735",
