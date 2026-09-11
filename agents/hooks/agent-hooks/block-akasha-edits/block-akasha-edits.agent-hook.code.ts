@@ -3,7 +3,7 @@ import { parseHookPayload } from "akasha/agents/hooks/hook-answer/hook-answer.mo
 import { shownIn } from "akasha/agents/hooks/path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { dataAt, dataIn } from "akasha/files/data-place/data-place.module.code.ts"
+import { INDEX_AT, indexIn } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import { stringAt } from "akasha/utils/narrow/string-at/string-at.module.code.ts"
 
@@ -65,7 +65,7 @@ export type Guarded = {
 }
 
 export function guardedIn(root: string): Guarded {
-  return { pages: settled(root), index: settled(dataIn(root)) }
+  return { pages: settled(root), index: settled(indexIn(root)) }
 }
 
 export function askedIn(raw: string): Asked | null {
@@ -138,7 +138,7 @@ function refusingPages(toolName: string, shown: string): string {
 function refusingIndex(toolName: string, shown: string): string {
   return [
     `${HOOK_NAME}: ${toolName} lands on \`${shown}\`, inside the akasha index.`,
-    `\`${dataAt()}\` holds the index, and is guarded as the rest of the checkout is.`,
+    `\`${INDEX_AT}\` holds the index, and is guarded as the rest of the checkout is.`,
     "The pages and the index are two halves of one store, so a hand-written index puts",
     "them out of step. Rebuild it instead:",
     "",

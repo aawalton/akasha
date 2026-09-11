@@ -17,7 +17,7 @@ export const blockAkashaEdits = {
     },
     {
       invariantKind: "departure",
-      statement: "The guarded roots are the akasha folder and `.git/data`.",
+      statement: "The guarded roots are the akasha folder and `.git/indexes`.",
     },
     {
       invariantKind: "departure",

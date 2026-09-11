@@ -10,6 +10,7 @@ import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { dataAt } from "akasha/files/data-place/data-place.module.code.ts"
+import { INDEX_AT } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const HERE = rootOf(import.meta.path)
@@ -96,15 +97,15 @@ test("a temp file outside the guarded roots is written as usual", () => {
   expect(refusalFor(asking("Write", "/var/tmp/held.new", "/var/tmp"), root, root)).toBeNull()
 })
 
-test("a path under `.git/data` is refused, and names the one repair", () => {
+test("a path under the index is refused, and names the one repair", () => {
   const root = repo()
-  const said = judged(root, dataAt("index", "path", "one.jsonl"))
+  const said = judged(root, join(INDEX_AT, "path", "one.jsonl"))
   expect(said).toContain("inside the akasha index")
   expect(said).toContain("akasha index refresh")
-  expect(said).toContain(`\`${dataAt()}\` holds the index`)
+  expect(said).toContain(`\`${INDEX_AT}\` holds the index`)
 })
 
-test("`.git` outside `.git/data` is refused as the checkout rather than as the index", () => {
+test("`.git` outside the index is refused as the checkout rather than as the index", () => {
   const root = repo()
   const said = judged(root, join(".git", "config"))
   expect(said).toContain("inside this checkout")
