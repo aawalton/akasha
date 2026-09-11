@@ -30,4 +30,5 @@ export const smilingjennyWeb = {
     "type-declaration/jenny-capacitor-globals",
     "app-routes/smilingjenny-web-routes",
   ],
+  toolReached: ["react-dom"],
 } as const satisfies RouterApp
