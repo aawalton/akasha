@@ -10,13 +10,13 @@ import type {
 
 const DEFAULT_SEPARATOR = " > "
 
-type PathSegment = string | number
+export type PathSegment = string | number
 
 function isPathSegment(value: unknown): value is PathSegment {
   return typeof value === "string" || typeof value === "number"
 }
 
-function getValueArray(value: PropertyValue): readonly PathSegment[] {
+export function getValueArray(value: PropertyValue): readonly PathSegment[] {
   if (!Array.isArray(value)) return []
   return value.filter(isPathSegment)
 }
