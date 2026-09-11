@@ -7,7 +7,6 @@ export const astraIndexCleanup = {
   domain: "domain/index",
   persona: "astra",
   intents: [
-    { statement: "Alan holds the declaring index's structure correct." },
     { statement: "Alan holds the value index's structure correct." },
     { statement: "Alan holds the path index's structure correct." },
     { statement: "Alan holds the listing index's structure correct." },
