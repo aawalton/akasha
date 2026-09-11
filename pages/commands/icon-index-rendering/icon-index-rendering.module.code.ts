@@ -170,7 +170,6 @@ export function pageBody(root: string, slug: string, definition: string): string
     "",
     `export const ${kebabToCamel(slug)} = {`,
     `  id: ${JSON.stringify(idFor(root, slug))},`,
-    `  pageTypeSlug: ${typeSlug},`,
     `  type: ${typeSlug},`,
     `  slug: ${JSON.stringify(slug)},`,
     `  definition: ${JSON.stringify(definition)},`,

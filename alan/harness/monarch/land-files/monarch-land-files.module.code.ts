@@ -148,7 +148,6 @@ function monthPage(slug: string): string {
     "",
     `export const ${exportedAs(slug)} = {`,
     `  id: "${Bun.randomUUIDv7()}",`,
-    `  pageTypeSlug: "${typeSlug}",`,
     `  type: "${typeSlug}",`,
     `  slug: "${slug}",`,
     `  title: ${JSON.stringify(name)},`,

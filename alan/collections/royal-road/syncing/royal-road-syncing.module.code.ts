@@ -245,7 +245,7 @@ export function restatedStory(story: Story, values: Value): Filed {
   const composed = composedFor(ROOT, {
     pageTypeSlug: STORY_PAGE_TYPE,
     slug: story.slug,
-    values: { ...values, pageTypeSlug: STORY_PAGE_TYPE, slug: story.slug },
+    values: { ...values, slug: story.slug },
     merge: true,
   })
   if ("refused" in composed) {

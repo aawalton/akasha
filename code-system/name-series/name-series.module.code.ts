@@ -140,7 +140,6 @@ function renderPageFile(root: string, spec: SeriesSpec, slug: string, definition
       "",
       `export const ${kebabToCamel(slug)} = {`,
       `  id: ${JSON.stringify(pageIdFor(root, spec, slug))},`,
-      `  pageTypeSlug: ${typeSlug},`,
       `  type: ${typeSlug},`,
       `  slug: ${JSON.stringify(slug)},`,
       `  definition: ${JSON.stringify(definition)},`,

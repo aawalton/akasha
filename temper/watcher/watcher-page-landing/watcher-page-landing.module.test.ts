@@ -98,7 +98,7 @@ test("a page body is the body the hour landing writes, byte for byte", () => {
       ]
     )
   ).toBe(
-    'import type { TemperNetWorthHour } from "akasha/temper/holdings-sets/probe-hours/temper-net-worth-hour.page-type.types.ts"\n\nexport const hour2026042914 = {\n  id: "01a06009-4775-7004-82c8-ee74889a2ada",\n  pageTypeSlug: "temper-net-worth-hour",\n  type: "temper-net-worth-hour",\n  slug: "hour-2026-04-29-14",\n  title: "2026-04-29 14:00 UTC",\n  snapshots: "jsonl",\n} as const satisfies TemperNetWorthHour\n'
+    'import type { TemperNetWorthHour } from "akasha/temper/holdings-sets/probe-hours/temper-net-worth-hour.page-type.types.ts"\n\nexport const hour2026042914 = {\n  id: "01a06009-4775-7004-82c8-ee74889a2ada",\n  type: "temper-net-worth-hour",\n  slug: "hour-2026-04-29-14",\n  title: "2026-04-29 14:00 UTC",\n  snapshots: "jsonl",\n} as const satisfies TemperNetWorthHour\n'
   )
 })
 
@@ -110,7 +110,7 @@ test("a page body is the body the task landing writes, byte for byte", () => {
       ["progress", "jsonl"],
     ])
   ).toBe(
-    'import type { TemperTask } from "akasha/temper/progressions/probe-tasks/temper-task.page-type.types.ts"\n\nexport const hirelingMails = {\n  id: "01a05fe3-09ca-7e72-8b3e-e6b34e0d2978",\n  pageTypeSlug: "temper-task",\n  type: "temper-task",\n  slug: "hireling-mails",\n  title: "Hireling Mails",\n  dueDate: "2026-03-05",\n  progress: "jsonl",\n} as const satisfies TemperTask\n'
+    'import type { TemperTask } from "akasha/temper/progressions/probe-tasks/temper-task.page-type.types.ts"\n\nexport const hirelingMails = {\n  id: "01a05fe3-09ca-7e72-8b3e-e6b34e0d2978",\n  type: "temper-task",\n  slug: "hireling-mails",\n  title: "Hireling Mails",\n  dueDate: "2026-03-05",\n  progress: "jsonl",\n} as const satisfies TemperTask\n'
   )
 })
 

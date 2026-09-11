@@ -73,7 +73,6 @@ describe("accountPageText", () => {
 
 export const cSeven = {
   id: "01a06400-0000-7000-8000-000000000000",
-  pageTypeSlug: "claude-account",
   type: "claude-account",
   slug: "c-seven",
   email: "seven@example.com",
