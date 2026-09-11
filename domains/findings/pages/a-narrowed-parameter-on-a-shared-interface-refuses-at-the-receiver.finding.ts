@@ -1,10 +1,10 @@
 import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
-export const augmentingASharedInterfaceIsSafeOnlyForFactsAboutTheGame = {
+export const aNarrowedParameterOnASharedInterfaceRefusesAtTheReceiver = {
   id: "01a061fa-c48f-7801-8b15-d717a2bcadd4",
   pageTypeSlug: "finding",
   type: "finding",
-  slug: "augmenting-a-shared-interface-is-safe-only-for-facts-about-the-game",
+  slug: "a-narrowed-parameter-on-a-shared-interface-refuses-at-the-receiver",
   domain: "domain/check",
   claim:
     "`CreateControl` is redeclared on the shared `Control` interface with a narrower parameter. A narrowed parameter fails contravariantly, so it surfaces as a missing property at the receiver rather than as a conflict where it is written, and the receivers are `CtControl` and `CtLabel`. Whether the diagnostics that raises are still open is unmeasured, because measuring it needs a typecheck over temper. Open beside it: the check after `no-global-in-a-module` has to refuse on whose type a member names and rank on what kind of member it is, because neither half alone catches all three shapes.",
