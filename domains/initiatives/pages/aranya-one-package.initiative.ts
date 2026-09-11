@@ -33,7 +33,7 @@ export const aranyaOnePackage = {
     {
       statement: "No folder but the root is a workspace package.",
       workingMemory:
-        "No tool walks up: react-router and Capacitor take process.cwd(). Five manifests are left. The three ios-apps wait on the mac build installing at the root. ops-extension can still go: extensionsScannerService hardcodes `package.json` in three places, but only in the folder it scans, and that folder is one we make at linkedAt, so composing the manifest there, outside the repo, needs no fork patch. vscode-typings goes once the IDE has another route to the vscode types.\n",
+        "Four manifests are left. ops-extension is gone: the editor link points at the repository root, so the root manifest is the extension manifest and the id is now vscode.akasha, proved by an activation in the exthost log. The three ios-apps wait on the mac build installing at the root. vscode-typings goes once the IDE has another route to the vscode types. linked-at is declared on workspace-package rather than domain, so the root page cannot yet state it.\n",
     },
     {
       statement: "A cluster service deploys naming no package but the root.",
