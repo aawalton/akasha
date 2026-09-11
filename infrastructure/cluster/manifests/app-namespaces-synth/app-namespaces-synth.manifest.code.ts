@@ -1,12 +1,6 @@
 import { synthMulti } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 
-export const NAMESPACE_NAMES = [
-  "alanwalton",
-  "archive-of-worlds",
-  "audhdalan",
-  "collections",
-  "temper",
-] as const
+export const NAMESPACE_NAMES = ["alanwalton", "archive-of-worlds", "audhdalan", "temper"] as const
 
 function namespacesYaml(): string {
   return synthMulti("app-namespaces", [
@@ -45,19 +39,6 @@ function namespacesYaml(): string {
           name: "audhdalan",
           labels: {
             "kubernetes.io/metadata.name": "audhdalan",
-          },
-        },
-      },
-    },
-    {
-      id: "collections",
-      manifest: {
-        apiVersion: "v1",
-        kind: "Namespace",
-        metadata: {
-          name: "collections",
-          labels: {
-            "kubernetes.io/metadata.name": "collections",
           },
         },
       },
