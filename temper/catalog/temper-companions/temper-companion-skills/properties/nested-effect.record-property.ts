@@ -20,7 +20,7 @@ export const nestedEffect = {
     },
     { pageProperty: "text-property/damage-type", required: false, many: false },
     { pageProperty: "number-property/duration", required: false, many: false },
-    { pageProperty: "record-property/nested-effect", required: false, many: false },
+    { pageProperty: "one-of-property/carried-effect", required: false, many: false },
   ],
   invariants: [
     {

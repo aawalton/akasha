@@ -1,3 +1,4 @@
+import type { CarriedEffect } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/carried-effect.one-of-property.types.ts"
 import type { Duration } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/duration.number-property.types.ts"
 import type { EffectConditions } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/effect-conditions.record-property.types.ts"
 import type { EffectFormula } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/effect-formula.record-property.types.ts"
@@ -14,5 +15,5 @@ export type NestedEffect = {
   conditions?: EffectConditions
   damageType?: DamageType
   duration?: Duration
-  effect?: NestedEffect
+  effect?: CarriedEffect
 }
