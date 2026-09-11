@@ -1,4 +1,4 @@
-import type { EsoAddon } from "akasha/code-system/eso-addons/eso-addon.page-type.types.ts"
+import type { EsoAddon } from "akasha/code/eso-addons/eso-addon.page-type.types.ts"
 
 export const temperLibSlashCommander = {
   id: "01a06066-8400-790c-a2ed-5c212c9cdab7",

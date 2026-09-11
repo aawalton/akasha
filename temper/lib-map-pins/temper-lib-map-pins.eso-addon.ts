@@ -1,4 +1,4 @@
-import type { EsoAddon } from "akasha/code-system/eso-addons/eso-addon.page-type.types.ts"
+import type { EsoAddon } from "akasha/code/eso-addons/eso-addon.page-type.types.ts"
 
 export const temperLibMapPins = {
   id: "01a06062-57dc-7eeb-bb3d-6badd05f9bf5",

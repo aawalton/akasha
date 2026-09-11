@@ -1,4 +1,4 @@
-import type { EsoAddon } from "akasha/code-system/eso-addons/eso-addon.page-type.types.ts"
+import type { EsoAddon } from "akasha/code/eso-addons/eso-addon.page-type.types.ts"
 
 export const temperLibDebugLogger = {
   id: "01a06061-408b-7657-add9-d2dfd959f9b9",
