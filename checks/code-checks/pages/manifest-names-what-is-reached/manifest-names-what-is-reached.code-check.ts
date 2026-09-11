@@ -55,10 +55,6 @@ export const manifestNamesWhatIsReached = {
       statement: "A stylesheet's reach credits a dependency rather than refusing the stylesheet.",
     },
     {
-      invariantKind: "gap",
-      statement: "A stylesheet is read by a parser rather than by a scan.",
-    },
-    {
       invariantKind: "absence",
       statement: "A specifier spelt inside a string a body has reaches nothing.",
     },
