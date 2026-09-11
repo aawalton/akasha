@@ -1,0 +1,110 @@
+import {
+  type Judged,
+  runningOf,
+} from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+
+export const CASES = "--cases"
+
+export const BROKEN = "--broken"
+
+export const JSON_OUT = "--json"
+
+const UNREACHED = "unreached"
+
+export type Read =
+  | {
+      readonly test: string
+      readonly from: string | null
+      readonly on: ReadonlySet<string>
+    }
+  | { readonly refused: readonly string[] }
+
+export function readIn(argv: readonly string[]): Read {
+  const refusals: string[] = []
+  const on = new Set<string>()
+  let test: string | null = null
+  let from: string | null = null
+  for (let at = 0; at < argv.length; at += 1) {
+    const one = argv[at]
+    if (one === undefined) continue
+    if (one === CASES) {
+      const said = argv[at + 1]
+      if (said === undefined || said.startsWith("-")) {
+        refusals.push(`\`${CASES}\` takes the test whose cases are used, and none was named`)
+        return { refused: refusals }
+      }
+      from = said
+      at += 1
+      continue
+    }
+    if (one === BROKEN || one === JSON_OUT) {
+      on.add(one)
+      continue
+    }
+    if (one.startsWith("-")) {
+      refusals.push(`\`${one}\` is no flag a run takes — it takes ${CASES}, ${BROKEN}, ${JSON_OUT}`)
+      continue
+    }
+    if (test !== null) {
+      refusals.push(`\`${one}\` is a second test, and a run scores one test`)
+      continue
+    }
+    test = one
+  }
+  if (test === null) refusals.push("a run takes the test to score, and none was named")
+  if (refusals.length > 0 || test === null) return { refused: refusals }
+  return { test, from, on }
+}
+
+export function rowOf(judged: Judged): string {
+  const kept = judged.kept ? "kept" : "broke"
+  const got = judged.reached ? judged.got.trim().replace(/\s+/g, " ") : UNREACHED
+  return [kept, judged.one.against ?? "", judged.one.answer, got, judged.one.statement].join("\t")
+}
+
+export function scoreOf(every: readonly Judged[]): string {
+  return `kept\t${every.filter((one) => one.kept).length} of ${every.length}`
+}
+
+function showing(every: readonly Judged[], on: ReadonlySet<string>): Answer {
+  const shown = on.has(BROKEN) ? every.filter((one) => !one.kept) : every
+  const broken = every.filter((one) => !one.kept).length
+  if (on.has(JSON_OUT)) {
+    return {
+      report: [
+        JSON.stringify({
+          ok: broken === 0,
+          kept: every.length - broken,
+          of: every.length,
+          cases: shown.map((one) => ({
+            id: one.one.id,
+            against: one.one.against ?? null,
+            answer: one.one.answer,
+            got: one.reached ? one.got : null,
+            kept: one.kept,
+            statement: one.one.statement,
+          })),
+        }),
+      ],
+      refusals: [],
+      code: broken === 0 ? 0 : 1,
+    }
+  }
+  return {
+    report: [...shown.map(rowOf), scoreOf(every)],
+    refusals: [],
+    code: broken === 0 ? 0 : 1,
+  }
+}
+
+export async function modelTest(argv: readonly string[], given: Given): Promise<Answer> {
+  const read = readIn(argv)
+  if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
+  try {
+    return showing(await runningOf(given.root, read.test, read.from ?? read.test), read.on)
+  } catch (thrown) {
+    return { report: [], refusals: [whyOf(thrown)], code: 3 }
+  }
+}
