@@ -14,12 +14,16 @@ export const shellScript = {
     "shell-script/statusline",
     "service-workstation/repos-empty-dir-purge",
     "module-property-group/scripting",
+    "text-property/install-path",
+    "select-property/only-on",
   ],
   extends: ["page-type/domain"],
   properties: [
     { pageProperty: "code-file-property/shell", required: true, many: false },
     { pageProperty: "boolean-property/sourced", required: true, many: false },
     { pageProperty: "module-property-group/scripting", required: false, many: false },
+    { pageProperty: "text-property/install-path", required: false, many: false },
+    { pageProperty: "select-property/only-on", required: false, many: false },
   ],
   invariants: [
     {

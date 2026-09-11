@@ -8,4 +8,6 @@ export const wallpaperBlack = {
   definition: "every desktop's wallpaper turned black and turned back",
   shell: "sh",
   sourced: false,
+  installPath: "~/.local/bin/wallpaper-black",
+  onlyOn: "linux",
 } as const satisfies ShellScript

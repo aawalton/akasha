@@ -30,4 +30,6 @@ export const akashaLauncher = {
       statement: "A run with that name unset carries no profiling flag.",
     },
   ],
+  installPath: "~/.local/bin/akasha",
+  onlyOn: "any",
 } as const satisfies ShellScript

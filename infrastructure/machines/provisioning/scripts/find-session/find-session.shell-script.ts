@@ -8,4 +8,6 @@ export const findSession = {
   definition: "the transcript file a session id or its prefix names",
   shell: "sh",
   sourced: false,
+  installPath: "~/.local/bin/find-session",
+  onlyOn: "any",
 } as const satisfies ShellScript

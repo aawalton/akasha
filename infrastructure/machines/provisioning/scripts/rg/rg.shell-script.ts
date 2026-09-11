@@ -8,4 +8,6 @@ export const rg = {
   definition: "ripgrep reached without a socket on its input",
   shell: "sh",
   sourced: false,
+  installPath: "~/.local/bin/rg",
+  onlyOn: "any",
 } as const satisfies ShellScript

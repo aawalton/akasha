@@ -9,4 +9,6 @@ export const ciCostSnapshot = {
   shell: "sh",
   sourced: false,
   scripting: {},
+  installPath: "~/.local/bin/ci-cost-snapshot",
+  onlyOn: "any",
 } as const satisfies ShellScript
