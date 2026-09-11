@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedVaultPoisonDamage = {
   id: "019e6471-15f2-7166-97a0-626767b001d8",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-vault-poison-damage",
   title: "Venomous Vault",

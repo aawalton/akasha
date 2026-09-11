@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedSmashPhysicalDamage = {
   id: "019e6471-15bf-78a6-a27d-ba04ff92a4a2",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-smash-physical-damage",
   title: "Sundering Smash",

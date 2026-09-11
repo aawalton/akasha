@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const unbreakableFate186477 = {
   id: "019e6f53-a875-71d9-937f-310c10bd1bb0",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "unbreakable-fate-186477",
   title: "Unbreakable Fate",

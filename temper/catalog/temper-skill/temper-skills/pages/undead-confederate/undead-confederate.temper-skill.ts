@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const undeadConfederate = {
   id: "019e6245-a758-7d67-b855-19bd0dba40c2",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "undead-confederate",
   title: "Undead Confederate",

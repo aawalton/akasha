@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const uppercut = {
   id: "019e6f53-a89f-7a0c-932b-87149e6a03db",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "uppercut",
   title: "Uppercut",

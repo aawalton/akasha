@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const unstoppableBrute = {
   id: "019e6238-c32c-7033-874d-6e5743112f56",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "unstoppable-brute",
   title: "Unstoppable Brute",

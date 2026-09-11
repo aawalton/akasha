@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedTravelingKnifePull = {
   id: "019e6471-15e2-7420-a2ef-ab24fa489416",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-traveling-knife-pull",
   title: "Leashing Knife",

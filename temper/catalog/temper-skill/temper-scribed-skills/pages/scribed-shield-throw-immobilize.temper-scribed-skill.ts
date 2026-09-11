@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedShieldThrowImmobilize = {
   id: "019e6471-15b4-78ce-8427-ae502fc45e63",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-shield-throw-immobilize",
   title: "Binding Throw",

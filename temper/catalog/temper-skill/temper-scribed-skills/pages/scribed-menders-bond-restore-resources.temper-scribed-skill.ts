@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedMendersBondRestoreResources = {
   id: "019e6471-15b2-7aab-b278-4d90fd0cb75e",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-menders-bond-restore-resources",
   title: "Restorative Bond",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const spearWall = {
   id: "019e6245-a73e-7310-b09d-48560670abaa",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "spear-wall",
   title: "Spear Wall",

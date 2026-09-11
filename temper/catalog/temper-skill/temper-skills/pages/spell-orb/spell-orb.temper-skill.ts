@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const spellOrb = {
   id: "019e6238-c316-7ca4-a446-558788acf1a4",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "spell-orb",
   title: "Spell Orb",

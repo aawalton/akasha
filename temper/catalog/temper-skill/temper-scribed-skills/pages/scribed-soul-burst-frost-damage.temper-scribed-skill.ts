@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedSoulBurstFrostDamage = {
   id: "019e6471-15c6-7d81-9a7b-3aab3134ac11",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-soul-burst-frost-damage",
   title: "Chilling Burst",

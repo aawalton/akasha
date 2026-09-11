@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const winterSRevenge = {
   id: "019e6f53-a9f6-7ae8-978c-c6f46197a3c6",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "winter-s-revenge",
   title: "Winter's Revenge",

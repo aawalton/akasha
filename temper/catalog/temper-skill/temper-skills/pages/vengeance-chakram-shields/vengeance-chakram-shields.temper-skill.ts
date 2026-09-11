@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceChakramShields = {
   id: "019e6f53-a8d1-7b99-988a-e2ebb01f8eb8",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-chakram-shields",
   title: "Vengeance Chakram Shields",

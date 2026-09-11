@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedTravelingKnifeStun = {
   id: "019e6471-15e3-75cb-8962-44bbb56c3b86",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-traveling-knife-stun",
   title: "Dazing Knife",

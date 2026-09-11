@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceNatureSGrasp = {
   id: "019e6f53-a943-70c7-a90a-e895ad1f133c",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-nature-s-grasp",
   title: "Vengeance Nature's Grasp",

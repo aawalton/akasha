@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const steelTornado38861 = {
   id: "019e6f53-a7ba-799e-a839-ee3e0ca046a0",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "steel-tornado-38861",
   title: "Steel Tornado",

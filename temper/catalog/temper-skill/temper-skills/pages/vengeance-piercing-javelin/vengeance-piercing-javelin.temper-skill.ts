@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeancePiercingJavelin = {
   id: "019e6f53-a951-76ee-beb2-af401d98185c",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-piercing-javelin",
   title: "Vengeance Piercing Javelin",

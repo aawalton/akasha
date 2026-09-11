@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const swiftlyForgotten = {
   id: "019e6238-c31d-70de-9cca-3efb9b907a49",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "swiftly-forgotten",
   title: "Swiftly Forgotten",

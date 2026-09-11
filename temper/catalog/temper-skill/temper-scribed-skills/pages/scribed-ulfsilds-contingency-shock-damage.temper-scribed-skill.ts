@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedUlfsildsContingencyShockDamage = {
   id: "019e6471-15eb-7cd9-9934-644683af8f97",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-ulfsilds-contingency-shock-damage",
   title: "Shocking Contingency",

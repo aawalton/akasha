@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceConjuredWard = {
   id: "019e6f53-a8d8-76d9-b873-36d83e3832fb",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-conjured-ward",
   title: "Vengeance Conjured Ward",

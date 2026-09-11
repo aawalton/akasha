@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedSmashTaunt = {
   id: "019e6471-15c2-740a-b681-09445b01a07b",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-smash-taunt",
   title: "Goading Smash",

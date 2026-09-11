@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const undauntedCommand = {
   id: "019e6238-c328-78c6-9ff4-12421f8ce619",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "undaunted-command",
   title: "Undaunted Command",

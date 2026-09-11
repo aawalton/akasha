@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceEarthspikeMantle = {
   id: "019e6f53-a8f8-7a90-a46a-f2be9bcb2f17",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-earthspike-mantle",
   title: "Vengeance Earthspike Mantle",

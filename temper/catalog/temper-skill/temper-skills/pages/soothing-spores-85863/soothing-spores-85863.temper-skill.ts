@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const soothingSpores85863 = {
   id: "019e6f53-a75a-7cb2-b546-87d1081a8d3f",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "soothing-spores-85863",
   title: "Soothing Spores",

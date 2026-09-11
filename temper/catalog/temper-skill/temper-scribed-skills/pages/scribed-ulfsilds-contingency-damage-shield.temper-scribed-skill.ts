@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedUlfsildsContingencyDamageShield = {
   id: "019e6471-15e5-7491-b86f-978f1f230426",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-ulfsilds-contingency-damage-shield",
   title: "Warding Contingency",

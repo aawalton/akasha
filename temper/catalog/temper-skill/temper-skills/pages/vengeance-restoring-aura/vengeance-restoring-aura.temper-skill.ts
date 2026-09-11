@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceRestoringAura = {
   id: "019e6f53-a965-75a2-8731-7d5ddc9d09a9",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-restoring-aura",
   title: "Vengeance Restoring Aura",

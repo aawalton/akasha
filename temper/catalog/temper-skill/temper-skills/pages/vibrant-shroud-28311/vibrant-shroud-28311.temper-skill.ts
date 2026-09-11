@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vibrantShroud28311 = {
   id: "019e6f53-a9c2-7f83-aefe-4da3ade87974",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vibrant-shroud-28311",
   title: "Vibrant Shroud",

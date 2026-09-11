@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceApocryphalGate = {
   id: "019e6f53-a8af-7e35-b7c1-37a9812e054e",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-apocryphal-gate",
   title: "Vengeance Apocryphal Gate",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceFrozenColossus = {
   id: "019e6f53-a916-7779-8e4c-2ffaa54fa23f",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-frozen-colossus",
   title: "Vengeance Frozen Colossus",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const subterraneanAssault86019 = {
   id: "019e6f53-a7d7-764f-a5f5-b693fc38f3b5",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "subterranean-assault-86019",
   title: "Subterranean Assault",

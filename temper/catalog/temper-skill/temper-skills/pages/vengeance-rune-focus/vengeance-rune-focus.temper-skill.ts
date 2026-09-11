@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceRuneFocus = {
   id: "019e6f53-a96c-7782-8942-a68dbc71904f",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-rune-focus",
   title: "Vengeance Rune Focus",

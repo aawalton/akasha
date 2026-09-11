@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const volcanicWard = {
   id: "019e6245-a766-73e5-834e-a9a10a99f219",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "volcanic-ward",
   title: "Volcanic Ward",

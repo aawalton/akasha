@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const spellRecharge35993 = {
   id: "019e6f53-a790-7a27-89e8-5939af2e0c03",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "spell-recharge-35993",
   title: "Spell Recharge",

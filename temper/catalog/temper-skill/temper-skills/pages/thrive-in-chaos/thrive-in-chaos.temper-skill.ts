@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const thriveInChaos = {
   id: "019e6226-0119-79f0-abb9-d482c8099882",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "thrive-in-chaos",
   title: "Thrive in Chaos",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceGrimFocus = {
   id: "019e6f53-a91e-7f5d-8081-687138717d61",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-grim-focus",
   title: "Vengeance Grim Focus",

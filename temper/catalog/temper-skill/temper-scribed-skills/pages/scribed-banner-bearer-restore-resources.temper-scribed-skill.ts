@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedBannerBearerRestoreResources = {
   id: "019e6471-159f-7589-8387-0ebe410bb8a3",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-banner-bearer-restore-resources",
   title: "Restorative Banner",

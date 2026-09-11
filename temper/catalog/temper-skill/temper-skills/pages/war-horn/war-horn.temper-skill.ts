@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const warHorn = {
   id: "019e6f53-a9d3-7e3d-ae39-e881df124486",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "war-horn",
   title: "War Horn",

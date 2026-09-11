@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const veilOfBlades = {
   id: "019e6245-a760-705f-83ed-85937e8ddbbc",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "veil-of-blades",
   title: "Veil of Blades",

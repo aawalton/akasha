@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const trowel = {
   id: "019e6251-4cfa-774c-95d8-9661b2e3482d",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "trowel",
   title: "Trowel",

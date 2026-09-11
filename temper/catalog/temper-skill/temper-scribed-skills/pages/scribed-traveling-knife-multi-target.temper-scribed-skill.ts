@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedTravelingKnifeMultiTarget = {
   id: "019e6471-15df-7596-9c06-02ab44ba7578",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-traveling-knife-multi-target",
   title: "Shattering Knife",

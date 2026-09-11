@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceAnnulment = {
   id: "019e6f53-a8ae-76ef-b58a-88cbbd0565b1",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-annulment",
   title: "Vengeance Annulment",

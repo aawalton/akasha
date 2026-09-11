@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceRadialSweep = {
   id: "019e6f53-a959-7e58-bfa5-c815fed44038",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-radial-sweep",
   title: "Vengeance Radial Sweep",

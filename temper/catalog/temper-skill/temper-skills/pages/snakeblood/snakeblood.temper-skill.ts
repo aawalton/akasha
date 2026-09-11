@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const snakeblood = {
   id: "019e6224-ccae-70d5-9930-f5a3a34b2ef5",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "snakeblood",
   title: "Snakeblood",

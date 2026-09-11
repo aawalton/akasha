@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const tanninExpertise = {
   id: "019e6224-ccb2-760b-823a-deef5566640f",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "tannin-expertise",
   title: "Tannin Expertise",

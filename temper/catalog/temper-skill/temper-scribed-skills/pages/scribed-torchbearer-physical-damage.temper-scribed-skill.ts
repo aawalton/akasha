@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedTorchbearerPhysicalDamage = {
   id: "019e6471-15d3-72b1-a018-b801c227b835",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-torchbearer-physical-damage",
   title: "Sundering Torch",

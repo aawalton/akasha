@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const veiledStrike = {
   id: "019e6f53-a8ab-77ce-8edf-e178c20b7184",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "veiled-strike",
   title: "Veiled Strike",

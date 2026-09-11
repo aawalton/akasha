@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const unnaturalMovement = {
   id: "019e6251-4cfc-7bd6-b686-d80dfc44c3a1",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "unnatural-movement",
   title: "Unnatural Movement",

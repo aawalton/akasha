@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const theImperfectRing = {
   id: "019e6f53-a82e-7530-bcd8-29aae940128d",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "the-imperfect-ring",
   title: "The Imperfect Ring",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceHealingSeed = {
   id: "019e6f53-a923-730d-83a6-59d1c6644fb8",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-healing-seed",
   title: "Vengeance Healing Seed",

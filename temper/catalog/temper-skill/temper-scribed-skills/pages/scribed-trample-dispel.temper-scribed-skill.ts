@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedTrampleDispel = {
   id: "019e6471-15d5-7ebc-9ebb-35e1eef27cde",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-trample-dispel",
   title: "Dispelling Trample",

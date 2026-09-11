@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const streak23236 = {
   id: "019e6f53-a7c2-7011-82fd-868a6d9982f3",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "streak-23236",
   title: "Streak",

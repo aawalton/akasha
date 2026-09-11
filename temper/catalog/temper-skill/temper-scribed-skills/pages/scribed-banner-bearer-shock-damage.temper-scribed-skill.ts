@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedBannerBearerShockDamage = {
   id: "019e6471-15a0-7bcb-b4de-3195f0ff0fd4",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-banner-bearer-shock-damage",
   title: "Shocking Banner",

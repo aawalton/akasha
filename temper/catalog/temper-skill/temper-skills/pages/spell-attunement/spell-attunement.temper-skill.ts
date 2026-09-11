@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const spellAttunement = {
   id: "019e624a-12df-7273-9f79-53de6115a3a9",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "spell-attunement",
   title: "Spell Attunement",

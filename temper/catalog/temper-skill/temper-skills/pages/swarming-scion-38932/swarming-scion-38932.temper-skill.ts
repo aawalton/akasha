@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const swarmingScion38932 = {
   id: "019e6f53-a806-79d7-a6c6-bc8f46ebe548",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "swarming-scion-38932",
   title: "Swarming Scion",

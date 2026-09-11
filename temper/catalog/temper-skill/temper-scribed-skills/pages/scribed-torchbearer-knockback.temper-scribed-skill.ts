@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedTorchbearerKnockback = {
   id: "019e6471-15d2-723a-8f9d-d9a283ec54e4",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-torchbearer-knockback",
   title: "Repelling Torch",

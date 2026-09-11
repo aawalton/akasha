@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const tentacularDread = {
   id: "019e6245-a750-74cf-919c-45d3786d3188",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "tentacular-dread",
   title: "Tentacular Dread",

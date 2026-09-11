@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const soulTether35460 = {
   id: "019e6f53-a77d-70d1-a6de-85ca196a8994",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "soul-tether-35460",
   title: "Soul Tether",

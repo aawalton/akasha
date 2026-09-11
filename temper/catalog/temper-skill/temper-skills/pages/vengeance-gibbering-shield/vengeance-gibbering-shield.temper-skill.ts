@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceGibberingShield = {
   id: "019e6f53-a91a-7b6c-a0ff-a91e612c348a",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-gibbering-shield",
   title: "Vengeance Gibbering Shield",

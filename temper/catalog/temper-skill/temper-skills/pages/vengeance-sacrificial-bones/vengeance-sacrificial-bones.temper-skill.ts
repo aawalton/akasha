@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceSacrificialBones = {
   id: "019e6f53-a978-70fd-8318-53d96b4adbb0",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-sacrificial-bones",
   title: "Vengeance Sacrificial Bones",

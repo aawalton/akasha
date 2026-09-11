@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedMendersBondImmobilize = {
   id: "019e6471-15af-7e1c-b7dd-f17a36d726cf",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-menders-bond-immobilize",
   title: "Binding Bond",

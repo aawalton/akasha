@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const temporalGuard = {
   id: "019e6238-c324-7f41-af93-e3830213820e",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "temporal-guard",
   title: "Temporal Guard",

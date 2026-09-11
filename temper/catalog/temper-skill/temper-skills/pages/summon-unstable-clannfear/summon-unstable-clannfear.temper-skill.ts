@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const summonUnstableClannfear = {
   id: "019e6245-a748-7d15-b460-9247db25c598",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "summon-unstable-clannfear",
   title: "Summon Unstable Clannfear",

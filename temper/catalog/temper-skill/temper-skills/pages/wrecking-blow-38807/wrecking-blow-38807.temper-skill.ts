@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const wreckingBlow38807 = {
   id: "019e6f53-aa04-763a-a73f-80f29cf4a4ac",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "wrecking-blow-38807",
   title: "Wrecking Blow",

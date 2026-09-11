@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedVaultImmobilize = {
   id: "019e6471-15f0-760c-8c51-b83797d8cb4c",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-vault-immobilize",
   title: "Binding Vault",

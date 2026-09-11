@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const tidalChakram = {
   id: "019e6245-a753-78e6-9c65-442c2989ea9e",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "tidal-chakram",
   title: "Tidal Chakram",

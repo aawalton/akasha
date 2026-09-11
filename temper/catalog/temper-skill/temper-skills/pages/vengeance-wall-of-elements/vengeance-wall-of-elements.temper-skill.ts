@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceWallOfElements = {
   id: "019e6f53-a9ae-7a7a-b853-8370a24db2a4",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-wall-of-elements",
   title: "Vengeance Wall of Elements",

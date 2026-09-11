@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const soulSiphoner = {
   id: "019e6245-a73c-70b5-aea6-883e3d35eae5",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "soul-siphoner",
   title: "Soul Siphoner",

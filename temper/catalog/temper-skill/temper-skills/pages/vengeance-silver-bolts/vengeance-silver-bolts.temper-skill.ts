@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceSilverBolts = {
   id: "019e6f53-a984-7ef7-a013-e47537a65c0c",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-silver-bolts",
   title: "Vengeance Silver Bolts",

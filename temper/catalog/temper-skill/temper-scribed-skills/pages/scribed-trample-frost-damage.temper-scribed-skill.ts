@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedTrampleFrostDamage = {
   id: "019e6471-15d6-7e1f-b333-6ea99cbd6e76",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-trample-frost-damage",
   title: "Chilling Trample",

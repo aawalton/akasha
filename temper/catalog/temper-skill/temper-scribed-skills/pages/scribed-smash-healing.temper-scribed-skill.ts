@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedSmashHealing = {
   id: "019e6471-15bc-7c56-8837-3ad046c333b7",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-smash-healing",
   title: "Healing Smash",

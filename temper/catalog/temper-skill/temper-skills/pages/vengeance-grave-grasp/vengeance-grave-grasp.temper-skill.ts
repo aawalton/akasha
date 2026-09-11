@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceGraveGrasp = {
   id: "019e6f53-a91d-78d8-ba5e-3772c77deef5",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-grave-grasp",
   title: "Vengeance Grave Grasp",

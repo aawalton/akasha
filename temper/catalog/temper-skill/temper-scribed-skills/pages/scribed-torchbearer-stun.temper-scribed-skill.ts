@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedTorchbearerStun = {
   id: "019e6471-15d4-715d-92f9-31e7853df28e",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-torchbearer-stun",
   title: "Dazing Torch",

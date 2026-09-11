@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const wellspringOfTheAbyss = {
   id: "019e6245-a769-7a21-a053-8299fd9c6c2b",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "wellspring-of-the-abyss",
   title: "Wellspring of the Abyss",

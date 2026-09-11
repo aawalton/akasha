@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceDeathStroke = {
   id: "019e6f53-a8e9-7687-a6cb-bd5e3a1df8fd",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-death-stroke",
   title: "Vengeance Death Stroke",

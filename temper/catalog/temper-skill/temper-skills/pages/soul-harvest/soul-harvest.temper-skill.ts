@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const soulHarvest = {
   id: "019e6245-a739-7e88-9375-971c04c9ee52",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "soul-harvest",
   title: "Soul Harvest",

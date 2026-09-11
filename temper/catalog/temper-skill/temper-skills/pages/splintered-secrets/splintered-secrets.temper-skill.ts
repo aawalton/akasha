@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const splinteredSecrets = {
   id: "019e6245-a741-75fa-be8b-dfc5706f2875",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "splintered-secrets",
   title: "Splintered Secrets",

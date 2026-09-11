@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const timeFreeze = {
   id: "019e6238-c325-7d6f-81d9-89ed208e7935",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "time-freeze",
   title: "Time Freeze",

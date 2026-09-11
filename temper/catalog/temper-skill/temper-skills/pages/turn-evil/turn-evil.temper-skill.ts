@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const turnEvil = {
   id: "019e6238-c327-799c-ba29-cfb6fc5be8fd",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "turn-evil",
   title: "Turn Evil",

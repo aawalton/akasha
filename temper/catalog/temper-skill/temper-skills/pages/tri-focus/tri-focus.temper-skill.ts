@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const triFocus = {
   id: "019e6226-011b-76c0-ad73-bc007da797cc",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "tri-focus",
   title: "Tri Focus",

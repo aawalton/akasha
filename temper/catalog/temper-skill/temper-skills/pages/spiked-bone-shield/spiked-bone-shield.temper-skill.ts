@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const spikedBoneShield = {
   id: "019e6238-c319-7733-bedd-af584a8e559a",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "spiked-bone-shield",
   title: "Spiked Bone Shield",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const surpriseAttack = {
   id: "019e6245-a74d-71df-8b2a-1692fa278e42",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "surprise-attack",
   title: "Surprise Attack",

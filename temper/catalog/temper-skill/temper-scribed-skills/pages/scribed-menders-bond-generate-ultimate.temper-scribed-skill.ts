@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedMendersBondGenerateUltimate = {
   id: "019e6471-15ae-71fb-8f1a-02628563bf2a",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-menders-bond-generate-ultimate",
   title: "Heroic Bond",

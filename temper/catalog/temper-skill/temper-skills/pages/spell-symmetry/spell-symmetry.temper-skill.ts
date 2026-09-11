@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const spellSymmetry = {
   id: "019e6238-c317-7a9c-be6e-670d7bc768cc",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "spell-symmetry",
   title: "Spell Symmetry",

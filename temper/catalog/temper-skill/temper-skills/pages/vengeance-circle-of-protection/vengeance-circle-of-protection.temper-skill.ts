@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceCircleOfProtection = {
   id: "019e6f53-a8d3-72e5-ae20-57e4422b2f1c",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-circle-of-protection",
   title: "Vengeance Circle of Protection",

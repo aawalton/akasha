@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const traumaticBurns = {
   id: "019e6f53-a85e-7d81-a520-7a6e544b9d95",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "traumatic-burns",
   title: "Traumatic Burns",

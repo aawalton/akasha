@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const standardOfMight32947 = {
   id: "019e6f53-a7b5-7c30-8df1-8715d51cfe33",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "standard-of-might-32947",
   title: "Standard of Might",

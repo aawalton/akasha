@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const tough50903 = {
   id: "019e6f53-a84e-7718-a437-1afdef525150",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "tough-50903",
   title: "Tough",

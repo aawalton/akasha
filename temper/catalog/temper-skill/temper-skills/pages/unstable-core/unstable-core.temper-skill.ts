@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const unstableCore = {
   id: "019e6245-a75d-787a-9722-36cefe64c366",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "unstable-core",
   title: "Unstable Core",

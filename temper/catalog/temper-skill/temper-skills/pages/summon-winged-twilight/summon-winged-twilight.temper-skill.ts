@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const summonWingedTwilight = {
   id: "019e6f53-a7ee-73e5-8758-a1576f9230c7",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "summon-winged-twilight",
   title: "Summon Winged Twilight",

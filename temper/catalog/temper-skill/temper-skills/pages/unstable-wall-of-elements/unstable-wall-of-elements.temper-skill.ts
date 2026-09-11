@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const unstableWallOfElements = {
   id: "019e6226-011d-71b2-bdb4-1a99379cedfa",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "unstable-wall-of-elements",
   title: "Unstable Wall of Elements",

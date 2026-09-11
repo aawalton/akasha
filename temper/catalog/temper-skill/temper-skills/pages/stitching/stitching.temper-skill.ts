@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const stitching = {
   id: "019e6224-ccaf-7da2-a062-472143fb67fb",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "stitching",
   title: "Stitching",

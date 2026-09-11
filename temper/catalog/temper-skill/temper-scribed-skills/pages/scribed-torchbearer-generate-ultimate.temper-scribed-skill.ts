@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedTorchbearerGenerateUltimate = {
   id: "019e6471-15d0-74be-a29a-c1a5e3e16824",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-torchbearer-generate-ultimate",
   title: "Heroic Torch",

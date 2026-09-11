@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedTorchbearerBleedDamage = {
   id: "019e6471-15cd-75d1-8288-7e528e26cd89",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-torchbearer-bleed-damage",
   title: "Bloody Torch",

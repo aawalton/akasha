@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const toxicBarrage = {
   id: "019e6226-011a-7864-b768-1fa3fee7242f",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "toxic-barrage",
   title: "Toxic Barrage",

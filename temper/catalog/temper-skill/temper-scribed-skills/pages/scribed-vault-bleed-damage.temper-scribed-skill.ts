@@ -2,7 +2,6 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedVaultBleedDamage = {
   id: "019e6471-15ec-7cdb-af64-48628132bf0c",
-  pageTypeSlug: "temper-scribed-skill",
   type: "temper-scribed-skill",
   slug: "scribed-vault-bleed-damage",
   title: "Bloody Vault",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const wardAlly40130 = {
   id: "019e6f53-a9d7-7c04-9c45-2e301653c062",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "ward-ally-40130",
   title: "Ward Ally",

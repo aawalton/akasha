@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceSecludedGrove = {
   id: "019e6f53-a97d-7b57-9d6e-aa3acf647132",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-secluded-grove",
   title: "Vengeance Secluded Grove",

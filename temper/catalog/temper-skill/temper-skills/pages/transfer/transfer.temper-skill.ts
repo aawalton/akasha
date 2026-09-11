@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const transfer = {
   id: "019e6245-a755-7ac1-9bc7-34e14c111f05",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "transfer",
   title: "Transfer",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const vengeanceSuperheatedWard = {
   id: "019e6f53-a999-700a-bd9d-4572a4044221",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "vengeance-superheated-ward",
   title: "Vengeance Superheated Ward",
