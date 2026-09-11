@@ -6,7 +6,7 @@ import {
   stillWorking,
   type Valued,
 } from "akasha/agents/hooks/agent-hooks/inference-hooks/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"
-import type { SubagentPage } from "akasha/seat-system/subagent-census/subagent-census.module.code.ts"
+import type { SubagentNode } from "akasha/code-system/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 
 const SEATS: readonly Valued[] = [
   { path: "one.seat.ts", value: { id: "a", person: "alan" } },
@@ -52,21 +52,21 @@ test("anything that is no list of directives reads as none", () => {
   expect(directivesIn([null, 1, "one"])).toEqual([])
 })
 
-const CHILD: readonly SubagentPage[] = [
-  { path: "one.subagent.ts", slug: "one", seatName: "amy", agentId: "a--b", seatId: "a", own: "b" },
+const CHILD: readonly SubagentNode[] = [
+  { key: "one", label: "Trace something", agentId: "b", children: [] },
 ]
 
-test("a seat a subagent page names is still working", () => {
-  expect(stillWorking(CHILD, "a", {})).toBe(true)
+test("a seat whose transcript names a subagent that has not returned is still working", () => {
+  expect(stillWorking(CHILD, {})).toBe(true)
 })
 
 test("a seat with a background command still open is still working", () => {
-  expect(stillWorking([], "a", { openShells: ["task"] })).toBe(true)
+  expect(stillWorking([], { openShells: ["task"] })).toBe(true)
 })
 
-test("a seat with no child and nothing open is not still working", () => {
-  expect(stillWorking(CHILD, "z", { openShells: [] })).toBe(false)
-  expect(stillWorking([], "a", {})).toBe(false)
+test("a seat with no subagent running and nothing open is not still working", () => {
+  expect(stillWorking([], { openShells: [] })).toBe(false)
+  expect(stillWorking([], {})).toBe(false)
 })
 
 test("the scope says what the hook does not catch", () => {

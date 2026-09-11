@@ -60,5 +60,10 @@ export const keepAlanDirectives = {
       statement:
         "A turn ending with a subagent or a background command still to report is left alone.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A subagent still to report is read from the seat's transcript rather than from a page.",
+    },
   ],
 } as const satisfies InferenceHook

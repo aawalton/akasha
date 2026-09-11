@@ -15,6 +15,10 @@ import {
   directiveKept,
 } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.code.ts"
 import { directiveKept as test } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.ts"
+import {
+  createSubagentReader,
+  type SubagentNode,
+} from "akasha/code-system/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import { seatIn } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -26,11 +30,7 @@ import {
   type TurnWorking,
   workingOf,
 } from "akasha/seat-system/seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
-import { seatsWithSubagentPage } from "akasha/seat-system/seat-pending/pending-from-files/pending-from-files.module.code.ts"
-import {
-  pagesIn,
-  type SubagentPage,
-} from "akasha/seat-system/subagent-census/subagent-census.module.code.ts"
+import { transcriptOf } from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { ran as spawned } from "akasha/utils/run/running/running.module.code.ts"
 
 const HOOK = "keep-alan-directives"
@@ -142,18 +142,23 @@ function askedOf(
   return answers as readonly string[]
 }
 
-export function stillWorking(
-  pages: readonly SubagentPage[],
-  agent: string,
-  working: TurnWorking
-): boolean {
-  return seatsWithSubagentPage(pages).has(agent) || anyLiveShell(working)
+export function stillWorking(running: readonly SubagentNode[], working: TurnWorking): boolean {
+  return running.length > 0 || anyLiveShell(working)
+}
+
+async function runningUnder(agent: string): Promise<readonly SubagentNode[]> {
+  const held = transcriptOf(agent)?.value ?? null
+  if (held === null || held === "") return []
+  try {
+    return await createSubagentReader().forSeat(agent, held)
+  } catch {
+    return []
+  }
 }
 
 export function judging(root: string, agent: string, turn: string): Answer {
   const person = personIn(valuesOfType(root, SEAT) as readonly Valued[], agent)
   if (person === null) return LET_THROUGH
-  if (stillWorking(pagesIn(root), agent, workingOf(agent))) return LET_THROUGH
   const directives = directivesIn(valuedAt(root, PERSON, person).value[DIRECTIVES])
   if (directives.length === 0) return LET_THROUGH
   const asking = directiveKept({ turn, directives })
@@ -179,6 +184,7 @@ export async function ran(): Promise<number> {
   if (payload === null || payload[ACTIVE] === true) return ASIDE
   const agent = seatIn(process.env)
   if (agent === null) return ASIDE
+  if (stillWorking(await runningUnder(agent), workingOf(agent))) return ASIDE
   const tail = readOwnTranscriptTail(agent)
   const turn = tail === null ? null : lastSaidIn(tail)
   if (turn === null) return ASIDE
