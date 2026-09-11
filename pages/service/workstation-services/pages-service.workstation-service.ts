@@ -7,6 +7,7 @@ export const pagesService = {
   slug: "pages-service",
   definition: "the service answering page queries and landing page writes",
   runs: ["bun pages/service/page-listening/page-listening.module.code.ts"],
+  starts: [{ code: "module/page-listening" }],
   enabled: true,
   port: 8787,
   binds: ["127.0.0.1", "::1", "workstation.alanwalton.ts.net"],

@@ -10,6 +10,7 @@ export const recipientResolver = {
   runs: [
     "bun seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.code.ts",
   ],
+  starts: [{ code: "module/recipient-resolver-running" }],
   enabled: true,
   systemd: {
     restartDelaySeconds: 5,

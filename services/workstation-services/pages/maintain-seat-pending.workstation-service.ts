@@ -8,6 +8,7 @@ export const maintainSeatPending = {
   definition:
     "the service keeping each seat's pending parts true between one turn end and the next",
   runs: ["bun seat-system/seat-pending/pending-maintaining/pending-maintaining.module.code.ts"],
+  starts: [{ code: "module/pending-maintaining" }],
   enabled: true,
   systemd: {
     restartDelaySeconds: 10,

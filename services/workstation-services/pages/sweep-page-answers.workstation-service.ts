@@ -7,6 +7,7 @@ export const sweepPageAnswers = {
   slug: "sweep-page-answers",
   definition: "the service taking away a kept page answer once it has been there a day",
   runs: ["bun pages/answer-sweeping/page-answer-sweeping.module.code.ts"],
+  starts: [{ code: "module/page-answer-sweeping" }],
   enabled: true,
   systemd: {
     schedule: "*-*-* *:23:00",

@@ -9,6 +9,7 @@ export const memoryReaper = {
   runs: [
     "bun seat-system/memory-reaping/memory-reaper-running/memory-reaper-running.module.code.ts",
   ],
+  starts: [{ code: "module/memory-reaper-running" }],
   enabled: true,
   systemd: {
     restartDelaySeconds: 5,

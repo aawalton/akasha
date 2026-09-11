@@ -9,6 +9,7 @@ export const sweepSupervisorLogs = {
   runs: [
     "bun seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.code.ts --remove",
   ],
+  starts: [{ code: "module/supervisor-log-sweeping", arguments: ["--remove"] }],
   enabled: true,
   systemd: {
     schedule: "daily",
