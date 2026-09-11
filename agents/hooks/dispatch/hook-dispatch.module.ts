@@ -63,6 +63,38 @@ export const hookDispatch = {
       statement: "The checkout is found from this file's real path rather than from the link's.",
     },
     {
+      invariantKind: "departure",
+      statement: "What each hook's run cost is appended beside that hook's own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The high-water mark is forgotten once for the call rather than once per hook.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One hook's reading is the reading the next hook's cost is taken from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The processor time counted is the child's, which is the hook's whole run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The memory counted is this process's, which the hooks before left as they did.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every hook run for one call has one run id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A hook that refused is recorded as a run with one refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cost that could not be recorded leaves the call as the call was.",
+    },
+    {
       invariantKind: "absence",
       statement: "No rule any hook judges by is known here.",
     },

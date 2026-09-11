@@ -11,6 +11,13 @@ import {
   said,
 } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import { linksMade } from "akasha/agents/hooks/links/hook-links.module.code.ts"
+import {
+  type Cost,
+  closing,
+  costOf,
+  opening,
+  recordCost,
+} from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -44,7 +51,7 @@ const BLOCKED = 2
 
 export type Valued = { readonly path: string; readonly value: Record<string, unknown> }
 
-export type Held = { readonly slug: string; readonly at: string }
+export type Held = { readonly slug: string; readonly at: string; readonly page: string }
 
 export type Ran = { readonly code: number; readonly out: string; readonly err: string }
 
@@ -79,7 +86,7 @@ export function heldFor(
     if (typeof slug !== "string" || beside === null) {
       throw new Error(`\`${one.path}\` is an agent hook naming no code a dispatch could run`)
     }
-    found.push({ slug, at: beside })
+    found.push({ slug, at: beside, page: one.path })
   }
   return [...found].sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }
@@ -130,6 +137,12 @@ async function ranAt(at: string, payload: string): Promise<Ran> {
   return { code: await child.exited, out, err }
 }
 
+function costKept(root: string, page: string, cost: Cost): undefined {
+  try {
+    recordCost(root, page, cost)
+  } catch {}
+}
+
 async function answerFor(root: string, payload: Record<string, unknown>): Promise<Answer> {
   const listed = hooksIn(root)
   if (listed.length === 0) {
@@ -142,12 +155,18 @@ async function answerFor(root: string, payload: Record<string, unknown>): Promis
   }
   let carried = payload
   let rewrote = false
+  const runId = Bun.randomUUIDv7()
+  let before = opening()
   for (const one of heldFor(listed, event, textAt(payload, TOOL))) {
     const at = join(root, one.at)
     if (!existsSync(at)) {
       return refusing(`${HOOK}: \`${one.slug}\` names \`${one.at}\`, and nothing is there to run`)
     }
     const answered = await ranAt(at, JSON.stringify(carried))
+    const after = closing()
+    const refusals = answered.code === BLOCKED ? 1 : 0
+    costKept(root, one.page, costOf(before, after, runId, event, one.slug, 0, refusals))
+    before = after
     if (answered.code === BLOCKED) return refusing(reasonIn(answered))
     if (answered.code !== ASIDE) {
       return refusing(
