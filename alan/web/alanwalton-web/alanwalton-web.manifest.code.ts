@@ -1,5 +1,7 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
+import { webServiceYaml } from "akasha/infrastructure/cluster/k8s-types/k8s-web-service/k8s-web-service.module.code.ts"
+import { synthWebDeploymentService } from "akasha/infrastructure/cluster/k8s-types/manifest-composing/manifest-composing.module.code.ts"
 import {
   orchestratorCacheChownInitContainer,
   orchestratorCacheInitContainer,
@@ -199,19 +201,6 @@ function webDeploymentYaml(): string {
   })
 }
 
-function webServiceYaml(): string {
-  return synthOne(NAMESPACE, "service", {
-    apiVersion: "v1",
-    kind: "Service",
-    metadata: { name: APP_NAME, namespace: NAMESPACE, labels: RESOURCE_LABELS },
-    spec: {
-      type: "ClusterIP",
-      selector: SELECTOR_LABELS,
-      ports: [{ port: 3000, targetPort: 3000, protocol: "TCP" }],
-    },
-  })
-}
-
 export const BUILD_ENV = [
   { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
   { name: "VITE_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
@@ -232,8 +221,7 @@ export const BUILD_ENV = [
 ] as const
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
-  return [
-    { name: "web-deployment", yaml: webDeploymentYaml() },
-    { name: "web-service", yaml: webServiceYaml() },
-  ]
+  return synthWebDeploymentService(webDeploymentYaml, () =>
+    webServiceYaml(NAMESPACE, APP_NAME, RESOURCE_LABELS, SELECTOR_LABELS)
+  )
 }
