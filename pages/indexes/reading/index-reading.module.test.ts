@@ -15,7 +15,6 @@ import {
   listedFor,
   listedWithin,
   readingIn,
-  schemaOf,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   importFiled,
@@ -23,7 +22,6 @@ import {
   noPathsFiled,
   nothingFiled,
   pathFiled,
-  schemaFiled,
   scopedFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { indexAt, indexIn } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
@@ -203,139 +201,6 @@ test("every reader is refused where the index stands nowhere, whatever it was as
   expect(() => listedById(root, A)).toThrow(/is not an index naming none/)
   expect(() => everyPath(root)).toThrow(/is not an index naming none/)
   expect(() => listedByPath(root, "akasha/a.module.ts")).toThrow(/is not an index naming none/)
-  expect(() => schemaOf(root, "text-property/nowhere")).toThrow(/is not an index naming none/)
-})
-
-test("a relation property is answered with the shape it is and the page type it may name", () => {
-  const root = rootAt()
-  const held = {
-    pageTypeSlug: "relation-property",
-    targetPageTypeSlug: "domain",
-    unique: null,
-    uniquePropertySlug: null,
-    slug: "page-domain",
-    propertySlug: "domain",
-    fileName: null,
-    folderName: null,
-  }
-  schemaFiled(root, "relation-property", "page-domain", [held])
-
-  expect(schemaOf(root, "relation-property/page-domain")).toEqual({ schema: held })
-})
-
-test("a property that names no page is answered with a shape that is not a relation", () => {
-  const root = rootAt()
-  const held = {
-    pageTypeSlug: "standard-agent-english-property",
-    targetPageTypeSlug: null,
-    unique: null,
-    uniquePropertySlug: null,
-    slug: "definition",
-    propertySlug: "definition",
-    fileName: null,
-    folderName: null,
-  }
-  schemaFiled(root, "standard-agent-english-property", "definition", [held])
-
-  expect(schemaOf(root, "standard-agent-english-property/definition")).toEqual({ schema: held })
-})
-
-test("a property naming many pages is answered with the target it names itself", () => {
-  const root = rootAt()
-  const held = {
-    pageTypeSlug: "relation-property",
-    targetPageTypeSlug: "domain",
-    unique: null,
-    uniquePropertySlug: null,
-    slug: "part-slugs",
-    propertySlug: "part-slugs",
-    fileName: null,
-    folderName: null,
-  }
-  schemaFiled(root, "relation-property", "part-slugs", [held])
-
-  expect(schemaOf(root, "relation-property/part-slugs")).toEqual({ schema: held })
-})
-
-test("a name saying its page type reads that one file, and passes over another of the slug", () => {
-  const root = rootAt()
-  const text = {
-    pageTypeSlug: "text-property",
-    targetPageTypeSlug: null,
-    unique: null,
-    uniquePropertySlug: null,
-    slug: "foo",
-    propertySlug: "foo",
-    fileName: null,
-    folderName: null,
-  }
-  const number = {
-    pageTypeSlug: "number-property",
-    targetPageTypeSlug: null,
-    unique: null,
-    uniquePropertySlug: null,
-    slug: "foo",
-    propertySlug: "foo",
-    fileName: null,
-    folderName: null,
-  }
-  schemaFiled(root, "text-property", "foo", [text])
-  schemaFiled(root, "number-property", "foo", [number])
-
-  expect(schemaOf(root, "number-property/foo")).toEqual({ schema: number })
-})
-
-test("a property the index does not carry is refused rather than answered as nothing", () => {
-  const root = rootAt()
-  nothingFiled(root)
-
-  expect(schemaOf(root, "text-property/nowhere")).toEqual({
-    refused: "no page property carries the slug `nowhere`",
-  })
-})
-
-test("a page type carrying no property of the slug is refused as well", () => {
-  const root = rootAt()
-  schemaFiled(root, "text-property", "foo", [
-    { pageTypeSlug: "text-property", targetPageTypeSlug: null },
-  ])
-
-  expect(schemaOf(root, "number-property/foo")).toEqual({
-    refused: "no page property carries the slug `foo`",
-  })
-})
-
-test("a bare slug one page type carries is searched for and answered with that shape", () => {
-  const root = rootAt()
-  const held = {
-    pageTypeSlug: "text-property",
-    targetPageTypeSlug: null,
-    unique: null,
-    uniquePropertySlug: null,
-    slug: "foo",
-    propertySlug: "foo",
-    fileName: null,
-    folderName: null,
-  }
-  schemaFiled(root, "text-property", "foo", [held])
-
-  expect(schemaOf(root, "foo")).toEqual({ schema: held })
-})
-
-test("a bare slug two page types carry is refused and must name its page type", () => {
-  const root = rootAt()
-  schemaFiled(root, "text-property", "foo", [
-    { pageTypeSlug: "text-property", targetPageTypeSlug: null },
-  ])
-  schemaFiled(root, "number-property", "foo", [
-    { pageTypeSlug: "number-property", targetPageTypeSlug: null },
-  ])
-
-  expect(schemaOf(root, "foo")).toEqual({
-    refused:
-      "`foo` narrows to 2 page properties and must name its page type — " +
-      "number-property/foo, text-property/foo",
-  })
 })
 
 test("a path the index carries edges for is answered with every file importing it", () => {

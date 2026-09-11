@@ -6,6 +6,7 @@ import {
   partedIn,
   sectionedIn,
 } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { shapeOf } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import {
   everyOfType,
   filesIn,
@@ -13,7 +14,6 @@ import {
   listedAt,
   listedById,
   readingIn,
-  schemaOf,
   valuesOfType,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
@@ -114,11 +114,11 @@ function ordered(found: readonly Carrying[]): readonly Carrying[] {
 
 export function carryingOf(given: string | Reading, named: string): Carried {
   const reading = readingIn(given)
-  const filed = schemaOf(reading, named)
+  const filed = shapeOf(reading, named)
   if ("refused" in filed) return { refused: filed.refused }
-  const slug = filed.schema.slug
+  const slug = filed.shape.slug
   if (slug === null) return { refused: carriesNo(named) }
-  const listed = listedAt(reading, filed.schema.pageTypeSlug, slug)[0]
+  const listed = listedAt(reading, filed.shape.pageTypeSlug, slug)[0]
   if (listed === undefined) return { refused: carriesNo(named) }
 
   const found: Carrying[] = []

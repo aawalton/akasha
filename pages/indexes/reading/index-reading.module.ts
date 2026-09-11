@@ -27,11 +27,6 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name saying no page type costs one read for each page type the name might be filed under.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A directory listed is one page type's own.",
     },
     {

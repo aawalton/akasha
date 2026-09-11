@@ -25,8 +25,32 @@ export const propertyShaping = {
       statement: "Every shape is read once for a reading and held.",
     },
     {
+      invariantKind: "departure",
+      statement: "A name saying a page type is answered by that key alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name saying no page type is answered by the one shape carrying that slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug more than one shape carries is refused and must name its page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug no shape carries is refused rather than answered as nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name reaching a page by id is refused, a property being named by its slug.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a file for one property alone.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here lists a directory.",
     },
   ],
 } as const satisfies Module

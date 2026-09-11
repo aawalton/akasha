@@ -37,8 +37,6 @@ import {
   listedWithin,
   type Named,
   namersOf,
-  type Schemad,
-  schemaOf,
   slugsOfType,
   typeSlugById,
   typeSlugOf,
@@ -110,7 +108,6 @@ export type Answering = {
   readonly propertiesIfNamed: (pageTypeSlug: string) => readonly Carried[] | null
   readonly ruleWhole: () => boolean
   readonly saidOf: (rule: string) => readonly Said[]
-  readonly schemaOf: (named: string) => Schemad
   readonly shapesAt: () => ReadonlyMap<string, Filed>
   readonly sidecarsAt: () => SidecarsBy
   readonly slugsOfType: (pageTypeSlug: string) => readonly string[]
@@ -165,7 +162,6 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     propertiesIfNamed: (pageTypeSlug) => propertiesIfNamedOf(pageTypeSlug, reading, pageOf),
     ruleWhole: heldOnce(() => ruleWhole(reading, everyPath(reading))),
     saidOf: (rule) => saidOf(reading, rule),
-    schemaOf: (named) => schemaOf(reading, named),
     shapesAt: heldOnce(() => shapesAt(reading)),
     sidecarsAt: heldOnce(() => sidecarsOver(reading, [])),
     slugsOfType: (pageTypeSlug) => slugsOfType(reading, pageTypeSlug),

@@ -1,8 +1,8 @@
 import { addressedIn, addressIn } from "akasha/pages/address/page-address.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { shapeOf } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import {
   listedFor,
-  schemaOf,
   valuesByPath,
   valuesOfType,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -74,8 +74,8 @@ export function runPropertyOf(root: string, pageTypeSlug: string): string | Refu
       refused: `\`${pageTypeSlug}\` requires ${found.length} code files, and a run needs the one to run`,
     }
   }
-  const shape = schemaOf(root, one)
-  return "refused" in shape ? shape : shape.schema.propertySlug
+  const shape = shapeOf(root, one)
+  return "refused" in shape ? shape : shape.shape.propertySlug
 }
 
 export function runOf(root: string, named: string): Run | Refused {

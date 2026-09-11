@@ -1,18 +1,12 @@
 import { join } from "node:path"
-import {
-  addressedIn,
-  addressIn,
-  filedFor,
-  type PageAddress,
-} from "akasha/pages/address/page-address.module.code.ts"
+import { filedFor, type PageAddress } from "akasha/pages/address/page-address.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
 import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
 import { indexListing } from "akasha/pages/indexes/listing/index-listing.index.ts"
 import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
-import { indexSchema } from "akasha/pages/indexes/schema/index-schema.index.ts"
-import type { Reading, Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {
   beneath,
   INDEX_AT,
@@ -22,7 +16,6 @@ import {
 } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { stringAt } from "akasha/utils/narrow/string-at/string-at.module.code.ts"
 
 export type Listed = {
   readonly path: string
@@ -38,8 +31,6 @@ const LISTING = indexListing.name
 const PATH = indexPath.name
 
 const RELATION = indexRelation.name
-
-const SCHEMA = indexSchema.name
 
 const VALUE = indexValue.name
 
@@ -215,76 +206,6 @@ export function importersOf(path: string, reading: Reading): readonly string[] {
   return answered(reading, ROOT, `which files import \`${path}\``, (held) =>
     importersIn(held, path)
   )
-}
-
-function schemaIn(reading: Reading, at: string): readonly Schema[] {
-  const found: Schema[] = []
-  for (const line of reading.lines(at)) {
-    const said = JSON.parse(line) as Record<string, unknown>
-    const pageTypeSlug = stringAt(said, "pageTypeSlug")
-    if (pageTypeSlug === null) continue
-    found.push({
-      pageTypeSlug,
-      targetPageTypeSlug: stringAt(said, "targetPageTypeSlug"),
-      unique: stringAt(said, "unique"),
-      uniquePropertySlug: stringAt(said, "uniquePropertySlug"),
-      slug: stringAt(said, "slug") ?? "",
-      propertySlug: stringAt(said, "propertySlug") ?? "",
-      fileName: stringAt(said, "fileName"),
-      folderName: stringAt(said, "folderName"),
-    })
-  }
-  return found
-}
-
-export type Schemad = { readonly schema: Schema } | { readonly refused: string }
-
-const SCHEMA_UNDER = join(SCHEMA, PROPERTY)
-
-function filedAt(reading: Reading, pageTypeSlug: string, slug: string): Schema | null {
-  return schemaIn(reading, join(SCHEMA_UNDER, pageTypeSlug, SLUG, `${slug}${ENDING}`))[0] ?? null
-}
-
-function carriesNo(slug: string): string {
-  return `no page property carries the slug \`${slug}\``
-}
-
-function among(slug: string, named: readonly string[]): string {
-  return (
-    `\`${slug}\` narrows to ${named.length} page properties and must name its page type — ` +
-    [...named].sort().join(", ")
-  )
-}
-
-function searchedIn(reading: Reading, slug: string): Schemad {
-  const found: Schema[] = []
-  const qualified: string[] = []
-  for (const shape of reading.listing(SCHEMA_UNDER)) {
-    if (!shape.directory) continue
-    const held = filedAt(reading, shape.name, slug)
-    if (held === null) continue
-    found.push(held)
-    qualified.push(`${shape.name}/${slug}`)
-  }
-  const one = found[0]
-  if (found.length === 1 && one !== undefined) return { schema: one }
-  return { refused: found.length === 0 ? carriesNo(slug) : among(slug, qualified) }
-}
-
-function shapedIn(reading: Reading, named: string): Schemad {
-  const bare = addressIn(named)
-  if (bare.kind === "bare") return searchedIn(reading, bare.slug)
-  const address = addressedIn(named)
-  if ("refused" in address) return { refused: address.refused }
-  if ("id" in address) {
-    return { refused: `\`${named}\` names a page by id, and a page property is named by its slug` }
-  }
-  const one = filedAt(reading, address.pageTypeSlug, address.value)
-  return one === null ? { refused: carriesNo(address.value) } : { schema: one }
-}
-
-export function schemaOf(given: string | Reading, named: string): Schemad {
-  return answered(given, ROOT, `what shape \`${named}\` has`, (reading) => shapedIn(reading, named))
 }
 
 export function everyOfType(given: string | Reading, pageTypeSlug: string): readonly Listed[] {

@@ -4,7 +4,8 @@ import type {
   Identifier,
   ScopedBy,
 } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import { listedAt, schemaOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { shapeOf } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading, Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import {
@@ -115,8 +116,8 @@ export function sourceIn(given: string | Reading, pageOf: (path: string) => Valu
       return null
     },
     schemaFor: (said) => {
-      const filed = schemaOf(given, said)
-      return "refused" in filed ? null : filed.schema
+      const filed = shapeOf(given, said)
+      return "refused" in filed ? null : filed.shape
     },
   }
 }
