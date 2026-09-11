@@ -20,7 +20,6 @@ export const check = {
     "module/checking",
     "module/change-walking",
     "module/check-cost",
-    "module/run-cost",
     "module/shape-saying",
     "module/change-mirror",
     "module/audit-reading",
