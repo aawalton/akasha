@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const alchemiaformOldbloodGrandAlchemistOfWar = {
   id: "01a0657e-01a5-7065-adfc-6c94718bc18e",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "alchemiaform-oldblood-grand-alchemist-of-war",
   title: "Alchemiaform Oldblood, Grand Alchemist of War",

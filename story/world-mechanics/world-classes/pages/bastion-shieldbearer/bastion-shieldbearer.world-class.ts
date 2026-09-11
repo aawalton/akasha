@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const bastionShieldbearer = {
   id: "01a0657e-01b2-7da5-b55a-049aaf63241a",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "bastion-shieldbearer",
   title: "Bastion Shieldbearer",

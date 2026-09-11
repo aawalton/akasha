@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const deaconOfTheTrinity = {
   id: "01a0657e-01ce-786a-88ef-87223067e2e8",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "deacon-of-the-trinity",
   title: "Deacon of the Trinity",

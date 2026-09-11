@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const artillerist = {
   id: "01a0657e-1331-71a4-b053-3835fcd64c8b",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "artillerist",
   title: "Artillerist",

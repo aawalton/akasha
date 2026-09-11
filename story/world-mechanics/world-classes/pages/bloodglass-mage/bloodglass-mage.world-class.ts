@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const bloodglassMage = {
   id: "01a0657e-133f-7280-9f80-04277fe6e2ce",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "bloodglass-mage",
   title: "Bloodglass Mage",

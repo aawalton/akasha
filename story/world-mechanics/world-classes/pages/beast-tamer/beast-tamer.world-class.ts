@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const beastTamer = {
   id: "01a0657e-01b7-758d-afdb-180671fe9c20",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "beast-tamer",
   title: "Beast Tamer",

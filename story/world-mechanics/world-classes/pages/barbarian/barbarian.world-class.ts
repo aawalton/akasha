@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const barbarian = {
   id: "01a0657e-1339-7ed3-9556-01ae4a1983f5",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "barbarian",
   title: "Barbarian",

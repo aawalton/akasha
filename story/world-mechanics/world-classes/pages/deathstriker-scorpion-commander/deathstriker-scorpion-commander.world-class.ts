@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const deathstrikerScorpionCommander = {
   id: "01a0657e-01cf-77b4-af1a-d4572c16ac3a",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "deathstriker-scorpion-commander",
   title: "Deathstriker Scorpion-Commander",

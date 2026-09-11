@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const agentOfCorruption = {
   id: "01a0657e-1327-7bfa-8ceb-76670f64dbb5",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "agent-of-corruption",
   title: "Agent of Corruption",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const builderOfFables = {
   id: "01a0657e-1341-7c39-9ddf-12de6a1b0f85",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "builder-of-fables",
   title: "Builder of Fables",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const eliteSkirmisher = {
   id: "01a0657e-1359-74b3-80f3-acfef12e933f",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "elite-skirmisher",
   title: "Elite Skirmisher",

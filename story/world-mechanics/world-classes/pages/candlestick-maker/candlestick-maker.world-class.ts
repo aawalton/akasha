@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const candlestickMaker = {
   id: "01a0657e-1342-7301-a326-614bd903df2b",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "candlestick-maker",
   title: "Candlestick Maker",

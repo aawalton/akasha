@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const collatorOfData = {
   id: "01a0657e-01c7-7b93-9916-6c171dd3423b",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "collator-of-data",
   title: "Collator of Data",

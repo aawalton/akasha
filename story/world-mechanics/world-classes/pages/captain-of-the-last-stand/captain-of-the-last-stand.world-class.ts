@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const captainOfTheLastStand = {
   id: "01a0657e-1342-74d7-a7d5-bb38431ae9f7",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "captain-of-the-last-stand",
   title: "Captain of the Last Stand",

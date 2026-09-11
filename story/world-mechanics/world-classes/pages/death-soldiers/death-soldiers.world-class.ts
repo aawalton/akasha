@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const deathSoldiers = {
   id: "01a0657e-1351-7c58-bf5f-0f2997548471",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "death-soldiers",
   title: "Death Soldiers",

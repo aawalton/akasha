@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const bicornChargers = {
   id: "01a0657e-133e-7b94-be78-239fa331ae9c",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "bicorn-chargers",
   title: "Bicorn Chargers",

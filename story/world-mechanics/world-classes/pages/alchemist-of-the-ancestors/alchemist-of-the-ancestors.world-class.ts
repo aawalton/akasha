@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const alchemistOfTheAncestors = {
   id: "01a0657e-01a5-7fd8-82ed-6a70fbb66a6c",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "alchemist-of-the-ancestors",
   title: "Alchemist of the Ancestors",

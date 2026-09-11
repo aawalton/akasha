@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const bearerOfLuckAndCalamity = {
   id: "01a0657e-01b6-70ea-84c6-35de19be6b75",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "bearer-of-luck-and-calamity",
   title: "Bearer of Luck and Calamity",

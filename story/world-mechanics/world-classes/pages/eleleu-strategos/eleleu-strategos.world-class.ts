@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const eleleuStrategos = {
   id: "01a0657e-1359-7cc4-b969-cf6ded29585d",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "eleleu-strategos",
   title: "Eleleu Strategos",

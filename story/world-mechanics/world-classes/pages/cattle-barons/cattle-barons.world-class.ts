@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const cattleBarons = {
   id: "01a0657e-1347-71c4-a0da-fd557250e025",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "cattle-barons",
   title: "Cattle Barons",

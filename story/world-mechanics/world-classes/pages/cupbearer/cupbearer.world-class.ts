@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const cupbearer = {
   id: "01a0657e-01ce-77e3-afd6-56e5868f786f",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "cupbearer",
   title: "Cupbearer",

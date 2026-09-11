@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const doubleAgent = {
   id: "01a0657e-1356-73f6-8a30-ef6e56004db6",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "double-agent",
   title: "Double Agent",

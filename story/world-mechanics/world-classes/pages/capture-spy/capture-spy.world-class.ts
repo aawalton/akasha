@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const captureSpy = {
   id: "01a0657e-01c2-7ece-9fb0-a90cb3a8aa5c",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "capture-spy",
   title: "Capture Spy",

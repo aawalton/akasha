@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const chamberlainOfTheCoin = {
   id: "01a0657e-01c3-70fd-bc72-9d8d6f3e5ec5",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "chamberlain-of-the-coin",
   title: "Chamberlain of the Coin",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const banditLordOfChangingSands = {
   id: "01a0657e-01af-7d99-ad42-6df6aee4d2ab",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "bandit-lord-of-changing-sands",
   title: "Bandit Lord of Changing Sands",

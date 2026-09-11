@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const blackmailer = {
   id: "01a0657e-01bb-7881-83f6-991cb797438a",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "blackmailer",
   title: "Blackmailer",

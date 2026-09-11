@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const bonemenderHealer = {
   id: "01a0657e-01bf-7ec6-8dae-99321c94398a",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "bonemender-healer",
   title: "Bonemender Healer",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const doomspeaker = {
   id: "01a0657e-01d0-76ec-b322-3a1033d5ef28",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "doomspeaker",
   title: "Doomspeaker",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const bugExterminator = {
   id: "01a0657e-01c0-73c7-af37-0c954505d01a",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "bug-exterminator",
   title: "Bug Exterminator",

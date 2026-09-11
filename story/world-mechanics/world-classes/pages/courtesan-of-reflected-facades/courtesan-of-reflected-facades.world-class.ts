@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const courtesanOfReflectedFacades = {
   id: "01a0657e-01cb-765f-b5d2-cbb893ce40cd",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "courtesan-of-reflected-facades",
   title: "Courtesan of Reflected Facades",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const autoRepairMechanic = {
   id: "01a0657e-1336-7b83-957d-c0b632b18f30",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "auto-repair-mechanic",
   title: "Auto Repair Mechanic",

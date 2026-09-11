@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const drellKnightOfShifting = {
   id: "01a0657e-01d1-760c-bebb-133ccf8842ba",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "drell-knight-of-shifting",
   title: "Drell Knight of Shifting",

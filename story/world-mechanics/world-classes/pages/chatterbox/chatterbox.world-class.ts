@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const chatterbox = {
   id: "01a0657e-1347-7cac-b02f-cf75cc870a9e",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "chatterbox",
   title: "Chatterbox",

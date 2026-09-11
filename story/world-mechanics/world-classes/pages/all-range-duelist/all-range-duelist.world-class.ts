@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const allRangeDuelist = {
   id: "01a0657e-01a7-776f-8322-2e27bd09c07a",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "all-range-duelist",
   title: "All-Range Duelist",

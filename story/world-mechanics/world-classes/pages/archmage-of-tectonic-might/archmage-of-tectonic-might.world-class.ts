@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const archmageOfTectonicMight = {
   id: "01a0657e-01aa-755b-a37c-28af9c13bcad",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "archmage-of-tectonic-might",
   title: "Archmage of Tectonic Might",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const bluemoonGardener = {
   id: "01a0657e-01be-79fa-88d6-0f15bf09742b",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "bluemoon-gardener",
   title: "Bluemoon Gardener",

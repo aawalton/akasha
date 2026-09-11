@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const bannerLeader = {
   id: "01a0657e-01b0-7f1f-b7fa-d2693ac37fa7",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "banner-leader",
   title: "Banner Leader",

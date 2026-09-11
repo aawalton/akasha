@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const barkeeper = {
   id: "01a0657e-133b-76e4-9ca8-cd8205526d60",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "barkeeper",
   title: "Barkeeper",

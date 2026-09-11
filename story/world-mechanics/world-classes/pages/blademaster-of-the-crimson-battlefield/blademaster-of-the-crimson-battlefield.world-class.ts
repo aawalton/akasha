@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const blademasterOfTheCrimsonBattlefield = {
   id: "01a0657e-133f-7d45-91cb-a651e4351129",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "blademaster-of-the-crimson-battlefield",
   title: "Blademaster of the Crimson Battlefield",

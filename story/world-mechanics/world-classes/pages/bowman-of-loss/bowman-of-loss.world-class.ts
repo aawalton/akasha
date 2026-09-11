@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const bowmanOfLoss = {
   id: "01a0657e-01c0-7ee9-8fe1-0f13ae466031",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "bowman-of-loss",
   title: "Bowman of Loss",

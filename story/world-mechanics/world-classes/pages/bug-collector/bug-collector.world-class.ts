@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const bugCollector = {
   id: "01a0657e-1341-7b99-a796-ae9c3b97ad3c",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "bug-collector",
   title: "Bug Collector",

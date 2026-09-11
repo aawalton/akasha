@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const classConditionsRelicGuardianFailed = {
   id: "01a0657e-01c6-7aea-b0af-5ac58170ef88",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "class-conditions-relic-guardian-failed",
   title: "Class Conditions: Relic Guardian failed.",

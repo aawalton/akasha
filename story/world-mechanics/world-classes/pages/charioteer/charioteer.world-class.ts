@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const charioteer = {
   id: "01a0657e-1347-7193-a649-b96f21c79021",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "charioteer",
   title: "Charioteer",

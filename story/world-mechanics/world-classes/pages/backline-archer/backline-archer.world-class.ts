@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const backlineArcher = {
   id: "01a0657e-01af-7d98-b56f-f0c7e9248f4b",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "backline-archer",
   title: "Backline Archer",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const cowfriendMilker = {
   id: "01a0657e-1350-7c78-818d-1bcf464eb6e4",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "cowfriend-milker",
   title: "Cowfriend Milker",

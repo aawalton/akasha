@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const bookbinder = {
   id: "01a0657e-01bf-7515-b6d4-e4abdd0e89c8",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "bookbinder",
   title: "Bookbinder",

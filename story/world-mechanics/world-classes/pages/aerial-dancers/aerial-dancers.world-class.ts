@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const aerialDancers = {
   id: "01a0657e-01a5-7e57-b7b5-77ca89969064",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "aerial-dancers",
   title: "Aerial Dancers",

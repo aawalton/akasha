@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const braveSkirmisher = {
   id: "01a0657e-1340-7135-9b05-39d98054c81e",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "brave-skirmisher",
   title: "Brave Skirmisher",

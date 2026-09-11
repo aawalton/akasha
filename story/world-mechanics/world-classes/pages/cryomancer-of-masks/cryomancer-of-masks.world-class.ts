@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const cryomancerOfMasks = {
   id: "01a0657e-1350-76cf-b85b-b2c6a778fdea",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "cryomancer-of-masks",
   title: "Cryomancer of Masks",

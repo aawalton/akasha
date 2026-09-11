@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const dropStrikeLieutenant = {
   id: "01a0657e-1357-701d-9b71-0c98b1b985c0",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "drop-strike-lieutenant",
   title: "Drop Strike Lieutenant",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const chefOfTheRefinedPalate = {
   id: "01a0657e-01c4-7fc3-b268-8c961ecf8abe",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "chef-of-the-refined-palate",
   title: "Chef of the Refined Palate",

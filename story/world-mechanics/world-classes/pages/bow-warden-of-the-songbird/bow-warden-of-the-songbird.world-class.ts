@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const bowWardenOfTheSongbird = {
   id: "01a0657e-01c0-7088-bbe4-a260c3ec34bd",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "bow-warden-of-the-songbird",
   title: "Bow-Warden of the Songbird",

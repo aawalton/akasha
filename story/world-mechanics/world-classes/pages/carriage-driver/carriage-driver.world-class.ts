@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const carriageDriver = {
   id: "01a0657e-01c2-7461-a283-d369a37f4e5e",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "carriage-driver",
   title: "Carriage Driver",

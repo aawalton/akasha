@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const blightrangerGeneral = {
   id: "01a0657e-01be-7dcc-a6f5-905d5fb52b82",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "blightranger-general",
   title: "Blightranger General",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const antiniumQueen = {
   id: "01a0657e-01a8-77f4-aab1-bcde45aeed15",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "antinium-queen",
   title: "Antinium Queen",

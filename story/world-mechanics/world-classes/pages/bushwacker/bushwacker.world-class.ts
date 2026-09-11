@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const bushwacker = {
   id: "01a0657e-01c1-7865-a768-53109e8e1acc",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "bushwacker",
   title: "Bushwacker",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const darkpactDuelist = {
   id: "01a0657e-1351-7b25-94c8-e69b4908a876",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "darkpact-duelist",
   title: "Darkpact Duelist",

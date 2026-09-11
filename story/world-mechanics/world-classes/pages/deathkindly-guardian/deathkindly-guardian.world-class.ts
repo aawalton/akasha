@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const deathkindlyGuardian = {
   id: "01a0657e-01cf-7dd1-ae5c-fb85eb959c92",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "deathkindly-guardian",
   title: "Deathkindly Guardian",

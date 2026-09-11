@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const cellist = {
   id: "01a0657e-1347-7716-8563-682c0c78eb84",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "cellist",
   title: "Cellist",

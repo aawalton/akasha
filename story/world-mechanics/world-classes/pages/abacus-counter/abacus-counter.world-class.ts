@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const abacusCounter = {
   id: "01a0657e-01a1-7b5e-a806-7325f4775a04",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "abacus-counter",
   title: "Abacus Counter",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const blademasterThePathOfLegends = {
   id: "01a0657e-133f-7f0e-a01d-3ff37e07af8f",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "blademaster-the-path-of-legends",
   title: "Blademaster, the Path of Legends",

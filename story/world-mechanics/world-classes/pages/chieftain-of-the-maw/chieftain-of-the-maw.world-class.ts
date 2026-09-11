@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const chieftainOfTheMaw = {
   id: "01a0657e-01c5-7a03-9ec9-6b017ed60a4c",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "chieftain-of-the-maw",
   title: "Chieftain of the Maw",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const disciplesOfTheWind = {
   id: "01a0657e-01d0-7af3-a465-4b326447d719",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "disciples-of-the-wind",
   title: "Disciples of the Wind",
