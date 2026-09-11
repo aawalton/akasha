@@ -118,6 +118,11 @@ export const athenaCommandsCleanup = {
       workingMemory:
         "`list` already holds: `change-list`, `email-messages-list` and `temper-inventory-rule-list` each answer many. `show` drifts both ways: `temper-inventory-rule-show` answers one rule by id, while `page-secret-show.command.ts:7` names which secrets a page holds and `track-session-show.command.ts:7` says the stretches a day has. `page-secret-reveal.command.ts:7` answers one and is named neither. `imessage-recent` and `imessage-unread-list` both give back messages.\n",
     },
+    {
+      statement: "One command issues Alan's Google consent.",
+      workingMemory:
+        "`google-auth-login.command.ts:7` grants one consent for calendar, drive and mail and writes `GOOGLE_OAUTH_REFRESH_TOKEN`. `email-auth-login.command.ts:7` still issues a Gmail-only `GOOGLE_GMAIL_OAUTH_REFRESH_TOKEN`, and `gmail-credentials.module.code.ts:11` still reads it, so mail runs on the narrow consent. Both take the same `--callback-url`. `google-oauth.domain.ts:22` already says one consent covers all three. Mail moves onto the shared token and the second command goes.\n",
+    },
   ],
   constraints: [
     "Every landing in this repository runs through the command system, so a fault landed here stops every agent at once.",
