@@ -113,7 +113,7 @@ export async function compileWantedConsumables(
     if (buildHash == null) continue
     const esoCharacterId = one.esoCharacterId
     inputs.push({ esoCharacterId, targetBuildId: esoCharacterId, sortOrder: null })
-    buildById.set(esoCharacterId, { id: esoCharacterId, buildHash, esoCharacterId })
+    buildById.set(esoCharacterId, { id: esoCharacterId, buildHash })
   }
 
   const result: Record<number, string[]> = {}

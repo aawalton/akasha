@@ -24,9 +24,7 @@ import { useMemo } from "react"
 
 const CHARACTER_BUILD_PAGE_TYPE_SLUG = "character-build"
 
-export interface CharacterBuildRow extends BuildRow<CharacterBuildMetadata> {
-  esoCharacterId?: string
-}
+export type CharacterBuildRow = BuildRow<CharacterBuildMetadata>
 
 function parseBuildMetadata(value: unknown): CharacterBuildMetadata | null {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return null

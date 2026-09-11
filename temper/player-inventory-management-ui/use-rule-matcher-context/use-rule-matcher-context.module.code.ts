@@ -33,7 +33,6 @@ export function useRuleMatcherContext(
     const characterBuildInputs: CharacterBuildInput[] = characterBuilds.map((b) => ({
       id: b.id,
       buildHash: b.buildHash,
-      esoCharacterId: b.esoCharacterId,
     }))
     return buildDerivedContext(
       completionCharacters,

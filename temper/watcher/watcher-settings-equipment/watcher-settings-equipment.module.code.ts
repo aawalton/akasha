@@ -194,7 +194,7 @@ export async function compileWantedEquipment(
 
   const buildById = new Map<string, CharacterBuildInput>()
   for (const [buildId, build] of builds) {
-    buildById.set(buildId, { id: build.id, buildHash: build.buildHash, esoCharacterId: undefined })
+    buildById.set(buildId, { id: build.id, buildHash: build.buildHash })
   }
 
   const characters: CompletionCharacterInput[] = rows.map((row) => ({

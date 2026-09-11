@@ -39,7 +39,6 @@ export interface CompletionCharacterInput {
 export interface CharacterBuildInput {
   id: string
   buildHash: string
-  esoCharacterId: string | null | undefined
 }
 
 export interface CompletionCompanionInput {
