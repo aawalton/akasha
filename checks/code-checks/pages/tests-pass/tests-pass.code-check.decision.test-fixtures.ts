@@ -13,6 +13,8 @@ export const PASSES =
 export const FAILS =
   'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(2) })\n'
 
+export const THROWS = 'throw new Error("this file does not load")\n'
+
 export const HOLDS = "export const held = 1\n"
 
 export const BREAKS = "export const held = 2\n"

@@ -40,6 +40,7 @@ import {
   repo,
   SORTED_AT,
   scratch,
+  THROWS,
   withoutGuard,
 } from "./tests-pass.code-check.decision.test-fixtures.ts"
 
@@ -366,4 +367,22 @@ test("the reason names a file where it stands in the change, not in the world it
   )
   expect(said[0]?.reason).not.toContain("/var/tmp/akasha-world-")
   expect(said[0]?.reason).toContain("akasha/one.module.test.ts")
+})
+
+test("a file that throws as it loads is the file the refusal names", () => {
+  const root = repo({
+    "akasha/one.module.code.ts": "",
+    "akasha/one.module.test.ts": PASSES,
+    "akasha/two.module.code.ts": "",
+    "akasha/two.module.test.ts": THROWS,
+  })
+  const said = withoutGuard(() =>
+    refusalsOver(
+      change(root, ["akasha/one.module.code.ts", "akasha/two.module.code.ts"]),
+      shadowAt(root)
+    )
+  )
+  expect(said.length).toBe(1)
+  expect(said[0]?.path).toBe("akasha/two.module.test.ts")
+  expect(said[0]?.reason).toContain("1 error was raised outside any test")
 })
