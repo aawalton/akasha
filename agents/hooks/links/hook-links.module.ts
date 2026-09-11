@@ -56,6 +56,22 @@ export const hookLinks = {
       statement: "The links sit under a folder outliving a reboot rather than under a run folder.",
     },
     {
+      invariantKind: "departure",
+      statement: "The events a mend covers are the names the links folder already holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A mend reads the index only where some link points at a file that is gone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name carrying the mark of a half-written link is no event.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The dispatch cannot write the link a client reaches the dispatch through.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a hook or judges a call.",
     },

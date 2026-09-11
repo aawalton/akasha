@@ -1,6 +1,14 @@
-import { expect, test } from "bun:test"
-import { anothersIn, servedFrom } from "akasha/agents/hooks/links/hook-links.module.code.ts"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, symlinkSync } from "node:fs"
+import {
+  anothersIn,
+  danglingIn,
+  linkFor,
+  linksAt,
+  servedFrom,
+} from "akasha/agents/hooks/links/hook-links.module.code.ts"
 import { MOUNTED } from "akasha/code-system/test-overlay/test-overlay.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { AKASHA, rootEnvName } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 
 const ROOT = "/made-up/checkout"
@@ -71,4 +79,48 @@ test("a tree that is not that checkout serves no link", () => {
 
 test("a checkout that is not there serves no link", () => {
   expect(withServed(ROOT, () => servedFrom(ROOT))).toBe(false)
+})
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+const PREFIX = "akasha-hook-links-"
+
+const GONE = "/made-up/nothing-is-here.ts"
+
+const HOME = "HOME"
+
+function withHome<T>(at: string, run: () => T): T {
+  const before = process.env[HOME]
+  process.env[HOME] = at
+  try {
+    return run()
+  } finally {
+    if (before === undefined) delete process.env[HOME]
+    else process.env[HOME] = before
+  }
+}
+
+test("a link pointing at a file that is gone is named for mending", () => {
+  withHome(scratch.rootFor(PREFIX), () => {
+    mkdirSync(linksAt(), { recursive: true })
+    symlinkSync(GONE, linkFor("PreToolUse"))
+    symlinkSync(HERE, linkFor("Stop"))
+    expect(danglingIn()).toEqual(["PreToolUse"])
+  })
+})
+
+test("a half-written link is no event to mend", () => {
+  withHome(scratch.rootFor(PREFIX), () => {
+    mkdirSync(linksAt(), { recursive: true })
+    symlinkSync(GONE, `${linkFor("PreToolUse")}.tmp-1`)
+    expect(danglingIn()).toEqual([])
+  })
+})
+
+test("no links folder at all names nothing to mend", () => {
+  withHome(scratch.rootFor(PREFIX), () => {
+    expect(danglingIn()).toEqual([])
+  })
 })

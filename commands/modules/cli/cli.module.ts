@@ -60,5 +60,13 @@ export const cli = {
       invariantKind: "departure",
       statement: "A writer named in the environment is the author over the persona.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every run writes again a hook link pointing at a file that is gone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A mend that fails is said with the refusals rather than stopping the command.",
+    },
   ],
 } as const satisfies Module

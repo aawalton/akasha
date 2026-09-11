@@ -1,6 +1,7 @@
 import { Buffer } from "node:buffer"
 import { writeSync } from "node:fs"
 import { resolve } from "node:path"
+import { linksMended } from "akasha/agents/hooks/links/hook-links.module.code.ts"
 import type { Answer, Outside } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { calling } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { commitAuthor } from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
@@ -44,6 +45,18 @@ export function saidOf(answer: Answer): Said {
   return { out: answer.report, err: answer.refusals, code: answer.code }
 }
 
+export function mendedFor(root: string): readonly string[] {
+  try {
+    linksMended(root)
+    return []
+  } catch (thrown) {
+    const why = saidBy(thrown)
+    return [
+      `akasha: a hook is registered through a link that is gone, and writing it again failed: ${why}`,
+    ]
+  }
+}
+
 export async function answering(
   argv: readonly string[],
   env: Readonly<Record<string, string | undefined>>,
@@ -51,7 +64,10 @@ export async function answering(
   from: string
 ): Promise<Said> {
   try {
-    return saidOf(await calling(argv, outsideOf(env, at, from)))
+    const outside = outsideOf(env, at, from)
+    const mended = mendedFor(outside.root)
+    const said = saidOf(await calling(argv, outside))
+    return { out: said.out, err: [...mended, ...said.err], code: said.code }
   } catch (thrown) {
     const why = saidBy(thrown)
     return { out: [], err: [`akasha: ${why}`], code: UNCLASSIFIED }

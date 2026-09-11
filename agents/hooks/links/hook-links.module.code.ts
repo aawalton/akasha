@@ -1,4 +1,12 @@
-import { existsSync, mkdirSync, readlinkSync, realpathSync, renameSync, symlinkSync } from "node:fs"
+import {
+  existsSync,
+  mkdirSync,
+  readdirSync,
+  readlinkSync,
+  realpathSync,
+  renameSync,
+  symlinkSync,
+} from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import { MOUNTED } from "akasha/code-system/test-overlay/test-overlay.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
@@ -18,6 +26,8 @@ const HOME = "HOME"
 const UNDER = [".local", "state", "akasha", "hooks"]
 
 const OUTSIDE = ".."
+
+const HALF_WRITTEN = ".tmp-"
 
 export function linksAt(): string {
   const home = process.env[HOME]
@@ -100,7 +110,7 @@ export function linkedTo(at: string, event: string, root: string): undefined {
   if (held === at) return undefined
   if (anothersIn(held, root)) return undefined
   mkdirSync(dirname(link), { recursive: true })
-  const tmp = `${link}.tmp-${process.pid}`
+  const tmp = `${link}${HALF_WRITTEN}${process.pid}`
   symlinkSync(at, tmp)
   renameSync(tmp, link)
   return undefined
@@ -111,4 +121,30 @@ export function linksMade(root: string, events: readonly string[]): undefined {
   const at = dispatchAt(root)
   for (const event of events) linkedTo(at, event, root)
   return undefined
+}
+
+function reaches(link: string): boolean {
+  let held: string
+  try {
+    held = readlinkSync(link)
+  } catch {
+    return false
+  }
+  return existsSync(held)
+}
+
+export function danglingIn(): readonly string[] {
+  let named: readonly string[]
+  try {
+    named = readdirSync(linksAt())
+  } catch {
+    return []
+  }
+  return named.filter((one) => !one.includes(HALF_WRITTEN) && !reaches(linkFor(one))).toSorted()
+}
+
+export function linksMended(root: string): undefined {
+  const gone = danglingIn()
+  if (gone.length === 0) return undefined
+  return linksMade(root, gone)
 }
