@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type WebEntry = "html"
-
 export const webEntry = {
   id: "01a05934-fe0f-72e8-849f-599ed322020e",
   pageTypeSlug: "file-property",
@@ -10,4 +8,5 @@ export const webEntry = {
   propertySlug: "web-entry",
   definition: "the page a shell boots before it reaches its site",
   extensions: ["html"],
+  types: "ts",
 } as const satisfies FileProperty

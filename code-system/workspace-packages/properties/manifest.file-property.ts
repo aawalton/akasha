@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type Manifest = "json"
-
 export const manifest = {
   id: "01a05891-1ea3-7812-a163-a7b4dd664f62",
   pageTypeSlug: "file-property",
@@ -13,4 +11,5 @@ export const manifest = {
   fileName: "package.json",
   runsFileLength: false,
   toolResolvesPaths: true,
+  types: "ts",
 } as const satisfies FileProperty

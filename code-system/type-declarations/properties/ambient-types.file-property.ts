@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type AmbientTypes = "ts"
-
 export const ambientTypes = {
   id: "01a0605a-98f3-7ddc-b839-afde87fe7bbf",
   pageTypeSlug: "file-property",
@@ -25,4 +23,5 @@ export const ambientTypes = {
       statement: "A compiler emits nothing from the types this file has.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

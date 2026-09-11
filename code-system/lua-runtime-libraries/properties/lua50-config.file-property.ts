@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type Lua50Config = "json"
-
 export const lua50Config = {
   id: "01a06759-2aa6-7002-bb81-e64cbb1d51e4",
   pageTypeSlug: "file-property",
@@ -12,4 +10,5 @@ export const lua50Config = {
   extensions: ["json"],
   fileName: "tsconfig.lua50.json",
   toolResolvesPaths: true,
+  types: "ts",
 } as const satisfies FileProperty

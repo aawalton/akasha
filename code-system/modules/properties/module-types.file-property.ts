@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type ModuleTypes = "ts"
-
 export const moduleTypes = {
   id: "01a0771e-597f-7d38-a6cf-073905063498",
   pageTypeSlug: "file-property",
@@ -25,4 +23,5 @@ export const moduleTypes = {
       statement: "Nothing here runs.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type InfoPlist = "plist"
-
 export const infoPlist = {
   id: "01a05901-26b4-7689-892c-e2f96e09c5a5",
   pageTypeSlug: "file-property",
@@ -10,4 +8,5 @@ export const infoPlist = {
   propertySlug: "info-plist",
   definition: "what a build target tells iOS about itself",
   extensions: ["plist"],
+  types: "ts",
 } as const satisfies FileProperty

@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type CargoManifest = "toml"
-
 export const cargoManifest = {
   id: "01a0602d-6ad0-7846-b378-6863309ce57c",
   pageTypeSlug: "file-property",
@@ -11,4 +9,5 @@ export const cargoManifest = {
   definition: "what a crate states about itself",
   extensions: ["toml"],
   fileName: "Cargo.toml",
+  types: "ts",
 } as const satisfies FileProperty

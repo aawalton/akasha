@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type AppIcon = "json"
-
 export const appIcon = {
   id: "01a0693a-5bbe-78fb-8ea4-9abb461c372c",
   pageTypeSlug: "file-property",
@@ -32,4 +30,5 @@ export const appIcon = {
       statement: "The seam building the app writes the picture where Xcode reads that picture.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

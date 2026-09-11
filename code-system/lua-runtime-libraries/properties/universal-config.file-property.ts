@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type UniversalConfig = "json"
-
 export const universalConfig = {
   id: "01a06759-2aa6-7001-aea3-4833f5efff0d",
   pageTypeSlug: "file-property",
@@ -12,4 +10,5 @@ export const universalConfig = {
   extensions: ["json"],
   fileName: "tsconfig.json",
   toolResolvesPaths: true,
+  types: "ts",
 } as const satisfies FileProperty

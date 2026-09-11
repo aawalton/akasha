@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type CrateIcon = "json"
-
 export const crateIcon = {
   id: "01a0693a-5bbe-7c76-b5ef-d2e85fbec62f",
   pageTypeSlug: "file-property",
@@ -32,4 +30,5 @@ export const crateIcon = {
       statement: "The seam building the crate writes the picture where Cargo reads that picture.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

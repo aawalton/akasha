@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type SiblingManifest = "json"
-
 export const siblingManifest = {
   id: "01a06237-19b4-7a06-aefd-0f827dda1054",
   pageTypeSlug: "file-property",
@@ -10,4 +8,5 @@ export const siblingManifest = {
   propertySlug: "sibling-manifest",
   definition: "what a second addon shipped inside this one states about itself",
   extensions: ["json"],
+  types: "ts",
 } as const satisfies FileProperty

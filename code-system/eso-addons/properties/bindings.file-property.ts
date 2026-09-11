@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type Bindings = "xml"
-
 export const bindings = {
   id: "01a06036-9b78-70bc-b9c0-1204d0737652",
   pageTypeSlug: "file-property",
@@ -11,4 +9,5 @@ export const bindings = {
   definition: "the keys an addon binds",
   extensions: ["xml"],
   fileName: "Bindings.xml",
+  types: "ts",
 } as const satisfies FileProperty

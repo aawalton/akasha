@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type Logs = "jsonl"
-
 export const logs = {
   id: "01a08bdc-91a1-7741-9e53-895095f3712f",
   pageTypeSlug: "file-property",
@@ -25,4 +23,5 @@ export const logs = {
       statement: "No page states its own logs.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty
