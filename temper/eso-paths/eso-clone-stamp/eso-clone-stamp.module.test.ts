@@ -4,7 +4,7 @@ import {
   parseEsoCloneProvenance,
   parseEsoDocApiVersion,
   parseStampedApiVersion,
-} from "./eso-clone-stamp.module.code.ts"
+} from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 
 const DOC = "preamble\nh1. ESO UI Documentation for API Version 101047\nrest\n"
 
