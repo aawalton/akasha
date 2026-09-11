@@ -1,6 +1,11 @@
 import { describe, expect, test } from "bun:test"
-import { existsSync, readdirSync, readFileSync } from "node:fs"
-import { join } from "node:path"
+import { existsSync, readFileSync } from "node:fs"
+import { dirname, join } from "node:path"
+import {
+  everyPath,
+  listedAt,
+  readingIn,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { requireMatch } from "akasha/utils/narrow/require-match/require-match.module.code.ts"
 import { z } from "zod"
 import { resolveRepoRoot } from "../git-tree-hash/git-tree-hash.module.code.ts"
@@ -16,7 +21,7 @@ import {
 const APP = resolveApp("alanwalton")
 const SHARED_SEAM_DIR = "code-system/ios-apps/scripts"
 const STAMP_SEAM_REPO_PATH = `${SHARED_SEAM_DIR}/build-stamp/build-stamp.shell-script.shell.sh`
-const APP_SEAM_DIR = "code-system/ios-apps/pages"
+const IOS_APP = "ios-app"
 const COMMIT = "977e7d5a3e2f4fbc3942db6faff252272809668e"
 const IPA = "build/export/App.ipa"
 
@@ -108,12 +113,15 @@ describe("the marker contract with the seam that writes it", () => {
     for (const app of Object.values(mobileApps())) {
       if (app.nativeShellRepoPath === null || app.widgetBundleId === null) continue
       const repoRoot = resolveRepoRoot(shellRepoRoot(app))
-      const scriptsDir = join(repoRoot, APP_SEAM_DIR, app.slug, "scripts")
-      if (!existsSync(scriptsDir)) continue
-      const seamTree = readdirSync(scriptsDir, { recursive: true, encoding: "utf8" })
-        .filter((name) => name.endsWith(".sh"))
-        .map((name) => readFileSync(join(scriptsDir, name), "utf8"))
-        .join("\n")
+      const reading = readingIn(repoRoot)
+      const page = listedAt(reading, IOS_APP, app.slug)[0]
+      if (page === undefined) continue
+      const scriptsIn = `${dirname(page.path)}/scripts/`
+      const scripts = everyPath(reading).filter(
+        (one) => one.startsWith(scriptsIn) && one.endsWith(".sh")
+      )
+      if (scripts.length === 0) continue
+      const seamTree = scripts.map((one) => readFileSync(join(repoRoot, one), "utf8")).join("\n")
       expect(seamTree).toContain("build-stamp.shell-script.shell.sh")
       expect(seamTree).toContain("native_shell_stamp_app ")
       expect(seamTree).toContain("native_shell_stamp_widget ")
