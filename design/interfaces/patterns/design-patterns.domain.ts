@@ -47,5 +47,6 @@ export const designPatterns = {
     "module/use-filter-persistence",
     "module/use-scroll-restoration",
     "module/use-set-toggle",
+    "module/add-filter-id",
   ],
 } as const satisfies Domain

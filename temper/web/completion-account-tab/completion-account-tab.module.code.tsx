@@ -8,6 +8,7 @@ import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/p
 import { PanelToggleProvider } from "akasha/design/interfaces/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { LayoutLink } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
 import { AddFilterButton } from "akasha/design/interfaces/patterns/add-filter-button/add-filter-button.module.code.tsx"
+import { addFilterId } from "akasha/design/interfaces/patterns/add-filter-id/add-filter-id.module.code.ts"
 import {
   Empty,
   EmptyContent,
@@ -130,8 +131,7 @@ export function CompletionAccountTab({
   )
 
   function handleAdd(id: string) {
-    if (!isFilterId(id)) return
-    setAddedFilters((prev) => new Set(prev).add(id))
+    addFilterId(id, isFilterId, setAddedFilters)
   }
 
   function handleRemove(id: FilterId) {

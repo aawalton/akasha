@@ -8,6 +8,7 @@ import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/p
 import { PanelToggleProvider } from "akasha/design/interfaces/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { AddFilterButton } from "akasha/design/interfaces/patterns/add-filter-button/add-filter-button.module.code.tsx"
+import { addFilterId } from "akasha/design/interfaces/patterns/add-filter-id/add-filter-id.module.code.ts"
 import { FilterButton } from "akasha/design/interfaces/patterns/filter-button/filter-button.module.code.tsx"
 import { FilterGroup } from "akasha/design/interfaces/patterns/filter-group/filter-group.module.code.tsx"
 import { SearchButton } from "akasha/design/interfaces/patterns/search-button/search-button.module.code.tsx"
@@ -143,8 +144,7 @@ export function CompletionCompanionsTab({
   )
 
   function handleAdd(id: string) {
-    if (!isFilterId(id)) return
-    setAddedFilters((prev) => new Set(prev).add(id))
+    addFilterId(id, isFilterId, setAddedFilters)
   }
 
   function handleRemove(id: FilterId) {

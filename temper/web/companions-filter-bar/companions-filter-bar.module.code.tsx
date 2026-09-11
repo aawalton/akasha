@@ -5,6 +5,7 @@ import {
   type BadgeToggleGroupItem,
 } from "akasha/design/interfaces/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { AddFilterButton } from "akasha/design/interfaces/patterns/add-filter-button/add-filter-button.module.code.tsx"
+import { addFilterId } from "akasha/design/interfaces/patterns/add-filter-id/add-filter-id.module.code.ts"
 import { FilterButton } from "akasha/design/interfaces/patterns/filter-button/filter-button.module.code.tsx"
 import { FilterGroup } from "akasha/design/interfaces/patterns/filter-group/filter-group.module.code.tsx"
 import { SearchButton } from "akasha/design/interfaces/patterns/search-button/search-button.module.code.tsx"
@@ -322,8 +323,7 @@ export function CompanionsFilterBar({
   )
 
   function handleAdd(id: string) {
-    if (!isFilterId(id)) return
-    setAddedFilters((prev) => new Set(prev).add(id))
+    addFilterId(id, isFilterId, setAddedFilters)
   }
 
   function handleRemove(id: FilterId) {
