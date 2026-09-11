@@ -75,6 +75,7 @@ export const codeCheck = {
     "code-check/repository-is-written-by-a-change",
     "code-check/specifier-names-a-package",
     "boolean-property/experimental",
+    "code-check/no-relative-specifier",
   ],
   extends: ["page-type/domain"],
   loadedBy: "module/checking",
