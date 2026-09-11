@@ -203,36 +203,35 @@ export type PaginateOptions = {
   readonly max?: number
 }
 
-export async function paginateOffset<TItem extends z.ZodTypeAny>(
+export type PageStep<TItem> = {
+  readonly items: readonly TItem[]
+  readonly next: string | null
+}
+
+export async function followPages<TItem>(
+  firstPath: string,
+  stepAt: (path: string) => Promise<PageStep<TItem> | null>,
+  options: PaginateOptions = {}
+): Promise<TItem[]> {
+  const all: TItem[] = []
+  let next: string | null = firstPath
+  while (next != null) {
+    const step: PageStep<TItem> | null = await stepAt(next)
+    if (step == null) return all
+    all.push(...step.items)
+    if (options.max !== undefined && all.length >= options.max) {
+      return all.slice(0, options.max)
+    }
+    next = step.next
+  }
+  return all
+}
+
+export function paginateOffset<TItem extends z.ZodTypeAny>(
   firstPath: string,
   item: TItem,
   options: PaginateOptions = {}
 ): Promise<z.infer<TItem>[]> {
   const shape = offsetPageSchema(item)
-  const all: z.infer<TItem>[] = []
-  let next: string | null = firstPath
-  while (next != null) {
-    const page: OffsetPage<z.infer<TItem>> = await spotifyRequest(next, shape)
-    all.push(...page.items)
-    if (options.max !== undefined && all.length >= options.max) {
-      return all.slice(0, options.max)
-    }
-    next = page.next
-  }
-  return all
-}
-
-export async function paginateCursor<TItem extends z.ZodTypeAny>(
-  firstPath: string,
-  item: TItem
-): Promise<z.infer<TItem>[]> {
-  const shape = cursorPageSchema(item)
-  const all: z.infer<TItem>[] = []
-  let next: string | null = firstPath
-  while (next != null) {
-    const page: CursorPage<z.infer<TItem>> = await spotifyRequest(next, shape)
-    all.push(...page.items)
-    next = page.next
-  }
-  return all
+  return followPages<z.infer<TItem>>(firstPath, (path) => spotifyRequest(path, shape), options)
 }

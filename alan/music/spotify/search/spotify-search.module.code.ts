@@ -1,5 +1,7 @@
 import {
+  followPages,
   offsetPageSchema,
+  type PageStep,
   spotifyGet,
 } from "akasha/alan/music/spotify/client/spotify-client.module.code.ts"
 import { z } from "zod"
@@ -81,30 +83,31 @@ export type SearchPaginateOptions = {
   readonly max?: number
 }
 
-export async function searchPaginate(
+export function searchPaginate(
   q: string,
   type: SearchType,
   options: SearchPaginateOptions = {}
 ): Promise<SearchItem[]> {
   const sectionKey = SECTION_KEY[type]
-  const items: SearchItem[] = []
-  let next: string | null = buildSearchPath({
+  const firstPath = buildSearchPath({
     q,
     types: [type],
     limit: options.limit,
     market: options.market,
   })
-  while (next != null) {
-    const page: SearchResponse = await spotifyGet(next, searchResponseSchema)
-    const section = page[sectionKey]
-    if (section == null) break
-    for (const item of section.items) {
-      if (item != null) items.push(item)
-    }
-    if (options.max !== undefined && items.length >= options.max) {
-      return items.slice(0, options.max)
-    }
-    next = section.next
-  }
-  return items
+  return followPages<SearchItem>(
+    firstPath,
+    async (path) => {
+      const page: SearchResponse = await spotifyGet(path, searchResponseSchema)
+      const section = page[sectionKey]
+      if (section == null) return null
+      const items: SearchItem[] = []
+      for (const item of section.items) {
+        if (item != null) items.push(item)
+      }
+      const step: PageStep<SearchItem> = { items, next: section.next }
+      return step
+    },
+    options
+  )
 }
