@@ -20,14 +20,23 @@ cat >> "$APPDELEGATE" <<'SWIFT_HEALTH_SAMPLES'
 // syncs too.
 //
 // THROTTLED, because didBecomeActive fires on every return to the foreground, including every
-// app switch. Once an hour is far oftener than a daily drain needs, and it keeps an afternoon
-// of switching between apps from filing a report every few minutes.
+// app switch. A quarter of an hour is far oftener than a daily drain needs, and it keeps an
+// afternoon of switching between apps from filing a report every few minutes. It was a whole
+// hour until 2026-09-11, when the hour turned out to be the price of every attempt to find out
+// whether this seam runs at all: a second open inside it does nothing and says nothing, which
+// is the one reading this seam was written to be rid of.
 //
-// THE HOUR IS SPENT BEFORE THE RUN RATHER THAN AFTER IT, which also serves as the guard
+// THE REST IS SPENT BEFORE THE RUN RATHER THAN AFTER IT, which also serves as the guard
 // against two foregrounds starting two overlapping runs. It costs the case where iOS suspends
-// the run because Alan left at once: that hour is spent on a run that did nothing. Nothing is
-// lost by it — an anchor advances only on an acknowledged batch, so the next run sends the
-// same samples again.
+// the run because Alan left at once: that quarter hour is spent on a run that did nothing.
+// Nothing is lost by it — an anchor advances only on an acknowledged batch, so the next run
+// sends the same samples again.
+//
+// THE RUN SAYS IT BEGAN BEFORE IT READS A THING, which is what build 215 lacked. That build
+// carried this seam, Alan opened the app, and nothing arrived — and from that nothing could be
+// told, because a plugin that never loaded and a run that hung on its first await leave the
+// same silence. A sentence sent at the top parts them: the sentence and no outcome means the
+// run began and did not finish, and no sentence at all means it never began.
 @objc(HealthSyncOnForegroundPlugin)
 public class HealthSyncOnForegroundPlugin: CAPPlugin, CAPBridgedPlugin {
     public let identifier = "HealthSyncOnForegroundPlugin"
@@ -35,7 +44,7 @@ public class HealthSyncOnForegroundPlugin: CAPPlugin, CAPBridgedPlugin {
     public let pluginMethods: [CAPPluginMethod] = []
 
     private static let lastRunKey = "healthSamples.lastForegroundRunAt"
-    private static let restSeconds: TimeInterval = 3600
+    private static let restSeconds: TimeInterval = 900
 
     public override func load() {
         NotificationCenter.default.addObserver(
@@ -56,6 +65,7 @@ public class HealthSyncOnForegroundPlugin: CAPPlugin, CAPBridgedPlugin {
         guard now - last >= HealthSyncOnForegroundPlugin.restSeconds else { return }
         defaults.set(now, forKey: HealthSyncOnForegroundPlugin.lastRunKey)
         Task {
+            await StreamHealthSamplesIntent.report("The app came forward and a drain began.")
             _ = await StreamHealthSamplesIntent.run(noticing: false)
         }
     }

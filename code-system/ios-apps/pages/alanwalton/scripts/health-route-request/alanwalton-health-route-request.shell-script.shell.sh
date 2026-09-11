@@ -101,12 +101,39 @@ cat >> "$APPDELEGATE" <<'SWIFT_HEALTH_SAMPLES'
     /// is that a run that worked lands in a store named for errors; `url` names the intent, so
     /// they part on sight, and there are at most a handful of these a day.
     ///
-    /// The answer is dropped on purpose. This is called once the run has already decided what it
-    /// did, and a report that could not be delivered must not change what Alan is told.
+    /// A REPORT THE ROUTE COULD NOT TAKE IS KEPT RATHER THAN DROPPED, and 2026-09-11 is why.
+    /// The first run of the foreground seam fell inside an eight-minute window where the page
+    /// store behind this route was down; everything that reached the route in it was refused and
+    /// forgotten, and what that run did is now unknowable. A kept report is sent again by the
+    /// next run, so an outage delays the news rather than destroying it.
+    ///
+    /// A KEPT REPORT CARRIES THE INSTANT IT WAS KEPT, because the store stamps a row with the
+    /// hour the row arrived, and a report arriving a day late would otherwise say the run
+    /// happened then.
+    ///
+    /// The newest twenty are kept and the rest fall away. This is a diary rather than a queue
+    /// anything depends on, and a phone that cannot reach home for a month must not fill its own
+    /// defaults with the news that it could not.
+    ///
+    /// Nothing of the answer is read but whether it arrived. This is called once the run has
+    /// already decided what it did, and a report that could not be delivered must not change
+    /// what Alan is told.
     ///
     /// A SHORTER TIMEOUT THAN `post`'s. A headless run has a small budget of wall time and the
     /// samples are what it is for; a report that cannot get out fast must not be what spends it.
-    private static func report(_ outcome: String) async {
+    ///
+    /// NOT PRIVATE, because the foreground seam says a run began before that run reads a thing,
+    /// and it is outside this type.
+    static func report(_ outcome: String) async {
+        await flushKeptReports()
+        if await send(outcome) { return }
+        keep("\(instant(Date())) \(outcome)")
+    }
+
+    /// Sends one sentence and says whether the route took it. Only a 2xx is an arrival: the route
+    /// answers 204 where the report was filed and 500 where the store behind it refused the
+    /// write, and that second answer is exactly the case worth keeping.
+    private static func send(_ outcome: String) async -> Bool {
         var request = URLRequest(url: errorEndpoint)
         request.httpMethod = "POST"
         request.timeoutInterval = 10
@@ -125,10 +152,37 @@ cat >> "$APPDELEGATE" <<'SWIFT_HEALTH_SAMPLES'
                     url: "stream-health-samples",
                     userAgent: "StreamHealthSamplesIntent/\(build)",
                     errorUserId: nil))
-        else { return }
+        else { return false }
         request.httpBody = body
-        _ = try? await URLSession.shared.data(for: request)
+        guard let (_, response) = try? await URLSession.shared.data(for: request),
+            let http = response as? HTTPURLResponse
+        else { return false }
+        return (200..<300).contains(http.statusCode)
     }
+
+    /// Sends what earlier runs could not, oldest first, and keeps back whatever still will not
+    /// go. Called before the fresh report so the store reads in the order things happened.
+    private static func flushKeptReports() async {
+        let defaults = UserDefaults.standard
+        let kept = defaults.stringArray(forKey: keptReportsKey) ?? []
+        guard !kept.isEmpty else { return }
+        var left: [String] = []
+        for one in kept {
+            if await send(one) { continue }
+            left.append(one)
+        }
+        defaults.set(left, forKey: keptReportsKey)
+    }
+
+    private static func keep(_ line: String) {
+        let defaults = UserDefaults.standard
+        var kept = defaults.stringArray(forKey: keptReportsKey) ?? []
+        kept.append(line)
+        defaults.set(Array(kept.suffix(keptReportsKeptAtMost)), forKey: keptReportsKey)
+    }
+
+    private static let keptReportsKey = "healthSamples.keptReports"
+    private static let keptReportsKeptAtMost = 20
 
     private enum PostOutcome {
         case success(IngestResponse)

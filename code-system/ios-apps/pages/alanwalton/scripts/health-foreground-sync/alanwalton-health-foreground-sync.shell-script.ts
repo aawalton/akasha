@@ -23,11 +23,19 @@ export const alanwaltonHealthForegroundSync = {
     },
     {
       invariantKind: "departure",
-      statement: "An hour is spent before a run rather than after it.",
+      statement: "A quarter hour is spent before a run rather than after it.",
     },
     {
       invariantKind: "departure",
-      statement: "A run that never got to start costs an hour and loses no sample.",
+      statement: "A run that never got to start costs a quarter hour and loses no sample.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run says it began before that run reads a thing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that began and never finished reads apart from a run that never began.",
     },
   ],
 } as const satisfies ShellScript
