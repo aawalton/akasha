@@ -151,6 +151,16 @@ export const pageMatchesItsType = {
       invariantKind: "absence",
       statement: "A value's own sort is not judged here.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "A row leaving out a field its shape requires is refused, as a page leaving one out is.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "Every field of a record nested in an entry row is judged against what declares that record.",
+    },
   ],
   check: { maxCpuSeconds: 20 },
   audit: { maxCpuSeconds: 60 },
