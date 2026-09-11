@@ -244,6 +244,18 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "The reading a change owes is the reading that change's own edits owe.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An edit kept before is owed nothing again by the change drafted after it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The world those edits leave is still what the warrants are worked out against.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A change that refuses applies nothing and lands nothing.",
     },
     {

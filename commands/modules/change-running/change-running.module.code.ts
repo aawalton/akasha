@@ -213,10 +213,19 @@ export function applyIn(given: Arguments): Asked | string {
   return { message, drafts, measure, given: rest }
 }
 
+export function pathsNamedBy(
+  every: Iterable<string>,
+  asked: readonly FileChange[]
+): readonly string[] {
+  const named = new Set(asked.flatMap(pathsOf))
+  return [...every].filter((one) => named.has(one))
+}
+
 export function unwarrantedFor(
   root: string,
   agentId: string | null,
-  rows: readonly FileChange[]
+  rows: readonly FileChange[],
+  asked: readonly FileChange[]
 ): readonly string[] {
   const after = replayed({ edits: rows, refused: null }, bodyIn(root))
   if ("refused" in after) return [after.refused]
@@ -224,7 +233,7 @@ export function unwarrantedFor(
     ([path, body]): FileChange =>
       typeof body === "string" ? { kind: "add", path, content: body } : { kind: "remove", path }
   )
-  return owedIn(root, agentId, [...after.keys()], changingOf(root, edits))
+  return owedIn(root, agentId, pathsNamedBy(after.keys(), asked), changingOf(root, edits))
 }
 
 export function owedBy(value: Value | null): boolean {
@@ -281,7 +290,7 @@ export async function appending(
       answer = { report: [], refusals: [said.refused], code: 1 }
       return had
     }
-    const unread = owing ? unwarrantedFor(root, agentId, [...had, ...said.edits]) : []
+    const unread = owing ? unwarrantedFor(root, agentId, [...had, ...said.edits], said.edits) : []
     if (unread.length > 0) {
       answer = { report: [], refusals: unread, code: 3 }
       return had

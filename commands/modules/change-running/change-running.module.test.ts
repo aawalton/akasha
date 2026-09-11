@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { editsIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   appending,
@@ -9,6 +10,7 @@ import {
   noPageSaid,
   owedBy,
   owingBy,
+  pathsNamedBy,
   stamped,
   textIn,
 } from "akasha/commands/modules/change-running/change-running.module.code.ts"
@@ -425,6 +427,30 @@ test("a change whose writer owes reading asks the record before appending its ed
   expect(said.code).toBe(3)
   expect(said.refusals[0] ?? "").toContain("names no agent")
   expect(pathsIn(root)).toEqual([])
+})
+
+test("the reading a change owes is the reading that change's own edits owe", () => {
+  const asked: FileChange = { kind: "add", path: "a/asked.ts", content: "two" }
+
+  const said = pathsNamedBy(["a/kept.ts", "a/asked.ts"], [asked])
+
+  expect(said).toEqual(["a/asked.ts"])
+})
+
+test("an edit kept before is owed nothing again by the change drafted after it", () => {
+  const asked: FileChange = { kind: "add", path: "a/asked.ts", content: "two" }
+
+  const said = pathsNamedBy(["a/kept.ts"], [asked])
+
+  expect(said).toEqual([])
+})
+
+test("a move names the path it leaves and the path it reaches", () => {
+  const moved: FileChange = { kind: "move", pathFrom: "a/one.ts", pathTo: "a/two.ts" }
+
+  const said = pathsNamedBy(["a/one.ts", "a/two.ts", "a/kept.ts"], [moved])
+
+  expect(said).toEqual(["a/one.ts", "a/two.ts"])
 })
 
 test("the refusal opens with the retry and names where to look before it explains", () => {
