@@ -48,7 +48,11 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry file's page is that file's own name with the page type and no section.",
+      statement: "The page an entry file sits beside is the page the index files that file under.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No page is reached by composing that page's path out of a file's name.",
     },
     {
       invariantKind: "departure",

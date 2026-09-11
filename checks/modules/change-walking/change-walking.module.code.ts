@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { join } from "node:path"
 import type {
   Judged,
   Running,
@@ -8,7 +8,6 @@ import type {
 import { typeScripted } from "akasha/code/file-kind/file-kind.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
-  heldIn,
   pageNamed,
   partedIn,
   uncommittedHeld,
@@ -60,8 +59,6 @@ export type BoundedAsync = RunningAsync & Stated
 const CSS = "css"
 
 const CSS_ENDING = `.${CSS}`
-
-const PAGE_ENDING = ".ts"
 
 const PAGE_TYPES = new WeakMap<Shadow, ReadonlySet<string>>()
 
@@ -137,31 +134,25 @@ export const PAGES: Selector<Paged> = {
   },
 }
 
-type Keyed = {
-  readonly filed: ReadonlySet<string>
-  readonly rows: ReadonlySet<string>
-}
+const ROWED = new WeakMap<Shadow, ReadonlySet<string>>()
 
-const KEYED = new WeakMap<Shadow, Keyed>()
-
-function keyedIn(shadow: Shadow): Keyed {
-  const found = KEYED.get(shadow)
+function rowKeysIn(shadow: Shadow): ReadonlySet<string> {
+  const found = ROWED.get(shadow)
   if (found !== undefined) return found
-  const rows = new Set<string>()
+  const made = new Set<string>()
   for (const held of shadow.index.shapesAt().values()) {
-    if (held.pageTypeSlug === ENTRY_PROPERTY) rows.add(held.propertySlug)
+    if (held.pageTypeSlug === ENTRY_PROPERTY) made.add(held.propertySlug)
   }
-  const made: Keyed = { filed: new Set(shadow.index.fileKeysAt().keys()), rows }
-  KEYED.set(shadow, made)
+  ROWED.set(shadow, made)
   return made
 }
 
 export function pageOfRow(path: string, shadow: Shadow): string | null {
-  const keyed = keyedIn(shadow)
-  const held = heldIn(path, pageTypesFor(shadow), keyed.filed)
-  if (held.kind !== "property" || held.page === null || held.propertySlug === null) return null
-  if (!keyed.rows.has(held.propertySlug)) return null
-  return join(dirname(path), `${held.page}${PAGE_ENDING}`)
+  const one = shadow.index.listedByPath(path)[0]
+  if (one === undefined || one.path === path) return null
+  const key = partedIn(path)?.sections[0]
+  if (key === undefined || !rowKeysIn(shadow).has(key)) return null
+  return one.path
 }
 
 export function rowNamed(path: string, shadow: Shadow): boolean {
