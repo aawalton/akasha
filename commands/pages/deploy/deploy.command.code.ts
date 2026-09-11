@@ -12,6 +12,7 @@ import {
 } from "akasha/commands/pages/deploy/commit-naming/deploy-commit-naming.module.code.ts"
 import { recordedCommit } from "akasha/commands/pages/deploy/commit-recording/deploy-commit-recording.module.code.ts"
 import { installedOnDevice } from "akasha/commands/pages/deploy/device-installing/deploy-device-installing.module.code.ts"
+import { closureFor } from "akasha/commands/pages/deploy/file-closure/deploy-file-closure.module.code.ts"
 import { pushedImage } from "akasha/commands/pages/deploy/image-pushing/deploy-image-pushing.module.code.ts"
 import { putUpInferenceService } from "akasha/commands/pages/deploy/inference-installing/deploy-inference-installing.module.code.ts"
 import { shipIosApp } from "akasha/commands/pages/deploy/ios-shipping/deploy-ios-shipping.module.code.ts"
@@ -186,7 +187,8 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
   const commit = commitAt(given.root, ref)
   if (commit === null) return refused(saidOfNoCommit(ref ?? AT_HEAD), INPUT)
   if (read.kind !== IOS_APP || ref === null) {
-    const drifted = driftedFrom(given.root, commit)
+    const built = closureFor(given.root, read.pagePath)
+    const drifted = driftedFrom(given.root, commit).filter((one) => built.has(one))
     if (drifted.length > 0) return refused(saidOfDrift(slug, commit, drifted), INPUT)
   }
   const answer = await putUp(read, slug, commit, rest, given)

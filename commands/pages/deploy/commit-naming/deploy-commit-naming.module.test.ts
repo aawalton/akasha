@@ -40,7 +40,7 @@ test("text git left nothing in is read as no path at all", () => {
 })
 
 test("a refusal over one path says file rather than files", () => {
-  expect(saidOfDrift("atlas", COMMIT, ["one.ts"])).toContain("1 tracked file differing")
+  expect(saidOfDrift("atlas", COMMIT, ["one.ts"])).toContain("in 1 file that deploy is built from")
 })
 
 test("a refusal names the commit and the first three paths", () => {

@@ -35,6 +35,10 @@ export const deployCommitNaming = {
     },
     {
       invariantKind: "absence",
+      statement: "Which of the paths differing belong to a deploy is settled elsewhere.",
+    },
+    {
+      invariantKind: "absence",
       statement: "Nothing here settles whether a kind of deploy reads the worktree.",
     },
     {

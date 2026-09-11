@@ -28,5 +28,5 @@ export function saidOfDrift(slug: string, commit: string, drifted: readonly stri
   const shown = drifted.slice(0, SHOWN_PATHS).join(", ")
   const more = drifted.length > SHOWN_PATHS ? `, and ${drifted.length - SHOWN_PATHS} more` : ""
   const many = drifted.length === 1 ? "file" : "files"
-  return `\`${slug}\` would be put up at ${commit}, and the worktree holds ${drifted.length} tracked ${many} differing from that commit (${shown}${more}), so what would be put up is not what you are looking at. Commit what you are looking at, or name the commit to put up.`
+  return `\`${slug}\` would be put up at ${commit}, and the worktree differs from that commit in ${drifted.length} ${many} that deploy is built from (${shown}${more}), so what would be put up is not what you are looking at. Commit what you are looking at, or name the commit to put up.`
 }

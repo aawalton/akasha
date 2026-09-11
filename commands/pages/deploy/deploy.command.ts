@@ -14,6 +14,7 @@ export const deploy = {
   parts: [
     "module/deploy-commit-naming",
     "module/deploy-commit-recording",
+    "module/deploy-file-closure",
     "module/deploy-ios-shipping",
     "module/deploy-kind-reading",
     "module/deploy-web-putting-up",
@@ -57,7 +58,8 @@ export const deploy = {
     "an ios app is built on the MacBook at Release at the commit named, and the build takes its own number.",
     "`--ref` takes whatever git resolves — a branch, a tag or a sha — and every deploy reports the hash it resolved to.",
     "a call naming no `--ref` is made at the commit HEAD is at, and the report names that commit rather than HEAD.",
-    "a deploy is refused where a tracked file differs from the commit named, because what is put up would not be that commit.",
+    "a deploy is refused where a file it is built from differs from the commit named, because what is put up would not be that commit.",
+    "what a deploy is built from is the files beside its page and every file the code there imports, followed through.",
     "an ios app is built from origin on the MacBook, so a `--ref` named on one is built however the worktree differs from it.",
     "a commit no origin ref reaches is pushed there before the build begins, because the MacBook builds by fetching origin into its own clone.",
     "the report names the commit asked for before the build begins and the commit each half was pinned to once it has.",
@@ -156,7 +158,12 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
-      statement: "A worktree differing from that commit refuses every kind built from a checkout.",
+      statement:
+        "A worktree differing from that commit in a file a deploy is built from refuses that deploy.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file another deploy is built from and this one is not leaves this one alone.",
     },
     {
       invariantKind: "absence",
