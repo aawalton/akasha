@@ -4,7 +4,7 @@ export const modelAsking = {
   id: "01a05a43-f8db-71c8-8c89-8850c6e1b851",
   type: "module",
   slug: "model-asking",
-  definition: "prompts put to a model, each answered by the words it opens with",
+  definition: "prompts put to a model, each answered by the words the model writes back",
   code: "ts",
   invariants: [
     {
@@ -26,6 +26,14 @@ export const modelAsking = {
     {
       invariantKind: "departure",
       statement: "A prompt asked more than once sits more than once in the job.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A model answers at no temperature, so one prompt asked twice answers the same.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer has room to set out its reasons before the answer settles.",
     },
     {
       invariantKind: "departure",

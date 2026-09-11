@@ -6,6 +6,8 @@ const ABREAST = 4
 const UNREACHED = 3
 const WAITING = 2000
 const LONGEST = 8000
+const TOKENS = 900
+const TEMPERATURE = 0
 
 const AGAIN: ReadonlySet<number> = new Set([408, 409, 429, 500, 502, 503, 504, 529])
 
@@ -94,7 +96,8 @@ async function once(at: string, token: string, model: string, prompt: string): P
       },
       body: JSON.stringify({
         model,
-        max_tokens: 10,
+        max_tokens: TOKENS,
+        temperature: TEMPERATURE,
         system: [{ type: "text", text: SYSTEM }],
         messages: [{ role: "user", content: prompt }],
       }),
