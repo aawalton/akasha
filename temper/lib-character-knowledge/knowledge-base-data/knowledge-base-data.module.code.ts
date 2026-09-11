@@ -1,8 +1,8 @@
-import { BASE_DATA_MOTIFS } from "../knowledge-base-data-motifs/knowledge-base-data-motifs.module.code.ts"
-import { BASE_DATA_PLANS } from "../knowledge-base-data-plans/knowledge-base-data-plans.module.code.ts"
-import { BASE_DATA_RECIPES } from "../knowledge-base-data-recipes/knowledge-base-data-recipes.module.code.ts"
-import { INTERNAL } from "../knowledge-state/knowledge-state.module.code.ts"
-import type { MasterList } from "../knowledge-types/knowledge-types.module.code.ts"
+import { BASE_DATA_MOTIFS } from "akasha/temper/lib-character-knowledge/knowledge-base-data-motifs/knowledge-base-data-motifs.module.code.ts"
+import { BASE_DATA_PLANS } from "akasha/temper/lib-character-knowledge/knowledge-base-data-plans/knowledge-base-data-plans.module.code.ts"
+import { BASE_DATA_RECIPES } from "akasha/temper/lib-character-knowledge/knowledge-base-data-recipes/knowledge-base-data-recipes.module.code.ts"
+import { INTERNAL } from "akasha/temper/lib-character-knowledge/knowledge-state/knowledge-state.module.code.ts"
+import type { MasterList } from "akasha/temper/lib-character-knowledge/knowledge-types/knowledge-types.module.code.ts"
 
 const BASE_DATA: MasterList = {
   api: 101050,

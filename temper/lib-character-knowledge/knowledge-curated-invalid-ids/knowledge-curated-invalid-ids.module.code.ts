@@ -1,4 +1,4 @@
-import { INTERNAL } from "../knowledge-state/knowledge-state.module.code.ts"
+import { INTERNAL } from "akasha/temper/lib-character-knowledge/knowledge-state/knowledge-state.module.code.ts"
 
 INTERNAL.InvalidIds = {
   82038: true,

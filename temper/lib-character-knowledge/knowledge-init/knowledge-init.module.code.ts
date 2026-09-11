@@ -5,15 +5,18 @@ import {
   asNumberArray,
   asRecord,
   asString,
-} from "../knowledge-casts/knowledge-casts.module.code.ts"
-import { INTERNAL, PUBLIC } from "../knowledge-state/knowledge-state.module.code.ts"
+} from "akasha/temper/lib-character-knowledge/knowledge-casts/knowledge-casts.module.code.ts"
+import {
+  INTERNAL,
+  PUBLIC,
+} from "akasha/temper/lib-character-knowledge/knowledge-state/knowledge-state.module.code.ts"
 import type {
   AccountRecord,
   ChunkedData,
   MasterList,
   SavedVars,
-} from "../knowledge-types/knowledge-types.module.code.ts"
-import "../knowledge-init-chardata/knowledge-init-chardata.module.code.ts"
+} from "akasha/temper/lib-character-knowledge/knowledge-types/knowledge-types.module.code.ts"
+import "akasha/temper/lib-character-knowledge/knowledge-init-chardata/knowledge-init-chardata.module.code.ts"
 
 const DIAGNOSTICS = INTERNAL.diagnostics
 

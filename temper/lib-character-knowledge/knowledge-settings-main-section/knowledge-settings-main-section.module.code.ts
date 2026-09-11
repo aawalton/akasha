@@ -1,4 +1,7 @@
-import { INTERNAL, PUBLIC } from "../knowledge-state/knowledge-state.module.code.ts"
+import {
+  INTERNAL,
+  PUBLIC,
+} from "akasha/temper/lib-character-knowledge/knowledge-state/knowledge-state.module.code.ts"
 
 interface LamApi {
   OpenToPanel: (this: LamApi, panel: unknown) => void

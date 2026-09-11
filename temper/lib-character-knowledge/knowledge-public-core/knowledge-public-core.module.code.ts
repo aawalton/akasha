@@ -3,14 +3,17 @@ import {
   asNumber,
   asNumberArray,
   asString,
-} from "../knowledge-casts/knowledge-casts.module.code.ts"
-import { INTERNAL, PUBLIC } from "../knowledge-state/knowledge-state.module.code.ts"
+} from "akasha/temper/lib-character-knowledge/knowledge-casts/knowledge-casts.module.code.ts"
+import {
+  INTERNAL,
+  PUBLIC,
+} from "akasha/temper/lib-character-knowledge/knowledge-state/knowledge-state.module.code.ts"
 import type {
   Category,
   CharacterListEntry,
   CharacterRecord,
   Server,
-} from "../knowledge-types/knowledge-types.module.code.ts"
+} from "akasha/temper/lib-character-knowledge/knowledge-types/knowledge-types.module.code.ts"
 
 function asCharacterRecord(value: CharacterRecord | undefined): CharacterRecord {
   return value as CharacterRecord

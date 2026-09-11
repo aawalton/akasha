@@ -15,7 +15,7 @@ import type {
   SavedVars,
   Server,
   StyleMotifItems,
-} from "../knowledge-types/knowledge-types.module.code.ts"
+} from "akasha/temper/lib-character-knowledge/knowledge-types/knowledge-types.module.code.ts"
 
 export interface ScribingType {
   order: number

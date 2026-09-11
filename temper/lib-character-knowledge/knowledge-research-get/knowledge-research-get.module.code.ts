@@ -1,5 +1,5 @@
 import { LCCC } from "akasha/temper/lccc/lccc/lccc.module.code.ts"
-import { asNumber } from "../knowledge-casts/knowledge-casts.module.code.ts"
+import { asNumber } from "akasha/temper/lib-character-knowledge/knowledge-casts/knowledge-casts.module.code.ts"
 import {
   asCraftNode,
   getReverseLookup,
@@ -8,9 +8,15 @@ import {
   getTraitIndex,
   ITEM_LOOKUPS,
   initializeResearch,
-} from "../knowledge-research/knowledge-research.module.code.ts"
-import { INTERNAL, PUBLIC } from "../knowledge-state/knowledge-state.module.code.ts"
-import type { CharId, Server } from "../knowledge-types/knowledge-types.module.code.ts"
+} from "akasha/temper/lib-character-knowledge/knowledge-research/knowledge-research.module.code.ts"
+import {
+  INTERNAL,
+  PUBLIC,
+} from "akasha/temper/lib-character-knowledge/knowledge-state/knowledge-state.module.code.ts"
+import type {
+  CharId,
+  Server,
+} from "akasha/temper/lib-character-knowledge/knowledge-types/knowledge-types.module.code.ts"
 
 const TIME_INDEX_SIZE = 2
 const TIME_FIELD_SIZE = 4

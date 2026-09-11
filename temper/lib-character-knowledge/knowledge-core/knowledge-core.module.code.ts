@@ -4,13 +4,13 @@ import {
   asNumberArray,
   asRecord,
   asString,
-} from "../knowledge-casts/knowledge-casts.module.code.ts"
-import { INTERNAL } from "../knowledge-state/knowledge-state.module.code.ts"
+} from "akasha/temper/lib-character-knowledge/knowledge-casts/knowledge-casts.module.code.ts"
+import { INTERNAL } from "akasha/temper/lib-character-knowledge/knowledge-state/knowledge-state.module.code.ts"
 import type {
   ChunkedData,
   ItemDescriptor,
   ItemInput,
-} from "../knowledge-types/knowledge-types.module.code.ts"
+} from "akasha/temper/lib-character-knowledge/knowledge-types/knowledge-types.module.code.ts"
 
 function asItemDescriptor(value: ItemInput): ItemDescriptor {
   return value as ItemDescriptor

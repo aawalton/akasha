@@ -1,11 +1,14 @@
 import { LCCC } from "akasha/temper/lccc/lccc/lccc.module.code.ts"
 import {
+  asGlobalTable,
+  asString,
+} from "akasha/temper/lib-character-knowledge/knowledge-casts/knowledge-casts.module.code.ts"
+import { INTERNAL } from "akasha/temper/lib-character-knowledge/knowledge-state/knowledge-state.module.code.ts"
+import type { SavedVars } from "akasha/temper/lib-character-knowledge/knowledge-types/knowledge-types.module.code.ts"
+import {
   type LamRegistrar,
   registerPanel,
 } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
-import { asGlobalTable, asString } from "../knowledge-casts/knowledge-casts.module.code.ts"
-import { INTERNAL } from "../knowledge-state/knowledge-state.module.code.ts"
-import type { SavedVars } from "../knowledge-types/knowledge-types.module.code.ts"
 
 function asLamRegistrar(value: unknown): LamRegistrar<object, unknown, unknown[]> {
   return value as LamRegistrar<object, unknown, unknown[]>

@@ -1,6 +1,12 @@
-import { asGlobalTable, asNumber } from "../knowledge-casts/knowledge-casts.module.code.ts"
-import { LDEI } from "../knowledge-ldei/knowledge-ldei.module.code.ts"
-import { INTERNAL, PUBLIC } from "../knowledge-state/knowledge-state.module.code.ts"
+import {
+  asGlobalTable,
+  asNumber,
+} from "akasha/temper/lib-character-knowledge/knowledge-casts/knowledge-casts.module.code.ts"
+import { LDEI } from "akasha/temper/lib-character-knowledge/knowledge-ldei/knowledge-ldei.module.code.ts"
+import {
+  INTERNAL,
+  PUBLIC,
+} from "akasha/temper/lib-character-knowledge/knowledge-state/knowledge-state.module.code.ts"
 
 type Versioned = { version?: unknown } | undefined
 function asVersioned(value: unknown): Versioned {

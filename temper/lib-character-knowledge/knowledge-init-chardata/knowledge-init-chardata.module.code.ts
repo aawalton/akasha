@@ -1,6 +1,9 @@
-import { asRecord, asString } from "../knowledge-casts/knowledge-casts.module.code.ts"
-import { INTERNAL } from "../knowledge-state/knowledge-state.module.code.ts"
-import type { CharacterRecord } from "../knowledge-types/knowledge-types.module.code.ts"
+import {
+  asRecord,
+  asString,
+} from "akasha/temper/lib-character-knowledge/knowledge-casts/knowledge-casts.module.code.ts"
+import { INTERNAL } from "akasha/temper/lib-character-knowledge/knowledge-state/knowledge-state.module.code.ts"
+import type { CharacterRecord } from "akasha/temper/lib-character-knowledge/knowledge-types/knowledge-types.module.code.ts"
 
 const DIAGNOSTICS = INTERNAL.diagnostics
 

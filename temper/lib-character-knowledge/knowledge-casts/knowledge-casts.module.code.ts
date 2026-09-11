@@ -1,5 +1,8 @@
-import type { InternalTable, PublicTable } from "../knowledge-shape/knowledge-shape.module.code.ts"
-import type { MotifData } from "../knowledge-types/knowledge-types.module.code.ts"
+import type {
+  InternalTable,
+  PublicTable,
+} from "akasha/temper/lib-character-knowledge/knowledge-shape/knowledge-shape.module.code.ts"
+import type { MotifData } from "akasha/temper/lib-character-knowledge/knowledge-types/knowledge-types.module.code.ts"
 
 export function asInternalTable(value: unknown): InternalTable {
   return value as InternalTable

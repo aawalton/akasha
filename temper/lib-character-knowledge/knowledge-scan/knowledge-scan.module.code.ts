@@ -3,8 +3,11 @@ import {
   asNumber,
   asNumberArray,
   asRecord,
-} from "../knowledge-casts/knowledge-casts.module.code.ts"
-import { INTERNAL, PUBLIC } from "../knowledge-state/knowledge-state.module.code.ts"
+} from "akasha/temper/lib-character-knowledge/knowledge-casts/knowledge-casts.module.code.ts"
+import {
+  INTERNAL,
+  PUBLIC,
+} from "akasha/temper/lib-character-knowledge/knowledge-state/knowledge-state.module.code.ts"
 
 type KnowFn = (this: void, itemLink: string) => boolean
 function asKnowFn(value: unknown): KnowFn {

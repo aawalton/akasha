@@ -1,5 +1,8 @@
-import { asString } from "../knowledge-casts/knowledge-casts.module.code.ts"
-import { INTERNAL, PUBLIC } from "../knowledge-state/knowledge-state.module.code.ts"
+import { asString } from "akasha/temper/lib-character-knowledge/knowledge-casts/knowledge-casts.module.code.ts"
+import {
+  INTERNAL,
+  PUBLIC,
+} from "akasha/temper/lib-character-knowledge/knowledge-state/knowledge-state.module.code.ts"
 
 type IdsByLuaIndex = Record<number, number | undefined>
 function asIdsByLuaIndex(value: number[]): IdsByLuaIndex {

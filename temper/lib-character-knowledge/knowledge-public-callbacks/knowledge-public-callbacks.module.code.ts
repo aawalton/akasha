@@ -1,5 +1,8 @@
-import { asCallback } from "../knowledge-casts/knowledge-casts.module.code.ts"
-import { INTERNAL, PUBLIC } from "../knowledge-state/knowledge-state.module.code.ts"
+import { asCallback } from "akasha/temper/lib-character-knowledge/knowledge-casts/knowledge-casts.module.code.ts"
+import {
+  INTERNAL,
+  PUBLIC,
+} from "akasha/temper/lib-character-knowledge/knowledge-state/knowledge-state.module.code.ts"
 
 INTERNAL.callbacks = {
   [PUBLIC.EVENT_INITIALIZED]: {},

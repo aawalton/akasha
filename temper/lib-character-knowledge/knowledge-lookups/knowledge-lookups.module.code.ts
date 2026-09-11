@@ -1,6 +1,6 @@
-import type { ScribingType } from "../knowledge-shape/knowledge-shape.module.code.ts"
-import { INTERNAL } from "../knowledge-state/knowledge-state.module.code.ts"
-import type { Category } from "../knowledge-types/knowledge-types.module.code.ts"
+import type { ScribingType } from "akasha/temper/lib-character-knowledge/knowledge-shape/knowledge-shape.module.code.ts"
+import { INTERNAL } from "akasha/temper/lib-character-knowledge/knowledge-state/knowledge-state.module.code.ts"
+import type { Category } from "akasha/temper/lib-character-knowledge/knowledge-types/knowledge-types.module.code.ts"
 
 function asScribingType(value: {
   order: number

@@ -1,13 +1,22 @@
 import { LCCC } from "akasha/temper/lccc/lccc/lccc.module.code.ts"
-import { asRecord, asString } from "../knowledge-casts/knowledge-casts.module.code.ts"
-import type { ExportEntry, ExportEntryMeta } from "../knowledge-ldei/knowledge-ldei.module.code.ts"
-import { LDEI } from "../knowledge-ldei/knowledge-ldei.module.code.ts"
-import { INTERNAL, PUBLIC } from "../knowledge-state/knowledge-state.module.code.ts"
+import {
+  asRecord,
+  asString,
+} from "akasha/temper/lib-character-knowledge/knowledge-casts/knowledge-casts.module.code.ts"
+import type {
+  ExportEntry,
+  ExportEntryMeta,
+} from "akasha/temper/lib-character-knowledge/knowledge-ldei/knowledge-ldei.module.code.ts"
+import { LDEI } from "akasha/temper/lib-character-knowledge/knowledge-ldei/knowledge-ldei.module.code.ts"
+import {
+  INTERNAL,
+  PUBLIC,
+} from "akasha/temper/lib-character-knowledge/knowledge-state/knowledge-state.module.code.ts"
 import type {
   AccountMap,
   CharacterMap,
   CharacterRecord,
-} from "../knowledge-types/knowledge-types.module.code.ts"
+} from "akasha/temper/lib-character-knowledge/knowledge-types/knowledge-types.module.code.ts"
 
 const SHARE_TAG = "K"
 const SHARE_VERSION = 4

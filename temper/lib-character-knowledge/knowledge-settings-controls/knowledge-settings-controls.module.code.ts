@@ -1,6 +1,10 @@
-import { asRecord } from "../knowledge-casts/knowledge-casts.module.code.ts"
-import { INTERNAL } from "../knowledge-state/knowledge-state.module.code.ts"
-import type { Account, CharId, Server } from "../knowledge-types/knowledge-types.module.code.ts"
+import { asRecord } from "akasha/temper/lib-character-knowledge/knowledge-casts/knowledge-casts.module.code.ts"
+import { INTERNAL } from "akasha/temper/lib-character-knowledge/knowledge-state/knowledge-state.module.code.ts"
+import type {
+  Account,
+  CharId,
+  Server,
+} from "akasha/temper/lib-character-knowledge/knowledge-types/knowledge-types.module.code.ts"
 
 INTERNAL.SettingsBuildOptionsList = function (
   this: void,

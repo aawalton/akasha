@@ -5,8 +5,8 @@ import {
   asNumberArray,
   asPublicTable,
   asTable,
-} from "../knowledge-casts/knowledge-casts.module.code.ts"
-import type { Diagnostics as DiagnosticsShape } from "../knowledge-shape/knowledge-shape.module.code.ts"
+} from "akasha/temper/lib-character-knowledge/knowledge-casts/knowledge-casts.module.code.ts"
+import type { Diagnostics as DiagnosticsShape } from "akasha/temper/lib-character-knowledge/knowledge-shape/knowledge-shape.module.code.ts"
 
 export const PUBLIC = asPublicTable({})
 

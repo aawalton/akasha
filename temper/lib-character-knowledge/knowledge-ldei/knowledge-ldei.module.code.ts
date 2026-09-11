@@ -1,5 +1,9 @@
 import { LCCC } from "akasha/temper/lccc/lccc/lccc.module.code.ts"
-import { asCallback, asNumber, asString } from "../knowledge-casts/knowledge-casts.module.code.ts"
+import {
+  asCallback,
+  asNumber,
+  asString,
+} from "akasha/temper/lib-character-knowledge/knowledge-casts/knowledge-casts.module.code.ts"
 
 const VERSION = 4
 
