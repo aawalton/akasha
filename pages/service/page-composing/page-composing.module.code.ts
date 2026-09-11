@@ -18,6 +18,7 @@ import {
 } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -145,10 +146,6 @@ export function pathFor(
   return `${folder}/${under}${own}/${slug}.${pageTypeSlug}.ts`
 }
 
-function saying(keys: readonly string[]): string {
-  return keys.map((one) => `\`${one}\``).join(", ")
-}
-
 function shownAs(held: string): string {
   if (held.length <= SHOWN) return `\`${held}\``
   return `${held.length} characters opening \`${held.slice(0, SHOWN).replace(RUN_OF_SPACE, " ")}\``
@@ -218,13 +215,13 @@ export function composedFor(root: string, named: Naming): Composed {
   )
   if (unnamed.length > 0) {
     return {
-      refused: `\`${named.pageTypeSlug}\` declares no property carried as ${saying(unnamed)}`,
+      refused: `\`${named.pageTypeSlug}\` declares no property carried as ${namesDrawn(unnamed)}`,
     }
   }
   const secret = carried.filter((one) => one.secret && one.key in named.values)
   if (secret.length > 0) {
     return {
-      refused: `${saying(secret.map((one) => one.key))} is a secret, and this writes no secret`,
+      refused: `${namesDrawn(secret.map((one) => one.key))} is a secret, and this writes no secret`,
     }
   }
   const listed = listedAt(root, named.pageTypeSlug, named.slug)
