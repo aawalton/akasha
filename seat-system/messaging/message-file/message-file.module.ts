@@ -33,6 +33,15 @@ export const messageFile = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A message whose page would be over the byte ceiling is refused rather than landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page over that ceiling is a page no later change can write.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A message is claimed and taken by a path composed from that message's id.",
     },
     {

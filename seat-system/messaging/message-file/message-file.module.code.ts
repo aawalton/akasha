@@ -1,4 +1,5 @@
 import { existsSync } from "node:fs"
+import { CEILING } from "akasha/checks/code-checks/pages/file-length/file-length.code-check.decision.code.ts"
 import { AKASHA, akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
@@ -118,6 +119,15 @@ export async function writeMessage(stated: {
       detail:
         `a message page would land at ${composed.put.path}, outside ${PAGES_AT}, which is ` +
         `the only place read here, so nothing would ever drain it`,
+    }
+  }
+  const held = new TextEncoder().encode(composed.put.content).byteLength
+  if (held > CEILING) {
+    return {
+      kind: "refused",
+      detail:
+        `a message page of ${held} bytes is over the ${CEILING} byte ceiling a file is held to, ` +
+        `and a page over that ceiling can never be changed again, so send fewer words`,
     }
   }
   const landed = await landBodies(
