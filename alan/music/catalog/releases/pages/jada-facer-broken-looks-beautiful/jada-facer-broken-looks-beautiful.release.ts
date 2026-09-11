@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jadaFacerBrokenLooksBeautiful = {
   id: "01a0676a-d719-703b-8c0d-fa194f4afc9a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jada-facer-broken-looks-beautiful",
   title: "Broken Looks Beautiful",

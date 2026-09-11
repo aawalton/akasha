@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const imagineDragonsThunderYoungDumbBrokeWithKhalidMedley = {
   id: "01a0676a-d72e-703e-815a-db1d04ebfce3",
-  pageTypeSlug: "release",
   type: "release",
   slug: "imagine-dragons-thunder-young-dumb-broke-with-khalid-medley",
   title: "Thunder / Young Dumb & Broke (with Khalid) [Medley]",

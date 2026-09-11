@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const justinTimberlakeMyLove = {
   id: "01a0676a-d725-702e-a473-d5451c623f79",
-  pageTypeSlug: "release",
   type: "release",
   slug: "justin-timberlake-my-love",
   title: "My Love",

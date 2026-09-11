@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jadaFacerPrettySlowlyAcoustic = {
   id: "01a0676a-d727-701a-81f2-d9fab3e5704d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jada-facer-pretty-slowly-acoustic",
   title: "Pretty Slowly (Acoustic)",

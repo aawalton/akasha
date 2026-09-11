@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jadaFacerYouAreMySunshine = {
   id: "01a0676a-d732-7002-bb02-2098c03fe068",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jada-facer-you-are-my-sunshine",
   title: "You Are My Sunshine",

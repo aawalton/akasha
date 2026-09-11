@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const japaneseBreakfastBeSweetKoreanVersion = {
   id: "01a0676a-d718-7020-a186-8b04ef7e4497",
-  pageTypeSlug: "release",
   type: "release",
   slug: "japanese-breakfast-be-sweet-korean-version",
   title: "Be Sweet (Korean Version)",

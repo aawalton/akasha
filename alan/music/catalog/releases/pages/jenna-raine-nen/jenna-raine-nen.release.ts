@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jennaRaineNen = {
   id: "01a0676a-d725-7044-83c5-b3f859a76f92",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jenna-raine-nen",
   title: "nen",

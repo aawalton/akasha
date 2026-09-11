@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const florenceTheMachineSongsFromFinalFantasyXv = {
   id: "01a0676a-d729-7064-99d9-fa7eb4851bb7",
-  pageTypeSlug: "release",
   type: "release",
   slug: "florence-the-machine-songs-from-final-fantasy-xv",
   title: "Songs From Final Fantasy XV",

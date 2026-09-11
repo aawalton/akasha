@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jadaFacerLoveWillTearUsApart = {
   id: "01a0676a-d724-7004-8010-d3ff8445c6c0",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jada-facer-love-will-tear-us-apart",
   title: "Love Will Tear Us Apart",

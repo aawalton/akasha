@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const greenDayBulletInABible = {
   id: "01a0676a-d719-7042-80f2-416277fb75ff",
-  pageTypeSlug: "release",
   type: "release",
   slug: "green-day-bullet-in-a-bible",
   title: "Bullet in a Bible",

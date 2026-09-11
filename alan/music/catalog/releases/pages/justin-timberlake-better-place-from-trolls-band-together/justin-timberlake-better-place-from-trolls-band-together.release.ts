@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const justinTimberlakeBetterPlaceFromTrollsBandTogether = {
   id: "01a0676a-d718-704f-a0d6-152b489435ca",
-  pageTypeSlug: "release",
   type: "release",
   slug: "justin-timberlake-better-place-from-trolls-band-together",
   title: "Better Place (From TROLLS Band Together)",

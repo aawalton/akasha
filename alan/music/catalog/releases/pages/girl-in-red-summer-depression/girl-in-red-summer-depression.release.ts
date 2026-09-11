@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const girlInRedSummerDepression = {
   id: "01a0676a-d72a-7040-8ca0-aad7a6006cec",
-  pageTypeSlug: "release",
   type: "release",
   slug: "girl-in-red-summer-depression",
   title: "summer depression",

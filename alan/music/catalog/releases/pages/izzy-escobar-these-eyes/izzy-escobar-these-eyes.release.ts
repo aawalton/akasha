@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const izzyEscobarTheseEyes = {
   id: "01a0676a-d72e-7025-b287-f00169bd9aeb",
-  pageTypeSlug: "release",
   type: "release",
   slug: "izzy-escobar-these-eyes",
   title: "These Eyes",

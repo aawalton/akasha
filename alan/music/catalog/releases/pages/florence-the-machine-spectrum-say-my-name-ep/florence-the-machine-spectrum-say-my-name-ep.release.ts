@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const florenceTheMachineSpectrumSayMyNameEp = {
   id: "01a0676a-d729-7078-bfbe-ec40328ce5db",
-  pageTypeSlug: "release",
   type: "release",
   slug: "florence-the-machine-spectrum-say-my-name-ep",
   title: "Spectrum (Say My Name) EP",

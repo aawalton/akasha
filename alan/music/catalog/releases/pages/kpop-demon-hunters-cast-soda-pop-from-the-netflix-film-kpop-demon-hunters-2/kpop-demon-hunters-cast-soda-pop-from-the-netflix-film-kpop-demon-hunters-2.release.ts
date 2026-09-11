@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kpopDemonHuntersCastSodaPopFromTheNetflixFilmKpopDemonHunters2 = {
   id: "01a0676a-d729-7048-85fa-f53d6729729c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kpop-demon-hunters-cast-soda-pop-from-the-netflix-film-kpop-demon-hunters-2",
   title: "Soda Pop (from the Netflix film KPop Demon Hunters)",

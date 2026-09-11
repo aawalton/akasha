@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jadaFacerAllIWantAcoustic = {
   id: "01a0676a-d716-701e-a2b2-45e0675376db",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jada-facer-all-i-want-acoustic",
   title: "All I Want (Acoustic)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kpopDemonHuntersCastGoldenFromTheNetflixFilmKpopDemonHunters4 = {
   id: "01a0676a-d71f-7017-9099-ec69cb8acd24",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kpop-demon-hunters-cast-golden-from-the-netflix-film-kpop-demon-hunters-4",
   title: "Golden (from the Netflix film KPop Demon Hunters)",

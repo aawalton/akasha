@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kellyClarksonGetUpACowboysAnthem = {
   id: "01a0676a-d71e-7054-a0c7-0c4d0ca20d97",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kelly-clarkson-get-up-a-cowboys-anthem",
   title: "Get Up (A Cowboys Anthem)",

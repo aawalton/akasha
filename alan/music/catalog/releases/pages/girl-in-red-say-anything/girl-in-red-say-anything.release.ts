@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const girlInRedSayAnything = {
   id: "01a0676a-d728-704a-a900-6a87cadb53c3",
-  pageTypeSlug: "release",
   type: "release",
   slug: "girl-in-red-say-anything",
   title: "say anything",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jadaFacerItLlBeAlrightSlowedReverb = {
   id: "01a0676a-d722-700a-b9ce-2f3f1b99220a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jada-facer-it-ll-be-alright-slowed-reverb",
   title: "It’ll Be Alright - Slowed + Reverb",

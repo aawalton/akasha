@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const girlInRedYouNeedMeNowFeatSabrinaCarpenter = {
   id: "01a0676a-d732-700f-9698-e0f1117c3105",
-  pageTypeSlug: "release",
   type: "release",
   slug: "girl-in-red-you-need-me-now-feat-sabrina-carpenter",
   title: "You Need Me Now? (feat. Sabrina Carpenter)",

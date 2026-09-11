@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerryChainedToTheRhythmHotChipRemix = {
   id: "01a0676a-d71a-700e-8ee3-e85dcdc565c1",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-chained-to-the-rhythm-hot-chip-remix",
   title: "Chained To The Rhythm (Hot Chip Remix)",

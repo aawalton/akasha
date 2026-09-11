@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const justinTimberlakeFuturesexLovesoundsDeluxeEdition = {
   id: "01a0676a-d71e-704a-9168-0557678a31b8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "justin-timberlake-futuresex-lovesounds-deluxe-edition",
   title: "FutureSex/LoveSounds Deluxe Edition",

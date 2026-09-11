@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jadaFacerEveryBreathYouTakeAcoustic = {
   id: "01a0676a-d71d-7032-abd2-bf47b12d41e3",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jada-facer-every-breath-you-take-acoustic",
   title: "Every Breath You Take (Acoustic)",

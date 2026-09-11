@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentre = {
   id: "01a0676a-d729-7036-8893-7acd9ac96e1a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre",
   title: "Smoke + Mirrors Live (Live At The Air Canada Centre)",

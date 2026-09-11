@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const justinTimberlakeManOfTheWoods = {
   id: "01a0676a-d724-7032-b604-33546e4ff81d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "justin-timberlake-man-of-the-woods",
   title: "Man of the Woods",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kpopDemonHuntersCastGoldenDavidGuettaRemXFromTheNetflixFilmKpopDemonHunters = {
   id: "01a0676a-d71f-7012-b3b9-93b9aa0531a8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kpop-demon-hunters-cast-golden-david-guetta-rem-x-from-the-netflix-film-kpop-demon-hunters",
   title: "Golden [David Guetta REM/X (from the Netflix film KPop Demon Hunters)]",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const greenDayAmericanIdiot20thAnniversaryJesusOfSuburbia = {
   id: "01a0676a-d717-7005-a7f2-3bfa8c0463da",
-  pageTypeSlug: "release",
   type: "release",
   slug: "green-day-american-idiot-20th-anniversary-jesus-of-suburbia",
   title: "American Idiot (20th Anniversary - Jesus of Suburbia)",

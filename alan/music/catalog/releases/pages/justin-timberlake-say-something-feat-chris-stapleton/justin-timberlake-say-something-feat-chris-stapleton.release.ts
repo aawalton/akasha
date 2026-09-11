@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const justinTimberlakeSaySomethingFeatChrisStapleton = {
   id: "01a0676a-d728-704e-9f36-4aacd21f1c7f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "justin-timberlake-say-something-feat-chris-stapleton",
   title: "Say Something (feat. Chris Stapleton)",

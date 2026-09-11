@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kellyClarksonCreepLive = {
   id: "01a0676a-d71b-703e-a722-50cbdfaabb69",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kelly-clarkson-creep-live",
   title: "Creep (Live)",

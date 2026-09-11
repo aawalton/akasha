@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kpopDemonHuntersCastHowItSDoneFromTheNetflixFilmKpopDemonHunters = {
   id: "01a0676a-d720-7070-a639-970080d1895e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kpop-demon-hunters-cast-how-it-s-done-from-the-netflix-film-kpop-demon-hunters",
   title: "How It’s Done (from the Netflix film KPop Demon Hunters)",

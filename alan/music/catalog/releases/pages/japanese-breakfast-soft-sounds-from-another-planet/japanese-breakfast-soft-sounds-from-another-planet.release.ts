@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const japaneseBreakfastSoftSoundsFromAnotherPlanet = {
   id: "01a0676a-d729-704b-bc32-27f66a3e9602",
-  pageTypeSlug: "release",
   type: "release",
   slug: "japanese-breakfast-soft-sounds-from-another-planet",
   title: "Soft Sounds from Another Planet",

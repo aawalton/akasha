@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerryNeverReallyOverR3habRemix = {
   id: "01a0676a-d725-704c-aaa6-981f3d077204",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-never-really-over-r3hab-remix",
   title: "Never Really Over (R3HAB Remix)",

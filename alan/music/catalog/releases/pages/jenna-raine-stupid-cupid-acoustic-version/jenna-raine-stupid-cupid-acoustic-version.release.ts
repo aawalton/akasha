@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jennaRaineStupidCupidAcousticVersion = {
   id: "01a0676a-d72a-7038-9fe7-26aceab0b727",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jenna-raine-stupid-cupid-acoustic-version",
   title: "Stupid Cupid (Acoustic Version)",

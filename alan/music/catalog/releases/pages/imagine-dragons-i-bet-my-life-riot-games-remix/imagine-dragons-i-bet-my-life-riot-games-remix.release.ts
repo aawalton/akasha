@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const imagineDragonsIBetMyLifeRiotGamesRemix = {
   id: "01a0676a-d721-7003-a894-784ee5939511",
-  pageTypeSlug: "release",
   type: "release",
   slug: "imagine-dragons-i-bet-my-life-riot-games-remix",
   title: "I Bet My Life (Riot Games Remix)",

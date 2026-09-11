@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kellyClarksonChemistryDeluxe = {
   id: "01a0676a-d71a-7028-8df4-f5535e15f57d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kelly-clarkson-chemistry-deluxe",
   title: "chemistry (Deluxe)",

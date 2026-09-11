@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const justinTimberlakeWhatGoesAroundComesAround = {
   id: "01a0676a-d730-7043-a829-71c8645073f6",
-  pageTypeSlug: "release",
   type: "release",
   slug: "justin-timberlake-what-goes-around-comes-around",
   title: "What Goes Around...Comes Around",

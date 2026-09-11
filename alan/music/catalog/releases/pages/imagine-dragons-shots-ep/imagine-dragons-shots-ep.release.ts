@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const imagineDragonsShotsEp = {
   id: "01a0676a-d728-7078-9f2b-a59f3940ed5c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "imagine-dragons-shots-ep",
   title: "Shots EP",

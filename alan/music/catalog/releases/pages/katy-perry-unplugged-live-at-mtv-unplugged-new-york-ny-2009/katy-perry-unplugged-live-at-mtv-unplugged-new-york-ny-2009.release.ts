@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerryUnpluggedLiveAtMtvUnpluggedNewYorkNy2009 = {
   id: "01a0676a-d72f-7044-8620-b34e893b99e5",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-unplugged-live-at-mtv-unplugged-new-york-ny-2009",
   title: "Unplugged (Live At MTV Unplugged, New York, NY/2009)",

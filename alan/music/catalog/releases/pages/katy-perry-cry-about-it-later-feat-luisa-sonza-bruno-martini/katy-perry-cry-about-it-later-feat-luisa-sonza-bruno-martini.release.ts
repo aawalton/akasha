@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerryCryAboutItLaterFeatLuisaSonzaBrunoMartini = {
   id: "01a0676a-d71b-7043-9544-ee0d5d7e0c5c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-cry-about-it-later-feat-luisa-sonza-bruno-martini",
   title: "Cry About It Later (feat. Luísa Sonza & Bruno Martini)",

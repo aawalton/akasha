@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kellyClarksonMeaningOfLife = {
   id: "01a0676a-d724-7046-a57e-31b57f508e3e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kelly-clarkson-meaning-of-life",
   title: "Meaning of Life",

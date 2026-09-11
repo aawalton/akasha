@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kellyClarksonShakeItOutLive = {
   id: "01a0676a-d728-706b-a42b-08d962cf7a66",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kelly-clarkson-shake-it-out-live",
   title: "Shake It Out (Live)",

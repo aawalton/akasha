@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jamesTaylor2Gorilla2019Remaster = {
   id: "01a0676a-d71f-7021-b32d-d6fd5cf0ba0a",
-  pageTypeSlug: "release",
   type: "release",
   slug: "james-taylor-2-gorilla-2019-remaster",
   title: "Gorilla (2019 Remaster)",

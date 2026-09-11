@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const greenDayRevolutionRadio = {
   id: "01a0676a-d727-7073-aafe-71ad14e48863",
-  pageTypeSlug: "release",
   type: "release",
   slug: "green-day-revolution-radio",
   title: "Revolution Radio",

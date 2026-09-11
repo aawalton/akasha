@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const justinTimberlakeYouLlBeThere = {
   id: "01a0676a-d732-700d-9b14-654497da56cb",
-  pageTypeSlug: "release",
   type: "release",
   slug: "justin-timberlake-you-ll-be-there",
   title: "You’ll Be There",

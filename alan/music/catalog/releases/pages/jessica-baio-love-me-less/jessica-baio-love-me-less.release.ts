@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jessicaBaioLoveMeLess = {
   id: "01a0676a-d723-7070-82ea-8065f00e0526",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jessica-baio-love-me-less",
   title: "love me less",

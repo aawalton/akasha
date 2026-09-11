@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const justinTimberlakeIcuWithJustinTimberlakeRemix = {
   id: "01a0676a-d721-704e-b484-3ab3ff93e9a1",
-  pageTypeSlug: "release",
   type: "release",
   slug: "justin-timberlake-icu-with-justin-timberlake-remix",
   title: "ICU (with Justin Timberlake) [Remix]",

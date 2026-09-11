@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kpopDemonHuntersCastYourIdolFromTheNetflixFilmKpopDemonHunters = {
   id: "01a0676a-d732-7024-8c10-a190ba72da44",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kpop-demon-hunters-cast-your-idol-from-the-netflix-film-kpop-demon-hunters",
   title: "Your Idol (from the Netflix film KPop Demon Hunters)",

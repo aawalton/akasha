@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const imagineDragonsLiveAtAllsaintsStudios = {
   id: "01a0676a-d723-7041-b41a-8920f79d1a0c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "imagine-dragons-live-at-allsaints-studios",
   title: "Live At AllSaints Studios",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jadaFacerSuchGreatHeightsAcoustic = {
   id: "01a0676a-d72a-7039-9aa4-ba16571f982b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jada-facer-such-great-heights-acoustic",
   title: "Such Great Heights (Acoustic)",

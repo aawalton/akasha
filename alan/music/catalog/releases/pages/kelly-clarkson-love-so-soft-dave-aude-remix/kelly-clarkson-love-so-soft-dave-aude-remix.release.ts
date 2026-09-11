@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kellyClarksonLoveSoSoftDaveAudeRemix = {
   id: "01a0676a-d723-707e-af8c-f84d9d6b18eb",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kelly-clarkson-love-so-soft-dave-aude-remix",
   title: "Love So Soft (Dave Aude Remix)",

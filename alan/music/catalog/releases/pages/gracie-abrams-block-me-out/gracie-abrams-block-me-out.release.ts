@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const gracieAbramsBlockMeOut = {
   id: "01a0676a-d719-7017-ac95-c271cdab012c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "gracie-abrams-block-me-out",
   title: "Block me out",

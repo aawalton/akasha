@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const justinTimberlakeKeepGoingUp = {
   id: "01a0676a-d722-7039-9729-a95489b69f2f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "justin-timberlake-keep-going-up",
   title: "Keep Going Up",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const florenceTheMachineOneOfTheGreats = {
   id: "01a0676a-d726-7036-befc-f71a07cb944e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "florence-the-machine-one-of-the-greats",
   title: "One of the Greats",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerryWomanSWorldEp = {
   id: "01a0676a-d731-7034-88bf-cbae47d2eb0d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-woman-s-world-ep",
   title: "WOMAN’S WORLD EP",

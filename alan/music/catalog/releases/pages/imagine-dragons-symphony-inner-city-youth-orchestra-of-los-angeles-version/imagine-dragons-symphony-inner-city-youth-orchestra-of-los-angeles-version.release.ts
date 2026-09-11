@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const imagineDragonsSymphonyInnerCityYouthOrchestraOfLosAngelesVersion = {
   id: "01a0676a-d72b-700b-9f2c-4874d373216b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "imagine-dragons-symphony-inner-city-youth-orchestra-of-los-angeles-version",
   title: "Symphony (Inner City Youth Orchestra of Los Angeles Version)",

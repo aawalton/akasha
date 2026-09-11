@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kellyClarksonMissIndependentJuniorVasquezTribal = {
   id: "01a0676a-d724-7077-9a28-36ae3bd1af51",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kelly-clarkson-miss-independent-junior-vasquez-tribal",
   title: "Miss Independent (Junior Vasquez Tribal)",

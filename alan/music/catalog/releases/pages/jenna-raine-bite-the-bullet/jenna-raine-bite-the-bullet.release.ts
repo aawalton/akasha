@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jennaRaineBiteTheBullet = {
   id: "01a0676a-d719-700f-a17a-b4db3e410806",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jenna-raine-bite-the-bullet",
   title: "BITE THE BULLET",

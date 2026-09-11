@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const greenDay1039SmoothedOutSlappyHours = {
   id: "01a0676a-d714-7007-906d-d1777b3e6115",
-  pageTypeSlug: "release",
   type: "release",
   slug: "green-day-1-039-smoothed-out-slappy-hours",
   title: "1,039 / Smoothed out Slappy Hours",

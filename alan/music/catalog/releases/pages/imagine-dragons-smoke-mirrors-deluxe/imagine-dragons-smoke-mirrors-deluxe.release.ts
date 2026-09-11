@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const imagineDragonsSmokeMirrorsDeluxe = {
   id: "01a0676a-d729-7035-85e6-59a6c41d9a6b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "imagine-dragons-smoke-mirrors-deluxe",
   title: "Smoke + Mirrors (Deluxe)",

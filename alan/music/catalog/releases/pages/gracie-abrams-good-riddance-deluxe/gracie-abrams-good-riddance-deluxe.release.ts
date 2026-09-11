@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const gracieAbramsGoodRiddanceDeluxe = {
   id: "01a0676a-d71f-701d-a466-ee841e6ada06",
-  pageTypeSlug: "release",
   type: "release",
   slug: "gracie-abrams-good-riddance-deluxe",
   title: "Good Riddance (Deluxe)",

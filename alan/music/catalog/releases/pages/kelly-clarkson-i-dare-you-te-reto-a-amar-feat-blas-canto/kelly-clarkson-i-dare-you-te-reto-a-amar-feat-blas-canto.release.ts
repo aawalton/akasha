@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kellyClarksonIDareYouTeRetoAAmarFeatBlasCanto = {
   id: "01a0676a-d721-700f-abbb-b2a2192bbd5f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kelly-clarkson-i-dare-you-te-reto-a-amar-feat-blas-canto",
   title: "I Dare You (Te Reto A Amar) [feat. Blas Cantó]",

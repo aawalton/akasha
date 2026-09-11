@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerryNeverReallyOver = {
   id: "01a0676a-d725-704b-945e-7864bbff3f6c",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-never-really-over",
   title: "Never Really Over",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const florenceTheMachinePatriciaAcoustic = {
   id: "01a0676a-d726-7065-b57e-1daa6ac840da",
-  pageTypeSlug: "release",
   type: "release",
   slug: "florence-the-machine-patricia-acoustic",
   title: "Patricia (Acoustic)",

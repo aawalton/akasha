@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kellyClarksonHeatBynonRemix = {
   id: "01a0676a-d720-7012-a7d6-d4c911e0e99b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kelly-clarkson-heat-bynon-remix",
   title: "Heat (BYNON Remix)",

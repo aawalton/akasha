@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kellyClarksonMineLiveFromTheBelasco = {
   id: "01a0676a-d724-706a-87bc-4b700043b13b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kelly-clarkson-mine-live-from-the-belasco",
   title: "mine (Live From The Belasco)",

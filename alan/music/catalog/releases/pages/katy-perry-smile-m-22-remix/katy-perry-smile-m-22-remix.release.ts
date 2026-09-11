@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerrySmileM22Remix = {
   id: "01a0676a-d729-702f-ba28-95ea00addbb4",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-smile-m-22-remix",
   title: "Smile (M-22 Remix)",

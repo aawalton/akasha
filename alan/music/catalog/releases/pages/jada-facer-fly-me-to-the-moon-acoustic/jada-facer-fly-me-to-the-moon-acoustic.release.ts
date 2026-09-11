@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jadaFacerFlyMeToTheMoonAcoustic = {
   id: "01a0676a-d71e-7017-a0db-2e4c162604bb",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jada-facer-fly-me-to-the-moon-acoustic",
   title: "Fly Me to the Moon (Acoustic)",

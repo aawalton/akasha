@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const greenDayBoulevardOfBrokenDreams = {
   id: "01a0676a-d719-7027-aafa-414559742b0e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "green-day-boulevard-of-broken-dreams",
   title: "Boulevard of Broken Dreams",

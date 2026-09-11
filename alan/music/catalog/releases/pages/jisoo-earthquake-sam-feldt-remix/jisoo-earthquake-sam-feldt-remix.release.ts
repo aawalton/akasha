@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jisooEarthquakeSamFeldtRemix = {
   id: "01a0676a-d71c-704a-a17a-0ef37ee74a53",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jisoo-earthquake-sam-feldt-remix",
   title: "earthquake (Sam Feldt remix)",

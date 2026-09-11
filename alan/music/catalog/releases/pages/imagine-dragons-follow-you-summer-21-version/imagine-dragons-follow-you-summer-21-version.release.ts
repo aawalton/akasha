@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const imagineDragonsFollowYouSummer21Version = {
   id: "01a0676a-d71e-7022-94f6-f1c8c4f73ed0",
-  pageTypeSlug: "release",
   type: "release",
   slug: "imagine-dragons-follow-you-summer-21-version",
   title: "Follow You (Summer ’21 Version)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jadaFacerTheOneThatGotAway = {
   id: "01a0676a-d72d-704a-adbc-a75867fc77d0",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jada-facer-the-one-that-got-away",
   title: "The One That Got Away",

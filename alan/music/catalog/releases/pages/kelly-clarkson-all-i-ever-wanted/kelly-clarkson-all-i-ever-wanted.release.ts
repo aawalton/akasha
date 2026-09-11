@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kellyClarksonAllIEverWanted = {
   id: "01a0676a-d716-7019-a4a4-bc5fd6df262d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kelly-clarkson-all-i-ever-wanted",
   title: "All I Ever Wanted",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const justinTimberlakeTkoBlackFridayRemixFeatJColeAApRockyPushaT = {
   id: "01a0676a-d72e-7046-b681-c30a1af2480b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "justin-timberlake-tko-black-friday-remix-feat-j-cole-a-ap-rocky-pusha-t",
   title: "TKO (Black Friday Remix) (feat. J. Cole, A$AP Rocky & Pusha T)",

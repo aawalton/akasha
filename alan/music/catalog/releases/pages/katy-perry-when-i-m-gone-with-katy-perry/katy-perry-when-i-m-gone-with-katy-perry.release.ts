@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerryWhenIMGoneWithKatyPerry = {
   id: "01a0676a-d730-7053-bc2c-1aeb8a374ec4",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-when-i-m-gone-with-katy-perry",
   title: "When I’m Gone (with Katy Perry)",

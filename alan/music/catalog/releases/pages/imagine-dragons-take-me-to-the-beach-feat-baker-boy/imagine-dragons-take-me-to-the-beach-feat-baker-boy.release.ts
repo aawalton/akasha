@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const imagineDragonsTakeMeToTheBeachFeatBakerBoy = {
   id: "01a0676a-d72b-7015-80cd-d343e7dbe82f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "imagine-dragons-take-me-to-the-beach-feat-baker-boy",
   title: "Take Me to the Beach (feat. Baker Boy)",

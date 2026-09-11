@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kellyClarksonStrongerDeluxeVersion = {
   id: "01a0676a-d72a-7031-96fe-7bfe5fdc01ef",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kelly-clarkson-stronger-deluxe-version",
   title: "Stronger (Deluxe Version)",

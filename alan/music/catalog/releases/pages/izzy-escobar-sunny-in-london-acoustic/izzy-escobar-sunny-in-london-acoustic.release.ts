@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const izzyEscobarSunnyInLondonAcoustic = {
   id: "01a0676a-d72a-7045-9e55-5b12e4c38712",
-  pageTypeSlug: "release",
   type: "release",
   slug: "izzy-escobar-sunny-in-london-acoustic",
   title: "Sunny in London (Acoustic)",

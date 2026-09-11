@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const greenDayXmasTimeOfTheYear = {
   id: "01a0676a-d731-7042-813f-9b9e682b7ed4",
-  pageTypeSlug: "release",
   type: "release",
   slug: "green-day-xmas-time-of-the-year",
   title: "Xmas Time of the Year",

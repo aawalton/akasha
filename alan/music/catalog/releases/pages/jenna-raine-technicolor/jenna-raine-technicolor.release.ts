@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jennaRaineTechnicolor = {
   id: "01a0676a-d72c-7007-a4ac-236cba20086e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jenna-raine-technicolor",
   title: "Technicolor",

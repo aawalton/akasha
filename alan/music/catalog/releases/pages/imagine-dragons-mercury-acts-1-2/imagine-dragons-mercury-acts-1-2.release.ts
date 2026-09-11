@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const imagineDragonsMercuryActs12 = {
   id: "01a0676a-d724-704d-83c4-0c60085cf037",
-  pageTypeSlug: "release",
   type: "release",
   slug: "imagine-dragons-mercury-acts-1-2",
   title: "Mercury - Acts 1 & 2",

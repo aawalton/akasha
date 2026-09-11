@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerryIKissedAGirl = {
   id: "01a0676a-d721-7023-8dc9-dc3bba9f429f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-i-kissed-a-girl",
   title: "I Kissed A Girl",

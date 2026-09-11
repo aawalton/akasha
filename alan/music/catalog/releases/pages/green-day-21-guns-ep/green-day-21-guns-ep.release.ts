@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const greenDay21GunsEp = {
   id: "01a0676a-d714-7027-b427-d778d19c39d2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "green-day-21-guns-ep",
   title: "21 Guns EP",

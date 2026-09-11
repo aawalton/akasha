@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const imagineDragonsBelieverFeatLilWayne = {
   id: "01a0676a-d718-703a-8793-774340c04749",
-  pageTypeSlug: "release",
   type: "release",
   slug: "imagine-dragons-believer-feat-lil-wayne",
   title: "Believer (feat. Lil Wayne)",

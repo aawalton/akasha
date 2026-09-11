@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const greenDaySmashItLikeBelushi = {
   id: "01a0676a-d729-702a-8a26-342ff6885498",
-  pageTypeSlug: "release",
   type: "release",
   slug: "green-day-smash-it-like-belushi",
   title: "Smash It Like Belushi",

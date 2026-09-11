@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const japaneseBreakfastGliderFromSableOriginalVideoGameSoundtrack = {
   id: "01a0676a-d71f-7004-bac8-05a4ce654cb7",
-  pageTypeSlug: "release",
   type: "release",
   slug: "japanese-breakfast-glider-from-sable-original-video-game-soundtrack",
   title: 'Glider (from "Sable" Original Video Game Soundtrack)',

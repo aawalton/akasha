@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const greenDayTheSimpsonsTheme = {
   id: "01a0676a-d72e-700b-9af8-b17ad8696a60",
-  pageTypeSlug: "release",
   type: "release",
   slug: "green-day-the-simpsons-theme",
   title: "The Simpsons Theme",

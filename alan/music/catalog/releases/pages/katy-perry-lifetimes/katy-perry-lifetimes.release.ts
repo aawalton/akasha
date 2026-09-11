@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerryLifetimes = {
   id: "01a0676a-d723-702d-becb-e534de027f34",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-lifetimes",
   title: "LIFETIMES",

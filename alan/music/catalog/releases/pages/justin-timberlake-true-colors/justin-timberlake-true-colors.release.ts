@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const justinTimberlakeTrueColors = {
   id: "01a0676a-d72f-701e-bd39-1c24e58d48d8",
-  pageTypeSlug: "release",
   type: "release",
   slug: "justin-timberlake-true-colors",
   title: "True Colors",

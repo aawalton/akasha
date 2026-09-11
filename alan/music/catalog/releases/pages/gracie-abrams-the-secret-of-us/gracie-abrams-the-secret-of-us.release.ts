@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const gracieAbramsTheSecretOfUs = {
   id: "01a0676a-d72e-7006-80b2-8b9e15c2efd0",
-  pageTypeSlug: "release",
   type: "release",
   slug: "gracie-abrams-the-secret-of-us",
   title: "The Secret of Us",

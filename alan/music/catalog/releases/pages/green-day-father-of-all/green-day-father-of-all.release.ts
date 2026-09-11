@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const greenDayFatherOfAll = {
   id: "01a0676a-d71d-7066-88d1-7df309dabd05",
-  pageTypeSlug: "release",
   type: "release",
   slug: "green-day-father-of-all",
   title: "Father of All...",

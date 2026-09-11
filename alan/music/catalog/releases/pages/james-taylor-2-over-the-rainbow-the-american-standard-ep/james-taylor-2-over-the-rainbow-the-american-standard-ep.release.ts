@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jamesTaylor2OverTheRainbowTheAmericanStandardEp = {
   id: "01a0676a-d726-7055-8a63-afbd3a010eed",
-  pageTypeSlug: "release",
   type: "release",
   slug: "james-taylor-2-over-the-rainbow-the-american-standard-ep",
   title: "Over The Rainbow: The American Standard EP",

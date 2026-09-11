@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const justinTimberlakeSexytracksTheSexybackRemixes = {
   id: "01a0676a-d728-7065-99b3-5906e2087d33",
-  pageTypeSlug: "release",
   type: "release",
   slug: "justin-timberlake-sexytracks-the-sexyback-remixes",
   title: "SexyTracks: The SexyBack Remixes",

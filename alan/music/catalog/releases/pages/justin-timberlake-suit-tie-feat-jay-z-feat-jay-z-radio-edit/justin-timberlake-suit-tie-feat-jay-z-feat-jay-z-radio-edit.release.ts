@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const justinTimberlakeSuitTieFeatJayZFeatJayZRadioEdit = {
   id: "01a0676a-d72a-703f-9629-e0dc2630be80",
-  pageTypeSlug: "release",
   type: "release",
   slug: "justin-timberlake-suit-tie-feat-jay-z-feat-jay-z-radio-edit",
   title: "Suit & Tie (feat. JAY Z) (feat. JAY-Z) [Radio Edit]",

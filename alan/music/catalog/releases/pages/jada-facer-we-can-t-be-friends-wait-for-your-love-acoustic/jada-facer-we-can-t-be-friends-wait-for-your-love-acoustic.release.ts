@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jadaFacerWeCanTBeFriendsWaitForYourLoveAcoustic = {
   id: "01a0676a-d730-702b-9de1-69d3541d9e42",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jada-facer-we-can-t-be-friends-wait-for-your-love-acoustic",
   title: "we can't be friends (wait for your love) [Acoustic]",

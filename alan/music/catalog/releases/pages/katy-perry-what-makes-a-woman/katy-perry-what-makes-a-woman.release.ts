@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerryWhatMakesAWoman = {
   id: "01a0676a-d730-704a-ae9e-b6c5684e379e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-what-makes-a-woman",
   title: "What Makes A Woman",

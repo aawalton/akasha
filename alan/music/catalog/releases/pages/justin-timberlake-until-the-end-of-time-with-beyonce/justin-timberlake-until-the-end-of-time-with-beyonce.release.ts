@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const justinTimberlakeUntilTheEndOfTimeWithBeyonce = {
   id: "01a0676a-d72f-7054-96e8-56fad0401fe5",
-  pageTypeSlug: "release",
   type: "release",
   slug: "justin-timberlake-until-the-end-of-time-with-beyonce",
   title: "Until The End Of Time (with Beyoncé)",

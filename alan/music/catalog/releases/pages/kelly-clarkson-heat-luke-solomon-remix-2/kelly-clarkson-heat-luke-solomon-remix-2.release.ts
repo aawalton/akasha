@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kellyClarksonHeatLukeSolomonRemix2 = {
   id: "01a0676a-d720-7016-823c-9ecbb008e1e2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kelly-clarkson-heat-luke-solomon-remix-2",
   title: "Heat (Luke Solomon Remix)",

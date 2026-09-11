@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilm = {
   id: "01a0676a-d722-704d-a812-6fd333972057",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film",
   title: "KPop Demon Hunters (Soundtrack from the Netflix Film)",

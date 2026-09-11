@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jadaFacerMissAmericanaTheHeartbreakPrince = {
   id: "01a0676a-d724-7076-8043-68112327e2ac",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jada-facer-miss-americana-the-heartbreak-prince",
   title: "Miss Americana & The Heartbreak Prince",

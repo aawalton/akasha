@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const greenDayYouCanTPutYourArmsRoundAMemory = {
   id: "01a0676a-d732-7006-ba94-ab4bcdc822b2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "green-day-you-can-t-put-your-arms-round-a-memory",
   title: "You Can't Put Your Arms Round a Memory",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const girlInRedSayItSpotifyStudioOysterRecording = {
   id: "01a0676a-d728-704b-a468-497f40335642",
-  pageTypeSlug: "release",
   type: "release",
   slug: "girl-in-red-say-it-spotify-studio-oyster-recording",
   title: "Say It - Spotify Studio Oyster Recording",

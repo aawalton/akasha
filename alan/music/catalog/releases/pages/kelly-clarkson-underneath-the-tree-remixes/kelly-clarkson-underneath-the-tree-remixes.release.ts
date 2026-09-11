@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kellyClarksonUnderneathTheTreeRemixes = {
   id: "01a0676a-d72f-703e-8f62-a65c9f59e463",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kelly-clarkson-underneath-the-tree-remixes",
   title: "Underneath the Tree (Remixes)",

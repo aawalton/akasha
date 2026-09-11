@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const imagineDragonsWhateverItTakesMissCongenialityRemix = {
   id: "01a0676a-d730-704f-9bef-dcd3d8926766",
-  pageTypeSlug: "release",
   type: "release",
   slug: "imagine-dragons-whatever-it-takes-miss-congeniality-remix",
   title: "Whatever It Takes (Miss Congeniality Remix)",

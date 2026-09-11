@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const imagineDragonsFollowYouCutthroat = {
   id: "01a0676a-d71e-7021-883d-b88bb4e9d3b2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "imagine-dragons-follow-you-cutthroat",
   title: "Follow You / Cutthroat",

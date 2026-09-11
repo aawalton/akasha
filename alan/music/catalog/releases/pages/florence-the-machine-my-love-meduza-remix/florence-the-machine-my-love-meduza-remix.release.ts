@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const florenceTheMachineMyLoveMeduzaRemix = {
   id: "01a0676a-d725-7031-a71f-424422ad6776",
-  pageTypeSlug: "release",
   type: "release",
   slug: "florence-the-machine-my-love-meduza-remix",
   title: "My Love (MEDUZA Remix)",

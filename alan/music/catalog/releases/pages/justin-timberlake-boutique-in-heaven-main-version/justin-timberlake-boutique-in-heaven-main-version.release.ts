@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const justinTimberlakeBoutiqueInHeavenMainVersion = {
   id: "01a0676a-d719-7028-b65e-066e5a32f051",
-  pageTypeSlug: "release",
   type: "release",
   slug: "justin-timberlake-boutique-in-heaven-main-version",
   title: "Boutique In Heaven (Main Version)",

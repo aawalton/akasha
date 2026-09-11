@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const imagineDragonsShotsTheFunkHuntersRemix = {
   id: "01a0676a-d728-7079-bcf4-0b1510d5e204",
-  pageTypeSlug: "release",
   type: "release",
   slug: "imagine-dragons-shots-the-funk-hunters-remix",
   title: "Shots (The Funk Hunters Remix)",

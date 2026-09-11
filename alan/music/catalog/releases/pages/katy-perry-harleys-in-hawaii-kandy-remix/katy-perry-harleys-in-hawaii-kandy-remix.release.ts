@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerryHarleysInHawaiiKandyRemix = {
   id: "01a0676a-d71f-7052-8fba-f151f922ca07",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-harleys-in-hawaii-kandy-remix",
   title: "Harleys In Hawaii (KANDY Remix)",

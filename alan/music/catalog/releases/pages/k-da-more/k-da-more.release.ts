@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kDaMore = {
   id: "01a0676a-d725-7000-954f-056dac84a608",
-  pageTypeSlug: "release",
   type: "release",
   slug: "k-da-more",
   title: "MORE",

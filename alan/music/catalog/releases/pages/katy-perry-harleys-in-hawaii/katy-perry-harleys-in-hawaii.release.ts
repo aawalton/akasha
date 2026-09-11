@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerryHarleysInHawaii = {
   id: "01a0676a-d71f-7051-8ad2-83857d18f3c2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-harleys-in-hawaii",
   title: "Harleys In Hawaii",

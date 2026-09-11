@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const justinTimberlakeTkoRadioEdit = {
   id: "01a0676a-d72f-7000-83db-b27bd05eb8c9",
-  pageTypeSlug: "release",
   type: "release",
   slug: "justin-timberlake-tko-radio-edit",
   title: "TKO (Radio Edit)",

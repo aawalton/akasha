@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jessicaBaioWhatAreYouAfraidOf = {
   id: "01a0676a-d730-7040-994d-98b77753d0ff",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jessica-baio-what-are-you-afraid-of",
   title: "what are you afraid of?",

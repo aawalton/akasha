@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerrySwishSwishBlondeRemix = {
   id: "01a0676a-d72b-7005-b622-d5dddaa484c2",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-swish-swish-blonde-remix",
   title: "Swish Swish (Blonde Remix)",

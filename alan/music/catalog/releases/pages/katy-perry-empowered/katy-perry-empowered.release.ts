@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerryEmpowered = {
   id: "01a0676a-d71d-700c-b96b-ce850132c6d6",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-empowered",
   title: "Empowered",

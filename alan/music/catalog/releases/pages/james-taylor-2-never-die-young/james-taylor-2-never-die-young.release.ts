@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jamesTaylor2NeverDieYoung = {
   id: "01a0676a-d725-7046-b833-b1edb4fe19b5",
-  pageTypeSlug: "release",
   type: "release",
   slug: "james-taylor-2-never-die-young",
   title: "Never Die Young",

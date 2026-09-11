@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const greenDayDreaming = {
   id: "01a0676a-d71c-7037-bc87-6368960cba16",
-  pageTypeSlug: "release",
   type: "release",
   slug: "green-day-dreaming",
   title: "Dreaming",

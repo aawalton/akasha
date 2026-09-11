@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const greenDayCastawayDemo = {
   id: "01a0676a-d71a-7004-b188-eede52945fe9",
-  pageTypeSlug: "release",
   type: "release",
   slug: "green-day-castaway-demo",
   title: "Castaway (Demo)",

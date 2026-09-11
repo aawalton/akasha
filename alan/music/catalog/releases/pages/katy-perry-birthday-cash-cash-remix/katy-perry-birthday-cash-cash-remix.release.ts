@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerryBirthdayCashCashRemix = {
   id: "01a0676a-d719-700c-91d1-d6246aebc52f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-birthday-cash-cash-remix",
   title: "Birthday (Cash Cash Remix)",

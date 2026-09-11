@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kellyClarksonWrappedInRedRuffLoaderzRemix = {
   id: "01a0676a-d731-703d-8721-cd00446cce67",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kelly-clarkson-wrapped-in-red-ruff-loaderz-remix",
   title: "Wrapped In Red (Ruff Loaderz Remix)",

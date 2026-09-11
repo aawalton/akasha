@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const izzyEscobarJackieO = {
   id: "01a0676a-d722-701a-83b0-406736c3d6c7",
-  pageTypeSlug: "release",
   type: "release",
   slug: "izzy-escobar-jackie-o",
   title: "Jackie O",

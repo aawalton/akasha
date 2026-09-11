@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const gracieAbramsUnlearnWithGracieAbramsMainAcoustic = {
   id: "01a0676a-d72f-7041-a924-b0f6091a18ff",
-  pageTypeSlug: "release",
   type: "release",
   slug: "gracie-abrams-unlearn-with-gracie-abrams-main-acoustic",
   title: "Unlearn (with Gracie Abrams) [Main + Acoustic]",

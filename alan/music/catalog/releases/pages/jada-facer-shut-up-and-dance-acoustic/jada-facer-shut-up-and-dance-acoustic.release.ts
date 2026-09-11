@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jadaFacerShutUpAndDanceAcoustic = {
   id: "01a0676a-d728-707e-ad65-3fa3e4dc8072",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jada-facer-shut-up-and-dance-acoustic",
   title: "Shut Up and Dance (Acoustic)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerrySmallTalkSofiTukkerRemix = {
   id: "01a0676a-d729-7028-bcdd-327c9441032d",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-small-talk-sofi-tukker-remix",
   title: "Small Talk (Sofi Tukker Remix)",

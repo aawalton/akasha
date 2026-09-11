@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const japaneseBreakfastHeadOverHeelsBWEssentially = {
   id: "01a0676a-d720-7007-b26d-987fb29d4066",
-  pageTypeSlug: "release",
   type: "release",
   slug: "japanese-breakfast-head-over-heels-b-w-essentially",
   title: "Head Over Heels b/w Essentially",

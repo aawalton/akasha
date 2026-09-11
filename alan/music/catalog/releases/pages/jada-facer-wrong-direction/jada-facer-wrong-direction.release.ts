@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jadaFacerWrongDirection = {
   id: "01a0676a-d731-703f-a94c-91bf14b67ce0",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jada-facer-wrong-direction",
   title: "Wrong Direction",

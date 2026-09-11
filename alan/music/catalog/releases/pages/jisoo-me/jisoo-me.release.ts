@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const jisooMe = {
   id: "01a0676a-d724-703f-a8d0-76c47bdca58f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "jisoo-me",
   title: "ME",

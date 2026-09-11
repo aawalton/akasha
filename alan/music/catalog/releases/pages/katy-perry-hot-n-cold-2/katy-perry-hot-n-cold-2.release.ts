@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerryHotNCold2 = {
   id: "01a0676a-d720-7062-84ee-8fddc7425360",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-hot-n-cold-2",
   title: "Hot N Cold",

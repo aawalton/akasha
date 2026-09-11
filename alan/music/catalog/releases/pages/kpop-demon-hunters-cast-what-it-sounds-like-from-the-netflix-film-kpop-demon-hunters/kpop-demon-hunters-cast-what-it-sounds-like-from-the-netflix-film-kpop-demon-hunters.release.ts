@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const kpopDemonHuntersCastWhatItSoundsLikeFromTheNetflixFilmKpopDemonHunters = {
   id: "01a0676a-d730-7048-a677-0611f0d4e766",
-  pageTypeSlug: "release",
   type: "release",
   slug: "kpop-demon-hunters-cast-what-it-sounds-like-from-the-netflix-film-kpop-demon-hunters",
   title: "What It Sounds Like (from the Netflix film KPop Demon Hunters)",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const katyPerryThinkingOfYou = {
   id: "01a0676a-d72e-7026-9fb3-9867a95f2662",
-  pageTypeSlug: "release",
   type: "release",
   slug: "katy-perry-thinking-of-you",
   title: "Thinking Of You",
