@@ -2,8 +2,7 @@ import { everyOfType, listedAt } from "akasha/pages/indexes/reading/index-readin
 import { textAt, type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import type { Systemd } from "../properties/systemd.record-property.types.ts"
 import { commandsOf, type Refused, startsIn } from "../run-composing/run-composing.module.code.ts"
-import type { Service } from "../unit-writing/unit-writing.module.code.ts"
-import type { WorkstationService } from "../workstation-service.page-type.types.ts"
+import type { Service, Started } from "../unit-writing/unit-writing.module.code.ts"
 
 export const SERVICE_PAGE_TYPE = "workstation-service"
 
@@ -59,7 +58,7 @@ export function refusedIn(held: readonly string[] | Refused | null): held is Ref
   return held !== null && !Array.isArray(held)
 }
 
-export function serviceIn(root: string, value: Value): WorkstationService | null {
+export function serviceIn(root: string, value: Value): Started | null {
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
   const definition = textAt(value, "definition")

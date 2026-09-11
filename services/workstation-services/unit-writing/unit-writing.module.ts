@@ -51,6 +51,10 @@ export const unitWriting = {
       statement: "The exit the wrapper leaves on is the one systemd starts the service again for.",
     },
     {
+      invariantKind: "departure",
+      statement: "A service reaching here has its command lines settled already.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a file.",
     },

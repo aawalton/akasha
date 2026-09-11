@@ -23,6 +23,10 @@ export const runs = {
       statement:
         "A command naming a TypeScript file runs under the wrapper that restarts that command.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A run naming a file in this repository is stated as a start.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty

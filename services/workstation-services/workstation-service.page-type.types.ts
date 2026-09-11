@@ -13,7 +13,7 @@ import type { WorkedAt } from "akasha/services/workstation-services/properties/w
 import type { WorksWithinSeconds } from "akasha/services/workstation-services/properties/works-within-seconds.number-property.types.ts"
 
 export type WorkstationService = Service & {
-  runs: Runs
+  runs?: Runs
   starts?: Starts
   enabled: Enabled
   systemd?: Systemd

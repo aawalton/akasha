@@ -60,7 +60,7 @@ export const workstationService = {
     "module/service-putting-up",
   ],
   properties: [
-    { pageProperty: "text-property/runs", required: true, many: true, maxCount: null },
+    { pageProperty: "text-property/runs", required: false, many: true, maxCount: null },
     { pageProperty: "record-property/starts", required: false, many: true, maxCount: null },
     { pageProperty: "boolean-property/enabled", required: true, many: false },
     { pageProperty: "record-property/systemd", required: false, many: false },

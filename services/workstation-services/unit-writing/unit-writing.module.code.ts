@@ -1,3 +1,4 @@
+import type { Runs } from "../properties/runs.text-property.types.ts"
 import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 const PATH_ENV =
@@ -16,8 +17,10 @@ const SECRETS_FILE = "%h/.secrets.env"
 export const RESTART_EXIT = 79
 export const WRITTEN_PREFIX = "# Written from "
 
+export type Started = WorkstationService & { readonly runs: Runs }
+
 export type Service = {
-  readonly service: WorkstationService
+  readonly service: Started
   readonly pagePath: string
 }
 
