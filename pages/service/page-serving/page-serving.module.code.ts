@@ -1,18 +1,29 @@
-import { type Named as FileNamed, filing } from "../file-answering/file-answering.module.code.ts"
+import {
+  type Named as FileNamed,
+  filing,
+} from "akasha/pages/service/file-answering/file-answering.module.code.ts"
 import {
   asking,
   type Query,
   shaping,
   TESTS_RUN,
   type Test,
-} from "../page-asking/page-asking.module.code.ts"
-import { foldedFor, type Naming } from "../page-composing/page-composing.module.code.ts"
+} from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import {
+  foldedFor,
+  type Naming,
+} from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import {
   type Named,
   reading,
   type Asked as Sought,
-} from "../page-reading/page-reading.module.code.ts"
-import type { Asked, Kept, Put, Writer } from "../page-writing/page-writing.module.code.ts"
+} from "akasha/pages/service/page-reading/page-reading.module.code.ts"
+import type {
+  Asked,
+  Kept,
+  Put,
+  Writer,
+} from "akasha/pages/service/page-writing/page-writing.module.code.ts"
 
 export const ASK_AT = "/ask"
 

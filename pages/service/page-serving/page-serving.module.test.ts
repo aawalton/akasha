@@ -1,4 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
+import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
+import {
+  ASK_AT,
+  answering,
+  foldedInto,
+  queryIn,
+  READ_AT,
+  readIn,
+  WRITE_AT,
+  writeIn,
+} from "akasha/pages/service/page-serving/page-serving.module.code.ts"
 import {
   A_DEVICE_TOKEN,
   A_PAGE,
@@ -12,17 +23,6 @@ import {
   TOLD,
   writing,
 } from "akasha/pages/service/page-serving/page-serving.module.test-fixtures.ts"
-import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
-import {
-  ASK_AT,
-  answering,
-  foldedInto,
-  queryIn,
-  READ_AT,
-  readIn,
-  WRITE_AT,
-  writeIn,
-} from "./page-serving.module.code.ts"
 
 test("a question is answered with rows", async () => {
   const answered = await answering(
