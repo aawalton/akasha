@@ -1,12 +1,16 @@
-import { asItemPriceRecord, asNumber, asString } from "../price-casts/price-casts.module.code.ts"
-import { luaTruthy } from "../price-lua-truthy/price-lua-truthy.module.code.ts"
-import { lib } from "../price-state/price-state.module.code.ts"
+import {
+  asItemPriceRecord,
+  asNumber,
+  asString,
+} from "akasha/temper/lib-price/price-casts/price-casts.module.code.ts"
+import { luaTruthy } from "akasha/temper/lib-price/price-lua-truthy/price-lua-truthy.module.code.ts"
+import { lib } from "akasha/temper/lib-price/price-state/price-state.module.code.ts"
 import type {
   FurCRecipeArray,
   FurCSubReturn,
   IngredientRow,
   RawPrice,
-} from "../price-types/price-types.module.code.ts"
+} from "akasha/temper/lib-price/price-types/price-types.module.code.ts"
 
 function parseFurCDigits(captured: string | undefined): string | undefined {
   return captured

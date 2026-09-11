@@ -1,12 +1,16 @@
-import { asNumber, asSourceSet, asString } from "../price-casts/price-casts.module.code.ts"
-import { luaTruthy } from "../price-lua-truthy/price-lua-truthy.module.code.ts"
-import { lib } from "../price-state/price-state.module.code.ts"
+import {
+  asNumber,
+  asSourceSet,
+  asString,
+} from "akasha/temper/lib-price/price-casts/price-casts.module.code.ts"
+import { luaTruthy } from "akasha/temper/lib-price/price-lua-truthy/price-lua-truthy.module.code.ts"
+import { lib } from "akasha/temper/lib-price/price-state/price-state.module.code.ts"
 import type {
   NormalizedPrice,
   PriceGoldReturn,
   RawPrice,
   SpreadMetric,
-} from "../price-types/price-types.module.code.ts"
+} from "akasha/temper/lib-price/price-types/price-types.module.code.ts"
 
 lib.ItemLinkToPriceGold = function (
   this: void,

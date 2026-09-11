@@ -1,4 +1,4 @@
-import { asLibPriceTable } from "../price-casts/price-casts.module.code.ts"
+import { asLibPriceTable } from "akasha/temper/lib-price/price-casts/price-casts.module.code.ts"
 import {
   ATT,
   CACHE_DUR_SECONDS,
@@ -23,7 +23,7 @@ import {
   PRICE_SALE,
   ROLIS,
   TTC,
-} from "../price-constants/price-constants.module.code.ts"
+} from "akasha/temper/lib-price/price-constants/price-constants.module.code.ts"
 
 export const lib = asLibPriceTable({
   day_ct_short: DAY_CT_SHORT,

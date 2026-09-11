@@ -1,6 +1,9 @@
-import { asNumber } from "../price-casts/price-casts.module.code.ts"
-import { lib } from "../price-state/price-state.module.code.ts"
-import type { NormalizedPrice, RawPrice } from "../price-types/price-types.module.code.ts"
+import { asNumber } from "akasha/temper/lib-price/price-casts/price-casts.module.code.ts"
+import { lib } from "akasha/temper/lib-price/price-state/price-state.module.code.ts"
+import type {
+  NormalizedPrice,
+  RawPrice,
+} from "akasha/temper/lib-price/price-types/price-types.module.code.ts"
 
 lib.RolisPrice = function (this: void, itemLink: string): RawPrice | undefined {
   if (itemLink === undefined) {

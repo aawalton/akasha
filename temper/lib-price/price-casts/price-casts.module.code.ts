@@ -6,7 +6,7 @@ import type {
   OptionalNumber,
   RawPrice,
   SourceSet,
-} from "../price-types/price-types.module.code.ts"
+} from "akasha/temper/lib-price/price-types/price-types.module.code.ts"
 
 export function asLibPriceTable(value: unknown): LibPriceTable {
   return value as LibPriceTable

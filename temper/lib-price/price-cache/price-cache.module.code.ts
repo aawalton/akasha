@@ -1,5 +1,5 @@
-import { lib } from "../price-state/price-state.module.code.ts"
-import type { RawPrice } from "../price-types/price-types.module.code.ts"
+import { lib } from "akasha/temper/lib-price/price-state/price-state.module.code.ts"
+import type { RawPrice } from "akasha/temper/lib-price/price-types/price-types.module.code.ts"
 
 lib.ResetCacheIfNecessary = function (this: void): undefined {
   const nowTs = GetTimeStamp()

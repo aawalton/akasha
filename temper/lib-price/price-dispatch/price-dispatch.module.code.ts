@@ -1,11 +1,11 @@
-import { logError } from "../price-log/price-log.module.code.ts"
-import { luaTruthy } from "../price-lua-truthy/price-lua-truthy.module.code.ts"
-import { lib } from "../price-state/price-state.module.code.ts"
+import { logError } from "akasha/temper/lib-price/price-log/price-log.module.code.ts"
+import { luaTruthy } from "akasha/temper/lib-price/price-lua-truthy/price-lua-truthy.module.code.ts"
+import { lib } from "akasha/temper/lib-price/price-state/price-state.module.code.ts"
 import type {
   DispatchEntry,
   NormalizedPrice,
   RawPrice,
-} from "../price-types/price-types.module.code.ts"
+} from "akasha/temper/lib-price/price-types/price-types.module.code.ts"
 
 lib.SourceList = function (this: void): string[] {
   let sourceList = lib.SOURCE_LIST
