@@ -1,11 +1,20 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { DataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import {
+  everyOfType,
+  listedById,
+  typeSlugOf,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const MODULE_TYPE = "01a04a20-6e04-7b99-81a0-0efe0ad0a02a"
 
 const ROOT = "akasha/"
+
+const TYPES = "types"
+
+const HOLDS = "ts"
 
 export const GENERATED_AT = "pages/core/generated"
 
@@ -138,10 +147,26 @@ export function idFor(root: string, slug: string): string {
   return Bun.randomUUIDv7()
 }
 
+function typesAt(root: string): string {
+  const listed = listedById(root, MODULE_TYPE)
+  if (listed === null) {
+    throw new DataError(
+      `no page carries the id \`${MODULE_TYPE}\`, so a rendered page could import no type`
+    )
+  }
+  const beside = besideAt(listed.path, TYPES, HOLDS)
+  if (beside === null) {
+    throw new DataError(
+      `\`${listed.path}\` is under no TypeScript name, so a rendered page could import no type`
+    )
+  }
+  return `${ROOT}${beside}`
+}
+
 export function pageBody(root: string, slug: string, definition: string): string {
   const typeSlug = JSON.stringify(typeSlugOf(root, MODULE_TYPE))
   return `${[
-    'import type { Module } from "@akasha/code/module"',
+    `import type { Module } from "${typesAt(root)}"`,
     "",
     `export const ${kebabToCamel(slug)} = {`,
     `  id: ${JSON.stringify(idFor(root, slug))},`,

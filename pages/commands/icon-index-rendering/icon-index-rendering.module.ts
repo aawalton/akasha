@@ -36,6 +36,15 @@ export const iconIndexRendering = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A rendered page imports the type file beside that page type rather than the page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rendered page names that file by its path rather than by a package.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A shard has at least one icon however long that icon's line is.",
     },
     {
