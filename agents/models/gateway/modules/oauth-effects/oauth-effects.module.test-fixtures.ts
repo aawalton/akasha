@@ -15,7 +15,6 @@ import {
   pageFiled,
   schemaFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 
@@ -161,10 +160,6 @@ export function accountWritten(
   if (beside !== null) filed(root, besideAt(slug), bodied("held", beside))
   listedFiled(root, "claude-account", slug, [{ path: pageAt(slug), id: idFor(slug) }])
   valueAlsoFiled(root, "claude-account", [{ path: pageAt(slug), value }])
-}
-
-export function besideHeld(root: string, slug: string): Record<string, unknown> {
-  return uncommittedIn(root, pageAt(slug)) ?? {}
 }
 
 const scratch = scratchWorld()
