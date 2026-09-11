@@ -2,6 +2,7 @@ import { lineOf, parsedAs } from "akasha/code-system/code-source/code-source.mod
 import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import { runsIn } from "akasha/code-system/path-runs/path-runs.module.code.ts"
 import { partedIn, uncommittedHeld } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { shortened } from "akasha/utils/text/shortened/shortened.module.code.ts"
 import ts from "typescript"
 
 const CODE = "code"
@@ -9,8 +10,6 @@ const CODE = "code"
 const TEST = "test"
 
 const PARTED_BY = "/"
-
-const MOST = 60
 
 const SAID = "what sits under a path the index answers for is asked rather than listed"
 
@@ -66,10 +65,6 @@ type Found = { readonly at: string; readonly page: boolean }
 export type Asking = (said: string) => Found | null
 
 type Reached = { readonly said: string; readonly at: string; readonly page: boolean }
-
-function shortened(said: string): string {
-  return said.length > MOST ? `${said.slice(0, MOST)}…` : said
-}
 
 export function foldersOf(paths: readonly string[]): readonly string[] {
   const found = new Set<string>()

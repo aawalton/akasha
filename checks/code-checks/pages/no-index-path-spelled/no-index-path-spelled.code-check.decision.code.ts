@@ -10,6 +10,7 @@ import {
 import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shortened } from "akasha/utils/text/shortened/shortened.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -19,13 +20,7 @@ const AT = indexNamed()
 
 const SEGMENTS = 3
 
-const MOST = 60
-
 const SAID = "where the index sits is said by `index-reading`, and asked of it rather than spelt"
-
-function shortened(said: string): string {
-  return said.length > MOST ? `${said.slice(0, MOST)}…` : said
-}
 
 function whole(held: readonly Placed[], at: number): string | null {
   for (let took = 1; took < SEGMENTS && at + took < held.length; took++) {
