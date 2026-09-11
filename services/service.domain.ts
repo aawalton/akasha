@@ -8,6 +8,7 @@ export const service = {
   definition: "what the system runs without being asked each time",
   parts: [
     "page-type/service",
+    "page-type/service-cluster",
     "page-type/service-workstation",
     "page-type/vendored-workload",
     "page-type/web-app",
