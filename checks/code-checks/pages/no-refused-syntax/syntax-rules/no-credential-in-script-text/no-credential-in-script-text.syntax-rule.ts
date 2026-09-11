@@ -70,11 +70,11 @@ export const noCredentialInScriptText = {
       statement: "A name is judged rather than the value the name has.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "A credential a function form closes over is not seen.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "constraint",
       statement: "The value never reaches the page and the call fails there instead.",
     },
     {
