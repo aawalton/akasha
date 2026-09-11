@@ -15,5 +15,10 @@ export const supabaseRealtime = {
       invariantKind: "departure",
       statement: "The pod template carries the hash of the realtime-secrets secret.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The keys hashed are API_JWT_SECRET, DATABASE_URL, DB_ENC_KEY, METRICS_JWT_SECRET, SECRET_KEY_BASE.",
+    },
   ],
 } as const satisfies Manifest
