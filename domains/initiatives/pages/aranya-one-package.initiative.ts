@@ -32,11 +32,13 @@ export const aranyaOnePackage = {
     },
     {
       statement: "A check refuses a relative path.",
+      workingMemory:
+        "The check is built: page, decision, check and audit, each with its test. It judges at no phase yet, which is what its own invariant calls for until nothing names a file by a relative path. `akasha audit --check no-relative-specifier` is the meter and needs no phase. Meeting this intent is setting runsOnChange, runsOnWorktree, runsOnDeploy and runsOnAudit true on the page, and that waits on the tree being clean.",
     },
     {
       statement: "No file names another file by a relative path.",
       workingMemory:
-        "temper alone holds 29775 import specifiers: 10895 bare names, 16857 relative paths landing inside temper, and 2023 landing outside it. The outward ones are nearly all page-type imports, 1628 of them reaching `code-system/modules/module.page-type.ts`, which the rest of the tree already spells `@akasha/code/module`.",
+        "`rename-folder-imports` at a folder does the work, one folder to a landing. 85324 refusals at the start, 79349 after utils, design, domains, places, personas, the ten smallest folders and both type generators. Three things block a folder and none of them is the act: a file going over the 15000 byte ceiling because a root-spelled specifier is longer than a relative one, a test asserting the exact spelling of a path, and a page path spelled rather than asked of the index.",
     },
   ],
 } as const satisfies Initiative
