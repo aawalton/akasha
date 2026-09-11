@@ -30,6 +30,7 @@ import { declaringUnder } from "akasha/testing-system/declaring/declaring.module
 import { admitting } from "akasha/testing-system/minting/minting.module.code.ts"
 import { HELD } from "akasha/testing-system/page-holding/page-holding.module.code.ts"
 import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
+import { idFiled, listedFiled, valueAlsoFiled } from "../filing/index-filing.module.code.ts"
 
 const ENDING = ".jsonl"
 
@@ -107,15 +108,6 @@ function identityListed(
   return existsSync(under(root, at))
 }
 
-export function listedFiled(
-  root: string,
-  pageTypeSlug: string,
-  slug: string,
-  lines: readonly unknown[]
-): undefined {
-  identityFiled(root, PAGE_TYPE, pageTypeSlug, SLUG, slug, lines)
-}
-
 export function scopedFiled(
   root: string,
   pageTypeSlug: string,
@@ -137,14 +129,6 @@ export function listedAlsoFiled(
   adding(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug, SLUG, slug), lines)
 }
 
-export function valueAlsoFiled(
-  root: string,
-  pageTypeSlug: string,
-  lines: readonly unknown[]
-): undefined {
-  adding(root, join(indexValue.name, pageTypeSlug), lines)
-}
-
 export function listedAndValued(
   root: string,
   pageTypeSlug: string,
@@ -162,10 +146,6 @@ export function listedFiledIn(root: string, pageTypeSlug: string, slug: string):
 
 export function listedUnreadableFiled(root: string, pageTypeSlug: string, slug: string): undefined {
   unreadable(root, join(indexIdentity.name, PAGE_TYPE, pageTypeSlug, SLUG, `${slug}${ENDING}`))
-}
-
-export function idFiled(root: string, id: string, lines: readonly unknown[]): undefined {
-  identityFiled(root, PAGE, NO_SCOPE, ID, id, lines)
 }
 
 export function pageFiled(root: string, id: string, path: string): undefined {

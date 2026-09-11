@@ -7,10 +7,8 @@ import {
 } from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { shadowed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import {
-  listedFiled,
-  pathFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { pathFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

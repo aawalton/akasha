@@ -4,7 +4,7 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import { DATA } from "akasha/commands/modules/cli/cli.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { installedOnSimulator } from "akasha/commands/pages/deploy/deploy-simulator-installing/deploy-simulator-installing.module.code.ts"
-import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 
 const root = join(import.meta.dir, "..", "..", "..")

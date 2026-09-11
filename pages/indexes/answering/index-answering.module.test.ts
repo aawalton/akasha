@@ -7,6 +7,11 @@ import {
   schemaAt,
 } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import {
+  idFiled,
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import {
   carryingOf,
   declaringOf,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
@@ -26,14 +31,11 @@ import {
   typeSlugOf,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
-  idFiled,
   importFiled,
-  listedFiled,
   pathFiled,
   readingLaidOver,
   relationFiled,
   schemaFiled,
-  valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {

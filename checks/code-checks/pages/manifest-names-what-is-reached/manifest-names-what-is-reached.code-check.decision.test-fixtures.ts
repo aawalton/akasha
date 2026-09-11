@@ -10,10 +10,8 @@ import {
   wrote,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import {
-  listingFiled,
-  valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { listingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 export const PACKAGE = "workspace-package"

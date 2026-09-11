@@ -8,10 +8,8 @@ import {
   scratch,
   staged,
 } from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
-import {
-  listedFiled,
-  pathFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { pathFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)

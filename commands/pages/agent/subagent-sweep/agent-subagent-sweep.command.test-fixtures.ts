@@ -13,10 +13,8 @@ import type {
   SeatTranscripts,
 } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
-import {
-  rebuiltIn,
-  valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { rebuiltIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"

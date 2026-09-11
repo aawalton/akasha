@@ -3,9 +3,11 @@ import { writing } from "akasha/commands/modules/scratching/scratching.module.te
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import {
   listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import {
   listedTakenFrom,
   rebuiltIn,
-  valueAlsoFiled,
   valueTakenFrom,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"

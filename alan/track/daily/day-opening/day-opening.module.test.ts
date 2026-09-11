@@ -9,7 +9,7 @@ import {
 } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { AKASHA, rootsNamed } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 
 const scratch = scratchWorld()

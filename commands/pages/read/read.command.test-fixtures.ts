@@ -22,7 +22,7 @@ import {
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
 import { said as saying } from "akasha/utils/run/running/running.module.code.ts"

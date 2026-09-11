@@ -1,6 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
+  idFiled,
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import {
   type Carried,
   carryingOf,
   type Facing,
@@ -13,12 +18,9 @@ import {
   toolResolvesPathsIn,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 import {
-  idFiled,
   listedAndValued,
-  listedFiled,
   relationFiled,
   schemaFiled,
-  valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

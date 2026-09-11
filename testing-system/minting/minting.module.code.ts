@@ -7,7 +7,7 @@ import {
   idFiled,
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 
 export const REFUSES_CODE = `export function refuses(change) {
   return change.changed.map((path) => ({ path, reason: "refused for the test" }))

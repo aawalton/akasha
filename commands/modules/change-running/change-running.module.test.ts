@@ -47,12 +47,12 @@ import {
   saysApply,
   taking,
 } from "akasha/commands/modules/change-running/change-running.module.test-fixtures.ts"
+import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
   NAMER_CODE,
   NAMER_PAGE,
   scratch,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

@@ -14,12 +14,14 @@ import { scratchWorld } from "akasha/commands/modules/scratching/scratching.modu
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
-  identitiesTakenFrom,
   idFiled,
   listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import {
+  identitiesTakenFrom,
   noneOfTypeFiled,
   pathFiled,
-  valueAlsoFiled,
   valueTakenFrom,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { type Shadow, shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"

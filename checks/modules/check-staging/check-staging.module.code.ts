@@ -3,11 +3,11 @@ import { dirname, join } from "node:path"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { importEdge } from "akasha/graph/edges/pages/import-edge.graph-edge.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
 import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
 import {
   entriesFiled,
-  listedFiled,
   noImportersFiled,
   pathFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"

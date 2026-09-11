@@ -1,6 +1,6 @@
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { valueAlsoFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { keepUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { subagentReturned } from "akasha/seat-system/subagents/properties/subagent-returned.boolean-property.ts"
 

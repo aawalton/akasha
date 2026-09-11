@@ -13,7 +13,7 @@ import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 
 export const TEXT = "text-property"
 

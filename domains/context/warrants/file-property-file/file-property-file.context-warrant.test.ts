@@ -21,9 +21,9 @@ import {
 } from "akasha/domains/context/warrants/file-property-file/file-property-file.context-warrant.code.ts"
 import {
   listedFiled,
-  schemaFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { schemaFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
 
 const scratch = scratchWorld()

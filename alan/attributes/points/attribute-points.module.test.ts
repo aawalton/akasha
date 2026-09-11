@@ -7,7 +7,7 @@ import {
   pointsTodayKept,
   pointsTotalKept,
 } from "akasha/alan/attributes/points/attribute-points.module.code.ts"
-import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 
 const HOLD = "/var/tmp"
 

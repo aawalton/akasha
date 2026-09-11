@@ -10,9 +10,11 @@ import { exportedAs } from "akasha/pages/export-name/page-export-name.module.cod
 import {
   idFiled,
   listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import {
   pathFiled,
   relationFiled,
-  valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
 

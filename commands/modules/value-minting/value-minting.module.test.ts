@@ -12,10 +12,8 @@ import {
 } from "akasha/commands/modules/value-minting/value-minting.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import { statesVersionSeven } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
-import {
-  listedFiled,
-  schemaFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { schemaFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 
 const scratch = scratchWorld()

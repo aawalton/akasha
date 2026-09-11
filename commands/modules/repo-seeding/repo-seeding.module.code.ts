@@ -19,9 +19,9 @@ import { scratchWorld } from "akasha/commands/modules/scratching/scratching.modu
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { warrantsSeeded } from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
+import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
   identitiesTakenFrom,
-  listedFiled,
   noImportersFiled,
   pageFiled,
   valueTakenFrom,

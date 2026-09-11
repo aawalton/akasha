@@ -3,7 +3,7 @@ import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { temperAddonList } from "akasha/commands/pages/temper/addon/list/temper-addon-list.command.code.ts"
-import { valueAlsoFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { manifestFor } from "akasha/temper/commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
 
 const scratch = scratchWorld()

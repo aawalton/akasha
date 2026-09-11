@@ -11,9 +11,9 @@ import { writing } from "akasha/commands/modules/scratching/scratching.module.te
 import {
   idFiled,
   listedFiled,
-  pathFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { pathFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 

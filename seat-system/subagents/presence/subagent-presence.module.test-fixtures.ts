@@ -4,10 +4,8 @@ import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshn
 import { keptAt, scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
-import {
-  listedFiled,
-  rebuiltIn,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { rebuiltIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import {
   bodyOf,
   type Landing,

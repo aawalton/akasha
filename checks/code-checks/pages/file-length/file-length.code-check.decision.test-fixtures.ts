@@ -2,9 +2,11 @@ import { scratchWorld } from "akasha/commands/modules/scratching/scratching.modu
 import {
   idFiled,
   listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import {
   relationFiled,
   schemaFiled,
-  valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 

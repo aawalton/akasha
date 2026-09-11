@@ -13,7 +13,7 @@ import {
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 
 const ROOT = rootOf(import.meta.path)
 

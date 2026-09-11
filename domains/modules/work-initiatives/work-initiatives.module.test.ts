@@ -3,11 +3,8 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { initiativesDrawn } from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
-import {
-  idFiled,
-  relationFiled,
-  valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { idFiled, valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { relationFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const ONE = "01a04e9f-0000-7000-8000-00000000000a"
 

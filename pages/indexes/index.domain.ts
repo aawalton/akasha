@@ -23,6 +23,7 @@ export const index = {
     "module/index-settling",
     "module/fixture-world",
     "module/index-reading",
+    "module/index-filing",
     "module/index-surface",
     "module/generated-properties",
     "module/beside-turning",

@@ -8,11 +8,13 @@ import {
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   idFiled,
-  importFiled,
   listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import {
+  importFiled,
   relationFiled,
   schemaFiled,
-  valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 

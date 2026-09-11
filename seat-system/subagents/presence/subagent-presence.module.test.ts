@@ -12,9 +12,9 @@ import { writing } from "akasha/commands/modules/scratching/scratching.module.te
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import {
   listedFiled,
-  pageFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import {
   keepUncommitted,
   uncommittedIn,

@@ -2,9 +2,9 @@ import { staged } from "akasha/checks/modules/check-staging/check-staging.module
 import { APP } from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
 import {
   listedFiled,
-  pathFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { pathFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const SLUG = "web"
 

@@ -6,9 +6,9 @@ import { exportedAs } from "akasha/pages/export-name/page-export-name.module.cod
 import {
   idFiled,
   listedFiled,
-  noneOfTypeFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { noneOfTypeFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 export const MECHANICAL: Kind = {
   slug: "change-mechanical",

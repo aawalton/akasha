@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { keepPointsToday } from "akasha/alan/attributes/points/attribute-points.module.code.ts"
 import { charismaShown } from "akasha/alan/attributes/readouts/attribute-charisma/attribute-charisma.readout.code.ts"
 import { attributeCharisma } from "akasha/alan/attributes/readouts/attribute-charisma/attribute-charisma.readout.ts"
-import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 
 const HOLD = "/var/tmp"
 

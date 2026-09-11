@@ -39,5 +39,9 @@ export const minting = {
       invariantKind: "departure",
       statement: "One slug minted twice is one id.",
     },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reaches a fixture beside another module.",
+    },
   ],
 } as const satisfies Module

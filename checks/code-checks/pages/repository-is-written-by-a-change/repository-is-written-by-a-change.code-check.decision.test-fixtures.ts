@@ -4,7 +4,7 @@ import { writing } from "akasha/commands/modules/scratching/scratching.module.te
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 
 export const AT = "checks/one/one.module.code.ts"
 

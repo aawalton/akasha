@@ -19,10 +19,8 @@ import { baseOf } from "akasha/commands/modules/landing-change-composing/landing
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing as putting } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"
-import {
-  nothingFiled,
-  valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { nothingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
 

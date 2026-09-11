@@ -5,7 +5,7 @@ import {
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { bodiesIn } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 

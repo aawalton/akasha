@@ -6,10 +6,8 @@ import {
   infrastructureShellInitBash,
   readIn,
 } from "akasha/commands/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.code.ts"
-import {
-  listedFiled,
-  pageFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const given: Given = {
   root: "/var/home/walton/repos/akasha",

@@ -8,9 +8,11 @@ import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import {
   pageFiled,
   schemaFiled,
-  valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 

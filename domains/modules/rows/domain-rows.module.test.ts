@@ -6,10 +6,8 @@ import {
   domainsDrawn,
   kindsUnderDomain,
 } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
-import {
-  relationFiled,
-  valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import { relationFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const ONE = "01a04e9f-1111-7000-8000-00000000000a"
 
