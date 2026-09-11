@@ -3,7 +3,7 @@ import type {
   LibNotificationProviderInstance,
   NotificationData,
   NotificationManager,
-} from "../notification-types/notification-types.module.code.ts"
+} from "akasha/temper/lib-notification/notification-types/notification-types.module.code.ts"
 
 const NOTIFICATION_PROVIDER = ZO_NotificationProvider.Subclass<LibNotificationProviderClass>()
 

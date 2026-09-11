@@ -1,9 +1,9 @@
-import { asTextureControl } from "../notification-casts/notification-casts.module.code.ts"
+import { asTextureControl } from "akasha/temper/lib-notification/notification-casts/notification-casts.module.code.ts"
 import type {
   NotificationData,
   NotificationRowControl,
   TextureFn,
-} from "../notification-types/notification-types.module.code.ts"
+} from "akasha/temper/lib-notification/notification-types/notification-types.module.code.ts"
 
 function setupBaseRow(
   this: ZoKeyboardNotificationManager,

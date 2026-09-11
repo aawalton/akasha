@@ -1,12 +1,12 @@
 import {
   GAMEPAD_PROVIDER,
   KEYBOARD_PROVIDER,
-} from "../notification-providers/notification-providers.module.code.ts"
+} from "akasha/temper/lib-notification/notification-providers/notification-providers.module.code.ts"
 import type {
   Lib,
   LibNotificationProviderInstance,
   ProviderLinkTable,
-} from "../notification-types/notification-types.module.code.ts"
+} from "akasha/temper/lib-notification/notification-types/notification-types.module.code.ts"
 
 function createProvider(this: void): ProviderLinkTable {
   let keyboardProvider: LibNotificationProviderInstance | undefined
