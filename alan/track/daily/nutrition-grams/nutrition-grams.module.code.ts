@@ -1,11 +1,11 @@
+import { openedDayWindow } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
+import { numberOf } from "akasha/alan/track/daily/day-scan-window/day-scan-window.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-import { openedDayWindow } from "../day-opening/day-opening.module.code.ts"
-import { numberOf } from "../day-scan-window/day-scan-window.module.code.ts"
 
 const FOOD_ENTRY_PAGE_TYPE_SLUG = "food-entry"
 

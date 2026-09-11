@@ -1,4 +1,4 @@
-import { UNAVAILABLE_POINTS_SOURCE_KIND } from "../points-source-writer/points-source-writer.module.code.ts"
+import { UNAVAILABLE_POINTS_SOURCE_KIND } from "akasha/alan/track/daily/points-source-writer/points-source-writer.module.code.ts"
 
 function writesCumulativeTotal(pointsSourceKind: string | undefined): boolean {
   return pointsSourceKind !== UNAVAILABLE_POINTS_SOURCE_KIND

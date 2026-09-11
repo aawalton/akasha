@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const dayScanWindow = {
   id: "01a06972-b4ce-7000-8e71-1439075d3afc",

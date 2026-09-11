@@ -2,8 +2,8 @@ import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { type Answer, answering } from "../../../commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "../../../commands/modules/refusing/refusing.module.code.ts"
+import { type Answer, answering } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 
 export const DAYS_AT = "alan/track/daily/days/pages/"
 

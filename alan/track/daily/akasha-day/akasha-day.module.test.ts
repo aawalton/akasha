@@ -1,13 +1,13 @@
 import { afterAll, describe, expect, test } from "bun:test"
-import { put } from "akasha/testing-system/putting/putting.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   camelised,
   camelisedRow,
   rowsBeside,
   rowsText,
   turnedRows,
-} from "./akasha-day.module.code.ts"
+} from "akasha/alan/track/daily/akasha-day/akasha-day.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 
 const scratch = scratchWorld()
 

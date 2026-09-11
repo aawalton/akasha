@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { gapIn, multiplierFor } from "./cost-multiplier.computed-property-module.code.ts"
+import {
+  gapIn,
+  multiplierFor,
+} from "akasha/alan/track/daily/days/modules/cost-multiplier/cost-multiplier.computed-property-module.code.ts"
 
 test("the gap a cost is read from is the safety level less the difficulty level", () => {
   expect(gapIn({ safetyLevel: 3, difficultyLevel: 4 })).toBe(-1)

@@ -1,16 +1,16 @@
-import type { ReadonlyJSONValue } from "../day-narrow-types/day-narrow-types.module.code.ts"
-import { textOf } from "../day-scan-window/day-scan-window.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/alan/track/daily/day-narrow-types/day-narrow-types.module.code.ts"
+import { textOf } from "akasha/alan/track/daily/day-scan-window/day-scan-window.module.code.ts"
 import {
   allSessions,
   sessionPropertyUndeclared,
-} from "../day-stretches/day-stretches.module.code.ts"
-import { personaRecipeRows } from "../persona-recipe-rows/persona-recipe-rows.module.code.ts"
+} from "akasha/alan/track/daily/day-stretches/day-stretches.module.code.ts"
+import { personaRecipeRows } from "akasha/alan/track/daily/persona-recipe-rows/persona-recipe-rows.module.code.ts"
 import {
   PersonaSessionRowSchema,
   planPersonaSessionWrite,
   type SessionTotalsOutcome,
   sumSessionPointsForValue,
-} from "../session-points-compute/session-points-compute.module.code.ts"
+} from "akasha/alan/track/daily/session-points-compute/session-points-compute.module.code.ts"
 
 export interface PersonaSessionSpec {
   readonly personaSlug: string

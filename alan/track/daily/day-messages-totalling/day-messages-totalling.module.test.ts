@@ -5,7 +5,7 @@ import {
   daysOn,
   MESSAGES_COUNTED_FROM,
   sentOver,
-} from "./day-messages-totalling.module.code.ts"
+} from "akasha/alan/track/daily/day-messages-totalling/day-messages-totalling.module.code.ts"
 
 const DAYS: readonly Dayed[] = [
   { day: "2026-08-05", counted: [{ persona: "aura", sent: 400 }] },

@@ -1,12 +1,12 @@
+import { completedTasksInSpan } from "akasha/alan/track/daily/day-completions/day-completions.module.code.ts"
+import { openedWindowOn } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
+import { textOf } from "akasha/alan/track/daily/day-scan-window/day-scan-window.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-import { completedTasksInSpan } from "../day-completions/day-completions.module.code.ts"
-import { openedWindowOn } from "../day-opening/day-opening.module.code.ts"
-import { textOf } from "../day-scan-window/day-scan-window.module.code.ts"
 
 const TO_DO_PAGE_TYPE_SLUG = "to-do"
 const HEALTH_VALUE_SLUG = "health"

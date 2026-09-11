@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const sessionPointsTotals = {
   id: "01a06972-b84f-7000-9c28-914ae9bf61cc",

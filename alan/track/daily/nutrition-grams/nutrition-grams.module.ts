@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const nutritionGrams = {
   id: "01a06972-bb06-7000-91da-b9dd90114feb",

@@ -1,5 +1,5 @@
+import type { WorkedDay } from "akasha/alan/track/daily/days/day.page-type.ts"
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
-import type { WorkedDay } from "../day.page-type.ts"
 
 export const work: Work<WorkedDay, string> = (page) => {
   const level = page.funLevel

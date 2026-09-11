@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const airQualityFetch = {
   id: "01a06972-b5cc-7000-aac7-3a2d890e4743",

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { hoursBetween } from "./hours-between.computed-property-module.code.ts"
+import { hoursBetween } from "akasha/alan/track/daily/days/modules/hours-between/hours-between.computed-property-module.code.ts"
 
 const NOON = "2026-09-08T12:00:00.000Z"
 

@@ -2,15 +2,21 @@ import {
   inputError,
   operationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import type { Page, PageAccessClient } from "../day-narrow-types/day-narrow-types.module.code.ts"
-import { landDayPage } from "../day-place/day-place.module.code.ts"
-import { dayByDate, dayById } from "../day-reading/day-reading.module.code.ts"
+import type {
+  Page,
+  PageAccessClient,
+} from "akasha/alan/track/daily/day-narrow-types/day-narrow-types.module.code.ts"
+import { landDayPage } from "akasha/alan/track/daily/day-place/day-place.module.code.ts"
+import { dayByDate, dayById } from "akasha/alan/track/daily/day-reading/day-reading.module.code.ts"
 import {
   openSession,
   sessionsBefore,
   sessionsOfDay,
-} from "../day-stretches/day-stretches.module.code.ts"
-import { displayTitle, fieldStr } from "../track-format/track-format.module.code.ts"
+} from "akasha/alan/track/daily/day-stretches/day-stretches.module.code.ts"
+import {
+  displayTitle,
+  fieldStr,
+} from "akasha/alan/track/daily/track-format/track-format.module.code.ts"
 
 const PRIOR_SCAN_LIMIT = 5
 

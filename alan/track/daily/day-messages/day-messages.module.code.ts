@@ -1,10 +1,10 @@
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { dayStanding } from "akasha/alan/track/daily/akasha-day/akasha-day.module.code.ts"
+import { dayNameOf } from "akasha/alan/track/daily/day-place/day-place.module.code.ts"
 import {
   mergeUncommitted,
   uncommittedIn,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import { dayStanding } from "../akasha-day/akasha-day.module.code.ts"
-import { dayNameOf } from "../day-place/day-place.module.code.ts"
 
 const PERSONA_MESSAGES = "personaMessages"
 

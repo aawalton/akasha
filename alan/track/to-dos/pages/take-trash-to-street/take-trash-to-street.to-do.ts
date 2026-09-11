@@ -1,4 +1,4 @@
-import type { ToDo } from "../../to-do.page-type.types.ts"
+import type { ToDo } from "akasha/alan/track/to-dos/to-do.page-type.types.ts"
 
 export const takeTrashToStreet = {
   id: "019db533-f381-7768-a917-b4edeb2c059a",

@@ -1,8 +1,8 @@
-import { loadDayPlantGrams } from "../nutrition-grams/nutrition-grams.module.code.ts"
+import { loadDayPlantGrams } from "akasha/alan/track/daily/nutrition-grams/nutrition-grams.module.code.ts"
 import {
   type WriteOutcome,
   writeNutritionPoints,
-} from "../write-daily-points/write-daily-points.module.code.ts"
+} from "akasha/alan/track/daily/write-daily-points/write-daily-points.module.code.ts"
 
 export async function rollupNutritionForDay(
   dayStr: string

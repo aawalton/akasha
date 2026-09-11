@@ -8,7 +8,7 @@ import {
   raisedIn,
   raiseMessagesOn,
   sentIn,
-} from "./day-messages.module.code.ts"
+} from "akasha/alan/track/daily/day-messages/day-messages.module.code.ts"
 
 const HOLD = "/var/tmp"
 

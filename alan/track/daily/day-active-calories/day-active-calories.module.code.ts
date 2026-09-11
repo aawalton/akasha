@@ -9,7 +9,7 @@ import { loadActiveCaloriesByDay } from "akasha/alan/harness/health-samples-day/
 import {
   type WriteOutcome,
   writeActiveCalories,
-} from "../write-daily-points/write-daily-points.module.code.ts"
+} from "akasha/alan/track/daily/write-daily-points/write-daily-points.module.code.ts"
 
 export async function rollupActiveCaloriesForDay(
   dayStr: string

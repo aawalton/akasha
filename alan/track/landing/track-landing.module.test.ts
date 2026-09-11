@@ -6,7 +6,7 @@ import {
   outsideTracked,
   strayAmong,
   trackedIn,
-} from "./track-landing.module.code.ts"
+} from "akasha/alan/track/landing/track-landing.module.code.ts"
 
 const ROOT = "/nowhere"
 

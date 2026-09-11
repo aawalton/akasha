@@ -1,5 +1,5 @@
+import type { Day } from "akasha/alan/track/daily/days/day.page-type.types.ts"
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
-import type { Day } from "../day.page-type.types.ts"
 
 const PER_CALORIE = 7
 

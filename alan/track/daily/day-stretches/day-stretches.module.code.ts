@@ -1,19 +1,19 @@
 import { dataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { camelizeKey } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
-import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-import { entryKeysDeclared } from "../day-entry-keys/day-entry-keys.module.code.ts"
+import { entryKeysDeclared } from "akasha/alan/track/daily/day-entry-keys/day-entry-keys.module.code.ts"
 import type {
   Answered,
   AnsweredRow,
   Page,
-} from "../day-narrow-types/day-narrow-types.module.code.ts"
+} from "akasha/alan/track/daily/day-narrow-types/day-narrow-types.module.code.ts"
 import {
   checkoutRoot,
   DAILY_TRACKING,
   DAY_PAGE_TYPE,
   SESSION_TRACKING,
-} from "../day-place/day-place.module.code.ts"
-import { pageOf } from "../track-pages/track-pages.module.code.ts"
+} from "akasha/alan/track/daily/day-place/day-place.module.code.ts"
+import { pageOf } from "akasha/alan/track/daily/track-pages/track-pages.module.code.ts"
+import { camelizeKey } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
+import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 
 export const MAX_DAY_SESSIONS = 200
 

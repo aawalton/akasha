@@ -22,7 +22,7 @@ const REACHED: Reached[] = []
 
 const LANDED = { ok: true as const, at: "reached-nothing" }
 
-const realAkashaDay = await import("../akasha-day/akasha-day.module.code.ts")
+const realAkashaDay = await import("akasha/alan/track/daily/akasha-day/akasha-day.module.code.ts")
 
 mock.module("../akasha-day/akasha-day.module.code.ts", () => ({
   ...realAkashaDay,
@@ -50,7 +50,7 @@ const {
   landDayPage,
   landSessionRow,
   sessionRowAt,
-} = await import("./day-place.module.code.ts")
+} = await import("akasha/alan/track/daily/day-place/day-place.module.code.ts")
 
 function daysOnDisk(): readonly string[] {
   if (!existsSync(CORPUS)) return []

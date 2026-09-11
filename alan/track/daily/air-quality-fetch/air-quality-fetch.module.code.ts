@@ -3,7 +3,7 @@ import {
   buildAirQualityUrl,
   parseOpenMeteoResponse,
   type ResolvedLocation,
-} from "../air-quality/air-quality.module.code.ts"
+} from "akasha/alan/track/daily/air-quality/air-quality.module.code.ts"
 
 export async function fetchAirQuality(location: ResolvedLocation): Promise<AirQualityReading> {
   const url = buildAirQualityUrl(location)

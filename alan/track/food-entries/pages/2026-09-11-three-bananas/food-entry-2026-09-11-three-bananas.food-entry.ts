@@ -1,4 +1,4 @@
-import type { FoodEntry } from "../../food-entry.page-type.types.ts"
+import type { FoodEntry } from "akasha/alan/track/food-entries/food-entry.page-type.types.ts"
 
 export const foodEntry20260911ThreeBananas = {
   id: "01a08e0f-2dc8-7000-9718-c42394b3c0bf",

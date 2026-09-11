@@ -3,7 +3,7 @@ import {
   getMountainEveningDayStr,
   mtWallHm,
   mtWallToInstant,
-} from "./mountain-times.module.code.ts"
+} from "akasha/alan/track/daily/mountain-times/mountain-times.module.code.ts"
 
 const SPRING_2026 = "2026-03-08T09:00:00Z"
 

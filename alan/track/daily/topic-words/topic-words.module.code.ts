@@ -1,3 +1,12 @@
+import {
+  openedDayOf,
+  openedWindowOn,
+} from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
+import {
+  type WriteOutcome,
+  writeIntelligenceTopics,
+  writeWisdomWords,
+} from "akasha/alan/track/daily/write-daily-points/write-daily-points.module.code.ts"
 import { runGit } from "akasha/git/answering/git-answering.module.code.ts"
 import {
   AKASHA,
@@ -5,12 +14,6 @@ import {
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
-import { openedDayOf, openedWindowOn } from "../day-opening/day-opening.module.code.ts"
-import {
-  type WriteOutcome,
-  writeIntelligenceTopics,
-  writeWisdomWords,
-} from "../write-daily-points/write-daily-points.module.code.ts"
 
 export const WORDS_COUNTED_FROM = "2026-09-06"
 

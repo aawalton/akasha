@@ -1,4 +1,4 @@
-import { SESSION_SPECS_BY_SLUG } from "../session-points-totals/session-points-totals.module.code.ts"
+import { SESSION_SPECS_BY_SLUG } from "akasha/alan/track/daily/session-points-totals/session-points-totals.module.code.ts"
 
 export const UNAVAILABLE_POINTS_SOURCE_KIND = "unavailable"
 

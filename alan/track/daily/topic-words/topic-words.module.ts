@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const topicWords = {
   id: "01a06972-bd40-7000-9a84-aea39ed039e2",

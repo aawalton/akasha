@@ -1,4 +1,4 @@
-import type { Day } from "../../day.page-type.types.ts"
+import type { Day } from "akasha/alan/track/daily/days/day.page-type.types.ts"
 
 export const day20260102 = {
   id: "01a0827d-fa41-7ba5-bd5e-fce13cdc60d4",

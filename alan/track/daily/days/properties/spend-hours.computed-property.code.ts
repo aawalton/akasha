@@ -1,10 +1,10 @@
-import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
-import type { WorkedDay } from "../day.page-type.ts"
+import type { WorkedDay } from "akasha/alan/track/daily/days/day.page-type.ts"
 import {
   gapIn,
   multiplierFor,
-} from "../modules/cost-multiplier/cost-multiplier.computed-property-module.code.ts"
-import { hoursBetween } from "../modules/hours-between/hours-between.computed-property-module.code.ts"
+} from "akasha/alan/track/daily/days/modules/cost-multiplier/cost-multiplier.computed-property-module.code.ts"
+import { hoursBetween } from "akasha/alan/track/daily/days/modules/hours-between/hours-between.computed-property-module.code.ts"
+import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 
 export const work: Work<WorkedDay, number> = (page) => {
   const rows = page.sessions

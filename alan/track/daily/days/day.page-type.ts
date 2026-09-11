@@ -1,6 +1,6 @@
+import type { Day } from "akasha/alan/track/daily/days/day.page-type.types.ts"
+import type { WorkedSessions } from "akasha/alan/track/daily/days/properties/sessions.page-property-entry.ts"
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
-import type { Day } from "./day.page-type.types.ts"
-import type { WorkedSessions } from "./properties/sessions.page-property-entry.ts"
 
 export type WorkedDay = Omit<Day, "sessions"> & {
   sessions?: WorkedSessions

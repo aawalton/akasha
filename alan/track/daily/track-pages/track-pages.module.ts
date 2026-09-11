@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const trackPages = {
   id: "01a069d3-579d-7d0c-a6f6-992140abdd20",

@@ -1,8 +1,8 @@
-import { loadDayHealthTaskPoints } from "../task-completions/task-completions.module.code.ts"
+import { loadDayHealthTaskPoints } from "akasha/alan/track/daily/task-completions/task-completions.module.code.ts"
 import {
   type WriteOutcome,
   writeTaskPoints,
-} from "../write-daily-points/write-daily-points.module.code.ts"
+} from "akasha/alan/track/daily/write-daily-points/write-daily-points.module.code.ts"
 
 export async function rollupHealthTaskPointsForDay(
   dayStr: string

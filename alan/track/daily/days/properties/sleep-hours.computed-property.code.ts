@@ -1,6 +1,6 @@
+import type { WorkedDay } from "akasha/alan/track/daily/days/day.page-type.ts"
+import { hoursBetween } from "akasha/alan/track/daily/days/modules/hours-between/hours-between.computed-property-module.code.ts"
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
-import type { WorkedDay } from "../day.page-type.ts"
-import { hoursBetween } from "../modules/hours-between/hours-between.computed-property-module.code.ts"
 
 const WORD_CHARACTER = /[\p{L}\p{N}]/u
 

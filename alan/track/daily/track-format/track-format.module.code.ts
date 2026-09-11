@@ -1,5 +1,5 @@
-import type { Page } from "../day-narrow-types/day-narrow-types.module.code.ts"
-import { mtWallHm } from "../mountain-times/mountain-times.module.code.ts"
+import type { Page } from "akasha/alan/track/daily/day-narrow-types/day-narrow-types.module.code.ts"
+import { mtWallHm } from "akasha/alan/track/daily/mountain-times/mountain-times.module.code.ts"
 
 export function fieldStr(page: Page, key: string): string | undefined {
   const value = page[key]
