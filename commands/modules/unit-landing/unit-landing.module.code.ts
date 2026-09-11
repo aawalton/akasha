@@ -189,6 +189,9 @@ export function unitsLanded(root: string, home: string, run: Running = systemctl
   try {
     return landedOver(weighedIn(root, home), home, run)
   } catch (thrown) {
-    return { said: [], wrong: [`no workstation unit was weighed — ${whyOf(thrown)}`] }
+    return {
+      said: [],
+      wrong: [`no workstation unit was kept as its page states it — ${whyOf(thrown)}`],
+    }
   }
 }
