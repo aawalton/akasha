@@ -1,10 +1,10 @@
+import { mergeByKey } from "akasha/temper/characters-addon/characters-keyed-merge/characters-keyed-merge.module.code.ts"
+import { populatedName } from "akasha/temper/characters-addon/characters-populated-name/characters-populated-name.module.code.ts"
 import type {
   TraitResearchCraftType,
   TraitResearchLine,
   TraitResearchTrait,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import { mergeByKey } from "../characters-keyed-merge/characters-keyed-merge.module.code.ts"
-import { populatedName } from "../characters-populated-name/characters-populated-name.module.code.ts"
 
 type TraitResearchCapture = Record<number, TraitResearchCraftType>
 

@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
+import { resolveSkillPoints } from "akasha/temper/characters-addon/characters-task-progress-resolver-skills/characters-task-progress-resolver-skills.module.code.ts"
 import type { SkillPointProgress } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import type { SavedCharacterEntry } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
-import { resolveSkillPoints } from "./characters-task-progress-resolver-skills.module.code.ts"
 
 const FOLIUM_DISCOGNITUM_CEILING = 2
 

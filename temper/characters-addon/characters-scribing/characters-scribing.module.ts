@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const charactersScribing = {
   id: "01a062ea-6025-7fab-bc14-cbcd6981ac7e",

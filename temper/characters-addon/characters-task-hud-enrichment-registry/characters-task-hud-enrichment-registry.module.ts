@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const charactersTaskHudEnrichmentRegistry = {
   id: "01a062ee-f116-7076-9ec8-826920a7ed16",

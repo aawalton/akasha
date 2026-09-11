@@ -1,6 +1,6 @@
+import { mergeMaxByKey } from "akasha/temper/characters-addon/characters-collector-merge/characters-collector-merge.module.code.ts"
 import type { SparseAntiquityLore } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
-import { mergeMaxByKey } from "../characters-collector-merge/characters-collector-merge.module.code.ts"
 
 function loreEntriesAcquired(antiquityId: number): number | undefined {
   if (GetNumAntiquityLoreEntries(antiquityId) === 0) return undefined

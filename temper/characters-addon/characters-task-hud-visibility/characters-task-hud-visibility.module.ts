@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const charactersTaskHudVisibility = {
   id: "01a062ee-f0ce-7072-a02f-7b8f8b50609e",

@@ -1,15 +1,15 @@
+import { captureAndSaveCharacterStats } from "akasha/temper/characters-addon/characters-player-stats/characters-player-stats.module.code.ts"
+import {
+  updateAccountSkillLineProgress,
+  updateSkillLineProgress,
+} from "akasha/temper/characters-addon/characters-skill-lines/characters-skill-lines.module.code.ts"
+import { scheduleTaskAutoCompletionCheck } from "akasha/temper/characters-addon/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
 import {
   saveSkillMorphProgress,
   updateAccountSkillMorphProgress,
   updateSkillMorphProgress,
 } from "akasha/temper/characters-skills-morphs-addon/skill-morph-tracking/skill-morph-tracking.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
-import { captureAndSaveCharacterStats } from "../characters-player-stats/characters-player-stats.module.code.ts"
-import {
-  updateAccountSkillLineProgress,
-  updateSkillLineProgress,
-} from "../characters-skill-lines/characters-skill-lines.module.code.ts"
-import { scheduleTaskAutoCompletionCheck } from "../characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
 
 export const BUILD_CAPTURE_UPDATE = ADDON_NAME + "_BuildCaptureDelay"
 

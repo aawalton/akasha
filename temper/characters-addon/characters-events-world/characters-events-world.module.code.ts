@@ -1,34 +1,34 @@
-import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
-import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
-import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
-import { collectAllianceRank } from "../characters-alliance-rank/characters-alliance-rank.module.code.ts"
-import { collectBagSize } from "../characters-bag-size/characters-bag-size.module.code.ts"
-import { collectCadwell } from "../characters-cadwell/characters-cadwell.module.code.ts"
+import { collectAllianceRank } from "akasha/temper/characters-addon/characters-alliance-rank/characters-alliance-rank.module.code.ts"
+import { collectBagSize } from "akasha/temper/characters-addon/characters-bag-size/characters-bag-size.module.code.ts"
+import { collectCadwell } from "akasha/temper/characters-addon/characters-cadwell/characters-cadwell.module.code.ts"
 import {
   refreshAllCollectibles,
   updateCollectible,
-} from "../characters-collectibles/characters-collectibles.module.code.ts"
-import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
+} from "akasha/temper/characters-addon/characters-collectibles/characters-collectibles.module.code.ts"
+import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
 import {
   reconcileDailyWritStates,
   recordDailyWritCompletion,
-} from "../characters-daily-writs/characters-daily-writs.module.code.ts"
-import { collectGrandMasterStations } from "../characters-grand-master-stations/characters-grand-master-stations.module.code.ts"
-import { collectMountTraining } from "../characters-mount-training/characters-mount-training.module.code.ts"
+} from "akasha/temper/characters-addon/characters-daily-writs/characters-daily-writs.module.code.ts"
+import { collectGrandMasterStations } from "akasha/temper/characters-addon/characters-grand-master-stations/characters-grand-master-stations.module.code.ts"
+import { collectMountTraining } from "akasha/temper/characters-addon/characters-mount-training/characters-mount-training.module.code.ts"
 import {
   collectPointsOfInterest,
   updatePointOfInterest,
-} from "../characters-points-of-interest/characters-points-of-interest.module.code.ts"
-import { scheduleTaskAutoCompletionCheck } from "../characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
-import { refreshTaskHud } from "../characters-task-hud/characters-task-hud.module.code.ts"
+} from "akasha/temper/characters-addon/characters-points-of-interest/characters-points-of-interest.module.code.ts"
+import { scheduleTaskAutoCompletionCheck } from "akasha/temper/characters-addon/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
+import { refreshTaskHud } from "akasha/temper/characters-addon/characters-task-hud/characters-task-hud.module.code.ts"
 import {
   refreshAllTributeCardUpgrades,
   updateTributeCardUpgrade,
-} from "../characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"
+} from "akasha/temper/characters-addon/characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"
 import {
   collectZoneCompletion,
   updateZoneCompletionActivity,
-} from "../characters-zone-completion/characters-zone-completion.module.code.ts"
+} from "akasha/temper/characters-addon/characters-zone-completion/characters-zone-completion.module.code.ts"
+import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
+import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 function captureSmithingStations(this: void, craftSkill: number): undefined {
   if (!IsSmithingCraftingType(craftSkill)) return

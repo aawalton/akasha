@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const charactersTaskHudRows = {
   id: "01a062ee-f128-7077-9396-8431051e6c14",

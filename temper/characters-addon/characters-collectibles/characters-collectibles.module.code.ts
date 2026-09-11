@@ -1,5 +1,5 @@
+import { mergeIdList } from "akasha/temper/characters-addon/characters-collector-merge/characters-collector-merge.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
-import { mergeIdList } from "../characters-collector-merge/characters-collector-merge.module.code.ts"
 
 function pushUnlocked(
   categoryIndex: number,

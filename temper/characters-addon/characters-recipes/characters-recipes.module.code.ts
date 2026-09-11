@@ -1,7 +1,7 @@
+import { mergeIdListsByKey } from "akasha/temper/characters-addon/characters-collector-merge/characters-collector-merge.module.code.ts"
+import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
+import { addIdToListAt } from "akasha/temper/characters-addon/characters-known-id-lists/characters-known-id-lists.module.code.ts"
 import type { SparseRecipes } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import { mergeIdListsByKey } from "../characters-collector-merge/characters-collector-merge.module.code.ts"
-import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
-import { addIdToListAt } from "../characters-known-id-lists/characters-known-id-lists.module.code.ts"
 
 const RECIPE_TOTALS: Record<number, number> = {}
 

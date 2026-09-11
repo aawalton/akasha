@@ -1,3 +1,8 @@
+import {
+  isDailyCraftingQuest,
+  isDailyCraftingWritQuest,
+  isWritCraftType,
+} from "akasha/temper/characters-addon/characters-daily-writs-detection/characters-daily-writs-detection.module.code.ts"
 import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
 import {
@@ -7,11 +12,6 @@ import {
   nextDailyWritReconcile,
 } from "akasha/temper/player-completion-state/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
 import type { SavedCharacterEntry } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
-import {
-  isDailyCraftingQuest,
-  isDailyCraftingWritQuest,
-  isWritCraftType,
-} from "../characters-daily-writs-detection/characters-daily-writs-detection.module.code.ts"
 
 export function recordDailyWritCompletion(charEntry: SavedCharacterEntry): undefined {
   const today = getEsoDayStringFromSec(GetTimeStamp())

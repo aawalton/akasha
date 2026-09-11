@@ -1,5 +1,5 @@
+import { mergeByKey } from "akasha/temper/characters-addon/characters-keyed-merge/characters-keyed-merge.module.code.ts"
 import type { SkillLineProgress } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import { mergeByKey } from "../characters-keyed-merge/characters-keyed-merge.module.code.ts"
 
 function mergeLine(stored: SkillLineProgress, fresh: SkillLineProgress): SkillLineProgress {
   const advanced = fresh.currentRank >= stored.currentRank ? fresh : stored

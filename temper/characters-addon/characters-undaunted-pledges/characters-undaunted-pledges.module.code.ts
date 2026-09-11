@@ -1,3 +1,4 @@
+import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
 import {
   TEMPER_DUNGEONS,
   TEMPER_QUEST_GIVERS,
@@ -5,7 +6,6 @@ import {
 import type { TodaysPledge } from "akasha/temper/dungeons/pledge-rotation/pledge-rotation.module.code.ts"
 import { getTodaysPledges as rotationTodaysPledges } from "akasha/temper/dungeons/pledge-rotation/pledge-rotation.module.code.ts"
 import { getSoloDifficulty } from "akasha/temper/dungeons/solo-difficulty/solo-difficulty.module.code.ts"
-import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
 
 export type UndauntedPledge = TodaysPledge
 

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const charactersTaskHudCompanionRapport = {
   id: "01a062ee-f050-706b-865b-cca0db9bf255",

@@ -1,10 +1,10 @@
+import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
+import { mergeTraitResearch } from "akasha/temper/characters-addon/characters-trait-research-merge/characters-trait-research-merge.module.code.ts"
 import type {
   TraitResearchCraftType,
   TraitResearchLine,
   TraitResearchTrait,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
-import { mergeTraitResearch } from "../characters-trait-research-merge/characters-trait-research-merge.module.code.ts"
 
 export const CRAFTING_TYPES = [
   CRAFTING_TYPE_BLACKSMITHING,

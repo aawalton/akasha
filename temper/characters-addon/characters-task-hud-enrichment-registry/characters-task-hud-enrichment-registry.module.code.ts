@@ -1,17 +1,10 @@
-import {
-  getSkillMorphEnrichment,
-  isSkillMorphTask,
-} from "akasha/temper/characters-skills-morphs-addon/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"
-import { MAX_COMPANION_RAPPORT } from "akasha/temper/player-completion/companion-rapport/companion-rapport.module.code.ts"
-import type { DailyWritProfessionState } from "akasha/temper/player-completion-state/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
-import type { TaskData } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
-import { formatProgressCount } from "../characters-progress-format/characters-progress-format.module.code.ts"
+import { formatProgressCount } from "akasha/temper/characters-addon/characters-progress-format/characters-progress-format.module.code.ts"
 import {
   getScribingGuildDailyFallback,
   getScribingScriptType,
   getScribingSourceSubRows,
-} from "../characters-scribing-sources/characters-scribing-sources.module.code.ts"
-import { taskHasCard } from "../characters-task-card-match/characters-task-card-match.module.code.ts"
+} from "akasha/temper/characters-addon/characters-scribing-sources/characters-scribing-sources.module.code.ts"
+import { taskHasCard } from "akasha/temper/characters-addon/characters-task-card-match/characters-task-card-match.module.code.ts"
 import {
   type AntiquityLeadEnrichment,
   getAntiquityLeadEnrichment,
@@ -23,20 +16,27 @@ import {
   isDragonguardTask,
   isLoreLibraryTask,
   isUndauntedTask,
-} from "../characters-task-hud-enrichment/characters-task-hud-enrichment.module.code.ts"
+} from "akasha/temper/characters-addon/characters-task-hud-enrichment/characters-task-hud-enrichment.module.code.ts"
 import {
   type DailyWritRow,
   getDailyWritsEnrichmentRows,
-} from "../characters-task-hud-enrichment-daily-writs/characters-task-hud-enrichment-daily-writs.module.code.ts"
+} from "akasha/temper/characters-addon/characters-task-hud-enrichment-daily-writs/characters-task-hud-enrichment-daily-writs.module.code.ts"
 import type {
   SubRowColor,
   SubRowSpec,
-} from "../characters-task-hud-rows/characters-task-hud-rows.module.code.ts"
-import { getDungeonSetsForCurrentZone } from "../characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts"
+} from "akasha/temper/characters-addon/characters-task-hud-rows/characters-task-hud-rows.module.code.ts"
+import { getDungeonSetsForCurrentZone } from "akasha/temper/characters-addon/characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts"
 import {
   filterPledgesForCharacter,
   getTodaysPledges,
-} from "../characters-undaunted-pledges/characters-undaunted-pledges.module.code.ts"
+} from "akasha/temper/characters-addon/characters-undaunted-pledges/characters-undaunted-pledges.module.code.ts"
+import {
+  getSkillMorphEnrichment,
+  isSkillMorphTask,
+} from "akasha/temper/characters-skills-morphs-addon/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"
+import { MAX_COMPANION_RAPPORT } from "akasha/temper/player-completion/companion-rapport/companion-rapport.module.code.ts"
+import type { DailyWritProfessionState } from "akasha/temper/player-completion-state/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
+import type { TaskData } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 export interface SubRowProgress {
   readonly current: number

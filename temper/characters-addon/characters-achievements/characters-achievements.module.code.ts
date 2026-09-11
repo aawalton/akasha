@@ -1,5 +1,5 @@
+import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
-import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
 
 const ACCOUNT_ACHIEVEMENT_CATEGORY_MAP: Record<string, Record<string, number[]>> = {}
 const CHARACTER_ACHIEVEMENT_CATEGORY_MAP: Record<string, Record<string, number[]>> = {}

@@ -1,10 +1,10 @@
+import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
 import type {
   CadwellLevel,
   CadwellPOI,
   CadwellProgress,
   CadwellZone,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
 
 export const CADWELL_LEVELS = [
   CADWELL_PROGRESSION_LEVEL_BRONZE,

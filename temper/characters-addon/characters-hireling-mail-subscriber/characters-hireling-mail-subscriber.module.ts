@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const charactersHirelingMailSubscriber = {
   id: "01a062ed-3979-7008-b38a-d2d8bc3af92b",

@@ -1,3 +1,21 @@
+import {
+  type ActiveAntiquityLead,
+  collectActiveAntiquityLeads,
+  isActionableLead,
+  isLegendaryLead,
+  isMotifLead,
+} from "akasha/temper/characters-addon/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.code.ts"
+import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
+import { taskHasCardAndPathEntry } from "akasha/temper/characters-addon/characters-task-card-match/characters-task-card-match.module.code.ts"
+import {
+  type CompanionQuestEnrichment,
+  pickFirstIncompleteCompanionQuest,
+} from "akasha/temper/characters-addon/characters-task-hud-companion-quests/characters-task-hud-companion-quests.module.code.ts"
+import {
+  type CompanionRapportEnrichment,
+  pickFirstIncompleteCompanionRapport,
+} from "akasha/temper/characters-addon/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.code.ts"
+import { UNDAUNTED_SKILL_LINE_ID } from "akasha/temper/characters-addon/characters-task-hud-state/characters-task-hud-state.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/completion/lore-library-data/lore-library-data.module.code.ts"
 import {
   findFirstIncompleteCadwellZone,
@@ -7,24 +25,6 @@ import { findFirstIncompleteLoreCollection } from "akasha/temper/player-completi
 import { extractLoreKnownSet } from "akasha/temper/player-completion/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
 import type { TaskData } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { TaskProgress } from "akasha/temper/player-completion-state/completion-task-progress/completion-task-progress.module.code.ts"
-import {
-  type ActiveAntiquityLead,
-  collectActiveAntiquityLeads,
-  isActionableLead,
-  isLegendaryLead,
-  isMotifLead,
-} from "../characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.code.ts"
-import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
-import { taskHasCardAndPathEntry } from "../characters-task-card-match/characters-task-card-match.module.code.ts"
-import {
-  type CompanionQuestEnrichment,
-  pickFirstIncompleteCompanionQuest,
-} from "../characters-task-hud-companion-quests/characters-task-hud-companion-quests.module.code.ts"
-import {
-  type CompanionRapportEnrichment,
-  pickFirstIncompleteCompanionRapport,
-} from "../characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.code.ts"
-import { UNDAUNTED_SKILL_LINE_ID } from "../characters-task-hud-state/characters-task-hud-state.module.code.ts"
 
 export function getCompanionRapportEnrichment(): CompanionRapportEnrichment | undefined {
   return pickFirstIncompleteCompanionRapport(currentCharacterEntry()?.companionRapport)

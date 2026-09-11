@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const charactersTaskCardMatch = {
   id: "01a062ee-efdd-7065-b808-78f99e6b809a",

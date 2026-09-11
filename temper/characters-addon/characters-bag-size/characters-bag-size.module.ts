@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const charactersBagSize = {
   id: "01a062e9-b6fe-7011-83c4-ee7e2deb093c",

@@ -1,29 +1,29 @@
-import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
-import { saveAchievementProgress } from "../characters-achievements/characters-achievements.module.code.ts"
+import { saveAchievementProgress } from "akasha/temper/characters-addon/characters-achievements/characters-achievements.module.code.ts"
 import {
   refreshAllAntiquityLore,
   updateAntiquityLore,
-} from "../characters-antiquity-lore/characters-antiquity-lore.module.code.ts"
-import { collectCadwell } from "../characters-cadwell/characters-cadwell.module.code.ts"
-import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
-import { reconcileDailyWritStates } from "../characters-daily-writs/characters-daily-writs.module.code.ts"
+} from "akasha/temper/characters-addon/characters-antiquity-lore/characters-antiquity-lore.module.code.ts"
+import { collectCadwell } from "akasha/temper/characters-addon/characters-cadwell/characters-cadwell.module.code.ts"
+import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
+import { reconcileDailyWritStates } from "akasha/temper/characters-addon/characters-daily-writs/characters-daily-writs.module.code.ts"
 import {
   refreshAllItemSets,
   updateItemSet,
-} from "../characters-item-sets/characters-item-sets.module.code.ts"
-import { updateLoreBook } from "../characters-lore-library/characters-lore-library.module.code.ts"
-import { updateQuest } from "../characters-quests/characters-quests.module.code.ts"
+} from "akasha/temper/characters-addon/characters-item-sets/characters-item-sets.module.code.ts"
+import { updateLoreBook } from "akasha/temper/characters-addon/characters-lore-library/characters-lore-library.module.code.ts"
+import { updateQuest } from "akasha/temper/characters-addon/characters-quests/characters-quests.module.code.ts"
 import {
   refreshAllRecipes,
   updateRecipe,
-} from "../characters-recipes/characters-recipes.module.code.ts"
+} from "akasha/temper/characters-addon/characters-recipes/characters-recipes.module.code.ts"
 import {
   updateGrimoire,
   updateScript,
-} from "../characters-scribing/characters-scribing.module.code.ts"
-import { updateSkillPoints } from "../characters-skill-points/characters-skill-points.module.code.ts"
-import { scheduleTaskAutoCompletionCheck } from "../characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
-import { updateTraitResearch } from "../characters-trait-research/characters-trait-research.module.code.ts"
+} from "akasha/temper/characters-addon/characters-scribing/characters-scribing.module.code.ts"
+import { updateSkillPoints } from "akasha/temper/characters-addon/characters-skill-points/characters-skill-points.module.code.ts"
+import { scheduleTaskAutoCompletionCheck } from "akasha/temper/characters-addon/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
+import { updateTraitResearch } from "akasha/temper/characters-addon/characters-trait-research/characters-trait-research.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
 
 const TRAIT_RESEARCH_EVENTS = [
   { suffix: "_TraitResearchCompleted", event: EVENT_SMITHING_TRAIT_RESEARCH_COMPLETED },

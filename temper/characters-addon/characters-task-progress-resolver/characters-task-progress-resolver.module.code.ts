@@ -1,3 +1,31 @@
+import { getCompletionOverridesForCharacter } from "akasha/temper/characters-addon/characters-config/characters-config.module.code.ts"
+import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
+import {
+  HIRELING_MAILS_DAILY_TARGET,
+  hirelingCountForToday,
+} from "akasha/temper/characters-addon/characters-hireling-mail-count/characters-hireling-mail-count.module.code.ts"
+import {
+  resolveAccountAchievements,
+  resolveCharacterAchievements,
+} from "akasha/temper/characters-addon/characters-task-progress-resolver-achievements/characters-task-progress-resolver-achievements.module.code.ts"
+import {
+  resolveDailyWrits,
+  resolveRecipes,
+  resolveScribing,
+} from "akasha/temper/characters-addon/characters-task-progress-resolver-knowledge/characters-task-progress-resolver-knowledge.module.code.ts"
+import {
+  resolveSkillLines,
+  resolveSkillPoints,
+} from "akasha/temper/characters-addon/characters-task-progress-resolver-skills/characters-task-progress-resolver-skills.module.code.ts"
+import {
+  resolveAntiquityLore,
+  resolveCadwell,
+  resolveCompanionQuests,
+  resolveCompanionRapport,
+  resolveLoreLibrary,
+  resolveMountTraining,
+  resolveTraitResearch,
+} from "akasha/temper/characters-addon/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.code.ts"
 import { resolveSkillMorphs } from "akasha/temper/characters-skills-morphs-addon/skill-morph-task-progress/skill-morph-task-progress.module.code.ts"
 import type { AccountCompletion } from "akasha/temper/completion/completion-record/completion-record.module.code.ts"
 import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
@@ -8,34 +36,6 @@ import {
   type TaskData,
 } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { TaskProgress } from "akasha/temper/player-completion-state/completion-task-progress/completion-task-progress.module.code.ts"
-import { getCompletionOverridesForCharacter } from "../characters-config/characters-config.module.code.ts"
-import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
-import {
-  HIRELING_MAILS_DAILY_TARGET,
-  hirelingCountForToday,
-} from "../characters-hireling-mail-count/characters-hireling-mail-count.module.code.ts"
-import {
-  resolveAccountAchievements,
-  resolveCharacterAchievements,
-} from "../characters-task-progress-resolver-achievements/characters-task-progress-resolver-achievements.module.code.ts"
-import {
-  resolveDailyWrits,
-  resolveRecipes,
-  resolveScribing,
-} from "../characters-task-progress-resolver-knowledge/characters-task-progress-resolver-knowledge.module.code.ts"
-import {
-  resolveSkillLines,
-  resolveSkillPoints,
-} from "../characters-task-progress-resolver-skills/characters-task-progress-resolver-skills.module.code.ts"
-import {
-  resolveAntiquityLore,
-  resolveCadwell,
-  resolveCompanionQuests,
-  resolveCompanionRapport,
-  resolveLoreLibrary,
-  resolveMountTraining,
-  resolveTraitResearch,
-} from "../characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.code.ts"
 
 export function resolveTaskProgressForCharacter(
   charData: SavedCharacterEntry | undefined,

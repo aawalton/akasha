@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const charactersTaskProgressResolverKnowledge = {
   id: "01a062ee-f087-706e-9feb-1e83362fc467",

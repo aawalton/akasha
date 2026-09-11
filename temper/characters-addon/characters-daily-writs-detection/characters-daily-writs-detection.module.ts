@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const charactersDailyWritsDetection = {
   id: "01a062ea-6094-7fb1-89f7-d7b2fda3d444",

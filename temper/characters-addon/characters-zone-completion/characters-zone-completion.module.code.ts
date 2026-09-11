@@ -1,6 +1,6 @@
+import { mergeIdList } from "akasha/temper/characters-addon/characters-collector-merge/characters-collector-merge.module.code.ts"
+import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
 import type { SparseZoneCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import { mergeIdList } from "../characters-collector-merge/characters-collector-merge.module.code.ts"
-import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
 
 export function scanZoneCompletion(this: void): SparseZoneCompletion {
   const result: SparseZoneCompletion = {}

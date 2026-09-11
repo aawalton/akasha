@@ -1,10 +1,10 @@
+import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
+import { mergeScribing } from "akasha/temper/characters-addon/characters-scribing-merge/characters-scribing-merge.module.code.ts"
 import type {
   GrimoireEntry,
   ScribingProgress,
   ScriptEntry,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
-import { mergeScribing } from "../characters-scribing-merge/characters-scribing-merge.module.code.ts"
 
 export const SCRIBING_SLOTS = [
   SCRIBING_SLOT_PRIMARY,

@@ -1,3 +1,18 @@
+import {
+  hasNoAntiquityLeadMatching,
+  isActionableLead,
+  isLegendaryLead,
+  isMotifLead,
+} from "akasha/temper/characters-addon/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.code.ts"
+import { getCharactersConfig } from "akasha/temper/characters-addon/characters-config/characters-config.module.code.ts"
+import {
+  HIRELING_MAILS_DAILY_TARGET,
+  hirelingCountForToday,
+} from "akasha/temper/characters-addon/characters-hireling-mail-count/characters-hireling-mail-count.module.code.ts"
+import { refreshTaskHud } from "akasha/temper/characters-addon/characters-task-hud/characters-task-hud.module.code.ts"
+import { clearInitialCompletion } from "akasha/temper/characters-addon/characters-task-hud-state/characters-task-hud-state.module.code.ts"
+import { isCurrentCharacterNext } from "akasha/temper/characters-addon/characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts"
+import { resolveTaskProgress } from "akasha/temper/characters-addon/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"
 import { isSkillMorphTaskComplete } from "akasha/temper/characters-skills-morphs-addon/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"
 import {
   getEsoDayStringFromSec,
@@ -10,21 +25,6 @@ import type {
 } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { TaskProgress } from "akasha/temper/player-completion-state/completion-task-progress/completion-task-progress.module.code.ts"
-import {
-  hasNoAntiquityLeadMatching,
-  isActionableLead,
-  isLegendaryLead,
-  isMotifLead,
-} from "../characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.code.ts"
-import { getCharactersConfig } from "../characters-config/characters-config.module.code.ts"
-import {
-  HIRELING_MAILS_DAILY_TARGET,
-  hirelingCountForToday,
-} from "../characters-hireling-mail-count/characters-hireling-mail-count.module.code.ts"
-import { refreshTaskHud } from "../characters-task-hud/characters-task-hud.module.code.ts"
-import { clearInitialCompletion } from "../characters-task-hud-state/characters-task-hud-state.module.code.ts"
-import { isCurrentCharacterNext } from "../characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts"
-import { resolveTaskProgress } from "../characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"
 
 export const AUTO_COMPLETE_UPDATE_NAME = ADDON_NAME + "_TaskAutoComplete"
 

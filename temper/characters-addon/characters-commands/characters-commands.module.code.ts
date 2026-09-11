@@ -1,3 +1,30 @@
+import { collectAchievements } from "akasha/temper/characters-addon/characters-achievements/characters-achievements.module.code.ts"
+import { collectAllianceRank } from "akasha/temper/characters-addon/characters-alliance-rank/characters-alliance-rank.module.code.ts"
+import { refreshAllAntiquityLore } from "akasha/temper/characters-addon/characters-antiquity-lore/characters-antiquity-lore.module.code.ts"
+import { collectBagSize } from "akasha/temper/characters-addon/characters-bag-size/characters-bag-size.module.code.ts"
+import { collectCadwell } from "akasha/temper/characters-addon/characters-cadwell/characters-cadwell.module.code.ts"
+import { refreshAllCollectibles } from "akasha/temper/characters-addon/characters-collectibles/characters-collectibles.module.code.ts"
+import { getCharactersConfig } from "akasha/temper/characters-addon/characters-config/characters-config.module.code.ts"
+import { currentCharacterEntry } from "akasha/temper/characters-addon/characters-current-entry/characters-current-entry.module.code.ts"
+import { refreshAllItemSets } from "akasha/temper/characters-addon/characters-item-sets/characters-item-sets.module.code.ts"
+import { saveCharacterList } from "akasha/temper/characters-addon/characters-list/characters-list.module.code.ts"
+import { collectLoreLibrary } from "akasha/temper/characters-addon/characters-lore-library/characters-lore-library.module.code.ts"
+import { collectMountTraining } from "akasha/temper/characters-addon/characters-mount-training/characters-mount-training.module.code.ts"
+import { captureAndSaveCharacterStats } from "akasha/temper/characters-addon/characters-player-stats/characters-player-stats.module.code.ts"
+import { collectPointsOfInterest } from "akasha/temper/characters-addon/characters-points-of-interest/characters-points-of-interest.module.code.ts"
+import { collectQuests } from "akasha/temper/characters-addon/characters-quests/characters-quests.module.code.ts"
+import { refreshAllRecipes } from "akasha/temper/characters-addon/characters-recipes/characters-recipes.module.code.ts"
+import { collectScribing } from "akasha/temper/characters-addon/characters-scribing/characters-scribing.module.code.ts"
+import {
+  saveAccountSkillLineProgress,
+  saveSkillLineProgress,
+} from "akasha/temper/characters-addon/characters-skill-lines/characters-skill-lines.module.code.ts"
+import { updateSkillPoints } from "akasha/temper/characters-addon/characters-skill-points/characters-skill-points.module.code.ts"
+import { getCompletionKey } from "akasha/temper/characters-addon/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
+import { refreshTaskHud } from "akasha/temper/characters-addon/characters-task-hud/characters-task-hud.module.code.ts"
+import { refreshAllTraitResearch } from "akasha/temper/characters-addon/characters-trait-research/characters-trait-research.module.code.ts"
+import { refreshAllTributeCardUpgrades } from "akasha/temper/characters-addon/characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"
+import { collectZoneCompletion } from "akasha/temper/characters-addon/characters-zone-completion/characters-zone-completion.module.code.ts"
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,
@@ -5,33 +32,6 @@ import {
 import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
 import { collectMotifKnowledge } from "akasha/temper/player-completion-state/completion-motif-knowledge/completion-motif-knowledge.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
-import { collectAchievements } from "../characters-achievements/characters-achievements.module.code.ts"
-import { collectAllianceRank } from "../characters-alliance-rank/characters-alliance-rank.module.code.ts"
-import { refreshAllAntiquityLore } from "../characters-antiquity-lore/characters-antiquity-lore.module.code.ts"
-import { collectBagSize } from "../characters-bag-size/characters-bag-size.module.code.ts"
-import { collectCadwell } from "../characters-cadwell/characters-cadwell.module.code.ts"
-import { refreshAllCollectibles } from "../characters-collectibles/characters-collectibles.module.code.ts"
-import { getCharactersConfig } from "../characters-config/characters-config.module.code.ts"
-import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
-import { refreshAllItemSets } from "../characters-item-sets/characters-item-sets.module.code.ts"
-import { saveCharacterList } from "../characters-list/characters-list.module.code.ts"
-import { collectLoreLibrary } from "../characters-lore-library/characters-lore-library.module.code.ts"
-import { collectMountTraining } from "../characters-mount-training/characters-mount-training.module.code.ts"
-import { captureAndSaveCharacterStats } from "../characters-player-stats/characters-player-stats.module.code.ts"
-import { collectPointsOfInterest } from "../characters-points-of-interest/characters-points-of-interest.module.code.ts"
-import { collectQuests } from "../characters-quests/characters-quests.module.code.ts"
-import { refreshAllRecipes } from "../characters-recipes/characters-recipes.module.code.ts"
-import { collectScribing } from "../characters-scribing/characters-scribing.module.code.ts"
-import {
-  saveAccountSkillLineProgress,
-  saveSkillLineProgress,
-} from "../characters-skill-lines/characters-skill-lines.module.code.ts"
-import { updateSkillPoints } from "../characters-skill-points/characters-skill-points.module.code.ts"
-import { getCompletionKey } from "../characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
-import { refreshTaskHud } from "../characters-task-hud/characters-task-hud.module.code.ts"
-import { refreshAllTraitResearch } from "../characters-trait-research/characters-trait-research.module.code.ts"
-import { refreshAllTributeCardUpgrades } from "../characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"
-import { collectZoneCompletion } from "../characters-zone-completion/characters-zone-completion.module.code.ts"
 
 const SLASH_COMMAND_LISTINGS = [
   { name: "/temperrefresh", description: "Refresh all completion data" },
