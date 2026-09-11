@@ -6,7 +6,7 @@ export const ready = {
   type: "seat-turn-state",
   slug: "ready",
   definition: "an agent between turns whose role is on call",
-  color: "green",
+  color: "purple",
   invariants: [
     {
       invariantKind: "departure",
