@@ -5,7 +5,7 @@ export const memoryReaping = {
   pageTypeSlug: "domain",
   type: "domain",
   slug: "memory-reaping",
-  definition: "a process ended for the memory its host has run out of",
+  definition: "a process ended for the memory it takes or the memory its host has left",
   invariants: [
     {
       invariantKind: "departure",
