@@ -6,7 +6,7 @@ export const noRelativeSpecifier = {
   type: "code-check",
   slug: "no-relative-specifier",
   definition: "the check refusing a specifier naming a file by a relative path",
-  runsOnChange: false,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
@@ -62,7 +62,7 @@ export const noRelativeSpecifier = {
     {
       invariantKind: "departure",
       statement:
-        "The phases this check runs at are settled once no body names a file by a relative path.",
+        "The phases reading the whole tree wait on a clean tree; the change phase does not.",
     },
     {
       invariantKind: "absence",
