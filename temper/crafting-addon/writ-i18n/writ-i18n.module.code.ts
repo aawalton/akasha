@@ -134,6 +134,10 @@ export function str(this: void, key: string | number, how?: StrHow): string | un
   return undefined
 }
 
+export function strOrKey(this: void, key: string): string {
+  return str(key) ?? key
+}
+
 export function foodDrink(this: void, key: string | number): string | undefined {
   return str(key, STR_HOW.FOODDRINK)
 }

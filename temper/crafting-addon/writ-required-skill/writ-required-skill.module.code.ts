@@ -1,3 +1,4 @@
+import { strOrKey } from "akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts"
 import { newKnow } from "akasha/temper/crafting-addon/writ-know/writ-know.module.code.ts"
 import {
   add as logAdd,
@@ -65,12 +66,10 @@ export function newRequiredSkill(
       if (this._is_reduction === true) {
         how = KNOW.SKILL_COST_REDUCTION
       }
-      const ww = TemperWrit.Str
-      const str = (key: string): string => (ww !== undefined ? ww(key) : undefined) ?? key
       if (this.function_name === "IsMaxxed") {
         const known = this.IsKnown()
         const text = string.format(
-          str("know_err_skill_not_maxed"),
+          strOrKey("know_err_skill_not_maxed"),
           this.Name(),
           this._have ?? -1,
           this._max ?? -1
@@ -83,7 +82,7 @@ export function newRequiredSkill(
         })
       }
       const known = this.IsKnown()
-      const text = string.format(str("know_err_skill_missing"), this.Name())
+      const text = string.format(strOrKey("know_err_skill_missing"), this.Name())
       return newKnow({
         name: "Skill: " + this.Name(),
         is_known: known,

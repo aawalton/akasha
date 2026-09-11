@@ -2,6 +2,7 @@ import {
   ADDON_NAME,
   ADDON_VERSION,
 } from "akasha/temper/crafting-addon/writ-constants/writ-constants.module.code.ts"
+import { strOrKey as wwStr } from "akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts"
 import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 
 function savedVars(): TemperWritSavedVariables {
@@ -10,11 +11,6 @@ function savedVars(): TemperWritSavedVariables {
     return {}
   }
   return sv
-}
-
-function wwStr(key: string): string {
-  const str = TemperWrit.Str
-  return (str !== undefined ? str(key) : undefined) ?? key
 }
 
 export function createSettingsWindow(this: void): undefined {

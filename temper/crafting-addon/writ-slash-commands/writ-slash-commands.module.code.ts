@@ -1,9 +1,5 @@
 import { libSlashCommander } from "akasha/temper/crafting-addon/craft-libraries/craft-libraries.module.code.ts"
-
-function wwStr(key: string): string {
-  const str = TemperWrit.Str
-  return (str !== undefined ? str(key) : undefined) ?? key
-}
+import { strOrKey as wwStr } from "akasha/temper/crafting-addon/writ-i18n/writ-i18n.module.code.ts"
 
 export function forget(this: void): undefined {
   const sc = TemperWrit.savedChariables
