@@ -41,8 +41,6 @@ import {
 
 const REMOVE = "--remove"
 
-const CALLED_AS = "akasha agent subagent sweep"
-
 export const TAKE = "change-mechanical/remove-file-of-any-kind"
 
 const WRONG = 3
@@ -149,10 +147,10 @@ async function transcriptsSay(pages: readonly SubagentPage[]): Promise<OwnIds> {
   return runningOwnIn(pages, createSubagentReader(), (seat) => transcriptOf(seat)?.value ?? null)
 }
 
-export function heldBack(stale: number): readonly string[] {
+export function heldBack(calledAs: string, stale: number): readonly string[] {
   return [
     "",
-    `${CALLED_AS} wrote nothing. Say \`${REMOVE}\` to take away the ${String(stale)} page(s) ` +
+    `${calledAs} wrote nothing. Say \`${REMOVE}\` to take away the ${String(stale)} page(s) ` +
       "judged STALE — a page judged WORKING or UNDETERMINED never goes, whatever the run says.",
   ]
 }
@@ -246,7 +244,9 @@ export async function agentSubagentSweep(
   const census = censusOf(judged)
   const { going, left } = partedStale(root, staleAmong(judged))
   const kept = keptSaid(left)
-  if (!read.removing) return answering([...census, ...kept, ...heldBack(going.length)], [], 0)
+  if (!read.removing) {
+    return answering([...census, ...kept, ...heldBack(given.calledAs, going.length)], [], 0)
+  }
   if (going.length === 0) {
     const why = left.length === 0 ? NOTHING_STALE : ALL_KEPT
     return answering([...census, ...kept, "", why], [], 0)

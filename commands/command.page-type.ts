@@ -168,6 +168,11 @@ export const command = {
       statement: "The arguments a command takes are carried here as data rather than as prose.",
     },
     {
+      invariantKind: "absence",
+      statement:
+        "A command's code spells no name of its own call, which the call it is handed carries.",
+    },
+    {
       invariantKind: "gap",
       statement: "A command's code reads this page rather than declaring the shape again.",
     },
