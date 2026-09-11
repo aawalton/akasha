@@ -11,7 +11,7 @@ import {
   applyRefreshedSessionToStorageState,
   classifyPlaywrightStorageState,
   RefreshedTokensSchema,
-} from "akasha/code-system/browser/test-harness/storage-state-reading/storage-state-reading.module.code.ts"
+} from "akasha/code/browser/test-harness/storage-state-reading/storage-state-reading.module.code.ts"
 import {
   computeMcpConfigContent,
   type McpServerConfig,

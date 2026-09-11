@@ -2,7 +2,7 @@ import {
   countIn,
   missingOf,
   wordsIn,
-} from "akasha/code-system/browser/commands/browser-command-arguing/browser-command-arguing.module.code.ts"
+} from "akasha/code/browser/commands/browser-command-arguing/browser-command-arguing.module.code.ts"
 import {
   classifyExpectedText,
   decideDiscriminatingSignal,
@@ -10,11 +10,11 @@ import {
   planRenderSettleWait,
   planTitleSettleWait,
   planVerifyRenderSession,
-} from "akasha/code-system/browser/commands/verify-render-plan/verify-render-plan.module.code.ts"
+} from "akasha/code/browser/commands/verify-render-plan/verify-render-plan.module.code.ts"
 import {
   readBrowserTestEnv,
   readRealUserOptInEnv,
-} from "akasha/code-system/browser/test-harness/browser-test-env/browser-test-env.module.code.ts"
+} from "akasha/code/browser/test-harness/browser-test-env/browser-test-env.module.code.ts"
 import {
   classifyExpectedAttr,
   classifyExpectedCount,
@@ -24,12 +24,12 @@ import {
   type ExpectedAttrMode,
   type RenderObservation,
   type RenderVerdict,
-} from "akasha/code-system/browser/test-harness/deployed-render-check/deployed-render-check.module.code.ts"
+} from "akasha/code/browser/test-harness/deployed-render-check/deployed-render-check.module.code.ts"
 import {
   createReadOnlyAnonSession,
   createReadOnlyRealUserHarness,
   createReadOnlyThrowawayHarness,
-} from "akasha/code-system/browser/test-harness/read-only-harness/read-only-harness.module.code.ts"
+} from "akasha/code/browser/test-harness/read-only-harness/read-only-harness.module.code.ts"
 import { refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 

@@ -1,16 +1,16 @@
 import { createClient } from "@supabase/supabase-js"
 import { signInWithPassword } from "akasha/alan/harness/supabase-auth/auth/auth.module.code.ts"
-import { buildBrowserLaunchEnv } from "akasha/code-system/browser/launch-env/launch-env/launch-env.module.code.ts"
+import { buildBrowserLaunchEnv } from "akasha/code/browser/launch-env/launch-env/launch-env.module.code.ts"
 import {
   type ConsoleCapture,
   createConsoleCapture,
-} from "akasha/code-system/browser/test-harness/console-capture/console-capture.module.code.ts"
-import { prewarmDevServer } from "akasha/code-system/browser/test-harness/prewarm/prewarm.module.code.ts"
+} from "akasha/code/browser/test-harness/console-capture/console-capture.module.code.ts"
+import { prewarmDevServer } from "akasha/code/browser/test-harness/prewarm/prewarm.module.code.ts"
 import {
   decideTargetGuard,
   isLocalhostTarget,
-} from "akasha/code-system/browser/test-harness/target-guard/target-guard.module.code.ts"
-import { readWorktreeGitFacts } from "akasha/code-system/browser/test-harness/worktree-git-facts/worktree-git-facts.module.code.ts"
+} from "akasha/code/browser/test-harness/target-guard/target-guard.module.code.ts"
+import { readWorktreeGitFacts } from "akasha/code/browser/test-harness/worktree-git-facts/worktree-git-facts.module.code.ts"
 import { type Browser, type BrowserContext, chromium, type Page } from "playwright-core"
 
 export const CHROMIUM_ARGS = [

@@ -2,17 +2,17 @@ import { assertCredentialPathAllowed } from "akasha/alan/harness/supabase-auth/p
 import type {
   BrowserTestEnv,
   RealUserOptInEnv,
-} from "akasha/code-system/browser/test-harness/browser-test-env/browser-test-env.module.code.ts"
+} from "akasha/code/browser/test-harness/browser-test-env/browser-test-env.module.code.ts"
 import {
   type ConsoleCapture,
   createConsoleCapture,
-} from "akasha/code-system/browser/test-harness/console-capture/console-capture.module.code.ts"
+} from "akasha/code/browser/test-harness/console-capture/console-capture.module.code.ts"
 import {
   CHROMIUM_ARGS,
   CHROMIUM_LAUNCH_ENV,
   launchAndSignIn,
   resolveUid,
-} from "akasha/code-system/browser/test-harness/harness-launch/harness-launch.module.code.ts"
+} from "akasha/code/browser/test-harness/harness-launch/harness-launch.module.code.ts"
 import { type Browser, type BrowserContext, chromium, type Page } from "playwright-core"
 
 export interface ReadOnlyAnonSession {

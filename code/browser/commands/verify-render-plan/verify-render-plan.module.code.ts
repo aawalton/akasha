@@ -1,4 +1,4 @@
-import type { ExpectedTextStatus } from "akasha/code-system/browser/test-harness/deployed-render-check/deployed-render-check.module.code.ts"
+import type { ExpectedTextStatus } from "akasha/code/browser/test-harness/deployed-render-check/deployed-render-check.module.code.ts"
 
 export type VerifyRenderSessionKind = "anon" | "throwaway" | "real-user"
 
