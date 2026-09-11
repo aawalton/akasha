@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { textAt } from "./text-at.module.code.ts"
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 describe("textAt", () => {
   test("answers the text a key holds", () => {

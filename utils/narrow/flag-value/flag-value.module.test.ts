@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { flagValue } from "./flag-value.module.code.ts"
+import { flagValue } from "akasha/utils/narrow/flag-value/flag-value.module.code.ts"
 
 test("reads the word after a flag", () => {
   expect(flagValue(["--resource", "gotrue-secrets"], "--resource")).toBe("gotrue-secrets")

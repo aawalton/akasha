@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { wholeNumberIn } from "./whole-number-in.module.code.ts"
+import { wholeNumberIn } from "akasha/utils/narrow/whole-number-in/whole-number-in.module.code.ts"
 
 describe("wholeNumberIn", () => {
   test("answers the number digits spell", () => {

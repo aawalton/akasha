@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { textIn } from "./text-in.module.code.ts"
+import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
 
 describe("textIn", () => {
   test("answers the text a value holds", () => {
