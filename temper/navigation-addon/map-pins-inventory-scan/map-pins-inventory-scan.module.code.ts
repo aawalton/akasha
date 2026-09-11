@@ -1,4 +1,4 @@
-import { ACHIEVEMENT_ITEMS } from "akasha/temper/navigation-addon/map-pins-achievement-items/map-pins-achievement-items.module.code.ts"
+import { markAchievementItem } from "akasha/temper/navigation-addon/map-pins-achievement-items/map-pins-achievement-items.module.code.ts"
 import { ANCESTRAL_TOMB_RUBBING } from "akasha/temper/navigation-addon/map-pins-ancestral-tomb-rubbing/map-pins-ancestral-tomb-rubbing.module.code.ts"
 import { CHRONOGLER_TABLET } from "akasha/temper/navigation-addon/map-pins-chronogler-tablet/map-pins-chronogler-tablet.module.code.ts"
 import type { NumberMap } from "akasha/temper/navigation-addon/map-pins-data-types/map-pins-data-types.module.code.ts"
@@ -20,11 +20,6 @@ const piecesOfHistory: NumberMap = PIECES_OF_HISTORY
 const instruments: NumberMap = INSTRUMENTS
 const miningSampleCollector: NumberMap = MINING_SAMPLE_COLLECTOR
 
-function mark(this: void, achId: number, index: number): undefined {
-  const inner = ACHIEVEMENT_ITEMS[achId]
-  if (inner !== undefined) inner[index] = true
-}
-
 export function scanInventory(this: void): undefined {
   for (const itemData of SHARED_INVENTORY.GenerateFullSlotData(undefined, BAG_BACKPACK)) {
     if (itemData !== undefined && itemData.itemType === ITEMTYPE_TROPHY) {
@@ -38,15 +33,15 @@ export function scanInventory(this: void): undefined {
       const history = piecesOfHistory[itemId]
       const instrument = instruments[itemId]
       const mining = miningSampleCollector[itemId]
-      if (ancestral !== undefined) mark(1712, ancestral)
-      else if (wrothgar !== undefined) mark(1250, wrothgar)
-      else if (summerset !== undefined) mark(2099, summerset)
-      else if (precursor !== undefined) mark(1958, precursor)
-      else if (chronogler !== undefined) mark(2320, chronogler)
-      else if (mural !== undefined) mark(2463, mural)
-      else if (history !== undefined) mark(2534, history)
-      else if (instrument !== undefined) mark(2669, instrument)
-      else if (mining !== undefined) mark(2759, mining)
+      if (ancestral !== undefined) markAchievementItem(1712, ancestral)
+      else if (wrothgar !== undefined) markAchievementItem(1250, wrothgar)
+      else if (summerset !== undefined) markAchievementItem(2099, summerset)
+      else if (precursor !== undefined) markAchievementItem(1958, precursor)
+      else if (chronogler !== undefined) markAchievementItem(2320, chronogler)
+      else if (mural !== undefined) markAchievementItem(2463, mural)
+      else if (history !== undefined) markAchievementItem(2534, history)
+      else if (instrument !== undefined) markAchievementItem(2669, instrument)
+      else if (mining !== undefined) markAchievementItem(2759, mining)
     }
   }
 }

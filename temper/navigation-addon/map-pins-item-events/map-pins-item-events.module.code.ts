@@ -1,4 +1,4 @@
-import { ACHIEVEMENT_ITEMS } from "akasha/temper/navigation-addon/map-pins-achievement-items/map-pins-achievement-items.module.code.ts"
+import { markAchievementItem } from "akasha/temper/navigation-addon/map-pins-achievement-items/map-pins-achievement-items.module.code.ts"
 import { ANCESTRAL_TOMB_RUBBING } from "akasha/temper/navigation-addon/map-pins-ancestral-tomb-rubbing/map-pins-ancestral-tomb-rubbing.module.code.ts"
 import { CHRONOGLER_TABLET } from "akasha/temper/navigation-addon/map-pins-chronogler-tablet/map-pins-chronogler-tablet.module.code.ts"
 import { CUSTOM_PINS } from "akasha/temper/navigation-addon/map-pins-config/map-pins-config.module.code.ts"
@@ -21,11 +21,6 @@ const muralMenderFragments: NumberMap = MURAL_MENDER_FRAGMENTS
 const piecesOfHistory: NumberMap = PIECES_OF_HISTORY
 const instruments: NumberMap = INSTRUMENTS
 const miningSampleCollector: NumberMap = MINING_SAMPLE_COLLECTOR
-
-function mark(this: void, achId: number, index: number): undefined {
-  const inner = ACHIEVEMENT_ITEMS[achId]
-  if (inner !== undefined) inner[index] = true
-}
 
 function refreshCompass(this: void, n: number): undefined {
   const pin = CUSTOM_PINS[n]
@@ -57,39 +52,39 @@ export function onLootReceived(
   const instrument = instruments[itemId]
   const mining = miningSampleCollector[itemId]
   if (ancestral !== undefined) {
-    mark(1712, ancestral)
+    markAchievementItem(1712, ancestral)
     ZO_WorldMap_RefreshCustomPinsOfType(getPinTypeId(51))
     refreshCompass(51)
   } else if (wrothgar !== undefined) {
-    mark(1250, wrothgar)
+    markAchievementItem(1250, wrothgar)
     ZO_WorldMap_RefreshCustomPinsOfType(getPinTypeId(47))
     refreshCompass(47)
   } else if (summerset !== undefined) {
-    mark(2099, summerset)
+    markAchievementItem(2099, summerset)
     ZO_WorldMap_RefreshCustomPinsOfType(getPinTypeId(53))
     refreshCompass(53)
   } else if (precursor !== undefined) {
-    mark(1958, precursor)
+    markAchievementItem(1958, precursor)
     ZO_WorldMap_RefreshCustomPinsOfType(getPinTypeId(56))
     refreshCompass(56)
   } else if (chronogler !== undefined) {
-    mark(2320, chronogler)
+    markAchievementItem(2320, chronogler)
     ZO_WorldMap_RefreshCustomPinsOfType(getPinTypeId(57))
     refreshCompass(57)
   } else if (mural !== undefined) {
-    mark(2463, mural)
+    markAchievementItem(2463, mural)
     ZO_WorldMap_RefreshCustomPinsOfType(getPinTypeId(63))
     refreshCompass(63)
   } else if (history !== undefined) {
-    mark(2534, history)
+    markAchievementItem(2534, history)
     ZO_WorldMap_RefreshCustomPinsOfType(getPinTypeId(64))
     refreshCompass(64)
   } else if (instrument !== undefined) {
-    mark(2669, instrument)
+    markAchievementItem(2669, instrument)
     ZO_WorldMap_RefreshCustomPinsOfType(getPinTypeId(68))
     refreshCompass(68)
   } else if (mining !== undefined) {
-    mark(2759, mining)
+    markAchievementItem(2759, mining)
     ZO_WorldMap_RefreshCustomPinsOfType(getPinTypeId(69))
     refreshCompass(69)
   }

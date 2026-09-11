@@ -9,3 +9,8 @@ export const ACHIEVEMENT_ITEMS: Record<number, Record<number, boolean>> = {
   [2669]: {},
   [2759]: {},
 }
+
+export function markAchievementItem(this: void, achId: number, index: number): undefined {
+  const inner = ACHIEVEMENT_ITEMS[achId]
+  if (inner !== undefined) inner[index] = true
+}
