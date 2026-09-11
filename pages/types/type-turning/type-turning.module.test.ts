@@ -12,18 +12,18 @@ import {
   schemaFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { turnedBy } from "akasha/pages/types/type-turning/type-turning.module.code.ts"
+import {
+  AT,
+  OWN,
+  TURNS_NOTHING_AT,
+  WRITES,
+} from "akasha/pages/types/type-turning/type-turning.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
 const ROOT = "/nowhere"
-
-const AT = "thrumming/types/page-type.page-type.ts"
-
-const OWN = "thrumming/types/page-type.page-type.types.ts"
-
-const WRITES = "thrumming/types/page-type.page-type.type-generator.ts"
 
 const BYTES = new TextEncoder()
 
@@ -32,7 +32,7 @@ function changeOver(paths: readonly string[]): Change {
 }
 
 test("a change naming no page type, no generator and no types file could turn nothing", () => {
-  expect(turnedBy(changeOver(["command-system/calling/calling.module.code.ts"]))).toBe(false)
+  expect(turnedBy(changeOver([TURNS_NOTHING_AT]))).toBe(false)
 })
 
 test("a change naming a page type could turn a type", () => {

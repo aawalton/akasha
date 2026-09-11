@@ -8,6 +8,7 @@ export const typeTurning = {
   definition: "whether a change could turn the type written beside a page",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
