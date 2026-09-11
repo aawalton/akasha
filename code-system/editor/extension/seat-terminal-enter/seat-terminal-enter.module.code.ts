@@ -1,6 +1,9 @@
+import { seatTerminals } from "akasha/code-system/editor/extension/agent-tree-state/agent-tree-state.module.code.ts"
+import {
+  callHarness,
+  LANDING_TIMEOUT_MS,
+} from "akasha/code-system/editor/extension/harness-call/harness-call.module.code.ts"
 import type * as vscode from "vscode"
-import { seatTerminals } from "../agent-tree-state/agent-tree-state.module.code.ts"
-import { callHarness, LANDING_TIMEOUT_MS } from "../harness-call/harness-call.module.code.ts"
 
 export const FOCUS_KEY = "opsAgentTree.seatTerminalFocused"
 

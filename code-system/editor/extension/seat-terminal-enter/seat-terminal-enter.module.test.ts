@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { type Held, seatOfTerminal } from "./seat-terminal-enter.module.code.ts"
+import {
+  type Held,
+  seatOfTerminal,
+} from "akasha/code-system/editor/extension/seat-terminal-enter/seat-terminal-enter.module.code.ts"
 
 const AMY = { at: "amy" }
 
