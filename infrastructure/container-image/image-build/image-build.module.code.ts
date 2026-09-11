@@ -63,12 +63,12 @@ export function namedOf(slug: string): ImageNamed {
   return found
 }
 
-export function dockerfileOf(named: ImageNamed): string {
+export function dockerfileOf(named: ImageNamed, codeAt: string = ROOT): string {
   if (named.recipe === null) return dockerfileFor(named.slug)
-  return readFileSync(join(ROOT, named.recipe), "utf8")
+  return readFileSync(join(codeAt, named.recipe), "utf8")
 }
 
-export function buildOf(slug: string): ImageBuild {
+export function buildOf(slug: string, codeAt: string = ROOT): ImageBuild {
   const named = namedOf(slug)
-  return { ...named, dockerfile: dockerfileOf(named) }
+  return { ...named, dockerfile: dockerfileOf(named, codeAt) }
 }

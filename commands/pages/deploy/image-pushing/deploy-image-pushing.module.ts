@@ -19,5 +19,9 @@ export const deployImagePushing = {
       invariantKind: "absence",
       statement: "Nothing is applied to the cluster here.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The recipe and the context are read from the tree pinned at the commit.",
+    },
   ],
 } as const satisfies Module

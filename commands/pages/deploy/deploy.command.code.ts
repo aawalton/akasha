@@ -69,7 +69,11 @@ const NAMED: Readonly<Record<string, string>> = {
   [ESO_ADDON]: "an ESO addon",
 }
 
-export const PINNED: ReadonlySet<string> = new Set([WORKSTATION_SERVICE, INFERENCE_SERVICE])
+export const PINNED: ReadonlySet<string> = new Set([
+  WORKSTATION_SERVICE,
+  INFERENCE_SERVICE,
+  CONTAINER_RECIPE,
+])
 
 export interface RefNamed {
   readonly ref: string | null
@@ -126,7 +130,7 @@ export async function putUp(
   if (read.kind === IOS_APP) {
     return shipIosApp(slug, read.pagePath, rest.includes(NO_UPLOAD), commit)
   }
-  if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, dryRun)
+  if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, dryRun, at)
   if (read.kind === WORKSTATION_SERVICE) {
     return putUpEvery(given.root, dryRun, restarting ?? new Set<string>(), at)
   }

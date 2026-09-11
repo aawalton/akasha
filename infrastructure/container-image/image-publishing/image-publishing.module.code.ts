@@ -65,7 +65,12 @@ export async function heldInRegistry(repository: string, tag: string): Promise<b
   return asked.ok
 }
 
-export function buildArgv(at: string, build: ImageNamed, ref: string): readonly string[] {
+export function buildArgv(
+  at: string,
+  build: ImageNamed,
+  ref: string,
+  codeAt: string = ROOT
+): readonly string[] {
   const cache = refFor(build.repository, CACHE_TAG)
   return [
     "--addr",
@@ -75,7 +80,7 @@ export function buildArgv(at: string, build: ImageNamed, ref: string): readonly 
     "--frontend",
     "dockerfile.v0",
     "--local",
-    `context=${join(ROOT, build.context)}`,
+    `context=${join(codeAt, build.context)}`,
     "--local",
     `dockerfile=${at}`,
     "--opt",
@@ -96,19 +101,23 @@ export interface Published {
   readonly built: boolean
 }
 
-export async function publish(build: ImageBuild, dryRun: boolean): Promise<Published> {
-  const inputs = inputsFor(build)
+export async function publish(
+  build: ImageBuild,
+  dryRun: boolean,
+  codeAt: string = ROOT
+): Promise<Published> {
+  const inputs = inputsFor(build, codeAt)
   const ref = refFor(build.repository, inputs.hash)
   const held = await heldInRegistry(build.repository, inputs.hash)
   if (held || dryRun) return { slug: build.slug, ref, held, built: false }
-  const drifted = driftedIn(inputs.copied)
+  const drifted = driftedIn(inputs.copied, codeAt)
   if (drifted.length > 0) {
     throw new Error(
       `${build.slug} is built at the commit HEAD is at, and ${drifted.join(", ")} differs from it, so the image would not be what its tag names`
     )
   }
   const at = dockerfileWrittenTo(build.slug, inputs.dockerfile)
-  const done = ran([buildctlAt(), ...buildArgv(at, build, ref)])
+  const done = ran([buildctlAt(), ...buildArgv(at, build, ref, codeAt)])
   if (done.code !== 0) {
     throw new Error(`building ${ref} exited ${done.code}: ${done.err.trim()}`)
   }
@@ -123,9 +132,12 @@ export function claimedIn(yamls: readonly string[]): readonly ImageNamed[] {
 
 export async function publishedFor(
   yamls: readonly string[],
-  dryRun: boolean
+  dryRun: boolean,
+  codeAt: string = ROOT
 ): Promise<readonly Published[]> {
   const done: Published[] = []
-  for (const named of claimedIn(yamls)) done.push(await publish(buildOf(named.slug), dryRun))
+  for (const named of claimedIn(yamls)) {
+    done.push(await publish(buildOf(named.slug, codeAt), dryRun, codeAt))
+  }
   return done
 }

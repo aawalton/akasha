@@ -36,5 +36,10 @@ export const imageBuild = {
       invariantKind: "departure",
       statement: "A recipe is read only where that one recipe is asked for.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A recipe's body is read from the folder handed in and the recipes are read from the checkout.",
+    },
   ],
 } as const satisfies Module

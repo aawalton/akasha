@@ -9,10 +9,10 @@ const HELD = "the registry holds it"
 const BUILT = "built and pushed"
 const WOULD = "would be built"
 
-export async function pushedImage(slug: string, dryRun: boolean): Promise<Answer> {
+export async function pushedImage(slug: string, dryRun: boolean, codeAt: string): Promise<Answer> {
   let said: string
   try {
-    const done = await publish(buildOf(slug), dryRun)
+    const done = await publish(buildOf(slug, codeAt), dryRun, codeAt)
     said = [IMAGE, done.ref, done.built ? BUILT : done.held ? HELD : WOULD].join("\t")
   } catch (thrown) {
     return refused(thrown instanceof Error ? thrown.message : String(thrown), DATA)

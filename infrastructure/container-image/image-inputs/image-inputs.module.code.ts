@@ -27,29 +27,29 @@ export function copiedIn(dockerfile: string): readonly string[] {
   return [...found].sort()
 }
 
-function gitIn(argv: readonly string[]): string {
-  const done = ran(["git", "-C", ROOT, ...argv])
+function gitIn(argv: readonly string[], codeAt: string): string {
+  const done = ran(["git", "-C", codeAt, ...argv])
   if (done.code !== 0) {
-    throw new Error(`git ${argv.join(" ")} in ${ROOT} exited ${done.code}: ${done.err.trim()}`)
+    throw new Error(`git ${argv.join(" ")} in ${codeAt} exited ${done.code}: ${done.err.trim()}`)
   }
   return done.out
 }
 
-export function inputsFor(build: ImageBuild): ImageInputs {
+export function inputsFor(build: ImageBuild, codeAt: string = ROOT): ImageInputs {
   const dockerfile = build.dockerfile
   const copied = copiedIn(dockerfile).map((one) => join(build.context, one))
   if (copied.length === 0) {
     throw new Error(`the Dockerfile for ${build.slug} copies nothing, so its inputs are no hash`)
   }
-  const listed = gitIn(["ls-tree", "-r", "HEAD", "--", ...copied])
+  const listed = gitIn(["ls-tree", "-r", "HEAD", "--", ...copied], codeAt)
   const summed = createHash("sha256")
   summed.update(dockerfile)
   summed.update(listed)
   return { dockerfile, copied, hash: summed.digest("hex").slice(0, TAG_LENGTH) }
 }
 
-export function driftedIn(copied: readonly string[]): readonly string[] {
-  const said = gitIn(["status", "--porcelain", "--", ...copied])
+export function driftedIn(copied: readonly string[], codeAt: string = ROOT): readonly string[] {
+  const said = gitIn(["status", "--porcelain", "--", ...copied], codeAt)
   return said
     .split("\n")
     .filter((line) => line.trim() !== "")

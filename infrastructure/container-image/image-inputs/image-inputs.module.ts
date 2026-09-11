@@ -14,7 +14,8 @@ export const imageInputs = {
     },
     {
       invariantKind: "departure",
-      statement: "The inputs are read at the commit HEAD is at rather than off the working tree.",
+      statement:
+        "The inputs are read at the head of the folder handed in rather than off its working files.",
     },
     {
       invariantKind: "departure",
