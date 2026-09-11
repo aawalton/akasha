@@ -39,6 +39,10 @@ export const aelwynStrengthTraining = {
       statement:
         "Every constraint keeping a movement out names when that constraint is tested again.",
     },
+    {
+      statement:
+        "A movement pattern's coverage is counted over the week rather than over one session.",
+    },
   ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
