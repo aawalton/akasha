@@ -123,11 +123,37 @@ test("two askers join one run only where check, home and commit all agree", () =
 test("what thea is told names every check that turned and what each refused", () => {
   const said = bodyFor(
     [{ check: "typecheck", verdict: { ...CLEAN, refusals: ["one.ts — no"] }, ran: true }],
-    "abc"
+    "abc",
+    "/h"
   )
   expect(said).toContain("typecheck")
   expect(said).toContain("one.ts — no")
   expect(said).toContain("abc")
+  expect(said).toContain("/h/.local/state/workstation-services/audit-verdicts.json")
+})
+
+test("a refusal too long for a message is shortened to say how much of it went", () => {
+  const whole = `68 test files failed:\n${"a/b.test.ts\n".repeat(400)}`
+  const said = bodyFor(
+    [{ check: "tests-pass", verdict: { ...CLEAN, refusals: [whole] }, ran: true }],
+    "abc",
+    "/h"
+  )
+  expect(said).toContain("68 test files failed:")
+  expect(said).toContain("lines more)")
+  expect(said.length).toBeLessThan(whole.length)
+})
+
+test("a message is held to the words a message page carries", () => {
+  const refusals = Array.from({ length: 400 }, (_, at) => `akasha/${at}.ts — ${"no ".repeat(90)}`)
+  const red = refusals.map((one, at) => ({
+    check: `check-${at}`,
+    verdict: { ...CLEAN, refusals: [one] },
+    ran: true,
+  }))
+  const said = bodyFor(red, "abc", "/h")
+  expect(new TextEncoder().encode(said).length).toBeLessThan(20000)
+  expect(said).toContain("audit-verdicts.json")
 })
 
 test("a check with no verdict yet is run, and the verdict is kept", async () => {

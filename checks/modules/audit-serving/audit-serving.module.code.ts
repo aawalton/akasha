@@ -5,6 +5,7 @@ import {
   cleanly,
   type Verdict,
   verdictKept,
+  verdictsAt,
   verdictsRead,
   verdictsWrite,
 } from "akasha/checks/modules/audit-verdict/audit-verdict.module.code.ts"
@@ -17,6 +18,10 @@ import {
   takesAny,
 } from "akasha/checks/modules/checking/checking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import {
+  heldTo,
+  reasonSaid,
+} from "akasha/checks/modules/refusal-holding/refusal-holding.module.code.ts"
 import { exclusively } from "akasha/files/exclusive/exclusive.module.code.ts"
 import { runGit } from "akasha/git/answering/git-answering.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/services/workstations/service-checkout/service-checkout.module.code.ts"
@@ -37,6 +42,10 @@ const FROM = "audit-running"
 const AUDIT = "audit"
 
 const SHOWN = 5
+
+const BODY_CEILING = 19000
+
+const REASON_CEILING = 240
 
 const SAID = "audit-running:"
 
@@ -186,15 +195,15 @@ export function turnedRed(before: Verdict | undefined, after: Verdict): boolean 
   return before === undefined || cleanly(before)
 }
 
-export function bodyFor(red: readonly Ran[], commit: string): string {
+export function bodyFor(red: readonly Ran[], commit: string, home: string): string {
   const said = red.flatMap((one) => [
     `\`${one.check}\` refused ${counted(one.verdict.refusals.length, "time")}:`,
-    ...one.verdict.refusals.slice(0, SHOWN).map((two) => `  ${two}`),
+    ...one.verdict.refusals.slice(0, SHOWN).map((two) => `  ${reasonSaid(two, REASON_CEILING)}`),
   ])
   return [
     `the audit at ${commit} found ${counted(red.length, "check")} newly refusing.`,
-    ...said,
-    "`akasha audit --check <slug>` says what one of them refuses whole.",
+    ...heldTo(said, BODY_CEILING),
+    `${verdictsAt(home)} holds what each of them refuses, whole.`,
   ].join("\n")
 }
 
@@ -227,7 +236,7 @@ export async function serving(given: Serving): Promise<Told> {
   }
   const red = ran.filter((one) => turned.includes(one.check))
   if (red.length === 0) return { ran, turned, refused: [] }
-  const why = await send(TO, bodyFor(red, over.commit))
+  const why = await send(TO, bodyFor(red, over.commit, given.home))
   return { ran, turned, refused: why === null ? [] : [why] }
 }
 

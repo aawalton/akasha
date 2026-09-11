@@ -82,6 +82,18 @@ export const auditServing = {
     },
     {
       invariantKind: "departure",
+      statement: "A message is held to the words a message page carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal too long for that is shortened to say how much of it went.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A message names the file holding what each check refused, whole.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A telling that lands nowhere ends the round as broken.",
     },
     {
