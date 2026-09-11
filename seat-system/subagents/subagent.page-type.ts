@@ -34,6 +34,7 @@ export const subagent = {
       uncommitted: true,
     },
   ],
+  loadedBy: "module/agent-stated",
   invariants: [
     {
       invariantKind: "departure",

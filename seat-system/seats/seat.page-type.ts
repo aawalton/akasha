@@ -129,6 +129,7 @@ export const seat = {
       default: "txt",
     },
   ],
+  loadedBy: "module/agent-stated",
   invariants: [
     {
       invariantKind: "departure",
