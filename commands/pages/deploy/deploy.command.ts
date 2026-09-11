@@ -12,6 +12,7 @@ export const deploy = {
   changeKind: "change-none",
   timeout: 300,
   parts: [
+    "module/deploy-commit-naming",
     "module/deploy-ios-shipping",
     "module/deploy-kind-reading",
     "module/deploy-web-putting-up",
