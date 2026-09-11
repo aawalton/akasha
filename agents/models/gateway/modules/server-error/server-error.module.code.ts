@@ -1,7 +1,4 @@
-import {
-  ANTHROPIC_ERROR_ENVELOPE_SCHEMA,
-  type AnthropicError,
-} from "akasha/agents/models/gateway/modules/anthropic-error-envelope/anthropic-error-envelope.module.code.ts"
+import { parseAnthropicErrorEnvelope } from "akasha/agents/models/gateway/modules/anthropic-error-envelope/anthropic-error-envelope.module.code.ts"
 
 export const OVERLOADED_ERROR_TYPE = "overloaded_error"
 
@@ -23,17 +20,8 @@ const SERVER_ERROR_REASON: Readonly<Record<number, string>> = {
 
 export type ServerErrorClassification = { matched: false } | { matched: true; reason: string }
 
-function parseEnvelope(body: string): AnthropicError | null {
-  try {
-    const parsed = ANTHROPIC_ERROR_ENVELOPE_SCHEMA.safeParse(JSON.parse(body))
-    return parsed.success ? parsed.data.error : null
-  } catch {
-    return null
-  }
-}
-
 function parseEnvelopeMessage(body: string): string | null {
-  return parseEnvelope(body)?.message ?? null
+  return parseAnthropicErrorEnvelope(body)?.message ?? null
 }
 
 export function classifyServerError(status: number, body: string): ServerErrorClassification {
@@ -45,7 +33,7 @@ export function classifyServerError(status: number, body: string): ServerErrorCl
     return { matched: true, reason: parseEnvelopeMessage(body) ?? serverErrorReason }
   }
   if (status !== RATE_LIMIT_STATUS) return { matched: false }
-  const envelope = parseEnvelope(body)
+  const envelope = parseAnthropicErrorEnvelope(body)
   if (envelope == null) return { matched: false }
   if (envelope.type !== OVERLOADED_ERROR_TYPE) return { matched: false }
   return { matched: true, reason: envelope.message ?? OVERLOADED_ERROR_TYPE }
