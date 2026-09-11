@@ -65,9 +65,13 @@ function givenAt(root: string): Given {
   return { root, calledAs: "akasha change repeat", from: root, writer: null, agentId: null }
 }
 
-function landing(commits: readonly string[]): Running {
+const DROPS = ["change", "drop"]
+
+function landing(commits: readonly string[], reached: string[][] = []): Running {
   let at = 0
-  return () => {
+  return (argv, given) => {
+    reached.push([...argv, given])
+    if (argv[1] === "drop") return { code: 0, out: ["these edits are gone"], err: [] }
     const one = commits[at]
     at += 1
     if (one === undefined) return { code: 1, out: [], err: [NOTHING_LEFT] }
@@ -120,17 +124,38 @@ test("the file a child runs is read from the index", () => {
 })
 
 test("every batch is handed the arguments the call was piped, unchanged", () => {
-  const handed: string[] = []
-  const running: Running = (_slug, given) => {
-    handed.push(given)
-    if (handed.length > 1) return { code: 1, out: [], err: [NOTHING_LEFT] }
-    return { code: 0, out: ["committed as aaa"], err: [] }
-  }
+  const reached: string[][] = []
 
-  const said = changeRepeat(["wide"], givenAt(indexedRepo(HELD)), piping(ASKED), () => running)
+  const said = changeRepeat(["wide"], givenAt(indexedRepo(HELD)), piping(ASKED), () =>
+    landing(["aaa"], reached)
+  )
 
   expect(said.code).toBe(0)
-  expect(handed).toEqual([ASKED, ASKED])
+  expect(reached[0]).toEqual(["change", "apply", "wide", ASKED])
+  expect(reached[1]).toEqual(["change", "apply", "wide", ASKED])
+})
+
+test("the edits a refused batch left are dropped", () => {
+  const reached: string[][] = []
+
+  repeating(landing(["aaa"], reached), "wide", ASKED)
+
+  expect(reached.at(-1)).toEqual([...DROPS, "all: true\n"])
+})
+
+test("a drop that refused is said with what ended the run", () => {
+  const running: Running = (argv) =>
+    argv[1] === "drop"
+      ? { code: 1, out: [], err: ["the lock is held"] }
+      : { code: 1, out: [], err: [NOTHING_LEFT] }
+
+  const said = repeating(running, "wide", ASKED)
+
+  expect(said.refusals).toEqual([
+    NOTHING_LEFT,
+    "the edits that batch left were not dropped, so no later run may land:",
+    "the lock is held",
+  ])
 })
 
 test("a batch that landed a commit is followed by another batch", () => {

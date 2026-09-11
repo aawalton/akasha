@@ -1,9 +1,11 @@
 import { join } from "node:path"
+import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { atMostIn } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
 import { readingIn } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { type Input, inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
@@ -24,6 +26,16 @@ const AT_MOST = "at-most"
 const TAKES_AT_MOST = "takesAtMost"
 
 const APPLIES = ["change", "apply"]
+
+const DROPS = ["change", "drop"]
+
+const DROPS_ALL = "all: true\n"
+
+const DROP_FAILED = "the edits that batch left were not dropped, so no later run may land:"
+
+const KEPT_ALREADY =
+  "edits are kept beside this agent's page already, and a repeat lands what is kept as its own —" +
+  " land them or drop them first"
 
 const COMMITTED = "committed as "
 
@@ -48,7 +60,7 @@ export type Batch = {
   readonly err: readonly string[]
 }
 
-export type Running = (slug: string, given: string) => Batch
+export type Running = (argv: readonly string[], given: string) => Batch
 
 export type Making = (root: string, at: string) => Running
 
@@ -71,8 +83,8 @@ export function lined(said: string | null): readonly string[] {
 }
 
 export function runningIn(root: string, at: string): Running {
-  return (slug, given) => {
-    const done = ran([process.execPath, join(root, at), ...APPLIES, slug], {
+  return (argv, given) => {
+    const done = ran([process.execPath, join(root, at), ...argv], {
       cwd: root,
       env: { ...process.env, AKASHA_ROOT: root },
       stdin: new TextEncoder().encode(given),
@@ -91,13 +103,18 @@ export function saidBy(batch: Batch): readonly string[] {
   return batch.out.length > 0 ? batch.out : [NOTHING_SAID]
 }
 
+export function droppedBy(running: Running): readonly string[] {
+  const done = running(DROPS, DROPS_ALL)
+  return done.code === 0 ? [] : [DROP_FAILED, ...saidBy(done)]
+}
+
 export function repeating(running: Running, slug: string, given: string): Answer {
   const landed: string[] = []
   for (;;) {
-    const batch = running(slug, given)
+    const batch = running([...APPLIES, slug], given)
     const commit = batch.code === 0 ? committedIn(batch.out) : null
     if (commit === null) {
-      const why = saidBy(batch)
+      const why = [...saidBy(batch), ...droppedBy(running)]
       if (landed.length === 0) return { report: [], refusals: why, code: batch.code || 1 }
       const closing = `${String(landed.length)} ${AND_THEN}`
       return { report: [...landed, closing, ...why], refusals: [], code: 0 }
@@ -143,5 +160,7 @@ export function changeRepeat(
   if (!takes) return mistaking([noBatching(slug)])
   const at = cliAt(given.root)
   if (at === null) return mistaking([NO_CLI])
+  const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
+  if (page !== null && editsWaiting(given.root, page)) return mistaking([KEPT_ALREADY])
   return repeating(making(given.root, at), slug, piped.text)
 }

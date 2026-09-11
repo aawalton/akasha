@@ -15,6 +15,8 @@ export const changeRepeat = {
     "a change whose page states no `takes-at-most` is refused, because one run of it acts on every page.",
     "each batch is a run of `akasha change apply` in a child of its own, so no batch holds what the batch before it held.",
     "a batch is judged by the checks as any apply is, and a batch the checks refuse ends the run.",
+    "the edits a refused batch leaves kept are dropped, so a later run begins over a clean tree.",
+    "a call made where edits are kept already is refused, because a repeat lands what is kept as its own.",
     "what each batch cost is appended beside the apply command's page as any apply's is.",
     "the report names the commit each batch landed, and closes with what ended the run.",
     "a repeat that landed no batch at all is refused with what the first batch said.",
@@ -64,6 +66,18 @@ export const changeRepeat = {
     {
       invariantKind: "departure",
       statement: "A batch landing no commit ends the run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The edits a batch landing no commit left kept are dropped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drop that refused is said with what ended the run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call made where edits are kept already is refused before any batch runs.",
     },
     {
       invariantKind: "departure",
