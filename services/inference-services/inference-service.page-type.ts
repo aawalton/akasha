@@ -11,6 +11,7 @@ export const inferenceService = {
   parts: [
     "boolean-property/warm",
     "number-property/internal-port",
+    "relation-property/provision",
     "text-property/inference-host",
     "text-property/lifecycle",
     "text-property/python-version",
@@ -18,6 +19,7 @@ export const inferenceService = {
   ],
   properties: [
     { pageProperty: "text-property/inference-host", required: true, many: false },
+    { pageProperty: "relation-property/provision", required: true, many: false },
     { pageProperty: "text-property/python-version", required: true, many: false },
     { pageProperty: "text-property/workdir", required: true, many: false },
     { pageProperty: "text-property/runs", required: true, many: true, maxCount: 1 },
@@ -30,16 +32,11 @@ export const inferenceService = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The folder an inference service is provisioned from is the folder its page sits in.",
+      statement: "An inference service names the script that builds the environment it runs in.",
     },
     {
       invariantKind: "departure",
-      statement: "An inference service's environment is built from that folder.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Two inference services provisioned the same way sit in one folder.",
+      statement: "The folder handed to the host is read off that script rather than spelled.",
     },
     {
       invariantKind: "departure",

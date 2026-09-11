@@ -1,6 +1,7 @@
 import type { InferenceHost } from "akasha/services/inference-services/properties/inference-host.text-property.types.ts"
 import type { InternalPort } from "akasha/services/inference-services/properties/internal-port.number-property.types.ts"
 import type { Lifecycle } from "akasha/services/inference-services/properties/lifecycle.text-property.types.ts"
+import type { Provision } from "akasha/services/inference-services/properties/provision.relation-property.types.ts"
 import type { PythonVersion } from "akasha/services/inference-services/properties/python-version.text-property.types.ts"
 import type { Warm } from "akasha/services/inference-services/properties/warm.boolean-property.types.ts"
 import type { Workdir } from "akasha/services/inference-services/properties/workdir.text-property.types.ts"
@@ -11,6 +12,7 @@ import type { Runs } from "akasha/services/workstation-services/properties/runs.
 
 export type InferenceService = Service & {
   host: InferenceHost
+  provision: Provision
   pythonVersion: PythonVersion
   workdir: Workdir
   runs: Runs
