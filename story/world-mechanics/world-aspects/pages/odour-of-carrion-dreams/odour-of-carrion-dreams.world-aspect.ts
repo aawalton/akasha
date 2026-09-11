@@ -2,7 +2,6 @@ import type { WorldAspect } from "akasha/story/world-mechanics/world-aspects/wor
 
 export const odourOfCarrionDreams = {
   id: "01a0655a-0687-737c-b9b5-121c2c9cdf92",
-  pageTypeSlug: "world-aspect",
   type: "world-aspect",
   slug: "odour-of-carrion-dreams",
   title: "Odour of Carrion (Dreams)",

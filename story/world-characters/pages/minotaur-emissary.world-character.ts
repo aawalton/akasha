@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const minotaurEmissary = {
   id: "01a06580-2495-7f9e-b299-d35f46bab375",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "minotaur-emissary",
   title: "the Minotaur",

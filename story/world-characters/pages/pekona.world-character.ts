@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const pekona = {
   id: "01a06580-2495-76a0-9240-9c1e564bd530",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "pekona",
   title: "Pekona",

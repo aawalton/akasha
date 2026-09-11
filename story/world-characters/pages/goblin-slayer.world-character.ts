@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const goblinSlayer = {
   id: "01a06580-2494-7311-bead-bbef89c556f9",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "goblin-slayer",
   title: "Ser Solstice",

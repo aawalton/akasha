@@ -2,7 +2,6 @@ import type { WorldAspect } from "akasha/story/world-mechanics/world-aspects/wor
 
 export const bodyOfTheEater = {
   id: "01a0655a-0687-7032-8019-8ce7d55d094b",
-  pageTypeSlug: "world-aspect",
   type: "world-aspect",
   slug: "body-of-the-eater",
   title: "Body of the Eater",

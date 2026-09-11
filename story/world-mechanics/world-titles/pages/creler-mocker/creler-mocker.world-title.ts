@@ -2,7 +2,6 @@ import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world
 
 export const crelerMocker = {
   id: "01a0655a-7b7c-72b2-a8e8-0912d3c8549d",
-  pageTypeSlug: "world-title",
   type: "world-title",
   slug: "creler-mocker",
   title: "Creler Mocker",

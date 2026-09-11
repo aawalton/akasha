@@ -2,7 +2,6 @@ import type { WorldReligion } from "akasha/story/world-mechanics/world-religions
 
 export const theChurchOfGod = {
   id: "01a0655a-0688-74d9-9354-6b46fac56eb5",
-  pageTypeSlug: "world-religion",
   type: "world-religion",
   slug: "the-church-of-god",
   title: "The Church of God",

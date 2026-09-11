@@ -2,7 +2,6 @@ import type { WorldQuest } from "akasha/story/world-mechanics/world-quests/world
 
 export const royalQuest = {
   id: "01a0655a-0688-73dd-b0d8-acefbdff8e3a",
-  pageTypeSlug: "world-quest",
   type: "world-quest",
   slug: "royal-quest",
   title: "Royal Quest",

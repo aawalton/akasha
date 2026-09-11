@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const calidusReinhart = {
   id: "01a06580-2494-7354-a37f-26d42e9b625f",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "calidus-reinhart",
   title: "Calidus",

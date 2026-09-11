@@ -2,7 +2,6 @@ import type { WorldItem } from "akasha/story/world-mechanics/world-items/world-i
 
 export const wandOfTheMrsha = {
   id: "01a0655a-7b80-748a-b385-faf19e7022d6",
-  pageTypeSlug: "world-item",
   type: "world-item",
   slug: "wand-of-the-mrsha",
   title: "Wand of the Mrsha",

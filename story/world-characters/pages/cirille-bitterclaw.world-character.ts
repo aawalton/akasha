@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const cirilleBitterclaw = {
   id: "01a06580-2494-7782-8e50-3e35901ab5c4",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "cirille-bitterclaw",
   title: "Cirille",

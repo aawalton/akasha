@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const nanette = {
   id: "01a06580-2495-7115-8b91-58a7fc039e4b",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "nanette",
   title: "Nanette",

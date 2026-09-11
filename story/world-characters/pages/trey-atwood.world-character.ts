@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const treyAtwood = {
   id: "01a06580-2495-7f83-87b5-ff73ca63153c",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "trey-atwood",
   title: "Trey",

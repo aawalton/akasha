@@ -2,7 +2,6 @@ import type { WorldItem } from "akasha/story/world-mechanics/world-items/world-i
 
 export const vorpalSword = {
   id: "01a0655a-7b80-7686-9bce-b046ad02a233",
-  pageTypeSlug: "world-item",
   type: "world-item",
   slug: "vorpal-sword",
   title: "Vorpal Sword",

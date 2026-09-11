@@ -2,7 +2,6 @@ import type { WorldItem } from "akasha/story/world-mechanics/world-items/world-i
 
 export const wyvernhidePotions = {
   id: "01a0655a-7b80-75b9-8b68-bfcb414bfd71",
-  pageTypeSlug: "world-item",
   type: "world-item",
   slug: "wyvernhide-potions",
   title: "Wyvernhide Potions",

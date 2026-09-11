@@ -2,7 +2,6 @@ import type { WorldCondition } from "akasha/story/world-mechanics/world-conditio
 
 export const theEmptyMind = {
   id: "01a0655a-7b7b-7310-938c-6ecd866de82c",
-  pageTypeSlug: "world-condition",
   type: "world-condition",
   slug: "the-empty-mind",
   title: "The Empty Mind",

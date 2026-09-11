@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const zailGemscale = {
   id: "01a06580-2495-72c4-90d0-82c39c88cce7",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "zail-gemscale",
   title: "Wall Lord Zail Gemscale",

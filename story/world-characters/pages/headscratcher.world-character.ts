@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const headscratcher = {
   id: "01a06580-2494-7b0c-822d-5b4957abf79c",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "headscratcher",
   title: "Headscratcher",

@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const genevaScala = {
   id: "01a06580-2494-7a9c-860b-30b005a50252",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "geneva-scala",
   title: "Geneva Scala",

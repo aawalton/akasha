@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const badarrow = {
   id: "01a06580-2494-7ef7-a18c-8584e4cd9ecb",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "badarrow",
   title: "Badarrow",

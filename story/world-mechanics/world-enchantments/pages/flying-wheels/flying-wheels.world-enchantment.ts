@@ -2,7 +2,6 @@ import type { WorldEnchantment } from "akasha/story/world-mechanics/world-enchan
 
 export const flyingWheels = {
   id: "01a0655a-7b7b-713a-bfd8-41af88203685",
-  pageTypeSlug: "world-enchantment",
   type: "world-enchantment",
   slug: "flying-wheels",
   title: "Flying Wheels",

@@ -2,7 +2,6 @@ import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world
 
 export const heWhoNegotiatesWithGolems = {
   id: "01a0655a-7b7c-7081-b176-d3c5039e4874",
-  pageTypeSlug: "world-title",
   type: "world-title",
   slug: "he-who-negotiates-with-golems",
   title: "He Who Negotiates With Golems",

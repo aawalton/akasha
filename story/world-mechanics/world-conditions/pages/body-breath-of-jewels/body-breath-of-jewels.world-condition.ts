@@ -2,7 +2,6 @@ import type { WorldCondition } from "akasha/story/world-mechanics/world-conditio
 
 export const bodyBreathOfJewels = {
   id: "01a0655a-7b7a-7ae9-b3dc-fa92670fb9d0",
-  pageTypeSlug: "world-condition",
   type: "world-condition",
   slug: "body-breath-of-jewels",
   title: "Body – Breath of Jewels",

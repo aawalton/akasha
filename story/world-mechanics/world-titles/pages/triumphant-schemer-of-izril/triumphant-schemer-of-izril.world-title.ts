@@ -2,7 +2,6 @@ import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world
 
 export const triumphantSchemerOfIzril = {
   id: "01a0655a-7b7f-7ac2-afd2-4c664a93bc9d",
-  pageTypeSlug: "world-title",
   type: "world-title",
   slug: "triumphant-schemer-of-izril",
   title: "Triumphant Schemer of Izril",

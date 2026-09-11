@@ -2,7 +2,6 @@ import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world
 
 export const escapedTheFervoredStrataveins = {
   id: "01a0655a-7b7c-7f99-8311-1cb487079f75",
-  pageTypeSlug: "world-title",
   type: "world-title",
   slug: "escaped-the-fervored-strataveins",
   title: "Escaped the Fervored Strataveins",

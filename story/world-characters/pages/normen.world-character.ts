@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const normen = {
   id: "01a06580-2495-7d3f-8d6b-03c39fe67e48",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "normen",
   title: "Normen",

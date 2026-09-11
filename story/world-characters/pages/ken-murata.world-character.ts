@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const kenMurata = {
   id: "01a06580-2494-7dea-99fb-6d1933b7aaa7",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "ken-murata",
   title: "Ken",

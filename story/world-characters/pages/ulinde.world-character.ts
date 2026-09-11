@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const ulinde = {
   id: "01a06580-2495-76ca-b2e3-f799751ff084",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "ulinde",
   title: "Ulinde",

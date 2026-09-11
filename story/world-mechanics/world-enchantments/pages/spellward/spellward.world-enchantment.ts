@@ -2,7 +2,6 @@ import type { WorldEnchantment } from "akasha/story/world-mechanics/world-enchan
 
 export const spellward = {
   id: "01a0655a-7b7b-711a-ba84-a9d749120c21",
-  pageTypeSlug: "world-enchantment",
   type: "world-enchantment",
   slug: "spellward",
   title: "Spellward",

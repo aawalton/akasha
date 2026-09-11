@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const ksmvr = {
   id: "01a06580-2494-7d42-8eb4-3482b0b04728",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "ksmvr",
   title: "Ksmvr",

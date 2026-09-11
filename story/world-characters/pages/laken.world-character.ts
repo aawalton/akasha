@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const laken = {
   id: "01a06580-2494-7c73-9a5c-51fec618b692",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "laken",
   title: "Laken",

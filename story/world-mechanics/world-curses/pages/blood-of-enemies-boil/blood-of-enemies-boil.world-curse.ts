@@ -2,7 +2,6 @@ import type { WorldCurse } from "akasha/story/world-mechanics/world-curses/world
 
 export const bloodOfEnemiesBoil = {
   id: "01a0655a-0687-72d9-aa10-461adb309f61",
-  pageTypeSlug: "world-curse",
   type: "world-curse",
   slug: "blood-of-enemies-boil",
   title: "Blood of Enemies, Boil",

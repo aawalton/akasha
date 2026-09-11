@@ -2,7 +2,6 @@ import type { WorldCondition } from "akasha/story/world-mechanics/world-conditio
 
 export const conditionMiracle = {
   id: "01a0655a-7b7a-7438-8fda-9f51abcccde1",
-  pageTypeSlug: "world-condition",
   type: "world-condition",
   slug: "condition-miracle",
   title: "Condition: Miracle.",

@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const garry = {
   id: "01a06580-2494-7e3f-986c-3f39b2b99338",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "garry",
   title: "Garry",

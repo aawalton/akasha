@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const eldavin = {
   id: "01a06580-2494-7ddb-abe9-0b88773932df",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "eldavin",
   title: "Eldavin",

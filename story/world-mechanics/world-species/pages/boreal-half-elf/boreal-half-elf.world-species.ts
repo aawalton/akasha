@@ -2,7 +2,6 @@ import type { WorldSpecies } from "akasha/story/world-mechanics/world-species/wo
 
 export const borealHalfElf = {
   id: "01a0655a-0687-7dc9-86bf-5cefbf5b7c1d",
-  pageTypeSlug: "world-species",
   type: "world-species",
   slug: "boreal-half-elf",
   title: "Boreal Half-Elf",

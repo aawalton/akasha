@@ -2,7 +2,6 @@ import type { WorldMiracle } from "akasha/story/world-mechanics/world-miracles/w
 
 export const purifyWounds = {
   id: "01a0655a-7b7c-7c0e-87eb-525dea46cbe5",
-  pageTypeSlug: "world-miracle",
   type: "world-miracle",
   slug: "purify-wounds",
   title: "Purify Wounds",

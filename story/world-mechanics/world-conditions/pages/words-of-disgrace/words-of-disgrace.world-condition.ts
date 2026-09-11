@@ -2,7 +2,6 @@ import type { WorldCondition } from "akasha/story/world-mechanics/world-conditio
 
 export const wordsOfDisgrace = {
   id: "01a0655a-7b7b-77c9-af25-098b54cc8f33",
-  pageTypeSlug: "world-condition",
   type: "world-condition",
   slug: "words-of-disgrace",
   title: "Words of Disgrace",

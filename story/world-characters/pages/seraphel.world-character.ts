@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const seraphel = {
   id: "01a06580-2495-7b69-9ddc-edac330b6afc",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "seraphel",
   title: "Seraphel",

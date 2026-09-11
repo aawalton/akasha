@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const nollesc = {
   id: "01a06580-2495-7e91-b1f3-1597b175ac2f",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "nollesc",
   title: "Nollesc",

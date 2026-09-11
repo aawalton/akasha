@@ -2,7 +2,6 @@ import type { WorldLegacy } from "akasha/story/world-mechanics/world-legacies/wo
 
 export const pinpointArrows = {
   id: "01a0655a-0687-7b91-8ff7-5edf03e82098",
-  pageTypeSlug: "world-legacy",
   type: "world-legacy",
   slug: "pinpoint-arrows",
   title: "Pinpoint Arrows",

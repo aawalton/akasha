@@ -2,7 +2,6 @@ import type { WorldCondition } from "akasha/story/world-mechanics/world-conditio
 
 export const rulebreakerSThoughts = {
   id: "01a0655a-7b7b-7575-b552-afc2e174fa19",
-  pageTypeSlug: "world-condition",
   type: "world-condition",
   slug: "rulebreaker-s-thoughts",
   title: "Rulebreaker’s Thoughts",

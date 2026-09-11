@@ -2,7 +2,6 @@ import type { WorldReligion } from "akasha/story/world-mechanics/world-religions
 
 export const thePaintedFolk = {
   id: "01a0655a-0688-72a6-abbf-c328ed10706b",
-  pageTypeSlug: "world-religion",
   type: "world-religion",
   slug: "the-painted-folk",
   title: "The Painted Folk",

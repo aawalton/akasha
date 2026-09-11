@@ -2,7 +2,6 @@ import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world
 
 export const title14thHeraldOfTheBreathlessAgeSkeletonKingToren = {
   id: "01a0655a-7b7c-7acf-aaad-259b675541f3",
-  pageTypeSlug: "world-title",
   type: "world-title",
   slug: "title-14th-herald-of-the-breathless-age-skeleton-king-toren",
   title: "14th Herald of the Breathless Age, Skeleton King Toren",

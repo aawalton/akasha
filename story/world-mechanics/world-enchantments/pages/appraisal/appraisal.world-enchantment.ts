@@ -2,7 +2,6 @@ import type { WorldEnchantment } from "akasha/story/world-mechanics/world-enchan
 
 export const appraisal = {
   id: "01a0655a-7b7b-779c-9310-0b0bbadde5e9",
-  pageTypeSlug: "world-enchantment",
   type: "world-enchantment",
   slug: "appraisal",
   title: "Appraisal",

@@ -2,7 +2,6 @@ import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world
 
 export const duelistOfLesegoth = {
   id: "01a0655a-7b7c-7880-9560-bb33726c1cd8",
-  pageTypeSlug: "world-title",
   type: "world-title",
   slug: "duelist-of-lesegoth",
   title: "Duelist of Lesegoth",

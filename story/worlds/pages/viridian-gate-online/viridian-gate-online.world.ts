@@ -2,7 +2,6 @@ import type { World } from "akasha/story/worlds/world.page-type.types.ts"
 
 export const viridianGateOnline = {
   id: "01a063d8-61f2-7f55-8d31-156a5b6efe83",
-  pageTypeSlug: "world",
   type: "world",
   slug: "viridian-gate-online",
   title: "Viridian Gate Online",

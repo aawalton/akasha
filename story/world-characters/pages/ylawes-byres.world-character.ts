@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const ylawesByres = {
   id: "01a06580-2495-7300-b2f5-f272e911ffd9",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "ylawes-byres",
   title: "Ylawes",

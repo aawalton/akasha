@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const ceriaSpringwalker = {
   id: "01a06580-2494-7ec7-be55-4ecdfa65a541",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "ceria-springwalker",
   title: "Ceria",

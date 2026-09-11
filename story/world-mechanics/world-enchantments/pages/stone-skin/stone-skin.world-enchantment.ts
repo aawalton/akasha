@@ -2,7 +2,6 @@ import type { WorldEnchantment } from "akasha/story/world-mechanics/world-enchan
 
 export const stoneSkin = {
   id: "01a0655a-7b7b-7220-9553-a62810300ecb",
-  pageTypeSlug: "world-enchantment",
   type: "world-enchantment",
   slug: "stone-skin",
   title: "Stone Skin",

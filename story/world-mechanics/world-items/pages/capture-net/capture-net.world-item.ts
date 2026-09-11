@@ -2,7 +2,6 @@ import type { WorldItem } from "akasha/story/world-mechanics/world-items/world-i
 
 export const captureNet = {
   id: "01a0655a-7b7f-761a-8aa2-0e5fbfbf9171",
-  pageTypeSlug: "world-item",
   type: "world-item",
   slug: "capture-net",
   title: "Capture Net",

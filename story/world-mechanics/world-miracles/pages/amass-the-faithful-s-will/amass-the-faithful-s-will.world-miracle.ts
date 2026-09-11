@@ -2,7 +2,6 @@ import type { WorldMiracle } from "akasha/story/world-mechanics/world-miracles/w
 
 export const amassTheFaithfulSWill = {
   id: "01a0655a-7b7b-7bce-9dc4-cec597c138ce",
-  pageTypeSlug: "world-miracle",
   type: "world-miracle",
   slug: "amass-the-faithful-s-will",
   title: "Amass the Faithful’s Will",

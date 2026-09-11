@@ -2,7 +2,6 @@ import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world
 
 export const protectorOfLiscor = {
   id: "01a0655a-7b7e-7713-9be0-765e4b319a27",
-  pageTypeSlug: "world-title",
   type: "world-title",
   slug: "protector-of-liscor",
   title: "Protector of Liscor",

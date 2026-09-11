@@ -2,7 +2,6 @@ import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world
 
 export const aGlimpseOfMagicSTruth = {
   id: "01a0655a-7b7c-7c06-bce0-3841636a661f",
-  pageTypeSlug: "world-title",
   type: "world-title",
   slug: "a-glimpse-of-magic-s-truth",
   title: "A Glimpse of Magic’s Truth",

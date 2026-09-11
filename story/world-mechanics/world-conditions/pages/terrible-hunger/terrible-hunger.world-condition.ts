@@ -2,7 +2,6 @@ import type { WorldCondition } from "akasha/story/world-mechanics/world-conditio
 
 export const terribleHunger = {
   id: "01a0655a-7b7b-72c1-b627-3c608ccc6bec",
-  pageTypeSlug: "world-condition",
   type: "world-condition",
   slug: "terrible-hunger",
   title: "Terrible Hunger",

@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const horrorGirl = {
   id: "01a06580-2494-7450-85c7-caa155995ead",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "horror-girl",
   title: "survivor of Esthelm",

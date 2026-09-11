@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const venaz = {
   id: "01a06580-2495-7cb0-b614-b7d1c864788f",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "venaz",
   title: "Venaz",

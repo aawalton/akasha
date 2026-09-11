@@ -2,7 +2,6 @@ import type { WorldCondition } from "akasha/story/world-mechanics/world-conditio
 
 export const lesserInsanity = {
   id: "01a0655a-7b7b-7bb9-bdd9-395224c71824",
-  pageTypeSlug: "world-condition",
   type: "world-condition",
   slug: "lesser-insanity",
   title: "Lesser Insanity",

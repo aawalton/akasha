@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const adetrSteelfur = {
   id: "01a06580-2493-7357-886c-a15d44dc3bb4",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "adetr-steelfur",
   title: "Adetr",

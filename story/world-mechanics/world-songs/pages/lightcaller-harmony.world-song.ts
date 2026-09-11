@@ -2,7 +2,6 @@ import type { WorldSong } from "akasha/story/world-mechanics/world-songs/world-s
 
 export const lightcallerHarmony = {
   id: "01a0655a-0688-7eaa-9950-ef1777cafdcd",
-  pageTypeSlug: "world-song",
   type: "world-song",
   slug: "lightcaller-harmony",
   title: "Lightcaller Harmony",

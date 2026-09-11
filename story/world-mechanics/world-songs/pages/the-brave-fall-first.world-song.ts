@@ -2,7 +2,6 @@ import type { WorldSong } from "akasha/story/world-mechanics/world-songs/world-s
 
 export const theBraveFallFirst = {
   id: "01a0655a-0688-7a7c-bab7-ae474cd230aa",
-  pageTypeSlug: "world-song",
   type: "world-song",
   slug: "the-brave-fall-first",
   title: "The Brave Fall First",

@@ -2,7 +2,6 @@ import type { WorldAspect } from "akasha/story/world-mechanics/world-aspects/wor
 
 export const rendingClaws = {
   id: "01a0655a-0687-7d82-a9a5-1357deb3801c",
-  pageTypeSlug: "world-aspect",
   type: "world-aspect",
   slug: "rending-claws",
   title: "Rending Claws",

@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const infinitypear = {
   id: "01a06580-2494-7d5e-aadc-57272bd10149",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "infinitypear",
   title: "Infinitypear",

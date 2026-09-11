@@ -2,7 +2,6 @@ import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world
 
 export const gamblerOfTreasuries = {
   id: "01a0655a-7b7c-78ef-a298-1970ce33488a",
-  pageTypeSlug: "world-title",
   type: "world-title",
   slug: "gambler-of-treasuries",
   title: "Gambler of Treasuries",

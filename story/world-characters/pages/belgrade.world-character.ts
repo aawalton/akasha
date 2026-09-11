@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const belgrade = {
   id: "01a06580-2494-7cdd-accf-63dafbc69ed4",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "belgrade",
   title: "Belgrade",

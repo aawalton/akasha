@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const sebornSailwinds = {
   id: "01a06580-2495-7d21-b595-52fa5638ccf5",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "seborn-sailwinds",
   title: "Seborn",

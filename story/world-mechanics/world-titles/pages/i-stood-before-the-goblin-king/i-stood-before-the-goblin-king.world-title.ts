@@ -2,7 +2,6 @@ import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world
 
 export const iStoodBeforeTheGoblinKing = {
   id: "01a0655a-7b7c-7120-a05e-0ae525764557",
-  pageTypeSlug: "world-title",
   type: "world-title",
   slug: "i-stood-before-the-goblin-king",
   title: "I Stood Before the Goblin King",

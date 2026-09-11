@@ -2,7 +2,6 @@ import type { WorldItem } from "akasha/story/world-mechanics/world-items/world-i
 
 export const sleepMist = {
   id: "01a0655a-7b7f-7556-bcbd-e5640af6f3cb",
-  pageTypeSlug: "world-item",
   type: "world-item",
   slug: "sleep-mist",
   title: "Sleep Mist",

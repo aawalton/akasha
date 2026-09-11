@@ -2,7 +2,6 @@ import type { WorldItem } from "akasha/story/world-mechanics/world-items/world-i
 
 export const scrollsOfResurrection = {
   id: "01a0655a-7b7f-738d-bcf9-3234821477e0",
-  pageTypeSlug: "world-item",
   type: "world-item",
   slug: "scrolls-of-resurrection",
   title: "Scrolls of Resurrection",

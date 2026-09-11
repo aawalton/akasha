@@ -2,7 +2,6 @@ import type { WorldRecipe } from "akasha/story/world-mechanics/world-recipes/wor
 
 export const krakenBiscuit = {
   id: "01a0655a-7b80-7128-8388-54e9439d0ac1",
-  pageTypeSlug: "world-recipe",
   type: "world-recipe",
   slug: "kraken-biscuit",
   title: "Kraken Biscuit",

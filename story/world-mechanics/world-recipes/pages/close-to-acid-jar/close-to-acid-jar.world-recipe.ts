@@ -2,7 +2,6 @@ import type { WorldRecipe } from "akasha/story/world-mechanics/world-recipes/wor
 
 export const closeToAcidJar = {
   id: "01a0655a-7b80-76b7-8a54-f55724e11b33",
-  pageTypeSlug: "world-recipe",
   type: "world-recipe",
   slug: "close-to-acid-jar",
   title: "Close to Acid Jar",

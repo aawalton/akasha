@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const vandum = {
   id: "01a06580-2495-712c-a983-628df7c1d48a",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "vandum",
   title: "Vandum",

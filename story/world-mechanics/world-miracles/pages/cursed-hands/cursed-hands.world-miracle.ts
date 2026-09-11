@@ -2,7 +2,6 @@ import type { WorldMiracle } from "akasha/story/world-mechanics/world-miracles/w
 
 export const cursedHands = {
   id: "01a0655a-7b7c-7d86-ae25-5eedaa38ee92",
-  pageTypeSlug: "world-miracle",
   type: "world-miracle",
   slug: "cursed-hands",
   title: "Cursed Hands",

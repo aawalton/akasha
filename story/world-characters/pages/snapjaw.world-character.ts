@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const snapjaw = {
   id: "01a06580-2495-72da-aa73-4c4e3caf741d",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "snapjaw",
   title: "Snapjaw",

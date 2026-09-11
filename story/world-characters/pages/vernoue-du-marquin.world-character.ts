@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const vernoueDuMarquin = {
   id: "01a06580-2495-7893-8762-183f54660b22",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "vernoue-du-marquin",
   title: "Princess Vernoue du Marquin",

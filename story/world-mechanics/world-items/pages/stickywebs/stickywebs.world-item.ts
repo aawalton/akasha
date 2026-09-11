@@ -2,7 +2,6 @@ import type { WorldItem } from "akasha/story/world-mechanics/world-items/world-i
 
 export const stickywebs = {
   id: "01a0655a-7b80-7adc-98ce-3d0a6daf2050",
-  pageTypeSlug: "world-item",
   type: "world-item",
   slug: "stickywebs",
   title: "Stickywebs",

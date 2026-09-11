@@ -2,7 +2,6 @@ import type { WorldCondition } from "akasha/story/world-mechanics/world-conditio
 
 export const restored = {
   id: "01a0655a-7b7b-70f5-aa8b-04dbd7e90844",
-  pageTypeSlug: "world-condition",
   type: "world-condition",
   slug: "restored",
   title: "Restored",

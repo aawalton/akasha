@@ -2,7 +2,6 @@ import type { WorldCondition } from "akasha/story/world-mechanics/world-conditio
 
 export const championOfTheBlightedLands = {
   id: "01a0655a-7b7a-7035-9028-1ddbedbdbdcc",
-  pageTypeSlug: "world-condition",
   type: "world-condition",
   slug: "champion-of-the-blighted-lands",
   title: "Champion of the Blighted Lands",

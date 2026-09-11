@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const pawn = {
   id: "01a06580-2495-7b0d-aecc-ce0dfdbe84b9",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "pawn",
   title: "Pawn",

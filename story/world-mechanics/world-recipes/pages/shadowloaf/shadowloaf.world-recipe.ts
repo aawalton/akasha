@@ -2,7 +2,6 @@ import type { WorldRecipe } from "akasha/story/world-mechanics/world-recipes/wor
 
 export const shadowloaf = {
   id: "01a0655a-7b80-7d74-a783-5fb2bc809ccd",
-  pageTypeSlug: "world-recipe",
   type: "world-recipe",
   slug: "shadowloaf",
   title: "Shadowloaf",

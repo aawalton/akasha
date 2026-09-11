@@ -2,7 +2,6 @@ import type { WorldCondition } from "akasha/story/world-mechanics/world-conditio
 
 export const bodyOldbloodWings = {
   id: "01a0655a-7b7a-75dd-8d49-b53e2eb1f320",
-  pageTypeSlug: "world-condition",
   type: "world-condition",
   slug: "body-oldblood-wings",
   title: "Body – Oldblood Wings",

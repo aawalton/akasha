@@ -2,7 +2,6 @@ import type { WorldItem } from "akasha/story/world-mechanics/world-items/world-i
 
 export const stoneskinPotion = {
   id: "01a0655a-7b80-790d-b11d-6c4ea9ea98ee",
-  pageTypeSlug: "world-item",
   type: "world-item",
   slug: "stoneskin-potion",
   title: "Stoneskin Potion",

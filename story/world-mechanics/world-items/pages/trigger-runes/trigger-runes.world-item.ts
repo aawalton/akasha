@@ -2,7 +2,6 @@ import type { WorldItem } from "akasha/story/world-mechanics/world-items/world-i
 
 export const triggerRunes = {
   id: "01a0655a-7b80-7740-94b6-69e0507fe326",
-  pageTypeSlug: "world-item",
   type: "world-item",
   slug: "trigger-runes",
   title: "Trigger Runes",

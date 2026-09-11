@@ -2,7 +2,6 @@ import type { WorldQuest } from "akasha/story/world-mechanics/world-quests/world
 
 export const basicQuest = {
   id: "01a0655a-0687-7a67-b94e-acb9249a12aa",
-  pageTypeSlug: "world-quest",
   type: "world-quest",
   slug: "basic-quest",
   title: "Basic Quest",

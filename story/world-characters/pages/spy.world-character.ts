@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const spy = {
   id: "01a06580-2495-7263-a2be-230b894bffd3",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "spy",
   title: "unknown spy",

@@ -2,7 +2,6 @@ import type { WorldCharacter } from "akasha/story/world-characters/world-charact
 
 export const maviolaEl = {
   id: "01a06580-2494-7378-9fdc-f63e265b9de0",
-  pageTypeSlug: "world-character",
   type: "world-character",
   slug: "maviola-el",
   title: "Lady Maviola El",
