@@ -1,11 +1,10 @@
 "use client"
 
 import type { AppNavItem } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
+import { PALETTE_ONLY } from "akasha/design/interfaces/primitives/keyboard-registry/keyboard-registry.module.code.ts"
 import { useKeyboardBinding } from "akasha/design/interfaces/primitives/use-keyboard-registry/use-keyboard-registry.module.code.ts"
 import { primaryNavItems } from "akasha/products/archive-of-worlds/web/archive-of-worlds-nav-items/archive-of-worlds-nav-items.module.code.ts"
 import { useNavigate } from "react-router"
-
-const PALETTE_ONLY = ""
 
 export interface NavCommand {
   id: string
