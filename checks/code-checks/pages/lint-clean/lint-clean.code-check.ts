@@ -109,7 +109,7 @@ export const lintClean = {
       statement: "A stylesheet is judged as readily as a body of TypeScript.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "Only the files the linter is configured to read are judged.",
     },
   ],
