@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { lowerUuid } from "./lower-uuid.name-format.code.ts"
+import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 
 const HELD = "01a04eba-7459-7836-ab9f-30dd5c70d710"
 
