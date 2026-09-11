@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyPrestigeRateHasACeiling = {
   id: "01a077ee-fbc4-7a6d-a719-90589595c2c3",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-prestige-rate-has-a-ceiling",
   topic: "how-often-i-start-over",

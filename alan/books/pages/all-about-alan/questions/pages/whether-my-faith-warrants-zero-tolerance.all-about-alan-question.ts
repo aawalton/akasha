@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyFaithWarrantsZeroTolerance = {
   id: "01a077e9-2b3c-7e01-972f-7a94d119d75b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-faith-warrants-zero-tolerance",
   topic: "sex",

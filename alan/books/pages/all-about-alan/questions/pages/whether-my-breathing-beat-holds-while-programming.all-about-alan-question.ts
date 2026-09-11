@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyBreathingBeatHoldsWhileProgramming = {
   id: "01a077ea-34fa-752b-8daa-576f823ec937",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-breathing-beat-holds-while-programming",
   topic: "how-i-actually-breathe",

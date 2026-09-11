@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyProvisionalEquilibriumHolds = {
   id: "01a077ec-8adb-7ab6-9ea3-b78bd5c5efbe",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-provisional-equilibrium-holds",
   topic: "whether-i-stay",

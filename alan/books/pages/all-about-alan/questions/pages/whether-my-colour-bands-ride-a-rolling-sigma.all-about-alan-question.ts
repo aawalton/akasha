@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyColourBandsRideARollingSigma = {
   id: "01a077e2-b832-70fa-8d1d-163fa8f0247c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-colour-bands-ride-a-rolling-sigma",
   topic: "the-colours-i-read-myself-in",

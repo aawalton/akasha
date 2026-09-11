@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMySmallerStimsNeedSeparating = {
   id: "01a077e4-49a8-76fa-9b78-090c6ef87c07",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-smaller-stims-need-separating",
   topic: "the-repeating-i-do-to-settle",

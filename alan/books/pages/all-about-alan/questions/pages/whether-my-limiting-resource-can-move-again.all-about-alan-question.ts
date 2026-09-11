@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyLimitingResourceCanMoveAgain = {
   id: "01a077ec-8fbd-7747-98e8-f142c68fafdd",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-limiting-resource-can-move-again",
   topic: "what-limits-me",

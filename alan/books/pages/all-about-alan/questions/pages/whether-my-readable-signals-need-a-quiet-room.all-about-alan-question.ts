@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyReadableSignalsNeedAQuietRoom = {
   id: "01a077ed-fd01-7602-a4b9-1753b7d15a84",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-readable-signals-need-a-quiet-room",
   topic: "not-wanting-to-is-the-gauge",

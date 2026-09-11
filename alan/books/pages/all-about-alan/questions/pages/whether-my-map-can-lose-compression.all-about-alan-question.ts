@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyMapCanLoseCompression = {
   id: "01a077e9-9e09-7085-bcd5-bc3bf62c5c7a",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-map-can-lose-compression",
   topic: "what-i-think-truth-is",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMoreInstancesOfTheShapeTurnUp = {
   id: "01a077e8-f98e-7bff-8708-ffd217142d20",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-more-instances-of-the-shape-turn-up",
   topic: "where-i-stand-like-a-woman-does",

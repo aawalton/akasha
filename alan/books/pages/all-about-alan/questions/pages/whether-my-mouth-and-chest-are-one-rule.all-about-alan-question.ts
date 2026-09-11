@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyMouthAndChestAreOneRule = {
   id: "01a077e7-9807-71cc-b310-905e3f4c5931",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-mouth-and-chest-are-one-rule",
   topic: "what-interrupts-my-breathing",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyWellIsDrainedOrMyMapIsFlat = {
   id: "01a077ed-b13b-7a64-85c6-c55e5c3b0af7",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-well-is-drained-or-my-map-is-flat",
   topic: "how-much-of-me-is-machine",

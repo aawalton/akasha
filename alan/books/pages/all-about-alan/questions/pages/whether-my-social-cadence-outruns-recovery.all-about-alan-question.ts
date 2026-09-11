@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMySocialCadenceOutrunsRecovery = {
   id: "01a07813-be06-7800-9cc1-27ffdbcb47c7",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-social-cadence-outruns-recovery",
   topic: "sleep",

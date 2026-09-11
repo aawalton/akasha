@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyFloorIsAKnotOrACentre = {
   id: "01a077e8-03cf-76a2-80ea-4f56ff1cf073",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-floor-is-a-knot-or-a-centre",
   topic: "what-is-at-my-floor",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyHarnessPreEmptsRumination = {
   id: "01a077e6-106f-7e6b-9366-694e06d5f6bf",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-harness-pre-empts-rumination",
   topic: "rumination",

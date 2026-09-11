@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyDeclineThresholdsAreMine = {
   id: "01a077ec-fe39-7afe-939d-a3dda316ac46",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-decline-thresholds-are-mine",
   topic: "eating-what-she-brings-me",

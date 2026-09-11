@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyConnectionBaselineIsConstant = {
   id: "01a077e9-191f-7062-b413-351619aa03f6",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-connection-baseline-is-constant",
   topic: "how-far-behind-i-am-on-people",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyThreeBreakdownSignalsFireTogether = {
   id: "01a077ed-9bf8-7732-933d-344fcf5c75e3",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-three-breakdown-signals-fire-together",
   topic: "how-i-fall-asleep",

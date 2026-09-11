@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyHighestSelfIsASettingOrAKind = {
   id: "01a077f1-8984-74f0-8ee2-5c6fdcd73a19",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-highest-self-is-a-setting-or-a-kind",
   topic: "the-ceiling-i-am-climbing-back-to",

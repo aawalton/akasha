@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyResourceStatePicksTheMode = {
   id: "01a077e5-e07e-7a8c-9ac1-3a1f42560b5b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-resource-state-picks-the-mode",
   topic: "how-a-skill-gets-into-me",

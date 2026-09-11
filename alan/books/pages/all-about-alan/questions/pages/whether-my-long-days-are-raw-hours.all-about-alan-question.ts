@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyLongDaysAreRawHours = {
   id: "01a077e4-51f4-7237-822d-7eee4f807842",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-long-days-are-raw-hours",
   topic: "what-my-scaffolding-buys-me",

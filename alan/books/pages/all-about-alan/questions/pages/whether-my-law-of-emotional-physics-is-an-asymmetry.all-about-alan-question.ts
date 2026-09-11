@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyLawOfEmotionalPhysicsIsAnAsymmetry = {
   id: "01a077e1-e4ef-72cd-b72b-54f1acf9f347",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-law-of-emotional-physics-is-an-asymmetry",
   topic: "being-alone-at-the-centre",

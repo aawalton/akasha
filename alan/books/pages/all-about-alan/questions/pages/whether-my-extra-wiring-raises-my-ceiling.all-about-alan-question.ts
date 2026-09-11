@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyExtraWiringRaisesMyCeiling = {
   id: "01a077ef-d2c0-74d6-bc52-245a852818c6",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-extra-wiring-raises-my-ceiling",
   topic: "why-too-much-and-too-little-swap-over",

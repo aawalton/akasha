@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyImageWorkCountsAsAMakerChannel = {
   id: "01a077ee-510a-7069-9df1-9a2d2d4e6590",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-image-work-counts-as-a-maker-channel",
   topic: "getting-back-to-making-with-my-hands",

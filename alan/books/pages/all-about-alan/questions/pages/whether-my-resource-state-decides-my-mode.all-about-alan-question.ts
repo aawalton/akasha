@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyResourceStateDecidesMyMode = {
   id: "01a077ea-1c3d-73da-ad91-8cce23b4c7f4",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-resource-state-decides-my-mode",
   topic: "the-modes-i-run-in",

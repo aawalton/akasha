@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMySafetyAnchorsGoNumeric = {
   id: "01a077e5-ed75-7e2e-863f-1e1eb0095f71",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-safety-anchors-go-numeric",
   topic: "how-well-i-can-measure",

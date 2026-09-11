@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyFourPraiseConditionsAreTheWholeGate = {
   id: "01a077e4-8395-7dea-addb-62eaba7495a8",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-four-praise-conditions-are-the-whole-gate",
   topic: "when-someone-says-something-good",

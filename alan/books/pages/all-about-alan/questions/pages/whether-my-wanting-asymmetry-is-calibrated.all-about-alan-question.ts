@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyWantingAsymmetryIsCalibrated = {
   id: "01a077eb-1da4-73c3-84e7-74cd9c5adef2",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-wanting-asymmetry-is-calibrated",
   topic: "what-the-gauge-is-actually-reading",
