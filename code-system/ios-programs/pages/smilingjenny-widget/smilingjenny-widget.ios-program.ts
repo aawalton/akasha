@@ -1,4 +1,4 @@
-import type { IosProgram } from "../../ios-program.page-type.types.ts"
+import type { IosProgram } from "akasha/code-system/ios-programs/ios-program.page-type.types.ts"
 
 export const smilingjennyWidget = {
   id: "01a05907-081c-72e1-bd1f-67e6df79007e",
