@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { entriesAt } from "../entries/page-entries.module.code.ts"
+import { readBack } from "../entries/page-entries.module.test-fixtures.ts"
 import { landedAt } from "../entry-landing/page-entry-landing.module.code.ts"
 import type { Value } from "../value-reading/page-value-reading.module.code.ts"
 import { type Queue, queueAt } from "./page-entry-queue.module.code.ts"
@@ -41,12 +41,6 @@ function queued(root: string, ceiling: number): Queue {
   return made.queue
 }
 
-function readBack(root: string): readonly Value[] {
-  const read = entriesAt(root, PAGE, SLUG, HELD)
-  if ("refused" in read) throw new Error(read.refused)
-  return read.entries
-}
-
 test("a value is on the disk only after the call handing that value over has returned", async () => {
   const root = rooted()
   const queue = queued(root, WIDE)
@@ -54,7 +48,7 @@ test("a value is on the disk only after the call handing that value over has ret
 
   expect(existsSync(join(root, FIRST))).toBe(false)
   await queue.flushed()
-  expect(readBack(root)).toEqual([...THREE])
+  expect(readBack(root, PAGE, SLUG, HELD)).toEqual([...THREE])
 })
 
 test("values handed over in one turn reach one file in one append", async () => {
@@ -84,7 +78,7 @@ test("values reach the disk in the order the values were handed over", async () 
   }
   await queue.flushed()
 
-  expect(readBack(root)).toEqual(many)
+  expect(readBack(root, PAGE, SLUG, HELD)).toEqual(many)
 })
 
 test("which file a value lands in is settled as page-entry-landing settles it", async () => {
@@ -108,7 +102,7 @@ test("a value handed over after a refusal is written rather than dropped", async
   await queue.flushed()
 
   expect(queue.refused()).toContain("no value is divided")
-  expect(readBack(root)).toEqual([{ at: 1 }])
+  expect(readBack(root, PAGE, SLUG, HELD)).toEqual([{ at: 1 }])
 })
 
 test("a value that cannot be turned into JSON is refused last rather than thrown", async () => {
@@ -122,7 +116,7 @@ test("a value that cannot be turned into JSON is refused last rather than thrown
   await queue.flushed()
 
   expect(queue.refused()).toContain("no value reached")
-  expect(readBack(root)).toEqual([{ at: 1 }])
+  expect(readBack(root, PAGE, SLUG, HELD)).toEqual([{ at: 1 }])
 })
 
 test("flushed resolves rather than rejects where a write is refused", async () => {
@@ -163,7 +157,7 @@ test("nothing waits on the disk while a value is handed over", async () => {
   expect(existsSync(join(root, FIRST))).toBe(false)
   expect(took).toBeLessThan(500)
   await queue.flushed()
-  expect(readBack(root).length).toBe(5000)
+  expect(readBack(root, PAGE, SLUG, HELD).length).toBe(5000)
 })
 
 test("a property held uncommitted reaches the files page-entry-landing names for that", async () => {
@@ -185,5 +179,5 @@ test("a queue made over a file already holding values adds to that file", async 
   queue.write({ at: 2 })
   await queue.flushed()
 
-  expect(readBack(root)).toEqual([{ at: 1 }, { at: 2 }])
+  expect(readBack(root, PAGE, SLUG, HELD)).toEqual([{ at: 1 }, { at: 2 }])
 })

@@ -8,7 +8,13 @@ export const pageEntries = {
   definition: "the values a page keeps one to a line in a file beside the page",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "Reading a property's values back for a test is done here rather than by each test.",
+    },
     {
       invariantKind: "departure",
       statement:

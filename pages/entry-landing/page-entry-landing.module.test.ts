@@ -8,7 +8,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { join } from "node:path"
-import { entriesAt } from "../entries/page-entries.module.code.ts"
+import { readBack } from "../entries/page-entries.module.test-fixtures.ts"
 import type { Value } from "../value-reading/page-value-reading.module.code.ts"
 import {
   appendedAt,
@@ -63,12 +63,6 @@ function appended(root: string, values: readonly Value[], ceiling: number): read
   return made.paths
 }
 
-function readBack(root: string): readonly Value[] {
-  const read = entriesAt(root, PAGE, SLUG, HELD)
-  if ("refused" in read) throw new Error(read.refused)
-  return read.entries
-}
-
 test("a property's values land in the files page-entry-writing names, made where absent", () => {
   const root = rooted()
 
@@ -81,7 +75,7 @@ test("what is written here page-entries reads back in the order written", () => 
   const root = rooted()
   landed(root, THREE, NARROW)
 
-  expect(readBack(root)).toEqual([...THREE])
+  expect(readBack(root, PAGE, SLUG, HELD)).toEqual([...THREE])
 })
 
 test("a file already holding what would be written is left alone and named nowhere", () => {
@@ -97,7 +91,7 @@ test("a file numbered past the last file written is taken away and named in the 
 
   expect(landed(root, [{ at: 1 }], WIDE)).toEqual([FIRST, SECOND])
   expect(existsSync(join(root, SECOND))).toBe(false)
-  expect(readBack(root)).toEqual([{ at: 1 }])
+  expect(readBack(root, PAGE, SLUG, HELD)).toEqual([{ at: 1 }])
 })
 
 test("a property carrying no value is written as one file holding nothing", () => {
@@ -105,7 +99,7 @@ test("a property carrying no value is written as one file holding nothing", () =
 
   expect(landed(root, [], WIDE)).toEqual([FIRST])
   expect(readFileSync(join(root, FIRST), "utf8")).toBe("")
-  expect(readBack(root)).toEqual([])
+  expect(readBack(root, PAGE, SLUG, HELD)).toEqual([])
 })
 
 test("appending adds to the last numbered file rather than rewriting that file", () => {
@@ -122,7 +116,7 @@ test("the bytes already in a file count toward the ceiling and a value rolls on"
   landed(root, [{ at: 1 }], WIDE)
 
   expect(appended(root, [{ at: 2 }], 12)).toEqual([SECOND])
-  expect(readBack(root)).toEqual([{ at: 1 }, { at: 2 }])
+  expect(readBack(root, PAGE, SLUG, HELD)).toEqual([{ at: 1 }, { at: 2 }])
 })
 
 test("a file's fill is read from that file's size rather than from that file's text", () => {
@@ -178,7 +172,7 @@ test("no id is minted and no value is judged against a shape", () => {
   const odd: Value = { said: "no id here", deep: { held: [1, 2] } }
   landed(root, [odd], WIDE)
 
-  expect(readBack(root)).toEqual([odd])
+  expect(readBack(root, PAGE, SLUG, HELD)).toEqual([odd])
 })
 
 test("a property held uncommitted opens and rolls into files whose names say so", () => {
