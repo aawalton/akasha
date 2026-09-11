@@ -1,0 +1,14 @@
+import type { Location } from "akasha/alan/collections/places/locations/location.page-type.types.ts"
+
+export const miracleBowlOrem = {
+  id: "019f322c-9abc-70c8-bcec-92a59557de00",
+  type: "location",
+  slug: "miracle-bowl-orem",
+  title: "Miracle Bowl (Orem)",
+  address: "Orem, UT",
+  collection: "starving-student-card",
+  latitude: 40.2685023,
+  longitude: -111.6812849,
+  sourcePlaceId: "ssc:loc:miracle-bowl:orem",
+  locationSource: "starving-student-card",
+} as const satisfies Location

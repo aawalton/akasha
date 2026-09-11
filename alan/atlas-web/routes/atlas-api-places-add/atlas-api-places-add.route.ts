@@ -7,7 +7,7 @@ export const atlasApiPlacesAdd = {
   slug: "atlas-api-places-add",
   definition: "the location page a reader keeps a found place as",
   code: "ts",
-  urlPath: "api/places/add",
+  urlPath: "api/alan/collections/places/add",
   invariants: [
     {
       invariantKind: "constraint",

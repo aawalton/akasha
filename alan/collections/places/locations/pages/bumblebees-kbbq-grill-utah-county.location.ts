@@ -1,0 +1,14 @@
+import type { Location } from "akasha/alan/collections/places/locations/location.page-type.types.ts"
+
+export const bumblebeesKbbqGrillUtahCounty = {
+  id: "019f322c-91c7-77a7-bfb9-6578c462ceb4",
+  type: "location",
+  slug: "bumblebees-kbbq-grill-utah-county",
+  title: "Bumblebees KBBQ & Grill (Utah County)",
+  address: "Utah County, UT",
+  collection: "starving-student-card",
+  latitude: 40.1197,
+  longitude: -111.658,
+  sourcePlaceId: "ssc:loc:bumblebees-kbbq-and-grill:utah-county",
+  locationSource: "starving-student-card",
+} as const satisfies Location

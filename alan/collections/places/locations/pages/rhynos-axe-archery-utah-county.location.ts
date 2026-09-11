@@ -1,0 +1,14 @@
+import type { Location } from "akasha/alan/collections/places/locations/location.page-type.types.ts"
+
+export const rhynosAxeArcheryUtahCounty = {
+  id: "019f322c-9b4a-771e-aba3-3ecec39861cd",
+  type: "location",
+  slug: "rhynos-axe-archery-utah-county",
+  title: "Rhyno's Axe & Archery (Utah County)",
+  address: "Utah County, UT",
+  collection: "starving-student-card",
+  latitude: 40.1197,
+  longitude: -111.658,
+  sourcePlaceId: "ssc:loc:rhynos-axe-and-archery:utah-county",
+  locationSource: "starving-student-card",
+} as const satisfies Location

@@ -1,0 +1,13 @@
+import type { Location } from "akasha/alan/collections/places/locations/location.page-type.types.ts"
+
+export const brusselsAirportBruEuropeExit = {
+  id: "019f37a9-8a8e-7f90-adaa-beec3b3d5ab1",
+  type: "location",
+  slug: "brussels-airport-bru-europe-exit",
+  title: "Brussels Airport (BRU) — Europe exit",
+  collection: "europe-trip-2026",
+  latitude: 50.9014,
+  longitude: 4.4844,
+  scheduledEndAt: "2026-07-23T10:00:00.000Z",
+  scheduledStartAt: "2026-07-23T10:00:00.000Z",
+} as const satisfies Location

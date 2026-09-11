@@ -1,0 +1,14 @@
+import type { Location } from "akasha/alan/collections/places/locations/location.page-type.types.ts"
+
+export const roxberryJuiceCoSpanishFork = {
+  id: "019f322c-9b69-7509-ad53-b46177747454",
+  type: "location",
+  slug: "roxberry-juice-co-spanish-fork",
+  title: "Roxberry Juice Co. (Spanish Fork)",
+  address: "Spanish Fork, UT",
+  collection: "starving-student-card",
+  latitude: 40.123402,
+  longitude: -111.644872,
+  sourcePlaceId: "ssc:loc:roxberry-juice-co:spanish-fork",
+  locationSource: "starving-student-card",
+} as const satisfies Location

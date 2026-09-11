@@ -1,0 +1,14 @@
+import type { Location } from "akasha/alan/collections/places/locations/location.page-type.types.ts"
+
+export const ziplineUtahUtahCounty = {
+  id: "019f322c-9ca6-7f3a-bcab-2b3819eea6ad",
+  type: "location",
+  slug: "zipline-utah-utah-county",
+  title: "Zipline Utah (Utah County)",
+  address: "Utah County, UT",
+  collection: "starving-student-card",
+  latitude: 40.1197,
+  longitude: -111.658,
+  sourcePlaceId: "ssc:loc:zipline-utah:utah-county",
+  locationSource: "starving-student-card",
+} as const satisfies Location

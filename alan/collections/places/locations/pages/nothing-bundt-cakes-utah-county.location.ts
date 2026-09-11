@@ -1,0 +1,14 @@
+import type { Location } from "akasha/alan/collections/places/locations/location.page-type.types.ts"
+
+export const nothingBundtCakesUtahCounty = {
+  id: "019f322c-9add-7ea1-bf7e-02dcde11ed0f",
+  type: "location",
+  slug: "nothing-bundt-cakes-utah-county",
+  title: "Nothing Bundt Cakes (Utah County)",
+  address: "Utah County, UT",
+  collection: "starving-student-card",
+  latitude: 40.1197,
+  longitude: -111.658,
+  sourcePlaceId: "ssc:loc:nothing-bundt-cakes:utah-county",
+  locationSource: "starving-student-card",
+} as const satisfies Location

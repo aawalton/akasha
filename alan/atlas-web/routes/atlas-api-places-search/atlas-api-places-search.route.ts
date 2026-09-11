@@ -7,5 +7,5 @@ export const atlasApiPlacesSearch = {
   slug: "atlas-api-places-search",
   definition: "the places Geoapify offers for what a reader typed",
   code: "ts",
-  urlPath: "api/places/search",
+  urlPath: "api/alan/collections/places/search",
 } as const satisfies Route

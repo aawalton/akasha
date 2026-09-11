@@ -1,0 +1,14 @@
+import type { Location } from "akasha/alan/collections/places/locations/location.page-type.types.ts"
+
+export const revivePtCryoUtahCounty = {
+  id: "019f322c-9b47-7612-87f0-cb46042bb959",
+  type: "location",
+  slug: "revive-pt-cryo-utah-county",
+  title: "Revive PT Cryo (Utah County)",
+  address: "Utah County, UT",
+  collection: "starving-student-card",
+  latitude: 40.1197,
+  longitude: -111.658,
+  sourcePlaceId: "ssc:loc:revive-pt-cryo:utah-county",
+  locationSource: "starving-student-card",
+} as const satisfies Location

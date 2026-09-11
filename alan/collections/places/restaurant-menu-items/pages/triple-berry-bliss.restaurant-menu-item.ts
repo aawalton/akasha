@@ -1,0 +1,15 @@
+import type { RestaurantMenuItem } from "akasha/alan/collections/places/restaurant-menu-items/restaurant-menu-item.page-type.types.ts"
+
+export const tripleBerryBliss = {
+  id: "01a06808-b765-701d-bed3-83678207ee6c",
+  pageTypeSlug: "restaurant-menu-item",
+  type: "restaurant-menu-item",
+  slug: "triple-berry-bliss",
+  title: "Triple Berry Bliss",
+  partOfCollections: ["cheesecake-factory-cheescakes"],
+  position: 0,
+  ownLength: 3750,
+  ownProgress: 0,
+  unit: "words",
+  status: "not-started",
+} as const satisfies RestaurantMenuItem

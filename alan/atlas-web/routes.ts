@@ -24,10 +24,13 @@ export default [
   route("api/nav-icon/:idSuffix", "routes/atlas-api-nav-icon/atlas-api-nav-icon.route.code.ts"),
   route("basemap/na-eu.pmtiles", "routes/atlas-basemap-na-eu/atlas-basemap-na-eu.route.code.ts"),
   route(
-    "api/places/search",
+    "api/alan/collections/places/search",
     "routes/atlas-api-places-search/atlas-api-places-search.route.code.ts"
   ),
-  route("api/places/add", "routes/atlas-api-places-add/atlas-api-places-add.route.code.ts"),
+  route(
+    "api/alan/collections/places/add",
+    "routes/atlas-api-places-add/atlas-api-places-add.route.code.ts"
+  ),
   route(
     "api/locations/ingest",
     "routes/atlas-api-locations-ingest/atlas-api-locations-ingest.route.code.ts"

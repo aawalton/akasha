@@ -1,0 +1,10 @@
+import type { LocationCollection } from "akasha/alan/collections/places/location-collections/location-collection.page-type.types.ts"
+
+export const myPlaces = {
+  id: "019f1590-46da-7b16-a9ef-e8e25c2f7712",
+  type: "location-collection",
+  slug: "my-places",
+  title: "My Places",
+  locationCollectionDescription: "txt",
+  icon: "file-text",
+} as const satisfies LocationCollection

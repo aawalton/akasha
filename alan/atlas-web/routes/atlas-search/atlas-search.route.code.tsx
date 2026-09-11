@@ -69,7 +69,7 @@ export default function SearchRoute() {
     const key = candidateKey(candidate)
     setAddStates((prev) => ({ ...prev, [key]: "adding" }))
     try {
-      const res = await fetch("/api/places/add", {
+      const res = await fetch("/api/alan/collections/places/add", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(candidate),

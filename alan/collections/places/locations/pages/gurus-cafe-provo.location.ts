@@ -1,0 +1,14 @@
+import type { Location } from "akasha/alan/collections/places/locations/location.page-type.types.ts"
+
+export const gurusCafeProvo = {
+  id: "019f322c-96c2-7fa6-a5ed-dfcdfd9e3d02",
+  type: "location",
+  slug: "gurus-cafe-provo",
+  title: "Gurus Cafe (Provo)",
+  address: "Provo, UT",
+  collection: "starving-student-card",
+  latitude: 40.213777,
+  longitude: -111.712771,
+  sourcePlaceId: "ssc:loc:gurus-cafe:provo",
+  locationSource: "starving-student-card",
+} as const satisfies Location
