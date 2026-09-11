@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { textAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import {
   commandOf,
   type Start,

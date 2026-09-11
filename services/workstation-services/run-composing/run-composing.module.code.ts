@@ -6,7 +6,7 @@ import {
   valuesByPath,
   valuesOfType,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 const CODE_FILE = "code-file-property/"
