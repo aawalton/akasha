@@ -8,6 +8,7 @@ export const lualibPages = {
   definition: "the source file each lualib page names, in place of the file a tsconfig scan finds",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

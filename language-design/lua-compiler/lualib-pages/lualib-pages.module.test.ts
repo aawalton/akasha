@@ -3,27 +3,39 @@ import {
   type LualibPage,
   sourcesFrom,
 } from "akasha/language-design/lua-compiler/lualib-pages/lualib-pages.module.code.ts"
+import {
+  ARRAY_AT_CODE,
+  ARRAY_AT_PAGE,
+  PERFORMANCE_CODE,
+  PERFORMANCE_PAGE,
+  SANDBOX,
+  SYMBOL_CODE,
+  SYMBOL_PAGE,
+  UNPACK_CODE,
+  UNPACK_LUA50,
+  UNPACK_PAGE,
+  WELL_KNOWN_CODE,
+  WELL_KNOWN_PAGE,
+} from "akasha/language-design/lua-compiler/lualib-pages/lualib-pages.module.test-fixtures.ts"
 
 const SCANNED = [
   "/lua-compiler/lualib/src/ArrayAt.ts",
   "/lua-compiler/lualib/src/Nowhere.ts",
   "/lua-compiler/lualib/src/universal/Unpack.ts",
-  "/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts",
+  SANDBOX,
 ]
 
 const ARRAY_AT: LualibPage = {
-  pagePath: "/lua-compiler/lualibs/array-at/array-at.lualib.ts",
+  pagePath: ARRAY_AT_PAGE,
   luaExport: "__TS__ArrayAt",
-  codePath: "/lua-compiler/lualibs/array-at/array-at.lualib.code.ts",
+  codePath: ARRAY_AT_CODE,
   lua50CodePath: null,
 }
 
-const UNPACK_LUA50 = "/lua-compiler/lualibs/unpack/unpack.lualib.lua50-code.ts"
-
 const UNPACK: LualibPage = {
-  pagePath: "/lua-compiler/lualibs/unpack/unpack.lualib.ts",
+  pagePath: UNPACK_PAGE,
   luaExport: "Unpack",
-  codePath: "/lua-compiler/lualibs/unpack/unpack.lualib.code.ts",
+  codePath: UNPACK_CODE,
   lua50CodePath: UNPACK_LUA50,
 }
 
@@ -38,7 +50,7 @@ test("a Lua export names its feature once the export's `__TS__` prefix is droppe
     ARRAY_AT.codePath,
     "/lua-compiler/lualib/src/Nowhere.ts",
     "/lua-compiler/lualib/src/universal/Unpack.ts",
-    "/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts",
+    SANDBOX,
   ])
 })
 
@@ -49,9 +61,9 @@ test("a feature name is reached from the source file's name", () => {
 
 test("a Lua export spelled in lower case names its feature", () => {
   const named: LualibPage = {
-    pagePath: "/lua-compiler/lualibs/performance/performance.lualib.ts",
+    pagePath: PERFORMANCE_PAGE,
     luaExport: "performance",
-    codePath: "/lua-compiler/lualibs/performance/performance.lualib.code.ts",
+    codePath: PERFORMANCE_CODE,
     lua50CodePath: null,
   }
   const held = sourcesFrom(SCANNED, [named], false)
@@ -102,19 +114,19 @@ test("an import naming the code of a page holding Lua 5.0 code names that page's
 
 test("two pages naming one lualib feature refuse the build", () => {
   const bare: LualibPage = {
-    pagePath: "/lua-compiler/lualibs/well-known-symbols/well-known-symbols.lualib.ts",
+    pagePath: WELL_KNOWN_PAGE,
     luaExport: "Symbol",
-    codePath: "/lua-compiler/lualibs/well-known-symbols/well-known-symbols.lualib.code.ts",
+    codePath: WELL_KNOWN_CODE,
     lua50CodePath: null,
   }
   const prefixed: LualibPage = {
-    pagePath: "/lua-compiler/lualibs/symbol/symbol.lualib.ts",
+    pagePath: SYMBOL_PAGE,
     luaExport: "__TS__Symbol",
-    codePath: "/lua-compiler/lualibs/symbol/symbol.lualib.code.ts",
+    codePath: SYMBOL_CODE,
     lua50CodePath: null,
   }
   expect(() => sourcesFrom(SCANNED, [bare, prefixed], false)).toThrow(
-    'well-known-symbols.lualib.ts and /lua-compiler/lualibs/symbol/symbol.lualib.ts both name the lualib feature "Symbol"'
+    `well-known-symbols.lualib.ts and ${SYMBOL_PAGE} both name the lualib feature "Symbol"`
   )
 })
 
@@ -132,10 +144,10 @@ test("a page naming no lualib feature either way refuses the build", () => {
 
 test("a page's stated lua feature takes the place of the one its export names", () => {
   const named: LualibPage = {
-    pagePath: "/lua-compiler/lualibs/well-known-symbols/well-known-symbols.lualib.ts",
+    pagePath: WELL_KNOWN_PAGE,
     luaExport: "Symbol",
     luaFeature: "WellKnownSymbols",
-    codePath: "/lua-compiler/lualibs/well-known-symbols/well-known-symbols.lualib.code.ts",
+    codePath: WELL_KNOWN_CODE,
     lua50CodePath: null,
   }
   const held = sourcesFrom(SCANNED, [named], false)
