@@ -1,5 +1,7 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import {
+  servingStore,
+  storeGoes,
   type Tile,
   tileAt,
 } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.test-fixtures.ts"
@@ -14,7 +16,6 @@ import {
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
 import { action } from "akasha/smilingjenny/web/routes/jenny-readout-relay/jenny-readout-relay.route.code.ts"
 import { loader } from "akasha/smilingjenny/web/routes/jenny-surplus/jenny-surplus.route.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const RING_CREDENTIAL = crypto.randomUUID()
 const RELAY_SECRET = crypto.randomUUID()
@@ -51,23 +52,15 @@ const ANSWERED: { readouts: readonly Record<string, unknown>[] } = { readouts: [
 let store: ReturnType<typeof Bun.serve>
 let server: ReturnType<typeof Bun.serve>
 let origin: string
-let heldOrigin: string | undefined
 let tile: Tile
 let carryNow: RelayingOne
 let askedWith: Tile["askedWith"]
 let drawn: Tile["drawn"]
 
 beforeAll(() => {
-  store = Bun.serve({
-    port: 0,
-    fetch: async (request) => {
-      const asked = (await request.json()) as { pageTypeSlug: string }
-      if (asked.pageTypeSlug === "readout") return Response.json({ rows: ANSWERED.readouts })
-      return Response.json({ rows: [SCALE_ROW] })
-    },
-  })
-  heldOrigin = optionalEnv("PAGES_SERVICE_ORIGIN")
-  process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
+  store = servingStore((asked) =>
+    asked.pageTypeSlug === "readout" ? ANSWERED.readouts : [SCALE_ROW]
+  )
   server = Bun.serve({
     port: 0,
     fetch(request) {
@@ -86,9 +79,7 @@ beforeAll(() => {
 
 afterAll(() => {
   server.stop()
-  store.stop(true)
-  if (heldOrigin === undefined) delete process.env.PAGES_SERVICE_ORIGIN
-  else process.env.PAGES_SERVICE_ORIGIN = heldOrigin
+  storeGoes(store)
 })
 
 beforeEach(() => {
