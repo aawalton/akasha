@@ -7,7 +7,6 @@ import type {
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { textIn } from "akasha/code-system/body-text/body-text.module.code.ts"
 import { formattedBody } from "akasha/code-system/code-format/code-format.module.code.ts"
-import { mappedFor } from "akasha/commands/modules/address-mapping/address-mapping.module.code.ts"
 import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
 import { unexportableIn } from "akasha/commands/modules/export-naming/export-naming.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
@@ -139,14 +138,12 @@ export function preparing(
   if (unexportable.length > 0) return { refusals: unexportable }
   const locking = lockingFor(root, base, rows)
   const change = changeOf(root, base, rows)
-  const mapped = mappedFor(change)
   const stepped = steppedFor(change)
   const globbed = globbedFor(change)
   const typed = typesFor(change)
   const composed = recipesFor(change)
   const added = [
     ...locking.edits,
-    ...mapped.edits,
     ...stepped.edits,
     ...globbed.edits,
     ...typed.edits,
@@ -156,14 +153,7 @@ export function preparing(
     formatting,
     authored: rows,
     changes: [...rows, ...added],
-    said: [
-      ...locking.said,
-      ...mapped.said,
-      ...stepped.said,
-      ...globbed.said,
-      ...typed.said,
-      ...composed.said,
-    ],
+    said: [...locking.said, ...stepped.said, ...globbed.said, ...typed.said, ...composed.said],
     over: added.length === 0 ? change : null,
   }
 }

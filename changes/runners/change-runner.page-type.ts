@@ -19,6 +19,7 @@ export const changeRunner = {
     { pageProperty: "file-property/addressed", required: true, many: false },
     { pageProperty: "relation-property/reached", required: true, many: false },
   ],
+  typeGenerator: "ts",
   invariants: [
     {
       invariantKind: "departure",

@@ -27,7 +27,7 @@ const TURNS = "couldTurn"
 
 const loadFrom = createRequire(import.meta.url)
 
-export type Generating = (root: string, shadow: Shadow) => readonly Adding[]
+export type Generating = (root: string, shadow: Shadow, change: Change) => readonly Adding[]
 
 export type Turning = (change: Change) => boolean
 
@@ -64,9 +64,9 @@ export function generatingIn(root: string, at: string): Reached {
 
 type Answered = { readonly written: readonly Adding[] } | { readonly missing: string }
 
-function writtenBy(generating: Generating, root: string, shadow: Shadow): Answered {
+function writtenBy(generating: Generating, change: Change, shadow: Shadow): Answered {
   try {
-    return { written: generating(root, shadow) }
+    return { written: generating(change.root, shadow, change) }
   } catch (thrown) {
     return { missing: thrown instanceof Error ? thrown.message : String(thrown) }
   }
@@ -101,7 +101,7 @@ export function typedOver(
       continue
     }
     if (reached.turning !== undefined && !reached.turning(change)) continue
-    const answered = writtenBy(reached.generating, change.root, shadow)
+    const answered = writtenBy(reached.generating, change, shadow)
     if ("missing" in answered) {
       said.push(
         `\`${slug}\` states a type generator, and \`${beside}\` broke — ${answered.missing}`

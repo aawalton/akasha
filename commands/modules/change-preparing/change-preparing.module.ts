@@ -58,24 +58,20 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
-      statement: "The address map is worked out before the hold is taken alongside those two.",
+      statement: "The spacing steps are worked out before the hold is taken alongside those two.",
     },
     {
       invariantKind: "departure",
-      statement: "The spacing steps are worked out before the hold is taken alongside those three.",
+      statement: "The source globs are worked out before the hold is taken alongside those three.",
     },
     {
       invariantKind: "departure",
-      statement: "The source globs are worked out before the hold is taken alongside those four.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The written types are worked out before the hold is taken alongside those five.",
+      statement: "The written types are worked out before the hold is taken alongside those four.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The composed recipes are worked out before the hold is taken alongside those six.",
+        "The composed recipes are worked out before the hold is taken alongside those five.",
     },
     {
       invariantKind: "departure",
@@ -92,11 +88,11 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
-      statement: "Every road that lands works those seven out through one step here.",
+      statement: "Every road that lands works those six out through one step here.",
     },
     {
       invariantKind: "departure",
-      statement: "The address map and the spacing steps are worked out over one change.",
+      statement: "The spacing steps and the written types are worked out over one change.",
     },
     {
       invariantKind: "departure",
