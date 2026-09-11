@@ -240,6 +240,32 @@ export const readoutGroupServing = {
       statement: "Relaying one reading and reading the one stoplight back is one helper.",
     },
     {
+      invariantKind: "departure",
+      statement: "A tile is reached with a ring credential or with none.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A tile asked with a credential of the caller's presents that credential in place of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tile's readers are bound rather than wrapped, so no test states the wrapper.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The rows a store answers an ask with are the rows that ask names, by slug or by group.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An ask naming neither is answered with every row the store was handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rows a store holds are handed in rather than named here.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here takes a reading.",
     },

@@ -121,6 +121,10 @@ export const readoutRelay = {
       statement: "A test proving a carry is refused reads the answer rather than being thrown at.",
     },
     {
+      invariantKind: "departure",
+      statement: "A test carrying one readout's reading again and again names that readout once.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here takes a reading.",
     },

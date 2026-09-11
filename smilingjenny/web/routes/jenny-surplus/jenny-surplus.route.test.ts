@@ -9,8 +9,8 @@ import {
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
 import {
   carryTo,
-  type Relaying,
-  relayingTo,
+  type RelayingOne,
+  relayingOneTo,
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
 import { action } from "akasha/smilingjenny/web/routes/jenny-readout-relay/jenny-readout-relay.route.code.ts"
 import { loader } from "akasha/smilingjenny/web/routes/jenny-surplus/jenny-surplus.route.code.ts"
@@ -53,7 +53,9 @@ let server: ReturnType<typeof Bun.serve>
 let origin: string
 let heldOrigin: string | undefined
 let tile: Tile
-let carried: Relaying
+let carryNow: RelayingOne
+let askedWith: Tile["askedWith"]
+let drawn: Tile["drawn"]
 
 beforeAll(() => {
   store = Bun.serve({
@@ -76,8 +78,10 @@ beforeAll(() => {
     },
   })
   origin = `http://localhost:${server.port}`
-  tile = tileAt(origin, PATH, GROUP, { "X-Ring-Credential": RING_CREDENTIAL })
-  carried = relayingTo(origin, RELAY_SECRET)
+  tile = tileAt(origin, PATH, GROUP, RING_CREDENTIAL)
+  carryNow = relayingOneTo(origin, RELAY_SECRET, READOUT)
+  askedWith = tile.askedWith
+  drawn = tile.drawn
 })
 
 afterAll(() => {
@@ -91,15 +95,6 @@ beforeEach(() => {
   dropRelayed()
   ANSWERED.readouts = [READOUT_ROW]
 })
-
-const askedWith = (credential: string | null) =>
-  fetch(`${origin}${PATH}`, {
-    headers: credential === null ? {} : { "X-Ring-Credential": credential },
-  })
-
-const carryNow = (value: number, at: Date = new Date()) => carried(READOUT, value, at)
-
-const drawn = () => tile.drawn()
 
 test("a caller holding no ring credential is refused", async () => {
   await carryNow(1)

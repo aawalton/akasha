@@ -32,3 +32,10 @@ export function relayingTo(origin: string, secret: string): Relaying {
   return (readout, value, at = new Date()) =>
     relayReading(origin, secret, { readout, value, at: at.toISOString(), fallsPerHour: 0 })
 }
+
+export type RelayingOne = (value: number, at?: Date) => ReturnType<typeof relayReading>
+
+export function relayingOneTo(origin: string, secret: string, readout: string): RelayingOne {
+  const carried = relayingTo(origin, secret)
+  return (value, at = new Date()) => carried(readout, value, at)
+}

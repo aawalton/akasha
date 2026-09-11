@@ -1,5 +1,6 @@
 import { expect } from "bun:test"
 import { join } from "node:path"
+import { RING_CREDENTIAL_HEADER } from "akasha/alan/harness/readouts/credential/readout-credential.module.code.ts"
 import {
   answerStoplightsAdmittedBy,
   type Stoplight,
@@ -51,6 +52,23 @@ export function answeredAfresh(): undefined {
   ANSWERED.scales = [SCALE_ROW]
   ANSWERED.groups = [GROUP_ROW]
   return undefined
+}
+
+export type Rows = readonly Record<string, unknown>[]
+
+export type AskedOf = {
+  pageTypeSlug: string
+  where?: { slug?: { is?: string }; groups?: { has?: string } }
+}
+
+export function rowsAsked(rows: Rows, where: AskedOf["where"]): Rows {
+  const named = where?.slug?.is
+  if (named !== undefined) return rows.filter((row) => row.slug === named)
+  const grouped = where?.groups?.has
+  if (grouped === undefined) return rows
+  return rows.filter(
+    (row) => Array.isArray(row.groups) && (row.groups as readonly string[]).includes(grouped)
+  )
 }
 
 let heldOrigin: string | undefined
@@ -141,6 +159,7 @@ export type Tile = {
   readonly answer: () => Promise<Response>
   readonly drawn: () => Promise<readonly Drawn[]>
   readonly ringFor: (named: string) => Promise<Drawn | undefined>
+  readonly askedWith: (credential: string | null) => Promise<Response>
 }
 
 export function colorIn(one: Drawn, key: string): string {
@@ -162,12 +181,23 @@ async function stoplightsAt(url: string, headers: Sent): Promise<readonly Drawn[
   return body.stoplights
 }
 
-export function tileAt(origin: string, path: string, key: string, headers: Sent = {}): Tile {
+function ringHeaders(credential: string | null): Sent {
+  return credential === null ? {} : { [RING_CREDENTIAL_HEADER]: credential }
+}
+
+export function tileAt(
+  origin: string,
+  path: string,
+  key: string,
+  credential: string | null = null
+): Tile {
   const url = `${origin}${path}`
+  const headers = ringHeaders(credential)
   return {
     answer: () => fetch(url, { headers }),
     drawn: () => stoplightsAt(url, headers),
     ringFor: async (named) => (await stoplightsAt(url, headers)).find((one) => one[key] === named),
+    askedWith: (asking) => fetch(url, { headers: ringHeaders(asking) }),
   }
 }
 
