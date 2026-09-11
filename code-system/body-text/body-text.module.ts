@@ -1,4 +1,4 @@
-import type { Module } from "../modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const bodyText = {
   id: "01a04fa7-aae4-77e8-8e0c-b9e61046b33b",
