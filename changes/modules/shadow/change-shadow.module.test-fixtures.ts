@@ -32,6 +32,7 @@ import {
   relationFiled,
   schemaFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Carried as Declared } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const MODULES = "node_modules"
@@ -261,6 +262,24 @@ export function worldFor(
     under: () => [],
     base: () => body,
     over: NOTHING_OVER,
+    reaching,
+  }
+}
+
+export function worldOfType(
+  kind: string,
+  bodies: Readonly<Record<string, string>>,
+  carried: readonly Declared[] | null,
+  values: ReadonlyMap<string, Value>,
+  reaching: Reaching
+): World {
+  return {
+    ...worldOf(bodies),
+    index: {
+      kindsUnder: () => new Set([kind]),
+      propertiesIfNamed: () => carried,
+      valuesByPath: () => values,
+    } as never,
     reaching,
   }
 }

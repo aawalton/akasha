@@ -11,7 +11,7 @@ import {
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   relaying,
-  worldOf,
+  worldOfType,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 
@@ -87,15 +87,7 @@ function pagesIn(
   carried: readonly Carried[] | null,
   values: Values = VALUES
 ): World {
-  return {
-    ...worldOf(bodies),
-    index: {
-      kindsUnder: () => new Set(["story-chapter-read"]),
-      propertiesIfNamed: () => carried,
-      valuesByPath: () => values,
-    } as never,
-    reaching: RUNS,
-  }
+  return worldOfType(COPYING.pageType, bodies, carried, values, RUNS)
 }
 
 const COPYING = {
