@@ -129,8 +129,8 @@ test("a body states the type and slug and seat and assignment and kind and agent
   const body = bodyOf("akasha-abc", "akasha", "domain/akasha-system", "Explore", "seat--own")
   expect(body).toContain('from "akasha/seat-system/subagents/subagent.page-type.types.ts"')
   expect(body).toContain("export const akashaAbc = {")
-  expect(body).toContain('pageTypeSlug: "subagent"')
   expect(body).toContain('type: "subagent"')
+  expect(body).not.toContain("pageTypeSlug:")
   expect(body).toContain('slug: "akasha-abc"')
   expect(body).toContain('principalSeatName: "akasha"')
   expect(body).toContain('assignmentSlug: "domain/akasha-system"')
@@ -147,7 +147,7 @@ test("a body composed states no id, leaving the change to mint one", () => {
 test("a body carries the id it is handed, before everything else the body states", () => {
   const body = bodyOf("a-abc", "akasha", "domain/akasha-system", "Explore", "seat--own", HELD_ID)
   expect(body).toContain(`id: ${JSON.stringify(HELD_ID)}`)
-  expect(body.indexOf("id:")).toBeLessThan(body.indexOf("pageTypeSlug:"))
+  expect(body.indexOf("id:")).toBeLessThan(body.indexOf("type:"))
 })
 
 test("a page takes the assignment from the page its seat is at", () => {
