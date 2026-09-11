@@ -29,6 +29,18 @@ export const git = {
     },
     {
       invariantKind: "departure",
+      statement: "The folder a checkout's worktrees share is asked of git rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is under that folder is no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What akasha left under that folder goes by a sweep rather than by a change.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A caller wanting a throw and a caller wanting nothing back reach for two names.",
     },
     {
