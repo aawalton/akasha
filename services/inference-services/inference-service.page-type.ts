@@ -16,6 +16,7 @@ export const inferenceService = {
     "text-property/lifecycle",
     "text-property/python-version",
     "text-property/workdir",
+    "module/inference-reading",
   ],
   properties: [
     { pageProperty: "text-property/inference-host", required: true, many: false },
