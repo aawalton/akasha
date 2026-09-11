@@ -8,7 +8,7 @@ export const keepAlanDirectives = {
   definition: "the rule a turn breaks put back to the agent before that turn ends",
   code: "ts",
   test: "ts",
-  runsAt: ["Stop"],
+  runsAt: [],
   invariants: [
     {
       invariantKind: "departure",
