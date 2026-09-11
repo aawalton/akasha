@@ -8,4 +8,5 @@ export const wanUp = {
   definition: "the Wan container started with the card attached",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
