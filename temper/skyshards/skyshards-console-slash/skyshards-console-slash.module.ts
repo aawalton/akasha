@@ -6,4 +6,10 @@ export const skyshardsConsoleSlash = {
   slug: "skyshards-console-slash",
   definition: "the slash command that prints where the player is",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Both a console and a computer print the player's position from this one rule.",
+    },
+  ],
 } as const satisfies Module
