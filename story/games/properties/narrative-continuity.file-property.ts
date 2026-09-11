@@ -9,4 +9,5 @@ export const narrativeContinuity = {
   slug: "narrative-continuity",
   propertySlug: "narrative-continuity",
   definition: "what a game must keep true across its turns",
+  extensions: ["json"],
 } as const satisfies FileProperty

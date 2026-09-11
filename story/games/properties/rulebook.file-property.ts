@@ -9,4 +9,5 @@ export const rulebook = {
   slug: "rulebook",
   propertySlug: "rulebook",
   definition: "the rules a game is played by",
+  extensions: ["json"],
 } as const satisfies FileProperty

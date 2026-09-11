@@ -9,4 +9,5 @@ export const config = {
   slug: "config",
   propertySlug: "config",
   definition: "what a game is set to run as",
+  extensions: ["json"],
 } as const satisfies FileProperty

@@ -9,4 +9,5 @@ export const gmContext = {
   slug: "gm-context",
   propertySlug: "gm-context",
   definition: "the doctrine the game master has while running a game",
+  extensions: ["json"],
 } as const satisfies FileProperty

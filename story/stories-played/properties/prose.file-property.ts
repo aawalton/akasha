@@ -9,6 +9,7 @@ export const prose = {
   slug: "prose",
   propertySlug: "prose",
   definition: "the text a page carries, however long the text runs",
+  extensions: ["txt"],
   invariants: [
     {
       invariantKind: "departure",

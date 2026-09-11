@@ -9,4 +9,5 @@ export const rolls = {
   slug: "rolls",
   propertySlug: "rolls",
   definition: "every roll a game has settled an action by",
+  extensions: ["jsonl"],
 } as const satisfies FileProperty

@@ -9,4 +9,5 @@ export const states = {
   slug: "states",
   propertySlug: "states",
   definition: "what a game's world has been at, sitting by sitting",
+  extensions: ["jsonl"],
 } as const satisfies FileProperty

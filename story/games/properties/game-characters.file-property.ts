@@ -9,4 +9,5 @@ export const gameCharacters = {
   slug: "game-characters",
   propertySlug: "characters",
   definition: "the characters a game is played with",
+  extensions: ["jsonl"],
 } as const satisfies FileProperty

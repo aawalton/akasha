@@ -9,4 +9,5 @@ export const towerSessions = {
   slug: "tower-sessions",
   propertySlug: "tower-sessions",
   definition: "the sittings a tower game has been climbed in",
+  extensions: ["jsonl"],
 } as const satisfies FileProperty

@@ -9,4 +9,5 @@ export const gateDimensions = {
   slug: "gate-dimensions",
   propertySlug: "gate-dimensions",
   definition: "what a turn is judged on before the turn is published",
+  extensions: ["json"],
 } as const satisfies FileProperty

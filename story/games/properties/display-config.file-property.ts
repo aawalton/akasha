@@ -9,4 +9,5 @@ export const displayConfig = {
   slug: "display-config",
   propertySlug: "display-config",
   definition: "what a game shows the player and how often",
+  extensions: ["json"],
 } as const satisfies FileProperty

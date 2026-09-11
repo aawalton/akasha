@@ -9,4 +9,5 @@ export const tallyCatalog = {
   slug: "tally-catalog",
   propertySlug: "tally-catalog",
   definition: "everything a game counts across its turns, and what each count means",
+  extensions: ["json"],
 } as const satisfies FileProperty

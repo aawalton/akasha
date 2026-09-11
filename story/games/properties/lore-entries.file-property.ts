@@ -9,4 +9,5 @@ export const loreEntries = {
   slug: "lore-entries",
   propertySlug: "lore-entries",
   definition: "what a game has settled as true in its world",
+  extensions: ["jsonl"],
 } as const satisfies FileProperty

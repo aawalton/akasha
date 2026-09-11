@@ -9,6 +9,7 @@ export const policies = {
   slug: "policies",
   propertySlug: "policies",
   definition: "the rulings a game master applies, each named and versioned",
+  extensions: ["json"],
   invariants: [
     {
       invariantKind: "departure",

@@ -9,4 +9,5 @@ export const entities = {
   slug: "entities",
   propertySlug: "entities",
   definition: "everyone and everything in a game's world",
+  extensions: ["jsonl"],
 } as const satisfies FileProperty

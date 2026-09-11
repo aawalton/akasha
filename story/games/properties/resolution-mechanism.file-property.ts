@@ -9,4 +9,5 @@ export const resolutionMechanism = {
   slug: "resolution-mechanism",
   propertySlug: "resolution-mechanism",
   definition: "the machinery a game settles an action with",
+  extensions: ["json"],
 } as const satisfies FileProperty

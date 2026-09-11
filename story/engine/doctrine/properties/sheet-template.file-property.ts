@@ -9,4 +9,5 @@ export const sheetTemplate = {
   slug: "sheet-template",
   propertySlug: "sheet-template",
   definition: "the shape a character sheet takes before a game's rulebook fills the sheet",
+  extensions: ["json"],
 } as const satisfies FileProperty

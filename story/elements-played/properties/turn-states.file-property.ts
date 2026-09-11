@@ -9,6 +9,7 @@ export const turnStates = {
   slug: "turn-states",
   propertySlug: "turn-states",
   definition: "what an element was at, turn by turn",
+  extensions: ["jsonl"],
   invariants: [
     {
       invariantKind: "departure",

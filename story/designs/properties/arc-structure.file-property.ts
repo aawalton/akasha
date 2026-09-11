@@ -9,6 +9,7 @@ export const arcStructure = {
   slug: "arc-structure",
   propertySlug: "arc-structure",
   definition: "the arcs a story is planned to run through",
+  extensions: ["md"],
   invariants: [
     {
       invariantKind: "departure",

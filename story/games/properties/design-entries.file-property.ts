@@ -9,4 +9,5 @@ export const designEntries = {
   slug: "design-entries",
   propertySlug: "design-entries",
   definition: "the decisions a game's design rests on",
+  extensions: ["jsonl"],
 } as const satisfies FileProperty
