@@ -40,6 +40,16 @@ export const typeDeclaration = {
       invariantKind: "departure",
       statement: "A module states the types that module alone uses.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A package augments a shared interface only where the member's type is not that package's own.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A member carrying the augmenting package's own type belongs on a subtype that package declares.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
