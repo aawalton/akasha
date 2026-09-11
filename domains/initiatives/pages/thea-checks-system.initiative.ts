@@ -22,13 +22,13 @@ export const theaChecksSystem = {
       statement:
         "Audits run in a dedicated singleton service and are requested by agents, never run directly.",
       workingMemory:
-        "Nothing runs one today. audit.command.ts states the absence that nothing schedules this command, beside the absence that nothing holds the folder still while an audit runs, and the second is the harder half: this tree takes a commit every 13 seconds from a dozen seats, so a run over every file moves under itself. 32 modules call runMechanicalChange, and change-mechanical carries the gap that the audit finds the faults a mechanical change lands.",
+        "service-workstation is the mechanism: 38 pages under systemd reached by deploy, and royal-road-sync already states schedule hourly. auditingIn at checking.module.code.ts:386 runs every audit in one process and nothing calls it. 55 run at a bare audit, 59 pages less 4 experimental. Nothing guards two audits at once: holding is the only lock and only landings and index refresh take it. Nothing holds the tree still either, the harder half at a commit every 13 seconds.",
     },
     {
       statement:
         "The singleton service runs every audit hourly and messages thea the failures to remediate.",
       workingMemory:
-        "Alan's wording: the service runs all audits once per hour and sends failures to thea for remediation through a message. Nothing schedules an audit now, read live off 29 user timers and 75 unit files, none naming the repository. How a failure reaches a seat is unproven: the messages server answered nothing all session. A cost line cannot tell a check that threw from one that refused once, both writing found.length, so the service reads rows rather than counts.",
+        "writeMessage lands a message page and is proven from a plain process by service-watching, a oneshot systemd unit with no agent near it, so the sending half is solved. No command sends one, by an absence on seat-system; the reach is the module. The seat-side receiver answered nothing all session, so delivery into thea is unproven. A cost line cannot tell a check that threw from one that refused once, both writing found.length, so the service reads rows rather than counts.",
     },
   ],
   constraints: [
