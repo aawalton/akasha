@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { lowerSnakeCase } from "./lower-snake-case.name-format.code.ts"
+import { lowerSnakeCase } from "akasha/pages/name-formats/pages/lower-snake-case/lower-snake-case.name-format.code.ts"
 
 test("words joined with underscores and all letters lower are written in it", () => {
   expect(lowerSnakeCase("page")).toBe(true)

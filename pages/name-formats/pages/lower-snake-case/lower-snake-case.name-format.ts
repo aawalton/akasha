@@ -1,4 +1,4 @@
-import type { NameFormat } from "../../name-format.page-type.types.ts"
+import type { NameFormat } from "akasha/pages/name-formats/name-format.page-type.types.ts"
 
 export const lowerSnakeCase = {
   id: "01a04eba-7459-7895-902e-b043a8723120",
