@@ -1,4 +1,4 @@
-import type { WorldTitle } from "../../world-title.page-type.types.ts"
+import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world-title.page-type.types.ts"
 
 export const firstDruidOfTheWorld = {
   id: "01a0655a-7b7c-706d-a30a-bcb0fabcfb1a",

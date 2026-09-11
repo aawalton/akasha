@@ -1,4 +1,4 @@
-import type { WorldTitle } from "../../world-title.page-type.types.ts"
+import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world-title.page-type.types.ts"
 
 export const firstOfIzrilTrueAntinium = {
   id: "01a0655a-7b7c-75fa-91a3-b7e272c241cb",

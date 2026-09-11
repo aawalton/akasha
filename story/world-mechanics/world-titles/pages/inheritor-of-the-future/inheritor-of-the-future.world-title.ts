@@ -1,4 +1,4 @@
-import type { WorldTitle } from "../../world-title.page-type.types.ts"
+import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world-title.page-type.types.ts"
 
 export const inheritorOfTheFuture = {
   id: "01a0655a-7b7c-7d4e-a864-6698a1ff21dd",

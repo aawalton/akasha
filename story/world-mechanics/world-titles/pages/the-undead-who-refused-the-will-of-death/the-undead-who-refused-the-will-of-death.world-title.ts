@@ -1,4 +1,4 @@
-import type { WorldTitle } from "../../world-title.page-type.types.ts"
+import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world-title.page-type.types.ts"
 
 export const theUndeadWhoRefusedTheWillOfDeath = {
   id: "01a0655a-7b7f-7c0d-8dd0-13e6c87e6f18",

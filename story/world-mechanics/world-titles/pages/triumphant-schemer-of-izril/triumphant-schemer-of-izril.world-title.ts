@@ -1,4 +1,4 @@
-import type { WorldTitle } from "../../world-title.page-type.types.ts"
+import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world-title.page-type.types.ts"
 
 export const triumphantSchemerOfIzril = {
   id: "01a0655a-7b7f-7ac2-afd2-4c664a93bc9d",

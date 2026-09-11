@@ -1,4 +1,4 @@
-import type { WorldTitle } from "../../world-title.page-type.types.ts"
+import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world-title.page-type.types.ts"
 
 export const localLandmark = {
   id: "01a0655a-7b7e-7a00-bbeb-8a65b57906ad",

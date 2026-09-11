@@ -1,4 +1,4 @@
-import type { WorldTitle } from "../../world-title.page-type.types.ts"
+import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world-title.page-type.types.ts"
 
 export const discomfiterOfTheGrandDesignOfIsthekenous = {
   id: "01a0655a-7b7c-7bf7-a8c0-9d89f96411ee",

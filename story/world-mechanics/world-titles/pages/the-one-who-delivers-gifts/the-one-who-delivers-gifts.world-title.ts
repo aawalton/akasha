@@ -1,4 +1,4 @@
-import type { WorldTitle } from "../../world-title.page-type.types.ts"
+import type { WorldTitle } from "akasha/story/world-mechanics/world-titles/world-title.page-type.types.ts"
 
 export const theOneWhoDeliversGifts = {
   id: "01a0655a-7b7e-783d-9cbe-815bca9de5b1",
