@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Adding, Replacing } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { bodyIn as bodyOf } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
 import {
   groupAt,
   groupsIn,
@@ -111,10 +111,6 @@ function changeTurning(at: string, body: string): Change {
 }
 
 const HANDED: Reaching = (_root, _at, body) => ({ writing: () => body ?? OFF_DISK })
-
-function bodyOf(one: Adding | Replacing): string {
-  return one.kind === "add" ? one.content : one.contentTo
-}
 
 describe("the body a group's code is loaded from", () => {
   test("a group is run off the body the change leaves", () => {
