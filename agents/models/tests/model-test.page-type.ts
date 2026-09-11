@@ -17,6 +17,7 @@ export const modelTest = {
     "text-property/case-statement",
     "text-property/prompt",
     "text-property/case-against",
+    "model-test/directive-kept",
   ],
   extends: ["page-type/module"],
   properties: [
@@ -31,11 +32,6 @@ export const modelTest = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A test's code picks which pages the code judges rather than the prompt saying so.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A test has no address for a model.",
     },
     {
@@ -46,6 +42,10 @@ export const modelTest = {
       invariantKind: "departure",
       statement:
         "A run that could not reach a model is a failure of its own rather than a case that passed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test's code picks what the code judges rather than the prompt saying so.",
     },
   ],
   types: "ts",
