@@ -111,8 +111,8 @@ test("a run naming a slug no service page carries is the data's fault", async ()
 })
 
 test("a service keeping no running code is refused by name rather than run", async () => {
-  const answer = await infrastructureService(["run", "pages-service"], HERE)
+  const answer = await infrastructureService(["run", "audit-running"], HERE)
   expect(answer.code).toBe(2)
-  expect(answer.refusals[0]).toContain("pages-service")
+  expect(answer.refusals[0]).toContain("audit-running")
   expect(answer.refusals[0]).toContain("running")
 })
