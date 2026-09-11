@@ -2,6 +2,7 @@ import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.co
 import { entriesAt } from "akasha/pages/entries/page-entries.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
 import { queueAt } from "akasha/pages/entry-queue/page-entry-queue.module.code.ts"
+import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
@@ -83,7 +84,9 @@ export async function writeNotification(
   await made.queue.flushed()
   const refused = made.queue.refused()
   if (refused !== null) return { ok: false, why: refused }
-  return { ok: true, at: made.queue.at() }
+  const at = made.queue.at()
+  partFiled(akashaRoot(), page, at)
+  return { ok: true, at }
 }
 
 type Held = {

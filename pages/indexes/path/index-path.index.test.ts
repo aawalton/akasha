@@ -1,7 +1,14 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { claiming } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import type { FilePropertiesBy } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import { A } from "akasha/pages/indexes/entries/index-entries.module.test-fixtures.ts"
-import { pathIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
+import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import { partFiled, partUnfiled, pathIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
+import { listedByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { noPathsFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+
+afterAll(scratch.sweep)
+
 import type {
   Beside,
   IsThere,
@@ -183,6 +190,20 @@ test("a file a page property holds is filed under its own path, naming the page 
     { at: "path/deep/a.module.code.ts.jsonl", line },
     { at: "path/deep/a.module.test.ts.jsonl", line },
   ])
+})
+
+test("a part a writer opens is filed with the page's own line, and withdrawn when taken away", () => {
+  const root = scratch.rootFor("akasha-index-path-")
+  const page = "akasha/a.domain.ts"
+  const part = "akasha/a.domain.edits.part2.uncommitted.jsonl"
+  noPathsFiled(root)
+  claiming(root, page, page, A)
+
+  expect(listedByPath(root, part)).toEqual([])
+  partFiled(root, page, part)
+  expect(listedByPath(root, part).map((one) => one.path)).toEqual([page])
+  partUnfiled(root, part)
+  expect(listedByPath(root, part)).toEqual([])
 })
 
 test("a value carrying no slug is filed under no path, as it is filed under no identifier", () => {

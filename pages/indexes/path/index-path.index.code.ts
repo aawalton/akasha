@@ -106,3 +106,8 @@ export function partFiled(repo: string, page: string, at: string): undefined {
   if (held.length === 0) return
   keepWhole(join(root, fileFor(under(repo, at))), held, root)
 }
+
+export function partUnfiled(repo: string, at: string): undefined {
+  const root = indexIn(repo)
+  keepWhole(join(root, fileFor(under(repo, at))), [], root)
+}

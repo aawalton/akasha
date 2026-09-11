@@ -98,6 +98,11 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A numbered file a writer takes away beside a page is withdrawn here as that writer takes it away.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page with no file here yet has nothing filed for such a file.",
     },
     {

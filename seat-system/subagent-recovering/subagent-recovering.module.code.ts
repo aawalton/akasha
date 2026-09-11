@@ -10,6 +10,7 @@ import {
 } from "akasha/commands/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import { exclusively } from "akasha/files/exclusive/exclusive.module.code.ts"
 import { partedIn, uncommittedBesideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { subagentEdits } from "akasha/seat-system/seats/properties/subagent-edits.file-property.ts"
 import { subagentRefusals } from "akasha/seat-system/seats/properties/subagent-refusals.file-property.ts"
 
@@ -48,11 +49,12 @@ function textAt(root: string, at: string | null): string | null {
   }
 }
 
-function appended(root: string, at: string, text: string): undefined {
+function appended(root: string, page: string, at: string, text: string): undefined {
   const full = join(root, at)
   mkdirSync(dirname(full), { recursive: true })
   exclusively(full, (): undefined => {
     appendFileSync(full, text)
+    partFiled(root, page, at)
     return undefined
   })
   return undefined
@@ -71,12 +73,12 @@ export function movedOnto(root: string, seatPage: string, subagentPage: string):
   const refusalsTo = seatRefusalsAt(seatPage)
   const lines = editsTo === null ? [] : linesIn(root, subagentPage)
   if (editsTo !== null && lines.length > 0) {
-    appended(root, editsTo, editsSaid(lines))
+    appended(root, seatPage, editsTo, editsSaid(lines))
     droppedAll(root, subagentPage)
   }
   const refused = refusalsTo === null ? null : textAt(root, refusalsAt(subagentPage))
   if (refusalsTo !== null && refused !== null) {
-    appended(root, refusalsTo, refusalsSaid(namedAt(subagentPage), refused))
+    appended(root, seatPage, refusalsTo, refusalsSaid(namedAt(subagentPage), refused))
     refusalsKept(root, subagentPage, [])
   }
   return { edits: lines.length, refusals: refused !== null }

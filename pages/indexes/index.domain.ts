@@ -93,7 +93,11 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "The index is written by the akasha commands and by nothing else.",
+      statement: "The index is written by akasha's own code and by nothing else.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A long-running process akasha spawns writes here as a command does.",
     },
     {
       invariantKind: "departure",

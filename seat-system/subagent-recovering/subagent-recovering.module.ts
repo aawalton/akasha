@@ -59,6 +59,10 @@ export const subagentRecovering = {
     },
     {
       invariantKind: "departure",
+      statement: "A file this write opens beside the seat page is filed in the path index.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The paths written are the ones the seat page type names rather than spelled here.",
     },

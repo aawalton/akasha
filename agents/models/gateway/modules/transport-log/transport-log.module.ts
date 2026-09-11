@@ -183,6 +183,14 @@ export const transportLog = {
     },
     {
       invariantKind: "gap",
+      statement: "A file this module opens beside a page is filed in the path index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No repository root reaches this module, so no index is named from here.",
+    },
+    {
+      invariantKind: "gap",
       statement: "Nothing here has a lock against another writer of the same file.",
     },
     {

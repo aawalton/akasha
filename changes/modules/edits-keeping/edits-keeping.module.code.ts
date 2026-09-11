@@ -19,7 +19,7 @@ import {
   uncommittedPartAt,
   uncommittedPartsOf,
 } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
-import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
+import { partFiled, partUnfiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { sizeOnDisk } from "akasha/utils/fs/file-size/file-size.module.code.ts"
 
 const SLUG = "edits"
@@ -206,7 +206,10 @@ function appending(root: string, page: string, rows: readonly FileChange[]): und
 }
 
 function swept(root: string, page: string): undefined {
-  for (const at of partsAt(root, page)) rmSync(join(root, at), { force: true })
+  for (const at of partsAt(root, page)) {
+    rmSync(join(root, at), { force: true })
+    partUnfiled(root, at)
+  }
 }
 
 export function linesIn(root: string, page: string): readonly string[] {
