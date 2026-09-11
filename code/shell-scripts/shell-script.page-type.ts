@@ -14,8 +14,6 @@ export const shellScript = {
     "shell-script/statusline",
     "service-workstation/repos-empty-dir-purge",
     "module-property-group/scripting",
-    "text-property/install-path",
-    "select-property/only-on",
   ],
   extends: ["page-type/domain"],
   properties: [
