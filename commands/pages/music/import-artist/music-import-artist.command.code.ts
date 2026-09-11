@@ -43,9 +43,12 @@ import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.
 import {
   composedFor,
   type Put,
+  sourceFor,
 } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
-import { propertiesIfNamedOf } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import {
+  propertiesIfNamed,
+  type Source,
+} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { textIn, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { todayYYYYMMDD } from "akasha/utils/sync/today/today.module.code.ts"
@@ -255,8 +258,8 @@ const ARTIST_KEY = "artist"
 
 const ARTIST_SLUG_KEY = "artistSlug"
 
-function artistKeyIn(root: string): string {
-  const declared = propertiesIfNamedOf(SONG, root, (path) => valueAt(path, root))
+function artistKeyIn(source: Source): string {
+  const declared = propertiesIfNamed(SONG, source)
   const named = declared === null ? [] : declared.map((one) => one.key)
   return named.includes(ARTIST_KEY) ? ARTIST_KEY : ARTIST_SLUG_KEY
 }
@@ -273,7 +276,8 @@ async function songLanded(
   slug: string,
   fields: SongFields,
   artistName: string,
-  reach: Reach
+  reach: Reach,
+  source: Source
 ): Promise<Songed | { readonly refused: string }> {
   const worded = await wordsFor(reach, fields.title, artistName)
   const values: Value = underArtistKey(
@@ -283,14 +287,14 @@ async function songLanded(
       pageTypeSlug: SONG,
       slug,
     },
-    artistKeyIn(root)
+    artistKeyIn(source)
   )
   if (worded.words !== null) {
     values["lyricsSource"] = worded.words.lyricsSource
     if (worded.words.lyrics !== null) values["lyrics"] = TXT
     if (worded.words.syncedLyrics !== null) values["syncedLyrics"] = TXT
   }
-  const composed = composedFor(root, { pageTypeSlug: SONG, slug, values })
+  const composed = composedFor(root, { pageTypeSlug: SONG, slug, values }, source)
   if ("refused" in composed) return composed
   const edits = [edited(composed.put)]
   if (worded.words !== null) edits.push(...wordEdits(composed.put, worded.words))
@@ -372,21 +376,26 @@ export async function gathered(
   if (typeof found !== "string") return found
   const artist = await reach.getArtist(found)
   const named = artistIn(root, found, artist.name)
-  const composed = composedFor(root, {
-    pageTypeSlug: ARTIST,
-    slug: named.slug,
-    values: {
-      ...named.was,
-      ...mbArtistToFields({
-        mbid: found,
-        name: artist.name,
-        genres: extractGenres(artist),
-        today,
-      }),
+  const source = sourceFor(root)
+  const composed = composedFor(
+    root,
+    {
       pageTypeSlug: ARTIST,
       slug: named.slug,
+      values: {
+        ...named.was,
+        ...mbArtistToFields({
+          mbid: found,
+          name: artist.name,
+          genres: extractGenres(artist),
+          today,
+        }),
+        pageTypeSlug: ARTIST,
+        slug: named.slug,
+      },
     },
-  })
+    source
+  )
   if ("refused" in composed) return composed
   const changes: Asking[] = [edited(composed.put)]
   const catalogue = catalogueIn(root)
@@ -394,7 +403,15 @@ export async function gathered(
   let songsWithLyrics = 0
   let songsLyricsUnread = 0
   for (const one of songs.asked) {
-    const landed = await songLanded(root, catalogue, one.slug, one.fields, artist.name, reach)
+    const landed = await songLanded(
+      root,
+      catalogue,
+      one.slug,
+      one.fields,
+      artist.name,
+      reach,
+      source
+    )
     if ("refused" in landed) return landed
     changes.push(...landed.edits)
     if (landed.worded.words !== null) songsWithLyrics += 1

@@ -206,6 +206,18 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
+      statement: "The page types a composing reads are read once for every page it composes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller composing page by page may hand that reading in rather than paying it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller handing none is answered from a reading made for that one page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "One page refused refuses the whole list.",
     },
     {

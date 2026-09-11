@@ -14,6 +14,7 @@ import { STEM_CEILING } from "akasha/pages/naming/named-for/page-stem/page-stem.
 import {
   type Carried,
   propertiesFrom,
+  type Source,
   sourceIn,
 } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
@@ -199,7 +200,11 @@ export function endingRefused(
   return `${names}, and this write hands over ${shownAs(held)}, which ${why}. ${instead}`
 }
 
-export function composedFor(root: string, named: Naming): Composed {
+export function sourceFor(root: string): Source {
+  return sourceIn(root, (path) => valueAt(path, root))
+}
+
+export function composedFor(root: string, named: Naming, source?: Source): Composed {
   const tooLong = slugRefused(named.slug)
   if (tooLong !== null) return { refused: tooLong }
   const typed = listedAt(root, PAGE_TYPE, named.pageTypeSlug)
@@ -207,8 +212,7 @@ export function composedFor(root: string, named: Naming): Composed {
   if (typeAt === undefined) {
     return { refused: `\`${named.pageTypeSlug}\` names no page type the index holds` }
   }
-  const source = sourceIn(root, (path) => valueAt(path, root))
-  const carried = orderedIn(propertiesFrom(named.pageTypeSlug, source))
+  const carried = orderedIn(propertiesFrom(named.pageTypeSlug, source ?? sourceFor(root)))
   if (carried.length === 0) {
     return { refused: `\`${named.pageTypeSlug}\` declares no property, so nothing may be written` }
   }
@@ -313,8 +317,9 @@ export function foldedFor(root: string, named: readonly Naming[]): Folded {
   const puts: Put[] = []
   const kept: Kept[] = []
   const removes: string[] = []
+  const source = sourceFor(root)
   for (const one of named) {
-    const composed = composedFor(root, one)
+    const composed = composedFor(root, one, source)
     if ("refused" in composed) return { refused: composed.refused }
     puts.push(composed.put)
     for (const part of composed.parts) puts.push(part)
