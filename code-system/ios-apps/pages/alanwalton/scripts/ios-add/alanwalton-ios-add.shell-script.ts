@@ -5,7 +5,7 @@ export const alanwaltonIosAdd = {
   pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "alanwalton-ios-add",
-  definition: "the run that generates Alan's native project and applies his seam",
+  definition: "the run that makes or refreshes Alan's native project and applies his seam",
   shell: "sh",
   sourced: false,
   scripting: {},
