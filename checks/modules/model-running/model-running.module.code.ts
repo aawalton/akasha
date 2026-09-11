@@ -1,14 +1,14 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
+import { PAGES } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged, Running } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
-import { PAGES } from "../change-walking/change-walking.module.code.ts"
-import type { Judged, Running } from "../judging/judging.module.code.ts"
 
 const MODEL_CHECK_TYPE = "01a05911-aa15-776e-9726-ed4131cd6b51"
 

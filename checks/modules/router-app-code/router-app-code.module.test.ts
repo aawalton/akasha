@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { folderOf, modulesIn, serverNamed } from "./router-app-code.module.code.ts"
+import {
+  folderOf,
+  modulesIn,
+  serverNamed,
+} from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
 
 const PAGE = "hum/hum.router-app.ts"
 

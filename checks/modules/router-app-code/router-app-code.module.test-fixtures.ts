@@ -1,10 +1,10 @@
+import { staged } from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
+import { APP } from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
 import {
   listedFiled,
   pathFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { staged } from "../check-staging/check-staging.module.code.ts"
-import { APP } from "./router-app-code.module.code.ts"
 
 const SLUG = "web"
 

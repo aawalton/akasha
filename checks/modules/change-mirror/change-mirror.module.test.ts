@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { mirroredOf } from "akasha/checks/modules/change-mirror/change-mirror.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
-import { mirroredOf } from "./change-mirror.module.code.ts"
 
 const UNDER = "/var/tmp/"
 

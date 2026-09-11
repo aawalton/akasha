@@ -1,5 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { answeringOver } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -10,8 +12,6 @@ import {
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { said } from "akasha/utils/run/running/running.module.code.ts"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
-import { onDisk } from "./change-walking.module.code.ts"
 
 export const PAGE_AT = "akasha/checks-system/change-walking/held/held.module.ts"
 

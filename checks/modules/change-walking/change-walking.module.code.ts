@@ -1,5 +1,10 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import type {
+  Judged,
+  Running,
+  RunningAsync,
+} from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   pageNamed,
@@ -14,7 +19,6 @@ import { type Loaded, loadedFrom } from "akasha/pages/value/page-value.module.co
 import { isMissing } from "akasha/utils/fs/missing/missing.module.code.ts"
 import { sortedOnce } from "akasha/utils/narrow/sorted-once/sorted-once.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import type { Judged, Running, RunningAsync } from "../judging/judging.module.code.ts"
 
 export type Body = {
   readonly root: string

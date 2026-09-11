@@ -1,10 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import {
-  idTakenFrom,
-  indexTakenFrom,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   checkPagesIn,
   checksAt,
@@ -12,7 +6,7 @@ import {
   checksIn,
   judgingBy,
   ranOver,
-} from "./checking.module.code.ts"
+} from "akasha/checks/modules/checking/checking.module.code.ts"
 import {
   ADMITS,
   ADMITS_CHECK,
@@ -57,7 +51,13 @@ import {
   taking,
   UNLOADABLE_CHECK,
   WHOLE_TREE_CHECKS_TAKE,
-} from "./checking.module.test-fixtures.ts"
+} from "akasha/checks/modules/checking/checking.module.test-fixtures.ts"
+import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  idTakenFrom,
+  indexTakenFrom,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

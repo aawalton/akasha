@@ -1,18 +1,29 @@
 import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
+import type { Input } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import {
+  type Cost,
+  closing,
+  costOf,
+  opening,
+  recordCost,
+} from "akasha/checks/modules/cost/check-cost.module.code.ts"
+import type {
+  AnyAuditing,
+  AnyRunning,
+  Judged,
+  Judging,
+} from "akasha/checks/modules/judging/judging.module.code.ts"
+import { modelChecksIn } from "akasha/checks/modules/model-running/model-running.module.code.ts"
+import { refusalText } from "akasha/checks/modules/refusal-text/refusal-text.module.code.ts"
+import { framesOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { type Shadow, shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
-import { framesOf } from "../../../commands/modules/fault-saying/fault-saying.module.code.ts"
-import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
-import type { Input } from "../change-walking/change-walking.module.code.ts"
-import { type Cost, closing, costOf, opening, recordCost } from "../cost/check-cost.module.code.ts"
-import type { AnyAuditing, AnyRunning, Judged, Judging } from "../judging/judging.module.code.ts"
-import { modelChecksIn } from "../model-running/model-running.module.code.ts"
-import { refusalText } from "../refusal-text/refusal-text.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export type Phase = "change" | "worktree" | "deploy" | "audit"
 

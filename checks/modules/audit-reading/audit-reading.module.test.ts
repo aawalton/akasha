@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { renderAuditReading, summarizeAudit } from "./audit-reading.module.code.ts"
+import {
+  renderAuditReading,
+  summarizeAudit,
+} from "akasha/checks/modules/audit-reading/audit-reading.module.code.ts"
 
 test("a scan that saw nothing is no population rather than a finding of none", () => {
   const reading = summarizeAudit({ scanned: 0, compared: 0, findings: 0, coverage: "complete" })

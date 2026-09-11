@@ -1,15 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import {
-  indexTakenFrom,
-  listingFiled,
-  pathFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   everyFileIn,
   everythingIn,
@@ -28,7 +19,7 @@ import {
   type Selector,
   TEXTS,
   textNamed,
-} from "./change-walking.module.code.ts"
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import {
   BUILT_AT,
   CODE_AT,
@@ -49,7 +40,16 @@ import {
   treeWorld,
   VENDORED_AT,
   worldOf,
-} from "./change-walking.module.test-fixtures.ts"
+} from "akasha/checks/modules/change-walking/change-walking.module.test-fixtures.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  indexTakenFrom,
+  listingFiled,
+  pathFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

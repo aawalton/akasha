@@ -1,6 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import {
+  bodied,
+  change,
+  named,
+  scratch,
+  staged,
+} from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
+import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { importEdge } from "akasha/graph/edges/pages/import-edge.graph-edge.ts"
 import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
 import {
@@ -9,8 +17,6 @@ import {
   listedAt,
   readingIn,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { SCRATCH_AT } from "../../../commands/modules/scratching/scratching.module.code.ts"
-import { bodied, change, named, scratch, staged } from "./check-staging.module.code.ts"
 
 afterAll(scratch.sweep)
 
