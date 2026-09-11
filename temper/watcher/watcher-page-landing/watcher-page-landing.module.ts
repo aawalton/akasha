@@ -8,6 +8,7 @@ export const watcherPageLanding = {
   definition: "the shared half of landing a page and the jsonl rows beside it from the watcher",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

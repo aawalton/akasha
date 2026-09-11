@@ -31,6 +31,11 @@ import {
   waitFor,
   writingFor,
 } from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
+import {
+  HOUR_AT,
+  HOUR_ROWS_AT,
+  TASK_AT,
+} from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.test-fixtures.ts"
 
 const HOURS = "temper/holdings-sets/probe-hours/pages"
 
@@ -71,15 +76,11 @@ test("a page type import names the page type file from the root", () => {
 })
 
 test("a page path and the jsonl path beside it are the paths the landings already wrote", () => {
-  expect(pagePathIn(HOURS, "hour-2026-04-29-14", "temper-net-worth-hour")).toBe(
-    "temper/holdings-sets/probe-hours/pages/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.ts"
-  )
+  expect(pagePathIn(HOURS, "hour-2026-04-29-14", "temper-net-worth-hour")).toBe(HOUR_AT)
   expect(rowsPathIn(HOURS, "hour-2026-04-29-14", "temper-net-worth-hour", "snapshots")).toBe(
-    "temper/holdings-sets/probe-hours/pages/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.snapshots.jsonl"
+    HOUR_ROWS_AT
   )
-  expect(pagePathIn(TASKS, "hireling-mails", "temper-task")).toBe(
-    "temper/progressions/probe-tasks/pages/hireling-mails/hireling-mails.temper-task.ts"
-  )
+  expect(pagePathIn(TASKS, "hireling-mails", "temper-task")).toBe(TASK_AT)
   expect(rowsPathIn(TASKS, "hireling-mails", "temper-task", "progress")).toBe(
     "temper/progressions/probe-tasks/pages/hireling-mails/hireling-mails.temper-task.progress.jsonl"
   )
