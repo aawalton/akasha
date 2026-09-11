@@ -1,13 +1,5 @@
 import { createHash } from "node:crypto"
-import {
-  fstatSync,
-  mkdirSync,
-  readdirSync,
-  readFileSync,
-  rmSync,
-  statSync,
-  writeFileSync,
-} from "node:fs"
+import { type Dirent, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 
 export const READS_AT = ".git/data/reads"
@@ -48,21 +40,22 @@ export type Carry = {
   readonly from: string
 }
 
-export type Discard = "/dev/null" | "a pipe" | "a file only this redirect opened"
-
-export type Opening = {
-  readonly dev: number
-  readonly ino: number
-  readonly isFIFO: () => boolean
-  readonly isFile: () => boolean
-}
-
 export function blobIdOf(bytes: Uint8Array): string {
   return createHash("sha1").update(`blob ${bytes.length}\0`).update(bytes).digest("hex")
 }
 
+export const ENDING = ".jsonl"
+
+export function readsAt(root: string): string {
+  return join(root, READS_AT, "path")
+}
+
+export function readersAt(root: string, path: string): string {
+  return join(readsAt(root), path, "agent", "id")
+}
+
 export function readingFileAt(root: string, agentId: string, path: string): string {
-  return join(root, READS_AT, "agent", "id", agentId, "path", `${path}.jsonl`)
+  return join(readersAt(root, path), `${agentId}${ENDING}`)
 }
 
 export function reachOf(said: unknown): number | null {
@@ -96,10 +89,10 @@ function readingOf(value: unknown): Reading | null {
   return withReach({ path, oid, seenAt, carriedOid: left }, reachOf(readThrough))
 }
 
-export function readingIn(root: string, agentId: string, path: string): Reading | null {
+export function readingAt(at: string): Reading | null {
   let raw: string
   try {
-    raw = readFileSync(readingFileAt(root, agentId, path), "utf8")
+    raw = readFileSync(at, "utf8")
   } catch {
     return null
   }
@@ -110,6 +103,10 @@ export function readingIn(root: string, agentId: string, path: string): Reading 
   } catch {
     return null
   }
+}
+
+export function readingIn(root: string, agentId: string, path: string): Reading | null {
+  return readingAt(readingFileAt(root, agentId, path))
 }
 
 export function recordRead(root: string, agentId: string, held: Reading): undefined {
@@ -129,12 +126,12 @@ export function carriedInto(held: Reading, carry: Carry, to: string): Reading | 
   return withReach(said, reachOf(held.readThrough))
 }
 
-export function agentIdsIn(root: string): readonly string[] {
+export function agentIdsOf(root: string, path: string): readonly string[] {
   let found: readonly string[]
   try {
-    found = readdirSync(join(root, READS_AT, "agent", "id"), { withFileTypes: true })
-      .filter((one) => one.isDirectory())
-      .map((one) => one.name)
+    found = readdirSync(readersAt(root, path), { withFileTypes: true })
+      .filter((one) => one.isFile() && one.name.endsWith(ENDING))
+      .map((one) => one.name.slice(0, -ENDING.length))
   } catch {
     return []
   }
@@ -142,7 +139,6 @@ export function agentIdsIn(root: string): readonly string[] {
 }
 
 export function carryReadings(root: string, carries: readonly Carry[]): undefined {
-  const agentIds = agentIdsIn(root)
   for (const carry of carries) {
     let to: string
     try {
@@ -150,7 +146,7 @@ export function carryReadings(root: string, carries: readonly Carry[]): undefine
     } catch {
       continue
     }
-    for (const agentId of agentIds) {
+    for (const agentId of agentIdsOf(root, carry.was)) {
       const held = readingIn(root, agentId, carry.was)
       if (held === null) continue
       const carried = carriedInto(held, carry, to)
@@ -166,44 +162,57 @@ export function carryReadings(root: string, carries: readonly Carry[]): undefine
 }
 
 export function dropReadings(root: string, paths: readonly string[]): undefined {
-  const agentIds = agentIdsIn(root)
   for (const path of paths) {
-    for (const agentId of agentIds) {
-      try {
-        rmSync(readingFileAt(root, agentId, path), { force: true })
-      } catch {}
+    try {
+      rmSync(join(readsAt(root), path), { recursive: true, force: true })
+    } catch {}
+  }
+}
+
+export type Swept = {
+  readonly agent: number
+  readonly stale: number
+}
+
+function sweeping(at: string, gone: (file: string, name: string) => boolean): boolean {
+  let held: readonly Dirent[]
+  try {
+    held = readdirSync(at, { withFileTypes: true })
+  } catch {
+    return false
+  }
+  let left = false
+  for (const one of held) {
+    const next = join(at, one.name)
+    try {
+      if (one.isDirectory()) {
+        if (sweeping(next, gone)) left = true
+        else rmSync(next, { recursive: true, force: true })
+      } else if (gone(next, one.name)) {
+        rmSync(next, { force: true })
+      } else {
+        left = true
+      }
+    } catch {
+      left = true
     }
   }
+  return left
 }
 
-function same(one: Opening, other: Opening): boolean {
-  return one.dev === other.dev && one.ino === other.ino
-}
-
-export function discardedBy(
-  out: Opening,
-  inherited: Opening | null,
-  nowhere: Opening
-): Discard | null {
-  if (same(out, nowhere)) return "/dev/null"
-  if (out.isFIFO()) return "a pipe"
-  if (!out.isFile()) return null
-  if (inherited === null) return null
-  return same(out, inherited) ? null : "a file only this redirect opened"
-}
-
-export function inheritedOut(ppid: number): Opening | null {
-  try {
-    return statSync(`/proc/${ppid}/fd/1`)
-  } catch {
-    return null
-  }
-}
-
-export function discarded(): Discard | null {
-  try {
-    return discardedBy(fstatSync(1), inheritedOut(process.ppid), statSync("/dev/null"))
-  } catch {
-    return null
-  }
+export function sweptReadings(root: string, agentId: string | null, before: number): Swept {
+  const own = agentId === null || agentId === "" ? null : `${agentId}${ENDING}`
+  let agent = 0
+  let stale = 0
+  sweeping(readsAt(root), (at, name) => {
+    if (own !== null && name === own) {
+      agent += 1
+      return true
+    }
+    const held = readingAt(at)
+    if (held !== null && held.seenAt >= before) return false
+    stale += 1
+    return true
+  })
+  return { agent, stale }
 }

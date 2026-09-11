@@ -6,15 +6,21 @@ import {
   agentIn,
   cleared,
   clearingsAt,
+  KEPT_FOR,
   NAMED,
+  NOTHING_SWEPT,
   noted,
-  recordAt,
   replacing,
   SCOPE,
   seatIn,
   sourceIn,
+  took,
 } from "akasha/agents/hooks/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.code.ts"
-import { READS_AT, SUBAGENT_MARK } from "akasha/commands/modules/reading/reading.module.code.ts"
+import {
+  READS_AT,
+  readingFileAt,
+  SUBAGENT_MARK,
+} from "akasha/commands/modules/reading/reading.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
@@ -35,24 +41,30 @@ const KEEPING: readonly string[] = ["resume", "", "other", "Startup", "compactio
 
 const scratch = scratchWorld()
 
+const PAGE = "akasha/a.ts"
+
+function readingAt(root: string, agentId: string): string {
+  return readingFileAt(root, agentId, PAGE)
+}
+
+function seeded(root: string, agentId: string): string {
+  const at = readingAt(root, agentId)
+  mkdirSync(join(at, ".."), { recursive: true })
+  const said = { path: PAGE, oid: agentId, seenAt: Date.now() }
+  writeFileSync(at, `${JSON.stringify(said)}\n`)
+  return at
+}
+
 afterAll(() => {
   for (const one of [ONE, TWO, `${ONE}${SUBAGENT_MARK}suba`]) {
-    rmSync(recordAt(HERE, one), { recursive: true, force: true })
+    rmSync(readingAt(HERE, one), { force: true })
   }
   scratch.sweep()
 })
 
-function readingAt(root: string, agentId: string): string {
-  return join(recordAt(root, agentId), "path", "akasha", "a.ts.jsonl")
-}
-
 function rooted(): string {
   const root = scratch.rootFor("akasha-clearing-")
-  for (const one of [ONE, TWO]) {
-    const at = readingAt(root, one)
-    mkdirSync(join(at, ".."), { recursive: true })
-    writeFileSync(at, `{"path":"akasha/a.ts","oid":"${one}","seenAt":1}\n`)
-  }
+  for (const one of [ONE, TWO]) seeded(root, one)
   return root
 }
 
@@ -61,10 +73,7 @@ function bare(): string {
 }
 
 function planted(agentId: string): string {
-  const at = readingAt(HERE, agentId)
-  mkdirSync(join(at, ".."), { recursive: true })
-  writeFileSync(at, `{"path":"akasha/a.ts","oid":"${agentId}","seenAt":1}\n`)
-  return at
+  return seeded(HERE, agentId)
 }
 
 function payloadOf(source: string, acting?: string): string {
@@ -85,8 +94,10 @@ function ranWith(
   return { code: done.code, out: done.out }
 }
 
-test("the folder taken away is the one the reading module names", () => {
-  expect(recordAt("/r", ONE)).toBe(join("/r", READS_AT, "agent", "id", ONE))
+test("the reading taken away is the one the reading module names", () => {
+  expect(readingAt("/r", ONE)).toBe(
+    join("/r", READS_AT, "path", PAGE, "agent", "id", `${ONE}.jsonl`)
+  )
 })
 
 test("a startup, a clearing and a compaction each replace the context", () => {
@@ -100,21 +111,21 @@ test("a resumed session, and a source this does not name, replace nothing", () =
 test("a context replaced takes the record with it", () => {
   for (const one of REPLACING) {
     const root = rooted()
-    expect(cleared(root, ONE, one)).toBe(true)
-    expect(existsSync(recordAt(root, ONE))).toBe(false)
+    expect(took(cleared(root, ONE, one))).toBe(true)
+    expect(existsSync(readingAt(root, ONE))).toBe(false)
   }
 })
 
 test("a resumed session keeps its readings", () => {
   const root = rooted()
-  expect(cleared(root, ONE, "resume")).toBe(false)
+  expect(took(cleared(root, ONE, "resume"))).toBe(false)
   expect(existsSync(readingAt(root, ONE))).toBe(true)
 })
 
 test("a source this does not recognise leaves the record in place", () => {
   for (const one of KEEPING) {
     const root = rooted()
-    expect(cleared(root, ONE, one)).toBe(false)
+    expect(took(cleared(root, ONE, one))).toBe(false)
     expect(existsSync(readingAt(root, ONE))).toBe(true)
   }
 })
@@ -123,9 +134,18 @@ test("one agent's readings are cleared, never another's", () => {
   for (const one of REPLACING) {
     const root = rooted()
     cleared(root, ONE, one)
-    expect(existsSync(recordAt(root, ONE))).toBe(false)
+    expect(existsSync(readingAt(root, ONE))).toBe(false)
     expect(readFileSync(readingAt(root, TWO), "utf8")).toContain(TWO)
   }
+})
+
+test("a reading last seen more than a day ago goes whoever holds it", () => {
+  const root = rooted()
+  const at = readingAt(root, TWO)
+  const said = { path: PAGE, oid: TWO, seenAt: Date.now() - KEPT_FOR - 1 }
+  writeFileSync(at, `${JSON.stringify(said)}\n`)
+  expect(cleared(root, ONE, "compact")).toEqual({ agent: 1, stale: 1 })
+  expect(existsSync(at)).toBe(false)
 })
 
 const UNDER_ONE = [`${ONE}${SUBAGENT_MARK}suba`, `${ONE}${SUBAGENT_MARK}subb`]
@@ -136,19 +156,15 @@ const SEATED: readonly string[] = [ONE, ...UNDER_ONE, TWO, UNDER_TWO]
 
 function seated(): string {
   const root = scratch.rootFor("akasha-clearing-")
-  for (const one of SEATED) {
-    const at = readingAt(root, one)
-    mkdirSync(join(at, ".."), { recursive: true })
-    writeFileSync(at, `{"path":"akasha/a.ts","oid":"${one}","seenAt":1}\n`)
-  }
+  for (const one of SEATED) seeded(root, one)
   return root
 }
 
 test("a seat's subagents' records are left where they are when the seat's own context goes", () => {
   for (const one of REPLACING) {
     const root = seated()
-    expect(cleared(root, ONE, one)).toBe(true)
-    expect(existsSync(recordAt(root, ONE))).toBe(false)
+    expect(took(cleared(root, ONE, one))).toBe(true)
+    expect(existsSync(readingAt(root, ONE))).toBe(false)
     for (const said of UNDER_ONE) {
       expect(readFileSync(readingAt(root, said), "utf8")).toContain(said)
     }
@@ -159,8 +175,8 @@ test("a subagent starting takes its own record and no sibling's", () => {
   for (const one of REPLACING) {
     const root = seated()
     const held = UNDER_ONE[0] ?? ""
-    expect(cleared(root, held, one)).toBe(true)
-    expect(existsSync(recordAt(root, held))).toBe(false)
+    expect(took(cleared(root, held, one))).toBe(true)
+    expect(existsSync(readingAt(root, held))).toBe(false)
     for (const said of [ONE, UNDER_ONE[1] ?? "", TWO, UNDER_TWO]) {
       expect(readFileSync(readingAt(root, said), "utf8")).toContain(said)
     }
@@ -176,7 +192,7 @@ test("another seat's records remain while one seat's is cleared", () => {
 
 test("a resumed seat keeps its subagents' records too", () => {
   const root = seated()
-  expect(cleared(root, ONE, "resume")).toBe(false)
+  expect(took(cleared(root, ONE, "resume"))).toBe(false)
   for (const one of SEATED) expect(existsSync(readingAt(root, one))).toBe(true)
 })
 
@@ -186,11 +202,11 @@ test("another agent's readings remain through a source that clears nothing", () 
   expect(existsSync(readingAt(root, TWO))).toBe(true)
 })
 
-test("with no agent named, nothing is cleared", () => {
+test("with no agent named, no agent's own readings are cleared", () => {
   for (const one of REPLACING) {
     const root = rooted()
-    expect(cleared(root, null, one)).toBe(false)
-    expect(cleared(root, "", one)).toBe(false)
+    expect(took(cleared(root, null, one))).toBe(false)
+    expect(took(cleared(root, "", one))).toBe(false)
     expect(existsSync(readingAt(root, ONE))).toBe(true)
     expect(existsSync(readingAt(root, TWO))).toBe(true)
   }
@@ -198,18 +214,18 @@ test("with no agent named, nothing is cleared", () => {
 
 test("a record that is not there is no clearing, and nothing is put in its place", () => {
   const root = bare()
-  expect(cleared(root, ONE, "startup")).toBe(false)
+  expect(took(cleared(root, ONE, "startup"))).toBe(false)
   expect(existsSync(join(root, READS_AT))).toBe(false)
 })
 
 test("a clearing is written down where the records are", () => {
   const root = rooted()
-  const took = cleared(root, ONE, "startup")
-  noted(root, ONE, "startup", took)
+  noted(root, ONE, "startup", cleared(root, ONE, "startup"))
   const said = JSON.parse(readFileSync(clearingsAt(root), "utf8").trim()) as Record<string, unknown>
   expect(said.agentId).toBe(ONE)
   expect(said.source).toBe("startup")
   expect(said.took).toBe(true)
+  expect(said.stale).toBe(0)
 })
 
 test("a clearing that took no record is written down saying so", () => {
@@ -220,15 +236,15 @@ test("a clearing that took no record is written down saying so", () => {
 
 test("nothing is written down in a tree holding no record folder", () => {
   const root = bare()
-  noted(root, ONE, "startup", false)
+  noted(root, ONE, "startup", NOTHING_SWEPT)
   expect(existsSync(clearingsAt(root))).toBe(false)
   expect(existsSync(join(root, READS_AT))).toBe(false)
 })
 
 test("a clearing is added to what is written down rather than replacing it", () => {
   const root = rooted()
-  noted(root, ONE, "startup", true)
-  noted(root, TWO, "compact", false)
+  noted(root, ONE, "startup", { agent: 1, stale: 0 })
+  noted(root, TWO, "compact", NOTHING_SWEPT)
   const lines = readFileSync(clearingsAt(root), "utf8").trim().split("\n")
   expect(lines).toHaveLength(2)
   expect(lines[1]).toContain(TWO)
@@ -236,10 +252,10 @@ test("a clearing is added to what is written down rather than replacing it", () 
 
 test("a record that cannot be reached is left as it is", () => {
   const root = bare()
-  const at = join(root, READS_AT, "agent", "id")
+  const at = join(root, READS_AT, "path")
   mkdirSync(join(at, ".."), { recursive: true })
   writeFileSync(at, "not a folder\n")
-  expect(cleared(root, ONE, "startup")).toBe(false)
+  expect(took(cleared(root, ONE, "startup"))).toBe(false)
   expect(readFileSync(at, "utf8")).toBe("not a folder\n")
 })
 
@@ -297,7 +313,7 @@ test("the hook run as the harness runs it clears the record under the root it si
   const one = planted(ONE)
   expect(ranWith("startup", ONE).code).toBe(0)
   expect(existsSync(one)).toBe(false)
-  expect(existsSync(recordAt(HERE, ONE))).toBe(false)
+  expect(existsSync(readingAt(HERE, ONE))).toBe(false)
 })
 
 test("the hook run as the harness runs it takes the subagent the payload names", () => {

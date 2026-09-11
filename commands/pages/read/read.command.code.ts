@@ -5,9 +5,11 @@ import { bytesAt, textOf } from "akasha/commands/modules/body-reaching/body-reac
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { bodyRead, differenceOf } from "akasha/commands/modules/differing/differing.module.code.ts"
 import {
-  blobIdOf,
   type Discard,
   discarded,
+} from "akasha/commands/modules/output-reaching/output-reaching.module.code.ts"
+import {
+  blobIdOf,
   partly,
   type Reading,
   reachOf,

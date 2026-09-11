@@ -64,7 +64,19 @@ export const clearReadsOnContextReplaced = {
     },
     {
       invariantKind: "departure",
-      statement: "With no agent named nothing is cleared.",
+      statement: "With no agent named only the stale readings go.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading last seen more than a day ago goes, whoever holds it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The clearing and the sweeping are one reach across the record.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How many stale readings went is written down beside whether a record was taken.",
     },
     {
       invariantKind: "departure",
@@ -100,7 +112,7 @@ export const clearReadsOnContextReplaced = {
       statement: "This hook is the only hook that does.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A record an ended agent left behind is taken away.",
     },
   ],

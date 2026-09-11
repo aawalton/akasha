@@ -8,10 +8,15 @@ export const reading = {
   definition: "what an agent has read, kept beside the index and answered in one file read",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading is found by agent and then by path.",
+      statement: "A reading is found by path and then by agent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which agents read a path is one listing rather than an ask of every agent.",
     },
     {
       invariantKind: "departure",
@@ -122,20 +127,27 @@ export const reading = {
     },
     {
       invariantKind: "departure",
+      statement: "A removal takes the whole folder a path's readings sit in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading last seen before a moment handed in is swept, whoever holds it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading whose line will not read is swept as one last seen before then.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A directory a sweep leaves holding nothing goes with what was under it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A read whose output would not reach the agent is refused and leaves no reading.",
     },
     {
       invariantKind: "departure",
-      statement: "Output going to a pipe or to `/dev/null` does not reach the agent.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Output going to a file the shell that called the read did not already have does not reach the agent.",
-    },
-    {
-      invariantKind: "stopgap",
-      statement: "A file goes unjudged where the calling shell's own output cannot be read.",
+      statement: "Whether a read's output reached the agent is judged elsewhere and read here.",
     },
     {
       invariantKind: "gap",

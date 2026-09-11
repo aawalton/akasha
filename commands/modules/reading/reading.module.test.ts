@@ -1,16 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import type { Opening } from "akasha/commands/modules/reading/reading.module.code.ts"
 import {
   ACTING_NAMED,
-  agentIdsIn,
+  agentIdsOf,
   blobIdOf,
   carriedInto,
   carryReadings,
-  discardedBy,
   dropReadings,
-  inheritedOut,
   partly,
   READS_AT,
   readingFileAt,
@@ -20,42 +17,22 @@ import {
   SUBAGENT_MARK,
   sameBody,
   seatIn,
+  sweptReadings,
   writerIn,
 } from "akasha/commands/modules/reading/reading.module.code.ts"
-import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import {
+  A,
+  AGENT,
+  B,
+  DAY,
+  OTHER,
+  scratch,
+  thinAt,
+  UNDER,
+} from "akasha/commands/modules/reading/reading.module.test-fixtures.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 
-const scratch = scratchWorld()
-
 afterAll(scratch.sweep)
-
-const AGENT = "01a04e96-c80a-79ef-819f-a455a96a0e54"
-
-const OTHER = "01a04e96-c80a-79ef-819f-000000000000"
-
-const A = "akasha/a.ts"
-
-const B = "akasha/b.ts"
-
-function thinAt(root: string, path: string, said: Record<string, unknown>): undefined {
-  const at = readingFileAt(root, AGENT, path)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, `${JSON.stringify(said)}\n`)
-}
-
-function opening(said: Partial<Opening>): Opening {
-  return {
-    dev: 0,
-    ino: 0,
-    isFIFO: () => false,
-    isFile: () => true,
-    ...said,
-  }
-}
-
-const NOWHERE = opening({ dev: 1, ino: 1, isFile: () => false })
-
-const ELSEWHERE = opening({ dev: 9, ino: 9 })
 
 test("a blob id is git's own over the bytes", () => {
   const said = blobIdOf(new TextEncoder().encode("hello world\n"))
@@ -66,9 +43,9 @@ test("an empty body still has an id", () => {
   expect(blobIdOf(new Uint8Array())).toBe("e69de29bb2d1d6434b8b29ae775ad8c2e48c5391")
 })
 
-test("a reading is found by agent, then by path", () => {
+test("a reading is found by path, then by agent", () => {
   const at = readingFileAt("/r", AGENT, "akasha/x/y.ts")
-  expect(at).toBe(join("/r", READS_AT, "agent", "id", AGENT, "path", "akasha/x/y.ts.jsonl"))
+  expect(at).toBe(join("/r", READS_AT, "path", "akasha/x/y.ts", "agent", "id", `${AGENT}.jsonl`))
 })
 
 test("a reading recorded is the reading read back", () => {
@@ -181,7 +158,7 @@ test("every agent holding the body is carried, not the first one found", () => {
   for (const one of [AGENT, OTHER]) {
     recordRead(root, one, { path: A, oid: was, seenAt: 1, carriedOid: null })
   }
-  expect(agentIdsIn(root)).toEqual([OTHER, AGENT])
+  expect(agentIdsOf(root, A)).toEqual([OTHER, AGENT])
   carryReadings(root, [{ was: A, now: B, from: was }])
   for (const one of [AGENT, OTHER]) {
     expect(readingIn(root, one, B)?.carriedOid).toBe(now)
@@ -210,8 +187,6 @@ test("forgetting a reading nobody holds takes nothing away and throws nothing", 
   expect(() => dropReadings(scratch.rootFor("akasha-reading-"), [A])).not.toThrow()
   expect(readingIn(root, AGENT, B)?.oid).toBe("two")
 })
-
-const UNDER = `${AGENT}${SUBAGENT_MARK}sub-one`
 
 test("the mark that opens a subagent's name is spelled here once", () => {
   expect(SUBAGENT_MARK).toBe("--")
@@ -275,54 +250,49 @@ test("a composite owner is a folder of its own beside the seat's", () => {
   for (const one of [AGENT, UNDER]) {
     recordRead(root, one, { path: A, oid: one, seenAt: 1, carriedOid: null })
   }
-  expect(agentIdsIn(root)).toEqual([AGENT, UNDER])
+  expect(agentIdsOf(root, A)).toEqual([AGENT, UNDER])
 })
 
-test("output at /dev/null is thrown away", () => {
-  expect(discardedBy(opening({ dev: 1, ino: 1 }), ELSEWHERE, NOWHERE)).toBe("/dev/null")
+test("a sweep takes the agent it names and leaves another agent's fresh reading", () => {
+  const root = scratch.rootFor("akasha-reading-")
+  const now = Date.now()
+  for (const one of [AGENT, OTHER]) {
+    recordRead(root, one, { path: A, oid: one, seenAt: now, carriedOid: null })
+  }
+  expect(sweptReadings(root, AGENT, now - DAY)).toEqual({ agent: 1, stale: 0 })
+  expect(readingIn(root, AGENT, A)).toBeNull()
+  expect(readingIn(root, OTHER, A)?.oid).toBe(OTHER)
 })
 
-test("output down a pipe is thrown away", () => {
-  const out = opening({
-    dev: 2,
-    ino: 2,
-    isFIFO: () => true,
-    isFile: () => false,
-  })
-  expect(discardedBy(out, ELSEWHERE, NOWHERE)).toBe("a pipe")
+test("a sweep takes every reading last seen before the moment it is handed", () => {
+  const root = scratch.rootFor("akasha-reading-")
+  const now = Date.now()
+  recordRead(root, AGENT, { path: A, oid: "old", seenAt: now - DAY - 1, carriedOid: null })
+  recordRead(root, OTHER, { path: B, oid: "new", seenAt: now, carriedOid: null })
+  expect(sweptReadings(root, null, now - DAY)).toEqual({ agent: 0, stale: 1 })
+  expect(readingIn(root, AGENT, A)).toBeNull()
+  expect(readingIn(root, OTHER, B)?.oid).toBe("new")
 })
 
-test("output in the file the shell it was called from already had is no redirect", () => {
-  const out = opening({ dev: 3, ino: 3 })
-  expect(discardedBy(out, opening({ dev: 3, ino: 3 }), NOWHERE)).toBeNull()
+test("a sweep leaves behind no directory holding nothing", () => {
+  const root = scratch.rootFor("akasha-reading-")
+  recordRead(root, AGENT, { path: A, oid: "one", seenAt: 1, carriedOid: null })
+  sweptReadings(root, null, Date.now() - DAY)
+  expect(existsSync(join(root, READS_AT, "path", "akasha"))).toBe(false)
 })
 
-test("output in a file that shell did not have is a redirect, errors going there or not", () => {
-  const out = opening({ dev: 3, ino: 3 })
-  expect(discardedBy(out, opening({ dev: 4, ino: 4 }), NOWHERE)).toBe(
-    "a file only this redirect opened"
-  )
+test("a sweep over a record that is not there takes nothing and throws nothing", () => {
+  const root = scratch.rootFor("akasha-reading-")
+  expect(sweptReadings(root, AGENT, Date.now())).toEqual({ agent: 0, stale: 0 })
 })
 
-test("a file redirect goes unjudged where the shell's own output cannot be read", () => {
-  const out = opening({ dev: 8, ino: 8 })
-  expect(discardedBy(out, null, NOWHERE)).toBeNull()
-})
-
-test("a pipe is thrown away though the shell's own output cannot be read", () => {
-  const out = opening({ dev: 9, ino: 9, isFIFO: () => true, isFile: () => false })
-  expect(discardedBy(out, null, NOWHERE)).toBe("a pipe")
-})
-
-test("the output a living process holds is answered, and a pid holding none answers nothing", () => {
-  const own = inheritedOut(process.pid)
-  expect(own === null ? null : typeof own.ino).toBe("number")
-  expect(inheritedOut(-1)).toBeNull()
-})
-
-test("output at a terminal reaches whoever asked", () => {
-  const out = opening({ dev: 5, ino: 5, isFile: () => false })
-  expect(discardedBy(out, ELSEWHERE, NOWHERE)).toBeNull()
+test("a reading whose line will not parse is swept as stale", () => {
+  const root = scratch.rootFor("akasha-reading-")
+  const at = readingFileAt(root, AGENT, A)
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, "{ not json\n")
+  expect(sweptReadings(root, null, 0).stale).toBe(1)
+  expect(existsSync(at)).toBe(false)
 })
 
 test("a line carrying no reach into the body means the whole body reached the agent", () => {
