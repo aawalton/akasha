@@ -1,9 +1,12 @@
 import {
   buildAllTables,
   getPlayerPos,
-} from "../map-data-build-tables/map-data-build-tables.module.code.ts"
-import { LIB_IDENTIFIER } from "../map-data-constants/map-data-constants.module.code.ts"
-import { INTERNAL, LIB } from "../map-data-lib-state/map-data-lib-state.module.code.ts"
+} from "akasha/temper/lib-map-data/map-data-build-tables/map-data-build-tables.module.code.ts"
+import { LIB_IDENTIFIER } from "akasha/temper/lib-map-data/map-data-constants/map-data-constants.module.code.ts"
+import {
+  INTERNAL,
+  LIB,
+} from "akasha/temper/lib-map-data/map-data-lib-state/map-data-lib-state.module.code.ts"
 
 export function initEvents(this: void): undefined {
   const approvedInteractionTypes: Record<string, boolean> = {}

@@ -1,6 +1,9 @@
+import {
+  asMetatableView,
+  asUserdataView,
+} from "akasha/temper/lib-map-data/map-data-casts/map-data-casts.module.code.ts"
+import { INTERNAL } from "akasha/temper/lib-map-data/map-data-lib-state/map-data-lib-state.module.code.ts"
 import { isTable } from "akasha/temper/narrow/is-table/is-table.module.code.ts"
-import { asMetatableView, asUserdataView } from "../map-data-casts/map-data-casts.module.code.ts"
-import { INTERNAL } from "../map-data-lib-state/map-data-lib-state.module.code.ts"
 
 const hasLogger = LibDebugLogger !== undefined
 const hasViewer = DebugLogViewer !== undefined

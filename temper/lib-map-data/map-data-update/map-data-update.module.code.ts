@@ -1,6 +1,9 @@
-import { LIB_IDENTIFIER } from "../map-data-constants/map-data-constants.module.code.ts"
-import { INTERNAL, LIB } from "../map-data-lib-state/map-data-lib-state.module.code.ts"
-import type { Internal } from "../map-data-types/map-data-types.module.code.ts"
+import { LIB_IDENTIFIER } from "akasha/temper/lib-map-data/map-data-constants/map-data-constants.module.code.ts"
+import {
+  INTERNAL,
+  LIB,
+} from "akasha/temper/lib-map-data/map-data-lib-state/map-data-lib-state.module.code.ts"
+import type { Internal } from "akasha/temper/lib-map-data/map-data-types/map-data-types.module.code.ts"
 
 function requireGps(this: void): LibGps3 {
   if (LibGPS3 === undefined) {

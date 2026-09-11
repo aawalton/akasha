@@ -1,4 +1,7 @@
-import { INTERNAL, LIB } from "../map-data-lib-state/map-data-lib-state.module.code.ts"
+import {
+  INTERNAL,
+  LIB,
+} from "akasha/temper/lib-map-data/map-data-lib-state/map-data-lib-state.module.code.ts"
 
 function buildMapNames(this: void): undefined {
   let maxMapId: number | undefined

@@ -4,7 +4,7 @@ import type {
   Lib,
   MetatableView,
   UserdataView,
-} from "../map-data-types/map-data-types.module.code.ts"
+} from "akasha/temper/lib-map-data/map-data-types/map-data-types.module.code.ts"
 
 export function asLib(value: unknown): Lib {
   return value as Lib

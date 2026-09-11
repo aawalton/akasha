@@ -1,4 +1,7 @@
-import { asInternal, asLib } from "../map-data-casts/map-data-casts.module.code.ts"
+import {
+  asInternal,
+  asLib,
+} from "akasha/temper/lib-map-data/map-data-casts/map-data-casts.module.code.ts"
 import {
   CALLBACK_TYPE,
   LIB_IDENTIFIER,
@@ -8,9 +11,12 @@ import {
   MAX_NUM_MAPIDS,
   MAX_NUM_ZONEIDS,
   MAX_NUM_ZONEINDEXES,
-} from "../map-data-constants/map-data-constants.module.code.ts"
-import { MAP_DATA } from "../map-data-table/map-data-table.module.code.ts"
-import type { Internal, Lib } from "../map-data-types/map-data-types.module.code.ts"
+} from "akasha/temper/lib-map-data/map-data-constants/map-data-constants.module.code.ts"
+import { MAP_DATA } from "akasha/temper/lib-map-data/map-data-table/map-data-table.module.code.ts"
+import type {
+  Internal,
+  Lib,
+} from "akasha/temper/lib-map-data/map-data-types/map-data-types.module.code.ts"
 
 export const INTERNAL: Internal = asInternal({
   show_log: false,

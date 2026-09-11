@@ -1,5 +1,11 @@
-import { INTERNAL, LIB } from "../map-data-lib-state/map-data-lib-state.module.code.ts"
-import type { Internal, Lib } from "../map-data-types/map-data-types.module.code.ts"
+import {
+  INTERNAL,
+  LIB,
+} from "akasha/temper/lib-map-data/map-data-lib-state/map-data-lib-state.module.code.ts"
+import type {
+  Internal,
+  Lib,
+} from "akasha/temper/lib-map-data/map-data-types/map-data-types.module.code.ts"
 
 export function initMapQueries(this: void): undefined {
   LIB.RegisterCallback = function (
