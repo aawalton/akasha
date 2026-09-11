@@ -2,7 +2,7 @@ import type {
   Landed,
   LandingDeps,
   Tried,
-} from "../watcher-page-landing/watcher-page-landing.module.code.ts"
+} from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
 import {
   contentIn,
   insertedByInstant,
@@ -18,7 +18,7 @@ import {
   textIn,
   triedFrom,
   writingFor,
-} from "../watcher-page-landing/watcher-page-landing.module.code.ts"
+} from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
 
 const FOLDER = "temper/holdings-sets/temper-net-worth-hours/pages"
 

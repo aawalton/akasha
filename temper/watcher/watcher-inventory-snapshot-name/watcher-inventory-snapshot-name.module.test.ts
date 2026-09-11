@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   inventoryChunkName,
   inventorySnapshotName,
-} from "./watcher-inventory-snapshot-name.module.code.ts"
+} from "akasha/temper/watcher/watcher-inventory-snapshot-name/watcher-inventory-snapshot-name.module.code.ts"
 
 test("a snapshot is named for the moment the data was captured", () => {
   expect(inventorySnapshotName("2026-09-02T13:45:07.000Z")).toBe("2026-09-02-13-45-07")

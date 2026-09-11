@@ -1,12 +1,15 @@
 import { expect, test } from "bun:test"
-import { hashContent } from "../watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
-import type { SideFileDisk, SideFileValues } from "./watcher-side-file.module.code.ts"
+import { hashContent } from "akasha/temper/watcher/watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
+import type {
+  SideFileDisk,
+  SideFileValues,
+} from "akasha/temper/watcher/watcher-side-file/watcher-side-file.module.code.ts"
 import {
   absentSideFileValues,
   buildSideFileContent,
   REQUIRED_SIDE_FILE_VALUES,
   writeSideFileIfChanged,
-} from "./watcher-side-file.module.code.ts"
+} from "akasha/temper/watcher/watcher-side-file/watcher-side-file.module.code.ts"
 
 const WHOLE: SideFileValues = {
   logging: { level: "info" },

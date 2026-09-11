@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { rollVerdicts, tasksThatRoll } from "./watcher-task-rolling.module.code.ts"
+import {
+  rollVerdicts,
+  tasksThatRoll,
+} from "akasha/temper/watcher/watcher-task-rolling/watcher-task-rolling.module.code.ts"
 
 const ROSTER = ["c1", "c2", "c3"]
 

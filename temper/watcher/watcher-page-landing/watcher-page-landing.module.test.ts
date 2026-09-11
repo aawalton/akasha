@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import type { Landing, ReadPages, Tried } from "./watcher-page-landing.module.code.ts"
+import type {
+  Landing,
+  ReadPages,
+  Tried,
+} from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
 import {
   besidePathOf,
   besidePathsFor,
@@ -26,7 +30,7 @@ import {
   typeNameFor,
   waitFor,
   writingFor,
-} from "./watcher-page-landing.module.code.ts"
+} from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
 
 const HOURS = "temper/holdings-sets/probe-hours/pages"
 

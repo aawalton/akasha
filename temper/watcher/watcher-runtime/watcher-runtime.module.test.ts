@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { isSourceRuntime } from "./watcher-runtime.module.code.ts"
+import { isSourceRuntime } from "akasha/temper/watcher/watcher-runtime/watcher-runtime.module.code.ts"
 
 test("the word source means the worker runs from source", () => {
   expect(isSourceRuntime({ WATCHER_RUNTIME: "source" })).toBe(true)

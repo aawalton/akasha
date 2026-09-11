@@ -1,10 +1,10 @@
 import { patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
-import { readAccountSummaries } from "akasha/temper/catalog-host/saved-variables-reader/saved-variables-reader.module.code.ts"
 import {
   CATALOG_DOMAIN_KEYS,
   type DomainKey,
-} from "../../catalog-core/domain-keys/domain-keys.module.code.ts"
-import { log } from "../watcher-logging/watcher-logging.module.code.ts"
+} from "akasha/temper/catalog-core/domain-keys/domain-keys.module.code.ts"
+import { readAccountSummaries } from "akasha/temper/catalog-host/saved-variables-reader/saved-variables-reader.module.code.ts"
+import { log } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
 
 export const CATALOG_DOMAIN_PAGE_TYPE_SLUG = "temper-catalog-domain"
 

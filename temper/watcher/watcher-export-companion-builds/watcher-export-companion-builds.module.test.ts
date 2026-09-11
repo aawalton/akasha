@@ -1,11 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import { asPage } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import type {
-  SignedInAnswer,
-  SignedInReader,
-} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-import type { CompanionBuildsSurroundings } from "./watcher-export-companion-builds.module.code.ts"
+import type { CompanionBuildsSurroundings } from "akasha/temper/watcher/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"
 import {
   readTargetBuilds,
   runExportCompanionBuilds,
@@ -13,7 +9,11 @@ import {
   targetsAsConfigInputs,
   updatedAtSeconds,
   withTargetBuilds,
-} from "./watcher-export-companion-builds.module.code.ts"
+} from "akasha/temper/watcher/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"
+import type {
+  SignedInAnswer,
+  SignedInReader,
+} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 const NOW = 1650000000000
 

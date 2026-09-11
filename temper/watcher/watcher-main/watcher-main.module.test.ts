@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { DispatchHandlerArgs } from "../watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"
-import { FILE_TYPES } from "../watcher-file-type/watcher-file-type.module.code.ts"
+import type { DispatchHandlerArgs } from "akasha/temper/watcher/watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"
+import { FILE_TYPES } from "akasha/temper/watcher/watcher-file-type/watcher-file-type.module.code.ts"
 import {
   type ExitWanted,
   fatalLine,
@@ -8,7 +8,7 @@ import {
   syncInventoryAtStart,
   tryUpdate,
   watchedLabel,
-} from "./watcher-main.module.code.ts"
+} from "akasha/temper/watcher/watcher-main/watcher-main.module.code.ts"
 import {
   answerOf,
   attemptOf,
@@ -28,7 +28,7 @@ import {
   startWith,
   syncOf,
   updating,
-} from "./watcher-main.module.test-fixtures.ts"
+} from "akasha/temper/watcher/watcher-main/watcher-main.module.test-fixtures.ts"
 
 test("every watched file name is the base name the legacy config built", () => {
   const built = FILE_TYPES.map((t) => CONFIG[SOURCE_KEY_FOR_TEST[t]])

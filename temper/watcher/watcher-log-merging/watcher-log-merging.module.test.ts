@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { WatcherLogLine } from "../watcher-log-line/watcher-log-line.module.code.ts"
-import { mergeNewestFirst } from "./watcher-log-merging.module.code.ts"
+import type { WatcherLogLine } from "akasha/temper/watcher/watcher-log-line/watcher-log-line.module.code.ts"
+import { mergeNewestFirst } from "akasha/temper/watcher/watcher-log-merging/watcher-log-merging.module.code.ts"
 
 const at = (timestamp: string, source: "watcher" | "tray"): WatcherLogLine => ({
   timestamp,

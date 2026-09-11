@@ -1,11 +1,10 @@
 import { expect, test } from "bun:test"
-import type { SyncOperation } from "../watcher-run-outcome/watcher-run-outcome.module.code.ts"
-import { WATCHER_VERSION } from "../watcher-version/watcher-version.module.code.ts"
+import type { SyncOperation } from "akasha/temper/watcher/watcher-run-outcome/watcher-run-outcome.module.code.ts"
 import type {
   EnrolmentRead,
   EnrolmentWrite,
   RunReportingSeams,
-} from "./watcher-run-reporting.module.code.ts"
+} from "akasha/temper/watcher/watcher-run-reporting/watcher-run-reporting.module.code.ts"
 import {
   ACCOUNT_KEY,
   ENROLMENT_PAGE_TYPE_SLUG,
@@ -14,7 +13,8 @@ import {
   OUTCOME_KEY,
   reportRunOutcome,
   storedOperations,
-} from "./watcher-run-reporting.module.code.ts"
+} from "akasha/temper/watcher/watcher-run-reporting/watcher-run-reporting.module.code.ts"
+import { WATCHER_VERSION } from "akasha/temper/watcher/watcher-version/watcher-version.module.code.ts"
 
 const RAN_AT = "2026-09-02T10:00:00.000Z"
 

@@ -1,11 +1,12 @@
-import { buildConfig, type WatcherConfig } from "../watcher-config/watcher-config.module.code.ts"
+import {
+  buildConfig,
+  type WatcherConfig,
+} from "akasha/temper/watcher/watcher-config/watcher-config.module.code.ts"
 import type {
   DispatchAnswer,
   DispatchHandlerArgs,
-} from "../watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"
-import type { FileType } from "../watcher-file-type/watcher-file-type.module.code.ts"
-import type { SignedInAnswer } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-import { initialFileState } from "../watcher-state/watcher-state.module.code.ts"
+} from "akasha/temper/watcher/watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"
+import type { FileType } from "akasha/temper/watcher/watcher-file-type/watcher-file-type.module.code.ts"
 import {
   type Dispatching,
   type InventorySync,
@@ -16,7 +17,9 @@ import {
   type Updating,
   type WatcherStart,
   type WatcherStartOptions,
-} from "./watcher-main.module.code.ts"
+} from "akasha/temper/watcher/watcher-main/watcher-main.module.code.ts"
+import type { SignedInAnswer } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import { initialFileState } from "akasha/temper/watcher/watcher-state/watcher-state.module.code.ts"
 
 export const SCRATCH_AT = "/var/tmp"
 

@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import { FILE_TYPES } from "../watcher-file-type/watcher-file-type.module.code.ts"
-import { buildConfig, sourcePathFor } from "./watcher-config.module.code.ts"
+import {
+  buildConfig,
+  sourcePathFor,
+} from "akasha/temper/watcher/watcher-config/watcher-config.module.code.ts"
+import { FILE_TYPES } from "akasha/temper/watcher/watcher-file-type/watcher-file-type.module.code.ts"
 
 const DIRS = { savedVarsDir: "/game/SavedVariables", addonsDir: "/game/AddOns" }
 

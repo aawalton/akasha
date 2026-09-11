@@ -1,8 +1,6 @@
 import { expect, test } from "bun:test"
 import { asPage } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import { createNewCompanion } from "akasha/temper/companions-core/companion-factory/companion-factory.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
-import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   COMPANION_IDS_WITH_DEF_ID,
   type CompanionImportPorts,
@@ -11,7 +9,9 @@ import {
   planCompanionImport,
   readCompanionSavedVariables,
   runImportCompanions,
-} from "./watcher-import-companions.module.code.ts"
+} from "akasha/temper/watcher/watcher-import-companions/watcher-import-companions.module.code.ts"
+import type { SignedInReader } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 
 const EMBER_HASH = "AjEINDEMQxDEMQxDAwMDFDADAAAAAAa4"
 

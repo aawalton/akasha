@@ -2,7 +2,7 @@ import type {
   Landed,
   LandingDeps,
   Tried,
-} from "../watcher-page-landing/watcher-page-landing.module.code.ts"
+} from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
 import {
   closingFor,
   contentIn,
@@ -14,7 +14,7 @@ import {
   rowsPathIn,
   triedFrom,
   writingFor,
-} from "../watcher-page-landing/watcher-page-landing.module.code.ts"
+} from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
 
 const FOLDER = "temper/progressions/temper-tasks/pages"
 

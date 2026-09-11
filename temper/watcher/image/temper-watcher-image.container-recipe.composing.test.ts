@@ -2,7 +2,10 @@ import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
-import { crateCopiesIn, recipeIn } from "./temper-watcher-image.container-recipe.composing.code.ts"
+import {
+  crateCopiesIn,
+  recipeIn,
+} from "akasha/temper/watcher/image/temper-watcher-image.container-recipe.composing.code.ts"
 
 const ROOT = codeRoot()
 

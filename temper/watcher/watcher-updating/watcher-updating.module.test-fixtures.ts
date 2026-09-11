@@ -2,7 +2,7 @@ import type {
   FetchingBytes,
   SourceRepo,
   VersionResponseObservation,
-} from "./watcher-updating.module.code.ts"
+} from "akasha/temper/watcher/watcher-updating/watcher-updating.module.code.ts"
 
 export const RUNNING = "3f3a986e34583abb8d0112cd8be450eb309bc779"
 export const DEPLOYED = "c5ea83760f1e4a9b8d3c2f5e7a1b9d4c6e8f0a2b"

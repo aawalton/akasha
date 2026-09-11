@@ -7,7 +7,7 @@ import {
   matchesSnapshot,
   readFileWhenStable,
   type StatSnapshot,
-} from "./watcher-stable-read.module.code.ts"
+} from "akasha/temper/watcher/watcher-stable-read/watcher-stable-read.module.code.ts"
 
 const SCRATCH_AT = "/var/tmp"
 

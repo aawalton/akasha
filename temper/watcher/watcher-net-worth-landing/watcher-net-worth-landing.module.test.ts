@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import type { LandingDeps } from "../watcher-page-landing/watcher-page-landing.module.code.ts"
 import {
   capturedAtOf,
   landNetWorthReading,
@@ -11,7 +10,8 @@ import {
   netWorthHourTitle,
   readingLine,
   snapshotsWith,
-} from "./watcher-net-worth-landing.module.code.ts"
+} from "akasha/temper/watcher/watcher-net-worth-landing/watcher-net-worth-landing.module.code.ts"
+import type { LandingDeps } from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
 
 const FIRST_MS = 1777473705275
 

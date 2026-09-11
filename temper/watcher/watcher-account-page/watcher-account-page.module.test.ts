@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import type { AccountPageUpsert } from "./watcher-account-page.module.code.ts"
-import { ACCOUNT_PAGE_TYPE_SLUG, resolveAccountPageId } from "./watcher-account-page.module.code.ts"
+import type { AccountPageUpsert } from "akasha/temper/watcher/watcher-account-page/watcher-account-page.module.code.ts"
+import {
+  ACCOUNT_PAGE_TYPE_SLUG,
+  resolveAccountPageId,
+} from "akasha/temper/watcher/watcher-account-page/watcher-account-page.module.code.ts"
 
 function answering(id: unknown): { upsert: AccountPageUpsert; seen: unknown[] } {
   const seen: unknown[] = []

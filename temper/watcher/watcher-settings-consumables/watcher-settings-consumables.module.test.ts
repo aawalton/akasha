@@ -9,7 +9,7 @@ import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/inven
 import type {
   ReadFiles,
   ReadPages,
-} from "../watcher-page-landing/watcher-page-landing.module.code.ts"
+} from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
 import {
   type BuyStock,
   compileBuyStock,
@@ -23,7 +23,7 @@ import {
   readLatestInventory,
   snapshotDataOf,
   toRuleSettings,
-} from "./watcher-settings-consumables.module.code.ts"
+} from "akasha/temper/watcher/watcher-settings-consumables/watcher-settings-consumables.module.code.ts"
 
 const GARLIC_HAGFISH_HASH =
   "ATQHgAAAAAAf_4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABXr164BatWrQBQoUKAAQQmQAA"

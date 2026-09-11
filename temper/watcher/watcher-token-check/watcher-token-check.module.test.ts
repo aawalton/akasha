@@ -42,7 +42,7 @@ mock.module("akasha/pages/access/patch/patch.module.code.ts", () => ({
 }))
 
 const { ENROLMENT_KEYS, TEMPER_WATCHER_ENROLMENT_SLUG, validateWatcherToken, watcherTokenHash } =
-  await import("./watcher-token-check.module.code.ts")
+  await import("akasha/temper/watcher/watcher-token-check/watcher-token-check.module.code.ts")
 
 function enrolled(tokenHash: string): Page {
   return asPage({

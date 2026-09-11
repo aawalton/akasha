@@ -1,13 +1,4 @@
 import { expect, test } from "bun:test"
-import { FILE_TYPES, type FileType } from "../watcher-file-type/watcher-file-type.module.code.ts"
-import { TARGET_OPERATIONS } from "../watcher-run-observing/watcher-run-observing.module.code.ts"
-import type { SyncOperation } from "../watcher-run-outcome/watcher-run-outcome.module.code.ts"
-import { hashContent } from "../watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
-import type {
-  StableRead,
-  StatSnapshot,
-} from "../watcher-stable-read/watcher-stable-read.module.code.ts"
-import { initialFileState } from "../watcher-state/watcher-state.module.code.ts"
 import {
   ALREADY_RUNNING,
   CHANGED_SINCE_STABLE_READ,
@@ -19,7 +10,19 @@ import {
   makeDispatchHandler,
   NEVER_STABILIZED,
   sideFileKeysFor,
-} from "./watcher-dispatch-handling.module.code.ts"
+} from "akasha/temper/watcher/watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"
+import {
+  FILE_TYPES,
+  type FileType,
+} from "akasha/temper/watcher/watcher-file-type/watcher-file-type.module.code.ts"
+import { TARGET_OPERATIONS } from "akasha/temper/watcher/watcher-run-observing/watcher-run-observing.module.code.ts"
+import type { SyncOperation } from "akasha/temper/watcher/watcher-run-outcome/watcher-run-outcome.module.code.ts"
+import { hashContent } from "akasha/temper/watcher/watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
+import type {
+  StableRead,
+  StatSnapshot,
+} from "akasha/temper/watcher/watcher-stable-read/watcher-stable-read.module.code.ts"
+import { initialFileState } from "akasha/temper/watcher/watcher-state/watcher-state.module.code.ts"
 
 const PATH = "/game/TemperInventory.lua"
 const CONTENT = "TemperInventoryData = {}"

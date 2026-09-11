@@ -4,7 +4,7 @@ import {
   cursorPath,
   parseErrorCursor,
   serializeErrorCursor,
-} from "./watcher-error-cursor.module.code.ts"
+} from "akasha/temper/watcher/watcher-error-cursor/watcher-error-cursor.module.code.ts"
 
 test("the cursor is kept beside the watcher log", () => {
   expect(cursorPath()).toEndWith(`/${CURSOR_FILENAME}`)

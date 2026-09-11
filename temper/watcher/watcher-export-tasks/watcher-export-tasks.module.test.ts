@@ -1,12 +1,11 @@
 import { expect, test } from "bun:test"
 import { asPage, type Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import type {
   ExportTasksOptions,
   PageCollect,
   PageGet,
   PagePatchById,
-} from "./watcher-export-tasks.module.code.ts"
+} from "akasha/temper/watcher/watcher-export-tasks/watcher-export-tasks.module.code.ts"
 import {
   CHARACTER_PAGE_TYPE_SLUG,
   COMPLETION_OVERRIDE_PAGE_TYPE_SLUG,
@@ -15,7 +14,8 @@ import {
   TASK_PAGE_TYPE_SLUG,
   taskDataFrom,
   taskKey,
-} from "./watcher-export-tasks.module.code.ts"
+} from "akasha/temper/watcher/watcher-export-tasks/watcher-export-tasks.module.code.ts"
+import type { SignedInReader } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 const CONTENT = `TemperCharacters_SavedVariables =
 {

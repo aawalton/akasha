@@ -5,16 +5,16 @@ import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-t
 import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
 import { luaArrayOrEmpty } from "akasha/temper/saved-variables/lua-array/lua-array.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
+import { log, logError } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
+import { toRuleSettings } from "akasha/temper/watcher/watcher-settings-consumables/watcher-settings-consumables.module.code.ts"
+import {
+  type SignedInReader,
+  signedInUserId,
+} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { z } from "zod"
-import { log, logError } from "../watcher-logging/watcher-logging.module.code.ts"
-import { toRuleSettings } from "../watcher-settings-consumables/watcher-settings-consumables.module.code.ts"
-import {
-  type SignedInReader,
-  signedInUserId,
-} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 const TEMPER_PLAYER_PAGE_TYPE_SLUG = "temper-player"
 

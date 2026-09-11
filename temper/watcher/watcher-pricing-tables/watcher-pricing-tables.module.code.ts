@@ -1,4 +1,4 @@
-import { log } from "../watcher-logging/watcher-logging.module.code.ts"
+import { log } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
 
 export const NO_PRICE_EXTRACT =
   "no price extract is here yet, so the addon values every crown consumable and every currency item at nothing"

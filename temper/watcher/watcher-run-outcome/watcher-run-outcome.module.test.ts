@@ -5,7 +5,7 @@ import {
   isoFromMtimeMs,
   mergeOperations,
   type SyncOperation,
-} from "./watcher-run-outcome.module.code.ts"
+} from "akasha/temper/watcher/watcher-run-outcome/watcher-run-outcome.module.code.ts"
 
 function operation(name: string, state: SyncOperation["state"], detail?: string): SyncOperation {
   return {

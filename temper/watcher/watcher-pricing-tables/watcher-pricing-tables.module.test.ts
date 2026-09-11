@@ -3,7 +3,7 @@ import {
   computePricingTables,
   emptyPricingTables,
   NO_PRICE_EXTRACT,
-} from "./watcher-pricing-tables.module.code.ts"
+} from "akasha/temper/watcher/watcher-pricing-tables/watcher-pricing-tables.module.code.ts"
 
 test("both tables come back empty", async () => {
   const said: string[] = []

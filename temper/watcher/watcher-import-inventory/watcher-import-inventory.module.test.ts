@@ -2,7 +2,6 @@ import { expect, test } from "bun:test"
 import type { ExcludedLocation } from "akasha/temper/items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import type { NetWorthResult } from "akasha/temper/items-core/inventory-net-worth-types/inventory-net-worth-types.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
-import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   countInventory,
   excludedValueOf,
@@ -11,7 +10,8 @@ import {
   scanLines,
   scanTimestampOf,
   summaryLines,
-} from "./watcher-import-inventory.module.code.ts"
+} from "akasha/temper/watcher/watcher-import-inventory/watcher-import-inventory.module.code.ts"
+import type { SignedInReader } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 const COUNTS = { locationCount: 3, itemCount: 47 }
 

@@ -5,12 +5,12 @@ import type { ErrorEntry } from "akasha/temper/capture-errors/errors-payload/err
 import type {
   ErrorDecision,
   TemperErrorEnvelope,
-} from "../watcher-error-emissions/watcher-error-emissions.module.code.ts"
+} from "akasha/temper/watcher/watcher-error-emissions/watcher-error-emissions.module.code.ts"
 import {
   buildVerdicts,
   errorLogLines,
   runImportErrors,
-} from "./watcher-import-errors.module.code.ts"
+} from "akasha/temper/watcher/watcher-import-errors/watcher-import-errors.module.code.ts"
 
 const SCRATCH_AT = "/var/tmp"
 

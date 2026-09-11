@@ -1,10 +1,5 @@
 import { expect, test } from "bun:test"
 import { asPage } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import type {
-  ReadFiles,
-  ReadPages,
-  WriteFiles,
-} from "../watcher-page-landing/watcher-page-landing.module.code.ts"
 import {
   type CompletionPageRead,
   type CompletionPageUpsert,
@@ -15,7 +10,12 @@ import {
   skippedCompanionsWhy,
   UNREADABLE_SAVED_VARIABLES,
   unparsedCompletionWhy,
-} from "./watcher-import-completion.module.code.ts"
+} from "akasha/temper/watcher/watcher-import-completion/watcher-import-completion.module.code.ts"
+import type {
+  ReadFiles,
+  ReadPages,
+  WriteFiles,
+} from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
 
 const WITH_STORED = `TemperCharacters_SavedVariables =
 { ["Default"] = { ["@alan"] = { ["$AccountWide"] = {

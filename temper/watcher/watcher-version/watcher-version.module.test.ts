@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { WATCHER_VERSION } from "./watcher-version.module.code.ts"
+import { WATCHER_VERSION } from "akasha/temper/watcher/watcher-version/watcher-version.module.code.ts"
 
 test("a worker running from source reports itself as dev", () => {
   expect(WATCHER_VERSION).toBe("dev")

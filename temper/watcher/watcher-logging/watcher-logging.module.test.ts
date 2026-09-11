@@ -1,6 +1,11 @@
 import { expect, test } from "bun:test"
-import { parseWatcherLine } from "../watcher-log-line/watcher-log-line.module.code.ts"
-import { logLine, MAX_LOG_FILES, rollRenames, shouldRoll } from "./watcher-logging.module.code.ts"
+import { parseWatcherLine } from "akasha/temper/watcher/watcher-log-line/watcher-log-line.module.code.ts"
+import {
+  logLine,
+  MAX_LOG_FILES,
+  rollRenames,
+  shouldRoll,
+} from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
 
 const AT = new Date("2026-09-02T13:45:07.123Z")
 

@@ -7,7 +7,7 @@ import {
   runImportItemRuleVerdicts,
   type VerdictImportLog,
   type VerdictSettingsStore,
-} from "./watcher-import-item-rule-verdicts.module.code.ts"
+} from "akasha/temper/watcher/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts"
 
 function verdictEntry(id: number, name: string, action: string): string {
   return `[${id}] =\n{\n["kind"] = "item-rule-verdict",\n["itemId"] = ${id},\n["itemName"] = "${name}",\n["action"] = "${action}",\n},`

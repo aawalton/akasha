@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
-import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-import type { PageUpsert } from "./watcher-import-characters.module.code.ts"
+import type { PageUpsert } from "akasha/temper/watcher/watcher-import-characters/watcher-import-characters.module.code.ts"
 import {
   executeCharacterImportPlan,
   keepKnownSkillLineIds,
@@ -9,7 +8,8 @@ import {
   parseCharacterSavedVariables,
   planCharacterImport,
   runImportCharacters,
-} from "./watcher-import-characters.module.code.ts"
+} from "akasha/temper/watcher/watcher-import-characters/watcher-import-characters.module.code.ts"
+import type { SignedInReader } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 const REAL_HASH =
   "ATQHgAAAAABgAAf__AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALG0AAAAAAAAAKAAAAAAAAyA"

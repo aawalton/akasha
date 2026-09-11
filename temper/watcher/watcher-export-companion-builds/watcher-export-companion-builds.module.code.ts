@@ -5,21 +5,21 @@ import {
   companions,
   getDefIdByCompanionId,
 } from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import type { CompanionsConfigFileInputs } from "../watcher-config-file/watcher-config-file.module.code.ts"
+import type { CompanionsConfigFileInputs } from "akasha/temper/watcher/watcher-config-file/watcher-config-file.module.code.ts"
 import {
   numericKeyedBlock,
   serializeCompanionsConfigFile,
-} from "../watcher-config-file/watcher-config-file.module.code.ts"
-import { log, logError } from "../watcher-logging/watcher-logging.module.code.ts"
+} from "akasha/temper/watcher/watcher-config-file/watcher-config-file.module.code.ts"
+import { log, logError } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
 import {
   detectIndent,
   replaceOrInsertLuaBlock,
-} from "../watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
-import { writeSideFileIfChanged } from "../watcher-side-file/watcher-side-file.module.code.ts"
+} from "akasha/temper/watcher/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
+import { writeSideFileIfChanged } from "akasha/temper/watcher/watcher-side-file/watcher-side-file.module.code.ts"
 import {
   type SignedInReader,
   userIdFor,
-} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 export const COMPANION_PROGRESS_PAGE_TYPE = "temper-companion-progress"
 

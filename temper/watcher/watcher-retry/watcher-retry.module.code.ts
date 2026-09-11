@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
+import { log } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
 import { writeFileAtomicSync } from "akasha/utils/fs/atomic-write/atomic-write.module.code.ts"
-import { log } from "../watcher-logging/watcher-logging.module.code.ts"
 
 export const MAX_RETRIES = 5
 

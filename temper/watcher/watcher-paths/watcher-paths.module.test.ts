@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { watcherConfigDir, watcherLogDir } from "./watcher-paths.module.code.ts"
+import {
+  watcherConfigDir,
+  watcherLogDir,
+} from "akasha/temper/watcher/watcher-paths/watcher-paths.module.code.ts"
 
 test("a directory named outright is taken over every other answer", () => {
   expect(watcherLogDir({ platform: "linux", env: { WATCHER_LOG_DIR: "/l", HOME: "/h" } })).toBe(

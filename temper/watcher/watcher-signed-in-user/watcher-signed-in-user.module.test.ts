@@ -5,7 +5,7 @@ import {
   type SignedInReader,
   signedInUserId,
   userIdFor,
-} from "./watcher-signed-in-user.module.code.ts"
+} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 function answering(answer: SignedInAnswer, asked: { count: number }): SignedInReader {
   return {

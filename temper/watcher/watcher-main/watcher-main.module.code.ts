@@ -1,37 +1,40 @@
 import { existsSync, unwatchFile, watchFile } from "node:fs"
 import { basename } from "node:path"
-import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
 import {
   buildConfig as buildConfigFromDisk,
   sourcePathFor,
   type WatcherConfig,
-} from "../watcher-config/watcher-config.module.code.ts"
+} from "akasha/temper/watcher/watcher-config/watcher-config.module.code.ts"
 import type {
   DispatchAnswer,
   DispatchAsk,
   DispatchHandlerArgs,
-} from "../watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"
-import { FILE_TYPES } from "../watcher-file-type/watcher-file-type.module.code.ts"
+} from "akasha/temper/watcher/watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"
+import { FILE_TYPES } from "akasha/temper/watcher/watcher-file-type/watcher-file-type.module.code.ts"
 import {
   logError as writeError,
   log as writeInfo,
-} from "../watcher-logging/watcher-logging.module.code.ts"
-import { writeFileAtomicWithRetry } from "../watcher-retry/watcher-retry.module.code.ts"
-import type { SyncOperation } from "../watcher-run-outcome/watcher-run-outcome.module.code.ts"
-import { isSourceRuntime } from "../watcher-runtime/watcher-runtime.module.code.ts"
-import { hashContent } from "../watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
-import { serverUrlFromEnv } from "../watcher-server-url/watcher-server-url.module.code.ts"
-import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+} from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
+import { writeFileAtomicWithRetry } from "akasha/temper/watcher/watcher-retry/watcher-retry.module.code.ts"
+import type { SyncOperation } from "akasha/temper/watcher/watcher-run-outcome/watcher-run-outcome.module.code.ts"
+import { isSourceRuntime } from "akasha/temper/watcher/watcher-runtime/watcher-runtime.module.code.ts"
+import { hashContent } from "akasha/temper/watcher/watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
+import { serverUrlFromEnv } from "akasha/temper/watcher/watcher-server-url/watcher-server-url.module.code.ts"
+import type { SignedInReader } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   looksStructurallyComplete,
   matchesSnapshot,
   readFileWhenStable,
   type StableRead,
   type StatSnapshot,
-} from "../watcher-stable-read/watcher-stable-read.module.code.ts"
-import { type FileState, initialWatcherState } from "../watcher-state/watcher-state.module.code.ts"
-import { resolveWatcherToken } from "../watcher-token/watcher-token.module.code.ts"
-import { WATCHER_VERSION } from "../watcher-version/watcher-version.module.code.ts"
+} from "akasha/temper/watcher/watcher-stable-read/watcher-stable-read.module.code.ts"
+import {
+  type FileState,
+  initialWatcherState,
+} from "akasha/temper/watcher/watcher-state/watcher-state.module.code.ts"
+import { resolveWatcherToken } from "akasha/temper/watcher/watcher-token/watcher-token.module.code.ts"
+import { WATCHER_VERSION } from "akasha/temper/watcher/watcher-version/watcher-version.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export const POLL_INTERVAL_MS = 2000
 

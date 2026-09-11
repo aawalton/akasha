@@ -1,14 +1,14 @@
 import { expect, test } from "bun:test"
-import { FILE_TYPES } from "../watcher-file-type/watcher-file-type.module.code.ts"
-import { TARGET_OPERATIONS } from "../watcher-run-observing/watcher-run-observing.module.code.ts"
-import type { SyncOperation } from "../watcher-run-outcome/watcher-run-outcome.module.code.ts"
-import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   type DispatchOptions,
   type DispatchRunners,
   dispatch,
   type RunReport,
-} from "./watcher-dispatch.module.code.ts"
+} from "akasha/temper/watcher/watcher-dispatch/watcher-dispatch.module.code.ts"
+import { FILE_TYPES } from "akasha/temper/watcher/watcher-file-type/watcher-file-type.module.code.ts"
+import { TARGET_OPERATIONS } from "akasha/temper/watcher/watcher-run-observing/watcher-run-observing.module.code.ts"
+import type { SyncOperation } from "akasha/temper/watcher/watcher-run-outcome/watcher-run-outcome.module.code.ts"
+import type { SignedInReader } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 const SCRATCH_AT = "/var/tmp"
 

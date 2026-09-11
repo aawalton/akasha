@@ -4,7 +4,7 @@ import {
   type ExportSettingsSeams,
   runExportSettings,
   settingsIn,
-} from "./watcher-export-settings.module.code.ts"
+} from "akasha/temper/watcher/watcher-export-settings/watcher-export-settings.module.code.ts"
 
 type Client = Parameters<typeof runExportSettings>[1]
 

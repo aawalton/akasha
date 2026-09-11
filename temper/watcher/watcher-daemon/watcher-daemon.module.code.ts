@@ -4,9 +4,12 @@ import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  watcherConfigDir,
+  watcherLogDir,
+} from "akasha/temper/watcher/watcher-paths/watcher-paths.module.code.ts"
 import { pidAliveOrAssumeDead } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 import { z } from "zod"
-import { watcherConfigDir, watcherLogDir } from "../watcher-paths/watcher-paths.module.code.ts"
 
 export type WatcherDaemonState = {
   readonly pid: number

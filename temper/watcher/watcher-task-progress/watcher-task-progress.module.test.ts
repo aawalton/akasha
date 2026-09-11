@@ -6,7 +6,7 @@ import {
   refreshedFor,
   rowsFrom,
   rowsIn,
-} from "./watcher-task-progress.module.code.ts"
+} from "akasha/temper/watcher/watcher-task-progress/watcher-task-progress.module.code.ts"
 
 const INDEX = {
   characters: {

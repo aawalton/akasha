@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
-import { bodyOfRows } from "../watcher-task-progress/watcher-task-progress.module.code.ts"
-import { completionIn, putsFor, rosterFrom } from "./watcher-task-progress-landing.module.code.ts"
+import { bodyOfRows } from "akasha/temper/watcher/watcher-task-progress/watcher-task-progress.module.code.ts"
+import {
+  completionIn,
+  putsFor,
+  rosterFrom,
+} from "akasha/temper/watcher/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts"
 
 const PAGE_PATH =
   "temper/progressions/temper-tasks/pages/an-invented-task/an-invented-task.temper-task.ts"

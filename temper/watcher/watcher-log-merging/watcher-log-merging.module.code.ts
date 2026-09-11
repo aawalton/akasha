@@ -1,4 +1,4 @@
-import type { WatcherLogLine } from "../watcher-log-line/watcher-log-line.module.code.ts"
+import type { WatcherLogLine } from "akasha/temper/watcher/watcher-log-line/watcher-log-line.module.code.ts"
 
 type Timed = {
   readonly read: WatcherLogLine

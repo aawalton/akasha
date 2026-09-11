@@ -16,14 +16,14 @@ import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-pa
 import {
   loadErrorCursor,
   saveErrorCursor,
-} from "../watcher-error-cursor/watcher-error-cursor.module.code.ts"
+} from "akasha/temper/watcher/watcher-error-cursor/watcher-error-cursor.module.code.ts"
 import {
   decideErrorEmissions,
   type EntryVerdict,
   type ErrorDecision,
   isStaleResidue,
-} from "../watcher-error-emissions/watcher-error-emissions.module.code.ts"
-import { log as logToWatcherLog } from "../watcher-logging/watcher-logging.module.code.ts"
+} from "akasha/temper/watcher/watcher-error-emissions/watcher-error-emissions.module.code.ts"
+import { log as logToWatcherLog } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
 
 const HOUR_MS = 60 * 60 * 1000
 

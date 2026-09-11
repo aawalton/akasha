@@ -1,9 +1,5 @@
 import { expect, test } from "bun:test"
 import {
-  namesWholeTask,
-  parseTaskCompletions,
-} from "../watcher-task-capture/watcher-task-capture.module.code.ts"
-import {
   applyCompletion,
   clearCompletion,
   completionSet,
@@ -12,7 +8,7 @@ import {
   runImportTasks,
   seamsReady,
   tasksByName,
-} from "./watcher-import-tasks.module.code.ts"
+} from "akasha/temper/watcher/watcher-import-tasks/watcher-import-tasks.module.code.ts"
 import {
   applied,
   asking,
@@ -39,7 +35,11 @@ import {
   tallying,
   taskOf,
   UNKNOWN_ID,
-} from "./watcher-import-tasks.module.test-fixtures.ts"
+} from "akasha/temper/watcher/watcher-import-tasks/watcher-import-tasks.module.test-fixtures.ts"
+import {
+  namesWholeTask,
+  parseTaskCompletions,
+} from "akasha/temper/watcher/watcher-task-capture/watcher-task-capture.module.code.ts"
 
 test("a saved-variables file reads back one entry for each numeric completion", () => {
   expect(

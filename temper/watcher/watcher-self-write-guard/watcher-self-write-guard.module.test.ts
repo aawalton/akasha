@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { hashContent, shouldSkipSelfWrite } from "./watcher-self-write-guard.module.code.ts"
+import {
+  hashContent,
+  shouldSkipSelfWrite,
+} from "akasha/temper/watcher/watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
 
 test("the same content hashes the same way twice", () => {
   expect(hashContent("a")).toBe(hashContent("a"))

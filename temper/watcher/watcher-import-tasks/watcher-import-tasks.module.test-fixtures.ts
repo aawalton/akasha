@@ -1,4 +1,3 @@
-import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   applyCompletion,
   type CompletionOutcome,
@@ -6,7 +5,8 @@ import {
   type ReadySeams,
   seamsReady,
   type TaskPage,
-} from "./watcher-import-tasks.module.code.ts"
+} from "akasha/temper/watcher/watcher-import-tasks/watcher-import-tasks.module.code.ts"
+import type { SignedInReader } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 export const NO_CLIENT: SignedInReader = {
   auth: {

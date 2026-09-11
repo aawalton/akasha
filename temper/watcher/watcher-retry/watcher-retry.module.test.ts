@@ -7,7 +7,7 @@ import {
   MAX_RETRIES,
   retryOnBusy,
   writeFileAtomicWithRetry,
-} from "./watcher-retry.module.code.ts"
+} from "akasha/temper/watcher/watcher-retry/watcher-retry.module.code.ts"
 
 const SCRATCH_AT = "/var/tmp"
 

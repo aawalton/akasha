@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { DEFAULT_SERVER_URL, serverUrlFromEnv } from "./watcher-server-url.module.code.ts"
+import {
+  DEFAULT_SERVER_URL,
+  serverUrlFromEnv,
+} from "akasha/temper/watcher/watcher-server-url/watcher-server-url.module.code.ts"
 
 test("an environment naming no server address answers the default address", () => {
   expect(serverUrlFromEnv({})).toBe(DEFAULT_SERVER_URL)

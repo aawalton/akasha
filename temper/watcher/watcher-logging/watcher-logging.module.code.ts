@@ -1,7 +1,7 @@
 import { appendFileSync, existsSync, mkdirSync, renameSync, statSync, unlinkSync } from "node:fs"
 import { join } from "node:path"
-import { WORKER_LOG } from "../watcher-daemon/watcher-daemon.module.code.ts"
-import { watcherLogDir } from "../watcher-paths/watcher-paths.module.code.ts"
+import { WORKER_LOG } from "akasha/temper/watcher/watcher-daemon/watcher-daemon.module.code.ts"
+import { watcherLogDir } from "akasha/temper/watcher/watcher-paths/watcher-paths.module.code.ts"
 
 export const MAX_LOG_BYTES = 1_000_000
 

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { SOURCE_UPDATE_EXIT_CODE } from "../watcher-updating/watcher-updating.module.code.ts"
+import { SOURCE_UPDATE_EXIT_CODE } from "akasha/temper/watcher/watcher-updating/watcher-updating.module.code.ts"
 import {
   dispatchingThrough,
   NO_ACCOUNT_FOR_TOKEN,
@@ -8,7 +8,7 @@ import {
   sessionHold,
   uploadQueue,
   WATCHER_UPDATING,
-} from "./watcher-worker.module.code.ts"
+} from "akasha/temper/watcher/watcher-worker/watcher-worker.module.code.ts"
 
 const A_TOKEN = `wt_${"0".repeat(64)}`
 

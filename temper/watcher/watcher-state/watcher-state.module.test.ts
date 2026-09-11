@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import { FILE_TYPES } from "../watcher-file-type/watcher-file-type.module.code.ts"
-import { initialFileState, initialWatcherState } from "./watcher-state.module.code.ts"
+import { FILE_TYPES } from "akasha/temper/watcher/watcher-file-type/watcher-file-type.module.code.ts"
+import {
+  initialFileState,
+  initialWatcherState,
+} from "akasha/temper/watcher/watcher-state/watcher-state.module.code.ts"
 
 test("a file begins with nothing running and nothing having run", () => {
   const state = initialFileState()

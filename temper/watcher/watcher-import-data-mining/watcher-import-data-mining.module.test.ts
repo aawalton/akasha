@@ -3,12 +3,12 @@ import {
   EXPIRED_TOKEN_MESSAGE,
   type Fetching,
   runImportDataMining,
-} from "./watcher-import-data-mining.module.code.ts"
+} from "akasha/temper/watcher/watcher-import-data-mining/watcher-import-data-mining.module.code.ts"
 import {
   CLEARED_ITEMS,
   GOOD_ITEMS,
   ITEM_IDS,
-} from "./watcher-import-data-mining.module.test-fixtures.ts"
+} from "akasha/temper/watcher/watcher-import-data-mining/watcher-import-data-mining.module.test-fixtures.ts"
 
 const QUESTS_URL = "https://example.test/api/watcher/upsert-mined-quests"
 

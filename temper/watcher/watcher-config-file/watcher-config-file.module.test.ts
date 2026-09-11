@@ -4,7 +4,7 @@ import {
   serializeCharactersConfigFile,
   serializeCompanionsConfigFile,
   serializeInventoryConfigFile,
-} from "./watcher-config-file.module.code.ts"
+} from "akasha/temper/watcher/watcher-config-file/watcher-config-file.module.code.ts"
 
 test("the inventory config file matches what the legacy serializer wrote", () => {
   expect(

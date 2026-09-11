@@ -1,29 +1,29 @@
 import { existsSync } from "node:fs"
-import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
-import type { WatcherConfig } from "../watcher-config/watcher-config.module.code.ts"
-import type { FileType } from "../watcher-file-type/watcher-file-type.module.code.ts"
-import { log, logError } from "../watcher-logging/watcher-logging.module.code.ts"
-import { writeFileAtomicWithRetry } from "../watcher-retry/watcher-retry.module.code.ts"
+import type { WatcherConfig } from "akasha/temper/watcher/watcher-config/watcher-config.module.code.ts"
+import type { FileType } from "akasha/temper/watcher/watcher-file-type/watcher-file-type.module.code.ts"
+import { log, logError } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
+import { writeFileAtomicWithRetry } from "akasha/temper/watcher/watcher-retry/watcher-retry.module.code.ts"
 import {
   preDispatchOperations,
   TARGET_OPERATIONS,
-} from "../watcher-run-observing/watcher-run-observing.module.code.ts"
+} from "akasha/temper/watcher/watcher-run-observing/watcher-run-observing.module.code.ts"
 import {
   describeOperations,
   type SyncOperation,
-} from "../watcher-run-outcome/watcher-run-outcome.module.code.ts"
+} from "akasha/temper/watcher/watcher-run-outcome/watcher-run-outcome.module.code.ts"
 import {
   hashContent,
   shouldSkipSelfWrite,
-} from "../watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
+} from "akasha/temper/watcher/watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
 import {
   looksStructurallyComplete,
   matchesSnapshot,
   readFileWhenStable,
   type StableRead,
   type StatSnapshot,
-} from "../watcher-stable-read/watcher-stable-read.module.code.ts"
-import type { FileState } from "../watcher-state/watcher-state.module.code.ts"
+} from "akasha/temper/watcher/watcher-stable-read/watcher-stable-read.module.code.ts"
+import type { FileState } from "akasha/temper/watcher/watcher-state/watcher-state.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export const DEBOUNCE_MS = 3000
 

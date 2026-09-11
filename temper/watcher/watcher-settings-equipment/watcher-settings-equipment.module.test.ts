@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import type { PageAsk, PageReader, PageValues } from "./watcher-settings-equipment.module.code.ts"
+import type {
+  PageAsk,
+  PageReader,
+  PageValues,
+} from "akasha/temper/watcher/watcher-settings-equipment/watcher-settings-equipment.module.code.ts"
 import {
   CHARACTER_BUILD_PAGE_TYPE_SLUG,
   CHARACTER_PAGE_TYPE_SLUG,
@@ -8,7 +12,7 @@ import {
   compileWantedCompanionEquipment,
   compileWantedEquipment,
   readCharactersWithTargetBuilds,
-} from "./watcher-settings-equipment.module.code.ts"
+} from "akasha/temper/watcher/watcher-settings-equipment/watcher-settings-equipment.module.code.ts"
 
 const CHARACTER_BUILD_HASH =
   "ATQHIoAAAAAAQAFH4QABRgOAAKOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"

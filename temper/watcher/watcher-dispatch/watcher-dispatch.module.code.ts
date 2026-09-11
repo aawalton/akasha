@@ -1,22 +1,24 @@
-import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
-import { buildConfig, sourcePathFor } from "../watcher-config/watcher-config.module.code.ts"
-import { runExportCompanionBuilds } from "../watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"
-import { runExportSettings } from "../watcher-export-settings/watcher-export-settings.module.code.ts"
-import { runExportTasks } from "../watcher-export-tasks/watcher-export-tasks.module.code.ts"
-import type { FileType } from "../watcher-file-type/watcher-file-type.module.code.ts"
-import { runImportCatalog } from "../watcher-import-catalog/watcher-import-catalog.module.code.ts"
-import { runImportCharacters } from "../watcher-import-characters/watcher-import-characters.module.code.ts"
-import { runImportCompanions } from "../watcher-import-companions/watcher-import-companions.module.code.ts"
-import { runImportCompletion } from "../watcher-import-completion/watcher-import-completion.module.code.ts"
-import { runImportDataMining } from "../watcher-import-data-mining/watcher-import-data-mining.module.code.ts"
-import { runImportErrors } from "../watcher-import-errors/watcher-import-errors.module.code.ts"
-import { runImportInventory } from "../watcher-import-inventory/watcher-import-inventory.module.code.ts"
+import {
+  buildConfig,
+  sourcePathFor,
+} from "akasha/temper/watcher/watcher-config/watcher-config.module.code.ts"
+import { runExportCompanionBuilds } from "akasha/temper/watcher/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"
+import { runExportSettings } from "akasha/temper/watcher/watcher-export-settings/watcher-export-settings.module.code.ts"
+import { runExportTasks } from "akasha/temper/watcher/watcher-export-tasks/watcher-export-tasks.module.code.ts"
+import type { FileType } from "akasha/temper/watcher/watcher-file-type/watcher-file-type.module.code.ts"
+import { runImportCatalog } from "akasha/temper/watcher/watcher-import-catalog/watcher-import-catalog.module.code.ts"
+import { runImportCharacters } from "akasha/temper/watcher/watcher-import-characters/watcher-import-characters.module.code.ts"
+import { runImportCompanions } from "akasha/temper/watcher/watcher-import-companions/watcher-import-companions.module.code.ts"
+import { runImportCompletion } from "akasha/temper/watcher/watcher-import-completion/watcher-import-completion.module.code.ts"
+import { runImportDataMining } from "akasha/temper/watcher/watcher-import-data-mining/watcher-import-data-mining.module.code.ts"
+import { runImportErrors } from "akasha/temper/watcher/watcher-import-errors/watcher-import-errors.module.code.ts"
+import { runImportInventory } from "akasha/temper/watcher/watcher-import-inventory/watcher-import-inventory.module.code.ts"
 import {
   runImportItemRuleVerdicts,
   supabaseUserSource,
-} from "../watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts"
-import { runImportSales } from "../watcher-import-sales/watcher-import-sales.module.code.ts"
-import { runImportTasks } from "../watcher-import-tasks/watcher-import-tasks.module.code.ts"
+} from "akasha/temper/watcher/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts"
+import { runImportSales } from "akasha/temper/watcher/watcher-import-sales/watcher-import-sales.module.code.ts"
+import { runImportTasks } from "akasha/temper/watcher/watcher-import-tasks/watcher-import-tasks.module.code.ts"
 import {
   type OperationTarget,
   observe,
@@ -26,17 +28,18 @@ import {
   skippedOperation,
   statMtimeMs,
   TARGET_OPERATIONS,
-} from "../watcher-run-observing/watcher-run-observing.module.code.ts"
+} from "akasha/temper/watcher/watcher-run-observing/watcher-run-observing.module.code.ts"
 import {
   allSynced,
   isoFromMtimeMs,
   type SyncOperation,
-} from "../watcher-run-outcome/watcher-run-outcome.module.code.ts"
-import { reportRunOutcome } from "../watcher-run-reporting/watcher-run-reporting.module.code.ts"
+} from "akasha/temper/watcher/watcher-run-outcome/watcher-run-outcome.module.code.ts"
+import { reportRunOutcome } from "akasha/temper/watcher/watcher-run-reporting/watcher-run-reporting.module.code.ts"
 import {
   type SignedInReader,
   signedInUserId,
-} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export const COMPLETION_TO_DO = "import this completion"
 

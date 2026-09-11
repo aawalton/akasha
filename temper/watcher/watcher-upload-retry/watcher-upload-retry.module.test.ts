@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { isRetryableUploadError, withUploadRetry } from "./watcher-upload-retry.module.code.ts"
+import {
+  isRetryableUploadError,
+  withUploadRetry,
+} from "akasha/temper/watcher/watcher-upload-retry/watcher-upload-retry.module.code.ts"
 
 test("a statement timeout is tried again", () => {
   expect(isRetryableUploadError(new Error("canceling statement due to statement timeout"))).toBe(

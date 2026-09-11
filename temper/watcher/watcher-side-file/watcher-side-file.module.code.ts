@@ -1,8 +1,8 @@
 import { readFileSync } from "node:fs"
-import type { InventoryConfigFileInputs } from "../watcher-config-file/watcher-config-file.module.code.ts"
-import { serializeInventoryConfigFile } from "../watcher-config-file/watcher-config-file.module.code.ts"
-import { writeFileAtomicWithRetry } from "../watcher-retry/watcher-retry.module.code.ts"
-import { hashContent } from "../watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
+import type { InventoryConfigFileInputs } from "akasha/temper/watcher/watcher-config-file/watcher-config-file.module.code.ts"
+import { serializeInventoryConfigFile } from "akasha/temper/watcher/watcher-config-file/watcher-config-file.module.code.ts"
+import { writeFileAtomicWithRetry } from "akasha/temper/watcher/watcher-retry/watcher-retry.module.code.ts"
+import { hashContent } from "akasha/temper/watcher/watcher-self-write-guard/watcher-self-write-guard.module.code.ts"
 
 export type SideFileValues = Partial<InventoryConfigFileInputs>
 

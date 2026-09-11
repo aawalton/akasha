@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { looksLikeWatcherToken, resolveWatcherToken } from "./watcher-token.module.code.ts"
+import {
+  looksLikeWatcherToken,
+  resolveWatcherToken,
+} from "akasha/temper/watcher/watcher-token/watcher-token.module.code.ts"
 
 const HEX64 = "a".repeat(64)
 

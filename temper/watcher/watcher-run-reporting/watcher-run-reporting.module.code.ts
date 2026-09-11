@@ -1,14 +1,14 @@
 import { getPage } from "akasha/pages/access/get/get.module.code.ts"
 import { patchPageById } from "akasha/pages/access/patch/patch.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
-import { logError } from "../watcher-logging/watcher-logging.module.code.ts"
+import { logError } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
 import {
   mergeOperations,
   type RunOutcome,
   type StoredOperation,
   type SyncOperation,
-} from "../watcher-run-outcome/watcher-run-outcome.module.code.ts"
-import { WATCHER_VERSION } from "../watcher-version/watcher-version.module.code.ts"
+} from "akasha/temper/watcher/watcher-run-outcome/watcher-run-outcome.module.code.ts"
+import { WATCHER_VERSION } from "akasha/temper/watcher/watcher-version/watcher-version.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 
 export const ENROLMENT_PAGE_TYPE_SLUG = "temper-watcher-enrolment"
 

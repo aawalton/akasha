@@ -10,15 +10,15 @@ import {
   companions,
   getCompanionIdByDefId,
 } from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import { buildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
-import { buildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import { resolveAccountPageId } from "../watcher-account-page/watcher-account-page.module.code.ts"
+import { resolveAccountPageId } from "akasha/temper/watcher/watcher-account-page/watcher-account-page.module.code.ts"
 import {
   type SignedInReader,
   userIdFor,
-} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 
 export const COMPANIONS_SAVED_VARIABLES_GLOBAL = "TemperCompanions_SavedVariables"
 

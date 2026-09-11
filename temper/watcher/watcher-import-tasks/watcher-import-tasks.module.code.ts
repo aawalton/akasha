@@ -11,19 +11,19 @@ import {
 import type { Row } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import { isCumulativeCard } from "akasha/temper/player-completion/completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
-import { log, logError } from "../watcher-logging/watcher-logging.module.code.ts"
+import { log, logError } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
 import {
   type SignedInReader,
   userIdFor,
-} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   readTaskCompletions,
   type TaskCompletionsRead,
-} from "../watcher-task-capture/watcher-task-capture.module.code.ts"
-import { landTaskValues } from "../watcher-task-landing/watcher-task-landing.module.code.ts"
-import type { TaskFacts } from "../watcher-task-progress/watcher-task-progress.module.code.ts"
-import { refreshTaskProgress } from "../watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts"
-import { tasksThatRoll } from "../watcher-task-rolling/watcher-task-rolling.module.code.ts"
+} from "akasha/temper/watcher/watcher-task-capture/watcher-task-capture.module.code.ts"
+import { landTaskValues } from "akasha/temper/watcher/watcher-task-landing/watcher-task-landing.module.code.ts"
+import type { TaskFacts } from "akasha/temper/watcher/watcher-task-progress/watcher-task-progress.module.code.ts"
+import { refreshTaskProgress } from "akasha/temper/watcher/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts"
+import { tasksThatRoll } from "akasha/temper/watcher/watcher-task-rolling/watcher-task-rolling.module.code.ts"
 
 export const TASK_PAGE_TYPE_SLUG = "temper-task"
 

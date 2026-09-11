@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
 import { asPage } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   planSaleImport,
   runImportSales,
@@ -11,7 +10,8 @@ import {
   saleSlug,
   saleSoldAtIso,
   writeSaleImportPlan,
-} from "./watcher-import-sales.module.code.ts"
+} from "akasha/temper/watcher/watcher-import-sales/watcher-import-sales.module.code.ts"
+import type { SignedInReader } from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 interface UpsertCall {
   readonly pageTypeSlug: string

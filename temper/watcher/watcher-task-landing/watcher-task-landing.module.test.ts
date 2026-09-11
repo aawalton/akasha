@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { LandingDeps } from "../watcher-page-landing/watcher-page-landing.module.code.ts"
+import type { LandingDeps } from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
 import {
   landTaskGone,
   landTaskValues,
@@ -7,7 +7,7 @@ import {
   taskBodyWith,
   taskPagePath,
   taskProgressPath,
-} from "./watcher-task-landing.module.code.ts"
+} from "akasha/temper/watcher/watcher-task-landing/watcher-task-landing.module.code.ts"
 
 const PAGE_PATH = "temper/progressions/temper-tasks/pages/held-task/held-task.temper-task.ts"
 

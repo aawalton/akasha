@@ -14,19 +14,17 @@ import { rulesToInventoryConfig } from "akasha/temper/items-rules-core/inventory
 import type { InventoryTimestamps } from "akasha/temper/items-rules-core/inventory-settings-types/inventory-settings-types.module.code.ts"
 import { ruleFingerprint } from "akasha/temper/items-rules-core/rule-fingerprint/rule-fingerprint.module.code.ts"
 import { serializeLuaBlock } from "akasha/temper/saved-variables/lua-serializer/lua-serializer.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
-import { log } from "../watcher-logging/watcher-logging.module.code.ts"
+import { log } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
 import type {
   ReadFiles,
   ReadPages,
-} from "../watcher-page-landing/watcher-page-landing.module.code.ts"
+} from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
 import {
   besidePathsFor,
   contentIn,
-} from "../watcher-page-landing/watcher-page-landing.module.code.ts"
-import type { PricingTables } from "../watcher-pricing-tables/watcher-pricing-tables.module.code.ts"
-import { computePricingTables } from "../watcher-pricing-tables/watcher-pricing-tables.module.code.ts"
+} from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
+import type { PricingTables } from "akasha/temper/watcher/watcher-pricing-tables/watcher-pricing-tables.module.code.ts"
+import { computePricingTables } from "akasha/temper/watcher/watcher-pricing-tables/watcher-pricing-tables.module.code.ts"
 import {
   compileBuyStock,
   compileCharacterPriority,
@@ -38,31 +36,33 @@ import {
   readLatestInventory,
   type TargetBuildCharacterReader,
   toRuleSettings,
-} from "../watcher-settings-consumables/watcher-settings-consumables.module.code.ts"
+} from "akasha/temper/watcher/watcher-settings-consumables/watcher-settings-consumables.module.code.ts"
 import {
   compileWantedCompanionEquipment,
   compileWantedEquipment,
   DEFAULT_PAGE_READER,
   type PageReader,
   readCharactersWithTargetBuilds,
-} from "../watcher-settings-equipment/watcher-settings-equipment.module.code.ts"
+} from "akasha/temper/watcher/watcher-settings-equipment/watcher-settings-equipment.module.code.ts"
 import {
   detectIndent,
   replaceOrInsertLuaBlock,
-} from "../watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
+} from "akasha/temper/watcher/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
 import {
   toLoggingSettings,
   toSafetySettings,
-} from "../watcher-settings-normalize/watcher-settings-normalize.module.code.ts"
-import type { SideFileValues } from "../watcher-side-file/watcher-side-file.module.code.ts"
+} from "akasha/temper/watcher/watcher-settings-normalize/watcher-settings-normalize.module.code.ts"
+import type { SideFileValues } from "akasha/temper/watcher/watcher-side-file/watcher-side-file.module.code.ts"
 import {
   buildSideFileContent,
   writeSideFileIfChanged,
-} from "../watcher-side-file/watcher-side-file.module.code.ts"
+} from "akasha/temper/watcher/watcher-side-file/watcher-side-file.module.code.ts"
 import {
   type SignedInReader,
   userIdFor,
-} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 
 const TEMPER_INVENTORY_SIBLINGS = ["db", "version"] as const
 

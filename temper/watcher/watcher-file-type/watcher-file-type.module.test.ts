@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { FILE_TYPES, isFileType } from "./watcher-file-type.module.code.ts"
+import {
+  FILE_TYPES,
+  isFileType,
+} from "akasha/temper/watcher/watcher-file-type/watcher-file-type.module.code.ts"
 
 test("every kind the watcher knows is named", () => {
   expect([...FILE_TYPES]).toEqual([

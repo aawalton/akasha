@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { detectIndent, replaceOrInsertLuaBlock } from "./watcher-settings-lua-block.module.code.ts"
+import {
+  detectIndent,
+  replaceOrInsertLuaBlock,
+} from "akasha/temper/watcher/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
 
 const FILE = [
   "TemperInventory =",

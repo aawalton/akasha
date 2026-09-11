@@ -5,7 +5,7 @@ import {
   type EntryVerdict,
   isStaleResidue,
   signatureFor,
-} from "./watcher-error-emissions.module.code.ts"
+} from "akasha/temper/watcher/watcher-error-emissions/watcher-error-emissions.module.code.ts"
 
 function entry(message: string, count: number, traceback?: string | null): ErrorEntry {
   return {

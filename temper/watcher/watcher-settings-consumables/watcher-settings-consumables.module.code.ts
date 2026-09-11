@@ -15,12 +15,12 @@ import {
 import type {
   ReadFiles,
   ReadPages,
-} from "../watcher-page-landing/watcher-page-landing.module.code.ts"
+} from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
 import {
   besidePathsFor,
   contentIn,
-} from "../watcher-page-landing/watcher-page-landing.module.code.ts"
-import { readCharactersWithTargetBuilds } from "../watcher-settings-equipment/watcher-settings-equipment.module.code.ts"
+} from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
+import { readCharactersWithTargetBuilds } from "akasha/temper/watcher/watcher-settings-equipment/watcher-settings-equipment.module.code.ts"
 
 const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
 

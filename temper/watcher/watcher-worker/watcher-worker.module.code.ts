@@ -1,26 +1,26 @@
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { dispatch } from "../watcher-dispatch/watcher-dispatch.module.code.ts"
+import { dispatch } from "akasha/temper/watcher/watcher-dispatch/watcher-dispatch.module.code.ts"
 import {
   type DispatchAnswer,
   type DispatchAsk,
   makeDispatchHandler,
-} from "../watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"
-import { log, logError } from "../watcher-logging/watcher-logging.module.code.ts"
+} from "akasha/temper/watcher/watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"
+import { log, logError } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
 import {
   type ExitWanted,
   fatalLine,
   startWatcher,
   type Updating,
   type WatcherStart,
-} from "../watcher-main/watcher-main.module.code.ts"
-import type { SyncOperation } from "../watcher-run-outcome/watcher-run-outcome.module.code.ts"
-import { reportRunOutcome } from "../watcher-run-reporting/watcher-run-reporting.module.code.ts"
+} from "akasha/temper/watcher/watcher-main/watcher-main.module.code.ts"
+import type { SyncOperation } from "akasha/temper/watcher/watcher-run-outcome/watcher-run-outcome.module.code.ts"
+import { reportRunOutcome } from "akasha/temper/watcher/watcher-run-reporting/watcher-run-reporting.module.code.ts"
 import type {
   SignedInAnswer,
   SignedInReader,
-} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-import { resolveWatcherToken } from "../watcher-token/watcher-token.module.code.ts"
-import { validateWatcherToken } from "../watcher-token-check/watcher-token-check.module.code.ts"
+} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import { resolveWatcherToken } from "akasha/temper/watcher/watcher-token/watcher-token.module.code.ts"
+import { validateWatcherToken } from "akasha/temper/watcher/watcher-token-check/watcher-token-check.module.code.ts"
 import {
   checkForUpdate,
   cleanupOldExe,
@@ -28,7 +28,7 @@ import {
   performUpdate,
   resolveSourceHeadSha,
   SOURCE_UPDATE_EXIT_CODE,
-} from "../watcher-updating/watcher-updating.module.code.ts"
+} from "akasha/temper/watcher/watcher-updating/watcher-updating.module.code.ts"
 
 export const WATCHER_UPDATING: Updating = {
   sourceUpdateExitCode: SOURCE_UPDATE_EXIT_CODE,

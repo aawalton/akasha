@@ -15,17 +15,17 @@ import type {
 } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import { computeInventoryTotalValue } from "akasha/temper/items-core/inventory-value/inventory-value.module.code.ts"
 import { shardInventoryJson } from "akasha/temper/items-core/shard-inventory/shard-inventory.module.code.ts"
-import { inventorySnapshotName } from "../watcher-inventory-snapshot-name/watcher-inventory-snapshot-name.module.code.ts"
+import { inventorySnapshotName } from "akasha/temper/watcher/watcher-inventory-snapshot-name/watcher-inventory-snapshot-name.module.code.ts"
 import {
   capturedAtOf,
   landNetWorthReading,
   netWorthHourSlug,
   type ReadingValues,
-} from "../watcher-net-worth-landing/watcher-net-worth-landing.module.code.ts"
+} from "akasha/temper/watcher/watcher-net-worth-landing/watcher-net-worth-landing.module.code.ts"
 import {
   type SignedInReader,
   userIdFor,
-} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
 

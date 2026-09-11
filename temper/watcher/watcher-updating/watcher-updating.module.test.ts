@@ -12,7 +12,7 @@ import {
   performUpdate,
   resolveSourceHeadSha,
   SOURCE_UPDATE_EXIT_CODE,
-} from "./watcher-updating.module.code.ts"
+} from "akasha/temper/watcher/watcher-updating/watcher-updating.module.code.ts"
 import {
   badGateway,
   cleanupRecorder,
@@ -24,7 +24,7 @@ import {
   RUNNING,
   repoStub,
   swapRecorder,
-} from "./watcher-updating.module.test-fixtures.ts"
+} from "akasha/temper/watcher/watcher-updating/watcher-updating.module.test-fixtures.ts"
 
 const SCRATCH_AT = "/var/tmp"
 

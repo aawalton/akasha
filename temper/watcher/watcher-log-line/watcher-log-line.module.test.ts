@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { parseWatcherLine } from "./watcher-log-line.module.code.ts"
+import { parseWatcherLine } from "akasha/temper/watcher/watcher-log-line/watcher-log-line.module.code.ts"
 
 test("a worker line is read as its time, its level and its message", () => {
   expect(

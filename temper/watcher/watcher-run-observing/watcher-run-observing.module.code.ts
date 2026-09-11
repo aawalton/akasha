@@ -1,12 +1,12 @@
 import { existsSync, statSync } from "node:fs"
 import { dirname } from "node:path"
-import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
-import type { FileType } from "../watcher-file-type/watcher-file-type.module.code.ts"
+import type { FileType } from "akasha/temper/watcher/watcher-file-type/watcher-file-type.module.code.ts"
 import type {
   SyncOperation,
   SyncOperationKind,
   SyncOperationState,
-} from "../watcher-run-outcome/watcher-run-outcome.module.code.ts"
+} from "akasha/temper/watcher/watcher-run-outcome/watcher-run-outcome.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export const TARGET_OPERATIONS = {
   catalog: { imports: ["catalog"] },

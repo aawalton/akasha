@@ -7,7 +7,7 @@ import {
   NO_DOMAIN_PRESENT,
   presentCatalogDomainKeys,
   runImportCatalog,
-} from "./watcher-import-catalog.module.code.ts"
+} from "akasha/temper/watcher/watcher-import-catalog/watcher-import-catalog.module.code.ts"
 
 interface Call {
   readonly slug: string

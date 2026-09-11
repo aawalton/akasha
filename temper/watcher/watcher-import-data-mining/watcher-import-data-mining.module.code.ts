@@ -7,15 +7,15 @@ import {
   readMinedAccountWide,
   TEMPER_DATA_MINING_SIBLINGS,
 } from "akasha/temper/capture-datamining-reader/mined-data-parse/mined-data-parse.module.code.ts"
-import { z } from "zod"
 import {
   detectIndent,
   replaceOrInsertLuaBlock,
-} from "../watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
+} from "akasha/temper/watcher/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
 import {
   type UploadRetryOptions,
   withUploadRetry,
-} from "../watcher-upload-retry/watcher-upload-retry.module.code.ts"
+} from "akasha/temper/watcher/watcher-upload-retry/watcher-upload-retry.module.code.ts"
+import { z } from "zod"
 
 const UPLOAD_BATCH_SIZE = 1000
 

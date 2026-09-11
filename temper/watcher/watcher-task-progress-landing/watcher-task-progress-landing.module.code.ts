@@ -11,7 +11,7 @@ import type {
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import type { CompletionCharacterEntry } from "akasha/temper/player-completion/completion-next-character/completion-next-character.module.code.ts"
 import { buildCrossCharacterCompletionIndex } from "akasha/temper/player-completion/completion-progress-index/completion-progress-index.module.code.ts"
-import { log } from "../watcher-logging/watcher-logging.module.code.ts"
+import { log } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
 import {
   besidePathOf,
   besidePathsFor,
@@ -20,13 +20,13 @@ import {
   type ReadFiles,
   type ReadPages,
   type WriteFiles,
-} from "../watcher-page-landing/watcher-page-landing.module.code.ts"
-import { taskBodyWith } from "../watcher-task-landing/watcher-task-landing.module.code.ts"
+} from "akasha/temper/watcher/watcher-page-landing/watcher-page-landing.module.code.ts"
+import { taskBodyWith } from "akasha/temper/watcher/watcher-task-landing/watcher-task-landing.module.code.ts"
 import {
   bodyOfRows,
   refreshedFor,
   type TaskFacts,
-} from "../watcher-task-progress/watcher-task-progress.module.code.ts"
+} from "akasha/temper/watcher/watcher-task-progress/watcher-task-progress.module.code.ts"
 
 export const CHARACTER_TYPE = "temper-account-character"
 

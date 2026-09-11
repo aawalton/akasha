@@ -10,20 +10,20 @@ import type { CompletionOverride } from "akasha/temper/player-completion/complet
 import type { ParsedCompletionOverrideRow } from "akasha/temper/player-completion/completion-override-row/completion-override-row.module.code.ts"
 import { parseCompletionOverrideRow } from "akasha/temper/player-completion/completion-override-row/completion-override-row.module.code.ts"
 import { serializeLuaBlock } from "akasha/temper/saved-variables/lua-serializer/lua-serializer.module.code.ts"
-import { stringAt } from "akasha/utils/narrow/string-at/string-at.module.code.ts"
-import type { CharactersConfigFileInputs } from "../watcher-config-file/watcher-config-file.module.code.ts"
-import { serializeCharactersConfigFile } from "../watcher-config-file/watcher-config-file.module.code.ts"
-import { log } from "../watcher-logging/watcher-logging.module.code.ts"
-import { compileCharacterPriority } from "../watcher-settings-consumables/watcher-settings-consumables.module.code.ts"
+import type { CharactersConfigFileInputs } from "akasha/temper/watcher/watcher-config-file/watcher-config-file.module.code.ts"
+import { serializeCharactersConfigFile } from "akasha/temper/watcher/watcher-config-file/watcher-config-file.module.code.ts"
+import { log } from "akasha/temper/watcher/watcher-logging/watcher-logging.module.code.ts"
+import { compileCharacterPriority } from "akasha/temper/watcher/watcher-settings-consumables/watcher-settings-consumables.module.code.ts"
 import {
   detectIndent,
   replaceOrInsertLuaBlock,
-} from "../watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
-import { writeSideFileIfChanged } from "../watcher-side-file/watcher-side-file.module.code.ts"
+} from "akasha/temper/watcher/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
+import { writeSideFileIfChanged } from "akasha/temper/watcher/watcher-side-file/watcher-side-file.module.code.ts"
 import {
   type SignedInReader,
   userIdFor,
-} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+} from "akasha/temper/watcher/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import { stringAt } from "akasha/utils/narrow/string-at/string-at.module.code.ts"
 
 export const TASK_PAGE_TYPE_SLUG = "temper-task"
 
