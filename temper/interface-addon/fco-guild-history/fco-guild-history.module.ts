@@ -6,4 +6,10 @@ export const fcoGuildHistory = {
   slug: "fco-guild-history",
   definition: "the guild history window the interface tweaks page through",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "absence",
+      statement: "No shared guard is kept for the type each guard here narrows to.",
+    },
+  ],
 } as const satisfies Module
