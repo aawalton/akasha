@@ -7,8 +7,8 @@ export const costRelayService = {
   slug: "cost-relay-service",
   definition: "the service carrying the cost to the sites that show it",
   runs: [
-    "-bun readouts/relay/readout-relay.module.code.ts readouts/pages/cost-multiplier/cost-multiplier.readout.ts https://alanwalton.com",
-    "-bun readouts/relay/readout-relay.module.code.ts readouts/pages/cost-multiplier/cost-multiplier.readout.ts https://smilingjenny.me",
+    "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/cost-multiplier/cost-multiplier.readout.ts https://alanwalton.com",
+    "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/cost-multiplier/cost-multiplier.readout.ts https://smilingjenny.me",
   ],
   enabled: true,
   needsSecrets: true,

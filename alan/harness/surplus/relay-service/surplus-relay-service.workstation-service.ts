@@ -7,8 +7,8 @@ export const surplusRelayService = {
   slug: "surplus-relay-service",
   definition: "the service carrying the surplus hours to the sites that show them",
   runs: [
-    "-bun readouts/relay/readout-relay.module.code.ts readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts https://alanwalton.com",
-    "-bun readouts/relay/readout-relay.module.code.ts readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts https://smilingjenny.me",
+    "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts https://alanwalton.com",
+    "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts https://smilingjenny.me",
   ],
   enabled: true,
   needsSecrets: true,
