@@ -25,5 +25,10 @@ export const smsConsent = {
       invariantKind: "absence",
       statement: "Nothing here records who agreed.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The wording a version names is the whole sentence shown, links read as their own words.",
+    },
   ],
 } as const satisfies Module
