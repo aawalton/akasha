@@ -84,6 +84,8 @@ export const SEAT_AT = `${TREE}/seat-system/seats/pages/akasha.seat.ts`
 
 export const SEAT_BODY = `export const akasha = { assignmentSlug: "domain/akasha-system" }\n`
 
+export const PERSONA_AT = "akasha/persona-system/personas/akasha/akasha.persona.ts"
+
 export const MECHANICAL = "Checks-bypassed: a `change-mechanical` change runs no check"
 
 export const WENT = { went: true } as const

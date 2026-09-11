@@ -58,6 +58,7 @@ import {
   messageIn,
   NOTHING_KEPT,
   OWN,
+  PERSONA_AT,
   pageUnder,
   pastTheStamp,
   REFUSAL,
@@ -169,7 +170,7 @@ test("a seat the index carries no page for is named by nothing", () => {
 
 test("a page that is no seat names no seat", () => {
   inScratch((root) => {
-    pageFiled(root, SEAT_ID, "akasha/persona-system/personas/akasha/akasha.persona.ts")
+    pageFiled(root, SEAT_ID, PERSONA_AT)
     expect(seatNamedIn(root, SEAT_ID)).toBe(null)
   })
 })
