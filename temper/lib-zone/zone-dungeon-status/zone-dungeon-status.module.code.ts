@@ -1,7 +1,7 @@
-import { asMapNamesTable } from "../zone-casts/zone-casts.module.code.ts"
-import { INTERNAL_STATE } from "../zone-internal-state/zone-internal-state.module.code.ts"
-import { lib } from "../zone-lib-state/zone-lib-state.module.code.ts"
-import type { Lib } from "../zone-types/zone-types.module.code.ts"
+import { asMapNamesTable } from "akasha/temper/lib-zone/zone-casts/zone-casts.module.code.ts"
+import { INTERNAL_STATE } from "akasha/temper/lib-zone/zone-internal-state/zone-internal-state.module.code.ts"
+import { lib } from "akasha/temper/lib-zone/zone-lib-state/zone-lib-state.module.code.ts"
+import type { Lib } from "akasha/temper/lib-zone/zone-types/zone-types.module.code.ts"
 
 function getCurrentZoneAndGroupStatus(
   this: void

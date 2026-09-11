@@ -1,11 +1,14 @@
-import { asZoneDataEntry } from "../zone-casts/zone-casts.module.code.ts"
-import { LIB_NAME } from "../zone-constants/zone-constants.module.code.ts"
+import { asZoneDataEntry } from "akasha/temper/lib-zone/zone-casts/zone-casts.module.code.ts"
+import { LIB_NAME } from "akasha/temper/lib-zone/zone-constants/zone-constants.module.code.ts"
 import {
   checkMaxZoneIndicesAndIds,
   parseLuaCapture,
-} from "../zone-internal-helpers/zone-internal-helpers.module.code.ts"
-import { lib } from "../zone-lib-state/zone-lib-state.module.code.ts"
-import type { Lib, ZoneDataEntry } from "../zone-types/zone-types.module.code.ts"
+} from "akasha/temper/lib-zone/zone-internal-helpers/zone-internal-helpers.module.code.ts"
+import { lib } from "akasha/temper/lib-zone/zone-lib-state/zone-lib-state.module.code.ts"
+import type {
+  Lib,
+  ZoneDataEntry,
+} from "akasha/temper/lib-zone/zone-types/zone-types.module.code.ts"
 
 export function initZoneQueries(this: void): undefined {
   lib.GetParentMapId = function (this: Lib, mapId: number): number {

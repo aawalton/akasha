@@ -1,5 +1,5 @@
-import { asSavedVarsTable } from "../zone-casts/zone-casts.module.code.ts"
-import { lib } from "../zone-lib-state/zone-lib-state.module.code.ts"
+import { asSavedVarsTable } from "akasha/temper/lib-zone/zone-casts/zone-casts.module.code.ts"
+import { lib } from "akasha/temper/lib-zone/zone-lib-state/zone-lib-state.module.code.ts"
 
 export function applyZoneNameFallbacks(this: void): undefined {
   const referenceZoneNamesEN = lib.preloadedZoneNames.en

@@ -1,15 +1,18 @@
-import { asLib, libSlashCommander } from "../zone-casts/zone-casts.module.code.ts"
+import {
+  asLib,
+  libSlashCommander,
+} from "akasha/temper/lib-zone/zone-casts/zone-casts.module.code.ts"
 import {
   BLACKLISTED_ZONE_IDS,
   LIBRARY_INFO,
   MAX_MAP_IDS,
   SUPPORTED_LANGUAGES,
-} from "../zone-constants/zone-constants.module.code.ts"
-import { GEO_DATA_REFERENCE_TABLE } from "../zone-geo-data/zone-geo-data.module.code.ts"
-import { PRELOADED_ZONE_NAMES } from "../zone-names-data/zone-names-data.module.code.ts"
-import { PUBLIC_DUNGEON_MAP_IDS } from "../zone-public-dungeon-map-ids/zone-public-dungeon-map-ids.module.code.ts"
-import type { Lib } from "../zone-types/zone-types.module.code.ts"
-import { UI_STRINGS_EN } from "../zone-ui-strings/zone-ui-strings.module.code.ts"
+} from "akasha/temper/lib-zone/zone-constants/zone-constants.module.code.ts"
+import { GEO_DATA_REFERENCE_TABLE } from "akasha/temper/lib-zone/zone-geo-data/zone-geo-data.module.code.ts"
+import { PRELOADED_ZONE_NAMES } from "akasha/temper/lib-zone/zone-names-data/zone-names-data.module.code.ts"
+import { PUBLIC_DUNGEON_MAP_IDS } from "akasha/temper/lib-zone/zone-public-dungeon-map-ids/zone-public-dungeon-map-ids.module.code.ts"
+import type { Lib } from "akasha/temper/lib-zone/zone-types/zone-types.module.code.ts"
+import { UI_STRINGS_EN } from "akasha/temper/lib-zone/zone-ui-strings/zone-ui-strings.module.code.ts"
 
 export function checkIfLanguageIsSupported(this: void, lang: string | undefined): boolean {
   if (lang === undefined) return false

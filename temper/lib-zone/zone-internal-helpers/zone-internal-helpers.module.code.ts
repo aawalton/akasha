@@ -1,6 +1,6 @@
-import { asDebugInfoList } from "../zone-casts/zone-casts.module.code.ts"
-import { lib } from "../zone-lib-state/zone-lib-state.module.code.ts"
-import type { SavedVarsTable } from "../zone-types/zone-types.module.code.ts"
+import { asDebugInfoList } from "akasha/temper/lib-zone/zone-casts/zone-casts.module.code.ts"
+import { lib } from "akasha/temper/lib-zone/zone-lib-state/zone-lib-state.module.code.ts"
+import type { SavedVarsTable } from "akasha/temper/lib-zone/zone-types/zone-types.module.code.ts"
 
 export function getMaxZoneIndicesAndIds(this: void): LuaMultiReturn<[number, number]> {
   const numZoneIndices = GetNumZones()

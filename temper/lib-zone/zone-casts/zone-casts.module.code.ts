@@ -8,7 +8,7 @@ import type {
   ZoneDataEntry,
   ZoneLscLib,
   ZonePoiInfoTable,
-} from "../zone-types/zone-types.module.code.ts"
+} from "akasha/temper/lib-zone/zone-types/zone-types.module.code.ts"
 
 export function asLib(value: unknown): Lib {
   return value as Lib

@@ -1,4 +1,4 @@
-import type { LIBRARY_INFO } from "../zone-constants/zone-constants.module.code.ts"
+import type { LIBRARY_INFO } from "akasha/temper/lib-zone/zone-constants/zone-constants.module.code.ts"
 
 export type GlobalObjectTable = Record<string, unknown>
 
