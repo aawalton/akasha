@@ -41,5 +41,9 @@ export const carriedFile = {
       invariantKind: "absence",
       statement: "Nothing here writes the bytes anywhere.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "Nothing is imported here, because a container stage runs this body on its own.",
+    },
   ],
 } as const satisfies Module

@@ -23,11 +23,9 @@ import {
 } from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { runClusterUpscale } from "akasha/inference/generations/upscale/cluster/upscale-cluster.module.code.ts"
 import { runWorkstationUpscale } from "akasha/inference/generations/upscale/workstation/upscale-workstation.module.code.ts"
-import {
-  buildInferenceRunRecord,
-  sha256Hex,
-} from "akasha/inference/runs/record/inference-run-record.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/inference/runs/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
+import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const IMAGE = "--image"

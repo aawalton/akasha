@@ -16,9 +16,9 @@ import {
   buildFinishPatch,
   type FinishInferenceRunInput,
   type InferenceRunRecord,
-  sha256Hex,
 } from "akasha/inference/runs/record/inference-run-record.module.code.ts"
 import { INFERENCE_RUN_PAGE_TYPE_SLUG } from "akasha/inference/runs/services/inference-run-services.module.code.ts"
+import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
 import { JsonSchema } from "akasha/utils/narrow/json-schema/json-schema.module.code.ts"
 import { z } from "zod"
 

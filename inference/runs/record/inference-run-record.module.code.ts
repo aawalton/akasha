@@ -1,4 +1,3 @@
-import { createHash } from "node:crypto"
 import {
   INFERENCE_OPERATIONS,
   INFERENCE_SERVICES,
@@ -214,8 +213,4 @@ export function buildFinishPatch(input: FinishInferenceRunInput): InferenceRunFi
     ...(input.identityCosine !== undefined ? { identityCosine: input.identityCosine } : {}),
     ...(input.errorMessage !== undefined ? { errorMessage: input.errorMessage } : {}),
   }
-}
-
-export function sha256Hex(bytes: Uint8Array): string {
-  return createHash("sha256").update(bytes).digest("hex")
 }
