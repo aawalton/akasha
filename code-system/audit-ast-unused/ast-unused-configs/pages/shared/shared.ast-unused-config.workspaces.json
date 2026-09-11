@@ -8,7 +8,7 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "object-store": {
+    "infrastructure/storage/object-store": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
