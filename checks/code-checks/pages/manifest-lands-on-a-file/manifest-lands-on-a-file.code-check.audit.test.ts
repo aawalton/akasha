@@ -11,8 +11,8 @@ import {
   manifest,
   rooted,
   scratch,
-  wrote,
 } from "akasha/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.decision.test-fixtures.ts"
+import { wrote } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 
 const UNDER = "akasha-manifest-audit-"
 

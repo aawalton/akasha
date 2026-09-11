@@ -1,5 +1,3 @@
-import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
 import {
   declaringIn,
   type Named,
@@ -9,6 +7,7 @@ import {
   declaring,
   founded,
   typed,
+  wrote,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
@@ -74,15 +73,6 @@ export function rooted(prefix: string = "akasha-reached-"): string {
     { path: PAGE_AT, value: { id: ID, pageTypeSlug: PACKAGE, slug: "one-system" } },
   ])
   listingFiled(root, [PAGE_AT, MANIFEST_AT, AT])
-  return root
-}
-
-export function wrote(root: string, files: Readonly<Record<string, string>>): string {
-  for (const [path, body] of Object.entries(files)) {
-    const at = join(root, path)
-    mkdirSync(dirname(at), { recursive: true })
-    writeFileSync(at, body)
-  }
   return root
 }
 

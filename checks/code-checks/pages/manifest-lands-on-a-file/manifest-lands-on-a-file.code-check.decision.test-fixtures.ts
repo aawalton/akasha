@@ -1,5 +1,3 @@
-import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
 import {
   declaring,
   founded,
@@ -44,14 +42,5 @@ export function rooted(prefix: string = "akasha-manifest-"): string {
   valueAlsoFiled(root, PACKAGE, [
     { path: PAGE_AT, value: { id: ID, pageTypeSlug: PACKAGE, slug: "held" } },
   ])
-  return root
-}
-
-export function wrote(root: string, files: Readonly<Record<string, string>>): string {
-  for (const [path, body] of Object.entries(files)) {
-    const at = join(root, path)
-    mkdirSync(dirname(at), { recursive: true })
-    writeFileSync(at, body)
-  }
   return root
 }

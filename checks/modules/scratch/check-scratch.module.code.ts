@@ -185,8 +185,13 @@ export function proposing(
   return (at: string): Uint8Array | null => (at === path ? bytesOf(body) : disk(at))
 }
 
-export function tracked(root: string, files: Readonly<Record<string, string>> = {}): string {
+export function wrote(root: string, files: Readonly<Record<string, string>>): string {
   for (const [path, said] of Object.entries(files)) writing(root, path, said)
+  return root
+}
+
+export function tracked(root: string, files: Readonly<Record<string, string>> = {}): string {
+  wrote(root, files)
   const done = ran(["git", "-C", root, "init", "-q"])
   if (done.code !== 0) throw new Error(`no tree was made at ${root} — ${done.err.trim()}`)
   return root
