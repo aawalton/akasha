@@ -36,5 +36,9 @@ export const alanWebApiSmsVerificationStatus = {
       invariantKind: "absence",
       statement: "Nothing here answers Telnyx with a message.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The message states its own id and is named for the last twelve hex of that id.",
+    },
   ],
 } as const satisfies Route

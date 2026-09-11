@@ -15,11 +15,13 @@ const SAID_FROM = "telnyx-verification"
 
 const BODY_HOLDS = 20000
 
+const NAMED_HOLDS = 12
+
 const OPENS_WITH =
   "Telnyx posted a toll-free verification status. The payload it sent follows whole."
 
-export function messageNamed(said: string): string {
-  return `${MESSAGE_PAGE_TYPE_SLUG}-${said.replace(/[^0-9a-f]/g, "").slice(0, 12)}`
+export function messageNamed(id: string): string {
+  return `${MESSAGE_PAGE_TYPE_SLUG}-${id.replace(/-/g, "").slice(-NAMED_HOLDS)}`
 }
 
 export async function action({ request }: { request: Request }): Promise<Response> {
@@ -45,7 +47,8 @@ export async function action({ request }: { request: Request }): Promise<Respons
     return Response.json({ error: verified.reason }, { status: 403 })
   }
 
-  const named = messageNamed(crypto.randomUUID())
+  const id = crypto.randomUUID()
+  const named = messageNamed(id)
   const wrote = await writingFor({
     writer: STATUS_WRITER,
     message: `a toll-free verification status reaches the ${HANDLER_SEAT} seat`,
@@ -54,6 +57,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
         pageTypeSlug: MESSAGE_PAGE_TYPE_SLUG,
         slug: named,
         values: {
+          id,
           pageTypeSlug: MESSAGE_PAGE_TYPE_SLUG,
           slug: named,
           to: HANDLER_SEAT,
