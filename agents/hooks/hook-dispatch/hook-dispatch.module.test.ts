@@ -1,5 +1,11 @@
 import { describe, expect, test } from "bun:test"
-import { eventsIn, heldFor, inputAnew, reasonIn, type Valued } from "./hook-dispatch.module.code.ts"
+import {
+  eventsIn,
+  heldFor,
+  inputAnew,
+  reasonIn,
+  type Valued,
+} from "akasha/agents/hooks/hook-dispatch/hook-dispatch.module.code.ts"
 
 const OVER_BASH = "made-up/hooks/over-bash/over-bash.agent-hook.ts"
 

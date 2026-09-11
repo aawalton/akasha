@@ -1,19 +1,19 @@
-import type { BunCall } from "../../bun-calls/bun-calls.module.code.ts"
-import { bunCallsIn, scriptOf } from "../../bun-calls/bun-calls.module.code.ts"
-import { refusalOver } from "../../chain-refusal/chain-refusal.module.code.ts"
+import type { BunCall } from "akasha/agents/hooks/bun-calls/bun-calls.module.code.ts"
+import { bunCallsIn, scriptOf } from "akasha/agents/hooks/bun-calls/bun-calls.module.code.ts"
+import { refusalOver } from "akasha/agents/hooks/chain-refusal/chain-refusal.module.code.ts"
 import {
   guarding,
   ranAsCommandHook,
   SCOPE_FLAG,
   toldOf,
-} from "../../hook-answer/hook-answer.module.code.ts"
+} from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
 import {
   basenameOf,
   calledWords,
   RUNS_ANOTHER,
   ranBy,
   segmentsOf,
-} from "../../shell-calls/shell-calls.module.code.ts"
+} from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-typecheck"
 

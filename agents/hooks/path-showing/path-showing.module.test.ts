@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { shownIn } from "./path-showing.module.code.ts"
+import { shownIn } from "akasha/agents/hooks/path-showing/path-showing.module.code.ts"
 
 const ROOT = "/one/two"
 

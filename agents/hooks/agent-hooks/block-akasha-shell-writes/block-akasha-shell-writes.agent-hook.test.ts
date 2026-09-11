@@ -1,6 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
 import {
   editsInPlace,
   landingsIn,
@@ -11,8 +9,13 @@ import {
   rawCallsIn,
   redirectsIn,
   refusalFor,
-} from "./block-akasha-shell-writes.agent-hook.code.ts"
-import { scratch, WORLD } from "./block-akasha-shell-writes.agent-hook.test-fixtures.ts"
+} from "akasha/agents/hooks/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts"
+import {
+  scratch,
+  WORLD,
+} from "akasha/agents/hooks/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test-fixtures.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const ROOT = rootOf(import.meta.path)
 

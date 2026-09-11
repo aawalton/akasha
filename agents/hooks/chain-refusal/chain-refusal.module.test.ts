@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { judgingCalls, refusalOver } from "./chain-refusal.module.code.ts"
+import {
+  judgingCalls,
+  refusalOver,
+} from "akasha/agents/hooks/chain-refusal/chain-refusal.module.code.ts"
 
 const NO = "no"
 

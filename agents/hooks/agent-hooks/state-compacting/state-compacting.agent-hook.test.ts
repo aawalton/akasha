@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { compactingIn, SCOPE, stated } from "./state-compacting.agent-hook.code.ts"
+import {
+  compactingIn,
+  SCOPE,
+  stated,
+} from "akasha/agents/hooks/agent-hooks/state-compacting/state-compacting.agent-hook.code.ts"
 
 const OPENED = JSON.stringify({ hook_event_name: "PreCompact" })
 

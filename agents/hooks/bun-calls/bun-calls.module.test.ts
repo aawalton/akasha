@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { bunCallIn, bunCallsIn, scriptOf } from "./bun-calls.module.code.ts"
+import {
+  bunCallIn,
+  bunCallsIn,
+  scriptOf,
+} from "akasha/agents/hooks/bun-calls/bun-calls.module.code.ts"
 
 test("a bun call is read as its act and what follows it", () => {
   expect(bunCallIn("bun test akasha/")).toEqual({ act: "test", rest: ["akasha/"] })

@@ -1,11 +1,15 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
+import {
+  refusalIn,
+  SCOPE,
+  tscIn,
+} from "akasha/agents/hooks/agent-hooks/block-typecheck/block-typecheck.agent-hook.code.ts"
+import { parseRefusal } from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+import { judging } from "akasha/agents/hooks/hook-judging/hook-judging.module.code.ts"
+import { payloadOf } from "akasha/agents/hooks/hook-payload/hook-payload.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
-import { parseRefusal } from "../../hook-answer/hook-answer.module.code.ts"
-import { judging } from "../../hook-judging/hook-judging.module.code.ts"
-import { payloadOf } from "../../hook-payload/hook-payload.module.code.ts"
-import { refusalIn, SCOPE, tscIn } from "./block-typecheck.agent-hook.code.ts"
 
 const SCRIPT = join(import.meta.dir, "block-typecheck.agent-hook.code.ts")
 

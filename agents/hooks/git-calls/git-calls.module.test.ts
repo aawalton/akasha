@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { gitCallIn, gitCallsIn } from "./git-calls.module.code.ts"
+import { gitCallIn, gitCallsIn } from "akasha/agents/hooks/git-calls/git-calls.module.code.ts"
 
 test("a plain call is read into its act and the words after it", () => {
   expect(gitCallIn("git reset --hard")).toEqual({ act: "reset", rest: ["--hard"] })

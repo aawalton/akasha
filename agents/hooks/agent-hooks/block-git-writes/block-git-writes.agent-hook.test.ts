@@ -1,9 +1,13 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
+import {
+  refusalFor,
+  refusalIn,
+  SCOPE,
+} from "akasha/agents/hooks/agent-hooks/block-git-writes/block-git-writes.agent-hook.code.ts"
+import { parseRefusal } from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+import { payloadOf } from "akasha/agents/hooks/hook-payload/hook-payload.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { parseRefusal } from "../../hook-answer/hook-answer.module.code.ts"
-import { payloadOf } from "../../hook-payload/hook-payload.module.code.ts"
-import { refusalFor, refusalIn, SCOPE } from "./block-git-writes.agent-hook.code.ts"
 
 const SCRIPT = join(import.meta.dir, "block-git-writes.agent-hook.code.ts")
 

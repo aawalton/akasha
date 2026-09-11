@@ -1,4 +1,8 @@
-import { basenameOf, calledWords, segmentsOf } from "../shell-calls/shell-calls.module.code.ts"
+import {
+  basenameOf,
+  calledWords,
+  segmentsOf,
+} from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
 
 const GIT = "git"
 

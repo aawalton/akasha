@@ -1,6 +1,10 @@
+import {
+  ASIDE,
+  payloadIn,
+  SCOPE_FLAG,
+} from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+import { seatIn } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { setPending } from "akasha/seat-system/seat-turn-pending/seat-turn-pending.module.code.ts"
-import { seatIn } from "../../../../commands/modules/reading/reading.module.code.ts"
-import { ASIDE, payloadIn, SCOPE_FLAG } from "../../hook-answer/hook-answer.module.code.ts"
 
 const HOOK = "state-compacting"
 

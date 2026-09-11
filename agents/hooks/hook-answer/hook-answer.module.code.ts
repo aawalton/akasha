@@ -1,6 +1,6 @@
 import { resolve, sep } from "node:path"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { z } from "zod"
-import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 
 const PAYLOAD_SHAPE = z.looseObject({})
 

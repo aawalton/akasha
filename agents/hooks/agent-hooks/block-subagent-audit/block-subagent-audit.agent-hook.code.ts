@@ -1,5 +1,4 @@
-import { SUBAGENT_MARK } from "../../../../commands/modules/reading/reading.module.code.ts"
-import type { Answer } from "../../hook-answer/hook-answer.module.code.ts"
+import type { Answer } from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
 import {
   ASIDE,
   inputIn,
@@ -9,8 +8,13 @@ import {
   SCOPE_FLAG,
   said,
   toldOf,
-} from "../../hook-answer/hook-answer.module.code.ts"
-import { basenameOf, calledWords, segmentsOf } from "../../shell-calls/shell-calls.module.code.ts"
+} from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+import {
+  basenameOf,
+  calledWords,
+  segmentsOf,
+} from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
+import { SUBAGENT_MARK } from "akasha/commands/modules/reading/reading.module.code.ts"
 
 const HOOK = "block-subagent-audit"
 

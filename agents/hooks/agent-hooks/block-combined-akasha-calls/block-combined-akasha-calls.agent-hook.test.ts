@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { refusalIn } from "./block-combined-akasha-calls.agent-hook.code.ts"
+import { refusalIn } from "akasha/agents/hooks/agent-hooks/block-combined-akasha-calls/block-combined-akasha-calls.agent-hook.code.ts"
 
 const NAMES = "block-combined-akasha-calls"
 

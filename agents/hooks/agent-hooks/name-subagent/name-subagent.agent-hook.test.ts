@@ -1,12 +1,5 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import {
-  ACTING_NAMED,
-  SEAT_NAMED,
-  SUBAGENT_MARK,
-} from "../../../../commands/modules/reading/reading.module.code.ts"
-import { ASIDE, LET_THROUGH } from "../../hook-answer/hook-answer.module.code.ts"
 import {
   actingIn,
   answerFor,
@@ -14,7 +7,14 @@ import {
   exporting,
   SCOPE,
   spellable,
-} from "./name-subagent.agent-hook.code.ts"
+} from "akasha/agents/hooks/agent-hooks/name-subagent/name-subagent.agent-hook.code.ts"
+import { ASIDE, LET_THROUGH } from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+import {
+  ACTING_NAMED,
+  SEAT_NAMED,
+  SUBAGENT_MARK,
+} from "akasha/commands/modules/reading/reading.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const SCRIPT = join(import.meta.dir, "name-subagent.agent-hook.code.ts")
 

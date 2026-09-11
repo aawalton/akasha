@@ -1,13 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import {
-  READS_AT,
-  SUBAGENT_MARK,
-} from "../../../../commands/modules/reading/reading.module.code.ts"
-import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   actingIn,
   agentIn,
@@ -20,7 +13,11 @@ import {
   SCOPE,
   seatIn,
   sourceIn,
-} from "./clear-reads-on-context-replaced.agent-hook.code.ts"
+} from "akasha/agents/hooks/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.code.ts"
+import { READS_AT, SUBAGENT_MARK } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const SCRIPT = join(import.meta.dir, "clear-reads-on-context-replaced.agent-hook.code.ts")
 

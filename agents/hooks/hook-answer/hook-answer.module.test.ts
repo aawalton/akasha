@@ -10,7 +10,7 @@ import {
   rewriting,
   toolInputIn,
   UNREADABLE,
-} from "./hook-answer.module.code.ts"
+} from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
 
 const HOOK = "a-hook"
 

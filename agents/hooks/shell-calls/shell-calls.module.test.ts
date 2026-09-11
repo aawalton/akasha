@@ -8,7 +8,7 @@ import {
   RUNS_ANOTHER,
   segmentsOf,
   wordsOf,
-} from "./shell-calls.module.code.ts"
+} from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
 
 test("a line continuation is joined", () => {
   expect(joinedContinuations("git \\\nreset --hard")).toBe("git  reset --hard")

@@ -1,10 +1,8 @@
 import { lstatSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
-import { gitIgnoring } from "akasha/git/pathspec/git-pathspec.module.code.ts"
-import { z } from "zod"
-import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
-import { parseHookPayload } from "../../hook-answer/hook-answer.module.code.ts"
-import { insideOf, settled } from "../../settling/settling.module.code.ts"
+import { guardedIn } from "akasha/agents/hooks/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts"
+import { parseHookPayload } from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
 import {
   basenameOf,
   calledWords,
@@ -13,8 +11,10 @@ import {
   pastHeredocs,
   segmentsOf,
   wordsOf,
-} from "../../shell-calls/shell-calls.module.code.ts"
-import { guardedIn } from "../block-akasha-edits/block-akasha-edits.agent-hook.code.ts"
+} from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { gitIgnoring } from "akasha/git/pathspec/git-pathspec.module.code.ts"
+import { z } from "zod"
 
 const HOOK_NAME = "block-akasha-shell-writes"
 

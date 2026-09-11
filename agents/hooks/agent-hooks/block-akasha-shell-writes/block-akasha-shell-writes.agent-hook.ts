@@ -1,4 +1,4 @@
-import type { AgentHook } from "../agent-hook.page-type.types.ts"
+import type { AgentHook } from "akasha/agents/hooks/agent-hooks/agent-hook.page-type.types.ts"
 
 export const blockAkashaShellWrites = {
   id: "01a04ee9-8899-7bf9-a3e7-3322e3b145d7",

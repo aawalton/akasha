@@ -1,4 +1,4 @@
-import type { AgentHook } from "../agent-hook.page-type.types.ts"
+import type { AgentHook } from "akasha/agents/hooks/agent-hooks/agent-hook.page-type.types.ts"
 
 export const nameSubagent = {
   id: "01a04fc3-fa00-7000-bbc9-a79135819969",

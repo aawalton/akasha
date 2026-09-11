@@ -1,5 +1,9 @@
+import {
+  ranAsCommandHook,
+  SCOPE_FLAG,
+  toldOf,
+} from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
 import { z } from "zod"
-import { ranAsCommandHook, SCOPE_FLAG, toldOf } from "../../hook-answer/hook-answer.module.code.ts"
 
 const HOOK = "block-combined-akasha-calls"
 

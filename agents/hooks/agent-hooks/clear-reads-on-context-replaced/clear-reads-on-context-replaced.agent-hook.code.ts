@@ -1,11 +1,12 @@
 import { appendFileSync, existsSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
-  READS_AT,
-  SUBAGENT_MARK,
-} from "../../../../commands/modules/reading/reading.module.code.ts"
-import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
-import { ASIDE, parseHookPayload, SCOPE_FLAG } from "../../hook-answer/hook-answer.module.code.ts"
+  ASIDE,
+  parseHookPayload,
+  SCOPE_FLAG,
+} from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+import { READS_AT, SUBAGENT_MARK } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 
 const HOOK = "clear-reads-on-context-replaced"
 

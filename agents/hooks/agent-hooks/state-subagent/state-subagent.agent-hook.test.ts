@@ -1,8 +1,12 @@
 import { expect, test } from "bun:test"
+import {
+  actIn,
+  askedOf,
+  SCOPE,
+} from "akasha/agents/hooks/agent-hooks/state-subagent/state-subagent.agent-hook.code.ts"
+import { SEAT_NAMED } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { SEAT_NAMED } from "../../../../commands/modules/reading/reading.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { actIn, askedOf, SCOPE } from "./state-subagent.agent-hook.code.ts"
 
 const SEAT = "01a05844-6e60-7000-b54c-4b14559df70b"
 
