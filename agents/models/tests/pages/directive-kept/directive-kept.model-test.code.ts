@@ -1,10 +1,10 @@
 import { directiveKept as test } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.ts"
 import {
   type Asked,
+  anyYes,
   type Case,
   filling,
   type Got,
-  keptBy,
   type PageReading,
 } from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
 
@@ -25,6 +25,10 @@ const ASKED = "{asked}"
 const TURN = "{turn}"
 
 const RULE = "{rule}"
+
+const YES = "YES"
+
+const JUDGED = "Neither Clock Nor Meter"
 
 export type Directive = {
   readonly name: string
@@ -65,10 +69,14 @@ export function directivesIn(given: unknown): readonly Directive[] {
   return found
 }
 
+export function judgedIn(directives: readonly Directive[]): readonly Directive[] {
+  return directives.filter((one) => one.name === JUDGED)
+}
+
 export function asking(one: Case, reading: PageReading): readonly Asked[] {
   const page = reading(PERSON, one.page)
   if (page === null) return []
-  return directivesIn(page[DIRECTIVES]).map((found) => ({
+  return judgedIn(directivesIn(page[DIRECTIVES])).map((found) => ({
     about: found.name,
     prompt: filling(test.prompt, {
       [ASKED]: one.asked ?? "",
@@ -79,11 +87,11 @@ export function asking(one: Case, reading: PageReading): readonly Asked[] {
 }
 
 export function keeping(one: Case, got: readonly Got[]): boolean {
-  return keptBy(one, got)
+  return anyYes(got) === (one.answer === YES && one.against === JUDGED)
 }
 
 export function directiveKept(judging: Judging): readonly Putting[] {
-  return judging.directives.map((one) => {
+  return judgedIn(judging.directives).map((one) => {
     const rule = ruleOf(one)
     return {
       statement: rule,

@@ -15,7 +15,11 @@ export const keepAlanDirectives = {
     },
     {
       invariantKind: "departure",
-      statement: "The rules judged by are the ones the seat's person states.",
+      statement: "The rule judged by is the one the model test's code names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A person stating no such rule leaves the turn alone.",
     },
     {
       invariantKind: "departure",
@@ -44,6 +48,10 @@ export const keepAlanDirectives = {
     {
       invariantKind: "departure",
       statement: "The first rule answered yes ends the call and the rest are not read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A yes is the model's last line rather than the model's opening word.",
     },
     {
       invariantKind: "departure",

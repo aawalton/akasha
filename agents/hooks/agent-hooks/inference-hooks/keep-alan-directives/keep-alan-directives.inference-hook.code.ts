@@ -8,7 +8,7 @@ import {
   SCOPE_FLAG,
   said,
 } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
-import { opensYes } from "akasha/agents/models/modules/answer/model-answer.module.code.ts"
+import { endsYes } from "akasha/agents/models/modules/answer/model-answer.module.code.ts"
 import {
   directiveKept,
   directivesIn,
@@ -57,7 +57,7 @@ export const SCOPE: readonly string[] = [
   `${HOOK} judges the last words an agent wrote to Alan, as that agent's turn ends.`,
   "",
   "It catches:",
-  "  the closing words of a turn, put to a model against each rule the seat's person states.",
+  "  the closing words of a turn, put to a model against the one rule the test names.",
   "  what the person last asked for, put beside those words so a rule about it can be judged.",
   "",
   "It does not catch:",
@@ -108,7 +108,7 @@ export function judging(root: string, agent: string, asked: string, turn: string
   )
   if (answers === null) return LET_THROUGH
   for (let at = 0; at < asking.length; at += 1) {
-    if (!opensYes(answers[at] ?? "")) continue
+    if (!endsYes(answers[at] ?? "")) continue
     return refusing(`${TOLD}\n\n${asking[at]?.statement ?? ""}`)
   }
   return LET_THROUGH

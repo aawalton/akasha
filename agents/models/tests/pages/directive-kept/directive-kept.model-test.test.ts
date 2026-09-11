@@ -4,20 +4,21 @@ import {
   type Directive,
   directiveKept,
   directivesIn,
+  keeping,
   ruleOf,
 } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.code.ts"
 import type { Case } from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
 
 const ONE: Directive = {
-  name: "Act By Default",
-  act: "Act on what is in front of you.",
-  warrant: "Asking spends attention.",
-  aids: ["When Alan asks you to hold there, hold there."],
+  name: "Neither Clock Nor Meter",
+  act: "Never estimate the effort work will take.",
+  warrant: "You know none of it.",
+  aids: ["A duration already elapsed is a fact."],
 }
 
 test("a rule is put whole, with its warrant and its aids", () => {
   expect(ruleOf(ONE)).toBe(
-    "Act By Default: Act on what is in front of you.\nAsking spends attention.\n- When Alan asks you to hold there, hold there."
+    "Neither Clock Nor Meter: Never estimate the effort work will take.\nYou know none of it.\n- A duration already elapsed is a fact."
   )
 })
 
@@ -67,7 +68,7 @@ const CASE: Case = {
   id: "01a09149-86b8-7a49-b3a0-96f054359ff3",
   page: "alan",
   definition: "the person this system answers to",
-  against: "Act By Default",
+  against: "Neither Clock Nor Meter",
   asked: "hold there",
   statement: "holding",
   answer: "NO",
@@ -87,11 +88,12 @@ const PAGE: Record<string, unknown> = {
   ],
 }
 
-test("every rule the page states is put for one case, each on its own", () => {
-  expect(asking(CASE, () => PAGE).map((put) => put.about)).toEqual([
-    "Act By Default",
-    "Don't Stop!",
-  ])
+test("the one rule this test names is put, and the page's others are not", () => {
+  expect(asking(CASE, () => PAGE).map((put) => put.about)).toEqual(["Neither Clock Nor Meter"])
+})
+
+test("a page stating no such rule is put nothing", () => {
+  expect(asking(CASE, () => ({ directives: [{ directiveKind: "principle", ...TWO }] }))).toEqual([])
 })
 
 test("a case carries what was asked, what was written and the rule put", () => {
@@ -99,7 +101,6 @@ test("a case carries what was asked, what was written and the rule put", () => {
   expect(put[0]?.prompt).toContain("<asked>\nhold there\n</asked>")
   expect(put[0]?.prompt).toContain("<turn>\nholding\n</turn>")
   expect(put[0]?.prompt).toContain(ruleOf(ONE))
-  expect(put[1]?.prompt).toContain(ruleOf(TWO))
 })
 
 test("a case naming nothing asked is put with that block empty", () => {
@@ -113,5 +114,21 @@ test("a case naming a page that is not there is put to nothing", () => {
 })
 
 test("the rule a case names does not narrow what is put", () => {
-  expect(asking({ ...CASE, against: "No Such Rule" }, () => PAGE)).toHaveLength(2)
+  expect(asking({ ...CASE, against: "No Such Rule" }, () => PAGE)).toHaveLength(1)
+})
+
+test("a case is kept where the answer matches whether it is filed under the rule judged", () => {
+  const yes = [{ about: "Neither Clock Nor Meter", said: '"a few lines"\n\nYES' }]
+  const no = [{ about: "Neither Clock Nor Meter", said: "NOTHING TO QUOTE\n\nNO" }]
+  expect(keeping({ ...CASE, answer: "YES" }, yes)).toBe(true)
+  expect(keeping({ ...CASE, answer: "NO" }, no)).toBe(true)
+  expect(keeping({ ...CASE, answer: "YES" }, no)).toBe(false)
+})
+
+test("a case filed under another rule is a case expected to answer no", () => {
+  const yes = [{ about: "Neither Clock Nor Meter", said: '"a few lines"\n\nYES' }]
+  const no = [{ about: "Neither Clock Nor Meter", said: "NOTHING TO QUOTE\n\nNO" }]
+  const other: Case = { ...CASE, answer: "YES", against: "Don't Stop!" }
+  expect(keeping(other, no)).toBe(true)
+  expect(keeping(other, yes)).toBe(false)
 })

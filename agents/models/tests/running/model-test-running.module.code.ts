@@ -1,6 +1,6 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { opensYes } from "akasha/agents/models/modules/answer/model-answer.module.code.ts"
+import { endsYes } from "akasha/agents/models/modules/answer/model-answer.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { ran as spawned } from "akasha/utils/run/running/running.module.code.ts"
@@ -117,7 +117,7 @@ export function filling(prompt: string, values: Readonly<Record<string, string>>
 }
 
 export function anyYes(got: readonly Got[]): boolean {
-  return got.some((one) => opensYes(one.said))
+  return got.some((one) => endsYes(one.said))
 }
 
 export function keptBy(one: Case, got: readonly Got[]): boolean {
