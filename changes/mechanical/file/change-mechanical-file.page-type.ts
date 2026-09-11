@@ -14,6 +14,7 @@ export const changeMechanicalFile = {
     "domain/change-mechanical-file-move",
     "domain/change-mechanical-file-add-if-not-present",
     "domain/change-mechanical-file-rename",
+    "domain/change-mechanical-file-divide",
   ],
   properties: [
     { pageProperty: "relation-property/change-target-type", required: true, many: false },
