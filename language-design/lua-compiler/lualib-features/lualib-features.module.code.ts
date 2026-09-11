@@ -42,6 +42,7 @@ export const LuaLibFeature = {
   CloneDescriptor: "CloneDescriptor",
   CountVarargs: "CountVarargs",
   Date: "Date",
+  DaysFromCivil: "DaysFromCivil",
   Decorate: "Decorate",
   DecorateLegacy: "DecorateLegacy",
   DecorateParam: "DecorateParam",

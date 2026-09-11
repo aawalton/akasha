@@ -1,3 +1,5 @@
+import { __TS__DaysFromCivil } from "akasha/language-design/lua-compiler/lualibs/days-from-civil/days-from-civil.lualib.code.ts"
+
 declare function GetTimeStamp(this: void): number
 declare function GetGameTimeMilliseconds(this: void): number
 
@@ -19,16 +21,6 @@ const MS_PER_DAY = 24 * MS_PER_HOUR
 
 let anchorEpochMs: number | undefined
 let anchorGameMs: number | undefined
-
-function daysFromCivil(year: number, month1: number, day: number): number {
-  const yAdj = month1 <= 2 ? year - 1 : year
-  const era = Math.floor(yAdj / 400)
-  const yoe = yAdj - era * 400
-  const monthIndex = month1 > 2 ? month1 - 3 : month1 + 9
-  const doy = Math.floor((153 * monthIndex + 2) / 5) + day - 1
-  const doe = yoe * 365 + Math.floor(yoe / 4) - Math.floor(yoe / 100) + doy
-  return era * 146097 + doe - 719468
-}
 
 interface CivilDate {
   year: number
@@ -111,7 +103,7 @@ export class Date {
     const mi = minutes === undefined ? 0 : minutes
     const s = seconds === undefined ? 0 : seconds
     const milli = ms === undefined ? 0 : ms
-    const days = daysFromCivil(year, month + 1, day)
+    const days = __TS__DaysFromCivil(year, month + 1, day)
     return days * MS_PER_DAY + h * MS_PER_HOUR + mi * MS_PER_MINUTE + s * MS_PER_SECOND + milli
   }
 

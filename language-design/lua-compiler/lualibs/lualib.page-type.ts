@@ -120,6 +120,7 @@ export const lualib = {
     "lualib/using-async",
     "lualib/class-table",
     "lualib/date",
+    "lualib/days-from-civil",
     "lualib/new-instance",
     "lualib/number",
     "lualib/structured-clone",

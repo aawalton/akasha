@@ -1,3 +1,5 @@
+import { __TS__DaysFromCivil } from "akasha/language-design/lua-compiler/lualibs/days-from-civil/days-from-civil.lualib.code.ts"
+
 const SECONDS_PER_DAY = 86_400
 const RESET_OFFSET_SECONDS = 6 * 3600
 const EDT_OFFSET_SECONDS = -4 * 3600
@@ -23,23 +25,13 @@ function civilFromDays(daysSinceEpoch: number): {
   return { year, month, day }
 }
 
-function daysFromCivil(year: number, month: number, day: number): number {
-  const yAdj = month <= 2 ? year - 1 : year
-  const era = Math.floor(yAdj / 400)
-  const yoe = yAdj - era * 400
-  const monthIndex = month > 2 ? month - 3 : month + 9
-  const doy = Math.floor((153 * monthIndex + 2) / 5) + day - 1
-  const doe = yoe * 365 + Math.floor(yoe / 4) - Math.floor(yoe / 100) + doy
-  return era * 146097 + doe - 719468
-}
-
 function dowFromDays(daysSinceEpoch: number): number {
   const raw = (daysSinceEpoch + 4) % 7
   return raw < 0 ? raw + 7 : raw
 }
 
 function nthSundayOfMonthDays(year: number, month: number, n: number): number {
-  const firstOfMonth = daysFromCivil(year, month, 1)
+  const firstOfMonth = __TS__DaysFromCivil(year, month, 1)
   const dowOfFirst = dowFromDays(firstOfMonth)
   const firstSundayOffset = (7 - dowOfFirst) % 7
   return firstOfMonth + firstSundayOffset + (n - 1) * 7
