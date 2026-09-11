@@ -164,6 +164,14 @@ export const lualib = {
       statement: "A helper's TypeScript is in a file beside the page.",
     },
     {
+      invariantKind: "departure",
+      statement: "Code outside the compiler reaches a helper by importing that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An importer outside the compiler compiles the helper into its own bundle.",
+    },
+    {
       invariantKind: "constraint",
       statement: "A helper's exported name is the ECMAScript runtime's rather than akasha's.",
     },
