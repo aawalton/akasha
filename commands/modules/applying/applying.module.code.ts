@@ -284,8 +284,8 @@ export async function applied(
     base: done.base,
     landed: [...done.wrote, ...done.took].sort(),
     formatted: [...formatting.formatted].sort(),
-    said: [...prepared.said, ...put.said],
-    wrong: put.wrong,
+    said: [...prepared.said, ...put.said, ...done.linked.said],
+    wrong: [...put.wrong, ...done.linked.wrong],
     commit: done.commit,
   }
 }

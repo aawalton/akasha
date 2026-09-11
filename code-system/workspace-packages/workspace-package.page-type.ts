@@ -7,11 +7,12 @@ export const workspacePackage = {
   slug: "workspace-package",
   definition: "a folder with a package.json file",
   pluralSlug: "workspace-packages",
-  parts: ["file-property/manifest", "text-property/tool-reached"],
+  parts: ["file-property/manifest", "text-property/tool-reached", "text-property/linked-at"],
   extends: ["page-type/domain"],
   properties: [
     { pageProperty: "file-property/manifest", required: false, many: false },
     { pageProperty: "text-property/tool-reached", required: false, many: true, maxCount: null },
+    { pageProperty: "text-property/linked-at", required: false, many: false },
   ],
   invariants: [
     {

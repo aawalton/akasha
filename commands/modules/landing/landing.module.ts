@@ -159,6 +159,38 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "A page that moved has the folder it sits in linked where that page says.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The links are placed after the folders are cleared.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page no move carries is weighed for a link by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link is placed for a page that moved rather than for every page there is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link that could not be placed is answered rather than refusing the landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The links placed are answered alongside the paths written and the paths taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link outside the repository is placed outside the writing this refuses.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A machine whose link is absent gets one only once the folder moves.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A hold runs from the first write to the commit.",
     },
     {

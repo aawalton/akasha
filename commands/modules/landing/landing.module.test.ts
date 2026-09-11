@@ -1,8 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { butTheStamp } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { rebuiltFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import {
   everythingFiled,
   fileWhereTheIndexIs,
@@ -10,7 +8,6 @@ import {
   idFiledIn,
   listedFiledIn,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
@@ -32,11 +29,11 @@ import {
   gitWatching,
   ID,
   IGNORED_OUT,
-  identityAmong,
   keptText,
   LINE,
   landedAtHead,
   landedMoving,
+  linkMoved,
   NUL,
   pageLanded,
   pageRepo,
@@ -44,6 +41,7 @@ import {
   pathsSeen,
   putBackThrows,
   REFUSES,
+  rebuiltBeside,
   repoWith,
   rowsIn,
   scratch,
@@ -154,12 +152,10 @@ test("a refused change leaves the index as it found it, as it leaves the worktre
 })
 
 test("the index two landings leave is the index a rebuild from those pages builds, but for the stamp only a rebuild writes", async () => {
-  const root = await pageLanded(repoWith({ "seed.txt": "held" }))
-  const rebuilt = scratch.rootFor("akasha-rebuilt-")
-  rebuiltFrom(join(root, "akasha"), rebuilt, root)
-  expect(identityAmong(everythingFiled(root)).length).toBeGreaterThan(0)
-  expect(identityAmong(everyFileUnder(rebuilt)).length).toBeGreaterThan(0)
-  expect(butTheStamp(everyFileUnder(rebuilt))).toEqual(butTheStamp(everythingFiled(root)))
+  const said = await rebuiltBeside()
+  expect(said.filed.length).toBeGreaterThan(0)
+  expect(said.built.length).toBeGreaterThan(0)
+  expect(said.again).toEqual(said.landed)
 })
 
 test("a refused change leaves nothing behind", async () => {
@@ -331,6 +327,10 @@ test("a name beginning with two dots and a move inside the repository both land"
   expect("refusals" in said ? said.refusals.join("\n") : "").toBe("")
   expect(readFileSync(join(root, "..hidden.txt"), "utf8")).toBe("kept")
   expect(readFileSync(join(root, "deep/moved.txt"), "utf8")).toBe("committed")
+})
+
+test("a page that moved has the folder it sits in linked where that page says", async () => {
+  expect(await linkMoved()).toEqual([])
 })
 
 test("a path the repository ignores is written onto the tree and left out of the commit", async () => {

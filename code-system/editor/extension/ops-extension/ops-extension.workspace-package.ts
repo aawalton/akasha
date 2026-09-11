@@ -27,7 +27,7 @@ export const opsExtension = {
     },
     {
       invariantKind: "constraint",
-      statement: "The editor fork reaches this folder by a symlink at `extensions/ops`.",
+      statement: "The editor fork reaches this folder by a symlink rather than by its own path.",
     },
     {
       invariantKind: "departure",
@@ -38,4 +38,5 @@ export const opsExtension = {
       statement: "The extension is identified as `vscode.ops` wherever the editor keeps its state.",
     },
   ],
+  linkedAt: "~/.local/share/code-editor/extensions/ops",
 } as const satisfies WorkspacePackage

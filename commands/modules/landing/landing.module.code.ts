@@ -1,4 +1,5 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { homedir } from "node:os"
 import { dirname, join } from "node:path"
 import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
@@ -23,6 +24,11 @@ import {
   clearedUnder,
   isFolder,
 } from "../folder-clearing/folder-clearing.module.code.ts"
+import {
+  type Linking,
+  linkedOver,
+  NOTHING_LINKED,
+} from "../folder-linking/folder-linking.module.code.ts"
 import { indexingLoaded, type Keeping } from "../gate-building/gate-building.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
 import { alsoFailed, alsoSaid } from "../landing-saying/landing-saying.module.code.ts"
@@ -45,6 +51,7 @@ export type Landed = {
   readonly took: readonly string[]
   readonly noted: readonly string[]
   readonly cleared: readonly string[]
+  readonly linked: Linking
 }
 
 export type Refused = {
@@ -355,7 +362,15 @@ export async function landing(
   if (changes.length === 0) {
     const base = baseOf(root)
     if (drafting !== null) return { base, drafted: [] }
-    return { base, commit: null, wrote: [], took: [], noted: [], cleared: [] }
+    return {
+      base,
+      commit: null,
+      wrote: [],
+      took: [],
+      noted: [],
+      cleared: [],
+      linked: NOTHING_LINKED,
+    }
   }
   const outside = changes
     .flatMap(pathsOf)
@@ -433,7 +448,8 @@ export async function landing(
         wroteOnto(root, split.uncommitted)
         const gone = [...put.took, ...then.took, ...moves.map((one) => one.from)]
         const cleared = clearedOff(root, gone)
-        return { base, commit, wrote, took, noted, cleared }
+        const linked = linkedOver(root, moves, homedir())
+        return { base, commit, wrote, took, noted, cleared, linked }
       } catch (thrown) {
         back()
         throw thrown

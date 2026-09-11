@@ -21,6 +21,7 @@ const LANDED: Landed = {
   took: ["akasha/one.ts"],
   noted: [],
   cleared: [],
+  linked: { said: [], wrong: [] },
 }
 
 const DRAFTED: Drafted = {

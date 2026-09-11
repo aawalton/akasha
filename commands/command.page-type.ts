@@ -113,6 +113,7 @@ export const command = {
     "module/calendar-eventing",
     "namespace/google",
     "command/deploy",
+    "module/folder-linking",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",

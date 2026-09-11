@@ -100,6 +100,14 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement: "A link the landing placed is named in the report.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link the landing could not place is answered as a refusal beside the commit.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "An apply with a manifest installs the checkout onto the commit that apply landed.",
     },
