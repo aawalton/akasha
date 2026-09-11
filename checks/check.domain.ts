@@ -92,6 +92,10 @@ export const check = {
       statement: "Every check is cheap enough to run at change.",
     },
     {
+      invariantKind: "departure",
+      statement: "A check's ceiling is stated in time rather than in processes alive.",
+    },
+    {
       invariantKind: "upkeep",
       statement: "Every check runs at change unless Alan has that check off.",
     },
