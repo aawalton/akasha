@@ -1,14 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import {
-  existsSync,
-  lstatSync,
-  mkdirSync,
-  renameSync,
-  rmSync,
-  symlinkSync,
-  writeFileSync,
-} from "node:fs"
+import { existsSync, mkdirSync, renameSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { anythingThere as linkThere } from "akasha/utils/fs/anything-there/anything-there.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import type {
   Adding,
@@ -220,15 +213,6 @@ test("a lockfile the install makes again says the commit carries one its manifes
   expect(put.said).toEqual([])
   expect(put.wrong[0]).toContain(LOCK)
 })
-
-function linkThere(at: string): boolean {
-  try {
-    lstatSync(at)
-    return true
-  } catch {
-    return false
-  }
-}
 
 function strandedLink(root: string, path: string): string {
   const at = join(root, MODULES, path)

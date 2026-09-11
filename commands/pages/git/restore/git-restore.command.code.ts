@@ -1,5 +1,6 @@
-import { chmodSync, lstatSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { chmodSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
+import { anythingThere } from "akasha/utils/fs/anything-there/anything-there.module.code.ts"
 import { said as gitIn } from "../../../../git/running/git-running.module.code.ts"
 import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
 import { type Answer, answering, type Given } from "../../../modules/calling/calling.module.code.ts"
@@ -116,15 +117,6 @@ function bytesOnDisk(at: string): Uint8Array | null {
   }
 }
 
-function anythingOnDisk(at: string): boolean {
-  try {
-    lstatSync(at)
-    return true
-  } catch {
-    return false
-  }
-}
-
 export function unheld(path: string): string {
   return (
     `HEAD holds no ${path}, so \`akasha git restore\` has nothing to put back there — a path HEAD ` +
@@ -182,7 +174,7 @@ function heldFor(root: string, path: string, entry: Entry, indexed?: Entry): Hel
 
 function residueFor(root: string, path: string, indexed: Entry | undefined): Cleared | string {
   if (indexed === undefined) return unheld(path)
-  if (anythingOnDisk(join(root, path))) return unlanded(path)
+  if (anythingThere(join(root, path))) return unlanded(path)
   if (!MODES.has(indexed.mode)) return unclearable(path, indexed)
   return { path, entry: indexed }
 }

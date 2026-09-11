@@ -7,6 +7,7 @@ export const utilsFs = {
   slug: "utils-fs",
   definition: "how a file lands whole and how a path spelled from home is spelled in full",
   parts: [
+    "module/anything-there",
     "module/atomic-write",
     "module/expand-tilde",
     "module/file-size",
