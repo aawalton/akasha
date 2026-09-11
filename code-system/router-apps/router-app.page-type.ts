@@ -12,6 +12,7 @@ export const routerApp = {
     "module/auth-footer",
     "file-property/compile-config",
     "file-property/placeholder-image",
+    "module/font-preload",
     "module/health-answer",
     "module/router-app-rendering",
     "module/router-context-adapters",

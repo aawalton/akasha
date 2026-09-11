@@ -9,6 +9,7 @@ import {
   authGuard,
 } from "akasha/alan/harness/supabase-rr/auth-guard/auth-guard.module.code.ts"
 import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
+import { fontPreloading } from "akasha/code-system/router-apps/font-preload/font-preload.module.code.ts"
 import {
   LayoutRouterAdapter,
   PagesUIRouterAdapter,
@@ -52,15 +53,7 @@ const AUTH_CONFIG: AuthRouteConfig = {
   signInOnInvalidSession: true,
 }
 
-export const links: LinksFunction = () => [
-  {
-    rel: "preload",
-    href: geistSansWoff2,
-    as: "font",
-    type: "font/woff2",
-    crossOrigin: "anonymous",
-  },
-]
+export const links: LinksFunction = () => fontPreloading(geistSansWoff2)
 
 export const meta: MetaFunction = () => [
   { title: "Temper | The Ultimate ESO Build Editor & Optimizer" },

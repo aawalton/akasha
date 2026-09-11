@@ -8,6 +8,7 @@ import { isNativeShell } from "akasha/alan/web/capacitor-bridge/capacitor-bridge
 import { createNativeFsContentPersistence } from "akasha/alan/web/content-pages-fs/content-pages-fs.module.code.ts"
 import { readLocalPosition } from "akasha/alan/web/offline-text/offline-text.module.code.ts"
 import { createNativeFsPagesPersistence } from "akasha/alan/web/pages-persistence-fs/pages-persistence-fs.module.code.ts"
+import { fontPreloading } from "akasha/code-system/router-apps/font-preload/font-preload.module.code.ts"
 import { CommandPalette } from "akasha/design/interfaces/primitives/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/interfaces/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
@@ -86,13 +87,7 @@ const AUTH_CONFIG: AuthRouteConfig = {
 }
 
 export const links: Route.LinksFunction = () => [
-  {
-    rel: "preload",
-    href: geistSansWoff2,
-    as: "font",
-    type: "font/woff2",
-    crossOrigin: "anonymous",
-  },
+  ...fontPreloading(geistSansWoff2),
   {
     rel: "icon",
     href: "/favicon.svg",
