@@ -31,7 +31,7 @@ export const theaChecksSystem = {
     {
       statement: "Every env key a client bundle reads is marked for vite rather than for Next.",
       workingMemory:
-        "Six commits: every client read takes import.meta.env.VITE_* now, the manifests hand each key under both names, and the iOS stage script supplies VITE_API_ORIGIN, the only supplier that key has anywhere. supabaseClientEnvDefine still inlines four process.env.NEXT_PUBLIC_* keys no client read uses, and throws unless two are set, so six vite builds require two dead variables. Dropping the Next names is held: seven route files with the build sha and the pmtiles url are claimed by no page.",
+        "Verified 2026-09-10. The four NEXT_PUBLIC inlines in supabaseClientEnvDefine are dead in first-party code and in node_modules, against a control finding 23 live import.meta.env.VITE_* reads; every supplier sets both spellings. The throw is not dead: it is the only build-time check that five of six builds have their Supabase settings, and catches that only because both spellings travel together. web-capacitor guards the VITE names at stage-app 25-30. Re-point the throw rather than drop it.",
     },
     {
       statement: "A check looks for unused code and passes.",
