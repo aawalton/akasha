@@ -278,7 +278,7 @@ declare const table: {
     (<T>(this: void, list: T[], pos: number, value: T) => void)
   maxn: (this: void, table: object) => number
   remove: <T>(this: void, list: T[], pos?: number) => T | undefined
-  sort: <T>(this: void, list: T[], comp?: (a: T, b: T) => boolean) => void
+  sort: <T>(this: void, list: T[], comp?: (this: void, a: T, b: T) => boolean) => void
   unpack: (<T extends unknown[]>(this: void, list: T) => LuaMultiReturn<T>) &
     (<T>(this: void, list: T[], i: number, j?: number) => LuaMultiReturn<T[]>)
 }
