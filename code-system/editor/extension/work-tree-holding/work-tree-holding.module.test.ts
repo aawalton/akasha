@@ -11,10 +11,7 @@ import {
   movedLabels,
   settledOver,
 } from "akasha/code-system/editor/extension/work-tree-holding/work-tree-holding.module.code.ts"
-
-function rowOf(kind: WorkTreeRow["kind"], key: string, label: string): WorkTreeRow {
-  return { kind, key, label, at: null, color: null, detail: null, note: null, children: [] }
-}
+import { rowOf } from "akasha/code-system/editor/extension/work-tree-holding/work-tree-holding.module.test-fixtures.ts"
 
 const TREE: readonly WorkTreeRow[] = [
   {

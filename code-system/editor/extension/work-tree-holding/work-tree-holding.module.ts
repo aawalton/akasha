@@ -9,6 +9,7 @@ export const workTreeHolding = {
     "what the work panel draws for an initiative until the file the service writes has it",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
