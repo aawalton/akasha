@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type ParserWeights = "onnx"
-
 export const parserWeights = {
   id: "01a06d3b-743e-7a19-bfa1-9abb1cb17381",
   pageTypeSlug: "file-property",
@@ -23,4 +21,5 @@ export const parserWeights = {
       statement: "The graph is kept outside the commit.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

@@ -1,4 +1,4 @@
-import type { Entries } from "akasha/checks/code-checks/properties/entries.file-property.ts"
+import type { Entries } from "akasha/checks/code-checks/properties/entries.file-property.types.ts"
 import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 import type { ChangeKind } from "akasha/commands/properties/change-kind.relation-property.types.ts"
 import type { HelpNotes } from "akasha/commands/properties/help-notes.text-property.types.ts"

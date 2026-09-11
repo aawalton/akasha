@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type Entries = "jsonl"
-
 export const entries = {
   id: "01a06dc1-5cd2-7bc0-b943-c68e1d872c39",
   pageTypeSlug: "file-property",
@@ -49,4 +47,5 @@ export const entries = {
       statement: "A run that cannot be recorded is not a run that is refused.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

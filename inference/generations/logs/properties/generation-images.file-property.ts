@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type GenerationImages = "jsonl"
-
 export const generationImages = {
   id: "01a0685d-b81f-7a4b-bdfb-f1daf8fbfda4",
   pageTypeSlug: "file-property",
@@ -33,4 +31,5 @@ export const generationImages = {
       statement: "Each further part takes the next number up.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

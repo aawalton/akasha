@@ -1,5 +1,5 @@
-import type { Edits } from "akasha/agents/properties/edits.file-property.ts"
-import type { Refusals } from "akasha/agents/properties/refusals.file-property.ts"
+import type { Edits } from "akasha/agents/properties/edits.file-property.types.ts"
+import type { Refusals } from "akasha/agents/properties/refusals.file-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { AssignmentSlug } from "akasha/seat-system/seats/properties/assignment-slug.one-of-property.types.ts"
 import type { PrincipalSeatName } from "akasha/seat-system/seats/properties/principal-seat-name.relation-property.types.ts"

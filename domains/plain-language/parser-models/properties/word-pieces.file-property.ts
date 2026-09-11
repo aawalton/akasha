@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type WordPieces = "json"
-
 export const wordPieces = {
   id: "01a06d3b-743f-7c80-b8f3-a929faae24ed",
   pageTypeSlug: "file-property",
@@ -21,4 +19,5 @@ export const wordPieces = {
       statement: "The pieces are kept outside the commit.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty
