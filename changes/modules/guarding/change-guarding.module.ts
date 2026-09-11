@@ -17,6 +17,10 @@ export const changeGuarding = {
     },
     {
       invariantKind: "departure",
+      statement: "An answer carrying paths off is built here rather than by each test.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A guard is handed the answer a change gives.",
     },
     {

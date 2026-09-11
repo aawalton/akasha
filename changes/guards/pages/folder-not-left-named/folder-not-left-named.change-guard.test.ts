@@ -1,8 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { folderNotLeftNamed } from "akasha/changes/guards/pages/folder-not-left-named/folder-not-left-named.change-guard.code.ts"
-import { pathsIn, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { guardedBy } from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
+import { moving } from "akasha/changes/modules/guarding/change-guarding.module.test-fixtures.ts"
 import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   HELD_CODE,
@@ -55,11 +56,7 @@ function judged(root: string, said: Answer): Answer {
   return guardedBy(worldAt(root, textIn(root)), said, GUARDS)
 }
 
-function carriedOff(moves: readonly (readonly [string, string])[]): Answer {
-  return stating(moves.map(([pathFrom, pathTo]) => ({ kind: "move", pathFrom, pathTo })))
-}
-
-const CARRY = carriedOff([
+const CARRY = moving([
   [HELD_PAGE, CARRIED_PAGE],
   [HELD_CODE, CARRIED_CODE],
 ])
@@ -78,7 +75,7 @@ const ROOTED = pageOf({
   code: "ts",
 })
 
-const ROOTED_CARRY = carriedOff([
+const ROOTED_CARRY = moving([
   [ROOTED_PAGE, `akasha/seven/${ROOTED_SLUG}.module.ts`],
   [ROOTED_CODE, `akasha/seven/${ROOTED_SLUG}.module.code.ts`],
 ])
@@ -95,7 +92,7 @@ const HELD_SHELL = `${EMPTIED}/run.sh`
 
 const CARRIED_SHELL = "akasha/six/run.sh"
 
-const SHELL_CARRY = carriedOff([
+const SHELL_CARRY = moving([
   [HELD_PAGE, CARRIED_PAGE],
   [HELD_CODE, CARRIED_CODE],
   [HELD_SHELL, CARRIED_SHELL],

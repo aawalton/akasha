@@ -10,6 +10,10 @@ export function heldAt(root: string, path: string): (one: string) => string | nu
   return (one) => (one === path ? (text(one) ?? "export const held = 1\n") : text(one))
 }
 
+export function moving(moves: readonly (readonly [string, string])[]): Answer {
+  return stating(moves.map(([pathFrom, pathTo]) => ({ kind: "move", pathFrom, pathTo })))
+}
+
 export function tookAway(root: string, path: string, guards: readonly Guard[]): Answer {
   return guardedBy(worldAt(root, heldAt(root, path)), stating([{ kind: "remove", path }]), guards)
 }

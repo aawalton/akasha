@@ -3,6 +3,7 @@ import { claimedFileNotLeftBehind } from "akasha/changes/guards/pages/claimed-fi
 import { pathsIn, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { guardedBy } from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
+import { moving } from "akasha/changes/modules/guarding/change-guarding.module.test-fixtures.ts"
 import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   bodyOf,
@@ -42,14 +43,10 @@ function tookAway(paths: readonly string[]): Answer {
   return stating(paths.map((one) => ({ kind: "remove", path: one })))
 }
 
-function carriedOff(moves: readonly (readonly [string, string])[]): Answer {
-  return stating(moves.map(([pathFrom, pathTo]) => ({ kind: "move", pathFrom, pathTo })))
-}
-
 test("a page carried off leaving the file that page claims is refused", () => {
   const root = indexedRepo()
 
-  const said = judged(root, carriedOff([[HELD_PAGE, CARRIED_PAGE]]))
+  const said = judged(root, moving([[HELD_PAGE, CARRIED_PAGE]]))
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(LEFT)
@@ -60,7 +57,7 @@ test("a page carried off with the file that page claims is not refused", () => {
 
   const said = judged(
     root,
-    carriedOff([
+    moving([
       [HELD_PAGE, CARRIED_PAGE],
       [HELD_CODE, CARRIED_CODE],
     ])
@@ -142,7 +139,7 @@ const NAMED: Readonly<Record<string, string>> = {
 test("a file a page after the answer claims is no file left behind", () => {
   const root = indexedRepo(NAMED)
 
-  const said = judged(root, carriedOff([[NAMED_PAGE, NAMED_LANDED]]))
+  const said = judged(root, moving([[NAMED_PAGE, NAMED_LANDED]]))
 
   expect(said.refused).toBe(null)
   expect(pathsIn(said)).toContain(NAMED_LANDED)
