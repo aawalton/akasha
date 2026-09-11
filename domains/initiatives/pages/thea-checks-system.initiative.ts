@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "One check refuses, at 197. 43 cannot be mended by any work: 34 answer a constant, 9 are exports a router finds by name, and the check's own departures cover both, so both are Alan's. It pairs declarations only, so a rule written inline is invisible and folding one clears nothing. Look for the home before opening one: three times it was already there under one caller's folder, unpaired because a free name or a spread made its rule text differ. A new home can pair with a copy private to a file.",
+        "One check refuses, at 168. 65 cannot be mended: 22 answer a constant, 18 are exports a router finds by name, 25 are event handlers whose only home would be a new module, which this check's own absence bars. All three are Alan's. A free name prints as written, so two bodies pair while reading different types: passingFor is one memo text over two unrelated Passing shapes. Look for the home before opening one; a new home can pair with a copy private to a file.",
     },
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
