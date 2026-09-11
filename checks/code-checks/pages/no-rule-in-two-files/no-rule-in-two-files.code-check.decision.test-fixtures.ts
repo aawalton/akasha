@@ -71,9 +71,34 @@ export function rooted(): string {
   return root
 }
 
-function pageText(slug: string, last: string): string {
+export function pageText(slug: string, last: string): string {
   const held = `id: "${ID}${last}", slug: "${slug}", pageTypeSlug: "module", code: "ts"`
   return `export const it = { ${held} }\n`
+}
+
+export const HOME_PAGE = "akasha/d/home.module.ts"
+
+export const HOME_CODE = "akasha/d/home.module.code.ts"
+
+export const NOTHING = "export const nothing = 1\n"
+
+export function bothLeaving(root: string): Change {
+  const bodies: Record<string, Uint8Array> = {
+    [ONE_CODE]: bytesOf(NOTHING),
+    [TWO_CODE]: bytesOf(NOTHING),
+    [HOME_PAGE]: bytesOf(pageText("home", "3")),
+    [HOME_CODE]: bytesOf(CAMEL),
+  }
+  const was: Record<string, Uint8Array> = {
+    [ONE_CODE]: bytesOf(CAMEL),
+    [TWO_CODE]: bytesOf(EXPORTED_AS),
+  }
+  return {
+    root,
+    changed: [ONE_CODE, TWO_CODE, HOME_PAGE, HOME_CODE],
+    after: (path: string): Uint8Array | null => bodies[path] ?? null,
+    before: (path: string): Uint8Array | null => was[path] ?? null,
+  }
 }
 
 export function bothArriving(root: string): Change {
