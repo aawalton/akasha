@@ -1,12 +1,12 @@
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
-import { emitStoreDiagnostic } from "../../diagnostics/diagnostics.module.code.ts"
-import { PageRowSchema } from "../../realtime/payload-translator/payload-translator.module.code.ts"
+import type { PageRow } from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
+import type { PagesSyncController } from "akasha/pages/ui-store/collection/sync-controller/sync-controller.module.code.ts"
+import { emitStoreDiagnostic } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
+import { PageRowSchema } from "akasha/pages/ui-store/realtime/payload-translator/payload-translator.module.code.ts"
 import {
   foldSnapshotEntries,
   type SnapshotEntry,
-} from "../../realtime/snapshot-fold/snapshot-fold.module.code.ts"
-import type { PageRow } from "../page-row/page-row.module.code.ts"
-import type { PagesSyncController } from "../sync-controller/sync-controller.module.code.ts"
+} from "akasha/pages/ui-store/realtime/snapshot-fold/snapshot-fold.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 
 export const FILE_BACKING_POLL_MS = 30_000
 

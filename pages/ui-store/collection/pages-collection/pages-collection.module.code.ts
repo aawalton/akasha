@@ -1,9 +1,12 @@
 import { BasicIndex, type Collection, type CollectionConfig, createCollection } from "@tanstack/db"
-import { type PageRow, pageRowKey } from "../page-row/page-row.module.code.ts"
+import {
+  type PageRow,
+  pageRowKey,
+} from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
 import {
   createPagesSyncController,
   type PagesSyncController,
-} from "../sync-controller/sync-controller.module.code.ts"
+} from "akasha/pages/ui-store/collection/sync-controller/sync-controller.module.code.ts"
 
 export interface PagesCollectionHandle {
   readonly collection: Collection<PageRow, string>

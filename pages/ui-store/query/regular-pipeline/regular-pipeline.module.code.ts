@@ -10,10 +10,16 @@ import {
   asPageRowList,
   attributesOf,
   type PageRow,
-} from "../../collection/page-row/page-row.module.code.ts"
-import type { PageConditionLike, UsePagesOptions } from "../../sql/options/options.module.code.ts"
-import { conditionMatches } from "../condition-eval/condition-eval.module.code.ts"
-import { type BoolExpr, conditionToExpr } from "../condition-expr/condition-expr.module.code.ts"
+} from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
+import { conditionMatches } from "akasha/pages/ui-store/query/condition-eval/condition-eval.module.code.ts"
+import {
+  type BoolExpr,
+  conditionToExpr,
+} from "akasha/pages/ui-store/query/condition-expr/condition-expr.module.code.ts"
+import type {
+  PageConditionLike,
+  UsePagesOptions,
+} from "akasha/pages/ui-store/sql/options/options.module.code.ts"
 
 const DEFAULT_LIMIT = 1000
 const ALIAS = "p"

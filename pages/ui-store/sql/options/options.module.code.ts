@@ -3,7 +3,7 @@ import type {
   PageCondition,
   PageWhere,
 } from "akasha/pages/core/page-types/page-types.module.code.ts"
-import type { ShapeDescriptor } from "../../collection/shape-descriptor/shape-descriptor.module.code.ts"
+import type { ShapeDescriptor } from "akasha/pages/ui-store/collection/shape-descriptor/shape-descriptor.module.code.ts"
 
 export type UsePagesOptions = {
   pageTypeSlug: string

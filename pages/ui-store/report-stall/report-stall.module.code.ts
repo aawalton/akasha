@@ -1,4 +1,4 @@
-import { emitStoreDiagnostic } from "../diagnostics/diagnostics.module.code.ts"
+import { emitStoreDiagnostic } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
 
 let HYDRATE_OVERRUN_EMITTED = false
 

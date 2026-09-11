@@ -1,5 +1,5 @@
 import type { SyncConfig } from "@tanstack/db"
-import type { PageRow } from "../page-row/page-row.module.code.ts"
+import type { PageRow } from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
 
 type SyncParams = Parameters<SyncConfig<PageRow, string>["sync"]>[0]
 

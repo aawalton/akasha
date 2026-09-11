@@ -1,4 +1,4 @@
-import type { PagesSyncController } from "../sync-controller/sync-controller.module.code.ts"
+import type { PagesSyncController } from "akasha/pages/ui-store/collection/sync-controller/sync-controller.module.code.ts"
 
 export interface IdentityChangeDecision {
   readonly wipe: boolean

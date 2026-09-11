@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { readAnswerRows } from "./fetch-attach.module.code.ts"
+import { readAnswerRows } from "akasha/pages/ui-store/collection/fetch-attach/fetch-attach.module.code.ts"
 
 const ONE = {
   id: "01a06577-2613-700d-a041-62a4896e80cc",

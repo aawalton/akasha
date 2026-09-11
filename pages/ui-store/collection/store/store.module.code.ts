@@ -1,12 +1,5 @@
 import type { Collection } from "@tanstack/db"
 import { RosterUnreachable } from "akasha/pages/access/file-read/file-read.module.code.ts"
-import { emitStoreDiagnostic } from "../../diagnostics/diagnostics.module.code.ts"
-import {
-  computeProactiveRefreshDelayMs,
-  PROACTIVE_REFRESH_MARGIN_MS,
-} from "../../realtime/jwt-exp/jwt-exp.module.code.ts"
-import { decodeJwtSub } from "../../realtime/jwt-sub/jwt-sub.module.code.ts"
-import type { ShapeResumeState } from "../../realtime/shape-meta/shape-meta.module.code.ts"
 import {
   type AcquireRegistry,
   acquireShape as acquireShapeIn,
@@ -21,32 +14,42 @@ import {
   releaseSlug as releaseSlugIn,
   whenShapeReady as whenShapeReadyIn,
   whenSlugReady as whenSlugReadyIn,
-} from "../acquire/acquire.module.code.ts"
+} from "akasha/pages/ui-store/collection/acquire/acquire.module.code.ts"
 import {
   attachFetch,
   type FetchImpl,
   FILE_BACKING_POLL_MS,
-} from "../fetch-attach/fetch-attach.module.code.ts"
+} from "akasha/pages/ui-store/collection/fetch-attach/fetch-attach.module.code.ts"
 import {
   type PageTypeBacking,
   type RosterAnswer,
   type RosterReader,
   rosterOverFetch,
-} from "../file-backing/file-backing.module.code.ts"
+} from "akasha/pages/ui-store/collection/file-backing/file-backing.module.code.ts"
 import {
   applyIdentityChange,
   decideIdentityChange,
-} from "../identity-change/identity-change.module.code.ts"
-import { asPageRowList, type PageRow } from "../page-row/page-row.module.code.ts"
-import { createPagesCollection } from "../pages-collection/pages-collection.module.code.ts"
+} from "akasha/pages/ui-store/collection/identity-change/identity-change.module.code.ts"
+import {
+  asPageRowList,
+  type PageRow,
+} from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
+import { createPagesCollection } from "akasha/pages/ui-store/collection/pages-collection/pages-collection.module.code.ts"
 import {
   buildPagesSnapshot,
   type PagesPersistencePort,
-} from "../persistence/persistence.module.code.ts"
+} from "akasha/pages/ui-store/collection/persistence/persistence.module.code.ts"
 import {
   isDefinitionTierSlug,
   type ShapeDescriptor,
-} from "../shape-descriptor/shape-descriptor.module.code.ts"
+} from "akasha/pages/ui-store/collection/shape-descriptor/shape-descriptor.module.code.ts"
+import { emitStoreDiagnostic } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
+import {
+  computeProactiveRefreshDelayMs,
+  PROACTIVE_REFRESH_MARGIN_MS,
+} from "akasha/pages/ui-store/realtime/jwt-exp/jwt-exp.module.code.ts"
+import { decodeJwtSub } from "akasha/pages/ui-store/realtime/jwt-sub/jwt-sub.module.code.ts"
+import type { ShapeResumeState } from "akasha/pages/ui-store/realtime/shape-meta/shape-meta.module.code.ts"
 
 const ROSTER_RETRY_MS = 2_000
 

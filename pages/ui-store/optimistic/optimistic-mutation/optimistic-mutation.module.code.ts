@@ -1,17 +1,20 @@
 import { type Collection, createOptimisticAction, type WritableDeep } from "@tanstack/db"
 import { applyJsonPatch } from "akasha/pages/core/json-patch/apply/apply.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
-import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
-import type { PageRow } from "../../collection/page-row/page-row.module.code.ts"
-import { emitStoreDiagnostic } from "../../diagnostics/diagnostics.module.code.ts"
+import type { PageRow } from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
+import { emitStoreDiagnostic } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
 import {
   awaitConvergence,
   type ConvergenceOptions,
   ConvergenceUnreached,
   DEFAULT_TICK_MS,
-} from "../convergence/convergence.module.code.ts"
-import type { PagesMutationPlan, RowOverlay } from "../plan/plan.module.code.ts"
+} from "akasha/pages/ui-store/optimistic/convergence/convergence.module.code.ts"
+import type {
+  PagesMutationPlan,
+  RowOverlay,
+} from "akasha/pages/ui-store/optimistic/plan/plan.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 
 export const SETTLE_HANDOFF_CEILING_MS = DEFAULT_TICK_MS * 5
 

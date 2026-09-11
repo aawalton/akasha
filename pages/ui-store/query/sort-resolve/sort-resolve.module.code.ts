@@ -22,8 +22,8 @@ import {
   asPageRecord,
   attributesOf,
   type PageRow,
-} from "../../collection/page-row/page-row.module.code.ts"
-import { emitStoreDiagnostic } from "../../diagnostics/diagnostics.module.code.ts"
+} from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
+import { emitStoreDiagnostic } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
 
 const warnedUnacquiredTargets = new Set<string>()
 

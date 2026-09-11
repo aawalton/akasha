@@ -1,8 +1,11 @@
-import type { ContentPagePersistencePort } from "../collection/content-persistence/content-persistence.module.code.ts"
-import type { FetchImpl } from "../collection/fetch-attach/fetch-attach.module.code.ts"
-import type { PagesPersistencePort } from "../collection/persistence/persistence.module.code.ts"
-import { createPagesStore, type PagesStore } from "../collection/store/store.module.code.ts"
-import { emitStoreDiagnostic } from "../diagnostics/diagnostics.module.code.ts"
+import type { ContentPagePersistencePort } from "akasha/pages/ui-store/collection/content-persistence/content-persistence.module.code.ts"
+import type { FetchImpl } from "akasha/pages/ui-store/collection/fetch-attach/fetch-attach.module.code.ts"
+import type { PagesPersistencePort } from "akasha/pages/ui-store/collection/persistence/persistence.module.code.ts"
+import {
+  createPagesStore,
+  type PagesStore,
+} from "akasha/pages/ui-store/collection/store/store.module.code.ts"
+import { emitStoreDiagnostic } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
 
 const HYDRATE_GATE_TIMEOUT_MS = 3_000
 

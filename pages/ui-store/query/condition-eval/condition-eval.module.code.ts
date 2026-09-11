@@ -3,15 +3,15 @@ import {
   PROMOTED_COLUMN,
 } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
 import { pageHasNonEmptyContentKey } from "akasha/pages/core/schema/content-tier/content-tier.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import {
   asPageRecord,
   asRecord,
   attributesOf,
   type PageRow,
-} from "../../collection/page-row/page-row.module.code.ts"
-import type { PageConditionLike } from "../../sql/options/options.module.code.ts"
+} from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
+import type { PageConditionLike } from "akasha/pages/ui-store/sql/options/options.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 
 const MISSING = Symbol("missing")
 

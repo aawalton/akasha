@@ -5,20 +5,18 @@ import type {
 } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import {
   asPageRecord,
   asPageRowList,
   asRecord,
   attributesOf,
   type PageRow,
-} from "../../collection/page-row/page-row.module.code.ts"
-import type { UseViewQueryOptions } from "../../sql/options/options.module.code.ts"
+} from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
 import {
   type BoolExpr,
   conditionToExpr,
   constTrue,
-} from "../condition-expr/condition-expr.module.code.ts"
+} from "akasha/pages/ui-store/query/condition-expr/condition-expr.module.code.ts"
 import {
   classifyKey,
   coerceInstantMs,
@@ -27,8 +25,13 @@ import {
   pageDataOf,
   type ViewResolveCtx,
   type ViewSortClause,
-} from "../sort-resolve/sort-resolve.module.code.ts"
-import { type ResolvedOverlay, viewMatchesRow } from "../view-match/view-match.module.code.ts"
+} from "akasha/pages/ui-store/query/sort-resolve/sort-resolve.module.code.ts"
+import {
+  type ResolvedOverlay,
+  viewMatchesRow,
+} from "akasha/pages/ui-store/query/view-match/view-match.module.code.ts"
+import type { UseViewQueryOptions } from "akasha/pages/ui-store/sql/options/options.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 
 const LOCAL_VIEW_QUERY_LIMIT = 10_000
 const ALIAS = "p"

@@ -1,8 +1,11 @@
 import type { Collection } from "@tanstack/db"
+import { FILE_BACKING_POLL_MS } from "akasha/pages/ui-store/collection/fetch-attach/fetch-attach.module.code.ts"
+import {
+  asPageRow,
+  type PageRow,
+} from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { jsonEqual } from "akasha/utils/narrow/json-equal/json-equal.module.code.ts"
-import { FILE_BACKING_POLL_MS } from "../../collection/fetch-attach/fetch-attach.module.code.ts"
-import { asPageRow, type PageRow } from "../../collection/page-row/page-row.module.code.ts"
 
 export const DEFAULT_TICK_MS = 250
 

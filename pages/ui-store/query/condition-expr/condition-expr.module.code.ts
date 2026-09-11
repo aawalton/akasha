@@ -16,8 +16,8 @@ import {
   isPromotedKey,
   PROMOTED_COLUMN,
 } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
+import type { PageConditionLike } from "akasha/pages/ui-store/sql/options/options.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
-import type { PageConditionLike } from "../../sql/options/options.module.code.ts"
 
 export type BoolExpr = IR.BasicExpression<boolean>
 

@@ -1,4 +1,4 @@
-import type { PageRow } from "../payload-translator/payload-translator.module.code.ts"
+import type { PageRow } from "akasha/pages/ui-store/realtime/payload-translator/payload-translator.module.code.ts"
 
 export type SnapshotEntry =
   | { readonly kind: "upsert"; readonly row: PageRow }
