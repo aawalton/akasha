@@ -1,13 +1,8 @@
 import { basename, dirname, join } from "node:path"
-import { renameManifestWays } from "akasha/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts"
-import { changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { claimedIn } from "akasha/changes/modules/page-claiming/page-claiming.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { reachesIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
 import { typeSlugIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
-import { importingOf } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
 
 const KEYS = ["type", "pageTypeSlug"]
 
@@ -70,12 +65,6 @@ export function typeMoved(world: World, at: string, to: string): Moving {
   return { moved, paged: [held] }
 }
 
-export function movesOf(moved: ReadonlyMap<string, string>): readonly FileChange[] {
-  const said: FileChange[] = []
-  for (const [from, to] of moved) said.push({ kind: "move", pathFrom: from, pathTo: to })
-  return said
-}
-
 export function keyedAnew(
   text: string,
   lands: string,
@@ -87,48 +76,6 @@ export function keyedAnew(
     const held = `${key}: "${was}"`
     if (!text.includes(held)) continue
     said.push({ kind: "replace", path: lands, contentFrom: held, contentTo: `${key}: "${to}"` })
-  }
-  return said
-}
-
-export function importersOf(
-  world: World,
-  moved: ReadonlyMap<string, string>
-): readonly string[] | string {
-  const reading = importingOf(world.index, moved)
-  return "unread" in reading ? reading.unread : reading.importers
-}
-
-export function manifestsAnew(
-  world: World,
-  moved: ReadonlyMap<string, string>
-): readonly FileChange[] | string {
-  const over = Object.fromEntries(moved)
-  const said: FileChange[] = []
-  for (const at of manifestsIn(world.index.everyPath(), world.index.fileKeysAt())) {
-    const text = world.textOf(at)
-    if (text === null) continue
-    if (![...reachesIn(dirname(at), text).values()].some((one) => moved.has(one))) continue
-    const held = renameManifestWays({ at, moved: over }, world.textOf)
-    if (held.refused !== null) return held.refused
-    said.push(...held.edits)
-  }
-  return said
-}
-
-export function repointedOver(
-  world: World,
-  moved: ReadonlyMap<string, string>,
-  over: Iterable<string>
-): readonly FileChange[] | string {
-  const landing = (path: string): string | null => moved.get(path) ?? null
-  const said: FileChange[] = []
-  for (const path of over) {
-    const text = world.textOf(path)
-    if (text === null) continue
-    const held = changeImports(path, moved.get(path) ?? path, text, landing)
-    if (held.refused !== null) return held.refused
-    said.push(...held.edits)
   }
   return said
 }

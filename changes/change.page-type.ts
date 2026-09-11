@@ -18,6 +18,7 @@ export const change = {
     "module/change-guarding",
     "module/page-claiming",
     "module/page-type-renaming",
+    "module/file-carrying",
     "module/page-knowing",
     "module/page-literal",
     "module/literal-splicing",

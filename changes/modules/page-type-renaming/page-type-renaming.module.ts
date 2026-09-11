@@ -35,15 +35,6 @@ export const pageTypeRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "The importers of everything that moved are asked for in one call.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A body is repointed over one map of what moved rather than one map for each file.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "The key a page states its type under is restated as text rather than through a parse.",
     },
@@ -52,12 +43,8 @@ export const pageTypeRenaming = {
       statement: "A page stating its type under both keys has both keys restated.",
     },
     {
-      invariantKind: "departure",
-      statement: "A manifest naming a file that moved as a way in states where that file landed.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The manifests are read once for the whole rename rather than once for a file.",
+      invariantKind: "absence",
+      statement: "Nothing here says what follows a file to where that file landed.",
     },
     {
       invariantKind: "absence",

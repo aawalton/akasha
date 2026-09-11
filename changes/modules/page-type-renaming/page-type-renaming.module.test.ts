@@ -1,23 +1,18 @@
 import { afterAll, expect, test } from "bun:test"
 import {
-  importersOf,
   keyedAnew,
   landedName,
-  manifestsAnew,
-  movesOf,
   pagesMoved,
-  repointedOver,
   typeMoved,
 } from "akasha/changes/modules/page-type-renaming/page-type-renaming.module.code.ts"
-import { type World, worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { repoWorld } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   aType,
   bodyOf,
   idOf,
-  indexedRepo,
   pageOf,
   scratch,
-  textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 afterAll(scratch.sweep)
@@ -51,8 +46,7 @@ const HELD: Readonly<Record<string, string>> = {
 }
 
 function worldHeld(): World {
-  const root = indexedRepo(HELD)
-  return worldAt(root, textIn(root))
+  return repoWorld(HELD)
 }
 
 test("a page of the renamed type takes the new slug where the old slug named its type", () => {
@@ -90,12 +84,6 @@ test("a path naming no page type carries nothing", () => {
   })
 })
 
-test("what moved is answered as one move for each file", () => {
-  expect(movesOf(new Map([["a.ts", "b.ts"]]))).toEqual([
-    { kind: "move", pathFrom: "a.ts", pathTo: "b.ts" },
-  ])
-})
-
 test("a page stating its type under both keys has both keys restated", () => {
   const text = 'type: "widget"\npageTypeSlug: "widget"\n'
 
@@ -117,32 +105,4 @@ test("a page stating its type under both keys has both keys restated", () => {
 
 test("a key the page does not state is left alone", () => {
   expect(keyedAnew('type: "widget"\n', PAGE_AT, WAS, TO).length).toBe(1)
-})
-
-test("the importers of everything that moved are asked for in one call", () => {
-  const moved = new Map([[PAGE_CODE, "akasha/widgets/one.gadget.code.ts"]])
-
-  expect(importersOf(worldHeld(), moved)).toEqual([NAMER_AT])
-})
-
-test("a world with no manifest has no way in restated", () => {
-  const moved = new Map([[PAGE_CODE, "akasha/widgets/one.gadget.code.ts"]])
-
-  expect(manifestsAnew(worldHeld(), moved)).toEqual([])
-})
-
-test("a body is repointed over one map of what moved", () => {
-  const world = worldHeld()
-  const moved = new Map([[PAGE_CODE, "akasha/widgets/one.gadget.code.ts"]])
-  const said = repointedOver(world, moved, [NAMER_AT])
-  if (typeof said === "string") throw new Error(said)
-
-  expect(said).toEqual([
-    {
-      kind: "replace",
-      path: NAMER_AT,
-      contentFrom: 'import { one } from "../widgets/one.widget.code.ts"',
-      contentTo: 'import { one } from "../widgets/one.gadget.code.ts"',
-    },
-  ])
 })

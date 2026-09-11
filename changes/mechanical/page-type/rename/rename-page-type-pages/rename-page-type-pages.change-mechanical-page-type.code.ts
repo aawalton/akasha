@@ -1,13 +1,10 @@
 import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange, Said } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { carriedBy } from "akasha/changes/modules/file-carrying/file-carrying.module.code.ts"
 import type { Moving } from "akasha/changes/modules/page-type-renaming/page-type-renaming.module.code.ts"
 import {
-  importersOf,
   keyedAnew,
-  manifestsAnew,
-  movesOf,
   pagesMoved,
-  repointedOver,
 } from "akasha/changes/modules/page-type-renaming/page-type-renaming.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { typeSlugIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -28,13 +25,9 @@ export function renamePageTypePages(world: World, given: Asked): Said {
     return refusing(`${saidBy(cause)}, so no page is renamed`)
   }
   if ("refused" in held) return refusing(held.refused)
-  const importers = importersOf(world, held.moved)
-  if (typeof importers === "string") return refusing(importers)
-  const repointed = repointedOver(world, held.moved, [...held.moved.keys(), ...importers])
-  if (typeof repointed === "string") return refusing(repointed)
-  const ways = manifestsAnew(world, held.moved)
-  if (typeof ways === "string") return refusing(ways)
-  const edits: FileChange[] = [...movesOf(held.moved), ...repointed, ...ways]
+  const carried = carriedBy(world, held.moved)
+  if (typeof carried === "string") return refusing(carried)
+  const edits: FileChange[] = [...carried]
   for (const one of held.paged) {
     const text = world.textOf(one.at)
     if (text === null) continue
