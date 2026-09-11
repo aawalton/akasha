@@ -185,12 +185,8 @@ test("a page type the index does not name is refused over one key", () => {
   expect(holdingIn(typedIn(null), HOLDING)).toBe("`story-chapter-read` names no page type")
 })
 
-test("a run over one key naming no page type reads every page type the index names", () => {
-  expect(holdingIn(typedIn(DECLARED), { ...HOLDING, pageType: null })).toEqual([ONE_AT, TWO_AT])
-})
-
-test("a run over one key handed no page type is asked for every page type", () => {
-  expect(keyAskedIn({ key: "a" })).toEqual({ pageType: null, key: "a", atMost: null })
+test("a run over one key handed no page type is refused by the key naming that argument", () => {
+  expect(keyAskedIn({ key: "a" })).toMatch(/`page-type` names what this change is handed/)
 })
 
 test("the arguments handed in become what a run over one key is asked for", () => {
