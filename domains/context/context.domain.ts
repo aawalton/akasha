@@ -5,7 +5,12 @@ export const context = {
   type: "domain",
   slug: "context",
   definition: "what a change requires its writer to have read",
-  parts: ["page-type/context-warrant", "module/agent-stated", "module/warranting"],
+  parts: [
+    "page-type/context-warrant",
+    "module/agent-stated",
+    "module/warranting",
+    "domain/required-reading",
+  ],
   invariants: [
     {
       invariantKind: "departure",
