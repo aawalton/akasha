@@ -1,4 +1,4 @@
-import type { RaceId } from "../races/races.module.code.ts"
+import type { RaceId } from "akasha/temper/races/races/races.module.code.ts"
 
 export function getRaceIconUrl(raceId: RaceId): string | null {
   if (raceId === "no-race") return null

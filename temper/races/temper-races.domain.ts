@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperRaces = {
   id: "01a0608a-c133-7d7f-96d5-f0070cf3a77a",
