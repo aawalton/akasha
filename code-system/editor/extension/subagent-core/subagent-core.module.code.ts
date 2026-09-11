@@ -1,4 +1,5 @@
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
 import { z } from "zod"
 
 export interface RunningSubagent {
@@ -39,10 +40,6 @@ function asArray(value: unknown): readonly unknown[] {
   return Array.isArray(value) ? value : []
 }
 
-function asString(value: unknown): string | null {
-  return typeof value === "string" && value.length > 0 ? value : null
-}
-
 function notificationText(record: Json): string {
   if (record.toolUseResult !== undefined) {
     return ""
@@ -64,11 +61,11 @@ function notificationText(record: Json): string {
     }
   }
   const attachment = asObject(record.attachment)
-  const prompt = attachment === null ? null : asString(attachment.prompt)
+  const prompt = attachment === null ? null : textIn(attachment.prompt)
   if (prompt !== null) {
     parts.push(prompt)
   }
-  const own = asString(record.content)
+  const own = textIn(record.content)
   if (own !== null) {
     parts.push(own)
   }
@@ -97,14 +94,14 @@ export function applyRecord(state: SubagentState, record: Json): undefined {
     if (b === null || b.type !== "tool_use" || b.name !== AGENT_TOOL) {
       continue
     }
-    const toolUseId = asString(b.id)
+    const toolUseId = textIn(b.id)
     if (toolUseId === null) {
       continue
     }
     const input = asObject(b.input) ?? {}
     state.labels.set(
       toolUseId,
-      asString(input.description) ?? asString(input.subagent_type) ?? "subagent"
+      textIn(input.description) ?? textIn(input.subagent_type) ?? "subagent"
     )
     state.running.set(toolUseId, true)
     state.awaiting.add(toolUseId)
@@ -116,7 +113,7 @@ export function applyRecord(state: SubagentState, record: Json): undefined {
     if (b === null || b.type !== "tool_result") {
       continue
     }
-    const toolUseId = asString(b.tool_use_id)
+    const toolUseId = textIn(b.tool_use_id)
     if (toolUseId === null) {
       continue
     }
@@ -130,14 +127,14 @@ export function applyRecord(state: SubagentState, record: Json): undefined {
     }
 
     if (state.running.has(toolUseId)) {
-      const agentId = asString(result.agentId)
+      const agentId = textIn(result.agentId)
       if (agentId !== null) {
         state.agentByTool.set(agentId, toolUseId)
       }
       state.running.set(toolUseId, result.isAsync === true)
     }
 
-    const resumed = asString(result.resumedAgentId)
+    const resumed = textIn(result.resumedAgentId)
     if (resumed !== null && result.success === true) {
       const known = state.agentByTool.get(resumed)
       if (known !== undefined) {
@@ -152,7 +149,7 @@ export function applyRecord(state: SubagentState, record: Json): undefined {
     }
 
     if (result.success === false) {
-      const stopped = ID_MATCH.safeParse(STOPPED_BY_USER.exec(asString(result.message) ?? ""))
+      const stopped = ID_MATCH.safeParse(STOPPED_BY_USER.exec(textIn(result.message) ?? ""))
       const id = stopped.success ? stopped.data[1] : undefined
       const row = id === undefined ? undefined : state.agentByTool.get(id)
       if (row !== undefined) {
