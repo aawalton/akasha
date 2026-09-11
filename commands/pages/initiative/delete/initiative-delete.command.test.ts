@@ -8,7 +8,7 @@ import {
   saidFor,
 } from "./initiative-delete.command.code.ts"
 
-const SEAT = { path: "seat-system/seats/pages/amy/amy.seat.ts", propertySlug: "assignment-slug" }
+const SEAT = { path: "seat-system/seats/pages/hum/hum.seat.ts", propertySlug: "assignment-slug" }
 
 const OWN = { path: "domains/initiatives/pages/held.initiative.ts", propertySlug: "parts" }
 
@@ -38,7 +38,7 @@ test("the commit says which initiative went", () => {
 
 test("a page naming the initiative is said with the key naming it", () => {
   expect(namedSaid(SEAT)).toBe(
-    "`seat-system/seats/pages/amy/amy.seat.ts` still names it as its `assignment-slug`"
+    "`seat-system/seats/pages/hum/hum.seat.ts` still names it as its `assignment-slug`"
   )
 })
 
@@ -60,7 +60,7 @@ test("the pages naming it are said in the order of their paths", () => {
 test("a run names every page still naming the initiative and how to mend the index", () => {
   expect(saidFor("held", [SEAT], "abc123")).toEqual([
     "held is gone",
-    "`seat-system/seats/pages/amy/amy.seat.ts` still names it as its `assignment-slug`",
+    "`seat-system/seats/pages/hum/hum.seat.ts` still names it as its `assignment-slug`",
     "the index files those names until `akasha index refresh` runs",
     "abc123",
   ])
