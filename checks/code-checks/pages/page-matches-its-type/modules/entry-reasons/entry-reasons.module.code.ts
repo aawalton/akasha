@@ -59,11 +59,14 @@ export function twiceIn(held: readonly unknown[], slug: string): string | null {
   return null
 }
 
+export type Fielding = (one: Carried) => ReadonlyMap<string, Carried>
+
 export type Shaping = {
   readonly fields: ReadonlyMap<string, Carried>
   readonly slug: string
   readonly pageFor: (one: Carried) => Value | null
   readonly formatting: Formatting
+  readonly fieldsIn: Fielding
 }
 
 export function fieldsFor(page: Value, shadow: Shadow, slug: string): ReadonlyMap<string, Carried> {
@@ -73,6 +76,25 @@ export function fieldsFor(page: Value, shadow: Shadow, slug: string): ReadonlyMa
 }
 
 const NO_FIELDS: ReadonlyMap<string, Carried> = new Map()
+
+const NOTHING: ReadonlySet<string> = new Set()
+
+export function fieldsReading(shadow: Shadow, pageFor: (one: Carried) => Value | null): Fielding {
+  return (one) => {
+    const page = pageFor(one)
+    return page === null ? NO_FIELDS : fieldsFor(page, shadow, one.pagePropertySlug)
+  }
+}
+
+export function recordFieldsIn(one: Carried, fieldsIn: Fielding): ReadonlyMap<string, Carried> {
+  return entriedAmong([one]).length > 0 ? NO_FIELDS : fieldsIn(one)
+}
+
+export function noRecordIn(said: unknown, slug: string): string {
+  const held = typeof said === "string" ? `"${said}"` : JSON.stringify(said)
+  const spelled = held ?? String(said)
+  return `\`${slug}\` is ${spelled}, and a value whose property declares fields is a record`
+}
 
 export function groupedFor(
   one: Carried,
@@ -97,7 +119,7 @@ export function fieldsOf(
   unjudged: ReadonlySet<string>
 ): readonly string[] {
   const said: string[] = []
-  const { fields, slug, pageFor, formatting } = shaping
+  const { fields, slug, pageFor, formatting, fieldsIn } = shaping
   for (const [inner, stated] of Object.entries(entry)) {
     if (unjudged.has(inner)) continue
     const shaped = fields.get(inner)
@@ -120,11 +142,19 @@ export function fieldsOf(
       const twice = twiceIn(stated, `${slug} ${field}`)
       if (twice !== null) said.push(twice)
     }
+    const inside = recordFieldsIn(shaped, fieldsIn)
     for (const each of many ? stated : [stated]) {
       const why = overLength(each, max, `${slug} ${field}`, "")
       if (why !== null) said.push(why)
       const off = offFormat(each, format, formatting, `${slug} ${field}`)
       if (off !== null) said.push(off)
+      if (inside.size === 0) continue
+      if (typeof each !== "object" || each === null || Array.isArray(each)) {
+        said.push(noRecordIn(each, `${slug} ${field}`))
+        continue
+      }
+      const within: Shaping = { ...shaping, fields: inside, slug: field }
+      said.push(...fieldsOf(each as Value, within, NOTHING))
     }
   }
   return said
@@ -158,6 +188,7 @@ export function entryReasonsIn(
   const said: string[] = []
   const pageFor = (one: Carried): Value | null =>
     shadow.index.pageAt(one.pageTypeSlug, one.pagePropertySlug)
+  const fieldsIn = fieldsReading(shadow, pageFor)
   for (const one of entriedAmong(declared)) {
     const held = value[one.key]
     if (typeof held !== "string") continue
@@ -171,7 +202,7 @@ export function entryReasonsIn(
     const slug = one.pagePropertySlug
     const fields = fieldsFor(page, shadow, slug)
     if (fields.size === 0) continue
-    const shaping: Shaping = { fields, slug, pageFor, formatting }
+    const shaping: Shaping = { fields, slug, pageFor, formatting, fieldsIn }
     for (const entry of read.entries) {
       if (typeof entry[ID] !== "string") {
         said.push(`keeps an entry of \`${slug}\` carrying no id, and every entry carries an id`)

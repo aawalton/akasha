@@ -158,6 +158,24 @@ test("a record field's entries and its characters are counted apart", () => {
   ])
 })
 
+test("a value whose property declares fields and holds no record is refused", () => {
+  expect(over({ id: "a", slug: "one", directives: ["go"] }, "told")).toEqual([
+    '`directives` is "go", and a value whose property declares fields is a record',
+  ])
+})
+
+test("a record nested in a record field is judged against what declares that record", () => {
+  const rows = [{ pagePropertySlug: "x" }, { nope: 1 }]
+  const held = { id: "a", slug: "one", directives: [{ name: "go", properties: rows }] }
+  expect(over(held, "told")).toEqual([
+    "states `properties nope`, which `properties` does not declare",
+  ])
+  const off = { id: "a", slug: "one", directives: [{ name: "go", properties: ["x"] }] }
+  expect(over(off, "told")).toEqual([
+    '`directives properties` is "x", and a value whose property declares fields is a record',
+  ])
+})
+
 test("a record field naming its page type is read under the key its own property states", () => {
   const held = { id: "a", slug: "one", directives: [{ name: "go", tag: "hi" }] }
   expect(over(held, "told")).toEqual([])

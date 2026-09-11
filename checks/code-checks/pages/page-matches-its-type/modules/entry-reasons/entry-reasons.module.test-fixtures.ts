@@ -53,12 +53,60 @@ export function groupFieldsFor(held: unknown): readonly string[] {
   return [...groupedFor(GROUP, held, shadowAt(REPO)).keys()].sort()
 }
 
+const TAG: Carried = {
+  pagePropertySlug: "tag",
+  pageTypeSlug: "text-property",
+  propertySlug: "tag",
+  key: "tag",
+  unique: null,
+  declaredBy: "step",
+  required: false,
+  many: false,
+  maxCount: null,
+  maxLength: 4,
+  uncommitted: false,
+  secret: false,
+}
+
+const STEP: Carried = {
+  pagePropertySlug: "step",
+  pageTypeSlug: "record-property",
+  propertySlug: "step",
+  key: "step",
+  unique: null,
+  declaredBy: "cases",
+  required: false,
+  many: false,
+  maxCount: null,
+  maxLength: null,
+  uncommitted: false,
+  secret: false,
+}
+
+const WITHIN: ReadonlyMap<string, Carried> = new Map([["tag", TAG]])
+
+const NO_FIELDS: ReadonlyMap<string, Carried> = new Map()
+
 export function shapingFor(): Shaping {
   return {
     fields: new Map([["answer", ANSWER]]),
     slug: "cases",
     pageFor: () => null,
     formatting: allows,
+    fieldsIn: () => NO_FIELDS,
+  }
+}
+
+export function nestedShapingFor(): Shaping {
+  return {
+    fields: new Map([
+      ["answer", ANSWER],
+      ["step", STEP],
+    ]),
+    slug: "cases",
+    pageFor: () => null,
+    formatting: allows,
+    fieldsIn: (one) => (one.key === "step" ? WITHIN : NO_FIELDS),
   }
 }
 

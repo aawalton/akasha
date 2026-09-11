@@ -148,8 +148,12 @@ export const pageMatchesItsType = {
       statement: "A page stating a group has that group's members judged as the group declares.",
     },
     {
+      invariantKind: "departure",
+      statement: "A value whose property declares fields and is no record refuses the page.",
+    },
+    {
       invariantKind: "absence",
-      statement: "A value's own sort is not judged here.",
+      statement: "No other sort a value has is judged here.",
     },
     {
       invariantKind: "gap",
@@ -157,9 +161,13 @@ export const pageMatchesItsType = {
         "A row leaving out a field its shape requires is refused, as a page leaving one out is.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
         "Every field of a record nested in an entry row is judged against what declares that record.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record nested in a record is opened as deep as the value goes.",
     },
   ],
   check: { maxCpuSeconds: 20 },

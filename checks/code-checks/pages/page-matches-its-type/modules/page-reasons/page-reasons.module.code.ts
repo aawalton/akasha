@@ -1,10 +1,12 @@
 import {
-  fieldsFor,
   fieldsOf,
+  fieldsReading,
   formatOf,
   groupedFor,
+  noRecordIn,
   offFormat,
   overLength,
+  recordFieldsIn,
   type Shaping,
   twiceIn,
 } from "akasha/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"
@@ -17,18 +19,6 @@ import { numberAt, type Value } from "akasha/pages/value-reading/page-value-read
 const COMPUTED = "computed-property"
 
 const NOTHING: ReadonlySet<string> = new Set()
-
-function entriesAt(held: Value, key: string): readonly Value[] {
-  const said = held[key]
-  if (!Array.isArray(said)) return []
-  const kept: Value[] = []
-  for (const one of said) {
-    if (typeof one === "object" && one !== null && !Array.isArray(one)) {
-      kept.push(one as Value)
-    }
-  }
-  return kept
-}
 
 export function computedKey(key: string, on: string): string {
   return refusalText("page-key-computed", { key, on })
@@ -46,6 +36,7 @@ export function reasonsIn(
   const byKey = new Map(declared.map((one): readonly [string, Carried] => [one.key, one]))
   const pageFor = (one: Carried): Value | null =>
     shadow.index.pageAt(one.pageTypeSlug, one.pagePropertySlug)
+  const fieldsIn = fieldsReading(shadow, pageFor)
   for (const one of declared) {
     if (!one.required || one.uncommitted || one.secret || one.fixed !== undefined) continue
     if (one.pageTypeSlug === COMPUTED) continue
@@ -105,12 +96,15 @@ export function reasonsIn(
       const off = offFormat(each, format, formatting, slug)
       if (off !== null) said.push(off)
     }
-    const fields = fieldsFor(page, shadow, slug)
+    const fields = recordFieldsIn(one, fieldsIn)
     const shaped = fields.size > 0 ? fields : groupedFor(one, held, shadow)
     if (shaped.size === 0) continue
-    const shaping: Shaping = { fields: shaped, slug, pageFor, formatting }
-    for (const entry of listed ? entriesAt(value, key) : [held]) {
-      if (typeof entry !== "object" || entry === null) continue
+    const shaping: Shaping = { fields: shaped, slug, pageFor, formatting, fieldsIn }
+    for (const entry of listed ? held : [held]) {
+      if (typeof entry !== "object" || entry === null || Array.isArray(entry)) {
+        if (fields.size > 0) said.push(noRecordIn(entry, slug))
+        continue
+      }
       said.push(...fieldsOf(entry as Value, shaping, NOTHING))
     }
   }

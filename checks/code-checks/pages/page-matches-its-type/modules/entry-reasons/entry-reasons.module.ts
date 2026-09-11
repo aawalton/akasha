@@ -33,6 +33,22 @@ export const entryReasons = {
     },
     {
       invariantKind: "departure",
+      statement: "A field whose property declares fields is opened against what declares them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a field holding what is no record gives a reason rather than being passed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property keeping its values beside the page declares no record here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The fields a declaration opens are read through the reader the caller hands in.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A numbered entry file beside the page is judged as the first file is judged.",
     },
     {
