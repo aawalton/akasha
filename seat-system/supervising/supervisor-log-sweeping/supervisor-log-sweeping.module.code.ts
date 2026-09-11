@@ -1,7 +1,7 @@
 import { readdirSync, rmSync, statSync } from "node:fs"
+import { akashaSeatsThatExist } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { keepDaysFrom } from "akasha/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts"
 import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
-import { akashaSeatsThatExist } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import { keepDaysFrom } from "../../seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts"
 
 const DAY_MS = 86_400_000
 

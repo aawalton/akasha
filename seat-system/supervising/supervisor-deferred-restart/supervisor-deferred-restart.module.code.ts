@@ -1,24 +1,24 @@
-import { readTranscriptMtimeMs } from "../../agent-io-probe/agent-io-probe.module.code.ts"
-import type { IdleObservation } from "../../supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
+import { readTranscriptMtimeMs } from "akasha/seat-system/agent-io-probe/agent-io-probe.module.code.ts"
 import {
   busyTrail,
   logPastCliffOverride,
-} from "../supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.code.ts"
-import { readIdleBounded } from "../supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.code.ts"
+import { readIdleBounded } from "akasha/seat-system/supervising/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.code.ts"
 import type {
   DeferredRestartFireReason,
   DeferredRestartRuleSource,
   DeferredRestartState,
-} from "../supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
-import { guardTick } from "../supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import { guardTick } from "akasha/seat-system/supervising/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import {
   observeBusyChildDetails,
   observeIdle,
-} from "../supervisor-idle-observe/supervisor-idle-observe.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"
 import type {
   BusyChildDetail,
   IdleRuleSource,
-} from "../supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import type { IdleObservation } from "akasha/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 
 const TICK_MS = 10_000
 

@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   clearBeforeSigterm,
   consumeThenProxySwap,
-} from "./supervisor-agent-action-clear.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
 
 test("a clear that answers is awaited", async () => {
   const seen: string[] = []

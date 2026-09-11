@@ -1,9 +1,9 @@
+import type { SupervisorOAuthProxyHandle } from "akasha/seat-system/oauth-proxy/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
+import type { SupervisorHandoff } from "akasha/seat-system/self-healing/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
+import type { AgentActionSubsystem } from "akasha/seat-system/supervising/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
+import type { ChildExitClassification } from "akasha/seat-system/supervising/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+import type { LogSink } from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
 import type { AgentProcess } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
-import type { SupervisorOAuthProxyHandle } from "../../oauth-proxy/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
-import type { SupervisorHandoff } from "../../self-healing/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
-import type { AgentActionSubsystem } from "../supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
-import type { ChildExitClassification } from "../supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import type { LogSink } from "../supervisor-console/supervisor-console.module.code.ts"
 
 export const processes = new Map<string, AgentProcess>()
 

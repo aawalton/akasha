@@ -7,6 +7,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { readOwnTranscriptTail } from "akasha/seat-system/agent-io-probe/agent-io-probe.module.code.ts"
 import {
   type AskDecide,
   askLimitResume,
@@ -18,12 +19,11 @@ import {
   SYSTEM_SOURCE,
   sendMessage,
 } from "akasha/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
+import { tickSaying } from "akasha/seat-system/supervising/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
 import {
   askSupervisorDecide,
   classifyRateLimitDeath,
 } from "akasha/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
-import { readOwnTranscriptTail } from "../../agent-io-probe/agent-io-probe.module.code.ts"
-import { tickSaying } from "../supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
 
 const LIMIT_RESUME_INTERVAL_MS = 30_000
 

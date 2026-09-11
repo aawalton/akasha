@@ -1,13 +1,16 @@
-import type { AskDecide } from "akasha/seat-system/supervising/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
-import { askRule, type RuleAnswer } from "../supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
+import {
+  askRule,
+  type RuleAnswer,
+} from "akasha/seat-system/supervising/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
 import {
   type ChildExitClassification,
   type ChildExitObservation,
   type ChildExitStatus,
   STOP_REASON as DB_STOP_REASON,
   type ShutdownExitWrite,
-} from "../supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+import type { AskDecide } from "akasha/seat-system/supervising/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const RULE = "childExitRule"
 

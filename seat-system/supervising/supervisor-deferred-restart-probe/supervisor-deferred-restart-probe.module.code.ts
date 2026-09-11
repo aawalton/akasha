@@ -1,5 +1,5 @@
-import type { IdleObservation } from "../../supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
-import type { IdleRuleSource } from "../supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import type { IdleRuleSource } from "akasha/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import type { IdleObservation } from "akasha/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 
 export interface BoundedIdleReading {
   idle: boolean

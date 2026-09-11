@@ -1,10 +1,12 @@
 import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
+import { readOwnTranscriptTail } from "akasha/seat-system/agent-io-probe/agent-io-probe.module.code.ts"
 import {
   ANNOUNCE,
   hasRecentInboundMessage,
   SYSTEM_SOURCE,
   sendMessage,
 } from "akasha/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
+import { tickSaying } from "akasha/seat-system/supervising/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
 import {
   type AskDecide,
   askWaitResume,
@@ -14,13 +16,11 @@ import {
   WAIT_MAX_MS,
   waitMs,
 } from "akasha/seat-system/supervising/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
-import { askSupervisorDecide } from "akasha/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
-import { readOwnTranscriptTail } from "../../agent-io-probe/agent-io-probe.module.code.ts"
-import { tickSaying } from "../supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
 import {
   CONNECTION_STATUS,
   classifyTurnEndErrorDeath,
-} from "../turn-end-error-death/turn-end-error-death.module.code.ts"
+} from "akasha/seat-system/supervising/turn-end-error-death/turn-end-error-death.module.code.ts"
+import { askSupervisorDecide } from "akasha/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 
 const WAIT_RESUME_INTERVAL_MS = 30_000
 

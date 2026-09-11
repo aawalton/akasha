@@ -1,3 +1,7 @@
+import { askProxyAdoption } from "akasha/seat-system/oauth-proxy/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
+import { askProxyLiveness } from "akasha/seat-system/oauth-proxy/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
+import { askReExecJitterMs } from "akasha/seat-system/self-healing/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"
+import { setSelfHealIdleProbe } from "akasha/seat-system/self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import type { SeatResume } from "akasha/seat-system/supervising/supervisor-args/supervisor-args.module.code.ts"
 import { decideBootResume } from "akasha/seat-system/supervising/supervisor-args/supervisor-args.module.code.ts"
 import {
@@ -6,29 +10,25 @@ import {
 } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
 import { LIVE_DEFERRED_RESTART_RULE } from "akasha/seat-system/supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import { bootInteractiveSession } from "akasha/seat-system/supervising/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"
+import type { InteractiveOpts } from "akasha/seat-system/supervising/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
+import {
+  acquireIterationChild,
+  assembleIterationProcess,
+  openIteration,
+} from "akasha/seat-system/supervising/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"
+import type { RunInteractiveSeams } from "akasha/seat-system/supervising/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
+import { finalizeInteractiveExit } from "akasha/seat-system/supervising/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
+import {
+  settleIterationExit,
+  wireIteration,
+} from "akasha/seat-system/supervising/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"
+import { dispatchPostExitOutcome } from "akasha/seat-system/supervising/supervisor-iteration-outcome/supervisor-iteration-outcome.module.code.ts"
 import { buildLoopState } from "akasha/seat-system/supervising/supervisor-loop-state/supervisor-loop-state.module.code.ts"
 import type { CarriedAgentName } from "akasha/seat-system/supervising/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import { isShuttingDown } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
 import { recordTermiosState } from "akasha/seat-system/supervising/supervisor-terminal/supervisor-terminal.module.code.ts"
 import type { AgentProcess } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
-import { askProxyAdoption } from "../../oauth-proxy/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
-import { askProxyLiveness } from "../../oauth-proxy/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
-import { askReExecJitterMs } from "../../self-healing/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"
-import { setSelfHealIdleProbe } from "../../self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { bootInteractiveSession } from "../supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"
-import type { InteractiveOpts } from "../supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
-import {
-  acquireIterationChild,
-  assembleIterationProcess,
-  openIteration,
-} from "../supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"
-import type { RunInteractiveSeams } from "../supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
-import { finalizeInteractiveExit } from "../supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
-import {
-  settleIterationExit,
-  wireIteration,
-} from "../supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"
-import { dispatchPostExitOutcome } from "../supervisor-iteration-outcome/supervisor-iteration-outcome.module.code.ts"
 
 export async function runInteractive(
   prompt: string,

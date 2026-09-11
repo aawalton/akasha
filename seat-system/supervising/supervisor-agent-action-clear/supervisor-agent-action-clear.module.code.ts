@@ -1,5 +1,5 @@
-import { clearControl } from "../../seat-control/seat-control.module.code.ts"
-import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
+import { clearControl } from "akasha/seat-system/seat-control/seat-control.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 
 export async function clearRequestedAction(agentId: string): Promise<void> {
   clearControl(agentId)

@@ -1,3 +1,5 @@
+import { buildInteractiveCLIArgs } from "akasha/seat-system/claude-launch-args/claude-launch-args.module.code.ts"
+import { isPendingReExec } from "akasha/seat-system/self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import {
   resolveAgentEffortLevel,
   resolveAutoCompactWindow,
@@ -14,6 +16,10 @@ import type { SeatResume } from "akasha/seat-system/supervising/supervisor-args/
 import { materializeBootPrompt } from "akasha/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts"
 import { stage } from "akasha/seat-system/supervising/supervisor-boot-stage/supervisor-boot-stage.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import type {
+  InteractiveOpts,
+  InteractiveSessionBoot,
+} from "akasha/seat-system/supervising/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import { armForceExitTimer } from "akasha/seat-system/supervising/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
 import { resolveMcpConfig } from "akasha/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts"
 import type { CarriedAgentName } from "akasha/seat-system/supervising/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
@@ -25,12 +31,6 @@ import {
 import { materializeSpawnSettings } from "akasha/seat-system/supervising/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
 import { setOAuthProxyHandle } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
 import type { AgentProcess } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
-import { buildInteractiveCLIArgs } from "../../claude-launch-args/claude-launch-args.module.code.ts"
-import { isPendingReExec } from "../../self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import type {
-  InteractiveOpts,
-  InteractiveSessionBoot,
-} from "../supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 
 export type SeatSpawnDecider = (
   agentId: string | null,

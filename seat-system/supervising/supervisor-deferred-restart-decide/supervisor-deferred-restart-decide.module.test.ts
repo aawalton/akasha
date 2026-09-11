@@ -9,7 +9,7 @@ import {
   resolveMaxDeferMs,
   resolvePreCliffOverrideMs,
   resolveStaleWedgeMs,
-} from "./supervisor-deferred-restart-decide.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
 
 test("one idle tick short of the streak does not fire", () => {
   const held = decideDeferredRestart(INITIAL_DEFERRED_RESTART_STATE, { idle: true })

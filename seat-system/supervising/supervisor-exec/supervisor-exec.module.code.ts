@@ -1,12 +1,12 @@
 import { dlopen, FFIType, ptr } from "bun:ffi"
+import type { ChildExitStatus } from "akasha/seat-system/supervising/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+import type { ChildExitRuleSource } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { collapse, folds, refuses } from "akasha/utils/narrow/collapse/collapse.module.code.ts"
 import { resolveMappedLibc } from "akasha/utils/process/libc-mapping/libc-mapping.module.code.ts"
 import {
   errnoCodeOf,
   readPidSignal,
 } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
-import type { ChildExitStatus } from "../supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import type { ChildExitRuleSource } from "../supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 
 if (process.platform !== "linux") {
   throw new Error(`supervisor-exec only supports Linux (got ${process.platform}).`)

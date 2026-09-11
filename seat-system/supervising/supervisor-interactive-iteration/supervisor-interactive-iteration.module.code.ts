@@ -1,4 +1,15 @@
 import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
+import { readOwnTranscriptTail } from "akasha/seat-system/agent-io-probe/agent-io-probe.module.code.ts"
+import { reconcileClaimedRedelivery } from "akasha/seat-system/messaging/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.code.ts"
+import {
+  readClaimedBefore,
+  releaseMessageClaim,
+} from "akasha/seat-system/messaging/supervisor-message-claim/supervisor-message-claim.module.code.ts"
+import { redeliveryHoldoff } from "akasha/seat-system/messaging/supervisor-redelivery-holdoff/supervisor-redelivery-holdoff.module.code.ts"
+import {
+  setCurrentAgentIdForSelfHeal,
+  setCurrentSessionIdForSelfHeal,
+} from "akasha/seat-system/self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { claimSeatSupervision } from "akasha/seat-system/supervising/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import { createAgent } from "akasha/seat-system/supervising/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import type { SeatResume } from "akasha/seat-system/supervising/supervisor-args/supervisor-args.module.code.ts"
@@ -6,6 +17,16 @@ import { LIVE_CHILD_EXIT_RULE } from "akasha/seat-system/supervising/supervisor-
 import { spawnOrAdoptChild } from "akasha/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
+import { keepSeatTranscript } from "akasha/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
+import type {
+  InteractiveOpts,
+  InteractiveSessionBoot,
+} from "akasha/seat-system/supervising/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
+import {
+  applyCarriedName,
+  buildIterationSpawnOpts,
+  type SeatSpawnDecider,
+} from "akasha/seat-system/supervising/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
 import {
   ANNOUNCE,
   sendMessage,
@@ -24,27 +45,6 @@ import type {
   AgentProcess,
   InheritedProc,
 } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
-import { readOwnTranscriptTail } from "../../agent-io-probe/agent-io-probe.module.code.ts"
-import { reconcileClaimedRedelivery } from "../../messaging/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.code.ts"
-import {
-  readClaimedBefore,
-  releaseMessageClaim,
-} from "../../messaging/supervisor-message-claim/supervisor-message-claim.module.code.ts"
-import { redeliveryHoldoff } from "../../messaging/supervisor-redelivery-holdoff/supervisor-redelivery-holdoff.module.code.ts"
-import {
-  setCurrentAgentIdForSelfHeal,
-  setCurrentSessionIdForSelfHeal,
-} from "../../self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { keepSeatTranscript } from "../supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
-import type {
-  InteractiveOpts,
-  InteractiveSessionBoot,
-} from "../supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
-import {
-  applyCarriedName,
-  buildIterationSpawnOpts,
-  type SeatSpawnDecider,
-} from "../supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
 
 export async function openIteration(args: {
   agentId: string | null

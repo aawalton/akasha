@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { computeServersToClear, planDisableReconcile } from "./mcp-disable-reconcile.module.code.ts"
+import {
+  computeServersToClear,
+  planDisableReconcile,
+} from "akasha/seat-system/supervising/mcp-disable-reconcile/mcp-disable-reconcile.module.code.ts"
 
 const CWD = "/var/home/walton/repos/akasha"
 const same = (p: string): string => p

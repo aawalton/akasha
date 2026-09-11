@@ -7,7 +7,7 @@ import {
   type HookRegistration,
   hooksFrom,
   hooksMerged,
-} from "../agent-hook-registration/agent-hook-registration.module.code.ts"
+} from "akasha/seat-system/supervising/agent-hook-registration/agent-hook-registration.module.code.ts"
 
 const SETTINGS_AT = new URL(
   "../../agent-settings/pages/agents/agents.agent-settings.harness-settings.json",

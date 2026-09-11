@@ -12,16 +12,16 @@ import {
   classifyPlaywrightStorageState,
   RefreshedTokensSchema,
 } from "akasha/code-system/browser/test-harness/storage-state-reading/storage-state-reading.module.code.ts"
+import {
+  computeMcpConfigContent,
+  type McpServerConfig,
+} from "akasha/seat-system/claude-launch-args/claude-launch-args.module.code.ts"
 import { planDisableReconcile } from "akasha/seat-system/supervising/mcp-disable-reconcile/mcp-disable-reconcile.module.code.ts"
 import {
   getMcpServerRegistry,
   playwrightStorageStatePath,
 } from "akasha/seat-system/supervising/mcp-registry/mcp-registry.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
-import {
-  computeMcpConfigContent,
-  type McpServerConfig,
-} from "../../claude-launch-args/claude-launch-args.module.code.ts"
 
 const LOG = "[supervisor-mcp]"
 
@@ -86,7 +86,7 @@ function atomicWriteStorageState(path: string, contents: string): undefined {
 async function runExport(): Promise<undefined> {
   console.log(`${LOG} re-exporting playwright storage state`)
   const { exportBrowserTestStorageState } = await import(
-    "../../../commands/pages/browser/test-storage-state/browser-test-storage-state.command.code.ts"
+    "akasha/commands/pages/browser/test-storage-state/browser-test-storage-state.command.code.ts"
   )
   try {
     for (const line of await exportBrowserTestStorageState()) console.log(`${LOG} ${line}`)

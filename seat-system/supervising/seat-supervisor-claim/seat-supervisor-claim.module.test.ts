@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   decideSeatSupervision,
   SeatSupervisionCollisionError,
-} from "./seat-supervisor-claim.module.code.ts"
+} from "akasha/seat-system/supervising/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 
 const SELF = "4242-998877"
 

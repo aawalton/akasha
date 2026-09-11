@@ -1,5 +1,5 @@
 import { refuseParentless } from "akasha/seat-system/seat-parentless-refusal/seat-parentless-refusal.module.code.ts"
-import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 
 export type RowAgentLaunch = "spawned" | "opened"
 

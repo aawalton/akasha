@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { buildReExecArgv, decideBootResume, parseArgs } from "./supervisor-args.module.code.ts"
+import {
+  buildReExecArgv,
+  decideBootResume,
+  parseArgs,
+} from "akasha/seat-system/supervising/supervisor-args/supervisor-args.module.code.ts"
 
 test("parsing stops at the first argument that is not a flag", () => {
   const held = parseArgs(["--headless", "-a", "aawalton", "do", "--the", "work"])

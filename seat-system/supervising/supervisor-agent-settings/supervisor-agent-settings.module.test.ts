@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
-import { agentSettings } from "./supervisor-agent-settings.module.code.ts"
+import { agentSettings } from "akasha/seat-system/supervising/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
 
 const SETTINGS_AT = new URL(
   "../../agent-settings/pages/agents/agents.agent-settings.harness-settings.json",

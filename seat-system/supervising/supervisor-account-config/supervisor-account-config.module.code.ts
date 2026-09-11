@@ -2,8 +2,8 @@ import {
   parseModel,
   toCliAlias,
 } from "akasha/agents/models/modules/vocab/model-vocab.module.code.ts"
-import { readSeatConditions } from "../../seat-conditions-reading/seat-conditions-reading.module.code.ts"
-import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
+import { readSeatConditions } from "akasha/seat-system/seat-conditions-reading/seat-conditions-reading.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 
 export type WorkerModelDeps = {
   getWorkerModel: () => Promise<string | null>

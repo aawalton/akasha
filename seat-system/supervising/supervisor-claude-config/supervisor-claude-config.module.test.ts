@@ -5,7 +5,7 @@ import {
   expandHome,
   readClaudeConfigDeclaration,
   reconcileClaudeConfig,
-} from "./supervisor-claude-config.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-claude-config/supervisor-claude-config.module.code.ts"
 
 test("only a plain object reads as a record", () => {
   expect(asRecord({ a: 1 })).toEqual({ a: 1 })

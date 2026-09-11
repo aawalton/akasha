@@ -1,14 +1,14 @@
 import { expect, test } from "bun:test"
 import {
-  CLEAR_RC_CONFIRM_LATCH,
-  INITIAL_RC_SEAT_STREAK,
-} from "../supervisor-rc-degraded-state/supervisor-rc-degraded-state.module.code.ts"
-import { DEFAULT_RC_DEGRADED_THRESHOLDS } from "../supervisor-rc-degraded-thresholds/supervisor-rc-degraded-thresholds.module.code.ts"
-import {
   decideRcDegraded,
   decideRcDegradedBatch,
   type RcDegradedDecideInput,
-} from "./supervisor-rc-degraded-decide.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.code.ts"
+import {
+  CLEAR_RC_CONFIRM_LATCH,
+  INITIAL_RC_SEAT_STREAK,
+} from "akasha/seat-system/supervising/supervisor-rc-degraded-state/supervisor-rc-degraded-state.module.code.ts"
+import { DEFAULT_RC_DEGRADED_THRESHOLDS } from "akasha/seat-system/supervising/supervisor-rc-degraded-thresholds/supervisor-rc-degraded-thresholds.module.code.ts"
 
 const T = DEFAULT_RC_DEGRADED_THRESHOLDS
 

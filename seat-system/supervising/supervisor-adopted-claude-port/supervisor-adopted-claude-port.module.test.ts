@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { parseProxyPortFromBaseUrl } from "./supervisor-adopted-claude-port.module.code.ts"
+import { parseProxyPortFromBaseUrl } from "akasha/seat-system/supervising/supervisor-adopted-claude-port/supervisor-adopted-claude-port.module.code.ts"
 
 test("a loopback http url states its port", () => {
   expect(parseProxyPortFromBaseUrl("http://localhost:8123")).toBe(8123)

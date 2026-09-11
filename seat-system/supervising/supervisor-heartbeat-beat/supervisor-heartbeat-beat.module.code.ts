@@ -1,23 +1,26 @@
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { Outcome } from "akasha/seat-system/gated-write/gated-write.module.code.ts"
-import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { keepBeside } from "../../seat-beside/seat-beside.module.code.ts"
-import { runningModeIn } from "../../seat-modes/seat-modes.module.code.ts"
-import { type BeatReport, beat } from "../../seat-page-beat/seat-page-beat.module.code.ts"
-import { nameFromHistory } from "../../seat-page-history/seat-page-history.module.code.ts"
+import { keepBeside } from "akasha/seat-system/seat-beside/seat-beside.module.code.ts"
+import { runningModeIn } from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
+import {
+  type BeatReport,
+  beat,
+} from "akasha/seat-system/seat-page-beat/seat-page-beat.module.code.ts"
+import { nameFromHistory } from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
 import {
   formatSeatProcKey,
   readSeatProcKey,
-} from "../../seat-proc-key/seat-proc-key.module.code.ts"
-import { composedNameOf } from "../../seat-rename/seat-rename.module.code.ts"
-import { clearRotated } from "../../seat-rotated-session/seat-rotated-session.module.code.ts"
-import { keepSession } from "../../seat-session/seat-session.module.code.ts"
-import { keepTranscript } from "../../seat-transcript-path/seat-transcript-path.module.code.ts"
+} from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
+import { composedNameOf } from "akasha/seat-system/seat-rename/seat-rename.module.code.ts"
+import { clearRotated } from "akasha/seat-system/seat-rotated-session/seat-rotated-session.module.code.ts"
+import { keepSession } from "akasha/seat-system/seat-session/seat-session.module.code.ts"
+import { keepTranscript } from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import {
   getCurrentAgentIdForSelfHeal,
   getCurrentSessionIdForSelfHeal,
-} from "../../self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
+} from "akasha/seat-system/self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const BEAT = new URL("../../seat-page-beat/seat-page-beat.module.code.ts", import.meta.url).pathname
 

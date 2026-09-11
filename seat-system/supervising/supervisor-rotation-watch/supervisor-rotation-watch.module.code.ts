@@ -1,4 +1,4 @@
-import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 
 const POLL_INTERVAL_MS = 1_000
 

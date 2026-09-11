@@ -1,3 +1,4 @@
+import { triggerProxySwap } from "akasha/seat-system/oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { buildAgentActionSubsystem } from "akasha/seat-system/supervising/supervisor-agent-action/supervisor-agent-action.module.code.ts"
 import {
   clearRequestedAction,
@@ -9,6 +10,8 @@ import { wireSessionRotatedWatcher } from "akasha/seat-system/supervising/superv
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
 import { LIVE_DEFERRED_RESTART_RULE } from "akasha/seat-system/supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import { LIVE_IDLE_RULE } from "akasha/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import type { InteractiveSessionBoot } from "akasha/seat-system/supervising/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import { startPreCliffRestartMonitor } from "akasha/seat-system/supervising/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
 import { askPreCliffRestart } from "akasha/seat-system/supervising/supervisor-precliff-restart-rule/supervisor-precliff-restart-rule.module.code.ts"
 import type { ClearRebindHooks } from "akasha/seat-system/supervising/supervisor-rebind/supervisor-rebind.module.code.ts"
@@ -23,9 +26,6 @@ import type {
   AgentProcess,
   InheritedProc,
 } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
-import { triggerProxySwap } from "../../oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
-import { LIVE_IDLE_RULE } from "../supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
-import type { InteractiveSessionBoot } from "../supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 
 export interface IterationWiring {
   actionSubsystem: ReturnType<typeof buildAgentActionSubsystem>

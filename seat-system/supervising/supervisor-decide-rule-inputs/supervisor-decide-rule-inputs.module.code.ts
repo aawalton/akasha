@@ -6,23 +6,23 @@ import {
   oneOf,
   str,
 } from "akasha/seat-system/argument-narrowing/argument-narrowing.module.code.ts"
-import type { IdleObservation } from "akasha/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
-import {
-  INITIAL_PROXY_LIVENESS_STATE,
-  type ProxyLivenessState,
-} from "akasha/seat-system/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
 import type {
   ChildExitClassification,
   ChildExitObservation,
   ChildExitStatus,
-} from "../supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import { STOP_REASON } from "../supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+import { STOP_REASON } from "akasha/seat-system/supervising/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import {
   type DeferredRestartConfig,
   type DeferredRestartObservation,
   type DeferredRestartState,
   INITIAL_DEFERRED_RESTART_STATE,
-} from "../supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
+import type { IdleObservation } from "akasha/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
+import {
+  INITIAL_PROXY_LIVENESS_STATE,
+  type ProxyLivenessState,
+} from "akasha/seat-system/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
 
 export function idleObservation(value: unknown, path: string): IdleObservation {
   const o = obj(value, path)

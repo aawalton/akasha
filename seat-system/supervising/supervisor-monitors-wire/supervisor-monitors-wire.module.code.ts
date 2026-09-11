@@ -1,19 +1,19 @@
 import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
+import { startProxyLivenessMonitor } from "akasha/seat-system/oauth-proxy/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"
+import type { ProxyLivenessRuleSource } from "akasha/seat-system/oauth-proxy/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
+import { handleProxyVersionUpdate } from "akasha/seat-system/oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
+import { pollSupervisorFileVersion } from "akasha/seat-system/self-healing/supervisor-file-version/supervisor-file-version.module.code.ts"
+import { handleVersionUpdate } from "akasha/seat-system/self-healing/supervisor-self-heal/supervisor-self-heal.module.code.ts"
+import { SUPERVISOR_SCRIPT } from "akasha/seat-system/self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import { buildHeartbeatMonitor } from "akasha/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
+import { startLimitResumeMonitor } from "akasha/seat-system/supervising/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"
 import { pollAgentAction } from "akasha/seat-system/supervising/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"
 import {
   getAgentActionHandler,
   getOAuthProxyHandle,
 } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
 import { startWaitResumeMonitor } from "akasha/seat-system/supervising/supervisor-wait-resume/supervisor-wait-resume.module.code.ts"
-import { startProxyLivenessMonitor } from "../../oauth-proxy/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"
-import type { ProxyLivenessRuleSource } from "../../oauth-proxy/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
-import { handleProxyVersionUpdate } from "../../oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
-import { pollSupervisorFileVersion } from "../../self-healing/supervisor-file-version/supervisor-file-version.module.code.ts"
-import { handleVersionUpdate } from "../../self-healing/supervisor-self-heal/supervisor-self-heal.module.code.ts"
-import { SUPERVISOR_SCRIPT } from "../../self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { startLimitResumeMonitor } from "../supervisor-limit-resume/supervisor-limit-resume.module.code.ts"
 
 export type PerAgentMonitors = {
   heartbeatTimer: ReturnType<typeof setInterval>

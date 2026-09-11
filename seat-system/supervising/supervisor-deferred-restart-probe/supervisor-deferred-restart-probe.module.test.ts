@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { readIdleBounded } from "./supervisor-deferred-restart-probe.module.code.ts"
+import { readIdleBounded } from "akasha/seat-system/supervising/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.code.ts"
 
 const OBS = {
   inFlight: 0,

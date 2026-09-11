@@ -10,9 +10,12 @@ import {
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { configDirForAccount, LOG } from "../supervisor-config/supervisor-config.module.code.ts"
-import { processes } from "../supervisor-state/supervisor-state.module.code.ts"
-import type { AgentProcess } from "../supervisor-types/supervisor-types.module.code.ts"
+import {
+  configDirForAccount,
+  LOG,
+} from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import { processes } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
+import type { AgentProcess } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
 
 const CREDENTIAL_PUSH_TIMEOUT_MS = 1_500
 

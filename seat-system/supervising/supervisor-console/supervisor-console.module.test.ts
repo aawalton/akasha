@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   fileSink,
   LOG_MAX_BYTES,
@@ -10,7 +10,7 @@ import {
   SUPERVISOR_CONSOLE_SOURCE,
   seatPageSink,
   shouldRotate,
-} from "./supervisor-console.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
 
 const scratch = scratchWorld()
 

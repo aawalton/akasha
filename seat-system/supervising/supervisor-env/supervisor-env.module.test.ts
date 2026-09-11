@@ -5,7 +5,7 @@ import {
   buildSupervisorEnv,
   isInheritedAnthropicRoutingEnvKey,
   isInheritedClaudeSessionEnvKey,
-} from "./supervisor-env.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-env/supervisor-env.module.code.ts"
 
 const BASE = {
   agentId: "a",

@@ -6,6 +6,38 @@ import {
   obj,
   str,
 } from "akasha/seat-system/argument-narrowing/argument-narrowing.module.code.ts"
+import { fail } from "akasha/seat-system/command-failing/command-failing.module.code.ts"
+import {
+  computeReExecJitterMs,
+  resolveMaxReExecJitterMs,
+} from "akasha/seat-system/self-healing/supervisor-self-heal-jitter-decide/supervisor-self-heal-jitter-decide.module.code.ts"
+import {
+  classifyChildExit,
+  collapseChildExitStatus,
+  decideShutdownExitWrite,
+  decodeWaitStatus,
+  STOP_REASON,
+} from "akasha/seat-system/supervising/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+import {
+  childExitClassification,
+  childExitObservation,
+  childExitStatus,
+  deferredRestartConfig,
+  deferredRestartObservation,
+  deferredRestartState,
+  idleObservation,
+  proxyLivenessState,
+  rawEnv,
+} from "akasha/seat-system/supervising/supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.code.ts"
+import {
+  decideDeferredRestart,
+  EDGE_CONNECTION_CLIFF_OVERRIDE_MS,
+  EDGE_CONNECTION_CLIFF_PREEMPT_MS,
+  INITIAL_DEFERRED_RESTART_STATE,
+  resolveMaxDeferMs,
+  resolvePreCliffOverrideMs,
+  resolveStaleWedgeMs,
+} from "akasha/seat-system/supervising/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
 import {
   isIdleForPreservingRestart,
   isIdleForPreservingRestartPastCliff,
@@ -21,38 +53,6 @@ import {
   type ProxyAdoptionInput,
 } from "akasha/seat-system/supervisor-proxy-adoption-decide/supervisor-proxy-adoption-decide.module.code.ts"
 import { decideProxyLiveness } from "akasha/seat-system/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
-import { fail } from "../../command-failing/command-failing.module.code.ts"
-import {
-  computeReExecJitterMs,
-  resolveMaxReExecJitterMs,
-} from "../../self-healing/supervisor-self-heal-jitter-decide/supervisor-self-heal-jitter-decide.module.code.ts"
-import {
-  classifyChildExit,
-  collapseChildExitStatus,
-  decideShutdownExitWrite,
-  decodeWaitStatus,
-  STOP_REASON,
-} from "../supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import {
-  childExitClassification,
-  childExitObservation,
-  childExitStatus,
-  deferredRestartConfig,
-  deferredRestartObservation,
-  deferredRestartState,
-  idleObservation,
-  proxyLivenessState,
-  rawEnv,
-} from "../supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.code.ts"
-import {
-  decideDeferredRestart,
-  EDGE_CONNECTION_CLIFF_OVERRIDE_MS,
-  EDGE_CONNECTION_CLIFF_PREEMPT_MS,
-  INITIAL_DEFERRED_RESTART_STATE,
-  resolveMaxDeferMs,
-  resolvePreCliffOverrideMs,
-  resolveStaleWedgeMs,
-} from "../supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
 
 function sub(
   value: unknown,

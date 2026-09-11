@@ -1,17 +1,17 @@
-import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
-import { akashaSeatIdForName } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import { launchFrom } from "../../seat-flex/seat-flex.module.code.ts"
-import { pageValuesOf } from "../../seat-page-values/seat-page-values.module.code.ts"
-import { seatNameForAgent } from "../../seat-presence-read/seat-presence-read.module.code.ts"
-import { principalOf } from "../../seat-principal/seat-principal.module.code.ts"
+import { akashaSeatIdForName } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { launchFrom } from "akasha/seat-system/seat-flex/seat-flex.module.code.ts"
+import { pageValuesOf } from "akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
+import { seatNameForAgent } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import { principalOf } from "akasha/seat-system/seat-principal/seat-principal.module.code.ts"
 import {
   createAgent,
   type RowAgentLaunch,
-} from "../supervisor-agent-create/supervisor-agent-create.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import {
   keepSeatSession,
   takeSeatPage,
-} from "../supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 function nameOf(agentId: string): string | null {
   return seatNameForAgent(agentId)

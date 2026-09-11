@@ -1,4 +1,12 @@
 import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
+import { installProxyVersionSubsystem } from "akasha/seat-system/oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
+import { buildCredentialSubsystem } from "akasha/seat-system/seat-credential/supervisor-credentials/supervisor-credentials.module.code.ts"
+import {
+  parseSupervisorHandoffEnv,
+  resolveProxyOwnerAgentId,
+  SUPERVISOR_HANDOFF_ENV_KEYS,
+} from "akasha/seat-system/self-healing/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
+import { setProxyOwnerAgentIdForSelfHeal } from "akasha/seat-system/self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { claimSeatSupervision } from "akasha/seat-system/supervising/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import {
   reconcileAgentBootFiles,
@@ -14,6 +22,10 @@ import {
   AGENT_LAUNCH_OPENED,
   AGENT_LAUNCH_SPAWNED,
 } from "akasha/seat-system/supervising/supervisor-env/supervisor-env.module.code.ts"
+import type {
+  InteractiveBootArgs,
+  InteractiveSessionBoot,
+} from "akasha/seat-system/supervising/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import { startPerAgentMonitors } from "akasha/seat-system/supervising/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"
 import {
   AGENT_MODE_HEADLESS,
@@ -26,20 +38,8 @@ import {
   setOAuthProxyHandle,
   setRestoreConsoleHandle,
 } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
+import { toolRestrictions } from "akasha/seat-system/tool-access/tool-access.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
-import { installProxyVersionSubsystem } from "../../oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
-import { buildCredentialSubsystem } from "../../seat-credential/supervisor-credentials/supervisor-credentials.module.code.ts"
-import {
-  parseSupervisorHandoffEnv,
-  resolveProxyOwnerAgentId,
-  SUPERVISOR_HANDOFF_ENV_KEYS,
-} from "../../self-healing/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
-import { setProxyOwnerAgentIdForSelfHeal } from "../../self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
-import { toolRestrictions } from "../../tool-access/tool-access.module.code.ts"
-import type {
-  InteractiveBootArgs,
-  InteractiveSessionBoot,
-} from "../supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 
 const ENV_OPTIONAL = shape.string().optional()
 

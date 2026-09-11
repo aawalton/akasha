@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
-import { SettingsDocumentFault } from "../supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
+import { SettingsDocumentFault } from "akasha/seat-system/supervising/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
 import {
   materializeSpawnSettings,
   readAgentSettingsBase,
-} from "./supervisor-spawn-settings.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
 
 const OVERRIDES = { remoteControlAtStartup: true }
 

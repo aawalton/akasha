@@ -1,10 +1,10 @@
 import { createHash } from "node:crypto"
 import { existsSync, renameSync, writeFileSync } from "node:fs"
-import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import {
   agentSettings,
   isSettingsDocumentFault,
-} from "../supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const LOG = "[spawn-settings]"
 

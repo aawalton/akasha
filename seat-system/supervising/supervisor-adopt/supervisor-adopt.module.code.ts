@@ -1,26 +1,29 @@
 import { existsSync, readFileSync, renameSync, writeFileSync } from "node:fs"
-import { resolveRemoteControlEnv } from "akasha/seat-system/supervising/supervisor-remote-control-env/supervisor-remote-control-env.module.code.ts"
-import type { InheritedProc } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
 import {
   buildClaudeArgv,
   refuseMissingCwd,
-} from "../../claude-launch-args/claude-launch-args.module.code.ts"
-import type { SupervisorHandoff } from "../../self-healing/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
-import type { ChildExitStatus } from "../supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import type { ChildExitRuleSource } from "../supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+} from "akasha/seat-system/claude-launch-args/claude-launch-args.module.code.ts"
+import type { SupervisorHandoff } from "akasha/seat-system/self-healing/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
+import type { ChildExitStatus } from "akasha/seat-system/supervising/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+import type { ChildExitRuleSource } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import {
   asRecord,
   CLAUDE_CONFIG_PATH,
   readClaudeConfigDeclaration,
   reconcileClaudeConfig,
-} from "../supervisor-claude-config/supervisor-claude-config.module.code.ts"
-import { HOME_DIR, LOG } from "../supervisor-config/supervisor-config.module.code.ts"
-import { buildSupervisorEnv } from "../supervisor-env/supervisor-env.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-claude-config/supervisor-claude-config.module.code.ts"
+import {
+  HOME_DIR,
+  LOG,
+} from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import { buildSupervisorEnv } from "akasha/seat-system/supervising/supervisor-env/supervisor-env.module.code.ts"
 import {
   isProcessAlive,
   signalPid,
   waitForPidExit,
-} from "../supervisor-exec/supervisor-exec.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-exec/supervisor-exec.module.code.ts"
+import { resolveRemoteControlEnv } from "akasha/seat-system/supervising/supervisor-remote-control-env/supervisor-remote-control-env.module.code.ts"
+import type { InheritedProc } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
 
 export function adoptInheritedProc(pid: number, childExitRule: ChildExitRuleSource): InheritedProc {
   if (!isProcessAlive(pid)) {

@@ -15,7 +15,10 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { configDirForAccount, LOG } from "../supervisor-config/supervisor-config.module.code.ts"
+import {
+  configDirForAccount,
+  LOG,
+} from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 
 export interface AccountResolutionDeps {
   getCredentialByAccount: (account: string, logPrefix?: string) => Promise<OAuthCredential | null>

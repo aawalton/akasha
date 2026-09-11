@@ -1,19 +1,19 @@
+import { scanProcEntries } from "akasha/seat-system/proc-scan/proc-scan.module.code.ts"
+import { takeOpenTasks } from "akasha/seat-system/seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
 import {
   isClaudeChildCmdline,
   type ProcLivenessEntry,
 } from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
-import type { InheritedProc } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
-import { enforceMemoryGuard } from "akasha/utils/system/memory-guard/memory-guard.module.code.ts"
-import { scanProcEntries } from "../../proc-scan/proc-scan.module.code.ts"
-import { takeOpenTasks } from "../../seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
 import {
   adoptInheritedProc,
   InheritedPidDeadError,
   type resolveClaudeHandoff,
   spawnClaudeChild,
-} from "../supervisor-adopt/supervisor-adopt.module.code.ts"
-import type { ChildExitRuleSource } from "../supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
-import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-adopt/supervisor-adopt.module.code.ts"
+import type { ChildExitRuleSource } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import type { InheritedProc } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
+import { enforceMemoryGuard } from "akasha/utils/system/memory-guard/memory-guard.module.code.ts"
 
 export type ProcScan = () => { ok: boolean; entries: readonly ProcLivenessEntry[] }
 

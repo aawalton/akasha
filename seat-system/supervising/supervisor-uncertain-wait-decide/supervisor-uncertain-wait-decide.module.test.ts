@@ -4,7 +4,7 @@ import {
   decideUncertainBlockEscalation,
   INITIAL_UNCERTAIN_BLOCK_STATE,
   UNCERTAIN_BLOCK_ESCALATE_MS,
-} from "./supervisor-uncertain-wait-decide.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.code.ts"
 
 const NOW = 4_000_000
 
