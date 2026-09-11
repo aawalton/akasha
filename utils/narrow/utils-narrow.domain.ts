@@ -54,5 +54,6 @@ export const utilsNarrow = {
     "module/string-at",
     "module/text-at",
     "module/is-whitespace",
+    "module/whole-number-in",
   ],
 } as const satisfies Domain

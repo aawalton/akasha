@@ -16,6 +16,7 @@ import type {
   WalkOutcome,
 } from "akasha/temper/items-rules-eval/eval-result/eval-result.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
+import { wholeNumberIn } from "akasha/utils/narrow/whole-number-in/whole-number-in.module.code.ts"
 import type { CharacterKnowledge } from "../../../../../temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   allBagItems,
@@ -106,12 +107,6 @@ export function readIn(argv: readonly string[]): Read {
     charId: held.get(CHAR) ?? null,
     json,
   }
-}
-
-function wholeNumberIn(said: string): number | null {
-  if (!/^\d+$/.test(said)) return null
-  const held = Number(said)
-  return Number.isInteger(held) && held >= 0 ? held : null
 }
 
 function rejectionSaid(reason: RejectionReason): string {

@@ -1,6 +1,7 @@
 import { resolve } from "node:path"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
+import { wholeNumberIn } from "akasha/utils/narrow/whole-number-in/whole-number-in.module.code.ts"
 import {
   type CharacterKnowledge,
   loadTemperCharactersFromPath,
@@ -78,12 +79,6 @@ export function readIn(argv: readonly string[]): Read {
   }
   if (refusals.length > 0) return { refused: refusals }
   return { charId, itemKey, charactersPath, json }
-}
-
-function wholeNumberIn(said: string): number | null {
-  if (!/^\d+$/.test(said)) return null
-  const held = Number(said)
-  return Number.isInteger(held) && held >= 0 ? held : null
 }
 
 export function itemKeyIn(raw: string): ItemKey | string {

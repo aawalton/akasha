@@ -11,6 +11,7 @@ import { parseItemLink } from "akasha/temper/items-core/item-link-parser/item-li
 import { parseMotifBookName } from "akasha/temper/items-core/motif-name-parser/motif-name-parser.module.code.ts"
 import { getRecipeResultId } from "akasha/temper/items-core/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
 import { getScriptItemIdByName } from "akasha/temper/items-core/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
+import { wholeNumberIn } from "akasha/utils/narrow/whole-number-in/whole-number-in.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
@@ -76,12 +77,6 @@ export function readIn(argv: readonly string[]): Read {
   }
   if (refusals.length > 0 || named === null) return { refused: refusals }
   return { named, inventoryPath, json }
-}
-
-function wholeNumberIn(said: string): number | null {
-  if (!/^\d+$/.test(said)) return null
-  const held = Number(said)
-  return Number.isInteger(held) && held >= 0 ? held : null
 }
 
 function itemInDatabase(db: InventoryDatabase, itemId: number): InventoryItemData | null {
