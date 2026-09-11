@@ -5,7 +5,8 @@ export const browserCodeReadsTheEnvironmentByAName = {
   pageTypeSlug: "code-check",
   type: "code-check",
   slug: "browser-code-reads-the-environment-by-a-name",
-  definition: "the check refusing a bundled router app module reaching the environment by a key",
+  definition:
+    "the check refusing a bundled router app module reaching the environment by a key or a Next name",
   runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
@@ -103,6 +104,28 @@ export const browserCodeReadsTheEnvironmentByAName = {
     },
     {
       invariantKind: "departure",
+      statement: "A name marked for Next, read from `process.env` in a bundled module, refuses.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "That refusal names the line and the `import.meta.env` name to read in place of it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A Next name read inside a route module's exported loader or action is judged by nothing here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key is judged over a whole module, because no define replaces a key anywhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name is judged where the read sits, because a define reaches the name.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Every code file of an app is judged again where that app's route table or its page changed.",
     },
@@ -115,6 +138,15 @@ export const browserCodeReadsTheEnvironmentByAName = {
       invariantKind: "absence",
       statement:
         "A loader-only route reading a name only a define supplies by a key is seen by nothing here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A Next name reached through an import is seen by nothing here.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A read in an imported module is replaced by a define or shaken out, and which is unread here.",
     },
     {
       invariantKind: "absence",

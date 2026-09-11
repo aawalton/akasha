@@ -99,8 +99,15 @@ test("a keyed reach in a package file is refused", () => {
   expect(said[0]).toContain("by a key")
 })
 
-test("a name written out in full is let through", () => {
-  expect(over(PANEL, WRITTEN)).toEqual([])
+test("a name marked for Next is refused, naming the vite name to read instead", () => {
+  const said = over(PANEL, WRITTEN)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("process.env.NEXT_PUBLIC_BUILD_SHA")
+  expect(said[0]).toContain("import.meta.env.VITE_BUILD_SHA")
+})
+
+test("a name marked for neither vite nor Next is let through", () => {
+  expect(over(PANEL, "export const held = process.env.HELD_THING\n")).toEqual([])
 })
 
 test("an import reaching a module that reads by a key is refused", () => {

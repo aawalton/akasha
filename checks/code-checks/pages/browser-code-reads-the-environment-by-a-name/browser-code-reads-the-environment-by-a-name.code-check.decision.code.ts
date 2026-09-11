@@ -45,6 +45,10 @@ const ENV = "env"
 
 const KEYED = "process.env["
 
+const NEXT_NAMED = "NEXT_PUBLIC_"
+
+const VITE_NAMED = "VITE_"
+
 const CODE_NAMED = /\.tsx?$/
 
 const INSTEAD =
@@ -175,6 +179,41 @@ export function keyedIn(source: ts.SourceFile): readonly ts.Node[] {
   return found
 }
 
+function envNextNamed(node: ts.Node): node is ts.PropertyAccessExpression {
+  if (!ts.isPropertyAccessExpression(node)) return false
+  if (!node.name.text.startsWith(NEXT_NAMED)) return false
+  const held = node.expression
+  if (!ts.isPropertyAccessExpression(held) || held.name.text !== ENV) return false
+  return ts.isIdentifier(held.expression) && held.expression.text === PROCESS
+}
+
+export function servedNodesIn(source: ts.SourceFile): ReadonlySet<ts.Node> {
+  const found = new Set<ts.Node>()
+  for (const statement of source.statements) {
+    if (!ts.canHaveModifiers(statement)) continue
+    const modifiers = ts.getModifiers(statement) ?? []
+    if (!modifiers.some((one) => one.kind === ts.SyntaxKind.ExportKeyword)) continue
+    const names = namesOf(statement)
+    if (names.length > 0 && names.every((one) => SERVED_ALONE.has(one))) found.add(statement)
+  }
+  return found
+}
+
+export function nextNamedIn(
+  source: ts.SourceFile,
+  routed: boolean
+): readonly ts.PropertyAccessExpression[] {
+  const served = routed ? servedNodesIn(source) : new Set<ts.Node>()
+  const found: ts.PropertyAccessExpression[] = []
+  const visit = (node: ts.Node): undefined => {
+    if (served.has(node)) return
+    if (envNextNamed(node)) found.push(node)
+    ts.forEachChild(node, visit)
+  }
+  ts.forEachChild(source, visit)
+  return found
+}
+
 export function reachesByKey(path: string, text: string): boolean {
   if (!text.includes(KEYED)) return false
   return keyedIn(parsedAs(path, text)).length > 0
@@ -201,6 +240,11 @@ function reachedSaid(line: number, landed: string): string {
   return `line ${line} reaches \`${landed}\`, which reads \`process.env\` by a key — ${INSTEAD}`
 }
 
+function namedSaid(line: number, name: string): string {
+  const vite = `${VITE_NAMED}${name.slice(NEXT_NAMED.length)}`
+  return `line ${line} reads \`process.env.${name}\`, a name marked for Next — read \`import.meta.env.${vite}\` instead`
+}
+
 export function reasonsIn(
   path: string,
   text: string,
@@ -212,6 +256,9 @@ export function reasonsIn(
   if (routed && servedAlone(source)) return []
   const said: string[] = []
   for (const node of keyedIn(source)) said.push(keyedSaid(lineOf(source, node)))
+  for (const node of nextNamedIn(source, routed)) {
+    said.push(namedSaid(lineOf(source, node), node.name.text))
+  }
   for (const statement of source.statements) {
     if (!ts.isImportDeclaration(statement)) continue
     if (!ts.isStringLiteral(statement.moduleSpecifier)) continue
