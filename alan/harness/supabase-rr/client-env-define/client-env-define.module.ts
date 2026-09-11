@@ -5,6 +5,6 @@ export const clientEnvDefine = {
   pageTypeSlug: "module",
   type: "module",
   slug: "client-env-define",
-  definition: "the Supabase settings a client bundle is built with, fixed at build time",
+  definition: "the Supabase settings a client bundle reads, guarded rather than inlined",
   code: "ts",
 } as const satisfies Module
