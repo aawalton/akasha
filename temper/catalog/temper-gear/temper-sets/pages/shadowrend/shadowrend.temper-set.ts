@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const shadowrend = {
   id: "019e6484-6016-78cf-b4ea-3026cd5c80d7",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "shadowrend",
   title: "Shadowrend",

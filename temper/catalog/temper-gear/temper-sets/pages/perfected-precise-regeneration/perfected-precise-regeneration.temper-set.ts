@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const perfectedPreciseRegeneration = {
   id: "019e6484-5fc3-7108-91f9-bb0c198332f0",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "perfected-precise-regeneration",
   title: "Perfected Precise Regeneration",

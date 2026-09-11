@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const perfectedRecoveryConvergence = {
   id: "019e66e7-6a1a-757c-bd74-e7564e1c3d8f",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "perfected-recovery-convergence",
   title: "Perfected Recovery Convergence",

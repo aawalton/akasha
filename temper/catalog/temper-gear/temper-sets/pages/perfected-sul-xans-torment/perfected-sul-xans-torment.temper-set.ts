@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const perfectedSulXansTorment = {
   id: "019e66ec-7d58-7eb9-831e-b49d416f27d7",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "perfected-sul-xans-torment",
   title: "Perfected Sul-Xan's Torment",

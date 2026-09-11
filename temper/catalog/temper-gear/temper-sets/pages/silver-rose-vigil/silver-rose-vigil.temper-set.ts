@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const silverRoseVigil = {
   id: "019e66e6-a0c3-75f4-9ff7-69dbde1c7510",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "silver-rose-vigil",
   title: "Silver Rose Vigil",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const shieldOfTheValiant = {
   id: "019e66ec-790f-7a10-9bb7-12cfe4d9d189",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "shield-of-the-valiant",
   title: "Shield of the Valiant",

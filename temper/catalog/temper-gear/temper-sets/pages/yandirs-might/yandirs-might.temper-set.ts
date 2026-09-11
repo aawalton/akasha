@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const yandirsMight = {
   id: "019e66ec-7f49-7f1e-a2b8-561d99efd23c",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "yandirs-might",
   title: "Yandir's Might",

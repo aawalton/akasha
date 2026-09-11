@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const ringOfThePaleOrder = {
   id: "019e6484-6034-77d9-99cf-58562ae24bf3",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "ring-of-the-pale-order",
   title: "Ring of the Pale Order",

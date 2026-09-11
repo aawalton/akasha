@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const torcOfTheLastAyleidKing = {
   id: "019e6484-6041-7a15-a959-0ed692cc80b9",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "torc-of-the-last-ayleid-king",
   title: "Torc of the Last Ayleid King",

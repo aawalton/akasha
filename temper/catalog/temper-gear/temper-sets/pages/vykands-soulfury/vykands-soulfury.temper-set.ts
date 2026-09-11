@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const vykandsSoulfury = {
   id: "019e66e7-6a28-7de5-a794-1c2b84f7d620",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "vykands-soulfury",
   title: "Vykand's Soulfury",

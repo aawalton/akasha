@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const spelunker = {
   id: "019e66e6-a0c6-7958-9c72-6661d3580fda",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "spelunker",
   title: "Spelunker",

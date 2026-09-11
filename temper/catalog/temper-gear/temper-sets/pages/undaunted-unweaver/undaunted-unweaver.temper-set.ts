@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const undauntedUnweaver = {
   id: "019e66e6-a0e2-7aec-aeef-13a7beaae689",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "undaunted-unweaver",
   title: "Undaunted Unweaver",

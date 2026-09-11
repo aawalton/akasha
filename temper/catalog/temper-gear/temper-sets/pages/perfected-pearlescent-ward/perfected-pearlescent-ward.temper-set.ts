@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const perfectedPearlescentWard = {
   id: "019e66ec-7cf1-7d5a-bcd8-6b3287ba1f30",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "perfected-pearlescent-ward",
   title: "Perfected Pearlescent Ward",

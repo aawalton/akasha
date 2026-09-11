@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const stormMaster = {
   id: "019e66e6-a0cc-7119-bfe8-7322d1e263a8",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "storm-master",
   title: "Storm Master",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const pyrebrand = {
   id: "019e6484-5fe5-721d-860a-1fb9c62aa22f",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "pyrebrand",
   title: "Pyrebrand",

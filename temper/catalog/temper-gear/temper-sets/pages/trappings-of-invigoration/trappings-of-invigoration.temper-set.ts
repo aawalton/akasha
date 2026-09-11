@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const trappingsOfInvigoration = {
   id: "019e66e6-a0d9-7e49-aa22-036b7d30b757",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "trappings-of-invigoration",
   title: "Trappings of Invigoration",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const theDestructionSuite = {
   id: "019e6484-604f-78de-94a1-7967ea190d35",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "the-destruction-suite",
   title: "The Destruction Suite",

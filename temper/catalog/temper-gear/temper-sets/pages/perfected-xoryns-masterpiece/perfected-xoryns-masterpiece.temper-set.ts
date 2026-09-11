@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const perfectedXorynsMasterpiece = {
   id: "019e66ec-7dd2-71b7-9a26-5ae2bcff1b3e",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "perfected-xoryns-masterpiece",
   title: "Perfected Xoryn's Masterpiece",

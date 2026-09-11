@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const perfectedVrolsCommand = {
   id: "019e66ec-7db4-7f52-a783-d098ec6e7eda",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "perfected-vrols-command",
   title: "Perfected Vrol's Command",

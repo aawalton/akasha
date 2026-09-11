@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const spriggansVigor = {
   id: "019e66e6-a0c8-7b48-ae42-aaba60d95bd4",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "spriggans-vigor",
   title: "Spriggan's Vigor",

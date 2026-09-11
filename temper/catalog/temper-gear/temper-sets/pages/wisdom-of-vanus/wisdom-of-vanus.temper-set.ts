@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const wisdomOfVanus = {
   id: "019e66e7-6ab4-71b2-b679-27808e19c95e",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "wisdom-of-vanus",
   title: "Wisdom of Vanus",

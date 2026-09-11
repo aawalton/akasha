@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const sloadsSemblance = {
   id: "019e668e-9a65-70cd-bb46-a4c398cdbb25",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "sloads-semblance",
   title: "Sload's Semblance",

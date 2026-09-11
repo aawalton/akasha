@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const shadowDancersRaiment = {
   id: "019e66e7-6a87-712a-9e3e-1e5ba25021fb",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "shadow-dancers-raiment",
   title: "Shadow Dancer's Raiment",

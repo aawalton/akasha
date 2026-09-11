@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const plaguebreak = {
   id: "019e66ec-786a-7430-977a-ef3c4b107a05",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "plaguebreak",
   title: "Plaguebreak",

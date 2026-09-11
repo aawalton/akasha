@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const telvanniEnforcer = {
   id: "019e66e6-a0d2-780d-bc7f-8b995fab4265",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "telvanni-enforcer",
   title: "Telvanni Enforcer",

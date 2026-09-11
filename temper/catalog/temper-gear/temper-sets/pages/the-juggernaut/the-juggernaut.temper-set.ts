@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const theJuggernaut = {
   id: "019e66ec-796e-7dfb-b927-e234c3eae100",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "the-juggernaut",
   title: "The Juggernaut",

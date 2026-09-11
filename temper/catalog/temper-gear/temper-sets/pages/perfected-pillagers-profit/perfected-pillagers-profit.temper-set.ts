@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const perfectedPillagersProfit = {
   id: "019e66ec-7d0e-790f-9002-0e356cb6946b",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "perfected-pillagers-profit",
   title: "Perfected Pillager's Profit",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const relicsOfThePhysicianAnsur = {
   id: "019e6484-604d-737a-958e-837a9c216a01",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "relics-of-the-physician-ansur",
   title: "Relics of the Physician, Ansur",

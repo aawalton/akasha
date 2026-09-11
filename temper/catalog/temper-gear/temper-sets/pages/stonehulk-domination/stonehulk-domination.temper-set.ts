@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const stonehulkDomination = {
   id: "019e66e7-6a21-76b7-a3a2-e3aa4f296a2c",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "stonehulk-domination",
   title: "Stonehulk Domination",

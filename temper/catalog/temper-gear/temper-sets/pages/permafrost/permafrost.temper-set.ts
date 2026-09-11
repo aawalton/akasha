@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const permafrost = {
   id: "019e6484-5fcd-733d-8f3d-ff2edb6c4ce4",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "permafrost",
   title: "Permafrost",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const ringOfTheWildHunt = {
   id: "019e6484-6035-772c-977d-ed961a48b434",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "ring-of-the-wild-hunt",
   title: "Ring of the Wild Hunt",

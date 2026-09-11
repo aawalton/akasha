@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const theTrollKing = {
   id: "019e6484-601e-7f70-8d03-6938221af37d",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "the-troll-king",
   title: "The Troll King",

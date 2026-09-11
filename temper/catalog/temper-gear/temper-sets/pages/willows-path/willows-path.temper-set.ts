@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const willowsPath = {
   id: "019e668e-9a76-7b8a-9f2e-f5c1e6f0ae06",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "willows-path",
   title: "Willow's Path",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const sentry = {
   id: "019e66ec-78c9-7b84-8c2b-c792afccec8f",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "sentry",
   title: "Sentry",

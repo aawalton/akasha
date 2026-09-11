@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const queensElegance = {
   id: "019e66e7-6a7c-73db-8337-befb6e97d0b7",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "queens-elegance",
   title: "Queen's Elegance",

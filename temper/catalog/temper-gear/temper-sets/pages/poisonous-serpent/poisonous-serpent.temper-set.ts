@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const poisonousSerpent = {
   id: "019e66ec-7e0c-7c28-ae1f-756622dbd709",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "poisonous-serpent",
   title: "Poisonous Serpent",

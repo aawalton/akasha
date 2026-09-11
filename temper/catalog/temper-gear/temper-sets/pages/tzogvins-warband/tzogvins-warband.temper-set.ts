@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const tzogvinsWarband = {
   id: "019e66e6-a0de-744c-ad91-f1875f3412bf",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "tzogvins-warband",
   title: "Tzogvin's Warband",

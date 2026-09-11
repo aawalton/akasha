@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const stygian = {
   id: "019e66e7-6a95-7683-8a17-c166ab2edb58",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "stygian",
   title: "Stygian",

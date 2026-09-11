@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const ysgramorsBirthright = {
   id: "019e66e7-6ab9-710b-b35c-a3be572b3d3e",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "ysgramors-birthright",
   title: "Ysgramor's Birthright",

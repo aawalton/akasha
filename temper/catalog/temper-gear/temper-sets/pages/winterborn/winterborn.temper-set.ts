@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const winterborn = {
   id: "019e6484-5fda-7d66-a1e3-ce214607a3b2",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "winterborn",
   title: "Winterborn",

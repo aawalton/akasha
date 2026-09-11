@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const seventhLegionBrute = {
   id: "019e66e7-6a85-7dd7-98c0-e60a58ae6ad5",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "seventh-legion-brute",
   title: "Seventh Legion Brute",

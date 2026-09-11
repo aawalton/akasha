@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const runecarversBlaze = {
   id: "019e66e6-a0b8-77f8-a61d-80b6827d6adb",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "runecarvers-blaze",
   title: "Runecarver's Blaze",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const perfectedSpectralCloak = {
   id: "019e6484-5fc6-77a5-a884-a90aa67d7e92",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "perfected-spectral-cloak",
   title: "Perfected Spectral Cloak",

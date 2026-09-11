@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const theArchMage = {
   id: "019e66ec-7961-758e-8853-612f3cbedabe",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "the-arch-mage",
   title: "The Arch-Mage",

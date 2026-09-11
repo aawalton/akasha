@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const pointBlankSnipe = {
   id: "019e6484-5fcf-7246-9958-304dca92ca90",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "point-blank-snipe",
   title: "Point-Blank Snipe",

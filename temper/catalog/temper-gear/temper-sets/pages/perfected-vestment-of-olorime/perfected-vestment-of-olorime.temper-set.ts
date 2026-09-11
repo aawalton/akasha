@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const perfectedVestmentOfOlorime = {
   id: "019e66ec-7da6-77c2-aa20-0d4c6b64e309",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "perfected-vestment-of-olorime",
   title: "Perfected Vestment of Olorime",

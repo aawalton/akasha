@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const sluthrugsHunger = {
   id: "019e66e6-a0c4-771c-9dab-7d9eab671186",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "sluthrugs-hunger",
   title: "Sluthrug's Hunger",

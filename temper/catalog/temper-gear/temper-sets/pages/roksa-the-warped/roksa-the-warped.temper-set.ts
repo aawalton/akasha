@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const roksaTheWarped = {
   id: "019e6484-6011-7dba-bc5a-b8fd5b596ca9",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "roksa-the-warped",
   title: "Roksa the Warped",

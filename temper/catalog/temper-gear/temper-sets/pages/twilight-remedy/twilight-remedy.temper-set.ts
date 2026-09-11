@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const twilightRemedy = {
   id: "019e66ec-7ece-7ac4-a18c-1c6a13b1ec85",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "twilight-remedy",
   title: "Twilight Remedy",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const witchmanArmor = {
   id: "019e66e7-6ab6-79a6-a18e-105ab54f1315",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "witchman-armor",
   title: "Witchman Armor",

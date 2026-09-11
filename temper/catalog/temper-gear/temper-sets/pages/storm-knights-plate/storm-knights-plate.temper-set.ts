@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const stormKnightsPlate = {
   id: "019e66e7-6a94-735e-88c4-9213acf42888",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "storm-knights-plate",
   title: "Storm Knight's Plate",

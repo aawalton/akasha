@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const talfygsTreachery = {
   id: "019e66e6-a0d0-757f-b6cd-f6c5c33a91f9",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "talfygs-treachery",
   title: "Talfyg's Treachery",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const strengthOfTheAutomaton = {
   id: "019e66e6-a0cd-729a-8fda-cd82ea656329",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "strength-of-the-automaton",
   title: "Strength of the Automaton",

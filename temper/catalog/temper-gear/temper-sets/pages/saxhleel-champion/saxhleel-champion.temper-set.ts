@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const saxhleelChampion = {
   id: "019e66ec-7e47-7cfe-bfcd-3603797a1001",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "saxhleel-champion",
   title: "Saxhleel Champion",

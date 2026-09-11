@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const sentinelOfRkugamz = {
   id: "019e6484-6015-79bb-b853-1c957e149bda",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "sentinel-of-rkugamz",
   title: "Sentinel of Rkugamz",

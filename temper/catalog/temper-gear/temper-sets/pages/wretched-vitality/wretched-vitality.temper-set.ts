@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const wretchedVitality = {
   id: "019e668e-9a77-7cff-a097-e2803b49d27d",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "wretched-vitality",
   title: "Wretched Vitality",

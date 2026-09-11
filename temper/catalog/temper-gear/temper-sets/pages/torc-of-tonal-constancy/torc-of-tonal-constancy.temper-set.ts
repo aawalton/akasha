@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const torcOfTonalConstancy = {
   id: "019e6484-6043-7243-9e9b-5c40fa86ada0",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "torc-of-tonal-constancy",
   title: "Torc of Tonal Constancy",

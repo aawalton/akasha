@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const stormweaversCavort = {
   id: "019e6484-603b-72d9-9f93-df2e269c50eb",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "stormweavers-cavort",
   title: "Stormweaver's Cavort",

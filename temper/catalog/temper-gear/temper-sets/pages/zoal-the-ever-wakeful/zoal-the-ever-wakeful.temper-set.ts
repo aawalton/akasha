@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const zoalTheEverWakeful = {
   id: "019e6484-6025-7ab5-b405-f87c856dac02",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "zoal-the-ever-wakeful",
   title: "Zoal the Ever-Wakeful",

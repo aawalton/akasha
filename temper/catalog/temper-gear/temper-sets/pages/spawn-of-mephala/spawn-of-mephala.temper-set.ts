@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const spawnOfMephala = {
   id: "019e6484-6018-760d-a1f8-6c5bbe40f530",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "spawn-of-mephala",
   title: "Spawn of Mephala",
