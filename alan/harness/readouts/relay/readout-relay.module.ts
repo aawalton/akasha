@@ -117,6 +117,10 @@ export const readoutRelay = {
         "The helper a test carries a reading over HTTP with sits here rather than in each test.",
     },
     {
+      invariantKind: "departure",
+      statement: "A test proving a carry is refused reads the answer rather than being thrown at.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here takes a reading.",
     },

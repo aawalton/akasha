@@ -1,6 +1,7 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import { answerStoplightsAdmittedBy } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
 import {
+  carryTo,
   dropRelayed,
   RELAY_PATH,
   relayReading,
@@ -88,13 +89,6 @@ type Stoplight = {
 
 const tile = () => fetch(`${origin}/api/safety-level`)
 
-const carry = (secret: string, body: unknown) =>
-  fetch(`${origin}${RELAY_PATH}`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json", "X-Relay-Secret": secret },
-    body: JSON.stringify(body),
-  })
-
 const carryNow = (value: number, at: Date = new Date()) =>
   relayReading(origin, RELAY_SECRET, { readout: READOUT, value, at: at.toISOString() })
 
@@ -112,13 +106,15 @@ test("a carrier holding no relay secret is refused", async () => {
     body: "{}",
   })
   expect(bare.status).toBe(401)
-  expect((await carry(crypto.randomUUID(), {})).status).toBe(401)
+  expect((await carryTo(origin, crypto.randomUUID(), {})).status).toBe(401)
 })
 
 test("a body that is not a whole reading is refused rather than held", async () => {
-  expect((await carry(RELAY_SECRET, { nope: 1 })).status).toBe(400)
-  expect((await carry(RELAY_SECRET, { readout: READOUT, value: 3 })).status).toBe(400)
-  expect((await carry(RELAY_SECRET, { readout: READOUT, value: 3, at: "soon" })).status).toBe(400)
+  expect((await carryTo(origin, RELAY_SECRET, { nope: 1 })).status).toBe(400)
+  expect((await carryTo(origin, RELAY_SECRET, { readout: READOUT, value: 3 })).status).toBe(400)
+  expect(
+    (await carryTo(origin, RELAY_SECRET, { readout: READOUT, value: 3, at: "soon" })).status
+  ).toBe(400)
 })
 
 test("a level below zero and between whole numbers crosses the relay whole", async () => {
