@@ -10,7 +10,7 @@ export const athenaCommandsCleanup = {
     {
       statement: "The five audit findings on the commands domain are reviewed and gone.",
       workingMemory:
-        "Two are gone, the page-against-code audit and the caller-facing audit. Three are left: `the-module-audit-of-the-command-system-is-unreviewed`, `the-folder-shape-audit-of-commands-is-unreviewed` and `the-refusal-audit-of-the-command-system-is-unreviewed`. Reviewing an item means settling it with Alan, landing it as an intent on the child initiative it belongs to, and taking it out of the finding. A finding whose items are all gone is deleted.\n",
+        "Three are gone, the page-against-code audit, the caller-facing audit and the module audit. Two are left: `the-folder-shape-audit-of-commands-is-unreviewed` and `the-refusal-audit-of-the-command-system-is-unreviewed`. Reviewing an item means settling it with Alan, landing it as an intent on the child initiative it belongs to, and taking it out of the finding. A finding whose items are all gone is deleted.\n",
     },
   ],
   constraints: [
