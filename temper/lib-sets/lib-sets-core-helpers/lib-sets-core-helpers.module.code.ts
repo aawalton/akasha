@@ -6,6 +6,7 @@ import {
 } from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
   asLibSlots,
+  asSafeReturnApiTableFn,
   asStringOrNumber,
   asStrRecord,
 } from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
@@ -178,7 +179,7 @@ export function validateValueAgainstCheckTable(
   return result ?? false
 }
 
-function safeReturnAPItable(this: void, tabData: unknown): unknown {
+function shallowApiCopy(this: void, tabData: unknown): unknown {
   if (undefined === tabData) {
     return undefined
   }
@@ -187,4 +188,6 @@ function safeReturnAPItable(this: void, tabData: unknown): unknown {
   }
   return ZO_ShallowTableCopy(tabData)
 }
-asLibSlots(lib)["_safeReturnAPItable"] = safeReturnAPItable
+asLibSlots(lib)["_safeReturnAPItable"] = shallowApiCopy
+
+export const safeReturnAPItable = asSafeReturnApiTableFn(asLibSlots(lib)["_safeReturnAPItable"])

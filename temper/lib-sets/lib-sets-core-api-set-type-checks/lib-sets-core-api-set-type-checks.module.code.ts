@@ -1,22 +1,14 @@
 import { asPresent } from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
-  asLibSlots,
-  asSafeReturnApiTableFn,
-} from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
-import {
   asSetIdBoolOptMap,
   asTypeToSetIdsTable,
 } from "akasha/temper/lib-sets/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+import { safeReturnAPItable } from "akasha/temper/lib-sets/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
 
 const lib = LibSets
 
 function checkIfSetsAreLoadedProperly(this: void, setId?: number): boolean {
   return lib.checkIfSetsAreLoadedProperly(setId)
-}
-
-function safeReturnAPItable(this: void, tabData: unknown): unknown {
-  const fn = asSafeReturnApiTableFn(asLibSlots(lib)["_safeReturnAPItable"])
-  return fn(tabData)
 }
 
 function isArmorTypeSet(

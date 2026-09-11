@@ -7,18 +7,12 @@ import {
   asIndexNumberMap,
   asIndexStringMapOpt,
   asLangStringMapOpt,
-  asLibSlots,
-  asSafeReturnApiTableFn,
   asStrRecordEntryOpt,
 } from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 import { asWayshrine2ZoneOpt } from "akasha/temper/lib-sets/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+import { safeReturnAPItable } from "akasha/temper/lib-sets/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
 
 const lib = LibSets
-
-function safeReturnAPItable(this: void, tabData: unknown): unknown {
-  const fn = asSafeReturnApiTableFn(asLibSlots(lib)["_safeReturnAPItable"])
-  return fn(tabData)
-}
 
 type Wayshrine2Zone = { [wayshrineNodeId: number]: number | undefined }
 function getWayshrine2Zone(this: void): Wayshrine2Zone | undefined {
