@@ -71,6 +71,11 @@ export const athenaCommandsCleanup = {
       workingMemory:
         "`checks/code-checks/pages/command-is-in-the-right-folder/` is the only check over the tree, and every invariant on it is a folder rule. Nothing judges that a slug is its path hyphenated, that a name carries no ancestor's name, or that a namespace holds more than one part. `commands/namespaces/namespace.page-type.ts:18,23` state the slug-opens-with-the-parent rule and only the folder check reads it. Alan approved one check absorbing these and the tree checks there are.\n",
     },
+    {
+      statement: "Every argument a command takes is a page.",
+      workingMemory:
+        "One page is one argument concept, shared: `--dry-run` written once and named by every command taking it, as a page property is by every page type. The shape a page states is the union three parsers carry already — `Shape` at `inventory-rule-calling.module.code.ts:60-67`, `Taking` at `email-command-reading.module.code.ts:49-57`, and the reader at `index-refresh.command.code.ts:30-54`: value or none, placeholder, repeats, number, true or false, path, sibling, positional, exclusive.\n",
+    },
   ],
   constraints: [
     "Every landing in this repository runs through the command system, so a fault landed here stops every agent at once.",
