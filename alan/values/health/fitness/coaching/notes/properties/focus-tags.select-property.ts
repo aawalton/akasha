@@ -21,5 +21,3 @@ export const focusTags = {
   ],
   types: "ts",
 } as const satisfies SelectProperty
-
-export type FocusTag = (typeof focusTags.values)[number]

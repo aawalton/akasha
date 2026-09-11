@@ -16,5 +16,3 @@ export const baseRoles = {
   ],
   types: "ts",
 } as const satisfies SelectProperty
-
-export type BaseRole = (typeof baseRoles.values)[number]

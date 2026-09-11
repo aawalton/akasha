@@ -28,5 +28,3 @@ export const primaryMuscles = {
   ],
   types: "ts",
 } as const satisfies SelectProperty
-
-export type PrimaryMuscle = (typeof primaryMuscles.values)[number]

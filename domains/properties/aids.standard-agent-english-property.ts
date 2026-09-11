@@ -1,7 +1,5 @@
 import type { StandardAgentEnglishProperty } from "akasha/domains/standard-agent-english/properties/standard-agent-english-property.page-type.types.ts"
 
-export type Aid = string
-
 export const aids = {
   id: "01a049c9-3a2c-7044-a7e7-234356b9df18",
   pageTypeSlug: "standard-agent-english-property",
