@@ -7,6 +7,7 @@ export const checkStaging = {
   slug: "check-staging",
   definition: "the scratch checkout a check's test runs over",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -14,15 +15,19 @@ export const checkStaging = {
     },
     {
       invariantKind: "departure",
-      statement: "Every body the checkout is asked for reaches disk before the index is filed.",
+      statement: "Every body the checkout is asked for is written where that body's path says.",
     },
     {
       invariantKind: "departure",
-      statement: "What imports what is filed from the bodies written rather than read again.",
+      statement: "What a body the checkout is asked for imports is filed in the import index.",
     },
     {
       invariantKind: "departure",
       statement: "The pages the import index and its edge are sit in the checkout too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page named in the checkout is answered under its page type and slug.",
     },
     {
       invariantKind: "departure",
