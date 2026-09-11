@@ -1,6 +1,7 @@
 import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
 import type { Naming } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { edgesIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
 import {
   manifestsAmong,
@@ -11,7 +12,9 @@ import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
 
 const MANIFEST = "package.json"
 
-const STYLES_ENDING = ".stylesheet.styles.css"
+const STYLESHEET = "stylesheet"
+
+const STYLES = "styles"
 
 const TS_ENDING = ".ts"
 
@@ -56,6 +59,12 @@ export function folderOf(path: string): string {
 
 function typedName(path: string): boolean {
   return path.endsWith(TS_ENDING) || path.endsWith(TSX_ENDING)
+}
+
+function styledName(path: string): boolean {
+  const said = partedIn(path)
+  if (said === null || said.pageType !== STYLESHEET) return false
+  return said.sections.length === 1 && said.sections[0] === STYLES
 }
 
 export function appFor(at: string, roots: ReadonlySet<string>): string | null {
@@ -160,7 +169,7 @@ export function globbedOver(change: Change): Globbed {
   const naming = reachingOf(manifestsAmong(every, MANIFEST), bodyAt)
   const edits: Replacing[] = []
   const said: string[] = []
-  for (const at of every.filter((one) => one.endsWith(STYLES_ENDING))) {
+  for (const at of every.filter((one) => styledName(one))) {
     const css = textOf(change.after(at))
     if (css === null || !isEntry(css)) continue
     const app = appFor(at, roots)
@@ -179,7 +188,7 @@ export function globbedOver(change: Change): Globbed {
 function couldTurn(change: Change): boolean {
   for (const path of change.changed) {
     if (path === MANIFEST || path.endsWith(`/${MANIFEST}`)) return true
-    if (path.endsWith(STYLES_ENDING)) return true
+    if (styledName(path)) return true
     if (typedName(path)) return true
   }
   return false

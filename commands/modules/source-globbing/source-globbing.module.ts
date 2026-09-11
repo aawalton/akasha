@@ -85,5 +85,14 @@ export const sourceGlobbing = {
       invariantKind: "absence",
       statement: "Nothing here commits.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A stylesheet is known by its name saying it is a `stylesheet` page's `styles` file.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No file name ending is spelled here.",
+    },
   ],
 } as const satisfies Module
