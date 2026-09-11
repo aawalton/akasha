@@ -3,6 +3,7 @@ import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   idFiled,
+  listedAndValued,
   listedFiled,
   relationFiled,
   schemaFiled,
@@ -41,17 +42,6 @@ const OTHER = idOf("8")
 
 function pageAt(slug: string, kind: string): string {
   return `akasha/${slug}.${kind}.ts`
-}
-
-function listedAndValued(
-  root: string,
-  kind: string,
-  slug: string,
-  path: string,
-  id: string
-): undefined {
-  listedFiled(root, kind, slug, [{ path, id }])
-  valueAlsoFiled(root, kind, [{ path, value: { id, pageTypeSlug: kind, slug } }])
 }
 
 function filed(root: string, slug: string, kind: string, id: string): undefined {

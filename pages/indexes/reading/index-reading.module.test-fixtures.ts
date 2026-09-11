@@ -141,6 +141,17 @@ export function valueAlsoFiled(
   adding(root, join(indexValue.name, pageTypeSlug), lines)
 }
 
+export function listedAndValued(
+  root: string,
+  pageTypeSlug: string,
+  slug: string,
+  path: string,
+  id: string
+): undefined {
+  listedFiled(root, pageTypeSlug, slug, [{ path, id }])
+  valueAlsoFiled(root, pageTypeSlug, [{ path, value: { id, pageTypeSlug, slug } }])
+}
+
 export function listedFiledIn(root: string, pageTypeSlug: string, slug: string): boolean {
   return identityListed(root, PAGE_TYPE, pageTypeSlug, SLUG, slug)
 }

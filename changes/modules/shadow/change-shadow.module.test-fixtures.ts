@@ -5,6 +5,7 @@ import { scratch, textIn } from "akasha/pages/indexes/fixture-world/fixture-worl
 import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import {
   idFiled,
+  listedAndValued,
   listedFiled,
   nothingFiled,
   relationFiled,
@@ -78,11 +79,6 @@ const PAGE_TYPE_AT = "akasha/thing.page-type.ts"
 const PAGE_AT = "akasha/one.thing.ts"
 
 const FILE_PROPERTY = "file-property"
-
-function listedAndValued(root: string, kind: string, slug: string, path: string, id: string) {
-  listedFiled(root, kind, slug, [{ path, id }])
-  valueAlsoFiled(root, kind, [{ path, value: { id, pageTypeSlug: kind, slug } }])
-}
 
 function propertyFiled(root: string): undefined {
   schemaFiled(root, FILE_PROPERTY, "types", [
