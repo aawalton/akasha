@@ -15,6 +15,7 @@ import {
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
+import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
 import { useId, useState } from "react"
 
 interface RruleValue {
@@ -40,11 +41,6 @@ function findCompanion(
   const match = defs.find((d) => d.id === id)
   if (match === undefined || match.type !== type) return null
   return match
-}
-
-function readDateString(value: unknown): string | null {
-  if (typeof value !== "string" || value === "") return null
-  return value
 }
 
 export function RrulePropertyBadge({
@@ -151,7 +147,7 @@ function RrulePopoverBadge({
 
     const dueDateDef = findCompanion(propertyDefinitions, "dueDate", "calendar-date")
     if (dueDateDef !== null) {
-      const currentDueDate = readDateString(pageData?.dueDate)
+      const currentDueDate = textIn(pageData?.dueDate)
       if (currentDueDate !== null) {
         const next = getOccurrenceAtOrAfter(recurring.rrule, currentDueDate)
         if (next !== null && next !== currentDueDate) {
