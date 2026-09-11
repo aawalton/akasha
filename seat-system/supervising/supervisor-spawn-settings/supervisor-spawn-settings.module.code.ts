@@ -1,5 +1,8 @@
 import { createHash } from "node:crypto"
 import { existsSync, renameSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
+import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { harnessSettingsAt } from "akasha/seat-system/agent-settings/harness-settings-reading/harness-settings-reading.module.code.ts"
 import {
   agentSettings,
   isSettingsDocumentFault,
@@ -10,10 +13,16 @@ const LOG = "[spawn-settings]"
 
 export const AGENT_SETTINGS_MODULE = "supervisor-agent-settings"
 
-export const AGENT_SETTINGS_PATH = new URL(
-  "../../agent-settings/pages/agents/agents.agent-settings.harness-settings.json",
-  import.meta.url
-).pathname
+const AGENTS = "agents"
+
+const UNKNOWN = "the settings a seat spawns on are unknown"
+
+function agentSettingsPath(): string {
+  const root = ownRepoRoot()
+  return join(root, harnessSettingsAt(root, AGENTS, UNKNOWN))
+}
+
+export const AGENT_SETTINGS_PATH = agentSettingsPath()
 
 export const PER_SPAWN_KEYS = ["remoteControlAtStartup"] as const
 
