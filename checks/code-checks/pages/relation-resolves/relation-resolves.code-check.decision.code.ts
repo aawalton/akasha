@@ -1,10 +1,12 @@
-import { dirname, join } from "node:path"
-import { textIn, textWas } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import {
+  pageOfRow,
+  textIn,
+  textWas,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { type Rowing, rowsOver } from "akasha/pages/entries/page-entries.module.code.ts"
-import { heldIn, pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { ENTRY_PROPERTY } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   eachTarget,
   filedById,
@@ -38,25 +40,6 @@ export function carriedBy(change: Change, pageTypes: ReadonlySet<string>): reado
     if (value !== null) found.push({ path, value })
   }
   return found
-}
-
-function rowKeysIn(shadow: Shadow): ReadonlySet<string> {
-  const found = new Set<string>()
-  for (const held of shadow.index.schemaAt().values()) {
-    if (held.pageTypeSlug === ENTRY_PROPERTY) found.add(held.propertySlug)
-  }
-  return found
-}
-
-export function pageOfRow(path: string, shadow: Shadow): string | null {
-  const held = heldIn(path, shadow.index.pageTypesIn(), new Set(shadow.index.fileKeysAt().keys()))
-  if (held.kind !== "property" || held.page === null || held.propertySlug === null) return null
-  if (!rowKeysIn(shadow).has(held.propertySlug)) return null
-  return join(dirname(path), `${held.page}.ts`)
-}
-
-export function rowNamed(path: string, shadow: Shadow): boolean {
-  return pageOfRow(path, shadow) !== null
 }
 
 export function rowedBy(change: Change, shadow: Shadow): readonly Carried[] {

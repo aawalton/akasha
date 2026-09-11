@@ -46,3 +46,30 @@ test("the check takes a page as its input and no file that is no page", () => {
   expect(pageMatchesItsType.isInput(THING_AT, cast.shadow)).toBe(true)
   expect(pageMatchesItsType.isInput("akasha/one.ts", cast.shadow)).toBe(false)
 })
+
+const ROWS_AT = "akasha/one.thing.rows.jsonl"
+
+const ROWED = 'export const one = { pageTypeSlug: "thing", slug: "one", rows: "jsonl" }\n'
+
+const ROWING = { [THING_AT]: ROWED, [ROWS_AT]: "not json at all\n" }
+
+const UNREAD = `'${ROWS_AT}' holds no JSON on line 1, so what the page carries there is unknown rather than nothing`
+
+test("the check takes an entry file as its input, though the change carries no page", () => {
+  const cast = shadowFor(change(wrote(rooting(UNDER), ROWING), [ROWS_AT]))
+  if ("refused" in cast) throw new Error(cast.refused)
+
+  expect(pageMatchesItsType.isInput(ROWS_AT, cast.shadow)).toBe(true)
+})
+
+test("a change with an entry file alone is judged as the page that file sits beside", () => {
+  const root = wrote(rooting(UNDER), ROWING)
+
+  expect(judged(root, [ROWS_AT])).toEqual([{ path: THING_AT, reason: UNREAD }])
+})
+
+test("a page the change carries beside its own entry file is judged once rather than twice", () => {
+  const root = wrote(rooting(UNDER), ROWING)
+
+  expect(judged(root, [ROWS_AT, THING_AT])).toEqual([{ path: THING_AT, reason: UNREAD }])
+})

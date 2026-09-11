@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { join } from "node:path"
+import { dirname, join } from "node:path"
 import type {
   Judged,
   Running,
@@ -8,11 +8,13 @@ import type {
 import { typeScripted } from "akasha/code-system/file-kind/file-kind.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
+  heldIn,
   pageNamed,
   partedIn,
   uncommittedHeld,
 } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import { ENTRY_PROPERTY } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import { everyPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
@@ -58,6 +60,8 @@ export type BoundedAsync = RunningAsync & Stated
 const CSS = "css"
 
 const CSS_ENDING = `.${CSS}`
+
+const PAGE_ENDING = ".ts"
 
 const PAGE_TYPES = new WeakMap<Shadow, ReadonlySet<string>>()
 
@@ -131,6 +135,43 @@ export const PAGES: Selector<Paged> = {
     }
     return found
   },
+}
+
+type Keyed = {
+  readonly filed: ReadonlySet<string>
+  readonly rows: ReadonlySet<string>
+}
+
+const KEYED = new WeakMap<Shadow, Keyed>()
+
+function keyedIn(shadow: Shadow): Keyed {
+  const found = KEYED.get(shadow)
+  if (found !== undefined) return found
+  const rows = new Set<string>()
+  for (const held of shadow.index.schemaAt().values()) {
+    if (held.pageTypeSlug === ENTRY_PROPERTY) rows.add(held.propertySlug)
+  }
+  const made: Keyed = { filed: new Set(shadow.index.fileKeysAt().keys()), rows }
+  KEYED.set(shadow, made)
+  return made
+}
+
+export function pageOfRow(path: string, shadow: Shadow): string | null {
+  const keyed = keyedIn(shadow)
+  const held = heldIn(path, pageTypesFor(shadow), keyed.filed)
+  if (held.kind !== "property" || held.page === null || held.propertySlug === null) return null
+  if (!keyed.rows.has(held.propertySlug)) return null
+  return join(dirname(path), `${held.page}${PAGE_ENDING}`)
+}
+
+export function rowNamed(path: string, shadow: Shadow): boolean {
+  return pageOfRow(path, shadow) !== null
+}
+
+export const PAGES_WITH_ROWS: Selector<Paged> = {
+  ...PAGES,
+  named: "pages and the entry files beside them",
+  isInput: (path, shadow) => pagedInside(path, shadow) || rowNamed(path, shadow),
 }
 
 export function pagesTailed(slug: string): Selector<Paged> {

@@ -40,6 +40,23 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
+      statement: "The page an entry file sits beside is answered here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which section names an entry file is read from the index rather than listed here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry file's page is that file's own name with the page type and no section.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A selector over pages and their entry files takes both as input.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A check judging a path the change takes away walks the change itself.",
     },
     {

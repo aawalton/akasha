@@ -1,6 +1,10 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { founded, typed } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import {
+  declaring,
+  founded,
+  typed,
+} from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
@@ -438,10 +442,13 @@ export function besideCarried(uncommitted: boolean, secret = false): readonly Ca
 
 export const scratch = scratchWorld()
 
+export const ROWS = "rows"
+
 export function rooting(prefix: string = "akasha-matches-audit-"): string {
   const root = scratch.rootFor(prefix)
   founded(root)
-  typed(root, "thing", "page")
+  declaring(root, ROWS, { pageTypeSlug: "page-property-entry" })
+  typed(root, "thing", "page", [ROWS])
   return root
 }
 

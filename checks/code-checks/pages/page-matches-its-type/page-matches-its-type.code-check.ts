@@ -87,8 +87,16 @@ export const pageMatchesItsType = {
       statement: "A page type the index does not name is passed over rather than throwing.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A change with an entry file alone is an input to this check.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry file is judged as the page that entry file sits beside.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page a change reaches by its own file and by an entry file is judged once.",
     },
     {
       invariantKind: "departure",
