@@ -1,5 +1,8 @@
+import {
+  filterTree,
+  textMatches,
+} from "akasha/code-system/editor/extension/tree-filter/tree-filter.module.code.ts"
 import * as vscode from "vscode"
-import { filterTree, textMatches } from "../tree-filter/tree-filter.module.code.ts"
 
 const OPEN_COMMAND = "vscode.open"
 
