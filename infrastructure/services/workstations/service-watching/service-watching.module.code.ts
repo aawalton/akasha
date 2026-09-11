@@ -137,7 +137,7 @@ export function homeAt(): string {
   return optionalEnv("HOME") ?? process.cwd()
 }
 
-if (import.meta.main) {
+export async function runServiceWatching(): Promise<void> {
   const ticked = await ticking({
     root: checkoutAt(),
     home: homeAt(),
@@ -145,5 +145,11 @@ if (import.meta.main) {
   })
   for (const one of ticked.told) process.stdout.write(`${SAID} told ${one}\n`)
   for (const one of ticked.refused) process.stderr.write(`${SAID} nothing told for ${one}\n`)
-  if (ticked.refused.length > 0) process.exit(1)
+  if (ticked.refused.length > 0) {
+    throw new Error(`${SAID} ${ticked.refused.length} broken services were told to nobody`)
+  }
+}
+
+if (import.meta.main) {
+  await runServiceWatching()
 }
