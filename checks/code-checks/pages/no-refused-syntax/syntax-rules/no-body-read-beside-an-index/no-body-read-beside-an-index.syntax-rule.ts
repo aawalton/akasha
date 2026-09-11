@@ -128,6 +128,14 @@ export const noBodyReadBesideAnIndex = {
       statement: "A root reaching a function under a name with no root word is not seen.",
     },
     {
+      invariantKind: "absence",
+      statement: "A root carried inside the index rather than beside it is not seen.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A type holding the index rather than being the index names no index here.",
+    },
+    {
       invariantKind: "departure",
       statement: "A function reading twice is refused at its first read alone.",
     },
