@@ -213,11 +213,20 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page no move carries is weighed for a link by nothing.",
+      statement: "A page no move carries has the folder it sits in linked by nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "A link is placed for a page that moved rather than for every page there is.",
+      statement: "A folder is linked for a page that moved rather than for every page there is.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page saying where the file it holds is reached has that file linked there, moved or not.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a link is made again only where it names something other than that file.",
     },
     {
       invariantKind: "departure",
@@ -230,10 +239,6 @@ export const landing = {
     {
       invariantKind: "departure",
       statement: "A link outside the repository is placed outside the writing this refuses.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A machine whose link is absent gets one only once the folder moves.",
     },
     {
       invariantKind: "departure",

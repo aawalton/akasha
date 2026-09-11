@@ -22,6 +22,7 @@ const LANDED: Landed = {
   noted: [],
   cleared: [],
   linked: { said: [], wrong: [] },
+  placed: { said: [], wrong: [] },
 }
 
 const DRAFTED: Drafted = {

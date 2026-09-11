@@ -120,6 +120,7 @@ export const command = {
     "module/folder-linking",
     "module/body-loading",
     "module/change-ceiling",
+    "module/install-linking",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",

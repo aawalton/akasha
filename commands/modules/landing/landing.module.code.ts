@@ -33,6 +33,7 @@ import {
   type Keeping,
 } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
 import { holding } from "akasha/commands/modules/holding/holding.module.code.ts"
+import { linkedInPlace } from "akasha/commands/modules/install-linking/install-linking.module.code.ts"
 import {
   type Bodied,
   baseOf,
@@ -73,6 +74,7 @@ export type Landed = {
   readonly noted: readonly string[]
   readonly cleared: readonly string[]
   readonly linked: Linking
+  readonly placed: Linking
   readonly untracked?: readonly string[]
 }
 
@@ -306,6 +308,7 @@ export async function landing(
       noted: [],
       cleared: [],
       linked: NOTHING_LINKED,
+      placed: NOTHING_LINKED,
       untracked: [],
     }
   }
@@ -392,7 +395,8 @@ export async function landing(
           const gone = [...put.took, ...then.took, ...moves.map((one) => one.from), ...untracked]
           const cleared = clearedOff(root, gone)
           const linked = linkedOver(root, moves, homedir())
-          return { base, commit, wrote, took, noted, cleared, linked, untracked }
+          const placed = linkedInPlace(root, homedir())
+          return { base, commit, wrote, took, noted, cleared, linked, placed, untracked }
         } catch (failed) {
           aside.back()
           throw failed

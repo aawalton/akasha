@@ -330,8 +330,8 @@ export async function applied(
     base: done.base,
     landed: [...done.wrote, ...done.took].sort(),
     formatted: [...formatting.formatted].sort(),
-    said: [...prepared.said, ...put.said, ...done.linked.said],
-    wrong: [...put.wrong, ...done.linked.wrong],
+    said: [...prepared.said, ...put.said, ...done.linked.said, ...done.placed.said],
+    wrong: [...put.wrong, ...done.linked.wrong, ...done.placed.wrong],
     commit: done.commit,
     untracked: done.untracked,
   }
