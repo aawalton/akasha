@@ -9,6 +9,7 @@ import {
 import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { personasStanding } from "akasha/personas/reading/persona-reading.module.code.ts"
 import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
+import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
 
 const PROJECTS = "projects"
 
@@ -52,10 +53,6 @@ export type Kept = {
 function parseRow(held: unknown): Readonly<Record<string, unknown>> | null {
   if (typeof held !== "object" || held === null) return null
   return held as Readonly<Record<string, unknown>>
-}
-
-function parseConfigDir(said: unknown): string | null {
-  return typeof said === "string" && said !== "" ? said : null
 }
 
 export function namedIn(line: string): string | null {
@@ -160,7 +157,7 @@ export function transcriptsIn(store: string): readonly string[] {
 }
 
 export function transcriptsHere(): readonly string[] {
-  const base = parseConfigDir(process.env.CLAUDE_CONFIG_DIR) ?? join(homedir(), ".claude")
+  const base = textIn(process.env.CLAUDE_CONFIG_DIR) ?? join(homedir(), ".claude")
   return transcriptsIn(join(base, PROJECTS))
 }
 
