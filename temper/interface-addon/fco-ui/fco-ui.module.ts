@@ -6,4 +6,10 @@ export const fcoUi = {
   slug: "fco-ui",
   definition: "the promotional event tracker the interface tweaks move",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "absence",
+      statement: "No shared guard is kept for the type each guard here narrows to.",
+    },
+  ],
 } as const satisfies Module
