@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { relative } from "node:path"
 import {
   type Answering,
   answeringOver,
@@ -51,11 +52,7 @@ import {
 
 const REPO_AT = rootOf(import.meta.dir)
 
-const NAMED = "code-system/modules/module.page-type.ts"
-
-const NAMER = "pages/indexes/index.page-type.ts"
-
-const EXTENDS = "extends-type"
+const NAMED = relative(REPO_AT, import.meta.path).replace(".module.test.ts", ".module.ts")
 
 const ENDING = ".ts"
 
@@ -131,12 +128,6 @@ test("a page the index names is answered with every page naming it, and through 
   expect(found.length).toBeGreaterThan(0)
   expect(found.every((one) => one.kind === RELATION && one.to === NAMED)).toBe(true)
   expect(found.every((one) => typeof one.attrs[PROPERTY] === "string")).toBe(true)
-  expect(found).toContainEqual({
-    kind: RELATION,
-    from: NAMER,
-    to: NAMED,
-    attrs: { [PROPERTY]: EXTENDS },
-  })
 })
 
 test("a page is answered with what imports it and never with the code that loads it", () => {

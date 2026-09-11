@@ -9,7 +9,7 @@ const PAGE_TYPES = new Set<string>(["domain", "page-type", "module", "seat", "wo
 
 const TYPES = new Set<string>(["page-type"])
 
-const DECLARED = new Set<string>(["page-type/model-family", "module/model-asking"])
+const DECLARED = new Set<string>(["page-type/model-humming", "module/model-asking"])
 
 const DECLARING: Declaring = {
   slug: "model",
@@ -18,7 +18,7 @@ const DECLARING: Declaring = {
 }
 
 function holdsAt(at: string): readonly string[] {
-  if (at.endsWith("/families")) return ["page-type/model-family"]
+  if (at.endsWith("/families")) return ["page-type/model-humming"]
   if (at.endsWith("/stray")) return ["domain/other"]
   return []
 }
@@ -51,7 +51,7 @@ test("a page type with its modules alone takes the shape", () => {
 })
 
 test("a subfolder holding a page the page type declares a part takes the shape", () => {
-  expect(judged(["families/model-family.page-type.ts"], ["model.page-type.ts"])).toEqual([])
+  expect(judged(["families/model-humming.page-type.ts"], ["model.page-type.ts"])).toEqual([])
 })
 
 test("a subfolder holding a page the page type declares nowhere is refused", () => {
@@ -83,7 +83,7 @@ test("a folder holding two pages is refused", () => {
 })
 
 test("a subfolder named pages is a part", () => {
-  expect(judged(["pages/one.model-family.ts"], ["model.page-type.ts"])).toEqual([])
+  expect(judged(["pages/one.model-humming.ts"], ["model.page-type.ts"])).toEqual([])
 })
 
 test("a subfolder named properties is a part", () => {
@@ -117,9 +117,9 @@ test("a domain slugged anything else is a second page and is refused", () => {
 })
 
 test("a subfolder named scripts is a part", () => {
-  expect(judged(["scripts/build-sim/build-sim.shell-script.ts"], ["model.page-type.ts"])).toEqual(
-    []
-  )
+  expect(
+    judged(["scripts/build-humming/build-humming.shell-script.ts"], ["model.page-type.ts"])
+  ).toEqual([])
 })
 
 test("a workspace package slugged the page type's plural slug is a second page and is refused", () => {
@@ -146,14 +146,14 @@ test("a subfolder a file the page's own property names sits under is a part", ()
 })
 
 test("a subfolder declared by the workspace package beside its page type takes the shape", () => {
-  const paired = ["page-type/index", "domain/index"]
+  const paired = ["page-type/humming", "domain/humming"]
   const made = folderFrom({
     folder: FOLDER,
     pageTypes: PAGE_TYPES,
     extending: (pageTypeSlug, wanted) => wanted === "page-type" && TYPES.has(pageTypeSlug),
-    declared: () => new Set<string>(["domain/index"]),
-    holds: (at) => (at.endsWith("/indexes") ? paired : []),
-    deep: ["indexes/index.page-type.ts", "indexes/index.workspace-package.ts"],
+    declared: () => new Set<string>(["domain/humming"]),
+    holds: (at) => (at.endsWith("/hummings") ? paired : []),
+    deep: ["hummings/humming.page-type.ts", "hummings/humming.workspace-package.ts"],
   })
   expect(aPageTypeWithItsParts(made(["model.page-type.ts"]))).toEqual([])
 })

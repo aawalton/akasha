@@ -15,7 +15,7 @@ test("each readout's figure is filed under the attribute that readout counts", (
 })
 
 test("a figure whose readout counts no attribute is left out", () => {
-  expect([...slugsIn({ "readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts": 7 })]).toEqual([])
+  expect([...slugsIn({ "thrumming/readouts/thrum-upkeep/thrum-upkeep.readout.ts": 7 })]).toEqual([])
 })
 
 test("a figure of zero is a figure rather than an absent one", () => {
