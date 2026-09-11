@@ -203,6 +203,14 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "A take-down leaves the readings of the page it took where they are.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sweep drops the readings of the pages the sweep took.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page comes up through the change adding a page rather than through a raw edit.",
     },
     {

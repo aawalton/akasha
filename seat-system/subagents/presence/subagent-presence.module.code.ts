@@ -232,10 +232,7 @@ export async function took(
   const moved = movingOff(root, seatName, at)
   if ("why" in moved) return moved
   const why = `${slug} is done, so its page goes; what it was is in this repository's history`
-  const went = wentBy(await landing(root, [{ at: TAKE_PAGE, given: { at } }], why))
-  if ("why" in went) return went
-  dropReadings(root, [at])
-  return WENT
+  return wentBy(await landing(root, [{ at: TAKE_PAGE, given: { at } }], why))
 }
 
 export function pathsUnder(root: string, seatName: string): readonly string[] {

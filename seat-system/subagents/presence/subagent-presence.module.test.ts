@@ -185,15 +185,23 @@ test("a page composed is landed by a program, and goes when the subagent is done
     expect(messageIn(root)).toContain("a subagent states the agent id it acts under")
     expect(messageIn(root)).not.toContain(MECHANICAL)
     const at = pathOf(slugOf("akasha", OWN))
-    readingKept(root, at)
-    expect(readingIn(root, AGENT, at)).not.toBe(null)
     const named: string[] = []
     expect(await took(root, "akasha", OWN, landingNaming(named))).toEqual(WENT)
     expect(named).toEqual(["change-mechanical-file/remove-file-page"])
     expect(existsSync(join(root, at))).toBe(false)
     expect(messageIn(root)).not.toContain(MECHANICAL)
-    expect(readingIn(root, AGENT, at)).toBe(null)
     expect(keptBySeat(root)).toEqual(NOTHING_KEPT)
+  })
+})
+
+test("a take-down leaves the readings of the page it took where they are", async () => {
+  await underSeat(async (root) => {
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", LANDS)).toEqual(WENT)
+    const at = pathOf(slugOf("akasha", OWN))
+    readingKept(root, at)
+    expect(await took(root, "akasha", OWN, LANDS)).toEqual(WENT)
+    expect(existsSync(join(root, at))).toBe(false)
+    expect(readingIn(root, AGENT, at)).not.toBe(null)
   })
 })
 
