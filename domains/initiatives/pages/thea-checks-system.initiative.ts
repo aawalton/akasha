@@ -16,7 +16,7 @@ export const theaChecksSystem = {
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
       workingMemory:
-        "The value already derives: secretChecksum md5s what kubectl answers at synth, so no number goes stale. headscale's checksum/tls agrees across the live Secret, the generated yaml, the deployed template and the running pod, and never mismatched. What is hardcoded is the secret's name and its keys, and the gap is a page naming them: headscale's two are named now, the other 14 sites unsurveyed. A cert-manager Secret rightly has no page, so the naming sits on the workload.",
+        "All 16 sites surveyed. 11 derive from a secret across 10 workloads; every value agrees with the live Secret, the generated yaml and the running pod, and all 10 pages now name the secret and its keys. 5 hash config rather than a secret, so this statement may be wider than the work. The committed yaml is a picture of a thing that moves: authority is secretChecksum at synth, and a diff against a fresh synth is the design working. 3 workloads mount a second Secret unhashed; 17 annotate none.",
     },
     {
       statement: "A check looks for unused code and passes.",
