@@ -1,17 +1,17 @@
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
-import { FLEET } from "../compose-seat-name/compose-seat-name.module.code.ts"
+import { FLEET } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   akashaHolderProcessOf,
   akashaRunningModeOf,
   akashaSeatIdForName,
-} from "../seat-akasha-beside/seat-akasha-beside.module.code.ts"
+} from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   akashaSeatsStated,
   akashaSeatValuesOf,
-} from "../seat-akasha-read/seat-akasha-read.module.code.ts"
-import { pageFromHistory } from "../seat-page-history/seat-page-history.module.code.ts"
-import { statedProcessPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
+} from "akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
+import { pageFromHistory } from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
+import { statedProcessPresence } from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 const MAX_ANCESTOR_GENERATIONS = 10
 

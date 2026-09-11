@@ -1,5 +1,5 @@
-import { akashaSeatValuesOf } from "../seat-akasha-read/seat-akasha-read.module.code.ts"
-import { seatAbove } from "../subagent-naming/subagent-naming.module.code.ts"
+import { akashaSeatValuesOf } from "akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
+import { seatAbove } from "akasha/seat-system/subagent-naming/subagent-naming.module.code.ts"
 
 function statedOnAPage(agent: string): Record<string, unknown> | null {
   return akashaSeatValuesOf(agent)

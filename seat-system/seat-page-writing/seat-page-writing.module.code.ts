@@ -1,11 +1,11 @@
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { Outcome } from "akasha/seat-system/gated-write/gated-write.module.code.ts"
-import { akashaSeatSlugOf } from "../seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaSeatSlugOf } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   removeAkashaSeatPage,
   writeAkashaSeatPage,
-} from "../seat-page-akasha/seat-page-akasha.module.code.ts"
-import type { Stated } from "../seat-stated/seat-stated.module.code.ts"
+} from "akasha/seat-system/seat-page-akasha/seat-page-akasha.module.code.ts"
+import type { Stated } from "akasha/seat-system/seat-stated/seat-stated.module.code.ts"
 
 export async function writeSeatPage(
   stated: Stated,

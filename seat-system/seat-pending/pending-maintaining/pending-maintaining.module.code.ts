@@ -1,15 +1,15 @@
 import { watch } from "node:fs"
 import { dirname, join } from "node:path"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { messagesDirRelPath } from "../../messaging/message-file/message-file.module.code.ts"
-import { akashaSeatsThatExist } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import { akashaObservedOf } from "../../seat-akasha-read/seat-akasha-read.module.code.ts"
-import { akashaSeatsDirIn } from "../../seat-page-akasha/seat-page-akasha.module.code.ts"
-import { setPending } from "../../seat-turn-pending/seat-turn-pending.module.code.ts"
+import { messagesDirRelPath } from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
+import { akashaSeatsThatExist } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaObservedOf } from "akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
+import { akashaSeatsDirIn } from "akasha/seat-system/seat-page-akasha/seat-page-akasha.module.code.ts"
 import {
   pendingFromFiles,
   type SeatPending,
-} from "../pending-from-files/pending-from-files.module.code.ts"
+} from "akasha/seat-system/seat-pending/pending-from-files/pending-from-files.module.code.ts"
+import { setPending } from "akasha/seat-system/seat-turn-pending/seat-turn-pending.module.code.ts"
 
 const STORE_SETTLE_MS = 250
 

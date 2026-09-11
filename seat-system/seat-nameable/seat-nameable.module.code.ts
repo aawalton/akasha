@@ -1,11 +1,14 @@
-import type { NameableSeat, Principal } from "../compose-seat-name/compose-seat-name.module.code.ts"
+import type {
+  NameableSeat,
+  Principal,
+} from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   ATTRIBUTES,
   type Attributes,
   type Declaration,
-} from "../seat-attributes/seat-attributes.module.code.ts"
-import { flexOf } from "../seat-flex/seat-flex.module.code.ts"
-import { principalOf } from "../seat-principal/seat-principal.module.code.ts"
+} from "akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
+import { flexOf } from "akasha/seat-system/seat-flex/seat-flex.module.code.ts"
+import { principalOf } from "akasha/seat-system/seat-principal/seat-principal.module.code.ts"
 
 export function nameableStated(
   set: Partial<Record<Declaration, string>>,

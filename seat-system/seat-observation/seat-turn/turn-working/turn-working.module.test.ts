@@ -13,7 +13,7 @@ import {
   turnEnded,
   withNothingOpen,
   workingOf,
-} from "./turn-working.module.code.ts"
+} from "akasha/seat-system/seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
 
 const ENDED = '{"type":"assistant","message":{"stop_reason":"end_turn"}}'
 

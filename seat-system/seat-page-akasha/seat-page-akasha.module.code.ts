@@ -1,10 +1,13 @@
 import { AKASHA, rootFor } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import type { Outcome } from "akasha/seat-system/gated-write/gated-write.module.code.ts"
-import { principalSeatNameOf } from "../seat-principal/seat-principal.module.code.ts"
-import type { Stated } from "../seat-stated/seat-stated.module.code.ts"
-import type { SeatStated, Stating } from "../seat-stating/seat-stating.module.code.ts"
-import { statedSeat, tookSeat } from "../seat-stating/seat-stating.module.code.ts"
+import { principalSeatNameOf } from "akasha/seat-system/seat-principal/seat-principal.module.code.ts"
+import type { Stated } from "akasha/seat-system/seat-stated/seat-stated.module.code.ts"
+import type {
+  SeatStated,
+  Stating,
+} from "akasha/seat-system/seat-stating/seat-stating.module.code.ts"
+import { statedSeat, tookSeat } from "akasha/seat-system/seat-stating/seat-stating.module.code.ts"
 
 const DIR = "seat-system/seats/pages"
 

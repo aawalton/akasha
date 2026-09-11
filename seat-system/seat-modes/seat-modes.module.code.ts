@@ -1,7 +1,7 @@
 import {
   AGENT_LAUNCH_OPENED,
   AGENT_LAUNCH_SPAWNED,
-} from "../supervising/supervisor-env/supervisor-env.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-env/supervisor-env.module.code.ts"
 
 export const SEAT_MODE_INTERACTIVE = "interactive"
 

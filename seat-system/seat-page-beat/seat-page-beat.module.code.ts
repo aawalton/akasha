@@ -1,28 +1,31 @@
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { fail } from "akasha/seat-system/command-failing/command-failing.module.code.ts"
 import type { Outcome } from "akasha/seat-system/gated-write/gated-write.module.code.ts"
-import { fail } from "../command-failing/command-failing.module.code.ts"
 import {
   nameFromHistory,
   parentFromHistory,
-} from "../seat-page-history/seat-page-history.module.code.ts"
+} from "akasha/seat-system/seat-page-history/seat-page-history.module.code.ts"
 import {
   removeSeatPage,
   writeSeatPage,
-} from "../seat-page-writing/seat-page-writing.module.code.ts"
-import { composedNameOf } from "../seat-rename/seat-rename.module.code.ts"
-import { rotatedOf } from "../seat-rotated-session/seat-rotated-session.module.code.ts"
-import { keepSession, sessionRecordOf } from "../seat-session/seat-session.module.code.ts"
+} from "akasha/seat-system/seat-page-writing/seat-page-writing.module.code.ts"
+import { composedNameOf } from "akasha/seat-system/seat-rename/seat-rename.module.code.ts"
+import { rotatedOf } from "akasha/seat-system/seat-rotated-session/seat-rotated-session.module.code.ts"
+import {
+  keepSession,
+  sessionRecordOf,
+} from "akasha/seat-system/seat-session/seat-session.module.code.ts"
 import {
   backfillObserved,
   fallBackToHistory,
   type Stated,
   statedOf,
-} from "../seat-stated/seat-stated.module.code.ts"
+} from "akasha/seat-system/seat-stated/seat-stated.module.code.ts"
 import {
   keepTranscript,
   transcriptRecordOf,
-} from "../seat-transcript-path/seat-transcript-path.module.code.ts"
-import { rotatedTranscriptFor } from "../seat-transcript-rotation/seat-transcript-rotation.module.code.ts"
+} from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
+import { rotatedTranscriptFor } from "akasha/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.code.ts"
 
 export interface BeatReport {
   readonly outcome: Outcome

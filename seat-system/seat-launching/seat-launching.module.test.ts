@@ -25,7 +25,7 @@ import {
   supervisorEntryArgv,
   supervisorEntryShell,
   underScope,
-} from "./seat-launching.module.code.ts"
+} from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
 
 const ROOT = "/repos/akasha"
 

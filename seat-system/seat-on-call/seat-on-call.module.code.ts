@@ -1,4 +1,4 @@
-import { pageFlagOf } from "../seat-page-values/seat-page-values.module.code.ts"
+import { pageFlagOf } from "akasha/seat-system/seat-page-values/seat-page-values.module.code.ts"
 
 const ON_CALL_PAGE_KEY = "on-call"
 

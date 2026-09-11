@@ -3,8 +3,8 @@ import {
   composeSeatName,
   movesWithTheAttributes,
   type NameableSeat,
-} from "../compose-seat-name/compose-seat-name.module.code.ts"
-import { composedNameOf } from "../seat-rename/seat-rename.module.code.ts"
+} from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
+import { composedNameOf } from "akasha/seat-system/seat-rename/seat-rename.module.code.ts"
 
 export function nameStanding(agent: string, root: string, next: NameableSeat): string | null {
   if (!lowerUuid(agent.toLowerCase())) return null

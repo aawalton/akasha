@@ -1,17 +1,17 @@
 import { readFileSync } from "node:fs"
 import {
-  parseSeatProcKey,
-  type SeatPresence,
-  statedProcessPresence,
-} from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
-import { parse } from "yaml"
-import {
   akashaHolderProcessOf,
   akashaSeatIdForName,
   akashaSeatPathForAgent,
   akashaSeatSlugOf,
   akashaSeatsThatExist,
-} from "../seat-akasha-beside/seat-akasha-beside.module.code.ts"
+} from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import {
+  parseSeatProcKey,
+  type SeatPresence,
+  statedProcessPresence,
+} from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
+import { parse } from "yaml"
 
 const FRONTMATTER_FENCE = "---"
 
