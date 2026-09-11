@@ -8,6 +8,7 @@ export const changeTabooTerms = {
   definition: "what a seat must read for the taboo terms its change writes",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   runsOnRead: false,
   runsOnWrite: true,
   transitive: false,

@@ -14,14 +14,18 @@ import {
   reachOf,
   seamsApart,
 } from "akasha/domains/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.code.ts"
+import {
+  A_PAGE_AT,
+  A_PICTURE_AT,
+  A_PORTRAIT_AT,
+} from "akasha/domains/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test-fixtures.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const STAND = "(?<![a-z])(stands?|standing|stood)(?![a-z])"
 
 const ROOT = rootOf(import.meta.path)
 
-const A_PICTURE_AT = "personas/amy/amy.persona.mobile-wallpaper.png"
-
-const A_PORTRAIT_AT = "personas/amy/amy.persona.portrait.md"
+const A_PAGE_TYPE_AT = `akasha/${listedAt(ROOT, "page-type", "world")[0]?.path ?? ""}`
 
 const A_TERM = "the estate stands here"
 
@@ -193,7 +197,7 @@ test("a file beside such a page is not judged either", () => {
 })
 
 test("a page type's own file is judged though its pages are not", () => {
-  expect(judgedIn("akasha/story/worlds/world.page-type.ts", new Set(["world"]))).toBe(true)
+  expect(judgedIn(A_PAGE_TYPE_AT, new Set(["world"]))).toBe(true)
 })
 
 test("a page of any other type is judged", () => {
@@ -213,7 +217,7 @@ test("a file whose property holds bytes is told from one whose property holds te
 })
 
 test("a page's own file holds no property, so nothing there holds bytes", () => {
-  expect(holdingBytes(ROOT, "personas/amy/amy.persona.ts")).toBe(false)
+  expect(holdingBytes(ROOT, A_PAGE_AT)).toBe(false)
 })
 
 test("a term written into a file whose property holds bytes warrants nothing", () => {
