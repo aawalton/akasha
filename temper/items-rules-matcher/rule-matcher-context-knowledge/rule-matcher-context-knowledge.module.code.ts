@@ -10,14 +10,11 @@ import type {
   CharacterBuildInput,
   CompletionCharacterInput,
 } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import { isNamedShape } from "akasha/temper/player-completion/completion-named-shape/completion-named-shape.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import { recordField } from "akasha/utils/narrow/record-field/record-field.module.code.ts"
 
-function isExhaustiveRecipeList(
-  value: unknown
-): value is { name: string; recipes: Record<string, { known: boolean }> } {
-  return typeof value === "object" && value !== null && "name" in value
-}
+type ExhaustiveRecipeList = { name: string; recipes: Record<string, { known: boolean }> }
 
 export function compileKnownRecipes(
   characters: readonly CompletionCharacterInput[]
@@ -28,7 +25,7 @@ export function compileKnownRecipes(
     if (!isObjectRecord(recipes)) continue
     const known = new Set<number>()
     for (const listValue of Object.values(recipes)) {
-      if (isExhaustiveRecipeList(listValue)) {
+      if (isNamedShape<ExhaustiveRecipeList>(listValue)) {
         for (const [itemIdStr, recipe] of Object.entries(listValue.recipes)) {
           if (recipe.known) known.add(Number(itemIdStr))
         }

@@ -2,6 +2,7 @@ import type {
   AccountCompletion,
   AntiquityLoreProgress,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import { isNamedShape } from "../completion-named-shape/completion-named-shape.module.code.ts"
 import type {
   AccountAntiquityLoreProgress,
   AntiquityLoreCategoryProgress,
@@ -20,10 +21,6 @@ export interface AntiquityCatalogCategory {
   antiquities: readonly AntiquityCatalogAntiquity[]
 }
 
-function isExhaustiveEntry(value: unknown): value is AntiquityLoreProgress {
-  return typeof value === "object" && value !== null && "name" in value
-}
-
 function acquiredLoreEntries(
   completion: AccountCompletion | null | undefined
 ): Map<number, number> {
@@ -32,7 +29,7 @@ function acquiredLoreEntries(
   if (!raw) return acquired
 
   for (const [idStr, value] of Object.entries(raw)) {
-    if (isExhaustiveEntry(value)) {
+    if (isNamedShape<AntiquityLoreProgress>(value)) {
       if (value.loreEntriesAcquired > 0) {
         acquired.set(Number(idStr), value.loreEntriesAcquired)
       }
