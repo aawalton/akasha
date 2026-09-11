@@ -1,4 +1,4 @@
-import type { Message } from "../message.page-type.types.ts"
+import type { Message } from "akasha/seat-system/messages/message.page-type.types.ts"
 
 export const messageEa642c4f07af = {
   id: "01a08afe-fe27-7000-8c35-ea642c4f07af",
