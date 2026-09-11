@@ -1,17 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { MaxTargets } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/max-targets.number-property.types.ts"
-import type { TargetKind } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/target-kind.text-property.types.ts"
-import type { TargetRadius } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/target-radius.number-property.types.ts"
-import type { TargetRange } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/target-range.number-property.types.ts"
-import type { TargetScope } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/target-scope.text-property.types.ts"
-
-export type EffectTarget = {
-  type?: TargetKind
-  scope?: TargetScope
-  range?: TargetRange
-  radius?: TargetRadius
-  maxTargets?: MaxTargets
-}
 
 export const effectTarget = {
   id: "01a06196-0378-75a0-80bb-3aec137ffc83",
@@ -27,4 +14,5 @@ export const effectTarget = {
     { pageProperty: "number-property/target-radius", required: false, many: false },
     { pageProperty: "number-property/max-targets", required: false, many: false },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

@@ -1,5 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { BuffId } from "akasha/temper/catalog/things/properties/buff-id.text-property.types.ts"
 import type { EffectType } from "akasha/temper/catalog/things/properties/effect-type.text-property.types.ts"
 import type { EffectValue } from "akasha/temper/catalog/things/properties/effect-value.number-property.types.ts"
@@ -11,8 +10,6 @@ export type BonusEffect = {
   value?: EffectValue
   buffId?: BuffId
 }
-
-export type BonusEffects = List<BonusEffect>
 
 export const bonusEffects = {
   id: "01a05fd1-d436-73c6-b34e-3d504facf23f",
@@ -37,4 +34,5 @@ export const bonusEffects = {
       statement: "An entry naming a metric also has an effect type and an effect value.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

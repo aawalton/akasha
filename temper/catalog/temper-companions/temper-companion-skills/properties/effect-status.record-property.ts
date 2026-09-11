@@ -1,15 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { Duration } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/duration.number-property.types.ts"
-import type { StatusDistance } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/status-distance.number-property.types.ts"
-import type { StatusMagnitude } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/status-magnitude.number-property.types.ts"
-import type { StatusName } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/status-name.text-property.types.ts"
-
-export type EffectStatus = {
-  status?: StatusName
-  duration?: Duration
-  magnitude?: StatusMagnitude
-  distance?: StatusDistance
-}
 
 export const effectStatus = {
   id: "01a06196-037b-7292-b3da-52c4a6dc68a0",
@@ -24,4 +13,5 @@ export const effectStatus = {
     { pageProperty: "number-property/status-magnitude", required: false, many: false },
     { pageProperty: "number-property/status-distance", required: false, many: false },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

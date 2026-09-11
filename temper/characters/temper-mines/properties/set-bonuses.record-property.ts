@@ -1,6 +1,5 @@
 import type { Description } from "akasha/pages/properties/description.text-property.types.ts"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { IsPerfected } from "akasha/temper/characters/temper-mines/properties/is-perfected.boolean-property.types.ts"
 import type { NumRequired } from "akasha/temper/characters/temper-mines/properties/num-required.number-property.types.ts"
 
@@ -9,8 +8,6 @@ export type SetBonus = {
   isPerfected: IsPerfected
   numRequired: NumRequired
 }
-
-export type SetBonuses = List<SetBonus>
 
 export const setBonuses = {
   id: "01a05fcd-f554-73bf-83df-72e8cb8357e3",
@@ -24,4 +21,5 @@ export const setBonuses = {
     { pageProperty: "boolean-property/is-perfected", required: true, many: false },
     { pageProperty: "number-property/num-required", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies RecordProperty
