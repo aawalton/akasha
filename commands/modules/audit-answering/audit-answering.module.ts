@@ -54,6 +54,22 @@ export const auditAnswering = {
       statement: "An answer says how many checks could not run.",
     },
     {
+      invariantKind: "departure",
+      statement: "A run asked of the service answers for the commit the verdicts were read at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check left unanswered at that commit is named rather than counted clean.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run left with a check unanswered is operational though nothing refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A round that would not start is refused rather than answered clean.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads which checks there are.",
     },

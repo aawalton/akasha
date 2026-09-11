@@ -1,7 +1,11 @@
 import { expect, test } from "bun:test"
+import type { Told } from "akasha/checks/modules/audit-asking/audit-asking.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
   ANSWER_CEILING,
+  type Asked,
+  askedAnswer,
+  codeOf,
   heldTo,
   judgedOver,
   REASON_CEILING,
@@ -157,4 +161,63 @@ test("more refusals than one answer holds keep their start and say how many ther
 
 test("every refusal remains when they all fit", () => {
   expect(heldTo(["one", "two"], ANSWER_CEILING)).toEqual(["one", "two"])
+})
+
+const ANSWERED: Told = { refusals: [], unrun: [], unanswered: [], broken: null }
+
+function told(some: Partial<Told>): Asked {
+  return { told: { ...ANSWERED, ...some }, checks: 55, commit: "abc", also: [] }
+}
+
+test("a run the verdicts answer clean says how many checks answered and for what", () => {
+  const said = askedAnswer(told({}), null)
+  expect(said.code).toBe(0)
+  expect(said.refusals).toEqual([])
+  expect(said.report[0]).toBe("55 checks answered for abc, and none refused")
+})
+
+test("a refusal a verdict carries is answered as the data's fault", () => {
+  const said = askedAnswer(told({ refusals: ["one — a.ts — no"] }), null)
+  expect(said.code).toBe(2)
+  expect(said.refusals).toEqual(["one — a.ts — no"])
+  expect(said.report[0]).toContain("1 refusal in all")
+})
+
+test("a check the round could not run is answered as operational", () => {
+  const said = askedAnswer(told({ unrun: ["one"] }), null)
+  expect(said.code).toBe(3)
+  expect(said.report[1]).toContain("1 check could not run")
+})
+
+test("a check unanswered at that commit is named rather than counted clean", () => {
+  const said = askedAnswer(told({ unanswered: ["one"] }), null)
+  expect(said.code).toBe(3)
+  expect(said.report[1]).toContain("1 check is unanswered there: one")
+})
+
+test("a round that would not start is refused rather than answered clean", () => {
+  const said = askedAnswer(told({ broken: "the unit would not start" }), null)
+  expect(said.code).toBe(3)
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("no round of the audit service ran")
+})
+
+test("a refusal a verdict carries is kept whole, and the answer names where", () => {
+  const kept: string[] = []
+  const said = askedAnswer(told({ refusals: ["one — a.ts — no"] }), (whole) => {
+    kept.push(...whole)
+    return "at.txt"
+  })
+  expect(kept).toEqual(["one — a.ts — no"])
+  expect(said.refusals[1]).toContain("akasha read --file-path at.txt")
+})
+
+test("a run whose verdicts refused nothing keeps nothing and names no file", () => {
+  expect(askedAnswer(told({}), () => "at.txt").refusals).toEqual([])
+})
+
+test("a check left unanswered makes the run operational though nothing refused", () => {
+  expect(codeOf({ ...ANSWERED, unanswered: ["one"] })).toBe(3)
+  expect(codeOf({ ...ANSWERED, refusals: ["one — a.ts — no"] })).toBe(2)
+  expect(codeOf(ANSWERED)).toBe(0)
 })

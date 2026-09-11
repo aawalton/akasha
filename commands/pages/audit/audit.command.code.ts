@@ -1,4 +1,6 @@
 import { resolve } from "node:path"
+import { asked } from "akasha/checks/modules/audit-asking/audit-asking.module.code.ts"
+import { commitOf } from "akasha/checks/modules/audit-serving/audit-serving.module.code.ts"
 import { everythingIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Gathered } from "akasha/checks/modules/checking/checking.module.code.ts"
 import {
@@ -7,6 +9,7 @@ import {
   judgingBy,
 } from "akasha/checks/modules/checking/checking.module.code.ts"
 import {
+  askedAnswer,
   brokenBy,
   judgedOver,
   type Keeping,
@@ -15,6 +18,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { refusalsPut } from "akasha/commands/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { requireEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 
 const CHECK = "--check"
@@ -144,14 +148,39 @@ export function notYetJudgingIn(
   return [`this answer leaves out ${counted(held, "check")} not yet judging`]
 }
 
+export async function askedOver(
+  root: string,
+  every: readonly Gathered[],
+  keeping: Keeping | null
+): Promise<Answer> {
+  const checks = checksAt(every, AUDIT).map((one) => one.slug)
+  try {
+    const commit = await commitOf(root)
+    const told = await asked({ root, home: requireEnv("HOME"), checks, commit })
+    const also = notYetJudgingIn(every, [])
+    return askedAnswer({ told, checks: checks.length, commit, also }, keeping)
+  } catch (thrown) {
+    return brokenBy(thrown)
+  }
+}
+
 export async function audit(argv: readonly string[], given: Given): Promise<Answer> {
   const meant = meaning(argv)
   if (meant.refusal !== null) return { report: [], refusals: [meant.refusal], code: 1 }
   const root = resolve(given.root)
+  const page = given.agentId === null ? null : agentPathOf(root, given.agentId)
+  const keeping: Keeping | null = page === null ? null : (whole) => refusalsPut(root, page, whole)
   let every: readonly Gathered[]
-  let change: Change
   try {
     every = checksIn(root)
+  } catch (thrown) {
+    return brokenBy(thrown)
+  }
+  if (meant.only.length === 0 && meant.paths.length === 0) {
+    return await askedOver(root, every, keeping)
+  }
+  let change: Change
+  try {
     change = everythingIn(root)
   } catch (thrown) {
     return brokenBy(thrown)
@@ -170,7 +199,5 @@ export async function audit(argv: readonly string[], given: Given): Promise<Answ
     ...notYetJudgingIn(every, meant.only),
   ]
   const wholly = whollyFor(meant.paths, root)
-  const page = given.agentId === null ? null : agentPathOf(root, given.agentId)
-  const keeping: Keeping | null = page === null ? null : (whole) => refusalsPut(root, page, whole)
-  return await judgedOver(judgingBy(narrowed.checks, "audit", wholly), over.change, also, keeping)
+  return await judgedOver(judgingBy(narrowed.checks, AUDIT, wholly), over.change, also, keeping)
 }

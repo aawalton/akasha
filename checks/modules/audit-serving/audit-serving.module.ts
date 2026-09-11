@@ -92,10 +92,7 @@ export const auditServing = {
       invariantKind: "absence",
       statement: "Nothing here asks for an audit on another agent's behalf.",
     },
-    {
-      invariantKind: "gap",
-      statement: "An agent asks for an audit at a commit rather than running one.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A check whose input never moved since its verdict is carried rather than run.",

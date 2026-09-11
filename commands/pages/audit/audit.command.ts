@@ -17,7 +17,10 @@ export const audit = {
   ],
   helpNotes: [
     "--check and --file-path each repeat, so several checks and several paths narrow one call.",
-    "named nothing, every check that runs at audit judges every file this repository holds.",
+    "named nothing, it asks the audit service for a round at the commit the repository is at, and answers from the verdicts that round leaves.",
+    "a check whose verdict already answers for that commit costs no round, so asking again right after is cheap.",
+    "a round is asked for twice at most, and a check still unanswered after that is named rather than counted clean.",
+    "--check and --file-path judge in this process rather than asking the service.",
     "--check narrows which checks run and --file-path narrows which files those checks see, and a narrowed run says in its answer that the run is not an audit.",
     "a folder named by --file-path means every file under that folder.",
     "a run where no named file is a check's input is refused rather than answered clean.",
@@ -28,7 +31,7 @@ export const audit = {
     "--check narrows which checks run rather than which files they see, so the cost sits in which checks run.",
     "it runs under no ceiling on the clock, so a bare run takes as long as its checks take, and a check overrunning the processor seconds its own page states is refused.",
     "a check forced by name over every file measured under a second at the cheapest and 141 processor seconds at the slowest, lint-clean, on 2026-09-10.",
-    "a seat runs it in the background and a subagent does not run it at all, several at once costing the swarm its model service.",
+    "a seat runs it in the background, and several seats asking at once are answered by one round.",
   ],
   timeout: null,
   invariants: [
@@ -70,7 +73,27 @@ export const audit = {
     },
     {
       invariantKind: "departure",
-      statement: "A run naming no file runs each check's audit over the root.",
+      statement: "A run naming no check and no file asks the audit service for a round.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run naming a check or a file judges in this process.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that asks answers for the commit the repository is at when that run opens.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check whose verdict answers for that commit is owed no round.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check unanswered once the asking is over is named rather than answered clean.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that asks and whose environment names no home is refused.",
     },
     {
       invariantKind: "departure",
