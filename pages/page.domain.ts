@@ -100,6 +100,7 @@ export const page = {
     "module/type-keys",
     "domain/identity",
     "domain/id",
+    "page-type/true-property",
   ],
   invariants: [
     {
