@@ -12,6 +12,7 @@ import {
   landBodies,
   landRemovals,
 } from "akasha/seat-system/gated-landing/gated-landing.module.code.ts"
+import { whyRefused } from "akasha/seat-system/gated-write/gated-write.module.code.ts"
 import { akashaSeatIdForName } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 const PAGE_TYPE = "message"
@@ -69,13 +70,6 @@ export function slugForId(id: string): string {
 export function messageRelPath(_to: string, id: string): string {
   const stem = id.startsWith(`${PAGE_TYPE}-`) ? id : slugForId(id)
   return `${PAGES_AT}/${stem}${PAGE_EXT}`
-}
-
-const FAILED = /^\s*\[[a-z-]+\]\s+fail\b/
-
-export function whyRefused(report: string): string {
-  const failed = report.split("\n").filter((line) => FAILED.test(line))
-  return (failed.length === 0 ? report.trim() : failed.join("; ")).trim()
 }
 
 function unknownRecipient(to: string): string | null {
