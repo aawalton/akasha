@@ -8,6 +8,8 @@ export const temperCraftingAddon = {
   definition: "the add-on that answers what a character can craft, learn and study",
 
   addonManifest: "json",
+  addonArtFolder: true,
+  addonDdsFolder: true,
   bindings: "xml",
   bundleEntry: "crafting-entry",
   parts: [

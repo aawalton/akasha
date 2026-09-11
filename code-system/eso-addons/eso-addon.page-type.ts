@@ -15,6 +15,11 @@ export const esoAddon = {
     "relation-property/bundle-entry",
     "relation-property/eso-interfaces",
     "relation-property/lua-modules",
+    "named-folder-property/addon-icons-folder",
+    "named-folder-property/addon-dds-folder",
+    "named-folder-property/addon-art-folder",
+    "named-folder-property/addon-image-folder",
+    "named-folder-property/addon-bin-folder",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -35,6 +40,19 @@ export const esoAddon = {
     },
     { pageProperty: "file-property/addon-git-ignore", required: false, many: false },
     { pageProperty: "file-property/sibling-manifest", required: false, many: false },
+    {
+      pageProperty: "named-folder-property/addon-icons-folder",
+      required: false,
+      many: false,
+    },
+    { pageProperty: "named-folder-property/addon-dds-folder", required: false, many: false },
+    { pageProperty: "named-folder-property/addon-art-folder", required: false, many: false },
+    {
+      pageProperty: "named-folder-property/addon-image-folder",
+      required: false,
+      many: false,
+    },
+    { pageProperty: "named-folder-property/addon-bin-folder", required: false, many: false },
   ],
   invariants: [
     {
@@ -74,6 +92,14 @@ export const esoAddon = {
       invariantKind: "departure",
       statement:
         "A second addon shipped inside an addon is versioned with the addon shipping that second addon.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An addon keeps the textures the game draws in a folder the page names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A texture folder is named after the folder the upstream addon already used.",
     },
     {
       invariantKind: "constraint",

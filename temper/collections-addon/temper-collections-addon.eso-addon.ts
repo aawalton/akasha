@@ -9,6 +9,7 @@ export const temperCollectionsAddon = {
     "the add-on shipping the skyshard, lorebook, treasure, champion and item-set trackers as one",
 
   addonManifest: "json",
+  addonIconsFolder: true,
   bindings: "xml",
   bundleEntry: "collections-addon-entry",
   parts: [
