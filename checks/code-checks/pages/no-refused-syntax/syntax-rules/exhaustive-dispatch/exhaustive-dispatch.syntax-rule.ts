@@ -39,11 +39,11 @@ export const exhaustiveDispatch = {
       statement: "Nothing here says the cases cover the type.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A default ending in a call to something that never returns is refused.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "Only `assertNever` is known by name here.",
     },
   ],
