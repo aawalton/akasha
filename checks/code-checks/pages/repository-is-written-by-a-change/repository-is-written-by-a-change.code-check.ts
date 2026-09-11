@@ -145,7 +145,7 @@ export const repositoryIsWrittenByAChange = {
       statement: "An ignored ending is named where a part of the path ends there.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
         "A name that is away is away everywhere in its file whatever that name holds there.",
     },
