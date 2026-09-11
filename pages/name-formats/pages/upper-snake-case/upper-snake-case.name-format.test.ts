@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { upperSnakeCase } from "./upper-snake-case.name-format.code.ts"
+import { upperSnakeCase } from "akasha/pages/name-formats/pages/upper-snake-case/upper-snake-case.name-format.code.ts"
 
 test("words joined with underscores and all letters capital are written in it", () => {
   expect(upperSnakeCase("PAGE")).toBe(true)
