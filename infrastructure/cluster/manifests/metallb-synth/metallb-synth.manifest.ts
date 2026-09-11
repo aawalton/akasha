@@ -1,4 +1,4 @@
-import type { Manifest } from "../../k8s-types/manifests/manifest.page-type.types.ts"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.types.ts"
 
 export const metallbSynth = {
   id: "01a06810-1262-7696-970a-91682eb0719b",

@@ -1,4 +1,4 @@
-import type { Manifest } from "../../k8s-types/manifests/manifest.page-type.types.ts"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.types.ts"
 
 export const certManagerSynth = {
   id: "01a06810-1262-7065-b0b4-0de2efa13873",

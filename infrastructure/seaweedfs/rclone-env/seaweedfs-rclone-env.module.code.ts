@@ -2,7 +2,7 @@ import {
   type SecretEnv,
   secretEnv,
 } from "akasha/infrastructure/cluster/k8s-types/k8s-secret-env/k8s-secret-env.module.code.ts"
-import { S3_GATEWAY_ENDPOINT } from "../constants/seaweedfs-constants.module.code.ts"
+import { S3_GATEWAY_ENDPOINT } from "akasha/infrastructure/seaweedfs/constants/seaweedfs-constants.module.code.ts"
 
 const SRC_SECRET = "seaweedfs-creds"
 

@@ -1,4 +1,4 @@
-import type { Manifest } from "../../k8s-types/manifests/manifest.page-type.types.ts"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.types.ts"
 
 export const appNamespacesSynth = {
   id: "01a06810-1262-75ee-aa84-9009c06798cf",

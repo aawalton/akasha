@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { buildOf, everyNamed, namedOf } from "./image-build.module.code.ts"
+import {
+  buildOf,
+  everyNamed,
+  namedOf,
+} from "akasha/infrastructure/container-image/image-build/image-build.module.code.ts"
 
 const PROXY = "auth-proxy"
 const RIG = "eso-rig-image"

@@ -1,9 +1,12 @@
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import {
+  IMAGES,
+  ROOT,
+} from "akasha/infrastructure/container-image/dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
+import { dockerfileFor } from "akasha/infrastructure/container-image/dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt } from "akasha/pages/value/page-value.module.code.ts"
-import { IMAGES, ROOT } from "../dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
-import { dockerfileFor } from "../dockerfiles/dockerfile-writing/dockerfile-writing.module.code.ts"
 
 const RECIPE = "container-recipe"
 const WRITTEN = "Containerfile"
