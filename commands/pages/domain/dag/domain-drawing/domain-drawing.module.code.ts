@@ -2,6 +2,7 @@ import { readingIn, valuesOfType } from "akasha/pages/indexes/reading/index-read
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const DOMAINS = "domains"
 
@@ -150,7 +151,7 @@ export function dagLines(wanted: Drawn, root: string): readonly string[] {
   const holders = heldBy(domains)
   const unknown = [...wanted.rooted, ...wanted.above].filter((slug) => !domains.has(slug))
   if (unknown.length > 0) {
-    throw new Error(`no domain page carries ${unknown.map((one) => `\`${one}\``).join(", ")}`)
+    throw new Error(`no domain page carries ${namesDrawn(unknown)}`)
   }
   if (wanted.above.length > 0) {
     return wanted.above.flatMap((slug, at) => [
