@@ -5,5 +5,5 @@ export const claudeCode = {
   type: "domain",
   slug: "claude-code",
   definition: "the program an agent in this system runs inside",
-  parts: ["domain/claude-code-session", "domain/claude-code-tools"],
+  parts: ["domain/claude-code-session", "domain/claude-code-tools", "module/claude-launch-args"],
 } as const satisfies Domain

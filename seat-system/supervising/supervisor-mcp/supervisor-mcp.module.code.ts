@@ -7,15 +7,15 @@ import {
   writeFileSync,
 } from "node:fs"
 import {
+  computeMcpConfigContent,
+  type McpServerConfig,
+} from "akasha/agents/claude-code/launch-args/claude-launch-args.module.code.ts"
+import {
   type AuthSession,
   applyRefreshedSessionToStorageState,
   classifyPlaywrightStorageState,
   RefreshedTokensSchema,
 } from "akasha/code/browser/test-harness/storage-state-reading/storage-state-reading.module.code.ts"
-import {
-  computeMcpConfigContent,
-  type McpServerConfig,
-} from "akasha/seat-system/claude-launch-args/claude-launch-args.module.code.ts"
 import { planDisableReconcile } from "akasha/seat-system/supervising/mcp-disable-reconcile/mcp-disable-reconcile.module.code.ts"
 import {
   getMcpServerRegistry,
