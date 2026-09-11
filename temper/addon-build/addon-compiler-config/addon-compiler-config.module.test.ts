@@ -11,6 +11,10 @@ import {
   esoAddonPagePathIn,
   reachedAddonDirs,
 } from "akasha/temper/addon-build/addon-compiler-config/addon-compiler-config.module.code.ts"
+import {
+  ASYNC_MAIN_AT,
+  INTERFACE_ENTRY_AT,
+} from "akasha/temper/addon-build/addon-compiler-config/addon-compiler-config.module.test-fixtures.ts"
 
 const SCRATCH = scratchWorld()
 
@@ -44,9 +48,7 @@ test("an addon page beside the manifest is found by its own file name", () => {
 })
 
 test("a bundle entry slug becomes the path of that module's code", () => {
-  expect(bundleEntryPathIn("/a/temper-lib-async", "async-main")).toBe(
-    "/a/temper-lib-async/async-main/async-main.module.code.ts"
-  )
+  expect(bundleEntryPathIn("/a/temper-lib-async", "async-main")).toBe(ASYNC_MAIN_AT)
 })
 
 test("the written settings name the entry, the bundle and the repository root", () => {
@@ -104,7 +106,7 @@ test("an addon page naming no bundle entry answers that nothing can be built", a
 
 test("a slug naming a page drops the page type spelled ahead of the slug", () => {
   expect(bundleEntryPathIn("/a/temper-interface-addon", "module/interface-entry")).toBe(
-    "/a/temper-interface-addon/interface-entry/interface-entry.module.code.ts"
+    INTERFACE_ENTRY_AT
   )
 })
 

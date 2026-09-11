@@ -8,6 +8,7 @@ export const addonCompilerConfig = {
   definition: "the transpiler settings a build reads for an addon whose folder has no tsconfig",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
