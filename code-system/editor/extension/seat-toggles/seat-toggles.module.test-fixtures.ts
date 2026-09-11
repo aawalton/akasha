@@ -1,9 +1,9 @@
 import { readFileSync } from "node:fs"
 import * as path from "node:path"
+import { VIEW_ID } from "akasha/code-system/editor/extension/agent-tree-ids/agent-tree-ids.module.code.ts"
+import type { SeatMode } from "akasha/code-system/editor/extension/seat-mode/seat-mode.module.code.ts"
+import { seatContextValue } from "akasha/code-system/editor/extension/seat-toggles/seat-toggles.module.code.ts"
 import { z } from "zod"
-import { VIEW_ID } from "../agent-tree-ids/agent-tree-ids.module.code.ts"
-import type { SeatMode } from "../seat-mode/seat-mode.module.code.ts"
-import { seatContextValue } from "./seat-toggles.module.code.ts"
 
 const MENU_ITEM_SCHEMA = z.object({
   command: z.string(),

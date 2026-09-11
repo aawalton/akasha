@@ -1,6 +1,6 @@
+import type { SeatMode } from "akasha/code-system/editor/extension/seat-mode/seat-mode.module.code.ts"
+import { SEAT_ATTACH_FN } from "akasha/seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
 import { z } from "zod"
-import { SEAT_ATTACH_FN } from "../../../../seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
-import type { SeatMode } from "../seat-mode/seat-mode.module.code.ts"
 
 export interface SeatToggleState {
   readonly running: boolean

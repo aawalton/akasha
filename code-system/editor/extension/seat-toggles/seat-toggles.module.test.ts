@@ -1,14 +1,17 @@
 import { describe, expect, test } from "bun:test"
-import { SEAT_ATTACH_FN } from "../../../../seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
-import { SEAT_TAB_KEY_NAMES } from "../seat-tab-context/seat-tab-context.module.code.ts"
+import { SEAT_TAB_KEY_NAMES } from "akasha/code-system/editor/extension/seat-tab-context/seat-tab-context.module.code.ts"
 import {
   attachCommandLine,
   planReset,
   planRunToggle,
   seatContextValue,
   seatNameAccepted,
-} from "./seat-toggles.module.code.ts"
-import { shownFor, tabItems } from "./seat-toggles.module.test-fixtures.ts"
+} from "akasha/code-system/editor/extension/seat-toggles/seat-toggles.module.code.ts"
+import {
+  shownFor,
+  tabItems,
+} from "akasha/code-system/editor/extension/seat-toggles/seat-toggles.module.test-fixtures.ts"
+import { SEAT_ATTACH_FN } from "akasha/seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
 
 describe("the steps a toggle plans", () => {
   test("a running seat is stopped whatever its place", () => {
