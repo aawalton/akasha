@@ -64,6 +64,14 @@ export const saidPathing = {
     },
     {
       invariantKind: "departure",
+      statement: "That refusal is worded here and is answered on its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names the sweep taking away what akasha left under that folder.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A folder at the top of the repository is refused.",
     },
     {

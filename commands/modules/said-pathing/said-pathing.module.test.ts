@@ -5,6 +5,7 @@ import {
   offRepo,
   outsideRoot,
   pathAt,
+  underGitIn,
   writesOutside,
 } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
@@ -80,6 +81,20 @@ test("the git folder holds the repository itself and is refused", () => {
 test("a path inside the git folder is refused", () => {
   const root = world("akasha/one.ts")
   expect(barredIn(root, `${GIT_DIR}/config`)).toContain("holds the repository itself")
+})
+
+test("the git folder is refused on its own, without a root to look at", () => {
+  expect(underGitIn(GIT_DIR)).toContain("holds the repository itself")
+  expect(underGitIn(`${GIT_DIR}/data/reads`)).toContain("holds the repository itself")
+})
+
+test("a path outside the git folder is passed over by that refusal", () => {
+  expect(underGitIn("akasha")).toBe(null)
+  expect(underGitIn(".gitignore")).toBe(null)
+})
+
+test("the refusal over a path under the git folder names the sweep", () => {
+  expect(underGitIn(`${GIT_DIR}/data`)).toContain("akasha git sweep")
 })
 
 test("a folder at the top of the repository is refused", () => {

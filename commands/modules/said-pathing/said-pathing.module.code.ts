@@ -30,13 +30,18 @@ export function offRepo(said: string): string {
   )
 }
 
+export function underGitIn(path: string): string | null {
+  if (path !== GIT_DIR && !path.startsWith(`${GIT_DIR}${PARTED_BY}`)) return null
+  return (
+    `${path} is inside \`${GIT_DIR}/\`, which holds the repository itself rather than ` +
+    "anything the repository says — what akasha left under that folder goes by " +
+    "`akasha git sweep` rather than by a change"
+  )
+}
+
 export function barredIn(root: string, path: string): string | null {
-  if (path === GIT_DIR || path.startsWith(`${GIT_DIR}${PARTED_BY}`)) {
-    return (
-      `${path} is inside \`${GIT_DIR}/\`, which holds the repository itself rather than ` +
-      "anything the repository says"
-    )
-  }
+  const under = underGitIn(path)
+  if (under !== null) return under
   if (path.includes(PARTED_BY)) return null
   const at = join(root, path)
   if (!existsSync(at) || !statSync(at).isDirectory()) return null
