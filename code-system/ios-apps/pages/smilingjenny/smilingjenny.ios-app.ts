@@ -24,6 +24,7 @@ export const smilingjenny = {
     "ios-program/smilingjenny-decode-harness",
     "ios-program/smilingjenny-widget",
   ],
+  syncScript: "shell-script/smilingjenny-ios-add",
   toolReached: [
     "@capacitor/cli",
     "@capacitor/core",

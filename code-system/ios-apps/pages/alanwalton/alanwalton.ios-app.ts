@@ -27,6 +27,7 @@ export const alanwalton = {
     "ios-program/alanwalton-decode-harness",
     "ios-program/alanwalton-widget",
   ],
+  syncScript: "shell-script/alanwalton-ios-add",
   toolReached: [
     "@capacitor/app",
     "@capacitor/cli",
