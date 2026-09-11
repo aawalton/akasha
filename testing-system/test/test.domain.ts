@@ -41,6 +41,10 @@ export const test = {
       statement: "A test that would pass over an empty world does not land.",
     },
     {
+      invariantKind: "upkeep",
+      statement: "A test proves a mend only where the mend removed makes that test fail.",
+    },
+    {
       invariantKind: "constraint",
       statement: "The DOM shim a test runs in drops `set-cookie` from a `Response`.",
     },
