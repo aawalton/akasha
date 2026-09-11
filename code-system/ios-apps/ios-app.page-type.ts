@@ -46,7 +46,7 @@ export const iosApp = {
     "build-folder-property/web-directory",
     "relation-property/sync-script",
   ],
-  extends: ["page-type/workspace-package"],
+  extends: ["page-type/workspace-package", "page-type/service"],
   properties: [
     { pageProperty: "text-property/app-profile-name", required: true, many: false },
     {

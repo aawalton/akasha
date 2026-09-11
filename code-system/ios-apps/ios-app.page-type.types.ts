@@ -24,31 +24,33 @@ import type { WebEnvPath } from "akasha/code-system/ios-apps/properties/web-env-
 import type { WidgetBundleId } from "akasha/code-system/ios-apps/properties/widget-bundle-id.text-property.types.ts"
 import type { WidgetProfileName } from "akasha/code-system/ios-apps/properties/widget-profile-name.text-property.types.ts"
 import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Service } from "akasha/infrastructure/services/service.page-type.types.ts"
 
-export type IosApp = WorkspacePackage & {
-  appProfileName: AppProfileName
-  ascCapabilities?: AscCapabilities
-  buildScript?: BuildScript
-  bundleId: BundleId
-  capacitorConfig: CapacitorConfig
-  defaultDeviceUdid?: DefaultDeviceUdid
-  developmentTeam: DevelopmentTeam
-  displayName: DisplayName
-  gitIgnore: GitIgnore
-  icon?: AppIcon
-  iconDrawing?: IconDrawing
-  macBuildLockDir?: MacBuildLockDir
-  macBuildNumberFile?: MacBuildNumberFile
-  macWwwStagingRel?: MacWwwStagingRel
-  marketingVersion: MarketingVersion
-  nativeShellRepoPath?: NativeShellRepoPath
-  programs?: Programs
-  spaSourcePath?: SpaSourcePath
-  stageScript?: StageScript
-  webEntry?: WebEntry
-  webEnvPath?: WebEnvPath
-  widgetBundleId?: WidgetBundleId
-  widgetProfileName?: WidgetProfileName
-  webDirectory?: WebDirectory
-  syncScript?: SyncScript
-}
+export type IosApp = WorkspacePackage &
+  Service & {
+    appProfileName: AppProfileName
+    ascCapabilities?: AscCapabilities
+    buildScript?: BuildScript
+    bundleId: BundleId
+    capacitorConfig: CapacitorConfig
+    defaultDeviceUdid?: DefaultDeviceUdid
+    developmentTeam: DevelopmentTeam
+    displayName: DisplayName
+    gitIgnore: GitIgnore
+    icon?: AppIcon
+    iconDrawing?: IconDrawing
+    macBuildLockDir?: MacBuildLockDir
+    macBuildNumberFile?: MacBuildNumberFile
+    macWwwStagingRel?: MacWwwStagingRel
+    marketingVersion: MarketingVersion
+    nativeShellRepoPath?: NativeShellRepoPath
+    programs?: Programs
+    spaSourcePath?: SpaSourcePath
+    stageScript?: StageScript
+    webEntry?: WebEntry
+    webEnvPath?: WebEnvPath
+    widgetBundleId?: WidgetBundleId
+    widgetProfileName?: WidgetProfileName
+    webDirectory?: WebDirectory
+    syncScript?: SyncScript
+  }
