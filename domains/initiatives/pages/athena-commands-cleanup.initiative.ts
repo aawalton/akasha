@@ -24,11 +24,6 @@ export const athenaCommandsCleanup = {
         "Three renderers answer one descent. `commands/modules/calling/calling.module.code.ts:323` answers the root by listing every leaf hyphenated, through `listed` at line 140; line 355 answers a namespace one level deep and spaced; line 226 answers a command. So `akasha` prints `akasha temper-inventory-rule-unlock` and never prints `akasha temper`. `akasha track` prints `session` beside `health import`, saying nothing about which is a namespace.\n",
     },
     {
-      statement: "A `taking` entry carries every spelling and shape a command's code reads.",
-      workingMemory:
-        "`commands/properties/taking.record-property.ts:10-13` gives an entry `said` and `takes` alone, so five facts sit in prose or in code. The code names them by working around them: `commands/pages/inference/video-qa/inference-video-qa.command.code.ts:48-53` declares its own `const TAKING` with `aliases` and `prose`; `alan/google/email/email-command-reading/email-command-reading.module.code.ts:70-75` carries `repeats` and `needed`. A value placeholder is the fifth. Gates the last intent.\n",
-    },
-    {
       statement: "A command's help states the invariants that command's page states.",
       workingMemory:
         "`helpOf` at `commands/modules/calling/calling.module.code.ts:226-236` renders the definition line, the `taking` table and `helpNotes` verbatim, and nothing else. A command's invariants are the caller's contract and are already data: `commands/pages/temper/inventory/rule/unlock/temper-inventory-rule-unlock.command.ts:15,19` state that unlocking an unlocked rule changes nothing and that an id no rule carries refuses the call. No caller can see either.\n",
