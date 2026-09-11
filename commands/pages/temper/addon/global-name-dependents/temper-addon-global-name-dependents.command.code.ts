@@ -66,8 +66,8 @@ function isSource(path: string): boolean {
   return !/\.test\.tsx?$/.test(path)
 }
 
-function savedVariablesOf(addonDir: string): readonly string[] {
-  const path = addonManifestPathIn(addonDir)
+function savedVariablesOf(root: string, addonDir: string): readonly string[] {
+  const path = addonManifestPathIn(root, addonDir)
   if (path === null) return []
   try {
     return SAVED_VARIABLES_SCHEMA.parse(JSON.parse(readFileSync(path, "utf8"))).savedVariables ?? []
@@ -106,7 +106,7 @@ function ownedGlobals(
         owned.add(name)
       }
     }
-    for (const name of savedVariablesOf(addon.dir)) owned.add(name)
+    for (const name of savedVariablesOf(root, addon.dir)) owned.add(name)
   }
   return [...owned].sort()
 }

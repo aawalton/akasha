@@ -55,8 +55,8 @@ function filesUnder(root: string): readonly string[] {
   return [...found].sort()
 }
 
-function dependenciesOf(addonDir: string): AddonDependencies {
-  const manifestPath = addonManifestPathIn(addonDir)
+function dependenciesOf(root: string, addonDir: string): AddonDependencies {
+  const manifestPath = addonManifestPathIn(root, addonDir)
   if (manifestPath === null) throw new Error(`${addonDir} holds no addon manifest`)
   const parsed = DEPENDS_SCHEMA.safeParse(JSON.parse(readFileSync(manifestPath, "utf-8")))
   if (!parsed.success) {
@@ -102,7 +102,7 @@ export function temperAddonBundleBuild(argv: readonly string[] = []): Answer {
   let external: readonly string[]
   try {
     const byName = new Map<string, AddonDependencies>(
-      roster.map((one) => [one.canonicalName, dependenciesOf(one.dir)])
+      roster.map((one) => [one.canonicalName, dependenciesOf(root, one.dir)])
     )
     const set = resolveDistributableSet(byName)
     included = set.included
@@ -130,7 +130,7 @@ export function temperAddonBundleBuild(argv: readonly string[] = []): Answer {
       packed += packedInto(archive, name, join(addonsRoot, DIST_UNDER, name))
       const addonDir = dirByName.get(name)
       if (addonDir === undefined) continue
-      for (const sibling of readSiblingAddonNames(addonDir)) {
+      for (const sibling of readSiblingAddonNames(root, addonDir)) {
         packed += packedInto(archive, sibling, siblingDistDir(addonsRoot, sibling))
       }
     }

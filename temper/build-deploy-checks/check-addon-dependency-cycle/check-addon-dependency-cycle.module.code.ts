@@ -29,8 +29,8 @@ const ADDON_JSON_SCHEMA = z
   })
   .passthrough()
 
-function readDeps(addonDir: string): readonly string[] {
-  const path = addonManifestPathIn(addonDir)
+function readDeps(root: string, addonDir: string): readonly string[] {
+  const path = addonManifestPathIn(root, addonDir)
   if (path === null) {
     throw new Error(
       `${PREFIX} ${addonDir} is on the addon roster and holds no manifest the game or a page names, so its declared dependencies cannot be read`
@@ -41,10 +41,10 @@ function readDeps(addonDir: string): readonly string[] {
   return [...(parsed.dependsOn ?? []), ...(parsed.optionalDependsOn ?? [])]
 }
 
-function buildInputs(roster: readonly AddonInfo[]): readonly AddonDepInput[] {
+function buildInputs(root: string, roster: readonly AddonInfo[]): readonly AddonDepInput[] {
   const inputs: AddonDepInput[] = []
   for (const addon of roster) {
-    inputs.push({ addonName: addon.canonicalName, deps: readDeps(addon.dir) })
+    inputs.push({ addonName: addon.canonicalName, deps: readDeps(root, addon.dir) })
   }
   return inputs
 }
@@ -98,7 +98,7 @@ function main(): 0 | 1 | 2 {
       return 2
     }
     addonsOnRoster = roster.length
-    const inputs = buildInputs(roster)
+    const inputs = buildInputs(repoRoot, roster)
     addonsExamined = inputs.length
     violations = findDependencyCycles(inputs)
   } catch (err) {

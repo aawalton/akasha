@@ -32,8 +32,8 @@ type AddonManifest = {
   readonly optionalDependsOn?: readonly string[]
 }
 
-function addonManifestIn(dir: string): AddonManifest | null {
-  const path = addonManifestPathIn(dir)
+function addonManifestIn(root: string, dir: string): AddonManifest | null {
+  const path = addonManifestPathIn(root, dir)
   if (path === null) return null
   try {
     return JSON.parse(readFileSync(path, "utf-8")) as AddonManifest
@@ -42,8 +42,8 @@ function addonManifestIn(dir: string): AddonManifest | null {
   }
 }
 
-function dependedOnIn(dir: string): readonly string[] {
-  const said = addonManifestIn(dir)
+function dependedOnIn(root: string, dir: string): readonly string[] {
+  const said = addonManifestIn(root, dir)
   if (said === null) return []
   const named = [...(said.dependsOn ?? []), ...(said.optionalDependsOn ?? [])]
   return named.map((one) => (one.split(VERSION_MARK)[0] ?? "").trim()).filter((one) => one !== "")
@@ -74,7 +74,7 @@ function reachedIn(repoRoot: string): Reached {
     valueAt.set(dir, one.value)
     addonUnder.add(folder)
     addonsUnder.add(dirname(folder))
-    const named = addonManifestIn(dir)?.name
+    const named = addonManifestIn(repoRoot, dir)?.name
     if (named !== undefined && !namedAt.has(named)) namedAt.set(named, dir)
   }
   const declaring = new Set<string>()
@@ -101,7 +101,7 @@ export function reachedAddonDirs(repoRoot: string, addonDir: string): readonly s
   const byName = addonDirsByName(repoRoot)
   const found = new Set<string>()
   const asked = new Set<string>()
-  const owed = [...dependedOnIn(addonDir)]
+  const owed = [...dependedOnIn(repoRoot, addonDir)]
   for (;;) {
     const name = owed.pop()
     if (name === undefined) break
@@ -110,7 +110,7 @@ export function reachedAddonDirs(repoRoot: string, addonDir: string): readonly s
     const dir = byName.get(name)
     if (dir === undefined || dir === addonDir) continue
     found.add(dir)
-    owed.push(...dependedOnIn(dir))
+    owed.push(...dependedOnIn(repoRoot, dir))
   }
   return [...found].sort()
 }

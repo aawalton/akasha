@@ -32,5 +32,13 @@ export const siblingAddons = {
       invariantKind: "departure",
       statement: "An addon with no readable manifest ships no sibling.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A sibling manifest a page does not carry ships no sibling.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No file name ending is spelled here.",
+    },
   ],
 } as const satisfies Module

@@ -115,8 +115,8 @@ function saidOfForeign(version: number | undefined, floors: readonly number[]): 
   return `${found}, and this fleet's highest declared floor is >=${String(Math.max(...floors))}`
 }
 
-function carriedAcross(addonDir: string): readonly string[] {
-  const path = addonManifestPathIn(addonDir)
+function carriedAcross(root: string, addonDir: string): readonly string[] {
+  const path = addonManifestPathIn(root, addonDir)
   if (path === null) return []
   try {
     const raw: unknown = JSON.parse(readFileSync(path, "utf-8"))
@@ -130,7 +130,7 @@ function carriedAcross(addonDir: string): readonly string[] {
 function fleetDependencyLists(root: string): readonly (readonly string[])[] {
   const lists: (readonly string[])[] = []
   for (const addon of listAllAddons({ repoRoot: root })) {
-    const path = addonManifestPathIn(addon.dir)
+    const path = addonManifestPathIn(root, addon.dir)
     if (path === null) continue
     try {
       const raw: unknown = JSON.parse(readFileSync(path, "utf-8"))
@@ -312,12 +312,12 @@ export function temperAddonInstall(argv: readonly string[] = []): Answer {
   }
 
   const report: string[] = []
-  const main = placed(esoAddons, root, canonicalName, built, carriedAcross(sourceDir))
+  const main = placed(esoAddons, root, canonicalName, built, carriedAcross(root, sourceDir))
   report.push(...main.lines)
   if (main.refusals.length > 0) return answering(report, main.refusals, FAILED)
   if (main.skipped) return answering(report, [], 0)
 
-  for (const sibling of readSiblingAddonNames(sourceDir)) {
+  for (const sibling of readSiblingAddonNames(root, sourceDir)) {
     const siblingBuilt = siblingDistDir(addonsRoot, sibling)
     if (!existsSync(siblingBuilt)) {
       return answering(

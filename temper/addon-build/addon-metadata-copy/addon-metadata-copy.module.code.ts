@@ -63,7 +63,7 @@ export async function copyAddonMetadata(
     bindings === null ? EMPTY_BINDINGS : readFileSync(bindings, "utf-8")
   )
 
-  const manifestPath = addonManifestPathIn(addonDir)
+  const manifestPath = addonManifestPathIn(root, addonDir)
   if (manifestPath === null) {
     throw new Error(
       `copyAddonMetadata: ${addonDir} holds no addon manifest, so what the addon ships is unstated`
@@ -96,8 +96,8 @@ export async function copyAddonMetadata(
     cpSync(from, to)
   }
 
-  const siblingNames = readSiblingAddonNames(addonDir)
-  const carried = siblingManifestsIn(addonDir)
+  const siblingNames = readSiblingAddonNames(root, addonDir)
+  const carried = siblingManifestsIn(root, addonDir)
   for (const name of siblingNames) {
     const from = siblingSourceDir(addonDir, name)
     const to = siblingDistDir(addonsRoot, name)

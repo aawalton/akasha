@@ -25,12 +25,15 @@ const ADDON_FLOOR_MANIFEST_SCHEMA = addonManifestSchema
   .pick({ addonVersion: true, dependsOn: true, optionalDependsOn: true })
   .passthrough()
 
-function readAddonFloorFields(addonDir: string): {
+function readAddonFloorFields(
+  root: string,
+  addonDir: string
+): {
   addonVersion: number
   dependsOn: readonly string[]
   optionalDependsOn: readonly string[]
 } {
-  const path = addonManifestPathIn(addonDir)
+  const path = addonManifestPathIn(root, addonDir)
   if (path === null) {
     throw new Error(
       `${PREFIX} ${addonDir} is on the addon roster and holds no manifest the game or a page names, so its declared version floors cannot be read`
@@ -45,10 +48,10 @@ function readAddonFloorFields(addonDir: string): {
   }
 }
 
-function buildInputs(roster: readonly AddonInfo[]): readonly AddonFloorInput[] {
+function buildInputs(root: string, roster: readonly AddonInfo[]): readonly AddonFloorInput[] {
   const inputs: AddonFloorInput[] = []
   for (const addon of roster) {
-    const { addonVersion, dependsOn, optionalDependsOn } = readAddonFloorFields(addon.dir)
+    const { addonVersion, dependsOn, optionalDependsOn } = readAddonFloorFields(root, addon.dir)
     inputs.push({ addonName: addon.canonicalName, addonVersion, dependsOn, optionalDependsOn })
   }
   return inputs
@@ -116,7 +119,7 @@ function main(): 0 | 1 | 2 {
       return 2
     }
     addonsOnRoster = roster.length
-    const inputs = buildInputs(roster)
+    const inputs = buildInputs(repoRoot, roster)
     addonsExamined = inputs.length
     audit = auditDependencyFloors(inputs)
   } catch (err) {

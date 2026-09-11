@@ -33,8 +33,8 @@ export type ResolveOpts = {
 
 const addonNameSchema = addonManifestSchema.pick({ name: true }).partial().passthrough()
 
-function readAddonJson(dir: string): { name?: string } | null {
-  const path = addonManifestPathIn(dir)
+function readAddonJson(root: string, dir: string): { name?: string } | null {
+  const path = addonManifestPathIn(root, dir)
   if (path === null) return null
   try {
     const raw: unknown = JSON.parse(readFileSync(path, "utf-8"))
@@ -50,7 +50,7 @@ export function listExternalAddonRelDirs(repoRoot: string): readonly string[] {
   for (const one of valuesOfType(repoRoot, ESO_ADDON)) {
     const rel = dirname(one.path)
     if (rel === ADDONS_REL_ROOT || rel.startsWith(`${ADDONS_REL_ROOT}/`)) continue
-    if (readAddonJson(join(repoRoot, rel)) === null) continue
+    if (readAddonJson(repoRoot, join(repoRoot, rel)) === null) continue
     found.push(rel)
   }
   return found.sort()
@@ -65,7 +65,7 @@ function addonsUnderFlatRoot(repoRoot: string): readonly Discovered[] {
   for (const entry of readdirSync(addonsRoot, { withFileTypes: true })) {
     if (!entry.isDirectory()) continue
     const dir = join(addonsRoot, entry.name)
-    const said = readAddonJson(dir)
+    const said = readAddonJson(repoRoot, dir)
     if (said === null) continue
     found.push({
       dir,
@@ -80,7 +80,7 @@ function addonsElsewhere(repoRoot: string): readonly Discovered[] {
   const found: Discovered[] = []
   for (const rel of listExternalAddonRelDirs(repoRoot)) {
     const dir = join(repoRoot, rel)
-    const said = readAddonJson(dir)
+    const said = readAddonJson(repoRoot, dir)
     if (said === null) continue
     found.push({
       dir,

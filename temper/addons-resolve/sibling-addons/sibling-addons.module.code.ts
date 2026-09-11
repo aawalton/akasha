@@ -1,12 +1,15 @@
-import { readdirSync, readFileSync } from "node:fs"
+import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
-import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
+import {
+  addonFilePathIn,
+  addonManifestPathIn,
+} from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
 import { z } from "zod"
 
 export const SIBLING_ADDONS_DIR = "siblings"
 
-export const SIBLING_MANIFEST_SUFFIX = ".eso-addon.sibling-manifest.json"
+export const SIBLING_MANIFEST = "sibling-manifest"
 
 const siblingNamesSchema = addonManifestSchema.pick({ siblingAddons: true }).partial().passthrough()
 
@@ -23,8 +26,8 @@ export function assertSafeSiblingName(name: string): undefined {
   return undefined
 }
 
-export function readSiblingAddonNames(addonDir: string): readonly string[] {
-  const path = addonManifestPathIn(addonDir)
+export function readSiblingAddonNames(root: string, addonDir: string): readonly string[] {
+  const path = addonManifestPathIn(root, addonDir)
   if (path === null) return []
   let raw: unknown
   try {
@@ -39,20 +42,13 @@ export function readSiblingAddonNames(addonDir: string): readonly string[] {
   return names
 }
 
-export function siblingManifestsIn(addonDir: string): ReadonlyMap<string, string> {
+export function siblingManifestsIn(root: string, addonDir: string): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
-  let entries: readonly string[]
-  try {
-    entries = readdirSync(addonDir)
-  } catch {
-    return found
-  }
-  const named = entries.filter((one) => one.endsWith(SIBLING_MANIFEST_SUFFIX)).sort()
-  const first = named[0]
-  if (first === undefined) return found
+  const path = addonFilePathIn(root, addonDir, SIBLING_MANIFEST)
+  if (path === null) return found
   let raw: unknown
   try {
-    raw = JSON.parse(readFileSync(join(addonDir, first), "utf-8"))
+    raw = JSON.parse(readFileSync(path, "utf-8"))
   } catch {
     return found
   }

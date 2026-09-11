@@ -242,7 +242,7 @@ export async function temperAddonBuild(argv: readonly string[] = []): Promise<An
     )
     for (const stale of [
       join(addonsRoot, DIST_UNDER, target.canonicalName),
-      ...readSiblingAddonNames(target.dir).map((name) => siblingDistDir(addonsRoot, name)),
+      ...readSiblingAddonNames(root, target.dir).map((name) => siblingDistDir(addonsRoot, name)),
     ]) {
       rmSync(stale, { recursive: true, force: true })
     }

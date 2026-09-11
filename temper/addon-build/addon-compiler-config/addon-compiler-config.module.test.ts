@@ -135,11 +135,11 @@ function addonReaching(
   valueAlsoFiled(root, ESO_ADDON, [
     {
       path: "temper/temper-collections-addon/temper-collections-addon.eso-addon.ts",
-      value: { slug: "temper-collections-addon" },
+      value: { slug: "temper-collections-addon", addonManifest: "json" },
     },
     {
       path: "temper/temper-lorebooks/temper-lorebooks.eso-addon.ts",
-      value: { slug: "temper-lorebooks" },
+      value: { slug: "temper-lorebooks", addonManifest: "json" },
     },
   ])
   return { root, dir, held }

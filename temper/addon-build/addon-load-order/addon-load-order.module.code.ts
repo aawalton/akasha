@@ -58,8 +58,11 @@ export function readLuaBundle(dir: string, ...alsoAt: readonly string[]): string
   return null
 }
 
-export async function loadAddonConfig(addonDir: string): Promise<AddonManifest | null> {
-  const path = addonManifestPathIn(addonDir)
+export async function loadAddonConfig(
+  root: string,
+  addonDir: string
+): Promise<AddonManifest | null> {
+  const path = addonManifestPathIn(root, addonDir)
   if (path === null) return null
   try {
     return addonManifestSchema.parse(JSON.parse(readFileSync(path, "utf-8")))
@@ -68,15 +71,21 @@ export async function loadAddonConfig(addonDir: string): Promise<AddonManifest |
   }
 }
 
-export async function readAdditionalLuaFiles(addonDir: string): Promise<readonly string[]> {
-  return (await loadAddonConfig(addonDir))?.additionalLuaFiles ?? []
+export async function readAdditionalLuaFiles(
+  root: string,
+  addonDir: string
+): Promise<readonly string[]> {
+  return (await loadAddonConfig(root, addonDir))?.additionalLuaFiles ?? []
 }
 
-export async function readXmlFiles(addonDir: string): Promise<{
+export async function readXmlFiles(
+  root: string,
+  addonDir: string
+): Promise<{
   readonly beforeBundle: readonly string[]
   readonly afterBundle: readonly string[]
 }> {
-  const config = await loadAddonConfig(addonDir)
+  const config = await loadAddonConfig(root, addonDir)
   return {
     beforeBundle: config?.xmlFiles?.beforeBundle ?? [],
     afterBundle: config?.xmlFiles?.afterBundle ?? [],
@@ -163,11 +172,12 @@ export function catalogApiVersion(root: string): string {
 }
 
 export async function metadataHeader(
+  root: string,
   addonName: string,
   addonDir: string,
   forCatalog: () => string
 ): Promise<string> {
-  const config = await loadAddonConfig(addonDir)
+  const config = await loadAddonConfig(root, addonDir)
   if (config === null) throw new Error(`metadataHeader: no addon manifest found for ${addonName}`)
 
   let apiVersionLine: string
@@ -236,10 +246,12 @@ export async function writeLoadOrder(
       `writeLoadOrder: neither ${join(addonDir, TSCONFIG_NAME)} nor ${generated} declares a luaCompiler.luaBundle, and the manifest has to name the Lua the game loads`
     )
   }
-  const additionalLuaFiles = await readAdditionalLuaFiles(addonDir)
-  const xml = await readXmlFiles(addonDir)
+  const additionalLuaFiles = await readAdditionalLuaFiles(root, addonDir)
+  const xml = await readXmlFiles(root, addonDir)
   const lines = manifestLines({
-    metadataHeader: await metadataHeader(canonicalName, addonDir, () => catalogApiVersion(root)),
+    metadataHeader: await metadataHeader(root, canonicalName, addonDir, () =>
+      catalogApiVersion(root)
+    ),
     buildIdFile: BUILD_ID_FILE,
     additionalLuaFiles,
     xmlBeforeBundle: xml.beforeBundle,

@@ -28,5 +28,23 @@ export const addonManifestFile = {
       invariantKind: "departure",
       statement: "A folder with two manifests beside pages is thrown on.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The page a folder holds is asked of the index rather than read off the folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page's file is that page's name, a property's slug and the form the page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A folder outside the checkout holds no page, so the game's spelling alone answers.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No file name ending is spelled here.",
+    },
   ],
 } as const satisfies Module
