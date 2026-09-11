@@ -50,9 +50,13 @@ import { indexThere, listedAt } from "akasha/pages/indexes/reading/index-reading
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export const PAGE_LANDING =
-  "A subagent dispatched a moment ago can run before its page lands, and a landing refused leaves" +
-  " that subagent with no page at all. The empty argument is the kind, which the page in" +
-  " history states. Run this from a terminal to put the page up, then ask again:"
+  "A subagent dispatched a moment ago can run before its page lands, and a landing refused" +
+  " leaves that subagent with no page at all. Resuming the subagent takes back up the page it" +
+  " had and stamps the moment that subagent started, which is what holds the page against the" +
+  " next take-down. A person at a terminal can put the page up by hand instead, where the empty" +
+  " argument is the kind the page in history states. An agent is refused that call, whose shell" +
+  " is judged for what it names inside akasha, and it stamps no started moment, so the page it" +
+  " puts up goes at the next take-down rather than remaining:"
 
 export function noPageSaid(root: string, agentId: string | null): string {
   const said = puttingUpSaid(root, agentId)

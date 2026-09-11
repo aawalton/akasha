@@ -127,7 +127,35 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "That refusal names the command putting a subagent's page up.",
+      statement: "That refusal names resuming the subagent as the way the page comes back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resume stamps the moment the subagent started.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal also names the command putting a subagent's page up by hand.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The resume is named before that command.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That command is for a person at a terminal rather than for an agent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An agent naming that command in a shell call is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That command stamps no moment the subagent started.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page that command puts up goes at the next take-down.",
     },
     {
       invariantKind: "departure",

@@ -5,6 +5,7 @@ import { editsIn } from "akasha/changes/modules/edits-keeping/edits-keeping.modu
 import {
   appending,
   changing,
+  noPageSaid,
   owedBy,
   owingBy,
   puttingUpSaid,
@@ -406,6 +407,17 @@ test("the call that puts a page up names no kind to guess", () => {
 
   expect(said).toContain("akasha/subagent-presence.module.code.ts")
   expect(said).toContain(` write <the seat> ${OWN} '' ${SEAT_ID}`)
+})
+
+test("the refusal names the resume before the call a person runs by hand", () => {
+  const root = repo()
+  listedFiled(root, "module", "subagent-presence", [{ path: PRESENCE_AT, id: PRESENCE_ID }])
+
+  const said = noPageSaid(root, `${SEAT_ID}--${OWN}`)
+
+  expect(said).toContain("it stamps no started moment")
+  expect(said.indexOf("Resuming the subagent")).toBeGreaterThan(0)
+  expect(said.indexOf("Resuming the subagent")).toBeLessThan(said.indexOf("bun "))
 })
 
 test("a change whose writer owes no reading appends without asking the record", async () => {
