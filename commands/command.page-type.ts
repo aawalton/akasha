@@ -121,6 +121,7 @@ export const command = {
     "module/body-loading",
     "module/change-ceiling",
     "module/install-linking",
+    "module/unit-landing",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",

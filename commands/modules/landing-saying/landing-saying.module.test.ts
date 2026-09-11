@@ -23,6 +23,7 @@ const LANDED: Landed = {
   cleared: [],
   linked: { said: [], wrong: [] },
   placed: { said: [], wrong: [] },
+  units: { said: [], wrong: [] },
 }
 
 const DRAFTED: Drafted = {

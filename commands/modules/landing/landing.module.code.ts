@@ -61,6 +61,7 @@ import {
   writesOutside,
 } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
 import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
+import { unitsLanded } from "akasha/commands/modules/unit-landing/unit-landing.module.code.ts"
 import { gitIgnoring } from "akasha/git/pathspec/git-pathspec.module.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
@@ -75,6 +76,7 @@ export type Landed = {
   readonly cleared: readonly string[]
   readonly linked: Linking
   readonly placed: Linking
+  readonly units: Linking
   readonly untracked?: readonly string[]
 }
 
@@ -309,6 +311,7 @@ export async function landing(
       cleared: [],
       linked: NOTHING_LINKED,
       placed: NOTHING_LINKED,
+      units: NOTHING_LINKED,
       untracked: [],
     }
   }
@@ -396,7 +399,8 @@ export async function landing(
           const cleared = clearedOff(root, gone)
           const linked = linkedOver(root, moves, homedir())
           const placed = linkedInPlace(root, homedir())
-          return { base, commit, wrote, took, noted, cleared, linked, placed, untracked }
+          const units = unitsLanded(root, homedir())
+          return { base, commit, wrote, took, noted, cleared, linked, placed, units, untracked }
         } catch (failed) {
           aside.back()
           throw failed
