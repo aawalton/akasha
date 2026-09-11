@@ -1,6 +1,6 @@
 import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
+import type { ListingEntry } from "akasha/temper/trading-listings/listing-types/listing-types.module.code.ts"
 import { z } from "zod"
-import type { ListingEntry } from "../listing-types/listing-types.module.code.ts"
 
 export const listingEntrySchema = z
   .object({
