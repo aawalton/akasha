@@ -99,6 +99,10 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
+      statement: "That import is spelled from the root package where the root names a way in.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every body importing that export names the path that export landed at.",
     },
     {

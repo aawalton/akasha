@@ -175,9 +175,15 @@ function leftBy(text: string, gone: readonly Passage[]): string {
   return held
 }
 
-function backIn(text: string, source: ts.SourceFile, given: Asked, type: boolean): Passage | null {
+function backIn(
+  text: string,
+  source: ts.SourceFile,
+  given: Asked,
+  type: boolean,
+  naming: Naming
+): Passage | null {
   if (!namesIn(source).includes(given.of)) return null
-  const line = lineFor(given.of, specifierFor(dirname(given.from), given.to), type)
+  const line = lineFor(given.of, spelledAt(given, given.to, naming), type)
   const anchor = anchorIn(text, source)
   if (anchor === null) return { at: given.from, old: text, new: `${line}${LINE}${LINE}${text}` }
   return { at: given.from, old: anchor, new: `${anchor}${LINE}${line}` }
@@ -292,9 +298,9 @@ function ontoFor(
   return { at: given.to, old: whole, new: `${opened.trimEnd()}${LINE}${LINE}${trimmed}${LINE}` }
 }
 
-function besideIn(given: Asked, naming: Naming): string {
+function spelledAt(given: Asked, path: string, naming: Naming): string {
   const rooted = rootedIn(naming)
-  return rooted === null ? specifierFor(dirname(given.from), given.from) : `${rooted}${given.from}`
+  return rooted === null ? specifierFor(dirname(given.from), path) : `${rooted}${path}`
 }
 
 function namesBack(rest: ts.SourceFile, given: Asked, naming: Naming): boolean {
@@ -314,13 +320,13 @@ function planFor(
 ): Plan | Refused {
   const passage = text.slice(declared.getFullStart(), declared.getEnd())
   const left = text.slice(0, declared.getFullStart()) + text.slice(declared.getEnd())
-  const beside = besideIn(given, landing.naming)
+  const beside = spelledAt(given, given.from, landing.naming)
   const carried = carriedIn(declared, given.of, beside)
   const source = parsedAs(given.from, left)
   const gone = droppedIn(left, source, given.from, carried)
   const rest = leftBy(left, gone)
   const after = parsedAs(given.from, rest)
-  const back = backIn(rest, after, given, typed(declared))
+  const back = backIn(rest, after, given, typed(declared), landing.naming)
   const first = [...carried].find(([, one]) => one.from === beside)
   if (first !== undefined && (back !== null || namesBack(after, given, landing.naming))) {
     const said = `\`${first[0]}\` from \`${given.from}\`, which would name \`${given.to}\` back`

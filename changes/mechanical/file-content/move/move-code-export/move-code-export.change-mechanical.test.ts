@@ -155,6 +155,15 @@ test("the body left behind names the type where it landed in another folder", as
   expect(puttingAt(said, FROM).join("")).toContain(`import type { Kept } from "../two/two.held.ts"`)
 })
 
+test("the import back is spelled from the root where the root names a way in", async () => {
+  const world = worldOf({ [FROM]: STILL, [NAMED_AT]: NAMED, [ROOT_AT]: ROOT })
+
+  const said = await runChange(world, { from: FROM, to: ELSEWHERE, of: "Kept" })
+
+  expect(said.refused).toBeNull()
+  expect(puttingAt(said, FROM).join("")).toContain(`import type { Kept } from "tree/${ELSEWHERE}"`)
+})
+
 const ALREADY = `import { join } from "node:path"
 
 export const OTHER = join("x", "y")
