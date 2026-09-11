@@ -2,9 +2,7 @@ import type { Body } from "akasha/checks/modules/change-walking/change-walking.m
 import {
   type Carried,
   heldBeside,
-  type Kinded,
-  type Naming,
-  namingUnder,
+  namingFor,
   sectionHeld,
   slugsWhere,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
@@ -18,8 +16,6 @@ const NEWLINE = 0x0a
 const HOLDS = "holdsBytes"
 
 const BYTES = new WeakMap<Shadow, ReadonlySet<string>>()
-
-const NAMING = new WeakMap<Shadow, readonly Naming[]>()
 
 type Site = {
   readonly line: number
@@ -61,34 +57,18 @@ export function holdingBytes(value: Value): boolean {
   return value[HOLDS] === true
 }
 
-function kindedIn(shadow: Shadow): Kinded {
-  return {
-    kindsUnder: (of) => shadow.index.kindsUnder(of),
-    everyOfType: (kind) => shadow.index.everyOfType(kind),
-    valueAt: (path) => shadow.pageOf(path),
-  }
-}
-
 function bytesHeld(shadow: Shadow): ReadonlySet<string> {
   const found = BYTES.get(shadow)
   if (found !== undefined) return found
-  const made = slugsWhere(kindedIn(shadow), holdingBytes, (named) => shadow.index.carryingOf(named))
+  const made = slugsWhere(shadow.index, holdingBytes, (named) => shadow.index.carryingOf(named))
   BYTES.set(shadow, made)
-  return made
-}
-
-function namingIn(shadow: Shadow): readonly Naming[] {
-  const found = NAMING.get(shadow)
-  if (found !== undefined) return found
-  const made = namingUnder(kindedIn(shadow))
-  NAMING.set(shadow, made)
   return made
 }
 
 export function exemptIn(path: string, shadow: Shadow): boolean {
   if (sectionHeld(path, bytesHeld(shadow))) return true
   const carrying = (named: string): Carried => shadow.index.carryingOf(named)
-  return heldBeside(path, namingIn(shadow), holdingBytes, carrying)
+  return heldBeside(path, namingFor(shadow.index), holdingBytes, carrying)
 }
 
 export function judgedIn(given: Body, shadow: Shadow): readonly string[] {

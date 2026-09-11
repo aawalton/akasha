@@ -200,7 +200,7 @@ export function derivedFor(given: Facing): Derived {
   if (found !== undefined) return found
   const made: Derived = {
     slugs: slugsWhere(given, generates, given.carryingOf),
-    naming: namingUnder(given),
+    naming: namingFor(given),
   }
   DERIVED.set(given, made)
   return made
@@ -264,6 +264,16 @@ export function namingUnder(given: Kinded): readonly Naming[] {
     }
   }
   return found
+}
+
+const NAMING = new WeakMap<Kinded, readonly Naming[]>()
+
+export function namingFor(given: Kinded): readonly Naming[] {
+  const found = NAMING.get(given)
+  if (found !== undefined) return found
+  const made = namingUnder(given)
+  NAMING.set(given, made)
+  return made
 }
 
 export function sectionHeld(path: string, slugs: ReadonlySet<string>): boolean {

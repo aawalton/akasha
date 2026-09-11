@@ -4,9 +4,7 @@ import { partedIn, sectionedIn } from "akasha/pages/file-name/page-file-name.mod
 import {
   type Carried,
   heldBeside,
-  type Kinded,
-  type Naming,
-  namingUnder,
+  namingFor,
   sectionHeld,
   slugsWhere,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
@@ -46,34 +44,16 @@ const MARKUP_RELIEF =
 const PROSE_RELIEF =
   "nothing joins the parts of a prose file on read, so dividing this one hides all but the first"
 
-const NAMING = new WeakMap<Shadow, readonly Naming[]>()
-
 const HELD_OFF = new WeakMap<Shadow, ReadonlySet<string>>()
 
 export function heldOff(value: Value): boolean {
   return value[RUNS] === false
 }
 
-function kindedIn(shadow: Shadow): Kinded {
-  return {
-    kindsUnder: (of) => shadow.index.kindsUnder(of),
-    everyOfType: (kind) => shadow.index.everyOfType(kind),
-    valueAt: (path) => shadow.pageOf(path),
-  }
-}
-
-function namingIn(shadow: Shadow): readonly Naming[] {
-  const found = NAMING.get(shadow)
-  if (found !== undefined) return found
-  const made = namingUnder(kindedIn(shadow))
-  NAMING.set(shadow, made)
-  return made
-}
-
 function sectionsOff(shadow: Shadow): ReadonlySet<string> {
   const found = HELD_OFF.get(shadow)
   if (found !== undefined) return found
-  const made = slugsWhere(kindedIn(shadow), heldOff, (named) => shadow.index.carryingOf(named))
+  const made = slugsWhere(shadow.index, heldOff, (named) => shadow.index.carryingOf(named))
   HELD_OFF.set(shadow, made)
   return made
 }
@@ -85,7 +65,7 @@ function sectionOff(path: string, shadow: Shadow): boolean {
 export function exemptIn(path: string, shadow: Shadow): boolean {
   if (sectionOff(path, shadow)) return true
   const carrying = (named: string): Carried => shadow.index.carryingOf(named)
-  return heldBeside(path, namingIn(shadow), heldOff, carrying)
+  return heldBeside(path, namingFor(shadow.index), heldOff, carrying)
 }
 
 function ceilingFor(path: string): number {

@@ -115,6 +115,7 @@ export type Answering = {
   readonly typeSlugById: (id: string) => string | null
   readonly typeSlugOf: (id: string) => string
   readonly uncommittedFiledAt: () => UncommittedBy
+  readonly valueAt: (path: string) => Value | null
   readonly valuesByPath: (pageTypeSlug: string) => ReadonlyMap<string, Value>
 }
 
@@ -167,6 +168,7 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     typeSlugById: (id) => typeSlugById(reading, id),
     typeSlugOf: (id) => typeSlugOf(reading, id),
     uncommittedFiledAt: heldOnce(() => uncommittedFiledAt(reading)),
+    valueAt: (path) => pageOf(path),
     valuesByPath: (pageTypeSlug) => valuesByPath(reading, pageTypeSlug),
   }
 }
