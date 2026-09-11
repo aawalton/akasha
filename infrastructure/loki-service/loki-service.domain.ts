@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const lokiService = {
   id: "01a06816-68b1-7121-a3e4-61d3cc74c4c8",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "loki-service",
   definition: "the manifests the cluster's log store and its collector are applied as",

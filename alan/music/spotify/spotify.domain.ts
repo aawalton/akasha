@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const spotify = {
   id: "01a06261-dc1d-7000-8f39-acf6360f39b5",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "spotify",
   definition: "Alan's Spotify account reached over the Web API",

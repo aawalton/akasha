@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const utilsSlug = {
   id: "01a08e6f-55be-71c8-8946-b4047f5a9d4c",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "utils-slug",
   definition: "how a string is folded to the key that names it",

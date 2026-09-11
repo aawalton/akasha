@@ -2,7 +2,6 @@ import type { ReadoutScale } from "akasha/alan/harness/readouts/scales/readout-s
 
 export const surplusHours = {
   id: "01a05fc3-145a-7dca-83d9-5316786fa83c",
-  pageTypeSlug: "readout-scale",
   type: "readout-scale",
   slug: "surplus-hours",
   definition: "how much of a night a day has left, counted in hours",

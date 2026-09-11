@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const pagesAccess = {
   id: "01a05bd6-c533-7016-89de-5e52ec2cde2a",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "pages-access",
   definition: "reading and writing pages, in the store and in the tree",

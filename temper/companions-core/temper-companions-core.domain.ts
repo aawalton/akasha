@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperCompanionsCore = {
   id: "01a06108-0770-7896-af0b-609e72d8fa97",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-companions-core",
   definition: "the gear, roles and traits a companion in The Elder Scrolls Online is built from",

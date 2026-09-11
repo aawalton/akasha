@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const check = {
   id: "01a04bc4-7e85-704f-b87e-eac561795185",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "check",
   definition: "how a change is judged against what must be true of it",

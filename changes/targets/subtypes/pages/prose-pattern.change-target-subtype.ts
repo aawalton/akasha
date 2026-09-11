@@ -2,7 +2,6 @@ import type { ChangeTargetSubtype } from "akasha/changes/targets/subtypes/change
 
 export const prosePattern = {
   id: "01a08216-e1c2-73ca-b417-23ded9773d10",
-  pageTypeSlug: "change-target-subtype",
   type: "change-target-subtype",
   slug: "prose-pattern",
   definition: "the prose one pattern matches",

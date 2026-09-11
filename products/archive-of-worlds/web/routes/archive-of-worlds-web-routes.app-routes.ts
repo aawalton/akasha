@@ -2,7 +2,6 @@ import type { AppRoutes } from "akasha/code-system/app-routes/app-routes.page-ty
 
 export const archiveOfWorldsWebRoutes = {
   id: "01a08be4-f999-7d6f-9463-5023ae3c936a",
-  pageTypeSlug: "app-routes",
   type: "app-routes",
   slug: "archive-of-worlds-web-routes",
   definition: "the routes archiveofworlds.app serves",

@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const instantPropertySlugClosesWithAt = {
   id: "01a058fe-c486-7dda-9fda-4e08c8681e57",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "instant-property-slug-closes-with-at",
   definition:

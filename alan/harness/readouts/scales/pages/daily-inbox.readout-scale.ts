@@ -2,7 +2,6 @@ import type { ReadoutScale } from "akasha/alan/harness/readouts/scales/readout-s
 
 export const dailyInbox = {
   id: "01a06230-b155-714b-a469-f3da2c38d3a6",
-  pageTypeSlug: "readout-scale",
   type: "readout-scale",
   slug: "daily-inbox",
   definition: "how much is waiting in an inbox meant to be emptied each day",

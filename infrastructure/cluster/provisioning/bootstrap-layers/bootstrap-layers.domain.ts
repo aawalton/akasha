@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const bootstrapLayers = {
   id: "01a0675b-16d6-7813-8ade-362de2107d1b",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "bootstrap-layers",
   definition: "the ordered stages an empty cluster is brought up in",

@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const componentsViewEngine = {
   id: "01a071d3-819f-77d0-818b-e7da6441196a",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "components-view-engine",
   definition: "the rows a view draws on screen",

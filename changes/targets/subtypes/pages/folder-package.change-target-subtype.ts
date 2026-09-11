@@ -2,7 +2,6 @@ import type { ChangeTargetSubtype } from "akasha/changes/targets/subtypes/change
 
 export const folderPackage = {
   id: "01a07c7a-711a-7aa6-8c17-9a7e184b842e",
-  pageTypeSlug: "change-target-subtype",
   type: "change-target-subtype",
   slug: "folder-package",
   definition: "a folder with a workspace package",

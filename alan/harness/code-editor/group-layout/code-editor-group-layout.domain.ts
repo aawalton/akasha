@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const codeEditorGroupLayout = {
   id: "01a0675b-16db-7c58-93b5-c4cb07d8defe",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "code-editor-group-layout",
   definition: "the grid the editor's groups are arranged in",

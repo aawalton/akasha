@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const lintClean = {
   id: "01a04eec-d235-7000-9f19-d65076b0c634",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "lint-clean",
   definition: "the check refusing a change the linter finds fault in",

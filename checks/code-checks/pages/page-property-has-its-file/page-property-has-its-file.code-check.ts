@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const pagePropertyHasItsFile = {
   id: "01a04d86-434f-7119-b8cc-858d63edf631",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "page-property-has-its-file",
   definition: "the check refusing a page that states a property held in a file it does not have",

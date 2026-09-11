@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const designPatterns = {
   id: "01a05c51-8287-7dba-82e4-64786876e805",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "design-patterns",
   definition: "the recurring pieces a list, a card and a toolbar are built from",

@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const utilsNarrow = {
   id: "01a05c94-2c03-7ab7-b93f-49a8ed498a29",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "utils-narrow",
   definition: "how a wide value is read as the narrow one it must be, or refused",

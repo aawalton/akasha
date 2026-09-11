@@ -2,7 +2,6 @@ import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interfa
 
 export const mediaConsoleBackupfontZh = {
   id: "01a06069-f8c2-7d10-a29c-1b650054be54",
-  pageTypeSlug: "eso-interface",
   type: "eso-interface",
   slug: "media-console-backupfont-zh",
   definition: "the fallback fonts a console client loads for Chinese",

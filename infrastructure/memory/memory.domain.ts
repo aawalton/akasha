@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const memory = {
   id: "01a09115-c783-7db5-b3bb-5b8349b6b51d",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "memory",
   definition: "where bytes live while a program holds them",

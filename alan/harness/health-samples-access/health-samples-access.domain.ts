@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const healthSamplesAccess = {
   id: "01a05bc7-9129-7000-a4ef-ca6a1a3463b1",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "health-samples-access",
   definition: "step and calorie readings kept on the ESO day each began in",

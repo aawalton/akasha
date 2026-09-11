@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const pagesUiFrame = {
   id: "01a071cf-928b-7c4c-91ab-a706461ea825",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "pages-ui-frame",
   definition: "the frame a page is drawn inside",

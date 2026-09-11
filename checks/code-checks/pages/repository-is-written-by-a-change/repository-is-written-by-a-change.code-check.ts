@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const repositoryIsWrittenByAChange = {
   id: "01a08299-65c2-7c83-9d05-8a3e841dfe48",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "repository-is-written-by-a-change",
   definition: "the check refusing code outside the changes that writes into the repository",

@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperEsoTypes = {
   id: "01a0608f-b078-7ec9-8793-92de8b04a299",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-eso-types",
   definition: "the types a compiler reads for the globals an Elder Scrolls Online addon runs among",

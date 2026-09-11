@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const components = {
   id: "01a0613d-bbb1-7000-a299-964eee1c712c",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "components",
   definition: "the parts a page and its listings are drawn from",

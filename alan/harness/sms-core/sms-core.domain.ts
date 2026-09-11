@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const smsCore = {
   id: "01a05b6f-999c-7a6b-9de1-eb062ff820b3",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "sms-core",
   definition: "how a text message from a phone reaches the seat that answers it",

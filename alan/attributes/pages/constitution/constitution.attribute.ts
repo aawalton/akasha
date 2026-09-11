@@ -2,7 +2,6 @@ import type { Attribute } from "akasha/alan/attributes/attribute.page-type.types
 
 export const constitution = {
   id: "01a06841-a158-76c3-9089-9842c06dc7c0",
-  pageTypeSlug: "attribute",
   type: "attribute",
   slug: "constitution",
   definition: "what Alan has built by eating whole plants",

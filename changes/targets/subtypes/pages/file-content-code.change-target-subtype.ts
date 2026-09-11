@@ -2,7 +2,6 @@ import type { ChangeTargetSubtype } from "akasha/changes/targets/subtypes/change
 
 export const fileContentCode = {
   id: "01a07c7a-1d86-7649-a845-20b1ea1df964",
-  pageTypeSlug: "change-target-subtype",
   type: "change-target-subtype",
   slug: "file-content-code",
   definition: "a body read as code",

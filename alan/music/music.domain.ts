@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const music = {
   id: "01a06222-4d01-78f8-8ed6-e3f5ec16f8a3",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "music",
   definition: "music heard and what is kept of it",

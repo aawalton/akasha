@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const inferenceClients = {
   id: "01a0682d-8f07-7000-ab6b-b7ebbf0863a0",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "inference-clients",
   definition: "how a caller reaches a model service and reads back what that service made",

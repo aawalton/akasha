@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const noEnumOrNamespace = {
   id: "01a04bc8-6c55-748f-89e3-72c3b8da2444",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "no-enum-or-namespace",
   definition: "the check refusing an enum or a named namespace",

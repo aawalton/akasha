@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const bookOfEverythingCommands = {
   id: "01a06862-5a9b-71d6-99e3-546a60266903",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "book-of-everything-commands",
   definition: "what an agent runs by name over how far Ali and Alan have got through the book",

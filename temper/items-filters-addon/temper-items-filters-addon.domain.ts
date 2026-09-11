@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperItemsFiltersAddon = {
   id: "01a0614b-6734-767e-be82-2cfd13e1d6a8",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-items-filters-addon",
   definition:

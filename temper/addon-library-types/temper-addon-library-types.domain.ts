@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperAddonLibraryTypes = {
   id: "01a06090-f5ac-7f47-be1b-dc303670f2ad",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-addon-library-types",
   definition: "the types a compiler reads for the libraries an Elder Scrolls Online addon calls",

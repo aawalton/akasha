@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const browserCodeReadsTheEnvironmentByAName = {
   id: "01a08dbe-1652-7000-bba4-cd7488c7a8ec",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "browser-code-reads-the-environment-by-a-name",
   definition:

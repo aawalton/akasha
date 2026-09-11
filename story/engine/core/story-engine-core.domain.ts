@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const storyEngineCore = {
   id: "01a05b71-e544-7ab9-87b3-b98dbd2ed891",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "story-engine-core",
   definition: "the shapes and the rules of an Awen game, shared by everything that runs one",

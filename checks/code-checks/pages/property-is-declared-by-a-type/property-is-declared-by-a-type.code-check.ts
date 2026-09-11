@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const propertyIsDeclaredByAType = {
   id: "01a04ef8-1a07-722c-a247-40e6a9069ce4",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "property-is-declared-by-a-type",
   definition: "the check refusing a page property that no page type declares",

@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperSavedVarsMigration = {
   id: "01a06072-5abb-776e-b9a1-6393d03e042b",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-saved-vars-migration",
   definition: "carrying a player's saved variables over when addons are renamed or folded together",

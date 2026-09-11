@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const git = {
   id: "01a05d7f-23fc-7000-b2b7-266f4611121a",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "git",
   definition: "git run in a repository, and what it said",

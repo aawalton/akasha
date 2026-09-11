@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const healthSamplesDay = {
   id: "01a05bc7-9129-7007-82af-fd4145203797",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "health-samples-day",
   definition: "a day's health readings, counted from the moment that day opened",

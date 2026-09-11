@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const log = {
   id: "01a0658b-0f02-79a4-861b-f04b48ab54ce",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "log",
   definition: "the lines a program wrote about what it was doing",

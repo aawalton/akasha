@@ -2,7 +2,6 @@ import type { ChangeKind } from "akasha/changes/kinds/change-kind.page-type.type
 
 export const changeAuthored = {
   id: "01a05df1-e262-7648-bbe1-061d37bd706d",
-  pageTypeSlug: "change-kind",
   type: "change-kind",
   slug: "change-authored",
   definition: "a change composed by an agent",

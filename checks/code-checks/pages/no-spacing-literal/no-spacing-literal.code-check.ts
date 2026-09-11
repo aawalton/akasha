@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const noSpacingLiteral = {
   id: "01a0827a-4d80-79bc-bbe8-8a9a67dd2103",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "no-spacing-literal",
   definition:

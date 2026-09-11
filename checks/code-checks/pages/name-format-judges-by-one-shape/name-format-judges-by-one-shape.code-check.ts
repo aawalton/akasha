@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const nameFormatJudgesByOneShape = {
   id: "01a05946-775f-7000-9f76-45d9dcf376ed",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "name-format-judges-by-one-shape",
   definition: "the check refusing a name format not judging by one shape its own code hands over",

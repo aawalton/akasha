@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperPlayerCompletion = {
   id: "01a06103-061c-7f39-82ee-5a83ddec0f3d",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-player-completion",
   definition: "how much of The Elder Scrolls Online one player has finished, reckoned card by card",

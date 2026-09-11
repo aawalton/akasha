@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const handWrittenGlobalIsNoMethod = {
   id: "01a0823c-3bff-7d55-9301-1297ad069ef4",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "hand-written-global-is-no-method",
   definition:

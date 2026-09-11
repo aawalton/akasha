@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const phoneNumberIsE164 = {
   id: "01a058ff-c2b0-7d9c-814a-e78f75d41f67",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "phone-number-is-e164",
   definition: "the check refusing a phone number that is not written in E.164",

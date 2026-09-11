@@ -2,7 +2,6 @@ import type { ReadoutScale } from "akasha/alan/harness/readouts/scales/readout-s
 
 export const greenDayUnits = {
   id: "01a06297-07b1-7762-aa9f-d5a6cd460dd1",
-  pageTypeSlug: "readout-scale",
   type: "readout-scale",
   slug: "green-day-units",
   definition: "how much of a whole day's worth of one value a day came to",

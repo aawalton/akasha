@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const clusterApi = {
   id: "01a068d4-d2aa-79d4-b241-bf8c8672b7fd",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "cluster-api",
   definition: "how a program reaches the cluster's API server and what it asks of it",

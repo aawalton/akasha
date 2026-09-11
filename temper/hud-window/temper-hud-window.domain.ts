@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperHudWindow = {
   id: "01a060c4-17cf-71ca-8cd3-af5a3fa3c40d",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-hud-window",
   definition: "an addon window a player drags around the screen",

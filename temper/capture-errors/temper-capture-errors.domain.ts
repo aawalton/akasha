@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperCaptureErrors = {
   id: "01a0608a-15b2-7b81-afe8-cbf9d7803e3f",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-capture-errors",
   definition: "the shape an error raised inside the game takes where the game saves it",

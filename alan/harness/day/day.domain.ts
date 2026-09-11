@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const day = {
   id: "01a05c77-31e4-7f97-8fe6-c273915285af",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "day",
   definition: "which day an instant falls on, where a day does not start at midnight",

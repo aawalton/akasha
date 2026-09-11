@@ -2,7 +2,6 @@ import type { AppRoutes } from "akasha/code-system/app-routes/app-routes.page-ty
 
 export const temperWebRoutes = {
   id: "01a08be6-663c-7a22-88ef-561c8e79b266",
-  pageTypeSlug: "app-routes",
   type: "app-routes",
   slug: "temper-web-routes",
   definition: "the routes the Temper site serves",

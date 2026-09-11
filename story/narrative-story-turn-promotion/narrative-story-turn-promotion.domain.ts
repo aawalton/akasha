@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const narrativeStoryTurnPromotion = {
   id: "01a0675b-16f4-75bf-bef9-7a513c9dd7d7",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "narrative-story-turn-promotion",
   definition: "gathering played turns into a chapter",

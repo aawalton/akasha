@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const authProxy = {
   id: "01a06864-a443-7933-9156-35c26aacdfcf",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "auth-proxy",
   definition: "the server reading a request's session cookie before passing the request on",

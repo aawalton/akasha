@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperAddonData = {
   id: "01a062a9-3f10-7c41-b8e3-5d7420f9e1a6",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-addon-data",
   definition: "where each data file temper renders from its own pages is landed",

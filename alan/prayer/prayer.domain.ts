@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const prayer = {
   id: "01a0673a-bc3a-7006-887d-3f201ae6bded",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "prayer",
   definition: "Alan's reaching upward with someone in the room",

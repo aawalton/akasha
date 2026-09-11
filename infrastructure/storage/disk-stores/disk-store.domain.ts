@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const diskStore = {
   id: "01a0658b-0f02-7435-bfcf-e778c41f839f",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "disk-store",
   definition: "a node-pinned filesystem other stores rest on",

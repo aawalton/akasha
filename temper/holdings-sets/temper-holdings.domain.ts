@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperHoldings = {
   id: "01a05fac-7582-7d58-82ce-cb03ba05751f",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-holdings",
   definition: "what an account has and what the holdings are worth",

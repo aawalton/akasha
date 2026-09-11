@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const seatObservation = {
   id: "01a0658d-c92f-76f2-abb0-efb387b6515b",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "seat-observation",
   definition: "what a seat has because somebody looked",

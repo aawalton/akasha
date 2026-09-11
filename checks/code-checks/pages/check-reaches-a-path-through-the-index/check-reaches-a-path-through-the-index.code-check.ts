@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const checkReachesAPathThroughTheIndex = {
   id: "01a0824b-5ca1-7150-a799-fd2189f44fe4",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "check-reaches-a-path-through-the-index",
   definition: "the check refusing a page file that spells or lists a path the index answers for",

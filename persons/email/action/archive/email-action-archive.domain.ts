@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const emailActionArchive = {
   id: "01a0675b-16e2-769a-9b2a-c1b1edede150",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "email-action-archive",
   definition: "taking mail out of a person's inbox",

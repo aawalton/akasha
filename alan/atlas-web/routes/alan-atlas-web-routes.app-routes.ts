@@ -2,7 +2,6 @@ import type { AppRoutes } from "akasha/code-system/app-routes/app-routes.page-ty
 
 export const alanAtlasWebRoutes = {
   id: "01a08be5-61c3-741a-823e-0a08582a9f40",
-  pageTypeSlug: "app-routes",
   type: "app-routes",
   slug: "alan-atlas-web-routes",
   definition: "the routes Alan's map site serves",

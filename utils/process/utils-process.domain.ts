@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const utilsProcess = {
   id: "01a05c4f-6f2b-7cf2-8361-788954595f9a",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "utils-process",
   definition: "a process another did not start, read from outside it and ended from outside it",

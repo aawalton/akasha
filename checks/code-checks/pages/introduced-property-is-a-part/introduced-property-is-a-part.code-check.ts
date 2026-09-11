@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const introducedPropertyIsAPart = {
   id: "01a04f09-8646-7461-b69d-e026cd6561bf",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "introduced-property-is-a-part",
   definition: "the check with a page type to naming the properties it introduces among its parts",

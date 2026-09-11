@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperPlayerInventoryManagementUi = {
   id: "01a0636c-5da1-77be-aadf-aea8caa7006f",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-player-inventory-management-ui",
   definition: "the pages a browser manages one player's inventory from",

@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const keyNamesOneProperty = {
   id: "01a05424-3456-7724-8023-7e085329bffc",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "key-names-one-property",
   definition: "the check with each of a declarer's keys to one property, narrowed where restated",

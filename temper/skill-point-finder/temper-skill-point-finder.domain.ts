@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperSkillPointFinder = {
   id: "01a060ec-5852-77cf-a783-9e488f2d3a19",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-skill-point-finder",
   definition: "where a character's remaining skill points are, counted per zone and per dungeon",

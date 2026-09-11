@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const atlasApp = {
   id: "01a0673a-bc3a-7000-b348-2c5b74b7e901",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "atlas-app",
   definition: "the reader for the places held in collections",

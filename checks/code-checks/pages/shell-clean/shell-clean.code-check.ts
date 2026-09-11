@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const shellClean = {
   id: "01a05991-d997-76f5-a619-6ddb7444c34f",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "shell-clean",
   definition: "the check refusing a change shellcheck finds fault in",

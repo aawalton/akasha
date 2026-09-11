@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const capacity = {
   id: "01a06230-614e-7825-b4af-dd84fd42f0ce",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "capacity",
   definition: "how much stress capacity Alan's day has left him in hand",

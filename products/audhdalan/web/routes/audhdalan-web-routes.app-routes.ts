@@ -2,7 +2,6 @@ import type { AppRoutes } from "akasha/code-system/app-routes/app-routes.page-ty
 
 export const audhdalanWebRoutes = {
   id: "01a08bdf-ff09-7348-bca5-28dcbe2f36ee",
-  pageTypeSlug: "app-routes",
   type: "app-routes",
   slug: "audhdalan-web-routes",
   definition: "the routes audhdalan.com serves",

@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const typecheck = {
   id: "01a04bcb-dff4-761a-856e-407fb6934b44",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "typecheck",
   definition: "the check refusing TypeScript that does not compile",

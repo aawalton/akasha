@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const model = {
   id: "01a0535c-f2cf-7edc-8a2e-f495d1255183",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "model",
   definition: "a model work can be put to",

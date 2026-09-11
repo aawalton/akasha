@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const invariantStatementIsPlain = {
   id: "01a05407-306d-7b50-85c4-bf43575aa786",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "invariant-statement-is-plain",
   definition: "the check refusing an invariant that is not written in plain language",

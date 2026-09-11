@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const plainLanguage = {
   id: "01a05d93-dbec-79d5-a299-9264b3de7464",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "plain-language",
   definition: "whether a sentence is written in plain language",

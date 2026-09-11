@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const identifierMatchesItsPlace = {
   id: "01a0500d-f968-74e7-b9a7-8394faa7a890",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "identifier-matches-its-place",
   definition: "the check refusing a declared name not written in the format its place states",

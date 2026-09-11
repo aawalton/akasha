@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const wanderingInn = {
   id: "01a06578-5721-7000-ac18-7acf6bd4ad0b",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "wandering-inn",
   definition: "The Wandering Inn as a website read for its chapters",

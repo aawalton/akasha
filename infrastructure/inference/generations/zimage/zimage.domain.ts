@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const zimage = {
   id: "01a06815-9efd-7032-89aa-a2f0ea5e1881",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "zimage",
   definition: "images made from a prompt by the Z-Image diffusion model",

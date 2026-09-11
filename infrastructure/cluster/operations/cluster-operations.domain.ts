@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const clusterOperations = {
   id: "01a06865-abff-7010-adce-58aea93b2f89",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "cluster-operations",
   definition: "the cluster tended by hand from the workstation",

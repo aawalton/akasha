@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperItemsRulesRouting = {
   id: "01a0615a-a1de-7f51-9fb6-fb90ff022184",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-items-rules-routing",
   definition: "a whole management session planned out of the rules and the captured holdings",

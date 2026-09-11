@@ -2,7 +2,6 @@ import type { ReadoutWidget } from "akasha/alan/harness/readouts/widgets/readout
 
 export const alanwaltonCost = {
   id: "01a08bb5-da56-760a-869f-9f74dc5bb31f",
-  pageTypeSlug: "readout-widget",
   type: "readout-widget",
   slug: "alanwalton-cost",
   definition: "the tile on Alan's phone showing what the block he is in costs him each hour",

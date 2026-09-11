@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const readoutColor = {
   id: "01a0655b-9cdd-71e6-ac89-7f0145ea6ea3",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "readout-color",
   definition: "the color a readout is drawn in",

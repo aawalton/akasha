@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const changeMechanicalFileRemove = {
   id: "01a07cbe-1911-72dc-869f-8e733656bc1b",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "change-mechanical-file-remove",
   definition: "a mechanical change taking a file away",

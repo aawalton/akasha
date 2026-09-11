@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperLorebooks = {
   id: "01a06176-9c44-7c00-8a3b-7cf902e62430",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-lorebooks",
   definition:

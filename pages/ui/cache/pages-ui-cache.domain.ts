@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const pagesUiCache = {
   id: "01a071cf-25b5-79d7-8f2c-eabab6748229",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "pages-ui-cache",
   definition: "an answer held from before",

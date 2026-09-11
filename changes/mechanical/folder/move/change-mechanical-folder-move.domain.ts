@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const changeMechanicalFolderMove = {
   id: "01a0822c-3027-7333-baae-fac9c7412202",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "change-mechanical-folder-move",
   definition: "a mechanical change moving a folder to another path",

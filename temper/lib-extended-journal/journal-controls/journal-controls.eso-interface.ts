@@ -2,7 +2,6 @@ import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interfa
 
 export const journalControls = {
   id: "01a0617d-544f-7967-a1b8-c193328aa344",
-  pageTypeSlug: "eso-interface",
   type: "eso-interface",
   slug: "journal-controls",
   definition: "the fonts, labels and tooltip sections the journal window is drawn from",

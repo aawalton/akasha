@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const pagesUi = {
   id: "01a05c0f-884e-7019-b4e6-08b3faac2e0b",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "pages-ui",
   definition: "what draws pages in a browser and takes what a reader does to them",

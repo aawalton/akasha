@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const romance = {
   id: "01a0673a-bc3a-7005-88bf-8400c8981697",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "romance",
   definition: "Alan's marriage to Jen and how he turns toward her",

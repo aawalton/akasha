@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const statusBarAccess = {
   id: "01a05c9d-4096-7000-9ca0-5ff9f4e38802",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "status-bar-access",
   definition: "a day's cardio reading, drawn from the health samples a watch recorded",

@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperWatcher = {
   id: "01a06039-9c87-70d4-a728-02d7341ee89e",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-watcher",
   definition: "what carries what Alan did in the game across to the web",

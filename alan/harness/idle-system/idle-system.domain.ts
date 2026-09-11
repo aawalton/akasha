@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const idleSystem = {
   id: "01a05b63-a6e5-7573-b275-3738b378b2a5",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "idle-system",
   definition: "the rules an idle game's roster earns and grows by",

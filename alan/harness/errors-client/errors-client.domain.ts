@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const errorsClient = {
   id: "01a05c89-6033-7676-ba14-f9bfd36ca899",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "errors-client",
   definition: "an error caught in a browser sent to the site that served it",

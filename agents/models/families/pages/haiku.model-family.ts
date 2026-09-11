@@ -2,7 +2,6 @@ import type { ModelFamily } from "akasha/agents/models/families/model-family.pag
 
 export const haiku = {
   id: "01a0535c-f2cf-7a81-8244-06707c1520b8",
-  pageTypeSlug: "model-family",
   type: "model-family",
   slug: "haiku",
   definition: "least expensive, least capable",

@@ -2,7 +2,6 @@ import type { ChangeKind } from "akasha/changes/kinds/change-kind.page-type.type
 
 export const changeRestated = {
   id: "01a07245-0dbf-7539-b0dc-ce6281aa96e8",
-  pageTypeSlug: "change-kind",
   type: "change-kind",
   slug: "change-restated",
   definition: "a change saying what a page already said in other words",

@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const type = {
   id: "01a049e9-651c-7006-896c-2bffa71e2d0a",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "type",
   definition: "the shape a value must have",

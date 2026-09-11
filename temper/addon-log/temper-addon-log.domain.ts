@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperAddonLog = {
   id: "01a08e26-d48c-7a39-8610-6270e3e33c8f",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-addon-log",
   definition: "the lines an add-on writes about its own working while the game runs",

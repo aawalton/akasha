@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperCaptureDataminingReader = {
   id: "01a0609d-90dd-75fe-af4b-e55cf72da4b3",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-capture-datamining-reader",
   definition: "what the datamining addon wrote out, read back and checked",

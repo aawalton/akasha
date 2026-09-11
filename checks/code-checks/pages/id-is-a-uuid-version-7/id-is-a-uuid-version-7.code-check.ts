@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const idIsAUuidVersion7 = {
   id: "01a04bcb-c6f6-726e-ad7e-718958087eb4",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "id-is-a-uuid-version-7",
   definition:

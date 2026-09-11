@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperItemBrowser = {
   id: "01a06178-3724-7ee9-b831-46e112ae8a76",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-item-browser",
   definition:

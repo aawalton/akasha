@@ -2,7 +2,6 @@ import type { ReadoutScale } from "akasha/alan/harness/readouts/scales/readout-s
 
 export const liveCount = {
   id: "01a06559-e74c-7505-a0c3-0cea87098a33",
-  pageTypeSlug: "readout-scale",
   type: "readout-scale",
   slug: "live-count",
   definition: "how many of something are open at once",

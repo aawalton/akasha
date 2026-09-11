@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperPlayerCompletionSkillsMorphsUi = {
   id: "01a06270-883d-7002-9d36-997c74946d96",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-player-completion-skills-morphs-ui",
   definition: "the cards a browser gives one player's skill morph progress in",

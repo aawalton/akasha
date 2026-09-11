@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperExplain = {
   id: "01a06036-188b-7300-a40a-cf64d7d65a8b",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-explain",
   definition: "an account of what the inventory rules did to one item",

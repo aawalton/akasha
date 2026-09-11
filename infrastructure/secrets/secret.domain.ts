@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const secret = {
   id: "01a0658b-0f02-7e04-9f41-f50f0f067218",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "secret",
   definition: "a value kept from everything that does not need it",

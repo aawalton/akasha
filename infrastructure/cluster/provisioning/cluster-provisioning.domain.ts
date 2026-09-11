@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const clusterProvisioning = {
   id: "01a0675b-16d9-7eab-a110-f106ca00dad1",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "cluster-provisioning",
   definition: "bringing an empty cluster up to where the pipeline can run",

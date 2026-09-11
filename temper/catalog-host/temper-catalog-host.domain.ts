@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperCatalogHost = {
   id: "01a06084-d41a-7744-abe5-6e332b80d93e",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-catalog-host",
   definition: "what the catalog addon saved, read back as one summary for each account",

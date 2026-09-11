@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const engine = {
   id: "01a05bc6-fa4a-7005-8f08-d59b290679dd",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "engine",
   definition: "how one attack in a tower game is worked out from two sheets and a seed",

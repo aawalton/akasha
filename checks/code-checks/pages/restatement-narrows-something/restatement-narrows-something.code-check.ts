@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const restatementNarrowsSomething = {
   id: "01a058ff-fbf9-76dc-8437-ad9a61e75657",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "restatement-narrows-something",
   definition: "the check refusing a restatement of an inherited property that narrows nothing",

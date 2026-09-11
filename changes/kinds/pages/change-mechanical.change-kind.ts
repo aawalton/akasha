@@ -2,7 +2,6 @@ import type { ChangeKind } from "akasha/changes/kinds/change-kind.page-type.type
 
 export const changeMechanical = {
   id: "01a05df1-e262-72e3-8f24-d6e5e4ed122d",
-  pageTypeSlug: "change-kind",
   type: "change-kind",
   slug: "change-mechanical",
   definition: "a change composed by a program",

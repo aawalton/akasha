@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const library = {
   id: "01a06574-0291-7000-bfeb-0932b2156cac",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "library",
   definition: "what Alan works through, and how far through it he has got",

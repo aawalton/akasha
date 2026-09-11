@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const noTmp = {
   id: "01a04ecb-5cd1-7000-8159-83b7e93d72b9",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "no-tmp",
   definition: "the check refusing a reach for /tmp, where no scratch of ours sits",

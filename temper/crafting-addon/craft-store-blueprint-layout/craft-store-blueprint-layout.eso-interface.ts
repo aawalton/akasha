@@ -2,7 +2,6 @@ import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interfa
 
 export const craftStoreBlueprintLayout = {
   id: "01a061c7-e8bf-7fc9-acb8-3f819b78d2e8",
-  pageTypeSlug: "eso-interface",
   type: "eso-interface",
   slug: "craft-store-blueprint-layout",
   definition: "the furnishing-blueprint window and its list",

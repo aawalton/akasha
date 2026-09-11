@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const clientReachesAServerModuleThroughARoute = {
   id: "01a0826b-f1ac-77a7-8379-299804f515d2",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "client-reaches-a-server-module-through-a-route",
   definition:

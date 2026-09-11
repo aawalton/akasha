@@ -2,7 +2,6 @@ import type { ReadoutWidget } from "akasha/alan/harness/readouts/widgets/readout
 
 export const alanwaltonInboxStoplights = {
   id: "01a06420-b259-7991-800b-7019c1efb1c2",
-  pageTypeSlug: "readout-widget",
   type: "readout-widget",
   slug: "alanwalton-inbox-stoplights",
   definition: "the tile on Alan's phone showing how much waits in each of his inboxes",

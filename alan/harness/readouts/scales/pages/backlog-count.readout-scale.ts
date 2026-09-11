@@ -2,7 +2,6 @@ import type { ReadoutScale } from "akasha/alan/harness/readouts/scales/readout-s
 
 export const backlogCount = {
   id: "01a05453-a4f1-7185-b176-4cc4ae7266f6",
-  pageTypeSlug: "readout-scale",
   type: "readout-scale",
   slug: "backlog-count",
   definition: "how many items are still waiting",

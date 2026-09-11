@@ -2,7 +2,6 @@ import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interfa
 
 export const lorebooksReportLayout = {
   id: "01a0624c-a660-70e7-ac40-0ff60904655d",
-  pageTypeSlug: "eso-interface",
   type: "eso-interface",
   slug: "lorebooks-report-layout",
   definition: "the lore library search box and the two report windows the lorebook tracker fills",

@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperBuildCodec = {
   id: "01a062e7-4dd4-7379-91b1-47690a52822a",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-build-codec",
   definition:

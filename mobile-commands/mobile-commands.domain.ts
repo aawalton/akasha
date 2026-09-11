@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const mobileCommands = {
   id: "01a0685d-ceae-7000-bca6-75f9319e56ca",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "mobile-commands",
   definition: "what an agent runs by name over the ios apps and the simulator driving them",

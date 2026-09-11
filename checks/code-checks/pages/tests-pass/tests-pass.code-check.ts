@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const testsPass = {
   id: "01a04eb6-9214-7000-be71-821a1a582fbe",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "tests-pass",
   definition: "the check refusing a change whose tests do not pass",

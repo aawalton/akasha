@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const recipientResolving = {
   id: "01a08857-a2cc-78af-ab64-4af2c5f058bf",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "recipient-resolving",
   definition: "who a message reaches",

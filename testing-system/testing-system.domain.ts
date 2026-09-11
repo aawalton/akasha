@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const testingSystem = {
   id: "01a04ee7-be05-75c4-ba3c-3fd73f943961",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "testing-system",
   definition: "what a test sets up to try something, and what it takes away after",

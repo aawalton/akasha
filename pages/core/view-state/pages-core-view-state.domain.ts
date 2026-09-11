@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const pagesCoreViewState = {
   id: "01a071cb-7212-7f03-b59e-099c65e92766",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "pages-core-view-state",
   definition: "what a view has between one change and the next",

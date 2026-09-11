@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const database = {
   id: "01a0658b-0f02-739d-a425-d0d2ab58c103",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "database",
   definition: "the queryable store",

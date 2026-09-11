@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const sleep = {
   id: "01a06220-ef8c-735b-b8a1-1cb4507d71b0",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "sleep",
   definition: "the hours Alan logs sleeping across a day's stretches",

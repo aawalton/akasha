@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const fileLength = {
   id: "01a04bcb-c6e7-7e01-9b01-3cad38df56be",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "file-length",
   definition: "the check refusing a file whose body is over the byte ceiling its kind is held to",

@@ -2,7 +2,6 @@ import type { Value } from "akasha/alan/values/value.page-type.types.ts"
 
 export const learn = {
   id: "019eb7d1-0072-7909-a9a7-6fa76806f067",
-  pageTypeSlug: "value",
   type: "value",
   slug: "learn",
   definition: "the understanding Alan builds",

@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const test = {
   id: "01a04f3e-eea5-79ee-8d0b-c822c492a981",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "test",
   definition: "a run holding code to what its page says of it",

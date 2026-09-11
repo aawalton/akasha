@@ -2,7 +2,6 @@ import type { ModelFamily } from "akasha/agents/models/families/model-family.pag
 
 export const fable = {
   id: "01a0535c-f2cf-76a6-9f82-8913de63ae7e",
-  pageTypeSlug: "model-family",
   type: "model-family",
   slug: "fable",
   definition: "most expensive, most capable",

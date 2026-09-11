@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const identifierNamesOnePage = {
   id: "01a04f76-7430-7672-ac69-f8976ad2dc93",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "identifier-names-one-page",
   definition: "the check refusing a page with an identifier another page already has",

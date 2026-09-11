@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const popoverKeepsItsViewportCap = {
   id: "01a082e9-5908-74cf-8d6f-521d3e9c7a79",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "popover-keeps-its-viewport-cap",
   definition:

@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const utilsHashing = {
   id: "01a08ef4-823c-768d-8a6d-6d848d6866af",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "utils-hashing",
   definition: "a body reduced to the digest that names it",

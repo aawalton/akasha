@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const esoRig = {
   id: "01a06866-58f8-7e5f-853a-325ce7e59667",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "eso-rig",
   definition: "the substrate a Windows game client runs on with no display, keyboard or human",

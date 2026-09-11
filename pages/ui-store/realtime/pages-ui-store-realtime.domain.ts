@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const pagesUiStoreRealtime = {
   id: "01a071cc-22d5-7e1b-a68d-925788d75f43",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "pages-ui-store-realtime",
   definition: "a change arriving from the server as it happens",

@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const requireImportExtension = {
   id: "01a04bcb-c714-7fdf-aa64-e2ff68d4f69b",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "require-import-extension",
   definition:

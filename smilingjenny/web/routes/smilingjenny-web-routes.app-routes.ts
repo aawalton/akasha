@@ -2,7 +2,6 @@ import type { AppRoutes } from "akasha/code-system/app-routes/app-routes.page-ty
 
 export const smilingjennyWebRoutes = {
   id: "01a08be0-c736-78bf-a742-a76759c4c2a4",
-  pageTypeSlug: "app-routes",
   type: "app-routes",
   slug: "smilingjenny-web-routes",
   definition: "the routes Jenny's site serves",

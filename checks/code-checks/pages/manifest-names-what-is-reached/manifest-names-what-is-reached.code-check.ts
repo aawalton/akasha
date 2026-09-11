@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const manifestNamesWhatIsReached = {
   id: "01a0597b-d723-72c8-ab64-118c9e5eb650",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "manifest-names-what-is-reached",
   definition:

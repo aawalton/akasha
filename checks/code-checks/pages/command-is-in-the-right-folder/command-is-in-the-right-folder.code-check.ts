@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const commandIsInTheRightFolder = {
   id: "01a08d69-0b2e-7025-abd3-c4abe10799be",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "command-is-in-the-right-folder",
   definition:

@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const monarchEval = {
   id: "01a07740-d031-7503-a291-ce61a5f353a4",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "monarch-eval",
   definition:

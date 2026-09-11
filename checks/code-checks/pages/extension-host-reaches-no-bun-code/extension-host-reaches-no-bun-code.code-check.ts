@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const extensionHostReachesNoBunCode = {
   id: "01a08bad-b6e5-7ef8-a15c-48d03c50fc1c",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "extension-host-reaches-no-bun-code",
   definition: "the check refusing bun code in the graph the editor's node host loads",

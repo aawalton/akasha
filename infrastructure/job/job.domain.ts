@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const job = {
   id: "01a0675b-16eb-7759-adf7-dac753ca5b98",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "job",
   definition: "a workload that runs to completion and stops",

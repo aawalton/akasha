@@ -2,7 +2,6 @@ import type { Value } from "akasha/alan/values/value.page-type.types.ts"
 
 export const faith = {
   id: "019eb7d0-f2ce-7404-ac55-828a43bc73cf",
-  pageTypeSlug: "value",
   type: "value",
   slug: "faith",
   definition: "Alan becoming who he is",

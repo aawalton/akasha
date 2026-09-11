@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const noRuleInTwoFiles = {
   id: "01a04ea7-b2ea-7085-ba99-952e24d4a8bb",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "no-rule-in-two-files",
   definition: "the check refusing a function whose rule is spelled in another file as well",

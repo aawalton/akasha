@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const authoring = {
   id: "01a0657d-b91d-7000-a1e5-8f2537828ffb",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "authoring",
   definition: "the books Alan writes with a persona",

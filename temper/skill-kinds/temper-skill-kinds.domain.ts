@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperSkillKinds = {
   id: "01a060db-b2bf-75cc-8809-206da241df83",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-skill-kinds",
   definition:

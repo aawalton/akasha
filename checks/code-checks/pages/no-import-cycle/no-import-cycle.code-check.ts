@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const noImportCycle = {
   id: "01a05002-dac4-7a35-80c3-fbc46969dbab",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "no-import-cycle",
   definition: "the check refusing a module under akasha that imports its way back around to itself",

@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const noGlobalInAModule = {
   id: "01a061f4-5ea3-75e0-bcb9-903223ba2331",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "no-global-in-a-module",
   definition: "the check refusing a module body that declares a global",

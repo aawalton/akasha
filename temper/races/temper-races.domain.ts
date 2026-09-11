@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperRaces = {
   id: "01a0608a-c133-7d7f-96d5-f0070cf3a77a",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-races",
   definition: "the playable races an Elder Scrolls Online character is born into",

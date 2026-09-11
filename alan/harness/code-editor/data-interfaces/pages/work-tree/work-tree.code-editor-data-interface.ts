@@ -2,7 +2,6 @@ import type { CodeEditorDataInterface } from "akasha/alan/harness/code-editor/da
 
 export const workTree = {
   id: "01a07235-8d09-7b14-8466-1f484c7d3657",
-  pageTypeSlug: "code-editor-data-interface",
   type: "code-editor-data-interface",
   slug: "work-tree",
   definition: "the rows the work panel draws",

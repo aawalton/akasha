@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperLccc = {
   id: "01a08d72-671a-7ba4-875c-f5296652fc14",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-lccc",
   definition: "the helper table an add-on leaves in the game's globals as LibCodesCommonCode",

@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperChampionPoints = {
   id: "01a06076-1b64-7dfd-b35b-f6c86003f6c1",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-champion-points",
   definition: "the champion stars a character earns past level fifty",

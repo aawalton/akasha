@@ -2,7 +2,6 @@ import type { ModelTestOutcome } from "akasha/agents/models/tests/outcomes/model
 
 export const positiveTrue = {
   id: "01a05905-af38-741e-87f4-ec98aebe9361",
-  pageTypeSlug: "model-test-outcome",
   type: "model-test-outcome",
   slug: "positive-true",
   definition: "a case the test flagged that is bad in the way the test measures",

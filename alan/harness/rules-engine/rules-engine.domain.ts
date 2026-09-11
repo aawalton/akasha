@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const rulesEngine = {
   id: "01a0657b-9adc-7003-a1af-d02c5457d479",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "rules-engine",
   definition: "what every rule set runs on",

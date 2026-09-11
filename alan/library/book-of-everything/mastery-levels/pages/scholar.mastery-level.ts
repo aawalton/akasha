@@ -2,7 +2,6 @@ import type { MasteryLevel } from "akasha/alan/library/book-of-everything/master
 
 export const scholar = {
   id: "01a0784a-cdb9-7a08-987d-f49f5a6368b3",
-  pageTypeSlug: "mastery-level",
   type: "mastery-level",
   slug: "scholar",
   definition: "a model that generates rather than recalls",

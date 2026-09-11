@@ -2,7 +2,6 @@ import type { MasteryLevel } from "akasha/alan/library/book-of-everything/master
 
 export const sage = {
   id: "01a0784a-cdb9-7d58-b895-18ea1f2c798a",
-  pageTypeSlug: "mastery-level",
   type: "mastery-level",
   slug: "sage",
   definition: "the frontier redrawn",

@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const googleDrive = {
   id: "01a05bec-fc09-7a61-8e09-909bc24a66c2",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "google-drive",
   definition: "reading a file out of Alan's Google Drive",

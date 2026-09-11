@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const personaPoints = {
   id: "01a0675b-16f8-7862-b5f6-3061651ce2a8",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "persona-points",
   definition: "a measure of the attention Alan gave one part of his life",

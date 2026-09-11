@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const supabaseServer = {
   id: "01a05c75-8718-772e-bcdb-e24fb342750c",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "supabase-server",
   definition: "the Supabase client a server holds, acting as the service role",

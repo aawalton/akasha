@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const calculationImportsOnlyTypes = {
   id: "01a07222-b261-7961-a84e-6a8e0c0e5ed3",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "calculation-imports-only-types",
   definition: "the check refusing an import a calculation cannot fold into its own text",

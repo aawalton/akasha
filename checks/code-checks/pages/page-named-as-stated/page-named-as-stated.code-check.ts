@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const pageNamedAsStated = {
   id: "01a04bcb-c705-720a-a6fb-4dbd5fee1594",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "page-named-as-stated",
   definition: "the check refusing a page whose file name or export name is not the name it states",

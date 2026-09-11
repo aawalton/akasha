@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const image = {
   id: "01a06553-a9b6-7281-9f32-c3201ea4a802",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "image",
   definition: "making an image from text or from another image",

@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const infrastructure = {
   id: "01a0658b-0f02-735b-af6a-28559398ee59",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "infrastructure",
   definition: "what the system runs on",

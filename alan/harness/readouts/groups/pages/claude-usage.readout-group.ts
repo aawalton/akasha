@@ -2,7 +2,6 @@ import type { ReadoutGroup } from "akasha/alan/harness/readouts/groups/readout-g
 
 export const claudeUsage = {
   id: "01a063bd-a526-78fb-9e89-7128b2bdd640",
-  pageTypeSlug: "readout-group",
   type: "readout-group",
   slug: "claude-usage",
   definition: "how much of the weekly Claude allowance is spent and when more arrives",

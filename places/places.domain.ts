@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const places = {
   id: "01a06590-0000-7000-8000-000000000201",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "places",
   definition: "the places somebody kept on the map and what is redeemable at them",

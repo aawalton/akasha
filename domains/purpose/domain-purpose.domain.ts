@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const domainPurpose = {
   id: "01a06815-ceaf-7ec0-aa99-46a5438ce629",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "domain-purpose",
   definition: "something a choice is made to serve",

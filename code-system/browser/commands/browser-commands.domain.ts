@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const browserCommands = {
   id: "01a06862-06c8-7000-8f27-5543118e4614",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "browser-commands",
   definition: "what an agent runs by name over a site it drives a browser against",

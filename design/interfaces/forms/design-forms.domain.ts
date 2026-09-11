@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const designForms = {
   id: "01a05b7e-679a-7735-bc0a-1abf739c0463",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "design-forms",
   definition: "the controls a form is built from",

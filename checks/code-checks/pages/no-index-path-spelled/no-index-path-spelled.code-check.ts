@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const noIndexPathSpelled = {
   id: "01a05350-50b5-76df-9760-b09c77c2ee7c",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "no-index-path-spelled",
   definition:

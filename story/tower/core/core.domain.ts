@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const core = {
   id: "01a05bc6-fa4a-7000-bf9b-15c368be5c0a",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "core",
   definition: "the shapes a tower game's characters, floors and saved state are stored in",

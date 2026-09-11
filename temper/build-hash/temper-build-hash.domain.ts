@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperBuildHash = {
   id: "01a062c4-7811-7457-9a0e-87d4906e32a4",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "temper-build-hash",
   definition:

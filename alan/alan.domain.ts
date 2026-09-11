@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const alan = {
   id: "01a05dfc-d883-7000-81e2-065c3cad4cec",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "alan",
   definition: "what belongs to Alan himself",

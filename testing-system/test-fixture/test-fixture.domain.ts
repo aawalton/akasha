@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const testFixture = {
   id: "01a04f3e-eea5-7c4e-a36d-40a390ffd6ef",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "test-fixture",
   definition: "the world a test is given to sit in",

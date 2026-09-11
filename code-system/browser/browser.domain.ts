@@ -2,7 +2,6 @@ import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const browser = {
   id: "01a06346-df12-7000-82c1-3f46040c2442",
-  pageTypeSlug: "domain",
   type: "domain",
   slug: "browser",
   definition: "a browser driven from code, and what is kept of a run",

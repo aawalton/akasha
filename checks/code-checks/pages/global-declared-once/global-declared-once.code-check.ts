@@ -2,7 +2,6 @@ import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.t
 
 export const globalDeclaredOnce = {
   id: "01a061ca-2484-773a-8dc7-e6a08fe588f9",
-  pageTypeSlug: "code-check",
   type: "code-check",
   slug: "global-declared-once",
   definition: "the check refusing a global name a declaration file and another file both declare",

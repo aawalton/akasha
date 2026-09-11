@@ -2,7 +2,6 @@ import type { MasteryLevel } from "akasha/alan/library/book-of-everything/master
 
 export const student = {
   id: "01a0784a-cdba-7ea0-ab7d-b3c46eb1c211",
-  pageTypeSlug: "mastery-level",
   type: "mastery-level",
   slug: "student",
   definition: "the taught account held and restated",
