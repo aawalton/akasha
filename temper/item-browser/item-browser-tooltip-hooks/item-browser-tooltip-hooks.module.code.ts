@@ -2,9 +2,9 @@ import {
   FLAG_SHOW_ACCOUNTS,
   FLAG_SHOW_HEADER,
   FLAG_SHOW_PIECES,
-} from "../item-browser-constants/item-browser-constants.module.code.ts"
-import { getVars } from "../item-browser-state/item-browser-state.module.code.ts"
-import { addTooltipExtension } from "../item-browser-tooltip-extension/item-browser-tooltip-extension.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-constants/item-browser-constants.module.code.ts"
+import { getVars } from "akasha/temper/item-browser/item-browser-state/item-browser-state.module.code.ts"
+import { addTooltipExtension } from "akasha/temper/item-browser/item-browser-tooltip-extension/item-browser-tooltip-extension.module.code.ts"
 
 type LinkFn = (this: void, ...args: unknown[]) => string
 

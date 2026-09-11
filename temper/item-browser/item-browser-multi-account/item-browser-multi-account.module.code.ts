@@ -1,8 +1,8 @@
-import { requireNumericKey } from "akasha/temper/narrow/require-numeric-key/require-numeric-key.module.code.ts"
 import {
   ADDON_NAME,
   PLEDGE_FILTER_ID,
-} from "../item-browser-constants/item-browser-constants.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-constants/item-browser-constants.module.code.ts"
+import { requireNumericKey } from "akasha/temper/narrow/require-numeric-key/require-numeric-key.module.code.ts"
 
 export type ValidatedLmas = LibMultiAccountSetsApi & {
   GetServerAndAccountList: (this: void, includeCurrent: boolean) => LmasServerEntry[]

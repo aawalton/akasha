@@ -1,12 +1,15 @@
-import { header } from "akasha/temper/settings-panel/header/header.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 import {
   ADDON_NAME,
   ADDON_URL,
-} from "../item-browser-constants/item-browser-constants.module.code.ts"
-import { getVars, setSettingsPanel } from "../item-browser-state/item-browser-state.module.code.ts"
-import { refreshCollections } from "../item-browser-tab/item-browser-tab.module.code.ts"
-import { hookExternalTooltips } from "../item-browser-tooltip-hooks/item-browser-tooltip-hooks.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-constants/item-browser-constants.module.code.ts"
+import {
+  getVars,
+  setSettingsPanel,
+} from "akasha/temper/item-browser/item-browser-state/item-browser-state.module.code.ts"
+import { refreshCollections } from "akasha/temper/item-browser/item-browser-tab/item-browser-tab.module.code.ts"
+import { hookExternalTooltips } from "akasha/temper/item-browser/item-browser-tooltip-hooks/item-browser-tooltip-hooks.module.code.ts"
+import { header } from "akasha/temper/settings-panel/header/header.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 
 export function registerSettingsPanel(this: void): undefined {
   const lam = LibCodesCommonCode.GetLibAddonMenu()

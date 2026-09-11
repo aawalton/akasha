@@ -5,13 +5,13 @@ import {
   FLAG_SHOW_HEADER,
   FLAG_SHOW_PIECES,
   MASK_HIDE_ACCOUNTS,
-} from "../item-browser-constants/item-browser-constants.module.code.ts"
-import { getLmas } from "../item-browser-multi-account/item-browser-multi-account.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-constants/item-browser-constants.module.code.ts"
+import { getLmas } from "akasha/temper/item-browser/item-browser-multi-account/item-browser-multi-account.module.code.ts"
 import {
   formatTransmuteCost,
   getItemAntiquitySetId,
   getVars,
-} from "../item-browser-state/item-browser-state.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-state/item-browser-state.module.code.ts"
 
 const ITEM_CATEGORIES: number[] = [
   GAMEPAD_ITEM_CATEGORY_LIGHT_ARMOR,

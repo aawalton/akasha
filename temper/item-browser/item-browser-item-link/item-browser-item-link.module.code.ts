@@ -1,13 +1,13 @@
 import {
   CRAFTED_ENCHANTMENTS,
   SORT_TYPE,
-} from "../item-browser-constants/item-browser-constants.module.code.ts"
-import { getData } from "../item-browser-data/item-browser-data.module.code.ts"
-import type { RawItem } from "../item-browser-items/item-browser-items.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-constants/item-browser-constants.module.code.ts"
+import { getData } from "akasha/temper/item-browser/item-browser-data/item-browser-data.module.code.ts"
+import type { RawItem } from "akasha/temper/item-browser/item-browser-items/item-browser-items.module.code.ts"
 import {
   countUnlockedSlots,
   getCurrencyCost,
-} from "../item-browser-multi-account/item-browser-multi-account.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-multi-account/item-browser-multi-account.module.code.ts"
 import {
   checkFlag,
   getAllianceStyle,
@@ -15,8 +15,8 @@ import {
   getMultiStyle,
   getVars,
   getZoneNameById,
-} from "../item-browser-state/item-browser-state.module.code.ts"
-import type { EntryData } from "../item-browser-types/item-browser-types.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-state/item-browser-state.module.code.ts"
+import type { EntryData } from "akasha/temper/item-browser/item-browser-types/item-browser-types.module.code.ts"
 
 function makeItemLink(this: void, id: number, flags: number, ext?: number): string {
   const flagDefs = getData().flags

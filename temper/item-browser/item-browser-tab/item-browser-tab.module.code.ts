@@ -2,16 +2,16 @@ import {
   ADDON_NAME,
   SLASH_COMMANDS_LIST,
   TAB_NAME,
-} from "../item-browser-constants/item-browser-constants.module.code.ts"
-import { createItemBrowserList } from "../item-browser-list/item-browser-list.module.code.ts"
-import { registerCollectionCallbacks } from "../item-browser-multi-account/item-browser-multi-account.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-constants/item-browser-constants.module.code.ts"
+import { createItemBrowserList } from "akasha/temper/item-browser/item-browser-list/item-browser-list.module.code.ts"
+import { registerCollectionCallbacks } from "akasha/temper/item-browser/item-browser-multi-account/item-browser-multi-account.module.code.ts"
 import {
   getAlwaysRefreshOnShow,
   getDirtiness,
   getInitialized,
   setDirtiness,
   setInitialized,
-} from "../item-browser-refresh-state/item-browser-refresh-state.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-refresh-state/item-browser-refresh-state.module.code.ts"
 import {
   getList,
   getSettingsPanel,
@@ -20,8 +20,8 @@ import {
   setColors,
   setList,
   setMultiStyle,
-} from "../item-browser-state/item-browser-state.module.code.ts"
-import type { ContextMenuFactory } from "../item-browser-types/item-browser-types.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-state/item-browser-state.module.code.ts"
+import type { ContextMenuFactory } from "akasha/temper/item-browser/item-browser-types/item-browser-types.module.code.ts"
 
 const CONTEXT_MENU_ITEMS: ContextMenuFactory[] = []
 

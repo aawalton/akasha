@@ -1,10 +1,13 @@
 import {
   FLAGS,
   type ItemFlags,
-} from "../item-browser-constants/item-browser-constants.module.code.ts"
-import { ITEMS, type RawItem } from "../item-browser-items/item-browser-items.module.code.ts"
-import { buildSpecialNames } from "../item-browser-special-names/item-browser-special-names.module.code.ts"
-import { ZONE_CLASSIFICATION } from "../item-browser-zone-classification/item-browser-zone-classification.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-constants/item-browser-constants.module.code.ts"
+import {
+  ITEMS,
+  type RawItem,
+} from "akasha/temper/item-browser/item-browser-items/item-browser-items.module.code.ts"
+import { buildSpecialNames } from "akasha/temper/item-browser/item-browser-special-names/item-browser-special-names.module.code.ts"
+import { ZONE_CLASSIFICATION } from "akasha/temper/item-browser/item-browser-zone-classification/item-browser-zone-classification.module.code.ts"
 
 export interface ItemBrowserData {
   readonly flags: ItemFlags

@@ -1,6 +1,6 @@
-import { ITEMS_PART_1 } from "../item-browser-items-1/item-browser-items-1.module.code.ts"
-import { ITEMS_PART_2 } from "../item-browser-items-2/item-browser-items-2.module.code.ts"
-import { ITEMS_PART_3 } from "../item-browser-items-3/item-browser-items-3.module.code.ts"
+import { ITEMS_PART_1 } from "akasha/temper/item-browser/item-browser-items-1/item-browser-items-1.module.code.ts"
+import { ITEMS_PART_2 } from "akasha/temper/item-browser/item-browser-items-2/item-browser-items-2.module.code.ts"
+import { ITEMS_PART_3 } from "akasha/temper/item-browser/item-browser-items-3/item-browser-items-3.module.code.ts"
 
 export interface RawItem {
   readonly id: number

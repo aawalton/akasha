@@ -1,6 +1,6 @@
-import { getData } from "../item-browser-data/item-browser-data.module.code.ts"
-import type { ItemBrowserVars } from "../item-browser-saved-vars/item-browser-saved-vars.module.code.ts"
-import type { ItemBrowserListInstance } from "../item-browser-types/item-browser-types.module.code.ts"
+import { getData } from "akasha/temper/item-browser/item-browser-data/item-browser-data.module.code.ts"
+import type { ItemBrowserVars } from "akasha/temper/item-browser/item-browser-saved-vars/item-browser-saved-vars.module.code.ts"
+import type { ItemBrowserListInstance } from "akasha/temper/item-browser/item-browser-types/item-browser-types.module.code.ts"
 
 export interface ItemBrowserColors {
   health: ZoColorDef

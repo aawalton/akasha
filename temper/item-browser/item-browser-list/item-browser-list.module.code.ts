@@ -2,12 +2,12 @@ import {
   DATA_TYPE,
   PLEDGE_FILTER_ID,
   SORT_TYPE,
-} from "../item-browser-constants/item-browser-constants.module.code.ts"
-import { getData } from "../item-browser-data/item-browser-data.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-constants/item-browser-constants.module.code.ts"
+import { getData } from "akasha/temper/item-browser/item-browser-data/item-browser-data.module.code.ts"
 import {
   createEntryFromRaw,
   getSetBonuses,
-} from "../item-browser-item-link/item-browser-item-link.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-item-link/item-browser-item-link.module.code.ts"
 import {
   checkForPledge,
   countUnlockedSlots,
@@ -18,20 +18,20 @@ import {
   getSelectedServer,
   setSelectedAccount,
   setSelectedServer,
-} from "../item-browser-multi-account/item-browser-multi-account.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-multi-account/item-browser-multi-account.module.code.ts"
 import {
   getInitialized,
   setAlwaysRefreshOnShow,
-} from "../item-browser-refresh-state/item-browser-refresh-state.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-refresh-state/item-browser-refresh-state.module.code.ts"
 import {
   formatTransmuteCost,
   getVars,
-} from "../item-browser-state/item-browser-state.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-state/item-browser-state.module.code.ts"
 import type {
   ContextMenuFactory,
   EntryData,
   ItemBrowserListInstance,
-} from "../item-browser-types/item-browser-types.module.code.ts"
+} from "akasha/temper/item-browser/item-browser-types/item-browser-types.module.code.ts"
 
 interface ItemBrowserListClass extends ItemBrowserListInstance {}
 
