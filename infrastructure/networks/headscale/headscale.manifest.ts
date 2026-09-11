@@ -22,7 +22,7 @@ export const headscale = {
     },
     {
       invariantKind: "departure",
-      statement: "The pod template carries the hash of the certificate secret.",
+      statement: "The pod template carries the hash of the headscale-tls secret.",
     },
     {
       invariantKind: "departure",
