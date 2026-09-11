@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const whatASeatHoldsIsMostlyScriptsTheAgentWroteItself = {
   id: "01a09176-3e89-7953-b285-19064e6f25a7",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "what-a-seat-holds-is-mostly-scripts-the-agent-wrote-itself",
   domain: "domain/memory-limit",

@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const addonGitIgnoreDuplicatesGitIgnore = {
   id: "01a060af-3215-77f0-9c54-a54dee18b4e0",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "addon-git-ignore-duplicates-git-ignore",
   domain: "domain/code-system",

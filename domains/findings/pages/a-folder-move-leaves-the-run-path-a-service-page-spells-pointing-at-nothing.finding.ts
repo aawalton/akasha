@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aFolderMoveLeavesTheRunPathAServicePageSpellsPointingAtNothing = {
   id: "01a08ddd-412d-7421-80d6-0a7adc38c497",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-folder-move-leaves-the-run-path-a-service-page-spells-pointing-at-nothing",
   domain: "domain/service",

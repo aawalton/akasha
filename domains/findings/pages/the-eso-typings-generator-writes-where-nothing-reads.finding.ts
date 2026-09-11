@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const theEsoTypingsGeneratorWritesWhereNothingReads = {
   id: "01a081a9-5ff3-7673-9322-73112d9446c5",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "the-eso-typings-generator-writes-where-nothing-reads",
   domain: "domain/temper-eso-typings",

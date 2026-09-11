@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aRouteFileCannotBeWrittenUntilItsAppHasBeenBuiltOnce = {
   id: "01a06c31-1b01-7000-b602-000000000003",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-route-file-cannot-be-written-until-its-app-has-been-built-once",
   domain: "domain/change",

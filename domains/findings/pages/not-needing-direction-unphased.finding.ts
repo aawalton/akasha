@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const notNeedingDirectionUnphased = {
   id: "01a06555-9f3e-7d90-a394-3ca48174b5d4",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "not-needing-direction-unphased",
   domain: "domain/all-about-alan",

@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const fourOfAlansDaysCarryNutritionPointsAFixtureWrote = {
   id: "01a068d1-d568-7000-923f-fbdf0be899c2",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "four-of-alans-days-carry-nutrition-points-a-fixture-wrote",
   domain: "domain/plants",

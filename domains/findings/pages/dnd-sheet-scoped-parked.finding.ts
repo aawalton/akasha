@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const dndSheetScopedParked = {
   id: "01a06555-9f3d-70b6-b5e0-04caac311b7c",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "dnd-sheet-scoped-parked",
   domain: "domain/all-about-alan",

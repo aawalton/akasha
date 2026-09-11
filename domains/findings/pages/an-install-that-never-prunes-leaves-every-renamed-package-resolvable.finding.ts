@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const anInstallThatNeverPrunesLeavesEveryRenamedPackageResolvable = {
   id: "01a07ce8-4293-77af-9c39-a58cc6557426",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "an-install-that-never-prunes-leaves-every-renamed-package-resolvable",
   domain: "domain/check",

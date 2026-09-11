@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const nothingLocalTellsAKeptCheckoutFromADiscardedOne = {
   id: "01a060ab-6301-77b6-a498-77c9fc58a04b",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "nothing-local-tells-a-kept-checkout-from-a-discarded-one",
   domain: "domain/health-samples-access",

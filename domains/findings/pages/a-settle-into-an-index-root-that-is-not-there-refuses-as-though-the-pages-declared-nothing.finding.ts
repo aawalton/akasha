@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aSettleIntoAnIndexRootThatIsNotThereRefusesAsThoughThePagesDeclaredNothing = {
   id: "01a0915d-029d-7966-b806-4efb04167ea2",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-settle-into-an-index-root-that-is-not-there-refuses-as-though-the-pages-declared-nothing",
   domain: "domain/index",

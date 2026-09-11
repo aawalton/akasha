@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aFoldLeavesAPackageSpecifierSpelledAsDataAndNothingJudgesIt = {
   id: "01a08908-45b6-7950-95db-0daed0db41c3",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-fold-leaves-a-package-specifier-spelled-as-data-and-nothing-judges-it",
   domain: "domain/change",

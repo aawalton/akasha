@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const monarchPollReturns0WhateverItsTallySays = {
   id: "01a061c8-e06e-7000-a5df-602fe51acf7b",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "monarch-poll-returns-0-whatever-its-tally-says",
   domain: "domain/monarch",

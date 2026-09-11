@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const anIsolatedCheckoutStillPushesToTheSharedRemote = {
   id: "01a060be-c946-7003-b783-d6cf1127590b",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "an-isolated-checkout-still-pushes-to-the-shared-remote",
   domain: "page-type/change",

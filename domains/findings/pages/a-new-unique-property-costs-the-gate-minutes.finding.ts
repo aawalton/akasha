@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aNewUniquePropertyCostsTheGateMinutes = {
   id: "01a062e3-c9e9-7b4d-a03c-a9e0ed13d154",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-new-unique-property-costs-the-gate-minutes",
   domain: "domain/check",

@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const mostMentionsOfPageTypeSlugAreNotThePageKey = {
   id: "01a08830-e34b-723b-8e6a-25f0afc6de8d",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "most-mentions-of-page-type-slug-are-not-the-page-key",
   domain: "domain/page",

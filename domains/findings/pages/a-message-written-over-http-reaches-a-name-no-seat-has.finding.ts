@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aMessageWrittenOverHttpReachesANameNoSeatHas = {
   id: "01a090e6-aeaf-7094-ac39-2512ec99ff59",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-message-written-over-http-reaches-a-name-no-seat-has",
   domain: "domain/messaging",

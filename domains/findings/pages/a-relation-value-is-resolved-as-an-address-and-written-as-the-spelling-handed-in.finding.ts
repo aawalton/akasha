@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aRelationValueIsResolvedAsAnAddressAndWrittenAsTheSpellingHandedIn = {
   id: "01a08898-7a11-78e6-8d14-68fc7f61fc6e",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-relation-value-is-resolved-as-an-address-and-written-as-the-spelling-handed-in",
   domain: "change-agent-file-content",

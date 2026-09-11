@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const noPassportPathChosen = {
   id: "01a06555-9f3e-7818-94f0-87a5bca66b32",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "no-passport-path-chosen",
   domain: "domain/all-about-alan",

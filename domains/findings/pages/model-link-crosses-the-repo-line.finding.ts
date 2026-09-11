@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const modelLinkCrossesTheRepoLine = {
   id: "01a06555-9f3e-7903-8c75-d798446897b0",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "model-link-crosses-the-repo-line",
   domain: "domain/all-about-alan",

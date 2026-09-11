@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const forkIsDispatchedWithNoKindPage = {
   id: "01a06dc2-4b27-7b44-bdd9-6e1d005492ab",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "fork-is-dispatched-with-no-kind-page",
   domain: "domain/seat-system",

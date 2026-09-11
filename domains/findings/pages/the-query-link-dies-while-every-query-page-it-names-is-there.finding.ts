@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const theQueryLinkDiesWhileEveryQueryPageItNamesIsThere = {
   id: "01a0641a-d59a-767f-b7f6-88ef4bbba035",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "the-query-link-dies-while-every-query-page-it-names-is-there",
   domain: "domain/readout",

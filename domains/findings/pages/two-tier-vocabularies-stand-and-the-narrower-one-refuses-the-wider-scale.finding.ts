@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const twoTierVocabulariesStandAndTheNarrowerOneRefusesTheWiderScale = {
   id: "01a0687b-de90-7002-9871-fd234bf619aa",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "two-tier-vocabularies-stand-and-the-narrower-one-refuses-the-wider-scale",
   domain: "domain/surplus",

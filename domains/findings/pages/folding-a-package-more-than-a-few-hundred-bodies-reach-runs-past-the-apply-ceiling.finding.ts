@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const foldingAPackageMoreThanAFewHundredBodiesReachRunsPastTheApplyCeiling = {
   id: "01a088aa-70c3-7546-9642-ed970139de37",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "folding-a-package-more-than-a-few-hundred-bodies-reach-runs-past-the-apply-ceiling",
   domain: "domain/change",

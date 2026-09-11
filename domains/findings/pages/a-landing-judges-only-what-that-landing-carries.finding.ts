@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aLandingJudgesOnlyWhatThatLandingCarries = {
   id: "01a08dea-fe42-712f-88be-65b324f8c798",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-landing-judges-only-what-that-landing-carries",
   domain: "domain/testing-system",

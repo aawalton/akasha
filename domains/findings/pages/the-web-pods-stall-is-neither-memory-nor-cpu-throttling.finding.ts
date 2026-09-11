@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const theWebPodsStallIsNeitherMemoryNorCpuThrottling = {
   id: "01a05e6a-b604-7b86-8854-91bc022ed40b",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "the-web-pods-stall-is-neither-memory-nor-cpu-throttling",
   domain: "service-cluster/alanwalton-web",

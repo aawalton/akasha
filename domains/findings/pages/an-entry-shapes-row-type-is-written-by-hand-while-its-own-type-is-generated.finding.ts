@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const anEntryShapesRowTypeIsWrittenByHandWhileItsOwnTypeIsGenerated = {
   id: "01a090cd-8841-7519-9fdc-0e95d1d9dcfe",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "an-entry-shapes-row-type-is-written-by-hand-while-its-own-type-is-generated",
   domain: "domain/page",

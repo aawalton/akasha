@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const seatPeaksAddToFourTimesWhatTheHostEverHeldAtOnce = {
   id: "01a0917a-bf0e-7c4d-b72c-3aa1b90918e6",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "seat-peaks-add-to-four-times-what-the-host-ever-held-at-once",
   domain: "domain/memory-limit",

@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const summariesOutrankTheSynthesis = {
   id: "01a06555-9f3e-7da1-be97-09d044b605b1",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "summaries-outrank-the-synthesis",
   domain: "domain/all-about-alan",

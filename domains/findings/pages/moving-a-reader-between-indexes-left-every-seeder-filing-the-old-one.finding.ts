@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const movingAReaderBetweenIndexesLeftEverySeederFilingTheOldOne = {
   id: "01a076f6-9f6d-7d55-b101-298d9fe4c6cd",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "moving-a-reader-between-indexes-left-every-seeder-filing-the-old-one",
   domain: "domain/page",

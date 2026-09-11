@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const everyNoteSixKinds = {
   id: "01a06555-9f3d-75bc-938c-b745abe49608",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "every-note-six-kinds",
   domain: "domain/all-about-alan",

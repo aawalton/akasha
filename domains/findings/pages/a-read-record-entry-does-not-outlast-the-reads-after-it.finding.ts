@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aReadRecordEntryDoesNotOutlastTheReadsAfterIt = {
   id: "01a06c31-1b01-7000-b602-000000000001",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-read-record-entry-does-not-outlast-the-reads-after-it",
   domain: "domain/seat-system",

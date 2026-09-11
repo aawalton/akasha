@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const greatCoursesNamesAPageTypeTheStoreDoesNotHold = {
   id: "01a06580-196a-7002-8a36-8ba9c3e2935e",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "great-courses-names-a-page-type-the-store-does-not-hold",
   domain: "domain/great-courses",

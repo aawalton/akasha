@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aTestFileOverItsProcessorBudgetRefusesEveryLandingThatTouchesIt = {
   id: "01a087c3-ceb6-78f9-93bb-3e8bf78c5029",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-test-file-over-its-processor-budget-refuses-every-landing-that-touches-it",
   domain: "domain/testing-system",

@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aPathHandedThroughAHeredocFenceKeepsItsNewlineAndAddFileTakesIt = {
   id: "01a0888a-0960-71c7-9ff5-8f849319875b",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-path-handed-through-a-heredoc-fence-keeps-its-newline-and-add-file-takes-it",
   domain: "change-agent-file",

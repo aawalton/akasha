@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const theAkashaDeployPathPlacesNoSecret = {
   id: "01a0683e-687e-75c1-bc1c-c1ce4c45dc1b",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "the-akasha-deploy-path-places-no-secret",
   domain: "domain/secret",

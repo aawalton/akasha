@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aRelayReportsSuccessCarryingAReadingNothingRefreshed = {
   id: "01a05e50-ef81-7702-a7a1-1eb6d61f4033",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-relay-reports-success-carrying-a-reading-nothing-refreshed",
   domain: "domain/readout",

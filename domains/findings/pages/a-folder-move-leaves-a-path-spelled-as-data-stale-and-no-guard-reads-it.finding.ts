@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aFolderMoveLeavesAPathSpelledAsDataStaleAndNoGuardReadsIt = {
   id: "01a08864-af81-7f30-ab3b-00862757bc03",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-folder-move-leaves-a-path-spelled-as-data-stale-and-no-guard-reads-it",
   domain: "domain/change",

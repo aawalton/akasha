@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const gardenYieldUnderOnePercent = {
   id: "01a06555-9f3e-7b37-8f13-dcbb84abea79",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "garden-yield-under-one-percent",
   domain: "domain/all-about-alan",

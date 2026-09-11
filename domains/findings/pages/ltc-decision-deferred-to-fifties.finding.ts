@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const ltcDecisionDeferredToFifties = {
   id: "01a06555-9f3e-7fbb-bf0d-613cc23cf1ff",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "ltc-decision-deferred-to-fifties",
   domain: "domain/all-about-alan",

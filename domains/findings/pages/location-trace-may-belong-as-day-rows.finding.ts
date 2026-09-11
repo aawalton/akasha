@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const locationTraceMayBelongAsDayRows = {
   id: "01a0683c-2a55-7412-8b3f-833d11e93320",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "location-trace-may-belong-as-day-rows",
   domain: "domain/track",

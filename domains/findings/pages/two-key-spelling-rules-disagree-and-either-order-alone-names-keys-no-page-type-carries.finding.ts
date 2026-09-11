@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const twoKeySpellingRulesDisagreeAndEitherOrderAloneNamesKeysNoPageTypeCarries = {
   id: "01a07323-840c-721f-8695-7431cb225c16",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "two-key-spelling-rules-disagree-and-either-order-alone-names-keys-no-page-type-carries",
   domain: "domain/page",

@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aGroupMayStateAMemoryCeilingAndNothingReadsIt = {
   id: "01a09169-7a7e-767e-b67f-52d5c9948835",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-group-may-state-a-memory-ceiling-and-nothing-reads-it",
   domain: "domain/memory-limit",

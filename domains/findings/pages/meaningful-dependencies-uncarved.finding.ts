@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const meaningfulDependenciesUncarved = {
   id: "01a06555-9f3e-77ef-b25a-1cbaf0bdd514",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "meaningful-dependencies-uncarved",
   domain: "domain/all-about-alan",

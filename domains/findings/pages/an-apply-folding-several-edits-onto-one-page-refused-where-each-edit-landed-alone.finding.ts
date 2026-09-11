@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const anApplyFoldingSeveralEditsOntoOnePageRefusedWhereEachEditLandedAlone = {
   id: "01a09153-23d4-7a60-9eb3-c2780ef509ef",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "an-apply-folding-several-edits-onto-one-page-refused-where-each-edit-landed-alone",
   domain: "domain/change",

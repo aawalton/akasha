@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const macStudioGatesTwoRemediations = {
   id: "01a06555-9f3e-743e-94d2-1f3bca617e70",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "mac-studio-gates-two-remediations",
   domain: "domain/all-about-alan",

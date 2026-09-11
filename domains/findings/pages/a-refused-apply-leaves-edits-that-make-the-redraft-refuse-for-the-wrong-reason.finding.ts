@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aRefusedApplyLeavesEditsThatMakeTheRedraftRefuseForTheWrongReason = {
   id: "01a08353-7557-71c8-8ed0-da6d9e6d6853",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-refused-apply-leaves-edits-that-make-the-redraft-refuse-for-the-wrong-reason",
   domain: "page-type/change",

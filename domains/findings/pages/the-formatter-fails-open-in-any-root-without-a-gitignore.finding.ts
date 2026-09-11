@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const theFormatterFailsOpenInAnyRootWithoutAGitignore = {
   id: "01a088a2-75da-71f7-bab8-e5225173227d",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "the-formatter-fails-open-in-any-root-without-a-gitignore",
   domain: "domain/code-system",

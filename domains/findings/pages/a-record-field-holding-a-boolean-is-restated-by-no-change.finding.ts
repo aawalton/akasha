@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aRecordFieldHoldingABooleanIsRestatedByNoChange = {
   id: "01a08e5d-97cf-7095-b986-175cdb4dd75b",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-record-field-holding-a-boolean-is-restated-by-no-change",
   domain: "domain/change",

@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const movePageTakesAFileNameAsAFolderAndLandsThePageUnderIt = {
   id: "01a08889-bcad-77c1-9c09-0340b5d02bec",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "move-page-takes-a-file-name-as-a-folder-and-lands-the-page-under-it",
   domain: "change-agent-file",

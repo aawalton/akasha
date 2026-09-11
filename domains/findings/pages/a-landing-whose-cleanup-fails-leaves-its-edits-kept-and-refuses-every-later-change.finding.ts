@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aLandingWhoseCleanupFailsLeavesItsEditsKeptAndRefusesEveryLaterChange = {
   id: "01a0815d-b87e-77c1-aee6-fe4e8de1a70d",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-landing-whose-cleanup-fails-leaves-its-edits-kept-and-refuses-every-later-change",
   domain: "page-type/change",

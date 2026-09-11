@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const fiveRowsOfAModelTestsCasesNamePagesThatAreNotThere = {
   id: "01a090d4-ba2a-72b9-8c36-a4b951061fc5",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "five-rows-of-a-model-tests-cases-name-pages-that-are-not-there",
   domain: "page-type/model-test",

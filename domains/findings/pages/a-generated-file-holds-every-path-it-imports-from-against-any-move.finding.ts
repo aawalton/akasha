@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aGeneratedFileHoldsEveryPathItImportsFromAgainstAnyMove = {
   id: "01a08878-e69d-743e-b907-59decbc5078b",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-generated-file-holds-every-path-it-imports-from-against-any-move",
   domain: "domain/change",

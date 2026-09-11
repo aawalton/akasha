@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const fiveAlertRunbooksNameANamespaceTheClusterNoLongerHolds = {
   id: "01a08232-bdd6-72d3-b63d-1e678cca611a",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "five-alert-runbooks-name-a-namespace-the-cluster-no-longer-holds",
   domain: "page-type/alert",

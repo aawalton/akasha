@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const noGuardJudgesTheFolderAPageMovesInto = {
   id: "01a088ca-855f-736d-ba08-d0227a76dcfa",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "no-guard-judges-the-folder-a-page-moves-into",
   domain: "domain/change-mechanical-file-move",

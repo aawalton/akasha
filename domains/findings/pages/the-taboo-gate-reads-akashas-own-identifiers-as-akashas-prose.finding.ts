@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const theTabooGateReadsAkashasOwnIdentifiersAsAkashasProse = {
   id: "01a0887f-6443-7c0b-86e7-4cb221a5f43e",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "the-taboo-gate-reads-akashas-own-identifiers-as-akashas-prose",
   domain: "domain/domain",

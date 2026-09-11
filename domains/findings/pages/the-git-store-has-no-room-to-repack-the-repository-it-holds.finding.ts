@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const theGitStoreHasNoRoomToRepackTheRepositoryItHolds = {
   id: "01a08dce-22ef-794a-a82e-b1e0e090651f",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "the-git-store-has-no-room-to-repack-the-repository-it-holds",
   domain: "domain/git-transport",

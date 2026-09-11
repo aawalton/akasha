@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const alansTwoSitesRewroteTheSharedPageAnswersRatherThanJoiningThem = {
   id: "01a0658e-a221-72d8-824a-9086ea7dd713",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "alans-two-sites-rewrote-the-shared-page-answers-rather-than-joining-them",
   domain: "domain/web-page-answers",

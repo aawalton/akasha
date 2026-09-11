@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aScratchWorldLandingLeavesNoIdWhileEveryLiveSubagentPageCarriesOne = {
   id: "01a08225-fa5f-7802-b93f-82b97af23dcb",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-scratch-world-landing-leaves-no-id-while-every-live-subagent-page-carries-one",
   domain: "domain/seat-system",

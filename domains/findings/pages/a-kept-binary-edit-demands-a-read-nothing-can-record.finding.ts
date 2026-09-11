@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aKeptBinaryEditDemandsAReadNothingCanRecord = {
   id: "01a09179-9c64-73c3-a8c0-ec3187f77410",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-kept-binary-edit-demands-a-read-nothing-can-record",
   domain: "domain/change",

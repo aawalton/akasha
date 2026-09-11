@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const theFolderShapeAuditOfCommandsIsUnreviewed = {
   id: "01a09125-d474-74c5-ac96-95ffb7ae25c8",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "the-folder-shape-audit-of-commands-is-unreviewed",
   domain: "page-type/command",

@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aSignOutMustDropTheUserIdOnTheLiveTreeBeforeTheUrlChanges = {
   id: "01a0822f-15b8-7147-922b-8d2f40f70892",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-sign-out-must-drop-the-user-id-on-the-live-tree-before-the-url-changes",
   domain: "router-app/alan-web",

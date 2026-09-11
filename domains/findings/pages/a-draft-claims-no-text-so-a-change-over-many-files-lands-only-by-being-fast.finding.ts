@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aDraftClaimsNoTextSoAChangeOverManyFilesLandsOnlyByBeingFast = {
   id: "01a08cd0-659e-7a7e-a8ce-218b40e16d38",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-draft-claims-no-text-so-a-change-over-many-files-lands-only-by-being-fast",
   domain: "domain/change",

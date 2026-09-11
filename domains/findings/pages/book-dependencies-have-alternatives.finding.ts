@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const bookDependenciesHaveAlternatives = {
   id: "01a06555-9f3d-7fc6-ad96-66405e67d11b",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "book-dependencies-have-alternatives",
   domain: "domain/all-about-alan",

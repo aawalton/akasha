@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aFolderMoveIsHeldToFreshnessOverEveryFileWhoseSpecifierItRewrites = {
   id: "01a08cc4-bff7-7cbb-845a-3bf9519bba32",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-folder-move-is-held-to-freshness-over-every-file-whose-specifier-it-rewrites",
   domain: "domain/change",

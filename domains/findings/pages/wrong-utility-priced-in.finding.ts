@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const wrongUtilityPricedIn = {
   id: "01a06555-9f3f-77f0-bfb0-65a5e38658fc",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "wrong-utility-priced-in",
   domain: "domain/all-about-alan",

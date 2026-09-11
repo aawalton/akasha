@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const theMigratedBookOverviewsLinkToFilesThatWent = {
   id: "01a06589-aff9-7100-a572-404ca8cf1e91",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "the-migrated-book-overviews-link-to-files-that-went",
   domain: "domain/authoring",

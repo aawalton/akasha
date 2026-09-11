@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aWriterAndAReaderOfOneHeldShapeDriftedApartWithNoRoundTripTest = {
   id: "01a08bd4-b904-7f54-9b00-8f4fa9ae5636",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-writer-and-a-reader-of-one-held-shape-drifted-apart-with-no-round-trip-test",
   domain: "domain/testing-system",

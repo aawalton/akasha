@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const traitToSystemsMappingUndecided = {
   id: "01a06555-9f3f-7bef-b22c-d53b7d0c1d5e",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "trait-to-systems-mapping-undecided",
   domain: "domain/all-about-alan",

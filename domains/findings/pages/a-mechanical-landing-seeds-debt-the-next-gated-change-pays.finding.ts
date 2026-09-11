@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aMechanicalLandingSeedsDebtTheNextGatedChangePays = {
   id: "01a06589-26a4-71e2-8163-d08bf490ceae",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-mechanical-landing-seeds-debt-the-next-gated-change-pays",
   domain: "router-app/alan-web",

@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const noTypecheckerJudgesAStylesheetImport = {
   id: "01a05b0f-c48c-704b-8312-5da4a6802a6f",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "no-typechecker-judges-a-stylesheet-import",
   domain: "domain/code-system",

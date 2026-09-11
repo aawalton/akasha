@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const conditionalGradesUnstated = {
   id: "01a06555-9f3d-7dfc-ad0a-63d5c0957452",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "conditional-grades-unstated",
   domain: "domain/all-about-alan",

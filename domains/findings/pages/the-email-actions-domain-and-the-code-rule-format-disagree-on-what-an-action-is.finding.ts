@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const theEmailActionsDomainAndTheCodeRuleFormatDisagreeOnWhatAnActionIs = {
   id: "01a06860-54a2-7916-9071-3590c29dee10",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "the-email-actions-domain-and-the-code-rule-format-disagree-on-what-an-action-is",
   domain: "domain/email",

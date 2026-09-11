@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aRunningServiceWritesPagesItsPageTypeRefuses = {
   id: "01a088a1-7c9c-75ee-92ca-9c997db906ae",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-running-service-writes-pages-its-page-type-refuses",
   domain: "domain/oauth-proxy",

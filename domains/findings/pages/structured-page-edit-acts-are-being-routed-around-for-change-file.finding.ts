@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const structuredPageEditActsAreBeingRoutedAroundForChangeFile = {
   id: "01a08cd1-8cc1-76cd-b0e1-58204b8c6777",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "structured-page-edit-acts-are-being-routed-around-for-change-file",
   domain: "domain/change-agent-file-content",

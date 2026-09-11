@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aPropertyCarriedOnlyInAnEntriesSidecarIsInvisibleToAPageSurvey = {
   id: "01a087ca-ea92-70a8-82f1-a04614cc6379",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-property-carried-only-in-an-entries-sidecar-is-invisible-to-a-page-survey",
   domain: "domain/page",

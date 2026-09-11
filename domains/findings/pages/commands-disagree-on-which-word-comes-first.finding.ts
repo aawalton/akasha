@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const commandsDisagreeOnWhichWordComesFirst = {
   id: "01a073c1-e073-7304-9fd2-d312e380e985",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "commands-disagree-on-which-word-comes-first",
   domain: "workspace-package/command-system",
