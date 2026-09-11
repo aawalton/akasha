@@ -24,6 +24,16 @@ export const aineMemoryManagement = {
       workingMemory:
         "No ceiling number is defensible without this. Nothing today records what a build, a test run or a check actually reaches, so every number would be a guess. A soft ceiling gathers it without risk: MemoryHigh throttles and reclaims rather than killing, and every breach lands in the cgroup's memory.events. A measured peak times a safety factor is how a hard ceiling is set afterwards.\n",
     },
+    {
+      statement: "Every runtime on the workstation has a heap ceiling below its work's ceiling.",
+      workingMemory:
+        "A runtime allowed to grow past its cgroup dies mid-collection, and the ceiling it holds is the one that actually bounds it. The node heap is set to 61440 MiB on a 62 GiB host, which bounds nothing. Python has no heap ceiling of its own at all, which is why the 16 GiB script Alan killed by hand had nothing above it.\n",
+    },
+    {
+      statement: "How many agents run at once is bounded against what each of them may take.",
+      workingMemory:
+        "Per-worker peak times worker count is the number that reaches the host, so a ceiling on one bounds nothing without a ceiling on how many. Subagent fan-out is capped at 65 today, chosen against nothing.\n",
+    },
   ],
   constraints: ["Every ceiling number is settled with Alan rather than chosen."],
 } as const satisfies Initiative
