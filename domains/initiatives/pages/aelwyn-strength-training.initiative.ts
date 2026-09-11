@@ -62,6 +62,9 @@ export const aelwynStrengthTraining = {
       statement:
         "A movement is dropped when that movement stops progressing rather than after a fixed time.",
     },
+    {
+      statement: "A dropped movement is offered again once its pattern has progressed elsewhere.",
+    },
   ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
