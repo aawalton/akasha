@@ -1,4 +1,4 @@
-import type { StoryTurnPlayed } from "../../story-turn-played.page-type.types.ts"
+import type { StoryTurnPlayed } from "akasha/story/turns-played/story-turn-played.page-type.types.ts"
 
 export const dragonsAndDungeons01009 = {
   id: "01a064bd-7cc8-745d-845d-fe82a5a769d5",

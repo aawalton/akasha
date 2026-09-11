@@ -1,4 +1,4 @@
-import type { StoryTurnPlayed } from "../../story-turn-played.page-type.types.ts"
+import type { StoryTurnPlayed } from "akasha/story/turns-played/story-turn-played.page-type.types.ts"
 
 export const haremHotel00019 = {
   id: "01a064bd-7cca-7def-8ba2-6fe35e51fbe2",
