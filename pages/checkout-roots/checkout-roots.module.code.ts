@@ -4,6 +4,7 @@ import { fileURLToPath } from "node:url"
 import type { Repo } from "akasha/pages/markdown-document/markdown-document.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import { canonicalize } from "akasha/pages/repo-path/repo-path.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const AKASHA = "akasha"
 
@@ -84,9 +85,7 @@ export function repos(): readonly string[] {
 }
 
 export function addressableNamed(): string {
-  return repos()
-    .map((one) => `\`${one}\``)
-    .join(", ")
+  return namesDrawn(repos())
 }
 
 export function isAddressable(value: string): value is Repo {
@@ -152,7 +151,7 @@ export function rootsNamed(at: Readonly<Record<string, string>>, target?: Repo):
   const asked = [...Object.keys(at), ...(target === undefined ? [] : [target])]
   const stray = [...new Set(asked)].filter((one) => !isAddressable(one))
   if (stray.length > 0) {
-    const named = stray.map((one) => `\`${one}\``).join(", ")
+    const named = namesDrawn(stray)
     const name = stray.length === 1 ? "names" : "name"
     throw new Error(
       `${named} ${name} no repository here; the repositories are ${addressableNamed()}`
