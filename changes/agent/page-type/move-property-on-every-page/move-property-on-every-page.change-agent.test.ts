@@ -25,11 +25,11 @@ const RUNS: Reaching = (world, at, given) => {
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
 
-const ONE_AT = "story/chapters-read/pages/one.story-chapter-read.ts"
+const ONE_AT = "thrumming/chapters/pages/one.story-chapter-read.ts"
 
-const TWO_AT = "story/chapters-read/pages/two.story-chapter-read.ts"
+const TWO_AT = "thrumming/chapters/pages/two.story-chapter-read.ts"
 
-const TYPE_AT = "story/chapters-read/story-chapter-read.page-type.ts"
+const TYPE_AT = "thrumming/chapters/story-chapter-read.page-type.ts"
 
 const TYPED = `export type StoryChapterRead = {
   pageTypeSlug: string

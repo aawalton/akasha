@@ -19,15 +19,15 @@ import {
   wentSilentAtOn,
 } from "./readout-reading.module.code.ts"
 
-const PAGE = "alan/harness/readouts/pages/upkeep-safety/upkeep-safety.readout.ts"
+const PAGE = "alan/harness/readouts/pages/upkeep-probe/upkeep-probe.readout.ts"
 
-const OTHER = "alan/harness/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"
+const OTHER = "alan/harness/readouts/pages/upkeep-other/upkeep-other.readout.ts"
 
 const READOUT = "readout"
 
-const SAFETY_SLUG = "upkeep-safety"
+const PROBE_SLUG = "upkeep-probe"
 
-const SAFETY_ID = "01a057f9-873e-7390-9635-32012c10d150"
+const PROBE_ID = "01a057f9-873e-7390-9635-32012c10d150"
 
 const TAKEN = "2026-08-31T12:00:00.000Z"
 
@@ -40,16 +40,16 @@ afterAll(() => scratch.sweep())
 test("where a readout's page sits is asked of the index", () => {
   const root = scratch.rootFor("readout-page-")
   nothingFiled(root)
-  listedFiled(root, READOUT, SAFETY_SLUG, [{ path: PAGE, id: SAFETY_ID }])
+  listedFiled(root, READOUT, PROBE_SLUG, [{ path: PAGE, id: PROBE_ID }])
 
-  expect(readoutPage(root, SAFETY_SLUG)).toBe(PAGE)
+  expect(readoutPage(root, PROBE_SLUG)).toBe(PAGE)
 })
 
 test("a readout the index names no page for is refused rather than answered", () => {
   const root = scratch.rootFor("readout-page-")
   nothingFiled(root)
 
-  expect(() => readoutPage(root, SAFETY_SLUG)).toThrow()
+  expect(() => readoutPage(root, PROBE_SLUG)).toThrow()
 })
 
 test("a readout with nothing beside it has taken no reading", () => {
@@ -130,7 +130,7 @@ test("a reading of nothing on a row is a reading rather than an absence", () => 
 })
 
 test("values carrying neither half carry no reading", () => {
-  expect(readingOn({ slug: "upkeep-safety" })).toBeNull()
+  expect(readingOn({ slug: PROBE_SLUG })).toBeNull()
 })
 
 test("values carrying one half alone carry no reading", () => {
