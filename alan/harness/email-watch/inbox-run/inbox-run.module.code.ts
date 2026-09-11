@@ -7,7 +7,7 @@ import type {
 import { decide } from "akasha/alan/harness/email-watch/email-rule-deciding/email-rule-deciding.module.code.ts"
 import type { Rule } from "akasha/alan/harness/email-watch/email-rule-reading/email-rule-reading.module.code.ts"
 import { rulesOf } from "akasha/alan/harness/email-watch/email-rule-reading/email-rule-reading.module.code.ts"
-import { personOr } from "akasha/persons/person-reading/person-reading.module.code.ts"
+import { personOr } from "akasha/persons/reading/person-reading.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { z } from "zod"
 

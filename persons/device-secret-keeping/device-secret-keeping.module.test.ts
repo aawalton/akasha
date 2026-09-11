@@ -22,7 +22,7 @@ import {
   noNap,
   overTheLiveStore,
   recordingFetcher,
-} from "akasha/persons/person-enrolment/person-enrolment.module.test-fixtures.ts"
+} from "akasha/persons/enrolment/person-enrolment.module.test-fixtures.ts"
 
 const ALAN_ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 

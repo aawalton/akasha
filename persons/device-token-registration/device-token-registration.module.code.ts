@@ -5,7 +5,7 @@ import {
   type Sleeper,
   writingFor,
 } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
-import { personSlugForAccount } from "akasha/persons/person-enrolment/person-enrolment.module.code.ts"
+import { personSlugForAccount } from "akasha/persons/enrolment/person-enrolment.module.code.ts"
 
 export const DEVICE_TOKEN_PAGE_TYPE_SLUG = "device-token"
 

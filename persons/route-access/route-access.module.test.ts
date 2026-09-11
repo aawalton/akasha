@@ -5,7 +5,7 @@ import {
   noNap,
   overTheLiveStore,
   recordingFetcher,
-} from "akasha/persons/person-enrolment/person-enrolment.module.test-fixtures.ts"
+} from "akasha/persons/enrolment/person-enrolment.module.test-fixtures.ts"
 import {
   grantsRoute,
   ROUTE_TARGETS,

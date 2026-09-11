@@ -1,0 +1,12 @@
+import type { PersonAccess } from "akasha/persons/accesses/person-access.page-type.types.ts"
+
+export const kiPageTypeKiBook = {
+  id: "01a05433-f103-7f79-9e4d-114269ff0b41",
+  pageTypeSlug: "person-access",
+  type: "person-access",
+  slug: "ki-page-type-ki-book",
+  person: "ki",
+  accessKind: "page-type",
+  target: "ki-book",
+  serves: "book",
+} as const satisfies PersonAccess
