@@ -1,4 +1,5 @@
 import ts from "typescript"
+import { readFieldKey } from "../ts-node-shapes/ts-node-shapes.module.code.ts"
 
 export function parseAddonSource(source: string, filePath: string): ts.SourceFile {
   return ts.createSourceFile(filePath, source, ts.ScriptTarget.Latest, true)
@@ -92,20 +93,6 @@ function isInsideFunctionBody(node: ts.Node): boolean {
   return false
 }
 
-function readFieldAssignmentKey(lhs: ts.Expression): string | undefined {
-  if (ts.isPropertyAccessExpression(lhs) && ts.isIdentifier(lhs.expression)) {
-    return `${lhs.expression.text}.${lhs.name.text}`
-  }
-  if (
-    ts.isElementAccessExpression(lhs) &&
-    ts.isIdentifier(lhs.expression) &&
-    ts.isStringLiteralLike(lhs.argumentExpression)
-  ) {
-    return `${lhs.expression.text}.${lhs.argumentExpression.text}`
-  }
-  return undefined
-}
-
 export function collectDeferredPublishedFields(sf: ts.SourceFile): readonly string[] {
   const keys = new Set<string>()
   const visit = (node: ts.Node): undefined => {
@@ -114,7 +101,7 @@ export function collectDeferredPublishedFields(sf: ts.SourceFile): readonly stri
       node.operatorToken.kind === ts.SyntaxKind.EqualsToken &&
       isInsideFunctionBody(node)
     ) {
-      const key = readFieldAssignmentKey(node.left)
+      const key = readFieldKey(node.left)
       if (key !== undefined) keys.add(key)
     }
     ts.forEachChild(node, visit)
@@ -127,7 +114,7 @@ function collectLocallyAssignedFieldKeys(sf: ts.SourceFile): ReadonlySet<string>
   const keys = new Set<string>()
   const visit = (node: ts.Node): undefined => {
     if (ts.isBinaryExpression(node) && node.operatorToken.kind === ts.SyntaxKind.EqualsToken) {
-      const key = readFieldAssignmentKey(node.left)
+      const key = readFieldKey(node.left)
       if (key !== undefined) keys.add(key)
     }
     ts.forEachChild(node, visit)
