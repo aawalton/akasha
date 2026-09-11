@@ -1,6 +1,6 @@
-import type {
-  CharacterCompletion,
-  SkillPointProgress,
+import {
+  type CharacterCompletion,
+  emptySkillPointProgress,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import type { CompletionOverride } from "akasha/temper/player-completion/completion-override/completion-override.module.code.ts"
 import { SKILL_POINT_GENERAL_SOURCES } from "akasha/temper/player-completion/skill-point-general-sources/skill-point-general-sources.module.code.ts"
@@ -9,29 +9,6 @@ import { SKILL_POINT_PUBLIC_DUNGEON_SOURCES } from "akasha/temper/player-complet
 import { SKILL_POINT_ZONE_SOURCES } from "akasha/temper/player-completion/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
 
 type SkillPointCompletion = Pick<CharacterCompletion, "skillPoints">
-
-function emptySkillPointProgress(): SkillPointProgress {
-  return {
-    total: 0,
-    unassigned: 0,
-    level: 0,
-    mainQuests: 0,
-    tutorial: 0,
-    foliumDiscognitum: 0,
-    pvpRank: 0,
-    maelstromArena: 0,
-    endlessArchive: 0,
-    skyshardPoints: 0,
-    totalSkyshards: 0,
-    zoneQuestTotal: 0,
-    groupDungeonTotal: 0,
-    publicDungeonTotal: 0,
-    skyshards: {},
-    zoneQuests: {},
-    groupDungeons: {},
-    publicDungeons: {},
-  }
-}
 
 function applySkillPointsOverride<T extends SkillPointCompletion>(
   completion: T,
