@@ -7,6 +7,7 @@ export const scriptPaths = {
   slug: "script-paths",
   definition: "the paths a composed script names under the checkout root",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -14,11 +15,36 @@ export const scriptPaths = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The root is written `$AKASHA_ROOT`, `${AKASHA_ROOT}` or `${AKASHA_ROOT:-a fallback}`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name begins after the separator that follows the root.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name runs from the root to the closing quote of the word holding it.",
     },
     {
       invariantKind: "departure",
+      statement: "Every name a line holds is answered rather than the first alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A line naming no such file holds no name.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A root with no quote directly before it holds no name.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A word holding a further expansion holds no name.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A name built on a variable other than the root is not read here.",
     },
     {
       invariantKind: "absence",
