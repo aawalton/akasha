@@ -124,6 +124,15 @@ export const check = {
       statement: "No check judges whether a change made an invariant on another page false.",
     },
     {
+      invariantKind: "absence",
+      statement: "No check judges whether anything imports a value a file exports.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change leaving a value dead changes the file that named it rather than the file exporting it.",
+    },
+    {
       invariantKind: "stopgap",
       statement:
         "No check but the compiler check exists only to test the claims the compiler tests.",

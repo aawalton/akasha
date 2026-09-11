@@ -13,11 +13,7 @@ export const theaChecksSystem = {
       workingMemory:
         "All 16 sites surveyed; every page now names what it hashes. 11 derive from a secret across 10 workloads; every value agrees with the live Secret, the generated yaml and the running pod. 5 hash config through a pure function of its argument, emitted from one value in one synth, so they cannot disagree. 3 mount a second Secret unhashed; 17 annotate none. The committed yaml pictures a thing that moves: authority is the reading at synth, and a diff against a fresh synth is the design working.",
     },
-    {
-      statement: "A check looks for unused code and passes.",
-      workingMemory:
-        "Settled 2026-09-10. The premise was wrong twice over: the finder was deleted rather than unwired, and its target repository tracks zero files because it moved here. The curation has no reader in akasha. A check is the wrong instrument: 3636 value exports across 1432 files are named by no importer, and a change-scoped check cannot see the fault at all, since a change to one file leaves another dead and the other is unchanged. Control: 1287 of 1287 test files have no importer.",
-    },
+
     {
       statement: "No finding is filed on checks-system or any part beneath it.",
       workingMemory:
