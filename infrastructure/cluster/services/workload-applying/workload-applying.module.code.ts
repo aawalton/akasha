@@ -1,13 +1,13 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { publishedFor } from "akasha/infrastructure/container-image/image-publishing/image-publishing.module.code.ts"
+import { slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
-  CLUSTER_SERVICE_SUFFIX,
+  CLUSTER_SERVICE_TYPE,
   codeBeside,
-  MANIFEST_SUFFIX,
-  namedAmong,
-  pagesUnder,
+  MANIFEST_TYPE,
+  pathsNamed,
   type Workload,
   wantingIn,
   workloadIn,
@@ -42,14 +42,11 @@ export interface Applied {
 }
 
 export function servableNamed(root: string, slug: string): Read {
-  const services = pagesUnder(root, CLUSTER_SERVICE_SUFFIX)
-  if (services === null) {
-    return { refused: `git could not list the cluster service pages under ${root}` }
-  }
-  const named = namedAmong(services, slug, CLUSTER_SERVICE_SUFFIX)
+  const named = pathsNamed(root, CLUSTER_SERVICE_TYPE, slug)
   if (named.length === 0) {
+    const every = slugsOfType(root, CLUSTER_SERVICE_TYPE)
     return {
-      refused: `no cluster service page is named \`${slug}\`, and ${services.length} cluster services have one`,
+      refused: `no cluster service page is named \`${slug}\`, and ${every.length} cluster services have one`,
     }
   }
   if (named.length > 1) {
@@ -74,10 +71,8 @@ export function servableNamed(root: string, slug: string): Read {
       refused: `${servicePath} states no kind, namespace and resource name together, so it names no workload`,
     }
   }
-  const manifests = pagesUnder(root, MANIFEST_SUFFIX)
-  if (manifests === null) return { refused: `git could not list the manifest pages under ${root}` }
   const wanted = textAt(service, MANIFEST) as string
-  const found = namedAmong(manifests, wanted, MANIFEST_SUFFIX)
+  const found = pathsNamed(root, MANIFEST_TYPE, wanted)
   if (found.length === 0) {
     return {
       refused: `${servicePath} names the manifest \`${wanted}\`, which no page describes, so nothing says what the cluster is given`,

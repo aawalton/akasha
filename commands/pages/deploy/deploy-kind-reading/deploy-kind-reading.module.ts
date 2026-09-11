@@ -20,7 +20,7 @@ export const deployKindReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A page of any kind but the ios app is found by the suffix its filename has.",
+      statement: "A page of any kind but the ios app is the page the index answers for that slug.",
     },
     {
       invariantKind: "departure",
@@ -58,10 +58,7 @@ export const deployKindReading = {
       invariantKind: "departure",
       statement: "A slug no kind has is refused by naming the slugs each kind has.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A git that will not list the pages refuses the call.",
-    },
+
     {
       invariantKind: "departure",
       statement: "Ios app pages that will not read refuse the call.",

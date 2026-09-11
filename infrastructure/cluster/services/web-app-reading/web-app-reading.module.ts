@@ -16,6 +16,10 @@ export const webAppReading = {
     },
     {
       invariantKind: "departure",
+      statement: "The page a slug names is the page the index answers for that slug.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A slug no web app page has is refused by name.",
     },
     {

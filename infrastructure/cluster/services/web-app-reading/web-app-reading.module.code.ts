@@ -1,12 +1,13 @@
 import { existsSync } from "node:fs"
-import { basename, join } from "node:path"
+import { join } from "node:path"
+import { listedAt, slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { numberAt, textAt, textsAt, valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { said } from "akasha/utils/run/running/running.module.code.ts"
 
-const WEB_APP_SUFFIX = ".web-app.ts"
-export const CLUSTER_SERVICE_SUFFIX = ".cluster-service.ts"
-export const MANIFEST_SUFFIX = ".manifest.ts"
+export const WEB_APP_TYPE = "web-app"
+export const CLUSTER_SERVICE_TYPE = "cluster-service"
+export const MANIFEST_TYPE = "manifest"
+const MANIFEST_SUFFIX = ".manifest.ts"
 const MANIFEST_CODE_SUFFIX = ".manifest.code.ts"
 const CLUSTER_SERVICES = "clusterServices"
 const SOURCE_DIRECTORY = "sourceDirectory"
@@ -54,21 +55,8 @@ export interface Deployable {
 
 export type Read = { readonly deployable: Deployable } | { readonly refused: string }
 
-export function pagesUnder(root: string, suffix: string): readonly string[] | null {
-  try {
-    const held = said(["git", "-C", root, "ls-files", "-z", "--", `*${suffix}`])
-    return held.split("\0").filter((one) => one !== "")
-  } catch {
-    return null
-  }
-}
-
-export function namedAmong(
-  paths: readonly string[],
-  slug: string,
-  suffix: string
-): readonly string[] {
-  return paths.filter((one) => basename(one) === `${slug}${suffix}`)
+export function pathsNamed(root: string, pageTypeSlug: string, slug: string): readonly string[] {
+  return listedAt(root, pageTypeSlug, slug).map((one) => one.path)
 }
 
 export function codeBeside(manifestPath: string): string {
@@ -92,10 +80,7 @@ function statedAt(root: string, path: string): Value | null {
 }
 
 function serviceFor(root: string, slug: string, from: string): Read | string {
-  const pages = pagesUnder(root, CLUSTER_SERVICE_SUFFIX)
-  if (pages === null)
-    return { refused: `git could not list the cluster service pages under ${root}` }
-  const named = namedAmong(pages, slug, CLUSTER_SERVICE_SUFFIX)
+  const named = pathsNamed(root, CLUSTER_SERVICE_TYPE, slug)
   if (named.length === 0) {
     return {
       refused: `${from} names the cluster service \`${slug}\`, which no page describes, so nothing says what the cluster runs`,
@@ -110,9 +95,7 @@ function serviceFor(root: string, slug: string, from: string): Read | string {
 }
 
 function manifestFor(root: string, slug: string, from: string): Read | string {
-  const pages = pagesUnder(root, MANIFEST_SUFFIX)
-  if (pages === null) return { refused: `git could not list the manifest pages under ${root}` }
-  const named = namedAmong(pages, slug, MANIFEST_SUFFIX)
+  const named = pathsNamed(root, MANIFEST_TYPE, slug)
   if (named.length === 0) {
     return {
       refused: `${from} names the manifest \`${slug}\`, which no page describes, so nothing says what the cluster is given`,
@@ -127,12 +110,11 @@ function manifestFor(root: string, slug: string, from: string): Read | string {
 }
 
 export function deployableNamed(root: string, slug: string): Read {
-  const webApps = pagesUnder(root, WEB_APP_SUFFIX)
-  if (webApps === null) return { refused: `git could not list the web app pages under ${root}` }
-  const named = namedAmong(webApps, slug, WEB_APP_SUFFIX)
+  const named = pathsNamed(root, WEB_APP_TYPE, slug)
   if (named.length === 0) {
+    const every = slugsOfType(root, WEB_APP_TYPE)
     return {
-      refused: `no web app page is named \`${slug}\`, and ${webApps.length} web apps have one: ${webApps.map((one) => basename(one, WEB_APP_SUFFIX)).join(", ")}`,
+      refused: `no web app page is named \`${slug}\`, and ${every.length} web apps have one: ${every.join(", ")}`,
     }
   }
   if (named.length > 1) {

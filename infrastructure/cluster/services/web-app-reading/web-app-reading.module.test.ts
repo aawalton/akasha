@@ -2,12 +2,17 @@ import { afterAll, expect, test } from "bun:test"
 import {
   codeBeside,
   deployableNamed,
-  namedAmong,
-  pagesUnder,
+  pathsNamed,
+  WEB_APP_TYPE,
   wantingIn,
   workloadIn,
 } from "./web-app-reading.module.code.ts"
-import { MANIFEST_AT, SYNTH_AT, seededWorld } from "./web-app-reading.module.test-fixtures.ts"
+import {
+  MANIFEST_AT,
+  SYNTH_AT,
+  seededWorld,
+  WEB_APPS_AT,
+} from "./web-app-reading.module.test-fixtures.ts"
 
 const WORLD = seededWorld()
 
@@ -31,25 +36,18 @@ test("what a page is asked for and does not state is named back", () => {
   ])
 })
 
-test("a page is named among the pages by its file's name alone", () => {
-  const among = ["a/web.web-app.ts", "b/other-web.web-app.ts"]
-  expect(namedAmong(among, "web", ".web-app.ts")).toEqual(["a/web.web-app.ts"])
-})
-
 test("a manifest page's code is the file of that name beside it", () => {
   expect(codeBeside("a/b/one-web.manifest.ts")).toBe("a/b/one-web.manifest.code.ts")
 })
 
-test("the web app pages a tree holds are listed", () => {
-  expect(pagesUnder(WORLD.root, ".web-app.ts")?.length).toBe(7)
+test("the page of a type carrying a slug is the page the index answers with", () => {
+  expect(pathsNamed(WORLD.root, WEB_APP_TYPE, "one-web")).toEqual([
+    `${WEB_APPS_AT}/one-web.web-app.ts`,
+  ])
 })
 
-test("the manifest pages a tree holds are listed apart from their code", () => {
-  expect(pagesUnder(WORLD.root, ".manifest.ts")?.length).toBe(2)
-})
-
-test("a tree that is no repository lists nothing rather than throwing", () => {
-  expect(pagesUnder("/var/tmp/no-such-tree-is-here", ".web-app.ts")).toBe(null)
+test("a slug no page of that type carries is answered with no page rather than by a throw", () => {
+  expect(pathsNamed(WORLD.root, WEB_APP_TYPE, "no-such-web-app-is-here")).toEqual([])
 })
 
 test("a slug no web app page carries is refused by name", () => {

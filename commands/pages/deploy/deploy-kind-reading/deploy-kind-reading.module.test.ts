@@ -1,7 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { said } from "akasha/utils/run/running/running.module.code.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { writingUnder } from "../../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
 import {
   type Apps,
@@ -42,26 +45,21 @@ function pageOf(name: string, slug: string, pageTypeSlug: string): string {
 function seededWorld(): World {
   const root = mkdtempSync(join(HOLD, PREFIX))
   const written = writingUnder(root)
-  written(`${WEB_APPS_AT}/one-web.web-app.ts`, pageOf("oneWeb", "one-web", "web-app"))
-  written(`${WEB_APPS_AT}/both-app.web-app.ts`, pageOf("bothApp", "both-app", "web-app"))
-  written(
-    `${SERVICES_AT}/one-service.cluster-service.ts`,
-    pageOf("oneService", "one-service", "cluster-service")
-  )
-  written(
-    `${SERVICES_AT}/one-web.cluster-service.ts`,
-    pageOf("oneWebService", "one-web", "cluster-service")
-  )
-  written(
-    `${SERVICES_AT}/both-ways.cluster-service.ts`,
-    pageOf("bothWays", "both-ways", "cluster-service")
-  )
-  written(
-    `${UNITS_AT}/one-unit.workstation-service.ts`,
-    pageOf("oneUnit", "one-unit", "workstation-service")
-  )
-  said(["git", "-C", root, "init", "-q"])
-  said(["git", "-C", root, "add", "-A"])
+  let at = 0
+  const filed = (folder: string, name: string, slug: string, pageTypeSlug: string): undefined => {
+    const path = `${folder}/${slug}.${pageTypeSlug}.ts`
+    at += 1
+    const id = `01a05f90-0000-7000-8000-00000000000${String(at)}`
+    written(path, pageOf(name, slug, pageTypeSlug))
+    listedFiled(root, pageTypeSlug, slug, [{ path, id }])
+    valueAlsoFiled(root, pageTypeSlug, [{ path, value: { id, pageTypeSlug, slug } }])
+  }
+  filed(WEB_APPS_AT, "oneWeb", "one-web", "web-app")
+  filed(WEB_APPS_AT, "bothApp", "both-app", "web-app")
+  filed(SERVICES_AT, "oneService", "one-service", "cluster-service")
+  filed(SERVICES_AT, "oneWebService", "one-web", "cluster-service")
+  filed(SERVICES_AT, "bothWays", "both-ways", "cluster-service")
+  filed(UNITS_AT, "oneUnit", "one-unit", "workstation-service")
   return {
     root,
     sweep: (): undefined => {
@@ -80,11 +78,8 @@ const ios = (): Apps => SEEDED
 
 const WORLD = seededWorld()
 
-const BARE = mkdtempSync(join(HOLD, PREFIX))
-
 afterAll(() => {
   WORLD.sweep()
-  rmSync(BARE, { recursive: true, force: true })
 })
 
 test("a slug only a web app page carries is answered as a web app", () => {
@@ -155,12 +150,6 @@ test("a slug an ios app and a cluster service both carry is refused rather than 
   expect(why).toContain("unsettled")
   expect(why).toContain(`${IOS_PAGES_AT}/both-ways-ios.ios-app.md`)
   expect(why).toContain(`${SERVICES_AT}/both-ways.cluster-service.ts`)
-})
-
-test("a root git will not list is refused by naming git", () => {
-  const read = kindNamed(BARE, "one-web", ios)
-  expect(read).toHaveProperty("refused")
-  expect((read as { refused: string }).refused).toContain("git could not list")
 })
 
 test("ios app pages that will not read refuse the call rather than answering that there are none", () => {

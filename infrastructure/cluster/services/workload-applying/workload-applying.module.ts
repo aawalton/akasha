@@ -15,6 +15,10 @@ export const workloadApplying = {
     },
     {
       invariantKind: "departure",
+      statement: "The page a slug names is the page the index answers for that slug.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A slug no cluster service page carries is refused by name.",
     },
     {

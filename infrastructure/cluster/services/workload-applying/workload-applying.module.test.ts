@@ -19,9 +19,3 @@ test("a slug no cluster service page carries is refused by naming that slug", ()
 
   expect("refused" in read ? read.refused : "").toContain("no-such-service-here")
 })
-
-test("a root git will not list is refused rather than read as no cluster service", () => {
-  const read = servableNamed("/var/empty/no-such-root-here", "headscale")
-
-  expect("refused" in read ? read.refused : "").toContain("git could not list")
-})
