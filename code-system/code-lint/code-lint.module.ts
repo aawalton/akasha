@@ -1,4 +1,4 @@
-import type { Module } from "../modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const codeLint = {
   id: "01a04edb-5f2c-7000-b8b5-430c5419cbda",

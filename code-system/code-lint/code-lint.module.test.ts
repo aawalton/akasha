@@ -1,8 +1,14 @@
 import { afterAll, test as check, expect } from "bun:test"
 import { mkdirSync, readFileSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
-import { BINARY, batchedIn, endOf, foundIn, lintedOver } from "./code-lint.module.code.ts"
+import {
+  BINARY,
+  batchedIn,
+  endOf,
+  foundIn,
+  lintedOver,
+} from "akasha/code-system/code-lint/code-lint.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
 const UNUSED = "export function held(a: number, b: number): number {\n  return a\n}\n"
 
