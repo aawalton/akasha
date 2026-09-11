@@ -48,6 +48,7 @@ import {
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { indexThere, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const PAGE_LANDING =
   "A subagent dispatched a moment ago can run before its page lands, and a landing refused" +
@@ -138,9 +139,7 @@ export function changesIn(world: World): readonly Runs[] {
 }
 
 export function runsSaid(world: World): string {
-  return changesIn(world)
-    .map((one) => `\`${one.slug}\``)
-    .join(", ")
+  return namesDrawn(changesIn(world).map((one) => one.slug))
 }
 
 export function argumentsIn(piping: Piping): Arguments | string {
