@@ -1,5 +1,5 @@
+import type { ModulePropertyGroup } from "akasha/code-system/module-property-groups/module-property-group.page-type.types.ts"
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
-import type { ModulePropertyGroup } from "./module-property-group.page-type.types.ts"
 
 export type ModulePropertyGroupCeilings = Pick<
   ModulePropertyGroup,
