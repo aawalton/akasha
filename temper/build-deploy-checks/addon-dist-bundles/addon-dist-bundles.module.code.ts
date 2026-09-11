@@ -6,7 +6,7 @@ export const ADDON_DIST_REL = "temper/addons/dist"
 
 export const ADDON_BUNDLE_UNIT = "addon bundles"
 
-export const ADDON_BUILD_COMMAND = "akasha temper-addon-build --all --build-only"
+export const ADDON_BUILD_COMMAND = "akasha deploy temper-web"
 
 function luaFilesUnder(dir: string): readonly string[] {
   const out: string[] = []

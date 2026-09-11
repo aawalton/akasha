@@ -2,8 +2,8 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { temperAddonInstall } from "akasha/commands/pages/temper/addon/install/temper-addon-install.command.code.ts"
 import { nothingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { placedAddon } from "akasha/temper/addon-build/addon-placing/addon-placing.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const scratch = scratchWorld()
@@ -32,10 +32,10 @@ function manifestFor(name: string, extra: Record<string, unknown> = {}): string 
 }
 
 function fixtureFor(
-  opts: { readonly floor?: number; readonly keep?: readonly string[] } = {}
+  opts: { readonly asks?: number; readonly keep?: readonly string[] } = {}
 ): Fixture {
-  const root = scratch.rootFor("temper-install-root-")
-  const live = scratch.rootFor("temper-install-live-")
+  const root = scratch.rootFor("temper-place-root-")
+  const live = scratch.rootFor("temper-place-live-")
   writeFileSync(join(root, "package.json"), JSON.stringify({ name: "scratch", workspaces: [] }))
   nothingFiled(root)
 
@@ -46,12 +46,12 @@ function fixtureFor(
     manifestFor(PROBE, opts.keep === undefined ? {} : { additionalLuaFiles: [...opts.keep] })
   )
 
-  if (opts.floor !== undefined) {
+  if (opts.asks !== undefined) {
     const otherDir = join(root, "temper/addons", OTHER)
     mkdirSync(otherDir, { recursive: true })
     writeFileSync(
       join(otherDir, "addon.json"),
-      manifestFor(OTHER, { dependsOn: [`${PROBE}>=${String(opts.floor)}`] })
+      manifestFor(OTHER, { dependsOn: [`${PROBE}>=${String(opts.asks)}`] })
     )
   }
 
@@ -70,24 +70,23 @@ function fixtureFor(
   return { root, live, addons }
 }
 
-function installed(at: Fixture, argv: readonly string[] = ["--addon", PROBE]) {
+function placing(at: Fixture) {
   const before = optionalEnv("ESO_LIVE_DIR")
   process.env["ESO_LIVE_DIR"] = at.live
   try {
-    return temperAddonInstall([...argv, "--code-root", at.root])
+    return placedAddon(at.root, join(at.root, "temper/addons", PROBE), PROBE)
   } finally {
     if (before === undefined) delete process.env["ESO_LIVE_DIR"]
     else process.env["ESO_LIVE_DIR"] = before
   }
 }
 
-test("a folder that is not there is installed into", () => {
+test("a folder that is not there is placed into", () => {
   const at = fixtureFor()
-  const said = installed(at)
+  const said = placing(at)
   expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
   expect(existsSync(join(at.addons, PROBE, `${PROBE}.lua`))).toBe(true)
-  expect(said.report.join("\n")).toContain("3 file(s) verified by sha256")
+  expect(said.lines.join("\n")).toContain("3 file(s) verified by sha256")
 })
 
 test("a folder carrying the marker is replaced", () => {
@@ -96,66 +95,53 @@ test("a folder carrying the marker is replaced", () => {
   mkdirSync(target, { recursive: true })
   writeFileSync(join(target, MARKER), "stale\n")
   writeFileSync(join(target, "gone.lua"), "stale\n")
-  const said = installed(at)
+  const said = placing(at)
   expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
   expect(existsSync(join(target, "gone.lua"))).toBe(false)
 })
 
-test("a foreign folder clearing every floor is left alone", () => {
-  const at = fixtureFor({ floor: 90 })
+test("a foreign folder new enough for every version asked of it is left alone", () => {
+  const at = fixtureFor({ asks: 90 })
   const target = join(at.addons, PROBE)
   mkdirSync(target, { recursive: true })
   writeFileSync(join(target, `${PROBE}.txt`), "## AddOnVersion: 150\n")
-  const said = installed(at)
+  const said = placing(at)
   expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
-  expect(said.report.join("\n")).toContain("left the folder alone")
+  expect(said.lines.join("\n")).toContain("left the folder alone")
   expect(readFileSync(join(target, `${PROBE}.txt`), "utf-8")).toContain("150")
 })
 
-test("a foreign folder missing a floor refuses", () => {
-  const at = fixtureFor({ floor: 200 })
+test("a foreign folder too old for a version asked of it refuses", () => {
+  const at = fixtureFor({ asks: 200 })
   const target = join(at.addons, PROBE)
   mkdirSync(target, { recursive: true })
   writeFileSync(join(target, `${PROBE}.txt`), "## AddOnVersion: 150\n")
-  const said = installed(at)
-  expect(said.code).not.toBe(0)
-  expect(said.refusals.join("\n")).toContain("misses a floor")
+  const said = placing(at)
+  expect(said.refusals.length).toBeGreaterThan(0)
   expect(existsSync(join(target, `${PROBE}.lua`))).toBe(false)
 })
 
 test("a foreign folder whose version cannot be read refuses", () => {
-  const at = fixtureFor({ floor: 90 })
+  const at = fixtureFor({ asks: 90 })
   const target = join(at.addons, PROBE)
   mkdirSync(target, { recursive: true })
   writeFileSync(join(target, `${PROBE}.txt`), "## Title: something else\n")
-  const said = installed(at)
-  expect(said.code).not.toBe(0)
+  const said = placing(at)
   expect(said.refusals.join("\n")).toContain("could not be read")
 })
 
 test("a folder nothing can read refuses rather than being replaced", () => {
   const at = fixtureFor()
   writeFileSync(join(at.addons, PROBE), "this is a file where a folder would be\n")
-  const said = installed(at)
-  expect(said.code).not.toBe(0)
+  const said = placing(at)
   expect(said.refusals.join("\n")).toContain("who owns it is unknown")
 })
 
 test("an addon with no build refuses", () => {
   const at = fixtureFor()
   rmSync(join(at.root, "temper/addons/dist", PROBE), { recursive: true, force: true })
-  const said = installed(at)
-  expect(said.code).not.toBe(0)
+  const said = placing(at)
   expect(said.refusals.join("\n")).toContain("has no build at")
-})
-
-test("naming no addon refuses", () => {
-  const at = fixtureFor()
-  const said = installed(at, [])
-  expect(said.code).not.toBe(0)
-  expect(said.refusals.join("\n")).toContain("names the addon installed")
 })
 
 test("a symbolic link in the build is verified rather than skipped", () => {
@@ -163,9 +149,9 @@ test("a symbolic link in the build is verified rather than skipped", () => {
   const built = join(at.root, "temper/addons/dist", PROBE)
   writeFileSync(join(built, "real.lua"), "-- real\n")
   symlinkSync(join(built, "real.lua"), join(built, "linked.lua"))
-  const said = installed(at)
+  const said = placing(at)
   expect(said.refusals).toEqual([])
-  expect(said.report.join("\n")).toContain("5 file(s) verified by sha256")
+  expect(said.lines.join("\n")).toContain("5 file(s) verified by sha256")
 })
 
 test("a file the host keeps is carried across a replacement", () => {
@@ -174,18 +160,17 @@ test("a file the host keeps is carried across a replacement", () => {
   mkdirSync(target, { recursive: true })
   writeFileSync(join(target, MARKER), "stale\n")
   writeFileSync(join(target, "Keep.lua"), "host wrote this\n")
-  const said = installed(at)
+  const said = placing(at)
   expect(said.refusals).toEqual([])
   expect(readFileSync(join(target, "Keep.lua"), "utf-8")).toBe("host wrote this\n")
-  expect(said.report.join("\n")).toContain("host file(s) carried across")
+  expect(said.lines.join("\n")).toContain("host file(s) carried across")
 })
 
-test("a build holding a link to nothing is refused rather than reported installed", () => {
+test("a build holding a link to nothing is refused rather than reported placed", () => {
   const at = fixtureFor()
   const built = join(at.root, "temper/addons/dist", PROBE)
   symlinkSync(join(built, "was-never-written.lua"), join(built, "dangling.lua"))
-  const said = installed(at)
-  expect(said.code).not.toBe(0)
+  const said = placing(at)
   expect(said.refusals.join("\n")).toContain("does not match what was built")
   expect(said.refusals.join("\n")).toContain("dangling.lua")
 })

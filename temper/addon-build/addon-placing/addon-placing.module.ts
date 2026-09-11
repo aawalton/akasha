@@ -7,6 +7,7 @@ export const addonPlacing = {
   slug: "addon-placing",
   definition: "an addon's folder in the game replaced with what the build output has",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
