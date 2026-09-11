@@ -6,6 +6,7 @@ import {
   refusalsIn,
   unrunIn,
 } from "akasha/checks/modules/audit-asking/audit-asking.module.code.ts"
+import { requestsIn } from "akasha/checks/modules/audit-request/audit-request.module.code.ts"
 import {
   type Verdict,
   type Verdicts,
@@ -116,6 +117,43 @@ test("a round that would not start leaves every check it was owed unanswered", a
   expect(rounds).toBe(1)
   expect(told.broken).toBe("the unit would not start")
   expect(told.unanswered).toEqual(ONE)
+})
+
+test("a check owed a round is asked for by name before that round starts", async () => {
+  const { root, made } = await repoOf(1)
+  const home = scratch.rootFor("akasha-audit-asking-home-")
+  let asking: readonly string[] = []
+  await asked({
+    root,
+    home,
+    checks: ONE,
+    commit: made[0] ?? "",
+    round: () => {
+      asking = requestsIn(home)
+      verdictsWrite(home, { typecheck: { ...CLEAN, commit: made[0] ?? "" } })
+      return null
+    },
+  })
+  expect(asking).toEqual(ONE)
+})
+
+test("a name that is no check slug leaves the round unasked", async () => {
+  const { root, made } = await repoOf(1)
+  const home = scratch.rootFor("akasha-audit-asking-home-")
+  let rounds = 0
+  const told = await asked({
+    root,
+    home,
+    checks: ["Not A Slug"],
+    commit: made[0] ?? "",
+    round: () => {
+      rounds += 1
+      return null
+    },
+  })
+  expect(rounds).toBe(0)
+  expect(told.broken).toContain("no check slug")
+  expect(told.unanswered).toEqual(["Not A Slug"])
 })
 
 test("a refusal is named with the check that refused it", () => {

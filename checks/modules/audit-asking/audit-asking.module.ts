@@ -30,6 +30,14 @@ export const auditAsking = {
     },
     {
       invariantKind: "departure",
+      statement: "A check owed a round is asked for by name before that round starts.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name that is no check slug leaves the round unasked.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A round is asked for twice at most.",
     },
     {

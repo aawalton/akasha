@@ -1,3 +1,4 @@
+import { requestPut } from "akasha/checks/modules/audit-request/audit-request.module.code.ts"
 import {
   atOrAfter,
   type Verdicts,
@@ -54,12 +55,20 @@ export function unrunIn(verdicts: Verdicts, checks: readonly string[]): readonly
   return checks.filter((one) => verdicts[one]?.unrun === true)
 }
 
+function requesting(home: string, checks: readonly string[]): string | null {
+  for (const one of checks) {
+    const why = requestPut(home, one)
+    if (why !== null) return why
+  }
+  return null
+}
+
 export async function asked(given: Asking): Promise<Told> {
   const start = given.round ?? round
   let broken: string | null = null
   let left = await unansweredIn(given.root, verdictsRead(given.home), given.checks, given.commit)
   for (let turn = 0; turn < ROUNDS && left.length > 0; turn += 1) {
-    broken = start()
+    broken = requesting(given.home, left) ?? start()
     if (broken !== null) break
     left = await unansweredIn(given.root, verdictsRead(given.home), given.checks, given.commit)
   }
