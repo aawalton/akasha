@@ -4,6 +4,7 @@ import type { Asking } from "akasha/changes/runners/pages/mechanical-change-runn
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { type Answer, answering } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const DAYS_AT = "alan/track/daily/days/pages/"
 
@@ -24,7 +25,7 @@ export function trackedIn(path: string | null): boolean {
 }
 
 export function outsideTracked(said: string): string {
-  const under = TRACKED_AT.map((one) => `\`${one}\``).join(" or ")
+  const under = namesDrawn(TRACKED_AT, " or ")
   return `${said} is not under ${under}, and this lands what Alan's tracking composes and nothing else`
 }
 
