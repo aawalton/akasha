@@ -1,3 +1,4 @@
+import { wordsOf } from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
 import type {
   Given,
   Refusal,
@@ -39,10 +40,6 @@ const SANCTIONED = "env -u VAR BASH_ENV= bash -c '...'"
 const UNDONE =
   "BASH_ENV still names the startup file every non-interactive bash reads before its first " +
   "command, and that file hands the shell back the names this call took away"
-
-function wordsOf(text: string): readonly Word[] {
-  return text.split(/\s+/).filter((one) => one !== "")
-}
 
 export function saidIn(node: ts.Node): readonly Word[] {
   if (ts.isStringLiteral(node) || ts.isNoSubstitutionTemplateLiteral(node))
