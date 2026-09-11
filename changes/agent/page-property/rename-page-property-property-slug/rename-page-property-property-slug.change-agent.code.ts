@@ -6,6 +6,7 @@ import {
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { pageIn } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
 import {
+  holdingIn,
   isLedger,
   ledgerAt,
   type Reaches,
@@ -155,7 +156,7 @@ function filedUnder(world: World, shape: Declared): readonly string[] {
   const key = exportedAs(slug)
   const found: string[] = []
   const seen = new Set<string>()
-  const holds = (at: string): boolean => world.textOf(at) !== null
+  const holds = holdingIn(world)
   for (const one of world.index.declaringOf(shape.id)) {
     if (one.kind !== PAGE_TYPE) continue
     for (const kind of world.index.kindsUnder(one.slug)) {

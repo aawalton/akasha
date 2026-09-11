@@ -13,7 +13,11 @@ import type {
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { spelledAnew } from "akasha/changes/modules/package-naming/package-naming.module.code.ts"
 import { statedIn } from "akasha/changes/modules/page-literal/page-literal.module.code.ts"
-import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
+  holdingIn,
+  reach,
+  type World,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import { reachesIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import { namedAs, slugIn } from "akasha/pages/address/page-address.module.code.ts"
@@ -126,7 +130,7 @@ function besideIn(world: World, held: Held): readonly Beside[] {
 
 function partedIn(world: World, at: string, slug: string, beside: Sidecar): readonly Beside[] {
   if (!beside.uncommitted) return [(path) => besideAt(path, slug, beside.held)]
-  const there = (one: string): boolean => world.textOf(one) !== null
+  const there = holdingIn(world)
   return uncommittedPartsOf(at, slug, beside.held, there).map(
     (_one, index) => (path: string) => uncommittedPartAt(path, slug, beside.held, index + FIRST)
   )

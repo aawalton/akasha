@@ -166,6 +166,10 @@ export function pathsThere(world: World): readonly string[] {
   return [...found]
 }
 
+export function holdingIn(world: World): (path: string) => boolean {
+  return (path) => world.textOf(path) !== null
+}
+
 export function bytesOf(body: Held | null): Uint8Array | null {
   return body === null || notText(body) ? null : BYTES.encode(body)
 }

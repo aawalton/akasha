@@ -151,6 +151,10 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A world says here whether that world holds text at a path.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body that is not text is answered as not text rather than as no body.",
     },
     {
