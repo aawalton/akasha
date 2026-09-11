@@ -11,6 +11,10 @@ import { usePages } from "akasha/pages/ui/supabase/use-pages/use-pages.module.co
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import type { CompanionBuildMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import {
+  type BuildRow,
+  mapBuildRow,
+} from "akasha/temper/build-support/build-row/build-row.module.code.ts"
+import {
   type CompanionBaseRoleId,
   companionBaseRoles,
 } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
@@ -20,26 +24,11 @@ import {
 } from "akasha/temper/companions-core/companion-roles/companion-roles.module.code.ts"
 import type { CompanionVisibility } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
-import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
-import { parseTimestamp } from "akasha/utils/narrow/parse-timestamp/parse-timestamp.module.code.ts"
 import { useMemo } from "react"
 
 const COMPANION_BUILD_PAGE_TYPE_SLUG = "companion-build"
 
-export interface CompanionBuildRow {
-  id: string
-  userId: string
-  buildHash: string
-  buildMetadata: CompanionBuildMetadata | null
-  visibility: string
-  correlationId: string | null
-  createdAt: number
-  updatedAt: number
-}
-
-function parseStringOrNull(value: unknown): string | null {
-  return typeof value === "string" ? value : null
-}
+export type CompanionBuildRow = BuildRow<CompanionBuildMetadata>
 
 const VALID_BASE_ROLE_IDS = new Set<string>(companionBaseRoles.ids)
 const VALID_ROLE_IDS = new Set<string>(companionRoles.ids)
@@ -70,19 +59,6 @@ function parseBuildMetadata(value: unknown): CompanionBuildMetadata | null {
   }
 }
 
-function mapBuildRow(row: Record<string, unknown>): CompanionBuildRow {
-  return {
-    id: parseString(row.id),
-    userId: parseString(row.userId),
-    buildHash: parseString(row.buildHash),
-    buildMetadata: parseBuildMetadata(row.buildMetadata),
-    visibility: parseString(row.visibility, "private"),
-    correlationId: parseStringOrNull(row.correlationId),
-    createdAt: parseTimestamp(row.createdAt),
-    updatedAt: parseTimestamp(row.updatedAt),
-  }
-}
-
 function buildMetadataToJson(meta: CompanionBuildMetadata): Json {
   const json: Json = {
     name: meta.name,
@@ -108,7 +84,7 @@ export function useCompanionList() {
 
   const builds = useMemo<CompanionBuildRow[]>(() => {
     if (userId == null) return []
-    return rows.map(mapBuildRow)
+    return rows.map((row) => mapBuildRow(row, parseBuildMetadata))
   }, [rows, userId])
 
   return {
@@ -134,7 +110,7 @@ export function useCompanion(buildId: string) {
   const build = useMemo<CompanionBuildRow | undefined>(() => {
     const row = rows[0]
     if (!row) return undefined
-    return mapBuildRow(row)
+    return mapBuildRow(row, parseBuildMetadata)
   }, [rows])
 
   const updateBuild = async (buildHash: string, buildMetadata: CompanionBuildMetadata) => {
@@ -369,8 +345,8 @@ export function useAllCompanionList(userId: string | null) {
 
   const isLoading = userRead.isLoading || publicRead.isLoading
 
-  const userBuilds = userRead.rows.map(mapBuildRow)
-  const publicBuilds = publicRead.rows.map(mapBuildRow)
+  const userBuilds = userRead.rows.map((row) => mapBuildRow(row, parseBuildMetadata))
+  const publicBuilds = publicRead.rows.map((row) => mapBuildRow(row, parseBuildMetadata))
   const userBuildIds = new Set(userBuilds.map((b) => b.id))
   const merged = [...userBuilds, ...publicBuilds.filter((b) => !userBuildIds.has(b.id))]
   return { builds: merged, isLoading }
