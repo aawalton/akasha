@@ -1,4 +1,4 @@
-import type { Cluster } from "akasha/machines/clusters/cluster.page-type.types.ts"
+import type { Cluster } from "akasha/infrastructure/machines/clusters/cluster.page-type.types.ts"
 
 export const main = {
   id: "01a06861-f664-7ced-b392-e456ab24bd07",
