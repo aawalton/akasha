@@ -6,7 +6,6 @@ export const alanwalton = {
   type: "ios-app",
   slug: "alanwalton",
   definition: "the app on Alan's phone and the shell it runs in",
-  manifest: "json",
   appProfileName: "alanwalton app App Store",
   ascCapabilities: ["PUSH_NOTIFICATIONS", "HEALTHKIT"],
   buildScript: "shell-script/build-sim",

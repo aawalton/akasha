@@ -126,21 +126,6 @@
         "vscode",
       ],
     },
-    "code-system/ios-apps/pages/alanwalton": {
-      "name": "@alanwalton/native-shell",
-      "version": "0.0.1",
-      "dependencies": {
-        "@capacitor/app": "^8.0.0",
-        "@capacitor/core": "^8.4.1",
-        "@capacitor/filesystem": "^7.1.4",
-        "@capacitor/ios": "^8.4.1",
-        "@capacitor/push-notifications": "^8.1.1",
-        "@capacitor/status-bar": "^8.0.0",
-      },
-      "devDependencies": {
-        "@capacitor/cli": "^8.4.1",
-      },
-    },
   },
   "trustedDependencies": [
     "esbuild",
@@ -153,8 +138,6 @@
   },
   "packages": {
     "@acemir/cssom": ["@acemir/cssom@0.9.31", "", {}, "sha512-ZnR3GSaH+/vJ0YlHau21FjfLYjMpYVIzTD8M8vIEQvIGxeOXyXdzCI140rrCY862p/C/BbzWsjc1dgnM9mkoTA=="],
-
-    "@alanwalton/native-shell": ["@alanwalton/native-shell@workspace:code-system/ios-apps/pages/alanwalton"],
 
     "@asamuzakjp/css-color": ["@asamuzakjp/css-color@5.1.11", "", { "dependencies": { "@asamuzakjp/generational-cache": "^1.0.1", "@csstools/css-calc": "^3.2.0", "@csstools/css-color-parser": "^4.1.0", "@csstools/css-parser-algorithms": "^4.0.0", "@csstools/css-tokenizer": "^4.0.0" } }, "sha512-KVw6qIiCTUQhByfTd78h2yD1/00waTmm9uy/R7Ck/ctUyAPj+AEDLkQIdJW0T8+qGgj3j5bpNKK7Q3G+LedJWg=="],
 
