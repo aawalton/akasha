@@ -8,6 +8,7 @@ export const calculationLoading = {
   definition: "the function a computed property's code file exports, taken from that file's text",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

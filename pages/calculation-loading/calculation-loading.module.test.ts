@@ -1,11 +1,10 @@
 import { describe, expect, test } from "bun:test"
 import { workIn } from "akasha/pages/calculation-loading/calculation-loading.module.code.ts"
+import { AT } from "akasha/pages/calculation-loading/calculation-loading.module.test-fixtures.ts"
 import type { Reach } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 import type { Held } from "akasha/pages/computing/page-computing.module.code.ts"
 
 const REACH: Reach = { target: () => null, naming: () => [] }
-
-const AT = "day/properties/sleep-hours.computed-property.code.ts"
 
 const CALCULATION = [
   'import type { Work } from "@akasha/pages/computed-property"',
