@@ -9,11 +9,6 @@ export const eppieSpotifyCleanup = {
   persona: "eppie",
   intents: [
     {
-      statement: "Exactly one spotify module states that every call goes through it.",
-      workingMemory:
-        "Two do. `spotify-fetching` is `the one function every call to Spotify is made through` and `spotify-client` is `one paced queue every Spotify Web API call goes through`. Both are true: fetching is a seventeen-line indirection over `fetch` that a test swaps out, and the token calls in `spotify-auth` and `spotify-auth-cli` reach it without the queue. The distinction rides on the words `Web API`, so a reader opens both to learn which one to import.",
-    },
-    {
       statement: "The PKCE handoff carries nothing the exchange does not read.",
       workingMemory:
         "`spotify-pkce-store` writes a verifier and a state, and its shape refuses a handoff carrying anything else. The exchange step in `spotify-auth-cli` reads `handoff.verifier` alone. A grep over `alan/music/spotify` finds `state` read back nowhere. It is sent to Spotify in the authorize URL, but Alan hand-copies only the code off the callback page, so nothing ever compares the state that comes back. Either the exchange checks it or the store stops keeping it.",
