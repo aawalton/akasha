@@ -12,6 +12,7 @@ export const workstationService = {
     "module/file-following",
     "module/service-alerting",
     "module/service-beating",
+    "module/service-checkout",
     "module/service-health",
     "module/service-installing",
     "module/service-reaching",

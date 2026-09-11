@@ -10,6 +10,7 @@ import {
   type Telling,
   told,
 } from "../service-alerting/service-alerting.module.code.ts"
+import { checkoutAt } from "../service-checkout/service-checkout.module.code.ts"
 import { type Health, healthFor } from "../service-health/service-health.module.code.ts"
 import { looked } from "../service-wellness/service-wellness.module.code.ts"
 
@@ -133,13 +134,9 @@ export function homeAt(): string {
   return optionalEnv("HOME") ?? process.cwd()
 }
 
-export function rootAt(): string {
-  return optionalEnv("AKASHA_ROOT") ?? process.cwd()
-}
-
 if (import.meta.main) {
   const ticked = await ticking({
-    root: rootAt(),
+    root: checkoutAt(),
     home: homeAt(),
     now: new Date().toISOString(),
   })

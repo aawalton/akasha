@@ -1,6 +1,6 @@
 import { basename, resolve } from "node:path"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { digestOf, followFiles } from "../file-following/file-following.module.code.ts"
+import { checkoutAt } from "../service-checkout/service-checkout.module.code.ts"
 import { localClosure, REACHED_CEILING } from "../service-reaching/service-reaching.module.code.ts"
 import { RESTART_EXIT } from "../unit-writing/unit-writing.module.code.ts"
 
@@ -27,10 +27,6 @@ export function namedIn(moved: readonly string[], root: string): string {
   const named = moved.slice(0, NAMED_AT_MOST).map((at) => at.replace(`${root}/`, ""))
   const rest = moved.length > NAMED_AT_MOST ? ` and ${moved.length - NAMED_AT_MOST} more` : ""
   return `${named.join(", ")}${rest}`
-}
-
-export function rootOf(): string {
-  return optionalEnv("AKASHA_ROOT") ?? process.cwd()
 }
 
 const CODE_FILE = /\.(ts|tsx|mts|cts)$/
@@ -144,5 +140,5 @@ if (import.meta.main) {
     process.stderr.write("service-wrapping: name the command to run, after `--`\n")
     process.exit(REFUSED_EXIT)
   }
-  process.exit(await wrapping({ root: rootOf(), command }))
+  process.exit(await wrapping({ root: checkoutAt(), command }))
 }
