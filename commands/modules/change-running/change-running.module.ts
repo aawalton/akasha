@@ -143,6 +143,10 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "That command leaves the kind empty, which the page in history states.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A subagent dispatched a moment ago can run before that page lands.",
     },
     {

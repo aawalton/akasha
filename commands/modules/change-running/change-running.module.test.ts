@@ -7,6 +7,7 @@ import {
   changing,
   owedBy,
   owingBy,
+  puttingUpSaid,
   stamped,
   textIn,
 } from "akasha/commands/modules/change-running/change-running.module.code.ts"
@@ -50,8 +51,17 @@ import {
   NAMER_PAGE,
   scratch,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
+
+const PRESENCE_AT = "akasha/subagent-presence.module.ts"
+
+const PRESENCE_ID = "01a08f0a-0000-7000-8000-000000000001"
+
+const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
+
+const OWN = "a38f63805f9b94edf"
 
 test("a change answers its edits and appends the edits beside the calling agent's page", async () => {
   const root = repo()
@@ -386,6 +396,16 @@ test("a change whose writer owes reading asks the record before appending its ed
   expect(said.code).toBe(3)
   expect(said.refusals[0] ?? "").toContain("names no agent")
   expect(pathsIn(root)).toEqual([])
+})
+
+test("the call that puts a page up names no kind to guess", () => {
+  const root = repo()
+  listedFiled(root, "module", "subagent-presence", [{ path: PRESENCE_AT, id: PRESENCE_ID }])
+
+  const said = puttingUpSaid(root, `${SEAT_ID}--${OWN}`)
+
+  expect(said).toContain("akasha/subagent-presence.module.code.ts")
+  expect(said).toContain(` write <the seat> ${OWN} '' ${SEAT_ID}`)
 })
 
 test("a change whose writer owes no reading appends without asking the record", async () => {

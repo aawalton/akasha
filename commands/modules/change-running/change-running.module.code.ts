@@ -51,7 +51,8 @@ import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts
 
 export const PAGE_LANDING =
   "A subagent dispatched a moment ago can run before its page lands, and a landing refused leaves" +
-  " that subagent with no page at all. Run this from a terminal to put the page up, then ask again:"
+  " that subagent with no page at all. The empty argument is the kind, which the page in" +
+  " history states. Run this from a terminal to put the page up, then ask again:"
 
 export function noPageSaid(root: string, agentId: string | null): string {
   const said = puttingUpSaid(root, agentId)
@@ -409,8 +410,7 @@ export function puttingUpSaid(root: string, agentId: string | null): string | nu
   const mark = agentId === null ? -1 : agentId.indexOf(SUBAGENT_MARK)
   const held =
     agentId === null || mark <= 0
-      ? "<the seat> <the id the subagent runs under> <the kind it was dispatched as> <the seat's id>"
-      : `<the seat> ${agentId.slice(mark + SUBAGENT_MARK.length)}` +
-        ` <the kind it was dispatched as> ${agentId.slice(0, mark)}`
+      ? "<the seat> <the id the subagent runs under> '' <the seat's id>"
+      : `<the seat> ${agentId.slice(mark + SUBAGENT_MARK.length)} '' ${agentId.slice(0, mark)}`
   return `bun ${join(root, at)} ${root} ${PUTTING_UP} ${held}`
 }

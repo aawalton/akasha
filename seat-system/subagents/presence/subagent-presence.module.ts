@@ -73,6 +73,14 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "A page history states the kind for is written though the call names no kind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming no kind writes nothing where history states no kind either.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A call that wrote nothing answers why rather than answering that the call did not.",
     },

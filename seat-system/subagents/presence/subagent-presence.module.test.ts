@@ -326,6 +326,22 @@ test("a page taken up under a seat stating no assignment takes history's", async
   })
 })
 
+test("a page in history is taken up though the call names no kind", async () => {
+  await underSeat(async (root) => {
+    heldInHistory(root, OWN, agentIdOf(SEAT_ID, OWN), "Explore")
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, null, LANDS)).toEqual(WENT)
+    expect(landedAt(root, OWN)).toContain('dispatchedAs: "Explore"')
+  })
+})
+
+test("a call naming no kind writes nothing where history states none", async () => {
+  await underSeat(async (root) => {
+    const went = await wrote(root, "akasha", SEAT_ID, OWN, null, LANDS)
+    expect(whyIn(went)).toContain("no kind is named")
+    expect(existsSync(join(root, pathOf(slugOf("akasha", OWN))))).toBe(false)
+  })
+})
+
 test("a page in history under another agent id is composed afresh", async () => {
   await underSeat(async (root) => {
     heldInHistory(root, OWN, agentIdOf(ANOTHER, OWN), "Explore")

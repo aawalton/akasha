@@ -147,7 +147,7 @@ export async function wrote(
   seatName: string,
   seatId: string,
   own: string,
-  dispatchedAs: string,
+  dispatchedAs: string | null,
   landing: Landing = runMechanicalChange
 ): Promise<Went> {
   const slug = slugOf(seatName, own)
@@ -164,14 +164,15 @@ export async function wrote(
         ` assignment its seat states, so ${at} was not written`,
     }
   }
-  const content = bodyOf(
-    slug,
-    seatName,
-    assignmentSlug,
-    textAt(held, KIND) ?? dispatchedAs,
-    agentId,
-    textAt(held, ID)
-  )
+  const kind = textAt(held, KIND) ?? dispatchedAs
+  if (kind === null) {
+    return {
+      why:
+        `no kind is named for ${slug} and no page in history states the kind it was dispatched` +
+        ` as, so ${at} was not written`,
+    }
+  }
+  const content = bodyOf(slug, seatName, assignmentSlug, kind, agentId, textAt(held, ID))
   return wentBy(
     await landing(
       root,
@@ -340,10 +341,9 @@ export async function ran(argv: readonly string[]): Promise<number> {
   if (own === undefined || own === "") return saying(`${act} ${seatName}: no subagent id was named`)
   const at = `${act} ${seatName} ${own}`
   if (act === WRITING) {
-    if (dispatchedAs === undefined || dispatchedAs === "")
-      return saying(`${at} — no kind was named`)
     if (seatId === undefined || seatId === "") return saying(`${at} — no seat id was named`)
-    const put = await landingAgain(() => wrote(root, seatName, seatId, own, dispatchedAs))
+    const kind = dispatchedAs === undefined || dispatchedAs === "" ? null : dispatchedAs
+    const put = await landingAgain(() => wrote(root, seatName, seatId, own, kind))
     return answering(put, at)
   }
   if (act === TAKING) return answering(await landingAgain(() => took(root, seatName, own)), at)
