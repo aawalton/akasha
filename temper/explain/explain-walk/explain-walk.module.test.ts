@@ -4,7 +4,7 @@ import {
   type JsonOutput,
   type RuleTraceRow,
   type TtcBreakdown,
-} from "./explain-walk.module.code.ts"
+} from "akasha/temper/explain/explain-walk/explain-walk.module.code.ts"
 
 function row(over: Partial<RuleTraceRow> = {}): RuleTraceRow {
   return {
