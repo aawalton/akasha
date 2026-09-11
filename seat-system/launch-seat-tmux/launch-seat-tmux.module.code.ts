@@ -6,9 +6,9 @@ import {
   shellQuoted,
   supervisorEntryArgv,
   underScope,
-} from "../seat-launching/seat-launching.module.code.ts"
-import { SEAT_MODE_HEADLESS } from "../seat-modes/seat-modes.module.code.ts"
-import { removeSubagentPagesOf } from "../subagent-page/subagent-page.module.code.ts"
+} from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
+import { SEAT_MODE_HEADLESS } from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
+import { removeSubagentPagesOf } from "akasha/seat-system/subagent-page/subagent-page.module.code.ts"
 
 const TMUX_CALL_CEILING_MS = 10_000
 

@@ -3,8 +3,8 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { resolveSlot, scan } from "../../seat-resolve/seat-resolve.module.code.ts"
-import { seatRoster } from "../../seat-roster/seat-roster.module.code.ts"
+import { resolveSlot, scan } from "akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
+import { seatRoster } from "akasha/seat-system/seat-roster/seat-roster.module.code.ts"
 
 export interface SeatRow {
   readonly id: string

@@ -1,18 +1,18 @@
 #!/usr/bin/env bun
 
 import { writeSync } from "node:fs"
-import { type BunPtyTerminal, spawnPty } from "../bun-pty/bun-pty.module.code.ts"
+import { type BunPtyTerminal, spawnPty } from "akasha/seat-system/bun-pty/bun-pty.module.code.ts"
 import {
   createRisingEdgeDetector,
   DEV_CHANNEL_MARKER,
   INJECT_DELAY_MS,
-} from "../pty-proxy-detector/pty-proxy-detector.module.code.ts"
-import { createTerminalDeathController } from "../pty-terminal-death/pty-terminal-death.module.code.ts"
+} from "akasha/seat-system/pty-proxy-detector/pty-proxy-detector.module.code.ts"
+import { createTerminalDeathController } from "akasha/seat-system/pty-terminal-death/pty-terminal-death.module.code.ts"
 import {
   applySttySane,
   TERMINAL_MODE_RESET,
-} from "../supervising/supervisor-terminal/supervisor-terminal.module.code.ts"
-import { createTypingMinuteRecorder } from "../typing-minutes/typing-minutes.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-terminal/supervisor-terminal.module.code.ts"
+import { createTypingMinuteRecorder } from "akasha/seat-system/typing-minutes/typing-minutes.module.code.ts"
 
 const TERMINAL_DEATH_GRACE_MS = 15_000
 

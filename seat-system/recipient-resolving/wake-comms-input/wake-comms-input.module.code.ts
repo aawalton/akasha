@@ -1,5 +1,5 @@
-import { AGENT_SENDER_PREFIX } from "../../wake-armed-specs/wake-armed-specs.module.code.ts"
-import type { CommsInput } from "../seat-wake-rules/seat-wake-rules.module.code.ts"
+import type { CommsInput } from "akasha/seat-system/recipient-resolving/seat-wake-rules/seat-wake-rules.module.code.ts"
+import { AGENT_SENDER_PREFIX } from "akasha/seat-system/wake-armed-specs/wake-armed-specs.module.code.ts"
 
 export interface WakeMessageRow {
   readonly senderAgentId: string | null

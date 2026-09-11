@@ -1,11 +1,11 @@
-import type { GlobalKillTarget } from "../memory-reaper-global/memory-reaper-global.module.code.ts"
+import type { GlobalKillTarget } from "akasha/seat-system/memory-reaping/memory-reaper-global/memory-reaper-global.module.code.ts"
 import {
   assessMemoryKill,
   assessTreeKills,
   KB_PER_GB,
-} from "../memory-reaper-legs/memory-reaper-legs.module.code.ts"
-import { seatBindingInArgv } from "../memory-reaper-owner/memory-reaper-owner.module.code.ts"
-import type { PidSnapshot } from "../memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
+} from "akasha/seat-system/memory-reaping/memory-reaper-legs/memory-reaper-legs.module.code.ts"
+import { seatBindingInArgv } from "akasha/seat-system/memory-reaping/memory-reaper-owner/memory-reaper-owner.module.code.ts"
+import type { PidSnapshot } from "akasha/seat-system/memory-reaping/memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 
 export type PlannedTreeKill = {
   rootPid: number

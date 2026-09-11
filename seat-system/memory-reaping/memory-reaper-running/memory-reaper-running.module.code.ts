@@ -1,15 +1,15 @@
 import {
-  sleptUntilStopped,
-  stopsOnSignal,
-} from "../../../services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
-import {
   reaperConfigBanner,
   TICK_MS,
-} from "../memory-reaper-config/memory-reaper-config.module.code.ts"
+} from "akasha/seat-system/memory-reaping/memory-reaper-config/memory-reaper-config.module.code.ts"
 import {
   type ReaperState,
   runBoundedReaperTick,
-} from "../memory-reaper-tick/memory-reaper-tick.module.code.ts"
+} from "akasha/seat-system/memory-reaping/memory-reaper-tick/memory-reaper-tick.module.code.ts"
+import {
+  sleptUntilStopped,
+  stopsOnSignal,
+} from "akasha/services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
 
 async function main(): Promise<void> {
   const ac = stopsOnSignal()

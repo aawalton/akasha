@@ -14,7 +14,7 @@ import type {
   Repo,
 } from "akasha/pages/markdown-document/markdown-document.module.code.ts"
 import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
-import { fail } from "../command-failing/command-failing.module.code.ts"
+import { fail } from "akasha/seat-system/command-failing/command-failing.module.code.ts"
 
 const STANDALONE = [
   "--dry-run",

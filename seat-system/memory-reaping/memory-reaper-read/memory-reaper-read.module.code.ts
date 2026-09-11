@@ -1,7 +1,7 @@
 import { readdirSync, readFileSync } from "node:fs"
+import type { PidSnapshot } from "akasha/seat-system/memory-reaping/memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 import { isSupervisorCmdline } from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
 import { z } from "zod"
-import type { PidSnapshot } from "../memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 
 const FIRST_CAPTURE = z
   .unknown()

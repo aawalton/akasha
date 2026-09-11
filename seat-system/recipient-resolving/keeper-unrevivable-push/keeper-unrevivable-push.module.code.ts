@@ -1,9 +1,9 @@
 import {
   ALAN_PERSON,
   notify,
-} from "../../../alan/harness/notification-feeds/notifying/notifying.module.code.ts"
-import type { NotifyInput } from "../../../alan/harness/notification-feeds/rows/notification-feed-rows.module.code.ts"
-import { writeMessage } from "../../messaging/message-file/message-file.module.code.ts"
+} from "akasha/alan/harness/notification-feeds/notifying/notifying.module.code.ts"
+import type { NotifyInput } from "akasha/alan/harness/notification-feeds/rows/notification-feed-rows.module.code.ts"
+import { writeMessage } from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
 
 const KEEPER_UNREVIVABLE_KIND = "keeper-unrevivable"
 const KEEPER_UNREVIVABLE_SOURCE = "supervisor"

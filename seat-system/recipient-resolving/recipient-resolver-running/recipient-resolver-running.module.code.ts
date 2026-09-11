@@ -2,6 +2,7 @@ import {
   listPersonaSlugs,
   listPersonaWakeSources,
 } from "akasha/personas/targets/persona-targets.module.code.ts"
+import { listPersonHandlers } from "akasha/seat-system/recipient-resolving/person-handlers/person-handlers.module.code.ts"
 import {
   recipientResolverConfigBanner,
   resolveRecipientResolverConfig,
@@ -12,8 +13,7 @@ import { runRecipientResolverTick } from "akasha/seat-system/recipient-resolving
 import {
   sleptUntilStopped,
   stopsOnSignal,
-} from "../../../services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
-import { listPersonHandlers } from "../person-handlers/person-handlers.module.code.ts"
+} from "akasha/services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
 
 async function main(): Promise<void> {
   const ac = stopsOnSignal()

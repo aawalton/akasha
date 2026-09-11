@@ -1,5 +1,8 @@
-import { seatNameForAgent } from "../../seat-presence-read/seat-presence-read.module.code.ts"
-import { claimedBefore, releaseClaim } from "../message-file/message-file.module.code.ts"
+import {
+  claimedBefore,
+  releaseClaim,
+} from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
+import { seatNameForAgent } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 
 export interface ClaimedBeforeRow {
   readonly id: string

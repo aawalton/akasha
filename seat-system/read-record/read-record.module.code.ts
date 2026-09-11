@@ -1,4 +1,4 @@
-import { SUBAGENT_MARK } from "../subagent-naming/subagent-naming.module.code.ts"
+import { SUBAGENT_MARK } from "akasha/seat-system/subagent-naming/subagent-naming.module.code.ts"
 
 function parseIdentifier(value: unknown): string | null {
   return typeof value === "string" && value.trim() !== "" ? value.trim() : null

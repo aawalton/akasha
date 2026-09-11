@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { bootPromptFor } from "./message-to-start.module.code.ts"
+import { bootPromptFor } from "akasha/seat-system/messaging/message-to-start/message-to-start.module.code.ts"
 
 describe("bootPromptFor", () => {
   test("says the domain and the role the seat answers for", () => {

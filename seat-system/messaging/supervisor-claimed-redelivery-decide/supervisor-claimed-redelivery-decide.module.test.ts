@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   type ClaimedCandidate,
   decideClaimedRedelivery,
-} from "./supervisor-claimed-redelivery-decide.module.code.ts"
+} from "akasha/seat-system/messaging/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
 
 const STARTED = 1_000
 

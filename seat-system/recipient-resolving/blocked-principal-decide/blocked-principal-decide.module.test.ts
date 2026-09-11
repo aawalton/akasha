@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { decideBlockedPrincipal } from "./blocked-principal-decide.module.code.ts"
+import { decideBlockedPrincipal } from "akasha/seat-system/recipient-resolving/blocked-principal-decide/blocked-principal-decide.module.code.ts"
 
 test("no principal is derivable for a named agent, and the reason names it", () => {
   const said = decideBlockedPrincipal({ agentName: "scribe" })

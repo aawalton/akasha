@@ -5,7 +5,7 @@ import {
   messageDirRelPath,
   recipientRefused,
   unclaimedTo,
-} from "../message-file/message-file.module.code.ts"
+} from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
 
 const BACKSTOP_MS = 5_000
 

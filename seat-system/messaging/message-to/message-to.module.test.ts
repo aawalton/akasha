@@ -6,7 +6,7 @@ import {
   readStated,
   type SeatRow,
   type Stated,
-} from "./message-to.module.code.ts"
+} from "akasha/seat-system/messaging/message-to/message-to.module.code.ts"
 
 function seat(id: string, domain: string, role: string, activeAtMs: number): SeatRow {
   return { id, name: id, domain, role, activeAtMs }

@@ -1,22 +1,22 @@
 import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
+import type {
+  ProxyLivenessRuleSource,
+  ProxyLivenessState,
+} from "akasha/seat-system/oauth-proxy/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
+import {
+  fetchHealthzOk,
+  respawnOAuthProxy,
+  type SupervisorOAuthProxyHandle,
+} from "akasha/seat-system/oauth-proxy/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
+import {
+  type OAuthProxyState,
+  readProxyState,
+} from "akasha/seat-system/seat-proxy-state/seat-proxy-state.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import { guardTick } from "akasha/seat-system/supervising/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import { setOAuthProxyHandle } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
-import {
-  type OAuthProxyState,
-  readProxyState,
-} from "../../seat-proxy-state/seat-proxy-state.module.code.ts"
-import type {
-  ProxyLivenessRuleSource,
-  ProxyLivenessState,
-} from "../supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
-import {
-  fetchHealthzOk,
-  respawnOAuthProxy,
-  type SupervisorOAuthProxyHandle,
-} from "../supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 
 export const PROXY_LIVENESS_INTERVAL_MS = 30_000
 

@@ -1,7 +1,10 @@
 import { describe, expect, test } from "bun:test"
-import { KB_PER_GB } from "../memory-reaper-legs/memory-reaper-legs.module.code.ts"
-import { snap } from "../memory-reaper-legs/memory-reaper-legs.module.test-fixtures.ts"
-import { assessGlobalKill, assessRecoveryWindow } from "./memory-reaper-global.module.code.ts"
+import {
+  assessGlobalKill,
+  assessRecoveryWindow,
+} from "akasha/seat-system/memory-reaping/memory-reaper-global/memory-reaper-global.module.code.ts"
+import { KB_PER_GB } from "akasha/seat-system/memory-reaping/memory-reaper-legs/memory-reaper-legs.module.code.ts"
+import { snap } from "akasha/seat-system/memory-reaping/memory-reaper-legs/memory-reaper-legs.module.test-fixtures.ts"
 
 const TIGHT = {
   availableKb: 2 * KB_PER_GB,

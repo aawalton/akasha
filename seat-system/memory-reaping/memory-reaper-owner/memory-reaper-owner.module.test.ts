@@ -1,10 +1,10 @@
 import { describe, expect, test } from "bun:test"
-import type { PidSnapshot } from "../memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 import {
   MAX_OWNER_HOPS,
   resolveSeatBinding,
   seatBindingInArgv,
-} from "./memory-reaper-owner.module.code.ts"
+} from "akasha/seat-system/memory-reaping/memory-reaper-owner/memory-reaper-owner.module.code.ts"
+import type { PidSnapshot } from "akasha/seat-system/memory-reaping/memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 
 const AGENT = "11111111-2222-3333-4444-555555555555"
 const SESSION = "66666666-7777-8888-9999-aaaaaaaaaaaa"

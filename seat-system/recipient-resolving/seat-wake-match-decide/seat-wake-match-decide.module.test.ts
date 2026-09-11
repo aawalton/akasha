@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import type { CommsRule } from "../seat-wake-rules/seat-wake-rules.module.code.ts"
-import { decideSeatWake, decideWakeMatch } from "./seat-wake-match-decide.module.code.ts"
+import {
+  decideSeatWake,
+  decideWakeMatch,
+} from "akasha/seat-system/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.code.ts"
+import type { CommsRule } from "akasha/seat-system/recipient-resolving/seat-wake-rules/seat-wake-rules.module.code.ts"
 
 const RULE: CommsRule = {
   id: "rule-1",

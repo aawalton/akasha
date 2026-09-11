@@ -1,8 +1,14 @@
 import type { WriteAct } from "akasha/pages/landing-judge/page-landing-judge.module.code.ts"
-import { resolveSeatTarget } from "../../seat-handle/seat-handle.module.code.ts"
-import { messagePageAddress } from "../message-page-address/message-page-address.module.code.ts"
-import { names, undeclared } from "../message-to/message-to.module.code.ts"
-import { reachSeat, resumeSeat } from "../message-to-start/message-to-start.module.code.ts"
+import { messagePageAddress } from "akasha/seat-system/messaging/message-page-address/message-page-address.module.code.ts"
+import {
+  names,
+  undeclared,
+} from "akasha/seat-system/messaging/message-to/message-to.module.code.ts"
+import {
+  reachSeat,
+  resumeSeat,
+} from "akasha/seat-system/messaging/message-to-start/message-to-start.module.code.ts"
+import { resolveSeatTarget } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
 
 const MESSAGE = "message"
 

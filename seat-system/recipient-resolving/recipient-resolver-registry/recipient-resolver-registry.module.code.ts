@@ -3,20 +3,20 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import {
+  handlerSeatName,
+  identityHeardFrom,
+} from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import type {
   CommsRule,
   OnDemandAgentSpec,
 } from "akasha/seat-system/recipient-resolving/seat-wake-rules/seat-wake-rules.module.code.ts"
 import {
-  handlerSeatName,
-  identityHeardFrom,
-} from "../../compose-seat-name/compose-seat-name.module.code.ts"
-import {
   type PersonHandlerIdentity,
   personHandlerSpec,
   smsWakeSource,
   standingPersonaSpec,
-} from "../../wake-armed-specs/wake-armed-specs.module.code.ts"
+} from "akasha/seat-system/wake-armed-specs/wake-armed-specs.module.code.ts"
 
 const ROOT = rootFor(resolveRoots(), AKASHA)
 

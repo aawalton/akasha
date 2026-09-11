@@ -2,8 +2,11 @@ import {
   HANDLER,
   handlerSeatName,
   personPrincipals,
-} from "../../compose-seat-name/compose-seat-name.module.code.ts"
-import { readStated, type Stated } from "../message-to/message-to.module.code.ts"
+} from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
+import {
+  readStated,
+  type Stated,
+} from "akasha/seat-system/messaging/message-to/message-to.module.code.ts"
 
 const SEGMENT = "/"
 

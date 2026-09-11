@@ -1,7 +1,7 @@
 import {
   type OAuthProxyState,
   readProxyState,
-} from "../../seat-proxy-state/seat-proxy-state.module.code.ts"
+} from "akasha/seat-system/seat-proxy-state/seat-proxy-state.module.code.ts"
 
 export type ProxyStopDecision = { stop: boolean; reason: string }
 

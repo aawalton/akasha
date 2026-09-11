@@ -2,8 +2,8 @@ import {
   assessTreeKills,
   KB_PER_GB,
   type TreeKillResult,
-} from "../memory-reaper-legs/memory-reaper-legs.module.code.ts"
-import type { PidSnapshot } from "../memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
+} from "akasha/seat-system/memory-reaping/memory-reaper-legs/memory-reaper-legs.module.code.ts"
+import type { PidSnapshot } from "akasha/seat-system/memory-reaping/memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 
 export const GLOBAL_MIN_AVAIL_GB = 4
 

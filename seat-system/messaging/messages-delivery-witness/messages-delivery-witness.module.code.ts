@@ -1,4 +1,3 @@
-import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
 import {
   type AttributedFinding,
   classifyDeliveryRecords,
@@ -7,7 +6,8 @@ import {
   type DeliveryRecord,
   type DeliveryVerdict,
   readDeliveryRecords,
-} from "../../channel-delivery/channel-delivery.module.code.ts"
+} from "akasha/seat-system/channel-delivery/channel-delivery.module.code.ts"
+import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
 
 export const WITNESS_OBSERVATION_LIMIT = 3
 

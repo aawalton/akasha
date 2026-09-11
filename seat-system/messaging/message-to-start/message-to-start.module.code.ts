@@ -3,10 +3,6 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { handlerDerives } from "../../seat-answering/seat-answering.module.code.ts"
-import { SEAT_MODE_HEADLESS } from "../../seat-modes/seat-modes.module.code.ts"
-import { resumeSeat as putTheSeatBack } from "../../seat-resume/seat-resume.module.code.ts"
-import { startSeat as startTheSeat } from "../../seat-start/seat-start.module.code.ts"
 import {
   decideRecipient,
   names,
@@ -14,7 +10,11 @@ import {
   type SeatRow,
   type Stated,
   seatsStating,
-} from "../message-to/message-to.module.code.ts"
+} from "akasha/seat-system/messaging/message-to/message-to.module.code.ts"
+import { handlerDerives } from "akasha/seat-system/seat-answering/seat-answering.module.code.ts"
+import { SEAT_MODE_HEADLESS } from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
+import { resumeSeat as putTheSeatBack } from "akasha/seat-system/seat-resume/seat-resume.module.code.ts"
+import { startSeat as startTheSeat } from "akasha/seat-system/seat-start/seat-start.module.code.ts"
 
 const PATIENCE_MS = 120_000
 

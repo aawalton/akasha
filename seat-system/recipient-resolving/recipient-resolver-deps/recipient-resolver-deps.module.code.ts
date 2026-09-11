@@ -1,23 +1,23 @@
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import type { CommsInput } from "akasha/seat-system/recipient-resolving/seat-wake-rules/seat-wake-rules.module.code.ts"
-import { agentPresence } from "../../seat-presence-read/seat-presence-read.module.code.ts"
-import { LOG } from "../../supervising/supervisor-config/supervisor-config.module.code.ts"
 import {
   messageUnrevivableToKeeper,
   pushKeeperUnrevivableToAlan,
-} from "../keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts"
-import type { RecipientResolverConfig } from "../recipient-resolver-config/recipient-resolver-config.module.code.ts"
+} from "akasha/seat-system/recipient-resolving/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts"
+import type { RecipientResolverConfig } from "akasha/seat-system/recipient-resolving/recipient-resolver-config/recipient-resolver-config.module.code.ts"
 import {
   getAgentInboundMessages,
   type InboundMessageRow,
-} from "../recipient-resolver-inbound/recipient-resolver-inbound.module.code.ts"
-import { reviveSeat } from "../recipient-resolver-revive/recipient-resolver-revive.module.code.ts"
+} from "akasha/seat-system/recipient-resolving/recipient-resolver-inbound/recipient-resolver-inbound.module.code.ts"
+import { reviveSeat } from "akasha/seat-system/recipient-resolving/recipient-resolver-revive/recipient-resolver-revive.module.code.ts"
 import type {
   RecipientResolverAgentRow,
   RecipientResolverTickDeps,
-} from "../recipient-resolver-tick-deps/recipient-resolver-tick-deps.module.code.ts"
-import { seatIdentityForName } from "../seat-identity/seat-identity.module.code.ts"
-import { wakeCommsInput } from "../wake-comms-input/wake-comms-input.module.code.ts"
+} from "akasha/seat-system/recipient-resolving/recipient-resolver-tick-deps/recipient-resolver-tick-deps.module.code.ts"
+import { seatIdentityForName } from "akasha/seat-system/recipient-resolving/seat-identity/seat-identity.module.code.ts"
+import type { CommsInput } from "akasha/seat-system/recipient-resolving/seat-wake-rules/seat-wake-rules.module.code.ts"
+import { wakeCommsInput } from "akasha/seat-system/recipient-resolving/wake-comms-input/wake-comms-input.module.code.ts"
+import { agentPresence } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 
 export const toCommsInput = (m: InboundMessageRow): CommsInput =>
   wakeCommsInput({ senderAgentId: m.sender_agent_id, source: m.source, content: m.content })

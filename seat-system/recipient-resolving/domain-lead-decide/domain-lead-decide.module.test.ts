@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { decideDomainLead, recipientFromLead } from "./domain-lead-decide.module.code.ts"
+import {
+  decideDomainLead,
+  recipientFromLead,
+} from "akasha/seat-system/recipient-resolving/domain-lead-decide/domain-lead-decide.module.code.ts"
 
 const DECLARED = { declared: true, persona: "athena", at: "domains/akasha.md" }
 
