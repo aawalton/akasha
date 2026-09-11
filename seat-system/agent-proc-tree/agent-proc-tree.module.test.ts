@@ -7,7 +7,7 @@ import {
   rejectSelfProc,
   selectSupersededTreePids,
   supervisedClaudePids,
-} from "akasha/seat-system/seat-proc-tree/seat-proc-tree.module.code.ts"
+} from "akasha/seat-system/agent-proc-tree/agent-proc-tree.module.code.ts"
 
 const ONE = "0199a1b2-c3d4-7e5f-8091-a2b3c4d5e6f7"
 

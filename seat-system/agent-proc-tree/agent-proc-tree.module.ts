@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
-export const seatProcTree = {
+export const agentProcTree = {
   id: "01a0686d-9d5e-700a-b949-3878b576dfa8",
   type: "module",
-  slug: "seat-proc-tree",
+  slug: "agent-proc-tree",
   definition:
     "an agent's processes: which child is the main one, and which whole trees it has outlived",
   code: "ts",
