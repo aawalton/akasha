@@ -55,7 +55,7 @@ function webBuildInitContainer(): object {
     "VITE_BUILD_SHA=$NEXT_PUBLIC_BUILD_SHA",
     "export NEXT_PUBLIC_BUILD_SHA VITE_BUILD_SHA",
     'echo "init-build: building alan/web at $NEXT_PUBLIC_BUILD_SHA"',
-    "bun run build",
+    `${ORCHESTRATOR_CACHE_REPO_PATH}/node_modules/.bin/react-router build`,
     'echo "init-build: build complete"',
   ].join("\n")
 
@@ -131,7 +131,7 @@ function webDeploymentYaml(): string {
               image: BUN_RUNTIME_IMAGE,
               imagePullPolicy: "IfNotPresent",
               workingDir: orchestratorCacheEntrypointPath("alan/web"),
-              command: ["bun", "run", "start"],
+              command: ["bun", "run", "server.ts"],
               ports: [{ containerPort: 3000, protocol: "TCP" }],
               envFrom: [{ secretRef: { name: SECRET_NAME } }],
               env: [
