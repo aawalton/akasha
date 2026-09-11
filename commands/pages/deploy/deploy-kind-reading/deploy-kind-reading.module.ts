@@ -16,7 +16,7 @@ export const deployKindReading = {
     {
       invariantKind: "departure",
       statement:
-        "The kinds are the web app, the ios app, the cluster service and the workstation service.",
+        "The kinds are the web app, the ios app, the cluster service, the workstation service and the recipe.",
     },
     {
       invariantKind: "departure",
@@ -66,6 +66,10 @@ export const deployKindReading = {
     {
       invariantKind: "absence",
       statement: "Nothing here says how an app of either kind is put up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A container recipe is a fifth kind a slug may name.",
     },
   ],
 } as const satisfies Module

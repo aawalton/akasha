@@ -15,6 +15,7 @@ export const deploy = {
     "module/deploy-ios-shipping",
     "module/deploy-kind-reading",
     "module/deploy-web-putting-up",
+    "module/deploy-image-pushing",
   ],
   taking: [
     {
@@ -58,6 +59,7 @@ export const deploy = {
     "that commit is first proved to install from the manifests it tracks, since a workspace resolving on a workstation can be missing from git.",
     "a build already made from that commit is made again by nothing.",
     "what a build needs set is exported beside the manifest code, and a value it names that nothing holds refuses the call.",
+    "a container recipe naming a repository is built and pushed here, which is how an image no cluster service names reaches the registry.",
   ],
   invariants: [
     {
@@ -122,6 +124,10 @@ export const deploy = {
       invariantKind: "departure",
       statement:
         "A cluster service is put up with the image it runs built where the registry lacks it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A container recipe is put up as its image in the registry and nothing else.",
     },
   ],
 } as const satisfies Command

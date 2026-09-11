@@ -6,9 +6,11 @@ import {
 import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
 import { refused } from "../../modules/calling/calling.module.code.ts"
 import { allowedThrough } from "../../modules/stopping/command-stopping.module.code.ts"
+import { pushedImage } from "./deploy-image-pushing/deploy-image-pushing.module.code.ts"
 import { shipIosApp } from "./deploy-ios-shipping/deploy-ios-shipping.module.code.ts"
 import {
   CLUSTER_SERVICE,
+  CONTAINER_RECIPE,
   IOS_APP,
   kindNamed,
   WEB_APP,
@@ -27,6 +29,7 @@ const NAMED: Readonly<Record<string, string>> = {
   [CLUSTER_SERVICE]: "a cluster service",
   [WORKSTATION_SERVICE]: "a workstation service",
   [WEB_APP]: "a web app",
+  [CONTAINER_RECIPE]: "a container recipe",
 }
 
 export interface RefNamed {
@@ -113,6 +116,9 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
         : `\`${slug}\` names ${what}, which runs what its page describes rather than a commit built here, so \`${REF}\` says nothing about it`,
       INPUT
     )
+  }
+  if (read.kind === CONTAINER_RECIPE) {
+    return await pushedImage(slug, rest.includes(DRY_RUN))
   }
   if (read.kind === WORKSTATION_SERVICE) {
     return putUpService(given.root, slug, rest.includes(DRY_RUN))
