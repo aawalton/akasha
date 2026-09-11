@@ -104,18 +104,19 @@ function typesIn(given: string | Reading): ReadonlyMap<string, Value> {
   return typesAmong(typeValuesIn(given, among), among)
 }
 
-function keyedBy(
-  key: string,
-  said: string | null,
+function keyingBy(
   types: ReadonlyMap<string, Value>,
   properties: ReadonlyMap<string, Held>,
   above: ReadonlyMap<string, readonly string[]>,
   found: Map<string, string | null>
-): undefined {
+): (key: string, said: string | null) => undefined {
+  const bare = bareAmong(properties)
   const beside = besidesIn(above)
-  for (const one of statedIn(said ?? "", types, properties, bareAmong(properties), above)) {
-    if (one.hit.fileName === null && !beside(one.hit.pageTypeSlug)) continue
-    found.set(`${key}.${one.hit.propertySlug}`, one.hit.fileName)
+  return (key, said) => {
+    for (const one of statedIn(said ?? "", types, properties, bare, above)) {
+      if (one.hit.fileName === null && !beside(one.hit.pageTypeSlug)) continue
+      found.set(`${key}.${one.hit.propertySlug}`, one.hit.fileName)
+    }
   }
 }
 
@@ -127,6 +128,7 @@ export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string 
   const grouped = reachingIn(above, GROUP)
   const properties = propertiesAmong(held)
   const found = new Map<string, string | null>()
+  const keyed = keyingBy(types, properties, above, found)
   for (const value of held) {
     const key = textAt(value, "propertySlug")
     if (key === null) continue
@@ -137,7 +139,7 @@ export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string 
     }
     const said = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
     if (said !== null && grouped(said)) {
-      keyedBy(key, said, types, properties, above, found)
+      keyed(key, said)
       continue
     }
     if (beside(said)) found.set(key, null)
@@ -185,11 +187,11 @@ export function fileKeysAt(given: string | Reading): ReadonlyMap<string, string 
     const grouped = reachingIn(above, GROUP)
     const properties = schemaAt(reading)
     const found = new Map<string, string | null>()
+    const keyed = keyingBy(types, properties, above, found)
     for (const held of properties.values()) {
       if (held.fileName !== null) found.set(held.propertySlug, held.fileName)
-      else if (grouped(held.pageTypeSlug)) {
-        keyedBy(held.propertySlug, held.pageTypeSlug, types, properties, above, found)
-      } else if (beside(held.pageTypeSlug)) found.set(held.propertySlug, null)
+      else if (grouped(held.pageTypeSlug)) keyed(held.propertySlug, held.pageTypeSlug)
+      else if (beside(held.pageTypeSlug)) found.set(held.propertySlug, null)
     }
     return found
   })

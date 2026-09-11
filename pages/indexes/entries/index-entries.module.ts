@@ -51,6 +51,10 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
+      statement: "That narrowing is worked out once for an answer rather than once for a key.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A page type holds in a file every property every page type above that page type declares.",
     },

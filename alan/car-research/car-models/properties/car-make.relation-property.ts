@@ -7,6 +7,6 @@ export const carMake = {
   slug: "car-make",
   propertySlug: "car-make",
   definition: "the make that builds this nameplate",
-  targetPageType: "page-type/car-make",
+  targetPageType: "page-type/car-marque",
   types: "ts",
 } as const satisfies RelationProperty

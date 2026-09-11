@@ -7,7 +7,7 @@ export const carResearch = {
   definition: "what Alan read about the cars on sale while deciding what to buy",
   parts: [
     "page-type/car",
-    "page-type/car-make",
+    "page-type/car-marque",
     "page-type/car-model",
     "page-type/car-trim",
     "page-type/car-year",
