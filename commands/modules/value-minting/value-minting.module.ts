@@ -36,6 +36,14 @@ export const valueMinting = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether a path is such a file is answered here for a caller outside this module.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That answer is read from the index rather than from a list of paths.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A line with no object is left alone.",
     },
     {

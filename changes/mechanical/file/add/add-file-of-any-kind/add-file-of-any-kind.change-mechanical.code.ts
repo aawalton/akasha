@@ -2,8 +2,8 @@ import { refusing } from "akasha/changes/modules/answer/change-answer.module.cod
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
-  type Kind,
   kindOf,
+  pagedAt,
 } from "akasha/changes/modules/target-kinding/target-kinding.module.code.ts"
 import { insertedInto } from "akasha/code-system/value-inserting/value-inserting.module.code.ts"
 import { uuidVersion7 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
@@ -27,8 +27,6 @@ const ADDRESSES = {
   "file-page-type": "change-mechanical/add-file-page-type",
 } as const
 
-const PAGES = new Set<Kind>(["file-page", "file-page-property", "file-page-type"])
-
 export function addressFor(world: World, at: string) {
   return ADDRESSES[kindOf(world, at)]
 }
@@ -51,9 +49,8 @@ export type Asked = {
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
-  const kind = kindOf(world, given.at)
-  const address = ADDRESSES[kind]
-  if (!PAGES.has(kind)) {
+  const address = ADDRESSES[kindOf(world, given.at)]
+  if (!pagedAt(world, given.at)) {
     return (await reach(world, address, { at: given.at, body: given.body })).said
   }
   const filled = idFilled(given.at, given.body, given.id ?? AUTO)

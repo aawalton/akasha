@@ -24,12 +24,15 @@ const STATED = 'export const one = { id: "held", pageTypeSlug: "held", slug: "on
 
 const UNDER = new Set(["text-property"])
 
+const NO_SHAPES: ReadonlySet<string> = new Set()
+
 function worldOf(named: ReadonlySet<string>): World {
   return {
     root: "/nowhere",
     index: Object.assign({} as World["index"], {
       pageTypesIn: () => named,
       kindsUnder: () => UNDER,
+      entryShapesAt: () => NO_SHAPES,
     }),
     textOf: () => null,
     bodyOf: () => null,

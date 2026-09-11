@@ -4,6 +4,7 @@ import {
   runChange,
 } from "akasha/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const AT = "akasha/one.held.ts"
@@ -33,4 +34,69 @@ test("a path holding another body states a replace holding the whole body each s
   expect(said.edits).toEqual([
     { kind: "replace", path: AT, contentFrom: "alpha\n", contentTo: "beta\n" },
   ])
+})
+
+const ENTRIES = "akasha/one.thing.cases.jsonl"
+
+const ENTRY_LINE = '{"case": "one"}\n'
+
+const HELD_ENTRY = '{"id": "01a07bd4-3a11-708f-ad12-c22715ac9f9c", "case": "held"}\n'
+
+const MINTED =
+  /\{"id":"[0-9a-f]{8}-[0-9a-f]{4}-7[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}","case":"one"\}/
+
+const SHAPES: ReadonlySet<string> = new Set(["cases"])
+
+const NO_TYPES: ReadonlySet<string> = new Set()
+
+const KEYS = new Map([["cases", "jsonl"]])
+
+function entriedWorld(held: Readonly<Record<string, string>>): World {
+  return {
+    ...worldOf(held),
+    index: Object.assign({} as World["index"], {
+      everyPath: () => Object.keys(held),
+      entryShapesAt: () => SHAPES,
+      pageTypesIn: () => NO_TYPES,
+      fileKeysAt: () => KEYS,
+    }),
+  }
+}
+
+function contentIn(said: Answer): string {
+  const one = said.edits[0]
+  if (one === undefined) return ""
+  if (one.kind === "add") return one.content
+  return one.kind === "replace" ? one.contentTo : ""
+}
+
+test("an entry arriving at a file of entries without an id is given one", () => {
+  const said = runChange(entriedWorld({}), { at: ENTRIES, body: ENTRY_LINE })
+
+  expect(said.refused).toBeNull()
+  expect(contentIn(said)).toMatch(MINTED)
+})
+
+test("an entry arriving with an id keeps the id that entry states", () => {
+  const said = runChange(entriedWorld({}), { at: ENTRIES, body: HELD_ENTRY })
+
+  expect(said.refused).toBeNull()
+  expect(contentIn(said)).toBe(HELD_ENTRY)
+})
+
+test("an entry added beside the entries already there is the only entry given an id", () => {
+  const world = entriedWorld({ [ENTRIES]: HELD_ENTRY })
+
+  const said = runChange(world, { at: ENTRIES, body: `${HELD_ENTRY}${ENTRY_LINE}` })
+
+  expect(said.refused).toBeNull()
+  expect(contentIn(said)).toMatch(MINTED)
+  expect(contentIn(said).startsWith(HELD_ENTRY)).toBe(true)
+})
+
+test("a path under a property that is no entry shape takes no id", () => {
+  const said = runChange(worldOf({}), { at: ENTRIES, body: ENTRY_LINE })
+
+  expect(said.refused).toBeNull()
+  expect(contentIn(said)).toBe(ENTRY_LINE)
 })

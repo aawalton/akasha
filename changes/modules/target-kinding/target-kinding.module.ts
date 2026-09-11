@@ -14,6 +14,14 @@ export const targetKinding = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether a path is a page at all is answered here beside which kind that path is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller wanting only that answer takes it here rather than naming the kinds.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The page types a name is read against are the ones the world files.",
     },
     {

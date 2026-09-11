@@ -46,6 +46,15 @@ export const pagePropertyEntry = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An entry arriving in a whole body is given that id by the change writing the body.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An entry appended to the file rather than written with it is given an id too.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An entry's id is a uuid version 7 as a page's id is.",
     },
   ],

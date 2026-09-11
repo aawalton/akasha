@@ -10,9 +10,13 @@ const CODE = new Set([".ts", ".tsx"])
 
 export type Kind = "file" | "file-code" | "file-page" | "file-page-property" | "file-page-type"
 
+export function pagedAt(world: World, at: string): boolean {
+  return pageNamed(at, world.index.pageTypesIn())
+}
+
 export function kindOf(world: World, at: string): Kind {
   const named = world.index.pageTypesIn()
-  if (pageNamed(at, named)) {
+  if (pagedAt(world, at)) {
     if (namedUnder(at, named)?.pageTypeSlug === PAGE_TYPE) return "file-page-type"
     if (pageNamed(at, world.index.kindsUnder(PAGE_PROPERTY))) return "file-page-property"
     return "file-page"

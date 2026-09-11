@@ -11,6 +11,7 @@ import {
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { heldIn, pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { uuidVersion7 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import type { Generated } from "akasha/pages/indexes/generated-properties/generated-properties.module.code.ts"
 import { generatedProperties } from "akasha/pages/indexes/generated-properties/generated-properties.module.code.ts"
 import { type Shadow, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
@@ -127,11 +128,19 @@ export function identifiedOver(text: string): string | null {
   return turned ? said.join("\n") : null
 }
 
+export function entriedIn(index: Answering): (path: string) => boolean {
+  const shapes = index.entryShapesAt()
+  if (shapes.size === 0) return () => false
+  const pageTypes = index.pageTypesIn()
+  const fileProperties = new Set(index.fileKeysAt().keys())
+  return (path) => {
+    const said = heldIn(path, pageTypes, fileProperties)
+    return said.kind === "property" && said.propertySlug !== null && shapes.has(said.propertySlug)
+  }
+}
+
 function entriedOnto(shadow: Shadow, changes: readonly FileChange[]): Rewritten {
-  const shapes = shadow.index.entryShapesAt()
-  if (shapes.size === 0) return { changes, filled: [] }
-  const pageTypes = shadow.index.pageTypesIn()
-  const fileProperties = new Set(shadow.index.fileKeysAt().keys())
+  const entried = entriedIn(shadow.index)
   const held: FileChange[] = []
   const filled: Filled[] = []
   for (const one of changes) {
@@ -140,8 +149,7 @@ function entriedOnto(shadow: Shadow, changes: readonly FileChange[]): Rewritten 
       held.push(one)
       continue
     }
-    const said = heldIn(body.path, pageTypes, fileProperties)
-    if (said.kind !== "property" || said.propertySlug === null || !shapes.has(said.propertySlug)) {
+    if (!entried(body.path)) {
       held.push(one)
       continue
     }

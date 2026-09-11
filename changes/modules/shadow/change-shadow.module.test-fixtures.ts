@@ -219,10 +219,12 @@ export function bodyAt(at: string, body: string): (path: string) => string | nul
 
 const NOWHERE = "/nowhere"
 
+const NO_SHAPES: ReadonlySet<string> = new Set()
+
 export function worldOf(held: Readonly<Record<string, string>>): World {
   return {
     root: NOWHERE,
-    index: { everyPath: () => Object.keys(held) } as never,
+    index: { everyPath: () => Object.keys(held), entryShapesAt: () => NO_SHAPES } as never,
     textOf: (path) => held[path] ?? null,
     bodyOf: (path) => held[path] ?? null,
     under: () => [],

@@ -61,6 +61,18 @@ export const addFileOfAnyKind = {
       statement: "Nothing here reads a path for its kind.",
     },
     {
+      invariantKind: "absence",
+      statement: "No list of the kinds that are pages is kept here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether a path is a page is read from the module reading a path for its kind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry takes its `id` at the change writing the body rather than here.",
+    },
+    {
       invariantKind: "departure",
       statement: "A path under a page type name is written by the change judging the plural slug.",
     },
