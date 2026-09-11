@@ -1,3 +1,4 @@
+import { addressIn } from "akasha/pages/address/page-address.module.code.ts"
 import {
   entriedAmong,
   entriesIn,
@@ -59,7 +60,12 @@ export function twiceIn(held: readonly unknown[], slug: string): string | null {
   return null
 }
 
-export type Fielding = (one: Carried) => ReadonlyMap<string, Carried>
+export type Opened = {
+  readonly fields: ReadonlyMap<string, Carried>
+  readonly plain: boolean
+}
+
+export type Fielding = (one: Carried) => Opened
 
 export type Shaping = {
   readonly fields: ReadonlyMap<string, Carried>
@@ -79,15 +85,49 @@ const NO_FIELDS: ReadonlyMap<string, Carried> = new Map()
 
 const NOTHING: ReadonlySet<string> = new Set()
 
+const ONE_OF = "one-of-property"
+
+const MEMBERS = "members"
+
+export const NOTHING_OPENED: Opened = { fields: NO_FIELDS, plain: true }
+
+export function memberNamesIn(page: Value): readonly string[] {
+  const said = page[MEMBERS]
+  if (!Array.isArray(said)) return []
+  return said.filter((one): one is string => typeof one === "string")
+}
+
+export function openedAmong(page: Value, shadow: Shadow): Opened {
+  let fields: ReadonlyMap<string, Carried> = NO_FIELDS
+  let held = 0
+  let plain = false
+  for (const named of memberNamesIn(page)) {
+    const address = addressIn(named)
+    if (address.kind !== "qualified") continue
+    const member = shadow.index.pageAt(address.pageTypeSlug, address.slug)
+    const said = member === null ? NO_FIELDS : fieldsFor(member, shadow, address.slug)
+    if (said.size === 0) {
+      plain = true
+      continue
+    }
+    held += 1
+    fields = said
+  }
+  return held === 1 ? { fields, plain } : NOTHING_OPENED
+}
+
 export function fieldsReading(shadow: Shadow, pageFor: (one: Carried) => Value | null): Fielding {
   return (one) => {
     const page = pageFor(one)
-    return page === null ? NO_FIELDS : fieldsFor(page, shadow, one.pagePropertySlug)
+    if (page === null) return NOTHING_OPENED
+    if (one.pageTypeSlug === ONE_OF) return openedAmong(page, shadow)
+    const fields = fieldsFor(page, shadow, one.pagePropertySlug)
+    return fields.size === 0 ? NOTHING_OPENED : { fields, plain: false }
   }
 }
 
-export function recordFieldsIn(one: Carried, fieldsIn: Fielding): ReadonlyMap<string, Carried> {
-  return entriedAmong([one]).length > 0 ? NO_FIELDS : fieldsIn(one)
+export function recordFieldsIn(one: Carried, fieldsIn: Fielding): Opened {
+  return entriedAmong([one]).length > 0 ? NOTHING_OPENED : fieldsIn(one)
 }
 
 export function noRecordIn(said: unknown, slug: string): string {
@@ -148,12 +188,12 @@ export function fieldsOf(
       if (why !== null) said.push(why)
       const off = offFormat(each, format, formatting, `${slug} ${field}`)
       if (off !== null) said.push(off)
-      if (inside.size === 0) continue
+      if (inside.fields.size === 0) continue
       if (typeof each !== "object" || each === null || Array.isArray(each)) {
-        said.push(noRecordIn(each, `${slug} ${field}`))
+        if (!inside.plain) said.push(noRecordIn(each, `${slug} ${field}`))
         continue
       }
-      const within: Shaping = { ...shaping, fields: inside, slug: field }
+      const within: Shaping = { ...shaping, fields: inside.fields, slug: field }
       said.push(...fieldsOf(each as Value, within, NOTHING))
     }
   }

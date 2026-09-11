@@ -96,13 +96,13 @@ export function reasonsIn(
       const off = offFormat(each, format, formatting, slug)
       if (off !== null) said.push(off)
     }
-    const fields = recordFieldsIn(one, fieldsIn)
-    const shaped = fields.size > 0 ? fields : groupedFor(one, held, shadow)
+    const opened = recordFieldsIn(one, fieldsIn)
+    const shaped = opened.fields.size > 0 ? opened.fields : groupedFor(one, held, shadow)
     if (shaped.size === 0) continue
     const shaping: Shaping = { fields: shaped, slug, pageFor, formatting, fieldsIn }
     for (const entry of listed ? held : [held]) {
       if (typeof entry !== "object" || entry === null || Array.isArray(entry)) {
-        if (fields.size > 0) said.push(noRecordIn(entry, slug))
+        if (opened.fields.size > 0 && !opened.plain) said.push(noRecordIn(entry, slug))
         continue
       }
       said.push(...fieldsOf(entry as Value, shaping, NOTHING))

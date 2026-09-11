@@ -6,6 +6,8 @@ import {
   ID_LESS,
   NO_ID,
   nestedShapingFor,
+  oneOfShapingFor,
+  openedFor,
   partsJudged,
   shapingFor,
 } from "akasha/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.test-fixtures.ts"
@@ -28,6 +30,28 @@ test("a field whose property declares fields and holds no record is refused", ()
   ])
   expect(fieldsOf({ id: "one", step: 1 }, nestedShapingFor(), OWN)).toEqual([
     "`cases step` is 1, and a value whose property declares fields is a record",
+  ])
+})
+
+test("a one-of property opens the one member that declares fields", () => {
+  expect(openedFor(["record-property/invariants", "relation-property/page-domain"])).toEqual([
+    ["invariantKind", "statement"],
+    true,
+  ])
+  expect(openedFor(["relation-property/page-domain", "relation-property/initiative"])).toEqual([
+    [],
+    true,
+  ])
+  expect(openedFor(["record-property/invariants", "record-property/directives"])).toEqual([
+    [],
+    true,
+  ])
+})
+
+test("a value a one-of's member with no fields admits gives no reason", () => {
+  expect(fieldsOf({ id: "one", step: "block-all" }, oneOfShapingFor(), OWN)).toEqual([])
+  expect(fieldsOf({ id: "one", step: { tag: "hello" } }, oneOfShapingFor(), OWN)).toEqual([
+    "`step tag` runs to 5 characters, over the length of 4",
   ])
 })
 

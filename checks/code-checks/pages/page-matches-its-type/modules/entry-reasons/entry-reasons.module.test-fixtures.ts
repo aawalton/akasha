@@ -3,6 +3,8 @@ import { join } from "node:path"
 import {
   entryReasonsIn,
   groupedFor,
+  NOTHING_OPENED,
+  openedAmong,
   type Shaping,
 } from "akasha/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"
 import { allows } from "akasha/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.decision.test-fixtures.ts"
@@ -85,15 +87,13 @@ const STEP: Carried = {
 
 const WITHIN: ReadonlyMap<string, Carried> = new Map([["tag", TAG]])
 
-const NO_FIELDS: ReadonlyMap<string, Carried> = new Map()
-
 export function shapingFor(): Shaping {
   return {
     fields: new Map([["answer", ANSWER]]),
     slug: "cases",
     pageFor: () => null,
     formatting: allows,
-    fieldsIn: () => NO_FIELDS,
+    fieldsIn: () => NOTHING_OPENED,
   }
 }
 
@@ -106,8 +106,26 @@ export function nestedShapingFor(): Shaping {
     slug: "cases",
     pageFor: () => null,
     formatting: allows,
-    fieldsIn: (one) => (one.key === "step" ? WITHIN : NO_FIELDS),
+    fieldsIn: (one) => (one.key === "step" ? { fields: WITHIN, plain: false } : NOTHING_OPENED),
   }
+}
+
+export function oneOfShapingFor(): Shaping {
+  return {
+    fields: new Map([
+      ["answer", ANSWER],
+      ["step", STEP],
+    ]),
+    slug: "cases",
+    pageFor: () => null,
+    formatting: allows,
+    fieldsIn: (one) => (one.key === "step" ? { fields: WITHIN, plain: true } : NOTHING_OPENED),
+  }
+}
+
+export function openedFor(members: readonly string[]): readonly [readonly string[], boolean] {
+  const opened = openedAmong({ members: [...members] }, shadowAt(REPO))
+  return [[...opened.fields.keys()].sort(), opened.plain]
 }
 
 const CASES = `${RESTATEMENT.slice(0, -3)}.cases`

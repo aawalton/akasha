@@ -169,6 +169,18 @@ export const pageMatchesItsType = {
       invariantKind: "departure",
       statement: "A record nested in a record is opened as deep as the value goes.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A value whose property names members is judged against the members it names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record there is judged against the one member declaring fields.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value a member declaring no field admits refuses nothing.",
+    },
   ],
   check: { maxCpuSeconds: 20 },
   audit: { maxCpuSeconds: 60 },

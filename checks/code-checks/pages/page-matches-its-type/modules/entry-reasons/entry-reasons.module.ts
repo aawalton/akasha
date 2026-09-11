@@ -45,6 +45,22 @@ export const entryReasons = {
     },
     {
       invariantKind: "departure",
+      statement: "A field whose property names members is opened against the members it names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The one member declaring fields is what a record among them is judged against.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value is passed over where a member of that property declares no field.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property whose members declare fields twice over opens against neither.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The fields a declaration opens are read through the reader the caller hands in.",
     },
     {
