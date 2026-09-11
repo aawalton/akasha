@@ -1,6 +1,10 @@
 "use client"
 
 import { signOut } from "akasha/alan/harness/supabase-rr/auth-client/auth-client.module.code.ts"
+import {
+  LayoutRouterAdapter,
+  PagesUIRouterAdapter,
+} from "akasha/code-system/router-apps/router-context-adapters/router-context-adapters.module.code.tsx"
 import { AppShell as SharedAppShell } from "akasha/design/interfaces/layout/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
 import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
@@ -14,10 +18,6 @@ import {
   RESOURCES_NAV_ITEM,
   SETTINGS_NAV_ITEM,
 } from "../nav-items/nav-items.module.code.ts"
-import {
-  LayoutSeam,
-  PagesUISeam,
-} from "../router-seam-adapters/router-seam-adapters.module.code.tsx"
 import { TEMPER_APP_ID, TEMPER_APP_SLUG } from "../temper-app-id/temper-app-id.module.code.ts"
 
 function isAuthRoute(pathname: string): boolean {
@@ -111,10 +111,10 @@ function AppShellInner({ children, ssrNavItems }: AppShellProps) {
 
 export function AppShell({ children, ssrNavItems }: AppShellProps) {
   return (
-    <LayoutSeam>
-      <PagesUISeam>
+    <LayoutRouterAdapter>
+      <PagesUIRouterAdapter>
         <AppShellInner ssrNavItems={ssrNavItems}>{children}</AppShellInner>
-      </PagesUISeam>
-    </LayoutSeam>
+      </PagesUIRouterAdapter>
+    </LayoutRouterAdapter>
   )
 }
