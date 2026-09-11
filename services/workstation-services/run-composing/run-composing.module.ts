@@ -5,18 +5,26 @@ export const runComposing = {
   pageTypeSlug: "module",
   type: "module",
   slug: "run-composing",
-  definition: "the command line a workstation service's run states as pages rather than paths",
+  definition: "the command line a workstation service's start states as pages rather than paths",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run names the module to run rather than spelling that module's path.",
+      statement: "A command names the page to run rather than spelling that page's path.",
     },
     {
       invariantKind: "departure",
-      statement: "The file a module is run from is the code file beside that module's page.",
+      statement: "The file run is the one code file that page's type requires.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The form the page holds that file in settles the program running the file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type requiring no code file or more than one refuses by name.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +40,7 @@ export const runComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "A module's code is run by bun.",
+      statement: "A file held as TypeScript is run by bun and one held as shell by bash.",
     },
     {
       invariantKind: "departure",

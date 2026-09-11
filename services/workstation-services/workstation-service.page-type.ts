@@ -40,7 +40,7 @@ export const workstationService = {
     "number-property/works-within-seconds",
     "record-property/starts",
     "record-property/systemd",
-    "relation-property/run-module",
+    "relation-property/run-code",
     "relation-property/run-page",
     "text-property/after",
     "text-property/binds",

@@ -1,21 +1,25 @@
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
 
-export const runPage = {
-  id: "01a08e05-88b5-79ae-9861-307635aeb358",
+export const runCode = {
+  id: "01a08e05-72f7-7a28-b5c7-0e54c3d54c55",
   pageTypeSlug: "relation-property",
   type: "relation-property",
-  slug: "run-page",
-  propertySlug: "pages",
-  definition: "a page whose path a command hands to the code that command runs",
+  slug: "run-code",
+  propertySlug: "code",
+  definition: "the page whose code file a command runs",
   targetPageType: "page-type/page",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page named here is handed over as that page's own path.",
+      statement: "A command names this page rather than spelling that page's path.",
     },
     {
       invariantKind: "departure",
-      statement: "The pages are handed over in the order the pages are in.",
+      statement: "The file a command runs is the one code file this page's type requires.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The program running that file is settled by the form the page holds it in.",
     },
     {
       invariantKind: "departure",

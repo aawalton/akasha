@@ -40,5 +40,5 @@ test("a command composed from pages is the command its page states today, byte f
 })
 
 test("a name reaching no page refuses rather than composing a path", () => {
-  expect("refused" in commandOf(ROOT, { module: NOWHERE })).toBe(true)
+  expect("refused" in commandOf(ROOT, { code: NOWHERE })).toBe(true)
 })
