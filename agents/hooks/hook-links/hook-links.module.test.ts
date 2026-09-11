@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { anothersIn, servedFrom } from "akasha/agents/hooks/hook-links/hook-links.module.code.ts"
+import { MOUNTED } from "akasha/code-system/test-overlay/test-overlay.module.code.ts"
 import { AKASHA, rootEnvName } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 
 const ROOT = "/made-up/checkout"
@@ -20,6 +21,25 @@ function withServed<T>(at: string, run: () => T): T {
     else process.env[SERVED] = before
   }
 }
+
+function withMounted<T>(at: string, run: () => T): T {
+  const before = process.env[MOUNTED]
+  process.env[MOUNTED] = at
+  try {
+    return run()
+  } finally {
+    if (before === undefined) delete process.env[MOUNTED]
+    else process.env[MOUNTED] = before
+  }
+}
+
+test("a tree mounted for one run claims no link, though the environment names it", () => {
+  expect(withServed(IN, () => withMounted(IN, () => servedFrom(IN)))).toBe(false)
+})
+
+test("a checkout that is no mounted tree still claims its links", () => {
+  expect(withServed(IN, () => withMounted(`${IN}/..`, () => servedFrom(IN)))).toBe(true)
+})
 
 test("a link naming a file that is there under another checkout is another's", () => {
   expect(anothersIn(HERE, ROOT)).toBe(true)

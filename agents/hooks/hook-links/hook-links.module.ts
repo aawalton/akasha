@@ -65,8 +65,15 @@ export const hookLinks = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The checkout the links serve is the one the environment names rather than the tree a run reads.",
+      statement: "The checkout the links serve is the one the environment names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tree mounted for one run is known by the mount the environment names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The environment names that mount and that checkout as one path under the mount.",
     },
     {
       invariantKind: "departure",

@@ -12,6 +12,8 @@ const WORK = "work"
 
 const MERGED = "merged"
 
+export const MOUNTED = "AKASHA_MERGED"
+
 const MOUNTING = "mount.sh"
 
 const TAKEN = "taken.txt"
@@ -89,7 +91,7 @@ export function mountedOver(root: string, bodies: Bodies): Overlay {
         AKASHA_LOWER: root,
         AKASHA_UPPER: upper,
         AKASHA_WORK: work,
-        AKASHA_MERGED: merged,
+        [MOUNTED]: merged,
         AKASHA_TAKEN: listed,
       },
       under: (argv: readonly string[]): readonly string[] => [...OWN, shim, ...argv],

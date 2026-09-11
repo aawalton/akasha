@@ -1,5 +1,6 @@
 import { existsSync, mkdirSync, readlinkSync, realpathSync, renameSync, symlinkSync } from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
+import { MOUNTED } from "akasha/code-system/test-overlay/test-overlay.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -66,10 +67,19 @@ function servedAt(): string | null {
   }
 }
 
+function mountedAt(): string | null {
+  const at = process.env[MOUNTED]
+  if (at === undefined || at === "") return null
+  return realOf(at)
+}
+
 export function servedFrom(root: string): boolean {
   const served = servedAt()
   if (served === null) return false
-  return realOf(root) === served
+  const real = realOf(root)
+  if (real === null) return false
+  if (real === mountedAt()) return false
+  return real === served
 }
 
 export function anothersIn(held: string | null, root: string): boolean {
