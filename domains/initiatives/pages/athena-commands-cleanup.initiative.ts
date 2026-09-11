@@ -86,6 +86,12 @@ export const athenaCommandsCleanup = {
       workingMemory:
         "Three readers run today — `readIn` at `inventory-rule-calling.module.code.ts:164`, `readTaking` at `email-command-reading.module.code.ts:93`, and the hand-written one at `index-refresh.command.code.ts:30` — each refusing an unknown flag in its own words. `inventory-rule-calling.module.ts:24` already states that a command names the act to run and states nothing of how a call is read; that becomes true of every command rather than of the twenty-five under it.\n",
     },
+    {
+      statement:
+        "A command's code reads its arguments through a type generated from its argument pages.",
+      workingMemory:
+        "`page-type.page-type.ts:88` states a type generator, and `types.file-property.ts:16-24` has a page type's type written beside it rather than by hand. A command gets the same: the keys its reader answers are the arguments its pages declare, so naming one no page declares will not compile. This is what makes a check comparing page against code unnecessary — the disagreement cannot be written, rather than being caught after it is.\n",
+    },
   ],
   constraints: [
     "Every landing in this repository runs through the command system, so a fault landed here stops every agent at once.",
