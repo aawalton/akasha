@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ExclusionReason = string
-
 export const exclusionReason = {
   id: "01a06598-68c9-7b5f-95ff-40cc16b31ac4",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const exclusionReason = {
   definition: "why this fell off the list of what Alan would buy",
   maxLength: 2000,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

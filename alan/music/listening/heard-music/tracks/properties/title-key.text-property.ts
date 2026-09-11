@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type TitleKey = string
-
 export const titleKey = {
   id: "01a06240-340f-700c-8b23-d85323898292",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const titleKey = {
       statement: "A title key has only lowercase letters and digits either side of `|`.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

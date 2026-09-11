@@ -1,0 +1,1 @@
+export type SessionOwner = string

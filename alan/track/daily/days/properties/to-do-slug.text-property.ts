@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ToDoSlug = string
-
 export const toDoSlug = {
   id: "01a05fd8-c30f-7596-9f3a-87a4dbea614a",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const toDoSlug = {
       statement: "A round may name a to-do that is gone.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

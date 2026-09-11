@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type SafetyLevel = string
-
 export const safetyLevel = {
   id: "01a05fd8-c30f-757c-bda6-861e73844e8b",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const safetyLevel = {
       statement: "A safety level carries forward from the prior stretch of time.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

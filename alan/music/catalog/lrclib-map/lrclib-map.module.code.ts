@@ -1,5 +1,5 @@
 import type { LrclibRecord } from "../lrclib-schema/lrclib-schema.module.code.ts"
-import type { LyricsSource } from "../songs/properties/lyrics-source.text-property.ts"
+import type { LyricsSource } from "../songs/properties/lyrics-source.text-property.types.ts"
 
 export type SongLyrics = {
   readonly lyricsSource: LyricsSource

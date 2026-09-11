@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type PowertrainOptions = List<string>
 
 export const powertrainOptions = {
   id: "01a0659a-4bc5-7126-b2df-81746b573d49",
@@ -12,4 +9,5 @@ export const powertrainOptions = {
   definition: "the kinds of powertrain the model is sold with",
   maxLength: 20,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type TopicSettled = string
-
 export const topicSettled = {
   id: "01a0655a-b2b5-7a06-9305-be9592eba1ec",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const topicSettled = {
       statement: "A blank line divides one paragraph from the next.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

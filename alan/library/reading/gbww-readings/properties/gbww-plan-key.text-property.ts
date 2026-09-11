@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type GbwwPlanKey = string
-
 export const gbwwPlanKey = {
   id: "01a0659f-93da-7014-a958-37368115b1aa",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const gbwwPlanKey = {
   definition: "the name the plan gives a reading",
   maxLength: 20,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

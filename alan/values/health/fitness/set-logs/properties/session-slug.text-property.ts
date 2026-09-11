@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type SessionSlug = string
-
 export const sessionSlug = {
   id: "01a06580-66fd-7412-a20a-d678614e0121",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const sessionSlug = {
       statement: "A bout is no page.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type OpeningTags = string
-
 export const openingTags = {
   id: "01a06582-bd62-7e85-9506-8eadb3cb2fb7",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const openingTags = {
   definition: "an opening a puzzle came out of",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

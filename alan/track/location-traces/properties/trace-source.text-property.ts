@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type TraceSource = string
-
 export const traceSource = {
   id: "01a06935-68b5-768c-abad-bcf6356b4cfe",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const traceSource = {
   definition: "what put this trace in the store",
   maxLength: 32,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

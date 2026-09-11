@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ArtistName = string
-
 export const artistName = {
   id: "01a06240-340f-7009-822f-aa230dee246e",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const artistName = {
       statement: "An artist name is the first artist Spotify names for a track.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

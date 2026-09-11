@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type TimeControl = string
-
 export const timeControl = {
   id: "01a06582-bd62-7806-aa06-cbbb5adca34e",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const timeControl = {
   definition: "the clock a game was played on",
   maxLength: 50,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

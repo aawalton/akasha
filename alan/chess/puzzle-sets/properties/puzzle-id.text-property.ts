@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type PuzzleId = string
-
 export const puzzleId = {
   id: "01a06582-bd62-7c2a-b4dd-6bdc9120b28a",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const puzzleId = {
   definition: "the id Lichess gives a puzzle",
   maxLength: 20,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

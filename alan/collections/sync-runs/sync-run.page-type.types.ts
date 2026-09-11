@@ -2,7 +2,7 @@ import type { CreatedCount } from "akasha/alan/collections/sync-runs/properties/
 import type { DurationMs } from "akasha/alan/collections/sync-runs/properties/duration-ms.number-property.types.ts"
 import type { FailedCount } from "akasha/alan/collections/sync-runs/properties/failed-count.number-property.types.ts"
 import type { RunCompletedAt } from "akasha/alan/collections/sync-runs/properties/run-completed-at.instant-property.types.ts"
-import type { RunErrorMessage } from "akasha/alan/collections/sync-runs/properties/run-error-message.text-property.ts"
+import type { RunErrorMessage } from "akasha/alan/collections/sync-runs/properties/run-error-message.text-property.types.ts"
 import type { RunSeq } from "akasha/alan/collections/sync-runs/properties/run-seq.number-property.types.ts"
 import type { RunStartedAt } from "akasha/alan/collections/sync-runs/properties/run-started-at.instant-property.types.ts"
 import type { RunStatus } from "akasha/alan/collections/sync-runs/properties/run-status.select-property.types.ts"

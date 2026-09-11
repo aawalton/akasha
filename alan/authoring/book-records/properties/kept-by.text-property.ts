@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type KeptBy = string
-
 export const keptBy = {
   id: "01a0657d-b91d-7200-a73d-8b8122726299",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const keptBy = {
       statement: "A record naming no keeper of its own names no keeper here.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

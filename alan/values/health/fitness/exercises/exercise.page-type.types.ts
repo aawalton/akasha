@@ -1,6 +1,6 @@
 import type { Equipment } from "akasha/alan/values/health/fitness/exercises/properties/equipment.select-property.types.ts"
 import type { ExerciseCategory } from "akasha/alan/values/health/fitness/exercises/properties/exercise-category.select-property.types.ts"
-import type { ExerciseExternalId } from "akasha/alan/values/health/fitness/exercises/properties/exercise-external-id.text-property.ts"
+import type { ExerciseExternalId } from "akasha/alan/values/health/fitness/exercises/properties/exercise-external-id.text-property.types.ts"
 import type { ExerciseExternalLink } from "akasha/alan/values/health/fitness/exercises/properties/exercise-external-link.url-property.types.ts"
 import type { ExerciseLastSyncedAt } from "akasha/alan/values/health/fitness/exercises/properties/exercise-last-synced-at.calendar-date-property.types.ts"
 import type { ExerciseLevel } from "akasha/alan/values/health/fitness/exercises/properties/exercise-level.select-property.types.ts"

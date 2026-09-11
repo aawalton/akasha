@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ExerciseExternalId = string
-
 export const exerciseExternalId = {
   id: "01a0657e-2bbf-7990-a068-0de2e0ed328c",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const exerciseExternalId = {
   definition: "what the catalogue it was imported from calls this movement",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

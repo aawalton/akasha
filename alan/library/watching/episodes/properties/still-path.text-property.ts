@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type StillPath = string
-
 export const stillPath = {
   id: "01a06599-ee09-7009-8856-62cef5cf1699",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const stillPath = {
       statement: "A still is a frame from the episode rather than artwork drawn for that episode.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

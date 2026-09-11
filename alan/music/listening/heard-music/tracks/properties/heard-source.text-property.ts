@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type HeardSource = string
-
 export const heardSource = {
   id: "01a06240-340f-700e-a486-9e430bc408b2",
   pageTypeSlug: "text-property",
@@ -26,4 +24,5 @@ export const heardSource = {
       statement: "This property is a relation to a heard source.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type Genres = List<string>
 
 export const genres = {
   id: "01a06599-ee09-7006-a413-b286ec4d7f8d",
@@ -22,4 +19,5 @@ export const genres = {
       statement: "A genre is written as the provider writes that genre.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

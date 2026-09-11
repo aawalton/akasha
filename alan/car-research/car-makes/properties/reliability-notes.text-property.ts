@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ReliabilityNotes = string
-
 export const reliabilityNotes = {
   id: "01a0659e-e27e-7cfc-ba56-e6f573f7789f",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const reliabilityNotes = {
   definition: "how the make's cars hold up",
   maxLength: 2000,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

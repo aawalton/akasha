@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type TopicCalibrationRead = string
-
 export const topicCalibrationRead = {
   id: "01a0659f-93da-7004-9fe6-95aad72ded87",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const topicCalibrationRead = {
   definition: "how well Alan read his own grasp of a topic, written out",
   maxLength: 1000,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

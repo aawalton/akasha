@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Isbn13 = string
-
 export const isbn13 = {
   id: "01a06741-dd0f-7001-a6f5-c643117c74b6",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const isbn13 = {
   definition: "the thirteen-digit number an edition is catalogued under now",
   maxLength: 13,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type IdentityStatementTags = List<string>
 
 export const identityStatementTags = {
   id: "01a0658a-739f-78a0-ad4d-3e0151350c1a",
@@ -12,4 +9,5 @@ export const identityStatementTags = {
   definition: "the parts of life the statement touches",
   maxLength: 20,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type RoyalRoadPassword = string
-
 export const royalRoadPassword = {
   id: "01a0685d-b81f-7541-8732-e260a40fbd41",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const royalRoadPassword = {
       statement: "The password is in the page's sops file rather than in the page.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type DifficultyLevel = string
-
 export const difficultyLevel = {
   id: "01a05fd8-c30f-7785-9331-9f5fa8347452",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const difficultyLevel = {
       statement: "A stretch matching no session activity is refused rather than rated zero.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

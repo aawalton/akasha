@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Country = string
-
 export const country = {
   id: "01a0659e-e27d-78b7-b41b-3c0896a203e2",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const country = {
   definition: "where the make is headquartered",
   maxLength: 20,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

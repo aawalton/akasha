@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ChessSource = string
-
 export const chessSource = {
   id: "01a06582-bd62-7f26-81ac-a3d85df41e67",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const chessSource = {
   definition: "where a game came from",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

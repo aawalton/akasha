@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type MasteryBehaviour = string
-
 export const masteryBehaviour = {
   id: "01a0784a-cdba-7f44-8b2a-45ca64505638",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const masteryBehaviour = {
       statement: "One rung is told from the rungs beside that rung by this text alone.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

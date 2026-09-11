@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type Relationships = List<string>
 
 export const relationships = {
   id: "01a05fd8-c30f-754a-bb2e-de6ec74d6e4a",
@@ -18,4 +15,5 @@ export const relationships = {
       statement: "This property is a relation to a person.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

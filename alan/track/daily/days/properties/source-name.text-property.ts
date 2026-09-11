@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type SourceName = string
-
 export const sourceName = {
   id: "01a060fb-040f-7e46-8cbb-1cc3db787009",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const sourceName = {
   definition: "what recorded a reading",
   maxLength: 200,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

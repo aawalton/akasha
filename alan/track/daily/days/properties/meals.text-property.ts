@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type Meals = List<string>
 
 export const meals = {
   id: "01a05fd8-c30f-7952-9ba0-4a131ba3347a",
@@ -18,4 +15,5 @@ export const meals = {
       statement: "This property is a relation to a meal.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

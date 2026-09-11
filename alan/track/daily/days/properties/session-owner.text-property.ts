@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type SessionOwner = string
-
 export const sessionOwner = {
   id: "01a05fd8-c30f-7600-86de-1d33a70265bd",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const sessionOwner = {
       statement: "This property is a relation to a person.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

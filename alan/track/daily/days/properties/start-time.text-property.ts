@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type StartTime = string
-
 export const startTime = {
   id: "01a05fd8-c30f-7ca9-8fb4-9d1d3b574b45",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const startTime = {
       statement: "This property is an instant rather than text.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

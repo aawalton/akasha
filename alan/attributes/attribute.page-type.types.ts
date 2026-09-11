@@ -1,5 +1,5 @@
 import type { AttributeLevel } from "akasha/alan/attributes/properties/attribute-level.computed-property.types.ts"
-import type { PointUnit } from "akasha/alan/attributes/properties/point-unit.text-property.ts"
+import type { PointUnit } from "akasha/alan/attributes/properties/point-unit.text-property.types.ts"
 import type { PointsBeforeToday } from "akasha/alan/attributes/properties/points-before-today.number-property.types.ts"
 import type { PointsToday } from "akasha/alan/attributes/properties/points-today.number-property.types.ts"
 import type { PointsTotal } from "akasha/alan/attributes/properties/points-total.number-property.types.ts"

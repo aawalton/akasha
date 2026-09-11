@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type RecordBrief = string
-
 export const recordBrief = {
   id: "01a0657d-b91d-7300-bbfd-a4142a6e47e4",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const recordBrief = {
       statement: "A brief says the substance of a record rather than repeating the record's text.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

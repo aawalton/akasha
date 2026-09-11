@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ModelYearsAvailable = string
-
 export const modelYearsAvailable = {
   id: "01a0659a-4bc5-7b5a-9655-87602ecc77d6",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const modelYearsAvailable = {
   definition: "the model years the nameplate was sold in",
   maxLength: 50,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

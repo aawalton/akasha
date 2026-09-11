@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Version = string
-
 export const version = {
   id: "01a05fd8-c30e-725c-ab9a-c6711e453753",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const version = {
       statement: "Writing a version as a number would flatten `1.0` to `1`.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

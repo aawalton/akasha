@@ -1,7 +1,5 @@
 import type { TextProperty } from "../../../pages/text-properties/text-property.page-type.types.ts"
 
-export type PointUnit = string
-
 export const pointUnit = {
   id: "01a06841-a113-7165-ba2c-70e40a2ecf42",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const pointUnit = {
   definition: "what earns one point in an attribute",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type SpotifyTrackId = string
-
 export const spotifyTrackId = {
   id: "01a06240-340f-7007-82de-0827e2457e43",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const spotifyTrackId = {
       statement: "A Spotify track id is 22 characters of letters and digits.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty
