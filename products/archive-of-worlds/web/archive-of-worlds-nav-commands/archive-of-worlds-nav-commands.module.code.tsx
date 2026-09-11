@@ -1,44 +1,17 @@
 "use client"
 
-import type { AppNavItem } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
-import { PALETTE_ONLY } from "akasha/design/interfaces/primitives/keyboard-registry/keyboard-registry.module.code.ts"
-import { useKeyboardBinding } from "akasha/design/interfaces/primitives/use-keyboard-registry/use-keyboard-registry.module.code.ts"
+import { useNavCommandBindings } from "akasha/pages/ui/components/use-nav-command-bindings/use-nav-command-bindings.module.code.ts"
 import { primaryNavItems } from "akasha/products/archive-of-worlds/web/archive-of-worlds-nav-items/archive-of-worlds-nav-items.module.code.ts"
 import { useNavigate } from "react-router"
 
-export interface NavCommand {
-  id: string
-  label: string
-  href: string
-}
-
-export function internalNavCommands(): readonly NavCommand[] {
-  return primaryNavItems
-    .filter(
-      (item): item is AppNavItem & { href: string } => item.href != null && item.external !== true
-    )
-    .map((item) => ({ id: item.id, label: item.label, href: item.href }))
-}
-
-function NavCommandBinding({ command }: { command: NavCommand }) {
+export function NavCommands() {
   const navigate = useNavigate()
-  useKeyboardBinding({
-    id: `archive-of-worlds.nav.${command.id}`,
-    chord: PALETTE_ONLY,
-    label: command.label,
-    layer: "house",
+  useNavCommandBindings({
+    entries: primaryNavItems.filter((item) => item.href != null && item.external !== true),
+    navigate,
     group: "Navigation",
-    onTrigger: () => navigate(command.href),
+    layer: "house",
+    idPrefix: "archive-of-worlds.nav",
   })
   return null
-}
-
-export function NavCommands() {
-  return (
-    <>
-      {internalNavCommands().map((command) => (
-        <NavCommandBinding key={command.id} command={command} />
-      ))}
-    </>
-  )
 }
