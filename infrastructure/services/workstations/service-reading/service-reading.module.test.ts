@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { existsSync } from "node:fs"
+import { join } from "node:path"
 import {
   everyService,
   readFor,
@@ -6,8 +8,15 @@ import {
   serviceIn,
   systemdIn,
 } from "akasha/infrastructure/services/workstations/service-reading/service-reading.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const ROOT = process.cwd()
+
+const TS = ".ts"
+
+const CODE_BESIDE = ".code.ts"
+
+const RUNNER = "bun"
 
 const WHOLE = {
   id: "01a05a51-0000-7000-8000-00000000000c",
@@ -38,14 +47,18 @@ test("a value stating enabled as anything but a boolean is read as none", () => 
 })
 
 test("a value stating a start is read with the command line that start composes", () => {
+  const page = listedAt(ROOT, "module", "service-reading")[0]
+  if (page === undefined) {
+    throw new Error("no `module/service-reading` is filed, so nothing says where its code sits")
+  }
+  const beside = `${page.path.slice(0, -TS.length)}${CODE_BESIDE}`
+  expect(existsSync(join(ROOT, beside))).toBe(true)
   const service = serviceIn(ROOT, {
     ...WHOLE,
     runs: ["bun a.ts"],
     starts: [{ code: "module/service-reading" }],
   })
-  expect(service?.runs).toEqual([
-    "bun infrastructure/services/workstations/service-reading/service-reading.module.code.ts",
-  ])
+  expect(service?.runs).toEqual([`${RUNNER} ${beside}`])
 })
 
 test("a value stating a start that names no page is read as none", () => {
