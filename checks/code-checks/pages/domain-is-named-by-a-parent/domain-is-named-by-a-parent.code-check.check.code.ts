@@ -10,9 +10,9 @@ import type {
   Selector,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import {
-  bodyOf,
   input,
   PAGES,
+  textWas,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
@@ -43,9 +43,9 @@ const UNDER_DOMAIN: Selector<Paged> = {
 }
 
 function partsWere(change: Change, path: string): readonly string[] {
-  const bytes = change.before(path)
-  if (bytes === null) return []
-  return partsOf(valueIn(bodyOf({ root: change.root, path, bytes })))
+  const text = textWas(change, path)
+  if (text === null) return []
+  return partsOf(valueIn(text))
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
