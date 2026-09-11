@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineAlternativeGunGaleOnlineS01e12 = {
   id: "019ea442-964e-7f38-8ab5-d8a4bb5d5740",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-alternative-gun-gale-online-s01e12",
   title: "Applause",

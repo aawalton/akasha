@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineAlternativeGunGaleOnlineS02e05 = {
   id: "019ea442-98ac-7d3c-aca1-05cd09dea37c",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-alternative-gun-gale-online-s02e05",
   title: "BTRY's Choice",

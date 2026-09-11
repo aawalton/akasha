@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const houseOfTheDragonSeason1 = {
   id: "01a06802-b8ba-7027-9243-5fefc45fc9c3",
-  pageTypeSlug: "season",
   type: "season",
   slug: "house-of-the-dragon-season-1",
   title: "House of the Dragon Season 1",

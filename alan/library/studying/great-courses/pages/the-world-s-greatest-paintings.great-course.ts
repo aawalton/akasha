@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theWorldSGreatestPaintings = {
   id: "019db533-f39f-7459-8b4f-722b9a48e37c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-world-s-greatest-paintings",
   title: "The World's Greatest Paintings",

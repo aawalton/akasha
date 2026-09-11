@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineAlternativeGunGaleOnlineS02e08 = {
   id: "019ea442-9949-72be-afef-191ebd3a47f4",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-alternative-gun-gale-online-s02e08",
   title: "The Showdown",

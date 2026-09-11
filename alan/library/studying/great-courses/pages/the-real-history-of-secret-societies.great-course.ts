@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theRealHistoryOfSecretSocieties = {
   id: "019db533-f39f-7c9b-a614-b17b8297cfa1",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-real-history-of-secret-societies",
   title: "The Real History of Secret Societies",

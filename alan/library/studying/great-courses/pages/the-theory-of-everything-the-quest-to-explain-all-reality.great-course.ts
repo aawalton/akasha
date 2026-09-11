@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theTheoryOfEverythingTheQuestToExplainAllReality = {
   id: "019db533-f39f-724a-9874-4a0da5a4a59b",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-theory-of-everything-the-quest-to-explain-all-reality",
   title: "The Theory of Everything: The Quest to Explain All Reality",

@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS03e09 = {
   id: "019ea442-84af-73b1-843c-04c12d776dac",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s03e09",
   title: "Nobleman's Responsibilities",

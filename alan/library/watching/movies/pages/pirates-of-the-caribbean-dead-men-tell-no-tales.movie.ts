@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const piratesOfTheCaribbeanDeadMenTellNoTales = {
   id: "01a06802-6d99-7028-b9e3-0dcb3405dfa4",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "pirates-of-the-caribbean-dead-men-tell-no-tales",
   title: "Pirates of the Caribbean: Dead Men Tell No Tales",

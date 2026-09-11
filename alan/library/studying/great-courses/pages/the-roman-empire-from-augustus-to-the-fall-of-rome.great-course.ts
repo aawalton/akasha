@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theRomanEmpireFromAugustusToTheFallOfRome = {
   id: "019db533-f39f-7c7b-8c6b-975db0bbf815",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-roman-empire-from-augustus-to-the-fall-of-rome",
   title: "The Roman Empire: From Augustus to The Fall of Rome",

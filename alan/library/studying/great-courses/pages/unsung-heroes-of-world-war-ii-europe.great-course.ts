@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const unsungHeroesOfWorldWarIiEurope = {
   id: "019db533-f39f-7ad3-9525-f8041d19df1c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "unsung-heroes-of-world-war-ii-europe",
   title: "Unsung Heroes of World War II: Europe",

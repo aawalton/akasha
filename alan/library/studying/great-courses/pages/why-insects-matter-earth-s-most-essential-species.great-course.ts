@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const whyInsectsMatterEarthSMostEssentialSpecies = {
   id: "019db533-f39e-7d23-b6be-ea62bdc44fe1",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "why-insects-matter-earth-s-most-essential-species",
   title: "Why Insects Matter: Earth’s Most Essential Species",

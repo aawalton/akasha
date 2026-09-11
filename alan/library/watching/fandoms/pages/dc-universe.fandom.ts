@@ -2,7 +2,6 @@ import type { Fandom } from "akasha/alan/library/watching/fandoms/fandom.page-ty
 
 export const dcUniverse = {
   id: "01a06808-5077-7004-8c32-194339671fda",
-  pageTypeSlug: "fandom",
   type: "fandom",
   slug: "dc-universe",
   title: "DC Universe",

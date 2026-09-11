@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const ironMan3 = {
   id: "01a06802-6d99-7020-8aaa-2b641730111f",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "iron-man-3",
   title: "Iron Man 3",

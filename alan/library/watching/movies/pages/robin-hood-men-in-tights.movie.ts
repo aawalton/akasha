@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const robinHoodMenInTights = {
   id: "01a06802-6d99-7030-a34d-86f8bdd40529",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "robin-hood-men-in-tights",
   title: "Robin Hood: Men in Tights",

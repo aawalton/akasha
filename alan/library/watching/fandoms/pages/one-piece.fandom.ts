@@ -2,7 +2,6 @@ import type { Fandom } from "akasha/alan/library/watching/fandoms/fandom.page-ty
 
 export const onePiece = {
   id: "01a06808-5078-7004-8cd8-a8dfbe594845",
-  pageTypeSlug: "fandom",
   type: "fandom",
   slug: "one-piece",
   title: "One Piece",

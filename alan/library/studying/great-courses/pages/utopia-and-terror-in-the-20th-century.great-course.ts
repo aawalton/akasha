@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const utopiaAndTerrorInThe20thCentury = {
   id: "019db533-f39f-7832-afe7-2fdab420b03f",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "utopia-and-terror-in-the-20th-century",
   title: "Utopia and Terror in the 20th Century",

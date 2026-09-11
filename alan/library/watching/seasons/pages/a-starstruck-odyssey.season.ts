@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const aStarstruckOdyssey = {
   id: "01a06802-b8b7-7009-8242-6b84ea5a9d88",
-  pageTypeSlug: "season",
   type: "season",
   slug: "a-starstruck-odyssey",
   title: "A Starstruck Odyssey",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const understandingTheQuantumWorld = {
   id: "019db533-f39f-707f-8dd8-6c2b1cfa68af",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "understanding-the-quantum-world",
   title: "Understanding the Quantum World",

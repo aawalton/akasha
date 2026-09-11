@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theLifeAndWorksOfJaneAusten = {
   id: "019db533-f39e-778c-8157-07692855a6f7",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-life-and-works-of-jane-austen",
   title: "The Life and Works of Jane Austen",

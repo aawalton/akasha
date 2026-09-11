@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS01e14 = {
   id: "019ea442-7515-717c-b12a-f2bb2e5d94d1",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s01e14",
   title: "The End of the World",

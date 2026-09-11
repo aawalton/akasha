@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theOriginAndEvolutionOfEarthFromTheBigBangToTheFutureOfH = {
   id: "019db533-f39f-717f-a4b5-c8ca0bcaf9c0",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-origin-and-evolution-of-earth-from-the-big-bang-to-the-future-of-h",
   title: "The Origin and Evolution of Earth: From the Big Bang to the Future of Human Existence",

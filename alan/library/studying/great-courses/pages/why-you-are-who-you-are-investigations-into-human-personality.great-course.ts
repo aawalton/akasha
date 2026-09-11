@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const whyYouAreWhoYouAreInvestigationsIntoHumanPersonality = {
   id: "019db533-f39e-7bb0-beab-948c4ec99483",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "why-you-are-who-you-are-investigations-into-human-personality",
   title: "Why You Are Who You Are: Investigations into Human Personality",

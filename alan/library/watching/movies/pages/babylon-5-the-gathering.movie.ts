@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const babylon5TheGathering = {
   id: "01a06802-6d98-700c-bf73-58a4ed5bfe7c",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "babylon-5-the-gathering",
   title: "Babylon 5: The Gathering",

@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS00e24 = {
   id: "019ea442-6e2a-76a8-afae-d56489dd75e8",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s00e24",
   title: "Alicization 24.5: Reflection",

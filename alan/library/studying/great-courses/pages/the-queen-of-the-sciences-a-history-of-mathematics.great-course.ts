@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theQueenOfTheSciencesAHistoryOfMathematics = {
   id: "019db533-f3a0-727a-878d-6786beed99cb",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-queen-of-the-sciences-a-history-of-mathematics",
   title: "The Queen of the Sciences: A History of Mathematics",

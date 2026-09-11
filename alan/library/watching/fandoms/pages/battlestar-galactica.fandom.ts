@@ -2,7 +2,6 @@ import type { Fandom } from "akasha/alan/library/watching/fandoms/fandom.page-ty
 
 export const battlestarGalactica = {
   id: "01a06808-5077-7002-8ed4-51e500a536f4",
-  pageTypeSlug: "fandom",
   type: "fandom",
   slug: "battlestar-galactica",
   title: "Battlestar Galactica",

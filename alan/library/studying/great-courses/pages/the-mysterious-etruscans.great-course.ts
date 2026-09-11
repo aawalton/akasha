@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theMysteriousEtruscans = {
   id: "019db533-f39f-7785-95f6-b48e0a267d75",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-mysterious-etruscans",
   title: "The Mysterious Etruscans",

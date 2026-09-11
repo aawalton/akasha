@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS03e06 = {
   id: "019ea442-83fd-71e3-be2f-ae2806bf0d2f",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s03e06",
   title: "Project Alicization",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theMindBendingPhysicsOfStringTheory = {
   id: "019db533-f39e-7bde-915b-719933b648db",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-mind-bending-physics-of-string-theory",
   title: "The Mind-Bending Physics of String Theory",

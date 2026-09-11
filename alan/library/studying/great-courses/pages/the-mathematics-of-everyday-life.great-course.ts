@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theMathematicsOfEverydayLife = {
   id: "019db533-f3a0-7609-a207-3deee1e38161",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-mathematics-of-everyday-life",
   title: "The Mathematics of Everyday Life",

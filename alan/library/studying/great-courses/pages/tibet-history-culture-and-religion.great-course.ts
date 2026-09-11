@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const tibetHistoryCultureAndReligion = {
   id: "019db533-f39f-7bbe-b591-e8974981845e",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "tibet-history-culture-and-religion",
   title: "Tibet: History, Culture, and Religion",

@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const birdsOfPrey = {
   id: "01a06802-6d98-7016-95b1-ce42bddfa537",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "birds-of-prey",
   title: "Birds of Prey",

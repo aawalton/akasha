@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theStoryOfHumanLanguage = {
   id: "019db533-f39f-7b9e-9ec4-3f763779f48a",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-story-of-human-language",
   title: "The Story of Human Language",

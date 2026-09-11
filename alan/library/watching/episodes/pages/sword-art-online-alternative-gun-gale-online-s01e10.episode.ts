@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineAlternativeGunGaleOnlineS01e10 = {
   id: "019ea442-95e6-7640-b409-a231bc57c737",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-alternative-gun-gale-online-s01e10",
   title: "The Devil's Comeback",

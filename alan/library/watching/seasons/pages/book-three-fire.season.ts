@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const bookThreeFire = {
   id: "01a06802-b8b8-701b-838c-94102338ca4f",
-  pageTypeSlug: "season",
   type: "season",
   slug: "book-three-fire",
   title: "Book Three: Fire",

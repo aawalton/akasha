@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const starTrekIvTheVoyageHome = {
   id: "01a06802-6d99-7041-bfcd-0d870005132c",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "star-trek-iv-the-voyage-home",
   title: "Star Trek IV: The Voyage Home",

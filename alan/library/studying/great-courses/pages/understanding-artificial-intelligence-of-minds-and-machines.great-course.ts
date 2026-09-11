@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const understandingArtificialIntelligenceOfMindsAndMachines = {
   id: "01a06578-6719-7006-a1d2-9223de2123bb",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "understanding-artificial-intelligence-of-minds-and-machines",
   title: "Understanding Artificial Intelligence: Of Minds and Machines",

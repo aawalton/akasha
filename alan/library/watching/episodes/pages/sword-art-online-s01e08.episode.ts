@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS01e08 = {
   id: "019ea442-73d3-7867-9a9c-3d85f2e74526",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s01e08",
   title: "The Sword Dance of Black and White",

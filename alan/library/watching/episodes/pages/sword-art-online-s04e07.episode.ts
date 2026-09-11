@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS04e07 = {
   id: "019ea442-8af0-71bb-9572-44a82c8ea3cd",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s04e07",
   title: "Stigma of the Disqualified",

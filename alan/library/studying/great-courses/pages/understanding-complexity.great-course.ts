@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const understandingComplexity = {
   id: "019db533-f39e-7bc7-8143-8e4f0993aa6d",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "understanding-complexity",
   title: "Understanding Complexity",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theInstantSommelierChoosingYourBestWine = {
   id: "019db533-f39f-77c7-9601-3019a7059515",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-instant-sommelier-choosing-your-best-wine",
   title: "The Instant Sommelier: Choosing Your Best Wine",

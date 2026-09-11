@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const woodworkingEssentialsBenchesAndBoxes = {
   id: "019db533-f39e-755c-be70-fb7fb1f2cc3c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "woodworking-essentials-benches-and-boxes",
   title: "Woodworking Essentials: Benches & Boxes",

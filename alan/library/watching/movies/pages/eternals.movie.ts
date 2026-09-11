@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const eternals = {
   id: "01a06802-6d99-700b-89b6-e4b87dc9ffa7",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "eternals",
   title: "Eternals",

@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const thePhantomMenace = {
   id: "01a06802-6d9a-701c-b11d-a9128b154673",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "the-phantom-menace",
   title: "The Phantom Menace",

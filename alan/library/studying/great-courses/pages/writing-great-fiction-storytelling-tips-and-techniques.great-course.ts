@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const writingGreatFictionStorytellingTipsAndTechniques = {
   id: "019db533-f39e-77bc-934d-2a8322cedfd1",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "writing-great-fiction-storytelling-tips-and-techniques",
   title: "Writing Great Fiction: Storytelling Tips and Techniques",

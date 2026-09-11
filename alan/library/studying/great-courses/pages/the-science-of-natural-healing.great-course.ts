@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theScienceOfNaturalHealing = {
   id: "019db533-f3a0-76e8-abe3-35f8ce7e490e",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-science-of-natural-healing",
   title: "The Science of Natural Healing",

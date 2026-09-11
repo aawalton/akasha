@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const iAmGrootSeason1 = {
   id: "01a06802-b8ba-7029-b8a6-906af599bfc8",
-  pageTypeSlug: "season",
   type: "season",
   slug: "i-am-groot-season-1",
   title: "I Am Groot Season 1",

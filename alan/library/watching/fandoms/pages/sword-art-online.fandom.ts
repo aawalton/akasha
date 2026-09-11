@@ -2,7 +2,6 @@ import type { Fandom } from "akasha/alan/library/watching/fandoms/fandom.page-ty
 
 export const swordArtOnline = {
   id: "01a06808-5078-700b-a7ee-e9261b7164ac",
-  pageTypeSlug: "fandom",
   type: "fandom",
   slug: "sword-art-online",
   title: "Sword Art Online",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const thinkLikeAStoicAncientWisdomForTodaySWorld = {
   id: "019db533-f39e-7bce-b5dd-64b7880b6253",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "think-like-a-stoic-ancient-wisdom-for-today-s-world",
   title: "Think like a Stoic: Ancient Wisdom for Today's World",

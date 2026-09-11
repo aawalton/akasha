@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const helstromSeason1 = {
   id: "01a06802-b8ba-7024-97ef-91cc867b1158",
-  pageTypeSlug: "season",
   type: "season",
   slug: "helstrom-season-1",
   title: "Helstrom Season 1",

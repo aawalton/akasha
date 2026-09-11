@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const battlestarGalacticaBloodAndChrome = {
   id: "01a06802-6d98-7012-9596-d1f24b2fd223",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "battlestar-galactica-blood-and-chrome",
   title: "Battlestar Galactica: Blood & Chrome",

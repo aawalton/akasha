@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const theFlash = {
   id: "01a06802-6d9a-700b-85a7-4014f03333d0",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "the-flash",
   title: "The Flash",

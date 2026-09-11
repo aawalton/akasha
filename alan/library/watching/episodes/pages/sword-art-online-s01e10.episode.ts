@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS01e10 = {
   id: "019ea442-7435-7eee-a4b5-65344fb6616d",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s01e10",
   title: "Crimson Killing Intent",

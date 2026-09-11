@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const friendsSeason1 = {
   id: "01a06802-b8ba-7003-946b-e3dd07f6df21",
-  pageTypeSlug: "season",
   type: "season",
   slug: "friends-season-1",
   title: "Friends Season 1",

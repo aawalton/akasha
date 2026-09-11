@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theIntelligentBrain = {
   id: "019db533-f39f-71b5-ac8f-3435ff4d52d3",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-intelligent-brain",
   title: "The Intelligent Brain",

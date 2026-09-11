@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const womenJournalistsOf911TheirStories = {
   id: "019db533-f39f-7a9e-ac93-d35bef4b3fa1",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "women-journalists-of-9-11-their-stories",
   title: "Women Journalists of 9/11: Their Stories",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theRiseOfRome = {
   id: "019db533-f39f-7cdb-bbbd-ba4ac2b01c87",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-rise-of-rome",
   title: "The Rise of Rome",

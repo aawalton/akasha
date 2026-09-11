@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const ironheartMiniseries = {
   id: "01a06802-b8ba-702b-a53a-6f387cc03634",
-  pageTypeSlug: "season",
   type: "season",
   slug: "ironheart-miniseries",
   title: "Ironheart Miniseries",

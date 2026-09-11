@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const shangChiAndTheLegendOfTheTenRings = {
   id: "01a06802-6d99-7032-aa50-43bf5c51bc9a",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "shang-chi-and-the-legend-of-the-ten-rings",
   title: "Shang-Chi and the Legend of the Ten Rings",

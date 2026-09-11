@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theModernIntellectualTraditionFromDescartesToDerrida = {
   id: "019db533-f39e-79cb-b083-3260ab3c3ae2",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-modern-intellectual-tradition-from-descartes-to-derrida",
   title: "The Modern Intellectual Tradition: From Descartes to Derrida",

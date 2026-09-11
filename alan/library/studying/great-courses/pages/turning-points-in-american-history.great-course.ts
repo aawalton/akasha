@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const turningPointsInAmericanHistory = {
   id: "019db533-f39f-7af3-8abf-a9d1e375bf18",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "turning-points-in-american-history",
   title: "Turning Points in American History",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const understandingCalculusIiProblemsSolutionsAndTips = {
   id: "019db533-f3a0-7732-8dfd-5bc270b3209d",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "understanding-calculus-ii-problems-solutions-and-tips",
   title: "Understanding Calculus II: Problems, Solutions, and Tips",

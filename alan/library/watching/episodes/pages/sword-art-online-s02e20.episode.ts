@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS02e20 = {
   id: "019ea442-809f-7461-b58b-233fe49588f0",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s02e20",
   title: "The Sleeping Knights",

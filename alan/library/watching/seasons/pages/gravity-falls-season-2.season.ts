@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const gravityFallsSeason2 = {
   id: "01a06802-b8ba-7021-80ac-5971dab92478",
-  pageTypeSlug: "season",
   type: "season",
   slug: "gravity-falls-season-2",
   title: "Gravity Falls Season 2",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const warriorsQueensAndIntellectuals36GreatWomenBefore1400 = {
   id: "019db533-f39f-7fcd-8927-5f44613f6825",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "warriors-queens-and-intellectuals-36-great-women-before-1400",
   title: "Warriors, Queens, and Intellectuals: 36 Great Women before 1400",

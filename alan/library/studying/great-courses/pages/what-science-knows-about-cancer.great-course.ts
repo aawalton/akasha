@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const whatScienceKnowsAboutCancer = {
   id: "019db533-f3a0-759f-8dac-db99f3662787",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "what-science-knows-about-cancer",
   title: "What Science Knows about Cancer",

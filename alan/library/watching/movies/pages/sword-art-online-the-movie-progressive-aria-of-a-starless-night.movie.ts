@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const swordArtOnlineTheMovieProgressiveAriaOfAStarlessNight = {
   id: "019ea442-9dbd-7379-9e45-fc442e1e6751",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "sword-art-online-the-movie-progressive-aria-of-a-starless-night",
   title: "Sword Art Online the Movie - Progressive - Aria of a Starless Night",

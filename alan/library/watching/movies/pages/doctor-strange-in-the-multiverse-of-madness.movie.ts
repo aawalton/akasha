@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const doctorStrangeInTheMultiverseOfMadness = {
   id: "01a06802-6d99-7004-8120-cba325454eb5",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "doctor-strange-in-the-multiverse-of-madness",
   title: "Doctor Strange in the Multiverse of Madness",

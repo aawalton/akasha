@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS03e08 = {
   id: "019ea442-8463-7aad-90ce-dfb2499cf359",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s03e08",
   title: "Swordsman's Pride",

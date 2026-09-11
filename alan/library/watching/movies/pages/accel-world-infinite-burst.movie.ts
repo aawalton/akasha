@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const accelWorldInfiniteBurst = {
   id: "01a06802-6d98-7001-a153-516c48badd59",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "accel-world-infinite-burst",
   title: "Accel World: Infinite Burst",

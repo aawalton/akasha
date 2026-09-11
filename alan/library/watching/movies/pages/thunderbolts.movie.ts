@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const thunderbolts = {
   id: "01a06802-6d9a-7027-b64e-b240b822f2d8",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "thunderbolts",
   title: "Thunderbolts*",

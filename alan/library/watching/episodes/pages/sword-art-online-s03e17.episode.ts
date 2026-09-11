@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS03e17 = {
   id: "019ea442-867d-70bf-9694-a7a3eac006ed",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s03e17",
   title: "Truce",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theModernPoliticalTraditionHobbesToHabermas = {
   id: "019db533-f39e-7bfc-aa60-7398f173ad2e",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-modern-political-tradition-hobbes-to-habermas",
   title: "The Modern Political Tradition: Hobbes to Habermas",

@@ -2,7 +2,6 @@ import type { Fandom } from "akasha/alan/library/watching/fandoms/fandom.page-ty
 
 export const babylon52 = {
   id: "01a06808-5077-7001-864e-b15769799594",
-  pageTypeSlug: "fandom",
   type: "fandom",
   slug: "babylon-5-2",
   title: "Babylon 5",

@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const thorTheDarkWorld = {
   id: "01a06802-6d9a-7026-b2a3-705b52f71e00",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "thor-the-dark-world",
   title: "Thor: The Dark World",

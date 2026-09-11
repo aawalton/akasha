@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS01e07 = {
   id: "019ea442-73a1-78b1-87f3-4a1145d1600c",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s01e07",
   title: "The Temperature of the Heart",

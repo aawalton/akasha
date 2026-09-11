@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const thorLoveAndThunder = {
   id: "01a06802-6d9a-7024-b762-c752d5d85c0d",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "thor-love-and-thunder",
   title: "Thor: Love and Thunder",

@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const castleSeason8 = {
   id: "01a06802-b8b8-702c-a942-36faefd16b2a",
-  pageTypeSlug: "season",
   type: "season",
   slug: "castle-season-8",
   title: "Castle Season 8",

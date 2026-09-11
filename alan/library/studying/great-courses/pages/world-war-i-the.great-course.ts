@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const worldWarIThe = {
   id: "019db533-f3a0-7256-b743-a2a933399fff",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "world-war-i-the",
   title: "World War I: The",

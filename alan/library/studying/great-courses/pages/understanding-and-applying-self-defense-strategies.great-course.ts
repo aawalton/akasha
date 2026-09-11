@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const understandingAndApplyingSelfDefenseStrategies = {
   id: "019db533-f3a0-7634-b010-8754c88b1282",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "understanding-and-applying-self-defense-strategies",
   title: "Understanding and Applying Self-Defense Strategies",

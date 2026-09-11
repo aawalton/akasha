@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theSkepticSGuideToAmericanHistory = {
   id: "019db533-f3a0-7273-a078-b1914b4a3346",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-skeptic-s-guide-to-american-history",
   title: "The Skeptic's Guide to American History",

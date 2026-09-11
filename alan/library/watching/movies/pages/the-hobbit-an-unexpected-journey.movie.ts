@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const theHobbitAnUnexpectedJourney = {
   id: "01a06802-6d9a-7011-a598-f599e1c8c450",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "the-hobbit-an-unexpected-journey",
   title: "The Hobbit: An Unexpected Journey",

@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS04e16 = {
   id: "019ea442-8cba-7d10-90f6-5a853e9f30ca",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s04e16",
   title: "Code 871",

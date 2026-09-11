@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS03e21 = {
   id: "019ea442-8753-72ed-91e5-932135a1adba",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s03e21",
   title: "The 32nd Knight",

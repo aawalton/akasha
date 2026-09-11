@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const warpingRealityInsideThePsychologyOfCults = {
   id: "019db533-f39e-7daa-b9e2-7a50e4d8a018",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "warping-reality-inside-the-psychology-of-cults",
   title: "Warping Reality: Inside the Psychology of Cults",

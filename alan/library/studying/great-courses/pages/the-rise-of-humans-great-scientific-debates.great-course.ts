@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theRiseOfHumansGreatScientificDebates = {
   id: "019db533-f39e-7d7c-8d68-72efb23aa9d0",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-rise-of-humans-great-scientific-debates",
   title: "The Rise of Humans: Great Scientific Debates",

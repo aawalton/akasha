@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const warForThePlanetOfTheApes = {
   id: "01a06802-6d9a-7029-a9ff-51b667a43db7",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "war-for-the-planet-of-the-apes",
   title: "War for the Planet of the Apes",

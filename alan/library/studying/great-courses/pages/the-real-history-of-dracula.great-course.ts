@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theRealHistoryOfDracula = {
   id: "019db533-f3a0-7057-bbdb-543993d464e7",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-real-history-of-dracula",
   title: "The Real History of Dracula",

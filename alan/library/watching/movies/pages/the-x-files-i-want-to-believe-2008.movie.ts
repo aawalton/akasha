@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const theXFilesIWantToBelieve2008 = {
   id: "01a06802-6d9a-7021-b05d-2419d71fccf9",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "the-x-files-i-want-to-believe-2008",
   title: "The X-Files: I Want to Believe (2008)",

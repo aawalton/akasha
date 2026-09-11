@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const watercolorCardsMadeSimple = {
   id: "019db533-f39f-779d-953d-06a17694fc72",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "watercolor-cards-made-simple",
   title: "Watercolor Cards Made Simple",

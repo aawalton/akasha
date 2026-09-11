@@ -2,7 +2,6 @@ import type { Fandom } from "akasha/alan/library/watching/fandoms/fandom.page-ty
 
 export const starTrek3 = {
   id: "01a06808-5078-7008-8695-323b30891ef7",
-  pageTypeSlug: "fandom",
   type: "fandom",
   slug: "star-trek-3",
   title: "Star Trek",

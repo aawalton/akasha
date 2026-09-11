@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const fantasyHighSophomoreYear = {
   id: "01a06802-b8b9-7046-8e93-d091584d2c0b",
-  pageTypeSlug: "season",
   type: "season",
   slug: "fantasy-high-sophomore-year",
   title: "Fantasy High: Sophomore Year",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const whenEverythingFailsSurvivingAnyDisaster = {
   id: "019db533-f39e-76ac-8ea3-bee7930dd311",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "when-everything-fails-surviving-any-disaster",
   title: "When Everything Fails: Surviving Any Disaster",

@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const dunePartOne = {
   id: "01a06802-6d99-7007-9305-738b4198c7a1",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "dune-part-one",
   title: "Dune: Part One",

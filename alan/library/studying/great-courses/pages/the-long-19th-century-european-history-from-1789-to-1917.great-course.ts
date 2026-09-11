@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theLong19thCenturyEuropeanHistoryFrom1789To1917 = {
   id: "019db533-f39f-7720-81c0-cc54111458bc",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-long-19th-century-european-history-from-1789-to-1917",
   title: "The Long 19th Century: European History from 1789 to 1917",

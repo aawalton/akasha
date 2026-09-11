@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theIliadOfHomer = {
   id: "019db533-f387-7f2f-bb50-aeaf129ac8ed",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-iliad-of-homer",
   title: "The “Iliad” of Homer",

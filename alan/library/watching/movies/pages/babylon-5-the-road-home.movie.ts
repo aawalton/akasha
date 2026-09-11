@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const babylon5TheRoadHome = {
   id: "01a06802-6d98-700e-b413-3a1276634cde",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "babylon-5-the-road-home",
   title: "Babylon 5: The Road Home",

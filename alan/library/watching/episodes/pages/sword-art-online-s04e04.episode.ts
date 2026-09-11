@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS04e04 = {
   id: "019ea442-8a50-7c14-8a26-0e4efb11f813",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s04e04",
   title: "Dark Territory",

@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const theRiverOfSouls = {
   id: "01a06802-6d9a-701e-b9d0-4d7b39caa1fa",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "the-river-of-souls",
   title: "The River of Souls",

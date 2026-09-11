@@ -2,7 +2,6 @@ import type { Fandom } from "akasha/alan/library/watching/fandoms/fandom.page-ty
 
 export const theLordOfTheRings2 = {
   id: "01a06808-5078-700c-ac21-d87190de18fb",
-  pageTypeSlug: "fandom",
   type: "fandom",
   slug: "the-lord-of-the-rings-2",
   title: "The Lord of The Rings",

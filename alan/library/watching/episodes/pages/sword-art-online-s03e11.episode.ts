@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS03e11 = {
   id: "019ea442-8523-75bc-afa8-35bf5f2109f0",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s03e11",
   title: "Central Cathedral",

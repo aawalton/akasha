@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const starTrekVTheFinalFrontier = {
   id: "01a06802-6d99-7045-ac77-f3c08b3f340a",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "star-trek-v-the-final-frontier",
   title: "Star Trek V: The Final Frontier",

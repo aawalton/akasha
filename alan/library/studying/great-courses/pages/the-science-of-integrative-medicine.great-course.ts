@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theScienceOfIntegrativeMedicine = {
   id: "019db533-f3a0-761e-b22f-f8c807603920",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-science-of-integrative-medicine",
   title: "The Science of Integrative Medicine",

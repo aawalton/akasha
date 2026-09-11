@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS04e18 = {
   id: "019ea442-8d22-7745-b9b8-c4ffd58695a5",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s04e18",
   title: "Memories",

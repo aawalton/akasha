@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS01e03 = {
   id: "019ea442-72d2-758d-bb34-b9f7eb57da1a",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s01e03",
   title: "The Red-Nosed Reindeer",

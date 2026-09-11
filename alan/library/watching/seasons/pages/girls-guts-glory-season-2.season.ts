@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const girlsGutsGlorySeason2 = {
   id: "01a06802-b8ba-701d-8854-a20b3a32caea",
-  pageTypeSlug: "season",
   type: "season",
   slug: "girls-guts-glory-season-2",
   title: "Girls Guts Glory Season 2",

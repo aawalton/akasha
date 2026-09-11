@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS00e25 = {
   id: "019ea442-6e5e-751e-80a3-b93fc1d612db",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s00e25",
   title: "Alicization - War of Underworld 12.5: Reminiscence",

@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const babylon5SignsAndPortents = {
   id: "01a06802-b8b7-7016-bd46-d1dfa2fd130a",
-  pageTypeSlug: "season",
   type: "season",
   slug: "babylon-5-signs-and-portents",
   title: "Babylon 5 Signs and Portents",

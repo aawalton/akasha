@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theMathematicsOfGamesAndPuzzlesFromCardsToSudoku = {
   id: "019db533-f3a0-7673-9676-670784b3a5bc",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-mathematics-of-games-and-puzzles-from-cards-to-sudoku",
   title: "The Mathematics of Games and Puzzles: From Cards to Sudoku",

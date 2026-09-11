@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const thisDayInHistoryMarch = {
   id: "019db533-f3a0-725d-b137-27d81b942ee7",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "this-day-in-history-march",
   title: "This Day in History: March",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theRealHistoryOfPirates = {
   id: "019db533-f39f-7812-9727-a259d897fa5d",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-real-history-of-pirates",
   title: "The Real History of Pirates",

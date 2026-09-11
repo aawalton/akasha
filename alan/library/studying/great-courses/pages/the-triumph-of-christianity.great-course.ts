@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theTriumphOfChristianity = {
   id: "019db533-f39e-7b3f-9002-efed96b1d34e",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-triumph-of-christianity",
   title: "The Triumph of Christianity",

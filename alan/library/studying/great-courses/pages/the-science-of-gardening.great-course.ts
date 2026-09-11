@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theScienceOfGardening = {
   id: "019db533-f39e-76bc-99d8-de0770d0fd8c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-science-of-gardening",
   title: "The Science of Gardening",

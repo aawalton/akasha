@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS04e08 = {
   id: "019ea442-8b21-7271-bba2-162cc8abe02f",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s04e08",
   title: "Blood and Life",

@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const starTrekGenerations = {
   id: "01a06802-6d99-703c-b1f0-61f8492ee34b",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "star-trek-generations",
   title: "Star Trek: Generations",

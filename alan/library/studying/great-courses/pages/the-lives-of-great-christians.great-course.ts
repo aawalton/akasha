@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theLivesOfGreatChristians = {
   id: "019db533-f39e-7bbf-90e9-d642516270ac",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-lives-of-great-christians",
   title: "The Lives of Great Christians",

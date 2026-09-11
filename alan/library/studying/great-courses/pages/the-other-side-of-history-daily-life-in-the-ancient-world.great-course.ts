@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theOtherSideOfHistoryDailyLifeInTheAncientWorld = {
   id: "019db533-f3a0-7091-8d9d-485fe7215c93",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-other-side-of-history-daily-life-in-the-ancient-world",
   title: "The Other Side of History: Daily Life in the Ancient World",

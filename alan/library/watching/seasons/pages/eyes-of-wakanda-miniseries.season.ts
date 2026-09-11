@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const eyesOfWakandaMiniseries = {
   id: "01a06802-b8b9-7043-af38-dd3fa81cc046",
-  pageTypeSlug: "season",
   type: "season",
   slug: "eyes-of-wakanda-miniseries",
   title: "Eyes of Wakanda Miniseries",

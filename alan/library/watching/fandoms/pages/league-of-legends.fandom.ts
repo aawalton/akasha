@@ -2,7 +2,6 @@ import type { Fandom } from "akasha/alan/library/watching/fandoms/fandom.page-ty
 
 export const leagueOfLegends = {
   id: "01a06808-5078-7001-ab79-3488005b413a",
-  pageTypeSlug: "fandom",
   type: "fandom",
   slug: "league-of-legends",
   title: "League of Legends",

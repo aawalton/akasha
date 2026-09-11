@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const doctorWho1996 = {
   id: "01a06802-6d99-7005-a920-b1bff45a1eeb",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "doctor-who-1996",
   title: "Doctor Who (1996)",

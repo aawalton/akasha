@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theRiseOfModernJapan = {
   id: "019db533-f39f-7c90-a11b-d70074a5d14a",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-rise-of-modern-japan",
   title: "The Rise of Modern Japan",

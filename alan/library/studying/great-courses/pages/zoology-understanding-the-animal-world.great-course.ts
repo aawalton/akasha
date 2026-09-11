@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const zoologyUnderstandingTheAnimalWorld = {
   id: "019db533-f39e-7b18-90b1-9a0f9aa7fc4b",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "zoology-understanding-the-animal-world",
   title: "Zoology: Understanding the Animal World",

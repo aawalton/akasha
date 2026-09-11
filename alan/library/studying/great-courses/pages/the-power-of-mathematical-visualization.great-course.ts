@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const thePowerOfMathematicalVisualization = {
   id: "019db533-f3a0-7649-87e1-c3e9dc8049fd",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-power-of-mathematical-visualization",
   title: "The Power of Mathematical Visualization",

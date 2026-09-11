@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const blackAdam = {
   id: "01a06802-6d98-7017-938c-bdec9e87e6c6",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "black-adam",
   title: "Black Adam",

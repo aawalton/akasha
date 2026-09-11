@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const willToPowerThePhilosophyOfFriedrichNietzsche = {
   id: "019db533-f387-7f18-87ad-84cadc2cd044",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "will-to-power-the-philosophy-of-friedrich-nietzsche",
   title: "Will to Power: The Philosophy of Friedrich Nietzsche",

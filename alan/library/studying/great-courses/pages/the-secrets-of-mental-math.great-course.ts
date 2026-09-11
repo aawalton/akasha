@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theSecretsOfMentalMath = {
   id: "019db533-f3a0-7264-a510-e706c5fe6895",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-secrets-of-mental-math",
   title: "The Secrets of Mental Math",

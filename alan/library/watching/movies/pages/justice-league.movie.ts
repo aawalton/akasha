@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const justiceLeague = {
   id: "01a06802-6d99-7021-94fc-6a83d02f4f50",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "justice-league",
   title: "Justice League",

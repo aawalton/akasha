@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const understandingTheNewTestament = {
   id: "019db533-f39e-7b4f-aa49-a3f93ac17921",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "understanding-the-new-testament",
   title: "Understanding the New Testament",

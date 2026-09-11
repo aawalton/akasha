@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const understandingCulturalAndHumanGeography = {
   id: "019db533-f39f-7b68-9cbb-2e418c525660",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "understanding-cultural-and-human-geography",
   title: "Understanding Cultural and Human Geography",

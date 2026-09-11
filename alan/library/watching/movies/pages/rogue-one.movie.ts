@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const rogueOne = {
   id: "01a06802-6d99-7031-a726-e734a5930178",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "rogue-one",
   title: "Rogue One",

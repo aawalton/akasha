@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const avengersEndgame = {
   id: "01a06802-6d98-700a-a882-182e17edc545",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "avengers-endgame",
   title: "Avengers: Endgame",

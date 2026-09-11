@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const harryPotterAndTheOrderOfThePhoenix = {
   id: "01a06802-6d99-701a-a1f3-b3fdfdd5bd37",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "harry-potter-and-the-order-of-the-phoenix",
   title: "Harry Potter and the Order of the Phoenix",

@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineAlternativeGunGaleOnlineS02e10 = {
   id: "019ea442-99ca-7cbc-a633-28c62f6bcc02",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-alternative-gun-gale-online-s02e10",
   title: "The Devil's Castle",

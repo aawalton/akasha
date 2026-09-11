@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theSpiritualBrainScienceAndReligiousExperience = {
   id: "019db533-f3a0-7653-bd0c-c92e78611194",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-spiritual-brain-science-and-religious-experience",
   title: "The Spiritual Brain: Science and Religious Experience",

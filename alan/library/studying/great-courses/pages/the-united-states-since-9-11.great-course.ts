@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theUnitedStatesSince911 = {
   id: "019db533-f39f-7cd0-9216-4e4cd006b108",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-united-states-since-9-11",
   title: "The United States since 9/11",

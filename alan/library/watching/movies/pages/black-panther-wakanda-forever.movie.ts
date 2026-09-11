@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const blackPantherWakandaForever = {
   id: "01a06802-6d98-7019-92ee-3843296de5d0",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "black-panther-wakanda-forever",
   title: "Black Panther: Wakanda Forever",

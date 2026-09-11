@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const understandingTheInventionsThatChangedTheWorld = {
   id: "019db533-f39f-77b2-8004-6f751affc2ce",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "understanding-the-inventions-that-changed-the-world",
   title: "Understanding the Inventions That Changed the World",

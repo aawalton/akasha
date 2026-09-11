@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theOttomanEmpire = {
   id: "019db533-f3a0-704d-ab44-f9eabb76b3fb",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-ottoman-empire",
   title: "The Ottoman Empire",

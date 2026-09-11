@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theSkepticSGuideToHealthMedicineAndTheMedia = {
   id: "019db533-f3a0-767e-bc61-82e526f19288",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-skeptic-s-guide-to-health-medicine-and-the-media",
   title: "The Skeptic's Guide to Health, Medicine, and the Media",

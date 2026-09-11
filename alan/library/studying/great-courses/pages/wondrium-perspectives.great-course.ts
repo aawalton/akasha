@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const wondriumPerspectives = {
   id: "019db533-f39e-79a8-8205-eaba4fef9fad",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "wondrium-perspectives",
   title: "Wondrium Perspectives",

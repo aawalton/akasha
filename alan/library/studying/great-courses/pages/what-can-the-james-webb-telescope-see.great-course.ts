@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const whatCanTheJamesWebbTelescopeSee = {
   id: "019db533-f39e-7c8f-b49c-5efc542f77f8",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "what-can-the-james-webb-telescope-see",
   title: "What Can the James Webb Telescope See?",

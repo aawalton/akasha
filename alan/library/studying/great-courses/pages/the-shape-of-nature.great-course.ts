@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theShapeOfNature = {
   id: "019db533-f39e-7b80-9058-57783f520c5e",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-shape-of-nature",
   title: "The Shape of Nature",

@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const babylon5WheelOfFire = {
   id: "01a06802-b8b7-7019-aa1f-1455cbf3f6cf",
-  pageTypeSlug: "season",
   type: "season",
   slug: "babylon-5-wheel-of-fire",
   title: "Babylon 5 Wheel of Fire",

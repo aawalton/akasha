@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theNeuroscienceOfEverydayLife = {
   id: "019db533-f39e-7d8d-b8e0-f59810f85c54",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-neuroscience-of-everyday-life",
   title: "The Neuroscience of Everyday Life",

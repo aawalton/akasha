@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const theHobbitTheDesolationOfSmaug = {
   id: "01a06802-6d9a-7013-965c-b432d6e373e9",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "the-hobbit-the-desolation-of-smaug",
   title: "The Hobbit: The Desolation of Smaug",

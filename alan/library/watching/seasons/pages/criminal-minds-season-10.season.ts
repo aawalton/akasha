@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const criminalMindsSeason10 = {
   id: "01a06802-b8b8-7033-89d4-65bd70ea5c36",
-  pageTypeSlug: "season",
   type: "season",
   slug: "criminal-minds-season-10",
   title: "Criminal Minds Season 10",

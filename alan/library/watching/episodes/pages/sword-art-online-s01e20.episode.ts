@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS01e20 = {
   id: "019ea442-764a-7941-ab62-f49a281db282",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s01e20",
   title: "General of the Blazing Flame",

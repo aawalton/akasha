@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const whiteCollarCriminalLawExplained = {
   id: "019db533-f39e-72f1-84a4-5d34fc169207",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "white-collar-criminal-law-explained",
   title: "White Collar Criminal Law Explained",

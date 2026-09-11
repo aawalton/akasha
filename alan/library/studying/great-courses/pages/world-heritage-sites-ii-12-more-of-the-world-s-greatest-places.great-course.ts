@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const worldHeritageSitesIi12MoreOfTheWorldSGreatestPlaces = {
   id: "019db533-f39f-739b-bd7d-76f6b93b99ad",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "world-heritage-sites-ii-12-more-of-the-world-s-greatest-places",
   title: "World Heritage Sites II: 12 More of the World’s Greatest Places",

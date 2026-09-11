@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS01e06 = {
   id: "019ea442-736c-72c7-89e8-fd23ab0f47fc",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s01e06",
   title: "Illusionary Avenger",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theSecretWorldOfEspionage = {
   id: "019db533-f39f-7cbb-a48b-60b0f3f4541a",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-secret-world-of-espionage",
   title: "The Secret World of Espionage",

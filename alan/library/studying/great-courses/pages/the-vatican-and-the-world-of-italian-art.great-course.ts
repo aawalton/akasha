@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theVaticanAndTheWorldOfItalianArt = {
   id: "01a06578-6719-7008-8a32-cba3895c1746",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-vatican-and-the-world-of-italian-art",
   title: "The Vatican and the World of Italian Art",

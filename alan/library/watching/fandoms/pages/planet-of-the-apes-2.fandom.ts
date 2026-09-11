@@ -2,7 +2,6 @@ import type { Fandom } from "akasha/alan/library/watching/fandoms/fandom.page-ty
 
 export const planetOfTheApes2 = {
   id: "01a06808-5078-7006-881d-634b8ef4d5c8",
-  pageTypeSlug: "fandom",
   type: "fandom",
   slug: "planet-of-the-apes-2",
   title: "Planet of the Apes",

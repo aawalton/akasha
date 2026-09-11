@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const gameOfThronesSeason7 = {
   id: "01a06802-b8ba-7019-ab75-2252effaec09",
-  pageTypeSlug: "season",
   type: "season",
   slug: "game-of-thrones-season-7",
   title: "Game of Thrones Season 7",

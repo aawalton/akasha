@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS02e22 = {
   id: "019ea442-8104-78ce-901f-4ad72e9dbf7e",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s02e22",
   title: "The End of the Journey",

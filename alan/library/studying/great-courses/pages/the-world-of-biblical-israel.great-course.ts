@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theWorldOfBiblicalIsrael = {
   id: "019db533-f39f-7ff9-893f-b9f68082338f",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-world-of-biblical-israel",
   title: "The World of Biblical Israel",

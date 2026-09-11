@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS03e10 = {
   id: "019ea442-84eb-74c3-8dc1-cc340f8c8ee7",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s03e10",
   title: "Taboo Index",

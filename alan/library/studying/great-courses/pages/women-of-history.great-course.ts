@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const womenOfHistory = {
   id: "019db533-f39f-7ac8-b3ef-0a33ec6e95ef",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "women-of-history",
   title: "Women of History",

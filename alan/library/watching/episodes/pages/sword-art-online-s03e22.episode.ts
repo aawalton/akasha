@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS03e22 = {
   id: "019ea442-8787-75c5-a3e6-377e74e0e869",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s03e22",
   title: "Titan of the Sword",

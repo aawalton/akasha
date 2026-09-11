@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS01e25 = {
   id: "019ea442-7b1e-71a9-876b-accb64c15eb7",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s01e25",
   title: "The World Seed",

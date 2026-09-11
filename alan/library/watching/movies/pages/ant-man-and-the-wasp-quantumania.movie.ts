@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const antManAndTheWaspQuantumania = {
   id: "01a06802-6d98-7005-a37f-777f5cf5e2d8",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "ant-man-and-the-wasp-quantumania",
   title: "Ant-Man and the Wasp: Quantumania",

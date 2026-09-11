@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theManyHiddenWorldsOfQuantumMechanics = {
   id: "019db533-f39e-7b87-87e9-1411bbf7d897",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-many-hidden-worlds-of-quantum-mechanics",
   title: "The Many Hidden Worlds of Quantum Mechanics",

@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const theFantasticFourFirstSteps = {
   id: "01a06802-6d9a-700a-8ea6-1b4a74076506",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "the-fantastic-four-first-steps",
   title: "The Fantastic Four: First Steps",

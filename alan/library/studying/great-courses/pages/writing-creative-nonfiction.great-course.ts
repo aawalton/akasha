@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const writingCreativeNonfiction = {
   id: "019db533-f39e-7626-98a9-970309b503a5",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "writing-creative-nonfiction",
   title: "Writing Creative Nonfiction",

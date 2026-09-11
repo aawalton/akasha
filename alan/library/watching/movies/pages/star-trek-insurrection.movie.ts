@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const starTrekInsurrection = {
   id: "01a06802-6d99-703f-9f72-53390b9e87cc",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "star-trek-insurrection",
   title: "Star Trek: Insurrection",

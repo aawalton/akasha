@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const elementarySeason7 = {
   id: "01a06802-b8b9-7039-a810-c26637c0e4ae",
-  pageTypeSlug: "season",
   type: "season",
   slug: "elementary-season-7",
   title: "Elementary Season 7",

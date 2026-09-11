@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const understandingTheSecretsOfHumanPerception = {
   id: "019db533-f39f-70df-b658-57cbfb99429e",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "understanding-the-secrets-of-human-perception",
   title: "Understanding the Secrets of Human Perception",

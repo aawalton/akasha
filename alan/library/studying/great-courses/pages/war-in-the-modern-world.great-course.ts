@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const warInTheModernWorld = {
   id: "019db533-f39f-77f2-b022-5b82fc0cbf4c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "war-in-the-modern-world",
   title: "War in the Modern World",

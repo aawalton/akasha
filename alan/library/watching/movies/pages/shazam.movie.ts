@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const shazam = {
   id: "01a06802-6d99-7033-844f-7092afd3efd3",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "shazam",
   title: "Shazam!",

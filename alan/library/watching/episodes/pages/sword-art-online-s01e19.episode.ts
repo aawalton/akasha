@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS01e19 = {
   id: "019ea442-7618-77ab-8a1a-c6600528a67a",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s01e19",
   title: "The Lugru Corridor",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theoriesOfKnowledgeHowToThinkAboutWhatYouKnow = {
   id: "019db533-f39e-7bed-a8d8-d156b13a5587",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "theories-of-knowledge-how-to-think-about-what-you-know",
   title: "Theories of Knowledge: How to Think about What You Know",

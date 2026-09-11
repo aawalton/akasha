@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const swordArtOnlineTheMovieOrdinalScale = {
   id: "019ea442-a1c7-759f-b841-dc28aa261efa",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "sword-art-online-the-movie-ordinal-scale",
   title: "Sword Art Online the Movie: Ordinal Scale",

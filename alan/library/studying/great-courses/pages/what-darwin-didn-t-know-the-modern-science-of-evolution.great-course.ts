@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const whatDarwinDidnTKnowTheModernScienceOfEvolution = {
   id: "019db533-f39e-7d00-b11e-a0ab3269d15d",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "what-darwin-didn-t-know-the-modern-science-of-evolution",
   title: "What Darwin Didn't Know: The Modern Science of Evolution",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theoriesOfHumanDevelopment = {
   id: "019db533-f39e-7df2-a14f-38bc821176c1",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "theories-of-human-development",
   title: "Theories of Human Development",

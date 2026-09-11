@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const babylon5NoSurrenderNoRetreat = {
   id: "01a06802-b8b7-7014-9a67-5c3842381817",
-  pageTypeSlug: "season",
   type: "season",
   slug: "babylon-5-no-surrender-no-retreat",
   title: "Babylon 5 No Surrender, No Retreat",

@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const aquamanAndTheLostKingdom = {
   id: "01a06802-6d98-7007-89cb-c3f07e0157af",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "aquaman-and-the-lost-kingdom",
   title: "Aquaman and the Lost Kingdom",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const wondersOfTheNationalParksAGeologyOfNorthAmerica = {
   id: "019db533-f39f-70b4-b40e-d2273d02b45b",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "wonders-of-the-national-parks-a-geology-of-north-america",
   title: "Wonders of the National Parks: A Geology of North America",

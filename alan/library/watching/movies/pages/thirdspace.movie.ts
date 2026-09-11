@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const thirdspace = {
   id: "01a06802-6d9a-7022-b129-969fff370962",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "thirdspace",
   title: "Thirdspace",

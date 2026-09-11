@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS02e10 = {
   id: "019ea442-7e83-715c-a750-fb21068c4c9f",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s02e10",
   title: "Death Chaser",

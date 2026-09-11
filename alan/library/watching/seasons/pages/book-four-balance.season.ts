@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const bookFourBalance = {
   id: "01a06802-b8b8-7017-bf93-20549fd44a85",
-  pageTypeSlug: "season",
   type: "season",
   slug: "book-four-balance",
   title: "Book Four: Balance",

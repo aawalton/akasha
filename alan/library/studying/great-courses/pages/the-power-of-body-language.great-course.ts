@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const thePowerOfBodyLanguage = {
   id: "019db533-f39e-7283-b9e1-68784f043833",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-power-of-body-language",
   title: "The Power of Body Language",

@@ -2,7 +2,6 @@ import type { Fandom } from "akasha/alan/library/watching/fandoms/fandom.page-ty
 
 export const piratesOfTheCaribbean2 = {
   id: "01a06808-5078-7005-a883-b847a7530a90",
-  pageTypeSlug: "fandom",
   type: "fandom",
   slug: "pirates-of-the-caribbean-2",
   title: "Pirates of the Caribbean",

@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const bookTwoEarth = {
   id: "01a06802-b8b8-701c-9659-f13a7af6c291",
-  pageTypeSlug: "season",
   type: "season",
   slug: "book-two-earth",
   title: "Book Two: Earth",

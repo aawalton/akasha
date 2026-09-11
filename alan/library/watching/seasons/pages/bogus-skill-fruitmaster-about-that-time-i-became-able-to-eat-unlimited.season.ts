@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const bogusSkillFruitmasterAboutThatTimeIBecameAbleToEatUnlimited = {
   id: "01a06802-b8b8-700f-9743-33c72325216a",
-  pageTypeSlug: "season",
   type: "season",
   slug: "bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited",
   title:

@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const arcaneSpecials = {
   id: "01a06802-b8b7-7011-af9b-8f724c35a637",
-  pageTypeSlug: "season",
   type: "season",
   slug: "arcane-specials",
   title: "Arcane Specials",

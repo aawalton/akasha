@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const harryPotterAndTheGobletOfFire = {
   id: "01a06802-6d99-7018-a0e4-1be48b404874",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "harry-potter-and-the-goblet-of-fire",
   title: "Harry Potter and the Goblet of Fire",

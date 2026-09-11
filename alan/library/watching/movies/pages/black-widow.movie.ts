@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const blackWidow = {
   id: "01a06802-6d98-701a-af5a-d8dd203e317b",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "black-widow",
   title: "Black Widow",

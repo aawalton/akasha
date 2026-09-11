@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theJoyOfThinkingTheBeautyAndPowerOfClassicalMathematicalIde = {
   id: "01a06578-671c-7000-88e7-b65e13f6e900",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-joy-of-thinking-the-beauty-and-power-of-classical-mathematical-ide",
   title: "The Joy of Thinking: The Beauty and Power of Classical Mathematical Ideas",

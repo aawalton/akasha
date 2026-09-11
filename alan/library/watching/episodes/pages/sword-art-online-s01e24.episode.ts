@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS01e24 = {
   id: "019ea442-7718-7f5a-86e2-e889ec19139c",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s01e24",
   title: "Gilded Hero",

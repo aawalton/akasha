@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const captainAmericaBraveNewWorld = {
   id: "01a06802-6d98-701c-9024-26e6a2fc2bed",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "captain-america-brave-new-world",
   title: "Captain America: Brave New World",

@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const batmanVSupermanDawnOfJustice = {
   id: "01a06802-6d98-7010-8789-495f72a67e9c",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "batman-v-superman-dawn-of-justice",
   title: "Batman v Superman: Dawn of Justice",

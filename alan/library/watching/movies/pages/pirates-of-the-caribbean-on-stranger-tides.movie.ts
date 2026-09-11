@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const piratesOfTheCaribbeanOnStrangerTides = {
   id: "01a06802-6d99-7029-935b-fc3f799fee07",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "pirates-of-the-caribbean-on-stranger-tides",
   title: "Pirates of the Caribbean: On Stranger Tides",

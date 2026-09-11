@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const virtualVenice = {
   id: "019db533-f39f-72fd-8750-0e746dd40305",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "virtual-venice",
   title: "Virtual Venice",

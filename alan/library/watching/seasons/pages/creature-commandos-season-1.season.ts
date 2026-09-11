@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const creatureCommandosSeason1 = {
   id: "01a06802-b8b8-7031-8303-f0714cb46936",
-  pageTypeSlug: "season",
   type: "season",
   slug: "creature-commandos-season-1",
   title: "Creature Commandos Season 1",

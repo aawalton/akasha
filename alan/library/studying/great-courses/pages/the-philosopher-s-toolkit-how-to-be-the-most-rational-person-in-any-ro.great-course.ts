@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const thePhilosopherSToolkitHowToBeTheMostRationalPersonInAnyRo = {
   id: "019db533-f39f-71df-8353-c98f546d0cb0",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-philosopher-s-toolkit-how-to-be-the-most-rational-person-in-any-ro",
   title: "The Philosopher's Toolkit: How to Be the Most Rational Person in Any Room",

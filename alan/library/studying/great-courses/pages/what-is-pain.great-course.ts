@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const whatIsPain = {
   id: "01a06578-6719-7007-82ce-f4fef84b704a",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "what-is-pain",
   title: "What Is Pain?",

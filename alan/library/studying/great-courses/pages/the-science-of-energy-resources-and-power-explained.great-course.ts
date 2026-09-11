@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const theScienceOfEnergyResourcesAndPowerExplained = {
   id: "019db533-f39f-71a0-8456-835d1f2dc4ae",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "the-science-of-energy-resources-and-power-explained",
   title: "The Science of Energy: Resources and Power Explained",

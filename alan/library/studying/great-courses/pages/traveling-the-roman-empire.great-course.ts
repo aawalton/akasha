@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const travelingTheRomanEmpire = {
   id: "019db533-f39f-7479-a811-2cf1b08bb53b",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "traveling-the-roman-empire",
   title: "Traveling The Roman Empire",

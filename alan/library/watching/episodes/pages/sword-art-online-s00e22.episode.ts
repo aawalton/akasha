@@ -2,7 +2,6 @@ import type { Episode } from "akasha/alan/library/watching/episodes/episode.page
 
 export const swordArtOnlineS00e22 = {
   id: "019ea442-6dc0-71f4-8a63-74a82d05102b",
-  pageTypeSlug: "episode",
   type: "episode",
   slug: "sword-art-online-s00e22",
   title: "Sword Art Online Movie: Ordinal Scale - Sword Art Offline",

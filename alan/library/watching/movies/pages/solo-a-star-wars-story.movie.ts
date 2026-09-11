@@ -2,7 +2,6 @@ import type { Movie } from "akasha/alan/library/watching/movies/movie.page-type.
 
 export const soloAStarWarsStory = {
   id: "01a06802-6d99-7035-815d-052f70d6fc36",
-  pageTypeSlug: "movie",
   type: "movie",
   slug: "solo-a-star-wars-story",
   title: "Solo: A Star Wars Story",

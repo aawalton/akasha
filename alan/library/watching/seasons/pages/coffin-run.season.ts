@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const coffinRun = {
   id: "01a06802-b8b8-7030-a766-b8b622bec340",
-  pageTypeSlug: "season",
   type: "season",
   slug: "coffin-run",
   title: "Coffin Run",
