@@ -6,8 +6,8 @@ import type {
   Readers,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import {
-  overEachFile,
-  overEachText,
+  overEveryIn,
+  textNamed,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { textOf } from "akasha/code/body-text/body-text.module.code.ts"
@@ -187,8 +187,5 @@ export function refusalsIn(
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
   const rules = rulesIn(change.root, shadow, change)
   const readers = readersOf(shadow)
-  return overEachFile(
-    change,
-    overEachText((path, text) => refusalsIn(rules, path, text, readers))
-  )
+  return overEveryIn(change, textNamed, (path, text) => refusalsIn(rules, path, text, readers))
 }
