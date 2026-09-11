@@ -45,5 +45,17 @@ export const mobileApp = {
       invariantKind: "absence",
       statement: "No app slug is written here to say which app bakes a ring credential.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The page carrying a script's slug is asked of the index rather than swept for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The file holding a script is the `shell` file beside that script's page.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No file name ending is spelled here to find a script.",
+    },
   ],
 } as const satisfies Module

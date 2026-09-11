@@ -4,7 +4,8 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { everyOfType, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   slugAt,
   textAt,
@@ -36,9 +37,11 @@ export interface MobileApp {
 
 export const IOS_APP_PAGE_TYPE_SLUG = "ios-app"
 
-export const DEFAULT_APP_SLUG = "alanwalton"
+const SHELL_SCRIPT_PAGE_TYPE_SLUG = "shell-script"
 
-const SCRIPT_SUFFIX = ".shell-script.shell.sh"
+const SHELL = "shell"
+
+export const DEFAULT_APP_SLUG = "alanwalton"
 
 function inAkasha(path: string): string {
   return `${AKASHA}:${path}`
@@ -48,31 +51,30 @@ function akashaRoot(): string {
   return rootFor(resolveRoots(), AKASHA)
 }
 
-let scripts: Readonly<Record<string, string>> | null = null
-
-function scriptPaths(): Readonly<Record<string, string>> {
-  if (scripts !== null) return scripts
+function scriptNamed(slug: string, at: string, why: string): string {
   const root = akashaRoot()
-  const bySlug: Record<string, string> = {}
-  for (const found of new Bun.Glob(`**/*${SCRIPT_SUFFIX}`).scanSync({ cwd: root })) {
-    const path = found.split("\\").join("/")
-    const name = path.slice(path.lastIndexOf("/") + 1)
-    bySlug[name.slice(0, -SCRIPT_SUFFIX.length)] = path
+  const found = listedAt(root, SHELL_SCRIPT_PAGE_TYPE_SLUG, slug)[0]
+  if (found === undefined) {
+    throw new InputError(
+      `${at} names \`${slug}\` ${why}, and no shell script in akasha carries that slug`
+    )
   }
-  scripts = bySlug
-  return scripts
+  const value = valueAt(found.path, root)
+  if (value === null) throw new InputError(`${found.path} declares no page value`)
+  const held = textAt(value, SHELL)
+  const script = held === null ? null : besideAt(found.path, SHELL, held)
+  if (script === null) {
+    throw new InputError(
+      `${found.path} carries the slug \`${slug}\` and states no \`${SHELL}\` file to run`
+    )
+  }
+  return inAkasha(script)
 }
 
 function scriptAt(value: Value, key: string, path: string): string | null {
   const slug = slugAt(value, key)
   if (slug === null) return null
-  const found = scriptPaths()[slug]
-  if (found === undefined) {
-    throw new InputError(
-      `${path} names \`${slug}\` as its \`${key}\`, and no shell script in akasha carries that slug`
-    )
-  }
-  return inAkasha(found)
+  return scriptNamed(slug, path, `as its \`${key}\``)
 }
 
 function stated(value: Value, key: string): string | null {
@@ -148,7 +150,7 @@ export function resolveApp(slug?: string): MobileApp {
   return app
 }
 
-const SHELL_SCRIPT_PART_PREFIX = "shell-script/"
+const SHELL_SCRIPT_PART_PREFIX = `${SHELL_SCRIPT_PAGE_TYPE_SLUG}/`
 
 export const RING_CREDENTIAL_SCRIPT_SUFFIX = "-ring-credential"
 
@@ -161,15 +163,7 @@ export function ringCredentialScriptFor(app: MobileApp): string | null {
     (one) => one.startsWith(SHELL_SCRIPT_PART_PREFIX) && one.endsWith(RING_CREDENTIAL_SCRIPT_SUFFIX)
   )
   if (named === undefined) return null
-  const wanted = named.slice(SHELL_SCRIPT_PART_PREFIX.length)
-  const found = scriptPaths()[wanted]
-  if (found === undefined) {
-    throw new InputError(
-      `${app.pagePath} names \`${wanted}\` among its parts, and no shell script in akasha ` +
-        `carries that slug`
-    )
-  }
-  return inAkasha(found)
+  return scriptNamed(named.slice(SHELL_SCRIPT_PART_PREFIX.length), app.pagePath, "among its parts")
 }
 
 export const CODE_REPO = "code"
