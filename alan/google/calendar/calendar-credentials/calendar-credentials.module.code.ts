@@ -1,8 +1,5 @@
-import {
-  type GoogleOauthAppCredentials,
-  readGoogleOauthAppCredentials,
-} from "akasha/alan/google/oauth/oauth-app-credentials/oauth-app-credentials.module.code.ts"
-import { readGoogleRefreshToken } from "akasha/alan/google/oauth/oauth-refresh-token/oauth-refresh-token.module.code.ts"
+import type { GoogleOauthRefreshCredentials } from "akasha/alan/google/oauth/oauth-client/oauth-client.module.code.ts"
+import { readGoogleOauthCredentials } from "akasha/alan/google/oauth/oauth-refresh-token/oauth-refresh-token.module.code.ts"
 import { requireEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import * as z from "zod"
 
@@ -17,21 +14,14 @@ export interface CalendarCredentials {
   readonly privateKey: string
 }
 
-export interface CalendarOauthCredentials extends GoogleOauthAppCredentials {
-  readonly refreshToken: string
-}
-
 export function readCalendarCredentials(): CalendarCredentials {
   const clientEmail = requireEnv("GOOGLE_CALENDAR_SA_CLIENT_EMAIL")
   const privateKey = requireEnv("GOOGLE_CALENDAR_SA_PRIVATE_KEY").replaceAll("\\n", "\n")
   return { clientEmail, privateKey }
 }
 
-export function readCalendarOauthCredentials(): CalendarOauthCredentials {
-  return {
-    ...readGoogleOauthAppCredentials(),
-    refreshToken: readGoogleRefreshToken("GOOGLE_CALENDAR_OAUTH_REFRESH_TOKEN"),
-  }
+export function readCalendarOauthCredentials(): GoogleOauthRefreshCredentials {
+  return readGoogleOauthCredentials("GOOGLE_CALENDAR_OAUTH_REFRESH_TOKEN")
 }
 
 export function readDefaultCalendarId(): string | undefined {

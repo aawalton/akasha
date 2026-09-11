@@ -5,7 +5,7 @@ export const oauthRefreshToken = {
   pageTypeSlug: "module",
   type: "module",
   slug: "oauth-refresh-token",
-  definition: "the refresh token a Google call is made with",
+  definition: "the credentials a Google call is made with",
   code: "ts",
   invariants: [
     {
@@ -19,6 +19,10 @@ export const oauthRefreshToken = {
     {
       invariantKind: "departure",
       statement: "The token is read from the environment at the moment the token is asked for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The app's own id and secret are answered beside the token as one credential set.",
     },
   ],
 } as const satisfies Module
