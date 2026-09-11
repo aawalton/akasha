@@ -1,28 +1,9 @@
-import type { Asking, Row } from "../../asking/readout-asking.module.code.ts"
+import type { Row } from "../../asking/readout-asking.module.code.ts"
 import { statedAt } from "../../tier/readout-tier.module.code.ts"
-
-const STRETCH = "session-tracking"
-
-const HELD_ON = "daily-tracking"
 
 const HEALTH_CAPACITY_HOURS = "health-capacity-hours"
 
 const START_TIME = "start-time"
-
-const MOST_STRETCHES = 200
-
-const CAPACITY_UNKNOWN =
-  "the day's stretches could not be read, so the capacity is unknown rather than nothing"
-
-export function stretchesOf(dayId: string): Readonly<Record<string, unknown>> {
-  return {
-    "page-type": STRETCH,
-    where: { [HELD_ON]: { is: dayId } },
-    keys: [HEALTH_CAPACITY_HOURS],
-    "sort-by": START_TIME,
-    limit: MOST_STRETCHES,
-  }
-}
 
 const TITLE = "title"
 
@@ -107,10 +88,4 @@ export function capacityIn(rows: readonly Row[]): number | null {
     held = (held ?? 0) + hours
   }
   return held
-}
-
-export async function fetchCapacityHours(ask: Asking, dayId: string): Promise<number | null> {
-  const asked = await ask(stretchesOf(dayId))
-  if (!asked.ok) throw new Error(`${CAPACITY_UNKNOWN}: ${asked.why}`)
-  return capacityIn(asked.rows)
 }

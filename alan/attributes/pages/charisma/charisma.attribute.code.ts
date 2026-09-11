@@ -1,9 +1,5 @@
-import type { Asking, Row } from "akasha/alan/harness/readouts/asking/readout-asking.module.code.ts"
+import type { Row } from "akasha/alan/harness/readouts/asking/readout-asking.module.code.ts"
 import { statedAt } from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
-
-const STRETCH = "session-tracking"
-
-const HELD_ON = "daily-tracking"
 
 const SAFETY_LEVEL = "safety-level"
 
@@ -15,24 +11,9 @@ const END_TIME = "end-time"
 
 const RELATIONSHIPS = "relationships"
 
-const MOST_STRETCHES = 200
-
 const MILLISECONDS_TO_THE_HOUR = 3600000
 
 export const AT_EASE = 1
-
-const CHARISMA_UNKNOWN =
-  "the day's stretches could not be read, so the charisma is unknown rather than nothing"
-
-export function stretchesOf(dayId: string): Readonly<Record<string, unknown>> {
-  return {
-    "page-type": STRETCH,
-    where: { [HELD_ON]: { is: dayId } },
-    keys: [SAFETY_LEVEL, DIFFICULTY_LEVEL, START_TIME, END_TIME, RELATIONSHIPS],
-    "sort-by": START_TIME,
-    limit: MOST_STRETCHES,
-  }
-}
 
 export function easeIn(values: Readonly<Record<string, unknown>>): number | null {
   const safe = statedAt(values[SAFETY_LEVEL])
@@ -64,10 +45,4 @@ export function charismaIn(rows: readonly Row[]): number | null {
     held = (held ?? 0) + (earns ? hours : 0)
   }
   return held
-}
-
-export async function fetchCharismaPoints(ask: Asking, dayId: string): Promise<number | null> {
-  const asked = await ask(stretchesOf(dayId))
-  if (!asked.ok) throw new Error(`${CHARISMA_UNKNOWN}: ${asked.why}`)
-  return charismaIn(asked.rows)
 }

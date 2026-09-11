@@ -1,19 +1,5 @@
 import { expect, test } from "bun:test"
-import {
-  answering,
-  refusing,
-} from "akasha/alan/harness/readouts/asking/readout-asking.module.test-fixtures.ts"
-import {
-  AT_EASE,
-  charismaIn,
-  easeIn,
-  fetchCharismaPoints,
-  hoursIn,
-  namesAnyone,
-  stretchesOf,
-} from "./charisma.attribute.code.ts"
-
-const DAY = "01a05fc3-145a-7000-9000-000000000000"
+import { AT_EASE, charismaIn, easeIn, hoursIn, namesAnyone } from "./charisma.attribute.code.ts"
 
 const AN_HOUR = 3600000
 
@@ -31,22 +17,6 @@ const ran = (safety: unknown, difficulty: unknown, hours: number, from = 0) => (
 
 const alone = (safety: unknown, difficulty: unknown, hours: number, from = 0) => ({
   values: { ...ran(safety, difficulty, hours, from).values, relationships: [] },
-})
-
-test("the stretches asked for are the ones beside the day the caller named", () => {
-  const query = stretchesOf(DAY) as Record<string, unknown>
-  expect(query["page-type"]).toBe("session-tracking")
-  expect(query.where).toEqual({ "daily-tracking": { is: DAY } })
-})
-
-test("both levels, both times and who it was with are the keys asked for", () => {
-  expect((stretchesOf(DAY) as Record<string, unknown>).keys).toEqual([
-    "safety-level",
-    "difficulty-level",
-    "start-time",
-    "end-time",
-    "relationships",
-  ])
 })
 
 test("a stretch is with someone where that stretch names a relationship", () => {
@@ -71,10 +41,6 @@ test("a night alone earns nothing however safe and undemanding it was", () => {
 
 test("a stretch naming nobody adds no hours however far that stretch is at ease", () => {
   expect(charismaIn([ran(3, 1, 2), alone(5, 0, 9)])).toBe(2)
-})
-
-test("a day is read as holding two hundred stretches at the most", () => {
-  expect((stretchesOf(DAY) as Record<string, unknown>).limit).toBe(200)
 })
 
 test("a stretch is at ease where its safety less its difficulty is one or more", () => {
@@ -130,18 +96,4 @@ test("no stretch on the day earns nothing rather than a charisma of zero", () =>
 
 test("a day no stretch can be read on earns nothing rather than a charisma of zero", () => {
   expect(charismaIn([ran(null, null, 3), { values: {} }])).toBeNull()
-})
-
-test("a day with no stretches earns nothing over the whole reach", async () => {
-  expect(await fetchCharismaPoints(answering([]), DAY)).toBeNull()
-})
-
-test("the hours at ease of the day asked for are the points", async () => {
-  expect(await fetchCharismaPoints(answering([ran(3, 1, 2), ran(2, 2, 6)]), DAY)).toBe(2)
-})
-
-test("a store that refuses is a fault rather than points of nothing", async () => {
-  await expect(
-    fetchCharismaPoints(refusing("the index holds no such page type"), DAY)
-  ).rejects.toThrow("unknown rather than nothing")
 })
