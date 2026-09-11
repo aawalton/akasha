@@ -9,4 +9,10 @@ export const cloudflared = {
     "the namespace, config and deployment with the tunnel traffic reaches the cluster over",
   code: "ts",
   generatedDirectory: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The pod template carries the hash of the cloudflared-creds secret.",
+    },
+  ],
 } as const satisfies Manifest
