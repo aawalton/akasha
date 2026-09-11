@@ -31,7 +31,7 @@ export const opsExtension = {
     },
     {
       invariantKind: "departure",
-      statement: "A panel's code sits in `editor-extension` rather than here.",
+      statement: "A panel's code sits in the `extension` domain rather than here.",
     },
     {
       invariantKind: "departure",
