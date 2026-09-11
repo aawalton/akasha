@@ -2,6 +2,7 @@ import {
   asPage,
   type Page,
 } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
 
 type Values = Readonly<Record<string, unknown>>
 
@@ -10,10 +11,6 @@ function numberOf(value: unknown): number | null {
   if (typeof value !== "string" || value.trim() === "") return null
   const one = Number(value)
   return Number.isFinite(one) ? one : null
-}
-
-function textOf(value: unknown): string | null {
-  return typeof value === "string" && value !== "" ? value : null
 }
 
 function eitherOf(values: Values, keys: readonly string[]): unknown {
@@ -68,9 +65,9 @@ function effectRowOf(values: Values): unknown {
 function effectOf(values: Values): unknown {
   const seconds = numberOf(eitherOf(values, EFFECT_SECONDS))
   const value = numberOf(eitherOf(values, EFFECT_VALUE))
-  const effectType = textOf(eitherOf(values, EFFECT_TYPE))
+  const effectType = textIn(eitherOf(values, EFFECT_TYPE))
   return {
-    metricId: textOf(eitherOf(values, METRIC_ID)),
+    metricId: textIn(eitherOf(values, METRIC_ID)),
     ...(effectType === null ? {} : { effectType }),
     effectValue: seconds === null ? value : { value, seconds },
   }
@@ -79,7 +76,7 @@ function effectOf(values: Values): unknown {
 function flatQualityOf(held: readonly Values[]): Record<string, number> {
   const out: Record<string, number> = {}
   for (const one of held) {
-    const quality = textOf(one.quality)
+    const quality = textIn(one.quality)
     const value = numberOf(one.value)
     if (quality !== null && value !== null) out[quality] = value
   }
@@ -89,8 +86,8 @@ function flatQualityOf(held: readonly Values[]): Record<string, number> {
 function metricQualityOf(held: readonly Values[]): Record<string, Record<string, number>> {
   const out: Record<string, Record<string, number>> = {}
   for (const one of held) {
-    const metric = textOf(eitherOf(one, METRIC_ID))
-    const quality = textOf(one.quality)
+    const metric = textIn(eitherOf(one, METRIC_ID))
+    const quality = textIn(one.quality)
     const value = numberOf(one.value)
     if (metric === null || quality === null || value === null) continue
     out[metric] = { ...(out[metric] ?? {}), [quality]: value }
@@ -99,20 +96,20 @@ function metricQualityOf(held: readonly Values[]): Record<string, Record<string,
 }
 
 function traitQualityOf(held: readonly Values[]): Record<string, unknown> {
-  const split = held.some((one) => textOf(eitherOf(one, METRIC_ID)) !== null)
+  const split = held.some((one) => textIn(eitherOf(one, METRIC_ID)) !== null)
   return split ? metricQualityOf(held) : flatQualityOf(held)
 }
 
 function scriptsOf(held: readonly Values[]): Record<string, unknown> {
   const out: Record<string, unknown> = {}
   for (const one of held) {
-    const scriptId = textOf(eitherOf(one, SCRIPT_ID))
+    const scriptId = textIn(eitherOf(one, SCRIPT_ID))
     if (scriptId === null) continue
-    const classId = textOf(eitherOf(one, CLASS_ID))
+    const classId = textIn(eitherOf(one, CLASS_ID))
     out[scriptId] = {
       scriptId,
       ...(classId === null ? {} : { classId }),
-      description: textOf(one.description) ?? "",
+      description: textIn(one.description) ?? "",
     }
   }
   return out
@@ -120,7 +117,7 @@ function scriptsOf(held: readonly Values[]): Record<string, unknown> {
 
 function passiveOf(values: Values): unknown {
   return {
-    metricId: textOf(eitherOf(values, METRIC_ID)),
+    metricId: textIn(eitherOf(values, METRIC_ID)),
     value: numberOf(eitherOf(values, EFFECT_VALUE)),
   }
 }
@@ -187,7 +184,7 @@ function idsIn(value: unknown): readonly string[] {
       continue
     }
     if (typeof one !== "object" || one === null) continue
-    const scriptId = textOf(eitherOf(one as Values, SCRIPT_ID))
+    const scriptId = textIn(eitherOf(one as Values, SCRIPT_ID))
     if (scriptId !== null) out.push(scriptId)
   }
   return out
