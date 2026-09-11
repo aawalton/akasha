@@ -1,8 +1,6 @@
+import { fileBackedPageTypes } from "akasha/pages/access/file-backed-roster/file-backed-roster.module.code.ts"
 import { fileRelationDeclarations } from "akasha/pages/access/file-property-defs/file-property-defs.module.code.ts"
-import {
-  type FileReadDeps,
-  fileBackedPageTypes,
-} from "akasha/pages/access/file-read/file-read.module.code.ts"
+import type { FileReadDeps } from "akasha/pages/access/file-read/file-read.module.code.ts"
 import { kebabizeKey } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
 import type { PageSelect } from "akasha/pages/access/types/types.module.code.ts"
 import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"

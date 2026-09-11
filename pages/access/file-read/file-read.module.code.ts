@@ -1,4 +1,4 @@
-import { RosterUnreachable } from "akasha/pages/access/file-backed-roster/file-backed-roster.module.code.ts"
+import { fileBackedPageTypes } from "akasha/pages/access/file-backed-roster/file-backed-roster.module.code.ts"
 import {
   asPage,
   type Page,
@@ -19,7 +19,6 @@ import {
   ranked,
 } from "../file-narrow/file-narrow.module.code.ts"
 import { buildRawPageRows } from "../file-rows/file-rows.module.code.ts"
-import { rosterOverServer, writesOverServer } from "../over-server/over-server.module.code.ts"
 import type { PropertyDefinition } from "../page-type-config/page-type-config.module.code.ts"
 import { flattenRow } from "../routing-core/routing-core.module.code.ts"
 import type { PageCursor, PageOrder, PageSelect } from "../types/types.module.code.ts"
@@ -48,16 +47,6 @@ const ALSO_READ: Readonly<Record<string, string>> = {
   lastViewedAt: "last_viewed_at",
 }
 
-const PAGE_TYPE = "page-type"
-
-const ROSTER_HELD_MS = 60_000
-
-const NO_ROSTER =
-  "the page types `@akasha/pages-service` lists are the page types whose pages it holds as files, and that listing did not come back"
-
-const NO_PAGE_TYPE =
-  "`@akasha/pages-service` listed no page type at all, and an empty roster would read as a tree where no page is a file"
-
 export function pageOf(raw: Readonly<Record<string, unknown>>): Page {
   const page = flattenRow({ ...raw })
   const alsoRead: Record<string, Json> = {}
@@ -67,58 +56,6 @@ export function pageOf(raw: Readonly<Record<string, unknown>>): Page {
     if (isJson(value)) alsoRead[key] = value
   }
   return Object.keys(alsoRead).length === 0 ? page : asPage({ ...page, ...alsoRead })
-}
-
-let known: ReadonlySet<string> | null = null
-let knownAt = 0
-let pending: Promise<ReadonlySet<string>> | null = null
-
-export function forgetFileBackedPageTypes(): undefined {
-  known = null
-  knownAt = 0
-  pending = null
-}
-
-async function rosterAsked(ask: (query: Query) => Promise<Asked>): Promise<ReadonlySet<string>> {
-  const asked = await ask({ pageTypeSlug: PAGE_TYPE, keys: ["slug"] })
-  if ("refused" in asked) throw new RosterUnreachable(`${NO_ROSTER}: ${asked.refused}`)
-  const slugs = new Set<string>()
-  for (const row of asked.rows) {
-    const slug = row.slug
-    if (typeof slug === "string" && slug !== "") slugs.add(slug)
-  }
-  return slugs
-}
-
-async function rosterInABrowser(): Promise<ReadonlySet<string>> {
-  const answered = await rosterOverServer()
-  if ("refused" in answered) throw new RosterUnreachable(`${NO_ROSTER}: ${answered.refused}`)
-  return answered.slugs
-}
-
-async function rosterFrom(ask: (query: Query) => Promise<Asked>): Promise<ReadonlySet<string>> {
-  const slugs = writesOverServer() ? await rosterInABrowser() : await rosterAsked(ask)
-  if (slugs.size === 0) throw new RosterUnreachable(NO_PAGE_TYPE)
-  return slugs
-}
-
-export async function fileBackedPageTypes(
-  ask: (query: Query) => Promise<Asked> = askingFor
-): Promise<ReadonlySet<string>> {
-  if (known !== null && Date.now() - knownAt < ROSTER_HELD_MS) return known
-  pending ??= rosterFrom(ask).then(
-    (slugs) => {
-      pending = null
-      known = slugs
-      knownAt = Date.now()
-      return slugs
-    },
-    (thrown: unknown) => {
-      pending = null
-      throw thrown
-    }
-  )
-  return pending
 }
 
 export async function isFileBacked(pageTypeSlug: string): Promise<boolean> {
