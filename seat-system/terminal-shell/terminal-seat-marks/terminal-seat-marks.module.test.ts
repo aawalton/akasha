@@ -3,10 +3,14 @@ import { parses } from "akasha/seat-system/terminal-shell/terminal-bash/terminal
 import {
   MARK_TAIL,
   markIn,
+  REATTACH_VAR,
   SEAT_ATTACH_FN,
+  SEAT_MARK_FN,
   type SeatMark,
   seatAttachFnLines,
   seatByShellPid,
+  seatMarkFnLines,
+  seatReviveMarkLines,
 } from "akasha/seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
 
 const SEATS = new Set(["amy", "aranya"])
@@ -70,21 +74,61 @@ describe("the name a mark is written under", () => {
   })
 })
 
+describe("the shell that states its seat", () => {
+  it("hands back the path it wrote", () => {
+    const said = seatMarkFnLines(ROOT_LOCAL).join("\n")
+    expect(said).toContain(`${SEAT_MARK_FN}() {`)
+    expect(said.indexOf(`>"$_at"`)).toBeLessThan(said.lastIndexOf(`printf '%s' "$_at"`))
+  })
+
+  it("hands back nothing where it could not write", () => {
+    const said = seatMarkFnLines(ROOT_LOCAL).join("\n")
+    expect(said).toContain('mkdir -p "$_dir" 2>/dev/null || return 1')
+    expect(said).toContain('[ -n "$_start" ] || return 1')
+  })
+
+  it("parses", async () => {
+    expect(await parses(seatMarkFnLines(ROOT_LOCAL).join("\n"))).toBe(0)
+  })
+})
+
 describe("the shell that attaches", () => {
-  it("writes its mark before attaching and clears it after", () => {
-    const said = seatAttachFnLines(ROOT_LOCAL).join("\n")
+  it("states its seat before attaching and clears the mark after", () => {
+    const said = seatAttachFnLines().join("\n")
     expect(said).toContain(`${SEAT_ATTACH_FN}() {`)
-    expect(said.indexOf(MARK_TAIL)).toBeLessThan(said.indexOf("tmux attach-session"))
+    expect(said.indexOf(SEAT_MARK_FN)).toBeLessThan(said.indexOf("tmux attach-session"))
     expect(said.indexOf("tmux attach-session")).toBeLessThan(said.indexOf('rm -f "$_at"'))
   })
 
   it("hands back what the attach handed it", () => {
-    const said = seatAttachFnLines(ROOT_LOCAL).join("\n")
+    const said = seatAttachFnLines().join("\n")
     expect(said).toContain("local _rc=$?")
     expect(said).toContain("return $_rc")
   })
 
   it("parses", async () => {
-    expect(await parses(seatAttachFnLines(ROOT_LOCAL).join("\n"))).toBe(0)
+    const said = [...seatMarkFnLines(ROOT_LOCAL), ...seatAttachFnLines()].join("\n")
+    expect(await parses(said)).toBe(0)
+  })
+})
+
+describe("the terminal the editor revived", () => {
+  it("states the seat the editor recorded for it", () => {
+    const said = seatReviveMarkLines().join("\n")
+    expect(said).toContain(REATTACH_VAR)
+    expect(said).toContain(`${SEAT_MARK_FN} "\${${REATTACH_VAR}}"`)
+  })
+
+  it("states nothing from inside tmux", () => {
+    expect(seatReviveMarkLines().join("\n")).toContain('[ -z "${TMUX:-}" ]')
+  })
+
+  it("attaches nothing of its own", () => {
+    expect(seatReviveMarkLines().join("\n")).not.toContain("tmux attach-session")
+  })
+
+  it("parses", async () => {
+    const said = [...seatMarkFnLines(ROOT_LOCAL), ...seatReviveMarkLines()].join("\n")
+    expect(await parses(said)).toBe(0)
   })
 })

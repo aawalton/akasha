@@ -24,7 +24,8 @@ export const terminalSeatMarks = {
     },
     {
       invariantKind: "departure",
-      statement: "A mark is there from just before the attach until the attach returns.",
+      statement:
+        "A mark a shell wrote to attach is there from just before that attach until that attach returns.",
     },
     {
       invariantKind: "departure",
@@ -69,6 +70,18 @@ export const terminalSeatMarks = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads a color.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A terminal the editor revived onto a seat states that seat as its shell starts.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The shell writing a mark and the shell attaching are told apart.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A mark a revived terminal wrote goes when that terminal's shell ends.",
     },
   ],
 } as const satisfies Module

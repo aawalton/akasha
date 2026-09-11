@@ -4,6 +4,10 @@ import { TERMINAL_PAGES_DIR } from "akasha/seat-system/terminal-shell/terminal-e
 
 export const SEAT_ATTACH_FN = "__editor_terminal_seat_attach"
 
+export const SEAT_MARK_FN = "__editor_terminal_seat_mark"
+
+export const REATTACH_VAR = "VSCODE_TMUX_REATTACH"
+
 export const MARK_TAIL = ".code-editor-terminal.seat.uncommitted.attachment.json"
 
 const STARTED_AT_FIELD = 20
@@ -14,27 +18,44 @@ export type SeatMark = {
   readonly seat: string
 }
 
-export function seatAttachFnLines(rootLocal: string): readonly string[] {
+export function seatMarkFnLines(rootLocal: string): readonly string[] {
   return [
-    `${SEAT_ATTACH_FN}() {`,
+    `${SEAT_MARK_FN}() {`,
     '  local _seat="$1"',
     `  ${rootLocal}`,
     `  local _dir="$_root/${TERMINAL_PAGES_DIR}"`,
-    '  local _at="" _stat _rest _start',
-    '  if mkdir -p "$_dir" 2>/dev/null; then',
-    "    _stat=$(</proc/$$/stat)",
-    '    _rest="${_stat##*) }"',
-    `    _start=$(printf '%s' "$_rest" | awk '{ print $${STARTED_AT_FIELD} }')`,
-    '    if [ -n "$_start" ]; then',
-    `      _at="$_dir/$$-$_start${MARK_TAIL}"`,
-    `      printf '{"seat":"%s"}\\n' "$_seat" >"$_at" 2>/dev/null || _at=""`,
-    "    fi",
-    "  fi",
+    "  local _at _stat _rest _start",
+    '  mkdir -p "$_dir" 2>/dev/null || return 1',
+    "  _stat=$(</proc/$$/stat) || return 1",
+    '  _rest="${_stat##*) }"',
+    `  _start=$(printf '%s' "$_rest" | awk '{ print $${STARTED_AT_FIELD} }')`,
+    '  [ -n "$_start" ] || return 1',
+    `  _at="$_dir/$$-$_start${MARK_TAIL}"`,
+    `  printf '{"seat":"%s"}\\n' "$_seat" >"$_at" 2>/dev/null || return 1`,
+    `  printf '%s' "$_at"`,
+    "}",
+  ]
+}
+
+export function seatAttachFnLines(): readonly string[] {
+  return [
+    `${SEAT_ATTACH_FN}() {`,
+    '  local _seat="$1"',
+    "  local _at",
+    `  _at=$(${SEAT_MARK_FN} "$_seat") || _at=""`,
     '  tmux attach-session -t "=$_seat"',
     "  local _rc=$?",
     '  [ -n "$_at" ] && rm -f "$_at" 2>/dev/null',
     "  return $_rc",
     "}",
+  ]
+}
+
+export function seatReviveMarkLines(): readonly string[] {
+  return [
+    `if [ -n "\${${REATTACH_VAR}:-}" ] && [ -z "\${TMUX:-}" ]; then`,
+    `  ${SEAT_MARK_FN} "\${${REATTACH_VAR}}" >/dev/null`,
+    "fi",
   ]
 }
 

@@ -21,7 +21,11 @@ import {
   seatResumeFn,
   tmuxLaunchFnLines,
 } from "akasha/seat-system/terminal-shell/terminal-seat-launchers/terminal-seat-launchers.module.code.ts"
-import { seatAttachFnLines } from "akasha/seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
+import {
+  seatAttachFnLines,
+  seatMarkFnLines,
+  seatReviveMarkLines,
+} from "akasha/seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
 
 export type AliasEntry = {
   readonly account: string
@@ -88,8 +92,11 @@ function functions(accounts: readonly AliasEntry[]): string {
     "# whether a seat's tmux session holds a pane that is still alive",
     seatLiveFnLines().join("\n"),
     "",
+    "# stating beside the terminal's own page which seat this shell holds",
+    seatMarkFnLines(ROOT_LOCAL).join("\n"),
+    "",
     "# attaching to a seat, leaving that seat beside the terminal's own page while attached",
-    seatAttachFnLines(ROOT_LOCAL).join("\n"),
+    seatAttachFnLines().join("\n"),
     "",
     "# the shared tmux launch step every seat comes up under",
     tmuxLaunchFnLines().join("\n"),
@@ -107,6 +114,12 @@ function functions(accounts: readonly AliasEntry[]): string {
     terminalEndedFnLines(ROOT_LOCAL).join("\n"),
     "",
     terminalEndedTrapLines().join("\n")
+  )
+
+  blocks.push(
+    "",
+    "# a revived terminal attaches through the editor's own path, which states no seat",
+    seatReviveMarkLines().join("\n")
   )
 
   return blocks.join("\n")
