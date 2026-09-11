@@ -20,6 +20,7 @@ export const esoAddon = {
     "named-folder-property/addon-art-folder",
     "named-folder-property/addon-image-folder",
     "named-folder-property/addon-bin-folder",
+    "named-extension-property/addon-dds-file",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -53,6 +54,7 @@ export const esoAddon = {
       many: false,
     },
     { pageProperty: "named-folder-property/addon-bin-folder", required: false, many: false },
+    { pageProperty: "named-extension-property/addon-dds-file", required: false, many: false },
   ],
   invariants: [
     {
@@ -100,6 +102,11 @@ export const esoAddon = {
     {
       invariantKind: "departure",
       statement: "A texture folder is named after the folder the upstream addon already used.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An addon whose upstream kept no texture folder keeps its textures beside the page.",
     },
     {
       invariantKind: "constraint",
