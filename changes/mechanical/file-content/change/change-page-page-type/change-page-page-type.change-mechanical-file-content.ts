@@ -39,6 +39,10 @@ export const changePagePageType = {
     },
     {
       invariantKind: "departure",
+      statement: "That import names the page type from the root rather than by a relative path.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The import reaches the type file beside that page type where that page type has one.",
     },

@@ -5,9 +5,9 @@ import {
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
-const AT = "akasha/one/kept.one-thing.ts"
+const AT = "one/kept.one-thing.ts"
 
-const TO = "akasha/two/two-thing.page-type.ts"
+const TO = "two/two-thing.page-type.ts"
 
 const CHANGE_FILE_CONTENT = "change-mechanical-file-content/change-file-content"
 
@@ -73,7 +73,11 @@ export const kept = {
 
   expect(said.refused).toBe(null)
   expect(worked.map((one) => one.given)).toEqual([
-    { at: AT, old: IMPORTED, new: `import type { TwoThing } from "../two/two-thing.page-type.ts"` },
+    {
+      at: AT,
+      old: IMPORTED,
+      new: `import type { TwoThing } from "akasha/two/two-thing.page-type.ts"`,
+    },
     { at: AT, old: "satisfies OneThing", new: "satisfies TwoThing" },
     { at: AT, old: `pageTypeSlug: "one-thing"`, new: `pageTypeSlug: "two-thing"` },
     { at: AT, old: `type: "one-thing"`, new: `type: "two-thing"` },
@@ -88,7 +92,7 @@ test("the import naming that type is restated to reach the page type named", asy
   expect(worked[0]?.given).toEqual({
     at: AT,
     old: IMPORTED,
-    new: `import type { TwoThing } from "../two/two-thing.page-type.ts"`,
+    new: `import type { TwoThing } from "akasha/two/two-thing.page-type.ts"`,
   })
 })
 
@@ -101,7 +105,7 @@ test("the import reaches the type file beside the page type where that page type
   expect(worked[0]?.given).toEqual({
     at: AT,
     old: IMPORTED,
-    new: `import type { TwoThing } from "../two/two-thing.page-type.types.ts"`,
+    new: `import type { TwoThing } from "akasha/two/two-thing.page-type.types.ts"`,
   })
 })
 
@@ -114,7 +118,7 @@ test("a body stating no page type is refused", async () => {
 test("a body stating the page type named already is refused", async () => {
   const said = await runChange(worldOf(BODY, []), {
     at: AT,
-    to: "akasha/two/one-thing.page-type.ts",
+    to: "two/one-thing.page-type.ts",
   })
 
   expect(said.refused).toBe("`one-thing` is the page type the body states already")

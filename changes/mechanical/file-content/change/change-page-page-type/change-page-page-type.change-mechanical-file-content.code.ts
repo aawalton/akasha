@@ -1,12 +1,12 @@
-import { dirname } from "node:path"
 import { gathered, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { specifierFor } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import { typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 
 const CHANGE_FILE_CONTENT = "change-mechanical-file-content/change-file-content"
+
+const ROOT = "akasha/"
 
 const TYPE_KEY = "pageTypeSlug"
 
@@ -77,7 +77,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   }
   const beside = typesBeside(given.to)
   const declaring = beside !== null && world.bodyOf(beside) !== null ? beside : given.to
-  const spelled = specifierFor(dirname(given.at), declaring)
+  const spelled = `${ROOT}${declaring}`
   const imported = `import type { ${typedAs(type.slug)} } from ${JSON.stringify(spelled)}`
   const carried: Answer[] = []
   let over = world
