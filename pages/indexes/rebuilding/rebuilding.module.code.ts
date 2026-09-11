@@ -2,7 +2,6 @@ import {
   existsSync,
   mkdirSync,
   readdirSync,
-  readFileSync,
   renameSync,
   rmdirSync,
   rmSync,
@@ -16,6 +15,7 @@ import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.co
 import type { Filing } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { indexAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { walkedUnder } from "akasha/pages/indexes/tree-reading/tree-reading.module.code.ts"
+import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
 
 export function wholeOf(lines: readonly string[]): string {
   return `${lines.join("\n")}\n`
@@ -59,14 +59,6 @@ export function keepWhole(at: string, lines: readonly string[], root: string): u
   renameSync(near, at)
 }
 
-function bodyAt(at: string): string | null {
-  try {
-    return readFileSync(at, "utf8")
-  } catch {
-    return null
-  }
-}
-
 export function sweptBeside(root: string, put: boolean): readonly string[] {
   if (basename(root) !== INDEX || !existsSync(root)) return []
   const taken: string[] = []
@@ -98,7 +90,7 @@ export function reconcile(
   for (const [at, held] of wanted) {
     const lines = [...new Set(held.map((one) => one.line))].sort()
     const path = join(root, at)
-    const was = bodyAt(path)
+    const was = textThere(path)
     if (was === wholeOf(lines)) continue
     if (was === null) added.push(at)
     else changed.push(at)
