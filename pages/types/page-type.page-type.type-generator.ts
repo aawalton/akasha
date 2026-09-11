@@ -1,4 +1,5 @@
 import type { Adding } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -6,8 +7,6 @@ import type { Schema } from "akasha/pages/indexes/shape/index-shape.module.code.
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { turnedBy } from "akasha/pages/types/type-turning/type-turning.module.code.ts"
 import { slugsIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-
-const ROOT = "akasha/"
 
 const PAGE_TYPE = "page-type"
 
@@ -67,10 +66,6 @@ type Known = {
 
 export function typesAtOf(pageTypePath: string): string | null {
   return besideAt(pageTypePath, SECTION, HOLDS)
-}
-
-function specifierFor(to: string): string {
-  return `${ROOT}${to}`
 }
 
 function narrowedIn(shaped: ReadonlyMap<string, Schema>): ReadonlyMap<string, Schema | null> {
@@ -148,7 +143,7 @@ function importedAs(slug: string, typeName: string): string {
 function importsOf(slug: string, taken: readonly Taken[]): readonly string[] {
   const names = new Map<string, string[]>()
   for (const one of taken) {
-    const spec = specifierFor(one.at)
+    const spec = importedFrom(one.at)
     const said = importedAs(slug, one.typeName)
     const held = names.get(spec)
     if (held === undefined) names.set(spec, [said])
