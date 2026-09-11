@@ -1,4 +1,4 @@
-import type { RuntimeError } from "akasha/alan/harness/errors-core/runtime-errors/runtime-error.page-type.types.ts"
+import type { RuntimeError } from "../runtime-error.page-type.types.ts"
 
 export const alanwaltonFbee7e72abcb7c28 = {
   id: "01a08ba5-acbf-7c83-b055-2fd30bf65516",
