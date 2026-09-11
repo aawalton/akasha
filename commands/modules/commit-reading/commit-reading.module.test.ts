@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { spawn } from "node:child_process"
+import { join } from "node:path"
 import {
   bodyAt,
   readingEnded,
@@ -10,15 +11,27 @@ import {
   repoWith,
 } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
-const MODULE_AT = new URL("./commit-reading.module.code.ts", import.meta.url).pathname
+const ROOT = process.cwd()
 
-const BASE_AT = new URL(
-  "../landing-change-composing/landing-change-composing.module.code.ts",
-  import.meta.url
-).pathname
+const MODULE = "module"
+
+function codeAt(slug: string): string {
+  const page = listedAt(ROOT, MODULE, slug)[0]
+  const at = page === undefined ? null : besideAt(page.path, "code", "ts")
+  if (at === null) {
+    throw new Error(`no \`${MODULE}\` is slugged \`${slug}\`, so nothing says where its code sits`)
+  }
+  return join(ROOT, at)
+}
+
+const MODULE_AT = codeAt("commit-reading")
+
+const BASE_AT = codeAt("landing-change-composing")
 
 const NUL = new Uint8Array([104, 0, 101, 108, 100, 0, 0, 10])
 
