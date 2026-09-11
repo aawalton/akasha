@@ -28,7 +28,6 @@ export function bodyIn(given: string | Reading): string {
     "# needs only this package dir as context (for the in-container ArcFace scorer",
     "# copy below).",
     "#",
-    "# Build:  podman build -t wan:local -f wan-image/Containerfile .",
     "# Run:    see shell-script/wan-up",
     "FROM nvidia/cuda:12.8.1-devel-ubuntu24.04",
     "",
