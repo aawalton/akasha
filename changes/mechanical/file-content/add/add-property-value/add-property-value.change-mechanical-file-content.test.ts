@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { addPropertyValue } from "akasha/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.code.ts"
+import { OPENING } from "akasha/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.test-fixtures.ts"
 import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
@@ -8,14 +9,6 @@ import {
 import { bodyOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const AT = "akasha/held/kept.page-type.ts"
-
-const OPENING = `import type { PageType } from "../../pages/types/page-type.page-type.ts"
-
-export const kept = {
-  id: "01a072c8-f35d-7ffc-afc3-75b72460b059",
-  pageTypeSlug: "page-type",
-  slug: "kept",
-`
 
 const BODY = `${OPENING}  partSlugs: ["kept/one", "kept/two"],
 } as const satisfies PageType

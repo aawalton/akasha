@@ -11,6 +11,7 @@ export const addPropertyValue = {
   definition: "one value put into one page property in a page's body",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   guards: ["change-guard/relation-reaches-a-page"],
   invariants: [
     {
