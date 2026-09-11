@@ -1,8 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { chmodSync, existsSync, mkdirSync, statSync, utimesSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"
-import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   bodyFor,
   dropUncommitted,
@@ -12,7 +11,8 @@ import {
   removeUncommitted,
   uncommittedIn,
   wholeValue,
-} from "./page-uncommitted.module.code.ts"
+} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"
 
 const PAGE = "akasha/one/amy.seat.ts"
 
