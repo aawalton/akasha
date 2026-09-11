@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { EquipmentMappingsStale } from "./generate-addon-data.module.code.ts"
+import { EquipmentMappingsStale } from "akasha/temper/addon-data/generate-addon-data/generate-addon-data.module.code.ts"
 
 test("a stale-mappings throw is caught as itself", () => {
   const thrown = new EquipmentMappingsStale("the tables disagree")

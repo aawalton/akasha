@@ -1,4 +1,11 @@
 import {
+  CHARACTER_CODEC_MINOR_VERSION,
+  COMPANION_CODEC_MINOR_VERSION,
+  ROLE_BITS,
+  TARGET_ARMOR_BITS,
+  TARGET_HEALTH_BITS,
+} from "akasha/temper/addon-data/codec-widths/codec-widths.module.code.ts"
+import {
   AFFIX_SCRIPT_BITS,
   ALLIANCE_BITS,
   ARMOR_ENCHANT_BITS,
@@ -51,13 +58,6 @@ import {
   COMPANION_BUILD_TYPE,
   ESO_VERSION_49,
 } from "akasha/temper/companion-codec/companion-codec-v49/companion-codec-v49.module.code.ts"
-import {
-  CHARACTER_CODEC_MINOR_VERSION,
-  COMPANION_CODEC_MINOR_VERSION,
-  ROLE_BITS,
-  TARGET_ARMOR_BITS,
-  TARGET_HEALTH_BITS,
-} from "../codec-widths/codec-widths.module.code.ts"
 
 export function generateCodecConstants(): string {
   return `\

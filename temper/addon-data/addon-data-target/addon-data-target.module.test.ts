@@ -6,7 +6,7 @@ import {
   landsAsEntries,
   partSlugsOf,
   targetOf,
-} from "./addon-data-target.module.code.ts"
+} from "akasha/temper/addon-data/addon-data-target/addon-data-target.module.code.ts"
 
 const ONE: AddonDataModuleTarget = {
   rendered: "a-table.generated.ts",

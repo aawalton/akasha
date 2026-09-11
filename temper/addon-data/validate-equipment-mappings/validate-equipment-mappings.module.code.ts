@@ -6,8 +6,8 @@ import {
   companionTraitIds,
   companionWeaponTypeIds,
 } from "akasha/temper/companion-codec/companion-codec-indices/companion-codec-indices.module.code.ts"
+import { equipmentQualities } from "akasha/temper/equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import { z } from "zod"
-import { equipmentQualities } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 
 const EQUIPMENT_MAPPINGS = "temper-bit-codec/equipment-mappings/equipment-mappings.module.code.ts"
 

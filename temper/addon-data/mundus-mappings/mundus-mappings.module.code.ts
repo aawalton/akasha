@@ -1,4 +1,4 @@
-import { mundus } from "../../character-sources/mundus-source/mundus-source.module.code.ts"
+import { mundus } from "akasha/temper/character-sources/mundus-source/mundus-source.module.code.ts"
 export function generateMundusMappings(): string {
   const indexEntries: string[] = []
   const temperIdEntries: string[] = []

@@ -9,7 +9,7 @@ import {
   motifKey,
   motifTuplesOf,
   motifWording,
-} from "./mined-motif-coverage.module.code.ts"
+} from "akasha/temper/addon-data/mined-motif-coverage/mined-motif-coverage.module.code.ts"
 
 function tuplesOf(
   names: readonly string[]

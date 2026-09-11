@@ -1,3 +1,11 @@
+import {
+  TEMPER_EQUIPMENT_ARMOR_OUTPUT_DIR,
+  TEMPER_EQUIPMENT_ENCHANTS_OUTPUT_DIR,
+  TEMPER_EQUIPMENT_TRAITS_OUTPUT_DIR,
+  TEMPER_EQUIPMENT_WEAPON_OUTPUT_DIR,
+  TEMPER_INVENTORY_CORE_OUTPUT_DIR,
+} from "akasha/temper/addon-data/addon-data-output-dirs/addon-data-output-dirs.module.code.ts"
+import type { AddonDataPages } from "akasha/temper/addon-data/addon-data-pages/addon-data-pages.module.code.ts"
 import { generateTemperArmorEnchant } from "akasha/temper/addon-generators/temper-armor-enchant/temper-armor-enchant.module.code.ts"
 import { generateTemperArmorTrait } from "akasha/temper/addon-generators/temper-armor-trait/temper-armor-trait.module.code.ts"
 import { generateTemperArmorWeight } from "akasha/temper/addon-generators/temper-armor-weight/temper-armor-weight.module.code.ts"
@@ -9,14 +17,6 @@ import { generateTemperJewelryTrait } from "akasha/temper/addon-generators/tempe
 import { generateTemperWeaponEnchant } from "akasha/temper/addon-generators/temper-weapon-enchant/temper-weapon-enchant.module.code.ts"
 import { generateTemperWeaponTrait } from "akasha/temper/addon-generators/temper-weapon-trait/temper-weapon-trait.module.code.ts"
 import { generateTemperWeaponType } from "akasha/temper/addon-generators/temper-weapon-type/temper-weapon-type.module.code.ts"
-import {
-  TEMPER_EQUIPMENT_ARMOR_OUTPUT_DIR,
-  TEMPER_EQUIPMENT_ENCHANTS_OUTPUT_DIR,
-  TEMPER_EQUIPMENT_TRAITS_OUTPUT_DIR,
-  TEMPER_EQUIPMENT_WEAPON_OUTPUT_DIR,
-  TEMPER_INVENTORY_CORE_OUTPUT_DIR,
-} from "../addon-data-output-dirs/addon-data-output-dirs.module.code.ts"
-import type { AddonDataPages } from "../addon-data-pages/addon-data-pages.module.code.ts"
 
 export function buildAddonDataWritesEquipment(
   p: AddonDataPages,

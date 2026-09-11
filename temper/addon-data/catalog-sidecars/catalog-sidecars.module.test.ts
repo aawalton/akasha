@@ -1,9 +1,9 @@
 import { describe, expect, test } from "bun:test"
+import { withSidecars } from "akasha/temper/addon-data/catalog-sidecars/catalog-sidecars.module.code.ts"
 import {
   asPage,
   type Page,
 } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
-import { withSidecars } from "./catalog-sidecars.module.code.ts"
 
 function pageOf(
   pageTypeSlug: string,

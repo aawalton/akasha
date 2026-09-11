@@ -1,6 +1,6 @@
-import { COMPANIONS_OUTPUT_DIR } from "../addon-data-output-dirs/addon-data-output-dirs.module.code.ts"
-import { generateCompanionMappings } from "../companion-mappings/companion-mappings.module.code.ts"
-import { generateSkillMappings } from "../companion-skill-mappings/companion-skill-mappings.module.code.ts"
+import { COMPANIONS_OUTPUT_DIR } from "akasha/temper/addon-data/addon-data-output-dirs/addon-data-output-dirs.module.code.ts"
+import { generateCompanionMappings } from "akasha/temper/addon-data/companion-mappings/companion-mappings.module.code.ts"
+import { generateSkillMappings } from "akasha/temper/addon-data/companion-skill-mappings/companion-skill-mappings.module.code.ts"
 
 export function buildAddonDataWritesCompanionMappings(
   w: (dir: string, name: string, source: string) => Promise<number>

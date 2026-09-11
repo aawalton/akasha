@@ -10,7 +10,7 @@ import {
   threwSaidAs,
   unreadSaidAs,
   verdictOf,
-} from "./addon-data-proof.module.code.ts"
+} from "akasha/temper/addon-data/addon-data-proof/addon-data-proof.module.code.ts"
 
 function answerOf(over: Partial<Answer> = {}): Answer {
   return { section: "sets", name: "Sets.lua", verdict: "SAME", disk: 4, made: 4, ...over }

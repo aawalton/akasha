@@ -1,4 +1,4 @@
-import { races } from "../../races/races/races.module.code.ts"
+import { races } from "akasha/temper/races/races/races.module.code.ts"
 export function generateRaceMappings(): string {
   const indexEntries: string[] = []
   const temperIdEntries: string[] = []
