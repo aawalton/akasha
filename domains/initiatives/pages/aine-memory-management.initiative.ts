@@ -39,6 +39,16 @@ export const aineMemoryManagement = {
       workingMemory:
         "The live ones are scattered: the reaper's two ceilings in its own modules, the oomd thresholds in a unit drop-in, the node heap in the Claude settings file, the admission guard's free-memory minimum in a module of its own, and whatever cgroup files the units leave at max. Nothing reads them together, so no one of them can be set against the rest.\n",
     },
+    {
+      statement: "Which tree is ended first is settled before the host runs short.",
+      workingMemory:
+        "The reaper picks the single largest subtree at the moment it looks, so what dies is decided by size rather than by worth. Kubernetes settles this in advance by class. Here the browser, a game and an agent's build are all uid 1000 and all weigh the same to the tick.\n",
+    },
+    {
+      statement: "A host short of memory is known from how long its programs stall.",
+      workingMemory:
+        "The reaper reads MemAvailable and SwapFree, both of which are estimates of what could be had rather than measures of anything hurting. The kernel publishes stall time per cgroup at /proc/pressure/memory, and systemd-oomd is built on it. Alan's 16 GiB script never reached the headroom leg because swap was 54 GiB free.\n",
+    },
   ],
   constraints: ["Every ceiling number is settled with Alan rather than chosen."],
 } as const satisfies Initiative
