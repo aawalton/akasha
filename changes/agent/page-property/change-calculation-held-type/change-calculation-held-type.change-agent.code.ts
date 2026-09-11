@@ -7,6 +7,7 @@ import {
   reach,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
@@ -24,8 +25,6 @@ const HOLDS = "ts"
 const SLUG = "slug"
 
 const UNDER = "under"
-
-const PACKAGE = "akasha/"
 
 const WORK_FROM =
   /import type \{[^}]*\} from "akasha\/pages\/computed-properties\/computed-property\.page-type\.ts"/
@@ -102,7 +101,7 @@ export async function changeCalculationHeldType(
     if (drawn === null) return refusing(`\`${code}\` takes the calculation shape from nowhere`)
     const shown = await reach(over, CHANGE_CODE, {
       at: code,
-      new: `import type { ${named} } from "${PACKAGE}${typesAt}"\n${drawn[0]}`,
+      new: `import type { ${named} } from "${importedFrom(typesAt)}"\n${drawn[0]}`,
       old: drawn[0],
     })
     if (shown.said.refused !== null)
