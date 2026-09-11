@@ -2,7 +2,7 @@ import type {
   InternalTable,
   PublicTable,
   TabData,
-} from "../journal-shape/journal-shape.module.code.ts"
+} from "akasha/temper/lib-extended-journal/journal-shape/journal-shape.module.code.ts"
 
 type GlobalTable = Record<string, unknown>
 export function asGlobalTable(value: unknown): GlobalTable {

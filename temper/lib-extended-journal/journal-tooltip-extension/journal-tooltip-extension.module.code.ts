@@ -2,9 +2,9 @@ import {
   asCallback,
   asControl,
   asLabelControl,
-} from "../journal-casts/journal-casts.module.code.ts"
-import type { TooltipExtensionInstance } from "../journal-shape/journal-shape.module.code.ts"
-import { Public } from "../journal-state/journal-state.module.code.ts"
+} from "akasha/temper/lib-extended-journal/journal-casts/journal-casts.module.code.ts"
+import type { TooltipExtensionInstance } from "akasha/temper/lib-extended-journal/journal-shape/journal-shape.module.code.ts"
+import { Public } from "akasha/temper/lib-extended-journal/journal-state/journal-state.module.code.ts"
 
 export interface TooltipExtensionClass {
   New: (this: TooltipExtensionClass, name: string) => TooltipExtensionInstance

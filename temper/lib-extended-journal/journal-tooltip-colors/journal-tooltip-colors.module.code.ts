@@ -1,6 +1,12 @@
-import { LCCC } from "../../lccc/lccc/lccc.module.code.ts"
-import { asGlobalTable, asNumber } from "../journal-casts/journal-casts.module.code.ts"
-import { Internal, Public } from "../journal-state/journal-state.module.code.ts"
+import { LCCC } from "akasha/temper/lccc/lccc/lccc.module.code.ts"
+import {
+  asGlobalTable,
+  asNumber,
+} from "akasha/temper/lib-extended-journal/journal-casts/journal-casts.module.code.ts"
+import {
+  Internal,
+  Public,
+} from "akasha/temper/lib-extended-journal/journal-state/journal-state.module.code.ts"
 
 const DEFAULTS: Record<number, Record<number, number>> = {
   [1]: {

@@ -3,8 +3,11 @@ import {
   asNumber,
   asRecord,
   asString,
-} from "../journal-casts/journal-casts.module.code.ts"
-import { Internal, Public } from "../journal-state/journal-state.module.code.ts"
+} from "akasha/temper/lib-extended-journal/journal-casts/journal-casts.module.code.ts"
+import {
+  Internal,
+  Public,
+} from "akasha/temper/lib-extended-journal/journal-state/journal-state.module.code.ts"
 
 interface LejList extends ZoSortFilterList {
   frame: Control

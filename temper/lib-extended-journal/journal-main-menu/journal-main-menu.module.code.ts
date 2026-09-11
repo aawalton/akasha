@@ -1,4 +1,7 @@
-import { Internal, Public } from "../journal-state/journal-state.module.code.ts"
+import {
+  Internal,
+  Public,
+} from "akasha/temper/lib-extended-journal/journal-state/journal-state.module.code.ts"
 
 const Controls = Internal.controls
 

@@ -1,5 +1,11 @@
-import { asInternalTable, asPublicTable } from "../journal-casts/journal-casts.module.code.ts"
-import type { InternalTable, PublicTable } from "../journal-shape/journal-shape.module.code.ts"
+import {
+  asInternalTable,
+  asPublicTable,
+} from "akasha/temper/lib-extended-journal/journal-casts/journal-casts.module.code.ts"
+import type {
+  InternalTable,
+  PublicTable,
+} from "akasha/temper/lib-extended-journal/journal-shape/journal-shape.module.code.ts"
 
 const Public: PublicTable = asPublicTable({
   Used: false,

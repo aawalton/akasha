@@ -6,9 +6,12 @@ import {
   asTabData,
   asZoComboBox,
   parseHookArgs,
-} from "../journal-casts/journal-casts.module.code.ts"
-import type { MenuBarButton, TabData } from "../journal-shape/journal-shape.module.code.ts"
-import { Internal } from "../journal-state/journal-state.module.code.ts"
+} from "akasha/temper/lib-extended-journal/journal-casts/journal-casts.module.code.ts"
+import type {
+  MenuBarButton,
+  TabData,
+} from "akasha/temper/lib-extended-journal/journal-shape/journal-shape.module.code.ts"
+import { Internal } from "akasha/temper/lib-extended-journal/journal-state/journal-state.module.code.ts"
 
 const Controls = Internal.controls
 
