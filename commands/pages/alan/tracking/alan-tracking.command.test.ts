@@ -20,6 +20,7 @@ import {
 import {
   BESIDE_FOOD_ENTRIES,
   OUTSIDE_AKASHA,
+  STRAY_PAGE,
 } from "akasha/commands/pages/alan/tracking/alan-tracking.command.test-fixtures.ts"
 
 const ROOT = "/nowhere"
@@ -87,8 +88,8 @@ test("the glass is no flag this takes", async () => {
 })
 
 test("a stray path is refused before anything is composed", async () => {
-  const said = await alanTracking(["--file-path", "akasha/alan/alan.person.ts"], givenIn())
-  expect(said.refusals).toEqual([outsideTracked("akasha/alan/alan.person.ts")])
+  const said = await alanTracking(["--file-path", STRAY_PAGE], givenIn())
+  expect(said.refusals).toEqual([outsideTracked(STRAY_PAGE)])
 })
 
 test("a day and the rows beside it are named as the change adding a file, with the message said", () => {
