@@ -4,11 +4,12 @@ import { join } from "node:path"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { holding, LOCK_AT } from "akasha/commands/modules/holding/holding.module.code.ts"
-import { baseOf, landing } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import {
   CARRIED,
   CARRIED_IN,
 } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
+import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { said as git } from "akasha/git/running/git-running.module.code.ts"
 import {

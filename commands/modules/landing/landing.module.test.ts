@@ -11,7 +11,11 @@ import {
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
-import { baseOf, changeOf, landing } from "./landing.module.code.ts"
+import {
+  baseOf,
+  changeOf,
+} from "../landing-change-composing/landing-change-composing.module.code.ts"
+import { landing } from "./landing.module.code.ts"
 import {
   A,
   ADMITS,

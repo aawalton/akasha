@@ -11,7 +11,7 @@ import { mappedFor } from "akasha/commands/modules/address-mapping/address-mappi
 import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
 import { unexportableIn } from "akasha/commands/modules/export-naming/export-naming.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { changeOf } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { changeOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { lockingFor } from "akasha/commands/modules/manifest-locking/manifest-locking.module.code.ts"
 import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import { recipesFor } from "akasha/commands/modules/recipe-composing/recipe-composing.module.code.ts"

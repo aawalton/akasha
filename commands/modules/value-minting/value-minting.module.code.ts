@@ -4,7 +4,10 @@ import type {
   Replacing,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { insertedInto } from "akasha/code-system/value-inserting/value-inserting.module.code.ts"
-import { baseOf, changeOf } from "akasha/commands/modules/landing/landing.module.code.ts"
+import {
+  baseOf,
+  changeOf,
+} from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { heldIn, pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { uuidVersion7 } from "akasha/pages/ids/uuid-version-7/uuid-version-7.module.code.ts"

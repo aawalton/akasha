@@ -13,7 +13,7 @@ import {
 } from "akasha/commands/modules/change-preparing/change-preparing.module.test-fixtures.ts"
 import type { Running } from "akasha/commands/modules/drafting/drafting.module.code.ts"
 import { NO_GATE } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
-import { baseOf } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import {
   AGENT,
   checking,

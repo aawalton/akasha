@@ -21,7 +21,7 @@ import {
   REMOVE,
   unknownIn,
 } from "akasha/commands/modules/flags/command-flags.module.code.ts"
-import { baseOf } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { defaultMessage } from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { markingIn, pipedIn, RUNS_SAID } from "akasha/commands/modules/piping/piping.module.code.ts"

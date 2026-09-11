@@ -3,8 +3,8 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { MECHANICAL } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
-import { baseOf } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { scratch } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
+import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import {
   DAY,
   dayRepo,

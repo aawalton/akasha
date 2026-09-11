@@ -17,7 +17,8 @@ import { type Applied, applied } from "akasha/commands/modules/applying/applying
 import type { Running } from "akasha/commands/modules/drafting/drafting.module.code.ts"
 import { landingFrom } from "akasha/commands/modules/edits-landing/edits-landing.module.code.ts"
 import { NO_GATE } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
-import { baseOf, type Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
+import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 
 const NOTHING_ASKED = "no change was named, so nothing is run and nothing lands"
 

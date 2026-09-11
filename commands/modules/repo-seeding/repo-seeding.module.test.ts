@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { baseOf as headOf } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { baseOf as headOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import {
   applied,
   checking,

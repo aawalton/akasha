@@ -7,7 +7,7 @@ import type {
   Removing,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { bodyIn as bodyOf } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
-import { baseOf } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import {
   carriesLock,
   installedIn,

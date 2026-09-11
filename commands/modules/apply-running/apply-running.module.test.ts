@@ -15,7 +15,7 @@ import {
   type Landing,
   landingFrom,
 } from "akasha/commands/modules/edits-landing/edits-landing.module.code.ts"
-import { baseOf } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing as putting } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitSaid } from "akasha/git/running/git-running.module.code.ts"

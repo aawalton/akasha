@@ -4,18 +4,21 @@ import {
   bodyAt,
   readingEnded,
 } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
-import { baseOf } from "akasha/commands/modules/landing/landing.module.code.ts"
 import {
   git,
   gitOver,
   repoWith,
 } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
+import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const MODULE_AT = new URL("./commit-reading.module.code.ts", import.meta.url).pathname
 
-const LANDING_AT = new URL("../landing/landing.module.code.ts", import.meta.url).pathname
+const BASE_AT = new URL(
+  "../landing-change-composing/landing-change-composing.module.code.ts",
+  import.meta.url
+).pathname
 
 const NUL = new Uint8Array([104, 0, 101, 108, 100, 0, 0, 10])
 
@@ -76,7 +79,7 @@ test("reading a body the commit does not carry says nothing on stderr", () => {
     "bun",
     "-e",
     `import { bodyAt, readingEnded } from ${JSON.stringify(MODULE_AT)}
-import { baseOf } from ${JSON.stringify(LANDING_AT)}
+import { baseOf } from ${JSON.stringify(BASE_AT)}
 const root = ${JSON.stringify(root)}
 const base = baseOf(root)
 for (const one of ["a.txt", "b.txt", "c.txt"]) bodyAt(root, base, one)
@@ -93,7 +96,7 @@ test("a parent killed outright leaves no git behind it", async () => {
     [
       "-e",
       `import { bodyAt } from ${JSON.stringify(MODULE_AT)}
-import { baseOf } from ${JSON.stringify(LANDING_AT)}
+import { baseOf } from ${JSON.stringify(BASE_AT)}
 const root = ${JSON.stringify(root)}
 bodyAt(root, baseOf(root), "one.txt")
 setInterval(() => {}, 1000)`,

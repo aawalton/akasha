@@ -91,6 +91,7 @@ export const command = {
     "module/repo-seeding",
     "module/applying",
     "module/landing",
+    "module/landing-change-composing",
     "module/during-call",
     "module/reading",
     "module/command-declaring",
