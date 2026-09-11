@@ -44,10 +44,10 @@ podman run -d \
   --name "$CONTAINER" \
   --device nvidia.com/gpu=all \
   -p "127.0.0.1:$PORT:8676" \
-  -v "$DATA/cache:/root/.cache:Z" \
-  -v "$DATA/models:/app/ComfyUI/models:Z" \
-  -v "$DATA/inputs:/app/ComfyUI/input:Z" \
-  -v "$DATA/outputs:/app/ComfyUI/output:Z" \
+  -v "$DATA/cache:/root/.cache:z" \
+  -v "$DATA/models:/app/ComfyUI/models:z" \
+  -v "$DATA/inputs:/app/ComfyUI/input:z" \
+  -v "$DATA/outputs:/app/ComfyUI/output:z" \
   "$IMAGE" >/dev/null
 
 echo "==> Started. ComfyUI: http://localhost:$PORT"

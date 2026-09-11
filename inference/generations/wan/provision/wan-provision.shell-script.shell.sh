@@ -16,8 +16,8 @@ fi
 mkdir -p "$DATA/models" "$DATA/cache"
 
 podman run --rm -i \
-  -v "$DATA/models:/models:Z" \
-  -v "$DATA/cache:/root/.cache:Z" \
+  -v "$DATA/models:/models:z" \
+  -v "$DATA/cache:/root/.cache:z" \
   "$IMAGE" python - <<'PY'
 import os
 import shutil
