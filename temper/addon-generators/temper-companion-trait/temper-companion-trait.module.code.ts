@@ -1,9 +1,9 @@
+import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { ranksOf } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
+import { renderConstOrNull } from "akasha/temper/addon-generators/render-const-or-null/render-const-or-null.module.code.ts"
+import { renderQualityValues } from "akasha/temper/addon-generators/render-quality-values/render-quality-values.module.code.ts"
 import { companionTraits } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
 import { z } from "zod"
-import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
-import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
-import { renderConstOrNull } from "../render-const-or-null/render-const-or-null.module.code.ts"
-import { renderQualityValues } from "../render-quality-values/render-quality-values.module.code.ts"
 
 const FLAT_QUALITY_VALUES_SCHEMA = z
   .object({

@@ -1,7 +1,7 @@
+import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { ranksOf } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
 import { rotationBreakdownRows } from "akasha/temper/companions-core/rotation-breakdown-rows/rotation-breakdown-rows.module.code.ts"
 import { z } from "zod"
-import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
-import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const ROTATION_BREAKDOWN_ROW_EAV_SCHEMA = z
   .object({

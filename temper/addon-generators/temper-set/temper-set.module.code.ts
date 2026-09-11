@@ -1,5 +1,8 @@
+import type {
+  Json,
+  Page,
+} from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
 import { z } from "zod"
-import type { Json, Page } from "../addon-data-page/addon-data-page.module.code.ts"
 
 const BONUS_EFFECT_SCHEMA = z.looseObject({})
 

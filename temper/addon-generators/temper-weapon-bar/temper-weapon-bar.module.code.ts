@@ -1,7 +1,7 @@
+import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { ranksOf } from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
+import { weaponBars } from "akasha/temper/equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
 import { z } from "zod"
-import { weaponBars } from "../../equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
-import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
-import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const WEAPON_BAR_EAV_SCHEMA = z
   .object({

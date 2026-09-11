@@ -1,7 +1,10 @@
+import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import {
+  rankOf,
+  ranksOf,
+} from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
 import { companionActivationBuffs } from "akasha/temper/companions-core/companion-activation-buffs/companion-activation-buffs.module.code.ts"
 import { z } from "zod"
-import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
-import { rankOf, ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const COMPANION_ACTIVATION_BUFF_EAV_SCHEMA = z
   .object({

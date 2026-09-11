@@ -1,7 +1,10 @@
+import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import {
+  rankOf,
+  ranksOf,
+} from "akasha/temper/addon-generators/rank-by-key/rank-by-key.module.code.ts"
+import { skillLineCategoriesSorted } from "akasha/temper/skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
 import { z } from "zod"
-import { skillLineCategoriesSorted } from "../../skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
-import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
-import { rankOf, ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const SKILL_LINE_CATEGORY_EAV_SCHEMA = z
   .object({

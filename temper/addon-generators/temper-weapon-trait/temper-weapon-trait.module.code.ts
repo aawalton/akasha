@@ -1,10 +1,10 @@
-import { z } from "zod"
-import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
 import {
   renderEffects,
   renderPlainEffect,
-} from "../render-metric-effect/render-metric-effect.module.code.ts"
-import { renderQualityValues } from "../render-quality-values/render-quality-values.module.code.ts"
+} from "akasha/temper/addon-generators/render-metric-effect/render-metric-effect.module.code.ts"
+import { renderQualityValues } from "akasha/temper/addon-generators/render-quality-values/render-quality-values.module.code.ts"
+import { z } from "zod"
 
 const METRIC_EFFECT_SCHEMA = z
   .object({

@@ -1,5 +1,5 @@
+import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
 import { z } from "zod"
-import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
 
 const NUMBER_PER_SECONDS_VALUE = z.object({ value: z.number(), seconds: z.number() }).strict()
 

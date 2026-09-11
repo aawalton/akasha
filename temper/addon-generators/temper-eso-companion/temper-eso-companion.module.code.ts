@@ -1,6 +1,6 @@
+import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { renderConstOrNull } from "akasha/temper/addon-generators/render-const-or-null/render-const-or-null.module.code.ts"
 import { z } from "zod"
-import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
-import { renderConstOrNull } from "../render-const-or-null/render-const-or-null.module.code.ts"
 
 const PASSIVE_EFFECT_SCHEMA = z
   .object({

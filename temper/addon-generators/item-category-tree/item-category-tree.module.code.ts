@@ -1,7 +1,10 @@
+import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { identityOf } from "akasha/temper/addon-generators/identity-of-key/identity-of-key.module.code.ts"
+import {
+  nodeUnder,
+  type TreeNode,
+} from "akasha/temper/addon-generators/tree-node-under/tree-node-under.module.code.ts"
 import { z } from "zod"
-import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
-import { identityOf } from "../identity-of-key/identity-of-key.module.code.ts"
-import { nodeUnder, type TreeNode } from "../tree-node-under/tree-node-under.module.code.ts"
 
 const ITEM_CATEGORY_TREE_EAV_SCHEMA = z
   .object({
