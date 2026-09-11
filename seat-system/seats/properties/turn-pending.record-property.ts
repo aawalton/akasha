@@ -1,15 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { Compacting } from "./compacting.boolean-property.types.ts"
-import type { LiveShell } from "./live-shell.boolean-property.types.ts"
-import type { LiveSubagent } from "./live-subagent.boolean-property.types.ts"
-import type { SendInFlight } from "./send-in-flight.boolean-property.types.ts"
-
-export type TurnPending = {
-  compacting: Compacting
-  liveShell: LiveShell
-  liveSubagent: LiveSubagent
-  sendInFlight: SendInFlight
-}
 
 export const turnPending = {
   id: "01a0541c-db5f-70d8-a32a-c321eef90312",
@@ -30,4 +19,5 @@ export const turnPending = {
       statement: "A reminder a seat set for itself is no pending turn start.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

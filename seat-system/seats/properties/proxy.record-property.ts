@@ -1,9 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { ProxyPort } from "./proxy-port.number-property.types.ts"
-import type { ProxyProcess } from "./proxy-process.process-property.types.ts"
-import type { ProxyVersion } from "./proxy-version.text-property.types.ts"
-
-export type Proxy = { process: ProxyProcess; port: ProxyPort; version: ProxyVersion }
 
 export const proxy = {
   id: "01a0540c-dbbf-7215-9747-624c4ef37e06",
@@ -27,4 +22,5 @@ export const proxy = {
       statement: "A proxy short of a single field is no proxy at all.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

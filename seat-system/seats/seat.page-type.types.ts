@@ -5,10 +5,10 @@ import type { Mode } from "akasha/seat-system/seats/properties/mode.text-propert
 import type { Model } from "akasha/seat-system/seats/properties/model.text-property.types.ts"
 import type { OnCall } from "akasha/seat-system/seats/properties/on-call.boolean-property.types.ts"
 import type { Person } from "akasha/seat-system/seats/properties/person.relation-property.types.ts"
-import type { Proxy as SeatProxy } from "akasha/seat-system/seats/properties/proxy.record-property.ts"
+import type { Proxy as SeatProxy } from "akasha/seat-system/seats/properties/proxy.record-property.types.ts"
 import type { ReExecAsk } from "akasha/seat-system/seats/properties/re-exec-ask.text-property.types.ts"
 import type { RegistrationAccount } from "akasha/seat-system/seats/properties/registration-account.text-property.types.ts"
-import type { Request } from "akasha/seat-system/seats/properties/request.record-property.ts"
+import type { Request } from "akasha/seat-system/seats/properties/request.record-property.types.ts"
 import type { Role } from "akasha/seat-system/seats/properties/role.relation-property.types.ts"
 import type { RotatedSessionUuid } from "akasha/seat-system/seats/properties/rotated-session-uuid.text-property.types.ts"
 import type { SeatPersona } from "akasha/seat-system/seats/properties/seat-persona.relation-property.types.ts"
@@ -17,8 +17,8 @@ import type { SubagentEdits } from "akasha/seat-system/seats/properties/subagent
 import type { SubagentRefusals } from "akasha/seat-system/seats/properties/subagent-refusals.file-property.ts"
 import type { SupervisorProcess } from "akasha/seat-system/seats/properties/supervisor-process.process-property.types.ts"
 import type { TranscriptPath } from "akasha/seat-system/seats/properties/transcript-path.text-property.types.ts"
-import type { TurnPending } from "akasha/seat-system/seats/properties/turn-pending.record-property.ts"
-import type { TurnWorking } from "akasha/seat-system/seats/properties/turn-working.record-property.ts"
+import type { TurnPending } from "akasha/seat-system/seats/properties/turn-pending.record-property.types.ts"
+import type { TurnWorking } from "akasha/seat-system/seats/properties/turn-working.record-property.types.ts"
 
 export type Seat = Agent & {
   persona: SeatPersona

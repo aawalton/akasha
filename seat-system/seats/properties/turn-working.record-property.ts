@@ -1,15 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { ActiveTurn } from "./active-turn.boolean-property.types.ts"
-import type { OpenAgents } from "./open-agents.text-property.types.ts"
-import type { OpenShells } from "./open-shells.text-property.types.ts"
-import type { ScannedTo } from "./scanned-to.number-property.types.ts"
-
-export type TurnWorking = {
-  activeTurn: ActiveTurn
-  scannedTo: ScannedTo
-  openShells: OpenShells
-  openAgents: OpenAgents
-}
 
 export const turnWorking = {
   id: "01a06c75-5eab-7ec2-b8c4-b25cdb0803ce",
@@ -46,4 +35,5 @@ export const turnWorking = {
       statement: "New bytes naming no turn of the agent are no answer that the seat is idle.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

@@ -1,13 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { InterruptMessage } from "./interrupt-message.text-property.types.ts"
-import type { RequestedAction } from "./requested-action.relation-property.types.ts"
-import type { RestartArmedAt } from "./restart-armed-at.instant-property.types.ts"
-
-export type Request = {
-  action: RequestedAction
-  message?: InterruptMessage
-  armedAt?: RestartArmedAt
-}
 
 export const request = {
   id: "01a0542c-d18b-71bb-99a6-64c5edfe6321",
@@ -31,4 +22,5 @@ export const request = {
       statement: "A new request takes the place of any request already there.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty
