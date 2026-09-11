@@ -11,6 +11,7 @@ export const routerApp = {
     "code-file-property/addon-bundle-image",
     "file-property/compile-config",
     "file-property/placeholder-image",
+    "module/router-app-rendering",
     "code-file-property/root-route",
     "code-file-property/route-table",
     "file-property/router-app-git-ignore",
