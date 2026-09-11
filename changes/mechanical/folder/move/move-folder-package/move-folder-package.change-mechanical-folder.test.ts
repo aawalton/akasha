@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
 import { runChange as moveFileCode } from "akasha/changes/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
+import { runChange as moveFiles } from "akasha/changes/mechanical/file/move/move-files/move-files.change-mechanical.code.ts"
 import { runChange as renameFilePage } from "akasha/changes/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
 import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as renameExport } from "akasha/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
@@ -90,6 +91,7 @@ const REACHED = {
   "change-mechanical-file-content/rename-page-slug": renamePageSlug,
   "change-mechanical-file/move-file": moveFile,
   "change-mechanical/move-file-code": moveFileCode,
+  "change-mechanical/move-files": moveFiles,
 } as const
 
 const RUNS: Reaching = async (world, at, given) => {
@@ -113,7 +115,7 @@ const TYPED: Readonly<Record<string, string>> = {
     slug: "carried",
     definition: "a type the folder is named for",
     pluralSlug: "carriers",
-    extendsSlug: ["page-type/page"],
+    extends: ["page-type/page"],
   }),
   [`${FROM}/modules/holder/deep.page-type.ts`]: pageOf({
     id: "01a07c60-0003-7000-8000-000000000005",
@@ -121,7 +123,7 @@ const TYPED: Readonly<Record<string, string>> = {
     slug: "deep",
     definition: "a type sitting beneath the folder rather than in it",
     pluralSlug: "deeps",
-    extendsSlug: ["page-type/page"],
+    extends: ["page-type/page"],
   }),
 }
 

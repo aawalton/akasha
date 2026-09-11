@@ -119,7 +119,7 @@ const SPEAKING: Readonly<Record<string, string>> = {
     id: idAt("0"),
     pageTypeSlug: "page-type",
     slug: "text-property",
-    extendsSlug: ["page-type/page-property"],
+    extends: ["page-type/page-property"],
   }),
   "akasha/file-name.text-property.ts": bodyOf({
     id: idAt("1"),
@@ -131,7 +131,7 @@ const SPEAKING: Readonly<Record<string, string>> = {
     id: idAt("2"),
     pageTypeSlug: "page-type",
     slug: "file-property",
-    extendsSlug: ["page-type/page-property"],
+    extends: ["page-type/page-property"],
     properties: [{ pagePropertySlug: "text-property/file-name", required: false, many: false }],
   }),
   "akasha/manifest.file-property.ts": bodyOf({
@@ -145,7 +145,7 @@ const SPEAKING: Readonly<Record<string, string>> = {
     id: idAt("4"),
     pageTypeSlug: "page-type",
     slug: "workspace-package",
-    extendsSlug: ["page-type/domain"],
+    extends: ["page-type/domain"],
     properties: [{ pagePropertySlug: "file-property/manifest", required: true, many: false }],
   }),
 }

@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
 import { runChange as moveFileCode } from "akasha/changes/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
+import { runChange as moveFiles } from "akasha/changes/mechanical/file/move/move-files/move-files.change-mechanical.code.ts"
 import { runChange as renameFilePage } from "akasha/changes/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
 import { runChange } from "akasha/changes/mechanical/file/rename/rename-file-page-type/rename-file-page-type.change-mechanical.code.ts"
 import { OWNED_LANDS_AT } from "akasha/changes/mechanical/file/rename/rename-file-page-type/rename-file-page-type.change-mechanical.test-fixtures.ts"
@@ -56,7 +57,7 @@ ${pageOf({
   pageTypeSlug: "page-type",
   slug: "kept",
   pluralSlug: "kepts",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   properties: [{ pagePropertySlug: "file-property/code", required: false, many: false }],
 })}`
 
@@ -86,6 +87,9 @@ const RUNS: Reaching = async (world, at, given) => {
   }
   if (at === "change-mechanical-file/move-file") {
     return moveFile(world, given as Parameters<typeof moveFile>[1])
+  }
+  if (at === "change-mechanical/move-files") {
+    return moveFiles(world, given as Parameters<typeof moveFiles>[1])
   }
   if (at === "change-mechanical-file-content/rename-page-address") {
     return await renamePageAddress(world, given as Parameters<typeof renamePageAddress>[1])
@@ -210,7 +214,7 @@ ${pageOf({
   pageTypeSlug: "page-type",
   slug: "long-day",
   pluralSlug: "long-days",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   worked: "ts",
 })}`
 
@@ -259,7 +263,7 @@ ${pageOf({
   pageTypeSlug: "page-type",
   slug: "held",
   pluralSlug: "helds",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   worked: "ts",
 })}`
 
@@ -314,7 +318,7 @@ ${pageOf({
   pageTypeSlug: "page-type",
   slug: "bare",
   pluralSlug: "bares",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
 })}`
 
 const BARE_ASKED = { at: BARE_TYPE, to: CARRIED, plural: "carrieds" }
