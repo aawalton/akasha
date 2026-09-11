@@ -104,13 +104,15 @@ export async function startSeat(
   }
 }
 
-export type Woke = { readonly kind: "woke" } | { readonly kind: "refuse"; readonly reason: string }
+export type Resumed =
+  | { readonly kind: "resumed" }
+  | { readonly kind: "refuse"; readonly reason: string }
 
-export async function resumeSeat(agentId: string): Promise<Woke> {
+export async function resumeSeat(agentId: string): Promise<Resumed> {
   const ended = await inTime(() => putTheSeatBack({ agentId, verify: true }))
   if (ended.kind === "done") {
     const back = ended.value
-    if (back.kind !== "wedged") return { kind: "woke" }
+    if (back.kind !== "wedged") return { kind: "resumed" }
     return {
       kind: "refuse",
       reason:
