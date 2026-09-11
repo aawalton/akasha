@@ -169,12 +169,12 @@ declare function unpack<T>(this: void, list: T[], i: number, j?: number): LuaMul
 
 declare function xpcall<R, E>(
   this: void,
-  f: () => R,
-  err: (thrown: unknown) => E
+  f: (this: void) => R,
+  err: (this: void, thrown: unknown) => E
 ): LuaMultiReturn<[true, R] | [false, E]>
 
 declare const coroutine: {
-  create: (this: void, f: (...args: unknown[]) => unknown) => LuaThread
+  create: (this: void, f: (this: void, ...args: unknown[]) => unknown) => LuaThread
   getname: (this: void, co: LuaThread) => string
   resume: (
     this: void,
@@ -186,7 +186,7 @@ declare const coroutine: {
   status: (this: void, co: LuaThread) => "running" | "suspended" | "normal" | "dead"
   wrap: (
     this: void,
-    f: (...args: unknown[]) => unknown
+    f: (this: void, ...args: unknown[]) => unknown
   ) => (...args: unknown[]) => LuaMultiReturn<unknown[]>
   yield: (this: void, ...args: unknown[]) => LuaMultiReturn<unknown[]>
 }
@@ -260,7 +260,7 @@ declare const string: {
     this: void,
     s: string,
     pattern: string,
-    repl: string | Record<string, string> | ((...matches: string[]) => string),
+    repl: string | Record<string, string> | ((this: void, ...matches: string[]) => string),
     n?: number
   ) => LuaMultiReturn<[string, number]>
   len: (this: void, s: string) => number
