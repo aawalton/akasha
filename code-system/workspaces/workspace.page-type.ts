@@ -15,7 +15,6 @@ export const workspace = {
     "file-property/secrets-config",
     "file-property/typescript-base-config",
     "file-property/typescript-build-info",
-    "file-property/typescript-config",
     "file-property/workspace-git-ignore",
     "file-property/workspace-manifest",
     "build-folder-property/package-directory",

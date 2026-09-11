@@ -6,10 +6,10 @@ import type { PackageDirectory } from "akasha/code-system/workspaces/properties/
 import type { SecretsConfig } from "akasha/code-system/workspaces/properties/secrets-config.file-property.types.ts"
 import type { TypescriptBaseConfig } from "akasha/code-system/workspaces/properties/typescript-base-config.file-property.types.ts"
 import type { TypescriptBuildInfo } from "akasha/code-system/workspaces/properties/typescript-build-info.file-property.types.ts"
-import type { TypescriptConfig } from "akasha/code-system/workspaces/properties/typescript-config.file-property.types.ts"
 import type { WorkspaceGitIgnore } from "akasha/code-system/workspaces/properties/workspace-git-ignore.file-property.types.ts"
 import type { WorkspaceManifest } from "akasha/code-system/workspaces/properties/workspace-manifest.file-property.types.ts"
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { TypescriptConfig } from "akasha/domains/properties/typescript-config.file-property.types.ts"
 
 export type Workspace = Domain & {
   workspaceManifest: WorkspaceManifest

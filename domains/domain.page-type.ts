@@ -19,6 +19,7 @@ export const domain = {
     "relation-property/parts",
     "code-file-property/tunnel-routes",
     "file-property/typescript-config",
+    "text-property/linked-at",
   ],
   pageTypeSlug: "page-type",
   type: "page-type",
@@ -35,6 +36,7 @@ export const domain = {
     { pageProperty: "relation-property/parts", required: false, many: true, maxCount: null },
     { pageProperty: "code-file-property/tunnel-routes", required: false, many: false },
     { pageProperty: "file-property/typescript-config", required: false, many: false },
+    { pageProperty: "text-property/linked-at", required: false, many: false },
   ],
   invariants: [
     {

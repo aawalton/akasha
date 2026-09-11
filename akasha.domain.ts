@@ -166,4 +166,5 @@ export const akasha = {
       aids: ["Mend the program, never the one landing.", "The audit finds what no check saw."],
     },
   ],
+  linkedAt: "~/.local/share/code-editor/extensions/ops",
 } as const satisfies Domain
