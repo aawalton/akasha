@@ -1,5 +1,5 @@
+import { liveAgentPidsFromProc } from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
 import { inputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { liveAgentPidsFromProc } from "akasha/seat-system/agent-proc-liveness/agent-proc-liveness.module.code.ts"
 import { decideKillTarget } from "akasha/seat-system/kill-target-plan/kill-target-plan.module.code.ts"
 import { killSeatSession } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import { scanProcEntries } from "akasha/seat-system/proc-scan/proc-scan.module.code.ts"

@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { entry } from "akasha/agents/proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   agentSubagentSweep,
@@ -37,7 +38,6 @@ import {
   there,
   UNREADABLE,
 } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"
-import { entry } from "akasha/seat-system/agent-proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
 import { pagesIn } from "akasha/seat-system/subagent-census/subagent-census.module.code.ts"
 import { refusalsSaid } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 

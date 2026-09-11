@@ -1,5 +1,6 @@
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import type { ProcLivenessEntry } from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
@@ -23,7 +24,6 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { refreshedIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import type { ProcLivenessEntry } from "akasha/seat-system/agent-proc-liveness/agent-proc-liveness.module.code.ts"
 import {
   seatEditsAt,
   seatRefusalsAt,

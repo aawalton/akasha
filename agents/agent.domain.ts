@@ -18,5 +18,6 @@ export const agent = {
     "module/launch-flags",
     "module/read-record",
     "module/agent-page-reading",
+    "module/agent-proc-liveness",
   ],
 } as const satisfies Domain

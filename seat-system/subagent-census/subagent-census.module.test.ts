@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
+import { entry } from "akasha/agents/proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { entry } from "akasha/seat-system/agent-proc-liveness/agent-proc-liveness.module.test-fixtures.ts"
 import {
   censusOf,
   judgedOver,

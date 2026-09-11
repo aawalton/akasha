@@ -1,4 +1,4 @@
-import { liveAgentPidsFromProc } from "akasha/seat-system/agent-proc-liveness/agent-proc-liveness.module.code.ts"
+import { liveAgentPidsFromProc } from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
 import { scanProcEntries } from "akasha/seat-system/proc-scan/proc-scan.module.code.ts"
 import { selectSupersededTreePids } from "akasha/seat-system/seat-proc-tree/seat-proc-tree.module.code.ts"
 import { ending } from "akasha/utils/process/process-ending/process-ending.module.code.ts"

@@ -1,4 +1,4 @@
-import type { ProcLivenessEntry } from "akasha/seat-system/agent-proc-liveness/agent-proc-liveness.module.code.ts"
+import type { ProcLivenessEntry } from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
 
 const CLAUDE_CHILD = "claude --dangerously-skip-permissions --model opus"
 

@@ -1,7 +1,7 @@
 import {
   isClaudeChildCmdline,
   type ProcLivenessEntry,
-} from "akasha/seat-system/agent-proc-liveness/agent-proc-liveness.module.code.ts"
+} from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
 import { scanProcEntries } from "akasha/seat-system/proc-scan/proc-scan.module.code.ts"
 import { takeOpenShells } from "akasha/seat-system/seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
 import { sweepSubagentPagesOf } from "akasha/seat-system/subagent-page/subagent-page.module.code.ts"
