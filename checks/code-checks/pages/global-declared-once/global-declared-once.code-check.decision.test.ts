@@ -7,6 +7,11 @@ import {
   mergedBy,
   statedIn,
 } from "./global-declared-once.code-check.decision.code.ts"
+import {
+  globally,
+  indented,
+  reasoned,
+} from "./global-declared-once.code-check.decision.test-fixtures.ts"
 
 const SHARED_AT = "akasha/shared.type-declaration.d.ts"
 
@@ -24,14 +29,6 @@ const HOLDS_ALIAS = "type HELD = string\n"
 
 const APART = "declare const OTHER: string\n"
 
-function globally(body: string): string {
-  return `export const away = 1\n\ndeclare global {\n${body}}\n`
-}
-
-function indented(body: string): string {
-  return body.replace(/^(?=.)/gm, "  ")
-}
-
 function reading(bodies: Readonly<Record<string, string>>): readonly Judged[] {
   const paths = Object.keys(bodies).sort()
   return judgedOf(clashesIn(paths, (path) => bodies[path] ?? null))
@@ -43,10 +40,6 @@ function over(shared: string, inside: string): readonly Judged[] {
 
 function across(first: string, second: string): readonly Judged[] {
   return reading({ [OTHER_AT]: first, [SHARED_AT]: second })
-}
-
-function reasoned(said: readonly Judged[]): string {
-  return said.map((each) => `${each.path} ${each.reason}`).join("\n")
 }
 
 test("a module declaring a global the shared set does not declare is refused nothing", () => {

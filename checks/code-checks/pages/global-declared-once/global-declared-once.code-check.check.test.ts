@@ -16,6 +16,11 @@ import {
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { shadowed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { globalDeclaredOnce, readingIn } from "./global-declared-once.code-check.check.code.ts"
+import {
+  globally,
+  indented,
+  reasoned,
+} from "./global-declared-once.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 
@@ -58,14 +63,6 @@ const DECLARER_ID = "01a06110-0000-7000-8000-00000000e005"
 const SHARED_PAGE_ID = "01a06110-0000-7000-8000-00000000e006"
 
 const APART_ID = "01a06110-0000-7000-8000-00000000e007"
-
-function globally(body: string): string {
-  return `export const away = 1\n\ndeclare global {\n${body}}\n`
-}
-
-function indented(body: string): string {
-  return body.replace(/^(?=.)/gm, "  ")
-}
 
 function staging(shared: string, held: string): string {
   const root = staged({ [SHARED_AT]: shared, [MODULE_AT]: held })
@@ -110,10 +107,6 @@ function reached(given: Change): readonly string[] {
 
 function judged(given: Change): readonly Judged[] {
   return globalDeclaredOnce(given, shadowed(given))
-}
-
-function reasoned(said: readonly Judged[]): string {
-  return said.map((each) => `${each.path} ${each.reason}`).join("\n")
 }
 
 test("a clash the change carries the module of is refused", () => {
