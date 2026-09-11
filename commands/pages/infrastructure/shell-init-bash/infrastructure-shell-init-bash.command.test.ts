@@ -6,6 +6,7 @@ import {
   infrastructureShellInitBash,
   readIn,
 } from "akasha/commands/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.code.ts"
+import { ACCOUNT_TYPE_AT } from "akasha/commands/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.test-fixtures.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
@@ -71,8 +72,6 @@ describe("the set composed", () => {
 })
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
-
-const ACCOUNT_TYPE_AT = "akasha/agents/claude-accounts/claude-account.page-type.ts"
 
 const ACCOUNT_TYPE_BODY =
   `export const claudeAccount = { id: "${ACCOUNT_TYPE}", pageTypeSlug: "page-type", ` +

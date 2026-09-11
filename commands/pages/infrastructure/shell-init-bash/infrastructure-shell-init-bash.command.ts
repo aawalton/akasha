@@ -8,6 +8,7 @@ export const infrastructureShellInitBash = {
   definition: "the command composing the bash a terminal sources",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   changeKind: "change-none",
   taking: [],
   helpNotes: [
