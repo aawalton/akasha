@@ -51,7 +51,8 @@ import {
   sourceAmong,
   sourceIn,
 } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { loadedFrom, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 function keyOf(one: Entry): string {
   return `${one.at} ${one.line}`

@@ -44,7 +44,7 @@ import {
   sourceIn,
 } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const scratch = scratchWorld()
 

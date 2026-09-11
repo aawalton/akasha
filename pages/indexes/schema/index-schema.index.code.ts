@@ -2,7 +2,11 @@ import { join } from "node:path"
 import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import { indexSchema } from "akasha/pages/indexes/schema/index-schema.index.ts"
 import type { Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { slugAt, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import {
+  slugAt,
+  textAt,
+  type Value,
+} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const SCHEMA = indexSchema.name
 

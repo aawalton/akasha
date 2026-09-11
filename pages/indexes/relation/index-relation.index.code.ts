@@ -9,7 +9,11 @@ import {
   type Shaped,
 } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
-import { slugOf, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import {
+  slugOf,
+  textAt,
+  type Value,
+} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const RELATION = indexRelation.name
 

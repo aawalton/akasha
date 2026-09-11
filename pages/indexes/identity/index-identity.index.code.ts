@@ -7,7 +7,7 @@ import type {
 import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.index.ts"
 import { under } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import type { Identifying } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const IDENTITY = indexIdentity.name
 

@@ -1,6 +1,6 @@
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import { slugOf, textAt } from "akasha/pages/value/page-value.module.code.ts"
+import { slugOf, textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const GENERATOR = "generator"
 

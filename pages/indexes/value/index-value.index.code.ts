@@ -2,7 +2,7 @@ import { join } from "node:path"
 import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import { under } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
-import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const VALUE = indexValue.name
 

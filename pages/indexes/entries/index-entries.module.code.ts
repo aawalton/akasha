@@ -9,7 +9,12 @@ import {
   typesAmong,
   typeValuesIn,
 } from "akasha/pages/types/gathering/page-type-gathering.module.code.ts"
-import { slugAt, slugsIn, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import {
+  slugAt,
+  slugsIn,
+  textAt,
+  type Value,
+} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const ENDING = ".jsonl"
 

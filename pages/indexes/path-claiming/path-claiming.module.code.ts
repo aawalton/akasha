@@ -16,7 +16,12 @@ import {
   typeValuesIn,
 } from "akasha/pages/types/gathering/page-type-gathering.module.code.ts"
 import { slugFor } from "akasha/pages/types/page-properties/key/page-property-key.module.code.ts"
-import { slugOf, slugsIn, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import {
+  slugOf,
+  slugsIn,
+  textAt,
+  type Value,
+} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

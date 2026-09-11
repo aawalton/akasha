@@ -7,7 +7,7 @@ import {
   identifyingFrom,
   sourceOver,
 } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 function identifying(held: Record<string, ReadonlyMap<string, Identifier>>): Identifying {
   return (pageTypeSlug) => held[pageTypeSlug] ?? new Map<string, Identifier>()
