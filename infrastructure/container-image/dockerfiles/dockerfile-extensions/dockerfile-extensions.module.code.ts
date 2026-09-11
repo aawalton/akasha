@@ -1,4 +1,5 @@
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
+import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 
 export const SERVICE_TYPES = ["nextjs", "bun-service", "tool-image"] as const
 export type ServiceType = (typeof SERVICE_TYPES)[number]
@@ -62,10 +63,6 @@ function asBooleanOrUndefined(value: unknown): boolean | undefined {
   return typeof value === "boolean" ? value : undefined
 }
 
-function asNumberOrUndefined(value: unknown): number | undefined {
-  return typeof value === "number" ? value : undefined
-}
-
 function asExternalDonorsOrUndefined(
   value: unknown
 ): readonly { readonly name: string; readonly image: string }[] | undefined {
@@ -111,7 +108,7 @@ export function parseDockerfileExtensions(value: unknown): DockerfileExtensions 
     system_packages: asStringArrayOrUndefined(value.system_packages),
     single_stage: asBooleanOrUndefined(value.single_stage),
     extra_run_commands: asStringArrayOrUndefined(value.extra_run_commands),
-    expose_port: asNumberOrUndefined(value.expose_port),
+    expose_port: parseNumber(value.expose_port),
     extra_source_copies: asStringArrayOrUndefined(value.extra_source_copies),
     healthcheck: asStringOrUndefined(value.healthcheck),
     install_flags: asStringOrUndefined(value.install_flags),
