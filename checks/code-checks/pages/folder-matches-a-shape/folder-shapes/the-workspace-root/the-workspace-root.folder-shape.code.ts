@@ -18,6 +18,7 @@ const ALLOWED = new Set<string>([
   "graph",
   "infrastructure",
   "pages",
+  "persons",
   "products",
   "temper",
 ])
