@@ -3,6 +3,7 @@ import {
   bodyOf,
   overEachFile,
   overEachText,
+  textIn,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
@@ -124,9 +125,9 @@ export function manifestsIn(shadow: Shadow): readonly Manifest[] {
 export function packagesIn(change: Change, standing: readonly Manifest[]): readonly Package[] {
   const found: Package[] = []
   for (const one of standing) {
-    const bytes = change.after(one.at)
-    if (bytes === null) continue
-    const held = namingIn(one.folder, bodyOf({ root: change.root, path: one.at, bytes }))
+    const text = textIn(change, one.at)
+    if (text === null) continue
+    const held = namingIn(one.folder, text)
     if (held !== null) found.push(held)
   }
   return found
