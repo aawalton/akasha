@@ -9,6 +9,13 @@ export const royalRoadSync = {
   runs: [
     "flock -n /var/tmp/royal-road-sync.lock bun alan/collections/royal-road/syncing/royal-road-syncing.module.code.ts --commit",
   ],
+  starts: [
+    {
+      before: ["flock", "-n", "/var/tmp/royal-road-sync.lock"],
+      code: "module/royal-road-syncing",
+      arguments: ["--commit"],
+    },
+  ],
   enabled: true,
   needsSecrets: false,
   systemd: {

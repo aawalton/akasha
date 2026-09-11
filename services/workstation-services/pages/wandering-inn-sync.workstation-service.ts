@@ -9,6 +9,7 @@ export const wanderingInnSync = {
   runs: [
     "flock -n /var/tmp/wandering-inn-sync.lock bun story/wandering-inn/syncing/syncing.module.code.ts",
   ],
+  starts: [{ before: ["flock", "-n", "/var/tmp/wandering-inn-sync.lock"], code: "module/syncing" }],
   enabled: true,
   needsSecrets: false,
   systemd: {
