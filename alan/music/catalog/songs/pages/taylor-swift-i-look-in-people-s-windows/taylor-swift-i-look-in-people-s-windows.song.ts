@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftILookInPeopleSWindows = {
   id: "019ea416-22a8-7e2d-b5ec-4439c5b14303",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-i-look-in-people-s-windows",
   title: "I Look in People’s Windows",

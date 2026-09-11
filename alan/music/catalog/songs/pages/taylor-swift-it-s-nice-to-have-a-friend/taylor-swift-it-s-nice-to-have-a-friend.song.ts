@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftItSNiceToHaveAFriend = {
   id: "019ea416-1c7b-72b5-9739-8be285be8385",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-it-s-nice-to-have-a-friend",
   title: "It’s Nice to Have a Friend",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftWeAreNeverEverGettingBackTogether = {
   id: "019ea416-4940-7192-ba2a-2098c1c35a48",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-we-are-never-ever-getting-back-together",
   title: "We Are Never Ever Getting Back Together",

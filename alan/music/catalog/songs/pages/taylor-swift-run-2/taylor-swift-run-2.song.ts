@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftRun2 = {
   id: "019ea416-3a44-73a2-b378-2d5ae86db22e",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-run-2",
   title: "Run",

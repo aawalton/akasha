@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftUntouchable = {
   id: "019ea416-4539-7453-aa28-8262598be289",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-untouchable",
   title: "Untouchable",

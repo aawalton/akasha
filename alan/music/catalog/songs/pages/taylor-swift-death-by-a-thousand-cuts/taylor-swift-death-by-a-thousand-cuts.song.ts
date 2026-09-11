@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftDeathByAThousandCuts = {
   id: "019ea416-064f-75c7-ae8b-158630223074",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-death-by-a-thousand-cuts",
   title: "Death by a Thousand Cuts",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftTmz = {
   id: "019ea416-46f5-7364-8a0a-779efe80a784",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-tmz",
   title: "TMZ",

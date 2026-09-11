@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftDaylight = {
   id: "019ea416-174a-7404-92db-7373e1a9e82d",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-daylight",
   title: "Daylight",

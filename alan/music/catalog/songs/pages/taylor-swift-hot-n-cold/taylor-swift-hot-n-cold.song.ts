@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftHotNCold = {
   id: "019ea416-1d13-7505-953f-9cd0ae85aaa4",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-hot-n-cold",
   title: "Hot n Cold",

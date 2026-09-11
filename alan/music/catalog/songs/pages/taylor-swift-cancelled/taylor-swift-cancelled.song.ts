@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftCancelled = {
   id: "019ea416-11ce-70e9-a6cb-882b64621948",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-cancelled",
   title: "CANCELLED!",

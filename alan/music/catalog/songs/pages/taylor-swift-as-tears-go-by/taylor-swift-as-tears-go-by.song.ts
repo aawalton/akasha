@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftAsTearsGoBy = {
   id: "019ea416-1713-796c-8812-9fc30bd876b3",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-as-tears-go-by",
   title: "As Tears Go By",

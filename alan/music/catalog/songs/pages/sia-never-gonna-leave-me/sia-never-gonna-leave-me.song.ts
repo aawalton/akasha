@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaNeverGonnaLeaveMe = {
   id: "019ea4c7-3f59-7224-ba56-668248f911be",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-never-gonna-leave-me",
   title: "Never Gonna Leave Me",

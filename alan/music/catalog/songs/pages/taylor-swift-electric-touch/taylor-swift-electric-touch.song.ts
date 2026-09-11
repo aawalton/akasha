@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftElectricTouch = {
   id: "019ea416-068b-7e98-9da3-d749fb6639bb",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-electric-touch",
   title: "Electric Touch",

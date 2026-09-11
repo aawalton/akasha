@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftChristmasMustBeSomethingMore = {
   id: "019ea416-02d2-7acf-ba83-caf600b76856",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-christmas-must-be-something-more",
   title: "Christmas Must Be Something More",

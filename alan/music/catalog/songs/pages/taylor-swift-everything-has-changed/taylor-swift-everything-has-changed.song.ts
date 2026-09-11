@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftEverythingHasChanged = {
   id: "019ea416-0dc5-7e34-9ff8-607b5b2d9a23",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-everything-has-changed",
   title: "Everything Has Changed",

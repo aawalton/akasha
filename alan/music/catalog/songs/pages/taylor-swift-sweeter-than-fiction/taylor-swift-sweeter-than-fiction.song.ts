@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftSweeterThanFiction = {
   id: "019ea416-397c-74ca-b4bb-3ccfc15b94bd",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-sweeter-than-fiction",
   title: "Sweeter Than Fiction",

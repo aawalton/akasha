@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftWildestDreams = {
   id: "019ea416-4352-7c35-9511-fa84cfde4400",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-wildest-dreams",
   title: "Wildest Dreams",

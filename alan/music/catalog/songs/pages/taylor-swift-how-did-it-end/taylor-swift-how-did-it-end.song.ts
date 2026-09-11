@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftHowDidItEnd = {
   id: "019ea416-1eae-7625-b338-8229760b14f0",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-how-did-it-end",
   title: "How Did It End?",

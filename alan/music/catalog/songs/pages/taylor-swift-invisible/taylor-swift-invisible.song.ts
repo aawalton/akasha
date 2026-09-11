@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftInvisible = {
   id: "019ea416-2cfc-7553-805f-ee247a9847f5",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-invisible",
   title: "Invisible",

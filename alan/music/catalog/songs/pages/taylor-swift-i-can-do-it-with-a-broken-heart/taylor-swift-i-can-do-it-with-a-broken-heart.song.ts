@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftICanDoItWithABrokenHeart = {
   id: "019ea416-25bf-765a-a2bf-ae5aa548e964",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-i-can-do-it-with-a-broken-heart",
   title: "I Can Do It With a Broken Heart",

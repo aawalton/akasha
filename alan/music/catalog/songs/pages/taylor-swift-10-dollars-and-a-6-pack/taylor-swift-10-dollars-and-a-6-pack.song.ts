@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwift10DollarsAndA6Pack = {
   id: "019ea416-0bdb-729e-8570-753ac2d9356e",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-10-dollars-and-a-6-pack",
   title: "10 Dollars and a 6 Pack",

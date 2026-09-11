@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftBeautifulGhosts = {
   id: "019ea416-0afc-7e6f-8822-0f873c473629",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-beautiful-ghosts",
   title: "Beautiful Ghosts",

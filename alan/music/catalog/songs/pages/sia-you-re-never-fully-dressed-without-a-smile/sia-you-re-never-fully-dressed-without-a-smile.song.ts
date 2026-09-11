@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaYouReNeverFullyDressedWithoutASmile = {
   id: "019ea4ce-618f-7568-a307-a73537a3735b",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-you-re-never-fully-dressed-without-a-smile",
   title: "You’re Never Fully Dressed Without a Smile",

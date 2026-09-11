@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftDelicate = {
   id: "019ea416-0777-7289-a1ef-136aa486efd0",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-delicate",
   title: "Delicate",

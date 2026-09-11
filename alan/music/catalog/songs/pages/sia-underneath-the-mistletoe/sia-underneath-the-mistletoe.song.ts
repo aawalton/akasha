@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaUnderneathTheMistletoe = {
   id: "019ea4ca-b001-74de-ab8b-ec1553d21833",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-underneath-the-mistletoe",
   title: "Underneath the Mistletoe",

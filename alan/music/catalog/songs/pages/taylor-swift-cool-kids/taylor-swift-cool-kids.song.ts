@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftCoolKids = {
   id: "019ea416-0612-77a0-848a-47fb289b5444",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-cool-kids",
   title: "Cool Kids",

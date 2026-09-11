@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftDancingWithOurHandsTied = {
   id: "019ea416-1236-71bf-ba84-ceed2bcd94d0",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-dancing-with-our-hands-tied",
   title: "Dancing With Our Hands Tied",

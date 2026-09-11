@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftIMOnlyMeWhenIMWithYou = {
   id: "019ea416-2626-7fd4-b4df-88ac63226b95",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-i-m-only-me-when-i-m-with-you",
   title: "I’m Only Me When I’m With You",

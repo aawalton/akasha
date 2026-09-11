@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaUntitled = {
   id: "019ea4cc-3952-7fff-bf2e-b475371b24d1",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-untitled",
   title: "不要不要的",

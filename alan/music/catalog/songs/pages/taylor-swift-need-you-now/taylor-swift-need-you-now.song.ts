@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftNeedYouNow = {
   id: "019ea416-31bd-736a-823d-44f92454785c",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-need-you-now",
   title: "Need You Now",

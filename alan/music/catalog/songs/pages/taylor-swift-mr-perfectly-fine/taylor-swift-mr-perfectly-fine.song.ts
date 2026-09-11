@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftMrPerfectlyFine = {
   id: "019ea416-4184-7a27-9340-97ba2e27ff04",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-mr-perfectly-fine",
   title: "Mr. Perfectly Fine",

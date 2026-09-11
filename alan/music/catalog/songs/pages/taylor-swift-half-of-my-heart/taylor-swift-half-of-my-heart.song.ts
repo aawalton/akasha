@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftHalfOfMyHeart = {
   id: "019ea416-2857-7ccc-8fd6-296e9e7307f1",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-half-of-my-heart",
   title: "Half of My Heart",

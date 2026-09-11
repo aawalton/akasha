@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaSweetPotato = {
   id: "019ea4cd-9571-7198-8133-6e492baaf22c",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-sweet-potato",
   title: "Sweet Potato",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const zaraLarssonNeverForgetYou = {
   id: "019ea49e-a3ad-7d4a-88dc-65183cda6c61",
-  pageTypeSlug: "song",
   type: "song",
   slug: "zara-larsson-never-forget-you",
   title: "Never Forget You",

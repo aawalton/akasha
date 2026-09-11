@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftGirlAtHome = {
   id: "019ea416-201f-7959-aba4-b3aeec01e56e",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-girl-at-home",
   title: "Girl at Home",

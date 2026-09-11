@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftMarySSongOhMyMyMy = {
   id: "019ea416-1a00-7676-a32c-c9c1ac909232",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-mary-s-song-oh-my-my-my",
   title: "Mary’s Song (Oh My My My)",

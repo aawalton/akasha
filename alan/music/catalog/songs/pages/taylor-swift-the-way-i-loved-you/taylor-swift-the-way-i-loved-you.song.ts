@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftTheWayILovedYou = {
   id: "019ea416-4a42-7c41-8196-5734e2d381a2",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-the-way-i-loved-you",
   title: "The Way I Loved You",

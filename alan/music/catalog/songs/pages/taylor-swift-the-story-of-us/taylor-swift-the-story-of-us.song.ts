@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftTheStoryOfUs = {
   id: "019ea416-3b79-7df2-bd3c-04bcb35c5512",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-the-story-of-us",
   title: "The Story of Us",

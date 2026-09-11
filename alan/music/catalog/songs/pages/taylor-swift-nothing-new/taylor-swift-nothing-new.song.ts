@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftNothingNew = {
   id: "019ea416-3a13-724e-b8c9-8508bc1d19c6",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-nothing-new",
   title: "Nothing New",

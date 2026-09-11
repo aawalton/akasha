@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftHopelesslyDevotedToYou = {
   id: "019ea416-19ad-7676-b607-90bec4e89aa4",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-hopelessly-devoted-to-you",
   title: "Hopelessly Devoted to You",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftMessageInABottle = {
   id: "019ea416-1ab8-7193-adee-760f43754a0f",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-message-in-a-bottle",
   title: "Message in a Bottle",

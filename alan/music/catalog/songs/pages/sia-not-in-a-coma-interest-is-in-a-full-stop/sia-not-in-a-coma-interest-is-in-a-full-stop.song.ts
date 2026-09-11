@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaNotInAComaInterestIsInAFullStop = {
   id: "019ea4ca-4697-79ed-9865-e805da5940e4",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-not-in-a-coma-interest-is-in-a-full-stop",
   title: "Not In A Coma Interest Is In A Full-stop",

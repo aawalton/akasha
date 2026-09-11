@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftTheArcher = {
   id: "019ea416-2e1d-753d-ae73-2a8a1faebdec",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-the-archer",
   title: "The Archer",

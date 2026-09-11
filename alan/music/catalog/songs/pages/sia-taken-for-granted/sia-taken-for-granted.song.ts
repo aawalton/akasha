@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaTakenForGranted = {
   id: "019ea4cc-02e5-742b-9b26-2bf3df580b56",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-taken-for-granted",
   title: "Taken for Granted",

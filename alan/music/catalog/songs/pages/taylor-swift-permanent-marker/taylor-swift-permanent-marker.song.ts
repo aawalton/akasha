@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftPermanentMarker = {
   id: "019ea416-39e0-7229-b085-74d0790eee81",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-permanent-marker",
   title: "Permanent Marker",

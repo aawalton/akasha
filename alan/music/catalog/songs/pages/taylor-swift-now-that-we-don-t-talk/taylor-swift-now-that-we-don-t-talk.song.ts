@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftNowThatWeDonTTalk = {
   id: "019ea416-3e46-7aa5-a11e-a453598f7d53",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-now-that-we-don-t-talk",
   title: "Now That We Don’t Talk",

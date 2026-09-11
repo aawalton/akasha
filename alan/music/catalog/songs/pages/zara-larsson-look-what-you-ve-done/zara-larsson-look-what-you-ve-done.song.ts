@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const zaraLarssonLookWhatYouVeDone = {
   id: "019ea49e-6c69-7f54-8c55-d183fb319001",
-  pageTypeSlug: "song",
   type: "song",
   slug: "zara-larsson-look-what-you-ve-done",
   title: "Look What You’ve Done",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftDownBad = {
   id: "019ea416-0978-7cfc-b018-8250e7524a3f",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-down-bad",
   title: "Down Bad",

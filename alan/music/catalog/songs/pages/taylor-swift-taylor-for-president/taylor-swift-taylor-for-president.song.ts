@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftTaylorForPresident = {
   id: "019ea416-4083-78e5-a3b5-9efa30a74729",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-taylor-for-president",
   title: "Taylor For President",

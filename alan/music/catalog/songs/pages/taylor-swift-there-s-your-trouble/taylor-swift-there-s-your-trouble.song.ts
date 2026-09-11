@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftThereSYourTrouble = {
   id: "019ea416-479e-7a92-a826-b455a71e8e0c",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-there-s-your-trouble",
   title: "There’s Your Trouble",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftTheLifeOfAShowgirl = {
   id: "019ea416-3ef7-7438-b09d-0b122ab4f254",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-the-life-of-a-showgirl",
   title: "The Life of a Showgirl",

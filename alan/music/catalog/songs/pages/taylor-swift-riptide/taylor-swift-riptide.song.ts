@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftRiptide = {
   id: "019ea416-404d-7f56-8948-128d519059b9",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-riptide",
   title: "Riptide",

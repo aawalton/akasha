@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftSoHighSchool = {
   id: "019ea416-2e80-7432-9715-24ceae68e00a",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-so-high-school",
   title: "So High School",

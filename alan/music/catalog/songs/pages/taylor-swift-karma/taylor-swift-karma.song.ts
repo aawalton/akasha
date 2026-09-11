@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftKarma = {
   id: "019ea416-20bc-768d-9c71-a5b5f52c0478",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-karma",
   title: "Karma",

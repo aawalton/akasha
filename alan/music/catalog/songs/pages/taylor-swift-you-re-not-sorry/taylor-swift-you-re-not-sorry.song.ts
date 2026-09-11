@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftYouReNotSorry = {
   id: "019ea416-484d-70c0-bab3-906206383473",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-you-re-not-sorry",
   title: "You’re Not Sorry",

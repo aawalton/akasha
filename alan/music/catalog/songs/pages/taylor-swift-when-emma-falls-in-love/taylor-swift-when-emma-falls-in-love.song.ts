@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftWhenEmmaFallsInLove = {
   id: "019ea416-4972-7ee5-a6c6-6968a5020118",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-when-emma-falls-in-love",
   title: "When Emma Falls in Love",

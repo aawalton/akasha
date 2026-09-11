@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftTheLastTime = {
   id: "019ea416-3aa9-7d5a-bd70-13bfbfbb02dd",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-the-last-time",
   title: "The Last Time",

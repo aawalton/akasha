@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftIWantYouBack = {
   id: "019ea416-249c-7c43-b7a4-b5b2e2c93ebd",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-i-want-you-back",
   title: "I Want You Back",

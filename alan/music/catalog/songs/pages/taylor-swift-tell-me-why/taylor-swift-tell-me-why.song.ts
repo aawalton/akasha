@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftTellMeWhy = {
   id: "019ea416-3018-782b-b3cb-20573907c3d4",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-tell-me-why",
   title: "Tell Me Why",

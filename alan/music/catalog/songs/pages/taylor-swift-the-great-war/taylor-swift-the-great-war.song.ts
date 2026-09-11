@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftTheGreatWar = {
   id: "019ea416-41ed-75ef-9fef-6f616649f07a",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-the-great-war",
   title: "The Great War",

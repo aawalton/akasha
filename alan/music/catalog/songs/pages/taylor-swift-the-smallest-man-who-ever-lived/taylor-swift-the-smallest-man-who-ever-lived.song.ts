@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftTheSmallestManWhoEverLived = {
   id: "019ea416-38e7-798f-9762-bc4df8219861",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-the-smallest-man-who-ever-lived",
   title: "The Smallest Man Who Ever Lived",

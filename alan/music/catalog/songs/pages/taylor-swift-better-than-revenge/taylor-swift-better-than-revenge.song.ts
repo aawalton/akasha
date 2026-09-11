@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftBetterThanRevenge = {
   id: "019ea416-08db-7778-abbe-341cd056eb74",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-better-than-revenge",
   title: "Better Than Revenge",

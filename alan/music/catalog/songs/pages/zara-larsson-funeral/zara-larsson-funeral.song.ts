@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const zaraLarssonFuneral = {
   id: "019ea49d-d0b2-7e70-ba8c-706d15fe1221",
-  pageTypeSlug: "song",
   type: "song",
   slug: "zara-larsson-funeral",
   title: "Funeral",

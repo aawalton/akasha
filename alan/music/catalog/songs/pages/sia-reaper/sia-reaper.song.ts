@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaReaper = {
   id: "019ea4cb-4242-71e4-90c9-323d4ae0e5ff",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-reaper",
   title: "Reaper",

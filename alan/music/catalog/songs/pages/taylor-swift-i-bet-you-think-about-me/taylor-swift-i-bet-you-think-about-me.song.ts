@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftIBetYouThinkAboutMe = {
   id: "019ea416-1ce2-7073-ad7d-80f793adfdb9",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-i-bet-you-think-about-me",
   title: "I Bet You Think About Me",

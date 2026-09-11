@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftButDaddyILoveHim = {
   id: "019ea416-103b-7e77-8dd5-38d48bc02f64",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-but-daddy-i-love-him",
   title: "But Daddy I Love Him",

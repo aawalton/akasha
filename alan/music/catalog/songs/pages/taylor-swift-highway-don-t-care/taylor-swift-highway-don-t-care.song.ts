@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftHighwayDonTCare = {
   id: "019ea416-2af2-7a21-8fd9-60be70bc7752",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-highway-don-t-care",
   title: "Highway Don’t Care",

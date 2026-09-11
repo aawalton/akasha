@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftFatherFigure = {
   id: "019ea416-26bc-7544-bfde-f304ab7ce8c4",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-father-figure",
   title: "Father Figure",

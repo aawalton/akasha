@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftYouReOnYourOwnKid = {
   id: "019ea416-45c0-7a33-b208-4ea76c9a24dc",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-you-re-on-your-own-kid",
   title: "You’re on Your Own, Kid",

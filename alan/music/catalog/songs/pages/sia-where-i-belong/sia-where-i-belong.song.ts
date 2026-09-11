@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaWhereIBelong = {
   id: "019ea4cd-0bf7-7eac-b08c-c40755e32e4e",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-where-i-belong",
   title: "Where I Belong",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftByeByeBaby = {
   id: "019ea416-1677-757e-a53e-c0c5d6718c73",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-bye-bye-baby",
   title: "Bye Bye Baby",

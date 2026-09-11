@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftBetteDavisEyes = {
   id: "019ea416-12d0-7b96-b16f-78e18540ebef",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-bette-davis-eyes",
   title: "Bette Davis Eyes",

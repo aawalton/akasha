@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaToBeHuman = {
   id: "019ea4cc-8977-7efd-b993-dc6dd1ade09a",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-to-be-human",
   title: "To Be Human",

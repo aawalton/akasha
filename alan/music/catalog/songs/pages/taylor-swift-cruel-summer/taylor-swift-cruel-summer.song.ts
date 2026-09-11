@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftCruelSummer = {
   id: "019ea416-0340-7bd9-8da1-b64a24e3d1a8",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-cruel-summer",
   title: "Cruel Summer",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftTheProphecy = {
   id: "019ea416-30eb-7a00-bff5-dcdd7c716400",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-the-prophecy",
   title: "The Prophecy",

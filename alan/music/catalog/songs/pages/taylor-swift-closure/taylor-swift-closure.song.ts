@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftClosure = {
   id: "019ea416-129c-73af-88c6-b9cde0bcb2ec",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-closure",
   title: "closure",

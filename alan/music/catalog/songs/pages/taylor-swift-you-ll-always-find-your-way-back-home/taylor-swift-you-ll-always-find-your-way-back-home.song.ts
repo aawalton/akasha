@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftYouLlAlwaysFindYourWayBackHome = {
   id: "019ea416-44d5-75f5-aef1-1c54c2d2bb82",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-you-ll-always-find-your-way-back-home",
   title: "You’ll Always Find Your Way Back Home",

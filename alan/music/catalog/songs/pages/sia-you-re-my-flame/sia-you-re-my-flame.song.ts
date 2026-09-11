@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaYouReMyFlame = {
   id: "019ea4ce-95fa-75ce-a8dc-0e2f7ca403eb",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-you-re-my-flame",
   title: "You’re My Flame",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftIAlmostDo = {
   id: "019ea416-23f8-7134-a53d-318c87f6764a",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-i-almost-do",
   title: "I Almost Do",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftIsItOverNow = {
   id: "019ea416-1cac-744d-9fc8-3d77a843f127",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-is-it-over-now",
   title: "Is It Over Now?",

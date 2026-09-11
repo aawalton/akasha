@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftCardigan = {
   id: "019ea416-0596-7d5b-a981-e2997ebab574",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-cardigan",
   title: "cardigan",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftDonTBlameMe = {
   id: "019ea416-073c-778b-ada4-fd172a48cb37",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-don-t-blame-me",
   title: "Don’t Blame Me",

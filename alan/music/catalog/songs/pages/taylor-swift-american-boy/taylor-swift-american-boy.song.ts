@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftAmericanBoy = {
   id: "019ea416-1202-70e3-b586-e7a00857a5da",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-american-boy",
   title: "American Boy",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftPourSomeSugarOnMe = {
   id: "019ea416-3220-7b13-a0e9-13b15abfa8be",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-pour-some-sugar-on-me",
   title: "Pour Some Sugar on Me",

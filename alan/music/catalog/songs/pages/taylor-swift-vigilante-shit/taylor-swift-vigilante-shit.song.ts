@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftVigilanteShit = {
   id: "019ea416-44a0-7577-b2bb-d4b79d859cd9",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-vigilante-shit",
   title: "Vigilante Shit",

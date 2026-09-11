@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftStayBeautiful = {
   id: "019ea416-40b6-7bdf-9a9d-9b9284f37f71",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-stay-beautiful",
   title: "Stay Beautiful",

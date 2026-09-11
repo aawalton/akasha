@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftICanTStopLovingYouThoughITry = {
   id: "019ea416-185a-7361-908f-8b3ef0e3a85b",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-i-can-t-stop-loving-you-though-i-try",
   title: "I Can’t Stop Loving You (Though I Try)",

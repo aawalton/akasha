@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const siaUnderneathTheChristmasLights = {
   id: "019ea4cd-b5f0-738b-b53c-c7c417d458f1",
-  pageTypeSlug: "song",
   type: "song",
   slug: "sia-underneath-the-christmas-lights",
   title: "Underneath the Christmas Lights",

@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftIKnewYouWereTrouble = {
   id: "019ea416-235e-7886-91b2-0b720d6dfca4",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-i-knew-you-were-trouble",
   title: "I Knew You Were Trouble.",

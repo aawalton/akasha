@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftMarjorie = {
   id: "019ea416-21cd-75f0-834a-ba55e8cd87e6",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-marjorie",
   title: "marjorie",

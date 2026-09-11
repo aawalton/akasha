@@ -2,7 +2,6 @@ import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.
 
 export const taylorSwiftDriveForDaddyGene = {
   id: "019ea416-0d27-7fa0-8497-967103106f3b",
-  pageTypeSlug: "song",
   type: "song",
   slug: "taylor-swift-drive-for-daddy-gene",
   title: "Drive (For Daddy Gene)",
