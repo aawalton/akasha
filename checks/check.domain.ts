@@ -28,6 +28,7 @@ export const check = {
     "module/mortal-sparing",
     "module/audit-verdict",
     "module/audit-serving",
+    "service-workstation/audit-running",
   ],
   invariants: [
     {
