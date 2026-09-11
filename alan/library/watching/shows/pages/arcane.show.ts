@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const arcane = {
   id: "01a06802-9331-7006-9514-a731c8f42770",
-  pageTypeSlug: "show",
   type: "show",
   slug: "arcane",
   title: "Arcane",

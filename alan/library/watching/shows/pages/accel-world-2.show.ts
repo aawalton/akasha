@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const accelWorld2 = {
   id: "01a06802-9331-7000-857f-7257b49b7619",
-  pageTypeSlug: "show",
   type: "show",
   slug: "accel-world-2",
   title: "Accel World",

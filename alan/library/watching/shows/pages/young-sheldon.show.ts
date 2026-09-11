@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const youngSheldon = {
   id: "01a06802-9333-7011-b346-db5cd5909917",
-  pageTypeSlug: "show",
   type: "show",
   slug: "young-sheldon",
   title: "Young Sheldon",

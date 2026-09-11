@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const theMandalorianSpecials = {
   id: "01a06802-b8bf-701b-8be2-3537fe102b84",
-  pageTypeSlug: "season",
   type: "season",
   slug: "the-mandalorian-specials",
   title: "The Mandalorian Specials",

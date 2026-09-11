@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const starTrekTheAnimatedSeriesSeason1 = {
   id: "01a06802-b8bd-7018-91b1-7d1932ef26a4",
-  pageTypeSlug: "season",
   type: "season",
   slug: "star-trek-the-animated-series-season-1",
   title: "Star Trek: The Animated Series Season 1",

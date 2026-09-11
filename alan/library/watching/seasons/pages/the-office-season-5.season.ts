@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const theOfficeSeason5 = {
   id: "01a06802-b8bf-7028-af54-d1a48d92aa71",
-  pageTypeSlug: "season",
   type: "season",
   slug: "the-office-season-5",
   title: "The Office Season 5",

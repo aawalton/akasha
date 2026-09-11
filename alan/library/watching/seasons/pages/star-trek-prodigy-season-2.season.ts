@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const starTrekProdigySeason2 = {
   id: "01a06802-b8bd-700e-be97-ea25b5471203",
-  pageTypeSlug: "season",
   type: "season",
   slug: "star-trek-prodigy-season-2",
   title: "Star Trek: Prodigy Season 2",

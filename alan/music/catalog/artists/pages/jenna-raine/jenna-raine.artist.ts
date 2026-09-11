@@ -2,7 +2,6 @@ import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.
 
 export const jennaRaine = {
   id: "01a06803-676b-701a-9ca9-99798f886cb0",
-  pageTypeSlug: "artist",
   type: "artist",
   slug: "jenna-raine",
   title: "Jenna Raine",

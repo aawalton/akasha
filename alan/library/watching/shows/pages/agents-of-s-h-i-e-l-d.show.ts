@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const agentsOfSHIELD = {
   id: "01a06802-9331-7003-b4c8-5299632445ac",
-  pageTypeSlug: "show",
   type: "show",
   slug: "agents-of-s-h-i-e-l-d",
   title: "Agents of S.H.I.E.L.D.",

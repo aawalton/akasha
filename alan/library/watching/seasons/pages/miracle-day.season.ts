@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const miracleDay = {
   id: "01a06802-b8bb-7002-a6f7-6d575623184a",
-  pageTypeSlug: "season",
   type: "season",
   slug: "miracle-day",
   title: "Miracle Day",

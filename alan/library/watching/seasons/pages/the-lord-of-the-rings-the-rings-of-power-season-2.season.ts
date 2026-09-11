@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const theLordOfTheRingsTheRingsOfPowerSeason2 = {
   id: "01a06802-b8bf-7016-997d-501a568afdcd",
-  pageTypeSlug: "season",
   type: "season",
   slug: "the-lord-of-the-rings-the-rings-of-power-season-2",
   title: "The Lord of the Rings: The Rings of Power Season 2",

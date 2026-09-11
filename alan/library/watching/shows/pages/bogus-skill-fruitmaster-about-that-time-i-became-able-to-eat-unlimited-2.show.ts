@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const bogusSkillFruitmasterAboutThatTimeIBecameAbleToEatUnlimited2 = {
   id: "01a06802-9331-700d-8506-5d7360e2d573",
-  pageTypeSlug: "show",
   type: "show",
   slug: "bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited-2",
   title:

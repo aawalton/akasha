@@ -2,7 +2,6 @@ import type { ShowCollection } from "akasha/alan/library/watching/show-collectio
 
 export const speculativeAntholoagies = {
   id: "01a06808-6a77-7010-bb27-6c9f0e56be3f",
-  pageTypeSlug: "show-collection",
   type: "show-collection",
   slug: "speculative-antholoagies",
   title: "Speculative AntholoAgies",

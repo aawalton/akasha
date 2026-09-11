@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const whiteCollarSeason5 = {
   id: "01a06802-b8c0-701f-8fd7-05b8a51fa093",
-  pageTypeSlug: "season",
   type: "season",
   slug: "white-collar-season-5",
   title: "White Collar Season 5",

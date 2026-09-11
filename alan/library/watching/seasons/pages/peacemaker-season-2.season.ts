@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const peacemakerSeason2 = {
   id: "01a06802-b8bc-7010-9bf7-18aa6db6094d",
-  pageTypeSlug: "season",
   type: "season",
   slug: "peacemaker-season-2",
   title: "Peacemaker Season 2",

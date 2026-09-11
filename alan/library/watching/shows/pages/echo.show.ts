@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const echo = {
   id: "01a06802-9331-701f-93b2-c8c22ccde51c",
-  pageTypeSlug: "show",
   type: "show",
   slug: "echo",
   title: "Echo",

@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const theFalconAndTheWinterSoldier = {
   id: "01a06802-9332-7048-b921-cc93e922b6ad",
-  pageTypeSlug: "show",
   type: "show",
   slug: "the-falcon-and-the-winter-soldier",
   title: "The Falcon and the Winter Soldier",

@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const starTrekTheNextGenerationSeason5 = {
   id: "01a06802-b8bd-701e-9984-54f6fd781132",
-  pageTypeSlug: "season",
   type: "season",
   slug: "star-trek-the-next-generation-season-5",
   title: "Star Trek: The Next Generation Season 5",

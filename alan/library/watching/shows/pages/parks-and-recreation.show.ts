@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const parksAndRecreation = {
   id: "01a06802-9332-7014-a430-a9dc9a13d739",
-  pageTypeSlug: "show",
   type: "show",
   slug: "parks-and-recreation",
   title: "Parks and Recreation",

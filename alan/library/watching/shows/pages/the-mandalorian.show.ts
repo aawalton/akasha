@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const theMandalorian = {
   id: "01a06802-9332-704c-8f8d-c57201f82d6a",
-  pageTypeSlug: "show",
   type: "show",
   slug: "the-mandalorian",
   title: "The Mandalorian",

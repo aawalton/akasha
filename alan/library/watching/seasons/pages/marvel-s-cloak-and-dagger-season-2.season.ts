@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const marvelSCloakAndDaggerSeason2 = {
   id: "01a06802-b8ba-7041-9bcc-c4a90796d4d4",
-  pageTypeSlug: "season",
   type: "season",
   slug: "marvel-s-cloak-and-dagger-season-2",
   title: "Marvel's Cloak & Dagger Season 2",

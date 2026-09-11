@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const starWarsResistance = {
   id: "01a06802-9332-7033-93b1-0840063ce7ee",
-  pageTypeSlug: "show",
   type: "show",
   slug: "star-wars-resistance",
   title: "Star Wars Resistance",

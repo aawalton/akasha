@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const theWheelOfTimeSeason2 = {
   id: "01a06802-b8bf-704e-b88a-8b7c6ad88577",
-  pageTypeSlug: "season",
   type: "season",
   slug: "the-wheel-of-time-season-2",
   title: "The Wheel of Time Season 2",

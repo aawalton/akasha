@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const theLoneGunmenSeason1 = {
   id: "01a06802-b8bf-7013-801a-ebd0ad60090c",
-  pageTypeSlug: "season",
   type: "season",
   slug: "the-lone-gunmen-season-1",
   title: "The Lone Gunmen Season 1",

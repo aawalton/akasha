@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const youngSheldonSeason1 = {
   id: "01a06802-b8c0-7022-9b77-64fb0449fad0",
-  pageTypeSlug: "season",
   type: "season",
   slug: "young-sheldon-season-1",
   title: "Young Sheldon Season 1",

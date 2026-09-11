@@ -2,7 +2,6 @@ import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.
 
 export const jessicaBaio = {
   id: "019ea4ce-bf16-7163-9e22-929cfc2ff07f",
-  pageTypeSlug: "artist",
   type: "artist",
   slug: "jessica-baio",
   title: "Jessica Baio",

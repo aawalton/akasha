@@ -2,7 +2,6 @@ import type { ReleaseCollection } from "akasha/alan/music/catalog/release-collec
 
 export const especiallyForYouEfy = {
   id: "01a06808-805e-7000-b4ce-7ce02b996bd4",
-  pageTypeSlug: "release-collection",
   type: "release-collection",
   slug: "especially-for-you-efy",
   title: "Especially For You (EFY)",

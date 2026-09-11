@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const starTrekDeepSpaceNineSeason1 = {
   id: "01a06802-b8bc-7045-a898-cb53ce06b55f",
-  pageTypeSlug: "season",
   type: "season",
   slug: "star-trek-deep-space-nine-season-1",
   title: "Star Trek: Deep Space Nine Season 1",

@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const neverafter = {
   id: "01a06802-b8bb-703b-9616-86ea86b72fa5",
-  pageTypeSlug: "season",
   type: "season",
   slug: "neverafter",
   title: "Neverafter",

@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const returnToThePlanetOfTheApes = {
   id: "01a06802-9332-7019-8809-7266f138f2bb",
-  pageTypeSlug: "show",
   type: "show",
   slug: "return-to-the-planet-of-the-apes",
   title: "Return to the Planet of the Apes",

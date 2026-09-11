@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const torchwood = {
   id: "01a06802-9333-700a-8b80-9b6c0238af99",
-  pageTypeSlug: "show",
   type: "show",
   slug: "torchwood",
   title: "Torchwood",

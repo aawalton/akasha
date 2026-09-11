@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const msMarvel = {
   id: "01a06802-9332-700b-8722-e329ec7e146e",
-  pageTypeSlug: "show",
   type: "show",
   slug: "ms-marvel",
   title: "Ms. Marvel",

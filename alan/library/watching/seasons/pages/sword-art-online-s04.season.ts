@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const swordArtOnlineS04 = {
   id: "019ea442-8981-702c-893e-28bd2fb5e4c4",
-  pageTypeSlug: "season",
   type: "season",
   slug: "sword-art-online-s04",
   title: "Sword Art Online Alicization: War of Underworld",

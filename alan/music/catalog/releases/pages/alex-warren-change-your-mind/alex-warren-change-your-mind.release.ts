@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const alexWarrenChangeYourMind = {
   id: "01a0676a-d71a-7016-9a88-06799fe03d1b",
-  pageTypeSlug: "release",
   type: "release",
   slug: "alex-warren-change-your-mind",
   title: "Change Your Mind",

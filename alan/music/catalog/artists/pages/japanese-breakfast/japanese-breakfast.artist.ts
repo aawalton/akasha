@@ -2,7 +2,6 @@ import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.
 
 export const japaneseBreakfast = {
   id: "01a06803-676b-7019-b91e-e4dd7e2c7c7e",
-  pageTypeSlug: "artist",
   type: "artist",
   slug: "japanese-breakfast",
   title: "Japanese Breakfast",

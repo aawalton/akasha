@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const piratesOfLeviathan = {
   id: "01a06802-b8bc-7019-8624-71139c8e348c",
-  pageTypeSlug: "season",
   type: "season",
   slug: "pirates-of-leviathan",
   title: "Pirates of Leviathan",

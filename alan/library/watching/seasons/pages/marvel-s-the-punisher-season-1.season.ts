@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const marvelSThePunisherSeason1 = {
   id: "01a06802-b8ba-7051-bdb8-004752c57a88",
-  pageTypeSlug: "season",
   type: "season",
   slug: "marvel-s-the-punisher-season-1",
   title: "Marvel's The Punisher Season 1",

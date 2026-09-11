@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const marvelSDaredevilSeason1 = {
   id: "01a06802-b8ba-7042-8d26-72fb030d8fbb",
-  pageTypeSlug: "season",
   type: "season",
   slug: "marvel-s-daredevil-season-1",
   title: "Marvel's Daredevil Season 1",

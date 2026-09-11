@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const squidGame = {
   id: "01a06802-9332-7025-a175-c90f86683f15",
-  pageTypeSlug: "show",
   type: "show",
   slug: "squid-game",
   title: "Squid Game",

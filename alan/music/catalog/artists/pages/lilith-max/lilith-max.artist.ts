@@ -2,7 +2,6 @@ import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.
 
 export const lilithMax = {
   id: "019ea4de-a4a8-755f-9d89-5f375589f6e0",
-  pageTypeSlug: "artist",
   type: "artist",
   slug: "lilith-max",
   title: "Lilith Max",

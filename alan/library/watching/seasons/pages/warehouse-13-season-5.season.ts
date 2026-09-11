@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const warehouse13Season5 = {
   id: "01a06802-b8c0-7014-9fe2-c1dacd4398eb",
-  pageTypeSlug: "season",
   type: "season",
   slug: "warehouse-13-season-5",
   title: "Warehouse 13 Season 5",

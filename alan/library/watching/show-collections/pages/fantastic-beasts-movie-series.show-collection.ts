@@ -2,7 +2,6 @@ import type { ShowCollection } from "akasha/alan/library/watching/show-collectio
 
 export const fantasticBeastsMovieSeries = {
   id: "01a06808-6a77-7008-9b3d-aa691a9105f0",
-  pageTypeSlug: "show-collection",
   type: "show-collection",
   slug: "fantastic-beasts-movie-series",
   title: "Fantastic Beasts Movie Series",

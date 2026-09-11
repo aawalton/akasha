@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const houseOfTheDragon = {
   id: "01a06802-9332-7000-886d-5b74a9c8a6ef",
-  pageTypeSlug: "show",
   type: "show",
   slug: "house-of-the-dragon",
   title: "House of the Dragon",

@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const alexWarrenChasingShadowsMkjRemix = {
   id: "01a0676a-d71a-7021-9cb7-dd5777c27259",
-  pageTypeSlug: "release",
   type: "release",
   slug: "alex-warren-chasing-shadows-mkj-remix",
   title: "Chasing Shadows (MKJ Remix)",

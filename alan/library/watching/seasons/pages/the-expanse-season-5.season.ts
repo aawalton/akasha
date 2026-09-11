@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const theExpanseSeason5 = {
   id: "01a06802-b8bf-700d-bf0f-dde8581f050c",
-  pageTypeSlug: "season",
   type: "season",
   slug: "the-expanse-season-5",
   title: "The Expanse Season 5",

@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const moonKnight = {
   id: "01a06802-9332-700a-a1ac-2bf0213339a9",
-  pageTypeSlug: "show",
   type: "show",
   slug: "moon-knight",
   title: "Moon Knight",

@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const starTrekEnterprise = {
   id: "01a06802-9332-7029-99ed-17c2339b64ba",
-  pageTypeSlug: "show",
   type: "show",
   slug: "star-trek-enterprise",
   title: "Star Trek: Enterprise",

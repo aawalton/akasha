@@ -2,7 +2,6 @@ import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.
 
 export const adele = {
   id: "01a06803-676a-7000-abb8-8dc73e08c3fa",
-  pageTypeSlug: "artist",
   type: "artist",
   slug: "adele",
   title: "Adele",

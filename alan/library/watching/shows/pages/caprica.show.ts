@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const caprica = {
   id: "01a06802-9331-700e-8261-11fd1d9ad165",
-  pageTypeSlug: "show",
   type: "show",
   slug: "caprica",
   title: "Caprica",

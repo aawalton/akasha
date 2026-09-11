@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const hawkeye = {
   id: "01a06802-9331-702d-b007-506640a3957c",
-  pageTypeSlug: "show",
   type: "show",
   slug: "hawkeye",
   title: "Hawkeye",

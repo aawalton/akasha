@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const sheHulkAttorneyAtLaw = {
   id: "01a06802-9332-7021-a720-a02b3dbf6047",
-  pageTypeSlug: "show",
   type: "show",
   slug: "she-hulk-attorney-at-law",
   title: "She-Hulk: Attorney at Law",

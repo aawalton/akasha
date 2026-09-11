@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const criminalMinds = {
   id: "01a06802-9331-7014-897d-fdc4c73f4218",
-  pageTypeSlug: "show",
   type: "show",
   slug: "criminal-minds",
   title: "Criminal Minds",

@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const theXFilesSeason2 = {
   id: "01a06802-b8bf-7054-a88a-89463932a582",
-  pageTypeSlug: "season",
   type: "season",
   slug: "the-x-files-season-2",
   title: "The X-Files Season 2",

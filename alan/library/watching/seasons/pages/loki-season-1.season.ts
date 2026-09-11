@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const lokiSeason1 = {
   id: "01a06802-b8ba-7030-a647-78aecbc366b5",
-  pageTypeSlug: "season",
   type: "season",
   slug: "loki-season-1",
   title: "Loki Season 1",

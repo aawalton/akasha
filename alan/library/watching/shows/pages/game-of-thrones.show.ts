@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const gameOfThrones = {
   id: "01a06802-9331-702a-a823-8baf5684c808",
-  pageTypeSlug: "show",
   type: "show",
   slug: "game-of-thrones",
   title: "Game of Thrones",

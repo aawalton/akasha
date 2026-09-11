@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const frierenBeyondJourneySEnd2 = {
   id: "01a06802-9331-7028-b9e6-6ec619aac1d3",
-  pageTypeSlug: "show",
   type: "show",
   slug: "frieren-beyond-journey-s-end-2",
   title: "Frieren: Beyond Journey's End",

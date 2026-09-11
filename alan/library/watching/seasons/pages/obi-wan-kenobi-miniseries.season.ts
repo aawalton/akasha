@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const obiWanKenobiMiniseries = {
   id: "01a06802-b8bb-7042-a387-e842cc3dc113",
-  pageTypeSlug: "season",
   type: "season",
   slug: "obi-wan-kenobi-miniseries",
   title: "Obi-Wan Kenobi Miniseries",

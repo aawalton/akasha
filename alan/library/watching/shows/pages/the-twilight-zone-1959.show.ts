@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const theTwilightZone1959 = {
   id: "01a06802-9333-7003-b0d4-7801c22153ab",
-  pageTypeSlug: "show",
   type: "show",
   slug: "the-twilight-zone-1959",
   title: "The Twilight Zone (1959)",

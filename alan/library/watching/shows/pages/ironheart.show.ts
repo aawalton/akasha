@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const ironheart = {
   id: "01a06802-9332-7004-b436-5f6a0fdfa1fc",
-  pageTypeSlug: "show",
   type: "show",
   slug: "ironheart",
   title: "Ironheart",

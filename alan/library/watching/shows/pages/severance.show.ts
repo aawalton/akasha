@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const severance = {
   id: "01a06802-9332-7020-ba2a-d2a2a8e27945",
-  pageTypeSlug: "show",
   type: "show",
   slug: "severance",
   title: "Severance",

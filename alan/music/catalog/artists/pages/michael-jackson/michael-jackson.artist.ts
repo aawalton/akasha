@@ -2,7 +2,6 @@ import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.
 
 export const michaelJackson = {
   id: "01a06803-676b-7029-876e-83ab268f9dd8",
-  pageTypeSlug: "artist",
   type: "artist",
   slug: "michael-jackson",
   title: "Michael Jackson",

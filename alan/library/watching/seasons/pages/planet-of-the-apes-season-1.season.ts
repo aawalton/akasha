@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const planetOfTheApesSeason1 = {
   id: "01a06802-b8bc-701a-9495-144b44b0c817",
-  pageTypeSlug: "season",
   type: "season",
   slug: "planet-of-the-apes-season-1",
   title: "Planet of the Apes Season 1",

@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const theAcolyteSeason1 = {
   id: "01a06802-b8be-7034-b10a-3db98723bdff",
-  pageTypeSlug: "season",
   type: "season",
   slug: "the-acolyte-season-1",
   title: "The Acolyte Season 1",

@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const theDragonPrince = {
   id: "01a06802-9332-7046-a949-e1495f6818fc",
-  pageTypeSlug: "show",
   type: "show",
   slug: "the-dragon-prince",
   title: "The Dragon Prince",

@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const creatureCommandos = {
   id: "01a06802-9331-7013-bd23-e5bcbc864db4",
-  pageTypeSlug: "show",
   type: "show",
   slug: "creature-commandos",
   title: "Creature Commandos",

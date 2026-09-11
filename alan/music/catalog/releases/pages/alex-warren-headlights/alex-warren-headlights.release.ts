@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const alexWarrenHeadlights = {
   id: "01a0676a-d720-7008-9571-4c3a2fb9020f",
-  pageTypeSlug: "release",
   type: "release",
   slug: "alex-warren-headlights",
   title: "Headlights",

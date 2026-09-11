@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const secretInvasion = {
   id: "01a06802-9332-701f-bb5d-f71d5f032575",
-  pageTypeSlug: "show",
   type: "show",
   slug: "secret-invasion",
   title: "Secret Invasion",

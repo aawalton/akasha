@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const theOffice = {
   id: "01a06802-9332-704e-9a9b-1dd4aa74293f",
-  pageTypeSlug: "show",
   type: "show",
   slug: "the-office",
   title: "The Office",

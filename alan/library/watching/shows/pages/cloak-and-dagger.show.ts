@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const cloakAndDagger = {
   id: "01a06802-9331-7011-8e99-155246c47b6e",
-  pageTypeSlug: "show",
   type: "show",
   slug: "cloak-and-dagger",
   title: "Cloak & Dagger",

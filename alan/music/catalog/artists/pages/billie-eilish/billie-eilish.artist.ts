@@ -2,7 +2,6 @@ import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.
 
 export const billieEilish = {
   id: "019ea4a8-0786-72ab-b9b7-201e500144e9",
-  pageTypeSlug: "artist",
   type: "artist",
   slug: "billie-eilish",
   title: "Billie Eilish",

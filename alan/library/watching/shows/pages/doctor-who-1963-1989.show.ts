@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const doctorWho19631989 = {
   id: "01a06802-9331-701b-80c5-b63699213837",
-  pageTypeSlug: "show",
   type: "show",
   slug: "doctor-who-1963-1989",
   title: "Doctor Who (1963-1989)",

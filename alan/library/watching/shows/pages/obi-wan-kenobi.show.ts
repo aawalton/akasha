@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const obiWanKenobi = {
   id: "01a06802-9332-7013-bb71-3cb4e588b312",
-  pageTypeSlug: "show",
   type: "show",
   slug: "obi-wan-kenobi",
   title: "Obi-Wan Kenobi",

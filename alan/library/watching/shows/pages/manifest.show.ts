@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const manifest = {
   id: "01a06802-9332-7008-be14-d612bae3fa84",
-  pageTypeSlug: "show",
   type: "show",
   slug: "manifest",
   title: "Manifest",

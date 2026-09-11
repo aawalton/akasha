@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const theSeven = {
   id: "01a06802-b8bf-703c-b9d2-bee9f8c2474e",
-  pageTypeSlug: "season",
   type: "season",
   slug: "the-seven",
   title: "The Seven",

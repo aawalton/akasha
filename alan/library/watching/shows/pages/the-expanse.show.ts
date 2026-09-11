@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const theExpanse = {
   id: "01a06802-9332-7047-be1a-773a5c200330",
-  pageTypeSlug: "show",
   type: "show",
   slug: "the-expanse",
   title: "The Expanse",

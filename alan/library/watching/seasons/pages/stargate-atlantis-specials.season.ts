@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const stargateAtlantisSpecials = {
   id: "01a06802-b8bd-7049-9594-e820097dda5d",
-  pageTypeSlug: "season",
   type: "season",
   slug: "stargate-atlantis-specials",
   title: "Stargate Atlantis Specials",

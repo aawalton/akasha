@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const alexWarrenChasingShadowsAcoustic = {
   id: "01a0676a-d71a-7020-bc6a-f1cf6a1c2d0e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "alex-warren-chasing-shadows-acoustic",
   title: "Chasing Shadows (Acoustic)",

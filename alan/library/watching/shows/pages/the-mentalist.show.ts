@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const theMentalist = {
   id: "01a06802-9332-704d-acc2-2f07248ff37c",
-  pageTypeSlug: "show",
   type: "show",
   slug: "the-mentalist",
   title: "The Mentalist",

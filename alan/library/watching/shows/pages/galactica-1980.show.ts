@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const galactica1980 = {
   id: "01a06802-9331-7029-a507-718aab929aaf",
-  pageTypeSlug: "show",
   type: "show",
   slug: "galactica-1980",
   title: "Galactica 1980",

@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const starTrekStrangeNewWorldsSeason2 = {
   id: "01a06802-b8bd-7016-891c-3ff596cceda1",
-  pageTypeSlug: "season",
   type: "season",
   slug: "star-trek-strange-new-worlds-season-2",
   title: "Star Trek: Strange New Worlds Season 2",

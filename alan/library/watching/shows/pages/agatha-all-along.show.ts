@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const agathaAllAlong = {
   id: "01a06802-9331-7001-97c2-d5d329a17076",
-  pageTypeSlug: "show",
   type: "show",
   slug: "agatha-all-along",
   title: "Agatha All Along",

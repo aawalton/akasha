@@ -2,7 +2,6 @@ import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.
 
 export const coldplay = {
   id: "01a06803-676b-7008-bce3-0dbae6d3edc7",
-  pageTypeSlug: "artist",
   type: "artist",
   slug: "coldplay",
   title: "Coldplay",

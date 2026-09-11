@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const shriekWeek = {
   id: "01a06802-b8bc-703e-b3cc-71e4b1eba3f0",
-  pageTypeSlug: "season",
   type: "season",
   slug: "shriek-week",
   title: "Shriek Week",

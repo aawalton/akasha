@@ -2,7 +2,6 @@ import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.
 
 export const gracieAbrams = {
   id: "01a06803-676b-7012-baef-4288d84185e4",
-  pageTypeSlug: "artist",
   type: "artist",
   slug: "gracie-abrams",
   title: "Gracie Abrams",

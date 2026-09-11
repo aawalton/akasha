@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const andor = {
   id: "01a06802-9331-7005-b34b-e628e5eba5a9",
-  pageTypeSlug: "show",
   type: "show",
   slug: "andor",
   title: "Andor",

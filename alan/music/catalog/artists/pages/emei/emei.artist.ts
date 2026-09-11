@@ -2,7 +2,6 @@ import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.
 
 export const emei = {
   id: "01a06803-676b-700d-a809-e33bfe526067",
-  pageTypeSlug: "artist",
   type: "artist",
   slug: "emei",
   title: "Emei",

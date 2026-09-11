@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const scorpionSeason4 = {
   id: "01a06802-b8bc-7030-b71d-cacb06f8ef39",
-  pageTypeSlug: "season",
   type: "season",
   slug: "scorpion-season-4",
   title: "Scorpion Season 4",

@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const mentopolis = {
   id: "01a06802-b8bb-7000-9618-6a57fb249ac4",
-  pageTypeSlug: "season",
   type: "season",
   slug: "mentopolis",
   title: "Mentopolis",

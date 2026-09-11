@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const girlsGutsGlory = {
   id: "01a06802-9331-702b-868b-a41e45f94b3e",
-  pageTypeSlug: "show",
   type: "show",
   slug: "girls-guts-glory",
   title: "Girls Guts Glory",

@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const swordArtOnlineSeason1 = {
   id: "01a06802-b8be-7032-9e15-2acf67ea490a",
-  pageTypeSlug: "season",
   type: "season",
   slug: "sword-art-online-season-1",
   title: "Sword Art Online (Season 1)",

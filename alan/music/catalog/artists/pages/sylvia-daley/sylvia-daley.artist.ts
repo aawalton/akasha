@@ -2,7 +2,6 @@ import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.
 
 export const sylviaDaley = {
   id: "01a06803-676c-700a-a8bc-f7583737dc27",
-  pageTypeSlug: "artist",
   type: "artist",
   slug: "sylvia-daley",
   title: "Sylvia Daley",

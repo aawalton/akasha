@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const elementary = {
   id: "01a06802-9331-7021-98fc-a4ff176620c5",
-  pageTypeSlug: "show",
   type: "show",
   slug: "elementary",
   title: "Elementary",

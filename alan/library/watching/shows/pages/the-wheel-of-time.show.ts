@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const theWheelOfTime = {
   id: "01a06802-9333-7007-b48a-6932fbb8c5f0",
-  pageTypeSlug: "show",
   type: "show",
   slug: "the-wheel-of-time",
   title: "The Wheel of Time",

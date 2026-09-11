@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const theTrialOfATimeLord = {
   id: "01a06802-b8bf-703d-9983-5a68252d51bc",
-  pageTypeSlug: "season",
   type: "season",
   slug: "the-trial-of-a-time-lord",
   title: "The Trial of a Time Lord",

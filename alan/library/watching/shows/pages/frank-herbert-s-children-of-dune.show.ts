@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const frankHerbertSChildrenOfDune = {
   id: "01a06802-9331-7025-9f3b-f6d8a0bcdda3",
-  pageTypeSlug: "show",
   type: "show",
   slug: "frank-herbert-s-children-of-dune",
   title: "Frank Herbert's Children of Dune",

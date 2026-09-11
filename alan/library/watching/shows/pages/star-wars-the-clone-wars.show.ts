@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const starWarsTheCloneWars = {
   id: "01a06802-9332-7036-90db-d248fda1171d",
-  pageTypeSlug: "show",
   type: "show",
   slug: "star-wars-the-clone-wars",
   title: "Star Wars: The Clone Wars",

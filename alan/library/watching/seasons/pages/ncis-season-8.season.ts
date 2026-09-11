@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const ncisSeason8 = {
   id: "01a06802-b8bb-7035-b2eb-70cd28b02f6a",
-  pageTypeSlug: "season",
   type: "season",
   slug: "ncis-season-8",
   title: "NCIS Season 8",

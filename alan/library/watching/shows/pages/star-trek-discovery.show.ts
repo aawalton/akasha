@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const starTrekDiscovery = {
   id: "01a06802-9332-7028-993e-f437d7ee55bc",
-  pageTypeSlug: "show",
   type: "show",
   slug: "star-trek-discovery",
   title: "Star Trek: Discovery",

@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const skeletonCrew = {
   id: "01a06802-9332-7023-b0a7-7e362e47fd14",
-  pageTypeSlug: "show",
   type: "show",
   slug: "skeleton-crew",
   title: "Skeleton Crew",

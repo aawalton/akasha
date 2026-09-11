@@ -2,7 +2,6 @@ import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.
 
 export const lindseyStirling2 = {
   id: "01a06803-676b-7025-8921-64f7cb1796c6",
-  pageTypeSlug: "artist",
   type: "artist",
   slug: "lindsey-stirling-2",
   title: "Lindsey Stirling",

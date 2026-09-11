@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const theChosenSpecials = {
   id: "01a06802-b8bf-7008-976a-04d4ef428905",
-  pageTypeSlug: "season",
   type: "season",
   slug: "the-chosen-specials",
   title: "The Chosen Specials",

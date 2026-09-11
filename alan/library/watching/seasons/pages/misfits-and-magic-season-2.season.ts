@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const misfitsAndMagicSeason2 = {
   id: "01a06802-b8bb-7004-a4bd-c481a51ac068",
-  pageTypeSlug: "season",
   type: "season",
   slug: "misfits-and-magic-season-2",
   title: "Misfits and Magic Season 2",

@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const theLegendOfKorra = {
   id: "01a06802-9332-7049-a679-ea4818156d40",
-  pageTypeSlug: "show",
   type: "show",
   slug: "the-legend-of-korra",
   title: "The Legend of Korra",

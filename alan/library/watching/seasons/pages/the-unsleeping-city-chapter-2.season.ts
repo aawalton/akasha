@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const theUnsleepingCityChapter2 = {
   id: "01a06802-b8bf-704b-99b3-f06a1e1e36ad",
-  pageTypeSlug: "season",
   type: "season",
   slug: "the-unsleeping-city-chapter-2",
   title: "The Unsleeping City: Chapter 2",

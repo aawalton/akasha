@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const peacemaker = {
   id: "01a06802-9332-7015-b90c-cf51ff16fd9c",
-  pageTypeSlug: "show",
   type: "show",
   slug: "peacemaker",
   title: "Peacemaker",

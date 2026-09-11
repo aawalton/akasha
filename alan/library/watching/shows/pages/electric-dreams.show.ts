@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const electricDreams = {
   id: "01a06802-9331-7020-98bd-43d4780b387d",
-  pageTypeSlug: "show",
   type: "show",
   slug: "electric-dreams",
   title: "Electric Dreams",

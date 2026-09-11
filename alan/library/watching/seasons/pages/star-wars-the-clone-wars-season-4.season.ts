@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const starWarsTheCloneWarsSeason4 = {
   id: "01a06802-b8bd-703f-a37b-468782dc1ddd",
-  pageTypeSlug: "season",
   type: "season",
   slug: "star-wars-the-clone-wars-season-4",
   title: "Star Wars: The Clone Wars Season 4",

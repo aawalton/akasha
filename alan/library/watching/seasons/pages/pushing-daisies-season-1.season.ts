@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const pushingDaisiesSeason1 = {
   id: "01a06802-b8bc-701b-ba2d-7f0e9b1ef6fc",
-  pageTypeSlug: "season",
   type: "season",
   slug: "pushing-daisies-season-1",
   title: "Pushing Daisies Season 1",

@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const iAmGroot = {
   id: "01a06802-9332-7001-b04f-c284323ae471",
-  pageTypeSlug: "show",
   type: "show",
   slug: "i-am-groot",
   title: "I Am Groot",

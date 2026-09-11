@@ -2,7 +2,6 @@ import type { Release } from "akasha/alan/music/catalog/releases/release.page-ty
 
 export const adeleHometownGlory = {
   id: "01a0676a-d720-7056-9aef-7efdd6dcf26e",
-  pageTypeSlug: "release",
   type: "release",
   slug: "adele-hometown-glory",
   title: "Hometown Glory",

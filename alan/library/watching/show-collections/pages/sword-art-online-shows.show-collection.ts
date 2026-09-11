@@ -2,7 +2,6 @@ import type { ShowCollection } from "akasha/alan/library/watching/show-collectio
 
 export const swordArtOnlineShows = {
   id: "01a06808-6a77-7011-8f4e-124900563ce7",
-  pageTypeSlug: "show-collection",
   type: "show-collection",
   slug: "sword-art-online-shows",
   title: "Sword Art Online Shows",

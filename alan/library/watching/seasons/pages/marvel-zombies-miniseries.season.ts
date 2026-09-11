@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const marvelZombiesMiniseries = {
   id: "01a06802-b8ba-7053-84ea-4e64fcb8892a",
-  pageTypeSlug: "season",
   type: "season",
   slug: "marvel-zombies-miniseries",
   title: "Marvel Zombies Miniseries",

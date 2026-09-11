@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const battlestarGalactica1978 = {
   id: "01a06802-9331-7009-a6f9-d1d2ee9c7cef",
-  pageTypeSlug: "show",
   type: "show",
   slug: "battlestar-galactica-1978",
   title: "Battlestar Galactica (1978)",

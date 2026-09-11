@@ -2,7 +2,6 @@ import type { ShowCollection } from "akasha/alan/library/watching/show-collectio
 
 export const scienceFictionShows = {
   id: "01a06808-6a77-700d-b6fd-dfe69b76841d",
-  pageTypeSlug: "show-collection",
   type: "show-collection",
   slug: "science-fiction-shows",
   title: "Science Fiction Shows",

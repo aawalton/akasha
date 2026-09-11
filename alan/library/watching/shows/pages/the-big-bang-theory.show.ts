@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const theBigBangTheory = {
   id: "01a06802-9332-7042-bab6-4bb636b043cc",
-  pageTypeSlug: "show",
   type: "show",
   slug: "the-big-bang-theory",
   title: "The Big Bang Theory",

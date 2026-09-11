@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const theFalconAndTheWinterSoldierMiniseries = {
   id: "01a06802-b8bf-7010-8276-9cb93a09f2c6",
-  pageTypeSlug: "season",
   type: "season",
   slug: "the-falcon-and-the-winter-soldier-miniseries",
   title: "The Falcon and the Winter Soldier Miniseries",

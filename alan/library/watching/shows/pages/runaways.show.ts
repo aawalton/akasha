@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const runaways = {
   id: "01a06802-9332-701a-896c-0975c653b0e6",
-  pageTypeSlug: "show",
   type: "show",
   slug: "runaways",
   title: "Runaways",

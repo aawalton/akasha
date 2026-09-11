@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const babylon5 = {
   id: "01a06802-9331-7008-bb33-49c6381eabf6",
-  pageTypeSlug: "show",
   type: "show",
   slug: "babylon-5",
   title: "Babylon 5",

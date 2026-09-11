@@ -2,7 +2,6 @@ import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.
 
 export const theHoldernessFamily = {
   id: "01a06803-676c-700d-98bd-82236ce453c1",
-  pageTypeSlug: "artist",
   type: "artist",
   slug: "the-holderness-family",
   title: "The Holderness Family",

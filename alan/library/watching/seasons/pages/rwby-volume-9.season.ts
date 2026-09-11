@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const rwbyVolume9 = {
   id: "01a06802-b8bc-702c-93a9-ca4c9712ee2d",
-  pageTypeSlug: "season",
   type: "season",
   slug: "rwby-volume-9",
   title: "RWBY Volume 9",

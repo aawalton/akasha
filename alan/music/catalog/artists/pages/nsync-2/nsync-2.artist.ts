@@ -2,7 +2,6 @@ import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.
 
 export const nsync2 = {
   id: "01a06803-676c-7001-b569-8494638e9b28",
-  pageTypeSlug: "artist",
   type: "artist",
   slug: "nsync-2",
   title: "*NSYNC",

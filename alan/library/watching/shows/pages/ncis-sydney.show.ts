@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const ncisSydney = {
   id: "01a06802-9332-7011-8ab6-fcf2d579aaa5",
-  pageTypeSlug: "show",
   type: "show",
   slug: "ncis-sydney",
   title: "NCIS: Sydney",

@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const theBookOfBobaFettMiniseries = {
   id: "01a06802-b8bf-7003-8b63-6f2b290bb08c",
-  pageTypeSlug: "season",
   type: "season",
   slug: "the-book-of-boba-fett-miniseries",
   title: "The Book of Boba Fett Miniseries",

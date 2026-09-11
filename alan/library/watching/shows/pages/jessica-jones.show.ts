@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const jessicaJones = {
   id: "01a06802-9332-7005-bc03-be4d4adbd25f",
-  pageTypeSlug: "show",
   type: "show",
   slug: "jessica-jones",
   title: "Jessica Jones",

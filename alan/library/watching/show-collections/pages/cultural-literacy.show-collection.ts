@@ -2,7 +2,6 @@ import type { ShowCollection } from "akasha/alan/library/watching/show-collectio
 
 export const culturalLiteracy = {
   id: "01a06808-6a77-7005-9cd7-46dc8494020d",
-  pageTypeSlug: "show-collection",
   type: "show-collection",
   slug: "cultural-literacy",
   title: "Cultural Literacy",

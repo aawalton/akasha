@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const daredevil = {
   id: "01a06802-9331-7017-adc1-8d535db36d7b",
-  pageTypeSlug: "show",
   type: "show",
   slug: "daredevil",
   title: "Daredevil",

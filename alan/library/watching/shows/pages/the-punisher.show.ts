@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const thePunisher = {
   id: "01a06802-9333-7000-b8a0-89cec056daea",
-  pageTypeSlug: "show",
   type: "show",
   slug: "the-punisher",
   title: "The Punisher",

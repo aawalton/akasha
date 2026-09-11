@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const stargateInfinity = {
   id: "01a06802-9332-7038-a82f-1ea307d778f3",
-  pageTypeSlug: "show",
   type: "show",
   slug: "stargate-infinity",
   title: "Stargate Infinity",

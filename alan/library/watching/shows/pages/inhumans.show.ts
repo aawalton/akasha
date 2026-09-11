@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const inhumans = {
   id: "01a06802-9332-7002-a616-7758e81e4777",
-  pageTypeSlug: "show",
   type: "show",
   slug: "inhumans",
   title: "Inhumans",

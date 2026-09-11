@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const strangerThings = {
   id: "01a06802-9332-703d-9427-f3f98f74053c",
-  pageTypeSlug: "show",
   type: "show",
   slug: "stranger-things",
   title: "Stranger Things",

@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const starTrekDiscoverySeason5 = {
   id: "01a06802-b8bc-7051-a684-bd6992f50ef6",
-  pageTypeSlug: "season",
   type: "season",
   slug: "star-trek-discovery-season-5",
   title: "Star Trek: Discovery Season 5",

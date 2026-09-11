@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const xMen97Season1 = {
   id: "01a06802-b8c0-7021-a994-cb39b4ce8dc4",
-  pageTypeSlug: "season",
   type: "season",
   slug: "x-men-97-season-1",
   title: "X-Men '97 Season 1",

@@ -2,7 +2,6 @@ import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.
 
 export const epicTheMusical = {
   id: "01a06803-676b-700f-b172-404ed94c6bfa",
-  pageTypeSlug: "artist",
   type: "artist",
   slug: "epic-the-musical",
   title: "Epic: The Musical",

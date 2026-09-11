@@ -2,7 +2,6 @@ import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.
 
 export const ellaHenderson = {
   id: "01a06803-676b-700a-a77e-a948cdd9af97",
-  pageTypeSlug: "artist",
   type: "artist",
   slug: "ella-henderson",
   title: "Ella Henderson",

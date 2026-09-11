@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const squidGameSeason2 = {
   id: "01a06802-b8bc-7043-a021-7678efe1fff5",
-  pageTypeSlug: "season",
   type: "season",
   slug: "squid-game-season-2",
   title: "Squid Game Season 2",

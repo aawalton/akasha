@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const swordArtOnlineAlternativeGunGaleOnlineS00 = {
   id: "019ea442-9190-7d67-b80a-8e8986199b6f",
-  pageTypeSlug: "season",
   type: "season",
   slug: "sword-art-online-alternative-gun-gale-online-s00",
   title: "Specials",

@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const eyesOfWakanda = {
   id: "01a06802-9331-7024-990e-898979aaa7e3",
-  pageTypeSlug: "show",
   type: "show",
   slug: "eyes-of-wakanda",
   title: "Eyes of Wakanda",

@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const starWarsAndorSpecials = {
   id: "01a06802-b8bd-702a-ab59-1160a3ae26e5",
-  pageTypeSlug: "season",
   type: "season",
   slug: "star-wars-andor-specials",
   title: "Star Wars: Andor Specials",

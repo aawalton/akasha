@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const ahsoka = {
   id: "01a06802-9331-7004-bb3e-0cc318b540b4",
-  pageTypeSlug: "show",
   type: "show",
   slug: "ahsoka",
   title: "Ahsoka",

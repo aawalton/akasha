@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const theSarahJaneAdventures = {
   id: "01a06802-9333-7002-baa3-013325e48f15",
-  pageTypeSlug: "show",
   type: "show",
   slug: "the-sarah-jane-adventures",
   title: "The Sarah Jane Adventures",

@@ -2,7 +2,6 @@ import type { Show } from "akasha/alan/library/watching/shows/show.page-type.typ
 
 export const starTrekLowerDecks = {
   id: "01a06802-9332-702a-87a1-cd80caa0b049",
-  pageTypeSlug: "show",
   type: "show",
   slug: "star-trek-lower-decks",
   title: "Star Trek: Lower Decks",

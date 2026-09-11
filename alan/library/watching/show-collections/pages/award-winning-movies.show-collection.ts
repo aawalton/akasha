@@ -2,7 +2,6 @@ import type { ShowCollection } from "akasha/alan/library/watching/show-collectio
 
 export const awardWinningMovies = {
   id: "01a06808-6a77-7001-9952-6ee2f1f82888",
-  pageTypeSlug: "show-collection",
   type: "show-collection",
   slug: "award-winning-movies",
   title: "Award-winning Movies",

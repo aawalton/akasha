@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const onePieceSeason12 = {
   id: "01a06802-b8bb-7046-ad64-659cafb3fa5d",
-  pageTypeSlug: "season",
   type: "season",
   slug: "one-piece-season-12",
   title: "One Piece Season 12",

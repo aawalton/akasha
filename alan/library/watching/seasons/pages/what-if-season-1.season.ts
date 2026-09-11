@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const whatIfSeason1 = {
   id: "01a06802-b8c0-7018-93a1-e24f8bcdbbc0",
-  pageTypeSlug: "season",
   type: "season",
   slug: "what-if-season-1",
   title: "What If...? Season 1",

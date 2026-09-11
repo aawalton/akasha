@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const thirdRockFromTheSunSeason6 = {
   id: "01a06802-b8b7-7005-86cd-af57ca21df36",
-  pageTypeSlug: "season",
   type: "season",
   slug: "third-rock-from-the-sun-season-6",
   title: "3rd Rock from the Sun Season 6",

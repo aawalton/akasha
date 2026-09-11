@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const studioCSeason15 = {
   id: "01a06802-b8be-701a-9230-2785a6b960fd",
-  pageTypeSlug: "season",
   type: "season",
   slug: "studio-c-season-15",
   title: "Studio C Season 15",

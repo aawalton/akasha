@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const k9Season1 = {
   id: "01a06802-b8ba-702d-9997-187334236ada",
-  pageTypeSlug: "season",
   type: "season",
   slug: "k-9-season-1",
   title: "K-9 Season 1",

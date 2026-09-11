@@ -2,7 +2,6 @@ import type { Season } from "akasha/alan/library/watching/seasons/season.page-ty
 
 export const starTrekEnterpriseSpecials = {
   id: "01a06802-b8bd-7002-8320-63edc6a593e4",
-  pageTypeSlug: "season",
   type: "season",
   slug: "star-trek-enterprise-specials",
   title: "Star Trek: Enterprise Specials",
