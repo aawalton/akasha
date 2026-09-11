@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type FoodEntryNote = "txt"
-
 export const foodEntryNote = {
   id: "01a065a3-6e8b-7a46-8d82-d17125d32225",
   pageTypeSlug: "file-property",
@@ -10,4 +8,5 @@ export const foodEntryNote = {
   propertySlug: "note",
   definition: "what was eaten and how a food entry's figures were worked out",
   extensions: ["txt"],
+  types: "ts",
 } as const satisfies FileProperty

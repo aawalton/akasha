@@ -12,7 +12,7 @@ import type { Handle } from "akasha/alan/chess/games/properties/handle.text-prop
 import type { Lesson } from "akasha/alan/chess/games/properties/lesson.text-property.types.ts"
 import type { OpeningEco } from "akasha/alan/chess/games/properties/opening-eco.text-property.types.ts"
 import type { OpeningName } from "akasha/alan/chess/games/properties/opening-name.text-property.types.ts"
-import type { Pgn } from "akasha/alan/chess/games/properties/pgn.file-property.ts"
+import type { Pgn } from "akasha/alan/chess/games/properties/pgn.file-property.types.ts"
 import type { PlayerColor } from "akasha/alan/chess/games/properties/player-color.select-property.types.ts"
 import type { Ply } from "akasha/alan/chess/games/properties/ply.number-property.types.ts"
 import type { Rated } from "akasha/alan/chess/games/properties/rated.boolean-property.types.ts"

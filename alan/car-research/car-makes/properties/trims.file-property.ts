@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type Trims = "jsonl"
-
 export const trims = {
   id: "01a0659e-e27e-78a9-bf4d-aa931e9a9cf8",
   pageTypeSlug: "file-property",
@@ -10,4 +8,5 @@ export const trims = {
   propertySlug: "trims",
   definition: "every trim of every model year the make sells",
   extensions: ["jsonl"],
+  types: "ts",
 } as const satisfies FileProperty

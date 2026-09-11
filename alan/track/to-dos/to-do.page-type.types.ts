@@ -10,7 +10,7 @@ import type { ToDoPriority } from "akasha/alan/track/to-dos/properties/to-do-pri
 import type { ToDoRecurrence } from "akasha/alan/track/to-dos/properties/to-do-recurrence.text-property.types.ts"
 import type { ToDoSortOrder } from "akasha/alan/track/to-dos/properties/to-do-sort-order.number-property.types.ts"
 import type { ToDoValue } from "akasha/alan/track/to-dos/properties/to-do-value.relation-property.types.ts"
-import type { WhatItTakes } from "akasha/alan/track/to-dos/properties/what-it-takes.file-property.ts"
+import type { WhatItTakes } from "akasha/alan/track/to-dos/properties/what-it-takes.file-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 

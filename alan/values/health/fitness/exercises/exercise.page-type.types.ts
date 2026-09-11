@@ -10,7 +10,7 @@ import type { GripDemand } from "akasha/alan/values/health/fitness/exercises/pro
 import type { ImageEndUrl } from "akasha/alan/values/health/fitness/exercises/properties/image-end-url.url-property.types.ts"
 import type { ImageStartUrl } from "akasha/alan/values/health/fitness/exercises/properties/image-start-url.url-property.types.ts"
 import type { ImplementCount } from "akasha/alan/values/health/fitness/exercises/properties/implement-count.number-property.types.ts"
-import type { Instructions } from "akasha/alan/values/health/fitness/exercises/properties/instructions.file-property.ts"
+import type { Instructions } from "akasha/alan/values/health/fitness/exercises/properties/instructions.file-property.types.ts"
 import type { IsBallistic } from "akasha/alan/values/health/fitness/exercises/properties/is-ballistic.boolean-property.types.ts"
 import type { Laterality } from "akasha/alan/values/health/fitness/exercises/properties/laterality.select-property.types.ts"
 import type { LoadFactor } from "akasha/alan/values/health/fitness/exercises/properties/load-factor.number-property.types.ts"

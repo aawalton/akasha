@@ -1,7 +1,7 @@
 import type { KeptBy } from "akasha/alan/authoring/book-records/properties/kept-by.text-property.types.ts"
 import type { RecordBookSlug } from "akasha/alan/authoring/book-records/properties/record-book-slug.text-property.types.ts"
 import type { RecordBrief } from "akasha/alan/authoring/book-records/properties/record-brief.text-property.types.ts"
-import type { Writing } from "akasha/alan/authoring/book-records/properties/writing.file-property.ts"
+import type { Writing } from "akasha/alan/authoring/book-records/properties/writing.file-property.types.ts"
 import type { Definition } from "akasha/domains/properties/definition.standard-agent-english-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { Title } from "akasha/pages/properties/title.text-property.types.ts"

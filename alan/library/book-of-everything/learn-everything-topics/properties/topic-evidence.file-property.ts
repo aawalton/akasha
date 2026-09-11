@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type TopicEvidence = "md"
-
 export const topicEvidence = {
   id: "01a0659f-93da-700d-ae61-1d400bcdb7ff",
   pageTypeSlug: "file-property",
@@ -10,4 +8,5 @@ export const topicEvidence = {
   propertySlug: "topic-evidence",
   definition: "the probes of a topic Alan cleared and the ones he did not",
   extensions: ["md"],
+  types: "ts",
 } as const satisfies FileProperty

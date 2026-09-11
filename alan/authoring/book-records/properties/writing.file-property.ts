@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type Writing = "md"
-
 export const writing = {
   id: "01a0657d-b91d-7400-8d2e-61275a1db1c9",
   pageTypeSlug: "file-property",
@@ -20,4 +18,5 @@ export const writing = {
       statement: "A document is kept here as the markdown the document was written in.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

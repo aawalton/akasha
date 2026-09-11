@@ -9,7 +9,7 @@ import type { RelationshipImpact } from "akasha/alan/relating/relationships/prop
 import type { RelationshipInterest } from "akasha/alan/relating/relationships/properties/relationship-interest.number-property.types.ts"
 import type { RelationshipLinkedinUrl } from "akasha/alan/relating/relationships/properties/relationship-linkedin-url.url-property.types.ts"
 import type { RelationshipMetAt } from "akasha/alan/relating/relationships/properties/relationship-met-at.text-property.types.ts"
-import type { RelationshipNotes } from "akasha/alan/relating/relationships/properties/relationship-notes.file-property.ts"
+import type { RelationshipNotes } from "akasha/alan/relating/relationships/properties/relationship-notes.file-property.types.ts"
 import type { RelationshipPhone } from "akasha/alan/relating/relationships/properties/relationship-phone.phone-number-property.types.ts"
 import type { RelationshipRole } from "akasha/alan/relating/relationships/properties/relationship-role.text-property.types.ts"
 import type { RelationshipSmsAllowed } from "akasha/alan/relating/relationships/properties/relationship-sms-allowed.boolean-property.types.ts"

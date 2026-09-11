@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type WhatTried = "txt"
-
 export const whatTried = {
   id: "01a0685d-b81f-7f8e-8a19-41a2bcc1be19",
   pageTypeSlug: "file-property",
@@ -16,4 +14,5 @@ export const whatTried = {
       statement: "This file has the garments themselves rather than how those garments came out.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

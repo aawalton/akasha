@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type EyeRead = "txt"
-
 export const eyeRead = {
   id: "01a0685d-b81f-7e55-a063-f0493086a225",
   pageTypeSlug: "file-property",
@@ -16,4 +14,5 @@ export const eyeRead = {
       statement: "An eye read is the persona's reading rather than Alan's.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

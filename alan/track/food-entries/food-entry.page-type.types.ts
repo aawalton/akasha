@@ -1,5 +1,5 @@
 import type { EstimatedCalories } from "akasha/alan/track/food-entries/properties/estimated-calories.number-property.types.ts"
-import type { FoodEntryNote } from "akasha/alan/track/food-entries/properties/food-entry-note.file-property.ts"
+import type { FoodEntryNote } from "akasha/alan/track/food-entries/properties/food-entry-note.file-property.types.ts"
 import type { HappenedAt } from "akasha/alan/track/food-entries/properties/happened-at.instant-property.types.ts"
 import type { PlantGrams } from "akasha/alan/track/food-entries/properties/plant-grams.number-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"

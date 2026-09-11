@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type LineSet = "json"
-
 export const lineSet = {
   id: "01a0657f-a729-7826-9473-150f1db12554",
   pageTypeSlug: "file-property",
@@ -16,4 +14,5 @@ export const lineSet = {
       statement: "A grade is joined back onto a line's id.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty

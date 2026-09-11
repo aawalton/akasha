@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type ChapterText = "md"
-
 export const chapterText = {
   id: "01a0658d-fe50-7000-8c31-32dfa5d0bba8",
   pageTypeSlug: "file-property",
@@ -10,4 +8,5 @@ export const chapterText = {
   propertySlug: "chapter-text",
   definition: "the prose a chapter is made of",
   extensions: ["md"],
+  types: "ts",
 } as const satisfies FileProperty

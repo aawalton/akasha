@@ -1,7 +1,5 @@
 import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
-export type FeltRead = "txt"
-
 export const feltRead = {
   id: "01a0685d-b81f-75fb-859d-dbff41d461c4",
   pageTypeSlug: "file-property",
@@ -16,4 +14,5 @@ export const feltRead = {
       statement: "A felt read is Alan's own rather than the persona's reading of Alan.",
     },
   ],
+  types: "ts",
 } as const satisfies FileProperty
