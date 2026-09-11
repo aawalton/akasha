@@ -7,6 +7,7 @@ import {
   readAgentSettingsBase,
   refreshedSettings,
 } from "akasha/seat-system/supervising/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const JSON_FLAG = "--json"
 
@@ -87,7 +88,7 @@ export function refreshedAt(path: string, base: Record<string, unknown>): Row {
 export async function seatRefreshSettings(argv: readonly string[]): Promise<Answer> {
   const stray = argv.filter((one) => one !== JSON_FLAG)
   if (stray.length > 0) {
-    const said = stray.map((one) => `\`${one}\``).join(", ")
+    const said = namesDrawn(stray)
     return {
       report: [],
       refusals: [`this takes \`${JSON_FLAG}\` and nothing else, and ${said} was said`],
