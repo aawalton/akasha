@@ -35,5 +35,39 @@ export const memoryLimit = {
       invariantKind: "gap",
       statement: "Every limit a host holds is stated in one place.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A limit has a level that throttles and a level that ends.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The level that throttles is reached before the level that ends.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A limit reached ends every process under the thing limited at once.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A runtime's own ceiling is below the limit reaching the program that runtime runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A ceiling on one worker bounds nothing without a ceiling on how many workers run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A limit states a ceiling for swap as well as for memory.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The memory a host keeps for itself is taken out before anything else is limited.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Every limit is set from a measured peak rather than chosen.",
+    },
   ],
 } as const satisfies Domain
