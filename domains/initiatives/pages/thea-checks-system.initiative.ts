@@ -31,7 +31,7 @@ export const theaChecksSystem = {
     {
       statement: "No gap invariant is written on checks-system or any part beneath it.",
       workingMemory:
-        "6 in play, from 31; 9 more sit on experimental pages and are out of scope. Five went today. change-walking's could never close: every check reading through it would refuse non-text. Two on no-rule-in-two-files were a migration the index refresh finished. popover's contradicted two departures on check.domain. typecheck's was true and untested; orphanedIn tells the two indexes apart. Of the six left, two cannot close, one is Alan's, and three mean reshaping the runner or what counts as an input.",
+        "5 in play, from 31; 9 more sit on experimental pages and are out of scope. Six went this stretch. page-matches-its-type's closed by making an entry file an input, which turned up relation-resolves having already written that rule privately, so it folded onto change-walking. Of the five left, two on repository-is-written-by-a-change cannot close, one is Alan's model spend, and two on model-running serve no live case: the one model check states zero runs, so it never runs.",
     },
   ],
   constraints: [
