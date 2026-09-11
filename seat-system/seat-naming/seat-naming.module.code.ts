@@ -1,4 +1,6 @@
 import { slugOf } from "akasha/pages/value/page-value.module.code.ts"
+import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
+import { stated } from "akasha/utils/narrow/stated/stated.module.code.ts"
 import { seat } from "../seats/seat.page-type.ts"
 
 export const JOINER = "-"
@@ -43,18 +45,8 @@ export const SEAT_NAMING: SeatNaming = {
   namedByPersona: NAMED_BY_PERSONA,
 }
 
-function stated(value: string | null): string | null {
-  return value === "" ? null : value
-}
-
-function parseFlexCapture(found: RegExpExecArray | null): string | null {
-  if (found === null) return null
-  const held = found[1]
-  return held === undefined ? null : held
-}
-
 export function flexInName(name: string): string | null {
-  return parseFlexCapture(FLEX_HELD.exec(name))
+  return firstCapture(FLEX_HELD.exec(name))
 }
 
 function segments(nameable: NameableSeat, naming: SeatNaming): readonly (string | null)[] {

@@ -1,0 +1,3 @@
+export function stated(value: string | null): string | null {
+  return value === "" ? null : value
+}

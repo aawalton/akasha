@@ -3,6 +3,7 @@ import {
   answeredByOf,
   peopleStanding,
 } from "akasha/persons/person-reading/person-reading.module.code.ts"
+import { stated } from "akasha/utils/narrow/stated/stated.module.code.ts"
 import { personaIsDefault } from "../seat-resolve/seat-resolve.module.code.ts"
 
 export const JOINER = "-"
@@ -56,10 +57,6 @@ export function personaDefaultsOf(root: string, persona: string): PersonaDefault
 
 export function identityHeardFrom(root: string, person: string): string | null {
   return answeredByOf(root, person)
-}
-
-function stated(value: string | null): string | null {
-  return value === "" ? null : value
 }
 
 function spelling(seat: NameableSeat, root: string): readonly (string | null)[] {
