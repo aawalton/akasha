@@ -9,9 +9,9 @@ import {
   BATCH_SIZE,
   ITEM_LINK_TEMPLATE,
   MAX_CONSECUTIVE_MISSES,
-} from "../datamining-constants/datamining-constants.module.code.ts"
-import { startQuestMining } from "../datamining-quest-miner/datamining-quest-miner.module.code.ts"
-import { getSavedVariables } from "../datamining-saved-variables/datamining-saved-variables.module.code.ts"
+} from "akasha/temper/capture-datamining-addon/datamining-constants/datamining-constants.module.code.ts"
+import { startQuestMining } from "akasha/temper/capture-datamining-addon/datamining-quest-miner/datamining-quest-miner.module.code.ts"
+import { getSavedVariables } from "akasha/temper/capture-datamining-addon/datamining-saved-variables/datamining-saved-variables.module.code.ts"
 export let currentGeneration = 0
 
 export function createItemLink(itemId: number): string {

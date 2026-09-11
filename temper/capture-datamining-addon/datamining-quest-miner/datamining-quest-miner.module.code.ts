@@ -4,8 +4,8 @@ import {
   QUEST_BATCH_DELAY,
   QUEST_BATCH_SIZE,
   QUEST_MAX_CONSECUTIVE_MISSES,
-} from "../datamining-constants/datamining-constants.module.code.ts"
-import { getSavedVariables } from "../datamining-saved-variables/datamining-saved-variables.module.code.ts"
+} from "akasha/temper/capture-datamining-addon/datamining-constants/datamining-constants.module.code.ts"
+import { getSavedVariables } from "akasha/temper/capture-datamining-addon/datamining-saved-variables/datamining-saved-variables.module.code.ts"
 export let questCurrentGeneration = 0
 
 export function captureQuestData(questId: number): MinedQuestEntry | undefined {
