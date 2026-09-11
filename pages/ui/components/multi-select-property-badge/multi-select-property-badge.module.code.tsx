@@ -3,18 +3,12 @@
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { useBadgeLayoutContext } from "akasha/design/interfaces/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { getOptions } from "akasha/pages/core/property-types/multi-select-property/multi-select-property.module.code.ts"
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
-import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
-import { multiSelectConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
-import type { SelectOption } from "akasha/pages/core/schema/select-option-create/select-option-create.module.code.ts"
 import { MultiSelectPopover } from "akasha/pages/ui/components/multi-select-popover/multi-select-popover.module.code.tsx"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
 import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
-
-function getOptions(definition: PropertyDefinition): readonly SelectOption[] {
-  return parseConfig(multiSelectConfigSchema, definition.config, { options: [] }).options
-}
 
 function getValueArray(value: PropertyValue): readonly string[] {
   if (!Array.isArray(value)) return []

@@ -10,7 +10,7 @@ import type {
 } from "../property-type-ops/property-type-ops.module.code.ts"
 import { findOption, type OptionLike } from "../select/select.module.code.ts"
 
-function getOptions(definition: PropertyDefinition): readonly OptionLike[] {
+export function getOptions(definition: PropertyDefinition): readonly OptionLike[] {
   return parseConfig(multiSelectConfigSchema, definition.config, { options: [] }).options
 }
 
