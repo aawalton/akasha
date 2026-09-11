@@ -8,7 +8,6 @@ import {
   asUnknownArray,
   asUpdateChoicesFn,
   asZoComboBoxItem,
-  asZoComboBoxRow,
 } from "../addon-menu-casts/addon-menu-casts.module.code.ts"
 import { WIDGET_VERSION } from "../addon-menu-constants/addon-menu-constants.module.code.ts"
 import { LAMCC, registerWidget, wm } from "../addon-menu-state/addon-menu-state.module.code.ts"
@@ -20,13 +19,13 @@ import type {
 import {
   createLabelAndContainerControl,
   getDefaultValue,
-  getStringFromValue,
   registerForRefreshIfNeeded,
   registerForReloadIfNeeded,
   requestRefreshIfNeeded,
   updateWarning,
 } from "../addon-menu-util/addon-menu-util.module.code.ts"
 import { setDropdownHeight } from "../addon-menu-widget-dropdown-scroll/addon-menu-widget-dropdown-scroll.module.code.ts"
+import { setupTooltips } from "../addon-menu-widget-dropdown-tooltips/addon-menu-widget-dropdown-tooltips.module.code.ts"
 
 const SORT_BY_VALUE: Record<string, unknown> = { value: {} }
 const SORT_BY_VALUE_NUMERIC: Record<string, unknown> = { value: { isNumeric: true } }
@@ -135,48 +134,6 @@ function dropdownCallback(this: void, ...args: unknown[]): undefined {
   if (updateFn !== undefined) {
     updateFn.call(choiceControl, false, updateValue)
   }
-}
-
-function doShowTooltip(
-  this: void,
-  control: Control,
-  tooltip: Valued<string | number> | undefined
-): undefined {
-  if (tooltip === undefined) {
-    return
-  }
-  const tooltipText = getStringFromValue(tooltip)
-  if (tooltipText !== "") {
-    InitializeTooltip(InformationTooltip, control, TOPLEFT, 0, 0, BOTTOMRIGHT)
-    SetTooltipText(InformationTooltip, tostring(tooltipText))
-    InformationTooltipTopLevel.BringWindowToTop()
-  }
-}
-
-function showTooltip(this: void, control: ZoComboBoxRow): undefined {
-  doShowTooltip(control, control.dataEntry?.data?.tooltip)
-}
-
-function hideTooltip(this: void): undefined {
-  ClearTooltip(InformationTooltip)
-}
-
-function setupTooltips(this: void, comboBox: ZoComboBox): undefined {
-  SecurePostHook(
-    asControl(ZO_ComboBoxDropdown_Keyboard),
-    "OnEntryMouseEnter",
-    (...args: never[]) => {
-      const comboBoxRowCtrl = asZoComboBoxRow(args[0])
-      const lComboBox = comboBoxRowCtrl.m_owner
-      if (lComboBox !== undefined && lComboBox === comboBox) {
-        showTooltip(comboBoxRowCtrl)
-      }
-    }
-  )
-
-  SecurePostHook(asControl(ZO_ComboBoxDropdown_Keyboard), "OnEntryMouseExit", () => {
-    hideTooltip()
-  })
 }
 
 function setSelectedFromChoices(

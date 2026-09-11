@@ -44,6 +44,7 @@ export const temperLibAddonMenu = {
     "type-declaration/addon-menu-eso-window",
     "type-declaration/addon-menu-logger",
     "type-declaration/addon-menu-string-ids",
+    "module/addon-menu-widget-dropdown-tooltips",
   ],
   invariants: [
     {
