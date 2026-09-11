@@ -19,7 +19,7 @@ export const awenPageFoldersByIndex = {
       statement:
         "No page's code lists a folder off disk where the index answers the pages in that folder.",
       workingMemory:
-        "The tell was run over the tree rather than reasoned about: a page's code that both calls a listing and holds a plain literal naming a page-type file-name tail the index answers a file for. That catches 6 of 71 files with no false positive, so it needs no exemption property and no ratchet over 67 files. It must stay off a page's test, where it wrongly catches invented scratch pages. Nimue holds the decision code, so the widening is not drafted.",
+        "The widening landed as 265b39c3 and was measured over the tree rather than read: a page's code that both lists and holds a plain literal naming a page-type file-name tail the index answers a file for. The audit gives 331 refusals, of which exactly 6 are this rule, over 5 files — the set predicted, less web-app-reading which 3c66705f converted. No exemption property was needed. It stays off a page's test, where it wrongly catches invented scratch pages.",
     },
   ],
 } as const satisfies Initiative
