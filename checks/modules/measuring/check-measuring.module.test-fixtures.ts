@@ -1,3 +1,4 @@
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   nothingFiled,
   valueAlsoFiled,
@@ -34,6 +35,8 @@ export const TWO = "01a08071-39a4-7000-9c6b-6cee59d30b20"
 export const THREE = "01a08071-39a4-7000-9c6b-6cee59d30b30"
 
 export const DAY_BACK: Chosen = { by: "period", ms: DAY, said: "24h" }
+
+export const scratch = scratchWorld()
 
 export function agoOf(ms: number): string {
   return new Date(NOW - ms).toISOString()
@@ -84,6 +87,10 @@ export function rowsInto(
     put(root, partAt(check, part, under), `${rows.map(lineOf).join("\n")}\n`)
   }
   return root
+}
+
+export function rootWith(held: Record<string, readonly Record<string, unknown>[]>): string {
+  return rowsInto(scratch.rootFor("check-measuring-"), held)
 }
 
 export function rowsBeside(

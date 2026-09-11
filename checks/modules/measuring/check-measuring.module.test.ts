@@ -1,5 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   bytesAs,
   costOf,
@@ -31,10 +30,12 @@ import {
   NOW,
   ONE,
   RULED,
+  rootWith,
   rowsBeside,
   rowsInto,
   ruledRoot,
   SHA,
+  scratch,
   spacedOnce,
   TALLIED,
   THREE,
@@ -43,13 +44,7 @@ import {
   WITHIN,
 } from "./check-measuring.module.test-fixtures.ts"
 
-const scratch = scratchWorld()
-
 afterAll(scratch.sweep)
-
-function rootWith(held: Record<string, readonly Record<string, unknown>[]>): string {
-  return rowsInto(scratch.rootFor("check-measuring-"), held)
-}
 
 test("an average is what the runs took together shared out over how many there were", () => {
   expect(meanOf([1, 2, 9])).toBe(4)
