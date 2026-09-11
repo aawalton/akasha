@@ -22,7 +22,13 @@ function textList(value: unknown): readonly string[] | null {
   return out
 }
 
-const TEXT_SLOTS: Readonly<Record<string, string>> = {
+type Building = { -readonly [K in keyof Test]: Test[K] }
+
+type TextKey = "is" | "has" | "endsWith" | "atOrAfter" | "before"
+
+type ListKey = "in" | "notIn" | "contains"
+
+const TEXT_SLOTS: Readonly<Record<string, TextKey>> = {
   is: "is",
   has: "has",
   "ends-with": "endsWith",
@@ -30,7 +36,7 @@ const TEXT_SLOTS: Readonly<Record<string, string>> = {
   before: "before",
 }
 
-const LIST_SLOTS: Readonly<Record<string, string>> = {
+const LIST_SLOTS: Readonly<Record<string, ListKey>> = {
   in: "in",
   "not-in": "notIn",
   contains: "contains",
@@ -40,7 +46,7 @@ export function testOf(key: string, value: unknown): Test | null {
   const flat = scalarText(value)
   if (flat !== null) return { key, is: flat }
   if (typeof value !== "object" || value === null || Array.isArray(value)) return null
-  const test: Record<string, unknown> = { key }
+  const test: Building = { key }
   for (const [slot, stated] of Object.entries(value as Record<string, unknown>)) {
     const asText = TEXT_SLOTS[slot]
     if (asText !== undefined) {
@@ -60,7 +66,7 @@ export function testOf(key: string, value: unknown): Test | null {
     if (stated !== true && stated !== false && stated !== "true" && stated !== "false") return null
     test.empty = stated === true || stated === "true"
   }
-  return Object.keys(test).length === 1 ? null : (test as unknown as Test)
+  return Object.keys(test).length === 1 ? null : test
 }
 
 export interface Narrowed {
