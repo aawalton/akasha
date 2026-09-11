@@ -1,7 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { bodyAt, bytesAt, filedAmong, filedValue } from "./page-file-body.module.code.ts"
+import {
+  bodyAt,
+  bytesAt,
+  filedAmong,
+  filedValue,
+} from "akasha/pages/file-body/page-file-body.module.code.ts"
 
 const PORTRAIT = { key: "portrait", propertySlug: "portrait", pageTypeSlug: "file-property" }
 
