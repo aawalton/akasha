@@ -1,7 +1,7 @@
 import type {
   Observation,
   SweepObservation,
-} from "../seat-observations/seat-observations.module.code.ts"
+} from "akasha/code-system/editor/extension/seat-observations/seat-observations.module.code.ts"
 
 export type ObservationPatch = Omit<Observation, "at">
 
