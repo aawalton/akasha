@@ -28,5 +28,10 @@ export const astraIndexCleanup = {
     { statement: "`.git/harness-push` is gone." },
     { statement: "`.git/pages` is gone." },
     { statement: "`.git/pages-answers` is gone." },
+    {
+      statement: "Alan holds the parse cache's structure correct.",
+      workingMemory:
+        "`.git/cache/parse` is 512 files at 150 MB, keyed by a digest, with a second generation beside each under `-shape-2`. `domains/plain-language/parse-cache/parse-cache.module.code.ts` writes it.",
+    },
   ],
 } as const satisfies Initiative
