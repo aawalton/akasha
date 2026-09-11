@@ -4,8 +4,8 @@ import { companionSkills } from "akasha/temper/companions-core/companion-skills/
 import { companionTraits } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import { bitsNeeded } from "akasha/utils/narrow/bits-needed/bits-needed.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
-import { bitsNeeded } from "../../../utils/narrow/bits-needed/bits-needed.module.code.ts"
 
 export const companionIds = companions.ids
 
