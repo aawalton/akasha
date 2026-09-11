@@ -1,4 +1,5 @@
 import { summarizePool } from "akasha/agents/claude-accounts/modules/selection/claude-account-selection.module.code.ts"
+import { readOwnTranscriptTail } from "akasha/agents/io-probe/io-probe.module.code.ts"
 import { pacingIn } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import type { AccountState } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
@@ -7,7 +8,6 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { readOwnTranscriptTail } from "akasha/seat-system/io-probe/io-probe.module.code.ts"
 import {
   type AskDecide,
   askLimitResume,

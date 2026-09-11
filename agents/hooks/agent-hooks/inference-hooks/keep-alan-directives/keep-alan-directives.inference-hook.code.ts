@@ -8,6 +8,7 @@ import {
   SCOPE_FLAG,
   said,
 } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
+import { readOwnTranscriptTail } from "akasha/agents/io-probe/io-probe.module.code.ts"
 import { endsYes } from "akasha/agents/models/modules/answer/model-answer.module.code.ts"
 import {
   directiveKept,
@@ -29,7 +30,6 @@ import {
   lastAskedIn,
   lastSaidIn,
 } from "akasha/seat-system/agent-last-said/agent-last-said.module.code.ts"
-import { readOwnTranscriptTail } from "akasha/seat-system/io-probe/io-probe.module.code.ts"
 import {
   anyLiveShell,
   type TurnWorking,
