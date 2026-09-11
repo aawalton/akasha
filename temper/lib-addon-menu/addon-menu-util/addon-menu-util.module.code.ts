@@ -5,7 +5,7 @@ import {
   asLamControl,
   asThunk,
   asTooltipHostControl,
-} from "../addon-menu-casts/addon-menu-casts.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-casts/addon-menu-casts.module.code.ts"
 import {
   FAQ_ICON_MOUSE_EXIT_ALPHA,
   FAQ_ICON_MOUSE_OVER_ALPHA,
@@ -14,15 +14,20 @@ import {
   HALF_WIDTH_LINE_SPACING,
   LAM_CONFIRM_DIALOG,
   MIN_HEIGHT,
-} from "../addon-menu-constants/addon-menu-constants.module.code.ts"
-import { cm, controlsForReload, lam, wm } from "../addon-menu-state/addon-menu-state.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-constants/addon-menu-constants.module.code.ts"
+import {
+  cm,
+  controlsForReload,
+  lam,
+  wm,
+} from "akasha/temper/lib-addon-menu/addon-menu-state/addon-menu-state.module.code.ts"
 import type {
   LamControl,
   LamWidgetData,
   TooltipData,
   Valued,
-} from "../addon-menu-types/addon-menu-types.module.code.ts"
-import { L } from "../addon-menu-ui-strings/addon-menu-ui-strings.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-types/addon-menu-types.module.code.ts"
+import { L } from "akasha/temper/lib-addon-menu/addon-menu-ui-strings/addon-menu-ui-strings.module.code.ts"
 
 const FAQ_ICON_COLOR = ZO_ColorDef.New("FFFFFF")
 const FAQ_ICON_MOUSE_OVER_COLOR = ZO_ColorDef.New("B8B8D3")

@@ -10,7 +10,7 @@ import type {
   PanelData,
   SliderData,
   TooltipHostControl,
-} from "../addon-menu-types/addon-menu-types.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-types/addon-menu-types.module.code.ts"
 
 export type Thunk<T> = (this: void) => T
 

@@ -282,7 +282,7 @@ export interface AddonListData {
 }
 
 export interface LamUtil {
-  L: import("../addon-menu-ui-strings/addon-menu-ui-strings.module.code.ts").LamStrings
+  L: import("akasha/temper/lib-addon-menu/addon-menu-ui-strings/addon-menu-ui-strings.module.code.ts").LamStrings
   GetTooltipText: (this: void, value: Valued<string | number>) => string | number
   GetStringFromValue: (this: void, value: Valued<string | number>) => string | number
   GetDefaultValue: <T>(this: void, value: Valued<T>) => T

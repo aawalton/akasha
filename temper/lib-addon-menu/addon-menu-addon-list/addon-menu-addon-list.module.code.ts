@@ -1,16 +1,20 @@
-import { parseLuaCapture } from "akasha/temper/narrow/parse-lua-capture/parse-lua-capture.module.code.ts"
 import {
   asAddonListData,
   asEsoHandler,
   asSelectableLabelControl,
   asSoundName,
-} from "../addon-menu-casts/addon-menu-casts.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-casts/addon-menu-casts.module.code.ts"
 import {
   ADDON_DATA_TYPE,
   RESELECTING_DURING_REBUILD,
-} from "../addon-menu-constants/addon-menu-constants.module.code.ts"
-import { ADDONS_FOR_LIST, lam, wm } from "../addon-menu-state/addon-menu-state.module.code.ts"
-import type { AddonListData } from "../addon-menu-types/addon-menu-types.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-constants/addon-menu-constants.module.code.ts"
+import {
+  ADDONS_FOR_LIST,
+  lam,
+  wm,
+} from "akasha/temper/lib-addon-menu/addon-menu-state/addon-menu-state.module.code.ts"
+import type { AddonListData } from "akasha/temper/lib-addon-menu/addon-menu-types/addon-menu-types.module.code.ts"
+import { parseLuaCapture } from "akasha/temper/narrow/parse-lua-capture/parse-lua-capture.module.code.ts"
 
 export function scrollDataIntoView(
   this: void,

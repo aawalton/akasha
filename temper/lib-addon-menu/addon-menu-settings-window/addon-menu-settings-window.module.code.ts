@@ -4,7 +4,7 @@ import {
   getSearchFilterFunc,
   populateAddonList,
   scrollDataIntoView,
-} from "../addon-menu-addon-list/addon-menu-addon-list.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"
 import {
   asControl,
   asHookTable,
@@ -14,25 +14,28 @@ import {
   asPanelData,
   asString,
   asZoFadeSceneFragment,
-} from "../addon-menu-casts/addon-menu-casts.module.code.ts"
-import { MAJOR, MINOR } from "../addon-menu-constants/addon-menu-constants.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-casts/addon-menu-casts.module.code.ts"
+import {
+  MAJOR,
+  MINOR,
+} from "akasha/temper/lib-addon-menu/addon-menu-constants/addon-menu-constants.module.code.ts"
 import {
   handleLoadDefaultsPressed,
   handleReloadUIPressed,
   retrievePanelForReopening,
   showReloadDialogIfNeeded,
-} from "../addon-menu-dialogs/addon-menu-dialogs.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-dialogs/addon-menu-dialogs.module.code.ts"
 import {
   flushMessages,
   printLater,
-} from "../addon-menu-messages/addon-menu-messages.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-messages/addon-menu-messages.module.code.ts"
 import {
   closeCurrentPanel,
   initKeybindActions,
   openCurrentPanel,
   showSetHandlerWarning,
   toggleAddonPanels,
-} from "../addon-menu-panel-options/addon-menu-panel-options.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-panel-options/addon-menu-panel-options.module.code.ts"
 import {
   ADDON_TO_OPTIONS_MAP,
   ADDONS_FOR_LIST,
@@ -41,15 +44,15 @@ import {
   lam,
   sm,
   wm,
-} from "../addon-menu-state/addon-menu-state.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-state/addon-menu-state.module.code.ts"
 import type {
   AddonListData,
   Lam,
   LamControl,
   LamWidgetData,
   PanelData,
-} from "../addon-menu-types/addon-menu-types.module.code.ts"
-import { L } from "../addon-menu-ui-strings/addon-menu-ui-strings.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-types/addon-menu-types.module.code.ts"
+import { L } from "akasha/temper/lib-addon-menu/addon-menu-ui-strings/addon-menu-ui-strings.module.code.ts"
 
 let safeToInitialize = false
 let hasInitialized = false

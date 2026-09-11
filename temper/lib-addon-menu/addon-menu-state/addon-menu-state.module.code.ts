@@ -1,10 +1,10 @@
-import { asLam } from "../addon-menu-casts/addon-menu-casts.module.code.ts"
+import { asLam } from "akasha/temper/lib-addon-menu/addon-menu-casts/addon-menu-casts.module.code.ts"
 import type {
   AddonListData,
   Lam,
   Lamcc,
   LamWidgetData,
-} from "../addon-menu-types/addon-menu-types.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-types/addon-menu-types.module.code.ts"
 
 export const wm = WINDOW_MANAGER
 export const em = EVENT_MANAGER

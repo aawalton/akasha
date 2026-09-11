@@ -8,14 +8,18 @@ import {
   asUnknownArray,
   asUpdateChoicesFn,
   asZoComboBoxItem,
-} from "../addon-menu-casts/addon-menu-casts.module.code.ts"
-import { WIDGET_VERSION } from "../addon-menu-constants/addon-menu-constants.module.code.ts"
-import { LAMCC, registerWidget, wm } from "../addon-menu-state/addon-menu-state.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-casts/addon-menu-casts.module.code.ts"
+import { WIDGET_VERSION } from "akasha/temper/lib-addon-menu/addon-menu-constants/addon-menu-constants.module.code.ts"
+import {
+  LAMCC,
+  registerWidget,
+  wm,
+} from "akasha/temper/lib-addon-menu/addon-menu-state/addon-menu-state.module.code.ts"
 import type {
   DropdownData,
   LamControl,
   Valued,
-} from "../addon-menu-types/addon-menu-types.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-types/addon-menu-types.module.code.ts"
 import {
   createLabelAndContainerControl,
   getDefaultValue,
@@ -23,9 +27,9 @@ import {
   registerForReloadIfNeeded,
   requestRefreshIfNeeded,
   updateWarning,
-} from "../addon-menu-util/addon-menu-util.module.code.ts"
-import { setDropdownHeight } from "../addon-menu-widget-dropdown-scroll/addon-menu-widget-dropdown-scroll.module.code.ts"
-import { setupTooltips } from "../addon-menu-widget-dropdown-tooltips/addon-menu-widget-dropdown-tooltips.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-util/addon-menu-util.module.code.ts"
+import { setDropdownHeight } from "akasha/temper/lib-addon-menu/addon-menu-widget-dropdown-scroll/addon-menu-widget-dropdown-scroll.module.code.ts"
+import { setupTooltips } from "akasha/temper/lib-addon-menu/addon-menu-widget-dropdown-tooltips/addon-menu-widget-dropdown-tooltips.module.code.ts"
 
 const SORT_BY_VALUE: Record<string, unknown> = { value: {} }
 const SORT_BY_VALUE_NUMERIC: Record<string, unknown> = { value: { isNumeric: true } }

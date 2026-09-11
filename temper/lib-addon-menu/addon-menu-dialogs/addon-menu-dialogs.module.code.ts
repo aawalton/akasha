@@ -2,16 +2,22 @@ import {
   asEsoDialogDescriptor,
   asGlobalTable,
   asReopenSaveData,
-} from "../addon-menu-casts/addon-menu-casts.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-casts/addon-menu-casts.module.code.ts"
 import {
   LAM_DEFAULTS_DIALOG,
   LAM_RELOAD_DIALOG,
   LAM_SAVED_VARS_KEY,
-} from "../addon-menu-constants/addon-menu-constants.module.code.ts"
-import { controlsForReload, lam } from "../addon-menu-state/addon-menu-state.module.code.ts"
-import type { LamControl } from "../addon-menu-types/addon-menu-types.module.code.ts"
-import { L } from "../addon-menu-ui-strings/addon-menu-ui-strings.module.code.ts"
-import { isSame, refreshReloadUIButton } from "../addon-menu-util/addon-menu-util.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-constants/addon-menu-constants.module.code.ts"
+import {
+  controlsForReload,
+  lam,
+} from "akasha/temper/lib-addon-menu/addon-menu-state/addon-menu-state.module.code.ts"
+import type { LamControl } from "akasha/temper/lib-addon-menu/addon-menu-types/addon-menu-types.module.code.ts"
+import { L } from "akasha/temper/lib-addon-menu/addon-menu-ui-strings/addon-menu-ui-strings.module.code.ts"
+import {
+  isSame,
+  refreshReloadUIButton,
+} from "akasha/temper/lib-addon-menu/addon-menu-util/addon-menu-util.module.code.ts"
 
 function getDefaultsDialog(this: void): EsoDialogDescriptor {
   let dialog = ESO_Dialogs[LAM_DEFAULTS_DIALOG]

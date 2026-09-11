@@ -1,6 +1,9 @@
-import { asControl, asZoComboBoxRow } from "../addon-menu-casts/addon-menu-casts.module.code.ts"
-import type { Valued } from "../addon-menu-types/addon-menu-types.module.code.ts"
-import { getStringFromValue } from "../addon-menu-util/addon-menu-util.module.code.ts"
+import {
+  asControl,
+  asZoComboBoxRow,
+} from "akasha/temper/lib-addon-menu/addon-menu-casts/addon-menu-casts.module.code.ts"
+import type { Valued } from "akasha/temper/lib-addon-menu/addon-menu-types/addon-menu-types.module.code.ts"
+import { getStringFromValue } from "akasha/temper/lib-addon-menu/addon-menu-util/addon-menu-util.module.code.ts"
 
 function doShowTooltip(
   this: void,

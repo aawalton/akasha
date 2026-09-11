@@ -1,13 +1,16 @@
 import {
   asIconControl,
   asIconPickerMenu,
-} from "../addon-menu-casts/addon-menu-casts.module.code.ts"
-import { em, wm } from "../addon-menu-state/addon-menu-state.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-casts/addon-menu-casts.module.code.ts"
+import {
+  em,
+  wm,
+} from "akasha/temper/lib-addon-menu/addon-menu-state/addon-menu-state.module.code.ts"
 import type {
   IconControl,
   IconPickerMenu,
-} from "../addon-menu-types/addon-menu-types.module.code.ts"
-import { getStringFromValue } from "../addon-menu-util/addon-menu-util.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-types/addon-menu-types.module.code.ts"
+import { getStringFromValue } from "akasha/temper/lib-addon-menu/addon-menu-util/addon-menu-util.module.code.ts"
 
 const DEFAULT_SIZE = 28
 

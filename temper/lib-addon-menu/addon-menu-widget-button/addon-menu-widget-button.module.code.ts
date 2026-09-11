@@ -2,14 +2,21 @@ import {
   asEsoHandler,
   asLamFactory,
   asTooltipHostControl,
-} from "../addon-menu-casts/addon-menu-casts.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-casts/addon-menu-casts.module.code.ts"
 import {
   HALF_WIDTH_LINE_SPACING,
   MIN_HEIGHT,
   WIDGET_VERSION,
-} from "../addon-menu-constants/addon-menu-constants.module.code.ts"
-import { LAMCC, registerWidget, wm } from "../addon-menu-state/addon-menu-state.module.code.ts"
-import type { ButtonData, LamControl } from "../addon-menu-types/addon-menu-types.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-constants/addon-menu-constants.module.code.ts"
+import {
+  LAMCC,
+  registerWidget,
+  wm,
+} from "akasha/temper/lib-addon-menu/addon-menu-state/addon-menu-state.module.code.ts"
+import type {
+  ButtonData,
+  LamControl,
+} from "akasha/temper/lib-addon-menu/addon-menu-types/addon-menu-types.module.code.ts"
 import {
   createBaseControl,
   createFAQTexture,
@@ -18,7 +25,7 @@ import {
   requestRefreshIfNeeded,
   showConfirmationDialog,
   updateWarning,
-} from "../addon-menu-util/addon-menu-util.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-util/addon-menu-util.module.code.ts"
 
 function createButton(
   this: void,

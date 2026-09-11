@@ -3,16 +3,19 @@ import {
   asHookTable,
   asLamControl,
   asLamFactory,
-} from "../addon-menu-casts/addon-menu-casts.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-casts/addon-menu-casts.module.code.ts"
 import {
   OPTIONS_CREATED,
   OPTIONS_CREATION_RUNNING,
-} from "../addon-menu-constants/addon-menu-constants.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-constants/addon-menu-constants.module.code.ts"
 import {
   handleLoadDefaultsPressed,
   handleReloadUIPressed,
-} from "../addon-menu-dialogs/addon-menu-dialogs.module.code.ts"
-import { logger, printLater } from "../addon-menu-messages/addon-menu-messages.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-dialogs/addon-menu-dialogs.module.code.ts"
+import {
+  logger,
+  printLater,
+} from "akasha/temper/lib-addon-menu/addon-menu-messages/addon-menu-messages.module.code.ts"
 import {
   ADDON_TO_OPTIONS_MAP,
   cm,
@@ -20,9 +23,12 @@ import {
   lam,
   OPTIONS_STATE,
   wm,
-} from "../addon-menu-state/addon-menu-state.module.code.ts"
-import type { LamControl, LamWidgetData } from "../addon-menu-types/addon-menu-types.module.code.ts"
-import { getStringFromValue } from "../addon-menu-util/addon-menu-util.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-state/addon-menu-state.module.code.ts"
+import type {
+  LamControl,
+  LamWidgetData,
+} from "akasha/temper/lib-addon-menu/addon-menu-types/addon-menu-types.module.code.ts"
+import { getStringFromValue } from "akasha/temper/lib-addon-menu/addon-menu-util/addon-menu-util.module.code.ts"
 
 export function initKeybindActions(this: void): undefined {
   if (lam.keybindsInitialized !== true) {

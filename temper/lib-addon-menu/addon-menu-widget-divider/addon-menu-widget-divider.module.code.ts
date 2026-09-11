@@ -1,8 +1,15 @@
-import { asLamFactory } from "../addon-menu-casts/addon-menu-casts.module.code.ts"
-import { WIDGET_VERSION } from "../addon-menu-constants/addon-menu-constants.module.code.ts"
-import { LAMCC, registerWidget, wm } from "../addon-menu-state/addon-menu-state.module.code.ts"
-import type { DividerData, LamControl } from "../addon-menu-types/addon-menu-types.module.code.ts"
-import { createBaseControl } from "../addon-menu-util/addon-menu-util.module.code.ts"
+import { asLamFactory } from "akasha/temper/lib-addon-menu/addon-menu-casts/addon-menu-casts.module.code.ts"
+import { WIDGET_VERSION } from "akasha/temper/lib-addon-menu/addon-menu-constants/addon-menu-constants.module.code.ts"
+import {
+  LAMCC,
+  registerWidget,
+  wm,
+} from "akasha/temper/lib-addon-menu/addon-menu-state/addon-menu-state.module.code.ts"
+import type {
+  DividerData,
+  LamControl,
+} from "akasha/temper/lib-addon-menu/addon-menu-types/addon-menu-types.module.code.ts"
+import { createBaseControl } from "akasha/temper/lib-addon-menu/addon-menu-util/addon-menu-util.module.code.ts"
 
 const MIN_HEIGHT = 10
 const MAX_HEIGHT = 50

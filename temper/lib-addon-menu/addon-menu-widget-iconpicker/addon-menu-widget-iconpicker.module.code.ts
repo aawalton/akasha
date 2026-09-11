@@ -4,19 +4,24 @@ import {
   asLamComboBox,
   asLamFactory,
   asZoColorDef,
-} from "../addon-menu-casts/addon-menu-casts.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-casts/addon-menu-casts.module.code.ts"
 import {
   HALF_WIDTH_LINE_SPACING,
   MIN_HEIGHT,
   WIDGET_VERSION,
-} from "../addon-menu-constants/addon-menu-constants.module.code.ts"
-import { LAMCC, lam, registerWidget, wm } from "../addon-menu-state/addon-menu-state.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-constants/addon-menu-constants.module.code.ts"
+import {
+  LAMCC,
+  lam,
+  registerWidget,
+  wm,
+} from "akasha/temper/lib-addon-menu/addon-menu-state/addon-menu-state.module.code.ts"
 import type {
   IconPickerMenu,
   IconpickerData,
   LamControl,
   Valued,
-} from "../addon-menu-types/addon-menu-types.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-types/addon-menu-types.module.code.ts"
 import {
   createLabelAndContainerControl,
   getDefaultValue,
@@ -25,8 +30,8 @@ import {
   registerForReloadIfNeeded,
   requestRefreshIfNeeded,
   updateWarning,
-} from "../addon-menu-util/addon-menu-util.module.code.ts"
-import { createIconPickerMenu } from "../addon-menu-widget-iconpicker-menu/addon-menu-widget-iconpicker-menu.module.code.ts"
+} from "akasha/temper/lib-addon-menu/addon-menu-util/addon-menu-util.module.code.ts"
+import { createIconPickerMenu } from "akasha/temper/lib-addon-menu/addon-menu-widget-iconpicker-menu/addon-menu-widget-iconpicker-menu.module.code.ts"
 
 const DEFAULT_SIZE = 28
 
