@@ -261,12 +261,8 @@ export const checking = {
         "A check needing a path the check was not handed reads the change's body rather than the disk's.",
     },
     {
-      invariantKind: "gap",
-      statement: "A check the change adds runs over that change.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A check whose code the change alters runs as the change leaves that code.",
+      invariantKind: "absence",
+      statement: "A check the change adds does not judge that change.",
     },
     {
       invariantKind: "departure",
