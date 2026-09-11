@@ -1,19 +1,20 @@
 import { afterAll, expect, test } from "bun:test"
+import { tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { testsPass } from "./tests-pass.code-check.audit.code.ts"
 import {
   CODE_AT,
   FAILS,
   PASSES,
+  repo,
   scratch,
   TEST_AT,
-  tracked,
   withoutGuard,
 } from "./tests-pass.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 
 test("a repository holding a failing test is refused, and the reason says how many", () => {
-  const root = tracked({ [CODE_AT]: "", [TEST_AT]: FAILS })
+  const root = tracked(repo({ [CODE_AT]: "", [TEST_AT]: FAILS }))
   const said = withoutGuard(() => testsPass(root))
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe(TEST_AT)
@@ -21,6 +22,6 @@ test("a repository holding a failing test is refused, and the reason says how ma
 })
 
 test("a repository whose tests are green is refused by nothing", () => {
-  const root = tracked({ [CODE_AT]: "", [TEST_AT]: PASSES })
+  const root = tracked(repo({ [CODE_AT]: "", [TEST_AT]: PASSES }))
   expect(withoutGuard(() => testsPass(root))).toEqual([])
 })

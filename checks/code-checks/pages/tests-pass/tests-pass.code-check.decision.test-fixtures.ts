@@ -5,7 +5,6 @@ import {
   noPathsFiled,
   pathFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 
 export const PASSES =
@@ -40,13 +39,6 @@ export function repo(files: Record<string, string>): string {
     writeFileSync(at, body)
     pathFiled(root, name, [{ path: name, id: HELD_ID }])
   }
-  return root
-}
-
-export function tracked(files: Record<string, string>): string {
-  const root = repo(files)
-  const done = ran(["git", "-C", root, "init", "-q"])
-  if (done.code !== 0) throw new Error(`no tree was made at ${root} — ${done.err.trim()}`)
   return root
 }
 

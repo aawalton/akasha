@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { requireImportExtension } from "./require-import-extension.code-check.audit.code.ts"
 import {
   AT,
@@ -8,7 +9,6 @@ import {
   rooted,
   SPELLED,
   scratch,
-  tracked,
 } from "./require-import-extension.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)

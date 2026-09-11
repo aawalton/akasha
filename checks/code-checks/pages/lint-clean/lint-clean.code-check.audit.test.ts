@@ -1,17 +1,18 @@
 import { afterAll, expect, test } from "bun:test"
+import { tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { lintClean } from "./lint-clean.code-check.audit.code.ts"
 import {
   CLEAN,
   RULE,
+  repo,
   scratch,
-  tracked,
   UNUSED,
 } from "./lint-clean.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 
 test("an audit judges every file in the tree the linter reads, no change naming one", () => {
-  const root = tracked({ "akasha/one.ts": UNUSED, "akasha/two.ts": CLEAN })
+  const root = tracked(repo({ "akasha/one.ts": UNUSED, "akasha/two.ts": CLEAN }))
 
   const judged = lintClean(root)
 
@@ -20,13 +21,13 @@ test("an audit judges every file in the tree the linter reads, no change naming 
 })
 
 test("an audit lets through a tree the linter finds nothing in", () => {
-  const root = tracked({ "akasha/one.ts": CLEAN })
+  const root = tracked(repo({ "akasha/one.ts": CLEAN }))
 
   expect(lintClean(root)).toEqual([])
 })
 
 test("an audit judges a file under a folder no path names, the linter finding it itself", () => {
-  const root = tracked({ "akasha/deep/down/one.ts": UNUSED, "akasha/two.ts": CLEAN })
+  const root = tracked(repo({ "akasha/deep/down/one.ts": UNUSED, "akasha/two.ts": CLEAN }))
 
   expect(lintClean(root).map((one) => one.path)).toEqual(["akasha/deep/down/one.ts"])
 })

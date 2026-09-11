@@ -1,7 +1,4 @@
-import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   declaring,
@@ -46,16 +43,4 @@ export function personText(stated: string): string {
 
 export function person(stated: string): Uint8Array {
   return bytesOf(personText(stated))
-}
-
-export function tracked(files: Readonly<Record<string, string>>): string {
-  const root = rooted()
-  for (const [path, said] of Object.entries(files)) {
-    const at = join(root, path)
-    mkdirSync(dirname(at), { recursive: true })
-    writeFileSync(at, said)
-  }
-  const done = ran(["git", "-C", root, "init", "-q"])
-  if (done.code !== 0) throw new Error(`no tree was made at ${root} — ${done.err.trim()}`)
-  return root
 }

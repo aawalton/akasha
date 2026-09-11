@@ -6,6 +6,7 @@ import {
   filing,
   pathFor,
   put,
+  tracked,
 } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { propertyIsDeclaredByAType } from "./property-is-declared-by-a-type.code-check.audit.code.ts"
 import {
@@ -14,7 +15,6 @@ import {
   rooted,
   scratch,
   TWO,
-  tracked,
   UP_AT,
 } from "./property-is-declared-by-a-type.code-check.decision.test-fixtures.ts"
 

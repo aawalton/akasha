@@ -11,6 +11,8 @@ import {
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { writing } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "../judging/judging.module.code.ts"
 
@@ -181,6 +183,13 @@ export function proposing(
 ): (at: string) => Uint8Array | null {
   const disk = onDisk(root)
   return (at: string): Uint8Array | null => (at === path ? bytesOf(body) : disk(at))
+}
+
+export function tracked(root: string, files: Readonly<Record<string, string>> = {}): string {
+  for (const [path, said] of Object.entries(files)) writing(root, path, said)
+  const done = ran(["git", "-C", root, "init", "-q"])
+  if (done.code !== 0) throw new Error(`no tree was made at ${root} — ${done.err.trim()}`)
+  return root
 }
 
 export function treed(root: string): string {

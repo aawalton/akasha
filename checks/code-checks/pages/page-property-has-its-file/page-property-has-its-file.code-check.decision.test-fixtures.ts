@@ -1,8 +1,5 @@
-import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { noPathsFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   carrying,
@@ -85,16 +82,4 @@ export function over(
       path in bodies ? (bodies[path] ?? null) : new Uint8Array(0),
     before: (): null => null,
   }
-}
-
-export function tracked(files: Readonly<Record<string, string>>): string {
-  const root = rooted()
-  for (const [path, said] of Object.entries(files)) {
-    const at = join(root, path)
-    mkdirSync(dirname(at), { recursive: true })
-    writeFileSync(at, said)
-  }
-  const done = ran(["git", "-C", root, "init", "-q"])
-  if (done.code !== 0) throw new Error(`no tree was made at ${root} — ${done.err.trim()}`)
-  return root
 }

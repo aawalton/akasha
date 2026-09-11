@@ -1,6 +1,5 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { claiming } from "../../../modules/scratch/check-scratch.module.code.ts"
 
@@ -25,12 +24,5 @@ export function rooted(files: Readonly<Record<string, string>>): string {
     writeFileSync(at, said)
     claiming(root, path, path, ID)
   }
-  return root
-}
-
-export function tracked(files: Readonly<Record<string, string>>): string {
-  const root = rooted(files)
-  const done = ran(["git", "-C", root, "init", "-q"])
-  if (done.code !== 0) throw new Error(`no tree was made at ${root} — ${done.err.trim()}`)
   return root
 }

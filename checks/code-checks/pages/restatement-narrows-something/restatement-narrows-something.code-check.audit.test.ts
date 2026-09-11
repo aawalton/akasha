@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { pathFor } from "../../../modules/scratch/check-scratch.module.code.ts"
+import { pathFor, tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   ONE,
   PAGE_TYPE,
@@ -10,7 +10,6 @@ import { restatementNarrowsSomething } from "./restatement-narrows-something.cod
 import {
   rooted,
   scratch,
-  tracked,
 } from "./restatement-narrows-something.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)

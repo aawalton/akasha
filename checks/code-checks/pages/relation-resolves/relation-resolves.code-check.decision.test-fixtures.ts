@@ -9,7 +9,6 @@ import {
   schemaFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { writing as wrote } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 
@@ -151,12 +150,6 @@ export function rooted(carrying: boolean = true): string {
     properties: [{ pagePropertySlug: "domain-slug" }],
   })
   if (carrying) filing(root, D, D_ID, "domain", "d")
-  return root
-}
-
-export function tracked(root: string): string {
-  const done = ran(["git", "-C", root, "init", "-q"])
-  if (done.code !== 0) throw new Error(`no tree was made at ${root} — ${done.err.trim()}`)
   return root
 }
 

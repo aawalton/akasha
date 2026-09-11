@@ -1,8 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
+import { tracked } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { popoverKeepsItsViewportCap } from "./popover-keeps-its-viewport-cap.code-check.audit.code.ts"
 import {
+  rooted,
   scratch,
-  tracked,
   USES_AT,
   WRAPPER,
   WRAPPER_AT,
@@ -12,7 +13,7 @@ afterAll(scratch.sweep)
 
 test("an audit judges every tsx in the tree, no change naming one of them", () => {
   const uses = 'const one = <PopoverContent className="max-w-none" />\n'
-  const root = tracked({ [WRAPPER_AT]: WRAPPER, [USES_AT]: uses })
+  const root = tracked(rooted({ [WRAPPER_AT]: WRAPPER, [USES_AT]: uses }))
 
   const said = popoverKeepsItsViewportCap(root)
 
@@ -22,7 +23,7 @@ test("an audit judges every tsx in the tree, no change naming one of them", () =
 
 test("an audit lets through a tree where no named tag undoes its cap", () => {
   const uses = 'const one = <PopoverContent className="p-2" />\n'
-  const root = tracked({ [WRAPPER_AT]: WRAPPER, [USES_AT]: uses })
+  const root = tracked(rooted({ [WRAPPER_AT]: WRAPPER, [USES_AT]: uses }))
 
   expect(popoverKeepsItsViewportCap(root)).toEqual([])
 })

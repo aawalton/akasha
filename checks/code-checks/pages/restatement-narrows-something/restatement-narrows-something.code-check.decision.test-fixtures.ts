@@ -1,4 +1,3 @@
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { declaring, founded, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
@@ -19,11 +18,5 @@ export function rooted(): string {
   typed(root, PAGE_TYPE, "domain")
   declaring(root, "properties", { pageTypeSlug: RECORD })
   declaring(root, "held", { pageTypeSlug: TEXT })
-  return root
-}
-
-export function tracked(root: string): string {
-  const done = ran(["git", "-C", root, "init", "-q"])
-  if (done.code !== 0) throw new Error(`no tree was made at ${root} — ${done.err.trim()}`)
   return root
 }

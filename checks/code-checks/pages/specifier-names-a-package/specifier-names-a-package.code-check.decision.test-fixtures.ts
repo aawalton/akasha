@@ -2,7 +2,6 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { declaring, founded, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
@@ -41,12 +40,5 @@ export function rooted(files: Readonly<Record<string, string>>): string {
   ])
   writing(root, MANIFEST_AT, MANIFEST)
   for (const [path, body] of Object.entries(files)) writing(root, path, body)
-  return root
-}
-
-export function tracked(files: Readonly<Record<string, string>>): string {
-  const root = rooted(files)
-  const done = ran(["git", "-C", root, "init", "-q"])
-  if (done.code !== 0) throw new Error(`no tree was made at ${root} — ${done.err.trim()}`)
   return root
 }
