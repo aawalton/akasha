@@ -13,5 +13,6 @@ export const service = {
     "page-type/web-app",
     "page-type/secret",
     "workstation-service/service-watching",
+    "page-type/inference-service",
   ],
 } as const satisfies Domain
