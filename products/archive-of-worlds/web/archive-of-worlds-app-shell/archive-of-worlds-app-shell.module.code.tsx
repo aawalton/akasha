@@ -1,25 +1,20 @@
+import {
+  LayoutRouterAdapter,
+  PagesUIRouterAdapter,
+} from "akasha/code-system/router-apps/router-context-adapters/router-context-adapters.module.code.tsx"
 import { AppShell as SharedAppShell } from "akasha/design/interfaces/layout/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
-import {
-  LayoutLinkProvider,
-  type LayoutRouter,
-  LayoutRouterProvider,
-} from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
 import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { SortableNavs } from "akasha/pages/ui/components/sortable-navs/sortable-navs.module.code.tsx"
 import { useAppNavItems } from "akasha/pages/ui/components/use-app-nav-items/use-app-nav-items.module.code.tsx"
-import {
-  PagesUILinkProvider,
-  PagesUIRouterProvider,
-} from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import {
   ARCHIVE_OF_WORLDS_APP_ID,
   ARCHIVE_OF_WORLDS_APP_SLUG,
 } from "akasha/products/archive-of-worlds/web/archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
 import { primaryNavItems } from "akasha/products/archive-of-worlds/web/archive-of-worlds-nav-items/archive-of-worlds-nav-items.module.code.ts"
 import { LogIn, LogOut } from "lucide-react"
-import { type ReactNode, useMemo } from "react"
-import { Link, useLocation, useNavigate, useSearchParams } from "react-router"
+import { useMemo } from "react"
+import { Link } from "react-router"
 
 interface AppShellProps {
   children: React.ReactNode
@@ -51,89 +46,6 @@ function AuthFooter({ user }: { user: { id: string } | null }) {
     >
       <LogIn className="h-5 w-5 shrink-0" />
       {!effectiveIsCollapsed && <span>Sign In</span>}
-    </Link>
-  )
-}
-
-function PagesUIRRAdapter({ children }: { children: ReactNode }) {
-  const { pathname } = useLocation()
-  const navigate = useNavigate()
-  const value = useMemo(
-    () => ({
-      pathname,
-      push: (href: string) => navigate(href),
-      replace: (href: string) => navigate(href, { replace: true }),
-    }),
-    [pathname, navigate]
-  )
-  return (
-    <PagesUIRouterProvider value={value}>
-      <PagesUILinkProvider component={PagesUILinkAdapter}>{children}</PagesUILinkProvider>
-    </PagesUIRouterProvider>
-  )
-}
-
-function PagesUILinkAdapter({
-  href,
-  className,
-  children,
-  ...rest
-}: {
-  href: string
-  className?: string
-  children: ReactNode
-}) {
-  return (
-    <Link to={href} className={className} {...rest}>
-      {children}
-    </Link>
-  )
-}
-
-function LayoutRRAdapter({ children }: { children: ReactNode }) {
-  const { pathname } = useLocation()
-  const [searchParams] = useSearchParams()
-  const value = useMemo<LayoutRouter>(
-    () => ({
-      pathname,
-      searchParams: {
-        get: (name: string) => searchParams.get(name),
-        toString: () => searchParams.toString(),
-      },
-    }),
-    [pathname, searchParams]
-  )
-  return (
-    <LayoutRouterProvider value={value}>
-      <LayoutLinkProvider component={LayoutLinkAdapter}>{children}</LayoutLinkProvider>
-    </LayoutRouterProvider>
-  )
-}
-
-function LayoutLinkAdapter({
-  href,
-  className,
-  children,
-  title,
-  onClick,
-  "aria-current": ariaCurrent,
-}: {
-  href: string
-  className?: string
-  children: ReactNode
-  title?: string
-  onClick?: () => void
-  "aria-current"?: boolean | "false" | "true" | "page" | "step" | "location" | "date" | "time"
-}) {
-  return (
-    <Link
-      to={href}
-      className={className}
-      title={title}
-      onClick={onClick}
-      aria-current={ariaCurrent}
-    >
-      {children}
     </Link>
   )
 }
@@ -192,10 +104,10 @@ function AppShellInner({ children, user, ssrNavItems }: AppShellProps) {
 
 export function AppShell(props: AppShellProps) {
   return (
-    <LayoutRRAdapter>
-      <PagesUIRRAdapter>
+    <LayoutRouterAdapter>
+      <PagesUIRouterAdapter>
         <AppShellInner {...props} />
-      </PagesUIRRAdapter>
-    </LayoutRRAdapter>
+      </PagesUIRouterAdapter>
+    </LayoutRouterAdapter>
   )
 }
