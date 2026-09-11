@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { copyFileSync, existsSync, mkdirSync, readdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { dataIn } from "akasha/files/data-place/data-place.module.code.ts"
-import { rootOf } from "../../commands/modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 import {
   cipherFor,
   keysBeside,
@@ -12,7 +12,7 @@ import {
   secretsIn,
   unfit,
   yamlOf,
-} from "./page-secret.module.code.ts"
+} from "akasha/pages/secret/page-secret.module.code.ts"
 
 const scratch = scratchWorld()
 
