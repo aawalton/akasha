@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const hungryHawaiianUtahCounty = {
   id: "019f322c-9717-7023-993a-b478e1079e65",

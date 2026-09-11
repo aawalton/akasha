@@ -1,4 +1,4 @@
-import type { RestaurantMenuItem } from "../restaurant-menu-item.page-type.types.ts"
+import type { RestaurantMenuItem } from "akasha/places/restaurant-menu-items/restaurant-menu-item.page-type.types.ts"
 
 export const pumpkinPecan = {
   id: "01a06808-b765-7018-bae5-de1cc92a2ccc",

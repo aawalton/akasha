@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const hotelIndigoWacoBaylor = {
   id: "019f1aec-0e95-7058-99fc-43fac870e6a5",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const makikiLowerPunchbowlTantalus = {
   id: "019f1b49-52c6-7f4b-8066-732f66e1e540",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const snoqualmieFalls = {
   id: "019f1aec-0caa-7529-a5c7-406b04cc0ae3",

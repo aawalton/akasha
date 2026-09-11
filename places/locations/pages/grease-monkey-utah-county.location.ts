@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const greaseMonkeyUtahCounty = {
   id: "019f322c-96ba-70da-8ad2-a9c05fe55b0a",

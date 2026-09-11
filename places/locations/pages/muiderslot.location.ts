@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const muiderslot = {
   id: "019f1aec-0e49-723c-958f-f4d6480cd8b9",

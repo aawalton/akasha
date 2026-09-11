@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const tsubameRotatingSushiUtahCounty = {
   id: "019f322c-9c38-7b15-8292-5be7d477ecd9",

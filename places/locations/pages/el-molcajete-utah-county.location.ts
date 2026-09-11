@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const elMolcajeteUtahCounty = {
   id: "019f322c-951d-7672-b7d7-e32a543b7fc9",

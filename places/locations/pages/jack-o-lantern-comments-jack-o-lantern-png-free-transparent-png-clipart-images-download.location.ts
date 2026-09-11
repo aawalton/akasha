@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const jackOLanternCommentsJackOLanternPngFreeTransparentPngClipartImagesDownload = {
   id: "019f1b49-5666-7899-accb-a5f74fe654aa",

@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.types.ts"
+import type { LocationDeal } from "akasha/places/location-deals/location-deal.page-type.types.ts"
 
 export const entertainmentDreamwalkParkBuy1AdultTicketGetAChildTicketFree = {
   id: "019f322c-9cfa-7804-ad2e-344497fa57d5",

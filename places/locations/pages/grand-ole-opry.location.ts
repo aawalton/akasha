@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const grandOleOpry = {
   id: "019f1aec-0df3-7100-abc9-27be2b270972",

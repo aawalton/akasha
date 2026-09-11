@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const rosatisAuthenticChicagoPizzaUtahCounty = {
   id: "019f322c-9b61-7273-a04b-a11bfdde7946",

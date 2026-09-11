@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const superNintendoWorldUniversalStudiosHollywood = {
   id: "019f1aec-0f61-7197-ba19-1d2f6debc6b6",

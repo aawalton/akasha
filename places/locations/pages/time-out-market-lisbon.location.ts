@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const timeOutMarketLisbon = {
   id: "019f1aec-0ec7-79fd-a843-5bfdf8a88c24",

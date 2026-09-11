@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const genevaMovieplex8 = {
   id: "019f1aec-1038-709e-a7a4-e7466f58f319",

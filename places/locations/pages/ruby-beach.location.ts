@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const rubyBeach = {
   id: "019f1aec-0c9d-71bc-a8ed-19e25c064994",

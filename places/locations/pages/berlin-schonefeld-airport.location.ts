@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const berlinSchonefeldAirport = {
   id: "019f1b49-52fc-7329-8a83-604fc779bc49",

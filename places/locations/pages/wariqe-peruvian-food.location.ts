@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const wariqePeruvianFood = {
   id: "019f1aec-0fd0-70bc-9f03-7be25cfe67d7",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const candyJar = {
   id: "019f1b49-57b8-72e5-a02b-c3b14f3abe40",

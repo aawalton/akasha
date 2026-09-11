@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const martinsBarBQueJoint = {
   id: "019f1aec-0de3-7fee-818a-505f52299984",

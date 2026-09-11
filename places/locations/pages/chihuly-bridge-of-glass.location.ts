@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const chihulyBridgeOfGlass = {
   id: "019f1aec-0cae-7187-a764-bdc120a9fd65",

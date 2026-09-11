@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const nielsensFrozenCustard = {
   id: "019f1aec-0e84-7bcb-988d-39fc89c6949d",

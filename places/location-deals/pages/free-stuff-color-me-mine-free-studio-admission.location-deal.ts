@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.types.ts"
+import type { LocationDeal } from "akasha/places/location-deals/location-deal.page-type.types.ts"
 
 export const freeStuffColorMeMineFreeStudioAdmission = {
   id: "019f322c-a00d-7b5e-a624-ccd8ac332324",

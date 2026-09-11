@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.types.ts"
+import type { LocationDeal } from "akasha/places/location-deals/location-deal.page-type.types.ts"
 
 export const treatsAndDrinksTaste117BuyAny2DrinksGet2TableSideChocolateTastingsFree = {
   id: "019f322c-b1be-78d2-808b-9f4ceb11d732",

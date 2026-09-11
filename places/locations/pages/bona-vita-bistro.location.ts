@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const bonaVitaBistro = {
   id: "019f1aec-0fd9-7137-9642-ad01f1045535",

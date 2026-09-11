@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const berlinerFernsehturm = {
   id: "019f1aec-0d5c-770b-b9d0-32ee5cd5d925",

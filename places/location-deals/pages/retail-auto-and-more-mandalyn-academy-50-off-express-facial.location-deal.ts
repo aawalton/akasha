@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.types.ts"
+import type { LocationDeal } from "akasha/places/location-deals/location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreMandalynAcademy50OffExpressFacial = {
   id: "019f322c-ac34-713d-a795-c474a7c2caa0",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const piazzaSanPietro = {
   id: "019f1aec-0db2-7bf3-b275-8b75ebf8b3ca",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const magicFountainOfMontjuic = {
   id: "019f1aec-0e6f-7623-a3ee-6dbba7c17074",

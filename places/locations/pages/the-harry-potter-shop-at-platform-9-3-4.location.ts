@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const theHarryPotterShopAtPlatform934 = {
   id: "019f1aec-0e7b-7f8c-b20a-b6f6e094adca",

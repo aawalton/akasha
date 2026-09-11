@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const klondikeGoldRushNationalHistoricalPark = {
   id: "019f1aec-0c8a-72f0-b360-74b865b27870",

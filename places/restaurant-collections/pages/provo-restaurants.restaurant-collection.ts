@@ -1,4 +1,4 @@
-import type { RestaurantCollection } from "../restaurant-collection.page-type.types.ts"
+import type { RestaurantCollection } from "akasha/places/restaurant-collections/restaurant-collection.page-type.types.ts"
 
 export const provoRestaurants = {
   id: "01a06808-aeb8-7001-96d0-118189201a90",

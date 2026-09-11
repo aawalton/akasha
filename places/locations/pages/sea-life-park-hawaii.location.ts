@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const seaLifeParkHawaii = {
   id: "019f1b49-52c2-7c03-844c-511411973bfb",

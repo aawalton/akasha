@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const benagil = {
   id: "019f1b49-56de-70c7-9ad1-03d0ab0b0a8a",

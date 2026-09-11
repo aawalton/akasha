@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const blazePizza = {
   id: "019f1aec-0ff7-7580-8e3a-3cf055ea9039",

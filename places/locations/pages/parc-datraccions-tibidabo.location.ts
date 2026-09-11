@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const parcDatraccionsTibidabo = {
   id: "019f1aec-0e70-7a89-b4dc-54c5345279dc",

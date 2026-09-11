@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const funboxUtahCountyOrem = {
   id: "019f1aec-0f8a-7d6d-a78d-72a523168a4e",

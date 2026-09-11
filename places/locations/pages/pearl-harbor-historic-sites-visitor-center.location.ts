@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const pearlHarborHistoricSitesVisitorCenter = {
   id: "019f1b49-52d9-7e4e-91f6-0c196878dacd",

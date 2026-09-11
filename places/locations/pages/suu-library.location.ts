@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const suuLibrary = {
   id: "019f1aec-0f78-7f39-854a-163e46c1c1f7",

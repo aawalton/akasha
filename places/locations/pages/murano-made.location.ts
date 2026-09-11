@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const muranoMade = {
   id: "019f1b49-5508-7bdc-b551-96c615826f6f",

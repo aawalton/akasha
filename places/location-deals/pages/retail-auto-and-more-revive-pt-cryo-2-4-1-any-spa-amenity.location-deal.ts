@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.types.ts"
+import type { LocationDeal } from "akasha/places/location-deals/location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreRevivePtCryo241AnySpaAmenity = {
   id: "019f322c-ac88-7054-9cb4-5b63431a7104",

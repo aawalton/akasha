@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const curryConnect = {
   id: "019f1aec-0ce9-795e-9711-0bc5ebcbc041",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const glassWorkingClass = {
   id: "019f1aec-0f34-7b03-82c6-d7cf3eea6dda",

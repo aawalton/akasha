@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const diamantMuseum = {
   id: "019f1b49-5548-75c1-8446-f07a9ec90e97",

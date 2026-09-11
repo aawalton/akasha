@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const laFlanerieNotreDame = {
   id: "019f1b49-540c-7fd7-b7bf-f808a337ed88",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const theBellyOfTheDragonTrailhead = {
   id: "019f1b49-51f1-75c3-8b29-a2faa2d98fc3",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const theUnlockablesAPuzzleEscapeExperience = {
   id: "019f1b49-558d-75ef-b464-02b625258bf8",

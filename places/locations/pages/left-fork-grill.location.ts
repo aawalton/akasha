@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const leftForkGrill = {
   id: "019f1b49-54e8-7032-8a81-48caa9382b05",

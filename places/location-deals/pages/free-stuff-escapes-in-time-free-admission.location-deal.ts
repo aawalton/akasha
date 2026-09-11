@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.types.ts"
+import type { LocationDeal } from "akasha/places/location-deals/location-deal.page-type.types.ts"
 
 export const freeStuffEscapesInTimeFreeAdmission = {
   id: "019f322c-a075-7838-bc2a-bb5bcdfe3f8e",

@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const thaiTimeOfProvo = {
   id: "019f1b49-5164-7f61-bdfb-16f86644f162",

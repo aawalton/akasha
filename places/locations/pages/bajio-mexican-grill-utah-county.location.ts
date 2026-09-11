@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const bajioMexicanGrillUtahCounty = {
   id: "019f322c-91a3-74a0-8cdc-5d70eddc351e",

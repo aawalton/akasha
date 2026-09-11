@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.types.ts"
+import type { LocationDeal } from "akasha/places/location-deals/location-deal.page-type.types.ts"
 
 export const entertainmentByuBowlingAndGamesCenter241GameOfBowling = {
   id: "019f322c-9ccf-7615-8b6c-494cdee2fe63",

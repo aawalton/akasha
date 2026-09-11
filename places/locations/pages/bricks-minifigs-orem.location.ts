@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const bricksMinifigsOrem = {
   id: "019f1aec-0fe3-7a0a-aa2b-1374f23f7dac",

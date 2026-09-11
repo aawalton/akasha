@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const madridSpainTemple = {
   id: "019f1b49-534d-7648-a278-9ec74eb76261",

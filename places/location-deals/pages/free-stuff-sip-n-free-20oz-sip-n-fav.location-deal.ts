@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.types.ts"
+import type { LocationDeal } from "akasha/places/location-deals/location-deal.page-type.types.ts"
 
 export const freeStuffSipNFree20ozSipNFav = {
   id: "019f322c-a2c9-7e3f-a48f-2019f1c0fecb",

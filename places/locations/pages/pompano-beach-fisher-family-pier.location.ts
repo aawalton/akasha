@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const pompanoBeachFisherFamilyPier = {
   id: "019f1b49-5763-7599-b24c-078163567dc6",

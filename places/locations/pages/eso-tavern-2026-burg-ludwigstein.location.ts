@@ -1,4 +1,4 @@
-import type { Location } from "../location.page-type.types.ts"
+import type { Location } from "akasha/places/locations/location.page-type.types.ts"
 
 export const esoTavern2026BurgLudwigstein = {
   id: "019f37a9-8480-7a8f-bb43-7370aa9331ed",
