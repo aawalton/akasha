@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theBandsOfMourning = {
   id: "019db533-f39d-7225-acac-f3a0473c1439",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-bands-of-mourning",
   title: "The Bands of Mourning",

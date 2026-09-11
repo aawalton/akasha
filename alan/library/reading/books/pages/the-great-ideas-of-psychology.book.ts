@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatIdeasOfPsychology = {
   id: "019db533-f39d-7f2d-a254-f1a31d3ab9ef",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-ideas-of-psychology",
   title: "The Great Ideas of Psychology",

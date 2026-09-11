@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const sagewoodRestoreTheBalance = {
   id: "019db533-f391-7573-9656-54dc412b8fb3",
-  pageTypeSlug: "book",
   type: "book",
   slug: "sagewood-restore-the-balance",
   title: "Sagewood: Restore the Balance",

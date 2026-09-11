@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theViridianGateArchivesTheJadeLord = {
   id: "019db533-f38b-70e7-a6be-5612260a30aa",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-viridian-gate-archives-the-jade-lord",
   title: "The Viridian Gate Archives: The Jade Lord",

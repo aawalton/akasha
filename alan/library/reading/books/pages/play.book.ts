@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const play = {
   id: "019db533-f39e-7022-91f9-bae533384e16",
-  pageTypeSlug: "book",
   type: "book",
   slug: "play",
   title: "Play",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theSystemApocalypseCitiesInChains = {
   id: "019db533-f391-7bcf-b9f0-3474c9173865",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-system-apocalypse-cities-in-chains",
   title: "The System Apocalypse: Cities in Chains",

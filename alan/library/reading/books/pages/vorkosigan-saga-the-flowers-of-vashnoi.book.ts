@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const vorkosiganSagaTheFlowersOfVashnoi = {
   id: "019db533-f39a-7a86-a1a7-4a1a9d90f6b1",
-  pageTypeSlug: "book",
   type: "book",
   slug: "vorkosigan-saga-the-flowers-of-vashnoi",
   title: "Vorkosigan Saga: The Flowers of Vashnoi",

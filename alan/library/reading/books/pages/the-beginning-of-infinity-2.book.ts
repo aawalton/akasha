@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theBeginningOfInfinity2 = {
   id: "019db533-f39e-7196-8c32-fdac049597a6",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-beginning-of-infinity-2",
   title: "The Beginning of Infinity",

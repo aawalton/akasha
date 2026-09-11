@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const teachingsOfWilfordWoodruff = {
   id: "019db533-f39d-78ae-bc23-cd22aa538858",
-  pageTypeSlug: "book",
   type: "book",
   slug: "teachings-of-wilford-woodruff",
   title: "Teachings of Wilford Woodruff",

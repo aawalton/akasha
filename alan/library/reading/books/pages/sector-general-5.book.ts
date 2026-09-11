@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const sectorGeneral5 = {
   id: "019db533-f38b-73bc-bfcf-ed5f03f73c4b",
-  pageTypeSlug: "book",
   type: "book",
   slug: "sector-general-5",
   title: "Sector General 5",

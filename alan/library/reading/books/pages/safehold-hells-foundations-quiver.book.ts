@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const safeholdHellsFoundationsQuiver = {
   id: "019db533-f39a-7fa9-b843-79bbbdd4555d",
-  pageTypeSlug: "book",
   type: "book",
   slug: "safehold-hells-foundations-quiver",
   title: "Safehold: Hell's Foundations Quiver",

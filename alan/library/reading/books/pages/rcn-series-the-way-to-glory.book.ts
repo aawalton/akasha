@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const rcnSeriesTheWayToGlory = {
   id: "019db533-f39a-7943-afd5-cf8bd9a3cae5",
-  pageTypeSlug: "book",
   type: "book",
   slug: "rcn-series-the-way-to-glory",
   title: "RCN Series: The Way to Glory",

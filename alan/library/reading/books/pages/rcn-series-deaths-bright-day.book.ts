@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const rcnSeriesDeathsBrightDay = {
   id: "019db533-f39b-71a9-bce0-e900079fedb7",
-  pageTypeSlug: "book",
   type: "book",
   slug: "rcn-series-deaths-bright-day",
   title: "RCN Series: Death's Bright Day",

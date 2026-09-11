@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatBooksOfTheWesternWorld28BaconDescartesSpinoza = {
   id: "019db533-f39d-7827-bceb-c5235c97b4c6",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-books-of-the-western-world-28-bacon-descartes-spinoza",
   title: "The Great Books of the Western World 28: Bacon, Descartes, Spinoza",

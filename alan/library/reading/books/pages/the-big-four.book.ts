@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theBigFour = {
   id: "019db533-f399-7c00-95a7-17693d4da3ea",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-big-four",
   title: "The Big Four",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const pernMoreta = {
   id: "019db533-f39a-7ed8-b9f7-6f8e72c386e1",
-  pageTypeSlug: "book",
   type: "book",
   slug: "pern-moreta",
   title: "Pern: Moreta",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theHappinessHypothesis = {
   id: "019db533-f39d-7f45-907b-a591cda182e3",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-happiness-hypothesis",
   title: "The Happiness Hypothesis",

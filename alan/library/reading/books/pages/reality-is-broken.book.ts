@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const realityIsBroken = {
   id: "019db533-f39e-70e5-ad2f-a17969179b96",
-  pageTypeSlug: "book",
   type: "book",
   slug: "reality-is-broken",
   title: "Reality Is Broken",

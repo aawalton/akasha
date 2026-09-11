@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const sectorGeneralTheGalacticGourmet = {
   id: "019db533-f38b-717a-97cd-91d1b1f69479",
-  pageTypeSlug: "book",
   type: "book",
   slug: "sector-general-the-galactic-gourmet",
   title: "Sector General: The Galactic Gourmet",

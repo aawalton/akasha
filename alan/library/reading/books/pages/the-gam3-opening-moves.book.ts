@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGam3OpeningMoves = {
   id: "019db533-f391-7905-abea-9a9096308eea",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-gam3-opening-moves",
   title: "The Gam3: Opening Moves",

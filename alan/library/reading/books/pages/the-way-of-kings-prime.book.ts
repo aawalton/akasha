@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theWayOfKingsPrime = {
   id: "019db533-f39c-7fc2-958b-c18fdd72b2a0",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-way-of-kings-prime",
   title: "The Way of Kings Prime",

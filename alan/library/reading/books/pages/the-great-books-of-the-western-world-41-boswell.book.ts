@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatBooksOfTheWesternWorld41Boswell = {
   id: "019db533-f39d-76e8-ba49-15afcf9311ef",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-books-of-the-western-world-41-boswell",
   title: "The Great Books of the Western World 41: Boswell",

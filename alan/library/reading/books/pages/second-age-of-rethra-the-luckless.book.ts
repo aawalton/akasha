@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const secondAgeOfRethraTheLuckless = {
   id: "019db533-f39d-762c-99ef-99399d6aafb7",
-  pageTypeSlug: "book",
   type: "book",
   slug: "second-age-of-rethra-the-luckless",
   title: "Second Age of Rethra: The Luckless",

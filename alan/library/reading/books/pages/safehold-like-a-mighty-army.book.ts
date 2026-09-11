@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const safeholdLikeAMightyArmy = {
   id: "019db533-f39a-7efd-b84b-9e8dc8a802df",
-  pageTypeSlug: "book",
   type: "book",
   slug: "safehold-like-a-mighty-army",
   title: "Safehold: Like a Mighty Army",

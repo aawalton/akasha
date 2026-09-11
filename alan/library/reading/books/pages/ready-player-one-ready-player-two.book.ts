@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const readyPlayerOneReadyPlayerTwo = {
   id: "019db533-f391-7458-8f9d-68a06940d51d",
-  pageTypeSlug: "book",
   type: "book",
   slug: "ready-player-one-ready-player-two",
   title: "Ready Player One: Ready Player Two",

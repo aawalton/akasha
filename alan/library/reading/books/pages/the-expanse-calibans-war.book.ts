@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theExpanseCalibansWar = {
   id: "019db533-f39b-71b1-b138-09a717898802",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-expanse-calibans-war",
   title: "The Expanse: Caliban's War",

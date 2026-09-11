@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theMillennialMessiah = {
   id: "019db533-f39d-719c-a81e-0b423bfffad7",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-millennial-messiah",
   title: "The Millennial Messiah",

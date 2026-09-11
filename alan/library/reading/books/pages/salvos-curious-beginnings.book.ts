@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const salvosCuriousBeginnings = {
   id: "019db533-f391-762e-865e-bce1ecdf8688",
-  pageTypeSlug: "book",
   type: "book",
   slug: "salvos-curious-beginnings",
   title: "Salvos: Curious Beginnings",

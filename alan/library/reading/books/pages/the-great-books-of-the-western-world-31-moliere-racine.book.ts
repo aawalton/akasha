@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatBooksOfTheWesternWorld31MoliereRacine = {
   id: "019db533-f39d-78e7-b628-8d4f35d89984",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-books-of-the-western-world-31-moliere-racine",
   title: "The Great Books of the Western World 31: Moliere, Racine",

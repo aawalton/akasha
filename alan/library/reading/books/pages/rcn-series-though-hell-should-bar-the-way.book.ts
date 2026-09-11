@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const rcnSeriesThoughHellShouldBarTheWay = {
   id: "019db533-f39a-792d-b9ad-b3b2ed4cc4c1",
-  pageTypeSlug: "book",
   type: "book",
   slug: "rcn-series-though-hell-should-bar-the-way",
   title: "RCN Series: Though Hell Should Bar the Way",

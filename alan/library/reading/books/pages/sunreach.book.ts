@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const sunreach = {
   id: "019db533-f39c-7f74-917a-a7b9bc781a8e",
-  pageTypeSlug: "book",
   type: "book",
   slug: "sunreach",
   title: "Sunreach",

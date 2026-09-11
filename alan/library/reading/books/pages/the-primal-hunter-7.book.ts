@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const thePrimalHunter7 = {
   id: "019db533-f391-7a62-bc02-6dd4931f35c4",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-primal-hunter-7",
   title: "The Primal Hunter 7",

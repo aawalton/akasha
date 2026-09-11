@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const vorkosiganSagaWeatherman = {
   id: "019db533-f39a-7803-b87d-5180728e5a09",
-  pageTypeSlug: "book",
   type: "book",
   slug: "vorkosigan-saga-weatherman",
   title: "Vorkosigan Saga: Weatherman",

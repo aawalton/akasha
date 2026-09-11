@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theCalamitousBobWarOfTheAscendedTheCalamitousBobFinalBook = {
   id: "019db533-f391-77e0-bb25-b8cc4f8c90fd",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-calamitous-bob-war-of-the-ascended-the-calamitous-bob-final-book",
   title: "The Calamitous Bob: War of the Ascended: The Calamitous Bob Final Book",

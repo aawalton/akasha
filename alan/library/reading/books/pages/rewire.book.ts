@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const rewire = {
   id: "019db533-f39e-7060-9558-251a590c33fd",
-  pageTypeSlug: "book",
   type: "book",
   slug: "rewire",
   title: "Rewire",

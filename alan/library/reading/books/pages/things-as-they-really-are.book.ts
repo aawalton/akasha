@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const thingsAsTheyReallyAre = {
   id: "019db533-f39c-7fb2-ba3f-54bda46c231a",
-  pageTypeSlug: "book",
   type: "book",
   slug: "things-as-they-really-are",
   title: "Things As They Really Are",

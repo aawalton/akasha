@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatBooksOfTheWesternWorld37GibbonI = {
   id: "019db533-f39d-7635-ad78-6493b018ce2b",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-books-of-the-western-world-37-gibbon-i",
   title: "The Great Books of the Western World 37: Gibbon I",

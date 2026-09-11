@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatBooksOfTheWesternWorld24ShakespeareI = {
   id: "019db533-f39d-7817-a182-43fb05dcc9e1",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-books-of-the-western-world-24-shakespeare-i",
   title: "The Great Books of the Western World 24: Shakespeare I",

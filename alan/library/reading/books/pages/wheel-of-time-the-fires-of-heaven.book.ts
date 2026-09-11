@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const wheelOfTimeTheFiresOfHeaven = {
   id: "019db533-f39a-7ba8-9048-b1162fabff31",
-  pageTypeSlug: "book",
   type: "book",
   slug: "wheel-of-time-the-fires-of-heaven",
   title: "Wheel of Time: The Fires of Heaven",

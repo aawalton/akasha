@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const warGodOathOfSwordsAndSwordBrother = {
   id: "019db533-f39a-7dd4-aa1e-e33dd57f3721",
-  pageTypeSlug: "book",
   type: "book",
   slug: "war-god-oath-of-swords-and-sword-brother",
   title: "War God: Oath of Swords and Sword Brother",

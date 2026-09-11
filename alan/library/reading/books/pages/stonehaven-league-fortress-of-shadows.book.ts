@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const stonehavenLeagueFortressOfShadows = {
   id: "019db533-f391-76c9-89af-3a0a3735032f",
-  pageTypeSlug: "book",
   type: "book",
   slug: "stonehaven-league-fortress-of-shadows",
   title: "Stonehaven League: Fortress of Shadows",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const sagewoodIntoTheCaves = {
   id: "019db533-f391-755d-9264-955d82c8c139",
-  pageTypeSlug: "book",
   type: "book",
   slug: "sagewood-into-the-caves",
   title: "Sagewood: Into the Caves",

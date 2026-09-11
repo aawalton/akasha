@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatBooksOfTheWesternWorld5HerodotusThucydides = {
   id: "019db533-f39d-768a-aad5-9e1767a9cef6",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-books-of-the-western-world-5-herodotus-thucydides",
   title: "The Great Books of the Western World 5: Herodotus, Thucydides",

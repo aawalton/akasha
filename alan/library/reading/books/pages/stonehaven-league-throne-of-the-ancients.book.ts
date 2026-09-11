@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const stonehavenLeagueThroneOfTheAncients = {
   id: "019db533-f391-7696-bfcd-a9e7904108e5",
-  pageTypeSlug: "book",
   type: "book",
   slug: "stonehaven-league-throne-of-the-ancients",
   title: "Stonehaven League: Throne of the Ancients",

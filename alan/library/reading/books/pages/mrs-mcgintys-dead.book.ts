@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const mrsMcgintysDead = {
   id: "019db533-f399-7c55-aa66-0608f1268221",
-  pageTypeSlug: "book",
   type: "book",
   slug: "mrs-mcgintys-dead",
   title: "Mrs McGinty's Dead",

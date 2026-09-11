@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const swordArtOnlineAlternativeGunGaleOnline3rdSquadJamBetrayersChoice = {
   id: "019db533-f38b-7280-9eb7-65b31d313d6b",
-  pageTypeSlug: "book",
   type: "book",
   slug: "sword-art-online-alternative-gun-gale-online-3rd-squad-jam-betrayers-choice",
   title: "Sword Art Online Alternative Gun Gale Online: 3rd Squad Jam: Betrayers' Choice",

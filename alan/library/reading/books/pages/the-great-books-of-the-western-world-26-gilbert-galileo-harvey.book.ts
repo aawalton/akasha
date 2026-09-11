@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatBooksOfTheWesternWorld26GilbertGalileoHarvey = {
   id: "019db533-f39d-781f-8cd6-14424a8a3ddb",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-books-of-the-western-world-26-gilbert-galileo-harvey",
   title: "The Great Books of the Western World 26: Gilbert, Galileo, Harvey",

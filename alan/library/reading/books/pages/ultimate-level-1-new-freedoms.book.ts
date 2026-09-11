@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const ultimateLevel1NewFreedoms = {
   id: "019db533-f38b-711f-a46e-545eaa329774",
-  pageTypeSlug: "book",
   type: "book",
   slug: "ultimate-level-1-new-freedoms",
   title: "Ultimate Level 1: New Freedoms",

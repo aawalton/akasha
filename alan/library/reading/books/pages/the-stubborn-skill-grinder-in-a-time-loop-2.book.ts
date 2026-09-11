@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theStubbornSkillGrinderInATimeLoop2 = {
   id: "019db533-f391-7b6d-b27d-54ec9def3d95",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-2",
   title: "The Stubborn Skill-Grinder In A Time Loop 2",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const wheelOfTimeLordOfChaos = {
   id: "019db533-f39a-7f41-a7bc-5a6907885716",
-  pageTypeSlug: "book",
   type: "book",
   slug: "wheel-of-time-lord-of-chaos",
   title: "Wheel of Time: Lord of Chaos",

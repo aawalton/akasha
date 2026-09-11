@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatBooksOfTheWesternWorld6Plato = {
   id: "019db533-f39d-76c9-9969-c53c0ecab7e5",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-books-of-the-western-world-6-plato",
   title: "The Great Books of the Western World 6: Plato",

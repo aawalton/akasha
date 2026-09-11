@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGam3EarthsGambit = {
   id: "019db533-f391-78f5-a799-ead760aff5f9",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-gam3-earths-gambit",
   title: "The Gam3: Earth's Gambit",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theDarkTalent = {
   id: "019db533-f39d-7047-9a45-946d39cb63d7",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-dark-talent",
   title: "The Dark Talent",

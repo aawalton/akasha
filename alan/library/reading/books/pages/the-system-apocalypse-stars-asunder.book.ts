@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theSystemApocalypseStarsAsunder = {
   id: "019db533-f391-7ba7-8354-13d435e4d969",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-system-apocalypse-stars-asunder",
   title: "The System Apocalypse: Stars Asunder",

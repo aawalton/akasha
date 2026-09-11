@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const salvosGrandSkill = {
   id: "019db533-f391-75c3-bec6-2cbf4d4772bb",
-  pageTypeSlug: "book",
   type: "book",
   slug: "salvos-grand-skill",
   title: "Salvos: Grand Skill",

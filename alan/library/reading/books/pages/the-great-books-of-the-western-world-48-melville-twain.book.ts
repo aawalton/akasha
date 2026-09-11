@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatBooksOfTheWesternWorld48MelvilleTwain = {
   id: "019db533-f39d-77ad-984e-66fa2f7e6d23",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-books-of-the-western-world-48-melville-twain",
   title: "The Great Books of the Western World 48: Melville, Twain",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theSpokenMagePowerOfPenAndVoice = {
   id: "019db533-f39a-7c84-ad7d-f768d2fedde5",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-spoken-mage-power-of-pen-and-voice",
   title: "The Spoken Mage: Power of Pen and Voice",

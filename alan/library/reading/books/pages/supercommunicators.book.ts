@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const supercommunicators = {
   id: "019db533-f39e-7067-ba30-20cbb6726512",
-  pageTypeSlug: "book",
   type: "book",
   slug: "supercommunicators",
   title: "Supercommunicators",

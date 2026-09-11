@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const weaponsAndWieldersSixSacredSwords = {
   id: "019db533-f38a-73bd-a2f6-e5b5562d6c4f",
-  pageTypeSlug: "book",
   type: "book",
   slug: "weapons-and-wielders-six-sacred-swords",
   title: "Weapons and Wielders: Six Sacred Swords",

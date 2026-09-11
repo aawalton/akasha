@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theSmallestPart = {
   id: "019db533-f39c-7f7b-85b2-deacc933160c",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-smallest-part",
   title: "The Smallest Part",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatBooksOfTheWesternWorld2TheSyntopiconIi = {
   id: "019db533-f39d-78d7-bcef-a5ba404dd3be",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-books-of-the-western-world-2-the-syntopicon-ii",
   title: "The Great Books of the Western World 2: The Syntopicon II",

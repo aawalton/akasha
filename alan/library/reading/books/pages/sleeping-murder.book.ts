@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const sleepingMurder = {
   id: "019db533-f399-7b6a-b27f-c77260cea43f",
-  pageTypeSlug: "book",
   type: "book",
   slug: "sleeping-murder",
   title: "Sleeping Murder",

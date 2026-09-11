@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theViridianGateArchivesTheLichPriest = {
   id: "019db533-f38b-7096-bec1-ec0369aae6a9",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-viridian-gate-archives-the-lich-priest",
   title: "The Viridian Gate Archives: The Lich Priest",

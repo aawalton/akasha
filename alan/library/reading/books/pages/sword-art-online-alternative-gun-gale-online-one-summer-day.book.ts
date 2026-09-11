@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const swordArtOnlineAlternativeGunGaleOnlineOneSummerDay = {
   id: "019db533-f38b-7298-b77b-c2fc79f48727",
-  pageTypeSlug: "book",
   type: "book",
   slug: "sword-art-online-alternative-gun-gale-online-one-summer-day",
   title: "Sword Art Online Alternative Gun Gale Online: One Summer Day",

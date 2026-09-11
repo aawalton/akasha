@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const safeholdBySchismRentAsunder = {
   id: "019db533-f39b-717c-b6fc-c88a605f6a71",
-  pageTypeSlug: "book",
   type: "book",
   slug: "safehold-by-schism-rent-asunder",
   title: "Safehold: By Schism Rent Asunder",

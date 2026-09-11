@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theBadGuys2Lies2Thrones = {
   id: "019db533-f391-7784-a9c8-a15ec105b96a",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-bad-guys-2-lies-2-thrones",
   title: "The Bad Guys: 2 Lies, 2 Thrones",

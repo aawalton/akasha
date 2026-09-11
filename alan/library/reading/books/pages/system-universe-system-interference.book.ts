@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const systemUniverseSystemInterference = {
   id: "019db533-f391-7754-b567-232ec4616ea7",
-  pageTypeSlug: "book",
   type: "book",
   slug: "system-universe-system-interference",
   title: "System Universe: System Interference",

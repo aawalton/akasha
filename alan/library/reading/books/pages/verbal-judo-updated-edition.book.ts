@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const verbalJudoUpdatedEdition = {
   id: "019db533-f39d-7f35-b8de-e6a0e4495120",
-  pageTypeSlug: "book",
   type: "book",
   slug: "verbal-judo-updated-edition",
   title: "Verbal Judo, Updated Edition",

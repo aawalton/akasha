@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const systemUniverseTorith = {
   id: "019db533-f391-777c-9435-bae67f619e7a",
-  pageTypeSlug: "book",
   type: "book",
   slug: "system-universe-torith",
   title: "System Universe: Torith",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const wheelOfTimeTheEyeOfTheWorld = {
   id: "019db533-f39a-7a93-8539-7d17f5c455be",
-  pageTypeSlug: "book",
   type: "book",
   slug: "wheel-of-time-the-eye-of-the-world",
   title: "Wheel of Time: The Eye of the World",

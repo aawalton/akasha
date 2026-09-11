@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const outOfTheDarkToChallengeHeaven = {
   id: "019db533-f39a-7862-92b0-6a9a3d6ecc15",
-  pageTypeSlug: "book",
   type: "book",
   slug: "out-of-the-dark-to-challenge-heaven",
   title: "Out of the Dark: To Challenge Heaven",

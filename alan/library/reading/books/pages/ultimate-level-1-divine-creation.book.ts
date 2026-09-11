@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const ultimateLevel1DivineCreation = {
   id: "019db533-f38a-7520-b429-c494c188696d",
-  pageTypeSlug: "book",
   type: "book",
   slug: "ultimate-level-1-divine-creation",
   title: "Ultimate Level 1: Divine Creation",

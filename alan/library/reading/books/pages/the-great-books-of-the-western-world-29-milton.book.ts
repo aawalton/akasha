@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatBooksOfTheWesternWorld29Milton = {
   id: "019db533-f39d-78c6-bb81-bfe1d1b6bf40",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-books-of-the-western-world-29-milton",
   title: "The Great Books of the Western World 29: Milton",

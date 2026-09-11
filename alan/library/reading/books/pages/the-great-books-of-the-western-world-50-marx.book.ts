@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatBooksOfTheWesternWorld50Marx = {
   id: "019db533-f39d-77db-aaa4-c9ebc945209c",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-books-of-the-western-world-50-marx",
   title: "The Great Books of the Western World 50: Marx",

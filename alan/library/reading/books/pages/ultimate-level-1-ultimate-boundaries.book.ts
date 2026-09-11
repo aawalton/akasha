@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const ultimateLevel1UltimateBoundaries = {
   id: "019db533-f38b-710e-8911-65489d654e0d",
-  pageTypeSlug: "book",
   type: "book",
   slug: "ultimate-level-1-ultimate-boundaries",
   title: "Ultimate Level 1: Ultimate Boundaries",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theBetterAngelsOfOurNature = {
   id: "019db533-f39e-7096-a7d8-2b3b8adbff20",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-better-angels-of-our-nature",
   title: "The Better Angels of Our Nature",

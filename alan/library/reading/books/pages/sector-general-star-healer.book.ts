@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const sectorGeneralStarHealer = {
   id: "019db533-f38b-73d0-a44e-3f5064050325",
-  pageTypeSlug: "book",
   type: "book",
   slug: "sector-general-star-healer",
   title: "Sector General: Star Healer",

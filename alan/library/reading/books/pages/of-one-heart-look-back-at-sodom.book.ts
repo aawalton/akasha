@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const ofOneHeartLookBackAtSodom = {
   id: "019db533-f39d-707c-938c-4f3e75be12a9",
-  pageTypeSlug: "book",
   type: "book",
   slug: "of-one-heart-look-back-at-sodom",
   title: "Of One Heart/Look Back at Sodom",

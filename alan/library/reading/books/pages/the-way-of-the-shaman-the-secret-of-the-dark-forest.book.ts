@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theWayOfTheShamanTheSecretOfTheDarkForest = {
   id: "019db533-f38b-75b0-869b-f107a9b8bd27",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-way-of-the-shaman-the-secret-of-the-dark-forest",
   title: "The Way of the Shaman: The Secret of the Dark Forest",

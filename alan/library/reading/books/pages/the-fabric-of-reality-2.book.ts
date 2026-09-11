@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theFabricOfReality2 = {
   id: "019db533-f39e-7243-b7eb-952ecaa60650",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-fabric-of-reality-2",
   title: "The Fabric of Reality",

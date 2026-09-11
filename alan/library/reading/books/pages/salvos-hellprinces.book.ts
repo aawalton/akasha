@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const salvosHellprinces = {
   id: "019db533-f391-75b8-880c-27fe4dbd669e",
-  pageTypeSlug: "book",
   type: "book",
   slug: "salvos-hellprinces",
   title: "Salvos: Hellprinces",

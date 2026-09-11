@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatBooksOfTheWesternWorld5620thCenturyNaturalScience = {
   id: "019db533-f39d-7662-9ac9-529d0ea78f70",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-books-of-the-western-world-56-20th-century-natural-science",
   title: "The Great Books of the Western World 56: 20th Century Natural Science",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatBooksOfTheWesternWorld27Cervantes = {
   id: "019db533-f39d-783e-88c5-c635f169449c",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-books-of-the-western-world-27-cervantes",
   title: "The Great Books of the Western World 27: Cervantes",

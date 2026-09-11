@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const motherOfLearningBook1 = {
   id: "019db533-f391-7351-af00-60b52a447ce4",
-  pageTypeSlug: "book",
   type: "book",
   slug: "mother-of-learning-book-1",
   title: "Mother of Learning",

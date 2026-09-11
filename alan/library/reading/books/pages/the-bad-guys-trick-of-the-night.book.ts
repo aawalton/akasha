@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theBadGuysTrickOfTheNight = {
   id: "019db533-f391-77a4-961b-b752c5eade24",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-bad-guys-trick-of-the-night",
   title: "The Bad Guys: Trick Of The Night",

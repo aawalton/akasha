@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const oathbringer = {
   id: "019db533-f39d-7235-938e-bc2c373cffa6",
-  pageTypeSlug: "book",
   type: "book",
   slug: "oathbringer",
   title: "Oathbringer",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theSecretAdversary = {
   id: "019db533-f399-7bca-a32e-daee19594fe0",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-secret-adversary",
   title: "The Secret Adversary",

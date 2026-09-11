@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theMysteriousAffairAtStyles = {
   id: "019db533-f399-7ce0-8ae5-1d20eb94ae78",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-mysterious-affair-at-styles",
   title: "The Mysterious Affair at Styles",

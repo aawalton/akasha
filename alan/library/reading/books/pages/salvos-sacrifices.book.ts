@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const salvosSacrifices = {
   id: "019db533-f391-7595-b938-9a457a50c2ba",
-  pageTypeSlug: "book",
   type: "book",
   slug: "salvos-sacrifices",
   title: "Salvos: Sacrifices",

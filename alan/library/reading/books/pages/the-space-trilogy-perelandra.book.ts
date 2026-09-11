@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theSpaceTrilogyPerelandra = {
   id: "019db533-f39a-7c12-9e5e-02931938d7eb",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-space-trilogy-perelandra",
   title: "The Space Trilogy: Perelandra",

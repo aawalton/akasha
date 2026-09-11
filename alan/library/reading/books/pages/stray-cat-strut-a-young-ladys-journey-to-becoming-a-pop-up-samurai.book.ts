@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const strayCatStrutAYoungLadysJourneyToBecomingAPopUpSamurai = {
   id: "019db533-f391-76e8-95b1-14f09c0eb96f",
-  pageTypeSlug: "book",
   type: "book",
   slug: "stray-cat-strut-a-young-ladys-journey-to-becoming-a-pop-up-samurai",
   title: "Stray Cat Strut: A Young Lady's Journey to Becoming a Pop-Up Samurai",

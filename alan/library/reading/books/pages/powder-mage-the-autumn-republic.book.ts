@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const powderMageTheAutumnRepublic = {
   id: "019db533-f39a-7b28-8573-205c8f8de3ed",
-  pageTypeSlug: "book",
   type: "book",
   slug: "powder-mage-the-autumn-republic",
   title: "Powder Mage: The Autumn Republic",

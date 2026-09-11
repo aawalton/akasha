@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theLostMetal = {
   id: "019db533-f39d-71b1-9f9a-7b5d6a6ba27a",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-lost-metal",
   title: "The Lost Metal",

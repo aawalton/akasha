@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const stonehavenLeagueVaultOfTheMagi = {
   id: "019db533-f391-768e-bad9-9d4cedb0393f",
-  pageTypeSlug: "book",
   type: "book",
   slug: "stonehaven-league-vault-of-the-magi",
   title: "Stonehaven League: Vault of the Magi",

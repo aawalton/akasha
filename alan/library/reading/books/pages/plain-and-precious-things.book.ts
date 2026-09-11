@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const plainAndPreciousThings = {
   id: "019db533-f39d-722e-a69b-c11c4a44eac5",
-  pageTypeSlug: "book",
   type: "book",
   slug: "plain-and-precious-things",
   title: "Plain and Precious Things",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const runelordsTheWyrmlingHorde = {
   id: "019db533-f39a-7a2f-bb9e-25160e96bfa6",
-  pageTypeSlug: "book",
   type: "book",
   slug: "runelords-the-wyrmling-horde",
   title: "Runelords: The Wyrmling Horde",

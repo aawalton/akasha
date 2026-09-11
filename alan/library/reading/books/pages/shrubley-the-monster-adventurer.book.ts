@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const shrubleyTheMonsterAdventurer = {
   id: "019db533-f38a-7469-bd72-1530b10b9489",
-  pageTypeSlug: "book",
   type: "book",
   slug: "shrubley-the-monster-adventurer",
   title: "Shrubley, The Monster Adventurer",

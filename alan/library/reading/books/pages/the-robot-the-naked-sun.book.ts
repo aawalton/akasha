@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theRobotTheNakedSun = {
   id: "019db533-f39a-7934-bdd4-36c155b1c1d0",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-robot-the-naked-sun",
   title: "The Robot: The Naked Sun",

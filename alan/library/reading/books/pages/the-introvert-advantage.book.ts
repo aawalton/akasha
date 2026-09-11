@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theIntrovertAdvantage = {
   id: "019db533-f39d-7f3d-b0b0-7ee023e80d05",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-introvert-advantage",
   title: "The Introvert Advantage",

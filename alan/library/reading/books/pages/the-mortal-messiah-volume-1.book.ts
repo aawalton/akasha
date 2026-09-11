@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theMortalMessiahVolume1 = {
   id: "019db533-f39d-724d-9887-f0c246a315dc",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-mortal-messiah-volume-1",
   title: "The Mortal Messiah Volume 1",

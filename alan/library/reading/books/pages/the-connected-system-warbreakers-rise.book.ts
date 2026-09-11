@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theConnectedSystemWarbreakersRise = {
   id: "019db533-f391-78db-88be-69d97f182861",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-connected-system-warbreakers-rise",
   title: "The Connected System: Warbreaker's Rise",

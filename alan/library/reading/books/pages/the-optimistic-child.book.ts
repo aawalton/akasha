@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theOptimisticChild = {
   id: "019db533-f39d-7efe-8799-b69295a28936",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-optimistic-child",
   title: "The Optimistic Child",

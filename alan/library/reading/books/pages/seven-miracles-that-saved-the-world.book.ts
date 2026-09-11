@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const sevenMiraclesThatSavedTheWorld = {
   id: "019db533-f39d-79bb-9066-1cde84d1c106",
-  pageTypeSlug: "book",
   type: "book",
   slug: "seven-miracles-that-saved-the-world",
   title: "Seven Miracles that Saved the World",

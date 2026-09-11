@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theHeartfireHealerPerdition = {
   id: "019db533-f38a-72ef-8ea6-1196007069bf",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-heartfire-healer-perdition",
   title: "The Heartfire Healer: Perdition",

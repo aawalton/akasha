@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const runelordsChaosbound = {
   id: "019db533-f39b-7238-a20f-bcf937be9ac9",
-  pageTypeSlug: "book",
   type: "book",
   slug: "runelords-chaosbound",
   title: "Runelords: Chaosbound",

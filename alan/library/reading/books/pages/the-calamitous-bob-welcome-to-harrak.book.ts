@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theCalamitousBobWelcomeToHarrak = {
   id: "019db533-f391-7824-a972-f8a00e701a23",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-calamitous-bob-welcome-to-harrak",
   title: "The Calamitous Bob: Welcome to Harrak",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theCultureCode = {
   id: "019db533-f39d-7e77-bf55-d31aa73ee184",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-culture-code",
   title: "The Culture Code",

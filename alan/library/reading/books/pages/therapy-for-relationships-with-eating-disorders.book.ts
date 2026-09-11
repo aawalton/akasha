@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const therapyForRelationshipsWithEatingDisorders = {
   id: "019db533-f38a-71ff-9f0e-e9d1b8450a89",
-  pageTypeSlug: "book",
   type: "book",
   slug: "therapy-for-relationships-with-eating-disorders",
   title: "Therapy for Relationships with Eating Disorders",

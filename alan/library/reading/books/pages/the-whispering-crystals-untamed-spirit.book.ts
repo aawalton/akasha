@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theWhisperingCrystalsUntamedSpirit = {
   id: "019db533-f38b-758c-809f-69b48c825f01",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-whispering-crystals-untamed-spirit",
   title: "The Whispering Crystals: Untamed Spirit",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const oldKingdomClarielTheLostAbhorsen = {
   id: "019db533-f39b-725c-8d51-f3edcdefcc5f",
-  pageTypeSlug: "book",
   type: "book",
   slug: "old-kingdom-clariel-the-lost-abhorsen",
   title: "Old Kingdom: Clariel: The Lost Abhorsen",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const robertLangdonTheLostSymbol = {
   id: "019db533-f39a-799b-a8cd-c9d4ec71981f",
-  pageTypeSlug: "book",
   type: "book",
   slug: "robert-langdon-the-lost-symbol",
   title: "Robert Langdon: The Lost Symbol",

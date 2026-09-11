@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theSelfDrivenChild = {
   id: "019db533-f39d-7e4f-9bdc-2eb3fc22d382",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-self-driven-child",
   title: "The Self-Driven Child",

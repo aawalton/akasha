@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const weaponsAndWieldersDiamantine = {
   id: "019db533-f38a-7399-81fe-38a8144b1ea3",
-  pageTypeSlug: "book",
   type: "book",
   slug: "weapons-and-wielders-diamantine",
   title: "Weapons and Wielders: Diamantine",

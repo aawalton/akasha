@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theMansGuideToWomen = {
   id: "019db533-f38a-722c-936b-e9651e43b000",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-mans-guide-to-women",
   title: "The Man's Guide to Women",

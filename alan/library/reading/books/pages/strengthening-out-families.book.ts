@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const strengtheningOutFamilies = {
   id: "019db533-f39d-795a-bf2c-bde8cdd23aea",
-  pageTypeSlug: "book",
   type: "book",
   slug: "strengthening-out-families",
   title: "Strengthening Out Families",

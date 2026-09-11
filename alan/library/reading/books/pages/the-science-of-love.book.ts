@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theScienceOfLove = {
   id: "019db533-f39d-7f06-add8-80e7ba704104",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-science-of-love",
   title: "The Science of Love",

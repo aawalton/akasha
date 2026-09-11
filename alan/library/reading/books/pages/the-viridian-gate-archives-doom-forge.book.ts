@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theViridianGateArchivesDoomForge = {
   id: "019db533-f38b-70a3-b4ae-a470bec1a064",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-viridian-gate-archives-doom-forge",
   title: "The Viridian Gate Archives: Doom Forge",

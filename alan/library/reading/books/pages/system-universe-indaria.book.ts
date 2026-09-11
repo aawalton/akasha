@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const systemUniverseIndaria = {
   id: "019db533-f391-774c-8db9-da61257bdc65",
-  pageTypeSlug: "book",
   type: "book",
   slug: "system-universe-indaria",
   title: "System Universe: Indaria",

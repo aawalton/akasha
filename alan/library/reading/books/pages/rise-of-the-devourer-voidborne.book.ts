@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const riseOfTheDevourerVoidborne = {
   id: "019db533-f391-74e3-8fb3-b22bd0f46a88",
-  pageTypeSlug: "book",
   type: "book",
   slug: "rise-of-the-devourer-voidborne",
   title: "Rise of the Devourer: Voidborne",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const orphanStar = {
   id: "019db533-f399-7b0a-8893-7a1e6735d4b2",
-  pageTypeSlug: "book",
   type: "book",
   slug: "orphan-star",
   title: "Orphan Star",

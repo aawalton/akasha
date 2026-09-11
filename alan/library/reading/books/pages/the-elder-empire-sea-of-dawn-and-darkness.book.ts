@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theElderEmpireSeaOfDawnAndDarkness = {
   id: "019db533-f39a-7db4-93ea-b50a1db0453e",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-elder-empire-sea-of-dawn-and-darkness",
   title: "The Elder Empire - Sea: Of Dawn and Darkness",

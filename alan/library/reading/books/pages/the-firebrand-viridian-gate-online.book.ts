@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theFirebrandViridianGateOnline = {
   id: "019db533-f38a-732a-b30a-c4c0e336bc86",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-firebrand-viridian-gate-online",
   title: "The Firebrand: Viridian Gate Online",

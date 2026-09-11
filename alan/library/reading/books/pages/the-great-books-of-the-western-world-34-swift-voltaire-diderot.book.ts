@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatBooksOfTheWesternWorld34SwiftVoltaireDiderot = {
   id: "019db533-f39d-76fe-bd07-7201d339b087",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-books-of-the-western-world-34-swift-voltaire-diderot",
   title: "The Great Books of the Western World 34: Swift, Voltaire, Diderot",

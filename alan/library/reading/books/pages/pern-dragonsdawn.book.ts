@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const pernDragonsdawn = {
   id: "019db533-f39b-7202-b684-4808153f3280",
-  pageTypeSlug: "book",
   type: "book",
   slug: "pern-dragonsdawn",
   title: "Pern: Dragonsdawn",

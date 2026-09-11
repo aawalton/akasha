@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatBooksOfTheWesternWorld12Virgil = {
   id: "019db533-f39d-792b-b0b9-bedc07563da5",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-books-of-the-western-world-12-virgil",
   title: "The Great Books of the Western World 12: Virgil",

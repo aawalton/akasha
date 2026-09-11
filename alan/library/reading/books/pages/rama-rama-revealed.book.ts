@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const ramaRamaRevealed = {
   id: "019db533-f39a-7c0b-adc6-744f10f0715a",
-  pageTypeSlug: "book",
   type: "book",
   slug: "rama-rama-revealed",
   title: "Rama: Rama Revealed",

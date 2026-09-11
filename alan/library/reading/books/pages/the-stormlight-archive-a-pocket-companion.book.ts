@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theStormlightArchiveAPocketCompanion = {
   id: "019db533-f39c-7f83-a471-6e028551528b",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-stormlight-archive-a-pocket-companion",
   title: "The Stormlight Archive: A Pocket Companion",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const posternOfFate = {
   id: "019db533-f399-7c75-84f8-de76ff96edcd",
-  pageTypeSlug: "book",
   type: "book",
   slug: "postern-of-fate",
   title: "Postern of Fate",

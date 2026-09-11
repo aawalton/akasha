@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const poirotInvestigates = {
   id: "019db533-f399-7d6b-a975-7efb3c489b8f",
-  pageTypeSlug: "book",
   type: "book",
   slug: "poirot-investigates",
   title: "Poirot Investigates",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theElderEmpireShadowOfKillersAndKings = {
   id: "019db533-f39a-7df4-a99b-dcd8f19e97a2",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-elder-empire-shadow-of-killers-and-kings",
   title: "The Elder Empire - Shadow: Of Killers and Kings",

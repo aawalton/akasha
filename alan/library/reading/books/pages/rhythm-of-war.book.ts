@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const rhythmOfWar = {
   id: "019db533-f39d-70eb-8f3c-ce97fd0328b1",
-  pageTypeSlug: "book",
   type: "book",
   slug: "rhythm-of-war",
   title: "Rhythm of War",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theFirst20Hours = {
   id: "019db533-f39d-7ebf-90da-a3fd54503f0d",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-first-20-hours",
   title: "The First 20 Hours",

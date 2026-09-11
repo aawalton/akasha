@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const scaleAndSeaTrilogyGloamtideGuild = {
   id: "019db533-f38a-7496-b9f1-2aac80e91799",
-  pageTypeSlug: "book",
   type: "book",
   slug: "scale-and-sea-trilogy-gloamtide-guild",
   title: "Scale & Sea Trilogy: Gloamtide Guild",

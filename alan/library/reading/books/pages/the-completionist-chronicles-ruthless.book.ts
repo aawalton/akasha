@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theCompletionistChroniclesRuthless = {
   id: "019db533-f391-786e-9197-783790833093",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-completionist-chronicles-ruthless",
   title: "The Completionist Chronicles: Ruthless",

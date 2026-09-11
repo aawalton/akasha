@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theRuthlessEliminationOfHurry = {
   id: "019db533-f388-7ef0-9b5f-c376ac4d928d",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-ruthless-elimination-of-hurry",
   title:

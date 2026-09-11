@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const skyward = {
   id: "019db533-f39c-7ff5-8135-891e7ee0c611",
-  pageTypeSlug: "book",
   type: "book",
   slug: "skyward",
   title: "Skyward",

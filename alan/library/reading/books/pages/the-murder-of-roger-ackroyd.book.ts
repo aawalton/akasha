@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theMurderOfRogerAckroyd = {
   id: "019db533-f399-7d20-a39b-e21519369061",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-murder-of-roger-ackroyd",
   title: "The Murder of Roger Ackroyd",

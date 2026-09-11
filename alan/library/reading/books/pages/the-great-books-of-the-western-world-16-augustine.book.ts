@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGreatBooksOfTheWesternWorld16Augustine = {
   id: "019db533-f39d-7875-af33-7a87dbf85ba1",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-great-books-of-the-western-world-16-augustine",
   title: "The Great Books of the Western World 16: Augustine",

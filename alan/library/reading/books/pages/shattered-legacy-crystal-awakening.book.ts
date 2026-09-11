@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const shatteredLegacyCrystalAwakening = {
   id: "019db533-f38a-73d4-ba10-5be193dd3af7",
-  pageTypeSlug: "book",
   type: "book",
   slug: "shattered-legacy-crystal-awakening",
   title: "Shattered Legacy: Crystal Awakening",

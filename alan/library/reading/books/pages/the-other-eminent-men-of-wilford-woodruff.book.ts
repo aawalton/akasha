@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theOtherEminentMenOfWilfordWoodruff = {
   id: "019db533-f39d-7647-b74d-933b3643ddf7",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-other-eminent-men-of-wilford-woodruff",
   title: "The Other Eminent Men of Wilford Woodruff",

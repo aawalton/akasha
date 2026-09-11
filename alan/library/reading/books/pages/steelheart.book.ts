@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const steelheart = {
   id: "019db533-f39d-70db-9a27-b1383e741547",
-  pageTypeSlug: "book",
   type: "book",
   slug: "steelheart",
   title: "Steelheart",

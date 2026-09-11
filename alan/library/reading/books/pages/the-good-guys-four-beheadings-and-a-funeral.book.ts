@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theGoodGuysFourBeheadingsAndAFuneral = {
   id: "019db533-f391-792f-bbc5-a78c00e5c91c",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-good-guys-four-beheadings-and-a-funeral",
   title: "The Good Guys: Four Beheadings and a Funeral",

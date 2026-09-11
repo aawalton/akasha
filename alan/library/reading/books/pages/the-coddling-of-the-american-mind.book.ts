@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theCoddlingOfTheAmericanMind = {
   id: "019db533-f39d-7dff-a01a-eacd3fe2fce3",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-coddling-of-the-american-mind",
   title: "The Coddling of the American Mind",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theReckonersFirefight = {
   id: "019db533-f38a-7c31-8fb8-167a1e6ebf3c",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-reckoners-firefight",
   title: "The Reckoners: Firefight",

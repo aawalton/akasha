@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theSunlitMan = {
   id: "019db533-f39d-7300-a974-3c4632cbbe5c",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-sunlit-man",
   title: "The Sunlit Man",

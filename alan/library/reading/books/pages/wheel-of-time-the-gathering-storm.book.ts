@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const wheelOfTimeTheGatheringStorm = {
   id: "019db533-f39a-7bc7-8634-7482532d251e",
-  pageTypeSlug: "book",
   type: "book",
   slug: "wheel-of-time-the-gathering-storm",
   title: "Wheel of Time: The Gathering Storm",

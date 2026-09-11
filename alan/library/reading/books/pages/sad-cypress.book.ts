@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const sadCypress = {
   id: "019db533-f399-7c40-a1f2-ab312d9bfb74",
-  pageTypeSlug: "book",
   type: "book",
   slug: "sad-cypress",
   title: "Sad Cypress",

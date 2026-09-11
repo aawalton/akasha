@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theSystemApocalypseRedeemerOfTheDead = {
   id: "019db533-f391-7bfe-b901-3d0ac8fc594c",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-system-apocalypse-redeemer-of-the-dead",
   title: "The System Apocalypse: Redeemer of the Dead",

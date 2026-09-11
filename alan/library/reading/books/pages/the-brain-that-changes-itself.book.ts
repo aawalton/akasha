@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const theBrainThatChangesItself = {
   id: "019db533-f39d-7f0e-9fcb-0d9e0626cc17",
-  pageTypeSlug: "book",
   type: "book",
   slug: "the-brain-that-changes-itself",
   title: "The Brain That Changes Itself",
