@@ -1,3 +1,4 @@
+import { materializeLocalTranscript } from "akasha/agents/claude-code/session/transcript-materialize/transcript-materialize.module.code.ts"
 import { liveAgentPidsFromProc } from "akasha/agents/proc-liveness/agent-proc-liveness.module.code.ts"
 import {
   dataError,
@@ -9,7 +10,6 @@ import { seatRecord } from "akasha/seat-system/seat-facts/seat-facts.module.code
 import { resolveSeatTarget } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
 import { resolveSessionIdByAgentId } from "akasha/seat-system/seat-session-resolve/seat-session-resolve.module.code.ts"
 import { SEAT_START_DIR } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
-import { materializeLocalTranscript } from "akasha/seat-system/transcript-materialize/transcript-materialize.module.code.ts"
 import { ending } from "akasha/utils/process/process-ending/process-ending.module.code.ts"
 
 export interface TakenSeat {

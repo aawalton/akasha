@@ -9,6 +9,7 @@ export const claudeCodeSession = {
     "domain/claude-code-session-store",
     "module/session-jsonl-schema",
     "module/session-jsonl",
+    "module/transcript-materialize",
   ],
   invariants: [
     {
