@@ -9,6 +9,8 @@ import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const ROOT = "akasha/"
 
+const COMPOSER = "commands/modules/address-mapping/address-mapping.module.code.ts"
+
 const PAGE_TYPE = "page-type"
 
 const RUNNER = "change-runner"
@@ -148,6 +150,7 @@ function couldTurn(change: Change): boolean {
   const wasRun = (path: string): boolean => runsIn(textOf(change.before(path)))
   const isRun = (path: string): boolean => runsIn(left(path))
   for (const path of change.changed) {
+    if (path === COMPOSER) return true
     const said = partedIn(path)
     if (said === null || said.held !== TS) continue
     if (said.pageType === PAGE_TYPE || said.pageType === RUNNER) return true

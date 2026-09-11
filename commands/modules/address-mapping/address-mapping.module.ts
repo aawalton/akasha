@@ -64,6 +64,10 @@ export const addressMapping = {
     },
     {
       invariantKind: "departure",
+      statement: "A change carrying this module's own code could turn what the map holds.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A guard that cannot tell works the map out rather than leaving the map stale.",
     },
     {
