@@ -1,12 +1,10 @@
 import * as path from "node:path"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
-import { z } from "zod"
 import {
   anchorEnding,
   type Checkpoint,
   readCheckpoints,
   writeCheckpoints,
-} from "../subagent-checkpoints/subagent-checkpoints.module.code.ts"
+} from "akasha/code-system/editor/extension/subagent-checkpoints/subagent-checkpoints.module.code.ts"
 import {
   applyRecord,
   emptySubagentState,
@@ -14,8 +12,14 @@ import {
   type RunningSubagent,
   runningSubagents,
   type SubagentState,
-} from "../subagent-core/subagent-core.module.code.ts"
-import { emptyTail, foldTail, type Tail } from "../tail-fold/tail-fold.module.code.ts"
+} from "akasha/code-system/editor/extension/subagent-core/subagent-core.module.code.ts"
+import {
+  emptyTail,
+  foldTail,
+  type Tail,
+} from "akasha/code-system/editor/extension/tail-fold/tail-fold.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import { z } from "zod"
 
 const TRANSCRIPT_RECORD = z.custom<Record<string, unknown>>(isRecord)
 
