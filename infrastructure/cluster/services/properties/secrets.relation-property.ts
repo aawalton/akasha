@@ -22,6 +22,10 @@ export const secrets = {
       invariantKind: "departure",
       statement: "A resource a workload reads under many keys is named one secret per key.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A resource a controller in the cluster writes is named by no secret here.",
+    },
   ],
   types: "ts",
 } as const satisfies RelationProperty
