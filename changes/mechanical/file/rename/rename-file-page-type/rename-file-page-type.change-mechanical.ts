@@ -11,6 +11,7 @@ export const renameFilePageType = {
   definition: "a page type renamed, in its own name and in every page filed under that page type",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   guards: ["change-guard/claimed-file-not-left-behind"],
   invariants: [
     {

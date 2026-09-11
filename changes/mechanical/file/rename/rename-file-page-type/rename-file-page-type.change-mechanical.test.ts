@@ -3,6 +3,7 @@ import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-
 import { runChange as moveFileCode } from "akasha/changes/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
 import { runChange as renameFilePage } from "akasha/changes/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
 import { runChange } from "akasha/changes/mechanical/file/rename/rename-file-page-type/rename-file-page-type.change-mechanical.code.ts"
+import { OWNED_LANDS_AT } from "akasha/changes/mechanical/file/rename/rename-file-page-type/rename-file-page-type.change-mechanical.test-fixtures.ts"
 import { runChange as changeFileContent } from "akasha/changes/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
 import { runChange as changeManifestWays } from "akasha/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts"
 import { runChange as changePageProperty } from "akasha/changes/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
@@ -192,7 +193,7 @@ const OWNED_TYPE = "akasha/days/long-day.page-type.ts"
 
 const OWNED_WORKED = "akasha/days/long-day.page-type.worked.ts"
 
-const OWNED_LANDS = "akasha/days/day.page-type.ts"
+const OWNED_LANDS = OWNED_LANDS_AT
 
 const OWNED_PAGE = "akasha/days/pages/one/long-day-one.long-day.ts"
 
