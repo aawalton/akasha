@@ -15,6 +15,7 @@ export const designForms = {
     "module/field",
     "module/form",
     "module/format-time",
+    "module/inline-edit-keys",
     "module/inline-editable-number",
     "module/inline-editable-text",
     "module/input-group",
