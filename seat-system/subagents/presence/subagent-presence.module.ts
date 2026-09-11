@@ -192,10 +192,7 @@ export const subagentPresence = {
       invariantKind: "departure",
       statement: "The moment is the last argument each act takes.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A subagent that handed edits over is not among the pages under a seat.",
-    },
+
     {
       invariantKind: "departure",
       statement: "The page a seat sits at is read from the index rather than composed from a name.",

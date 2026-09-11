@@ -20,7 +20,7 @@ function slugIn(page: string): string | null {
   return named === null || named.sections.length > 0 ? null : named.slug
 }
 
-export function handedOver(root: string, page: string): boolean {
+function handedOver(root: string, page: string): boolean {
   return uncommittedIn(root, page)?.[RETURNED] === true && editsWaiting(root, page)
 }
 

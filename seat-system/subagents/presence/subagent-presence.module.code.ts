@@ -1,7 +1,6 @@
 import { closeSync, existsSync, mkdirSync, openSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { handedOver } from "akasha/changes/modules/subagent-handed/subagent-handed.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
@@ -244,7 +243,6 @@ export function pathsUnder(root: string, seatName: string): readonly string[] {
   return everyOfType(root, SUBAGENT)
     .map((one) => one.path)
     .filter((one) => partedIn(one)?.slug.startsWith(mark) === true)
-    .filter((one) => !handedOver(root, one))
     .sort()
 }
 

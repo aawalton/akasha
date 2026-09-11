@@ -32,15 +32,7 @@ export const pendingFromFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "A page kept only to hold the edits its subagent handed over names no seat.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A subagent whose page names no seat has returned.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Work waiting beside a returned subagent is work rather than a child.",
+      statement: "Every page the index files answers for the seat that page names.",
     },
     {
       invariantKind: "departure",

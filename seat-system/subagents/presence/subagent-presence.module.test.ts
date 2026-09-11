@@ -8,7 +8,6 @@ import { writing } from "akasha/commands/modules/scratching/scratching.module.te
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import { listedFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { keepUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { refusalsSaid } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 import {
   agentIdOf,
@@ -272,14 +271,13 @@ test("a stop the run began after leaves the page where it is", async () => {
   })
 })
 
-test("a subagent that handed edits over is not among the pages under a seat", () => {
+test("the pages under a seat are the pages the index files under that seat's name", () => {
   inScratch((root) => {
     const at = pathOf(slugOf("akasha", OWN))
     const other = pathOf(slugOf("akasha", "second"))
     subagentsFiled(root, at, other)
     writing(root, editsAt(at) ?? "", ROW)
-    keepUncommitted(root, at, { returned: true })
-    expect(pathsUnder(root, "akasha")).toEqual([other])
+    expect(pathsUnder(root, "akasha")).toEqual([at, other])
   })
 })
 
