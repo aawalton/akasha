@@ -7,6 +7,7 @@ import {
   holdsIn,
   readFor,
   singleIn,
+  spelledIn,
   targetsIn,
   typeIn,
 } from "../../../modules/page-knowing/page-knowing.module.code.ts"
@@ -37,6 +38,13 @@ export async function addPropertyValue(
   if ("refused" in read) return refusing(`${read.refused}, so no value is put in`)
   const stated = typeIn(read.value)
   if (stated !== null && declaresIn(world, read.value, given.key) === false) {
+    const named = spelledIn(world, read.value, given.key)
+    if (named !== null) {
+      return refusing(
+        `\`${given.key}\` is a slug, and \`${stated}\` declares that property under the key ` +
+          `\`${named}\`, so nothing is put in. Name the key.`
+      )
+    }
     return refusing(
       `\`${given.key}\` is no property \`${stated}\` declares, so nothing is put in. ` +
         `A field inside a record is reached through the record rather than as a key of its own.`

@@ -198,6 +198,40 @@ test("a key the page's type declares no property for is refused", async () => {
   expect(said.refused ?? "").toMatch(/`aids` is no property `domain` declares/)
 })
 
+test("a slug the page's type declares a key for is refused by naming that key", async () => {
+  const world = worldTold({
+    slug: null,
+    target: null,
+    found: [],
+    carried: [{ key: "transcriptPath", many: false }],
+  })
+
+  const said = await addPropertyValue(world, {
+    at: AT,
+    key: "transcript-path",
+    value: "/one.jsonl",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toBe(
+    "`transcript-path` is a slug, and `domain` declares that property under the key " +
+      "`transcriptPath`, so nothing is put in. Name the key."
+  )
+})
+
+test("a slug the page's type declares no key for is refused as no property", async () => {
+  const world = worldTold({
+    slug: null,
+    target: null,
+    found: [],
+    carried: [{ key: "transcriptPath", many: false }],
+  })
+
+  const said = await addPropertyValue(world, { at: AT, key: "no-such-thing", value: "one" })
+
+  expect(said.refused ?? "").toMatch(/`no-such-thing` is no property `domain` declares/)
+})
+
 test("a key the page's type declares is handed on", async () => {
   let reached = ""
   const world = worldTold({

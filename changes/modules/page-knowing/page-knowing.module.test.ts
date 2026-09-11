@@ -15,6 +15,7 @@ import {
   pageIn,
   readFor,
   singleIn,
+  spelledIn,
   targetsIn,
 } from "./page-knowing.module.code.ts"
 
@@ -154,4 +155,40 @@ test("the first sixty-four pages writing the key settle where it falls", () => {
   ])
 
   expect(afterIn(world, ROUTE, "test")).toBe("urlPath")
+})
+
+function worldDeclaring(carried: readonly { readonly key: string }[] | null): World {
+  return {
+    root: "/nowhere",
+    index: { propertiesIfNamed: () => carried } as never,
+    textOf: () => null,
+    bodyOf: () => null,
+    under: () => [],
+    base: () => null,
+    over: NOTHING_OVER,
+  }
+}
+
+const SEAT = { pageTypeSlug: "seat", type: "seat", slug: "one" } as Value
+
+const DECLARED = [{ key: "transcriptPath" }]
+
+test("a slug the page's type declares a key for answers that key", () => {
+  expect(spelledIn(worldDeclaring(DECLARED), SEAT, "transcript-path")).toBe("transcriptPath")
+})
+
+test("a slug the page's type declares no key for answers no key", () => {
+  expect(spelledIn(worldDeclaring(DECLARED), SEAT, "no-such-thing")).toBeNull()
+})
+
+test("a spelling that is already a key answers no key", () => {
+  expect(spelledIn(worldDeclaring(DECLARED), SEAT, "transcriptPath")).toBeNull()
+})
+
+test("a type the index cannot read answers no key for a slug", () => {
+  expect(spelledIn(worldDeclaring(null), SEAT, "transcript-path")).toBeNull()
+})
+
+test("a page saying no page type answers no key for a slug", () => {
+  expect(spelledIn(worldDeclaring(DECLARED), { slug: "one" }, "transcript-path")).toBeNull()
 })

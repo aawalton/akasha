@@ -73,6 +73,14 @@ export const pageKnowing = {
     { invariantKind: "departure", statement: "A type the index cannot read judges no key." },
     {
       invariantKind: "departure",
+      statement: "A slug the page's type declares a key for answers that key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A spelling that is already a key answers no key.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The value a key holds is read from the page type the property descends from.",
     },
     {

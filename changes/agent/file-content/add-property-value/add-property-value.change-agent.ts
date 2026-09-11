@@ -55,6 +55,11 @@ export const addPropertyValue = {
       invariantKind: "departure",
       statement: "A key the page's type declares no property for is refused.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A refusal over a slug the page's type declares a key for names the key to write instead.",
+    },
     { invariantKind: "departure", statement: "A key is judged before any page is reached." },
     {
       invariantKind: "departure",

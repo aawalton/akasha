@@ -1,3 +1,4 @@
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { eachTarget, type Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import type { Named } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -62,6 +63,16 @@ export function declaresIn(world: World, value: Value, key: string): boolean | n
   const carried = world.index.propertiesIfNamed(stated)
   if (carried === null) return null
   return carried.some((each) => each.key === key)
+}
+
+export function spelledIn(world: World, value: Value, key: string): string | null {
+  const said = exportedAs(key)
+  if (said === key) return null
+  const stated = typeIn(value)
+  if (stated === null) return null
+  const carried = world.index.propertiesIfNamed(stated)
+  if (carried === null) return null
+  return carried.some((each) => each.key === said) ? said : null
 }
 
 const SIBLINGS = 64
