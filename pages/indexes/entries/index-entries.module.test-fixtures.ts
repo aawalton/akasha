@@ -1,7 +1,6 @@
 import { appendFileSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { DECLARING_AT } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import type {
   FilePropertiesBy,
   UncommittedBy,
@@ -22,43 +21,32 @@ export const B = "01a04b79-0000-7000-8000-00000000000b"
 export const C = "01a04b79-0000-7000-8000-00000000000c"
 export const D = "01a04b79-0000-7000-8000-00000000000d"
 
-export const SCHEMA = {
-  code:
-    '{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,' +
-    '"slug":"code","propertySlug":"code","fileName":null,"folderName":null}',
-  pageDomain:
-    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,' +
-    '"slug":"page-domain","propertySlug":"domain","fileName":null,"folderName":null}',
-  partSlugs:
-    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,' +
-    '"slug":"part-slugs","propertySlug":"part-slugs","fileName":null,"folderName":null}',
-  noteSlug:
-    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"note","unique":null,"uniquePropertySlug":null,' +
-    '"slug":"note-slug","propertySlug":"note-slug","fileName":null,"folderName":null}',
-  either:
-    '{"pageTypeSlug":"one-of-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,' +
-    '"slug":"either","propertySlug":"either","fileName":null,"folderName":null}',
-  id: JSON.stringify({
-    pageTypeSlug: idPage.type,
-    targetPageTypeSlug: null,
-    unique: idPage.unique,
-    uniquePropertySlug: null,
-    slug: idPage.slug,
-    propertySlug: idPage.propertySlug,
-    fileName: null,
-    folderName: null,
-  }),
-  slug: JSON.stringify({
-    pageTypeSlug: slugPage.type,
-    targetPageTypeSlug: null,
-    unique: slugPage.unique,
-    uniquePropertySlug: null,
-    slug: slugPage.slug,
-    propertySlug: slugPage.propertySlug,
-    fileName: null,
-    folderName: null,
-  }),
-} as const
+const PAGE_TYPE = "page-type"
+
+const PAGE_PROPERTY = "page-property"
+
+export type Kept = Map<string, string[]>
+
+export function propertyKind(kept: Kept, pageTypeSlug: string): undefined {
+  const typed = JSON.stringify({
+    path: `${pageTypeSlug}.${PAGE_TYPE}.ts`,
+    value: { pageTypeSlug: PAGE_TYPE, slug: pageTypeSlug, extends: [PAGE_PROPERTY] },
+  })
+  const held = kept.get(PAGE_TYPE) ?? []
+  if (!held.includes(typed)) kept.set(PAGE_TYPE, [...held, typed])
+}
+
+export function shaping(
+  kept: Kept,
+  pageTypeSlug: string,
+  slug: string,
+  said: Record<string, unknown> = {}
+): undefined {
+  const value = { pageTypeSlug, slug, ...said }
+  const line = JSON.stringify({ path: `${slug}.${pageTypeSlug}.ts`, value })
+  kept.set(pageTypeSlug, [...(kept.get(pageTypeSlug) ?? []), line])
+  propertyKind(kept, pageTypeSlug)
+}
 
 export const scratch = scratchWorld()
 
@@ -109,16 +97,28 @@ export function grounded(): { readonly root: string; readonly repo: string } {
     "identity/page-type/one-of-property/slug/either.jsonl",
     '{"path":"either.one-of-property.ts","id":"4"}'
   )
-  const declared: readonly string[] = [
-    SCHEMA.code,
-    SCHEMA.pageDomain,
-    SCHEMA.partSlugs,
-    SCHEMA.noteSlug,
-    SCHEMA.either,
-    SCHEMA.id,
-    SCHEMA.slug,
-  ]
-  filed(DECLARING_AT, declared.join("\n"))
+  shaping(kept, "file-property", "code", { propertySlug: "code" })
+  shaping(kept, "relation-property", "page-domain", {
+    propertySlug: "domain",
+    targetPageType: "domain",
+  })
+  shaping(kept, "relation-property", "part-slugs", {
+    propertySlug: "part-slugs",
+    targetPageType: "domain",
+  })
+  shaping(kept, "relation-property", "note-slug", {
+    propertySlug: "note-slug",
+    targetPageType: "note",
+  })
+  shaping(kept, idPage.type, idPage.slug, {
+    propertySlug: idPage.propertySlug,
+    unique: idPage.unique,
+  })
+  shaping(kept, slugPage.type, slugPage.slug, {
+    propertySlug: slugPage.propertySlug,
+    unique: slugPage.unique,
+  })
+  propertyKind(kept, "one-of-property")
   for (const [type, lines] of kept) filed(`value/${type}.jsonl`, lines.join("\n"))
   return { root, repo }
 }
@@ -200,9 +200,13 @@ export function declaring(
   slug: string,
   said: Record<string, unknown>
 ): undefined {
-  const at = join(index, DECLARING_AT)
-  mkdirSync(dirname(at), { recursive: true })
-  appendFileSync(at, `${JSON.stringify({ pageTypeSlug, slug, ...said })}\n`, "utf8")
+  const kept: Kept = new Map()
+  shaping(kept, pageTypeSlug, slug, said)
+  for (const [type, lines] of kept) {
+    const at = join(index, `value/${type}.jsonl`)
+    mkdirSync(dirname(at), { recursive: true })
+    appendFileSync(at, `${lines.join("\n")}\n`, "utf8")
+  }
 }
 
 export function manifest(slug: string, fileName: string): Value {

@@ -1,15 +1,17 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { DECLARING_AT } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import {
   B,
   C,
   D,
   declaring,
   grounded,
+  type Kept,
+  propertyKind,
   scratch,
   shaped,
+  shaping,
 } from "akasha/pages/indexes/entries/index-entries.module.test-fixtures.ts"
 import { lineFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
@@ -200,23 +202,10 @@ test("a name carrying a scope is not read as the slug it ends with", () => {
   if ("refused" in reached) expect(reached.refused).toContain("within `whatever`")
 })
 
-function declared(slug: string, pageTypeSlug: string, target: string | null): string {
-  return JSON.stringify({
-    pageTypeSlug,
-    targetPageTypeSlug: target,
-    unique: null,
-    uniquePropertySlug: null,
-    slug,
-    propertySlug: slug,
-    fileName: null,
-    folderName: null,
-  })
-}
-
 function entryShapes(): { readonly root: string; readonly repo: string } {
   const repo = scratch.rootFor("akasha-reaching-entry-repo-")
   const root = scratch.rootFor("akasha-reaching-entry-root-")
-  const kept = new Map<string, string[]>()
+  const kept: Kept = new Map()
   const filed = (at: string, line: string): undefined => {
     lineFiled(root, at, line)
   }
@@ -252,14 +241,12 @@ function entryShapes(): { readonly root: string; readonly repo: string } {
       { pagePropertySlug: "page-property-entry/logs" },
     ],
   })
-  const every: readonly (readonly [string, string, string | null])[] = [
-    ["noted-page", "relation-property", "domain"],
-    ["log-text", "text-property", null],
-    ["cases", "page-property-entry", null],
-    ["logs", "page-property-entry", null],
-  ]
-  const lines = every.map(([slug, pageTypeSlug, target]) => declared(slug, pageTypeSlug, target))
-  filed(DECLARING_AT, lines.join("\n"))
+  shaping(kept, "relation-property", "noted-page", {
+    propertySlug: "noted-page",
+    targetPageType: "domain",
+  })
+  shaping(kept, "text-property", "log-text", { propertySlug: "log-text" })
+  propertyKind(kept, "page-property-entry")
   for (const [type, held] of kept) filed(`value/${type}.jsonl`, held.join("\n"))
   return { root, repo }
 }
@@ -276,7 +263,7 @@ test("an entry shape declaring a relation is answered, and one declaring none is
 function oneOfRecords(): { readonly root: string; readonly repo: string } {
   const repo = scratch.rootFor("akasha-reaching-oneof-repo-")
   const root = scratch.rootFor("akasha-reaching-oneof-root-")
-  const kept = new Map<string, string[]>()
+  const kept: Kept = new Map()
   const filed = (at: string, line: string): undefined => {
     lineFiled(root, at, line)
   }
@@ -311,15 +298,16 @@ function oneOfRecords(): { readonly root: string; readonly repo: string } {
     propertySlug: "holds",
     members: ["record-property/one-held", "record-property/many-held"],
   })
-  const every: readonly (readonly [string, string, string | null])[] = [
-    ["part-slugs", "relation-property", "domain"],
-    ["note-slug", "relation-property", "note"],
-    ["one-held", "record-property", null],
-    ["many-held", "record-property", null],
-    ["holds", "one-of-property", null],
-  ]
-  const lines = every.map(([slug, pageTypeSlug, target]) => declared(slug, pageTypeSlug, target))
-  filed(DECLARING_AT, lines.join("\n"))
+  shaping(kept, "relation-property", "part-slugs", {
+    propertySlug: "part-slugs",
+    targetPageType: "domain",
+  })
+  shaping(kept, "relation-property", "note-slug", {
+    propertySlug: "note-slug",
+    targetPageType: "note",
+  })
+  propertyKind(kept, "record-property")
+  propertyKind(kept, "one-of-property")
   for (const [type, held] of kept) filed(`value/${type}.jsonl`, held.join("\n"))
   return { root, repo }
 }

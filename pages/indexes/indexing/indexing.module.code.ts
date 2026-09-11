@@ -2,7 +2,6 @@ import { mkdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { typed } from "akasha/code/code-typing/code-typing.module.code.ts"
 import { rowsOver } from "akasha/pages/entries/page-entries.module.code.ts"
-import { declaredIn } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import {
   fileKeysIn,
   filePropertiesIn,
@@ -84,7 +83,6 @@ export function refreshedFrom(tree: string, root: string, repo: string, put = tr
   const fileProperties = fileKeysIn(values)
   const filedBy = filePropertiesIn(values)
   const unique = uniquePropertiesIn(values)
-  const declared = held.flatMap((one) => declaredIn(one.value))
   refusingEmpty(unique, held.length)
   const identifying = identifyingFrom(sourceOver(values))
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, identifying))
@@ -101,7 +99,6 @@ export function refreshedFrom(tree: string, root: string, repo: string, put = tr
   drift.push(reconcile(paths, root, put))
   const listed = listedOf(paths)
   drift.push(reconcile(listed, root, put))
-  drift.push(reconcile(declared, root, put))
   const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
   drift.push(reconcile(valued, root, put))
   const known = knownIn(readingAt(root), (path) => valueAt(path, repo))
@@ -130,22 +127,12 @@ export function refreshedFrom(tree: string, root: string, repo: string, put = tr
     readerIn(),
   ]
   drift.push(reconcile(ruled, root, put))
-  const every = [
-    ...identity,
-    ...paths,
-    ...listed,
-    ...declared,
-    ...valued,
-    ...relation,
-    ...imported,
-    ...ruled,
-  ]
+  const every = [...identity, ...paths, ...listed, ...valued, ...relation, ...imported, ...ruled]
   return {
     pages: held.length,
     entries:
       identity.length +
       paths.length +
-      declared.length +
       relation.length +
       imported.length +
       ruled.length +

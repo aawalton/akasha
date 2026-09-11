@@ -1,7 +1,6 @@
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { typed as typedCode } from "akasha/code/code-typing/code-typing.module.code.ts"
-import { DECLARING_AT } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import {
   aProperty,
   aType,
@@ -16,6 +15,7 @@ import {
   VOCABULARY,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { indexingAt, refreshedFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+import { shapesAt } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { everyPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { pathsRead, readerAt, ruleWhole } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
@@ -122,9 +122,7 @@ export const linesIn = (at: string): readonly string[] =>
 export const said = (at: string): unknown => JSON.parse(linesIn(at)[0] ?? "")
 
 export const shapeFiled = (root: string, pageTypeSlug: string, slug: string): unknown =>
-  linesIn(join(root, DECLARING_AT))
-    .map((one) => JSON.parse(one) as Record<string, unknown>)
-    .find((one) => one["pageTypeSlug"] === pageTypeSlug && one["slug"] === slug) ?? null
+  shapesAt(readingAt(root)).get(`${pageTypeSlug}/${slug}`) ?? null
 
 export const NOTE = aProperty("8", "note", "relation-property", { targetPageType: "domain" })
 

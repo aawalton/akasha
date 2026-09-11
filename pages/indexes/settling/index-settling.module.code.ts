@@ -11,7 +11,6 @@ import {
   relationsTurned,
   typesDeclaring,
 } from "akasha/pages/indexes/beside-turning/beside-turning.module.code.ts"
-import { declaredIn } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import {
   type Entry,
   fileKeysAt,
@@ -185,10 +184,6 @@ export function settlingOver(
     held.flatMap((one) => (one.after === null ? [] : ruleIn(one.after, one.path, repo)))
   )
 
-  const declaring = filingOf(
-    held.flatMap((one) => (one.was === null ? [] : declaredIn(one.was))),
-    held.flatMap((one) => (one.now === null ? [] : declaredIn(one.now)))
-  )
   const valued = filingOf(
     held.flatMap((one) => (one.was === null ? [] : valueIn(one.was, one.path, repo))),
     held.flatMap((one) => (one.now === null ? [] : valueIn(one.now, one.path, repo)))
@@ -267,7 +262,7 @@ export function settlingOver(
   const paths = filingOf(wasPaths, nowPaths)
   const listing = filingOf(listedOf(wasPaths), listedOf(nowPaths))
 
-  const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...declaring, ...valued])
+  const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...valued])
   const wasBody: Body = (at) => {
     const one = carried.get(under(repo, at))
     return one === undefined ? bodyAt(at) : one.before
@@ -326,16 +321,7 @@ export function settlingOver(
     now.flatMap((one) => one.entries)
   )
 
-  const filings = [
-    ...imported,
-    ...ruled,
-    ...identity,
-    ...paths,
-    ...relation,
-    ...valued,
-    ...listing,
-    ...declaring,
-  ]
+  const filings = [...imported, ...ruled, ...identity, ...paths, ...relation, ...valued, ...listing]
   return {
     reading: overlaidOn(given, filings),
     filings,
