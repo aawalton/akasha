@@ -16,7 +16,7 @@ export const theaChecksSystem = {
     {
       statement: "No gap invariant is written on checks-system or any part beneath it.",
       workingMemory:
-        "5 in play, from 31; 9 more sit on experimental pages and are out of scope. Six went this stretch. page-matches-its-type's closed by making an entry file an input, which turned up relation-resolves having already written that rule privately, so it folded onto change-walking. Of the five left, two on repository-is-written-by-a-change cannot close, one is Alan's model spend, and two on model-running serve no live case: the one model check states zero runs, so it never runs.",
+        "8 in play, from 31, and it rose rather than fell: check-reaches-a-path-through-the-index left experimental carrying three. 5 more wait behind that flag on identifier-matches-its-place and no-unparsed-boundary-read, so it climbs as checks graduate. Two on repository-is-written-by-a-change cannot close. Two on model-running and one on invariant-earns-its-place serve a subsystem switched off at zero runs, and each is paired with a stopgap a deletion would orphan.",
     },
   ],
   constraints: [
