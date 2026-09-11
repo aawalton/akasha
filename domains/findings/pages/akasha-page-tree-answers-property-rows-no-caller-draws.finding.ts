@@ -1,0 +1,13 @@
+import type { Finding } from "../finding.page-type.types.ts"
+
+export const akashaPageTreeAnswersPropertyRowsNoCallerDraws = {
+  id: "01a08dd6-5274-72a5-ab0d-41eff4603f45",
+  pageTypeSlug: "finding",
+  type: "finding",
+  slug: "akasha-page-tree-answers-property-rows-no-caller-draws",
+  domain: "domain/page",
+  claim:
+    "`akasha page-tree` answers a `propertyTypes` group of 1,802 rows and, within `properties`, 535 rows owned by `page-property-type/*`, and no drawing reads either. `page-tree-assemble` is the answer's only assembler and takes it for the `types` group alone, leaving the command's own test as the only body in the tree that reads the other two. `pageTreeLine` composes all three groups afresh on every index event, because the page-tree picture is declared `movesWithIndex: true`.",
+  evidence:
+    "The counts. Read at 2026-09-11T00:19:09Z against `e7bede7224fb`, `akasha page-tree` answered `types` 472, `propertyTypes` 1802 and `properties` 2409. Of the `properties` rows, 1874 name an owner under `page-type/*` and 535 name one under `page-property-type/*`. The `propertyTypes` rows carry 22 distinct kinds.\n\nThe readers. `grep -rn '\\.propertyTypes\\b'` over every `.ts` and `.tsx` outside `node_modules` answers two lines, both in `commands/pages/page/tree/page-tree.command.test.ts`, at 115 and 135, asserting the keys and the `type-slug` values of the command's own answer. `pageAnswers` has one caller that is neither a test nor the command itself, and `assemblePageTree` has the same one: `alan/harness/code-editor/data-interfaces/tree-drawing/tree-drawing.module.code.ts:112`. The 535 `page-property-type/*` rows inside `properties` reached a drawing only through `page-tree-assemble`, which reads neither group now.\n\nThe cost. That line calls `pageAnswers(root)`, which composes all three groups at `commands/pages/page/tree/page-tree.command.code.ts:230`. The page-tree picture in `alan/harness/code-editor/data-interfaces/data-watching/data-watching.module.code.ts` states `movesWithIndex: true`, so it is taken again on any event under the index rather than on a beat.\n\nWhere the last drawing went. The page types panel was renamed, stopped drawing properties, was nested by `extends`, and lost its second root across `93848f565f7e`, `f7c906862b57`, `77b94a5bafc0` and `366c49118262`. The command was touched by none of them: `git log 93848f565f7e^..HEAD -- commands/pages/page/tree/` is empty.\n\nNot measured. No reading was taken of what composing the two undrawn groups costs per index event, nor of how often the index moves. Running the command by hand still prints all three groups, and what anyone does with that output was not surveyed.",
+} as const satisfies Finding
