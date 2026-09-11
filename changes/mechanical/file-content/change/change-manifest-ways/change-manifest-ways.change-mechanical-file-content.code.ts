@@ -6,7 +6,7 @@ import {
   stating,
 } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Said, Splice } from "../../../../modules/answer/change-answer.module.types.ts"
-import { goneSpan } from "../../../../modules/json-entries/json-entries.module.code.ts"
+import { goneSpan, objectOf } from "../../../../modules/json-entries/json-entries.module.code.ts"
 import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const EXPORTS = "exports"
@@ -22,13 +22,6 @@ type Landing = { readonly said: string } | { readonly gone: true }
 export type Asked = {
   readonly at: string
   readonly moved: Readonly<Record<string, string>>
-}
-
-function heldIn(source: ts.JsonSourceFile): ts.ObjectLiteralExpression | null {
-  const first = source.statements[0]
-  if (first === undefined || !ts.isExpressionStatement(first)) return null
-  const held = first.expression
-  return ts.isObjectLiteralExpression(held) ? held : null
 }
 
 function namedIn(owner: ts.ObjectLiteralExpression, key: string): ts.PropertyAssignment | null {
@@ -97,7 +90,7 @@ function splicesFor(
   arriving: string,
   moved: ReadonlyMap<string, string>
 ): readonly Splice[] {
-  const owner = heldIn(source)
+  const owner = objectOf(source)
   const ways = owner === null ? null : namedIn(owner, EXPORTS)
   if (ways === null) return []
   const held = ways.initializer
