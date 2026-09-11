@@ -104,9 +104,11 @@ export function textsBy(named: string, taken: Input): Selector<Text> {
     isInput: (path, shadow) => taken(path, shadow),
     from: (change, shadow) => {
       const found: Text[] = []
-      for (const given of bodiesIn(change)) {
-        if (!taken(given.path, shadow)) continue
-        found.push({ root: given.root, path: given.path, text: bodyOf(given) })
+      for (const path of change.changed) {
+        if (!taken(path, shadow)) continue
+        const text = textIn(change, path)
+        if (text === null) continue
+        found.push({ root: change.root, path, text })
       }
       return found
     },
@@ -126,9 +128,11 @@ export const PAGES: Selector<Paged> = {
   isInput: pagedInside,
   from: (change, shadow) => {
     const found: Paged[] = []
-    for (const given of bodiesIn(change)) {
-      if (!pagedInside(given.path, shadow)) continue
-      found.push({ root: given.root, path: given.path, value: loadedFrom(bodyOf(given)) })
+    for (const path of change.changed) {
+      if (!pagedInside(path, shadow)) continue
+      const text = textIn(change, path)
+      if (text === null) continue
+      found.push({ root: change.root, path, value: loadedFrom(text) })
     }
     return found
   },

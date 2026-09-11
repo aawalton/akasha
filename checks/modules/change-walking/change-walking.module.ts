@@ -35,6 +35,10 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
+      statement: "A selector names a path before reading it, so a path it drops is never opened.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A selector over texts is told the index the change leaves as well as the path.",
     },
     {
