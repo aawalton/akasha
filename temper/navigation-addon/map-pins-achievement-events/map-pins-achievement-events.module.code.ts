@@ -1,6 +1,6 @@
 import { ACHIEVEMENTS_ID } from "akasha/temper/navigation-addon/map-pins-achievements-id/map-pins-achievements-id.module.code.ts"
 import { BOSSES_ACHIEVEMENTS } from "akasha/temper/navigation-addon/map-pins-bosses-achievements/map-pins-bosses-achievements.module.code.ts"
-import { CUSTOM_PINS } from "akasha/temper/navigation-addon/map-pins-config/map-pins-config.module.code.ts"
+import { refreshCompass } from "akasha/temper/navigation-addon/map-pins-compass-pins/map-pins-compass-pins.module.code.ts"
 import type {
   IdSet,
   NumberMap,
@@ -20,12 +20,6 @@ const bossesAchievements: IdSet = BOSSES_ACHIEVEMENTS
 
 function parseLuaCapture(this: void, captured: string | undefined): string | undefined {
   return captured
-}
-
-function refreshCompass(this: void, n: number): undefined {
-  const pin = CUSTOM_PINS[n]
-  if (pin === undefined) return
-  if (COMPASS_PINS !== undefined) COMPASS_PINS.RefreshPins(pin.name)
 }
 
 export function onAchievementUpdate(this: void, achievementId: number): undefined {

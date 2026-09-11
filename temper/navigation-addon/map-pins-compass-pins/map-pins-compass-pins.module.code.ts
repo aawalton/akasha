@@ -200,6 +200,12 @@ export function compassPinAddCallback(this: void, i: number): undefined {
   STATE.updatingCompassPin[i] = false
 }
 
+export function refreshCompass(this: void, i: number): undefined {
+  const pin = CUSTOM_PINS[i]
+  if (pin === undefined) return
+  if (COMPASS_PINS !== undefined) COMPASS_PINS.RefreshPins(pin.name)
+}
+
 export function addCompassCustomPin(this: void, _id: number, i: number): undefined {
   if (
     COMPASS_PINS !== undefined &&
