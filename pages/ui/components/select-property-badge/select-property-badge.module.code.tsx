@@ -11,20 +11,13 @@ import {
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+import {
+  findOption,
+  getOptions,
+} from "akasha/pages/core/property-types/select/select.module.code.ts"
 import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
 import type { BadgeVariant } from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"
-import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
-import { selectConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
-import type { SelectOption } from "akasha/pages/core/schema/select-option-create/select-option-create.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
-
-function getOptions(definition: PropertyDefinition): readonly SelectOption[] {
-  return parseConfig(selectConfigSchema, definition.config, { options: [] }).options
-}
-
-function findOption(options: readonly SelectOption[], id: string): SelectOption | undefined {
-  return options.find((o) => o.id === id)
-}
 
 const DROPDOWN_TRIGGER_CLS =
   "inline-flex h-5 cursor-pointer items-center outline-none focus-visible:[outline-offset:-1px] focus-visible:[outline:1.5px_solid_var(--color-accent)]"

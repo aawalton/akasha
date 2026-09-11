@@ -7,4 +7,10 @@ export const select = {
   slug: "select",
   definition: "the property type storing a single choice from a list of options",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The options a property declares are read here rather than by each reader.",
+    },
+  ],
 } as const satisfies Module

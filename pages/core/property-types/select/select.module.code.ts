@@ -13,7 +13,7 @@ export interface OptionLike {
   readonly label: string
 }
 
-function getOptions(definition: PropertyDefinition): readonly OptionLike[] {
+export function getOptions(definition: PropertyDefinition): readonly OptionLike[] {
   return parseConfig(selectConfigSchema, definition.config, { options: [] }).options
 }
 
