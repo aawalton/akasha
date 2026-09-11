@@ -73,6 +73,11 @@ const LOADER_KEYED =
 
 const PAST_ITS_LOADER = `${LOADER_KEYED}export default function Home() {\n  return null\n}\n`
 
+const NAMED_IN_LOADER =
+  "export function loader(): Response {\n  return Response.json(process.env.NEXT_PUBLIC_BUILD_SHA)\n}\n"
+
+const NAMED_INSIDE_A_LOADER_PAST_IT = `${NAMED_IN_LOADER}export function meta() {\n  return []\n}\nexport default function Home() {\n  return null\n}\n`
+
 function asking(texts: Readonly<Record<string, string>>, given?: Partial<Asking>): Asking {
   return {
     appsFiled: () => [PAGE],
@@ -118,6 +123,18 @@ test("a route module exporting its loader alone is let through", () => {
 
 test("a route module exporting past its loader is judged", () => {
   expect(over(ROUTE, PAST_ITS_LOADER)).toHaveLength(1)
+})
+
+test("a route module exporting its loader alone is clean where that loader reads a name", () => {
+  expect(over(ROUTE, NAMED_IN_LOADER)).toEqual([])
+})
+
+test("a route module past its loader is clean where the name is read inside that loader", () => {
+  expect(over(ROUTE, NAMED_INSIDE_A_LOADER_PAST_IT)).toEqual([])
+})
+
+test("a module outside every app folder is clean where it reads a name", () => {
+  expect(refusalsOver([HELPER], asking({ [TABLE]: TABLE_TEXT, [HELPER]: WRITTEN }))).toEqual([])
 })
 
 test("the root route is judged", () => {
