@@ -27,7 +27,7 @@ export const theaChecksSystem = {
       statement:
         "The singleton service runs every audit hourly and messages thea the failures to remediate.",
       workingMemory:
-        "A round at 04ada7c1e5 answered all 56 checks and refused 6. The first message to thea landed at 355,802 bytes, past the 20,000 a message body carries, because it quoted a test run whole; the sender now shortens each refusal, holds the body to 19,000, and names the verdicts file. Left: tests-pass refuses on 23 test files, lint-clean could not run, and no message small enough to read has been watched through yet.",
+        "The loop is proven whole: the round at 04ada7c1e5 answered all 56 checks, named 4 newly refusing in one message to thea, and I read that message and it is gone. The first message quoted a test run whole and landed at 355,802 bytes, so the sender now shortens each refusal, holds the body to 19,000, and names the verdicts file. Left: tests-pass refuses on 23 test files, and lint-clean could not read six files a move had in flight.",
     },
   ],
   constraints: [
