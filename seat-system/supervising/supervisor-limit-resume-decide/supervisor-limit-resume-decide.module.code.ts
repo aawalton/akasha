@@ -1,3 +1,5 @@
+import { seconds } from "akasha/utils/text/seconds/seconds.module.code.ts"
+
 export const ELIGIBILITY_HOLD_MS = 60_000
 
 export const LIMIT_RESUME_FLOOR_MS = 120_000
@@ -16,10 +18,6 @@ export type LimitResumeDecision =
   | { readonly kind: "nudge"; readonly reason: string }
   | { readonly kind: "wait"; readonly reason: string }
   | { readonly kind: "hold"; readonly reason: string }
-
-function seconds(ms: number): string {
-  return `${Math.round(ms / 1000)}s`
-}
 
 function underCapacity(input: LimitResumeInput): LimitResumeDecision {
   const holdMs = input.eligibilityHoldMs ?? ELIGIBILITY_HOLD_MS

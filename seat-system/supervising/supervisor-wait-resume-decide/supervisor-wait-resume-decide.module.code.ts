@@ -1,3 +1,5 @@
+import { seconds } from "akasha/utils/text/seconds/seconds.module.code.ts"
+
 export const WAIT_FIRST_MS = 30_000
 
 export const WAIT_MAX_MS = 1_800_000
@@ -19,10 +21,6 @@ export function waitMs(consecutiveDeaths: number): number {
   const doublings = Math.max(0, seen - 2)
   const grown = WAIT_FIRST_MS * 2 ** Math.min(doublings, 64)
   return Math.min(grown, WAIT_MAX_MS)
-}
-
-function seconds(ms: number): string {
-  return `${Math.round(ms / 1000)}s`
 }
 
 export function decideWaitResume(input: WaitResumeInput): WaitResumeDecision {
