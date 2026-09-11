@@ -65,8 +65,7 @@ export const supervisorHeartbeatBeat = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The beat module is reached beside this module rather than by a path from the root.",
+      statement: "Where the beat module sits is asked of the index rather than spelled.",
     },
   ],
 } as const satisfies Module

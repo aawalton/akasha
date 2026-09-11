@@ -1,4 +1,10 @@
-import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { join } from "node:path"
+import {
+  ownRepoRoot,
+  resolveRoots,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Outcome } from "akasha/seat-system/gated-write/gated-write.module.code.ts"
 import { keepBeside } from "akasha/seat-system/seat-beside/seat-beside.module.code.ts"
 import { runningModeIn } from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
@@ -22,10 +28,28 @@ import {
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
-const BEAT = new URL("../../seat-page-beat/seat-page-beat.module.code.ts", import.meta.url).pathname
+const MODULE = "module"
+
+const BEAT_SLUG = "seat-page-beat"
+
+const CODE = "code"
+
+const TS = "ts"
+
+function beatAt(): string {
+  const root = ownRepoRoot()
+  const page = listedAt(root, MODULE, BEAT_SLUG)[0]
+  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
+  if (at === null) {
+    throw new Error(
+      `no \`${MODULE}\` is slugged \`${BEAT_SLUG}\`, so no seat page would be written`
+    )
+  }
+  return join(root, at)
+}
 
 function beatArgv(args: readonly string[]): readonly string[] {
-  return [BEAT, ...args]
+  return [beatAt(), ...args]
 }
 
 function parseBeatReport(held: unknown): BeatReport | null {
