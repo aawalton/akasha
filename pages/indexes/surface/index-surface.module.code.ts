@@ -1,12 +1,13 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { INDEXES, storeAt } from "akasha/files/git-place/git-place.module.code.ts"
 import type { Child, Filing, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 
 const ROOT = ""
 
 const SLASH = "/"
 
-export const INDEX_AT = ".git/indexes"
+export const INDEX_AT = storeAt(INDEXES)
 
 export function indexIn(root: string): string {
   return join(root, INDEX_AT)
