@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperHoldingsThing = {
   id: "01a05fcb-fd2b-77f2-923a-cb5f59585696",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-holdings-thing",
   definition: "a reading of what an account holds",

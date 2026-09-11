@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const kiCollectionTemplate = {
   id: "01a06825-d0ec-7fb0-9159-d7bc2e559c43",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "ki-collection-template",
   definition: "a collection of Ki's, held apart from Alan's",

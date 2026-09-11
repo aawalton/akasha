@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const deviceToken = {
   id: "01a05dc7-77d9-7c93-878e-d93457c7db5f",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "device-token",
   definition: "where Apple delivers a push for one app on one device",

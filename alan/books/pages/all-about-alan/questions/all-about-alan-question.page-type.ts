@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const allAboutAlanQuestion = {
   id: "01a077d9-ec56-7451-945a-1b2355aa31dc",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "all-about-alan-question",
   definition: "one thing still open about a topic about Alan",

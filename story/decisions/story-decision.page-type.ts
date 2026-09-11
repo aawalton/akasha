@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const storyDecision = {
   id: "01a06578-d638-7072-8faf-6245b8cda4ae",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "story-decision",
   definition: "one fork a reader settled, with what the settling changed",

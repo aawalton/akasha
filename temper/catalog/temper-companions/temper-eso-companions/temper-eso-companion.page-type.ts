@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperEsoCompanion = {
   id: "01a05fcf-2466-7bcb-9ec1-3f0fd467d879",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-eso-companion",
   definition: "a companion The Elder Scrolls Online itself names",

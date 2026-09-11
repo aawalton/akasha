@@ -8,7 +8,6 @@ export type WorkedDay = Omit<Day, "sessions"> & {
 
 export const day = {
   id: "01a05fd8-c30f-72ee-80d9-eb1c179b8359",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "day",
   definition: "what was measured about one of Alan's days",

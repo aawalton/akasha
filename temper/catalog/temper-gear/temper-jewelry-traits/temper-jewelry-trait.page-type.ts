@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperJewelryTrait = {
   id: "01a05fd1-d433-7c53-933e-ed171c6f7cf9",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-jewelry-trait",
   definition: "a property a piece of jewelry is worked with",

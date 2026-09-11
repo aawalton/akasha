@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const bookRecord = {
   id: "01a0657d-b91d-7500-8bc9-4bbfb71443f8",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "book-record",
   definition: "one record kept about a book Alan is writing",

@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const phoneNumberProperty = {
   id: "01a053e9-5cd1-7137-9fbb-c33920c95575",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "phone-number-property",
   definition: "a page property with a telephone number",

@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const game = {
   id: "01a0673e-1000-7005-9766-e0a425ef3a66",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "game",
   definition: "a story Alan plays through with a persona running the other side",

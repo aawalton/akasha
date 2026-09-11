@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const masteryLevel = {
   id: "01a0784a-cdb9-75af-be55-75cc37d93123",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "mastery-level",
   definition: "one rung on the scale a topic's mastery is scored against",

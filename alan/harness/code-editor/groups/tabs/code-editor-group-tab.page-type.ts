@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const codeEditorGroupTab = {
   id: "01a06826-92e5-7347-826a-2896ea71b0ee",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "code-editor-group-tab",
   definition: "a single open item within a group",

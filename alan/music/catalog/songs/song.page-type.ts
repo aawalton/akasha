@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const song = {
   id: "01a06243-144b-7012-9da5-a570a8174672",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "song",
   definition: "a piece of music Alan keeps",

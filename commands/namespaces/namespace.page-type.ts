@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const namespace = {
   id: "01a06c7c-54b5-712b-b4a2-9ada10279dff",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "namespace",
   definition: "a domain gathering the commands whose slugs open with its own and a hyphen",

@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const book = {
   id: "01a06598-222b-7002-9769-8ec160210422",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "book",
   definition: "one book Alan reads",

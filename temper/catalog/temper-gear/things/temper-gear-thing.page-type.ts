@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperGearThing = {
   id: "01a05fcc-41ef-7386-84ed-43fb6534121e",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-gear-thing",
   definition: "anything a character wears, wields or brews",

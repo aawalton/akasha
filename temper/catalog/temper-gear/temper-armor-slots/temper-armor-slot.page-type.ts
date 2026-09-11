@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperArmorSlot = {
   id: "01a05fd1-d430-78b6-bef0-e0208b62ccf9",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-armor-slot",
   definition: "a place on the body a piece of armor is worn",

@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperCompanionProgress = {
   id: "01a05fcd-f54b-7497-b549-b7f8ef55b323",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-companion-progress",
   definition: "how far a companion has come with one account",

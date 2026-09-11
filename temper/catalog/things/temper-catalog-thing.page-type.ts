@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperCatalogThing = {
   id: "01a05fb0-3cea-7e62-9477-d1a11db7b2e5",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-catalog-thing",
   definition: "anything the game itself holds that temper mirrors a page for",

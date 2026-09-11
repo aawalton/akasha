@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const fitnessEquipment = {
   id: "01a06834-ca86-76cb-a54a-6f86a5225afc",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "fitness-equipment",
   definition: "a piece of kit Alan can load a movement with",

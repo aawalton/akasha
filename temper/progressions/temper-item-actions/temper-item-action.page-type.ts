@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperItemAction = {
   id: "01a071e1-92d5-7458-b0c0-499ac75aeb8b",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-item-action",
   definition: "one thing an item rule does to an item the rule matches",

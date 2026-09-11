@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const selectProperty = {
   id: "01a063de-2c60-7003-a9bc-92d52325a70d",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "select-property",
   definition: "a page property with one of a set of values the property states",

@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const image = {
   id: "019f14c3-27e4-7b72-bc0c-6e12bbd8577a",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "image",
   definition: "one picture the system has",

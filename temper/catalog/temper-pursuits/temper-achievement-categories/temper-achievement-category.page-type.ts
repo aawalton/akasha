@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperAchievementCategory = {
   id: "01a06168-7245-7000-bc3b-b40339a88d31",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-achievement-category",
   definition: "one heading the game files a player's achievements under",

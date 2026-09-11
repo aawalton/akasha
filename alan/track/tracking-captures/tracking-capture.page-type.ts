@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const trackingCapture = {
   id: "01a06827-ec0b-7fa8-bb0a-ae697d6c6a9e",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "tracking-capture",
   definition: "how something Alan did comes to be an entry",

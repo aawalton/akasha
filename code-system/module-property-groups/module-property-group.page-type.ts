@@ -8,7 +8,6 @@ export type ModulePropertyGroupCeilings = Pick<
 
 export const modulePropertyGroup = {
   id: "01a087b6-ed4d-74ed-b30f-7c9dd49d73c0",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "module-property-group",
   definition: "a file property group held in a module's code, test and test fixtures",

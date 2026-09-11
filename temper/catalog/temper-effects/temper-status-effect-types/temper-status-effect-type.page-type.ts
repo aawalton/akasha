@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperStatusEffectType = {
   id: "01a05fc5-94d1-7ae2-b16f-ba2a9dd2c0a7",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-status-effect-type",
   definition: "a kind of condition a hit leaves on its target",

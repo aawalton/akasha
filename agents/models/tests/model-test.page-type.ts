@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const modelTest = {
   id: "01a053eb-6b23-7825-ab5f-2b95d3bd1e95",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "model-test",
   definition: "a prompt and the labelled cases that say whether it works",

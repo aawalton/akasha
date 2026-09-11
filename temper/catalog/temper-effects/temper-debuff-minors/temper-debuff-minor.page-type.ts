@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperDebuffMinor = {
   id: "01a05fc5-94cf-7f43-9797-17fbafcb401e",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-debuff-minor",
   definition: "a harmful effect the game names Minor",

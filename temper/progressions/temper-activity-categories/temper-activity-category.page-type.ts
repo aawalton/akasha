@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperActivityCategory = {
   id: "01a05fc9-9a01-773d-b715-ed0cbfa91604",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-activity-category",
   definition: "a sort of thing there is to do in the game",

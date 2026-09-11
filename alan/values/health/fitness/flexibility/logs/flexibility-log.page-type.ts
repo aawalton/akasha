@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const flexibilityLog = {
   id: "01a06558-36e9-75e2-bcf3-ce91fd6e945b",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "flexibility-log",
   definition: "one measurement of how far a joint moved on a day",

@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const greatCourse = {
   id: "01a06574-0291-7002-a1fa-cbd1f9cc0fb4",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "great-course",
   definition: "one course Alan is taught by",

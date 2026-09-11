@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const sentenceShape = {
   id: "01a05da1-60fc-76ca-8503-b43deb6d5f53",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "sentence-shape",
   definition: "one shape a sentence takes, and whether akasha writes in it",

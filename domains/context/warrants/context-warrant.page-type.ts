@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const contextWarrant = {
   id: "01a04f56-55c4-7000-ba0d-c91b6e76b850",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "context-warrant",
   definition: "a module naming what a change to a file requires its writer to have read",

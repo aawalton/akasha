@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperCharacterThing = {
   id: "01a05fc7-2438-772b-b909-71a3ac0f3bc7",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-character-thing",
   definition: "anything about one player and the characters that player owns",

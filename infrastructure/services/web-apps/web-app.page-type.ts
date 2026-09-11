@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const webApp = {
   id: "01a05b26-f8b6-7d74-a301-0488daed8bbc",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "web-app",
   definition: "a site built from one folder of this repository and served over the web",

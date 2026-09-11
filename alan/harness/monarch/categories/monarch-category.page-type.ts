@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const monarchCategory = {
   id: "01a0680a-1a00-700c-9f28-6e4a7b2d110c",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "monarch-category",
   definition: "what a transaction counts as, from groceries to salary",

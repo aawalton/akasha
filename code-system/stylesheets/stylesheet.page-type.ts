@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const stylesheet = {
   id: "01a05b01-48b1-72b3-961d-f31190becdc7",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "stylesheet",
   definition: "the rules a browser dresses something by",

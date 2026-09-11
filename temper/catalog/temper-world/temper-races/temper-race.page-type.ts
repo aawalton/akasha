@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperRace = {
   id: "01a05fc4-7a95-7a17-b702-bdb4627956d0",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-race",
   definition: "a people a character is born into",

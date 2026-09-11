@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const builtImage = {
   id: "01a08193-c20c-7525-aced-8d801a2e9cd6",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "built-image",
   definition: "a container image a Dockerfile is written for",

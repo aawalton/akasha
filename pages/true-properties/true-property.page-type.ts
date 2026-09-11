@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const trueProperty = {
   id: "01a09096-7619-7b62-b6a6-292e9807cf7b",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "true-property",
   definition: "a page property holding true and holding nothing else",

@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const route = {
   id: "01a071dc-83c4-7030-b380-57eb6c741b5b",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "route",
   definition: "code a router serves under a url path",

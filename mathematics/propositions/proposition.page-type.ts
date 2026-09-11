@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const proposition = {
   id: "01a06575-c2ab-7655-98f1-b3163771f0dc",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "proposition",
   definition: "one statement in the formal system Alan is building",

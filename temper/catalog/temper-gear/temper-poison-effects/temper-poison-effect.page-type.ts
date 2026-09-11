@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperPoisonEffect = {
   id: "01a05fd1-d434-7ecc-bbf1-c13d68007b96",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-poison-effect",
   definition: "one effect a reagent lends what it is brewed into",

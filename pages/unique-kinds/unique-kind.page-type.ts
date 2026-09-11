@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const uniqueKind = {
   id: "01a04edd-897d-7e60-9206-d1b3a52bea1f",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "unique-kind",
   definition: "which pages a property's value is unique among",

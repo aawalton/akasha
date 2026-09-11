@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperClass = {
   id: "01a05fca-cb89-7c15-a7d1-9bf0b42293c8",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-class",
   definition: "a calling a character is made with",

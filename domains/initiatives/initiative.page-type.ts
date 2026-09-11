@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const initiative = {
   id: "01a04e58-5735-72b4-b945-56366461c776",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "initiative",
   definition: "work that closes gaps between how a domain is and how it should be",

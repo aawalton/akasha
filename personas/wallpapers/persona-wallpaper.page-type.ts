@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const personaWallpaper = {
   id: "01a0655b-4a9b-700c-8243-c78f27e30dd7",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "persona-wallpaper",
   definition: "the picture a persona was hung on Alan's glass as",

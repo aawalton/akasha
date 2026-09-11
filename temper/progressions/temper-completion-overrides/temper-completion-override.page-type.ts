@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperCompletionOverride = {
   id: "01a05fd0-3aa7-7efc-9f5f-080d0b9f5bd0",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-completion-override",
   definition: "a completion count set by hand where the game reports it too low",

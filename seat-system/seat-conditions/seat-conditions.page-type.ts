@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const seatConditions = {
   id: "01a06837-f101-7420-89ad-7e146f4cbaf5",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "seat-conditions",
   definition: "what a seat settles for an agent before the agent starts working there",

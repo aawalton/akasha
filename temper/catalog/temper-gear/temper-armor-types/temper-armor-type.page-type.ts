@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperArmorType = {
   id: "01a05fd1-d430-77ed-ace6-98856e2a09d7",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-armor-type",
   definition: "a kind of armor piece, apart from the weight it is made at",

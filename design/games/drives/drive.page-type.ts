@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const drive = {
   id: "01a06746-de46-7a10-980b-3134872d9f6b",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "drive",
   definition: "what makes a person want to act",

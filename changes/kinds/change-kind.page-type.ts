@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const changeKind = {
   id: "01a05e11-d3f8-72af-b104-6cdd1255b0eb",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "change-kind",
   definition: "which sort one change is",

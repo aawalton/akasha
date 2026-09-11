@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const allAboutAlanExperiment = {
   id: "01a0657f-a729-7906-84f8-825c8af36228",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "all-about-alan-experiment",
   definition: "one measured trial about Alan",

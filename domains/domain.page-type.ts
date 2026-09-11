@@ -22,7 +22,6 @@ export const domain = {
     "text-property/linked-at",
     "build-folder-property/output-directory",
   ],
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "domain",
   definition: "a bounded area of concern",

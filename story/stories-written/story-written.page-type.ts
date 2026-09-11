@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const storyWritten = {
   id: "01a06554-d8bd-7502-a414-fd4fd32eba45",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "story-written",
   definition: "a story written here",

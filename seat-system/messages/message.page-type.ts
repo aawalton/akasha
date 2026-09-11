@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const message = {
   id: "01a06818-107b-7005-8e69-8cefb68f3cdf",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "message",
   definition: "text sent to somebody",

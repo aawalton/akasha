@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const pythonModule = {
   id: "01a06815-9efd-7001-8696-539b1123a2c0",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "python-module",
   definition: "code in the Python language",

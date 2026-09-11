@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const restaurant = {
   id: "01a06807-be66-700b-be52-bd042c86fc17",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "restaurant",
   definition: "a place Alan eats at",

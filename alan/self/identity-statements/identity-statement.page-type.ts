@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const identityStatement = {
   id: "01a0658a-739f-7d92-aed5-20be788a960f",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "identity-statement",
   definition: "one sentence Alan means to become true of him",

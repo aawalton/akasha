@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const monarchTag = {
   id: "01a0680a-1a00-700f-a758-9b2c6e3f110f",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "monarch-tag",
   definition: "a label applied to a transaction",

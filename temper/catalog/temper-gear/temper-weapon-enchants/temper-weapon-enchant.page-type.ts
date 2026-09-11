@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperWeaponEnchant = {
   id: "01a05fd1-d441-7e40-89d2-1fcb87133420",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-weapon-enchant",
   definition: "a glyph put on a weapon",

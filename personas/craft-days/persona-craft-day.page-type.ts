@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const personaCraftDay = {
   id: "01a0655b-4a9b-700e-86cf-9bc6a7104f89",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "persona-craft-day",
   definition: "what the persona who makes personas did on one day",

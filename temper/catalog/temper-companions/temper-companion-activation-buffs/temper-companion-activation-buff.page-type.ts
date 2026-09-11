@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperCompanionActivationBuff = {
   id: "01a05fcd-41a7-7f50-b3d4-a62fb6c122e1",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-companion-activation-buff",
   definition: "a sort of buff a companion ability grants on activation",

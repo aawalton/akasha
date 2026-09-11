@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const kiShow = {
   id: "01a06825-d0ec-71a0-a7ee-80d30e5385ef",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "ki-show",
   definition: "a story Ki watches in episodes over seasons",

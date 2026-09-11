@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperConditionField = {
   id: "01a07202-f0fd-7b35-bff8-c4cc5e25da86",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-condition-field",
   definition: "one thing about an item that a rule condition tests",

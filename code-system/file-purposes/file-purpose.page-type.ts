@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const filePurpose = {
   id: "01a06837-0535-7469-ab8e-6bda76b453a7",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "file-purpose",
   definition: "what a file is for, told by its name ending rather than its format",

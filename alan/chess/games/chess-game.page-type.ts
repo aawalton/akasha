@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const chessGame = {
   id: "01a06582-bd62-7ffe-a236-e510097e9b91",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "chess-game",
   definition: "one game of chess played out to its end",

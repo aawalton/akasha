@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const flag = {
   id: "01a06835-e289-76ca-8e3e-0ef012ffdf1a",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "flag",
   definition: "a switch held outside the code that reads it",

@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperCompanionPassiveMetric = {
   id: "01a05fcd-41a8-7a56-ac2f-218a9b9953da",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-companion-passive-metric",
   definition: "a number a companion passive moves",

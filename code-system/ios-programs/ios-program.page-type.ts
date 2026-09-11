@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const iosProgram = {
   id: "01a05901-26b3-7d1b-aec6-3b467f5f5b8d",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "ios-program",
   definition: "one thing an iOS package builds",

@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperProgressThing = {
   id: "01a05fc6-81f8-7cb5-aed3-00e2ac534314",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-progress-thing",
   definition: "anything temper keeps a page for about what is done and what is left",

@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const worldCurse = {
   id: "01a06558-a991-70f3-9df8-3f1468231807",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "world-curse",
   definition: "a lasting harm somebody lays on a character",

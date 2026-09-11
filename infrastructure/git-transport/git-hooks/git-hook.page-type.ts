@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const gitHook = {
   id: "01a08b9f-d972-7ee0-8e22-db3bbd9747c8",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "git-hook",
   definition: "a shell script git runs under a name git fixes",

@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const esoAddon = {
   id: "01a06036-9b77-710a-8ddc-ee7c58591896",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "eso-addon",
   definition: "one thing the game loads out of its AddOns folder",

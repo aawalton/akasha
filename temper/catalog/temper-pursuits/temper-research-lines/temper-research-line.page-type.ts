@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperResearchLine = {
   id: "01a0616b-2cdf-7005-a903-e1d072da4881",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-research-line",
   definition: "one shape of item a player researches traits on",

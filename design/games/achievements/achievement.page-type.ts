@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const achievement = {
   id: "01a06807-be66-7009-aef9-4834eb342f4f",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "achievement",
   definition: "a mark a game gives for finishing something in it",

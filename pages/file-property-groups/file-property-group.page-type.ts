@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const filePropertyGroup = {
   id: "01a087b2-13af-7316-9986-2aadf342ea64",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "file-property-group",
   definition: "a page property held in a set of files",

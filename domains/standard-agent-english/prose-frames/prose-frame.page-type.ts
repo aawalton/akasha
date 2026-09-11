@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const proseFrame = {
   id: "01a08241-f81d-7e21-8584-c7cc1ab6cf98",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "prose-frame",
   definition: "which construction one word is written in",

@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const graphNode = {
   id: "01a04fe8-cebb-7a08-ad56-e698e175e03b",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "graph-node",
   definition: "a thing the graph can name",

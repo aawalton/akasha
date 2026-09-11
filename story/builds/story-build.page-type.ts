@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const storyBuild = {
   id: "01a06578-d638-74fa-9fea-d5dfb9cf10ec",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "story-build",
   definition: "what a played character's numbers are at one chapter",

@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperWeaponTrait = {
   id: "01a05fd1-d442-7175-b5e4-f7ef9e21a36c",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-weapon-trait",
   definition: "a property a weapon is worked with",

@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const workspacePackage = {
   id: "01a05891-1ea4-7c85-947f-8f033081b276",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "workspace-package",
   definition: "a folder with a package.json file",

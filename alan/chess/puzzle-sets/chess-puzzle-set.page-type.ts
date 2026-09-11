@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const chessPuzzleSet = {
   id: "01a06582-bd62-7a9f-a011-94835eaaf909",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "chess-puzzle-set",
   definition: "a body of chess puzzles taken from one place",

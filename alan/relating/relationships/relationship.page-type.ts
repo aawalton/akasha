@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const relationship = {
   id: "01a06594-c6e2-7bab-9ba9-948b607cfd13",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "relationship",
   definition: "one person in Alan's life, and how close they are",

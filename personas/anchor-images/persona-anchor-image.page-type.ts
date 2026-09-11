@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const personaAnchorImage = {
   id: "01a0655b-4a9b-700a-b7af-04be2a9c0df4",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "persona-anchor-image",
   definition: "the picture every other picture of a persona is drawn to match",

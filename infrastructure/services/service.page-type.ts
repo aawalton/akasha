@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const service = {
   id: "01a05a3c-caff-7656-b00d-cbde9f3cf324",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "service",
   definition: "a thing a deploy puts up",

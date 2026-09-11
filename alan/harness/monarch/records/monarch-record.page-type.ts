@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const monarchRecord = {
   id: "01a0680a-1a00-7001-b8f4-2c9e5a7b1102",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "monarch-record",
   definition: "one thing Monarch keeps about the household's money",

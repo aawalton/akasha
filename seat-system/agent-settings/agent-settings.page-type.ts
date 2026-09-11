@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const agentSettings = {
   id: "01a0657b-ad3f-7ce8-99f8-04da79375570",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "agent-settings",
   definition: "one document declaring how the agent harness on this workstation is set up",

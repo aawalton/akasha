@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const sync = {
   id: "01a06835-e289-7ad6-8588-3a59938a1140",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "sync",
   definition: "one outside place this system pulls from, and how each pull went",

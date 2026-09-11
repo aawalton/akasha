@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const smsDiscard = {
   id: "019fee8b-0d29-7123-afe0-de23c4c7338d",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "sms-discard",
   definition: "one inbound text message that was thrown away, and why",

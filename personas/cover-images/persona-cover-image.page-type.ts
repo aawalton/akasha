@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const personaCoverImage = {
   id: "01a0655b-4a9b-700b-a9cc-a60c8e139737",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "persona-cover-image",
   definition: "the picture a persona is shown by at a rung of closeness",

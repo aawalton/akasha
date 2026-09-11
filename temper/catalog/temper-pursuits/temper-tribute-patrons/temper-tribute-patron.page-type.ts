@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperTributePatron = {
   id: "01a06153-0ea9-7008-ab66-7b7e073ebf51",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-tribute-patron",
   definition: "a patron a Tales of Tribute deck is built around",

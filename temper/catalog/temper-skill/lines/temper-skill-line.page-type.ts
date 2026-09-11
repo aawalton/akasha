@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperSkillLine = {
   id: "01a05fca-cb8b-7189-8133-38b9f311342c",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-skill-line",
   definition: "a track of skills a character raises together",

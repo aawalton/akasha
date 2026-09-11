@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const reviewSession = {
   id: "01a06743-d160-7001-9131-181af10f9b87",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "review-session",
   definition: "one pass a persona made over the part of Alan's life she watches",

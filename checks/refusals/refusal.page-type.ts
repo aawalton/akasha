@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const refusal = {
   id: "01a0699d-4000-7a11-9c02-3f61b0d24e77",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "refusal",
   definition: "the words printed when an instrument refuses",

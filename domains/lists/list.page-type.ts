@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const list = {
   id: "01a06838-7a9d-7597-b7a6-0f752f753e26",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "list",
   definition: "a domain whose subject is a set, its members named and glossed",

@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const car = {
   id: "01a065a0-0000-7000-8000-000000000401",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "car",
   definition: "one level of a maker's catalogue, as Alan weighed buying from it",

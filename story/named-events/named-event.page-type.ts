@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const namedEvent = {
   id: "01a0658b-9f41-7cc1-93d8-f47f7aa3b771",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "named-event",
   definition: "something happening once in a story that its people afterwards date other things by",

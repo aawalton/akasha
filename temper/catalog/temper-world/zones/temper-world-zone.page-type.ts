@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperWorldZone = {
   id: "01a06167-3f9b-700d-bf56-54687a9f3c3a",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-world-zone",
   definition: "a region of the game world a player is shown completion against",

@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const storyWikiEntry = {
   id: "01a06578-d638-7c48-8225-eb46a4fbf9c6",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "story-wiki-entry",
   definition: "what a story has established about one of the things in it",

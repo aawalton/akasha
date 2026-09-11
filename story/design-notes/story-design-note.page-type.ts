@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const storyDesignNote = {
   id: "01a06578-d638-794d-b1f4-f5c46500a7e9",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "story-design-note",
   definition: "one document worked out while a story's design was being settled",

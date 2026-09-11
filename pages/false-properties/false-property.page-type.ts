@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const falseProperty = {
   id: "01a09098-9665-7ee2-9d86-1ea894bbc313",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "false-property",
   definition: "a page property holding false and holding nothing else",

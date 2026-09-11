@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const bannedTerm = {
   id: "01a081ea-d66b-7bae-bde1-753ebd310536",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "banned-term",
   definition: "one term akasha writes another term in place of",

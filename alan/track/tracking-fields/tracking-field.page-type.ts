@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const trackingField = {
   id: "01a06827-ec0c-79f7-864d-da0cf491975e",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "tracking-field",
   definition: "one aspect of Alan that takes a value each time it is observed",

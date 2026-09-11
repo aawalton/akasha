@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const episode = {
   id: "01a06599-ee09-7004-a115-2ffdedceb64a",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "episode",
   definition: "one instalment of a season",

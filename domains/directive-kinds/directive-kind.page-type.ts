@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const directiveKind = {
   id: "01a04e1f-cbf6-755d-bd7d-e46ba13c0087",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "directive-kind",
   definition: "which sort one directive is",

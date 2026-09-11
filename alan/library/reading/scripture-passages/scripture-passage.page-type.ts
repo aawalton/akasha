@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const scripturePassage = {
   id: "01a0658d-fe50-7005-97df-2bbcb319b080",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "scripture-passage",
   definition: "one chapter of scripture Alan reads",

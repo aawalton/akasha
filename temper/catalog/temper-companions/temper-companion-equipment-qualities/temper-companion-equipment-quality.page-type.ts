@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperCompanionEquipmentQuality = {
   id: "01a05fcd-aed0-75bf-9fe4-d95291c165fb",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-companion-equipment-quality",
   definition: "a grade a piece of companion equipment comes at",

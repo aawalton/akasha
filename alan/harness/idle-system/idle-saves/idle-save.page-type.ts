@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const idleSave = {
   id: "01a06826-794a-7698-b659-62bf92ba16c3",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "idle-save",
   definition: "where one player's idle game is",

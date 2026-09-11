@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperRuleTemplate = {
   id: "01a05fd0-3aa6-7646-b33d-56f120ee1438",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-rule-template",
   definition: "a ready-made rule for what to do with an item",

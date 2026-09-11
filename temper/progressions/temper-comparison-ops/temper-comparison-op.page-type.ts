@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperComparisonOp = {
   id: "01a05fc9-9a02-7bf9-8334-b9a9baaf4ee4",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "temper-comparison-op",
   definition: "a way of comparing a number an item rule reads",

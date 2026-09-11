@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const namePlace = {
   id: "01a04fc9-2ad4-7896-ae44-4569ddae3f7e",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "name-place",
   definition: "a place a name appears, and the format it is written in there",

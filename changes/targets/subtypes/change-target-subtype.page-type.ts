@@ -2,7 +2,6 @@ import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const changeTargetSubtype = {
   id: "01a07c71-2924-76f9-b37f-a239b7b97045",
-  pageTypeSlug: "page-type",
   type: "page-type",
   slug: "change-target-subtype",
   definition: "a narrower sort of thing a change acts on",
