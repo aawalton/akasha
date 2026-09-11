@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.types.ts"
+import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.types.ts"
 
 export const phoenixAscensionCultivationLitrpg = {
   id: "01a0657d-ada4-766d-995d-5c6bf82373eb",

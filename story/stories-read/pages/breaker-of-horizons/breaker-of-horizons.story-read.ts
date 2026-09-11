@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.types.ts"
+import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.types.ts"
 
 export const breakerOfHorizons = {
   id: "01a0657d-ada1-7ece-af7f-194b059371d8",

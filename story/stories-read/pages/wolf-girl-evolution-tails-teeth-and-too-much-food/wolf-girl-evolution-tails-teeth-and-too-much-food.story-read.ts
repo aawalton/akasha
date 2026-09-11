@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.types.ts"
+import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.types.ts"
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood = {
   id: "01a0657d-ada6-72c0-8787-dfbe49e472e8",

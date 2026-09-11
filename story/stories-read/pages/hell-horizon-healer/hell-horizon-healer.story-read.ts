@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.types.ts"
+import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.types.ts"
 
 export const hellHorizonHealer = {
   id: "01a0657d-ada2-70dd-9afa-5fb0b363dffe",

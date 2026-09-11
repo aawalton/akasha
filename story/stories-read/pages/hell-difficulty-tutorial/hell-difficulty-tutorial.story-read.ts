@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.types.ts"
+import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.types.ts"
 
 export const hellDifficultyTutorial = {
   id: "01a0657d-ada2-774a-87ea-ada8dec311ba",

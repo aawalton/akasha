@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.types.ts"
+import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.types.ts"
 
 export const viridianGateOnline = {
   id: "01a0657d-ada7-7bd7-aecf-b0083773f56b",

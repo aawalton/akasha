@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.types.ts"
+import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.types.ts"
 
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg = {
   id: "01a0657d-ada6-77ff-86d6-055e333739c3",

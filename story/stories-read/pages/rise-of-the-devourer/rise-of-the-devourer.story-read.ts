@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.types.ts"
+import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.types.ts"
 
 export const riseOfTheDevourer = {
   id: "01a0657d-ada7-73a9-91f2-42fa19396a6e",

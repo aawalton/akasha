@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.types.ts"
+import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod = {
   id: "01a0657d-ada3-7df0-af01-1d499717e474",

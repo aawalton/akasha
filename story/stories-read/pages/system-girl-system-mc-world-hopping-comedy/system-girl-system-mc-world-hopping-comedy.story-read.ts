@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.types.ts"
+import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.types.ts"
 
 export const systemGirlSystemMcWorldHoppingComedy = {
   id: "01a0657d-ada5-7638-97a1-adc2b888f303",

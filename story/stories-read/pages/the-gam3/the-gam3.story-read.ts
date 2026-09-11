@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.types.ts"
+import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.types.ts"
 
 export const theGam3 = {
   id: "01a0657d-ada7-76b1-9333-2d768bb472c5",

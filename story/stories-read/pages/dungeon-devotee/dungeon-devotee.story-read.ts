@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.types.ts"
+import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.types.ts"
 
 export const dungeonDevotee = {
   id: "01a0657d-ada2-77ae-9bca-4062ead98716",
