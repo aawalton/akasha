@@ -11,16 +11,16 @@ import {
   routesOf,
 } from "./client-reaches-a-server-module-through-a-route.code-check.decision.code.ts"
 
-const PAGE = "web/web.router-app.ts"
+const PAGE = "hum/hum.router-app.ts"
 
-const TABLE = "web/routes.ts"
+const TABLE = "hum/routes.ts"
 
-const PLAIN = "web/panel/panel.module.code.tsx"
+const PLAIN = "hum/panel/panel.module.code.tsx"
 
-const ROUTE = "web/routes/home.tsx"
+const ROUTE = "hum/routes/home.tsx"
 
 const APP: Value = {
-  slug: "web",
+  slug: "hum",
   rootRoute: "tsx",
   routeTable: "ts",
   serverEntry: "tsx",
@@ -31,7 +31,7 @@ const NAMED = new Map<string, string | null>([
   ["route-table", "routes.ts"],
   ["root-route", "root.tsx"],
   ["server-entry", "entry.server.tsx"],
-  ["app-layout", "routes/_app-layout.tsx"],
+  ["app-layout", "routes/_hum-layout.tsx"],
   ["manifest", "package.json"],
 ])
 
@@ -42,11 +42,11 @@ const EVERY = [
   TABLE,
   ROUTE,
   PLAIN,
-  "web/root.tsx",
-  "web/entry.server.tsx",
-  "web/routes/_app-layout.tsx",
-  "web/.server/held/held.module.code.ts",
-  "web/panel/panel.module.test.tsx",
+  "hum/root.tsx",
+  "hum/entry.server.tsx",
+  "hum/routes/_hum-layout.tsx",
+  "hum/.server/held/held.module.code.ts",
+  "hum/panel/panel.module.test.tsx",
 ]
 
 const LEAK = 'import { held } from "../.server/held/held.module.code.ts"\n'
@@ -124,19 +124,19 @@ test("a route module the table names is let through", () => {
 })
 
 test("the root route is let through", () => {
-  expect(over("web/root.tsx", LEAK)).toEqual([])
+  expect(over("hum/root.tsx", LEAK)).toEqual([])
 })
 
 test("the app layout is let through", () => {
-  expect(over("web/routes/_app-layout.tsx", LEAK)).toEqual([])
+  expect(over("hum/routes/_hum-layout.tsx", LEAK)).toEqual([])
 })
 
 test("a test file is let through", () => {
-  expect(over("web/panel/panel.module.test.tsx", LEAK)).toEqual([])
+  expect(over("hum/panel/panel.module.test.tsx", LEAK)).toEqual([])
 })
 
 test("a server-only file is let through", () => {
-  expect(over("web/.server/held/held.module.code.ts", LEAK)).toEqual([])
+  expect(over("hum/.server/held/held.module.code.ts", LEAK)).toEqual([])
 })
 
 test("the route table itself is let through", () => {
@@ -153,7 +153,7 @@ test("the refusal names the line the import sits on", () => {
 })
 
 test("an app's folder is the folder its page sits in", () => {
-  expect(folderOf(PAGE)).toBe("web/")
+  expect(folderOf(PAGE)).toBe("hum/")
   expect(folderOf("top.router-app.ts")).toBe("")
 })
 
@@ -161,16 +161,16 @@ test("an app's fixed files are the names the index declares", () => {
   const app = appsIn(asking({}))[0]
   expect(app?.table).toBe(TABLE)
   expect([...(app?.fixed ?? [])].sort()).toEqual([
-    "web/entry.server.tsx",
-    "web/root.tsx",
-    "web/routes/_app-layout.tsx",
+    "hum/entry.server.tsx",
+    "hum/root.tsx",
+    "hum/routes/_hum-layout.tsx",
   ])
 })
 
 test("a page stating no app layout is given no app layout", () => {
-  const value: Value = { slug: "web", rootRoute: "tsx", routeTable: "ts", serverEntry: "tsx" }
+  const value: Value = { slug: "hum", rootRoute: "tsx", routeTable: "ts", serverEntry: "tsx" }
   const app = appsIn(asking({}, { valueAt: () => value }))[0]
-  expect([...(app?.fixed ?? [])].sort()).toEqual(["web/entry.server.tsx", "web/root.tsx"])
+  expect([...(app?.fixed ?? [])].sort()).toEqual(["hum/entry.server.tsx", "hum/root.tsx"])
 })
 
 test("the route modules are the fixed files and what the table names", () => {
@@ -205,7 +205,7 @@ test("an index naming no router app judges clean", () => {
 
 test("a file the change leaves alone is judged by nothing", () => {
   const texts = { [TABLE]: TABLE_TEXT, [PLAIN]: LEAK }
-  expect(refusalsOver(["web/panel/other.module.code.tsx"], asking(texts))).toEqual([])
+  expect(refusalsOver(["hum/panel/other.module.code.tsx"], asking(texts))).toEqual([])
 })
 
 test("every file of an app is judged again where its route table changed", () => {
