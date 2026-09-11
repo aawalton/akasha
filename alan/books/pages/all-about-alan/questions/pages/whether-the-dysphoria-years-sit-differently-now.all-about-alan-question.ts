@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheDysphoriaYearsSitDifferentlyNow = {
   id: "01a077e9-df5b-7cc6-aadb-b856b95dc53e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-dysphoria-years-sit-differently-now",
   topic: "what-i-thought-was-dysphoria",

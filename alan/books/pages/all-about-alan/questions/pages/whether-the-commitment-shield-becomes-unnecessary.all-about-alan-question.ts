@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheCommitmentShieldBecomesUnnecessary = {
   id: "01a077e5-0103-7e2b-9f07-69ebc75fbab5",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-commitment-shield-becomes-unnecessary",
   topic: "turning-punishment-into-self-hatred",

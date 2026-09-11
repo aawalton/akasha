@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheLowFeelingMovesMyLevel = {
   id: "01a077e9-a71f-794f-89e6-f33d3dc46f4a",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-low-feeling-moves-my-level",
   topic: "the-low-feeling-that-costs-me-a-level",

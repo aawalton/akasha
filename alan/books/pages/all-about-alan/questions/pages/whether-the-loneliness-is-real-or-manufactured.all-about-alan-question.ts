@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheLonelinessIsRealOrManufactured = {
   id: "01a077e2-8350-74ce-add9-4b5c1cf0739b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-loneliness-is-real-or-manufactured",
   topic: "being-alone-on-purpose",

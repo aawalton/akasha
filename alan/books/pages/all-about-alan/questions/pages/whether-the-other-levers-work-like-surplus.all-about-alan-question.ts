@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheOtherLeversWorkLikeSurplus = {
   id: "01a07807-d9fa-7683-b33a-5d56ad992f7d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-other-levers-work-like-surplus",
   topic: "the-harness-around-my-safety",

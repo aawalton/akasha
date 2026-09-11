@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherRejectionCanBeRelearnedBelowCategory = {
   id: "01a077ec-3d86-793f-a4aa-78dff3ca16d4",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-rejection-can-be-relearned-below-category",
   topic: "what-criticism-does-to-me",

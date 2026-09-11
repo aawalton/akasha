@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheBorrowedReturnFades = {
   id: "01a077f1-67bd-7b5e-a73b-a7ab5186e8e9",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-borrowed-return-fades",
   topic: "why-a-holiday-costs-me",

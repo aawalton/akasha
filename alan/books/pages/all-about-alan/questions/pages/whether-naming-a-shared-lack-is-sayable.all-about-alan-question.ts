@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherNamingASharedLackIsSayable = {
   id: "01a077f0-94d6-7878-96c1-d64805872124",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-naming-a-shared-lack-is-sayable",
   topic: "what-i-cannot-say-to-her",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherSleepAssemblesCompoundFeelings = {
   id: "01a077ed-6e28-7028-a8c5-e00195d84421",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-sleep-assembles-compound-feelings",
   topic: "what-happens-when-i-sleep",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherRespondingCanBecomeADefault = {
   id: "01a077ed-363f-7d45-b856-cb4340ad0743",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-responding-can-become-a-default",
   topic: "noticing-what-she-needs",

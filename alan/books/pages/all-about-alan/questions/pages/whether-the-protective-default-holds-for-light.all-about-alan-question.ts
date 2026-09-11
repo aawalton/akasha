@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheProtectiveDefaultHoldsForLight = {
   id: "01a077eb-75f1-7604-9d25-c964d5a95bfe",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-protective-default-holds-for-light",
   topic: "defaulting-to-too-much-protection",

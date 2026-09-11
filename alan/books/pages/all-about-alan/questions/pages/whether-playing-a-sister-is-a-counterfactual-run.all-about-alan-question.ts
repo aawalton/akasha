@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherPlayingASisterIsACounterfactualRun = {
   id: "01a077f0-2485-7aaf-9130-ec7780ce9188",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-playing-a-sister-is-a-counterfactual-run",
   topic: "what-i-cannot-play-forward",

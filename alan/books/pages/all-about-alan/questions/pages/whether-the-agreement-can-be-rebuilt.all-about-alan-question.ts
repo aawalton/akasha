@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheAgreementCanBeRebuilt = {
   id: "01a077ed-ace5-7012-b22c-22905364d430",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-agreement-can-be-rebuilt",
   topic: "the-person-i-could-relax-around",

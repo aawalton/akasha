@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherSteerAgainstSurrenderRunsPastSleep = {
   id: "01a077ee-6625-7d2f-b160-e8bd9a397623",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-steer-against-surrender-runs-past-sleep",
   topic: "the-pictures-at-the-edge-of-sleep",

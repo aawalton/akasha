@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherOutsideCueingIsOneSystemDoingThreeJobs = {
   id: "01a077e7-68d0-7ab4-bf42-2ebd4f8b67ac",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-outside-cueing-is-one-system-doing-three-jobs",
   topic: "the-five-ways-something-becomes-automatic",

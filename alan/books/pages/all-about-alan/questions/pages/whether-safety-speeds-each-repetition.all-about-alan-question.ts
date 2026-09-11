@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherSafetySpeedsEachRepetition = {
   id: "01a077e7-6eb1-7a44-9246-050b8f729537",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-safety-speeds-each-repetition",
   topic: "what-repetition-encodes",

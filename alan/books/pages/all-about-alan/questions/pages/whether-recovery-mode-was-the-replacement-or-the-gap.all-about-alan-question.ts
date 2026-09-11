@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherRecoveryModeWasTheReplacementOrTheGap = {
   id: "01a0785c-b087-7043-85e8-12ce4774e38b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-recovery-mode-was-the-replacement-or-the-gap",
   topic: "blank-check-mode-and-recovery-mode",

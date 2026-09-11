@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheHandoffCuddleIsDropped = {
   id: "01a077e9-a251-7802-8e88-e2f0cc19d543",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-handoff-cuddle-is-dropped",
   topic: "sharing-a-bed",

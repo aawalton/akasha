@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheBudgetFramingHoldsAcrossMyExecutiveFunctions = {
   id: "01a077ee-12ce-7c3a-a818-92e06841e1ff",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-budget-framing-holds-across-my-executive-functions",
   topic: "how-i-get-anything-done",

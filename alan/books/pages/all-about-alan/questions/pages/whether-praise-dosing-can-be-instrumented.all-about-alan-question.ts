@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherPraiseDosingCanBeInstrumented = {
   id: "01a077f0-e7bf-7090-b8cf-05e66e6e6f8c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-praise-dosing-can-be-instrumented",
   topic: "when-it-actually-lands",

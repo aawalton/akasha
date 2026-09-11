@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherOnlyWordsTurnTheKey = {
   id: "01a077e6-a8eb-7cdb-9ea8-f306f96fd1ff",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-only-words-turn-the-key",
   topic: "how-a-story-gets-my-own-feeling-back",

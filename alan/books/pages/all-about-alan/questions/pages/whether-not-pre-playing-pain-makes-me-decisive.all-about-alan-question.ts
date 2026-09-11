@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherNotPrePlayingPainMakesMeDecisive = {
   id: "01a077e6-9631-7fdf-be13-3c2881d656b7",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-not-pre-playing-pain-makes-me-decisive",
   topic: "why-i-act-fast",

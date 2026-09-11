@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherOneWarmSetEvictsTheLast = {
   id: "01a077e7-ad58-72d3-b756-e570f3673763",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-one-warm-set-evicts-the-last",
   topic: "warming-up-what-i-will-need",

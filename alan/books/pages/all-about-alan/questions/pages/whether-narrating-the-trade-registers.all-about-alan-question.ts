@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherNarratingTheTradeRegisters = {
   id: "01a077ea-1e2a-7303-9c87-00cb33f92c40",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-narrating-the-trade-registers",
   topic: "showing-her-she-comes-first",

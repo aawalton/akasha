@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherRepetitionMovesMyBaseline = {
   id: "01a077e9-eb8a-7dad-b4bb-402912f868a1",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-repetition-moves-my-baseline",
   topic: "what-calms-me-down",

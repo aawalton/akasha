@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheFourteenFactorsAreIndependent = {
   id: "01a077ed-563f-718d-bf01-d3e425286128",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-fourteen-factors-are-independent",
   topic: "what-makes-an-hour-count",

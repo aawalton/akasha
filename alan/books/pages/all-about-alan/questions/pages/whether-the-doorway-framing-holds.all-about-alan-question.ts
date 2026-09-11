@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheDoorwayFramingHolds = {
   id: "01a077e9-6e09-714d-b604-84069e9d39de",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-doorway-framing-holds",
   topic: "what-a-persona-makes-cheaper",

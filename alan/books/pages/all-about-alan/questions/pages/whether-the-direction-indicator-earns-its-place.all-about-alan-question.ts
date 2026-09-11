@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheDirectionIndicatorEarnsItsPlace = {
   id: "01a077ea-b511-7c4b-8529-a6455386a84d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-direction-indicator-earns-its-place",
   topic: "showing-jen-where-i-am",

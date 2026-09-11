@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherOneDialDrivesFeelingAndCost = {
   id: "01a077e5-3347-7500-a8e2-e43c0adc4e12",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-one-dial-drives-feeling-and-cost",
   topic: "the-feeling-i-cannot-get-at",

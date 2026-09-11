@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherOrdinancesLandAsPractice = {
   id: "01a077e7-85d5-7019-8936-eb4aef7e0abc",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-ordinances-land-as-practice",
   topic: "how-i-practise-my-faith",

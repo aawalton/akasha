@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherReadingAlongsideSomeonePaysItsOwnYield = {
   id: "01a077ed-563e-7a98-aa3d-fb228a7ff4fd",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-reading-alongside-someone-pays-its-own-yield",
   topic: "what-makes-an-hour-count",

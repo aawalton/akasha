@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheFloodRunsOnlyOneWay = {
   id: "01a077e8-81d3-7a5d-8a2d-4eb04d4486e0",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-flood-runs-only-one-way",
   topic: "the-three-parts-of-me",

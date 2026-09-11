@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherRewritingAGoalMovesMyAttention = {
   id: "01a077e5-3b56-7aa6-a6b6-d3bd1f5433fe",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-rewriting-a-goal-moves-my-attention",
   topic: "when-something-is-fun",

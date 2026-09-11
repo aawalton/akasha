@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherThePodBoostHoldsAtMyDesk = {
   id: "01a077ec-71f5-78ea-a4f1-0e67b1978cf5",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-pod-boost-holds-at-my-desk",
   topic: "what-the-pod-does-to-the-price",

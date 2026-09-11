@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherOneStoreServesBothQuestionShapes = {
   id: "01a077e5-043e-76ec-8d6f-8d76415ece75",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-one-store-serves-both-question-shapes",
   topic: "what-i-gave-up-leaving-postgres",

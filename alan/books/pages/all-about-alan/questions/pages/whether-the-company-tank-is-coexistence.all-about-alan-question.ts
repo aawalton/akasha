@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheCompanyTankIsCoexistence = {
   id: "01a077e8-436c-75d6-9452-7e1e77c2ec5f",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-company-tank-is-coexistence",
   topic: "the-four-things-i-need-from-people",

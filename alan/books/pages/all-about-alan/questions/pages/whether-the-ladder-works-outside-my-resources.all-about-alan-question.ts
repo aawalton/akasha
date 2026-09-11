@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheLadderWorksOutsideMyResources = {
   id: "01a077e5-ed77-77d6-8751-efd8a0b35e22",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-ladder-works-outside-my-resources",
   topic: "how-well-i-can-measure",

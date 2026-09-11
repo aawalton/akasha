@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheBodyWordsComeBackUnderLoad = {
   id: "01a077e5-63de-7029-9c12-1e3339953306",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-body-words-come-back-under-load",
   topic: "how-i-learned-to-feel-my-body",

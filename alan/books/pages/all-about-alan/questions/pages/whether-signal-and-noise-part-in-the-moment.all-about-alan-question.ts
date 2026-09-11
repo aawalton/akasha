@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherSignalAndNoisePartInTheMoment = {
   id: "01a077ec-b16b-7b6b-86c1-232e7020e793",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-signal-and-noise-part-in-the-moment",
   topic: "how-i-decide",

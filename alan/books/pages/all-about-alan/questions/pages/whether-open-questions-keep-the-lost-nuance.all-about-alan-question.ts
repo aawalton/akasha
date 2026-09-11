@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherOpenQuestionsKeepTheLostNuance = {
   id: "01a077e8-8944-7f2a-aec5-6f9ea9fc81b3",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-open-questions-keep-the-lost-nuance",
   topic: "what-a-model-leaves-out",

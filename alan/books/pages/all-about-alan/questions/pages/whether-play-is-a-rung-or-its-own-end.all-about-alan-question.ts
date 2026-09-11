@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherPlayIsARungOrItsOwnEnd = {
   id: "01a077e8-2837-7194-a023-10e45c046063",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-play-is-a-rung-or-its-own-end",
   topic: "what-a-level-of-recovery-costs",

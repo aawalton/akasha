@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherNonSexualArousalFeedsConnection = {
   id: "01a077ee-b43c-784d-9405-817e8f135b99",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-non-sexual-arousal-feeds-connection",
   topic: "getting-connection-another-way",

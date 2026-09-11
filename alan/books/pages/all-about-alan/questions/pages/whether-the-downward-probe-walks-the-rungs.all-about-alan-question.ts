@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheDownwardProbeWalksTheRungs = {
   id: "01a077e9-c886-7d7a-9f54-2ee190511146",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-downward-probe-walks-the-rungs",
   topic: "how-hard-a-thing-is",

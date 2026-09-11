@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheCutRunsTwelveMonthsOrEighteen = {
   id: "01a077ef-88a0-718a-be14-ba68a1113b28",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-cut-runs-twelve-months-or-eighteen",
   topic: "the-year-i-cut-everyone-out",

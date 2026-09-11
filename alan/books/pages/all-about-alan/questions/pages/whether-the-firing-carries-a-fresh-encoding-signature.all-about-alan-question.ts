@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheFiringCarriesAFreshEncodingSignature = {
   id: "01a077f0-49ea-7d89-b044-6cf376623721",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-firing-carries-a-fresh-encoding-signature",
   topic: "when-i-lost-who-i-was",

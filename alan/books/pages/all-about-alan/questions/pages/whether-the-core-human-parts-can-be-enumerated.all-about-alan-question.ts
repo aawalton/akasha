@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheCoreHumanPartsCanBeEnumerated = {
   id: "01a077e7-4c1b-78ab-9ffd-b33aa0db5d63",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-core-human-parts-can-be-enumerated",
   topic: "building-a-definition-i-can-run-on",

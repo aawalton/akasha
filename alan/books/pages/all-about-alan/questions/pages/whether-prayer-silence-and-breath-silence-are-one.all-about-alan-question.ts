@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherPrayerSilenceAndBreathSilenceAreOne = {
   id: "01a077e6-4efc-7236-9e7f-a2cca1eee1f0",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-prayer-silence-and-breath-silence-are-one",
   topic: "what-praying-does-for-me",

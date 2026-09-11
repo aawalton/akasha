@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheCatastrophicBandDriftsDown = {
   id: "01a077e5-95ef-7682-ad4e-bd9bc3a76594",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-catastrophic-band-drifts-down",
   topic: "how-an-alarm-wears-off",

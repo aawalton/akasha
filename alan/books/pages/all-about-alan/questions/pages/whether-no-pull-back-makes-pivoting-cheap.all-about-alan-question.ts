@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherNoPullBackMakesPivotingCheap = {
   id: "01a077ee-12cd-7ea5-887d-bf55f51995fb",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-no-pull-back-makes-pivoting-cheap",
   topic: "how-i-get-anything-done",

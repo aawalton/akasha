@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherRobotModeAndConceptualProvisionAreOne = {
   id: "01a077ea-1c3c-7542-848a-8b6fdee7876e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-robot-mode-and-conceptual-provision-are-one",
   topic: "the-modes-i-run-in",

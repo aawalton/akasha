@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheDayLongFadeIsReal = {
   id: "01a077e7-ad56-7c80-8658-d858ed3e7442",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-day-long-fade-is-real",
   topic: "warming-up-what-i-will-need",

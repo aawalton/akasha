@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheHaltWasVolumeOrStaleness = {
   id: "01a077e9-e11c-7b00-bdb0-93db64783841",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-halt-was-volume-or-staleness",
   topic: "why-i-rebuilt-everything",

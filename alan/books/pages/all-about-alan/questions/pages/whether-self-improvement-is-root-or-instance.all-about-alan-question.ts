@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherSelfImprovementIsRootOrInstance = {
   id: "01a077e8-9d28-712d-b1ec-452ff52db205",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-self-improvement-is-root-or-instance",
   topic: "self-improvement",

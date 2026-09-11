@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheCertaintyGapPullsPeopleIntoConflict = {
   id: "01a077ec-5c69-73f5-bc18-cd7873e278d2",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-certainty-gap-pulls-people-into-conflict",
   topic: "how-i-come-across",

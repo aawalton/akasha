@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheFrontAndBackSplitReadsOutsideSleep = {
   id: "01a077e8-7170-791b-9493-cbf70f9ba310",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-front-and-back-split-reads-outside-sleep",
   topic: "what-shortens-my-nights",

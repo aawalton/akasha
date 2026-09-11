@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherThe2026ForecastSurvivesTheIllness = {
   id: "01a077ec-ce55-7c68-bb3c-9875aec40958",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-2026-forecast-survives-the-illness",
   topic: "whether-my-2026-forecast-is-holding",

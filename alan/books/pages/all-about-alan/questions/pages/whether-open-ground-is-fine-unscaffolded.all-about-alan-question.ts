@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherOpenGroundIsFineUnscaffolded = {
   id: "01a077ea-c743-7ec0-a4e1-6607adbe6e8d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-open-ground-is-fine-unscaffolded",
   topic: "where-the-scar-ends",

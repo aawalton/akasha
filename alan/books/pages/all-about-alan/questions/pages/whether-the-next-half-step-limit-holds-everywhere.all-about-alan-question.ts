@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheNextHalfStepLimitHoldsEverywhere = {
   id: "01a077e8-d485-7366-81c0-72dffe16a849",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-next-half-step-limit-holds-everywhere",
   topic: "how-far-back-i-expect-to-come",

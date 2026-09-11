@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherThePauseOnTheSolarBidIsDeliberate = {
   id: "01a077ee-e456-7bef-ab87-7e4aa7fcacf3",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-pause-on-the-solar-bid-is-deliberate",
   topic: "the-plans-i-over-build",

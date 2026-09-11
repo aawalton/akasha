@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherRejectionCostsALevelMoreThanCriticism = {
   id: "01a077e7-54e2-7f29-a40c-b54fbfb2ece8",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-rejection-costs-a-level-more-than-criticism",
   topic: "why-i-have-to-be-perfect",

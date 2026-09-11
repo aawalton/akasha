@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheLowFeelingHasItsOwnTimeConstant = {
   id: "01a077e9-a71f-7b86-b5a1-7455995aa63b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-low-feeling-has-its-own-time-constant",
   topic: "the-low-feeling-that-costs-me-a-level",

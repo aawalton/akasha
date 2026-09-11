@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherReadingASongAloudAddsAnything = {
   id: "01a077e6-608b-77c2-ac27-4ea5d7f1534c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-reading-a-song-aloud-adds-anything",
   topic: "how-a-song-reaches-me",

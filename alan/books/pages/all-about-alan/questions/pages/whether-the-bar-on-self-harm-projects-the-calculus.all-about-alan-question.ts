@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheBarOnSelfHarmProjectsTheCalculus = {
   id: "01a077e9-f5a4-729a-8ba8-91734b184bb4",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-bar-on-self-harm-projects-the-calculus",
   topic: "where-my-ethics-meets-my-rules",

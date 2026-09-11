@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherPartialityIsALevelOrARefinement = {
   id: "01a077ec-8add-738e-a8ba-0b5feb55a0c1",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-partiality-is-a-level-or-a-refinement",
   topic: "whether-i-stay",

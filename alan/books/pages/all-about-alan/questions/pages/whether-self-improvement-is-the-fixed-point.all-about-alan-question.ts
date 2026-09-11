@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherSelfImprovementIsTheFixedPoint = {
   id: "01a077e8-9d1f-797a-a148-c520a8144681",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-self-improvement-is-the-fixed-point",
   topic: "self-improvement",

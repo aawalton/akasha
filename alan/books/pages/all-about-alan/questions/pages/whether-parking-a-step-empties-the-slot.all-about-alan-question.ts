@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherParkingAStepEmptiesTheSlot = {
   id: "01a077e3-98a6-711f-836d-9d71fdc549b7",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-parking-a-step-empties-the-slot",
   topic: "holding-a-responsibility",

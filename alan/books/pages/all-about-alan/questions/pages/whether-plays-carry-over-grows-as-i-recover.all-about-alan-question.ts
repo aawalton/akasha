@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherPlaysCarryOverGrowsAsIRecover = {
   id: "01a077ed-083b-7811-a884-6ae254804f00",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-plays-carry-over-grows-as-i-recover",
   topic: "the-version-of-me-i-have-never-met",

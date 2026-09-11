@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherMyWinsEvaporateAndLooseEndsPersist = {
   id: "01a077f0-12f7-73a1-b903-7cef4daba1d9",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-my-wins-evaporate-and-loose-ends-persist",
   topic: "what-my-record-gives-me-back",

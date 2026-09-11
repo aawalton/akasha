@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheClosedDoorReOpens = {
   id: "01a077ef-254a-70fe-9731-c3ad4a919670",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-closed-door-re-opens",
   topic: "why-the-peace-holds",

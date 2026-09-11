@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherSoundAndTemperatureSettleLikeLight = {
   id: "01a077e6-0898-7b50-aef0-f705e72317ec",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-sound-and-temperature-settle-like-light",
   topic: "when-we-need-opposite-things",

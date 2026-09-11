@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherReOpeningIsTheSameAsDiggingUp = {
   id: "01a077e4-6131-77ae-b2f8-c09a726c1c92",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-re-opening-is-the-same-as-digging-up",
   topic: "re-opening-what-i-took-in-whole",

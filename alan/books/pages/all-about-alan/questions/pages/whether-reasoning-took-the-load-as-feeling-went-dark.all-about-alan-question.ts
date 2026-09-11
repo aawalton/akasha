@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherReasoningTookTheLoadAsFeelingWentDark = {
   id: "01a077ea-d3e8-7130-8061-99d63bd97f96",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-reasoning-took-the-load-as-feeling-went-dark",
   topic: "my-faith",

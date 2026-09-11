@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherNightmareContentCarriesSignal = {
   id: "01a077ed-6e29-71fc-8d39-154b26b89003",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-nightmare-content-carries-signal",
   topic: "what-happens-when-i-sleep",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherStrangersMeantOneThingByHardest = {
   id: "01a077f0-9abb-7cfe-b001-639ed09e7a53",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-strangers-meant-one-thing-by-hardest",
   topic: "the-best-three-years",

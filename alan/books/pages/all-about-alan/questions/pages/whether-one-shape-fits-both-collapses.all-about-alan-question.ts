@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherOneShapeFitsBothCollapses = {
   id: "01a077ee-9500-7970-a77f-2ddb22c55c8e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-one-shape-fits-both-collapses",
   topic: "what-happens-when-something-gets-cheap",

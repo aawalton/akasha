@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheArrivalsCountAsEvidence = {
   id: "01a077e9-5ccd-790d-887f-54d646ff430c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-arrivals-count-as-evidence",
   topic: "how-god-reaches-me",

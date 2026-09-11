@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherPreferringWomensCompanyIsTheCategory = {
   id: "01a077e8-436b-7061-9301-fd466e6cf571",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-preferring-womens-company-is-the-category",
   topic: "the-four-things-i-need-from-people",

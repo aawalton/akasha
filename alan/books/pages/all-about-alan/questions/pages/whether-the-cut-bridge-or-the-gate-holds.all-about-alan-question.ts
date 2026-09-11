@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheCutBridgeOrTheGateHolds = {
   id: "01a077e4-8396-73dd-af79-77f80011aa66",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-cut-bridge-or-the-gate-holds",
   topic: "when-someone-says-something-good",

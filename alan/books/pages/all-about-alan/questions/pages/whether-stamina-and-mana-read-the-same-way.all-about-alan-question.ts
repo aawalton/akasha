@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherStaminaAndManaReadTheSameWay = {
   id: "01a077e2-b833-76ed-b07c-722e5bb4659c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-stamina-and-mana-read-the-same-way",
   topic: "the-colours-i-read-myself-in",

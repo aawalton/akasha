@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheNeedsVerdictUnderliesTheUnsafeOne = {
   id: "01a077ec-5cc4-7abd-a108-6b98f3a4caa8",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-needs-verdict-underlies-the-unsafe-one",
   topic: "why-people-read-as-unsafe",

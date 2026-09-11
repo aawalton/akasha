@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheLineBetweenPresentAndProjectedWantsHolds = {
   id: "01a077e7-137f-7252-b0e6-666abcc1c323",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-line-between-present-and-projected-wants-holds",
   topic: "how-a-want-fires",
