@@ -69,6 +69,7 @@ export const alan = {
         "DO NOT narrate what you do or what a subagent did.",
         "DO NOT correct what you said earlier unless Alan needs the correction to answer a question.",
         "DO NOT tell Alan something because it is worth knowing.",
+        "DO NOT raise an unrelated finding unless it blocks you and only Alan can decide.",
       ],
     },
   ],
