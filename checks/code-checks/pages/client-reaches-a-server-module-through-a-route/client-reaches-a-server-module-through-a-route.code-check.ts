@@ -113,10 +113,6 @@ export const clientReachesAServerModuleThroughARoute = {
     },
     {
       invariantKind: "gap",
-      statement: "A file no page claims is judged only where the change has that file.",
-    },
-    {
-      invariantKind: "gap",
       statement:
         "A module outside a router app's package reaching a server module is seen by nothing here.",
     },
