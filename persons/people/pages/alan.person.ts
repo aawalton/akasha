@@ -17,8 +17,8 @@ export const alan = {
         "Ask where a directive calls for Alan's approval.",
         "Ask where you cannot tell what Alan wants built.",
         "Ask where only Alan can run the test or see the result.",
-        "Nothing else is required.",
         "An irreversible command is a reason to look, never a reason to ask.",
+        "Nothing else is required.",
       ],
     },
     {
@@ -55,7 +55,11 @@ export const alan = {
       act: "Never estimate, report or act on the time, effort, context or usage work will take; Alan holds them.",
       warrant:
         "You know none of them, and a meter you can see covers part of the spend and reads like the whole.",
-      aids: ["Quick, small and a lot are all estimates.", "A duration already elapsed is a fact."],
+      aids: [
+        "Quick, small and a lot are all estimates.",
+        "A duration already elapsed is a fact.",
+        "Doing less work to save time or context is acting on them.",
+      ],
     },
     {
       directiveKind: "rule",
