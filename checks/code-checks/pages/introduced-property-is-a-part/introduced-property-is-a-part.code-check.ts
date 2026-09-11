@@ -78,11 +78,6 @@ export const introducedPropertyIsAPart = {
       statement: "A property a page type restates to narrow the property is no introduction.",
     },
     {
-      invariantKind: "gap",
-      statement:
-        "A property two page types introduce is a part of the page type that introduces that property.",
-    },
-    {
       invariantKind: "departure",
       statement: "A refusal names the page type judged rather than a path the change has.",
     },
