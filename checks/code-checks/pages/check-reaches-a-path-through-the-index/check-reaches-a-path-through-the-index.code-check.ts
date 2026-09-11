@@ -135,6 +135,33 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A literal opening with a dot is a reach from the folder the spelling file sits in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reach is resolved against that folder before the index is asked.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reach is answered by the path it lands on rather than by a path ending with it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reach climbing above the tree lands nowhere and is let through.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A literal opening with a separator names a path outside the tree and is let through.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A specifier opening with a dot is a specifier rather than a reach.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An expression has whatever a name inside that expression carries.",
     },
     {

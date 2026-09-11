@@ -91,6 +91,34 @@ test("a specifier is left to the checks that judge a specifier", () => {
   expect(only('import { a } from "utils/hum/humming/humming.module.code.ts"\n')).toEqual([])
 })
 
+const DOTTED = "../../../../design/colors/pages/yellow.color.ts"
+
+test("a literal opening with a dot is a reach from the folder the file sits in", () => {
+  expect(only(`const at = new URL("${DOTTED}", import.meta.url)\n`)).toHaveLength(1)
+})
+
+test("a specifier opening with a dot is a specifier rather than a reach", () => {
+  expect(only(`import { a } from "${DOTTED}"\n`)).toEqual([])
+})
+
+test("a reach climbing above the tree lands nowhere", () => {
+  expect(only(`const at = "../${DOTTED}"\n`)).toEqual([])
+})
+
+test("a reach is answered by where it lands rather than by a path ending with it", () => {
+  expect(only('const at = "./hum-matching/hum-matching.module.code.ts"\n')).toEqual([])
+})
+
+test("a literal opening with a separator names a path outside the tree", () => {
+  expect(only('const at = "/utils/hum/humming/humming.module.code.ts"\n')).toEqual([])
+})
+
+test("a reach opening with one dot lands in the spelling file's own folder", () => {
+  const at = "utils/hum/humming/humming.module.test.ts"
+  const said = reasonsIn(reaching, naming, at, 'new URL("./humming.module.code.ts")\n')
+  expect(said).toHaveLength(1)
+})
+
 test("a template holding a value is no plain string, so nothing is seen", () => {
   expect(only("readdirSync(`design/${one}`)\n")).toEqual([])
 })

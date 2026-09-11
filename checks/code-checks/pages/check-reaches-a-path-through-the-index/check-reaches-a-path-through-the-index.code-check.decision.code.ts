@@ -31,6 +31,8 @@ const LS_FILES = "ls-files"
 
 const PARTED_AT = "."
 
+const PARTED_UP = ".."
+
 const SEGMENT = /^[a-z0-9-]+$/
 
 export type Naming = (said: string) => string | null
@@ -112,18 +114,36 @@ function nearestTo(from: string, kept: readonly string[]): string {
   return best
 }
 
+function reachedFrom(from: string, said: string): string | null {
+  const parts = from.split(PARTED_BY)
+  parts.pop()
+  for (const one of said.split(PARTED_BY)) {
+    if (one === "" || one === PARTED_AT) continue
+    if (one !== PARTED_UP) {
+      parts.push(one)
+      continue
+    }
+    if (parts.length === 0) return null
+    parts.pop()
+  }
+  return parts.length === 0 ? null : parts.join(PARTED_BY)
+}
+
 export function askingOver(paths: readonly string[]): Reaching {
   const pages = new Set(paths)
   const based = basedOn([...paths, ...foldersOf(paths)])
   return (from) => (said) => {
     if (!said.includes(PARTED_BY)) return null
-    if (said.startsWith(PARTED_BY) || said.startsWith(".")) return null
+    if (said.startsWith(PARTED_BY)) return null
     const closed = said.endsWith(PARTED_BY)
-    const at = closed ? said.slice(0, -PARTED_BY.length) : said
+    const spelled = closed ? said.slice(0, -PARTED_BY.length) : said
+    const reached = spelled.startsWith(PARTED_AT)
+    const at = reached ? reachedFrom(from, spelled) : spelled
+    if (at === null) return null
     const base = at.slice(at.lastIndexOf(PARTED_BY) + 1)
     const found: string[] = []
     for (const one of based.get(base) ?? []) {
-      if (one === at || one.endsWith(`${PARTED_BY}${at}`)) found.push(one)
+      if (one === at || (!reached && one.endsWith(`${PARTED_BY}${at}`))) found.push(one)
     }
     if (found.length === 0) return null
     const paged = found.filter((each) => pages.has(each))
