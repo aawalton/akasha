@@ -1,5 +1,6 @@
 import type { WorkedDay } from "akasha/alan/track/daily/days/day.page-type.ts"
 import { hoursBetween } from "akasha/alan/track/daily/days/modules/hours-between/hours-between.computed-property-module.code.ts"
+import type { SleepHours } from "akasha/alan/track/daily/days/properties/sleep-hours.computed-property.types.ts"
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 
 const WORD_CHARACTER = /[\p{L}\p{N}]/u
@@ -20,7 +21,7 @@ function hasWord(text: string, word: string): boolean {
   }
 }
 
-export const work: Work<WorkedDay, number> = (page) => {
+export const work: Work<WorkedDay, SleepHours> = (page) => {
   const rows = page.sessions
   if (!Array.isArray(rows)) return null
   let hours = 0

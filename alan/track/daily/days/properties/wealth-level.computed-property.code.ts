@@ -1,4 +1,5 @@
 import type { Day } from "akasha/alan/track/daily/days/day.page-type.types.ts"
+import type { WealthLevel } from "akasha/alan/track/daily/days/properties/wealth-level.computed-property.types.ts"
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 
 const NO_RUNG = 0
@@ -10,7 +11,7 @@ const RUNGS = [
   { from: 0.25, rung: 1 },
 ] as const
 
-export const work: Work<Day, number> = (page) => {
+export const work: Work<Day, WealthLevel> = (page) => {
   const points = page.wealthPoints
   if (points === undefined) return NO_RUNG
   for (const { from, rung } of RUNGS) if (points >= from) return rung

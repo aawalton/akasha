@@ -1,7 +1,8 @@
 import type { Day } from "akasha/alan/track/daily/days/day.page-type.types.ts"
+import type { HealthLevel } from "akasha/alan/track/daily/days/properties/health-level.computed-property.types.ts"
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 
-export const work: Work<Day, number> = (page) => {
+export const work: Work<Day, HealthLevel> = (page) => {
   const points = page.healthPoints ?? 0
   if (points >= 2) return 4
   if (points >= 1) return 3
