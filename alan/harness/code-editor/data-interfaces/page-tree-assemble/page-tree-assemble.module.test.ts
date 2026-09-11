@@ -26,7 +26,7 @@ test("a page type naming one type above it is drawn under it with the id it alwa
     REPO
   )
 
-  expect(idsIn(said.roots)).toEqual(["type/page", "type/module", "vocabulary"])
+  expect(idsIn(said.roots)).toEqual(["type/page", "type/module"])
   expect(said.unreached).toEqual([])
 })
 
@@ -51,7 +51,6 @@ test("a page type naming two types above it is drawn once under each of them", (
     "type/computed-property",
     "type/page-property",
     "type/page-property/computed-property",
-    "vocabulary",
   ])
   expect(said.unreached).toEqual([])
 })
@@ -108,7 +107,7 @@ test("a property a page type declares is drawn nowhere", () => {
     REPO
   )
 
-  expect(idsIn(said.roots)).toEqual(["type/page", "type/computed-property", "vocabulary"])
+  expect(idsIn(said.roots)).toEqual(["type/page", "type/computed-property"])
   expect(said.unreached).toEqual([])
 })
 
@@ -126,18 +125,13 @@ test("a ring among the types above ends the drawing rather than going round agai
     REPO
   )
 
-  expect(idsIn(said.roots)).toEqual([
-    "type/root",
-    "type/root/held",
-    "type/root/held/beside",
-    "vocabulary",
-  ])
+  expect(idsIn(said.roots)).toEqual(["type/root", "type/root/held", "type/root/held/beside"])
 })
 
 test("two page types naming each other above are left unreached", () => {
   const said = assemblePageTree(answersOf([typeRow("one", "two"), typeRow("two", "one")], []), REPO)
 
-  expect(idsIn(said.roots)).toEqual(["vocabulary"])
+  expect(idsIn(said.roots)).toEqual([])
   expect(said.unreached).toEqual(["page-type/one", "page-type/two"])
 })
 
@@ -147,5 +141,5 @@ test("a page type naming the same type above it twice is drawn under it once", (
     REPO
   )
 
-  expect(idsIn(said.roots)).toEqual(["type/page", "type/module", "vocabulary"])
+  expect(idsIn(said.roots)).toEqual(["type/page", "type/module"])
 })

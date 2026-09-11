@@ -31,32 +31,10 @@ const TYPE_ID = "type"
 
 const ON_TYPE = "page-type"
 
-const ON_PROPERTY_TYPE = "page-property-type"
-
-const VOCABULARY_ROOT_TYPE = "page-property"
-const VOCABULARY_ID = "vocabulary"
-const VOCABULARY_LABEL = "page property types"
-
 interface TypeRow {
   readonly slug: string
   readonly at: string
   readonly extendsSlugs: readonly string[]
-}
-
-interface PropertyRow {
-  readonly slug: string
-  readonly at: string
-  readonly key: string
-  readonly type: string | null
-}
-
-interface PropertyTypeRow {
-  readonly typeSlug: string
-  readonly at: string
-  readonly kind: string
-  readonly suffix: string | null
-  readonly of: string | null
-  readonly value: string | null
 }
 
 function textOf(row: QueryRow, key: string): string | null {
@@ -79,20 +57,6 @@ function atOf(row: QueryRow): string {
 
 function byText(a: string, b: string): number {
   return a.localeCompare(b)
-}
-
-function detailOfType(row: PropertyTypeRow): string | null {
-  if (row.kind === "constant" && row.of !== null && row.value !== null) {
-    return `${row.of} = ${row.value}`
-  }
-  if (row.suffix !== null) {
-    return row.suffix
-  }
-  return row.of
-}
-
-function kindsIn(rows: readonly PropertyTypeRow[]): readonly string[] {
-  return [...new Set(rows.map((row) => row.kind))].sort(byText)
 }
 
 function allIds(nodes: readonly PageNode[]): readonly string[] {
@@ -125,36 +89,6 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
     const parent = said === null || said === NO_PARENT ? null : slugOf(said)
     const named = parent === null || above.includes(parent) ? [] : [parent]
     types.set(slug, { slug, at: held?.at ?? at, extendsSlugs: [...above, ...named] })
-  }
-
-  const definedOn = new Map<string, PropertyRow[]>()
-  for (const row of answers.properties) {
-    const slug = textOf(row, "slug")
-    const key = textOf(row, "key")
-    const on = textOf(row, "defined-on-slug")
-    if (slug === null || key === null || on === null) {
-      continue
-    }
-    const held = definedOn.get(on) ?? []
-    held.push({ slug, at: atOf(row), key, type: textOf(row, "type") })
-    definedOn.set(on, held)
-  }
-
-  const propertyTypes: PropertyTypeRow[] = []
-  for (const row of answers.propertyTypes) {
-    const typeSlug = textOf(row, "type-slug")
-    const kind = textOf(row, "kind")
-    if (typeSlug === null || kind === null) {
-      continue
-    }
-    propertyTypes.push({
-      typeSlug,
-      at: atOf(row),
-      kind,
-      suffix: textOf(row, "suffix"),
-      of: textOf(row, "of"),
-      value: textOf(row, "value"),
-    })
   }
 
   const children = new Map<string, string[]>()
@@ -194,43 +128,12 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
       children: kids,
     }
   }
-  const typeRoots = rootSlugs.map((slug) => build(slug, `${TYPE_ID}/${slug}`, true, []))
+  const roots = rootSlugs.map((slug) => build(slug, `${TYPE_ID}/${slug}`, true, []))
 
-  const vocabulary: PageNode = {
-    id: VOCABULARY_ID,
-    label: VOCABULARY_LABEL,
-    at: types.get(VOCABULARY_ROOT_TYPE)?.at ?? null,
-    detail: null,
-    children: kindsIn(propertyTypes).map((kind) => ({
-      id: `kind/${kind}`,
-      label: kind,
-      at: types.get(kind)?.at ?? null,
-      detail: null,
-      children: propertyTypes
-        .filter((row) => row.kind === kind)
-        .sort((a, b) => byText(a.typeSlug, b.typeSlug))
-        .map((row) => ({
-          id: `ptype/${row.typeSlug}`,
-          label: row.typeSlug,
-          at: row.at,
-          detail: detailOfType(row),
-          children: [],
-        })),
-    })),
-  }
-
-  const drawn = new Set([
-    ...[...reached].map((slug) => `${ON_TYPE}/${slug}`),
-    ...propertyTypes.map((row) => `${ON_PROPERTY_TYPE}/${row.typeSlug}`),
-  ])
-  const unreached = [
-    ...new Set([
-      ...[...types.keys()].filter((slug) => !reached.has(slug)).map((slug) => `${ON_TYPE}/${slug}`),
-      ...[...definedOn.keys()].filter((slug) => !drawn.has(slug)),
-    ]),
-  ].sort(byText)
-
-  const roots = [...typeRoots, vocabulary]
+  const unreached = [...types.keys()]
+    .filter((slug) => !reached.has(slug))
+    .map((slug) => `${ON_TYPE}/${slug}`)
+    .sort(byText)
 
   const repeated = repeatedIn(allIds(roots))
   if (repeated.length > 0) {

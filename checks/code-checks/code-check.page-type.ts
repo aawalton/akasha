@@ -74,6 +74,7 @@ export const codeCheck = {
     "code-check/hand-written-global-is-no-method",
     "code-check/repository-is-written-by-a-change",
     "code-check/specifier-names-a-package",
+    "code-check/browser-code-reads-the-environment-by-a-name",
     "boolean-property/experimental",
     "code-check/no-relative-specifier",
   ],
