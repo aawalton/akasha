@@ -1,4 +1,4 @@
-import type { Answer } from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+import type { Answer } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import {
   ASIDE,
   inputIn,
@@ -7,7 +7,7 @@ import {
   rewriting,
   SCOPE_FLAG,
   said,
-} from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+} from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import {
   ACTING_NAMED,
   SUBAGENT_MARK,

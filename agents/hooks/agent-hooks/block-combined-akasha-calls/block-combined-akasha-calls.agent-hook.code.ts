@@ -2,7 +2,7 @@ import {
   ranAsCommandHook,
   SCOPE_FLAG,
   toldOf,
-} from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+} from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import { z } from "zod"
 
 const HOOK = "block-combined-akasha-calls"

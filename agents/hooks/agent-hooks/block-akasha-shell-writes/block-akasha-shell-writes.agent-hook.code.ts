@@ -1,7 +1,7 @@
 import { lstatSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
 import { guardedIn } from "akasha/agents/hooks/agent-hooks/block-akasha-edits/block-akasha-edits.agent-hook.code.ts"
-import { parseHookPayload } from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+import { parseHookPayload } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
 import {
   basenameOf,

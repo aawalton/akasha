@@ -1,5 +1,5 @@
 import { join, resolve } from "node:path"
-import { ranAsHook } from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+import { ranAsHook } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import { shownIn } from "akasha/agents/hooks/path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
 

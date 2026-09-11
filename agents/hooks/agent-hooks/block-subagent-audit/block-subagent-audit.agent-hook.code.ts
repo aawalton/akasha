@@ -1,4 +1,4 @@
-import type { Answer } from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+import type { Answer } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import {
   ASIDE,
   inputIn,
@@ -8,7 +8,7 @@ import {
   SCOPE_FLAG,
   said,
   toldOf,
-} from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+} from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import {
   basenameOf,
   calledWords,

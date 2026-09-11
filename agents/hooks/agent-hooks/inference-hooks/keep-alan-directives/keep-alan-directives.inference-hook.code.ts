@@ -7,7 +7,7 @@ import {
   refusing,
   SCOPE_FLAG,
   said,
-} from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+} from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import { opensYes } from "akasha/agents/models/modules/answer/model-answer.module.code.ts"
 import {
   directiveKept,

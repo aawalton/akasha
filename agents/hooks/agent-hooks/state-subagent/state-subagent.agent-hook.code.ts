@@ -1,8 +1,4 @@
-import {
-  ASIDE,
-  payloadIn,
-  SCOPE_FLAG,
-} from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+import { ASIDE, payloadIn, SCOPE_FLAG } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import { seatIn } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {

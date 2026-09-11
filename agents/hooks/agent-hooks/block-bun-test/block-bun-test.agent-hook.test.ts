@@ -4,9 +4,9 @@ import {
   refusalIn,
   SCOPE,
 } from "akasha/agents/hooks/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts"
-import { guarding, parseRefusal } from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
-import { judging } from "akasha/agents/hooks/hook-judging/hook-judging.module.code.ts"
-import { payloadOf } from "akasha/agents/hooks/hook-payload/hook-payload.module.code.ts"
+import { guarding, parseRefusal } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
+import { judging } from "akasha/agents/hooks/judging/hook-judging.module.code.ts"
+import { payloadOf } from "akasha/agents/hooks/payload/hook-payload.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 

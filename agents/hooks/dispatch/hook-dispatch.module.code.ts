@@ -9,8 +9,8 @@ import {
   refusing,
   rewriting,
   said,
-} from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
-import { linksMade } from "akasha/agents/hooks/hook-links/hook-links.module.code.ts"
+} from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
+import { linksMade } from "akasha/agents/hooks/links/hook-links.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"

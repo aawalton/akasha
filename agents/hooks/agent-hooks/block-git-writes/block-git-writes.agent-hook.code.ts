@@ -1,11 +1,11 @@
-import { judgingCalls } from "akasha/agents/hooks/chain-refusal/chain-refusal.module.code.ts"
-import type { GitCall } from "akasha/agents/hooks/git-calls/git-calls.module.code.ts"
-import { gitCallsIn } from "akasha/agents/hooks/git-calls/git-calls.module.code.ts"
 import {
   ranAsCommandHook,
   SCOPE_FLAG,
   toldOf,
-} from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+} from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
+import { judgingCalls } from "akasha/agents/hooks/chain-refusal/chain-refusal.module.code.ts"
+import type { GitCall } from "akasha/agents/hooks/git-calls/git-calls.module.code.ts"
+import { gitCallsIn } from "akasha/agents/hooks/git-calls/git-calls.module.code.ts"
 import { RUNS_ANOTHER } from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-git-writes"

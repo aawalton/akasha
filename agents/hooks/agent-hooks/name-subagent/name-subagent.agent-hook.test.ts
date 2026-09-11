@@ -8,7 +8,7 @@ import {
   SCOPE,
   spellable,
 } from "akasha/agents/hooks/agent-hooks/name-subagent/name-subagent.agent-hook.code.ts"
-import { ASIDE, LET_THROUGH } from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
+import { ASIDE, LET_THROUGH } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import {
   ACTING_NAMED,
   SEAT_NAMED,
