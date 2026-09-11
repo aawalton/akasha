@@ -6,7 +6,7 @@ export const specifierNamesAPackage = {
   type: "code-check",
   slug: "specifier-names-a-package",
   definition: "the check refusing a specifier that reaches by a package name no manifest states",
-  runsOnChange: false,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: true,
@@ -64,10 +64,6 @@ export const specifierNamesAPackage = {
     {
       invariantKind: "departure",
       statement: "The scan deciding whether to parse reads the text rather than the parse.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Audit is the phase this check is for.",
     },
     {
       invariantKind: "departure",
