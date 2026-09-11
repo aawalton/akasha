@@ -155,6 +155,9 @@ export type Changes = {
   "change-mechanical/move-file-page-type": Parameters<
     typeof import("akasha/changes/mechanical/file/move/move-file-page-type/move-file-page-type.change-mechanical.code.ts")["runChange"]
   >[1]
+  "change-mechanical/move-files": Parameters<
+    typeof import("akasha/changes/mechanical/file/move/move-files/move-files.change-mechanical.code.ts")["runChange"]
+  >[1]
   "change-mechanical/remove-file-code": Parameters<
     typeof import("akasha/changes/mechanical/file/remove/remove-file-code/remove-file-code.change-mechanical.code.ts")["runChange"]
   >[1]

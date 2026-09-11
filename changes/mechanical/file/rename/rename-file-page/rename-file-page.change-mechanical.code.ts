@@ -1,4 +1,4 @@
-import { basename, dirname, extname, join, relative } from "node:path"
+import { basename, dirname, join, relative } from "node:path"
 import {
   gathered,
   refusing,
@@ -44,11 +44,7 @@ import ts from "typescript"
 
 const RENAME_PAGE_SLUG = "change-mechanical-file-content/rename-page-slug"
 
-const MOVE_FILE_CODE = "change-mechanical/move-file-code"
-
-const MOVE_FILE = "change-mechanical-file/move-file"
-
-const CODE = new Set([".ts", ".tsx"])
+const MOVE_FILES = "change-mechanical/move-files"
 
 const RENAME_EXPORT = "change-mechanical-file-content/rename-export"
 
@@ -373,15 +369,14 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     if (folded.refused !== null) return folded
     seen = addressed.world
   }
-  for (const one of moves) {
-    const named = CODE.has(extname(one.from)) ? MOVE_FILE_CODE : MOVE_FILE
-    const moved = await reach(seen, named, one)
-    if (moved.said.refused !== null) return moved.said
-    answers.push(moved.said)
-    folded = gathered(answers)
-    if (folded.refused !== null) return folded
-    seen = moved.world
-  }
+  const carried = await reach(seen, MOVE_FILES, {
+    moved: Object.fromEntries(moves.map((one) => [one.from, one.to])),
+  })
+  if (carried.said.refused !== null) return carried.said
+  answers.push(carried.said)
+  folded = gathered(answers)
+  if (folded.refused !== null) return folded
+  seen = carried.world
   if (given.to !== held.slug) {
     const said = await reach(seen, RENAME_PAGE_SLUG, {
       at: lands,

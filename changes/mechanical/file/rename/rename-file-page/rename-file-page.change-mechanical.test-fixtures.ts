@@ -1,5 +1,4 @@
-import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as moveFileCode } from "akasha/changes/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
+import { runChange as moveFiles } from "akasha/changes/mechanical/file/move/move-files/move-files.change-mechanical.code.ts"
 import { runChange as changeManifestWays } from "akasha/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts"
 import { runChange as changePageProperty } from "akasha/changes/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
 import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
@@ -222,11 +221,8 @@ export const RUNS: Reaching = async (world, at, given) => {
   if (at === "change-mechanical-file-content/rename-page-slug") {
     return await renamePageSlug(world, given as Parameters<typeof renamePageSlug>[1])
   }
-  if (at === "change-mechanical-file/move-file") {
-    return moveFile(world, given as Parameters<typeof moveFile>[1])
-  }
-  if (at === "change-mechanical/move-file-code") {
-    return await moveFileCode(world, given as Parameters<typeof moveFileCode>[1])
+  if (at === "change-mechanical/move-files") {
+    return moveFiles(world, given as Parameters<typeof moveFiles>[1])
   }
   if (at === "change-mechanical-file-content/change-page-page-property") {
     return changePageProperty(world, given as Parameters<typeof changePageProperty>[1])

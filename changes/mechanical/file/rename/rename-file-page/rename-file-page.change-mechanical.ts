@@ -73,7 +73,7 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A file under no TypeScript name is moved by the change moving a file alone.",
+      statement: "Every file the rename carries is moved by one call to the change moving many.",
     },
     {
       invariantKind: "departure",

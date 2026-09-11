@@ -167,7 +167,7 @@ test("a page whose slug is more than one word has its camel export renamed too",
   expect(body).not.toContain("export const otherOne")
 })
 
-test("the slug rename and each carry are reached at their own addresses", async () => {
+test("the slug rename and the whole carry are reached at their own addresses", async () => {
   const reached: string[] = []
   const root = heldAt
   const world = worldAt(root, textIn(root), (_world, at) => {
@@ -179,7 +179,7 @@ test("the slug rename and each carry are reached at their own addresses", async 
 
   expect(reached[0]).toBe("change-mechanical-file-content/rename-page-address")
   expect(reached[reached.length - 1]).toBe("change-mechanical-file-content/rename-page-slug")
-  expect(new Set(reached.slice(1, -1))).toEqual(new Set(["change-mechanical/move-file-code"]))
+  expect(reached.slice(1, -1)).toEqual(["change-mechanical/move-files"])
 })
 
 test("a page's slug is renamed in its data, and its files are carried with it", async () => {
