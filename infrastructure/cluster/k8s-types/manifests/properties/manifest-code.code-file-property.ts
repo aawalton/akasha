@@ -1,7 +1,5 @@
 import type { CodeFileProperty } from "akasha/pages/code-file-properties/code-file-property.page-type.types.ts"
 
-export type ManifestCode = "ts"
-
 export const manifestCode = {
   id: "01a06da1-b338-79a7-bbb9-a0ac5a5a7170",
   pageTypeSlug: "code-file-property",
@@ -24,4 +22,5 @@ export const manifestCode = {
       statement: "This code builds resources rather than applying those resources.",
     },
   ],
+  types: "ts",
 } as const satisfies CodeFileProperty

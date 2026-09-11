@@ -1,7 +1,5 @@
 import type { CodeFileProperty } from "akasha/pages/code-file-properties/code-file-property.page-type.types.ts"
 
-export type Lua = "lua"
-
 export const lua = {
   id: "01a06036-9b75-73f4-bf30-9eaf95ccf3fc",
   pageTypeSlug: "code-file-property",
@@ -10,4 +8,5 @@ export const lua = {
   propertySlug: "lua",
   definition: "the Lua a page is",
   extensions: ["lua"],
+  types: "ts",
 } as const satisfies CodeFileProperty

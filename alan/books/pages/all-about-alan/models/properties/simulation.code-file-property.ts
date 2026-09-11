@@ -1,7 +1,5 @@
 import type { CodeFileProperty } from "akasha/pages/code-file-properties/code-file-property.page-type.types.ts"
 
-export type Simulation = "py"
-
 export const simulation = {
   id: "01a0657f-a729-7667-bb50-f50d5da51399",
   pageTypeSlug: "code-file-property",
@@ -16,4 +14,5 @@ export const simulation = {
       statement: "A simulation prints its numbers rather than writing the numbers anywhere.",
     },
   ],
+  types: "ts",
 } as const satisfies CodeFileProperty

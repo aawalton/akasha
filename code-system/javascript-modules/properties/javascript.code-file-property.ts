@@ -1,7 +1,5 @@
 import type { CodeFileProperty } from "akasha/pages/code-file-properties/code-file-property.page-type.types.ts"
 
-export type Javascript = "mjs"
-
 export const javascript = {
   id: "01a06954-f7dc-7da3-abd6-1b92e38df030",
   pageTypeSlug: "code-file-property",
@@ -16,4 +14,5 @@ export const javascript = {
       statement: "JavaScript a runtime loads as a module has the `mjs` extension.",
     },
   ],
+  types: "ts",
 } as const satisfies CodeFileProperty

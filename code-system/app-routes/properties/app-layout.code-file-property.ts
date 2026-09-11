@@ -1,7 +1,5 @@
 import type { CodeFileProperty } from "akasha/pages/code-file-properties/code-file-property.page-type.types.ts"
 
-export type AppLayout = "tsx"
-
 export const appLayout = {
   id: "01a07917-b971-76f3-8ada-fc17be46e258",
   pageTypeSlug: "code-file-property",
@@ -21,4 +19,5 @@ export const appLayout = {
       statement: "A router app serving a signed-out reader alone states no app layout.",
     },
   ],
+  types: "ts",
 } as const satisfies CodeFileProperty

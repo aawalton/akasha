@@ -1,7 +1,5 @@
 import type { CodeFileProperty } from "akasha/pages/code-file-properties/code-file-property.page-type.types.ts"
 
-export type RouteCode = "ts" | "tsx"
-
 export const routeCode = {
   id: "01a071dc-83c6-73f2-9948-9d3c5e18ce9f",
   pageTypeSlug: "code-file-property",
@@ -20,4 +18,5 @@ export const routeCode = {
       statement: "A route answering with data alone is written in TypeScript.",
     },
   ],
+  types: "ts",
 } as const satisfies CodeFileProperty

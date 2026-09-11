@@ -1,4 +1,4 @@
-import type { TunnelRoutes } from "akasha/code-system/workspace-packages/properties/tunnel-routes.code-file-property.ts"
+import type { TunnelRoutes } from "akasha/code-system/workspace-packages/properties/tunnel-routes.code-file-property.types.ts"
 import type { Definition } from "akasha/domains/properties/definition.standard-agent-english-property.types.ts"
 import type { Directives } from "akasha/domains/properties/directives.record-property.types.ts"
 import type { Expands } from "akasha/domains/properties/expands.boolean-property.types.ts"

@@ -1,7 +1,5 @@
 import type { CodeFileProperty } from "akasha/pages/code-file-properties/code-file-property.page-type.types.ts"
 
-export type SidebarBoot = "js"
-
 export const sidebarBoot = {
   id: "01a0817a-b64a-73c8-a3fa-8f646a076346",
   pageTypeSlug: "code-file-property",
@@ -11,4 +9,5 @@ export const sidebarBoot = {
   definition: "what sets the sidebar collapsed or expanded before the page first paints",
   extensions: ["js"],
   fileName: "public/sidebar-boot.js",
+  types: "ts",
 } as const satisfies CodeFileProperty

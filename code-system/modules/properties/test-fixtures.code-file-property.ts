@@ -1,7 +1,5 @@
 import type { CodeFileProperty } from "akasha/pages/code-file-properties/code-file-property.page-type.types.ts"
 
-export type TestFixtures = "ts"
-
 export const testFixtures = {
   id: "01a04ed9-bf7f-7000-8467-46048a3d88f4",
   pageTypeSlug: "code-file-property",
@@ -10,4 +8,5 @@ export const testFixtures = {
   propertySlug: "test-fixtures",
   definition: "what a page's test is set up with",
   extensions: ["ts"],
+  types: "ts",
 } as const satisfies CodeFileProperty
