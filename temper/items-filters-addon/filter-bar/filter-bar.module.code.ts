@@ -21,6 +21,7 @@ import {
   createFieldLabel,
   PADDING_X,
   PADDING_Y,
+  sanitizeName,
 } from "akasha/temper/items-filters-addon/filter-bar-controls/filter-bar-controls.module.code.ts"
 import type { FilterController } from "akasha/temper/items-filters-addon/panel-filter-binding/panel-filter-binding.module.code.ts"
 import { TEMPER_FILTERS } from "akasha/temper/items-filters-core/search-filter-registry/search-filter-registry.module.code.ts"
@@ -198,7 +199,7 @@ export function createFilterBar(config: FilterBarConfig): undefined {
   }
 
   const buildRow = (filter: AnyTemperFilter): FilterRow => {
-    const safe = sanitizeId(filter.id)
+    const safe = sanitizeName(filter.id)
     const container = WINDOW_MANAGER.CreateControl(`${PANEL_NAME}Row_${safe}`, tlw, CT_CONTROL)
     container.SetDimensions(PANEL_WIDTH, ROW_HEIGHT)
 
@@ -333,9 +334,4 @@ function applyDefaultAnchor(
     return
   }
   tlw.SetAnchor(TOPLEFT, GuiRoot, TOPLEFT, FALLBACK_LEFT, FALLBACK_TOP)
-}
-
-function sanitizeId(raw: string): string {
-  const [result] = string.gsub(raw, "[^%w]", "_")
-  return result
 }

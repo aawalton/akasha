@@ -314,7 +314,7 @@ function parseNumber(text: string): number | undefined {
   return parsed
 }
 
-function sanitizeName(raw: string): string {
+export function sanitizeName(raw: string): string {
   const [result] = string.gsub(raw, "[^%w]", "_")
   return result
 }
