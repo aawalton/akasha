@@ -71,7 +71,7 @@ export const noColorLiteral = {
     },
     {
       invariantKind: "gap",
-      statement: "No check has a design token value to the color page that value is read from.",
+      statement: "A design token value is judged against the color page that value is read from.",
     },
   ],
   check: { maxCpuSeconds: 10 },
