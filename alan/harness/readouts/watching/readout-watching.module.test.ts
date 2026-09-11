@@ -18,9 +18,9 @@ const MADE_OF = `${FOLDER}/day-2026-09-10.day.uncommitted.ts`
 
 const BESIDE = `${FOLDER}/day-2026-09-10.day.health-samples.jsonl`
 
-const PAGE = "alan/harness/readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts"
+const PAGE = "alan/harness/readouts/pages/upkeep-probe/upkeep-probe.readout.ts"
 
-const OTHER_PAGE = "alan/harness/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"
+const OTHER_PAGE = "alan/harness/readouts/pages/upkeep-other/upkeep-other.readout.ts"
 
 const DAY = "day"
 
@@ -179,7 +179,7 @@ test("a reading that changed is carried to every site the readout names", async 
   held.taking.open()
   await held.taking.settled()
   expect(held.carriedTo).toEqual([ALAN, JENNY])
-  expect(held.said).toContain("INFO upkeep-sleep=7")
+  expect(held.said).toContain("INFO upkeep-probe=7")
 })
 
 test("a carry that fails to one site does not stop the carry to another site", async () => {
@@ -197,7 +197,7 @@ test("a carry that fails to one site does not stop the carry to another site", a
   expect(held.said.some((one) => one.includes("was not carried to https://alanwalton.com"))).toBe(
     true
   )
-  expect(held.said).toContain("INFO upkeep-sleep=7")
+  expect(held.said).toContain("INFO upkeep-probe=7")
 })
 
 test("the value files followed are the ones the readouts read a page type from", () => {
