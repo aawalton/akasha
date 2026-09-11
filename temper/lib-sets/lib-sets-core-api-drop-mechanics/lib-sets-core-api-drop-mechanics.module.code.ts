@@ -2,17 +2,16 @@ import { asPresent } from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.
 import {
   asLangRecordOpt,
   asLibSlots,
-  asSafeReturnApiTableFn,
   asStrRecordEntryOpt,
 } from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 import { asRemoveLanguagesFullFn } from "akasha/temper/lib-sets/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+import { safeReturnAPItable } from "akasha/temper/lib-sets/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
 
 const lib = LibSets
 
 const slots = asLibSlots(lib)
 
 const removeLanguages = asRemoveLanguagesFullFn(slots["_removeLanguages"])
-const safeReturnAPItable = asSafeReturnApiTableFn(slots["_safeReturnAPItable"])
 
 function getDropMechanicName(
   this: void,

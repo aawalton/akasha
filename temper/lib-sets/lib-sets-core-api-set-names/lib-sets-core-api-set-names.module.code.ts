@@ -1,15 +1,11 @@
 import { asBoolean } from "akasha/temper/lib-sets/lib-sets-casts/lib-sets-casts.module.code.ts"
 import {
-  asLibSlots,
-  asSafeReturnApiTableFn,
   asSetIdBoolMap,
   asSetIdLangStringMap,
 } from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
+import { safeReturnAPItable } from "akasha/temper/lib-sets/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
 
 const lib = LibSets
-
-const libSlots = asLibSlots(lib)
-const safeReturnAPItable = asSafeReturnApiTableFn(libSlots["_safeReturnAPItable"])
 
 let allSetNamesCached: { [setId: number]: { [lang: string]: string } } | undefined
 

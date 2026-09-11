@@ -5,19 +5,17 @@ import {
 import {
   asLangRecord,
   asLibSlots,
-  asSafeReturnApiTableFn,
   asSetIdTable,
 } from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 import {
   asLangDropLocationMap,
   asSetIdLangRecordEntryOpt,
 } from "akasha/temper/lib-sets/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+import { safeReturnAPItable } from "akasha/temper/lib-sets/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
 
 const lib = LibSets
 
 const slots = asLibSlots(lib)
-
-const safeReturnAPItable = asSafeReturnApiTableFn(slots["_safeReturnAPItable"])
 
 function getAllDropZones(this: void): unknown {
   if (!lib.checkIfSetsAreLoadedProperly()) {
