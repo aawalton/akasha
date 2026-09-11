@@ -37,7 +37,7 @@ async function computeStartupDelayMs(root: string): Promise<number> {
   }
 }
 
-async function main(): Promise<void> {
+export async function runAccountUpkeepRunning(): Promise<void> {
   const root = rootFor(resolveRoots(), AKASHA)
   const ac = stopsOnSignal()
 
@@ -70,7 +70,7 @@ async function main(): Promise<void> {
 }
 
 if (import.meta.main) {
-  main().catch((err) => {
+  runAccountUpkeepRunning().catch((err) => {
     console.error("claude-account-upkeep fatal:", err)
     process.exit(1)
   })
