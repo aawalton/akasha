@@ -47,6 +47,23 @@ export const noRawNulBytes = {
     },
     {
       invariantKind: "departure",
+      statement: "A body a folder property declares as bytes is let through.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That folder is read from the name the property states.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file beneath that folder is let through only where a page with the property sits above it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file under a folder of that name elsewhere is judged.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file with more than one NUL is reported at the first.",
     },
     {

@@ -1,7 +1,9 @@
 import type { Body } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import {
   type Carried,
+  foldersFor,
   heldBeside,
+  heldUnder,
   namingFor,
   sectionHeld,
   slugsWhere,
@@ -68,7 +70,8 @@ function bytesHeld(shadow: Shadow): ReadonlySet<string> {
 export function exemptIn(path: string, shadow: Shadow): boolean {
   if (sectionHeld(path, bytesHeld(shadow))) return true
   const carrying = (named: string): Carried => shadow.index.carryingOf(named)
-  return heldBeside(path, namingFor(shadow.index), holdingBytes, carrying)
+  if (heldBeside(path, namingFor(shadow.index), holdingBytes, carrying)) return true
+  return heldUnder(path, foldersFor(shadow.index), holdingBytes, carrying)
 }
 
 export function judgedIn(given: Body, shadow: Shadow): readonly string[] {

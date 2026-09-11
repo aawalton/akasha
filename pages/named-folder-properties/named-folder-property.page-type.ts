@@ -7,9 +7,17 @@ export const namedFolderProperty = {
   slug: "named-folder-property",
   definition: "a page property held in a folder whose name is stated",
   pluralSlug: "named-folder-properties",
-  parts: ["text-property/folder-name"],
+  parts: [
+    "text-property/folder-name",
+    "boolean-property/holds-bytes",
+    "boolean-property/runs-file-length",
+  ],
   extends: ["page-type/page-property"],
-  properties: [{ pageProperty: "text-property/folder-name", required: true, many: false }],
+  properties: [
+    { pageProperty: "text-property/folder-name", required: true, many: false },
+    { pageProperty: "boolean-property/holds-bytes", required: false, many: false },
+    { pageProperty: "boolean-property/runs-file-length", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "constraint",
@@ -34,6 +42,19 @@ export const namedFolderProperty = {
     {
       invariantKind: "departure",
       statement: "A page states whether it has the folder rather than what the folder holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The property speaks for every file the folder holds rather than for one of them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property saying its folder holds bytes says so of every file beneath it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A property saying its folder is judged for no length says so of each of them too.",
     },
   ],
   types: "ts",

@@ -85,6 +85,27 @@ export const propertyCarrying = {
     {
       invariantKind: "departure",
       statement:
+        "A file is under a folder property naming that folder where a page with that property sits above it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder claims every file beneath it rather than its own files alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file outside every such folder is under nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every kind under a named folder property is read here rather than that one kind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which folder properties are meant is the caller's to say.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "Whether the file at a path is generated is answered here rather than by each caller.",
     },
     {

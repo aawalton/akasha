@@ -30,6 +30,10 @@ const RECORD_PROPERTY = "record-property"
 
 const FILE_NAME = "fileName"
 
+const FOLDER_NAME = "folderName"
+
+const NAMED_FOLDER_PROPERTY = "named-folder-property"
+
 const GENERATED = "generated"
 
 const TOOL_RESOLVES_PATHS = "toolResolvesPaths"
@@ -163,6 +167,28 @@ export function heldBeside(
     const held = carriedBy(`${said.pageType}/${said.slug}`)
     if ("refused" in held) continue
     if (held.carrying.some((two) => dirname(two.path) === folder)) return true
+  }
+  return false
+}
+
+export function heldUnder(
+  path: string,
+  naming: Iterable<Naming>,
+  wanted: (value: Value) => boolean,
+  carriedBy: (named: string) => Carried
+): boolean {
+  for (const one of naming) {
+    const value = one.value
+    if (value === null || !wanted(value)) continue
+    const folder = value[FOLDER_NAME]
+    if (typeof folder !== "string") continue
+    const said = partedIn(one.path)
+    if (said === null || said.sections.length > 0) continue
+    const held = carriedBy(`${said.pageType}/${said.slug}`)
+    if ("refused" in held) continue
+    for (const two of held.carrying) {
+      if (path.startsWith(`${join(dirname(two.path), folder)}/`)) return true
+    }
   }
   return false
 }
@@ -364,6 +390,26 @@ export function namingFor(given: Kinded): readonly Naming[] {
   if (found !== undefined) return found
   const made = namingUnder(given)
   NAMING.set(given, made)
+  return made
+}
+
+export function foldersUnder(given: Kinded): readonly Naming[] {
+  const found: Naming[] = []
+  for (const kind of given.kindsUnder(NAMED_FOLDER_PROPERTY)) {
+    for (const listed of given.everyOfType(kind)) {
+      found.push({ path: listed.path, value: given.valueAt(listed.path) })
+    }
+  }
+  return found
+}
+
+const FOLDERS = new WeakMap<Kinded, readonly Naming[]>()
+
+export function foldersFor(given: Kinded): readonly Naming[] {
+  const found = FOLDERS.get(given)
+  if (found !== undefined) return found
+  const made = foldersUnder(given)
+  FOLDERS.set(given, made)
   return made
 }
 

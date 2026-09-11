@@ -3,7 +3,9 @@ import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.c
 import { partedIn, sectionedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   type Carried,
+  foldersFor,
   heldBeside,
+  heldUnder,
   namingFor,
   sectionHeld,
   slugsWhere,
@@ -65,7 +67,8 @@ function sectionOff(path: string, shadow: Shadow): boolean {
 export function exemptIn(path: string, shadow: Shadow): boolean {
   if (sectionOff(path, shadow)) return true
   const carrying = (named: string): Carried => shadow.index.carryingOf(named)
-  return heldBeside(path, namingFor(shadow.index), heldOff, carrying)
+  if (heldBeside(path, namingFor(shadow.index), heldOff, carrying)) return true
+  return heldUnder(path, foldersFor(shadow.index), heldOff, carrying)
 }
 
 function ceilingFor(path: string): number {

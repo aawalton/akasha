@@ -92,6 +92,23 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
+      statement: "A folder property saying its files are not judged for length lets them off too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That folder is read from the name the property states.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file beneath that folder is let off only where a page with the property sits above it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file under a folder of that name elsewhere is held to the ceiling.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Which files a machine writes is a question asked elsewhere.",
     },
   ],
