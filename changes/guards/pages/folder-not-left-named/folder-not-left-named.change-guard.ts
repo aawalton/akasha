@@ -85,6 +85,18 @@ export const folderNotLeftNamed = {
     },
     {
       invariantKind: "departure",
+      statement: "A run opening with a separator names a place rather than a path in the checkout.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a run is read from the checkout's root on, and from no other separator.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A run naming a place outside the checkout names no folder here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "One rule judges a string a parser found and a run this guard found.",
     },
     {

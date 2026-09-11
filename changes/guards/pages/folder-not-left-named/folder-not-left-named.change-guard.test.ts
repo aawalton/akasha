@@ -178,3 +178,16 @@ test("a body whose language is not read the answer leaves alone is judged by not
 
   expect(judged(root, CARRY).refused).toBe(null)
 })
+
+test("a run naming a place outside the checkout names no folder here", () => {
+  const root = shelling(`#!/usr/bin/env bash\nPAGES="/Users/walton/${PREFIX}"\n`)
+
+  expect(judged(root, SHELL_CARRY).refused).toBe(null)
+})
+
+test("a run naming that folder under the checkout's own root is refused", () => {
+  const root = indexedRepo()
+  put(root, HELD_SHELL, `#!/usr/bin/env bash\nPAGES="${root}/${PREFIX}"\n`)
+
+  expect(judged(root, SHELL_CARRY).refused ?? "").toContain(PREFIX)
+})

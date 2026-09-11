@@ -51,14 +51,26 @@ function namedBy(said: string, folders: readonly string[]): string | null {
   return null
 }
 
-function saidIn(path: string, text: string): readonly string[] {
-  if (typed(path)) return spelledIn(path, text).map((one) => one.text)
-  return runsIn(text).flatMap((one) => one.said)
+function tailsIn(said: readonly string[], root: string): readonly string[] {
+  const whole = said[0]
+  if (whole === undefined || !whole.startsWith(UNDER)) return said
+  const under = `${root}${UNDER}`
+  return whole.startsWith(under) ? [whole.slice(under.length)] : []
 }
 
-function spellingIn(path: string, text: string, folders: readonly string[]): string | null {
+function saidIn(path: string, text: string, root: string): readonly string[] {
+  if (typed(path)) return spelledIn(path, text).map((one) => one.text)
+  return runsIn(text).flatMap((one) => tailsIn(one.said, root))
+}
+
+function spellingIn(
+  path: string,
+  text: string,
+  folders: readonly string[],
+  root: string
+): string | null {
   if (!folders.some((one) => text.includes(one))) return null
-  for (const said of saidIn(path, text)) {
+  for (const said of saidIn(path, text, root)) {
     const at = namedBy(said, folders)
     if (at === null) continue
     return `\`${path}\` spells \`${said}\`, and \`${at}\` holds nothing after`
@@ -68,7 +80,7 @@ function spellingIn(path: string, text: string, folders: readonly string[]): str
 
 function namingIn(given: Guarding, folders: readonly string[]): string | null {
   for (const [path, text] of writtenIn(given)) {
-    const why = spellingIn(path, text, folders)
+    const why = spellingIn(path, text, folders, given.before.root)
     if (why !== null) return why
   }
   return null
