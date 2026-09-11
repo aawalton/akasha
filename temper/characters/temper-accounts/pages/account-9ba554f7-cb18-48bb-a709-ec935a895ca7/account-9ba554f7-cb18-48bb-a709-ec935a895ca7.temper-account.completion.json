@@ -55501,7 +55501,7 @@
     },
     "404": {
       "name": "Jailer's Tenacity",
-      "slotsUnlocked": 13,
+      "slotsUnlocked": 14,
       "subcategoryName": "Moon Hunter Keep",
       "pieces": {
         "1": {
@@ -55566,7 +55566,7 @@
         },
         "16": {
           "name": "Jailer's Greatsword",
-          "unlocked": false
+          "unlocked": true
         },
         "17": {
           "name": "Jailer's Bow",
