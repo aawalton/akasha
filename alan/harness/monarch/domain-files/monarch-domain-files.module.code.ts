@@ -19,15 +19,9 @@ import {
 } from "akasha/alan/harness/monarch/files/monarch-files.module.code.ts"
 import type { WriteItem } from "akasha/alan/harness/monarch/land-files/monarch-land-files.module.code.ts"
 import { through } from "akasha/alan/harness/monarch/land-files/monarch-land-files.module.code.ts"
-import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
-import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { bodyOf, importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 
 export type Value = string | number | boolean
-
-function written(value: unknown): string {
-  if (Array.isArray(value)) return `[${value.map((one) => written(one)).join(", ")}]`
-  return JSON.stringify(value)
-}
 
 export function slugify(text: string): string {
   const parts = text
@@ -55,29 +49,18 @@ function ordered(value: Readonly<Record<string, unknown>>): readonly string[] {
   return [...AHEAD.filter((key) => key in value), ...rest]
 }
 
-const WIDTH = 100
-
-function stated(key: string, value: unknown): readonly string[] {
-  const said = written(value)
-  const one = `  ${key}: ${said},`
-  return one.length <= WIDTH ? [one] : [`  ${key}:`, `    ${said},`]
-}
-
 export function pageText(
   typesAt: string,
   pageTypeSlug: string,
   value: Readonly<Record<string, unknown>>
 ): string {
-  const slug = String(value.slug)
-  const lines = ordered(value).flatMap((key) => stated(key, value[key]))
-  return [
-    `import type { ${typedAs(pageTypeSlug)} } from "${typesAt}"`,
-    "",
-    `export const ${exportedAs(slug)} = {`,
-    ...lines,
-    `} as const satisfies ${typedAs(pageTypeSlug)}`,
-    "",
-  ].join("\n")
+  return bodyOf({
+    pageTypeSlug,
+    slug: String(value.slug),
+    importFrom: typesAt,
+    keys: ordered(value),
+    values: value,
+  })
 }
 
 export interface Wanted {
