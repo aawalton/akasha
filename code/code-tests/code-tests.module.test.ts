@@ -3,8 +3,7 @@ import { mkdirSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
   alreadyRunning,
-  BATCH,
-  batchedOf,
+  beyondIn,
   errorsIn,
   groupedBy,
   judgedAs,
@@ -12,7 +11,6 @@ import {
   preloadsIn,
   RUNNING,
   ranOver,
-  slowIn,
   spentOver,
   summaryIn,
   testsBesideOf,
@@ -230,22 +228,12 @@ check("the bunfig.toml at the root is left to the runner rather than handed over
   expect(ranOver(root, ["akasha"], 1).verdict).toBe("pass")
 })
 
-check("a list past one batch is parted into batches, and nothing is lost", () => {
-  expect(batchedOf([])).toEqual([[]])
-  const named = Array.from({ length: BATCH * 2 + 1 }, (_, at) => `${at}.test.ts`)
-  const batches = batchedOf(named)
-  expect(batches.length).toBe(3)
-  expect(batches[0]?.length).toBe(BATCH)
-  expect(batches[2]?.length).toBe(1)
-  expect(batches.flat()).toEqual(named)
-})
-
-check("a group past one batch is run as several, and the counts are the sum", () => {
+check("a group of several files is run one file to a runner, and the counts are the sum", () => {
   const held: Record<string, string> = {}
-  const many = BATCH + 5
+  const many = 3
   for (let at = 0; at < many; at += 1) held[`one-${at}.test.ts`] = PASSES
   const done = ranOver(repo(held), ["akasha"], many)
-  expect(plain(done.output).match(/Ran \d+ tests across \d+ files/g)?.length).toBe(2)
+  expect(plain(done.output).match(/Ran \d+ tests? across \d+ files?/g)?.length).toBe(many)
   expect(done.summary.files).toBe(many)
   expect(done.summary.passed).toBe(many)
   expect(done.verdict).toBe("pass")
@@ -255,7 +243,7 @@ check(
   "a file past the ceiling runs to its end and is answered with what that file spent",
   () => {
     const root = repo({ "one.test.ts": PASSES, "slow.test.ts": BURNS })
-    const found = slowIn(root, groupedBy(root, ["akasha"]), [], 1)
+    const found = beyondIn(spentOver(root, ["akasha"]), 1)
     expect(found.map((one) => one.path)).toEqual(["akasha/slow.test.ts"])
     expect(found[0]?.cpuSeconds).toBeGreaterThan(1.5)
   },
@@ -271,7 +259,7 @@ check("a run is slow only where a file went past the seconds one file may spend"
 
 check("a file under the ceiling is not answered as over it", () => {
   const root = repo({ "one.test.ts": PASSES })
-  expect(slowIn(root, groupedBy(root, ["akasha"]), [])).toEqual([])
+  expect(beyondIn(spentOver(root, ["akasha"]))).toEqual([])
 })
 
 check("a file under the ceiling is still answered with what that file spent", () => {

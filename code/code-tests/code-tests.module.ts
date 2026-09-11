@@ -31,7 +31,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A run's answer has the processor seconds every batch of that run spent.",
+      statement: "A run's answer has the processor seconds every file of that run spent.",
     },
     {
       invariantKind: "departure",
@@ -47,10 +47,6 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A batch is held to no ceiling and runs to its own end.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "The runner ends a test on a clock of its own rather than the seconds one file may spend.",
     },
@@ -60,19 +56,11 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A run spending more than the files that run named may is judged file by file.",
+      statement: "Every run is judged file by file, since every file is a run of its own.",
     },
     {
       invariantKind: "departure",
-      statement: "A run whose batch died on a signal is judged file by file as well.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That second judging runs each file the first run named on its own.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Each file in that judging runs to its own end rather than being ended part way.",
+      statement: "Each file runs to its own end rather than being ended part way.",
     },
     {
       invariantKind: "departure",
@@ -90,7 +78,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "The ceiling that judging has each file to is the caller's to state.",
+      statement: "The ceiling a file is held to is the caller's to state.",
     },
     {
       invariantKind: "departure",
@@ -99,11 +87,12 @@ export const codeTests = {
     {
       invariantKind: "departure",
       statement:
-        "A caller may ask the seconds every file named spent rather than which files went over.",
+        "Which files went over is worked out from what the files spent rather than run for.",
     },
     {
       invariantKind: "departure",
-      statement: "A file answered that way is run on its own as a file being judged is.",
+      statement:
+        "A caller may ask the seconds every file named spent rather than which files went over.",
     },
     {
       invariantKind: "departure",
@@ -148,39 +137,35 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A group is run in batches.",
+      statement: "One test file is one run of the runner.",
     },
     {
       invariantKind: "departure",
-      statement: "A batch is one run.",
+      statement: "A run of the runner is handed the preloads of the group its file belongs to.",
     },
     {
       invariantKind: "departure",
-      statement: "A batch has the test files of one group alone.",
+      statement: "What one file cost is that file's own rather than a share of what several cost.",
     },
     {
       invariantKind: "departure",
-      statement: "A batch is bounded so one run reaches the end of every batch.",
+      statement: "The output every file printed is read as one answer.",
     },
     {
       invariantKind: "departure",
-      statement: "The output every batch printed is read as one answer.",
+      statement: "A run answers the first non-zero code a file exited.",
     },
     {
       invariantKind: "departure",
-      statement: "A run answers the first non-zero code a batch exited.",
+      statement: "A file that died on a signal answers that signal and that file's code instead.",
     },
     {
       invariantKind: "departure",
-      statement: "A batch that died on a signal answers that signal and that batch's code instead.",
+      statement: "The first file to die on a signal is the file answered.",
     },
     {
       invariantKind: "departure",
-      statement: "The first batch to die on a signal is the batch answered.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The batches after a batch that died still run.",
+      statement: "The files after a file that died still run.",
     },
     {
       invariantKind: "departure",

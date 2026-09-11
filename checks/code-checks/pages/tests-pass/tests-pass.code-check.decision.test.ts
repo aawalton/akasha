@@ -75,8 +75,8 @@ test("a run over the ceiling is refused by naming each file over it", () => {
 
 test("a measuring run names each file beside the seconds that file spent", () => {
   const said = spentlyOf([
-    { path: "akasha/one.module.test.ts", cpuSeconds: 9.53, signal: null, code: 0 },
-    { path: "akasha/two.module.test.ts", cpuSeconds: 0.42, signal: null, code: 0 },
+    { path: "akasha/one.module.test.ts", cpuSeconds: 9.53, signal: null, code: 0, out: "" },
+    { path: "akasha/two.module.test.ts", cpuSeconds: 0.42, signal: null, code: 0, out: "" },
   ])
   expect(said).toContain("akasha/one.module.test.ts spent 9.5 processor seconds")
   expect(said).toContain("akasha/two.module.test.ts spent 0.4 processor seconds")
@@ -88,7 +88,7 @@ test("a measuring run names each file beside the seconds that file spent", () =>
 
 test("a measured file whose run failed is not read as a cost", () => {
   const said = spentlyOf([
-    { path: "akasha/one.module.test.ts", cpuSeconds: 0.3, signal: null, code: 1 },
+    { path: "akasha/one.module.test.ts", cpuSeconds: 0.3, signal: null, code: 1, out: "" },
   ])
   expect(said).toContain("did not come back clean")
 })

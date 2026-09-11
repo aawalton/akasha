@@ -65,8 +65,6 @@ export const RUNNING = "AKASHA_TESTS_RUNNING"
 
 export const MEASURING = "AKASHA_TESTS_MEASURING"
 
-export const BATCH = 100
-
 export const CEILING = testFile.maxCpuSeconds
 
 export type Verdict = "pass" | "fail" | "short" | "crash" | "slow"
@@ -81,6 +79,7 @@ export type Spent = {
   readonly cpuSeconds: number
   readonly signal: string | null
   readonly code: number
+  readonly out: string
 }
 
 export type Summary = {
@@ -251,13 +250,6 @@ function wholeOf(name: string): string {
   return `^${name.replace(SPECIAL, "\\$&")}$`
 }
 
-export function batchedOf(named: readonly string[]): readonly (readonly string[])[] {
-  if (named.length <= BATCH) return [named]
-  const held: (readonly string[])[] = []
-  for (let at = 0; at < named.length; at += BATCH) held.push(named.slice(at, at + BATCH))
-  return held
-}
-
 function rootsOver(over: Overlay): Readonly<Record<string, string>> {
   const at = rootsHere()
   const held: Record<string, string> = { [rootEnvName(AKASHA)]: over.merged }
@@ -297,20 +289,15 @@ export function spentIn(
         cpuSeconds: done.cpuSeconds,
         signal: done.signal,
         code: done.code,
+        out: `${done.out}${done.err}`,
       })
     }
   }
   return found
 }
 
-export function slowIn(
-  root: string,
-  runs: readonly Grouping[],
-  naming: readonly string[],
-  ceiling: number = CEILING,
-  over: Overlay | null = null
-): readonly Slowed[] {
-  return spentIn(root, runs, naming, over)
+export function beyondIn(each: readonly Spent[], ceiling: number = CEILING): readonly Slowed[] {
+  return each
     .filter((one) => one.cpuSeconds > ceiling)
     .map((one) => ({ path: one.path, cpuSeconds: one.cpuSeconds }))
 }
@@ -339,33 +326,25 @@ function ranUnder(
   name: string | null,
   over: Overlay | null
 ): Ran {
-  const runs = runsFor(root, named)
   const naming = name === null ? [] : [NAMING, wholeOf(name)]
+  const each = spentIn(root, runsFor(root, named), naming, over)
   let code = 0
   let signal: string | null = null
   let output = ""
   let spent = 0
-  let many = 0
-  for (const group of runs) {
-    const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
-    for (const batch of batchedOf(group.named)) {
-      const argv = [RUNNER, RUNS, ...preloading, ...naming, ...batch.map(pathed)]
-      const done = runsIn(root, argv, over)
-      output += `${done.out}${done.err}`
-      spent += done.cpuSeconds
-      many += batch.length
-      if (signal !== null) continue
-      if (done.signal !== null) {
-        code = done.code
-        signal = done.signal
-        continue
-      }
-      if (code === 0) code = done.code
+  for (const one of each) {
+    output += one.out
+    spent += one.cpuSeconds
+    if (signal !== null) continue
+    if (one.signal !== null) {
+      code = one.code
+      signal = one.signal
+      continue
     }
+    if (code === 0) code = one.code
   }
   const said = verdictOf(code, output, expected)
-  const beyond = signal !== null || (said === "pass" && spent > CEILING * many)
-  const slow = beyond ? slowIn(root, runs, naming, CEILING, over) : []
+  const slow = said === "pass" ? beyondIn(each) : []
   return {
     code,
     signal,
