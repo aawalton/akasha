@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const galacticEmpirePebbleInTheSky = {
   id: "019db533-f39a-7c5d-9396-0c15a1961f04",
-  pageTypeSlug: "book",
   type: "book",
   slug: "galactic-empire-pebble-in-the-sky",
   title: "Galactic Empire: Pebble in the Sky",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const harryPotterOriginalSeriesHarryPotterAndThePrisonerOfAzkaban = {
   id: "019db533-f38b-7033-a61e-4594c356cd99",
-  pageTypeSlug: "book",
   type: "book",
   slug: "harry-potter-original-series-harry-potter-and-the-prisoner-of-azkaban",
   title: "Harry Potter Original Series: Harry Potter and the Prisoner of Azkaban",

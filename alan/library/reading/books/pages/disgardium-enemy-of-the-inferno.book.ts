@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const disgardiumEnemyOfTheInferno = {
   id: "019db533-f390-7dae-af5e-2ae31dac2c4c",
-  pageTypeSlug: "book",
   type: "book",
   slug: "disgardium-enemy-of-the-inferno",
   title: "Disgardium: Enemy of the Inferno",

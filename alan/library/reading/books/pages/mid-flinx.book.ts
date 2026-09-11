@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const midFlinx = {
   id: "019db533-f399-7ab5-81f6-8da9f63eaa72",
-  pageTypeSlug: "book",
   type: "book",
   slug: "mid-flinx",
   title: "Mid-Flinx",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const discworldRaisingSteam = {
   id: "019db533-f388-7e2e-ac65-ed3454bad032",
-  pageTypeSlug: "book",
   type: "book",
   slug: "discworld-raising-steam",
   title: "Discworld: Raising Steam",

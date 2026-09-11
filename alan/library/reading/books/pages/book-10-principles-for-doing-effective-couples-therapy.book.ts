@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const book10PrinciplesForDoingEffectiveCouplesTherapy = {
   id: "019db533-f38a-7224-9686-60b1ea4f8067",
-  pageTypeSlug: "book",
   type: "book",
   slug: "book-10-principles-for-doing-effective-couples-therapy",
   title: "10 Principles for Doing Effective Couples Therapy",

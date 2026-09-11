@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const discworldUnseenAcademicals = {
   id: "019db533-f388-7da2-b4e2-191d688d8feb",
-  pageTypeSlug: "book",
   type: "book",
   slug: "discworld-unseen-academicals",
   title: "Discworld: Unseen Academicals",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const josephExploringTheLifeAndMinistryOfTheProphet = {
   id: "019db533-f39d-7aa7-8ff1-ee9f9fabd094",
-  pageTypeSlug: "book",
   type: "book",
   slug: "joseph-exploring-the-life-and-ministry-of-the-prophet",
   title: "Joseph: Exploring the Life and Ministry of the Prophet",

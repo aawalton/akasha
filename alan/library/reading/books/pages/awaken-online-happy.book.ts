@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const awakenOnlineHappy = {
   id: "019db533-f390-785b-9f21-e886031fd622",
-  pageTypeSlug: "book",
   type: "book",
   slug: "awaken-online-happy",
   title: "Awaken Online: Happy",

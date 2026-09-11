@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const beneathTheDragoneyeMoonsTheGladiatorGauntlet = {
   id: "019db533-f390-7997-bb57-cb72d6f15218",
-  pageTypeSlug: "book",
   type: "book",
   slug: "beneath-the-dragoneye-moons-the-gladiator-gauntlet",
   title: "Beneath the Dragoneye Moons: The Gladiator Gauntlet",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const disgardiumTheDemonicGames = {
   id: "019db533-f390-7d8e-87d0-5a8293e48633",
-  pageTypeSlug: "book",
   type: "book",
   slug: "disgardium-the-demonic-games",
   title: "Disgardium: The Demonic Games",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const milesVorsokiganBrothersInArms = {
   id: "019db533-f39b-71f1-b3eb-971c7224818a",
-  pageTypeSlug: "book",
   type: "book",
   slug: "miles-vorsokigan-brothers-in-arms",
   title: "Miles Vorsokigan: Brothers in Arms",

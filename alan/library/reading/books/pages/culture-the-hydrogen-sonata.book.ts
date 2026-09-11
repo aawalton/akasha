@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const cultureTheHydrogenSonata = {
   id: "019db533-f39a-790e-92c4-d4c151311ad5",
-  pageTypeSlug: "book",
   type: "book",
   slug: "culture-the-hydrogen-sonata",
   title: "Culture: The Hydrogen Sonata",

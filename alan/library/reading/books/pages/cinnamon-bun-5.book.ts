@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const cinnamonBun5 = {
   id: "019db533-f390-7bbd-ab9a-ae96ba1f5fac",
-  pageTypeSlug: "book",
   type: "book",
   slug: "cinnamon-bun-5",
   title: "Cinnamon Bun 5",

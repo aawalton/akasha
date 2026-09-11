@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const hyperionCantosEndymion = {
   id: "019db533-f39b-70ae-809a-51545820e32a",
-  pageTypeSlug: "book",
   type: "book",
   slug: "hyperion-cantos-endymion",
   title: "Hyperion Cantos: Endymion",

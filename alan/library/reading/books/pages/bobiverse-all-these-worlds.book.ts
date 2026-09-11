@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const bobiverseAllTheseWorlds = {
   id: "019db533-f39b-7299-a6ac-1dba25c6ee62",
-  pageTypeSlug: "book",
   type: "book",
   slug: "bobiverse-all-these-worlds",
   title: "Bobiverse: All These Worlds",

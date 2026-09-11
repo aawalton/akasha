@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const emotionalFirstAid = {
   id: "019db533-f39e-7225-a5ac-e85cd02d98c5",
-  pageTypeSlug: "book",
   type: "book",
   slug: "emotional-first-aid",
   title: "Emotional First Aid",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const discworldTheTruth = {
   id: "019db533-f388-7e84-9149-9f287177dd6a",
-  pageTypeSlug: "book",
   type: "book",
   slug: "discworld-the-truth",
   title: "Discworld: The Truth",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const discworldTheLastContinent = {
   id: "019db533-f388-7df6-acb3-62098780eaec",
-  pageTypeSlug: "book",
   type: "book",
   slug: "discworld-the-last-continent",
   title: "Discworld: The Last Continent",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const disgardiumUnity = {
   id: "019db533-f390-7d77-bf71-acff4ca59fc8",
-  pageTypeSlug: "book",
   type: "book",
   slug: "disgardium-unity",
   title: "Disgardium: Unity",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const journalOfDiscourses = {
   id: "019db533-f39d-7a1b-9aad-df5865505f9d",
-  pageTypeSlug: "book",
   type: "book",
   slug: "journal-of-discourses",
   title: "Journal of Discourses",

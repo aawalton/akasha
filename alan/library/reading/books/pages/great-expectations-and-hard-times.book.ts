@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const greatExpectationsAndHardTimes = {
   id: "019db533-f39d-7a5a-a31c-200222db21eb",
-  pageTypeSlug: "book",
   type: "book",
   slug: "great-expectations-and-hard-times",
   title: "Great Expectations & Hard Times",

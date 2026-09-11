@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const commentariesOnTheLawsOfEnglandVolume1 = {
   id: "019db533-f39d-74cc-8b28-9e541433e2ba",
-  pageTypeSlug: "book",
   type: "book",
   slug: "commentaries-on-the-laws-of-england-volume-1",
   title: "Commentaries on the Laws of England Volume 1",

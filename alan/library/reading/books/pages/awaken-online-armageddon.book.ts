@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const awakenOnlineArmageddon = {
   id: "019db533-f390-7853-bd29-f4418760c46f",
-  pageTypeSlug: "book",
   type: "book",
   slug: "awaken-online-armageddon",
   title: "Awaken Online: Armageddon",

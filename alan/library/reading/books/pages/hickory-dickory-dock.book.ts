@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const hickoryDickoryDock = {
   id: "019db533-f399-7beb-8a28-da9e8f1472b1",
-  pageTypeSlug: "book",
   type: "book",
   slug: "hickory-dickory-dock",
   title: "Hickory Dickory Dock",

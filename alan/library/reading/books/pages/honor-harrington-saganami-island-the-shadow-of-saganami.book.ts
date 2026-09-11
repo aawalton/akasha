@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const honorHarringtonSaganamiIslandTheShadowOfSaganami = {
   id: "019db533-f39a-7968-9238-89beff8db36c",
-  pageTypeSlug: "book",
   type: "book",
   slug: "honor-harrington-saganami-island-the-shadow-of-saganami",
   title: "Honor Harrington: Saganami Island: The Shadow of Saganami",

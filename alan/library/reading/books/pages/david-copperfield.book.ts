@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const davidCopperfield = {
   id: "019db533-f39d-7baf-8ba3-212209a6fa2c",
-  pageTypeSlug: "book",
   type: "book",
   slug: "david-copperfield",
   title: "David Copperfield",

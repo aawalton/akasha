@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const disgardiumTheFinalBattleVolume1 = {
   id: "019db533-f390-7d4a-b97e-fd1ddd888164",
-  pageTypeSlug: "book",
   type: "book",
   slug: "disgardium-the-final-battle-volume-1",
   title: "Disgardium: The Final Battle Volume 1",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const awakenOnlineTimeless = {
   id: "019db533-f390-784b-842c-b54c3ee5fd92",
-  pageTypeSlug: "book",
   type: "book",
   slug: "awaken-online-timeless",
   title: "Awaken Online: Timeless",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const chalionTheCurseOfChalion = {
   id: "019db533-f39a-7aa1-85ca-006797d633bc",
-  pageTypeSlug: "book",
   type: "book",
   slug: "chalion-the-curse-of-chalion",
   title: "Chalion: The Curse of Chalion",

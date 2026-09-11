@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const mistbornTheFinalEmpire = {
   id: "019db533-f39d-725c-a722-e88dd0bed232",
-  pageTypeSlug: "book",
   type: "book",
   slug: "mistborn-the-final-empire",
   title: "Mistborn: The Final Empire",

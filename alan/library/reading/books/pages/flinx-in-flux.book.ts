@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const flinxInFlux = {
   id: "019db533-f399-7aa0-954c-083f8c85d9de",
-  pageTypeSlug: "book",
   type: "book",
   slug: "flinx-in-flux",
   title: "Flinx in Flux",

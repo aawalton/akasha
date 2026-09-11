@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const dresdenFilesPeaceTalks = {
   id: "019db533-f39a-7c03-9ca9-678443f151c1",
-  pageTypeSlug: "book",
   type: "book",
   slug: "dresden-files-peace-talks",
   title: "Dresden Files: Peace Talks",

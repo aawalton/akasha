@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const bushidoOnlineWarGames = {
   id: "019db533-f390-7a5c-89de-8eb5ac74c84b",
-  pageTypeSlug: "book",
   type: "book",
   slug: "bushido-online-war-games",
   title: "Bushido Online: War Games",

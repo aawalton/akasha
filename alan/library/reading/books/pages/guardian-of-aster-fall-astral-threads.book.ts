@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const guardianOfAsterFallAstralThreads = {
   id: "019db533-f390-7fc1-ae29-b8d039b2f719",
-  pageTypeSlug: "book",
   type: "book",
   slug: "guardian-of-aster-fall-astral-threads",
   title: "Guardian of Aster Fall: Astral Threads",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const alienSeaOfSorrows = {
   id: "019db533-f39b-727b-a76e-fcf50958c8eb",
-  pageTypeSlug: "book",
   type: "book",
   slug: "alien-sea-of-sorrows",
   title: "Alien: Sea of Sorrows",

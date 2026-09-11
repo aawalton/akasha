@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const arcaneAscensionTheTorchThatIgnitesTheStars = {
   id: "019db533-f38a-740f-bcf1-8f86437756bf",
-  pageTypeSlug: "book",
   type: "book",
   slug: "arcane-ascension-the-torch-that-ignites-the-stars",
   title: "Arcane Ascension: The Torch that Ignites the Stars",

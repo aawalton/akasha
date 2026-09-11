@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const theStormlightArchive = {
   id: "019db533-f39d-7377-86a9-ac429a2df0d3",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "the-stormlight-archive",
   title: "The Stormlight Archive",

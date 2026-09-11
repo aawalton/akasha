@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const discworldJingo = {
   id: "019db533-f388-7e02-a3ec-b142705dafa9",
-  pageTypeSlug: "book",
   type: "book",
   slug: "discworld-jingo",
   title: "Discworld: Jingo",

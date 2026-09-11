@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const milesVorsokiganMirrorDance = {
   id: "019db533-f39a-7e3e-82eb-0cc2189e2c3c",
-  pageTypeSlug: "book",
   type: "book",
   slug: "miles-vorsokigan-mirror-dance",
   title: "Miles Vorsokigan: Mirror Dance",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const dumbWitness = {
   id: "019db533-f399-7ca0-a231-0181c220bc81",
-  pageTypeSlug: "book",
   type: "book",
   slug: "dumb-witness",
   title: "Dumb Witness",

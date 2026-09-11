@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const harryPotterHogwartsLibraryFantasticBeastsAndWhereToFindThem = {
   id: "019db533-f38b-7086-9367-c3d403ddb1a2",
-  pageTypeSlug: "book",
   type: "book",
   slug: "harry-potter-hogwarts-library-fantastic-beasts-and-where-to-find-them",
   title:

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const decisive = {
   id: "019db533-f39e-720d-8e3a-3407012b770f",
-  pageTypeSlug: "book",
   type: "book",
   slug: "decisive",
   title: "Decisive",

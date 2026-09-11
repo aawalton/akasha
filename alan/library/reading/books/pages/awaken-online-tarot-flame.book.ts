@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const awakenOnlineTarotFlame = {
   id: "019db533-f390-78bd-a5f9-cd1e9ba0f506",
-  pageTypeSlug: "book",
   type: "book",
   slug: "awaken-online-tarot-flame",
   title: "Awaken Online: Tarot: Flame",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const darkMatterAscension = {
   id: "019db533-f390-7c66-bfc6-364c34552fe8",
-  pageTypeSlug: "book",
   type: "book",
   slug: "dark-matter-ascension",
   title: "Dark Matter Ascension",

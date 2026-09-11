@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const galacticEmpireTheStarsLikeDust = {
   id: "019db533-f39a-79dd-a76f-1f803846ba5d",
-  pageTypeSlug: "book",
   type: "book",
   slug: "galactic-empire-the-stars-like-dust",
   title: "Galactic Empire: The Stars, Like Dust",

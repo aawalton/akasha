@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const honorHarringtonStarKingdomANewClan = {
   id: "019db533-f39b-7147-b9f7-06ddf04c77c8",
-  pageTypeSlug: "book",
   type: "book",
   slug: "honor-harrington-star-kingdom-a-new-clan",
   title: "Honor Harrington - Star Kingdom: A New Clan",

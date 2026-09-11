@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const margaretHerFirst75Years = {
   id: "019db533-f39d-7a79-8347-5285fee3bc79",
-  pageTypeSlug: "book",
   type: "book",
   slug: "margaret-her-first-75-years",
   title: "Margaret: Her First 75 Years",

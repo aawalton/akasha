@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const goalsHowToGetEverythingYouWantFasterThanYouEverThoughtPossible = {
   id: "019db533-f39e-7180-ac81-ba78af4c69af",
-  pageTypeSlug: "book",
   type: "book",
   slug: "goals-how-to-get-everything-you-want-faster-than-you-ever-thought-possible",
   title: "Goals! How to Get Everything You Want Faster Than You Ever Thought Possible",

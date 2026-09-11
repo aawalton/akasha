@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const expeditionaryForceBreakaway = {
   id: "019db533-f39b-719a-add9-af0cafa46edc",
-  pageTypeSlug: "book",
   type: "book",
   slug: "expeditionary-force-breakaway",
   title: "Expeditionary Force: Breakaway",

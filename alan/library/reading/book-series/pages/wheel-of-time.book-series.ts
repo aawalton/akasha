@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const wheelOfTime = {
   id: "019db533-f39b-746f-9753-d97ce283aa5b",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "wheel-of-time",
   title: "Wheel of Time",

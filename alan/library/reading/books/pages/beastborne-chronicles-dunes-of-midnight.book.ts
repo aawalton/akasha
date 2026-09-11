@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const beastborneChroniclesDunesOfMidnight = {
   id: "019db533-f390-78d9-aaa6-3360ad447980",
-  pageTypeSlug: "book",
   type: "book",
   slug: "beastborne-chronicles-dunes-of-midnight",
   title: "Beastborne Chronicles: Dunes of Midnight",

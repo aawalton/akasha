@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const book12RulesForLife = {
   id: "019db533-f39e-7172-a6a9-0b00d645a11e",
-  pageTypeSlug: "book",
   type: "book",
   slug: "book-12-rules-for-life",
   title: "12 Rules for Life",

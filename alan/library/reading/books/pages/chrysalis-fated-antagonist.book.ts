@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const chrysalisFatedAntagonist = {
   id: "019db533-f390-7aac-a049-9b9741ee5141",
-  pageTypeSlug: "book",
   type: "book",
   slug: "chrysalis-fated-antagonist",
   title: "Chrysalis: Fated Antagonist",

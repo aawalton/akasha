@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const cultureUseOfWeapons = {
   id: "019db533-f39a-794a-834b-1008f754ef4d",
-  pageTypeSlug: "book",
   type: "book",
   slug: "culture-use-of-weapons",
   title: "Culture: Use of Weapons",

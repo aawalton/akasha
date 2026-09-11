@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const discworldLordsAndLadies = {
   id: "019db533-f39a-7ec9-9e9e-eeb5bb13c6e0",
-  pageTypeSlug: "book",
   type: "book",
   slug: "discworld-lords-and-ladies",
   title: "Discworld: Lords and Ladies",

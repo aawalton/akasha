@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const hiddenPotential = {
   id: "019db533-f39e-722d-b1a9-b056924a0864",
-  pageTypeSlug: "book",
   type: "book",
   slug: "hidden-potential",
   title: "Hidden Potential",

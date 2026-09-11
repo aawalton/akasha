@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const arcaneAscensionSufficientlyAdvancedMagic = {
   id: "019db533-f38a-73f2-afb9-9054d65e3bdc",
-  pageTypeSlug: "book",
   type: "book",
   slug: "arcane-ascension-sufficiently-advanced-magic",
   title: "Arcane Ascension: Sufficiently Advanced Magic",

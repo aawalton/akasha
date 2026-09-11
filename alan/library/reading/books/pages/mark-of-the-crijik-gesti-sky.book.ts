@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const markOfTheCrijikGestiSky = {
   id: "019db533-f391-71e0-98ed-df451f3f281f",
-  pageTypeSlug: "book",
   type: "book",
   slug: "mark-of-the-crijik-gesti-sky",
   title: "Mark of the Crijik: Gesti Sky",

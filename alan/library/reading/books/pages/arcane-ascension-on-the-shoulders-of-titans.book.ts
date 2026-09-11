@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const arcaneAscensionOnTheShouldersOfTitans = {
   id: "019db533-f38a-7403-a97f-1ce3e4e1d476",
-  pageTypeSlug: "book",
   type: "book",
   slug: "arcane-ascension-on-the-shoulders-of-titans",
   title: "Arcane Ascension: On the Shoulders of Titans",

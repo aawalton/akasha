@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const jeffersonAndHisTimeVolume3 = {
   id: "019db533-f39d-744b-8003-a8fc32e1dbe0",
-  pageTypeSlug: "book",
   type: "book",
   slug: "jefferson-and-his-time-volume-3",
   title: "Jefferson & His Time Volume 3",

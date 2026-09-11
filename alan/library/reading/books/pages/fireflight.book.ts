@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const fireflight = {
   id: "019db533-f39d-71bf-aea9-51a4f5cde39b",
-  pageTypeSlug: "book",
   type: "book",
   slug: "fireflight",
   title: "Fireflight",

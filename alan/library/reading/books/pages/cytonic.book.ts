@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const cytonic = {
   id: "019db533-f39c-7f6c-8542-d6c871039189",
-  pageTypeSlug: "book",
   type: "book",
   slug: "cytonic",
   title: "Cytonic",

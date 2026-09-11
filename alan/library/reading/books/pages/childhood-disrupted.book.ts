@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const childhoodDisrupted = {
   id: "019db533-f39e-711a-a636-8e1956e508a8",
-  pageTypeSlug: "book",
   type: "book",
   slug: "childhood-disrupted",
   title: "Childhood Disrupted",

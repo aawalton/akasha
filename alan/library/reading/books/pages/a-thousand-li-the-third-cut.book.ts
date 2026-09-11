@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const aThousandLiTheThirdCut = {
   id: "019db533-f390-75e8-bd34-7c0c86592394",
-  pageTypeSlug: "book",
   type: "book",
   slug: "a-thousand-li-the-third-cut",
   title: "A Thousand Li: The Third Cut",

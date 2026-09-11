@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const artoriansArchivesAntelucan = {
   id: "019db533-f390-77be-b946-721b07a17af5",
-  pageTypeSlug: "book",
   type: "book",
   slug: "artorians-archives-antelucan",
   title: "Artorian's Archives: Antelucan",

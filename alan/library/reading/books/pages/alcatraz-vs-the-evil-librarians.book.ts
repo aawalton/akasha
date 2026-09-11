@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const alcatrazVsTheEvilLibrarians = {
   id: "019db533-f39d-7395-8529-7b502ffa0bf1",
-  pageTypeSlug: "book",
   type: "book",
   slug: "alcatraz-vs-the-evil-librarians",
   title: "Alcatraz vs the Evil Librarians",

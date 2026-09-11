@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const alexaThymeMakingAName = {
   id: "019db533-f390-76ad-beeb-43a7007e98c2",
-  pageTypeSlug: "book",
   type: "book",
   slug: "alexa-thyme-making-a-name",
   title: "Alexa Thyme: Making A Name",

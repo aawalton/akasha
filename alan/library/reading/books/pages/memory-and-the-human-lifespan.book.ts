@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const memoryAndTheHumanLifespan = {
   id: "019db533-f39e-700b-adce-9a78ff69b3d9",
-  pageTypeSlug: "book",
   type: "book",
   slug: "memory-and-the-human-lifespan",
   title: "Memory and the Human Lifespan",

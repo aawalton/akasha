@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const dresdenFilesSkinGame = {
   id: "019db533-f39a-7d3e-bff6-2020fa49a4c0",
-  pageTypeSlug: "book",
   type: "book",
   slug: "dresden-files-skin-game",
   title: "Dresden Files: Skin Game",

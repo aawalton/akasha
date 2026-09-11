@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const beneathTheDragoneyeMoonsBeyondTheWall = {
   id: "019db533-f390-79ae-8ba3-a74019313fe1",
-  pageTypeSlug: "book",
   type: "book",
   slug: "beneath-the-dragoneye-moons-beyond-the-wall",
   title: "Beneath the Dragoneye Moons: Beyond the Wall",

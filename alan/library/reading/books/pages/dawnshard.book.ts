@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const dawnshard = {
   id: "019db533-f39d-702a-99e3-96ba139416f2",
-  pageTypeSlug: "book",
   type: "book",
   slug: "dawnshard",
   title: "Dawnshard",

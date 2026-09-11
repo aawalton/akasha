@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const janeEyre = {
   id: "019db533-f39d-7ac7-b6bb-cbfa4f9b1349",
-  pageTypeSlug: "book",
   type: "book",
   slug: "jane-eyre",
   title: "Jane Eyre",

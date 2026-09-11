@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const algorithmsToLiveBy = {
   id: "019db533-f39e-71ad-8cce-b0cc7be996f5",
-  pageTypeSlug: "book",
   type: "book",
   slug: "algorithms-to-live-by",
   title: "Algorithms to Live By",

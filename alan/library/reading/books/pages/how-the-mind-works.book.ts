@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const howTheMindWorks = {
   id: "019db533-f39e-7112-86ce-c9347ede9d4d",
-  pageTypeSlug: "book",
   type: "book",
   slug: "how-the-mind-works",
   title: "How the Mind Works",

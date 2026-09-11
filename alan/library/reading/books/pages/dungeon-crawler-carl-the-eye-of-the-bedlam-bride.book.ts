@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const dungeonCrawlerCarlTheEyeOfTheBedlamBride = {
   id: "019db533-f390-7efe-b628-6780287ded3e",
-  pageTypeSlug: "book",
   type: "book",
   slug: "dungeon-crawler-carl-the-eye-of-the-bedlam-bride",
   title: "Dungeon Crawler Carl: The Eye of the Bedlam Bride",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const grimmsTales = {
   id: "019db533-f39d-7943-8533-c656edb017e7",
-  pageTypeSlug: "book",
   type: "book",
   slug: "grimms-tales",
   title: "Grimm's Tales",

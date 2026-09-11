@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const honorHarringtonHonorAmongEnemies = {
   id: "019db533-f39b-7072-9cca-b27bd04a4ea3",
-  pageTypeSlug: "book",
   type: "book",
   slug: "honor-harrington-honor-among-enemies",
   title: "Honor Harrington: Honor Among Enemies",

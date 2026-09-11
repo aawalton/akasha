@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const artoriansArchivesAcyrologia = {
   id: "019db533-f390-77f2-9254-bf1e439d9b06",
-  pageTypeSlug: "book",
   type: "book",
   slug: "artorians-archives-acyrologia",
   title: "Artorian's Archives: Acyrologia",

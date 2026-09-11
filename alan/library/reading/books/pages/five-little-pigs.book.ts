@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const fiveLittlePigs = {
   id: "019db533-f399-7be0-a37f-b9095b145935",
-  pageTypeSlug: "book",
   type: "book",
   slug: "five-little-pigs",
   title: "Five Little Pigs",

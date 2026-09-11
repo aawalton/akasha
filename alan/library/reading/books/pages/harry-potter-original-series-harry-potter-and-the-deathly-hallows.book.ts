@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const harryPotterOriginalSeriesHarryPotterAndTheDeathlyHallows = {
   id: "019db533-f38b-701b-9803-1230fe2f52d5",
-  pageTypeSlug: "book",
   type: "book",
   slug: "harry-potter-original-series-harry-potter-and-the-deathly-hallows",
   title: "Harry Potter Original Series: Harry Potter and the Deathly Hallows",

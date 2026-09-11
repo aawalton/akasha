@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const dungeonCrawlerCarlThisInevitableRuin = {
   id: "019db533-f390-7ee8-ac15-c0dd9fe3a9f2",
-  pageTypeSlug: "book",
   type: "book",
   slug: "dungeon-crawler-carl-this-inevitable-ruin",
   title: "Dungeon Crawler Carl: This Inevitable Ruin",

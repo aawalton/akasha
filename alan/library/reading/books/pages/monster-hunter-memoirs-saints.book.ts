@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const monsterHunterMemoirsSaints = {
   id: "019db533-f39a-7f6c-828f-46a38e96ec36",
-  pageTypeSlug: "book",
   type: "book",
   slug: "monster-hunter-memoirs-saints",
   title: "Monster Hunter Memoirs: Saints",

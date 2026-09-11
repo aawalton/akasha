@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const bushidoOnlineFriendsAndFoes = {
   id: "019db533-f390-7a64-aaa9-25077ea137de",
-  pageTypeSlug: "book",
   type: "book",
   slug: "bushido-online-friends-and-foes",
   title: "Bushido Online: Friends and Foes",

@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const annalsOfDrakisBloodOfTheEmperor = {
   id: "019db533-f38b-7161-9219-9f8166a65e43",
-  pageTypeSlug: "book",
   type: "book",
   slug: "annals-of-drakis-blood-of-the-emperor",
   title: "Annals of Drakis: Blood of the Emperor",

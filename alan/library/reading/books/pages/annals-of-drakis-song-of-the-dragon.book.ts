@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const annalsOfDrakisSongOfTheDragon = {
   id: "019db533-f39a-7aae-b22c-e3549cf363d5",
-  pageTypeSlug: "book",
   type: "book",
   slug: "annals-of-drakis-song-of-the-dragon",
   title: "Annals of Drakis: Song of the Dragon",

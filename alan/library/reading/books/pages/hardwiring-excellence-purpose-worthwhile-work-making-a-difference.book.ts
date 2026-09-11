@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const hardwiringExcellencePurposeWorthwhileWorkMakingADifference = {
   id: "019db533-f39e-7254-8269-cee555405f40",
-  pageTypeSlug: "book",
   type: "book",
   slug: "hardwiring-excellence-purpose-worthwhile-work-making-a-difference",
   title: "Hardwiring Excellence: Purpose, Worthwhile Work, Making a Difference",

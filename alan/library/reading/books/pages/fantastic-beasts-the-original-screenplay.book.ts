@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const fantasticBeastsTheOriginalScreenplay = {
   id: "019db533-f38b-7046-9fab-cbe676b0732f",
-  pageTypeSlug: "book",
   type: "book",
   slug: "fantastic-beasts-the-original-screenplay",
   title: "Fantastic Beasts: The Original Screenplay",

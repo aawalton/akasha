@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const markOfTheCrijikKoshimaAcademy = {
   id: "019db533-f391-71eb-9a85-ba662b61774e",
-  pageTypeSlug: "book",
   type: "book",
   slug: "mark-of-the-crijik-koshima-academy",
   title: "Mark of the Crijik: Koshima Academy",

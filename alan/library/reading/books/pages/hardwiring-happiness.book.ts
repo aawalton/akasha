@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const hardwiringHappiness = {
   id: "019db533-f39e-724c-b506-0c3d11200cfe",
-  pageTypeSlug: "book",
   type: "book",
   slug: "hardwiring-happiness",
   title: "Hardwiring Happiness",

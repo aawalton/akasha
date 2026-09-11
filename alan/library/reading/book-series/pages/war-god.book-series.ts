@@ -2,7 +2,6 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const warGod = {
   id: "019db533-f39b-741d-a6c8-63043b6aa7f9",
-  pageTypeSlug: "book-series",
   type: "book-series",
   slug: "war-god",
   title: "War God",

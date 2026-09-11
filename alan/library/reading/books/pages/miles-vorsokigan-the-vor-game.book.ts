@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const milesVorsokiganTheVorGame = {
   id: "019db533-f39a-7876-911b-590b6244e8c7",
-  pageTypeSlug: "book",
   type: "book",
   slug: "miles-vorsokigan-the-vor-game",
   title: "Miles Vorsokigan: The Vor Game",

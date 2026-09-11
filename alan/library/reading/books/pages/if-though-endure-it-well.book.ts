@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const ifThoughEndureItWell = {
   id: "019db533-f39d-70d3-8936-30339eab2e6c",
-  pageTypeSlug: "book",
   type: "book",
   slug: "if-though-endure-it-well",
   title: "If Though Endure It Well",

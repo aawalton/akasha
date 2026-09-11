@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const breakerOfHorizonsBook1 = {
   id: "019db533-f390-7a6b-9968-8495903fa30b",
-  pageTypeSlug: "book",
   type: "book",
   slug: "breaker-of-horizons-book-1",
   title: "Breaker of Horizons",

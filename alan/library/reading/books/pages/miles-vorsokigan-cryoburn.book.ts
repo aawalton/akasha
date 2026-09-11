@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const milesVorsokiganCryoburn = {
   id: "019db533-f39b-7129-a07d-9fe2779423db",
-  pageTypeSlug: "book",
   type: "book",
   slug: "miles-vorsokigan-cryoburn",
   title: "Miles Vorsokigan: CryoBurn",

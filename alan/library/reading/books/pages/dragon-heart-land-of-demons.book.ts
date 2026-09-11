@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const dragonHeartLandOfDemons = {
   id: "019db533-f390-7e8b-8e9a-8efc8d01bc97",
-  pageTypeSlug: "book",
   type: "book",
   slug: "dragon-heart-land-of-demons",
   title: "Dragon Heart: Land of Demons",

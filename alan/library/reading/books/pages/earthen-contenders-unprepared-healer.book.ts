@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const earthenContendersUnpreparedHealer = {
   id: "019db533-f390-7f3b-a642-8dc0c51ff414",
-  pageTypeSlug: "book",
   type: "book",
   slug: "earthen-contenders-unprepared-healer",
   title: "Earthen Contenders: Unprepared Healer",

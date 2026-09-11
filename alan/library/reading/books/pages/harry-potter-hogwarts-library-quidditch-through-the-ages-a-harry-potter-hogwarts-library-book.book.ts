@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const harryPotterHogwartsLibraryQuidditchThroughTheAgesAHarryPotterHogwartsLibraryBook = {
   id: "019db533-f38b-7073-831f-496249bee8f2",
-  pageTypeSlug: "book",
   type: "book",
   slug: "harry-potter-hogwarts-library-quidditch-through-the-ages-a-harry-potter-hogwarts-library-book",
   title:

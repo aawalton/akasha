@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const guardianOfAsterFallHighArtificer = {
   id: "019db533-f390-7fcc-bccf-f948336ae536",
-  pageTypeSlug: "book",
   type: "book",
   slug: "guardian-of-aster-fall-high-artificer",
   title: "Guardian of Aster Fall: High Artificer",

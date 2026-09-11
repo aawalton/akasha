@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const melodyOfMana2 = {
   id: "019db533-f391-7294-b457-8881b81fe06f",
-  pageTypeSlug: "book",
   type: "book",
   slug: "melody-of-mana-2",
   title: "Melody of Mana 2",

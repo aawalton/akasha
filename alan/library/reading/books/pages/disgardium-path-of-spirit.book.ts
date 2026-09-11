@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const disgardiumPathOfSpirit = {
   id: "019db533-f390-7d97-a287-6a8dc598f914",
-  pageTypeSlug: "book",
   type: "book",
   slug: "disgardium-path-of-spirit",
   title: "Disgardium: Path of Spirit",

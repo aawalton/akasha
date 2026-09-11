@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const hansChristianAnderson = {
   id: "019db533-f39d-79e3-8734-9af28808e7f5",
-  pageTypeSlug: "book",
   type: "book",
   slug: "hans-christian-anderson",
   title: "Hans Christian Anderson",

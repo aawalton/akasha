@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const harryPotterHogwartsLibraryTheTalesOfBeedleTheBardAHarryPotterHogwartsLibraryBook = {
   id: "019db533-f38b-707e-af18-ac73e95d97a8",
-  pageTypeSlug: "book",
   type: "book",
   slug: "harry-potter-hogwarts-library-the-tales-of-beedle-the-bard-a-harry-potter-hogwarts-library-book",
   title:

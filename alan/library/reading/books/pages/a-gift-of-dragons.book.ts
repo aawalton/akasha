@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const aGiftOfDragons = {
   id: "019db533-f399-7da0-a053-78d05bdc7a59",
-  pageTypeSlug: "book",
   type: "book",
   slug: "a-gift-of-dragons",
   title: "A Gift of Dragons",

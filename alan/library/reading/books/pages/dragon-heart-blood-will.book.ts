@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const dragonHeartBloodWill = {
   id: "019db533-f390-7eba-b913-1ac9cb4f8441",
-  pageTypeSlug: "book",
   type: "book",
   slug: "dragon-heart-blood-will",
   title: "Dragon Heart: Blood Will",

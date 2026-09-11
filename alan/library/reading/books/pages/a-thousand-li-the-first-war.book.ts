@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const aThousandLiTheFirstWar = {
   id: "019db533-f390-760d-baf5-22a6a82859e8",
-  pageTypeSlug: "book",
   type: "book",
   slug: "a-thousand-li-the-first-war",
   title: "A Thousand Li: the First War",

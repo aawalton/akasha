@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const japaneseFairyTales = {
   id: "019db533-f39d-7a98-958a-4b0ff572c0ba",
-  pageTypeSlug: "book",
   type: "book",
   slug: "japanese-fairy-tales",
   title: "Japanese Fairy Tales",

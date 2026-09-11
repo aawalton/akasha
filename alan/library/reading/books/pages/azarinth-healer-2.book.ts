@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const azarinthHealer2 = {
   id: "019db533-f390-78e1-9793-ab289d1432e4",
-  pageTypeSlug: "book",
   type: "book",
   slug: "azarinth-healer-2",
   title: "Azarinth Healer 2",

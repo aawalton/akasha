@@ -2,7 +2,6 @@ import type { Book } from "akasha/alan/library/reading/books/book.page-type.type
 
 export const jesusTheChrist = {
   id: "019db533-f39d-743d-9953-6cd76b5f01e5",
-  pageTypeSlug: "book",
   type: "book",
   slug: "jesus-the-christ",
   title: "Jesus The Christ",
