@@ -17,7 +17,7 @@ export const aineResourceManagement = {
     {
       statement: "Every kind of work an agent starts runs under a ceiling of its own.",
       workingMemory:
-        "A seat's ceiling bounds the seat and nothing inside it, so one runaway takes the whole seat's allowance. Each kind states its own: a command, a check, a test run, a change, an audit, a deploy, and a tool call that is none of these. Commands, checks, changes and the testing system are already domains a ceiling can be stated on. No page yet holds an audit or a deploy.\n",
+        "The kinds are a change, a guard, a check, an audit, a test, a deploy, a command, and a bash call that is none of these. A seat's ceiling bounds the seat and nothing inside it, so one runaway takes the whole seat's allowance. Commands, checks, changes and the testing system are already domains a ceiling can be stated on. No page holds an audit, a deploy or a guard, and a bash call an agent writes has no page at all, which makes it the hard one.",
     },
     {
       statement: "The most memory each kind of work has taken is recorded.",
