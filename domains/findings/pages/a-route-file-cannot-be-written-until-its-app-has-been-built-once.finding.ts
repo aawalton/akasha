@@ -1,0 +1,13 @@
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
+
+export const aRouteFileCannotBeWrittenUntilItsAppHasBeenBuiltOnce = {
+  id: "01a06c31-1b01-7000-b602-000000000003",
+  pageTypeSlug: "finding",
+  type: "finding",
+  slug: "a-route-file-cannot-be-written-until-its-app-has-been-built-once",
+  domain: "domain/change",
+  claim:
+    "A route file importing its generated types cannot be written at all until that app has been built in this checkout, because the guard reading its imports looks for typegen output that the commit does not carry. Three apps have never been built here, so every route file in them is unwritable.",
+  evidence:
+    'Measured on 2026-09-11 by an agent working under seat thea, while folding the web band of no-rule-in-two-files.\n\nThe guard is import-reaches-a-file, at changes/guards/pages/import-reaches-a-file/import-reaches-a-file.change-guard.code.ts:89. It judges every import in a body the change writes, resolves a specifier through rootDirs from the nearest tsconfig, and refuses where it finds no file. A React Router route says `import ... from "./+types/root"`, and products/audhdalan/web/tsconfig.json:7 gives rootDirs as [".", "./.react-router/types"].\n\n.react-router is a build folder: route-types-directory.build-folder-property.ts:10 names it, and build-folder-property.page-type.ts:14 says a build folder is outside the commit. So the file the guard needs is one a fresh checkout does not have and no landing writes.\n\nPresent in this checkout: alan/web, alan/atlas-web, alan/web-capacitor, temper/web.\nAbsent: smilingjenny/web, products/audhdalan/web, products/archive-of-worlds/web.\n\nIn the three apps where it is absent, both attempted writes were refused with `imports ./+types/root, and ... holds no body`. The refusal is not about the change: the same edit to a route in temper/web is admitted.\n\nWhat this costs beyond one fold: no-rule-in-two-files refuses meta, links and action across route files, and those refusals cannot be cleared in the three unbuilt apps by any edit. The links pair between products/audhdalan/web/root.tsx and temper/web/root.tsx is half-blocked, one side writable and the other not, so that duplicate cannot be folded from either end.\n\nNothing here judges the remedy. Building the app once makes the guard admit the file, but that is a step no page states and a fresh checkout does not take, so whoever holds the guard should decide whether the commit should carry the types, whether the guard should admit an unbuilt build folder, or whether building is a step that belongs somewhere a reader would find it.',
+} as const satisfies Finding
