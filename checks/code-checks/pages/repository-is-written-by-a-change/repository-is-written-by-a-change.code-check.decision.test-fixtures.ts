@@ -1,4 +1,7 @@
-import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { founded, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
@@ -30,6 +33,58 @@ const IGNORE_AT = ".gitignore"
 
 const IGNORES = "*.uncommitted.*\n.supervisors/\nnode_modules/\n"
 
+const MODULE_VALUES: readonly {
+  readonly path: string
+  readonly value: Record<string, unknown>
+}[] = [
+  {
+    path: "pages/checkout-roots/checkout-roots.module.ts",
+    value: {
+      id: "01a08299-65c2-7004-8000-000000000004",
+      pageTypeSlug: "module",
+      slug: "checkout-roots",
+      answersACheckoutRoot: true,
+    },
+  },
+  {
+    path: "pages/code-root/code-root.module.ts",
+    value: {
+      id: "01a08299-65c2-7005-8000-000000000005",
+      pageTypeSlug: "module",
+      slug: "code-root",
+      answersACheckoutRoot: true,
+    },
+  },
+  {
+    path: "temper/build-deploy-checks/repo-root/repo-root.module.ts",
+    value: {
+      id: "01a08299-65c2-7006-8000-000000000006",
+      pageTypeSlug: "module",
+      slug: "repo-root",
+      answersACheckoutRoot: true,
+    },
+  },
+  {
+    path: "checks/modules/change-walking/change-walking.module.ts",
+    value: {
+      id: "01a08299-65c2-7007-8000-000000000007",
+      pageTypeSlug: "module",
+      slug: "change-walking",
+    },
+  },
+  {
+    path: "pages/shadow/shadow.module.ts",
+    value: {
+      id: "01a08299-65c2-7008-8000-000000000008",
+      pageTypeSlug: "module",
+      slug: "shadow",
+      answersACheckoutRoot: false,
+    },
+  },
+]
+
+export const ROOT_MODULES_FILED: readonly string[] = ["checkout-roots", "code-root", "repo-root"]
+
 export const scratch = scratchWorld()
 
 export function rooted(): string {
@@ -41,5 +96,6 @@ export function rooted(): string {
   listedFiled(root, "page-type", "change", [{ path: CHANGE_AT, id: CHANGE_ID }])
   listedFiled(root, "page-type", "command", [{ path: COMMAND_AT, id: COMMAND_ID }])
   listedFiled(root, "module", "command", [{ path: NAMESAKE_AT, id: NAMESAKE_ID }])
+  valueAlsoFiled(root, "module", MODULE_VALUES)
   return root
 }

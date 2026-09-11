@@ -1,9 +1,18 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   asideIn,
   namesAside,
   reasonsOver,
+  rootModulesOf,
 } from "./repository-is-written-by-a-change.code-check.decision.code.ts"
+import {
+  ROOT_MODULES_FILED,
+  rooted,
+  scratch,
+} from "./repository-is-written-by-a-change.code-check.decision.test-fixtures.ts"
+
+afterAll(scratch.sweep)
 
 const AT = "commands/pages/one/one.command.code.ts"
 
@@ -299,4 +308,12 @@ test("a root taken from any module the index names as answering one is the check
 
   expect(reasonsOver(AT, body, ASIDE, new Set(["repo-root"]))).toHaveLength(1)
   expect(reasonsOver(AT, body, ASIDE, ROOTED)).toEqual([])
+})
+
+test("the modules answering a checkout root are the ones whose pages say so and no others", () => {
+  const found = [...rootModulesOf(shadowAt(rooted()))].sort()
+
+  expect(found).toEqual([...ROOT_MODULES_FILED])
+  expect(found).not.toContain("change-walking")
+  expect(found).not.toContain("shadow")
 })
