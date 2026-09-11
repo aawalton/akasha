@@ -1,5 +1,8 @@
-import { buildInitialState } from "../media-data/media-data.module.code.ts"
-import type { LibMediaProviderApi, ProviderState } from "../media-types/media-types.module.code.ts"
+import { buildInitialState } from "akasha/temper/lib-media-provider/media-data/media-data.module.code.ts"
+import type {
+  LibMediaProviderApi,
+  ProviderState,
+} from "akasha/temper/lib-media-provider/media-types/media-types.module.code.ts"
 
 let state: ProviderState
 

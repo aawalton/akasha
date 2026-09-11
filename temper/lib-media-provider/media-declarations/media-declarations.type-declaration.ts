@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.types.ts"
+import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-declaration.page-type.types.ts"
 
 export const mediaDeclarations = {
   id: "01a0620a-a168-770b-99ab-0f8790dd4a01",

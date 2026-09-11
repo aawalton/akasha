@@ -1,4 +1,7 @@
-import type { MediaTypeMap, ProviderState } from "../media-types/media-types.module.code.ts"
+import type {
+  MediaTypeMap,
+  ProviderState,
+} from "akasha/temper/lib-media-provider/media-types/media-types.module.code.ts"
 
 function addSound(
   target: Record<string, string>,
