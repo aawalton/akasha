@@ -20,8 +20,7 @@ cat >> "$APPDELEGATE" <<'SWIFT_HEALTH_SAMPLES'
         anchor: HKQueryAnchor?
     ) async -> ([HKQuantitySample], HKQueryAnchor?, Error?) {
         await withCheckedContinuation {
-            (continuation: CheckedContinuation<([HKQuantitySample], HKQueryAnchor?, Error?), Never>)
-                in
+            (continuation: CheckedContinuation<([HKQuantitySample], HKQueryAnchor?, Error?), Never>) in
             let query = HKAnchoredObjectQuery(
                 type: quantityType,
                 predicate: predicate,
