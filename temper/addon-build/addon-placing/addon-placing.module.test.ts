@@ -1,7 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
+import { dirname, join } from "node:path"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { nothingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { placedAddon } from "akasha/temper/addon-build/addon-placing/addon-placing.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
@@ -13,6 +14,21 @@ afterAll(scratch.sweep)
 const MARKER = "build-id.lua"
 const PROBE = "TemperProbe"
 const OTHER = "TemperOther"
+const DOMAIN = "domain"
+const ADDON_BUILD = "temper-addon-build"
+const DIST = "dist"
+
+function distAt(): string {
+  const page = listedAt(process.cwd(), DOMAIN, ADDON_BUILD)[0]
+  if (page === undefined) {
+    throw new Error(
+      `no \`${DOMAIN}\` is slugged \`${ADDON_BUILD}\`, so nothing says where its build sits`
+    )
+  }
+  return join(dirname(page.path), DIST)
+}
+
+const DIST_AT = distAt()
 
 type Fixture = { readonly root: string; readonly live: string; readonly addons: string }
 
@@ -55,7 +71,7 @@ function fixtureFor(
     )
   }
 
-  const built = join(root, "temper/addon-build/dist", PROBE)
+  const built = join(root, DIST_AT, PROBE)
   mkdirSync(built, { recursive: true })
   writeFileSync(join(built, MARKER), `TemperBuildIds["${PROBE}"] = "abcd1234"\n`)
   writeFileSync(
@@ -139,14 +155,14 @@ test("a folder nothing can read refuses rather than being replaced", () => {
 
 test("an addon with no build refuses", () => {
   const at = fixtureFor()
-  rmSync(join(at.root, "temper/addon-build/dist", PROBE), { recursive: true, force: true })
+  rmSync(join(at.root, DIST_AT, PROBE), { recursive: true, force: true })
   const said = placing(at)
   expect(said.refusals.join("\n")).toContain("has no build at")
 })
 
 test("a symbolic link in the build is verified rather than skipped", () => {
   const at = fixtureFor()
-  const built = join(at.root, "temper/addon-build/dist", PROBE)
+  const built = join(at.root, DIST_AT, PROBE)
   writeFileSync(join(built, "real.lua"), "-- real\n")
   symlinkSync(join(built, "real.lua"), join(built, "linked.lua"))
   const said = placing(at)
@@ -168,7 +184,7 @@ test("a file the host keeps is carried across a replacement", () => {
 
 test("a build holding a link to nothing is refused rather than reported placed", () => {
   const at = fixtureFor()
-  const built = join(at.root, "temper/addon-build/dist", PROBE)
+  const built = join(at.root, DIST_AT, PROBE)
   symlinkSync(join(built, "was-never-written.lua"), join(built, "dangling.lua"))
   const said = placing(at)
   expect(said.refusals.join("\n")).toContain("does not match what was built")
