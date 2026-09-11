@@ -8,4 +8,5 @@ export const createTunnel = {
   definition: "a Cloudflare tunnel created and its credentials sealed into the cluster secret",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
