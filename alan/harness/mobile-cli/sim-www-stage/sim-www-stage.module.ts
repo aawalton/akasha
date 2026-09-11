@@ -8,6 +8,7 @@ export const simWwwStage = {
   definition: "the web bundle staged into a native shell from the working tree",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
