@@ -16,6 +16,7 @@ export const iosApp = {
     "ios-app/atlas",
     "ios-app/smilingjenny",
     "module/app-building",
+    "module/decode-harness-script",
     "module/shared-build-files",
     "file-property/git-ignore",
     "relation-property/build-script",
