@@ -31,7 +31,7 @@ export const theaChecksSystem = {
     {
       statement: "No gap invariant is written on checks-system or any part beneath it.",
       workingMemory:
-        "8 in play, from 31; 9 more sit on experimental pages and are out of scope. Three went today. change-walking's could never close: routing every check through it would make ten lenient readers refuse, and body-text binds that contract. The two on no-rule-in-two-files described a migration the index refresh finished, and ruleWhole now answers true over 126653 paths. Two on repository-is-written-by-a-change share one cause and neither can close. Re-kinding the rest is a form of words.",
+        "6 in play, from 31; 9 more sit on experimental pages and are out of scope. Five went today. change-walking's could never close: every check reading through it would refuse non-text. Two on no-rule-in-two-files were a migration the index refresh finished. popover's contradicted two departures on check.domain. typecheck's was true and untested; orphanedIn tells the two indexes apart. Of the six left, two cannot close, one is Alan's, and three mean reshaping the runner or what counts as an input.",
     },
   ],
   constraints: [
