@@ -1,4 +1,4 @@
-import { getSavedVariables } from "../completion-saved-variables/completion-saved-variables.module.code.ts"
+import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 export const MOTIF_CHAPTERS_PER_STYLE = 14
 

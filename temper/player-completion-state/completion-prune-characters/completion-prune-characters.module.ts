@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const completionPruneCharacters = {
   id: "01a06253-d28f-7004-a14b-8a9f2cf5ead7",

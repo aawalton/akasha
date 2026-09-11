@@ -3,15 +3,15 @@ import type {
   CharacterCompletion,
 } from "akasha/temper/completion/completion-record/completion-record.module.code.ts"
 import type { CompletionOverride } from "akasha/temper/player-completion/completion-override/completion-override.module.code.ts"
-import { deleteRecordKey } from "akasha/utils/narrow/delete-record-key/delete-record-key.module.code.ts"
-import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import {
   ADDON_NAME,
   SAVED_VARIABLES_NAME,
-} from "../completion-addon-constants/completion-addon-constants.module.code.ts"
-import type { DailyWritStates } from "../completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
-import type { SparseMotifKnowledge } from "../completion-motif-knowledge/completion-motif-knowledge.module.code.ts"
-import { charactersToPrune } from "../completion-prune-characters/completion-prune-characters.module.code.ts"
+} from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
+import type { DailyWritStates } from "akasha/temper/player-completion-state/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
+import type { SparseMotifKnowledge } from "akasha/temper/player-completion-state/completion-motif-knowledge/completion-motif-knowledge.module.code.ts"
+import { charactersToPrune } from "akasha/temper/player-completion-state/completion-prune-characters/completion-prune-characters.module.code.ts"
+import { deleteRecordKey } from "akasha/utils/narrow/delete-record-key/delete-record-key.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 
 export interface SavedNavigation {
   selectedTab: string
