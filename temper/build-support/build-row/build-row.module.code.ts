@@ -1,5 +1,6 @@
 import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
 import { parseTimestamp } from "akasha/utils/narrow/parse-timestamp/parse-timestamp.module.code.ts"
+import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 
 export interface BuildRow<Metadata> {
   id: string
@@ -12,10 +13,6 @@ export interface BuildRow<Metadata> {
   updatedAt: number
 }
 
-function parseStringOrNull(value: unknown): string | null {
-  return typeof value === "string" ? value : null
-}
-
 export function mapBuildRow<Metadata>(
   row: Record<string, unknown>,
   parseMetadata: (value: unknown) => Metadata | null
@@ -26,7 +23,7 @@ export function mapBuildRow<Metadata>(
     buildHash: parseString(row.buildHash),
     buildMetadata: parseMetadata(row.buildMetadata),
     visibility: parseString(row.visibility, "private"),
-    correlationId: parseStringOrNull(row.correlationId),
+    correlationId: stringIn(row.correlationId),
     createdAt: parseTimestamp(row.createdAt),
     updatedAt: parseTimestamp(row.updatedAt),
   }

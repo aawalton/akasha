@@ -12,6 +12,7 @@ import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts
 import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
 import { parseTimestamp } from "akasha/utils/narrow/parse-timestamp/parse-timestamp.module.code.ts"
+import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 import { useMemo } from "react"
 
 const ACCOUNT_PAGE_TYPE_SLUG = "temper-account"
@@ -45,10 +46,6 @@ export interface CompletionCompanionRow {
   targetBuildId: string | undefined
   createdAt: number
   updatedAt: number
-}
-
-function parseStringOrNull(value: unknown): string | null {
-  return typeof value === "string" ? value : null
 }
 
 function parseOptionalString(value: unknown): string | undefined {
@@ -91,7 +88,7 @@ function parseAccountCompletion(value: unknown): AccountCompletion | null {
 function mapCharacterRow(row: Record<string, unknown>): CompletionCharacterRow {
   return {
     id: parseString(row.id),
-    accountPage: parseStringOrNull(row.accountPage),
+    accountPage: stringIn(row.accountPage),
     esoCharacterId: parseString(row.esoCharacterId),
     title: parseOptionalString(row.title),
     completion: parseCharacterCompletion(row.completion),
@@ -107,7 +104,7 @@ function mapCharacterRow(row: Record<string, unknown>): CompletionCharacterRow {
 function mapCompanionRow(row: Record<string, unknown>): CompletionCompanionRow {
   return {
     id: parseString(row.id),
-    accountPage: parseStringOrNull(row.accountPage),
+    accountPage: stringIn(row.accountPage),
     companionId: parseString(row.companionId),
     completion: parseCompanionCompletion(row.completion),
     sortOrder: parseOptionalNumber(row.displayOrder),

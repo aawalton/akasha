@@ -9,6 +9,7 @@ import { usePages } from "akasha/pages/ui/supabase/use-pages/use-pages.module.co
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import type { ProfileMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
+import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 import { useCallback, useMemo } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
@@ -18,10 +19,6 @@ interface PlayerRow {
   userId: string
   handle: string | null
   profileMetadata: ProfileMetadata
-}
-
-function parseStringOrNull(value: unknown): string | null {
-  return typeof value === "string" ? value : null
 }
 
 function parseProfileMetadata(row: Record<string, unknown>): ProfileMetadata {
@@ -48,7 +45,7 @@ function mapPlayerRow(row: Record<string, unknown> | undefined): PlayerRow | und
   return {
     id: parseString(row.id),
     userId: parseString(row.title),
-    handle: parseStringOrNull(row.handle),
+    handle: stringIn(row.handle),
     profileMetadata: parseProfileMetadata(row),
   }
 }
