@@ -33,12 +33,18 @@ export function saidAt(rule: string): string {
   return join(RULE, SAID, `${digestOf(BYTES.encode(rule))}${ENDING}`)
 }
 
+export function readAt(path: string, repo: string): readonly Entry[] {
+  const own = under(repo, path)
+  if (!typed(own)) return []
+  return [{ at: join(RULE, `${READ}${ENDING}`), line: JSON.stringify({ path: own }) }]
+}
+
 export function ruleIn(body: string, path: string, repo: string): readonly Entry[] {
   const own = under(repo, path)
   if (!typed(own)) return []
   const spelt = speltIn(own, body).filter((one) => !one.forwards)
   return [
-    { at: join(RULE, `${READ}${ENDING}`), line: JSON.stringify({ path: own }) },
+    ...readAt(path, repo),
     ...spelt.map((one, place) => ({
       at: saidAt(one.rule),
       line: JSON.stringify({ path: own, place, name: one.name }),

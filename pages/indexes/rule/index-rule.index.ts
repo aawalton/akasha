@@ -40,6 +40,22 @@ export const indexRule = {
     },
     {
       invariantKind: "departure",
+      statement: "A path read for rules is filed whether or not a body sits at that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path with no body spells no rule, so the map is whole with that path in it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rebuild takes the paths to file from the same answer the reader asks for.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The paths filed as read are never worked out from the tree a rebuild walks.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That filing is what says the index has read a path rather than passed it over.",
     },
     {

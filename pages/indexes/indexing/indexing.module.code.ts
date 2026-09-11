@@ -34,7 +34,7 @@ import {
 } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
 import { relationIn } from "akasha/pages/indexes/relation/index-relation.index.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
-import { readerIn, ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
+import { readAt, readerIn, ruleIn } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { indexRule } from "akasha/pages/indexes/rule/index-rule.index.ts"
 import { schemaIn } from "akasha/pages/indexes/schema/index-schema.index.code.ts"
 import { indexSchema } from "akasha/pages/indexes/schema/index-schema.index.ts"
@@ -124,7 +124,8 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
   )
   const paths = held.flatMap((one) => claim(one.value, one.path, false))
   drift.push(reconcile(join(root, PATH), paths, root, put))
-  drift.push(reconcile(join(root, LISTED_UNDER), listedOf(paths), root, put))
+  const listed = listedOf(paths)
+  drift.push(reconcile(join(root, LISTED_UNDER), listed, root, put))
   drift.push(reconcile(join(root, SCHEMA), schema, root, put))
   drift.push(reconcile(join(root, DECLARING_UNDER), declaredOf(schema), root, put))
   const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
@@ -147,8 +148,11 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
     importIn(readFileSync(path, "utf8"), path, repo, naming)
   )
   drift.push(reconcile(join(root, IMPORT), imported, root, put))
+  const walked = walkedUnder(tree, typed)
+  const bodied = new Set(walked.map((one) => under(repo, one)))
   const ruled = [
-    ...walkedUnder(tree, typed).flatMap((path) => ruleIn(readFileSync(path, "utf8"), path, repo)),
+    ...walked.flatMap((path) => ruleIn(readFileSync(path, "utf8"), path, repo)),
+    ...listed.flatMap((one) => (bodied.has(one.line) ? [] : readAt(join(repo, one.line), repo))),
     readerIn(),
   ]
   drift.push(reconcile(join(root, RULE), ruled, root, put))

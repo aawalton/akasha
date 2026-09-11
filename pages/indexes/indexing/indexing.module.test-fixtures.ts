@@ -1,5 +1,6 @@
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
+import { typed as typedCode } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import {
   aProperty,
   aType,
@@ -14,7 +15,8 @@ import {
   VOCABULARY,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { indexingAt, rebuiltFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
-import { readerAt } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
+import { everyPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { pathsRead, readerAt, ruleWhole } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
 import { readingAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
@@ -163,6 +165,18 @@ export function worldsApart(): Worlds {
   const rebuilt = heldAt()
   rebuiltFrom(tree, rebuilt, tree)
   return { landed: root, rebuilt }
+}
+
+export function unreadAfterRebuild(): readonly string[] {
+  const { rebuilt } = worldsApart()
+  const reading = readingAt(rebuilt)
+  const read = pathsRead(reading)
+  return everyPath(reading).filter((one) => typedCode(one) && !read.has(one))
+}
+
+export function wholeAfterRebuild(): boolean {
+  const reading = readingAt(worldsApart().rebuilt)
+  return ruleWhole(reading, everyPath(reading))
 }
 
 export function stampsApart(): Stamps {

@@ -113,6 +113,15 @@ export const noRuleInTwoFiles = {
         "The filed rules are read only where the reader that filed them is the one asking.",
     },
     {
+      invariantKind: "absence",
+      statement: "A file written outside a landing has its rules filed by nothing until a rebuild.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Such a file is refused against the filed rules of others and makes no other file refused.",
+    },
+    {
       invariantKind: "departure",
       statement: "A run whose filed rules fall short of that parses every file named instead.",
     },

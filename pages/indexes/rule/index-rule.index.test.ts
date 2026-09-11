@@ -1,6 +1,12 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import {
+  unreadAfterRebuild,
+  wholeAfterRebuild,
+} from "akasha/pages/indexes/indexing/indexing.module.test-fixtures.ts"
 import {
   pathsRead,
+  readAt,
   readerFiled,
   readerIn,
   readerNow,
@@ -10,6 +16,8 @@ import {
   saidOf,
 } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+
+afterAll(scratch.sweep, 5000)
 
 const ROOT = "/repo"
 
@@ -47,6 +55,14 @@ test("a path read for rules is filed whether or not that path spells one", () =>
 
 test("a body that is not ts or tsx is filed nowhere", () => {
   expect(ruleIn(BODY, `${ROOT}/held.md`, ROOT)).toEqual([])
+})
+
+test("a path with no body is filed as read, and a path that is not ts or tsx is not", () => {
+  expect(readAt(`${ROOT}/${ONE}`, ROOT)).toEqual([
+    { at: "rule/read/at-path.jsonl", line: `{"path":"${ONE}"}` },
+  ])
+  expect(readAt(`${ROOT}/held.md`, ROOT)).toEqual([])
+  expect(ruleIn(FORWARDS, `${ROOT}/${ONE}`, ROOT)).toEqual(readAt(`${ROOT}/${ONE}`, ROOT))
 })
 
 test("a line has the path, the place, and the name, and two files share one said file", () => {
@@ -103,4 +119,9 @@ test("the reader names itself by what that reader spells for its own body", () =
   expect(readerNow()).toMatch(/^[0-9a-f]{64}$/)
   expect(readerIn().at).toBe("rule/read/by-reader.jsonl")
   expect(readerFiled(readingOf({ [readerIn().at]: [readerIn().line] }))).toBe(readerNow())
+})
+
+test("a rebuild leaves no typed path it names unread, so the rules it filed are read", () => {
+  expect(unreadAfterRebuild()).toEqual([])
+  expect(wholeAfterRebuild()).toBe(true)
 })
