@@ -23,9 +23,9 @@ import { indexRefresh as indexCommand } from "./index-refresh.command.ts"
 
 const TREE = "."
 
-const CODE_AT = "commands/pages/index/refresh/index-refresh.command.code.ts"
+const CODE_AT = "commands/pages/thrumming/refresh/thrum-refresh.command.code.ts"
 
-const PAGE_AT = "commands/pages/index/refresh/index-refresh.command.ts"
+const PAGE_AT = "commands/pages/thrumming/refresh/thrum-refresh.command.ts"
 
 const LOCK_AT = ".git/akasha-landing.lock"
 
