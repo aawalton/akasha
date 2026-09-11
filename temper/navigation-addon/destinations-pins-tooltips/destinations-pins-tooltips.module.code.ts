@@ -1,3 +1,4 @@
+import { gamepadBodyStyle } from "akasha/temper/gamepad-tooltip/gamepad-tooltip-style/gamepad-tooltip-style.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/navigation-addon/destinations-names/destinations-names.module.code.ts"
 import {
   DESTINATIONS_PIN_TYPE_CRAFTING,
@@ -56,10 +57,6 @@ function keyboardTooltip(): TooltipControl {
 
 function gamepadTooltip(): GamepadMapLocationTooltip {
   return asGamepadMapLocationTooltip(INFORMATION_TOOLTIP)
-}
-
-function gamepadBodyStyle(): { fontSize: number; fontColorField: number } {
-  return { fontSize: 27, fontColorField: GAMEPAD_TOOLTIP_COLOR_GENERAL_COLOR_3 }
 }
 
 export function getPinTextureUnknown(this: void, pin: MapPin): string {

@@ -1,3 +1,4 @@
+import { gamepadBodyStyle } from "akasha/temper/gamepad-tooltip/gamepad-tooltip-style/gamepad-tooltip-style.module.code.ts"
 import {
   LORE_LIBRARY_EIDETIC,
   LORE_LIBRARY_SHALIDOR,
@@ -42,10 +43,6 @@ function keyboardTooltip(): TooltipControl {
 
 function gamepadTooltip(): GamepadMapLocationTooltip {
   return asGamepadMapLocationTooltip(PIN_TOOLTIP_STATE.informationTooltip)
-}
-
-function gamepadBodyStyle(): { fontSize: number; fontColorField: number } {
-  return { fontSize: 27, fontColorField: GAMEPAD_TOOLTIP_COLOR_GENERAL_COLOR_3 }
 }
 
 function gamepadColor2Style(): { fontSize: number; fontColorField: number } {
