@@ -57,5 +57,9 @@ export const bareRepoInit = {
       invariantKind: "departure",
       statement: "Whatever a hook's name already reaches is taken away before the stub is written.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A repository repacks on no push.",
+    },
   ],
 } as const satisfies Module

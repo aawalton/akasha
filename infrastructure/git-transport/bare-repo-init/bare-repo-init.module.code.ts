@@ -257,5 +257,10 @@ touch "$LOCK"
   hook_at ${APPEND_ONLY_HOOK} "$AKASHA_REPO/hooks/pre-receive"
   hook_at ${MIRROR_HOOK} "$AKASHA_REPO/hooks/post-receive"
   echo "init-bare-repo: akasha repo hooks and mirror destination refreshed"
+
+  for repo in /data/git/repositories/*/*.git; do
+    git config -f "$repo/config" receive.autogc false
+  done
+  echo "init-bare-repo: every repository is set to repack on no push"
 ) 9>"$LOCK"
 `
