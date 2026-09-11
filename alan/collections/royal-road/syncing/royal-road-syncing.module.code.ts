@@ -15,6 +15,7 @@ import { asking, type Row } from "akasha/pages/service/page-asking/page-asking.m
 import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { shortenedToWords } from "akasha/utils/narrow/shortened-to-words/shortened-to-words.module.code.ts"
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 const ROOT = akashaRoot()
 const STORY_PAGE_TYPE = "story-read"
@@ -68,11 +69,6 @@ export function chapterPageSlug(
   return `${opening}${shortenedToWords(said === "" ? fallback : said, ceiling)}`
 }
 
-function textIn(row: Row, key: string): string | null {
-  const held = row[key]
-  return typeof held === "string" && held !== "" ? held : null
-}
-
 function listIn(row: Row, key: string): readonly string[] {
   const held = row[key]
   if (!Array.isArray(held)) return []
@@ -103,10 +99,10 @@ export function readStories(only: string | undefined): readonly Story[] {
   }
   const out: Story[] = []
   for (const row of asked.rows) {
-    const slug = textIn(row, "slug")
+    const slug = textAt(row, "slug")
     if (slug === null) continue
     if (only !== undefined && slug !== only) continue
-    const externalId = textIn(row, "externalId")
+    const externalId = textAt(row, "externalId")
     if (externalId === null) {
       console.log(`skip ${slug}: no externalId`)
       continue
@@ -114,8 +110,8 @@ export function readStories(only: string | undefined): readonly Story[] {
     out.push({
       slug,
       externalId,
-      world: textIn(row, "world"),
-      status: textIn(row, "publicationStatus"),
+      world: textAt(row, "world"),
+      status: textAt(row, "publicationStatus"),
       tags: listIn(row, "externalTags"),
     })
   }
@@ -135,9 +131,9 @@ export interface Held {
 }
 
 export function chapterIdIn(row: Row): string | null {
-  const id = textIn(row, "externalId")
+  const id = textAt(row, "externalId")
   if (id !== null) return id
-  const link = textIn(row, "externalLink")
+  const link = textAt(row, "externalLink")
   return link === null ? null : (CHAPTER_AT.exec(link)?.[1] ?? null)
 }
 
@@ -161,7 +157,7 @@ export function heldChapters(): Held {
   const slugs = new Set<string>()
   const idsByStory = new Map<string, Set<string>>()
   for (const row of asked.rows) {
-    const slug = textIn(row, "slug")
+    const slug = textAt(row, "slug")
     if (slug !== null) slugs.add(slug)
     const id = chapterIdIn(row)
     if (id === null) continue
