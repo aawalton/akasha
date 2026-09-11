@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "No finding is filed on checks-system or any part beneath it.",
       workingMemory:
-        "6 name domain/check, from 17, beside one naming folder-matches-a-shape that is out of scope. All were read against the tree and not one is dead. Alan ruled against a confinement check and it went. The lua-runtime one is out of scope too: its subject states experimental at line 170. Two wait on Alan, shellcheck to declare or to provision and whether a scheduled audit is wanted at all. Nothing schedules it, read live off 29 user timers and 75 unit files.",
+        "5 name domain/check, from 17, beside one naming folder-matches-a-shape that is out of scope. All were read against the tree and not one is dead. Alan ruled against a confinement check and for leaving shellcheck on the host, and both went. The lua-runtime one is out of scope too: its subject states experimental at line 170. One waits on Alan, whether a scheduled audit is wanted at all; nothing schedules it, read live off 29 user timers and 75 unit files.",
     },
     {
       statement: "No gap invariant is written on checks-system or any part beneath it.",

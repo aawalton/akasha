@@ -94,11 +94,11 @@ export const shellClean = {
       statement: "The mirror's root is taken out of the reason reported.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "departure",
       statement: "The linter is on the host rather than among the declared dependencies.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "departure",
       statement: "A machine without the linter cannot land a change carrying a shell script.",
     },
     {
