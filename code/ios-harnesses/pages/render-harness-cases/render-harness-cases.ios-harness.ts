@@ -1,0 +1,10 @@
+import type { IosHarness } from "akasha/code/ios-harnesses/ios-harness.page-type.types.ts"
+
+export const renderHarnessCases = {
+  id: "01a0584d-727d-7acf-803c-ec40d9d0ebf0",
+  pageTypeSlug: "ios-harness",
+  type: "ios-harness",
+  slug: "render-harness-cases",
+  definition: "every case a render run draws",
+  swift: "swift",
+} as const satisfies IosHarness

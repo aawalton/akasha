@@ -6,7 +6,7 @@ HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # than guessed at $HOME/repos/akasha, which was right on one machine.
 AKASHA_ROOT="${AKASHA_ROOT:-$(cd "$HERE/../../../../../.." && pwd)}"
 PROGRAM="alanwalton-decode-harness"
-MAIN_SWIFT="$AKASHA_ROOT/code-system/ios-programs/pages/alanwalton-decode-harness/main.swift"
+MAIN_SWIFT="$AKASHA_ROOT/code/ios-programs/pages/alanwalton-decode-harness/main.swift"
 [ -f "$MAIN_SWIFT" ] || {
   echo "ERROR: no main.swift at $MAIN_SWIFT — a program's top level statements sit beside its akasha page, and swiftc has no entry point without it." >&2
   exit 2

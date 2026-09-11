@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { folderFrom } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
 import { scriptsOnly } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/scripts-only/scripts-only.folder-shape.code.ts"
 
-const FOLDER = "akasha/code-system/ios-harnesses/scripts"
+const FOLDER = "akasha/code/ios-harnesses/scripts"
 
 const PAGE_TYPES = new Set<string>(["shell-script", "module"])
 

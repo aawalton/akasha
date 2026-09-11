@@ -1,0 +1,42 @@
+import type { IosProgram } from "akasha/code/ios-programs/ios-program.page-type.types.ts"
+
+export const alanwaltonDecodeHarness = {
+  id: "01a0590a-0b37-799f-8e3f-cb30189db988",
+  pageTypeSlug: "ios-program",
+  type: "ios-program",
+  slug: "alanwalton-decode-harness",
+  definition: "a program checking tiles decode the payloads they are handed",
+  main: "swift",
+  components: [
+    "ios-component/alanwalton-attribute-stoplights-widget",
+    "ios-component/alanwalton-categorize-widget",
+    "ios-component/alanwalton-cost-widget",
+    "ios-component/alanwalton-claude-usage-payload",
+    "ios-component/alanwalton-claude-usage-view",
+    "ios-component/alanwalton-device-secret-reader",
+    "ios-component/alanwalton-inbox-stoplights-widget",
+    "ios-component/alanwalton-never-loaded-view",
+    "ios-component/alanwalton-refused-view",
+    "ios-component/alanwalton-safety-level-widget",
+    "ios-component/alanwalton-stoplight-ring",
+    "ios-component/alanwalton-surplus-widget",
+    "ios-component/alanwalton-upkeep-stoplights-widget",
+    "ios-component/alanwalton-widget-feed",
+    "ios-component/categorize-ring",
+    "ios-component/falling-checks",
+    "ios-component/ring",
+    "ios-component/safety-ring",
+    "ios-component/scale-checks",
+    "ios-component/spacing",
+    "ios-component/surplus-ring",
+    "ios-component/tier",
+    "ios-component/timeline-checks",
+    "ios-component/cost-ring",
+  ],
+  invariants: [
+    {
+      invariantKind: "gap",
+      statement: "Every tile this program compiles has a decode assertion.",
+    },
+  ],
+} as const satisfies IosProgram

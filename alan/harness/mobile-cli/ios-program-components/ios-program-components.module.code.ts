@@ -1,8 +1,8 @@
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { alanwaltonDecodeHarness } from "akasha/code-system/ios-programs/pages/alanwalton-decode-harness/alanwalton-decode-harness.ios-program.ts"
-import { alanwaltonWidget } from "akasha/code-system/ios-programs/pages/alanwalton-widget/alanwalton-widget.ios-program.ts"
-import { smilingjennyDecodeHarness } from "akasha/code-system/ios-programs/pages/smilingjenny-decode-harness/smilingjenny-decode-harness.ios-program.ts"
-import { smilingjennyWidget } from "akasha/code-system/ios-programs/pages/smilingjenny-widget/smilingjenny-widget.ios-program.ts"
+import { alanwaltonDecodeHarness } from "akasha/code/ios-programs/pages/alanwalton-decode-harness/alanwalton-decode-harness.ios-program.ts"
+import { alanwaltonWidget } from "akasha/code/ios-programs/pages/alanwalton-widget/alanwalton-widget.ios-program.ts"
+import { smilingjennyDecodeHarness } from "akasha/code/ios-programs/pages/smilingjenny-decode-harness/smilingjenny-decode-harness.ios-program.ts"
+import { smilingjennyWidget } from "akasha/code/ios-programs/pages/smilingjenny-widget/smilingjenny-widget.ios-program.ts"
 
 const PROGRAM_PAGES = [
   alanwaltonDecodeHarness,

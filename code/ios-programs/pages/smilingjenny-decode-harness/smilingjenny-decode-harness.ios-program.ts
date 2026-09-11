@@ -1,0 +1,35 @@
+import type { IosProgram } from "akasha/code/ios-programs/ios-program.page-type.types.ts"
+
+export const smilingjennyDecodeHarness = {
+  id: "01a0590a-0b38-7a31-a332-3212460d77ba",
+  pageTypeSlug: "ios-program",
+  type: "ios-program",
+  slug: "smilingjenny-decode-harness",
+  definition: "a program checking tiles decode the payloads they are handed",
+  main: "swift",
+  components: [
+    "ios-component/alanwalton-stoplight-ring",
+    "ios-component/categorize-ring",
+    "ios-component/falling-checks",
+    "ios-component/ring",
+    "ios-component/safety-ring",
+    "ios-component/scale-checks",
+    "ios-component/smilingjenny-categorize-view",
+    "ios-component/smilingjenny-cost-widget",
+    "ios-component/smilingjenny-safety-level-widget",
+    "ios-component/smilingjenny-surplus-widget",
+    "ios-component/smilingjenny-upkeep-stoplights-widget",
+    "ios-component/smilingjenny-widget-feed",
+    "ios-component/spacing",
+    "ios-component/surplus-ring",
+    "ios-component/tier",
+    "ios-component/timeline-checks",
+    "ios-component/cost-ring",
+  ],
+  invariants: [
+    {
+      invariantKind: "gap",
+      statement: "Every tile this program compiles has a decode assertion.",
+    },
+  ],
+} as const satisfies IosProgram
