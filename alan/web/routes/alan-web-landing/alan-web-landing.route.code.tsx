@@ -22,6 +22,7 @@ export async function loader({ request }: { request: Request }) {
 const PAGES = [
   { to: "/about", label: "About" },
   { to: "/services", label: "Services" },
+  { to: "/sms", label: "Messaging & SMS opt-in" },
   { to: "/contact", label: "Contact" },
   { to: "/privacy", label: "Privacy" },
   { to: "/terms", label: "Terms" },

@@ -12,5 +12,9 @@ export const alanWebLanding = {
       invariantKind: "departure",
       statement: "A signed-in reader is sent to the home route.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The messaging page is reached from here rather than by knowing its address.",
+    },
   ],
 } as const satisfies Route
