@@ -1,4 +1,5 @@
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
+import type { PersonaRelationshipLevel } from "akasha/personas/properties/persona-relationship-level.computed-property.types.ts"
 
 type Totalled = { readonly pointsTotal?: number }
 
@@ -16,7 +17,7 @@ export function levelOf(points: number, rungAt: (level: number) => number | null
   }
 }
 
-export const work: Work<Totalled, number> = (page, reach) =>
+export const work: Work<Totalled, PersonaRelationshipLevel> = (page, reach) =>
   typeof page.pointsTotal === "number"
     ? levelOf(
         page.pointsTotal,
