@@ -34,11 +34,15 @@ export const directivesKept = {
     },
     {
       invariantKind: "departure",
-      statement: "A case is kept where the rule named and the rule the case is against agree.",
+      statement: "A case is kept where naming a rule and the case's own label agree.",
     },
     {
       invariantKind: "departure",
-      statement: "A name is weighed by its letters alone, so punctuation and case do not part two.",
+      statement: "Which rule is named is not weighed, because one turn breaks more than one rule.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer is read by its letters alone, so punctuation and case do not part two.",
     },
     {
       invariantKind: "absence",

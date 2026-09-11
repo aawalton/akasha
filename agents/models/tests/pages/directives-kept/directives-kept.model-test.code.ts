@@ -22,6 +22,8 @@ const RULES = "{rules}"
 
 const YES = "YES"
 
+const NONE = "none"
+
 const LETTERS = /[^a-z]/g
 
 export function rulesOf(every: readonly Directive[]): string {
@@ -32,10 +34,9 @@ export function lettersIn(said: string): string {
   return said.toLowerCase().replace(LETTERS, "")
 }
 
-export function names(got: string, rule: string): boolean {
+export function namesARule(got: string): boolean {
   const said = lettersIn(got)
-  const name = lettersIn(rule)
-  return name !== "" && said.startsWith(name)
+  return said !== "" && !said.startsWith(NONE)
 }
 
 export function asking(one: Case, reading: PageReading): string | null {
@@ -51,5 +52,5 @@ export function asking(one: Case, reading: PageReading): string | null {
 }
 
 export function keeping(one: Case, got: string): boolean {
-  return names(got, one.against ?? "") === (one.answer === YES)
+  return namesARule(got) === (one.answer === YES)
 }
