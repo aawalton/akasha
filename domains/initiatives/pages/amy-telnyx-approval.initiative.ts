@@ -2,7 +2,6 @@ import type { Initiative } from "akasha/domains/initiatives/initiative.page-type
 
 export const amyTelnyxApproval = {
   id: "01a087b7-34b5-7bf9-bc45-4b2eb623b673",
-  pageTypeSlug: "initiative",
   type: "initiative",
   slug: "amy-telnyx-approval",
   domain: "domain/alan-harness",

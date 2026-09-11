@@ -2,7 +2,6 @@ import type { Initiative } from "akasha/domains/initiatives/initiative.page-type
 
 export const emberWerewolfParse = {
   id: "01a090d2-f75d-7a2d-98e2-136f0cae87ed",
-  pageTypeSlug: "initiative",
   type: "initiative",
   slug: "ember-werewolf-parse",
   domain: "domain/temper",

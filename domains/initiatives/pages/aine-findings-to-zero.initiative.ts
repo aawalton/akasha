@@ -2,7 +2,6 @@ import type { Initiative } from "akasha/domains/initiatives/initiative.page-type
 
 export const aineFindingsToZero = {
   id: "01a0884c-4471-76ab-86aa-bb94691c846a",
-  pageTypeSlug: "initiative",
   type: "initiative",
   slug: "aine-findings-to-zero",
   domain: "page-type/finding",

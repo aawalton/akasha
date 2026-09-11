@@ -2,7 +2,6 @@ import type { Initiative } from "akasha/domains/initiatives/initiative.page-type
 
 export const emberRepairTemperTasks = {
   id: "01a06cac-aa56-7519-8281-5622fa42a987",
-  pageTypeSlug: "initiative",
   type: "initiative",
   slug: "ember-repair-temper-tasks",
   domain: "domain/temper",
