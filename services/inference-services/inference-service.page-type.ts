@@ -51,6 +51,14 @@ export const inferenceService = {
       invariantKind: "gap",
       statement: "An inference service reaches its host through `akasha deploy` alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A pool service states an internal port and an always-on service states none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A warm service is a pool service.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType

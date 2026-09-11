@@ -5,14 +5,12 @@ export const inferenceSchema = {
   pageTypeSlug: "module",
   type: "module",
   slug: "inference-schema",
-  definition: "what a declared inference host, service and managed environment hold",
+  definition: "what a declared inference host holds, and what a host says it is holding",
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
-      statement: "A pool service declares an internal port and an always-on service does not.",
+      invariantKind: "absence",
+      statement: "Nothing here shapes a service, which a page type shapes instead.",
     },
-    { invariantKind: "departure", statement: "A warm service is a pool service." },
-    { invariantKind: "departure", statement: "A service's name is lower kebab case." },
   ],
 } as const satisfies Module
