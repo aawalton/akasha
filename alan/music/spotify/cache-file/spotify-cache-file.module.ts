@@ -11,7 +11,7 @@ export const spotifyCacheFile = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The cache folder is `~/.cache/collections-music-spotify`.",
+      statement: "The cache folder is `~/.cache/music-spotify`.",
     },
     {
       invariantKind: "departure",

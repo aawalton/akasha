@@ -26,8 +26,8 @@ function scratch(): string {
   return join(ROOT, `at-${next}`)
 }
 
-test("the default folder is the one the old client already writes to", () => {
-  expect(defaultBaseDir().endsWith("/.cache/collections-music-spotify")).toBe(true)
+test("the default folder is named for the domain it holds", () => {
+  expect(defaultBaseDir().endsWith("/.cache/music-spotify")).toBe(true)
 })
 
 test("an override names the whole path", () => {

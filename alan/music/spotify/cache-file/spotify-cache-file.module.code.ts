@@ -4,7 +4,7 @@ import { dirname, join } from "node:path"
 import { errnoCodeOf } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 import type { z } from "zod"
 
-const CACHE_FOLDER = "collections-music-spotify"
+const CACHE_FOLDER = "music-spotify"
 
 const OWNER_ONLY = 0o600
 
