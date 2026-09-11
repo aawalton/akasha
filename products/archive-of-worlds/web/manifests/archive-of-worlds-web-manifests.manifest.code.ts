@@ -70,7 +70,7 @@ function webDeploymentYaml(): string {
               image: BUN_RUNTIME_IMAGE,
               imagePullPolicy: "IfNotPresent",
               workingDir: orchestratorCacheEntrypointPath("products/archive-of-worlds/web"),
-              command: ["bun", "run", "start"],
+              command: ["bun", "run", "server.ts"],
               ports: [{ containerPort: 3000, protocol: "TCP" }],
               envFrom: [{ secretRef: { name: SECRET_NAME } }],
               env: [
