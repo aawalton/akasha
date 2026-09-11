@@ -47,6 +47,11 @@ struct StreamHealthSamplesIntent: AppIntent {
     private static let endpoint = URL(
         string: "https://alanwalton.com/api/tracking/health-samples")!
 
+    /// Where a run's outcome is told to akasha rather than to the lock screen alone. It asks for
+    /// no credential, which is what lets a report reach home from the run that holds none to send
+    /// samples with.
+    private static let errorEndpoint = URL(string: "https://alanwalton.com/api/errors")!
+
     /// One POST. The route refuses a batch over 1000 outright, so this sits well under that
     /// rather than at the edge of it.
     private static let batchLimit = 500

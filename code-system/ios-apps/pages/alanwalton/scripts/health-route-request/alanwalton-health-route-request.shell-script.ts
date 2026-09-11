@@ -5,7 +5,17 @@ export const alanwaltonHealthRouteRequest = {
   pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "alanwalton-health-route-request",
-  definition: "the Swift encoding a health sample for the route and posting the batch",
+  definition: "the Swift encoding what the phone posts to a route and posting it",
   shell: "sh",
   sourced: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A report reaches home from a run holding no credential.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reported user id that is nothing is written as null rather than left out.",
+    },
+  ],
 } as const satisfies ShellScript

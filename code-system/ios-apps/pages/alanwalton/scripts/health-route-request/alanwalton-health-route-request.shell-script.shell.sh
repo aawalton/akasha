@@ -55,6 +55,81 @@ cat >> "$APPDELEGATE" <<'SWIFT_HEALTH_SAMPLES'
         return formatter
     }()
 
+    /// The error route's body. Its parser is `.strict()`, so these seven keys are exactly the
+    /// whole of what may be sent, and `errorUserId` has to be PRESENT AND NULL rather than left
+    /// out — the shape has it required and nullable. Swift's synthesised encoder writes a nil
+    /// optional by omitting the key, which that shape refuses, so the encoding is written out.
+    private struct WireErrorReport: Encodable {
+        let message: String
+        let stack: String
+        let kind: String
+        let app: String
+        let url: String
+        let userAgent: String
+        let errorUserId: String?
+
+        private enum CodingKeys: String, CodingKey {
+            case message, stack, kind, app, url, userAgent, errorUserId
+        }
+
+        func encode(to encoder: Encoder) throws {
+            var container = encoder.container(keyedBy: CodingKeys.self)
+            try container.encode(message, forKey: .message)
+            try container.encode(stack, forKey: .stack)
+            try container.encode(kind, forKey: .kind)
+            try container.encode(app, forKey: .app)
+            try container.encode(url, forKey: .url)
+            try container.encode(userAgent, forKey: .userAgent)
+            try container.encode(errorUserId, forKey: .errorUserId)
+        }
+    }
+
+    /// A run's outcome told to akasha as well as to the lock screen.
+    ///
+    /// The notice `announce` posts is readable by Alan holding his phone and by nothing else,
+    /// which is the whole of why #17551 cost six days: from every other side, a run that fired
+    /// and failed and a run that never fired are one reading. This sends the same sentence
+    /// somewhere a query can reach, so a silence can finally be told from a report of failure.
+    ///
+    /// EVERY RUN REPORTS, for the same reason `announce` posts on every run. A run that worked
+    /// and found nothing new to send leaves no arrival either, so success is not self-evidencing
+    /// and cannot be the case that goes untold.
+    ///
+    /// THE ROUTE TAKES NO CREDENTIAL, and that is why this one is used rather than a route of its
+    /// own. The branch most worth hearing from is the one where the Keychain hands back nothing —
+    /// a run that cannot authenticate to send a single sample can still be heard here. The cost
+    /// is that a run that worked lands in a store named for errors; `url` names the intent, so
+    /// they part on sight, and there are at most a handful of these a day.
+    ///
+    /// The answer is dropped on purpose. This is called once the run has already decided what it
+    /// did, and a report that could not be delivered must not change what Alan is told.
+    ///
+    /// A SHORTER TIMEOUT THAN `post`'s. A headless run has a small budget of wall time and the
+    /// samples are what it is for; a report that cannot get out fast must not be what spends it.
+    private static func report(_ outcome: String) async {
+        var request = URLRequest(url: errorEndpoint)
+        request.httpMethod = "POST"
+        request.timeoutInterval = 10
+        request.setValue("application/json", forHTTPHeaderField: "Content-Type")
+        // Which build spoke. `releaseSha` would be the shapelier home for it, but the stamp this
+        // app carries is a commit written by the deploy, and a TestFlight build number is what
+        // Alan reads off his phone, so the number goes where a client names itself.
+        let build = Bundle.main.infoDictionary?["CFBundleVersion"] as? String ?? "unknown"
+        guard
+            let body = try? JSONEncoder().encode(
+                WireErrorReport(
+                    message: outcome,
+                    stack: "",
+                    kind: "error",
+                    app: "alanwalton-native",
+                    url: "stream-health-samples",
+                    userAgent: "StreamHealthSamplesIntent/\(build)",
+                    errorUserId: nil))
+        else { return }
+        request.httpBody = body
+        _ = try? await URLSession.shared.data(for: request)
+    }
+
     private enum PostOutcome {
         case success(IngestResponse)
         case failure(String)

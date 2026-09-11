@@ -35,6 +35,15 @@ cat >> "$APPDELEGATE" <<'SWIFT_HEALTH_SAMPLES'
     /// Awaited rather than fired and forgotten: a headless run ends the moment it returns, and the
     /// notice is the whole point of the run that had nothing else to show for itself.
     ///
+    /// AND SENT TO AKASHA, because a notice has exactly one reader and he has to be holding the
+    /// phone. Every question above is answered on the lock screen and nowhere else, so on
+    /// 2026-09-02 the reason was posted on Alan's phone all along and no one asking why the
+    /// readings stopped could see it. `report` gives that same sentence a home a query reaches.
+    ///
+    /// THE NOTICE IS POSTED FIRST, and the ordering is the point rather than the sequence. A
+    /// report needs the network and the notice needs nothing, so the branch where the phone can
+    /// reach nothing must have already told Alan before this waits on a route.
+    ///
     /// Returns what it was handed, so the text Alan reads and the text the run returns cannot part.
     private static func announce(_ outcome: String) async -> String {
         NSLog("[health-samples] \(outcome)")
@@ -48,6 +57,7 @@ cat >> "$APPDELEGATE" <<'SWIFT_HEALTH_SAMPLES'
         } catch {
             NSLog("[health-samples] the notice could not be posted: \(error.localizedDescription)")
         }
+        await report(outcome)
         return outcome
     }
 
