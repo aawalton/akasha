@@ -6,4 +6,11 @@ export const completionProgress = {
   slug: "completion-progress",
   definition: "how far along one part of the game a player is",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A collectibles capture arriving keyed rather than listed is read as the values under those keys.",
+    },
+  ],
 } as const satisfies Module

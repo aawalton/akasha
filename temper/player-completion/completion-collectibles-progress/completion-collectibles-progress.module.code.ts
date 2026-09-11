@@ -1,4 +1,7 @@
-import type { AccountCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import {
+  type AccountCompletion,
+  unlockedCollectibleIds,
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import type {
   AccountCollectiblesProgress,
   CollectibleCategoryProgress,
@@ -17,17 +20,6 @@ export interface CollectibleCatalogCategory {
   parent?: string
   displayOrder?: number
   collectibles?: readonly CollectibleCatalogCollectible[]
-}
-
-function unlockedCollectibleIds(completion: AccountCompletion | null | undefined): Set<number> {
-  const unlocked = new Set<number>()
-  const raw = completion?.collectibles
-  if (!raw) return unlocked
-  const ids = Array.isArray(raw) ? raw : typeof raw === "object" ? Object.values(raw) : []
-  for (const id of ids) {
-    if (typeof id === "number") unlocked.add(id)
-  }
-  return unlocked
 }
 
 function categoriesByParent(

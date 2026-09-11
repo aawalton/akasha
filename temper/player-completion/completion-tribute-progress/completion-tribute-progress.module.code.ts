@@ -1,4 +1,5 @@
 import type { AccountCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import { unlockedCollectibleIds } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import type {
   AccountTributeProgress,
   TributeCardUpgradeProgress,
@@ -16,17 +17,6 @@ export interface TributePatronCatalogEntry {
   esoPatronId: number
   esoCollectibleId: number
   cards: readonly TributePatronCatalogCard[]
-}
-
-function unlockedCollectibleIds(completion: AccountCompletion | null | undefined): Set<number> {
-  const unlocked = new Set<number>()
-  const raw = completion?.collectibles
-  if (!raw) return unlocked
-  const ids = Array.isArray(raw) ? raw : typeof raw === "object" ? Object.values(raw) : []
-  for (const id of ids) {
-    if (typeof id === "number") unlocked.add(id)
-  }
-  return unlocked
 }
 
 function upgradedCardIndexes(
