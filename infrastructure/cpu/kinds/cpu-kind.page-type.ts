@@ -8,6 +8,14 @@ export const cpuKind = {
   definition: "one measure a reading of a processor is taken in",
   pluralSlug: "cpu-kinds",
   extends: ["page-type/domain"],
+  parts: [
+    "cpu-kind/burned",
+    "cpu-kind/elapsed",
+    "cpu-kind/utilization",
+    "cpu-kind/load",
+    "cpu-kind/stall",
+    "cpu-kind/throttled",
+  ],
   invariants: [
     {
       invariantKind: "departure",
