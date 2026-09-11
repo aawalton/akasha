@@ -30,6 +30,7 @@ export const temperLibShifterBox = {
     "module/shifter-public-api",
     "module/shifter-main",
     "eso-interface/shifter-box-template",
+    "module/shifter-box-cursor-label",
   ],
   interfaces: ["shifter-box-template"],
   invariants: [

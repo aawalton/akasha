@@ -3,6 +3,7 @@ import "../shifter-list-methods-entries/shifter-list-methods-entries.module.code
 import "../shifter-list-methods-rows/shifter-list-methods-rows.module.code.ts"
 import "../shifter-list-methods-drag/shifter-list-methods-drag.module.code.ts"
 import "../shifter-box-class/shifter-box-class.module.code.ts"
+import "../shifter-box-cursor-label/shifter-box-cursor-label.module.code.ts"
 import "../shifter-lib-api/shifter-lib-api.module.code.ts"
 
 import { asGlobalTable } from "../shifter-casts/shifter-casts.module.code.ts"
