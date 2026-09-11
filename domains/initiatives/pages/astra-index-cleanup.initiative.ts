@@ -8,10 +8,6 @@ export const astraIndexCleanup = {
   domain: "domain/index",
   persona: "astra",
   intents: [
-    {
-      statement: "`.git/cache` holds every cache and nothing else.",
-      workingMemory: "`.git/cache` holds `cache/parse` alone today.",
-    },
     { statement: "The identity index is filed under `.git/indexes`." },
     { statement: "The relation index is filed under `.git/indexes`." },
     { statement: "Alan holds the schema index's structure correct." },
