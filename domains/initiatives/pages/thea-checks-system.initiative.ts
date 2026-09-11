@@ -41,7 +41,7 @@ export const theaChecksSystem = {
     {
       statement: "No finding is filed on checks-system or any part beneath it.",
       workingMemory:
-        "31 findings name domain/check, second only to all-about-alan's 56, out of 272 in the tree. None has been read under this initiative. Each is either work to finish or a truth belonging on the page it concerns, and the constraint is that work a step turns up is finished rather than filed, so each of the 31 is done or deleted rather than re-filed.",
+        "16 findings sit in the checks subtree, not 31, out of 262; all 19 parts of check.domain.ts were walked, so that is the whole set. Three were parked behind a bar that is not there: Alan Approves Checks says widening an approved check needs none. Five have had their mechanism carried onto a page already, and the shortfall left on each may not be moved without breaching intent 8. an-install-that-never-prunes is live: 41 files, 8 dead names, 9 broken now.",
     },
     {
       statement: "No gap invariant is written on checks-system or any part beneath it.",
