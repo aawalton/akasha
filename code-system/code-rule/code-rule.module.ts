@@ -129,6 +129,10 @@ export const codeRule = {
     },
     {
       invariantKind: "absence",
+      statement: "A type declared on the name a function is bound to is read as nothing.",
+    },
+    {
+      invariantKind: "absence",
       statement: "Two names for one type are two rules here.",
     },
   ],
