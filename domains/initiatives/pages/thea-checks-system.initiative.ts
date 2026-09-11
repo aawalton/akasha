@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "Two checks refuse. no-rule-in-two-files carries nearly all of it, and about half of what it reports is an artefact of how ruleOf reads, so print the rule and blank every free name before believing a family. page-matches-its-type refuses where a companion skill's effect holds a slug rather than a record: two properties collide on one key and the declaration cannot say so. The rule map is filed beside the index and goes stale by reader, which a wholeness test keyed on paths cannot see.",
+        "One check refuses, at 253. page-matches-its-type is at zero: a one-of whose members the check opens, landed only after widening proved the count still 11. What is left of no-rule-in-two-files is half artefact of how ruleOf reads, so print the rule and blank every free name before believing a family. Worse, it sees only declarations: the same rule is written inline 25 more times inside bigger functions, and it pairs none of them. A count is the least a fold is worth, never a measure.",
     },
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
