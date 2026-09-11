@@ -1,15 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import {
-  listedFiled,
-  pathFiled,
-  valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import { change, scratch } from "../../../modules/check-staging/check-staging.module.code.ts"
 import {
-  change,
-  scratch,
-  staged,
-} from "../../../modules/check-staging/check-staging.module.code.ts"
+  APP_PAGE,
+  APP_PLAIN,
+  appRooted,
+} from "../../../modules/router-app-code/router-app-code.module.test-fixtures.ts"
 import {
   askingIn,
   clientReachesAServerModuleThroughARoute,
@@ -17,55 +13,42 @@ import {
 
 afterAll(scratch.sweep)
 
-const APP = "router-app"
-
-const PAGE = "web/web.router-app.ts"
-
-const PLAIN = "web/panel/panel.module.code.tsx"
-
 const OUTSIDE = "other/other.module.code.ts"
 
 const NOTES = "web/panel/notes.md"
 
 const ID = "01a04f2b-3d24-70b3-8c3e-3076a9299152"
 
-const HELD = "export const held = 1\n"
-
 const LEAK = 'import { held } from "./held.server.ts"\n'
 
-function rooted(): string {
-  const root = staged({ [PAGE]: HELD, [PLAIN]: HELD, [OUTSIDE]: HELD })
-  listedFiled(root, APP, "web", [{ path: PAGE, id: ID }])
-  valueAlsoFiled(root, APP, [{ path: PAGE, value: { id: ID, pageTypeSlug: APP, slug: "web" } }])
-  pathFiled(root, PAGE, [{ path: PAGE, id: ID }])
-  pathFiled(root, PLAIN, [{ path: PLAIN, id: ID }])
-  pathFiled(root, OUTSIDE, [{ path: OUTSIDE, id: ID }])
-  return root
-}
+const ALSO: readonly string[] = [OUTSIDE]
 
 test("a code file inside a router app's package is input to this check", () => {
-  expect(clientReachesAServerModuleThroughARoute.isInput(PLAIN, shadowAt(rooted()))).toBe(true)
+  const shadow = shadowAt(appRooted(ID, ALSO))
+  expect(clientReachesAServerModuleThroughARoute.isInput(APP_PLAIN, shadow)).toBe(true)
 })
 
 test("a file outside every router app's package is no input", () => {
-  expect(clientReachesAServerModuleThroughARoute.isInput(OUTSIDE, shadowAt(rooted()))).toBe(false)
+  const shadow = shadowAt(appRooted(ID, ALSO))
+  expect(clientReachesAServerModuleThroughARoute.isInput(OUTSIDE, shadow)).toBe(false)
 })
 
 test("a file that is no TypeScript inside an app's package is no input", () => {
-  expect(clientReachesAServerModuleThroughARoute.isInput(NOTES, shadowAt(rooted()))).toBe(false)
+  const shadow = shadowAt(appRooted(ID, ALSO))
+  expect(clientReachesAServerModuleThroughARoute.isInput(NOTES, shadow)).toBe(false)
 })
 
 test("what the check asks names the router apps the index files", () => {
-  const root = rooted()
-  expect(askingIn(change(root, {}), shadowAt(root)).appsFiled()).toEqual([PAGE])
+  const root = appRooted(ID, ALSO)
+  expect(askingIn(change(root, {}), shadowAt(root)).appsFiled()).toEqual([APP_PAGE])
 })
 
 test("what the check asks reads a body from the change rather than from the disk", () => {
-  const root = rooted()
-  expect(askingIn(change(root, { [PLAIN]: LEAK }), shadowAt(root)).textAt(PLAIN)).toBe(LEAK)
+  const root = appRooted(ID, ALSO)
+  expect(askingIn(change(root, { [APP_PLAIN]: LEAK }), shadowAt(root)).textAt(APP_PLAIN)).toBe(LEAK)
 })
 
 test("what the check asks names every path the index files", () => {
-  const root = rooted()
-  expect(askingIn(change(root, {}), shadowAt(root)).everyPath()).toContain(PLAIN)
+  const root = appRooted(ID, ALSO)
+  expect(askingIn(change(root, {}), shadowAt(root)).everyPath()).toContain(APP_PLAIN)
 })

@@ -8,6 +8,7 @@ export const routerAppCode = {
   definition: "how a check reads the code a router app's package holds",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
