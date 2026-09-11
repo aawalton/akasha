@@ -120,19 +120,28 @@ export function linesOf(taking: readonly Taking[]): readonly string[] {
   return lines
 }
 
+function keptIn(
+  text: string,
+  one: ts.ImportDeclaration,
+  bound: ts.NamedImports,
+  gone: (each: ts.ImportSpecifier) => boolean
+): string {
+  const source = one.getSourceFile()
+  const kept = bound.elements
+    .filter((each) => !gone(each))
+    .map((each) => text.slice(each.getStart(source), each.getEnd()))
+  const head = text.slice(one.getStart(source), bound.getStart(source))
+  const tail = text.slice(bound.getEnd(), one.getEnd())
+  return `${head}{ ${kept.join(", ")} }${tail}`
+}
+
 export function withoutOne(
   text: string,
   one: ts.ImportDeclaration,
   bound: ts.NamedImports,
   gone: ts.ImportSpecifier
 ): string {
-  const source = one.getSourceFile()
-  const kept = bound.elements
-    .filter((each) => each !== gone)
-    .map((each) => text.slice(each.getStart(source), each.getEnd()))
-  const head = text.slice(one.getStart(source), bound.getStart(source))
-  const tail = text.slice(bound.getEnd(), one.getEnd())
-  return `${head}{ ${kept.join(", ")} }${tail}`
+  return keptIn(text, one, bound, (each) => each === gone)
 }
 
 function wholeOut(text: string, source: ts.SourceFile, one: ts.ImportDeclaration): Taken {
@@ -141,21 +150,43 @@ function wholeOut(text: string, source: ts.SourceFile, one: ts.ImportDeclaration
   return { old: text.slice(from, text[ended] === LINE ? ended + 1 : ended), new: "" }
 }
 
-export function withoutName(text: string, source: ts.SourceFile, named: string): Taken | null {
+function outOf(
+  text: string,
+  source: ts.SourceFile,
+  one: ts.ImportDeclaration,
+  named: ReadonlySet<string>
+): Taken | null {
+  const bound = namedIn(one)
+  if (bound === null) {
+    const every = everyOf(one)
+    return every !== null && named.has(every) ? wholeOut(text, source, one) : null
+  }
+  const gone = bound.elements.filter((each) => named.has(each.name.text))
+  if (gone.length === 0) return null
+  if (gone.length === bound.elements.length) return wholeOut(text, source, one)
+  return {
+    old: text.slice(one.getStart(source), one.getEnd()),
+    new: keptIn(text, one, bound, (each) => named.has(each.name.text)),
+  }
+}
+
+export function withoutNames(
+  text: string,
+  source: ts.SourceFile,
+  named: readonly string[]
+): readonly Taken[] {
+  const wanted = new Set(named)
+  const found: Taken[] = []
   for (const one of source.statements) {
     if (!ts.isImportDeclaration(one)) continue
-    const bound = namedIn(one)
-    if (bound === null) {
-      if (everyOf(one) !== named) continue
-      return wholeOut(text, source, one)
-    }
-    const gone = bound.elements.find((each) => each.name.text === named)
-    if (gone === undefined) continue
-    if (bound.elements.length === 1) return wholeOut(text, source, one)
-    const head = text.slice(one.getStart(source), one.getEnd())
-    return { old: head, new: withoutOne(text, one, bound, gone) }
+    const taken = outOf(text, source, one, wanted)
+    if (taken !== null) found.push(taken)
   }
-  return null
+  return found
+}
+
+export function withoutName(text: string, source: ts.SourceFile, named: string): Taken | null {
+  return withoutNames(text, source, [named])[0] ?? null
 }
 
 export function withName(

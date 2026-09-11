@@ -13,6 +13,7 @@ import {
   openedIn,
   withName,
   withoutName,
+  withoutNames,
   withoutOne,
 } from "akasha/changes/modules/import-lines/import-lines.module.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
@@ -184,6 +185,17 @@ test("a line of names is marked type throughout only where every name is a type"
   ])
   expect(linesOf([taking("one", AT_HELD), taking("Kept", AT_HELD, true)])).toEqual([
     `import { one, type Kept } from "${AT_HELD}"`,
+  ])
+})
+
+test("names taken out of one line together leave one passage rather than one for each", () => {
+  const text = `${VALUES}\n${EVERY_LINE}\n`
+  const source = parsedAs(AT, text)
+
+  expect(withoutNames(text, source, ["one", "two"])).toEqual([{ old: `${VALUES}\n`, new: "" }])
+  expect(withoutNames(text, source, ["two", "held"])).toEqual([
+    { old: VALUES, new: `import { one } from "${AT_HELD}"` },
+    { old: `${EVERY_LINE}\n`, new: "" },
   ])
 })
 

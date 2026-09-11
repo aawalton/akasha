@@ -31,6 +31,15 @@ export const importLines = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Names taken out of a body together leave one passage for each line those names sat on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line losing every name that line carried leaves no line.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A line naming everything a path exports is answered under the name it binds.",
     },
     {
