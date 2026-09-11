@@ -24,6 +24,8 @@ const SETTINGS =
   '"formatter":{"enabled":false},"assist":{"enabled":false},"linter":{"rules":' +
   '{"recommended":false,"correctness":{"noUnusedVariables":"error"}}}}\n'
 
+export const RELAXED = SETTINGS.replace('"noUnusedVariables":"error"', '"noUnusedVariables":"off"')
+
 export const scratch = scratchWorld()
 
 export function said(text: string): Uint8Array {
