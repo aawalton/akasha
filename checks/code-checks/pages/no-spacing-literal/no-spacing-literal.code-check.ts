@@ -72,9 +72,8 @@ export const noSpacingLiteral = {
       statement: "A grant names its file by the page with that file rather than by a path.",
     },
     {
-      invariantKind: "gap",
-      statement:
-        "No check counts how many times a granted value is written in the file granted that value.",
+      invariantKind: "absence",
+      statement: "How many times a granted value is written in its file is not counted here.",
     },
   ],
   check: { maxCpuSeconds: 10 },
