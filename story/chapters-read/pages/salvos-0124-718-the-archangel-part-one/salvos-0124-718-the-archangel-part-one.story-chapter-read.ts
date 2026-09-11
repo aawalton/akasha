@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0124718TheArchangelPartOne = {
   id: "01a06730-4de8-7d9e-b5ae-5e7380859383",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0124-718-the-archangel-part-one",
   title: "718. The Archangel Part One",

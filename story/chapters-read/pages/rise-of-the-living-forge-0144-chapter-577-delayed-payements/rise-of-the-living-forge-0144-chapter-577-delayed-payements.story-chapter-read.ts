@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0144Chapter577DelayedPayements = {
   id: "01a06730-4e11-72fe-bde8-0896b18b9a15",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0144-chapter-577-delayed-payements",
   title: "Chapter 577: Delayed Payements",

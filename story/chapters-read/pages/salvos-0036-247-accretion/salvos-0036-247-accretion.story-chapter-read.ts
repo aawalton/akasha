@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0036247Accretion = {
   id: "01a06730-4dda-7e45-87a2-2fa69c9f4f89",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0036-247-accretion",
   title: "247. Accretion",

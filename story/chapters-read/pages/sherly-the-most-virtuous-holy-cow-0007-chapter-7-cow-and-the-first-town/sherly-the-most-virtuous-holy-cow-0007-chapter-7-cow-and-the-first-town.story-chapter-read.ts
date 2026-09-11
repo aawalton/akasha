@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sherlyTheMostVirtuousHolyCow0007Chapter7CowAndTheFirstTown = {
   id: "01a06730-4fa9-7b51-b26c-f9303c028916",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0007-chapter-7-cow-and-the-first-town",
   title: "Chapter 7 - Cow and the First Town",

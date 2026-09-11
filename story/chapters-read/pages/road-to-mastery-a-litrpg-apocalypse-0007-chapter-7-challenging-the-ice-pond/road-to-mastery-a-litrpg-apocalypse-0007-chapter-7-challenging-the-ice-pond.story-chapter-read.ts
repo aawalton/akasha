@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const roadToMasteryALitrpgApocalypse0007Chapter7ChallengingTheIcePond = {
   id: "01a0672f-8c2c-73bd-91c5-7375d31dd124",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0007-chapter-7-challenging-the-ice-pond",
   title: "Chapter 7: Challenging the Ice Pond",

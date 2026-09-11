@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0048346WillysWillStartOfVolume5Part3 = {
   id: "01a06730-4ddc-7374-b820-0af6d72949d7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0048-346-willys-will-start-of-volume-5-part-3",
   title: "346. Willy's Will (Start of Volume 5 Part 3)",

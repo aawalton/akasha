@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0105Book11IsNowUpOnAmazonKuKickstarterEnding = {
   id: "01a06730-4de8-7fe2-a509-919806a97962",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0105-book-11-is-now-up-on-amazon-ku-kickstarter-ending",
   title: "Book 11 is now up on Amazon KU! + Kickstarter Ending in Five Days!",

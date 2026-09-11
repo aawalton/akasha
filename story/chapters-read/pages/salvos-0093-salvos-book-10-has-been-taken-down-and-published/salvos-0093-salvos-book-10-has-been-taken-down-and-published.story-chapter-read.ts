@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0093SalvosBook10HasBeenTakenDownAndPublished = {
   id: "01a06730-4de7-782f-bd5c-5491d5f2f3ed",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0093-salvos-book-10-has-been-taken-down-and-published",
   title: "Salvos Book 10 has been taken down and published to Kindle Unlimited!",

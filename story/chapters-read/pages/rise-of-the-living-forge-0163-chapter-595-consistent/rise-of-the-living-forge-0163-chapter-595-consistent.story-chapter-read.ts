@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0163Chapter595Consistent = {
   id: "01a06730-4e11-7ca7-a42e-487b3158bb86",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0163-chapter-595-consistent",
   title: "Chapter 595: Consistent",

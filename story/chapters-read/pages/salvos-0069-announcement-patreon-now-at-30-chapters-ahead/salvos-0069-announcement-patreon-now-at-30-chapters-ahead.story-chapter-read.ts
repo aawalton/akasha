@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0069AnnouncementPatreonNowAt30ChaptersAhead = {
   id: "01a06730-4de1-7dd4-b0f3-0f4498649997",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0069-announcement-patreon-now-at-30-chapters-ahead",
   title: "Announcement: Patreon now at 30 chapters ahead!",

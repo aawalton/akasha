@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rockFallsEveryoneDies0015Chapter14HeavyMetalVsRock = {
   id: "01a0672f-8c2d-7939-983d-be59c5423362",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0015-chapter-14-heavy-metal-vs-rock",
   title: "Chapter 14 – Heavy Metal VS Rock",

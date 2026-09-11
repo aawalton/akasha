@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const savageDivinity0466Chapter458 = {
   id: "01a06730-4ed0-7f8d-b1fa-90413bfdf761",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "savage-divinity-0466-chapter-458",
   title: "Chapter 458",

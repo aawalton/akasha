@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sherlyTheMostVirtuousHolyCow0018Chapter18CowReadsBetweenTheLines = {
   id: "01a06730-4faa-7eeb-a1b1-a8123f18dfed",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0018-chapter-18-cow-reads-between-the-lines",
   title: "Chapter 18 - Cow Reads Between The Lines",

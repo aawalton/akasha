@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0086ComicPreviewSixDaysLeft = {
   id: "01a06730-4de7-7607-9a57-a31c54a05034",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0086-comic-preview-six-days-left",
   title: "Comic Preview - SIX DAYS LEFT",

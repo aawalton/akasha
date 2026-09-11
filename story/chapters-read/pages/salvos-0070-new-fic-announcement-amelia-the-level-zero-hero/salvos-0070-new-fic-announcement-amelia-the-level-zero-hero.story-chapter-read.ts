@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0070NewFicAnnouncementAmeliaTheLevelZeroHero = {
   id: "01a06730-4de1-7227-ad85-c71ff7474c5e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0070-new-fic-announcement-amelia-the-level-zero-hero",
   title: "New Fic Announcement: Amelia The Level Zero [Hero] (Not a chapter)",

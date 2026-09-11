@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sherlyTheMostVirtuousHolyCow0026Chapter26CowAndHerLeatherArmor = {
   id: "01a06730-4faa-786b-9234-3b39e5997a46",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0026-chapter-26-cow-and-her-leather-armor",
   title: "Chapter 26 - Cow and Her Leather Armor",

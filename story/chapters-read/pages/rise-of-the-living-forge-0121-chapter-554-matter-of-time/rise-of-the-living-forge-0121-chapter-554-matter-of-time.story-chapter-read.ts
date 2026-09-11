@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0121Chapter554MatterOfTime = {
   id: "01a06730-4e10-75f0-bb3f-d5295fed6fac",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0121-chapter-554-matter-of-time",
   title: "Chapter 554: Matter of Time",

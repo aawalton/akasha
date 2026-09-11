@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0130Chapter563Alliance = {
   id: "01a06730-4e10-732b-9d5d-21728487d1c6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0130-chapter-563-alliance",
   title: "Chapter 563: Alliance",

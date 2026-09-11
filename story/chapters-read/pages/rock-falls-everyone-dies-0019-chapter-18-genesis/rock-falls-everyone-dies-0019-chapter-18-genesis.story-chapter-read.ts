@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rockFallsEveryoneDies0019Chapter18Genesis = {
   id: "01a0672f-8c2f-73a6-9016-46246308637d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0019-chapter-18-genesis",
   title: "Chapter 18 – Genesis",

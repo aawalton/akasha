@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0084SalvosBook19HaveBeenStubbedForAmazonKu = {
   id: "01a06730-4de7-7735-932d-d6d972f20593",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0084-salvos-book-1-9-have-been-stubbed-for-amazon-ku",
   title: "Salvos Book 1-9 have been stubbed for Amazon KU!",

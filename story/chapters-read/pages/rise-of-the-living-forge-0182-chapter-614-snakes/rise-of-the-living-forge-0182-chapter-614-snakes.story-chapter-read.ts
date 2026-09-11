@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0182Chapter614Snakes = {
   id: "01a06730-4e12-710d-8f40-39b757612bf8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0182-chapter-614-snakes",
   title: "Chapter 614: Snakes",

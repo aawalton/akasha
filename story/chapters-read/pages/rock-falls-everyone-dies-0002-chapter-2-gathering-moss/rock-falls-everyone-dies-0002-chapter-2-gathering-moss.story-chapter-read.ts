@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rockFallsEveryoneDies0002Chapter2GatheringMoss = {
   id: "01a0672f-8c2d-71b9-9811-cc35e9fc85e9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0002-chapter-2-gathering-moss",
   title: "Chapter 2 – Gathering moss",

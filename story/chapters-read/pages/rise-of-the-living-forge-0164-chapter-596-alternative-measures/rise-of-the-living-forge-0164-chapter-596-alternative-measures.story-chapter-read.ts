@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0164Chapter596AlternativeMeasures = {
   id: "01a06730-4e11-73e6-8cc7-319f377a2b5c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0164-chapter-596-alternative-measures",
   title: "Chapter 596: Alternative Measures",

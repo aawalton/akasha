@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0009SideStory1SurvivalOfTheFittest = {
   id: "01a06730-4dd2-7bfd-a88f-def515b4f310",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0009-side-story-1-survival-of-the-fittest",
   title: "Side Story 1: Survival of the Fittest",

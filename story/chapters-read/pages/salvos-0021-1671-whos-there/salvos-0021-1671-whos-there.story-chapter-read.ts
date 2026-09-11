@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos00211671WhosThere = {
   id: "01a06730-4dd9-74c8-894e-8b0af2231629",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0021-1671-whos-there",
   title: "167.1. Who's There?",

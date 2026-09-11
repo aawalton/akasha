@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0184Chapter616ProbablyFine = {
   id: "01a06730-4e13-7933-8084-c481dbfb5a3f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0184-chapter-616-probably-fine",
   title: "Chapter 616: Probably fine.",

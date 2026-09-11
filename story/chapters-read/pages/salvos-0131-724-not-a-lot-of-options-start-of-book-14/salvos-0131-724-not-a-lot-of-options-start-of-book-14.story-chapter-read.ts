@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0131724NotALotOfOptionsStartOfBook14 = {
   id: "01a06730-4de9-7920-a68b-55dff660e68e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0131-724-not-a-lot-of-options-start-of-book-14",
   title: "724. Not A Lot Of Options (Start Of Book 14)",

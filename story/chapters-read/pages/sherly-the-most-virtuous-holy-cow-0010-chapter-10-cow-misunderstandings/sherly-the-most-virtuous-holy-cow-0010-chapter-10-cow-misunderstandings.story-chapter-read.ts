@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sherlyTheMostVirtuousHolyCow0010Chapter10CowMisunderstandings = {
   id: "01a06730-4fa9-7c15-bccd-1e00dbe3887b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0010-chapter-10-cow-misunderstandings",
   title: "Chapter 10 - Cow Misunderstandings",

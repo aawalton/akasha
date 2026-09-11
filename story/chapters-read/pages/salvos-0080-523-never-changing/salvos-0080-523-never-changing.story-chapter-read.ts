@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0080523NeverChanging = {
   id: "01a06730-4de7-7520-aec3-8446934dc802",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0080-523-never-changing",
   title: "523. Never Changing",

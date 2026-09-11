@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos00241682NobodyEndOfV3 = {
   id: "01a06730-4dd9-72cf-a74e-e1bd49669403",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0024-1682-nobody-end-of-v3",
   title: "168.2. Nobody (End of V3)",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const roadToMasteryALitrpgApocalypse0004Chapter4BigAggressivePrisonMates = {
   id: "01a0672f-8c2c-78b9-9a3c-39269a51a3c1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0004-chapter-4-big-aggressive-prison-mates",
   title: "Chapter 4: Big, Aggressive Prison Mates",

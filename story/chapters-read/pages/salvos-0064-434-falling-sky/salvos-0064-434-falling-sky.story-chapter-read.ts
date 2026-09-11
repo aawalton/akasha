@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0064434FallingSky = {
   id: "01a06730-4de1-7258-b876-e171e8996994",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0064-434-falling-sky",
   title: "434. Falling Sky",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0133726ImprovedWorld = {
   id: "01a06730-4de9-7e57-b0a0-acfc2e8144fd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0133-726-improved-world",
   title: "726. Improved World",

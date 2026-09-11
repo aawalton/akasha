@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0130Gifting25FreePatronsSubsSalvosComicUpdate = {
   id: "01a06730-4de9-72b4-8210-b7abacf6536b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0130-gifting-25-free-patrons-subs-salvos-comic-update",
   title:

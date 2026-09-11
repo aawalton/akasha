@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0065435SoHeLivesEndOfVolume5Part4 = {
   id: "01a06730-4de1-7499-a410-af36334d48ae",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0065-435-so-he-lives-end-of-volume-5-part-4",
   title: "435. So He Lives (End of Volume 5 Part 4)",

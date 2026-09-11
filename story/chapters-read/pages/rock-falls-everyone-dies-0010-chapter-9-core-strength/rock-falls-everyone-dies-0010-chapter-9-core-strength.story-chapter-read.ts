@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rockFallsEveryoneDies0010Chapter9CoreStrength = {
   id: "01a0672f-8c2d-75ed-81cf-8880c3d42e90",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0010-chapter-9-core-strength",
   title: "Chapter 9 – Core Strength",

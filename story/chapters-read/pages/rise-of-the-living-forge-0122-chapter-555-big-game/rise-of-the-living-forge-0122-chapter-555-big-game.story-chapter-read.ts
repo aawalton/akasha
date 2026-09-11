@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0122Chapter555BigGame = {
   id: "01a06730-4e10-719d-bf77-17e0e983a051",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0122-chapter-555-big-game",
   title: "Chapter 555: Big Game",

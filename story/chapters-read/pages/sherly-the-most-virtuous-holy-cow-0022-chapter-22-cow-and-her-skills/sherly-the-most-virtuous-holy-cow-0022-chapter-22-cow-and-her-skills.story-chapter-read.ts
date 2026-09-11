@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const sherlyTheMostVirtuousHolyCow0022Chapter22CowAndHerSkills = {
   id: "01a06730-4faa-7af6-9c5c-e96cbcbda7b5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0022-chapter-22-cow-and-her-skills",
   title: "Chapter 22 - Cow and Her Skills",

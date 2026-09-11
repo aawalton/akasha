@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0166Chapter598TheRealOwner = {
   id: "01a06730-4e11-7102-bc77-9ae40fb8d057",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0166-chapter-598-the-real-owner",
   title: "Chapter 598: The real owner",

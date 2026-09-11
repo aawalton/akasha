@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const roadToMasteryALitrpgApocalypse0008CosmicTower = {
   id: "01a0672f-8c2c-7f02-9fad-699b7032387a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0008-cosmic-tower",
   title: "Cosmic Tower!?",

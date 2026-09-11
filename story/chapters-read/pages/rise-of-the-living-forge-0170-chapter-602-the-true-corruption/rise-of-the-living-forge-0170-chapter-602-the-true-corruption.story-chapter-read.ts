@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0170Chapter602TheTrueCorruption = {
   id: "01a06730-4e11-737c-b328-275e201c79af",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0170-chapter-602-the-true-corruption",
   title: "Chapter 602: The True Corruption",

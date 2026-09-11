@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0031241NightsveilPart1 = {
   id: "01a06730-4dd9-7f1b-b5d2-a681328d4e9d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0031-241-nightsveil-part-1",
   title: "241. Nightsveil Part 1",

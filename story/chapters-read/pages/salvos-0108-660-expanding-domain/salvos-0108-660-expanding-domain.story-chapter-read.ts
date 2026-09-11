@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0108660ExpandingDomain = {
   id: "01a06730-4de8-76be-aa05-ebb67cc2b6dc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0108-660-expanding-domain",
   title: "660. Expanding Domain",

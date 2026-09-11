@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0168Chapter600DeeperTroubles = {
   id: "01a06730-4e11-7529-8d73-315cfd4fc8d2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0168-chapter-600-deeper-troubles",
   title: "Chapter 600: Deeper Troubles",

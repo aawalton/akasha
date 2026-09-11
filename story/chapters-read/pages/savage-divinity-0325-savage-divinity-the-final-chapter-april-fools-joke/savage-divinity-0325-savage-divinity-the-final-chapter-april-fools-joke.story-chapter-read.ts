@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const savageDivinity0325SavageDivinityTheFinalChapterAprilFoolsJoke = {
   id: "01a06730-4e94-793a-b77a-a45bc8bdb188",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "savage-divinity-0325-savage-divinity-the-final-chapter-april-fools-joke",
   title: "Savage Divinity - The Final Chapter April Fools Joke",

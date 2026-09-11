@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0185Chapter617HarshRealities = {
   id: "01a06730-4e13-79e3-a5f4-1a9ed4509e54",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0185-chapter-617-harsh-realities",
   title: "Chapter 617: Harsh Realities",

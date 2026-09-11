@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rockFallsEveryoneDies0020Epilogue1 = {
   id: "01a0672f-8c2f-75a4-b387-e733a1cede90",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0020-epilogue-1",
   title: "Epilogue 1 – 🗿 ",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0180Chapter612Miscalculation = {
   id: "01a06730-4e12-74ee-9872-976ff90510f3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0180-chapter-612-miscalculation",
   title: "Chapter 612: Miscalculation",

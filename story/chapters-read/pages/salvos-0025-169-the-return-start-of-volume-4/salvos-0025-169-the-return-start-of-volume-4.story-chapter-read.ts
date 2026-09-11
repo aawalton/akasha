@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0025169TheReturnStartOfVolume4 = {
   id: "01a06730-4dd9-774a-9e4f-7178e386cb9f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0025-169-the-return-start-of-volume-4",
   title: "169. The Return (Start of Volume 4)",

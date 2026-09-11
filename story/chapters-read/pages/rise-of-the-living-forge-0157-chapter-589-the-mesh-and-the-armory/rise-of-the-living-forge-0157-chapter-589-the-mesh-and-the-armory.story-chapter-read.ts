@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0157Chapter589TheMeshAndTheArmory = {
   id: "01a06730-4e11-77ea-b9c7-d084b7adc63d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0157-chapter-589-the-mesh-and-the-armory",
   title: "Chapter 589: The Mesh and the Armory",

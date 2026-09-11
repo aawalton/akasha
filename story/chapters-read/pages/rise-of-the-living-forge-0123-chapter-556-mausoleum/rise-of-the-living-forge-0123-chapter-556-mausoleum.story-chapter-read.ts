@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0123Chapter556Mausoleum = {
   id: "01a06730-4e10-798f-96b9-b6b424c788c5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0123-chapter-556-mausoleum",
   title: "Chapter 556: Mausoleum",

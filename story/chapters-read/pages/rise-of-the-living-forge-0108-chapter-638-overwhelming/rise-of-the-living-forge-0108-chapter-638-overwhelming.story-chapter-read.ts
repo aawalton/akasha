@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0108Chapter638Overwhelming = {
   id: "01a06730-4e0f-798f-a4c8-5991b21fdce7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0108-chapter-638-overwhelming",
   title: "Chapter 638: Overwhelming",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0001ArtGallery = {
   id: "01a06730-4dcf-710c-b150-dc8553bb22a2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0001-art-gallery",
   title: "Art Gallery",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const salvos0062SalvosBook5CorruptionAndCentinelsIsNow = {
   id: "01a06730-4de0-7440-9209-233260cfcb9a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "salvos-0062-salvos-book-5-corruption-and-centinels-is-now",
   title: "Salvos Book 5: Corruption and Centinels is now available on the audible store!",
