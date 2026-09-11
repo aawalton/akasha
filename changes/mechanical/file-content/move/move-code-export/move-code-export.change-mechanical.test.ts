@@ -2,70 +2,28 @@ import { expect, test } from "bun:test"
 import { runChange } from "akasha/changes/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.code.ts"
 import {
   addedAt,
+  DEEP,
   ELSEWHERE,
   FAR,
+  FAR_USING,
   FROM,
+  HELD,
+  LANDED,
+  LANDED_FAR,
   NAMED,
   NAMED_AT,
   puttingAt,
   ROOT,
   ROOT_AT,
+  SHARED,
+  STILL,
+  TAKEN,
   TO,
   takenAt,
   USES,
+  USING,
   worldOf,
 } from "akasha/changes/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.test-fixtures.ts"
-
-const DEEP = `import type { Deep } from "./deep.held.ts"`
-
-const HELD = `${DEEP}
-
-export type Kept = {
-  readonly deep: Deep
-}
-
-export type Other = {
-  readonly name: string
-}
-`
-
-const SHARED = `${DEEP}
-
-export type Kept = {
-  readonly deep: Deep
-}
-
-export type Other = {
-  readonly deep: Deep
-}
-`
-
-const USING = `import type { Kept } from "./one.held.ts"
-
-export type Wraps = {
-  readonly kept: Kept
-}
-`
-
-const FAR_USING = `import type { Kept } from "../one.held.ts"
-
-export type Holds = {
-  readonly kept: Kept
-}
-`
-
-const LANDED = `${DEEP}
-
-export type Kept = {
-  readonly deep: Deep
-}
-`
-
-const TAKEN = `
-
-export type Kept = {
-  readonly deep: Deep
-}`
 
 test("the type lands in the sibling body with the import that type names", async () => {
   const world = worldOf({ [FROM]: HELD, [USES]: USING }, [USES])
@@ -111,13 +69,6 @@ test("an import the body left behind still names is kept", async () => {
   expect(takenAt(said, FROM)).not.toContain(`${DEEP}\n`)
 })
 
-const LANDED_FAR = `import type { Deep } from "../one/deep.held.ts"
-
-export type Kept = {
-  readonly deep: Deep
-}
-`
-
 test("a landing path in another folder is taken and every importer repointed", async () => {
   const world = worldOf({ [FROM]: HELD, [USES]: USING }, [USES])
 
@@ -134,17 +85,6 @@ test("an import carried to another folder is spelled from the folder it landed i
 
   expect(addedAt(said, ELSEWHERE)).toBe(LANDED_FAR)
 })
-
-const STILL = `${DEEP}
-
-export type Kept = {
-  readonly deep: Deep
-}
-
-export type Other = {
-  readonly kept: Kept
-}
-`
 
 test("the body left behind names the type where it landed in another folder", async () => {
   const world = worldOf({ [FROM]: STILL })

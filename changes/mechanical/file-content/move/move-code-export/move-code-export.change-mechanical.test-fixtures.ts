@@ -33,6 +33,75 @@ export const ROOT = `{
 }
 `
 
+export const DEEP = `import type { Deep } from "./deep.held.ts"`
+
+export const HELD = `${DEEP}
+
+export type Kept = {
+  readonly deep: Deep
+}
+
+export type Other = {
+  readonly name: string
+}
+`
+
+export const SHARED = `${DEEP}
+
+export type Kept = {
+  readonly deep: Deep
+}
+
+export type Other = {
+  readonly deep: Deep
+}
+`
+
+export const STILL = `${DEEP}
+
+export type Kept = {
+  readonly deep: Deep
+}
+
+export type Other = {
+  readonly kept: Kept
+}
+`
+
+export const LANDED = `${DEEP}
+
+export type Kept = {
+  readonly deep: Deep
+}
+`
+
+export const LANDED_FAR = `import type { Deep } from "../one/deep.held.ts"
+
+export type Kept = {
+  readonly deep: Deep
+}
+`
+
+export const TAKEN = `
+
+export type Kept = {
+  readonly deep: Deep
+}`
+
+export const USING = `import type { Kept } from "./one.held.ts"
+
+export type Wraps = {
+  readonly kept: Kept
+}
+`
+
+export const FAR_USING = `import type { Kept } from "../one.held.ts"
+
+export type Holds = {
+  readonly kept: Kept
+}
+`
+
 type Passage = { at: string; old: string; new: string }
 
 type Adding = { at: string; body: string }
