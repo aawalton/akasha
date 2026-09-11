@@ -9,6 +9,9 @@ import {
 } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.code.ts"
 import {
   folderFrom,
+  GENERATED_AT,
+  MANIFEST_AT,
+  MY_MATH_AT,
   segmented,
   segmentedLater,
 } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
@@ -29,10 +32,6 @@ test("a segment comes from the properties, so a property stated later is reached
   expect(segmented("three/public")).toBe(false)
   expect(segmentedLater("three/public")).toBe(true)
 })
-
-const MANIFEST_AT = "akasha/one/manifests/one-manifests.manifest.ts"
-
-const GENERATED_AT = "akasha/one/manifests/generated"
 
 const MANIFEST_TYPES = new Set<string>(["manifest"])
 
@@ -66,8 +65,6 @@ test("a page stating a folder property claims the folder that property names", (
 test("a page stating no folder property claims its own file and nothing beside it", () => {
   expect(claimed({ pageTypeSlug: "manifest", slug: "one-manifests" })).toEqual([MANIFEST_AT])
 })
-
-const MY_MATH_AT = "alan/books/my-math/sections/beginnings.book-section.ts"
 
 const MY_STRATEGY = "alan/books/my-strategy"
 

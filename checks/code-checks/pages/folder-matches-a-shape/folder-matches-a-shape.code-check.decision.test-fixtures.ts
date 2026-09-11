@@ -14,6 +14,12 @@ import type { Holds } from "akasha/checks/code-checks/pages/folder-matches-a-sha
 import { folderOf } from "akasha/code-system/code-path-between/code-path-between.module.code.ts"
 import { heldIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 
+export const MANIFEST_AT = "akasha/one/manifests/one-manifests.manifest.ts"
+
+export const GENERATED_AT = "akasha/one/manifests/generated"
+
+export const MY_MATH_AT = "alan/books/my-math/sections/beginnings.book-section.ts"
+
 export function holding(named: Readonly<Record<string, readonly string[]>>): Holds {
   return (folder) => ({
     names: named[folder] ?? [],
