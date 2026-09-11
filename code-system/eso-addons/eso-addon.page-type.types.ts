@@ -11,9 +11,9 @@ import type { BundleEntry } from "akasha/code-system/eso-addons/properties/bundl
 import type { EsoInterfaces } from "akasha/code-system/eso-addons/properties/eso-interfaces.relation-property.types.ts"
 import type { LuaModules } from "akasha/code-system/eso-addons/properties/lua-modules.relation-property.types.ts"
 import type { SiblingManifest } from "akasha/code-system/eso-addons/properties/sibling-manifest.file-property.types.ts"
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Service } from "akasha/infrastructure/services/service.page-type.types.ts"
 
-export type EsoAddon = Domain & {
+export type EsoAddon = Service & {
   addonManifest: AddonManifest
   bundleEntry?: BundleEntry
   bindings?: Bindings

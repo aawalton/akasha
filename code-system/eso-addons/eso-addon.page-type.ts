@@ -22,7 +22,7 @@ export const esoAddon = {
     "named-folder-property/addon-bin-folder",
     "named-extension-property/addon-dds-file",
   ],
-  extends: ["page-type/domain"],
+  extends: ["page-type/service"],
   properties: [
     { pageProperty: "file-property/addon-manifest", required: true, many: false },
     { pageProperty: "relation-property/bundle-entry", required: false, many: false },
