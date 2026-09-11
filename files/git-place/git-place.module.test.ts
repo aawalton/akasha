@@ -16,6 +16,7 @@ import {
   STORES,
   storeAt,
   storeIn,
+  TREES,
 } from "akasha/files/git-place/git-place.module.code.ts"
 
 test("the place sits under the folder git does not track", () => {
@@ -42,7 +43,7 @@ test("every name akasha keeps sits under that folder", () => {
 })
 
 test("every store akasha keeps is named here", () => {
-  expect([...STORES].sort()).toEqual([CACHE, DATA, HANDOFF, INDEXES].sort())
+  expect([...STORES].sort()).toEqual([CACHE, DATA, HANDOFF, INDEXES, TREES].sort())
 })
 
 test("a store is answered both under a root and on its own", () => {

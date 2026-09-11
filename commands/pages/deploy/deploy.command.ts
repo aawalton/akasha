@@ -24,6 +24,7 @@ export const deploy = {
     "module/deploy-inference-installing",
     "module/deploy-addon-installing",
     "module/deploy-bundle-publishing",
+    "module/deploy-tree-pinning",
   ],
   taking: [
     {
