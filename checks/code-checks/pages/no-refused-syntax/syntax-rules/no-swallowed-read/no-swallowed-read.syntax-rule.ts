@@ -81,7 +81,7 @@ export const noSwallowedRead = {
     },
 
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "A null answered rather than thrown is followed to the caller reading the null.",
     },
     {
