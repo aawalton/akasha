@@ -114,6 +114,15 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
+      statement: "Which folders one list of folder properties names is worked out once for it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path is answered from the folders above it rather than from every folder named.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Whether the file at a path is generated is answered here rather than by each caller.",
     },

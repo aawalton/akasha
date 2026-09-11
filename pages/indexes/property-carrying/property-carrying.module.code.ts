@@ -180,24 +180,67 @@ export function speaksFor(path: string, value: Value): boolean {
   return endings.some((one) => path.endsWith(`.${one}`))
 }
 
+function foldersNamed(
+  naming: Iterable<Naming>,
+  wanted: (value: Value) => boolean,
+  carriedBy: (named: string) => Carried
+): ReadonlyMap<string, readonly Value[]> {
+  const made = new Map<string, Value[]>()
+  for (const one of naming) {
+    const value = one.value
+    if (value === null || !wanted(value)) continue
+    const folder = value[FOLDER_NAME]
+    if (typeof folder !== "string") continue
+    const said = partedIn(one.path)
+    if (said === null || said.sections.length > 0) continue
+    const held = carriedBy(`${said.pageType}/${said.slug}`)
+    if ("refused" in held) continue
+    for (const two of held.carrying) {
+      const at = join(dirname(two.path), folder)
+      const had = made.get(at) ?? []
+      had.push(value)
+      made.set(at, had)
+    }
+  }
+  return made
+}
+
+const NAMED_FOLDERS = new WeakMap<
+  object,
+  Map<(value: Value) => boolean, ReadonlyMap<string, readonly Value[]>>
+>()
+
+function foldersNamedFor(
+  naming: Iterable<Naming>,
+  wanted: (value: Value) => boolean,
+  carriedBy: (named: string) => Carried
+): ReadonlyMap<string, readonly Value[]> {
+  let held = NAMED_FOLDERS.get(naming)
+  if (held === undefined) {
+    held = new Map()
+    NAMED_FOLDERS.set(naming, held)
+  }
+  const found = held.get(wanted)
+  if (found !== undefined) return found
+  const made = foldersNamed(naming, wanted, carriedBy)
+  held.set(wanted, made)
+  return made
+}
+
 export function heldUnder(
   path: string,
   naming: Iterable<Naming>,
   wanted: (value: Value) => boolean,
   carriedBy: (named: string) => Carried
 ): boolean {
-  for (const one of naming) {
-    const value = one.value
-    if (value === null || !wanted(value)) continue
-    const folder = value[FOLDER_NAME]
-    if (typeof folder !== "string" || !speaksFor(path, value)) continue
-    const said = partedIn(one.path)
-    if (said === null || said.sections.length > 0) continue
-    const held = carriedBy(`${said.pageType}/${said.slug}`)
-    if ("refused" in held) continue
-    for (const two of held.carrying) {
-      if (path.startsWith(`${join(dirname(two.path), folder)}/`)) return true
-    }
+  const folders = foldersNamedFor(naming, wanted, carriedBy)
+  if (folders.size === 0) return false
+  let at = dirname(path)
+  let up = dirname(at)
+  while (at !== up) {
+    if (folders.get(at)?.some((one) => speaksFor(path, one)) === true) return true
+    at = up
+    up = dirname(at)
   }
   return false
 }
