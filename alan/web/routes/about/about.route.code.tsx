@@ -39,8 +39,8 @@ export default function AboutRoute() {
             </Heading>
             <p className="text-secondary text-sm">
               Messages are conversational and transactional &mdash; scheduling, reminders, and
-              day-to-day coordination with known contacts. This is not a marketing service and not a
-              bulk-messaging service.
+              day-to-day coordination with people who have opted in. This is not a marketing service
+              and not a bulk-messaging service.
             </p>
           </div>
         </PanelCard>

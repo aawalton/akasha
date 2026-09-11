@@ -49,11 +49,9 @@ export default function SmsRoute() {
 
         <PanelCard id="consent" title="Consent &amp; opt-in">
           <p className="text-secondary text-sm">
-            Recipients give explicit prior consent before any message is sent. Consent is obtained
-            in one of two ways: <strong>verbally</strong> &mdash; for the small, closed set of
-            personally-known contacts Alan speaks with directly (the script is below) &mdash; or in
-            writing via the <strong>digital opt-in form below</strong>. Either way, no number is
-            added without that prior consent.
+            Recipients give explicit prior consent before any message is sent. Consent is given in
+            writing, through the <strong>digital opt-in form below</strong>, and no number is added
+            without that prior consent.
           </p>
         </PanelCard>
 
@@ -71,18 +69,12 @@ export default function SmsRoute() {
         <PanelCard id="opt-in-workflow" title="Opt-In Workflow">
           <div className="space-y-3">
             <p className="text-secondary text-sm">
-              <strong>Opt-in method:</strong> Explicit consent, obtained either verbally from a
-              small fixed set of personally-known individuals, or in writing through the public
+              <strong>Opt-in method:</strong> Explicit written consent, given through the public
               digital opt-in form on this page (the &ldquo;Opt in to messages&rdquo; section above).
               Messaging is limited to the owner and people who have given that explicit consent.
             </p>
             <Heading variant="subsection-accent">How consent is obtained</Heading>
             <ol className="list-decimal space-y-1 pl-5 text-secondary text-sm">
-              <li>
-                <strong>Verbally:</strong> Alan Walton personally speaks with each prospective
-                recipient (in person or by phone) and explains what the line is, obtaining explicit
-                agreement <strong>before</strong> any text is sent.
-              </li>
               <li>
                 <strong>Digital form:</strong> a visitor enters their name and mobile number and
                 checks the consent box in the opt-in form above; their written consent is recorded
@@ -93,16 +85,6 @@ export default function SmsRoute() {
                 Only after the person consents is their number added; the consent is recorded.
               </li>
             </ol>
-            <Heading variant="subsection-accent">
-              Verbal opt-in script (what recipients hear)
-            </Heading>
-            <p className="text-secondary text-sm">
-              &ldquo;This is Alan. I run a small personal-assistant text line called Amy that I use
-              for scheduling, reminders, and coordination &mdash; just between us, not marketing.
-              Are you okay with me texting you from my assistant number, 844-512-2550? You&rsquo;ll
-              get roughly a few messages a week, you can reply STOP any time to stop, and the full
-              terms and privacy are at alanwalton.com/sms. Do I have your okay?&rdquo;
-            </p>
             <Heading variant="subsection-accent">
               Disclaimers provided before the first message
             </Heading>

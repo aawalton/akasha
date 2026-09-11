@@ -38,11 +38,14 @@ export default function ServicesRoute() {
           </div>
         </PanelCard>
 
-        <PanelCard id="consent" title="Consent-based, closed recipient set">
+        <PanelCard id="consent" title="Consent-based, written opt-in">
           <p className="text-secondary text-sm">
-            Recipients are known individuals who gave explicit prior consent &mdash; both verbal and
-            written &mdash; to receive these messages. There is no public sign-up form, and the
-            recipient set is closed: no one is added without first giving that prior consent.
+            Recipients gave explicit prior written consent to receive these messages. Consent is
+            given through the public opt-in form at{" "}
+            <a href="/sms" className="text-accent underline">
+              alanwalton.com/sms
+            </a>
+            , and no one is added without first giving that prior consent.
           </p>
         </PanelCard>
 

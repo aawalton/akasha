@@ -47,8 +47,8 @@ export default function LandingRoute() {
             </Heading>
             <p className="text-secondary text-sm">
               Amy sends two-way, conversational text messages on Alan Walton&rsquo;s behalf to
-              coordinate with known contacts. It is not a marketing service and not a bulk-messaging
-              service.
+              coordinate with people who have opted in. It is not a marketing service and not a
+              bulk-messaging service.
             </p>
           </div>
         </PanelCard>
