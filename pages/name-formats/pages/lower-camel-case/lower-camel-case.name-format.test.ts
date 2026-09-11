@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { lowerCamelCase } from "./lower-camel-case.name-format.code.ts"
+import { lowerCamelCase } from "akasha/pages/name-formats/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 
 test("words run together with every one but the first starting capital", () => {
   expect(lowerCamelCase("page")).toBe(true)
