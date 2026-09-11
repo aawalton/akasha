@@ -163,6 +163,22 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "A run beginning writes the moment that run began beside the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page whose run began after the stop asked for is left where it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop told no moment takes the page away rather than leaving it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The moment is the last argument each act takes.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A subagent that handed edits over is not among the pages under a seat.",
     },
     {

@@ -97,6 +97,15 @@ export async function underSeat(act: (root: string) => Promise<void>): Promise<u
   }
 }
 
+export function inScratch(act: (root: string) => void): undefined {
+  const world = scratchWorld()
+  try {
+    act(world.rootFor("subagent-presence-"))
+  } finally {
+    world.sweep()
+  }
+}
+
 export function messageIn(root: string): string {
   return gitIn(root, ["log", "-1", "--pretty=%B"])
 }

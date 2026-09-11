@@ -11,9 +11,13 @@ import {
   listedAt,
   listedById,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import {
+  mergeUncommitted,
+  uncommittedIn,
+} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
+import { asNumber } from "akasha/utils/narrow/as-number/as-number.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 import { PUT_BACK } from "../../../commands/modules/change-freshness/change-freshness.module.code.ts"
 import {
@@ -23,6 +27,7 @@ import {
 import { subagentPageInHistory } from "../../subagent-page-history/subagent-page-history.module.code.ts"
 import { movedOnto } from "../../subagent-recovering/subagent-recovering.module.code.ts"
 import { subagentReturned } from "../properties/subagent-returned.boolean-property.ts"
+import { subagentStarted } from "../properties/subagent-started.number-property.ts"
 
 export const SUBAGENTS_AT = "seat-system/subagents/pages"
 
@@ -51,6 +56,8 @@ const ADD_PAGE = "change-mechanical/add-file-of-any-kind"
 const TAKE_PAGE = "change-mechanical-file/remove-file-page"
 
 const RETURNED = subagentReturned.propertySlug
+
+const STARTED = subagentStarted.propertySlug
 
 export type Landing = (
   root: string,
@@ -188,11 +195,23 @@ export function seatPageIn(root: string, seatName: string): string | null {
   return listedAt(root, SEAT, seatName)[0]?.path ?? null
 }
 
+export function startedIn(root: string, page: string, startedAt: number | null): undefined {
+  if (startedAt === null || !existsSync(join(root, page))) return
+  mergeUncommitted(root, page, { [STARTED]: startedAt })
+}
+
+export function startedAfter(root: string, page: string, stoppedAt: number | null): boolean {
+  if (stoppedAt === null) return false
+  const held = asNumber(uncommittedIn(root, page)?.[STARTED])
+  return held !== null && held > stoppedAt
+}
+
 export async function took(
   root: string,
   seatName: string,
   own: string,
-  landing: Landing = runMechanicalChange
+  landing: Landing = runMechanicalChange,
+  stoppedAt: number | null = null
 ): Promise<Went> {
   const slug = slugOf(seatName, own)
   const at = pathIn(root, slug)
@@ -201,6 +220,7 @@ export async function took(
     mergeUncommitted(root, at, { [RETURNED]: true })
     return WENT
   }
+  if (startedAfter(root, at, stoppedAt)) return WENT
   const why = `${slug} is done, so its page goes; what it was is in this repository's history`
   const went = wentBy(await landing(root, [{ at: TAKE_PAGE, given: { at } }], why))
   if ("why" in went) return went
@@ -265,7 +285,7 @@ export function puttingUp(
   dispatchedAs: string,
   baseDir?: string
 ): undefined {
-  asking(root, seatId, [WRITING, seatName, own, dispatchedAs, seatId], baseDir)
+  asking(root, seatId, [WRITING, seatName, own, dispatchedAs, seatId, String(Date.now())], baseDir)
 }
 
 export function takingDown(
@@ -275,7 +295,7 @@ export function takingDown(
   own: string,
   baseDir?: string
 ): undefined {
-  asking(root, seatId, [TAKING, seatName, own], baseDir)
+  asking(root, seatId, [TAKING, seatName, own, String(Date.now())], baseDir)
 }
 
 function padded(held: number, wide = 2): string {
@@ -340,13 +360,18 @@ export async function ran(argv: readonly string[]): Promise<number> {
   if (seatName === undefined || seatName === "") return saying(`${act}: no seat was named`)
   if (own === undefined || own === "") return saying(`${act} ${seatName}: no subagent id was named`)
   const at = `${act} ${seatName} ${own}`
+  const moment = asNumber(act === WRITING ? argv[8] : argv[6])
   if (act === WRITING) {
     if (seatId === undefined || seatId === "") return saying(`${at} — no seat id was named`)
     const kind = dispatchedAs === undefined || dispatchedAs === "" ? null : dispatchedAs
     const put = await landingAgain(() => wrote(root, seatName, seatId, own, kind))
+    if (!("why" in put)) startedIn(root, pathIn(root, slugOf(seatName, own)), moment)
     return answering(put, at)
   }
-  if (act === TAKING) return answering(await landingAgain(() => took(root, seatName, own)), at)
+  if (act === TAKING) {
+    const gone = await landingAgain(() => took(root, seatName, own, runMechanicalChange, moment))
+    return answering(gone, at)
+  }
   return saying(`\`${act}\` is no act this takes`)
 }
 

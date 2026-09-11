@@ -34,6 +34,7 @@ import {
   seatNamedIn,
   slugOf,
   stampedAt,
+  startedIn,
   TRIES,
   took,
   WAIT_MS,
@@ -50,6 +51,7 @@ import {
   heldInHistory,
   heldUnder,
   idIn,
+  inScratch,
   LOCKED,
   landedAt,
   landedUnder,
@@ -110,17 +112,13 @@ test("a page sits in a folder of its own named for its slug", () => {
 })
 
 test("a slug whose page is already flat keeps that page", () => {
-  const world = scratchWorld()
-  try {
-    const root = world.rootFor("subagent-presence-")
+  inScratch((root) => {
     writing(root, "seat-system/subagents/pages/akasha-abc.subagent.ts", "")
     expect(pathIn(root, "akasha-abc")).toBe("seat-system/subagents/pages/akasha-abc.subagent.ts")
     expect(pathIn(root, "akasha-xyz")).toBe(
       "seat-system/subagents/pages/akasha-xyz/akasha-xyz.subagent.ts"
     )
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a log sits in the seat's own folder named for this module", () => {
@@ -153,59 +151,39 @@ test("a body carries the id it is handed, before everything else the body states
 })
 
 test("a page takes the assignment from the page its seat is at", () => {
-  const world = scratchWorld()
-  try {
-    const root = world.rootFor("subagent-presence-")
+  inScratch((root) => {
     writing(root, SEAT_AT, SEAT_BODY)
     listedFiled(root, "seat", "akasha", [{ path: SEAT_AT, id: SEAT_ID }])
     expect(assignedTo(root, "akasha")).toBe("domain/akasha-system")
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a seat the index carries no page for is assigned nothing", () => {
-  const world = scratchWorld()
-  try {
-    const root = world.rootFor("subagent-presence-")
+  inScratch((root) => {
     pageFiled(root, ANOTHER, "akasha/seat-system/seats/pages/thea.seat.ts")
     expect(assignedTo(root, "akasha")).toBe(null)
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a seat is named by the page the index carries for its id", () => {
-  const world = scratchWorld()
-  try {
-    const root = world.rootFor("subagent-presence-")
+  inScratch((root) => {
     pageFiled(root, SEAT_ID, "akasha/seat-system/seats/pages/akasha.seat.ts")
     expect(seatNamedIn(root, SEAT_ID)).toBe("akasha")
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a seat the index carries no page for is named by nothing", () => {
-  const world = scratchWorld()
-  try {
-    const root = world.rootFor("subagent-presence-")
+  inScratch((root) => {
     pageFiled(root, ANOTHER, "akasha/seat-system/seats/pages/thea.seat.ts")
     expect(seatNamedIn(root, SEAT_ID)).toBe(null)
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a page that is no seat names no seat", () => {
-  const world = scratchWorld()
-  try {
-    const root = world.rootFor("subagent-presence-")
+  inScratch((root) => {
     pageFiled(root, SEAT_ID, "akasha/persona-system/personas/akasha/akasha.persona.ts")
     expect(seatNamedIn(root, SEAT_ID)).toBe(null)
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a page composed is landed by a program, and goes when the subagent is done", async () => {
@@ -281,10 +259,20 @@ test("a page whose subagent left edits waiting stays and says the subagent retur
   })
 })
 
+test("a stop the run began after leaves the page where it is", async () => {
+  await underSeat(async (root) => {
+    await wrote(root, "akasha", SEAT_ID, OWN, "Explore", LANDS)
+    const at = pathOf(slugOf("akasha", OWN))
+    startedIn(root, at, 2)
+    expect(await took(root, "akasha", OWN, LANDS, 1)).toEqual(WENT)
+    expect(existsSync(join(root, at))).toBe(true)
+    expect(await took(root, "akasha", OWN, LANDS, 3)).toEqual(WENT)
+    expect(existsSync(join(root, at))).toBe(false)
+  })
+})
+
 test("a subagent that handed edits over is not among the pages under a seat", () => {
-  const world = scratchWorld()
-  try {
-    const root = world.rootFor("subagent-presence-")
+  inScratch((root) => {
     const at = pathOf(slugOf("akasha", OWN))
     const other = pathOf(slugOf("akasha", "second"))
     valueAlsoFiled(root, SUBAGENT, [
@@ -294,9 +282,7 @@ test("a subagent that handed edits over is not among the pages under a seat", ()
     writing(root, editsAt(at) ?? "", ROW)
     keepUncommitted(root, at, { returned: true })
     expect(pathsUnder(root, "akasha")).toEqual([other])
-  } finally {
-    world.sweep()
-  }
+  })
 })
 
 test("a page in history is taken up with its id and kind, and comes back with that id", async () => {
