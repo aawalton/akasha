@@ -24,6 +24,7 @@ export const modelCheck = {
     { pageProperty: "number-property/change-runs", required: true, many: false },
     { pageProperty: "number-property/audit-runs", required: true, many: false },
   ],
+  loadedBy: "module/model-running",
   invariants: [
     {
       invariantKind: "departure",
