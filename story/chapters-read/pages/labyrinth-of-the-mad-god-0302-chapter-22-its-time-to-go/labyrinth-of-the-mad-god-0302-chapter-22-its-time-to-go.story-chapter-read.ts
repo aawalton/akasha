@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0302Chapter22ItsTimeToGo = {
   id: "01a06731-ad87-7003-a839-5f3faa7c6106",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0302-chapter-22-its-time-to-go",
   title: "Chapter 22: It’s Time to Go",

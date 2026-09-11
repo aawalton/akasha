@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0177Chapter136TheFinalAct = {
   id: "01a06731-ad6d-7000-a959-1673712ee4b0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0177-chapter-136-the-final-act",
   title: "Chapter 136: The Final Act",

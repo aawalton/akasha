@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0037Chapter37LeviathanSBlessing = {
   id: "01a06731-adc1-7000-9630-b2c80a33778f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0037-chapter-37-leviathan-s-blessing",
   title: "Chapter 37 — Leviathan's Blessing",

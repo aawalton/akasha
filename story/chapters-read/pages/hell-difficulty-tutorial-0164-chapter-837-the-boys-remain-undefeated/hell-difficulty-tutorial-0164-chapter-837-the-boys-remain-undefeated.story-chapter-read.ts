@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0164Chapter837TheBoysRemainUndefeated = {
   id: "01a06731-ad8c-7001-afb4-d836f643ae50",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0164-chapter-837-the-boys-remain-undefeated",
   title: "Chapter 837 - The boys remain undefeated",

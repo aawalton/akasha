@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0002Chapter2TheArtOfAttunementPt1 = {
   id: "01a06731-ad91-7000-b74d-f9399e52e038",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0002-chapter-2-the-art-of-attunement-pt-1",
   title: "Chapter 2 — The Art of Attunement, Pt 1",

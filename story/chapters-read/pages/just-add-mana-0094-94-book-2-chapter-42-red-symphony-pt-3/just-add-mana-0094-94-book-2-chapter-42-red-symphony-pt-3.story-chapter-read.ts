@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana009494Book2Chapter42RedSymphonyPt3 = {
   id: "01a06731-ae10-7000-9d0c-298aaf426e5a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0094-94-book-2-chapter-42-red-symphony-pt-3",
   title: "94 — Book 2, Chapter 42 — Red Symphony, Pt 3",

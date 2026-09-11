@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0169Chapter842HeartMindAndBody = {
   id: "01a06731-ad91-7001-95ca-394dfc5d41a4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0169-chapter-842-heart-mind-and-body",
   title: "Chapter 842 - Heart, mind, and body.",

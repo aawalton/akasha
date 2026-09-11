@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const incrementalTortureAnIdleSystemTowerClimbing0011011AmalgamatedHorror = {
   id: "01a06731-ae08-7008-9572-20c43759a7fd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0011-011-amalgamated-horror",
   title: "011: Amalgamated Horror",

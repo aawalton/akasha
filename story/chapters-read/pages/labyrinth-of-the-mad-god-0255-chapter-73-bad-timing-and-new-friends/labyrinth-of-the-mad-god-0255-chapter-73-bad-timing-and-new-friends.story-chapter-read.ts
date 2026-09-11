@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0255Chapter73BadTimingAndNewFriends = {
   id: "01a06731-ad7d-7003-9ad7-05ef49cf1e31",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0255-chapter-73-bad-timing-and-new-friends",
   title: "Chapter 73: Bad Timing and New Friends",

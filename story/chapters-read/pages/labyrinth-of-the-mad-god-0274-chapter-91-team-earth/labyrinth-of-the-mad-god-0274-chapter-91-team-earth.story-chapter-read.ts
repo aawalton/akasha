@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0274Chapter91TeamEarth = {
   id: "01a06731-ad7f-7007-b336-7d7d8c7be124",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0274-chapter-91-team-earth",
   title: "Chapter 91: Team Earth",

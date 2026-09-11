@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0035Chapter8CalmBeforeTheStorm = {
   id: "01a0672c-eb70-7003-acca-cae2b6ce26ce",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0035-chapter-8-calm-before-the-storm",
   title: "Chapter 8: Calm Before the Storm",

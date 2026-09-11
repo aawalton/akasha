@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0060Chapter27DamageHealer = {
   id: "01a0672c-eb71-7005-b9be-7817e2b07f7b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0060-chapter-27-damage-healer",
   title: "Chapter 27: Damage Healer",

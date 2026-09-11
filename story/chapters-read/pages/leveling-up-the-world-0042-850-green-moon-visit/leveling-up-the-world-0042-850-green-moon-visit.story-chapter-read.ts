@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const levelingUpTheWorld0042850GreenMoonVisit = {
   id: "01a06731-ae8f-700f-bd1a-930f5a75cfc3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "leveling-up-the-world-0042-850-green-moon-visit",
   title: "850. Green Moon Visit",

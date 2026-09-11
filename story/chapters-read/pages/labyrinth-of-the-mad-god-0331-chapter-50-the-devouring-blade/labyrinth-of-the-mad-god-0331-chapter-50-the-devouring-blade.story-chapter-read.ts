@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0331Chapter50TheDevouringBlade = {
   id: "01a06731-ad8d-7002-aaf1-f124dfcf5b62",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0331-chapter-50-the-devouring-blade",
   title: "Chapter 50: The Devouring Blade",

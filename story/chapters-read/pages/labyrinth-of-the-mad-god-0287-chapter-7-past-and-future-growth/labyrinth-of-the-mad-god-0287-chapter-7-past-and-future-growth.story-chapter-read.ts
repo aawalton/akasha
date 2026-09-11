@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0287Chapter7PastAndFutureGrowth = {
   id: "01a06731-ad84-7000-b542-abeed4bd9698",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0287-chapter-7-past-and-future-growth",
   title: "Chapter 7: Past and Future Growth",

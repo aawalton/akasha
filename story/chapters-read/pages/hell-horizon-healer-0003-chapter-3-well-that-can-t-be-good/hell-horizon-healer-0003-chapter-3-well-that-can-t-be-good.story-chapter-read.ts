@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellHorizonHealer0003Chapter3WellThatCanTBeGood = {
   id: "01a06731-ae7b-7002-8eb8-a64382418351",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0003-chapter-3-well-that-can-t-be-good",
   title: "Chapter 3 - Well, That Can't Be Good",

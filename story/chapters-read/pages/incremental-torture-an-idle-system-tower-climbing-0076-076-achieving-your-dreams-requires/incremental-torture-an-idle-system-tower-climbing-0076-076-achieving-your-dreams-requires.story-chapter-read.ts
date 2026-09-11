@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const incrementalTortureAnIdleSystemTowerClimbing0076076AchievingYourDreamsRequires = {
   id: "01a06731-ae0d-7004-adf8-41ad6cc7a91f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0076-076-achieving-your-dreams-requires",
   title: "076: Achieving your Dreams Requires Dedication, and Love",

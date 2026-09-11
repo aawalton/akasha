@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0091Chapter52CloseCall = {
   id: "01a0672c-eb72-700d-83aa-465eadaf41ae",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0091-chapter-52-close-call",
   title: "Chapter 52: Close Call",

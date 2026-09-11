@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0189Chapter7PickingAProfession = {
   id: "01a06731-ad73-7000-96f8-bc5c7fe24764",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0189-chapter-7-picking-a-profession",
   title: "Chapter 7: Picking a Profession",

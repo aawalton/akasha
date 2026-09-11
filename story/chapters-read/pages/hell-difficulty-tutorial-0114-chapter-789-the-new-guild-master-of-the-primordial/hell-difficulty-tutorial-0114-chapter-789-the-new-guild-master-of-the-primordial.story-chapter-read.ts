@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0114Chapter789TheNewGuildMasterOfThePrimordial = {
   id: "01a06731-ad85-7000-9cbd-89f2811d961b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0114-chapter-789-the-new-guild-master-of-the-primordial",
   title: "Chapter 789 - The new guild master of the Primordial Knights",

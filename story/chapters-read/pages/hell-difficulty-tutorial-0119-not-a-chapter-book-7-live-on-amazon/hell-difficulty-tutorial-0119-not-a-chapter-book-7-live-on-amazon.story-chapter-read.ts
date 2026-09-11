@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0119NotAChapterBook7LiveOnAmazon = {
   id: "01a06731-ad86-7003-915d-d7d71bb421ea",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0119-not-a-chapter-book-7-live-on-amazon",
   title: "Not a Chapter. Book 7 Live on Amazon!",

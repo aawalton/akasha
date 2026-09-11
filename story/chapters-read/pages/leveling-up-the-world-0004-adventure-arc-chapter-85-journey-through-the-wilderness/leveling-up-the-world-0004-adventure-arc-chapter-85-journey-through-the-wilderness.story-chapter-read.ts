@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const levelingUpTheWorld0004AdventureArcChapter85JourneyThroughTheWilderness = {
   id: "01a06731-ae89-7004-ba64-f31aff92c5df",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "leveling-up-the-world-0004-adventure-arc-chapter-85-journey-through-the-wilderness",
   title: "Adventure Arc. Chapter 85. Journey Through the Wilderness",

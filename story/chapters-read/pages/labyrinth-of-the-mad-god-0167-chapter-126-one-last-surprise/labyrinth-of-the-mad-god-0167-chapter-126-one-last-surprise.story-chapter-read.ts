@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0167Chapter126OneLastSurprise = {
   id: "01a06731-ad65-7001-b8c5-a81b52fb93c1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0167-chapter-126-one-last-surprise",
   title: "Chapter 126: One Last Surprise",

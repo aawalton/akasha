@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0021Chapter21GhostsInTheDarkPt4 = {
   id: "01a06731-adad-7001-b6e9-67f47ecb3ee8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0021-chapter-21-ghosts-in-the-dark-pt-4",
   title: "Chapter 21 — Ghosts in the Dark, Pt 4",

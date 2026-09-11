@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const markOfTheFool0006Chapter6CoinTricksAndFireLight = {
   id: "01a06731-ae95-7000-ad2c-475eb2d37af5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mark-of-the-fool-0006-chapter-6-coin-tricks-and-fire-light",
   title: "Chapter 6: Coin Tricks and Fire Light",

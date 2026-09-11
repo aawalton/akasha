@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0036Chapter9SterileDevastation = {
   id: "01a0672c-eb70-7004-be4f-77085454b41a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0036-chapter-9-sterile-devastation",
   title: "Chapter 9: Sterile Devastation",

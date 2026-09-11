@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0036Chapter36ImpromptuLecture = {
   id: "01a06731-adbe-7000-ba85-1b3206827a8c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0036-chapter-36-impromptu-lecture",
   title: "Chapter 36 — Impromptu Lecture",

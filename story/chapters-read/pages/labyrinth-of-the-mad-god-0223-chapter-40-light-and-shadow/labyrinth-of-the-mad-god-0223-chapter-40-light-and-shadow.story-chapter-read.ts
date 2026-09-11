@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0223Chapter40LightAndShadow = {
   id: "01a06731-ad79-7001-8ee2-c23f2c8bc4a1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0223-chapter-40-light-and-shadow",
   title: "Chapter 40: Light and Shadow",

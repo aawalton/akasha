@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const markOfTheCrijik0002MarkOfTheCrijikBook5IsOutToday = {
   id: "01a06731-b11f-7000-a6b6-9c22aaa97393",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mark-of-the-crijik-0002-mark-of-the-crijik-book-5-is-out-today",
   title: "Mark of the Crijik Book 5 is out today!",

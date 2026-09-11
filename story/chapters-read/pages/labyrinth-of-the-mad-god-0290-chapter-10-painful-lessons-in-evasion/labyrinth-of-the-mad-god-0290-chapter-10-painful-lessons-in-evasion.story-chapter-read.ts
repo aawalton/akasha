@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0290Chapter10PainfulLessonsInEvasion = {
   id: "01a06731-ad85-7002-814e-5daa6ecbf4a2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0290-chapter-10-painful-lessons-in-evasion",
   title: "Chapter 10: Painful Lessons in Evasion",

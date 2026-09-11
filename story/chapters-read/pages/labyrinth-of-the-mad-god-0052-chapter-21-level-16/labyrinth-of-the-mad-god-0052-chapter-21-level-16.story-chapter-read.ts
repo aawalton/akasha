@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0052Chapter21Level16 = {
   id: "01a0672c-eb70-7014-99fd-ddac31b2d11a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0052-chapter-21-level-16",
   title: "Chapter 21: Level 16",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const incrementalTortureAnIdleSystemTowerClimbing0035035QuickThinking = {
   id: "01a06731-ae0a-7005-98a6-210a952e6269",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0035-035-quick-thinking",
   title: "035: Quick Thinking",

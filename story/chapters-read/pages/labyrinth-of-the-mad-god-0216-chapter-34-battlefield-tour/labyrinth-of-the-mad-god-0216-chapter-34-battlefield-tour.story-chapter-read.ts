@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0216Chapter34BattlefieldTour = {
   id: "01a06731-ad76-7001-804c-89680d3a68e5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0216-chapter-34-battlefield-tour",
   title: "Chapter 34: Battlefield Tour",

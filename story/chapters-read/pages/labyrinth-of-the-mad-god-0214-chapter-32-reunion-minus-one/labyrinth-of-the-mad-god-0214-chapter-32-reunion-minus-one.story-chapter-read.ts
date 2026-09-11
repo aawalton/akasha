@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0214Chapter32ReunionMinusOne = {
   id: "01a06731-ad75-700d-9d36-23c201ded3f8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0214-chapter-32-reunion-minus-one",
   title: "Chapter 32: Reunion Minus One",

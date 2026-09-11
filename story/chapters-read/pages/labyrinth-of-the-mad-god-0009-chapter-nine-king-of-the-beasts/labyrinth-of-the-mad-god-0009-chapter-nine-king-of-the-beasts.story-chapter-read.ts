@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0009ChapterNineKingOfTheBeasts = {
   id: "01a0672c-eb6e-7001-9f75-e4ac2b31fc93",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0009-chapter-nine-king-of-the-beasts",
   title: "Chapter Nine: King of the Beasts",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0005Chapter5RoommateEtiquettePt2 = {
   id: "01a06731-ad94-7000-baf2-8e86dd6f5ffe",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0005-chapter-5-roommate-etiquette-pt-2",
   title: "Chapter 5 — Roommate Etiquette, Pt 2",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellHorizonHealer0018Chapter18LifeAndDeath = {
   id: "01a06731-ae7c-700b-981b-d5fdce5dc71b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0018-chapter-18-life-and-death",
   title: "Chapter 18 - Life and Death",

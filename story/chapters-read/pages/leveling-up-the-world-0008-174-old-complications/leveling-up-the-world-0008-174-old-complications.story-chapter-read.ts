@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const levelingUpTheWorld0008174OldComplications = {
   id: "01a06731-ae8a-7001-ab86-bf96cee281f3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "leveling-up-the-world-0008-174-old-complications",
   title: "174. Old Complications",

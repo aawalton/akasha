@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0048Chapter18NickToTheRescue = {
   id: "01a0672c-eb70-7010-a578-44fb8a9e504e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0048-chapter-18-nick-to-the-rescue",
   title: "Chapter 18: Nick to the Rescue",

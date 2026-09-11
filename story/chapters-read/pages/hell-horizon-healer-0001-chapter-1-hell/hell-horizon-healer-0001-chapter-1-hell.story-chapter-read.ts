@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellHorizonHealer0001Chapter1Hell = {
   id: "01a06731-ae7b-7000-b4a9-92d20cc39d66",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0001-chapter-1-hell",
   title: "Chapter 1 - Hell",

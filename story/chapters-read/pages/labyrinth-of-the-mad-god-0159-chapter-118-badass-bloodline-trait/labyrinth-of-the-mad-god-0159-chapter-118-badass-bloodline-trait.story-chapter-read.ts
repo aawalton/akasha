@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0159Chapter118BadassBloodlineTrait = {
   id: "01a06731-ad64-7007-8f9f-8fe97303e91a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0159-chapter-118-badass-bloodline-trait",
   title: "Chapter 118: Badass Bloodline Trait",

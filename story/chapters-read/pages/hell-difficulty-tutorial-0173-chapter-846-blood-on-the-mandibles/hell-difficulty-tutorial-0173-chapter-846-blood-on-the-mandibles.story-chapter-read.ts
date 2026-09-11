@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0173Chapter846BloodOnTheMandibles = {
   id: "01a06731-ad92-7000-9b4e-a67179e79c9e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0173-chapter-846-blood-on-the-mandibles",
   title: "Chapter 846 - Blood on the Mandibles",

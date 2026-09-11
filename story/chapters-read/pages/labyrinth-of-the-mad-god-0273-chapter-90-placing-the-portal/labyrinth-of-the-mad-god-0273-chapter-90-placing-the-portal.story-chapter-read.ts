@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0273Chapter90PlacingThePortal = {
   id: "01a06731-ad7f-7006-b782-24a9433f8c94",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0273-chapter-90-placing-the-portal",
   title: "Chapter 90: Placing the Portal",

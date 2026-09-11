@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0043Chapter43FireResonancePt5 = {
   id: "01a06731-adcd-7000-a814-68928d0012ab",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0043-chapter-43-fire-resonance-pt-5",
   title: "Chapter 43 — Fire Resonance, Pt 5",

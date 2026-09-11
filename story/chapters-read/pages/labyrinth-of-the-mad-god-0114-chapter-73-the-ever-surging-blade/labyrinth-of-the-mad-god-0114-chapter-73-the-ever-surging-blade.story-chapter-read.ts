@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0114Chapter73TheEverSurgingBlade = {
   id: "01a0672c-eb75-700e-aac8-bcf25c21de82",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0114-chapter-73-the-ever-surging-blade",
   title: "Chapter 73: The Ever-Surging Blade",

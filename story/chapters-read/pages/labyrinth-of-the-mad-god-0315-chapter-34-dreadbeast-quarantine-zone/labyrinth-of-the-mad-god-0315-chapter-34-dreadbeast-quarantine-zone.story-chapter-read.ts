@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0315Chapter34DreadbeastQuarantineZone = {
   id: "01a06731-ad89-700a-a791-df773bdb33cc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0315-chapter-34-dreadbeast-quarantine-zone",
   title: "Chapter 34: Dreadbeast Quarantine Zone",

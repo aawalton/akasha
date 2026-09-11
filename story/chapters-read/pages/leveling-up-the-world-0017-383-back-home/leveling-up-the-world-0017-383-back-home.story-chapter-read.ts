@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const levelingUpTheWorld0017383BackHome = {
   id: "01a06731-ae8e-7002-9803-0fb0bf17f279",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "leveling-up-the-world-0017-383-back-home",
   title: "383. Back Home",

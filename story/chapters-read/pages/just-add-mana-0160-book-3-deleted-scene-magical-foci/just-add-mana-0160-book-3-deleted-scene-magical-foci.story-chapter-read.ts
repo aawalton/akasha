@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0160Book3DeletedSceneMagicalFoci = {
   id: "01a06731-ae68-7001-98db-61fc94d9e411",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0160-book-3-deleted-scene-magical-foci",
   title: "Book 3 Deleted Scene — Magical Foci",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0087Chapter48FlippingTheBoard = {
   id: "01a0672c-eb72-7009-a7bc-a7e953049492",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0087-chapter-48-flipping-the-board",
   title: "Chapter 48: Flipping the Board",

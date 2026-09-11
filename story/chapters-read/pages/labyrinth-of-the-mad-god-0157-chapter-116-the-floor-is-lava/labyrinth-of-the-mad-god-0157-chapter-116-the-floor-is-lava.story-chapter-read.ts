@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0157Chapter116TheFloorIsLava = {
   id: "01a06731-ad64-7005-aa06-86f7070bb254",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0157-chapter-116-the-floor-is-lava",
   title: "Chapter 116: The Floor is Lava",

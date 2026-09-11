@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0086Chapter47Checkmate = {
   id: "01a0672c-eb72-7008-8c3a-e21229df9fea",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0086-chapter-47-checkmate",
   title: "Chapter 47: Checkmate",

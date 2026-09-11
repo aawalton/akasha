@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana006262Book2Chapter10RetributionPt1 = {
   id: "01a06731-ade1-7000-aa95-151da1b83553",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0062-62-book-2-chapter-10-retribution-pt-1",
   title: "62 — Book 2, Chapter 10 — Retribution, Pt 1",

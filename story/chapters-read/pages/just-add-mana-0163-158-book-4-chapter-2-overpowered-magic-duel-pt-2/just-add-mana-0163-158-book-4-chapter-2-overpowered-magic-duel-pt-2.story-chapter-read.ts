@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0163158Book4Chapter2OverpoweredMagicDuelPt2 = {
   id: "01a06731-ae69-7000-b0dd-ffeb03decf9d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0163-158-book-4-chapter-2-overpowered-magic-duel-pt-2",
   title: "158 — Book 4, Chapter 2 — Overpowered Magic Duel, Pt 2",

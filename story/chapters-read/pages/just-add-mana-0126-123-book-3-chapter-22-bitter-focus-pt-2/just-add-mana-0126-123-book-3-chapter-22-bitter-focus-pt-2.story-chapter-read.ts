@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0126123Book3Chapter22BitterFocusPt2 = {
   id: "01a06731-ae2f-7000-b3b8-771b2ea9a5c3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0126-123-book-3-chapter-22-bitter-focus-pt-2",
   title: "123 — Book 3, Chapter 22 — Bitter Focus, Pt 2",

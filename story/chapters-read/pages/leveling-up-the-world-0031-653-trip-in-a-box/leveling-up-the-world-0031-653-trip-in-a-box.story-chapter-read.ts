@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const levelingUpTheWorld0031653TripInABox = {
   id: "01a06731-ae8f-7004-863b-372077c525e2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "leveling-up-the-world-0031-653-trip-in-a-box",
   title: "653. Trip in a Box",

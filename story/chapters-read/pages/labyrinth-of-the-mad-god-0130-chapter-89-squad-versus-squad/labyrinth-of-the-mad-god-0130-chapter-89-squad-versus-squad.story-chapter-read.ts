@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0130Chapter89SquadVersusSquad = {
   id: "01a0672c-eb76-700a-9435-f9aaaad90a75",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0130-chapter-89-squad-versus-squad",
   title: "Chapter 89: Squad versus Squad",

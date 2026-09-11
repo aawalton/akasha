@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellHorizonHealer0032Chapter32WhatIsNormal = {
   id: "01a06731-ae7d-700a-bb74-bca5e3211cca",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0032-chapter-32-what-is-normal",
   title: "Chapter 32 - What is Normal?",

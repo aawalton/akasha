@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0120Chapter794NewTrait = {
   id: "01a06731-ad86-7004-8f53-4c73c64d070c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0120-chapter-794-new-trait",
   title: "Chapter 794 - New trait",

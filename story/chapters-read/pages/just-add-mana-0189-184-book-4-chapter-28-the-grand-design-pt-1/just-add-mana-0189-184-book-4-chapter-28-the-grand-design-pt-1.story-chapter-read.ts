@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0189184Book4Chapter28TheGrandDesignPt1 = {
   id: "01a08bd9-3085-76b6-8845-88d1d7a411ed",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0189-184-book-4-chapter-28-the-grand-design-pt-1",
   position: 189,

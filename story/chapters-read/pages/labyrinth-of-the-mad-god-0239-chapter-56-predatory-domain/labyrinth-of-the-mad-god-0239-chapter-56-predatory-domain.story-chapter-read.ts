@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0239Chapter56PredatoryDomain = {
   id: "01a06731-ad7b-7001-9eff-05853a61dfa1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0239-chapter-56-predatory-domain",
   title: "Chapter 56: Predatory Domain",

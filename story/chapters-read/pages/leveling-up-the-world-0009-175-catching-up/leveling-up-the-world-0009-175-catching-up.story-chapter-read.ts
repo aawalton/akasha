@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const levelingUpTheWorld0009175CatchingUp = {
   id: "01a06731-ae8b-7000-8dcd-c2f14ccb4771",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "leveling-up-the-world-0009-175-catching-up",
   title: "175. Catching up",

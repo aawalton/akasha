@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0168Chapter841KeepYourselfTogether = {
   id: "01a06731-ad91-7000-a880-995eeb8cde80",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0168-chapter-841-keep-yourself-together",
   title: "Chapter 841 - Keep yourself together",

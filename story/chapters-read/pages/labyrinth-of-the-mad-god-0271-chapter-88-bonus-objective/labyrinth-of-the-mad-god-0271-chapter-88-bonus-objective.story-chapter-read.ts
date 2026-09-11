@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0271Chapter88BonusObjective = {
   id: "01a06731-ad7f-7004-8608-9e1f225485d5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0271-chapter-88-bonus-objective",
   title: "Chapter 88: Bonus Objective",

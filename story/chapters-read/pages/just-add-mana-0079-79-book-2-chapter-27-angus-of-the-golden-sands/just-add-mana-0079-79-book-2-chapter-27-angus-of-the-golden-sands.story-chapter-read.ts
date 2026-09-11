@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana007979Book2Chapter27AngusOfTheGoldenSands = {
   id: "01a06731-adf6-7000-a640-5e230fc30a42",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0079-79-book-2-chapter-27-angus-of-the-golden-sands",
   title: "79 — Book 2, Chapter 27 — Angus of the Golden Sands",

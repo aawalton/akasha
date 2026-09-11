@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const markOfTheFool0022MarkOfTheFoolAnnouncementLightNovelsDelayedToDuePa = {
   id: "01a06731-ae97-700e-a755-6810724635d9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mark-of-the-fool-0022-mark-of-the-fool-announcement-light-novels-delayed-to-due-pa",
   title: "Mark of the Fool Announcement: Light Novels Delayed to Due Paper Shortage",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const markOfTheFool0027AnnouncementOathsLaunchesToday = {
   id: "01a06731-ae97-7013-8935-17965e751cf5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mark-of-the-fool-0027-announcement-oaths-launches-today",
   title: "Announcement: Oaths Launches Today!",

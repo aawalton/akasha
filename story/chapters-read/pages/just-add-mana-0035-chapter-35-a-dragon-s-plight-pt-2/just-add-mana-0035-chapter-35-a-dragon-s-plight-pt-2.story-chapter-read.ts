@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0035Chapter35ADragonSPlightPt2 = {
   id: "01a06731-adbd-7001-9a41-fe96ae4aff25",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0035-chapter-35-a-dragon-s-plight-pt-2",
   title: "Chapter 35 — A Dragon's Plight, Pt 2",

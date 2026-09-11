@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const manaDevourerLitrpgmanaCultivation005757Reward = {
   id: "01a06731-ae83-7001-b7d1-fbbbb1ce2659",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0057-57-reward",
   title: "57. Reward",

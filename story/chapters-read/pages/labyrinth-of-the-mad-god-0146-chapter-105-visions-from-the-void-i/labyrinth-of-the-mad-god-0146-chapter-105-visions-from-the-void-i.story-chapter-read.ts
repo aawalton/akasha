@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0146Chapter105VisionsFromTheVoidI = {
   id: "01a06731-ad63-7008-83fd-a08058401de5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0146-chapter-105-visions-from-the-void-i",
   title: "Chapter 105: Visions from the Void I",

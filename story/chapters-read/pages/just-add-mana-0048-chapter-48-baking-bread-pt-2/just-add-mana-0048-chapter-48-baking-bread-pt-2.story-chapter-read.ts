@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0048Chapter48BakingBreadPt2 = {
   id: "01a06731-add5-7000-9ab4-daa1dfae80f4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0048-chapter-48-baking-bread-pt-2",
   title: "Chapter 48 — Baking Bread, Pt 2",

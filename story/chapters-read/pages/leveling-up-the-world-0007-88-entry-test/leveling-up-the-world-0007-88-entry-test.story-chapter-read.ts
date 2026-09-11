@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const levelingUpTheWorld000788EntryTest = {
   id: "01a06731-ae8a-7000-b1e6-bdfcf7828e59",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "leveling-up-the-world-0007-88-entry-test",
   title: "88. Entry Test",

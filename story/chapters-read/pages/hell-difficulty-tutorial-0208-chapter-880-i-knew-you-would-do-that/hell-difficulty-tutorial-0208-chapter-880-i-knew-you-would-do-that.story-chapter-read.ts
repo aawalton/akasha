@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0208Chapter880IKnewYouWouldDoThat = {
   id: "01a090ca-298f-785d-a8c1-eacd1ab31437",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0208-chapter-880-i-knew-you-would-do-that",
   position: 208,

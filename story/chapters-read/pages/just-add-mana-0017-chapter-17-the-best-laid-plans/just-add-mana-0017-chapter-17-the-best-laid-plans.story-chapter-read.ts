@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0017Chapter17TheBestLaidPlans = {
   id: "01a06731-ada9-7000-a640-7da926ec0967",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0017-chapter-17-the-best-laid-plans",
   title: "Chapter 17 — The Best Laid Plans",

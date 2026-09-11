@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const levelingUpTheWorld0040848AgentsOfTheOrder = {
   id: "01a06731-ae8f-700d-8888-bfa2aacfeae7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "leveling-up-the-world-0040-848-agents-of-the-order",
   title: "848. Agents of the Order",

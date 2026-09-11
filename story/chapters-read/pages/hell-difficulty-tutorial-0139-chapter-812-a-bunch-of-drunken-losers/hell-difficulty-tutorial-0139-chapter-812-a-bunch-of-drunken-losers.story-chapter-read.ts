@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0139Chapter812ABunchOfDrunkenLosers = {
   id: "01a06731-ad88-7002-9529-5fa2960ac62b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0139-chapter-812-a-bunch-of-drunken-losers",
   title: "Chapter 812 - A bunch of drunken losers",

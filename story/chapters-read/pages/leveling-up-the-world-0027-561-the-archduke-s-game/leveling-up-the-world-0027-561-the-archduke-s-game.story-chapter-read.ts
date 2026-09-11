@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const levelingUpTheWorld0027561TheArchdukeSGame = {
   id: "01a06731-ae8f-7000-9501-6eb2e53c5bef",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "leveling-up-the-world-0027-561-the-archduke-s-game",
   title: "561. The Archduke's Game",

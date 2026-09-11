@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const levelingUpTheWorld00022Awakened = {
   id: "01a06731-ae89-7002-a330-f17bd967361b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "leveling-up-the-world-0002-2-awakened",
   title: "2. Awakened",

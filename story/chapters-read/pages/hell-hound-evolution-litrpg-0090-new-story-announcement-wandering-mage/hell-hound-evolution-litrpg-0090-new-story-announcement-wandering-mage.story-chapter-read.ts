@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellHoundEvolutionLitrpg0090NewStoryAnnouncementWanderingMage = {
   id: "01a0867b-a825-70b0-83e7-06f85f94c1e3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-hound-evolution-litrpg-0090-new-story-announcement-wandering-mage",
   position: 90,

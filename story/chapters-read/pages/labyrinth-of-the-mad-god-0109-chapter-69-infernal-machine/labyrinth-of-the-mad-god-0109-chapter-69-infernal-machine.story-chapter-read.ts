@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0109Chapter69InfernalMachine = {
   id: "01a0672c-eb75-7009-b574-20539a499bd1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0109-chapter-69-infernal-machine",
   title: "Chapter 69: Infernal Machine",

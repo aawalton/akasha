@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0188Chapter860GrandPrize = {
   id: "01a06731-ad95-7000-bf4f-eecba503b94d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0188-chapter-860-grand-prize",
   title: "Chapter 860 - Grand Prize",

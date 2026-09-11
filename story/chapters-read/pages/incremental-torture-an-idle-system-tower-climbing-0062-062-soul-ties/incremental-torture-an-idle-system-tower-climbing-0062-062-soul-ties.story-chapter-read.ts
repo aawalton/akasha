@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const incrementalTortureAnIdleSystemTowerClimbing0062062SoulTies = {
   id: "01a06731-ae0c-7003-999d-260a52266a4d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0062-062-soul-ties",
   title: "062: Soul Ties",

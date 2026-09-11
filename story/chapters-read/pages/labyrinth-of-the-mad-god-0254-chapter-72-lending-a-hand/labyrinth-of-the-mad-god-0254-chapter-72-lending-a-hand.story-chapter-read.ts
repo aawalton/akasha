@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0254Chapter72LendingAHand = {
   id: "01a06731-ad7d-7002-8a59-04d925b9a3d3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0254-chapter-72-lending-a-hand",
   title: "Chapter 72: Lending a Hand",

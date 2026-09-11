@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0297Chapter17CityOfMonsters = {
   id: "01a06731-ad86-7002-b6c1-75338223c257",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0297-chapter-17-city-of-monsters",
   title: "Chapter 17: City of Monsters",

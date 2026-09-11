@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0004ChapterFourTutorialTheSearingIsle = {
   id: "01a0672c-eb6d-7009-a125-096a387483fc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0004-chapter-four-tutorial-the-searing-isle",
   title: "Chapter Four: Tutorial: The Searing Isle",

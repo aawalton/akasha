@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const levelingUpTheWorld00011YouAreLevel1 = {
   id: "01a06731-ae89-7001-ad78-db406b72c19e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "leveling-up-the-world-0001-1-you-are-level-1",
   title: "1. You are Level 1",

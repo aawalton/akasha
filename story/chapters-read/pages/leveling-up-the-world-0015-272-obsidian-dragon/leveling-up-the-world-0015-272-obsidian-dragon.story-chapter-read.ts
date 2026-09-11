@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const levelingUpTheWorld0015272ObsidianDragon = {
   id: "01a06731-ae8e-7000-8a0d-6247171a1681",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "leveling-up-the-world-0015-272-obsidian-dragon",
   title: "272. Obsidian Dragon",

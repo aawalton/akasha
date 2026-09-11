@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0198Chapter16TravellingCompanion = {
   id: "01a06731-ad74-7003-bed9-65ec3d6d8cf5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0198-chapter-16-travelling-companion",
   title: "Chapter 16: Travelling Companion",

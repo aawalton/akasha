@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana008888Book2Chapter36DifferingPerspectives = {
   id: "01a06731-ae06-7000-b8bd-6d019e933d04",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0088-88-book-2-chapter-36-differing-perspectives",
   title: "88 — Book 2, Chapter 36 — Differing Perspectives",

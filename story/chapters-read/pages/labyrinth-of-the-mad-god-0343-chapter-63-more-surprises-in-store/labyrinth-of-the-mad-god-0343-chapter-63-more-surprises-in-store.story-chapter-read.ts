@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0343Chapter63MoreSurprisesInStore = {
   id: "01a091dd-15db-7108-ae0b-0c3217d42287",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0343-chapter-63-more-surprises-in-store",
   position: 343,

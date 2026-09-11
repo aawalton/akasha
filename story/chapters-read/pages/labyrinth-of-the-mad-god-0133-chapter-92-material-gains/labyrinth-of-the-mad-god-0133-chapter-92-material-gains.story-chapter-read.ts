@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0133Chapter92MaterialGains = {
   id: "01a06731-ad62-7000-9f33-2a66969c60b0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0133-chapter-92-material-gains",
   title: "Chapter 92: Material Gains",

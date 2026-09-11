@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0096Chapter57FlameWroughtFinale = {
   id: "01a0672c-eb72-7012-bed9-38e949ba1ffc",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0096-chapter-57-flame-wrought-finale",
   title: "Chapter 57: Flame-Wrought Finale",

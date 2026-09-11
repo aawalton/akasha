@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const librarySystemResetOverdueBookFourStubbed0014Update = {
   id: "01a06731-ae86-7006-8f69-902875ff7176",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "library-system-reset-overdue-book-four-stubbed-0014-update",
   title: "Update",

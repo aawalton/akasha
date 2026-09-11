@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0057Chapter25AnUnfortunateChangeOfScenery = {
   id: "01a0672c-eb71-7002-93b1-e6064cea204d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0057-chapter-25-an-unfortunate-change-of-scenery",
   title: "Chapter 25: An Unfortunate Change of Scenery",

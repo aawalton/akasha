@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0075Chapter38IntermissionSophiaAndDevin3 = {
   id: "01a0672c-eb71-7014-b135-8d52cc008d6b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0075-chapter-38-intermission-sophia-and-devin-3",
   title: "Chapter 38: Intermission: Sophia and Devin 3",

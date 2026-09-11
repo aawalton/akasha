@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const manaDevourerLitrpgmanaCultivation00066Helldog = {
   id: "01a06731-ae32-7000-9879-1dda3c5bafc9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0006-6-helldog",
   title: "6. Helldog",

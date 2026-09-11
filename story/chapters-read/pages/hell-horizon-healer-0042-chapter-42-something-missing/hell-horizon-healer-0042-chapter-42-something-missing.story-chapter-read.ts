@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellHorizonHealer0042Chapter42SomethingMissing = {
   id: "01a06731-ae7e-7008-8ab6-1ed052530345",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0042-chapter-42-something-missing",
   title: "Chapter 42 - Something Missing",

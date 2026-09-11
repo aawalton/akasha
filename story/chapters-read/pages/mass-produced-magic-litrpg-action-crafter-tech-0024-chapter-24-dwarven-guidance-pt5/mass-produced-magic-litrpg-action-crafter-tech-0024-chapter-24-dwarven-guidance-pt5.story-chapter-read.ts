@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const massProducedMagicLitrpgActionCrafterTech0024Chapter24DwarvenGuidancePt5 = {
   id: "01a06731-afb0-7002-aa30-2f6dfa3317fe",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0024-chapter-24-dwarven-guidance-pt5",
   title: "Chapter 24 – Dwarven Guidance – Pt5",

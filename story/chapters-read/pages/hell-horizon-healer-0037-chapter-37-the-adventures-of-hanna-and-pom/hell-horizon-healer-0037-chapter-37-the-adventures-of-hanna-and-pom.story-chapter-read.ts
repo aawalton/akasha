@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellHorizonHealer0037Chapter37TheAdventuresOfHannaAndPom = {
   id: "01a06731-ae7e-7003-9f71-85a0dfa3fe71",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-horizon-healer-0037-chapter-37-the-adventures-of-hanna-and-pom",
   title: "Chapter 37 - The Adventures of Hanna and Pom",

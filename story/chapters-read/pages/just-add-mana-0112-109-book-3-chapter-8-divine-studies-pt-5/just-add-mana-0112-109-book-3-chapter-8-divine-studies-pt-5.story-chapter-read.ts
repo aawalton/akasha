@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0112109Book3Chapter8DivineStudiesPt5 = {
   id: "01a06731-ae1e-7000-a3f5-1decb9a2797b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0112-109-book-3-chapter-8-divine-studies-pt-5",
   title: "109 — Book 3, Chapter 8 — Divine Studies, Pt 5",

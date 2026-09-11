@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0101101Book2Chapter49TheGift = {
   id: "01a06731-ae16-7000-a95e-045b7659adab",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0101-101-book-2-chapter-49-the-gift",
   title: "101 — Book 2, Chapter 49 — The Gift",

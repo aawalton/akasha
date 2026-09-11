@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0008Chapter8AncientArtifactsPt3 = {
   id: "01a06731-ad9b-7001-a0ec-21c975cce4fe",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0008-chapter-8-ancient-artifacts-pt-3",
   title: "Chapter 8 — Ancient Artifacts, Pt 3",

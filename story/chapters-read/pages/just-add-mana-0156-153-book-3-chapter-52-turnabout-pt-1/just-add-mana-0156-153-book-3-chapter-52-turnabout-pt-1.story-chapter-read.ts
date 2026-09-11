@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0156153Book3Chapter52TurnaboutPt1 = {
   id: "01a06731-ae63-7000-bed0-db6a59349ac6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0156-153-book-3-chapter-52-turnabout-pt-1",
   title: "153 — Book 3, Chapter 52 — Turnabout, Pt 1",

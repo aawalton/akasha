@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0200Chapter872TheArtOfTheDeal = {
   id: "01a06731-ad98-7002-841f-abe4d5b8ecbb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0200-chapter-872-the-art-of-the-deal",
   title: "Chapter 872 - The Art of the Deal",

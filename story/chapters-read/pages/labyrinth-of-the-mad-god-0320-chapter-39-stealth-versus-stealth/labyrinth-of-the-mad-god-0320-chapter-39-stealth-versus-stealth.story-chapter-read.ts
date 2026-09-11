@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0320Chapter39StealthVersusStealth = {
   id: "01a06731-ad8b-7001-8315-14d0afde840e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0320-chapter-39-stealth-versus-stealth",
   title: "Chapter 39: Stealth Versus Stealth",

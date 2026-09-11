@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0184Chapter2DawnOfANewEra = {
   id: "01a06731-ad71-7000-a360-f4132071e490",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0184-chapter-2-dawn-of-a-new-era",
   title: "Chapter 2: Dawn of a New Era",

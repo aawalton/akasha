@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0206Chapter24CloserThanMyOwnSkin = {
   id: "01a06731-ad75-7005-b1d2-9ee52c7a4b55",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0206-chapter-24-closer-than-my-own-skin",
   title: "Chapter 24: Closer Than My Own Skin",

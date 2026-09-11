@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0160Chapter833ThePocalypse = {
   id: "01a06731-ad8a-7003-ae5f-1e07d62e33a9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0160-chapter-833-the-pocalypse",
   title: "Chapter 833 - The ****pocalypse",

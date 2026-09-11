@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellDifficultyTutorial0118Chapter793FourTraits = {
   id: "01a06731-ad86-7002-86ba-7e0bdf4c9d52",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0118-chapter-793-four-traits",
   title: "Chapter 793 - Four traits",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0222Chapter39MountainOfMuscle = {
   id: "01a06731-ad79-7000-a492-eb138af2a312",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0222-chapter-39-mountain-of-muscle",
   title: "Chapter 39: Mountain of Muscle",

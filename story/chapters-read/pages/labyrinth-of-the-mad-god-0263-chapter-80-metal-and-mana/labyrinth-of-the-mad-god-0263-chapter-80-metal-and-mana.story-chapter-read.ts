@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const labyrinthOfTheMadGod0263Chapter80MetalAndMana = {
   id: "01a06731-ad7e-7003-b368-76db7aa4b631",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0263-chapter-80-metal-and-mana",
   title: "Chapter 80: Metal and Mana",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const justAddMana0107104Book3Chapter3CatchingUp = {
   id: "01a06731-ae18-7000-b4b2-23ff41c94cdf",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "just-add-mana-0107-104-book-3-chapter-3-catching-up",
   title: "104 — Book 3, Chapter 3 — Catching Up",

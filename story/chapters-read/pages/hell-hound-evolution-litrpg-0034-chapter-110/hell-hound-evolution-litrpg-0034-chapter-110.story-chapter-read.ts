@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const hellHoundEvolutionLitrpg0034Chapter110 = {
   id: "01a06731-af8a-7000-abaf-cf2c98538dd1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "hell-hound-evolution-litrpg-0034-chapter-110",
   title: "Chapter 110",

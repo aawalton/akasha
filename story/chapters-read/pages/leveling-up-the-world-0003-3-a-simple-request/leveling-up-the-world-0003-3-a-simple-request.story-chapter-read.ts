@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const levelingUpTheWorld00033ASimpleRequest = {
   id: "01a06731-ae89-7003-b839-5b167c2b1cd0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "leveling-up-the-world-0003-3-a-simple-request",
   title: "3. A Simple Request",
