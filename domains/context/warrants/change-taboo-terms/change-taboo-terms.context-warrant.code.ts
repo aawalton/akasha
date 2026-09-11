@@ -9,6 +9,7 @@ import { besideAt, pageOf, partedIn } from "akasha/pages/file-name/page-file-nam
 import { everyOfType, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { propertiesIfNamedOf } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { stringsIn } from "akasha/utils/narrow/strings-in/strings-in.module.code.ts"
 
 const TERM = "taboo-term"
 
@@ -103,11 +104,6 @@ function sensesOf(said: unknown): readonly Sense[] {
   })
 }
 
-function keptOf(said: unknown): readonly string[] {
-  if (!Array.isArray(said)) return []
-  return said.filter((one): one is string => typeof one === "string")
-}
-
 export function judgedIn(path: string, unjudged: ReadonlySet<string>): boolean {
   const said = partedIn(path)
   if (said === null) return true
@@ -134,7 +130,7 @@ export function termsIn(root: string): readonly Term[] {
     if (typeof pattern !== "string") continue
     const senses = sensesOf(value["tabooSenses"])
     if (senses.length === 0) continue
-    found.push({ path: page.path, pattern, senses, kept: keptOf(value["keptSenses"]) })
+    found.push({ path: page.path, pattern, senses, kept: stringsIn(value["keptSenses"]) })
   }
   return found
 }

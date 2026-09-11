@@ -61,6 +61,7 @@ export const utilsNarrow = {
     "module/strip-xml-comments",
     "module/string-at",
     "module/string-in",
+    "module/strings-in",
     "module/text-at",
     "module/text-in",
     "module/is-whitespace",

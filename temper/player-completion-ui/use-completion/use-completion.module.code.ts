@@ -13,6 +13,7 @@ import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.modul
 import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
 import { parseTimestamp } from "akasha/utils/narrow/parse-timestamp/parse-timestamp.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
+import { stringsIn } from "akasha/utils/narrow/strings-in/strings-in.module.code.ts"
 import { useMemo } from "react"
 
 const ACCOUNT_PAGE_TYPE_SLUG = "temper-account"
@@ -52,11 +53,6 @@ function parseOptionalNumber(value: unknown): number | undefined {
   return parseNumber(value)
 }
 
-function parseStringArray(value: unknown): readonly string[] {
-  if (!Array.isArray(value)) return []
-  return value.filter((v): v is string => typeof v === "string")
-}
-
 function asCharacterCompletion(value: unknown): CharacterCompletion {
   return value as CharacterCompletion
 }
@@ -89,7 +85,7 @@ function mapCharacterRow(row: Record<string, unknown>): CompletionCharacterRow {
     title: stringIn(row.title) ?? undefined,
     completion: parseCharacterCompletion(row.completion),
     sortOrder: parseOptionalNumber(row.displayOrder),
-    roles: parseStringArray(row.roles),
+    roles: stringsIn(row.roles),
     liveBuildId: stringIn(row.liveBuildId) ?? undefined,
     targetBuildId: stringIn(row.targetBuildId) ?? undefined,
     createdAt: parseTimestamp(row.createdAt),
@@ -104,7 +100,7 @@ function mapCompanionRow(row: Record<string, unknown>): CompletionCompanionRow {
     companionId: parseString(row.companionId),
     completion: parseCompanionCompletion(row.completion),
     sortOrder: parseOptionalNumber(row.displayOrder),
-    roles: parseStringArray(row.roles),
+    roles: stringsIn(row.roles),
     liveBuildId: stringIn(row.liveBuildId) ?? undefined,
     targetBuildId: stringIn(row.targetBuildId) ?? undefined,
     createdAt: parseTimestamp(row.createdAt),
