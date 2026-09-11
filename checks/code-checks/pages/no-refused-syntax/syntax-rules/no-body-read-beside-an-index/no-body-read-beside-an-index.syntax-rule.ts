@@ -110,12 +110,6 @@ export const noBodyReadBesideAnIndex = {
       invariantKind: "absence",
       statement: "The path of the file judged is not read.",
     },
-
-    {
-      invariantKind: "gap",
-      statement:
-        "A reader of the values a page keeps in a file beside that page is not judged here.",
-    },
     {
       invariantKind: "gap",
       statement: "A page body read by `readFileSync` off a root is not judged here.",
