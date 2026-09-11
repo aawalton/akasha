@@ -8,4 +8,5 @@ export const alanwaltonIosAdd = {
   definition: "the run that generates Alan's native project and applies his seam",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
