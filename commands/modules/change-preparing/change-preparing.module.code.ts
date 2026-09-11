@@ -39,7 +39,7 @@ function textFrom(bytes: Uint8Array): string | null {
   }
 }
 
-function bodyIn(one: Adding | Replacing): string {
+export function bodyIn(one: Adding | Replacing): string {
   return one.kind === "add" ? one.content : one.contentTo
 }
 

@@ -14,9 +14,9 @@ import type {
   Adding,
   Moving,
   Removing,
-  Replacing,
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { said as git } from "../../../git/running/git-running.module.code.ts"
+import { bodyIn as bodyOf } from "../change-preparing/change-preparing.module.code.ts"
 import { baseOf } from "../landing/landing.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {
@@ -71,10 +71,6 @@ function packageBody(name: string): string {
 
 function bytes(text: string): Uint8Array {
   return new TextEncoder().encode(text)
-}
-
-function bodyOf(one: Adding | Replacing): string {
-  return one.kind === "add" ? one.content : one.contentTo
 }
 
 function world(whole: boolean = false): string {
