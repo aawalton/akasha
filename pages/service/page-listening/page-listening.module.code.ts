@@ -100,15 +100,13 @@ function answeredAt(bound: Bound): string {
   return `page queries are answered at ${bound.servers.map((one) => one.url.href).join(" ")}\n`
 }
 
-if (import.meta.main) {
-  const root = process.cwd()
+export function runPageListening(root: string): undefined {
   const port = portFor(root)
   const page = pagePathFor(root)
   if (port === null || page === null) {
-    process.stderr.write(
-      `no page is slugged ${SERVICE_SLUG} under ${SERVICE_PAGE_TYPE}, or it states no port\n`
+    throw new Error(
+      `no page is slugged ${SERVICE_SLUG} under ${SERVICE_PAGE_TYPE}, or it states no port`
     )
-    process.exit(2)
   }
   const stated: Listening = { root, port, binds: bindsFor(root) }
   let bound = serversFor(stated)
@@ -117,8 +115,7 @@ if (import.meta.main) {
     process.stderr.write(`nothing is listening at ${port} for ${one.hostname}: ${one.why}\n`)
   }
   if (bound.servers.length === 0) {
-    process.stderr.write(`no host name the page states could be bound at ${port}\n`)
-    process.exit(2)
+    throw new Error(`no host name the page states could be bound at ${port}`)
   }
   process.stdout.write(answeredAt(bound))
   if (bound.refused.length > 0) {
@@ -130,5 +127,14 @@ if (import.meta.main) {
       process.stdout.write(answeredAt(bound))
       if (bound.refused.length === 0) clearInterval(beat)
     }, TRIED_AGAIN_MS)
+  }
+}
+
+if (import.meta.main) {
+  try {
+    runPageListening(process.cwd())
+  } catch (thrown) {
+    process.stderr.write(`${thrown instanceof Error ? thrown.message : String(thrown)}\n`)
+    process.exit(2)
   }
 }
