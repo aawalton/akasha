@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const runRelaying = {
   id: "01a082e2-3a67-77bb-9aa8-5b6fa40f30c5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "run-relaying",
   definition: "a run asked of a long-lived server over a pipe, and the answer read back",

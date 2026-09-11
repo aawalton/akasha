@@ -2,7 +2,6 @@ import type { AgentHook } from "akasha/agents/hooks/agent-hooks/agent-hook.page-
 
 export const blockGitWrites = {
   id: "01a04e16-d380-7003-9da6-e715140d0718",
-  pageTypeSlug: "agent-hook",
   type: "agent-hook",
   slug: "block-git-writes",
   definition: "a refusal of the git calls that write tracked akasha content outside the commands",

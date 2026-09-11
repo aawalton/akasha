@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const grandMasterStationsPanelCard = {
   id: "01a06421-f74b-7ed2-b376-c85fc49b002a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "grand-master-stations-panel-card",
   definition: "the grand master crafting stations the account has unlocked",

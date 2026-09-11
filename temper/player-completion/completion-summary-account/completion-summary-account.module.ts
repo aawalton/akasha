@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const completionSummaryAccount = {
   id: "01a063a1-6ec3-7070-a4c2-0e4e020a6407",
-  pageTypeSlug: "module",
   type: "module",
   slug: "completion-summary-account",
   definition: "the numbers an account's summary card shows, folded from that account's progress",

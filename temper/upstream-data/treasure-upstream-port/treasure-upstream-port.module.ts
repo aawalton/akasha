@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const treasureUpstreamPort = {
   id: "01a0683b-e6a4-74fb-9866-3bb7e5c636f1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "treasure-upstream-port",
   definition: "the treasure pins upstream LibTreasure carries, copied out as TypeScript",

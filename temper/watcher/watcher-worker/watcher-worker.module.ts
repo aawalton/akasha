@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const watcherWorker = {
   id: "01a0674e-d7f8-75c9-a6ee-f3a19f736aca",
-  pageTypeSlug: "module",
   type: "module",
   slug: "watcher-worker",
   definition: "the collaborators a watcher worker runs on, chosen and handed to the start",

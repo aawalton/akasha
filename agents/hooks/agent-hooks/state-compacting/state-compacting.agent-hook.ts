@@ -2,7 +2,6 @@ import type { AgentHook } from "akasha/agents/hooks/agent-hooks/agent-hook.page-
 
 export const stateCompacting = {
   id: "01a06cc2-9c03-7cc6-8572-ca2c4935d05a",
-  pageTypeSlug: "agent-hook",
   type: "agent-hook",
   slug: "state-compacting",
   definition: "a seat stated as compacting while its context is being replaced by a summary",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const completionAccountRecipeScribingUnion = {
   id: "01a06121-f0d0-7909-91ae-6949dbbffa0f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "completion-account-recipe-scribing-union",
   definition: "the recipes and the scribing scripts any one character of an account knows",

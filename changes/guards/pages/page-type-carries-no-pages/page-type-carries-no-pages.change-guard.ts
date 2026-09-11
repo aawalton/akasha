@@ -2,7 +2,6 @@ import type { ChangeGuard } from "akasha/changes/guards/change-guard.page-type.t
 
 export const pageTypeCarriesNoPages = {
   id: "01a0798b-75e5-74cb-96a6-d72e53dc5424",
-  pageTypeSlug: "change-guard",
   type: "change-guard",
   slug: "page-type-carries-no-pages",
   changeTargetType: "change-target-type/file-content",

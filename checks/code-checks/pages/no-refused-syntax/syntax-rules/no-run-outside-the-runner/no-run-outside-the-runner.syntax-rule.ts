@@ -2,7 +2,6 @@ import type { SyntaxRule } from "akasha/checks/code-checks/pages/no-refused-synt
 
 export const noRunOutsideTheRunner = {
   id: "01a05d68-4f2f-7e94-bbdd-0f8139dadfb7",
-  pageTypeSlug: "syntax-rule",
   type: "syntax-rule",
   slug: "no-run-outside-the-runner",
   definition: "the rule refusing a process run to its end anywhere but the runner",

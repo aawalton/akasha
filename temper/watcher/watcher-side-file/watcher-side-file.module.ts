@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const watcherSideFile = {
   id: "01a06381-35cf-7b8f-8505-ad3ea6755991",
-  pageTypeSlug: "module",
   type: "module",
   slug: "watcher-side-file",
   definition: "the inventory config file put beside the addon only where its content changed",

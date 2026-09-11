@@ -2,7 +2,6 @@ import type { SyntaxRule } from "akasha/checks/code-checks/pages/no-refused-synt
 
 export const noLibcByName = {
   id: "01a05030-729c-7c85-8f48-e6357917f933",
-  pageTypeSlug: "syntax-rule",
   type: "syntax-rule",
   slug: "no-libc-by-name",
   definition:

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionGearByPricePanelCard = {
   id: "01a063a1-8cc1-7001-9790-51327f6c3879",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-gear-by-price-panel-card",
   definition: "the gear a player still needs, gathered by what it costs",

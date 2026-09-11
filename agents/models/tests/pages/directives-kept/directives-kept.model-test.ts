@@ -2,7 +2,6 @@ import type { ModelTest } from "akasha/agents/models/tests/model-test.page-type.
 
 export const directivesKept = {
   id: "01a09171-f061-705f-b5e4-447bac636521",
-  pageTypeSlug: "model-test",
   type: "model-test",
   slug: "directives-kept",
   definition: "which of Alan's rules, weighed all together, what an agent wrote breaks",

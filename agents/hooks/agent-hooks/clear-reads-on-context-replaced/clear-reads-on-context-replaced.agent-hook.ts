@@ -2,7 +2,6 @@ import type { AgentHook } from "akasha/agents/hooks/agent-hooks/agent-hook.page-
 
 export const clearReadsOnContextReplaced = {
   id: "01a04fa8-2878-7000-ab4d-25b94a3d14f6",
-  pageTypeSlug: "agent-hook",
   type: "agent-hook",
   slug: "clear-reads-on-context-replaced",
   definition: "a clearing of an agent's readings when its context is replaced rather than resumed",

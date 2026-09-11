@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const automationPanelCard = {
   id: "01a06589-8d4e-7000-b705-cd1447962c5f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "automation-panel-card",
   definition: "the card with a character's automation toggles",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const saidBy = {
   id: "01a08dd6-adb6-77d6-8c13-b314dea2f9c9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "said-by",
   definition: "what a thrown thing says",

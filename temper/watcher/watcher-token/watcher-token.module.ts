@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const watcherToken = {
   id: "01a06377-d8cc-7fd4-a2aa-a8b1cc6f5c4e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "watcher-token",
   definition: "the enrolment token the watcher worker proves itself to the server with",

@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const deploy = {
   id: "01a05af7-5996-7002-bc83-446645b7de16",
-  pageTypeSlug: "command",
   type: "command",
   slug: "deploy",
   definition: "the command putting up what a page describes",

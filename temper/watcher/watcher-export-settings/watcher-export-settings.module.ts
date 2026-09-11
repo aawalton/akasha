@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const watcherExportSettings = {
   id: "01a06381-35cf-7841-978e-789f776a712c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "watcher-export-settings",
   definition: "the player's settings written into the game's saved variables and beside the addon",

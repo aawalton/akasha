@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const watcherInventorySnapshotName = {
   id: "01a0633f-8d1e-72bf-94b4-33c274b877c8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "watcher-inventory-snapshot-name",
   definition: "the name an inventory snapshot and each of its chunks is kept under",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const stringIn = {
   id: "01a08e46-4a99-7249-b10c-2177c0d3079d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "string-in",
   definition: "the string a value holds, or nothing",

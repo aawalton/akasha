@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const ttcShoppingOptimizer = {
   id: "01a060cf-b0b0-7518-a8fe-69b071ba12a7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "ttc-shopping-optimizer",
   definition: "which listings to buy so that the fewest kiosks are visited",

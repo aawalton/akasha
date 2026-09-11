@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const completionAccountTraitUnion = {
   id: "01a06358-4f7c-76c9-ae33-27a581dd7401",
-  pageTypeSlug: "module",
   type: "module",
   slug: "completion-account-trait-union",
   definition: "the item traits any one character of an account has researched, counted by line",

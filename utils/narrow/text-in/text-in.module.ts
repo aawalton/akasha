@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const textIn = {
   id: "01a08e33-143b-7941-8a84-9fab0085e396",
-  pageTypeSlug: "module",
   type: "module",
   slug: "text-in",
   definition: "the non-empty text a value holds, or nothing",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const statusEffectTypes = {
   id: "01a060db-b2be-7c53-bc5c-ef2d9e30a4ae",
-  pageTypeSlug: "module",
   type: "module",
   slug: "status-effect-types",
   definition: "the twelve status effects a skill puts on what it hits",

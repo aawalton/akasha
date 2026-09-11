@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const ruleCardDestinationTier = {
   id: "01a0636c-5da1-797f-a883-3f02881c0048",
-  pageTypeSlug: "module",
   type: "module",
   slug: "rule-card-destination-tier",
   definition: "one step of a rule's destination chain",

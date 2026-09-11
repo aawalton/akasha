@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const skillMorphsProgressPanelCard = {
   id: "01a06270-883d-7000-98b7-a23674b65603",
-  pageTypeSlug: "module",
   type: "module",
   slug: "skill-morphs-progress-panel-card",
   definition: "how far each chosen character has taken every skill a morph is picked for",

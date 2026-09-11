@@ -2,7 +2,6 @@ import type { ChangeGuard } from "akasha/changes/guards/change-guard.page-type.t
 
 export const importNotLeftHanging = {
   id: "01a07750-f2bd-7d2d-8ad4-0ebf57b8dd1f",
-  pageTypeSlug: "change-guard",
   type: "change-guard",
   slug: "import-not-left-hanging",
   changeTargetType: "change-target-type/file-content",

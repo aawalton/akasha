@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionSuggestionsPanelCard = {
   id: "01a06421-2522-7599-826a-399a2ca51e7d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-suggestions-panel-card",
   definition: "a panel card stating what a companion could change",

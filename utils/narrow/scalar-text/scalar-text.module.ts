@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scalarText = {
   id: "01a0909a-b4dc-7909-b0f7-ac79aba83569",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scalar-text",
   definition: "the text a string, a number or a boolean is written as, or nothing",

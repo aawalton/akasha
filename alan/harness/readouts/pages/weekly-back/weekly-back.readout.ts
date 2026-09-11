@@ -2,7 +2,6 @@ import type { Readout } from "akasha/alan/harness/readouts/readout.page-type.typ
 
 export const weeklyBack = {
   id: "01a063bd-a526-795d-b845-b6fb54c9ef34",
-  pageTypeSlug: "readout",
   type: "readout",
   slug: "weekly-back",
   definition: "how long until a spent weekly allowance returns",

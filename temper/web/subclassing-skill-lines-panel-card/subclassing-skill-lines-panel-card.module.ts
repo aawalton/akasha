@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const subclassingSkillLinesPanelCard = {
   id: "01a06421-f74b-7c10-81f6-98e711570037",
-  pageTypeSlug: "module",
   type: "module",
   slug: "subclassing-skill-lines-panel-card",
   definition: "the subclassing skill lines the account has ranked up, by class",

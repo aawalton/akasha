@@ -2,7 +2,6 @@ import type { Readout } from "akasha/alan/harness/readouts/readout.page-type.typ
 
 export const attributeIntelligence = {
   id: "01a06838-94d9-7c36-b921-4351c8db6033",
-  pageTypeSlug: "readout",
   type: "readout",
   slug: "attribute-intelligence",
   definition: "the points Alan earned on a day for the learn-everything topics he updated",

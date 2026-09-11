@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const characterAchievementsPanelCard = {
   id: "01a06421-f74b-7d4b-bfa1-cf2d5df70013",
-  pageTypeSlug: "module",
   type: "module",
   slug: "character-achievements-panel-card",
   definition: "the achievements each selected character has earned, by category",

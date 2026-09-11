@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const emailMessagesArchive = {
   id: "01a06810-cf11-73ba-92ff-d42a84a458ee",
-  pageTypeSlug: "command",
   type: "command",
   slug: "email-messages-archive",
   definition: "the command taking the INBOX label off one Gmail message",

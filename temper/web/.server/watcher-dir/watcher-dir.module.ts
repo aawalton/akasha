@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const watcherDir = {
   id: "01a0640f-850f-7f75-abe1-b02d6a21efda",
-  pageTypeSlug: "module",
   type: "module",
   slug: "watcher-dir",
   definition: "the folder the watcher's downloads are served out of",

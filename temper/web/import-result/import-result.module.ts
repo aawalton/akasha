@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const importResult = {
   id: "01a0640f-8510-79d2-a33e-1cfc18d185ee",
-  pageTypeSlug: "module",
   type: "module",
   slug: "import-result",
   definition: "what a whole-account import did to the account, its characters and its companions",

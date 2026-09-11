@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const verdictShape = {
   id: "01a05c87-a161-78d7-afb2-6becb8d2161f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "verdict-shape",
   definition: "what a judgement has",

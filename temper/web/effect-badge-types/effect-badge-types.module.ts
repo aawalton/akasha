@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const effectBadgeTypes = {
   id: "01a0641f-8bec-7372-8d2c-a499411a75f6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "effect-badge-types",
   definition: "the shapes a skill effect badge takes",

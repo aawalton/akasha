@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const musicPlay = {
   id: "01a062f9-5ca9-7fc5-acba-8d513404a6f9",
-  pageTypeSlug: "command",
   type: "command",
   slug: "music-play",
   definition: "the command playing one track, named by a query or by a track uri",

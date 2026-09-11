@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionPanel = {
   id: "01a0641f-8be8-76e6-a061-d333686e2c96",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-panel",
   definition: "the panel a companion's character tab draws",

@@ -2,7 +2,6 @@ import type { Readout } from "akasha/alan/harness/readouts/readout.page-type.typ
 
 export const attributeStrength = {
   id: "01a06838-9421-7f89-932a-569d681c18a4",
-  pageTypeSlug: "readout",
   type: "readout",
   slug: "attribute-strength",
   definition: "the points Alan earned on a day for the weight he moved",

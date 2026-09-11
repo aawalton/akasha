@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const completionScopeRollup = {
   id: "01a06326-436a-75d2-8ece-d1941d997a46",
-  pageTypeSlug: "module",
   type: "module",
   slug: "completion-scope-rollup",
   definition: "what one scope of completion cards counts, and the three scopes added together",

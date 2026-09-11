@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const questsDecide = {
   id: "01a0635f-391c-78a5-84e9-0cc44f22b3f1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "quests-decide",
   definition: "which dialogue option to take, worked out from the menu and what came before",

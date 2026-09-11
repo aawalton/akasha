@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const inferenceEdit = {
   id: "01a0685e-fd50-7c57-a7d6-7a1be279c52c",
-  pageTypeSlug: "command",
   type: "command",
   slug: "inference-edit",
   definition: "the command remaking one image under an instruction, keeping what it is of",

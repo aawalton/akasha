@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const shortcutSectionCard = {
   id: "01a06432-b190-7746-bbbc-15e16fa5228e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "shortcut-section-card",
   definition: "one group of keyboard shortcuts drawn as a card",

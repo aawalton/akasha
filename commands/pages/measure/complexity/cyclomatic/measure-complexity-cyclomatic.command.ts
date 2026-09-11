@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const measureComplexityCyclomatic = {
   id: "01a08ccd-4d69-70c6-a642-6a6ac9529d4a",
-  pageTypeSlug: "command",
   type: "command",
   slug: "measure-complexity-cyclomatic",
   definition: "the McCabe complexity of each function of a checkout's TypeScript",

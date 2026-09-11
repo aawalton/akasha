@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const characterLevelPanelCard = {
   id: "01a06421-f74b-7fa3-954a-6f7d00050015",
-  pageTypeSlug: "module",
   type: "module",
   slug: "character-level-panel-card",
   definition: "each selected character's level against the cap",

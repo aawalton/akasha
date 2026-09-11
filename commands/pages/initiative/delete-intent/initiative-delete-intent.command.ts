@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const initiativeDeleteIntent = {
   id: "01a08c4e-4825-7f65-b321-e81787848de8",
-  pageTypeSlug: "command",
   type: "command",
   slug: "initiative-delete-intent",
   definition: "the command taking one intent out of the initiative stating that intent",

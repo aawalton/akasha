@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useCompletionFilters = {
   id: "01a06421-f74b-74c4-922b-3697172b003a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-completion-filters",
   definition: "the completion page's filter values, kept in the query string and in storage",

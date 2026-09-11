@@ -2,7 +2,6 @@ import type { AgentHook } from "akasha/agents/hooks/agent-hooks/agent-hook.page-
 
 export const blockTypecheck = {
   id: "01a058d6-293d-7bd0-8774-23b6112680f6",
-  pageTypeSlug: "agent-hook",
   type: "agent-hook",
   slug: "block-typecheck",
   definition: "a refusal of the typecheck calls an agent makes outside the akasha commands",

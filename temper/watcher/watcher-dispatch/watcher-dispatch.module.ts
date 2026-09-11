@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const watcherDispatch = {
   id: "01a063c7-b03c-7191-b9c8-91abbe234ffd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "watcher-dispatch",
   definition: "which imports and exports one kind of saved-variables file is carried across by",

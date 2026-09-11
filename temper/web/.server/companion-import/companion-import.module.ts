@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionImport = {
   id: "01a0640f-8510-72bd-a455-0d889d0077fd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-import",
   definition: "a companion build decoded from a hash and filed against the reader's account",

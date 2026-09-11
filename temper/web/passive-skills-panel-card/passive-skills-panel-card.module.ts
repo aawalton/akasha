@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const passiveSkillsPanelCard = {
   id: "01a0642c-5ba6-754c-abac-523c83014b8e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "passive-skills-panel-card",
   definition: "a panel card with passive skills",

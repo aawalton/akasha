@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inFlightKeys = {
   id: "01a08df5-ff10-7edf-b73e-d70b1477a50d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "in-flight-keys",
   definition:

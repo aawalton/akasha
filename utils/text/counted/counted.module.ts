@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const counted = {
   id: "01a08ccc-aca8-7215-b4dd-560d25d104b5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "counted",
   definition: "a count said beside the thing counted, in the singular or the plural",

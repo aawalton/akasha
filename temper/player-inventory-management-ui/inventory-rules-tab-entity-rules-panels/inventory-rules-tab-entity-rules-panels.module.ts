@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryRulesTabEntityRulesPanels = {
   id: "01a0636c-5d9b-7adf-9c01-d1e572e20027",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-rules-tab-entity-rules-panels",
   definition: "the character and companion rule panels the rules tab draws",

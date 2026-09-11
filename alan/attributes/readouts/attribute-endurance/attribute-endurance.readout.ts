@@ -2,7 +2,6 @@ import type { Readout } from "akasha/alan/harness/readouts/readout.page-type.typ
 
 export const attributeEndurance = {
   id: "01a06838-945f-7ac6-b3a4-411fa111e195",
-  pageTypeSlug: "readout",
   type: "readout",
   slug: "attribute-endurance",
   definition: "the points Alan earned on a day for the calories he burned moving",

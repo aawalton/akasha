@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const inferenceUpscale = {
   id: "01a0685e-fd50-7de7-851b-a0d871ef8910",
-  pageTypeSlug: "command",
   type: "command",
   slug: "inference-upscale",
   definition: "the command remaking one image at a higher resolution on a GPU",

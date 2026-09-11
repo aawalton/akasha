@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const initiativeHandIntent = {
   id: "01a08c64-750b-7bb5-b491-551e9cca63dd",
-  pageTypeSlug: "command",
   type: "command",
   slug: "initiative-hand-intent",
   definition: "the command handing one intent from the initiative stating it to another initiative",

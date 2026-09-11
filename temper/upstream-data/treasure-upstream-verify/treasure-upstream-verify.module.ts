@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const treasureUpstreamVerify = {
   id: "01a06282-dfc3-7860-9a09-26dd6febe9a4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "treasure-upstream-verify",
   definition: "the ruling on whether the ported LibTreasure data still matches upstream",

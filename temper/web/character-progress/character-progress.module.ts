@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const characterProgress = {
   id: "01a06421-f74b-78cf-a4a8-43342bc70016",
-  pageTypeSlug: "module",
   type: "module",
   slug: "character-progress",
   definition: "each character's progress worked out from the catalogs and the saved data",

@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const musicNowPlaying = {
   id: "01a062f8-ead8-74de-aa60-befb47afaae9",
-  pageTypeSlug: "command",
   type: "command",
   slug: "music-now-playing",
   definition: "the command naming the track Spotify is playing and the playback state around it",

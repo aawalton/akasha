@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const currencyPriceLookup = {
   id: "01a0609b-e59f-7b46-be31-61f15235677d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "currency-price-lookup",
   definition: "what a telvar stone, an alliance point and a writ voucher are worth in gold",

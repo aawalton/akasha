@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const panelControlsCreated = {
   id: "01a0909d-e44e-780b-9375-2b6c9bcfcb42",
-  pageTypeSlug: "module",
   type: "module",
   slug: "panel-controls-created",
   definition: "what runs once the add-on menu has built a panel's controls",

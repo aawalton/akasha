@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const googleAuthLogin = {
   id: "01a08cd6-dec8-70d0-806a-01701518ada0",
-  pageTypeSlug: "command",
   type: "command",
   slug: "google-auth-login",
   definition: "the consent Google is reached as Alan on, granted once for calendar, drive and mail",

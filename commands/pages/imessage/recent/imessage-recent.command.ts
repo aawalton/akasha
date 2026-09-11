@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const imessageRecent = {
   id: "01a0685f-c8ed-7002-acaf-64c6ea2ab792",
-  pageTypeSlug: "command",
   type: "command",
   slug: "imessage-recent",
   definition: "the command giving back the newest messages in the mac's message store",

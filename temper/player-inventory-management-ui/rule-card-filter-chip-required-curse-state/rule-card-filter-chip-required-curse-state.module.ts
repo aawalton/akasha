@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const ruleCardFilterChipRequiredCurseState = {
   id: "01a0636c-5da1-7fca-80f0-d8012b5d004b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "rule-card-filter-chip-required-curse-state",
   definition: "the chip narrowing a rule by an item's curse",

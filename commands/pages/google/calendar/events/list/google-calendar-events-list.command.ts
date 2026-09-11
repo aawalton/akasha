@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const googleCalendarEventsList = {
   id: "01a08cf5-2233-7c51-b38b-a79082d4dc82",
-  pageTypeSlug: "command",
   type: "command",
   slug: "google-calendar-events-list",
   definition: "the act answering the events a calendar holds in a window",

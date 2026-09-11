@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const claudeAccountAdd = {
   id: "01a06861-b463-721b-87be-fcc7f5294e4b",
-  pageTypeSlug: "command",
   type: "command",
   slug: "claude-account-add",
   definition:

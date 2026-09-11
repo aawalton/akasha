@@ -2,7 +2,6 @@ import type { ChangeMechanicalFileContent } from "akasha/changes/mechanical/file
 
 export const changeDomainParent = {
   id: "01a08244-bf2d-7a34-9f71-759e3754a1ed",
-  pageTypeSlug: "change-mechanical-file-content",
   type: "change-mechanical-file-content",
   slug: "change-domain-parent",
   changeMode: "change-mode-change",

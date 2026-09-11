@@ -2,7 +2,6 @@ import type { ChangeMechanicalFolder } from "akasha/changes/mechanical/folder/ch
 
 export const moveFolder = {
   id: "01a0822c-5d57-7992-b533-fe3d7028ce8c",
-  pageTypeSlug: "change-mechanical-folder",
   type: "change-mechanical-folder",
   slug: "move-folder",
   changeMode: "change-mode-move",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const cyrodiilWayshrine = {
   id: "01a06108-2ff6-7cb8-bd42-e8fcd8be535a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "cyrodiil-wayshrine",
   definition: "whether a point of interest is a wayshrine of Cyrodiil",

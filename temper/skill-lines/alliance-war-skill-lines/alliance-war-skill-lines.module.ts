@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const allianceWarSkillLines = {
   id: "01a0608a-c133-71ab-bf75-2e25200d8aeb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "alliance-war-skill-lines",
   definition: "the assault, emperor and support skill lines the alliance war grants",

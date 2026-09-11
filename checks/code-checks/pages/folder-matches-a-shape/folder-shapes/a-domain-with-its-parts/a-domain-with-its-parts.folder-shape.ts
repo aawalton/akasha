@@ -2,7 +2,6 @@ import type { FolderShape } from "akasha/checks/code-checks/pages/folder-matches
 
 export const aDomainWithItsParts = {
   id: "01a0626e-045b-72ad-a6c9-9d13fba7fbda",
-  pageTypeSlug: "folder-shape",
   type: "folder-shape",
   slug: "a-domain-with-its-parts",
   definition: "the shape of a folder with one domain, its modules and the parts it declares",

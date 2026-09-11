@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const completionCategoryTreeTypes = {
   id: "01a06103-0616-7f27-96d8-71e47e9fde8f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "completion-category-tree-types",
   definition:

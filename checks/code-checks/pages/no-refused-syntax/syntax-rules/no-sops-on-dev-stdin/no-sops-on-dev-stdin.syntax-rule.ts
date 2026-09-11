@@ -2,7 +2,6 @@ import type { SyntaxRule } from "akasha/checks/code-checks/pages/no-refused-synt
 
 export const noSopsOnDevStdin = {
   id: "01a05030-b05f-71d0-a3cd-58a70fd8efa0",
-  pageTypeSlug: "syntax-rule",
   type: "syntax-rule",
   slug: "no-sops-on-dev-stdin",
   definition: "the rule refusing a sops call handed `/dev/stdin`, which it cannot open and seek",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const skillPointsProgressPanelCard = {
   id: "01a06421-f74b-78a8-b600-7f8587eb0036",
-  pageTypeSlug: "module",
   type: "module",
   slug: "skill-points-progress-panel-card",
   definition: "the skill points each selected character has earned, by source",

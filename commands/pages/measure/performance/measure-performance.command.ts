@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const measurePerformance = {
   id: "01a08d46-74cc-7d0a-bdd8-5350a9662b53",
-  pageTypeSlug: "command",
   type: "command",
   slug: "measure-performance",
   definition: "the act running one performance and saying what that performance measured",

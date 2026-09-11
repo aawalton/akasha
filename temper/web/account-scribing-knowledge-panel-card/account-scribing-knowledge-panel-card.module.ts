@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const accountScribingKnowledgePanelCard = {
   id: "01a06421-f74b-70c9-9dbb-9f5e79bf0009",
-  pageTypeSlug: "module",
   type: "module",
   slug: "account-scribing-knowledge-panel-card",
   definition: "the scribing scripts any character on the account has learned",

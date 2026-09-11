@@ -2,7 +2,6 @@ import type { FolderShape } from "akasha/checks/code-checks/pages/folder-matches
 
 export const sectionsOfTheSectionBeside = {
   id: "01a08b84-cae8-7fb3-9317-790b3e13db13",
-  pageTypeSlug: "folder-shape",
   type: "folder-shape",
   slug: "sections-of-the-section-beside",
   definition: "the shape of a folder with the sections of the section sitting beside it",

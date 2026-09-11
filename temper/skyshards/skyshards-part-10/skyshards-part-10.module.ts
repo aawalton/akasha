@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const skyshardsPart10 = {
   id: "01a061a8-9c66-7a2d-9844-ff76ec6418ee",
-  pageTypeSlug: "module",
   type: "module",
   slug: "skyshards-part-10",
   definition:

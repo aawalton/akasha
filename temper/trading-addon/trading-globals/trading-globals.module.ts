@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const tradingGlobals = {
   id: "01a06160-2a5b-740c-8508-b285f810f373",
-  pageTypeSlug: "module",
   type: "module",
   slug: "trading-globals",
   definition: "the names the add-on hangs off the game's global table",

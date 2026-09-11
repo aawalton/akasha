@@ -2,7 +2,6 @@ import type { SyntaxRule } from "akasha/checks/code-checks/pages/no-refused-synt
 
 export const noDoubleCast = {
   id: "01a05014-65e2-7fd3-9e14-ba32ad61ae6b",
-  pageTypeSlug: "syntax-rule",
   type: "syntax-rule",
   slug: "no-double-cast",
   definition: "the rule refusing an assertion that reaches its target through `unknown` or `any`",

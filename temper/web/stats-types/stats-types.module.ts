@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const statsTypes = {
   id: "01a0642c-5bbe-7973-93bd-24e51a3daa8c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "stats-types",
   definition: "the types a character's stats are written in",

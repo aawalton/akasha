@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const races = {
   id: "01a0608a-c133-737f-a474-8e8f27869f5c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "races",
   definition: "every playable race with its Elder Scrolls Online race id and its alternate name",

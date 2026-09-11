@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const stringsIn = {
   id: "01a09098-65cc-71fb-95a6-57732926c1c8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "strings-in",
   definition: "the strings a value holds, in the order that value holds them",

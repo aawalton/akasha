@@ -2,7 +2,6 @@ import type { SyntaxRule } from "akasha/checks/code-checks/pages/no-refused-synt
 
 export const noSwallowedRead = {
   id: "01a05236-31a6-737d-a92f-92fa9654f06a",
-  pageTypeSlug: "syntax-rule",
   type: "syntax-rule",
   slug: "no-swallowed-read",
   definition:

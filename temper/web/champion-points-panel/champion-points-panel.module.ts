@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const championPointsPanel = {
   id: "01a06432-b190-72ef-bcd3-cf1dbd31a64a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "champion-points-panel",
   definition: "the champion point constellations of a build, side by side",

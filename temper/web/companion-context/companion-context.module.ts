@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionContext = {
   id: "01a06421-2528-7269-885e-0306abe8e267",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-context",
   definition: "what holds a companion's state for the views beneath it",

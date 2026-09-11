@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const accountFilters = {
   id: "01a06421-f74a-78a9-bc07-f80c0dfb0003",
-  pageTypeSlug: "module",
   type: "module",
   slug: "account-filters",
   definition: "the filters the account tab offers, and which ids name one",

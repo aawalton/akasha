@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const browserTestStorageState = {
   id: "01a06862-06c8-7002-8a7a-7c207e2c7cd4",
-  pageTypeSlug: "command",
   type: "command",
   slug: "browser-test-storage-state",
   definition:

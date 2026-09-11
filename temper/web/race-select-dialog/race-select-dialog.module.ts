@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const raceSelectDialog = {
   id: "01a0642c-5b81-7c38-b0c2-960dd7e2e29e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "race-select-dialog",
   definition: "the dialog selecting a race",

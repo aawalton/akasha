@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const restoreConfirmDialog = {
   id: "01a0641f-8bf0-7201-9eb5-41690b29ef6c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "restore-confirm-dialog",
   definition: "the dialog a companion restore is confirmed in",

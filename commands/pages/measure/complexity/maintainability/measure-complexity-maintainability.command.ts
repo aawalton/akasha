@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const measureComplexityMaintainability = {
   id: "01a08ccd-ace4-705b-8318-42e706de96ae",
-  pageTypeSlug: "command",
   type: "command",
   slug: "measure-complexity-maintainability",
   definition: "the maintainability index of each file of a checkout's TypeScript",

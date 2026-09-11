@@ -2,7 +2,6 @@ import type { SyntaxRule } from "akasha/checks/code-checks/pages/no-refused-synt
 
 export const noScrubBashEnvUndoes = {
   id: "01a08230-0014-772b-9adf-c9c4f73e3f7d",
-  pageTypeSlug: "syntax-rule",
   type: "syntax-rule",
   slug: "no-scrub-bash-env-undoes",
   definition:

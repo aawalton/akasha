@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const infrastructureService = {
   id: "01a05a66-caa0-72a3-8f49-29ab09a8de77",
-  pageTypeSlug: "command",
   type: "command",
   slug: "infrastructure-service",
   definition: "the command acting on the services akasha carries",

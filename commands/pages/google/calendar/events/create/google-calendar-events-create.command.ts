@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const googleCalendarEventsCreate = {
   id: "01a08cf5-d6aa-73ba-98ee-cf689f633831",
-  pageTypeSlug: "command",
   type: "command",
   slug: "google-calendar-events-create",
   definition: "the act placing a new event and inviting everyone named on it",

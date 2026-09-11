@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const browseListings = {
   id: "01a060a7-02f2-748c-b8d5-e1c65820155b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "browse-listings",
   definition: "how listings gathered from a guild store are merged and ordered by price",

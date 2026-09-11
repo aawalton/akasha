@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const procEnviron = {
   id: "01a0691b-4f63-79be-84d6-4d9546e6c1be",
-  pageTypeSlug: "module",
   type: "module",
   slug: "proc-environ",
   definition: "one environment variable read off one process by its pid",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const effectsPanelCard = {
   id: "01a0642c-5bb3-7bdb-83ac-f01c253585a7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "effects-panel-card",
   definition: "a panel card listing the effects on a character",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const completionAccountZonePoiUnion = {
   id: "01a06358-4f7c-7797-8df7-6ca950b9bf86",
-  pageTypeSlug: "module",
   type: "module",
   slug: "completion-account-zone-poi-union",
   definition: "what any one character of an account has finished out in the world",

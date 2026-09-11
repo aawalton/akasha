@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const requireEnv = {
   id: "01a05c94-2c00-7702-bb18-010545bdfe3e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "require-env",
   definition: "the environment variable under a name, refused where it is unset",

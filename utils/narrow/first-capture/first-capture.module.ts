@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const firstCapture = {
   id: "01a08dfe-6a6f-7a00-8441-fb9ea0f7d5d9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "first-capture",
   definition: "the first group a pattern took from text, or nothing",

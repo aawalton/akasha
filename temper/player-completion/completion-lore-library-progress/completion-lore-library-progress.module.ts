@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const completionLoreLibraryProgress = {
   id: "01a06121-f0d4-76d5-a969-add5b8898bd8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "completion-lore-library-progress",
   definition: "the shalidor books each character has read, counted by collection",

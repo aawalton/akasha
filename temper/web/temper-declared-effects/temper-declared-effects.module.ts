@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const temperDeclaredEffects = {
   id: "01a0640f-8510-7199-93a8-3fa778720f68",
-  pageTypeSlug: "module",
   type: "module",
   slug: "temper-declared-effects",
   definition: "the action verb Temper registers for effects a page declares",

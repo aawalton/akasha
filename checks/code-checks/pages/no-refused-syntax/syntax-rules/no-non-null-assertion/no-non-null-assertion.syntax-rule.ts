@@ -2,7 +2,6 @@ import type { SyntaxRule } from "akasha/checks/code-checks/pages/no-refused-synt
 
 export const noNonNullAssertion = {
   id: "01a05964-deb4-7557-82b0-293c12e0bf59",
-  pageTypeSlug: "syntax-rule",
   type: "syntax-rule",
   slug: "no-non-null-assertion",
   definition:

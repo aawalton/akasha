@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const listingTypes = {
   id: "01a060a7-02f2-7740-a4a8-e0a86342e424",
-  pageTypeSlug: "module",
   type: "module",
   slug: "listing-types",
   definition: "the shape a guild store listing takes where the add-on saves it",

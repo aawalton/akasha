@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const requireOnly = {
   id: "01a05c94-2c02-7dcd-a343-76adc276594d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "require-only",
   definition: "the one element of an array, refused where there is any other count",

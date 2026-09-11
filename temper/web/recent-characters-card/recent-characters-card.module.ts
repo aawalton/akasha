@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const recentCharactersCard = {
   id: "01a06432-b190-77de-b968-e4a3f00bdac1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "recent-characters-card",
   definition: "the card listing the character builds touched most recently",

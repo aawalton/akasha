@@ -2,7 +2,6 @@ import type { ChangeGuard } from "akasha/changes/guards/change-guard.page-type.t
 
 export const relationReachesAPage = {
   id: "01a07976-d28f-7fac-9491-0467366b86b4",
-  pageTypeSlug: "change-guard",
   type: "change-guard",
   slug: "relation-reaches-a-page",
   changeTargetType: "change-target-type/file-content",

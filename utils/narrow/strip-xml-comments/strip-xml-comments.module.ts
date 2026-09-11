@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const stripXmlComments = {
   id: "01a08de9-caf0-7416-9844-11646f6f4f04",
-  pageTypeSlug: "module",
   type: "module",
   slug: "strip-xml-comments",
   definition: "markup with every comment blanked out and every line left where that line was",

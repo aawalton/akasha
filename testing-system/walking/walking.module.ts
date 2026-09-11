@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const walking = {
   id: "01a04ef8-da76-76ad-9345-28b37bd75cdd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "walking",
   definition: "everything under a folder, read back as one sorted list a test can compare",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libsetsDataPort = {
   id: "01a06341-d9e8-7001-b3d8-ac888e8c7c0b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "libsets-data-port",
   definition: "upstream LibSets's own data tables copied out as TypeScript",

@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const alanLearnNext = {
   id: "01a077e6-d20c-7398-9b0e-d8ecbb15cba7",
-  pageTypeSlug: "command",
   type: "command",
   slug: "alan-learn-next",
   definition: "the first unopened leaf of the Book of Everything along a sweep fixed in advance",

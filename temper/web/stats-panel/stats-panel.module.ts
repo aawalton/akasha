@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const statsPanel = {
   id: "01a0642c-5bbd-7439-bf0b-b3a865e8b977",
-  pageTypeSlug: "module",
   type: "module",
   slug: "stats-panel",
   definition: "the panel with a character's stats",

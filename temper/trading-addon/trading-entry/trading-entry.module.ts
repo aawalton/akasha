@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const tradingEntry = {
   id: "01a06160-2a5a-71e6-8292-47916aad37fc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "trading-entry",
   definition: "what the listings add-on does as the game loads it",

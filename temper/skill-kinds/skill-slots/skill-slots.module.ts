@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const skillSlots = {
   id: "01a060db-b2bc-7435-a916-f751d5505338",
-  pageTypeSlug: "module",
   type: "module",
   slug: "skill-slots",
   definition: "the six places a skill sits in on one bar, five active and one ultimate",

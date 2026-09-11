@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const skillPointFinderGuiTable = {
   id: "01a060ec-583e-7412-a54f-b29583ac3afd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "skill-point-finder-gui-table",
   definition: "the rows of each section of the skill point window",

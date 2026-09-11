@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const skyshardsPcSkillPanel = {
   id: "01a061a8-9c6b-7880-ba65-87ef493af327",
-  pageTypeSlug: "module",
   type: "module",
   slug: "skyshards-pc-skill-panel",
   definition: "the skyshard count the computer skills panel shows beside the skill points to spend",

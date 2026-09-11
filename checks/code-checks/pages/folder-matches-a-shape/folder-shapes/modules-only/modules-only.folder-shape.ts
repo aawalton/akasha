@@ -2,7 +2,6 @@ import type { FolderShape } from "akasha/checks/code-checks/pages/folder-matches
 
 export const modulesOnly = {
   id: "01a05f26-edf0-76fc-b2f1-9351eb172aee",
-  pageTypeSlug: "folder-shape",
   type: "folder-shape",
   slug: "modules-only",
   definition: "the shape of a folder with the module folders the page above it declares",

@@ -2,7 +2,6 @@ import type { AgentHook } from "akasha/agents/hooks/agent-hooks/agent-hook.page-
 
 export const stateSubagent = {
   id: "01a0598f-18de-7467-a5af-de60b85fefd7",
-  pageTypeSlug: "agent-hook",
   type: "agent-hook",
   slug: "state-subagent",
   definition: "a subagent's page, put up when it starts and taken away when it stops",

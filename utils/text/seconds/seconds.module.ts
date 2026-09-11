@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const seconds = {
   id: "01a08e0e-2679-7975-bc1c-012c263cbfd2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "seconds",
   definition: "a span of milliseconds written out as whole seconds",

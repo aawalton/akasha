@@ -2,7 +2,6 @@ import type { ChangeMechanicalFolder } from "akasha/changes/mechanical/folder/ch
 
 export const removeFolderPackage = {
   id: "01a0824a-d2c6-7488-8bfd-742aa19c8ef2",
-  pageTypeSlug: "change-mechanical-folder",
   type: "change-mechanical-folder",
   slug: "remove-folder-package",
   changeMode: "change-mode-remove",

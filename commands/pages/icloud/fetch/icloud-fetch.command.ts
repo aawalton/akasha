@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const icloudFetch = {
   id: "01a08cf8-d3c1-744e-a8e9-70301b272c28",
-  pageTypeSlug: "command",
   type: "command",
   slug: "icloud-fetch",
   definition: "the act writing every photo an iCloud shared album holds to disk",

@@ -2,7 +2,6 @@ import type { ChangeMechanicalFileContent } from "akasha/changes/mechanical/file
 
 export const changeManifestWays = {
   id: "01a0798b-3398-71d0-ba4b-fa40530ad360",
-  pageTypeSlug: "change-mechanical-file-content",
   type: "change-mechanical-file-content",
   slug: "change-manifest-ways",
   changeMode: "change-mode-change",

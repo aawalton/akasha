@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const infrastructureLoki = {
   id: "01a06809-250b-7ab3-b9ac-5e00cfbba4ec",
-  pageTypeSlug: "command",
   type: "command",
   slug: "infrastructure-loki",
   definition: "the log lines Loki has for a pod, newest first",

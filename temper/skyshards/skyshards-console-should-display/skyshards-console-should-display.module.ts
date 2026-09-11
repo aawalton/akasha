@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const skyshardsConsoleShouldDisplay = {
   id: "01a061a8-9c61-7b1b-bee1-abd633eafb8f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "skyshards-console-should-display",
   definition: "whether the console half shows skyshards at all, for the zone the player is in",

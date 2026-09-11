@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useShoppingList = {
   id: "01a063a1-8cc1-7011-9bb1-cdddb7e73b16",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-shopping-list",
   definition: "what a player has marked off a shopping list",

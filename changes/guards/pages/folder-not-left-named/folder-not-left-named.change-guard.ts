@@ -2,7 +2,6 @@ import type { ChangeGuard } from "akasha/changes/guards/change-guard.page-type.t
 
 export const folderNotLeftNamed = {
   id: "01a08238-9081-766f-acab-30c5d8f612ee",
-  pageTypeSlug: "change-guard",
   type: "change-guard",
   slug: "folder-not-left-named",
   changeTargetType: "change-target-type/file-content",

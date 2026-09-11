@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const importSummaries = {
   id: "01a06432-b190-7e58-84df-f02009c0084d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "import-summaries",
   definition: "what an import did, written out for the account, the characters and the inventory",

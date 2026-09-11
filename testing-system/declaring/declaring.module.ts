@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const declaring = {
   id: "01a04f4e-cc2d-7607-9fbc-82d1c0c0d9be",
-  pageTypeSlug: "module",
   type: "module",
   slug: "declaring",
   definition: "the pages a test's world must carry before an identity can be filed",

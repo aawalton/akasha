@@ -2,7 +2,6 @@ import type { AgentHook } from "akasha/agents/hooks/agent-hooks/agent-hook.page-
 
 export const blockCombinedAkashaCalls = {
   id: "01a07e9e-a423-744c-8496-5006c4bbb90d",
-  pageTypeSlug: "agent-hook",
   type: "agent-hook",
   slug: "block-combined-akasha-calls",
   definition: "a refusal of an `akasha read` or `akasha change` call combined with other shell",

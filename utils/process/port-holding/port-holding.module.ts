@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const portHolding = {
   id: "01a0659d-b1ba-7000-ac0a-6643010ea000",
-  pageTypeSlug: "module",
   type: "module",
   slug: "port-holding",
   definition: "the processes listening on a TCP port, found by socket inode under `/proc`",

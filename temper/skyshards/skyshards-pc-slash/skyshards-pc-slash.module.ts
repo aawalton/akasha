@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const skyshardsPcSlash = {
   id: "01a061a8-9c6b-7884-af1c-4c6c3e02243e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "skyshards-pc-slash",
   definition: "the slash commands that print where the player is",

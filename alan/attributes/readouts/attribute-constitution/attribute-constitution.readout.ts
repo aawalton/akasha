@@ -2,7 +2,6 @@ import type { Readout } from "akasha/alan/harness/readouts/readout.page-type.typ
 
 export const attributeConstitution = {
   id: "01a06838-9486-7039-a5b5-f3b864bb2160",
-  pageTypeSlug: "readout",
   type: "readout",
   slug: "attribute-constitution",
   definition: "the points Alan earned on a day for the whole plants he ate",

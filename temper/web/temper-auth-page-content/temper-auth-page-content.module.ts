@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const temperAuthPageContent = {
   id: "01a06432-b190-7fec-b12f-eccf2568e2d5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "temper-auth-page-content",
   definition: "Temper's sign-in and sign-up form, wired to supabase and the last page visited",

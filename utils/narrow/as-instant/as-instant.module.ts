@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const asInstant = {
   id: "01a081ad-4f44-7398-af25-67f95179c4a3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "as-instant",
   definition: "a moment in milliseconds read from the text spelling that moment",

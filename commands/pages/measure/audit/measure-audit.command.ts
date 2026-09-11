@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const measureAudit = {
   id: "01a08c17-afc0-7dd8-8fbe-b625407e7a33",
-  pageTypeSlug: "command",
   type: "command",
   slug: "measure-audit",
   definition: "the command saying what a check's audit run cost in processor time and memory",

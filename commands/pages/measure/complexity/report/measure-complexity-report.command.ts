@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const measureComplexityReport = {
   id: "01a08ccd-dddb-7be6-a0d9-3752b6db6da1",
-  pageTypeSlug: "command",
   type: "command",
   slug: "measure-complexity-report",
   definition: "every complexity metric by percentile, with the outliers of each",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const watcherConfigFile = {
   id: "01a06381-35cf-7578-8e5c-ded020afdf75",
-  pageTypeSlug: "module",
   type: "module",
   slug: "watcher-config-file",
   definition: "the lua file the watcher writes back into an addon's folder for the addon to read",

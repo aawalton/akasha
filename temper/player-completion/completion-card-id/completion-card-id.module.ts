@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const completionCardId = {
   id: "01a06103-061b-7c11-a311-6a30a8548331",
-  pageTypeSlug: "module",
   type: "module",
   slug: "completion-card-id",
   definition: "the identity of a completion card, counting the five that only a daily task names",

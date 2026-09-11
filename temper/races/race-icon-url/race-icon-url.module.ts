@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const raceIconUrl = {
   id: "01a0608a-c132-7743-8494-9f641e567d60",
-  pageTypeSlug: "module",
   type: "module",
   slug: "race-icon-url",
   definition: "the address of a race's character creation icon",

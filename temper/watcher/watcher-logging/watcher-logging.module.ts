@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const watcherLogging = {
   id: "01a0633f-8d1e-79dd-b620-f4a7e7e43bb1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "watcher-logging",
   definition: "how the watcher worker writes its log and rolls the log over once it grows large",

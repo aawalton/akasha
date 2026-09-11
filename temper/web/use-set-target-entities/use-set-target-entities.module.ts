@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useSetTargetEntities = {
   id: "01a0642c-5ba2-72f9-8c49-a10f1650c9de",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-set-target-entities",
   definition: "the hook setting a character's target entities",

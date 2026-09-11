@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const completionSummaries = {
   id: "01a0640a-3feb-7f15-b727-f3394d3cb2ff",
-  pageTypeSlug: "module",
   type: "module",
   slug: "completion-summaries",
   definition:

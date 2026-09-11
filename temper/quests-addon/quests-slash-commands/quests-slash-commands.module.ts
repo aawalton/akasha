@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const questsSlashCommands = {
   id: "01a0635f-391c-7ae6-a1ab-5e89ac12419c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "quests-slash-commands",
   definition: "the words the player types to turn answering dialogue and tracing on and off",

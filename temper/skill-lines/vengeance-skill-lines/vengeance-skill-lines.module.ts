@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const vengeanceSkillLines = {
   id: "01a0608a-c136-7ef2-9555-b1cb126af58b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "vengeance-skill-lines",
   definition: "the thirty-two vengeance skill lines the alliance war grants",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionVersionActions = {
   id: "01a06591-9eb0-7000-9053-bdd9b8e2dcfd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-version-actions",
   definition: "the saved versions of one companion build, fetched from a browser",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const starSelectionDialog = {
   id: "01a06432-b190-70ca-8fae-defba6b87018",
-  pageTypeSlug: "module",
   type: "module",
   slug: "star-selection-dialog",
   definition: "the dialog a champion point star is chosen in",

@@ -2,7 +2,6 @@ import type { Readout } from "akasha/alan/harness/readouts/readout.page-type.typ
 
 export const weeklyEnds = {
   id: "01a063bd-a526-7623-8e91-2865d3976acc",
-  pageTypeSlug: "readout",
   type: "readout",
   slug: "weekly-ends",
   definition: "how long until the weekly allowance window closes",

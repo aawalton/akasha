@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const ruleCardFilterChip = {
   id: "01a0636c-5da1-7756-ae63-a88030e2004d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "rule-card-filter-chip",
   definition: "the chip one of a rule's filters is drawn as",

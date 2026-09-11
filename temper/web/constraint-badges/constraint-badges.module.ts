@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const constraintBadges = {
   id: "01a06421-2522-7797-9798-69269634bacb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "constraint-badges",
   definition: "the badges naming what bounds a skill effect",

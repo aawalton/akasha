@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const inferenceStatus = {
   id: "01a0685e-fd50-76e0-b6ac-f0ce4a4a1e98",
-  pageTypeSlug: "command",
   type: "command",
   slug: "inference-status",
   definition: "the command reading what managed inference services each host is actually holding",

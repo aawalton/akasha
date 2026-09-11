@@ -2,7 +2,6 @@ import type { AgentHook } from "akasha/agents/hooks/agent-hooks/agent-hook.page-
 
 export const blockSubagentAudit = {
   id: "01a06906-100c-7bd1-92e8-8157b8483c37",
-  pageTypeSlug: "agent-hook",
   type: "agent-hook",
   slug: "block-subagent-audit",
   definition:

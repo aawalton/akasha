@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const shortened = {
   id: "01a0908e-2225-73cf-ab78-93caf2062757",
-  pageTypeSlug: "module",
   type: "module",
   slug: "shortened",
   definition: "text held to a length, with an ellipsis at the end of text that was longer",

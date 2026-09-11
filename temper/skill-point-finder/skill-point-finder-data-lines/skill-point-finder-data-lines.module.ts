@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const skillPointFinderDataLines = {
   id: "01a060ec-5839-7f61-9ed3-8cffa9e93940",
-  pageTypeSlug: "module",
   type: "module",
   slug: "skill-point-finder-data-lines",
   definition: "one row of the skill point window",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const watcherImportCatalog = {
   id: "01a06381-35cf-7af7-aa60-01ed66da5e3b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "watcher-import-catalog",
   definition:

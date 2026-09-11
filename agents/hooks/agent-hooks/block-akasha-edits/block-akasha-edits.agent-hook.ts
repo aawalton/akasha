@@ -2,7 +2,6 @@ import type { AgentHook } from "akasha/agents/hooks/agent-hooks/agent-hook.page-
 
 export const blockAkashaEdits = {
   id: "01a04e17-0958-7be5-9b50-5a856c02c5a6",
-  pageTypeSlug: "agent-hook",
   type: "agent-hook",
   slug: "block-akasha-edits",
   definition: "the hook refusing a Write, an Edit or a NotebookEdit that lands inside akasha",

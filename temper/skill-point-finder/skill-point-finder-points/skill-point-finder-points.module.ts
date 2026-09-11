@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const skillPointFinderPoints = {
   id: "01a060ec-5840-7997-b3de-8ee2e8c8c629",
-  pageTypeSlug: "module",
   type: "module",
   slug: "skill-point-finder-points",
   definition: "how many skill points a character has earned against how many exist",

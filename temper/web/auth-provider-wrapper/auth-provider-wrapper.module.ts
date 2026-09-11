@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const authProviderWrapper = {
   id: "01a06432-b190-7bdd-9689-8a19b01cb487",
-  pageTypeSlug: "module",
   type: "module",
   slug: "auth-provider-wrapper",
   definition: "the temper pages a signed-in reader's tree of components is given",

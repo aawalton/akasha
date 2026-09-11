@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const pageSecretClear = {
   id: "01a06812-3ce8-7a0e-b33a-5f0e6991b07d",
-  pageTypeSlug: "command",
   type: "command",
   slug: "page-secret-clear",
   definition: "the command dropping one secret from the sops file beside a page",

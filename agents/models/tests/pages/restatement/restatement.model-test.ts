@@ -2,7 +2,6 @@ import type { ModelTest } from "akasha/agents/models/tests/model-test.page-type.
 
 export const restatement = {
   id: "01a05a0b-3a49-7019-a1b3-203a1b2c9625",
-  pageTypeSlug: "model-test",
   type: "model-test",
   slug: "restatement",
   definition: "whether a departure says again what its page's name and definition already say",

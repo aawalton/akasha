@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const watcherFileType = {
   id: "01a0633f-8d1e-7d45-9db2-961a53ae61f6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "watcher-file-type",
   definition: "the kinds of saved-variables file the watcher carries across",

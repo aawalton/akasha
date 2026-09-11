@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const mobileSimLongPressDrag = {
   id: "01a0685d-ceae-7008-b721-3b37d87dca97",
-  pageTypeSlug: "command",
   type: "command",
   slug: "mobile-sim-long-press-drag",
   definition: "the command holding a finger down on the simulator and dragging it somewhere",

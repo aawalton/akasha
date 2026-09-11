@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryCurrencyPanelCard = {
   id: "01a0636c-5d9a-7c12-8136-543b0fa20013",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-currency-panel-card",
   definition: "the card drawing what currency a player has",

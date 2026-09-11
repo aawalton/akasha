@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const watcherState = {
   id: "01a0633f-8d1e-7be2-b34c-1ff9bbfe4907",
-  pageTypeSlug: "module",
   type: "module",
   slug: "watcher-state",
   definition: "what the watcher remembers about each file it is watching",

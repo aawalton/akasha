@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const watcherBuildStatus = {
   id: "01a0640f-8510-74a0-a7e6-a020f4b468ed",
-  pageTypeSlug: "module",
   type: "module",
   slug: "watcher-build-status",
   definition: "how the build the watcher reports compares with the build it is meant to run",

@@ -2,7 +2,6 @@ import type { ChangeGuard } from "akasha/changes/guards/change-guard.page-type.t
 
 export const relationNotLeftHanging = {
   id: "01a07750-f2bc-7b43-a336-b879db98da45",
-  pageTypeSlug: "change-guard",
   type: "change-guard",
   slug: "relation-not-left-hanging",
   changeTargetType: "change-target-type/file-content",

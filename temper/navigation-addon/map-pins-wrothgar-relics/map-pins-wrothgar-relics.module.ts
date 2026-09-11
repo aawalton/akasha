@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPinsWrothgarRelics = {
   id: "01a06269-2b0e-7f24-9349-1f8a948fdcad",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-pins-wrothgar-relics",
   definition: "the Wrothgar relic places",

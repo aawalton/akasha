@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const guildStorePoster = {
   id: "01a060a9-5d59-7ff2-971b-202f4a680195",
-  pageTypeSlug: "module",
   type: "module",
   slug: "guild-store-poster",
   definition: "the handshake the game asks for before an item goes up for sale",

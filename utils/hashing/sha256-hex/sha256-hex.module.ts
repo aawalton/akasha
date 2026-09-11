@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const sha256Hex = {
   id: "01a08ef4-823c-79ae-8b62-4de2fcf1a1b5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sha256-hex",
   definition: "the sha256 of a body, written as lower-case hex",

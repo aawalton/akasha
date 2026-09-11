@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inventoryFilterTypes = {
   id: "01a0636c-5d9a-7707-9767-560092ae0015",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inventory-filter-types",
   definition: "what an inventory filter and sort may have, and what admits a value",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionsFilterTypes = {
   id: "01a06421-2527-72cf-81cf-35554408ce56",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companions-filter-types",
   definition: "the shapes a companion filter takes",

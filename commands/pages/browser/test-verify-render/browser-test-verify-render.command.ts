@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const browserTestVerifyRender = {
   id: "01a06862-06c8-7001-8a4c-2018f029da13",
-  pageTypeSlug: "command",
   type: "command",
   slug: "browser-test-verify-render",
   definition:

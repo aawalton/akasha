@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const nameDrawing = {
   id: "01a08206-a5c1-75c9-8635-b646938fd3ac",
-  pageTypeSlug: "module",
   type: "module",
   slug: "name-drawing",
   definition: "names drawn each in backticks and parted, for a line a caller reads",

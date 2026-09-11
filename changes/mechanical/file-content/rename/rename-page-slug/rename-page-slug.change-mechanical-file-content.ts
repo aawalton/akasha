@@ -2,7 +2,6 @@ import type { ChangeMechanicalFileContent } from "akasha/changes/mechanical/file
 
 export const renamePageSlug = {
   id: "01a07718-c9b6-7230-ae96-ff2f36a19ec1",
-  pageTypeSlug: "change-mechanical-file-content",
   type: "change-mechanical-file-content",
   slug: "rename-page-slug",
   changeMode: "change-mode-rename",

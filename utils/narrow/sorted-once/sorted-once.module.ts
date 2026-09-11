@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const sortedOnce = {
   id: "01a079ad-7822-7000-a707-78723d52e222",
-  pageTypeSlug: "module",
   type: "module",
   slug: "sorted-once",
   definition: "values given back in sorted order, each one once",

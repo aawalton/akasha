@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const inodeGuard = {
   id: "01a05c67-00ad-7fd7-8303-5ff4a8e492b2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "inode-guard",
   definition: "whether the mounts have inodes enough to admit one more process",

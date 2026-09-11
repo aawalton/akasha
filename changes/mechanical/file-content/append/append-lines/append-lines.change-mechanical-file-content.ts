@@ -2,7 +2,6 @@ import type { ChangeMechanicalFileContent } from "akasha/changes/mechanical/file
 
 export const appendLines = {
   id: "01a08c36-f87f-791e-99a3-e195153103fb",
-  pageTypeSlug: "change-mechanical-file-content",
   type: "change-mechanical-file-content",
   slug: "append-lines",
   changeMode: "change-mode-append",

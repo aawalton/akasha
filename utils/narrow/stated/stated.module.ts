@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const stated = {
   id: "01a08e08-9bc5-777c-957f-47a336328803",
-  pageTypeSlug: "module",
   type: "module",
   slug: "stated",
   definition: "text as it was written, or nothing where nothing was written",

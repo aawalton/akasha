@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const unmappedItemsPanelCard = {
   id: "01a0636c-5da1-74af-90af-38a6f6d60061",
-  pageTypeSlug: "module",
   type: "module",
   slug: "unmapped-items-panel-card",
   definition: "the card naming the items no rule reaches",

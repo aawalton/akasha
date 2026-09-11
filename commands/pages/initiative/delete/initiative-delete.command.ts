@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const initiativeDelete = {
   id: "01a08c55-e316-7936-bc74-abba6173f7b7",
-  pageTypeSlug: "command",
   type: "command",
   slug: "initiative-delete",
   definition: "the command taking one initiative's page away with the files beside that page",

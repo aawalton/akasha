@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const morphConflict = {
   id: "01a061c7-0738-7d7a-a8e1-ba123ea07011",
-  pageTypeSlug: "module",
   type: "module",
   slug: "morph-conflict",
   definition: "whether two skills are two morphs of one base skill",

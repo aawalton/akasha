@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const characterReducer = {
   id: "01a0642c-5b98-75f5-a763-12dff8b280df",
-  pageTypeSlug: "module",
   type: "module",
   slug: "character-reducer",
   definition: "what folds a character action into character state",

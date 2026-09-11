@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const completionCategoryTreeComposed = {
   id: "01a06408-dd2e-7659-95d6-455a9c29e7ff",
-  pageTypeSlug: "module",
   type: "module",
   slug: "completion-category-tree-composed",
   definition: "the completion card tree with each achievement card's headings hung beneath it",

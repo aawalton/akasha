@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const shalidorLibraryCollections = {
   id: "01a06358-4f7c-7197-b990-c0ab3d67d74e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "shalidor-library-collections",
   definition: "the lore collections the Mages Guild keeps under Shalidor's Library",

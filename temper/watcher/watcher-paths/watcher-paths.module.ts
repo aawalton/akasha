@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const watcherPaths = {
   id: "01a06039-9c88-7c60-8a8b-7f8e09b0553a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "watcher-paths",
   definition: "the directories the temper watcher keeps its log and its state in",

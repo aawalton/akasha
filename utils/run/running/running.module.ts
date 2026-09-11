@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const running = {
   id: "01a05d20-8007-70bf-8ed6-29cc7dfb4687",
-  pageTypeSlug: "module",
   type: "module",
   slug: "running",
   definition: "a process run to its end, and the code and streams it leaves",

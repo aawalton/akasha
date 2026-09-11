@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapDataUpstreamVerify = {
   id: "01a06282-dfc3-7a2b-87b4-c262c2239e92",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-data-upstream-verify",
   definition: "the ruling on whether the ported LibMapData data still matches upstream",

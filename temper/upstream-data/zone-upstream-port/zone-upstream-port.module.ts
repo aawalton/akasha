@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const zoneUpstreamPort = {
   id: "01a0685a-f9b2-7000-8097-747bc58d26f6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "zone-upstream-port",
   definition:

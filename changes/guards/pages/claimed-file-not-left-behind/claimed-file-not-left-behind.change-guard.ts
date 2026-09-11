@@ -2,7 +2,6 @@ import type { ChangeGuard } from "akasha/changes/guards/change-guard.page-type.t
 
 export const claimedFileNotLeftBehind = {
   id: "01a07988-b667-79dc-8556-31aaf0e2c112",
-  pageTypeSlug: "change-guard",
   type: "change-guard",
   slug: "claimed-file-not-left-behind",
   changeTargetType: "change-target-type/file",

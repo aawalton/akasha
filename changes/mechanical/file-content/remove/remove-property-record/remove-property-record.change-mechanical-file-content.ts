@@ -2,7 +2,6 @@ import type { ChangeMechanicalFileContent } from "akasha/changes/mechanical/file
 
 export const removePropertyRecord = {
   id: "01a081ee-32aa-7960-8703-4e32e6a02a7e",
-  pageTypeSlug: "change-mechanical-file-content",
   type: "change-mechanical-file-content",
   slug: "remove-property-record",
   changeMode: "change-mode-remove",

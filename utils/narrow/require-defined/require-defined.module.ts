@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const requireDefined = {
   id: "01a06057-3679-7dd4-b797-e40ad426b9dd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "require-defined",
   definition: "a value refused where nothing is there",

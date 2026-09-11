@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const completionCadwellProgress = {
   id: "01a06358-4f7c-7c27-bdbb-10ed9f4e7578",
-  pageTypeSlug: "module",
   type: "module",
   slug: "completion-cadwell-progress",
   definition:

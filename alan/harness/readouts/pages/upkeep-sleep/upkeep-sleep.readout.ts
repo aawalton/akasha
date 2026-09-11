@@ -2,7 +2,6 @@ import type { Readout } from "akasha/alan/harness/readouts/readout.page-type.typ
 
 export const upkeepSleep = {
   id: "01a06220-ef8c-700d-ad60-4cf3f17ae1e3",
-  pageTypeSlug: "readout",
   type: "readout",
   slug: "upkeep-sleep",
   definition: "how long Alan slept last night",

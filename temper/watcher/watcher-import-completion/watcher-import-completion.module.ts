@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const watcherImportCompletion = {
   id: "01a06381-35cf-7b6a-8ea9-a0064dcecdc0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "watcher-import-completion",
   definition:

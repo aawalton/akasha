@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const jsonValue = {
   id: "01a05d38-69c2-7d28-9ad0-6afae06f9402",
-  pageTypeSlug: "module",
   type: "module",
   slug: "json-value",
   definition: "what a JSON value is, said as a type",

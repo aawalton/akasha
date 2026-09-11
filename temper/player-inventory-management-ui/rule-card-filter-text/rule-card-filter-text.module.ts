@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const ruleCardFilterText = {
   id: "01a0636c-5da1-769b-b67e-b3290a880057",
-  pageTypeSlug: "module",
   type: "module",
   slug: "rule-card-filter-text",
   definition: "the text of a rule's filter, edited in place",

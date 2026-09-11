@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const equipmentPanel = {
   id: "01a0642d-9a17-7211-b1be-9d0aa3197165",
-  pageTypeSlug: "module",
   type: "module",
   slug: "equipment-panel",
   definition: "the armor, jewelry and weapon sections of a build's gear, side by side",

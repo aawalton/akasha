@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionGearPricingRules = {
   id: "01a063a1-8cc1-7003-97fa-84c90d755406",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-gear-pricing-rules",
   definition: "what a companion gear need is called and what it costs",

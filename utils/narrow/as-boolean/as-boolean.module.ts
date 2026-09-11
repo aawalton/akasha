@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const asBoolean = {
   id: "01a05cf2-453a-79a8-abf8-4a76a72f4145",
-  pageTypeSlug: "module",
   type: "module",
   slug: "as-boolean",
   definition: "a boolean read from a value that may spell one as text",

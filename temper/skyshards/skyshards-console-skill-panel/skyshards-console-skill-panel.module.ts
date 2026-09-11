@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const skyshardsConsoleSkillPanel = {
   id: "01a061a8-9c62-7c2d-b960-8d2b3fb9ccda",
-  pageTypeSlug: "module",
   type: "module",
   slug: "skyshards-console-skill-panel",
   definition: "the skyshard count the console skills panel shows beside the skill points to spend",

@@ -2,7 +2,6 @@ import type { FolderShape } from "akasha/checks/code-checks/pages/folder-matches
 
 export const propertyPagesOnly = {
   id: "01a04e70-3e92-796f-b5e9-ce47ee249c71",
-  pageTypeSlug: "folder-shape",
   type: "folder-shape",
   slug: "property-pages-only",
   definition: "the shape of a folder with property pages and nothing else",

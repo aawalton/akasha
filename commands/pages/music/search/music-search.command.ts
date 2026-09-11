@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const musicSearch = {
   id: "01a062f8-ead9-70cb-ae30-58a51b7fc488",
-  pageTypeSlug: "command",
   type: "command",
   slug: "music-search",
   definition: "the command naming the Spotify tracks a query matches, each with its artists",

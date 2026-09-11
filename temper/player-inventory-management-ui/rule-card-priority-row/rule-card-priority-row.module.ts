@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const ruleCardPriorityRow = {
   id: "01a0636c-5da1-7972-b184-8ff940ed005a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "rule-card-priority-row",
   definition: "the row a rule's priority is set in",

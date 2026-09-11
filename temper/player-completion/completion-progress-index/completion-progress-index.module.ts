@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const completionProgressIndex = {
   id: "01a0640c-1e9b-7ed3-97f9-cf48e60107c6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "completion-progress-index",
   definition:

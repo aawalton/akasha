@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const tradingEvents = {
   id: "01a06160-2a5a-796d-b687-09aeb649b743",
-  pageTypeSlug: "module",
   type: "module",
   slug: "trading-events",
   definition: "the game events the listings add-on listens for",

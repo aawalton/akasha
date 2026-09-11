@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const watcherSettingsEquipment = {
   id: "01a06381-35cf-70c2-819c-ef562701572b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "watcher-settings-equipment",
   definition: "an account's target builds read from its pages and the gear those builds want",

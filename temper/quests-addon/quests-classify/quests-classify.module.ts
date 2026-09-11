@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const questsClassify = {
   id: "01a0635f-391c-79c4-8464-429301bdaa3c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "quests-classify",
   definition: "what one dialogue option is, read from the code and the wording the game gave it",

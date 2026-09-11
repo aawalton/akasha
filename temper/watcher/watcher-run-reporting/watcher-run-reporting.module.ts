@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const watcherRunReporting = {
   id: "01a06381-35cf-7a90-aca5-09b5bd83b54c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "watcher-run-reporting",
   definition:

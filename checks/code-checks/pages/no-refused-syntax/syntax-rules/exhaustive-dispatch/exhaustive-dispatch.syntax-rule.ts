@@ -2,7 +2,6 @@ import type { SyntaxRule } from "akasha/checks/code-checks/pages/no-refused-synt
 
 export const exhaustiveDispatch = {
   id: "01a0500d-738b-7aae-bdba-1ae379c7361e",
-  pageTypeSlug: "syntax-rule",
   type: "syntax-rule",
   slug: "exhaustive-dispatch",
   definition: "the rule refusing a switch naming no default, or one its default falls out of",

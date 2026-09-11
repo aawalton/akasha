@@ -2,7 +2,6 @@ import type { ChangeGuard } from "akasha/changes/guards/change-guard.page-type.t
 
 export const pluralSlugNotAlreadyHeld = {
   id: "01a07984-8ee9-7d24-bca8-2d2d1b16ae97",
-  pageTypeSlug: "change-guard",
   type: "change-guard",
   slug: "plural-slug-not-already-held",
   changeTargetType: "change-target-type/file-content",

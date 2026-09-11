@@ -2,7 +2,6 @@ import type { Readout } from "akasha/alan/harness/readouts/readout.page-type.typ
 
 export const upkeepPlants = {
   id: "01a06221-d65f-79f1-86c6-ac9568df5717",
-  pageTypeSlug: "readout",
   type: "readout",
   slug: "upkeep-plants",
   definition: "how many grams of whole plants Alan has eaten in a day",

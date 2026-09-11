@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useCompanionPartnerBuildUrl = {
   id: "01a0641f-8bf0-74e1-bc69-69b212ec5377",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-companion-partner-build-url",
   definition: "the url of the build a companion partners",

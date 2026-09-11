@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const esoIdHelpers = {
   id: "01a061e2-5e38-7a72-a17d-f942564d7534",
-  pageTypeSlug: "module",
   type: "module",
   slug: "eso-id-helpers",
   definition: "the game's own class, race and skill line numbers read as akasha ids",

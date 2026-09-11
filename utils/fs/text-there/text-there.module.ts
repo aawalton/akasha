@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const textThere = {
   id: "01a08e3b-5dd7-722f-9715-fa8d95ddd1b2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "text-there",
   definition: "the text a path holds, or nothing where the read threw for any reason",

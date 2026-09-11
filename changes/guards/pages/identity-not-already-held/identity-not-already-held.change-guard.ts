@@ -2,7 +2,6 @@ import type { ChangeGuard } from "akasha/changes/guards/change-guard.page-type.t
 
 export const identityNotAlreadyHeld = {
   id: "01a0797f-d415-717a-919e-cc0760a816fd",
-  pageTypeSlug: "change-guard",
   type: "change-guard",
   slug: "identity-not-already-held",
   changeTargetType: "change-target-type/file-content",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const bodying = {
   id: "01a04ee7-be07-7a1b-9f3f-f5e6d4693e70",
-  pageTypeSlug: "module",
   type: "module",
   slug: "bodying",
   definition: "the bytes, and the body at a path, that a test hands to what it tries",

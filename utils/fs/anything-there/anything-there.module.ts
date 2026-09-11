@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const anythingThere = {
   id: "01a08e16-6dcf-7030-a111-e379d16e22f5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "anything-there",
   definition: "whether anything at all sits at a path, a link among them",

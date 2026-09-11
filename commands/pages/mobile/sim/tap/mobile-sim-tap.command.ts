@@ -2,7 +2,6 @@ import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const mobileSimTap = {
   id: "01a0685d-ceae-700d-a860-a518622e0d4a",
-  pageTypeSlug: "command",
   type: "command",
   slug: "mobile-sim-tap",
   definition: "the command tapping the simulator screen the way a finger would",

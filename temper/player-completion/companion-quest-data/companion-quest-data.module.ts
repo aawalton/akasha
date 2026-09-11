@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const companionQuestData = {
   id: "01a06121-f0ce-7862-9eb6-795c99701a24",
-  pageTypeSlug: "module",
   type: "module",
   slug: "companion-quest-data",
   definition:

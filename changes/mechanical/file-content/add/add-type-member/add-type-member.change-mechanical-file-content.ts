@@ -2,7 +2,6 @@ import type { ChangeMechanicalFileContent } from "akasha/changes/mechanical/file
 
 export const addTypeMember = {
   id: "01a081dc-0cef-7d5a-9c4e-daf2ba343c98",
-  pageTypeSlug: "change-mechanical-file-content",
   type: "change-mechanical-file-content",
   slug: "add-type-member",
   changeMode: "change-mode-add",

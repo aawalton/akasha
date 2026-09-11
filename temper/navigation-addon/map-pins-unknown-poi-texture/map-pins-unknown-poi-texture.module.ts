@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPinsUnknownPoiTexture = {
   id: "01a06269-2b0c-7607-85b8-7b256dda7339",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-pins-unknown-poi-texture",
   definition: "the texture of each unknown point-of-interest kind",

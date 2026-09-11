@@ -2,7 +2,6 @@ import type { Readout } from "akasha/alan/harness/readouts/readout.page-type.typ
 
 export const inboxesEmail = {
   id: "01a06230-b155-7d69-9e39-eb26b5607d9e",
-  pageTypeSlug: "readout",
   type: "readout",
   slug: "inboxes-email",
   definition: "how near Alan's mail came to empty today",

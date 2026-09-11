@@ -2,7 +2,6 @@ import type { Readout } from "akasha/alan/harness/readouts/readout.page-type.typ
 
 export const inboxesTasks = {
   id: "01a06230-b156-7d81-a78b-ca66f6f5da77",
-  pageTypeSlug: "readout",
   type: "readout",
   slug: "inboxes-tasks",
   definition: "how many of Alan's tasks are waiting",

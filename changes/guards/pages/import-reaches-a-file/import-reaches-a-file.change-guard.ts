@@ -2,7 +2,6 @@ import type { ChangeGuard } from "akasha/changes/guards/change-guard.page-type.t
 
 export const importReachesAFile = {
   id: "01a07969-9122-7db9-ad3c-de58ab103a06",
-  pageTypeSlug: "change-guard",
   type: "change-guard",
   slug: "import-reaches-a-file",
   changeTargetType: "change-target-type/file-content",

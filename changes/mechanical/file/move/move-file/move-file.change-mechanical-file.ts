@@ -2,7 +2,6 @@ import type { ChangeMechanicalFile } from "akasha/changes/mechanical/file/change
 
 export const moveFile = {
   id: "01a07883-67ed-7849-b6e5-e499695cac46",
-  pageTypeSlug: "change-mechanical-file",
   type: "change-mechanical-file",
   slug: "move-file",
   changeMode: "change-mode-move",

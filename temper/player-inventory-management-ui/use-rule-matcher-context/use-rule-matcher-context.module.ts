@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useRuleMatcherContext = {
   id: "01a0636c-5da1-77e1-8885-a26516fc006d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-rule-matcher-context",
   definition: "what the rules are matched against for one player",

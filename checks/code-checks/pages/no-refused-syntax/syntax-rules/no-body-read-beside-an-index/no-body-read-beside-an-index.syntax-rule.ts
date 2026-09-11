@@ -2,7 +2,6 @@ import type { SyntaxRule } from "akasha/checks/code-checks/pages/no-refused-synt
 
 export const noBodyReadBesideAnIndex = {
   id: "01a06428-de96-7f88-b896-bf883f93871c",
-  pageTypeSlug: "syntax-rule",
   type: "syntax-rule",
   slug: "no-body-read-beside-an-index",
   definition:

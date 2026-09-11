@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const targetScopes = {
   id: "01a060db-b2be-77b7-b112-34349332a376",
-  pageTypeSlug: "module",
   type: "module",
   slug: "target-scopes",
   definition: "the shapes a skill effect reaches over, single or cone or area or line",

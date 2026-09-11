@@ -2,7 +2,6 @@ import type { ChangeMechanicalFile } from "akasha/changes/mechanical/file/change
 
 export const addIfNotPresentFile = {
   id: "01a08188-1037-7ddd-b5cb-c727ac6ef590",
-  pageTypeSlug: "change-mechanical-file",
   type: "change-mechanical-file",
   slug: "add-if-not-present-file",
   changeMode: "change-mode-add-if-not-present",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const useCompletionProgress = {
   id: "01a06421-f74b-726d-a820-51afc5be003b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "use-completion-progress",
   definition: "the progress every completion tab is handed",
