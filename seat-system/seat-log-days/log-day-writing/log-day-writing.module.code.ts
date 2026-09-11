@@ -170,7 +170,7 @@ function appenderFor(root: string, source: string, seatName: string, date: strin
         return
       }
       const size = Buffer.byteLength(text, "utf8") + 1
-      let opened = false
+      let opened = bytes === 0
       if (bytes > 0 && bytes + size > ENTRY_CEILING) {
         const next = partAt(pagePath, part + 1)
         if (next === null) {

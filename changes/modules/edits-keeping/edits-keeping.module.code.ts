@@ -167,7 +167,8 @@ function fillingAt(root: string, page: string, adding: number): Filling | null {
     found = next
   }
   const size = sizeOnDisk(join(root, found))
-  if (size === 0 || size + adding <= ENTRY_CEILING) return { at: found, opened: false }
+  if (size === 0) return { at: found, opened: true }
+  if (size + adding <= ENTRY_CEILING) return { at: found, opened: false }
   const next = partAt(page, part + 1)
   return next === null ? { at: found, opened: false } : { at: next, opened: true }
 }

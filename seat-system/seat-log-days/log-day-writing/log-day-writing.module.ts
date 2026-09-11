@@ -112,7 +112,7 @@ export const logDayWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A part opened that way is filed in the path index once a line reaches that part.",
+      statement: "A part a line opens is filed in the path index once that line reaches the part.",
     },
     {
       invariantKind: "departure",

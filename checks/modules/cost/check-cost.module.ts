@@ -118,7 +118,7 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
-      statement: "A file that roll opens is filed in the path index once the line reaches it.",
+      statement: "A file a line opens is filed in the path index once that line reaches the file.",
     },
     {
       invariantKind: "departure",

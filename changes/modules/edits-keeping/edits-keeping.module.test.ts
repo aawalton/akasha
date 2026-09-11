@@ -14,10 +14,17 @@ import {
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
 import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import { listedByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  noPathsFiled,
+  pathFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 
 const PAGE = "akasha/agents/pages/tester.agent.ts"
+
+const PAGE_ID = "01a08cd2-f750-7000-a7d8-000000000001"
 
 const AT = "akasha/agents/pages/tester.agent.edits.uncommitted.jsonl"
 
@@ -238,6 +245,16 @@ test("an append leaves no ref and writes no git object", () => {
   appendEdits(root, PAGE, [adding(ONE, "a\n")])
 
   expect(gitIn(root, ["for-each-ref", "--format=%(refname)", "refs/akasha/**"]).trim()).toBe("")
+})
+
+test("the first file a row opens is filed in the path index", () => {
+  const root = rootFor()
+  noPathsFiled(root)
+  pathFiled(root, PAGE, [{ path: PAGE, id: PAGE_ID }])
+
+  appendEdits(root, PAGE, [adding(ONE, "a\n")])
+
+  expect(listedByPath(root, AT).map((one) => one.path)).toEqual([PAGE])
 })
 
 test("a row past the ceiling is alone and the row after it opens the next file", () => {

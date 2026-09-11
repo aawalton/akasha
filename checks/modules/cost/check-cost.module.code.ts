@@ -206,7 +206,9 @@ export function fillingAt(
     part += 1
     found = next
   }
-  if (sizeOnDisk(join(root, found)) + adding <= ENTRY_CEILING) {
+  const size = sizeOnDisk(join(root, found))
+  if (size === 0) return { at: found, opened: true }
+  if (size + adding <= ENTRY_CEILING) {
     return { at: found, opened: false }
   }
   const next = partAt(page, under, part + 1)

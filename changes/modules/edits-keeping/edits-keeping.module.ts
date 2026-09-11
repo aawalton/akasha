@@ -75,7 +75,7 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A file that roll opens is filed in the path index once the row reaches it.",
+      statement: "A file a row opens is filed in the path index once that row reaches the file.",
     },
     {
       invariantKind: "departure",
