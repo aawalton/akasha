@@ -57,10 +57,6 @@ export const noTmp = {
       statement: "A reach for /tmp through an environment read is not seen.",
     },
     {
-      invariantKind: "gap",
-      statement: "A reach for /tmp through a re-export is not seen.",
-    },
-    {
       invariantKind: "absence",
       statement: "A reach for /tmp outside TypeScript is not seen.",
     },
