@@ -76,6 +76,11 @@ export const noRelativeSpecifier = {
       invariantKind: "absence",
       statement: "A specifier written into a page's prose is not read here.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A `./+types/` specifier is resolved by tsconfig rootDirs, so it cannot be spelled from the root.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 20 },

@@ -83,3 +83,19 @@ test("a body spelling no quote before a dot and a slash is let through unparsed"
 
   expect(reasonsIn(given(AT, body))).toEqual([])
 })
+
+test("a generated route types specifier is let through", () => {
+  const body = 'import type { Route } from "./+types/root"\n'
+
+  expect(reasonsIn(given(AT, body))).toEqual([])
+})
+
+test("a folder merely opening with a plus is refused, and so is a parent's `+types`", () => {
+  const body = [
+    'import { one } from "./+held/root"',
+    'import { two } from "../+types/root"',
+    'import { three } from "./+typesish/root"',
+  ].join("\n")
+
+  expect(reasonsIn(given(AT, body))).toHaveLength(3)
+})

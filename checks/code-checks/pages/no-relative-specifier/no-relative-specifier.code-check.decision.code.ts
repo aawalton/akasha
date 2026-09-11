@@ -13,11 +13,14 @@ const SPELT = /["'`]\.\.?\//
 
 const ROOT = "akasha"
 
+const GENERATED = "./+types/"
+
 function found(path: string, text: string): readonly string[] {
   if (!SPELT.test(text)) return []
   const said: string[] = []
   for (const one of specifiersIn(path, text)) {
     if (!RELATIVE.test(one)) continue
+    if (one.startsWith(GENERATED)) continue
     said.push(`\`${one}\` names a file by a relative path rather than from \`${ROOT}\``)
   }
   return said
