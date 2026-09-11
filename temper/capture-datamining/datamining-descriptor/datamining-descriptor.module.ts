@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const dataminingDescriptor = {
   id: "01a0608a-15b1-7b7c-a207-279aad7165d2",
