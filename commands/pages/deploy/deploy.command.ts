@@ -20,6 +20,7 @@ export const deploy = {
     "module/deploy-device-installing",
     "module/deploy-inference-installing",
     "module/deploy-addon-installing",
+    "module/deploy-bundle-publishing",
   ],
   taking: [
     {
@@ -87,6 +88,9 @@ export const deploy = {
     "each sibling folder the addon's manifest declares is replaced beside it, and every file written is verified against its source by sha256.",
     "a folder in the game carrying no build stamp was installed by something else, and it is left alone or refused rather than deleted.",
     "`--dry-run` belongs to an ESO addon too, and it says where the addon is built from and what it is placed as, touching neither.",
+    "a web app whose page states an addon bundle image has every addon compiled, packed and pushed to the registry before the app is put up.",
+    "the bundle image is named by the hash of the archive inside, so a commit changing no addon publishes no new image.",
+    "the tag naming that image lands as its own commit once the push is done, and the app is then built from the commit that tag is in.",
   ],
   invariants: [
     {
@@ -193,6 +197,14 @@ export const deploy = {
     {
       invariantKind: "departure",
       statement: "A folder in the game nothing here wrote is never deleted on missing evidence.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A web app whose page states an addon bundle image publishes that bundle first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The bundle is published before the web app serving it is put up.",
     },
   ],
 } as const satisfies Command

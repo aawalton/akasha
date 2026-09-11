@@ -10,7 +10,10 @@ import {
   compilerEntry,
   compilerRoot,
 } from "akasha/temper/addon-build/lua-build-command/lua-build-command.module.code.ts"
-import { ADDONS_REL_ROOT } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
+import {
+  ADDONS_REL_ROOT,
+  listAllAddons,
+} from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import {
   readSiblingAddonNames,
   siblingDistDir,
@@ -107,6 +110,28 @@ export async function compiledAddon(
 
   return {
     lines: [`compiled ${canonicalName}, ${String(bytes)} byte(s) of Lua at ${bundle}`],
+    refusals: [],
+  }
+}
+
+export async function compiledEveryAddon(root: string): Promise<Compiled> {
+  const roster = listAllAddons({ repoRoot: root })
+  if (roster.length === 0) {
+    return refusing(
+      `${root} holds no addon carrying a manifest, so a run here would compile nothing`
+    )
+  }
+  const named = [...roster].sort((left, right) =>
+    left.canonicalName.localeCompare(right.canonicalName)
+  )
+  let bytes = 0
+  for (const one of named) {
+    const done = await compiledAddon(root, one.dir, one.canonicalName)
+    if (done.refusals.length > 0) return done
+    bytes += bytesAt(bundlePathFor(root, one.canonicalName))
+  }
+  return {
+    lines: [`compiled ${String(named.length)} addon(s), ${String(bytes)} byte(s) of Lua`],
     refusals: [],
   }
 }

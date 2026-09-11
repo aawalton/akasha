@@ -1,7 +1,8 @@
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
 import { putUpAddon } from "akasha/commands/pages/deploy/deploy-addon-installing/deploy-addon-installing.module.code.ts"
+import { publishedBundleFor } from "akasha/commands/pages/deploy/deploy-bundle-publishing/deploy-bundle-publishing.module.code.ts"
 import { installedOnDevice } from "akasha/commands/pages/deploy/deploy-device-installing/deploy-device-installing.module.code.ts"
 import { pushedImage } from "akasha/commands/pages/deploy/deploy-image-pushing/deploy-image-pushing.module.code.ts"
 import { putUpInferenceService } from "akasha/commands/pages/deploy/deploy-inference-installing/deploy-inference-installing.module.code.ts"
@@ -26,6 +27,7 @@ import { putUpService } from "akasha/services/workstation-services/service-putti
 
 const INPUT = 1
 const DATA = 2
+const OPERATIONAL = 3
 const DRY_RUN = "--dry-run"
 const NO_UPLOAD = "--no-upload"
 const MEASURED = "--measured"
@@ -168,5 +170,11 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
     if ("refused" in servable) return refused(servable.refused, DATA)
     return appliedWorkload(given.root, slug, servable.servable, rest.includes(DRY_RUN))
   }
-  return putUpWebApp(slug, given, rest.includes(DRY_RUN))
+  const bundle = await publishedBundleFor(given.root, slug, rest.includes(DRY_RUN))
+  if (bundle !== null && bundle.refusals.length > 0) {
+    return answering(bundle.lines, bundle.refusals, OPERATIONAL)
+  }
+  const up = await putUpWebApp(slug, given, rest.includes(DRY_RUN))
+  if (bundle === null) return up
+  return answering([...bundle.lines, ...up.report], up.refusals, up.code)
 }

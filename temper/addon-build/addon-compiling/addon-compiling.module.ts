@@ -5,7 +5,7 @@ export const addonCompiling = {
   pageTypeSlug: "module",
   type: "module",
   slug: "addon-compiling",
-  definition: "one addon transpiled to Lua, with what it ships written back beside that Lua",
+  definition: "an addon transpiled to Lua, with what it ships written back beside that Lua",
   code: "ts",
   invariants: [
     {
@@ -39,6 +39,19 @@ export const addonCompiling = {
     {
       invariantKind: "departure",
       statement: "The compile is bounded at an hour.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The whole roster is compiled in the order the canonical names sort.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The first addon that does not compile ends a run over the roster.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run over the roster is answered as the count and the bytes rather than each line.",
     },
     {
       invariantKind: "absence",
