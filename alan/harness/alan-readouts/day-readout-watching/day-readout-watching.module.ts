@@ -82,6 +82,10 @@ export const dayReadoutWatching = {
     },
     {
       invariantKind: "departure",
+      statement: "The day followed is the day Alan opened rather than the day on the clock.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The folder the day folders sit in is followed for a day folder appearing.",
     },
     {

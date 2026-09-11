@@ -1,10 +1,11 @@
-import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import { sleepIn } from "akasha/alan/harness/readouts/pages/upkeep-sleep/upkeep-sleep.readout.code.ts"
 import {
   keepReading,
   readoutPage,
 } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
+import { openedDayOf } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "akasha/alan/track/daily/day-reading/day-reading.module.code.ts"
+import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 export const READOUT_SLUG = "upkeep-sleep"
@@ -14,7 +15,7 @@ export const NOTHING_TO_TAKE =
   "right where a tile showing a night Alan did not have would be a lie."
 
 export async function takeReading(root: string, now: Date = new Date()): Promise<number | null> {
-  const asked = await askDayByDate(getEsoDayStr(now))
+  const asked = await askDayByDate(openedDayOf(resolveRoots(), now))
   if (!asked.ok) {
     throw new Error(
       `the tracking day could not be read, so the sleep is unknown rather than nothing: ${asked.why}`

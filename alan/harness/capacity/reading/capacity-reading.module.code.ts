@@ -1,4 +1,3 @@
-import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import {
   capacityHoursOf,
   capacityIn,
@@ -7,8 +6,10 @@ import {
   keepReading,
   readoutPage,
 } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
+import { openedDayOf } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
 import { dayValuesByDate } from "akasha/alan/track/daily/day-reading/day-reading.module.code.ts"
 import { sessionsOfDay } from "akasha/alan/track/daily/day-stretches/day-stretches.module.code.ts"
+import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 export const READOUT_SLUG = "upkeep-capacity"
@@ -46,7 +47,7 @@ export const NOTHING_TO_TAKE =
   "signal is right where a tile showing capacity Alan does not have would be a lie."
 
 export async function takeReading(root: string, now: Date = new Date()): Promise<number | null> {
-  const day = await dayValuesByDate(getEsoDayStr(now), [ID])
+  const day = await dayValuesByDate(openedDayOf(resolveRoots(), now), [ID])
   if (day === null) return null
   const dayId = day[ID]
   if (typeof dayId !== "string" || dayId.trim() === "") return null

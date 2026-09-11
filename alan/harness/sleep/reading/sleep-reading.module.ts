@@ -22,6 +22,10 @@ export const sleepReading = {
     },
     {
       invariantKind: "departure",
+      statement: "The day read is the day Alan opened rather than the day on the clock.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A day moved into akasha is read from akasha.",
     },
     {

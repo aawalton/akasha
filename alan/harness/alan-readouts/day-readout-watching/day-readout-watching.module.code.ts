@@ -16,10 +16,7 @@ import {
   READOUT_SLUG as COST_SLUG,
   takeReading as takeCost,
 } from "akasha/alan/harness/cost/reading/cost-reading.module.code.ts"
-import {
-  getEsoDayStr,
-  getEsoDayWindow,
-} from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { getEsoDayWindow } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import {
   takeReadings as takeInboxes,
   tasksPage,
@@ -51,6 +48,7 @@ import {
   READOUT_SLUG as SURPLUS_SLUG,
   takeReading as takeSurplus,
 } from "akasha/alan/harness/surplus/reading/surplus-reading.module.code.ts"
+import { openedDayOf } from "akasha/alan/track/daily/day-opening/day-opening.module.code.ts"
 import { DAY_PAGE_TYPE } from "akasha/alan/track/daily/day-place/day-place.module.code.ts"
 import {
   AKASHA,
@@ -261,8 +259,9 @@ export function watchDayReadings(
   said: WatchLogger,
   ended: (thrown: unknown) => undefined
 ): () => undefined {
-  const root = rootFor(resolveRoots(), AKASHA)
-  let day = getEsoDayStr(new Date())
+  const roots = resolveRoots()
+  const root = rootFor(roots, AKASHA)
+  let day = openedDayOf(roots, new Date())
   let watched = dayReadouts(root, day)
 
   const beat = (silent: ReadonlySet<string>, at: Date): undefined => {
@@ -284,7 +283,7 @@ export function watchDayReadings(
   }, BEAT_MS)
 
   const renew = (): undefined => {
-    const opened = getEsoDayStr(new Date())
+    const opened = openedDayOf(roots, new Date())
     if (opened === day && running.unfollowed.length === 0) return undefined
     day = opened
     running.stop()

@@ -22,6 +22,10 @@ export const capacityReading = {
     },
     {
       invariantKind: "departure",
+      statement: "The day read is the day Alan opened rather than the day on the clock.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The stretches are reached through the module saying where a day is kept.",
     },
     {
