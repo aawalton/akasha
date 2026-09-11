@@ -8,17 +8,14 @@ import type { MentionResolver } from "akasha/pages/ui/markdown/remark-mentions/r
 import { remarkMentions } from "akasha/pages/ui/markdown/remark-mentions/remark-mentions.module.code.ts"
 import { remarkSectionize } from "akasha/pages/ui/markdown/remark-sectionize/remark-sectionize.module.code.ts"
 import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
+import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 import type { ReactNode } from "react"
 import { useMemo } from "react"
 import type { Components } from "react-markdown"
 import ReactMarkdown from "react-markdown"
 import remarkGfm from "remark-gfm"
 
-function asOptionalString(value: unknown): string | undefined {
-  return typeof value === "string" ? value : undefined
-}
-
-function spaceYForDepth(depthAttr: string | undefined): string {
+function spaceYForDepth(depthAttr: string | null): string {
   switch (depthAttr) {
     case "1":
       return "space-y-6"
@@ -66,7 +63,7 @@ function PreBlock({ children }: { children?: ReactNode }) {
 const DEFAULT_COMPONENTS: Components = {
   section: ({ children, className, ...rest }) => {
     const restRecord: Readonly<Record<string, unknown>> = rest
-    const depthAttr = asOptionalString(restRecord["data-depth"])
+    const depthAttr = stringIn(restRecord["data-depth"])
     return (
       <section className={cn(spaceYForDepth(depthAttr), className)} {...rest}>
         {children}
@@ -126,7 +123,7 @@ export function MarkdownRenderer({
         <MentionChip
           mentionType={parseString(props.mentionType)}
           mentionId={parseString(props.mentionId)}
-          mentionAnchor={asOptionalString(props.mentionAnchor)}
+          mentionAnchor={stringIn(props.mentionAnchor) ?? undefined}
           resolver={resolver}
         />
       ),

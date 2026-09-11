@@ -1,5 +1,6 @@
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
+import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 
 export const SERVICE_TYPES = ["nextjs", "bun-service", "tool-image"] as const
 export type ServiceType = (typeof SERVICE_TYPES)[number]
@@ -55,10 +56,6 @@ function asStringArrayOrUndefined(value: unknown): readonly string[] | undefined
   return value.filter((v): v is string => typeof v === "string")
 }
 
-function asStringOrUndefined(value: unknown): string | undefined {
-  return typeof value === "string" ? value : undefined
-}
-
 function asBooleanOrUndefined(value: unknown): boolean | undefined {
   return typeof value === "boolean" ? value : undefined
 }
@@ -97,11 +94,11 @@ export function parseDockerfileExtensions(value: unknown): DockerfileExtensions 
     config_files: asStringArrayOrUndefined(value.config_files),
     source_dirs: asStringArrayOrUndefined(value.source_dirs),
     bulk_app_copy: asBooleanOrUndefined(value.bulk_app_copy),
-    runtime_stage_alias: asStringOrUndefined(value.runtime_stage_alias),
+    runtime_stage_alias: stringIn(value.runtime_stage_alias) ?? undefined,
     copy_public_before_standalone: asBooleanOrUndefined(value.copy_public_before_standalone),
     no_supabase_url: asBooleanOrUndefined(value.no_supabase_url),
-    base_image: asStringOrUndefined(value.base_image),
-    runtime_image: asStringOrUndefined(value.runtime_image),
+    base_image: stringIn(value.base_image) ?? undefined,
+    runtime_image: stringIn(value.runtime_image) ?? undefined,
     runtime_cmd: asStringArrayOrUndefined(value.runtime_cmd),
     no_standalone_copy: asBooleanOrUndefined(value.no_standalone_copy),
     no_default_build_args: asBooleanOrUndefined(value.no_default_build_args),
@@ -110,12 +107,12 @@ export function parseDockerfileExtensions(value: unknown): DockerfileExtensions 
     extra_run_commands: asStringArrayOrUndefined(value.extra_run_commands),
     expose_port: parseNumber(value.expose_port),
     extra_source_copies: asStringArrayOrUndefined(value.extra_source_copies),
-    healthcheck: asStringOrUndefined(value.healthcheck),
-    install_flags: asStringOrUndefined(value.install_flags),
+    healthcheck: stringIn(value.healthcheck) ?? undefined,
+    install_flags: stringIn(value.install_flags) ?? undefined,
     no_build_step: asBooleanOrUndefined(value.no_build_step),
     no_tsconfig_base: asBooleanOrUndefined(value.no_tsconfig_base),
-    output_filename: asStringOrUndefined(value.output_filename),
-    run_as_user: asStringOrUndefined(value.run_as_user),
+    output_filename: stringIn(value.output_filename) ?? undefined,
+    run_as_user: stringIn(value.run_as_user) ?? undefined,
     external_donors: asExternalDonorsOrUndefined(value.external_donors),
   }
 }
