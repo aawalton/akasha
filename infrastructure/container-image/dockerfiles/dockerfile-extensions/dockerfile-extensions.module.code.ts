@@ -1,3 +1,4 @@
+import { asBoolean } from "akasha/utils/narrow/as-boolean/as-boolean.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
@@ -56,10 +57,6 @@ function asStringArrayOrUndefined(value: unknown): readonly string[] | undefined
   return value.filter((v): v is string => typeof v === "string")
 }
 
-function asBooleanOrUndefined(value: unknown): boolean | undefined {
-  return typeof value === "boolean" ? value : undefined
-}
-
 function asExternalDonorsOrUndefined(
   value: unknown
 ): readonly { readonly name: string; readonly image: string }[] | undefined {
@@ -93,24 +90,24 @@ export function parseDockerfileExtensions(value: unknown): DockerfileExtensions 
     extra_runtime_copies: asStringArrayOrUndefined(value.extra_runtime_copies),
     config_files: asStringArrayOrUndefined(value.config_files),
     source_dirs: asStringArrayOrUndefined(value.source_dirs),
-    bulk_app_copy: asBooleanOrUndefined(value.bulk_app_copy),
+    bulk_app_copy: asBoolean(value.bulk_app_copy),
     runtime_stage_alias: stringIn(value.runtime_stage_alias) ?? undefined,
-    copy_public_before_standalone: asBooleanOrUndefined(value.copy_public_before_standalone),
-    no_supabase_url: asBooleanOrUndefined(value.no_supabase_url),
+    copy_public_before_standalone: asBoolean(value.copy_public_before_standalone),
+    no_supabase_url: asBoolean(value.no_supabase_url),
     base_image: stringIn(value.base_image) ?? undefined,
     runtime_image: stringIn(value.runtime_image) ?? undefined,
     runtime_cmd: asStringArrayOrUndefined(value.runtime_cmd),
-    no_standalone_copy: asBooleanOrUndefined(value.no_standalone_copy),
-    no_default_build_args: asBooleanOrUndefined(value.no_default_build_args),
+    no_standalone_copy: asBoolean(value.no_standalone_copy),
+    no_default_build_args: asBoolean(value.no_default_build_args),
     system_packages: asStringArrayOrUndefined(value.system_packages),
-    single_stage: asBooleanOrUndefined(value.single_stage),
+    single_stage: asBoolean(value.single_stage),
     extra_run_commands: asStringArrayOrUndefined(value.extra_run_commands),
     expose_port: parseNumber(value.expose_port),
     extra_source_copies: asStringArrayOrUndefined(value.extra_source_copies),
     healthcheck: stringIn(value.healthcheck) ?? undefined,
     install_flags: stringIn(value.install_flags) ?? undefined,
-    no_build_step: asBooleanOrUndefined(value.no_build_step),
-    no_tsconfig_base: asBooleanOrUndefined(value.no_tsconfig_base),
+    no_build_step: asBoolean(value.no_build_step),
+    no_tsconfig_base: asBoolean(value.no_tsconfig_base),
     output_filename: stringIn(value.output_filename) ?? undefined,
     run_as_user: stringIn(value.run_as_user) ?? undefined,
     external_donors: asExternalDonorsOrUndefined(value.external_donors),
