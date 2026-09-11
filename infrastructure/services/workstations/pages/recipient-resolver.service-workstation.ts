@@ -7,9 +7,7 @@ export const recipientResolver = {
   slug: "recipient-resolver",
   definition:
     "the service resolving each message's recipient and seating an agent in the seat named",
-  runs: [
-    "bun seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.code.ts",
-  ],
+  runs: [],
   starts: [{ code: "module/recipient-resolver-running" }],
   enabled: true,
   systemd: {
