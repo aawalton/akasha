@@ -1,7 +1,13 @@
-import { askComposed as askComposedThere } from "../store-page-asking/store-page-asking.module.code.ts"
-import type { Asked, ComposedQuery } from "../store-questioning/store-questioning.module.code.ts"
-import type { Fetcher, Sleeper } from "../store-reaching/store-reaching.module.code.ts"
-import { askedAsSpelled } from "../store-spelling/store-spelling.module.code.ts"
+import { askComposed as askComposedThere } from "akasha/pages/query/store-page-asking/store-page-asking.module.code.ts"
+import type {
+  Asked,
+  ComposedQuery,
+} from "akasha/pages/query/store-questioning/store-questioning.module.code.ts"
+import type {
+  Fetcher,
+  Sleeper,
+} from "akasha/pages/query/store-reaching/store-reaching.module.code.ts"
+import { askedAsSpelled } from "akasha/pages/query/store-spelling/store-spelling.module.code.ts"
 
 export async function askComposed(
   query: ComposedQuery,

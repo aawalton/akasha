@@ -1,11 +1,14 @@
 import { expect, test } from "bun:test"
-import type { Asked, ComposedQuery } from "../store-questioning/store-questioning.module.code.ts"
+import type {
+  Asked,
+  ComposedQuery,
+} from "akasha/pages/query/store-questioning/store-questioning.module.code.ts"
 import {
   askedAsSpelled,
   bothSpellings,
   storeSpelled,
   unfoundIn,
-} from "./store-spelling.module.code.ts"
+} from "akasha/pages/query/store-spelling/store-spelling.module.code.ts"
 
 function answering(
   matched: number,

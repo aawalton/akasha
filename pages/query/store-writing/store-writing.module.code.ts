@@ -4,7 +4,7 @@ import {
   postingTo,
   sleep,
   WRITE_CEILING_MS,
-} from "../store-reaching/store-reaching.module.code.ts"
+} from "akasha/pages/query/store-reaching/store-reaching.module.code.ts"
 
 export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
 

@@ -9,8 +9,8 @@ import {
   pagesFetcher,
   postingTo,
   worthRetrying,
-} from "./store-reaching.module.code.ts"
-import { noNap } from "./store-reaching.module.test-fixtures.ts"
+} from "akasha/pages/query/store-reaching/store-reaching.module.code.ts"
+import { noNap } from "akasha/pages/query/store-reaching/store-reaching.module.test-fixtures.ts"
 
 function answering(status: number, body: unknown): Fetcher {
   return async () =>

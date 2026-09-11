@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import type { Fetcher } from "../store-reaching/store-reaching.module.code.ts"
-import { noNap } from "../store-reaching/store-reaching.module.test-fixtures.ts"
-import { askComposed } from "./store-spelled-asking.module.code.ts"
+import type { Fetcher } from "akasha/pages/query/store-reaching/store-reaching.module.code.ts"
+import { noNap } from "akasha/pages/query/store-reaching/store-reaching.module.test-fixtures.ts"
+import { askComposed } from "akasha/pages/query/store-spelled-asking/store-spelled-asking.module.code.ts"
 
 function answering(rows: readonly Record<string, unknown>[]): {
   fetcher: Fetcher

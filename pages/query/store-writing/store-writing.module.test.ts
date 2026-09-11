@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Fetcher } from "../store-reaching/store-reaching.module.code.ts"
-import { noNap } from "../store-reaching/store-reaching.module.test-fixtures.ts"
+import type { Fetcher } from "akasha/pages/query/store-reaching/store-reaching.module.code.ts"
+import { noNap } from "akasha/pages/query/store-reaching/store-reaching.module.test-fixtures.ts"
 import {
   patchFiles,
   patchPage,
@@ -17,7 +17,7 @@ import {
   writePage,
   writeRow,
   writeRows,
-} from "./store-writing.module.code.ts"
+} from "akasha/pages/query/store-writing/store-writing.module.code.ts"
 
 const WRITER = "Amy <amy@alanwalton.com>"
 

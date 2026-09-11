@@ -4,13 +4,13 @@ import {
   type ComposedQuery,
   askComposed as composedAnswer,
   type QueryRow,
-} from "../store-questioning/store-questioning.module.code.ts"
+} from "akasha/pages/query/store-questioning/store-questioning.module.code.ts"
 import {
   type Fetcher,
   pagesFetcher,
   type Sleeper,
   sleep,
-} from "../store-reaching/store-reaching.module.code.ts"
+} from "akasha/pages/query/store-reaching/store-reaching.module.code.ts"
 
 export async function askComposed(
   query: ComposedQuery,
