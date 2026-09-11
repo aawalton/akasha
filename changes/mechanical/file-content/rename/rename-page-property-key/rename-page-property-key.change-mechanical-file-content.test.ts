@@ -3,6 +3,7 @@ import {
   respelled,
   runChange,
 } from "akasha/changes/mechanical/file-content/rename/rename-page-property-key/rename-page-property-key.change-mechanical-file-content.code.ts"
+import { BODY } from "akasha/changes/mechanical/file-content/rename/rename-page-property-key/rename-page-property-key.change-mechanical-file-content.test-fixtures.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   bodyOf,
@@ -10,17 +11,6 @@ import {
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const AT = "akasha/held/kept.page-type.ts"
-
-const BODY = `import type { PageType } from "../../pages/types/page-type.page-type.ts"
-
-export const kept = {
-  id: "01a072c8-f35d-7ffc-afc3-75b72460b059",
-  pageTypeSlug: "page-type",
-  slug: "kept",
-  pluralSlug: "kepts",
-  partSlugs: ["kept/one"],
-} as const satisfies PageType
-`
 
 const RECORDS = `import type { Kept } from "./kept.page-type.ts"
 

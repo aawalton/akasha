@@ -12,6 +12,7 @@ export const renamePagePropertyKey = {
     "one key of a page's exported object, or of each record a key of it holds, spelled anew",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
