@@ -170,5 +170,18 @@ export const indexReading = {
       invariantKind: "departure",
       statement: "A caller naming a root is answered afresh.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The one page of a page type carrying a slug is answered with the value that page carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug no page of that page type carries refuses that answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page carrying no value refuses that answer too.",
+    },
   ],
 } as const satisfies Module

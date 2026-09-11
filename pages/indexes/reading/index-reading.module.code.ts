@@ -357,6 +357,18 @@ export function valuesByPath(
   return pathed(given, pageTypeSlug)
 }
 
+export function valuedAt(given: string | Reading, pageTypeSlug: string, slug: string): Valued {
+  const listed = listedAt(given, pageTypeSlug, slug)[0]
+  if (listed === undefined) {
+    throw new Error(`no \`${pageTypeSlug}\` page carries the slug \`${slug}\``)
+  }
+  const value = valuesByPath(given, pageTypeSlug).get(listed.path)
+  if (value === undefined) {
+    throw new Error(`\`${listed.path}\` is filed under \`${pageTypeSlug}\` and carries no value`)
+  }
+  return { path: listed.path, value }
+}
+
 export function slugsOfType(given: string | Reading, pageTypeSlug: string): readonly string[] {
   const found = new Set<string>()
   for (const one of valuesOfType(given, pageTypeSlug)) {

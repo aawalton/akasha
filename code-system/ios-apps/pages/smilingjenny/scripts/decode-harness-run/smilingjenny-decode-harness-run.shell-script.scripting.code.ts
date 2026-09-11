@@ -1,6 +1,6 @@
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { fileOf, type Held } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
-import { listedAt, valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
+import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { slugsIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { upFrom } from "akasha/utils/narrow/up-from/up-from.module.code.ts"
@@ -23,33 +23,19 @@ const COMPONENTS = "components"
 
 const UNDER = "$AKASHA_ROOT/"
 
-function pageOf(given: string | Reading, pageTypeSlug: string, slug: string): Held {
-  const listed = listedAt(given, pageTypeSlug, slug)[0]
-  if (listed === undefined) {
-    throw new Error(
-      `no \`${pageTypeSlug}\` page carries the slug \`${slug}\`, so this script names nothing`
-    )
-  }
-  const value = valuesByPath(given, pageTypeSlug).get(listed.path)
-  if (value === undefined) {
-    throw new Error(`\`${listed.path}\` is filed under \`${pageTypeSlug}\` and carries no value`)
-  }
-  return { path: listed.path, value }
-}
-
 export function componentSwiftIn(given: string | Reading): readonly string[] {
-  const program = pageOf(given, PROGRAM, DECODING)
+  const program = valuedAt(given, PROGRAM, DECODING)
   return slugsIn(program.value[exportedAs(COMPONENTS)]).map((slug) =>
-    fileOf(given, pageOf(given, COMPONENT, slug), COMPONENT, SWIFT)
+    fileOf(given, valuedAt(given, COMPONENT, slug), COMPONENT, SWIFT)
   )
 }
 
 export function mainSwiftIn(given: string | Reading): string {
-  return fileOf(given, pageOf(given, PROGRAM, DECODING), PROGRAM, MAIN)
+  return fileOf(given, valuedAt(given, PROGRAM, DECODING), PROGRAM, MAIN)
 }
 
 export function scriptIn(given: string | Reading): string {
-  const own = pageOf(given, SCRIPT, OWN)
+  const own = valuedAt(given, SCRIPT, OWN)
   const lines = [
     "#!/usr/bin/env bash",
     "set -euo pipefail",

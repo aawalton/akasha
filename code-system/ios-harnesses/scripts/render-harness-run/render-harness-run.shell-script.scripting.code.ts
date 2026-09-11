@@ -1,8 +1,8 @@
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { fileOf, type Held } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
+import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import {
   listedAt,
-  valuesByPath,
+  valuedAt,
   valuesOfType,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
@@ -35,24 +35,10 @@ const WIDGET = "-widget"
 
 const UNDER = "$AKASHA_ROOT/"
 
-function pageOf(given: string | Reading, pageTypeSlug: string, slug: string): Held {
-  const listed = listedAt(given, pageTypeSlug, slug)[0]
-  if (listed === undefined) {
-    throw new Error(
-      `no \`${pageTypeSlug}\` page carries the slug \`${slug}\`, so this script names nothing`
-    )
-  }
-  const value = valuesByPath(given, pageTypeSlug).get(listed.path)
-  if (value === undefined) {
-    throw new Error(`\`${listed.path}\` is filed under \`${pageTypeSlug}\` and carries no value`)
-  }
-  return { path: listed.path, value }
-}
-
 export function componentSwiftIn(given: string | Reading, programSlug: string): readonly string[] {
-  const program = pageOf(given, PROGRAM, programSlug)
+  const program = valuedAt(given, PROGRAM, programSlug)
   return slugsIn(program.value[exportedAs(COMPONENTS)]).map((slug) =>
-    fileOf(given, pageOf(given, COMPONENT, slug), COMPONENT, SWIFT)
+    fileOf(given, valuedAt(given, COMPONENT, slug), COMPONENT, SWIFT)
   )
 }
 
@@ -140,8 +126,8 @@ function opening(): readonly string[] {
 }
 
 function staging(given: string | Reading, apps: readonly string[]): readonly string[] {
-  const own = pageOf(given, SCRIPT, OWN)
-  const drawing = pageOf(given, HARNESS, DRAWING)
+  const own = valuedAt(given, SCRIPT, OWN)
+  const drawing = valuedAt(given, HARNESS, DRAWING)
   return [
     "HARNESS_SWIFT=()",
     'MAIN_SWIFT=""',
