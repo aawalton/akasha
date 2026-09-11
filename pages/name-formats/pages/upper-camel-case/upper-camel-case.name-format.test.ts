@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { upperCamelCase } from "./upper-camel-case.name-format.code.ts"
+import { upperCamelCase } from "akasha/pages/name-formats/pages/upper-camel-case/upper-camel-case.name-format.code.ts"
 
 test("words run together with every one starting capital", () => {
   expect(upperCamelCase("Page")).toBe(true)
