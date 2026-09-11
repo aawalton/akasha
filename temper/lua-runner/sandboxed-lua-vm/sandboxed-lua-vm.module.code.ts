@@ -1,5 +1,8 @@
 import { readFileSync } from "node:fs"
-import { resolve } from "node:path"
+import { join } from "node:path"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   luaLongStringLiteral,
   luaStringLiteral,
@@ -7,15 +10,27 @@ import {
 } from "akasha/temper/lua-runner/lua-marshal/lua-marshal.module.code.ts"
 import { makeLuaVm } from "akasha/temper/lua-runner/lua-vm/lua-vm.module.code.ts"
 
-const PRELUDE_PATH = resolve(
-  import.meta.dir,
-  "../eso-sandbox-prelude/eso-sandbox-prelude.lua-module.lua.lua"
-)
+const LUA_MODULE = "lua-module"
+
+const LUA = "lua"
+
+const PRELUDE_SLUG = "eso-sandbox-prelude"
 
 let cachedPrelude: string | null = null
 
+function preludePathIn(root: string): string {
+  const page = listedAt(root, LUA_MODULE, PRELUDE_SLUG)[0]
+  const at = page === undefined ? null : besideAt(page.path, LUA, LUA)
+  if (at === null) {
+    throw new Error(
+      `no \`${LUA_MODULE}\` is slugged \`${PRELUDE_SLUG}\`, so no sandbox would come up`
+    )
+  }
+  return join(root, at)
+}
+
 function preludeText(): string {
-  if (cachedPrelude === null) cachedPrelude = readFileSync(PRELUDE_PATH, "utf8")
+  if (cachedPrelude === null) cachedPrelude = readFileSync(preludePathIn(akashaRoot()), "utf8")
   return cachedPrelude
 }
 
