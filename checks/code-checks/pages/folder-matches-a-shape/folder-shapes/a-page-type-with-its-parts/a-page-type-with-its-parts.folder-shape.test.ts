@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { folderFrom } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
+import {
+  folderFrom,
+  holdsAt,
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
 import { aPageTypeWithItsParts } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.code.ts"
 import type { Declaring } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
 
@@ -15,12 +18,6 @@ const DECLARING: Declaring = {
   slug: "model",
   pluralSlug: "models",
   propertySlugs: new Set<string>(),
-}
-
-function holdsAt(at: string): readonly string[] {
-  if (at.endsWith("/families")) return ["page-type/model-humming"]
-  if (at.endsWith("/stray")) return ["domain/other"]
-  return []
 }
 
 function judgedBy(

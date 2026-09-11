@@ -29,6 +29,12 @@ export function grouping(under: Readonly<Record<string, readonly string[]>>): Gr
   }
 }
 
+export function holdsAt(at: string): readonly string[] {
+  if (at.endsWith("/families")) return ["page-type/model-humming"]
+  if (at.endsWith("/stray")) return ["domain/other"]
+  return []
+}
+
 function groupedBy(files: readonly string[]): Grouped {
   const sitting = new Map<string, string[]>()
   const beneath = new Map<string, Set<string>>()

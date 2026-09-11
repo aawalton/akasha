@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { folderFrom } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
+import {
+  folderFrom,
+  holdsAt,
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
 import { aDomainWithItsParts } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.code.ts"
 
 const FOLDER = "akasha/models"
@@ -9,12 +12,6 @@ const PAGE_TYPES = new Set<string>(["domain", "page-type", "module", "seat"])
 const DOMAINS = new Set<string>(["domain", "page-type", "module"])
 
 const DECLARED = new Set<string>(["page-type/model-humming", "module/model-asking"])
-
-function holdsAt(at: string): readonly string[] {
-  if (at.endsWith("/families")) return ["page-type/model-humming"]
-  if (at.endsWith("/stray")) return ["domain/other"]
-  return []
-}
 
 function judged(deep: readonly string[], names: readonly string[]): readonly string[] {
   const made = folderFrom({
