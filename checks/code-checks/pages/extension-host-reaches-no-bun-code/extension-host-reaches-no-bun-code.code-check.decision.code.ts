@@ -18,9 +18,9 @@ import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 import ts from "typescript"
 
-const PACKAGE = "workspace-package"
+const LINKED_TYPE = "domain"
 
-const EXTENSION = "ops-extension"
+const LINKED = "akasha"
 
 const MANIFEST_PROPERTY = "manifest"
 
@@ -30,11 +30,11 @@ export type Indexing = {
 }
 
 export function manifestIn(index: Indexing): string {
-  const page = index.listedAt(PACKAGE, EXTENSION)[0]
+  const page = index.listedAt(LINKED_TYPE, LINKED)[0]
   const named = index.fileKeysAt().get(MANIFEST_PROPERTY) ?? null
   if (page === undefined || named === null) {
     throw new Error(
-      `no \`${PACKAGE}\` is slugged \`${EXTENSION}\` carrying a \`${MANIFEST_PROPERTY}\`, ` +
+      `no \`${LINKED_TYPE}\` is slugged \`${LINKED}\` carrying a \`${MANIFEST_PROPERTY}\`, ` +
         "so what the host loads is unknown"
     )
   }
