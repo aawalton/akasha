@@ -35,6 +35,16 @@ export const nameSeries = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A rendered page imports the type file beside that page type rather than the page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A rendered page names its type and each run from the root rather than relatively.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The aggregate declares the whole set rather than re-exporting the runs.",
     },
     {

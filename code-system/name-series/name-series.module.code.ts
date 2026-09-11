@@ -1,10 +1,10 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
-import { dirname, join, relative, resolve } from "node:path"
+import { dirname, join, resolve } from "node:path"
 import {
   DataError,
   OperationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   everyOfType,
   listedById,
@@ -17,14 +17,26 @@ export const RUN_LINE_BUDGET_BYTES = 13_501
 
 const MODULE_PAGE_TYPE = "01a04a20-6e04-7b99-81a0-0efe0ad0a02a"
 
-function pageTypeAt(root: string): string {
+const ROOT = "akasha/"
+
+const TYPES = "types"
+
+const HOLDS = "ts"
+
+function typesAt(root: string): string {
   const listed = listedById(root, MODULE_PAGE_TYPE)
   if (listed === null) {
     throw new DataError(
       `no page carries the id \`${MODULE_PAGE_TYPE}\`, so a rendered page could import no type`
     )
   }
-  return listed.path
+  const beside = besideAt(listed.path, TYPES, HOLDS)
+  if (beside === null) {
+    throw new DataError(
+      `\`${listed.path}\` is under no TypeScript name, so a rendered page could import no type`
+    )
+  }
+  return `${ROOT}${beside}`
 }
 
 const encoder = new TextEncoder()
@@ -121,11 +133,10 @@ function pageIdFor(root: string, spec: SeriesSpec, slug: string): string {
 }
 
 function renderPageFile(root: string, spec: SeriesSpec, slug: string, definition: string): string {
-  const typeImport = relative(resolve(root, folderRel(spec, slug)), resolve(root, pageTypeAt(root)))
   const typeSlug = JSON.stringify(typeSlugOf(root, MODULE_PAGE_TYPE))
   return (
     [
-      `import type { Module } from "${typeImport}"`,
+      `import type { Module } from "${typesAt(root)}"`,
       "",
       `export const ${kebabToCamel(slug)} = {`,
       `  id: ${JSON.stringify(pageIdFor(root, spec, slug))},`,
@@ -167,7 +178,8 @@ function renderAggregate(root: string, spec: SeriesSpec, runs: number, width: nu
   const body = [
     ...each((i) => {
       const slug = runSlug(spec.stem, i, width)
-      return `import { ${runBinding(spec.binding, i, width)} } from "../${slug}/${slug}.module.code.ts"`
+      const at = `${ROOT}${codeRelOf(spec, slug)}`
+      return `import { ${runBinding(spec.binding, i, width)} } from "${at}"`
     }),
     "",
     `export const ${spec.binding}_PROVENANCE: readonly string[] = [`,
