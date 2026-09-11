@@ -33,11 +33,6 @@ export const nimueCodeCleanup = {
       workingMemory:
         "Declared: `www` on an ios app, `.react-router`, `dist` and `build` on a router app, `generated` on a manifest, `__pycache__` on a python module, `node_modules` on the workspace. `alan/web/generated` is gone; a synth writes beside its own `.manifest.code.ts`, which moved to `alan/web/alanwalton-web/`. Left is `temper/addons/dist`, which the addon build writes. A build folder is `dirname(page)` joined to `folderName`, so only a page at `temper/addons` claims it, and nothing authored sits there.",
     },
-    {
-      statement: "The check asking which page claims a file reads the build folder property.",
-      workingMemory:
-        "`file-has-its-page` reads a hardcoded `node_modules` today, and reading the property instead retires that constant and covers every build folder at once. `folder-matches-a-shape` has the same gap: it refuses the two ios app folders over their `www`, which is declared a build folder already. Both checks want the property rather than one.",
-    },
   ],
   constraints: [
     "The relative addresses reaching into the folder are repointed inside the move rather than by a landing before it.",
