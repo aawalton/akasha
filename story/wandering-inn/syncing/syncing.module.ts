@@ -6,6 +6,7 @@ export const syncing = {
   slug: "syncing",
   definition: "every chapter the wandering inn lists read and filed under the story",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

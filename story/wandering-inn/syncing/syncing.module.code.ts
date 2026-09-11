@@ -74,7 +74,7 @@ async function takeChapter(
     return
   }
 
-  const where = fileChapter({ position: listed.position, title, url, text })
+  const where = await fileChapter({ position: listed.position, title, url, text })
   console.log(`  ${at} chapter ${listed.position}: filed "${title}" at ${where}`)
   tally.created += 1
 }
