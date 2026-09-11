@@ -18,6 +18,7 @@ export const index = {
     "index/index-value",
     "module/path-naming",
     "module/path-claiming",
+    "module/property-file",
     "page-type/index",
     "module/index-entries",
     "module/indexing",
