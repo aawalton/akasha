@@ -3,6 +3,7 @@ import { entriesAt } from "akasha/pages/entries/page-entries.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
 import { queueAt } from "akasha/pages/entry-queue/page-entry-queue.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
 export const NOTIFICATION_FEED_PAGE_TYPE_SLUG = "notification-feed"
 
@@ -40,11 +41,6 @@ export interface Feed {
 export type Landed =
   | { readonly ok: true; readonly at: string }
   | { readonly ok: false; readonly why: string }
-
-function textIn(values: Readonly<Record<string, unknown>>, key: string): string | null {
-  const held = values[key]
-  return typeof held === "string" && held !== "" ? held : null
-}
 
 function rowsFor(page: string): readonly Readonly<Record<string, unknown>>[] {
   const read = entriesAt(akashaRoot(), page, NOTIFICATIONS, HELD, OUTSIDE_THE_COMMIT)
@@ -99,8 +95,8 @@ function everyRow(): readonly Held[] {
   const found: Held[] = []
   for (const one of valuesOfType(akashaRoot(), NOTIFICATION_FEED_PAGE_TYPE_SLUG)) {
     const feed: Feed = {
-      slug: textIn(one.value, "slug") ?? "",
-      id: textIn(one.value, "id") ?? "",
+      slug: textAt(one.value, "slug") ?? "",
+      id: textAt(one.value, "id") ?? "",
     }
     for (const row of rowsFor(one.path)) found.push({ feed, row })
   }
@@ -117,15 +113,15 @@ export async function readNotificationsAfter(sentAfter: string): Promise<readonl
   )
   const read: Notification[] = []
   for (const held of sorted.slice(0, NOTIFICATIONS_AT_ONCE)) {
-    const id = textIn(held.row, "id")
-    const sentAt = textIn(held.row, "sentAt")
+    const id = textAt(held.row, "id")
+    const sentAt = textAt(held.row, "sentAt")
     if (id === null || sentAt === null) continue
     read.push({
       id,
-      title: textIn(held.row, "title") ?? "",
-      body: textIn(held.row, "body") ?? "",
-      link: textIn(held.row, "link"),
-      kind: textIn(held.row, "kind"),
+      title: textAt(held.row, "title") ?? "",
+      body: textAt(held.row, "body") ?? "",
+      link: textAt(held.row, "link"),
+      kind: textAt(held.row, "kind"),
       sentAt,
       feed: held.feed,
     })
@@ -145,9 +141,9 @@ export async function newestOfKind(kind: string, atOnce: number): Promise<readon
   )
   const read: Sourced[] = []
   for (const held of sorted.slice(0, atOnce)) {
-    const sentAt = textIn(held.row, "sentAt")
+    const sentAt = textAt(held.row, "sentAt")
     if (sentAt === null) continue
-    read.push({ source: textIn(held.row, "source"), sentAt })
+    read.push({ source: textAt(held.row, "source"), sentAt })
   }
   return read
 }
