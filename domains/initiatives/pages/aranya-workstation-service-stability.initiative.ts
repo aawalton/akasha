@@ -11,7 +11,7 @@ export const aranyaWorkstationServiceStability = {
     {
       statement: "A change never breaks a workstation service.",
       workingMemory:
-        "Alan: two shapes of intervention make this true, and which one fits depends on the case — the change rewrites or refuses what it would break, or the deployed unit names nothing a change can move.\n",
+        "Alan: the code a workstation service runs is named by a module-group property on the service page, and that module has a standard `runService` export, so the run cannot be separated from the service. Today the page states `starts` records and `runs` literal command strings spelling `.ts` paths, which a folder move leaves stale. A guard or a check over those strings is the wrong mend.\n",
     },
     {
       statement: "A workstation unit on the machine is what its page says.",
