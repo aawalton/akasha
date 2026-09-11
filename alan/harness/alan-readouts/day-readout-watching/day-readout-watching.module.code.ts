@@ -325,13 +325,12 @@ export function watchDayReadings(
   }
 }
 
+export const sayOnTheConsole: WatchLogger = (level, message): undefined => {
+  const out = level === "ERROR" ? process.stderr : process.stdout
+  out.write(`${message}\n`)
+  return undefined
+}
+
 if (import.meta.main) {
-  watchDayReadings(
-    (level, message): undefined => {
-      const out = level === "ERROR" ? process.stderr : process.stdout
-      out.write(`${message}\n`)
-      return undefined
-    },
-    (): undefined => process.exit(1)
-  )
+  watchDayReadings(sayOnTheConsole, (): undefined => process.exit(1))
 }
