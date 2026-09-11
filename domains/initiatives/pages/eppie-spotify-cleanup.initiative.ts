@@ -24,11 +24,6 @@ export const eppieSpotifyCleanup = {
         "`basicAuthHeader` takes the client id and secret out of `getCredentials()`, which `requireEnv`s `SPOTIFY_REDIRECT_URI` beside them and throws where it is unset. `forceRefresh` reaches it, so a refresh demands a redirect URI it never sends. `alanwalton-web` and `alanwalton-atlas` mount only the client id and secret, and no `alanwalton-secrets-spotify-redirect-uri` page exists. The only such page is `collections-secrets-spotify-redirect-uri`, mounted by nothing.\n",
     },
     {
-      statement: "No spotify module page states something its code does not do.",
-      workingMemory:
-        "Three found. `spotify-tracks` states `A track names its own artists` while `trackSchema` has `artists` optional. `spotify-client` states `A 429 is retried once` while its 401 branch recurses without `rateLimitRetries`, dropping the budget to zero, so a 429 after a refresh is retried a second time. `spotify-client` states `No call is made outside the queue` while `forceRefresh()` runs outside `enqueue`, and `spotify-auth` and `spotify-auth-cli` reach `fetchSpotify` unpaced.\n",
-    },
-    {
       statement: "One way of paging serves every Spotify read.",
       workingMemory:
         "Three exist. `paginateOffset` in `spotify-client` slices to `max` and is right. `searchPaginate` in `spotify-search` breaks on `items.length >= options.max` without slicing, so a page wider than `max` overshoots; its test uses a one-item page, which hides it. `paginateCursor` in `spotify-client` has no caller and no test, because `getRecentlyPlayed` hands back the raw cursor page instead.",
