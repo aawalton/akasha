@@ -16,6 +16,10 @@ import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 export const PROBE_AT = "akasha/one/probe.module.code.ts"
 
+export const CHANGE_FROM = "../pages-system/change/change.module.code.ts"
+
+export const JUDGED_FROM = "../checks-system/judging/judging.module.code.ts"
+
 export const RULE = "syntax-rule"
 
 const MODULE = "module"

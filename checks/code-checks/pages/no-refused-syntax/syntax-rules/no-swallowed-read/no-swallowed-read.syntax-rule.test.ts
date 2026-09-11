@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import {
+  CHANGE_FROM,
+  JUDGED_FROM,
   NO_READERS,
   PROBE_AT,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
@@ -7,7 +9,7 @@ import { noSwallowedRead } from "akasha/checks/code-checks/pages/no-refused-synt
 import type { Refusal } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 
-const WALKING = 'import type { Change } from "../pages-system/change/change.module.code.ts"\n'
+const WALKING = `import type { Change } from "${CHANGE_FROM}"\n`
 
 const APART = 'import { join } from "node:path"\n'
 
@@ -27,7 +29,7 @@ test("a file naming no change is passed over, whatever it swallows", () => {
 })
 
 test("`Judged` names the change as `Change` does", () => {
-  const head = 'import type { Judged } from "../checks-system/judging/judging.module.code.ts"\n'
+  const head = `import type { Judged } from "${JUDGED_FROM}"\n`
   expect(over(head + SWALLOWED)).toHaveLength(1)
 })
 
