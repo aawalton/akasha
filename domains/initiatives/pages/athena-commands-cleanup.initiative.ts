@@ -113,6 +113,11 @@ export const athenaCommandsCleanup = {
       workingMemory:
         "`slug.text-property.ts:11` makes a slug unique within its page type, which does not bind an argument's spelling. Both halves are broken: `--last` is a count at `measure-changes.command.ts:14,16` and true-or-false at `track-session-drop.command.ts:16`; `at` is a wall-clock time in six `track session` commands and a file destination at `browser-test-storage-state.command.ts:19`. The file to act on is `--file-path`, `--file` and `--path`; the checkout is `--code-root` and `--repo-root`.\n",
     },
+    {
+      statement: "A command answering many is `list`, and a command answering one is `show`.",
+      workingMemory:
+        "`list` already holds: `change-list`, `email-messages-list` and `temper-inventory-rule-list` each answer many. `show` drifts both ways: `temper-inventory-rule-show` answers one rule by id, while `page-secret-show.command.ts:7` names which secrets a page holds and `track-session-show.command.ts:7` says the stretches a day has. `page-secret-reveal.command.ts:7` answers one and is named neither. `imessage-recent` and `imessage-unread-list` both give back messages.\n",
+    },
   ],
   constraints: [
     "Every landing in this repository runs through the command system, so a fault landed here stops every agent at once.",
