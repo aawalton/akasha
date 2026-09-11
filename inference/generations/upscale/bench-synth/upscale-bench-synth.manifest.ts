@@ -1,11 +1,10 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Manifest } from "../../../../infrastructure/cluster/k8s-types/manifests/manifest.page-type.types.ts"
 
 export const upscaleBenchSynth = {
   id: "01a06815-9efd-7033-94e5-a09ca99e9413",
-  pageTypeSlug: "module",
-  type: "module",
+  pageTypeSlug: "manifest",
+  type: "manifest",
   slug: "upscale-bench-synth",
   definition: "the manifests the upscale benchmark job is applied as",
   code: "ts",
-  allowsTmpPaths: true,
-} as const satisfies Module
+} as const satisfies Manifest

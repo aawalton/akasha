@@ -9,7 +9,7 @@ export const upscale = {
   parts: [
     "container-recipe/upscale-cluster-image",
     "container-recipe/upscale-image",
-    "module/upscale-bench-synth",
+    "manifest/upscale-bench-synth",
     "module/upscale-cluster",
     "module/upscale-serving-job",
     "module/upscale-workstation",

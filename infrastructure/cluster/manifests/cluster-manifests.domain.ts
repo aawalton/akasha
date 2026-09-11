@@ -9,10 +9,10 @@ export const clusterManifests = {
 
   tunnelRoutes: "ts",
   parts: [
-    "module/app-namespaces-synth",
-    "module/cert-manager-synth",
-    "module/cloudnative-pg-synth",
-    "module/metallb-synth",
+    "manifest/app-namespaces-synth",
+    "manifest/cert-manager-synth",
+    "manifest/cloudnative-pg-synth",
+    "manifest/metallb-synth",
     "module/orphan-resource-audit",
     "module/orphan-resource-listing",
     "module/orphan-sweep-notice",
