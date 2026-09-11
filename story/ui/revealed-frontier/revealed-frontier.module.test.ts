@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { latestFrontierMs, toMs } from "./revealed-frontier.module.code.ts"
+import {
+  latestFrontierMs,
+  toMs,
+} from "akasha/story/ui/revealed-frontier/revealed-frontier.module.code.ts"
 
 describe("toMs", () => {
   test("takes a number as milliseconds already", () => {

@@ -4,17 +4,17 @@ import {
   GameAlertsSchema,
   GameDisplayModulesSchema,
 } from "akasha/story/engine/core/game-schema/game-schema.module.code.ts"
-import { z } from "zod"
 import {
   ClientBeatSchema,
   ClientHudSchema,
   ClientQuestSchema,
   ClientSheetSchema,
-} from "../client-session/client-session.module.code.ts"
+} from "akasha/story/ui/client-session/client-session.module.code.ts"
 import {
   ClientStoryChapterSchema,
   ClientStoryTurnSchema,
-} from "../client-story-session/client-story-session.module.code.ts"
+} from "akasha/story/ui/client-story-session/client-story-session.module.code.ts"
+import { z } from "zod"
 
 export interface PendingActionInput {
   readonly text: string

@@ -4,7 +4,7 @@ import type { GameState } from "akasha/story/engine/core/state-schema/state-sche
 import type {
   PendingActionInput,
   SessionEnvelope,
-} from "../client-envelope/client-envelope.module.code.ts"
+} from "akasha/story/ui/client-envelope/client-envelope.module.code.ts"
 import {
   type ClientBeat,
   projectClientBeats,
@@ -12,16 +12,16 @@ import {
   projectClientQuests,
   projectClientSheet,
   projectStateChapterLinks,
-} from "../client-session/client-session.module.code.ts"
+} from "akasha/story/ui/client-session/client-session.module.code.ts"
 import type {
   ClientStoryChapter,
   ClientStoryTurn,
-} from "../client-story-session/client-story-session.module.code.ts"
-import { selectPendingActions } from "../pending-actions/pending-actions.module.code.ts"
+} from "akasha/story/ui/client-story-session/client-story-session.module.code.ts"
+import { selectPendingActions } from "akasha/story/ui/pending-actions/pending-actions.module.code.ts"
 import {
   interleaveTurnSegments,
   type TurnInterleaveMismatch,
-} from "../prose-interleave/prose-interleave.module.code.ts"
+} from "akasha/story/ui/prose-interleave/prose-interleave.module.code.ts"
 
 type SystemClientBeat = Extract<ClientBeat, { type: "system" }>
 

@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
-import type { ClientBeat } from "../client-session/client-session.module.code.ts"
-import type { ClientStoryTurn } from "../client-story-session/client-story-session.module.code.ts"
-import { interleaveTurnSegments } from "./prose-interleave.module.code.ts"
+import type { ClientBeat } from "akasha/story/ui/client-session/client-session.module.code.ts"
+import type { ClientStoryTurn } from "akasha/story/ui/client-story-session/client-story-session.module.code.ts"
+import { interleaveTurnSegments } from "akasha/story/ui/prose-interleave/prose-interleave.module.code.ts"
 
 type SystemClientBeat = Extract<ClientBeat, { type: "system" }>
 

@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { selectPendingActions } from "./pending-actions.module.code.ts"
+import { selectPendingActions } from "akasha/story/ui/pending-actions/pending-actions.module.code.ts"
 
 const at = (submittedAt: number, text = "act"): { text: string; submittedAt: number } => ({
   text,

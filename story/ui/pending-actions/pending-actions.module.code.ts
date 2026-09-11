@@ -1,4 +1,4 @@
-import type { PendingActionInput } from "../client-envelope/client-envelope.module.code.ts"
+import type { PendingActionInput } from "akasha/story/ui/client-envelope/client-envelope.module.code.ts"
 
 function revealedFrontier(latestTurnAt: number | null, latestStateAt: number | null): number {
   return Math.max(

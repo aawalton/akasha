@@ -1,5 +1,5 @@
 import type { PoolPresentation } from "akasha/story/engine/core/game-schema/game-schema.module.code.ts"
-import type { ClientHud } from "../client-session/client-session.module.code.ts"
+import type { ClientHud } from "akasha/story/ui/client-session/client-session.module.code.ts"
 
 export interface PoolBar {
   readonly key: string

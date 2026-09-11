@@ -1,10 +1,10 @@
+import type { ClientBeat } from "akasha/story/ui/client-session/client-session.module.code.ts"
+import { NewestDivider } from "akasha/story/ui/newest-divider/newest-divider.module.code.tsx"
+import { SystemCard } from "akasha/story/ui/system-card/system-card.module.code.tsx"
+import type { SubmitPlayerAction } from "akasha/story/ui/system-choice-card/system-choice-card.module.code.tsx"
+import { SystemWindowCard } from "akasha/story/ui/system-window-card/system-window-card.module.code.tsx"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import type { ReactNode, RefObject } from "react"
-import type { ClientBeat } from "../client-session/client-session.module.code.ts"
-import { NewestDivider } from "../newest-divider/newest-divider.module.code.tsx"
-import { SystemCard } from "../system-card/system-card.module.code.tsx"
-import type { SubmitPlayerAction } from "../system-choice-card/system-choice-card.module.code.tsx"
-import { SystemWindowCard } from "../system-window-card/system-window-card.module.code.tsx"
 
 type NarrativeClientBeat = Extract<ClientBeat, { type: "narrative" }>
 type SystemClientBeat = Extract<ClientBeat, { type: "system" }>

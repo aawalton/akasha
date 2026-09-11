@@ -1,9 +1,9 @@
 import { parseProseIntoRawSegments } from "akasha/story/engine/core/prose-segments/prose-segments.module.code.ts"
-import type { ClientBeat } from "../client-session/client-session.module.code.ts"
+import type { ClientBeat } from "akasha/story/ui/client-session/client-session.module.code.ts"
 import type {
   ClientProseSegment,
   ClientStoryTurn,
-} from "../client-story-session/client-story-session.module.code.ts"
+} from "akasha/story/ui/client-story-session/client-story-session.module.code.ts"
 
 type SystemClientBeat = Extract<ClientBeat, { type: "system" }>
 

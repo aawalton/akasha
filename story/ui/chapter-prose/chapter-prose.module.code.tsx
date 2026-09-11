@@ -1,10 +1,13 @@
 import { READER_PROSE_TYPOGRAPHY } from "akasha/pages/ui/components/reader-typography/reader-typography.module.code.ts"
+import type { ClientProseSegment } from "akasha/story/ui/client-story-session/client-story-session.module.code.ts"
+import {
+  SystemCard,
+  UnavailableSystemCard,
+} from "akasha/story/ui/system-card/system-card.module.code.tsx"
+import type { SubmitPlayerAction } from "akasha/story/ui/system-choice-card/system-choice-card.module.code.tsx"
+import { SystemWindowCard } from "akasha/story/ui/system-window-card/system-window-card.module.code.tsx"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import type { ReactNode } from "react"
-import type { ClientProseSegment } from "../client-story-session/client-story-session.module.code.ts"
-import { SystemCard, UnavailableSystemCard } from "../system-card/system-card.module.code.tsx"
-import type { SubmitPlayerAction } from "../system-choice-card/system-choice-card.module.code.tsx"
-import { SystemWindowCard } from "../system-window-card/system-window-card.module.code.tsx"
 
 const HEADING_RE = /^#{1,6}\s+/
 

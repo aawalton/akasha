@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { HudPanel } from "./hud-panel.module.code.tsx"
+import { HudPanel } from "akasha/story/ui/hud-panel/hud-panel.module.code.tsx"
 
 test("no hud at all is nothing on screen", () => {
   expect(HudPanel({ hud: null })).toBe(null)

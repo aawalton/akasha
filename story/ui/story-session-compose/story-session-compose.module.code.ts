@@ -5,11 +5,11 @@ import {
   isPublishedTurnStatus,
   TurnStatusSchema,
 } from "akasha/story/engine/core/turn-schema/turn-schema.module.code.ts"
-import { z } from "zod"
 import type {
   ClientStoryChapter,
   ClientStoryTurn,
-} from "../client-story-session/client-story-session.module.code.ts"
+} from "akasha/story/ui/client-story-session/client-story-session.module.code.ts"
+import { z } from "zod"
 
 const TURN_PAGE_TYPE_SLUG = toPageTypeSlug("game-turn")
 

@@ -5,7 +5,7 @@ import {
   composeStorySession,
   PUBLISHED_TURN_STATUSES,
   pickLatestPublishedSnapshot,
-} from "./story-session-compose.module.code.ts"
+} from "akasha/story/ui/story-session-compose/story-session-compose.module.code.ts"
 
 const row = (overrides: Record<string, unknown>): Record<string, unknown> => ({
   id: "r1",

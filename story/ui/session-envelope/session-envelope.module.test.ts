@@ -5,7 +5,7 @@ import {
   assertEnvelopeMatchesModules,
   composeSessionEnvelope,
   type StoryLedger,
-} from "./session-envelope.module.code.ts"
+} from "akasha/story/ui/session-envelope/session-envelope.module.code.ts"
 
 const STATE = GameStateSchema.parse({
   turn: 4,

@@ -1,4 +1,4 @@
-import type { SessionEnvelope } from "../client-envelope/client-envelope.module.code.ts"
+import type { SessionEnvelope } from "akasha/story/ui/client-envelope/client-envelope.module.code.ts"
 
 export function deriveContentFrontier(envelope: SessionEnvelope): string | undefined {
   if (envelope.beatLog !== undefined) {

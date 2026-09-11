@@ -7,12 +7,12 @@ import type {
   SystemWindow,
   TalentActivation,
 } from "akasha/story/engine/core/system-window-schema/system-window-schema.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { CardField } from "../card-field/card-field.module.code.tsx"
+import { CardField } from "akasha/story/ui/card-field/card-field.module.code.tsx"
 import {
   type SubmitPlayerAction,
   SystemChoiceCard,
-} from "../system-choice-card/system-choice-card.module.code.tsx"
+} from "akasha/story/ui/system-choice-card/system-choice-card.module.code.tsx"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 function ReadoutGrid({ record }: { record: Record<string, number> }) {
   const entries = Object.entries(record)
