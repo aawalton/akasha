@@ -1,20 +1,9 @@
 import { expect, test } from "bun:test"
-import type { ClaudeAccount } from "akasha/agents/claude-accounts/claude-account.page-type.types.ts"
 import { work } from "akasha/agents/claude-accounts/properties/effective-seven-day-usage.computed-property.code.ts"
-import type { Reach } from "akasha/pages/computed-properties/computed-property.page-type.ts"
-
-const REACH: Reach = { target: () => null, naming: () => [] }
-
-const BASE: ClaudeAccount = {
-  id: "one",
-  slug: "aine",
-  email: "aine@alanwalton.com",
-  aliasIndex: 0,
-}
-
-function account(held: Record<string, unknown>): ClaudeAccount {
-  return Object.assign({ ...BASE }, held)
-}
+import {
+  account,
+  REACH,
+} from "akasha/agents/claude-accounts/properties/effective-seven-day-usage.computed-property.test-fixtures.ts"
 
 test("a withdrawn subscription has spent the whole of the window", () => {
   expect(work(account({ subscriptionDisabledReason: "cancelled" }), REACH)).toBe(100)

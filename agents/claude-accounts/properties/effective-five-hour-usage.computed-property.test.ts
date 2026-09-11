@@ -1,23 +1,12 @@
 import { expect, test } from "bun:test"
-import type { ClaudeAccount } from "akasha/agents/claude-accounts/claude-account.page-type.types.ts"
 import { work } from "akasha/agents/claude-accounts/properties/effective-five-hour-usage.computed-property.code.ts"
 import { work as sevenDay } from "akasha/agents/claude-accounts/properties/effective-seven-day-usage.computed-property.code.ts"
-import type { Reach } from "akasha/pages/computed-properties/computed-property.page-type.ts"
+import {
+  account,
+  REACH,
+} from "akasha/agents/claude-accounts/properties/effective-seven-day-usage.computed-property.test-fixtures.ts"
 import type { Computed } from "akasha/pages/computing/page-computing.module.code.ts"
 import { computingOver } from "akasha/pages/computing/page-computing.module.code.ts"
-
-const REACH: Reach = { target: () => null, naming: () => [] }
-
-const BASE: ClaudeAccount = {
-  id: "one",
-  slug: "aine",
-  email: "aine@alanwalton.com",
-  aliasIndex: 0,
-}
-
-function account(held: Record<string, unknown>): ClaudeAccount {
-  return Object.assign({ ...BASE }, held)
-}
 
 test("an account that has spent its seven-day window has spent its five-hour window", () => {
   const spent = { effectiveSevenDayUsage: 100, fiveHourPercentUsed: 4 }
