@@ -110,5 +110,9 @@ export const pageCalling = {
       invariantKind: "absence",
       statement: "Nothing here knows the properties a page type declares.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The waiting between attempts outlasts the pages system service starting again.",
+    },
   ],
 } as const satisfies Module

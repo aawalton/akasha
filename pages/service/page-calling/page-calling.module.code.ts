@@ -33,7 +33,7 @@ export const WRITE_CEILING_MS = 30000
 
 export const FILE_CEILING_MS = 15000
 
-export const ATTEMPTS = 4
+export const ATTEMPTS = 6
 
 const NO_COUNT_SAYS =
   "the pages were asked to skip or to take and answered no count of what matched, so the rows that came back would be read as the whole population"
