@@ -42,5 +42,9 @@ export const spotifyAuth = {
       invariantKind: "absence",
       statement: "Nothing here asks Alan for consent.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every POST to the token endpoint is made from here.",
+    },
   ],
 } as const satisfies Module

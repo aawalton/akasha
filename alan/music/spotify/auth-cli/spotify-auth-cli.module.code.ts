@@ -4,13 +4,9 @@ import crypto from "node:crypto"
 import {
   parseTokenResponse,
   persistTokenResponse,
-  TOKEN_URL,
+  postToken,
 } from "akasha/alan/music/spotify/auth/spotify-auth.module.code.ts"
-import {
-  basicAuthHeader,
-  getCredentials,
-} from "akasha/alan/music/spotify/credentials/spotify-credentials.module.code.ts"
-import { fetchSpotify } from "akasha/alan/music/spotify/fetching/spotify-fetching.module.code.ts"
+import { getCredentials } from "akasha/alan/music/spotify/credentials/spotify-credentials.module.code.ts"
 import {
   readPkce,
   removePkce,
@@ -83,19 +79,14 @@ async function exchange(args: readonly string[]): Promise<void> {
     throw new Error(`no saved PKCE handoff — run step 1 first:\n  bun run ${HERE}`)
   }
   const { redirectUri } = getCredentials()
-  const response = await fetchSpotify(TOKEN_URL, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/x-www-form-urlencoded",
-      Authorization: basicAuthHeader(),
-    },
-    body: new URLSearchParams({
+  const response = await postToken(
+    new URLSearchParams({
       grant_type: "authorization_code",
       code,
       redirect_uri: redirectUri,
       code_verifier: handoff.verifier,
-    }),
-  })
+    })
+  )
   const data = await parseTokenResponse(response)
   persistTokenResponse(data, undefined, SPOTIFY_SCOPES)
   removePkce()
