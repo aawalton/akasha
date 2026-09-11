@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsTipSetDataTextCustom = {
   id: "01a06231-8f1e-7a52-9a3f-a02b2b08ec4e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-tip-set-data-text-custom",
   definition: "the player's own tooltip pattern filled in from the set's text parts",

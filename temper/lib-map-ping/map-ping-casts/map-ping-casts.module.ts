@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPingCasts = {
   id: "01a0605f-6260-78c9-885b-2ba545ad7f6f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-ping-casts",
   definition: "what an untyped ping value the game hands over is taken to be",

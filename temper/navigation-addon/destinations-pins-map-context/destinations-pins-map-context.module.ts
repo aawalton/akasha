@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const destinationsPinsMapContext = {
   id: "01a06269-28f4-77d8-93a4-f169b47d54aa",
-  pageTypeSlug: "module",
   type: "module",
   slug: "destinations-pins-map-context",
   definition: "which map is shown and what texture it is named by",

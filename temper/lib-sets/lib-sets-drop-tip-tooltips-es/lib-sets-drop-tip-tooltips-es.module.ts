@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsDropTipTooltipsEs = {
   id: "01a061d6-3e34-7669-8237-3aba71031bad",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-drop-tip-tooltips-es",
   definition: "the Spanish explanation of each way a gear set drops",

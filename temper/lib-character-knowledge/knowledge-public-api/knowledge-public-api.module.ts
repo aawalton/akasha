@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const knowledgePublicApi = {
   id: "01a0622b-dc5a-7644-abf2-0615e1f975a5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "knowledge-public-api",
   definition: "the names the library puts where every other addon reaches them",

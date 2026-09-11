@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const debugLoggerLogHandler = {
   id: "01a06061-408f-7394-8aef-02461fccacdf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "debug-logger-log-handler",
   definition: "how a message becomes an entry in the log and how the log is pruned",

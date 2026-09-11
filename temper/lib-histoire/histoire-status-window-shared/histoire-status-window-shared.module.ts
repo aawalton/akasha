@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const histoireStatusWindowShared = {
   id: "01a06197-4c9f-7794-8927-89a60ea440aa",
-  pageTypeSlug: "module",
   type: "module",
   slug: "histoire-status-window-shared",
   definition: "the textures, colours and narrowings the status window parts share",

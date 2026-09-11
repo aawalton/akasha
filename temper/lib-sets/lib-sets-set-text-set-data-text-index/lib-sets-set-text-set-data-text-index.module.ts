@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsSetTextSetDataTextIndex = {
   id: "01a0623c-2df5-73ef-a197-343f411ab7d3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-set-text-set-data-text-index",
   definition: "the one call that turns a set's data into its tooltip text",

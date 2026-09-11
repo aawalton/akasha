@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuLang = {
   id: "01a06275-c449-7b5d-9a57-12fbd9707620",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-lang",
   definition: "the English strings the library registers with the game string table",

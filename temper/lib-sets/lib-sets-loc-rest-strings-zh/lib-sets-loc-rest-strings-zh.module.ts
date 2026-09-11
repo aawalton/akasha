@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsLocRestStringsZh = {
   id: "01a061d7-7bc2-7b7f-96ff-576e321497de",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-loc-rest-strings-zh",
   definition: "the library's own interface text in Chinese",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const orderListBoxPublish = {
   id: "01a06207-bdf7-7fea-98e8-fdbf3c5d25c0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "order-list-box-publish",
   definition: "the widget handed to LibAddonMenu-2.0 once the game says this addon loaded",

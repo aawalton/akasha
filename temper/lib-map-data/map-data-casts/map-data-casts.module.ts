@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapDataCasts = {
   id: "01a061e1-ae9a-712e-bdb0-2073bf6201de",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-data-casts",
   definition: "what an untyped table the game hands over is taken to be",

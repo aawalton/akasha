@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const lorebooksBookshelfData = {
   id: "01a06184-3d7d-7d08-b6d3-fb7d338565ab",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lorebooks-bookshelf-data",
   definition: "where a bookshelf is on each map",

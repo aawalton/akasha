@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mediaGlobal = {
   id: "01a06069-f8c4-7dae-850f-fe59ef282b81",
-  pageTypeSlug: "module",
   type: "module",
   slug: "media-global",
   definition: "the one global name the game and other addons reach the library by",

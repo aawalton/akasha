@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsConstDropmechanics = {
   id: "01a061d6-3e22-7cb9-b1f5-2605e32ae7a6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-const-dropmechanics",
   definition: "the forty ways a gear set can drop, each given a number",

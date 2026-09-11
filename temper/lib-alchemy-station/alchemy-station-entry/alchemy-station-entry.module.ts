@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const alchemyStationEntry = {
   id: "01a06054-98bd-734e-9a93-1ddc5661a9bc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "alchemy-station-entry",
   definition: "the global the game reads the alchemy tabs from once the addon loads",

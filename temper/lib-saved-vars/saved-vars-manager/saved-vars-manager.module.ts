@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const savedVarsManager = {
   id: "01a06177-abfd-73d0-abdb-d019d3e9b824",
-  pageTypeSlug: "module",
   type: "module",
   slug: "saved-vars-manager",
   definition: "the manager class an addon renames and removes settings through",

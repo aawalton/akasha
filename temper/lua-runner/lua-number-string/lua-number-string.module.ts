@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const luaNumberString = {
   id: "01a06059-2492-7512-9794-36f5ae797518",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lua-number-string",
   definition: "a number written the way Lua 5.1 writes that number",

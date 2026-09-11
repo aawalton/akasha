@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPinsMuralMenderFragments = {
   id: "01a06269-2ae3-7fef-983f-48ead7dcd064",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-pins-mural-mender-fragments",
   definition: "the mural fragment places",

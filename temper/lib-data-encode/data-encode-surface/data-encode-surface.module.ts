@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const dataEncodeSurface = {
   id: "01a06061-969e-7d0d-b494-268228c7f6a5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "data-encode-surface",
   definition: "the calls and the alphabet another addon reaches this library by",

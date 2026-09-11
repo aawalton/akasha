@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const orderListBoxListMethods = {
   id: "01a06207-bdf5-7038-be7e-efe5d5472cf1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "order-list-box-list-methods",
   definition: "the methods filling, refreshing and reordering the rows of the list",

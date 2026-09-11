@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const lorebooksShalidorLocations18 = {
   id: "01a06181-3843-77d5-8ed3-8892b3a40b9c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lorebooks-shalidor-locations-18",
   definition:

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuComboboxBaseNarrate = {
   id: "01a06275-c445-72e9-9f8e-71dcf7af7e19",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-combobox-base-narrate",
   definition: "the dispatch of a narration event to the addon callback and then to the reader",

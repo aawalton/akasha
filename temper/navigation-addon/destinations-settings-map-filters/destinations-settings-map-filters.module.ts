@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const destinationsSettingsMapFilters = {
   id: "01a06269-292a-7444-93cc-143668dc41d9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "destinations-settings-map-filters",
   definition: "the settings menu for the map filters",

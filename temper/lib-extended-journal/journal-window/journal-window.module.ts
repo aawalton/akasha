@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const journalWindow = {
   id: "01a0617d-5454-7cab-9709-1e96bec082bc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "journal-window",
   definition: "the scene and menu bar the window is built from the first time the window is shown",

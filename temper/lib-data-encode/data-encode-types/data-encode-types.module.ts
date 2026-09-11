@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const dataEncodeTypes = {
   id: "01a06061-96a2-7fff-82c3-b9b5976c8acf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "data-encode-types",
   definition: "the shape of the encoder, the decoder, the dictionary and the library surface",

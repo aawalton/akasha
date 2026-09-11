@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsTipVeteranBreakdown = {
   id: "01a06231-8f1e-737c-a36f-8ed525388bae",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-tip-veteran-breakdown",
   definition: "the per-slot veteran or normal reading of a monster set whose pieces differ",

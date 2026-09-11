@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonMenuUtil = {
   id: "01a06100-0000-7000-8000-000000000012",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-menu-util",
   definition: "the widget scaffolding and bookkeeping the library publishes as LAM.util",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPinsPsijicMap = {
   id: "01a06269-2ae7-7758-9782-9ba54b0df1da",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-pins-psijic-map",
   definition: "the psijic time breach maps",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPinsFishingNodes = {
   id: "01a06269-2ac7-7e1f-90ef-270e13117f89",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-pins-fishing-nodes",
   definition: "the fishing hole places by zone, joined from its runs",

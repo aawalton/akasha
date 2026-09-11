@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const chatMessageMain = {
   id: "01a06060-0d18-71c4-bf35-67299b7e568b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "chat-message-main",
   definition: "the order the chat message library installs its parts in",

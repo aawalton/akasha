@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const histoireStatusWindowDebug = {
   id: "01a06197-4c9c-7451-b27d-1e79453598d4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "histoire-status-window-debug",
   definition: "the debug report the status window writes into the error frame",

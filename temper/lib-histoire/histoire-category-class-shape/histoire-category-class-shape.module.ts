@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const histoireCategoryClassShape = {
   id: "01a06197-4c8e-7135-bef8-3f67fb37c2bb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "histoire-category-class-shape",
   definition: "the shape one guild history category cache takes",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const compassPinsState = {
   id: "01a06269-28b4-7289-a2be-d8b9e1cb651f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "compass-pins-state",
   definition: "the pin layouts and the distance coefficient the compass library keeps",

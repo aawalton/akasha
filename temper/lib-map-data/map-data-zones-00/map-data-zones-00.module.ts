@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapDataZones00 = {
   id: "01a061e1-ae9e-7f12-a54d-11401f2af874",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-data-zones-00",
   definition: "part 00 of what each zone holds by way of dungeons, events and subzones",

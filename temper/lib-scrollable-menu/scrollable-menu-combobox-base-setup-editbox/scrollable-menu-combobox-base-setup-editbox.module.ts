@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuComboboxBaseSetupEditbox = {
   id: "01a06275-c445-7836-b971-835899e6f48f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-combobox-base-setup-editbox",
   definition: "the wiring and re-anchoring of the edit box inside an edit-box row",

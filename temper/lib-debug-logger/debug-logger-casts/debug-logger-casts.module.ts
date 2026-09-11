@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const debugLoggerCasts = {
   id: "01a06061-408d-74a5-bf73-9ca2050ea277",
-  pageTypeSlug: "module",
   type: "module",
   slug: "debug-logger-casts",
   definition: "the assertions handing an untyped Lua value to TypeScript as a named shape",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const destinationsPinsInitialize = {
   id: "01a06269-28ef-7d43-ae69-b38185a9be2f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "destinations-pins-initialize",
   definition: "the order the destination pins, filters and settings come up in",

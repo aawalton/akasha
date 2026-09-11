@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const submenuTimeout = {
   id: "01a0605a-5820-7660-862b-75def68c1d3b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "submenu-timeout",
   definition: "the single delayed call a sub-menu opens and closes on",

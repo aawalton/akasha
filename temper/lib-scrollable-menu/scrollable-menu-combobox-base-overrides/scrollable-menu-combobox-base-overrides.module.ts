@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuComboboxBaseOverrides = {
   id: "01a06275-c445-7c41-ae93-4d1a321abb20",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-combobox-base-overrides",
   definition: "the base-class methods left empty or answering undefined",

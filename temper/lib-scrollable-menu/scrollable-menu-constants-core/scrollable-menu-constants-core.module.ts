@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuConstantsCore = {
   id: "01a06275-c446-7bcd-a095-f1cc9733c1aa",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-constants-core",
   definition: "the constants the library defines before any other module runs",

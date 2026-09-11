@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const shifterListMethodsEntries = {
   id: "01a06187-364a-7fb0-beb3-8fcf9bebbbcf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "shifter-list-methods-entries",
   definition: "the list methods that add, remove and read entries",

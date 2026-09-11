@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsSearchUiListClass = {
   id: "01a0623e-53a0-731f-9970-2086175cd397",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-search-ui-list-class",
   definition: "the class the result list objects are made from",

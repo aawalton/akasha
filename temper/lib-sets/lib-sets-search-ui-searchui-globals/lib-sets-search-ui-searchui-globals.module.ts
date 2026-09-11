@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsSearchUiSearchuiGlobals = {
   id: "01a0623e-53a0-7264-80a2-22545178e71e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-search-ui-searchui-globals",
   definition: "where the live keyboard and gamepad search windows are kept",

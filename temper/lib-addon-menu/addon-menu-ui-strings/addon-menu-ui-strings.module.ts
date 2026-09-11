@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonMenuUiStrings = {
   id: "01a06100-0000-7000-8000-000000000011",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-menu-ui-strings",
   definition: "the English display strings of the library, written out as one table",

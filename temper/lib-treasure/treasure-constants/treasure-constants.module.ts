@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const treasureConstants = {
   id: "01a061d5-d0b0-7e75-8046-f8f5f4c95391",
-  pageTypeSlug: "module",
   type: "module",
   slug: "treasure-constants",
   definition: "the library's name and the three kinds of pin it has",

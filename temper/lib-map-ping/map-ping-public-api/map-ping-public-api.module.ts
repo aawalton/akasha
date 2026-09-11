@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPingPublicApi = {
   id: "01a0605f-6263-7cb1-beca-3555572b59a9",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-ping-public-api",
   definition: "the name the map ping library puts in the game's global table",

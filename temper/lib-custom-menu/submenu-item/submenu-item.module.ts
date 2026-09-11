@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const submenuItem = {
   id: "01a0605a-5820-77e8-af26-680a7db72e96",
-  pageTypeSlug: "module",
   type: "module",
   slug: "submenu-item",
   definition: "the row that opens a sub-menu when the mouse rests on it",

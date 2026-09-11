@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const priceConstants = {
   id: "01a0615d-c219-7688-ab22-3572a854e8dd",
-  pageTypeSlug: "module",
   type: "module",
   slug: "price-constants",
   definition: "the source keys, currency names and price kinds the library answers by",

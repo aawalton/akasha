@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const knowledgeBaseDataMotifs = {
   id: "01a0622b-dc54-77f2-87d9-b420778a2255",
-  pageTypeSlug: "module",
   type: "module",
   slug: "knowledge-base-data-motifs",
   definition: "the pre-scanned item ids upstream ships for motif books",

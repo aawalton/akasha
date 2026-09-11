@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPinsPinTypes = {
   id: "01a06269-295e-704c-8613-de86445bf115",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-pins-pin-types",
   definition: "the shapes a map pin tag, definition and callback take",

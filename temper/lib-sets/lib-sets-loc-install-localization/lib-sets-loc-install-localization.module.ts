@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsLocInstallLocalization = {
   id: "01a061d7-7bb9-7125-b72f-e3bd28b4db73",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-loc-install-localization",
   definition: "the German and English tables made into the library's localization",

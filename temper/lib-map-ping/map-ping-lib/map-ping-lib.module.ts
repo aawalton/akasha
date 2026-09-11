@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPingLib = {
   id: "01a0605f-6261-7a99-9a87-668ce21f8a59",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-ping-lib",
   definition: "the library object every caller of map pings reaches",

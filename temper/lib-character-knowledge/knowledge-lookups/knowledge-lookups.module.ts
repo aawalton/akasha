@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const knowledgeLookups = {
   id: "01a06226-4904-79e2-9dc5-29f73538492e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "knowledge-lookups",
   definition: "which game category each kind of knowledge is filed under",

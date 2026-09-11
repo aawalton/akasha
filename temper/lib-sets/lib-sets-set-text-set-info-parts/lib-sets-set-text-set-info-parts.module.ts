@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsSetTextSetInfoParts = {
   id: "01a06231-8f1f-7c5c-ab56-4aa95a3697c8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-set-text-set-info-parts",
   definition: "the set's text broken into named parts with their raw data beside each",

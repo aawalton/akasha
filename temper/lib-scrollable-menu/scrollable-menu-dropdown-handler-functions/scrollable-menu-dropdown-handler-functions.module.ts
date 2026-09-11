@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuDropdownHandlerFunctions = {
   id: "01a06275-c448-701d-9543-d5f2bef911cb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-dropdown-handler-functions",
   definition: "the per-entry-type handlers for mouse enter, exit and up on a dropdown row",

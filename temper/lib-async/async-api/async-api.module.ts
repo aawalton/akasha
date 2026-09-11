@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const asyncApi = {
   id: "01a0606a-1c53-7ea1-a0eb-d07680c9af9f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "async-api",
   definition: "the functions the library hands to every other addon",

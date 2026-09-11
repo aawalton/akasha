@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuCasts1b = {
   id: "01a06275-c443-74d3-95bf-8e3d22f7d594",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-casts-1b",
   definition: "the narrowing helpers for shapes named from ContextMenuDropdown through GetValue",

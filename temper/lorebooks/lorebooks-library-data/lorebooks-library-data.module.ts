@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const lorebooksLibraryData = {
   id: "01a06184-3d7d-7bc3-be91-252472ceedf7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lorebooks-library-data",
   definition: "the whole Eidetic Memory collection table, gathered from its runs in order",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPinsShrineIcon = {
   id: "01a06269-2aea-740e-8964-1601c38c8591",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-pins-shrine-icon",
   definition: "the icon of each shrine",

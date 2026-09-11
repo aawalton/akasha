@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const isTable = {
   id: "01a08e01-6b05-7023-a79d-f39cedee5996",
-  pageTypeSlug: "module",
   type: "module",
   slug: "is-table",
   definition: "whether a value the game handed over is a Lua table",

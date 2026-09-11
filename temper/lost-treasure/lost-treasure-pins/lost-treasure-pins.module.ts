@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const lostTreasurePins = {
   id: "01a06141-8007-77a6-a621-187470444a06",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lost-treasure-pins",
   definition: "drawing a dig site on the world map and on the compass",

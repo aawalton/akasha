@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const destinationsSharedDataIds = {
   id: "01a06269-29ee-7dd4-9b42-a7cf0a83ea00",
-  pageTypeSlug: "module",
   type: "module",
   slug: "destinations-shared-data-ids",
   definition: "the achievement and collectible ids the destination rows name",

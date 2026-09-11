@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuButtongroup = {
   id: "01a06275-c443-732e-93a1-d70a36b10e6c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-buttongroup",
   definition: "the subclass of ZO_RadioButtonGroup the checkbox and radio rows share",

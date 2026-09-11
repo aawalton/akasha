@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const slashCommanderTypes = {
   id: "01a06066-8403-7c76-a731-fe8005c24e95",
-  pageTypeSlug: "module",
   type: "module",
   slug: "slash-commander-types",
   definition: "the shape of a command, a completion provider and the library global",

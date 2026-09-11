@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const savedVarsManagerCore = {
   id: "01a06177-abfc-7840-92ee-c835d1c34f88",
-  pageTypeSlug: "module",
   type: "module",
   slug: "saved-vars-manager-core",
   definition: "a manager's raw table, found the first time a setting is asked for",

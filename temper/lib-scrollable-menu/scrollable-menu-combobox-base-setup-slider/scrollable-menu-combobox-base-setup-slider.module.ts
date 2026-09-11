@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuComboboxBaseSetupSlider = {
   id: "01a06275-c446-7bcc-a7cd-2864c24f89cb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-combobox-base-setup-slider",
   definition: "the wiring and re-anchoring of the slider inside a slider row",

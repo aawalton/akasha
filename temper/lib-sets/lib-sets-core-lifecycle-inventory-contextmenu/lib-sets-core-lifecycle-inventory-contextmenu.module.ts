@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsCoreLifecycleInventoryContextmenu = {
   id: "01a06231-8f1d-79ad-893f-8f4a99020fa3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-core-lifecycle-inventory-contextmenu",
   definition: "whether the set data has finished loading and is safe to ask about",

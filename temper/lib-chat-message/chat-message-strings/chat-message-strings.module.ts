@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const chatMessageStrings = {
   id: "01a06060-0d17-7474-a7d9-f6b686914917",
-  pageTypeSlug: "module",
   type: "module",
   slug: "chat-message-strings",
   definition: "the text this library adds to the game's string table",

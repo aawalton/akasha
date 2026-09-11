@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsCoreSetTypeQueries = {
   id: "01a061fc-ceec-7138-838e-448841d39974",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-core-set-type-queries",
   definition: "the sets of one type, and the drop mechanic names a set carries in each language",

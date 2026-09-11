@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPingHandlerState = {
   id: "01a0605f-6262-75fe-be54-df973258bb60",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-ping-handler-state",
   definition: "the mute, suppress and ping state one map ping key carries",

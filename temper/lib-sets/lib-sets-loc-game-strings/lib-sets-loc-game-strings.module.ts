@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsLocGameStrings = {
   id: "01a061d6-3e44-79de-bd12-2d56ced1d758",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-loc-game-strings",
   definition:

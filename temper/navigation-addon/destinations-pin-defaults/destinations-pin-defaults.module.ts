@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const destinationsPinDefaults = {
   id: "01a06269-28c7-7a5d-a625-511d3e65b2f6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "destinations-pin-defaults",
   definition: "the default size, level and texture of each destination pin kind",

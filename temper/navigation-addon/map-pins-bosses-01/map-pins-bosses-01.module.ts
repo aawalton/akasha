@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPinsBosses01 = {
   id: "01a06269-2a4c-7904-bb13-4bb55ed6047b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-pins-bosses-01",
   definition: "one run of the world boss places by zone",

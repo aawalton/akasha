@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonMenuWidgetEditbox = {
   id: "01a06100-0000-7000-8000-000000000021",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-menu-widget-editbox",
   definition: "the text entry widget, single line or multiline",

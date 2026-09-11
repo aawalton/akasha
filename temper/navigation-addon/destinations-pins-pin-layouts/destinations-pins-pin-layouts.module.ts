@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const destinationsPinsPinLayouts = {
   id: "01a06269-28f7-7874-a632-478526de2780",
-  pageTypeSlug: "module",
   type: "module",
   slug: "destinations-pins-pin-layouts",
   definition: "the layout of each destination pin kind built from its settings",

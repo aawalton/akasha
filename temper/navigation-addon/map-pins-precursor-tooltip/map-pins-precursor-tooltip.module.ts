@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPinsPrecursorTooltip = {
   id: "01a06269-2ae6-7296-a8b5-f9f9d9ab737a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-pins-precursor-tooltip",
   definition: "the tooltip of each precursor part",

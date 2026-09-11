@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const destinationsPinsPoiTypes = {
   id: "01a06269-28fb-7358-87b4-39e0ded14838",
-  pageTypeSlug: "module",
   type: "module",
   slug: "destinations-pins-poi-types",
   definition:

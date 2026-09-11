@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const destinationsPoiData12 = {
   id: "01a06269-29cf-784e-99c1-afe91cee8599",
-  pageTypeSlug: "module",
   type: "module",
   slug: "destinations-poi-data-12",
   definition: "one run of the keeps, the points of interest by zone and the dungeon item sets",

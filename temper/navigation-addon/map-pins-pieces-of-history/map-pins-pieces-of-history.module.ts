@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPinsPiecesOfHistory = {
   id: "01a06269-2ae4-7814-bfcb-6c60e5485e60",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-pins-pieces-of-history",
   definition: "the pieces-of-history places",

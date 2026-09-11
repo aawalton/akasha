@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const zoneUiStrings = {
   id: "01a061e7-92f3-7138-8263-e1eb31f09848",
-  pageTypeSlug: "module",
   type: "module",
   slug: "zone-ui-strings",
   definition: "the English text the library shows and the language names the library knows",

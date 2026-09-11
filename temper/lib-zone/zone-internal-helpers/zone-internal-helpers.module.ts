@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const zoneInternalHelpers = {
   id: "01a061e7-932d-70df-8a84-23dcf5b94e83",
-  pageTypeSlug: "module",
   type: "module",
   slug: "zone-internal-helpers",
   definition: "what the library works out about zone counts and debug stamps",

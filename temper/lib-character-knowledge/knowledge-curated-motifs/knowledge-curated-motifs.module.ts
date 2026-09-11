@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const knowledgeCuratedMotifs = {
   id: "01a0622b-dc56-709a-8da0-de660a3730f7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "knowledge-curated-motifs",
   definition: "which motif book carries which style and chapter",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mainMenuPublish = {
   id: "01a0605b-c804-7741-baf4-fd76e49cbba7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "main-menu-publish",
   definition: "the library object handed to the game under one global name",

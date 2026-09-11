@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsTipDropMechanicRenderPart = {
   id: "01a06231-8f1e-7196-8b24-736224602b2a",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-tip-drop-mechanic-render-part",
   definition: "the one-zone piece of drop text with its mechanics and boss names in brackets",

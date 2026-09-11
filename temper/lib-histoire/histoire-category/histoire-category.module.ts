@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const histoireCategory = {
   id: "01a06197-4c8d-738e-85a4-1417a14b3031",
-  pageTypeSlug: "module",
   type: "module",
   slug: "histoire-category",
   definition: "every part a category cache is built from loaded in order",

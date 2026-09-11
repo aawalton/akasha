@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsDebugDebugNames = {
   id: "01a0623c-2df8-7289-bd0d-011e31da3e86",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-debug-debug-names",
   definition: "the names the running client reports for one language and the set ids new to it",

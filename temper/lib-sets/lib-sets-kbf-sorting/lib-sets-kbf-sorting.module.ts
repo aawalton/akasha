@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsKbfSorting = {
   id: "01a0623e-53a1-7fe8-aa65-3bdbcb7ee465",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-kbf-sorting",
   definition: "how a filter dropdown's entries are put in order",

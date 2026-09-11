@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const orderListBoxMoveButtons = {
   id: "01a06207-bdf5-7fd4-8f0f-16aa4a732fd7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "order-list-box-move-buttons",
   definition: "the four buttons moving the picked row up, down, to the top or to the foot",

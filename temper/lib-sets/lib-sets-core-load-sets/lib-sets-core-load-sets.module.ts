@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsCoreLoadSets = {
   id: "01a061fc-ceec-7554-91c4-46ddf7db919c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-core-load-sets",
   definition: "building every lookup table the library answers from, in one sweep of the set data",

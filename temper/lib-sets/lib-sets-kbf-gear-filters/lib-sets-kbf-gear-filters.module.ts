@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsKbfGearFilters = {
   id: "01a0623e-53a1-757f-b98f-e17326c7f464",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-kbf-gear-filters",
   definition: "the dropdowns naming what kind of gear a set covers",

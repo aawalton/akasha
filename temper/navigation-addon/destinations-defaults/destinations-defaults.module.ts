@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const destinationsDefaults = {
   id: "01a06269-28be-7fc6-b973-a4499ed9f135",
-  pageTypeSlug: "module",
   type: "module",
   slug: "destinations-defaults",
   definition: "the settings a fresh destinations install starts from",

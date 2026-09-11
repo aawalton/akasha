@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const destinationsPoiData = {
   id: "01a06269-29d5-74ec-bf81-bd99d40f7eec",
-  pageTypeSlug: "module",
   type: "module",
   slug: "destinations-poi-data",
   definition:

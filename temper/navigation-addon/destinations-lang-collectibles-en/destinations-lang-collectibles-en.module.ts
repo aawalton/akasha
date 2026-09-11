@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const destinationsLangCollectiblesEn = {
   id: "01a06269-29f1-78c7-a141-6f8a6d7a6cae",
-  pageTypeSlug: "module",
   type: "module",
   slug: "destinations-lang-collectibles-en",
   definition: "the collectible names in English",

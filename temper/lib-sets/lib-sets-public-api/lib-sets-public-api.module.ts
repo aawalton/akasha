@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsPublicApi = {
   id: "01a0623e-53a2-7b73-9549-80f57a6b383c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-public-api",
   definition: "the ordered load list of this library's modules",

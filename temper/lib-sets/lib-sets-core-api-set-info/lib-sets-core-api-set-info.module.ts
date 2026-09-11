@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsCoreApiSetInfo = {
   id: "01a06231-8f1d-7816-b46e-caba9de72027",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-core-api-set-info",
   definition: "everything known about one set gathered into a single table",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsKbfFilterPanel = {
   id: "01a0623e-53a1-7dd5-a1ad-b9e1e7101b97",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-kbf-filter-panel",
   definition: "the keyboard window's filter row assembled from its eleven dropdown builders",

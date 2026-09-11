@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsGenZoneIdsOfNewerApiVersion = {
   id: "01a061fc-cee8-7893-86a9-c6e36f1902df",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-gen-zone-ids-of-newer-api-version",
   definition: "the zone ids that exist only on a newer game API version",

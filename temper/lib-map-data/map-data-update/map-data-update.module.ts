@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapDataUpdate = {
   id: "01a061e1-aeaf-70a8-b674-808917a90f08",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-data-update",
   definition: "how the library works out where the player is when the map changes",

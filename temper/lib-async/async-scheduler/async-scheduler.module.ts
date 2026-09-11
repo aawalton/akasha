@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const asyncScheduler = {
   id: "01a0606a-1c56-794f-a1fd-a94bc5a42ecc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "async-scheduler",
   definition: "how much of each frame the jobs are given and which job runs next",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsTipDropMechanicCollect = {
   id: "01a06231-8f1e-710d-bc09-a50c2ddb141c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-tip-drop-mechanic-collect",
   definition: "the zone and mechanic names for one set gathered into the shared scratch tables",

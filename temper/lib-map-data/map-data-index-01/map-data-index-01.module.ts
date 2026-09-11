@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapDataIndex01 = {
   id: "01a061e1-aea4-70e1-ab44-4d4e180e9d8e",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-data-index-01",
   definition: "part 01 of what each map index names by texture, zone and subzone",

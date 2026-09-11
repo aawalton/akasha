@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPinsPrecursorItems = {
   id: "01a06269-2ae5-7f79-8e4b-0756b0c7dbb6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-pins-precursor-items",
   definition: "the precursor part places",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const destinationsPinsMapFilters = {
   id: "01a06269-28ff-77d3-b713-bb69f6e20223",
-  pageTypeSlug: "module",
   type: "module",
   slug: "destinations-pins-map-filters",
   definition: "the map filter for each destination pin kind",

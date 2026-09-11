@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsDataCasts = {
   id: "01a061d7-7bcb-7e37-92dc-722706d00752",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-data-casts",
   definition: "unchecked casts onto the shapes of the preloaded set tables",

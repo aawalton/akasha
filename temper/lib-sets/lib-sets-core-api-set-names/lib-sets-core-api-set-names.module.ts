@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsCoreApiSetNames = {
   id: "01a06231-8f1d-7810-a653-0c0cdf32ad4b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-core-api-set-names",
   definition: "a set's name in one language, in every language, or every set's names at once",

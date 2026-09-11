@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsCoreApiDropMechanics = {
   id: "01a06231-8f1c-7ec0-9f99-9b6132b3a27b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-core-api-drop-mechanics",
   definition: "how a set drops, named and described in the caller's language",

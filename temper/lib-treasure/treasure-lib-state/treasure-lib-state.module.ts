@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const treasureLibState = {
   id: "01a061d5-d0bf-79cd-abd1-43da311ed93f",
-  pageTypeSlug: "module",
   type: "module",
   slug: "treasure-lib-state",
   definition: "the library table the game reads",

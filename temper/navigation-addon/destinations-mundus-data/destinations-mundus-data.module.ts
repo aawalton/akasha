@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const destinationsMundusData = {
   id: "01a06269-29b9-7e03-beb8-590215cb417d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "destinations-mundus-data",
   definition: "the mundus stones by zone",

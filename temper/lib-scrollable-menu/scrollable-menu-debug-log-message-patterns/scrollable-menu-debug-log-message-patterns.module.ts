@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuDebugLogMessagePatterns = {
   id: "01a06275-c447-77e7-8ff2-b52861a169f3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-debug-log-message-patterns",
   definition: "the numbered format strings the debug log looks up by message id",

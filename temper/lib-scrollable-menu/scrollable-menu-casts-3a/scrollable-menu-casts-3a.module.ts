@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuCasts3a = {
   id: "01a06275-c444-769d-a238-060e94512654",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-casts-3a",
   definition:

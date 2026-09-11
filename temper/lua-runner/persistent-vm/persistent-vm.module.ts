@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const persistentVm = {
   id: "01a06059-2492-704f-948b-8334eefba455",
-  pageTypeSlug: "module",
   type: "module",
   slug: "persistent-vm",
   definition: "a Lua subprocess started, handed scripts one at a time, and shut down",

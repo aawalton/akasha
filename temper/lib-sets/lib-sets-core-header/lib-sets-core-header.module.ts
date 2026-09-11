@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsCoreHeader = {
   id: "01a061fc-cee9-7c71-8e92-91595a98f1d7",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-core-header",
   definition: "the optional companion libraries this one uses when they are loaded",

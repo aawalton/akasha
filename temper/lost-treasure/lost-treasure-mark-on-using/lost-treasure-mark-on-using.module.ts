@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const lostTreasureMarkOnUsing = {
   id: "01a06141-8009-7220-933c-ff639c3b86bc",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lost-treasure-mark-on-using",
   definition: "which maps the player has opened during this session",

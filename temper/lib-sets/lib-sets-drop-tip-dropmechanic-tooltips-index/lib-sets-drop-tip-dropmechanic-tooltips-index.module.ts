@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsDropTipDropmechanicTooltipsIndex = {
   id: "01a061d6-3e43-7f81-96b3-af30733ec6c4",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-drop-tip-dropmechanic-tooltips-index",
   definition: "one import that runs the drop mechanic tooltip install",

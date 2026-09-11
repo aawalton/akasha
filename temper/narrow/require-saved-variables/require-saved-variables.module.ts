@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const requireSavedVariables = {
   id: "01a08e11-e16f-78aa-8cc2-9f44f46d50cf",
-  pageTypeSlug: "module",
   type: "module",
   slug: "require-saved-variables",
   definition: "the add-on's saved table, or a refusal where no session has opened it yet",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapDataTypes = {
   id: "01a061e1-ae99-780e-8582-94c2b3c24e88",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-data-types",
   definition: "the shapes the library table, its internals and one map index entry take",

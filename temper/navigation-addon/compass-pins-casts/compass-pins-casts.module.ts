@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const compassPinsCasts = {
   id: "01a06269-289f-74d2-b1c5-c843e5a02431",
-  pageTypeSlug: "module",
   type: "module",
   slug: "compass-pins-casts",
   definition: "what an untyped value the game hands the compass library is taken to be",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuContextmenuClass = {
   id: "01a06275-c447-7d40-8e68-2f92eea8b96d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-contextmenu-class",
   definition: "the single context-menu object and the way it opens at the mouse",

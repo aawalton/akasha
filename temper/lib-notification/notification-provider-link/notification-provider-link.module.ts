@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const notificationProviderLink = {
   id: "01a0605a-0515-7dbe-bba3-edd17cf7cb35",
-  pageTypeSlug: "module",
   type: "module",
   slug: "notification-provider-link",
   definition: "the table a caller puts notifications into and the providers reading that table",

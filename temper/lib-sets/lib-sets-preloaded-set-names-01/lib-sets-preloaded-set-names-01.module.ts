@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsPreloadedSetNames01 = {
   id: "01a061dd-155c-73ec-8dad-7b2eeba97eef",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-preloaded-set-names-01",
   definition: "LibSets setNames translations keyed by set id — keys 19 through 87.",

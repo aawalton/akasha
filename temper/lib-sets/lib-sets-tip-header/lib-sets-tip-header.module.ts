@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsTipHeader = {
   id: "01a06231-8f1e-7766-8365-3c9678990800",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-tip-header",
   definition: "the localized labels and tooltip controls the rest of the tooltip code reads",

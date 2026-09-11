@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const savedVarsProtected = {
   id: "01a06177-abfb-7cce-951b-33a950d4c7a3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "saved-vars-protected",
   definition:

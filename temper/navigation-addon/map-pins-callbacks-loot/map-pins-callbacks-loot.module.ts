@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPinsCallbacksLoot = {
   id: "01a06269-2950-7d6f-ba53-9779732622ac",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-pins-callbacks-loot",
   definition: "the pin callbacks for kinds a looted item finishes",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsDebugDebugSetScanRun = {
   id: "01a0623c-2df7-774b-b28f-3e28f57b8014",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-debug-debug-set-scan-run",
   definition: "the timed march through item id packages that a full set scan is made of",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const notificationProviders = {
   id: "01a0605a-0515-7efc-a180-1aaa98828cd6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "notification-providers",
   definition: "the game notification providers a caller's rows are handed to the panels through",

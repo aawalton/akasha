@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuComboboxBaseHighlight = {
   id: "01a06275-c445-75f3-be93-84376c5556c2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-combobox-base-highlight",
   definition: "the choice of highlight template and tint for one row",

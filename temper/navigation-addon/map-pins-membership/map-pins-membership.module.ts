@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPinsMembership = {
   id: "01a06269-295c-71ad-8802-c41f6e9784a0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-pins-membership",
   definition: "which pin kinds belong to Cyrodiil, to Tamriel and to the Imperial City",

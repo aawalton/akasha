@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPinsChronoglerTablet = {
   id: "01a06269-2aa6-7eea-8f15-d708ad431d24",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-pins-chronogler-tablet",
   definition: "the chronogler tablet places",

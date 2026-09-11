@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsTipCasts = {
   id: "01a06231-8f1e-7680-a91c-96672a2939c0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-tip-casts",
   definition: "the narrowings the tooltip code puts on untyped controls and tables",

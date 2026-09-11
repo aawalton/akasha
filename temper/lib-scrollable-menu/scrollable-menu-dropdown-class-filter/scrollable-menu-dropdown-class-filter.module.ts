@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuDropdownClassFilter = {
   id: "01a06275-c447-7694-bdd6-3f09904c1493",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-dropdown-class-filter",
   definition: "the filter edit box of the dropdown header and its saved search history",

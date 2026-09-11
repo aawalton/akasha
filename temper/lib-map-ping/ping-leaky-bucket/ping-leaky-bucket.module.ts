@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const pingLeakyBucket = {
   id: "01a0605f-6261-7d76-ba42-e30ce5260d08",
-  pageTypeSlug: "module",
   type: "module",
   slug: "ping-leaky-bucket",
   definition: "the token budget a group ping is spent from",

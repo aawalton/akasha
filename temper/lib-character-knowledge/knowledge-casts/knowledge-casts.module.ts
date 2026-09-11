@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const knowledgeCasts = {
   id: "01a061fa-8003-7294-ab90-2fa2f73b33f0",
-  pageTypeSlug: "module",
   type: "module",
   slug: "knowledge-casts",
   definition: "what an untyped table the game hands over is taken to be",

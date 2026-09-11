@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const destinationsStart = {
   id: "01a06269-28c0-7b43-a2ea-8b614177a2ee",
-  pageTypeSlug: "module",
   type: "module",
   slug: "destinations-start",
   definition: "where the destinations half begins once the add-on has loaded",

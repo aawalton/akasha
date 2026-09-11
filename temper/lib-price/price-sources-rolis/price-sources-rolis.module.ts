@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const priceSourcesRolis = {
   id: "01a0615d-c21c-7c3c-ad30-8d1512ee7583",
-  pageTypeSlug: "module",
   type: "module",
   slug: "price-sources-rolis",
   definition: "the writ voucher price the rolis vendor asks for a station",

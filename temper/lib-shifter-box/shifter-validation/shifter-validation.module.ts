@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const shifterValidation = {
   id: "01a06187-3648-714f-848a-aea5555200c1",
-  pageTypeSlug: "module",
   type: "module",
   slug: "shifter-validation",
   definition: "the argument checks a caller's settings must satisfy",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsSearchUiListBuild = {
   id: "01a0623e-53a0-7c7c-944a-09cd92bf699b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-search-ui-list-build",
   definition: "the row each set becomes in the result list",

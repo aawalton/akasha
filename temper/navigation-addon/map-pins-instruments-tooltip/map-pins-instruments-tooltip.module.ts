@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPinsInstrumentsTooltip = {
   id: "01a06269-2acc-729c-abb2-9a82ae72abfe",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-pins-instruments-tooltip",
   definition: "the tooltip of each instrument",

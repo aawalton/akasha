@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const destinationsChampionsData01 = {
   id: "01a06269-29b2-77c6-8646-fad9d5832e09",
-  pageTypeSlug: "module",
   type: "module",
   slug: "destinations-champions-data-01",
   definition: "one run of the champion (dolmen and world boss) achievement rows by zone",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const histoireCacheStatusBar = {
   id: "01a06197-4c8d-758c-ad11-254d709cb353",
-  pageTypeSlug: "module",
   type: "module",
   slug: "histoire-cache-status-bar",
   definition: "the coloured bar showing what one category has cached",

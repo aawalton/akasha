@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const lorebooksLibraryRows = {
   id: "01a06194-be42-71cc-95d3-c5726d7bbf42",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lorebooks-library-rows",
   definition: "building one row of the lore library list",

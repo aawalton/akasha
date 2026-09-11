@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonMenuWidgetDescription = {
   id: "01a06100-0000-7000-8000-000000000017",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-menu-widget-description",
   definition: "the block of body text, with an optional title above it",

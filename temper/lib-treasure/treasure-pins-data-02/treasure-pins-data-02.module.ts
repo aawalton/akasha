@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const treasurePinsData02 = {
   id: "01a061d5-d0bb-7d2b-a06c-4d990aedb41c",
-  pageTypeSlug: "module",
   type: "module",
   slug: "treasure-pins-data-02",
   definition: "part 02 of the pins each map has",

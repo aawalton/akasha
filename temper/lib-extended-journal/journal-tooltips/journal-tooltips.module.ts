@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const journalTooltips = {
   id: "01a0617d-5454-79d3-9467-5961f9bdd5d5",
-  pageTypeSlug: "module",
   type: "module",
   slug: "journal-tooltips",
   definition: "the item tooltip a tab shows beside the window",

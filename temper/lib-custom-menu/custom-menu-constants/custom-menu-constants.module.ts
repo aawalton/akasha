@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const customMenuConstants = {
   id: "01a0605a-581d-7429-8646-2d59767ad1f6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "custom-menu-constants",
   definition: "the fixed values a custom menu is built from",

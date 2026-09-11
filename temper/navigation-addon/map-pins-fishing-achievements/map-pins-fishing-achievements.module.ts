@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPinsFishingAchievements = {
   id: "01a06269-2aab-7282-8596-c76fba78efef",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-pins-fishing-achievements",
   definition: "the achievement behind each fishing zone",

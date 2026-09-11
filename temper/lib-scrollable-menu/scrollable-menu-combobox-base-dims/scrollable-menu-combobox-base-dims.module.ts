@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuComboboxBaseDims = {
   id: "01a06275-c444-7f18-a029-2aac2cb9b481",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-combobox-base-dims",
   definition: "the accessors and the show, hide and height methods shared by every menu class",

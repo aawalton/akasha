@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const priceLog = {
   id: "01a0615d-c219-7534-afb1-d9ceb4ddbcba",
-  pageTypeSlug: "module",
   type: "module",
   slug: "price-log",
   definition: "how the library says in the chat window that something went wrong",

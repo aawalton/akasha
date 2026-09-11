@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuComboboxOptions = {
   id: "01a06275-c446-78fe-87e8-6f982d2dfcd8",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-combobox-options",
   definition: "the reading of an options table onto the combobox field by field",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapPinsAchievements02 = {
   id: "01a06269-2a40-7f6a-bf64-5c964f6706e3",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-pins-achievements-02",
   definition: "one run of the achievement pin places by zone",

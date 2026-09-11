@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsCoreApiDropZonesSets = {
   id: "01a06231-8f1d-7d70-9ac2-92d18df83cb2",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-core-api-drop-zones-sets",
   definition: "which zones and named locations a set drops in, and which sets drop in a given zone",

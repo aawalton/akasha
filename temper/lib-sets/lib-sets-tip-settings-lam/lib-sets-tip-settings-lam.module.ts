@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const libSetsTipSettingsLam = {
   id: "01a0623c-2df6-7308-a66d-91a7225dd61b",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lib-sets-tip-settings-lam",
   definition: "the settings panel rows for the tooltip options",

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuDropdownClassShowFilter = {
   id: "01a06275-c448-7c9d-9bb0-5a9cce0d8e94",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-dropdown-class-show-filter",
   definition: "the text search that decides whether one entry survives the current filter",

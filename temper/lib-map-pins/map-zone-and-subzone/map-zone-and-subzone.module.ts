@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const mapZoneAndSubzone = {
   id: "01a06062-57df-7104-bc26-9f652527265d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "map-zone-and-subzone",
   definition: "the current map's texture name split into zone and subzone",

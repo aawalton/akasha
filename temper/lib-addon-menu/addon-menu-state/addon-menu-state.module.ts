@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonMenuState = {
   id: "01a06100-0000-7000-8000-000000000009",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-menu-state",
   definition: "the mutable tables and game manager handles shared by every module",

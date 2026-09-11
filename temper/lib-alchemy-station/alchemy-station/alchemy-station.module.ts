@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const alchemyStation = {
   id: "01a06054-98bc-78f0-afbb-f7343cb932bb",
-  pageTypeSlug: "module",
   type: "module",
   slug: "alchemy-station",
   definition: "a tab added to the alchemy crafting station and the panel behind that tab",

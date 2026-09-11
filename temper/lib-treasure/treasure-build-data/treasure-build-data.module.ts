@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const treasureBuildData = {
   id: "01a061d5-d0be-7560-b662-9a6018b10e91",
-  pageTypeSlug: "module",
   type: "module",
   slug: "treasure-build-data",
   definition: "the pin rows turned into the lookups an addon asks by",

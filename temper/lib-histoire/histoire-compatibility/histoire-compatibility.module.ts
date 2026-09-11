@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const histoireCompatibility = {
   id: "01a06197-4c92-7d6d-bba3-586ef7ec2705",
-  pageTypeSlug: "module",
   type: "module",
   slug: "histoire-compatibility",
   definition: "every part of the older library's names loaded in order",

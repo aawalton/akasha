@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const scrollableMenuApiShow = {
   id: "01a06275-c443-70ac-b0c3-8545be8ec149",
-  pageTypeSlug: "module",
   type: "module",
   slug: "scrollable-menu-api-show",
   definition: "the globals covering the context menu from options through show to clear",

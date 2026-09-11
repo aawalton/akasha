@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const luaMarshal = {
   id: "01a06059-2491-7221-94a1-8905cd719a95",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lua-marshal",
   definition: "a JavaScript value written out as the Lua literal that rebuilds the value",

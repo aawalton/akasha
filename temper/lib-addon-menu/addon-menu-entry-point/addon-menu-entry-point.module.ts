@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const addonMenuEntryPoint = {
   id: "01a06100-0000-7000-8000-000000000004",
-  pageTypeSlug: "module",
   type: "module",
   slug: "addon-menu-entry-point",
   definition: "the sole import that names the published surface",

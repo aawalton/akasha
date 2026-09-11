@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const lorebooksLibraryData01 = {
   id: "01a06181-3843-7011-b264-3ecc707c5e9d",
-  pageTypeSlug: "module",
   type: "module",
   slug: "lorebooks-library-data-01",
   definition:

@@ -2,7 +2,6 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 
 export const zonePublicApi = {
   id: "01a061e7-9336-72de-8b6e-4e0717e35ed6",
-  pageTypeSlug: "module",
   type: "module",
   slug: "zone-public-api",
   definition: "the name the library puts in the game's global table",
