@@ -105,9 +105,7 @@ test("a specifier the naming does not name lands nowhere", () => {
 
 test("a specifier matching a way in spelt with a star lands where that star says", () => {
   const naming = new Map([["akasha/*", "*"]])
-  expect(landingOf(AT, "akasha/pages/page.page-type.types.ts", naming)).toBe(
-    "pages/page.page-type.types.ts"
-  )
+  expect(landingOf(AT, "akasha/a/b/one.ts", naming)).toBe("a/b/one.ts")
   expect(landingOf(AT, "akasha/one.ts", naming)).toBe("one.ts")
 })
 
