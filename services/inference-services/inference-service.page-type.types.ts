@@ -1,7 +1,6 @@
 import type { InferenceHost } from "akasha/services/inference-services/properties/inference-host.text-property.types.ts"
 import type { InternalPort } from "akasha/services/inference-services/properties/internal-port.number-property.types.ts"
 import type { Lifecycle } from "akasha/services/inference-services/properties/lifecycle.text-property.types.ts"
-import type { PublicBind } from "akasha/services/inference-services/properties/public-bind.text-property.types.ts"
 import type { PythonVersion } from "akasha/services/inference-services/properties/python-version.text-property.types.ts"
 import type { Warm } from "akasha/services/inference-services/properties/warm.boolean-property.types.ts"
 import type { Workdir } from "akasha/services/inference-services/properties/workdir.text-property.types.ts"
@@ -19,6 +18,5 @@ export type InferenceService = Service & {
   port: Port
   internalPort?: InternalPort
   lifecycle: Lifecycle
-  publicBind?: PublicBind
   warm?: Warm
 }

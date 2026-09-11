@@ -13,7 +13,6 @@ export const inferenceService = {
     "number-property/internal-port",
     "text-property/inference-host",
     "text-property/lifecycle",
-    "text-property/public-bind",
     "text-property/python-version",
     "text-property/workdir",
   ],
@@ -26,7 +25,6 @@ export const inferenceService = {
     { pageProperty: "number-property/port", required: true, many: false },
     { pageProperty: "number-property/internal-port", required: false, many: false },
     { pageProperty: "text-property/lifecycle", required: true, many: false },
-    { pageProperty: "text-property/public-bind", required: false, many: false },
     { pageProperty: "boolean-property/warm", required: false, many: false },
   ],
   invariants: [

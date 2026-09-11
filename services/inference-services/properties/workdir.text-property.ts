@@ -12,7 +12,7 @@ export const workdir = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The folder is named from the folder the service's page sits in.",
+      statement: "The folder is named from the folder the service is provisioned into.",
     },
     {
       invariantKind: "departure",
