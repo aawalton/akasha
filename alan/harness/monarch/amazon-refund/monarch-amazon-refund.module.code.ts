@@ -1,8 +1,8 @@
+import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
 import {
   messageDate,
   orderNumberIn,
   parseCentsIn,
-  parseGroupIn,
 } from "../amazon-order/monarch-amazon-order.module.code.ts"
 import type { EmailMessage } from "../gmail-cache/monarch-gmail-cache.module.code.ts"
 
@@ -27,7 +27,7 @@ export interface AmazonRefund {
 export function parseRefundEmail(message: EmailMessage): AmazonRefund | null {
   const orderNumber = orderNumberIn(message.body)
   const totalCents = parseCentsIn(TOTAL_REFUND.exec(message.body))
-  const asin = parseGroupIn(RETURNED_ASIN.exec(message.body))
+  const asin = firstCapture(RETURNED_ASIN.exec(message.body))
   if (orderNumber === null || totalCents === null || asin === null) return null
   return {
     messageId: message.id,
@@ -35,7 +35,7 @@ export function parseRefundEmail(message: EmailMessage): AmazonRefund | null {
     asin,
     refundDate: messageDate(message.date),
     totalCents,
-    reason: parseGroupIn(RETURN_REASON.exec(message.body)),
-    statedTitle: parseGroupIn(REFUND_TITLE.exec(message.body)) ?? "",
+    reason: firstCapture(RETURN_REASON.exec(message.body)),
+    statedTitle: firstCapture(REFUND_TITLE.exec(message.body)) ?? "",
   }
 }

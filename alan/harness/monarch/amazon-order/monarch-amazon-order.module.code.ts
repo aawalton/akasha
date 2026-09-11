@@ -1,3 +1,4 @@
+import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
 import type { EmailMessage } from "../gmail-cache/monarch-gmail-cache.module.code.ts"
 
 const MONEY = /([\d,]+(?:\.\d+)?)\s*USD/
@@ -30,7 +31,7 @@ export interface AmazonOrder {
 }
 
 export function parseCentsIn(found: RegExpExecArray | null): number | null {
-  const said = parseGroupIn(found)
+  const said = firstCapture(found)
   return said === null ? null : Math.round(Number(said.replace(COMMA, "")) * 100)
 }
 
@@ -38,12 +39,8 @@ export function centsFromMoney(text: string): number | null {
   return parseCentsIn(MONEY.exec(text))
 }
 
-export function parseGroupIn(found: RegExpExecArray | null): string | null {
-  return found?.[1] ?? null
-}
-
 export function orderNumberIn(body: string): string | null {
-  return parseGroupIn(ORDER_NUMBER.exec(body))
+  return firstCapture(ORDER_NUMBER.exec(body))
 }
 
 export function messageDate(header: string): string {
@@ -61,12 +58,12 @@ export function summaryFromSubject(subject: string): string {
 }
 
 function parseItemName(found: RegExpExecArray | null): string | null {
-  const said = parseGroupIn(found)
+  const said = firstCapture(found)
   return said === null ? null : said.replace(BIDI, "").trim()
 }
 
 function parseQuantity(found: RegExpExecArray | null): number | null {
-  const said = parseGroupIn(found)
+  const said = firstCapture(found)
   return said === null ? null : Number(said)
 }
 

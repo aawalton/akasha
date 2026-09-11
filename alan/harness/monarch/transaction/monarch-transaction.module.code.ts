@@ -1,3 +1,5 @@
+import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
+
 export interface Subject {
   readonly monarchId: string
   readonly merchant: string
@@ -33,13 +35,9 @@ export function dayGap(a: string, b: string): number {
 
 const LAST_FOUR = /\(\.\.\.(\d{4})\)\s*$/
 
-function parseLastFour(found: RegExpExecArray | null): string | null {
-  return found?.[1] ?? null
-}
-
 export function accountKey(title: string): string {
   const titled = title.trim()
-  return parseLastFour(LAST_FOUR.exec(titled)) ?? titled.toLowerCase()
+  return firstCapture(LAST_FOUR.exec(titled)) ?? titled.toLowerCase()
 }
 
 export const UNCATEGORIZED = "Uncategorized"
