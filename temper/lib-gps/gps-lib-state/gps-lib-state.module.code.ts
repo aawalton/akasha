@@ -1,12 +1,12 @@
-import { asLib } from "../gps-casts/gps-casts.module.code.ts"
+import { asLib } from "akasha/temper/lib-gps/gps-casts/gps-casts.module.code.ts"
 import {
   BLACKREACH_ROOT_MAP_INDEX,
   CHAT_SHORT_TAG,
   LIB_EVENT_STATE_CHANGED,
   LIB_IDENTIFIER,
   TAMRIEL_MAP_INDEX,
-} from "../gps-constants/gps-constants.module.code.ts"
-import type { InternalState, Lib } from "../gps-types/gps-types.module.code.ts"
+} from "akasha/temper/lib-gps/gps-constants/gps-constants.module.code.ts"
+import type { InternalState, Lib } from "akasha/temper/lib-gps/gps-types/gps-types.module.code.ts"
 
 function createLogger(this: void): DebugLogger {
   if (LibDebugLogger === undefined) {

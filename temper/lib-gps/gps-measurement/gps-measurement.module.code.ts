@@ -1,5 +1,8 @@
-import { INTERNAL } from "../gps-lib-state/gps-lib-state.module.code.ts"
-import type { MeasurementClass, MeasurementInstance } from "../gps-types/gps-types.module.code.ts"
+import { INTERNAL } from "akasha/temper/lib-gps/gps-lib-state/gps-lib-state.module.code.ts"
+import type {
+  MeasurementClass,
+  MeasurementInstance,
+} from "akasha/temper/lib-gps/gps-types/gps-types.module.code.ts"
 
 const Measurement = ZO_Object.Subclass<MeasurementClass>()
 

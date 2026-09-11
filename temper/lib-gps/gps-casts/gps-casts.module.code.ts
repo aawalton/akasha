@@ -4,7 +4,7 @@ import type {
   GlobalObjectTable,
   Lib,
   SetMapResultFn,
-} from "../gps-types/gps-types.module.code.ts"
+} from "akasha/temper/lib-gps/gps-types/gps-types.module.code.ts"
 
 export function asGlobalFnTable(value: unknown): GlobalFnTable {
   return value as GlobalFnTable

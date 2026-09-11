@@ -1,7 +1,10 @@
-import { asCompatLib, asGlobalObjectTable } from "../gps-casts/gps-casts.module.code.ts"
-import { OLD_LIB_EVENT_STATE_CHANGED } from "../gps-constants/gps-constants.module.code.ts"
-import { lib as libv3 } from "../gps-lib-state/gps-lib-state.module.code.ts"
-import type { CompatLib } from "../gps-types/gps-types.module.code.ts"
+import {
+  asCompatLib,
+  asGlobalObjectTable,
+} from "akasha/temper/lib-gps/gps-casts/gps-casts.module.code.ts"
+import { OLD_LIB_EVENT_STATE_CHANGED } from "akasha/temper/lib-gps/gps-constants/gps-constants.module.code.ts"
+import { lib as libv3 } from "akasha/temper/lib-gps/gps-lib-state/gps-lib-state.module.code.ts"
+import type { CompatLib } from "akasha/temper/lib-gps/gps-types/gps-types.module.code.ts"
 
 function compatLocalToGlobal(
   this: void,

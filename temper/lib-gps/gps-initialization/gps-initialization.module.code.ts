@@ -1,7 +1,7 @@
-import { LIB_IDENTIFIER } from "../gps-constants/gps-constants.module.code.ts"
-import { INTERNAL } from "../gps-lib-state/gps-lib-state.module.code.ts"
-import { MapAdapter } from "../gps-map-adapter/gps-map-adapter.module.code.ts"
-import { TamrielOMeter } from "../gps-tamriel-o-meter/gps-tamriel-o-meter.module.code.ts"
+import { LIB_IDENTIFIER } from "akasha/temper/lib-gps/gps-constants/gps-constants.module.code.ts"
+import { INTERNAL } from "akasha/temper/lib-gps/gps-lib-state/gps-lib-state.module.code.ts"
+import { MapAdapter } from "akasha/temper/lib-gps/gps-map-adapter/gps-map-adapter.module.code.ts"
+import { TamrielOMeter } from "akasha/temper/lib-gps/gps-tamriel-o-meter/gps-tamriel-o-meter.module.code.ts"
 
 function initializeSaveData(this: void): undefined {}
 

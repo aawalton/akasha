@@ -1,14 +1,14 @@
-import { DEFAULT_TAMRIEL_SIZE } from "../gps-constants/gps-constants.module.code.ts"
-import { INTERNAL, lib } from "../gps-lib-state/gps-lib-state.module.code.ts"
-import { MapStack } from "../gps-map-stack/gps-map-stack.module.code.ts"
-import { Measurement } from "../gps-measurement/gps-measurement.module.code.ts"
+import { DEFAULT_TAMRIEL_SIZE } from "akasha/temper/lib-gps/gps-constants/gps-constants.module.code.ts"
+import { INTERNAL, lib } from "akasha/temper/lib-gps/gps-lib-state/gps-lib-state.module.code.ts"
+import { MapStack } from "akasha/temper/lib-gps/gps-map-stack/gps-map-stack.module.code.ts"
+import { Measurement } from "akasha/temper/lib-gps/gps-measurement/gps-measurement.module.code.ts"
 import type {
   MapAdapterInstance,
   MeasurementInstance,
   TamrielOMeterClass,
   TamrielOMeterInstance,
   WorldSizeInstance,
-} from "../gps-types/gps-types.module.code.ts"
+} from "akasha/temper/lib-gps/gps-types/gps-types.module.code.ts"
 
 const TAMRIEL_MAP_INDEX = INTERNAL.TAMRIEL_MAP_INDEX
 const BLACKREACH_ROOT_MAP_INDEX = INTERNAL.BLACKREACH_ROOT_MAP_INDEX

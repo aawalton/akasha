@@ -1,6 +1,9 @@
-import { DEFAULT_TAMRIEL_SIZE } from "../gps-constants/gps-constants.module.code.ts"
-import { INTERNAL } from "../gps-lib-state/gps-lib-state.module.code.ts"
-import type { WorldSizeClass, WorldSizeInstance } from "../gps-types/gps-types.module.code.ts"
+import { DEFAULT_TAMRIEL_SIZE } from "akasha/temper/lib-gps/gps-constants/gps-constants.module.code.ts"
+import { INTERNAL } from "akasha/temper/lib-gps/gps-lib-state/gps-lib-state.module.code.ts"
+import type {
+  WorldSizeClass,
+  WorldSizeInstance,
+} from "akasha/temper/lib-gps/gps-types/gps-types.module.code.ts"
 
 const WorldSize = ZO_Object.Subclass<WorldSizeClass>()
 

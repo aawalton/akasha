@@ -2,14 +2,14 @@ import {
   asGlobalFnTable,
   asGlobalObjectTable,
   asSetMapResultFn,
-} from "../gps-casts/gps-casts.module.code.ts"
-import { INTERNAL, lib } from "../gps-lib-state/gps-lib-state.module.code.ts"
+} from "akasha/temper/lib-gps/gps-casts/gps-casts.module.code.ts"
+import { INTERNAL, lib } from "akasha/temper/lib-gps/gps-lib-state/gps-lib-state.module.code.ts"
 import type {
   MapAdapterClass,
   MapAdapterInstance,
   WorldSizeInstance,
-} from "../gps-types/gps-types.module.code.ts"
-import { WorldSize } from "../gps-world-size/gps-world-size.module.code.ts"
+} from "akasha/temper/lib-gps/gps-types/gps-types.module.code.ts"
+import { WorldSize } from "akasha/temper/lib-gps/gps-world-size/gps-world-size.module.code.ts"
 
 const CALIBRATION = { x: 0, y: 0 }
 

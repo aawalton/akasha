@@ -1,10 +1,10 @@
-import { INTERNAL } from "../gps-lib-state/gps-lib-state.module.code.ts"
+import { INTERNAL } from "akasha/temper/lib-gps/gps-lib-state/gps-lib-state.module.code.ts"
 import type {
   MapAdapterInstance,
   MapStackClass,
   MapStackInstance,
   TamrielOMeterInstance,
-} from "../gps-types/gps-types.module.code.ts"
+} from "akasha/temper/lib-gps/gps-types/gps-types.module.code.ts"
 
 const MapStack = ZO_Object.Subclass<MapStackClass>()
 
