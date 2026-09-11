@@ -22,5 +22,9 @@ export const alanwaltonHealthAnchoredRead = {
       statement:
         "A refused read comes back empty with a valid anchor and no error as a quiet read does.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A read that errored hands back the error that ended it.",
+    },
   ],
 } as const satisfies ShellScript
