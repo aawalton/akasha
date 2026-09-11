@@ -31,14 +31,14 @@ export const aranyaOnePackage = {
         "The mac build does `cd <nativeShellDir>`, `bun install`, `bun run ios:add` in `foundation.module.code.ts`, so each of the three ios-app folders is installed on its own — which `Package Only When Needed` names as exactly when a folder needs to be a package. Nothing reaches them by name: they are `@alanwalton/*-native-shell`, their dependencies are Capacitor plugins and their scripts are `cap` calls. So this intent waits on the mac build installing at the root instead.",
     },
     {
-      statement: "A cluster service deploys naming no package but the root.",
-      workingMemory:
-        "Measured by writing both bun-service Dockerfiles: the only lines naming a package are the `COPY <dir>/package.json` ones for ops-extension, vscode-typings and the three ios-apps, emitted from listWorkspaceDirs so bun install --frozen-lockfile finds every member. Every other line is a path: collectExecutedDeps resolves akasha/ by path since 3207c923332 and emits a folder copy each, so it never empties. The four tool-images take no dirs and already name only the root.\n",
-    },
-    {
       statement: "No folder but the root is a workspace package.",
       workingMemory:
         "No tool walks up: react-router and Capacitor both take process.cwd(), measured in node_modules. So the 7 web apps need no tool change; 5 go now, and alan/web pairs with web-capacitor once 21 specifiers come off its exports map. The 3 ios-apps wait on the mac build installing at the root. 2 can never go: ops-extension is vscode own descriptor, and vscode-typings is named workspace:* by the root. A removal leaving a dangling workspace:* fails the deploy frozen-lockfile gate.",
+    },
+    {
+      statement: "A cluster service deploys naming no package but the root.",
+      workingMemory:
+        "Measured by writing both bun-service Dockerfiles: the only lines naming a package are the `COPY <dir>/package.json` ones for ops-extension, vscode-typings and the three ios-apps, emitted from listWorkspaceDirs so bun install --frozen-lockfile finds every member. Every other line is a path: collectExecutedDeps resolves akasha/ by path since 3207c923332 and emits a folder copy each, so it never empties. The four tool-images take no dirs and already name only the root.\n",
     },
   ],
 } as const satisfies Initiative
