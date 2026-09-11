@@ -188,9 +188,16 @@ test("a key the pages' type requires is refused rather than taken away", async (
   expect(said.refused ?? "").toContain("is required, so taking it away is a retype")
 })
 
-test("an argument this change was handed no value for is refused by the key", async () => {
+test("a run naming no page type writes every page holding the key", async () => {
   const said = await runChange(worldFor(BODIES, [DECLARED], EVERY), { key: "sectionOfSlug" })
 
+  expect(said.refused).toBeNull()
+  expect(pathsIn(said)).toEqual([ONE_AT, TWO_AT])
+})
+
+test("an argument this change was handed no value for is refused by the key", async () => {
+  const said = await runChange(worldFor(BODIES, [DECLARED], EVERY), {})
+
   expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toMatch(/`page-type` names what this change is handed/)
+  expect(said.refused ?? "").toMatch(/`key` names what this change is handed/)
 })

@@ -18,7 +18,10 @@ export async function removePropertyFromEveryPage(
 ): Promise<Answer> {
   const held = holdingIn(world, given)
   if (typeof held === "string") return refusing(held)
-  if (held.length === 0) return refusing(`no \`${given.pageType}\` carries \`${given.key}\``)
+  if (held.length === 0) {
+    const said = given.pageType === null ? "no page" : `no \`${given.pageType}\``
+    return refusing(`${said} carries \`${given.key}\``)
+  }
   const carrier = carryingOver(world)
   for (const path of held) {
     const off = await carrier.reaching(REMOVE_PAGE_PROPERTY, { at: path, key: given.key })

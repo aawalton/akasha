@@ -4,7 +4,7 @@ export const valueCarrying = {
   id: "01a087bd-aa76-78f4-b3d4-1c9d3e6e3a8d",
   type: "module",
   slug: "value-carrying",
-  definition: "which pages of one page type hold a key, and carrying that value under a second key",
+  definition: "which pages hold a key, and carrying that value under a second key",
   code: "ts",
   test: "ts",
   invariants: [
@@ -37,6 +37,10 @@ export const valueCarrying = {
     {
       invariantKind: "departure",
       statement: "A page type the index does not name is refused.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "A run over one key naming no page type reads every page type the index names.",
     },
     {
       invariantKind: "departure",

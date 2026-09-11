@@ -92,6 +92,7 @@ function typedIn(carried: readonly Carried[] | null, values: Values = VALUES): W
     ...worldOf(BODIES),
     index: {
       kindsUnder: () => new Set(["story-chapter-read"]),
+      pageTypesIn: () => new Set(["story-chapter-read"]),
       propertiesIfNamed: () => carried,
       valuesByPath: () => values,
     } as never,
@@ -182,6 +183,14 @@ test("a key the page type no longer declares is answered rather than refused", (
 
 test("a page type the index does not name is refused over one key", () => {
   expect(holdingIn(typedIn(null), HOLDING)).toBe("`story-chapter-read` names no page type")
+})
+
+test("a run over one key naming no page type reads every page type the index names", () => {
+  expect(holdingIn(typedIn(DECLARED), { ...HOLDING, pageType: null })).toEqual([ONE_AT, TWO_AT])
+})
+
+test("a run over one key handed no page type is asked for every page type", () => {
+  expect(keyAskedIn({ key: "a" })).toEqual({ pageType: null, key: "a", atMost: null })
 })
 
 test("the arguments handed in become what a run over one key is asked for", () => {

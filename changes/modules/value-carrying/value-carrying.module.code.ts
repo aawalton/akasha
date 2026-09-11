@@ -26,7 +26,7 @@ export type ValueCarryingAsked = {
 }
 
 export type KeyHoldingAsked = {
-  readonly pageType: string
+  readonly pageType: string | null
   readonly key: string
   readonly atMost?: number | null
 }
@@ -46,13 +46,19 @@ export function spelledAs(held: unknown, many: boolean): string | null {
   return JSON.stringify(held[0]) ?? null
 }
 
+export function kindsFor(world: World, pageType: string | null): Iterable<string> {
+  if (pageType === null) return [...world.index.pageTypesIn()].sort()
+  return world.index.kindsUnder(pageType)
+}
+
 export function holdingIn(world: World, given: KeyHoldingAsked): readonly string[] | string {
-  if (world.index.propertiesIfNamed(given.pageType) === null) {
-    return `\`${given.pageType}\` names no page type`
+  const pageType = given.pageType
+  if (pageType !== null && world.index.propertiesIfNamed(pageType) === null) {
+    return `\`${pageType}\` names no page type`
   }
   const found: string[] = []
   const atMost = given.atMost ?? null
-  for (const kind of world.index.kindsUnder(given.pageType)) {
+  for (const kind of kindsFor(world, pageType)) {
     for (const [path, value] of world.index.valuesByPath(kind)) {
       if (atMost !== null && found.length >= atMost) return found
       if (value[given.key] === undefined) continue
@@ -115,8 +121,7 @@ export function atMostIn(said: string | undefined): number | null | string {
 }
 
 export function keyAskedIn(given: Asked): KeyHoldingAsked | string {
-  const pageType = given[PAGE_TYPE]
-  if (pageType === undefined) return missing(PAGE_TYPE)
+  const pageType = given[PAGE_TYPE] ?? null
   const key = given[KEY]
   if (key === undefined) return missing(KEY)
   const atMost = atMostIn(given[AT_MOST])

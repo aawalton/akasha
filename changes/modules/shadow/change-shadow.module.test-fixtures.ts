@@ -304,6 +304,7 @@ export function worldOfType(
 ): World {
   const index = {
     kindsUnder: () => new Set([kind]),
+    pageTypesIn: () => new Set([kind]),
     propertiesIfNamed: () => carried,
     valuesByPath: () => values,
   } as never

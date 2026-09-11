@@ -7,7 +7,7 @@ export const removePropertyFromEveryPage = {
   changeMode: "change-mode-remove",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
-  definition: "one key taken off every page of one page type, with the values that key has",
+  definition: "one key taken off every page, or off every page of one page type, with its values",
   takesAtMost: true,
   code: "ts",
   test: "ts",
@@ -20,6 +20,10 @@ export const removePropertyFromEveryPage = {
     {
       invariantKind: "departure",
       statement: "A key the page type no longer declares goes from every page holding it.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "A run naming no page type writes every page holding the key.",
     },
     {
       invariantKind: "departure",
