@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "48 refusals over 43 files in 27 families, from 197. Only 2 have a leg in checks/, both passingFor, a false pair. A bare literal no longer refuses: the check's page already said a body with nothing to change cannot drift. What cannot fold is framework exports a router finds by name and false pairs: a free name prints as written, and so does the type a name declares. Nothing stops a new one landing — a command and its module arrived holding 14 duplicate families at once.",
+        "Six checks are not green, and three of them are one cause: 62 shipped .dds textures every addon manifest declares and the build copies to dist, untracked since the August port, claimed by no page. The way in for bytes is there — holdsBytes with runsFileLength false — but admits one named file beside a page, not sixteen in a subfolder nobody may rename. no-rule-in-two-files is at 6 from 197, over daysFromCivil, a loader behind a secret, and one operator pair. 11 test files fail.",
     },
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
