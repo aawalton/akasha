@@ -115,6 +115,11 @@ test("a declaration file the change takes away is judged, so one relying on its 
   expect(said[0]?.reason).toContain("TS2304")
 })
 
+test("that declaration going beside a file to root judges the file and not the declarations", async () => {
+  const at = { [DECLARED_AT]: null, "akasha/apart.ts": "export const apart = 1\n" }
+  expect(await judged(change(relying(), at))).toEqual([])
+})
+
 test("what a config's include names is read as a pattern rather than as plain text", () => {
   expect(matching("a/src/*.ts").test("a/src/one.ts")).toBe(true)
   expect(matching("a/src/*.ts").test("a/src/deep/one.ts")).toBe(false)
@@ -132,22 +137,15 @@ test("a file a lua runtime library's config names is compiled by that config rat
   expect(claimed("humming/humming.hum.code.ts")).toBe(false)
 })
 
-test("a satisfies clause is narrowed where it stands, and the body keeps every line it had", () => {
-  const said = omittingIn(THING_AT, WITHOUT, ["held", "other"])
+test("a satisfies clause is narrowed on its own line, the body keeping every line and import", () => {
+  const said = omittingIn(THING_AT, WITHOUT, ["held", "other"]) ?? ""
   expect(said).toContain('satisfies Omit<Thing, "held" | "other">')
-  expect(said?.split("\n").length).toBe(WITHOUT.split("\n").length)
-})
-
-test("the narrowing reaches for no import, `Omit` being TypeScript's own", () => {
-  const said = omittingIn(THING_AT, WITHOUT, ["held"]) ?? ""
+  expect(said.split("\n").length).toBe(WITHOUT.split("\n").length)
   expect(said.match(/^import/gm)).toEqual(WITHOUT.match(/^import/gm))
 })
 
-test("keys naming nothing narrow nothing at all", () => {
+test("keys naming nothing, and a body with no satisfies clause, narrow nothing at all", () => {
   expect(omittingIn(THING_AT, WITHOUT, [])).toBe(null)
-})
-
-test("a body carrying no satisfies clause narrows to nothing, so it is judged as it stands", () => {
   expect(omittingIn("akasha/one.ts", "export const one = 1\n", ["held"])).toBe(null)
 })
 

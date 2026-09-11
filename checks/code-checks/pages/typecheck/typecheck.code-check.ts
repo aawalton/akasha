@@ -260,7 +260,8 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A change taking away a file no import reaches has the declaration files judged.",
+      statement:
+        "A change taking away a file no import reaches and rooting nothing has the declarations judged.",
     },
     {
       invariantKind: "departure",

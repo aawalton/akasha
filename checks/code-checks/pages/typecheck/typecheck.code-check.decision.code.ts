@@ -286,7 +286,7 @@ export async function foundIn(given: Change, shadow: Shadow): Promise<readonly F
   const placed = placingOver(every, (one) => textOf(change.after(one)))
   const declared = declaringIn(change, shadow.index).filter((one) => !claimed(one))
   const named = [...new Set([...roots, ...declared])]
-  const asked = orphaned.length === 0 ? roots : named
+  const asked = roots.length === 0 && orphaned.length > 0 ? named : roots
   if (asked.length === 0) return []
   const read = bodiesOf(change, mintingIn(change, [...waitingKeys(shadow)], shadow.index), placed)
   const at = join(root, CONFIG_NAME)
