@@ -72,6 +72,15 @@ export const pageEntries = {
       statement: "Reading stops at the first numbered file that is not there.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A caller handing in how a body is read is answered from those bodies rather than off the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body a caller hands in that holds no JSON object is passed over there.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the index.",
     },

@@ -1,6 +1,7 @@
 import { mkdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import { rowsOver } from "akasha/pages/entries/page-entries.module.code.ts"
 import {
   DECLARING_UNDER,
   declaredOf,
@@ -17,10 +18,13 @@ import { indexIdentity } from "akasha/pages/indexes/identity/index-identity.inde
 import { importIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
 import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
 import { LISTED_UNDER, listedOf } from "akasha/pages/indexes/listing/index-listing.index.code.ts"
-import { reachingBuilt } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
+import {
+  bodiesAt,
+  reachingBuilt,
+} from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import { claimingIn } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { indexPath } from "akasha/pages/indexes/path/index-path.index.ts"
-import { sidecarsIn } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
+import { sidecarsIn, under } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import { knownIn } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import {
   type Drift,
@@ -126,7 +130,16 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
   const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
   drift.push(reconcile(join(root, VALUE), valued, root, put))
   const known = knownIn(readingAt(root), (path) => valueAt(path, repo))
-  const filed = held.map((one) => relationIn(one.value, one.path, known, repo))
+  const beside = bodiesAt(repo)
+  const filed = held.map((one) =>
+    relationIn(
+      one.value,
+      one.path,
+      known,
+      repo,
+      rowsOver(under(repo, one.path), one.value, known.entriedIn(one.value), beside)
+    )
+  )
   const relation = filed.flatMap((one) => one.entries)
   drift.push(reconcile(join(root, RELATION), relation, root, put))
   const naming = reachingBuilt(held, repo, fileProperties, filedBy)

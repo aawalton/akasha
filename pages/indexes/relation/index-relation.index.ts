@@ -76,5 +76,22 @@ export const indexRelation = {
       invariantKind: "departure",
       statement: "A relation nested deeper than one record is not reached.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A relation in an entry row files an edge from the row's page rather than from the row.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A relation an entry row states is reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A relation nested in a record inside an entry row is not reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rows are handed in rather than read here.",
+    },
   ],
 } as const satisfies Index

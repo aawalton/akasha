@@ -174,6 +174,8 @@ const KNOWS_NOTHING: Shaped = {
   fieldsOf: () => [],
   slugOfKeyIn: () => null,
   fieldOfKey: () => null,
+  rowFieldOfKey: () => null,
+  entriedIn: () => [],
 }
 
 export function knownOf(said: Partial<Shaped>): Shaped {

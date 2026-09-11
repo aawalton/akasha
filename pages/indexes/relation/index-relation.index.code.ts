@@ -1,10 +1,12 @@
 import { join } from "node:path"
+import type { Rowing } from "akasha/pages/entries/page-entries.module.code.ts"
 import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import { under } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import {
   namesIn,
   namesMortal,
   namingsIn,
+  namingsInRows,
   reaches,
   type Shaped,
 } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
@@ -26,7 +28,13 @@ export type Filed = {
 
 export const NOTHING_FILED: Filed = { entries: [], refused: [] }
 
-export function relationIn(value: Value, path: string, known: Shaped, repo: string): Filed {
+export function relationIn(
+  value: Value,
+  path: string,
+  known: Shaped,
+  repo: string,
+  rowing: readonly Rowing[]
+): Filed {
   const id = textAt(value, "id")
   if (id === null) return NOTHING_FILED
   const own = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
@@ -35,7 +43,7 @@ export function relationIn(value: Value, path: string, known: Shaped, repo: stri
   const entries: Entry[] = []
   const refused: string[] = []
   const already = new Set<string>()
-  for (const one of namingsIn(value, known)) {
+  for (const one of [...namingsIn(value, known), ...namingsInRows(rowing, known)]) {
     if (one.identity) continue
     const wanted = known.targetOf(one.propertySlug)
     if (wanted === null) continue

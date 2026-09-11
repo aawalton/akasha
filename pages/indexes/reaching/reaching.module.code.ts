@@ -1,4 +1,5 @@
 import { addressIn, type PageAddress } from "akasha/pages/address/page-address.module.code.ts"
+import type { Rowed, Rowing } from "akasha/pages/entries/page-entries.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { schemaAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import {
@@ -19,6 +20,8 @@ import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.c
 const RECORD = "record-property"
 
 const ONE_OF = "one-of-property"
+
+const ENTRY = "page-property-entry"
 
 const MEMBERS = "members"
 
@@ -57,6 +60,8 @@ export type Shaped = Known & {
   readonly fieldsOf: (propertySlug: string) => readonly string[]
   readonly slugOfKeyIn: (value: Value, key: string) => string | null
   readonly fieldOfKey: (propertySlug: string, key: string) => string | null
+  readonly rowFieldOfKey: (slug: string, key: string) => string | null
+  readonly entriedIn: (value: Value) => readonly Rowed[]
 }
 
 function fieldsIn(value: Value): readonly string[] {
@@ -142,6 +147,36 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
     if (slug !== null) fields.set(slug, fieldsIn(value))
   }
 
+  const rowFields = new Map<string, readonly string[]>()
+  for (const one of everyOfType(reading, ENTRY)) {
+    const value = pageOf(one.path)
+    if (value === null) continue
+    const slug = textAt(value, "slug")
+    if (slug !== null) rowFields.set(slug, fieldsIn(value))
+  }
+
+  const entried = new Map<string, readonly Rowed[]>()
+  const entriedOf = (pageTypeSlug: string): readonly Rowed[] => {
+    const found = entried.get(pageTypeSlug)
+    if (found !== undefined) return found
+    const made = (propertiesIfNamedOf(pageTypeSlug, reading, pageOf) ?? []).filter(
+      (one) => one.pageTypeSlug === ENTRY
+    )
+    entried.set(pageTypeSlug, made)
+    return made
+  }
+
+  const keyedAmong = (
+    held: ReadonlyMap<string, readonly string[]>,
+    slug: string,
+    key: string
+  ): string | null => {
+    for (const one of held.get(slug) ?? []) {
+      if (keyOfSlug.get(one) === key) return one
+    }
+    return null
+  }
+
   const members = new Map<string, readonly string[]>()
   for (const one of everyOfType(reading, ONE_OF)) {
     const value = pageOf(one.path)
@@ -201,11 +236,11 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
       const said = carriedBy(slugOf(stated)).get(key)
       return said === undefined ? null : said
     },
-    fieldOfKey: (propertySlug, key) => {
-      for (const one of fields.get(propertySlug) ?? []) {
-        if (keyOfSlug.get(one) === key) return one
-      }
-      return null
+    fieldOfKey: (propertySlug, key) => keyedAmong(fields, propertySlug, key),
+    rowFieldOfKey: (slug, key) => keyedAmong(rowFields, slug, key),
+    entriedIn: (value) => {
+      const stated = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+      return stated === null ? [] : entriedOf(slugOf(stated))
     },
   }
 }
@@ -346,6 +381,22 @@ export type Naming = {
   readonly identity: boolean
 }
 
+export function namingsAmong(
+  record: Value,
+  under: string,
+  fieldOf: (key: string) => string | null,
+  identity: boolean
+): readonly Naming[] {
+  const found: Naming[] = []
+  for (const [key, held] of Object.entries(record)) {
+    if (held === null) continue
+    const field = fieldOf(key)
+    if (field === null) continue
+    found.push({ key, propertySlug: field, said: `${under} ${field}`, held, identity })
+  }
+  return found
+}
+
 export function namingsIn(value: Value, known: Shaped): readonly Naming[] {
   const found: Naming[] = []
   for (const [key, held] of Object.entries(value)) {
@@ -359,19 +410,23 @@ export function namingsIn(value: Value, known: Shaped): readonly Naming[] {
     }
     if (known.fieldsOf(propertySlug).length === 0) continue
     for (const entry of recordsIn(held)) {
-      for (const [inner, said] of Object.entries(entry)) {
-        if (said === null) continue
-        const field = known.fieldOfKey(propertySlug, inner)
-        if (field === null) continue
-        found.push({
-          key: inner,
-          propertySlug: field,
-          said: `${propertySlug} ${field}`,
-          held: said,
-          identity,
-        })
-      }
+      found.push(
+        ...namingsAmong(
+          entry,
+          propertySlug,
+          (inner) => known.fieldOfKey(propertySlug, inner),
+          identity
+        )
+      )
     }
   }
   return found
+}
+
+export function namingsInRows(rowing: readonly Rowing[], known: Shaped): readonly Naming[] {
+  return rowing.flatMap((one) =>
+    one.rows.flatMap((row) =>
+      namingsAmong(row, one.slug, (key) => known.rowFieldOfKey(one.slug, key), false)
+    )
+  )
 }

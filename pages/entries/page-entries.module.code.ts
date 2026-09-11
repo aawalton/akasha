@@ -77,6 +77,42 @@ export function entriesAt(
   return { entries: found }
 }
 
+export type Rowed = Entried & { readonly pagePropertySlug: string }
+
+export type Rowing = {
+  readonly slug: string
+  readonly rows: readonly Value[]
+}
+
+export type Beside = (at: string) => string | null
+
+export function rowsOver(
+  page: string,
+  value: Value,
+  declared: Iterable<Rowed>,
+  bodyAt: Beside
+): readonly Rowing[] {
+  const found: Rowing[] = []
+  const there = (at: string): boolean => bodyAt(at) !== null
+  for (const one of entriedAmong(declared)) {
+    const said = value[one.key]
+    if (typeof said !== "string") continue
+    const parts = one.uncommitted
+      ? uncommittedPartsOf(page, one.propertySlug, said, there)
+      : partsOf(page, one.propertySlug, said, there)
+    const rows: Value[] = []
+    for (const at of parts) {
+      const body = bodyAt(at)
+      if (body === null) continue
+      const read = entriesIn(at, body)
+      if ("refused" in read) continue
+      rows.push(...read.entries)
+    }
+    if (rows.length > 0) found.push({ slug: one.pagePropertySlug, rows })
+  }
+  return found
+}
+
 export function entriedValue(
   root: string,
   page: string,

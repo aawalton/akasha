@@ -43,6 +43,8 @@ function worldTold(told: Told): World {
     fieldsOf: () => [],
     slugOfKeyIn: () => told.slug,
     fieldOfKey: () => null,
+    rowFieldOfKey: () => null,
+    entriedIn: () => [],
   }
   return {
     root: "/nowhere",

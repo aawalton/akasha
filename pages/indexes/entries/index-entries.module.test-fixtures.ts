@@ -132,7 +132,10 @@ const TARGETS: Readonly<Record<string, string | readonly string[]>> = {
   "either-slug": ["domain", "note"],
   "gone-slugs": "note",
   "page-type-slug": "page-type",
+  "case-page": "domain",
 }
+
+const ROW_FIELDS: Readonly<Record<string, readonly string[]>> = { cases: ["case-page"] }
 
 const ADMITTING: Readonly<Record<string, readonly string[]>> = {
   domain: ["domain", "module"],
@@ -153,6 +156,7 @@ const KEYED: Readonly<Record<string, string>> = {
   holds: "holds",
   inner: "inner",
   pageTypeSlug: "page-type-slug",
+  casePage: "case-page",
 }
 
 export function shaped(pages: Readonly<Record<string, string>>): Shaped {
@@ -177,6 +181,12 @@ export function shaped(pages: Readonly<Record<string, string>>): Shaped {
       const fields = propertySlug === "parts" ? ["part-slugs"] : []
       return slug !== null && fields.includes(slug) ? slug : null
     },
+    rowFieldOfKey: (slug, key) => {
+      const said = KEYED[key] ?? null
+      const fields = ROW_FIELDS[slug] ?? []
+      return said !== null && fields.includes(said) ? said : null
+    },
+    entriedIn: () => [],
   }
 }
 

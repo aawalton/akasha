@@ -1,3 +1,4 @@
+import { type Rowing, rowsOver } from "akasha/pages/entries/page-entries.module.code.ts"
 import { pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   idsUnnamed,
@@ -36,7 +37,7 @@ import {
   sidecarsOver,
   under,
 } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
-import { knownIn } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+import { knownIn, type Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import { indexThere } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   NOTHING_FILED,
@@ -273,6 +274,16 @@ export function settlingOver(
     ...declaring,
     ...valued,
   ])
+  const wasBody: Body = (at) => {
+    const one = carried.get(under(repo, at))
+    return one === undefined ? bodyAt(at) : one.before
+  }
+  const nowBody: Body = (at) => {
+    const one = carried.get(under(repo, at))
+    return one === undefined ? bodyAt(at) : one.after
+  }
+  const rowsFor = (path: string, value: Value, shaped: Shaped, body: Body): readonly Rowing[] =>
+    rowsOver(under(repo, path), value, shaped.entriedIn(value), body)
   const wasKnown = knownIn(reading, wasPageOf)
   const known = knownIn(stepped, nowPageOf)
   const turnedRelations = relationsTurned(schemaAt(reading), schemaAt(overSchema))
@@ -286,15 +297,35 @@ export function settlingOver(
   const refiling = [...relating, ...rebound.filter((one) => !already.has(one.path))]
   const was = [
     ...held.map((one) =>
-      one.was === null ? NOTHING_FILED : relationIn(one.was, one.path, wasKnown, repo)
+      one.was === null
+        ? NOTHING_FILED
+        : relationIn(
+            one.was,
+            one.path,
+            wasKnown,
+            repo,
+            rowsFor(one.path, one.was, wasKnown, wasBody)
+          )
     ),
-    ...refiling.map((one) => relationIn(one.value, one.path, wasKnown, repo)),
+    ...refiling.map((one) =>
+      relationIn(
+        one.value,
+        one.path,
+        wasKnown,
+        repo,
+        rowsFor(one.path, one.value, wasKnown, wasBody)
+      )
+    ),
   ]
   const now = [
     ...held.map((one) =>
-      one.now === null ? NOTHING_FILED : relationIn(one.now, one.path, known, repo)
+      one.now === null
+        ? NOTHING_FILED
+        : relationIn(one.now, one.path, known, repo, rowsFor(one.path, one.now, known, nowBody))
     ),
-    ...refiling.map((one) => relationIn(one.value, one.path, known, repo)),
+    ...refiling.map((one) =>
+      relationIn(one.value, one.path, known, repo, rowsFor(one.path, one.value, known, nowBody))
+    ),
   ]
   const relation = filingOf(
     reading,
