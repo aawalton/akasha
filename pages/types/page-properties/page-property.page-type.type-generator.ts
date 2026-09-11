@@ -1,7 +1,9 @@
 import type { Adding } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { exportedAs, typedAs } from "../../export-name/page-export-name.module.code.ts"
 import { besideAt } from "../../file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../shadow/shadow.module.code.ts"
+import { keysFor, resolvingIn } from "../page-type.page-type.type-generator.ts"
 
 const PAGE_PROPERTY = "page-property"
 
@@ -24,6 +26,8 @@ const NULLABLE = "nullable"
 const LIST_AT = "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 const RELATION = "relation-property"
+
+const RECORD = "record-property"
 
 const SLUG_AT = "text-property/slug"
 
@@ -130,16 +134,32 @@ function oneOfIn(shadow: Shadow, value: Record<string, unknown>): Written | null
 }
 
 export type Asked = {
+  readonly at: string
   readonly kind: string
   readonly path: string
+  readonly resolving: (named: string) => Schema | null
   readonly slug: string
   readonly value: Record<string, unknown>
+}
+
+function recordIn(shadow: Shadow, asked: Asked): Written | null {
+  const keys = keysFor(shadow, asked.value, asked.resolving)
+  if (keys.length === 0) return null
+  const imports: string[] = []
+  for (const one of keys) {
+    if (one.at === asked.at) continue
+    const said = `import type { ${one.typeName} } from "${PACKAGE}${one.at}"`
+    if (!imports.includes(said)) imports.push(said)
+  }
+  const lines = keys.map((one) => `  ${one.key}${one.optional ? "?" : ""}: ${one.typeName}`)
+  return { held: `{\n${lines.join("\n")}\n}`, imports }
 }
 
 export function writtenFor(shadow: Shadow, asked: Asked): Written | null {
   const held = HELD.get(asked.kind)
   if (held !== undefined) return { held, imports: [] }
   if (asked.kind === RELATION) return memberIn(shadow, SLUG_AT)
+  if (asked.kind === RECORD) return recordIn(shadow, asked)
   if (CHOSEN.has(asked.kind)) return chosenIn(asked.path, asked.slug)
   if (asked.kind === ONE_OF) return oneOfIn(shadow, asked.value)
   if (asked.kind !== COMPUTED) return null
@@ -169,6 +189,7 @@ export function bodyFor(slug: string, written: Written, many: boolean, nothing: 
 export function generateTypes(_root: string, shadow: Shadow): readonly Adding[] {
   const written: Adding[] = []
   const many = manyIn(shadow)
+  const resolving = resolvingIn(shadow)
   for (const kind of shadow.index.kindsUnder(PAGE_PROPERTY)) {
     for (const listed of shadow.index.everyOfType(kind)) {
       const value = shadow.pageOf(listed.path)
@@ -177,7 +198,7 @@ export function generateTypes(_root: string, shadow: Shadow): readonly Adding[] 
       if (typeof slug !== "string") continue
       const at = typesAtOf(listed.path)
       if (at === null) continue
-      const held = writtenFor(shadow, { kind, path: listed.path, slug, value })
+      const held = writtenFor(shadow, { at, kind, path: listed.path, resolving, slug, value })
       if (held === null) continue
       written.push({
         kind: "add",
