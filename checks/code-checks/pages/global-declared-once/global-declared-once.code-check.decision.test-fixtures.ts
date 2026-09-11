@@ -1,4 +1,4 @@
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 
 export function globally(body: string): string {
   return `export const away = 1\n\ndeclare global {\n${body}}\n`

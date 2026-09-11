@@ -4,6 +4,11 @@ import {
   readingIn,
 } from "akasha/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.check.code.ts"
 import {
+  globally,
+  indented,
+  reasoned,
+} from "akasha/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.decision.test-fixtures.ts"
+import {
   change,
   scratch,
   staged,
@@ -19,11 +24,6 @@ import {
   schemaFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import {
-  globally,
-  indented,
-  reasoned,
-} from "./global-declared-once.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

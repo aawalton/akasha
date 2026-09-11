@@ -6,12 +6,12 @@ import {
   mergedBy,
   statedIn,
 } from "akasha/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.decision.code.ts"
-import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
   globally,
   indented,
   reasoned,
-} from "./global-declared-once.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.decision.test-fixtures.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 
 const SHARED_AT = "akasha/shared.type-declaration.d.ts"
 
