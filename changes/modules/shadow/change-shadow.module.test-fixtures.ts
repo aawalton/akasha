@@ -379,6 +379,20 @@ export const NESTING: Reaching = async (world, at, given) => {
   return (await reach(world, ADD_FILE as never, given)).said
 }
 
+function typedBody(keys: string): string {
+  return `export const fresh = {\n  id: "held",\n${keys}  slug: "fresh",\n} as const\n`
+}
+
+export const BOTH_KEYS = typedBody(`  pageTypeSlug: "module",\n  type: "module",\n`)
+
+export const TYPE_ONLY = typedBody(`  type: "module",\n`)
+
+export const SECOND_TYPE = typedBody(`  type: "command",\n`)
+
+export const SLUG_ONLY = typedBody(`  pageTypeSlug: "module",\n`)
+
+export const SLUG_UNDER_TYPE = typedBody(`  pageTypeSlug: "command",\n  type: "module",\n`)
+
 export const FRESH_PAGE = "akasha/one/fresh.module.ts"
 
 export const FRESH_BODY = `export const fresh = ${JSON.stringify(

@@ -52,7 +52,9 @@ const PAGE_TYPE = "page-type"
 
 const PROPERTY = "-property"
 
-const TYPE_KEY = "pageTypeSlug"
+const TYPE_STATED = /^\s*type: "([^"]*)"/m
+
+const TYPE_SLUG_STATED = /^\s*pageTypeSlug: "([^"]*)"/m
 
 export type Reaching = (world: World, at: string, given: unknown) => Promise<Answer>
 
@@ -80,12 +82,17 @@ export function facingIn(world: World): Facing {
 
 const FACING = new WeakMap<World, Facing>()
 
+export function typeIn(text: string): string | null {
+  const said = TYPE_STATED.exec(text) ?? TYPE_SLUG_STATED.exec(text)
+  return said?.[1] ?? null
+}
+
 export function turnsGenerated(one: FileChange): boolean {
   if (one.kind !== "replace") return true
   const named = partedIn(one.path)
   if (named === null) return true
   if (named.pageType === PAGE_TYPE || named.pageType.endsWith(PROPERTY)) return true
-  return one.contentFrom.includes(TYPE_KEY) || one.contentTo.includes(TYPE_KEY)
+  return typeIn(one.contentFrom) !== typeIn(one.contentTo)
 }
 
 function facingHeld(world: World): Facing {

@@ -416,7 +416,15 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A replace naming a page's own page type could turn the generated bodies.",
+      statement: "A replace leaving a page stating a second page type could turn those bodies.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page type a body states is read from `type`, and from `pageTypeSlug` after.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A replace leaving a page stating the page type it stated turns no such body.",
     },
     {
       invariantKind: "departure",

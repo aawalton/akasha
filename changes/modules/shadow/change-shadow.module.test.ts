@@ -13,6 +13,8 @@ import {
   ledgerAt,
   NOTHING_OVER,
   reach,
+  turnsGenerated,
+  typeIn,
   type World,
   worldAt,
   worldOver,
@@ -23,6 +25,7 @@ import {
   AT,
   AUTHORED_AT,
   answeredOf,
+  BOTH_KEYS,
   FRESH_BODY,
   FRESH_PAGE,
   GENERATED_AT,
@@ -33,6 +36,10 @@ import {
   OTHER,
   REMOVE_FILE,
   REORDERED,
+  SECOND_TYPE,
+  SLUG_ONLY,
+  SLUG_UNDER_TYPE,
+  TYPE_ONLY,
   WRITING,
   withheldExactly,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
@@ -386,6 +393,24 @@ test("a reach inside a change states an edit the reach around that change states
   expect(said.said.refused).toBeNull()
   expect(ledger.over.edits).toEqual([{ kind: "add", path: AT, content: "held\n" }])
   expect(gathered([ledger.over, said.said]).refused).toBeNull()
+})
+
+test("a replace leaving a page stating the page type it stated turns no generated body", () => {
+  const one = { kind: "replace", path: FRESH_PAGE, contentFrom: BOTH_KEYS, contentTo: TYPE_ONLY }
+
+  expect(turnsGenerated(one as never)).toBe(false)
+})
+
+test("a replace leaving a page stating a second page type could turn those bodies", () => {
+  const one = { kind: "replace", path: FRESH_PAGE, contentFrom: TYPE_ONLY, contentTo: SECOND_TYPE }
+
+  expect(turnsGenerated(one as never)).toBe(true)
+})
+
+test("the page type a body states is read from `type`, and from `pageTypeSlug` after", () => {
+  expect(typeIn(SLUG_ONLY)).toBe("module")
+  expect(typeIn(SLUG_UNDER_TYPE)).toBe("module")
+  expect(typeIn("const fresh = {}\n")).toBeNull()
 })
 
 test("a generated body a reach writes is left as the generator would write it", async () => {
