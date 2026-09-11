@@ -1,7 +1,7 @@
 import {
   CHATTER_OPTION_TYPE_NAMES,
   INTERACTION_TYPE_NAMES,
-} from "../quests-chatter-name-tables/quests-chatter-name-tables.module.code.ts"
+} from "akasha/temper/quests-addon/quests-chatter-name-tables/quests-chatter-name-tables.module.code.ts"
 
 export function buildEsoNameMap(
   globals: Record<string, unknown>,

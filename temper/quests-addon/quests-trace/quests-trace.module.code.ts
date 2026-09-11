@@ -1,19 +1,19 @@
-import type { AutoQuestTraceEntry } from "akasha/temper/quests-trace/auto-quest-trace/auto-quest-trace.module.code.ts"
 import {
   chatterOptionTypeName,
   interactionTypeName,
-} from "../quests-chatter-names/quests-chatter-names.module.code.ts"
-import type { RawOption } from "../quests-classify/quests-classify.module.code.ts"
+} from "akasha/temper/quests-addon/quests-chatter-names/quests-chatter-names.module.code.ts"
+import type { RawOption } from "akasha/temper/quests-addon/quests-classify/quests-classify.module.code.ts"
 import type {
   AutoQuestSnapshot,
   ReconcileAction,
-} from "../quests-decide/quests-decide.module.code.ts"
-import { getSavedVariables } from "../quests-saved-variables/quests-saved-variables.module.code.ts"
+} from "akasha/temper/quests-addon/quests-decide/quests-decide.module.code.ts"
+import { getSavedVariables } from "akasha/temper/quests-addon/quests-saved-variables/quests-saved-variables.module.code.ts"
 import {
   type AutoQuestTraceOption,
   appendBounded,
   TRACE_CAP,
-} from "../quests-trace-buffer/quests-trace-buffer.module.code.ts"
+} from "akasha/temper/quests-addon/quests-trace-buffer/quests-trace-buffer.module.code.ts"
+import type { AutoQuestTraceEntry } from "akasha/temper/quests-trace/auto-quest-trace/auto-quest-trace.module.code.ts"
 
 let lastFingerprint: string | undefined
 let lastAction: string | undefined

@@ -1,5 +1,5 @@
-import { ADDON_NAME } from "../quests-constants/quests-constants.module.code.ts"
-import type { ChatterOptionKind } from "../quests-decide/quests-decide.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/quests-addon/quests-constants/quests-constants.module.code.ts"
+import type { ChatterOptionKind } from "akasha/temper/quests-addon/quests-decide/quests-decide.module.code.ts"
 
 const MAD_GODS_BARGAIN_NAME = "the mad god's bargain"
 

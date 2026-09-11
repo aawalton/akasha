@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { buildEsoNameMap, nameFromMap } from "./quests-chatter-names.module.code.ts"
+import {
+  buildEsoNameMap,
+  nameFromMap,
+} from "akasha/temper/quests-addon/quests-chatter-names/quests-chatter-names.module.code.ts"
 
 describe("quests-chatter-names", () => {
   test("each named global is read into a map from value to name", () => {

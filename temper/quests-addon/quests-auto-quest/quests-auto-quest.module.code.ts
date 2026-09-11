@@ -2,8 +2,8 @@ import {
   applyFoliumBranch,
   classifyOptionType,
   type RawOption,
-} from "../quests-classify/quests-classify.module.code.ts"
-import { ADDON_NAME } from "../quests-constants/quests-constants.module.code.ts"
+} from "akasha/temper/quests-addon/quests-classify/quests-classify.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/quests-addon/quests-constants/quests-constants.module.code.ts"
 import {
   type AutoQuestMemory,
   type AutoQuestSnapshot,
@@ -11,14 +11,14 @@ import {
   INITIAL_AUTO_QUEST_MEMORY,
   type ReconcileAction,
   reconcileAutoQuest,
-} from "../quests-decide/quests-decide.module.code.ts"
-import { getSavedVariables } from "../quests-saved-variables/quests-saved-variables.module.code.ts"
+} from "akasha/temper/quests-addon/quests-decide/quests-decide.module.code.ts"
+import { getSavedVariables } from "akasha/temper/quests-addon/quests-saved-variables/quests-saved-variables.module.code.ts"
 import {
   clearTrace,
   recordCompleteDialogTrace,
   recordTrace,
   resetTraceGating,
-} from "../quests-trace/quests-trace.module.code.ts"
+} from "akasha/temper/quests-addon/quests-trace/quests-trace.module.code.ts"
 
 const NS = `${ADDON_NAME}_AutoQuest`
 const HEARTBEAT_NAME = `${NS}_Heartbeat`

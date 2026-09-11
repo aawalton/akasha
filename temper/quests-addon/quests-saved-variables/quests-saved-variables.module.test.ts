@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { computeCarriedToggles } from "./quests-saved-variables.module.code.ts"
+import { computeCarriedToggles } from "akasha/temper/quests-addon/quests-saved-variables/quests-saved-variables.module.code.ts"
 
 describe("quests-saved-variables", () => {
   test("nothing is carried over from a table that is not there", () => {

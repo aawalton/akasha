@@ -6,7 +6,7 @@ import {
   type ClassifiedChatterOption,
   INITIAL_AUTO_QUEST_MEMORY,
   reconcileAutoQuest,
-} from "./quests-decide.module.code.ts"
+} from "akasha/temper/quests-addon/quests-decide/quests-decide.module.code.ts"
 
 function opt(
   index: number,
