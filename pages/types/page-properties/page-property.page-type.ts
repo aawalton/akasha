@@ -10,7 +10,6 @@ export const pageProperty = {
   definition: "one value a page carries",
   pluralSlug: "page-properties",
   parts: [
-    "module/page-property-key",
     "number-property/max-count",
     "number-property/max-length",
     "relation-property/generator",

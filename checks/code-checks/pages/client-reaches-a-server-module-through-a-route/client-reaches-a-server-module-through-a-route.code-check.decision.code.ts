@@ -13,8 +13,8 @@ import {
   typedImport,
 } from "akasha/code-system/code-source/code-source.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { slugFor } from "akasha/pages/types/page-properties/key/page-property-key.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { dashEachCapital } from "akasha/utils/slug/dash-each-capital/dash-each-capital.module.code.ts"
 import ts from "typescript"
 
 const TABLE = "route-table"
@@ -52,7 +52,7 @@ export type Reached = {
 }
 
 function carries(value: Value, propertySlug: string): boolean {
-  return Object.keys(value).some((key) => slugFor(key) === propertySlug)
+  return Object.keys(value).some((key) => dashEachCapital(key) === propertySlug)
 }
 
 export function appsIn(asking: Asking): readonly App[] {

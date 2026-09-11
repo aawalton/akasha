@@ -5,8 +5,11 @@ import {
   nameFaultIn,
   typedAs,
 } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { dashEachCapital } from "akasha/utils/slug/dash-each-capital/dash-each-capital.module.code.ts"
 
 const CODE = `${import.meta.dir}/page-export-name.module.code.ts`
+
+const KEYS = ["pageTypeSlug", "slug", "extendsSlug", "partSlugs", "runsOnAudit", "id"]
 
 test("a hyphen is dropped and the character following it is raised", () => {
   expect(exportedAs("page-address")).toBe("pageAddress")
@@ -106,4 +109,8 @@ test("a letter outside ascii opens an identifier, so a slug carrying one is no f
 
 test("what is at fault is said as the name the slug makes rather than as the slug", () => {
   expect(nameFaultIn("1066-the-year")).toContain("1066TheYear")
+})
+
+test("a key written in camel survives the trip out to its slug and back", () => {
+  for (const key of KEYS) expect(exportedAs(dashEachCapital(key))).toBe(key)
 })

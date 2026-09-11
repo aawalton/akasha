@@ -9,8 +9,8 @@ import { exportedAs } from "akasha/pages/export-name/page-export-name.module.cod
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { propertiesIfNamedOf } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { slugFor } from "akasha/pages/types/page-properties/key/page-property-key.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { dashEachCapital } from "akasha/utils/slug/dash-each-capital/dash-each-capital.module.code.ts"
 
 export const PROPERTY =
   "A page states each property as the page defining it shapes it, and that page is read first."
@@ -26,7 +26,7 @@ export function statedIn(root: string, path: string, slug: string): readonly str
   }
   const said = mod[exportedAs(slug)]
   if (said === null || typeof said !== "object") return []
-  return Object.keys(said as Record<string, unknown>).map(slugFor)
+  return Object.keys(said as Record<string, unknown>).map(dashEachCapital)
 }
 
 export function fileProperty(root: string, path: string, knowing: Knowing): readonly Warrant[] {

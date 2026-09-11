@@ -39,7 +39,7 @@ import {
   folderFor,
   namedForThePlural,
 } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
-import { slugFor } from "akasha/pages/types/page-properties/key/page-property-key.module.code.ts"
+import { dashEachCapital } from "akasha/utils/slug/dash-each-capital/dash-each-capital.module.code.ts"
 import ts from "typescript"
 
 const RENAME_PAGE_SLUG = "change-mechanical-file-content/rename-page-slug"
@@ -121,7 +121,7 @@ function heldIn(world: World, held: Held, propertySlug: string): string | null |
 function besideIn(world: World, held: Held): readonly Beside[] {
   const found: Beside[] = []
   for (const [key, ending] of held.said) {
-    const propertySlug = slugFor(key)
+    const propertySlug = dashEachCapital(key)
     if (heldIn(world, held, propertySlug) !== null) continue
     found.push((path) => besideAt(path, propertySlug, ending))
   }

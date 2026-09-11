@@ -15,13 +15,13 @@ import {
   typeSlugsIn,
   typeValuesIn,
 } from "akasha/pages/types/gathering/page-type-gathering.module.code.ts"
-import { slugFor } from "akasha/pages/types/page-properties/key/page-property-key.module.code.ts"
 import {
   slugOf,
   slugsIn,
   textAt,
   type Value,
 } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { dashEachCapital } from "akasha/utils/slug/dash-each-capital/dash-each-capital.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -72,7 +72,7 @@ export function filesClaimedIn(
   const outside = withheld.get(type) ?? NO_SLUGS
   for (const [key, held] of Object.entries(value)) {
     if (typeof held !== "string") continue
-    const propertySlug = slugFor(key)
+    const propertySlug = dashEachCapital(key)
     if (!carried.has(propertySlug)) continue
     const uncommitted = outside.has(propertySlug)
     const fileName = carried.get(propertySlug) ?? null
@@ -113,7 +113,7 @@ export function foldersClaimedIn(
   const found: string[] = []
   for (const [key, held] of Object.entries(value)) {
     if (held !== true) continue
-    const folderName = carried.get(slugFor(key))
+    const folderName = carried.get(dashEachCapital(key))
     if (folderName === undefined) continue
     found.push(join(dirname(own), folderName))
   }
