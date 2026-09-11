@@ -6,7 +6,7 @@ export const memory = {
   type: "domain",
   slug: "memory",
   definition: "where bytes live while a program holds them",
-  parts: ["domain/memory-kind", "domain/memory-limit", "domain/swap"],
+  parts: ["domain/memory-kind", "domain/memory-limit", "domain/swap", "domain/memory-reaping"],
   invariants: [
     {
       invariantKind: "departure",

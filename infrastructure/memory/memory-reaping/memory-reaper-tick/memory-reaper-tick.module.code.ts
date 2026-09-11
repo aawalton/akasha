@@ -5,26 +5,26 @@ import {
   RECOVERY_WINDOW_MS,
   THRESHOLD_KB,
   TREE_THRESHOLD_KB,
-} from "akasha/seat-system/memory-reaping/memory-reaper-config/memory-reaper-config.module.code.ts"
+} from "akasha/infrastructure/memory/memory-reaping/memory-reaper-config/memory-reaper-config.module.code.ts"
 import {
   assessGlobalKill,
   assessRecoveryWindow,
   type GlobalKillTarget,
-} from "akasha/seat-system/memory-reaping/memory-reaper-global/memory-reaper-global.module.code.ts"
+} from "akasha/infrastructure/memory/memory-reaping/memory-reaper-global/memory-reaper-global.module.code.ts"
 import {
   killPidWithTimeout,
   killTreeWithTimeout,
-} from "akasha/seat-system/memory-reaping/memory-reaper-kill/memory-reaper-kill.module.code.ts"
-import { planReaperKills } from "akasha/seat-system/memory-reaping/memory-reaper-plan/memory-reaper-plan.module.code.ts"
+} from "akasha/infrastructure/memory/memory-reaping/memory-reaper-kill/memory-reaper-kill.module.code.ts"
+import { planReaperKills } from "akasha/infrastructure/memory/memory-reaping/memory-reaper-plan/memory-reaper-plan.module.code.ts"
 import {
   type PidSnapshot,
   readContainerPids,
-} from "akasha/seat-system/memory-reaping/memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
+} from "akasha/infrastructure/memory/memory-reaping/memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 import {
   readPidArgv,
   readSupervisorPids,
   readUserPidSnapshots,
-} from "akasha/seat-system/memory-reaping/memory-reaper-read/memory-reaper-read.module.code.ts"
+} from "akasha/infrastructure/memory/memory-reaping/memory-reaper-read/memory-reaper-read.module.code.ts"
 import { withTickDeadline } from "akasha/seat-system/tick-deadline/tick-deadline.module.code.ts"
 import { readMemInfoKb } from "akasha/utils/system/memory-guard/memory-guard.module.code.ts"
 

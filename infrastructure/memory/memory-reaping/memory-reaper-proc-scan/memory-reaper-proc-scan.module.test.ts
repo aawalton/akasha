@@ -8,7 +8,7 @@ import {
   redactArgv,
   redactProcCmdline,
   UNCLASSIFIED,
-} from "akasha/seat-system/memory-reaping/memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
+} from "akasha/infrastructure/memory/memory-reaping/memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 
 describe("isSafeSubcommandWord", () => {
   test("takes a lower-case word", () => {
