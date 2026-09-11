@@ -1,0 +1,1 @@
+export type Lenient = boolean
