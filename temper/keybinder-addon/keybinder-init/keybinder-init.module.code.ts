@@ -1,19 +1,19 @@
-import { keybindList } from "../keybinder-binding-utils/keybinder-binding-utils.module.code.ts"
-import { ADDON_NAME } from "../keybinder-constants/keybinder-constants.module.code.ts"
-import { KEYBIND_MANAGER } from "../keybinder-keybind-manager/keybinder-keybind-manager.module.code.ts"
-import { hookKeybindsScrollList } from "../keybinder-scroll-list/keybinder-scroll-list.module.code.ts"
-import { setupControl } from "../keybinder-search-box/keybinder-search-box.module.code.ts"
+import { keybindList } from "akasha/temper/keybinder-addon/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/keybinder-addon/keybinder-constants/keybinder-constants.module.code.ts"
+import { KEYBIND_MANAGER } from "akasha/temper/keybinder-addon/keybinder-keybind-manager/keybinder-keybind-manager.module.code.ts"
+import { hookKeybindsScrollList } from "akasha/temper/keybinder-addon/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"
+import { setupControl } from "akasha/temper/keybinder-addon/keybinder-search-box/keybinder-search-box.module.code.ts"
 import {
   createBindingList,
   firstRun,
   syncKeybindings,
   toggleShareState,
-} from "../keybinder-share/keybinder-share.module.code.ts"
+} from "akasha/temper/keybinder-addon/keybinder-share/keybinder-share.module.code.ts"
 import {
   KEYBINDER_STATE,
   resetBindingSyncState,
-} from "../keybinder-state/keybinder-state.module.code.ts"
-import { getUiString } from "../keybinder-ui-strings/keybinder-ui-strings.module.code.ts"
+} from "akasha/temper/keybinder-addon/keybinder-state/keybinder-state.module.code.ts"
+import { getUiString } from "akasha/temper/keybinder-addon/keybinder-ui-strings/keybinder-ui-strings.module.code.ts"
 
 function isKeybindingsEmpty(this: void, held: Record<string, VkBind[] | undefined>): boolean {
   return Object.keys(held).length === 0

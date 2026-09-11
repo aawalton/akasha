@@ -1,5 +1,5 @@
-import { filterTextChanged } from "../keybinder-filter/keybinder-filter.module.code.ts"
-import { KEYBINDER_STATE } from "../keybinder-state/keybinder-state.module.code.ts"
+import { filterTextChanged } from "akasha/temper/keybinder-addon/keybinder-filter/keybinder-filter.module.code.ts"
+import { KEYBINDER_STATE } from "akasha/temper/keybinder-addon/keybinder-state/keybinder-state.module.code.ts"
 
 const GLASS = " |t40:40:/esoui/art/tutorial/gamepad/gp_inventory_trait_not_researched_icon.dds|t"
 

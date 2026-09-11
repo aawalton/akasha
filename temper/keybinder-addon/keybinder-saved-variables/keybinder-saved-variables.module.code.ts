@@ -1,9 +1,9 @@
-import { SAVED_VARIABLES_NAME } from "../keybinder-constants/keybinder-constants.module.code.ts"
-import { initialize } from "../keybinder-init/keybinder-init.module.code.ts"
+import { SAVED_VARIABLES_NAME } from "akasha/temper/keybinder-addon/keybinder-constants/keybinder-constants.module.code.ts"
+import { initialize } from "akasha/temper/keybinder-addon/keybinder-init/keybinder-init.module.code.ts"
 import {
   type AccountData,
   KEYBINDER_STATE,
-} from "../keybinder-state/keybinder-state.module.code.ts"
+} from "akasha/temper/keybinder-addon/keybinder-state/keybinder-state.module.code.ts"
 
 const ACCOUNT_DEFAULTS: AccountData = { Keybindings: {} }
 

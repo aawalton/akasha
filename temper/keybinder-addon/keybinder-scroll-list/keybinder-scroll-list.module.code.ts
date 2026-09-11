@@ -1,11 +1,11 @@
 import {
   compareBinding,
   keybindList,
-} from "../keybinder-binding-utils/keybinder-binding-utils.module.code.ts"
-import { asControl } from "../keybinder-casts/keybinder-casts.module.code.ts"
-import { KEYBIND_DATA_TYPE } from "../keybinder-constants/keybinder-constants.module.code.ts"
-import { KEYBINDER_STATE } from "../keybinder-state/keybinder-state.module.code.ts"
-import { getUiString } from "../keybinder-ui-strings/keybinder-ui-strings.module.code.ts"
+} from "akasha/temper/keybinder-addon/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"
+import { asControl } from "akasha/temper/keybinder-addon/keybinder-casts/keybinder-casts.module.code.ts"
+import { KEYBIND_DATA_TYPE } from "akasha/temper/keybinder-addon/keybinder-constants/keybinder-constants.module.code.ts"
+import { KEYBINDER_STATE } from "akasha/temper/keybinder-addon/keybinder-state/keybinder-state.module.code.ts"
+import { getUiString } from "akasha/temper/keybinder-addon/keybinder-ui-strings/keybinder-ui-strings.module.code.ts"
 
 function changeKeybindGlobal(this: void, control: Control, checkState: number): undefined {
   const parent = control.GetParent()

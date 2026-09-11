@@ -1,4 +1,4 @@
-import { KEYBIND_MANAGER } from "../keybinder-keybind-manager/keybinder-keybind-manager.module.code.ts"
+import { KEYBIND_MANAGER } from "akasha/temper/keybinder-addon/keybinder-keybind-manager/keybinder-keybind-manager.module.code.ts"
 
 export interface ActionRef {
   layerIndex: number

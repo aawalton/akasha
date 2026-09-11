@@ -1,21 +1,21 @@
 import {
   bindKeyToAction,
   unbindAllKeysFromAction,
-} from "../keybinder-binding-fns/keybinder-binding-fns.module.code.ts"
+} from "akasha/temper/keybinder-addon/keybinder-binding-fns/keybinder-binding-fns.module.code.ts"
 import {
   type ActionRef,
   compareBinding,
   hasBinding,
   keybindingsOfActionName,
   keybindList,
-} from "../keybinder-binding-utils/keybinder-binding-utils.module.code.ts"
-import { asVkScrollData } from "../keybinder-casts/keybinder-casts.module.code.ts"
+} from "akasha/temper/keybinder-addon/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"
+import { asVkScrollData } from "akasha/temper/keybinder-addon/keybinder-casts/keybinder-casts.module.code.ts"
 import {
   ADDON_NAME,
   DEFAULT_GLOBAL_ACTION_NAME,
   KEYBIND_DATA_TYPE,
-} from "../keybinder-constants/keybinder-constants.module.code.ts"
-import { KEYBINDER_STATE } from "../keybinder-state/keybinder-state.module.code.ts"
+} from "akasha/temper/keybinder-addon/keybinder-constants/keybinder-constants.module.code.ts"
+import { KEYBINDER_STATE } from "akasha/temper/keybinder-addon/keybinder-state/keybinder-state.module.code.ts"
 
 const SYNC_IDENTIFIER = "TEMPER_VOTANS_SYNCKEYBINDINGS"
 

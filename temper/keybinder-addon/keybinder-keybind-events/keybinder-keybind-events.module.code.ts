@@ -1,7 +1,7 @@
-import { normalizeModifiers } from "../keybinder-binding-utils/keybinder-binding-utils.module.code.ts"
-import { ADDON_NAME } from "../keybinder-constants/keybinder-constants.module.code.ts"
-import { syncKeybindings } from "../keybinder-share/keybinder-share.module.code.ts"
-import { KEYBINDER_STATE } from "../keybinder-state/keybinder-state.module.code.ts"
+import { normalizeModifiers } from "akasha/temper/keybinder-addon/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/keybinder-addon/keybinder-constants/keybinder-constants.module.code.ts"
+import { syncKeybindings } from "akasha/temper/keybinder-addon/keybinder-share/keybinder-share.module.code.ts"
+import { KEYBINDER_STATE } from "akasha/temper/keybinder-addon/keybinder-state/keybinder-state.module.code.ts"
 
 export function handleBindingsLoaded(this: void): undefined {
   if (KEYBINDER_STATE.bindingsSynchronised) {

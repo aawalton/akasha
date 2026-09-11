@@ -1,5 +1,5 @@
-import { KEYBIND_MANAGER } from "../keybinder-keybind-manager/keybinder-keybind-manager.module.code.ts"
-import { KEYBINDER_STATE } from "../keybinder-state/keybinder-state.module.code.ts"
+import { KEYBIND_MANAGER } from "akasha/temper/keybinder-addon/keybinder-keybind-manager/keybinder-keybind-manager.module.code.ts"
+import { KEYBINDER_STATE } from "akasha/temper/keybinder-addon/keybinder-state/keybinder-state.module.code.ts"
 
 const FILTER_IDENTIFIER = "TEMPER_KEYBINDER_FILTER_CHANGED"
 
