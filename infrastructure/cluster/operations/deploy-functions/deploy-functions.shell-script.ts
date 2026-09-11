@@ -19,4 +19,5 @@ export const deployFunctions = {
       statement: "Sourcing deploy-functions sources deploy-dns-functions.",
     },
   ],
+  scripting: {},
 } as const satisfies ShellScript
