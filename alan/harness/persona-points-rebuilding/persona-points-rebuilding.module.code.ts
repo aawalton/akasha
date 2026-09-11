@@ -51,8 +51,12 @@ export function saidOf(rebuilt: number): string {
   return `${String(rebuilt)} ${said} rebuilt from the days counted`
 }
 
-if (import.meta.main) {
+export function runPersonaPointsRebuilding(): undefined {
   const root = optionalEnv("AKASHA_ROOT") ?? process.cwd()
   const done = rebuildPoints(root, getEsoDayStr(new Date()))
   process.stdout.write(`${[saidOf(done.rebuilt), ...done.unread].join("\n")}\n`)
+}
+
+if (import.meta.main) {
+  runPersonaPointsRebuilding()
 }
