@@ -14,5 +14,6 @@ export const utilsFs = {
     "module/missing",
     "module/read-stdin-or-file",
     "module/text-on-disk",
+    "module/text-there",
   ],
 } as const satisfies Domain

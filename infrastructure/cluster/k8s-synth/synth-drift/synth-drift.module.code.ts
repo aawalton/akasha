@@ -1,5 +1,5 @@
 import { relative } from "node:path"
-import { tryRead } from "akasha/infrastructure/cluster/k8s-synth/generated-file/generated-file.module.code.ts"
+import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
 
 export function firstDiffLine(actual: string, expected: string): string {
   const actualLines = actual.split("\n")
@@ -14,7 +14,7 @@ export function firstDiffLine(actual: string, expected: string): string {
 }
 
 export function describeDrift(absPath: string, expected: string, repoRoot: string): string | null {
-  const existing = tryRead(absPath)
+  const existing = textThere(absPath)
   const relPath = relative(repoRoot, absPath)
   if (existing === null)
     return `${relPath}: missing — synth.ts produces this file but it is not on disk`

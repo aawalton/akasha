@@ -10,7 +10,6 @@ import {
   importGraph,
   landsAt,
   NOTHING_DELIVERED,
-  readTextOrNull,
   repoRootOf,
   type VersionWatch,
   workspaceNaming,
@@ -86,7 +85,6 @@ test("a file that cannot be read is left out of the set", () => {
 
 test("an entry that cannot be read reaches nothing", () => {
   expect(importGraph("/gone.ts", () => null, NONE)).toEqual([])
-  expect(readTextOrNull("/nowhere/at/all")).toBeNull()
 })
 
 test("the root is the nearest folder above the entry whose manifest names workspaces", () => {

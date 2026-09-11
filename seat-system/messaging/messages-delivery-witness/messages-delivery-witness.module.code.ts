@@ -1,4 +1,4 @@
-import { readFileSync } from "node:fs"
+import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
 import {
   type AttributedFinding,
   classifyDeliveryRecords,
@@ -83,14 +83,6 @@ export interface DeliveryWitness {
   readonly stop: () => void
 }
 
-function readOrNull(path: string): string | null {
-  try {
-    return readFileSync(path, "utf8")
-  } catch {
-    return null
-  }
-}
-
 function defaultScheduleInterval(fn: () => void, ms: number): () => void {
   const handle = setInterval(fn, ms)
   handle.unref?.()
@@ -107,7 +99,7 @@ export function startDeliveryWitness(args: {
   readonly logDecline?: (messageId: string, reason: DeliveryReason) => void
 }): DeliveryWitness {
   const advanceRow = args.advance
-  const readTranscript = args.readTranscript ?? readOrNull
+  const readTranscript = args.readTranscript ?? textThere
   const currentTranscriptPath = args.currentTranscriptPath
   const logDecline =
     args.logDecline ??

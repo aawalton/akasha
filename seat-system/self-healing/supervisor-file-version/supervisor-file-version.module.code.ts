@@ -1,4 +1,3 @@
-import { readFileSync } from "node:fs"
 import { dirname, join, normalize } from "node:path"
 import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"
 import type { Naming } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
@@ -7,6 +6,7 @@ import {
   reachingOver,
 } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import { AGENT_SETTINGS_PATH } from "akasha/seat-system/supervising/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
+import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
 
 const SPECIFIER = /from\s+"([^"]*)"/g
 
@@ -17,14 +17,6 @@ const WORKSPACES = "workspaces"
 const NAMING_NONE: Naming = new Map()
 
 const UNREADABLE = "\u0000unreadable"
-
-export function readTextOrNull(path: string): string | null {
-  try {
-    return readFileSync(path, "utf8")
-  } catch {
-    return null
-  }
-}
 
 function climbFrom(entry: string): readonly string[] {
   const climbing: string[] = []
@@ -49,7 +41,7 @@ export function namesWorkspaces(text: string): boolean {
 
 export function repoRootOf(
   entry: string,
-  read: (path: string) => string | null = readTextOrNull
+  read: (path: string) => string | null = textThere
 ): string | null {
   for (const at of climbFrom(entry)) {
     const text = read(join(at, MANIFEST))
@@ -60,7 +52,7 @@ export function repoRootOf(
 
 export function workspaceNaming(
   root: string,
-  read: (path: string) => string | null = readTextOrNull
+  read: (path: string) => string | null = textThere
 ): Naming {
   let dirs: readonly string[]
   try {
@@ -123,7 +115,7 @@ export const SUPERVISOR_DATA_FILES: readonly string[] = [AGENT_SETTINGS_PATH]
 
 export function supervisorFileSet(
   entry: string,
-  read: (path: string) => string | null = readTextOrNull,
+  read: (path: string) => string | null = textThere,
   naming: Naming = namingFrom(entry)
 ): readonly string[] {
   const reached = importGraph(entry, read, naming)
