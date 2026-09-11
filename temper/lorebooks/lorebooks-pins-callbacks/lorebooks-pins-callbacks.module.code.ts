@@ -27,20 +27,15 @@ import {
   asEideticRuntimeEntries,
 } from "akasha/temper/lorebooks/lorebooks-pins-tags/lorebooks-pins-tags.module.code.ts"
 import { PIN_TOOLTIP_STATE } from "akasha/temper/lorebooks/lorebooks-pins-tooltips/lorebooks-pins-tooltips.module.code.ts"
-import { STATE } from "akasha/temper/lorebooks/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
+import {
+  GPS,
+  STATE,
+} from "akasha/temper/lorebooks/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 import { getSavedVariables } from "akasha/temper/lorebooks/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
 
 function asMapPin(value: unknown): MapPin {
   return value as MapPin
 }
-
-function requireGps(): LibGps3 {
-  if (LibGPS3 === undefined) {
-    throw new Error("LoreBooks requires LibGPS3 (declared DependsOn)")
-  }
-  return LibGPS3
-}
-const GPS = requireGps()
 
 export function shalidorCompassCallback(this: void): undefined {
   if (LibMapData.isMacroMap === true) {

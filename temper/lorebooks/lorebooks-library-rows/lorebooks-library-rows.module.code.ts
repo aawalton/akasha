@@ -8,14 +8,7 @@ import {
   loreBooksGetNewLoreBookInfo,
 } from "akasha/temper/lorebooks/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
 import { getQuestLocation } from "akasha/temper/lorebooks/lorebooks-quest-location/lorebooks-quest-location.module.code.ts"
-
-function requireGps(): LibGps3 {
-  if (LibGPS3 === undefined) {
-    throw new Error("LoreBooks requires LibGPS3 (declared DependsOn)")
-  }
-  return LibGPS3
-}
-const GPS = requireGps()
+import { GPS } from "akasha/temper/lorebooks/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 
 interface LoreLibraryRowOwner {
   EnterRow: (this: LoreLibraryRowOwner, row: unknown) => void

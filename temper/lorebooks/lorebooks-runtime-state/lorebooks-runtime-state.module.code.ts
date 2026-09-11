@@ -4,6 +4,15 @@ import type {
   ShalidorMapData,
 } from "akasha/temper/lorebooks/lorebooks-types/lorebooks-types.module.code.ts"
 
+function requireGps(): LibGps3 {
+  if (LibGPS3 === undefined) {
+    throw new Error("LoreBooks requires LibGPS3 (declared DependsOn)")
+  }
+  return LibGPS3
+}
+
+export const GPS = requireGps()
+
 export interface LoreBooksRuntimeState {
   lorebooks: ShalidorMapData | undefined
   bookshelves: readonly BookshelfEntry[] | undefined
