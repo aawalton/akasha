@@ -209,6 +209,10 @@ export function refusalOf(said: Answer, textOf: BodyOf = () => null): string {
   return "refused" in held ? held.refused : ""
 }
 
+export function filesOf(held: Readonly<Record<string, string>>): (path: string) => string | null {
+  return (path) => held[path] ?? null
+}
+
 export function bodyAt(at: string, body: string): (path: string) => string | null {
   return (path) => (path === at ? body : null)
 }

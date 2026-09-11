@@ -5,6 +5,7 @@ import type { Answer } from "akasha/changes/modules/answer/change-answer.module.
 import {
   bodyOf,
   declaring,
+  filesOf,
   worldKnowing,
 } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
@@ -35,10 +36,6 @@ export const held = {
 type Files = Readonly<Record<string, string>>
 
 const FILES: Files = { [PAGE]: BODY }
-
-function filesOf(bodies: Files): (path: string) => string | null {
-  return (path) => bodies[path] ?? null
-}
 
 function saidOf(
   key: string,
