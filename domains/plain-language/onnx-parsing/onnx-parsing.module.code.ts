@@ -1,5 +1,5 @@
 import { readFile } from "node:fs/promises"
-import { dirname } from "node:path"
+import { dirname, join } from "node:path"
 import { fileURLToPath } from "node:url"
 import {
   decodeTree,
@@ -13,7 +13,9 @@ import {
   splitSentences,
   tokenizeWords,
 } from "akasha/domains/plain-language/word-tokenizing/word-tokenizing.module.code.ts"
+import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { uncommittedBesideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import * as ort from "onnxruntime-node"
 
 export type ParserDescriptor = {
@@ -62,10 +64,9 @@ type Loaded = {
   maxBatchSentences: number
 }
 
-const MODEL_PAGE = new URL(
-  "../parser-models/pages/compact-parser/compact-parser.parser-model.ts",
-  import.meta.url
-)
+const PARSER_MODEL = "parser-model"
+
+const COMPACT_PARSER = "compact-parser"
 
 const DEFAULT_MAX_BATCH_SENTENCES = 16
 
@@ -85,8 +86,17 @@ const LANGUAGES = ["en"]
 
 const PARSE_SHAPE = "2"
 
+function modelPageAt(): string {
+  const root = ownRepoRoot()
+  const page = listedAt(root, PARSER_MODEL, COMPACT_PARSER)[0]
+  if (page === undefined) {
+    throw new Error(`no \`${PARSER_MODEL}\` is slugged \`${COMPACT_PARSER}\``)
+  }
+  return join(root, page.path)
+}
+
 function modelFileAt(propertySlug: string, held: string): string {
-  const at = uncommittedBesideAt(fileURLToPath(MODEL_PAGE), propertySlug, held)
+  const at = uncommittedBesideAt(modelPageAt(), propertySlug, held)
   if (at === null) throw new Error(`no \`${propertySlug}\` sits beside the parser model page`)
   return at
 }
