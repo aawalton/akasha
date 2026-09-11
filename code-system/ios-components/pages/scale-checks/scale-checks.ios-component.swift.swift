@@ -2,7 +2,7 @@ import Foundation
 
 // THE VECTORS HERE ARE THE ONES THE SERVER'S OWN TEST USES, SO THE TWO ARE HELD TOGETHER.
 //
-// `readouts/tier/readout-tier.module.test.ts` names a climbing scale and a falling one and
+// The `readout-tier` module's own test names a climbing scale and a falling one and
 // works every case out of them. The same two scales and the same expected answers are
 // written here, so the port is proven to agree rather than assumed to. A case added there
 // belongs here too; nothing but this file catches the two drifting apart.
