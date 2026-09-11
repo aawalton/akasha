@@ -1,6 +1,10 @@
 "use client"
 
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
+import {
+  localDateIn,
+  localDateOf,
+} from "akasha/design/interfaces/badges/date-badge/date-badge.module.code.tsx"
 import { Calendar } from "akasha/design/interfaces/forms/calendar/calendar.module.code.tsx"
 import {
   Popover,
@@ -9,7 +13,6 @@ import {
 } from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
 import type { BadgeVariant } from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"
 import { formatSmartDate } from "akasha/pages/core/view/format-smart-date/format-smart-date.module.code.ts"
-import { padTwo } from "akasha/utils/digit-padding/pad-two/pad-two.module.code.ts"
 import { useState } from "react"
 
 const DATE_REGEX = /^\d{4}-\d{2}-\d{2}$/
@@ -25,7 +28,7 @@ export function DateBadge({
 }) {
   const [open, setOpen] = useState(false)
   const dateStr = typeof value === "string" && DATE_REGEX.test(value) ? value : null
-  const selected = dateStr != null ? parseLocalDate(dateStr) : undefined
+  const selected = dateStr != null ? localDateIn(dateStr) : undefined
 
   return (
     <Popover open={open} onOpenChange={setOpen}>
@@ -47,7 +50,7 @@ export function DateBadge({
           selected={selected}
           onSelect={(d) => {
             if (d) {
-              onChange(formatLocalDate(d))
+              onChange(localDateOf(d))
               setOpen(false)
             }
           }}
@@ -55,16 +58,4 @@ export function DateBadge({
       </PopoverContent>
     </Popover>
   )
-}
-
-function parseLocalDate(dateStr: string): Date {
-  const [year, month, day] = dateStr.split("-").map(Number)
-  if (year === undefined || month === undefined || day === undefined) {
-    throw new Error(`parseLocalDate: malformed date string ${dateStr}`)
-  }
-  return new Date(year, month - 1, day)
-}
-
-function formatLocalDate(date: Date): string {
-  return `${date.getFullYear()}-${padTwo(date.getMonth() + 1)}-${padTwo(date.getDate())}`
 }

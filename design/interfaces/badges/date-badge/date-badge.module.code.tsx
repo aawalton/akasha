@@ -78,11 +78,11 @@ function DateBadgeEditable({
   const layout = useBadgeLayoutContext()
   const align = layout.popoverAlign ?? "start"
 
-  const selectedDate = value != null ? parseLocalDate(value) : undefined
+  const selectedDate = value != null ? localDateIn(value) : undefined
 
   const handleSelect = (selected: Date | undefined) => {
     if (selected) {
-      onDateChange?.(formatLocalDate(selected))
+      onDateChange?.(localDateOf(selected))
       setOpen(false)
     }
   }
@@ -107,17 +107,17 @@ function DateBadgeEditable({
   )
 }
 
-function parseLocalDate(dateStr: string): Date {
+function localDateIn(dateStr: string): Date {
   const [year, month, day] = dateStr.split("-").map(Number)
   if (year === undefined || month === undefined || day === undefined) {
-    throw new Error(`parseLocalDate: invalid date string ${dateStr}`)
+    throw new Error(`localDateIn: invalid date string ${dateStr}`)
   }
   return new Date(year, month - 1, day)
 }
 
-function formatLocalDate(date: Date): string {
+function localDateOf(date: Date): string {
   return `${date.getFullYear()}-${padTwo(date.getMonth() + 1)}-${padTwo(date.getDate())}`
 }
 
 export type { DateBadgeProps }
-export { DateBadge }
+export { DateBadge, localDateIn, localDateOf }
