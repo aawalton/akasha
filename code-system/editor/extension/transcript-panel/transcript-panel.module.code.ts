@@ -1,10 +1,10 @@
 import * as fs from "node:fs"
-import * as vscode from "vscode"
-import { readSeatTranscripts } from "../transcript-sources/transcript-sources.module.code.ts"
+import { readSeatTranscripts } from "akasha/code-system/editor/extension/transcript-sources/transcript-sources.module.code.ts"
 import {
   openTranscriptPanel,
   type TranscriptTarget,
-} from "../transcript-view/transcript-view.module.code.ts"
+} from "akasha/code-system/editor/extension/transcript-view/transcript-view.module.code.ts"
+import * as vscode from "vscode"
 
 export interface OpenTranscriptArgs extends TranscriptTarget {
   readonly viewColumn?: vscode.ViewColumn
