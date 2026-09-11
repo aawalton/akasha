@@ -6,7 +6,6 @@ export const temperWeb = {
   type: "router-app",
   slug: "temper-web",
   definition: "the routes Temper serves to a browser",
-  manifest: "json",
   tunnelRoutes: "ts",
   rootRoute: "tsx",
   routeTable: "ts",
