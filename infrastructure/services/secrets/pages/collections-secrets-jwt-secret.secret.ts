@@ -6,8 +6,6 @@ export const collectionsSecretsJwtSecret = {
   type: "secret",
   slug: "collections-secrets-jwt-secret",
   placements: [
-    { resourceName: "collections-secrets", resourceKey: "JWT_SECRET" },
-    { resourceName: "collections-secrets", resourceKey: "ZERO_AUTH_SECRET" },
     { resourceName: "alanwalton-secrets", resourceKey: "JWT_SECRET" },
     { resourceName: "temper-secrets", resourceKey: "JWT_SECRET" },
     { resourceName: "temper-secrets", resourceKey: "ZERO_AUTH_SECRET" },
