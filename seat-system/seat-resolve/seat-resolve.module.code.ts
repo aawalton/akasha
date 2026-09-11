@@ -1,5 +1,5 @@
 import { domainsRead } from "akasha/domains/modules/reading/domain-reading.module.code.ts"
-import { slugOf } from "akasha/pages/value/page-value.module.code.ts"
+import { slugOf } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { personaAt, personasStanding } from "akasha/personas/reading/persona-reading.module.code.ts"
 import {
   ATTRIBUTES,
