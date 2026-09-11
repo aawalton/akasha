@@ -66,7 +66,45 @@ export const changeImports = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that is not code is passed over before that body is read.",
+      statement: "A body that is not code is read as the runs of path characters that body holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reading of such a run that is a whole path that moved takes the path that path landed at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rest of the run around that reading is left as the body spells it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run relative to the body landing on a path that moved is respelled from where the body sits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A relative run is read that one way rather than by any shorter reading of it.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A run matching a path that moved only by an ending several such paths share is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which of those paths such a run names is unanswerable, and answering it would name one silently.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A relative run in a body that moved is respelled where that run names a path outside what moved.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A body that moved deeper climbs the right number of levels in every run it holds.",
     },
     {
       invariantKind: "absence",

@@ -1,5 +1,4 @@
 import { basename } from "node:path"
-import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import { textOf } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
 import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
@@ -66,7 +65,7 @@ export function spellersIn(
   const names = [...new Set([...moved.keys()].map((one) => basename(one)))]
   const found: string[] = []
   for (const path of paths) {
-    if (!typed(path) || moved.has(path) || known.has(path)) continue
+    if (moved.has(path) || known.has(path)) continue
     const text = textAt(path)
     if (text === null) continue
     if (names.some((name) => text.includes(name))) found.push(path)

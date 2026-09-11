@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
+import {
+  changeImports,
+  changeRuns,
+} from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { gathered } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { bodyOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
@@ -147,4 +150,130 @@ test("a root-spelled name landing on nothing that moved is left alone", () => {
   const text = `export const at = "${ROOTED}"\n`
 
   expect(ranOn(TABLE, TABLE, text, new Map()).edits).toEqual([])
+})
+
+const SHELL = "machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh"
+
+const ROOTS = "machines/provisioning/scripts/repo-roots/repo-roots.shell-script.shell.sh"
+
+const ROOTS_AT = "machines/provisioning/roots/repo-roots/repo-roots.shell-script.shell.sh"
+
+const ROOTS_MOVED = new Map([[ROOTS, ROOTS_AT]])
+
+const LOOK = "design/interfaces/system/design-look/design-look.stylesheet.styles.css"
+
+const TOKENS = "design/interfaces/system/token-values/token-values.stylesheet.styles.css"
+
+const TOKENS_AT = "design/interfaces/tokens/token-values/token-values.stylesheet.styles.css"
+
+const WRAPPED = "services/workstations/service-wrapping/service-wrapping.module.code.ts"
+
+const WRAPPED_AT =
+  "infrastructure/services/workstations/service-wrapping/service-wrapping.module.code.ts"
+
+const SERVICE = "infrastructure/services/pages/pages-service.service.ts"
+
+const RECIPES = "inference/generations/upscale/up/upscale-up.shell-script.shell.sh"
+
+const IMAGES = new Map([
+  [
+    "inference/generations/upscale/image/Containerfile",
+    "inference/generations/upscale/recipe/Containerfile",
+  ],
+  [
+    "inference/generations/wan/image/Containerfile",
+    "inference/generations/wan/recipe/Containerfile",
+  ],
+  [
+    "inference/generations/zimage/image/Containerfile",
+    "inference/generations/zimage/recipe/Containerfile",
+  ],
+])
+
+function ranOverRuns(
+  was: string,
+  now: string,
+  text: string,
+  moved: ReadonlyMap<string, string>
+): Answer {
+  return gathered([changeRuns(was, now, text, moved)])
+}
+
+function runBodyIn(
+  was: string,
+  now: string,
+  text: string,
+  moved: ReadonlyMap<string, string>
+): string {
+  return bodyOf(ranOverRuns(was, now, text, moved), (path) => (path === now ? text : null))
+}
+
+test("a shell script naming a path from the root follows the file that moved", () => {
+  const text = `. "$REPO/${ROOTS}"\n`
+
+  expect(runBodyIn(SHELL, SHELL, text, ROOTS_MOVED)).toBe(`. "$REPO/${ROOTS_AT}"\n`)
+})
+
+test("a bare path from the root in a body that is no code follows the file that moved", () => {
+  const text = `wrapping: "${WRAPPED}"\n`
+
+  expect(runBodyIn(SERVICE, SERVICE, text, new Map([[WRAPPED, WRAPPED_AT]]))).toBe(
+    `wrapping: "${WRAPPED_AT}"\n`
+  )
+})
+
+test("a manifest's way in follows the file that moved", () => {
+  const was = "commands/akasha/akasha.command.code.ts"
+  const now = "cli/akasha/akasha.command.code.ts"
+  const text = `{\n  "main": "${was}"\n}\n`
+
+  expect(runBodyIn("package.json", "package.json", text, new Map([[was, now]]))).toBe(
+    `{\n  "main": "${now}"\n}\n`
+  )
+})
+
+test("a stylesheet naming a file beside it is respelled from where the body sits", () => {
+  const text = `@import "../token-values/token-values.stylesheet.styles.css";\n`
+
+  expect(runBodyIn(LOOK, LOOK, text, new Map([[TOKENS, TOKENS_AT]]))).toBe(
+    `@import "../../tokens/token-values/token-values.stylesheet.styles.css";\n`
+  )
+})
+
+test("a config naming a file by climbing follows that file", () => {
+  const at = "code-system/editor/extension/tsconfig.json"
+  const was = "alan/harness/code-editor/data-interfaces/pages/work-tree/work-tree.d.ts"
+  const now = "alan/harness/code-editor/interfaces/work-tree/work-tree.d.ts"
+  const text = `{ "files": ["../../../${was}"] }\n`
+
+  expect(runBodyIn(at, at, text, new Map([[was, now]]))).toBe(`{ "files": ["../../../${now}"] }\n`)
+})
+
+test("a run naming as many files that moved as it shares an ending with is left alone", () => {
+  const text = `  podman build -f "$PKG_DIR/image/Containerfile" "$PKG_DIR"\n`
+
+  expect(ranOverRuns(RECIPES, RECIPES, text, IMAGES).edits).toEqual([])
+})
+
+test("a run naming a folder rather than a whole path is left alone", () => {
+  const text = `@source "../../../pages/ui/**/*.{ts,tsx}";\n`
+  const moved = new Map([["pages/ui/held/held.component.code.tsx", "pages/parts/held.code.tsx"]])
+
+  expect(ranOverRuns(LOOK, LOOK, text, moved).edits).toEqual([])
+})
+
+test("a relative run landing on nothing that moved is left alone though the body moved", () => {
+  const was = "temper/watcher/image/Containerfile"
+  const now = "temper/watcher/recipe/Containerfile"
+
+  expect(
+    ranOverRuns(was, now, `COPY ./src/main.rs ./src/main.rs\n`, new Map([[was, now]])).edits
+  ).toEqual([])
+})
+
+test("a body that is code is read by the parser rather than as runs", () => {
+  const moved = new Map([[TYPED_ROUTE, TYPED_ROUTE_AT]])
+
+  expect(bodyIn(TYPED_ROUTE, TYPED_ROUTE_AT, TYPED_CODE, moved)).toBe(TYPED_FOLLOWED)
+  expect(ranOverRuns(TYPED_ROUTE, TYPED_ROUTE_AT, TYPED_CODE, moved).edits).toEqual([])
 })

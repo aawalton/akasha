@@ -48,8 +48,8 @@ export const pathNaming = {
       statement: "A path the caller already knows about is left out of that search.",
     },
     {
-      invariantKind: "absence",
-      statement: "A path that is no TypeScript file is left out of that search.",
+      invariantKind: "departure",
+      statement: "A body is searched whatever language that body is written in.",
     },
     {
       invariantKind: "absence",

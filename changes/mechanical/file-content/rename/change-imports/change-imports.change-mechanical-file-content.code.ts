@@ -13,6 +13,7 @@ import {
   specifierFor,
   spelledIn,
 } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+import { runsIn } from "akasha/code-system/path-runs/path-runs.module.code.ts"
 
 const GENERATED = "+types"
 
@@ -21,6 +22,10 @@ const UNDER = "/"
 const CODE = new Set([".ts", ".tsx"])
 
 const ROOT = "akasha/"
+
+const RELATIVE = /^\.\.?\//
+
+const LINES = "\n"
 
 const MAPPED = new WeakMap<Readonly<Record<string, string>>, ReadonlyMap<string, string>>()
 
@@ -94,6 +99,80 @@ export function changeImports(
   return stating(splicing(now, text, splices))
 }
 
+type Pointed = {
+  readonly at: number
+  readonly said: string
+  readonly put: string
+}
+
+function nearFor(
+  was: string,
+  dir: string,
+  run: string,
+  moved: ReadonlyMap<string, string>
+): Pointed | null {
+  if (!RELATIVE.test(run)) return null
+  const landed = landingOf(was, run)
+  if (landed === null) return null
+  const there = moved.get(landed)
+  return there === undefined ? null : { at: 0, said: run, put: specifierFor(dir, there) }
+}
+
+function anchoredFor(
+  run: string,
+  said: readonly string[],
+  moved: ReadonlyMap<string, string>
+): Pointed | null {
+  if (RELATIVE.test(run)) return null
+  for (const one of said) {
+    const there = moved.get(one)
+    if (there !== undefined) return { at: run.length - one.length, said: one, put: there }
+  }
+  return null
+}
+
+function openingsIn(lines: readonly string[]): readonly number[] {
+  const found: number[] = []
+  let at = 0
+  for (const line of lines) {
+    found.push(at)
+    at += line.length + LINES.length
+  }
+  return found
+}
+
+export function changeRuns(
+  was: string,
+  now: string,
+  text: string,
+  moved: ReadonlyMap<string, string>
+): Said {
+  const dir = dirname(now)
+  const lines = text.split(LINES)
+  const opens = openingsIn(lines)
+  const splices: Splice[] = []
+  let over = -1
+  let cursor = 0
+  for (const run of runsIn(text)) {
+    if (run.line !== over) {
+      over = run.line
+      cursor = 0
+    }
+    const whole = run.said[0]
+    const line = lines[run.line - 1]
+    const open = opens[run.line - 1]
+    if (whole === undefined || line === undefined || open === undefined) continue
+    const found = line.indexOf(whole, cursor)
+    if (found < 0) continue
+    cursor = found + whole.length
+    const held = nearFor(was, dir, whole, moved) ?? anchoredFor(whole, run.said, moved)
+    if (held === null || held.put === held.said) continue
+    const from = open + found + held.at
+    splices.push({ from, to: from + held.said.length, put: held.put })
+  }
+  return stating(splicing(now, text, splices))
+}
+
 export type Given = {
   readonly was: string
   readonly now: string
@@ -109,9 +188,10 @@ function mapFor(moved: Readonly<Record<string, string>>): ReadonlyMap<string, st
 }
 
 export function runChange(world: World, given: Given): Said {
-  if (!CODE.has(extname(given.now))) return stating([])
   const held = world.bodyOf(given.now) ?? world.bodyOf(given.was)
   if (notText(held)) return stating([])
   if (held === null) return refusing(`\`${given.now}\` holds no body, so nothing is repointed`)
-  return changeImports(given.was, given.now, held, mapFor(given.moved))
+  const moved = mapFor(given.moved)
+  if (CODE.has(extname(given.now))) return changeImports(given.was, given.now, held, moved)
+  return changeRuns(given.was, given.now, held, moved)
 }
