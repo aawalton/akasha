@@ -9,6 +9,7 @@ import {
   type World,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { bodyAfter } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   aType,
   bodyOf,
@@ -63,10 +64,6 @@ function worldIn(root: string, textOf: (path: string) => string | null): World {
 
 function bodiesOf(said: Answer, world: World): ReadonlyMap<string, string | null> {
   return bodiesIn(said, world.base)
-}
-
-function bodyIn(said: Answer, world: World, path: string): string {
-  return bodiesOf(said, world).get(path) ?? ""
 }
 
 async function whyOf(
@@ -167,11 +164,11 @@ test("the page's own slug and every name of it are restated", async () => {
   const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT })
   expect(said.refused).toBe(null)
   expect([...bodiesOf(said, world).keys()].sort()).toEqual([HELD_PAGE, NAMER_PAGE])
-  expect(bodyIn(said, world, HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
-  expect(bodyIn(said, world, HELD_PAGE)).not.toContain(`"${HELD_SLUG}"`)
-  expect(bodyIn(said, world, NAMER_PAGE)).toContain(`"note": "${KEPT}"`)
-  expect(bodyIn(said, world, NAMER_PAGE)).toContain(`"module/${KEPT}"`)
-  expect(bodyIn(said, world, NAMER_PAGE)).not.toContain(HELD_SLUG)
+  expect(bodyAfter(said, world, HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
+  expect(bodyAfter(said, world, HELD_PAGE)).not.toContain(`"${HELD_SLUG}"`)
+  expect(bodyAfter(said, world, NAMER_PAGE)).toContain(`"note": "${KEPT}"`)
+  expect(bodyAfter(said, world, NAMER_PAGE)).toContain(`"module/${KEPT}"`)
+  expect(bodyAfter(said, world, NAMER_PAGE)).not.toContain(HELD_SLUG)
 })
 
 test("each body is answered beside the body it was worked out from", async () => {
@@ -190,8 +187,8 @@ test("the page's exported const is renamed with its slug", async () => {
   const world = worldIn(root, textIn(root))
   const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT })
   expect(said.refused).toBe(null)
-  expect(bodyIn(said, world, HELD_PAGE)).toContain(`export const ${KEPT} =`)
-  expect(bodyIn(said, world, HELD_PAGE)).not.toContain(`export const ${HELD_SLUG} =`)
+  expect(bodyAfter(said, world, HELD_PAGE)).toContain(`export const ${KEPT} =`)
+  expect(bodyAfter(said, world, HELD_PAGE)).not.toContain(`export const ${HELD_SLUG} =`)
 })
 
 test("the bodies are answered rather than written", async () => {
@@ -227,8 +224,8 @@ test("the plural is stated anew beside the slug", async () => {
   const world = worldIn(root, (path) => (path === HELD_PAGE ? held : text(path)))
   const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
   expect(said.refused).toBe(null)
-  expect(bodyIn(said, world, HELD_PAGE)).toContain(`"pluralSlug": "kepts"`)
-  expect(bodyIn(said, world, HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
+  expect(bodyAfter(said, world, HELD_PAGE)).toContain(`"pluralSlug": "kepts"`)
+  expect(bodyAfter(said, world, HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
 })
 
 test("the plural and the export rename are reached at their own addresses", async () => {
@@ -307,6 +304,6 @@ test("a name under a key its property page's slug does not spell is restated", a
   const world = worldIn(root, textIn(root))
   const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT })
   expect(said.refused).toBe(null)
-  expect(bodyIn(said, world, KEYED_NAMER)).toContain(`"${KEYED_KEY}": "${KEPT}"`)
-  expect(bodyIn(said, world, KEYED_NAMER)).not.toContain(`"${HELD_SLUG}"`)
+  expect(bodyAfter(said, world, KEYED_NAMER)).toContain(`"${KEYED_KEY}": "${KEPT}"`)
+  expect(bodyAfter(said, world, KEYED_NAMER)).not.toContain(`"${HELD_SLUG}"`)
 })

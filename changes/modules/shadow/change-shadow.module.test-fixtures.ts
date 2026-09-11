@@ -9,6 +9,7 @@ import {
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
+  bodiesIn,
   ledgerAt,
   NOTHING_OVER,
   type Reached,
@@ -182,6 +183,10 @@ export function bodyOf(said: Answer, textOf: BodyOf = () => null): string {
   const left = [...held.values()].filter((one): one is string => typeof one === "string")
   expect(left).toHaveLength(1)
   return left[0] ?? ""
+}
+
+export function bodyAfter(said: Answer, world: World, at: string): string {
+  return bodiesIn(said, world.base).get(at) ?? ""
 }
 
 export function refusalOf(said: Answer, textOf: BodyOf = () => null): string {

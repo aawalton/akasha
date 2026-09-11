@@ -26,6 +26,7 @@ import {
   worldAt,
   worldOver,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { bodyAfter } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   aProperty,
   aType,
@@ -223,10 +224,6 @@ function bodiesOf(said: Answer, world: World): ReadonlyMap<string, string | null
   return bodiesIn(said, world.base)
 }
 
-function bodyIn(said: Answer, world: World, at: string): string {
-  return bodiesOf(said, world).get(at) ?? ""
-}
-
 function tookAway(path: string): Answer {
   return stating([{ kind: "remove", path }])
 }
@@ -316,8 +313,8 @@ test("the page and the parent's entry for that page go in one answer", async () 
   expect(said.refused).toBe(null)
   expect([...pathsIn(said)].sort()).toEqual([CHILD_PAGE, PARENT_PAGE])
   expect(bodiesOf(said, world).get(CHILD_PAGE)).toBe(null)
-  expect(bodyIn(said, world, PARENT_PAGE)).toContain('"parts": []')
-  expect(bodyIn(said, world, PARENT_PAGE)).not.toContain("module/child")
+  expect(bodyAfter(said, world, PARENT_PAGE)).toContain('"parts": []')
+  expect(bodyAfter(said, world, PARENT_PAGE)).not.toContain("module/child")
 })
 
 test("a parent naming the page bare rather than qualified loses that entry too", async () => {
@@ -328,8 +325,8 @@ test("a parent naming the page bare rather than qualified loses that entry too",
 
   expect(said.refused).toBe(null)
   expect([...pathsIn(said)].sort()).toEqual([CHILD_PAGE, PARENT_PAGE])
-  expect(bodyIn(said, world, PARENT_PAGE)).toContain('"parts": []')
-  expect(bodyIn(said, world, PARENT_PAGE)).not.toContain('"child"')
+  expect(bodyAfter(said, world, PARENT_PAGE)).toContain('"parts": []')
+  expect(bodyAfter(said, world, PARENT_PAGE)).not.toContain('"child"')
 })
 
 test("a page two parents name loses its entry in both", async () => {
@@ -344,8 +341,8 @@ test("a page two parents name loses its entry in both", async () => {
 
   expect(said.refused).toBe(null)
   expect([...pathsIn(said)].sort()).toEqual([AUNT_PAGE, CHILD_PAGE, PARENT_PAGE])
-  expect(bodyIn(said, world, PARENT_PAGE)).toContain('"parts": []')
-  expect(bodyIn(said, world, AUNT_PAGE)).toContain('"parts": []')
+  expect(bodyAfter(said, world, PARENT_PAGE)).toContain('"parts": []')
+  expect(bodyAfter(said, world, AUNT_PAGE)).toContain('"parts": []')
 })
 
 test("a page another page still names is refused by the guards this change names", async () => {

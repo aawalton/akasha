@@ -54,6 +54,10 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "An answer is read here for the body that answer leaves at a path named.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A refusal is read here whether the change said the refusal or the replay found the refusal.",
     },
