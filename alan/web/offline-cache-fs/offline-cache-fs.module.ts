@@ -5,6 +5,6 @@ export const offlineCacheFs = {
   pageTypeSlug: "module",
   type: "module",
   slug: "offline-cache-fs",
-  definition: "the offline cache's files listed and taken away on the device",
+  definition: "the offline cache's files read, written, listed and taken away on the device",
   code: "ts",
 } as const satisfies Module

@@ -1,6 +1,5 @@
 import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type { ContentPagePersistencePort } from "akasha/pages/ui-store/collection/content-persistence/content-persistence.module.code.ts"
-import { z } from "zod"
 import { getFilesystem } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
 import {
   addContentPageIds,
@@ -20,6 +19,8 @@ import {
 import {
   deleteDocumentsFile,
   listDocumentsFiles,
+  readDocumentsFile,
+  writeDocumentsFile,
 } from "../offline-cache-fs/offline-cache-fs.module.code.ts"
 import { namespacedPath } from "../offline-cache-namespace/offline-cache-namespace.module.code.ts"
 
@@ -43,43 +44,23 @@ function isContentCacheFile(name: string): boolean {
   return isIndex || isBody
 }
 
-const ReadFileResultSchema = z.object({ data: z.string() })
-
-async function readRawFile(path: string): Promise<string | null> {
-  const fs = getFilesystem()
-  if (fs == null) return null
-  try {
-    const result = await fs.readFile({ path, directory: "DOCUMENTS", encoding: "utf8" })
-    const file = ReadFileResultSchema.safeParse(result)
-    return file.success ? file.data.data : null
-  } catch {
-    return null
-  }
-}
-
-async function writeRawFile(path: string, data: string): Promise<void> {
-  const fs = getFilesystem()
-  if (fs == null) return
-  await fs.writeFile({ path, data, directory: "DOCUMENTS", encoding: "utf8" })
-}
-
 async function readIndex(): Promise<ContentPageIndex> {
   const path = indexPath()
   if (path === null) return EMPTY_CONTENT_PAGE_INDEX
-  const raw = await readRawFile(path)
+  const raw = await readDocumentsFile(path)
   return raw === null ? EMPTY_CONTENT_PAGE_INDEX : parseContentPageIndex(raw)
 }
 
 async function writeIndex(index: ContentPageIndex): Promise<void> {
   const path = indexPath()
   if (path === null) return
-  await writeRawFile(path, serializeContentPageIndex(index))
+  await writeDocumentsFile(path, serializeContentPageIndex(index))
 }
 
 async function readCachedPage(id: string): Promise<Page | null> {
   const path = pageFilePath(id)
   if (path === null) return null
-  const raw = await readRawFile(path)
+  const raw = await readDocumentsFile(path)
   return raw === null ? null : parsePersistedContentPage(raw)
 }
 
@@ -98,7 +79,7 @@ export function createNativeFsContentPersistence(): ContentPagePersistencePort {
       const existing = index.ids.includes(page.id) ? await readCachedPage(page.id) : null
       const merged = mergeContentPage(existing, page)
       const path = pageFilePath(page.id)
-      if (path !== null) await writeRawFile(path, serializeContentPage(merged))
+      if (path !== null) await writeDocumentsFile(path, serializeContentPage(merged))
     }
     const savedIds = pages.map((p) => p.id)
     const withIds = addContentPageIds(index, savedIds)

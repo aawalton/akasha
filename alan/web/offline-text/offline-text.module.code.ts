@@ -1,5 +1,8 @@
-import { z } from "zod"
 import { getFilesystem } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
+import {
+  readDocumentsFile,
+  writeDocumentsFile,
+} from "../offline-cache-fs/offline-cache-fs.module.code.ts"
 import {
   CacheIndexPersistedSchema,
   type CompletionQueue,
@@ -27,28 +30,8 @@ const CACHE_INDEX_PATH = "chapters-cache.json"
 const COMPLETION_QUEUE_PATH = "completion-queue.json"
 const POSITION_STORE_PATH = "position-store.json"
 
-const ReadFileResultSchema = z.object({ data: z.string() })
-
-async function readTextFile(path: string): Promise<string | null> {
-  const fs = getFilesystem()
-  if (fs == null) return null
-  try {
-    const result = await fs.readFile({ path, directory: "DOCUMENTS", encoding: "utf8" })
-    const file = ReadFileResultSchema.safeParse(result)
-    return file.success ? file.data.data : null
-  } catch {
-    return null
-  }
-}
-
-async function writeTextFile(path: string, data: string): Promise<void> {
-  const fs = getFilesystem()
-  if (fs == null) return
-  await fs.writeFile({ path, data, directory: "DOCUMENTS", encoding: "utf8" })
-}
-
 async function readCacheIndex() {
-  const raw = await readTextFile(CACHE_INDEX_PATH)
+  const raw = await readDocumentsFile(CACHE_INDEX_PATH)
   if (raw == null) return EMPTY_CACHE_INDEX
   try {
     const parsed = CacheIndexPersistedSchema.safeParse(JSON.parse(raw))
@@ -59,7 +42,7 @@ async function readCacheIndex() {
 }
 
 export async function readCompletionQueue(): Promise<CompletionQueue> {
-  const raw = await readTextFile(COMPLETION_QUEUE_PATH)
+  const raw = await readDocumentsFile(COMPLETION_QUEUE_PATH)
   if (raw == null) return EMPTY_COMPLETION_QUEUE
   try {
     const parsed = CompletionQueuePersistedSchema.safeParse(JSON.parse(raw))
@@ -71,11 +54,11 @@ export async function readCompletionQueue(): Promise<CompletionQueue> {
 }
 
 async function writeCompletionQueue(queue: CompletionQueue): Promise<void> {
-  await writeTextFile(COMPLETION_QUEUE_PATH, JSON.stringify(queue))
+  await writeDocumentsFile(COMPLETION_QUEUE_PATH, JSON.stringify(queue))
 }
 
 export async function readPositionStore(): Promise<PositionStore> {
-  const raw = await readTextFile(POSITION_STORE_PATH)
+  const raw = await readDocumentsFile(POSITION_STORE_PATH)
   if (raw == null) return EMPTY_POSITION_STORE
   try {
     const parsed = PositionStorePersistedSchema.safeParse(JSON.parse(raw))
@@ -87,7 +70,7 @@ export async function readPositionStore(): Promise<PositionStore> {
 }
 
 async function writePositionStore(store: PositionStore): Promise<void> {
-  await writeTextFile(POSITION_STORE_PATH, JSON.stringify(store))
+  await writeDocumentsFile(POSITION_STORE_PATH, JSON.stringify(store))
 }
 
 export async function writeLocalPosition(pageId: string, progress: number): Promise<void> {
