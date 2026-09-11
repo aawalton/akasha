@@ -212,4 +212,5 @@ export const temperCombatAddon = {
       statement: "Nothing here reaches a Date.",
     },
   ],
+  deployedCommit: "3ac618e424292936d48f1e917c01cefde80282dd",
 } as const satisfies EsoAddon
