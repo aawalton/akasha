@@ -9,6 +9,7 @@ export const akashaLauncher = {
     "the `akasha` name on PATH, handing what follows it to the dispatcher in the checkout",
   shell: "sh",
   sourced: false,
+  scripting: {},
   invariants: [
     {
       invariantKind: "departure",
