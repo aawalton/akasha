@@ -17,7 +17,6 @@ export const akasha = {
     "domain/graph",
     "domain/type",
     "domain/change",
-    "domain/instrument",
     "domain/check",
     "page-type/command",
     "domain/testing-system",
