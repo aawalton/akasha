@@ -10,20 +10,46 @@ export const alanWebApiSmsWebhook = {
   urlPath: "api/sms/webhook",
   invariants: [
     {
-      invariantKind: "constraint",
-      statement: "The message page an inbound text becomes is no page type the pages service has.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "No inbound text reaches a seat.",
+      invariantKind: "departure",
+      statement: "The signed text is read off the request before anything parses that request.",
     },
     {
       invariantKind: "departure",
-      statement: "Telnyx is answered 503 rather than a delivered receipt.",
+      statement:
+        "A body whose Telnyx signature does not verify is answered 403 and acted on by nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "A sender is told the text was not delivered rather than told the text arrived.",
+      statement:
+        "A keyword the carrier answers for itself is recognised here and answered by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An inbound text becomes a message to the handler seat the sender's relationship names.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A sender nobody enrolled is written to the alan seat rather than let go in silence.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A handler target no seat holds becomes a refusal notice to the alan seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A write the pages service refused is answered 503 rather than as a delivered receipt.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The enrolled senders are read before the machinery runs, and a list unread answers 503.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every effect the inbound machinery needs is handed in by this route.",
     },
   ],
 } as const satisfies Route
