@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { noMethodSignature } from "./no-method-signature.code-check.audit.code.ts"
+import { noMethodSignature } from "akasha/checks/code-checks/pages/no-method-signature/no-method-signature.code-check.audit.code.ts"
 import {
   AT,
   SIGNED,
   scratch,
   tracked,
-} from "./no-method-signature.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-method-signature/no-method-signature.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

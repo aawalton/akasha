@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { noImportCycle } from "./no-import-cycle.code-check.audit.code.ts"
+import { noImportCycle } from "akasha/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.audit.code.ts"
 import {
   AT,
   scratch,
   TWO_AT,
   tracked,
-} from "./no-import-cycle.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noNonNullAssertion } from "./no-non-null-assertion.syntax-rule.code.ts"
+import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import { noNonNullAssertion } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-non-null-assertion/no-non-null-assertion.syntax-rule.code.ts"
 
 test("a file asserting no absence away is refused nothing", () => {
   expect(noNonNullAssertion(parsed("export const one = 1\n"))).toEqual([])

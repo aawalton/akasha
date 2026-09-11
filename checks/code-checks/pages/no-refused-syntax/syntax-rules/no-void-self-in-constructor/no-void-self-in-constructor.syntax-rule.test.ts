@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noVoidSelfInConstructor } from "./no-void-self-in-constructor.syntax-rule.code.ts"
+import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import { noVoidSelfInConstructor } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-self-in-constructor/no-void-self-in-constructor.syntax-rule.code.ts"
 
 test("a file holding no constructor member is refused nothing", () => {
   expect(noVoidSelfInConstructor(parsed("export const one = 1\n"))).toEqual([])

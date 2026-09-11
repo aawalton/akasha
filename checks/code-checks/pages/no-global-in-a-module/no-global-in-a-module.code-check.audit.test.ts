@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { noGlobalInAModule } from "./no-global-in-a-module.code-check.audit.code.ts"
+import { noGlobalInAModule } from "akasha/checks/code-checks/pages/no-global-in-a-module/no-global-in-a-module.code-check.audit.code.ts"
 import {
   CARRIES,
   CLEAN,
@@ -9,7 +9,7 @@ import {
   scratch,
   TWO_AT,
   tracked,
-} from "./no-global-in-a-module.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-global-in-a-module/no-global-in-a-module.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

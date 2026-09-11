@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noVoidReturn } from "./no-void-return.syntax-rule.code.ts"
+import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import { noVoidReturn } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-return/no-void-return.syntax-rule.code.ts"
 
 test("a file returning nothing that way is refused nothing", () => {
   expect(noVoidReturn(parsed("export const one = 1\n"))).toEqual([])

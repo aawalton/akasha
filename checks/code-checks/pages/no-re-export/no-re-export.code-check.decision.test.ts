@@ -1,6 +1,13 @@
 import { expect, test } from "bun:test"
-import { reasonsIn, reExportsIn } from "./no-re-export.code-check.decision.code.ts"
-import { AT, given, ROOT } from "./no-re-export.code-check.decision.test-fixtures.ts"
+import {
+  reasonsIn,
+  reExportsIn,
+} from "akasha/checks/code-checks/pages/no-re-export/no-re-export.code-check.decision.code.ts"
+import {
+  AT,
+  given,
+  ROOT,
+} from "akasha/checks/code-checks/pages/no-re-export/no-re-export.code-check.decision.test-fixtures.ts"
 
 test("a file exporting only what it declared is let through", () => {
   const body =

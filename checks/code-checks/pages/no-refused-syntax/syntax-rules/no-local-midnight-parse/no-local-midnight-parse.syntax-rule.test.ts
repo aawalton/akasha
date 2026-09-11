@@ -1,7 +1,13 @@
 import { expect, test } from "bun:test"
+import {
+  PROBE_AT,
+  parsed,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import {
+  midnightPinned,
+  noLocalMidnightParse,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-local-midnight-parse/no-local-midnight-parse.syntax-rule.code.ts"
 import ts from "typescript"
-import { PROBE_AT, parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { midnightPinned, noLocalMidnightParse } from "./no-local-midnight-parse.syntax-rule.code.ts"
 
 function first(text: string): ts.Expression {
   const source = ts.createSourceFile(PROBE_AT, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)

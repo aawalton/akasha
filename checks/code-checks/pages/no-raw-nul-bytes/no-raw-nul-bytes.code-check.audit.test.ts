@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { noRawNulBytes } from "./no-raw-nul-bytes.code-check.audit.code.ts"
+import { noRawNulBytes } from "akasha/checks/code-checks/pages/no-raw-nul-bytes/no-raw-nul-bytes.code-check.audit.code.ts"
 import {
   AWAY,
   CERTIFICATE,
@@ -7,7 +7,7 @@ import {
   scratch,
   TWO_NULS,
   tracked,
-} from "./no-raw-nul-bytes.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-raw-nul-bytes/no-raw-nul-bytes.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

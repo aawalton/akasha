@@ -1,6 +1,11 @@
 import { expect, test } from "bun:test"
-import { reasonsIn } from "./no-method-signature.code-check.decision.code.ts"
-import { AT, given, ROOT, SIGNED } from "./no-method-signature.code-check.decision.test-fixtures.ts"
+import { reasonsIn } from "akasha/checks/code-checks/pages/no-method-signature/no-method-signature.code-check.decision.code.ts"
+import {
+  AT,
+  given,
+  ROOT,
+  SIGNED,
+} from "akasha/checks/code-checks/pages/no-method-signature/no-method-signature.code-check.decision.test-fixtures.ts"
 
 test("a property holding a function type is let through", () => {
   const body = "type Whole = {\n  readonly at: (path: string) => string | null\n}\n"

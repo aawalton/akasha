@@ -1,8 +1,14 @@
 import { expect, test } from "bun:test"
+import {
+  PROBE_AT,
+  parsed,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import {
+  noDoubleCast,
+  withoutParens,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-double-cast/no-double-cast.syntax-rule.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import ts from "typescript"
-import { PROBE_AT, parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noDoubleCast, withoutParens } from "./no-double-cast.syntax-rule.code.ts"
 
 test("a file asserting nothing is refused nothing", () => {
   expect(noDoubleCast(parsed("export const one = 1\n"))).toEqual([])

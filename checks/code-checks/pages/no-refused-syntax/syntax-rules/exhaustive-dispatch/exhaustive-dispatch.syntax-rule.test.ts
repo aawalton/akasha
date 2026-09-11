@@ -1,7 +1,13 @@
 import { expect, test } from "bun:test"
+import {
+  PROBE_AT,
+  parsed,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import {
+  ends,
+  exhaustiveDispatch,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/exhaustive-dispatch/exhaustive-dispatch.syntax-rule.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import { PROBE_AT, parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { ends, exhaustiveDispatch } from "./exhaustive-dispatch.syntax-rule.code.ts"
 
 function switching(body: string): string {
   return `function held(one: string): string {\n  switch (one) {\n    case "a":\n      return "a"\n${body}  }\n  return ""\n}\n`

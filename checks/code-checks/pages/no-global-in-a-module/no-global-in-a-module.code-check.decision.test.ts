@@ -1,12 +1,15 @@
 import { expect, test } from "bun:test"
-import { moduleAt, reasonsIn } from "./no-global-in-a-module.code-check.decision.code.ts"
+import {
+  moduleAt,
+  reasonsIn,
+} from "akasha/checks/code-checks/pages/no-global-in-a-module/no-global-in-a-module.code-check.decision.code.ts"
 import {
   CARRIES,
   CLEAN,
   DECLARED_AT,
   ONE_AT,
   TWICE,
-} from "./no-global-in-a-module.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-global-in-a-module/no-global-in-a-module.code-check.decision.test-fixtures.ts"
 
 test("a module body carrying a declare global block is refused", () => {
   expect(reasonsIn(ONE_AT, CARRIES)).toHaveLength(1)

@@ -1,4 +1,9 @@
 import {
+  textIn,
+  textNamed,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import {
   erasedExport,
   erasedImport,
   skimmedAs,
@@ -6,8 +11,6 @@ import {
 import { landingOf } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import ts from "typescript"
-import { textIn, textNamed } from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 const SHOWN = 3
 

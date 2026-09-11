@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import { noneOfTypeFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import type { SourceFile } from "typescript"
-import { type Rule, refusalsIn, rulesIn } from "./no-refused-syntax.code-check.decision.code.ts"
+import {
+  type Rule,
+  refusalsIn,
+  rulesIn,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.code.ts"
 import {
   BEFORE,
   CARRIED,
@@ -17,8 +17,12 @@ import {
   ruling,
   scratch,
   TEXT,
-} from "./no-refused-syntax.code-check.decision.test-fixtures.ts"
-import type { Given } from "./syntax-rules/syntax-rule.page-type.ts"
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import type { Given } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { noneOfTypeFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { SourceFile } from "typescript"
 
 afterAll(scratch.sweep)
 

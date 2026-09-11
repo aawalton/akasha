@@ -1,6 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { noReExport } from "./no-re-export.code-check.audit.code.ts"
-import { AT, SENT, scratch, tracked } from "./no-re-export.code-check.decision.test-fixtures.ts"
+import { noReExport } from "akasha/checks/code-checks/pages/no-re-export/no-re-export.code-check.audit.code.ts"
+import {
+  AT,
+  SENT,
+  scratch,
+  tracked,
+} from "akasha/checks/code-checks/pages/no-re-export/no-re-export.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

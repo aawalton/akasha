@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noAngleBracketCast } from "./no-angle-bracket-cast.syntax-rule.code.ts"
+import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import { noAngleBracketCast } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-angle-bracket-cast/no-angle-bracket-cast.syntax-rule.code.ts"
 
 test("a file asserting nothing is refused nothing", () => {
   expect(noAngleBracketCast(parsed("export const one = 1\n"))).toEqual([])

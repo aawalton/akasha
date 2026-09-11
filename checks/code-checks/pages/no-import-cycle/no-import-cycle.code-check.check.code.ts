@@ -1,5 +1,5 @@
-import { input, TEXTS } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { refusalsOver } from "./no-import-cycle.code-check.decision.code.ts"
+import { refusalsOver } from "akasha/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.decision.code.ts"
+import { input, TEXTS } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 
 export const noImportCycle = input(TEXTS, (change, shadow) =>
   refusalsOver(change, shadow.index.importersOf)

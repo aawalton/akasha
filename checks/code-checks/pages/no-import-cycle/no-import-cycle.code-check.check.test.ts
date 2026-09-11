@@ -1,16 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
-import { importFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
-import { bodiesOver } from "../../../modules/check-staging/check-staging.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { noImportCycle } from "./no-import-cycle.code-check.check.code.ts"
+import { noImportCycle } from "akasha/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.check.code.ts"
 import {
   AT,
   OUTSIDE,
   rooted,
   scratch,
   TWO_AT,
-} from "./no-import-cycle.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.decision.test-fixtures.ts"
+import { bodiesOver } from "akasha/checks/modules/check-staging/check-staging.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { importFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

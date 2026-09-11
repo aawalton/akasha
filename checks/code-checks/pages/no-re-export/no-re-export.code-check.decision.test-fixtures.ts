@@ -1,9 +1,9 @@
+import type { Body } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import { bodyFrom } from "akasha/checks/modules/judged-body/judged-body.module.code.ts"
+import { founded } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { bodyFrom } from "../../../modules/judged-body/judged-body.module.code.ts"
-import { founded } from "../../../modules/scratch/check-scratch.module.code.ts"
 
 export const ROOT = "/repo"
 

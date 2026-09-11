@@ -1,15 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { noRefusedSyntax } from "./no-refused-syntax.code-check.check.code.ts"
+import { noRefusedSyntax } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.check.code.ts"
 import {
   JUDGED_AT,
   ruled,
   scratch,
   TEXT,
-} from "./no-refused-syntax.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import { onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

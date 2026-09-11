@@ -1,4 +1,4 @@
-import type { SyntaxRule } from "../syntax-rule.page-type.types.ts"
+import type { SyntaxRule } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.types.ts"
 
 export const noRunOutsideTheRunner = {
   id: "01a05d68-4f2f-7e94-bbdd-0f8139dadfb7",

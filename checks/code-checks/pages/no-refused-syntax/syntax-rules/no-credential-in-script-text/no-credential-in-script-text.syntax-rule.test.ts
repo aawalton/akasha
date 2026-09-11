@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
-import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
+import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import {
   credentialNamedIn,
   noCredentialInScriptText,
-} from "./no-credential-in-script-text.syntax-rule.code.ts"
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.code.ts"
 
 test("a file calling nothing is refused nothing", () => {
   expect(noCredentialInScriptText(parsed("export const one = 1\n"))).toEqual([])

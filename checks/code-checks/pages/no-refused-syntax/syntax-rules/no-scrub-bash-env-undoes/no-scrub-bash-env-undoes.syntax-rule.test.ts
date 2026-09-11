@@ -1,8 +1,14 @@
 import { expect, test } from "bun:test"
+import {
+  PROBE_AT,
+  parsed,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import {
+  noScrubBashEnvUndoes,
+  saidIn,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-scrub-bash-env-undoes/no-scrub-bash-env-undoes.syntax-rule.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import ts from "typescript"
-import { PROBE_AT, parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noScrubBashEnvUndoes, saidIn } from "./no-scrub-bash-env-undoes.syntax-rule.code.ts"
 
 test("a file calling nothing is refused nothing", () => {
   expect(noScrubBashEnvUndoes(parsed("export const one = 1\n"))).toEqual([])

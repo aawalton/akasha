@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { noRefusedSyntax } from "./no-refused-syntax.code-check.audit.code.ts"
+import { noRefusedSyntax } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.audit.code.ts"
 import {
   JUDGED_AT,
   scratch,
   TEXT,
   tracked,
-} from "./no-refused-syntax.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const noIndexPathSpelled = {
   id: "01a05350-50b5-76df-9760-b09c77c2ee7c",

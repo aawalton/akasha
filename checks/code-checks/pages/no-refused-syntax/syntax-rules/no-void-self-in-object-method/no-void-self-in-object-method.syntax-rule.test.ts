@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noVoidSelfInObjectMethod } from "./no-void-self-in-object-method.syntax-rule.code.ts"
+import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import { noVoidSelfInObjectMethod } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-void-self-in-object-method/no-void-self-in-object-method.syntax-rule.code.ts"
 
 test("a file holding no object literal is refused nothing", () => {
   expect(noVoidSelfInObjectMethod(parsed("export const one = 1\n"))).toEqual([])

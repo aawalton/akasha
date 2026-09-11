@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noNeverSettlingThrow } from "./no-never-settling-throw.syntax-rule.code.ts"
+import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import { noNeverSettlingThrow } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-never-settling-throw/no-never-settling-throw.syntax-rule.code.ts"
 
 test("a file throwing nothing is refused nothing", () => {
   expect(noNeverSettlingThrow(parsed("export const one = 1\n"))).toEqual([])

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noAkashaCommandFromCode } from "./no-akasha-command-from-code.syntax-rule.code.ts"
+import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import { noAkashaCommandFromCode } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.code.ts"
 
 test("a file launching nothing is refused nothing", () => {
   expect(noAkashaCommandFromCode(parsed("export const one = 1\n"))).toEqual([])

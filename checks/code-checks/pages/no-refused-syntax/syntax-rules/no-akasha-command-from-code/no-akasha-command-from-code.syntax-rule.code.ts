@@ -1,7 +1,10 @@
 import { basenameOf } from "akasha/agents/hooks/shell-calls/shell-calls.module.code.ts"
+import type {
+  Given,
+  Refusal,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { lineOf } from "akasha/code-system/code-source/code-source.module.code.ts"
 import ts from "typescript"
-import type { Given, Refusal } from "../syntax-rule.page-type.ts"
 
 const COMMAND = "akasha"
 

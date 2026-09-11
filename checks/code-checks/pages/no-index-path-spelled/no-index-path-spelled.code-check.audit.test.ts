@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { noIndexPathSpelled } from "./no-index-path-spelled.code-check.audit.code.ts"
+import { noIndexPathSpelled } from "akasha/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.audit.code.ts"
 import {
   AT,
   HELD,
   scratch,
   tracked,
-} from "./no-index-path-spelled.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

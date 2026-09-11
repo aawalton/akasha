@@ -4,7 +4,7 @@ import {
   reachedIn,
   reachingIn,
   refusalsOver,
-} from "./no-import-cycle.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.decision.code.ts"
 import {
   AT,
   change,
@@ -12,7 +12,7 @@ import {
   ROOT,
   refused,
   scratch,
-} from "./no-import-cycle.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

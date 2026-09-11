@@ -1,4 +1,4 @@
-import type { SyntaxRule } from "../syntax-rule.page-type.types.ts"
+import type { SyntaxRule } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.types.ts"
 
 export const noSwallowedRead = {
   id: "01a05236-31a6-737d-a92f-92fa9654f06a",

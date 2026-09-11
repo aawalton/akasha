@@ -1,6 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
-import { indexesAt } from "./no-index-path-spelled.code-check.decision.code.ts"
+import { indexesAt } from "akasha/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.decision.code.ts"
 import {
   AT,
   given,
@@ -12,7 +11,8 @@ import {
   reasonsIn,
   rooted,
   scratch,
-} from "./no-index-path-spelled.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.decision.test-fixtures.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 

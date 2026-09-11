@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
+import { PROBE_AT } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import { noSwallowedRead } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.code.ts"
+import type { Refusal } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import { PROBE_AT } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
-import type { Refusal } from "../syntax-rule.page-type.ts"
-import { noSwallowedRead } from "./no-swallowed-read.syntax-rule.code.ts"
 
 const WALKING = 'import type { Change } from "../pages-system/change/change.module.code.ts"\n'
 

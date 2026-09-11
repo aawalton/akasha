@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const noGlobalInAModule = {
   id: "01a061f4-5ea3-75e0-bcb9-903223ba2331",

@@ -1,4 +1,4 @@
-import type { SyntaxRule } from "../syntax-rule.page-type.types.ts"
+import type { SyntaxRule } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.types.ts"
 
 export const noBodyReadBesideAnIndex = {
   id: "01a06428-de96-7f88-b896-bf883f93871c",

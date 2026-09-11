@@ -1,19 +1,22 @@
 import { createRequire } from "node:module"
 import { dirname, join } from "node:path"
+import type {
+  Given,
+  Judging,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
+import {
+  overEachFile,
+  overEachText,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import ts from "typescript"
-import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
-import {
-  overEachFile,
-  overEachText,
-} from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import type { Given, Judging } from "./syntax-rules/syntax-rule.page-type.ts"
 
 const PACKAGE = "akasha/"
 

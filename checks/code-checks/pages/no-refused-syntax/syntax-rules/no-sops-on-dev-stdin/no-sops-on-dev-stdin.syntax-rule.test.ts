@@ -1,8 +1,14 @@
 import { expect, test } from "bun:test"
+import {
+  PROBE_AT,
+  parsed,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import {
+  noSopsOnDevStdin,
+  spelledIn,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-sops-on-dev-stdin/no-sops-on-dev-stdin.syntax-rule.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import ts from "typescript"
-import { PROBE_AT, parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noSopsOnDevStdin, spelledIn } from "./no-sops-on-dev-stdin.syntax-rule.code.ts"
 
 test("a file calling nothing is refused nothing", () => {
   expect(noSopsOnDevStdin(parsed("export const one = 1\n"))).toEqual([])

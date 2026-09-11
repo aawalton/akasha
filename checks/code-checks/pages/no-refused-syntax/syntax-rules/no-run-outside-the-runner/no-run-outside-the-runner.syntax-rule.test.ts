@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
+import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import { noRunOutsideTheRunner } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-run-outside-the-runner/no-run-outside-the-runner.syntax-rule.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { noRunOutsideTheRunner } from "./no-run-outside-the-runner.syntax-rule.code.ts"
 
 const TAKEN = 'import { execFileSync } from "node:child_process"\n'
 
