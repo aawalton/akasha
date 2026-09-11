@@ -1,4 +1,4 @@
-import type { LifeTheme } from "../life-theme.page-type.types.ts"
+import type { LifeTheme } from "akasha/alan/self/life-themes/life-theme.page-type.types.ts"
 
 export const franklinVirtuesSystem = {
   id: "019db533-f3a2-7a7e-a3d0-ad6efe2e218c",

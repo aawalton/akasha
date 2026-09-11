@@ -1,4 +1,4 @@
-import type { IdentityStatement } from "../identity-statement.page-type.types.ts"
+import type { IdentityStatement } from "akasha/alan/self/identity-statements/identity-statement.page-type.types.ts"
 
 export const myPsychologicalGenderIsAutistic = {
   id: "019ea810-b007-769d-9746-767193ca6049",
