@@ -1,12 +1,12 @@
 import type { Initiative } from "akasha/domains/initiatives/initiative.page-type.types.ts"
 
-export const aranyaRootFolderShape = {
+export const rynRootFolderShape = {
   id: "01a08257-6635-725b-b328-6665c66c0e46",
   pageTypeSlug: "initiative",
   type: "initiative",
-  slug: "aranya-root-folder-shape",
+  slug: "ryn-root-folder-shape",
   domain: "domain/akasha",
-  persona: "aranya",
+  persona: "ryn",
   parent: "initiative/akasha-folder-shape",
   intents: [
     {

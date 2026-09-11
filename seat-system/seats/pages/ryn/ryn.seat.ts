@@ -5,7 +5,7 @@ export const ryn = {
   type: "seat",
   slug: "ryn",
   persona: "ryn",
-  assignmentSlug: "domain/domain",
+  assignmentSlug: "initiative/ryn-root-folder-shape",
   role: "definer",
   person: "alan",
   startMode: "interactive",
