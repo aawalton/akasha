@@ -6,7 +6,6 @@ export const collectionsSecretsSupabaseUrl = {
   type: "secret",
   slug: "collections-secrets-supabase-url",
   placements: [
-    { resourceName: "collections-secrets", resourceKey: "SUPABASE_URL" },
     { resourceName: "alanwalton-secrets", resourceKey: "SUPABASE_URL" },
     { resourceName: "temper-secrets", resourceKey: "SUPABASE_URL" },
     { resourceName: "smilingjenny-secrets", resourceKey: "SUPABASE_URL" },

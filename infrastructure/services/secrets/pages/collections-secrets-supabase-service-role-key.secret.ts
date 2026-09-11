@@ -6,7 +6,6 @@ export const collectionsSecretsSupabaseServiceRoleKey = {
   type: "secret",
   slug: "collections-secrets-supabase-service-role-key",
   placements: [
-    { resourceName: "collections-secrets", resourceKey: "SUPABASE_SERVICE_ROLE_KEY" },
     { resourceName: "alanwalton-secrets", resourceKey: "SUPABASE_SERVICE_ROLE_KEY" },
     { resourceName: "temper-secrets", resourceKey: "SUPABASE_SERVICE_ROLE_KEY" },
     { resourceName: "smilingjenny-secrets", resourceKey: "SUPABASE_SERVICE_ROLE_KEY" },

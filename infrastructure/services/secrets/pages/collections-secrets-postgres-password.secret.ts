@@ -6,7 +6,6 @@ export const collectionsSecretsPostgresPassword = {
   type: "secret",
   slug: "collections-secrets-postgres-password",
   placements: [
-    { resourceName: "collections-secrets", resourceKey: "POSTGRES_PASSWORD" },
     { resourceName: "alanwalton-secrets", resourceKey: "POSTGRES_PASSWORD" },
     { resourceName: "temper-secrets", resourceKey: "POSTGRES_PASSWORD" },
   ],

@@ -5,8 +5,5 @@ export const collectionsSecretsPostgrestDbUrl = {
   pageTypeSlug: "secret",
   type: "secret",
   slug: "collections-secrets-postgrest-db-url",
-  placements: [
-    { resourceName: "collections-secrets", resourceKey: "POSTGREST_DB_URL" },
-    { resourceName: "alanwalton-secrets", resourceKey: "POSTGREST_DB_URL" },
-  ],
+  placements: [{ resourceName: "alanwalton-secrets", resourceKey: "POSTGREST_DB_URL" }],
 } as const satisfies Secret

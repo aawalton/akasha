@@ -5,8 +5,5 @@ export const collectionsSecretsTraktClientId = {
   pageTypeSlug: "secret",
   type: "secret",
   slug: "collections-secrets-trakt-client-id",
-  placements: [
-    { resourceName: "collections-secrets", resourceKey: "TRAKT_CLIENT_ID" },
-    { resourceName: "alanwalton-secrets", resourceKey: "TRAKT_CLIENT_ID" },
-  ],
+  placements: [{ resourceName: "alanwalton-secrets", resourceKey: "TRAKT_CLIENT_ID" }],
 } as const satisfies Secret

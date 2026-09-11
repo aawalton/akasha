@@ -6,7 +6,6 @@ export const collectionsSecretsNextPublicSupabaseAnonKey = {
   type: "secret",
   slug: "collections-secrets-next-public-supabase-anon-key",
   placements: [
-    { resourceName: "collections-secrets", resourceKey: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
     { resourceName: "alanwalton-secrets", resourceKey: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
     { resourceName: "temper-secrets", resourceKey: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
     { resourceName: "smilingjenny-secrets", resourceKey: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
