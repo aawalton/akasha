@@ -8,5 +8,4 @@ export const alanwaltonHealthSamplesDrain = {
   definition: "the four parts of the health-samples drain, sourced in order",
   shell: "sh",
   sourced: true,
-  scripting: {},
 } as const satisfies ShellScript
