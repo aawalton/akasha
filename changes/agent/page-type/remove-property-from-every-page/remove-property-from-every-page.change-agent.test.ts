@@ -71,9 +71,13 @@ const DECLARED: Carried = {
 
 const SLUG: Carried = { ...DECLARED, key: "slug", required: true }
 
+const HOLDS = { slug: "held", sectionOfSlug: "solar-power", partOfSlugs: ["alpha", "beta"] }
+
 function worldFor(bodies: Files, carried: readonly Carried[] | null, listed: string[]): World {
+  const values = new Map(listed.map((path) => [path, HOLDS]))
   const index = {
-    everyOfType: () => listed.map((path) => ({ path, id: path })),
+    kindsUnder: () => new Set(["book-section"]),
+    valuesByPath: () => values,
     propertiesIfNamed: () => carried,
   }
   return { ...worldOf(bodies), index: index as never, reaching: REACHES }
@@ -142,14 +146,27 @@ test("a page type the index does not name is refused", async () => {
   expect(said.refused).toBe("`book-section` names no page type")
 })
 
-test("a page type no page is of is refused rather than answered as no edit", async () => {
+test("a page type no page of which holds the key is refused rather than answered as no edit", async () => {
   const said = await removePropertyFromEveryPage(worldFor(BODIES, [DECLARED], []), {
     pageType: "book-section",
     key: "sectionOfSlug",
   })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("no page is a `book-section`")
+  expect(said.refused).toBe("no `book-section` carries `sectionOfSlug`")
+})
+
+test("a count handed in holds how many pages the key goes from", async () => {
+  const world = worldFor(BODIES, [DECLARED], EVERY)
+
+  const said = await removePropertyFromEveryPage(world, {
+    pageType: "book-section",
+    key: "sectionOfSlug",
+    most: 1,
+  })
+
+  expect(said.refused).toBeNull()
+  expect(pathsIn(said)).toEqual([ONE_AT])
 })
 
 test("one page refused refuses the whole change, and the refusal names that page", async () => {

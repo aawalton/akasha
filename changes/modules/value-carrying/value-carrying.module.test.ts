@@ -8,6 +8,8 @@ import {
   askedIn,
   carriedIn,
   carryingOver,
+  holdingIn,
+  keyAskedIn,
   mostIn,
   spelledAs,
 } from "./value-carrying.module.code.ts"
@@ -151,6 +153,42 @@ test("a page type with no property under the key written to is refused", () => {
 test("a page type with no property under the key read from is refused", () => {
   expect(carriedIn(typedIn([ONE_VALUE]), CARRYING)).toContain(
     "has no property under `partOfCollectionSlugs`"
+  )
+})
+
+const HOLDING = { pageType: "story-chapter-read", key: "partOfCollectionSlugs" }
+
+test("every page holding the key is answered by the path that page sits at", () => {
+  expect(holdingIn(typedIn(DECLARED), HOLDING)).toEqual([ONE_AT, TWO_AT])
+})
+
+test("a page holding no value under that key is passed over rather than refused", () => {
+  const values: Values = new Map([[ONE_AT, { slug: "one" }]])
+
+  expect(holdingIn(typedIn(DECLARED, values), HOLDING)).toEqual([])
+})
+
+test("a count handed in holds how many pages holding the key are answered", () => {
+  expect(holdingIn(typedIn(DECLARED), { ...HOLDING, most: 1 })).toEqual([ONE_AT])
+})
+
+test("a page type carrying no property under the key is refused", () => {
+  expect(holdingIn(typedIn([ONE_VALUE]), HOLDING)).toContain(
+    "carries no property under `partOfCollectionSlugs`"
+  )
+})
+
+test("the arguments handed in become what a run over one key is asked for", () => {
+  expect(keyAskedIn({ "page-type": "story-chapter-read", key: "a", most: "3" })).toEqual({
+    pageType: "story-chapter-read",
+    key: "a",
+    most: 3,
+  })
+})
+
+test("a run over one key handed no key is refused by the key naming that argument", () => {
+  expect(keyAskedIn({ "page-type": "story-chapter-read" })).toMatch(
+    /`key` names what this change is handed/
   )
 })
 

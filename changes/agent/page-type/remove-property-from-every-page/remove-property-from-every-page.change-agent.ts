@@ -14,7 +14,8 @@ export const removePropertyFromEveryPage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The pages written are the pages the index names of that page type.",
+      statement:
+        "The pages written are the pages of that page type and of every page type beneath it.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +23,16 @@ export const removePropertyFromEveryPage = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type no page is of is refused rather than answered as no edit.",
+      statement:
+        "A page type no page of which holds the key is refused rather than left as no edit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count handed in holds how many pages the key goes from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run handed no count takes the key from every page holding it.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +56,7 @@ export const removePropertyFromEveryPage = {
     },
     {
       invariantKind: "departure",
-      statement: "A page already stating no such key is answered as no edit rather than refused.",
+      statement: "A page holding no such key is passed over rather than reached at all.",
     },
     {
       invariantKind: "departure",

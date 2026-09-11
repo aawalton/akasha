@@ -5,7 +5,7 @@ export const valueCarrying = {
   pageTypeSlug: "module",
   type: "module",
   slug: "value-carrying",
-  definition: "carrying one key's value under a second key on the pages of one page type",
+  definition: "which pages of one page type hold a key, and carrying that value under a second key",
   code: "ts",
   test: "ts",
   invariants: [
@@ -26,6 +26,10 @@ export const valueCarrying = {
     {
       invariantKind: "departure",
       statement: "A page type with no property under either key is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run over one key answers where those pages sit rather than what each holds.",
     },
     {
       invariantKind: "departure",
