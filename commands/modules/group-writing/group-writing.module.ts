@@ -87,11 +87,19 @@ export const groupWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A group the change itself writes is said rather than passed over.",
+      statement: "A group whose code the change adds is said rather than run.",
     },
     {
       invariantKind: "departure",
-      statement: "A group runs off the checkout rather than off the change.",
+      statement: "A group runs off the body the change leaves rather than off the checkout.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body the change leaves is forgotten once the code is loaded from that body.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A module a group's code imports is loaded as the checkout has that module.",
     },
   ],
 } as const satisfies Module
