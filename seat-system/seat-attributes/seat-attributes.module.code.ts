@@ -34,13 +34,17 @@ export interface ModeRecord {
 
 const START_MODE_KEY = "start-mode"
 
+export function bareSlug(value: string | null): string | null {
+  return value === null ? null : (slugIn(value) ?? value)
+}
+
 function onThePage(agent: string): Attributes {
   const values = pageValuesOf(agent)
   if (values === null) return {}
   const out: { -readonly [K in AttributeKey]?: Attribute } = {}
   for (const key of ATTRIBUTES) {
     const slug = values[`${key}-slug`]
-    if (typeof slug === "string" && slug !== "") out[key] = { slug: slugIn(slug) ?? slug }
+    if (typeof slug === "string" && slug !== "") out[key] = { slug: bareSlug(slug) ?? slug }
   }
   return out
 }

@@ -19,6 +19,14 @@ export const seatAttributes = {
     },
     {
       invariantKind: "departure",
+      statement: "A slug written as an address is read as the bare slug that address names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value naming a page by id is answered as it was written.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An agent's own attributes are empty where no seat is named for that agent.",
     },
     {

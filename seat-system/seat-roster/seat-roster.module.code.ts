@@ -1,4 +1,3 @@
-import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -7,6 +6,7 @@ import {
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 import { akashaSeatsInHistory } from "../seat-akasha-history/seat-akasha-history.module.code.ts"
 import { akashaSeatsStated } from "../seat-akasha-read/seat-akasha-read.module.code.ts"
+import { bareSlug } from "../seat-attributes/seat-attributes.module.code.ts"
 import { agentPresence } from "../seat-presence-read/seat-presence-read.module.code.ts"
 import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
 import { sessionOf } from "../seat-session/seat-session.module.code.ts"
@@ -27,10 +27,6 @@ export interface Seated {
   readonly role: string | null
   readonly activeAtMs: number
   readonly session: string | null
-}
-
-function bareSlug(value: string | null): string | null {
-  return value === null ? null : (slugIn(value) ?? value)
 }
 
 function seatedFrom(

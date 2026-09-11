@@ -1,7 +1,10 @@
-import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
-import { attributesOf, recordedModeOf } from "../seat-attributes/seat-attributes.module.code.ts"
+import {
+  attributesOf,
+  bareSlug,
+  recordedModeOf,
+} from "../seat-attributes/seat-attributes.module.code.ts"
 import {
   frontmatterFromHistory,
   nameFromHistory,
@@ -22,10 +25,6 @@ export interface SeatWhoami {
   readonly mode: string | null
   readonly principal: string | null
   readonly parentAgentId: string | null
-}
-
-function bareSlug(value: string | null): string | null {
-  return value === null ? null : (slugIn(value) ?? value)
 }
 
 function parentFromFrontmatter(frontmatter: Record<string, unknown> | null): string | null {
