@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type EventAliases = List<string>
 
 export const eventAliases = {
   id: "01a0658b-9f41-7a18-8fa2-3605f3a3bf72",
@@ -12,4 +9,5 @@ export const eventAliases = {
   definition: "the other names the story calls it by",
   maxLength: 50,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type EvolvesFromSlugs = List<string>
 
 export const evolvesFromSlugs = {
   id: "01a0655d-ac15-7900-8205-60508a002f32",
@@ -22,4 +19,5 @@ export const evolvesFromSlugs = {
       statement: "An evolution names a mechanic of the kind the mechanic evolving is.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

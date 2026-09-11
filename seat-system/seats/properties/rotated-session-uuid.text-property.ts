@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type RotatedSessionUuid = string
-
 export const rotatedSessionUuid = {
   id: "01a05430-9fa2-7a87-8969-26908fd82401",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const rotatedSessionUuid = {
       statement: "This property goes once taken.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

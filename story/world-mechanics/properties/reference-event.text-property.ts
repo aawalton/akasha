@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ReferenceEvent = string
-
 export const referenceEvent = {
   id: "01a06558-a991-7b74-a9b8-26a430ce7964",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const referenceEvent = {
   definition: "what happened to the mechanic where the text named it",
   maxLength: 36,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

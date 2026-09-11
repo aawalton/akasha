@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ReadingSlug = string
-
 export const readingSlug = {
   id: "01a063ce-6216-7003-82e9-30fd6cf9ebfc",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const readingSlug = {
       statement: "A reading slug has the letters its own text uses rather than Latin alone.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

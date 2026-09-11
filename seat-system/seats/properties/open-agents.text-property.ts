@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type OpenAgents = List<string>
 
 export const openAgents = {
   id: "01a06e54-0ed0-7742-a4ff-9477de411c0c",
@@ -22,4 +19,5 @@ export const openAgents = {
       statement: "A subagent awaited within the turn that started that subagent is not listed.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

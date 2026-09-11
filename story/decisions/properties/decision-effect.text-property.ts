@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type DecisionEffect = string
-
 export const decisionEffect = {
   id: "01a06577-f385-78a2-87c3-1adf32145189",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const decisionEffect = {
   definition: "what a decision changed",
   maxLength: 6000,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

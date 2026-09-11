@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type WantedBy = string
-
 export const wantedBy = {
   id: "01a06738-9f12-7cad-a582-cea97ec44e5e",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const wantedBy = {
   definition: "the target a unit is pulled in by",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

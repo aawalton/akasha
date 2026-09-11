@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type StoryReaderFraming = string
-
 export const storyReaderFraming = {
   id: "01a06577-f385-7808-a302-f8a5c3082c45",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const storyReaderFraming = {
   definition: "what the reader is taken to be while reading",
   maxLength: 1000,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ReExecAsk = string
-
 export const reExecAsk = {
   id: "01a05810-00ac-7843-9198-1c1fed82fd40",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const reExecAsk = {
       statement: "The standings an ask can be in are no pages.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type AnchorReference = string
-
 export const anchorReference = {
   id: "01a0685e-ef8a-76f9-a66e-01a05c60c791",
   pageTypeSlug: "text-property",
@@ -22,4 +20,5 @@ export const anchorReference = {
       statement: "A reference to a named event has that event's slug after `named-event:`.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type WritingPhilosophy = string
-
 export const writingPhilosophy = {
   id: "01a06577-f385-70a0-ae6c-ca7b892cbd3b",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const writingPhilosophy = {
   definition: "the rules the writing of a story has itself to",
   maxLength: 2000,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

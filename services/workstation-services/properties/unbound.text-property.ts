@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type Unbound = List<string>
 
 export const unbound = {
   id: "01a08ca8-6bf9-7831-8200-c579ad49fb3c",
@@ -35,4 +32,5 @@ export const unbound = {
       statement: "A host name here is no better than the last start of that service.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

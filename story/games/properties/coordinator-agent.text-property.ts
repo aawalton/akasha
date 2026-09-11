@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type CoordinatorAgent = string
-
 export const coordinatorAgent = {
   id: "01a0673c-8e0e-7001-a960-de2ffa854884",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const coordinatorAgent = {
   definition: "the agent running the game master's side",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type SeatConditionsModel = string
-
 export const seatConditionsModel = {
   id: "01a0687a-3d99-79f8-990a-c6349cc5ffba",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const seatConditionsModel = {
       statement: "A subagent naming no model of its own answers on this model too.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

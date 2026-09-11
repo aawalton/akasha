@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type After = string
-
 export const after = {
   id: "01a06738-9f12-7d3a-bae3-9a7bbcd5ba19",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const after = {
       statement: "A unit named here orders the start without being required to be there.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

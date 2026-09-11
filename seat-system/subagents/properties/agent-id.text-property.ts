@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type AgentId = string
-
 export const agentId = {
   id: "01a062c8-99b7-7bd3-91ac-676da441cf14",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const agentId = {
       statement: "Two hyphens part the seat's id from the id the subagent runs under.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

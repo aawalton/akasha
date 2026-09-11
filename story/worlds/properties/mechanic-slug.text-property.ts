@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type MechanicSlug = string
-
 export const mechanicSlug = {
   id: "01a063ce-6216-7007-b529-a31661f9223d",
   pageTypeSlug: "text-property",
@@ -21,4 +19,5 @@ export const mechanicSlug = {
       statement: "This property is a relation to a mechanic.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

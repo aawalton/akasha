@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type NoticeWarrant = string
-
 export const noticeWarrant = {
   id: "01a0686b-cea8-7a45-9b23-fd9c6d3a0417",
   pageTypeSlug: "text-property",
@@ -22,4 +20,5 @@ export const noticeWarrant = {
       statement: "The cost of editing a notice's words sits on the notice.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

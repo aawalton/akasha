@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type Hostnames = List<string>
 
 export const hostnames = {
   id: "01a05b26-f8b6-7019-9588-3230dc4b1044",
@@ -22,4 +19,5 @@ export const hostnames = {
       statement: "A web app states every name reaching the workload the web app runs as.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

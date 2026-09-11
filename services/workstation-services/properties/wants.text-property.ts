@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Wants = string
-
 export const wants = {
   id: "01a06738-9f12-7c0b-8ea5-4b76050ff060",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const wants = {
       statement: "The unit named failing to start leaves this service starting all the same.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

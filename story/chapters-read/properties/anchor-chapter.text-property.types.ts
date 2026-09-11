@@ -1,0 +1,1 @@
+export type AnchorChapter = string

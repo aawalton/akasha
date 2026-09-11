@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ResourceKey = string
-
 export const resourceKey = {
   id: "01a0684a-7d55-7001-9b0e-a4b8c7d61f20",
   pageTypeSlug: "text-property",
@@ -18,4 +16,5 @@ export const resourceKey = {
         "The key is spelled as the resource spells that key rather than as a slug is spelled.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

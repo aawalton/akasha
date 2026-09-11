@@ -1,0 +1,1 @@
+export type ReaderFraming = string

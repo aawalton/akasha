@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type AnchorLexeme = string
-
 export const anchorLexeme = {
   id: "01a0685e-ef8a-7012-99bf-937f4b87f963",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const anchorLexeme = {
       statement: "A lexeme is the chapter's own words rather than a reading of those words.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

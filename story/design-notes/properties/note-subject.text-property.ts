@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type NoteSubject = string
-
 export const noteSubject = {
   id: "01a06578-d638-7105-8018-11248f114637",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const noteSubject = {
   definition: "what one working document is about",
   maxLength: 200,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

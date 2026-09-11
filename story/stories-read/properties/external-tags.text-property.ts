@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type ExternalTags = List<string>
 
 export const externalTags = {
   id: "01a06554-d8bd-7dd9-bc8b-f7015c1af16c",
@@ -22,4 +19,5 @@ export const externalTags = {
       statement: "A tag is written as the source writes the tag rather than as a slug is written.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type Runs = List<string>
 
 export const runs = {
   id: "01a05a3f-b42b-7564-ba54-a63a51342f27",
@@ -27,4 +24,5 @@ export const runs = {
         "A command naming a TypeScript file runs under the wrapper that restarts that command.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

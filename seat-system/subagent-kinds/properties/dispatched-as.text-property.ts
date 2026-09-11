@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type DispatchedAs = string
-
 export const dispatchedAs = {
   id: "01a05978-f2e3-737b-8b65-7a65013f5626",
   pageTypeSlug: "text-property",
@@ -25,4 +23,5 @@ export const dispatchedAs = {
       statement: "This property is a relation to an agent kind.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

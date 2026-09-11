@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type MemoryDistribution = string
-
 export const memoryDistribution = {
   id: "01a06577-f385-7196-a6c2-6db780d204d9",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const memoryDistribution = {
   definition: "how what a story remembers is spread across it",
   maxLength: 1000,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type EffortLevel = string
-
 export const effortLevel = {
   id: "01a06861-f664-75ef-9d6e-47a09eef368b",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const effortLevel = {
   definition: "how much reasoning a seat spends before it answers",
   maxLength: 20,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

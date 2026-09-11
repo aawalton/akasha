@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type AnchorChapter = string
-
 export const anchorChapter = {
   id: "01a0685e-ef8a-758d-9ac0-c030fc9435a3",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const anchorChapter = {
   definition: "the chapter the dating words are in",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

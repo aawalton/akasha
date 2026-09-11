@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Stops = string
-
 export const stops = {
   id: "01a06738-9f12-776d-8c5e-1f8340434ace",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const stops = {
       statement: "The commands run in the order the commands are written in.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

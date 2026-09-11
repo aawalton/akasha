@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ChapterSlug = string
-
 export const chapterSlug = {
   id: "01a06558-a991-7c59-a2e9-a75df34fb675",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const chapterSlug = {
   definition: "the chapter of a story a naming is in",
   maxLength: 100,
   nameFormat: null,
+  types: "ts",
 } as const satisfies TextProperty

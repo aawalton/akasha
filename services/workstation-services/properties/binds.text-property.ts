@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type Binds = List<string>
 
 export const binds = {
   id: "01a05ae5-d9a7-703f-8841-aee7eb78244d",
@@ -31,4 +28,5 @@ export const binds = {
         "An address handed out by something that may hand out another address is written here as its name.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

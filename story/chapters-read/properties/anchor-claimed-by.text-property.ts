@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type AnchorClaimedBy = string
-
 export const anchorClaimedBy = {
   id: "01a0685e-ef8a-79db-8377-e5f878c0cb0c",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const anchorClaimedBy = {
       statement: "An anchor the story itself tells names nobody here.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

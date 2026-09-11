@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type PartOf = string
-
 export const partOf = {
   id: "01a06738-9f12-752f-bea5-7ff5466aeba0",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const partOf = {
       statement: "A unit stops when the unit named here stops.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

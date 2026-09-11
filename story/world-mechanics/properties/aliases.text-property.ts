@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type Aliases = List<string>
 
 export const aliases = {
   id: "01a06558-a991-7721-9c7a-fb59e452d286",
@@ -19,4 +16,5 @@ export const aliases = {
         "An alias is written as the text writes the alias rather than as a slug is written.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

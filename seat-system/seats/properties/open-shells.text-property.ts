@@ -1,7 +1,4 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type OpenShells = List<string>
 
 export const openShells = {
   id: "01a06e54-0ecf-7959-818d-d60026e07e65",
@@ -22,4 +19,5 @@ export const openShells = {
       statement: "A command is listed until the notification naming that command is read.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

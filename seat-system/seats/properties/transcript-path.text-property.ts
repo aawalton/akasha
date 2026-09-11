@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type TranscriptPath = string
-
 export const transcriptPath = {
   id: "01a053f0-366d-7612-bbb6-6be4383f12b7",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const transcriptPath = {
       statement: "A transcript sits on the machine its seat sits on.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

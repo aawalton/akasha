@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type StartMode = string
-
 export const startMode = {
   id: "01a05395-58a5-760f-a464-178f4d4ebb97",
   pageTypeSlug: "text-property",
@@ -26,4 +24,5 @@ export const startMode = {
         "An agent states the mode the agent works in rather than how the agent was started.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

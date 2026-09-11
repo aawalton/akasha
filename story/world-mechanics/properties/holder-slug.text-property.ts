@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type HolderSlug = string
-
 export const holderSlug = {
   id: "01a06558-a991-7e56-be1b-8a214695c31a",
   pageTypeSlug: "text-property",
@@ -11,4 +9,5 @@ export const holderSlug = {
   definition: "the character a naming gives the mechanic to",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
 } as const satisfies TextProperty

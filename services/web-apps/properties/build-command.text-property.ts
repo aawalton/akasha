@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type BuildCommand = string
-
 export const buildCommand = {
   id: "01a05b26-f8b6-7600-9b5a-4fed2b228f2b",
   pageTypeSlug: "text-property",
@@ -22,4 +20,5 @@ export const buildCommand = {
         "The command is stated on the page rather than written into the code that runs the command.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty

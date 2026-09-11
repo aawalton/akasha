@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type ProxyVersion = string
-
 export const proxyVersion = {
   id: "01a0540c-dbc1-7fb4-9fa4-54d2c5594de8",
   pageTypeSlug: "text-property",
@@ -17,4 +15,5 @@ export const proxyVersion = {
       statement: "A build is named by the digest of the source the build was built from.",
     },
   ],
+  types: "ts",
 } as const satisfies TextProperty
