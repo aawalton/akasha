@@ -43,11 +43,11 @@ import {
   CHARACTER_WEAPON_ENCHANT_BITS,
   CHARACTER_WEAPON_TRAIT_BITS,
   CHARACTER_WEAPON_TYPE_BITS,
-} from "../character-capture-codec-constants/character-capture-codec-constants.module.code.ts"
+} from "akasha/temper/characters-capture-addon/character-capture-codec-constants/character-capture-codec-constants.module.code.ts"
 import type {
   CharacterBuildData,
   CharacterWeaponSlotData,
-} from "../character-capture-codec-types/character-capture-codec-types.module.code.ts"
+} from "akasha/temper/characters-capture-addon/character-capture-codec-types/character-capture-codec-types.module.code.ts"
 
 export function encodeCharacterBuild(build: CharacterBuildData): string {
   const writer = makeBitWriter()
