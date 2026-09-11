@@ -29,6 +29,13 @@ export const agentHook = {
   properties: [
     { pageProperty: "select-property/runs-at", required: true, many: true, maxCount: null },
     { pageProperty: "text-property/over-tools", required: false, many: true, maxCount: null },
+    {
+      pageProperty: "file-property/entries",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
+    },
   ],
   invariants: [
     {
@@ -88,6 +95,10 @@ export const agentHook = {
     {
       invariantKind: "departure",
       statement: "A move that takes a hook's code file rewrites the live settings documents too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A hook carries what each run of that hook cost.",
     },
     {
       invariantKind: "gap",
