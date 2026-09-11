@@ -111,10 +111,6 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "gap",
-      statement: "A parameter typed `void` is not seen.",
-    },
-    {
-      invariantKind: "gap",
       statement: "A body filling a slot spelled `void` and dropping a promise is not seen.",
     },
   ],
