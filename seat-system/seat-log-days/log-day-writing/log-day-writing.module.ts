@@ -50,7 +50,8 @@ export const logDayWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A body written here reaches its page type from the folder that body sits in.",
+      statement:
+        "A body written here names its page type from the root rather than by a relative path.",
     },
     {
       invariantKind: "departure",

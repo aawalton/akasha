@@ -74,7 +74,7 @@ function dayPathIn(root: string, slug: string): string {
 
 export function sourceBodyOf(root: string, source: string): string {
   return [
-    'import type { LogSource } from "../log-source.page-type.types.ts"',
+    'import type { LogSource } from "akasha/seat-system/log-sources/log-source.page-type.types.ts"',
     "",
     `export const ${exportedAs(source)} = {`,
     `  pageTypeSlug: ${said(typeSlugOf(root, LOG_SOURCE_TYPE))},`,
@@ -93,7 +93,7 @@ export function dayBodyOf(
   date: string
 ): string {
   return [
-    'import type { SeatLogDay } from "../../seat-log-day.page-type.types.ts"',
+    'import type { SeatLogDay } from "akasha/seat-system/seat-log-days/seat-log-day.page-type.types.ts"',
     "",
     `export const ${exportedAs(slug)} = {`,
     `  pageTypeSlug: ${said(typeSlugOf(root, SEAT_LOG_DAY_TYPE))},`,
