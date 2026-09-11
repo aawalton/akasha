@@ -9,6 +9,7 @@ export const indexRefresh = {
   code: "ts",
   test: "ts",
   changeKind: "change-none",
+  timeout: 600,
   taking: [{ said: "--dry-run", takes: "say what the repair would change and write nothing" }],
   helpNotes: ["a refresh makes no commit, so it takes no message and runs no check."],
   invariants: [
