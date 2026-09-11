@@ -9,6 +9,7 @@ export const routerApp = {
   pluralSlug: "router-apps",
   parts: [
     "code-file-property/addon-bundle-image",
+    "module/auth-footer",
     "file-property/compile-config",
     "file-property/placeholder-image",
     "module/health-answer",
