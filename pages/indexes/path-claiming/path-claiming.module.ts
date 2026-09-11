@@ -33,6 +33,10 @@ export const pathClaiming = {
     },
     {
       invariantKind: "departure",
+      statement: "A page claims that uncommitted file only where that file is there.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A page whose type gives a file property a default claims that property's file beside the page.",
     },

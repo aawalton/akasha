@@ -27,7 +27,15 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
-      statement: "No page claims the uncommitted file.",
+      statement: "Which page this file belongs to is read from this file's name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page beside this file claims this file where this file is there.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A file written here is filed in the path index at the next settle over its page.",
     },
     {
       invariantKind: "departure",

@@ -81,6 +81,10 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
+      statement: "A page's uncommitted file is filed here only where that file is there.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Whether a numbered file is there is read from the change laid over the disk.",
     },
     {

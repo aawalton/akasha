@@ -129,7 +129,7 @@ const PART2 = "deep/a.held-type.lines.part2.uncommitted.jsonl"
 const PART3 = "deep/a.held-type.lines.part3.uncommitted.jsonl"
 
 test("a file property a page type declares uncommitted is claimed under its uncommitted name", () => {
-  expect(claimingBeside(LINES, LINED)).toEqual([HELD_PAGE, VALUES, FIRST])
+  expect(claimingBeside(LINES, LINED)).toEqual([HELD_PAGE, FIRST])
 })
 
 test("a file property a page type declares without that word is claimed under its plain name", () => {
@@ -146,7 +146,6 @@ test("the numbered files of an uncommitted property are claimed while they are t
 
   expect(claimingBeside(LINES, LINED, (at) => there.has(at))).toEqual([
     HELD_PAGE,
-    VALUES,
     FIRST,
     PART2,
     PART3,
@@ -154,7 +153,7 @@ test("the numbered files of an uncommitted property are claimed while they are t
 })
 
 test("naming an uncommitted property's files stops at the first that is not there", () => {
-  expect(claimingBeside(LINES, LINED, (at) => at === PART3)).toEqual([HELD_PAGE, VALUES, FIRST])
+  expect(claimingBeside(LINES, LINED, (at) => at === PART3)).toEqual([HELD_PAGE, FIRST])
 })
 
 const SOPS = "deep/a.held-type.sops.yaml"
@@ -170,11 +169,14 @@ test("that same page claims the sops file beside it as soon as that file is ther
   ])
 })
 
-test("a page whose type declares an uncommitted value claims the values file beside the page", () => {
-  expect(claimingBeside({ uncommitted: true }, filedAs("held-type", {}))).toEqual([
-    HELD_PAGE,
-    VALUES,
-  ])
+test("a page whose type declares an uncommitted value claims no values file that is not there", () => {
+  expect(claimingBeside({ uncommitted: true }, filedAs("held-type", {}))).toEqual([HELD_PAGE])
+})
+
+test("that same page claims the values file beside it as soon as that file is there", () => {
+  expect(
+    claimingBeside({ uncommitted: true }, filedAs("held-type", {}), (at) => at === VALUES)
+  ).toEqual([HELD_PAGE, VALUES])
 })
 
 const NOTED = { id: A, pageTypeSlug: "held-type", slug: "a", notes: "jsonl" }

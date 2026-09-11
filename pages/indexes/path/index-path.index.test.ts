@@ -35,6 +35,10 @@ const SOPS = "a.domain.sops.yaml"
 
 const SOPS_THERE: IsThere = (at) => at === SOPS
 
+const BESIDE = "a.domain.uncommitted.ts"
+
+const BESIDE_THERE: IsThere = (at) => at === BESIDE
+
 test("a page whose type declares a secret files no sops file while that file is not there", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
   const line = `{"path":"a.domain.ts","id":"${A}"}`
@@ -56,11 +60,22 @@ test("that same page files the sops file beside it as soon as that file is there
   ])
 })
 
-test("a page whose type declares an uncommitted value claims the file beside it", () => {
+test("a page whose type declares an uncommitted value files no file beside it that is not there", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
   const line = `{"path":"a.domain.ts","id":"${A}"}`
 
   expect(pathIn(value, "/repo/a.domain.ts", "/repo", NO_FILES, UNCOMMITTED)).toEqual([
+    { at: "path/a.domain.ts.jsonl", line },
+  ])
+})
+
+test("that same page files the file beside it as soon as that file is there", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+  const line = `{"path":"a.domain.ts","id":"${A}"}`
+
+  expect(
+    pathIn(value, "/repo/a.domain.ts", "/repo", NO_FILES, UNCOMMITTED, undefined, BESIDE_THERE)
+  ).toEqual([
     { at: "path/a.domain.ts.jsonl", line },
     { at: "path/a.domain.uncommitted.ts.jsonl", line },
   ])
@@ -83,7 +98,6 @@ test("a page whose type declares a file property with a default claims that file
 
   expect(pathIn(value, "/repo/a.domain.ts", "/repo", filed, drafting)).toEqual([
     { at: "path/a.domain.ts.jsonl", line },
-    { at: "path/a.domain.uncommitted.ts.jsonl", line },
     { at: "path/a.domain.patch.diff.jsonl", line },
   ])
 })
@@ -123,7 +137,9 @@ test("an uncommitted value held in no file claims no file beside the page", () =
     ],
   ])
 
-  expect(pathIn(value, "/repo/a.domain.ts", "/repo", NO_FILES, held)).toEqual([
+  expect(
+    pathIn(value, "/repo/a.domain.ts", "/repo", NO_FILES, held, undefined, BESIDE_THERE)
+  ).toEqual([
     { at: "path/a.domain.ts.jsonl", line },
     { at: "path/a.domain.uncommitted.ts.jsonl", line },
   ])

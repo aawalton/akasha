@@ -283,7 +283,7 @@ export function claimsOf(
   }
   if (held.uncommitted) {
     const beside = uncommittedAt(own)
-    if (beside !== null) found.push(beside)
+    if (beside !== null && there(beside)) found.push(beside)
   }
   for (const [slug, beside] of held.besides) {
     if (carried?.get(slug) !== null) continue
