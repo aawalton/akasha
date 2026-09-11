@@ -107,6 +107,48 @@ test("a rebuild from the pages agrees with the index a turned relation name left
   expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))
 })
 
+const ROW_SHAPES = aType("13", "page-property-entry", ["page-property"])
+
+const CASE_PAGE = aProperty("6", "case-page", "relation-property", { targetPageType: "domain" })
+
+const CASES: Named = [
+  "cases.page-property-entry.ts",
+  {
+    id: "7",
+    pageTypeSlug: "page-property-entry",
+    slug: "cases",
+    propertySlug: "cases",
+    properties: [{ pagePropertySlug: "case-page", required: true, many: false }],
+  },
+]
+
+const CASED = aType("8", "cased", ["domain"], ["cases"])
+
+const ROW_PAGE: Named = [
+  "one.cased.ts",
+  { id: SOURCE_ID, pageTypeSlug: "cased", slug: "one", cases: "jsonl" },
+]
+
+const ROW_LINE = `${JSON.stringify({ id: idOf("c"), casePage: "domain/b" })}\n`
+
+test("a relation an entry row states files an edge from the row's page", () => {
+  const tree = heldAt()
+  const root = heldAt()
+  const indexing = indexingAt(root, tree)
+  wrote(indexing, tree, [...IDENTIFIERS, ROW_SHAPES, CASE_PAGE, CASES, CASED, TARGET_PAGE])
+  indexing.wrote(put(tree, "one.cased.cases.jsonl", ROW_LINE), ROW_LINE, null)
+  const body = bodyOf(ROW_PAGE[1])
+  indexing.wrote(put(tree, ROW_PAGE[0], body), body, null)
+
+  expect(indexing.settle()).toEqual([])
+  expect(existsSync(edgeAt(root, "case-page"))).toBe(true)
+
+  const rebuilt = heldAt()
+  rebuiltFrom(tree, rebuilt, tree)
+
+  expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))
+})
+
 test("a refusal the world already had is answered apart from the refusal a change leaves", () => {
   const root = indexedRepo({ [NOTE_AT]: notePointing("page-property") })
   const textOf = textIn(root)
