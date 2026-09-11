@@ -9,11 +9,6 @@ export const theaChecksSystem = {
   persona: "thea",
   intents: [
     {
-      statement: "Every check spends less processor time than the ceiling its page states.",
-      workingMemory:
-        "file-length spends 25s at audit against the 15 its page allows, measured three times running and 1s this morning, so it refuses itself. The spend is a scan of every naming for every one of 124,961 paths inside exemptIn, which no-raw-nul-bytes and file-has-its-page share. 45 of the 53 other check pages carry an identical 10 and 15, copied rather than measured, so no ceiling here is evidence of what its check ought to cost. Each one over is reviewed rather than raised.",
-    },
-    {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
       workingMemory:
         "All 16 sites surveyed; every page now names what it hashes. 11 derive from a secret across 10 workloads; every value agrees with the live Secret, the generated yaml and the running pod. 5 hash config through a pure function of its argument, emitted from one value in one synth, so they cannot disagree. 3 mount a second Secret unhashed; 17 annotate none. The committed yaml pictures a thing that moves: authority is the reading at synth, and a diff against a fresh synth is the design working.",
