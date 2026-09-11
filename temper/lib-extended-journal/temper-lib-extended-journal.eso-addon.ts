@@ -57,5 +57,4 @@ export const temperLibExtendedJournal = {
       statement: "This library depends on no other add-on.",
     },
   ],
-  deployedCommit: "de594ff41df9ce94790cbdd1b755d953ae99d89c",
 } as const satisfies EsoAddon

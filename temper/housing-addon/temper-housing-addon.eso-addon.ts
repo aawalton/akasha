@@ -91,5 +91,4 @@ export const temperHousingAddon = {
       statement: "The upstream arm asking a player to donate to the author was left behind.",
     },
   ],
-  deployedCommit: "76fe60335b333430e677ba2771bb617a88e0e5e7",
 } as const satisfies EsoAddon

@@ -49,5 +49,4 @@ export const temperCollectionsAddon = {
       statement: "Nothing here reads the data a tracker keeps.",
     },
   ],
-  deployedCommit: "1aa85a466c55b66a1c8e4fd56e6276640639e67c",
 } as const satisfies EsoAddon

@@ -192,5 +192,4 @@ export const temperItemsAddon = {
       statement: "Nothing here reads a guild trader's listings.",
     },
   ],
-  deployedCommit: "d004f74d707097043c8726d0297a1aefae2f4ac9",
 } as const satisfies EsoAddon
