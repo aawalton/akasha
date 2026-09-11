@@ -1,7 +1,10 @@
 import { basename, dirname } from "node:path"
+import {
+  type Held,
+  pageOf,
+} from "akasha/infrastructure/container-image/recipe-page/recipe-page.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { fileOf, type Held } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
-import { listedAt, valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { slugsIn, textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
@@ -42,20 +45,6 @@ const CARRIER_AT = "carrier.json"
 export type Copied = {
   readonly from: string
   readonly to: string
-}
-
-function pageOf(given: string | Reading, pageTypeSlug: string, slug: string): Held {
-  const listed = listedAt(given, pageTypeSlug, slug)[0]
-  if (listed === undefined) {
-    throw new Error(
-      `no \`${pageTypeSlug}\` page carries the slug \`${slug}\`, so this recipe copies nothing`
-    )
-  }
-  const value = valuesByPath(given, pageTypeSlug).get(listed.path)
-  if (value === undefined) {
-    throw new Error(`\`${listed.path}\` is filed under \`${pageTypeSlug}\` and carries no value`)
-  }
-  return { path: listed.path, value }
 }
 
 function moduleCopiesIn(given: string | Reading, crate: Held): readonly Copied[] {
