@@ -10,15 +10,15 @@ export const BINDINGS_FILE_NAME = bindings.fileName
 
 export const LUA_MODULE_SUFFIX = ".lua-module.lua.lua"
 
-function bindingsFileIn(dir: string): string | null {
-  const beside = join(dir, BINDINGS_FILE_NAME)
+export function metadataFileIn(dir: string, named: string): string | null {
+  const beside = join(dir, named)
   if (existsSync(beside)) return beside
-  const game = join(dir, GAME_METADATA_DIR, BINDINGS_FILE_NAME)
+  const game = join(dir, GAME_METADATA_DIR, named)
   return existsSync(game) ? game : null
 }
 
 export async function addonBindingsPathIn(repoRoot: string, dir: string): Promise<string | null> {
-  const found = bindingsFileIn(dir)
+  const found = metadataFileIn(dir, BINDINGS_FILE_NAME)
   if (found !== null) return found
   const page = readEsoAddonPage(repoRoot, dir)
   if (page === null || page.bindings === null) return null
@@ -87,10 +87,8 @@ export function loadedDocumentPathsIn(repoRoot: string, dir: string): ReadonlyMa
 }
 
 export function namedFilePathOrNull(repoRoot: string, dir: string, one: string): string | null {
-  const beside = join(dir, one)
-  if (existsSync(beside)) return beside
-  const underGame = join(dir, GAME_METADATA_DIR, one)
-  if (existsSync(underGame)) return underGame
+  const found = metadataFileIn(dir, one)
+  if (found !== null) return found
   return loadedDocumentPathsIn(repoRoot, dir).get(one) ?? null
 }
 
@@ -104,14 +102,9 @@ export function namedFilePathsIn(
   let stated: ReadonlyMap<string, string> | null = null
   for (const one of named) {
     if (answer.has(one)) continue
-    const beside = join(dir, one)
-    if (existsSync(beside)) {
-      answer.set(one, beside)
-      continue
-    }
-    const underGame = join(dir, GAME_METADATA_DIR, one)
-    if (existsSync(underGame)) {
-      answer.set(one, underGame)
+    const found = metadataFileIn(dir, one)
+    if (found !== null) {
+      answer.set(one, found)
       continue
     }
     stated ??= loadedDocumentPathsIn(repoRoot, dir)

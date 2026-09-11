@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { numberAt, textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
@@ -7,6 +7,10 @@ import {
   compilerConfigPathFor,
   TSCONFIG_NAME,
 } from "akasha/temper/addon-build/addon-compiler-config/addon-compiler-config.module.code.ts"
+import {
+  addonBindingsPathIn,
+  metadataFileIn,
+} from "akasha/temper/addon-build/addon-metadata-files/addon-metadata-files.module.code.ts"
 import type { AddonManifest } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
@@ -20,8 +24,6 @@ export const DIST_UNDER = "dist"
 const CONFIGS_UNDER = "dist/.lua-compiler"
 
 export const CATALOG_ADDON_NAME = "TemperCatalog"
-
-const GAME_METADATA_DIR = "metadata"
 
 const AT_LEAST = ">="
 
@@ -129,11 +131,7 @@ export function manifestLines(asked: ManifestAsked): readonly string[] {
 }
 
 export function nameXmlThereIn(addonDir: string, addonName: string): boolean {
-  return existsSync(join(addonDir, GAME_METADATA_DIR, `${addonName}.xml`))
-}
-
-export function bindingsXmlThereIn(addonDir: string): boolean {
-  return existsSync(join(addonDir, GAME_METADATA_DIR, "Bindings.xml"))
+  return metadataFileIn(addonDir, `${addonName}.xml`) !== null
 }
 
 const CATALOG_PAGE_TYPE = "temper-catalog-domain"
@@ -263,7 +261,7 @@ export async function writeLoadOrder(
     luaPaths: [bundle.split("/").pop() ?? bundle],
     addonName: canonicalName,
     nameXmlThere: nameXmlThereIn(addonDir, canonicalName),
-    bindingsXmlThere: bindingsXmlThereIn(addonDir),
+    bindingsXmlThere: (await addonBindingsPathIn(root, addonDir)) !== null,
   })
   const body = `${lines.join("\n")}\n`
   const manifestPath = join(distDir, `${canonicalName}.txt`)

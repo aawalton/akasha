@@ -54,7 +54,15 @@ export const addonLoadOrder = {
     },
     {
       invariantKind: "departure",
-      statement: "Markup is listed only where the addon's metadata folder has that markup.",
+      statement: "Markup is listed only where the addon holds that markup.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Keybinds are listed wherever the addon's page carries a keybinds file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where a file the manifest lists sits is settled by one rule, held elsewhere.",
     },
   ],
 } as const satisfies Module
