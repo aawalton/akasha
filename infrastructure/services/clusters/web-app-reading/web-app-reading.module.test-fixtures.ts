@@ -9,7 +9,7 @@ import {
 const HOLD = "/var/tmp"
 const PREFIX = "akasha-web-app-"
 export const WEB_APPS_AT = "akasha/service-system/web-app/web-apps"
-const CLUSTER_SERVICES_AT = "akasha/service-system/service-cluster/clusters"
+const SERVICE_CLUSTERS_AT = "akasha/service-system/service-cluster/clusters"
 
 export const MANIFEST_AT = "one/web/one-web.manifest.ts"
 export const SYNTH_AT = "one/web/one-web.manifest.code.ts"
@@ -74,7 +74,7 @@ function webApp(slug: string, at: number, slugs: readonly string[], whole = true
     held.sourceDirectory = "one/web"
     held.buildCommand = "bun run build"
   }
-  held.clusterServices = slugs
+  held.serviceClusters = slugs
   held.hostnames = [`${slug}.example`]
   return held
 }
@@ -131,7 +131,7 @@ export function seededWorld(): World {
     filed(`${WEB_APPS_AT}/${slug}.web-app.ts`, "web-app", webApp(slug, at, slugs, whole))
   }
   const serviceFiled = (slug: string, at: number, name: string, appliedAs: string): undefined => {
-    const path = `${CLUSTER_SERVICES_AT}/${slug}.service-cluster.ts`
+    const path = `${SERVICE_CLUSTERS_AT}/${slug}.service-cluster.ts`
     filed(path, "service-cluster", clusterService(slug, at, name, appliedAs))
   }
   const manifestFiled = (path: string, slug: string, at: number): undefined => {

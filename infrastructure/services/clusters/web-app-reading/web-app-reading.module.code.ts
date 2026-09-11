@@ -14,7 +14,7 @@ export const CLUSTER_SERVICE_TYPE = "service-cluster"
 export const MANIFEST_TYPE = "manifest"
 const MANIFEST_SUFFIX = ".manifest.ts"
 const MANIFEST_CODE_SUFFIX = ".manifest.code.ts"
-const CLUSTER_SERVICES = "clusterServices"
+const SERVICE_CLUSTERS = "serviceClusters"
 const SOURCE_DIRECTORY = "sourceDirectory"
 const BUILD_COMMAND = "buildCommand"
 const HOSTNAMES = "hostnames"
@@ -48,7 +48,7 @@ export interface Deployable {
   readonly servicePath: string
   readonly manifestPath: string
   readonly synthPath: string
-  readonly clusterServiceSlug: string
+  readonly serviceClusterSlug: string
   readonly sourceDirectory: string
   readonly buildCommand: string
   readonly hostnames: readonly string[]
@@ -137,7 +137,7 @@ export function deployableNamed(root: string, slug: string): Read {
       refused: `${pagePath} states no ${wanting.join(" and no ")}, so a deploy of \`${slug}\` would rest on what no page says`,
     }
   }
-  const serviceSlugs = textsAt(stated, CLUSTER_SERVICES) ?? []
+  const serviceSlugs = textsAt(stated, SERVICE_CLUSTERS) ?? []
   if (serviceSlugs.length === 0) {
     return {
       refused: `${pagePath} names no cluster service, so nothing says what the cluster runs for \`${slug}\``,
@@ -148,8 +148,8 @@ export function deployableNamed(root: string, slug: string): Read {
       refused: `${pagePath} names ${serviceSlugs.length} cluster services, so which one is put up for \`${slug}\` is unsettled: ${serviceSlugs.join(", ")}`,
     }
   }
-  const clusterServiceSlug = serviceSlugs[0] as string
-  const found = serviceFor(root, clusterServiceSlug, pagePath)
+  const serviceClusterSlug = serviceSlugs[0] as string
+  const found = serviceFor(root, serviceClusterSlug, pagePath)
   if (typeof found !== "string") return found
   const service = statedAt(root, found)
   if (service === null) {
@@ -182,7 +182,7 @@ export function deployableNamed(root: string, slug: string): Read {
       servicePath: found,
       manifestPath,
       synthPath,
-      clusterServiceSlug,
+      serviceClusterSlug,
       sourceDirectory: textAt(stated, SOURCE_DIRECTORY) as string,
       buildCommand: textAt(stated, BUILD_COMMAND) as string,
       hostnames: textsAt(stated, HOSTNAMES) ?? [],

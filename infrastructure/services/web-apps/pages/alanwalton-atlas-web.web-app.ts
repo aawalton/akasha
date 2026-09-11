@@ -10,6 +10,6 @@ export const alanwaltonAtlasWeb = {
   buildCommand: "bun run build",
   basePort: 3600,
   secretResource: "alanwalton-secrets",
-  clusterServices: ["alanwalton-atlas"],
+  serviceClusters: ["alanwalton-atlas"],
   hostnames: ["atlas.alanwalton.com"],
 } as const satisfies WebApp

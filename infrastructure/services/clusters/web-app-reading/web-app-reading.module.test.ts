@@ -59,7 +59,7 @@ test("a web app that is named reads through to the workload the cluster runs", (
   const read = deployableNamed(WORLD.root, "one-web")
   expect("deployable" in read).toBe(true)
   if (!("deployable" in read)) return
-  expect(read.deployable.clusterServiceSlug).toBe("one-web")
+  expect(read.deployable.serviceClusterSlug).toBe("one-web")
   expect(read.deployable.workload).toEqual({ kind: "Deployment", name: "web", namespace: "one" })
   expect(read.deployable.manifestPath).toBe(MANIFEST_AT)
   expect(read.deployable.synthPath).toBe(SYNTH_AT)

@@ -15,7 +15,7 @@ export const webApp = {
     "module/dev-server-stating",
     "module/dev-server-worktree",
     "number-property/base-port",
-    "relation-property/cluster-services",
+    "relation-property/service-clusters",
     "text-property/build-command",
     "text-property/hostnames",
     "text-property/secret-resource",
@@ -31,7 +31,7 @@ export const webApp = {
     { pageProperty: "text-property/source-directory", required: true, many: false },
     { pageProperty: "text-property/build-command", required: true, many: false },
     {
-      pageProperty: "relation-property/cluster-services",
+      pageProperty: "relation-property/service-clusters",
       required: true,
       many: true,
       maxCount: 20,

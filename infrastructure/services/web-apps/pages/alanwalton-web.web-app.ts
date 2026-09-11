@@ -10,7 +10,7 @@ export const alanwaltonWeb = {
   buildCommand: "bun run build",
   basePort: 3000,
   secretResource: "alanwalton-secrets",
-  clusterServices: ["alanwalton-web"],
+  serviceClusters: ["alanwalton-web"],
   hostnames: [
     "alanwalton.com",
     "webhook.alanwalton.com",

@@ -1,11 +1,11 @@
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
 
-export const clusterServices = {
+export const serviceClusters = {
   id: "01a05b26-f8b6-7334-a5d4-d44ab19e071e",
   pageTypeSlug: "relation-property",
   type: "relation-property",
-  slug: "cluster-services",
-  propertySlug: "cluster-services",
+  slug: "service-clusters",
+  propertySlug: "service-clusters",
   definition: "the cluster services running a web app",
   targetPageType: "page-type/service-cluster",
   invariants: [

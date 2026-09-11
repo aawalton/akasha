@@ -37,7 +37,7 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean): 
 
   const report: string[] = [
     `web-app\t${deployable.slug}\t${deployable.pagePath}`,
-    `cluster-service\t${deployable.clusterServiceSlug}\t${deployable.servicePath}`,
+    `service-cluster\t${deployable.serviceClusterSlug}\t${deployable.servicePath}`,
     `workload\t${workload.kind} ${workload.namespace}/${workload.name}`,
     `code\t${deployable.synthPath}`,
   ]
