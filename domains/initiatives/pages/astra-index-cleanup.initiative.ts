@@ -23,7 +23,7 @@ export const astraIndexCleanup = {
     {
       statement: "`.git/data` is gone.",
       workingMemory:
-        "Holds `index`, `reads` and `sops`. `index` is a stale copy nothing writes or reads since 234f8ddeac03; taking it away waits on the pty proxies and gateways started before that, which read it and throw where it is absent. `reads/agent` is a dead layout of 487k files, replaced by `reads/path` in b88f7238d4d, and nothing writes or sweeps it.",
+        "`index` is gone. What is left is `reads` and `sops`, both live. Under `reads`, `agent` is a dead layout of 487k files at 1.9 GB, replaced by `path` in b88f7238d4d, written and swept by nothing; `remove-folder` spends past the 300 processor seconds it is allowed on a folder that size, and `agent/id` divides into 4689 folders rather than into bites.",
     },
     { statement: "`.git/harness-push` is gone." },
   ],
