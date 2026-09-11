@@ -1,3 +1,5 @@
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
+
 export type Reading<T> = T | { readonly refused: readonly string[] }
 
 export type Filled = {
@@ -20,10 +22,7 @@ export function wordFilling(
   wants: string
 ): Reading<string | undefined> {
   if (said.loose.length > 1) {
-    const extra = said.loose
-      .slice(1)
-      .map((one) => `\`${one}\``)
-      .join(", ")
+    const extra = namesDrawn(said.loose.slice(1))
     return { refused: [`this names ${wants} once, and ${extra} followed the one it named`] }
   }
   const word = said.loose[0]
