@@ -1,4 +1,5 @@
 import type { Page } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { spelt } from "akasha/temper/items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import { z } from "zod"
 
 const RULE_TEMPLATE_EAV_SCHEMA = z
@@ -77,14 +78,6 @@ function parseRuleTemplate(row: Page, keyOf: ReadonlyMap<string, string>): Parse
     out.conditions = conditions
   }
   return out
-}
-
-function spelt(value: string): unknown {
-  try {
-    return JSON.parse(value)
-  } catch {
-    return value
-  }
 }
 
 function conditionsOf(

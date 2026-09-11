@@ -45,7 +45,7 @@ function keyOf(slug: string): string {
   return (head ?? "") + rest.map((word) => word.slice(0, 1).toUpperCase() + word.slice(1)).join("")
 }
 
-function spelt(value: string): unknown {
+export function spelt(value: string): unknown {
   try {
     return JSON.parse(value)
   } catch {
