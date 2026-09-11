@@ -15,5 +15,10 @@ export const grafana = {
       invariantKind: "departure",
       statement: "The pod template carries the hash of the grafana-secrets secret.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The pod template carries the hash of the grafana-datasources and grafana-dashboards configmaps.",
+    },
   ],
 } as const satisfies Manifest
