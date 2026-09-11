@@ -10,7 +10,8 @@ export const namespace = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A namespace's parts are the commands and namespaces spelled under the namespace.",
+      statement:
+        "A namespace's parts are the commands, namespaces and modules spelled under the namespace.\n",
     },
     {
       invariantKind: "departure",
@@ -57,6 +58,10 @@ export const namespace = {
     {
       invariantKind: "absence",
       statement: "A namespace has no code of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A module more than one command of a namespace reaches sits under that namespace.",
     },
   ],
   types: "ts",
