@@ -8,6 +8,7 @@ export const carriedFile = {
   definition: "how a file that is not text is in akasha as text beside its page",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

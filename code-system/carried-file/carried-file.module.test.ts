@@ -5,6 +5,10 @@ import {
   carrierFor,
   digestOf,
 } from "akasha/code-system/carried-file/carried-file.module.code.ts"
+import {
+  CRATE_AT,
+  CRATE_CARRIER_AT,
+} from "akasha/code-system/carried-file/carried-file.module.test-fixtures.ts"
 
 const BYTES = new Uint8Array([0, 1, 2, 255, 0, 65, 66, 0])
 
@@ -51,8 +55,6 @@ describe("carriedIn", () => {
 
 describe("carrierAt", () => {
   test("names the beside file the page grammar builds", () => {
-    expect(carrierAt("akasha/temper/watcher-tray/watcher-tray.rust-crate.ts", "icon")).toBe(
-      "akasha/temper/watcher-tray/watcher-tray.rust-crate.icon.json"
-    )
+    expect(carrierAt(CRATE_AT, "icon")).toBe(CRATE_CARRIER_AT)
   })
 })
