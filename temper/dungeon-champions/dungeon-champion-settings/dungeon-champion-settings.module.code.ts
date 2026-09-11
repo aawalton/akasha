@@ -1,7 +1,7 @@
+import { unpackRgba } from "akasha/temper/addon-color/unpack-color/unpack-color.module.code.ts"
 import {
   newColorDef,
   setTextureColor,
-  unpackRgba,
 } from "akasha/temper/dungeon-champions/dungeon-champion-colors/dungeon-champion-colors.module.code.ts"
 import { DEFAULTS } from "akasha/temper/dungeon-champions/dungeon-champion-defaults/dungeon-champion-defaults.module.code.ts"
 import { getUiString } from "akasha/temper/dungeon-champions/dungeon-champion-labels/dungeon-champion-labels.module.code.ts"

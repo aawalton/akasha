@@ -85,12 +85,6 @@ export function unpackRgb(color: readonly number[]): LuaMultiReturn<[number, num
   return $multi(color[0] ?? 1, color[1] ?? 1, color[2] ?? 1)
 }
 
-export function unpackRgba(
-  color: readonly number[]
-): LuaMultiReturn<[number, number, number, number | undefined]> {
-  return $multi(color[0] ?? 1, color[1] ?? 1, color[2] ?? 1, color[3])
-}
-
 export function applyTint(control: TextureControl, tint: readonly number[]): undefined {
   control.SetColor(tint[0] ?? 1, tint[1] ?? 1, tint[2] ?? 1, tint[3])
 }

@@ -159,6 +159,7 @@ export const temper = {
     "domain/temper-player-economics-ui",
     "eso-addon/temper-keybinder-addon",
     "eso-addon/temper-catalog-addon",
+    "domain/temper-addon-color",
     "router-app/temper-web",
   ],
   invariants: [
