@@ -41,6 +41,7 @@ export const command = {
     "module/export-naming",
     "module/manifest-locking",
     "module/change-preparing",
+    "module/recipe-composing",
     "module/address-mapping",
     "module/judged-saying",
     "module/landing-saying",

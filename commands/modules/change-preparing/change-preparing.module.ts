@@ -75,6 +75,15 @@ export const changePreparing = {
     {
       invariantKind: "departure",
       statement:
+        "The composed recipes are worked out before the hold is taken alongside those six.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A container recipe's group composes that recipe on the one landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A page type's generator writes for every page of that page type on the one landing.",
     },
     {
@@ -83,7 +92,7 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
-      statement: "Every road that lands works those six out through one step here.",
+      statement: "Every road that lands works those seven out through one step here.",
     },
     {
       invariantKind: "departure",

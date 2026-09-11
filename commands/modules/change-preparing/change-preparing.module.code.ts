@@ -14,6 +14,7 @@ import type { Refused } from "../landing/landing.module.code.ts"
 import { changeOf } from "../landing/landing.module.code.ts"
 import { lockingFor } from "../manifest-locking/manifest-locking.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
+import { recipesFor } from "../recipe-composing/recipe-composing.module.code.ts"
 import { globbedFor } from "../source-globbing/source-globbing.module.code.ts"
 import { steppedFor } from "../spacing-stepping/spacing-stepping.module.code.ts"
 import { typesFor } from "../type-generating/type-generating.module.code.ts"
@@ -145,18 +146,27 @@ export function preparing(
   const stepped = steppedFor(change)
   const globbed = globbedFor(change)
   const typed = typesFor(change)
+  const composed = recipesFor(change)
   const added = [
     ...locking.edits,
     ...mapped.edits,
     ...stepped.edits,
     ...globbed.edits,
     ...typed.edits,
+    ...composed.edits,
   ]
   return {
     formatting,
     authored: rows,
     changes: [...rows, ...added],
-    said: [...locking.said, ...mapped.said, ...stepped.said, ...globbed.said, ...typed.said],
+    said: [
+      ...locking.said,
+      ...mapped.said,
+      ...stepped.said,
+      ...globbed.said,
+      ...typed.said,
+      ...composed.said,
+    ],
     over: added.length === 0 ? change : null,
   }
 }
