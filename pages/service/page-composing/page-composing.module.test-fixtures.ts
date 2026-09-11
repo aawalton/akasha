@@ -33,7 +33,9 @@ function under(folder: string, values: readonly Held[]): Readonly<Record<string,
 
 const HELD_THING_AT = "akasha/things/pages/held-thing.thing.ts"
 
-export const HELD_THING_BODY = `import type { Thing } from "../thing.page-type.types.ts"
+const THING_TYPES_AT = "akasha/things/thing.page-type.types.ts"
+
+export const HELD_THING_BODY = `import type { Thing } from "akasha/${THING_TYPES_AT}"
 
 export const heldThing = {
   id: "${HELD_THING_ID}",
@@ -116,6 +118,6 @@ export const ROOT: string = indexedRepo({
       rounds: "jsonl",
     },
   ]),
-  "akasha/things/thing.page-type.types.ts": "export type Thing = Record<string, unknown>\n",
+  [THING_TYPES_AT]: "export type Thing = Record<string, unknown>\n",
   [HELD_THING_AT]: HELD_THING_BODY,
 })

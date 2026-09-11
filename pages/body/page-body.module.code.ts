@@ -11,19 +11,10 @@ export type Rendering = {
 
 const BARE = /^[A-Za-z_$][A-Za-z0-9_$]*$/
 
-const UP = ".."
+const ROOT = "akasha/"
 
-const HERE = "./"
-
-export function importedFrom(pageAt: string, typeAt: string): string {
-  const from = pageAt.split("/").slice(0, -1)
-  const to = typeAt.split("/")
-  let shared = 0
-  while (shared < from.length && shared < to.length - 1 && from[shared] === to[shared]) shared += 1
-  const up = Array.from({ length: from.length - shared }, () => UP)
-  const down = to.slice(shared)
-  const said = [...up, ...down].join("/")
-  return said.startsWith(UP) ? said : `${HERE}${said}`
+export function importedFrom(typeAt: string): string {
+  return `${ROOT}${typeAt}`
 }
 
 export function unnamedIn(keys: readonly string[], values: Value): readonly string[] {

@@ -1,18 +1,14 @@
 import { expect, test } from "bun:test"
 import { bodyOf, importedFrom, saidAs, unnamedIn } from "akasha/pages/body/page-body.module.code.ts"
 
-const AT = "akasha/person-system/device-tokens/pages/one.device-token.ts"
+const TYPE_AT = "person-system/device-tokens/device-token.page-type.ts"
 
-const TYPE_AT = "akasha/person-system/device-tokens/device-token.page-type.ts"
-
-test("a page beneath its type reaches it by going up", () => {
-  expect(importedFrom(AT, TYPE_AT)).toBe("../device-token.page-type.ts")
+test("a page names its type from the root rather than by a relative path", () => {
+  expect(importedFrom(TYPE_AT)).toBe(`akasha/${TYPE_AT}`)
 })
 
-test("a page beside its type reaches it here", () => {
-  expect(importedFrom("akasha/a/one.thing.ts", "akasha/a/thing.page-type.ts")).toBe(
-    "./thing.page-type.ts"
-  )
+test("a page beside its type names that type from the root too", () => {
+  expect(importedFrom("a/thing.page-type.ts")).toBe("akasha/a/thing.page-type.ts")
 })
 
 test("a body names the type its page answers to and satisfies it", () => {

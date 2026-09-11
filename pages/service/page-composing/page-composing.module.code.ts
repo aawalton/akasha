@@ -294,7 +294,7 @@ export function composedFor(root: string, named: Naming): Composed {
   const content = bodyOf({
     pageTypeSlug: named.pageTypeSlug,
     slug: named.slug,
-    importFrom: importedFrom(at, typesAt ?? typeAt),
+    importFrom: importedFrom(typesAt ?? typeAt),
     keys: carried.filter((one) => !one.uncommitted).map((one) => one.key),
     values: inside,
   })

@@ -54,5 +54,9 @@ export const pageBody = {
       invariantKind: "departure",
       statement: "The landing mints and formats the body.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page names its type from the root rather than by a relative path.",
+    },
   ],
 } as const satisfies Module

@@ -41,12 +41,12 @@ const TYPES = "types"
 
 const HOLDS = "ts"
 
-export function typedFrom(root: string, page: string, typeSlug: string): string {
+export function typedFrom(root: string, typeSlug: string): string {
   const at = listedAt(root, PAGE_TYPE, typeSlug)[0]?.path
   if (at === undefined) return ""
   const typing = valueAt(at, root) ?? {}
   const stated = (typing as Record<string, unknown>)[TYPES]
-  return importedFrom(page, (stated === HOLDS ? besideAt(at, TYPES, HOLDS) : null) ?? at)
+  return importedFrom((stated === HOLDS ? besideAt(at, TYPES, HOLDS) : null) ?? at)
 }
 
 export type SeatStated = {
@@ -117,7 +117,7 @@ export function seatBody(
   const typeSlug = typeSlugOf(root, SEAT_TYPE)
   const named = said(typeSlug)
   return [
-    `import type { Seat } from "${typedFrom(root, seatPathForName(seatName), typeSlug)}"`,
+    `import type { Seat } from "${typedFrom(root, typeSlug)}"`,
     "",
     `export const ${exportedAs(seatName)} = {`,
     `  id: ${said(stated.agentId)},`,
