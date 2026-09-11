@@ -1,0 +1,191 @@
+import { afterAll, expect, test } from "bun:test"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  NOTHING,
+  piping,
+} from "akasha/commands/modules/change-running/change-running.module.test-fixtures.ts"
+import {
+  changeRepeat,
+  cliAt,
+  committedIn,
+  lined,
+  type Running,
+  repeating,
+  saidBy,
+  takesAtMost,
+} from "akasha/commands/pages/change/repeat/change-repeat.command.code.ts"
+import {
+  idOf,
+  indexedRepo,
+  pageOf,
+  scratch,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+
+afterAll(scratch.sweep)
+
+const CLI_PAGE = "akasha/held/cli.module.ts"
+
+const CLI_CODE = "akasha/held/cli.module.code.ts"
+
+const WIDE_PAGE = "akasha/held/wide.change-agent.ts"
+
+const NARROW_PAGE = "akasha/held/narrow.change-agent.ts"
+
+const HELD: Readonly<Record<string, string>> = {
+  [CLI_PAGE]: pageOf({
+    id: idOf("d"),
+    pageTypeSlug: "module",
+    slug: "cli",
+    definition: "the name on the path answered",
+    code: "ts",
+  }),
+  [CLI_CODE]: "export const cli = 1\n",
+  [WIDE_PAGE]: pageOf({
+    id: idOf("e"),
+    pageTypeSlug: "change-agent",
+    slug: "wide",
+    definition: "a change acting on many pages at once",
+    code: "ts",
+    takesAtMost: true,
+  }),
+  [NARROW_PAGE]: pageOf({
+    id: idOf("f"),
+    pageTypeSlug: "change-agent",
+    slug: "narrow",
+    definition: "a change acting on one page",
+    code: "ts",
+  }),
+}
+
+const ASKED = "page-type: module\nat-most: 2\n"
+
+const NOTHING_LEFT = "no `module` carries `pageTypeSlug`"
+
+function givenAt(root: string): Given {
+  return { root, calledAs: "akasha change repeat", from: root, writer: null, agentId: null }
+}
+
+function landing(commits: readonly string[]): Running {
+  let at = 0
+  return () => {
+    const one = commits[at]
+    at += 1
+    if (one === undefined) return { code: 1, out: [], err: [NOTHING_LEFT] }
+    return { code: 0, out: ["landed a/b.ts", `committed as ${one}`], err: [] }
+  }
+}
+
+test("a call naming no change is refused", () => {
+  const said = changeRepeat([], givenAt("/nowhere"), piping(ASKED))
+
+  expect(said.refusals[0] ?? "").toContain("no change is named")
+})
+
+test("a call piping nothing in is refused", () => {
+  const said = changeRepeat(["wide"], givenAt("/nowhere"), NOTHING)
+
+  expect(said.refusals[0] ?? "").toContain("piped nothing in")
+})
+
+test("a call handed no ceiling is refused", () => {
+  const said = changeRepeat(["wide"], givenAt("/nowhere"), piping("page-type: module\n"))
+
+  expect(said.refusals[0] ?? "").toContain("`at-most` says how many pages one batch acts on")
+})
+
+test("a ceiling that is no whole number above nothing is refused", () => {
+  const said = changeRepeat(["wide"], givenAt("/nowhere"), piping("at-most: none\n"))
+
+  expect(said.refusals[0] ?? "").toContain("is no count of pages")
+})
+
+test("whether a change takes a ceiling is read off that change's page", () => {
+  const root = indexedRepo(HELD)
+
+  expect(takesAtMost(root, "wide")).toBe(true)
+  expect(takesAtMost(root, "narrow")).toBe(false)
+  expect(takesAtMost(root, "nowhere")).toBeNull()
+})
+
+test("a change whose page states no ceiling is refused", () => {
+  const said = changeRepeat(["narrow"], givenAt(indexedRepo(HELD)), piping(ASKED), () =>
+    landing([])
+  )
+
+  expect(said.refusals[0] ?? "").toContain("states no `takes-at-most`")
+})
+
+test("the file a child runs is read from the index", () => {
+  expect(cliAt(indexedRepo(HELD))).toBe(CLI_CODE)
+})
+
+test("every batch is handed the arguments the call was piped, unchanged", () => {
+  const handed: string[] = []
+  const running: Running = (_slug, given) => {
+    handed.push(given)
+    if (handed.length > 1) return { code: 1, out: [], err: [NOTHING_LEFT] }
+    return { code: 0, out: ["committed as aaa"], err: [] }
+  }
+
+  const said = changeRepeat(["wide"], givenAt(indexedRepo(HELD)), piping(ASKED), () => running)
+
+  expect(said.code).toBe(0)
+  expect(handed).toEqual([ASKED, ASKED])
+})
+
+test("a batch that landed a commit is followed by another batch", () => {
+  const said = repeating(landing(["aaa", "bbb"]), "wide", ASKED)
+
+  expect(said.code).toBe(0)
+  expect(said.report[0]).toBe("batch 1 committed as aaa")
+  expect(said.report[1]).toBe("batch 2 committed as bbb")
+})
+
+test("what the batch ending the run said is the last the report says", () => {
+  const said = repeating(landing(["aaa"]), "wide", ASKED)
+
+  expect(said.report).toContain("1 batch(es) landed, and then:")
+  expect(said.report.at(-1)).toBe(NOTHING_LEFT)
+})
+
+test("a run whose first batch landed nothing is refused", () => {
+  const said = repeating(landing([]), "wide", ASKED)
+
+  expect(said.code).toBe(1)
+  expect(said.report).toEqual([])
+  expect(said.refusals).toEqual([NOTHING_LEFT])
+})
+
+test("no line a batch printed of what it wrote is carried into the report", () => {
+  const said = repeating(landing(["aaa"]), "wide", ASKED)
+
+  expect(said.report.join(" ")).not.toContain("landed a/b.ts")
+})
+
+test("a batch exiting well with no commit ends the run", () => {
+  const running: Running = () => ({ code: 0, out: ["nothing was folded in"], err: [] })
+
+  const said = repeating(running, "wide", ASKED)
+
+  expect(said.code).toBe(1)
+  expect(said.refusals).toEqual(["nothing was folded in"])
+})
+
+test("the commit a batch landed is read off the line naming it", () => {
+  expect(committedIn(["landed a/b.ts", "committed as aaa"])).toBe("aaa")
+  expect(committedIn(["landed a/b.ts"])).toBeNull()
+})
+
+test("what a batch wrote is read as lines with no empty line at the end", () => {
+  expect(lined("one\ntwo\n\n")).toEqual(["one", "two"])
+  expect(lined("")).toEqual([])
+  expect(lined(null)).toEqual([])
+})
+
+test("a batch saying nothing at all is said to have landed nothing", () => {
+  expect(saidBy({ code: 1, out: [], err: [] })).toEqual([
+    "that batch landed nothing and said nothing",
+  ])
+  expect(saidBy({ code: 1, out: ["said"], err: [] })).toEqual(["said"])
+  expect(saidBy({ code: 1, out: ["said"], err: ["why"] })).toEqual(["why"])
+})
