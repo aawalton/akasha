@@ -6,4 +6,10 @@ export const fcoMailData = {
   slug: "fco-mail-data",
   definition: "what the interface tweaks keep about one mail",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "absence",
+      statement: "No shared guard could name the type each guard here narrows to.",
+    },
+  ],
 } as const satisfies Module
