@@ -1,4 +1,4 @@
-import type { FolderShape } from "../folder-shape.page-type.types.ts"
+import type { FolderShape } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.types.ts"
 
 export const theWorkspaceRoot = {
   id: "01a08261-3b06-764b-9a0d-e073c9504692",

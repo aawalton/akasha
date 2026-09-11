@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { folderFrom } from "../../folder-matches-a-shape.code-check.decision.test-fixtures.ts"
-import type { Standing } from "../folder-shape.page-type.ts"
-import { sectionsOfTheBookAbove } from "./sections-of-the-book-above.folder-shape.code.ts"
+import { folderFrom } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
+import type { Standing } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
+import { sectionsOfTheBookAbove } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts"
 
 const ABOVE = "akasha/alan/books/my-strategy"
 

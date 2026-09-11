@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Standing } from "../folder-shape.page-type.ts"
-import { theWorkspaceRoot } from "./the-workspace-root.folder-shape.code.ts"
+import type { Standing } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
+import { theWorkspaceRoot } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/the-workspace-root/the-workspace-root.folder-shape.code.ts"
 
 function judged(
   folder: string,

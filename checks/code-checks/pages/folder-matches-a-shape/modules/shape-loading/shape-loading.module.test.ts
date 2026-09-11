@@ -1,7 +1,11 @@
 import { expect, test } from "bun:test"
-import { folderFrom } from "../../folder-matches-a-shape.code-check.decision.test-fixtures.ts"
-import type { Standing } from "../../folder-shapes/folder-shape.page-type.ts"
-import { judgedBy, namesHeldBy, type Shape } from "./shape-loading.module.code.ts"
+import { folderFrom } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
+import type { Standing } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
+import {
+  judgedBy,
+  namesHeldBy,
+  type Shape,
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.code.ts"
 
 function standingAt(folder: string): Standing {
   return folderFrom({ folder, pageTypes: new Set<string>() })([])

@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   grouping,
   holding,
-} from "../../folder-matches-a-shape.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
 import {
   answeringTo,
   heldFolder,
@@ -10,7 +10,7 @@ import {
   namingOver,
   openingWith,
   strippedOf,
-} from "./folder-naming.module.code.ts"
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/folder-naming/folder-naming.module.code.ts"
 
 const HELD = new Set<string>(["modules", "pages", "properties", "scripts"])
 

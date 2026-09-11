@@ -1,4 +1,27 @@
 import { basename } from "node:path"
+import type {
+  Declaring,
+  Standing,
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
+import {
+  folderOf,
+  type Grouped,
+  segmentingOver,
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
+import {
+  type Holding,
+  type Holds,
+  heldFolder,
+  namingFolderOf,
+  namingOver,
+  openingWith,
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/folder-naming/folder-naming.module.code.ts"
+import {
+  judgedBy,
+  namesHeldBy,
+  shapesIn,
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Naming } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import { type Held, heldIn, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -17,26 +40,6 @@ import {
 import type { Known } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { textAt, textsAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import type { Declaring, Standing } from "./folder-shapes/folder-shape.page-type.ts"
-import {
-  folderOf,
-  type Grouped,
-  segmentingOver,
-} from "./modules/folder-grouping/folder-grouping.module.code.ts"
-import {
-  type Holding,
-  type Holds,
-  heldFolder,
-  namingFolderOf,
-  namingOver,
-  openingWith,
-} from "./modules/folder-naming/folder-naming.module.code.ts"
-import {
-  judgedBy,
-  namesHeldBy,
-  shapesIn,
-} from "./modules/shape-loading/shape-loading.module.code.ts"
 
 const TS = "ts"
 

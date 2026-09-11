@@ -1,4 +1,4 @@
-import type { FolderShape } from "../folder-shape.page-type.types.ts"
+import type { FolderShape } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.types.ts"
 
 export const aWorkstationServiceWithItsParts = {
   id: "01a076ab-4c17-7626-ad38-f06b550b24e2",

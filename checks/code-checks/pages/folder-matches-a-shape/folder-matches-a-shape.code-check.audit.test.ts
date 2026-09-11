@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { everyFolderIn } from "./folder-matches-a-shape.code-check.audit.code.ts"
-import { grouping } from "./folder-matches-a-shape.code-check.decision.test-fixtures.ts"
+import { everyFolderIn } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.audit.code.ts"
+import { grouping } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
 
 test("an audit reaches the workspace root and every folder under it", () => {
   const grouped = grouping({

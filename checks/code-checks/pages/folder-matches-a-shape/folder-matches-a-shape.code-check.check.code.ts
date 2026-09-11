@@ -1,3 +1,22 @@
+import { judgingOver } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.code.ts"
+import {
+  ancestorsOf,
+  type Grouped,
+  groupedOver,
+  reachedFolders,
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
+import {
+  answeringTo,
+  type Holds,
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/folder-naming/folder-naming.module.code.ts"
+import {
+  bodyOf,
+  FILES,
+  input,
+  textIn,
+  textNamed,
+} from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
   NAMING_NONE,
   type Naming,
@@ -5,22 +24,6 @@ import {
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { edgesIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import {
-  bodyOf,
-  FILES,
-  input,
-  textIn,
-  textNamed,
-} from "../../../modules/change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { judgingOver } from "./folder-matches-a-shape.code-check.decision.code.ts"
-import {
-  ancestorsOf,
-  type Grouped,
-  groupedOver,
-  reachedFolders,
-} from "./modules/folder-grouping/folder-grouping.module.code.ts"
-import { answeringTo, type Holds } from "./modules/folder-naming/folder-naming.module.code.ts"
 
 const ROOT = ""
 

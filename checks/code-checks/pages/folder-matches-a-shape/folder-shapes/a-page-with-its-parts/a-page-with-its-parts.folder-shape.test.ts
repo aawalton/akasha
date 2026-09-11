@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
-import { folderFrom } from "../../folder-matches-a-shape.code-check.decision.test-fixtures.ts"
-import type { Standing, Wanted } from "../folder-shape.page-type.ts"
-import { aPageWithItsParts } from "./a-page-with-its-parts.folder-shape.code.ts"
+import { folderFrom } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
+import { aPageWithItsParts } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-with-its-parts/a-page-with-its-parts.folder-shape.code.ts"
+import type {
+  Standing,
+  Wanted,
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
 
 const FOLDER = "akasha/code-checks"
 

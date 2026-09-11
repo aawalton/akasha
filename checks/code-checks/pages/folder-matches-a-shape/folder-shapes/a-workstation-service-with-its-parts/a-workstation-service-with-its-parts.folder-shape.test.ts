@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { folderFrom } from "../../folder-matches-a-shape.code-check.decision.test-fixtures.ts"
-import { aWorkstationServiceWithItsParts } from "./a-workstation-service-with-its-parts.folder-shape.code.ts"
+import { folderFrom } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
+import { aWorkstationServiceWithItsParts } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-workstation-service-with-its-parts/a-workstation-service-with-its-parts.folder-shape.code.ts"
 
 const FOLDER = "akasha/pages/service/workstation-services"
 

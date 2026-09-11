@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { folderFrom } from "../../folder-matches-a-shape.code-check.decision.test-fixtures.ts"
-import type { Declaring } from "../folder-shape.page-type.ts"
-import { aPageTypeWithItsParts } from "./a-page-type-with-its-parts.folder-shape.code.ts"
+import { folderFrom } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
+import { aPageTypeWithItsParts } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.code.ts"
+import type { Declaring } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
 
 const FOLDER = "akasha/models"
 

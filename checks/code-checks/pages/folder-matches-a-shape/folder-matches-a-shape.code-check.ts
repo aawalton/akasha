@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.types.ts"
+import type { CodeCheck } from "akasha/checks/code-checks/code-check.page-type.types.ts"
 
 export const folderMatchesAShape = {
   id: "01a04e33-f281-7900-a29d-0b79e444ca98",

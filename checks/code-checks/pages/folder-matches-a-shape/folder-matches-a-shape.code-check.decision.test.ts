@@ -1,7 +1,4 @@
 import { expect, test } from "bun:test"
-import { type Held, heldIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import type { FoldersBy } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import {
   holdingOver,
   namesFiling,
@@ -9,13 +6,16 @@ import {
   pageNameOf,
   partOfOver,
   partsOver,
-} from "./folder-matches-a-shape.code-check.decision.code.ts"
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.code.ts"
 import {
   folderFrom,
   segmented,
   segmentedLater,
-} from "./folder-matches-a-shape.code-check.decision.test-fixtures.ts"
-import { sectionsOfTheBookAbove } from "./folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts"
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
+import { sectionsOfTheBookAbove } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts"
+import { type Held, heldIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { FoldersBy } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const ROOT = "/repo"
 

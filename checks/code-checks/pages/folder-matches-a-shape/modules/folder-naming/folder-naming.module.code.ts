@@ -1,6 +1,9 @@
 import { basename } from "node:path"
-import type { Wanted } from "../../folder-shapes/folder-shape.page-type.ts"
-import { folderOf, type Grouped } from "../folder-grouping/folder-grouping.module.code.ts"
+import type { Wanted } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
+import {
+  folderOf,
+  type Grouped,
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
 
 export type Holding = {
   readonly names: readonly string[]

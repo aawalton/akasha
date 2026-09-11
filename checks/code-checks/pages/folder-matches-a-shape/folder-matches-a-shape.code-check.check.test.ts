@@ -1,21 +1,21 @@
 import { expect, test } from "bun:test"
-import { NAMING_NONE } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   edgesOf,
   foldersJudgedBy,
   foldersTouchedBy,
-} from "./folder-matches-a-shape.code-check.check.code.ts"
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.check.code.ts"
 import {
   grouping,
   HELD_IN_TESTS,
   holding,
-} from "./folder-matches-a-shape.code-check.decision.test-fixtures.ts"
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
 import {
   ancestorsOf,
   folderOf,
   reachedFolders,
-} from "./modules/folder-grouping/folder-grouping.module.code.ts"
+} from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
+import { NAMING_NONE } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 
 const ROOT = "/repo"
 

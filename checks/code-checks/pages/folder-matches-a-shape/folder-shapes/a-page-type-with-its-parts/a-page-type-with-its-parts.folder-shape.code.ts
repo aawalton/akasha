@@ -1,7 +1,7 @@
 import { basename } from "node:path"
+import type { Standing } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts"
+import { saidInside } from "akasha/checks/modules/shape-saying/shape-saying.module.code.ts"
 import type { Held } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
-import type { Standing } from "../folder-shape.page-type.ts"
 
 const PAGE_TYPE = "page-type"
 
