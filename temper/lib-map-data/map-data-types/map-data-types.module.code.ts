@@ -1,3 +1,5 @@
+import type { LogType } from "akasha/temper/addon-log/addon-log/addon-log.module.code.ts"
+
 export type GlobalObjectTable = Record<string, unknown>
 
 export interface MapIndexEntry {
@@ -23,7 +25,7 @@ export interface Internal {
   loggerName: string
   logger: DebugLogger | undefined
 
-  dm: (this: Internal, logType: string, ...args: unknown[]) => undefined
+  dm: (this: Internal, logType: LogType, ...args: unknown[]) => undefined
 
   FireCallbackEventZoneChanged: (this: Internal) => undefined
   FireCallbackWorldPositionChanged: (this: Internal) => undefined

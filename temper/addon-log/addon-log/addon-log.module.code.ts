@@ -2,9 +2,11 @@ import { isTable } from "akasha/temper/narrow/is-table/is-table.module.code.ts"
 
 type MetatableView = { __index?: Record<string | number, unknown> } | undefined
 
+export type LogType = "Debug" | "Info" | "Verbose" | "Warn"
+
 export type AddonLog = {
   readonly logger: DebugLogger | undefined
-  readonly dm: (this: void, logType: string, ...args: unknown[]) => undefined
+  readonly dm: (this: void, logType: LogType, ...args: unknown[]) => undefined
 }
 
 function asMetatableView(value: unknown): MetatableView {
@@ -25,7 +27,7 @@ export function createAddonLog(
   const logger = LibDebugLogger !== undefined ? LibDebugLogger.Create(addonName) : undefined
   const hasViewer = DebugLogViewer !== undefined
 
-  function createLog(logType: string, logContent: string): undefined {
+  function createLog(logType: LogType, logContent: string): undefined {
     if (!hasViewer && logType === "Info") {
       CHAT_ROUTER.AddSystemMessage(logContent)
       return
@@ -45,11 +47,11 @@ export function createAddonLog(
     }
   }
 
-  function emitMessage(logType: string, text: string): undefined {
+  function emitMessage(logType: LogType, text: string): undefined {
     createLog(logType, text === "" ? "[Empty String]" : text)
   }
 
-  function emitUserdata(logType: string, udata: unknown): undefined {
+  function emitUserdata(logType: LogType, udata: unknown): undefined {
     const functionLimit = 5
     const totalLimit = 10
     let functionCount = 0
@@ -81,7 +83,7 @@ export function createAddonLog(
   }
 
   function emitTable(
-    logType: string,
+    logType: LogType,
     t: Record<string | number, unknown> | undefined,
     indent: string,
     history: LuaSet<object>
@@ -107,7 +109,7 @@ export function createAddonLog(
     }
   }
 
-  function emitValue(logType: string, value: unknown): undefined {
+  function emitValue(logType: LogType, value: unknown): undefined {
     if (type(value) === "userdata") {
       emitUserdata(logType, value)
     } else if (isTable(value)) {
@@ -117,7 +119,7 @@ export function createAddonLog(
     }
   }
 
-  function dm(this: void, logType: string, ...args: unknown[]): undefined {
+  function dm(this: void, logType: LogType, ...args: unknown[]): undefined {
     if (!showLog() && logType !== "Info") return
     const firstArg = args[0]
     if (typeof firstArg === "string" && containsPlaceholders(firstArg)) {
