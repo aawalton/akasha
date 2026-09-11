@@ -16,6 +16,7 @@ export const agentSettings = {
     "agent-settings/tool-access",
     "file-property/harness-settings",
     "module-property-group/telling",
+    "module/harness-settings-reading",
   ],
   extends: ["page-type/domain"],
   properties: [
