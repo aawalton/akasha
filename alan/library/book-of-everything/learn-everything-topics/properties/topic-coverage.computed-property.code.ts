@@ -1,4 +1,5 @@
 import type { LearnEverythingTopic } from "akasha/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.types.ts"
+import type { TopicCoverage } from "akasha/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.computed-property.types.ts"
 import type { Reach, Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 
 const UNDER = "topic-part-of"
@@ -14,7 +15,7 @@ function rankOf(page: LearnEverythingTopic, reach: Reach): number {
   return typeof rank === "number" && Number.isFinite(rank) ? rank : 0
 }
 
-export const work: Work<LearnEverythingTopic, number> = (page, reach) => {
+export const work: Work<LearnEverythingTopic, TopicCoverage> = (page, reach) => {
   const rank = rankOf(page, reach)
   const under = reach.naming<Beneath>(UNDER)
   if (under.length === 0) return rank
