@@ -9,7 +9,7 @@ export const noRelativeSpecifier = {
   runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
@@ -59,11 +59,7 @@ export const noRelativeSpecifier = {
       invariantKind: "departure",
       statement: "A body that is not code is passed over.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "The phases reading the whole tree wait on a clean tree; the change phase does not.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Whether the file a specifier names is there is not read here.",
