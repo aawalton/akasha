@@ -3,7 +3,7 @@ import {
   nodeUnder,
   type TreeNode,
 } from "akasha/temper/addon-generators/tree-node-under/tree-node-under.module.code.ts"
-import { identityOf } from "akasha/utils/slug/slug-of/slug-of.module.code.ts"
+import { slugOf } from "akasha/utils/slug/slug-of/slug-of.module.code.ts"
 import { z } from "zod"
 
 const ITEM_CATEGORY_TREE_EAV_SCHEMA = z
@@ -68,10 +68,10 @@ function parseRow(row: Page): ParsedNode {
     itemNameContains: row.itemNameContains,
   })
   return {
-    id: identityOf(eav.key),
+    id: slugOf(eav.key),
     key: eav.key,
     name: row.title,
-    parentId: eav.parent == null ? null : identityOf(eav.parent),
+    parentId: eav.parent == null ? null : slugOf(eav.parent),
     priorityOrder: eav.priorityOrder ?? null,
     sortOrder: eav.sortOrder,
     filterTypes: eav.filterTypes,
