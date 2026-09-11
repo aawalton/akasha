@@ -1,4 +1,4 @@
-import type { NumberProperty } from "../../number-properties/number-property.page-type.types.ts"
+import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
 export const maxCpuSeconds = {
   id: "01a08790-b6ce-71b1-8fb6-fab655bbd59f",

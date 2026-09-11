@@ -1,4 +1,4 @@
-import type { NumberProperty } from "../../number-properties/number-property.page-type.types.ts"
+import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
 export const maxMemoryMb = {
   id: "01a08790-d9b0-7541-af41-a057d8a7faab",
