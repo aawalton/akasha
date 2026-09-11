@@ -10,32 +10,22 @@ import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-o
 import { usePages } from "akasha/pages/ui/supabase/use-pages/use-pages.module.code.ts"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import type { CharacterBuildMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+import {
+  type BuildRow,
+  mapBuildRow,
+} from "akasha/temper/build-support/build-row/build-row.module.code.ts"
 import type { CharacterVisibility } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import {
   type RoleId,
   characterRoles as roles,
 } from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
-import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
-import { parseTimestamp } from "akasha/utils/narrow/parse-timestamp/parse-timestamp.module.code.ts"
 import { useMemo } from "react"
 
 const CHARACTER_BUILD_PAGE_TYPE_SLUG = "character-build"
 
-export interface CharacterBuildRow {
-  id: string
-  userId: string
-  buildHash: string
-  buildMetadata: CharacterBuildMetadata | null
-  visibility: string
-  correlationId: string | null
+export interface CharacterBuildRow extends BuildRow<CharacterBuildMetadata> {
   esoCharacterId?: string
-  createdAt: number
-  updatedAt: number
-}
-
-function parseStringOrNull(value: unknown): string | null {
-  return typeof value === "string" ? value : null
 }
 
 function parseBuildMetadata(value: unknown): CharacterBuildMetadata | null {
@@ -59,19 +49,6 @@ function parseBuildMetadata(value: unknown): CharacterBuildMetadata | null {
     characterName,
     ...(validatedRoles ? { baseRoles: validatedRoles } : {}),
     ...(typeof targetCount === "number" ? { targetCount } : {}),
-  }
-}
-
-function mapBuildRow(row: Record<string, unknown>): CharacterBuildRow {
-  return {
-    id: parseString(row.id),
-    userId: parseString(row.userId),
-    buildHash: parseString(row.buildHash),
-    buildMetadata: parseBuildMetadata(row.buildMetadata),
-    visibility: parseString(row.visibility, "private"),
-    correlationId: parseStringOrNull(row.correlationId),
-    createdAt: parseTimestamp(row.createdAt),
-    updatedAt: parseTimestamp(row.updatedAt),
   }
 }
 
@@ -100,7 +77,7 @@ export function useCharacterList() {
 
   const builds = useMemo<CharacterBuildRow[]>(() => {
     if (userId == null) return []
-    return rows.map(mapBuildRow)
+    return rows.map((row) => mapBuildRow(row, parseBuildMetadata))
   }, [rows, userId])
 
   return {
@@ -126,7 +103,7 @@ export function useCharacter(buildId: string) {
   const build = useMemo<CharacterBuildRow | undefined>(() => {
     const row = rows[0]
     if (!row) return undefined
-    return mapBuildRow(row)
+    return mapBuildRow(row, parseBuildMetadata)
   }, [rows])
 
   const updateBuild = async (buildHash: string, buildMetadata: CharacterBuildMetadata) => {
@@ -366,8 +343,8 @@ export function useAllCharacterList(userId: string | null) {
 
   const isLoading = userRead.isLoading || publicRead.isLoading
 
-  const userBuilds = userRead.rows.map(mapBuildRow)
-  const publicBuilds = publicRead.rows.map(mapBuildRow)
+  const userBuilds = userRead.rows.map((row) => mapBuildRow(row, parseBuildMetadata))
+  const publicBuilds = publicRead.rows.map((row) => mapBuildRow(row, parseBuildMetadata))
   const userBuildIds = new Set(userBuilds.map((b) => b.id))
   const merged = [...userBuilds, ...publicBuilds.filter((b) => !userBuildIds.has(b.id))]
   return { builds: merged, isLoading }
