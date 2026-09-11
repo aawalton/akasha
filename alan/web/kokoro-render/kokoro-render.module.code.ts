@@ -6,6 +6,7 @@ import {
 } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { getPage } from "akasha/pages/access/get/get.module.code.ts"
 import { getMediaConfig } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
+import { inFlightKeys } from "akasha/utils/narrow/in-flight-keys/in-flight-keys.module.code.ts"
 import {
   readAloudKey,
   storedReadAloudExists,
@@ -21,17 +22,7 @@ const STORE_POLL_INTERVAL_MS = 5_000
 
 const sleep = (ms: number): Promise<void> => new Promise((resolve) => setTimeout(resolve, ms))
 
-const inFlight = new Set<string>()
-
-function claimRenderLock(pageId: string): boolean {
-  if (inFlight.has(pageId)) return false
-  inFlight.add(pageId)
-  return true
-}
-
-function releaseRenderLock(pageId: string): undefined {
-  inFlight.delete(pageId)
-}
+const inFlight = inFlightKeys()
 
 export type EnsureStatus = "ready" | "generating" | "unavailable"
 
@@ -66,7 +57,9 @@ const DEFAULT_DEPS: EnsureDeps = {
   startRender: (pageId, segments) => {
     const store = seaweedFSObjectStoreFromEnv()
     if (store == null) return "unavailable"
-    void triggerAndAwaitStored(pageId, segments, store).finally(() => releaseRenderLock(pageId))
+    void triggerAndAwaitStored(pageId, segments, store).finally(() => {
+      inFlight.release(pageId)
+    })
     return "started"
   },
 }
@@ -76,20 +69,20 @@ export async function ensureReadAloudRendition(
   segments: readonly string[],
   deps: EnsureDeps = DEFAULT_DEPS
 ): Promise<EnsureStatus> {
-  if (!claimRenderLock(pageId)) return "generating"
+  if (!inFlight.claim(pageId)) return "generating"
   try {
     if (await deps.storedExists(pageId)) {
-      releaseRenderLock(pageId)
+      inFlight.release(pageId)
       return "ready"
     }
     const started = deps.startRender(pageId, segments)
     if (started === "unavailable") {
-      releaseRenderLock(pageId)
+      inFlight.release(pageId)
       return "unavailable"
     }
     return "generating"
   } catch (err) {
-    releaseRenderLock(pageId)
+    inFlight.release(pageId)
     throw err
   }
 }

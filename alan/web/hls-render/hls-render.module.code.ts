@@ -5,6 +5,7 @@ import {
   hlsSegmentPrefix,
 } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import type { ObjectStore } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
+import { inFlightKeys } from "akasha/utils/narrow/in-flight-keys/in-flight-keys.module.code.ts"
 import { z } from "zod"
 import { readAloudKey } from "../read-aloud-persist/read-aloud-persist.module.code.ts"
 
@@ -26,13 +27,7 @@ const hlsAckSchema = z
 
 export type HlsPlaylistStatus = "live" | "generating" | "unavailable"
 
-const inFlight = new Set<string>()
-
-function claimLock(playlistKey: string): boolean {
-  if (inFlight.has(playlistKey)) return false
-  inFlight.add(playlistKey)
-  return true
-}
+const inFlight = inFlightKeys()
 
 async function playlistExists(
   pageId: string,
@@ -55,7 +50,7 @@ export async function ensureHlsPlaylist(
   if (store == null) return { status: "unavailable" }
   if (await playlistExists(pageId, store, opts)) return { status: "live" }
   const playlistKey = hlsPlaylistObjectKey(pageId, opts)
-  if (!claimLock(playlistKey)) return { status: "generating" }
+  if (!inFlight.claim(playlistKey)) return { status: "generating" }
   try {
     if (await playlistExists(pageId, store, opts)) return { status: "live" }
     if (!(await fireHlsRenderTrigger(pageId, segments, opts))) return { status: "unavailable" }
@@ -66,7 +61,7 @@ export async function ensureHlsPlaylist(
     }
     return { status: "generating" }
   } finally {
-    inFlight.delete(playlistKey)
+    inFlight.release(playlistKey)
   }
 }
 

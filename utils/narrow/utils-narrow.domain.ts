@@ -27,6 +27,7 @@ export const utilsNarrow = {
     "module/escape-reg-exp",
     "module/flag-value",
     "module/get-subcategory",
+    "module/in-flight-keys",
     "module/is-json",
     "module/is-object-record",
     "module/is-record",
