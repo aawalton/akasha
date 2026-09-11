@@ -39,13 +39,20 @@ function reading(path: string, text: string, takes: Taking): readonly Placed[] {
   return [...found].sort((one, two) => one.start - two.start)
 }
 
+function mocking(node: ts.CallExpression): boolean {
+  const said = node.expression
+  if (!ts.isPropertyAccessExpression(said) || said.name.text !== "module") return false
+  return ts.isIdentifier(said.expression) && said.expression.text === "mock"
+}
+
 export function placedIn(path: string, text: string): readonly Placed[] {
   return reading(path, text, (node, took) => {
     if (ts.isImportDeclaration(node) || ts.isExportDeclaration(node)) took(node.moduleSpecifier)
     if (
       ts.isCallExpression(node) &&
       (node.expression.kind === ts.SyntaxKind.ImportKeyword ||
-        (ts.isIdentifier(node.expression) && node.expression.text === "require"))
+        (ts.isIdentifier(node.expression) && node.expression.text === "require") ||
+        mocking(node))
     ) {
       took(node.arguments[0])
     }

@@ -32,6 +32,18 @@ test("a string that names no module is passed over", () => {
   expect(specifiersIn(AT, 'const one = "./one.ts"\n')).toEqual([])
 })
 
+test("a module replaced under test is read", () => {
+  expect(specifiersIn(AT, 'mock.module("./one.ts", () => ({}))\n')).toEqual(["./one.ts"])
+})
+
+test("a call on another property access names no module", () => {
+  const body =
+    'held.module("./one.ts", () => ({}))\n' +
+    'mock.restore("./two.ts")\n' +
+    'module("./three.ts")\n'
+  expect(specifiersIn(AT, body)).toEqual([])
+})
+
 test("what is read is answered in the order it is written, however deep it sits", () => {
   const body =
     'import { one } from "./one.ts"\n' +

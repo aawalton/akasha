@@ -16,6 +16,10 @@ export const codeSpecifier = {
     },
     {
       invariantKind: "departure",
+      statement: "A module a test replaces is named by a specifier like any other.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every string a body has is answered too.",
     },
     {
