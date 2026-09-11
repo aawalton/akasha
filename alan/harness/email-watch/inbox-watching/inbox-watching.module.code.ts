@@ -63,7 +63,7 @@ async function announce(): Promise<void> {
   log(`told ${HANDLER} about ${untold.length} piece(s) waiting, from ${SENDER}, as ${messageId}`)
 }
 
-async function main(): Promise<void> {
+export async function runInboxWatching(): Promise<void> {
   const stopping = stopsOnSignal()
 
   const box = await mailbox()
@@ -86,5 +86,5 @@ async function main(): Promise<void> {
 }
 
 if (import.meta.main) {
-  await main()
+  await runInboxWatching()
 }
