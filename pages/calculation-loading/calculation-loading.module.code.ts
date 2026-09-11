@@ -20,6 +20,8 @@ const AS = /\s+as\s+/
 
 const DECLARES = "^export\\s+(?:async\\s+)?(?:function|const|let|class)\\s+"
 
+const ROOTED = "akasha/"
+
 export type TextOf = (path: string) => string | null
 
 export type Loaded = { readonly work: Work<Held, unknown> } | { readonly failed: string }
@@ -48,12 +50,16 @@ function declaring(text: string, named: string): boolean {
   return new RegExp(`${DECLARES}${named}\\b`, "m").test(text)
 }
 
+function pathFor(at: string, from: string): string {
+  return from.startsWith(ROOTED) ? from.slice(ROOTED.length) : join(dirname(at), from)
+}
+
 function foldedIn(body: string, at: string, textOf: TextOf): string {
   let alone = body.replace(TYPE_IMPORT, "")
   for (const found of body.matchAll(IMPORT)) {
     const from = found[2] ?? ""
     if (!from.endsWith(SHARED)) continue
-    const path = join(dirname(at), from)
+    const path = pathFor(at, from)
     const text = textOf(path)
     if (text === null) throw new Error(`\`${from}\` reaches no file at \`${path}\``)
     const taken = takenIn(found[1] ?? "")

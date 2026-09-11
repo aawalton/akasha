@@ -25,6 +25,8 @@ const MILLIS_FROM = "../millis/millis.computed-property-module.code.ts"
 
 const HOURS_FROM = "../modules/hours/hours.computed-property-module.code.ts"
 
+const HOURS_ROOTED = `akasha/${HOURS}`
+
 const SHARED = new Map<string, string>([
   [MILLIS, ["export function anHour(): number {", "  return 3600000", "}"].join("\n")],
   [
@@ -121,6 +123,17 @@ describe("a calculation importing a computed-property-module", () => {
     const loaded = workIn(SHARING, AT, () => null)
     if (!("failed" in loaded)) throw new Error("nothing was refused")
     expect(loaded.failed).toContain(HOURS)
+  })
+
+  test("an import naming a file from the root is resolved from the root", () => {
+    const body = [
+      `import { hoursBetween } from "${HOURS_ROOTED}"`,
+      "",
+      "export const work = (page) => hoursBetween(page.startTime, page.endTime)",
+    ].join("\n")
+    const loaded = workIn(body, AT, (path) => SHARED.get(path) ?? null)
+    if ("failed" in loaded) throw new Error(loaded.failed)
+    expect(loaded.work(SPAN, REACH)).toBe(2)
   })
 
   test("a name the module does not declare refuses the load by that name", () => {

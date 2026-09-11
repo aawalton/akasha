@@ -60,6 +60,10 @@ export const calculationLoading = {
     },
     {
       invariantKind: "departure",
+      statement: "An import naming a file from the root is resolved from the root.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A calculation is read from the text of its code file rather than through an import.",
     },
