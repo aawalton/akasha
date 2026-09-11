@@ -94,6 +94,16 @@ test("the plaintext handed to sops does not remain after the call", () => {
   expect(existsSync(at) ? readdirSync(at) : []).toEqual([])
 })
 
+test("plaintext a process that is gone left behind is taken away, a live one's kept", () => {
+  const root = rooted()
+  const at = dataIn(root, "sops")
+  mkdirSync(at, { recursive: true })
+  writeFileSync(join(at, "2147483647.yaml"), 'access-token: "left"\n', "utf8")
+  writeFileSync(join(at, "1.yaml"), 'access-token: "live"\n', "utf8")
+  cipherFor(root, PAGE, held({ "access-token": "one" }))
+  expect(readdirSync(at)).toEqual(["1.yaml"])
+})
+
 test("a page with no sops file beside it carries no secrets, which is an answer", () => {
   expect(secretsIn(rooted(), PAGE)).toBeNull()
   expect(keysBeside(rooted(), PAGE)).toEqual([])

@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { dataIn } from "akasha/files/data-place/data-place.module.code.ts"
 import { secretAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -18,6 +18,8 @@ const CONFIG = ".sops.yaml"
 const SCRATCH = "sops"
 
 const HELD = "yaml"
+
+const LEFT = new RegExp(`^(\\d+)\\.${HELD}$`)
 
 const CEILING = 10_000
 
@@ -72,9 +74,30 @@ function ran(root: string, args: readonly string[], doing: string): Composed {
   return { text: done.out, why: "" }
 }
 
+function gone(pid: number): boolean {
+  try {
+    process.kill(pid, 0)
+    return false
+  } catch (thrown) {
+    return (thrown as NodeJS.ErrnoException).code === "ESRCH"
+  }
+}
+
+function sweepScratch(folder: string): undefined {
+  for (const name of readdirSync(folder)) {
+    const said = LEFT.exec(name)
+    if (said === null) continue
+    const pid = Number(said[1])
+    if (pid === process.pid || !gone(pid)) continue
+    rmSync(join(folder, name), { force: true })
+  }
+}
+
 function scratchFor(root: string, body: string): string {
   const at = dataIn(root, SCRATCH, `${process.pid}.${HELD}`)
-  mkdirSync(dirname(at), { recursive: true })
+  const folder = dirname(at)
+  mkdirSync(folder, { recursive: true })
+  sweepScratch(folder)
   writeFileSync(at, body, "utf8")
   return at
 }

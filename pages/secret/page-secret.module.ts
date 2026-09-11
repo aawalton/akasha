@@ -68,6 +68,11 @@ export const pageSecret = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Plaintext a process that is gone left behind is taken away before the next is written.",
+    },
+    {
+      invariantKind: "departure",
       statement: "`--filename-override` names the sops file the ciphertext is for.",
     },
     {
