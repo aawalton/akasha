@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libSetsDropNameNamesRu = {
   id: "01a061d6-3e2b-7bbe-ae58-63f588a6807a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lib-sets-drop-name-names-ru",
   definition: "the Russian name of each way a gear set drops",
   code: "ts",

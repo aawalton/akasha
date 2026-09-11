@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scrollableMenuDropdownClassSearch = {
   id: "01a06275-c448-784f-b2c1-a28462d70542",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scrollable-menu-dropdown-class-search",
   definition: "the mouse-up, selection and show-hide methods of the dropdown object",
   code: "ts",

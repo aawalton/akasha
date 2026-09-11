@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const mapPinsTimeBreach = {
   id: "01a06269-2afa-7976-8774-81a443e86b6a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "map-pins-time-breach",
   definition: "the time breach places",
   code: "ts",

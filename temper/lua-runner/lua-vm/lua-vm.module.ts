@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const luaVm = {
   id: "01a06059-2493-7198-a53e-089da757ff6e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lua-vm",
   definition: "a Lua subprocess handed out as something to run scripts on and read globals from",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libSetsCoreApiSearchFavorites = {
   id: "01a06231-8f1d-7d17-ae81-fec3b0c44f96",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lib-sets-core-api-search-favorites",
   definition: "the favorite categories a set search result can be starred into",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libSetsLocRestStringsPl = {
   id: "01a061d7-7bc0-76a6-aea1-86cfc69fa919",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lib-sets-loc-rest-strings-pl",
   definition: "the library's own interface text in Polish",
   code: "ts",

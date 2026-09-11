@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const isCallback = {
   id: "01a08e19-c569-71cc-8644-64f32991852e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "is-callback",
   definition: "whether a value that may be a callback is one rather than a plain value",
   code: "ts",

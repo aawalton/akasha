@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const slashCommanderSurface = {
   id: "01a06066-8401-74d7-a505-372d07f1090c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "slash-commander-surface",
   definition: "the calls another addon registers and labels a slash command by",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scrollableMenuComboboxBaseHiddenClicks = {
   id: "01a06275-c445-7e98-a4c6-a02f0ce0cd3d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scrollable-menu-combobox-base-hidden-clicks",
   definition: "the reading of which header or entry control a click at the context menu landed on",
   code: "ts",

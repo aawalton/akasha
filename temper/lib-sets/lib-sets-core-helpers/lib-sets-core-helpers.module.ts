@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libSetsCoreHelpers = {
   id: "01a061fc-cee9-7baa-81aa-c052ca2349fa",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lib-sets-core-helpers",
   definition:
     "the small conversions shared across this library, from language choice to guarded chat input",

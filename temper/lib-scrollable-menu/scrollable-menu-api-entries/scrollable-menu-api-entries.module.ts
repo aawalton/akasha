@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scrollableMenuApiEntries = {
   id: "01a06275-c443-709d-8562-0ff2fc429904",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scrollable-menu-api-entries",
   definition: "the typed global wrappers that add one entry of a fixed entry type",
   code: "ts",

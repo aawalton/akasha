@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const slashCommanderProviders = {
   id: "01a06066-8402-7658-aac7-0ba6020e3995",
   pageTypeSlug: "module",
+  type: "module",
   slug: "slash-commander-providers",
   definition: "what a chat completion is offered from for a token the player has typed",
   code: "ts",

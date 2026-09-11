@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const lorebooksLibraryFilter = {
   id: "01a06194-be41-7ddd-a505-ed8f613fa702",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lorebooks-library-filter",
   definition: "hiding the rows of the lore library the player asked not to see",
   code: "ts",

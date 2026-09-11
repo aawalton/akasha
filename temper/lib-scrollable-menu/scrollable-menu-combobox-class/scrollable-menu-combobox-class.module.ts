@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scrollableMenuComboboxClass = {
   id: "01a06275-c446-70da-9906-1d4292ab215a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scrollable-menu-combobox-class",
   definition: "the subclass a normal dropdown menu on an existing ZO_ComboBox becomes",
   code: "ts",

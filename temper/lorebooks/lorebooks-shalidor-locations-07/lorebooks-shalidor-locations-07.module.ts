@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const lorebooksShalidorLocations07 = {
   id: "01a06181-3840-7d6c-a09e-67a9688936f8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lorebooks-shalidor-locations-07",
   definition:
     "one run of the Shalidor's Library location table, in the order the whole table names it",

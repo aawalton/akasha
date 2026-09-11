@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libSetsTipItemLink = {
   id: "01a06231-8f1e-7646-8b29-68d015b765db",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lib-sets-tip-item-link",
   definition: "the item link dug out of whatever row control the mouse is over",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libSetsCoreItemidDecompress = {
   id: "01a061fc-ceea-731b-8df7-55b760383102",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lib-sets-core-itemid-decompress",
   definition: "the item ids of a set expanded from the compressed form they are stored in",
   code: "ts",

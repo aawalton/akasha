@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const mapPinsRelicsOfSummerset = {
   id: "01a06269-2ae8-712d-a015-38014478c2d9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "map-pins-relics-of-summerset",
   definition: "the Summerset relic places",
   code: "ts",

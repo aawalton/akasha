@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scrollableMenuUtilData = {
   id: "01a06275-c449-7ef3-b576-08766fcd81b5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scrollable-menu-util-data",
   definition: "the readers that resolve a control to its name and to its underlying data table",
   code: "ts",

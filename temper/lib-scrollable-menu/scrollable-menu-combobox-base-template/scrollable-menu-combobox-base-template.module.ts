@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scrollableMenuComboboxBaseTemplate = {
   id: "01a06275-c446-7cbe-bc6c-f699e056c835",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scrollable-menu-combobox-base-template",
   definition: "the default XML row template and highlight template for each entry type",
   code: "ts",

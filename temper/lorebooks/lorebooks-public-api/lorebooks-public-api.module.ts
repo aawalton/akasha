@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const lorebooksPublicApi = {
   id: "01a06194-be46-7682-a68a-15c28daea992",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lorebooks-public-api",
   definition: "the lore book readers this add-on publishes for other add-ons",
   code: "ts",

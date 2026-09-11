@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const lorebooksBookData69 = {
   id: "01a06180-9f41-78aa-97c8-a65310fbaf9c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lorebooks-book-data-69",
   definition: "one run of the Eidetic Memory book table, in the order the whole table names them",
   code: "ts",

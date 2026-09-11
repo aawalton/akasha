@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const lostTreasureNotifications = {
   id: "01a06141-8008-77a8-af65-98ebdb893c22",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lost-treasure-notifications",
   definition: "an offer to report a new dig site, shown in the notification list",
   code: "ts",

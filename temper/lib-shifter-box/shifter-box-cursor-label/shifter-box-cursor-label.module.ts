@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const shifterBoxCursorLabel = {
   id: "01a08e6e-ae39-7b0d-a20f-739be0c4cda5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "shifter-box-cursor-label",
   definition: "the label the cursor carries while an entry is dragged between the lists",
   code: "ts",

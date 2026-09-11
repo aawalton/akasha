@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const minimapBorder = {
   id: "01a06269-2977-7484-a59c-e6669eeef350",
   pageTypeSlug: "module",
+  type: "module",
   slug: "minimap-border",
   definition: "the border styles the minimap window can wear",
   code: "ts",

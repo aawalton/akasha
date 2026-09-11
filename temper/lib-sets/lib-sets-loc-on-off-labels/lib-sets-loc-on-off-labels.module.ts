@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libSetsLocOnOffLabels = {
   id: "01a061d7-7bb7-7e19-ab98-7217b31320b1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lib-sets-loc-on-off-labels",
   definition: "the game's own ON and OFF words, upper-cased",
   code: "ts",

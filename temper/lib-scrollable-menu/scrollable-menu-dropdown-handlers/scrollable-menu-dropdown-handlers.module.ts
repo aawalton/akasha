@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scrollableMenuDropdownHandlers = {
   id: "01a06275-c448-75c4-bb2b-16f01a915b1e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scrollable-menu-dropdown-handlers",
   definition: "the row construction and recycling behind the dropdown scroll list",
   code: "ts",

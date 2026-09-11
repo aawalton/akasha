@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const destinationsLangCollectiblesJf = {
   id: "01a06269-29f4-7c37-acc6-fc4631895396",
   pageTypeSlug: "module",
+  type: "module",
   slug: "destinations-lang-collectibles-jf",
   definition: "the collectible names in Japanese with English fallbacks",
   code: "ts",

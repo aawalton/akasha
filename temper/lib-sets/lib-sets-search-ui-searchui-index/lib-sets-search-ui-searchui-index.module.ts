@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libSetsSearchUiSearchuiIndex = {
   id: "01a0623e-53a2-77a4-8fe3-d86ebd012700",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lib-sets-search-ui-searchui-index",
   definition: "the ordered side-effect imports of the search window's modules",
   code: "ts",

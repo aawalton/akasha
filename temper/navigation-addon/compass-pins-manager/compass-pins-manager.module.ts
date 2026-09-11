@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const compassPinsManager = {
   id: "01a06269-28b1-7893-a16b-8a5578a1dd0c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "compass-pins-manager",
   definition: "the control pool that places each compass pin by angle and distance",
   code: "ts",

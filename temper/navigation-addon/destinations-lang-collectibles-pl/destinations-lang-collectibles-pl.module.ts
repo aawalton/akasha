@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const destinationsLangCollectiblesPl = {
   id: "01a06269-29f6-7a15-b7bc-cff435be22c2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "destinations-lang-collectibles-pl",
   definition: "the collectible names in Polish",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libSetsGenBlacklistedSetIds = {
   id: "01a061d7-7bcc-7252-a57f-0353cca7caff",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lib-sets-gen-blacklisted-set-ids",
   definition: "the eleven set ids marked blacklisted",
   code: "ts",

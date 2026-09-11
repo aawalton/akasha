@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libSetsDropTipInstallTooltips = {
   id: "01a061d6-3e42-767a-88d0-cffa37314909",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lib-sets-drop-tip-install-tooltips",
   definition:
     "the eight drop mechanic tooltip tables placed on the library under their language codes",

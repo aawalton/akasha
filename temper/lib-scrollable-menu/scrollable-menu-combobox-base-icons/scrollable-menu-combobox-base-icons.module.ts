@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scrollableMenuComboboxBaseIcons = {
   id: "01a06275-c445-7464-a21b-ee4eb4f0e7a3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scrollable-menu-combobox-base-icons",
   definition: "the population of a row's multi-icon control from the entry icon data",
   code: "ts",

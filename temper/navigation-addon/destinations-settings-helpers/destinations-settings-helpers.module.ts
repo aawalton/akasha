@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const destinationsSettingsHelpers = {
   id: "01a06269-2930-7424-b012-d5205fe2be52",
   pageTypeSlug: "module",
+  type: "module",
   slug: "destinations-settings-helpers",
   definition: "what the destination settings menus share: redraws, colours and tooltips",
   code: "ts",

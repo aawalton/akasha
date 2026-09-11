@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libSetsCoreApiArmorWeaponEquipClass = {
   id: "01a06231-8f1d-717e-ad62-dd5ee6472601",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lib-sets-core-api-armor-weapon-equip-class",
   definition:
     "a set's armor, weapon and equip types, its worn piece count, its bonuses and its name",

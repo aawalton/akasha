@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const lorebooksMapPinFilters = {
   id: "01a06194-be43-790e-921d-c4ff3ff988e5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lorebooks-map-pin-filters",
   definition: "the map filter checkboxes this add-on adds",
   code: "ts",

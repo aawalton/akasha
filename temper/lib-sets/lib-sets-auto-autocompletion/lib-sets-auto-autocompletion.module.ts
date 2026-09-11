@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libSetsAutoAutocompletion = {
   id: "01a0623c-2df7-7942-a655-e30b89d4db2b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lib-sets-auto-autocompletion",
   definition: "the set-name completions offered under the set-preview slash commands",
   code: "ts",

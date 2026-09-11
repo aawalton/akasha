@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const lorebooksLogger = {
   id: "01a06194-be42-7e85-b11d-e09499912e98",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lorebooks-logger",
   definition: "writing the add-on's own debug lines where a log viewer can read them",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scrollableMenuComboboxBaseSort = {
   id: "01a06275-c446-79bc-8539-5dfc32e93fe4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scrollable-menu-combobox-base-sort",
   definition:
     "the sorting and filtering behaviour a menu falls back to when no option overrides it",

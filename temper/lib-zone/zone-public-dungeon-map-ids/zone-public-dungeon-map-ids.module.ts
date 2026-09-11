@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const zonePublicDungeonMapIds = {
   id: "01a061e7-932b-7225-832d-ef81c5e7cac2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "zone-public-dungeon-map-ids",
   definition: "which maps the game treats as a public dungeon",
   code: "ts",

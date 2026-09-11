@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scrollableMenuUtilHiddenContext = {
   id: "01a06275-c449-7aad-8c3a-da995ae989c7",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scrollable-menu-util-hidden-context",
   definition: "the part of the mouse-up decision that runs while a context menu is open",
   code: "ts",

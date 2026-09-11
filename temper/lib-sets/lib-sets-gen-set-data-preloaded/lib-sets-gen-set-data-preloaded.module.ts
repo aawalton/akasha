@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libSetsGenSetDataPreloaded = {
   id: "01a061dd-1562-75b4-97b2-c821be9c1a17",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lib-sets-gen-set-data-preloaded",
   definition:
     "The whole LibSets SET_DATA_PRELOADED record gathered from the parts of its thirteen keys.",

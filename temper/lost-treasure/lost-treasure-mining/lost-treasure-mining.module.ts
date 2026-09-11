@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const lostTreasureMining = {
   id: "01a06141-8008-74f7-85b8-26c2c27317b9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lost-treasure-mining",
   definition: "gathering dig sites the add-on does not know yet",
   code: "ts",

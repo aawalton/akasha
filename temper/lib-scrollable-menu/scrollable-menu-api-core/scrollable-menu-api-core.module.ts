@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scrollableMenuApiCore = {
   id: "01a06275-c442-78e9-91db-fd3e3a781bd5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scrollable-menu-api-core",
   definition: "the globals that add a scrollable dropdown to a combobox and add one menu entry",
   code: "ts",

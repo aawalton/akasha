@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const destinationsLangSettingsJf00 = {
   id: "01a06269-2a1a-739e-8603-b2bb0a3acbac",
   pageTypeSlug: "module",
+  type: "module",
   slug: "destinations-lang-settings-jf-00",
   definition: "one run of the destinations settings strings in Japanese with English fallbacks",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const mapPinsUnknownPoi = {
   id: "01a06269-2b0b-7446-a5b0-f81ca022e64d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "map-pins-unknown-poi",
   definition: "the points of interest by zone the map can show as unknown, joined from its runs",
   code: "ts",

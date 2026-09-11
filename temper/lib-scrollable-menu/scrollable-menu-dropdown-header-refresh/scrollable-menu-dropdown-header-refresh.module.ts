@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scrollableMenuDropdownHeaderRefresh = {
   id: "01a06275-c448-7d4f-b5d1-337777f5d2dd",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scrollable-menu-dropdown-header-refresh",
   definition: "the refresh that reads options onto each header child and re-runs the anchors",
   code: "ts",

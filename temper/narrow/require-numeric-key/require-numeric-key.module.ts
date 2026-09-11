@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const requireNumericKey = {
   id: "01a060b6-99a2-762f-9fd9-585495c025f4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "require-numeric-key",
   definition: "a Lua table key read back as the number the key was written from",
   code: "ts",

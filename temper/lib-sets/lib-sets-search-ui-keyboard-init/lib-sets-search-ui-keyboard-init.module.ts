@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libSetsSearchUiKeyboardInit = {
   id: "01a0623e-53a1-77aa-a5bb-c695082dd24d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lib-sets-search-ui-keyboard-init",
   definition: "what a fresh keyboard search window object is built out of",
   code: "ts",

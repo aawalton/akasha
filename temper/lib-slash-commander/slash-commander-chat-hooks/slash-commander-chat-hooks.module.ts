@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const slashCommanderChatHooks = {
   id: "01a06066-8402-78aa-b672-71043d11a094",
   pageTypeSlug: "module",
+  type: "module",
   slug: "slash-commander-chat-hooks",
   definition: "the game's chat entry hooked so a command's own completions are offered",
   code: "ts",

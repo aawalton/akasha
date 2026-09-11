@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const scrollableMenuSubmenuClass = {
   id: "01a06275-c449-78c6-b82b-ac1795e8c9dd",
   pageTypeSlug: "module",
+  type: "module",
   slug: "scrollable-menu-submenu-class",
   definition: "the submenu object and the proxy that reads through to its parent combobox",
   code: "ts",

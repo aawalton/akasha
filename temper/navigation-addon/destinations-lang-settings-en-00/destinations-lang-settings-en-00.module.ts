@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const destinationsLangSettingsEn00 = {
   id: "01a06269-2a01-7238-9e0a-c6339698f974",
   pageTypeSlug: "module",
+  type: "module",
   slug: "destinations-lang-settings-en-00",
   definition: "one run of the destinations settings strings in English",
   code: "ts",

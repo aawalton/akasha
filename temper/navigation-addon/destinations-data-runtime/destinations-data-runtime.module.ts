@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const destinationsDataRuntime = {
   id: "01a06269-28bc-7c84-b905-fdccdada2f0e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "destinations-data-runtime",
   definition: "the game lookups the destination tables call while they load",
   code: "ts",

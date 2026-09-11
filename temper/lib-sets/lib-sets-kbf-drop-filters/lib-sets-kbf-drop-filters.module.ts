@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libSetsKbfDropFilters = {
   id: "01a0623e-53a1-7e95-9628-40837ad8c6e6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lib-sets-kbf-drop-filters",
   definition: "the dropdowns naming where a set drops",
   code: "ts",

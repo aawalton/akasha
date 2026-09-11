@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libSetsTipHooks = {
   id: "01a0623c-2df7-7f7d-84bd-015a8c088157",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lib-sets-tip-hooks",
   definition:
     "the wrapping of the game's own tooltip handlers and of other add-ons' tooltip controls",

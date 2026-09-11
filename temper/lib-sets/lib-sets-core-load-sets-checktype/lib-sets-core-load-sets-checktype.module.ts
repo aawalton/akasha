@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const libSetsCoreLoadSetsChecktype = {
   id: "01a061fc-ceec-7e93-b553-13609258078f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lib-sets-core-load-sets-checktype",
   definition: "sorting each set into its type table and filing where it drops",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "akasha/code-system/modules/module.page-type.types.t
 export const destinationsSharedData04 = {
   id: "01a06269-29e3-7b4a-b06f-806ef4694141",
   pageTypeSlug: "module",
+  type: "module",
   slug: "destinations-shared-data-04",
   definition: "one run of the shared achievement rows by zone, and the stables, docks and portals",
   code: "ts",
