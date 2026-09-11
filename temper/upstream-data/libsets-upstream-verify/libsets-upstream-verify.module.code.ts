@@ -38,7 +38,7 @@ export function verifyUpstream(probe: UpstreamProbe, pin: UpstreamPin): Upstream
   if (probe.bundleMarkerHits > 0) {
     return reject(
       `this tree is our own compiled output, not upstream — found ${probe.bundleMarkerHits} Lua compiler bundle markers (____exports/____lualib). ` +
-        `The live AddOns/${pin.addonSubdir} folder and addons/dist/${pin.addonSubdir} are both this port's build, which installs OVER upstream. Neither can witness what upstream does.`
+        `The live AddOns/${pin.addonSubdir} folder and addon-build/dist/${pin.addonSubdir} are both this port's build, which installs OVER upstream. Neither can witness what upstream does.`
     )
   }
 

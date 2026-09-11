@@ -12,7 +12,7 @@ const DECLARATION_TYPE = "type-declaration"
 
 const CODE_SUFFIX = ".module.code.ts"
 
-const ADDONS_REL_ROOT = "temper/addons"
+export const ADDON_BUILD_REL_ROOT = "temper/addon-build"
 
 const ROOT_BASE_NAME = "tsconfig.base.json"
 
@@ -167,7 +167,7 @@ export type CompilerConfigAsked = {
 }
 
 export function compilerConfigBody(asked: CompilerConfigAsked): string {
-  const addonsRoot = join(asked.repoRoot, ADDONS_REL_ROOT)
+  const buildRoot = join(asked.repoRoot, ADDON_BUILD_REL_ROOT)
   const body = {
     extends: join(asked.repoRoot, ROOT_BASE_NAME),
     compilerOptions: {
@@ -178,7 +178,7 @@ export function compilerConfigBody(asked: CompilerConfigAsked): string {
       noEmit: true,
       isolatedModules: true,
       rootDir: asked.repoRoot,
-      outDir: join(addonsRoot, "dist", asked.canonicalName),
+      outDir: join(buildRoot, "dist", asked.canonicalName),
       target: "ESNext",
       strict: true,
       types: [],
@@ -217,7 +217,7 @@ export async function compilerConfigPathFor(
       `compilerConfigPathFor: the page in ${addonDir} names "${page.bundleEntry}" as the bundle entry, and ${entryPath} is not there`
     )
   }
-  const heldAt = join(repoRoot, ADDONS_REL_ROOT, HELD_AT)
+  const heldAt = join(repoRoot, ADDON_BUILD_REL_ROOT, HELD_AT)
   mkdirSync(heldAt, { recursive: true })
   const path = join(heldAt, `${canonicalName}.${TSCONFIG_NAME}`)
   const reachedDirs = reachedAddonDirs(repoRoot, addonDir)

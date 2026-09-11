@@ -1,11 +1,9 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join, relative, sep } from "node:path"
+import { ADDON_BUILD_REL_ROOT } from "akasha/temper/addon-build/addon-compiler-config/addon-compiler-config.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
-import {
-  ADDONS_REL_ROOT,
-  listAllAddons,
-} from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
+import { listAllAddons } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import {
   type AddonDependencies,
   resolveDistributableSet,
@@ -71,7 +69,7 @@ function packedInto(archive: Zippable, folderName: string, distDir: string): num
 }
 
 export function packedBundle(root: string, outDir: string): Packed {
-  const addonsRoot = join(root, ADDONS_REL_ROOT)
+  const buildRoot = join(root, ADDON_BUILD_REL_ROOT)
   const roster = listAllAddons({ repoRoot: root })
   if (roster.length === 0) {
     return refusing(
@@ -93,7 +91,7 @@ export function packedBundle(root: string, outDir: string): Packed {
   }
 
   const absent = included.filter((name) => {
-    const distDir = join(addonsRoot, DIST_UNDER, name)
+    const distDir = join(buildRoot, DIST_UNDER, name)
     return !existsSync(distDir) || filesUnder(distDir).length === 0
   })
   if (absent.length > 0) {
@@ -107,11 +105,11 @@ export function packedBundle(root: string, outDir: string): Packed {
   const dirByName = new Map(roster.map((one) => [one.canonicalName, one.dir]))
   try {
     for (const name of included) {
-      packed += packedInto(archive, name, join(addonsRoot, DIST_UNDER, name))
+      packed += packedInto(archive, name, join(buildRoot, DIST_UNDER, name))
       const addonDir = dirByName.get(name)
       if (addonDir === undefined) continue
       for (const sibling of readSiblingAddonNames(root, addonDir)) {
-        packed += packedInto(archive, sibling, siblingDistDir(addonsRoot, sibling))
+        packed += packedInto(archive, sibling, siblingDistDir(buildRoot, sibling))
       }
     }
   } catch (thrown) {

@@ -20,9 +20,5 @@ export const addonDistBundles = {
       invariantKind: "constraint",
       statement: "The refusal names the build command that would fill the population.",
     },
-    {
-      invariantKind: "gap",
-      statement: "The build output this names is a path the migration has yet to move.",
-    },
   ],
 } as const satisfies Module

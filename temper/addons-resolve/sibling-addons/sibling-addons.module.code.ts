@@ -66,7 +66,7 @@ export function siblingSourceDir(addonDir: string, siblingName: string): string 
   return join(addonDir, SIBLING_ADDONS_DIR, siblingName)
 }
 
-export function siblingDistDir(addonsRoot: string, siblingName: string): string {
+export function siblingDistDir(buildRoot: string, siblingName: string): string {
   assertSafeSiblingName(siblingName)
-  return join(addonsRoot, "dist", siblingName)
+  return join(buildRoot, "dist", siblingName)
 }

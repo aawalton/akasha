@@ -215,7 +215,7 @@ test("nothing is emitted by the compiler here", async () => {
   alphaIn(root)
   const said = await temperAddonTypecheck(["--code-root", root])
   expect(said.code).toBe(0)
-  const built = join(root, "temper/addons/dist/AlphaAddon")
+  const built = join(root, "temper/addon-build/dist/AlphaAddon")
   const left = existsSync(built) ? readdirSync(built) : []
   expect(left).toEqual([])
 })

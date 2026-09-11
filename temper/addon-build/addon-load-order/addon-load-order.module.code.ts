@@ -3,6 +3,7 @@ import { join } from "node:path"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { numberAt, textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import {
+  ADDON_BUILD_REL_ROOT,
   compilerConfigPathFor,
   TSCONFIG_NAME,
 } from "akasha/temper/addon-build/addon-compiler-config/addon-compiler-config.module.code.ts"
@@ -13,8 +14,6 @@ import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 export const BUILD_ID_FILE = "build-id.lua"
-
-export const ADDONS_REL_ROOT = "temper/addons"
 
 export const DIST_UNDER = "dist"
 
@@ -237,9 +236,14 @@ export async function writeLoadOrder(
   addonDir: string,
   canonicalName: string
 ): Promise<LoadOrderWritten> {
-  const distDir = join(root, ADDONS_REL_ROOT, DIST_UNDER, canonicalName)
+  const distDir = join(root, ADDON_BUILD_REL_ROOT, DIST_UNDER, canonicalName)
   await compilerConfigPathFor(root, addonDir, canonicalName)
-  const generated = join(root, ADDONS_REL_ROOT, CONFIGS_UNDER, `${canonicalName}.${TSCONFIG_NAME}`)
+  const generated = join(
+    root,
+    ADDON_BUILD_REL_ROOT,
+    CONFIGS_UNDER,
+    `${canonicalName}.${TSCONFIG_NAME}`
+  )
   const bundle = readLuaBundle(addonDir, generated)
   if (bundle === null) {
     throw new Error(

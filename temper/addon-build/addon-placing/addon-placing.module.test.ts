@@ -55,7 +55,7 @@ function fixtureFor(
     )
   }
 
-  const built = join(root, "temper/addons/dist", PROBE)
+  const built = join(root, "temper/addon-build/dist", PROBE)
   mkdirSync(built, { recursive: true })
   writeFileSync(join(built, MARKER), `TemperBuildIds["${PROBE}"] = "abcd1234"\n`)
   writeFileSync(
@@ -139,14 +139,14 @@ test("a folder nothing can read refuses rather than being replaced", () => {
 
 test("an addon with no build refuses", () => {
   const at = fixtureFor()
-  rmSync(join(at.root, "temper/addons/dist", PROBE), { recursive: true, force: true })
+  rmSync(join(at.root, "temper/addon-build/dist", PROBE), { recursive: true, force: true })
   const said = placing(at)
   expect(said.refusals.join("\n")).toContain("has no build at")
 })
 
 test("a symbolic link in the build is verified rather than skipped", () => {
   const at = fixtureFor()
-  const built = join(at.root, "temper/addons/dist", PROBE)
+  const built = join(at.root, "temper/addon-build/dist", PROBE)
   writeFileSync(join(built, "real.lua"), "-- real\n")
   symlinkSync(join(built, "real.lua"), join(built, "linked.lua"))
   const said = placing(at)
@@ -168,7 +168,7 @@ test("a file the host keeps is carried across a replacement", () => {
 
 test("a build holding a link to nothing is refused rather than reported placed", () => {
   const at = fixtureFor()
-  const built = join(at.root, "temper/addons/dist", PROBE)
+  const built = join(at.root, "temper/addon-build/dist", PROBE)
   symlinkSync(join(built, "was-never-written.lua"), join(built, "dangling.lua"))
   const said = placing(at)
   expect(said.refusals.join("\n")).toContain("does not match what was built")

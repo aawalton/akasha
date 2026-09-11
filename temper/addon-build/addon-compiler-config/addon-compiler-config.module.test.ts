@@ -63,7 +63,7 @@ test("the written settings name the entry, the bundle and the repository root", 
   expect(body).toMatchObject({
     compilerOptions: {
       rootDir: "/repo",
-      outDir: "/repo/temper/addons/dist/TemperTableFunctions",
+      outDir: "/repo/temper/addon-build/dist/TemperTableFunctions",
       noEmit: true,
     },
     luaCompiler: {
@@ -93,7 +93,7 @@ test("an addon folder holding no tsconfig is built from settings written into th
   const { root, dir } = addonFolderNaming("table-functions-entry")
   const path = await compilerConfigPathFor(root, dir, "TemperTableFunctions")
   expect(path).toBe(
-    join(root, "temper/addons/dist/.lua-compiler/TemperTableFunctions.tsconfig.json")
+    join(root, "temper/addon-build/dist/.lua-compiler/TemperTableFunctions.tsconfig.json")
   )
 })
 

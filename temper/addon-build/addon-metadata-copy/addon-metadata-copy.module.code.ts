@@ -1,7 +1,7 @@
 import { cpSync, existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { ADDON_BUILD_REL_ROOT } from "akasha/temper/addon-build/addon-compiler-config/addon-compiler-config.module.code.ts"
 import {
-  ADDONS_REL_ROOT,
   DIST_UNDER,
   writeLoadOrder,
 } from "akasha/temper/addon-build/addon-load-order/addon-load-order.module.code.ts"
@@ -46,8 +46,8 @@ export async function copyAddonMetadata(
   addonDir: string,
   canonicalName: string
 ): Promise<MetadataCopied> {
-  const addonsRoot = join(root, ADDONS_REL_ROOT)
-  const distDir = join(addonsRoot, DIST_UNDER, canonicalName)
+  const buildRoot = join(root, ADDON_BUILD_REL_ROOT)
+  const distDir = join(buildRoot, DIST_UNDER, canonicalName)
 
   const order = await writeLoadOrder(root, addonDir, canonicalName)
 
@@ -100,7 +100,7 @@ export async function copyAddonMetadata(
   const carried = siblingManifestsIn(root, addonDir)
   for (const name of siblingNames) {
     const from = siblingSourceDir(addonDir, name)
-    const to = siblingDistDir(addonsRoot, name)
+    const to = siblingDistDir(buildRoot, name)
     const stated = carried.get(name)
     if (existsSync(from)) {
       cpSync(from, to, { recursive: true })

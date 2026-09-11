@@ -1,6 +1,7 @@
 import { existsSync, rmSync, statSync } from "node:fs"
 import { join } from "node:path"
 import {
+  ADDON_BUILD_REL_ROOT,
   compilerConfigPathFor,
   TSCONFIG_NAME,
 } from "akasha/temper/addon-build/addon-compiler-config/addon-compiler-config.module.code.ts"
@@ -10,10 +11,7 @@ import {
   compilerEntry,
   compilerRoot,
 } from "akasha/temper/addon-build/lua-build-command/lua-build-command.module.code.ts"
-import {
-  ADDONS_REL_ROOT,
-  listAllAddons,
-} from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
+import { listAllAddons } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import {
   readSiblingAddonNames,
   siblingDistDir,
@@ -40,14 +38,20 @@ function refusing(reason: string): Compiled {
 }
 
 export function bundlePathFor(root: string, canonicalName: string): string {
-  return join(root, ADDONS_REL_ROOT, DIST_UNDER, canonicalName, `${canonicalName}${BUNDLE_SUFFIX}`)
+  return join(
+    root,
+    ADDON_BUILD_REL_ROOT,
+    DIST_UNDER,
+    canonicalName,
+    `${canonicalName}${BUNDLE_SUFFIX}`
+  )
 }
 
 function emptied(root: string, dir: string, canonicalName: string): undefined {
-  const addonsRoot = join(root, ADDONS_REL_ROOT)
+  const buildRoot = join(root, ADDON_BUILD_REL_ROOT)
   for (const stale of [
-    join(addonsRoot, DIST_UNDER, canonicalName),
-    ...readSiblingAddonNames(root, dir).map((name) => siblingDistDir(addonsRoot, name)),
+    join(buildRoot, DIST_UNDER, canonicalName),
+    ...readSiblingAddonNames(root, dir).map((name) => siblingDistDir(buildRoot, name)),
   ]) {
     rmSync(stale, { recursive: true, force: true })
   }

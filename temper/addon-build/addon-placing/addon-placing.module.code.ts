@@ -1,13 +1,11 @@
 import { createHash } from "node:crypto"
 import { cpSync, existsSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join, relative } from "node:path"
+import { ADDON_BUILD_REL_ROOT } from "akasha/temper/addon-build/addon-compiler-config/addon-compiler-config.module.code.ts"
 import { CONSOLIDATION_MIGRATIONS } from "akasha/temper/addon-build/consolidation-migrations/consolidation-migrations.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
-import {
-  ADDONS_REL_ROOT,
-  listAllAddons,
-} from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
+import { listAllAddons } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import {
   collectFloorsFor,
   decideFolderOwnership,
@@ -259,8 +257,8 @@ function migratedIn(canonicalName: string, sourceDir: string, vars: string): rea
 }
 
 export function placedAddon(root: string, sourceDir: string, canonicalName: string): Placed {
-  const addonsRoot = join(root, ADDONS_REL_ROOT)
-  const built = join(addonsRoot, DIST, canonicalName)
+  const buildRoot = join(root, ADDON_BUILD_REL_ROOT)
+  const built = join(buildRoot, DIST, canonicalName)
   if (!existsSync(built)) {
     return { lines: [], refusals: [`${canonicalName} has no build at ${built}`] }
   }
@@ -284,7 +282,7 @@ export function placedAddon(root: string, sourceDir: string, canonicalName: stri
   if (main.skipped) return { lines: report, refusals: [] }
 
   for (const sibling of readSiblingAddonNames(root, sourceDir)) {
-    const siblingBuilt = siblingDistDir(addonsRoot, sibling)
+    const siblingBuilt = siblingDistDir(buildRoot, sibling)
     if (!existsSync(siblingBuilt)) {
       return {
         lines: report,
