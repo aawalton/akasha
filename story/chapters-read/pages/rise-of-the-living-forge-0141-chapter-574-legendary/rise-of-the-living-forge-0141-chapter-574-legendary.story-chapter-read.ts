@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const riseOfTheLivingForge0141Chapter574Legendary = {
   id: "01a06730-4e11-7b8b-916d-bd367c728ba7",

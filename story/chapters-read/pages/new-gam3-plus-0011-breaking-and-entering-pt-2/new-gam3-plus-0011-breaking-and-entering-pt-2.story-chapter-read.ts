@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const newGam3Plus0011BreakingAndEnteringPt2 = {
   id: "01a06730-4dcf-7ae9-822c-68759c3213fe",

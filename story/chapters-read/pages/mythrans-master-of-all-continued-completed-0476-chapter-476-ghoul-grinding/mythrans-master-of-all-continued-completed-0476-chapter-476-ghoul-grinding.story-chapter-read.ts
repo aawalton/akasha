@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const mythransMasterOfAllContinuedCompleted0476Chapter476GhoulGrinding = {
   id: "01a0672c-ecd0-7000-bad7-c22a3a46d840",

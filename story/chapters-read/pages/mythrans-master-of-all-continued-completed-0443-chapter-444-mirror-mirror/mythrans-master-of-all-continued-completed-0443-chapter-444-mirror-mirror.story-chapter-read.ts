@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const mythransMasterOfAllContinuedCompleted0443Chapter444MirrorMirror = {
   id: "01a0672c-ecb4-7000-b443-ed39f1292f0a",

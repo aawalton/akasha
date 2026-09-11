@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod0147Chapter106VisionsFromTheVoidIi = {
   id: "01a06731-ad63-7009-afd3-06f4adf07dc6",

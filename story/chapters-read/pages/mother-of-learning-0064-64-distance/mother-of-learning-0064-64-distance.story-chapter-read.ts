@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const motherOfLearning006464Distance = {
   id: "01a06731-b082-7000-889a-4d2f1ea46b2b",

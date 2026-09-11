@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const delve0250250Debut = {
   id: "01a06731-afd3-7000-a3ca-8f1d93f7cc35",

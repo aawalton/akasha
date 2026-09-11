@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const millennialMageASliceOfLifeProgressionFantasy0010Chapter71IMGoingToBecomeAnArchon = {
   id: "01a06731-ad6e-7001-986f-7e9d4d22c4de",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const forgeOfDestiny0083Threads65Foreshock2 = {
   id: "01a0672c-eb26-7002-8be4-3e5b8261f574",

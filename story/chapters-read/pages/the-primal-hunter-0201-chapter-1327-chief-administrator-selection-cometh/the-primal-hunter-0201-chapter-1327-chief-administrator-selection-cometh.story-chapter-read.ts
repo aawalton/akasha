@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const thePrimalHunter0201Chapter1327ChiefAdministratorSelectionCometh = {
   id: "01a06730-4e31-7710-9958-e2da525115ab",

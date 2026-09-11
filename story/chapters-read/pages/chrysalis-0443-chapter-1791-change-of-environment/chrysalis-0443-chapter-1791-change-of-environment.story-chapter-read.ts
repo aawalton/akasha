@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const chrysalis0443Chapter1791ChangeOfEnvironment = {
   id: "01a0672c-eb6a-7016-86ce-8d2a9ecd3067",

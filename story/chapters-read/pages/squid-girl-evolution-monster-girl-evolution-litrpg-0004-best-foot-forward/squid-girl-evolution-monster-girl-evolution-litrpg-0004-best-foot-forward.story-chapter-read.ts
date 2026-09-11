@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0004BestFootForward = {
   id: "01a06730-4fb6-74e7-a57b-4e51f151a0fd",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const sylASlimeMonsterEvolutionLitrpg0110Chapter408TaintedDepths = {
   id: "01a06730-4e24-7713-9dc9-cf7470d4b610",

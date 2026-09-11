@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const defianceOfTheFall0028Chapter1352Mousetrap = {
   id: "01a06591-3c6e-7e60-8b50-ac49a0aa57bc",

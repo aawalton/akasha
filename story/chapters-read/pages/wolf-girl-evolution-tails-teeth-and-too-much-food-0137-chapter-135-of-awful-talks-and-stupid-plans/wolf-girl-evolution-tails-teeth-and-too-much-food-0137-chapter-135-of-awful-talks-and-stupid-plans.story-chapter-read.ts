@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0137Chapter135OfAwfulTalksAndStupidPlans = {
   id: "01a06730-5605-7dfc-9e4e-cdac632c2ac7",

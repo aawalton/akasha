@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const breakerOfHorizons009090DeEscalation = {
   id: "01a06731-adac-7011-a8c8-7d3b6857d849",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const delverDungeonDivingAndMagicLitrpg0014Chapter14TheBeautyOfAlchemy = {
   id: "01a06731-af0f-7005-acf8-261a68c0a34c",

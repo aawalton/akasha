@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const superSupportive0053FiftyThreeTheAuriad = {
   id: "01a06730-4e12-7ce4-aa2c-947c5bf374ad",

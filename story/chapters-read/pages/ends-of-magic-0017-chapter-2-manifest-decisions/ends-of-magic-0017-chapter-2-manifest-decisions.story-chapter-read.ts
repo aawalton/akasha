@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const endsOfMagic0017Chapter2ManifestDecisions = {
   id: "01a06731-adca-7000-abfb-81781641cea5",

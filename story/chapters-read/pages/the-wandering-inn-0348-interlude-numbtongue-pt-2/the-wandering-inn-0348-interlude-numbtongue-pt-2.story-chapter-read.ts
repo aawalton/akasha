@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const theWanderingInn0348InterludeNumbtonguePt2 = {
   id: "01a0659b-0fe6-76de-a28a-75c3d7dc1b31",

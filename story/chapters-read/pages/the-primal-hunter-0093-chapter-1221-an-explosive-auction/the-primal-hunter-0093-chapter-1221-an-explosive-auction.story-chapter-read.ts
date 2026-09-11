@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const thePrimalHunter0093Chapter1221AnExplosiveAuction = {
   id: "01a06730-4dfa-7a23-9486-e3589bf69ecf",

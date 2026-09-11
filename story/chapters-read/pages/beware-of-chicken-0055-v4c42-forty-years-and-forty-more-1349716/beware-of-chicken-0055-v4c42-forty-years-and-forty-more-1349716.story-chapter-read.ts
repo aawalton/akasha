@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const bewareOfChicken0055V4c42FortyYearsAndFortyMore1349716 = {
   id: "01a08396-b9a3-7cab-a3fb-48f2443e0265",

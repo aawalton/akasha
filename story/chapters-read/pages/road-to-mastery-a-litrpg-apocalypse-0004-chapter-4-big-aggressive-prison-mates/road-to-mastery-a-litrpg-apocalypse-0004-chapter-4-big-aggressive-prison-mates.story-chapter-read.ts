@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const roadToMasteryALitrpgApocalypse0004Chapter4BigAggressivePrisonMates = {
   id: "01a0672f-8c2c-78b9-9a3c-39269a51a3c1",

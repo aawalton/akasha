@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const melodyOfMana0030Chapter25BorderCrossings = {
   id: "01a0672c-ed5c-7008-94ae-80187a8b32b5",

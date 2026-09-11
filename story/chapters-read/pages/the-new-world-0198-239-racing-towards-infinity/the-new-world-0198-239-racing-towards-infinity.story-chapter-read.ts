@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0198239RacingTowardsInfinity = {
   id: "01a06730-4e96-7425-af1e-dfe1b294ef2c",

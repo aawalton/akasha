@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0353393TheWeightOfWorlds = {
   id: "01a06730-4ed8-7de1-85cc-3b435af7e77c",

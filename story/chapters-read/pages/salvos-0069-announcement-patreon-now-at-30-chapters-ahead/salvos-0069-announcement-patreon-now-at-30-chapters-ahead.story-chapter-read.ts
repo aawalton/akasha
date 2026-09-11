@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const salvos0069AnnouncementPatreonNowAt30ChaptersAhead = {
   id: "01a06730-4de1-7dd4-b0f3-0f4498649997",

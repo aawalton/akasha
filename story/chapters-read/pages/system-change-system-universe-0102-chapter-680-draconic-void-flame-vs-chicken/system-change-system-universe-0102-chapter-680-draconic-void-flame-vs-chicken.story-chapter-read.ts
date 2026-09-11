@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse0102Chapter680DraconicVoidFlameVsChicken = {
   id: "01a06730-4fbd-7d53-8d93-9b50a54c68e3",

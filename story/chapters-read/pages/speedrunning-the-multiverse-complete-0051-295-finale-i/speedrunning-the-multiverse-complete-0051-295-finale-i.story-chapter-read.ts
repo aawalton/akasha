@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const speedrunningTheMultiverseComplete0051295FinaleI = {
   id: "01a06730-4de3-7b1a-a010-ee55939c5f2c",

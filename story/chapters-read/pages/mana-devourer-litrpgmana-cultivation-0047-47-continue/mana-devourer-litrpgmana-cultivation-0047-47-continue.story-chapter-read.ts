@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const manaDevourerLitrpgmanaCultivation004747Continue = {
   id: "01a06731-ae6b-7000-9239-a21350f6ef32",

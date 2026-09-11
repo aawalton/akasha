@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const strayCatStrutStubbingNeverLol0674ChapterFiftyTwoTermsAndConditions = {
   id: "01a06730-4ed4-7e29-afac-b560d876c429",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const shapeshifterANonHumanLitrpg0037Chapter32TheFacelessHunters = {
   id: "01a06730-4e0a-726c-983c-a17aa050812c",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const allTheSkillsADeckbuildingLitrpg0032B6Ch25SkillGrind1 = {
   id: "01a06585-ef18-7733-827c-16e2f7735a8d",

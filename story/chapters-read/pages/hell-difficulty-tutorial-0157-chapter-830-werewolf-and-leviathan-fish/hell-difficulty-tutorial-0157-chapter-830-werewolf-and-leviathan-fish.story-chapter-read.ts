@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const hellDifficultyTutorial0157Chapter830WerewolfAndLeviathanFish = {
   id: "01a06731-ad8a-7000-9efc-b43a399386c8",

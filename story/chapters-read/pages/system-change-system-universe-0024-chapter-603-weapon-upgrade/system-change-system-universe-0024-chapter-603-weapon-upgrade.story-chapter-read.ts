@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse0024Chapter603WeaponUpgrade = {
   id: "01a06730-4fb9-7ac7-b5fa-371680370ff3",

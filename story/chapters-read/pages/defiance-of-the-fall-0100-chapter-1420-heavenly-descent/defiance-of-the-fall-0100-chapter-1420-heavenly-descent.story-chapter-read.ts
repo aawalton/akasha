@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const defianceOfTheFall0100Chapter1420HeavenlyDescent = {
   id: "01a06731-ada2-7000-ab17-b4791a8e74cf",

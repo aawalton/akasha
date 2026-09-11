@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const chrysalis0331Chapter1680BorderEscalation = {
   id: "01a0672c-eb66-7018-ad4c-a87d2d3d7d95",

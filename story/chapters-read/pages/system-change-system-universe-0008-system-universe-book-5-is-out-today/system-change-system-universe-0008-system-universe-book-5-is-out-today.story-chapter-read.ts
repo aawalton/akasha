@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse0008SystemUniverseBook5IsOutToday = {
   id: "01a06730-4fb7-7742-ab8c-d5edf3be82c3",

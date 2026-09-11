@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const heWhoFightsWithMonsters0067Chapter1000CosmicTyrantWarlordCultLeader = {
   id: "01a06731-ade9-7001-aaac-bce55bdc8155",

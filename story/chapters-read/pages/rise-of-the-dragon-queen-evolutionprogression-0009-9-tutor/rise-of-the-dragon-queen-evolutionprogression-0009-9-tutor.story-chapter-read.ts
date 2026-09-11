@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const riseOfTheDragonQueenEvolutionprogression00099Tutor = {
   id: "01a06730-4e06-7b5f-bf5f-fe573163125c",

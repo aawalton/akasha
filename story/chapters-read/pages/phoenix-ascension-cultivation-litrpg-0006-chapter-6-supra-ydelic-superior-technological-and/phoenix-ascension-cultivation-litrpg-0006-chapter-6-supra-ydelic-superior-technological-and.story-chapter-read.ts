@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const phoenixAscensionCultivationLitrpg0006Chapter6SupraYdelicSuperiorTechnologicalAnd = {
   id: "01a06730-4de2-7375-9291-844a220dcd4d",

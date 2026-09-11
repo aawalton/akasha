@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const crimsonEternalAnImmortalDeathMageLitrpg0133B2MoreStoryArtLinkIfTheArtBreaks = {
   id: "01a0672c-ec73-7013-b082-e6394addc903",

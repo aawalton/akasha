@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const hellHorizonHealer0016Chapter16SkillMerge = {
   id: "01a06731-ae7c-7009-9a72-2c9f997f7b8a",

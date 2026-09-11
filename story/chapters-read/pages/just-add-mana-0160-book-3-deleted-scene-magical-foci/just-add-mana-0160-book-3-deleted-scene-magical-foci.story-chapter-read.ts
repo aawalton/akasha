@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const justAddMana0160Book3DeletedSceneMagicalFoci = {
   id: "01a06731-ae68-7001-98db-61fc94d9e411",

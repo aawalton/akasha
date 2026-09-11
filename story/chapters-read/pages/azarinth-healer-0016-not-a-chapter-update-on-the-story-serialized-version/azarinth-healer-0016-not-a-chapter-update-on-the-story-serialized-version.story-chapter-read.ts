@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const azarinthHealer0016NotAChapterUpdateOnTheStorySerializedVersion = {
   id: "01a06731-affa-7001-bc02-b6a6fb032b5c",

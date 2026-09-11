@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const theNewWorld001356GuardiansOfYawm = {
   id: "01a06730-4e35-7ee0-987a-7888f1c11a8f",

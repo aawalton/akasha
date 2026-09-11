@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const rockFallsEveryoneDies0011Chapter10AQuarryToSettle = {
   id: "01a0672f-8c2d-715e-a9e1-862d92ffbb8e",

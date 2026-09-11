@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const levelingUpTheWorld0035746LeaderlessNerosal = {
   id: "01a06731-ae8f-7008-ade2-1a5ba785ed6a",

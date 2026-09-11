@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const justAddMana0103IntermissionRealmwatcherSDiariesOldMagic = {
   id: "01a06731-ae16-7002-aa07-e52f4cd2a140",

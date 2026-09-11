@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const quietLifeOfTheMuteArchmageOpArchmageAcademy0012WeEnteredTheFrontPageOfRisingStars = {
   id: "01a06730-4dd7-78e4-aedd-86e5c7b6f152",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0487Chapter450ShrinePartyWithTheOozeOverlord = {
   id: "01a0672c-ec20-7001-a416-4e960a81fb19",

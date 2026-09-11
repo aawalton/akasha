@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0076Chapter76RuinsOfDalMohraSuspendedCity = {
   id: "01a0672c-eb5a-7000-8bf0-8aaff9cec54d",

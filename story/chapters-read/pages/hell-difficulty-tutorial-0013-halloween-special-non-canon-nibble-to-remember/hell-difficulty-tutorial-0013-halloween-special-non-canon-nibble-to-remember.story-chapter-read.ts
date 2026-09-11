@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const hellDifficultyTutorial0013HalloweenSpecialNonCanonNibbleToRemember = {
   id: "01a06731-ad6c-700b-a34c-1a36d4d806f7",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const savageDivinity0733Chapter725Volume40Tba = {
   id: "01a06730-4f60-7dd1-85bc-5ec7d03a15f0",

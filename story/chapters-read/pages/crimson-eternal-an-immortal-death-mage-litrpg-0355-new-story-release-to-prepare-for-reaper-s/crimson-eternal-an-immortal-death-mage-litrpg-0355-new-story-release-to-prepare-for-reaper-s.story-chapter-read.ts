@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const crimsonEternalAnImmortalDeathMageLitrpg0355NewStoryReleaseToPrepareForReaperS = {
   id: "01a0672c-ec7e-7007-b95b-9918ba238f7e",

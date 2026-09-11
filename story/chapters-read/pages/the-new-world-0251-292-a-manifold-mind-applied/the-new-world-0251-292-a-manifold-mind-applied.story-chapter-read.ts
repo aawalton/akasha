@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0251292AManifoldMindApplied = {
   id: "01a06730-4eb4-767a-a7b8-e1e3146d1ca4",

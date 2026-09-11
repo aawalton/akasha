@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const underworldBreadMageYuriProgfanSliceOfLife0027Chapter27ThisIsWhatYouHaveBeenWaiting = {
   id: "01a06730-4f13-7c96-9c81-df518840d6c0",

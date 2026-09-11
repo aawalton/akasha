@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const markOfTheFool0014Audiobook5Lauuuuuunch = {
   id: "01a06731-ae97-7006-b9ab-c6c84c8d01d8",

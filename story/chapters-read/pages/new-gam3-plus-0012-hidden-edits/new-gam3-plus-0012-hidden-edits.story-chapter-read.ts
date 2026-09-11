@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const newGam3Plus0012HiddenEdits = {
   id: "01a06730-4dd0-799a-b723-9842f4d2e69d",

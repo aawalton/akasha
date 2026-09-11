@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const superSupportive0169OneHundredSixtySevenNotion = {
   id: "01a06730-4ed1-7d04-8026-521b9ea6de38",

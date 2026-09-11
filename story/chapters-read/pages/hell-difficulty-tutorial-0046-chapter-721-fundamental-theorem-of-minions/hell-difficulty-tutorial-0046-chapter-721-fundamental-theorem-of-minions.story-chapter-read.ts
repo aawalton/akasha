@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const hellDifficultyTutorial0046Chapter721FundamentalTheoremOfMinions = {
   id: "01a06731-ad72-7004-98aa-15dba0d95d32",

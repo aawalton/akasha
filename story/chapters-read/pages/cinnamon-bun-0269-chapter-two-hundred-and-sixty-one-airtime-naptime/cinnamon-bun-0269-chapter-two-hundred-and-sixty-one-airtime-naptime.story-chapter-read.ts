@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const cinnamonBun0269ChapterTwoHundredAndSixtyOneAirtimeNaptime = {
   id: "01a0672c-eb16-7008-b2f5-9625ec76b9d2",

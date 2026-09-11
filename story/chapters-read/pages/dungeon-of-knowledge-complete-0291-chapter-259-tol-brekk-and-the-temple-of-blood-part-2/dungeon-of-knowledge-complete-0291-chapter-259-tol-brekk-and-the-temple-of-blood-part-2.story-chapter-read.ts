@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0291Chapter259TolBrekkAndTheTempleOfBloodPart2 = {
   id: "01a0672c-ebdd-7004-82d9-fba39c485973",

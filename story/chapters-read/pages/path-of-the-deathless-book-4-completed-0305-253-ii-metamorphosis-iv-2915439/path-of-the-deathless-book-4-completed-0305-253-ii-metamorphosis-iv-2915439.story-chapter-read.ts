@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const pathOfTheDeathlessBook4Completed0305253IiMetamorphosisIv2915439 = {
   id: "01a06730-4e4c-7a39-aebc-e42aad9fa15c",

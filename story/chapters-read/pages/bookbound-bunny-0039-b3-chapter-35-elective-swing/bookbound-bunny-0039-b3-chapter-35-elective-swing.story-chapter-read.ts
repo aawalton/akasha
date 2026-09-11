@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const bookboundBunny0039B3Chapter35ElectiveSwing = {
   id: "01a06731-b0cd-7004-9b1f-686d7c3500a7",

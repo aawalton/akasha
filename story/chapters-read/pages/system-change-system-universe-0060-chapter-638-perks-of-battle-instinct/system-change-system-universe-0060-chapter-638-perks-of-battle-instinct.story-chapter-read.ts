@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse0060Chapter638PerksOfBattleInstinct = {
   id: "01a06730-4fbb-7570-b337-2310b468fbf5",

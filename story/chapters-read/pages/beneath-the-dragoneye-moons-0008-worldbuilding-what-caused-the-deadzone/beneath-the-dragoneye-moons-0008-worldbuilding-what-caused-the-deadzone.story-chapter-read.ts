@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const beneathTheDragoneyeMoons0008WorldbuildingWhatCausedTheDeadzone = {
   id: "01a06731-af14-7000-a675-02c83d479fce",

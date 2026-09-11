@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const bunnyGirlEvolution0030218Lesson2AetherPulseVariations = {
   id: "01a06743-b397-7000-8fa0-53bae55cc5db",

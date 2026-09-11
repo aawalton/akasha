@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0123Chapter123TheMostTerrifyingShiny = {
   id: "01a06730-4fe2-70a9-bdbe-9b1f604cad44",

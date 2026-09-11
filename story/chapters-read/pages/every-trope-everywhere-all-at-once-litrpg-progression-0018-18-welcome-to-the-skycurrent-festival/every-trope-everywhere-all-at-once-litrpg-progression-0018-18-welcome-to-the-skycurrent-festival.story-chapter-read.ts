@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression001818WelcomeToTheSkycurrentFestival = {
   id: "01a06731-ae0d-7000-bcb8-bd1d24ffcd30",

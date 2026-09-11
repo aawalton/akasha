@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0186Chapter183HuntingUndeadInTheForest = {
   id: "01a0672c-ebb9-7000-953a-020a6ead3e60",

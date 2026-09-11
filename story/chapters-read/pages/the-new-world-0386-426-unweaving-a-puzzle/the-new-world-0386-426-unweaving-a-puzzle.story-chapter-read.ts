@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0386426UnweavingAPuzzle = {
   id: "01a06730-4ef0-70a5-a06c-7b54aad8f308",

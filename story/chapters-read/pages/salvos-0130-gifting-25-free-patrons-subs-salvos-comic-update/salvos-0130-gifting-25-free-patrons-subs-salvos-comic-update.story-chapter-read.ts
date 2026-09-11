@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const salvos0130Gifting25FreePatronsSubsSalvosComicUpdate = {
   id: "01a06730-4de9-72b4-8210-b7abacf6536b",

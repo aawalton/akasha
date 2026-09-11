@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const cinnamonBun0480ChapterFourHundredAndSixtySixOperationLevel = {
   id: "01a0672c-eb23-7000-8a17-a2059c653a19",

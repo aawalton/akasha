@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const theStubbornSkillGrinderInATimeLoopBook0002Chapter2UsingDeathAsAWhetstone = {
   id: "01a06730-4ed9-724e-aeda-71b9b42e6ca1",

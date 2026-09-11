@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const defianceOfTheFall0094ReadTheDefianceOfTheFallWebtoonNow = {
   id: "01a06731-ad9d-7000-939c-7807acf46aff",

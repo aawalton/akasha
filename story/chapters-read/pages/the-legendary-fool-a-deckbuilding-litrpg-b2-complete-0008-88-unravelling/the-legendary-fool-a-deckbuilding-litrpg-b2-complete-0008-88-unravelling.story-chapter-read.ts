@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const theLegendaryFoolADeckbuildingLitrpgB2Complete000888Unravelling = {
   id: "01a06730-4e2b-7f8e-ae66-82e1e74bc798",

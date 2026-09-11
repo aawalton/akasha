@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0498Chapter461MaalgarothVersusTheSandwyrm = {
   id: "01a0672c-ec22-7003-9518-01f4c069bfe8",

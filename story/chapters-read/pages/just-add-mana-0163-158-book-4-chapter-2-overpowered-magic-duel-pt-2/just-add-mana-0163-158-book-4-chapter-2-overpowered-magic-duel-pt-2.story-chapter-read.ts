@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const justAddMana0163158Book4Chapter2OverpoweredMagicDuelPt2 = {
   id: "01a06731-ae69-7000-b0dd-ffeb03decf9d",

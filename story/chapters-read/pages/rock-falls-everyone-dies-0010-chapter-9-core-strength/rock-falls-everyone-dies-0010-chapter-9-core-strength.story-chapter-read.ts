@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const rockFallsEveryoneDies0010Chapter9CoreStrength = {
   id: "01a0672f-8c2d-75ed-81cf-8880c3d42e90",

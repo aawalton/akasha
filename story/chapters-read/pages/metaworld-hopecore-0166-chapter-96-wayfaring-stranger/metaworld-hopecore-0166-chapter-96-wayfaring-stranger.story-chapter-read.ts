@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const metaworldHopecore0166Chapter96WayfaringStranger = {
   id: "01a06731-af33-7001-bbd3-9665eb7ae0e8",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const arkendrithyst0130JanesClassAbilityOptionsP2NotAChapter = {
   id: "01a08393-50ab-7b18-adb8-7048ddca2705",

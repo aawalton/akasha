@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
+import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0252293TheSiegeOfSaphigia = {
   id: "01a06730-4eb4-73cb-b3f1-27da6adeb73a",
