@@ -11,6 +11,7 @@ export const removePropertyFromPageType = {
   definition: "one page property taken off one page type",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

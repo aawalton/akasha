@@ -3,13 +3,13 @@ import {
   removePropertyFromPageType,
   runChange,
 } from "akasha/changes/agent/page-type/remove-property-from-page-type/remove-property-from-page-type.change-agent.code.ts"
+import {
+  OWNER_AT,
+  PROPERTY_AT,
+} from "akasha/changes/agent/page-type/remove-property-from-page-type/remove-property-from-page-type.change-agent.test-fixtures.ts"
 import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Reaching, World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-
-const OWNER_AT = "held/ios-apps/ios-app.page-type.ts"
-
-const PROPERTY_AT = "held/ios-apps/properties/web-directory.build-folder-property.ts"
 
 const PROPERTY = "build-folder-property/web-directory"
 
