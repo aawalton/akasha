@@ -1,4 +1,4 @@
-import { TEST_RUN } from "../live-store-write-guard/live-store-write-guard.module.code.ts"
+import { TEST_RUN } from "akasha/pages/live-store-write-guard/live-store-write-guard.module.code.ts"
 
 process.env[TEST_RUN] = "1"
 
