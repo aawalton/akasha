@@ -1,3 +1,4 @@
+import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 
 export const ID_SUFFIX_LENGTH = 8
@@ -14,6 +15,11 @@ export type PageHrefArgs = {
 export type ParsedPageHrefParam = {
   slug: string | null
   idSuffix: string
+}
+
+export type PageLink = {
+  readonly href: string
+  readonly title: string | null
 }
 
 export function slugStem(text: string): string {
@@ -41,6 +47,20 @@ export function buildPageHrefParam(args: PageHrefArgs): string {
 
 export function buildPageHref(args: PageHrefArgs): string {
   return `/${args.pageTypeSlug}/${buildPageHrefParam(args)}`
+}
+
+export function pageLinkOf(page: Page | null, pageTypeSlug: PageTypeSlug): PageLink | null {
+  if (page == null || typeof page.id !== "string") return null
+  const title = typeof page.title === "string" ? page.title : null
+  return {
+    href: buildPageHref({
+      pageTypeSlug,
+      slug: typeof page.slug === "string" ? page.slug : null,
+      fallbackSlugSource: title,
+      id: page.id,
+    }),
+    title,
+  }
 }
 
 export function parsePageHrefParam(encoded: string): ParsedPageHrefParam | null {
