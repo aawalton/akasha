@@ -1,4 +1,4 @@
-import type { LakTable } from "../addon-keybinds-types/addon-keybinds-types.module.code.ts"
+import type { LakTable } from "akasha/temper/lib-addon-keybinds/addon-keybinds-types/addon-keybinds-types.module.code.ts"
 
 export function addGameMenuEntry(
   this: void,

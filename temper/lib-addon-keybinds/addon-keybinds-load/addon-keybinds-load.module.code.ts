@@ -1,18 +1,18 @@
 import {
   hookKeybindingListCallbacks,
   hookKeybindingListFilter,
-} from "../addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"
-import { addGameMenuEntry } from "../addon-keybinds-menu-entry/addon-keybinds-menu-entry.module.code.ts"
+} from "akasha/temper/lib-addon-keybinds/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"
+import { addGameMenuEntry } from "akasha/temper/lib-addon-keybinds/addon-keybinds-menu-entry/addon-keybinds-menu-entry.module.code.ts"
 import {
   CATEGORY_DATA_TYPE,
   KEYBIND_DATA_TYPE,
   LAK_NAME,
-} from "../addon-keybinds-names/addon-keybinds-names.module.code.ts"
+} from "akasha/temper/lib-addon-keybinds/addon-keybinds-names/addon-keybinds-names.module.code.ts"
 import {
   ADDON_KEYBINDS,
   STANDARD_KEYBINDS,
-} from "../addon-keybinds-strings/addon-keybinds-strings.module.code.ts"
-import type { LakTable } from "../addon-keybinds-types/addon-keybinds-types.module.code.ts"
+} from "akasha/temper/lib-addon-keybinds/addon-keybinds-strings/addon-keybinds-strings.module.code.ts"
+import type { LakTable } from "akasha/temper/lib-addon-keybinds/addon-keybinds-types/addon-keybinds-types.module.code.ts"
 
 export function onLoad(
   this: void,

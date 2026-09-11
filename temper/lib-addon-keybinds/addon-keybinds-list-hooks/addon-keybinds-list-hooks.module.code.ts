@@ -1,10 +1,10 @@
-import type { GlobalTable } from "../addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
-import { asKeybindScrollData } from "../addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
+import type { GlobalTable } from "akasha/temper/lib-addon-keybinds/addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
+import { asKeybindScrollData } from "akasha/temper/lib-addon-keybinds/addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
 import {
   CATEGORY_DATA_TYPE,
   LAYER_DATA_TYPE,
-} from "../addon-keybinds-names/addon-keybinds-names.module.code.ts"
-import type { LakTable } from "../addon-keybinds-types/addon-keybinds-types.module.code.ts"
+} from "akasha/temper/lib-addon-keybinds/addon-keybinds-names/addon-keybinds-names.module.code.ts"
+import type { LakTable } from "akasha/temper/lib-addon-keybinds/addon-keybinds-types/addon-keybinds-types.module.code.ts"
 
 export function hookKeybindingListCallbacks(
   this: void,

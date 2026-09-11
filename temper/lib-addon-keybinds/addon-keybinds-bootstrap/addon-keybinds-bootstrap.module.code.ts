@@ -1,8 +1,11 @@
-import type { GlobalTable } from "../addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
-import { asLakTable } from "../addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
-import { onLoad } from "../addon-keybinds-load/addon-keybinds-load.module.code.ts"
-import { LAK_NAME, LAK_VERSION } from "../addon-keybinds-names/addon-keybinds-names.module.code.ts"
-import type { LakTable } from "../addon-keybinds-types/addon-keybinds-types.module.code.ts"
+import type { GlobalTable } from "akasha/temper/lib-addon-keybinds/addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
+import { asLakTable } from "akasha/temper/lib-addon-keybinds/addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
+import { onLoad } from "akasha/temper/lib-addon-keybinds/addon-keybinds-load/addon-keybinds-load.module.code.ts"
+import {
+  LAK_NAME,
+  LAK_VERSION,
+} from "akasha/temper/lib-addon-keybinds/addon-keybinds-names/addon-keybinds-names.module.code.ts"
+import type { LakTable } from "akasha/temper/lib-addon-keybinds/addon-keybinds-types/addon-keybinds-types.module.code.ts"
 
 export function installLibAddonKeybinds(this: void): undefined {
   const glob = globalThis as GlobalTable
