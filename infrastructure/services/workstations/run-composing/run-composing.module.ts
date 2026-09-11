@@ -55,6 +55,10 @@ export const runComposing = {
     },
     {
       invariantKind: "departure",
+      statement: "The key a page holds that file under is read from the property's own page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page stating a start is composed from that start rather than from a fixture.",
     },
     {
