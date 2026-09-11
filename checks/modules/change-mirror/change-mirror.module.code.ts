@@ -1,4 +1,4 @@
-import { cpSync, existsSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 
 const HOLD = "/var/tmp"
@@ -20,10 +20,8 @@ function reaching<Held>(named: string, act: () => Held): Held {
 }
 
 export function mirroredOf(
-  from: string,
   paths: readonly string[],
-  at: (path: string) => Uint8Array | null,
-  also: readonly string[]
+  at: (path: string) => Uint8Array | null
 ): Mirror {
   const root = mkdtempSync(join(HOLD, PREFIX))
   try {
@@ -35,11 +33,6 @@ export function mirroredOf(
         mkdirSync(dirname(to), { recursive: true })
         writeFileSync(to, bytes)
       })
-    }
-    for (const one of also) {
-      const there = join(from, one)
-      if (!existsSync(there)) continue
-      reaching(one, () => cpSync(there, join(root, one)))
     }
   } catch (thrown) {
     rmSync(root, { recursive: true, force: true })

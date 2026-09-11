@@ -128,7 +128,7 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
   const carried = carriedIn(change)
   const first = carried[0]
   if (first === undefined) return []
-  const mirror = mirroredOf(change.root, besideIn(change, shadow), change.after, [])
+  const mirror = mirroredOf(besideIn(change, shadow), change.after)
   try {
     return judgedOf(lookedOver(mirror.root, carried, Bun.which(TOOL)), first, mirror.root)
   } finally {

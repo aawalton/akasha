@@ -19,15 +19,11 @@ export const changeMirror = {
     },
     {
       invariantKind: "departure",
-      statement: "A file the caller also names is copied from the tree the mirror is made from.",
+      statement: "A mirror has nothing beyond the bodies the change has.",
     },
     {
-      invariantKind: "departure",
-      statement: "A file the caller also names and the tree does not hold is skipped.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A mirror has nothing beyond those two.",
+      invariantKind: "absence",
+      statement: "No body reaches a mirror from the tree the mirror is made beside.",
     },
     {
       invariantKind: "departure",

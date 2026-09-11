@@ -31,7 +31,7 @@ function refusalsIn(change: Change): readonly Judged[] {
   const carried = carriedIn(change, readsIn(said), skippedIn(said))
   const first = carried[0]
   if (first === undefined) return []
-  const mirror = mirroredOf(change.root, [...carried, ...CONFIGURED], change.after, [])
+  const mirror = mirroredOf([...carried, ...CONFIGURED], change.after)
   try {
     return judgedOf(lintedOver(mirror.root, HERE, change.root), first, mirror.root)
   } finally {
