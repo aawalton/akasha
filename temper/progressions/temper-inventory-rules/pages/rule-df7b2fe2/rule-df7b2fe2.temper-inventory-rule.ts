@@ -2,7 +2,6 @@ import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inve
 
 export const ruleDf7b2fe2 = {
   id: "01a0728b-2e7d-7f3c-a66c-2fc91d9e5fc5",
-  pageTypeSlug: "temper-inventory-rule",
   type: "temper-inventory-rule",
   slug: "rule-df7b2fe2",
   title: "List learned valuable style pages on guild store",

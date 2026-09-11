@@ -2,7 +2,6 @@ import type { TemperGrimoire } from "akasha/temper/catalog/temper-skill/temper-g
 
 export const vault = {
   id: "01a05fce-2959-739f-879f-e1dc43900386",
-  pageTypeSlug: "temper-grimoire",
   type: "temper-grimoire",
   slug: "vault",
   title: "Vault",

@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const eastmarchVoljarMeadery = {
   id: "019e2fc6-5247-75b0-9040-f100f92b9c77",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "eastmarch-voljar-meadery",
   title: "Eastmarch: Voljar Meadery",

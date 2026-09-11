@@ -2,7 +2,6 @@ import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inve
 
 export const rule8edf08cb = {
   id: "01a0728a-f56e-7636-b9da-b21d99e345f5",
-  pageTypeSlug: "temper-inventory-rule",
   type: "temper-inventory-rule",
   slug: "rule-8edf08cb",
   title: "Sell learned style pages",

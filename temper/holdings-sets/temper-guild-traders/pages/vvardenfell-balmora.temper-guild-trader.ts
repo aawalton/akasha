@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const vvardenfellBalmora = {
   id: "019e2fc6-525f-744c-822a-0d3f1eb49384",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "vvardenfell-balmora",
   title: "Vvardenfell: Balmora",

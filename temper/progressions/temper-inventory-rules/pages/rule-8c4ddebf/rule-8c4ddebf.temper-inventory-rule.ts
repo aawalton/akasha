@@ -2,7 +2,6 @@ import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inve
 
 export const rule8c4ddebf = {
   id: "01a0728a-f56d-7fbc-b5db-16a0fc5dc403",
-  pageTypeSlug: "temper-inventory-rule",
   type: "temper-inventory-rule",
   slug: "rule-8c4ddebf",
   title: "Stock magicka-restoration potions (white)",

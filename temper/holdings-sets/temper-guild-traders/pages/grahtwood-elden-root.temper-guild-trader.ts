@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const grahtwoodEldenRoot = {
   id: "019e2fc6-5224-7fb1-9868-9fd49be2e834",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "grahtwood-elden-root",
   title: "Grahtwood:  Elden Root",

@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const murkmireLilmoth = {
   id: "019e2fc6-5265-75c9-9f4d-81d4611536be",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "murkmire-lilmoth",
   title: "Murkmire: Lilmoth",

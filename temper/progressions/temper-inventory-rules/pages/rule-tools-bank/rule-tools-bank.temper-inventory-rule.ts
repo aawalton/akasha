@@ -2,7 +2,6 @@ import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inve
 
 export const ruleToolsBank = {
   id: "01a0728b-6d6f-721e-a2cd-e61cc89fdac5",
-  pageTypeSlug: "temper-inventory-rule",
   type: "temper-inventory-rule",
   slug: "rule-tools-bank",
   title: "Stock tools",

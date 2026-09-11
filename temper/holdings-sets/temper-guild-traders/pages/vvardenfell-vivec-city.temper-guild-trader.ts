@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const vvardenfellVivecCity = {
   id: "019e2fc6-525c-79aa-a61a-ef1b1276b007",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "vvardenfell-vivec-city",
   title: "Vvardenfell: Vivec City",

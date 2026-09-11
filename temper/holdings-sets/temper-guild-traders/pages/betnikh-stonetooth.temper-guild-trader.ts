@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const betnikhStonetooth = {
   id: "019e2fc6-523f-7d83-99ce-ea4ca4a437ca",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "betnikh-stonetooth",
   title: "Betnikh: Stonetooth",

@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const balFoyenDhalmora = {
   id: "019e2fc6-5253-7d6d-b498-e18754bf676e",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "bal-foyen-dhalmora",
   title: "Bal Foyen: Dhalmora",

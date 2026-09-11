@@ -2,7 +2,6 @@ import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inve
 
 export const ruleD19ba7f4 = {
   id: "01a0728b-2e7b-7708-a913-00f687d375ef",
-  pageTypeSlug: "temper-inventory-rule",
   type: "temper-inventory-rule",
   slug: "rule-d19ba7f4",
   title: "Protect locked items",

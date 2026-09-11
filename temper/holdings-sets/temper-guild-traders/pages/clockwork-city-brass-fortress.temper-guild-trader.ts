@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const clockworkCityBrassFortress = {
   id: "019e2fc6-5260-720f-b672-960c848ae7cf",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "clockwork-city-brass-fortress",
   title: "Clockwork City: Brass Fortress",

@@ -2,7 +2,6 @@ import type { TemperGrimoire } from "akasha/temper/catalog/temper-skill/temper-g
 
 export const ulfsildsContingency = {
   id: "01a05fce-2958-73bb-b25a-8b2b6fdb14e8",
-  pageTypeSlug: "temper-grimoire",
   type: "temper-grimoire",
   slug: "ulfsilds-contingency",
   title: "Ulfsild's Contingency",

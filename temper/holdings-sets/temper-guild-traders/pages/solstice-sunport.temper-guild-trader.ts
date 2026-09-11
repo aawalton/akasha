@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const solsticeSunport = {
   id: "019e2fc6-5278-7976-8ba1-f16b4944b04d",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "solstice-sunport",
   title: "Solstice: Sunport",

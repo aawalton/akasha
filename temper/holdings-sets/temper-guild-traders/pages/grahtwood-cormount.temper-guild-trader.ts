@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const grahtwoodCormount = {
   id: "019e2fc6-5226-7d64-bbbd-927fcb403262",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "grahtwood-cormount",
   title: "Grahtwood: Cormount",

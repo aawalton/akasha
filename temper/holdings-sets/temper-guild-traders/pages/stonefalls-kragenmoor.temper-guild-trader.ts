@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const stonefallsKragenmoor = {
   id: "019e2fc6-5251-7321-a527-739a7ca6e5df",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "stonefalls-kragenmoor",
   title: "Stonefalls: Kragenmoor",

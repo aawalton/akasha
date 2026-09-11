@@ -2,7 +2,6 @@ import type { TemperInventoryCurrency } from "akasha/temper/holdings-sets/temper
 
 export const crownGems = {
   id: "01a05fcf-26ba-74ed-95cb-48aa8e2fc635",
-  pageTypeSlug: "temper-inventory-currency",
   type: "temper-inventory-currency",
   slug: "crown-gems",
   title: "Crown Gems",

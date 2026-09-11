@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const northernElsweyrRimmen = {
   id: "019e2fc6-5267-70e3-8d38-0782b03ecd61",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "northern-elsweyr-rimmen",
   title: "Northern Elsweyr: Rimmen",

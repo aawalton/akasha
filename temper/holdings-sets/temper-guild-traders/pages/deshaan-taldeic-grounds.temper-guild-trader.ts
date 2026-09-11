@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const deshaanTaldeicGrounds = {
   id: "019e2fc6-524e-7968-b148-630bdeea04ea",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "deshaan-taldeic-grounds",
   title: "Deshaan: Tal'Deic Grounds",

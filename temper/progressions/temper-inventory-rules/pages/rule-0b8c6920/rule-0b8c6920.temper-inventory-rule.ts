@@ -2,7 +2,6 @@ import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inve
 
 export const rule0b8c6920 = {
   id: "01a0728a-d6fd-7737-87c7-04ad0183a259",
-  pageTypeSlug: "temper-inventory-rule",
   type: "temper-inventory-rule",
   slug: "rule-0b8c6920",
   title: "Destroy unsellable low food",

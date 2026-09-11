@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const theReachMarkarth = {
   id: "019e2fc6-526c-7760-b19d-c0d5b5f0153b",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "the-reach-markarth",
   title: "The Reach: Markarth",

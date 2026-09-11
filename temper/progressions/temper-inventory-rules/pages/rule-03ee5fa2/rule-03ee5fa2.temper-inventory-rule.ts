@@ -2,7 +2,6 @@ import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inve
 
 export const rule03ee5fa2 = {
   id: "01a0728a-d6fc-793e-b78a-49cb46a647f5",
-  pageTypeSlug: "temper-inventory-rule",
   type: "temper-inventory-rule",
   slug: "rule-03ee5fa2",
   title: "Knowledge-collectibles fragments to Trophies chest",

@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const bangkoraiEvermore = {
   id: "019e2fc6-522d-73b6-9eb5-5ec28715e4fa",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "bangkorai-evermore",
   title: "Bangkorai: Evermore",

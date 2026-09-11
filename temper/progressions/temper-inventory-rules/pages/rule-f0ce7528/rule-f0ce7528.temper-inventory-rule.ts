@@ -2,7 +2,6 @@ import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inve
 
 export const ruleF0ce7528 = {
   id: "01a0728b-2e7d-799b-b376-18298aac8ae9",
-  pageTypeSlug: "temper-inventory-rule",
   type: "temper-inventory-rule",
   slug: "rule-f0ce7528",
   title: "Stock tri-restoration potions",

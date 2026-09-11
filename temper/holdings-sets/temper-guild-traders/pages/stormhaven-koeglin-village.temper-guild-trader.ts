@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const stormhavenKoeglinVillage = {
   id: "019e2fc6-523a-7b9d-80ae-d225d916f9fc",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "stormhaven-koeglin-village",
   title: "Stormhaven: Koeglin Village",

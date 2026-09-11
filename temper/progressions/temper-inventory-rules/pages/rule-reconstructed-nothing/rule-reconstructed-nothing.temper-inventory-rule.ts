@@ -2,7 +2,6 @@ import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inve
 
 export const ruleReconstructedNothing = {
   id: "01a0728b-6d6e-7127-8119-73a98594b44c",
-  pageTypeSlug: "temper-inventory-rule",
   type: "temper-inventory-rule",
   slug: "rule-reconstructed-nothing",
   title: "Protect reconstructed gear",

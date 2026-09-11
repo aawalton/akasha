@@ -2,7 +2,6 @@ import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inve
 
 export const ruleValuableNothing = {
   id: "01a0728b-8ec3-7bb7-8f8c-3624870fbdf0",
-  pageTypeSlug: "temper-inventory-rule",
   type: "temper-inventory-rule",
   slug: "rule-valuable-nothing",
   title: "List items worth >=5000g at guild store",

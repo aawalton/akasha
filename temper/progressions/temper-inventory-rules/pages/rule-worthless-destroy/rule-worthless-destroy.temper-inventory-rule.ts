@@ -2,7 +2,6 @@ import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inve
 
 export const ruleWorthlessDestroy = {
   id: "01a0728b-8ec3-7fdb-ad57-ed1a0510afb2",
-  pageTypeSlug: "temper-inventory-rule",
   type: "temper-inventory-rule",
   slug: "rule-worthless-destroy",
   title: "Destroy worthless items",

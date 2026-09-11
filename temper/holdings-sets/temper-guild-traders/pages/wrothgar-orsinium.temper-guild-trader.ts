@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const wrothgarOrsinium = {
   id: "019e2fc6-5255-79d2-a359-7cb693421378",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "wrothgar-orsinium",
   title: "Wrothgar: Orsinium",

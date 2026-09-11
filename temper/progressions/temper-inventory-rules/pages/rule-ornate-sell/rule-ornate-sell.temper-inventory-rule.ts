@@ -2,7 +2,6 @@ import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inve
 
 export const ruleOrnateSell = {
   id: "01a0728b-4fbd-7169-8ab3-7f26e9d5fb5b",
-  pageTypeSlug: "temper-inventory-rule",
   type: "temper-inventory-rule",
   slug: "rule-ornate-sell",
   title: "Sell ornate gear",

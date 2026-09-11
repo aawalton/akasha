@@ -2,7 +2,6 @@ import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inve
 
 export const rule778017a4 = {
   id: "01a0728a-f56d-7b7f-a89d-67a2d28eb132",
-  pageTypeSlug: "temper-inventory-rule",
   type: "temper-inventory-rule",
   slug: "rule-778017a4",
   title: "Sell low-value furnishings",

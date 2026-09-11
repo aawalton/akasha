@@ -2,7 +2,6 @@ import type { TemperItemAction } from "akasha/temper/progressions/temper-item-ac
 
 export const unlock = {
   id: "01a071f0-4c87-70b7-b714-09c3e0d7e0b9",
-  pageTypeSlug: "temper-item-action",
   type: "temper-item-action",
   slug: "unlock",
   title: "Unlock",

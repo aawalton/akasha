@@ -2,7 +2,6 @@ import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inve
 
 export const ruleGoldStock = {
   id: "01a0728b-4fbc-7854-8786-0d70a2944ea8",
-  pageTypeSlug: "temper-inventory-rule",
   type: "temper-inventory-rule",
   slug: "rule-gold-stock",
   title: "Stock gold",

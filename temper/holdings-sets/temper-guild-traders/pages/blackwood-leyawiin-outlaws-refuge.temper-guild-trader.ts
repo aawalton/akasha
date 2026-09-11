@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const blackwoodLeyawiinOutlawsRefuge = {
   id: "019e2fc6-526f-70bc-8c3a-e2dc10dd7440",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "blackwood-leyawiin-outlaws-refuge",
   title: "Blackwood: Leyawiin Outlaws Refuge",

@@ -2,7 +2,6 @@ import type { TemperInventoryCurrency } from "akasha/temper/holdings-sets/temper
 
 export const writVouchers = {
   id: "01a05fcf-26bd-7630-ae52-bc3805dfada7",
-  pageTypeSlug: "temper-inventory-currency",
   type: "temper-inventory-currency",
   slug: "writ-vouchers",
   title: "Writ Vouchers",

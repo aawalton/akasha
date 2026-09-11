@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const bangkoraiBangkoraiPass = {
   id: "019e2fc6-522e-7f93-b8a6-46972c4fdc94",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "bangkorai-bangkorai-pass",
   title: "Bangkorai: Bangkorai Pass",

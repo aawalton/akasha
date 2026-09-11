@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const greenshadeMarbrukOutlawsRefuge = {
   id: "019e2fc6-5222-7234-ba44-33d7b57ca87f",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "greenshade-marbruk-outlaws-refuge",
   title: "Greenshade: Marbruk Outlaws Refuge",

@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const reapersMarchDune = {
   id: "019e2fc6-521a-722f-87b1-ad86184f8b8c",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "reapers-march-dune",
   title: "Reaper's March: Dune",

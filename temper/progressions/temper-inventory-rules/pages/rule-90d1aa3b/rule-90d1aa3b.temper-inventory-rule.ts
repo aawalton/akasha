@@ -2,7 +2,6 @@ import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inve
 
 export const rule90d1aa3b = {
   id: "01a0728a-f56f-72eb-8914-32da9b6ac87e",
-  pageTypeSlug: "temper-inventory-rule",
   type: "temper-inventory-rule",
   slug: "rule-90d1aa3b",
   title: "Sell known scripts",

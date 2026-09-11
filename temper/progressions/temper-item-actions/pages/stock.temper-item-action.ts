@@ -2,7 +2,6 @@ import type { TemperItemAction } from "akasha/temper/progressions/temper-item-ac
 
 export const stock = {
   id: "01a071f0-4c86-735a-92fe-07fa9541b270",
-  pageTypeSlug: "temper-item-action",
   type: "temper-item-action",
   slug: "stock",
   title: "Stock",

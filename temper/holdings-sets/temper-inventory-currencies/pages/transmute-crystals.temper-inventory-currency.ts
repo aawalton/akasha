@@ -2,7 +2,6 @@ import type { TemperInventoryCurrency } from "akasha/temper/holdings-sets/temper
 
 export const transmuteCrystals = {
   id: "01a05fcf-26bd-7fcc-9882-bd7fc3513c14",
-  pageTypeSlug: "temper-inventory-currency",
   type: "temper-inventory-currency",
   slug: "transmute-crystals",
   title: "Transmute Crystals",

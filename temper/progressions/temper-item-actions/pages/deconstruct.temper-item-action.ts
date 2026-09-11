@@ -2,7 +2,6 @@ import type { TemperItemAction } from "akasha/temper/progressions/temper-item-ac
 
 export const deconstruct = {
   id: "01a071f0-4c83-71e2-94a3-f462adf5820c",
-  pageTypeSlug: "temper-item-action",
   type: "temper-item-action",
   slug: "deconstruct",
   title: "Deconstruct",

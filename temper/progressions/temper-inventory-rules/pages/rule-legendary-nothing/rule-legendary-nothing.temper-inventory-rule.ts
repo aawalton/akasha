@@ -2,7 +2,6 @@ import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inve
 
 export const ruleLegendaryNothing = {
   id: "01a0728b-4fbd-78de-85c6-44b8f7930bb5",
-  pageTypeSlug: "temper-inventory-rule",
   type: "temper-inventory-rule",
   slug: "rule-legendary-nothing",
   title: "Protect legendary gear",

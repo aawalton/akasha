@@ -2,7 +2,6 @@ import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild
 
 export const stormhavenFirebrandKeep = {
   id: "019e2fc6-5239-7c5d-b08e-e506961a86a5",
-  pageTypeSlug: "temper-guild-trader",
   type: "temper-guild-trader",
   slug: "stormhaven-firebrand-keep",
   title: "Stormhaven: Firebrand Keep",

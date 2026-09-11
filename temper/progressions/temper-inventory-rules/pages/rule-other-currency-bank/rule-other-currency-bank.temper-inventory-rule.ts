@@ -2,7 +2,6 @@ import type { TemperInventoryRule } from "akasha/temper/progressions/temper-inve
 
 export const ruleOtherCurrencyBank = {
   id: "01a0728b-6d6d-7c4b-ad71-6b92012f5852",
-  pageTypeSlug: "temper-inventory-rule",
   type: "temper-inventory-rule",
   slug: "rule-other-currency-bank",
   title: "Bank other currencies",
