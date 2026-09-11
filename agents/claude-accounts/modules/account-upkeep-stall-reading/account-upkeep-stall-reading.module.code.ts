@@ -109,7 +109,7 @@ function bodyFor(stall: UpkeepStall): string {
   )
 }
 
-async function main(argv: readonly string[]): Promise<number> {
+export async function readAccountUpkeepStall(argv: readonly string[]): Promise<number> {
   const json = argv.includes("--json")
   const wanted = argv.includes("--notify")
 
@@ -151,4 +151,4 @@ async function main(argv: readonly string[]): Promise<number> {
   return 0
 }
 
-if (import.meta.main) process.exit(await main(process.argv.slice(2)))
+if (import.meta.main) process.exit(await readAccountUpkeepStall(process.argv.slice(2)))
