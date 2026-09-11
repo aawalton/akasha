@@ -61,6 +61,11 @@ export const tabooTerm = {
       invariantKind: "departure",
       statement: "A term reaches inside a camelCase name.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change is judged for a term over the whole body it writes rather than the part it changes.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
