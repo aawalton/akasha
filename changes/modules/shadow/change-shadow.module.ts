@@ -74,6 +74,14 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A reaching handing one address on to the change answering it is built here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That reaching refuses every address it was not built for.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A refusal is read here whether the change said the refusal or the replay found the refusal.",
     },

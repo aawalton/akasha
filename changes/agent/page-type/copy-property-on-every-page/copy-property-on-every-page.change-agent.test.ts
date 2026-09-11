@@ -4,21 +4,18 @@ import {
   runChange,
 } from "akasha/changes/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.code.ts"
 import { runChange as addKey } from "akasha/changes/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.code.ts"
-import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type Reaching,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import {
+  relaying,
+  worldOf,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 
-const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical-file-content/add-page-property") {
-    return Promise.resolve(addKey(world, given as Parameters<typeof addKey>[1]))
-  }
-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
-}
+const RUNS: Reaching = relaying("change-mechanical-file-content/add-page-property", addKey)
 
 const ONE_AT = "thrumming/chapters/pages/one.story-chapter-read.ts"
 

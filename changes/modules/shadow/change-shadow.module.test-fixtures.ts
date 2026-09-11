@@ -292,6 +292,16 @@ export function running(address: string): Reaching {
   }
 }
 
+export function relaying<Given>(
+  address: string,
+  run: (world: World, given: Given) => Answer | Promise<Answer>
+): Reaching {
+  return (world, at, given) => {
+    if (at === address) return Promise.resolve(run(world, given as Given))
+    return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+  }
+}
+
 export function worldIn(root: string, address: string): World {
   return worldAt(root, textIn(root), running(address))
 }
