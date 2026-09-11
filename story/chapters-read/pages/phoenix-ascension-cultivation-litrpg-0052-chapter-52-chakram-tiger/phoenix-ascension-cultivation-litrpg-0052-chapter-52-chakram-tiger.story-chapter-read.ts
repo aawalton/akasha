@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0052Chapter52ChakramTiger = {
   id: "01a06730-4dee-77f9-a01b-e1bfdbb600d6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0052-chapter-52-chakram-tiger",
   title: "Chapter 52: Chakram Tiger",

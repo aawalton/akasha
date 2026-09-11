@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0141Chapter141ALittleTooFar = {
   id: "01a06730-4e00-7c75-8f97-a22af27bdb43",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0141-chapter-141-a-little-too-far",
   title: "Chapter 141: A little too far.",

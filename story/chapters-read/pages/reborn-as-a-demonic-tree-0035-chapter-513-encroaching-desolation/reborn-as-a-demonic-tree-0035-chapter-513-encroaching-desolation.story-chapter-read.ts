@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0035Chapter513EncroachingDesolation = {
   id: "01a06730-4dd4-798c-84b1-ec850b0b345e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0035-chapter-513-encroaching-desolation",
   title: "Chapter 513: Encroaching Desolation",

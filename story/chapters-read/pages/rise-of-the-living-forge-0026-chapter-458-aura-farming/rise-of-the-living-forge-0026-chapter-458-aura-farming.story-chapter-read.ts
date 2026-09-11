@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0026Chapter458AuraFarming = {
   id: "01a06730-4e09-7d0c-98d4-4dd408bfb4c4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0026-chapter-458-aura-farming",
   title: "Chapter 458: Aura farming",

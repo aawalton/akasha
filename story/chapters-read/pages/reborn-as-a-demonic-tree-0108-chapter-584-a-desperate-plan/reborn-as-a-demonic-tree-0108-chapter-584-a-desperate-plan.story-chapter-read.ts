@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0108Chapter584ADesperatePlan = {
   id: "01a06730-4df4-771d-b449-be85d0a954e0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0108-chapter-584-a-desperate-plan",
   title: "Chapter 584: A Desperate Plan",

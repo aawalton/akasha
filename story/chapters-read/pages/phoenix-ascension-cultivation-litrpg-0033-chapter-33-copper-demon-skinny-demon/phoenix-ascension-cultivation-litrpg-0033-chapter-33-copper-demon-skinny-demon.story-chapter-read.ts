@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0033Chapter33CopperDemonSkinnyDemon = {
   id: "01a06730-4de7-7d49-b021-73313da19b53",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0033-chapter-33-copper-demon-skinny-demon",
   title: "Chapter 33: Copper Demon; Skinny Demon",

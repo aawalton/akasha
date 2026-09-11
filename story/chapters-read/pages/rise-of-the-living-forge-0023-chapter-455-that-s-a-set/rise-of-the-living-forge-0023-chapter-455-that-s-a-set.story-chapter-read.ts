@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0023Chapter455ThatSASet = {
   id: "01a06730-4e08-7129-be33-cf0874365528",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0023-chapter-455-that-s-a-set",
   title: "Chapter 455: That's a set.",

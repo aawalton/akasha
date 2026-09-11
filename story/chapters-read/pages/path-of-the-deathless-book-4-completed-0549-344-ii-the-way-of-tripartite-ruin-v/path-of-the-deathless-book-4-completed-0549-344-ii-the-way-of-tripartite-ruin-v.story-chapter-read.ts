@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0549344IiTheWayOfTripartiteRuinV = {
   id: "01a06730-4eed-7995-8e06-2d0332b59bef",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0549-344-ii-the-way-of-tripartite-ruin-v",
   title: "344 (II) The Way of Tripartite Ruin [V]",

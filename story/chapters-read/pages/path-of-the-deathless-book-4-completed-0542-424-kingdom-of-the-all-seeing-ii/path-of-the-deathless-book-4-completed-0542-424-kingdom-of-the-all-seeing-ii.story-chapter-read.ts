@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0542424KingdomOfTheAllSeeingIi = {
   id: "01a06730-4ee7-7e4c-8291-f793355e0200",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0542-424-kingdom-of-the-all-seeing-ii",
   title: "424 Kingdom of the All-Seeing [II]",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0471455JugglingPlates = {
   id: "01a08c80-b1a2-7c64-a9cd-e631af5025c2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0471-455-juggling-plates",
   position: 471,

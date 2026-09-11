@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0561443WarEconomyIi = {
   id: "01a06730-4ef8-783b-8a49-9041db17c8cf",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0561-443-war-economy-ii",
   title: "443 War Economy [II]",

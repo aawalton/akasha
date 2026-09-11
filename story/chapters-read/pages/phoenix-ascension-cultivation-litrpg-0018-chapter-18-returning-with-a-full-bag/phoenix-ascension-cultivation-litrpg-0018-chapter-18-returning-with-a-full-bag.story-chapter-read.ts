@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0018Chapter18ReturningWithAFullBag = {
   id: "01a06730-4de3-7ef1-ab8a-1aed3ecf31cd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0018-chapter-18-returning-with-a-full-bag",
   title: "Chapter 18: Returning with a full bag",

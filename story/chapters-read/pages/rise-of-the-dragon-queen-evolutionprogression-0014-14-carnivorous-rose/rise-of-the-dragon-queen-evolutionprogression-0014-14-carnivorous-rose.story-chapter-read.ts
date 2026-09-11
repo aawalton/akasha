@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheDragonQueenEvolutionprogression001414CarnivorousRose = {
   id: "01a06730-4e07-749c-87f8-8d9f0fb0fb48",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0014-14-carnivorous-rose",
   title: "14 - Carnivorous Rose",

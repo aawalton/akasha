@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0127Chapter127Settling = {
   id: "01a06730-4dff-7186-9e92-c92ec8f1c5b4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0127-chapter-127-settling",
   title: "Chapter 127: Settling",

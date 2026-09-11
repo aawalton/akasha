@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0134Chapter134Refining = {
   id: "01a06730-4e00-7ceb-ac3c-798fe734277a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0134-chapter-134-refining",
   title: "Chapter 134: Refining",

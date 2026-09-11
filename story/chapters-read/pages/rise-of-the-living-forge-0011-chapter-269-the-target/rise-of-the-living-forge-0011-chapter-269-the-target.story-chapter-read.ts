@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0011Chapter269TheTarget = {
   id: "01a06730-4e07-7a54-a263-6f4fa7c8e0d8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0011-chapter-269-the-target",
   title: "Chapter 269: The Target",

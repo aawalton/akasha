@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheDragonQueenEvolutionprogression001111GoatMagnet = {
   id: "01a06730-4e07-71c7-9460-cff721fd1de6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0011-11-goat-magnet",
   title: "11 - Goat Magnet",

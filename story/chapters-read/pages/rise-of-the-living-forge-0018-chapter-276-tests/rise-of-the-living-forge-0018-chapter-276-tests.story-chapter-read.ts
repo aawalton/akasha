@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0018Chapter276Tests = {
   id: "01a06730-4e08-7f01-bc0d-9a666df8cc72",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0018-chapter-276-tests",
   title: "Chapter 276: Tests",

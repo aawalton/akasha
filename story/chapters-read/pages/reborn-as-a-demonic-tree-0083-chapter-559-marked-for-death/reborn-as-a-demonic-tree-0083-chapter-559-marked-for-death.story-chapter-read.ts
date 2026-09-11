@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0083Chapter559MarkedForDeath = {
   id: "01a06730-4dea-75f1-8514-5d3e4eab0693",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0083-chapter-559-marked-for-death",
   title: "Chapter 559: Marked for Death",

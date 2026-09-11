@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0026Chapter26CollectingSpoils = {
   id: "01a06730-4de6-73d6-8f2e-41db2d338a7d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0026-chapter-26-collecting-spoils",
   title: "Chapter 26: Collecting Spoils",

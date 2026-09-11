@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0020Chapter305AMonarchSAgonyEndOfBook4 = {
   id: "01a06730-4dc8-716b-ace1-1b265f213649",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0020-chapter-305-a-monarch-s-agony-end-of-book-4",
   title: "Chapter 305: A Monarch's Agony (End of Book 4)",

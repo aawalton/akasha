@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheDragonQueenEvolutionprogression001616Training = {
   id: "01a06730-4e08-70f0-9a4c-4baa17c0dd2e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0016-16-training",
   title: "16 - Training",

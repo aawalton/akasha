@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0565447TheDevilsWeGetToKnow = {
   id: "01a06730-4efb-76c0-b72a-01d7f464627f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0565-447-the-devils-we-get-to-know",
   title: "447 The Devils We Get To Know",

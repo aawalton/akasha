@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0066Chapter66AlreadyAtTheFirstLayer = {
   id: "01a06730-4df1-7978-a81f-439badb1b71f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0066-chapter-66-already-at-the-first-layer",
   title: "Chapter 66: Already at the first layer?",

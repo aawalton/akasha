@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0047Chapter525Thanatos = {
   id: "01a06730-4dd9-79f6-93fb-ab66d0af0c1a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0047-chapter-525-thanatos",
   title: "Chapter 525: Thanatos",

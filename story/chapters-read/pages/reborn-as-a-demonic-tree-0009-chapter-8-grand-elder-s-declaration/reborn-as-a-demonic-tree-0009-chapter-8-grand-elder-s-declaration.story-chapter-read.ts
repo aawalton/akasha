@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0009Chapter8GrandElderSDeclaration = {
   id: "01a06730-4dc4-7282-a611-21dee5771091",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0009-chapter-8-grand-elder-s-declaration",
   title: "Chapter 8: Grand Elder’s Declaration",

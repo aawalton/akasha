@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0129Chapter605TheEmpireHasFallen = {
   id: "01a06730-4e01-7af9-bf0e-14f87d5c827e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0129-chapter-605-the-empire-has-fallen",
   title: "Chapter 605: The Empire has Fallen",

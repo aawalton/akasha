@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0146Chapter146Coaching = {
   id: "01a06730-4e01-7871-bacc-4a30bf07b75b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0146-chapter-146-coaching",
   title: "Chapter 146 - Coaching",

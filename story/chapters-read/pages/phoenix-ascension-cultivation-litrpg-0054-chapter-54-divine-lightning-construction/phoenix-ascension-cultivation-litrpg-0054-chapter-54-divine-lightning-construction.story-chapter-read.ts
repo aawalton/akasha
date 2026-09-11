@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0054Chapter54DivineLightningConstruction = {
   id: "01a06730-4dee-7f4b-a7db-0a81ef088c5d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0054-chapter-54-divine-lightning-construction",
   title: "Chapter 54: Divine Lightning Construction",

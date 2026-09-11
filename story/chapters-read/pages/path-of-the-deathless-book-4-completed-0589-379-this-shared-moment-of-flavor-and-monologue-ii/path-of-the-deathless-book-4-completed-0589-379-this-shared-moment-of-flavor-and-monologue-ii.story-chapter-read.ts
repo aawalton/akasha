@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0589379ThisSharedMomentOfFlavorAndMonologueIi = {
   id: "01a06730-4efd-7519-ae0d-cd9f8da4f6bb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0589-379-this-shared-moment-of-flavor-and-monologue-ii",
   title: "379 This Shared Moment of Flavor and Monologue [II]",

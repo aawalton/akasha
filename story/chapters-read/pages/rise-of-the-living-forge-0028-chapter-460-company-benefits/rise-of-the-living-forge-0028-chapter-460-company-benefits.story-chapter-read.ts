@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0028Chapter460CompanyBenefits = {
   id: "01a06730-4e09-7e78-8502-d6372497a5c8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0028-chapter-460-company-benefits",
   title: "Chapter 460: Company benefits",

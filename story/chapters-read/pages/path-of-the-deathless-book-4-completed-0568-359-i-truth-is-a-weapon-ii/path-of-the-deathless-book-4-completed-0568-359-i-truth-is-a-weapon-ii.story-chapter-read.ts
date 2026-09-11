@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0568359ITruthIsAWeaponIi = {
   id: "01a06730-4efc-7db5-ace8-c9218d434f91",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0568-359-i-truth-is-a-weapon-ii",
   title: "359 (I) Truth is a Weapon [II] ",

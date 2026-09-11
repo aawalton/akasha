@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0536334SympathyAsADaggerIi = {
   id: "01a06730-4ee3-7589-9c0e-ea2965bd36fe",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0536-334-sympathy-as-a-dagger-ii",
   title: "334 Sympathy as a Dagger [II]",

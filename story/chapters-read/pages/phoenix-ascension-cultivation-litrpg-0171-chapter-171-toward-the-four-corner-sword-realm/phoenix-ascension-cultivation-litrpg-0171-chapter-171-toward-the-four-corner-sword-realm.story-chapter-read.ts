@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0171Chapter171TowardTheFourCornerSwordRealm = {
   id: "01a06730-4e06-73e1-af32-22cf5d3696bb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0171-chapter-171-toward-the-four-corner-sword-realm",
   title: "Chapter 171: Toward the Four Corner Sword Realm!",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0578368FriendAndFoe = {
   id: "01a06730-4efc-7071-96d8-7855ebf2e16e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0578-368-friend-and-foe",
   title: "368 Friend and Foe",

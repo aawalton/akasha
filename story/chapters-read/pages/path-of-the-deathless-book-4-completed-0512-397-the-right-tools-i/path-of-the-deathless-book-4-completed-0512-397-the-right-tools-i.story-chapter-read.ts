@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0512397TheRightToolsI = {
   id: "01a06730-4ed0-7ca1-8273-8df90930271a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0512-397-the-right-tools-i",
   title: "397 The Right Tools [I]",

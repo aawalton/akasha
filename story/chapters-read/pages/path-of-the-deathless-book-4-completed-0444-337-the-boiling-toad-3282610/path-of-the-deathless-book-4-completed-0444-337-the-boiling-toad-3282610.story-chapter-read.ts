@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0444337TheBoilingToad3282610 = {
   id: "01a06730-4e95-79cf-91a4-f124f73e446b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0444-337-the-boiling-toad-3282610",
   title: "337 The Boiling Toad",

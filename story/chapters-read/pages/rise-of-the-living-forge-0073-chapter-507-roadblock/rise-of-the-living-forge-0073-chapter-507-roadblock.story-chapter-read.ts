@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0073Chapter507Roadblock = {
   id: "01a06730-4e0c-7244-8344-3633a2239396",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0073-chapter-507-roadblock",
   title: "Chapter 507: Roadblock",

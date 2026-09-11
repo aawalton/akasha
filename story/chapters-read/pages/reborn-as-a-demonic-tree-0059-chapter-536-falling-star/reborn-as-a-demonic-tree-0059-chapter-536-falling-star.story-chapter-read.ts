@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0059Chapter536FallingStar = {
   id: "01a06730-4de1-7f4b-a317-a7e0a7447cf1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0059-chapter-536-falling-star",
   title: "Chapter 536: Falling Star",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0066Chapter499TrulyMonstrous = {
   id: "01a06730-4e0c-7e14-a8ef-c2ae484cbbb4",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0066-chapter-499-truly-monstrous",
   title: "Chapter 499: Truly monstrous ",

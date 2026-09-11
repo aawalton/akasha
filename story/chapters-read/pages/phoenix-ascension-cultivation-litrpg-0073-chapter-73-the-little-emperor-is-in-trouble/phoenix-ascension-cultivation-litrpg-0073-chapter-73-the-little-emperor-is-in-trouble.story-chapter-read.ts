@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0073Chapter73TheLittleEmperorIsInTrouble = {
   id: "01a06730-4df2-7eb5-857d-d7f9523b6f6f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0073-chapter-73-the-little-emperor-is-in-trouble",
   title: "Chapter 73: The Little Emperor is in trouble",

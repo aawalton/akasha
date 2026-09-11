@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0082Chapter516Coremaxxing = {
   id: "01a06730-4e0d-7f47-832c-8f951203e88d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0082-chapter-516-coremaxxing",
   title: "Chapter 516: Coremaxxing",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0042Chapter520ArtOfCruelty = {
   id: "01a06730-4dd7-7b39-ac9f-421a03297215",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0042-chapter-520-art-of-cruelty",
   title: "Chapter 520: Art of Cruelty",

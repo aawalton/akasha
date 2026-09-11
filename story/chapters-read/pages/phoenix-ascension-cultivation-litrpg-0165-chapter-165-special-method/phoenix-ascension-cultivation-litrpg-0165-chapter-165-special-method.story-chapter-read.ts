@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0165Chapter165SpecialMethod = {
   id: "01a06730-4e04-701b-b4ae-4a14a4e6cda1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0165-chapter-165-special-method",
   title: "Chapter 165: Special Method",

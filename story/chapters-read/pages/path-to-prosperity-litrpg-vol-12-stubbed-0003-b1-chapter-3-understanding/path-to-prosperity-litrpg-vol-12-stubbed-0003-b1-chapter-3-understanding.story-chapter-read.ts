@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathToProsperityLitrpgVol12Stubbed0003B1Chapter3Understanding = {
   id: "01a06730-4dc7-717d-bc22-7ddd8d5f509c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-to-prosperity-litrpg-vol-12-stubbed-0003-b1-chapter-3-understanding",
   title: "B1 Chapter 3 - Understanding",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0133Chapter609The8thLayer = {
   id: "01a06730-4e02-7645-9c93-f4c95db9dd76",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0133-chapter-609-the-8th-layer",
   title: "Chapter 609: The 8th Layer",

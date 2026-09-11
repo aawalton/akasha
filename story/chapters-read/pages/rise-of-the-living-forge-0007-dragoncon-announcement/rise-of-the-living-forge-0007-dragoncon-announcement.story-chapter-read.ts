@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0007DragonconAnnouncement = {
   id: "01a06730-4e07-7b20-a096-05736c538270",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0007-dragoncon-announcement",
   title: "Dragoncon Announcement!",

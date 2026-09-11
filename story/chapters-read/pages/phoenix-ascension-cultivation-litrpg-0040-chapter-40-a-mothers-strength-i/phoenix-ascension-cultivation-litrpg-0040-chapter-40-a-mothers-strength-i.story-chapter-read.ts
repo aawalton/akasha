@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0040Chapter40AMothersStrengthI = {
   id: "01a06730-4dea-7056-86e8-938759c20f60",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0040-chapter-40-a-mothers-strength-i",
   title: "Chapter 40: A Mother's Strength I",

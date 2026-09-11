@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0431326ILoopI3223832 = {
   id: "01a06730-4e8c-7d81-bba0-d33bc9c86bc1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0431-326-i-loop-i-3223832",
   title: "326 (I) Loop [I]",

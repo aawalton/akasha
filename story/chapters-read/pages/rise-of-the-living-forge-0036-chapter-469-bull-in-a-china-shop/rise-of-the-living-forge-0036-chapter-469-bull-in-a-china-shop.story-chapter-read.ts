@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0036Chapter469BullInAChinaShop = {
   id: "01a06730-4e0a-7680-a01b-1e17103431e7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0036-chapter-469-bull-in-a-china-shop",
   title: "Chapter 469: Bull in a china shop",

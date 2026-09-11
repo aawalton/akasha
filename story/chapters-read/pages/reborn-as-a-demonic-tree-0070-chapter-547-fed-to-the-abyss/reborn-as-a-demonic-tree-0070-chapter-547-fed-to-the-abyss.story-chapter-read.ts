@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0070Chapter547FedToTheAbyss = {
   id: "01a06730-4de5-7e9a-813b-f4b3875750f9",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0070-chapter-547-fed-to-the-abyss",
   title: "Chapter 547: Fed to the Abyss",

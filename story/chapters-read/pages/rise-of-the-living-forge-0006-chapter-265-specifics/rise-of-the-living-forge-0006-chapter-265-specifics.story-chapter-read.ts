@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0006Chapter265Specifics = {
   id: "01a06730-4e07-75d8-92fc-e05ac85faddd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0006-chapter-265-specifics",
   title: "Chapter 265: Specifics",

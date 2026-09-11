@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0461350TheTruthWithoutTheLieWithin3359424 = {
   id: "01a06730-4ea3-7235-9983-7164ce9f9d10",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0461-350-the-truth-without-the-lie-within-3359424",
   title: "350 The Truth Without, The Lie Within",

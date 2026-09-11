@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0001Chapter1TheCostOfPeace = {
   id: "01a06730-4e07-74f3-b6c1-a76dac079496",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0001-chapter-1-the-cost-of-peace",
   title: "Chapter 1: The Cost of Peace",

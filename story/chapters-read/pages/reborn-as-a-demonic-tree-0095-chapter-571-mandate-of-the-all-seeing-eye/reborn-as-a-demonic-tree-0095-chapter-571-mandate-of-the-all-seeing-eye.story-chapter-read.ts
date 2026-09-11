@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0095Chapter571MandateOfTheAllSeeingEye = {
   id: "01a06730-4dee-7c79-95be-bf71872cb525",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0095-chapter-571-mandate-of-the-all-seeing-eye",
   title: "Chapter 571: Mandate of the All-Seeing Eye",

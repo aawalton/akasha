@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0048Chapter481ThereWasOne = {
   id: "01a06730-4e0b-7ab7-9527-49effe1e5712",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0048-chapter-481-there-was-one",
   title: "Chapter 481: There was one",

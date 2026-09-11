@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0173Chapter173AngrySnek = {
   id: "01a07d43-cdbd-7f59-8bb8-431c530ad67d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0173-chapter-173-angry-snek",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

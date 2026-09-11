@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0063Chapter496ThatSTheQualityBackGuarantee = {
   id: "01a06730-4e0b-716a-a4e7-321ccc026c45",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0063-chapter-496-that-s-the-quality-back-guarantee",
   title: "Chapter 496: That's the Quality Back Guarantee",

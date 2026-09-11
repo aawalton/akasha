@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheDragonQueenEvolutionprogression00011ImNotStupid = {
   id: "01a06730-4e04-75b7-ae1f-5e2eb8315c07",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0001-1-im-not-stupid",
   title: "1 - I'm not stupid!",

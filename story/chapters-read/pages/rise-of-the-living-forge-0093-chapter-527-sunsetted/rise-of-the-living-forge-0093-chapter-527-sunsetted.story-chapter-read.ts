@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0093Chapter527Sunsetted = {
   id: "01a06730-4e0d-7748-814a-954f01a7c542",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0093-chapter-527-sunsetted",
   title: "Chapter 527: Sunsetted",

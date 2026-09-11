@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0549431SeedsOfEmpireI = {
   id: "01a06730-4eee-76a8-a8a2-da8b69a487d2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0549-431-seeds-of-empire-i",
   title: "431 Seeds of Empire [I]",

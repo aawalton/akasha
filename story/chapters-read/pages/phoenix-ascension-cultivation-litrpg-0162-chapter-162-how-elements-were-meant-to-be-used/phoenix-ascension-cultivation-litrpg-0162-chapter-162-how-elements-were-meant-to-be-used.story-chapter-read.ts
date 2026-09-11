@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0162Chapter162HowElementsWereMeantToBeUsed = {
   id: "01a06730-4e03-78bc-874f-f66323bba564",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0162-chapter-162-how-elements-were-meant-to-be-used",
   title: "Chapter 162: How elements were meant to be used",

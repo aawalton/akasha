@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0093Chapter569Frontline = {
   id: "01a06730-4ded-7632-9829-3c7fea785538",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0093-chapter-569-frontline",
   title: "Chapter 569: Frontline",

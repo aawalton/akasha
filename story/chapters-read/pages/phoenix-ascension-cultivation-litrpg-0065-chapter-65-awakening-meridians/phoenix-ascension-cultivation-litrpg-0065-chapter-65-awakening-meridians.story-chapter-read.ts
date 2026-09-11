@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0065Chapter65AwakeningMeridians = {
   id: "01a06730-4df1-7286-8ba7-fc2184b5cf44",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0065-chapter-65-awakening-meridians",
   title: "Chapter 65: Awakening Meridians",

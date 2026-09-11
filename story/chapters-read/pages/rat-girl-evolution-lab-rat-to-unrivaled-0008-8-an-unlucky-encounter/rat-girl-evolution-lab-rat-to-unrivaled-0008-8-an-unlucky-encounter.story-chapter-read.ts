@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const ratGirlEvolutionLabRatToUnrivaled00088AnUnluckyEncounter = {
   id: "01a06730-4dcf-7f6f-a214-cbd9cb5a1124",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0008-8-an-unlucky-encounter",
   title: "8: An (Un?)Lucky Encounter",

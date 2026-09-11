@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheDragonQueenEvolutionprogression00066SoaringThroughTheSkies = {
   id: "01a06730-4e05-75a0-8700-542230cbcb14",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0006-6-soaring-through-the-skies",
   title: "6 - Soaring Through The Skies",

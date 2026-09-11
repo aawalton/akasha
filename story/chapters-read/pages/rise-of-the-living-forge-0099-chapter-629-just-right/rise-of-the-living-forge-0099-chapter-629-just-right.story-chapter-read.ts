@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0099Chapter629JustRight = {
   id: "01a06730-4e0e-7779-ba0e-06a4e78a0416",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0099-chapter-629-just-right",
   title: "Chapter 629: Just right",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0156Chapter156CracklingWithHunger = {
   id: "01a06730-4e02-7c08-a5e9-4ab51747cc45",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0156-chapter-156-crackling-with-hunger",
   title: "Chapter 156: Crackling with Hunger",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0028StellaArtShapeshifter = {
   id: "01a06730-4dcc-7ec4-9d3e-cb568a5a2c21",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0028-stella-art-shapeshifter",
   title: "Stella Art + Shapeshifter",

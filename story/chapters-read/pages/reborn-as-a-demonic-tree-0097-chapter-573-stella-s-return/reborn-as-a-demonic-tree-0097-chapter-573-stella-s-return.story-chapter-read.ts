@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0097Chapter573StellaSReturn = {
   id: "01a06730-4def-742b-ac17-649e60e25cc0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0097-chapter-573-stella-s-return",
   title: "Chapter 573: Stella's Return",

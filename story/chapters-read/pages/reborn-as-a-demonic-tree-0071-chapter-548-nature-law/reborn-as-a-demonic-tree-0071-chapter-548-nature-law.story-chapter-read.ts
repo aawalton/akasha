@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0071Chapter548NatureLaw = {
   id: "01a06730-4de5-7381-88d5-61400e8776e5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0071-chapter-548-nature-law",
   title: "Chapter 548: Nature Law",

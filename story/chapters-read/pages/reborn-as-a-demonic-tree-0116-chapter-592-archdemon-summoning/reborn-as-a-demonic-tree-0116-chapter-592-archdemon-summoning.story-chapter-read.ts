@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0116Chapter592ArchdemonSummoning = {
   id: "01a06730-4df6-7167-bbcb-32d5c1303518",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0116-chapter-592-archdemon-summoning",
   title: "Chapter 592: Archdemon Summoning",

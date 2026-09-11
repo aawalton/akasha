@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const phoenixAscensionCultivationLitrpg0106Chapter106ALookInThePast33 = {
   id: "01a06730-4dfc-7561-8899-6f6705424155",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0106-chapter-106-a-look-in-the-past-33",
   title: "Chapter 106: A look in the past (3/3)",

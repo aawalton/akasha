@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0559441PiecesOnTheBoardBook8Beginning = {
   id: "01a06730-4ef6-7e7e-9f78-6b51f24ac1f8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0559-441-pieces-on-the-board-book-8-beginning",
   title: "441 Pieces on the Board [Book 8 BEGINNING]",

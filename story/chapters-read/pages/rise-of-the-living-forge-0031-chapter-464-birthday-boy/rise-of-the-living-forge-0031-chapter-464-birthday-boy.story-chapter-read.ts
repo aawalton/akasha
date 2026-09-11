@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0031Chapter464BirthdayBoy = {
   id: "01a06730-4e0a-764d-851c-b95095c26d4c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0031-chapter-464-birthday-boy",
   title: "Chapter 464: Birthday boy",

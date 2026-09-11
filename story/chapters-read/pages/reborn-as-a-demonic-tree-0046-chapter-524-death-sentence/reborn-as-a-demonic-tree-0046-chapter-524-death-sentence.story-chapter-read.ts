@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0046Chapter524DeathSentence = {
   id: "01a06730-4dd8-7afc-80c9-e452338d479d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0046-chapter-524-death-sentence",
   title: "Chapter 524: Death Sentence",

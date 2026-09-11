@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const quietLifeOfTheMuteArchmageOpArchmageAcademy0031Chapter29TheManicMage = {
   id: "01a06730-4ddc-7dbf-95da-d31ffbfed6be",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0031-chapter-29-the-manic-mage",
   title: "Chapter 29: The Manic Mage",

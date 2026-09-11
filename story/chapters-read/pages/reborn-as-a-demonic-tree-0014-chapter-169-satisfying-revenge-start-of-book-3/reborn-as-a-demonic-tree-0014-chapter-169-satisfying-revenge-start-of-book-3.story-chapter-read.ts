@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0014Chapter169SatisfyingRevengeStartOfBook3 = {
   id: "01a06730-4dc6-7782-9c33-9e641a8004e3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0014-chapter-169-satisfying-revenge-start-of-book-3",
   title: "Chapter 169: Satisfying Revenge [Start of Book 3]",

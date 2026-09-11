@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0470289IiDowntimeI = {
   id: "01a06730-4ea8-7f0e-bcd3-33559a9c26cb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0470-289-ii-downtime-i",
   title: "289 (II) Downtime [I] ",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const riseOfTheLivingForge0086Chapter520Creative = {
   id: "01a06730-4e0d-7eb3-a027-4bb43a3a0ff0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0086-chapter-520-creative",
   title: "Chapter 520: Creative",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const pathOfTheDeathlessBook4Completed0579369ACoalitionAgainstTheEndI = {
   id: "01a06730-4efc-7985-96b8-61684a8afc35",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0579-369-a-coalition-against-the-end-i",
   title: "369 A Coalition Against the End [I]",

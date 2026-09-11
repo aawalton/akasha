@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const rebornAsADemonicTree0036Chapter514ASilentAdmirer = {
   id: "01a06730-4dd4-7ad9-8e13-0a1a53519c13",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0036-chapter-514-a-silent-admirer",
   title: "Chapter 514: A Silent Admirer",
