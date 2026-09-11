@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0008Chapter8FirstBloodFirstFear = {
   id: "01a06730-55e4-7e69-89a8-8f00aa8e5ab0",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0008-chapter-8-first-blood-first-fear",
   title: "Chapter 8: First Blood, First Fear",

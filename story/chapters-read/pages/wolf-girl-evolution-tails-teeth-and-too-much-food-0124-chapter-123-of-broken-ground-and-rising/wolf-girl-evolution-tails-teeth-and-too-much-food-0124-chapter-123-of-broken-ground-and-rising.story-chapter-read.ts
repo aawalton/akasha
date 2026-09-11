@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0124Chapter123OfBrokenGroundAndRising = {
   id: "01a06730-55f4-74ff-bc6e-c92eedda4679",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0124-chapter-123-of-broken-ground-and-rising",
   title: "Chapter 123: Of Broken Ground and Rising Threats",

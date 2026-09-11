@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0118Chapter117AnticipatingAntDelicaciesTo = {
   id: "01a06730-55f0-7e93-b401-34b977fcf4d6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0118-chapter-117-anticipating-ant-delicacies-to",
   title: "Chapter 117: Anticipating Ant Delicacies, to Terrible Tall Tales",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const twelveStepsToTranscendenceASkillGrindingLitrpg0008Chapter8ManaPath = {
   id: "01a06585-ef0f-7295-89af-dcb6b2691880",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0008-chapter-8-mana-path",
   title: "Chapter 8: Mana Path",

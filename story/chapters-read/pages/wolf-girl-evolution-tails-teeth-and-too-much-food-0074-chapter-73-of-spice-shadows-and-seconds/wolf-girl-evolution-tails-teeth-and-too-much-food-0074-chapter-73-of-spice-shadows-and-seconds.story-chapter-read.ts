@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0074Chapter73OfSpiceShadowsAndSeconds = {
   id: "01a06730-55e6-7598-b1e2-c5bebe85260c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0074-chapter-73-of-spice-shadows-and-seconds",
   title: "Chapter 73: Of Spice, Shadows, and Second’s Smiles",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0249226LianItOnThick = {
   id: "01a06730-558c-7494-b67c-75c4772816df",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0249-226-lian-it-on-thick",
   title: "226: Lian it on Thick",

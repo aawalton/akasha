@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const underworldBreadMageYuriProgfanSliceOfLife0012Chapter12BeautyInTheEyeOfTheBeeholder = {
   id: "01a06730-4f13-73dd-b7b5-e660fd1ed66c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0012-chapter-12-beauty-in-the-eye-of-the-beeholder",
   title: "Chapter 12: Beauty in the Eye of the Beeholder",

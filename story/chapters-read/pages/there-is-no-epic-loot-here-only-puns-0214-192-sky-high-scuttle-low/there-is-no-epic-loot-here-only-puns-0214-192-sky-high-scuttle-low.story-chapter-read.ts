@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0214192SkyHighScuttleLow = {
   id: "01a06730-54c1-7e1f-9d96-24c65fae0046",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0214-192-sky-high-scuttle-low",
   title: "192: Sky high, Scuttle low",

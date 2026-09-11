@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0016Chapter16BiteChewThink = {
   id: "01a06730-55e4-78c5-8d6d-005096f3a2c8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0016-chapter-16-bite-chew-think",
   title: "Chapter 16: Bite, Chew, Think",

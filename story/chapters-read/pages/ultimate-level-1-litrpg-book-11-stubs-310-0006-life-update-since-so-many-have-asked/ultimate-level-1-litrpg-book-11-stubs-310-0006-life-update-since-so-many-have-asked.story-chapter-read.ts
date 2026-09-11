@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const ultimateLevel1LitrpgBook11Stubs3100006LifeUpdateSinceSoManyHaveAsked = {
   id: "01a06730-50ac-703c-a6a6-7b85708a49a7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "ultimate-level-1-litrpg-book-11-stubs-310-0006-life-update-since-so-many-have-asked",
   title: "Life update - Since so many have asked",

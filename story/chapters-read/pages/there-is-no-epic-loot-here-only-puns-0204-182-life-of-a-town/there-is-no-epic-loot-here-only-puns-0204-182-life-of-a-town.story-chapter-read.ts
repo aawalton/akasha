@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0204182LifeOfATown = {
   id: "01a06730-5471-7376-8538-666738b96522",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0204-182-life-of-a-town",
   title: "182: Life of a Town",

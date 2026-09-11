@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const timeCursedKnightTimeLoopPostApoc0066Chapter66DravenmoorAlliance = {
   id: "01a06730-55d2-7f74-b9bd-aec968670520",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0066-chapter-66-dravenmoor-alliance",
   title: "Chapter 66: Dravenmoor Alliance",

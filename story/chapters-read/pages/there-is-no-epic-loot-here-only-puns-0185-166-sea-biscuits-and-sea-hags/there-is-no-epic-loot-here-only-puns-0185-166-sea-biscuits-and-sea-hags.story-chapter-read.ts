@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0185166SeaBiscuitsAndSeaHags = {
   id: "01a06730-53c5-7c8f-9a1d-343f2ed4c060",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0185-166-sea-biscuits-and-sea-hags",
   title: "166: Sea biscuits and Sea Hags",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const underworldBreadMageYuriProgfanSliceOfLife0031Chapter31AppleCrumbleImprovised = {
   id: "01a06730-4f13-7174-ac79-972fd5b9004c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0031-chapter-31-apple-crumble-improvised",
   title: "Chapter 31: Apple Crumble Improvised",

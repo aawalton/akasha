@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0058Chapter58OfDeepHolesAndDeeperDumDums = {
   id: "01a06730-55e5-79ce-9965-6900d5b81bf3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0058-chapter-58-of-deep-holes-and-deeper-dum-dums",
   title: "Chapter 58: Of Deep Holes and Deeper Dum-Dums",

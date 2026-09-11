@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const twelveStepsToTranscendenceASkillGrindingLitrpg0044Chapter43UnwelcomeGuests = {
   id: "01a06585-ef14-7d58-b326-ba6dcca5d517",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0044-chapter-43-unwelcome-guests",
   title: "Chapter 43: Unwelcome Guests",

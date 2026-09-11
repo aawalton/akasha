@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const twelveStepsToTranscendenceASkillGrindingLitrpg0015Chapter14HowDoYouKillSomething = {
   id: "01a06585-ef10-7ad9-ae47-c05a697f7d13",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0015-chapter-14-how-do-you-kill-something",
   title: "Chapter 14: How Do You Kill Something That Won't Die?",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0100Chapter99AttackOnTitants = {
   id: "01a06730-55e7-751b-a8e8-c7139f04353c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0100-chapter-99-attack-on-titants",
   title: "Chapter 99: Attack on TitAnts!",

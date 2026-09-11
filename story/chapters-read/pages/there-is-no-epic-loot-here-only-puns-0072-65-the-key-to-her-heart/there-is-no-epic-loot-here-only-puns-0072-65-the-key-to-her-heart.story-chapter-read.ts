@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns007265TheKeyToHerHeart = {
   id: "01a06730-5031-76e9-ab7c-5c4e02cee7b6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0072-65-the-key-to-her-heart",
   title: "65: The Key to her Heart!",

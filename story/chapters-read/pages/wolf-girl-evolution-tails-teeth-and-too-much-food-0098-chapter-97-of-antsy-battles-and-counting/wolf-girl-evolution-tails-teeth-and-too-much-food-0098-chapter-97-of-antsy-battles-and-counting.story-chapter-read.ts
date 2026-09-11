@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0098Chapter97OfAntsyBattlesAndCounting = {
   id: "01a06730-55e7-7d20-be34-f3f9e5d2af0f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0098-chapter-97-of-antsy-battles-and-counting",
   title: "Chapter 97: Of Antsy Battles and Counting Bites",

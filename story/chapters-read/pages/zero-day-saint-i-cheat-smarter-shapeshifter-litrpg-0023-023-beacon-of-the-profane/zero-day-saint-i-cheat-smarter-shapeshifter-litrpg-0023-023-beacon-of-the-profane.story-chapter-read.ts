@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0023023BeaconOfTheProfane = {
   id: "01a06730-50ae-7665-bb09-3aa1f1a3f888",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0023-023-beacon-of-the-profane",
   title: "023 - Beacon of the Profane",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0162144DramaticFlashbacksUnderTheMoon = {
   id: "01a06730-52fd-76ec-ad4f-51605094cb3b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0162-144-dramatic-flashbacks-under-the-moon",
   title: "144: Dramatic Flashbacks under the Moon",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0063Chapter63SillySecondLessonsLunacyAnd = {
   id: "01a06730-55e5-7090-8777-992c685e3466",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0063-chapter-63-silly-second-lessons-lunacy-and",
   title: "Chapter 63: Silly Second Lessons, Lunacy, and Lazy Dum-Dums",

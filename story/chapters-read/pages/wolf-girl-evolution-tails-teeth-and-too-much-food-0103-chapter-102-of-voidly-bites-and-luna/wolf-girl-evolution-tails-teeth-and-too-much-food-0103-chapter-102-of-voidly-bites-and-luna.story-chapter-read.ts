@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0103Chapter102OfVoidlyBitesAndLuna = {
   id: "01a06730-55e8-7bda-8e2b-e0227a2f26b8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0103-chapter-102-of-voidly-bites-and-luna",
   title: "Chapter 102: Of Voidly Bites and Luna Aspirations",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const twelveStepsToTranscendenceASkillGrindingLitrpg0030Chapter29Spar = {
   id: "01a06585-ef11-74d5-babe-3c476694ddd1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0030-chapter-29-spar",
   title: "Chapter 29: Spar",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns010793AKingsGrudge = {
   id: "01a06730-5183-7993-a6a7-428b54195212",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0107-93-a-kings-grudge",
   title: "93: A King's Grudge",

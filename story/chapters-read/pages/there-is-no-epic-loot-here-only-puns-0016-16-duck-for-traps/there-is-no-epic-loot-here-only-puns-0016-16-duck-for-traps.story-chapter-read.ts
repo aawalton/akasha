@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns001616DuckForTraps = {
   id: "01a06730-4f5f-7527-86d7-927b8e85b909",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0016-16-duck-for-traps",
   title: "16: Duck for Traps",

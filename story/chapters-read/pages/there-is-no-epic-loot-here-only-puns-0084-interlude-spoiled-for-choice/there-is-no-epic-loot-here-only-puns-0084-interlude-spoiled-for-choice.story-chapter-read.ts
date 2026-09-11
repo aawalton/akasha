@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0084InterludeSpoiledForChoice = {
   id: "01a06730-50b1-7a95-bc8c-2cd68ae35edb",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0084-interlude-spoiled-for-choice",
   title: "Interlude: Spoiled for Choice",

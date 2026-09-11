@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const underworldBreadMageYuriProgfanSliceOfLife0039Chapter39OurSecret = {
   id: "01a08ba2-86b0-70de-8ae9-bc01bf353d85",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0039-chapter-39-our-secret",
   position: 39,

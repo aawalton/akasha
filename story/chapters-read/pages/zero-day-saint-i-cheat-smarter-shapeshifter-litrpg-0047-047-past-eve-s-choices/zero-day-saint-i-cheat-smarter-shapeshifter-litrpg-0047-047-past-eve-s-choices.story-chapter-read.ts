@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0047047PastEveSChoices = {
   id: "01a06730-50b0-7cf3-a528-aa934fb9e1ef",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0047-047-past-eve-s-choices",
   title: "047 - Past-Eve's Choices",

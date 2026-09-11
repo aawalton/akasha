@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0108InterludeDungeonEducation = {
   id: "01a06730-518e-7db9-9796-b5446937df38",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0108-interlude-dungeon-education",
   title: "Interlude: Dungeon Education",

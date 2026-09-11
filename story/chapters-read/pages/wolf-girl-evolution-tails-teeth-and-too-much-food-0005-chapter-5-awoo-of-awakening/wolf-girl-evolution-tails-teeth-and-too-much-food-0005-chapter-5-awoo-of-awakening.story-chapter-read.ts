@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0005Chapter5AwooOfAwakening = {
   id: "01a06730-55e3-72da-95cf-e247ff2384e7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0005-chapter-5-awoo-of-awakening",
   title: "Chapter 5: Awoo of Awakening",

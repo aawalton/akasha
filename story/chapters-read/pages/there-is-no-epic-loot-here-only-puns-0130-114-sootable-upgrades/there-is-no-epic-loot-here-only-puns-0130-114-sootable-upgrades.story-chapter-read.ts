@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0130114SootableUpgrades = {
   id: "01a06730-522d-7bd1-a141-fa9dbbdaa8df",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0130-114-sootable-upgrades",
   title: "114: Sootable Upgrades",

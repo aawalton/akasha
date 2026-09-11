@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0053053InevitableEnd = {
   id: "01a06730-50b1-797a-b27b-6a27bc4297dd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0053-053-inevitable-end",
   title: "053 - Inevitable End",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0049Chapter49TheNightOfSoupAndStipulations = {
   id: "01a06730-55e5-7860-83d7-11f147a72fa7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0049-chapter-49-the-night-of-soup-and-stipulations",
   title: "Chapter 49: The Night of Soup and Stipulations",

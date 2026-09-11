@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0007007TheLordSGrace = {
   id: "01a06730-50ad-7c94-9d7b-35f55cf1c5e8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0007-007-the-lord-s-grace",
   title: "007 - The Lord's Grace",

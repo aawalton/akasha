@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns006962HollyWater = {
   id: "01a06730-501e-75a0-bcc4-7cc7530409b2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0069-62-holly-water",
   title: "62: Holly Water",

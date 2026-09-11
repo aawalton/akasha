@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0164146DreamsNeverLinger = {
   id: "01a06730-5315-7195-a436-eb8d0400a20a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0164-146-dreams-never-linger",
   title: "146: Dreams never linger",

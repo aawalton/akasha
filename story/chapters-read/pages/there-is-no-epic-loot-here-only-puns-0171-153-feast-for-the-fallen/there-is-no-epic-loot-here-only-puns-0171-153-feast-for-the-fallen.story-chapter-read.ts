@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0171153FeastForTheFallen = {
   id: "01a06730-5366-7382-b8fb-c0d90cd961b6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0171-153-feast-for-the-fallen",
   title: "153: Feast for the Fallen",

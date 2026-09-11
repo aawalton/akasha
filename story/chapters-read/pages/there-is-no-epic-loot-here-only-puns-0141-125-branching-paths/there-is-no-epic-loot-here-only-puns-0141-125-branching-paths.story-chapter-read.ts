@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0141125BranchingPaths = {
   id: "01a06730-5252-7a46-90a3-a1fa80d0309b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0141-125-branching-paths",
   title: "125: Branching Paths",

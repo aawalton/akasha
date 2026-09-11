@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const underworldBreadMageYuriProgfanSliceOfLife0004Chapter4TheQuestForCornbread = {
   id: "01a06730-4f12-7e84-a9ef-5f6f50d7756b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0004-chapter-4-the-quest-for-cornbread",
   title: "Chapter 4: The Quest for Cornbread",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0221199PerfectlyNormalThomasDarkblade = {
   id: "01a06730-54fa-78e5-9d5e-f2b9c5ae59f8",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0221-199-perfectly-normal-thomas-darkblade",
   title: "199: Perfectly Normal Thomas Darkblade",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0150133IHaveAwokenAndIHaveChosenViolence = {
   id: "01a06730-527c-77bc-b786-29e0a064fd30",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0150-133-i-have-awoken-and-i-have-chosen-violence",
   title: "133: I have awoken and I have chosen violence",

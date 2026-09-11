@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0174156FairplayGoesBothWays = {
   id: "01a06730-536a-75f2-a7e9-9d7ca8ae1f81",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0174-156-fairplay-goes-both-ways",
   title: "156: Fairplay goes Both  Ways",

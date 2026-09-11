@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0018Chapter18OnlyShadowBites = {
   id: "01a06730-55e4-7207-b0ef-8fbd4d3aeade",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0018-chapter-18-only-shadow-bites",
   title: "Chapter 18: Only Shadow Bites",

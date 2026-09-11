@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0072Chapter71OfPotionsPawSpeedAndShadow = {
   id: "01a06730-55e6-7ee4-9ce5-6b3b05ed9e33",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0072-chapter-71-of-potions-paw-speed-and-shadow",
   title: "Chapter 71: Of Potions, Paw-Speed, and Shadow Tactics",

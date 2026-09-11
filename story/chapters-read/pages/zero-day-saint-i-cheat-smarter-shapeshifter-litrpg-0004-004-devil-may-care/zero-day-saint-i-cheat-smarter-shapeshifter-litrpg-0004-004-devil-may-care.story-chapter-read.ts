@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0004004DevilMayCare = {
   id: "01a06730-50ad-711c-bb5e-b554f0bbe0d3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0004-004-devil-may-care",
   title: "004 - Devil May Care",

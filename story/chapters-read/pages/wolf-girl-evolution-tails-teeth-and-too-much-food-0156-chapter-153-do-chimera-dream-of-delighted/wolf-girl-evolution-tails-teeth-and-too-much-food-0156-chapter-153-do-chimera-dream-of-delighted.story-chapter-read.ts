@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0156Chapter153DoChimeraDreamOfDelighted = {
   id: "01a06730-5612-7059-9a8c-3f187ff8c6a7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0156-chapter-153-do-chimera-dream-of-delighted",
   title: "Chapter 153: Do Chimera Dream of Delighted Yips?",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0250227FourOfAFeather = {
   id: "01a06730-558d-7fed-a06f-dd34c9b39908",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0250-227-four-of-a-feather",
   title: "227: Four of a Feather",

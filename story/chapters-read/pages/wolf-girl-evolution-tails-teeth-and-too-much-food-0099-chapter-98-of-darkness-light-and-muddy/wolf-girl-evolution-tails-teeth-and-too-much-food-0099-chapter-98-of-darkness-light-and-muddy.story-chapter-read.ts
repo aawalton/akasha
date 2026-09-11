@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0099Chapter98OfDarknessLightAndMuddy = {
   id: "01a06730-55e7-7b2d-a71d-be327adc1dca",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0099-chapter-98-of-darkness-light-and-muddy",
   title: "Chapter 98: Of Darkness, Light, and Muddy Battles",

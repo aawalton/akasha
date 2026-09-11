@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const twelveStepsToTranscendenceASkillGrindingLitrpg0016Chapter15Poison = {
   id: "01a06585-ef10-775e-8190-2b9f1e680f09",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0016-chapter-15-poison",
   title: "Chapter 15: Poison",

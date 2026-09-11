@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0170152ComingStorm = {
   id: "01a06730-535b-7535-8406-3047556100e3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0170-152-coming-storm",
   title: "152: Coming Storm",

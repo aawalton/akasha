@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0143Chapter140OfBreadGrandmasAndRoadside = {
   id: "01a06730-5608-76a5-8874-038c6b69c30d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0143-chapter-140-of-bread-grandmas-and-roadside",
   title: "Chapter 140: Of Bread Grandmas and Roadside Rumors",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const twelveStepsToTranscendenceASkillGrindingLitrpg0045Chapter44Mine = {
   id: "01a06585-ef14-7d52-9029-7c1a27941d66",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0045-chapter-44-mine",
   title: "Chapter 44: Mine",

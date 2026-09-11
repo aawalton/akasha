@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0147Chapter144OfTunnelsTroublesAndTactical = {
   id: "01a06730-560a-7710-9a64-3d2827809699",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0147-chapter-144-of-tunnels-troubles-and-tactical",
   title: "Chapter 144: Of Tunnels, Troubles, and Tactical Jerky Offerings!",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const twelveStepsToTranscendenceASkillGrindingLitrpg0012Chapter11WhenTheSkyBurned = {
   id: "01a06585-ef10-722b-9bba-4fd20379aaf5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0012-chapter-11-when-the-sky-burned",
   title: "Chapter 11: When The Sky Burned",

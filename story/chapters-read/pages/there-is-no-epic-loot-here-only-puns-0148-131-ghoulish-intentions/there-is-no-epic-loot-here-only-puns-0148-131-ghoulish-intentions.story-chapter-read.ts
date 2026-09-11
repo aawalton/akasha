@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0148131GhoulishIntentions = {
   id: "01a06730-526d-7b90-8ac6-692063e94886",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0148-131-ghoulish-intentions",
   title: "131: Ghoulish Intentions",

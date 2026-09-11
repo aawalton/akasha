@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0045045TakeANap = {
   id: "01a06730-50b0-71b4-8fb3-d9d91617824b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0045-045-take-a-nap",
   title: "045 - Take a Nap",

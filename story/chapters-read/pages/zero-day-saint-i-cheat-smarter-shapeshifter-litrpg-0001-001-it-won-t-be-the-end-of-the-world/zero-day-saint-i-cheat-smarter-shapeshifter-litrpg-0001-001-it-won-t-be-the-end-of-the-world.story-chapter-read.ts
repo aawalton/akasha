@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0001001ItWonTBeTheEndOfTheWorld = {
   id: "01a06730-50ad-7415-bf0c-4cddffb8d985",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0001-001-it-won-t-be-the-end-of-the-world",
   title: "001 - It Won't Be The End of the World",

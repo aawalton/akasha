@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns011498TheMadnessOfSanity = {
   id: "01a06730-51c0-78e4-9b30-f7d66b0fa594",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0114-98-the-madness-of-sanity",
   title: "98: The Madness of Sanity",

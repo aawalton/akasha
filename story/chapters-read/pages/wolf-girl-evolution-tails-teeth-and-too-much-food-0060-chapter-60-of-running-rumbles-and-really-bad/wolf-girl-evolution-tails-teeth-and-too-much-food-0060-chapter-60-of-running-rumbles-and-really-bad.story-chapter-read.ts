@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0060Chapter60OfRunningRumblesAndReallyBad = {
   id: "01a06730-55e5-756a-833f-08d2e3e1c6d3",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0060-chapter-60-of-running-rumbles-and-really-bad",
   title: "Chapter 60: Of Running, Rumbles, and Really Bad Ideas",

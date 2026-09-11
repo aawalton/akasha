@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns009281LongMaySheRain = {
   id: "01a06730-50e4-713e-b4df-dcca25a5524a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0092-81-long-may-she-rain",
   title: "81: Long may she rain",

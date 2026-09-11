@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0141Chapter139OfZoomsAwoomsAndTerrain = {
   id: "01a06730-5607-7ac7-a29c-184094a71ad7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0141-chapter-139-of-zooms-awooms-and-terrain",
   title: "Chapter 139: Of Zooms, Awooms, and Terrain Travel",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0189169ThereBeDragonsAndWorseMushrooms = {
   id: "01a06730-53f4-7ce4-b99b-eb0615413114",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0189-169-there-be-dragons-and-worse-mushrooms",
   title: "169: There be Dragons and, worse, Mushrooms",

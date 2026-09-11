@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns00088WhatWickedWebWeWeave = {
   id: "01a06730-4f4b-7b45-8e40-f2e001360951",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0008-8-what-wicked-web-we-weave",
   title: "8: What Wicked Web We Weave",

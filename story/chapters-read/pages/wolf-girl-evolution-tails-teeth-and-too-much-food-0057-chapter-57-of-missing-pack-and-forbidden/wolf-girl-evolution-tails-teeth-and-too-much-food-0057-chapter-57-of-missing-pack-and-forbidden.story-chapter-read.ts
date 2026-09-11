@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0057Chapter57OfMissingPackAndForbidden = {
   id: "01a06730-55e5-75e0-ba03-b786d4dbdcb2",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0057-chapter-57-of-missing-pack-and-forbidden",
   title: "Chapter 57: Of Missing Pack and Forbidden Snacks",

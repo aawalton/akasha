@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns004242TheLittleThings = {
   id: "01a06730-4f89-78a4-a516-76f2303ceb44",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0042-42-the-little-things",
   title: "42: The Little Things",

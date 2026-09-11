@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0020Chapter20TheBiteBeyond = {
   id: "01a06730-55e4-7eb3-9a64-e2b20ef11076",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0020-chapter-20-the-bite-beyond",
   title: "Chapter 20: The Bite Beyond",

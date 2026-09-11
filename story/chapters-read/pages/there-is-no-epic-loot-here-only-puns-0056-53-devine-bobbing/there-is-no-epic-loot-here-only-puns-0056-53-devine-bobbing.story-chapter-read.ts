@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns005653DevineBobbing = {
   id: "01a06730-4fb9-7a73-be5c-8921a46b2199",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0056-53-devine-bobbing",
   title: "53: Devine Bobbing",

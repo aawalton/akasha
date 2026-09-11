@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0235212InsanePeople = {
   id: "01a06730-5535-7ef9-82cd-c316f61f1183",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0235-212-insane-people",
   title: "212: Insane People",

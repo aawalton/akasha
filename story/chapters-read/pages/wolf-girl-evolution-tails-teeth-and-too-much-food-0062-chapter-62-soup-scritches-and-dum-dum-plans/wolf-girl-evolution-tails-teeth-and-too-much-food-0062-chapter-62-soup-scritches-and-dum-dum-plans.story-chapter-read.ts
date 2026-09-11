@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0062Chapter62SoupScritchesAndDumDumPlans = {
   id: "01a06730-55e5-7b70-87ff-d8da3367665d",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0062-chapter-62-soup-scritches-and-dum-dum-plans",
   title: "Chapter 62: Soup, Scritches, and Dum Dum Plans",

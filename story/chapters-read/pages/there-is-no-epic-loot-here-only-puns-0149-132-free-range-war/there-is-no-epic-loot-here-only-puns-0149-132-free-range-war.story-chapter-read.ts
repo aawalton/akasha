@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0149132FreeRangeWar = {
   id: "01a06730-526e-778b-b63a-a0170f222ab5",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0149-132-free-range-war",
   title: "132: Free Range War",

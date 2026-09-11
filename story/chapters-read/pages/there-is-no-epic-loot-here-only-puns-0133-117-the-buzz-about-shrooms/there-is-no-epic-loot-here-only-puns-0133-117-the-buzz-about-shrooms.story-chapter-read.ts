@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0133117TheBuzzAboutShrooms = {
   id: "01a06730-522e-791c-acff-580329722b37",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0133-117-the-buzz-about-shrooms",
   title: "117: The Buzz about Shrooms",

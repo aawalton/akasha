@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0257234PlayerVersusPlayer = {
   id: "01a06730-5594-7c97-8982-0ebeb441e25e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0257-234-player-versus-player",
   title: "234: Player versus Player",

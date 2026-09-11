@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0002Chapter2MeatMemoryAndMeanWolves = {
   id: "01a06730-55e3-7987-bfbe-7a1120fa2587",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0002-chapter-2-meat-memory-and-mean-wolves",
   title: "Chapter 2: Meat, Memory, and Mean Wolves",

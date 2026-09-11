@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns001515DeltaDucks = {
   id: "01a06730-4f5f-7fd0-b7c1-0feef18e4d3a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0015-15-delta-ducks",
   title: "15: Delta Ducks",

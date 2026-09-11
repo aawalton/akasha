@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns004948EqualSystem = {
   id: "01a06730-4f95-7aec-a4c4-df79c515af30",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0049-48-equal-system",
   title: "48: Equal-system",

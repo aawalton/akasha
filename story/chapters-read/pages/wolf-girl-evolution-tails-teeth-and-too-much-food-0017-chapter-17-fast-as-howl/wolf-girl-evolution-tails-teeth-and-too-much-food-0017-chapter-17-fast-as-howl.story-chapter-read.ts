@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0017Chapter17FastAsHowl = {
   id: "01a06730-55e4-7cab-a679-547f4edec967",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0017-chapter-17-fast-as-howl",
   title: "Chapter 17: Fast as Howl",

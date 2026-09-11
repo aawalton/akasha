@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0082Chapter81OfSandwichTradeAndOneSpeedy = {
   id: "01a06730-55e7-73e2-b41a-4dc8634a967e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0082-chapter-81-of-sandwich-trade-and-one-speedy",
   title: "Chapter 81: Of Sandwich, Trade, and One Speedy Gambit",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0145Chapter142ManyThingsSheSaidManyThings = {
   id: "01a06730-560a-709e-9a0b-43b62e5669fd",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0145-chapter-142-many-things-she-said-many-things",
   title: "Chapter 142: Many-Things She Said, Many-Things to Bite",

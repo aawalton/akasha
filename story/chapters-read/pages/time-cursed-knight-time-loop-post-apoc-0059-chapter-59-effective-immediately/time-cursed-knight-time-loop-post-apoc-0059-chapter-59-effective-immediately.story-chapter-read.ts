@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const timeCursedKnightTimeLoopPostApoc0059Chapter59EffectiveImmediately = {
   id: "01a06730-55cc-7c47-826d-9a3f2c0f6d86",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0059-chapter-59-effective-immediately",
   title: "Chapter 59: Effective immediately",

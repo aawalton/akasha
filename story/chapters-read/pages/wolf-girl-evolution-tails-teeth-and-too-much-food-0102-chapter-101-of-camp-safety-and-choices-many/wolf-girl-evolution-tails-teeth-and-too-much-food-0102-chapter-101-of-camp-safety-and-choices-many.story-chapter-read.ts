@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0102Chapter101OfCampSafetyAndChoicesMany = {
   id: "01a06730-55e8-7eb9-8885-516cb2da62a1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0102-chapter-101-of-camp-safety-and-choices-many",
   title: "Chapter 101: Of Camp Safety and Choices Many",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const underworldBreadMageYuriProgfanSliceOfLife0013Chapter13HomeSweetHome = {
   id: "01a06730-4f13-7fb7-a062-86227184429e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0013-chapter-13-home-sweet-home",
   title: "Chapter 13: Home Sweet Home",

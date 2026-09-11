@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0138122TreesACompany = {
   id: "01a06730-523c-7941-9273-8c6756e4016a",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0138-122-trees-a-company",
   title: "122: Tree's a Company",

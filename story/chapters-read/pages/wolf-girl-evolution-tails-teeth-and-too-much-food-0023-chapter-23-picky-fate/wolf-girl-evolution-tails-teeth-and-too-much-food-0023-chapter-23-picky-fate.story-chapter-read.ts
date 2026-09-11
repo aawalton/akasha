@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0023Chapter23PickyFate = {
   id: "01a06730-55e4-7fa7-a88e-5eb0f5a9cdef",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0023-chapter-23-picky-fate",
   title: "Chapter 23: Picky Fate",

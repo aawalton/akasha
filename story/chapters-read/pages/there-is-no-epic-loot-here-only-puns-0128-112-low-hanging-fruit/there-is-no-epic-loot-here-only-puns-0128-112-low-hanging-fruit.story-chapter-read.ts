@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0128112LowHangingFruit = {
   id: "01a06730-522d-7cd3-a9de-22cf0d9dc20b",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0128-112-low-hanging-fruit",
   title: "112: Low-hanging fruit",

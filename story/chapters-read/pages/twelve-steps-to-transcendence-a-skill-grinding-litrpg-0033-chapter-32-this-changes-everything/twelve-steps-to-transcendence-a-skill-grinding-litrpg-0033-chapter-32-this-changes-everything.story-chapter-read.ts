@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const twelveStepsToTranscendenceASkillGrindingLitrpg0033Chapter32ThisChangesEverything = {
   id: "01a06585-ef13-7698-bc4a-47711aaefd25",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0033-chapter-32-this-changes-everything",
   title: "Chapter 32: This Changes Everything",

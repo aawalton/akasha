@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0199178StarsInYouEyes = {
   id: "01a06730-5439-7fad-b324-997054b03858",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0199-178-stars-in-you-eyes",
   title: "178: Stars in You Eyes",

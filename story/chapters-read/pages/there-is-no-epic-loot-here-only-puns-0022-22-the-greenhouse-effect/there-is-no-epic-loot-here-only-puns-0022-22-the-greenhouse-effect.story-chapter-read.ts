@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns002222TheGreenhouseEffect = {
   id: "01a06730-4f7a-76b1-9b44-5b6cd16816e7",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0022-22-the-greenhouse-effect",
   title: "22: The Greenhouse Effect",

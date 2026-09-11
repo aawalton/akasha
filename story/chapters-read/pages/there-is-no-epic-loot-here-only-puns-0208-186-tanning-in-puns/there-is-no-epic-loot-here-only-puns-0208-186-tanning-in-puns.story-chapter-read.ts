@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0208186TanningInPuns = {
   id: "01a06730-5497-7603-a5d0-69b88af31a2c",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0208-186-tanning-in-puns",
   title: "186: Tanning in Puns",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0091Chapter90OfPotionsSmellsAndShadow = {
   id: "01a06730-55e7-7ac0-91af-3b0209ee5dad",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0091-chapter-90-of-potions-smells-and-shadow",
   title: "Chapter 90: Of Potions, Smells, and Shadow Tricks",

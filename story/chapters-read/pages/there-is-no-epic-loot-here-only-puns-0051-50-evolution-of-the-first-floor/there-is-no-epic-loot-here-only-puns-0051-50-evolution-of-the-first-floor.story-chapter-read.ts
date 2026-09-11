@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns005150EvolutionOfTheFirstFloor = {
   id: "01a06730-4f96-765c-932b-be0d912797c6",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0051-50-evolution-of-the-first-floor",
   title: "50: Evolution of the First Floor",

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns0117101HowToBeADungeon = {
   id: "01a06730-51cc-770a-ba83-34d2e716fc0e",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0117-101-how-to-be-a-dungeon",
   title: "101: How to be a Dungeon",

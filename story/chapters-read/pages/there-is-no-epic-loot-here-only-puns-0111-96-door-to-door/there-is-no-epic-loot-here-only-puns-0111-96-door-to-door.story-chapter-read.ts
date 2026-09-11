@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns011196DoorToDoor = {
   id: "01a06730-519c-7c1b-8ee0-7a4cedaf5174",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0111-96-door-to-door",
   title: "96: Door to Door",

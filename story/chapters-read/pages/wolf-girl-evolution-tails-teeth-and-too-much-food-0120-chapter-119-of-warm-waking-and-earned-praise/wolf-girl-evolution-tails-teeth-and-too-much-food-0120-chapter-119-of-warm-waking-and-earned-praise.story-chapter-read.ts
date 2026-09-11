@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0120Chapter119OfWarmWakingAndEarnedPraise = {
   id: "01a06730-55f2-743e-bddb-7718fa70cfb1",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0120-chapter-119-of-warm-waking-and-earned-praise",
   title: "Chapter 119: Of Warm Waking and Earned Praise",

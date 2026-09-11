@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const timeCursedKnightTimeLoopPostApoc0128Chapter128TheThirdCircle = {
   id: "01a08c80-b29d-7624-b00c-034020f68d44",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0128-chapter-128-the-third-circle",
   position: 128,

@@ -2,7 +2,6 @@ import type { StoryChapterRead } from "akasha/story/chapters-read/story-chapter-
 
 export const thereIsNoEpicLootHereOnlyPuns004444MimeTheGap = {
   id: "01a06730-4f89-7a1c-8337-c72841ad023f",
-  pageTypeSlug: "story-chapter-read",
   type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0044-44-mime-the-gap",
   title: "44: Mime the Gap",
