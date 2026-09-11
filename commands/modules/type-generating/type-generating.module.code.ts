@@ -1,8 +1,11 @@
-import { createRequire } from "node:module"
-import { join } from "node:path"
 import type { Adding, Replacing } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
 import { formattedBody } from "akasha/code-system/code-format/code-format.module.code.ts"
+import {
+  bodyFor,
+  type Held,
+  heldOver,
+} from "akasha/commands/modules/body-loading/body-loading.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { readingIn, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
@@ -25,8 +28,6 @@ const GENERATES = "generateTypes"
 
 const TURNS = "couldTurn"
 
-const loadFrom = createRequire(import.meta.url)
-
 export type Generating = (root: string, shadow: Shadow, change: Change) => readonly Adding[]
 
 export type Turning = (change: Change) => boolean
@@ -35,7 +36,7 @@ export type Reached =
   | { readonly generating: Generating; readonly turning?: Turning }
   | { readonly missing: string }
 
-export type Reaching = (root: string, at: string) => Reached
+export type Reaching = (root: string, at: string, body: string | null) => Reached
 
 export type Typed = {
   readonly edits: readonly (Adding | Replacing)[]
@@ -48,10 +49,10 @@ export function generatorAt(pageTypePath: string): string | null {
   return besideAt(pageTypePath, GENERATOR, HOLDS)
 }
 
-export function generatingIn(root: string, at: string): Reached {
-  let held: Record<string, unknown>
+export function generatingIn(root: string, at: string, body: string | null = null): Reached {
+  let held: Held
   try {
-    held = loadFrom(join(root, at)) as Record<string, unknown>
+    held = heldOver(root, at, body)
   } catch (thrown) {
     return { missing: thrown instanceof Error ? thrown.message : String(thrown) }
   }
@@ -93,7 +94,7 @@ export function typedOver(
       said.push(`\`${slug}\` states a type generator, and \`${beside}\` is at no path to load`)
       continue
     }
-    const reached = reaching(change.root, at)
+    const reached = reaching(change.root, at, bodyFor(change, beside))
     if ("missing" in reached) {
       said.push(
         `\`${slug}\` states a type generator, and \`${beside}\` gave none — ${reached.missing}`
@@ -127,7 +128,7 @@ export function typedOver(
 function askedOf(change: Change, reaching: Reaching, path: string): boolean {
   const beside = generatorAt(path)
   if (beside === null) return false
-  const reached = reaching(change.root, beside)
+  const reached = reaching(change.root, beside, bodyFor(change, beside))
   if ("missing" in reached) return true
   const turning = reached.turning
   return turning === undefined || turning(change)

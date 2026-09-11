@@ -106,13 +106,5 @@ export const groupWriting = {
       invariantKind: "departure",
       statement: "A group runs off the body the change leaves rather than off the checkout.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A body the change leaves is forgotten once the code is loaded from that body.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A module a group's code imports is loaded as the checkout has that module.",
-    },
   ],
 } as const satisfies Module

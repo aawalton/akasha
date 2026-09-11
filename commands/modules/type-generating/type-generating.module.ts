@@ -91,6 +91,15 @@ export const typeGenerating = {
     },
     {
       invariantKind: "departure",
+      statement: "A generator runs off the body the change leaves rather than off the checkout.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What a change could turn is asked of the generator that change leaves rather than the checkout's.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Nothing here refuses a landing.",
     },
     {

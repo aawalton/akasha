@@ -1,8 +1,11 @@
-import { readFileSync } from "node:fs"
-import { createRequire } from "node:module"
-import { basename, join } from "node:path"
+import { basename } from "node:path"
 import type { Adding, Replacing } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
+import {
+  bodyFor,
+  type Held,
+  heldOver,
+} from "akasha/commands/modules/body-loading/body-loading.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
@@ -29,20 +32,6 @@ const SLUG = "slug"
 const PROPERTY_SLUG = "propertySlug"
 
 const ENDING = "."
-
-const LOADER = "ts"
-
-const SPECIAL = /[.*+?^${}()|[\]\\]/g
-
-const NO_PLUGIN =
-  "a body the change leaves is loaded with `Bun.plugin`, which only bun carries, and this runtime " +
-  "holds no `Bun` global"
-
-const loadFrom = createRequire(import.meta.url)
-
-const bodyHeld = new Map<string, string>()
-
-const claimed = new Set<string>()
 
 export type Writing = (given: string | Reading) => string
 
@@ -97,43 +86,10 @@ export function groupAt(page: string, slug: string): string | null {
   return besideAt(page, slug + ENDING + CODE, HOLDS)
 }
 
-function forgotten(full: string): undefined {
-  delete loadFrom.cache[full]
-}
-
-function claiming(full: string): undefined {
-  if (claimed.has(full)) return
-  claimed.add(full)
-  const filter = new RegExp("^" + full.replace(SPECIAL, "\\$&") + "$")
-  Bun.plugin({
-    name: full,
-    setup: (build) => {
-      build.onLoad({ filter }, (args) => ({
-        contents: bodyHeld.get(args.path) ?? readFileSync(args.path, "utf8"),
-        loader: LOADER,
-      }))
-    },
-  })
-}
-
-function loadedOver(full: string, body: string): Record<string, unknown> {
-  if (typeof Bun === "undefined") throw new Error(NO_PLUGIN)
-  bodyHeld.set(full, body)
-  claiming(full)
-  forgotten(full)
-  try {
-    return loadFrom(full) as Record<string, unknown>
-  } finally {
-    bodyHeld.delete(full)
-    forgotten(full)
-  }
-}
-
 export function writingIn(root: string, at: string, body: string | null = null): Reached {
-  const full = join(root, at)
-  let held: Record<string, unknown>
+  let held: Held
   try {
-    held = body === null ? (loadFrom(full) as Record<string, unknown>) : loadedOver(full, body)
+    held = heldOver(root, at, body)
   } catch (thrown) {
     return { missing: thrown instanceof Error ? thrown.message : String(thrown) }
   }
@@ -150,20 +106,6 @@ function writtenBy(writing: Writing, reading: Reading): Answered {
   } catch (thrown) {
     return { missing: thrown instanceof Error ? thrown.message : String(thrown) }
   }
-}
-
-const CHANGED = new WeakMap<Change, ReadonlySet<string>>()
-
-function changedIn(change: Change): ReadonlySet<string> {
-  const found = CHANGED.get(change)
-  if (found !== undefined) return found
-  const made = new Set(change.changed)
-  CHANGED.set(change, made)
-  return made
-}
-
-function bodyFor(change: Change, at: string): string | null {
-  return changedIn(change).has(at) ? textOf(change.after(at)) : null
 }
 
 function over(

@@ -194,3 +194,44 @@ test("a generator saying the change turns nothing writes no type for that change
   expect(said.edits).toEqual([])
   expect(said.said).toEqual([])
 })
+
+const GENERATOR = generatorAt(AT) as string
+
+const LEFT = "the body the change leaves\n"
+
+test("a generator is handed the body the change leaves at that generator's path", () => {
+  const handed: (string | null)[] = []
+  typedOver(
+    changeOver(new Map([[GENERATOR, LEFT]])),
+    shadowOf(only(STATED)),
+    (_root, _at, body) => {
+      handed.push(body)
+      return { generating: () => [] }
+    }
+  )
+  expect(handed).toEqual([LEFT])
+})
+
+test("a generator the change leaves alone is handed no body", () => {
+  const handed: (string | null)[] = []
+  typedOver(changeOver(new Map()), shadowOf(only(STATED)), (_root, _at, body) => {
+    handed.push(body)
+    return { generating: () => [] }
+  })
+  expect(handed).toEqual([null])
+})
+
+test("what a change could turn is asked of the body the change leaves", () => {
+  const handed: (string | null)[] = []
+  const change: Change = {
+    root: rootWhereAGeneratorIsStated(STATED),
+    changed: [GENERATOR],
+    before: () => null,
+    after: (path) => (path === GENERATOR ? BYTES.encode(LEFT) : null),
+  }
+  turnsFor(change, (_root, _at, body) => {
+    handed.push(body)
+    return { generating: () => [] }
+  })
+  expect(handed).toEqual([LEFT])
+})

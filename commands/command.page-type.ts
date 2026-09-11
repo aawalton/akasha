@@ -117,6 +117,7 @@ export const command = {
     "namespace/google",
     "command/deploy",
     "module/folder-linking",
+    "module/body-loading",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",
