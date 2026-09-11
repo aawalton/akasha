@@ -24,7 +24,6 @@ export const readout = {
     "module/readout-ring",
     "module/readout-scale-reading",
     "module/readout-tier",
-    "module/readout-unread",
     "module/widget-tap-counting",
     "module/widget-tap-link",
     "stylesheet/readout-look",
