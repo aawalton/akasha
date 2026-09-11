@@ -20,4 +20,8 @@ export const aranyaRootFolderShape = {
         "99 root folders beside `node_modules`, `.git` and `.supervisors`: `akasha.domain.ts` declares 58 and leaves 41 undeclared. Of those 41, 36 have a page another page names, 32 of them by `alan/harness/alan-harness.domain.ts`, and 5 have no page at all: `commands`, `infra`, `persona-system`, `person-system`, `version`. The 13 root files are the 2 pages, 9 the workspace page states, `tsconfig.tsbuildinfo` whose optional property that page leaves unstated, and one churning `.uncommitted.ts` scratch.",
     },
   ],
+  constraints: [
+    "The root names each folder it may hold rather than matching a folder name to a pattern.",
+    "Alan approves each folder the root is allowed, one folder at a time.",
+  ],
 } as const satisfies Initiative
