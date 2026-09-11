@@ -1,4 +1,5 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { synthCronjob } from "akasha/infrastructure/cluster/k8s-types/manifest-composing/manifest-composing.module.code.ts"
 
 const NAMESPACE = "postgres"
 
@@ -84,5 +85,5 @@ function cronjobYaml(): string {
 }
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
-  return [{ name: "cronjob", yaml: cronjobYaml() }]
+  return synthCronjob(cronjobYaml)
 }

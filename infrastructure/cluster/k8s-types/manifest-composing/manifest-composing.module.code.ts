@@ -41,6 +41,12 @@ export function synthNamespaceConfigmapDeploymentService(
   ]
 }
 
+export function synthCronjob(
+  cronjob: () => string
+): readonly { readonly name: string; readonly yaml: string }[] {
+  return [{ name: "cronjob", yaml: cronjob() }]
+}
+
 export function synthNamespaceCronjob(
   namespace: string,
   labels: Readonly<Record<string, string>>,
