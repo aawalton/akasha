@@ -364,3 +364,9 @@ export function monarchClient(auth: Readonly<Record<string, string>>): MonarchCl
 
   return { accounts, categories, transactions, transactionStamps, holdings }
 }
+
+export function refused(payload: Record<string, unknown>, what: string): undefined {
+  if (payload.errors != null) {
+    throw new Error(`Monarch refused ${what}: ${JSON.stringify(payload.errors)}`)
+  }
+}

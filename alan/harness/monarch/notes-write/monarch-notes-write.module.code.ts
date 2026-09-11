@@ -1,5 +1,5 @@
 import type { MonarchTag, MonarchTransaction } from "../client/monarch-client.module.code.ts"
-import { monarchQuery } from "../client/monarch-client.module.code.ts"
+import { monarchQuery, refused } from "../client/monarch-client.module.code.ts"
 import { array, num, object, optional, str } from "../shape/monarch-shape.module.code.ts"
 
 const UPDATE_NOTES = `mutation Web_TransactionDrawerUpdateTransaction($input: UpdateTransactionMutationInput!) {
@@ -20,12 +20,6 @@ export type FetchDay = (window: {
   readonly startDate: string
   readonly endDate: string
 }) => Promise<readonly MonarchTransaction[]>
-
-function refused(payload: Record<string, unknown>, what: string): undefined {
-  if (payload.errors != null) {
-    throw new Error(`Monarch refused ${what}: ${JSON.stringify(payload.errors)}`)
-  }
-}
 
 function readTags(value: unknown, path: string): readonly MonarchTag[] {
   return array(value ?? [], path).map((t, i) => {

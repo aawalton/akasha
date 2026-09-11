@@ -1,4 +1,4 @@
-import { monarchQuery } from "../client/monarch-client.module.code.ts"
+import { monarchQuery, refused } from "../client/monarch-client.module.code.ts"
 import { setTransactionTags, withAiTag } from "../notes-write/monarch-notes-write.module.code.ts"
 import { object, str } from "../shape/monarch-shape.module.code.ts"
 
@@ -17,12 +17,6 @@ export interface NewTransaction {
   readonly merchantName: string
   readonly shouldUpdateBalance?: boolean
   readonly notes?: string
-}
-
-function refused(payload: Record<string, unknown>, what: string): undefined {
-  if (payload.errors != null) {
-    throw new Error(`Monarch refused ${what}: ${JSON.stringify(payload.errors)}`)
-  }
 }
 
 export async function createTransaction(
