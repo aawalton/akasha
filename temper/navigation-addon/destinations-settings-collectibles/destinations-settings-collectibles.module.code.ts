@@ -19,6 +19,7 @@ import {
   colorDefaultRgba,
   compassPinLayout,
   DESTINATIONS_PIN_PRIORITY_OFFSET,
+  filterDisabled,
   isFilterEnabled,
   perCharName,
   redrawAllPins,
@@ -38,10 +39,6 @@ function bothCollectibleFiltersDisabled(): boolean {
     !isFilterEnabled(filters, PIN_TYPES.COLLECTIBLES) &&
     !isFilterEnabled(filters, PIN_TYPES.COLLECTIBLESDONE)
   )
-}
-
-function filterDisabled(pinType: string): (this: void) => boolean {
-  return () => !isFilterEnabled(getCharacterSavedVariables().filters, pinType)
 }
 
 export function buildCollectiblesSubmenu(): LamSubmenuData {

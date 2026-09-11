@@ -19,6 +19,7 @@ import {
   colorDefaultRgb,
   colorDefaultRgba,
   compassPinLayout,
+  filterDisabled,
   isFilterEnabled,
   perCharName,
   perCharToggleTooltip,
@@ -39,10 +40,6 @@ const VWW_PIN_TYPES: readonly string[] = [
   PIN_TYPES.VAMPIRE_ALTAR,
   PIN_TYPES.WEREWOLF_SHRINE,
 ]
-
-function filterDisabled(pinType: string): (this: void) => boolean {
-  return () => !isFilterEnabled(getCharacterSavedVariables().filters, pinType)
-}
 
 function allVwwFiltersDisabled(): boolean {
   const filters = getCharacterSavedVariables().filters

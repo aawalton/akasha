@@ -19,6 +19,7 @@ import {
   colorDefaultRgba,
   compassPinLayout,
   DESTINATIONS_PIN_PRIORITY_OFFSET,
+  filterDisabled,
   isFilterEnabled,
   perCharName,
   redrawAllPins,
@@ -37,10 +38,6 @@ function bothFishingFiltersDisabled(): boolean {
   return (
     !isFilterEnabled(filters, PIN_TYPES.FISHING) && !isFilterEnabled(filters, PIN_TYPES.FISHINGDONE)
   )
-}
-
-function filterDisabled(pinType: string): (this: void) => boolean {
-  return () => !isFilterEnabled(getCharacterSavedVariables().filters, pinType)
 }
 
 function fishTextToggle(spec: {

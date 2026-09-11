@@ -19,6 +19,7 @@ import {
   colorDefaultRgb,
   colorDefaultRgba,
   compassPinLayout,
+  filterDisabled,
   isFilterEnabled,
   perCharName,
   perCharToggleTooltip,
@@ -39,10 +40,6 @@ const MISC_POI_TYPES: readonly string[] = [
   PIN_TYPES.HIGHISLE,
   PIN_TYPES.DWEMER,
 ]
-
-function filterDisabled(pinType: string): (this: void) => boolean {
-  return () => !isFilterEnabled(getCharacterSavedVariables().filters, pinType)
-}
 
 function allMiscFiltersDisabled(): boolean {
   const filters = getCharacterSavedVariables().filters

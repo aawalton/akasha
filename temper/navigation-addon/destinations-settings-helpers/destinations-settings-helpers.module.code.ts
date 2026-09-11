@@ -3,6 +3,7 @@ import { DEFAULTS } from "../destinations-defaults/destinations-defaults.module.
 import { getSettingsString } from "../destinations-lang-strings/destinations-lang-strings.module.code.ts"
 import { PIN_TYPES } from "../destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import { DRTV } from "../destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
+import { getCharacterSavedVariables } from "../destinations-saved-variables/destinations-saved-variables.module.code.ts"
 
 const LMP = LibMapPins
 
@@ -66,6 +67,10 @@ export function compassPinLayout(pinType: string): CompassPinLayout {
 
 export function isFilterEnabled(filters: Record<string, boolean>, pinType: string): boolean {
   return filters[pinType] ?? false
+}
+
+export function filterDisabled(pinType: string): (this: void) => boolean {
+  return () => !isFilterEnabled(getCharacterSavedVariables().filters, pinType)
 }
 
 export function choiceAt(choices: readonly string[], luaIndex: number): string {
