@@ -11,7 +11,7 @@ export const nimueCodeCleanup = {
     {
       statement: "No code spells a path as a string literal.",
       workingMemory:
-        "Zero is real and measured. Two holes are left. `askingOver` drops a literal opening with `.`, so 15 relative path literals in a page's code reach a file the index holds unseen. `typedIn` asks the index with the whole literal rather than with the runs in it, as `ranIn` does, so 30 more page paths sit inside a larger string. A sweep of the TypeScript bodies finds no dead path literal left, and the 323 reasons `generated` hides all have a generator behind them.",
+        "Both holes are closed. `askingOver` resolves a literal opening with a dot from the folder the spelling file sits in, and `namingIn` reads a literal again from each separator, as `ranIn` has always read a body outside TypeScript. Driven over the whole index the way the audit wires it, the check answers 189 refusals over 97 files where it answered 7 over 4: 32 new in a page's own code and 150 new in a test, none in a generator or a fixture. What is left is the remediation, not the reach.",
     },
     {
       statement: "A change moving a folder repoints the manifest naming that folder.",
