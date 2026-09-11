@@ -21,19 +21,19 @@ export const theaChecksSystem = {
       statement:
         "Audits run in a dedicated singleton service and are requested by agents, never run directly.",
       workingMemory:
-        "Built: audit-verdict keys a finding to a commit and answers for every ancestor of it, and audit-serving runs one check's audit under a turn of its own, joins askers in one process on one promise, and carries a verdict forward where git says nothing the check takes as input moved. Left: the service page and the deploy, and the request path an agent asks through. block-subagent-audit will have to refuse the seat too, which changes what a hook refuses and needs Alan.",
+        "audit-verdict keys a finding to a commit, audit-serving runs one check's audit under a turn of its own, and `akasha audit` named nothing asks the service for a round and answers from the verdicts it leaves, costing no round where a verdict already answers for that commit. The service is deployed and its first round ran. Left: block-subagent-audit still bars a subagent from `akasha audit`, which asking has made cheap, and lifting that bar is a change to what a hook refuses.",
     },
     {
       statement:
         "The singleton service runs every audit hourly and messages thea the failures to remediate.",
       workingMemory:
-        "serving runs every audit in a round and tells thea only the checks that turned from clean to refusing, one message for the round, so a check red last hour is not told again. writeMessage is proven from a plain process by service-watching. Left: the service-workstation page, hourly as royal-road-sync is, and a deploy. The seat-side receiver answered nothing all session, so delivery into thea is the one part nothing has shown working end to end.",
+        "The first hourly round ran, and 49 of the 55 verdicts were in with two refusing. index-is-level-with-the-pages refused on 205 entries a folder move touched 48 seconds into the reconcile, which the span git names now drops. no-refused-syntax spent 20.7 processor seconds against the 15 its own page states, which is a check to make faster rather than a ceiling to raise. Left: watching one message reach thea, which nothing has yet shown end to end.",
     },
     {
       statement:
         "The index reconcile runs as an audit, so a skew between index and pages is found.",
       workingMemory:
-        "`akasha index refresh --dry-run` already reconciles and reports drift over 70,344 pages and 660,612 entries in 49.4s of processor time. index-is-level-with-the-pages runs that reconcile with nothing written and judges what it would have written. A scratch index to diff against would write those entries twice, so the drift is read in place and every entry naming an uncommitted file is judged by nothing, which is where all the churn measured lives. Left: a round proving it runs clean.",
+        "index-is-level-with-the-pages runs the reconcile with nothing written and judges what it would have written, over 70,344 pages and 660,612 entries in about fifty processor seconds. Every drift it has found is churn rather than skew: an uncommitted file, or a commit landing while it ran. The first is dropped by name and the second by the span git says moved between the commit read before the reconcile and the one read after. Left: a round where it runs clean.",
     },
   ],
   constraints: [
