@@ -10,4 +10,10 @@ export const grafana = {
   code: "ts",
   generatedDirectory: true,
   parts: ["dashboard/database", "dashboard/pods", "dashboard/resources"],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The pod template carries the hash of the grafana-secrets secret.",
+    },
+  ],
 } as const satisfies Manifest
