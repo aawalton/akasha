@@ -41,8 +41,10 @@ import {
   packaging,
   pairing,
   READER_AT,
+  RELYING_AT,
   reached,
   reading,
+  relying,
   THING_AT,
   TWO_BREAKS,
   twinned,
@@ -100,6 +102,13 @@ test("a declaration file the change carries is judged, so a fault inside it is r
   const said = await over(root, DECLARED_AT, "declare const HELD_ONE: number = 1\n")
   expect(said.map((one) => one.path)).toEqual([DECLARED_AT])
   expect(said[0]?.reason).toContain("TS1039")
+})
+
+test("a declaration file the change takes away is judged, so one relying on its global is refused", async () => {
+  const said = await over(relying(), DECLARED_AT, null)
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(RELYING_AT)
+  expect(said[0]?.reason).toContain("TS2304")
 })
 
 test("what a config's include names is read as a pattern rather than as plain text", () => {

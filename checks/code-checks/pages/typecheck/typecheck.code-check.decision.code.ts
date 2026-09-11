@@ -107,6 +107,13 @@ export function rootsOf(change: Change, index: Answering): readonly string[] {
   return found
 }
 
+export function orphanedIn(change: Change, index: Answering): readonly string[] {
+  const gone = change.changed.filter((one) => compiled(one) && change.after(one) === null)
+  if (gone.length === 0) return []
+  const held = reachingInto(gone, [IMPORT], index, compiled)
+  return held.some((one) => change.after(one) !== null) ? [] : gone
+}
+
 export function declaringIn(change: Change, index: Answering): readonly string[] {
   const held = index.everyPath()
   return held.filter((one) => compiled(one) && one.endsWith(DECLARED) && change.after(one) !== null)
@@ -257,15 +264,17 @@ export function claimedIn(change: Change, index: Answering): (path: string) => b
 
 export async function foundIn(change: Change, shadow: Shadow): Promise<readonly Found[]> {
   const reached = rootsOf(change, shadow.index)
-  if (reached.length === 0) return []
+  const orphaned = orphanedIn(change, shadow.index)
+  if (reached.length === 0 && orphaned.length === 0) return []
   const claimed = claimedIn(change, shadow.index)
   const roots = reached.filter((one) => !claimed(one))
-  if (roots.length === 0) return []
   const root = resolve(change.root)
   const every = [...new Set([...shadow.index.everyPath(), ...change.changed])]
   const placed = placingOver(every, (one) => textOf(change.after(one)))
   const declared = declaringIn(change, shadow.index).filter((one) => !claimed(one))
   const named = [...new Set([...roots, ...declared])]
+  const asked = orphaned.length === 0 ? roots : named
+  if (asked.length === 0) return []
   const read = bodiesOf(change, mintingIn(change, [...waitingKeys(shadow)], shadow.index), placed)
   const at = join(root, CONFIG_NAME)
   const config = configOf(root, named)
@@ -285,7 +294,7 @@ export async function foundIn(change: Change, shadow: Shadow): Promise<readonly 
     if (project === undefined) throw new Error(`${CONFIG_NAME} named nothing a check could read`)
     const found: Found[] = []
     const program = await project.program
-    for (const one of roots) {
+    for (const one of asked) {
       const file = join(root, one)
       for (const said of await program.getSyntacticDiagnostics(file))
         found.push(foundOf(root, said, placed))

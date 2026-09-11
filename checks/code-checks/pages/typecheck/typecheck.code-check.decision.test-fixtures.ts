@@ -220,6 +220,20 @@ export function declared(files: Readonly<Record<string, string>>): string {
   return root
 }
 
+export const RELYING_AT = "akasha/eso-relies.type-declaration.d.ts"
+
+const RELYING_ID = "01a04f2b-3d24-70b3-8c3e-3076a929914a"
+
+export function relying(): string {
+  const root = staged({
+    [DECLARED_AT]: "declare const HELD_ONE: number\n",
+    [RELYING_AT]: "declare const HELD_TWO: typeof HELD_ONE\n",
+  })
+  pathFiled(root, DECLARED_AT, [{ path: DECLARED_AT, id: DECLARED_ID }])
+  pathFiled(root, RELYING_AT, [{ path: RELYING_AT, id: RELYING_ID }])
+  return root
+}
+
 export const FIRST_OF =
   "export function first(held: readonly string[]): string {\n  return held[0]\n}\n"
 

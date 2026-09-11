@@ -254,6 +254,14 @@ export const typecheck = {
       invariantKind: "constraint",
       statement: "A change reading clean here can refuse at audit over a file no change roots.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A change taking away a file no import reaches has the declaration files judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Judging those costs no compiling, the program holding them already.",
+    },
   ],
   check: { maxCpuSeconds: 60 },
   audit: { maxCpuSeconds: 60 },
