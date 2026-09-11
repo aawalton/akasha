@@ -22,12 +22,12 @@ import {
   NUM_MAX_ENTRIES,
   STR_TO_LOG_LEVEL,
   TAG_INGAME,
-} from "../debug-logger-constants/debug-logger-constants.module.code.ts"
+} from "akasha/temper/lib-debug-logger/debug-logger-constants/debug-logger-constants.module.code.ts"
 import type {
   InternalState,
   Lib,
   Settings,
-} from "../debug-logger-types/debug-logger-types.module.code.ts"
+} from "akasha/temper/lib-debug-logger/debug-logger-types/debug-logger-types.module.code.ts"
 
 const UI_LOAD_START_TIME = GetTimeStamp() * 1000
 const SESSION_START_TIME = UI_LOAD_START_TIME - GetGameTimeMilliseconds()

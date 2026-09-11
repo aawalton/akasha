@@ -1,5 +1,8 @@
-import { INTERNAL, LIB } from "../debug-logger-state/debug-logger-state.module.code.ts"
-import type { Settings } from "../debug-logger-types/debug-logger-types.module.code.ts"
+import {
+  INTERNAL,
+  LIB,
+} from "akasha/temper/lib-debug-logger/debug-logger-state/debug-logger-state.module.code.ts"
+import type { Settings } from "akasha/temper/lib-debug-logger/debug-logger-types/debug-logger-types.module.code.ts"
 
 const TAG_TEMPLATE = "[%s] %s"
 

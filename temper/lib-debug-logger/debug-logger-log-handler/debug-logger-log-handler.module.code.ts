@@ -1,13 +1,16 @@
-import { asFormatArgs } from "../debug-logger-casts/debug-logger-casts.module.code.ts"
+import { asFormatArgs } from "akasha/temper/lib-debug-logger/debug-logger-casts/debug-logger-casts.module.code.ts"
 import {
   CALLBACK_LOG_ADDED,
   CALLBACK_LOG_PRUNED,
-} from "../debug-logger-constants/debug-logger-constants.module.code.ts"
-import { INTERNAL, LIB } from "../debug-logger-state/debug-logger-state.module.code.ts"
+} from "akasha/temper/lib-debug-logger/debug-logger-constants/debug-logger-constants.module.code.ts"
+import {
+  INTERNAL,
+  LIB,
+} from "akasha/temper/lib-debug-logger/debug-logger-state/debug-logger-state.module.code.ts"
 import type {
   LogEntry,
   LoggerConfig,
-} from "../debug-logger-types/debug-logger-types.module.code.ts"
+} from "akasha/temper/lib-debug-logger/debug-logger-types/debug-logger-types.module.code.ts"
 
 declare const debug: { traceback: (this: void, message?: string, level?: number) => string }
 

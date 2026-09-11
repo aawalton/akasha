@@ -4,12 +4,12 @@ import {
   LOG_LEVEL_INFO,
   LOG_LEVEL_VERBOSE,
   LOG_LEVEL_WARNING,
-} from "../debug-logger-constants/debug-logger-constants.module.code.ts"
-import { INTERNAL } from "../debug-logger-state/debug-logger-state.module.code.ts"
+} from "akasha/temper/lib-debug-logger/debug-logger-constants/debug-logger-constants.module.code.ts"
+import { INTERNAL } from "akasha/temper/lib-debug-logger/debug-logger-state/debug-logger-state.module.code.ts"
 import type {
   LoggerClass,
   LoggerInstance,
-} from "../debug-logger-types/debug-logger-types.module.code.ts"
+} from "akasha/temper/lib-debug-logger/debug-logger-types/debug-logger-types.module.code.ts"
 
 const SUB_LOGGER_TAG_TEMPLATE = "%s/%s"
 
