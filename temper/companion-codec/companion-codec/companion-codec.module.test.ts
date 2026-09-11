@@ -1,8 +1,6 @@
 import { expect, test } from "bun:test"
-import {
-  base64urlToBytes,
-  bytesToBase64url,
-} from "akasha/temper/build-hash/build-hash-base64url/build-hash-base64url.module.code.ts"
+import { base64urlToBytes } from "akasha/temper/build-hash/build-hash-base64url/build-hash-base64url.module.code.ts"
+import { stampedWith } from "akasha/temper/build-hash/build-hash-test-utils/build-hash-test-utils.module.code.ts"
 import {
   decodeCompanion,
   ESO_VERSION_48,
@@ -111,12 +109,6 @@ function representativeCompanion(): CompanionState {
     },
     target: { armor: "dungeon", targetCount: 1, targetHealth: "execute" },
   }
-}
-
-function stampedWith(bytes: Uint8Array, version: number): string {
-  const held = new Uint8Array(bytes)
-  held[1] = version
-  return bytesToBase64url(held)
 }
 
 test("a companion carrying equipment and skills survives update forty-nine", () => {

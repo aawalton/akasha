@@ -39,10 +39,8 @@ import {
   ESO_VERSION_52,
   encodeV52,
 } from "akasha/temper/build-codec/build-codec-v52/build-codec-v52.module.code.ts"
-import {
-  base64urlToBytes,
-  bytesToBase64url,
-} from "akasha/temper/build-hash/build-hash-base64url/build-hash-base64url.module.code.ts"
+import { base64urlToBytes } from "akasha/temper/build-hash/build-hash-base64url/build-hash-base64url.module.code.ts"
+import { stampedWith } from "akasha/temper/build-hash/build-hash-test-utils/build-hash-test-utils.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import type {
   ArmorSlotItem,
@@ -208,12 +206,6 @@ function representativeBuild(): CharacterState {
     target: { armor: "overland", health: 0.35, targetCount: 1 },
     account: { esoPlus: getEsoPlusId(1) },
   }
-}
-
-function stampedWith(bytes: Uint8Array, version: number): string {
-  const held = new Uint8Array(bytes)
-  held[1] = version
-  return bytesToBase64url(held)
 }
 
 test("every recorded build hash is a character build written by update fifty-two", () => {

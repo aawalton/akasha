@@ -11,6 +11,7 @@ export const temperBuildHash = {
     "module/build-hash-base64url",
     "module/build-hash-bit-reader",
     "module/build-hash-bit-writer",
+    "module/build-hash-test-utils",
     "module/record-from-keys",
   ],
   invariants: [
