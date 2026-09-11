@@ -31,7 +31,7 @@ export function putUpService(root: string, slug: string, dryRun: boolean): PutUp
   }
 
   const plan = planFor(read.services, ownedByService(ourInstalled(home), slug))
-  const report: string[] = [`workstation-service\t${slug}`]
+  const report: string[] = [`service-workstation\t${slug}`]
   for (const name of plan.write.keys()) report.push(`write\t${name}`)
   for (const name of plan.enable) report.push(`enable\t${name}`)
   for (const name of plan.stop) report.push(`stop\t${name}`)
