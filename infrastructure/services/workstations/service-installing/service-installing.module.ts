@@ -69,5 +69,10 @@ export const serviceInstalling = {
       invariantKind: "departure",
       statement: "systemd is reloaded again where a link was made again.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A unit named to be restarted is restarted after every unit is enabled.",
+    },
+    { invariantKind: "departure", statement: "A plan naming no unit to restart restarts nothing." },
   ],
 } as const satisfies Module

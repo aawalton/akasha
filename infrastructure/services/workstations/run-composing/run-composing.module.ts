@@ -65,5 +65,15 @@ export const runComposing = {
       invariantKind: "absence",
       statement: "Nothing here writes a unit.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run is spelled under the tree named where a tree is named, and under the root where none is.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page handed over as an argument keeps its own path, since a page is read under the root.",
+    },
   ],
 } as const satisfies Module

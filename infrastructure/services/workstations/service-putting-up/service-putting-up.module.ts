@@ -4,25 +4,27 @@ export const servicePuttingUp = {
   id: "01a08cef-2ffd-70db-abdd-5cf7f3cfaf21",
   type: "module",
   slug: "service-putting-up",
-  definition: "one workstation service's units written and asked of systemd",
+  definition: "every workstation service's units written from one pinned tree and asked of systemd",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A workstation service is named by the slug its page carries.",
+      statement: "Every workstation service is put up at once rather than one service at a time.",
     },
     {
       invariantKind: "departure",
-      statement: "A slug no workstation service page carries is refused by name.",
+      statement:
+        "The code a unit runs is spelled under the tree the deploy pinned rather than under the checkout.",
     },
     {
       invariantKind: "departure",
-      statement: "Only the units of the service named are reached.",
+      statement:
+        "The pages a unit reads and writes are read under the main checkout rather than under that tree.",
     },
     {
       invariantKind: "departure",
-      statement: "A unit of another service is left alone.",
+      statement: "A unit akasha owns that no service accounts for is taken away by this call.",
     },
     {
       invariantKind: "departure",
@@ -38,11 +40,13 @@ export const servicePuttingUp = {
     },
     {
       invariantKind: "absence",
-      statement: "A service whose units are unchanged is restarted by nothing here.",
+      statement:
+        "A service is restarted where a file its own closure holds changed since the last deploy.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reaches every service at once.",
+      statement:
+        "A scheduled service is restarted by nothing, since its next tick reads the tree as the tree is.",
     },
     {
       invariantKind: "absence",

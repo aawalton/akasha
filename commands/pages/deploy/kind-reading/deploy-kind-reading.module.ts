@@ -78,5 +78,17 @@ export const deployKindReading = {
       invariantKind: "departure",
       statement: "An ESO addon is a seventh kind a slug may name.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A kind's own name is read as every page of that kind rather than as one page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page a whole kind is read at is that kind's own page type page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug one workstation service carries is refused by naming that kind.",
+    },
   ],
 } as const satisfies Module
