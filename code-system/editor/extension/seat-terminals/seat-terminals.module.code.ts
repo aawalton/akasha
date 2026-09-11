@@ -1,17 +1,17 @@
-import * as vscode from "vscode"
 import {
   readState,
   stateAt,
-} from "../../../../alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
-import type { ColumnNumber } from "../editor-group/editor-group.module.code.ts"
-import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
+} from "akasha/alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
+import type { ColumnNumber } from "akasha/code-system/editor/extension/editor-group/editor-group.module.code.ts"
+import { akashaRoot } from "akasha/code-system/editor/extension/harness-call/harness-call.module.code.ts"
 import {
   identified,
   type PidTally,
   readProcessIds,
   tally,
   tallyLine,
-} from "../terminal-pids/terminal-pids.module.code.ts"
+} from "akasha/code-system/editor/extension/terminal-pids/terminal-pids.module.code.ts"
+import * as vscode from "vscode"
 
 const TERMINAL_TABS = "terminal-tabs"
 
