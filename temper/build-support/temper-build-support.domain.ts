@@ -10,6 +10,7 @@ export const temperBuildSupport = {
     "module/automation-settings",
     "module/build-row",
     "module/build-url",
+    "module/confirm-set-target",
     "module/eso-name",
     "module/import-redirect",
     "module/row-grouping",

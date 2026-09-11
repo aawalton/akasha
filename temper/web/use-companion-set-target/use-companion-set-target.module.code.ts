@@ -4,6 +4,7 @@ import {
   applyCompanionMetadata,
   extractCompanionMetadata,
 } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+import { confirmingTarget } from "akasha/temper/build-support/confirm-set-target/confirm-set-target.module.code.ts"
 import {
   decodeCompanion,
   encodeCompanion,
@@ -148,16 +149,13 @@ export function useCompanionSetTarget({
     }
   }
 
-  const handleSetTargetConfirm = () => {
-    if (pendingConfirmEntity) {
-      const entityId = pendingConfirmEntity.entityId
-      setPendingConfirmEntity(null)
-      startTransition(async () => {
-        const args = computeSetTargetArgs(entityId)
-        if (args) await setTarget(args)
-      })
-    }
-  }
+  const handleSetTargetConfirm = confirmingTarget(
+    pendingConfirmEntity,
+    setPendingConfirmEntity,
+    startTransition,
+    computeSetTargetArgs,
+    setTarget
+  )
 
   const clearPendingConfirm = () => setPendingConfirmEntity(null)
 
