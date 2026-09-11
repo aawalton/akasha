@@ -14,8 +14,10 @@ import {
   staged,
 } from "akasha/checks/modules/staging/check-staging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import {
   pathFiled,
+  relationFiled,
   shapeAdded,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowAsked, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
@@ -41,6 +43,12 @@ export async function over(
 }
 
 const GENERATED_ID = "01a04f2b-3d24-70b3-8c3e-3076a9299145"
+
+const WAITS_ID = "01a04f2b-3d24-70b3-8c3e-3076a929914b"
+
+const EARLY_ID = "01a04f2b-3d24-70b3-8c3e-3076a929914c"
+
+const HELD_ID = "01a04f2b-3d24-70b3-8c3e-3076a929914d"
 
 const THING_TYPE_AT = "akasha/thing.page-type.ts"
 
@@ -142,30 +150,43 @@ export const LOADED_AT = "akasha/loaded.held-type.ts"
 
 const LOADER_BREAKS = "export const one: string = 1\n"
 
-function kindPage(slug: string, afterChecks: boolean): string {
+function kindPage(id: string, slug: string, afterChecks: boolean): string {
   return (
-    `export const kind = { id: "${GENERATED_ID}", pageTypeSlug: "generator-kind",` +
+    `export const kind = { id: "${id}", pageTypeSlug: "generator-kind",` +
     ` slug: "${slug}", afterChecks: ${afterChecks} }\n`
   )
 }
 
 function heldPage(generator: string): string {
   return (
-    `export const held = { id: "${GENERATED_ID}", pageTypeSlug: "text-property",` +
-    ` slug: "held", generator: "${generator}" }\n`
+    `export const held = { id: "${HELD_ID}", pageTypeSlug: "text-property",` +
+    ` slug: "held", propertySlug: "held", generator: "${generator}" }\n`
   )
+}
+
+function kindFiled(
+  root: string,
+  at: string,
+  id: string,
+  slug: string,
+  afterChecks: boolean
+): undefined {
+  named(root, at, GENERATOR_KIND, slug, id)
+  valueAlsoFiled(root, GENERATOR_KIND, [
+    { path: at, value: { id, pageTypeSlug: GENERATOR_KIND, slug, afterChecks } },
+  ])
 }
 
 export function generating(files: Readonly<Record<string, string>>, generator = WAITS): string {
   const root = staged({
     [THING_TYPE_AT]: THING_TYPE,
     [HELD_AT]: heldPage(generator),
-    [KIND_AT]: kindPage(WAITS, true),
-    [EARLY_AT]: kindPage(EARLY, false),
+    [KIND_AT]: kindPage(WAITS_ID, WAITS, true),
+    [EARLY_AT]: kindPage(EARLY_ID, EARLY, false),
     ...files,
   })
-  named(root, KIND_AT, GENERATOR_KIND, WAITS, GENERATED_ID)
-  named(root, EARLY_AT, GENERATOR_KIND, EARLY, GENERATED_ID)
+  kindFiled(root, KIND_AT, WAITS_ID, WAITS, true)
+  kindFiled(root, EARLY_AT, EARLY_ID, EARLY, false)
   shapeAdded(root, TEXT_PROPERTY, "slug", [
     {
       pageTypeSlug: TEXT_PROPERTY,
@@ -184,8 +205,11 @@ export function generating(files: Readonly<Record<string, string>>, generator = 
       propertySlug: "held",
     },
   ])
-  named(root, HELD_AT, TEXT_PROPERTY, "held", GENERATED_ID)
+  named(root, HELD_AT, TEXT_PROPERTY, "held", HELD_ID)
   named(root, THING_TYPE_AT, PAGE_TYPE, "thing", GENERATED_ID)
+  relationFiled(root, generator === WAITS ? WAITS_ID : EARLY_ID, "generator", HELD_ID, [
+    { path: HELD_AT },
+  ])
   return root
 }
 
