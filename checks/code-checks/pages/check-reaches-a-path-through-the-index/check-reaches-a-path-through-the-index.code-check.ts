@@ -135,8 +135,25 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
+      statement: "A literal is read again from each separator in that literal.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A literal opening with a dot is a reach from the folder the spelling file sits in.",
+        "A path spelled inside a longer literal is read like a literal spelling that path alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A literal is answered by the first reading the index answers for.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reading opening with a dot is a reach from the folder the spelling file sits in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading after the whole literal that opens with a dot is no reach.",
     },
     {
       invariantKind: "departure",
@@ -149,12 +166,11 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "A reach climbing above the tree lands nowhere and is let through.",
+      statement: "A reach climbing above the tree lands nowhere.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A literal opening with a separator names a path outside the tree and is let through.",
+      statement: "A reading opening with a separator names no path.",
     },
     {
       invariantKind: "departure",
@@ -267,7 +283,7 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "A long literal is shortened where the refusal names that literal.",
+      statement: "A long reading is shortened where the refusal names that reading.",
     },
     {
       invariantKind: "absence",

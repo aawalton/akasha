@@ -160,11 +160,22 @@ function specified(node: ts.Node): boolean {
   return ts.isCallExpression(up) && up.expression.kind === ts.SyntaxKind.ImportKeyword
 }
 
+function readingIn(said: string, asking: Asking): Reached | null {
+  for (const run of runsIn(said)) {
+    for (let at = 0; at < run.said.length; at += 1) {
+      const one = run.said[at] ?? ""
+      if (at > 0 && one.startsWith(PARTED_AT)) continue
+      const found = asking(one)
+      if (found !== null) return { said: one, at: found.at, page: found.page }
+    }
+  }
+  return null
+}
+
 function namingIn(node: ts.Node, asking: Asking): Reached | null {
   if (!ts.isStringLiteral(node) && !ts.isNoSubstitutionTemplateLiteral(node)) return null
   if (specified(node)) return null
-  const found = asking(node.text)
-  return found === null ? null : { said: node.text, at: found.at, page: found.page }
+  return readingIn(node.text, asking)
 }
 
 function reachedIn(

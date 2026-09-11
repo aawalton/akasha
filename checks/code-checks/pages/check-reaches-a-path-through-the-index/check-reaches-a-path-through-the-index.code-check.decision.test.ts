@@ -1,34 +1,30 @@
 import { expect, test } from "bun:test"
 import {
-  type Asked,
   askingOver,
   basedOn,
   foldersOf,
   judgedBy,
   judgingOver,
-  namingOver,
   reasonsIn,
 } from "akasha/checks/code-checks/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.code-check.decision.code.ts"
-
-const HELD = [
-  "design/colors/pages/yellow.color.ts",
-  "utils/hum/humming/humming.module.code.ts",
-  "pages/hum-formats/modules/hum-matching/hum-matching.module.code.ts",
-]
-
-const AT = "checks/code-checks/pages/a/a.code-check.code.ts"
-
-const reaching = askingOver(HELD)
-
-const NAMED = 'const AT = "design/colors"\n'
-
-const TYPES: ReadonlySet<string> = new Set(["code-check", "color", "module"])
-
-const naming = namingOver(HELD, TYPES)
-
-function only(text: string): readonly string[] {
-  return reasonsIn(reaching, naming, AT, text)
-}
+import {
+  ASKED,
+  AT,
+  BUILT,
+  DOTTED,
+  HELD,
+  MADE,
+  NAMED,
+  naming,
+  nearer,
+  only,
+  RESOLVED,
+  ran,
+  reaching,
+  STRAY,
+  SWEEPS,
+  TYPES,
+} from "akasha/checks/code-checks/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.code-check.decision.test-fixtures.ts"
 
 test("a literal a listing is handed straight off is refused", () => {
   expect(only('readdirSync("design/colors")\n')).toHaveLength(1)
@@ -91,8 +87,6 @@ test("a specifier is left to the checks that judge a specifier", () => {
   expect(only('import { a } from "utils/hum/humming/humming.module.code.ts"\n')).toEqual([])
 })
 
-const DOTTED = "../../../../design/colors/pages/yellow.color.ts"
-
 test("a literal opening with a dot is a reach from the folder the file sits in", () => {
   expect(only(`const at = new URL("${DOTTED}", import.meta.url)\n`)).toHaveLength(1)
 })
@@ -101,16 +95,39 @@ test("a specifier opening with a dot is a specifier rather than a reach", () => 
   expect(only(`import { a } from "${DOTTED}"\n`)).toEqual([])
 })
 
-test("a reach climbing above the tree lands nowhere", () => {
-  expect(only(`const at = "../${DOTTED}"\n`)).toEqual([])
+test("a reach climbing above the tree lands nowhere, so a plainer reading answers", () => {
+  const said = only(`const at = "../${DOTTED}"\n`)
+  expect(said[0]).toContain("spells `design/colors/pages/yellow.color.ts`")
 })
 
 test("a reach is answered by where it lands rather than by a path ending with it", () => {
-  expect(only('const at = "./hum-matching/hum-matching.module.code.ts"\n')).toEqual([])
+  const said = only('const at = "./hum-matching/hum-matching.module.code.ts"\n')
+  expect(said[0]).toContain("spells `hum-matching/hum-matching.module.code.ts`")
 })
 
-test("a literal opening with a separator names a path outside the tree", () => {
-  expect(only('const at = "/utils/hum/humming/humming.module.code.ts"\n')).toEqual([])
+test("a reading opening with a separator names no path, so the next reading answers", () => {
+  const said = only('const at = "/utils/hum/humming/humming.module.code.ts"\n')
+  expect(said[0]).toContain("spells `utils/hum/humming/humming.module.code.ts`")
+})
+
+const PACKAGED = "akasha/utils/hum/humming/humming.module.code.ts"
+
+test("a path spelled inside a longer literal is read", () => {
+  expect(only('const s = "see design/colors/pages/yellow.color.ts here"\n')).toHaveLength(1)
+})
+
+test("a literal is read again from each separator in that literal", () => {
+  const said = only(`const at = "${PACKAGED}"\n`)
+  expect(said[0]).toContain("spells `utils/hum/humming/humming.module.code.ts`")
+})
+
+test("a specifier reaching through the package name is read by nothing here", () => {
+  expect(only(`import { a } from "${PACKAGED}"\n`)).toEqual([])
+})
+
+test("a literal is refused once however many readings of that literal name a page", () => {
+  const both = `design/colors/pages/yellow.color.ts and ${PACKAGED}`
+  expect(only(`const at = "${both}"\n`)).toHaveLength(1)
 })
 
 test("a reach opening with one dot lands in the spelling file's own folder", () => {
@@ -182,8 +199,6 @@ test("a literal a listing reaches that names a page is refused once", () => {
 test("a literal ending in a separator names a folder rather than a page", () => {
   expect(only('const at = "design/colors/pages/yellow.color.ts/"\n')).toEqual([])
 })
-
-const SWEEPS = 'const held = said(["git", "-C", root, "ls-files", "-z", "--", "*.ts"])\n'
 
 test("a page's name spelled where the file lists a folder is refused", () => {
   expect(only(`const SUFFIX = ".module.code.ts"\nreaddirSync(root)\n`)).toHaveLength(1)
@@ -266,25 +281,6 @@ test("a file named for a page type the index does not know is not judged", () =>
   expect(judgedBy(TYPES)("akasha/a.thing.code.ts")).toBe(false)
 })
 
-const STRAY = "akasha/stray.json"
-
-const MADE = "akasha/made.json"
-
-const RESOLVED = "akasha/resolved.json"
-
-const ASKED: Asked = {
-  types: TYPES,
-  listed: (path) => path !== STRAY,
-  generated: (path) => path === MADE,
-  toolResolvesPaths: (path) => path === RESOLVED,
-}
-
-const SHELL = "akasha/one.thing.shell.sh"
-
-function ran(text: string): readonly string[] {
-  return reasonsIn(reaching, naming, SHELL, text)
-}
-
 test("a page's file that is no TypeScript is judged whatever section names that file", () => {
   expect(judgingOver(ASKED)("akasha/one.thing.config.json")).toBe(true)
 })
@@ -342,12 +338,6 @@ test("a run the index knows a path ending with is refused", () => {
 test("the line a run sits on is the line the refusal names", () => {
   expect(ran("one\ntwo\ncat design/colors/pages/yellow.color.ts\n")[0]).toContain("line 3")
 })
-
-const TWICE = ["a/one/image/Containerfile", "a/two/image/Containerfile"]
-
-const nearer = askingOver(TWICE)
-
-const BUILT = 'podman build -f "$PKG_DIR/image/Containerfile"\n'
 
 test("the page named is the one sharing the most folders with the file that spells it", () => {
   const at = "a/two/up/two-up.shell-script.shell.sh"
