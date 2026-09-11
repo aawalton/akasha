@@ -22,6 +22,8 @@ export const FIRST_PART = 1
 
 const MEMBERED = 2
 
+const PAGE_TYPE = "page-type"
+
 const NO_KEYS: ReadonlySet<string> = new Set()
 
 export type Parted = {
@@ -70,6 +72,12 @@ export function partedIn(path: string): Parted | null {
 
 export function pageOf(said: Parted): string {
   return `${said.slug}.${said.pageType}`
+}
+
+export function typeSlugIn(path: string): string | null {
+  const said = partedIn(path)
+  if (said === null || said.sections.length > 0 || said.pageType !== PAGE_TYPE) return null
+  return said.slug
 }
 
 export function namedUnder(path: string, under: ReadonlySet<string>): Slugged | null {

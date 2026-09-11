@@ -6,17 +6,9 @@ import type {
   Guard,
   Guarding,
 } from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-
-const PAGE_TYPE = "page-type"
+import { typeSlugIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 
 const NAMED = 5
-
-function typeSlugIn(path: string): string | null {
-  const said = partedIn(path)
-  if (said === null || said.sections.length > 0 || said.pageType !== PAGE_TYPE) return null
-  return said.slug
-}
 
 export function carryingIn(given: Guarding, slug: string): readonly string[] {
   return [...given.shadow.index.everyOfType(slug).map((one) => one.path)].sort()

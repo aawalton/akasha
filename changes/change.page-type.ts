@@ -17,6 +17,7 @@ export const change = {
     "module/change-shadow-tree",
     "module/change-guarding",
     "module/page-claiming",
+    "module/page-type-renaming",
     "module/page-knowing",
     "module/page-literal",
     "module/literal-splicing",
