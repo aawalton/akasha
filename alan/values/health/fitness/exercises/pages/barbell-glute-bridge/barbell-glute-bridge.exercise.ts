@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const barbellGluteBridge = {
   id: "019ebc76-227e-708e-b47d-f180a011ebc3",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "barbell-glute-bridge",
   title: "Barbell Glute Bridge",

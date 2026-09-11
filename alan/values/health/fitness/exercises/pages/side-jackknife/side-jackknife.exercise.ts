@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const sideJackknife = {
   id: "019ebc78-6269-75db-b1b2-0b976bdd2f0c",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "side-jackknife",
   title: "Side Jackknife",

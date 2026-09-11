@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const singleConeSprintDrill = {
   id: "019ebc78-65a3-701d-95d0-a518a196332e",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "single-cone-sprint-drill",
   title: "Single-Cone Sprint Drill",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const kettlebellSumoHighPull = {
   id: "019ebc77-85a0-7d1a-b84d-d3443ae85788",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "kettlebell-sumo-high-pull",
   title: "Kettlebell Sumo High Pull",

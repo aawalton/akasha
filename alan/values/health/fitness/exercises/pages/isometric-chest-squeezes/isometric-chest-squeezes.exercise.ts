@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const isometricChestSqueezes = {
   id: "019ebc77-805b-764d-8a6f-11fdb4ea6dcd",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "isometric-chest-squeezes",
   title: "Isometric Chest Squeezes",

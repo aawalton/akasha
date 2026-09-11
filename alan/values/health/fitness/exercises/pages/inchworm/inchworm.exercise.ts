@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const inchworm = {
   id: "019ebc77-78ae-76b9-af0d-4628a559d2b3",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "inchworm",
   title: "Inchworm",

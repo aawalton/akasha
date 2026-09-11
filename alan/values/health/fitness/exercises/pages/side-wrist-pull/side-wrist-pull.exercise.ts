@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const sideWristPull = {
   id: "019ebc78-645d-70f4-aa16-5ce4c3aab70a",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "side-wrist-pull",
   title: "Side Wrist Pull",

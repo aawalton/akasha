@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const ropeStraightArmPulldown = {
   id: "019ebc77-d29f-7588-a73d-6f5c5afeff9f",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "rope-straight-arm-pulldown",
   title: "Rope Straight-Arm Pulldown",

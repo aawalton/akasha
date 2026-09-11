@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const machineShoulderMilitaryPress = {
   id: "019ebc77-9a83-70cd-b061-d7cdd2f00c2b",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "machine-shoulder-military-press",
   title: "Machine Shoulder (Military) Press",

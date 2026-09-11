@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const ringDips = {
   id: "019ebc77-d063-7458-be62-6abfe6165cd1",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "ring-dips",
   title: "Ring Dips",

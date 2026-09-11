@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const chestPushWithRunRelease = {
   id: "019ebc76-cf3f-7dcd-815f-6baf344a6550",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "chest-push-with-run-release",
   title: "Chest Push with Run Release",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const speedBoxSquat = {
   id: "019ebc78-7cc5-7dbf-bba3-88c74fdb9a56",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "speed-box-squat",
   title: "Speed Box Squat",

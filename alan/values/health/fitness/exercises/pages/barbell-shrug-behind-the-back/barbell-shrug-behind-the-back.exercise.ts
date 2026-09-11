@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const barbellShrugBehindTheBack = {
   id: "019ebc76-9abc-738f-b02e-30b9feb60273",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "barbell-shrug-behind-the-back",
   title: "Barbell Shrug Behind The Back",

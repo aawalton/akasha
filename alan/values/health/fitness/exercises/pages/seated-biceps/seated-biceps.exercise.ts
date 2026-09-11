@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const seatedBiceps = {
   id: "019ebc78-54ad-718b-aa6c-923e761247c5",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "seated-biceps",
   title: "Seated Biceps",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const cariocaQuickStep = {
   id: "019ebc76-cbe1-7044-a957-61c8b26aac9f",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "carioca-quick-step",
   title: "Carioca Quick Step",

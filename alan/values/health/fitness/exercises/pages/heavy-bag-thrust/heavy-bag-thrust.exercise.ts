@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const heavyBagThrust = {
   id: "019ebc77-7552-74bb-86f7-6a9db5c11924",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "heavy-bag-thrust",
   title: "Heavy Bag Thrust",

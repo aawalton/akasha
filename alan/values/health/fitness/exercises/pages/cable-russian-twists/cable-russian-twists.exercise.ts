@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const cableRussianTwists = {
   id: "019ebc76-c3c3-7919-a539-dc8e3b3b3508",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "cable-russian-twists",
   title: "Cable Russian Twists",

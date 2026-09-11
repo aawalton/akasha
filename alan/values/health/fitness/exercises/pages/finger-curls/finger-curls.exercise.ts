@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const fingerCurls = {
   id: "019ebc77-3940-7331-9e9c-fa631e2c6126",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "finger-curls",
   title: "Finger Curls",

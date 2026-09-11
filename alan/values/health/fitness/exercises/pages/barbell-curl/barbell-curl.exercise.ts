@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const barbellCurl = {
   id: "019ebc76-2166-7a4f-bd59-8fbf3e0b6d83",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "barbell-curl",
   title: "Barbell Curl",

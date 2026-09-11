@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const dumbbellInclineRow = {
   id: "019ebc77-0ed3-7252-aa45-4d04a3d9f322",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "dumbbell-incline-row",
   title: "Dumbbell Incline Row",

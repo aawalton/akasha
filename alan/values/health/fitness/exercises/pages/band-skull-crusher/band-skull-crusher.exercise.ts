@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const bandSkullCrusher = {
   id: "019ebc76-205e-7533-bd06-be2a5b436c2a",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "band-skull-crusher",
   title: "Band Skull Crusher",

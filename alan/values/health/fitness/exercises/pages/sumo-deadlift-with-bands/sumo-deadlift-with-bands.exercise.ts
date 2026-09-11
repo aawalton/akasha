@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const sumoDeadliftWithBands = {
   id: "019ebc78-a5e2-7e2c-857d-f3ab631c11b5",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "sumo-deadlift-with-bands",
   title: "Sumo Deadlift with Bands",

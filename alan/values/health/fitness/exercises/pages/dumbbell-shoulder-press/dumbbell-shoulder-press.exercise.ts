@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const dumbbellShoulderPress = {
   id: "019ebc77-2a25-72a8-81a7-992961bf361b",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "dumbbell-shoulder-press",
   title: "Dumbbell Shoulder Press",

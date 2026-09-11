@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const ropeCrunch = {
   id: "019ebc77-d217-7fd6-a0eb-cb5e2c368647",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "rope-crunch",
   title: "Rope Crunch",

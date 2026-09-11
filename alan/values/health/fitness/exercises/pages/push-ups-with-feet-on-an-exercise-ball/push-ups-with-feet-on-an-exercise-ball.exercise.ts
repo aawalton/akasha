@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const pushUpsWithFeetOnAnExerciseBall = {
   id: "019ebc77-c774-7543-bb4a-64d008e7795c",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "push-ups-with-feet-on-an-exercise-ball",
   title: "Push-Ups With Feet On An Exercise Ball",

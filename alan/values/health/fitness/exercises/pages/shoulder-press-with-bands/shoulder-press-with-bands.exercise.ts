@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const shoulderPressWithBands = {
   id: "019ebc78-60f0-7098-af12-1c8ce388e20c",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "shoulder-press-with-bands",
   title: "Shoulder Press - With Bands",

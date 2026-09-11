@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const tricepDumbbellKickback = {
   id: "019ebc78-ab79-7e19-9592-027d0182b5e7",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "tricep-dumbbell-kickback",
   title: "Tricep Dumbbell Kickback",

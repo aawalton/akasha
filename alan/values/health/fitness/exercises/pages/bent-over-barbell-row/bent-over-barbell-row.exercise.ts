@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const bentOverBarbellRow = {
   id: "019ebc76-a243-7569-b01d-2d5ba31b1f18",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "bent-over-barbell-row",
   title: "Bent Over Barbell Row",

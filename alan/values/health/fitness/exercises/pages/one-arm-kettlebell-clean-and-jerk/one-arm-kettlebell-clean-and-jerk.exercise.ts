@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const oneArmKettlebellCleanAndJerk = {
   id: "019ebc77-b48d-751b-bb07-0aa3100c817d",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "one-arm-kettlebell-clean-and-jerk",
   title: "One-Arm Kettlebell Clean and Jerk",

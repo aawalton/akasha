@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const bentPress = {
   id: "019ebc76-a6b1-71b9-94d3-69754ccd1f54",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "bent-press",
   title: "Bent Press",

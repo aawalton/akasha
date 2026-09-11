@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const flutterKicks = {
   id: "019ebc77-3ee3-78b3-aad4-812d206ed81e",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "flutter-kicks",
   title: "Flutter Kicks",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const inclineDumbbellBenchWithPalmsFacingIn = {
   id: "019ebc77-79d8-72ea-b61a-867abc55c8c5",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "incline-dumbbell-bench-with-palms-facing-in",
   title: "Incline Dumbbell Bench With Palms Facing In",

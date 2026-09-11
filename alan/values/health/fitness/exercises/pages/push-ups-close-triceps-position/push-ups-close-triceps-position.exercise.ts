@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const pushUpsCloseTricepsPosition = {
   id: "019ebc77-c6fb-76aa-aba8-ad26720dcb9e",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "push-ups-close-triceps-position",
   title: "Push-Ups - Close Triceps Position",

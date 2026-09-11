@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const standingCableLift = {
   id: "019ebc78-837a-79d1-86b1-627319da3928",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "standing-cable-lift",
   title: "Standing Cable Lift",

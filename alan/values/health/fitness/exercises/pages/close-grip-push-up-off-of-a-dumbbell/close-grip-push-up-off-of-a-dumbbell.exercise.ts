@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const closeGripPushUpOffOfADumbbell = {
   id: "019ebc76-ddc4-7dd8-9043-ba390cd96955",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "close-grip-push-up-off-of-a-dumbbell",
   title: "Close-Grip Push-Up off of a Dumbbell",

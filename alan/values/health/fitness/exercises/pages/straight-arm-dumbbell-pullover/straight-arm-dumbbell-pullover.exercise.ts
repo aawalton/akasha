@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const straightArmDumbbellPullover = {
   id: "019ebc78-a45f-7cc9-8744-a2d95a77a44d",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "straight-arm-dumbbell-pullover",
   title: "Straight-Arm Dumbbell Pullover",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const catStretch = {
   id: "019ebc76-cc22-77f2-90b2-b738b7b66ced",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "cat-stretch",
   title: "Cat Stretch",

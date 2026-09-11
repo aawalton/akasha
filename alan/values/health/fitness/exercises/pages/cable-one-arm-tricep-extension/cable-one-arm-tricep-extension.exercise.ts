@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const cableOneArmTricepExtension = {
   id: "019ebc76-b9b3-7713-bef3-0671e17e1153",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "cable-one-arm-tricep-extension",
   title: "Cable One Arm Tricep Extension",

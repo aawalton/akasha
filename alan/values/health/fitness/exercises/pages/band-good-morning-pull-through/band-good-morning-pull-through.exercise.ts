@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const bandGoodMorningPullThrough = {
   id: "019ebc76-1fa4-7f35-a987-51407ee45b04",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "band-good-morning-pull-through",
   title: "Band Good Morning (Pull Through)",

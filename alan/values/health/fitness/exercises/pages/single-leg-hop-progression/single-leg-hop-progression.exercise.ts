@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const singleLegHopProgression = {
   id: "019ebc78-6623-772a-8563-782289d4363a",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "single-leg-hop-progression",
   title: "Single-Leg Hop Progression",

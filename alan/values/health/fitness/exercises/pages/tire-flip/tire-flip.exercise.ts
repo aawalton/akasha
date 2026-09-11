@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const tireFlip = {
   id: "019ebc78-aa50-7399-9e6e-4ff4e504087f",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "tire-flip",
   title: "Tire Flip",

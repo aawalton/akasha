@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const chestPushSingleResponse = {
   id: "019ebc76-cef9-7fe5-a941-c0c0fdda83fc",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "chest-push-single-response",
   title: "Chest Push (single response)",

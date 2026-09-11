@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const cleanPull = {
   id: "019ebc76-da54-7b25-8912-ba00d8892672",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "clean-pull",
   title: "Clean Pull",

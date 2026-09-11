@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const beatSaber1Song = {
   id: "019f0077-1ac6-75b0-9aac-45f4c44ea436",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "beat-saber-1-song",
   title: "Beat Saber (1 song)",

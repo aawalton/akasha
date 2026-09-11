@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const linearAccelerationWallDrill = {
   id: "019ebc77-9034-7271-adf7-fd9e45947402",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "linear-acceleration-wall-drill",
   title: "Linear Acceleration Wall Drill",

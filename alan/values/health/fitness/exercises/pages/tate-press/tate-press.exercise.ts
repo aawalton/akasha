@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const tatePress = {
   id: "019ebc78-a950-79ee-93f2-54f59222234f",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "tate-press",
   title: "Tate Press",

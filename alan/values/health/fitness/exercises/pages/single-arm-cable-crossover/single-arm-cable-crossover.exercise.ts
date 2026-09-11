@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const singleArmCableCrossover = {
   id: "019ebc78-64dc-7140-93c6-c4bb909a63df",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "single-arm-cable-crossover",
   title: "Single-Arm Cable Crossover",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const childsPose = {
   id: "019ebc76-cfd1-74f5-a9a5-e1b33c9bcbe3",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "childs-pose",
   title: "Child's Pose",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const thighAbductor = {
   id: "019ebc78-a9d1-7562-aafa-3bfa475043e7",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "thigh-abductor",
   title: "Thigh Abductor",

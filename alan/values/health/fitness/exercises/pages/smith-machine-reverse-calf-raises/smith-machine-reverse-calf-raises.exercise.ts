@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const smithMachineReverseCalfRaises = {
   id: "019ebc78-6eb9-7540-8d31-6e67b3513b0a",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "smith-machine-reverse-calf-raises",
   title: "Smith Machine Reverse Calf Raises",

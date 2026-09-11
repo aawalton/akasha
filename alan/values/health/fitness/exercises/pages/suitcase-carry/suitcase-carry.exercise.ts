@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const suitcaseCarry = {
   id: "019f9756-d498-791c-a5e1-963d689c2503",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "suitcase-carry",
   title: "Suitcase Carry",

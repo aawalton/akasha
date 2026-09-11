@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const kneelingCableCrunchWithAlternatingObliqueTwists = {
   id: "019ebc77-8865-7c0e-98d3-f8d90bd38807",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "kneeling-cable-crunch-with-alternating-oblique-twists",
   title: "Kneeling Cable Crunch With Alternating Oblique Twists",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const calfPress = {
   id: "019ebc76-c57f-7fe0-b317-19b69480cbb7",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "calf-press",
   title: "Calf Press",

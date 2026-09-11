@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const deadBug = {
   id: "019ebc76-e1d6-73a8-b3bb-9a966e08033c",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "dead-bug",
   title: "Dead Bug",

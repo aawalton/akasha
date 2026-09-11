@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const catchAndOverheadThrow = {
   id: "019ebc76-cc6c-7c6e-8ad2-3e3e7b812c05",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "catch-and-overhead-throw",
   title: "Catch and Overhead Throw",

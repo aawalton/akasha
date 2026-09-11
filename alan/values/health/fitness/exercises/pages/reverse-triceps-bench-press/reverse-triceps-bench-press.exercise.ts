@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const reverseTricepsBenchPress = {
   id: "019ebc77-cf63-7841-961d-58e2da6e175c",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "reverse-triceps-bench-press",
   title: "Reverse Triceps Bench Press",

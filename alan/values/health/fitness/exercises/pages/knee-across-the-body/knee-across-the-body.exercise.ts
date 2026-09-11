@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const kneeAcrossTheBody = {
   id: "019ebc77-872e-7403-9aa8-107aeb9f8c87",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "knee-across-the-body",
   title: "Knee Across The Body",

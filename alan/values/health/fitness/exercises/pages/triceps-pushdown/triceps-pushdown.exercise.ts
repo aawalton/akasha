@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const tricepsPushdown = {
   id: "019ebc78-ac3c-766f-8307-61167a68abba",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "triceps-pushdown",
   title: "Triceps Pushdown",

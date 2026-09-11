@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const seatedBentOverRearDeltRaise = {
   id: "019ebc78-542c-7ead-b270-6c048e08e9e2",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "seated-bent-over-rear-delt-raise",
   title: "Seated Bent-Over Rear Delt Raise",

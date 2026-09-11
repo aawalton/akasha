@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const atlasStones = {
   id: "019ebc76-1ac3-771d-87f5-2bcefbcd00ef",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "atlas-stones",
   title: "Atlas Stones",

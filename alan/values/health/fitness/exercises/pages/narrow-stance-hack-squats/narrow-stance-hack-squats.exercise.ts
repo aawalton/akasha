@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const narrowStanceHackSquats = {
   id: "019ebc77-b09b-754b-a67e-494ccf336c14",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "narrow-stance-hack-squats",
   title: "Narrow Stance Hack Squats",

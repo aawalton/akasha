@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const stepUpWithKneeRaise = {
   id: "019ebc78-a2cd-71ee-b673-c9627cbd5d18",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "step-up-with-knee-raise",
   title: "Step-up with Knee Raise",

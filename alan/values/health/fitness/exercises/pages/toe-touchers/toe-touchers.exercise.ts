@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const toeTouchers = {
   id: "019ebc78-aa8e-76fa-8473-8f668fbe4e45",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "toe-touchers",
   title: "Toe Touchers",

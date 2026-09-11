@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const oneArmDumbbellRow = {
   id: "019ebc77-b354-7397-a97e-dea7ecdc59b9",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "one-arm-dumbbell-row",
   title: "One-Arm Dumbbell Row",

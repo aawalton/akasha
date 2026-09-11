@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const dumbbellShrug = {
   id: "019ebc77-2a66-7b88-a3aa-73981a9d4173",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "dumbbell-shrug",
   title: "Dumbbell Shrug",

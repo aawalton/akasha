@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const balanceBoard = {
   id: "019ebc76-1e34-721d-aa2a-2bf8f86cd240",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "balance-board",
   title: "Balance Board",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const speedBandOverheadTriceps = {
   id: "019ebc78-7c7d-79c2-a74d-e413e8f97c8a",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "speed-band-overhead-triceps",
   title: "Speed Band Overhead Triceps",

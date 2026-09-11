@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const calfMachineShoulderShrug = {
   id: "019ebc76-c543-755d-8eb2-8bf7be3ffa2d",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "calf-machine-shoulder-shrug",
   title: "Calf-Machine Shoulder Shrug",

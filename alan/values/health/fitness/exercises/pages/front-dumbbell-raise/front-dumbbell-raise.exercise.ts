@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const frontDumbbellRaise = {
   id: "019ebc77-4233-7d22-8cb3-dd5aa868ac2d",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "front-dumbbell-raise",
   title: "Front Dumbbell Raise",

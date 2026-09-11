@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const brachialisSmr = {
   id: "019ebc76-b04d-7a6e-b9c6-40df32c9af0a",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "brachialis-smr",
   title: "Brachialis-SMR",

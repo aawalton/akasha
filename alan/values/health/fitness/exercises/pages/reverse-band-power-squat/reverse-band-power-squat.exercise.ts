@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const reverseBandPowerSquat = {
   id: "019ebc77-cc21-7335-8204-38908625f6ad",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "reverse-band-power-squat",
   title: "Reverse Band Power Squat",

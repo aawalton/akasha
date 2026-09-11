@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const wideGripRearPullUp = {
   id: "019ebc78-b8da-7a95-a0ed-dd320e6ce4d2",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "wide-grip-rear-pull-up",
   title: "Wide-Grip Rear Pull-Up",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const intermediateGroinStretch = {
   id: "019ebc77-7ea7-7d09-b8e0-4e118f8810f5",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "intermediate-groin-stretch",
   title: "Intermediate Groin Stretch",

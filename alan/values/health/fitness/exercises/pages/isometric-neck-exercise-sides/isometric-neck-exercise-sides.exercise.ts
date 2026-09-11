@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const isometricNeckExerciseSides = {
   id: "019ebc77-80de-7299-aab1-59b0f80feb6b",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "isometric-neck-exercise-sides",
   title: "Isometric Neck Exercise - Sides",

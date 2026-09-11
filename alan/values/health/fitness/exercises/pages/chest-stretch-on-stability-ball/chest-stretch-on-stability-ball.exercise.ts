@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const chestStretchOnStabilityBall = {
   id: "019ebc76-cf8e-75d8-8553-0081bbb698b2",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "chest-stretch-on-stability-ball",
   title: "Chest Stretch on Stability Ball",

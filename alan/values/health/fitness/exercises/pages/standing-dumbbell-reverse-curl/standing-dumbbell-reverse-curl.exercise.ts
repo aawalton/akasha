@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const standingDumbbellReverseCurl = {
   id: "019ebc78-84fe-71da-ab24-136e765d2d54",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "standing-dumbbell-reverse-curl",
   title: "Standing Dumbbell Reverse Curl",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const barbellInclineShoulderRaise = {
   id: "019ebc76-23d4-7343-9478-252afe79f084",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "barbell-incline-shoulder-raise",
   title: "Barbell Incline Shoulder Raise",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const bosuBallCableCrunchWithSideBends = {
   id: "019ebc76-a943-7c0a-8233-2b2c022ed80c",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "bosu-ball-cable-crunch-with-side-bends",
   title: "Bosu Ball Cable Crunch With Side Bends",

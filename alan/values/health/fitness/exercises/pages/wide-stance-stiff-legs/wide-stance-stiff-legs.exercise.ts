@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const wideStanceStiffLegs = {
   id: "019ebc78-c148-7587-a279-6fef81e4a2c8",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "wide-stance-stiff-legs",
   title: "Wide Stance Stiff Legs",

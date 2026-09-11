@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const lowCableCrossover = {
   id: "019ebc77-915b-7032-8f6b-ebd68a0c697c",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "low-cable-crossover",
   title: "Low Cable Crossover",

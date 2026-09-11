@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const machineTricepsExtension = {
   id: "019ebc77-9abc-7bbd-ab9d-698d84dfcdc5",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "machine-triceps-extension",
   title: "Machine Triceps Extension",

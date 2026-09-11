@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const boxSkip = {
   id: "019ebc76-aa43-739f-b313-f47f6598659f",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "box-skip",
   title: "Box Skip",

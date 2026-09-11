@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const crossOverWithBands = {
   id: "019ebc76-dfe1-7b53-a336-d42ce450f40b",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "cross-over-with-bands",
   title: "Cross Over - With Bands",

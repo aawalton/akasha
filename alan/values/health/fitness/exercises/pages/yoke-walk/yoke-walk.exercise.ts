@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const yokeWalk = {
   id: "019ebc78-c33a-7272-98f6-5780fef3d98c",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "yoke-walk",
   title: "Yoke Walk",

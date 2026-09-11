@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const movingClawSeries = {
   id: "019ebc77-9cd5-75db-a57d-2851a3cef156",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "moving-claw-series",
   title: "Moving Claw Series",

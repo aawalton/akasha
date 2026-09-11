@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const romanianDeadlift = {
   id: "019ebc77-d15a-70f0-a190-14c46c0f4cb8",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "romanian-deadlift",
   title: "Romanian Deadlift",

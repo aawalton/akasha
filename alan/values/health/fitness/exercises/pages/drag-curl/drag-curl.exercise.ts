@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const dragCurl = {
   id: "019ebc77-014a-76ea-bec1-0b3e256ef574",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "drag-curl",
   title: "Drag Curl",

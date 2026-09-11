@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const dipMachine = {
   id: "019ebc76-f157-75ca-97d7-74f1cedccad7",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "dip-machine",
   title: "Dip Machine",

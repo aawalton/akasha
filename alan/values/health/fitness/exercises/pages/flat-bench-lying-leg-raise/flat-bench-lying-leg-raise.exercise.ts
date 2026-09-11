@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const flatBenchLyingLegRaise = {
   id: "019ebc77-3b0d-7435-b56f-79305a4f017c",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "flat-bench-lying-leg-raise",
   title: "Flat Bench Lying Leg Raise",

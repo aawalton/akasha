@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const sledOverheadBackwardWalk = {
   id: "019ebc78-6996-7024-81fa-072609c95555",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "sled-overhead-backward-walk",
   title: "Sled Overhead Backward Walk",

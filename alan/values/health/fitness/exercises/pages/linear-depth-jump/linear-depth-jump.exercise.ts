@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const linearDepthJump = {
   id: "019ebc77-906f-703a-966f-d1323b34a26d",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "linear-depth-jump",
   title: "Linear Depth Jump",

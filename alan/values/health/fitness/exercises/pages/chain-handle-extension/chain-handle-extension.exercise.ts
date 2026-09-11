@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const chainHandleExtension = {
   id: "019ebc76-ccab-7227-aad3-771c4e12c211",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "chain-handle-extension",
   title: "Chain Handle Extension",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const standingHipFlexors = {
   id: "019ebc78-8958-74cf-b70d-dbd265fdead8",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "standing-hip-flexors",
   title: "Standing Hip Flexors",

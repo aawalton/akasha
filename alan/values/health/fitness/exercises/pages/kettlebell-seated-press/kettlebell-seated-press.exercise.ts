@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const kettlebellSeatedPress = {
   id: "019ebc77-852c-71f3-a06c-ed3866b330af",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "kettlebell-seated-press",
   title: "Kettlebell Seated Press",

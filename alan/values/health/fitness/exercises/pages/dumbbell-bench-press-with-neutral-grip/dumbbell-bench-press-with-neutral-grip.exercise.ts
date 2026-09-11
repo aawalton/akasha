@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const dumbbellBenchPressWithNeutralGrip = {
   id: "019ebc77-0777-799e-ab1e-33efb76ac2b6",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "dumbbell-bench-press-with-neutral-grip",
   title: "Dumbbell Bench Press with Neutral Grip",

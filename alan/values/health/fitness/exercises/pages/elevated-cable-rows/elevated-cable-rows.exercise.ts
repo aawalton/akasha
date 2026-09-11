@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const elevatedCableRows = {
   id: "019ebc77-2ecc-781b-99f9-c9480ae2714a",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "elevated-cable-rows",
   title: "Elevated Cable Rows",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const oneArmHighPulleyCableSideBends = {
   id: "019ebc77-b3d1-71d0-b392-fac7f0f0c297",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "one-arm-high-pulley-cable-side-bends",
   title: "One-Arm High-Pulley Cable Side Bends",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const ironCross = {
   id: "019ebc77-7fe4-715e-aae0-67832c2cc80f",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "iron-cross",
   title: "Iron Cross",

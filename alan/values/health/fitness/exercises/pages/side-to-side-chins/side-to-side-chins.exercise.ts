@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const sideToSideChins = {
   id: "019ebc78-641a-7ac7-8b12-56be86615061",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "side-to-side-chins",
   title: "Side To Side Chins",

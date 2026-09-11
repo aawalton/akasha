@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const barbellStepUps = {
   id: "019ebc76-9d28-7db5-bde3-8f8ecdb963c3",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "barbell-step-ups",
   title: "Barbell Step Ups",

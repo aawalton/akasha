@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const squatWithPlateMovers = {
   id: "019ebc78-8078-7862-a372-8674b10ee396",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "squat-with-plate-movers",
   title: "Squat with Plate Movers",

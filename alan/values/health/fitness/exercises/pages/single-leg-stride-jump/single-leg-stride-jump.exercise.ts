@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const singleLegStrideJump = {
   id: "019ebc78-66e4-7fd8-a480-fa6c604ebd8c",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "single-leg-stride-jump",
   title: "Single-Leg Stride Jump",

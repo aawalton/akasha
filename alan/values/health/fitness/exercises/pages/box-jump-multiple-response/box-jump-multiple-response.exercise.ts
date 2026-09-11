@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const boxJumpMultipleResponse = {
   id: "019ebc76-aa06-7b8c-acc8-2e2f824d8d28",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "box-jump-multiple-response",
   title: "Box Jump (Multiple Response)",

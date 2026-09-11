@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const lyingCrossover = {
   id: "019ebc77-95fe-7984-b78a-6775604d5b18",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "lying-crossover",
   title: "Lying Crossover",

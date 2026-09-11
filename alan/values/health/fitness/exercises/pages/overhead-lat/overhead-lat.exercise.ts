@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const overheadLat = {
   id: "019ebc77-bcbc-7bbf-97cf-a61f9c0deb58",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "overhead-lat",
   title: "Overhead Lat",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const standingCableChestPress = {
   id: "019ebc78-833b-72fd-836a-16b14e1a926b",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "standing-cable-chest-press",
   title: "Standing Cable Chest Press",

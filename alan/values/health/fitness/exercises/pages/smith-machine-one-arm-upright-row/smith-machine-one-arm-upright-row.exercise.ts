@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const smithMachineOneArmUprightRow = {
   id: "019ebc78-6e03-78ad-917d-6d892b45220d",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "smith-machine-one-arm-upright-row",
   title: "Smith Machine One-Arm Upright Row",

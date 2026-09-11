@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const wideGripLatPulldown = {
   id: "019ebc78-b85f-73fd-aecc-cbba825105ee",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "wide-grip-lat-pulldown",
   title: "Wide-Grip Lat Pulldown",

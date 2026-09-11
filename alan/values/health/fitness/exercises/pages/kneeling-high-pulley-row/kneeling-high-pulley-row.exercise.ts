@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const kneelingHighPulleyRow = {
   id: "019ebc77-8985-7eb4-8d21-a7093a4fc0e3",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "kneeling-high-pulley-row",
   title: "Kneeling High Pulley Row",

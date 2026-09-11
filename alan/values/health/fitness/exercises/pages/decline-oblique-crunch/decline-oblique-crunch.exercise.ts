@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const declineObliqueCrunch = {
   id: "019ebc76-efe8-7971-b14a-7be1846b9eab",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "decline-oblique-crunch",
   title: "Decline Oblique Crunch",

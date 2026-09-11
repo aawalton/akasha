@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const benchSprint = {
   id: "019ebc76-9fe7-7012-a77c-9f44b698d9fa",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "bench-sprint",
   title: "Bench Sprint",

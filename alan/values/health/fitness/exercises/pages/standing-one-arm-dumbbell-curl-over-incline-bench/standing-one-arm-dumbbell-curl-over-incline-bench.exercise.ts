@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const standingOneArmDumbbellCurlOverInclineBench = {
   id: "019ebc78-9f57-7de7-a0a7-38bef4731f03",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "standing-one-arm-dumbbell-curl-over-incline-bench",
   title: "Standing One-Arm Dumbbell Curl Over Incline Bench",

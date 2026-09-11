@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const doubleKettlebellPushPress = {
   id: "019ebc76-f2bc-7cb3-adb3-c102e593029e",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "double-kettlebell-push-press",
   title: "Double Kettlebell Push Press",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const barbellRearDeltRow = {
   id: "019ebc76-96ea-7bfd-9d06-a92caf1ab978",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "barbell-rear-delt-row",
   title: "Barbell Rear Delt Row",

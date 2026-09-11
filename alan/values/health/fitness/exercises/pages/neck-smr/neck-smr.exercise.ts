@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const neckSmr = {
   id: "019ebc77-b190-7f7d-9051-ff904827e9f0",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "neck-smr",
   title: "Neck-SMR",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const seatedDumbbellPalmsUpWristCurl = {
   id: "019ebc78-5713-7a52-a59a-1725a7fa2b77",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "seated-dumbbell-palms-up-wrist-curl",
   title: "Seated Dumbbell Palms-Up Wrist Curl",

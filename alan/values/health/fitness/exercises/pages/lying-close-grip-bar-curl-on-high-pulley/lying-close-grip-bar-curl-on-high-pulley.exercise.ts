@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const lyingCloseGripBarCurlOnHighPulley = {
   id: "019ebc77-93a9-76f0-8e72-2472dead1251",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "lying-close-grip-bar-curl-on-high-pulley",
   title: "Lying Close-Grip Bar Curl On High Pulley",

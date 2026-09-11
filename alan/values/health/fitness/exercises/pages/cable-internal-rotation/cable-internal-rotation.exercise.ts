@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const cableInternalRotation = {
   id: "019ebc76-b8b8-7504-a28d-8357beea76b8",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "cable-internal-rotation",
   title: "Cable Internal Rotation",

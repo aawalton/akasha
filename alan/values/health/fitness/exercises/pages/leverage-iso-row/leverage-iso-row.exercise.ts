@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const leverageIsoRow = {
   id: "019ebc77-8f3c-73ff-8ebf-091317d3872d",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "leverage-iso-row",
   title: "Leverage Iso Row",

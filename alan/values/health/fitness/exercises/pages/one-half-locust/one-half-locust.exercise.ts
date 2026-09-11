@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const oneHalfLocust = {
   id: "019ebc77-bb11-78b3-929e-1c6473370f45",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "one-half-locust",
   title: "One Half Locust",

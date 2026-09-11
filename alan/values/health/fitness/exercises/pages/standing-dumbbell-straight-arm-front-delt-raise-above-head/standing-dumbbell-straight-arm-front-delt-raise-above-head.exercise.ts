@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const standingDumbbellStraightArmFrontDeltRaiseAboveHead = {
   id: "019ebc78-853e-707c-98c9-a0ea6f569553",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "standing-dumbbell-straight-arm-front-delt-raise-above-head",
   title: "Standing Dumbbell Straight-Arm Front Delt Raise Above Head",

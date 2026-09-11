@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const hurdleHops = {
   id: "019ebc77-7738-702c-904e-df7c715205b8",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "hurdle-hops",
   title: "Hurdle Hops",

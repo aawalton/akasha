@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const frontPlateRaise = {
   id: "019ebc77-42ff-7015-ab36-e2529c8de993",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "front-plate-raise",
   title: "Front Plate Raise",

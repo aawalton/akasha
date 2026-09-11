@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const lyingDumbbellTricepExtension = {
   id: "019ebc77-9639-7e68-a47d-28d3d63f3fd2",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "lying-dumbbell-tricep-extension",
   title: "Lying Dumbbell Tricep Extension",

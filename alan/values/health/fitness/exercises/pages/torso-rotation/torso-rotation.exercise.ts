@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const torsoRotation = {
   id: "019ebc78-aac7-7795-aa3c-e0c14970a013",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "torso-rotation",
   title: "Torso Rotation",

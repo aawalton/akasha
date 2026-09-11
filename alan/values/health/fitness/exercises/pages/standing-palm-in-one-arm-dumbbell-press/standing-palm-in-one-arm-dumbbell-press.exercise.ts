@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const standingPalmInOneArmDumbbellPress = {
   id: "019ebc78-a013-7514-b6bc-6dda13ddbeda",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "standing-palm-in-one-arm-dumbbell-press",
   title: "Standing Palm-In One-Arm Dumbbell Press",

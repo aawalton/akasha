@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const iliotibialTractSmr = {
   id: "019ebc77-7875-7cd0-abf5-1d795e89eb68",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "iliotibial-tract-smr",
   title: "Iliotibial Tract-SMR",

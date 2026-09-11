@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const cableHipAdduction = {
   id: "019ebc76-b7f5-7cd2-8de5-5038052070d3",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "cable-hip-adduction",
   title: "Cable Hip Adduction",

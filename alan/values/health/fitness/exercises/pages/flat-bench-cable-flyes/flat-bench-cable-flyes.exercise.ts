@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const flatBenchCableFlyes = {
   id: "019ebc77-397f-74ce-9f7e-e0c2c5d9dda4",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "flat-bench-cable-flyes",
   title: "Flat Bench Cable Flyes",

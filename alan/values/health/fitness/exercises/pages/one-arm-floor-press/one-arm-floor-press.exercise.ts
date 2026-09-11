@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const oneArmFloorPress = {
   id: "019ebc77-ba0f-7dd5-aff4-9c9b8e60c2d1",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "one-arm-floor-press",
   title: "One Arm Floor Press",

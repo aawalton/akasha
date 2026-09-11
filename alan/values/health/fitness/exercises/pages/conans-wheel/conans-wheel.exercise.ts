@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const conansWheel = {
   id: "019ebc76-def1-7a4c-9f43-9c4f223fe60c",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "conans-wheel",
   title: "Conan's Wheel",

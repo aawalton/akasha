@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const standingHipCircles = {
   id: "019ebc78-8913-706a-a32d-5432ff11282a",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "standing-hip-circles",
   title: "Standing Hip Circles",

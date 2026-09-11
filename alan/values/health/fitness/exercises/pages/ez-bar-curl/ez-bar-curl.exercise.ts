@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const ezBarCurl = {
   id: "019ebc77-2cd5-775c-b093-12babc33556b",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "ez-bar-curl",
   title: "EZ-Bar Curl",

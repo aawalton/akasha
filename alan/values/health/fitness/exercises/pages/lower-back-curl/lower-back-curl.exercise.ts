@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const lowerBackCurl = {
   id: "019ebc77-9244-7425-969b-edbe745160a4",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "lower-back-curl",
   title: "Lower Back Curl",

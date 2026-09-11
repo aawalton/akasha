@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const oneArmPronatedDumbbellTricepsExtension = {
   id: "019ebc77-ba8e-7521-97c8-4827450f722e",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "one-arm-pronated-dumbbell-triceps-extension",
   title: "One Arm Pronated Dumbbell Triceps Extension",

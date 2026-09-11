@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const seatedGlute = {
   id: "019ebc78-585d-7501-ba48-fb391609d0ff",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "seated-glute",
   title: "Seated Glute",

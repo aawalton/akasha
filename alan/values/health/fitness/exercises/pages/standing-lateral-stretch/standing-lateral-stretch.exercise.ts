@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const standingLateralStretch = {
   id: "019ebc78-89de-739c-977f-8556ff996b76",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "standing-lateral-stretch",
   title: "Standing Lateral Stretch",

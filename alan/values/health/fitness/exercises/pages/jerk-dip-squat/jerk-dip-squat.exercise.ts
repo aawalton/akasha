@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const jerkDipSquat = {
   id: "019ebc77-8291-7cfb-ba66-81477485e9ed",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "jerk-dip-squat",
   title: "Jerk Dip Squat",

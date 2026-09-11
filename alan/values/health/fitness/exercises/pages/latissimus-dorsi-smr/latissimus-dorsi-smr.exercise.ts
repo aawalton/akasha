@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const latissimusDorsiSmr = {
   id: "019ebc77-8c2e-7161-af7b-216717da419d",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "latissimus-dorsi-smr",
   title: "Latissimus Dorsi-SMR",

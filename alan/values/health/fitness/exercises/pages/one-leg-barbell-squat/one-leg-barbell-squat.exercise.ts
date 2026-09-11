@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const oneLegBarbellSquat = {
   id: "019ebc77-bbc5-75aa-8d4a-dd391f52ace8",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "one-leg-barbell-squat",
   title: "One Leg Barbell Squat",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const kneeTuckJump = {
   id: "019ebc77-87f0-7cec-bd70-2b168584304f",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "knee-tuck-jump",
   title: "Knee Tuck Jump",

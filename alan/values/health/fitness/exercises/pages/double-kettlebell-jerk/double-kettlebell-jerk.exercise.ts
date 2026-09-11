@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const doubleKettlebellJerk = {
   id: "019ebc76-f27b-7d4c-97b7-8d112d12494d",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "double-kettlebell-jerk",
   title: "Double Kettlebell Jerk",

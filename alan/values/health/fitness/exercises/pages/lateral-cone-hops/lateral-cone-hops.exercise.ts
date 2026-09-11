@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const lateralConeHops = {
   id: "019ebc77-8bae-7314-a5e4-08fd7cefcc24",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "lateral-cone-hops",
   title: "Lateral Cone Hops",

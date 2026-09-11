@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const wideStanceBarbellSquat = {
   id: "019ebc78-c100-7d28-b2e1-570ae6f0aa51",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "wide-stance-barbell-squat",
   title: "Wide Stance Barbell Squat",

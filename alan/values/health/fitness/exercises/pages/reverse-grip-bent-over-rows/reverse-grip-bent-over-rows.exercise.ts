@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const reverseGripBentOverRows = {
   id: "019ebc77-ce22-71c6-9514-52bbe75ef395",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "reverse-grip-bent-over-rows",
   title: "Reverse Grip Bent-Over Rows",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const vBarPulldown = {
   id: "019ebc78-b398-786b-a3e7-1150a555339f",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "v-bar-pulldown",
   title: "V-Bar Pulldown",

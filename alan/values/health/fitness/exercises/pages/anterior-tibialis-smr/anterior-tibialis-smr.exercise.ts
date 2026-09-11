@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const anteriorTibialisSmr = {
   id: "019ebc76-189c-74a8-bbe0-7fac833faac8",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "anterior-tibialis-smr",
   title: "Anterior Tibialis-SMR",

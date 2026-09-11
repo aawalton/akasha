@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const seatedCloseGripConcentrationBarbellCurl = {
   id: "019ebc78-55f6-7f4a-a0ea-2be1d0f4b8f1",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "seated-close-grip-concentration-barbell-curl",
   title: "Seated Close-Grip Concentration Barbell Curl",

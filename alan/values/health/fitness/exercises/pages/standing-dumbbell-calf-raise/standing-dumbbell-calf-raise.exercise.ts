@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const standingDumbbellCalfRaise = {
   id: "019ebc78-847e-7e4b-ad52-1c89e06d2b4b",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "standing-dumbbell-calf-raise",
   title: "Standing Dumbbell Calf Raise",

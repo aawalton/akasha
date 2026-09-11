@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const shotgunRow = {
   id: "019ebc78-6062-7947-8c77-bf2f8d9eb893",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "shotgun-row",
   title: "Shotgun Row",

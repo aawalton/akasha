@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const plateTwist = {
   id: "019ebc77-c1a8-7b2d-942b-9a7128f8641e",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "plate-twist",
   title: "Plate Twist",

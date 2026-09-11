@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const singleDumbbellRaise = {
   id: "019ebc78-6728-7124-beb1-1a9389814abb",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "single-dumbbell-raise",
   title: "Single Dumbbell Raise",

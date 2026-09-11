@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const cablePreacherCurl = {
   id: "019ebc76-b9f4-72fe-be64-c31827c67711",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "cable-preacher-curl",
   title: "Cable Preacher Curl",

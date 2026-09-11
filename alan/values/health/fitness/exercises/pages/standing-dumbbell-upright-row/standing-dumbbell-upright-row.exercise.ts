@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const standingDumbbellUprightRow = {
   id: "019ebc78-85bf-77c2-8da8-e2fee6e3dc41",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "standing-dumbbell-upright-row",
   title: "Standing Dumbbell Upright Row",

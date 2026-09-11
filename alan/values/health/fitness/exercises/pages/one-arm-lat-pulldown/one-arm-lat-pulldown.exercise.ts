@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const oneArmLatPulldown = {
   id: "019ebc77-ba4a-7cba-b991-db80c4e612f6",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "one-arm-lat-pulldown",
   title: "One Arm Lat Pulldown",

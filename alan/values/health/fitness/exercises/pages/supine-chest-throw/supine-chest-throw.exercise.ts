@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const supineChestThrow = {
   id: "019ebc78-a6ae-7595-9eef-3272c77b7ff8",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "supine-chest-throw",
   title: "Supine Chest Throw",

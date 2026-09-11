@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const dumbbellLyingSupination = {
   id: "019ebc77-103b-717a-a872-d56b0d9ff155",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "dumbbell-lying-supination",
   title: "Dumbbell Lying Supination",

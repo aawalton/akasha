@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const elbowToKnee = {
   id: "019ebc77-2e04-7fb1-afd4-9ce1f048cdb1",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "elbow-to-knee",
   title: "Elbow to Knee",

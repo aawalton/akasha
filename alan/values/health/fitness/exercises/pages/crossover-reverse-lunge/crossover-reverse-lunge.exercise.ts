@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const crossoverReverseLunge = {
   id: "019ebc76-e01b-7b0b-a2e0-30eb935d4bec",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "crossover-reverse-lunge",
   title: "Crossover Reverse Lunge",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const mixedGripChin = {
   id: "019ebc77-9c23-7f89-b3bf-d10f6747c858",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "mixed-grip-chin",
   title: "Mixed Grip Chin",

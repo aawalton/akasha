@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const verticalSwing = {
   id: "019ebc78-b41e-75cc-9d4e-e1075d358857",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "vertical-swing",
   title: "Vertical Swing",

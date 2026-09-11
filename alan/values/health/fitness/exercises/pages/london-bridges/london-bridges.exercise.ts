@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const londonBridges = {
   id: "019ebc77-90e7-7d3e-83ff-79af13b7d351",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "london-bridges",
   title: "London Bridges",

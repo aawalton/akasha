@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const dumbbellBenchPress = {
   id: "019ebc77-0737-774d-9f2b-76389a81f742",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "dumbbell-bench-press",
   title: "Dumbbell Bench Press",

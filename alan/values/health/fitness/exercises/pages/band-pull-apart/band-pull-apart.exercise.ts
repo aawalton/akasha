@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const bandPullApart = {
   id: "019ebc76-2022-7521-b369-5fd271f78b00",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "band-pull-apart",
   title: "Band Pull Apart",

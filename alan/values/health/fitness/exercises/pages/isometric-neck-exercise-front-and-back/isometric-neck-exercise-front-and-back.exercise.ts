@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const isometricNeckExerciseFrontAndBack = {
   id: "019ebc77-809b-7ed8-a1f9-4506d4b0459e",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "isometric-neck-exercise-front-and-back",
   title: "Isometric Neck Exercise - Front And Back",

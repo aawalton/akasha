@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const joggingTreadmill = {
   id: "019ebc77-82ce-7dd5-850a-4c5e2ce2fdb8",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "jogging-treadmill",
   title: "Jogging, Treadmill",

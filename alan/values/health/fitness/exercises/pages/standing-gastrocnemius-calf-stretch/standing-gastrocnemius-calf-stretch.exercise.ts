@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const standingGastrocnemiusCalfStretch = {
   id: "019ebc78-8843-7365-b7ab-d64bfad32786",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "standing-gastrocnemius-calf-stretch",
   title: "Standing Gastrocnemius Calf Stretch",

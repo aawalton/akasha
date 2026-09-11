@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const bentKneeHipRaise = {
   id: "019ebc76-a1fe-77be-ba9a-d816d041bd4f",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "bent-knee-hip-raise",
   title: "Bent-Knee Hip Raise",

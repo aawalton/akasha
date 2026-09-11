@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const closeGripFrontLatPulldown = {
   id: "019ebc76-dd88-788c-919f-61a5eb9deff1",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "close-grip-front-lat-pulldown",
   title: "Close-Grip Front Lat Pulldown",

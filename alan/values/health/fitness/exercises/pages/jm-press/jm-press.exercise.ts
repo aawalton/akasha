@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const jmPress = {
   id: "019ebc77-815c-72ea-8c22-b247c30c6abd",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "jm-press",
   title: "JM Press",

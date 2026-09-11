@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const sideToSideBoxShuffle = {
   id: "019ebc78-649b-7cf7-a64b-d1f10290ea33",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "side-to-side-box-shuffle",
   title: "Side to Side Box Shuffle",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const singleLegLegExtension = {
   id: "019ebc78-66aa-73dc-8b9c-f35d4d21e8e2",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "single-leg-leg-extension",
   title: "Single-Leg Leg Extension",

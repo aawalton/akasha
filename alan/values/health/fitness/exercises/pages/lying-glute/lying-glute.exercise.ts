@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const lyingGlute = {
   id: "019ebc77-96f2-7cbf-8110-7e24ff6a15c4",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "lying-glute",
   title: "Lying Glute",

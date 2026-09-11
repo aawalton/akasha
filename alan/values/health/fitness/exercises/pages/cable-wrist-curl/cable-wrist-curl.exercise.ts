@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const cableWristCurl = {
   id: "019ebc76-c507-7a23-8bb4-20c1d104741d",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "cable-wrist-curl",
   title: "Cable Wrist Curl",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const alternatingFloorPress = {
   id: "019ebc75-c172-765b-bb6d-6fe31036bd3b",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "alternating-floor-press",
   title: "Alternating Floor Press",

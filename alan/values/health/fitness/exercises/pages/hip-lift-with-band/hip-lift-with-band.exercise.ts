@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const hipLiftWithBand = {
   id: "019ebc77-7686-7945-9f68-3dbf683c8002",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "hip-lift-with-band",
   title: "Hip Lift with Band",

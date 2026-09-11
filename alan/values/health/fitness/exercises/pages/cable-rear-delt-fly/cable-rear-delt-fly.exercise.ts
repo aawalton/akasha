@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const cableRearDeltFly = {
   id: "019ebc76-ba30-72d3-9cd5-923692803610",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "cable-rear-delt-fly",
   title: "Cable Rear Delt Fly",

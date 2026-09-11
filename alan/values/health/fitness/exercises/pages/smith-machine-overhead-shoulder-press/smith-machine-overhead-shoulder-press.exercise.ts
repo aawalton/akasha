@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const smithMachineOverheadShoulderPress = {
   id: "019ebc78-6e3e-7798-8cc3-582b475a83c8",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "smith-machine-overhead-shoulder-press",
   title: "Smith Machine Overhead Shoulder Press",

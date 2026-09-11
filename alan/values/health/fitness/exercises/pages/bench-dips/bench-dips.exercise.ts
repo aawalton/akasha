@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const benchDips = {
   id: "019ebc76-9e56-7e05-a26c-92208323c0f3",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "bench-dips",
   title: "Bench Dips",

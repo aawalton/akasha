@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const adductorGroin = {
   id: "019ebc75-be4a-7425-ab43-560d434553bf",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "adductor-groin",
   title: "Adductor/Groin",

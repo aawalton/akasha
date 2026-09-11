@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const lateralBound = {
   id: "019ebc77-8b35-7ee0-ba15-915197a9d185",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "lateral-bound",
   title: "Lateral Bound",

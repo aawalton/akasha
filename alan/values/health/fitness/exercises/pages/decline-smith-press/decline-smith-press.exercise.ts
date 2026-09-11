@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const declineSmithPress = {
   id: "019ebc76-f0a0-7e7d-90c8-516f9e827bc8",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "decline-smith-press",
   title: "Decline Smith Press",

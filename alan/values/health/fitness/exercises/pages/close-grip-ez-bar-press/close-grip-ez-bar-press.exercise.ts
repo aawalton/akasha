@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const closeGripEzBarPress = {
   id: "019ebc76-dcfb-7a7a-a149-e31873094282",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "close-grip-ez-bar-press",
   title: "Close-Grip EZ-Bar Press",

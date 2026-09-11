@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const medicineBallChestPass = {
   id: "019ebc77-9af6-7f9d-abab-6c4236c642ec",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "medicine-ball-chest-pass",
   title: "Medicine Ball Chest Pass",

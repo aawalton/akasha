@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const calfStretchElbowsAgainstWall = {
   id: "019ebc76-cab3-75d8-8c1d-4e8a7275ef0c",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "calf-stretch-elbows-against-wall",
   title: "Calf Stretch Elbows Against Wall",

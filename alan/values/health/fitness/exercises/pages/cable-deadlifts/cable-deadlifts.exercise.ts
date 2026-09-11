@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const cableDeadlifts = {
   id: "019ebc76-b77c-7e46-b95c-b498b108bb68",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "cable-deadlifts",
   title: "Cable Deadlifts",

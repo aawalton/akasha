@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const oneArmSideLaterals = {
   id: "019ebc77-b89c-7a99-8566-82107200bdce",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "one-arm-side-laterals",
   title: "One-Arm Side Laterals",

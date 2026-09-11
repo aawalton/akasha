@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const linear3PartStartTechnique = {
   id: "019ebc77-8ff8-7061-91c4-290929b4422e",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "linear-3-part-start-technique",
   title: "Linear 3-Part Start Technique",

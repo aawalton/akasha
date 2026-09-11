@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const dumbbellSideBend = {
   id: "019ebc77-2aa7-720d-9042-3cf17ca725bd",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "dumbbell-side-bend",
   title: "Dumbbell Side Bend",

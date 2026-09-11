@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const frontBarbellSquatToABench = {
   id: "019ebc77-410b-77e0-9a0c-a4772a6ae357",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "front-barbell-squat-to-a-bench",
   title: "Front Barbell Squat To A Bench",

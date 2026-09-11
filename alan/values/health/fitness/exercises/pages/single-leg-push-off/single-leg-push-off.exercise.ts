@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const singleLegPushOff = {
   id: "019ebc78-67e2-791d-b4d0-c5b934e202c8",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "single-leg-push-off",
   title: "Single Leg Push-off",

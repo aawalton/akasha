@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const legUpHamstringStretch = {
   id: "019ebc77-8cac-76a4-86fb-1d5952396eb2",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "leg-up-hamstring-stretch",
   title: "Leg-Up Hamstring Stretch",

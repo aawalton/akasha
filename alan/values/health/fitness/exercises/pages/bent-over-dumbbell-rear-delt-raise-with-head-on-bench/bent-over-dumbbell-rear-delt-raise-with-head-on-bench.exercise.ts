@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const bentOverDumbbellRearDeltRaiseWithHeadOnBench = {
   id: "019ebc76-a286-7768-aab8-be533f1a1568",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "bent-over-dumbbell-rear-delt-raise-with-head-on-bench",
   title: "Bent Over Dumbbell Rear Delt Raise With Head On Bench",

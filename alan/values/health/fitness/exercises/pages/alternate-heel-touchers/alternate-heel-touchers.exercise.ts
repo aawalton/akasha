@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const alternateHeelTouchers = {
   id: "019ebc75-c02d-79bb-9f26-660f3eaeb8c4",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "alternate-heel-touchers",
   title: "Alternate Heel Touchers",

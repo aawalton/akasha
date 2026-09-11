@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const handGripper = {
   id: "019f0aaa-3b82-7774-a784-cd4a99eb9bf2",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "hand-gripper",
   title: "Hand Gripper",

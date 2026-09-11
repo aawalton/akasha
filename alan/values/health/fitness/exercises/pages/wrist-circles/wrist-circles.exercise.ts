@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const wristCircles = {
   id: "019ebc78-c270-70dd-8361-1eaf91edd9f0",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "wrist-circles",
   title: "Wrist Circles",

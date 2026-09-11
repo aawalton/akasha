@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const bodyweightSquat = {
   id: "019ebc76-a8c2-7389-96c4-cfa2681ade06",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "bodyweight-squat",
   title: "Bodyweight Squat",

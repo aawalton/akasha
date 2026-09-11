@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const seatedCalfStretch = {
   id: "019ebc78-55af-7dd4-b604-d9429530de5d",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "seated-calf-stretch",
   title: "Seated Calf Stretch",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const fullRangeOfMotionLatPulldown = {
   id: "019ebc77-4450-7d9c-955f-f9dd55e6fca9",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "full-range-of-motion-lat-pulldown",
   title: "Full Range-Of-Motion Lat Pulldown",

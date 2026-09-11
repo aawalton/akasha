@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const seatedHamstring = {
   id: "019ebc78-5bbf-7709-bf85-11334ae9a9b5",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "seated-hamstring",
   title: "Seated Hamstring",

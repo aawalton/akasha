@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const barbellCurlsLyingAgainstAnIncline = {
   id: "019ebc76-21b3-7dfb-a953-69d6d1754169",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "barbell-curls-lying-against-an-incline",
   title: "Barbell Curls Lying Against An Incline",

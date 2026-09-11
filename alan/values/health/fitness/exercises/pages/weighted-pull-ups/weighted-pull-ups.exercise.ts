@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const weightedPullUps = {
   id: "019ebc78-b6b6-7450-9a1a-c5df51b59ad9",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "weighted-pull-ups",
   title: "Weighted Pull Ups",

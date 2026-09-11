@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const uprightRowWithBands = {
   id: "019ebc78-b307-752f-9dee-dd96f506a706",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "upright-row-with-bands",
   title: "Upright Row - With Bands",

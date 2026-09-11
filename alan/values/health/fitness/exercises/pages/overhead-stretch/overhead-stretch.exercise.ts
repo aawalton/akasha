@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const overheadStretch = {
   id: "019ebc77-bd77-72cd-802f-07615766c40a",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "overhead-stretch",
   title: "Overhead Stretch",

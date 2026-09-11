@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const smithMachineBenchPress = {
   id: "019ebc78-6b9c-7eba-a83e-9f4dc4e1c01f",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "smith-machine-bench-press",
   title: "Smith Machine Bench Press",

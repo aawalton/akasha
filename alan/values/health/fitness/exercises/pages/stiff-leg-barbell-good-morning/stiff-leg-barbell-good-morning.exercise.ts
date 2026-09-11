@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const stiffLegBarbellGoodMorning = {
   id: "019ebc78-a3db-7113-92f4-4dbbceaad39b",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "stiff-leg-barbell-good-morning",
   title: "Stiff Leg Barbell Good Morning",

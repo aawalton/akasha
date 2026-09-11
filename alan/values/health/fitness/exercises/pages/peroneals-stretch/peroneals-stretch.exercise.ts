@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const peronealsStretch = {
   id: "019ebc77-c034-77ac-a9ee-1f29ab2b452c",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "peroneals-stretch",
   title: "Peroneals Stretch",

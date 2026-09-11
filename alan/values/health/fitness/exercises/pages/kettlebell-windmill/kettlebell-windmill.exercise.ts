@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const kettlebellWindmill = {
   id: "019ebc77-86b2-7174-bd33-21ab335dcea3",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "kettlebell-windmill",
   title: "Kettlebell Windmill",

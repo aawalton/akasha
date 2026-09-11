@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const smithInclineShoulderRaise = {
   id: "019ebc78-6b23-7488-adbe-b33f9b21d68f",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "smith-incline-shoulder-raise",
   title: "Smith Incline Shoulder Raise",

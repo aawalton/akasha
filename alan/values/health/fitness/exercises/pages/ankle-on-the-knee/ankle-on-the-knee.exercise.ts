@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const ankleOnTheKnee = {
   id: "019ebc76-183c-7c97-9d5a-f6a2def08cdd",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "ankle-on-the-knee",
   title: "Ankle On The Knee",

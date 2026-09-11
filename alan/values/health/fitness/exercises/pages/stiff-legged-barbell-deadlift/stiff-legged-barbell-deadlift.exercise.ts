@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const stiffLeggedBarbellDeadlift = {
   id: "019ebc78-a356-762a-90ed-a99bf4de5e21",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "stiff-legged-barbell-deadlift",
   title: "Stiff-Legged Barbell Deadlift",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const suspendedReverseCrunch = {
   id: "019ebc78-a80b-7e08-bb4c-e2b4e72bc3de",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "suspended-reverse-crunch",
   title: "Suspended Reverse Crunch",

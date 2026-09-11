@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const physioballHipBridge = {
   id: "019ebc77-c06e-72b2-ba12-cf7810020637",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "physioball-hip-bridge",
   title: "Physioball Hip Bridge",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const freehandJumpSquat = {
   id: "019ebc77-4000-7410-ae20-3a32080302bf",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "freehand-jump-squat",
   title: "Freehand Jump Squat",

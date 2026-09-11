@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const pelvicTiltIntoBridge = {
   id: "019ebc77-bfb9-760a-a9b1-3a400de9eef0",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "pelvic-tilt-into-bridge",
   title: "Pelvic Tilt Into Bridge",

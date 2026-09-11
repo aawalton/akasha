@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const reversePlateCurls = {
   id: "019ebc77-cf23-754e-a7d0-7066d36fe68b",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "reverse-plate-curls",
   title: "Reverse Plate Curls",

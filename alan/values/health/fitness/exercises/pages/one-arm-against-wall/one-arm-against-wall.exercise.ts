@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const oneArmAgainstWall = {
   id: "019ebc77-b91a-7e5e-8787-3c6be75e8dc9",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "one-arm-against-wall",
   title: "One Arm Against Wall",

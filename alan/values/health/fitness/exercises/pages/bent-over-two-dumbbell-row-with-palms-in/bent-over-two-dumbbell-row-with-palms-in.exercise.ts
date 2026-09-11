@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const bentOverTwoDumbbellRowWithPalmsIn = {
   id: "019ebc76-a673-7b79-8fc7-29e1028f606a",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "bent-over-two-dumbbell-row-with-palms-in",
   title: "Bent Over Two-Dumbbell Row With Palms In",

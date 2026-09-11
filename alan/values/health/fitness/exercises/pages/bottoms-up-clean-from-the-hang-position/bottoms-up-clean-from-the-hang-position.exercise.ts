@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const bottomsUpCleanFromTheHangPosition = {
   id: "019ebc76-a980-791f-8633-0b4631445f41",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "bottoms-up-clean-from-the-hang-position",
   title: "Bottoms-Up Clean From The Hang Position",

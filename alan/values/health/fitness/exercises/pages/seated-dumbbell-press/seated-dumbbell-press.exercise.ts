@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const seatedDumbbellPress = {
   id: "019ebc78-574e-7f4e-a74f-ab9ef0e85f95",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "seated-dumbbell-press",
   title: "Seated Dumbbell Press",

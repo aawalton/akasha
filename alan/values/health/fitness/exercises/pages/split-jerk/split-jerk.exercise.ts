@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const splitJerk = {
   id: "019ebc78-7e80-7a14-972e-ef170de78750",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "split-jerk",
   title: "Split Jerk",

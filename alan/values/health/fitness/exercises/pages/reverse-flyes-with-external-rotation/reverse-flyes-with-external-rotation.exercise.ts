@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const reverseFlyesWithExternalRotation = {
   id: "019ebc77-cde7-7f15-9aa8-a4e1e5190417",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "reverse-flyes-with-external-rotation",
   title: "Reverse Flyes With External Rotation",

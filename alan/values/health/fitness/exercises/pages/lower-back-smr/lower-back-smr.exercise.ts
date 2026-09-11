@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const lowerBackSmr = {
   id: "019ebc77-9209-7d4a-b9ed-39d0c21bcb1a",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "lower-back-smr",
   title: "Lower Back-SMR",

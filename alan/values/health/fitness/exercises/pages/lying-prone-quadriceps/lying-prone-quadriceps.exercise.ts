@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const lyingProneQuadriceps = {
   id: "019ebc77-9874-7e2c-9413-7a2fefe66bfe",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "lying-prone-quadriceps",
   title: "Lying Prone Quadriceps",

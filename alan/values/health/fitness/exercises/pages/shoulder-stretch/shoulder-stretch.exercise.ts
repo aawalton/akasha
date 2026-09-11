@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const shoulderStretch = {
   id: "019ebc78-6174-7ecd-a6d5-5829c5c2b4af",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "shoulder-stretch",
   title: "Shoulder Stretch",

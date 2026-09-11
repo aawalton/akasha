@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const dumbbellAlternateBicepCurl = {
   id: "019ebc77-06e9-75f1-8e5f-03465ab4199a",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "dumbbell-alternate-bicep-curl",
   title: "Dumbbell Alternate Bicep Curl",

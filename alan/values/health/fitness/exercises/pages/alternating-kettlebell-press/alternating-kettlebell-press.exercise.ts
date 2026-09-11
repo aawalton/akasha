@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const alternatingKettlebellPress = {
   id: "019ebc75-c1f4-770b-a202-899d8dcfb82b",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "alternating-kettlebell-press",
   title: "Alternating Kettlebell Press",

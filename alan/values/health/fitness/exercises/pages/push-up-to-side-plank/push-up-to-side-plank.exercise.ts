@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const pushUpToSidePlank = {
   id: "019ebc77-c830-7b32-ab03-d80d48fb2449",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "push-up-to-side-plank",
   title: "Push Up to Side Plank",

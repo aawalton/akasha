@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const pushPressBehindTheNeck = {
   id: "019ebc77-c7f4-7bf0-acd9-04983893d13f",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "push-press-behind-the-neck",
   title: "Push Press - Behind the Neck",

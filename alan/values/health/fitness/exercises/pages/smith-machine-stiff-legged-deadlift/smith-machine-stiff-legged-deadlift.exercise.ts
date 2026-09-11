@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const smithMachineStiffLeggedDeadlift = {
   id: "019ebc78-6f37-7563-9fb0-8f6e7fa345eb",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "smith-machine-stiff-legged-deadlift",
   title: "Smith Machine Stiff-Legged Deadlift",

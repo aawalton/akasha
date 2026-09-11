@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const lowPulleyRowToNeck = {
   id: "019ebc77-91d2-7897-8668-fa54b4800448",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "low-pulley-row-to-neck",
   title: "Low Pulley Row To Neck",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const squatWithBands = {
   id: "019ebc78-8001-79fe-99bf-703476adf018",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "squat-with-bands",
   title: "Squat with Bands",

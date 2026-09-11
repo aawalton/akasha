@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const dumbbellLyingRearLateralRaise = {
   id: "019ebc77-0ff0-74c9-9971-ed31e3c232d4",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "dumbbell-lying-rear-lateral-raise",
   title: "Dumbbell Lying Rear Lateral Raise",

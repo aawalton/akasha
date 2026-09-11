@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const seatedLegCurl = {
   id: "019ebc78-5cae-7ba2-a158-912f50780126",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "seated-leg-curl",
   title: "Seated Leg Curl",

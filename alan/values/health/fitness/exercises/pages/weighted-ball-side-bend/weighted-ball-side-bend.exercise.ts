@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const weightedBallSideBend = {
   id: "019ebc78-b554-78f4-9eaa-9e06d5fd7b66",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "weighted-ball-side-bend",
   title: "Weighted Ball Side Bend",

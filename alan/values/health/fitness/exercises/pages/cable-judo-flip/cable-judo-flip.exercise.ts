@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const cableJudoFlip = {
   id: "019ebc76-b936-7db7-bea5-c1c3ab06bcc5",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "cable-judo-flip",
   title: "Cable Judo Flip",

@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const rackPullWithBands = {
   id: "019ebc77-ca1a-7bff-91f3-755ab63a7441",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "rack-pull-with-bands",
   title: "Rack Pull with Bands",

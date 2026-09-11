@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const tricepsPushdownRopeAttachment = {
   id: "019ebc78-ac8a-7dbf-8636-c8eab70cd60a",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "triceps-pushdown-rope-attachment",
   title: "Triceps Pushdown - Rope Attachment",

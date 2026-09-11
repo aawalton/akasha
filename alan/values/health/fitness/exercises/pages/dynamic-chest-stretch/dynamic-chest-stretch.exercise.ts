@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const dynamicChestStretch = {
   id: "019ebc77-2c74-7e34-a229-fa89068d277f",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "dynamic-chest-stretch",
   title: "Dynamic Chest Stretch",

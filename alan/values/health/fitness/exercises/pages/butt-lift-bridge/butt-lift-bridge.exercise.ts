@@ -2,7 +2,6 @@ import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exerc
 
 export const buttLiftBridge = {
   id: "019ebc76-b644-7637-bade-cbfe46552834",
-  pageTypeSlug: "exercise",
   type: "exercise",
   slug: "butt-lift-bridge",
   title: "Butt Lift (Bridge)",
