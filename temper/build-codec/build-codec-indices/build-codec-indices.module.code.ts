@@ -30,6 +30,7 @@ import { focusScripts } from "akasha/temper/skill-kinds/scribing-focus-scripts/s
 import { signatureScripts } from "akasha/temper/skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 import { skillSlots } from "akasha/temper/skill-kinds/skill-slots/skill-slots.module.code.ts"
 import { skillLines } from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import { bitsNeeded } from "akasha/utils/narrow/bits-needed/bits-needed.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 
 const classIds = classes.ids
@@ -81,11 +82,6 @@ const foodOrDrinkIds = foodOrDrink.ids
 const potionIds = potions.ids
 
 const esoPlusIds = esoPlus.ids
-
-function bitsNeeded(count: number): number {
-  if (count <= 1) return 1
-  return Math.ceil(Math.log2(count))
-}
 
 export const CLASS_BITS = bitsNeeded(classIds.length)
 export const RACE_BITS = bitsNeeded(raceIds.length)

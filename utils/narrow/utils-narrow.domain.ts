@@ -19,6 +19,7 @@ export const utilsNarrow = {
     "module/assert-never",
     "module/base64-url",
     "module/badge-variant",
+    "module/bits-needed",
     "module/chunk",
     "module/collapse",
     "module/compare-key",

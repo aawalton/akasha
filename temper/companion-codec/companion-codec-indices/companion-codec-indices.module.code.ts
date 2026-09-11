@@ -5,6 +5,7 @@ import { companionTraits } from "akasha/temper/companions-core/companion-traits/
 import { companionWeaponTypes } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
+import { bitsNeeded } from "../../../utils/narrow/bits-needed/bits-needed.module.code.ts"
 
 export const companionIds = companions.ids
 
@@ -20,11 +21,6 @@ export const COMPANION_ARMOR_WEIGHT_IDS = [
   "medium",
   "heavy",
 ] as const satisfies readonly CompanionArmorWeight[]
-
-function bitsNeeded(count: number): number {
-  if (count <= 1) return 1
-  return Math.ceil(Math.log2(count))
-}
 
 export const COMPANION_BITS = bitsNeeded(companionIds.length)
 
