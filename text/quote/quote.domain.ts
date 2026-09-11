@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const quote = {
   id: "01a06815-ceaf-7d64-bb5e-3b8a0ff93c0f",
