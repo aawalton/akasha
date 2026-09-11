@@ -13,4 +13,5 @@ export const learn = {
   unit: "green day units",
   scale: "readout-scale/green-day-units",
   groups: ["readout-group/values"],
+  parts: ["domain/mathematics"],
 } as const satisfies Value
