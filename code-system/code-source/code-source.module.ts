@@ -35,6 +35,10 @@ export const codeSource = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether a node scopes the names declared inside it is answered here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An import naming nothing at all carries more than types.",
     },
     {

@@ -11,6 +11,7 @@ import {
   declaredOn,
   exportsNamed,
 } from "akasha/code-system/code-naming/code-naming.module.code.ts"
+import { scoping } from "akasha/code-system/code-source/code-source.module.code.ts"
 import {
   placingOver,
   readingOf,
@@ -53,23 +54,6 @@ function namedOf(node: ts.Node): ts.Node | null {
   if (ts.isTypeAliasDeclaration(node) || ts.isInterfaceDeclaration(node)) return node.name
   if (ts.isVariableDeclaration(node)) return ts.isIdentifier(node.name) ? node.name : null
   return null
-}
-
-function scoping(node: ts.Node): boolean {
-  return (
-    ts.isSourceFile(node) ||
-    ts.isBlock(node) ||
-    ts.isCaseBlock(node) ||
-    ts.isCatchClause(node) ||
-    ts.isForStatement(node) ||
-    ts.isForInStatement(node) ||
-    ts.isForOfStatement(node) ||
-    ts.isFunctionDeclaration(node) ||
-    ts.isFunctionExpression(node) ||
-    ts.isArrowFunction(node) ||
-    ts.isMethodDeclaration(node) ||
-    ts.isConstructorDeclaration(node)
-  )
 }
 
 function fileScoped(node: ts.Node): boolean {

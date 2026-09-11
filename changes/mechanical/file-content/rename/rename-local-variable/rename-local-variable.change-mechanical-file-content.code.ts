@@ -5,7 +5,7 @@ import {
 } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Said, Splice } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { parsedAs, scoping } from "akasha/code-system/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
 const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
@@ -62,23 +62,6 @@ const RESERVED: ReadonlySet<string> = new Set([
 export type Asked = {
   readonly at: number
   readonly to: string
-}
-
-function scoping(node: ts.Node): boolean {
-  return (
-    ts.isSourceFile(node) ||
-    ts.isBlock(node) ||
-    ts.isCaseBlock(node) ||
-    ts.isCatchClause(node) ||
-    ts.isForStatement(node) ||
-    ts.isForInStatement(node) ||
-    ts.isForOfStatement(node) ||
-    ts.isFunctionDeclaration(node) ||
-    ts.isFunctionExpression(node) ||
-    ts.isArrowFunction(node) ||
-    ts.isMethodDeclaration(node) ||
-    ts.isConstructorDeclaration(node)
-  )
 }
 
 function scopeAbove(node: ts.Node): ts.Node {

@@ -32,6 +32,23 @@ export function literalOf(node: ts.Expression): ts.ObjectLiteralExpression | nul
   return null
 }
 
+export function scoping(node: ts.Node): boolean {
+  return (
+    ts.isSourceFile(node) ||
+    ts.isBlock(node) ||
+    ts.isCaseBlock(node) ||
+    ts.isCatchClause(node) ||
+    ts.isForStatement(node) ||
+    ts.isForInStatement(node) ||
+    ts.isForOfStatement(node) ||
+    ts.isFunctionDeclaration(node) ||
+    ts.isFunctionExpression(node) ||
+    ts.isArrowFunction(node) ||
+    ts.isMethodDeclaration(node) ||
+    ts.isConstructorDeclaration(node)
+  )
+}
+
 export function exported(statement: ts.VariableStatement): boolean {
   return statement.modifiers?.some((one) => one.kind === ts.SyntaxKind.ExportKeyword) === true
 }
