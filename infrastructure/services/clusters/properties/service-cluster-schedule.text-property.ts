@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const serviceClusterSchedule = {
   id: "01a06587-c73c-74e9-8542-4de33139539f",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "service-cluster-schedule",
   propertySlug: "schedule",

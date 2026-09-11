@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const gameSystem = {
   id: "01a06577-f385-7913-8218-84f47eaafa5d",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "game-system",
   propertySlug: "game-system",

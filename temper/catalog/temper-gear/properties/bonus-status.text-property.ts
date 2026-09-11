@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const bonusStatus = {
   id: "01a05fd1-d437-73eb-b682-b54edb64a96b",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "bonus-status",
   propertySlug: "status",

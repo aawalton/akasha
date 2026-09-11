@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const buffId = {
   id: "01a05fcc-41f1-7e7a-abd6-c8c6650999ad",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "buff-id",
   propertySlug: "buff-id",

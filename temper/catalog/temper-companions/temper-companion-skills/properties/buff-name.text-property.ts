@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const buffName = {
   id: "01a06193-6ca5-7e1f-b411-54b1704f29e2",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "buff-name",
   propertySlug: "buff",

@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const debuffId = {
   id: "01a05fd1-d439-75b3-92b0-1243e1ad274a",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "debuff-id",
   propertySlug: "debuff-id",

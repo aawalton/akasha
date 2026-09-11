@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const gmailMessageId = {
   id: "01a06862-a0bc-705a-87c1-fbe2095fdae7",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "gmail-message-id",
   propertySlug: "message-id",

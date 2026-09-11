@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const anchorClaimedBy = {
   id: "01a0685e-ef8a-79db-8377-e5f878c0cb0c",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "anchor-claimed-by",
   propertySlug: "claimed-by",

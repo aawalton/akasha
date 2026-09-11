@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const hex = {
   id: "01a06575-c2a9-7b99-9d14-8ae0dccda975",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "hex",
   propertySlug: "hex",

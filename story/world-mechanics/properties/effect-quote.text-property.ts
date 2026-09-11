@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const effectQuote = {
   id: "01a06558-a991-7e5c-b87e-45f7fdfe52b1",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "effect-quote",
   propertySlug: "effect-quote",

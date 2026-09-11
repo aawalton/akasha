@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const classPassiveId = {
   id: "01a05fcf-2468-7692-a8d7-4ab20e4f20c6",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "class-passive-id",
   propertySlug: "class-passive-id",

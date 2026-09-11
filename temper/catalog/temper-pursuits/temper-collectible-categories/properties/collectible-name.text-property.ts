@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const collectibleName = {
   id: "01a06165-ae0e-7001-a94f-12db8229907f",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "collectible-name",
   propertySlug: "collectible-name",

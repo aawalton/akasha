@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const finePrint = {
   id: "01a06585-5fc5-7feb-a38e-a2e80bb553df",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "fine-print",
   propertySlug: "fine-print",

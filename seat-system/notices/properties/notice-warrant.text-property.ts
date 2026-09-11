@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const noticeWarrant = {
   id: "01a0686b-cea8-7a45-9b23-fd9c6d3a0417",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "notice-warrant",
   propertySlug: "warrant",

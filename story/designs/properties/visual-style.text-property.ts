@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const visualStyle = {
   id: "01a06577-f385-7c1c-8e0b-5a8d4ac8821f",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "visual-style",
   propertySlug: "visual-style",

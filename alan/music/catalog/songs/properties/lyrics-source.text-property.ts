@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const lyricsSource = {
   id: "01a06243-144b-700a-abd4-ff8f420a1d96",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "lyrics-source",
   propertySlug: "lyrics-source",

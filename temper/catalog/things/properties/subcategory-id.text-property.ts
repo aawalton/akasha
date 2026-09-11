@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const subcategoryId = {
   id: "01a05fba-ce3b-7c4b-adf4-7b752fef3058",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "subcategory-id",
   propertySlug: "subcategory-id",

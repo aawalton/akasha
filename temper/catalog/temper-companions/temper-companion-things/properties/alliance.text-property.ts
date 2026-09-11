@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const alliance = {
   id: "01a05fcf-2468-7229-a1a7-015a775866de",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "alliance",
   propertySlug: "alliance",

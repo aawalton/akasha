@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const motifId = {
   id: "01a06582-bd62-7e31-83b4-f252d4b9e91c",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "motif-id",
   propertySlug: "motif-id",

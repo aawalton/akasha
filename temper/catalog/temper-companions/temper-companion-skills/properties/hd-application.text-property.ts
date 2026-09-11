@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const hdApplication = {
   id: "01a06193-6ca2-7a60-a837-a1ca59995789",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "hd-application",
   propertySlug: "hd-application",

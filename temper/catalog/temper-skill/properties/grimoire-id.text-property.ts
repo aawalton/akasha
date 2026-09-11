@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const grimoireId = {
   id: "01a05fca-cb83-73a3-afc2-bf571210f393",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "grimoire-id",
   propertySlug: "grimoire-id",

@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const partOf = {
   id: "01a06738-9f12-752f-bea5-7ff5466aeba0",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "part-of",
   propertySlug: "part-of",

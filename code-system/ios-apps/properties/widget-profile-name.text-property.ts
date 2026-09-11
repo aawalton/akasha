@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const widgetProfileName = {
   id: "01a068c9-394b-7587-af7d-e66c162badae",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "widget-profile-name",
   propertySlug: "widget-profile-name",

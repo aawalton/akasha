@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const fen = {
   id: "01a06582-bd62-7ebf-aa25-768dcbb38374",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "fen",
   propertySlug: "fen",

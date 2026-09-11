@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const alwaysShowProperties = {
   id: "01a0680d-4d00-700b-9a37-5b1d8c6e410c",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "always-show-properties",
   propertySlug: "always-show-properties",

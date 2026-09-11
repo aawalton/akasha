@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const runArgument = {
   id: "01a08e05-b1ce-7d00-9ef8-6357b1462cc9",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "run-argument",
   propertySlug: "arguments",

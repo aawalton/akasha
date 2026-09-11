@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const shellSha = {
   id: "01a0685d-b81f-7896-a766-17b1183ecd8e",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "shell-sha",
   propertySlug: "shell-sha",

@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const startMode = {
   id: "01a05395-58a5-760f-a464-178f4d4ebb97",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "start-mode",
   propertySlug: "start-mode",

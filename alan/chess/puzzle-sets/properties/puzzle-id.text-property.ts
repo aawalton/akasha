@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const puzzleId = {
   id: "01a06582-bd62-7c2a-b4dd-6bdc9120b28a",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "puzzle-id",
   propertySlug: "puzzle-id",

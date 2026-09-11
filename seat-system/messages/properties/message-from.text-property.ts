@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const messageFrom = {
   id: "01a06818-107b-7001-9459-e63f4dbdd555",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "message-from",
   propertySlug: "from",

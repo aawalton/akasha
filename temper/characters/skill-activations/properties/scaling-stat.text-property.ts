@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const scalingStat = {
   id: "01a05fcd-f54a-75a0-bc25-2cecd3de2578",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "scaling-stat",
   propertySlug: "scaling-stat",

@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const runBefore = {
   id: "01a08e05-9daa-7242-9729-db7176f0c70d",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "run-before",
   propertySlug: "before",

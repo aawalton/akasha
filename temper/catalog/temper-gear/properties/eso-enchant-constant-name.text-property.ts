@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const esoEnchantConstantName = {
   id: "01a05fcc-41f2-79fd-b6e5-16cff264ed35",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "eso-enchant-constant-name",
   propertySlug: "eso-enchant-constant-name",

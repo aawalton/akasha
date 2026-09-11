@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const headerFields = {
   id: "01a0683a-620a-7905-b43d-ad803b4fae71",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "header-fields",
   propertySlug: "fields",

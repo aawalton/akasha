@@ -10,13 +10,13 @@ import { pageType } from "akasha/pages/types/page-type.page-type.ts"
 
 type Named = {
   readonly slug: string
-  readonly pageTypeSlug: string
+  readonly type: string
 }
 
 function pagesUnder(folder: string, values: readonly Named[]): Readonly<Record<string, string>> {
   const found: Record<string, string> = {}
   for (const value of values) {
-    found[`${folder}/${value.slug}.${value.pageTypeSlug}.ts`] =
+    found[`${folder}/${value.slug}.${value.type}.ts`] =
       `export const it = ${JSON.stringify(value)} as const\n`
   }
   return found

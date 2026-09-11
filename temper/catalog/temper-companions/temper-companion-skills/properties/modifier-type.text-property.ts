@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const modifierType = {
   id: "01a06193-6ca0-7c8c-b487-311d4883f9b6",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "modifier-type",
   propertySlug: "modifier-type",

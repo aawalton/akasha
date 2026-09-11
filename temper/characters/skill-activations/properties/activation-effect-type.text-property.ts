@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const activationEffectType = {
   id: "01a05fcd-f548-7652-9174-37322bc01700",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "activation-effect-type",
   propertySlug: "effect-type",

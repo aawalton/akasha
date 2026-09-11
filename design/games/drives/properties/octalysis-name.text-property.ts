@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const octalysisName = {
   id: "01a06756-f63f-763c-97cb-c93cfa22c0a7",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "octalysis-name",
   propertySlug: "name",

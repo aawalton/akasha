@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const metric = {
   id: "01a060fb-040e-717a-b2b7-1be127ff16c2",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "metric",
   propertySlug: "metric",

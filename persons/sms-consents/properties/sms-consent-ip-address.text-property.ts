@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const smsConsentIpAddress = {
   id: "01a06861-e7cd-7635-bf50-9e91c4dffbfa",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "sms-consent-ip-address",
   propertySlug: "ip-address",

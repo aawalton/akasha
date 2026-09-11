@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const gbwwReadings = {
   id: "01a06577-f385-7702-a611-a508ed1f473c",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "gbww-readings",
   propertySlug: "gbww-readings",

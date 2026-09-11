@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const errorUrl = {
   id: "01a05f3f-e3e0-7ea0-a46e-cdf0d9e4d008",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "error-url",
   propertySlug: "url",

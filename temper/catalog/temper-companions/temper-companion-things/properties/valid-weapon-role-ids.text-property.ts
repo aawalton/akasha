@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const validWeaponRoleIds = {
   id: "01a05fce-1853-73f0-8008-1c06e61a3a04",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "valid-weapon-role-ids",
   propertySlug: "valid-weapon-role-ids",

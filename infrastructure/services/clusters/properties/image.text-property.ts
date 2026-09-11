@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const image = {
   id: "01a05b26-f8b6-73e6-aedb-75b88fac6b4b",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "image",
   propertySlug: "image",

@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const deviceTokenToken = {
   id: "01a05dc7-77da-7b07-affa-4c60ae0382fc",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "device-token-token",
   propertySlug: "token",

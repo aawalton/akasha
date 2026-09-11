@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const installPath = {
   id: "01a06861-49aa-732d-b17a-0d0fb92dccad",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "install-path",
   propertySlug: "install-path",

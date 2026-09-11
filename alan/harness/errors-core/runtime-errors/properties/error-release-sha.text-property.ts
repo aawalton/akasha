@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const errorReleaseSha = {
   id: "01a05f3f-e3e0-7d68-b1de-729068552c64",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "error-release-sha",
   propertySlug: "release-sha",

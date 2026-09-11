@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const errorKind = {
   id: "01a05f3f-e3e0-70ed-a9ac-229acd8e154c",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "error-kind",
   propertySlug: "kind",

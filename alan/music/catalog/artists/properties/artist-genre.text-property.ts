@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const artistGenre = {
   id: "01a06243-144b-7010-af12-3f9a28709cb9",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "artist-genre",
   propertySlug: "genre",

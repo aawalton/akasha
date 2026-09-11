@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const proxyVersion = {
   id: "01a0540c-dbc1-7fb4-9fa4-54d2c5594de8",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "proxy-version",
   propertySlug: "version",

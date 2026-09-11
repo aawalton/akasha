@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const overrideReason = {
   id: "01a05fd0-3aa7-73f0-9c3b-150ba0630621",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "override-reason",
   propertySlug: "override-reason",

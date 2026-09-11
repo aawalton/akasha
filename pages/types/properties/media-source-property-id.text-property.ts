@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const mediaSourcePropertyId = {
   id: "01a062b8-8775-7004-96c1-c6b300535f4e",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "media-source-property-id",
   propertySlug: "source-property-id",

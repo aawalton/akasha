@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const linkedAt = {
   id: "01a08e0e-63aa-73e3-9073-68366457ff76",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "linked-at",
   propertySlug: "linked-at",

@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const luaFeature = {
   id: "01a081d9-0177-760b-bdf9-9a8231cf9177",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "lua-feature",
   propertySlug: "lua-feature",

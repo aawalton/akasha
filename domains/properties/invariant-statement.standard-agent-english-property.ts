@@ -2,7 +2,6 @@ import type { StandardAgentEnglishProperty } from "akasha/domains/standard-agent
 
 export const invariantStatement = {
   id: "01a049c8-3ead-7c41-ae0b-d4c110afbc4f",
-  pageTypeSlug: "standard-agent-english-property",
   type: "standard-agent-english-property",
   slug: "invariant-statement",
   propertySlug: "statement",

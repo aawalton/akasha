@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const hiddenPropertiesOrder = {
   id: "01a0680d-4d00-700c-a856-2e9f4b7d410d",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "hidden-properties-order",
   propertySlug: "hidden-properties-order",

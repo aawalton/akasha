@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const rustModuleName = {
   id: "01a06040-f979-76e1-87ca-d456990e75c8",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "rust-module-name",
   propertySlug: "module-name",

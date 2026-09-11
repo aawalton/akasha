@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const guildName = {
   id: "01a0685d-89aa-7d2f-948c-fbca509592a2",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "guild-name",
   propertySlug: "guild-name",

@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const anchorLexeme = {
   id: "01a0685e-ef8a-7012-99bf-937f4b87f963",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "anchor-lexeme",
   propertySlug: "lexeme",

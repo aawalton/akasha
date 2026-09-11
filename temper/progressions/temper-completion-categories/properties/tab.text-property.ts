@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const tab = {
   id: "01a05fcb-d656-76c2-a3f2-90971971c3c3",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "tab",
   propertySlug: "tab",

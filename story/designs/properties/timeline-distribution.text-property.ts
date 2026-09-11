@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const timelineDistribution = {
   id: "01a06577-f385-767b-aafb-1378cb399f58",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "timeline-distribution",
   propertySlug: "timeline-distribution",

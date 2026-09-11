@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const scalingKind = {
   id: "01a05fcd-f549-7dc9-9a01-64ab56ce9e42",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "scaling-kind",
   propertySlug: "scaling-kind",

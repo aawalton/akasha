@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const esoDisplayName = {
   id: "01a0675a-f185-73ed-b7fd-fbb6640a739a",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "eso-display-name",
   propertySlug: "display-name",

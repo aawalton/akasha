@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const wording = {
   id: "01a06558-a991-7142-8266-411f329c55ab",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "wording",
   propertySlug: "wording",

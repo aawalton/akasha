@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const priority = {
   id: "01a05fc6-81fd-7764-b99b-b35b9b100540",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "priority",
   propertySlug: "priority",

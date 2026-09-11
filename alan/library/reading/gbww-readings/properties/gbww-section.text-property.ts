@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const gbwwSection = {
   id: "01a0659f-93da-7013-a2b0-ec1167a77946",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "gbww-section",
   propertySlug: "section",

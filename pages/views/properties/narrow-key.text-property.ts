@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const narrowKey = {
   id: "01a063ee-2a3b-7005-88c7-33c0811a55ea",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "narrow-key",
   propertySlug: "key",

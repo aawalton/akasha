@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const targetScope = {
   id: "01a06193-6ca3-7e85-96e0-7cf3c6b79ba2",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "target-scope",
   propertySlug: "scope",

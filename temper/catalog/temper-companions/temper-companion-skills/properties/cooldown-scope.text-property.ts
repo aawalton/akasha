@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const cooldownScope = {
   id: "01a06193-6ca1-72e9-8534-eb54b1e77eca",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "cooldown-scope",
   propertySlug: "scope",

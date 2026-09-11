@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const progressPropertyId = {
   id: "01a0683a-620a-7e65-a95a-efdc99a80eaa",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "progress-property-id",
   propertySlug: "progress-property-id",

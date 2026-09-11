@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const reloadWith = {
   id: "01a06861-49aa-76f2-affd-b68bc4f6045a",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "reload-with",
   propertySlug: "reload-with",

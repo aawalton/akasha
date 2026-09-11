@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const companionId = {
   id: "01a05fba-ce39-74ad-926f-d6a5d9908dfc",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "companion-id",
   propertySlug: "companion-id",

@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const unbound = {
   id: "01a08ca8-6bf9-7831-8200-c579ad49fb3c",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "unbound",
   propertySlug: "unbound",

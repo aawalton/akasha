@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const abilityHeader = {
   id: "01a05fcd-f54c-7d17-833b-2cdc7610f956",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "ability-header",
   propertySlug: "ability-header",

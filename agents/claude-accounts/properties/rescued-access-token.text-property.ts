@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const rescuedAccessToken = {
   id: "01a0637b-78ba-7119-9765-d08c368d42c0",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "rescued-access-token",
   propertySlug: "access-token",

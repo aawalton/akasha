@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const refreshToken = {
   id: "01a054d8-1d39-7d36-b315-c5558e91c93c",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "refresh-token",
   propertySlug: "refresh-token",

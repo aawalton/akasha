@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const storyReaderFraming = {
   id: "01a06577-f385-7808-a302-f8a5c3082c45",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "story-reader-framing",
   propertySlug: "reader-framing",

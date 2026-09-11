@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const nativeShellRepoPath = {
   id: "01a068c9-394b-7ab1-bae3-1499a45430c5",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "native-shell-repo-path",
   propertySlug: "native-shell-repo-path",

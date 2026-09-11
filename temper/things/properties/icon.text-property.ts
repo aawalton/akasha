@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const icon = {
   id: "01a05fac-7584-7877-a778-efd8ee361ce1",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "icon",
   propertySlug: "icon",

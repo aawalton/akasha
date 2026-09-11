@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const marketingVersion = {
   id: "01a05f96-1925-7984-9108-b4d5346476fc",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "marketing-version",
   propertySlug: "marketing-version",

@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const currencyScope = {
   id: "01a0675a-f185-7129-990f-a2084aecc2dc",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "currency-scope",
   propertySlug: "scope",

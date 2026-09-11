@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const completionVisibility = {
   id: "01a05fcd-f557-7c35-987a-480c078751bb",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "completion-visibility",
   propertySlug: "completion-visibility",

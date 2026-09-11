@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const cooldownKey = {
   id: "01a0675a-f185-7261-8c87-615e5578b628",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "cooldown-key",
   propertySlug: "cooldown-key",

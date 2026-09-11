@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const openQuestion = {
   id: "01a077d9-ec58-7954-9180-8711659f84bd",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "open-question",
   propertySlug: "ask",

@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const flavorText = {
   id: "01a05fcd-f54e-776c-b0e8-56c34894de30",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "flavor-text",
   propertySlug: "flavor-text",

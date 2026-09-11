@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const childRelation = {
   id: "01a0683a-620a-74d3-99e4-844f9991c615",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "child-relation",
   propertySlug: "child-relation",

@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const pointsSourceMarker = {
   id: "01a060b8-bfaf-7001-b626-ffc219688a43",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "points-source-marker",
   propertySlug: "marker",

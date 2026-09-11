@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const epoch = {
   id: "01a05fc4-7a91-7076-af1b-6ce3e35e4b9a",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "epoch",
   propertySlug: "epoch",

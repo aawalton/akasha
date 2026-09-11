@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const decisionOptions = {
   id: "01a06577-f385-78f5-b9ff-cdab7f5fd547",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "decision-options",
   propertySlug: "options",

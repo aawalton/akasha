@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const namespace = {
   id: "01a05a41-58c4-75fd-a1fe-fc3595ae4a50",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "namespace",
   propertySlug: "namespace",

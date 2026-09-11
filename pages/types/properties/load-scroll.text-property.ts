@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const loadScroll = {
   id: "01a0683a-620a-720b-9442-1f4e5f29ea33",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "load-scroll",
   propertySlug: "load-scroll",

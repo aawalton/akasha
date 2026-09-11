@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const constantKind = {
   id: "01a05fcf-246a-7dcf-b177-c235a40a5808",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "constant-kind",
   propertySlug: "kind",

@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const directs = {
   id: "01a0680a-1a00-7018-9b56-4f7a3d8c1118",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "directs",
   propertySlug: "directs",

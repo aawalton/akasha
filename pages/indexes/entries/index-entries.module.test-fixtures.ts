@@ -39,7 +39,7 @@ export const SCHEMA = {
     '{"pageTypeSlug":"one-of-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,' +
     '"slug":"either","propertySlug":"either","fileName":null,"folderName":null}',
   id: JSON.stringify({
-    pageTypeSlug: idPage.pageTypeSlug,
+    pageTypeSlug: idPage.type,
     targetPageTypeSlug: null,
     unique: idPage.unique,
     uniquePropertySlug: null,
@@ -49,7 +49,7 @@ export const SCHEMA = {
     folderName: null,
   }),
   slug: JSON.stringify({
-    pageTypeSlug: slugPage.pageTypeSlug,
+    pageTypeSlug: slugPage.type,
     targetPageTypeSlug: null,
     unique: slugPage.unique,
     uniquePropertySlug: null,
@@ -115,8 +115,8 @@ export function grounded(): { readonly root: string; readonly repo: string } {
     ["relation-property", "part-slugs", SCHEMA.partSlugs],
     ["relation-property", "note-slug", SCHEMA.noteSlug],
     ["one-of-property", "either", SCHEMA.either],
-    [idPage.pageTypeSlug, "id", SCHEMA.id],
-    [slugPage.pageTypeSlug, "slug", SCHEMA.slug],
+    [idPage.type, "id", SCHEMA.id],
+    [slugPage.type, "slug", SCHEMA.slug],
   ]
   for (const [type, slug, line] of declared) {
     filed(`schema/page-property/${type}/slug/${slug}.jsonl`, line)

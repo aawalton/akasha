@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const workdir = {
   id: "01a09094-f218-7ee2-9944-4b448087ad58",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "workdir",
   propertySlug: "workdir",

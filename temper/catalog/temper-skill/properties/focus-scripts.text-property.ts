@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const focusScripts = {
   id: "01a05fca-cb82-7738-87f5-0530f38d10af",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "focus-scripts",
   propertySlug: "focus-scripts",

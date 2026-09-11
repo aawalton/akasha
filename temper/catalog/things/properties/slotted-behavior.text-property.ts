@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const slottedBehavior = {
   id: "01a05fe0-8426-7594-8834-eb02a3965edd",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "slotted-behavior",
   propertySlug: "slotted-behavior",

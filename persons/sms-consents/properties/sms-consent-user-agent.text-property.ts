@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const smsConsentUserAgent = {
   id: "01a06861-e7cd-7534-838b-db51ab94d8df",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "sms-consent-user-agent",
   propertySlug: "user-agent",

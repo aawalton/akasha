@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const abbreviation = {
   id: "01a05fce-1852-79ad-a22e-48e2939f64f0",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "abbreviation",
   propertySlug: "abbreviation",

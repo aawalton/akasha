@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const imdbId = {
   id: "01a06599-ee09-7007-b8a2-be0208de08b8",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "imdb-id",
   propertySlug: "imdb-id",

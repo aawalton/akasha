@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const statementLine = {
   id: "01a0680b-2b00-7006-b917-5d4a8e2f2107",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "statement-line",
   propertySlug: "statement-line",

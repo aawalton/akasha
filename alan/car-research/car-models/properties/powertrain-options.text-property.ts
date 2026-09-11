@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const powertrainOptions = {
   id: "01a0659a-4bc5-7126-b2df-81746b573d49",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "powertrain-options",
   propertySlug: "powertrain-options",

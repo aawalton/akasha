@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const wireKey = {
   id: "01a05446-e768-7d56-aeef-7ab30139e500",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "wire-key",
   propertySlug: "wire-key",

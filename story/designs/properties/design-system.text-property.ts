@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const designSystem = {
   id: "01a06577-f385-706d-b2ec-adb7723daede",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "design-system",
   propertySlug: "system",

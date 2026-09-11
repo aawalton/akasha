@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const esoWeaponType = {
   id: "01a05fd1-d43b-781e-b83d-8550054c5d2b",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "eso-weapon-type",
   propertySlug: "eso-weapon-type",

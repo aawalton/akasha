@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const essenceRune = {
   id: "01a05fcc-41f2-7de9-816e-7c90d5a24ce7",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "essence-rune",
   propertySlug: "essence-rune",

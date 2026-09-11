@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const notionId = {
   id: "01a0658a-739f-7f80-8848-4928e67a325c",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "notion-id",
   propertySlug: "notion-id",

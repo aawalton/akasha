@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const chapterNumbering = {
   id: "01a06577-f385-7bac-a762-2ea3397788a0",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "chapter-numbering",
   propertySlug: "chapter-numbering",

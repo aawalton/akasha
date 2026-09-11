@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const timeControl = {
   id: "01a06582-bd62-7806-aa06-cbbb5adca34e",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "time-control",
   propertySlug: "time-control",

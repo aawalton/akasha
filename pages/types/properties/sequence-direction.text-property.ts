@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const sequenceDirection = {
   id: "01a062de-2001-7003-a875-d6a5b29e480d",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "sequence-direction",
   propertySlug: "direction",

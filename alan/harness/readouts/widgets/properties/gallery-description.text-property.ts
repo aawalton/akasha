@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const galleryDescription = {
   id: "01a05480-1c8c-751e-997b-6255f3440ff4",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "gallery-description",
   propertySlug: "gallery-description",

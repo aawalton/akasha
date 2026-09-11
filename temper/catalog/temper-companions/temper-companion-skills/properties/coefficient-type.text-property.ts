@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const coefficientType = {
   id: "01a06193-6ca4-7cdd-b848-4ff0537c6bf1",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "coefficient-type",
   propertySlug: "coefficient-type",

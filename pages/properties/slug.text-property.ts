@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const slug = {
   id: "01a049b9-856c-7187-96e0-518b0a8c72cb",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "slug",
   propertySlug: "slug",

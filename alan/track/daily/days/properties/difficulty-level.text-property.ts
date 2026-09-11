@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const difficultyLevel = {
   id: "01a05fd8-c30f-7785-9331-9f5fa8347452",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "difficulty-level",
   propertySlug: "difficulty-level",

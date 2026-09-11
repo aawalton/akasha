@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const smsDiscardSender = {
   id: "01a06861-e7cd-71ef-942a-5e60d20f9d50",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "sms-discard-sender",
   propertySlug: "sender",

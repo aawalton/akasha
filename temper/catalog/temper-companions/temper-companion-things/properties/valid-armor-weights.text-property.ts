@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const validArmorWeights = {
   id: "01a05fce-1853-7880-bba6-4f23630e1dbf",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "valid-armor-weights",
   propertySlug: "valid-armor-weights",

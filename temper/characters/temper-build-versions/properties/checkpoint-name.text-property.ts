@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const checkpointName = {
   id: "01a0685d-89aa-7e0e-87ba-fd8437784410",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "checkpoint-name",
   propertySlug: "checkpoint-name",

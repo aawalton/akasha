@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const generatorRanForVersion = {
   id: "01a05fc4-7a92-760e-9d6f-0e6cdd38c794",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "generator-ran-for-version",
   propertySlug: "generator-ran-for-version",

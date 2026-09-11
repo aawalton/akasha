@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const personAccessTarget = {
   id: "01a05430-c0ee-7f62-a8b7-74d97d845e28",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "person-access-target",
   propertySlug: "target",

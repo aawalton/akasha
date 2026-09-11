@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const inferenceHost = {
   id: "01a09094-7525-73c0-bc06-d3cdd15b053b",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "inference-host",
   propertySlug: "host",

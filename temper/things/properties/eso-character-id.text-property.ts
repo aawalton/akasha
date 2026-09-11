@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const esoCharacterId = {
   id: "01a05fba-ce39-7efc-aa9e-99bf36eda42a",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "eso-character-id",
   propertySlug: "eso-character-id",

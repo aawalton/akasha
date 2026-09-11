@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const dailyTracking = {
   id: "01a05fd8-c30f-7127-badb-476efde0211e",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "daily-tracking",
   propertySlug: "daily-tracking",

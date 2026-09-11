@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const enchantHeader = {
   id: "01a05fcd-f54d-710a-8023-d540525e87cd",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "enchant-header",
   propertySlug: "enchant-header",

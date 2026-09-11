@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const talosSecrets = {
   id: "01a081cf-aa06-78f6-a57a-b9ebe5e7c333",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "talos-secrets",
   propertySlug: "talos-secrets",

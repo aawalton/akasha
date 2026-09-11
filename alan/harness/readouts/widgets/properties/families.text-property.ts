@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const families = {
   id: "01a05480-1c89-7261-a8c7-0538e7ae019b",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "families",
   propertySlug: "families",

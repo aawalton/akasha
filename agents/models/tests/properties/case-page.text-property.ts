@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const casePage = {
   id: "01a05f8d-eaa0-7000-8c49-cf81f87d38a4",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "case-page",
   propertySlug: "page",

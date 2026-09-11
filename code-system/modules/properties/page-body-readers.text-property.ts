@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const pageBodyReaders = {
   id: "01a08e84-95cf-74db-9e18-8f4daed823be",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "page-body-readers",
   propertySlug: "page-body-readers",

@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const masteryBehaviour = {
   id: "01a0784a-cdba-7f44-8b2a-45ca64505638",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "mastery-behaviour",
   propertySlug: "behaviour",

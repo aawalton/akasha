@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const relationshipAliases = {
   id: "01a06594-c6e2-7efb-89d9-2041bf2f81e1",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "relationship-aliases",
   propertySlug: "relationship-aliases",

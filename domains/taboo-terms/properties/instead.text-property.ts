@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const instead = {
   id: "01a0592c-2737-77ef-8540-dbdcfc1c7521",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "instead",
   propertySlug: "instead",

@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const sequenceOrderBy = {
   id: "01a062de-2001-7002-8dd0-f44937908528",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "sequence-order-by",
   propertySlug: "order-by",

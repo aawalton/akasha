@@ -2,7 +2,6 @@ import type { StandardAgentEnglishProperty } from "akasha/domains/standard-agent
 
 export const definition = {
   id: "01a049b9-856c-70ca-bfd8-31cb76ead837",
-  pageTypeSlug: "standard-agent-english-property",
   type: "standard-agent-english-property",
   slug: "definition",
   propertySlug: "definition",

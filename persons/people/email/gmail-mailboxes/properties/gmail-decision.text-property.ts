@@ -2,7 +2,6 @@ import type { TextProperty } from "akasha/pages/text-properties/text-property.pa
 
 export const gmailDecision = {
   id: "01a06862-a0bc-7f55-8d40-b7436ef558a4",
-  pageTypeSlug: "text-property",
   type: "text-property",
   slug: "gmail-decision",
   propertySlug: "decision",
