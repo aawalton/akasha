@@ -27,7 +27,7 @@ export const safetyReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The question to ask and how to read the answer are on the readout's own page.",
+      statement: "How to read the answer is on the readout's own page.",
     },
     {
       invariantKind: "departure",

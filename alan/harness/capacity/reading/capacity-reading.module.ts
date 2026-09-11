@@ -26,7 +26,7 @@ export const capacityReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The query to ask and how to read the answer are on the readout's own page.",
+      statement: "How to read a stretch's capacity is on the readout's own page.",
     },
     {
       invariantKind: "absence",
