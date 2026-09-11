@@ -1,13 +1,17 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.types.ts"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
+import type { Lenient } from "./lenient.boolean-property.types.ts"
+import type { RunArgument } from "./run-argument.text-property.types.ts"
+import type { RunBefore } from "./run-before.text-property.types.ts"
+import type { RunModule } from "./run-module.relation-property.types.ts"
+import type { RunPage } from "./run-page.relation-property.types.ts"
 
 export type Start = {
-  module: Slug
-  before?: List<string>
-  pages?: List<Slug>
-  arguments?: List<string>
-  lenient?: boolean
+  module: RunModule
+  before?: RunBefore
+  pages?: RunPage
+  arguments?: RunArgument
+  lenient?: Lenient
 }
 
 export type Starts = List<Start>
