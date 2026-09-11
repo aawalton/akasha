@@ -101,12 +101,23 @@ export function manyIn(shadow: Shadow): ReadonlySet<string> {
   return found
 }
 
-function chosenIn(path: string, slug: string, key: string): Written {
+function chosenIn(path: string, slug: string): Written {
   const named = exportedAs(slug)
   return {
-    held: `(typeof ${named}.${key})[number]`,
+    held: `(typeof ${named}.values)[number]`,
     imports: [`import type { ${named} } from "${PACKAGE}${path}"`],
   }
+}
+
+function endedIn(value: Record<string, unknown>): Written | null {
+  const held = value[EXTENSIONS]
+  if (!Array.isArray(held) || held.length === 0) return null
+  const said: string[] = []
+  for (const one of held) {
+    if (typeof one !== "string") return null
+    said.push(JSON.stringify(one))
+  }
+  return { held: said.join(" | "), imports: [] }
 }
 
 function memberIn(shadow: Shadow, named: string): Written | null {
@@ -164,13 +175,11 @@ export function writtenFor(shadow: Shadow, asked: Asked): Written | null {
   if (held !== undefined) return { held, imports: [] }
   if (asked.kind === RELATION) return memberIn(shadow, SLUG_AT)
   if (asked.kind === RECORD) return recordIn(shadow, asked)
-  if (CHOSEN.has(asked.kind)) return chosenIn(asked.path, asked.slug, VALUES)
-  if (shadow.index.kindsUnder(FILE_PROPERTY).has(asked.kind)) {
-    return chosenIn(asked.path, asked.slug, EXTENSIONS)
-  }
+  if (CHOSEN.has(asked.kind)) return chosenIn(asked.path, asked.slug)
+  if (shadow.index.kindsUnder(FILE_PROPERTY).has(asked.kind)) return endedIn(asked.value)
   if (asked.kind === ONE_OF) return oneOfIn(shadow, asked.value)
   if (asked.kind !== COMPUTED) return null
-  if (Array.isArray(asked.value[VALUES])) return chosenIn(asked.path, asked.slug, VALUES)
+  if (Array.isArray(asked.value[VALUES])) return chosenIn(asked.path, asked.slug)
   const worked = WORKED.get(String(asked.value[HOLDS_AT]))
   return worked === undefined ? null : { held: worked, imports: [] }
 }
