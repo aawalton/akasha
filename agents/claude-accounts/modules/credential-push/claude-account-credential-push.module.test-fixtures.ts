@@ -10,6 +10,7 @@ import {
   ACCOUNT_DECLARED,
   bodiesIn,
   type Declared,
+  pageAt,
   worldIn,
 } from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -50,6 +51,13 @@ export const sweep = scratch.sweep
 
 export function worldMade(declared: readonly Declared[] = RESCUED_DECLARED): string {
   return worldIn(scratch.rootFor("credential-push-"), declared)
+}
+
+export function sopsAt(slug: string): string {
+  const page = pageAt(slug)
+  const at = secretAt(page)
+  if (at === null) throw new Error(`no sops file is named beside ${page}`)
+  return at
 }
 
 export function credentialOf(slug: string, said: Partial<Credential> = {}): Credential {

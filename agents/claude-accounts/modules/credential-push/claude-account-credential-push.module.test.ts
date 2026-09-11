@@ -25,6 +25,7 @@ import {
   refusingLanding,
   seeded,
   silentLanding,
+  sopsAt,
   sopsIn,
   spoilingLanding,
   sweep,
@@ -56,9 +57,7 @@ test("a push lands the pair in the sops file and answers pushed", async () => {
   const said = await pushed(root, credentialOf("aine"), sops.doors)
   if (said.kind !== "pushed") throw new Error(whyOf(said))
   expect(said.keys).toEqual([...PUSHED_KEYS])
-  expect(said.sidecar).toBe(
-    "akasha/agents/claude-accounts/pages/aine/aine.claude-account.sops.yaml"
-  )
+  expect(said.sidecar).toBe(sopsAt("aine"))
   const held = heldIn(sops, root, pageAt("aine"))
   expect(held.get(ACCESS_KEY)).toBe(ROTATED_ACCESS)
   expect(held.get(REFRESH_KEY)).toBe(ROTATED_REFRESH)
