@@ -1,5 +1,5 @@
+import { AttributesSchema } from "akasha/story/tower/core/character-schema/character-schema.module.code.ts"
 import { z } from "zod"
-import { AttributesSchema } from "../character-schema/character-schema.module.code.ts"
 
 export const SearchableSchema = z
   .object({

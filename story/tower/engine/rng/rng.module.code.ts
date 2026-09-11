@@ -1,4 +1,7 @@
-import type { Roll, Sheet } from "../combat-types/combat-types.module.code.ts"
+import type {
+  Roll,
+  Sheet,
+} from "akasha/story/tower/engine/combat-types/combat-types.module.code.ts"
 
 export function rng(seed: number): () => number {
   let t = seed >>> 0

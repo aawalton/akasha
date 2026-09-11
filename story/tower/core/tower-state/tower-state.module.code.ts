@@ -1,5 +1,8 @@
+import {
+  HudSchema,
+  RevealedSheetSchema,
+} from "akasha/story/tower/core/revealed-sheet/revealed-sheet.module.code.ts"
 import { z } from "zod"
-import { HudSchema, RevealedSheetSchema } from "../revealed-sheet/revealed-sheet.module.code.ts"
 
 export const BeatSchema = z
   .object({

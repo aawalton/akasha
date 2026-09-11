@@ -1,4 +1,8 @@
-import type { Beat, ChapterEntry, TowerState } from "../core/tower-state/tower-state.module.code.ts"
+import type {
+  Beat,
+  ChapterEntry,
+  TowerState,
+} from "akasha/story/tower/core/tower-state/tower-state.module.code.ts"
 
 export type ArchivablePlan = {
   chapter: ChapterEntry

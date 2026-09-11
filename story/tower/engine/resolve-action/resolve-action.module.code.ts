@@ -1,6 +1,9 @@
-import type { ActionInput, ActionResult } from "../combat-types/combat-types.module.code.ts"
-import { derive } from "../derive/derive.module.code.ts"
-import { rng, rollFor } from "../rng/rng.module.code.ts"
+import type {
+  ActionInput,
+  ActionResult,
+} from "akasha/story/tower/engine/combat-types/combat-types.module.code.ts"
+import { derive } from "akasha/story/tower/engine/derive/derive.module.code.ts"
+import { rng, rollFor } from "akasha/story/tower/engine/rng/rng.module.code.ts"
 
 export function resolveAction(inp: ActionInput): ActionResult {
   const intent = Math.max(0, Math.min(10, inp.intent))
