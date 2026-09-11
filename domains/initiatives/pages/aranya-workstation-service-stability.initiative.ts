@@ -8,5 +8,7 @@ export const aranyaWorkstationServiceStability = {
   domain: "domain/service",
   persona: "aranya",
   intents: [],
-  constraints: [],
+  constraints: [
+    "Stability rests on no alert and on nothing a person or agent does; a failed service is a fault in the system, mended so that kind of failure becomes impossible.",
+  ],
 } as const satisfies Initiative
