@@ -29,6 +29,7 @@ export const emailRuleCode = {
       many: false,
     },
   ],
+  loadedBy: "module/email-rule-reading",
   invariants: [
     {
       invariantKind: "departure",

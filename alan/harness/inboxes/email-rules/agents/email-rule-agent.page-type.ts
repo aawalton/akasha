@@ -10,6 +10,7 @@ export const emailRuleAgent = {
   extends: ["page-type/email-rule"],
   parts: ["text-property/email-rule-judgement"],
   properties: [{ pageProperty: "text-property/email-rule-judgement", required: true, many: false }],
+  loadedBy: "module/email-rule-reading",
   invariants: [
     {
       invariantKind: "departure",
