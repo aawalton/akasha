@@ -46,4 +46,9 @@ export const athenaCommandsCleanup = {
         "`helpNotes` is the one hand-written part of a help answer, and every stale line the audits found sits in it. `commands/pages/claude-account/usage/claude-account-usage.command.ts:24` carries a bug post-mortem about `Promise.allSettled`; `commands/pages/seat/compose-notices/seat-compose-notices.command.ts:17` carries an internal to-do; `commands/pages/audit/audit.command.ts:20` writes a shape fact as prose. Nothing re-reads any of it.\n",
     },
   ],
+  constraints: [
+    "Every landing in this repository runs through the command system, so a fault landed here stops every agent at once.",
+    "A command's name is spelled outside akasha, in Alan's aliases and in the editor extension, which no landing here reaches.",
+    "Only the coordinating seat runs `akasha audit`, so a subagent cannot judge against a check what that subagent read.",
+  ],
 } as const satisfies Initiative
