@@ -3,7 +3,7 @@ import {
   attributesOf,
   bareSlug,
   recordedModeOf,
-} from "akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
+} from "akasha/seat-system/agent-attributes/agent-attributes.module.code.ts"
 import {
   frontmatterFromHistory,
   nameFromHistory,

@@ -3,11 +3,11 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import type { Args } from "akasha/seat-system/seat-args/seat-args.module.code.ts"
 import {
   attributesOf,
   recordedModeOf,
-} from "akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
+} from "akasha/seat-system/agent-attributes/agent-attributes.module.code.ts"
+import type { Args } from "akasha/seat-system/seat-args/seat-args.module.code.ts"
 import { onCallOf } from "akasha/seat-system/seat-on-call/seat-on-call.module.code.ts"
 import { defaultSlots } from "akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
 import { run } from "akasha/seat-system/seat-running/seat-running.module.code.ts"

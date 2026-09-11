@@ -1,7 +1,7 @@
 import {
   DECLARATIONS,
   MODES,
-} from "akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
+} from "akasha/seat-system/agent-attributes/agent-attributes.module.code.ts"
 
 export const SEAT_HELP = `bun tools/seat.ts — state what a seat IS, so a compaction cannot take it away
 

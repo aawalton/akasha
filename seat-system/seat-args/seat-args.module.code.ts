@@ -3,11 +3,6 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { fail } from "akasha/seat-system/command-failing/command-failing.module.code.ts"
-import {
-  type Principal,
-  principals,
-} from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   ASSIGNMENTS,
   ATTRIBUTES,
@@ -15,7 +10,12 @@ import {
   type Declaration,
   MODES,
   type Mode,
-} from "akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
+} from "akasha/seat-system/agent-attributes/agent-attributes.module.code.ts"
+import { fail } from "akasha/seat-system/command-failing/command-failing.module.code.ts"
+import {
+  type Principal,
+  principals,
+} from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 
 export interface Args {
   readonly set: Partial<Record<Declaration, string>>

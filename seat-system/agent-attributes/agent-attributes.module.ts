@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
-export const seatAttributes = {
+export const agentAttributes = {
   id: "01a06949-b281-754d-abc3-b81859567424",
   type: "module",
-  slug: "seat-attributes",
+  slug: "agent-attributes",
   definition:
     "the persona, domain and role declared of an agent, with the mode its session started in",
   code: "ts",

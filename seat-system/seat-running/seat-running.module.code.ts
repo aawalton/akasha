@@ -6,6 +6,15 @@ import {
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
+  ATTRIBUTES,
+  type Attribute,
+  type AttributeKey,
+  attributesOf,
+  DECLARATIONS,
+  type Declaration,
+  recordedModeOf,
+} from "akasha/seat-system/agent-attributes/agent-attributes.module.code.ts"
+import {
   composeSeatName,
   personPrincipals,
 } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
@@ -16,15 +25,6 @@ import {
 } from "akasha/seat-system/seat-answering/seat-answering.module.code.ts"
 import { type Args, parseArgs } from "akasha/seat-system/seat-args/seat-args.module.code.ts"
 import { attributeFor } from "akasha/seat-system/seat-attribute/seat-attribute.module.code.ts"
-import {
-  ATTRIBUTES,
-  type Attribute,
-  type AttributeKey,
-  attributesOf,
-  DECLARATIONS,
-  type Declaration,
-  recordedModeOf,
-} from "akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
 import { defaultLines } from "akasha/seat-system/seat-defaults/seat-defaults.module.code.ts"
 import {
   launchOf,
