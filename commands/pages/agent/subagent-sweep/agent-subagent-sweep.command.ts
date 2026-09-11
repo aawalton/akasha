@@ -24,8 +24,9 @@ export const agentSubagentSweep = {
     "no page's age is read: a page written long ago under a process still running says nothing.",
     "the report names, for each page, its seat, its agent id, what answers for it, and why.",
     "a removal is landed by this command rather than drafted, as the put-up that wrote the page was.",
-    "a page a subagent left edits waiting beside is kept though it was judged stale, so the seat can take those edits up as its own.",
     "a page that does go takes its files with it, and what those files held moves onto the seat that dispatched the subagent first.",
+    "a stale page goes whether or not edits wait beside it, because the edits move onto its seat rather than going with the page.",
+    "a stale page whose seat the index files no page for is left where it is while edits wait beside it, since taking it would destroy work nothing could reach again.",
   ],
   invariants: [
     {
@@ -51,7 +52,8 @@ export const agentSubagentSweep = {
     },
     {
       invariantKind: "departure",
-      statement: "A page whose seat the index has no page for moves nothing and still goes.",
+      statement:
+        "A page whose seat the index has no page for and that has nothing waiting still goes.",
     },
     {
       invariantKind: "departure",
@@ -133,19 +135,20 @@ export const agentSubagentSweep = {
     },
     {
       invariantKind: "departure",
-      statement: "A page a subagent left edits waiting beside is kept however it was judged.",
+      statement: "A stale page goes whether or not a subagent left edits waiting beside it.",
     },
     {
       invariantKind: "departure",
-      statement: "A page kept that way is marked as one whose subagent returned.",
+      statement:
+        "A stale page whose seat the index has no page for is left where it is while edits wait beside it.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat is therefore not read as having a live subagent for a page held open.",
+      statement: "The report names each page left that way and says why that page was left.",
     },
     {
       invariantKind: "departure",
-      statement: "The report names each page kept that way and says the edits are why.",
+      statement: "Why a page is left that way is read from the module the take-down reads it from.",
     },
   ],
 } as const satisfies Command

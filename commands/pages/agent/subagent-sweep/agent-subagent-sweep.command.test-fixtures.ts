@@ -1,20 +1,30 @@
-import { existsSync, mkdirSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { SubagentNode } from "akasha/code-system/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { refusalsKept } from "akasha/commands/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
-import type {
-  Landing,
-  RunningSaid,
-  SeatTranscripts,
+import {
+  agentSubagentSweep,
+  type Landing,
+  type RunningSaid,
+  type SeatTranscripts,
 } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
 import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
-import { valueAlsoFiled } from "akasha/pages/indexes/filing/index-filing.module.code.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/filing/index-filing.module.code.ts"
 import { rebuiltIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { ProcLivenessEntry } from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
+import {
+  seatEditsAt,
+  seatRefusalsAt,
+} from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
@@ -96,12 +106,44 @@ export function paged(root: string, seatName: string, own: string, agentId: stri
   return at
 }
 
+const KEPT_ROW = { kind: "add", path: `${TREE}/kept.ts`, content: "export const kept = 1\n" }
+
+export const ROW = `${JSON.stringify(KEPT_ROW)}\n`
+
+export const REFUSAL = "the body moved under the change"
+
+export const NOTHING_KEPT = { edits: "", refusals: "" }
+
 export function editsBeside(root: string, page: string): string {
   const at = editsAt(page)
   if (at === null) throw new Error(`${page} keeps no edits`)
-  const row = { kind: "add", path: `${TREE}/kept.ts`, content: "export const kept = 1\n" }
-  writing(root, at, `${JSON.stringify(row)}\n`)
+  writing(root, at, ROW)
   return at
+}
+
+export function refusalBeside(root: string, page: string): undefined {
+  refusalsKept(root, page, [REFUSAL])
+  return undefined
+}
+
+export function seatFiled(root: string, seatName: string, seatId: string): string {
+  const at = `seat-system/seats/pages/${seatName}/${seatName}.seat.ts`
+  writing(root, at, `export const ${seatName} = { assignmentSlug: "domain/akasha" }\n`)
+  gitIn(root, ["add", "-A"])
+  gitIn(root, ["commit", "--quiet", "-m", `${seatName} sits`])
+  listedFiled(root, "seat", seatName, [{ path: at, id: seatId }])
+  return at
+}
+
+function bodyAt(root: string, at: string | null): string {
+  return at !== null && existsSync(join(root, at)) ? readFileSync(join(root, at), "utf8") : ""
+}
+
+export function keptBySeat(
+  root: string,
+  seat: string
+): { readonly edits: string; readonly refusals: string } {
+  return { edits: bodyAt(root, seatEditsAt(seat)), refusals: bodyAt(root, seatRefusalsAt(seat)) }
 }
 
 export function logPut(baseDir: string, seatId: string, lines: readonly string[]): undefined {
@@ -135,6 +177,16 @@ export function landings(answer: Applied | Refused = LANDED): Landings {
 
 export function givenIn(root: string): Given {
   return { root, calledAs: "akasha agent subagent sweep", from: root, writer: null, agentId: null }
+}
+
+export function removing(
+  root: string,
+  base: string,
+  seen: readonly ProcLivenessEntry[],
+  said: RunningSaid,
+  landing: Landing
+): Promise<Answer> {
+  return agentSubagentSweep(["--remove"], givenIn(root), seen, base, said, landing)
 }
 
 export function there(root: string, at: string): boolean {

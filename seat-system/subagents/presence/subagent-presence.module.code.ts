@@ -202,18 +202,21 @@ export function startedAfter(root: string, page: string, stoppedAt: number | nul
   return held !== null && held > stoppedAt
 }
 
+export function leftWhereItIs(root: string, seatName: string, at: string): string | null {
+  if (seatPageIn(root, seatName) !== null) return null
+  if (!editsWaiting(root, at)) return null
+  return (
+    `the index files no page for the ${seatName} seat to move onto, and ${at} has edits waiting` +
+    ` that its take-down would take away, so that page was left where it is`
+  )
+}
+
 export function movingOff(root: string, seatName: string, at: string): Went {
+  const why = leftWhereItIs(root, seatName, at)
+  if (why !== null) return { why }
   const seat = seatPageIn(root, seatName)
-  if (seat !== null) {
-    movedOnto(root, seat, at)
-    return WENT
-  }
-  if (!editsWaiting(root, at)) return WENT
-  return {
-    why:
-      `the index files no page for the ${seatName} seat to move onto, and ${at} has edits waiting` +
-      ` that its take-down would take away, so that page was left where it is`,
-  }
+  if (seat !== null) movedOnto(root, seat, at)
+  return WENT
 }
 
 export async function took(

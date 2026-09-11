@@ -1,5 +1,4 @@
 import { resolve } from "node:path"
-import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
@@ -12,7 +11,6 @@ import {
   type Given,
 } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { dropReadings } from "akasha/commands/modules/reading/reading.module.code.ts"
-import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { scanProcEntries } from "akasha/seat-system/proc-scan/proc-scan.module.code.ts"
 import { akashaHolderProcessOf } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { parseSeatProcKey } from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
@@ -36,8 +34,10 @@ import {
   movedOnto,
   saidOf,
 } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
-import { seatPageIn } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
-import { subagentReturned } from "akasha/seat-system/subagents/properties/subagent-returned.boolean-property.ts"
+import {
+  leftWhereItIs,
+  seatPageIn,
+} from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 
 const REMOVE = "--remove"
 
@@ -159,14 +159,30 @@ export function heldBack(stale: number): readonly string[] {
 
 const NOTHING_STALE = "no page was judged STALE, so nothing went"
 
-const ALL_KEPT = "every page judged STALE keeps edits, so nothing went"
+const ALL_KEPT = "every page judged STALE was left where it is, so nothing went"
 
-function keptSaid(waiting: readonly Judged[]): readonly string[] {
-  if (waiting.length === 0) return []
+interface Parted {
+  readonly going: readonly Judged[]
+  readonly left: readonly string[]
+}
+
+function partedStale(root: string, stale: readonly Judged[]): Parted {
+  const going: Judged[] = []
+  const left: string[] = []
+  for (const one of stale) {
+    const why = leftWhereItIs(root, one.page.seatName, one.page.path)
+    if (why === null) going.push(one)
+    else left.push(`${one.page.slug} — ${why}`)
+  }
+  return { going, left }
+}
+
+function keptSaid(left: readonly string[]): readonly string[] {
+  if (left.length === 0) return []
   return [
     "",
-    `${String(waiting.length)} page(s) the census judged STALE are kept, because a subagent left ` +
-      `edits waiting beside each: ${waiting.map((one) => one.page.slug).join(", ")}`,
+    `${String(left.length)} page(s) the census judged STALE are left where they are:`,
+    ...left,
   ]
 }
 
@@ -228,19 +244,14 @@ export async function agentSubagentSweep(
   }
   const judged = judgedOver(pages, seenIn(entries, baseDir, own.running, own.ended, own.outlived))
   const census = censusOf(judged)
-  const judgedStale = staleAmong(judged)
-  const waiting = judgedStale.filter((one) => editsWaiting(root, one.page.path))
-  for (const one of waiting) {
-    mergeUncommitted(root, one.page.path, { [subagentReturned.propertySlug]: true })
-  }
-  const stale = judgedStale.filter((one) => !waiting.includes(one))
-  const kept = keptSaid(waiting)
-  if (!read.removing) return answering([...census, ...kept, ...heldBack(stale.length)], [], 0)
-  if (stale.length === 0) {
-    const why = waiting.length === 0 ? NOTHING_STALE : ALL_KEPT
+  const { going, left } = partedStale(root, staleAmong(judged))
+  const kept = keptSaid(left)
+  if (!read.removing) return answering([...census, ...kept, ...heldBack(going.length)], [], 0)
+  if (going.length === 0) {
+    const why = left.length === 0 ? NOTHING_STALE : ALL_KEPT
     return answering([...census, ...kept, "", why], [], 0)
   }
-  const gone = await taking(root, stale, landing)
+  const gone = await taking(root, going, landing)
   if (gone.code !== 0) return answering([...census, ...kept, ""], [...gone.refusals], gone.code)
   return answering([...census, ...kept, "", ...gone.report], [], 0)
 }

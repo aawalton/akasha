@@ -174,6 +174,10 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "A reader asks why a page is left where it is without moving anything.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run beginning writes the moment that run began beside the page.",
     },
     {
