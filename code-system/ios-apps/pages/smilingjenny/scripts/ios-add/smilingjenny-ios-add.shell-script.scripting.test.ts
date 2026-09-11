@@ -7,7 +7,7 @@ import {
   packageIn,
   reachedIn,
   sharedIn,
-} from "@smilingjenny/native-shell/scripts/ios-add/smilingjenny-ios-add.shell-script.scripting.code.ts"
+} from "akasha/code-system/ios-apps/pages/smilingjenny/scripts/ios-add/smilingjenny-ios-add.shell-script.scripting.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()

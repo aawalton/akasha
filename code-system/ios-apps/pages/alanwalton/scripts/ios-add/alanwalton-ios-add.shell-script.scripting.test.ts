@@ -4,7 +4,7 @@ import { dirname, join } from "node:path"
 import {
   bodyIn,
   scriptFilesIn,
-} from "@alanwalton/native-shell/scripts/ios-add/alanwalton-ios-add.shell-script.scripting.code.ts"
+} from "akasha/code-system/ios-apps/pages/alanwalton/scripts/ios-add/alanwalton-ios-add.shell-script.scripting.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()

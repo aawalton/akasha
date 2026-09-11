@@ -5,7 +5,7 @@ import {
   bodyIn,
   iconIn,
   underWebIn,
-} from "@alanwalton/native-shell/scripts/stage-app/alanwalton-stage-app.shell-script.scripting.code.ts"
+} from "akasha/code-system/ios-apps/pages/alanwalton/scripts/stage-app/alanwalton-stage-app.shell-script.scripting.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
