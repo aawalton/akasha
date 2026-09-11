@@ -150,6 +150,10 @@ export const pathClaiming = {
       statement: "A page claims a folder only where the page states that the page has it.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page claims a folder whether or not that folder is there.",
+    },
+    {
       invariantKind: "gap",
       statement: "A folder a build writes is told apart here from a folder that is not.",
     },
