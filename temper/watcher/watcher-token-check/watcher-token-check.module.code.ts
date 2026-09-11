@@ -1,6 +1,7 @@
-import { createHash, timingSafeEqual } from "node:crypto"
+import { timingSafeEqual } from "node:crypto"
 import { getPage } from "akasha/pages/access/get/get.module.code.ts"
 import { patchPageById } from "akasha/pages/access/patch/patch.module.code.ts"
+import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
 
 export const TEMPER_WATCHER_ENROLMENT_SLUG = "temper-watcher-enrolment"
 
@@ -8,10 +9,6 @@ export const ENROLMENT_KEYS = ["id", "tokenHash", "accountPage"] as const
 
 const TOKEN_SHAPE = /^wt_[0-9a-f]{64}$/
 const HASH_SHAPE = /^[0-9a-f]{64}$/
-
-export function watcherTokenHash(token: string): string {
-  return createHash("sha256").update(token, "utf8").digest("hex")
-}
 
 function sameHash(stated: unknown, presented: string): boolean {
   if (typeof stated !== "string") return false
@@ -27,7 +24,7 @@ export async function validateWatcherToken(
   wtToken: unknown
 ): Promise<ValidatedWatcherToken | null> {
   if (typeof wtToken !== "string" || !TOKEN_SHAPE.test(wtToken)) return null
-  const presented = watcherTokenHash(wtToken)
+  const presented = sha256Hex(wtToken)
 
   const row = await getPage({
     pageTypeSlug: TEMPER_WATCHER_ENROLMENT_SLUG,
