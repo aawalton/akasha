@@ -8,6 +8,7 @@ import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.m
 import { reachesIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
 
@@ -61,7 +62,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   }
   const left = world.unentered?.(given.from) ?? []
   if (left.length > 0) {
-    const named = left.map((one) => `\`${one}\``).join(", ")
+    const named = namesDrawn(left)
     const holds = left.length === 1 ? "holds" : "hold"
     return refusing(
       `${named} ${holds} a file no move carries, so \`${given.from}\` is left holding it` +
@@ -77,7 +78,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   }
   const missed = missing(world, given.from, under)
   if (missed.length > 0) {
-    const named = missed.map((one) => `\`${one}\``).join(", ")
+    const named = namesDrawn(missed)
     const names = missed.length === 1 ? "names a file" : "names files"
     return refusing(
       `git ${names} under \`${given.from}\` the listing does not, so the move would leave` +
