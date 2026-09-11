@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   namesWholeTask,
   parseTaskCompletions,
@@ -16,17 +15,25 @@ import {
 } from "./watcher-import-tasks.module.code.ts"
 import {
   applied,
+  asking,
   buildLua,
+  CAPPED_DONE_TASK,
+  CAPPED_TASK,
+  CARD_TASK,
   COMPLETED_AT_ISO,
   COMPLETED_AT_MS,
   COMPLETED_AT_S,
-  LANDED,
+  IMPORT_TASKS,
+  type Landing,
   landing,
   NO_CLIENT,
+  NO_USER_SESSION,
   NOW,
   NOW_ISO,
   ONE_OFF_ID,
   OTHER_DAY_MS,
+  PLAIN_TASK,
+  pushingTo,
   RECURRING_ID,
   SAME_DAY_MS,
   tallying,
@@ -251,12 +258,7 @@ test("a task is reached by its id and by its slug alike", () => {
 })
 
 test("a session carrying no user refuses the import, naming the work", async () => {
-  const session: SignedInReader = {
-    auth: {
-      getUser: async () => ({ data: { user: null }, error: { message: "no session" } }),
-    },
-  }
-  await expect(runImportTasks(buildLua([]), session, landing())).rejects.toThrow(
+  await expect(runImportTasks(buildLua([]), NO_USER_SESSION, landing())).rejects.toThrow(
     "no signed-in user to import these completions (no session)"
   )
 })
@@ -264,17 +266,7 @@ test("a session carrying no user refuses the import, naming the work", async () 
 test("an import completes what it resolves, clears a zero, and reports the rest unknown", async () => {
   const said: string[] = []
   const errors: string[] = []
-  const landed: { slug: string; values: Readonly<Record<string, unknown>> }[] = []
-  const tasks = [
-    { id: ONE_OFF_ID, slug: "one-off-task", title: "One Off Task", accountPage: "u1" },
-    {
-      id: RECURRING_ID,
-      slug: "recurring-task",
-      title: "Recurring",
-      accountPage: "u1",
-      lastCompletedAt: COMPLETED_AT_ISO,
-    },
-  ]
+  const landed: Landing[] = []
   await runImportTasks(
     buildLua([
       { taskId: ONE_OFF_ID, timestamp: COMPLETED_AT_S },
@@ -284,14 +276,8 @@ test("an import completes what it resolves, clears a zero, and reports the rest 
     NO_CLIENT,
     landing({
       userId: "u1",
-      ask: async (query) =>
-        query.pageTypeSlug === "temper-task"
-          ? { rows: tasks, n: tasks.length }
-          : { rows: [], n: 0 },
-      landTask: async (slug, values) => {
-        landed.push({ slug, values })
-        return LANDED
-      },
+      ask: asking(IMPORT_TASKS),
+      landTask: pushingTo(landed),
       report: (message) => said.push(message),
       reportError: (message) => errors.push(message),
     })
@@ -310,28 +296,15 @@ test("an import completes what it resolves, clears a zero, and reports the rest 
 })
 
 test("a task at its cumulative cap that no completion named is marked done at the end", async () => {
-  const landed: { slug: string; values: Readonly<Record<string, unknown>> }[] = []
+  const landed: Landing[] = []
   const said: string[] = []
-  const capped = {
-    id: RECURRING_ID,
-    slug: "cumulative-task",
-    title: "Cumulative",
-    rruleRule: "FREQ=DAILY",
-    completionCardId: "skill-lines",
-    progressCurrent: 16,
-    progressTotal: 16,
-  }
   await runImportTasks(
     buildLua([]),
     NO_CLIENT,
     landing({
       userId: "u1",
-      ask: async (query) =>
-        query.pageTypeSlug === "temper-task" ? { rows: [capped], n: 1 } : { rows: [], n: 0 },
-      landTask: async (slug, values) => {
-        landed.push({ slug, values })
-        return LANDED
-      },
+      ask: asking([CAPPED_TASK]),
+      landTask: pushingTo(landed),
       report: (message) => said.push(message),
     })
   )
@@ -344,28 +317,14 @@ test("a task at its cumulative cap that no completion named is marked done at th
 })
 
 test("a task already marked done is swept no second time", async () => {
-  const landed: unknown[] = []
-  const capped = {
-    id: RECURRING_ID,
-    slug: "cumulative-task",
-    title: "Cumulative",
-    rruleRule: "FREQ=DAILY",
-    completionCardId: "skill-lines",
-    progressCurrent: 16,
-    progressTotal: 16,
-    completedAt: COMPLETED_AT_ISO,
-  }
+  const landed: Landing[] = []
   await runImportTasks(
     buildLua([]),
     NO_CLIENT,
     landing({
       userId: "u1",
-      ask: async (query) =>
-        query.pageTypeSlug === "temper-task" ? { rows: [capped], n: 1 } : { rows: [], n: 0 },
-      landTask: async (slug, values) => {
-        landed.push({ slug, values })
-        return LANDED
-      },
+      ask: asking([CAPPED_DONE_TASK]),
+      landTask: pushingTo(landed),
     })
   )
   expect(landed).toEqual([])
@@ -387,19 +346,12 @@ test("a recurring task completed on an earlier day rolls on and stays", async ()
 test("the recomputation is handed every task and what it landed is reported", async () => {
   const said: string[] = []
   const handed: unknown[] = []
-  const task = {
-    id: ONE_OFF_ID,
-    slug: "one-off-task",
-    title: "One Off Task",
-    completionCardId: "daily-writs",
-  }
   await runImportTasks(
     buildLua([]),
     NO_CLIENT,
     landing({
       userId: "u1",
-      ask: async (query) =>
-        query.pageTypeSlug === "temper-task" ? { rows: [task], n: 1 } : { rows: [], n: 0 },
+      ask: asking([CARD_TASK]),
       refreshProgress: async (forUser, tasks) => {
         handed.push(forUser, ...tasks)
         return 3
@@ -418,10 +370,7 @@ test("a task naming no card is handed over with its slug alone", async () => {
     NO_CLIENT,
     landing({
       userId: "u1",
-      ask: async (query) =>
-        query.pageTypeSlug === "temper-task"
-          ? { rows: [{ id: ONE_OFF_ID, slug: "one-off-task", title: "One Off" }], n: 1 }
-          : { rows: [], n: 0 },
+      ask: asking([PLAIN_TASK]),
       refreshProgress: async (_forUser, tasks) => {
         handed.push(...tasks)
         return 0

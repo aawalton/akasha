@@ -112,3 +112,48 @@ export function landing(seams: ImportTasksOptions = {}): ImportTasksOptions {
     ...seams,
   }
 }
+
+export const NO_USER_SESSION: SignedInReader = {
+  auth: {
+    getUser: async () => ({ data: { user: null }, error: { message: "no session" } }),
+  },
+}
+
+export const IMPORT_TASKS: readonly TaskPage[] = [
+  taskOf({ accountPage: "u1" }),
+  taskOf({
+    id: RECURRING_ID,
+    slug: "recurring-task",
+    title: "Recurring",
+    accountPage: "u1",
+    lastCompletedAt: COMPLETED_AT_ISO,
+  }),
+]
+
+export const CAPPED_TASK = taskOf({
+  id: RECURRING_ID,
+  slug: "cumulative-task",
+  title: "Cumulative",
+  rruleRule: "FREQ=DAILY",
+  completionCardId: "skill-lines",
+  progressCurrent: 16,
+  progressTotal: 16,
+})
+
+export const CAPPED_DONE_TASK = taskOf({ ...CAPPED_TASK, completedAt: COMPLETED_AT_ISO })
+
+export const CARD_TASK = taskOf({ completionCardId: "daily-writs" })
+
+export const PLAIN_TASK = taskOf({ title: "One Off" })
+
+export function asking(rows: readonly TaskPage[]): ReadySeams["ask"] {
+  return async (query) =>
+    query.pageTypeSlug === "temper-task" ? { rows, n: rows.length } : { rows: [], n: 0 }
+}
+
+export function pushingTo(landed: Landing[]): ReadySeams["landTask"] {
+  return async (slug, values) => {
+    landed.push({ slug, values })
+    return LANDED
+  }
+}
