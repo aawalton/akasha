@@ -110,5 +110,14 @@ export const page = {
       invariantKind: "departure",
       statement: "A page is a file whose name has a page type.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Code reaching the pages of a type asks the index rather than spelling their folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's code that lists a folder lists what the index does not hold.",
+    },
   ],
 } as const satisfies Domain
