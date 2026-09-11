@@ -9,4 +9,5 @@ export const completion = {
   slug: "completion",
   propertySlug: "completion",
   definition: "what the game says has been finished, as the game handed it over",
+  extensions: ["json"],
 } as const satisfies FileProperty

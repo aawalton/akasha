@@ -9,6 +9,7 @@ export const alertRunbook = {
   slug: "alert-runbook",
   propertySlug: "runbook",
   definition: "what to check once an alert is raised",
+  extensions: ["txt"],
   invariants: [
     {
       invariantKind: "departure",

@@ -9,6 +9,7 @@ export const authorityCertificate = {
   slug: "authority-certificate",
   propertySlug: "authority-certificate",
   definition: "the certificate an authority signs with, and is recognised by",
+  extensions: ["pem"],
   fileName: "ca.crt",
   generated: true,
   invariants: [

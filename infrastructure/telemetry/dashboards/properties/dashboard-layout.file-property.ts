@@ -9,6 +9,7 @@ export const dashboardLayout = {
   slug: "dashboard-layout",
   propertySlug: "layout",
   definition: "the panels and queries a dashboard draws",
+  extensions: ["json"],
   runsFileLength: false,
   invariants: [
     {

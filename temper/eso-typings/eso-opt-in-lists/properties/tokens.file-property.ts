@@ -9,4 +9,5 @@ export const tokens = {
   slug: "tokens",
   propertySlug: "tokens",
   definition: "the eso api token names a list holds, grouped by the kind of token",
+  extensions: ["json"],
 } as const satisfies FileProperty

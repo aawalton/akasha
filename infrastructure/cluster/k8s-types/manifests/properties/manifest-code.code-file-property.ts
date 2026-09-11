@@ -9,6 +9,7 @@ export const manifestCode = {
   slug: "manifest-code",
   propertySlug: "code",
   definition: "the code a manifest is",
+  extensions: ["ts"],
   invariants: [
     {
       invariantKind: "departure",

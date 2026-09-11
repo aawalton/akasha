@@ -9,4 +9,5 @@ export const settings = {
   slug: "settings",
   propertySlug: "settings",
   definition: "how a player has asked temper to behave, as temper wrote it out",
+  extensions: ["json"],
 } as const satisfies FileProperty

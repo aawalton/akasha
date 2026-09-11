@@ -9,6 +9,7 @@ export const data = {
   slug: "data",
   propertySlug: "data",
   definition: "the bytes one whole reading was written as",
+  extensions: ["json"],
   invariants: [
     {
       invariantKind: "departure",

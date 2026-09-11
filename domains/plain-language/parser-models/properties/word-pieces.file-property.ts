@@ -9,6 +9,7 @@ export const wordPieces = {
   slug: "word-pieces",
   propertySlug: "word-pieces",
   definition: "the pieces a word is encoded against",
+  extensions: ["json"],
   generated: true,
   invariants: [
     {

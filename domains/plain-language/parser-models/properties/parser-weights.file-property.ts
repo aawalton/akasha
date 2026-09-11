@@ -9,6 +9,7 @@ export const parserWeights = {
   slug: "parser-weights",
   propertySlug: "parser-weights",
   definition: "the trained graph saying which word a word hangs off",
+  extensions: ["onnx"],
   generated: true,
   runsFileLength: false,
   holdsBytes: true,

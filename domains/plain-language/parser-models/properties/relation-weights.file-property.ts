@@ -9,6 +9,7 @@ export const relationWeights = {
   slug: "relation-weights",
   propertySlug: "relation-weights",
   definition: "the trained graph saying what one word is to the word it hangs off",
+  extensions: ["onnx"],
   generated: true,
   runsFileLength: false,
   holdsBytes: true,

@@ -9,6 +9,7 @@ export const clusterServiceConfig = {
   slug: "cluster-service-config",
   propertySlug: "config",
   definition: "the settings a workload's own program reads",
+  extensions: ["yaml"],
   invariants: [
     {
       invariantKind: "departure",
