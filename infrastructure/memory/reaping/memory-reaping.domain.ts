@@ -31,6 +31,18 @@ export const memoryReaping = {
       invariantKind: "departure",
       statement: "A headroom kill is followed by a window in which that leg takes nothing else.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A reaper takes only what every limit above that reaper let through.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Which tree is taken first is settled before the host runs short.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A host short of memory is known from how long its programs stall.",
+    },
   ],
   parts: [
     "module/memory-reaper-running",
