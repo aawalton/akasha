@@ -1,6 +1,4 @@
-import { padTwo } from "akasha/utils/digit-padding/pad-two/pad-two.module.code.ts"
 import { z } from "zod"
-import { handleKey } from "../contacts-db/contacts-db.module.code.ts"
 import { decodeAttributedBody } from "../typedstream/typedstream.module.code.ts"
 
 const messageRowSchema = z
@@ -210,19 +208,4 @@ export function parseHandleRows(stdout: string): readonly ImessageHandle[] {
 export function parseUnreadCount(stdout: string): number {
   const rows = parseJsonRows(stdout, unreadCountRowsSchema)
   return rows[0]?.unread ?? 0
-}
-
-export function formatLocalMinute(unixSeconds: number): string {
-  const d = new Date(unixSeconds * 1000)
-  return `${d.getFullYear()}-${padTwo(d.getMonth() + 1)}-${padTwo(d.getDate())}T${padTwo(d.getHours())}:${padTwo(d.getMinutes())}`
-}
-
-export function messageLabel(msg: ImessageMessage, nameByKey: ReadonlyMap<string, string>): string {
-  const id = msg.handleId ?? msg.chatIdentifier
-  const base = id === null || id === "" ? "unknown" : (nameByKey.get(handleKey(id)) ?? id)
-  return msg.chatDisplayName === null ? base : `${msg.chatDisplayName}: ${base}`
-}
-
-export function singleLine(text: string): string {
-  return text.replaceAll("\t", " ").replaceAll(/\s*\n\s*/g, " ⏎ ")
 }
