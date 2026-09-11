@@ -1,4 +1,4 @@
-import type { TemperEsoCompanion } from "../../temper-eso-companion.page-type.types.ts"
+import type { TemperEsoCompanion } from "akasha/temper/catalog/temper-companions/temper-eso-companions/temper-eso-companion.page-type.types.ts"
 
 export const isobel = {
   id: "01a05fcf-591f-7d0a-906f-b8555838244f",

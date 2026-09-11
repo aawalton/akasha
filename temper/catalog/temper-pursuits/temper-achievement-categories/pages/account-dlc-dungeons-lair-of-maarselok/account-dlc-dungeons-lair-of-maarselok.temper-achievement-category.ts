@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
+import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pursuits/temper-achievement-categories/temper-achievement-category.page-type.types.ts"
 
 export const accountDlcDungeonsLairOfMaarselok = {
   id: "01a06168-724a-7000-9772-cab6397eb9f8",

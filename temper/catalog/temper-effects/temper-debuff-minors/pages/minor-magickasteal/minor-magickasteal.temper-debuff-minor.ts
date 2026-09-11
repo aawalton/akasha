@@ -1,4 +1,4 @@
-import type { TemperDebuffMinor } from "../../temper-debuff-minor.page-type.types.ts"
+import type { TemperDebuffMinor } from "akasha/temper/catalog/temper-effects/temper-debuff-minors/temper-debuff-minor.page-type.types.ts"
 
 export const minorMagickasteal = {
   id: "01a05fc6-42c4-7c94-8ccd-26cccf97a140",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const eagleEye = {
   id: "019e66ec-76f5-7e48-93f0-c502da95dd60",

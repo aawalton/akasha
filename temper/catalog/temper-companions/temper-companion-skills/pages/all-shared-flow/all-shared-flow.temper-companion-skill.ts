@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
+import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companions/temper-companion-skills/temper-companion-skill.page-type.types.ts"
 
 export const allSharedFlow = {
   id: "019e6484-3830-7a11-bb1e-ef64c85fc414",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
+import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skills/temper-skill.page-type.types.ts"
 
 export const bloodOfTheElderDragon = {
   id: "019e6f53-9f51-7a68-a844-7586ca379ab3",

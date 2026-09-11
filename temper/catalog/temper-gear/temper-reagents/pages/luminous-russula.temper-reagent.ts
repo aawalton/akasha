@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
+import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-reagents/temper-reagent.page-type.types.ts"
 
 export const luminousRussula = {
   id: "019e21f7-3b1d-7345-9a92-ca157efe1883",

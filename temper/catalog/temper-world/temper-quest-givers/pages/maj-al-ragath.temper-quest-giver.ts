@@ -1,4 +1,4 @@
-import type { TemperQuestGiver } from "../temper-quest-giver.page-type.types.ts"
+import type { TemperQuestGiver } from "akasha/temper/catalog/temper-world/temper-quest-givers/temper-quest-giver.page-type.types.ts"
 
 export const majAlRagath = {
   id: "019e121f-c73f-76be-95c9-9c6cb2ed5191",

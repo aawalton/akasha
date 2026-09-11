@@ -1,4 +1,4 @@
-import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.types.ts"
+import type { TemperCompanionSkillLine } from "akasha/temper/catalog/temper-companions/temper-companion-skill-lines/temper-companion-skill-line.page-type.types.ts"
 
 export const weaponBow = {
   id: "01a05fce-c4ac-727d-8aac-c296a975f7e3",

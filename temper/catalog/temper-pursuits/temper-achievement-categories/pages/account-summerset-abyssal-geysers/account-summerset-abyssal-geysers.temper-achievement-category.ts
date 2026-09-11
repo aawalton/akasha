@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
+import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pursuits/temper-achievement-categories/temper-achievement-category.page-type.types.ts"
 
 export const accountSummersetAbyssalGeysers = {
   id: "01a06168-724f-700d-b975-f66c2715e13a",

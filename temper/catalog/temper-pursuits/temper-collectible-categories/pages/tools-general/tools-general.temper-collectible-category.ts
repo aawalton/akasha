@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
+import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pursuits/temper-collectible-categories/temper-collectible-category.page-type.types.ts"
 
 export const toolsGeneral = {
   id: "01a06165-916a-7016-99c2-e67b1f072fd6",

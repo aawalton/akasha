@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
+import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skills/temper-skill.page-type.types.ts"
 
 export const endlessHail = {
   id: "019e6226-00ed-7e44-81a7-47b4f2f7efe3",

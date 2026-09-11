@@ -1,4 +1,4 @@
-import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.types.ts"
+import type { TemperJewelryEnchant } from "akasha/temper/catalog/temper-gear/temper-jewelry-enchants/temper-jewelry-enchant.page-type.types.ts"
 
 export const poisonResist = {
   id: "019e5c85-d956-7d2f-891d-0d40261fddf5",

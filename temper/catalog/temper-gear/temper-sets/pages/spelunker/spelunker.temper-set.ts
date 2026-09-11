@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const spelunker = {
   id: "019e66e6-a0c6-7958-9c72-6661d3580fda",

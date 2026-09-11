@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
+import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skills/temper-skill.page-type.types.ts"
 
 export const bloodthirst = {
   id: "019e6226-00d8-7a2b-9562-efc2f804aacf",

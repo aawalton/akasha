@@ -1,4 +1,4 @@
-import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.types.ts"
+import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temper-scribed-skills/temper-scribed-skill.page-type.types.ts"
 
 export const scribedSoulBurstDiseaseDamage = {
   id: "019e6471-15c4-7ec0-8e41-4206c141d937",

@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
+import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pursuits/temper-achievement-categories/temper-achievement-category.page-type.types.ts"
 
 export const characterBlackwoodExploration = {
   id: "01a06168-7251-701c-b6d9-f8a3e4febd80",

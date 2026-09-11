@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
+import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skills/temper-skill.page-type.types.ts"
 
 export const restoringTether = {
   id: "019e6f53-a634-7c82-87c8-48a1c66accf4",

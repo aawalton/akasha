@@ -1,4 +1,4 @@
-import type { TemperTargetType } from "../temper-target-type.page-type.types.ts"
+import type { TemperTargetType } from "akasha/temper/catalog/temper-effects/temper-target-types/temper-target-type.page-type.types.ts"
 
 export const ground = {
   id: "019e5d5a-d86f-772a-9aac-b8a5b2218909",

@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
+import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companions/temper-companion-skills/temper-companion-skill.page-type.types.ts"
 
 export const allSharedReverseEntropy = {
   id: "019e6688-86f2-7974-b9a7-518094a485da",

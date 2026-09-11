@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
+import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skills/temper-skill.page-type.types.ts"
 
 export const vengeanceFlurry = {
   id: "019e6f53-a90f-763a-bfbf-9ebdb76e4e4d",

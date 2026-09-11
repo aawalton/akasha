@@ -1,4 +1,4 @@
-import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.types.ts"
+import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temper-scribed-skills/temper-scribed-skill.page-type.types.ts"
 
 export const scribedTorchbearerPhysicalDamage = {
   id: "019e6471-15d3-72b1-a018-b801c227b835",

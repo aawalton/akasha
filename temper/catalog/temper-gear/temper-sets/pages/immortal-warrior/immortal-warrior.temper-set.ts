@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const immortalWarrior = {
   id: "019e66ec-7b45-7304-944e-5104b712d901",

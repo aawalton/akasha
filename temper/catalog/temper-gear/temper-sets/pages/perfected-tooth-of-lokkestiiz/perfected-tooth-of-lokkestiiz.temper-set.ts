@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const perfectedToothOfLokkestiiz = {
   id: "019e66ec-7d89-77aa-93c7-faf3b3f83b79",

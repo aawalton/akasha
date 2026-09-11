@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const fledglingsNest = {
   id: "019e66e7-6a05-7a13-a977-920c383ddbe1",

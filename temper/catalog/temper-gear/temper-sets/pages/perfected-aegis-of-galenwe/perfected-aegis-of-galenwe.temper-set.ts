@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const perfectedAegisOfGalenwe = {
   id: "019e66ec-7bff-710a-a7b2-51de970caa5c",

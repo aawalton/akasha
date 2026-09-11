@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const robesOfAlterationMastery = {
   id: "019e66ec-78ad-70c0-a5a8-92ed7a6e8b5b",

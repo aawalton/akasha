@@ -1,4 +1,4 @@
-import type { TemperFocusScript } from "../temper-focus-script.page-type.types.ts"
+import type { TemperFocusScript } from "akasha/temper/catalog/temper-skill/temper-focus-scripts/temper-focus-script.page-type.types.ts"
 
 export const damageShield = {
   id: "01a05fce-2950-7294-a929-69490108f2d0",

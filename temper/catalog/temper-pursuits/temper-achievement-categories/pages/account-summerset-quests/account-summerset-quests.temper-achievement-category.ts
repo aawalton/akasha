@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
+import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pursuits/temper-achievement-categories/temper-achievement-category.page-type.types.ts"
 
 export const accountSummersetQuests = {
   id: "01a06168-724f-700c-a90f-e655a5834de9",

@@ -1,4 +1,4 @@
-import type { TemperArmorType } from "../temper-armor-type.page-type.types.ts"
+import type { TemperArmorType } from "akasha/temper/catalog/temper-gear/temper-armor-types/temper-armor-type.page-type.types.ts"
 
 export const chest = {
   id: "01a05fd5-4dcd-7a31-8d6f-0a1aa3b9b0df",

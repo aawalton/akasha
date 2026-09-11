@@ -1,4 +1,4 @@
-import type { TemperPotionCrown } from "../../temper-potion-crown.page-type.types.ts"
+import type { TemperPotionCrown } from "akasha/temper/catalog/temper-gear/temper-potion-crowns/temper-potion-crown.page-type.types.ts"
 
 export const crownTriRestorationPotion = {
   id: "019e21f5-7534-7436-a51b-5d921f4e306f",

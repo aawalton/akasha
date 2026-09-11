@@ -1,4 +1,4 @@
-import type { TemperGrimoire } from "../../temper-grimoire.page-type.types.ts"
+import type { TemperGrimoire } from "akasha/temper/catalog/temper-skill/temper-grimoires/temper-grimoire.page-type.types.ts"
 
 export const travelingKnife = {
   id: "01a05fce-2958-7007-a7ea-a087ca479f02",

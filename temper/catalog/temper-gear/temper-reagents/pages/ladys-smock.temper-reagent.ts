@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
+import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-reagents/temper-reagent.page-type.types.ts"
 
 export const ladysSmock = {
   id: "019e21f7-3b1c-7253-87bc-fdf867a99938",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const beaconOfOblivion = {
   id: "019e6484-5fdf-7d68-8c00-78f2a31154d3",

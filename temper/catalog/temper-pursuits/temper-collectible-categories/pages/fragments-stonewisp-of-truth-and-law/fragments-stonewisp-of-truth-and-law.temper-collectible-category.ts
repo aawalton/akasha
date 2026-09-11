@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
+import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pursuits/temper-collectible-categories/temper-collectible-category.page-type.types.ts"
 
 export const fragmentsStonewispOfTruthAndLaw = {
   id: "01a06165-9168-7014-b7a2-41402dd3badb",

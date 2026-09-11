@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const whitestrakesRetribution = {
   id: "019e668e-9a75-77a0-8d45-c84c42e3c597",

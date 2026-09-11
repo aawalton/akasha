@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const perfectedVrolsCommand = {
   id: "019e66ec-7db4-7f52-a783-d098ec6e7eda",

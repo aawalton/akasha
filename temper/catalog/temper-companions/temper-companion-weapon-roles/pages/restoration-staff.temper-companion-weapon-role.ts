@@ -1,4 +1,4 @@
-import type { TemperCompanionWeaponRole } from "../temper-companion-weapon-role.page-type.types.ts"
+import type { TemperCompanionWeaponRole } from "akasha/temper/catalog/temper-companions/temper-companion-weapon-roles/temper-companion-weapon-role.page-type.types.ts"
 
 export const restorationStaff = {
   id: "01a05fcd-ea72-7636-b9d7-d1afc3c60823",

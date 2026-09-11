@@ -1,4 +1,4 @@
-import type { TemperAffixScript } from "../temper-affix-script.page-type.types.ts"
+import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/temper-affix-scripts/temper-affix-script.page-type.types.ts"
 
 export const vitality = {
   id: "01a05fce-294d-7a8c-add3-726775351b58",

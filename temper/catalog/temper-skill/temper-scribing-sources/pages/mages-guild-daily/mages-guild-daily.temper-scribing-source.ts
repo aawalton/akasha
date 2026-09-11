@@ -1,4 +1,4 @@
-import type { TemperScribingSource } from "../../temper-scribing-source.page-type.types.ts"
+import type { TemperScribingSource } from "akasha/temper/catalog/temper-skill/temper-scribing-sources/temper-scribing-source.page-type.types.ts"
 
 export const magesGuildDaily = {
   id: "019e12b0-85db-772f-8925-757e9bacd178",

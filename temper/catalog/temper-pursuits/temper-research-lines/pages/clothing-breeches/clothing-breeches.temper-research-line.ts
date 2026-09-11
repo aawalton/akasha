@@ -1,4 +1,4 @@
-import type { TemperResearchLine } from "../../temper-research-line.page-type.types.ts"
+import type { TemperResearchLine } from "akasha/temper/catalog/temper-pursuits/temper-research-lines/temper-research-line.page-type.types.ts"
 
 export const clothingBreeches = {
   id: "01a0616b-2ce0-7013-b8e9-4a3a641aa512",

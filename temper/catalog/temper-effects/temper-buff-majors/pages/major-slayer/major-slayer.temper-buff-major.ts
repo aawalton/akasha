@@ -1,4 +1,4 @@
-import type { TemperBuffMajor } from "../../temper-buff-major.page-type.types.ts"
+import type { TemperBuffMajor } from "akasha/temper/catalog/temper-effects/temper-buff-majors/temper-buff-major.page-type.types.ts"
 
 export const majorSlayer = {
   id: "01a05fc5-f6bc-739d-89da-33800d2d9daf",

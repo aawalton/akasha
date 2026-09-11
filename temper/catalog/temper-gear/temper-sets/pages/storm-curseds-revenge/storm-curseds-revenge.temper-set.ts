@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const stormCursedsRevenge = {
   id: "019e66e6-a0ca-7de4-8196-4a35b2002c33",

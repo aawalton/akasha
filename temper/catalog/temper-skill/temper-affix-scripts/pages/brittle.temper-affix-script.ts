@@ -1,4 +1,4 @@
-import type { TemperAffixScript } from "../temper-affix-script.page-type.types.ts"
+import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/temper-affix-scripts/temper-affix-script.page-type.types.ts"
 
 export const brittle = {
   id: "01a05fce-2945-7848-a8b9-10d16b7215f6",

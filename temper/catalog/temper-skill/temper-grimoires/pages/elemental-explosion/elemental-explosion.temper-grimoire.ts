@@ -1,4 +1,4 @@
-import type { TemperGrimoire } from "../../temper-grimoire.page-type.types.ts"
+import type { TemperGrimoire } from "akasha/temper/catalog/temper-skill/temper-grimoires/temper-grimoire.page-type.types.ts"
 
 export const elementalExplosion = {
   id: "01a05fce-2956-7d68-a22a-9f1a48952793",

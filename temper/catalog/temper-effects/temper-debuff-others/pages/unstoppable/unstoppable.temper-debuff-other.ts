@@ -1,4 +1,4 @@
-import type { TemperDebuffOther } from "../../temper-debuff-other.page-type.types.ts"
+import type { TemperDebuffOther } from "akasha/temper/catalog/temper-effects/temper-debuff-others/temper-debuff-other.page-type.types.ts"
 
 export const unstoppable = {
   id: "01a05fc6-42ca-7a1a-86ec-7f9ae0c66f68",

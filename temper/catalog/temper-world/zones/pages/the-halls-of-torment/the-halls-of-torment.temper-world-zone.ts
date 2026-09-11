@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
+import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/temper-world-zone.page-type.types.ts"
 
 export const theHallsOfTorment = {
   id: "01a06165-cbc0-7001-af5d-5d307e274898",

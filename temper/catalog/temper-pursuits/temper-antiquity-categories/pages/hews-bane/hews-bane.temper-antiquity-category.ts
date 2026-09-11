@@ -1,4 +1,4 @@
-import type { TemperAntiquityCategory } from "../../temper-antiquity-category.page-type.types.ts"
+import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursuits/temper-antiquity-categories/temper-antiquity-category.page-type.types.ts"
 
 export const hewsBane = {
   id: "01a06166-503d-7009-9e13-60efc8cb88bd",

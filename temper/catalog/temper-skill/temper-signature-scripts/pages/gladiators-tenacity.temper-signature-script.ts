@@ -1,4 +1,4 @@
-import type { TemperSignatureScript } from "../temper-signature-script.page-type.types.ts"
+import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/temper-signature-scripts/temper-signature-script.page-type.types.ts"
 
 export const gladiatorsTenacity = {
   id: "019e46b5-7e29-75a4-ad22-f407c118491c",

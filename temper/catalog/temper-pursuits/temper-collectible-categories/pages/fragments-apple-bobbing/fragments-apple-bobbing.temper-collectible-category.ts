@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
+import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pursuits/temper-collectible-categories/temper-collectible-category.page-type.types.ts"
 
 export const fragmentsAppleBobbing = {
   id: "01a06165-9167-7009-a385-accfaf1697ea",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
+import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skills/temper-skill.page-type.types.ts"
 
 export const tanglingWebs42012 = {
   id: "019e6f53-a820-7a6f-a116-eb8fc5076c0c",

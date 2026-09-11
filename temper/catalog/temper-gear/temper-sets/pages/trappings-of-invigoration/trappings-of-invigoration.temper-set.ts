@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const trappingsOfInvigoration = {
   id: "019e66e6-a0d9-7e49-aa22-036b7d30b757",

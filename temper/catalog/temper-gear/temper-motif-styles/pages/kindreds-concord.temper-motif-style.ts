@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
+import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-motif-styles/temper-motif-style.page-type.types.ts"
 
 export const kindredsConcord = {
   id: "019e5a46-c4bc-7936-b831-4f23453af471",

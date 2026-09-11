@@ -1,4 +1,4 @@
-import type { TemperAntiquityCategory } from "../../temper-antiquity-category.page-type.types.ts"
+import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursuits/temper-antiquity-categories/temper-antiquity-category.page-type.types.ts"
 
 export const artaeum = {
   id: "01a06166-503d-7012-a3f0-9ecdd5bbef06",

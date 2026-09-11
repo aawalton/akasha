@@ -1,4 +1,4 @@
-import type { TemperSourceCategory } from "../temper-source-category.page-type.types.ts"
+import type { TemperSourceCategory } from "akasha/temper/catalog/temper-world/temper-source-categories/temper-source-category.page-type.types.ts"
 
 export const companionJewelry = {
   id: "019e3104-cc16-7880-b037-9115715acad9",

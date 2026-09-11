@@ -1,8 +1,8 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { Duration } from "./duration.number-property.types.ts"
-import type { StatusDistance } from "./status-distance.number-property.types.ts"
-import type { StatusMagnitude } from "./status-magnitude.number-property.types.ts"
-import type { StatusName } from "./status-name.text-property.types.ts"
+import type { Duration } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/duration.number-property.types.ts"
+import type { StatusDistance } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/status-distance.number-property.types.ts"
+import type { StatusMagnitude } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/status-magnitude.number-property.types.ts"
+import type { StatusName } from "akasha/temper/catalog/temper-companions/temper-companion-skills/properties/status-name.text-property.types.ts"
 
 export type EffectStatus = {
   status?: StatusName

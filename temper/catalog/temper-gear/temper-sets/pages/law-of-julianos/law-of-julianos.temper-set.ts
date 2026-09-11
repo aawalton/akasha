@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const lawOfJulianos = {
   id: "019e668e-9a4e-7fd9-8979-f5c3d2d55924",

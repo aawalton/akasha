@@ -1,4 +1,4 @@
-import type { TemperResearchLine } from "../../temper-research-line.page-type.types.ts"
+import type { TemperResearchLine } from "akasha/temper/catalog/temper-pursuits/temper-research-lines/temper-research-line.page-type.types.ts"
 
 export const jewelryCraftingRing = {
   id: "01a0616b-2ce1-7010-8ff6-7a252a2d62fd",

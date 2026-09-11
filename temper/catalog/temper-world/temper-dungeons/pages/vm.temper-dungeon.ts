@@ -1,4 +1,4 @@
-import type { TemperDungeon } from "../temper-dungeon.page-type.types.ts"
+import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-dungeons/temper-dungeon.page-type.types.ts"
 
 export const vm = {
   id: "01a05fc5-742d-7142-ad4c-1b3f65a72b0f",

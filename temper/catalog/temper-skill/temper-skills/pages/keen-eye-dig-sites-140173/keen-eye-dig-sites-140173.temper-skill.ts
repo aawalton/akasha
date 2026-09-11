@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
+import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skills/temper-skill.page-type.types.ts"
 
 export const keenEyeDigSites140173 = {
   id: "019e6f53-a39d-7930-be15-3df5f046e5f0",

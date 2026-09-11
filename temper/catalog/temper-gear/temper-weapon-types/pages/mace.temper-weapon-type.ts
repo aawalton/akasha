@@ -1,4 +1,4 @@
-import type { TemperWeaponType } from "../temper-weapon-type.page-type.types.ts"
+import type { TemperWeaponType } from "akasha/temper/catalog/temper-gear/temper-weapon-types/temper-weapon-type.page-type.types.ts"
 
 export const mace = {
   id: "019e46b6-4089-7fbb-8e33-bdbbe8a10106",

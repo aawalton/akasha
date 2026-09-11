@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const camonnaTong = {
   id: "019e66e7-6a4f-7e4e-92ca-abb3e812dd9c",

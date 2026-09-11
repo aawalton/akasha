@@ -1,4 +1,4 @@
-import type { TemperAffixScript } from "../temper-affix-script.page-type.types.ts"
+import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/temper-affix-scripts/temper-affix-script.page-type.types.ts"
 
 export const maim = {
   id: "01a05fce-294a-7ac3-8c2a-39d8b4336852",

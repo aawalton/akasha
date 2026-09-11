@@ -1,4 +1,4 @@
-import type { TemperClass } from "../temper-class.page-type.types.ts"
+import type { TemperClass } from "akasha/temper/catalog/temper-skill/temper-classes/temper-class.page-type.types.ts"
 
 export const warden = {
   id: "01a05fce-294f-71b8-ba6e-d10e0b872617",

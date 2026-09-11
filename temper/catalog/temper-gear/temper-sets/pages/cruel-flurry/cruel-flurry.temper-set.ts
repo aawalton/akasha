@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const cruelFlurry = {
   id: "019e6484-5fa2-7b0d-ba4d-cfb7621ac350",

@@ -1,4 +1,4 @@
-import type { TemperGrimoire } from "../../temper-grimoire.page-type.types.ts"
+import type { TemperGrimoire } from "akasha/temper/catalog/temper-skill/temper-grimoires/temper-grimoire.page-type.types.ts"
 
 export const vault = {
   id: "01a05fce-2959-739f-879f-e1dc43900386",

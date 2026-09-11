@@ -1,4 +1,4 @@
-import type { TemperWeaponType } from "../temper-weapon-type.page-type.types.ts"
+import type { TemperWeaponType } from "akasha/temper/catalog/temper-gear/temper-weapon-types/temper-weapon-type.page-type.types.ts"
 
 export const dagger = {
   id: "019e46b6-408c-774e-b328-97c62f8e9d12",

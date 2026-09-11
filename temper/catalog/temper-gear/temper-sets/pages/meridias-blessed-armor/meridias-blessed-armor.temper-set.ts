@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const meridiasBlessedArmor = {
   id: "019e66e7-6a71-7586-ac43-819d6cc8b095",

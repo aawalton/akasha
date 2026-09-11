@@ -1,4 +1,4 @@
-import type { TemperCompanionTrait } from "../../temper-companion-trait.page-type.types.ts"
+import type { TemperCompanionTrait } from "akasha/temper/catalog/temper-companions/temper-companion-traits/temper-companion-trait.page-type.types.ts"
 
 export const soothing = {
   id: "01a05fce-c4b1-7c18-9828-60ac8b4aafa2",

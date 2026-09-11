@@ -1,4 +1,4 @@
-import type { TemperFocusScript } from "../temper-focus-script.page-type.types.ts"
+import type { TemperFocusScript } from "akasha/temper/catalog/temper-skill/temper-focus-scripts/temper-focus-script.page-type.types.ts"
 
 export const taunt = {
   id: "01a05fce-2955-77f5-9883-c0788a9af087",

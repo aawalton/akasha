@@ -1,4 +1,4 @@
-import type { TemperWeaponTrait } from "../../temper-weapon-trait.page-type.types.ts"
+import type { TemperWeaponTrait } from "akasha/temper/catalog/temper-gear/temper-weapon-traits/temper-weapon-trait.page-type.types.ts"
 
 export const ornate = {
   id: "019e5b8b-e54f-73ae-a237-4ba3c5b67565",

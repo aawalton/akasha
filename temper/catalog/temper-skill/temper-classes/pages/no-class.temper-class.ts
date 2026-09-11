@@ -1,4 +1,4 @@
-import type { TemperClass } from "../temper-class.page-type.types.ts"
+import type { TemperClass } from "akasha/temper/catalog/temper-skill/temper-classes/temper-class.page-type.types.ts"
 
 export const noClass = {
   id: "01a05fce-294e-7d91-96b4-58029d7b0079",

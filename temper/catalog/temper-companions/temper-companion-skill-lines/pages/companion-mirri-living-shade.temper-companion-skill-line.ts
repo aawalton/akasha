@@ -1,4 +1,4 @@
-import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.types.ts"
+import type { TemperCompanionSkillLine } from "akasha/temper/catalog/temper-companions/temper-companion-skill-lines/temper-companion-skill-line.page-type.types.ts"
 
 export const companionMirriLivingShade = {
   id: "01a05fce-c4a4-7794-98c2-9a8789f375ad",

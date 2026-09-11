@@ -1,4 +1,4 @@
-import type { TemperArmorEnchant } from "../../temper-armor-enchant.page-type.types.ts"
+import type { TemperArmorEnchant } from "akasha/temper/catalog/temper-gear/temper-armor-enchants/temper-armor-enchant.page-type.types.ts"
 
 export const stamina = {
   id: "01a05fd4-d96c-7e66-8940-ca31af8c2c46",

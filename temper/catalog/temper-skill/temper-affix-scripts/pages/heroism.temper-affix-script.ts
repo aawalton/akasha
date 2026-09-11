@@ -1,4 +1,4 @@
-import type { TemperAffixScript } from "../temper-affix-script.page-type.types.ts"
+import type { TemperAffixScript } from "akasha/temper/catalog/temper-skill/temper-affix-scripts/temper-affix-script.page-type.types.ts"
 
 export const heroism = {
   id: "01a05fce-2949-700f-8c3d-41f5315e6ca5",

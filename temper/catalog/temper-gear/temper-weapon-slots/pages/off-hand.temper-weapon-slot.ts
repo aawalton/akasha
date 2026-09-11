@@ -1,4 +1,4 @@
-import type { TemperWeaponSlot } from "../temper-weapon-slot.page-type.types.ts"
+import type { TemperWeaponSlot } from "akasha/temper/catalog/temper-gear/temper-weapon-slots/temper-weapon-slot.page-type.types.ts"
 
 export const offHand = {
   id: "019e4caa-ef00-77d7-a5a0-f03b034f2845",

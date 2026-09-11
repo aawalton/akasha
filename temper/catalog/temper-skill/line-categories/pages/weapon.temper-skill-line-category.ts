@@ -1,4 +1,4 @@
-import type { TemperSkillLineCategory } from "../temper-skill-line-category.page-type.types.ts"
+import type { TemperSkillLineCategory } from "akasha/temper/catalog/temper-skill/line-categories/temper-skill-line-category.page-type.types.ts"
 
 export const weapon = {
   id: "019e2fc7-4af5-79fb-a853-5cf0b4c4a41a",

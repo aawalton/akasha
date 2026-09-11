@@ -1,4 +1,4 @@
-import type { TemperCompanionTrait } from "../../temper-companion-trait.page-type.types.ts"
+import type { TemperCompanionTrait } from "akasha/temper/catalog/temper-companions/temper-companion-traits/temper-companion-trait.page-type.types.ts"
 
 export const prolific = {
   id: "01a05fce-c4b0-7db1-b613-848e703bbfc8",

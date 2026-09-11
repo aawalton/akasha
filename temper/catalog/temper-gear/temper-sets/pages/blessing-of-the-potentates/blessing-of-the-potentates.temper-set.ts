@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const blessingOfThePotentates = {
   id: "019e66ec-766f-7a86-8564-a64d14c4d7c4",

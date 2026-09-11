@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
+import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-reagents/temper-reagent.page-type.types.ts"
 
 export const violetCoprinus = {
   id: "019e21f7-3b27-798b-a4d4-e37f887f6917",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const clawOfYolnahkriin = {
   id: "019e66ec-7a8f-721d-b96b-06a4d918c269",

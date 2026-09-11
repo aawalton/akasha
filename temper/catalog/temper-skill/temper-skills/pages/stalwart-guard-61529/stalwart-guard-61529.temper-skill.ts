@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
+import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skills/temper-skill.page-type.types.ts"
 
 export const stalwartGuard61529 = {
   id: "019e6f53-a7ae-7dcd-9da8-563b2d84deaa",

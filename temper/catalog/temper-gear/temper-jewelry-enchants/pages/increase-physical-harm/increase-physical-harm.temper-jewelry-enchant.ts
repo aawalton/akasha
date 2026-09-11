@@ -1,4 +1,4 @@
-import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.types.ts"
+import type { TemperJewelryEnchant } from "akasha/temper/catalog/temper-gear/temper-jewelry-enchants/temper-jewelry-enchant.page-type.types.ts"
 
 export const increasePhysicalHarm = {
   id: "019e5c85-d93e-7184-bf02-d3098e13d12b",

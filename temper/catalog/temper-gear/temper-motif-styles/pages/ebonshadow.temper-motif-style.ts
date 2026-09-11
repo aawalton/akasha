@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
+import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-motif-styles/temper-motif-style.page-type.types.ts"
 
 export const ebonshadow = {
   id: "019e5a46-c403-7fa5-800f-4f93759d1d2a",

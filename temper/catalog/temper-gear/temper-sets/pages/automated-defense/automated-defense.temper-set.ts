@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const automatedDefense = {
   id: "019e66ec-7a52-7bb7-9d34-d2b8de74a8ad",

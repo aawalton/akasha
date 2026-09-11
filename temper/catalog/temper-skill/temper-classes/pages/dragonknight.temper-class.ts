@@ -1,4 +1,4 @@
-import type { TemperClass } from "../temper-class.page-type.types.ts"
+import type { TemperClass } from "akasha/temper/catalog/temper-skill/temper-classes/temper-class.page-type.types.ts"
 
 export const dragonknight = {
   id: "01a05fce-294e-756a-9738-748825e471c9",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const overwhelmingSurge = {
   id: "019e66e6-a0ab-7fe7-b9de-75d864c85ebc",

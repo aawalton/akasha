@@ -1,4 +1,4 @@
-import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.types.ts"
+import type { TemperPotionCrafted } from "akasha/temper/catalog/temper-gear/temper-potion-crafteds/temper-potion-crafted.page-type.types.ts"
 
 export const intellectSorceryMagickaRestoreStealthDetection = {
   id: "019e21f6-4061-7f2f-80f6-a8d7e436aefd",

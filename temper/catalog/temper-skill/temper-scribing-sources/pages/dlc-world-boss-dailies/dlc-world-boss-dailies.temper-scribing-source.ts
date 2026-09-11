@@ -1,4 +1,4 @@
-import type { TemperScribingSource } from "../../temper-scribing-source.page-type.types.ts"
+import type { TemperScribingSource } from "akasha/temper/catalog/temper-skill/temper-scribing-sources/temper-scribing-source.page-type.types.ts"
 
 export const dlcWorldBossDailies = {
   id: "019e12b0-85e7-70ea-a0d8-773c407acbbf",

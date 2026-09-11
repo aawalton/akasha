@@ -1,4 +1,4 @@
-import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.types.ts"
+import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuits/temper-lore-collections/temper-lore-collection.page-type.types.ts"
 
 export const eastmarchLore = {
   id: "01a06343-f9fa-70ed-a5d8-d486330c3cf9",

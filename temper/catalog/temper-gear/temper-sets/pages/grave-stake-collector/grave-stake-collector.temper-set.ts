@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const graveStakeCollector = {
   id: "019e668e-9a46-75a1-9ad0-14b98eb8bd04",

@@ -1,4 +1,4 @@
-import type { TemperSkillSlot } from "../temper-skill-slot.page-type.types.ts"
+import type { TemperSkillSlot } from "akasha/temper/catalog/temper-skill/slots/temper-skill-slot.page-type.types.ts"
 
 export const active5 = {
   id: "019e3102-565c-78f9-b1fb-0158bbd177b6",

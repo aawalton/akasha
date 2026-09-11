@@ -1,4 +1,4 @@
-import type { TemperRace } from "../temper-race.page-type.types.ts"
+import type { TemperRace } from "akasha/temper/catalog/temper-world/temper-races/temper-race.page-type.types.ts"
 
 export const altmer = {
   id: "019e2fc3-a986-716c-9ff3-32a385297c37",

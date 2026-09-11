@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const maraudersHaste = {
   id: "019e66e7-6a6e-7fae-a220-4bf8ec9e5c66",

@@ -1,4 +1,4 @@
-import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.types.ts"
+import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/temper-catalog-domains/temper-catalog-domain.page-type.types.ts"
 
 export const inventoryConstants = {
   id: "01a05fc5-7430-762e-87e8-3acee57f3719",

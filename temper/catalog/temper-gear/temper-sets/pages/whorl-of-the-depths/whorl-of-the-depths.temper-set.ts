@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const whorlOfTheDepths = {
   id: "019e66ec-7f1b-760b-8a0f-17c8d9a8c217",

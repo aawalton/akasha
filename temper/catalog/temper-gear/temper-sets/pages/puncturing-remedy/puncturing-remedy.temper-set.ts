@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const puncturingRemedy = {
   id: "019e6484-5fd0-7d49-9b4a-c7e73beb3341",

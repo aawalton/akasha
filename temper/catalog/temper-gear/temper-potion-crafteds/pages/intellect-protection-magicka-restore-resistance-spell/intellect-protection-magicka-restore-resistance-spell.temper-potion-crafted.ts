@@ -1,4 +1,4 @@
-import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.types.ts"
+import type { TemperPotionCrafted } from "akasha/temper/catalog/temper-gear/temper-potion-crafteds/temper-potion-crafted.page-type.types.ts"
 
 export const intellectProtectionMagickaRestoreResistanceSpell = {
   id: "019e21f6-405f-723a-823f-388d7e848b7c",

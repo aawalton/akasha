@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
+import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/temper-world-zone.page-type.types.ts"
 
 export const betnikh = {
   id: "01a06165-cbbc-7002-96d9-b150587b97a9",

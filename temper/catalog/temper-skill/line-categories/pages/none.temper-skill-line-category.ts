@@ -1,4 +1,4 @@
-import type { TemperSkillLineCategory } from "../temper-skill-line-category.page-type.types.ts"
+import type { TemperSkillLineCategory } from "akasha/temper/catalog/temper-skill/line-categories/temper-skill-line-category.page-type.types.ts"
 
 export const none = {
   id: "019e2fc7-4af2-7cec-a53d-48e459ed514b",

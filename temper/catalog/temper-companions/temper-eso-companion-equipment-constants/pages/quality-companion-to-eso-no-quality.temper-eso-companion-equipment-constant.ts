@@ -1,4 +1,4 @@
-import type { TemperEsoCompanionEquipmentConstant } from "../temper-eso-companion-equipment-constant.page-type.types.ts"
+import type { TemperEsoCompanionEquipmentConstant } from "akasha/temper/catalog/temper-companions/temper-eso-companion-equipment-constants/temper-eso-companion-equipment-constant.page-type.types.ts"
 
 export const qualityCompanionToEsoNoQuality = {
   id: "01a05fcf-5925-7694-b77d-fd2a23a2661a",

@@ -1,4 +1,4 @@
-import type { TemperCompanionActivationBuff } from "../temper-companion-activation-buff.page-type.types.ts"
+import type { TemperCompanionActivationBuff } from "akasha/temper/catalog/temper-companions/temper-companion-activation-buffs/temper-companion-activation-buff.page-type.types.ts"
 
 export const healthRecovery = {
   id: "01a05fcd-70f5-790b-a741-75e764800248",

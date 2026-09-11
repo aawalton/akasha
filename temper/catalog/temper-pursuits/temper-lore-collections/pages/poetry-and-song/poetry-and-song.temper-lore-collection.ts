@@ -1,4 +1,4 @@
-import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.types.ts"
+import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuits/temper-lore-collections/temper-lore-collection.page-type.types.ts"
 
 export const poetryAndSong = {
   id: "01a06343-f9fa-70c1-b215-a36990c43090",

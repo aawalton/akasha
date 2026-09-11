@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
+import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-reagents/temper-reagent.page-type.types.ts"
 
 export const whiteCap = {
   id: "019e21f7-3b29-73cb-8b36-4fffb8b204f7",

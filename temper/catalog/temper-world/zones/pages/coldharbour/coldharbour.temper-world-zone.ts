@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
+import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zones/temper-world-zone.page-type.types.ts"
 
 export const coldharbour = {
   id: "01a06165-cbbc-7009-8df2-25124ca40e78",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const blackfeatherFlight = {
   id: "019e66e7-69ff-76f4-bd8f-69c54ee02c0c",

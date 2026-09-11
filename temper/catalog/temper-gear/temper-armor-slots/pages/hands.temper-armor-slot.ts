@@ -1,4 +1,4 @@
-import type { TemperArmorSlot } from "../temper-armor-slot.page-type.types.ts"
+import type { TemperArmorSlot } from "akasha/temper/catalog/temper-gear/temper-armor-slots/temper-armor-slot.page-type.types.ts"
 
 export const hands = {
   id: "01a05fd4-d96d-7959-b20d-dfda8b43bc6b",

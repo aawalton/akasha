@@ -1,4 +1,4 @@
-import type { TemperPotionDropped } from "../../temper-potion-dropped.page-type.types.ts"
+import type { TemperPotionDropped } from "akasha/temper/catalog/temper-gear/temper-potion-droppeds/temper-potion-dropped.page-type.types.ts"
 
 export const essenceOfPotentMagicka = {
   id: "019e21f5-bdbd-7ca7-89e1-21136cfa219e",

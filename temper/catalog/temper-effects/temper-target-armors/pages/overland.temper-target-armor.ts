@@ -1,4 +1,4 @@
-import type { TemperTargetArmor } from "../temper-target-armor.page-type.types.ts"
+import type { TemperTargetArmor } from "akasha/temper/catalog/temper-effects/temper-target-armors/temper-target-armor.page-type.types.ts"
 
 export const overland = {
   id: "019e21f4-76bc-710f-846a-35f7ad0e9866",

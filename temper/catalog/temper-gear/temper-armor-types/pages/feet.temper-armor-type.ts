@@ -1,4 +1,4 @@
-import type { TemperArmorType } from "../temper-armor-type.page-type.types.ts"
+import type { TemperArmorType } from "akasha/temper/catalog/temper-gear/temper-armor-types/temper-armor-type.page-type.types.ts"
 
 export const feet = {
   id: "01a05fd5-4dce-7ec8-a159-0d074dc6eec1",

@@ -1,4 +1,4 @@
-import type { TemperCompanionWeaponRole } from "../temper-companion-weapon-role.page-type.types.ts"
+import type { TemperCompanionWeaponRole } from "akasha/temper/catalog/temper-companions/temper-companion-weapon-roles/temper-companion-weapon-role.page-type.types.ts"
 
 export const noWeaponRole = {
   id: "01a05fcd-ea71-7f28-9148-440317da7854",

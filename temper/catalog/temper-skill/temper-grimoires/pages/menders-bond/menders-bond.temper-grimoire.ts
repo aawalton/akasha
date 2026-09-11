@@ -1,4 +1,4 @@
-import type { TemperGrimoire } from "../../temper-grimoire.page-type.types.ts"
+import type { TemperGrimoire } from "akasha/temper/catalog/temper-skill/temper-grimoires/temper-grimoire.page-type.types.ts"
 
 export const mendersBond = {
   id: "01a05fce-2956-7cb4-9f64-bd3a35a2f23b",

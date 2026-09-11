@@ -1,4 +1,4 @@
-import type { TemperDebuffOther } from "../../temper-debuff-other.page-type.types.ts"
+import type { TemperDebuffOther } from "akasha/temper/catalog/temper-effects/temper-debuff-others/temper-debuff-other.page-type.types.ts"
 
 export const ccImmunity = {
   id: "01a05fc6-42c6-7c8c-be55-fb5269e86d88",

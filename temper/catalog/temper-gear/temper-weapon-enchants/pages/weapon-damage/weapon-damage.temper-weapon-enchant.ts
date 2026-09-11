@@ -1,4 +1,4 @@
-import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.types.ts"
+import type { TemperWeaponEnchant } from "akasha/temper/catalog/temper-gear/temper-weapon-enchants/temper-weapon-enchant.page-type.types.ts"
 
 export const weaponDamage = {
   id: "019e5c0d-dce7-7d85-8573-0a1869cbe34c",

@@ -1,4 +1,4 @@
-import type { TemperWeaponType } from "../temper-weapon-type.page-type.types.ts"
+import type { TemperWeaponType } from "akasha/temper/catalog/temper-gear/temper-weapon-types/temper-weapon-type.page-type.types.ts"
 
 export const lightningStaff = {
   id: "019e46b6-4097-7ac7-8bc9-adecad7a9a43",

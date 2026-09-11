@@ -1,4 +1,4 @@
-import type { TemperCompanionTrait } from "../../temper-companion-trait.page-type.types.ts"
+import type { TemperCompanionTrait } from "akasha/temper/catalog/temper-companions/temper-companion-traits/temper-companion-trait.page-type.types.ts"
 
 export const bolstered = {
   id: "01a05fce-c4af-7566-b544-fc48ca193628",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const deadlandsDemolisher = {
   id: "019e668e-9a3f-75fa-a650-15098d99e7a2",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const esotericEnvironmentGreaves = {
   id: "019e6484-602b-737a-aba2-f774183c3e7f",

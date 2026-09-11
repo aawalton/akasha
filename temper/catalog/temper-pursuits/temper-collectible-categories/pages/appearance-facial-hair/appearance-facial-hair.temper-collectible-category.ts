@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
+import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pursuits/temper-collectible-categories/temper-collectible-category.page-type.types.ts"
 
 export const appearanceFacialHair = {
   id: "01a06165-9164-7005-94c6-d6b86a0e266f",

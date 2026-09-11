@@ -1,4 +1,4 @@
-import type { TemperSignatureScript } from "../temper-signature-script.page-type.types.ts"
+import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/temper-signature-scripts/temper-signature-script.page-type.types.ts"
 
 export const druidsResurgence = {
   id: "019e46b5-7e24-79c7-b519-97d697258c8a",

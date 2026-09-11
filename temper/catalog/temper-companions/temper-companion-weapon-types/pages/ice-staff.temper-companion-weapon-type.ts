@@ -1,4 +1,4 @@
-import type { TemperCompanionWeaponType } from "../temper-companion-weapon-type.page-type.types.ts"
+import type { TemperCompanionWeaponType } from "akasha/temper/catalog/temper-companions/temper-companion-weapon-types/temper-companion-weapon-type.page-type.types.ts"
 
 export const iceStaff = {
   id: "01a05fcd-ea6e-7f89-aded-b151567d06b7",

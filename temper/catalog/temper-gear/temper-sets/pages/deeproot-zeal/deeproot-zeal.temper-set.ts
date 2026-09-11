@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const deeprootZeal = {
   id: "019e66e6-a06f-7ac8-bd6e-e8e90c0b7962",

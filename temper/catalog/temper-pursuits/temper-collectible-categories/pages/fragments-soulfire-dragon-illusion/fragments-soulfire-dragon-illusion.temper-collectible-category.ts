@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.types.ts"
+import type { TemperCollectibleCategory } from "akasha/temper/catalog/temper-pursuits/temper-collectible-categories/temper-collectible-category.page-type.types.ts"
 
 export const fragmentsSoulfireDragonIllusion = {
   id: "01a06165-9168-7011-ba45-f5e70986474c",

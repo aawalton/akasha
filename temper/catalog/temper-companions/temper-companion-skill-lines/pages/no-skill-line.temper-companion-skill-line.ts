@@ -1,4 +1,4 @@
-import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.types.ts"
+import type { TemperCompanionSkillLine } from "akasha/temper/catalog/temper-companions/temper-companion-skill-lines/temper-companion-skill-line.page-type.types.ts"
 
 export const noSkillLine = {
   id: "01a05fce-c4ab-7261-9e2e-6d39604d36cb",

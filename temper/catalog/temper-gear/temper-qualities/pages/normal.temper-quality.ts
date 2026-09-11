@@ -1,4 +1,4 @@
-import type { TemperQuality } from "../temper-quality.page-type.types.ts"
+import type { TemperQuality } from "akasha/temper/catalog/temper-gear/temper-qualities/temper-quality.page-type.types.ts"
 
 export const normal = {
   id: "019e2fc4-de11-7612-823a-5adf6684ab21",

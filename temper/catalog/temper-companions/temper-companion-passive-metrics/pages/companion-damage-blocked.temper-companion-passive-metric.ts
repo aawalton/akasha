@@ -1,4 +1,4 @@
-import type { TemperCompanionPassiveMetric } from "../temper-companion-passive-metric.page-type.types.ts"
+import type { TemperCompanionPassiveMetric } from "akasha/temper/catalog/temper-companions/temper-companion-passive-metrics/temper-companion-passive-metric.page-type.types.ts"
 
 export const companionDamageBlocked = {
   id: "01a05fcd-70f8-7acf-8901-5f273fd08cb9",

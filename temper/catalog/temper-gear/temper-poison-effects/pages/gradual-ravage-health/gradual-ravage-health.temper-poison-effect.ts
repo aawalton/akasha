@@ -1,4 +1,4 @@
-import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.types.ts"
+import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/temper-poison-effects/temper-poison-effect.page-type.types.ts"
 
 export const gradualRavageHealth = {
   id: "019e21f7-0f7a-7bb5-9a91-de88e791f918",

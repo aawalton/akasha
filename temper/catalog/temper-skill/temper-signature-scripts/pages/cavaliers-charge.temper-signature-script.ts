@@ -1,4 +1,4 @@
-import type { TemperSignatureScript } from "../temper-signature-script.page-type.types.ts"
+import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/temper-signature-scripts/temper-signature-script.page-type.types.ts"
 
 export const cavaliersCharge = {
   id: "019e46b5-7e2c-7b84-bfcc-0e3fa9d2091c",

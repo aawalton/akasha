@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const spatteringDisjunction = {
   id: "019e6484-5fe8-79a4-818e-81e9de3dfca4",

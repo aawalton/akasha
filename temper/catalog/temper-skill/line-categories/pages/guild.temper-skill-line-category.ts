@@ -1,4 +1,4 @@
-import type { TemperSkillLineCategory } from "../temper-skill-line-category.page-type.types.ts"
+import type { TemperSkillLineCategory } from "akasha/temper/catalog/temper-skill/line-categories/temper-skill-line-category.page-type.types.ts"
 
 export const guild = {
   id: "019e2fc7-4af7-7acd-91ae-83659a95462e",

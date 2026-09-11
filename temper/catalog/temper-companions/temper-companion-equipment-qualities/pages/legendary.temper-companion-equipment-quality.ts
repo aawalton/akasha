@@ -1,4 +1,4 @@
-import type { TemperCompanionEquipmentQuality } from "../temper-companion-equipment-quality.page-type.types.ts"
+import type { TemperCompanionEquipmentQuality } from "akasha/temper/catalog/temper-companions/temper-companion-equipment-qualities/temper-companion-equipment-quality.page-type.types.ts"
 
 export const legendary = {
   id: "01a05fcd-ea6b-7f78-909e-9730f0168629",

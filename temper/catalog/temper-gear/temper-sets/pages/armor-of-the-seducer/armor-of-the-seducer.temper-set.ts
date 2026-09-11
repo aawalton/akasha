@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const armorOfTheSeducer = {
   id: "019e668e-9a35-7ce6-b0bf-86ac1bdafcf9",

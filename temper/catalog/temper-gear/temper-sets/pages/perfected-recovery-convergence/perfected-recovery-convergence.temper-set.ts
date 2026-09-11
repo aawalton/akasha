@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const perfectedRecoveryConvergence = {
   id: "019e66e7-6a1a-757c-bd74-e7564e1c3d8f",

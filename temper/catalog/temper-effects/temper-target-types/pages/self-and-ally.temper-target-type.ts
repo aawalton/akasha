@@ -1,4 +1,4 @@
-import type { TemperTargetType } from "../temper-target-type.page-type.types.ts"
+import type { TemperTargetType } from "akasha/temper/catalog/temper-effects/temper-target-types/temper-target-type.page-type.types.ts"
 
 export const selfAndAlly = {
   id: "019e5d5a-d869-7348-b035-db22692827cc",

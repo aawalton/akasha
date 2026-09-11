@@ -1,4 +1,4 @@
-import type { TemperCompanionEquipmentQuality } from "../temper-companion-equipment-quality.page-type.types.ts"
+import type { TemperCompanionEquipmentQuality } from "akasha/temper/catalog/temper-companions/temper-companion-equipment-qualities/temper-companion-equipment-quality.page-type.types.ts"
 
 export const noQuality = {
   id: "01a05fcd-ea6b-79a3-97c7-3589bcd355dc",

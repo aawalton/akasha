@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
+import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skills/temper-skill.page-type.types.ts"
 
 export const shadowImage35441 = {
   id: "019e6f53-a6db-7f7f-ad6c-66ad4078b6ba",

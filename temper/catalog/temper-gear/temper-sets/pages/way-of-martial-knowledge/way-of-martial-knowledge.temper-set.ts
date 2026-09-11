@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const wayOfMartialKnowledge = {
   id: "019e66e7-6ab0-716b-854f-31799b8d75be",

@@ -1,4 +1,4 @@
-import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.types.ts"
+import type { TemperJewelryEnchant } from "akasha/temper/catalog/temper-gear/temper-jewelry-enchants/temper-jewelry-enchant.page-type.types.ts"
 
 export const magickaRecovery = {
   id: "019e5c85-d944-7808-a7cb-6ef7ac7b95ee",

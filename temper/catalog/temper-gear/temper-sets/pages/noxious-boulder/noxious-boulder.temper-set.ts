@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const noxiousBoulder = {
   id: "019e66e7-6a14-728d-ae1e-cf31fb6aa995",

@@ -1,4 +1,4 @@
-import type { TemperCompanionTrait } from "../../temper-companion-trait.page-type.types.ts"
+import type { TemperCompanionTrait } from "akasha/temper/catalog/temper-companions/temper-companion-traits/temper-companion-trait.page-type.types.ts"
 
 export const quickened = {
   id: "01a05fce-c4b0-72a1-9c7b-e63389b0f298",

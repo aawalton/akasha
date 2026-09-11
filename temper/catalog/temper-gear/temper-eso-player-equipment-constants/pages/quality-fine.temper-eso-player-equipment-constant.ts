@@ -1,4 +1,4 @@
-import type { TemperEsoPlayerEquipmentConstant } from "../temper-eso-player-equipment-constant.page-type.types.ts"
+import type { TemperEsoPlayerEquipmentConstant } from "akasha/temper/catalog/temper-gear/temper-eso-player-equipment-constants/temper-eso-player-equipment-constant.page-type.types.ts"
 
 export const qualityFine = {
   id: "01a05fd7-41c0-7cd3-b86d-3b56526883a7",

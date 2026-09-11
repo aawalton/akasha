@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const mightOfTheLostLegion = {
   id: "019e668e-9a52-7d49-8c93-aa8005b594f5",

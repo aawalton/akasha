@@ -1,4 +1,4 @@
-import type { TemperSignatureScript } from "../temper-signature-script.page-type.types.ts"
+import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/temper-signature-scripts/temper-signature-script.page-type.types.ts"
 
 export const wayfarersMastery = {
   id: "019e46b5-7e2b-723d-b70a-2d2ffe80f007",

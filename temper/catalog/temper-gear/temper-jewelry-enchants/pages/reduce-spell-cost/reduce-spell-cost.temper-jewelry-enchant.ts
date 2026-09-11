@@ -1,4 +1,4 @@
-import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.types.ts"
+import type { TemperJewelryEnchant } from "akasha/temper/catalog/temper-gear/temper-jewelry-enchants/temper-jewelry-enchant.page-type.types.ts"
 
 export const reduceSpellCost = {
   id: "019e5c85-d94d-77bd-b10c-f85cf52b46e4",

@@ -1,4 +1,4 @@
-import type { TemperCompanionRole } from "../temper-companion-role.page-type.types.ts"
+import type { TemperCompanionRole } from "akasha/temper/catalog/temper-companions/temper-companion-roles/temper-companion-role.page-type.types.ts"
 
 export const support = {
   id: "01a05fcd-7100-74e2-9fa7-dcaa5ff58328",

@@ -1,4 +1,4 @@
-import type { TemperWeaponTrait } from "../../temper-weapon-trait.page-type.types.ts"
+import type { TemperWeaponTrait } from "akasha/temper/catalog/temper-gear/temper-weapon-traits/temper-weapon-trait.page-type.types.ts"
 
 export const precise = {
   id: "019e5b8b-e54b-75fa-afc2-cfdd5f966f52",

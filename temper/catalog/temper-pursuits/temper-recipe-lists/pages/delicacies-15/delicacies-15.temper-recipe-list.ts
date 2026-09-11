@@ -1,4 +1,4 @@
-import type { TemperRecipeList } from "../../temper-recipe-list.page-type.types.ts"
+import type { TemperRecipeList } from "akasha/temper/catalog/temper-pursuits/temper-recipe-lists/temper-recipe-list.page-type.types.ts"
 
 export const delicacies15 = {
   id: "01a0626e-c111-7bd8-a6bf-9b1ad319e9de",

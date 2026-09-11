@@ -1,4 +1,4 @@
-import type { TemperCompanionActivationBuff } from "../temper-companion-activation-buff.page-type.types.ts"
+import type { TemperCompanionActivationBuff } from "akasha/temper/catalog/temper-companions/temper-companion-activation-buffs/temper-companion-activation-buff.page-type.types.ts"
 
 export const nextAttackDamage = {
   id: "01a05fcd-70f6-7b7d-9b04-2d05feb83d24",

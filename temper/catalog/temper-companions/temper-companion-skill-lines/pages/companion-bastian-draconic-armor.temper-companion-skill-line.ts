@@ -1,4 +1,4 @@
-import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.types.ts"
+import type { TemperCompanionSkillLine } from "akasha/temper/catalog/temper-companions/temper-companion-skill-lines/temper-companion-skill-line.page-type.types.ts"
 
 export const companionBastianDraconicArmor = {
   id: "01a05fce-c49f-7961-bdfe-4e9181c99a7e",

@@ -1,4 +1,4 @@
-import type { TemperSignatureScript } from "../temper-signature-script.page-type.types.ts"
+import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/temper-signature-scripts/temper-signature-script.page-type.types.ts"
 
 export const fencersParry = {
   id: "019e46b5-7e28-71b8-83e4-23361a64a4ed",

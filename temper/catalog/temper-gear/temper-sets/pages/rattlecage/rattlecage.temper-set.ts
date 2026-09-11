@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const rattlecage = {
   id: "019e66e6-a0b4-71f8-9be4-c9dc54f1dbb0",

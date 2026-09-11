@@ -1,4 +1,4 @@
-import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.types.ts"
+import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/temper-catalog-domains/temper-catalog-domain.page-type.types.ts"
 
 export const currency = {
   id: "01a05fc5-742f-7eb0-99ba-8009bd41be0d",

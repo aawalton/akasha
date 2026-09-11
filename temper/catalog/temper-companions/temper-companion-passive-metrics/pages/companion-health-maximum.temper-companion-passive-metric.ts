@@ -1,4 +1,4 @@
-import type { TemperCompanionPassiveMetric } from "../temper-companion-passive-metric.page-type.types.ts"
+import type { TemperCompanionPassiveMetric } from "akasha/temper/catalog/temper-companions/temper-companion-passive-metrics/temper-companion-passive-metric.page-type.types.ts"
 
 export const companionHealthMaximum = {
   id: "01a05fcd-70fa-7fe1-9181-94f03471b82e",

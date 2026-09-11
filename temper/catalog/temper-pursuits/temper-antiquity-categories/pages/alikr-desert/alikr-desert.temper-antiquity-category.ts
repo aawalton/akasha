@@ -1,4 +1,4 @@
-import type { TemperAntiquityCategory } from "../../temper-antiquity-category.page-type.types.ts"
+import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursuits/temper-antiquity-categories/temper-antiquity-category.page-type.types.ts"
 
 export const alikrDesert = {
   id: "01a06166-503c-7004-855a-5c19f6ad058a",

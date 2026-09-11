@@ -1,4 +1,4 @@
-import type { TemperSpecialEffectType } from "../temper-special-effect-type.page-type.types.ts"
+import type { TemperSpecialEffectType } from "akasha/temper/catalog/temper-effects/temper-special-effect-types/temper-special-effect-type.page-type.types.ts"
 
 export const reflectAll = {
   id: "019e4ccf-ce31-7432-b75d-ed250e1d32dc",

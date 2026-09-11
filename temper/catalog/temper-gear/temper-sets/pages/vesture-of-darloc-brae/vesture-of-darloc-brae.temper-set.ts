@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const vestureOfDarlocBrae = {
   id: "019e66e7-6aa7-7456-ba1d-33633a5e6ac4",

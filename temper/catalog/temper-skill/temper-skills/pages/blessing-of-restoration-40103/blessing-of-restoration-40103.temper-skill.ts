@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
+import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skills/temper-skill.page-type.types.ts"
 
 export const blessingOfRestoration40103 = {
   id: "019e6f53-9f34-7783-aa83-875afb137b5e",

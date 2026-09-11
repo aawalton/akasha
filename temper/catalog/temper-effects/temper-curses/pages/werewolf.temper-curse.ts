@@ -1,4 +1,4 @@
-import type { TemperCurse } from "../temper-curse.page-type.types.ts"
+import type { TemperCurse } from "akasha/temper/catalog/temper-effects/temper-curses/temper-curse.page-type.types.ts"
 
 export const werewolf = {
   id: "01a05fc5-c92d-7adc-ad4b-ae6284705bc9",

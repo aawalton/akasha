@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const spriggansVigor = {
   id: "019e66e6-a0c8-7b48-ae42-aaba60d95bd4",

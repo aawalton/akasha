@@ -1,4 +1,4 @@
-import type { TemperBuffMinor } from "../../temper-buff-minor.page-type.types.ts"
+import type { TemperBuffMinor } from "akasha/temper/catalog/temper-effects/temper-buff-minors/temper-buff-minor.page-type.types.ts"
 
 export const minorExpedition = {
   id: "01a05fc5-f6be-74c0-90cd-6a2d176d53b2",

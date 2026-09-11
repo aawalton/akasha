@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
+import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-motif-styles/temper-motif-style.page-type.types.ts"
 
 export const icereachCoven = {
   id: "019e5a46-c444-73b2-941c-a90eec758e43",

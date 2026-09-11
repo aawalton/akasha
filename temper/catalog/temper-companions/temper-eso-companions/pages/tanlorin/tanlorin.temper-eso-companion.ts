@@ -1,4 +1,4 @@
-import type { TemperEsoCompanion } from "../../temper-eso-companion.page-type.types.ts"
+import type { TemperEsoCompanion } from "akasha/temper/catalog/temper-companions/temper-eso-companions/temper-eso-companion.page-type.types.ts"
 
 export const tanlorin = {
   id: "01a05fcf-5920-7f59-aa2c-473354605a90",

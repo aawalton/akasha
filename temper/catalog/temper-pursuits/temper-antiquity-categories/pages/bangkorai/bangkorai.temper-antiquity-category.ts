@@ -1,4 +1,4 @@
-import type { TemperAntiquityCategory } from "../../temper-antiquity-category.page-type.types.ts"
+import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursuits/temper-antiquity-categories/temper-antiquity-category.page-type.types.ts"
 
 export const bangkorai = {
   id: "01a06166-503c-7005-a029-7b33020991d1",

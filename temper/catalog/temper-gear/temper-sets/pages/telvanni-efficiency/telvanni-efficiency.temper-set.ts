@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.types.ts"
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/temper-set.page-type.types.ts"
 
 export const telvanniEfficiency = {
   id: "019e668e-9a6a-7a60-bde8-a7289b9c8473",
