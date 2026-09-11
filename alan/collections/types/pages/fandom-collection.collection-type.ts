@@ -2,7 +2,6 @@ import type { CollectionType } from "akasha/alan/collections/types/collection-ty
 
 export const fandomCollection = {
   id: "01a06579-855d-7006-89d8-d47ae525e6ef",
-  pageTypeSlug: "collection-type",
   type: "collection-type",
   slug: "fandom-collection",
   title: "Fandom Collection",

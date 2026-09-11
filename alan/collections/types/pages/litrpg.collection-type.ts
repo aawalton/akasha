@@ -2,7 +2,6 @@ import type { CollectionType } from "akasha/alan/collections/types/collection-ty
 
 export const litrpg = {
   id: "01a06579-855d-700d-b78c-db789b3c2d70",
-  pageTypeSlug: "collection-type",
   type: "collection-type",
   slug: "litrpg",
   title: "LitRPG",

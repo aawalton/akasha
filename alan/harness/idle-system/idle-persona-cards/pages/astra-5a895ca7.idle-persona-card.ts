@@ -2,7 +2,6 @@ import type { IdlePersonaCard } from "akasha/alan/harness/idle-system/idle-perso
 
 export const astra5a895ca7 = {
   id: "01a0659f-c5b4-7004-9ee5-67d359ccdf58",
-  pageTypeSlug: "idle-persona-card",
   type: "idle-persona-card",
   slug: "astra-5a895ca7",
   title: "Astra",

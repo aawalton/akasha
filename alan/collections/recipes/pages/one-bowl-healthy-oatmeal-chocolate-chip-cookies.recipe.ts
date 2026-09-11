@@ -2,7 +2,6 @@ import type { Recipe } from "akasha/alan/collections/recipes/recipe.page-type.ty
 
 export const oneBowlHealthyOatmealChocolateChipCookies = {
   id: "01a06808-d4f7-7003-a072-c9fa09f970c4",
-  pageTypeSlug: "recipe",
   type: "recipe",
   slug: "one-bowl-healthy-oatmeal-chocolate-chip-cookies",
   title: "One-Bowl Healthy Oatmeal Chocolate Chip Cookies",

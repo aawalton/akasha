@@ -2,7 +2,6 @@ import type { CollectionType } from "akasha/alan/collections/types/collection-ty
 
 export const season = {
   id: "01a06579-855d-7018-95ee-be93ba336738",
-  pageTypeSlug: "collection-type",
   type: "collection-type",
   slug: "season",
   title: "Season",

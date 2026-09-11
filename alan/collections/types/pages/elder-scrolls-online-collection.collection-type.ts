@@ -2,7 +2,6 @@ import type { CollectionType } from "akasha/alan/collections/types/collection-ty
 
 export const elderScrollsOnlineCollection = {
   id: "01a06579-855d-7005-bca6-bb824f7e45bb",
-  pageTypeSlug: "collection-type",
   type: "collection-type",
   slug: "elder-scrolls-online-collection",
   title: "Elder Scrolls Online Collection",

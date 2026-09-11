@@ -2,7 +2,6 @@ import type { CollectionType } from "akasha/alan/collections/types/collection-ty
 
 export const restaurants = {
   id: "01a06579-855d-7015-8fbe-5f32399190bf",
-  pageTypeSlug: "collection-type",
   type: "collection-type",
   slug: "restaurants",
   title: "Restaurants",

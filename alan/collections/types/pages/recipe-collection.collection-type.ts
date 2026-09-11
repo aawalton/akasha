@@ -2,7 +2,6 @@ import type { CollectionType } from "akasha/alan/collections/types/collection-ty
 
 export const recipeCollection = {
   id: "01a06579-855d-700f-ae15-ab94a81f8ad7",
-  pageTypeSlug: "collection-type",
   type: "collection-type",
   slug: "recipe-collection",
   title: "Recipe Collection",

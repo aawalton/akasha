@@ -2,7 +2,6 @@ import type { CollectionType } from "akasha/alan/collections/types/collection-ty
 
 export const movie = {
   id: "01a06579-855d-700e-9aa9-9c4a0d2b2c36",
-  pageTypeSlug: "collection-type",
   type: "collection-type",
   slug: "movie",
   title: "Movie",
