@@ -6,10 +6,5 @@ export const mobile = {
   type: "namespace",
   slug: "mobile",
   definition: "the iOS apps Alan runs and what puts a build in front of him",
-  parts: [
-    "namespace/mobile-cut",
-    "command/mobile-deploy-device",
-    "namespace/mobile-sim",
-    "command/mobile-testflight-status",
-  ],
+  parts: ["namespace/mobile-cut", "namespace/mobile-sim", "command/mobile-testflight-status"],
 } as const satisfies Namespace

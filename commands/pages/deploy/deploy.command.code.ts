@@ -6,6 +6,7 @@ import {
 import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
 import { refused } from "../../modules/calling/calling.module.code.ts"
 import { allowedThrough } from "../../modules/stopping/command-stopping.module.code.ts"
+import { installedOnDevice } from "./deploy-device-installing/deploy-device-installing.module.code.ts"
 import { pushedImage } from "./deploy-image-pushing/deploy-image-pushing.module.code.ts"
 import { shipIosApp } from "./deploy-ios-shipping/deploy-ios-shipping.module.code.ts"
 import {
@@ -26,7 +27,8 @@ const NO_UPLOAD = "--no-upload"
 const MEASURED = "--measured"
 const REF = "--ref"
 const SIMULATOR = "--simulator"
-const FLAGS = [DRY_RUN, NO_UPLOAD, MEASURED, SIMULATOR]
+const DEVICE = "--device"
+const FLAGS = [DRY_RUN, NO_UPLOAD, MEASURED, SIMULATOR, DEVICE]
 const NAMED: Readonly<Record<string, string>> = {
   [CLUSTER_SERVICE]: "a cluster service",
   [WORKSTATION_SERVICE]: "a workstation service",
@@ -96,13 +98,21 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
   const read = kindNamed(given.root, slug)
   if ("refused" in read) return refused(read.refused, DATA)
   if (read.kind === IOS_APP) {
-    if (rest.includes(SIMULATOR)) {
-      if (rest.includes(NO_UPLOAD) || ref !== null) {
+    const onto = rest.find((one) => one === SIMULATOR || one === DEVICE)
+    if (onto !== undefined) {
+      if (rest.includes(SIMULATOR) && rest.includes(DEVICE)) {
         return refused(
-          `\`${SIMULATOR}\` installs on the mac's simulator rather than handing a build to Apple, so \`${NO_UPLOAD}\` and \`${REF}\` say nothing about it`,
+          `\`${SIMULATOR}\` and \`${DEVICE}\` name two places to install to, so which is meant is unsettled`,
           INPUT
         )
       }
+      if (rest.includes(NO_UPLOAD) || ref !== null) {
+        return refused(
+          `\`${onto}\` installs the build rather than handing it to Apple, so \`${NO_UPLOAD}\` and \`${REF}\` say nothing about it`,
+          INPUT
+        )
+      }
+      if (onto === DEVICE) return await installedOnDevice(slug)
       return installedOnSimulator(slug, given)
     }
     if (rest.includes(DRY_RUN)) {
@@ -114,9 +124,10 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
     return shipIosApp(slug, read.pagePath, rest.includes(NO_UPLOAD), ref)
   }
   const what = NAMED[read.kind] as string
-  if (rest.includes(SIMULATOR)) {
+  const elsewhere = rest.find((one) => one === SIMULATOR || one === DEVICE)
+  if (elsewhere !== undefined) {
     return refused(
-      `\`${slug}\` names ${what}, which no simulator runs, so \`${SIMULATOR}\` says nothing about it`,
+      `\`${slug}\` names ${what}, which is put up rather than installed on a phone, so \`${elsewhere}\` says nothing about it`,
       INPUT
     )
   }

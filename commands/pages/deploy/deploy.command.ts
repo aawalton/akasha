@@ -17,6 +17,7 @@ export const deploy = {
     "module/deploy-web-putting-up",
     "module/deploy-image-pushing",
     "module/deploy-simulator-installing",
+    "module/deploy-device-installing",
   ],
   taking: [
     {
@@ -33,6 +34,10 @@ export const deploy = {
     {
       said: "--simulator",
       takes: "install an ios app on a simulator rather than hand it to Apple",
+    },
+    {
+      said: "--device",
+      takes: "install an ios app on the phone its page names rather than hand it to Apple",
     },
   ],
   helpNotes: [
@@ -67,6 +72,8 @@ export const deploy = {
     "a container recipe naming a repository is built and pushed here, which is how an image no cluster service names reaches the registry.",
     "`--simulator` builds an ios app on the mac from this checkout's tree and installs it on a simulator there, and the site the app serves is staged first.",
     "`--simulator` belongs to an ios app, and a call naming it on another kind is refused rather than ignored.",
+    "`--device` builds an ios app on the mac from `origin/main` and installs it to the phone the app's page names, and an app naming no phone is refused rather than guessed at.",
+    "`--device` is the path onto the phone plugged into the mac, and TestFlight is the path onto every other phone.",
   ],
   invariants: [
     {
@@ -140,6 +147,14 @@ export const deploy = {
       invariantKind: "departure",
       statement:
         "An ios app told to go on a simulator is installed there rather than handed to Apple.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An ios app told to go on a phone is installed there rather than handed to Apple.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming both places to install to is refused rather than chosen between.",
     },
   ],
 } as const satisfies Command
