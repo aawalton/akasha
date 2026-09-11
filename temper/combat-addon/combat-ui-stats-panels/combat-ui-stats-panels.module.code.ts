@@ -32,6 +32,7 @@ import {
   getUiSelectionData,
   type UpdatableControl,
 } from "akasha/temper/combat-addon/combat-ui-state/combat-ui-state.module.code.ts"
+import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 
 export const POWER_TYPE_LABELS: Record<number, string> = {
   [COMBAT_MECHANIC_FLAGS_MAGICKA]: "_MAGICKA",
@@ -91,7 +92,7 @@ export const DPS_STRINGS: Record<DamageCategory, "DPSOut" | "DPSIn" | "HPSOut" |
 }
 
 export function optionalNumberValue(this: void, value: unknown): number | undefined {
-  return typeof value === "number" ? value : undefined
+  return parseNumber(value)
 }
 
 export const COUNT_STRINGS: Record<DamageCategory, string> = {

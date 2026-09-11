@@ -1,4 +1,5 @@
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
+import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 import { asControl, asLamFactory } from "../addon-menu-casts/addon-menu-casts.module.code.ts"
 import { WIDGET_VERSION } from "../addon-menu-constants/addon-menu-constants.module.code.ts"
 import { LAMCC, lam, registerWidget, wm } from "../addon-menu-state/addon-menu-state.module.code.ts"
@@ -23,17 +24,13 @@ interface ColorTable {
   a?: number
 }
 
-function toNumber(this: void, value: unknown): number | undefined {
-  return typeof value === "number" ? value : undefined
-}
-
 function readColorTable(this: void, value: unknown): ColorTable {
   if (isObjectRecord(value)) {
     return {
-      r: toNumber(value.r) ?? 0,
-      g: toNumber(value.g) ?? 0,
-      b: toNumber(value.b) ?? 0,
-      a: toNumber(value.a),
+      r: parseNumber(value.r) ?? 0,
+      g: parseNumber(value.g) ?? 0,
+      b: parseNumber(value.b) ?? 0,
+      a: parseNumber(value.a),
     }
   }
   return { r: 0, g: 0, b: 0, a: undefined }
@@ -67,10 +64,10 @@ function makeUpdateValue(this: void, colorpickerData: ColorpickerData): UpdateVa
     rawB?: unknown,
     rawA?: unknown
   ): undefined {
-    let valueR = toNumber(rawR)
-    let valueG = toNumber(rawG)
-    let valueB = toNumber(rawB)
-    let valueA = toNumber(rawA)
+    let valueR = parseNumber(rawR)
+    let valueG = parseNumber(rawG)
+    let valueB = parseNumber(rawB)
+    let valueA = parseNumber(rawA)
     if (forceDefault) {
       const color = readColorTable(getDefaultValue(colorpickerData.default))
       valueR = color.r

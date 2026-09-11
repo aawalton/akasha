@@ -41,6 +41,7 @@ export const utilsNarrow = {
     "module/narrow-error",
     "module/no-op",
     "module/paced-queue",
+    "module/parse-number",
     "module/parse-string",
     "module/parse-timestamp",
     "module/record-field",
