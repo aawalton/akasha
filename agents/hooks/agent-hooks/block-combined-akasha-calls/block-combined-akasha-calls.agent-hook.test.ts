@@ -158,6 +158,30 @@ test("a read behind a prefix that runs it is refused", () => {
   expect(refusalIn("timeout 900 akasha read --file-path a.ts")).toContain(NAMES)
 })
 
+test("a read behind an assignment is let through", () => {
+  expect(refusalIn("AKASHA_CPU_PROFILE_DIR=/tmp/prof akasha read --file-path a.ts")).toBe(null)
+})
+
+test("an apply behind two assignments is let through", () => {
+  expect(refusalIn("A=1 B=2 akasha change apply <<'HEREDOC'\nmessage: x\nHEREDOC")).toBe(null)
+})
+
+test("a read behind an assignment holding a quoted value is let through", () => {
+  expect(refusalIn("D='one two' akasha read")).toBe(null)
+})
+
+test("a read behind an assignment holding a substitution is refused", () => {
+  expect(refusalIn("D=$(pwd) akasha read --file-path a.ts")).toContain(NAMES)
+})
+
+test("a chain behind an assignment is refused", () => {
+  expect(refusalIn("A=1 akasha change drop && rm -rf x")).toContain(NAMES)
+})
+
+test("an assignment after the command is refused", () => {
+  expect(refusalIn("akasha read A=1")).toContain(NAMES)
+})
+
 test("a read carrying a flag it does not take is refused", () => {
   expect(refusalIn("akasha read --bogus a.ts")).toContain(NAMES)
 })

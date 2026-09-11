@@ -19,6 +19,8 @@ const QUOTED = "'[^']*'"
 
 const PATH = "(?:" + WORD + "|" + QUOTED + ")"
 
+const ASSIGNED = new RegExp("^(?:[A-Za-z_][A-Za-z0-9_]*=" + PATH + "? +)+")
+
 const FENCE = "HEREDOC"
 
 const READ = new RegExp("^akasha read( --full| --file-path " + PATH + ")*$")
@@ -53,6 +55,10 @@ const REFUSED = [
   "with less in it, so `akasha change apply` and `akasha change list` are approved on their own.",
   "`akasha change` names the commands it carries.",
   "",
+  "A run of `NAME=value` before either form is let through, because the shell sets those names",
+  "rather than running anything: `AKASHA_CPU_PROFILE_DIR=/tmp/prof akasha change apply`. A value",
+  "there is a bare word or a run in single quotes, as a path a read names is.",
+  "",
   "The shell's delimiter is always `HEREDOC`, so there is nothing to pick there.",
   "",
   "That word occurs as a line once, at the end. A body carrying that line of its own is refused,",
@@ -85,7 +91,8 @@ export const SCOPE: readonly string[] = [
   "  a chain, a pipeline, a redirect either way, a call sent to the background",
   "  a `for`, a `while`, an `if`, a function body, a subshell, a brace group",
   "  a substitution, in backticks or in `$( )`",
-  "  a prefix such as `env`, `timeout` or `sudo` before one of them",
+  "  a prefix such as `env`, `timeout` or `sudo` before one of them, each of which runs it",
+  "  an assignment whose value the shell would rewrite, such as `D=$(pwd)`, before one of them",
   "  a `cd` before one of them, which none needs, all reaching the repository the same way",
   "    from any working directory",
   "  one of the names inside a quoted run, where the command opens with another word",
@@ -104,6 +111,7 @@ export const SCOPE: readonly string[] = [
   "or taken away.",
   "",
   "NOT REACHED:",
+  "  a run of `NAME=value` before one of them, which the shell sets rather than runs",
   "  `akasha` reached by a name that is not `akasha`, which the trigger never finds",
   "  every akasha command but these two",
   "  a call another program builds and runs, which reaches no hook as text",
@@ -129,8 +137,12 @@ function closedIn(lines: readonly string[], opened: boolean): boolean {
   return closings === 1 && lines[lines.length - 1] === FENCE
 }
 
+function pastAssignments(command: string): string {
+  return command.trim().replace(ASSIGNED, "")
+}
+
 export function approvedForm(command: string): boolean {
-  const text = command.trim()
+  const text = pastAssignments(command)
   if (READ.test(text)) return true
   const lines = text.split("\n")
   const opened = parseChangeOpening(lines[0] ?? "")
@@ -138,7 +150,7 @@ export function approvedForm(command: string): boolean {
 }
 
 export function triggered(command: string): boolean {
-  const text = command.trim()
+  const text = pastAssignments(command)
   const looked = OPENS_AKASHA.test(text) ? text.replace(SAFE_QUOTED, "") : text
   return NAMED.test(looked)
 }

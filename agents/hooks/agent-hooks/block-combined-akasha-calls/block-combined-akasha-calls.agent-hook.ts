@@ -83,6 +83,18 @@ export const blockCombinedAkashaCalls = {
     },
     {
       invariantKind: "departure",
+      statement: "A run of name-and-value assignments before an approved call is let through.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value such an assignment carries is a bare word or a run in single quotes.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "An assignment the shell sets runs nothing of its own.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Text naming a command inside a quoted run is refused where the command opens with another word.",
     },
