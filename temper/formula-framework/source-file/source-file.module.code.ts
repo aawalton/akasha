@@ -1,5 +1,5 @@
-import type { Effect } from "../effect/effect.module.code.ts"
-import type { SourceCategoryId } from "../source-category/source-category.module.code.ts"
+import type { Effect } from "akasha/temper/formula-framework/effect/effect.module.code.ts"
+import type { SourceCategoryId } from "akasha/temper/formula-framework/source-category/source-category.module.code.ts"
 
 export const createSourceFile = <Template extends { name: string }>() => {
   return <

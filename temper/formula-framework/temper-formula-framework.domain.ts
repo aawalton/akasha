@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const temperFormulaFramework = {
   id: "01a06070-82da-7f4b-92e5-5796473bfa9d",

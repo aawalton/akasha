@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const buffsMajor = {
   id: "01a06070-82dd-7750-8435-66454adf6a43",

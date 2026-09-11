@@ -1,5 +1,5 @@
+import type { DisplayFormulaNode } from "akasha/temper/formula-framework/display-formula-node/display-formula-node.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
-import type { DisplayFormulaNode } from "../display-formula-node/display-formula-node.module.code.ts"
 
 export interface DisplayResult {
   node: DisplayFormulaNode
