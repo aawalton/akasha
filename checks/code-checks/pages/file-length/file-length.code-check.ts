@@ -16,6 +16,14 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
+      statement: "A file the audit listed and cannot measure refuses the run.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No length is answered for a file the check could not measure.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An entry file is held to the widest byte ceiling of any file.",
     },
     {

@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { rmSync } from "node:fs"
+import { join } from "node:path"
 import { fileLength } from "akasha/checks/code-checks/pages/file-length/file-length.code-check.audit.code.ts"
 import { CEILING } from "akasha/checks/code-checks/pages/file-length/file-length.code-check.decision.code.ts"
 import {
@@ -35,4 +37,12 @@ test("an audit holds a file of that name in another folder to the ceiling", () =
   const root = letOff()
   writing(root, ELSEWHERE, OVER)
   expect(fileLength(treed(root)).map((one) => one.path)).toEqual([ELSEWHERE])
+})
+
+test("an audit refuses the run where a file it listed left the tree before it was measured", () => {
+  const root = letOff()
+  writing(root, STRAY, OVER)
+  treed(root)
+  rmSync(join(root, STRAY))
+  expect(() => fileLength(root)).toThrow(STRAY)
 })

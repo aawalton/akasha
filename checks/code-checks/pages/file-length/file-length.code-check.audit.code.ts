@@ -8,11 +8,10 @@ import { everythingIn } from "akasha/checks/modules/change-walking/change-walkin
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 
-const NOTHING = 0
-
 function sizeAt(root: string, path: string): number {
   const held = lstatSync(join(root, path), { throwIfNoEntry: false })
-  return held === undefined ? NOTHING : held.size
+  if (held === undefined) throw new Error(`${path} was listed in this tree and is not there`)
+  return held.size
 }
 
 export function fileLength(root: string): readonly Judged[] {
