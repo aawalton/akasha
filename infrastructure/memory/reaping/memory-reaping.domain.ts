@@ -37,10 +37,6 @@ export const memoryReaping = {
     },
     {
       invariantKind: "gap",
-      statement: "Which tree is taken first is settled before the host runs short.",
-    },
-    {
-      invariantKind: "gap",
       statement: "A host short of memory is known from how long its programs stall.",
     },
   ],
