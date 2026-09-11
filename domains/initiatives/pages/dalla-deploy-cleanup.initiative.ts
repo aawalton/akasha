@@ -16,7 +16,7 @@ export const dallaDeployCleanup = {
     {
       statement: "No competing akasha build or deploy command exists.",
       workingMemory:
-        "`infrastructure-workload-apply`, `infrastructure service install` and the three shell scripts running buildctl by hand are all deleted. A container recipe now names the repository its image is pushed to, `akasha deploy <recipe-slug>` builds and pushes it, and eso-rig, voice-infer and upscale-cu121 each went up that way. Left for a phone: `akasha ios-app build`, onto a simulator, and `akasha mobile deploy device`, onto a plugged-in phone off `origin/main` rather than off this checkout.",
+        "`infrastructure-workload-apply`, `infrastructure service install`, the three buildctl shell scripts, `akasha ios-app build` and `akasha mobile deploy device` are all deleted. `akasha deploy <slug>` builds and pushes a container recipe's image, ships an ios app to TestFlight, installs one on a simulator under `--simulator` and onto the plugged-in phone under `--device`. Left: whether `akasha inference-apply`, the talos commands and the temper addon commands are rivals, which is Alan's to settle.",
     },
   ],
   constraints: [
