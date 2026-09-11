@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "no-rule-in-two-files is 815 over 403 distinct names, a long tail rather than one fault: 618 code, 161 test, 36 fixtures, and temper alone 251. loader is 25, six web apps copying route handlers. check-reaches-a-path-through-the-index is 97, recorded as zero before and never measured, and the two files read want fictional fixture paths rather than index reads. folder-matches-a-shape fell 48 to 34 on one mended shape, and 24 of the rest are two causes.",
+        "no-rule-in-two-files is 815 over 403 distinct names, a long tail rather than one fault: 618 code, 161 test, 36 fixtures, and temper alone 251. loader is 25, six web apps copying route handlers. check-reaches-a-path-through-the-index is 97, recorded as zero before and never measured, and the two files read want fictional fixture paths rather than index reads. The addon typecheck fixture is mended, so the 63-file saidBy collapse can run.",
     },
     {
       statement: "Every runtime helper the Lua compiler has is a page.",
@@ -50,6 +50,7 @@ export const theaChecksSystem = {
     },
   ],
   constraints: [
+    "An experimental check is out of scope.",
     "Each check takes one turn per step, and no turn carries two steps.",
     "Work a step turns up is finished rather than filed, however long that makes the initiative.",
   ],
