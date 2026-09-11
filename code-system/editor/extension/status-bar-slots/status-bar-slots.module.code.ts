@@ -1,5 +1,8 @@
-import type { SlotDef } from "../status-bar-slot-types/status-bar-slot-types.module.code.ts"
-import { BLUE_HEX, PURPLE_HEX } from "../status-bar-theme/status-bar-theme.module.code.ts"
+import type { SlotDef } from "akasha/code-system/editor/extension/status-bar-slot-types/status-bar-slot-types.module.code.ts"
+import {
+  BLUE_HEX,
+  PURPLE_HEX,
+} from "akasha/code-system/editor/extension/status-bar-theme/status-bar-theme.module.code.ts"
 
 function formatUsagePct(v: number | null): string {
   return v === null ? "—" : `${Math.floor(v)}%`
