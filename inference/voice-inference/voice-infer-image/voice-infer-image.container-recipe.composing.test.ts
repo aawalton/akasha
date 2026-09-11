@@ -2,6 +2,10 @@ import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { recipeIn } from "akasha/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.composing.code.ts"
+import {
+  committedRecipe,
+  copiedFrom,
+} from "akasha/infrastructure/container-image/recipe-proving/recipe-proving.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
@@ -10,28 +14,10 @@ const HERE = dirname(import.meta.path)
 
 const CONTEXT = dirname(HERE)
 
-const RECIPE = "Containerfile"
-
 const OWN = "voice-infer-image.container-recipe.composing.code.ts"
 
-const COPY = "COPY "
-
-function committed(): string {
-  return readFileSync(join(HERE, RECIPE), "utf8")
-}
-
-function copiedFrom(recipe: string): readonly string[] {
-  const found: string[] = []
-  for (const line of recipe.split("\n")) {
-    if (!line.startsWith(COPY)) continue
-    const from = line.slice(COPY.length).split(" ")[0]
-    if (from !== undefined) found.push(from)
-  }
-  return found
-}
-
 test("the recipe composed here is the recipe committed beside this test, byte for byte", () => {
-  expect(recipeIn(ROOT)).toBe(committed())
+  expect(recipeIn(ROOT)).toBe(committedRecipe(HERE))
 })
 
 test("every path the recipe copies in is a file that is there in the build's folder", () => {
