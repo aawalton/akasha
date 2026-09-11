@@ -1,4 +1,4 @@
-import type { Domain } from "../domains/domain.page-type.types.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const image = {
   id: "01a06553-a9b6-7281-9f32-c3201ea4a802",
