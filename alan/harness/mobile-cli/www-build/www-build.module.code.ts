@@ -17,21 +17,16 @@ import {
   stagedWwwRepoPath,
 } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { SPA_SOURCE_VAR } from "akasha/alan/harness/mobile-cli/sim-www-stage/sim-www-stage.module.code.ts"
+import { gitDirIn } from "akasha/git/dir/git-dir.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
-import { said, shown } from "akasha/utils/run/running/running.module.code.ts"
+import { shown } from "akasha/utils/run/running/running.module.code.ts"
 
 function worktreeOfRepo(dir: string, repoRoot: string): boolean {
-  if (!existsSync(join(dir, ".git"))) return false
+  const here = gitDirIn(dir)
+  const there = gitDirIn(repoRoot)
+  if (here === null || there === null) return false
   try {
-    const common = said([
-      "git",
-      "-C",
-      dir,
-      "rev-parse",
-      "--path-format=absolute",
-      "--git-common-dir",
-    ]).trim()
-    return realpathSync(common) === realpathSync(join(repoRoot, ".git"))
+    return realpathSync(here) === realpathSync(there)
   } catch {
     return false
   }
