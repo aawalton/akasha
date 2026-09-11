@@ -1,4 +1,4 @@
-import { ADDON_NAME } from "../catalog-constants/catalog-constants.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/catalog-addon/catalog-constants/catalog-constants.module.code.ts"
 
 export interface ApiTest {
   name: string
