@@ -2,11 +2,8 @@ import { realpathSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import { typeScripted } from "akasha/code-system/file-kind/file-kind.module.code.ts"
 import { calledIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
-import {
-  stamped,
-  versionOf,
-  writtenTo,
-} from "akasha/code-system/typing-keeping/typing-keeping.module.code.ts"
+import { stamped, writtenTo } from "akasha/code-system/typing-keeping/typing-keeping.module.code.ts"
+import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
 import ts from "typescript"
 
 const PACKAGES = "node_modules"
@@ -148,7 +145,7 @@ function hostOver(
     directoryExists: (path) => dirs.has(resolve(path)) || ts.sys.directoryExists(path),
     readFile: read,
     writeFile: writtenTo,
-    createHash: versionOf,
+    createHash: sha256Hex,
     getSourceFile: (path, language) => {
       if (insideOf(root, resolve(path)) === null) return stamped(base.getSourceFile(path, language))
       const body = read(path)

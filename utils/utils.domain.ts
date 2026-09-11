@@ -9,6 +9,7 @@ export const utils = {
 
   parts: [
     "domain/utils-fs",
+    "domain/utils-hashing",
     "domain/utils-narrow",
     "domain/utils-process",
     "domain/utils-run",
