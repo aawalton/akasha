@@ -42,4 +42,5 @@ export const alanAtlasWeb = {
     "module/request-log",
     "app-routes/alan-atlas-web-routes",
   ],
+  toolReached: ["react-dom"],
 } as const satisfies RouterApp
