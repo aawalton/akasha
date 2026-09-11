@@ -23,7 +23,7 @@ import { requireMatch } from "akasha/utils/narrow/require-match/require-match.mo
 import { z } from "zod"
 
 const APP = resolveApp("alanwalton")
-const SHARED_SEAM_DIR = "code-system/ios-apps/scripts"
+const SHARED_SEAM_DIR = "code/ios-apps/scripts"
 const STAMP_SEAM_REPO_PATH = `${SHARED_SEAM_DIR}/build-stamp/build-stamp.shell-script.shell.sh`
 const IOS_APP = "ios-app"
 const COMMIT = "977e7d5a3e2f4fbc3942db6faff252272809668e"

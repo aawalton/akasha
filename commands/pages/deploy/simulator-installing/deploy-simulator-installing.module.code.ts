@@ -1,9 +1,6 @@
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import {
-  type Plan,
-  planFor,
-} from "akasha/code-system/ios-apps/app-building/app-building.module.code.ts"
+import { type Plan, planFor } from "akasha/code/ios-apps/app-building/app-building.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"

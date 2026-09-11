@@ -82,8 +82,8 @@ function nextFor(
   if (landed === null) return specifier ? null : beneathFor(was, dir, said, landing)
   if (said.startsWith(ROOT)) return null
   const carried = landing(landed)
-  if (carried !== null) return specifierFor(dir, carried)
-  return specifier ? specifierFor(dir, landed) : null
+  if (carried !== null) return endedAs(said, specifierFor(dir, carried))
+  return specifier ? endedAs(said, specifierFor(dir, landed)) : null
 }
 
 function withinFor(was: string, dir: string, said: string, landing: Landing): string | null {

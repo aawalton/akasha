@@ -11,7 +11,7 @@ import {
   rsyncToHost,
   runSshCapture,
 } from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
-import { sharedBuildFiles } from "akasha/code-system/ios-apps/shared-build-files/shared-build-files.module.code.ts"
+import { sharedBuildFiles } from "akasha/code/ios-apps/shared-build-files/shared-build-files.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

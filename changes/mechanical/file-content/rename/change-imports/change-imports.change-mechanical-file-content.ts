@@ -107,7 +107,7 @@ export const changeImports = {
     },
     {
       invariantKind: "departure",
-      statement: "A run closing on a separator closes on that separator once it is respelled.",
+      statement: "A name or a run closing on a separator closes on it once it is respelled.",
     },
     {
       invariantKind: "departure",

@@ -1,6 +1,6 @@
 import { folderOf } from "akasha/code/code-path-between/code-path-between.module.code.ts"
 import { typeScripted } from "akasha/code/file-kind/file-kind.module.code.ts"
-import { sharedBuildFiles } from "akasha/code-system/ios-apps/shared-build-files/shared-build-files.module.code.ts"
+import { sharedBuildFiles } from "akasha/code/ios-apps/shared-build-files/shared-build-files.module.code.ts"
 import { bodyAt as bodyInCommit } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
 import { reachedFrom } from "akasha/commands/modules/source-globbing/source-globbing.module.code.ts"
 import {

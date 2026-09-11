@@ -277,7 +277,7 @@ const SOURCED = `@source "../../../code-system/router-apps/**/*.{ts,tsx}";\n`
 
 const SOURCED_AT = `@source "../../../code/router-apps/**/*.{ts,tsx}";\n`
 
-const SCRIPT = "code-system/ios-apps/scripts/stage.shell-script.sh"
+const SCRIPT = "code/ios-apps/scripts/stage.shell-script.sh"
 
 const RAN = `. "$AKASHA_ROOT/code-system/ios-apps/stage/stage.module.code.ts"\n`
 
