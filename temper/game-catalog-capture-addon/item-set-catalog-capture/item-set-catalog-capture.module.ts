@@ -18,11 +18,6 @@ export const itemSetCatalogCapture = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A set's category is the root of the category chain the client hangs the set under.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A set with no name or no pieces is passed over.",
     },
     {

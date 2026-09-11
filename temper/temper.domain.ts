@@ -163,6 +163,7 @@ export const temper = {
     "domain/temper-ui-reload",
     "domain/temper-chat-entry",
     "domain/temper-gamepad-tooltip",
+    "domain/temper-item-sets",
     "domain/temper-skills-panel",
     "router-app/temper-web",
   ],

@@ -15,33 +15,7 @@ import {
 } from "akasha/temper/catalog-core/batch-config/batch-config.module.code.ts"
 import { registerCatalogDomain } from "akasha/temper/catalog-core/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
-export function resolveCategoryNames(itemSetId: number): {
-  categoryName?: string
-  subcategoryName?: string
-} {
-  const directId = GetItemSetCollectionCategoryId(itemSetId)
-  if (directId === 0) return {}
-
-  const parentId = GetItemSetCollectionCategoryParentId(directId)
-  if (parentId === 0) {
-    const name = zo_strformat("<<1>>", GetItemSetCollectionCategoryName(directId))
-    return { categoryName: name !== "" ? name : undefined }
-  }
-
-  let rootId = parentId
-  let grandParentId = GetItemSetCollectionCategoryParentId(rootId)
-  while (grandParentId !== 0) {
-    rootId = grandParentId
-    grandParentId = GetItemSetCollectionCategoryParentId(rootId)
-  }
-
-  const rootName = zo_strformat("<<1>>", GetItemSetCollectionCategoryName(rootId))
-  const subName = zo_strformat("<<1>>", GetItemSetCollectionCategoryName(directId))
-  return {
-    categoryName: rootName !== "" ? rootName : undefined,
-    subcategoryName: subName !== "" ? subName : undefined,
-  }
-}
+import { resolveCategoryNames } from "akasha/temper/item-sets/item-set-categories/item-set-categories.module.code.ts"
 
 export function collectItemSetCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
