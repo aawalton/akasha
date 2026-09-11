@@ -3,6 +3,7 @@ import type {
   ComposedQuery,
   QueryRow,
 } from "akasha/pages/query/store-questioning/store-questioning.module.code.ts"
+import { dashBetweenWords } from "akasha/utils/slug/dash-between-words/dash-between-words.module.code.ts"
 
 function camelizeKey(key: string): string {
   const segments = key.split(/[^A-Za-z0-9]+/).filter((one) => one.length > 0)
@@ -10,10 +11,6 @@ function camelizeKey(key: string): string {
   if (first === undefined) return ""
   const head = first.charAt(0).toLowerCase() + first.slice(1)
   return head + rest.map((one) => one.charAt(0).toUpperCase() + one.slice(1)).join("")
-}
-
-function kebabizeKey(key: string): string {
-  return key.replace(/([a-z0-9])([A-Z])/g, "$1-$2").toLowerCase()
 }
 
 export function storeSpelled(query: ComposedQuery): ComposedQuery {
@@ -40,7 +37,7 @@ export function storeSpelled(query: ComposedQuery): ComposedQuery {
 export function bothSpellings(values: Record<string, unknown>): Record<string, unknown> {
   const held: Record<string, unknown> = { ...values }
   for (const [key, value] of Object.entries(values)) {
-    const kebab = kebabizeKey(key)
+    const kebab = dashBetweenWords(key)
     if (kebab !== key && !(kebab in held)) held[kebab] = value
   }
   return held

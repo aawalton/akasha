@@ -39,13 +39,16 @@ export const storeSpelling = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The camel spelling and the declared spelling are written here rather than reached for.",
+      statement: "The camel spelling is written here rather than reached for.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Reaching those spellings would put a page-file reader behind a package that opens no page file.",
+        "Reaching that spelling would put a page-file reader behind a package that opens no page file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The declared spelling is reached for, its module opening no page file.",
     },
     {
       invariantKind: "absence",
