@@ -3,6 +3,7 @@ import {
   AT,
   handing,
   IMPORTING,
+  IMPORTING_AS,
   judgedBy,
   reasoning,
   rooted,
@@ -23,9 +24,7 @@ test("the flags a shape carries are read off the shape written out", () => {
 })
 
 test("a shape handed to `matching` under another name is found through the name it came in as", () => {
-  const body =
-    'import { matching as judging } from "../name-matching/name-matching.module.code.ts"\n'
-  const said = handing(AT, `${body}\nexport const lowerKebabCase = judging(/^[a-z]+$/g)\n`)
+  const said = handing(AT, `${IMPORTING_AS}\nexport const lowerKebabCase = judging(/^[a-z]+$/g)\n`)
   expect(said).toEqual([{ named: "lowerKebabCase", flags: "g" }])
 })
 

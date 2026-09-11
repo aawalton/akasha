@@ -22,6 +22,9 @@ export const AT = "akasha/f/lower-kebab-case.name-format.code.ts"
 export const IMPORTING =
   'import { matching } from "../name-matching/name-matching.module.code.ts"\n'
 
+export const IMPORTING_AS =
+  'import { matching as judging } from "../name-matching/name-matching.module.code.ts"\n'
+
 export const MATCHING_AT = "akasha/name-matching/name-matching.module.code.ts"
 
 export const SLUG = "lower-kebab-case"
