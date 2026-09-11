@@ -48,10 +48,6 @@ export interface CompletionCompanionRow {
   updatedAt: number
 }
 
-function parseOptionalString(value: unknown): string | undefined {
-  return typeof value === "string" ? value : undefined
-}
-
 function parseOptionalNumber(value: unknown): number | undefined {
   return parseNumber(value)
 }
@@ -90,12 +86,12 @@ function mapCharacterRow(row: Record<string, unknown>): CompletionCharacterRow {
     id: parseString(row.id),
     accountPage: stringIn(row.accountPage),
     esoCharacterId: parseString(row.esoCharacterId),
-    title: parseOptionalString(row.title),
+    title: stringIn(row.title) ?? undefined,
     completion: parseCharacterCompletion(row.completion),
     sortOrder: parseOptionalNumber(row.displayOrder),
     roles: parseStringArray(row.roles),
-    liveBuildId: parseOptionalString(row.liveBuildId),
-    targetBuildId: parseOptionalString(row.targetBuildId),
+    liveBuildId: stringIn(row.liveBuildId) ?? undefined,
+    targetBuildId: stringIn(row.targetBuildId) ?? undefined,
     createdAt: parseTimestamp(row.createdAt),
     updatedAt: parseTimestamp(row.updatedAt),
   }
@@ -109,8 +105,8 @@ function mapCompanionRow(row: Record<string, unknown>): CompletionCompanionRow {
     completion: parseCompanionCompletion(row.completion),
     sortOrder: parseOptionalNumber(row.displayOrder),
     roles: parseStringArray(row.roles),
-    liveBuildId: parseOptionalString(row.liveBuildId),
-    targetBuildId: parseOptionalString(row.targetBuildId),
+    liveBuildId: stringIn(row.liveBuildId) ?? undefined,
+    targetBuildId: stringIn(row.targetBuildId) ?? undefined,
     createdAt: parseTimestamp(row.createdAt),
     updatedAt: parseTimestamp(row.updatedAt),
   }
