@@ -13,19 +13,21 @@ export const akashaLauncher = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A file this reads names the directory a run writes a CPU profile into.",
+      statement:
+        "A name set on the line naming the call names the directory a run writes a CPU profile into.",
     },
     {
       invariantKind: "departure",
-      statement: "The profiler is switched by a file rather than by a name set on the line.",
+      statement:
+        "The profiler is switched by a name set on the line rather than by a file the machine holds.",
     },
     {
       invariantKind: "departure",
-      statement: "A switch naming what is no directory profiles nothing and says so.",
+      statement: "A name set to what is no directory profiles nothing and says so.",
     },
     {
       invariantKind: "absence",
-      statement: "A run with no such file carries no profiling flag.",
+      statement: "A run with that name unset carries no profiling flag.",
     },
   ],
 } as const satisfies ShellScript
