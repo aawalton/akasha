@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.types.ts"
+import type { BookSection } from "akasha/alan/library/reading/book-sections/book-section.page-type.types.ts"
 
 export const computers = {
   id: "01a06594-c68d-7004-b389-d504ed1464d2",

@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.types.ts"
+import type { BookSection } from "akasha/alan/library/reading/book-sections/book-section.page-type.types.ts"
 
 export const auditorySensitivityBundle = {
   id: "01a06594-c675-7002-ae05-68dd11ad7be0",

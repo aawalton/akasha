@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whyOneDialFailsAtBothEnds = {
   id: "01a077e5-3da5-7f00-8aa0-ac18e5ccc6a5",

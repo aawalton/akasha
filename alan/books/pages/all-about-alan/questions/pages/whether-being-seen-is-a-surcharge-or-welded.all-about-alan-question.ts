@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whetherBeingSeenIsASurchargeOrWelded = {
   id: "01a077eb-e696-7d04-8ad5-013c53b66bb1",

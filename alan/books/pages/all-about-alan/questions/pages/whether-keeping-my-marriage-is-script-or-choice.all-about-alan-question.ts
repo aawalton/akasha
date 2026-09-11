@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whetherKeepingMyMarriageIsScriptOrChoice = {
   id: "01a077ef-ab2c-7034-90cb-cec0013625ac",

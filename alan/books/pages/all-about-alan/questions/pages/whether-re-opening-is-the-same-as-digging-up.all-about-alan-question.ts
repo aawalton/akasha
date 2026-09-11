@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whetherReOpeningIsTheSameAsDiggingUp = {
   id: "01a077e4-6131-77ae-b2f8-c09a726c1c92",

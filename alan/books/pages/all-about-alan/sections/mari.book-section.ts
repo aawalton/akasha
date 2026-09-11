@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.types.ts"
+import type { BookSection } from "akasha/alan/library/reading/book-sections/book-section.page-type.types.ts"
 
 export const mari = {
   id: "01a06594-c687-7003-a2b1-7f87ac15f0b0",

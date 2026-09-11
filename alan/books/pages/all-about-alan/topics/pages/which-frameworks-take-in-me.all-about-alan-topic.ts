@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
+import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/topics/all-about-alan-topic.page-type.types.ts"
 
 export const whichFrameworksTakeInMe = {
   id: "01a06559-9d65-75dd-9084-3d069d742af1",

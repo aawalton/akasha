@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whichPhysicalSymptomsTraceToUndischargedFeeling = {
   id: "01a077e3-561c-75e0-a936-74e9e6927a50",

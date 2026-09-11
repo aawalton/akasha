@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whatClosingLooksLikeOnAChannelThatStaysOpen = {
   id: "01a077eb-4331-7384-9ae3-f3ccb5fbdc89",

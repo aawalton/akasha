@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whetherTheDrudgeryWasEvenOrConcentrated = {
   id: "01a077ee-7a25-7fff-b1ef-417eaa73d212",

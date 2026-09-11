@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whichClosenessSkillIsFurthestAlong = {
   id: "01a077e7-d879-7b60-9f6a-e3db7ff6c0ad",

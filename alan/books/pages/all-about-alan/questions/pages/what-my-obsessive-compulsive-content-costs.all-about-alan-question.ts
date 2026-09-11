@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whatMyObsessiveCompulsiveContentCosts = {
   id: "01a077eb-c349-7a24-836c-39e6bb3c34fc",

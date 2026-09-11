@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whetherDelightClosingDistanceIsItsOwnAmplifier = {
   id: "01a077e5-103c-7e4f-857f-ca645f2ed7b8",

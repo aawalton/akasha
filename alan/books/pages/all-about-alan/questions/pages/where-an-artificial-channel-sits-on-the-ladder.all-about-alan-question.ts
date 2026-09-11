@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whereAnArtificialChannelSitsOnTheLadder = {
   id: "01a077ea-d370-71ae-98f7-0dfb612201d6",

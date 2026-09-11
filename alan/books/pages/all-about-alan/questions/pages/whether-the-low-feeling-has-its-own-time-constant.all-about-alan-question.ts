@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whetherTheLowFeelingHasItsOwnTimeConstant = {
   id: "01a077e9-a71f-7b86-b5a1-7455995aa63b",

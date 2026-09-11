@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whetherDeliberateCareSatisfiesANeedForAttachment = {
   id: "01a077e1-e4ef-7a27-84f9-79ae1998c364",

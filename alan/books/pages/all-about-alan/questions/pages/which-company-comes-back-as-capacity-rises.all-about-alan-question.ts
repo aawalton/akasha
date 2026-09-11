@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whichCompanyComesBackAsCapacityRises = {
   id: "01a077ef-889f-75a9-8f7a-1cc3f8bf5bde",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whetherAPromptIsAnswerableWhenTalkingIsNot = {
   id: "01a077ea-b4fc-7008-bf76-cb406d388b17",

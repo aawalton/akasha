@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
+import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/topics/all-about-alan-topic.page-type.types.ts"
 
 export const theLowFeelingThatCostsMeALevel = {
   id: "01a04625-d80f-70c0-b8f1-eb0d7e9475db",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whatTheRungsAfterTheFirstHardTalkAre = {
   id: "01a077e5-509f-7183-bcf3-09cbbe243651",

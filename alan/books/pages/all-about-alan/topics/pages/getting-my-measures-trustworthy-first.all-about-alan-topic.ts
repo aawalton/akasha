@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
+import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/topics/all-about-alan-topic.page-type.types.ts"
 
 export const gettingMyMeasuresTrustworthyFirst = {
   id: "01a07895-54aa-7c6c-8ee4-72d75a79263e",

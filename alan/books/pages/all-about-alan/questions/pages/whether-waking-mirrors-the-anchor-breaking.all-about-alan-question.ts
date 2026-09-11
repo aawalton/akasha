@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whetherWakingMirrorsTheAnchorBreaking = {
   id: "01a077ed-9bf8-70fe-972d-a3cc2b57286e",

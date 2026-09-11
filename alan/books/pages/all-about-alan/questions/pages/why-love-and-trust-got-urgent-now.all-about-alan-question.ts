@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whyLoveAndTrustGotUrgentNow = {
   id: "01a077ea-0a8f-7a2c-a73d-b788e17abfd0",

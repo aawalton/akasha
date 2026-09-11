@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const whatSeparatesAFrameworkThatInstalls = {
   id: "01a077ee-41d3-7e5f-a9ea-21cd219dc721",

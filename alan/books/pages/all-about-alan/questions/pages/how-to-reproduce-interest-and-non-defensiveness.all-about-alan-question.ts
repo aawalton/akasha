@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
+import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
 
 export const howToReproduceInterestAndNonDefensiveness = {
   id: "01a077e4-3d41-76b7-8d0f-ba16ea51e36d",

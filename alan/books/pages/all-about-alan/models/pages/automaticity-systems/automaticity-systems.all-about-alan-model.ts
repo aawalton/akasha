@@ -1,4 +1,4 @@
-import type { AllAboutAlanModel } from "../../all-about-alan-model.page-type.types.ts"
+import type { AllAboutAlanModel } from "akasha/alan/books/pages/all-about-alan/models/all-about-alan-model.page-type.types.ts"
 
 export const automaticitySystems = {
   id: "01a0657f-a729-787c-b941-6cb8740d70db",
