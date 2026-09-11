@@ -1,7 +1,7 @@
 import {
   parseProseIntoRawSegments,
   type RawProseSegment,
-} from "../prose-segments/prose-segments.module.code.ts"
+} from "akasha/story/engine/core/prose-segments/prose-segments.module.code.ts"
 
 export interface ProseLintViolation {
   readonly lint: string

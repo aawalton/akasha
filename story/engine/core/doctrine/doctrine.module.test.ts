@@ -1,5 +1,4 @@
 import { describe, expect, test } from "bun:test"
-import type { GmContext } from "../gm-context-schema/gm-context-schema.module.code.ts"
 import {
   buildDoctrineUpdate,
   DOCTRINE_POLICY_ID_PREFIX,
@@ -7,8 +6,9 @@ import {
   parseDoctrine,
   preserveDoctrineOnReplace,
   withDoctrine,
-} from "./doctrine.module.code.ts"
-import { FIXTURE_DOCTRINE } from "./doctrine.module.test-fixtures.ts"
+} from "akasha/story/engine/core/doctrine/doctrine.module.code.ts"
+import { FIXTURE_DOCTRINE } from "akasha/story/engine/core/doctrine/doctrine.module.test-fixtures.ts"
+import type { GmContext } from "akasha/story/engine/core/gm-context-schema/gm-context-schema.module.code.ts"
 
 const PER_GAME_POLICY = { id: "house:no-dice", title: "No dice", bands: [] }
 

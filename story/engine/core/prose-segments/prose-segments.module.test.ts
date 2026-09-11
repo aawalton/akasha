@@ -4,7 +4,7 @@ import {
   countProseMarkers,
   MalformedProseMarkerError,
   parseProseIntoRawSegments,
-} from "./prose-segments.module.code.ts"
+} from "akasha/story/engine/core/prose-segments/prose-segments.module.code.ts"
 
 describe("parseProseIntoRawSegments", () => {
   test("plain prose is one run", () => {

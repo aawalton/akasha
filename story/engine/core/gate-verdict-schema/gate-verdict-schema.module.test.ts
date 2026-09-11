@@ -3,7 +3,7 @@ import {
   gateVerdictCoverage,
   isGateCoverageComplete,
   parseGateVerdict,
-} from "./gate-verdict-schema.module.code.ts"
+} from "akasha/story/engine/core/gate-verdict-schema/gate-verdict-schema.module.code.ts"
 
 const REGISTRY = ["window-pane-prose", "system-voice"]
 

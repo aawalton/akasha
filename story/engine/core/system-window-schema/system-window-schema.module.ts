@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const systemWindowSchema = {
   id: "01a05b71-e544-78bb-9313-d10464beea25",

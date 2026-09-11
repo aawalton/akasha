@@ -1,5 +1,8 @@
-import type { BoundaryLens, TallyCatalog } from "../tally-catalog/tally-catalog.module.code.ts"
-import type { computeTally } from "./tally.module.code.ts"
+import type { computeTally } from "akasha/story/engine/core/tally/tally.module.code.ts"
+import type {
+  BoundaryLens,
+  TallyCatalog,
+} from "akasha/story/engine/core/tally-catalog/tally-catalog.module.code.ts"
 
 export const CATALOG: TallyCatalog = {
   catalogVersion: 19,

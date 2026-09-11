@@ -1,4 +1,4 @@
-import type { Doctrine } from "./doctrine.module.code.ts"
+import type { Doctrine } from "akasha/story/engine/core/doctrine/doctrine.module.code.ts"
 
 export const FIXTURE_DOCTRINE: Doctrine = {
   doctrineVersion: 6,

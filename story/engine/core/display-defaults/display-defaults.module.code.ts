@@ -1,10 +1,10 @@
-import { z } from "zod"
 import {
   type ChapterProsePastTurns,
   ChapterProsePastTurnsSchema,
   type ChapterProseTitles,
   ChapterProseTitlesSchema,
-} from "../game-schema/game-schema.module.code.ts"
+} from "akasha/story/engine/core/game-schema/game-schema.module.code.ts"
+import { z } from "zod"
 
 export const ChapterProseDefaultsSchema = z
   .object({

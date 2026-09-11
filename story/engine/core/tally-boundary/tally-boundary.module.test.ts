@@ -1,12 +1,12 @@
 import { describe, expect, test } from "bun:test"
-import type { BoundaryLens } from "../tally-catalog/tally-catalog.module.code.ts"
-import { TallyCatalogError } from "../tally-catalog/tally-catalog.module.code.ts"
 import {
   classifyTurnBoundary,
   compileBoundary,
   distribution,
   rollupBoundary,
-} from "./tally-boundary.module.code.ts"
+} from "akasha/story/engine/core/tally-boundary/tally-boundary.module.code.ts"
+import type { BoundaryLens } from "akasha/story/engine/core/tally-catalog/tally-catalog.module.code.ts"
+import { TallyCatalogError } from "akasha/story/engine/core/tally-catalog/tally-catalog.module.code.ts"
 
 const LENS: BoundaryLens = {
   runThreshold: 2,

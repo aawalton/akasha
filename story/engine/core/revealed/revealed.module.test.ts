@@ -4,7 +4,7 @@ import {
   narrowRevealed,
   REVEAL_UNIVERSE_KEYS,
   RevealKeySchema,
-} from "./revealed.module.code.ts"
+} from "akasha/story/engine/core/revealed/revealed.module.code.ts"
 
 describe("RevealKeySchema", () => {
   test("admits a key the code names", () => {

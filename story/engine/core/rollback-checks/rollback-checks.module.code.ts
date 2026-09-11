@@ -1,4 +1,4 @@
-import type { GameConfigViolation } from "../game-config-schema/game-config-schema.module.code.ts"
+import type { GameConfigViolation } from "akasha/story/engine/core/game-config-schema/game-config-schema.module.code.ts"
 
 export type EntityDisposition = "restore" | "delete" | "refuse"
 

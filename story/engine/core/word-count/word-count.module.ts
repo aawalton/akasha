@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const wordCount = {
   id: "01a05b71-e544-7a9b-85e4-86828bc0b993",

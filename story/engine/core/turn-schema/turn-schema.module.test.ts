@@ -3,7 +3,7 @@ import {
   isPublishedTurnStatus,
   parseBankedRemainder,
   TurnStatusSchema,
-} from "./turn-schema.module.code.ts"
+} from "akasha/story/engine/core/turn-schema/turn-schema.module.code.ts"
 
 describe("isPublishedTurnStatus", () => {
   test("a draft is not published", () => {

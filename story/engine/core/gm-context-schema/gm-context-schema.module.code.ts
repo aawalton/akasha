@@ -1,7 +1,7 @@
+import { GateDimensionSchema } from "akasha/story/engine/core/gate-dimension/gate-dimension.module.code.ts"
+import { SheetEntryTemplateSchema } from "akasha/story/engine/core/sheet-template/sheet-template.module.code.ts"
+import { TallyCatalogSchema } from "akasha/story/engine/core/tally-catalog/tally-catalog.module.code.ts"
 import { z } from "zod"
-import { GateDimensionSchema } from "../gate-dimension/gate-dimension.module.code.ts"
-import { SheetEntryTemplateSchema } from "../sheet-template/sheet-template.module.code.ts"
-import { TallyCatalogSchema } from "../tally-catalog/tally-catalog.module.code.ts"
 
 export const SYSTEM_VOICE_VALUES = ["mute", "declared"] as const
 export const SystemVoiceSchema = z.enum(SYSTEM_VOICE_VALUES)

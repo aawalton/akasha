@@ -1,6 +1,6 @@
+import { SystemWindowSchema } from "akasha/story/engine/core/system-window-schema/system-window-schema.module.code.ts"
+import { PoolChangeSchema } from "akasha/story/engine/core/turn-package-schema/turn-package-schema.module.code.ts"
 import { z } from "zod"
-import { SystemWindowSchema } from "../system-window-schema/system-window-schema.module.code.ts"
-import { PoolChangeSchema } from "../turn-package-schema/turn-package-schema.module.code.ts"
 
 const BeatIdSchema = z.union([z.string(), z.number()])
 

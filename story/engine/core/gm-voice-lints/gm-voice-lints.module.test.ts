@@ -3,7 +3,7 @@ import {
   assertGmVoiceProse,
   GmVoiceProseError,
   lintGmVoiceProse,
-} from "./gm-voice-lints.module.code.ts"
+} from "akasha/story/engine/core/gm-voice-lints/gm-voice-lints.module.code.ts"
 
 const lints = (text: string) => lintGmVoiceProse(text).map((v) => v.lint)
 

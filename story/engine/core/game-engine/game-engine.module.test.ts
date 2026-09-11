@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { isGameEngine, selectGameRenderMode } from "./game-engine.module.code.ts"
+import {
+  isGameEngine,
+  selectGameRenderMode,
+} from "akasha/story/engine/core/game-engine/game-engine.module.code.ts"
 
 describe("isGameEngine", () => {
   test("names the three engines", () => {

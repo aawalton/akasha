@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { validateGameConfig } from "./game-config-schema.module.code.ts"
+import { validateGameConfig } from "akasha/story/engine/core/game-config-schema/game-config-schema.module.code.ts"
 
 const SOUND = {
   externalId: "g1",

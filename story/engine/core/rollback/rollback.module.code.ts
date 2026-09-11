@@ -1,9 +1,9 @@
-import type { GameConfigViolation } from "../game-config-schema/game-config-schema.module.code.ts"
+import type { GameConfigViolation } from "akasha/story/engine/core/game-config-schema/game-config-schema.module.code.ts"
 import {
   classifyEntity,
   earliestRollbackableTurn,
   validateRollbackInput,
-} from "../rollback-checks/rollback-checks.module.code.ts"
+} from "akasha/story/engine/core/rollback-checks/rollback-checks.module.code.ts"
 
 export const ROLLBACK_STATE_KEYS = [
   "turn",

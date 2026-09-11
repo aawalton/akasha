@@ -3,7 +3,7 @@ import {
   ACTION_BAR_MESSAGE_KINDS,
   classifyActionBarMessage,
   isOutOfCharacterFeedback,
-} from "./action-bar-message.module.code.ts"
+} from "akasha/story/engine/core/action-bar-message/action-bar-message.module.code.ts"
 
 describe("classifyActionBarMessage", () => {
   test("a bare line is an act in the fiction", () => {

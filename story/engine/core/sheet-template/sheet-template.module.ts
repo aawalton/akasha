@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const sheetTemplate = {
   id: "01a05b71-e544-7bb0-8955-8353130f32de",

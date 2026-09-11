@@ -1,4 +1,3 @@
-import { z } from "zod"
 import {
   ControlledEntityKindSchema,
   GameConfigSchema,
@@ -7,13 +6,14 @@ import {
   GameRulebookSchema,
   MechanicsWeightSchema,
   ResolutionSchema,
-} from "../game-schema/game-schema.module.code.ts"
+} from "akasha/story/engine/core/game-schema/game-schema.module.code.ts"
 import {
   GmContextSchema,
   GmReferenceSchema,
-} from "../gm-context-schema/gm-context-schema.module.code.ts"
-import { NarrativeContinuitySchema } from "../narrative-continuity-schema/narrative-continuity-schema.module.code.ts"
-import { ResolutionMechanismSchema } from "../roll-schema/roll-schema.module.code.ts"
+} from "akasha/story/engine/core/gm-context-schema/gm-context-schema.module.code.ts"
+import { NarrativeContinuitySchema } from "akasha/story/engine/core/narrative-continuity-schema/narrative-continuity-schema.module.code.ts"
+import { ResolutionMechanismSchema } from "akasha/story/engine/core/roll-schema/roll-schema.module.code.ts"
+import { z } from "zod"
 
 export interface GameConfigViolation {
   readonly field: string

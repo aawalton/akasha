@@ -4,7 +4,7 @@ import {
   parseSheetEntryTemplate,
   SheetEntryTemplateError,
   validateSheetEntries,
-} from "./sheet-template.module.code.ts"
+} from "akasha/story/engine/core/sheet-template/sheet-template.module.code.ts"
 
 const TEMPLATE = {
   standards: [

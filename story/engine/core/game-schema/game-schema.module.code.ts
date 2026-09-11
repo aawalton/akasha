@@ -1,6 +1,6 @@
 import type { FrameConfig } from "akasha/pages/core/schema/detail-config/detail-config.module.code.ts"
+import { RevealKeySchema } from "akasha/story/engine/core/revealed/revealed.module.code.ts"
 import { z } from "zod"
-import { RevealKeySchema } from "../revealed/revealed.module.code.ts"
 
 export const MECHANICS_WEIGHTS = ["zero", "light", "medium", "heavy"] as const
 export const MechanicsWeightSchema = z.enum(MECHANICS_WEIGHTS)

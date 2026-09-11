@@ -5,7 +5,7 @@ import {
   isLoreKind,
   LoreContentSchema,
   loreKindOf,
-} from "./lore-schema.module.code.ts"
+} from "akasha/story/engine/core/lore-schema/lore-schema.module.code.ts"
 
 describe("isLoreKind", () => {
   test("names the four kinds", () => {

@@ -1,11 +1,11 @@
-import { z } from "zod"
-import { GateDimensionSchema } from "../gate-dimension/gate-dimension.module.code.ts"
+import { GateDimensionSchema } from "akasha/story/engine/core/gate-dimension/gate-dimension.module.code.ts"
 import {
   type GmContext,
   GmPolicySchema,
-} from "../gm-context-schema/gm-context-schema.module.code.ts"
-import { SheetEntryTemplateSchema } from "../sheet-template/sheet-template.module.code.ts"
-import { TallyCatalogSchema } from "../tally-catalog/tally-catalog.module.code.ts"
+} from "akasha/story/engine/core/gm-context-schema/gm-context-schema.module.code.ts"
+import { SheetEntryTemplateSchema } from "akasha/story/engine/core/sheet-template/sheet-template.module.code.ts"
+import { TallyCatalogSchema } from "akasha/story/engine/core/tally-catalog/tally-catalog.module.code.ts"
+import { z } from "zod"
 
 export const DOCTRINE_POLICY_ID_PREFIX = "doctrine:"
 

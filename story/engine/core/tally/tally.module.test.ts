@@ -1,12 +1,11 @@
 import { describe, expect, test } from "bun:test"
-import { TallyCatalogError } from "../tally-catalog/tally-catalog.module.code.ts"
 import {
   computeTally,
   countParagraphs,
   countSentences,
   countWords,
   scoredTurnSpan,
-} from "./tally.module.code.ts"
+} from "akasha/story/engine/core/tally/tally.module.code.ts"
 import {
   BOUNDARY_CATALOG,
   bTurn,
@@ -15,7 +14,8 @@ import {
   TURNS,
   total,
   turn,
-} from "./tally.module.test-fixtures.ts"
+} from "akasha/story/engine/core/tally/tally.module.test-fixtures.ts"
+import { TallyCatalogError } from "akasha/story/engine/core/tally-catalog/tally-catalog.module.code.ts"
 
 describe("countWords", () => {
   test("counts only tokens holding a letter or a digit", () => {

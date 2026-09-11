@@ -4,7 +4,7 @@ import {
   decideDesignCompleteness,
   designKindOf,
   isDesignKind,
-} from "./design-schema.module.code.ts"
+} from "akasha/story/engine/core/design-schema/design-schema.module.code.ts"
 
 const FLOOR = {
   kind: "floor-design" as const,

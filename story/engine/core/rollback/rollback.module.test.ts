@@ -1,6 +1,9 @@
 import { describe, expect, test } from "bun:test"
-import type { RollbackFacts } from "./rollback.module.code.ts"
-import { decideRollback, ROLLBACK_STATE_KEYS } from "./rollback.module.code.ts"
+import type { RollbackFacts } from "akasha/story/engine/core/rollback/rollback.module.code.ts"
+import {
+  decideRollback,
+  ROLLBACK_STATE_KEYS,
+} from "akasha/story/engine/core/rollback/rollback.module.code.ts"
 
 const facts = (over: Partial<RollbackFacts> = {}): RollbackFacts => ({
   gameId: "game-1",

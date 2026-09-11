@@ -6,13 +6,13 @@ import {
   distribution,
   rollupBoundary,
   type TallyDistribution,
-} from "../tally-boundary/tally-boundary.module.code.ts"
+} from "akasha/story/engine/core/tally-boundary/tally-boundary.module.code.ts"
 import {
   type TallyCatalog,
   TallyCatalogError,
   type TallyPattern,
   type TallyPatternFamily,
-} from "../tally-catalog/tally-catalog.module.code.ts"
+} from "akasha/story/engine/core/tally-catalog/tally-catalog.module.code.ts"
 
 export interface TallyTurnInput {
   readonly externalId: string

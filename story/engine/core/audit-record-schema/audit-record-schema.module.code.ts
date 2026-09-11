@@ -1,9 +1,9 @@
-import { z } from "zod"
 import {
   type RollRecordHashable,
   RollRecordSchema,
-} from "../roll-schema/roll-schema.module.code.ts"
-import { RulebookSchema } from "../rulebook-schema/rulebook-schema.module.code.ts"
+} from "akasha/story/engine/core/roll-schema/roll-schema.module.code.ts"
+import { RulebookSchema } from "akasha/story/engine/core/rulebook-schema/rulebook-schema.module.code.ts"
+import { z } from "zod"
 
 export const CombatantDataSchema = z
   .object({

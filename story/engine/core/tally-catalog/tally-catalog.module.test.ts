@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { parseTallyCatalog, TallyCatalogSchema } from "./tally-catalog.module.code.ts"
+import {
+  parseTallyCatalog,
+  TallyCatalogSchema,
+} from "akasha/story/engine/core/tally-catalog/tally-catalog.module.code.ts"
 
 const pattern = (id: string) => ({
   id,

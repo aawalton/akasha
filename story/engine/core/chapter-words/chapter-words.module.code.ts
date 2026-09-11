@@ -1,4 +1,4 @@
-import { wordCount } from "../word-count/word-count.module.code.ts"
+import { wordCount } from "akasha/story/engine/core/word-count/word-count.module.code.ts"
 
 const SPEAKER_MARKER = /^\s*\[[a-z][a-z0-9-]*\]\s*/
 

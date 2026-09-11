@@ -3,7 +3,7 @@ import {
   classifyEntity,
   earliestRollbackableTurn,
   validateRollbackInput,
-} from "./rollback-checks.module.code.ts"
+} from "akasha/story/engine/core/rollback-checks/rollback-checks.module.code.ts"
 
 describe("classifyEntity", () => {
   test("an entity with a version at-or-before the anchor is restored", () => {
