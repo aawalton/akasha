@@ -1,4 +1,4 @@
-import type { WorldEnchantment } from "../../world-enchantment.page-type.types.ts"
+import type { WorldEnchantment } from "akasha/story/world-mechanics/world-enchantments/world-enchantment.page-type.types.ts"
 
 export const haste = {
   id: "01a0655a-7b7b-7669-a3fc-357e420a5cd7",

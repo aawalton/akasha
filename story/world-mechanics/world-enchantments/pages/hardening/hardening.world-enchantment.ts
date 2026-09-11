@@ -1,4 +1,4 @@
-import type { WorldEnchantment } from "../../world-enchantment.page-type.types.ts"
+import type { WorldEnchantment } from "akasha/story/world-mechanics/world-enchantments/world-enchantment.page-type.types.ts"
 
 export const hardening = {
   id: "01a0655a-7b7b-7471-bc1b-ee7287c70062",
