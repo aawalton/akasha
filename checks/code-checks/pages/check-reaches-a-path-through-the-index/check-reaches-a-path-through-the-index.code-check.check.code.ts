@@ -1,9 +1,9 @@
 import {
-  type Asking,
   askingOver,
   judgingOver,
   type Naming,
   namingOver,
+  type Reaching,
   reasonsIn,
 } from "akasha/checks/code-checks/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.code-check.decision.code.ts"
 import {
@@ -52,13 +52,13 @@ function judgedFor(shadow: Shadow): (path: string) => boolean {
   return made
 }
 
-const ASKING = new WeakMap<Shadow, Asking>()
+const REACHING = new WeakMap<Shadow, Reaching>()
 
-function askingFor(shadow: Shadow): Asking {
-  const found = ASKING.get(shadow)
+function reachingFor(shadow: Shadow): Reaching {
+  const found = REACHING.get(shadow)
   if (found !== undefined) return found
   const made = askingOver(shadow.index.everyPath())
-  ASKING.set(shadow, made)
+  REACHING.set(shadow, made)
   return made
 }
 
@@ -79,5 +79,5 @@ export const PAGE_FILES: Selector<Body> = {
 }
 
 export const checkReachesAPathThroughTheIndex = judgingEach(PAGE_FILES, (given, shadow) =>
-  reasonsIn(askingFor(shadow), namingFor(shadow), given.path, textIn(given.bytes))
+  reasonsIn(reachingFor(shadow), namingFor(shadow), given.path, textIn(given.bytes))
 )

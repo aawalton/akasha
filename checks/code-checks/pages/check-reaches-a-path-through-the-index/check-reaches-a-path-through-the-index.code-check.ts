@@ -107,6 +107,26 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
+      statement: "More than one page may end with the path spelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page named is the one sharing the most folders with the file spelling it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The first page the index answers is named where two share as many folders.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is named ahead of a folder wherever both end with the path spelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which page is named changes nothing about which files are refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A literal ending in a separator names the folder that separator closes.",
     },
     {

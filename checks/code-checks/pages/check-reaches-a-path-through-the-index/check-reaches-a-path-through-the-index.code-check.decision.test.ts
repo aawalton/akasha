@@ -18,7 +18,7 @@ const HELD = [
 
 const AT = "checks/code-checks/pages/a/a.code-check.code.ts"
 
-const asking = askingOver(HELD)
+const reaching = askingOver(HELD)
 
 const NAMED = 'const AT = "design/colors"\n'
 
@@ -27,7 +27,7 @@ const TYPES: ReadonlySet<string> = new Set(["code-check", "color", "module"])
 const naming = namingOver(HELD, TYPES)
 
 function only(text: string): readonly string[] {
-  return reasonsIn(asking, naming, AT, text)
+  return reasonsIn(reaching, naming, AT, text)
 }
 
 test("a literal a listing is handed straight off is refused", () => {
@@ -187,7 +187,7 @@ test("a tail carrying what is no plain segment is no page's name", () => {
 
 test("a page's test listing a folder is not judged by the name it spells", () => {
   const at = "checks/code-checks/pages/a/a.code-check.test.ts"
-  const said = reasonsIn(asking, naming, at, 'const S = ".module.code.ts"\nreaddirSync(root)\n')
+  const said = reasonsIn(reaching, naming, at, 'const S = ".module.code.ts"\nreaddirSync(root)\n')
   expect(said).toEqual([])
 })
 
@@ -254,7 +254,7 @@ const ASKED: Asked = {
 const SHELL = "akasha/one.thing.shell.sh"
 
 function ran(text: string): readonly string[] {
-  return reasonsIn(asking, naming, SHELL, text)
+  return reasonsIn(reaching, naming, SHELL, text)
 }
 
 test("a page's file that is no TypeScript is judged whatever section names that file", () => {
@@ -286,7 +286,7 @@ test("a file held uncommitted is judged by nothing", () => {
 
 test("a run of a body whose language is not parsed that names a page is refused", () => {
   const at = "akasha/one.thing.config.json"
-  const said = reasonsIn(asking, naming, at, '{ "at": "design/colors/pages/yellow.color.ts" }\n')
+  const said = reasonsIn(reaching, naming, at, '{ "at": "design/colors/pages/yellow.color.ts" }\n')
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 1")
 })
@@ -313,4 +313,38 @@ test("a run the index knows a path ending with is refused", () => {
 
 test("the line a run sits on is the line the refusal names", () => {
   expect(ran("one\ntwo\ncat design/colors/pages/yellow.color.ts\n")[0]).toContain("line 3")
+})
+
+const TWICE = ["a/one/image/Containerfile", "a/two/image/Containerfile"]
+
+const nearer = askingOver(TWICE)
+
+const BUILT = 'podman build -f "$PKG_DIR/image/Containerfile"\n'
+
+test("the page named is the one sharing the most folders with the file that spells it", () => {
+  const at = "a/two/up/two-up.shell-script.shell.sh"
+  const said = reasonsIn(nearer, naming, at, BUILT)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("a/two/image/Containerfile")
+})
+
+test("the same path spelled from another folder names the page beside that folder", () => {
+  const at = "a/one/up/one-up.shell-script.shell.sh"
+  const said = reasonsIn(nearer, naming, at, BUILT)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("a/one/image/Containerfile")
+})
+
+test("a path more than one page ends with is refused wherever that path is spelled", () => {
+  const at = "b/far/far.shell-script.shell.sh"
+  const said = reasonsIn(nearer, naming, at, "cat image/Containerfile\n")
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("a/one/image/Containerfile")
+})
+
+test("a literal is named by the page nearest the file that spells that literal", () => {
+  const at = "a/two/code/two.code-check.code.ts"
+  const said = reasonsIn(nearer, naming, at, 'const AT = "image/Containerfile"\n')
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("a/two/image/Containerfile")
 })

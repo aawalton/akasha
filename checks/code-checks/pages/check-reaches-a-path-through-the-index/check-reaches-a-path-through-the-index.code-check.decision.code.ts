@@ -64,6 +64,8 @@ type Found = { readonly at: string; readonly page: boolean }
 
 export type Asking = (said: string) => Found | null
 
+export type Reaching = (from: string) => Asking
+
 type Reached = { readonly said: string; readonly at: string; readonly page: boolean }
 
 export function foldersOf(paths: readonly string[]): readonly string[] {
@@ -89,21 +91,44 @@ export function basedOn(paths: readonly string[]): ReadonlyMap<string, readonly 
   return found
 }
 
-export function askingOver(paths: readonly string[]): Asking {
+function sharedIn(from: string, one: string): number {
+  const said = from.split(PARTED_BY)
+  const held = one.split(PARTED_BY)
+  let at = 0
+  while (at < said.length && at < held.length && said[at] === held[at]) at += 1
+  return at
+}
+
+function nearestTo(from: string, kept: readonly string[]): string {
+  let best = kept[0] ?? ""
+  let near = sharedIn(from, best)
+  for (const one of kept) {
+    const found = sharedIn(from, one)
+    if (found > near) {
+      best = one
+      near = found
+    }
+  }
+  return best
+}
+
+export function askingOver(paths: readonly string[]): Reaching {
   const pages = new Set(paths)
   const based = basedOn([...paths, ...foldersOf(paths)])
-  return (said) => {
+  return (from) => (said) => {
     if (!said.includes(PARTED_BY)) return null
     if (said.startsWith(PARTED_BY) || said.startsWith(".")) return null
     const closed = said.endsWith(PARTED_BY)
     const at = closed ? said.slice(0, -PARTED_BY.length) : said
     const base = at.slice(at.lastIndexOf(PARTED_BY) + 1)
+    const found: string[] = []
     for (const one of based.get(base) ?? []) {
-      if (one === at || one.endsWith(`${PARTED_BY}${at}`)) {
-        return { at: one, page: !closed && pages.has(one) }
-      }
+      if (one === at || one.endsWith(`${PARTED_BY}${at}`)) found.push(one)
     }
-    return null
+    if (found.length === 0) return null
+    const paged = found.filter((each) => pages.has(each))
+    const one = nearestTo(from, paged.length > 0 ? paged : found)
+    return { at: one, page: !closed && pages.has(one) }
   }
 }
 
@@ -268,11 +293,12 @@ function ranIn(asking: Asking, text: string): readonly string[] {
 }
 
 export function reasonsIn(
-  asking: Asking,
+  reaching: Reaching,
   naming: Naming,
   path: string,
   text: string
 ): readonly string[] {
+  const asking = reaching(path)
   return typed(path) ? typedIn(asking, naming, path, text) : ranIn(asking, text)
 }
 
