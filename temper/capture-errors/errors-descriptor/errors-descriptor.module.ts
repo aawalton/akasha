@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const errorsDescriptor = {
   id: "01a0608a-15b2-78e5-a967-45a0dec13df1",
