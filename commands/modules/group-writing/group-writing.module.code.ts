@@ -1,117 +1,165 @@
 import { createRequire } from "node:module"
-import { basename, dirname, join } from "node:path"
+import { basename, join } from "node:path"
 import type { Adding, Replacing } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
-const RECIPE = "container-recipe"
+const GROUP = "module-property-group"
 
-const GROUP = "composing.code"
+const WRITES = "file-written-by"
+
+const CARRIES = "page-property"
+
+const CODE = "code"
 
 const HOLDS = "ts"
 
-const COMPOSES = "bodyIn"
-
-const WRITTEN = "Containerfile"
+const ANSWERS = "bodyIn"
 
 const SLUG = "slug"
 
+const PROPERTY_SLUG = "propertySlug"
+
+const ENDING = "."
+
 const loadFrom = createRequire(import.meta.url)
 
-export type Composing = (given: string | Reading) => string
+export type Writing = (given: string | Reading) => string
 
-export type Reached = { readonly composing: Composing } | { readonly missing: string }
+export type Reached = { readonly writing: Writing } | { readonly missing: string }
 
 export type Reaching = (root: string, at: string) => Reached
 
-export type Composed = {
+export type Group = {
+  readonly slug: string
+  readonly propertySlug: string
+  readonly pageTypeSlugs: readonly string[]
+}
+
+export type Written = {
   readonly edits: readonly (Adding | Replacing)[]
   readonly said: readonly string[]
 }
 
-const NOTHING_COMPOSED: Composed = { edits: [], said: [] }
+const NOTHING_WRITTEN: Written = { edits: [], said: [] }
 
-export function composingAt(page: string): string | null {
-  return besideAt(page, GROUP, HOLDS)
+function namedAt(index: Answering, id: string, key: string): string | null {
+  const listed = index.listedById(id)
+  if (listed === null) return null
+  const value = index.pageByPath(listed.path)
+  return value === null ? null : textAt(value, key)
 }
 
-export function recipeAt(page: string): string {
-  return join(dirname(page), WRITTEN)
+function carriedBy(index: Answering, id: string): readonly string[] {
+  const found: string[] = []
+  for (const carrier of index.idsNaming(id, CARRIES)) {
+    const slug = namedAt(index, carrier, SLUG)
+    if (slug !== null) found.push(slug)
+  }
+  return found
 }
 
-export function composingIn(root: string, at: string): Reached {
+export function groupsIn(index: Answering): readonly Group[] {
+  const found: Group[] = []
+  for (const listed of index.everyOfType(GROUP)) {
+    const slug = namedAt(index, listed.id, SLUG)
+    if (slug === null) continue
+    for (const id of index.idsNaming(listed.id, WRITES)) {
+      const propertySlug = namedAt(index, id, PROPERTY_SLUG)
+      if (propertySlug === null) continue
+      found.push({ slug, propertySlug, pageTypeSlugs: carriedBy(index, listed.id) })
+    }
+  }
+  return found
+}
+
+export function groupAt(page: string, slug: string): string | null {
+  return besideAt(page, slug + ENDING + CODE, HOLDS)
+}
+
+export function writingIn(root: string, at: string): Reached {
   let held: Record<string, unknown>
   try {
     held = loadFrom(join(root, at)) as Record<string, unknown>
   } catch (thrown) {
     return { missing: thrown instanceof Error ? thrown.message : String(thrown) }
   }
-  const named = held[COMPOSES]
-  if (typeof named !== "function") return { missing: "it answers to no `" + COMPOSES + "`" }
-  return { composing: named as Composing }
+  const named = held[ANSWERS]
+  if (typeof named !== "function") return { missing: "it answers to no `" + ANSWERS + "`" }
+  return { writing: named as Writing }
 }
 
 type Answered = { readonly written: string } | { readonly missing: string }
 
-function writtenBy(composing: Composing, reading: Reading): Answered {
+function writtenBy(writing: Writing, reading: Reading): Answered {
   try {
-    return { written: composing(reading) }
+    return { written: writing(reading) }
   } catch (thrown) {
     return { missing: thrown instanceof Error ? thrown.message : String(thrown) }
   }
 }
 
-export function composedOver(
+function over(
+  group: Group,
+  pageTypeSlug: string,
   change: Change,
   shadow: Shadow,
   reading: Reading,
-  reaching: Reaching = composingIn
-): Composed {
-  const edits: (Adding | Replacing)[] = []
-  const said: string[] = []
-  for (const listed of shadow.index.everyOfType(RECIPE)) {
+  reaching: Reaching,
+  edits: (Adding | Replacing)[],
+  said: string[]
+): undefined {
+  const kept = "` keeps a `" + group.slug + "` group"
+  for (const listed of shadow.index.everyOfType(pageTypeSlug)) {
     const value = shadow.pageOf(listed.path)
     if (value === null) continue
     const slug = value[SLUG]
     if (typeof slug !== "string") continue
-    const beside = composingAt(listed.path)
+    const beside = groupAt(listed.path, group.slug)
     if (beside === null) continue
     if (change.after(beside) === null) continue
+    let path: string
+    try {
+      path = fileOf(reading, { path: listed.path, value }, pageTypeSlug, group.propertySlug)
+    } catch (thrown) {
+      said.push(
+        "`" +
+          slug +
+          kept +
+          ", and the file that group writes has no name — " +
+          (thrown instanceof Error ? thrown.message : String(thrown))
+      )
+      continue
+    }
     const at = shadow.codeAt(beside)
     if (at === null) {
       said.push(
         "`" +
           slug +
-          "` keeps a composing group this change writes, and a group is run off the checkout, so `" +
-          recipeAt(listed.path) +
-          "` is composed again on the next landing rather than this one"
+          kept +
+          " this change writes, and a group is run off the checkout, so `" +
+          path +
+          "` is written again on the next landing rather than this one"
       )
       continue
     }
     const reached = reaching(change.root, at)
     if ("missing" in reached) {
-      said.push(
-        "`" +
-          slug +
-          "` keeps a composing group, and `" +
-          beside +
-          "` gave none — " +
-          reached.missing
-      )
+      said.push("`" + slug + kept + ", and `" + beside + "` gave none — " + reached.missing)
       continue
     }
-    const answered = writtenBy(reached.composing, reading)
+    const answered = writtenBy(reached.writing, reading)
     if ("missing" in answered) {
-      said.push(
-        "`" + slug + "` keeps a composing group, and `" + beside + "` broke — " + answered.missing
-      )
+      said.push("`" + slug + kept + ", and `" + beside + "` broke — " + answered.missing)
       continue
     }
-    const path = recipeAt(listed.path)
     const was = textOf(change.after(path))
     if (was === answered.written) continue
     edits.push(
@@ -121,29 +169,44 @@ export function composedOver(
     )
     said.push("`" + path + "` was written again by the group `" + slug + "` keeps")
   }
+}
+
+export function writtenOver(
+  change: Change,
+  shadow: Shadow,
+  reading: Reading,
+  reaching: Reaching = writingIn
+): Written {
+  const edits: (Adding | Replacing)[] = []
+  const said: string[] = []
+  for (const group of groupsIn(shadow.index)) {
+    for (const pageTypeSlug of group.pageTypeSlugs) {
+      over(group, pageTypeSlug, change, shadow, reading, reaching, edits, said)
+    }
+  }
   return { edits, said }
 }
 
-export function couldCompose(change: Change): boolean {
+export function couldWrite(change: Change): boolean {
   for (const path of change.changed) {
-    if (basename(path) === WRITTEN) return true
     if (partedIn(path) !== null) return true
+    if (!basename(path).includes(ENDING)) return true
   }
   return false
 }
 
-export function recipesFor(change: Change): Composed {
+export function bodiesFor(change: Change): Written {
   try {
-    if (!couldCompose(change)) return NOTHING_COMPOSED
+    if (!couldWrite(change)) return NOTHING_WRITTEN
     const cast = shadowFor(change)
     if ("refused" in cast)
-      return { edits: [], said: ["no recipe was composed again — " + cast.refused] }
-    return composedOver(change, cast.shadow, cast.reading)
+      return { edits: [], said: ["no group wrote its file again — " + cast.refused] }
+    return writtenOver(change, cast.shadow, cast.reading)
   } catch (thrown) {
     return {
       edits: [],
       said: [
-        "no recipe was composed again — " +
+        "no group wrote its file again — " +
           (thrown instanceof Error ? thrown.message : String(thrown)),
       ],
     }

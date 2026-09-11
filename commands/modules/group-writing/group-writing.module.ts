@@ -5,29 +5,41 @@ export const groupWriting = {
   pageTypeSlug: "module",
   type: "module",
   slug: "group-writing",
-  definition: "the recipe a container recipe's composing group writes beside that page",
+  definition: "the file a page's module property group writes beside that page",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A recipe is written by a machine rather than composed by an agent.",
+      statement: "A file a group writes is written by a machine rather than by an agent.",
     },
     {
       invariantKind: "departure",
-      statement: "Every container recipe keeping a composing group is reached.",
+      statement: "A group is named by the file property whose file that group writes.",
     },
     {
       invariantKind: "departure",
-      statement: "A container recipe keeping no composing group has nothing run for it.",
+      statement: "A page type carrying a group is read from the index rather than named here.",
     },
     {
       invariantKind: "departure",
-      statement: "A group sits beside its page as that page's `composing` section.",
+      statement: "Every page keeping a group a file property names is reached.",
     },
     {
       invariantKind: "departure",
-      statement: "A group writes the one recipe beside the page keeping that group.",
+      statement: "A page keeping no group has nothing run for it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A group sits beside its page as that page's section named for the group.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A group writes the one file the property naming that group names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The file a group writes is named by that property rather than by the group.",
     },
     {
       invariantKind: "departure",
@@ -39,19 +51,19 @@ export const groupWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A recipe already with the body that would be written again is left out.",
+      statement: "A file already with the body that would be written again is left out.",
     },
     {
       invariantKind: "departure",
-      statement: "A hand edit to a recipe is written over rather than kept.",
+      statement: "A hand edit to a file a group writes is written over rather than kept.",
     },
     {
       invariantKind: "departure",
-      statement: "The recipes are composed again only where the change could turn what they hold.",
+      statement: "The files are written again only where the change could turn what they hold.",
     },
     {
       invariantKind: "departure",
-      statement: "A change carrying a page or a recipe could turn what a recipe holds.",
+      statement: "A change carrying a page or a file with no ending could turn what a file holds.",
     },
     {
       invariantKind: "departure",
@@ -64,6 +76,14 @@ export const groupWriting = {
     {
       invariantKind: "absence",
       statement: "Nothing here writes a file.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No group is named here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No page type carrying a group is named here.",
     },
     {
       invariantKind: "departure",

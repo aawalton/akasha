@@ -71,11 +71,11 @@ export const changePreparing = {
     {
       invariantKind: "departure",
       statement:
-        "The composed recipes are worked out before the hold is taken alongside those five.",
+        "The files the groups write are worked out before the hold is taken alongside those five.",
     },
     {
       invariantKind: "departure",
-      statement: "A container recipe's group composes that recipe on the one landing.",
+      statement: "A page's group writes that page's file on the one landing.",
     },
     {
       invariantKind: "departure",

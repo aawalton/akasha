@@ -9,7 +9,7 @@ import { textIn } from "akasha/code-system/body-text/body-text.module.code.ts"
 import { formattedBody } from "akasha/code-system/code-format/code-format.module.code.ts"
 import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
 import { unexportableIn } from "akasha/commands/modules/export-naming/export-naming.module.code.ts"
-import { recipesFor } from "akasha/commands/modules/group-writing/group-writing.module.code.ts"
+import { bodiesFor } from "akasha/commands/modules/group-writing/group-writing.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { changeOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { lockingFor } from "akasha/commands/modules/manifest-locking/manifest-locking.module.code.ts"
@@ -141,19 +141,19 @@ export function preparing(
   const stepped = steppedFor(change)
   const globbed = globbedFor(change)
   const typed = typesFor(change)
-  const composed = recipesFor(change)
+  const written = bodiesFor(change)
   const added = [
     ...locking.edits,
     ...stepped.edits,
     ...globbed.edits,
     ...typed.edits,
-    ...composed.edits,
+    ...written.edits,
   ]
   return {
     formatting,
     authored: rows,
     changes: [...rows, ...added],
-    said: [...locking.said, ...stepped.said, ...globbed.said, ...typed.said, ...composed.said],
+    said: [...locking.said, ...stepped.said, ...globbed.said, ...typed.said, ...written.said],
     over: added.length === 0 ? change : null,
   }
 }
