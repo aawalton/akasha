@@ -5,7 +5,7 @@ export const checkMeasuring = {
   pageTypeSlug: "module",
   type: "module",
   slug: "check-measuring",
-  definition: "the processor time and memory the runs of one group of a check's logs took",
+  definition: "what a check's runs took and how many bodies share a rule with another file",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -253,6 +253,33 @@ export const checkMeasuring = {
     {
       invariantKind: "absence",
       statement: "Nothing here writes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule spelt in a second file is counted once for each file spelling it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A count under one folder says how many of its own refusals pair with a file outside it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count taken inside one folder alone is blind to the pairs reaching outside it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A total is answered with the commit it was taken at and the unit it counts.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every file handed over is read where no-rule-in-two-files reads the paths the index names.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "No count here is the count no-rule-in-two-files answers with, each being an upper bound.",
     },
   ],
 } as const satisfies Module

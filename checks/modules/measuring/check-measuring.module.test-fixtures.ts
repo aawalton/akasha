@@ -3,7 +3,7 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
-import type { CheckCost, Chosen, Costs } from "./check-measuring.module.code.ts"
+import type { CheckCost, Chosen, Costs, Ruled, Tally } from "./check-measuring.module.code.ts"
 
 export const ENTRIES = "entries"
 
@@ -109,4 +109,27 @@ export function costsOf(checks: readonly CheckCost[]): Costs {
 
 export function spacedOnce(said: string | undefined): string {
   return (said ?? "").replace(/\s+/g, " ")
+}
+
+export const SHA = "abc1234"
+
+export const WITHIN = "temper/"
+
+export const RULED: readonly Ruled[] = [
+  { path: "temper/one/a.ts", name: "a", rule: "$0 => $0 + 1" },
+  { path: "temper/two/b.ts", name: "b", rule: "$0 => $0 + 1" },
+  { path: "utils/three/c.ts", name: "c", rule: "$0 => $0 + 1" },
+  { path: "temper/four/d.ts", name: "d", rule: "$0 => $0 * 2" },
+  { path: "temper/five/e.ts", name: "e", rule: "$0 => $0 * 2" },
+  { path: "temper/six/f.ts", name: "f", rule: "$0 => $0 - 3" },
+]
+
+export const TALLIED: Tally = { at: SHA, refused: 5, within: 4, outward: 2, files: 4 }
+
+const SPELT =
+  "export function one(a: number): number {\n  return a + 1\n}\n\nexport function two(a: number): number {\n  return one(a)\n}\n"
+
+export function ruledRoot(root: string): string {
+  put(root, "one.ts", SPELT)
+  return root
 }

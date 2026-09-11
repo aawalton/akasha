@@ -1,5 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { speltIn } from "akasha/code-system/code-rule/code-rule.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { columnsOf } from "../../../commands/pages/measure/repo/checkout-counting/checkout-counting.module.code.ts"
@@ -375,4 +376,75 @@ export function linesOf(costs: Costs, named: string = CHECK): readonly string[] 
   const said = [...columnsOf(rows)]
   if (costs.unread.length > 0) said.push("", UNREAD, ...costs.unread)
   return said
+}
+
+export interface Ruled {
+  readonly path: string
+  readonly name: string
+  readonly rule: string
+}
+
+export interface Tally {
+  readonly at: string
+  readonly refused: number
+  readonly within: number
+  readonly outward: number
+  readonly files: number
+}
+
+function filesOf(ruled: readonly Ruled[]): ReadonlyMap<string, ReadonlySet<string>> {
+  const found = new Map<string, Set<string>>()
+  for (const one of ruled) {
+    const had = found.get(one.rule)
+    if (had === undefined) found.set(one.rule, new Set([one.path]))
+    else had.add(one.path)
+  }
+  return found
+}
+
+export function ruledIn(root: string, paths: readonly string[]): readonly Ruled[] {
+  const found: Ruled[] = []
+  for (const at of paths) {
+    let text = ""
+    try {
+      text = readFileSync(join(root, at), "utf8")
+    } catch {
+      continue
+    }
+    for (const one of speltIn(at, text)) {
+      if (!one.forwards) found.push({ path: at, name: one.name, rule: one.rule })
+    }
+  }
+  return found
+}
+
+export function sharedIn(ruled: readonly Ruled[]): readonly Ruled[] {
+  const files = filesOf(ruled)
+  return ruled.filter((one) => (files.get(one.rule)?.size ?? 0) > 1)
+}
+
+export function tallyOf(ruled: readonly Ruled[], at: string, under: string): Tally {
+  const files = filesOf(ruled)
+  const shared = sharedIn(ruled)
+  const within = shared.filter((one) => one.path.startsWith(under))
+  const outward = within.filter((one) =>
+    [...(files.get(one.rule) ?? [])].some((each) => !each.startsWith(under))
+  )
+  return {
+    at,
+    refused: shared.length,
+    within: within.length,
+    outward: outward.length,
+    files: new Set(within.map((one) => one.path)).size,
+  }
+}
+
+export function tallyLinesOf(tally: Tally, under: string): readonly string[] {
+  return [
+    `${tally.at} is the commit this was taken at`,
+    `${tally.refused} bodies share a rule with another file across the tree`,
+    `${tally.within} of those are under ${under}`,
+    `${tally.outward} of those pair with a file outside ${under}`,
+    `${tally.files} distinct files under ${under}`,
+  ]
 }

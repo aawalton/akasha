@@ -10,8 +10,11 @@ import {
   meanOf,
   ONE_RUN,
   rankedOf,
+  ruledIn,
   runsIn,
   secondsAs,
+  tallyLinesOf,
+  tallyOf,
   totalOf,
   windowIn,
   withinOf,
@@ -27,12 +30,17 @@ import {
   lineOf,
   NOW,
   ONE,
+  RULED,
   rowsBeside,
   rowsInto,
+  ruledRoot,
+  SHA,
   spacedOnce,
+  TALLIED,
   THREE,
   TWO,
   unreadableInto,
+  WITHIN,
 } from "./check-measuring.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
@@ -428,4 +436,13 @@ test("a root holding no checks answers no check rather than throwing", () => {
     total: { runs: 0, cpu: null, paths: 0, refusals: 0 },
     unread: [],
   })
+})
+
+test("a count under one folder is blind to the pairs reaching outside it", () => {
+  expect(tallyOf(RULED, SHA, WITHIN)).toEqual(TALLIED)
+  expect(tallyLinesOf(TALLIED, WITHIN)[0]).toBe("abc1234 is the commit this was taken at")
+})
+
+test("a body only passing names along carries no rule", () => {
+  expect(ruledIn(ruledRoot(scratch.rootFor("ruled-")), ["one.ts"])[0]?.name).toBe("one")
 })
