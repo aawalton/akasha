@@ -1,4 +1,4 @@
-import type { Refusal } from "../refusal.page-type.types.ts"
+import type { Refusal } from "akasha/checks/refusals/refusal.page-type.types.ts"
 
 export const pageSelectStatesNoValues = {
   id: "01a06611-399a-7600-89a3-ad040075a315",

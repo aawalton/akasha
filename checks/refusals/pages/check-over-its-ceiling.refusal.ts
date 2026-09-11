@@ -1,4 +1,4 @@
-import type { Refusal } from "../refusal.page-type.types.ts"
+import type { Refusal } from "akasha/checks/refusals/refusal.page-type.types.ts"
 
 export const checkOverItsCeiling = {
   id: "01a08bc2-733c-7796-9be5-c9a2c9ed9d98",

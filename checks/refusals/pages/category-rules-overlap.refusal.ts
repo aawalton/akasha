@@ -1,4 +1,4 @@
-import type { Refusal } from "../refusal.page-type.types.ts"
+import type { Refusal } from "akasha/checks/refusals/refusal.page-type.types.ts"
 
 export const categoryRulesOverlap = {
   id: "01a06611-3982-7d35-aeaf-83c657727992",

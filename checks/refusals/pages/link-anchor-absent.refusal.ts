@@ -1,4 +1,4 @@
-import type { Refusal } from "../refusal.page-type.types.ts"
+import type { Refusal } from "akasha/checks/refusals/refusal.page-type.types.ts"
 
 export const linkAnchorAbsent = {
   id: "01a06611-398a-74b9-896d-d291af9e399c",
