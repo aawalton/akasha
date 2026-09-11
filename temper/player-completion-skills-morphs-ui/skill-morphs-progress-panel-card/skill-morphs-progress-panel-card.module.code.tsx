@@ -11,18 +11,18 @@ import {
   createNodeFilter,
   withActivityCategories,
 } from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
+import { skillLineCategoriesSorted } from "akasha/temper/skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
+import {
+  getSkillLineIdsForClass,
+  type SkillLineId,
+  skillLines,
+} from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
 import type {
   CharacterSkillMorphProgress,
   MorphableSkillDetail,
 } from "akasha/temper/skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
 import { morphableSkillLineIds } from "akasha/temper/skill-morphs/morphable-skills/morphable-skills.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
-import { skillLineCategoriesSorted } from "../../skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
-import {
-  getSkillLineIdsForClass,
-  type SkillLineId,
-  skillLines,
-} from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 
 interface SkillMorphsProgressPanelCardProps {
   id?: CharacterCardId
