@@ -1,4 +1,4 @@
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ACTIVE,
   answeredCall,
@@ -23,8 +23,6 @@ import type {
   BuyRule,
   BuySource,
 } from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
-
-const CALLED_AS = "akasha temper-inventory-buy-rule-create"
 
 const ITEM_ID = "--item-id"
 
@@ -79,6 +77,9 @@ async function made(held: ReadonlyMap<string, string>): Promise<Answer> {
   }
 }
 
-export async function temperInventoryBuyRuleCreate(argv: readonly string[] = []): Promise<Answer> {
-  return await answeredCall(argv, CALLED_AS, SHAPE, made)
+export async function temperInventoryBuyRuleCreate(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  return await answeredCall(argv, given.calledAs, SHAPE, made)
 }

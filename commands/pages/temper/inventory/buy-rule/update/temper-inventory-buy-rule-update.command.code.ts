@@ -1,4 +1,4 @@
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ACTIVE,
   answeredCall,
@@ -24,8 +24,6 @@ import type {
   BuySource,
 } from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
 
-const CALLED_AS = "akasha temper-inventory-buy-rule-update"
-
 const TARGET = "--target"
 
 const SOURCE = "--source"
@@ -39,7 +37,11 @@ const SHAPE = shapeOf([...CHANGES, FORCE], {
   namesARule: true,
 })
 
-async function changed(id: string, held: ReadonlyMap<string, string>): Promise<Answer> {
+async function changed(
+  id: string,
+  held: ReadonlyMap<string, string>,
+  calledAs: string
+): Promise<Answer> {
   const said = held.get(SOURCE)
   let source: BuySource | undefined
   if (said !== undefined) {
@@ -61,7 +63,7 @@ async function changed(id: string, held: ReadonlyMap<string, string>): Promise<A
   }
   if (Object.keys(patch).length === 0) {
     return refusing(
-      `\`${CALLED_AS}\` names no field to change — it changes ${named(CHANGES)}`,
+      `\`${calledAs}\` names no field to change — it changes ${named(CHANGES)}`,
       INPUT
     )
   }
@@ -76,6 +78,11 @@ async function changed(id: string, held: ReadonlyMap<string, string>): Promise<A
   return toldOf((next.buyRules ?? []).find((one) => one.id === id) ?? rule)
 }
 
-export async function temperInventoryBuyRuleUpdate(argv: readonly string[] = []): Promise<Answer> {
-  return await answeredCall(argv, CALLED_AS, SHAPE, (held, id) => changed(id, held))
+export async function temperInventoryBuyRuleUpdate(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  return await answeredCall(argv, given.calledAs, SHAPE, (held, id) =>
+    changed(id, held, given.calledAs)
+  )
 }
