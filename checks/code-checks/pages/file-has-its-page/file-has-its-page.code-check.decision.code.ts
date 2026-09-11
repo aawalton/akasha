@@ -1,4 +1,5 @@
 import { dirname, join } from "node:path"
+import { folderOf } from "akasha/code-system/code-path-between/code-path-between.module.code.ts"
 import {
   pageOf,
   partedIn,
@@ -21,7 +22,17 @@ export function reservedBeside(path: string): string | null {
 }
 
 export function claimingIn(shadow: Shadow): Claiming {
-  return (path) => shadow.index.listedByPath(reservedBeside(path) ?? path).length > 0
+  const held = new Map<string, boolean>()
+  const filed = (at: string): boolean => shadow.index.listedByPath(at).length > 0
+  const inside = (folder: string): boolean => {
+    if (folder === "") return false
+    const found = held.get(folder)
+    if (found !== undefined) return found
+    const made = filed(folder) || inside(folderOf(folder))
+    held.set(folder, made)
+    return made
+  }
+  return (path) => filed(reservedBeside(path) ?? path) || inside(folderOf(path))
 }
 
 export function unclaimedAt(path: string, claimed: Claiming): readonly string[] {

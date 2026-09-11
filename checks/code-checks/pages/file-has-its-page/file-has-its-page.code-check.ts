@@ -60,6 +60,10 @@ export const fileHasItsPage = {
       invariantKind: "departure",
       statement: "A path the change takes away is passed over.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A file inside a folder a page claims is claimed by that page.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },

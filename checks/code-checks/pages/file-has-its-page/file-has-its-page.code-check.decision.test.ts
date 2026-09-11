@@ -21,6 +21,10 @@ const HELD_SECRET = "akasha/a/held.module.sops.yaml"
 
 const STRAY = "akasha/a/stray.ts"
 
+const BUILT = "akasha/a/www"
+
+const INSIDE_BUILT = "akasha/a/www/assets/held.js"
+
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
@@ -45,6 +49,15 @@ test("whether a page claims a path is one read of what the index files at that p
   claiming(root, HELD, HELD, ID)
   const claimed = claimingIn(shadowAt(root))
   expect(claimed(HELD)).toBe(true)
+  expect(claimed(STRAY)).toBe(false)
+})
+
+test("a file inside a folder a page claims is claimed by that page", () => {
+  const root = scratch.rootFor("akasha-file-has-its-page-folder-")
+  noPathsFiled(root)
+  claiming(root, BUILT, HELD, ID)
+  const claimed = claimingIn(shadowAt(root))
+  expect(claimed(INSIDE_BUILT)).toBe(true)
   expect(claimed(STRAY)).toBe(false)
 })
 

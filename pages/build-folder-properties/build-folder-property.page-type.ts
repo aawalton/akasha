@@ -23,10 +23,6 @@ export const buildFolderProperty = {
     },
     {
       invariantKind: "gap",
-      statement: "The check asking which page claims a file reads this property.",
-    },
-    {
-      invariantKind: "gap",
       statement: "A change moving a folder leaves out the folders this property names.",
     },
     {
