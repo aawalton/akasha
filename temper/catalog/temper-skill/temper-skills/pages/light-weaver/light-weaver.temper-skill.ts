@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const lightWeaver = {
   id: "019e6245-a6bb-7c45-a518-fbc94c45bff6",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "light-weaver",
   title: "Light Weaver",

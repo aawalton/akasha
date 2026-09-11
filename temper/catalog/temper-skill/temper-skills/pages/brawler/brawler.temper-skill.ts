@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const brawler = {
   id: "019e6226-00da-73ba-b733-71ae9a655794",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "brawler",
   title: "Brawler",

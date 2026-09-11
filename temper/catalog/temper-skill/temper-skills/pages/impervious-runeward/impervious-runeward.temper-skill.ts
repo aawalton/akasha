@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const imperviousRuneward = {
   id: "019e6245-a6b0-74ad-a17b-03dd6782ba35",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "impervious-runeward",
   title: "Impervious Runeward",

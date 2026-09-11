@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const engulfingDragonfire = {
   id: "019e6245-a66e-769d-9adb-b0fb20d4dcce",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "engulfing-dragonfire",
   title: "Engulfing Dragonfire",

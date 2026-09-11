@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const crystalFragments = {
   id: "019e6245-a629-7674-aadd-1c7eba5fbc90",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "crystal-fragments",
   title: "Crystal Fragments",

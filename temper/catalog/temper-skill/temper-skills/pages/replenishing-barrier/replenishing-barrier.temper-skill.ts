@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const replenishingBarrier = {
   id: "019e6251-4cde-7425-99db-785246611405",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "replenishing-barrier",
   title: "Replenishing Barrier",

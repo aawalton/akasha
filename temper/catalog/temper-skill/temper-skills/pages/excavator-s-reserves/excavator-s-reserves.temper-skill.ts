@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const excavatorSReserves = {
   id: "019e6f53-a1b5-7ef8-ab27-4ccd1bdcccd8",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "excavator-s-reserves",
   title: "Excavator's Reserves",

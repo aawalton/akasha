@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const crystallizedSlab = {
   id: "019e6245-a62c-73a4-8477-60070130a472",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "crystallized-slab",
   title: "Crystallized Slab",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const amplitude31422 = {
   id: "019e6f53-9eac-7296-a17a-9f2489019f3d",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "amplitude-31422",
   title: "Amplitude",

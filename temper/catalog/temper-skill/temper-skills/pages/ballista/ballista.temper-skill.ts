@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const ballista = {
   id: "019e6226-00d3-7c11-8ece-4dace3a9f553",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "ballista",
   title: "Ballista",

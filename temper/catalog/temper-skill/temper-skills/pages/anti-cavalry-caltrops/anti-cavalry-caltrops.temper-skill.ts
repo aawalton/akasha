@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const antiCavalryCaltrops = {
   id: "019e6251-4c83-71c8-8b2d-ab1c84f380dc",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "anti-cavalry-caltrops",
   title: "Anti-Cavalry Caltrops",

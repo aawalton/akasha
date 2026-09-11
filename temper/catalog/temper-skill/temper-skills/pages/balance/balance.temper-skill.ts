@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const balance = {
   id: "019e6238-c295-752c-9366-c71e75ae39bd",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "balance",
   title: "Balance",

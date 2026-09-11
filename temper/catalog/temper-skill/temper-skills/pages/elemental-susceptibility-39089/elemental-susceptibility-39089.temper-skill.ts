@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const elementalSusceptibility39089 = {
   id: "019e6f53-a126-7680-83f6-803cf43254ed",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "elemental-susceptibility-39089",
   title: "Elemental Susceptibility",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const executioner38819 = {
   id: "019e6f53-a1ba-79c6-b9a1-fffdda5602c7",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "executioner-38819",
   title: "Executioner",

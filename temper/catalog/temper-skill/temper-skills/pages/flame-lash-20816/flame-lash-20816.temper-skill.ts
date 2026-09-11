@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const flameLash20816 = {
   id: "019e6f53-a203-732e-be37-37eda729124d",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "flame-lash-20816",
   title: "Flame Lash",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const glyphicOfTheTides = {
   id: "019e6245-a693-7c43-80cb-a5249f3ca2ad",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "glyphic-of-the-tides",
   title: "Glyphic of the Tides",

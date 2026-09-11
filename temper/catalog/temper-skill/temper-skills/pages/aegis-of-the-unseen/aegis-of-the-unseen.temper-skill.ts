@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const aegisOfTheUnseen = {
   id: "019e6245-a5e7-75e0-986b-a13cb79931ab",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "aegis-of-the-unseen",
   title: "Aegis of the Unseen",

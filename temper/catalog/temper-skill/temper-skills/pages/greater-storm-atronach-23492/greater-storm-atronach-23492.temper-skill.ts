@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const greaterStormAtronach23492 = {
   id: "019e6f53-a2a8-70bc-acc8-7c64c901bff5",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "greater-storm-atronach-23492",
   title: "Greater Storm Atronach",

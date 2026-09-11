@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const criticalCharge = {
   id: "019e6f53-a035-7736-8071-908d23594fbe",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "critical-charge",
   title: "Critical Charge",

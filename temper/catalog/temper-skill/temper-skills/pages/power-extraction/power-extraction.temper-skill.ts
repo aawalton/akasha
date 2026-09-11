@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const powerExtraction = {
   id: "019e6245-a6e8-74e6-a848-8378274bb86b",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "power-extraction",
   title: "Power Extraction",

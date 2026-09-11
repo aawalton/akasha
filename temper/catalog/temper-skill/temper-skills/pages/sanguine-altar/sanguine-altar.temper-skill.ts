@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const sanguineAltar = {
   id: "019e6238-c306-7a6a-8ee4-6bbf73ecb212",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "sanguine-altar",
   title: "Sanguine Altar",

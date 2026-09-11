@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const feed = {
   id: "019e6251-4cb6-750c-bde3-1df3eb687d2c",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "feed",
   title: "Feed",

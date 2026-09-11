@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const remoteTotem118380 = {
   id: "019e6f53-a5f0-74f1-ad91-39c618007891",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "remote-totem-118380",
   title: "Remote Totem",

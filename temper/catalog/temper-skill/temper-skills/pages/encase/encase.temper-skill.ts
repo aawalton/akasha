@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const encase = {
   id: "019e6f53-a155-784d-9413-116bddbec291",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "encase",
   title: "Encase",

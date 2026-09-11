@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const capacitor31419 = {
   id: "019e6f53-9fb3-7c38-89e8-8336235d7be4",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "capacitor-31419",
   title: "Capacitor",

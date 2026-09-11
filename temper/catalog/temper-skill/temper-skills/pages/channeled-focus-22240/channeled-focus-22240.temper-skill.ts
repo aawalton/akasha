@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const channeledFocus22240 = {
   id: "019e6f53-9fd8-7dc1-8f29-07229ff70240",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "channeled-focus-22240",
   title: "Channeled Focus",

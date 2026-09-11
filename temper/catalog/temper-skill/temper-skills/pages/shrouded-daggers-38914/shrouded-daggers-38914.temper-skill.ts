@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const shroudedDaggers38914 = {
   id: "019e6f53-a710-771e-bb7d-222c25c41887",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "shrouded-daggers-38914",
   title: "Shrouded Daggers",

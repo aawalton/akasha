@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const riteOfPassage = {
   id: "019e6f53-a65a-7dae-b0c6-37c9bd76c556",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "rite-of-passage",
   title: "Rite of Passage",

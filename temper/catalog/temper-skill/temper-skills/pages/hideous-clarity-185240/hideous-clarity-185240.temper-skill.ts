@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const hideousClarity185240 = {
   id: "019e6f53-a318-7dab-8688-0f8918dd61ea",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "hideous-clarity-185240",
   title: "Hideous Clarity",

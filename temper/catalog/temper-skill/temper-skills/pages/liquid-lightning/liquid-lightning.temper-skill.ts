@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const liquidLightning = {
   id: "019e6245-a6bd-7e1d-8e9e-66a3272191a5",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "liquid-lightning",
   title: "Liquid Lightning",

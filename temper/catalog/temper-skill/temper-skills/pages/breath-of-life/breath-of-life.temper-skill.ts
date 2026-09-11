@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const breathOfLife = {
   id: "019e6245-a606-7e0b-9275-9d52f1a6bb1d",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "breath-of-life",
   title: "Breath of Life",

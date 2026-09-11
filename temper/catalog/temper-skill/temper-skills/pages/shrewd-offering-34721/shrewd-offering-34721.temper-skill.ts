@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const shrewdOffering34721 = {
   id: "019e6f53-a70d-72fa-8f22-7a0fd4ac12a2",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "shrewd-offering-34721",
   title: "Shrewd Offering",

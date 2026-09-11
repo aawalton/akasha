@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const hemorrhage = {
   id: "019e6245-a6a3-7f87-9a00-6dd90defcfd5",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "hemorrhage",
   title: "Hemorrhage",

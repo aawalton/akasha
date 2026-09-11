@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const monarch = {
   id: "019e6251-4cd1-7e7f-ae85-54034cf01779",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "monarch",
   title: "Monarch",

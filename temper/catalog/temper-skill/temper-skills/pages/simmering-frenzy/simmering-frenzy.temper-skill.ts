@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const simmeringFrenzy = {
   id: "019e6251-4cea-7829-b402-eab4185e76fc",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "simmering-frenzy",
   title: "Simmering Frenzy",

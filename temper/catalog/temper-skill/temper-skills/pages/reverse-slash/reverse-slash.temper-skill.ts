@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const reverseSlash = {
   id: "019e6f53-a646-7d61-968c-aece92ac4624",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "reverse-slash",
   title: "Reverse Slash",

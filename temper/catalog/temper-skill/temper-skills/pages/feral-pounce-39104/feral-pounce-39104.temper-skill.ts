@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const feralPounce39104 = {
   id: "019e6f53-a1ee-799f-a5da-d3f3d9d648ae",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "feral-pounce-39104",
   title: "Feral Pounce",

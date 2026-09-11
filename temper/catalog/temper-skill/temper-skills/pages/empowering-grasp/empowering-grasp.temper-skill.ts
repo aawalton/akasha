@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const empoweringGrasp = {
   id: "019e6245-a663-7705-ac0b-3ff651f649d1",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "empowering-grasp",
   title: "Empowering Grasp",

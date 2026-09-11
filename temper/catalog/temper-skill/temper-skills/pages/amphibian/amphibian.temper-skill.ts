@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const amphibian = {
   id: "019e624a-12bc-7a6e-8568-3957e36c03d4",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "amphibian",
   title: "Amphibian",

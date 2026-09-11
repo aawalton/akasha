@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const defensiveStance38312 = {
   id: "019e6f53-a0b4-70b8-b18c-9e172d835498",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "defensive-stance-38312",
   title: "Defensive Stance",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const reverseSlice = {
   id: "019e6226-0110-776e-a7b6-3f7d84607c71",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "reverse-slice",
   title: "Reverse Slice",

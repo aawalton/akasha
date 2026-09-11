@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const concentratedBarrier103888 = {
   id: "019e6f53-a00f-7ad2-8cfc-89c66971b0d1",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "concentrated-barrier-103888",
   title: "Concentrated Barrier",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const relentlessFocus = {
   id: "019e6245-a707-76a4-8088-06cd5417c764",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "relentless-focus",
   title: "Relentless Focus",

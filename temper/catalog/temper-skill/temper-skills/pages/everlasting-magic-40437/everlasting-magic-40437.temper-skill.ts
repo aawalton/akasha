@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const everlastingMagic40437 = {
   id: "019e6f53-a1a9-7083-9f21-eb0a7cf483ad",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "everlasting-magic-40437",
   title: "Everlasting Magic",

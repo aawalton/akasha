@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const cruxweaverArmor185908 = {
   id: "019e6f53-a046-7232-bd8d-a7cdca187b08",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "cruxweaver-armor-185908",
   title: "Cruxweaver Armor",

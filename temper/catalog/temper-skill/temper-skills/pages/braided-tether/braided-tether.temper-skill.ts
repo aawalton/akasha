@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const braidedTether = {
   id: "019e6245-a605-7df1-9f8d-5535b4a2a704",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "braided-tether",
   title: "Braided Tether",

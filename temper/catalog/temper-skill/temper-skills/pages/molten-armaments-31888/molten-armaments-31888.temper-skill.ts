@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const moltenArmaments31888 = {
   id: "019e6f53-a491-7821-abc6-58347e96eeb2",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "molten-armaments-31888",
   title: "Molten Armaments",

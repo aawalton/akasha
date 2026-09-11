@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const healingWard40126 = {
   id: "019e6f53-a2ef-7d64-a80e-b7579614d1e0",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "healing-ward-40126",
   title: "Healing Ward",

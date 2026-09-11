@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const grippingShards86165 = {
   id: "019e6f53-a2b9-7ad7-95e1-4c4767176813",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "gripping-shards-86165",
   title: "Gripping Shards",

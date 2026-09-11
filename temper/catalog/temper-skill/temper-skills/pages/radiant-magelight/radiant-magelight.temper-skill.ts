@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const radiantMagelight = {
   id: "019e6238-c2fb-7990-9efa-a51cfe115fc5",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "radiant-magelight",
   title: "Radiant Magelight",

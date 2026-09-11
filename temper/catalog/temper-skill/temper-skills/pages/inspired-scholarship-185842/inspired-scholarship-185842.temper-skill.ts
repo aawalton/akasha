@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const inspiredScholarship185842 = {
   id: "019e6f53-a382-75f7-8cce-b0f5cf689402",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "inspired-scholarship-185842",
   title: "Inspired Scholarship",

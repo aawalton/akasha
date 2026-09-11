@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const advancedSpecies86068 = {
   id: "019e6f53-9e99-7d50-a393-5ea31db151d9",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "advanced-species-86068",
   title: "Advanced Species",

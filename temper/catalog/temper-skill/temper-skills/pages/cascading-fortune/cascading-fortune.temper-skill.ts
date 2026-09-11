@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const cascadingFortune = {
   id: "019e6245-a610-73bd-93f8-0b8b44e5636f",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "cascading-fortune",
   title: "Cascading Fortune",

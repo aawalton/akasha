@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const ritualOfRetribution = {
   id: "019e6245-a715-7407-a98c-a25124443ff3",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "ritual-of-retribution",
   title: "Ritual of Retribution",

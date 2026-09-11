@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const fanTheFlames = {
   id: "019e6f53-a1dd-70da-8a44-c5bc310c2585",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "fan-the-flames",
   title: "Fan the Flames",

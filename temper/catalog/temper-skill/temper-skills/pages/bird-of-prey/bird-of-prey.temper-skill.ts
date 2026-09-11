@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const birdOfPrey = {
   id: "019e6245-a5f7-7251-9262-2ce8e8776426",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "bird-of-prey",
   title: "Bird of Prey",

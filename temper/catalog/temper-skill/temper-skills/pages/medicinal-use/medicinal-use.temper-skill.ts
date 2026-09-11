@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const medicinalUse = {
   id: "019e6224-cca2-7b34-8b49-5d7f4eacebf8",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "medicinal-use",
   title: "Medicinal Use",

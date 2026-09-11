@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const corrosiveArmor17878 = {
   id: "019e6f53-a028-761e-a9fa-32a564b36db0",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "corrosive-armor-17878",
   title: "Corrosive Armor",

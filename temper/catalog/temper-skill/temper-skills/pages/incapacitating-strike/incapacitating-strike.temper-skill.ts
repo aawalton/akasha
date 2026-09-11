@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const incapacitatingStrike = {
   id: "019e6245-a6b2-74c3-bf6c-43e9ea7edcda",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "incapacitating-strike",
   title: "Incapacitating Strike",

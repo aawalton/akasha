@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const destructionExpert30965 = {
   id: "019e6f53-a0bf-7707-b454-2531c070ab4d",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "destruction-expert-30965",
   title: "Destruction Expert",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const corruptingPollen85845 = {
   id: "019e6f53-a02c-729f-bee7-fce731d0ba94",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "corrupting-pollen-85845",
   title: "Corrupting Pollen",

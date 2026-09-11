@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const lifeGiver = {
   id: "019e6226-00fe-72c0-9154-50e842b5355e",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "life-giver",
   title: "Life Giver",

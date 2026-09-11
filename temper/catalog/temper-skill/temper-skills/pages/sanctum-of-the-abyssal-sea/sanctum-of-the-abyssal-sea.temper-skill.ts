@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const sanctumOfTheAbyssalSea = {
   id: "019e6245-a721-7a85-b085-25fe581626c6",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "sanctum-of-the-abyssal-sea",
   title: "Sanctum of the Abyssal Sea",

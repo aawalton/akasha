@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const resistantFlesh = {
   id: "019e6245-a70d-7b81-826f-6aa954b6837c",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "resistant-flesh",
   title: "Resistant Flesh",

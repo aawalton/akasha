@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const healingSprings40060 = {
   id: "019e6f53-a2e5-77e8-add6-a7c5afb7c1de",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "healing-springs-40060",
   title: "Healing Springs",

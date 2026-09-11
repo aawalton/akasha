@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const flyingBlade38910 = {
   id: "019e6f53-a21b-79a8-b715-ec64448d72f7",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "flying-blade-38910",
   title: "Flying Blade",

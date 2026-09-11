@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const battlefieldMobility = {
   id: "019e6226-00d5-76c0-a467-2b322f11eab2",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "battlefield-mobility",
   title: "Battlefield Mobility",

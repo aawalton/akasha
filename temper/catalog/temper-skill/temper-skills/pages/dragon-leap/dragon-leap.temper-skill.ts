@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const dragonLeap = {
   id: "019e6f53-a0e5-7595-ba78-0c8095515409",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "dragon-leap",
   title: "Dragon Leap",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const howlOfDespair58742 = {
   id: "019e6f53-a32b-7de1-890d-0be8d8e61245",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "howl-of-despair-58742",
   title: "Rip and Tear",

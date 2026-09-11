@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const bindingJavelin26804 = {
   id: "019e6f53-9f0b-73bb-acac-d23fe932d176",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "binding-javelin-26804",
   title: "Binding Javelin",

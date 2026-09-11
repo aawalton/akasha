@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const refreshingPath = {
   id: "019e6245-a704-737f-af23-91b34f6ff5b8",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "refreshing-path",
   title: "Refreshing Path",

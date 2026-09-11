@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const lapidaryResearch = {
   id: "019e6224-cca0-7d78-9613-3d740e708b4f",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "lapidary-research",
   title: "Lapidary Research",

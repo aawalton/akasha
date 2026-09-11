@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const defensiveRune = {
   id: "019e6245-a64f-7846-8263-d944e7bc09cb",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "defensive-rune",
   title: "Defensive Rune",

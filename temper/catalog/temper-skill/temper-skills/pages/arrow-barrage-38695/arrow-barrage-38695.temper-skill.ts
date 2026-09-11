@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const arrowBarrage38695 = {
   id: "019e6f53-9ec3-7db6-9d85-d8ff586fdfbc",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "arrow-barrage-38695",
   title: "Arrow Barrage",

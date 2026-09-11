@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const dualWieldExpert = {
   id: "019e6226-00e8-70bc-a563-a202d9a3cd1b",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "dual-wield-expert",
   title: "Dual Wield Expert",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const massHysteria37470 = {
   id: "019e6f53-a45e-7501-850c-206763ac38dc",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "mass-hysteria-37470",
   title: "Mass Hysteria",

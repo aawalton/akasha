@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const mediumArmorBonuses = {
   id: "019e6238-c2e8-7837-b25e-6c992c67b226",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "medium-armor-bonuses",
   title: "Medium Armor Bonuses",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const grimFocus = {
   id: "019e6f53-a2b2-7810-973d-e5d5f6f167f6",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "grim-focus",
   title: "Grim Focus",

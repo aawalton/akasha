@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const inevitableDetonation = {
   id: "019e6251-4cc7-78cf-8965-d3f9d5ed26e8",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "inevitable-detonation",
   title: "Inevitable Detonation",

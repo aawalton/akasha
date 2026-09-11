@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const lastGasp116271 = {
   id: "019e6f53-a3c1-7f97-8577-25dc2b3585fc",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "last-gasp-116271",
   title: "Last Gasp",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const bitingJabs = {
   id: "019e6245-a5f8-727f-bda8-7293c7ddbed0",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "biting-jabs",
   title: "Biting Jabs",

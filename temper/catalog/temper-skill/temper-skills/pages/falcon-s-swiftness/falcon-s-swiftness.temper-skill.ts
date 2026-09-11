@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const falconSSwiftness = {
   id: "019e6f53-a1db-7dc3-a1a1-e683b0e64e45",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "falcon-s-swiftness",
   title: "Falcon's Swiftness",

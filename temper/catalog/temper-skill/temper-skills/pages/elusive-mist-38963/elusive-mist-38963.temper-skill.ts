@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const elusiveMist38963 = {
   id: "019e6f53-a138-7f2f-8b80-be5d62cba63e",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "elusive-mist-38963",
   title: "Elusive Mist",

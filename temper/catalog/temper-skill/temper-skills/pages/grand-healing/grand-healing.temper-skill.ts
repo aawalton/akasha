@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const grandHealing = {
   id: "019e6f53-a29b-7823-b3c7-60e26907800a",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "grand-healing",
   title: "Grand Healing",

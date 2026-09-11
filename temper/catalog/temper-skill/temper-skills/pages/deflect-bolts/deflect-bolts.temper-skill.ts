@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const deflectBolts = {
   id: "019e6226-00e3-72e9-a75e-070995b32016",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "deflect-bolts",
   title: "Deflect Bolts",

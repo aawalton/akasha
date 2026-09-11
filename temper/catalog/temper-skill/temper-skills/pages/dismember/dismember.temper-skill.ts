@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const dismember = {
   id: "019e6245-a65b-7c32-ad69-185ff2360626",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "dismember",
   title: "Dismember",

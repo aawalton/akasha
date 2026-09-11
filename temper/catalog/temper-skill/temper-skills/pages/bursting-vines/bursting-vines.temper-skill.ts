@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const burstingVines = {
   id: "019e6245-a60d-7e01-b3fe-c177319df201",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "bursting-vines",
   title: "Bursting Vines",

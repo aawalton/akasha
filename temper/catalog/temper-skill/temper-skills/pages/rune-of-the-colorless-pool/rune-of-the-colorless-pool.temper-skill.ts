@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const runeOfTheColorlessPool = {
   id: "019e6245-a719-779c-bc46-f208d58f040e",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "rune-of-the-colorless-pool",
   title: "Rune of the Colorless Pool",

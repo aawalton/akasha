@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const radiantAura = {
   id: "019e6245-a6f7-79fb-b2b9-cc9bb1eca7d8",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "radiant-aura",
   title: "Radiant Aura",

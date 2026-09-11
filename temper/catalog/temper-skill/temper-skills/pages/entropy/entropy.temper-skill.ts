@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const entropy = {
   id: "019e6f53-a194-765d-94b1-fa934697f56c",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "entropy",
   title: "Entropy",

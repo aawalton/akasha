@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const magmaFist = {
   id: "019e6245-a6c6-768f-9a87-cd4897dc6cfc",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "magma-fist",
   title: "Magma Fist",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const hypnosis137861 = {
   id: "019e6f53-a33a-7d91-b6b3-cd97782971fb",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "hypnosis-137861",
   title: "Hypnosis",

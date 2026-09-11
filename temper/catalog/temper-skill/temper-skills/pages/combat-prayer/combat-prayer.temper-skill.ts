@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const combatPrayer = {
   id: "019e6226-00db-7ea7-beab-e07a6aa263c1",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "combat-prayer",
   title: "Combat Prayer",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const intensiveMender = {
   id: "019e6245-a6b4-7496-b358-ad5616f4579f",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "intensive-mender",
   title: "Intensive Mender",

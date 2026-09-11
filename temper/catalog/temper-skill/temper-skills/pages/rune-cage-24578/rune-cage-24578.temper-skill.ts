@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const runeCage24578 = {
   id: "019e6f53-a678-7aa8-aecd-e64e4c8d7fa3",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "rune-cage-24578",
   title: "Rune Cage",

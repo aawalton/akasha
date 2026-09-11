@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const powerStone = {
   id: "019e6245-a6eb-78a8-9776-1f46b6b4d301",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "power-stone",
   title: "Power Stone",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const shadowCloak = {
   id: "019e6f53-a6d8-7b4a-b0b6-d7c23d1ac05a",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "shadow-cloak",
   title: "Shadow Cloak",

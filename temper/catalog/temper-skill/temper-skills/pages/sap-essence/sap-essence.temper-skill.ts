@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const sapEssence = {
   id: "019e6245-a722-7c26-84b8-8443dc1cc304",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "sap-essence",
   title: "Sap Essence",

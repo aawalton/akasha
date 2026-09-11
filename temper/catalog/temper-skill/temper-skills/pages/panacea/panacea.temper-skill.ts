@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const panacea = {
   id: "019e6f53-a4de-791c-9c60-81dea6798c0f",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "panacea",
   title: "Panacea",

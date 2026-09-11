@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const deepFissure86015 = {
   id: "019e6f53-a0a7-7ab0-9af5-b97144521978",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "deep-fissure-86015",
   title: "Deep Fissure",

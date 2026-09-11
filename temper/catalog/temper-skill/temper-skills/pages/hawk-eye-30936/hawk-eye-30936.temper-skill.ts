@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const hawkEye30936 = {
   id: "019e6f53-a2df-7b79-83d6-35db03efef30",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "hawk-eye-30936",
   title: "Hawk Eye",

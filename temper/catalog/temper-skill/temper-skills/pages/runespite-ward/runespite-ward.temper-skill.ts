@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const runespiteWard = {
   id: "019e6f53-a693-725b-9a5e-794fee664f1d",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "runespite-ward",
   title: "Runespite Ward",

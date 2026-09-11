@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const raceAgainstTime = {
   id: "019e6238-c2fa-7b8a-aa47-663b43875c8e",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "race-against-time",
   title: "Race Against Time",

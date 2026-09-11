@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const acidSpray38701 = {
   id: "019e6f53-9e92-706a-b3e8-b896c820a496",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "acid-spray-38701",
   title: "Acid Spray",

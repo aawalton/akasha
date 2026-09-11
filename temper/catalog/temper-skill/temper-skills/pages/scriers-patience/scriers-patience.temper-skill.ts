@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const scriersPatience = {
   id: "019e6251-4ce5-7238-ba7a-e02771800bf0",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "scriers-patience",
   title: "Scrier's Patience",

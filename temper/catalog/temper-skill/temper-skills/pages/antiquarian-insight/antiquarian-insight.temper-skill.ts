@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const antiquarianInsight = {
   id: "019e6251-4c84-7891-981b-e7e6151e0835",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "antiquarian-insight",
   title: "Antiquarian Insight",

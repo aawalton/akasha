@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const keenEyeWood47857 = {
   id: "019e6f53-a3af-779e-a58e-debe882c79cc",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "keen-eye-wood-47857",
   title: "Keen Eye: Wood",

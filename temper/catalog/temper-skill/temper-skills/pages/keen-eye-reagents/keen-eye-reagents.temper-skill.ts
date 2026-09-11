@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const keenEyeReagents = {
   id: "019e6224-cc9c-7aa7-8faf-c41df57dd4eb",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "keen-eye-reagents",
   title: "Keen Eye: Reagents",

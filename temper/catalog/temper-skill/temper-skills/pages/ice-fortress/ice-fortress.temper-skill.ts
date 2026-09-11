@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const iceFortress = {
   id: "019e6245-a6aa-73a2-b2e9-5d96f3a6ace8",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "ice-fortress",
   title: "Ice Fortress",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const radiantOppression = {
   id: "019e6245-a6fa-7259-b4ba-34500bcbac1a",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "radiant-oppression",
   title: "Radiant Oppression",

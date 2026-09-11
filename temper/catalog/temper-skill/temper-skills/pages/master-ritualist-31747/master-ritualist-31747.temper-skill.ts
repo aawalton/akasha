@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const masterRitualist31747 = {
   id: "019e6f53-a463-7ac3-b580-faa75b08f6e5",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "master-ritualist-31747",
   title: "Master Ritualist",

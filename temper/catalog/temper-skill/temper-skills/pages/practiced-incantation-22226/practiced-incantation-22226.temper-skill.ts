@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const practicedIncantation22226 = {
   id: "019e6f53-a538-73af-81db-fd147038dff6",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "practiced-incantation-22226",
   title: "Practiced Incantation",

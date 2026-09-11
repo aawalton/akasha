@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const emeraldMoss85876 = {
   id: "019e6f53-a146-7f0c-949e-cc5803ad3340",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "emerald-moss-85876",
   title: "Emerald Moss",

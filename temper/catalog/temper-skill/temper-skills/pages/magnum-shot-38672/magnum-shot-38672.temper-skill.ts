@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const magnumShot38672 = {
   id: "019e6f53-a44f-7413-ace3-a6da7ce30522",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "magnum-shot-38672",
   title: "Magnum Shot",

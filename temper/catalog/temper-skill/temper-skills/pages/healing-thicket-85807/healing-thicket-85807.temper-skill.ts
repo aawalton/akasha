@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const healingThicket85807 = {
   id: "019e6f53-a2e8-7fdb-9407-49a4fd2d1351",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "healing-thicket-85807",
   title: "Healing Thicket",

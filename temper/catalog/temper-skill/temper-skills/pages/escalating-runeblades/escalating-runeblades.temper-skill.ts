@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const escalatingRuneblades = {
   id: "019e6245-a672-7aa4-8819-5da7bc3c818e",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "escalating-runeblades",
   title: "Escalating Runeblades",

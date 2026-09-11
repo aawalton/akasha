@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const energyOverload24804 = {
   id: "019e6f53-a18e-71f3-bee0-1152daf04ab5",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "energy-overload-24804",
   title: "Energy Overload",

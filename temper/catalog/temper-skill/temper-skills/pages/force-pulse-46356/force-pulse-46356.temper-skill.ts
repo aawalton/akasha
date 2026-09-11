@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const forcePulse46356 = {
   id: "019e6f53-a227-7ebb-9c36-d57308e90fcb",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "force-pulse-46356",
   title: "Force Pulse",

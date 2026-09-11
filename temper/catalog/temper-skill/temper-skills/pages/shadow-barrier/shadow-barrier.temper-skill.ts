@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const shadowBarrier = {
   id: "019e6245-a728-779c-900b-74e2fe075bf2",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "shadow-barrier",
   title: "Shadow Barrier",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const aspectImprovement = {
   id: "019e6224-cc85-7923-b588-97452f5b4634",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "aspect-improvement",
   title: "Aspect Improvement",

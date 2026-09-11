@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const animateBlastbones118379 = {
   id: "019e6f53-9eb2-7141-bc5b-754ad1d0c443",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "animate-blastbones-118379",
   title: "Animate Blastbones",

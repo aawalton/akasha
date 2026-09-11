@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const absorptionField28348 = {
   id: "019e6f53-9e86-7665-8aee-f5a8e0be9f8f",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "absorption-field-28348",
   title: "Absorption Field",

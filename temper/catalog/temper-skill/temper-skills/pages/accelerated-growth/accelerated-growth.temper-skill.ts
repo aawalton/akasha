@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const acceleratedGrowth = {
   id: "019e6245-a5e4-7832-a3c2-c33b06f9349a",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "accelerated-growth",
   title: "Accelerated Growth",

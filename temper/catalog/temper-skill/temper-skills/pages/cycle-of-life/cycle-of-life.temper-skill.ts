@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const cycleOfLife = {
   id: "019e6226-00df-7218-bc92-65cc9a98889c",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "cycle-of-life",
   title: "Cycle of Life",

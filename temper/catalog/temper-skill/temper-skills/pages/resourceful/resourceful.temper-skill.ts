@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const resourceful = {
   id: "019e624a-12d9-79f1-9c01-3fe8bf8d527a",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "resourceful",
   title: "Resourceful",

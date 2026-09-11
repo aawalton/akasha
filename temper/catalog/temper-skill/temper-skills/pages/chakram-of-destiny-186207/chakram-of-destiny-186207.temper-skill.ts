@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const chakramOfDestiny186207 = {
   id: "019e6f53-9fd1-74b0-b90f-0dc29688612c",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "chakram-of-destiny-186207",
   title: "Chakram of Destiny",

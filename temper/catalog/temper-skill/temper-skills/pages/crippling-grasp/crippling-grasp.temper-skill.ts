@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const cripplingGrasp = {
   id: "019e6245-a625-75ae-bf5d-6e0e6e398676",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "crippling-grasp",
   title: "Crippling Grasp",

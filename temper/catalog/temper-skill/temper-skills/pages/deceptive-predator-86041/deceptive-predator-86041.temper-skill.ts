@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const deceptivePredator86041 = {
   id: "019e6f53-a0a4-7ef0-ad4e-3548fcbdb9e0",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "deceptive-predator-86041",
   title: "Deceptive Predator",

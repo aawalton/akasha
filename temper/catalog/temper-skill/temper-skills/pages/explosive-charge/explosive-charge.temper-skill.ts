@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const explosiveCharge = {
   id: "019e6245-a67d-701c-9c91-8f2baf789c91",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "explosive-charge",
   title: "Explosive Charge",

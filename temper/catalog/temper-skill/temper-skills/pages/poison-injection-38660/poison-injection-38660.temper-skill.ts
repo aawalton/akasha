@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const poisonInjection38660 = {
   id: "019e6f53-a515-7fa4-aa61-3cebd1b2ece0",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "poison-injection-38660",
   title: "Poison Injection",

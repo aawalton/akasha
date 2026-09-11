@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const drainingShot = {
   id: "019e6226-00e7-7343-91cf-b4af0658144c",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "draining-shot",
   title: "Draining Shot",

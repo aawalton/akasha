@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const absorbMissile = {
   id: "019e6226-00cb-76ab-9ada-41c2cc280f2d",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "absorb-missile",
   title: "Absorb Missile",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const natureSEmbrace = {
   id: "019e6f53-a4ac-7de0-b0b0-62f5f33d3947",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "nature-s-embrace",
   title: "Nature's Embrace",

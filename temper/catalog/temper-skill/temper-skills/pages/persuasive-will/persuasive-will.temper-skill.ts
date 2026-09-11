@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const persuasiveWill = {
   id: "019e6238-c2f5-71d2-b2e4-4738e81cdaaa",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "persuasive-will",
   title: "Persuasive Will",

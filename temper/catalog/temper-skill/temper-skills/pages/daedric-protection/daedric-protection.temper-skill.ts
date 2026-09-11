@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const daedricProtection = {
   id: "019e6245-a632-7d47-8248-e48dd28c0269",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "daedric-protection",
   title: "Daedric Protection",

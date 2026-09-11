@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const moltenWhip20805 = {
   id: "019e6f53-a496-719a-a14a-d4ef82e1a04b",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "molten-whip-20805",
   title: "Molten Whip",

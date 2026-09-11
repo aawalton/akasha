@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const blur = {
   id: "019e6f53-9f64-77d7-96b7-c2df591c6102",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "blur",
   title: "Blur",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const northernStorm = {
   id: "019e6245-a6dc-7763-9ead-2ba3f610bc3a",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "northern-storm",
   title: "Northern Storm",

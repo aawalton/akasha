@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const silverShards40300 = {
   id: "019e6f53-a720-77f4-a635-611c5dd35c14",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "silver-shards-40300",
   title: "Silver Shards",

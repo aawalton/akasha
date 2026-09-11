@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const dilation = {
   id: "019e6251-4ca8-7260-a022-d7d77719c5d0",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "dilation",
   title: "Dilation",

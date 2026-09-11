@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const cripple = {
   id: "019e6f53-a031-79da-b090-ae354ffa60d6",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "cripple",
   title: "Cripple",

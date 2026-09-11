@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const satedFury135841 = {
   id: "019e6f53-a6b1-7736-a460-2b2c488c573c",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "sated-fury-135841",
   title: "Sated Fury",

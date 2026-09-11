@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const glacialPresence = {
   id: "019e6245-a692-7c7c-9ad4-f1056b665456",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "glacial-presence",
   title: "Glacial Presence",

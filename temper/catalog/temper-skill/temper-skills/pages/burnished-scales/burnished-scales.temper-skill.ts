@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const burnishedScales = {
   id: "019e6f53-9fa6-7400-855c-86ba606dfb23",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "burnished-scales",
   title: "Burnished Scales",

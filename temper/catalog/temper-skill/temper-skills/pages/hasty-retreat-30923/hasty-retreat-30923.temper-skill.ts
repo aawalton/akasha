@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const hastyRetreat30923 = {
   id: "019e6f53-a2d8-7ec6-9990-ab419c7498e5",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "hasty-retreat-30923",
   title: "Hasty Retreat",

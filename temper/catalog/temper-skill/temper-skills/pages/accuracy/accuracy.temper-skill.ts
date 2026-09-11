@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const accuracy = {
   id: "019e6226-00cd-7371-9e5d-f4f306c4a22e",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "accuracy",
   title: "Accuracy",

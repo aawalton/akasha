@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const hircineSRage = {
   id: "019e6f53-a31e-7943-b325-f5b99564edc8",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "hircine-s-rage",
   title: "Hircine's Rage",

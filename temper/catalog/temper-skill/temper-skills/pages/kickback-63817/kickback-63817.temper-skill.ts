@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const kickback63817 = {
   id: "019e6f53-a3b2-7a57-9bf6-ede1e5b9d4fb",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "kickback-63817",
   title: "Kickback",

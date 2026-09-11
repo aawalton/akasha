@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const expunge = {
   id: "019e6f53-a1d1-7b9d-9be8-437a95ab4d9c",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "expunge",
   title: "Expunge",

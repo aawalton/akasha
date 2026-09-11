@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const keenEyeRuneStones47851 = {
   id: "019e6f53-a3aa-7828-ba1c-f7a245b4a01e",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "keen-eye-rune-stones-47851",
   title: "Keen Eye: Rune Stones",

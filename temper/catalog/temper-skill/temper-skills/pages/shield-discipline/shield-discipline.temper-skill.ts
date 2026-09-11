@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const shieldDiscipline = {
   id: "019e6226-0112-7258-9b80-cb29c645723c",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "shield-discipline",
   title: "Shield Discipline",

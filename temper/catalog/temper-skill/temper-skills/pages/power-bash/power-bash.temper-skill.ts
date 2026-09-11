@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const powerBash = {
   id: "019e6f53-a51f-757b-8fc2-3980f4221147",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "power-bash",
   title: "Power Bash",

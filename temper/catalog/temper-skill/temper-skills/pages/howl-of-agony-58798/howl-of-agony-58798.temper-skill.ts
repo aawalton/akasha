@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const howlOfAgony58798 = {
   id: "019e6f53-a328-7b8a-bb3d-25a9962ddcb3",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "howl-of-agony-58798",
   title: "Bloody Gnash",

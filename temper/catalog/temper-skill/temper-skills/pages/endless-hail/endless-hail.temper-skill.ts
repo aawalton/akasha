@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const endlessHail = {
   id: "019e6226-00ed-7e44-81a7-47b4f2f7efe3",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "endless-hail",
   title: "Endless Hail",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const abyssalImpact = {
   id: "019e6f53-9e87-7a50-a72d-59cc5b209b3d",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "abyssal-impact",
   title: "Abyssal Impact",

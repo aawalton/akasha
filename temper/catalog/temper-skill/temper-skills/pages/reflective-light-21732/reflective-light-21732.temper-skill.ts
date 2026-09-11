@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const reflectiveLight21732 = {
   id: "019e6f53-a5d7-716e-b418-79772ae62bff",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "reflective-light-21732",
   title: "Reflective Light",

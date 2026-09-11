@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const reverberatingBash38455 = {
   id: "019e6f53-a644-7bf0-84ad-6dfbdc021180",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "reverberating-bash-38455",
   title: "Reverberating Bash",

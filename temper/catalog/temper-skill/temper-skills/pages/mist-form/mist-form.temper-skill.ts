@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const mistForm = {
   id: "019e6f53-a48e-75cf-8b82-c3930a52319f",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "mist-form",
   title: "Mist Form",

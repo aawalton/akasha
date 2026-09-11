@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const aspectOfTerror = {
   id: "019e6f53-9ecb-7f95-a64d-c9b7936077d6",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "aspect-of-terror",
   title: "Aspect of Terror",

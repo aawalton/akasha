@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const elementalForce30962 = {
   id: "019e6f53-a118-77a3-9859-16f48ac8603b",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "elemental-force-30962",
   title: "Elemental Force",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const blueBetty86054 = {
   id: "019e6f53-9f63-7515-96a7-07853911fc48",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "blue-betty-86054",
   title: "Blue Betty",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const intricateRuneforms = {
   id: "019e6245-a6b5-7561-b409-1aeae5fde458",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "intricate-runeforms",
   title: "Intricate Runeforms",

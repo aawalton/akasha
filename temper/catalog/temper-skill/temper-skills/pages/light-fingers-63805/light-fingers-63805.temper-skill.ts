@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const lightFingers63805 = {
   id: "019e6f53-a3f2-7be6-b40c-6c174035821f",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "light-fingers-63805",
   title: "Light Fingers",

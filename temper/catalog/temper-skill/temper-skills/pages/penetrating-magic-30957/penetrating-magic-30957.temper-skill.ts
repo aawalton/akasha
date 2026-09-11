@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const penetratingMagic30957 = {
   id: "019e6f53-a4e6-73e0-80c9-07f6ca96b14c",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "penetrating-magic-30957",
   title: "Penetrating Magic",

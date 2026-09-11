@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const daedricPrey = {
   id: "019e6245-a631-7591-8437-f953d9f9e4da",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "daedric-prey",
   title: "Daedric Prey",

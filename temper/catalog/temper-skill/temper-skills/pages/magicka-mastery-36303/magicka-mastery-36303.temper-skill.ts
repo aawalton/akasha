@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const magickaMastery36303 = {
   id: "019e6f53-a444-7efe-bc02-28b520ad2fef",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "magicka-mastery-36303",
   title: "Magicka Mastery",

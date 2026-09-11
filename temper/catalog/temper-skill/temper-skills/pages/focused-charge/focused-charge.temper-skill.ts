@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const focusedCharge = {
   id: "019e6f53-a21f-7c03-b011-bbc4c94c98a8",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "focused-charge",
   title: "Focused Charge",

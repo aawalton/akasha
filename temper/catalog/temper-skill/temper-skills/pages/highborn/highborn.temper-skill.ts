@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const highborn = {
   id: "019e624a-12cb-7664-8005-72574986fe5b",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "highborn",
   title: "Highborn",

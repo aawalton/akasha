@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const mortalCoil118122 = {
   id: "019e6f53-a49d-7493-809d-fb2846c28b86",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "mortal-coil-118122",
   title: "Mortal Coil",

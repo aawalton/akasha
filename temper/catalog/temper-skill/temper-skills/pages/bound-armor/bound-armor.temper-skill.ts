@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const boundArmor = {
   id: "019e6f53-9f80-73f7-8c23-5a00935f0ab2",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "bound-armor",
   title: "Bound Armor",

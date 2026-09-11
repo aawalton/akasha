@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const masterAssassin = {
   id: "019e6245-a6ca-7f43-b9f3-98f63375c08b",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "master-assassin",
   title: "Master Assassin",

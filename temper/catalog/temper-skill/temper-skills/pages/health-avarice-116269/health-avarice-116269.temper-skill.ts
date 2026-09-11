@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const healthAvarice116269 = {
   id: "019e6f53-a2f3-79e2-afac-ba74610f924d",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "health-avarice-116269",
   title: "Health Avarice",

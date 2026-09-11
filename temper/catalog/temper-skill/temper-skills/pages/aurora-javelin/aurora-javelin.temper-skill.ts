@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const auroraJavelin = {
   id: "019e6245-a5ef-7a5a-955a-d09911ea2dbe",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "aurora-javelin",
   title: "Aurora Javelin",

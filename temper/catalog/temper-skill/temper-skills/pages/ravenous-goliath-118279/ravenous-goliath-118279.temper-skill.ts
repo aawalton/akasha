@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const ravenousGoliath118279 = {
   id: "019e6f53-a5b4-708f-9372-d00748f0c5c5",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "ravenous-goliath-118279",
   title: "Ravenous Goliath",

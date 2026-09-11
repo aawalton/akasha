@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const pierceArmor = {
   id: "019e6226-0102-744e-96a0-d0f1de0cdd1d",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "pierce-armor",
   title: "Pierce Armor",

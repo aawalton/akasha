@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const honorTheDead = {
   id: "019e6245-a6a7-702f-9d79-0bc1dbfd5ede",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "honor-the-dead",
   title: "Honor the Dead",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const frozenColossus = {
   id: "019e6f53-a24e-77d7-99ca-4b0a226fefa0",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "frozen-colossus",
   title: "Frozen Colossus",

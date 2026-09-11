@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const crushingShock = {
   id: "019e6226-00de-7523-bff2-1f6feb729813",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "crushing-shock",
   title: "Crushing Shock",

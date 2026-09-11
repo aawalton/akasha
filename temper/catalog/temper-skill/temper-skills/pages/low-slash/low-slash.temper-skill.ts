@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const lowSlash = {
   id: "019e6f53-a422-772f-9314-596e3468780a",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "low-slash",
   title: "Low Slash",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const chargingManeuver = {
   id: "019e6251-4c97-769c-a0ae-1618ca496454",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "charging-maneuver",
   title: "Charging Maneuver",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const reusableParts116186 = {
   id: "019e6f53-a63d-7c56-b076-e9aab887f674",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "reusable-parts-116186",
   title: "Reusable Parts",

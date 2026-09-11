@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const improvedSneak = {
   id: "019e6238-c2ca-7db7-aa23-2048d0350b65",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "improved-sneak",
   title: "Improved Sneak",

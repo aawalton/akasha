@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const resonatingGlyphic = {
   id: "019e6245-a70e-7db6-8ac8-0ab83ba9319e",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "resonating-glyphic",
   title: "Resonating Glyphic",

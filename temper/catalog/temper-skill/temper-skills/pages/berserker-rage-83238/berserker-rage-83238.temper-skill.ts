@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const berserkerRage83238 = {
   id: "019e6f53-9f03-7871-b8d3-36db52f1f340",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "berserker-rage-83238",
   title: "Berserker Rage",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const rapidRot = {
   id: "019e6245-a6fc-7cf8-b258-19abb44a3a67",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "rapid-rot",
   title: "Rapid Rot",

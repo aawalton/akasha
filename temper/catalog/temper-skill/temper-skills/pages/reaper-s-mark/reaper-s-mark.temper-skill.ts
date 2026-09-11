@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const reaperSMark = {
   id: "019e6f53-a5bd-78f5-8605-b45363ff64ca",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "reaper-s-mark",
   title: "Reaper's Mark",

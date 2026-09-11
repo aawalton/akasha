@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const giftOfMagnus = {
   id: "019e624a-12ca-732b-bda2-e3a5e7e6bf79",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "gift-of-magnus",
   title: "Gift of Magnus",

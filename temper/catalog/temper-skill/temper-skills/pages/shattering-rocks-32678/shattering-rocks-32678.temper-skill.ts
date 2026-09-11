@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const shatteringRocks32678 = {
   id: "019e6f53-a6ee-7edf-acb4-fb92731be620",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "shattering-rocks-32678",
   title: "Shattering Rocks",

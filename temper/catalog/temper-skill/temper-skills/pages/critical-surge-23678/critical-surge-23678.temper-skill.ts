@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const criticalSurge23678 = {
   id: "019e6f53-a03d-750f-a516-2ab238e25a2b",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "critical-surge-23678",
   title: "Critical Surge",

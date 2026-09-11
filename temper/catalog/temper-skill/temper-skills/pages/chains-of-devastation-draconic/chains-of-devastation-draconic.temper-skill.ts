@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const chainsOfDevastationDraconic = {
   id: "019e6245-a616-77c6-a84d-1f83eb12fbc3",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "chains-of-devastation-draconic",
   title: "Chains of Devastation",

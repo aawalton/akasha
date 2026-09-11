@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const farsight = {
   id: "019e6251-4cb4-783d-b1d3-738dbc5f1dfc",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "farsight",
   title: "Farsight",

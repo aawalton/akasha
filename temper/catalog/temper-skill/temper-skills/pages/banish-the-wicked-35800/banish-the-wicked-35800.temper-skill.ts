@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const banishTheWicked35800 = {
   id: "019e6f53-9eea-7a9b-bd7c-21c11175cbe5",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "banish-the-wicked-35800",
   title: "Banish the Wicked",

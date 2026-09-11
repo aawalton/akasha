@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const everlastingSweep = {
   id: "019e6245-a675-7da9-ab6e-949740ab53d8",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "everlasting-sweep",
   title: "Everlasting Sweep",

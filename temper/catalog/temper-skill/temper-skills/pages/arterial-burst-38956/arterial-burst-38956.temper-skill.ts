@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const arterialBurst38956 = {
   id: "019e6f53-9ec7-7d5e-ab8a-6c107c3ef211",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "arterial-burst-38956",
   title: "Arterial Burst",

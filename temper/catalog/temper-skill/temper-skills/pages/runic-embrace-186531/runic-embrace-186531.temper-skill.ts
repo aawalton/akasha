@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const runicEmbrace186531 = {
   id: "019e6f53-a699-7a7e-b5a5-9160ded614d0",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "runic-embrace-186531",
   title: "Runic Embrace",

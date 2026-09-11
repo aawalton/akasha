@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const shuffle39195 = {
   id: "019e6f53-a713-7c0d-8451-91806e516dc4",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "shuffle-39195",
   title: "Shuffle",

@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const degeneration40457 = {
   id: "019e6f53-a0ba-7709-a1ab-6ce962f929ba",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "degeneration-40457",
   title: "Degeneration",

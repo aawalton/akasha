@@ -2,7 +2,6 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const ruination = {
   id: "019e624a-12dc-7ff1-938c-4bea7e83dc1d",
-  pageTypeSlug: "temper-skill",
   type: "temper-skill",
   slug: "ruination",
   title: "Ruination",
