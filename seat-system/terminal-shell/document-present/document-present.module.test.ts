@@ -9,10 +9,14 @@ import {
   shapesStanding,
   standsShell,
 } from "akasha/seat-system/terminal-shell/document-present/document-present.module.code.ts"
+import {
+  A_PERSONA_AT,
+  personAt,
+} from "akasha/seat-system/terminal-shell/document-present/document-present.module.test-fixtures.ts"
 
 describe("a shape", () => {
   test("is the path of a page that is there with its slug blanked out", () => {
-    expect(shapeOf("akasha/persona-system/personas/akasha/akasha.persona.ts", "akasha")).toBe(
+    expect(shapeOf(A_PERSONA_AT, "akasha")).toBe(
       `akasha/persona-system/personas/${SLUG_MARK}/${SLUG_MARK}.persona.ts`
     )
   })
@@ -24,7 +28,7 @@ describe("a shape", () => {
   })
 
   test("blanks a file whose name opens with the slug", () => {
-    expect(shapeOf("akasha/persons/people/pages/alan.person.ts", "alan")).toBe(
+    expect(shapeOf(personAt("alan"), "alan")).toBe(
       `akasha/persons/people/pages/${SLUG_MARK}.person.ts`
     )
   })

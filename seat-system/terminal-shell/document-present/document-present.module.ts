@@ -8,6 +8,7 @@ export const documentPresent = {
   definition: "whether a persona's or a person's document is there, asked in shell by its slug",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
