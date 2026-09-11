@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const audiQ5E2025 = {
   id: "019e4ad8-499b-7c8a-8885-610cb55851a7",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "audi-q5-e-2025",
   title: "2025",

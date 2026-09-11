@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const chevroletSilveradoEv2026 = {
   id: "019e4add-21ca-7074-a701-a484867afdd8",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "chevrolet-silverado-ev-2026",
   title: "2026",

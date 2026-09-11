@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const hondaPrologue2025 = {
   id: "019e4ae1-9fe4-7086-a60f-43e84bdd5779",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "honda-prologue-2025",
   title: "2025",

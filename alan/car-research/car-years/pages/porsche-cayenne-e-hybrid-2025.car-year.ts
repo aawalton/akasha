@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const porscheCayenneEHybrid2025 = {
   id: "019e4af8-e915-72e0-9374-1f4f16eacf1b",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "porsche-cayenne-e-hybrid-2025",
   title: "2025",

@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const subaruTrailseeker2026 = {
   id: "019e4af8-880c-7ba2-88c6-d759021b8d83",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "subaru-trailseeker-2026",
   title: "2026",

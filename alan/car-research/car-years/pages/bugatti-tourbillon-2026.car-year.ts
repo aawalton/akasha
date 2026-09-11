@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const bugattiTourbillon2026 = {
   id: "019e4ad5-d643-7c0c-83a9-45506aeb5804",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "bugatti-tourbillon-2026",
   title: "2026",

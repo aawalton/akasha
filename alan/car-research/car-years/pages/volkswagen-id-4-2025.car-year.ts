@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const volkswagenId42025 = {
   id: "019e4afc-40b3-7186-b974-294734cb1d05",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "volkswagen-id-4-2025",
   title: "2025",

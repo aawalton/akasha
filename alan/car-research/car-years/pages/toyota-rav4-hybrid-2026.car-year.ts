@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const toyotaRav4Hybrid2026 = {
   id: "019e4b01-1cd8-76dc-957d-f321396b8b3f",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "toyota-rav4-hybrid-2026",
   title: "2026",

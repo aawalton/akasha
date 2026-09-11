@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const audiS6SportbackETron2026 = {
   id: "019e4ae2-8e24-7421-a0b6-16af15c0b3b1",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "audi-s6-sportback-e-tron-2026",
   title: "2026",

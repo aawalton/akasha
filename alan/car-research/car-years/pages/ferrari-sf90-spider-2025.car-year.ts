@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const ferrariSf90Spider2025 = {
   id: "019e4adb-b675-77f8-bdef-34d2731c4aac",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "ferrari-sf90-spider-2025",
   title: "2025",

@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const porscheTaycan2025 = {
   id: "019e4af2-5c00-7bfb-a081-e1d35e96b7ee",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "porsche-taycan-2025",
   title: "2025",

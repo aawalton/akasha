@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const hyundaiIoniq5N2026 = {
   id: "019e4ae2-aded-75e0-a80e-0a7373742639",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "hyundai-ioniq-5-n-2026",
   title: "2026",

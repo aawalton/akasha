@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const mercedesBenzMaybachEqsSuv2025 = {
   id: "019e4af2-9df8-77d5-8dde-7e3caa834513",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "mercedes-benz-maybach-eqs-suv-2025",
   title: "2025",

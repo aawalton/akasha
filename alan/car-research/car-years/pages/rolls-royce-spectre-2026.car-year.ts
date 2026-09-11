@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const rollsRoyceSpectre2026 = {
   id: "019e4af6-d30a-7cb4-8a57-18e7922bf25e",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "rolls-royce-spectre-2026",
   title: "2026",

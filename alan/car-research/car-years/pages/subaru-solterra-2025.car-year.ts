@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const subaruSolterra2025 = {
   id: "019e4af7-e191-7389-b9ec-2fdf38715cb3",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "subaru-solterra-2025",
   title: "2025",

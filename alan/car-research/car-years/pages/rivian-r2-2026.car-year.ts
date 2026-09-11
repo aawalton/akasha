@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const rivianR22026 = {
   id: "019e4afb-d72a-7d8c-8512-679c3788c7ae",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "rivian-r2-2026",
   title: "2026",

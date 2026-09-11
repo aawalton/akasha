@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const polestarPolestar42026 = {
   id: "019e4af3-8d5f-7d37-af5d-50e5fd2138b9",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "polestar-polestar-4-2026",
   title: "2026",

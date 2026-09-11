@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const lucidAir2026 = {
   id: "019e4aeb-0eae-7cec-b4c7-f8679566172d",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "lucid-air-2026",
   title: "2026",

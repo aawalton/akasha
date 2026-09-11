@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const mitsubishiOutlanderPhev2026 = {
   id: "019e4af2-c6ed-78b2-9930-68503bbd8464",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "mitsubishi-outlander-phev-2026",
   title: "2026",

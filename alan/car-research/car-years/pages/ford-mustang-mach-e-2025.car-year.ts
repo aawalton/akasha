@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const fordMustangMachE2025 = {
   id: "019e4ade-696b-7883-8cfb-c382fad97e94",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "ford-mustang-mach-e-2025",
   title: "2025",

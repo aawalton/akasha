@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const vinfastVf72026 = {
   id: "019e4afa-fa18-7d81-9295-0fb1e506e77a",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "vinfast-vf-7-2026",
   title: "2026",

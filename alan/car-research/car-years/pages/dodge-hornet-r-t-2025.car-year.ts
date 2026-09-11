@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const dodgeHornetRT2025 = {
   id: "019e4ad9-d66f-747d-a213-549978c87df0",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "dodge-hornet-r-t-2025",
   title: "2025",

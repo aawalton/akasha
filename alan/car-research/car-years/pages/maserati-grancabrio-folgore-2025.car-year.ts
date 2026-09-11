@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const maseratiGrancabrioFolgore2025 = {
   id: "019e4aed-fd7a-7bc0-bf4a-d33487ac955f",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "maserati-grancabrio-folgore-2025",
   title: "2025",

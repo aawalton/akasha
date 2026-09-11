@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const gmcHummerEvSuv2026 = {
   id: "019e4adf-b4c5-7898-a779-be987da45db8",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "gmc-hummer-ev-suv-2026",
   title: "2026",

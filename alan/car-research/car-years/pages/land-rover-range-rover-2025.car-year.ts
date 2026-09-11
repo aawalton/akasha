@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const landRoverRangeRover2025 = {
   id: "019e4ae7-9b20-7ebf-9ced-ac867ba3e936",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "land-rover-range-rover-2025",
   title: "2025",

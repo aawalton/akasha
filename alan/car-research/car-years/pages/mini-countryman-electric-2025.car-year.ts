@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const miniCountrymanElectric2025 = {
   id: "019e4af1-e460-7368-a233-99d84f456339",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "mini-countryman-electric-2025",
   title: "2025",

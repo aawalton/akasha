@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const chryslerPacificaHybrid2026 = {
   id: "019e4ad8-4798-7329-af7f-ca1549a5ca58",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "chrysler-pacifica-hybrid-2026",
   title: "2026",

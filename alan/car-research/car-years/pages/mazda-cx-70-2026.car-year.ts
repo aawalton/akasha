@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const mazdaCx702026 = {
   id: "019e4aed-cfe0-73b6-a4da-69968e877f25",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "mazda-cx-70-2026",
   title: "2026",

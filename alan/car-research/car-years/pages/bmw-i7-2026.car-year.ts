@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const bmwI72026 = {
   id: "019e4adc-71e3-7549-a59b-a4645126736d",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "bmw-i7-2026",
   title: "2026",

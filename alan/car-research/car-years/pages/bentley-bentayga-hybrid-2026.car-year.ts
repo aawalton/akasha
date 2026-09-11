@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const bentleyBentaygaHybrid2026 = {
   id: "019e4ad7-4636-70fa-bb87-414e39997248",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "bentley-bentayga-hybrid-2026",
   title: "2026",

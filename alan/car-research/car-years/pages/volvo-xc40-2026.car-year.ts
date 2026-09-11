@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const volvoXc402026 = {
   id: "019e4afe-f6a0-7e81-9d91-e1b9664ef3c3",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "volvo-xc40-2026",
   title: "2026",

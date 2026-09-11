@@ -2,7 +2,6 @@ import type { CarYear } from "akasha/alan/car-research/car-years/car-year.page-t
 
 export const maseratiGrecaleFolgore2026 = {
   id: "019e4aee-5c78-70ca-bae5-23191f87c171",
-  pageTypeSlug: "car-year",
   type: "car-year",
   slug: "maserati-grecale-folgore-2026",
   title: "2026",
