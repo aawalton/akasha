@@ -1,4 +1,5 @@
 import { dirname } from "node:path"
+import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import { everyOfType, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
@@ -23,10 +24,6 @@ export interface Inference {
 
 export type Read = { readonly services: readonly Inference[] } | { readonly refused: string }
 
-export function slugIn(named: string): string {
-  return named.slice(named.lastIndexOf("/") + 1)
-}
-
 export function runIn(held: unknown): string | null {
   if (!Array.isArray(held)) return null
   const one = held[0]
@@ -34,7 +31,7 @@ export function runIn(held: unknown): string | null {
 }
 
 export function folderOf(root: string, named: string): string | null {
-  const found = listedAt(root, SCRIPT_PAGE_TYPE, slugIn(named))
+  const found = listedAt(root, SCRIPT_PAGE_TYPE, slugIn(named) ?? named)
   const one = found[0]
   return one === undefined ? null : dirname(one.path)
 }

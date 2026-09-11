@@ -5,7 +5,6 @@ import {
   inferenceIn,
   readFor,
   runIn,
-  slugIn,
 } from "akasha/services/inferences/inference-reading/inference-reading.module.code.ts"
 
 const ROOT = process.cwd()
@@ -23,11 +22,6 @@ const WHOLE = {
   internalPort: 18093,
   lifecycle: "pool",
 }
-
-test("a name is read whether or not its page type is spelled before it", () => {
-  expect(slugIn("shell-script/mlx-audio-provision")).toBe("mlx-audio-provision")
-  expect(slugIn("mlx-audio-provision")).toBe("mlx-audio-provision")
-})
 
 test("the one command line a service runs is read, and anything else is none", () => {
   expect(runIn(["a b"])).toBe("a b")
