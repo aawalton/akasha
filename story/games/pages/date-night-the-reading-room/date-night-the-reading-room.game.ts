@@ -1,4 +1,4 @@
-import type { Game } from "../../game.page-type.types.ts"
+import type { Game } from "akasha/story/games/game.page-type.types.ts"
 
 export const dateNightTheReadingRoom = {
   id: "01a0673f-a3d5-7001-b86a-6843424704f7",
