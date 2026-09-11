@@ -63,6 +63,7 @@ const HELD = new Map<string, string>([
   ["calendar-date-property", "string"],
   ["calendar-time-property", "string"],
   ["email-address-property", "string"],
+  ["false-property", "false"],
   ["instant-property", "string"],
   ["number-property", "number"],
   ["page-property-entry", '"jsonl"'],
@@ -70,6 +71,7 @@ const HELD = new Map<string, string>([
   ["process-property", "string"],
   ["standard-agent-english-property", "string"],
   ["text-property", "string"],
+  ["true-property", "true"],
   ["url-property", "string"],
 ])
 
