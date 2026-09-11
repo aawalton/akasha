@@ -141,6 +141,10 @@ export const clusterService = {
       invariantKind: "departure",
       statement: "A cluster service names the manifest page emitting its resources.",
     },
+    {
+      invariantKind: "upkeep",
+      statement: "Every cluster service runs as its page describes.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
