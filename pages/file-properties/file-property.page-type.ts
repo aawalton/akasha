@@ -12,6 +12,7 @@ export const fileProperty = {
     "boolean-property/generated",
     "boolean-property/runs-file-length",
     "text-property/file-name",
+    "boolean-property/tool-resolves-paths",
   ],
   extends: ["page-type/page-property"],
   properties: [
@@ -19,6 +20,7 @@ export const fileProperty = {
     { pageProperty: "boolean-property/generated", required: false, many: false },
     { pageProperty: "boolean-property/runs-file-length", required: false, many: false },
     { pageProperty: "boolean-property/holds-bytes", required: false, many: false },
+    { pageProperty: "boolean-property/tool-resolves-paths", required: false, many: false },
   ],
   invariants: [
     {
