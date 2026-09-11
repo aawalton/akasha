@@ -262,7 +262,22 @@ export function claimedIn(change: Change, index: Answering): (path: string) => b
   return (path) => held.some((one) => one.test(path))
 }
 
-export async function foundIn(change: Change, shadow: Shadow): Promise<readonly Found[]> {
+export function holdingOver(change: Change): Change {
+  const held = new Map<string, Uint8Array | null>()
+  return {
+    ...change,
+    after: (path) => {
+      const found = held.get(path)
+      if (found !== undefined) return found
+      const bytes = change.after(path)
+      held.set(path, bytes)
+      return bytes
+    },
+  }
+}
+
+export async function foundIn(given: Change, shadow: Shadow): Promise<readonly Found[]> {
+  const change = holdingOver(given)
   const reached = rootsOf(change, shadow.index)
   const orphaned = orphanedIn(change, shadow.index)
   if (reached.length === 0 && orphaned.length === 0) return []

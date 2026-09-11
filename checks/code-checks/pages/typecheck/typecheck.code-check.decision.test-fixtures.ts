@@ -1,10 +1,11 @@
-import { mkdirSync, symlinkSync } from "node:fs"
+import { mkdirSync, rmSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
 import {
   orphanedIn,
   reachedBy,
   refusalsOver,
 } from "akasha/checks/code-checks/pages/typecheck/typecheck.code-check.decision.code.ts"
+import { onDisk } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import {
   bodied,
   change,
@@ -351,4 +352,43 @@ export function moving(): Change {
     [MOVED_CODE_AT]: PERSONS,
     [READER_AT]: readsFrom("@akasha/persons"),
   })
+}
+
+const RACING_AT = "akasha/one.ts"
+
+const RACED_NAME = "two.ts"
+
+export const RACED_AT = "akasha/two.ts"
+
+const RACING: Readonly<Record<string, string>> = {
+  [RACING_AT]: "export const one = 1\n",
+  [RACED_AT]: 'import { one } from "./one.ts"\nexport const two: string = one\n',
+}
+
+export function vanishing(): Change {
+  const root = staged(RACING)
+  const disk = onDisk(root)
+  let taken = false
+  return {
+    root,
+    changed: [RACING_AT],
+    before: disk,
+    after: (path) => {
+      const bytes = disk(path)
+      if (path === RACED_AT && !taken) {
+        taken = true
+        rmSync(join(root, path))
+      }
+      return bytes
+    },
+  }
+}
+
+export function shut(): Change {
+  const root = staged(RACING)
+  const at = join(root, RACED_AT)
+  rmSync(at)
+  symlinkSync(RACED_NAME, at)
+  const disk = onDisk(root)
+  return { root, changed: [RACING_AT], before: disk, after: disk }
 }

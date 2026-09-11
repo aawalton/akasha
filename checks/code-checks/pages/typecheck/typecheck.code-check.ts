@@ -156,6 +156,19 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
+      statement: "Every body a run reads is read once and held for the rest of that run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file taken away after that read is judged on the body that read got.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body the change cannot be read for at all refuses the run rather than the file.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Each file judged is judged as the change would leave that file.",
     },
     {
