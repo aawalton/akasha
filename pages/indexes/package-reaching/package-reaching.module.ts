@@ -61,7 +61,11 @@ export const packageReaching = {
     {
       invariantKind: "departure",
       statement:
-        "A settle is answered from the paths the index names and the paths the change has.",
+        "A settle is answered from the manifests the index names and the paths the change has.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A settle reads no path the change leaves alone.",
     },
     {
       invariantKind: "departure",

@@ -149,9 +149,11 @@ export function reachingSettled(
   const claimed = held.flatMap((one) =>
     one.now === null ? [under(repo, one.path)] : pathsOf(one.now, one.path, repo, filedBy)
   )
-  return reachingIn(
-    [...everyPath(given), ...bodies.keys(), ...claimed],
-    fileProperties,
+  return reachingOf(
+    [
+      ...manifestsBeside(given, fileProperties),
+      ...manifestsIn([...bodies.keys(), ...claimed], fileProperties),
+    ],
     bodiesOver(repo, bodies)
   )
 }
