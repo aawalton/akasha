@@ -65,6 +65,10 @@ export function joinedContinuations(command: string): string {
   return command.replace(CONTINUED, " ")
 }
 
+export function bodiesOpenedBy(line: string): readonly string[] {
+  return [...line.matchAll(OPENING_A_BODY)].map((said) => said[2] ?? "")
+}
+
 export function pastHeredocs(command: string): string {
   const text = joinedContinuations(command)
   const lines: string[] = []
@@ -75,7 +79,7 @@ export function pastHeredocs(command: string): string {
       continue
     }
     lines.push(line)
-    owed = [...line.matchAll(OPENING_A_BODY)].map((said) => said[2] ?? "")
+    owed = bodiesOpenedBy(line)
   }
   return owed.length > 0 ? text : lines.join("\n")
 }

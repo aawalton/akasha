@@ -67,6 +67,10 @@ export const blockAkashaShellWrites = {
     },
     {
       invariantKind: "departure",
+      statement: "A call a heredoc body carries is data rather than a call.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A read through a program is not parted from a write through the program.",
     },
     {

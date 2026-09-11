@@ -5,6 +5,7 @@ import { parseHookPayload } from "akasha/agents/hooks/answer/hook-answer.module.
 import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
 import {
   basenameOf,
+  bodiesOpenedBy,
   calledWords,
   dequoted,
   joinedContinuations,
@@ -79,8 +80,6 @@ const READING_IN = /^\d*<{1,3}-?(?!>)(.*)$/
 
 const SPELLED = /[A-Za-z0-9_.~+@/-]+/g
 
-const HEREDOC = /<<-?\s*['"]?([A-Za-z_][A-Za-z0-9_]*)['"]?/
-
 const QUOTES = new Set(["'", '"'])
 
 const SEPARATORS = new Set(["\n", ";", "|", "&"])
@@ -99,11 +98,6 @@ function parseReadIn(word: string): string | null {
 
 function parseOutFile(word: string): string | null {
   const read = CAPTURED.safeParse(OUT_FILE.exec(word))
-  return read.success ? read.data[1] : null
-}
-
-function parseHeredocEnd(one: string): string | null {
-  const read = CAPTURED.safeParse(HEREDOC.exec(one))
   return read.success ? read.data[1] : null
 }
 
@@ -271,10 +265,25 @@ export function rawCallsIn(command: string): readonly string[] {
   return found.map((one) => one.trim()).filter((one) => one !== "")
 }
 
+export function bodiedCalls(calls: readonly string[]): ReadonlySet<number> {
+  const inside = new Set<number>()
+  let owed: readonly string[] = []
+  for (let at = 0; at < calls.length; at += 1) {
+    const one = calls[at] ?? ""
+    if (owed.length > 0) {
+      inside.add(at)
+      if (one === owed[0]) owed = owed.slice(1)
+      continue
+    }
+    owed = bodiesOpenedBy(one)
+  }
+  return owed.length > 0 ? new Set<number>() : inside
+}
+
 export function programHandedIn(calls: readonly string[], at: number): string {
   const one = calls[at] ?? ""
-  const ends = parseHeredocEnd(one)
-  if (ends === null) return one
+  const ends = bodiesOpenedBy(one)[0]
+  if (ends === undefined) return one
   let text = one
   for (let next = at + 1; next < calls.length; next += 1) {
     const line = calls[next] ?? ""
@@ -286,8 +295,10 @@ export function programHandedIn(calls: readonly string[], at: number): string {
 
 export function programLandingsIn(command: string): readonly Landing[] {
   const calls = rawCallsIn(command)
+  const bodied = bodiedCalls(calls)
   const found: Landing[] = []
   for (let at = 0; at < calls.length; at += 1) {
+    if (bodied.has(at)) continue
     const head = calledWords(segmentsOf(calls[at] ?? "")[0] ?? "")[0]
     if (head === undefined) continue
     const tool = basenameOf(head)
