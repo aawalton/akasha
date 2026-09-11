@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const sylASlimeMonsterEvolutionLitrpg = {
   id: "01a0657d-ada5-7229-928f-5e5cbe5a0eeb",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "syl-a-slime-monster-evolution-litrpg",
   title: "Syl [A Slime Monster Evolution LitRPG]",

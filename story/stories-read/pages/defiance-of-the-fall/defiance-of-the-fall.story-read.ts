@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const defianceOfTheFall = {
   id: "01a0657d-ada1-71cf-9695-e2b395d29c5d",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "defiance-of-the-fall",
   title: "Defiance of the Fall",

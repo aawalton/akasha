@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression = {
   id: "01a0657d-ada2-7972-8aa7-7cb45de35c8b",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression",
   title: "Every Trope Everywhere All At Once [LitRPG, Progression, Comedy, Adventure]",

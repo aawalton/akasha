@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const underworldBreadMageYuriProgfanSliceOfLife = {
   id: "01a0657d-ada6-7d02-a100-be8daecc6e4f",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life",
   title: "Underworld Bread Mage [Yuri, Progfan, Slice of Life]",

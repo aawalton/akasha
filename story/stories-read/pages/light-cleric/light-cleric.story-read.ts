@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const lightCleric = {
   id: "01a0657d-ada3-77ee-b67e-e37f1d1f46c2",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "light-cleric",
   title: "Light Cleric",

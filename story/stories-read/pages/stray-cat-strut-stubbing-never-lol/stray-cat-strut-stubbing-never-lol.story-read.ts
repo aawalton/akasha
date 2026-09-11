@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const strayCatStrutStubbingNeverLol = {
   id: "01a0657d-ada5-731a-ae82-bf3c949041cb",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "stray-cat-strut-stubbing-never-lol",
   ownProgress: 10375,

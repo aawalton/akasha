@@ -2,7 +2,6 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entries/story-wiki-entry.
 
 export const deepStep = {
   id: "01a0657d-bb95-7c63-b2ce-cb2ca1532963",
-  pageTypeSlug: "story-wiki-entry",
   type: "story-wiki-entry",
   slug: "deep-step",
   title: "Deep-Step",

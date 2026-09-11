@@ -2,7 +2,6 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entries/story-wiki-entry.
 
 export const theCompany = {
   id: "01a0657d-bb96-7b10-b7ec-4b51cff80a4f",
-  pageTypeSlug: "story-wiki-entry",
   type: "story-wiki-entry",
   slug: "the-company",
   title: "The Company",

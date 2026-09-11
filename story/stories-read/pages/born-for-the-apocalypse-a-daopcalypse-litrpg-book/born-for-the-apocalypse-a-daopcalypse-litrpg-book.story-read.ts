@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const bornForTheApocalypseADaopcalypseLitrpgBook = {
   id: "01a0657d-ada1-767e-8a4e-ae07544371b8",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   title: "Born for the Apocalypse",

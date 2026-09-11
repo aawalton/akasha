@@ -2,7 +2,6 @@ import type { StoryDesign } from "akasha/story/designs/story-design.page-type.ty
 
 export const theTower = {
   id: "01a0657d-bb8e-764d-a24a-103a24ed8e84",
-  pageTypeSlug: "story-design",
   type: "story-design",
   slug: "the-tower",
   title: "The Tower — story design",

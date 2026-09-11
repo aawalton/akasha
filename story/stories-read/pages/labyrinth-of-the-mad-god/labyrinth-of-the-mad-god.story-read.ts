@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const labyrinthOfTheMadGod = {
   id: "01a0657d-ada3-7df0-af01-1d499717e474",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "labyrinth-of-the-mad-god",
   title: "Labyrinth of the Mad God",

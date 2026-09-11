@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const bewareOfChicken = {
   id: "01a0657d-ada1-7d41-8abe-7a5a057563a6",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "beware-of-chicken",
   title: "Beware Of Chicken",

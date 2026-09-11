@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const journeyToVeresavirFantasyLitrpg = {
   id: "01a0657d-ada3-7657-9e6e-06f125c86bcb",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "journey-to-veresavir-fantasy-litrpg",
   title: "Journey to Veresavir [Fantasy LitRPG]",

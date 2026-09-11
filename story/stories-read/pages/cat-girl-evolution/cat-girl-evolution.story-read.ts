@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const catGirlEvolution = {
   id: "01a0657d-ada1-79cb-b4b1-b6be3202e080",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "cat-girl-evolution",
   rank: "C",

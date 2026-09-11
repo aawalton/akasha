@@ -2,7 +2,6 @@ import type { StoryPlayed } from "akasha/story/stories-played/story-played.page-
 
 export const theDungeonOfOneThousandDeaths = {
   id: "01a06425-4433-77dd-868e-5f9db9a63774",
-  pageTypeSlug: "story-played",
   type: "story-played",
   slug: "the-dungeon-of-one-thousand-deaths",
   title: "The Dungeon of One Thousand Deaths",

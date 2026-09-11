@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const rebornAsADemonicTree = {
   id: "01a0657d-ada4-786e-a739-b34fd02c3f16",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "reborn-as-a-demonic-tree",
   title: "Reborn as a Demonic Tree",

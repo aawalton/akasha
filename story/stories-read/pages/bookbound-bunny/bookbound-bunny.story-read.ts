@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const bookboundBunny = {
   id: "01a0657d-ada1-7a0f-9ae2-92b48e2e440b",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "bookbound-bunny",
   unit: "words",

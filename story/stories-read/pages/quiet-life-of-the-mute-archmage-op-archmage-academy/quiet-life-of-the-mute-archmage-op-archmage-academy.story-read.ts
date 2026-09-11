@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const quietLifeOfTheMuteArchmageOpArchmageAcademy = {
   id: "01a0657d-ada4-7ed2-a5aa-31d90e265fa3",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   author: "P_Magno",

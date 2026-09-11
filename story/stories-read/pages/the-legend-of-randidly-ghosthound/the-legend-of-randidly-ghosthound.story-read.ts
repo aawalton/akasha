@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const theLegendOfRandidlyGhosthound = {
   id: "01a0657d-ada5-7cb1-95d5-3d35fdc8e985",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "the-legend-of-randidly-ghosthound",
   title: "The Legend of Randidly Ghosthound",

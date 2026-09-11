@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const hellDifficultyTutorial = {
   id: "01a0657d-ada2-774a-87ea-ada8dec311ba",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "hell-difficulty-tutorial",
   title: "Hell Difficulty Tutorial",

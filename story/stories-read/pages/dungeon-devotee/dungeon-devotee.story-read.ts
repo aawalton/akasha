@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const dungeonDevotee = {
   id: "01a0657d-ada2-77ae-9bca-4062ead98716",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "dungeon-devotee",
   title: "Dungeon Devotee",

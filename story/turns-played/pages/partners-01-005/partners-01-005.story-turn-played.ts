@@ -2,7 +2,6 @@ import type { StoryTurnPlayed } from "akasha/story/turns-played/story-turn-playe
 
 export const partners01005 = {
   id: "01a064bd-7ccb-7b0c-90f0-f02624d9ccb5",
-  pageTypeSlug: "story-turn-played",
   type: "story-turn-played",
   slug: "partners-01-005",
   partOfCollections: ["story-played/partners"],

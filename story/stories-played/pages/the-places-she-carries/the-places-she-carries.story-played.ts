@@ -2,7 +2,6 @@ import type { StoryPlayed } from "akasha/story/stories-played/story-played.page-
 
 export const thePlacesSheCarries = {
   id: "01a06425-4433-7707-9285-e9cd0605b866",
-  pageTypeSlug: "story-played",
   type: "story-played",
   slug: "the-places-she-carries",
   title: "The Places She Carries",

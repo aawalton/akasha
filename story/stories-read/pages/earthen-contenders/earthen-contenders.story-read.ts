@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const earthenContenders = {
   id: "01a0657d-ada7-7641-8425-09cf3f2ddd39",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "earthen-contenders",
   title: "Earthen Contenders",

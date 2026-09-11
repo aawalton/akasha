@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const theWhisperingCrystals = {
   id: "01a0657d-ada7-7551-964d-40211676105d",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "the-whispering-crystals",
   title: "The Whispering Crystals",

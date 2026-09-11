@@ -2,7 +2,6 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entries/story-wiki-entry.
 
 export const floor1TheCharnelDen = {
   id: "01a0657d-bb97-7b62-b42b-0b6bd64a7acf",
-  pageTypeSlug: "story-wiki-entry",
   type: "story-wiki-entry",
   slug: "floor-1-the-charnel-den",
   title: "Floor 1 — The Charnel Den",

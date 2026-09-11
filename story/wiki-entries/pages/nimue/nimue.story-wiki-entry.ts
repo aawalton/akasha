@@ -2,7 +2,6 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entries/story-wiki-entry.
 
 export const nimue = {
   id: "01a0657d-bb97-7be4-81e0-56e20296e8b2",
-  pageTypeSlug: "story-wiki-entry",
   type: "story-wiki-entry",
   slug: "nimue",
   title: "Nimue",

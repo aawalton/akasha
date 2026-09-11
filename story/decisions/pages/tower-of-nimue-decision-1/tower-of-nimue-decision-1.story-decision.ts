@@ -2,7 +2,6 @@ import type { StoryDecision } from "akasha/story/decisions/story-decision.page-t
 
 export const towerOfNimueDecision1 = {
   id: "01a0657d-bb97-75c4-b3f7-848f7b2d62fb",
-  pageTypeSlug: "story-decision",
   type: "story-decision",
   slug: "tower-of-nimue-decision-1",
   title: "Decision #1 — The Anchor (Ch.1): The Seer",

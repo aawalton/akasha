@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const bushidoOnline = {
   id: "01a0657d-ada7-7bf6-afc7-afc7fee36604",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "bushido-online",
   title: "Bushido Online",

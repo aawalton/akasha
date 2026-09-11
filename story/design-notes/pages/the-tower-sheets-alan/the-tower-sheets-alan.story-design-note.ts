@@ -2,7 +2,6 @@ import type { StoryDesignNote } from "akasha/story/design-notes/story-design-not
 
 export const theTowerSheetsAlan = {
   id: "01a0657d-bb98-7a31-be71-ec2944c00866",
-  pageTypeSlug: "story-design-note",
   type: "story-design-note",
   slug: "the-tower-sheets-alan",
   title: "alan",

@@ -2,7 +2,6 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entries/story-wiki-entry.
 
 export const theHarvestAndTheConversion = {
   id: "01a0657d-bb98-7638-a452-0b186aa1913f",
-  pageTypeSlug: "story-wiki-entry",
   type: "story-wiki-entry",
   slug: "the-harvest-and-the-conversion",
   title: "The Harvest & the Conversion (The Dead Are Inventory)",

@@ -2,7 +2,6 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entries/story-wiki-entry.
 
 export const theFoundingCampTheBoundGround = {
   id: "01a0657d-bb95-7e3b-ada9-9a68e3e281ae",
-  pageTypeSlug: "story-wiki-entry",
   type: "story-wiki-entry",
   slug: "the-founding-camp-the-bound-ground",
   title: "The Founding Camp (the bound ground)",

@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const roadToMastery = {
   id: "01a0657d-ada7-7e22-9741-d053cd61f736",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "road-to-mastery",
   title: "Road to Mastery",

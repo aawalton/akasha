@@ -2,7 +2,6 @@ import type { StoryDesignNote } from "akasha/story/design-notes/story-design-not
 
 export const theTowerDesign = {
   id: "01a0657d-bb98-72fd-b666-aef3426e8c6b",
-  pageTypeSlug: "story-design-note",
   type: "story-design-note",
   slug: "the-tower-design",
   title: "The Tower — LitRPG immersion experiment (aura-coordinated)",

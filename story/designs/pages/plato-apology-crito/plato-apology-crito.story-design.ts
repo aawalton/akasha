@@ -2,7 +2,6 @@ import type { StoryDesign } from "akasha/story/designs/story-design.page-type.ty
 
 export const platoApologyCrito = {
   id: "01a0657d-bb8d-7b92-a031-b037bbba81cf",
-  pageTypeSlug: "story-design",
   type: "story-design",
   slug: "plato-apology-crito",
   title: "Plato: Apology, Crito — story design",

@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const incrementalTortureAnIdleSystemTowerClimbing = {
   id: "01a0657d-ada3-7e31-8631-daf42dee54af",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "incremental-torture-an-idle-system-tower-climbing",
   title: "Incremental Torture",

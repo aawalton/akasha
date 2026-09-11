@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const systemGirlSystemMcWorldHoppingComedy = {
   id: "01a0657d-ada5-7638-97a1-adc2b888f303",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "system-girl-system-mc-world-hopping-comedy",
   rank: "C",

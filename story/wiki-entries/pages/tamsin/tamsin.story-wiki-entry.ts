@@ -2,7 +2,6 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entries/story-wiki-entry.
 
 export const tamsin = {
   id: "01a0657d-bb96-77c8-a18d-593d6508ccac",
-  pageTypeSlug: "story-wiki-entry",
   type: "story-wiki-entry",
   slug: "tamsin",
   title: "Tamsin",

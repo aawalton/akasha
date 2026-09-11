@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const shapeshifterANonHumanLitrpg = {
   id: "01a0657d-ada4-74a6-b60b-8f13554a7bb0",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "shapeshifter-a-non-human-litrpg",
   title: "\\nFaceless Hunter",

@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood = {
   id: "01a0657d-ada6-72c0-8787-dfbe49e472e8",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   rank: "C",

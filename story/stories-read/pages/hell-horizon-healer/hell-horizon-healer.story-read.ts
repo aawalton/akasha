@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const hellHorizonHealer = {
   id: "01a0657d-ada2-70dd-9afa-5fb0b363dffe",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "hell-horizon-healer",
   title: "Hell Horizon: Healer",

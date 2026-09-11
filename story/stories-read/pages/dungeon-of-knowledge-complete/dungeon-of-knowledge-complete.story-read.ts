@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const dungeonOfKnowledgeComplete = {
   id: "01a0657d-ada2-7efc-86ad-3e719defcc51",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "dungeon-of-knowledge-complete",
   title: "Dungeon of Knowledge [Complete]",

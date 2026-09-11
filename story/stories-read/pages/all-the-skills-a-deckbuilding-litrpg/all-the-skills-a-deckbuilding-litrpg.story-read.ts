@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const allTheSkillsADeckbuildingLitrpg = {
   id: "01a0657d-ada0-71c7-8e11-0f9da4d5a318",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "all-the-skills-a-deckbuilding-litrpg",
   title: "All The Skills - A Deckbuilding LitRPG",

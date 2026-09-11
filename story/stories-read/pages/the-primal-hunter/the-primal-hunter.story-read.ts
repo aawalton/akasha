@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const thePrimalHunter = {
   id: "01a0657d-ada5-71f0-bf49-36b935e70225",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "the-primal-hunter",
   title: "The Primal Hunter",

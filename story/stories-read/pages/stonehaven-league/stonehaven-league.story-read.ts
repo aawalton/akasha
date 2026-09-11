@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const stonehavenLeague = {
   id: "01a0657d-ada7-7021-b581-05de3229c000",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "stonehaven-league",
   title: "Stonehaven League",

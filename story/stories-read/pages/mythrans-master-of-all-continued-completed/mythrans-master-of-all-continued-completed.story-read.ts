@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const mythransMasterOfAllContinuedCompleted = {
   id: "01a0657d-ada4-7dcd-ad93-a3c04d678ec5",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "mythrans-master-of-all-continued-completed",
   ownProgress: 481048,

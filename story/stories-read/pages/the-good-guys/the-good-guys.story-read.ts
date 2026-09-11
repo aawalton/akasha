@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const theGoodGuys = {
   id: "01a0657d-ada7-74b8-afb2-fda18c311055",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "the-good-guys",
   title: "The Good Guys",

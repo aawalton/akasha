@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const sovereignSightProgressionFantasyCultivation = {
   id: "01a0657d-ada5-7474-a802-880e15762d90",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "sovereign-sight-progression-fantasy-cultivation",
   title:

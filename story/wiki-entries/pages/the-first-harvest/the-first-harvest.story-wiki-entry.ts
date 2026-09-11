@@ -2,7 +2,6 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entries/story-wiki-entry.
 
 export const theFirstHarvest = {
   id: "01a0657d-bb96-7673-94c9-b754517cd470",
-  pageTypeSlug: "story-wiki-entry",
   type: "story-wiki-entry",
   slug: "the-first-harvest",
   title: "The First Harvest",

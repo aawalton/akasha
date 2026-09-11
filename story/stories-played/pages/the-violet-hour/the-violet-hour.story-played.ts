@@ -2,7 +2,6 @@ import type { StoryPlayed } from "akasha/story/stories-played/story-played.page-
 
 export const theVioletHour = {
   id: "01a06425-4433-7dbe-8a10-b6a603b54acf",
-  pageTypeSlug: "story-played",
   type: "story-played",
   slug: "the-violet-hour",
   title: "The Violet Hour",

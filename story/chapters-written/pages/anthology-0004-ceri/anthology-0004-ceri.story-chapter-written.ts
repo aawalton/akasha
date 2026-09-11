@@ -2,7 +2,6 @@ import type { StoryChapterWritten } from "akasha/story/chapters-written/story-ch
 
 export const anthology0004Ceri = {
   id: "01a06599-c380-7f5d-9701-dd76e968f548",
-  pageTypeSlug: "story-chapter-written",
   type: "story-chapter-written",
   slug: "anthology-0004-ceri",
   title: "Ceri",

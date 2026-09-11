@@ -2,7 +2,6 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entries/story-wiki-entry.
 
 export const theFirstBuried = {
   id: "01a0657d-bb95-7bcc-a71c-6bd30b22220b",
-  pageTypeSlug: "story-wiki-entry",
   type: "story-wiki-entry",
   slug: "the-first-buried",
   title: "The First Buried",

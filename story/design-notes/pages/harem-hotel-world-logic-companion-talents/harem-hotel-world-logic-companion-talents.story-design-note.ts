@@ -2,7 +2,6 @@ import type { StoryDesignNote } from "akasha/story/design-notes/story-design-not
 
 export const haremHotelWorldLogicCompanionTalents = {
   id: "01a0657d-bb98-7dc0-9e42-c1e378a687c4",
-  pageTypeSlug: "story-design-note",
   type: "story-design-note",
   slug: "harem-hotel-world-logic-companion-talents",
   title: "Companion Talents",

@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const markOfTheCrijik = {
   id: "01a0657d-ada3-7e62-a146-6b09015e328c",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "mark-of-the-crijik",
   title: "Mark of the Crijik",

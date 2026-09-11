@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const massProducedMagicLitrpgActionCrafterTech = {
   id: "01a0657d-ada3-78c7-a6f0-f7909acf582d",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech",
   ownProgress: 141498,

@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const riseOfTheDevourer = {
   id: "01a0657d-ada7-73a9-91f2-42fa19396a6e",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "rise-of-the-devourer",
   title: "Rise of the Devourer",

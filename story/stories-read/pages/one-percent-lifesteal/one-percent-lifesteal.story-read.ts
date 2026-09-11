@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const onePercentLifesteal = {
   id: "01a0657d-ada7-774a-84c1-ae1d70773d66",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "one-percent-lifesteal",
   title: "1% Lifesteal",

@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const heWhoFightsWithMonsters = {
   id: "01a0657d-ada2-72ba-a956-080a1429e994",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "he-who-fights-with-monsters",
   title: "He Who Fights With Monsters",

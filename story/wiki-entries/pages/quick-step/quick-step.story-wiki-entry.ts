@@ -2,7 +2,6 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entries/story-wiki-entry.
 
 export const quickStep = {
   id: "01a0657d-bb95-761a-bd2b-cf29e5572ec4",
-  pageTypeSlug: "story-wiki-entry",
   type: "story-wiki-entry",
   slug: "quick-step",
   title: "Quick-Step",

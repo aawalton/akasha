@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const thereIsNoEpicLootHereOnlyPuns = {
   id: "01a0657d-ada5-7ded-bdb1-387748419c1a",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "there-is-no-epic-loot-here-only-puns",
   ownProgress: 718536,

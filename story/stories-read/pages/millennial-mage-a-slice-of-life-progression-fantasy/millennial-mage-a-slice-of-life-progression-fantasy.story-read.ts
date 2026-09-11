@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const millennialMageASliceOfLifeProgressionFantasy = {
   id: "01a0657d-ada3-7b41-b830-06571616a714",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy",
   title: "Millennial Mage (A Slice of Life, Progression Fantasy)",

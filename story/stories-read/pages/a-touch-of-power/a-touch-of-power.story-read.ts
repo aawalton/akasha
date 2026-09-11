@@ -2,7 +2,6 @@ import type { StoryRead } from "akasha/story/stories-read/story-read.page-type.t
 
 export const aTouchOfPower = {
   id: "01a0657d-ada7-7638-a0ca-21ba00fff17a",
-  pageTypeSlug: "story-read",
   type: "story-read",
   slug: "a-touch-of-power",
   title: "A Touch of Power",

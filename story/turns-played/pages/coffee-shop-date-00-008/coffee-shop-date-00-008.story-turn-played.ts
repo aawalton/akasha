@@ -2,7 +2,6 @@ import type { StoryTurnPlayed } from "akasha/story/turns-played/story-turn-playe
 
 export const coffeeShopDate00008 = {
   id: "01a0682a-3e23-7867-868b-1bbd3169798c",
-  pageTypeSlug: "story-turn-played",
   type: "story-turn-played",
   slug: "coffee-shop-date-00-008",
   partOfCollections: ["coffee-shop-date"],

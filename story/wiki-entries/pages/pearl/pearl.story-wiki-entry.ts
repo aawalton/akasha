@@ -2,7 +2,6 @@ import type { StoryWikiEntry } from "akasha/story/wiki-entries/story-wiki-entry.
 
 export const pearl = {
   id: "01a0657d-bb96-7e65-bb52-ebf7a456a5e2",
-  pageTypeSlug: "story-wiki-entry",
   type: "story-wiki-entry",
   slug: "pearl",
   title: "Pearl",
