@@ -20,11 +20,6 @@ export const aineResourceManagement = {
         "The kinds are a change, a guard, a check, an audit, a test, a deploy, a command, and a bash call that is none of these. A seat's ceiling bounds the seat and nothing inside it, so one runaway takes the whole seat's allowance. Commands, checks, changes and the testing system are already domains a ceiling can be stated on. No page holds an audit, a deploy or a guard, and a bash call an agent writes has no page at all, which makes it the hard one.",
     },
     {
-      statement: "The most memory each kind of work has taken is recorded.",
-      workingMemory:
-        "The pattern is check-cost: one jsonl line per run beside the page of what ran, uncommitted, rolling into a numbered part at 8 MiB. Its record already carries peakBytes, residentBeforeBytes, peakAddedBytes and peakMeasured, read from VmHWM after refs are cleared. Checks are measured already, commands and changes record under entries, and every other kind records nothing. A group may state max-memory-mb and nothing reads it.",
-    },
-    {
       statement: "The workstation keeps memory for itself that no agent can take.",
       workingMemory:
         "app.slice peaked at 55.5 GiB of 62.2, leaving 6.7 GiB for the kernel, the compositor and everything outside it, and nothing reserves that. A ceiling on each seat does not give it either, since sixteen seats each under a fair ceiling still add to more than the host has. MemoryMin on the system's own units protects a reserve from reclaim, and a MemoryMax on app.slice caps what agents can collectively reach.\n",
@@ -79,7 +74,7 @@ export const aineResourceManagement = {
     {
       statement: "What each kind of work spent is recorded beside the page of what ran.",
       workingMemory:
-        "check-cost already does this for four of the eight: a check and an audit through checking, a command through calling, a change through change-running and apply-running. Each writes one jsonl line carrying cpuSeconds, childCpuSeconds, wallMs and the memory peak, beside the page of what ran, uncommitted and rolling at 8 MiB. A guard, a test, a deploy and a bash call record nothing, which is why half the ceilings would be guesses.\n",
+        "Processor time and memory both. check-cost already does this for four of the eight: a check and an audit through checking, a command through calling, a change through change-running and apply-running. Each writes one jsonl line beside the page of what ran, uncommitted and rolling at 8 MiB, carrying cpuSeconds, childCpuSeconds, wallMs, peakBytes, peakAddedBytes and peakMeasured. A guard, a test, a deploy and a bash call record nothing, so half the ceilings would be guesses.",
     },
   ],
   constraints: ["Every ceiling number is settled with Alan rather than chosen."],
