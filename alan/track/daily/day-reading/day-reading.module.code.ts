@@ -9,9 +9,9 @@ import {
   DAY_PAGE_TYPE,
 } from "akasha/alan/track/daily/day-place/day-place.module.code.ts"
 import { pageOf } from "akasha/alan/track/daily/track-pages/track-pages.module.code.ts"
-import { camelizeKey } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
 import { kebabisedRow } from "akasha/pages/akasha-page-values/akasha-page-values.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import { camelizeKey } from "akasha/utils/slug/camelize-key/camelize-key.module.code.ts"
 
 function dayAnswered(
   where: Readonly<Record<string, Readonly<Record<string, unknown>>>>,

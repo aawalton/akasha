@@ -7,6 +7,7 @@ import {
   slugOfFilePage,
 } from "akasha/pages/identity/file-page/file-page.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import { camelizeKey } from "akasha/utils/slug/camelize-key/camelize-key.module.code.ts"
 import { dashBetweenWords } from "akasha/utils/slug/dash-between-words/dash-between-words.module.code.ts"
 import { z } from "zod"
 
@@ -34,14 +35,6 @@ export const SETTLED_BY_ROW: ReadonlySet<string> = new Set([
 
 function isLifted(key: string): key is LiftedKey {
   return Object.hasOwn(LIFTED_COLUMN, key)
-}
-
-export function camelizeKey(key: string): string {
-  const segments = key.split(/[^A-Za-z0-9]+/).filter((s) => s.length > 0)
-  const [first, ...rest] = segments
-  if (first === undefined) return ""
-  const head = first.charAt(0).toLowerCase() + first.slice(1)
-  return head + rest.map((s) => s.charAt(0).toUpperCase() + s.slice(1)).join("")
 }
 
 export function kebabizeKey(key: string): string {

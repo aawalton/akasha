@@ -1,4 +1,4 @@
-import { camelizeKey, kebabizeKey } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
+import { kebabizeKey } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
 import { askComposed } from "akasha/pages/query/store-page-asking/store-page-asking.module.code.ts"
 import { askedAsSpelled } from "akasha/pages/query/store-spelling/store-spelling.module.code.ts"
 import {
@@ -6,6 +6,7 @@ import {
   type Json,
   type Page,
 } from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
+import { camelizeKey } from "akasha/utils/slug/camelize-key/camelize-key.module.code.ts"
 
 export interface PageResult {
   readonly rows: readonly Page[]

@@ -5,8 +5,13 @@ export const utilsSlug = {
   pageTypeSlug: "domain",
   type: "domain",
   slug: "utils-slug",
-  definition: "how a string is folded to the dashed key that names it",
-  parts: ["module/slug-of", "module/dash-each-capital", "module/dash-between-words"],
+  definition: "how a string is folded to the key that names it",
+  parts: [
+    "module/slug-of",
+    "module/dash-each-capital",
+    "module/dash-between-words",
+    "module/camelize-key",
+  ],
   invariants: [
     {
       invariantKind: "departure",

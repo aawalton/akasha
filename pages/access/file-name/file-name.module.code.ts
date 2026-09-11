@@ -1,4 +1,4 @@
-import { camelizeKey, SETTLED_BY_ROW } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
+import { SETTLED_BY_ROW } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
 import { FileWriteError } from "akasha/pages/access/file-write-error/file-write-error.module.code.ts"
 import type { Value } from "akasha/pages/access/types/types.module.code.ts"
 import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
@@ -8,6 +8,7 @@ import {
   holesIn,
   unfilledIn,
 } from "akasha/pages/naming/named-for/name-rule/name-rule.module.code.ts"
+import { camelizeKey } from "akasha/utils/slug/camelize-key/camelize-key.module.code.ts"
 
 export type Filled =
   | { readonly ok: true; readonly stem: string }

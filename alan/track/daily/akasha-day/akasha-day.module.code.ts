@@ -8,7 +8,6 @@ import {
   SESSIONS_SLUG,
 } from "akasha/alan/track/daily/track-shape/track-shape.module.code.ts"
 import { landTracking } from "akasha/alan/track/landing/track-landing.module.code.ts"
-import { camelizeKey } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { entriesIn } from "akasha/pages/entries/page-entries.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
@@ -18,6 +17,7 @@ import {
   type Put,
 } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { camelizeKey } from "akasha/utils/slug/camelize-key/camelize-key.module.code.ts"
 
 export type Values = Readonly<Record<string, unknown>>
 

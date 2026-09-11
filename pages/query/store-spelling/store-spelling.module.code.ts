@@ -3,15 +3,8 @@ import type {
   ComposedQuery,
   QueryRow,
 } from "akasha/pages/query/store-questioning/store-questioning.module.code.ts"
+import { camelizeKey } from "akasha/utils/slug/camelize-key/camelize-key.module.code.ts"
 import { dashBetweenWords } from "akasha/utils/slug/dash-between-words/dash-between-words.module.code.ts"
-
-function camelizeKey(key: string): string {
-  const segments = key.split(/[^A-Za-z0-9]+/).filter((one) => one.length > 0)
-  const [first, ...rest] = segments
-  if (first === undefined) return ""
-  const head = first.charAt(0).toLowerCase() + first.slice(1)
-  return head + rest.map((one) => one.charAt(0).toUpperCase() + one.slice(1)).join("")
-}
 
 export function storeSpelled(query: ComposedQuery): ComposedQuery {
   const held: Record<string, unknown> = { ...query }

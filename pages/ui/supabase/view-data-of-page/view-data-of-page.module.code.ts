@@ -1,4 +1,3 @@
-import { camelizeKey } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
 import {
   parseViewDataJSON,
   type ViewDataJSON,
@@ -9,6 +8,7 @@ import {
 import { pageQueryTimeIn } from "akasha/pages/core/view/page-query-times/page-query-times.module.code.ts"
 import { asBoolean } from "akasha/utils/narrow/as-boolean/as-boolean.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import { camelizeKey } from "akasha/utils/slug/camelize-key/camelize-key.module.code.ts"
 import * as z from "zod"
 
 export type PageTypeIdBySlug = (pageTypeSlug: string) => string | undefined
