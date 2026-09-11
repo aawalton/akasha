@@ -2,7 +2,6 @@ import type { TemperInventoryChunk } from "akasha/temper/holdings-sets/temper-in
 
 export const at202608201502170 = {
   id: "01a01fb4-9738-7000-8901-bb6405a8e59a",
-  pageTypeSlug: "temper-inventory-chunk",
   type: "temper-inventory-chunk",
   slug: "at-2026-08-20-15-02-17-0",
   title: "2026-08-20T15:02:17.000Z chunk 0",
