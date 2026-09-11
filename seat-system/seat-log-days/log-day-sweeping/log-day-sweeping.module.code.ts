@@ -1,5 +1,6 @@
 import { readFileSync, rmSync } from "node:fs"
 import { basename, join } from "node:path"
+import { dropReadings } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { besideOf } from "akasha/pages/beside/page-beside.module.code.ts"
 import {
   AKASHA,
@@ -11,7 +12,6 @@ import { fileKeysAt } from "akasha/pages/indexes/entries/index-entries.module.co
 import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { landRemovals } from "akasha/seat-system/gated-landing/gated-landing.module.code.ts"
 import { firstCapture } from "akasha/utils/narrow/first-capture/first-capture.module.code.ts"
-import { dropReadings } from "../../../commands/modules/reading/reading.module.code.ts"
 
 const DEFAULT_KEEP_DAYS = 7
 
