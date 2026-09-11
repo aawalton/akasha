@@ -112,6 +112,29 @@ test("the body warranted is the body on disk, not the one read before", () => {
   expect(fileItself(root, PATH)[0]?.oid).toBe(oid)
 })
 
+const TEXTURE = "akasha/thing/one.dds"
+
+const NOT_TEXT = `DDS ${String.fromCharCode(0)}one\n`
+
+test("a body that is not text warrants nothing of itself", () => {
+  const root = scratch.rootFor("akasha-file-itself-")
+  writing(root, TEXTURE, NOT_TEXT)
+  expect(fileItself(root, TEXTURE)).toEqual([])
+})
+
+test("a body holding a zero byte is no text, whatever the name says", () => {
+  const root = scratch.rootFor("akasha-file-itself-")
+  writing(root, PATH, NOT_TEXT)
+  expect(fileItself(root, PATH)).toEqual([])
+})
+
+test("a body that is text still warrants itself where a body beside it is not", () => {
+  const root = scratch.rootFor("akasha-file-itself-")
+  writing(root, TEXTURE, NOT_TEXT)
+  const oid = writing(root, PATH, "one\n")
+  expect(fileItself(root, PATH)).toEqual([{ path: PATH, oid, owed: ITSELF }])
+})
+
 test("a warrant carries why the reading is owed", () => {
   const root = scratch.rootFor("akasha-file-itself-")
   writing(root, PATH, "one\n")

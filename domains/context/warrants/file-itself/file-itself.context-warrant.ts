@@ -26,6 +26,14 @@ export const fileItself = {
     },
     {
       invariantKind: "departure",
+      statement: "A file whose body is not text warrants nothing of itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body holding a zero byte is no text.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file of that name in another folder warrants itself.",
     },
     {

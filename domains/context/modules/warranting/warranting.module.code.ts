@@ -227,12 +227,17 @@ export function termFirst(owed: readonly Owing[]): readonly Owing[] {
   ]
 }
 
-export function blobAt(root: string, path: string): string | null {
+export function bytesAt(root: string, path: string): Uint8Array | null {
   try {
-    return blobIdOf(readFileSync(join(root, path)))
+    return readFileSync(join(root, path))
   } catch {
     return null
   }
+}
+
+export function blobAt(root: string, path: string): string | null {
+  const bytes = bytesAt(root, path)
+  return bytes === null ? null : blobIdOf(bytes)
 }
 
 function namedBy(at: string, slug: string): unknown {
@@ -303,13 +308,7 @@ function gatheredAt(every: readonly Gathered[], when: When): readonly Gathered[]
 }
 
 export function changingOf(root: string, changes: readonly FileChange[]): Changing {
-  const before = (path: string): Uint8Array | null => {
-    try {
-      return readFileSync(join(root, path))
-    } catch {
-      return null
-    }
-  }
+  const before = (path: string): Uint8Array | null => bytesAt(root, path)
   const bytes = new TextEncoder()
   const after = new Map<string, Uint8Array | null>()
   for (const one of changes) {

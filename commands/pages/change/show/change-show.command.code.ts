@@ -1,5 +1,3 @@
-import { readFileSync } from "node:fs"
-import { join } from "node:path"
 import {
   editsAt,
   editsIn,
@@ -22,7 +20,10 @@ import {
   countLines,
   numbered,
 } from "akasha/commands/pages/read/long-body/long-body.module.code.ts"
-import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import {
+  agentPathOf,
+  bytesAt,
+} from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 
 const AT = "at"
 
@@ -51,16 +52,8 @@ export function shownOf(path: string, text: string): readonly string[] {
   return [`${path} — the body once the edits kept land, ${held} lines`, numbered(text)]
 }
 
-function committedAt(root: string, at: string): Uint8Array | null {
-  try {
-    return readFileSync(join(root, at))
-  } catch {
-    return null
-  }
-}
-
 export function recorded(root: string, agentId: string, at: string, folded: Uint8Array): undefined {
-  const held = committedAt(root, at)
+  const held = bytesAt(root, at)
   const shown = blobIdOf(folded)
   const oid = held === null ? shown : blobIdOf(held)
   recordRead(root, agentId, {
