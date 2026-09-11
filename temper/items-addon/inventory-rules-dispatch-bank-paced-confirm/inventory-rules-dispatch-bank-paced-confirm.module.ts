@@ -6,4 +6,11 @@ export const inventoryRulesDispatchBankPacedConfirm = {
   slug: "inventory-rules-dispatch-bank-paced-confirm",
   definition: "whether a paced bank move landed, judged by the stack left behind",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "absence",
+      statement:
+        "Comparing stacks here and comparing clock times in claude-accounts lapsed are not one rule.",
+    },
+  ],
 } as const satisfies Module

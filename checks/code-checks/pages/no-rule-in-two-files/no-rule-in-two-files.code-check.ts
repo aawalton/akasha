@@ -86,6 +86,11 @@ export const noRuleInTwoFiles = {
       statement: "A writer is never sent to add a module to quiet this check.",
     },
     {
+      invariantKind: "absence",
+      statement:
+        "A page's absence saying two bodies are not one rule leaves both files refused here.",
+    },
+    {
       invariantKind: "departure",
       statement: "Every file the index names is read on each run whose change has a code file.",
     },

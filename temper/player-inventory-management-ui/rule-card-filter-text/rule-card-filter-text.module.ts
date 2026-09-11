@@ -6,4 +6,11 @@ export const ruleCardFilterText = {
   slug: "rule-card-filter-text",
   definition: "the text of a rule's filter, edited in place",
   code: "tsx",
+  invariants: [
+    {
+      invariantKind: "absence",
+      statement:
+        "This cancel and the one in number-badge close over different setters and are not one rule.",
+    },
+  ],
 } as const satisfies Module
