@@ -2,7 +2,6 @@ import type { NamedEvent } from "akasha/story/named-events/named-event.page-type
 
 export const battleOfGreatPlains = {
   id: "019f6865-7b36-7c9c-a820-2202a7ad33a6",
-  pageTypeSlug: "named-event",
   type: "named-event",
   slug: "battle-of-great-plains",
   title: "Battle of the Great Plains of Izril",

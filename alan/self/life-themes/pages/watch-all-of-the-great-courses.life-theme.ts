@@ -2,7 +2,6 @@ import type { LifeTheme } from "akasha/alan/self/life-themes/life-theme.page-typ
 
 export const watchAllOfTheGreatCourses = {
   id: "019db533-f3a2-7b09-a889-e7a55c2609dc",
-  pageTypeSlug: "life-theme",
   type: "life-theme",
   slug: "watch-all-of-the-great-courses",
   title: "Watch All of The Great Courses",

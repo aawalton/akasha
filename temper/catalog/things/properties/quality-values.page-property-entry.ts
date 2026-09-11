@@ -2,7 +2,6 @@ import type { PagePropertyEntry } from "akasha/pages/property-entries/page-prope
 
 export const qualityValues = {
   id: "01a05fb0-3cee-76c4-aa3f-972874e23447",
-  pageTypeSlug: "page-property-entry",
   type: "page-property-entry",
   slug: "quality-values",
   propertySlug: "quality-values",

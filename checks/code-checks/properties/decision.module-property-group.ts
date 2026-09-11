@@ -5,7 +5,6 @@ export type Decision = ModulePropertyGroupCeilings
 
 export const decision = {
   id: "01a087bc-84ce-73d2-b128-2ef1ceab288d",
-  pageTypeSlug: "module-property-group",
   type: "module-property-group",
   slug: "decision",
   propertySlug: "decision",

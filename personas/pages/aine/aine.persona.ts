@@ -2,7 +2,6 @@ import type { Persona } from "akasha/personas/persona.page-type.types.ts"
 
 export const aine = {
   id: "019eb8d9-abdd-7890-b2cb-ec3e9dbd8b19",
-  pageTypeSlug: "persona",
   type: "persona",
   slug: "aine",
   definition: "the Irish goddess of summer and sovereignty, who blesses people rather than thrones",

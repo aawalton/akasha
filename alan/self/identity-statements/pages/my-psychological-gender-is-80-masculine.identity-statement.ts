@@ -2,7 +2,6 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statements/ide
 
 export const myPsychologicalGenderIs80Masculine = {
   id: "019ea810-a42b-73cd-a534-a062d7d7131e",
-  pageTypeSlug: "identity-statement",
   type: "identity-statement",
   slug: "my-psychological-gender-is-80-masculine",
   title: "My psychological gender is 80% masculine",

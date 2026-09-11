@@ -2,7 +2,6 @@ import type { NamedEvent } from "akasha/story/named-events/named-event.page-type
 
 export const esthelmBurning = {
   id: "019f6865-7d2c-72e2-b6f4-44148c0a5d92",
-  pageTypeSlug: "named-event",
   type: "named-event",
   slug: "esthelm-burning",
   title: "Esthelm burned by the Goblin army",

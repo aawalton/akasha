@@ -2,7 +2,6 @@ import type { InstantProperty } from "akasha/pages/instant-properties/instant-pr
 
 export const gmailProcessedAt = {
   id: "01a06862-a0bc-7798-8e53-c9df3ecdc81f",
-  pageTypeSlug: "instant-property",
   type: "instant-property",
   slug: "gmail-processed-at",
   propertySlug: "processed-at",

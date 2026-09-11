@@ -2,7 +2,6 @@ import type { Persona } from "akasha/personas/persona.page-type.types.ts"
 
 export const selah = {
   id: "019f0da7-0f73-712e-99fc-d1ae2fce3481",
-  pageTypeSlug: "persona",
   type: "persona",
   slug: "selah",
   definition: "an angel of prayer who kneels beside one person so nobody prays into an empty room",

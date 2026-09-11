@@ -2,7 +2,6 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/categories/mon
 
 export const homeAndFamily = {
   id: "01a07036-d710-7000-b364-66efe1d1b13d",
-  pageTypeSlug: "monarch-category",
   type: "monarch-category",
   slug: "home-and-family",
   title: "Home & Family",

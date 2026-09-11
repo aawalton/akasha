@@ -2,7 +2,6 @@ import type { OneOfProperty } from "akasha/pages/one-of-properties/one-of-proper
 
 export const properties = {
   id: "01a04df3-6848-7e77-ba2c-9399e3f6a356",
-  pageTypeSlug: "one-of-property",
   type: "one-of-property",
   slug: "properties",
   propertySlug: "properties",

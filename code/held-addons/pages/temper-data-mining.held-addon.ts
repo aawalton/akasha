@@ -2,7 +2,6 @@ import type { HeldAddon } from "akasha/code/held-addons/held-addon.page-type.typ
 
 export const temperDataMining = {
   id: "01a081a1-0495-7275-b8bd-502748d70b97",
-  pageTypeSlug: "held-addon",
   type: "held-addon",
   slug: "temper-data-mining",
   addonName: "TemperDataMining",

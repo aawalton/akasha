@@ -2,7 +2,6 @@ import type { LocationCollection } from "akasha/places/location-collections/loca
 
 export const starvingStudentCard = {
   id: "019f322c-90db-7760-821d-b9958995fee8",
-  pageTypeSlug: "location-collection",
   type: "location-collection",
   slug: "starving-student-card",
   title: "Starving Student Card",

@@ -2,7 +2,6 @@ import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.t
 
 export const temperInventoryBuyRule = {
   id: "01a07c17-524e-7619-8629-d3610a998265",
-  pageTypeSlug: "namespace",
   type: "namespace",
   slug: "temper-inventory-buy-rule",
   definition: "the rules saying what a character buys",

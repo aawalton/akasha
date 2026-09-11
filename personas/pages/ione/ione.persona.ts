@@ -2,7 +2,6 @@ import type { Persona } from "akasha/personas/persona.page-type.types.ts"
 
 export const ione = {
   id: "019eeb0f-b1b5-740e-86cf-5c460db52723",
-  pageTypeSlug: "persona",
   type: "persona",
   slug: "ione",
   definition:

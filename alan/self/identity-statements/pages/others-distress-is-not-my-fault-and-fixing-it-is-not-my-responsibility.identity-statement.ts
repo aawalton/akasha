@@ -2,7 +2,6 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statements/ide
 
 export const othersDistressIsNotMyFaultAndFixingItIsNotMyResponsibility = {
   id: "019ea810-a3ef-7a27-a4b3-23a8ffc2693c",
-  pageTypeSlug: "identity-statement",
   type: "identity-statement",
   slug: "others-distress-is-not-my-fault-and-fixing-it-is-not-my-responsibility",
   title: "Others’ distress is not my fault and fixing it is not my responsibility",

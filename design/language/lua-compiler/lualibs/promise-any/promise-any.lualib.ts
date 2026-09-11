@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const promiseAny = {
   id: "01a08c59-27e4-7bfa-9e75-a9fc629c20e9",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "promise-any",
   definition: "one promise answering with the first value, or every rejection",

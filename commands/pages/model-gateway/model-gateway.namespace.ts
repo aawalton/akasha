@@ -2,7 +2,6 @@ import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.t
 
 export const modelGateway = {
   id: "01a07c0e-f3e6-7abc-9238-d49d16577a96",
-  pageTypeSlug: "namespace",
   type: "namespace",
   slug: "model-gateway",
   definition: "the model gateway a seat runs, started, weighed or swapped",

@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const mathTrunc = {
   id: "01a08c42-c217-700a-bc11-3296673ba431",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "math-trunc",
   definition: "a number with its fractional part dropped, toward zero",

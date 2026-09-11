@@ -2,7 +2,6 @@ import type { HeldAddon } from "akasha/code/held-addons/held-addon.page-type.typ
 
 export const libDebugLogger = {
   id: "01a081a3-78ce-730a-9423-cfbb2836b234",
-  pageTypeSlug: "held-addon",
   type: "held-addon",
   slug: "lib-debug-logger",
   addonName: "LibDebugLogger",

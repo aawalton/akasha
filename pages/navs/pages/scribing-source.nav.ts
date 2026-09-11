@@ -2,7 +2,6 @@ import type { Nav } from "akasha/pages/navs/nav.page-type.types.ts"
 
 export const scribingSource = {
   id: "01a06577-2613-7015-9804-b2273b0d6fc5",
-  pageTypeSlug: "nav",
   type: "nav",
   slug: "scribing-source",
   title: "Scribing Source",

@@ -2,7 +2,6 @@ import type { PagePropertyEntry } from "akasha/pages/property-entries/page-prope
 
 export const completedTasks = {
   id: "01a05fd8-c30f-72c4-9102-9b3dbc179f51",
-  pageTypeSlug: "page-property-entry",
   type: "page-property-entry",
   slug: "completed-tasks",
   propertySlug: "completed-tasks",

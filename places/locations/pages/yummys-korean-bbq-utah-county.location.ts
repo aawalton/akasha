@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const yummysKoreanBbqUtahCounty = {
   id: "019f322c-9c9d-7297-ae0a-f5b91057f393",
-  pageTypeSlug: "location",
   type: "location",
   slug: "yummys-korean-bbq-utah-county",
   title: "Yummy's Korean BBQ (Utah County)",

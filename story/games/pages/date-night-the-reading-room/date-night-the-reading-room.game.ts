@@ -2,7 +2,6 @@ import type { Game } from "akasha/story/games/game.page-type.types.ts"
 
 export const dateNightTheReadingRoom = {
   id: "01a0673f-a3d5-7001-b86a-6843424704f7",
-  pageTypeSlug: "game",
   type: "game",
   slug: "date-night-the-reading-room",
   title: "Date Night — The Reading Room",

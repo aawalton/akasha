@@ -2,7 +2,6 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests
 
 export const cloudnativePgSynth = {
   id: "01a06810-1262-73a0-9da5-97719150b83d",
-  pageTypeSlug: "manifest",
   type: "manifest",
   slug: "cloudnative-pg-synth",
   definition: "the namespace the Postgres operator runs in",

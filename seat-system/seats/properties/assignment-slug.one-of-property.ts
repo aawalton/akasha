@@ -2,7 +2,6 @@ import type { OneOfProperty } from "akasha/pages/one-of-properties/one-of-proper
 
 export const assignmentSlug = {
   id: "01a053a2-d0e7-7948-a966-74efed3c62f0",
-  pageTypeSlug: "one-of-property",
   type: "one-of-property",
   slug: "assignment-slug",
   propertySlug: "assignment-slug",

@@ -2,7 +2,6 @@ import type { MonarchAccount } from "akasha/alan/harness/monarch/accounts/monarc
 
 export const alanWaltonJenniferWaltonBrokerageAccount8993737982 = {
   id: "01a06559-5ea8-7000-b2b7-59603e1bd2e7",
-  pageTypeSlug: "monarch-account",
   type: "monarch-account",
   slug: "alan-walton-jennifer-walton-brokerage-account-8993-737982",
   title: "Brokerage Account - 8993",

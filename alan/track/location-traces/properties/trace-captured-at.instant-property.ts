@@ -2,7 +2,6 @@ import type { InstantProperty } from "akasha/pages/instant-properties/instant-pr
 
 export const traceCapturedAt = {
   id: "01a06935-68b4-7424-8765-100bb5902846",
-  pageTypeSlug: "instant-property",
   type: "instant-property",
   slug: "trace-captured-at",
   propertySlug: "captured-at",

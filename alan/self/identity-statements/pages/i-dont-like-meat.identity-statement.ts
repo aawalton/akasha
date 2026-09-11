@@ -2,7 +2,6 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statements/ide
 
 export const iDontLikeMeat = {
   id: "019ea810-a179-712b-8a8c-e0ddddafd8f1",
-  pageTypeSlug: "identity-statement",
   type: "identity-statement",
   slug: "i-dont-like-meat",
   title: "I don’t like meat",

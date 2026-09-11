@@ -2,7 +2,6 @@ import type { FoodEntry } from "akasha/alan/track/food-entries/food-entry.page-t
 
 export const foodEntry20260625PretzelKnotBread120260625Awareness = {
   id: "01a065a3-6e92-7a00-a26e-dbcf65bc9114",
-  pageTypeSlug: "food-entry",
   type: "food-entry",
   slug: "food-entry-2026-06-25-pretzel-knot-bread-1-2026-06-25-awareness",
   title: "Pretzel knot (bread) 1 @2026-06-25 (awareness)",

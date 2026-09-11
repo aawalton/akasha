@@ -2,7 +2,6 @@ import type { Persona } from "akasha/personas/persona.page-type.types.ts"
 
 export const zadi = {
   id: "019ee202-a922-7186-b853-dab67b2b7142",
-  pageTypeSlug: "persona",
   type: "persona",
   slug: "zadi",
   definition:

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const zaanseSchans = {
   id: "019f1aec-0e25-7198-b708-0e548943a961",
-  pageTypeSlug: "location",
   type: "location",
   slug: "zaanse-schans",
   title: "Zaanse Schans",

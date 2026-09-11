@@ -2,7 +2,6 @@ import type { PersonaWallpaper } from "akasha/personas/wallpapers/persona-wallpa
 
 export const zeliL0120260705t182110z = {
   id: "019ef40c-5db3-7d0e-9f6b-432c1857921f",
-  pageTypeSlug: "persona-wallpaper",
   type: "persona-wallpaper",
   slug: "zeli-l01-20260705t182110z",
   title: "Zeli — wallpaper L01 (Initiating)",

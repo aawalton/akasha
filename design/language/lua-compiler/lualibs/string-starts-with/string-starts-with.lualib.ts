@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const stringStartsWith = {
   id: "01a081f7-142d-744c-9e42-373864d7631f",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "string-starts-with",
   definition: "the answer whether text starts with other text at a position",

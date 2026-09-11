@@ -2,7 +2,6 @@ import type { InstantProperty } from "akasha/pages/instant-properties/instant-pr
 
 export const nextAt = {
   id: "01a05f42-d941-7005-9b78-ea153ee9fc0f",
-  pageTypeSlug: "instant-property",
   type: "instant-property",
   slug: "next-at",
   propertySlug: "next-at",

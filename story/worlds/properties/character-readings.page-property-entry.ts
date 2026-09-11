@@ -2,7 +2,6 @@ import type { PagePropertyEntry } from "akasha/pages/property-entries/page-prope
 
 export const characterReadings = {
   id: "01a063ce-6216-7001-b3f6-26b45c0bef56",
-  pageTypeSlug: "page-property-entry",
   type: "page-property-entry",
   slug: "character-readings",
   propertySlug: "character-readings",

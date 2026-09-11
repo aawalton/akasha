@@ -2,7 +2,6 @@ import type { LogSource } from "akasha/seat-system/log-sources/log-source.page-t
 
 export const supervisorConsole = {
   id: "01a0657c-cb14-79c9-a0a9-c350303cc2cf",
-  pageTypeSlug: "log-source",
   type: "log-source",
   slug: "supervisor-console",
 } as const satisfies LogSource

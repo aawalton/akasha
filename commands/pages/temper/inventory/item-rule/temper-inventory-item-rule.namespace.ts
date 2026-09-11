@@ -2,7 +2,6 @@ import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.t
 
 export const temperInventoryItemRule = {
   id: "01a07c17-5eb8-7d4b-ba4c-23360de21f42",
-  pageTypeSlug: "namespace",
   type: "namespace",
   slug: "temper-inventory-item-rule",
   definition: "the rules saying where one item goes",

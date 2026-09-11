@@ -2,7 +2,6 @@ import type { PersonAuthority } from "akasha/persons/authorities/person-authorit
 
 export const alanPageDataAll = {
   id: "01a05433-f106-71c5-8a0b-83070248d837",
-  pageTypeSlug: "person-authority",
   type: "person-authority",
   slug: "alan-page-data-all",
   person: "alan",

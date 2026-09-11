@@ -2,7 +2,6 @@ import type { MemoryKind } from "akasha/infrastructure/memory/kinds/memory-kind.
 
 export const virtual = {
   id: "01a09131-7243-719c-8edc-d76d9fb9b86b",
-  pageTypeSlug: "memory-kind",
   type: "memory-kind",
   slug: "virtual",
   definition: "memory a process has asked for rather than memory that process holds",

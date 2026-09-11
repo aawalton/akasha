@@ -2,7 +2,6 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests
 
 export const tailnetEgress = {
   id: "01a0738e-d1b0-7ee3-877d-2bfed39ea842",
-  pageTypeSlug: "manifest",
   type: "manifest",
   slug: "tailnet-egress",
   definition:

@@ -2,7 +2,6 @@ import type { PagePropertyEntry } from "akasha/pages/property-entries/page-prope
 
 export const collectibles = {
   id: "01a06165-ae0e-7002-9050-a3edc1766aec",
-  pageTypeSlug: "page-property-entry",
   type: "page-property-entry",
   slug: "collectibles",
   propertySlug: "collectibles",

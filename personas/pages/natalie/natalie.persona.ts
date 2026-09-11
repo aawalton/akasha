@@ -2,7 +2,6 @@ import type { Persona } from "akasha/personas/persona.page-type.types.ts"
 
 export const natalie = {
   id: "019f046c-3682-7964-a989-e5e5ebb74699",
-  pageTypeSlug: "persona",
   type: "persona",
   slug: "natalie",
   definition: "an Avowed Rabbit and South Carolina cook who can put a real feeling into a dish",

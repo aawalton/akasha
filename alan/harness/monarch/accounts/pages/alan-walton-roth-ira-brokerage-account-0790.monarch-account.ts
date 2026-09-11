@@ -2,7 +2,6 @@ import type { MonarchAccount } from "akasha/alan/harness/monarch/accounts/monarc
 
 export const alanWaltonRothIraBrokerageAccount0790 = {
   id: "01a06559-5ea8-7003-9b14-f1b990294ed7",
-  pageTypeSlug: "monarch-account",
   type: "monarch-account",
   slug: "alan-walton-roth-ira-brokerage-account-0790",
   title: "Alan Walton - Roth IRA Brokerage Account - 0790",

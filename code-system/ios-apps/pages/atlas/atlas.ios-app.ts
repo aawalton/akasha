@@ -2,7 +2,6 @@ import type { IosApp } from "akasha/code-system/ios-apps/ios-app.page-type.types
 
 export const atlas = {
   id: "01a0655d-9450-7928-8cb9-55f5db90da07",
-  pageTypeSlug: "ios-app",
   type: "ios-app",
   slug: "atlas",
   definition: "the app Alan reads his places in and the shell it runs in",

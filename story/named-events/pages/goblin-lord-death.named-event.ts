@@ -2,7 +2,6 @@ import type { NamedEvent } from "akasha/story/named-events/named-event.page-type
 
 export const goblinLordDeath = {
   id: "019f6865-793f-7afe-84e1-caeff6885587",
-  pageTypeSlug: "named-event",
   type: "named-event",
   slug: "goblin-lord-death",
   title: "Death of the Goblin Lord",

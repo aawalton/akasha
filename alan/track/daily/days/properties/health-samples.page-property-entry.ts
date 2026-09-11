@@ -2,7 +2,6 @@ import type { PagePropertyEntry } from "akasha/pages/property-entries/page-prope
 
 export const healthSamples = {
   id: "01a060fb-0410-765e-a968-4c9a3477760a",
-  pageTypeSlug: "page-property-entry",
   type: "page-property-entry",
   slug: "health-samples",
   propertySlug: "health-samples",

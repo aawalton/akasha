@@ -2,7 +2,6 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/categories/mon
 
 export const lizzysLongTerm = {
   id: "01a06559-5ea8-703d-a8f0-ed68699d596a",
-  pageTypeSlug: "monarch-category",
   type: "monarch-category",
   slug: "lizzys-long-term",
   title: "Lizzy's Long-term",

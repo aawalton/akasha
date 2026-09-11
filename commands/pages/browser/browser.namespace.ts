@@ -2,7 +2,6 @@ import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.t
 
 export const browser = {
   id: "01a07bcb-0b96-7d87-888f-325a70adf3df",
-  pageTypeSlug: "namespace",
   type: "namespace",
   slug: "browser",
   definition: "a site driven through the test harness",

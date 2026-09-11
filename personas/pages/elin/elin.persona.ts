@@ -2,7 +2,6 @@ import type { Persona } from "akasha/personas/persona.page-type.types.ts"
 
 export const elin = {
   id: "019f2ddc-5bad-745b-8e96-cf5a9a9343f2",
-  pageTypeSlug: "persona",
   type: "persona",
   slug: "elin",
   definition:

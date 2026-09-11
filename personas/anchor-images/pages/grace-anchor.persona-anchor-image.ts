@@ -2,7 +2,6 @@ import type { PersonaAnchorImage } from "akasha/personas/anchor-images/persona-a
 
 export const graceAnchor = {
   id: "019f324d-7252-76e4-94f3-21c7b948ea70",
-  pageTypeSlug: "persona-anchor-image",
   type: "persona-anchor-image",
   slug: "grace-anchor",
   title: "Grace — anchor",

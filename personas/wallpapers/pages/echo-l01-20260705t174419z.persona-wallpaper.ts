@@ -2,7 +2,6 @@ import type { PersonaWallpaper } from "akasha/personas/wallpapers/persona-wallpa
 
 export const echoL0120260705t174419z = {
   id: "019f2d6b-1f69-7f64-bfa2-b04754aff4ec",
-  pageTypeSlug: "persona-wallpaper",
   type: "persona-wallpaper",
   slug: "echo-l01-20260705t174419z",
   title: "Echo — wallpaper L01 (Initiating)",

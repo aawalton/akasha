@@ -2,7 +2,6 @@ import type { InstantProperty } from "akasha/pages/instant-properties/instant-pr
 
 export const minedAt = {
   id: "01a05fcd-f552-7078-af6f-196c906a2777",
-  pageTypeSlug: "instant-property",
   type: "instant-property",
   slug: "mined-at",
   propertySlug: "mined-at",

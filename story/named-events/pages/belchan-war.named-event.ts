@@ -2,7 +2,6 @@ import type { NamedEvent } from "akasha/story/named-events/named-event.page-type
 
 export const belchanWar = {
   id: "019f6865-787a-7c3d-8214-91458bf0743b",
-  pageTypeSlug: "named-event",
   type: "named-event",
   slug: "belchan-war",
   title: "Belchan war (declaration + broadcast + war)",

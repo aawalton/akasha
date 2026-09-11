@@ -2,7 +2,6 @@ import type { InstantProperty } from "akasha/pages/instant-properties/instant-pr
 
 export const notificationReadAt = {
   id: "01a06861-e7cd-7fe3-a9c6-2e3986a6cef9",
-  pageTypeSlug: "instant-property",
   type: "instant-property",
   slug: "notification-read-at",
   propertySlug: "read-at",

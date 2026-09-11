@@ -2,7 +2,6 @@ import type { Game } from "akasha/story/games/game.page-type.types.ts"
 
 export const dragonsAndDungeons = {
   id: "01a0673f-a3d6-7000-abe5-40f31e53a44d",
-  pageTypeSlug: "game",
   type: "game",
   slug: "dragons-and-dungeons",
   title: "Dragons & Dungeons",

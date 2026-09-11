@@ -2,7 +2,6 @@ import type { LifeTheme } from "akasha/alan/self/life-themes/life-theme.page-typ
 
 export const readTheWanderingInn = {
   id: "019db533-f3a2-7ab5-8a49-3c80588e93bf",
-  pageTypeSlug: "life-theme",
   type: "life-theme",
   slug: "read-the-wandering-inn",
   title: "Read The Wandering Inn",

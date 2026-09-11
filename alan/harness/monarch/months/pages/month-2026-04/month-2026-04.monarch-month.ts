@@ -2,7 +2,6 @@ import type { MonarchMonth } from "akasha/alan/harness/monarch/months/monarch-mo
 
 export const month202604 = {
   id: "01a06559-5eca-7000-b488-b9015db0cef7",
-  pageTypeSlug: "monarch-month",
   type: "monarch-month",
   slug: "month-2026-04",
   title: "April 2026",

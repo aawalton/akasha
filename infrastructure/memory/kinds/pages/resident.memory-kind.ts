@@ -2,7 +2,6 @@ import type { MemoryKind } from "akasha/infrastructure/memory/kinds/memory-kind.
 
 export const resident = {
   id: "01a09131-5456-7397-ad61-ca86675666db",
-  pageTypeSlug: "memory-kind",
   type: "memory-kind",
   slug: "resident",
   definition: "memory a process holds in RAM at the moment it is read",

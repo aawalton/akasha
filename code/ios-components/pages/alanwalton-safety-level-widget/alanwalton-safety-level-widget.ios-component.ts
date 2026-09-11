@@ -2,7 +2,6 @@ import type { IosComponent } from "akasha/code/ios-components/ios-component.page
 
 export const alanwaltonSafetyLevelWidget = {
   id: "01a05835-69db-7e74-b591-0c24aef309f2",
-  pageTypeSlug: "ios-component",
   type: "ios-component",
   slug: "alanwalton-safety-level-widget",
   definition: "Alan's tile for his safety level",

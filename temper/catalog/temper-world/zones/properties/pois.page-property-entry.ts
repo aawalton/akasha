@@ -2,7 +2,6 @@ import type { PagePropertyEntry } from "akasha/pages/property-entries/page-prope
 
 export const pois = {
   id: "01a06167-3f9b-700b-ab48-cb7aa724cc9c",
-  pageTypeSlug: "page-property-entry",
   type: "page-property-entry",
   slug: "pois",
   propertySlug: "pois",

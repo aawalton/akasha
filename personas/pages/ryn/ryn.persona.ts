@@ -2,7 +2,6 @@ import type { Persona } from "akasha/personas/persona.page-type.types.ts"
 
 export const ryn = {
   id: "019f280a-96ef-7ec1-96c7-92d2acfc2fb7",
-  pageTypeSlug: "persona",
   type: "persona",
   slug: "ryn",
   definition:

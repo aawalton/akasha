@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const yummyIceCreamUtahCounty = {
   id: "019f322c-9c99-7f68-a802-85c7a5debe17",
-  pageTypeSlug: "location",
   type: "location",
   slug: "yummy-ice-cream-utah-county",
   title: "Yummy Ice Cream (Utah County)",

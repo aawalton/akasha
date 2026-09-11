@@ -2,7 +2,6 @@ import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.t
 
 export const seatSupervisor = {
   id: "01a0797a-9a21-7274-b0a9-16a707e7c032",
-  pageTypeSlug: "namespace",
   type: "namespace",
   slug: "seat-supervisor",
   definition: "the process running a seat",

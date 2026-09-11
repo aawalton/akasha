@@ -2,7 +2,6 @@ import type { Persona } from "akasha/personas/persona.page-type.types.ts"
 
 export const ruby = {
   id: "019f1365-9b2b-78fb-a936-f3ed624ffb7b",
-  pageTypeSlug: "persona",
   type: "persona",
   slug: "ruby",
   definition: "the daughter of Yue Lao, who teaches a love grown old how to fall again",

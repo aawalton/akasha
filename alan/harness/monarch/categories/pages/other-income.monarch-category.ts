@@ -2,7 +2,6 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/categories/mon
 
 export const otherIncome = {
   id: "01a06559-5ea8-7043-9e1b-9c0f8979fb09",
-  pageTypeSlug: "monarch-category",
   type: "monarch-category",
   slug: "other-income",
   title: "Other Income",

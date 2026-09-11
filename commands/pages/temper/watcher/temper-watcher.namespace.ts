@@ -2,7 +2,6 @@ import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.t
 
 export const temperWatcher = {
   id: "01a07c18-18d7-75c5-a461-d2efe805d0dc",
-  pageTypeSlug: "namespace",
   type: "namespace",
   slug: "temper-watcher",
   definition: "the watcher running beside the game",

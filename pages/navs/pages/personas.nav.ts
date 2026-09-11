@@ -2,7 +2,6 @@ import type { Nav } from "akasha/pages/navs/nav.page-type.types.ts"
 
 export const personas = {
   id: "01a06577-2613-7013-8889-e759e97f41ba",
-  pageTypeSlug: "nav",
   type: "nav",
   slug: "personas",
   title: "Personas",

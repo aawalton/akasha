@@ -2,7 +2,6 @@ import type { MonarchAccount } from "akasha/alan/harness/monarch/accounts/monarc
 
 export const retirementRothIra4056 = {
   id: "01a06559-5ea8-7014-ad03-61794e63764b",
-  pageTypeSlug: "monarch-account",
   type: "monarch-account",
   slug: "retirement-roth-ira-4056",
   title: "Retirement - Roth IRA 4056",

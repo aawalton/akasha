@@ -2,7 +2,6 @@ import type { FoodEntry } from "akasha/alan/track/food-entries/food-entry.page-t
 
 export const foodEntry20260624SaladVegetablesBellPepperCeleryCarrot90g20260624 = {
   id: "01a065a3-6e8c-7ebb-a62e-68730e8df188",
-  pageTypeSlug: "food-entry",
   type: "food-entry",
   slug: "food-entry-2026-06-24-salad-vegetables-bell-pepper-celery-carrot-90g-2026-06-24",
   title: "Salad vegetables (bell pepper, celery, carrot) 90g @2026-06-24",

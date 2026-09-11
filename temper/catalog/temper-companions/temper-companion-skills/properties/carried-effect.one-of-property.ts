@@ -2,7 +2,6 @@ import type { OneOfProperty } from "akasha/pages/one-of-properties/one-of-proper
 
 export const carriedEffect = {
   id: "01a08ece-d396-7735-b4e0-bbe153126211",
-  pageTypeSlug: "one-of-property",
   type: "one-of-property",
   slug: "carried-effect",
   propertySlug: "effect",

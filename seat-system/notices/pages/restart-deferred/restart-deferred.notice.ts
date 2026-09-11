@@ -2,7 +2,6 @@ import type { Notice } from "akasha/seat-system/notices/notice.page-type.types.t
 
 export const restartDeferred = {
   id: "01a06864-7aa3-7f1d-8d0e-7e8835e11fd1",
-  pageTypeSlug: "notice",
   type: "notice",
   slug: "restart-deferred",
   text: "md",

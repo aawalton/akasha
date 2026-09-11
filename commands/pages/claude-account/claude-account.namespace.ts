@@ -2,7 +2,6 @@ import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.t
 
 export const claudeAccount = {
   id: "01a07bcb-0b96-7437-a26f-deb498bea34d",
-  pageTypeSlug: "namespace",
   type: "namespace",
   slug: "claude-account",
   definition: "an Anthropic subscription put into service or brought back",

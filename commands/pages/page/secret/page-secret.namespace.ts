@@ -2,7 +2,6 @@ import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.t
 
 export const pageSecret = {
   id: "01a07bc6-efea-754e-b4cc-6744893bc509",
-  pageTypeSlug: "namespace",
   type: "namespace",
   slug: "page-secret",
   definition: "a value a page carries that the files hide",

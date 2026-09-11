@@ -2,7 +2,6 @@ import type { PagePropertyEntry } from "akasha/pages/property-entries/page-prope
 
 export const syncRuns = {
   id: "01a06861-f664-70f9-9c72-89cac17bf56b",
-  pageTypeSlug: "page-property-entry",
   type: "page-property-entry",
   slug: "sync-runs",
   propertySlug: "sync-runs",

@@ -2,7 +2,6 @@ import type { NamedEvent } from "akasha/story/named-events/named-event.page-type
 
 export const antiniumDeparture = {
   id: "019f6865-7a0a-7bb5-96b2-f14e4bdb5eae",
-  pageTypeSlug: "named-event",
   type: "named-event",
   slug: "antinium-departure",
   title: "Antinium leave Rhir",

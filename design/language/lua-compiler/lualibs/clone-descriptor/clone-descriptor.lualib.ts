@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const cloneDescriptor = {
   id: "01a08c45-0a63-7f2a-b14a-9b1b9e493efe",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "clone-descriptor",
   definition: "a property descriptor copied with its absent fields filled in",

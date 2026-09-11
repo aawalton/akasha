@@ -2,7 +2,6 @@ import type { NamePlace } from "akasha/pages/name-places/name-place.page-type.ty
 
 export const fileRole = {
   id: "01a04fd0-c6e8-7989-926c-76c5d7b35075",
-  pageTypeSlug: "name-place",
   type: "name-place",
   slug: "file-role",
   definition: "the part of a file's name saying what the file is to its page",

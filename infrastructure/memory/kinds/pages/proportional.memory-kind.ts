@@ -2,7 +2,6 @@ import type { MemoryKind } from "akasha/infrastructure/memory/kinds/memory-kind.
 
 export const proportional = {
   id: "01a09131-a5b6-78ec-bd9d-0d9d68faeb4b",
-  pageTypeSlug: "memory-kind",
   type: "memory-kind",
   slug: "proportional",
   definition: "a shared page divided among the processes holding that page",

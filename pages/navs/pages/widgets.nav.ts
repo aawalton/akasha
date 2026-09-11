@@ -2,7 +2,6 @@ import type { Nav } from "akasha/pages/navs/nav.page-type.types.ts"
 
 export const widgets = {
   id: "01a07c99-c735-71ae-b46f-2147776a5224",
-  pageTypeSlug: "nav",
   type: "nav",
   slug: "widgets",
   title: "Widgets",

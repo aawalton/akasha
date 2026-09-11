@@ -2,7 +2,6 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/categories/mon
 
 export const date = {
   id: "01a06559-5ea8-7021-80ad-c01a7ccfd34a",
-  pageTypeSlug: "monarch-category",
   type: "monarch-category",
   slug: "date",
   title: "Date",

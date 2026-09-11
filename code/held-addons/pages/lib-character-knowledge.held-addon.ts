@@ -2,7 +2,6 @@ import type { HeldAddon } from "akasha/code/held-addons/held-addon.page-type.typ
 
 export const libCharacterKnowledge = {
   id: "01a081a3-2a1e-74a3-ab33-591f9e3685af",
-  pageTypeSlug: "held-addon",
   type: "held-addon",
   slug: "lib-character-knowledge",
   addonName: "LibCharacterKnowledge",

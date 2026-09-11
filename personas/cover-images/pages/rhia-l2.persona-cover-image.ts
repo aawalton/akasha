@@ -2,7 +2,6 @@ import type { PersonaCoverImage } from "akasha/personas/cover-images/persona-cov
 
 export const rhiaL2 = {
   id: "019f324d-8981-7157-8ef3-573341fe3aa2",
-  pageTypeSlug: "persona-cover-image",
   type: "persona-cover-image",
   slug: "rhia-l2",
   title: "Rhia cover L2",

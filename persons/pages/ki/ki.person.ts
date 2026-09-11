@@ -2,7 +2,6 @@ import type { Person } from "akasha/persons/person.page-type.types.ts"
 
 export const ki = {
   id: "01a053fe-00f2-7278-a312-a9d344de7526",
-  pageTypeSlug: "person",
   type: "person",
   slug: "ki",
   definition: "Ki Goff, Alan's sister-in-law",

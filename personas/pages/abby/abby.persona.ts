@@ -2,7 +2,6 @@ import type { Persona } from "akasha/personas/persona.page-type.types.ts"
 
 export const abby = {
   id: "019eb7f9-816c-7d5a-bf13-8f40b5e7ec79",
-  pageTypeSlug: "persona",
   type: "persona",
   slug: "abby",
   definition: "a Lebanese-British bookseller who runs Abby's Books as a place to be met",

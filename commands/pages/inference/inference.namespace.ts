@@ -2,7 +2,6 @@ import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.t
 
 export const inference = {
   id: "01a07bc2-afbe-727e-90b4-d853582c03a2",
-  pageTypeSlug: "namespace",
   type: "namespace",
   slug: "inference",
   definition: "a model asked for something and what came back",

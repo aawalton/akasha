@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const decorateLegacy = {
   id: "01a08c47-090a-7f93-8527-593a46684e1e",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "decorate-legacy",
   definition: "a target run through the decorators of the first decorator proposal, last to first",

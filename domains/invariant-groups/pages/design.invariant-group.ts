@@ -2,7 +2,6 @@ import type { InvariantGroup } from "akasha/domains/invariant-groups/invariant-g
 
 export const design = {
   id: "01a04e11-9f97-7f4d-b81a-c47eb0d7d43a",
-  pageTypeSlug: "invariant-group",
   type: "invariant-group",
   slug: "design",
   definition: "an invariant that holds now",

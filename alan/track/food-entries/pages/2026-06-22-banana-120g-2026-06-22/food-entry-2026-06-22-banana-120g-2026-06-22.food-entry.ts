@@ -2,7 +2,6 @@ import type { FoodEntry } from "akasha/alan/track/food-entries/food-entry.page-t
 
 export const foodEntry20260622Banana120g20260622 = {
   id: "01a065a3-6e8c-77cd-a647-96d1901c0676",
-  pageTypeSlug: "food-entry",
   type: "food-entry",
   slug: "food-entry-2026-06-22-banana-120g-2026-06-22",
   title: "Banana 120g @2026-06-22",

@@ -2,7 +2,6 @@ import type { LifeTheme } from "akasha/alan/self/life-themes/life-theme.page-typ
 
 export const contributionSystem = {
   id: "019db533-f3a2-7a97-ab61-5b5ddc365d2e",
-  pageTypeSlug: "life-theme",
   type: "life-theme",
   slug: "contribution-system",
   title: "Contribution System",

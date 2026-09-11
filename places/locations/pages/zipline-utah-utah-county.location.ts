@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const ziplineUtahUtahCounty = {
   id: "019f322c-9ca6-7f3a-bcab-2b3819eea6ad",
-  pageTypeSlug: "location",
   type: "location",
   slug: "zipline-utah-utah-county",
   title: "Zipline Utah (Utah County)",

@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const coroutines = {
   id: "01a081c8-1548-7757-b00e-bb9c24454be6",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "coroutines",
   definition: "the coroutine calls a Lua host offers",

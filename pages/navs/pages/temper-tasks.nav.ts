@@ -2,7 +2,6 @@ import type { Nav } from "akasha/pages/navs/nav.page-type.types.ts"
 
 export const temperTasks = {
   id: "01a06577-2613-701c-9a56-98ee3786d7a2",
-  pageTypeSlug: "nav",
   type: "nav",
   slug: "temper-tasks",
   title: "Temper Tasks",

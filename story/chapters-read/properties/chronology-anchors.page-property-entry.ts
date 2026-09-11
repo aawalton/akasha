@@ -2,7 +2,6 @@ import type { PagePropertyEntry } from "akasha/pages/property-entries/page-prope
 
 export const chronologyAnchors = {
   id: "01a0685e-ef8a-71e6-87f4-7f7e2c65e093",
-  pageTypeSlug: "page-property-entry",
   type: "page-property-entry",
   slug: "chronology-anchors",
   propertySlug: "chronology-anchors",

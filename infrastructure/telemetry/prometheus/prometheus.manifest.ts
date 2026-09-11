@@ -2,7 +2,6 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests
 
 export const prometheus = {
   id: "01a07398-73c3-7425-83fd-0ccdc373d439",
-  pageTypeSlug: "manifest",
   type: "manifest",
   slug: "prometheus",
   definition:

@@ -2,7 +2,6 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests
 
 export const grafana = {
   id: "01a0739d-9053-797b-9562-07aff48ee592",
-  pageTypeSlug: "manifest",
   type: "manifest",
   slug: "grafana",
   definition:

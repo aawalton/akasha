@@ -2,7 +2,6 @@ import type { PagePropertyEntry } from "akasha/pages/property-entries/page-prope
 
 export const progress = {
   id: "01a05fd3-435e-7d0d-8c81-036d195632f1",
-  pageTypeSlug: "page-property-entry",
   type: "page-property-entry",
   slug: "progress",
   propertySlug: "progress",

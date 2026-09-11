@@ -2,7 +2,6 @@ import type { NamedEvent } from "akasha/story/named-events/named-event.page-type
 
 export const firstCall = {
   id: "019f6865-6fd7-7817-9a5c-1debe4ebd2b4",
-  pageTypeSlug: "named-event",
   type: "named-event",
   slug: "first-call",
   title: "First inter-group phone call among summoned Earthers",

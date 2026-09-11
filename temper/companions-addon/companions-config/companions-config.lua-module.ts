@@ -2,7 +2,6 @@ import type { LuaModule } from "akasha/code/lua-modules/lua-module.page-type.typ
 
 export const companionsConfig = {
   id: "01a0611d-84d1-7c75-9512-d3ca1613f0bb",
-  pageTypeSlug: "lua-module",
   type: "lua-module",
   slug: "companions-config",
   definition: "the one name the companion add-on's saved variables are read back into",

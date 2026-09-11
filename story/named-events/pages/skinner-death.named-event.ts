@@ -2,7 +2,6 @@ import type { NamedEvent } from "akasha/story/named-events/named-event.page-type
 
 export const skinnerDeath = {
   id: "019f6865-774e-7ad2-863b-22c66a5826f0",
-  pageTypeSlug: "named-event",
   type: "named-event",
   slug: "skinner-death",
   title: "Skinner dies (Liscor crypt disaster)",

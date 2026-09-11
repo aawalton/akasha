@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const map = {
   id: "01a08c54-2473-731c-bd8d-106345fd8bdd",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "map",
   definition: "keys held against values, in the order the keys arrived",

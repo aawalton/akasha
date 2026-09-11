@@ -2,7 +2,6 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/categories/mon
 
 export const katarasShortTerm = {
   id: "01a06559-5ea8-7037-a84a-fedaa027769e",
-  pageTypeSlug: "monarch-category",
   type: "monarch-category",
   slug: "kataras-short-term",
   title: "Katara's Short-term",

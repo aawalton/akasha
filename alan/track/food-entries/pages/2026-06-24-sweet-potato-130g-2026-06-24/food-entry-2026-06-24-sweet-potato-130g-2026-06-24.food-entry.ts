@@ -2,7 +2,6 @@ import type { FoodEntry } from "akasha/alan/track/food-entries/food-entry.page-t
 
 export const foodEntry20260624SweetPotato130g20260624 = {
   id: "01a065a3-6e8c-7f7d-b4c6-689bf28c78ee",
-  pageTypeSlug: "food-entry",
   type: "food-entry",
   slug: "food-entry-2026-06-24-sweet-potato-130g-2026-06-24",
   title: "Sweet potato 130g @2026-06-24",

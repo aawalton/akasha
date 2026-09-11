@@ -2,7 +2,6 @@ import type { Nav } from "akasha/pages/navs/nav.page-type.types.ts"
 
 export const idleLineup2 = {
   id: "01a06577-2613-700e-80e7-42477b941f9d",
-  pageTypeSlug: "nav",
   type: "nav",
   slug: "idle-lineup-2",
   title: "Lineup",

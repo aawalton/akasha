@@ -2,7 +2,6 @@ import type { NamedEvent } from "akasha/story/named-events/named-event.page-type
 
 export const crelerWars = {
   id: "019f6865-750b-7b57-a971-a089fb51be77",
-  pageTypeSlug: "named-event",
   type: "named-event",
   slug: "creler-wars",
   title: "The Creler Wars (historical era)",

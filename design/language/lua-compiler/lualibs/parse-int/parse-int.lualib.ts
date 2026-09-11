@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const parseInt = {
   id: "01a08c49-caaa-7f7b-a050-10afb3b61a14",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "parse-int",
   definition: "the whole number a string opens with, in a base read or given",

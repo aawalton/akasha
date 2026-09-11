@@ -2,7 +2,6 @@ import type { NamePlace } from "akasha/pages/name-places/name-place.page-type.ty
 
 export const listingHref = {
   id: "01a04fd4-3d76-728a-afd7-6ab3cfaa8e57",
-  pageTypeSlug: "name-place",
   type: "name-place",
   slug: "listing-href",
   definition: "the address the pages of one type are reached by from outside",

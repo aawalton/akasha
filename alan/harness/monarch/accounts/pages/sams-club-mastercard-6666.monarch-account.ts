@@ -2,7 +2,6 @@ import type { MonarchAccount } from "akasha/alan/harness/monarch/accounts/monarc
 
 export const samsClubMastercard6666 = {
   id: "01a06559-5ea8-7015-810c-3440ad3ae8e4",
-  pageTypeSlug: "monarch-account",
   type: "monarch-account",
   slug: "sams-club-mastercard-6666",
   title: "Sam's Club® Mastercard® 6666",

@@ -2,7 +2,6 @@ import type { Host } from "akasha/infrastructure/machines/hosts/host.page-type.t
 
 export const node01 = {
   id: "01a06590-e94f-7936-a87c-f8d006e7f8a8",
-  pageTypeSlug: "host",
   type: "host",
   slug: "node-01",
   definition: "the machine named node-01 in the main cluster",

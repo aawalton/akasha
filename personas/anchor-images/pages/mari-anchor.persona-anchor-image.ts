@@ -2,7 +2,6 @@ import type { PersonaAnchorImage } from "akasha/personas/anchor-images/persona-a
 
 export const mariAnchor = {
   id: "019f324d-5141-7984-911e-bd75963f215b",
-  pageTypeSlug: "persona-anchor-image",
   type: "persona-anchor-image",
   slug: "mari-anchor",
   title: "Mari — anchor",

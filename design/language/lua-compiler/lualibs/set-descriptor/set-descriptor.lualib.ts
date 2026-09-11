@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const setDescriptor = {
   id: "01a08c45-86c1-7418-879a-72f1aa1e347f",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "set-descriptor",
   definition: "a descriptor filed on a target's metatable, with the index hooks put in place",

@@ -2,7 +2,6 @@ import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.t
 
 export const emailDrafts = {
   id: "01a07bbf-258e-7659-aa34-83d6be87a5d9",
-  pageTypeSlug: "namespace",
   type: "namespace",
   slug: "email-drafts",
   definition: "a message written and not sent",

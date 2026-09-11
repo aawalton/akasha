@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const promiseAll = {
   id: "01a08c58-c2e0-77f5-962c-680e79b962de",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "promise-all",
   definition: "one promise answering with every value, or the first rejection",

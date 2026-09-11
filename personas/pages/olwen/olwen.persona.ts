@@ -2,7 +2,6 @@ import type { Persona } from "akasha/personas/persona.page-type.types.ts"
 
 export const olwen = {
   id: "019f6e3b-a52b-7605-9919-e4dceca15817",
-  pageTypeSlug: "persona",
   type: "persona",
   slug: "olwen",
   definition:

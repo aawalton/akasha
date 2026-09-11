@@ -2,7 +2,6 @@ import type { PagePropertyEntry } from "akasha/pages/property-entries/page-prope
 
 export const passiveEffects = {
   id: "01a05fcf-2469-73b4-a32a-44ca09660ace",
-  pageTypeSlug: "page-property-entry",
   type: "page-property-entry",
   slug: "passive-effects",
   propertySlug: "passive-effects",

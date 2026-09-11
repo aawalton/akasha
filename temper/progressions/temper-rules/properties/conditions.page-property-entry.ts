@@ -2,7 +2,6 @@ import type { PagePropertyEntry } from "akasha/pages/property-entries/page-prope
 
 export const conditions = {
   id: "01a05fd0-3aa4-739a-82b0-6e5a2647ad05",
-  pageTypeSlug: "page-property-entry",
   type: "page-property-entry",
   slug: "conditions",
   propertySlug: "conditions",

@@ -2,7 +2,6 @@ import type { Game } from "akasha/story/games/game.page-type.types.ts"
 
 export const theTower = {
   id: "01a0673f-a3d7-7000-afc1-88181be588cb",
-  pageTypeSlug: "game",
   type: "game",
   slug: "the-tower",
   title: "The Tower",

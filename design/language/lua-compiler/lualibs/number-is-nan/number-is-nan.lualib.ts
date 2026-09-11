@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const numberIsNan = {
   id: "01a08c43-0a33-7f9f-a032-381bcce40df2",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "number-is-nan",
   definition: "whether a value is the one value that differs from itself",

@@ -2,7 +2,6 @@ import type { PagePropertyEntry } from "akasha/pages/property-entries/page-prope
 
 export const zoneQuests = {
   id: "01a06167-3f9b-700a-9b12-ff06441e9392",
-  pageTypeSlug: "page-property-entry",
   type: "page-property-entry",
   slug: "zone-quests",
   propertySlug: "zone-quests",

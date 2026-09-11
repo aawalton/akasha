@@ -2,7 +2,6 @@ import type { NamedEvent } from "akasha/story/named-events/named-event.page-type
 
 export const challengeGolems = {
   id: "019f6865-7c61-74a4-82e6-e27251c3bdb5",
-  pageTypeSlug: "named-event",
   type: "named-event",
   slug: "challenge-golems",
   title: "Wistram golem challenge",

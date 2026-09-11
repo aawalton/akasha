@@ -2,7 +2,6 @@ import type { MonarchAccount } from "akasha/alan/harness/monarch/accounts/monarc
 
 export const costcoAnywhereVisaCardByCiti4898 = {
   id: "01a06559-5ea8-700d-b3f1-1cfe81a73542",
-  pageTypeSlug: "monarch-account",
   type: "monarch-account",
   slug: "costco-anywhere-visa-card-by-citi-4898",
   title: "Costco Anywhere Visa Card by Citi 4898",

@@ -2,7 +2,6 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/categories/mon
 
 export const phone = {
   id: "01a06559-5ea8-7045-9cdc-78328f7ab5e7",
-  pageTypeSlug: "monarch-category",
   type: "monarch-category",
   slug: "phone",
   title: "Phone",

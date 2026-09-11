@@ -2,7 +2,6 @@ import type { HeldAddon } from "akasha/code/held-addons/held-addon.page-type.typ
 
 export const libSlashCommander = {
   id: "01a081a5-173d-7681-9a03-f8d1b8cfb490",
-  pageTypeSlug: "held-addon",
   type: "held-addon",
   slug: "lib-slash-commander",
   addonName: "LibSlashCommander",

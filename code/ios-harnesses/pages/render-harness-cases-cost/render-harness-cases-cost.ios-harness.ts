@@ -2,7 +2,6 @@ import type { IosHarness } from "akasha/code/ios-harnesses/ios-harness.page-type
 
 export const renderHarnessCasesCost = {
   id: "01a08c83-ffd7-7522-a7f2-606479a6ddb9",
-  pageTypeSlug: "ios-harness",
   type: "ios-harness",
   slug: "render-harness-cases-cost",
   definition: "every case a render run draws of the cost tile",

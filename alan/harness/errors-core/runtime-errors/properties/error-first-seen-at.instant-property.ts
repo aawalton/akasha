@@ -2,7 +2,6 @@ import type { InstantProperty } from "akasha/pages/instant-properties/instant-pr
 
 export const errorFirstSeenAt = {
   id: "01a05f3f-e3e0-79ae-a33f-a08a9966c72b",
-  pageTypeSlug: "instant-property",
   type: "instant-property",
   slug: "error-first-seen-at",
   propertySlug: "first-seen-at",

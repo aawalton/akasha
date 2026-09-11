@@ -2,7 +2,6 @@ import type { PersonaCoverImage } from "akasha/personas/cover-images/persona-cov
 
 export const irisL2 = {
   id: "019f324d-5521-7902-9efd-6ef09e1baed4",
-  pageTypeSlug: "persona-cover-image",
   type: "persona-cover-image",
   slug: "iris-l2",
   title: "Iris cover L2",

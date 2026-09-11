@@ -2,7 +2,6 @@ import type { Persona } from "akasha/personas/persona.page-type.types.ts"
 
 export const aura = {
   id: "019eb8cb-0098-722b-8580-9fd4e057b09a",
-  pageTypeSlug: "persona",
   type: "persona",
   slug: "aura",
   definition:

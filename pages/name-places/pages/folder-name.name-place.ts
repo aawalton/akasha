@@ -2,7 +2,6 @@ import type { NamePlace } from "akasha/pages/name-places/name-place.page-type.ty
 
 export const folderName = {
   id: "01a04fd0-c6ea-77f5-8c92-d3fab1cd61b5",
-  pageTypeSlug: "name-place",
   type: "name-place",
   slug: "folder-name",
   definition: "the name a folder carries",

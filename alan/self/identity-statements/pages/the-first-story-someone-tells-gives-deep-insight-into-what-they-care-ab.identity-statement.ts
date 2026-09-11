@@ -2,7 +2,6 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statements/ide
 
 export const theFirstStorySomeoneTellsGivesDeepInsightIntoWhatTheyCareAb = {
   id: "019ea810-a2d3-76ba-b92e-e6cf96dd6d68",
-  pageTypeSlug: "identity-statement",
   type: "identity-statement",
   slug: "the-first-story-someone-tells-gives-deep-insight-into-what-they-care-ab",
   title: "The first story someone tells gives deep insight into what they care about most",

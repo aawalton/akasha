@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const uriError = {
   id: "01a081c1-4ea6-792e-a6ae-207740e9cc6d",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "uri-error",
   definition: "the error type a malformed URI is",

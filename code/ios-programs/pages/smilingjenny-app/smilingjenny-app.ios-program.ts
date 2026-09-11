@@ -2,7 +2,6 @@ import type { IosProgram } from "akasha/code/ios-programs/ios-program.page-type.
 
 export const smilingjennyApp = {
   id: "01a05907-081c-74fb-ab6e-e4bce2d526ee",
-  pageTypeSlug: "ios-program",
   type: "ios-program",
   slug: "smilingjenny-app",
   definition: "the web view Jenny's phone opens",

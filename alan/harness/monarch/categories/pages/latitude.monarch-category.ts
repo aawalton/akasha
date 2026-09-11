@@ -2,7 +2,6 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/categories/mon
 
 export const latitude = {
   id: "01a06559-5ea8-703b-9e7c-a8eaf1bffe2b",
-  pageTypeSlug: "monarch-category",
   type: "monarch-category",
   slug: "latitude",
   title: "Latitude",

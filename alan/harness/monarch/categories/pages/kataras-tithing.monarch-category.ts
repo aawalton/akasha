@@ -2,7 +2,6 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/categories/mon
 
 export const katarasTithing = {
   id: "01a06559-5ea8-7039-9318-38f03cb33a71",
-  pageTypeSlug: "monarch-category",
   type: "monarch-category",
   slug: "kataras-tithing",
   title: "Katara’s Tithing",

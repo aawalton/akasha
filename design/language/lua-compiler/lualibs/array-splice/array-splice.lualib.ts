@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const arraySplice = {
   id: "01a08c5e-5535-7500-b9e2-1574322d0905",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "array-splice",
   definition: "elements taken out of an array and others put where they were",

@@ -2,7 +2,6 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statements/ide
 
 export const iAmDeeplyConnected = {
   id: "019ea810-a12d-7368-a087-5ade2b10c157",
-  pageTypeSlug: "identity-statement",
   type: "identity-statement",
   slug: "i-am-deeply-connected",
   title: "I am deeply connected",

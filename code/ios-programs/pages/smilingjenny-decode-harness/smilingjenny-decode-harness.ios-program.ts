@@ -2,7 +2,6 @@ import type { IosProgram } from "akasha/code/ios-programs/ios-program.page-type.
 
 export const smilingjennyDecodeHarness = {
   id: "01a0590a-0b38-7a31-a332-3212460d77ba",
-  pageTypeSlug: "ios-program",
   type: "ios-program",
   slug: "smilingjenny-decode-harness",
   definition: "a program checking tiles decode the payloads they are handed",

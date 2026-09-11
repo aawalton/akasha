@@ -2,7 +2,6 @@ import type { NamedEvent } from "akasha/story/named-events/named-event.page-type
 
 export const wyvernsAttackPallass = {
   id: "019f6865-7b9c-7eae-9a6d-19a3fbdebc99",
-  pageTypeSlug: "named-event",
   type: "named-event",
   slug: "wyverns-attack-pallass",
   title: "Wyvern attack on Pallass",

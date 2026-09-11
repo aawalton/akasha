@@ -2,7 +2,6 @@ import type { Nav } from "akasha/pages/navs/nav.page-type.types.ts"
 
 export const idleRoster = {
   id: "01a06577-2613-7010-961a-a4695ecfafb6",
-  pageTypeSlug: "nav",
   type: "nav",
   slug: "idle-roster",
   title: "The Roster",

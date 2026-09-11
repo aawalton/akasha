@@ -2,7 +2,6 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statements/ide
 
 export const iAmUnusuallyPoorAtUnderstandingWhatOtherPeopleAreActuallyFee = {
   id: "019ea810-ae53-7a99-8452-1390018b5824",
-  pageTypeSlug: "identity-statement",
   type: "identity-statement",
   slug: "i-am-unusually-poor-at-understanding-what-other-people-are-actually-fee",
   title: "I am unusually poor at understanding what other people are actually feeling",

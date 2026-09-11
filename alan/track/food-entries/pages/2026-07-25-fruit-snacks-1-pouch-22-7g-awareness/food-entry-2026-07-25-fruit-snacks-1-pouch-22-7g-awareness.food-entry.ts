@@ -2,7 +2,6 @@ import type { FoodEntry } from "akasha/alan/track/food-entries/food-entry.page-t
 
 export const foodEntry20260725FruitSnacks1Pouch227gAwareness = {
   id: "01a065a3-6e92-7686-971d-f13fdf0ac630",
-  pageTypeSlug: "food-entry",
   type: "food-entry",
   slug: "food-entry-2026-07-25-fruit-snacks-1-pouch-22-7g-awareness",
   title: "Fruit snacks, 1 pouch 22.7g (awareness)",

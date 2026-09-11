@@ -2,7 +2,6 @@ import type { MonarchAccount } from "akasha/alan/harness/monarch/accounts/monarc
 
 export const shareSavings1400 = {
   id: "01a06559-5ea8-7016-90d9-1a9a35a6368b",
-  pageTypeSlug: "monarch-account",
   type: "monarch-account",
   slug: "share-savings-1400",
   title: "Share Savings 1400",

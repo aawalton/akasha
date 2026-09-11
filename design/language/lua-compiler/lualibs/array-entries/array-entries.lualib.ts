@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const arrayEntries = {
   id: "01a081de-1f79-775e-86d8-21783c2349a9",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "array-entries",
   definition: "the iterator over an array's index and element pairs",

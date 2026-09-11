@@ -2,7 +2,6 @@ import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.t
 
 export const temperInventoryAutomation = {
   id: "01a07c17-39c8-7ac1-bab7-bbb2882c1f54",
-  pageTypeSlug: "namespace",
   type: "namespace",
   slug: "temper-inventory-automation",
   definition: "what an inventory does without being asked",

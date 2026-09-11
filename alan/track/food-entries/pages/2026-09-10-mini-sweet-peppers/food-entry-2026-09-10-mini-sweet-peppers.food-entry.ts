@@ -2,7 +2,6 @@ import type { FoodEntry } from "akasha/alan/track/food-entries/food-entry.page-t
 
 export const foodEntry20260910MiniSweetPeppers = {
   id: "01a08c3a-27ef-7000-8104-e6337ed769c6",
-  pageTypeSlug: "food-entry",
   type: "food-entry",
   slug: "food-entry-2026-09-10-mini-sweet-peppers",
   cover: "/api/image/01a08c3a-27ef-7000-8104-e6337ed769c6",

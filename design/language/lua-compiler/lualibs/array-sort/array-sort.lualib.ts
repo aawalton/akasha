@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const arraySort = {
   id: "01a081ed-ab46-7d88-a484-f5d1657a6c8f",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "array-sort",
   definition: "the array whose elements have been ordered by a comparison",

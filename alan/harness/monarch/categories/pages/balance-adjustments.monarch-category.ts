@@ -2,7 +2,6 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/categories/mon
 
 export const balanceAdjustments = {
   id: "01a06559-5ea8-701e-9a72-4172c7048e11",
-  pageTypeSlug: "monarch-category",
   type: "monarch-category",
   slug: "balance-adjustments",
   title: "Balance Adjustments",

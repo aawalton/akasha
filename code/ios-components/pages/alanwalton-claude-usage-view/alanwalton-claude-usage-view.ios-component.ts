@@ -2,7 +2,6 @@ import type { IosComponent } from "akasha/code/ios-components/ios-component.page
 
 export const alanwaltonClaudeUsageView = {
   id: "01a05835-69d9-7bdc-8a4e-5c99b08be34b",
-  pageTypeSlug: "ios-component",
   type: "ios-component",
   slug: "alanwalton-claude-usage-view",
   definition: "the drawing of a Claude account usage reading",

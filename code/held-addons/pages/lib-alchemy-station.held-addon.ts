@@ -2,7 +2,6 @@ import type { HeldAddon } from "akasha/code/held-addons/held-addon.page-type.typ
 
 export const libAlchemyStation = {
   id: "01a081a2-f618-7839-b3f8-b192bcb8bbed",
-  pageTypeSlug: "held-addon",
   type: "held-addon",
   slug: "lib-alchemy-station",
   addonName: "LibAlchemyStation",

@@ -2,7 +2,6 @@ import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.t
 
 export const googleDrive = {
   id: "01a08cdb-7bc4-7fe8-b726-dbd570f362f3",
-  pageTypeSlug: "namespace",
   type: "namespace",
   slug: "google-drive",
   definition: "the files in Alan's Google Drive",

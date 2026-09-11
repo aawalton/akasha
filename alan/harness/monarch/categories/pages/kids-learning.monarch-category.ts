@@ -2,7 +2,6 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/categories/mon
 
 export const kidsLearning = {
   id: "01a06559-5ea8-703a-b6a2-0fc80b89ea19",
-  pageTypeSlug: "monarch-category",
   type: "monarch-category",
   slug: "kids-learning",
   title: "Kids Learning",

@@ -2,7 +2,6 @@ import type { PagePropertyEntry } from "akasha/pages/property-entries/page-prope
 
 export const openCooldowns = {
   id: "01a0675a-f185-721b-a712-f182fa1ba39b",
-  pageTypeSlug: "page-property-entry",
   type: "page-property-entry",
   slug: "open-cooldowns",
   propertySlug: "open-cooldowns",

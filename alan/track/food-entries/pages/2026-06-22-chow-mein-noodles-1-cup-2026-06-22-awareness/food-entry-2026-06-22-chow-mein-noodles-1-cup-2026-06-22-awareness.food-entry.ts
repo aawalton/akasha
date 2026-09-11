@@ -2,7 +2,6 @@ import type { FoodEntry } from "akasha/alan/track/food-entries/food-entry.page-t
 
 export const foodEntry20260622ChowMeinNoodles1Cup20260622Awareness = {
   id: "01a065a3-6e8c-7820-b730-7a2644fdde79",
-  pageTypeSlug: "food-entry",
   type: "food-entry",
   slug: "food-entry-2026-06-22-chow-mein-noodles-1-cup-2026-06-22-awareness",
   title: "Chow mein noodles ~1 cup @2026-06-22 (awareness)",

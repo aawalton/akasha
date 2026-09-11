@@ -2,7 +2,6 @@ import type { OriginKind } from "akasha/personas/origin-kinds/origin-kind.page-t
 
 export const welsh = {
   id: "01a05361-be60-7065-8e73-ac2f52c0cdfe",
-  pageTypeSlug: "origin-kind",
   type: "origin-kind",
   slug: "welsh",
   definition: "a name from Welsh",

@@ -2,7 +2,6 @@ import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.t
 
 export const index = {
   id: "01a08cc2-e9c6-72ff-91b4-a753fc83eee2",
-  pageTypeSlug: "namespace",
   type: "namespace",
   slug: "index",
   definition: "the index over the pages this repository holds",

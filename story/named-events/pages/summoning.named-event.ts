@@ -2,7 +2,6 @@ import type { NamedEvent } from "akasha/story/named-events/named-event.page-type
 
 export const summoning = {
   id: "019f6865-6fa0-75c1-ae5b-5685593873fe",
-  pageTypeSlug: "named-event",
   type: "named-event",
   slug: "summoning",
   title: "The summoning of Earthers to Innworld",

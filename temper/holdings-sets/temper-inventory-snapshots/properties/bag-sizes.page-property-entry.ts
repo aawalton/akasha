@@ -2,7 +2,6 @@ import type { PagePropertyEntry } from "akasha/pages/property-entries/page-prope
 
 export const bagSizes = {
   id: "01a0675a-f185-72e7-ad66-35247edba53b",
-  pageTypeSlug: "page-property-entry",
   type: "page-property-entry",
   slug: "bag-sizes",
   propertySlug: "bag-sizes",

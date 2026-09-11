@@ -2,7 +2,6 @@ import type { Nav } from "akasha/pages/navs/nav.page-type.types.ts"
 
 export const tracking = {
   id: "01a06577-2613-701d-a3a0-3396690c624f",
-  pageTypeSlug: "nav",
   type: "nav",
   slug: "tracking",
   title: "Tracking",

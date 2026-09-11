@@ -2,7 +2,6 @@ import type { FoodEntry } from "akasha/alan/track/food-entries/food-entry.page-t
 
 export const foodEntry20260724StandardMuesliBreakfast = {
   id: "01a065a3-6e92-74f8-bd2d-cbd374890ec2",
-  pageTypeSlug: "food-entry",
   type: "food-entry",
   slug: "food-entry-2026-07-24-standard-muesli-breakfast",
   title: "Standard muesli breakfast",

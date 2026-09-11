@@ -2,7 +2,6 @@ import type { Notice } from "akasha/seat-system/notices/notice.page-type.types.t
 
 export const restartRecoveryClause = {
   id: "01a06864-7aa3-77d9-a522-e5f038fad5c5",
-  pageTypeSlug: "notice",
   type: "notice",
   slug: "restart-recovery-clause",
   text: "md",

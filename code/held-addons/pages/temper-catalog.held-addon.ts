@@ -2,7 +2,6 @@ import type { HeldAddon } from "akasha/code/held-addons/held-addon.page-type.typ
 
 export const temperCatalog = {
   id: "01a081a0-ef0c-7f9a-9f1c-82ed7871ec3d",
-  pageTypeSlug: "held-addon",
   type: "held-addon",
   slug: "temper-catalog",
   addonName: "TemperCatalog",

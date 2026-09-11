@@ -2,7 +2,6 @@ import type { PersonAccess } from "akasha/persons/accesses/person-access.page-ty
 
 export const alanDomainAll = {
   id: "01a05433-f101-76c2-b99b-20050a09fc81",
-  pageTypeSlug: "person-access",
   type: "person-access",
   slug: "alan-domain-all",
   person: "alan",

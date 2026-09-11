@@ -2,7 +2,6 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/categories/mon
 
 export const entrepreneurship = {
   id: "01a06559-5ea8-7024-920b-85fc58d5f16c",
-  pageTypeSlug: "monarch-category",
   type: "monarch-category",
   slug: "entrepreneurship",
   title: "Entrepreneurship",

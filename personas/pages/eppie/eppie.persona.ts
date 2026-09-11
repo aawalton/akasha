@@ -2,7 +2,6 @@ import type { Persona } from "akasha/personas/persona.page-type.types.ts"
 
 export const eppie = {
   id: "019ee19d-d6e5-7ed5-b1ad-27ffe6f34987",
-  pageTypeSlug: "persona",
   type: "persona",
   slug: "eppie",
   definition:

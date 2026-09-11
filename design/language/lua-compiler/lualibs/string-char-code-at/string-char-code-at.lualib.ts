@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const stringCharCodeAt = {
   id: "01a081e7-49c9-7483-8702-12cf5959cc4f",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "string-char-code-at",
   definition: "the code of the character text holds at an index",

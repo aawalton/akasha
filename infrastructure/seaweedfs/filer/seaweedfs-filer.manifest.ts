@@ -2,7 +2,6 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests
 
 export const seaweedfsFiler = {
   id: "01a0737c-e503-77ed-b17f-c0edbfbb06f4",
-  pageTypeSlug: "manifest",
   type: "manifest",
   slug: "seaweedfs-filer",
   definition:

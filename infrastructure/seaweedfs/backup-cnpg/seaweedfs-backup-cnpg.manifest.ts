@@ -2,7 +2,6 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests
 
 export const seaweedfsBackupCnpg = {
   id: "01a07386-60c1-7d78-b901-14160ffce256",
-  pageTypeSlug: "manifest",
   type: "manifest",
   slug: "seaweedfs-backup-cnpg",
   definition:

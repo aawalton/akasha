@@ -2,7 +2,6 @@ import type { InstantProperty } from "akasha/pages/instant-properties/instant-pr
 
 export const errorLastSeenAt = {
   id: "01a05f3f-e3e0-7d03-874b-3c6c7f2183d1",
-  pageTypeSlug: "instant-property",
   type: "instant-property",
   slug: "error-last-seen-at",
   propertySlug: "last-seen-at",

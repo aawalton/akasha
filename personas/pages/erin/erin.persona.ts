@@ -2,7 +2,6 @@ import type { Persona } from "akasha/personas/persona.page-type.types.ts"
 
 export const erin = {
   id: "019ee136-3f5d-7307-b7ad-648ccdba498c",
-  pageTypeSlug: "persona",
   type: "persona",
   slug: "erin",
   definition: "the Innkeeper of The Wandering Inn, who meets people over a chessboard",

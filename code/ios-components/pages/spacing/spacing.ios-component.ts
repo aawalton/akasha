@@ -2,7 +2,6 @@ import type { IosComponent } from "akasha/code/ios-components/ios-component.page
 
 export const spacing = {
   id: "01a05821-5723-78b9-b75a-3fe58bb53935",
-  pageTypeSlug: "ios-component",
   type: "ios-component",
   slug: "spacing",
   definition: "the steps a gap between two drawn things is allowed to be",

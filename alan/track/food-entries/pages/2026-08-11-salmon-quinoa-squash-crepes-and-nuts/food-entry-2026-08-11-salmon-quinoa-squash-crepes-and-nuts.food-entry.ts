@@ -2,7 +2,6 @@ import type { FoodEntry } from "akasha/alan/track/food-entries/food-entry.page-t
 
 export const foodEntry20260811SalmonQuinoaSquashCrepesAndNuts = {
   id: "01a065a3-6e92-7def-b84f-0099e29e89e3",
-  pageTypeSlug: "food-entry",
   type: "food-entry",
   slug: "food-entry-2026-08-11-salmon-quinoa-squash-crepes-and-nuts",
   title: "Salmon, quinoa, squash, crepes and nuts",

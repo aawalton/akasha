@@ -2,7 +2,6 @@ import type { PagePropertyEntry } from "akasha/pages/property-entries/page-prope
 
 export const zoneCompletionActivities = {
   id: "01a06167-3f9b-700c-82b9-015808eb9637",
-  pageTypeSlug: "page-property-entry",
   type: "page-property-entry",
   slug: "zone-completion-activities",
   propertySlug: "zone-completion-activities",

@@ -5,7 +5,6 @@ export type Composing = ModulePropertyGroupCeilings
 
 export const composing = {
   id: "01a08d8d-e25a-7488-b77c-dc6aa4248ffb",
-  pageTypeSlug: "module-property-group",
   type: "module-property-group",
   slug: "composing",
   propertySlug: "composing",

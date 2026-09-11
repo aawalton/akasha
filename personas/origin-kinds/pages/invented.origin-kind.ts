@@ -2,7 +2,6 @@ import type { OriginKind } from "akasha/personas/origin-kinds/origin-kind.page-t
 
 export const invented = {
   id: "01a05361-be5f-7dbd-b452-60cdebc0674e",
-  pageTypeSlug: "origin-kind",
   type: "origin-kind",
   slug: "invented",
   definition: "a name made for her rather than taken from anywhere",

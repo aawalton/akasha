@@ -2,7 +2,6 @@ import type { NamedEvent } from "akasha/story/named-events/named-event.page-type
 
 export const meetingOfTribes = {
   id: "019f6865-7431-75a7-8824-4ea429c2dbf5",
-  pageTypeSlug: "named-event",
   type: "named-event",
   slug: "meeting-of-tribes",
   title: "Meeting of Tribes (the Gnoll gathering)",

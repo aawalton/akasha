@@ -2,7 +2,6 @@ import type { PersonaWallpaper } from "akasha/personas/wallpapers/persona-wallpa
 
 export const sophiaL0120260705t180816z = {
   id: "019f1023-655e-768b-a441-432c4cfbf840",
-  pageTypeSlug: "persona-wallpaper",
   type: "persona-wallpaper",
   slug: "sophia-l01-20260705t180816z",
   title: "Sophia — wallpaper L01 (Intensifying)",

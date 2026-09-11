@@ -2,7 +2,6 @@ import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.t
 
 export const emailAttachments = {
   id: "01a07bbf-258e-75b2-82ad-d3ff78cae0ca",
-  pageTypeSlug: "namespace",
   type: "namespace",
   slug: "email-attachments",
   definition: "a file carried by a message",

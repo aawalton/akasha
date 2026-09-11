@@ -2,7 +2,6 @@ import type { NamedEvent } from "akasha/story/named-events/named-event.page-type
 
 export const facestealerAttack = {
   id: "019f6865-7e85-7f2b-b06f-d2a8a344b2c9",
-  pageTypeSlug: "named-event",
   type: "named-event",
   slug: "facestealer-attack",
   title: "Facestealer attack and defeat",

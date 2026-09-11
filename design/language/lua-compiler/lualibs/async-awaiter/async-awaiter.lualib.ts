@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const asyncAwaiter = {
   id: "01a081c8-669c-7b45-994d-238ca9f5c438",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "async-awaiter",
   definition: "the promise an async function body becomes",

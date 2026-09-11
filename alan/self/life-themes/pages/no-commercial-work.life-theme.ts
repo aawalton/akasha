@@ -2,7 +2,6 @@ import type { LifeTheme } from "akasha/alan/self/life-themes/life-theme.page-typ
 
 export const noCommercialWork = {
   id: "019db533-f3a2-7b3d-9fcf-1f5c8a5538b8",
-  pageTypeSlug: "life-theme",
   type: "life-theme",
   slug: "no-commercial-work",
   title: "No Commercial Work",

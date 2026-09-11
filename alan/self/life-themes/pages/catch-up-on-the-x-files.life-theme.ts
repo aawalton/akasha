@@ -2,7 +2,6 @@ import type { LifeTheme } from "akasha/alan/self/life-themes/life-theme.page-typ
 
 export const catchUpOnTheXFiles = {
   id: "019db533-f3a2-7b45-b9f9-a430d4d2c106",
-  pageTypeSlug: "life-theme",
   type: "life-theme",
   slug: "catch-up-on-the-x-files",
   title: "Catch up on The X-Files",

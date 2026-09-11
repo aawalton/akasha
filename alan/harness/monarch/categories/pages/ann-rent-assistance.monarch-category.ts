@@ -2,7 +2,6 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/categories/mon
 
 export const annRentAssistance = {
   id: "01a06559-5ea8-701b-9764-27fda802e85b",
-  pageTypeSlug: "monarch-category",
   type: "monarch-category",
   slug: "ann-rent-assistance",
   title: "Ann Rent Assistance",

@@ -2,7 +2,6 @@ import type { MonarchHolding } from "akasha/alan/harness/monarch/holdings/monarc
 
 export const vmfxx = {
   id: "01a06559-5ea9-700c-956e-343800ff0e64",
-  pageTypeSlug: "monarch-holding",
   type: "monarch-holding",
   slug: "vmfxx",
   title: "VMFXX",

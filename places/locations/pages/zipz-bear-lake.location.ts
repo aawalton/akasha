@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const zipzBearLake = {
   id: "019f1aec-0f16-7771-b24b-d8a06cc8bbd3",
-  pageTypeSlug: "location",
   type: "location",
   slug: "zipz-bear-lake",
   title: "Zipz Bear Lake",

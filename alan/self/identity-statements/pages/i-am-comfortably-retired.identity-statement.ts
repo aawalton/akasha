@@ -2,7 +2,6 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statements/ide
 
 export const iAmComfortablyRetired = {
   id: "019ea810-ad04-7400-899d-55b1bcc17a75",
-  pageTypeSlug: "identity-statement",
   type: "identity-statement",
   slug: "i-am-comfortably-retired",
   title: "I am comfortably retired",

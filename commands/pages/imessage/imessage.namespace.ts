@@ -2,7 +2,6 @@ import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.t
 
 export const imessage = {
   id: "01a07962-b0fa-7141-ae89-2d50447947d2",
-  pageTypeSlug: "namespace",
   type: "namespace",
   slug: "imessage",
   definition: "Alan's messages on iMessage",

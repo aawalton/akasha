@@ -2,7 +2,6 @@ import type { LogSource } from "akasha/seat-system/log-sources/log-source.page-t
 
 export const oauthProxyConsole = {
   id: "01a0657c-cb14-7832-8d4b-09d86276c2e5",
-  pageTypeSlug: "log-source",
   type: "log-source",
   slug: "oauth-proxy-console",
 } as const satisfies LogSource

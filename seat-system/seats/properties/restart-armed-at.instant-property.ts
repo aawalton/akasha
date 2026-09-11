@@ -2,7 +2,6 @@ import type { InstantProperty } from "akasha/pages/instant-properties/instant-pr
 
 export const restartArmedAt = {
   id: "01a0542c-d18e-7fcc-af7e-824542ba448e",
-  pageTypeSlug: "instant-property",
   type: "instant-property",
   slug: "restart-armed-at",
   propertySlug: "armed-at",

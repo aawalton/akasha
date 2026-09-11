@@ -2,7 +2,6 @@ import type { IosComponent } from "akasha/code/ios-components/ios-component.page
 
 export const fallingChecks = {
   id: "01a08c54-a75a-7c9b-b63f-c642ff505fb5",
-  pageTypeSlug: "ios-component",
   type: "ios-component",
   slug: "falling-checks",
   definition: "what both harnesses assert of a reading that falls and a caption that counts",

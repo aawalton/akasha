@@ -2,7 +2,6 @@ import type { NamedEvent } from "akasha/story/named-events/named-event.page-type
 
 export const palaceOfFates = {
   id: "019f6865-7df2-78ed-9f40-302e2a959134",
-  pageTypeSlug: "named-event",
   type: "named-event",
   slug: "palace-of-fates",
   title: "Palace of Fates incident",

@@ -2,7 +2,6 @@ import type { LuaModule } from "akasha/code/lua-modules/lua-module.page-type.typ
 
 export const charactersConfigGlobal = {
   id: "01a062e8-bed7-7010-8998-ffe3116644d2",
-  pageTypeSlug: "lua-module",
   type: "lua-module",
   slug: "characters-config-global",
   definition: "the one name the characters add-on's saved variables are read back into",

@@ -2,7 +2,6 @@ import type { HeardMusic } from "akasha/alan/music/listening/heard-music/heard-m
 
 export const alan = {
   id: "01a01d3e-45ba-76ff-9d84-5bef96f9f1b8",
-  pageTypeSlug: "heard-music",
   type: "heard-music",
   slug: "alan",
   person: "alan",

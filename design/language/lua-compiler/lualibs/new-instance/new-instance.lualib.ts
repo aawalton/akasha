@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const newInstance = {
   id: "01a08c40-bd0b-7c60-bda5-568ac47df474",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "new-instance",
   definition: "the instance a class's constructor is run over",

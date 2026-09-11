@@ -2,7 +2,6 @@ import type { HeldAddon } from "akasha/code/held-addons/held-addon.page-type.typ
 
 export const libSavedVars = {
   id: "01a081a4-a572-785b-b132-9e17c759243c",
-  pageTypeSlug: "held-addon",
   type: "held-addon",
   slug: "lib-saved-vars",
   addonName: "LibSavedVars",

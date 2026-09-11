@@ -5,7 +5,6 @@ export type Filling = ModulePropertyGroupCeilings
 
 export const filling = {
   id: "01a09109-acaa-71f6-acb1-e909d8ca9ab4",
-  pageTypeSlug: "module-property-group",
   type: "module-property-group",
   slug: "filling",
   propertySlug: "filling",

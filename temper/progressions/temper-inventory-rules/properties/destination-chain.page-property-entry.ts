@@ -2,7 +2,6 @@ import type { PagePropertyEntry } from "akasha/pages/property-entries/page-prope
 
 export const destinationChain = {
   id: "01a07283-f299-71ac-b104-933518a6706d",
-  pageTypeSlug: "page-property-entry",
   type: "page-property-entry",
   slug: "destination-chain",
   propertySlug: "destination-chain",

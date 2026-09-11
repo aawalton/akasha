@@ -2,7 +2,6 @@ import type { PersonaAnchorImage } from "akasha/personas/anchor-images/persona-a
 
 export const ceriAnchor = {
   id: "019f324d-4eec-72f4-b2e9-1e183e74e04d",
-  pageTypeSlug: "persona-anchor-image",
   type: "persona-anchor-image",
   slug: "ceri-anchor",
   title: "Ceri — anchor",

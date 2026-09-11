@@ -2,7 +2,6 @@ import type { Person } from "akasha/persons/person.page-type.types.ts"
 
 export const lizzy = {
   id: "01a053fe-00f2-7cf3-92bc-694ea856500c",
-  pageTypeSlug: "person",
   type: "person",
   slug: "lizzy",
   definition: "Lizzy Walton, Alan's eldest child",

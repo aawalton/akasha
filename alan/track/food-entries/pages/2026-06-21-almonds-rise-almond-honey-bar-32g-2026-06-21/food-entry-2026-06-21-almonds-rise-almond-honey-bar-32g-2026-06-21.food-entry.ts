@@ -2,7 +2,6 @@ import type { FoodEntry } from "akasha/alan/track/food-entries/food-entry.page-t
 
 export const foodEntry20260621AlmondsRiseAlmondHoneyBar32g20260621 = {
   id: "01a065a3-6e8b-75f2-869d-a94c0681d1ca",
-  pageTypeSlug: "food-entry",
   type: "food-entry",
   slug: "food-entry-2026-06-21-almonds-rise-almond-honey-bar-32g-2026-06-21",
   title: "almonds (RISE almond honey bar) 32g @2026-06-21",

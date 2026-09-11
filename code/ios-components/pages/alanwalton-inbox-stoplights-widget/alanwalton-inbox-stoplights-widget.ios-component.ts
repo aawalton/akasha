@@ -2,7 +2,6 @@ import type { IosComponent } from "akasha/code/ios-components/ios-component.page
 
 export const alanwaltonInboxStoplightsWidget = {
   id: "01a05835-69da-7f34-ada0-2a3a373a831f",
-  pageTypeSlug: "ios-component",
   type: "ios-component",
   slug: "alanwalton-inbox-stoplights-widget",
   definition: "Alan's tile for the stoplight on each inbox",

@@ -2,7 +2,6 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/categories/mon
 
 export const audible = {
   id: "01a06559-5ea8-701c-81e5-7d6889f77568",
-  pageTypeSlug: "monarch-category",
   type: "monarch-category",
   slug: "audible",
   title: "Audible",

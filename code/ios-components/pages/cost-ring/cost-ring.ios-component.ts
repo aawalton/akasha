@@ -2,7 +2,6 @@ import type { IosComponent } from "akasha/code/ios-components/ios-component.page
 
 export const costRing = {
   id: "01a08bbb-de99-7239-ae5c-c8f4b66aefa3",
-  pageTypeSlug: "ios-component",
   type: "ios-component",
   slug: "cost-ring",
   definition: "the tile drawing what an hour of the block a person is in costs",

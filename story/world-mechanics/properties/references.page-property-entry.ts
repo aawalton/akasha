@@ -2,7 +2,6 @@ import type { PagePropertyEntry } from "akasha/pages/property-entries/page-prope
 
 export const references = {
   id: "01a06558-a991-78a4-abf8-48597f34d759",
-  pageTypeSlug: "page-property-entry",
   type: "page-property-entry",
   slug: "references",
   propertySlug: "references",

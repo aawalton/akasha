@@ -2,7 +2,6 @@ import type { Persona } from "akasha/personas/persona.page-type.types.ts"
 
 export const astra = {
   id: "019f1412-b223-74d5-93f3-d09bf6d6107f",
-  pageTypeSlug: "persona",
   type: "persona",
   slug: "astra",
   definition: "first-matter gathered into a girl, who gives every entity its form",

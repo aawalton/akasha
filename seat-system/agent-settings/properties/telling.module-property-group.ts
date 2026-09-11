@@ -5,7 +5,6 @@ export type Telling = ModulePropertyGroupCeilings
 
 export const telling = {
   id: "01a08df6-4018-7bb3-8b4c-38ed791d69e6",
-  pageTypeSlug: "module-property-group",
   type: "module-property-group",
   slug: "telling",
   propertySlug: "telling",

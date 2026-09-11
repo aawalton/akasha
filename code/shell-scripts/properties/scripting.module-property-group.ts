@@ -5,7 +5,6 @@ export type Scripting = ModulePropertyGroupCeilings
 
 export const scripting = {
   id: "01a08dbc-5e5e-7d69-b43c-041e701a0268",
-  pageTypeSlug: "module-property-group",
   type: "module-property-group",
   slug: "scripting",
   propertySlug: "scripting",

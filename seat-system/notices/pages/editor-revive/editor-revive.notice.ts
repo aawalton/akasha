@@ -2,7 +2,6 @@ import type { Notice } from "akasha/seat-system/notices/notice.page-type.types.t
 
 export const editorRevive = {
   id: "01a06864-7aa3-77d5-a349-fa270d2e6aa8",
-  pageTypeSlug: "notice",
   type: "notice",
   slug: "editor-revive",
   text: "md",

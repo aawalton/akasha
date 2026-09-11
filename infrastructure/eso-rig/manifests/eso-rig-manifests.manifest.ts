@@ -2,7 +2,6 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests
 
 export const esoRigManifests = {
   id: "01a07388-b696-775a-af9a-6aac114588cd",
-  pageTypeSlug: "manifest",
   type: "manifest",
   slug: "eso-rig-manifests",
   definition:

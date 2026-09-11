@@ -2,7 +2,6 @@ import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.t
 
 export const temperAddon = {
   id: "01a07c17-e1b0-77e5-b65e-84d51f07d0cf",
-  pageTypeSlug: "namespace",
   type: "namespace",
   slug: "temper-addon",
   definition: "an addon of Temper's own, built and put where the game reads it",

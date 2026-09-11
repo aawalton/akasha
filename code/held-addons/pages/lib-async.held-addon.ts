@@ -2,7 +2,6 @@ import type { HeldAddon } from "akasha/code/held-addons/held-addon.page-type.typ
 
 export const libAsync = {
   id: "01a081a3-0fae-786d-8da5-4b22d99dad77",
-  pageTypeSlug: "held-addon",
   type: "held-addon",
   slug: "lib-async",
   addonName: "LibAsync",

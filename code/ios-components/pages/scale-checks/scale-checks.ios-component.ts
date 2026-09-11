@@ -2,7 +2,6 @@ import type { IosComponent } from "akasha/code/ios-components/ios-component.page
 
 export const scaleChecks = {
   id: "01a08c63-252c-77f1-b8be-c0d4bca74aaa",
-  pageTypeSlug: "ios-component",
   type: "ios-component",
   slug: "scale-checks",
   definition: "what holds the phone's placing of a reading among rungs to the server's",

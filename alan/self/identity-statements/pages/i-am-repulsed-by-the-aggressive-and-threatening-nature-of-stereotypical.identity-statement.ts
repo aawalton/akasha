@@ -2,7 +2,6 @@ import type { IdentityStatement } from "akasha/alan/self/identity-statements/ide
 
 export const iAmRepulsedByTheAggressiveAndThreateningNatureOfStereotypical = {
   id: "019ea810-aebd-7af0-9bd0-70128c4f08e6",
-  pageTypeSlug: "identity-statement",
   type: "identity-statement",
   slug: "i-am-repulsed-by-the-aggressive-and-threatening-nature-of-stereotypical",
   title: "I am repulsed by the aggressive and threatening nature of stereotypical masculinity",

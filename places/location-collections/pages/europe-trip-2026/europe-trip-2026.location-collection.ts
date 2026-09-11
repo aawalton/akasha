@@ -2,7 +2,6 @@ import type { LocationCollection } from "akasha/places/location-collections/loca
 
 export const europeTrip2026 = {
   id: "019f37a9-4a37-7ede-9cec-7c42ca7f5470",
-  pageTypeSlug: "location-collection",
   type: "location-collection",
   slug: "europe-trip-2026",
   title: "Europe Trip 2026",

@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const stringAccess = {
   id: "01a081ed-ab46-7df8-a8b5-2538b0a257df",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "string-access",
   definition: "the character text holds at an index, or nothing where the index is outside it",

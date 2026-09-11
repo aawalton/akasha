@@ -2,7 +2,6 @@ import type { InvariantKind } from "akasha/domains/invariant-kinds/invariant-kin
 
 export const departure = {
   id: "01a04e11-9f98-742c-ba51-d96396b9ea5f",
-  pageTypeSlug: "invariant-kind",
   type: "invariant-kind",
   slug: "departure",
   definition: "a decision a reader would not guess right",

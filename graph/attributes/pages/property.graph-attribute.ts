@@ -2,7 +2,6 @@ import type { GraphAttribute } from "akasha/graph/attributes/graph-attribute.pag
 
 export const property = {
   id: "01a04fee-4eea-763c-a3b9-cea5b55f06c7",
-  pageTypeSlug: "graph-attribute",
   type: "graph-attribute",
   slug: "property",
   definition: "the property a page named another through",

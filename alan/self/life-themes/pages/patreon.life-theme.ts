@@ -2,7 +2,6 @@ import type { LifeTheme } from "akasha/alan/self/life-themes/life-theme.page-typ
 
 export const patreon = {
   id: "019db533-f3a2-7a8b-9d85-d4bec04a33b3",
-  pageTypeSlug: "life-theme",
   type: "life-theme",
   slug: "patreon",
   title: "Patreon",

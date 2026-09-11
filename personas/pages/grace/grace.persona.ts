@@ -2,7 +2,6 @@ import type { Persona } from "akasha/personas/persona.page-type.types.ts"
 
 export const grace = {
   id: "019f18fd-a89d-7fab-b9c0-052ee4db6877",
-  pageTypeSlug: "persona",
   type: "persona",
   slug: "grace",
   definition: "the deathless daughter of Death and Life, who keeps vigil with the dying",

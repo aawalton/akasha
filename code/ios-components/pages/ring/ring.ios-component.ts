@@ -2,7 +2,6 @@ import type { IosComponent } from "akasha/code/ios-components/ios-component.page
 
 export const ring = {
   id: "01a05482-22dc-7b38-95b1-b7801f498a68",
-  pageTypeSlug: "ios-component",
   type: "ios-component",
   slug: "ring",
   definition: "the circle a reading is drawn on",

@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const numberIsInteger = {
   id: "01a08c42-e5e4-7dbe-9ffa-734f929dae33",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "number-is-integer",
   definition: "whether a value is a finite number with no fractional part",

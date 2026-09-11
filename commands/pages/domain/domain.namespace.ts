@@ -2,7 +2,6 @@ import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.t
 
 export const domain = {
   id: "01a07c03-e381-7406-89c5-7c74061fd947",
-  pageTypeSlug: "namespace",
   type: "namespace",
   slug: "domain",
   definition: "the domains this repository has, drawn or handed over",

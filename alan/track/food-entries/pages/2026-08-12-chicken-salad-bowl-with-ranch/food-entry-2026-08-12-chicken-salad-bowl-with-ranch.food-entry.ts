@@ -2,7 +2,6 @@ import type { FoodEntry } from "akasha/alan/track/food-entries/food-entry.page-t
 
 export const foodEntry20260812ChickenSaladBowlWithRanch = {
   id: "01a065a3-6e93-7cf6-93a0-1795ebeda1fa",
-  pageTypeSlug: "food-entry",
   type: "food-entry",
   slug: "food-entry-2026-08-12-chicken-salad-bowl-with-ranch",
   title: "Chicken salad bowl with ranch",

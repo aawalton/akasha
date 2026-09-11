@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const decorateParam = {
   id: "01a08c47-4166-72f8-ba80-ce03951cdfda",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "decorate-param",
   definition: "a parameter decorator wrapped as a decorator the legacy run can call",

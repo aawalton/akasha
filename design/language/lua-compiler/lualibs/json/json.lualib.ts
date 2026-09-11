@@ -2,7 +2,6 @@ import type { Lualib } from "akasha/design/language/lua-compiler/lualibs/lualib.
 
 export const json = {
   id: "01a08c56-1588-7ac1-89d9-5c505edc9573",
-  pageTypeSlug: "lualib",
   type: "lualib",
   slug: "json",
   definition: "a value written as JSON text and read back from it",

@@ -2,7 +2,6 @@ import type { MonarchAccount } from "akasha/alan/harness/monarch/accounts/monarc
 
 export const account3055 = {
   id: "01a06559-5ea7-7002-8542-4c02fc33fb43",
-  pageTypeSlug: "monarch-account",
   type: "monarch-account",
   slug: "account-3055",
   title: "3055",

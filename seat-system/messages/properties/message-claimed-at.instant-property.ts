@@ -2,7 +2,6 @@ import type { InstantProperty } from "akasha/pages/instant-properties/instant-pr
 
 export const messageClaimedAt = {
   id: "01a06818-107b-7004-8256-c637bdc728bd",
-  pageTypeSlug: "instant-property",
   type: "instant-property",
   slug: "message-claimed-at",
   propertySlug: "claimed-at",

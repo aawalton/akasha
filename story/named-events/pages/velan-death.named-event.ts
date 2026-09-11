@@ -2,7 +2,6 @@ import type { NamedEvent } from "akasha/story/named-events/named-event.page-type
 
 export const velanDeath = {
   id: "019f6865-700b-7525-afe5-428a653ca95b",
-  pageTypeSlug: "named-event",
   type: "named-event",
   slug: "velan-death",
   title: "Death of Velan the Kind, the Goblin King",

@@ -2,7 +2,6 @@ import type { Persona } from "akasha/personas/persona.page-type.types.ts"
 
 export const dalla = {
   id: "019f22ad-945f-7a99-8f94-02bc3813d6bc",
-  pageTypeSlug: "persona",
   type: "persona",
   slug: "dalla",
   definition: "a Norse goddess who keeps the bridge every build crosses from built to real",

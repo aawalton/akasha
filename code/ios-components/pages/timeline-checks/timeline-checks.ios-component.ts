@@ -2,7 +2,6 @@ import type { IosComponent } from "akasha/code/ios-components/ios-component.page
 
 export const timelineChecks = {
   id: "01a08c75-6675-73c2-b0e1-37744996eaaf",
-  pageTypeSlug: "ios-component",
   type: "ios-component",
   slug: "timeline-checks",
   definition: "what both harnesses assert of the entries a feed's timeline is made of",

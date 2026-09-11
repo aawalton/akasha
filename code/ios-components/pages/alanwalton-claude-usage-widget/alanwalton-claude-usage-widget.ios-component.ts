@@ -2,7 +2,6 @@ import type { IosComponent } from "akasha/code/ios-components/ios-component.page
 
 export const alanwaltonClaudeUsageWidget = {
   id: "01a05835-69da-7412-b864-9a97dd228bc6",
-  pageTypeSlug: "ios-component",
   type: "ios-component",
   slug: "alanwalton-claude-usage-widget",
   definition: "Alan's tile for Claude account usage",
