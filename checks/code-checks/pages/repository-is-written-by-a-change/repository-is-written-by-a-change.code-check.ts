@@ -158,8 +158,8 @@ export const repositoryIsWrittenByAChange = {
         "A name that is away is away everywhere in its file whatever that name holds there.",
     },
     {
-      invariantKind: "gap",
-      statement: "A rule in a `.gitignore` below the root is read.",
+      invariantKind: "absence",
+      statement: "A `.gitignore` below the root is read by nothing here.",
     },
     {
       invariantKind: "gap",
