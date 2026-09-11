@@ -24,5 +24,9 @@ export const spotifyCredentials = {
       invariantKind: "absence",
       statement: "No secret is written to disk here.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The header authorising the token endpoint asks for no redirect URI.",
+    },
   ],
 } as const satisfies Module
