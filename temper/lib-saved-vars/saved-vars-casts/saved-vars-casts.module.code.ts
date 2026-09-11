@@ -14,7 +14,7 @@ import type {
   SavedVarsManagerInstance,
   SavedVarsNewFn,
   SavedVarsWritable,
-} from "../saved-vars-types/saved-vars-types.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-types/saved-vars-types.module.code.ts"
 
 export type Indexable = Record<string, unknown>
 

@@ -1,5 +1,8 @@
-import { asNextFn, asRawIpairs } from "../saved-vars-casts/saved-vars-casts.module.code.ts"
-import type { DataInstance } from "../saved-vars-types/saved-vars-types.module.code.ts"
+import {
+  asNextFn,
+  asRawIpairs,
+} from "akasha/temper/lib-saved-vars/saved-vars-casts/saved-vars-casts.module.code.ts"
+import type { DataInstance } from "akasha/temper/lib-saved-vars/saved-vars-types/saved-vars-types.module.code.ts"
 
 export const DO_NOT_OVERWRITE = true
 

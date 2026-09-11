@@ -4,15 +4,15 @@ import {
   asLsvTable,
   asProtected,
   asStringArray,
-} from "../saved-vars-casts/saved-vars-casts.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-casts/saved-vars-casts.module.code.ts"
 import {
   LIBSAVEDVARS_ACCOUNT_KEY,
   LIBSAVEDVARS_CHARACTER_ID_KEY,
   LIBSAVEDVARS_CHARACTER_NAME_KEY,
   LIBSAVEDVARS_VERSION,
-} from "../saved-vars-constants/saved-vars-constants.module.code.ts"
-import { LIB_STATE } from "../saved-vars-lib-state/saved-vars-lib-state.module.code.ts"
-import { LSV } from "../saved-vars-registry/saved-vars-registry.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-constants/saved-vars-constants.module.code.ts"
+import { LIB_STATE } from "akasha/temper/lib-saved-vars/saved-vars-lib-state/saved-vars-lib-state.module.code.ts"
+import { LSV } from "akasha/temper/lib-saved-vars/saved-vars-registry/saved-vars-registry.module.code.ts"
 import type {
   AccountAndProfile,
   DataInstance,
@@ -22,7 +22,7 @@ import type {
   RegisteredSavedVarsInfo,
   SavedVarsInfo,
   SavedVarsManagerInstance,
-} from "../saved-vars-types/saved-vars-types.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-types/saved-vars-types.module.code.ts"
 
 const WORLDS: { live: string[]; pts: string[] } = {
   live: ["NA Megaserver", "EU Megaserver"],

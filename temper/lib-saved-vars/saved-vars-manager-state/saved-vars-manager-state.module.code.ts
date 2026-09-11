@@ -1,4 +1,4 @@
-import type { SavedVarsManagerInstance } from "../saved-vars-types/saved-vars-types.module.code.ts"
+import type { SavedVarsManagerInstance } from "akasha/temper/lib-saved-vars/saved-vars-types/saved-vars-types.module.code.ts"
 
 export interface ManagerState {
   nextId: number

@@ -3,20 +3,20 @@ import {
   asSavedVarsNewFn,
   asSavedVarsWritable,
   asZoSavedVars,
-} from "../saved-vars-casts/saved-vars-casts.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-casts/saved-vars-casts.module.code.ts"
 import {
   LIBNAME,
   LIBSAVEDVARS_ACCOUNT_KEY,
   LIBSAVEDVARS_CHARACTER_ID_KEY,
   LIBSAVEDVARS_CHARACTER_NAME_KEY,
-} from "../saved-vars-constants/saved-vars-constants.module.code.ts"
-import { LIB_STATE } from "../saved-vars-lib-state/saved-vars-lib-state.module.code.ts"
-import { LSV } from "../saved-vars-registry/saved-vars-registry.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-constants/saved-vars-constants.module.code.ts"
+import { LIB_STATE } from "akasha/temper/lib-saved-vars/saved-vars-lib-state/saved-vars-lib-state.module.code.ts"
+import { LSV } from "akasha/temper/lib-saved-vars/saved-vars-registry/saved-vars-registry.module.code.ts"
 import type {
   LsvTable,
   RegisteredSavedVarsInfo,
   SavedVarsWritable,
-} from "../saved-vars-types/saved-vars-types.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-types/saved-vars-types.module.code.ts"
 
 function toCode(this: void, input: unknown): string {
   if (type(input) === "string") {

@@ -8,8 +8,8 @@ import {
   asString,
   asTable,
   asUnknownArray,
-} from "../saved-vars-casts/saved-vars-casts.module.code.ts"
-import { LIBNAME } from "../saved-vars-constants/saved-vars-constants.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-casts/saved-vars-casts.module.code.ts"
+import { LIBNAME } from "akasha/temper/lib-saved-vars/saved-vars-constants/saved-vars-constants.module.code.ts"
 import {
   enableDefaultsTrimming,
   fireMigrateStartCallbacks,
@@ -21,13 +21,13 @@ import {
   onLogoutCanceled,
   setDebugMode,
   validate,
-} from "../saved-vars-manager-core/saved-vars-manager-core.module.code.ts"
-import { MANAGER_STATE } from "../saved-vars-manager-state/saved-vars-manager-state.module.code.ts"
-import { LSV } from "../saved-vars-registry/saved-vars-registry.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-manager-core/saved-vars-manager-core.module.code.ts"
+import { MANAGER_STATE } from "akasha/temper/lib-saved-vars/saved-vars-manager-state/saved-vars-manager-state.module.code.ts"
+import { LSV } from "akasha/temper/lib-saved-vars/saved-vars-registry/saved-vars-registry.module.code.ts"
 import type {
   LsvTable,
   SavedVarsManagerInstance,
-} from "../saved-vars-types/saved-vars-types.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-types/saved-vars-types.module.code.ts"
 
 const CLASSNAME = "SavedVarsManager"
 const CLASSVERSION = 1.3

@@ -1,4 +1,4 @@
-import type { RegisteredSavedVarsInfo } from "../saved-vars-types/saved-vars-types.module.code.ts"
+import type { RegisteredSavedVarsInfo } from "akasha/temper/lib-saved-vars/saved-vars-types/saved-vars-types.module.code.ts"
 
 export interface LibState {
   savedVarRegistry: LuaTable<object, RegisteredSavedVarsInfo>

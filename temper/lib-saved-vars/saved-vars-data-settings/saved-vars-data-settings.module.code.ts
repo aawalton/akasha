@@ -7,27 +7,30 @@ import {
   asVersionUpdateFn,
   type RenameCallbackFn,
   type VersionUpdateFn,
-} from "../saved-vars-casts/saved-vars-casts.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-casts/saved-vars-casts.module.code.ts"
 import {
   LIBNAME,
   LIBSAVEDVARS_ACCOUNT_KEY,
-} from "../saved-vars-constants/saved-vars-constants.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-constants/saved-vars-constants.module.code.ts"
 import {
   getAccountSavedVarsActive,
   getSavedVarsManagers,
   loadAllSavedVars,
-} from "../saved-vars-data-active/saved-vars-data-active.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-data-active/saved-vars-data-active.module.code.ts"
 import {
   tableDiffKeys,
   validateScope,
-} from "../saved-vars-data-helpers/saved-vars-data-helpers.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-data-helpers/saved-vars-data-helpers.module.code.ts"
 import {
   DATA_STATE,
   DO_NOT_OVERWRITE,
   rawipairs,
-} from "../saved-vars-data-state/saved-vars-data-state.module.code.ts"
-import { LSV } from "../saved-vars-registry/saved-vars-registry.module.code.ts"
-import type { DataInstance, LsvTable } from "../saved-vars-types/saved-vars-types.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-data-state/saved-vars-data-state.module.code.ts"
+import { LSV } from "akasha/temper/lib-saved-vars/saved-vars-registry/saved-vars-registry.module.code.ts"
+import type {
+  DataInstance,
+  LsvTable,
+} from "akasha/temper/lib-saved-vars/saved-vars-types/saved-vars-types.module.code.ts"
 
 export function setAccountSavedVarsActive(
   this: void,

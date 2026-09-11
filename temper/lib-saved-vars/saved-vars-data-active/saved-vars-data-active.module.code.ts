@@ -2,15 +2,15 @@ import {
   asDataSource,
   asIndexable,
   asString,
-} from "../saved-vars-casts/saved-vars-casts.module.code.ts"
-import { validateScope } from "../saved-vars-data-helpers/saved-vars-data-helpers.module.code.ts"
-import { DATA_STATE } from "../saved-vars-data-state/saved-vars-data-state.module.code.ts"
-import { LSV } from "../saved-vars-registry/saved-vars-registry.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-casts/saved-vars-casts.module.code.ts"
+import { validateScope } from "akasha/temper/lib-saved-vars/saved-vars-data-helpers/saved-vars-data-helpers.module.code.ts"
+import { DATA_STATE } from "akasha/temper/lib-saved-vars/saved-vars-data-state/saved-vars-data-state.module.code.ts"
+import { LSV } from "akasha/temper/lib-saved-vars/saved-vars-registry/saved-vars-registry.module.code.ts"
 import type {
   DataInstance,
   LsvTable,
   SavedVarsManagerInstance,
-} from "../saved-vars-types/saved-vars-types.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-types/saved-vars-types.module.code.ts"
 
 function touchLazyLoad(this: void, _value: unknown): undefined {}
 

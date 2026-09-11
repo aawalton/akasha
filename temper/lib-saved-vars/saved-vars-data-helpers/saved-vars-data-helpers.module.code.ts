@@ -1,9 +1,9 @@
-import { asNumber } from "../saved-vars-casts/saved-vars-casts.module.code.ts"
+import { asNumber } from "akasha/temper/lib-saved-vars/saved-vars-casts/saved-vars-casts.module.code.ts"
 import {
   LIBSAVEDVARS_SCOPE_MAX,
   LIBSAVEDVARS_SCOPE_MIN,
-} from "../saved-vars-constants/saved-vars-constants.module.code.ts"
-import type { LsvTable } from "../saved-vars-types/saved-vars-types.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-constants/saved-vars-constants.module.code.ts"
+import type { LsvTable } from "akasha/temper/lib-saved-vars/saved-vars-types/saved-vars-types.module.code.ts"
 
 export function shiftOptionalParams(
   this: void,

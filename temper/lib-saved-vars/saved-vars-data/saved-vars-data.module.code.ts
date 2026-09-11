@@ -3,7 +3,7 @@ import {
   asDataInstance,
   asIndexable,
   asUnknownArray,
-} from "../saved-vars-casts/saved-vars-casts.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-casts/saved-vars-casts.module.code.ts"
 import {
   enableDefaultsTrimming,
   getAccountSavedVarsActive,
@@ -11,23 +11,23 @@ import {
   getSavedVarsManagers,
   loadAllSavedVars,
   setDebugMode,
-} from "../saved-vars-data-active/saved-vars-data-active.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-data-active/saved-vars-data-active.module.code.ts"
 import {
   addAccountWideToggle,
   addCharacterSettingsToggle,
   newAccountWide,
   newCharacterSettings,
-} from "../saved-vars-data-constructors/saved-vars-data-constructors.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-data-constructors/saved-vars-data-constructors.module.code.ts"
 import {
   getIterator,
   getLength,
-} from "../saved-vars-data-iterator/saved-vars-data-iterator.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-data-iterator/saved-vars-data-iterator.module.code.ts"
 import {
   migrateFrom,
   migrateFromAccountWide,
   migrateFromCharacterId,
   migrateFromCharacterName,
-} from "../saved-vars-data-migrate/saved-vars-data-migrate.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-data-migrate/saved-vars-data-migrate.module.code.ts"
 import {
   getLibAddonMenuAccountCheckbox,
   removeSettings,
@@ -35,10 +35,13 @@ import {
   renameSettingsAndInvert,
   setAccountSavedVarsActive,
   version,
-} from "../saved-vars-data-settings/saved-vars-data-settings.module.code.ts"
-import { DATA_STATE } from "../saved-vars-data-state/saved-vars-data-state.module.code.ts"
-import { LSV } from "../saved-vars-registry/saved-vars-registry.module.code.ts"
-import type { DataInstance, NextFn } from "../saved-vars-types/saved-vars-types.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-data-settings/saved-vars-data-settings.module.code.ts"
+import { DATA_STATE } from "akasha/temper/lib-saved-vars/saved-vars-data-state/saved-vars-data-state.module.code.ts"
+import { LSV } from "akasha/temper/lib-saved-vars/saved-vars-registry/saved-vars-registry.module.code.ts"
+import type {
+  DataInstance,
+  NextFn,
+} from "akasha/temper/lib-saved-vars/saved-vars-types/saved-vars-types.module.code.ts"
 
 const CLASSNAME = "Data"
 const CLASSVERSION = 1.8

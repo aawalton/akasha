@@ -3,19 +3,19 @@ import {
   asManagerInstance,
   asString,
   asUnknownArray,
-} from "../saved-vars-casts/saved-vars-casts.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-casts/saved-vars-casts.module.code.ts"
 import {
   LIBSAVEDVARS_ACCOUNT_KEY,
   LIBSAVEDVARS_CHARACTER_ID_KEY,
   LIBSAVEDVARS_CHARACTER_NAME_KEY,
-} from "../saved-vars-constants/saved-vars-constants.module.code.ts"
-import { DATA_STATE } from "../saved-vars-data-state/saved-vars-data-state.module.code.ts"
-import { LSV } from "../saved-vars-registry/saved-vars-registry.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-constants/saved-vars-constants.module.code.ts"
+import { DATA_STATE } from "akasha/temper/lib-saved-vars/saved-vars-data-state/saved-vars-data-state.module.code.ts"
+import { LSV } from "akasha/temper/lib-saved-vars/saved-vars-registry/saved-vars-registry.module.code.ts"
 import type {
   DataInstance,
   SavedVarsInfo,
   SavedVarsManagerInstance,
-} from "../saved-vars-types/saved-vars-types.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-types/saved-vars-types.module.code.ts"
 
 export function migrateFrom(
   this: void,

@@ -1,4 +1,4 @@
-import { asGlobalTable } from "../saved-vars-casts/saved-vars-casts.module.code.ts"
+import { asGlobalTable } from "akasha/temper/lib-saved-vars/saved-vars-casts/saved-vars-casts.module.code.ts"
 import {
   LIBSAVEDVARS_ACCOUNT_KEY,
   LIBSAVEDVARS_CHARACTER_ID_KEY,
@@ -7,8 +7,8 @@ import {
   LIBSAVEDVARS_SCOPE_CHARACTER,
   LIBSAVEDVARS_SCOPE_MAX,
   LIBSAVEDVARS_SCOPE_MIN,
-} from "../saved-vars-constants/saved-vars-constants.module.code.ts"
-import { LSV } from "../saved-vars-registry/saved-vars-registry.module.code.ts"
+} from "akasha/temper/lib-saved-vars/saved-vars-constants/saved-vars-constants.module.code.ts"
+import { LSV } from "akasha/temper/lib-saved-vars/saved-vars-registry/saved-vars-registry.module.code.ts"
 
 export function publishLibSavedVars(this: void): undefined {
   const globals = asGlobalTable(_G)
