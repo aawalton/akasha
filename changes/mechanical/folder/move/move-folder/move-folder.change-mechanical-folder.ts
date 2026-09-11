@@ -44,8 +44,24 @@ export const moveFolder = {
     },
     {
       invariantKind: "departure",
+      statement: "A body naming the folder that moved names the folder that folder landed at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What moved is handed down as the folder rather than as a path for each file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which bodies are read is answered by the last part of the folder's own name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that would not read refuses the move and is named.",
+    },
+    {
+      invariantKind: "absence",
       statement:
-        "A body naming the folder rather than a whole path that moved is repointed by nothing.",
+        "No importer is asked of the index, because a body naming a path names the folder.",
     },
     {
       invariantKind: "departure",

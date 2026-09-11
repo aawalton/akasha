@@ -7,10 +7,7 @@ import type {
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { reachesIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
-import {
-  importingOf,
-  spellersIn,
-} from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
+import { spellersIn } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
@@ -50,11 +47,12 @@ function movedInto(world: World, at: string, to: string, under: readonly string[
   return { moved: said }
 }
 
-function searchable(world: World): (path: string) => string | null {
+function searchable(world: World, unread: string[]): (path: string) => string | null {
   return (path) => {
     try {
       return world.textOf(path)
     } catch {
+      unread.push(path)
       return null
     }
   }
@@ -101,9 +99,8 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   const said = movedInto(world, given.from, given.to, under)
   if ("refused" in said) return refusing(said.refused)
   const moved = said.moved
-  const reading = importingOf(world.index, moved)
-  if ("unread" in reading) return refusing(reading.unread)
-  const carried = Object.fromEntries(moved)
+  const carried = { from: given.from, to: given.to }
+  const ways = Object.fromEntries(moved)
   const manifests = manifestsIn(world.index.everyPath(), world.index.fileKeysAt())
   const edits: FileChange[] = []
   let seen = world
@@ -112,33 +109,27 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     if (going.said.refused !== null) return going.said
     edits.push(...going.said.edits)
     seen = going.world
-    const answer = await reach(seen, CHANGE_IMPORTS, { was: one, now: next, moved: carried })
+    const answer = await reach(seen, CHANGE_IMPORTS, { was: one, now: next, carried })
     if (answer.said.refused !== null) return answer.said
     edits.push(...answer.said.edits)
     seen = answer.world
   }
-  for (const path of reading.importers) {
-    if (moved.has(path)) continue
-    if (seen.textOf(path) === null) {
-      return refusing(`\`${path}\` names a path that moved and could not be read`)
-    }
-    const asked = { was: path, now: path, moved: carried }
-    const answer = await reach(seen, CHANGE_IMPORTS, asked)
-    if (answer.said.refused !== null) return answer.said
-    edits.push(...answer.said.edits)
-    seen = answer.world
+  const unread: string[] = []
+  const folder = new Map([[given.from, given.to]])
+  const known = new Set(moved.keys())
+  const naming = spellersIn(seen.index.everyPath(), searchable(seen, unread), folder, known)
+  if (unread.length > 0) {
+    return refusing(`${namesDrawn(unread)} could not be read, so what it names is unjudged`)
   }
-  const known = new Set([...moved.keys(), ...reading.importers])
-  for (const path of spellersIn(seen.index.everyPath(), searchable(seen), moved, known)) {
-    const asked = { was: path, now: path, moved: carried }
-    const answer = await reach(seen, CHANGE_IMPORTS, asked)
+  for (const path of naming) {
+    const answer = await reach(seen, CHANGE_IMPORTS, { was: path, now: path, carried })
     if (answer.said.refused !== null) return answer.said
     edits.push(...answer.said.edits)
     seen = answer.world
   }
   for (const at of manifests) {
     if (moved.has(at) || !waysNaming(seen, at, moved)) continue
-    const answer = await reach(seen, CHANGE_MANIFEST_WAYS, { at, moved: carried })
+    const answer = await reach(seen, CHANGE_MANIFEST_WAYS, { at, moved: ways })
     if (answer.said.refused !== null) return answer.said
     edits.push(...answer.said.edits)
     seen = answer.world
