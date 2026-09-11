@@ -27,7 +27,7 @@ mkdir -p "$DATA/cache" "$DATA/models" "$DATA/inputs" "$DATA/outputs"
 
 if ! podman image exists "$IMAGE"; then
   echo "==> Building $IMAGE…"
-  podman build -t "$IMAGE" -f "$PKG_DIR/upscale-image/Containerfile" "$PKG_DIR"
+  podman build -t "$IMAGE" -f "$PKG_DIR/image/Containerfile" "$PKG_DIR"
 fi
 
 if podman container exists "$CONTAINER"; then

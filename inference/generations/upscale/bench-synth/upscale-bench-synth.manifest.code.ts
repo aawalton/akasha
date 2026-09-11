@@ -19,7 +19,7 @@ const LABELS = {
 } as const
 
 const RUNNER = readFileSync(
-  new URL("../upscale-bench-runner/upscale-bench-runner.shell-script.shell.sh", import.meta.url),
+  new URL("../bench-runner/upscale-bench-runner.shell-script.shell.sh", import.meta.url),
   "utf8"
 )
 

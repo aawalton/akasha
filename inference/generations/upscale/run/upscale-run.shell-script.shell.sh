@@ -21,7 +21,7 @@ for arg in "$@"; do
 done
 
 CLEAN_NAME="${BASE}-seedvr2-v25-clean.png"
-bash "$PKG_DIR/upscale-seedvr2/upscale-seedvr2.shell-script.shell.sh" "$IN_NAME" "$CLEAN_NAME" "$RESOLUTION"
+bash "$PKG_DIR/seedvr2/upscale-seedvr2.shell-script.shell.sh" "$IN_NAME" "$CLEAN_NAME" "$RESOLUTION"
 
 run_srpo=0
 if [ "$SRPO_MODE" = force ]; then
@@ -31,7 +31,7 @@ elif [ "$SRPO_MODE" = auto ] && [ -f "$DATA/models/unet/srpo-Q6_K.gguf" ]; then
 fi
 
 if [ "$run_srpo" = 1 ]; then
-  bash "$PKG_DIR/upscale-srpo/upscale-srpo.shell-script.shell.sh" "$DATA/outputs/$CLEAN_NAME" "${BASE}-seedvr2-v25-srpo"
+  bash "$PKG_DIR/srpo/upscale-srpo.shell-script.shell.sh" "$DATA/outputs/$CLEAN_NAME" "${BASE}-seedvr2-v25-srpo"
 else
   echo "==> stage 2 (SRPO) skipped (mode=$SRPO_MODE)."
 fi

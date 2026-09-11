@@ -41,7 +41,7 @@ shopt -s nullglob
 before=("$DATA"/outputs/"${PREFIX}"_*.png)
 BEFORE_N=${#before[@]}
 
-python3 "$PKG_DIR/upscale-srpo-graph/upscale-srpo-graph.python-module.python.py" \
+python3 "$PKG_DIR/srpo-graph/upscale-srpo-graph.python-module.python.py" \
   --base "$BASE" --image "$IMG_NAME" --prefix "$PREFIX" \
   --width "$W" --height "$H" --denoise "$DENOISE" --guidance "$GUIDANCE"
 
