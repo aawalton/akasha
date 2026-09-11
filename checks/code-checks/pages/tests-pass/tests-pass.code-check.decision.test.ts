@@ -42,7 +42,7 @@ import {
   landing,
   proposing,
 } from "akasha/checks/modules/scratch/check-scratch.module.code.ts"
-import type { Ran } from "akasha/code-system/code-tests/code-tests.module.code.ts"
+import type { Ran } from "akasha/code/code-tests/code-tests.module.code.ts"
 import { repoAt } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowAsked, shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"

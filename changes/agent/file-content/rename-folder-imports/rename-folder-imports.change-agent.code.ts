@@ -11,8 +11,8 @@ import type {
   Splice,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { typed } from "akasha/code/code-typing/code-typing.module.code.ts"
 import { placedIn } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
-import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 
 const AT = "at"
 

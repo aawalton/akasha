@@ -1,6 +1,6 @@
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { typed as typedCode } from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import { typed as typedCode } from "akasha/code/code-typing/code-typing.module.code.ts"
 import { DECLARING_AT } from "akasha/pages/indexes/declaring/index-declaring.index.code.ts"
 import {
   aProperty,

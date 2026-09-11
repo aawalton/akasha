@@ -1,6 +1,6 @@
 import { mkdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import { typed } from "akasha/code/code-typing/code-typing.module.code.ts"
 import { rowsOver } from "akasha/pages/entries/page-entries.module.code.ts"
 import {
   DECLARING_UNDER,

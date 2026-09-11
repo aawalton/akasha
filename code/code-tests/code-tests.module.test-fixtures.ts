@@ -1,4 +1,4 @@
-import { RUNNING } from "akasha/code-system/code-tests/code-tests.module.code.ts"
+import { RUNNING } from "akasha/code/code-tests/code-tests.module.code.ts"
 import { AKASHA, rootEnvName } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 
 export const PASSES =

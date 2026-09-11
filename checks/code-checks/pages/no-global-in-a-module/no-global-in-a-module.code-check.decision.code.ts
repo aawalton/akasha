@@ -1,5 +1,5 @@
+import { compiled } from "akasha/code/code-typing/code-typing.module.code.ts"
 import { lineOf, parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import { compiled } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import ts from "typescript"
 
 const DECLARED = ".d.ts"

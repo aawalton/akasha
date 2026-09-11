@@ -4,9 +4,7 @@ import {
   textIn,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { calledIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
-import type { Bodies, Body, Link } from "akasha/code/test-overlay/test-overlay.module.code.ts"
-import type { Ran, Spent } from "akasha/code-system/code-tests/code-tests.module.code.ts"
+import type { Ran, Spent } from "akasha/code/code-tests/code-tests.module.code.ts"
 import {
   alreadyRunning,
   CEILING,
@@ -16,7 +14,9 @@ import {
   ranOver,
   spentOver,
   testsBesideOf,
-} from "akasha/code-system/code-tests/code-tests.module.code.ts"
+} from "akasha/code/code-tests/code-tests.module.code.ts"
+import { calledIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
+import type { Bodies, Body, Link } from "akasha/code/test-overlay/test-overlay.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { endingOf } from "akasha/utils/run/running/running.module.code.ts"

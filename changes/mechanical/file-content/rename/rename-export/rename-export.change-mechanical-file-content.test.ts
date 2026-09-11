@@ -4,7 +4,7 @@ import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { bodiesIn } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { bodyAt } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
-import { NOWHERE } from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import { NOWHERE } from "akasha/code/code-typing/code-typing.module.code.ts"
 import {
   bodyOf,
   HELD_CODE,

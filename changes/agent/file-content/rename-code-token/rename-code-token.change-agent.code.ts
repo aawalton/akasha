@@ -10,15 +10,15 @@ import {
   declaredNamed,
   declaredOn,
   exportsNamed,
-} from "akasha/code-system/code-naming/code-naming.module.code.ts"
-import { scoping } from "akasha/code-system/code-source/code-source.module.code.ts"
+} from "akasha/code/code-naming/code-naming.module.code.ts"
 import {
   placingOver,
   readingOf,
   type Typing,
   typed,
   typingOver,
-} from "akasha/code-system/code-typing/code-typing.module.code.ts"
+} from "akasha/code/code-typing/code-typing.module.code.ts"
+import { scoping } from "akasha/code-system/code-source/code-source.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"

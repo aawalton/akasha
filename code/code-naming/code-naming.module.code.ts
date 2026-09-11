@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { insideOf, type Typing } from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import { insideOf, type Typing } from "akasha/code/code-typing/code-typing.module.code.ts"
 import ts from "typescript"
 
 export type Naming = {

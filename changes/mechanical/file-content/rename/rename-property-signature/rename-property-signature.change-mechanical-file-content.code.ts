@@ -14,14 +14,14 @@ import {
   declaredNamed,
   namingOf,
   spelledAs,
-} from "akasha/code-system/code-naming/code-naming.module.code.ts"
+} from "akasha/code/code-naming/code-naming.module.code.ts"
 import {
   placingOver,
   readingOf,
   type Typing,
   typed,
   typingOver,
-} from "akasha/code-system/code-typing/code-typing.module.code.ts"
+} from "akasha/code/code-typing/code-typing.module.code.ts"
 import { importingOf } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
 import ts from "typescript"
 

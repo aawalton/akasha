@@ -1,6 +1,6 @@
-const AT_CP_SYNC = "/repo/akasha/code-system/code-tests/code-tests.module.code.ts:207:11"
+const AT_CP_SYNC = "/repo/akasha/code/code-tests/code-tests.module.code.ts:207:11"
 
-const AT_WORLD_OF = "/repo/akasha/code-system/code-tests/code-tests.module.code.ts:244:7"
+const AT_WORLD_OF = "/repo/akasha/code/code-tests/code-tests.module.code.ts:244:7"
 
 const AT_CHECK = "/repo/akasha/checks/one.code-check.code.ts:31:3"
 

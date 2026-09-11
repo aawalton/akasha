@@ -7,7 +7,7 @@ import {
   endOf,
   foundIn,
   lintedOver,
-} from "akasha/code-system/code-lint/code-lint.module.code.ts"
+} from "akasha/code/code-lint/code-lint.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
 const UNUSED = "export function held(a: number, b: number): number {\n  return a\n}\n"

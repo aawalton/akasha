@@ -1,11 +1,11 @@
 import { readFileSync } from "node:fs"
-import type { Typing } from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import type { Typing } from "akasha/code/code-typing/code-typing.module.code.ts"
 import {
   insideOf,
   placingOver,
   typingOver,
-} from "akasha/code-system/code-typing/code-typing.module.code.ts"
-import { wrote } from "akasha/code-system/code-typing/code-typing.module.test-fixtures.ts"
+} from "akasha/code/code-typing/code-typing.module.code.ts"
+import { wrote } from "akasha/code/code-typing/code-typing.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 
 export const KEYS_SAID =
