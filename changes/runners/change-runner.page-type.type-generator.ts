@@ -70,11 +70,11 @@ function addressesFor(
 
 export function bodyFor(addresses: readonly Address[]): string {
   const lines = [
-    "export type Changes = {",
+    "export type Changes = Readonly<{",
     ...addresses.map(
       (one) => `  "${one.address}": Parameters<typeof import("${one.spec}")["${RUN_CHANGE}"]>[1]`
     ),
-    "}",
+    "}>",
   ]
   return `${lines.join("\n")}\n`
 }
