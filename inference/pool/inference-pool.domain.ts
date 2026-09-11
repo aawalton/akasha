@@ -62,7 +62,11 @@ export const inferencePool = {
     },
     {
       invariantKind: "departure",
-      statement: "A service on the host that nothing here declares is torn down.",
+      statement: "A service whose page says it is not to be running is torn down.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A service on the host that no page names at all is torn down.",
     },
     {
       invariantKind: "departure",

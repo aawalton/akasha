@@ -25,8 +25,12 @@ export const inferenceCommands = {
       statement: "The run rows a command here files are akasha pages.",
     },
     {
+      invariantKind: "departure",
+      statement: "A command here reads a service from that service's own page.",
+    },
+    {
       invariantKind: "gap",
-      statement: "The registry of services and hosts a command here reads is in akasha.",
+      statement: "The hosts a command here reads are pages rather than a list in code.",
     },
   ],
 } as const satisfies Domain
