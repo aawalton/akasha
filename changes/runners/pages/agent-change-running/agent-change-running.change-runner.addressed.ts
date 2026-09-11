@@ -1,4 +1,7 @@
 export type Changes = {
+  "change-agent/add-binary-file": Parameters<
+    typeof import("akasha/changes/agent/file/add-binary-file/add-binary-file.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/add-file": Parameters<
     typeof import("akasha/changes/agent/file/add-file/add-file.change-agent.code.ts")["runChange"]
   >[1]
