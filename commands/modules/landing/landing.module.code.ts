@@ -1,43 +1,68 @@
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
+import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { textIn, textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
-import { gitIgnoring } from "akasha/git/pathspec/git-pathspec.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
-import { saidBy } from "../../../utils/narrow/said-by/said-by.module.code.ts"
-import { commitNamed, unfresh } from "../change-freshness/change-freshness.module.code.ts"
-import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
-import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
+import {
+  commitNamed,
+  unfresh,
+} from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
+import {
+  bodyAt,
+  readingEnded,
+} from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
+import {
+  committed,
+  whileIndexFrees,
+} from "akasha/commands/modules/committing/committing.module.code.ts"
 import {
   clearedOff,
   clearedUnder,
   isFolder,
-} from "../folder-clearing/folder-clearing.module.code.ts"
+} from "akasha/commands/modules/folder-clearing/folder-clearing.module.code.ts"
 import {
   type Linking,
   linkedOver,
   NOTHING_LINKED,
-} from "../folder-linking/folder-linking.module.code.ts"
-import { indexingLoaded, type Keeping } from "../gate-building/gate-building.module.code.ts"
-import { holding } from "../holding/holding.module.code.ts"
+} from "akasha/commands/modules/folder-linking/folder-linking.module.code.ts"
+import {
+  indexingLoaded,
+  type Keeping,
+} from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
+import { holding } from "akasha/commands/modules/holding/holding.module.code.ts"
 import {
   type Bodied,
   baseOf,
   changeOf,
   splitIn,
-} from "../landing-change-composing/landing-change-composing.module.code.ts"
-import { alsoFailed, alsoSaid } from "../landing-saying/landing-saying.module.code.ts"
-import { absentAfter, orphaningIn, orphaningSaid } from "../orphaning/orphaning.module.code.ts"
-import type { FileMove } from "../path-moving/path-moving.module.code.ts"
-import { movedOnto, movesHeld } from "../path-moving/path-moving.module.code.ts"
-import type { Reading as AsRead } from "../reading/reading.module.code.ts"
-import { outsideRoot, writesOutside } from "../said-pathing/said-pathing.module.code.ts"
-import { allowedThrough } from "../stopping/command-stopping.module.code.ts"
+} from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import {
+  alsoFailed,
+  alsoSaid,
+} from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
+import {
+  absentAfter,
+  orphaningIn,
+  orphaningSaid,
+} from "akasha/commands/modules/orphaning/orphaning.module.code.ts"
+import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
+import {
+  movedOnto,
+  movesHeld,
+} from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
+import type { Reading as AsRead } from "akasha/commands/modules/reading/reading.module.code.ts"
+import {
+  outsideRoot,
+  writesOutside,
+} from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
+import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
+import { gitIgnoring } from "akasha/git/pathspec/git-pathspec.module.code.ts"
+import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export type Landed = {
   readonly base: string

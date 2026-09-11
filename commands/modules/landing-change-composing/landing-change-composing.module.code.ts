@@ -1,17 +1,17 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
+import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type {
   Adding,
   Appending,
   FileChange,
   Removing,
   Replacing,
-} from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
-import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
-import type { FileMove } from "../path-moving/path-moving.module.code.ts"
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { bodyAt } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
+import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
+import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 
 export type Bodied = {
   readonly path: string

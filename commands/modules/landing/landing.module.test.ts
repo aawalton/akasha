@@ -1,21 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import {
-  everythingFiled,
-  fileWhereTheIndexIs,
-  identitiesListedIn,
-  idFiledIn,
-  listedFiledIn,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { readingEnded } from "../commit-reading/commit-reading.module.code.ts"
-import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
-import {
-  baseOf,
-  changeOf,
-} from "../landing-change-composing/landing-change-composing.module.code.ts"
-import { landing } from "./landing.module.code.ts"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { readingEnded } from "akasha/commands/modules/commit-reading/commit-reading.module.code.ts"
+import { NO_GATE } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
+import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import {
   A,
   ADMITS,
@@ -53,7 +42,18 @@ import {
   splitLanded,
   splitThrew,
   THROWN,
-} from "./landing.module.test-fixtures.ts"
+} from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
+import {
+  baseOf,
+  changeOf,
+} from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import {
+  everythingFiled,
+  fileWhereTheIndexIs,
+  identitiesListedIn,
+  idFiledIn,
+  listedFiledIn,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

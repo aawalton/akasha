@@ -4,6 +4,20 @@ import { join } from "node:path"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
+import type { Stated } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
+import {
+  NO_TEXT,
+  rowsFrom,
+} from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
+import type {
+  Drafted,
+  Landed,
+  Refused,
+} from "akasha/commands/modules/landing/landing.module.code.ts"
+import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   bodyOf,
@@ -19,13 +33,6 @@ import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
 import { said as saying } from "akasha/utils/run/running/running.module.code.ts"
-import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
-import type { Stated } from "../change-preparing/change-preparing.module.code.ts"
-import { NO_TEXT, rowsFrom } from "../change-preparing/change-preparing.module.code.ts"
-import { baseOf } from "../landing-change-composing/landing-change-composing.module.code.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import type { Drafted, Landed, Refused } from "./landing.module.code.ts"
-import { landing } from "./landing.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
 
