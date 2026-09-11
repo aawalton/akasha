@@ -2,7 +2,6 @@ import type { Message } from "akasha/seat-system/messages/message.page-type.type
 
 export const message7adf7e2ce0f9 = {
   id: "01a091f9-ad6d-7000-9ead-7adf7e2ce0f9",
-  pageTypeSlug: "message",
   type: "message",
   slug: "message-7adf7e2ce0f9",
   to: "athena",
