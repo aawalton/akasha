@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATAHpKUAAIBjxRNCzulQs7pSKmC0i5gtYiYLSKmC0ipgtEKjtRBO6UQTulBdEx2xEEx0sAAAHNgAaycoNTrgAAAABE8AgoDUEgBEGAAKQAIAAQAACUAQDJwAjAGYADkABKA4oAFDJIFAjEQAwgAAACAMAHIAgAcIAYDE4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDEEgaw",
+  "buildHash": "ATQHpKUAAIBjxRNCzulQs7pSKmC0i5gtYiYLSKmC0ipgtEKjtRBO6UQTulBdEx2xEEx0sAAAHNgAaycoNTrgAAAABE8AgoDUEgBEGAAKQAIAAQAACUAQDJwAjAGYADkABKA4oAFDJIFAjEQAwgAAACAMAHIAgAcIAYDE4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDEEgaw",
   "gender": 1,
   "level": 50,
   "classId": 2,
@@ -9,7 +9,7 @@
   "className": "Sorcerer",
   "classIcon": "/esoui/art/icons/class/class_sorcerer.dds",
   "companionRapport": {
-    "6": 4271
+    "6": 4276
   },
   "quests": [
     465,
@@ -12843,7 +12843,7 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-10"
+    "date": "2026-09-11"
   },
   "dailyWritStates": {
     "completed": {
@@ -12864,7 +12864,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-10"
+    "date": "2026-09-11"
   },
   "motifKnowledge": {
     "1": {
