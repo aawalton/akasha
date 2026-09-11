@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import type { DepSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
 import { makeSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
-import { partitiveQuantifier } from "./partitive-quantifier.sentence-shape.code.ts"
+import { partitiveQuantifier } from "akasha/domains/sentence-shapes/partitive-quantifier/partitive-quantifier.sentence-shape.code.ts"
 
 type Row = readonly [string, string, number, string]
 

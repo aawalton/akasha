@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
-import type { Changing, Known } from "../../modules/warranting/warranting.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import type {
+  Changing,
+  Known,
+} from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
   addedIn,
   changeTabooTerms,
@@ -10,7 +13,7 @@ import {
   owedOf,
   reachOf,
   seamsApart,
-} from "./change-taboo-terms.context-warrant.code.ts"
+} from "akasha/domains/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.code.ts"
 
 const STAND = "(?<![a-z])(stands?|standing|stood)(?![a-z])"
 

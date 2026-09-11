@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import type { DepSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
 import { makeSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
-import { closingCount } from "./closing-count.sentence-shape.code.ts"
+import { closingCount } from "akasha/domains/sentence-shapes/closing-count/closing-count.sentence-shape.code.ts"
 
 type Row = readonly [string, string, number, string]
 

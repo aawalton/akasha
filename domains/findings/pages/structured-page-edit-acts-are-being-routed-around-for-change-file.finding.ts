@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const structuredPageEditActsAreBeingRoutedAroundForChangeFile = {
   id: "01a08cd1-8cc1-76cd-b0e1-58204b8c6777",

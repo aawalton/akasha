@@ -1,21 +1,24 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { schemaFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { blobIdOf, recordRead } from "../../../../commands/modules/reading/reading.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { blobIdOf, recordRead } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   knowingIn,
   unreadIn,
   type Warrant,
-} from "../../modules/warranting/warranting.module.code.ts"
+} from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
   pageTypeListed,
   pathsOf,
   warrantsSeeded,
-} from "../../modules/warranting/warranting.module.test-fixtures.ts"
-import { filePageType, TYPE } from "./file-page-type.context-warrant.code.ts"
+} from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
+import {
+  filePageType,
+  TYPE,
+} from "akasha/domains/context/warrants/file-page-type/file-page-type.context-warrant.code.ts"
+import { schemaFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 

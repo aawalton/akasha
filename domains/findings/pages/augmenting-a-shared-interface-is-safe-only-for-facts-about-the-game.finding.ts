@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const augmentingASharedInterfaceIsSafeOnlyForFactsAboutTheGame = {
   id: "01a061fa-c48f-7801-8b15-d717a2bcadd4",

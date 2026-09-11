@@ -1,4 +1,4 @@
-import type { Initiative } from "../initiative.page-type.types.ts"
+import type { Initiative } from "akasha/domains/initiatives/initiative.page-type.types.ts"
 
 export const awenPageFoldersByIndex = {
   id: "01a0823b-74ce-744f-a860-1dc482cbd1c9",

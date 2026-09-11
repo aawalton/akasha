@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const theTestOverlayIsDefeatedByTheAkashaRootTheRunnerForwardsIntoIt = {
   id: "01a0889d-6387-79ab-89cf-ab25786fdf82",

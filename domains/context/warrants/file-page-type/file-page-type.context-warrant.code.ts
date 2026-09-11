@@ -1,10 +1,10 @@
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   blobAt,
   type Knowing,
   type Warrant,
-} from "../../modules/warranting/warranting.module.code.ts"
+} from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 export const TYPE = "A page answers to its type."
 

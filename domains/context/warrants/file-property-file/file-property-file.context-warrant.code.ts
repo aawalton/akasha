@@ -1,5 +1,10 @@
 import { dirname, join } from "node:path"
 import {
+  blobAt,
+  type Knowing,
+  type Warrant,
+} from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import {
   besideAt,
   type Parted,
   pageNamed,
@@ -9,11 +14,6 @@ import {
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { propertiesIfNamedOf } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import {
-  blobAt,
-  type Knowing,
-  type Warrant,
-} from "../../modules/warranting/warranting.module.code.ts"
 
 export const PAGE =
   "A property's file answers to the page it sits beside, and that page states the property it holds."

@@ -1,4 +1,4 @@
-import type { Initiative } from "../initiative.page-type.types.ts"
+import type { Initiative } from "akasha/domains/initiatives/initiative.page-type.types.ts"
 
 export const dallaDeployCleanup = {
   id: "01a08cd4-2398-7e2b-8600-bc6002b41fe7",

@@ -1,4 +1,4 @@
-import type { ProseFrame } from "../prose-frame.page-type.types.ts"
+import type { ProseFrame } from "akasha/domains/standard-agent-english/prose-frames/prose-frame.page-type.types.ts"
 
 export const object = {
   id: "01a08242-07fd-702b-8570-c2ce406afdc0",

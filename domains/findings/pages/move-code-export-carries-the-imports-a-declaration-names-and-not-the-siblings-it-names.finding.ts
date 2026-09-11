@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const moveCodeExportCarriesTheImportsADeclarationNamesAndNotTheSiblingsItNames = {
   id: "01a08cbf-bb93-7c32-b7ca-04142ca15a28",

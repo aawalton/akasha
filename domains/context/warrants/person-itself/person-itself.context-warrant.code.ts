@@ -1,6 +1,9 @@
+import { slugStated } from "akasha/domains/context/modules/agent-stated/agent-stated.module.code.ts"
+import {
+  blobAt,
+  type Warrant,
+} from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { slugStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
-import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
 
 export const PERSON =
   "A seat is held by the person it states, and that person is read before the seat is changed."

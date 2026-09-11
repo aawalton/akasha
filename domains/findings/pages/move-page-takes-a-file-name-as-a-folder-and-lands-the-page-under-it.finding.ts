@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const movePageTakesAFileNameAsAFolderAndLandsThePageUnderIt = {
   id: "01a08889-bcad-77c1-9c09-0340b5d02bec",

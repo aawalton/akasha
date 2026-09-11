@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const anAgentChangeDropsTheArgumentsThatChangeDoesNotRead = {
   id: "01a08dc1-bf0c-76d3-91d4-9e0e2032c85d",

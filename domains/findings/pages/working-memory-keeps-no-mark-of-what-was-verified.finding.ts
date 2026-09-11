@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const workingMemoryKeepsNoMarkOfWhatWasVerified = {
   id: "01a08c4c-d366-7217-98f5-79afff984a00",

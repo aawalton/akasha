@@ -1,10 +1,13 @@
-import type { DepSentence, DepToken } from "../dependency-graph/dependency-graph.module.code.ts"
+import type {
+  DepSentence,
+  DepToken,
+} from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
 import {
   byId,
   childrenByRel,
   childrenOf,
   lower,
-} from "../dependency-graph/dependency-graph.module.code.ts"
+} from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
 
 export type Match = {
   readonly at: readonly number[]

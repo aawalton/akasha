@@ -1,4 +1,4 @@
-import type { StandardAgentEnglishProperty } from "../standard-agent-english/properties/standard-agent-english-property.page-type.types.ts"
+import type { StandardAgentEnglishProperty } from "akasha/domains/standard-agent-english/properties/standard-agent-english-property.page-type.types.ts"
 
 export const invariantStatement = {
   id: "01a049c8-3ead-7c41-ae0b-d4c110afbc4f",

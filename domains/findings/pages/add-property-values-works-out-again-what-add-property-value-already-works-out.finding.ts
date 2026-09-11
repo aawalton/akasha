@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const addPropertyValuesWorksOutAgainWhatAddPropertyValueAlreadyWorksOut = {
   id: "01a08d14-85bc-7b36-909d-d8f5fac25516",

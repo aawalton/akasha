@@ -1,8 +1,12 @@
 import type { DepSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
 import { makeSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
 import { loadParser } from "akasha/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts"
-import { foundIn } from "../prose-pattern/prose-pattern.module.code.ts"
-import { type Pattern, rewritesFor, rewritten } from "../prose-rewrite/prose-rewrite.module.code.ts"
+import { foundIn } from "akasha/domains/standard-agent-english/prose-pattern/prose-pattern.module.code.ts"
+import {
+  type Pattern,
+  rewritesFor,
+  rewritten,
+} from "akasha/domains/standard-agent-english/prose-rewrite/prose-rewrite.module.code.ts"
 
 export type Passage = {
   readonly path: string

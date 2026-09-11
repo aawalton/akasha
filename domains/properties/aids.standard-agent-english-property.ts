@@ -1,4 +1,4 @@
-import type { StandardAgentEnglishProperty } from "../standard-agent-english/properties/standard-agent-english-property.page-type.types.ts"
+import type { StandardAgentEnglishProperty } from "akasha/domains/standard-agent-english/properties/standard-agent-english-property.page-type.types.ts"
 
 export type Aid = string
 

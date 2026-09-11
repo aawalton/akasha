@@ -1,7 +1,7 @@
+import type { InvariantKind } from "akasha/domains/properties/invariant-kind.relation-property.types.ts"
+import type { InvariantStatement } from "akasha/domains/properties/invariant-statement.standard-agent-english-property.types.ts"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-import type { InvariantKind } from "./invariant-kind.relation-property.types.ts"
-import type { InvariantStatement } from "./invariant-statement.standard-agent-english-property.types.ts"
 
 export type Invariant = {
   invariantKind: InvariantKind

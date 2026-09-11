@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const aPathHandedThroughAHeredocFenceKeepsItsNewlineAndAddFileTakesIt = {
   id: "01a0888a-0960-71c7-9ff5-8f849319875b",

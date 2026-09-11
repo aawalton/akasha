@@ -1,6 +1,9 @@
+import { slugStated } from "akasha/domains/context/modules/agent-stated/agent-stated.module.code.ts"
+import {
+  blobAt,
+  type Warrant,
+} from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { slugStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
-import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
 
 export const AKASHA =
   "An agent works within akasha, and the akasha domain is read before the agent is changed."

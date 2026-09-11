@@ -1,4 +1,4 @@
-import type { StandardAgentEnglishProperty } from "../standard-agent-english/properties/standard-agent-english-property.page-type.types.ts"
+import type { StandardAgentEnglishProperty } from "akasha/domains/standard-agent-english/properties/standard-agent-english-property.page-type.types.ts"
 
 export const act = {
   id: "01a049c9-3a2c-7234-9286-d41a1bc4a7c0",

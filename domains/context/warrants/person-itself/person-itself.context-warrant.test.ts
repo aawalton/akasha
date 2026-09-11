@@ -1,17 +1,20 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { blobIdOf, recordRead } from "../../../../commands/modules/reading/reading.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { unreadIn } from "../../modules/warranting/warranting.module.code.ts"
+import { blobIdOf, recordRead } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { unreadIn } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
   pathsOf,
   personListed,
   seatListed,
   warrantsSeeded,
-} from "../../modules/warranting/warranting.module.test-fixtures.ts"
-import { PERSON, personItself } from "./person-itself.context-warrant.code.ts"
+} from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
+import {
+  PERSON,
+  personItself,
+} from "akasha/domains/context/warrants/person-itself/person-itself.context-warrant.code.ts"
 
 const scratch = scratchWorld()
 

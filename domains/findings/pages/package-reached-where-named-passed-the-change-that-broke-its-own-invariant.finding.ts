@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const packageReachedWhereNamedPassedTheChangeThatBrokeItsOwnInvariant = {
   id: "01a088d9-d1f6-7bc6-b2f4-374a9244d00c",

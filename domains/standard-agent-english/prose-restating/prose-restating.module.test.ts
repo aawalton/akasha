@@ -1,8 +1,11 @@
 import { expect, test } from "bun:test"
 import type { DepSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
 import { makeSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
-import type { Pattern } from "../prose-rewrite/prose-rewrite.module.code.ts"
-import { type Passage, restatedIn } from "./prose-restating.module.code.ts"
+import {
+  type Passage,
+  restatedIn,
+} from "akasha/domains/standard-agent-english/prose-restating/prose-restating.module.code.ts"
+import type { Pattern } from "akasha/domains/standard-agent-english/prose-rewrite/prose-rewrite.module.code.ts"
 
 type Row = readonly [string, string, number, string]
 

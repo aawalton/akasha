@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const aGeneratedFileHoldsEveryPathItImportsFromAgainstAnyMove = {
   id: "01a08878-e69d-743e-b907-59decbc5078b",

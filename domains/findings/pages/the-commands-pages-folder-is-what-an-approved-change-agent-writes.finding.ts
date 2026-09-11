@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const theCommandsPagesFolderIsWhatAnApprovedChangeAgentWrites = {
   id: "01a0887b-ed29-7f3f-8620-0fea697a04ec",

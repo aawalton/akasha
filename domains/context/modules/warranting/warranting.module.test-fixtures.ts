@@ -1,5 +1,10 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { recordRead, SUBAGENT_MARK } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import type { Warrant } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { dataAt } from "akasha/files/data-place/data-place.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
@@ -10,14 +15,6 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
-import {
-  recordRead,
-  SUBAGENT_MARK,
-} from "../../../../commands/modules/reading/reading.module.code.ts"
-import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import type { Warrant } from "./warranting.module.code.ts"
 
 const HERE = rootOf(import.meta.path)
 

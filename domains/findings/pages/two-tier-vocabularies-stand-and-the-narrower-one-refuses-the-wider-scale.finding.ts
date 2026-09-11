@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const twoTierVocabulariesStandAndTheNarrowerOneRefusesTheWiderScale = {
   id: "01a0687b-de90-7002-9871-fd234bf619aa",

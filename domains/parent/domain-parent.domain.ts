@@ -1,4 +1,4 @@
-import type { Domain } from "../domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const domainParent = {
   id: "01a0675b-16df-7224-bb73-2d7ff8395955",

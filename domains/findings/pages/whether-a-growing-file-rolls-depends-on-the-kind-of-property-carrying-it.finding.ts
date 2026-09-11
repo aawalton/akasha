@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const whetherAGrowingFileRollsDependsOnTheKindOfPropertyCarryingIt = {
   id: "01a087eb-5794-7ab8-9be0-9a82fb093616",

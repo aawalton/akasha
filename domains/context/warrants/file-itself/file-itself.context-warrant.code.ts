@@ -1,5 +1,8 @@
+import {
+  blobAt,
+  type Warrant,
+} from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { generatedAt } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
-import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
 
 export const ITSELF =
   "A file answers for the body it holds, and that body is read before the file is changed."

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const aPackageSpecifierInPageProseGoesStaleWhenThatPackageFolds = {
   id: "01a0882f-6b14-7c05-9d38-4e71a2c5f0b3",

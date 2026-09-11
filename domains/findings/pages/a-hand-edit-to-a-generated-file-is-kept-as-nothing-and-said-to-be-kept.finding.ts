@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const aHandEditToAGeneratedFileIsKeptAsNothingAndSaidToBeKept = {
   id: "01a08a3f-4c21-7b64-9f2e-6d3a5c81e7b0",

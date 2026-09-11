@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const theFortyEightEsoAddonsArePackagesByThreeMechanismsRatherThanByOneDeclaration = {
   id: "01a08834-91c7-7e6b-8a04-3f9d6e21b57c",

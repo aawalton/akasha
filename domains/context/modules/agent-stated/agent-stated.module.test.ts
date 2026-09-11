@@ -1,8 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { seatListed } from "../warranting/warranting.module.test-fixtures.ts"
-import { slugStated, typeStated } from "./agent-stated.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import {
+  slugStated,
+  typeStated,
+} from "akasha/domains/context/modules/agent-stated/agent-stated.module.code.ts"
+import { seatListed } from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 

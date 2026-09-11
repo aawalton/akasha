@@ -1,4 +1,4 @@
-import type { SentenceShape } from "../sentence-shape.page-type.types.ts"
+import type { SentenceShape } from "akasha/domains/sentence-shapes/sentence-shape.page-type.types.ts"
 
 export const loneQuantifier = {
   id: "01a05dbf-e1d8-7c53-8118-ff93ef6f72a0",

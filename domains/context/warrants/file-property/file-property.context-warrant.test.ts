@@ -1,25 +1,28 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
+import { blobIdOf, recordRead } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import {
+  knowingIn,
+  unreadIn,
+  type Warrant,
+} from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import {
+  pathsOf,
+  warrantsSeeded,
+} from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
+import {
+  fileProperty,
+  PROPERTY,
+} from "akasha/domains/context/warrants/file-property/file-property.context-warrant.code.ts"
 import {
   listedFiled,
   schemaFiled,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
-import { blobIdOf, recordRead } from "../../../../commands/modules/reading/reading.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import {
-  knowingIn,
-  unreadIn,
-  type Warrant,
-} from "../../modules/warranting/warranting.module.code.ts"
-import {
-  pathsOf,
-  warrantsSeeded,
-} from "../../modules/warranting/warranting.module.test-fixtures.ts"
-import { fileProperty, PROPERTY } from "./file-property.context-warrant.code.ts"
 
 const scratch = scratchWorld()
 

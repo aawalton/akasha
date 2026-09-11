@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const foldingAPackageIntoTheRootPurgesTheUtilitiesOnlyItsTreeUsed = {
   id: "01a088de-91fd-7690-b80a-9faad2772858",

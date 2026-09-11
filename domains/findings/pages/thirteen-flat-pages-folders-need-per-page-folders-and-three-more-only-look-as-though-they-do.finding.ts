@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const thirteenFlatPagesFoldersNeedPerPageFoldersAndThreeMoreOnlyLookAsThoughTheyDo = {
   id: "01a0887c-f198-7151-bd0b-37845f3e4e87",

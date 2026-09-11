@@ -1,4 +1,4 @@
-import type { DirectiveKind } from "../directive-kind.page-type.types.ts"
+import type { DirectiveKind } from "akasha/domains/directive-kinds/directive-kind.page-type.types.ts"
 
 export const rule = {
   id: "01a04e1f-cbf6-77de-b4fd-908de465a115",

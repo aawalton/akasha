@@ -1,20 +1,20 @@
 import { readFile } from "node:fs/promises"
 import { dirname } from "node:path"
 import { fileURLToPath } from "node:url"
-import { uncommittedBesideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import * as ort from "onnxruntime-node"
 import {
   decodeTree,
   type ParsedSentence,
-} from "../dependency-graph/dependency-graph.module.code.ts"
-import { makeParseCache } from "../parse-cache/parse-cache.module.code.ts"
+} from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
+import { makeParseCache } from "akasha/domains/plain-language/parse-cache/parse-cache.module.code.ts"
 import {
   chunkForEncoder,
   encodeWordPieces,
   type SentenceTokens,
   splitSentences,
   tokenizeWords,
-} from "../word-tokenizing/word-tokenizing.module.code.ts"
+} from "akasha/domains/plain-language/word-tokenizing/word-tokenizing.module.code.ts"
+import { uncommittedBesideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import * as ort from "onnxruntime-node"
 
 export type ParserDescriptor = {
   id: string

@@ -1,9 +1,12 @@
 import { afterAll, afterEach, expect, test } from "bun:test"
 import { appendFileSync, mkdirSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
-import type { ParsedSentence } from "../dependency-graph/dependency-graph.module.code.ts"
-import { keyFor, makeParseCacheAt } from "./parse-cache.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import type { ParsedSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
+import {
+  keyFor,
+  makeParseCacheAt,
+} from "akasha/domains/plain-language/parse-cache/parse-cache.module.code.ts"
 
 const MODEL = "abc123"
 const OFF = "AKASHA_PARSE_CACHE_OFF"

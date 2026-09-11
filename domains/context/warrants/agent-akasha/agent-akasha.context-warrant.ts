@@ -1,4 +1,4 @@
-import type { ContextWarrant } from "../context-warrant.page-type.types.ts"
+import type { ContextWarrant } from "akasha/domains/context/warrants/context-warrant.page-type.types.ts"
 
 export const agentAkasha = {
   id: "01a07342-4f26-7000-a08d-68ea33c583d6",

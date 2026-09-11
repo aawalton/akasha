@@ -1,22 +1,25 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import {
-  idTakenFrom,
-  pathFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { blobIdOf, recordRead } from "../../../../commands/modules/reading/reading.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { unreadIn } from "../../modules/warranting/warranting.module.code.ts"
+import { blobIdOf, recordRead } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { unreadIn } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
   domainListed,
   type Listed,
   namesPart,
   pathsOf,
   warrantsSeeded,
-} from "../../modules/warranting/warranting.module.test-fixtures.ts"
-import { fileDomain, WHOLE } from "./file-domain.context-warrant.code.ts"
+} from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
+import {
+  fileDomain,
+  WHOLE,
+} from "akasha/domains/context/warrants/file-domain/file-domain.context-warrant.code.ts"
+import {
+  idTakenFrom,
+  pathFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 

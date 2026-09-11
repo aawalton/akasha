@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const pageKeyOrderIsBoundByPageComposingAndContradictedByMostPages = {
   id: "01a08cca-127c-7d7d-9bb3-1dd29c8d3502",

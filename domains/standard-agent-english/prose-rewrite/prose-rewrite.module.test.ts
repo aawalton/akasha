@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import type { Found } from "../prose-pattern/prose-pattern.module.code.ts"
+import type { Found } from "akasha/domains/standard-agent-english/prose-pattern/prose-pattern.module.code.ts"
 import {
   type Pattern,
   rewritesFor,
   rewritten,
   speltIn,
   wordsOf,
-} from "./prose-rewrite.module.code.ts"
+} from "akasha/domains/standard-agent-english/prose-rewrite/prose-rewrite.module.code.ts"
 
 const HOLD: readonly Pattern[] = [
   { frame: "object", fromPattern: "holds [object]", toPattern: "has [object]" },

@@ -1,6 +1,9 @@
+import { slugStated } from "akasha/domains/context/modules/agent-stated/agent-stated.module.code.ts"
+import {
+  blobAt,
+  type Warrant,
+} from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { slugStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
-import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
 
 export const ROLE =
   "A seat answers for the role it states, and that role is read before the seat is changed."

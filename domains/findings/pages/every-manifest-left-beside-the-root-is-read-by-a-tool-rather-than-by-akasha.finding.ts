@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const everyManifestLeftBesideTheRootIsReadByAToolRatherThanByAkasha = {
   id: "01a08d74-b3e6-7db6-a102-00cfaa8e61f8",

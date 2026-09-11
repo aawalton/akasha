@@ -1,6 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import {
+  fileItself,
+  ITSELF,
+} from "akasha/domains/context/warrants/file-itself/file-itself.context-warrant.code.ts"
 import { generatedAt } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 import {
   idFiled,
@@ -10,9 +16,6 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { fileItself, ITSELF } from "./file-itself.context-warrant.code.ts"
 
 const scratch = scratchWorld()
 

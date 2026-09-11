@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { foundIn } from "./prose-pattern.module.code.ts"
+import { foundIn } from "akasha/domains/standard-agent-english/prose-pattern/prose-pattern.module.code.ts"
 import {
   A_BODY_IS_HOLDING_A_CONFLICT,
   A_CHECK_REFUSES_HOLDING_THE_FILE,
@@ -58,7 +58,7 @@ import {
   THE_SPEND_I_HOLD_UNDER,
   THE_TIME_HOLDING_OBJECTS_TAKES,
   THE_WATCHER_HOLDS_WHAT_TO,
-} from "./prose-pattern.module.test-fixtures.ts"
+} from "akasha/domains/standard-agent-english/prose-pattern/prose-pattern.module.test-fixtures.ts"
 
 test("a word a person is the holder of is left alone", () => {
   expect(foundIn(sentenceOf(A_PERSON_HOLDS), HOLD)).toEqual([])

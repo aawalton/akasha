@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const noGuardJudgesTheFolderAPageMovesInto = {
   id: "01a088ca-855f-736d-ba08-d0227a76dcfa",

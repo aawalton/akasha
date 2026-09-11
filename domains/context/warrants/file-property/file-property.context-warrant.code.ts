@@ -1,16 +1,16 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
+import {
+  blobAt,
+  type Knowing,
+  type Warrant,
+} from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { propertiesIfNamedOf } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { slugFor } from "akasha/pages/types/page-properties/key/page-property-key.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import {
-  blobAt,
-  type Knowing,
-  type Warrant,
-} from "../../modules/warranting/warranting.module.code.ts"
 
 export const PROPERTY =
   "A page states each property as the page defining it shapes it, and that page is read first."

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const aSubagentsPageGoesAtEveryTurnEndAndSinceTodayTakesItsDraftedEditsWithIt = {
   id: "01a0892a-a0c7-71b8-bffa-34979c74a4a3",

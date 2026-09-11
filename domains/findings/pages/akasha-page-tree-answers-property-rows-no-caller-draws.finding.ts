@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const akashaPageTreeAnswersPropertyRowsNoCallerDraws = {
   id: "01a08dd6-5274-72a5-ab0d-41eff4603f45",

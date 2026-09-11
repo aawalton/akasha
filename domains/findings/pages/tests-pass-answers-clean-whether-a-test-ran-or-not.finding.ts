@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const testsPassAnswersCleanWhetherATestRanOrNot = {
   id: "01a087d2-d1ef-7c93-b89d-cc09f815167a",

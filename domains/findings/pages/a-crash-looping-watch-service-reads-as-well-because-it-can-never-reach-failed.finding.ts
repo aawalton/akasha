@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const aCrashLoopingWatchServiceReadsAsWellBecauseItCanNeverReachFailed = {
   id: "01a08c9e-2390-75de-a39e-ca63a7cf1e1a",

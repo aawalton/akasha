@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const mostMentionsOfPageTypeSlugAreNotThePageKey = {
   id: "01a08830-e34b-723b-8e6a-25f0afc6de8d",

@@ -1,7 +1,13 @@
 import { expect, test } from "bun:test"
-import type { DepSentence, DepToken } from "../dependency-graph/dependency-graph.module.code.ts"
-import { makeSentence } from "../dependency-graph/dependency-graph.module.code.ts"
-import { doubtsIn, isSound } from "./parse-doubt.module.code.ts"
+import type {
+  DepSentence,
+  DepToken,
+} from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
+import { makeSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
+import {
+  doubtsIn,
+  isSound,
+} from "akasha/domains/plain-language/parse-doubt/parse-doubt.module.code.ts"
 
 function word(id: number, form: string, upos: string, head: number, deprel: string): DepToken {
   return { id, form, upos, head, deprel, start: 0, end: form.length }

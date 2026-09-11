@@ -1,9 +1,12 @@
 import {
+  blobAt,
+  type Warrant,
+} from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import {
   idsNaming,
   listedById,
   listedByPath,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
 
 export const WHOLE =
   "A page names its parts, and the whole a part belongs to is read before the part is changed."

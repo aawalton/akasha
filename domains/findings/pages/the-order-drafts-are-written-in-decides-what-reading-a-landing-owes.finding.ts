@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const theOrderDraftsAreWrittenInDecidesWhatReadingALandingOwes = {
   id: "01a0882d-265d-70bc-a4d3-dc8e739cd0e9",

@@ -1,12 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
-import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import {
   blobIdOf,
   recordRead,
   SUBAGENT_MARK,
-} from "../../../../commands/modules/reading/reading.module.code.ts"
-import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
+} from "akasha/commands/modules/reading/reading.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   agentPathOf,
   callOf,
@@ -19,7 +18,7 @@ import {
   unreadIn,
   warrantedIn,
   warrantsIn,
-} from "./warranting.module.code.ts"
+} from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
   A,
   AGENT,
@@ -43,7 +42,8 @@ import {
   UNDER,
   X,
   Y,
-} from "./warranting.module.test-fixtures.ts"
+} from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
+import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(sweeping)
 

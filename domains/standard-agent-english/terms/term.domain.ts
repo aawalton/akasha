@@ -1,4 +1,4 @@
-import type { Domain } from "../../domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const term = {
   id: "01a07c58-708e-70fe-9434-12a511b1cd71",

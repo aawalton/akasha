@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const aFolderMoveLeavesAPathSpelledAsDataStaleAndNoGuardReadsIt = {
   id: "01a08864-af81-7f30-ab3b-00862757bc03",

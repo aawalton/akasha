@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const threeRelationBehavioursWentWithTheMarkdownRelationChecker = {
   id: "01a06864-c80e-798f-be3c-b4247c4cdb48",

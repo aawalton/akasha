@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.types.ts"
+import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts"
 
 export const theEngineRemovesAnEmptiedFolderAndRefusesTheAgentWhoAsksItTo = {
   id: "01a088a0-1c83-735f-9e38-b9a33b06a767",
