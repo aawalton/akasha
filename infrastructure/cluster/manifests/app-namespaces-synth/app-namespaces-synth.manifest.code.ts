@@ -5,7 +5,6 @@ export const NAMESPACE_NAMES = [
   "archive-of-worlds",
   "audhdalan",
   "collections",
-  "relationships",
   "temper",
   "tracking",
 ] as const
@@ -60,19 +59,6 @@ function namespacesYaml(): string {
           name: "collections",
           labels: {
             "kubernetes.io/metadata.name": "collections",
-          },
-        },
-      },
-    },
-    {
-      id: "relationships",
-      manifest: {
-        apiVersion: "v1",
-        kind: "Namespace",
-        metadata: {
-          name: "relationships",
-          labels: {
-            "kubernetes.io/metadata.name": "relationships",
           },
         },
       },
