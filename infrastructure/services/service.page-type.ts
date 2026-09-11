@@ -21,6 +21,13 @@ export const service = {
       many: false,
       uncommitted: true,
     },
+    {
+      pageProperty: "file-property/entries",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
+    },
   ],
   invariants: [
     {
@@ -46,6 +53,10 @@ export const service = {
     {
       invariantKind: "departure",
       statement: "A service carries the commit the last deploy that finished put up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service carries what each deploy of that service cost.",
     },
   ],
   types: "ts",
