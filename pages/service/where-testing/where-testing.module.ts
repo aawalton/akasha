@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const whereTesting = {
   id: "01a05bdd-d54c-7989-aac7-52cb42d778c4",

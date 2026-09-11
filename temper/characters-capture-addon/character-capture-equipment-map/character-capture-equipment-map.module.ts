@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const characterCaptureEquipmentMap = {
   id: "01a0616b-618d-790e-b832-fb5fba674711",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const distributableSet = {
   id: "01a06060-ec3f-72a0-9eb4-c159dfd1784e",

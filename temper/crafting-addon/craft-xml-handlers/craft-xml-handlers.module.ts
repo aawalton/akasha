@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const craftXmlHandlers = {
   id: "01a061c7-e875-78e4-9121-75f15fc7a92b",

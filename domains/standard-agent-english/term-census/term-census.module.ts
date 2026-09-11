@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const termCensus = {
   id: "01a07c71-9914-7a3e-b8cd-e3395002ebdb",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const armorPanelCard = {
   id: "01a0642d-9a17-7544-8ead-6c25afebc88f",

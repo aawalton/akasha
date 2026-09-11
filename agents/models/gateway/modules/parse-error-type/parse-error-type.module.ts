@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const parseErrorType = {
   id: "01a0628b-a005-77f9-a9c0-60f27c33f62a",

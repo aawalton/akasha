@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const scribingTotalScriptCount = {
   id: "01a060d9-44cc-7857-8133-d0c4c0bfc797",

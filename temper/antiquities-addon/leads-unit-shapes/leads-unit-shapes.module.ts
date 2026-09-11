@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const leadsUnitShapes = {
   id: "01a06274-b08a-7c3c-bec0-9bf8b026fc2f",

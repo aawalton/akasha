@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const onnxParsing = {
   id: "01a06d3b-743d-7534-a0c5-08148c804484",

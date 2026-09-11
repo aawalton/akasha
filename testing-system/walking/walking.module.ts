@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const walking = {
   id: "01a04ef8-da76-76ad-9345-28b37bd75cdd",

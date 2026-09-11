@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const agentRow = {
   id: "01a0686b-bfe9-7005-a82e-21c216ec82ea",

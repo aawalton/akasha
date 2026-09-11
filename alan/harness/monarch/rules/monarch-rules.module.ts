@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const monarchRules = {
   id: "01a06863-ac0c-70d6-942f-2e0d22cae9d5",

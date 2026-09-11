@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const contentPagesCacheCore = {
   id: "01a0655d-daa6-7fdf-b1e7-5b58892ba09c",

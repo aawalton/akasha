@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const shifterDragHelpers = {
   id: "01a06187-3649-72e2-804c-a9b1561c21c0",

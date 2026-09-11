@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const companionRotationSkillColumnHeader = {
   id: "01a0642f-8c32-789b-91be-f35bfeceec9b",

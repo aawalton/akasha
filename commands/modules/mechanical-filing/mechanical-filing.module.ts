@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mechanicalFiling = {
   id: "01a07bdb-21d1-719a-b4d8-4208b5776792",

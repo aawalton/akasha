@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const companionEquipmentPanel = {
   id: "01a06421-251e-7453-afff-3223a958c7d1",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const errorCaptureInstaller = {
   id: "01a05c89-6034-7058-9849-2d597112d2ac",

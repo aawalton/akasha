@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const rclone = {
   id: "01a06863-74ea-71ef-b9e2-e47a850c7d47",

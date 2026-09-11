@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const scriptPaths = {
   id: "01a08ee1-df5c-739b-aaae-9c94d47a27ee",

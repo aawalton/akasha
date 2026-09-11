@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorSessionProjectDir = {
   id: "01a0687b-aa7d-7000-a7a2-9bee35d924ec",

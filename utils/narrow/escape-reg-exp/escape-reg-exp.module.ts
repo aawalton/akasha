@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const escapeRegExp = {
   id: "01a08ddd-31b1-78ff-9e8a-a1d35a2b4530",

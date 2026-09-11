@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mundusSource = {
   id: "01a061a7-9bb1-778e-b38f-f397e2f754ea",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const quietRaidLeaderboard = {
   id: "01a060f1-693b-74ef-b1c9-26061fdfe741",

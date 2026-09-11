@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const gitRunning = {
   id: "01a05d7f-23fc-7001-9aaa-0ba0969f501e",

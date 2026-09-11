@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const characterRoles = {
   id: "01a060ea-ac5f-7d16-af64-7fbc832ae916",

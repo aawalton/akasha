@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const alanAuthProvider = {
   id: "01a0655d-dab8-75b5-b6b9-521ef16cadd1",

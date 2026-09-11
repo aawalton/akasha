@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const columnSampling = {
   id: "01a0686b-bfe9-7eea-9240-9c8c57aeb34f",

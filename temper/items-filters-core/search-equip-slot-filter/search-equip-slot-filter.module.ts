@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const searchEquipSlotFilter = {
   id: "01a0613a-e0a7-7f9d-b9bd-ff1e3517930d",

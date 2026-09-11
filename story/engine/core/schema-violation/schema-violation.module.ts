@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const schemaViolation = {
   id: "01a05bc8-6883-7d97-b265-b768554225f6",

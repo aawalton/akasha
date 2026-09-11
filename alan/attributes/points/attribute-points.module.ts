@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const attributePoints = {
   id: "01a081f8-593c-795e-92d9-6c2e0b74460e",

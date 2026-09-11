@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const recipeCatalog = {
   id: "01a0604d-23a0-7cb1-93da-f155d5f49f5b",

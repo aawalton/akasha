@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const upscaleServingJob = {
   id: "01a073af-4669-7130-ac05-5cb2a15a6313",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const lorebooksBookData23 = {
   id: "01a0617f-9268-70a4-b457-b33dd7bf29eb",

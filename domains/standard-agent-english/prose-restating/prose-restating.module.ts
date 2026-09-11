@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const proseRestating = {
   id: "01a08248-90ee-7792-9275-0a291dfa50af",

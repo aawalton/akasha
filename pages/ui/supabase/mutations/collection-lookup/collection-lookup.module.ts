@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const collectionLookup = {
   id: "01a05cb4-fefb-7990-96fb-d24f59b499f3",

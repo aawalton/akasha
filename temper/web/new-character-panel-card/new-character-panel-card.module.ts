@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const newCharacterPanelCard = {
   id: "01a0642c-5b9d-7261-813d-d7feb2384a8a",

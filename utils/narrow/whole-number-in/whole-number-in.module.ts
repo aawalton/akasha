@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const wholeNumberIn = {
   id: "01a08dfa-83ab-7057-b41a-60b238c8d728",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const arithmeticNode = {
   id: "01a06070-82db-7c2d-a42f-2faa0f022ff6",

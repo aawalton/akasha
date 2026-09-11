@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const toolchainManifest = {
   id: "01a0680f-d1b7-7713-9d02-85fa22f033a1",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const statsFiltering = {
   id: "01a0642c-5bbf-732d-9839-5952186d77f9",

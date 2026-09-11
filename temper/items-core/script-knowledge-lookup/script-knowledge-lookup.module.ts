@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const scriptKnowledgeLookup = {
   id: "01a060e6-c3e6-7bba-973c-033c3a1970b5",

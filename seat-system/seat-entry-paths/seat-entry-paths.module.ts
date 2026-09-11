@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const seatEntryPaths = {
   id: "01a08b87-db08-7b4d-8019-f88e7fd39f19",

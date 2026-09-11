@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const hudAddonHideTargets = {
   id: "01a061c5-18dd-7009-859a-31630f29ad1a",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const cliArgs = {
   id: "01a06287-7841-7a70-bbb2-973c9c17ce4e",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const treasureBookIds = {
   id: "01a061d5-d0b5-7f09-9ecd-8479b1c57da3",

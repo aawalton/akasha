@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const nativeTtsAdapter = {
   id: "01a05c7d-d06b-7788-ad0b-ce269e7ee3e3",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const searchTransmutedFilter = {
   id: "01a0613a-e0b1-73d3-90ad-04d99f112113",

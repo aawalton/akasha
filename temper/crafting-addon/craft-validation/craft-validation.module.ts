@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const craftValidation = {
   id: "01a061c7-e874-7277-92dd-f1d3135b5172",

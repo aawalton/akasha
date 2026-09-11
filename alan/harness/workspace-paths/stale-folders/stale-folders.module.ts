@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const staleFolders = {
   id: "01a0683d-3c17-7dd8-991b-d05270ddec1f",

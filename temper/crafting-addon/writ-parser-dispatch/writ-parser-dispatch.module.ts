@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const writParserDispatch = {
   id: "01a061c7-e8a5-751f-9b60-ec7a0b21525a",

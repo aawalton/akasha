@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const systemCard = {
   id: "01a0629b-6863-7066-a112-49c2dbb6196b",

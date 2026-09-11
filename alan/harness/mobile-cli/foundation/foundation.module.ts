@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const foundation = {
   id: "01a05cee-e560-7247-8f2f-0960f65d785d",

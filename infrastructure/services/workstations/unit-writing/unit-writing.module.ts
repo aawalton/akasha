@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const unitWriting = {
   id: "01a05a56-b9f1-77a4-8a3d-6e0424952002",

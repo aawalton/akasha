@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const resolveHero = {
   id: "01a05bc6-fa4a-700f-a4ff-93e249cec531",

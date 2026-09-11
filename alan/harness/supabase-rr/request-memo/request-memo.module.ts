@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const requestMemo = {
   id: "01a05c97-8af5-7794-b233-1ff5ec092cb8",

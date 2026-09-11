@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorReexec = {
   id: "01a06876-abda-7008-8336-a12d58c15efa",

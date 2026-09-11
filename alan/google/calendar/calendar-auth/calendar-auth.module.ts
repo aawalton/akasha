@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const calendarAuth = {
   id: "01a05c02-c734-78ed-a826-ea774f206b33",

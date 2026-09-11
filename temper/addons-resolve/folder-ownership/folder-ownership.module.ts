@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const folderOwnership = {
   id: "01a06060-ec3f-739d-a84d-9007047669a6",

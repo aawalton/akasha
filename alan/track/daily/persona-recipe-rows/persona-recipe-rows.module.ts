@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const personaRecipeRows = {
   id: "01a06972-b64a-7000-8eca-0266326900bc",

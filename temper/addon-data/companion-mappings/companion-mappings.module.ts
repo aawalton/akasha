@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const companionMappings = {
   id: "01a06340-4914-773c-94be-898d3f61e64f",

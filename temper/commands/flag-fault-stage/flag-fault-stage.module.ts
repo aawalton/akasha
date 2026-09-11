@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const flagFaultStage = {
   id: "01a07bca-476d-73d6-89a9-15c0d6172d43",

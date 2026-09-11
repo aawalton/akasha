@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const watcherErrorCursor = {
   id: "01a06370-eddf-7cec-8d3e-f564adf6f360",

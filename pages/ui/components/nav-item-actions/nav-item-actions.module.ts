@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const navItemActions = {
   id: "01a061ee-786e-7007-b985-51d9bb9dea95",

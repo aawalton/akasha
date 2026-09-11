@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const createCourse = {
   id: "01a06579-f3d9-7005-80a2-939e9bfae257",

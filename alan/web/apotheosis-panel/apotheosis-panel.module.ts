@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const apotheosisPanel = {
   id: "01a0655d-dab9-79d0-9613-c26dde2e7595",

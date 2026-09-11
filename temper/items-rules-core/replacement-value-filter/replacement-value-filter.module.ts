@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const replacementValueFilter = {
   id: "01a06100-3bf8-79b5-9b75-c12a48c6385c",

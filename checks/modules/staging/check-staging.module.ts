@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const checkStaging = {
   id: "01a08e16-827d-7f4d-bb26-5724ed027608",

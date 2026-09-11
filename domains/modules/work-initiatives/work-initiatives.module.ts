@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const workInitiatives = {
   id: "01a04e9f-4572-7339-8438-7d5a5777f8ab",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const fileCarrying = {
   id: "01a0922a-d01c-7afe-a069-81d098846385",

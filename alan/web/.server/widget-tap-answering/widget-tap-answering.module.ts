@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const widgetTapAnswering = {
   id: "01a078aa-cea1-71ff-8aa2-0b3766623b39",

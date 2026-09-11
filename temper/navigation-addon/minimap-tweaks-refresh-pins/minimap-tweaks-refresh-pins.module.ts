@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const minimapTweaksRefreshPins = {
   id: "01a06269-2997-781e-a33a-db5d2d258898",

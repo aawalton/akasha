@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const imessageCommandReading = {
   id: "01a0685f-c8ed-7000-adfa-6dd4db0e10c3",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const shapeDescriptor = {
   id: "01a05b69-4545-7ee0-a1d2-883584cf2c3c",

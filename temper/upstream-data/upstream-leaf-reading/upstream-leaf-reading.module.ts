@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const upstreamLeafReading = {
   id: "01a06282-dfc3-722f-9afd-a38cf3034d7a",

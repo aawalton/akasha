@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const clientEnvelope = {
   id: "01a0628e-a5da-73a4-b9b1-51a95f732859",

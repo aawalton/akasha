@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const propertyFile = {
   id: "01a08ed6-90b4-7819-b4f7-32222a7f7c69",

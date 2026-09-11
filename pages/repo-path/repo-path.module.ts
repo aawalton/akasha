@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const repoPath = {
   id: "01a05cc6-2a1c-751d-8813-33c04d9c2005",

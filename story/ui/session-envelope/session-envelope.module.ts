@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const sessionEnvelope = {
   id: "01a0628e-a5db-798a-bf9f-8f522487f7b9",

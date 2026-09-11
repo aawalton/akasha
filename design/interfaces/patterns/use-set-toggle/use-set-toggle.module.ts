@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useSetToggle = {
   id: "01a05c69-c066-7898-b015-4e30a66ccca8",

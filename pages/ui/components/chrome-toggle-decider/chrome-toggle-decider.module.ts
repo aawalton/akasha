@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const chromeToggleDecider = {
   id: "01a05c3b-4fc2-770c-8ff5-04a5100e82b0",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const activityCategories = {
   id: "01a06108-2fe7-758c-947c-5275babdadb5",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsSearchUiSharedRowmenu = {
   id: "01a0623e-539f-7075-a2eb-753df899c48d",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const addonBundling = {
   id: "01a090c1-e5c7-7c8e-ba27-38a6f8c8a165",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const combatActionCruxStacks = {
   id: "01a0617f-582e-7c71-bf42-ee439761b8e1",

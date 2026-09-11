@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const fileBacking = {
   id: "01a05b69-4540-715d-a1fb-2ce95dde8cb6",

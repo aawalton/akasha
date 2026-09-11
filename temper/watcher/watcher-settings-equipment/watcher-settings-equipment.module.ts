@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const watcherSettingsEquipment = {
   id: "01a06381-35cf-70c2-819c-ef562701572b",

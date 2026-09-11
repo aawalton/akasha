@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const skyshardsSkillPointTotal = {
   id: "01a09101-186f-7633-8656-e58564ff9ee8",

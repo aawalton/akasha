@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const visitExtensionVararg = {
   id: "01a06758-8eba-7001-acbf-7dc0f665f162",

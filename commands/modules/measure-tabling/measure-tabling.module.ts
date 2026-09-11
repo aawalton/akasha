@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const measureTabling = {
   id: "01a08e19-2530-7bd3-84d0-2994f36d9bda",

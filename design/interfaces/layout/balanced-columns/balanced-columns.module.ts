@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const balancedColumns = {
   id: "01a05b82-8b98-7547-8245-8bc1a83d0070",

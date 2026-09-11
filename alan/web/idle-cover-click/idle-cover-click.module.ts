@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const idleCoverClick = {
   id: "01a0655d-dabf-74ef-848f-1fd953cd7910",

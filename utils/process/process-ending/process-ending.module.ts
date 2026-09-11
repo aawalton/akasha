@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const processEnding = {
   id: "01a05d02-889b-7af1-bb37-7f74754eefe1",

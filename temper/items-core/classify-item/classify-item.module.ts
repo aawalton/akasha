@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const classifyItem = {
   id: "01a060e4-b745-7869-bf3d-8c96e819e7d4",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const homeEndScroll = {
   id: "01a08dea-537e-7c04-b2af-ee69c43bbb15",

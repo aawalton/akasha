@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const ruleMatcherContext = {
   id: "01a06281-4830-7015-96c4-299ce28f446e",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorHeartbeatBeat = {
   id: "01a06871-3115-7000-88a3-356a4726a3a1",

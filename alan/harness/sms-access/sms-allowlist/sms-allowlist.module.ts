@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const smsAllowlist = {
   id: "01a05b73-2ec7-7c96-a18b-ac0ec2a858e9",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inventoryWritCraftingAlchemy = {
   id: "01a06258-b535-7d7b-8d87-74ba5972c20f",

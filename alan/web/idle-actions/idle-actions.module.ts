@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const idleActions = {
   id: "01a0655d-dabf-7026-a606-3ab3d2042b8e",

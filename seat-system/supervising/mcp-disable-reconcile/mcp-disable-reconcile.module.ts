@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mcpDisableReconcile = {
   id: "01a0686c-f06b-700a-b0b5-cfa06c6e47bf",

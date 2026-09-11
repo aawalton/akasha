@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const treasureBuildData = {
   id: "01a061d5-d0be-7560-b662-9a6018b10e91",

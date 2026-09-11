@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const warfareSlottables = {
   id: "01a06076-1b68-74c9-9a13-74b082065456",

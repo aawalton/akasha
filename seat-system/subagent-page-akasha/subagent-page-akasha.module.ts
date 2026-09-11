@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const subagentPageAkasha = {
   id: "01a06983-278f-7ed9-b96e-fe9e2e13c714",

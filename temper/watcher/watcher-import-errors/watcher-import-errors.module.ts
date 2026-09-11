@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const watcherImportErrors = {
   id: "01a06381-35cf-7a59-98a9-0d96ea20a841",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const lccc = {
   id: "01a0617d-5450-7ad0-a8e0-924df3500d6f",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const gmVoiceLints = {
   id: "01a05b71-e543-74c0-abd2-ac3a061a4181",

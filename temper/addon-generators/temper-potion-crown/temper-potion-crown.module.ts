@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const temperPotionCrown = {
   id: "01a0607b-e91d-709a-a79e-fe744b8958d9",

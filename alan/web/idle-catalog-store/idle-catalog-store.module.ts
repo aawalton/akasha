@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const idleCatalogStore = {
   id: "01a0655d-dabf-7031-8823-9a2cc25a2583",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const rootNonceLoader = {
   id: "01a0911f-df93-7daf-8b5c-e52e803f1f79",

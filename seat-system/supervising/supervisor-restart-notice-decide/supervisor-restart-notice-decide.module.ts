@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorRestartNoticeDecide = {
   id: "01a0686d-9d5e-7007-a87f-ae0387e800f7",

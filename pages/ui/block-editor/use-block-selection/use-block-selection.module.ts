@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useBlockSelection = {
   id: "01a05cba-9cbc-77f1-9808-20ef25e05dfa",

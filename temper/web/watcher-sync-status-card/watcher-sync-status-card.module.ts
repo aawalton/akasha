@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const watcherSyncStatusCard = {
   id: "01a06432-b190-7ebf-b524-c6e62f828d65",

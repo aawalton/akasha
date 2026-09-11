@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const harnessSettingsReading = {
   id: "01a08e0b-50f6-74fe-b9fc-1347ef93435b",

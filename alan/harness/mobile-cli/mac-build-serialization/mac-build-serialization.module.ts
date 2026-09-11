@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const macBuildSerialization = {
   id: "01a05cee-e560-7580-bebc-253f65ce563a",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pushRouting = {
   id: "01a05b54-a908-7622-bd8f-8b4a54a24b9c",

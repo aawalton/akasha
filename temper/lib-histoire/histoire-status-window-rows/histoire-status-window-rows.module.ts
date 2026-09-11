@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const histoireStatusWindowRows = {
   id: "01a06197-4c9e-7876-b98c-50bfbf18333b",

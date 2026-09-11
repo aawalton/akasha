@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libraryLogger = {
   id: "01a090e5-9062-788e-8317-a0e2f1dee9b7",

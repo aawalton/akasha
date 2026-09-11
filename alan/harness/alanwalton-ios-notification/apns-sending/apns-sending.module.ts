@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const apnsSending = {
   id: "01a069b6-bb6b-7ca0-81b1-b62e52519bbf",

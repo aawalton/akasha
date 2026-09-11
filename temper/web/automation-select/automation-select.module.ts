@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const automationSelect = {
   id: "01a06432-b190-774c-ab52-27309a7ca3fa",

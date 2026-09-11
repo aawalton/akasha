@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const synthManifests = {
   id: "01a06810-0b68-7695-97a7-2d2f26274a9e",

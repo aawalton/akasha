@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsCoreHeader = {
   id: "01a061fc-cee9-7c71-8e92-91595a98f1d7",

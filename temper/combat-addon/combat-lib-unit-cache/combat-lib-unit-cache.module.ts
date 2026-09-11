@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const combatLibUnitCache = {
   id: "01a0617f-584b-7186-a882-75edac0473c6",

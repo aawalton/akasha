@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const characterCapturePassiveMap = {
   id: "01a0616b-18bf-7c2e-9cbf-644b6da6a01a",

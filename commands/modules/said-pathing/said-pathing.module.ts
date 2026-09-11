@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const saidPathing = {
   id: "01a07bc3-901c-773f-b288-daaf87e33d78",

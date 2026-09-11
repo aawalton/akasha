@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const bopTradeableFilter = {
   id: "01a06100-3be1-7979-a9b4-6bd9fb79cac2",

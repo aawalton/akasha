@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const collectionsAddonNames = {
   id: "01a0624c-a660-7eda-99b8-efb5ecaf08b2",

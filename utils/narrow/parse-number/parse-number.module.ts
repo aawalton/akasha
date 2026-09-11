@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const parseNumber = {
   id: "01a08e16-6948-788d-a6d2-9541bbdc2eb9",

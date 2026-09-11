@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const housingBuildVisitCardsTab = {
   id: "01a06128-d5c5-7488-b800-14b49d097a7e",

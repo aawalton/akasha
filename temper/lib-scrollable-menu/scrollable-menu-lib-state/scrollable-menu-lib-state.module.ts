@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const scrollableMenuLibState = {
   id: "01a06275-c449-7718-96d3-f0cd0abfd3ab",

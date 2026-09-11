@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const composeNotices = {
   id: "01a06938-eca5-74c0-8f2c-68975c8da6f1",

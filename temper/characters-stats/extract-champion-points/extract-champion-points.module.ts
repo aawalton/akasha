@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const extractChampionPoints = {
   id: "01a06271-abcf-7a1b-831b-bcfa99367048",

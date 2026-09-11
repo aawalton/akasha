@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const writAlchemyData = {
   id: "01a061c7-e893-796b-b2b2-2dbf4acdc6c4",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const asInstant = {
   id: "01a081ad-4f44-7398-af25-67f95179c4a3",

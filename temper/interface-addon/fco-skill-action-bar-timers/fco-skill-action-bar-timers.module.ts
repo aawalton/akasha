@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const fcoSkillActionBarTimers = {
   id: "01a06115-1ad5-7d01-8cc1-694928184aab",

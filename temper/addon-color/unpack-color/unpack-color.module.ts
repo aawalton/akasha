@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const unpackColor = {
   id: "01a090aa-4938-7f89-a924-2a3c86c77dd2",

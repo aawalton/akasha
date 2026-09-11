@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const wanI2vGraph = {
   id: "01a06815-9efd-7020-9a10-8b4127354701",

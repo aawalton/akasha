@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const charactersTabManager = {
   id: "01a062ee-f062-706c-82ee-532bd7058883",

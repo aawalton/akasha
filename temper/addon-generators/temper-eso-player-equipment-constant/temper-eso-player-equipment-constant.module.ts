@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const temperEsoPlayerEquipmentConstant = {
   id: "01a0607b-e918-79a4-9638-8ed1ac516976",

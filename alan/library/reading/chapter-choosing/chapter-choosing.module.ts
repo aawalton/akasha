@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const chapterChoosing = {
   id: "01a0657b-06aa-7bc2-a262-c1c11f24f69f",

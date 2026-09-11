@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const fileNarrow = {
   id: "01a05bd6-c52f-7f44-b6f3-f394856e4e4c",

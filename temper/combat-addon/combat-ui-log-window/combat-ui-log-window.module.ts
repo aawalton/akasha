@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const combatUiLogWindow = {
   id: "01a0617f-5856-7ea4-8576-e3a4cbf1b1a2",

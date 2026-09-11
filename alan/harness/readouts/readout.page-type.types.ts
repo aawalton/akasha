@@ -17,7 +17,7 @@ import type { Scale } from "akasha/alan/harness/readouts/properties/scale.relati
 import type { Unit } from "akasha/alan/harness/readouts/properties/unit.text-property.types.ts"
 import type { WentSilentAt } from "akasha/alan/harness/readouts/properties/went-silent-at.instant-property.types.ts"
 import type { WireKey } from "akasha/alan/harness/readouts/properties/wire-key.text-property.types.ts"
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export type Readout = Module & {
   label: Label

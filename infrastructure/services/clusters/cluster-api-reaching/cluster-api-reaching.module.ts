@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const clusterApiReaching = {
   id: "01a06583-0030-7000-94b8-9fa8780482f5",

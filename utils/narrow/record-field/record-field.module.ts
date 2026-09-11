@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const recordField = {
   id: "01a08e04-e54a-7ebc-acbf-ba372a5763fe",

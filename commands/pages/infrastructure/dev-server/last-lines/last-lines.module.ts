@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const lastLines = {
   id: "01a072f7-0ad2-7488-b3d1-84f71af5a19c",

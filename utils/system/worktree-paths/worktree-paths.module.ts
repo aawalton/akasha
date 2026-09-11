@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const worktreePaths = {
   id: "01a05c67-00ae-7c2a-ab17-097fed36ffd6",

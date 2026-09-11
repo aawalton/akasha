@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const spotifyCacheFile = {
   id: "01a06261-dc1d-7002-81c0-cf6b422e7fb3",

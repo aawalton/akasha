@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const orphanResourceAudit = {
   id: "01a0686c-fd2c-7005-95f0-9e6b3cfb16bd",

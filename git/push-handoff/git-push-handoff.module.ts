@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const gitPushHandoff = {
   id: "01a068b3-8055-7000-b301-1ef5cf968dde",

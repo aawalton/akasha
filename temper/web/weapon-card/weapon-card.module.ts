@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const weaponCard = {
   id: "01a0642d-9a17-71b0-8afa-a9b9f5057fc6",

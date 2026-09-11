@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const deployCommitNaming = {
   id: "01a09183-6693-7551-9148-59aca04e1bcd",

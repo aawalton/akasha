@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const destinationsSettingsHelpers = {
   id: "01a06269-2930-7424-b012-d5205fe2be52",

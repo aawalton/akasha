@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const metricFormulas = {
   id: "01a06133-c62f-7073-ac63-7946ea720dfc",

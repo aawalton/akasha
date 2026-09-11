@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const esoPaths = {
   id: "01a06050-639f-7d76-bfda-f105e8a7cd3e",

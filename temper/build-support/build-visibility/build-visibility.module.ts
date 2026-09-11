@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const buildVisibility = {
   id: "01a090f5-2e81-76eb-9c68-b06b5d7c8f38",

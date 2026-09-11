@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const destinationsLangSettingsDe01 = {
   id: "01a06269-29fd-7c1a-8662-200de080b4c9",

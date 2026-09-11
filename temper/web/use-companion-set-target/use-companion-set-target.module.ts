@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useCompanionSetTarget = {
   id: "01a0642f-8c3c-7327-a586-7f38b3e81460",

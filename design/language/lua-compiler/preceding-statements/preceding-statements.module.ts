@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const precedingStatements = {
   id: "01a06758-8e91-7002-8068-78c858cb2c17",

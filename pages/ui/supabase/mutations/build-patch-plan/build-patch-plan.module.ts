@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const buildPatchPlan = {
   id: "01a05cb4-fefa-7607-bad3-97aa6193d933",

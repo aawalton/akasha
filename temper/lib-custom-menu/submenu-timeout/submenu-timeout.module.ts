@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const submenuTimeout = {
   id: "01a0605a-5820-7660-862b-75def68c1d3b",

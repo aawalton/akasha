@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const charactersTaskProgressResolverWorld = {
   id: "01a062ee-f0ac-7070-96f5-4bfe27c4bb49",

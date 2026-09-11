@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const potionPublicApi = {
   id: "01a061c7-e884-7a0e-99e3-e843f6506a97",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const rotationBreakdownRows = {
   id: "01a06110-abe5-7eeb-859b-48fffcfee56d",

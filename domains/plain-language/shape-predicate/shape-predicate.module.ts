@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const shapePredicate = {
   id: "01a06d15-c08a-7cb9-a166-2c8d5553765b",

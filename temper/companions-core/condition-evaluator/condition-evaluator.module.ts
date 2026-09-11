@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const conditionEvaluator = {
   id: "01a06152-c2d9-7bfd-bdcf-e47f851e9b16",

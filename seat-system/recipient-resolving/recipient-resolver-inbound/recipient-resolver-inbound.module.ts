@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const recipientResolverInbound = {
   id: "01a0657d-a75e-7002-9ef2-f790d1fe2d24",

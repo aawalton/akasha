@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const browserCommandArguing = {
   id: "01a06862-06c8-7005-a0b9-40b1cee375d7",

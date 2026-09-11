@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pushRegistrationSync = {
   id: "01a0655d-dab9-7b64-a9ef-667c2948bf1d",

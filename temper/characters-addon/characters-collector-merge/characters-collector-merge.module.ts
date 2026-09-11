@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const charactersCollectorMerge = {
   id: "01a062e9-b6fe-7010-ab1f-3d8afc6a9e8e",

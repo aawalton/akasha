@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const esoCloneStamp = {
   id: "01a06050-639f-76e4-94da-ea05355aa7da",

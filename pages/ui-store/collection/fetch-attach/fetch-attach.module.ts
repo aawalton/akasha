@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const fetchAttach = {
   id: "01a05b69-453f-78b8-a67b-fe573df190bf",

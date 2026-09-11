@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const characterCaptureCodec = {
   id: "01a0616b-afa7-7b04-bf56-f33d15a63898",

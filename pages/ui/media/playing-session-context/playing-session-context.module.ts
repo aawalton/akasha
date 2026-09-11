@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const playingSessionContext = {
   id: "01a06205-4f3b-7002-b0b3-fc943629740e",

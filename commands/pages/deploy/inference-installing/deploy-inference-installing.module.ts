@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const deployInferenceInstalling = {
   id: "01a090aa-b59e-76ef-b132-b9ef45af15d3",

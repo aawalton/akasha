@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const authFooter = {
   id: "01a08e43-fb7d-780f-b702-af0566841b73",

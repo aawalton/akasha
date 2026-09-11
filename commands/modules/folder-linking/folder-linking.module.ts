@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const folderLinking = {
   id: "01a08e0f-1a66-7dc0-8cec-1028a7c33ae9",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const gmailAuth = {
   id: "01a05c0e-372e-77e5-9829-8e3c9ce333ef",

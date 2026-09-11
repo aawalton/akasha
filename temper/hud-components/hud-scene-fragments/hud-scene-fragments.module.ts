@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const hudSceneFragments = {
   id: "01a060a4-fa3b-7a5a-9dbd-b12ae75da9e4",

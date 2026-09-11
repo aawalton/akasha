@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const spawnCeiling = {
   id: "01a068d4-d2aa-7e7a-b2d7-205870b2e2b4",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const installLinking = {
   id: "01a09247-d31a-7256-813e-77eef6451d1b",

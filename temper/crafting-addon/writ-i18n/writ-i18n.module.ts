@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const writI18n = {
   id: "01a061c7-e896-7e6c-9bf8-02b9e70effd6",

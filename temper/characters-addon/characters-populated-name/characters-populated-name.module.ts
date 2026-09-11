@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const charactersPopulatedName = {
   id: "01a062ea-5f76-7fa2-a4a3-a8b92e04561d",

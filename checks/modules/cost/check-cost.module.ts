@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const checkCost = {
   id: "01a06dc1-5cd3-7e3e-b1c7-133ae3f5ec38",

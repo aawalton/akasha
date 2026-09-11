@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const registryCa = {
   id: "01a06813-7b0f-77e9-b7be-7c10f95506c1",

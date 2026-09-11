@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const revealedFrontier = {
   id: "01a0628e-a5db-70ff-a3bc-cbc6c85df921",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const decodeHarnessScript = {
   id: "01a0910c-50a4-7b5a-8f18-530ddf42c6ea",

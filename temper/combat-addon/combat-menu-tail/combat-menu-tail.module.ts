@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const combatMenuTail = {
   id: "01a0617f-584d-7716-b37c-f6c7c2ba573b",

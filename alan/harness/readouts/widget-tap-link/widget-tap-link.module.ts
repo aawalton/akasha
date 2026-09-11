@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const widgetTapLink = {
   id: "01a078a5-b8d4-7914-bdf7-41f482a36806",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsCoreLifecycleLoaded = {
   id: "01a06231-8f1e-7030-91dc-f0bb68a1c8eb",

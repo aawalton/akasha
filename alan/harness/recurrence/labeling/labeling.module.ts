@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const labeling = {
   id: "01a05c6f-c7c3-7893-ad78-650f6e3d81c6",

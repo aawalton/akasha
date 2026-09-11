@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const interfaceLoad = {
   id: "01a06115-1ada-7ea2-9ac4-ca13ab404a42",

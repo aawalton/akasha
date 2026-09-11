@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const convergence = {
   id: "01a05b69-4549-7fc8-b09b-98a2acfac09b",

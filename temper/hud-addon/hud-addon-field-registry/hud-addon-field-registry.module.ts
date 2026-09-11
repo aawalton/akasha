@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const hudAddonFieldRegistry = {
   id: "01a061c5-18dd-7004-88c4-037542b656a5",

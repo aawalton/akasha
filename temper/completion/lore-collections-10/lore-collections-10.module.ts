@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const loreCollections10 = {
   id: "01a060c0-4126-73cb-b32c-53e05d734347",

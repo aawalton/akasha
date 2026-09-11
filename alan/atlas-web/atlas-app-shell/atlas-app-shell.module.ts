@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const atlasAppShell = {
   id: "01a06582-6b30-7b9f-8dc2-c8502969adf3",

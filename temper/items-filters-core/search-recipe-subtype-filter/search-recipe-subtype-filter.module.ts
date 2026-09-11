@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const searchRecipeSubtypeFilter = {
   id: "01a0613a-e0ad-73d1-95f0-27bb2a879d89",

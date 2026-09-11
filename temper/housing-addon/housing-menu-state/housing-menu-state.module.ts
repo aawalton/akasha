@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const housingMenuState = {
   id: "01a06113-b7d1-7b8c-b88f-ba1df4ff6bdf",

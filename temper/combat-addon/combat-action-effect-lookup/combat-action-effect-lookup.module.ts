@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const combatActionEffectLookup = {
   id: "01a0617f-5830-7cf4-8eae-e540b17a85ce",

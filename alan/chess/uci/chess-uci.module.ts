@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const chessUci = {
   id: "01a05be1-cb07-77cb-8a15-0713644ddc19",

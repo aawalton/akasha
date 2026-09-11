@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const combatUiMainPanel = {
   id: "01a0617f-5857-716b-a7ce-81b82151cacb",

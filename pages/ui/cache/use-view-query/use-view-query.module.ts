@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useViewQuery = {
   id: "01a05cce-25ec-7ff7-96b3-5aee97f05806",

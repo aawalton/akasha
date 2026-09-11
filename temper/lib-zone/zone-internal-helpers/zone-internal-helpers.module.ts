@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const zoneInternalHelpers = {
   id: "01a061e7-932d-70df-8a84-23dcf5b94e83",

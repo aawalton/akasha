@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const crownConsumablePriceLookup = {
   id: "01a0609b-e59f-7038-8111-df7fe90b47d8",

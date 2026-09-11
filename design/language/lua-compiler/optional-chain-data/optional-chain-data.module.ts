@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const optionalChainData = {
   id: "01a06758-8e91-7001-bd6a-31c224ba8cf6",

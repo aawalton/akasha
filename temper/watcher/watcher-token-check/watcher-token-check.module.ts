@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const watcherTokenCheck = {
   id: "01a0640f-8510-7490-bf5f-876df0d09100",

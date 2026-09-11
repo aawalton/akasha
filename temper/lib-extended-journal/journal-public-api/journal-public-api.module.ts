@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const journalPublicApi = {
   id: "01a0617d-5452-7329-9492-1d7ac573c9bb",

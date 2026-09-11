@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorWaitResumeDecide = {
   id: "01a0686d-9d5e-7004-9169-e4d983fea9db",

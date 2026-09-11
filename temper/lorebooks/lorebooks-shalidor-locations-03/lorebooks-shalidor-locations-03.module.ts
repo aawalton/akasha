@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const lorebooksShalidorLocations03 = {
   id: "01a06181-383e-7145-bbbb-91cab1c2901e",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const surfaceElevation = {
   id: "01a05c95-5648-71f3-9039-cfe7da9fa18b",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mlxImageClient = {
   id: "01a0682d-8ef5-7002-bb72-c45901a73f64",

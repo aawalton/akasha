@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useReferrers = {
   id: "01a05cce-25ec-7ad5-b4d6-6cdc20dfc62b",

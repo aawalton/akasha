@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const slashMenu = {
   id: "01a061ee-786e-7001-9166-e7e0b6807be4",

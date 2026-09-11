@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const idSuffixPipeline = {
   id: "01a05b69-454e-7a3f-9487-996fbd634df8",

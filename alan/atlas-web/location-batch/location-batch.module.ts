@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const locationBatch = {
   id: "01a06582-6b30-7821-aec9-e664610f024b",

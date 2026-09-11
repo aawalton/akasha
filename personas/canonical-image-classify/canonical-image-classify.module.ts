@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const canonicalImageClassify = {
   id: "01a05b70-a58c-7353-ae85-0ff1987721d8",

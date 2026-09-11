@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const shoppingRouteCache = {
   id: "01a063a1-8cc1-700c-8fa5-376eebf6a48b",

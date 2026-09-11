@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const declaring = {
   id: "01a04f4e-cc2d-7607-9fbc-82d1c0c0d9be",

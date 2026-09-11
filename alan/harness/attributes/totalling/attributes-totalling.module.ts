@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const attributesTotalling = {
   id: "01a07899-c5db-720d-b555-089ffd6bae07",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const companionTraitLabels = {
   id: "01a0626e-3e04-7d00-9a4d-cc770cd66dbf",

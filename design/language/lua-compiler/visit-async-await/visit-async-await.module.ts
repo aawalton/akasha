@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const visitAsyncAwait = {
   id: "01a06758-8e98-7001-aebd-769452e10451",

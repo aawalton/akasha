@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const k8sSecretEnv = {
   id: "01a08ddf-72fc-7860-89cc-0d78bdc27fc8",

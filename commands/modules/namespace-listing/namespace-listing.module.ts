@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const namespaceListing = {
   id: "01a08146-1d75-7803-8785-04ee4abd9a06",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const completionScribingProgress = {
   id: "01a06279-3a00-7000-8dbd-521db3a1f3b4",

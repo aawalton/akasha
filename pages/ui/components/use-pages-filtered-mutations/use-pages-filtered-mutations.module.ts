@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const usePagesFilteredMutations = {
   id: "01a061ee-786e-700e-b9a8-ef81c27a08f1",

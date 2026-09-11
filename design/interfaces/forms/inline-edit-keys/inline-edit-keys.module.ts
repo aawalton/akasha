@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inlineEditKeys = {
   id: "01a08de9-3d3b-780f-9e57-fc4b33ea8fc5",

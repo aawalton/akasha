@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const treasurePublicApi = {
   id: "01a061d5-d0c1-796e-bcca-9b91d5f6acee",

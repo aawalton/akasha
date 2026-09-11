@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const cdk8sSynth = {
   id: "01a06735-dd9c-7000-93a9-42c5731a8519",

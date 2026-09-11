@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const transportLog = {
   id: "01a062be-c8b4-7000-b087-7fa57405121c",

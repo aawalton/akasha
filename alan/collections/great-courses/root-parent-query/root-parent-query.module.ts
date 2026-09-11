@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const rootParentQuery = {
   id: "01a06579-f3d9-7006-8368-78fe6c117de7",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const monarchMerchantNaming = {
   id: "01a06863-264d-729e-aab5-0dd77d14abc2",

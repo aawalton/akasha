@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const patternsUxLayoutPanels = {
   id: "01a05c95-5649-7c85-8c0e-fe42e07f3b72",

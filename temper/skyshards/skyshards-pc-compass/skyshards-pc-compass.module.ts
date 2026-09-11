@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const skyshardsPcCompass = {
   id: "01a061a8-9c6a-7568-a4ca-6bf5f07e28ee",

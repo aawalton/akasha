@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const monarchAudibleCredits = {
   id: "01a06866-06f1-7d56-8ec9-2fc9f52bc4eb",

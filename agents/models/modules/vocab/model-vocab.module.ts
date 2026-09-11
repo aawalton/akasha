@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const modelVocab = {
   id: "01a06a01-258c-7517-820a-2362cf730b25",

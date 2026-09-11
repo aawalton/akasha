@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const lokiManifests = {
   id: "01a06816-68b1-7345-a4a7-66ab2bbf829e",

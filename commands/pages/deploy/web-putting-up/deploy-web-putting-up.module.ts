@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const deployWebPuttingUp = {
   id: "01a05f90-94a7-7038-a602-193e6370fbac",

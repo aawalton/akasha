@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorLimitResumeAnswer = {
   id: "01a0687b-aa86-7000-a100-4389f0f21022",

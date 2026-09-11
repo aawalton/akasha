@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const buildRow = {
   id: "01a08e40-dcf5-7caf-be8f-9ac9935fa409",

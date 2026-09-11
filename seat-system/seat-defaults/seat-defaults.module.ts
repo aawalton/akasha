@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const seatDefaults = {
   id: "01a0695a-d2ea-7b18-bd0c-bdd9d9ef7cbe",

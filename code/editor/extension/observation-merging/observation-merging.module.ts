@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const observationMerging = {
   id: "01a0680d-8b27-7000-b34e-0480ba0f1ccb",

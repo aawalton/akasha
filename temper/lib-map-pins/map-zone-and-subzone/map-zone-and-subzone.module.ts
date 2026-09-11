@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mapZoneAndSubzone = {
   id: "01a06062-57df-7104-bc26-9f652527265d",

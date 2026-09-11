@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const addonPlacing = {
   id: "01a090b8-6baa-7001-902c-0a3fc6d7cf83",

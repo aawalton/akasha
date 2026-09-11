@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pageBoard = {
   id: "01a0617e-0d2d-7001-9d93-15c81a59f416",

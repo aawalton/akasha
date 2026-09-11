@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const destinationsSettingsIconPreviews = {
   id: "01a06269-2927-7b18-9833-1079e97cde91",

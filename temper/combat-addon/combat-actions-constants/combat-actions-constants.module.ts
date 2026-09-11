@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const combatActionsConstants = {
   id: "01a0617f-5835-7e77-af17-0526ef5acae1",

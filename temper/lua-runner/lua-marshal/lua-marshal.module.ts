@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const luaMarshal = {
   id: "01a06059-2491-7221-94a1-8905cd719a95",

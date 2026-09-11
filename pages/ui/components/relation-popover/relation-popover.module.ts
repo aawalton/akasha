@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const relationPopover = {
   id: "01a0617e-0d2d-7007-9b42-5b4f872dbcc8",

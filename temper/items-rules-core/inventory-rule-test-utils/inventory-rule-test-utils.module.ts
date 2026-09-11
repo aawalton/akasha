@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inventoryRuleTestUtils = {
   id: "01a06100-3bef-7eeb-afe9-e4458d43d5ef",

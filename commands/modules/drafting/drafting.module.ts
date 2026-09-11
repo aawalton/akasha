@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const drafting = {
   id: "01a06315-8aa2-7993-a0d0-9ec51066ecaf",

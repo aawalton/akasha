@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const fcoEntry = {
   id: "01a06115-1ac8-7c6c-acbe-46408451ba0d",

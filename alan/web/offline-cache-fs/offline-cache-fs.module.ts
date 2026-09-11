@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const offlineCacheFs = {
   id: "01a0655d-daab-77c4-8e13-0468219b5e40",

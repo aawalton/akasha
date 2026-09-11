@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const dayActiveCalories = {
   id: "01a06972-ba96-7000-9539-60cc6079f306",

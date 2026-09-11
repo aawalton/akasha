@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mapPinsMuralMenderFragments = {
   id: "01a06269-2ae3-7fef-983f-48ead7dcd064",

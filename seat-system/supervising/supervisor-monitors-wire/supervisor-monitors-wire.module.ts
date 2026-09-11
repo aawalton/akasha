@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorMonitorsWire = {
   id: "01a0687c-0431-7000-a70a-a045c6252226",

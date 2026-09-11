@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const completionCardCheckers = {
   id: "01a0640c-1e9a-73f9-8755-c19243c58c9d",

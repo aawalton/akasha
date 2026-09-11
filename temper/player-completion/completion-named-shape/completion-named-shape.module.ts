@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const completionNamedShape = {
   id: "01a06130-9e3a-7f50-9d58-465202494493",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const logDayWriting = {
   id: "01a06a06-5c03-75e8-ac45-a622024f1f89",

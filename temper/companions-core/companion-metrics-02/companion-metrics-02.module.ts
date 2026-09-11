@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const companionMetrics02 = {
   id: "01a06152-c2cd-7898-8ba5-25ed6cd30252",

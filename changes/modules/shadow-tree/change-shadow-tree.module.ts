@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const changeShadowTree = {
   id: "01a08e11-1e9d-7287-aea2-7bdc8d2fd844",

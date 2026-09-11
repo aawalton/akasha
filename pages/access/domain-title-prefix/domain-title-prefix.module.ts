@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const domainTitlePrefix = {
   id: "01a05bd6-c52c-779e-941e-fe26c9dbbea6",

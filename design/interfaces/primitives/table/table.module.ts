@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const table = {
   id: "01a05be9-d4c5-78db-ae1e-79334680f8f0",

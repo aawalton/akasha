@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const selectBottomNavItems = {
   id: "01a05b82-8b9a-78f4-a8cf-6ac0a0243489",

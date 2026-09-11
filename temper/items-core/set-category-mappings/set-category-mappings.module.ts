@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const setCategoryMappings = {
   id: "01a060e4-b744-7689-8dd5-166277409fcb",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const completionCategoryTreeUtils = {
   id: "01a06408-dd2e-7295-b941-922e331d294e",

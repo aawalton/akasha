@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const yamlLines = {
   id: "01a07c5c-680a-740f-a3f1-a715427bd81a",

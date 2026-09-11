@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const monarchCandidate = {
   id: "01a06866-06f1-7e0b-a8bd-0233e7915dee",

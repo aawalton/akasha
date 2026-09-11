@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const dayMessagesMining = {
   id: "01a082fc-e5c5-79e4-9bcb-7eacb82bf302",

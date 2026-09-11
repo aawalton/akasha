@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const oauthAppCredentials = {
   id: "01a05bdc-e25c-7dd0-ad2f-2a9019b21439",

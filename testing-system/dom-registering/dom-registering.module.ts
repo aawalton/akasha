@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const domRegistering = {
   id: "01a06558-bbb0-7002-bf4b-d065ea2a2ada",

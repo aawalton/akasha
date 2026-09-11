@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const nextBossMenu = {
   id: "01a06157-835a-76b0-9eb4-90b8d1db3184",

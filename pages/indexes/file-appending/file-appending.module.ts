@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const fileAppending = {
   id: "01a09279-a78b-7751-be07-d9dfc607cbc3",

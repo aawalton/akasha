@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const parseTimestamp = {
   id: "01a08dff-e11b-7ae5-995b-d7137e386294",

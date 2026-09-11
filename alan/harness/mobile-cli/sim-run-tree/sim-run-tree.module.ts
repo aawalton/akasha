@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const simRunTree = {
   id: "01a05cee-e560-74ed-a1cf-c9f340983fda",

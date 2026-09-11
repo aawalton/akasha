@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const luaNumberString = {
   id: "01a06059-2492-7512-9794-36f5ae797518",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const specifierPlacing = {
   id: "01a09163-1a4e-7000-9e11-f25866bf23e0",

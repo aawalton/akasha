@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const runBatched = {
   id: "01a060b5-5ba9-7ee1-a925-9a6bbfd758f4",

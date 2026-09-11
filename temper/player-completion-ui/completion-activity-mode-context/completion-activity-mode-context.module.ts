@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const completionActivityModeContext = {
   id: "01a06267-372c-7000-b2c7-fff1196a6bf4",

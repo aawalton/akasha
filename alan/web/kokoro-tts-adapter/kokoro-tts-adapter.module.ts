@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const kokoroTtsAdapter = {
   id: "01a0655d-daab-73fd-b73c-22bee34a5828",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const markdown = {
   id: "01a05b92-a9c7-7b22-94d2-7e5eacef4043",

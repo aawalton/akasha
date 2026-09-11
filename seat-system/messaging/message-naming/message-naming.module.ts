@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const messageNaming = {
   id: "01a090ec-d6a6-7000-9e51-19347ddb64ce",

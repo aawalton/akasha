@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useSubpages = {
   id: "01a05cce-25ec-725b-9abc-9b019de92d9b",

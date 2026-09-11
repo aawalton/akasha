@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const scopeReferences = {
   id: "01a06758-8e92-7001-8bb3-e808b2906a85",

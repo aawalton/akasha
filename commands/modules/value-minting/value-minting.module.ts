@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const valueMinting = {
   id: "01a0503f-14ea-79f4-94bd-4c365bc24d5b",

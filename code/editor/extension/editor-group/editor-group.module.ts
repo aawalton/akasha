@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const editorGroup = {
   id: "01a064d3-f9f9-7a0f-bdd7-95ee76ccf31e",

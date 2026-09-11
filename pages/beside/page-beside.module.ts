@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pageBeside = {
   id: "01a04ea7-b2ea-7d22-ac4c-78cd0b3eaa92",

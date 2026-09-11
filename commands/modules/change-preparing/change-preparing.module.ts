@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const changePreparing = {
   id: "01a0818a-874f-79bb-a981-3f70b61d6b09",

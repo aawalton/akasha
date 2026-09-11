@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const visitExport = {
   id: "01a06758-8ebf-7000-ab19-cf697fedc1ef",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const instantIn = {
   id: "01a08ede-8410-7714-9f40-0a0f13800b21",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useRuleCard = {
   id: "01a0636c-5da1-73ac-82cb-033685f0006c",

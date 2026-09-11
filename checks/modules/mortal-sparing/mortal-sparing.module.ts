@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mortalSparing = {
   id: "01a090fe-a88f-7766-88f5-4ef36edcf941",

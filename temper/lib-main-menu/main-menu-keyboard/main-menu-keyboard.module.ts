@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mainMenuKeyboard = {
   id: "01a0605b-c803-7076-8256-6e18f678aa85",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useIsOnline = {
   id: "01a0655d-dab8-76ce-9956-8e9d79b4ece8",

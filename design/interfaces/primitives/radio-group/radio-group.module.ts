@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const radioGroup = {
   id: "01a05be9-d4c4-7d9c-b4f5-450c061dfb5b",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const gpsApi = {
   id: "01a0614d-475f-7750-9fee-976d2964bf0f",

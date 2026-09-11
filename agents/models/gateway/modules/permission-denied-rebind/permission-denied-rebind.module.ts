@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const permissionDeniedRebind = {
   id: "01a0643b-c945-7a70-b5f1-62d8e7b25aa3",

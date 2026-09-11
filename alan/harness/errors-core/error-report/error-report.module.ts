@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const errorReport = {
   id: "01a05c48-deeb-7014-9896-b95f9f374200",

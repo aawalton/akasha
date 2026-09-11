@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const declaredEffects = {
   id: "01a05bb1-0c05-77f0-a045-39def14c1a35",

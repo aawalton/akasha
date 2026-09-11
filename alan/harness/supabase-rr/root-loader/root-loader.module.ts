@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const rootLoader = {
   id: "01a08e19-0b33-7af0-8d2b-7653014c38dc",

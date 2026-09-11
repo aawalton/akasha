@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const asyncTaskSort = {
   id: "01a0606a-1c59-7223-ad74-aecf370c93d5",

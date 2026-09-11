@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const combatFightDataLog = {
   id: "01a0617f-5842-7b55-953a-8407d5fb09f6",

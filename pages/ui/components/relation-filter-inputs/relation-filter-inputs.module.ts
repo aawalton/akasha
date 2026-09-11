@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const relationFilterInputs = {
   id: "01a061ee-786e-700c-b66d-43a23aa2b32b",

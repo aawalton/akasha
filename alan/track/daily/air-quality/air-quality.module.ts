@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const airQuality = {
   id: "01a06972-b54e-7000-ba1e-08274fe9d43c",

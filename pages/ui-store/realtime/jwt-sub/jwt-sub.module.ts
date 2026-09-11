@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const jwtSub = {
   id: "01a05b69-4555-7824-9432-7eb9b786def0",

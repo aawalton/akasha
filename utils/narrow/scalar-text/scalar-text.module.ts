@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const scalarText = {
   id: "01a0909a-b4dc-7909-b0f7-ac79aba83569",

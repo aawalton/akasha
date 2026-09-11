@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const idleTrainmaxVerb = {
   id: "01a0655d-dabf-7602-b21b-0285af70eaab",

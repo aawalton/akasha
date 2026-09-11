@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const restoreConfirmDialog = {
   id: "01a0641f-8bf0-7201-9eb5-41690b29ef6c",

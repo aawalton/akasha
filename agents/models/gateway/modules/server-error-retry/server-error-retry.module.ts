@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const serverErrorRetry = {
   id: "01a0643b-c947-7454-86f4-50dab4df4448",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const ptyProxy = {
   id: "01a069c2-9357-7003-bbea-553c17c4e0dd",

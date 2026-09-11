@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const chatMessagePublicApi = {
   id: "01a06060-0d18-7688-8eab-91ba2a064865",

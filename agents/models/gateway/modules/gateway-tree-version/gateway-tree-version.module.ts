@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const gatewayTreeVersion = {
   id: "01a069d1-5918-7000-93b1-fb263acda9d0",

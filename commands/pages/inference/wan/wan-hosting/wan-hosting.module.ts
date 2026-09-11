@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const wanHosting = {
   id: "01a072fa-322d-77af-bb5a-82b475102492",

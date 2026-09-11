@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const claudeAccountMeasuring = {
   id: "01a05827-314f-7bc0-afb4-1189b872a8fb",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const companionLeaderboard = {
   id: "01a06152-c2ca-7bf7-a6bf-86af486302c4",

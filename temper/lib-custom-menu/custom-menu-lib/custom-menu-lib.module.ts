@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const customMenuLib = {
   id: "01a0605a-581e-7826-9cc9-769dd4862bdf",

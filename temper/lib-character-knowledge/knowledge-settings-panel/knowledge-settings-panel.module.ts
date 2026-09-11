@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const knowledgeSettingsPanel = {
   id: "01a06229-5810-75ae-9fd7-824e0f8e3131",

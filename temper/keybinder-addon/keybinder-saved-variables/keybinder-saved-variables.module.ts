@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const keybinderSavedVariables = {
   id: "01a06381-67c1-7efa-89ba-519602e056ec",

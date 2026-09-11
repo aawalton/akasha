@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const destinationsPoiData14 = {
   id: "01a06269-29d1-727b-a2b4-6b11a1c50ccb",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const craftFlask = {
   id: "01a061c7-e84d-7bcd-b079-b4f141b07c5f",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const sha256Hex = {
   id: "01a08ef4-823c-79ae-8b62-4de2fcf1a1b5",

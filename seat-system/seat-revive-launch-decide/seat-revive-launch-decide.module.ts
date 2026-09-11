@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const seatReviveLaunchDecide = {
   id: "01a0686d-9d5e-700b-a38f-fbe2284f5f2d",

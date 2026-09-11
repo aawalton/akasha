@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorInteractiveBoot = {
   id: "01a06871-3115-7005-8779-160298d3aa4e",

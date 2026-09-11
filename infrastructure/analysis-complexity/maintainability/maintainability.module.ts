@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const maintainability = {
   id: "01a0680f-d1b7-7fad-a8e1-931817f12d1a",

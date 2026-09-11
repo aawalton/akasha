@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useClassChange = {
   id: "01a0642c-5b9f-7d62-9709-df0efcf93317",

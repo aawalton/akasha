@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const statRow = {
   id: "01a05c69-c065-71fd-8a53-11b53fd1a15a",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const lineupSlotsDraft = {
   id: "01a0655d-dabf-7840-b493-58b65ba1e569",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const committedKeepalive = {
   id: "01a0643b-c949-7ef9-a390-9c33451d3e59",

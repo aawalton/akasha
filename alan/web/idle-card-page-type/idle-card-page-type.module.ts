@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const idleCardPageType = {
   id: "01a0655d-dabf-720c-b4fc-9657c0778578",

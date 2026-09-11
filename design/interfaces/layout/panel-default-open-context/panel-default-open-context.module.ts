@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const panelDefaultOpenContext = {
   id: "01a05b82-8b99-7f13-a7cf-e8a89a2c0bcb",

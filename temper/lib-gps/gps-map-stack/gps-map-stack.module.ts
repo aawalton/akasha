@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const gpsMapStack = {
   id: "01a0614d-4764-7ec3-ad81-9a7139d4a72a",

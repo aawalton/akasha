@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const chatEntryText = {
   id: "01a090b3-cd34-73db-8728-72f922749cda",

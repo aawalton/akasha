@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const bundleMemberSavedVars = {
   id: "01a06072-5abd-75b9-b1b8-07150462637e",

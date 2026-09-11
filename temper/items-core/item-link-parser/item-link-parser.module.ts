@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const itemLinkParser = {
   id: "01a060bf-747c-74be-8914-30e2ea6cabe8",

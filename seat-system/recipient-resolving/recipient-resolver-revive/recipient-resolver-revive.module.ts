@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const recipientResolverRevive = {
   id: "01a0657d-a75e-7004-be2b-c82d305902a9",

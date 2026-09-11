@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const jewelryEnchantsData = {
   id: "01a0616f-8e14-79ec-a8cd-c4989b33053d",

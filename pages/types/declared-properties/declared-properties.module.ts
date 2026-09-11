@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const declaredProperties = {
   id: "01a053f6-7bab-764e-b69d-af9ebf0f1558",

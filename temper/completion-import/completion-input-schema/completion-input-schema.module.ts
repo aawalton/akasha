@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const completionInputSchema = {
   id: "01a060d7-c8ce-7583-8247-676a8ee7d0c5",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const cadwellCatalogCapture = {
   id: "01a060e2-3182-756a-bf21-3babbef6d0b0",

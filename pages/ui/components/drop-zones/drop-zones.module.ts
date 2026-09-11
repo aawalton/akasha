@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const dropZones = {
   id: "01a05c3b-4fc4-74ef-baca-5dc0459014b9",

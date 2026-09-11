@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pageListSection = {
   id: "01a06259-5189-7bf0-bb13-4bcafe48d0c8",

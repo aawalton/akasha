@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const panelControlsCreated = {
   id: "01a0909d-e44e-780b-9375-2b6c9bcfcb42",

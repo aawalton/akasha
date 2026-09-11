@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const addonDataWritesCompanionMappings = {
   id: "01a06837-d6c9-7650-a4df-e2a75b0339c5",

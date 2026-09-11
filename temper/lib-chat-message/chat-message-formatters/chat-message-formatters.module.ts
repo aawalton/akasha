@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const chatMessageFormatters = {
   id: "01a06060-0d17-74d0-ba57-905b629170b0",

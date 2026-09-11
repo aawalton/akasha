@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const folderSpelling = {
   id: "01a091d9-3205-7ee2-80c5-6583ff907541",

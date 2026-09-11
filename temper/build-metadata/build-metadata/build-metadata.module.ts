@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const buildMetadata = {
   id: "01a061c0-88d8-7527-81f9-44b8e63a9668",

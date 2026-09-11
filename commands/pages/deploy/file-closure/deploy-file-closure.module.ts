@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const deployFileClosure = {
   id: "01a09196-9c2c-732f-bd4f-d1f618fae23a",

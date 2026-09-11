@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorSelfHealJitterRule = {
   id: "01a06876-abda-7012-81f4-c00fe99b761f",

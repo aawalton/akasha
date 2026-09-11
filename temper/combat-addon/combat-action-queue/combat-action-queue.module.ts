@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const combatActionQueue = {
   id: "01a0617f-5833-79ac-bcec-2bc7bed2b412",

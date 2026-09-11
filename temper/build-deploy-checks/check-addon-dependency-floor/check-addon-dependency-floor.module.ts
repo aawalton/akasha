@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const checkAddonDependencyFloor = {
   id: "01a06297-7f6a-744e-919c-2ff3483ee37b",

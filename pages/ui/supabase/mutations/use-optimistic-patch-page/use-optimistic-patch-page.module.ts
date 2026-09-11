@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useOptimisticPatchPage = {
   id: "01a061cd-1a4e-7003-b814-7031a04dbf00",

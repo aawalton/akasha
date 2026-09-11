@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const comfyGraph = {
   id: "01a06810-0b68-7ef9-b759-c81fe48c15c6",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const liveGatewaySeats = {
   id: "01a07c0e-3845-7753-9dd0-c01a2d905a11",

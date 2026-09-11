@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsSetTextSetTextFields = {
   id: "01a06231-8f1f-73ea-b8fc-4fb6e3b80305",

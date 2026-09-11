@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const histoireLegacyEventFormat = {
   id: "01a06197-4c96-7e5b-85bf-25f3e1613dc8",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const surplusFallNotifying = {
   id: "01a0686a-7a57-7e6e-8a26-5e4ca27ca43d",

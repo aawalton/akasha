@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const cnpgScheduledBackup = {
   id: "01a073ae-5d71-78e1-a154-bc5ad7798436",

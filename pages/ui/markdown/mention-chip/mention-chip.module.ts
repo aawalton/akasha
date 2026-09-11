@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mentionChip = {
   id: "01a061df-fe7f-7005-b349-3f1a9f8520a8",

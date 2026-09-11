@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const edgeSwipeNav = {
   id: "01a0655d-dab8-7fef-8e69-3369e524d425",

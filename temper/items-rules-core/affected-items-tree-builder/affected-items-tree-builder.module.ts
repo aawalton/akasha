@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const affectedItemsTreeBuilder = {
   id: "01a06276-e3e7-7896-a7ba-97936d3ea281",

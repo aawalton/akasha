@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const idleDeriving = {
   id: "01a05b69-c24c-7187-ba21-83df7ae3528b",

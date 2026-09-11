@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsPreloadedWayshrineNodeToZone01 = {
   id: "01a061dd-1562-7a36-93d9-0028ee39b743",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const applyInvalidations = {
   id: "01a06071-0c76-73c9-ae39-c266d45d6492",

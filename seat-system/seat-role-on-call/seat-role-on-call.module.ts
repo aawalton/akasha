@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const seatRoleOnCall = {
   id: "01a0766c-11c7-79de-aa16-8aafc180ce58",

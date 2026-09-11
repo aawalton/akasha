@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const quietCraftBag = {
   id: "01a060f1-6914-7a83-8b82-45aef527bbf0",

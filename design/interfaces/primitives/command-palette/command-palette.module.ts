@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const commandPalette = {
   id: "01a05be9-d4c2-7a60-bb20-12f071968480",

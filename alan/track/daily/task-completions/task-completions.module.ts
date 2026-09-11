@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const taskCompletions = {
   id: "01a06972-bbf5-7000-bf44-04b8b1fd776a",

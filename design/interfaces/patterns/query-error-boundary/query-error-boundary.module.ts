@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const queryErrorBoundary = {
   id: "01a061ed-653b-73ef-8556-969d798ee2a5",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const subscribeForm = {
   id: "01a06558-c2cc-7005-951d-2c1afc0f1f68",

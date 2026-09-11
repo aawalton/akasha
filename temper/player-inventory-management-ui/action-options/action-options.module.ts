@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const actionOptions = {
   id: "01a0636c-5d96-7dc6-a22c-810f2f640002",

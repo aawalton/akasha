@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const addonDataTarget = {
   id: "01a062a9-3f10-7de2-9a05-71c8bb3e4f27",

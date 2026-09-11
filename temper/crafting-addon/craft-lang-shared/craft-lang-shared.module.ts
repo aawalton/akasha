@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const craftLangShared = {
   id: "01a061c7-e858-781b-8554-bb0bd91ac5d8",

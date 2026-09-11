@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const icon = {
   id: "01a05b92-a9c7-74f1-90e9-f2d2c8828c82",

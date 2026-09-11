@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const navCountBadgeDecider = {
   id: "01a05c40-2194-7494-a518-786df4acb4e9",

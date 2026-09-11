@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const fcoPanelActionBars = {
   id: "01a06115-1acf-7b18-8475-506254e87d68",

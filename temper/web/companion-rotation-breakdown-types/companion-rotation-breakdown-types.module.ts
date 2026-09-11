@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const companionRotationBreakdownTypes = {
   id: "01a0641f-8be9-7a12-b0f4-7d6a52ba407c",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const shalidorLibraryCollections = {
   id: "01a06358-4f7c-7197-b990-c0ab3d67d74e",

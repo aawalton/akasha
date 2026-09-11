@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const lualibRuntime = {
   id: "01a06758-8e5f-7000-91ee-714a2cfab1a4",

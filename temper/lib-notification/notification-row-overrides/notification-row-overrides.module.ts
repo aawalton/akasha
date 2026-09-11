@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const notificationRowOverrides = {
   id: "01a0605a-0516-7cdb-bc72-cc68da9f4ab1",

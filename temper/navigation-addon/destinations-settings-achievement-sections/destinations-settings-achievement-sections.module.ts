@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const destinationsSettingsAchievementSections = {
   id: "01a06269-291c-7904-a90d-f1f10ee38137",

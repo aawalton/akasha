@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const retryTransientDdl = {
   id: "01a07740-d031-7c4b-9fdc-e16681cb6f2a",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorProxyVersion = {
   id: "01a06876-abda-7002-b6b4-75fdee84946b",

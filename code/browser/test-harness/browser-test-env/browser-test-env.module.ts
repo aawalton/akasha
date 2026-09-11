@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const browserTestEnv = {
   id: "01a05ca9-d802-7492-b412-add2b3935750",

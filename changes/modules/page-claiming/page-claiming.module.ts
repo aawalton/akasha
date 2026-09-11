@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pageClaiming = {
   id: "01a078bd-ae49-7881-bdf5-084ad0327dbe",

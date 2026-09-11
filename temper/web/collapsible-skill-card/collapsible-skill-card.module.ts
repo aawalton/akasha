@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const collapsibleSkillCard = {
   id: "01a06429-76ff-784e-ba89-8f36c72e9123",

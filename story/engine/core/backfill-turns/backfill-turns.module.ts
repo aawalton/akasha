@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const backfillTurns = {
   id: "01a05b71-e543-755f-8fd1-ab8e2e5074d5",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const committedOutcome = {
   id: "01a0622f-4550-7f67-8307-16e48ffd8ea5",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const scrollableMenuApiRefresh = {
   id: "01a06275-c443-7905-af8d-6d33bbb2d716",

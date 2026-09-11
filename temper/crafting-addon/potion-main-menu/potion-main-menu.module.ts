@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const potionMainMenu = {
   id: "01a061c7-e881-768c-933c-71438df2691b",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const listContentSkeleton = {
   id: "01a05b82-8b98-738a-a167-91ae7703d679",

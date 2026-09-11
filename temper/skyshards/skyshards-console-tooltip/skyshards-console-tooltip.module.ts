@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const skyshardsConsoleTooltip = {
   id: "01a061a8-9c63-7fc5-8ce8-a14b6845b274",

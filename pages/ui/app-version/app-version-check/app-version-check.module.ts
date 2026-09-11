@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const appVersionCheck = {
   id: "01a05c0f-884e-79da-afec-110b19b9fb05",

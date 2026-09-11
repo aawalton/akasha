@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const commandStopping = {
   id: "01a08210-6d0b-7dc1-ab3e-7bbc1658cd31",

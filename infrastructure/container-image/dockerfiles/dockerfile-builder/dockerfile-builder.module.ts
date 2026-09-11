@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const dockerfileBuilder = {
   id: "01a06865-abff-7005-b853-662b71046aba",

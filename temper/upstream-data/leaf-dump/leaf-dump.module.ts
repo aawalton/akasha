@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const leafDump = {
   id: "01a06282-dfc3-7f7d-baf2-78aa71fd248e",

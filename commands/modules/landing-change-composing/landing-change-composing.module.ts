@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const landingChangeComposing = {
   id: "01a08e4b-4473-76f8-a0ab-a6f11802d8b6",

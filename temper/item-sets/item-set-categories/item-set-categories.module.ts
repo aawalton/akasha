@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const itemSetCategories = {
   id: "01a090e4-4cd1-7dd9-9df4-7d5cf6c4caed",

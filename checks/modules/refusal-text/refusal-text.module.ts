@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const refusalText = {
   id: "01a06895-1cfe-7000-918a-9e999d062e47",

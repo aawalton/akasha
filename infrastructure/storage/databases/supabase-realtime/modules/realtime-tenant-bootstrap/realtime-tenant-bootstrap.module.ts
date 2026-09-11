@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const realtimeTenantBootstrap = {
   id: "01a06810-1263-7800-b5a2-4114193d0b72",

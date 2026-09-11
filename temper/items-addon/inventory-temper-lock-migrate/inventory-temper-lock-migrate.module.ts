@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inventoryTemperLockMigrate = {
   id: "01a06258-b534-79fe-8755-b39b437e39b1",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const safeTarget = {
   id: "01a05c13-a262-762b-bc38-6efce5cc6c01",

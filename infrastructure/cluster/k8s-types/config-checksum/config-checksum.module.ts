@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const configChecksum = {
   id: "01a08d87-c786-760e-992f-c710e3d37ad9",

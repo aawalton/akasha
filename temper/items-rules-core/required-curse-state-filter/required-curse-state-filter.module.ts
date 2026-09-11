@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const requiredCurseStateFilter = {
   id: "01a06100-3bf8-73ef-a10e-397900927cf5",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inventoryActionPanel = {
   id: "01a06258-b52c-7d14-aa57-055429e5b07b",

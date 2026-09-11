@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const bankTraceReading = {
   id: "01a06864-aa2b-7002-9f57-fb06fdfa105a",

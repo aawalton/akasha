@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const kubeStateMetricsManifests = {
   id: "01a073ae-d7ce-7b11-9dd4-8fca7346fe51",

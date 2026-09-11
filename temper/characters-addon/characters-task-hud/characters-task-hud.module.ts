@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const charactersTaskHud = {
   id: "01a062ee-f13b-7078-8d2b-e3b2c0499a1f",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const addonManifestFile = {
   id: "01a060e2-4d62-7a26-8c08-d2b7be0f14ff",

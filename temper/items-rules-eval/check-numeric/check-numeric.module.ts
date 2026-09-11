@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const checkNumeric = {
   id: "01a06137-f967-7ff4-a7da-b8e750de7c13",

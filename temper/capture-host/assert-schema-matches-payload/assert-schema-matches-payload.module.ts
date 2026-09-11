@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const assertSchemaMatchesPayload = {
   id: "01a06075-b052-7e77-979b-c9bea93f7ba3",

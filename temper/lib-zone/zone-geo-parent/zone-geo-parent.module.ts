@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const zoneGeoParent = {
   id: "01a061e7-9332-7ff7-8732-2891eef049b6",

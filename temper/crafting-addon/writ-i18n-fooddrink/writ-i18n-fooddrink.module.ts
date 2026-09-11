@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const writI18nFooddrink = {
   id: "01a061c7-e898-7f1a-8f39-92e354d3a8ad",

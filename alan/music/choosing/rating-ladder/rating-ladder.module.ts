@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const ratingLadder = {
   id: "01a06281-4d9d-7001-9db5-f9ea87db3f71",

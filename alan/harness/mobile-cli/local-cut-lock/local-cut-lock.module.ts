@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const localCutLock = {
   id: "01a05cee-e560-799d-8874-d6c9518059c9",

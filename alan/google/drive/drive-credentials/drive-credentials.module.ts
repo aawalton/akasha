@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const driveCredentials = {
   id: "01a05bec-fc0a-7cf5-922c-10500a6552cc",

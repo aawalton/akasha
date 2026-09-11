@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const reloadUi = {
   id: "01a090b2-4c81-73e4-85d7-24204ef52dcd",

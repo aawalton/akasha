@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const shapeObject = {
   id: "01a06983-278f-798f-9e80-5d6ce48a6cf8",

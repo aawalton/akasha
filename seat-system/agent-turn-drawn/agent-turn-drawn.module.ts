@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const agentTurnDrawn = {
   id: "01a06966-501e-7364-ba85-aba175e8b52a",

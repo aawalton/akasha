@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const imagePublishing = {
   id: "01a08da4-6ca4-798c-84fd-af4b515703c5",

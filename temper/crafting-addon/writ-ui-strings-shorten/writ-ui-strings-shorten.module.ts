@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const writUiStringsShorten = {
   id: "01a061c7-e8b9-7ac1-93f5-eb56b9c56eb3",

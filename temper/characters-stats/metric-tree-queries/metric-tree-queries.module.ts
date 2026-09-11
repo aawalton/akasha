@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const metricTreeQueries = {
   id: "01a06133-5f08-7847-b955-726d7860b3d5",

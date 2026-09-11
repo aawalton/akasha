@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const histoireCompatibility = {
   id: "01a06197-4c92-7d6d-bba3-586ef7ec2705",

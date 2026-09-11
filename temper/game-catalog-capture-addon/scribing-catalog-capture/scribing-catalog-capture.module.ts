@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const scribingCatalogCapture = {
   id: "01a060e2-3185-722d-8f2e-4cfdeb3fc189",

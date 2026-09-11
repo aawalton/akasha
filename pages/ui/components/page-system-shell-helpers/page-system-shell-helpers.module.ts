@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pageSystemShellHelpers = {
   id: "01a05c40-2194-7fa0-949d-acbc4796814c",

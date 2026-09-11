@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const nameMatching = {
   id: "01a04eba-7459-7284-8c06-c79e5963387d",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pageListingLoader = {
   id: "01a08e24-787c-78b5-a972-ca859eaa4fd8",

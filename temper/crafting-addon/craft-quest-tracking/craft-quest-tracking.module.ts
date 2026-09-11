@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const craftQuestTracking = {
   id: "01a061c7-e860-7f2d-b010-ea5fab76a0b8",

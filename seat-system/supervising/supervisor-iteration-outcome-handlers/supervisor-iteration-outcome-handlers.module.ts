@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorIterationOutcomeHandlers = {
   id: "01a06871-3115-700b-b125-962ed5e09687",

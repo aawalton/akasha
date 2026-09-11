@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const extractPassives = {
   id: "01a06271-abcf-7c72-adb9-549ee5b23055",

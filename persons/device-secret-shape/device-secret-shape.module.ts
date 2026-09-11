@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const deviceSecretShape = {
   id: "01a05d42-bbca-790f-b10c-1d1b1caed1c9",

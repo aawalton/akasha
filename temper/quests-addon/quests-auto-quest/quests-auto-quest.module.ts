@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const questsAutoQuest = {
   id: "01a0635f-391c-7561-9ad8-9f05904aa99c",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const ruleFilterUtils = {
   id: "01a06100-3bfa-7c59-bbd4-bfdee7444bab",

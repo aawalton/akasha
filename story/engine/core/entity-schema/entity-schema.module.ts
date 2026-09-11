@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const entitySchema = {
   id: "01a05b71-e543-79e4-8728-cee11630d9ab",

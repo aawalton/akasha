@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const journalCasts = {
   id: "01a0617d-544d-7f97-9ea4-d789662cd65d",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const combatUiPlotInit = {
   id: "01a0617f-5859-73c3-9595-c66eaabc6347",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const craftSetsDataTiers25 = {
   id: "01a061c7-e86c-7dd5-91df-8b635e788751",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const starSelectionDialog = {
   id: "01a06432-b190-70ca-8fae-defba6b87018",

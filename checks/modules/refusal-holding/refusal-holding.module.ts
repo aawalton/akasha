@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const refusalHolding = {
   id: "01a09262-8dcd-7000-9ba4-db03acc57a04",

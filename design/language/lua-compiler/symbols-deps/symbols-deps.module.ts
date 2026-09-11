@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const symbolsDeps = {
   id: "01a06758-8e95-7000-bcb5-b4bde34ccd7d",

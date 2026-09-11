@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const canLevelMorphsFilterTypes = {
   id: "01a060d9-44c9-73f5-b636-a71e11ca32f5",

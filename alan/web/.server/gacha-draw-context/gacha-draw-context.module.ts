@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const gachaDrawContext = {
   id: "01a0655e-d39a-7d78-92a5-0e8f9375946d",

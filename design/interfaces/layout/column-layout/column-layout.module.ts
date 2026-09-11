@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const columnLayout = {
   id: "01a05b82-8b98-70f6-91e7-a736a50fe914",

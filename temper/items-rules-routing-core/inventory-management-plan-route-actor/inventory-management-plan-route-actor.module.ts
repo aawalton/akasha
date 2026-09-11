@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inventoryManagementPlanRouteActor = {
   id: "01a06151-3708-76b3-afdf-d8105f89b89d",

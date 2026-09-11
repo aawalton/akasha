@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useNumberDraft = {
   id: "01a08e03-e1bc-73b8-a5dc-0d022694948e",

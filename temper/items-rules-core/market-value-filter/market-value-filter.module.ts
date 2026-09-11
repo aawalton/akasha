@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const marketValueFilter = {
   id: "01a06100-3bf3-7e98-bc03-434a49553e2c",

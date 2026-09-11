@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const routerContext = {
   id: "01a05b82-8b9a-7789-970b-0800cfa712ea",

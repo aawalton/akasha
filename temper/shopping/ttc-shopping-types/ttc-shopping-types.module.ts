@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const ttcShoppingTypes = {
   id: "01a060cf-b0af-7126-9b58-710f57b008b6",

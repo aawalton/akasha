@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const championsTree = {
   id: "01a06584-9bf3-7000-a10f-f23c6429fe58",

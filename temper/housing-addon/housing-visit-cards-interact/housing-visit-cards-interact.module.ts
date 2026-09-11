@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const housingVisitCardsInteract = {
   id: "01a06128-d5d6-7897-939f-8aa6659a7dcf",

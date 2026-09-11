@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const listingEntrySchema = {
   id: "01a060a7-02f2-7466-b06e-20c2ad62c6f6",

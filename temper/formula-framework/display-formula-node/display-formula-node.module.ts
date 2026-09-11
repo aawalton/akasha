@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const displayFormulaNode = {
   id: "01a06070-82e0-7b53-b67f-f2377214df92",

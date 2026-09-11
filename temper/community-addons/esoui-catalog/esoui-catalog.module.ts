@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const esouiCatalog = {
   id: "01a06069-b78e-7d2b-92aa-b3faa2d1f562",

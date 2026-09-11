@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const characterCaptureMorphable04 = {
   id: "01a0616b-e1ef-76cc-97f9-bd416e62efe9",

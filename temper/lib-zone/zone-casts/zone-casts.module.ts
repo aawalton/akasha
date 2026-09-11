@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const zoneCasts = {
   id: "01a061e7-92f2-790e-b9b3-5b0d9a77cf73",

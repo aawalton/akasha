@@ -1,4 +1,4 @@
-import type { Code } from "akasha/code-system/modules/properties/code.code-file-property.types.ts"
+import type { Code } from "akasha/code/modules/properties/code.code-file-property.types.ts"
 import type { CompiledLua } from "akasha/design/language/lua-compiler/lualibs/properties/compiled-lua.code-file-property.types.ts"
 import type { LuaExport } from "akasha/design/language/lua-compiler/lualibs/properties/lua-export.text-property.types.ts"
 import type { LuaFeature } from "akasha/design/language/lua-compiler/lualibs/properties/lua-feature.text-property.types.ts"

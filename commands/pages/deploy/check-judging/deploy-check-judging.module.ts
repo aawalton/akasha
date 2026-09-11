@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const deployCheckJudging = {
   id: "01a091ac-1ea6-7af9-a725-96a51aaf0c5f",

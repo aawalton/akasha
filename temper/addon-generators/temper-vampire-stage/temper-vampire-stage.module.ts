@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const temperVampireStage = {
   id: "01a0607c-1795-7b42-816b-f2ce6b0f47b3",

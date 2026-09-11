@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const alertControls = {
   id: "01a0629b-6807-7ee9-b891-df22792eaf67",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const ruleMatcherContextCurseState = {
   id: "01a06151-370d-745a-96d3-e57c7a242777",

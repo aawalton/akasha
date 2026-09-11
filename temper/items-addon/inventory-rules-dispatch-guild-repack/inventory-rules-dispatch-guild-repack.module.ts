@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inventoryRulesDispatchGuildRepack = {
   id: "01a06258-b531-77ae-a941-9be7cf097d72",

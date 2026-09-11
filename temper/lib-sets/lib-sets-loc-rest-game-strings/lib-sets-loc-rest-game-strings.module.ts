@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsLocRestGameStrings = {
   id: "01a061d7-7bbb-7170-aade-e379e3f862a3",

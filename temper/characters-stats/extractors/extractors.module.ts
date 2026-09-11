@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const extractors = {
   id: "01a06133-c62d-74e6-bc37-48e042ee3d3d",

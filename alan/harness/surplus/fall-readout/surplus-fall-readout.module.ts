@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const surplusFallReadout = {
   id: "01a0697e-ded3-77d5-9cd4-07afe269931b",

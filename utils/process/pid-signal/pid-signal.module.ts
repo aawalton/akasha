@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pidSignal = {
   id: "01a05c4f-6f2e-7d2e-bf84-237cf8284bd3",

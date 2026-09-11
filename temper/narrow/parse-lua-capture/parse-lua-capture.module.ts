@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const parseLuaCapture = {
   id: "01a08e0c-2af7-7ac7-841c-ccaa3d4ee31b",

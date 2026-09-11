@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const combatLibHeal = {
   id: "01a0617f-5847-7feb-aa3c-6423bfa642e3",

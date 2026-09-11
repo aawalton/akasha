@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const checkAddonSandboxSafety = {
   id: "01a06365-e827-7007-b638-ed3fec2ee814",

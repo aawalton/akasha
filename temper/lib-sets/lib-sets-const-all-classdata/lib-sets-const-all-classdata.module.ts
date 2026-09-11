@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsConstAllClassdata = {
   id: "01a061d7-7bc9-7ba9-94c0-a91d978b1f8a",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const toggleGroup = {
   id: "01a05be9-d4c6-740b-8141-388c3cac07e2",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const syncing = {
   id: "01a0686a-7a57-76d6-a2df-a5aa6fbe7d58",

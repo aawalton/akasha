@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const companionStatExplanationDialog = {
   id: "01a0642f-8c33-75e7-82a4-35f9043c93a5",

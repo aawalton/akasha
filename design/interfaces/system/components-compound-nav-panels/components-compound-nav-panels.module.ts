@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const componentsCompoundNavPanels = {
   id: "01a05c95-5648-76d7-a7c5-7f1721ccf17f",

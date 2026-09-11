@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const readoutGroupServing = {
   id: "01a05f42-92f5-7006-91fc-290b825bc130",

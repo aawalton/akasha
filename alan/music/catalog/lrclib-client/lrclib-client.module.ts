@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const lrclibClient = {
   id: "01a06262-ff4c-7004-99a6-b15f63fddbd0",

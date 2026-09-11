@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const esoTraitMap = {
   id: "01a0610f-45ba-79d3-b258-2e9d709283b7",

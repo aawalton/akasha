@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsLocRestLanguageCodes = {
   id: "01a061d7-7bbb-7adb-a981-d703ec22bef9",

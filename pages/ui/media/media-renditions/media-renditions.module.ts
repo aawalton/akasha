@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mediaRenditions = {
   id: "01a05c27-31ee-7970-b6e2-34d2259bcdab",

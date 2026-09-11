@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const rowGrouping = {
   id: "01a0609f-53fa-76c3-b842-f36808ca5db3",

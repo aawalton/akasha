@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inferenceSsh = {
   id: "01a0685d-4b35-700a-9f89-da8520e5f3a8",

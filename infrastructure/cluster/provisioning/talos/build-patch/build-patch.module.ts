@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const buildPatch = {
   id: "01a06813-7b0f-7a67-b8a8-51d1b4874930",

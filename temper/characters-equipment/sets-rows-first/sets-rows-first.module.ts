@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const setsRowsFirst = {
   id: "01a08e66-0b80-7e5b-a02a-6ceb5642caab",

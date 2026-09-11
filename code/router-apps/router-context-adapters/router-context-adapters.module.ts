@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const routerContextAdapters = {
   id: "01a08e35-2512-7620-ba36-cc10442965af",

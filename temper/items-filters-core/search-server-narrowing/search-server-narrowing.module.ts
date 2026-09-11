@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const searchServerNarrowing = {
   id: "01a0613a-e0ae-75b0-9cbe-58f1edfb2323",

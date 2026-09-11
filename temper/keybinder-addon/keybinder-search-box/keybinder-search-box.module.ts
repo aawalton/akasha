@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const keybinderSearchBox = {
   id: "01a06381-67c1-7df3-9f12-953a58355bdc",

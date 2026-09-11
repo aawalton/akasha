@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const tickDeadline = {
   id: "01a06885-0bab-7000-97bd-58c9925eb768",

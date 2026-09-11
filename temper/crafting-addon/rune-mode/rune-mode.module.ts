@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const runeMode = {
   id: "01a061c7-e890-7b24-969a-2a0111c17942",

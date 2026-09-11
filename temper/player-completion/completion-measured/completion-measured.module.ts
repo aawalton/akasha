@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const completionMeasured = {
   id: "01a06108-2ff2-74de-bd0e-f2cc1d348cce",

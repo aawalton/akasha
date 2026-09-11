@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const camelizeKey = {
   id: "01a090e5-14b5-76c8-a2aa-3fc1519a8db3",

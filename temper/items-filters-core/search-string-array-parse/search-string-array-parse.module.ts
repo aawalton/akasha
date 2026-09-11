@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const searchStringArrayParse = {
   id: "01a0613a-e0af-7002-b311-310a410d8013",

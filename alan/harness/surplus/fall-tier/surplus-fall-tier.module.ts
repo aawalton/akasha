@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const surplusFallTier = {
   id: "01a0697e-ded3-7adb-9d6e-f852cfc9ffd7",

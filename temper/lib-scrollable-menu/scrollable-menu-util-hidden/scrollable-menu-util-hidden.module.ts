@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const scrollableMenuUtilHidden = {
   id: "01a06275-c449-7fae-9235-4c18d5baf2e1",

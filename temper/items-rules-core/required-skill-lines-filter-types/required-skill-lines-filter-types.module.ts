@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const requiredSkillLinesFilterTypes = {
   id: "01a060d9-44cb-7469-95e8-03afb51f0719",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inventorySkillLineRanks = {
   id: "01a06258-b534-7262-a1c8-bf99754c5ba6",

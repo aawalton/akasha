@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inferenceOutputPath = {
   id: "01a0682d-8ef5-7000-94d2-cb350381788d",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const proseRewrite = {
   id: "01a08245-78cc-7f77-96bc-39695e9c2410",

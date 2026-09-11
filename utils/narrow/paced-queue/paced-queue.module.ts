@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pacedQueue = {
   id: "01a08dda-ba3d-7624-b2c6-d4397c9fce94",

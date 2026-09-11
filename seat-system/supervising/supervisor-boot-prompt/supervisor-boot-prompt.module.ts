@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorBootPrompt = {
   id: "01a0683e-3dbe-700c-846f-2de44a594e21",

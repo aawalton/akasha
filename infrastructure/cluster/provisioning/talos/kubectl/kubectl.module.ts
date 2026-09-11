@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const kubectl = {
   id: "01a06813-7b0f-78f8-8420-3ac40730df9b",

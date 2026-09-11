@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const addonLog = {
   id: "01a08e26-c147-7c8e-baea-f2cad9ded7c8",

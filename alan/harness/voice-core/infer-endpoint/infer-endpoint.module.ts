@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inferEndpoint = {
   id: "01a05b55-e06e-7111-b593-e60ae5994db1",

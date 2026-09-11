@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const priceSourcesCrown = {
   id: "01a0615d-c21b-7998-ac48-d9bf136af8d3",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorAgentSettings = {
   id: "01a069bf-b8ea-7512-b82f-c386bd4270c4",

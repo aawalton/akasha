@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorSpawnSettings = {
   id: "01a06876-abda-7019-8297-ce5c6eed4030",

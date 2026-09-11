@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const panelToggleContext = {
   id: "01a05b82-8b99-7d97-93d1-9ab080616b17",

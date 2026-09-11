@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const throwableNormalizing = {
   id: "01a05c48-deeb-7018-8b07-72558879bc4c",

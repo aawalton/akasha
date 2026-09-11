@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const extensionCarrying = {
   id: "01a09147-a806-78c9-8f27-bf82ebbd41f2",

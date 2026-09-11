@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const watcherPricingTables = {
   id: "01a06381-35cf-7f9a-8a86-81d472cd7c24",

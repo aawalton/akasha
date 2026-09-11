@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const sharedBuildFiles = {
   id: "01a08d67-2fb9-78c4-b9ea-4808b713a611",

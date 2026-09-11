@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useStableScroll = {
   id: "01a05b82-8b9a-71c9-9a95-ee2a26f42acc",

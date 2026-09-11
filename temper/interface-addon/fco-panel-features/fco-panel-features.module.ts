@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const fcoPanelFeatures = {
   id: "01a06115-1ad1-7771-90f0-222c744635b6",

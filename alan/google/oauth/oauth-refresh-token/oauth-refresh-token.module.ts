@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const oauthRefreshToken = {
   id: "01a08cd5-c0c5-7e94-b221-4d20b68a9ce6",

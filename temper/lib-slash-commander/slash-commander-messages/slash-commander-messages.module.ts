@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const slashCommanderMessages = {
   id: "01a06066-8403-7611-aa81-51c10a7f7f77",

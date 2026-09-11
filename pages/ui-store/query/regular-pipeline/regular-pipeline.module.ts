@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const regularPipeline = {
   id: "01a05b69-454f-7ac8-bd7a-ce6cef58fd49",

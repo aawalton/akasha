@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const raceSource = {
   id: "01a061a7-9bb3-769a-973c-5b550c916d32",

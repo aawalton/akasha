@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const gitDir = {
   id: "01a091c8-bebb-7cc6-ac6a-ed37511fe84b",

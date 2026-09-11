@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const loreLibrarySparseTestUtils = {
   id: "01a08ee1-1c98-7da2-b6af-8e53c812c8c5",

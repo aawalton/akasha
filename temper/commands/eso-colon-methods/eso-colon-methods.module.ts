@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const esoColonMethods = {
   id: "01a069cf-7042-7001-90b1-8e56032f7b2d",

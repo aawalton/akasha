@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const signUpRoute = {
   id: "01a090ae-514d-7335-bf9d-a3f3b7b9c4c4",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const typeGenerating = {
   id: "01a087a6-ed6a-7836-81f3-764344e58378",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const questsChatterNameTables = {
   id: "01a0635f-391c-79f3-87e1-6c303b4a5402",

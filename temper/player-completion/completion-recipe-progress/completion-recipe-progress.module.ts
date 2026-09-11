@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const completionRecipeProgress = {
   id: "01a06121-f0d4-7ab6-9220-119f03765b07",

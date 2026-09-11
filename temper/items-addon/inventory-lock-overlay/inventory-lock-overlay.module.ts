@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inventoryLockOverlay = {
   id: "01a06258-b52c-78c9-aa9d-9ff2d3646f16",

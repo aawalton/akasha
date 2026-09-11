@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mapPinsChronoglerTablet = {
   id: "01a06269-2aa6-7eea-8f15-d708ad431d24",

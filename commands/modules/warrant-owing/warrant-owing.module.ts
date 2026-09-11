@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const warrantOwing = {
   id: "01a07bd4-e969-75ff-8616-768c59e748f6",

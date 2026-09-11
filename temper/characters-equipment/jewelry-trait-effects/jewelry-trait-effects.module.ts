@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const jewelryTraitEffects = {
   id: "01a0616f-8e16-7785-bc99-ecab764b58cc",

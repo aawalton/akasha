@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const zonePublicDungeonMapIds = {
   id: "01a061e7-932b-7225-832d-ef81c5e7cac2",

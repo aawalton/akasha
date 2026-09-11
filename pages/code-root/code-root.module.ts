@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const codeRoot = {
   id: "01a0616e-00e1-7000-83c1-f6c571f34b8f",

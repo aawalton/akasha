@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const canCompanionEquipFilter = {
   id: "01a06100-3be3-7f9c-94ec-fd44ada789d8",

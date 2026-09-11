@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const composeBoot = {
   id: "01a069c8-f654-7765-bacf-c9f586d7aa13",

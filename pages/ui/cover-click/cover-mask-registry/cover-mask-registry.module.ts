@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const coverMaskRegistry = {
   id: "01a05cb4-fefb-73c5-9350-b908c6476acd",

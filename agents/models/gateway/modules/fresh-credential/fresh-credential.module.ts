@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const freshCredential = {
   id: "01a06457-7855-7bf0-8b9e-bbf962cb7f4f",

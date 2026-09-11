@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const buildHashTestUtils = {
   id: "01a08ed5-cc31-7873-bde1-0132ef1d98b5",

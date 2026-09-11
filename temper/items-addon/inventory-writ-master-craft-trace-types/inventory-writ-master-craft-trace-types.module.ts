@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inventoryWritMasterCraftTraceTypes = {
   id: "01a06258-b536-772e-a154-01b288944a36",

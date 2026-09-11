@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const nextBossColors = {
   id: "01a06157-8356-75cc-9595-1f512369c1c6",

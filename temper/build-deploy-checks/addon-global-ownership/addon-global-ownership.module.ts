@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const addonGlobalOwnership = {
   id: "01a06351-9b09-79b9-9375-0365c78e88d8",

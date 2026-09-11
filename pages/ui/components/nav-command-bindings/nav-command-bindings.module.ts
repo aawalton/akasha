@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const navCommandBindings = {
   id: "01a05cb4-fefb-79d1-a76a-c3d980daa2d0",

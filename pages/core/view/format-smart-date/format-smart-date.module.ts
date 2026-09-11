@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const formatSmartDate = {
   id: "01a05b92-a9c7-7e78-a4f0-4b927241a184",

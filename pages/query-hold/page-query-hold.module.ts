@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pageQueryHold = {
   id: "01a06874-32dc-7000-837c-b1fa87bcc846",

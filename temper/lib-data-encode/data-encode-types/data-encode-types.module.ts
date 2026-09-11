@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const dataEncodeTypes = {
   id: "01a06061-96a2-7fff-82c3-b9b5976c8acf",

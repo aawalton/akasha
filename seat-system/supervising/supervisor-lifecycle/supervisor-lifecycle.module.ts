@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorLifecycle = {
   id: "01a0687c-0432-7000-adf7-33a3588b29b9",

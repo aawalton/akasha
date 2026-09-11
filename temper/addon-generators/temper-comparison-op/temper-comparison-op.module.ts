@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const temperComparisonOp = {
   id: "01a0607b-1546-79f6-8895-872da7a3e3ec",

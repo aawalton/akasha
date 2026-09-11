@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const writTypes = {
   id: "01a061c7-e8b8-7ca7-9977-fc3cf8d88daa",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const statSubcategoryPanelCard = {
   id: "01a0642c-5bb7-7f56-9e1c-3a255f82812a",

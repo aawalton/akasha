@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const zoneNamesFr01 = {
   id: "01a061e7-9314-77c9-9f3f-d636d61d9fda",

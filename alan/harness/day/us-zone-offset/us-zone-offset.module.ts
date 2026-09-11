@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const usZoneOffset = {
   id: "01a05c77-31e6-7877-b124-3f103fd4ac3d",

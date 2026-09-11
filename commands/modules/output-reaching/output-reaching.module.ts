@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const outputReaching = {
   id: "01a08fb0-4c21-7a4e-b2f6-9d4a71c3e8b5",

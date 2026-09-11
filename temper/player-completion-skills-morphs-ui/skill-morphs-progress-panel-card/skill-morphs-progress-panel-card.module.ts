@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const skillMorphsProgressPanelCard = {
   id: "01a06270-883d-7000-98b7-a23674b65603",

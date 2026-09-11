@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useTimelineConfig = {
   id: "01a06158-0a62-7000-a232-cb333cc2f579",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const catalogPublicApi = {
   id: "01a063ba-94e5-75b2-87c7-9dffc0a06b28",

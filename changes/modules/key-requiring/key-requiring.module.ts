@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const keyRequiring = {
   id: "01a0825b-21cd-7c17-ac5f-ecb7da01c1e7",

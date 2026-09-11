@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsCoreApiSetInfo = {
   id: "01a06231-8f1d-7816-b46e-caba9de72027",

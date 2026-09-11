@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const histoireCategoryClass = {
   id: "01a06197-4c8e-7080-b33a-74e26c843136",

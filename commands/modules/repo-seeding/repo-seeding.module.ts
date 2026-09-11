@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const repoSeeding = {
   id: "01a08cc2-9f09-710e-8d8a-30169349b3d9",

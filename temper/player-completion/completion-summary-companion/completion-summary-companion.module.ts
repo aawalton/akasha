@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const completionSummaryCompanion = {
   id: "01a06124-14db-7fde-9ac1-6e23fae35a9d",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const oauthCallback = {
   id: "01a05bdc-e25c-702d-a46a-b2274662cd6d",

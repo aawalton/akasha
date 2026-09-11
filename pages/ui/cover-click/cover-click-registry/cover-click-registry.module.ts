@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const coverClickRegistry = {
   id: "01a05c7d-d06d-7cc1-915b-1d71fc310cf9",

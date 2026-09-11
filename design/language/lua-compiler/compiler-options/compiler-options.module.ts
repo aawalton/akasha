@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const compilerOptions = {
   id: "01a06758-8e36-7000-9275-b0f94fdf6d87",

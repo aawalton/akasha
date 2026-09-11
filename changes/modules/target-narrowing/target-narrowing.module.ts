@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const targetNarrowing = {
   id: "01a0825b-c6ad-78e4-9391-698b96bafb0c",

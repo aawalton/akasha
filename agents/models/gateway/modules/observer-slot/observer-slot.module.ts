@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const observerSlot = {
   id: "01a062be-c8b4-7001-8e37-6c3dfe1b34d0",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const rawPageRow = {
   id: "01a05bd6-c535-76cc-a048-fa1e2025c8f1",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const monarchNotesWrite = {
   id: "01a06863-ac0c-7d5f-9e84-4f2e2d021b08",

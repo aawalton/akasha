@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const webRuleKnowledge = {
   id: "01a0607c-1799-705b-b8ee-c1dac65a4076",

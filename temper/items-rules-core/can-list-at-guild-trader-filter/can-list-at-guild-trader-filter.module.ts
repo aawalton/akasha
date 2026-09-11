@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const canListAtGuildTraderFilter = {
   id: "01a06100-3be7-7e16-98f5-59dabc92b040",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsSearchUiSharedHelpers = {
   id: "01a0623c-2df8-7e9e-914b-b335605e5366",

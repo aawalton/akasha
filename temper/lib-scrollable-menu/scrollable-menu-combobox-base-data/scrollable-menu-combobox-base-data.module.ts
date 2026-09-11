@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const scrollableMenuComboboxBaseData = {
   id: "01a06275-c444-7761-b0d7-1b6d8d9e1593",

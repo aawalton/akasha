@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const characterSkillActivationTypes = {
   id: "01a0617a-2c72-70de-be50-92db6d1d5ec0",

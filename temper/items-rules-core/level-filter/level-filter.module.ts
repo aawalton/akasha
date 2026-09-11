@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const levelFilter = {
   id: "01a06100-3bf2-7955-aa20-b395eca80d9f",

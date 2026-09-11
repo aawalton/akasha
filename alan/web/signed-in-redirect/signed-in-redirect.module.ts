@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const signedInRedirect = {
   id: "01a08e1d-f4fb-72e1-9f35-8bab309aa758",

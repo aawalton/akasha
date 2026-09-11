@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const writLinkDataTableEarly = {
   id: "01a061c7-e89e-72bf-a389-78e0021703f8",

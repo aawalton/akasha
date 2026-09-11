@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useDestinationContextBuilder = {
   id: "01a06100-3c01-7ef0-942b-121ee94162c9",

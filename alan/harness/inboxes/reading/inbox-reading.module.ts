@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inboxReading = {
   id: "01a069bf-3919-77bc-a8a7-66b02d4185bf",

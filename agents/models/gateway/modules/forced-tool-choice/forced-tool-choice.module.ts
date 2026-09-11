@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const forcedToolChoice = {
   id: "01a0643b-c942-7c90-8314-374492f9e097",

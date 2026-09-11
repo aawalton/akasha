@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const parentChildTree = {
   id: "01a05cce-25ec-7f1f-9ef2-c7f8e6617602",

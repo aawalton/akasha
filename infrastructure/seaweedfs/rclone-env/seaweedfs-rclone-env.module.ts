@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const seaweedfsRcloneEnv = {
   id: "01a08de0-e084-7ef2-ba43-857f87f1476f",

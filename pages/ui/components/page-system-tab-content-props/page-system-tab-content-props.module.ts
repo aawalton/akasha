@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pageSystemTabContentProps = {
   id: "01a05cce-25ec-7944-be2c-03e36f95bcd2",

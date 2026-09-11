@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const lorebooksLibraryRows = {
   id: "01a06194-be42-71cc-95d3-c5726d7bbf42",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const antiquitiesAddonEntry = {
   id: "01a06274-b089-7140-959d-d67b4777dffa",

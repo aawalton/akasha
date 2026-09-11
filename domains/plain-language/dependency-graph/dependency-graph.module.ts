@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const dependencyGraph = {
   id: "01a06cd8-d030-7f85-92a3-d5c7d03b4e55",

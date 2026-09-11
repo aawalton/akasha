@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useWebkitReadAloudEnsure = {
   id: "01a05cce-25ec-7d7d-8a2e-82d5cd4e1281",

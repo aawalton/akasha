@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const offlineDownloads = {
   id: "01a0655d-daab-7836-8d60-53e12a705ad3",

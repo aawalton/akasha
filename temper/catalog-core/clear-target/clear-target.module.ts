@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const clearTarget = {
   id: "01a06071-0c78-7d17-86de-fe565133b1ee",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const savedSearch = {
   id: "01a0613a-e0a4-7b20-bccd-ee3321b608f2",

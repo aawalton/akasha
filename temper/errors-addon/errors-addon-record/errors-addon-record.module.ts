@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const errorsAddonRecord = {
   id: "01a060d8-0919-792d-bef8-62245cc5dac8",

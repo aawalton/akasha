@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const accountFilters = {
   id: "01a06421-f74a-78a9-bc07-f80c0dfb0003",

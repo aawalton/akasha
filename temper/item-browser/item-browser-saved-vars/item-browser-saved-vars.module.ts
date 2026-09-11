@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const itemBrowserSavedVars = {
   id: "01a06178-3720-798a-86f6-dde1d90e659e",

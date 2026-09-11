@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const fitnessSlottables = {
   id: "01a06076-1b67-7706-bc17-083afdfef7b2",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const locationClassify = {
   id: "01a060d9-498c-776f-ae38-08519b2ea266",

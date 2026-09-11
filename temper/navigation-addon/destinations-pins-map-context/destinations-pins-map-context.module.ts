@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const destinationsPinsMapContext = {
   id: "01a06269-28f4-77d8-93a4-f169b47d54aa",

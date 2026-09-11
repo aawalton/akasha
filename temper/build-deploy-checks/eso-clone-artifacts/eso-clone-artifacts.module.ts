@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const esoCloneArtifacts = {
   id: "01a06297-7f6a-7b4f-8b63-338e820e7c30",

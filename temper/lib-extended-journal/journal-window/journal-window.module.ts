@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const journalWindow = {
   id: "01a0617d-5454-7cab-9709-1e96bec082bc",

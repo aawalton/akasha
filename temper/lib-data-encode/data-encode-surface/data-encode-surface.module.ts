@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const dataEncodeSurface = {
   id: "01a06061-969e-7d0d-b494-268228c7f6a5",

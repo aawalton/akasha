@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const transpileBundle = {
   id: "01a06758-8ed0-7000-89a6-e832620f4a63",

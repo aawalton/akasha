@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const textColor = {
   id: "01a05c97-5302-71a3-b9f8-f3bbd1c59f22",

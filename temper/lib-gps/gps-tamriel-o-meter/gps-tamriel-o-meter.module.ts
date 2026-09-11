@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const gpsTamrielOMeter = {
   id: "01a0614d-4765-7fe3-9655-5d4e74a775dc",

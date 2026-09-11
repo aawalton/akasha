@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const jsonSchema = {
   id: "01a05c94-2c00-755f-a891-9818909b61b2",

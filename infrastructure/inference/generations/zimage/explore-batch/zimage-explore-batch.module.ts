@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const zimageExploreBatch = {
   id: "01a06815-9efd-702b-918e-4790e2c76682",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pageCollectionContent = {
   id: "01a0625a-e4aa-7edf-a962-1513ae4bfd35",

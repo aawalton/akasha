@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const chainRefusal = {
   id: "01a04f71-0570-763b-ac55-da9d9fca21da",

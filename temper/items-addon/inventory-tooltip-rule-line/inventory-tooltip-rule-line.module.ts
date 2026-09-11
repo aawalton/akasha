@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inventoryTooltipRuleLine = {
   id: "01a06258-b534-70ec-b172-fd006cbff261",

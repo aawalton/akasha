@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const listUnsubscribe = {
   id: "01a05c0e-3731-779e-88f2-ee109ff37a60",

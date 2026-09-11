@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const passiveEffectResolution = {
   id: "01a06271-abcf-7fff-b5f2-bc2f13db5cbb",

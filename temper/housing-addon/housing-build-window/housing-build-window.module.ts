@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const housingBuildWindow = {
   id: "01a06128-d5c7-7498-8a77-50a630fb18d4",

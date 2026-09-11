@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const seconds = {
   id: "01a08e0e-2679-7975-bc1c-012c263cbfd2",

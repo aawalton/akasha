@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const watcherNetWorthLanding = {
   id: "01a06381-35cf-710a-92b2-a77b0e15983e",

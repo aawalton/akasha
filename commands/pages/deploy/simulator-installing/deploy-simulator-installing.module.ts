@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const deploySimulatorInstalling = {
   id: "01a08e07-611c-798a-bc99-55b321247e50",

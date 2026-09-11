@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const narrativeContinuitySchema = {
   id: "01a05b71-e544-7ec9-895e-d4c117bcb42c",

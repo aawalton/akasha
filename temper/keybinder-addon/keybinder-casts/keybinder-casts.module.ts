@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const keybinderCasts = {
   id: "01a06381-67c1-74e3-a405-6c6a7d592238",

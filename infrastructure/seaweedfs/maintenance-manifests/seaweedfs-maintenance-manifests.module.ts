@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const seaweedfsMaintenanceManifests = {
   id: "01a06816-68b1-7dc6-9dfb-e7b1ad628ddc",

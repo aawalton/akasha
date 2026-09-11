@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const temperLocationType = {
   id: "01a0607b-e91c-7028-8a80-89a6a1b69e7b",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const dockerfileNextjs = {
   id: "01a06865-abff-7007-901d-2dddbd9755b3",

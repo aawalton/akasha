@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const temperSkillSlot = {
   id: "01a0607b-e922-7a6e-ba15-4f0f7fbd5266",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const proxyStart = {
   id: "01a063af-ee63-7655-8598-ffbe6f7b0d22",

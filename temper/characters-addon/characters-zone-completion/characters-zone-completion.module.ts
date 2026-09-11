@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const charactersZoneCompletion = {
   id: "01a062e9-b6fe-7016-9471-6e0772ae8e4f",

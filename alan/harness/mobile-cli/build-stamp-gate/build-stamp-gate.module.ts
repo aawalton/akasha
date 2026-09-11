@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const buildStampGate = {
   id: "01a05cee-e560-7095-8d3c-c3c7cef4babf",

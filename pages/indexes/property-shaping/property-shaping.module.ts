@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const propertyShaping = {
   id: "01a091e7-e2ef-7749-b938-fe724b6673e5",

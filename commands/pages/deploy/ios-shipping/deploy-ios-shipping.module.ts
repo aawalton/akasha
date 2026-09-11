@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const deployIosShipping = {
   id: "01a060e7-5945-7fc8-aab7-2db66ca0967f",

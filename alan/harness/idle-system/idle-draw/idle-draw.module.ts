@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const idleDraw = {
   id: "01a05b6a-d28c-7e02-bb2f-8b334ef5a5f7",

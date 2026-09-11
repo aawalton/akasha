@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const annotations = {
   id: "01a06758-8e74-7000-8757-80d69dd6c4bc",

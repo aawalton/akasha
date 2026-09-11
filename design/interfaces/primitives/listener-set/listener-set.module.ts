@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const listenerSet = {
   id: "01a07cd7-ff21-7b3f-a03a-2ca0fd18a8b8",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const workspaceDirs = {
   id: "01a05c48-deeb-700b-9305-52a189c99aa2",

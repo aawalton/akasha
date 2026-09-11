@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorGuardTick = {
   id: "01a0683e-3dbe-7022-adf7-a141c00ada4a",

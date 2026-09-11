@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inventoryParityTrace = {
   id: "01a068e2-226f-7a3c-b3d4-e252ba74470d",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const orphanSweepNotice = {
   id: "01a0686c-fd2c-7006-a6f7-7aad69fb8bd6",

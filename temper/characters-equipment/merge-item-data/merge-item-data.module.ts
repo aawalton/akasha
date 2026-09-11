@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mergeItemData = {
   id: "01a0616f-8e13-7215-bb65-a46058a18854",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const minimapLifecycle = {
   id: "01a06269-297a-75e0-823d-dbc3b54b42bd",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const asyncScheduler = {
   id: "01a0606a-1c56-794f-a1fd-a94bc5a42ecc",

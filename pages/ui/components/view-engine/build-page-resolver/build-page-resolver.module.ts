@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const buildPageResolver = {
   id: "01a06158-0a79-7000-a2b2-4fa802b18c2d",

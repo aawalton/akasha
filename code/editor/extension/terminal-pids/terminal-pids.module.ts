@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const terminalPids = {
   id: "01a064f0-734e-706e-8699-1b47b8fea065",

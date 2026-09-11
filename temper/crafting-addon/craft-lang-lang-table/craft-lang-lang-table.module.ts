@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const craftLangLangTable = {
   id: "01a061c7-e857-7d5d-a38c-c1d2f860e5d8",

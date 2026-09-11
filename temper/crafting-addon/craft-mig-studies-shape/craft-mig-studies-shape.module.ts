@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const craftMigStudiesShape = {
   id: "01a061c7-e85c-7655-ae34-d075434d5568",

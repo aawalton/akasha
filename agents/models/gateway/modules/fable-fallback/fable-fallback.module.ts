@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const fableFallback = {
   id: "01a0628b-a005-7a3c-a6f6-8e20462f3bb8",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const ruleCardPriorityRow = {
   id: "01a0636c-5da1-7972-b184-8ff940ed005a",

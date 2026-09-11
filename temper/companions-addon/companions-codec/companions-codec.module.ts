@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const companionsCodec = {
   id: "01a0611d-84d0-7a02-930a-0f62bfef9dcc",

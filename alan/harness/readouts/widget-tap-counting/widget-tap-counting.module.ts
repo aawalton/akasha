@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const widgetTapCounting = {
   id: "01a078a8-b96f-765d-99ff-5703d9b2edd3",

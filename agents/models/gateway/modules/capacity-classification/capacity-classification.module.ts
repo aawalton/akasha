@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const capacityClassification = {
   id: "01a0623c-6939-7dce-a9f7-3cfecdd8823a",

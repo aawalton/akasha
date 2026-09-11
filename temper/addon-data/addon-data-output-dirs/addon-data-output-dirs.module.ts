@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const addonDataOutputDirs = {
   id: "01a06837-d6c8-7575-95dd-44fa2e3c7d3e",

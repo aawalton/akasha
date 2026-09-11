@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsPreloadedSetsWeaponTypes08 = {
   id: "01a061d8-e47d-7eba-8630-027174afa3dd",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const dungeonChampionLookup = {
   id: "01a060f9-bac8-786f-8c5a-fd4bee1b1d16",

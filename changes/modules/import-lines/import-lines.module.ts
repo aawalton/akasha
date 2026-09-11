@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const importLines = {
   id: "01a08cda-348f-7c87-89fb-04be4a6a3124",

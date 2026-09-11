@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const questsPanel = {
   id: "01a0629b-683f-7f93-892f-b7a600d46d07",

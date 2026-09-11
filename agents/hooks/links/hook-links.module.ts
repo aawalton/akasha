@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const hookLinks = {
   id: "01a08dc1-ffb8-707b-b5d8-3633bf16ddae",

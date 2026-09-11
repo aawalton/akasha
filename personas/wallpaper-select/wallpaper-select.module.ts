@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const wallpaperSelect = {
   id: "01a05b70-a58d-7a1f-aa38-1dbe316d32ec",

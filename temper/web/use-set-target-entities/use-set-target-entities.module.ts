@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useSetTargetEntities = {
   id: "01a0642c-5ba2-72f9-8c49-a10f1650c9de",

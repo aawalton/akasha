@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const readoutTier = {
   id: "01a05f42-92f5-7001-98d7-66166fa0b0f6",

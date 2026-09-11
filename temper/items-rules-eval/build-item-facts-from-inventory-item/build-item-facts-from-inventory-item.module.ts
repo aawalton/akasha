@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const buildItemFactsFromInventoryItem = {
   id: "01a06137-f960-762e-920f-bb17bcdd1294",

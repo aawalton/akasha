@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mapDataUpdate = {
   id: "01a061e1-aeaf-70a8-b674-808917a90f08",

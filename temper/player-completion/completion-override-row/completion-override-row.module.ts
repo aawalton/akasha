@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const completionOverrideRow = {
   id: "01a06108-2ff4-791d-9194-955da44a9b86",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const revealHost = {
   id: "01a0655d-daba-7203-88ad-d3aa604972b7",

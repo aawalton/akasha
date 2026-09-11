@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const combatLibCallbacks = {
   id: "01a0617f-5844-77ca-8e46-2d920d750abf",

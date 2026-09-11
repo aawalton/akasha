@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const orderListBoxRowSetup = {
   id: "01a06207-bdf7-755b-88bf-b9588192e64b",

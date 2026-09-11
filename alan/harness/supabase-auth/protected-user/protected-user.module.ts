@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const protectedUser = {
   id: "01a05c6d-3509-78ee-a418-3d1217065a1e",

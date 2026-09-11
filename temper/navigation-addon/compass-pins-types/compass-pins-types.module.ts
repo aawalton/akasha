@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const compassPinsTypes = {
   id: "01a06269-28b6-7b5c-a2d2-0a7e740753ab",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const addonLoadOrder = {
   id: "01a062d1-4a70-7b3c-9e21-6d0a51f4c7e8",

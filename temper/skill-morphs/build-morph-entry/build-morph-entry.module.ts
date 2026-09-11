@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const buildMorphEntry = {
   id: "01a061c7-0738-7fd2-ad9c-478539017979",

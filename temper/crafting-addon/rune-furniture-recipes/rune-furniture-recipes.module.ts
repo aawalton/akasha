@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const runeFurnitureRecipes = {
   id: "01a061c7-e88f-75d9-8ac4-abbdc02a7f9d",

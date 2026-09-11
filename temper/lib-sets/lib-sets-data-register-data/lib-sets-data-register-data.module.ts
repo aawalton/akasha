@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsDataRegisterData = {
   id: "01a061fc-cee8-7e0a-a57e-257c1300fc25",

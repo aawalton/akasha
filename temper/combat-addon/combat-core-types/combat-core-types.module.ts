@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const combatCoreTypes = {
   id: "01a0617f-5841-79a8-8caa-3043753f332d",

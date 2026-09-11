@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const combatSortedPairs = {
   id: "01a0617f-5850-7959-a89a-59cd0f9d7a74",

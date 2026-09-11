@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const journalTooltipExtension = {
   id: "01a0617d-5454-7c1c-8400-f6e1401fc317",

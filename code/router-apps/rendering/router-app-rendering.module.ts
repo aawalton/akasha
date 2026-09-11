@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const routerAppRendering = {
   id: "01a08e0c-9954-75c1-9e79-f74a78e53f01",

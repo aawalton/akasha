@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const portHolding = {
   id: "01a0659d-b1ba-7000-ac0a-6643010ea000",

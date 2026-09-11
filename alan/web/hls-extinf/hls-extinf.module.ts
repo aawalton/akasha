@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const hlsExtinf = {
   id: "01a0655d-daa7-777a-9154-ebb3a0e0976a",

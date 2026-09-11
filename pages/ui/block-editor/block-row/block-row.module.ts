@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const blockRow = {
   id: "01a06252-3449-7964-ad5b-e1d8e3073421",

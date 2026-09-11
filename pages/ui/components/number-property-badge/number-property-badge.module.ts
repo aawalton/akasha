@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const numberPropertyBadge = {
   id: "01a0620f-82c5-700c-89dd-2c8e70a5c0d8",

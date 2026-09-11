@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const buildPredictedRow = {
   id: "01a05cb4-fefb-7ea5-a292-762a20e202a3",

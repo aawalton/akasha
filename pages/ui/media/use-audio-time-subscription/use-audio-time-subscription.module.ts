@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useAudioTimeSubscription = {
   id: "01a05cb4-fefb-75ea-b8fe-200197330c69",

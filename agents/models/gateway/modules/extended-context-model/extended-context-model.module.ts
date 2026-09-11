@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const extendedContextModel = {
   id: "01a0643b-c940-7c40-9250-4804121e2d3c",

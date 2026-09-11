@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const webRuleCombinedLevel = {
   id: "01a0607c-1797-7adb-b52d-4987bc3b36e3",

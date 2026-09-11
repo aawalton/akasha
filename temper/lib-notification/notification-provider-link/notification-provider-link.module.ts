@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const notificationProviderLink = {
   id: "01a0605a-0515-7dbe-bba3-edd17cf7cb35",

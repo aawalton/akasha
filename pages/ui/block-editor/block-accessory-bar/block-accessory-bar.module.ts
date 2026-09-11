@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const blockAccessoryBar = {
   id: "01a061ee-786e-7000-9d49-04de5d6b4867",

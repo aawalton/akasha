@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const armedTimer = {
   id: "01a090ab-acc0-7541-a3a9-a1241d1ee505",

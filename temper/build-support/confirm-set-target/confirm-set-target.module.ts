@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const confirmSetTarget = {
   id: "01a090a4-c227-7bc1-87d7-d7b98fe5499c",

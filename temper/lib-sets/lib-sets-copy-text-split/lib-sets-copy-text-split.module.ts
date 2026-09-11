@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsCopyTextSplit = {
   id: "01a0623c-2df8-7447-8782-334bfe087f89",

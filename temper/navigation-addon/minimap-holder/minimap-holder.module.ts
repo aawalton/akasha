@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const minimapHolder = {
   id: "01a06269-296f-7985-b8fb-08468b6db56a",

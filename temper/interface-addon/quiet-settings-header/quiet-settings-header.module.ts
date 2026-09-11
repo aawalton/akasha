@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const quietSettingsHeader = {
   id: "01a060f1-6942-7847-8e86-4639db243b58",

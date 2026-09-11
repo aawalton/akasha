@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const knowledgeBaseDataMotifs = {
   id: "01a0622b-dc54-77f2-87d9-b420778a2255",

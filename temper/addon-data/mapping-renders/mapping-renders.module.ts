@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mappingRenders = {
   id: "01a0634a-8c28-7cbe-8c05-edd53469099f",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const dashEachCapital = {
   id: "01a08e73-15cb-748d-bb35-86c2741dbde0",

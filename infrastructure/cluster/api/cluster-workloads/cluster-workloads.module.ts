@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const clusterWorkloads = {
   id: "01a068d4-d2aa-78c1-b2b4-0a455b38278d",

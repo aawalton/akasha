@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const upsert = {
   id: "01a05bd6-c536-7c08-9649-3015d7f16955",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const itemBrowserList = {
   id: "01a06178-371f-766d-b927-31d5f0dcef53",

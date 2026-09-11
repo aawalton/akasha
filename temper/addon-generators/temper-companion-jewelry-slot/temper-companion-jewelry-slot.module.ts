@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const temperCompanionJewelrySlot = {
   id: "01a0607b-1543-7c37-80b3-d8cc8c6dc151",

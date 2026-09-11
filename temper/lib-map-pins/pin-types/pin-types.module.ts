@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pinTypes = {
   id: "01a06062-57df-78e5-8d6b-f75d65630a1b",

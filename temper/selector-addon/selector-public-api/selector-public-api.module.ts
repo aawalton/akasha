@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const selectorPublicApi = {
   id: "01a061ef-c8a5-7735-8ac1-30a7ea57d297",

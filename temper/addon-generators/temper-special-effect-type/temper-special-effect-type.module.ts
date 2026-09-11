@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const temperSpecialEffectType = {
   id: "01a0607c-1793-70ff-9639-1bcc8b167720",

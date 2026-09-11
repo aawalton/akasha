@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const towerState = {
   id: "01a05bc6-fa4a-7004-9c22-02086b08836f",

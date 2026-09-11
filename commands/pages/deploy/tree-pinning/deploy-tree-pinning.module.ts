@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const deployTreePinning = {
   id: "01a09240-5cd6-7be1-bda8-9fe3ca8d2fe3",

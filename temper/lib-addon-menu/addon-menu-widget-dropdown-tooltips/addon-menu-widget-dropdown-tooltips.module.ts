@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const addonMenuWidgetDropdownTooltips = {
   id: "01a08e64-006e-746c-af7a-60917c2846f1",

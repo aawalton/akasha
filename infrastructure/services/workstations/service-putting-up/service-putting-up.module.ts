@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const servicePuttingUp = {
   id: "01a08cef-2ffd-70db-abdd-5cf7f3cfaf21",

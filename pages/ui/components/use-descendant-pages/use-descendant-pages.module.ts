@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useDescendantPages = {
   id: "01a05cce-25ec-7573-afac-aed8bece2063",

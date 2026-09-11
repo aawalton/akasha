@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const effectValueUpdate = {
   id: "01a06070-82e1-7b87-9458-014da43cc004",

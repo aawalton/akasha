@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libsetsUpstreamVerify = {
   id: "01a060d0-ca2a-7b19-860d-b24372089328",

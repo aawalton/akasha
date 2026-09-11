@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const allianceWarSkillLines = {
   id: "01a0608a-c133-71ab-bf75-2e25200d8aeb",

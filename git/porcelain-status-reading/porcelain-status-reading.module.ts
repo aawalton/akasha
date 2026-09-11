@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const porcelainStatusReading = {
   id: "01a06816-2f10-7367-b0af-3052e7774a7c",

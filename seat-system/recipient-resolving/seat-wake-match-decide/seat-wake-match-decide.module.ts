@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const seatWakeMatchDecide = {
   id: "01a0686d-9d5e-701b-a93a-2cab28c6152b",

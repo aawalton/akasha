@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorProxyPortLine = {
   id: "01a06876-abda-7001-bdd6-58a4e9373879",

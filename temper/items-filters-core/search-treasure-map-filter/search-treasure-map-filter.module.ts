@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const searchTreasureMapFilter = {
   id: "01a0613a-e0b2-781d-8d0c-4d7734b29a2b",

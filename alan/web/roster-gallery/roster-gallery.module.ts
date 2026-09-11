@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const rosterGallery = {
   id: "01a0655d-daba-77bc-8e52-2f868a8b07b5",

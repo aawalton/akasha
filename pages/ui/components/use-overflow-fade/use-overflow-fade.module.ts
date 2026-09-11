@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useOverflowFade = {
   id: "01a05c7d-d06d-7967-8d5c-a44c13ad8431",

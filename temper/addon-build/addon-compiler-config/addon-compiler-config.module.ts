@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const addonCompilerConfig = {
   id: "01a060ed-2e23-72af-af9e-fc35df5b70c3",

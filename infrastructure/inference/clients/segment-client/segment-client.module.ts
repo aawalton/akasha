@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const segmentClient = {
   id: "01a0682d-8ef5-7005-81a3-8cc746c8acbf",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const changeMirror = {
   id: "01a080b1-5322-7000-ae97-da48e0382c61",

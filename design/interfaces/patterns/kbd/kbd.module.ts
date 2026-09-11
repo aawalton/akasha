@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const kbd = {
   id: "01a05c51-8285-7654-b9b0-4dfd7441848f",

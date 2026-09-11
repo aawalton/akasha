@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const housingLibraryDataEu6 = {
   id: "01a06113-b7d0-70ae-9e5b-3ac403935f5c",

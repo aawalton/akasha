@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const decideKeeps = {
   id: "01a06863-74e3-7737-8f36-29465597211c",

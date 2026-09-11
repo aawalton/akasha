@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const skillMorphsChecker = {
   id: "01a061e2-5e38-77dc-9add-14ce77dbae86",

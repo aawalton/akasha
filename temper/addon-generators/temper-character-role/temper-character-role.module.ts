@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const temperCharacterRole = {
   id: "01a0607b-1541-7d24-9419-df50d28dc467",

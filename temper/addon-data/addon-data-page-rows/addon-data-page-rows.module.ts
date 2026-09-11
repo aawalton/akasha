@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const addonDataPageRows = {
   id: "01a06369-1e85-7152-9783-da4cf82f3bb7",

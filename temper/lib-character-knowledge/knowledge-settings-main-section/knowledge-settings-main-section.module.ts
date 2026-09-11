@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const knowledgeSettingsMainSection = {
   id: "01a06229-580d-78a3-ba2e-9a80baec0fcd",

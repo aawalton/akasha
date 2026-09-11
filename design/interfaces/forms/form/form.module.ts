@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const form = {
   id: "01a05b7e-679a-7e82-8efc-f157e013aeb7",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const computeStockGroups = {
   id: "01a06137-f969-7f2a-b975-82f7a16eb18d",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const imageInputs = {
   id: "01a08da2-9e44-7155-8ecf-d7ded3c83ef1",

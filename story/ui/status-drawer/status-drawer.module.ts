@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const statusDrawer = {
   id: "01a0629b-6811-75c4-926a-21d12dddeb94",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const esoSandboxManifest = {
   id: "01a06365-e827-7000-b4e8-c281707e413b",

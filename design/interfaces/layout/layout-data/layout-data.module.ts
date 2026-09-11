@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const layoutData = {
   id: "01a05b82-8b98-7711-bcad-55a505cab6d0",

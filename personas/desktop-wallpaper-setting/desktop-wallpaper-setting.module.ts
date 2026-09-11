@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const desktopWallpaperSetting = {
   id: "01a0786b-2a28-7d50-91e5-a54586893638",

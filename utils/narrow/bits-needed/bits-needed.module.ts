@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const bitsNeeded = {
   id: "01a08deb-5f4a-73ea-bf9a-4cd5d1172729",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const quietSettingsMenu = {
   id: "01a060f1-6947-7e1e-9487-10012ccdeb7d",

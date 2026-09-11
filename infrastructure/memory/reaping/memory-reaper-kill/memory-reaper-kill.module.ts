@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const memoryReaperKill = {
   id: "01a0686c-f06b-7006-9d1b-e53dd0c8cb4a",

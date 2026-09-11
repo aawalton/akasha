@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const skillPointFinderStrings = {
   id: "01a060ec-584a-7f5b-b12f-d6e8a9b8eb2b",

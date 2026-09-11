@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const skillValueFormulas = {
   id: "01a060db-b2bd-7f18-ab79-dd60a0941878",

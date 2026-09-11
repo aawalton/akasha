@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const buyRuleSettings = {
   id: "01a06100-3be3-78c1-9ab2-bfad6e349dd6",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const indexFiling = {
   id: "01a08e9f-f494-79ea-9155-8f6f56dbf41c",

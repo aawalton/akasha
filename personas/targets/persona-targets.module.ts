@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const personaTargets = {
   id: "01a0657d-a75e-7009-bc7f-b3d878fd5671",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const effectCard = {
   id: "01a0641f-8bec-738d-a051-aa742fad450a",

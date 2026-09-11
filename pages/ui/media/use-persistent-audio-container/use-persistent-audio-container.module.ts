@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const usePersistentAudioContainer = {
   id: "01a05cb4-fefb-7353-95a1-f73e333ec686",

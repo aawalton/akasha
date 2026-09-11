@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const priceLog = {
   id: "01a0615d-c219-7534-afb1-d9ceb4ddbcba",

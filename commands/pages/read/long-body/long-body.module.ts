@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const longBody = {
   id: "01a0614f-24db-74bb-83ae-6e7c5477cf42",

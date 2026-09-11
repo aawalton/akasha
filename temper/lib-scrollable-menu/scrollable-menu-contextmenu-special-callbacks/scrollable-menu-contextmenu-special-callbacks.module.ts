@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const scrollableMenuContextmenuSpecialCallbacks = {
   id: "01a06275-c447-73b4-84ed-9d98c66f63d5",

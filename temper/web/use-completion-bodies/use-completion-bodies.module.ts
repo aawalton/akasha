@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useCompletionBodies = {
   id: "01a076b9-598a-7c82-b905-b629a56a823f",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const completionSkillLineProgress = {
   id: "01a06279-3a00-7001-abfa-2b87b8b01e4e",

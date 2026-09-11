@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const curseSource = {
   id: "01a060ea-ac60-758d-ad8f-786d0b97c62d",

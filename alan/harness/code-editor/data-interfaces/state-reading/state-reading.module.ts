@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const stateReading = {
   id: "01a072b8-a766-7b44-b1e8-c0c04920e385",

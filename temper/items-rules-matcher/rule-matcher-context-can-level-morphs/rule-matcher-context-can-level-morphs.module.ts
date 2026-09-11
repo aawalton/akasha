@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const ruleMatcherContextCanLevelMorphs = {
   id: "01a06281-4830-7235-b19b-27df1e1b1b92",

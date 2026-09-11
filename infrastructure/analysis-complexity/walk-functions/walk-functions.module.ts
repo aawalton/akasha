@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const walkFunctions = {
   id: "01a0680f-d1b7-72c6-a3b9-0ccb673e665d",

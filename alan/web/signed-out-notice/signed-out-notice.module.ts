@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const signedOutNotice = {
   id: "01a0655d-dab9-769e-9db5-ee314f862058",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const planArchive = {
   id: "01a05bc6-fa4a-700d-8443-1f8961881e20",

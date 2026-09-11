@@ -4,7 +4,7 @@ import type { ChangeTargetSubtype } from "akasha/changes/properties/change-targe
 import type { ChangeTargetType } from "akasha/changes/properties/change-target-type.relation-property.types.ts"
 import type { TakesAtMost } from "akasha/changes/properties/takes-at-most.boolean-property.types.ts"
 import type { Temporary } from "akasha/changes/properties/temporary.boolean-property.types.ts"
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 import type { ChangeKind } from "akasha/commands/properties/change-kind.relation-property.types.ts"
 
 export type Change = Module & {

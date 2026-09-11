@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const s3Signing = {
   id: "01a05cbb-139f-7e3b-82b4-28ff6d535d46",

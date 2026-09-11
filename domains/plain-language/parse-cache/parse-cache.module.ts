@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const parseCache = {
   id: "01a071f0-796a-7957-a5e6-d600ac1d3f8a",

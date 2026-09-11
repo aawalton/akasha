@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const parseDoubt = {
   id: "01a07bda-ac83-7c39-a602-c808f8dabe81",

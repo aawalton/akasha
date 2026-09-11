@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const weaponSlotAccess = {
   id: "01a0616f-8e18-7b28-8180-88c556ae463d",

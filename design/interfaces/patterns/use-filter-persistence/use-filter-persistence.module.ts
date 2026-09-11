@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useFilterPersistence = {
   id: "01a05c69-c066-7baf-aa6f-854857bae3fc",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const setSelectHelpers = {
   id: "01a061a4-18b1-76bb-93ce-10eaed820121",

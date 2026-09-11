@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pageFileName = {
   id: "01a04e3b-cd68-7be9-bd0f-a4ff61fa0c05",

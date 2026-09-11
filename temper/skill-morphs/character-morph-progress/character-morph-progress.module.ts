@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const characterMorphProgress = {
   id: "01a061c7-0738-743c-af2f-8e5f2a129273",

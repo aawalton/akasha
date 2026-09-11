@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inventoryBackpackBuffer = {
   id: "01a06258-b526-7d25-ae50-a9ad55256535",

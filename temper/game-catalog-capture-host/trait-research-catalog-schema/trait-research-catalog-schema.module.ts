@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const traitResearchCatalogSchema = {
   id: "01a06076-5ea9-7eaa-9ac6-2b3b92426d46",

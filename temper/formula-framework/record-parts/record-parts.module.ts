@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const recordParts = {
   id: "01a06070-82e4-7587-a0f7-5d51c0455f63",

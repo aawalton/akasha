@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mainMenuPublish = {
   id: "01a0605b-c804-7741-baf4-fd76e49cbba7",

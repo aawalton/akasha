@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inboundDecision = {
   id: "01a05bcd-25e4-7b6c-9b1e-0ebb793da0e0",

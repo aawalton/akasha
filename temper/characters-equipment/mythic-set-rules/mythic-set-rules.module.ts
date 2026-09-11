@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mythicSetRules = {
   id: "01a0616f-8e19-7e45-85e1-2db410be43ef",

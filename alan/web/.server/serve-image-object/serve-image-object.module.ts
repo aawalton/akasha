@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const serveImageObject = {
   id: "01a0655e-d399-749b-a142-858d116c48c5",

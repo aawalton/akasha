@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const visitDoWhile = {
   id: "01a06758-8ebb-7001-8b28-1bcc974f1cbf",

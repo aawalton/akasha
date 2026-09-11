@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const gitStoreSweeping = {
   id: "01a091c7-3c36-724a-a2ce-575287558db5",

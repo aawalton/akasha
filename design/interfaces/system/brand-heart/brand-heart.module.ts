@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const brandHeart = {
   id: "01a05c95-5647-7492-a2cc-f81ee94ca767",

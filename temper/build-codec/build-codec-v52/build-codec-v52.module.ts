@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const buildCodecV52 = {
   id: "01a062e7-4dd0-7986-94bf-dbbb8f77aa09",

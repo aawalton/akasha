@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const idleLineupViewConfig = {
   id: "01a0655d-dabf-7bdd-9081-bedc78da0f4e",

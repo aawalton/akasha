@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const synthLoading = {
   id: "01a06810-0b68-7807-b3d1-012ee679ef1d",

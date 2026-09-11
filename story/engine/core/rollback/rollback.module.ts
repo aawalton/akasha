@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const rollback = {
   id: "01a05b71-e544-7ea7-9ac5-f593e5311a0b",

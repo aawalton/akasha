@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const aceStepClient = {
   id: "01a0682d-8ef5-7006-9c39-daea2ba9c6dd",

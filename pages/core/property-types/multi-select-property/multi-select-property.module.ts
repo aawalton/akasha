@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const multiSelectProperty = {
   id: "01a05b92-a9c7-73ad-b512-5bf6b844a357",

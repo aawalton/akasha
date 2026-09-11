@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const completionAccountTraitUnion = {
   id: "01a06358-4f7c-76c9-ae33-27a581dd7401",

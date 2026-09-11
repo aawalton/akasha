@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const layoutContext = {
   id: "01a05b82-8b98-7688-b15e-69bd2cfa0488",

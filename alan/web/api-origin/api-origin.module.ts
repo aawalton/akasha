@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const apiOrigin = {
   id: "01a063c9-03ff-7b19-b25e-66a8a7e76b2a",

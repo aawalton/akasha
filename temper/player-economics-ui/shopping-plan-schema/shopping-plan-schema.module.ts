@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const shoppingPlanSchema = {
   id: "01a063a1-8cc1-700b-9802-5c6240a89c0e",

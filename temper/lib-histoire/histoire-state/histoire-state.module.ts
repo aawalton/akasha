@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const histoireState = {
   id: "01a06197-4c9b-7ddb-b4a8-30bdf38a4ba6",

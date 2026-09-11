@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const skillMorphsResolver = {
   id: "01a061e2-5e38-7437-a7d7-4253b0807b4d",

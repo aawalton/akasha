@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const lastMessaged = {
   id: "01a05b70-a58c-7e12-b45f-7ec257ec247d",

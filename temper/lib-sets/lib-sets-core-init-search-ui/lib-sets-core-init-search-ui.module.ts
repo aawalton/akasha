@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsCoreInitSearchUi = {
   id: "01a061fc-ceeb-71e2-af64-075a353ff4c6",

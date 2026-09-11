@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const hudAddonSavedVariables = {
   id: "01a061c5-18dd-7003-b272-f24014f3e43b",

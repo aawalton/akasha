@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const isPriceEntry = {
   id: "01a0609b-e59d-7da9-bc7e-7689f71e4f0f",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const moduleDirectory = {
   id: "01a090e7-b183-7f2e-be5d-4b8f5a4f0ab2",

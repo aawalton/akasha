@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pageTypeInheritance = {
   id: "01a05b92-a9c7-744a-849e-167e2845f2b7",

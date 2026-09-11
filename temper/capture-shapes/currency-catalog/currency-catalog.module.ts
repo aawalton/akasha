@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const currencyCatalog = {
   id: "01a0604d-239d-7251-a9fa-c53450a7d1ac",

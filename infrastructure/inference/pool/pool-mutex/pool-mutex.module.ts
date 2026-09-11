@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const poolMutex = {
   id: "01a06815-9efd-7007-bb47-59690fe21158",

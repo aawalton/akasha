@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const actionBarMessage = {
   id: "01a05b71-e542-79f6-8369-4b9b67355af8",

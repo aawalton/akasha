@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const fontPreload = {
   id: "01a090ec-d6a6-7002-aecb-89687607f4b5",

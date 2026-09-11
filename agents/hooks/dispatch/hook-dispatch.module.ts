@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const hookDispatch = {
   id: "01a08dc2-4dc4-71fe-8902-22e28eec31e2",

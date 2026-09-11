@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const riffBytes = {
   id: "01a07c81-bfd9-78c8-90fa-e6dee251111a",

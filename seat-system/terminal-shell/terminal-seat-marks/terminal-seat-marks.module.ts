@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const terminalSeatMarks = {
   id: "01a0785c-fa03-739c-823f-27b2ea6fc501",

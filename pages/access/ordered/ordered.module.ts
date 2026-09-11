@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const ordered = {
   id: "01a05bd6-c533-77ae-97f4-40e9eb3ece41",

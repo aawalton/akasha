@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const fastModeStrip = {
   id: "01a0628d-3afc-782f-b008-da98b0a830e4",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const lorebooksMapPinFilters = {
   id: "01a06194-be43-790e-921d-c4ff3ff988e5",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const tallyCatalog = {
   id: "01a05b71-e544-7ef9-9d6d-553471113234",

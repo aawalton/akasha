@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const leadsUnitColors = {
   id: "01a06274-b08a-70d6-827b-f1317738371a",

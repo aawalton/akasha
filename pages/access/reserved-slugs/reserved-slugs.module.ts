@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const reservedSlugs = {
   id: "01a05bd6-c535-7787-beb7-48e8d9debfaa",

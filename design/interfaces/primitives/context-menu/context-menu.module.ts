@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const contextMenu = {
   id: "01a05be9-d4c2-74f9-af3f-8713eb18c0f9",

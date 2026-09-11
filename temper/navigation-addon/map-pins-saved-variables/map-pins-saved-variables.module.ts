@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mapPinsSavedVariables = {
   id: "01a06269-2962-7e36-9238-ccf6d57445d7",

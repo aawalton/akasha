@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const corsCore = {
   id: "01a06863-8e7c-7a4c-808c-4834fedcab58",

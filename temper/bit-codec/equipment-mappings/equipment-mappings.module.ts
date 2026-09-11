@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const equipmentMappings = {
   id: "01a060af-2560-781d-b1ae-002d5f3fc42b",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const firstCapture = {
   id: "01a08dfe-6a6f-7a00-8441-fb9ea0f7d5d9",

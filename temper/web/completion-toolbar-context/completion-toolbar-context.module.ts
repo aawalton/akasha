@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const completionToolbarContext = {
   id: "01a06421-f74b-7fee-875f-a14a32fb0029",

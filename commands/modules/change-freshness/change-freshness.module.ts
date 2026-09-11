@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const changeFreshness = {
   id: "01a04faa-e70a-757d-a665-8e7b7bcfd14d",

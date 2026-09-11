@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const markdownPropertyBadge = {
   id: "01a0620f-82c5-7009-8970-833ddf45dede",

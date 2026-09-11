@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const importSummaries = {
   id: "01a06432-b190-7e58-84df-f02009c0084d",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const k8sWebService = {
   id: "01a08e73-15ce-72a4-b041-35203781f62c",

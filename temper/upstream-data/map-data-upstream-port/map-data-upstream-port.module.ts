@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mapDataUpstreamPort = {
   id: "01a0683b-e6a4-7275-8265-3fa1d955b928",

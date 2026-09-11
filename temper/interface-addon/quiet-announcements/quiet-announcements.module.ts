@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const quietAnnouncements = {
   id: "01a060f1-690e-7013-887a-ea7f3827f88c",

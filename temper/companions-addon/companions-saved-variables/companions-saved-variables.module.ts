@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const companionsSavedVariables = {
   id: "01a0611d-84df-7d7e-8754-8460553e63d0",

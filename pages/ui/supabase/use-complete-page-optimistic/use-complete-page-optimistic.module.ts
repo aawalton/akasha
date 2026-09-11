@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useCompletePageOptimistic = {
   id: "01a07973-368c-72b7-ae79-826c332e348c",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const versionHistoryDialog = {
   id: "01a06589-8dce-7000-981b-4f4f858e4470",

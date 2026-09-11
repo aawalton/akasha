@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useBlockOps = {
   id: "01a05cba-9cbc-774f-80dc-722ae1f5ccd1",

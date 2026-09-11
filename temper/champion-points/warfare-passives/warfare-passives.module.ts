@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const warfarePassives = {
   id: "01a06076-1b67-7344-aeac-42be06cfb8aa",

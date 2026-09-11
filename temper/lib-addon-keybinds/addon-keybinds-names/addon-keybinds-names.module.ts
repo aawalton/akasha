@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const addonKeybindsNames = {
   id: "01a0605a-051b-734e-b19d-eae3f2271dc7",

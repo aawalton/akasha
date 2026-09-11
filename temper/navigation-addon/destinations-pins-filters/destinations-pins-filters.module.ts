@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const destinationsPinsFilters = {
   id: "01a06269-28dd-7ecb-ae79-0487ecca4647",

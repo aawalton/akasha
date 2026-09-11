@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const watcherTaskLanding = {
   id: "01a06381-35cf-7c4d-b5f1-4ad42ef2b4cc",

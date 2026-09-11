@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const fcoSlashCommands = {
   id: "01a06115-1ad6-7313-bf90-cb7d6854f713",

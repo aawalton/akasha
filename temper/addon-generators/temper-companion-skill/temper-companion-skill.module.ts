@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const temperCompanionSkill = {
   id: "01a0607b-1544-785c-8b5c-3cc18b12e5fc",

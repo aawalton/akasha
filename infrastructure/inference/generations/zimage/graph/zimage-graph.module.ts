@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const zimageGraph = {
   id: "01a06815-9efd-702a-9285-e03b1d269cbb",

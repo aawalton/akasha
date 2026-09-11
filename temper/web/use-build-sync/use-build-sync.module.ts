@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useBuildSync = {
   id: "01a0640f-8510-7137-a8d9-9ada066e759b",

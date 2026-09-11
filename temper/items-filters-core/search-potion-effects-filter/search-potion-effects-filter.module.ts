@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const searchPotionEffectsFilter = {
   id: "01a0613a-e0ab-720b-94a5-6dafe7b134f2",

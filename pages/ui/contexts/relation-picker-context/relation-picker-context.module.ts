@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const relationPickerContext = {
   id: "01a0610c-4310-77d5-9bff-68a18561a5e0",

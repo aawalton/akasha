@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const navigationLoaded = {
   id: "01a06269-2898-7ed5-aa02-7c440a7ea8f6",

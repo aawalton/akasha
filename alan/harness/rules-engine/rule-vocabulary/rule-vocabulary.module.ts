@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const ruleVocabulary = {
   id: "01a0657b-9adc-7006-86fa-63e79d35b6a6",

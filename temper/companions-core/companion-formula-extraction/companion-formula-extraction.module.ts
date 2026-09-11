@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const companionFormulaExtraction = {
   id: "01a06152-c2c8-7340-b909-f5fd7c81e388",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const companionGearPricingRules = {
   id: "01a063a1-8cc1-7003-97fa-84c90d755406",

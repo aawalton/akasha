@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libsetsUpstreamPin = {
   id: "01a060d0-ca28-7a33-9895-ea3ff07665be",

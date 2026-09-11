@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const messagesDeliveryWitness = {
   id: "01a0686c-f06b-7011-b06e-16258f8aa85f",

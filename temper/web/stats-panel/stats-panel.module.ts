@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const statsPanel = {
   id: "01a0642c-5bbd-7439-bf0b-b3a865e8b977",

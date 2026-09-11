@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const usePagesFilteredHrefs = {
   id: "01a05cce-25ec-722e-814d-93d2047b0ec4",

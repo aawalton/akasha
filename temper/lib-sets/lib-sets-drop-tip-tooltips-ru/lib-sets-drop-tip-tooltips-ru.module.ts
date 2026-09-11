@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsDropTipTooltipsRu = {
   id: "01a061d6-3e3e-7749-b195-d622b0265798",

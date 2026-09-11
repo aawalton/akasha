@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const fileKindBytes = {
   id: "01a068ce-5a2d-7d3b-913a-1d239336818e",

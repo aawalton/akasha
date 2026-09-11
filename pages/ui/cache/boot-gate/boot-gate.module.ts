@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const bootGate = {
   id: "01a05c7d-d068-79aa-9ca7-ec600a058f2d",

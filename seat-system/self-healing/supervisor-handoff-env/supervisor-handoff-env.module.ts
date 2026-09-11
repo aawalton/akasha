@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supervisorHandoffEnv = {
   id: "01a0683e-3dbe-7023-a794-3a24720e3484",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const shapeLoading = {
   id: "01a06328-b8b6-750e-9c26-741059f3c69f",

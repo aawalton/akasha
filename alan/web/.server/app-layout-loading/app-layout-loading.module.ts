@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const appLayoutLoading = {
   id: "01a0655e-d39b-7415-b913-3146ff8bfa28",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inventoryRulesDispatchBankVault = {
   id: "01a06258-b530-79eb-a110-55d5942865b1",

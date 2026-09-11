@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mapDataPseudoIndices = {
   id: "01a061e1-aeaa-771b-b17f-2023adabbae5",

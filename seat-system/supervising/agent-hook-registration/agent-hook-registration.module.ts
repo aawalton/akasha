@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const agentHookRegistration = {
   id: "01a069ca-e863-7000-a1ae-b2d92e543dd0",

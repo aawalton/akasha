@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const comfyUpBody = {
   id: "01a09137-9598-7e34-814d-cf5126c347b6",

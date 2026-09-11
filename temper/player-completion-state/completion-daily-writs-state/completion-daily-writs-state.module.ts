@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const completionDailyWritsState = {
   id: "01a06253-d28f-7002-a708-b891c6a40ecd",

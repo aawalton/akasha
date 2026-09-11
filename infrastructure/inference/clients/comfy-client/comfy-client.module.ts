@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const comfyClient = {
   id: "01a0682d-8ef5-7008-9d37-824c7c7aafb6",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const optionCreateContext = {
   id: "01a0610c-430b-7286-8611-cfef8bc8ef07",

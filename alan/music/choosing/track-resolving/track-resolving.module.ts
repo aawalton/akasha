@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const trackResolving = {
   id: "01a06281-4d9d-7004-9a0b-82fe940e4d95",

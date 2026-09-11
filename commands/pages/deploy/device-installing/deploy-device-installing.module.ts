@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const deployDeviceInstalling = {
   id: "01a08e0b-f9f5-746a-836d-b0646a5815b0",

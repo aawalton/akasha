@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const readCompletion = {
   id: "01a0655d-dab7-7b3c-91a4-9723e0647414",

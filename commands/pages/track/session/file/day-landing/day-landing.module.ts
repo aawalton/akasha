@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const dayLanding = {
   id: "01a076f8-6890-78c5-bfe3-30435fc02625",

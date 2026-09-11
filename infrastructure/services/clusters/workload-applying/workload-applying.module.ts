@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const workloadApplying = {
   id: "01a08ce6-65f4-7bdd-adf3-0187b1b35936",

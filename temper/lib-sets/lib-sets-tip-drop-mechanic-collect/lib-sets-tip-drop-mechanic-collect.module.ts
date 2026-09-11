@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsTipDropMechanicCollect = {
   id: "01a06231-8f1e-710d-bc09-a50c2ddb141c",

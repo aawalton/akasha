@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const passiveQueries = {
   id: "01a06187-b3a4-7d21-b96e-890c450998e3",

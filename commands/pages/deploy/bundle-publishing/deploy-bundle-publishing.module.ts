@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const deployBundlePublishing = {
   id: "01a090c2-cad0-7d60-8365-27184838f8ac",

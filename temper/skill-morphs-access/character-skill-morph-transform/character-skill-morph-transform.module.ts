@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const characterSkillMorphTransform = {
   id: "01a061e2-5e38-7b7a-b901-997e9017bd71",

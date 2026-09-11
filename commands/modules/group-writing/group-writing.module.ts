@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const groupWriting = {
   id: "01a08dd3-479a-794b-bdd2-2b24e59840c6",

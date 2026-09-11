@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const kindsGathering = {
   id: "01a0723b-ed99-778a-8adb-131a72c2cd98",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const chessEval = {
   id: "01a05bb1-0c04-7294-9650-348ddbdf83f3",

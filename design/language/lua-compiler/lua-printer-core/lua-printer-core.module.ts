@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const luaPrinterCore = {
   id: "01a06758-8e50-7000-87a6-50af44253098",

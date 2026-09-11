@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pushNotifying = {
   id: "01a0686a-7a57-739f-880c-5afe3034b05a",

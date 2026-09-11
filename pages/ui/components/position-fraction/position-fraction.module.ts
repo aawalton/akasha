@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const positionFraction = {
   id: "01a05c3b-4fc5-7216-9ef8-0f552ccdcdd3",

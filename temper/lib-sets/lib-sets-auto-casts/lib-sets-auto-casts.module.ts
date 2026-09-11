@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsAutoCasts = {
   id: "01a0623c-2df7-7f2f-b3b7-48c1971bcba2",

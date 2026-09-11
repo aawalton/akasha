@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const changeCeiling = {
   id: "01a09154-47b9-7842-861a-266f8b227077",

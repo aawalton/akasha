@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const checkAddonInlineHandlerDispatch = {
   id: "01a062a8-e76a-7a87-8a19-f63843b41826",

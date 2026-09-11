@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const monarchEvalScore = {
   id: "01a06868-1eff-7772-8b1a-2c5a4d3dd331",

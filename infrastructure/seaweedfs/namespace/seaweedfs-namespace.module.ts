@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const seaweedfsNamespace = {
   id: "01a06816-68b0-7eee-bf75-7911f92939d0",

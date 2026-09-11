@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const calendarEventing = {
   id: "01a08cf3-9ae4-7945-85d6-5e525ca7e8cf",

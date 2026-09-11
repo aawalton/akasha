@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const slashCommanderChatHooks = {
   id: "01a06066-8402-78aa-b672-71043d11a094",

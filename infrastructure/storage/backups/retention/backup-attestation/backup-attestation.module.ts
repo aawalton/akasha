@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const backupAttestation = {
   id: "01a06863-74e5-7f8f-a6d4-4ab66523eedc",

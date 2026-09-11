@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const combatActionBar = {
   id: "01a0617f-582b-7a2c-a9bb-57ad0d5fc695",

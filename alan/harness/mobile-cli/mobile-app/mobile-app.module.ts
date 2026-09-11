@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mobileApp = {
   id: "01a05cee-e560-793f-a803-19a1b3c458ac",

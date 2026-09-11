@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const manifestComposing = {
   id: "01a07c68-1823-7c2a-8142-9df17cbb98a8",

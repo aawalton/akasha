@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const craftQuality = {
   id: "01a061c7-e860-7397-8dae-9d242e41d3e7",

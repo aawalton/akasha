@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const alchemyStationTypes = {
   id: "01a06054-98bd-71bf-8f8d-ba29e4db147c",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inventoryBrowserFilterbar = {
   id: "01a06258-b529-7a93-8a15-c32cbdacd6ba",

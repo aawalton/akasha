@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const watcherRuntime = {
   id: "01a0633f-8d1e-7bd8-9b34-b4ebc19498e9",

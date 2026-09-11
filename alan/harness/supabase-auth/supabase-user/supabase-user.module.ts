@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const supabaseUser = {
   id: "01a05c6d-350a-7a9e-b989-5c974158f6f9",

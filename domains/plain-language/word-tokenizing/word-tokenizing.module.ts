@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const wordTokenizing = {
   id: "01a06cd8-d032-72f6-9824-e37f2a2d3ed0",

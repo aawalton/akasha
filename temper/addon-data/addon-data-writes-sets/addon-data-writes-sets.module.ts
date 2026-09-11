@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const addonDataWritesSets = {
   id: "01a06837-d6c9-7314-9d59-027ee56c58e8",

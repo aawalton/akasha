@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const readoutRelayCarrying = {
   id: "01a09223-fc31-7916-b4e3-8b43923da124",

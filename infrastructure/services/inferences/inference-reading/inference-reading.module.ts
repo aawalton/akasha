@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inferenceReading = {
   id: "01a090a6-f40b-7abe-a439-ebc9274ece2a",

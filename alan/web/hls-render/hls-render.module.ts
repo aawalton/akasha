@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const hlsRender = {
   id: "01a0655d-daa7-7a55-823d-371cdbce9a51",

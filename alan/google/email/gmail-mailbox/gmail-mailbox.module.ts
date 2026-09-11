@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const gmailMailbox = {
   id: "01a0657c-604c-7003-9159-bb1811c11e74",

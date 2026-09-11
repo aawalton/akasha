@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const storeWriting = {
   id: "01a05aec-eaaa-7be1-9528-6c84a071ce1c",

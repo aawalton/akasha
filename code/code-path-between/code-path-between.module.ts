@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const codePathBetween = {
   id: "01a06558-3a62-7fa9-90c6-0d6dc35875f0",

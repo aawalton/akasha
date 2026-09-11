@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const temperWeaponEnchant = {
   id: "01a0607c-1795-7426-8d10-21fbbf9fc980",

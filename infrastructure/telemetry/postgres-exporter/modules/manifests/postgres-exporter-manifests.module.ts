@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const postgresExporterManifests = {
   id: "01a073af-0c9d-734d-9d97-227704cc6fcf",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const charactersScribingSourceTable = {
   id: "01a062fa-70b2-700f-ab32-b8604595cfbe",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const completionAccountLoreUnion = {
   id: "01a06121-f0cf-76af-8eef-3e43cfd843c9",

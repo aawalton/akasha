@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const modelUnavailableRebind = {
   id: "01a0643b-c946-7c01-9657-1bea04a89d30",

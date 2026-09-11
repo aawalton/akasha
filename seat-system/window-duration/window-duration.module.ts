@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const windowDuration = {
   id: "01a069e8-c315-7c16-b624-a471a8e9cdec",

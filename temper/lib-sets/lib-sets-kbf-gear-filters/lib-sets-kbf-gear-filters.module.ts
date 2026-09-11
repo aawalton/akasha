@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsKbfGearFilters = {
   id: "01a0623e-53a1-757f-b98f-e17326c7f464",

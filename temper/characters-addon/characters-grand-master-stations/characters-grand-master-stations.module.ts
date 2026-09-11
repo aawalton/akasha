@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const charactersGrandMasterStations = {
   id: "01a062ea-6084-7fb0-80ea-9880f04a9f18",

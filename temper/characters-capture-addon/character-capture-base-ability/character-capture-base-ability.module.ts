@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const characterCaptureBaseAbility = {
   id: "01a0616b-2ab0-76e4-88f5-494ff9be08f5",

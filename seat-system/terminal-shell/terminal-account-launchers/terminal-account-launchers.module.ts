@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const terminalAccountLaunchers = {
   id: "01a0680a-fa30-7d9b-a049-f3d2011c5f5f",

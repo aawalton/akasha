@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const stripXmlComments = {
   id: "01a08de9-caf0-7416-9844-11646f6f4f04",

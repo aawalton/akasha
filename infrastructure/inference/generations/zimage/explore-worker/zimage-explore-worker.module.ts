@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const zimageExploreWorker = {
   id: "01a06815-9efd-702c-97c4-1d8fa5c36f48",

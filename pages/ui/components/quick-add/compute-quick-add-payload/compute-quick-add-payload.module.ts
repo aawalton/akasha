@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const computeQuickAddPayload = {
   id: "01a05c40-2195-72d5-b4b9-71ca0a1c440f",

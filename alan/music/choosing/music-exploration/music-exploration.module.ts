@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const musicExploration = {
   id: "01a06281-4d9d-7002-aee3-ff60658dc599",

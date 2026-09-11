@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const combatActionVampireStage = {
   id: "01a0617f-5838-72c1-ad1b-6a9a540e4ebc",

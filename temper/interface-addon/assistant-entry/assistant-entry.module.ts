@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const assistantEntry = {
   id: "01a060e7-1bec-7cd5-876c-cef3639abf2a",

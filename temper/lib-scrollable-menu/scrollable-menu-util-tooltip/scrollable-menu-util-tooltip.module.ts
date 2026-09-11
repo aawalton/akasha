@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const scrollableMenuUtilTooltip = {
   id: "01a06275-c44a-7df7-b767-4561076aeb19",

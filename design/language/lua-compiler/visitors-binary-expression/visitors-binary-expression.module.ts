@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const visitorsBinaryExpression = {
   id: "01a06758-8e9f-7000-b13d-f2a82127f5b3",

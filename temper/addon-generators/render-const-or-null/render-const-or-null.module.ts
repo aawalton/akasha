@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const renderConstOrNull = {
   id: "01a06118-fdf9-7d79-92b1-3e8e75c3b5be",

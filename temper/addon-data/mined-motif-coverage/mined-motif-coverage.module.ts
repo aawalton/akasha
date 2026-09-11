@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const minedMotifCoverage = {
   id: "01a0674d-061c-7d8f-93d3-3e8ae2396834",

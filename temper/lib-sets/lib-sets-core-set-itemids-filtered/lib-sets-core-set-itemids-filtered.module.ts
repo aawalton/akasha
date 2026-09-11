@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const libSetsCoreSetItemidsFiltered = {
   id: "01a061fc-ceec-7456-9d7d-84602a2f2336",

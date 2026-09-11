@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const commandServer = {
   id: "01a06a05-bf7b-78ff-9bba-95684e31bba4",

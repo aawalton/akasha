@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const noWordReading = {
   id: "01a081e9-0f95-73af-911a-922ce68fb62c",

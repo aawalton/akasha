@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const monarchGmailCache = {
   id: "01a0685f-4ed9-790d-8078-7ac8bc7dde66",

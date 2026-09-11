@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const shoppingSettings = {
   id: "01a060cf-b0b1-75a2-8041-f9ae780018d3",

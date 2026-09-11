@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const base64Url = {
   id: "01a08dda-ba3d-7b5a-9512-e8a36162fba1",

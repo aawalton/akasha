@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const knowledgeCuratedStyleQuality = {
   id: "01a0622b-dc59-7bd2-bd67-d27fe2d4f929",

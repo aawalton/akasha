@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const alertNotification = {
   id: "01a0628e-a5da-7ee0-a6fa-62cfbb59efac",

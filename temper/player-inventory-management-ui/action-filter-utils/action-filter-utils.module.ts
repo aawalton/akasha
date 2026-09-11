@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const actionFilterUtils = {
   id: "01a0636c-5d96-72b4-a24c-121bd9310001",

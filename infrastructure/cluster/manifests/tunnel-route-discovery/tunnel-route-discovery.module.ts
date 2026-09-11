@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const tunnelRouteDiscovery = {
   id: "01a06810-1262-7570-bae6-93d030d82053",

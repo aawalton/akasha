@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const histoireStatusLinkedIcon = {
   id: "01a06197-4c9b-713e-8eb3-c7cfdace0097",

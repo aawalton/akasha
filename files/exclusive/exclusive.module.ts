@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const exclusive = {
   id: "01a05cb3-7cca-7c81-8846-ff73179e6498",

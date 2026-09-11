@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const mobileSsh = {
   id: "01a05cee-e560-740b-bd8f-abdea9c8358c",

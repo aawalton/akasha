@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const readerProseBlock = {
   id: "01a061ee-786e-700b-9b84-c070a8b099ef",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const narrativeLog = {
   id: "01a06327-e488-7b24-b7a4-8d756fe834de",

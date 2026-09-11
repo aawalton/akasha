@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const wallpaperBackfillExecute = {
   id: "01a05b70-a58d-7a94-8b42-b1fe59350cd9",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const watcherImportCompletion = {
   id: "01a06381-35cf-7b6a-8ea9-a0064dcecdc0",

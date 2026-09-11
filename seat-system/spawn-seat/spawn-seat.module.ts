@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const spawnSeat = {
   id: "01a06983-278f-7aef-a9d5-646b542b1d97",

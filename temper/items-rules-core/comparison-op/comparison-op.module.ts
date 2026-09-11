@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const comparisonOp = {
   id: "01a060d9-44ca-7638-bf00-7199306fb945",

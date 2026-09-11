@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const invokedSeat = {
   id: "01a0686b-bfe9-7de3-9eeb-08993f0dc27e",

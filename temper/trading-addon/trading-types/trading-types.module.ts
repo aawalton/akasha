@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const tradingTypes = {
   id: "01a06160-2a5e-7579-bb70-416bf4fbc1c8",

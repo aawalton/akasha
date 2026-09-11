@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const setSourcesFilter = {
   id: "01a06276-e3e6-7c64-8c97-3ce008f60697",

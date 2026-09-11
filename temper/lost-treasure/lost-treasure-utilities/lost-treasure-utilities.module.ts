@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const lostTreasureUtilities = {
   id: "01a06141-800a-74f0-8b78-f6f221d6f8e7",

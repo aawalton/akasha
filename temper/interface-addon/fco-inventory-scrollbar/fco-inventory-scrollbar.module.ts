@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const fcoInventoryScrollbar = {
   id: "01a06115-1aca-7daf-a70e-36f976c0cf24",

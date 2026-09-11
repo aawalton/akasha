@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const searchArmorWeightFilter = {
   id: "01a0613a-e0a5-73ad-8749-ca689469fc54",

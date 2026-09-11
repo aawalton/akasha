@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const savedVariablesSchema = {
   id: "01a0609d-90df-725b-9ebe-3417953f530a",

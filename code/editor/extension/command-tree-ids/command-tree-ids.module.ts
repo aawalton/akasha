@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const commandTreeIds = {
   id: "01a07c93-698e-7ff9-8d61-dad8d2cd54f0",

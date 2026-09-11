@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const knowledgePublicCallbacks = {
   id: "01a06227-f592-7aaf-8284-244e83851abd",

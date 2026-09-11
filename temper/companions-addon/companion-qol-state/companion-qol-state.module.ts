@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const companionQolState = {
   id: "01a0611d-84cd-766a-94cc-4f86cd3cfe46",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const typeTurning = {
   id: "01a090e0-64d6-702b-9c2e-819482b42178",

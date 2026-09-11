@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const consumablesPanelCard = {
   id: "01a0642c-5b7a-7ed1-98a3-03dc8ef27b95",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const instructionsRule = {
   id: "01a06983-278f-7052-b16d-0d1564be6053",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const journalTooltipColors = {
   id: "01a0617d-5453-7d98-b6ec-11bf84677fd7",

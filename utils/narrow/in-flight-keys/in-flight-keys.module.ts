@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const inFlightKeys = {
   id: "01a08df5-ff10-7edf-b73e-d70b1477a50d",

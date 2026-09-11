@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const useBlockFocus = {
   id: "01a06205-4f3b-7000-8405-dd8255de93e6",

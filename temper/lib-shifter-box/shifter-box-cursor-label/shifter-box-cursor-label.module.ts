@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const shifterBoxCursorLabel = {
   id: "01a08e6e-ae39-7b0d-a20f-739be0c4cda5",

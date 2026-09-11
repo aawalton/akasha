@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const stopSeat = {
   id: "01a06983-278f-7b86-8379-e1f7fb7a4d60",

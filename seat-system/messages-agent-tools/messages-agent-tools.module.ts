@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const messagesAgentTools = {
   id: "01a0695a-d2ea-7719-a70d-79d222213a7b",

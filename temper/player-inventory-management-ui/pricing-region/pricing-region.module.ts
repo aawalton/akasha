@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const pricingRegion = {
   id: "01a0636c-5d9b-7a3f-ab30-de67bd120038",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const filterableList = {
   id: "01a05be9-d4c3-7f1a-8d3d-a5b97538bebd",

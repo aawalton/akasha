@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const latestArrival = {
   id: "01a05bc7-9129-7005-b4b8-2f62e20c1b94",

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/modules/module.page-type.types.ts"
 
 export const ruleConstants = {
   id: "01a060d9-44cc-7b06-9dd7-c62933ed2bb1",
