@@ -2,11 +2,11 @@ import { afterAll, expect, test } from "bun:test"
 import { copyFileSync, mkdirSync } from "node:fs"
 import { join } from "node:path"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import type { Applied } from "../../../commands/modules/applying/applying.module.code.ts"
-import type { Given } from "../../../commands/modules/calling/calling.module.code.ts"
-import type { Refused } from "../../../commands/modules/landing/landing.module.code.ts"
-import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
+import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   FILE_PATH,
   KEEP_LAST_NEWLINE,
@@ -21,7 +21,7 @@ import {
   type Target,
   undeclared,
   valueIn,
-} from "./page-secret-acting.module.code.ts"
+} from "akasha/pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
 
 const AT = "akasha/agents/claude-accounts/pages/one.claude-account.ts"
 
