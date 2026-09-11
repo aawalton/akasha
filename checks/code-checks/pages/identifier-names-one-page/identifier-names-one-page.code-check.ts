@@ -7,8 +7,8 @@ export const identifierNamesOnePage = {
   slug: "identifier-names-one-page",
   definition: "the check refusing a page with an identifier another page already has",
   runsOnChange: true,
-  runsOnWorktree: true,
-  runsOnDeploy: true,
+  runsOnWorktree: false,
+  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {

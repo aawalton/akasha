@@ -121,10 +121,6 @@ export const check = {
         "No check judges the imports a repository outside akasha takes from inside akasha.",
     },
     {
-      invariantKind: "gap",
-      statement: "Every phase a check states is reached by a caller that runs the check.",
-    },
-    {
       invariantKind: "stopgap",
       statement:
         "No check but the compiler check exists only to test the claims the compiler tests.",
