@@ -1,12 +1,12 @@
-import { domainsRead } from "akasha/domains/modules/reading/domain-reading.module.code.ts"
-import { slugOf } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { personaAt, personasStanding } from "akasha/personas/reading/persona-reading.module.code.ts"
 import {
   ATTRIBUTES,
   type AttributeKey,
   DECLARATIONS,
   type Declaration,
-} from "akasha/seat-system/agent-attributes/agent-attributes.module.code.ts"
+} from "akasha/agents/attributes/agent-attributes.module.code.ts"
+import { domainsRead } from "akasha/domains/modules/reading/domain-reading.module.code.ts"
+import { slugOf } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { personaAt, personasStanding } from "akasha/personas/reading/persona-reading.module.code.ts"
 import { seat as seatPageType } from "akasha/seat-system/seats/seat.page-type.ts"
 
 const DOMAIN_SLUG_KEY = "slug"

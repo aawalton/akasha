@@ -1,9 +1,9 @@
-import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   attributesOf,
   bareSlug,
   recordedModeOf,
-} from "akasha/seat-system/agent-attributes/agent-attributes.module.code.ts"
+} from "akasha/agents/attributes/agent-attributes.module.code.ts"
+import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   frontmatterFromHistory,
   nameFromHistory,

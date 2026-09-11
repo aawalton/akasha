@@ -1,16 +1,16 @@
 import {
-  AKASHA,
-  resolveRoots,
-  rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import {
   ASSIGNMENTS,
   ATTRIBUTES,
   DECLARATIONS,
   type Declaration,
   MODES,
   type Mode,
-} from "akasha/seat-system/agent-attributes/agent-attributes.module.code.ts"
+} from "akasha/agents/attributes/agent-attributes.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { fail } from "akasha/seat-system/command-failing/command-failing.module.code.ts"
 import {
   type Principal,

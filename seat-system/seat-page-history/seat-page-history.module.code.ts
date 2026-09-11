@@ -1,9 +1,9 @@
-import { AKASHA, rootFor } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import {
   DECLARATIONS,
   type Declaration,
-} from "akasha/seat-system/agent-attributes/agent-attributes.module.code.ts"
+} from "akasha/agents/attributes/agent-attributes.module.code.ts"
+import { AKASHA, rootFor } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import { FLEET } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   akashaSeatInHistory,

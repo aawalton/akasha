@@ -1,9 +1,9 @@
-import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   ASSIGNMENTS,
   ATTRIBUTES,
   type Declaration,
-} from "akasha/seat-system/agent-attributes/agent-attributes.module.code.ts"
+} from "akasha/agents/attributes/agent-attributes.module.code.ts"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   resolveAttributes,
   scan,

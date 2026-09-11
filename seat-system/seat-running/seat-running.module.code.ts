@@ -1,10 +1,3 @@
-import { seatId } from "akasha/agents/read-record/read-record.module.code.ts"
-import {
-  AKASHA,
-  akashaRoot,
-  resolveRoots,
-  rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   ATTRIBUTES,
   type Attribute,
@@ -13,7 +6,14 @@ import {
   DECLARATIONS,
   type Declaration,
   recordedModeOf,
-} from "akasha/seat-system/agent-attributes/agent-attributes.module.code.ts"
+} from "akasha/agents/attributes/agent-attributes.module.code.ts"
+import { seatId } from "akasha/agents/read-record/read-record.module.code.ts"
+import {
+  AKASHA,
+  akashaRoot,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   composeSeatName,
   personPrincipals,

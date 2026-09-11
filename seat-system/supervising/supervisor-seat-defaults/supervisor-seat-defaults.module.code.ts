@@ -1,12 +1,12 @@
 import {
+  attributesOf,
+  recordedModeOf,
+} from "akasha/agents/attributes/agent-attributes.module.code.ts"
+import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import {
-  attributesOf,
-  recordedModeOf,
-} from "akasha/seat-system/agent-attributes/agent-attributes.module.code.ts"
 import type { Args } from "akasha/seat-system/seat-args/seat-args.module.code.ts"
 import { onCallOf } from "akasha/seat-system/seat-on-call/seat-on-call.module.code.ts"
 import { defaultSlots } from "akasha/seat-system/seat-resolve/seat-resolve.module.code.ts"
