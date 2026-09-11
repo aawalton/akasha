@@ -5,7 +5,7 @@ import {
   decideInstallAction,
   foreignCopySatisfies,
   parseFloorFor,
-} from "./folder-ownership.module.code.ts"
+} from "akasha/temper/addons-resolve/folder-ownership/folder-ownership.module.code.ts"
 
 test("a folder that is not there is absent", () => {
   expect(decideFolderOwnership({ dirExists: false, markerPresent: undefined })).toBe("absent")

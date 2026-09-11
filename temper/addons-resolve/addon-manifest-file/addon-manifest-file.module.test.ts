@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
-import { addonManifestPathIn } from "./addon-manifest-file.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
 
 const SCRATCH = scratchWorld()
 

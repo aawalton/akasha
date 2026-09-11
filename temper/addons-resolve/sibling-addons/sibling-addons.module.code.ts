@@ -1,8 +1,8 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
 import { z } from "zod"
-import { addonManifestSchema } from "../addon-json/addon-json.module.code.ts"
-import { addonManifestPathIn } from "../addon-manifest-file/addon-manifest-file.module.code.ts"
 
 export const SIBLING_ADDONS_DIR = "siblings"
 

@@ -1,13 +1,13 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { addonManifestSchema } from "../addon-json/addon-json.module.code.ts"
-import { addonManifestPathIn } from "../addon-manifest-file/addon-manifest-file.module.code.ts"
+import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
 import {
   computeWorkspaceClosure,
   loadWorkspaceCatalog,
   repoRelOf,
-} from "../workspace-closure/workspace-closure.module.code.ts"
+} from "akasha/temper/addons-resolve/workspace-closure/workspace-closure.module.code.ts"
 
 const DEFAULT_REPO_ROOT = resolve(import.meta.dir, "..", "..", "..")
 

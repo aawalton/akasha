@@ -1,14 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   assertSafeSiblingName,
   readSiblingAddonNames,
   siblingDistDir,
   siblingManifestsIn,
   siblingSourceDir,
-} from "./sibling-addons.module.code.ts"
+} from "akasha/temper/addons-resolve/sibling-addons/sibling-addons.module.code.ts"
 
 const scratch = scratchWorld()
 
