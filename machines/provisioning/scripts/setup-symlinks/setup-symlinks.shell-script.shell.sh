@@ -8,8 +8,7 @@
 set -euo pipefail
 
 HERE="$(cd -- "$(dirname -- "$(readlink -f -- "$0")")" && pwd -P)"
-REPO="$(cd -- "$HERE/../../../.." && pwd -P)"
-. "$REPO/machines/provisioning/scripts/repo-roots/repo-roots.shell-script.shell.sh"
+. "$HERE/../repo-roots/repo-roots.shell-script.shell.sh"
 REPOS="$(dirname -- "$AKASHA_ROOT")"
 
 FILES="$AKASHA_ROOT/machines/provisioning/provisioned-files/pages"

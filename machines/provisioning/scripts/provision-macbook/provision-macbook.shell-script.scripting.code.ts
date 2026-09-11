@@ -2,7 +2,6 @@ import { dirname, relative } from "node:path"
 import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { upFrom } from "akasha/utils/narrow/up-from/up-from.module.code.ts"
 
 const SCRIPT = "shell-script"
 
@@ -40,8 +39,8 @@ function openingIn(given: string | Reading): readonly string[] {
     "set -euo pipefail",
     "",
     'HERE="$(cd -- "$(dirname -- "$(readlink -f -- "$0")")" && pwd -P)"',
-    `REPO="$(cd -- "$HERE/${upFrom(own.path)}" && pwd -P)"`,
-    `. "$REPO/${shellAt(given, ROOTS)}"`,
+    `. "$HERE/${relative(dirname(own.path), shellAt(given, ROOTS))}"`,
+    'REPO="$AKASHA_ROOT"',
     'AKASHA="$AKASHA_ROOT"',
     `FILES="$AKASHA_ROOT/${placedUnder(given)}"`,
     'SUDOERS_FILE="/etc/sudoers.d/walton-nopasswd"',
