@@ -1,11 +1,17 @@
 import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
+import { join } from "node:path"
+import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { harnessSettingsAt } from "akasha/seat-system/agent-settings/harness-settings-reading/harness-settings-reading.module.code.ts"
 import { agentSettings } from "akasha/seat-system/supervising/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
 
-const SETTINGS_AT = new URL(
-  "../../agent-settings/pages/agents/agents.agent-settings.harness-settings.json",
-  import.meta.url
-).pathname
+const AGENTS = "agents"
+
+const UNKNOWN = "the settings a seat spawns on are unknown"
+
+const ROOT = ownRepoRoot()
+
+const SETTINGS_AT = join(ROOT, harnessSettingsAt(ROOT, AGENTS, UNKNOWN))
 
 const RUN = "bash "
 

@@ -1,18 +1,19 @@
 import { existsSync, readFileSync } from "node:fs"
-import { join } from "node:path"
+import { join, relative } from "node:path"
+import { fileURLToPath } from "node:url"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { harnessSettingsAt } from "akasha/seat-system/agent-settings/harness-settings-reading/harness-settings-reading.module.code.ts"
 import {
   type HookRegistration,
   hooksFrom,
   hooksMerged,
 } from "akasha/seat-system/supervising/agent-hook-registration/agent-hook-registration.module.code.ts"
 
-const SETTINGS_AT = new URL(
-  "../../agent-settings/pages/agents/agents.agent-settings.harness-settings.json",
-  import.meta.url
-).pathname
+const AGENTS = "agents"
+
+const UNKNOWN = "the settings a seat spawns on are unknown"
 
 const EXIT_INPUT = 1
 const EXIT_DATA = 2
@@ -23,15 +24,16 @@ const BASH_ENV_SCRIPT = "bash-env"
 
 const STATUSLINE_SCRIPT = "statusline"
 
-const HELP = `supervisor-agent-settings — print the fleet's agent settings document
+function helpOf(settingsBeside: string, ownBeside: string): string {
+  return `supervisor-agent-settings — print the fleet's agent settings document
 
-Prints \`seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json\` from this repository as JSON on stdout, with the hooks akasha declares merged in, and with
+Prints \`${settingsBeside}\` from this repository as JSON on stdout, with the hooks akasha declares merged in, and with
 \`BASH_ENV\` and \`statusLine\` resolved to the shell files the index answers for. A module
 elsewhere in this repository imports \`agentSettings\` rather than running this, so what this
 prints is for a person reading it.
 
 Usage:
-  bun seat-system/supervising/supervisor-agent-settings/supervisor-agent-settings.module.code.ts
+  bun ${ownBeside}
 
 Flags:
   --help, -h  Print this and exit 0.
@@ -41,6 +43,7 @@ Exits:
   1  a flag was not understood
   2  the document, or a shell script akasha resolves for the document, could not be read
 `
+}
 
 function refuse(message: string, code: number): never {
   process.stderr.write(`${message}\n`)
@@ -116,7 +119,8 @@ function statusLineOn(at: string): Record<string, unknown> {
 }
 
 export function agentSettings(): Record<string, unknown> {
-  const path = SETTINGS_AT
+  const root = ownRepoRoot()
+  const path = join(root, harnessSettingsAt(root, AGENTS, UNKNOWN))
 
   let raw: string
   try {
@@ -129,7 +133,6 @@ export function agentSettings(): Record<string, unknown> {
   }
 
   const document = settingsDocument(raw, path)
-  const root = ownRepoRoot()
   const bashEnvAt = scriptAt(root, BASH_ENV_SCRIPT)
   const statusLineAt = scriptAt(root, STATUSLINE_SCRIPT)
   let derived: Record<string, HookRegistration[]>
@@ -153,7 +156,9 @@ export function agentSettings(): Record<string, unknown> {
 function main(): undefined {
   const argv = process.argv.slice(2)
   if (argv.includes("--help") || argv.includes("-h")) {
-    process.stdout.write(HELP)
+    const root = ownRepoRoot()
+    const own = relative(root, fileURLToPath(import.meta.url))
+    process.stdout.write(helpOf(harnessSettingsAt(root, AGENTS, UNKNOWN), own))
     return undefined
   }
   const stray = argv.find((arg) => arg !== "")
