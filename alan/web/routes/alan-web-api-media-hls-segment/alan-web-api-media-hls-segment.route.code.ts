@@ -12,7 +12,11 @@ import {
   MEDIA_VARIANT_PATTERN,
   mediaPageExists,
 } from "akasha/pages/ui/media/serve-media/serve-media.module.code.ts"
-import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
+import {
+  capacitorCorsHeaders,
+  corsPreflight,
+  corsResponder,
+} from "../../capacitor-cors/capacitor-cors.module.code.ts"
 import { isMediaPageId } from "../../media-page/media-page.module.code.ts"
 
 const SEGMENT_PATTERN = /^seg[0-9]{5}\.mp3$/
@@ -25,9 +29,7 @@ export async function loader({
   request: Request
 }): Promise<Response> {
   const cors = capacitorCorsHeaders(request, "GET, OPTIONS")
-  if (request.method === "OPTIONS") {
-    return new Response(null, { status: 204, headers: withCors(new Headers(), cors) })
-  }
+  if (request.method === "OPTIONS") return corsPreflight(cors)
 
   const url = new URL(request.url)
   const { pageId, medium, segment } = params
@@ -36,12 +38,7 @@ export async function loader({
   const parsedFrom = fromSentenceRaw == null ? 0 : Number.parseInt(fromSentenceRaw, 10)
   const fromSentence = Number.isFinite(parsedFrom) && parsedFrom > 0 ? parsedFrom : 0
 
-  let headers = new Headers()
-  const respond = (body: BodyInit | null, status: number, extra?: HeadersInit): Response => {
-    const merged = withCors(new Headers(headers), cors)
-    if (extra) for (const [k, v] of new Headers(extra).entries()) merged.set(k, v)
-    return new Response(body, { status, headers: merged })
-  }
+  const { carry, respond } = corsResponder(cors)
 
   if (
     !isMediaPageId(pageId) ||
@@ -60,7 +57,7 @@ export async function loader({
     }
   } else {
     const { user, headers: authHeaders } = await resolveRequestUser(request)
-    headers = authHeaders
+    carry(authHeaders)
     if (!user) return respond("Unauthorized", 401)
     if (!(await mediaPageExists(pageId))) return respond("Not Found", 404)
   }

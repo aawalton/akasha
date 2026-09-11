@@ -34,5 +34,15 @@ export const capacitorCors = {
       invariantKind: "departure",
       statement: "An answer to the native shell keeps its own status and its own body.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A header one answer states wins over a cross-origin header, and that over a carried one.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A header picked up part way through a request is carried by every answer after it.",
+    },
   ],
 } as const satisfies Module
