@@ -1,4 +1,8 @@
 import { restatement as test } from "akasha/agents/models/tests/pages/restatement/restatement.model-test.ts"
+import type {
+  Case,
+  PageReading,
+} from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
 
 export type Judging = {
   readonly slug: string
@@ -9,6 +13,14 @@ export type Judging = {
 export type Asked = {
   readonly statement: string
   readonly prompt: string
+}
+
+export function asking(one: Case, reading: PageReading): string | null {
+  void reading
+  return test.prompt
+    .replace("{page}", () => one.page)
+    .replace("{definition}", () => one.definition)
+    .replace("{statement}", () => one.statement)
 }
 
 export function restatement(page: Judging): readonly Asked[] {

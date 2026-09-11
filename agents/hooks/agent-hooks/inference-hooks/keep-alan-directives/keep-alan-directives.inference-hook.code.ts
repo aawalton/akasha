@@ -1,5 +1,4 @@
 import { realpathSync } from "node:fs"
-import { join } from "node:path"
 import {
   type Answer,
   ASIDE,
@@ -11,17 +10,20 @@ import {
 } from "akasha/agents/hooks/hook-answer/hook-answer.module.code.ts"
 import { opensYes } from "akasha/agents/models/modules/answer/model-answer.module.code.ts"
 import {
-  type Directive,
   directiveKept,
+  directivesIn,
 } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.code.ts"
 import { directiveKept as test } from "akasha/agents/models/tests/pages/directive-kept/directive-kept.model-test.ts"
+import {
+  askedOf,
+  modelOf,
+} from "akasha/agents/models/tests/running/model-test-running.module.code.ts"
 import {
   createSubagentReader,
   type SubagentNode,
 } from "akasha/code-system/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import { seatIn } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valuedAt, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/seat-system/agent-io-probe/agent-io-probe.module.code.ts"
 import {
@@ -34,7 +36,6 @@ import {
   workingOf,
 } from "akasha/seat-system/seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
 import { transcriptOf } from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
-import { ran as spawned } from "akasha/utils/run/running/running.module.code.ts"
 
 const HOOK = "keep-alan-directives"
 
@@ -44,25 +45,7 @@ const SEAT = "seat"
 
 const PERSON = "person"
 
-const MODULE = "module"
-
-const FAMILY = "model-family"
-
-const ASKER = "model-asking"
-
-const CODE = "code"
-
-const TS = "ts"
-
 const ID = "id"
-
-const NAME = "name"
-
-const ACT = "act"
-
-const WARRANT = "warrant"
-
-const AIDS = "aids"
 
 const DIRECTIVES = "directives"
 
@@ -98,54 +81,6 @@ export function personIn(listed: readonly Valued[], agent: string): string | nul
   return null
 }
 
-export function directivesIn(given: unknown): readonly Directive[] {
-  if (!Array.isArray(given)) return []
-  const found: Directive[] = []
-  for (const one of given) {
-    if (one === null || typeof one !== "object" || Array.isArray(one)) continue
-    const held = one as Record<string, unknown>
-    const name = held[NAME]
-    const act = held[ACT]
-    const warrant = held[WARRANT]
-    const aids = held[AIDS]
-    if (typeof name !== "string" || typeof act !== "string" || typeof warrant !== "string") continue
-    if (!Array.isArray(aids) || aids.some((aid) => typeof aid !== "string")) continue
-    found.push({ name, act, warrant, aids: aids as readonly string[] })
-  }
-  return found
-}
-
-function modelOf(root: string): string {
-  const slug = test.modelFamily.slice(test.modelFamily.indexOf("/") + 1)
-  const held = valuedAt(root, FAMILY, slug).value[NAME]
-  if (typeof held !== "string") throw new Error(`\`${slug}\` names no model a call can reach`)
-  return held
-}
-
-function askedOf(
-  root: string,
-  model: string,
-  prompts: readonly string[]
-): readonly string[] | null {
-  const asker = besideAt(valuedAt(root, MODULE, ASKER).path, CODE, TS)
-  if (asker === null) return null
-  const answered = spawned(["bun", "run", join(root, asker)], {
-    stdin: new TextEncoder().encode(JSON.stringify({ model, prompts })),
-    cwd: root,
-  })
-  if (answered.code !== 0) return null
-  let held: unknown
-  try {
-    held = JSON.parse(answered.out)
-  } catch {
-    return null
-  }
-  const answers =
-    typeof held === "object" && held !== null ? (held as { answers?: unknown }).answers : undefined
-  if (!Array.isArray(answers) || answers.some((one) => typeof one !== "string")) return null
-  return answers as readonly string[]
-}
-
 export function stillWorking(running: readonly SubagentNode[], working: TurnWorking): boolean {
   return running.length > 0 || anyLiveShell(working)
 }
@@ -168,7 +103,7 @@ export function judging(root: string, agent: string, asked: string, turn: string
   const asking = directiveKept({ asked, turn, directives })
   const answers = askedOf(
     root,
-    modelOf(root),
+    modelOf(root, test.modelFamily),
     asking.map((one) => one.prompt)
   )
   if (answers === null) return LET_THROUGH

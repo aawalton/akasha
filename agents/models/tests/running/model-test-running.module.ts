@@ -1,0 +1,41 @@
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+
+export const modelTestRunning = {
+  id: "01a0915e-d3cf-711b-b81e-034c2d603efa",
+  pageTypeSlug: "module",
+  type: "module",
+  slug: "model-test-running",
+  definition: "a model test's labelled cases put to its model and weighed against their labels",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The prompt for a case is built by the code beside the test rather than here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test's code is handed a way to read a page rather than reading the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A case whose prompt cannot be built is answered as reaching nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A case reaching nothing is kept in the answer rather than left out of it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A case is kept where the model's answer and the case's label agree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run reaching no model throws rather than answering every case broken.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here knows what any test is about.",
+    },
+  ],
+} as const satisfies Module

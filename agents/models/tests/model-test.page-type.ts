@@ -8,6 +8,7 @@ export const modelTest = {
   definition: "a prompt and the labelled cases that say whether it works",
   pluralSlug: "model-tests",
   parts: [
+    "module/model-test-running",
     "model-test/restatement",
     "page-property-entry/cases",
     "page-type/model-test-outcome",

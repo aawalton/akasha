@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
 import {
-  directivesIn,
   personIn,
   SCOPE,
   stillWorking,
@@ -26,30 +25,6 @@ test("a seat naming no person answers nothing", () => {
 test("an id no seat carries answers nothing", () => {
   expect(personIn(SEATS, "d")).toBeNull()
   expect(personIn([], "a")).toBeNull()
-})
-
-test("a whole directive is read", () => {
-  const held = directivesIn([
-    { directiveKind: "rule", name: "One", act: "Do it.", warrant: "Because.", aids: ["An aid."] },
-  ])
-  expect(held).toEqual([{ name: "One", act: "Do it.", warrant: "Because.", aids: ["An aid."] }])
-})
-
-test("a directive missing a field is passed over", () => {
-  expect(directivesIn([{ name: "One", act: "Do it.", warrant: "Because." }])).toEqual([])
-  expect(directivesIn([{ name: "One", act: "Do it.", aids: [] }])).toEqual([])
-  expect(directivesIn([{ act: "Do it.", warrant: "Because.", aids: [] }])).toEqual([])
-})
-
-test("a directive whose aids are not all text is passed over", () => {
-  expect(directivesIn([{ name: "One", act: "A.", warrant: "B.", aids: ["ok", 1] }])).toEqual([])
-})
-
-test("anything that is no list of directives reads as none", () => {
-  expect(directivesIn(undefined)).toEqual([])
-  expect(directivesIn(null)).toEqual([])
-  expect(directivesIn("directives")).toEqual([])
-  expect(directivesIn([null, 1, "one"])).toEqual([])
 })
 
 const CHILD: readonly SubagentNode[] = [
