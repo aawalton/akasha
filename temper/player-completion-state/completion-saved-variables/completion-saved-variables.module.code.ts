@@ -2,6 +2,7 @@ import type {
   AccountCompletion,
   CharacterCompletion,
 } from "akasha/temper/completion/completion-record/completion-record.module.code.ts"
+import { requireSavedVariables } from "akasha/temper/narrow/require-saved-variables/require-saved-variables.module.code.ts"
 import type { CompletionOverride } from "akasha/temper/player-completion/completion-override/completion-override.module.code.ts"
 import {
   ADDON_NAME,
@@ -274,10 +275,7 @@ export function migrateFromTemperSavedVars(): undefined {
 }
 
 export function getSavedVariables(): SavedVariablesData {
-  if (!savedVarsInstance) {
-    throw new Error("Saved variables not initialized. Call initializeSavedVariables() first.")
-  }
-  return savedVarsInstance
+  return requireSavedVariables(savedVarsInstance)
 }
 
 export function pruneDeletedCharacters(): undefined {

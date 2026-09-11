@@ -4,6 +4,7 @@ import {
   SAVED_VARIABLES_NAME,
 } from "akasha/temper/companions-addon/companions-constants/companions-constants.module.code.ts"
 import { requireNumericKey } from "akasha/temper/narrow/require-numeric-key/require-numeric-key.module.code.ts"
+import { requireSavedVariables } from "akasha/temper/narrow/require-saved-variables/require-saved-variables.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 export interface SavedCompanionEquipmentSlot {
   displayText: string
@@ -118,10 +119,7 @@ export function migrateFromTemperSavedVars(): undefined {
 }
 
 export function getSavedVariables(): SavedVariablesData {
-  if (!savedVarsInstance) {
-    throw new Error("Saved variables not initialized. Call initializeSavedVariables() first.")
-  }
-  return savedVarsInstance
+  return requireSavedVariables(savedVarsInstance)
 }
 
 export function setSavedVarsInstanceForTesting(value: SavedVariablesData | undefined): undefined {

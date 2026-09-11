@@ -1,6 +1,7 @@
 import "akasha/temper/eso-types/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import { requireSavedVariables } from "akasha/temper/narrow/require-saved-variables/require-saved-variables.module.code.ts"
 import { SAVED_VARIABLES_NAME } from "akasha/temper/trading-addon/trading-constants/trading-constants.module.code.ts"
 import {
   type GuildSnapshot,
@@ -24,10 +25,7 @@ export function initializeSavedVariables(): SavedVariablesData {
 }
 
 export function getSavedVariables(): SavedVariablesData {
-  if (!savedVarsInstance) {
-    throw new Error("Saved variables not initialized. Call initializeSavedVariables() first.")
-  }
-  return savedVarsInstance
+  return requireSavedVariables(savedVarsInstance)
 }
 
 export function ensureGuild(guildName: string, kioskName: string): GuildSnapshot {
