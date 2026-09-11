@@ -1,4 +1,5 @@
 import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
+import { redirectingWith } from "akasha/temper/build-support/import-redirect/import-redirect.module.code.ts"
 import {
   buildHash,
   esoCharacterId as toEsoCharacterId,
@@ -26,14 +27,6 @@ export async function loader({
     esoCharacterId != null ? toEsoCharacterId(esoCharacterId) : undefined
   )
 
-  const redirect = (location: string): Response => {
-    const headers = new Headers({ Location: location })
-    for (const cookie of importHeaders.getSetCookie()) {
-      headers.append("Set-Cookie", cookie)
-    }
-    return new Response(null, { status: 302, headers })
-  }
-
   if ("error" in result) {
     if (result.error === "not-authenticated") {
       const returnUrl =
@@ -42,13 +35,13 @@ export async function loader({
           : `/character-build/h/${hash}`
       const redirectUrl = new URL("/sign-in", origin)
       redirectUrl.searchParams.set("next", returnUrl)
-      return redirect(redirectUrl.toString())
+      return redirectingWith(importHeaders, redirectUrl.toString())
     }
     const failureUrl = new URL("/character-builds", origin)
     failureUrl.searchParams.set("error", result.error)
-    return redirect(failureUrl.toString())
+    return redirectingWith(importHeaders, failureUrl.toString())
   }
 
   const buildPath = characterUrl(result.buildId, result.buildName)
-  return redirect(new URL(`${buildPath}?tab=character`, origin).toString())
+  return redirectingWith(importHeaders, new URL(`${buildPath}?tab=character`, origin).toString())
 }

@@ -1,4 +1,5 @@
 import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
+import { redirectingWith } from "akasha/temper/build-support/import-redirect/import-redirect.module.code.ts"
 import { buildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import { importCompanionFromHash } from "akasha/temper/web/.server/companion-import/companion-import.module.code.ts"
 import { z } from "zod"
@@ -16,26 +17,18 @@ export async function loader({
 
   const { result, headers: importHeaders } = await importCompanionFromHash(request, buildHash(hash))
 
-  const redirect = (location: string): Response => {
-    const headers = new Headers({ Location: location })
-    for (const cookie of importHeaders.getSetCookie()) {
-      headers.append("Set-Cookie", cookie)
-    }
-    return new Response(null, { status: 302, headers })
-  }
-
   if ("error" in result) {
     if (result.error === "not-authenticated") {
       const returnUrl = `/companion-build/h/${hash}`
       const redirectUrl = new URL("/sign-in", origin)
       redirectUrl.searchParams.set("next", returnUrl)
-      return redirect(redirectUrl.toString())
+      return redirectingWith(importHeaders, redirectUrl.toString())
     }
     const failureUrl = new URL("/companion-builds", origin)
     failureUrl.searchParams.set("error", result.error)
-    return redirect(failureUrl.toString())
+    return redirectingWith(importHeaders, failureUrl.toString())
   }
 
   const buildPath = companionUrl(result.buildId, result.buildName)
-  return redirect(new URL(`${buildPath}?tab=companion`, origin).toString())
+  return redirectingWith(importHeaders, new URL(`${buildPath}?tab=companion`, origin).toString())
 }

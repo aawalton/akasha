@@ -11,6 +11,7 @@ export const temperBuildSupport = {
     "module/build-row",
     "module/build-url",
     "module/eso-name",
+    "module/import-redirect",
     "module/row-grouping",
   ],
   invariants: [
