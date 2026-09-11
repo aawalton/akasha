@@ -38,7 +38,7 @@ export const aranyaOnePackage = {
     {
       statement: "No file names another file by a relative path.",
       workingMemory:
-        '85324 refusals at the start, 3261 now over 124576 files. What is left is seat-system, which churns while agents run and goes last alone, and the seven web apps. 27 of those are react-router `+types` specifiers that must stay relative: each web app tsconfig names `rootDirs: [".", "./.react-router/types"]`, and rootDirs resolves a relative specifier alone. So meeting this intent needs the check to leave `./+types/` alone. Every generator composing a relative specifier is mended; there were three.',
+        "66 refusals over 124566 files, from 85324 at the start. Every hand-written specifier is folded, so all 66 are composer output. Thirteen composers write an import line as text with a relative specifier, not the three recorded here before; five are mended. A patch re-composes a page body, so patchPage un-folded 17 of 4384 pages 45 minutes after the fold. Subagent pages are mortal, so their count is a population rather than a backlog. The check leaves `./+types/` alone, as tsconfig rootDirs needs.",
     },
   ],
 } as const satisfies Initiative
