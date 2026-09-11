@@ -118,41 +118,49 @@ type CtSlider = number & { readonly __ct: "CT_SLIDER" }
 interface WindowManager {
   CreateTopLevelWindow: (name: string) => TopLevelWindow
   CreateControl: ((
+    this: WindowManager,
     name: string | undefined,
     parent: Control | undefined,
     controlType: CtLabel
   ) => LabelControl) &
     ((
+      this: WindowManager,
       name: string | undefined,
       parent: Control | undefined,
       controlType: CtTexture
     ) => TextureControl) &
     ((
+      this: WindowManager,
       name: string | undefined,
       parent: Control | undefined,
       controlType: CtButton
     ) => ButtonControl) &
     ((
+      this: WindowManager,
       name: string | undefined,
       parent: Control | undefined,
       controlType: CtEditBox
     ) => EditControl) &
     ((
+      this: WindowManager,
       name: string | undefined,
       parent: Control | undefined,
       controlType: CtBackdrop
     ) => BackdropControl) &
     ((
+      this: WindowManager,
       name: string | undefined,
       parent: Control | undefined,
       controlType: CtTopLevel
     ) => TopLevelWindow) &
     ((
+      this: WindowManager,
       name: string | undefined,
       parent: Control | undefined,
       controlType: CtSlider
     ) => SliderControl) &
     ((
+      this: WindowManager,
       name: string | undefined,
       parent: Control | undefined,
       controlType: CtControl | CtScroll
