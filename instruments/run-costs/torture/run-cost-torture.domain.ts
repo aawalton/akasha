@@ -1,9 +1,0 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
-
-export const runCostTorture = {
-  id: "01a06860-a0ef-76bb-bd1a-8f8853023f44",
-  pageTypeSlug: "domain",
-  type: "domain",
-  slug: "run-cost-torture",
-  definition: "the cost of a run finishing within fifteen minutes",
-} as const satisfies Domain
