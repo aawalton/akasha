@@ -204,7 +204,7 @@ cmd_list() {
   done <<< "$repos_to_process"
 
   echo ""
-  log "Total tags to delete: ${total_delete}."
+  log "Total tags to delete: ${total_delete}"
 }
 
 cmd_prune() {
