@@ -49,7 +49,7 @@ export const blockSubagentAudit = {
     {
       invariantKind: "departure",
       statement:
-        "A narrowed run judges where it is called, so several of them at once are several audits.",
+        "A narrowed run asks the service like a bare run, so the cost this refusal names is gone.",
     },
     {
       invariantKind: "departure",
