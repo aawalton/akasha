@@ -11,6 +11,7 @@ import type {
 } from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
 import { spelledIn } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import { namedBy } from "akasha/code-system/folder-spelling/folder-spelling.module.code.ts"
 import { runsIn } from "akasha/code-system/path-runs/path-runs.module.code.ts"
 
 const UNDER = "/"
@@ -44,14 +45,6 @@ function emptiedIn(holding: ReadonlySet<string>, gone: readonly string[]): reado
     if (at !== null) found.add(at)
   }
   return [...found].sort()
-}
-
-function namedBy(said: string, folders: readonly string[]): string | null {
-  if (!said.includes(UNDER)) return null
-  for (const at of folders) {
-    if (said === at || said.startsWith(`${at}${UNDER}`)) return at
-  }
-  return null
 }
 
 function tailsIn(said: readonly string[], root: string): readonly string[] {

@@ -64,6 +64,7 @@ export const codeSystem = {
     "domain/editor",
     "module/path-runs",
     "module/script-paths",
+    "module/folder-spelling",
   ],
   invariants: [
     {
