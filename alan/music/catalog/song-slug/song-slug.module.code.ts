@@ -1,4 +1,5 @@
 import { STEM_CEILING } from "akasha/pages/naming/named-for/page-stem/page-stem.module.code.ts"
+import { shortenedToWords } from "../../../../utils/narrow/shortened-to-words/shortened-to-words.module.code.ts"
 
 const FALLBACK_NAME = "untitled"
 
@@ -16,17 +17,6 @@ export function slugifyName(name: string): string {
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-|-$/g, "")
   return slug === "" ? FALLBACK_NAME : slug
-}
-
-export function shortenedToWords(whole: string, ceiling: number): string {
-  if (whole.length <= ceiling) return whole
-  const words = whole.split("-")
-  let out = words[0] ?? ""
-  for (const word of words.slice(1)) {
-    if (out.length + 1 + word.length > ceiling) break
-    out = `${out}-${word}`
-  }
-  return out.length <= ceiling ? out : out.slice(0, ceiling).replace(/-+$/, "")
 }
 
 export function artistSlugOf(name: string): string {

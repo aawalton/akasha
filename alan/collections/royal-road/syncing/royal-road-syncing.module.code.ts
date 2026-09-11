@@ -14,6 +14,7 @@ import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { asking, type Row } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import { shortenedToWords } from "akasha/utils/narrow/shortened-to-words/shortened-to-words.module.code.ts"
 
 const ROOT = akashaRoot()
 const STORY_PAGE_TYPE = "story-read"
@@ -52,17 +53,6 @@ export function slugify(title: string): string {
     .trim()
     .replace(/[\s-]+/g, "-")
     .replace(/^-+|-+$/g, "")
-}
-
-export function shortenedToWords(whole: string, ceiling: number): string {
-  if (whole.length <= ceiling) return whole
-  const words = whole.split("-")
-  let out = words[0] ?? ""
-  for (const word of words.slice(1)) {
-    if (out.length + 1 + word.length > ceiling) break
-    out = `${out}-${word}`
-  }
-  return out.length <= ceiling ? out : out.slice(0, ceiling).replace(/-+$/, "")
 }
 
 export function chapterPageSlug(

@@ -2,7 +2,6 @@ import { describe, expect, test } from "bun:test"
 import {
   artistSlugOf,
   mintSongSlug,
-  shortenedToWords,
   slugifyName,
   songNamesFrom,
   songSlugBase,
@@ -49,20 +48,6 @@ describe("artistSlugOf", () => {
   test("is the artist's name slugged", () => {
     expect(artistSlugOf("The Beatles")).toBe("the-beatles")
     expect(artistSlugOf("Sigur Rós")).toBe("sigur-ros")
-  })
-})
-
-describe("shortenedToWords", () => {
-  test("leaves a name already inside the length alone", () => {
-    expect(shortenedToWords("queen-bohemian-rhapsody", 100)).toBe("queen-bohemian-rhapsody")
-  })
-
-  test("drops whole words rather than parting one", () => {
-    expect(shortenedToWords("queen-bohemian-rhapsody", 16)).toBe("queen-bohemian")
-  })
-
-  test("parts a first word that fills the length on its own", () => {
-    expect(shortenedToWords("supercalifragilistic", 8)).toBe("supercal")
   })
 })
 
