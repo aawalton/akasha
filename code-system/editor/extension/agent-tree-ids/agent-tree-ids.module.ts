@@ -1,4 +1,4 @@
-import type { Module } from "../../../modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const agentTreeIds = {
   id: "01a064d3-f9f8-7c48-8cd9-1747ef827506",
