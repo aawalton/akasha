@@ -68,5 +68,13 @@ export const pageValue = {
       invariantKind: "departure",
       statement: "A body that will not load is told apart from a runtime that cannot load.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A body is answered only where the answer carries that body's own export names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body compiled as another body's code is compiled again rather than answered.",
+    },
   ],
 } as const satisfies Module

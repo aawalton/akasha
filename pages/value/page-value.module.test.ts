@@ -2,7 +2,12 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { loadedFrom, valueAt, valueIn } from "akasha/pages/value/page-value.module.code.ts"
+import {
+  declaredIn,
+  loadedFrom,
+  valueAt,
+  valueIn,
+} from "akasha/pages/value/page-value.module.code.ts"
 import { slugsIn, textsAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const A = "01a04b79-0000-7000-8000-00000000000a"
@@ -16,6 +21,10 @@ test("a body exporting one object is answered with that object", () => {
     id: A,
     slug: "a",
   })
+})
+
+test("a body is answered with what that body exports rather than another body's names", () => {
+  expect(Object.keys(declaredIn(`export const it = { id: "${A}" } as const\n`))).toEqual(["it"])
 })
 
 test("a body that will not load is answered with why rather than by throwing", () => {

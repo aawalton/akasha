@@ -24,6 +24,21 @@ const NAMED = /^[A-Za-z_$][\w$]*$/
 
 const DEFAULT = "default"
 
+const SPINS = 8
+
+const MISREAD =
+  "a body compiled as another body's code, and the compiler held to it over eight tries"
+
+function holdsNames(held: Record<string, unknown>, named: readonly string[]): boolean {
+  if (Object.keys(held).length !== named.length) return false
+  return named.every((one) => Object.hasOwn(held, one))
+}
+
+function madeFrom(source: string, spun: number): Record<string, unknown> {
+  const said = spun === 0 ? source : `${source}\n//${"/".repeat(spun)}`
+  return new Function(said)() as Record<string, unknown>
+}
+
 function firstValueIn(declared: Record<string, unknown>): Value | null {
   for (const one of Object.values(declared)) {
     if (one !== null && typeof one === "object" && !Array.isArray(one)) return one as Value
@@ -40,7 +55,12 @@ export function declaredIn(body: string): Record<string, unknown> {
   const on = transpiler()
   const named = on.scan(body).exports.filter((one) => one !== DEFAULT && NAMED.test(one))
   const js = on.transformSync(body).replace(EXPORTED, "")
-  return new Function(`${js}\nreturn {${named.join(",")}}`)() as Record<string, unknown>
+  const source = `${js}\nreturn {${named.join(",")}}`
+  for (let spun = 0; spun < SPINS; spun += 1) {
+    const held = madeFrom(source, spun)
+    if (holdsNames(held, named)) return held
+  }
+  throw new Error(MISREAD)
 }
 
 export function loadedFrom(body: string): Loaded {
