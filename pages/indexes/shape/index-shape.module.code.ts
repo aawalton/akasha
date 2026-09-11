@@ -7,6 +7,7 @@ export type Reading = {
   readonly holds: (at: string) => boolean
   readonly listing: (at: string) => readonly Child[]
   readonly lines: (at: string) => readonly string[]
+  readonly read: (path: string) => string | null
 }
 
 export type Filing = {

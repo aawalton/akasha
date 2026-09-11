@@ -98,6 +98,7 @@ export function counting(root: string, held: Shadow, asked: () => undefined): Sh
       return base.listing(at)
     },
     lines: (at) => base.lines(at),
+    read: (path) => base.read(path),
   }
   return {
     index: answeringOver(reading, (path) => held.pageOf(path)),

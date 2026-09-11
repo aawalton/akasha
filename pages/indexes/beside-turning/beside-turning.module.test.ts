@@ -53,6 +53,7 @@ const READING: Reading = {
     }
     return at === PATHS ? [PAGE, BESIDE] : []
   },
+  read: () => null,
 }
 
 function besidesOf(values: readonly Held[]): Besides {

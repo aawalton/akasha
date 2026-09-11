@@ -115,6 +115,7 @@ const ONE_FILE = {
   holds: () => true,
   listing: () => [],
   lines: (at: string) => (at === AT ? ['{"a":1}', '{"b":1}'] : []),
+  read: () => null,
 }
 
 test("a filing is answered as the body the entry file would hold, under its own path", () => {

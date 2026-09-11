@@ -348,6 +348,7 @@ const HANDED: Reading = {
   holds: (at) => at === "",
   listing: () => [],
   lines: () => ["akasha/held.ts"],
+  read: () => null,
 }
 
 test("a reading handed in says which files stand, so a check may ask of the index it will leave", () => {
@@ -361,7 +362,12 @@ test("a body that will not open refuses the check reading it rather than reading
   expect(() => onDisk(root)("a.ts")).toThrow("ELOOP")
 })
 
-const HANDED_COLD: Reading = { holds: () => false, listing: () => [], lines: () => [] }
+const HANDED_COLD: Reading = {
+  holds: () => false,
+  listing: () => [],
+  lines: () => [],
+  read: () => null,
+}
 
 test("a reading handed in that stands nowhere is refused as a root standing nowhere is", () => {
   expect(() => everyFileIn(HANDED_COLD)).toThrow("could not be answered")

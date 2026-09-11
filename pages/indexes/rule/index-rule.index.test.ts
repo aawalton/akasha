@@ -44,6 +44,7 @@ function readingOf(lines: Readonly<Record<string, readonly string[]>>): Reading 
     holds: (at) => at === "" || Object.keys(lines).some((one) => one.startsWith(at)),
     listing: () => [],
     lines: (at) => lines[at] ?? [],
+    read: () => null,
   }
 }
 

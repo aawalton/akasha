@@ -1,7 +1,8 @@
-import { existsSync, readdirSync, readFileSync } from "node:fs"
+import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
 import { INDEXES, storeAt } from "akasha/files/git-place/git-place.module.code.ts"
 import type { Child, Filing, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
 
 const ROOT = ""
 
@@ -18,16 +19,11 @@ export function indexAt(indexName: string, ...parts: readonly string[]): string 
 }
 
 function linesOf(at: string): readonly string[] {
-  try {
-    return readFileSync(at, "utf8")
-      .split("\n")
-      .filter((one) => one !== "")
-  } catch {
-    return []
-  }
+  const body = textThere(at)
+  return body === null ? [] : body.split("\n").filter((one) => one !== "")
 }
 
-export function readingAt(index: string): Reading {
+export function readingAt(index: string, repo: string | null = null): Reading {
   const held = new Map<string, readonly string[]>()
   return {
     holds: (at) => existsSync(join(index, at)),
@@ -48,6 +44,7 @@ export function readingAt(index: string): Reading {
       held.set(at, made)
       return made
     },
+    read: (path) => (repo === null ? null : textThere(join(repo, path))),
   }
 }
 
@@ -56,11 +53,12 @@ export function readingNone(): Reading {
     holds: (at) => at === "",
     listing: () => [],
     lines: () => [],
+    read: () => null,
   }
 }
 
-export function readingOf(given: string | Reading): Reading {
-  return typeof given === "string" ? readingAt(given) : given
+export function readingOf(given: string | Reading, repo: string | null = null): Reading {
+  return typeof given === "string" ? readingAt(given, repo) : given
 }
 
 export function beneath(at: string, name: string): string {
@@ -206,6 +204,7 @@ export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading 
   const laying: Reading = {
     holds: holds,
     lines: linesAt,
+    read: (path) => base.read(path),
     listing: (at) => {
       const found = new Map<string, boolean>()
       for (const one of base.listing(at)) found.set(one.name, one.directory)

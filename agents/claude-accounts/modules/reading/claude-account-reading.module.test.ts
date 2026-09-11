@@ -141,6 +141,10 @@ function counting(root: string): { readonly reading: Reading; readonly seen: str
       seen.push(`lines ${at}`)
       return real.lines(at)
     },
+    read: (path: string): string | null => {
+      seen.push(`read ${path}`)
+      return real.read(path)
+    },
   }
   return { reading, seen }
 }

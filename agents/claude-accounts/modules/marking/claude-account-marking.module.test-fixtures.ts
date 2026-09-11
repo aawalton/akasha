@@ -292,6 +292,10 @@ export function counting(root: string): Counted {
         seen.push(`lines ${at}`)
         return real.lines(at)
       },
+      read: (path: string): string | null => {
+        seen.push(`read ${path}`)
+        return real.read(path)
+      },
     },
     seen,
   }

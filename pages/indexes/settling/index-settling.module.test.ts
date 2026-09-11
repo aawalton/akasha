@@ -35,6 +35,7 @@ const ONE_FILE = {
   holds: () => true,
   listing: () => [],
   lines: (at: string) => (at === "one.jsonl" ? ["a", "b"] : []),
+  read: () => null,
 }
 
 test("a filing leaving a file's lines as they were answers no filing", () => {

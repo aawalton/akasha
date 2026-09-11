@@ -5,13 +5,13 @@ export const indexSurface = {
   type: "module",
   slug: "index-surface",
   definition:
-    "the three reads an index answers, and one reading laid over another so a change is read unwritten",
+    "the reads a reading answers, and one reading laid over another so a change is read unwritten",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An index is read by three operations and no more operations.",
+      statement: "A reading is read by four operations and no more operations.",
     },
     {
       invariantKind: "departure",
@@ -24,6 +24,19 @@ export const indexSurface = {
     {
       invariantKind: "departure",
       statement: "One operation answers the lines an entry file has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One operation answers the body a file in the repository holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The first three take a path under the index, and the fourth a path under the repository.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading built over no repository answers no body.",
     },
     {
       invariantKind: "departure",
@@ -98,8 +111,12 @@ export const indexSurface = {
       statement: "Nothing here writes.",
     },
     {
+      invariantKind: "departure",
+      statement: "A body is read whole rather than as lines, and is held in no copy.",
+    },
+    {
       invariantKind: "absence",
-      statement: "Nothing here reads a page body.",
+      statement: "Nothing here loads a body as a value.",
     },
     {
       invariantKind: "departure",

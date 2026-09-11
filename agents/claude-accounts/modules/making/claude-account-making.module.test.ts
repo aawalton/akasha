@@ -25,6 +25,9 @@ const UNREAD: Reading = {
   lines: () => {
     throw new Error("the index was read")
   },
+  read: () => {
+    throw new Error("the index was read")
+  },
 }
 
 const uncalled: Landing = () => {

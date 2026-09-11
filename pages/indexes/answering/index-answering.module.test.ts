@@ -194,7 +194,12 @@ test("a question is answered from the reading bound rather than from the index a
   expect(everyPath(root)).not.toContain(LAID_AT)
 })
 
-const COLD: Reading = { holds: () => false, listing: () => [], lines: () => [] }
+const COLD: Reading = {
+  holds: () => false,
+  listing: () => [],
+  lines: () => [],
+  read: () => null,
+}
 
 test("no question falls back to the index at a root, even one handed in for something else", () => {
   const root = seeded()

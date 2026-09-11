@@ -211,6 +211,7 @@ export function shadowAsked(change: Change): Shadow {
     holds: (at) => worked().reading.holds(at),
     listing: (at) => worked().reading.listing(at),
     lines: (at) => worked().reading.lines(at),
+    read: (path) => worked().reading.read(path),
   }
   const pageOf = (path: string): Value | null => worked().shadow.pageOf(path)
   return {

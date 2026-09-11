@@ -12,6 +12,7 @@ import {
   INDEX_AT,
   indexAt,
   indexIn,
+  readingAt,
   readingOf,
 } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
@@ -61,7 +62,7 @@ export function indexThere(given: string | Reading): boolean {
 }
 
 export function readingIn(given: string | Reading): Reading {
-  return readingOf(typeof given === "string" ? indexIn(given) : given)
+  return typeof given === "string" ? readingAt(indexIn(given), given) : given
 }
 
 export function answered<T>(
