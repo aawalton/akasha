@@ -1,9 +1,6 @@
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import { CALLSTACK_MAX_LEN } from "akasha/temper/errors-addon/errors-addon-limits/errors-addon-limits.module.code.ts"
-
-export function matchedText(matched: unknown): string | null {
-  return typeof matched === "string" ? matched : null
-}
+import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 
 export function sanitizeTraceback(traceback: string): string {
   const [stripped] = string.gsub(traceback, "%s*<Locals>.-</Locals>", "")
@@ -15,8 +12,8 @@ export function sanitizeTraceback(traceback: string): string {
 
 export function splitTraceback(errorString: string): { message: string; traceback: string } {
   const [messagePart, tracebackBody] = string.match(errorString, "(.+)\nstack traceback:(.+)")
-  const message = matchedText(messagePart)
-  const traceback = matchedText(tracebackBody)
+  const message = stringIn(messagePart)
+  const traceback = stringIn(tracebackBody)
   if (message !== null && traceback !== null) {
     return { message, traceback: sanitizeTraceback(`stack traceback:${traceback}`) }
   }
@@ -25,7 +22,7 @@ export function splitTraceback(errorString: string): { message: string; tracebac
 
 function hasVisibleContent(text: string): boolean {
   const [visible] = string.match(text, "%S")
-  return matchedText(visible) !== null
+  return stringIn(visible) !== null
 }
 
 function handlerSideStack(): string {

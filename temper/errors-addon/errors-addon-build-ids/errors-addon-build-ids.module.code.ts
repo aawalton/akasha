@@ -1,5 +1,5 @@
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { matchedText } from "akasha/temper/errors-addon/errors-addon-traceback/errors-addon-traceback.module.code.ts"
+import { stringIn } from "akasha/utils/narrow/string-in/string-in.module.code.ts"
 
 interface BuildIdHolder {
   TemperBuildIds?: Record<string, string>
@@ -16,7 +16,7 @@ function buildIdRegistry(): Record<string, string> | undefined {
 function addonFrameFolders(traceback: string): string[] {
   const folders: string[] = []
   for (const [folder] of string.gmatch(traceback, "user:/AddOns/([^/]+)/")) {
-    const parsed = matchedText(folder)
+    const parsed = stringIn(folder)
     if (parsed !== null) {
       folders[folders.length] = parsed
     }
