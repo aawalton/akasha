@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const likeALionSheLeapt = {
   id: "01a0657d-023f-7f8b-9ffa-39321cd963f2",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "like-a-lion-she-leapt",
   title: "Like a Lion, She Leapt",

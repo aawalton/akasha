@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const executiveAuthorityContracts = {
   id: "01a06575-9809-7d7b-ac2d-907b8b5c18c0",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "executive-authority-contracts",
   title: "Executive Authority: Contracts",

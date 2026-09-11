@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const freeUpgradePlumbing = {
   id: "01a06575-9810-72fd-9774-a14fbad3ca75",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "free-upgrade-plumbing",
   title: "Free Upgrade (Plumbing)",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const inertStirringRod = {
   id: "01a06575-981e-77c6-9a3d-c408885db352",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "inert-stirring-rod",
   title: "Inert Stirring Rod",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const grandActReforgeMyShatteredSoul = {
   id: "01a06575-9816-775b-9289-d0581d94057e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "grand-act-reforge-my-shattered-soul",
   title: "Grand Act: Reforge My Shattered Soul",

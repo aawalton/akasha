@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const launchStep = {
   id: "01a06575-9822-79ef-b969-de78a3b2e42c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "launch-step",
   title: "Launch Step",

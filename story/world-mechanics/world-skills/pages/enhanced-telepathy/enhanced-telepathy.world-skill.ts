@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const enhancedTelepathy = {
   id: "01a06575-9809-724a-910d-0f8e4f7e205c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "enhanced-telepathy",
   title: "Enhanced Telepathy",

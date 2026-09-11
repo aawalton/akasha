@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const invisibleGuard = {
   id: "01a06575-9820-7067-946e-85ea113051a8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "invisible-guard",
   title: "Invisible Guard",

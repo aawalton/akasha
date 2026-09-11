@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const lawOfTheLucifenHellbound = {
   id: "01a06575-9822-789e-9d30-bb4ff6bc1b10",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "law-of-the-lucifen-hellbound",
   title: "Law of the Lucifen: Hellbound",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const inklessFur = {
   id: "01a06575-981e-7f58-914f-caceee22733d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "inkless-fur",
   title: "Inkless Fur",

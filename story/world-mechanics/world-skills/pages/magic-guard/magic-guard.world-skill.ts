@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const magicGuard = {
   id: "01a0657d-0241-7f1d-abfa-7d0b2e8214d7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "magic-guard",
   title: "Magic Guard",

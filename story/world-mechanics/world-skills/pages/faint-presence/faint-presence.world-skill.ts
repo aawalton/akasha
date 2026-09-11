@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const faintPresence = {
   id: "01a06575-980b-7233-80be-dde163182b40",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "faint-presence",
   title: "Faint Presence",

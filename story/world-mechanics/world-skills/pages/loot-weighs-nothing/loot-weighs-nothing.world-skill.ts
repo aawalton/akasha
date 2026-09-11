@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const lootWeighsNothing = {
   id: "01a0657d-0241-7022-8c0f-3f5d6fa95295",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "loot-weighs-nothing",
   title: "Loot Weighs Nothing",

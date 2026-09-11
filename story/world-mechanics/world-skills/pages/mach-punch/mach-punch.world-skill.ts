@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const machPunch = {
   id: "01a0657d-0241-777f-af8d-a61c3923680c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "mach-punch",
   title: "Mach Punch",

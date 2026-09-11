@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const friendAndFoeVision = {
   id: "01a06575-9811-7d9c-a93b-bea92894ee9e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "friend-and-foe-vision",
   title: "Friend-And-Foe Vision",

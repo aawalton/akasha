@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const energeticVoice = {
   id: "01a06575-9808-7903-a6b1-369dd65edced",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "energetic-voice",
   title: "Energetic Voice",

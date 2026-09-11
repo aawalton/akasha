@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const haltAction = {
   id: "01a06575-9818-75e8-9b4d-37b037beadd3",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "halt-action",
   title: "Halt Action",

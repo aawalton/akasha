@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const insultToInjury = {
   id: "01a06575-981f-7e73-9de0-71965c4ead3c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "insult-to-injury",
   title: "Insult to Injury",

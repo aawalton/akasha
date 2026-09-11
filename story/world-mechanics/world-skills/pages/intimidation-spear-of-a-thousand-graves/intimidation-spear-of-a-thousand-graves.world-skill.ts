@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const intimidationSpearOfAThousandGraves = {
   id: "01a06575-9820-7cfb-9bfb-b2c28b614ae8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "intimidation-spear-of-a-thousand-graves",
   title: "Intimidation: Spear of a Thousand Graves",

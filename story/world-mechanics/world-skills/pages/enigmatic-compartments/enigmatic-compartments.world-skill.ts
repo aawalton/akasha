@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const enigmaticCompartments = {
   id: "01a06575-9809-729d-9945-7456a9652f8f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "enigmatic-compartments",
   title: "Enigmatic Compartments",

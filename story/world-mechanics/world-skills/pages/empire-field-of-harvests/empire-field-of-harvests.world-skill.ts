@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const empireFieldOfHarvests = {
   id: "01a06575-9807-7a68-884d-445a949e09ef",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "empire-field-of-harvests",
   title: "Empire: Field of Harvests",

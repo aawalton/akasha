@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const formationAnchorsOfLead = {
   id: "01a06575-9810-702d-b968-311e15452768",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "formation-anchors-of-lead",
   title: "Formation: Anchors of Lead",

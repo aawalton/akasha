@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const instantDuck = {
   id: "01a06575-981f-7ba5-81d8-4c472fbaee37",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "instant-duck",
   title: "Instant Duck",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const greatEnemyGoblin = {
   id: "01a06575-9816-7e0e-8a56-b8487d536d7b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "great-enemy-goblin",
   title: "Great Enemy: Goblin",

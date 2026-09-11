@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const enforceOrders = {
   id: "01a06575-9808-7dcd-827b-87ad951290ab",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "enforce-orders",
   title: "Enforce Orders",

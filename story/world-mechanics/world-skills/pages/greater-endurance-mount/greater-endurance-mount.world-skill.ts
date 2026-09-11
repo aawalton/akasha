@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const greaterEnduranceMount = {
   id: "01a06575-9817-731e-9a6a-d1a1fb552764",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "greater-endurance-mount",
   title: "Greater Endurance: Mount",

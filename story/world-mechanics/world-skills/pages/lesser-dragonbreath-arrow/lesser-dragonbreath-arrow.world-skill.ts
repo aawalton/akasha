@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const lesserDragonbreathArrow = {
   id: "01a06575-9822-7a88-9ae5-6f3a1375d07c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "lesser-dragonbreath-arrow",
   title: "Lesser Dragonbreath Arrow",

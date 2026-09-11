@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const empireArtOfTheBuilder = {
   id: "01a06575-9807-751f-a4dd-d5d5328e82f1",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "empire-art-of-the-builder",
   title: "Empire: Art of the Builder",

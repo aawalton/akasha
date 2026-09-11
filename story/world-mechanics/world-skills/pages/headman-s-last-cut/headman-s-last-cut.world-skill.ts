@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const headmanSLastCut = {
   id: "01a06575-9818-7b1a-9bc1-65dd6d7cc6fd",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "headman-s-last-cut",
   title: "Headman’s Last Cut",

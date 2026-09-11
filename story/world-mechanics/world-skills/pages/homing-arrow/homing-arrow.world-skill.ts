@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const homingArrow = {
   id: "01a06575-981a-799d-87d9-530c88aec2e0",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "homing-arrow",
   title: "Homing Arrow",

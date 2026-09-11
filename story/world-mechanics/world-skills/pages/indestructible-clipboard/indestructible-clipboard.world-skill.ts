@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const indestructibleClipboard = {
   id: "01a06575-981e-78f3-996c-cd3e341587d0",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "indestructible-clipboard",
   title: "Indestructible Clipboard",

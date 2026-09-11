@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const lockDocument = {
   id: "01a0657d-0240-7fde-b2e2-e62e85713a82",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "lock-document",
   title: "Lock Document",

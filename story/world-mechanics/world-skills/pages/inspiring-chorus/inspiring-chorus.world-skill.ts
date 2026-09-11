@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const inspiringChorus = {
   id: "01a06575-981f-72db-9904-da51b307a031",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "inspiring-chorus",
   title: "Inspiring Chorus",

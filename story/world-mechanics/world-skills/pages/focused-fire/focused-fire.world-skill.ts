@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const focusedFire = {
   id: "01a06575-980f-763e-b1cd-d055db7d5b4f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "focused-fire",
   title: "Focused Fire",

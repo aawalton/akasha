@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const furyStrength = {
   id: "01a06575-9811-76b7-b662-a30c6d496420",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "fury-strength",
   title: "Fury Strength",

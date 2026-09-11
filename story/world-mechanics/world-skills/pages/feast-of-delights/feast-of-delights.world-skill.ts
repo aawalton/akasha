@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const feastOfDelights = {
   id: "01a06575-980c-7d76-83d3-4ca4a27aef3d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "feast-of-delights",
   title: "Feast of Delights",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const greaterFrostResistance = {
   id: "01a06575-9817-78f6-87c8-a53f4fbaf014",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "greater-frost-resistance",
   title: "Greater Frost Resistance",

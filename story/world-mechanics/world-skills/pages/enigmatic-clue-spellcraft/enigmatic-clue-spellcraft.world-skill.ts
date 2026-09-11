@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const enigmaticClueSpellcraft = {
   id: "01a06575-9809-7c36-b766-0dfd44cabc30",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "enigmatic-clue-spellcraft",
   title: "Enigmatic Clue: Spellcraft",

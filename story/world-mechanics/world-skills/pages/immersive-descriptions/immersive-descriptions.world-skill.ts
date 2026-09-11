@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const immersiveDescriptions = {
   id: "01a06575-981c-75b4-b298-af4239e2f7ab",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "immersive-descriptions",
   title: "Immersive Descriptions",

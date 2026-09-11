@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const encoreSkill = {
   id: "01a06575-9808-7cba-9943-3dfb557b6838",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "encore-skill",
   title: "Encore Skill",

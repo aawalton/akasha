@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const everythingHasAPrice = {
   id: "01a06575-9809-7c7f-9d23-30bc4f8e6f82",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "everything-has-a-price",
   title: "Everything Has a Price",

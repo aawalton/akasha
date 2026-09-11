@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const fortifiedShields = {
   id: "01a06575-9810-78eb-83d9-2cb446f512d4",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "fortified-shields",
   title: "Fortified Shields",

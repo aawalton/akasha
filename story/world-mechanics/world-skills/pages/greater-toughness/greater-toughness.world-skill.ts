@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const greaterToughness = {
   id: "01a06575-9817-723c-8ec3-3bc6b266dbd7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "greater-toughness",
   title: "Greater Toughness",

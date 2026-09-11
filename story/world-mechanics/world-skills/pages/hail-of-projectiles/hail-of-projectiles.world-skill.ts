@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const hailOfProjectiles = {
   id: "01a06575-9818-74a0-9355-ab71f471039d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "hail-of-projectiles",
   title: "Hail of Projectiles",

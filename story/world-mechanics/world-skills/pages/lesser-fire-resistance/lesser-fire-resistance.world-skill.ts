@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const lesserFireResistance = {
   id: "01a06575-9822-7635-a7ed-6513f51929cb",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "lesser-fire-resistance",
   title: "Lesser Fire Resistance",

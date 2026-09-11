@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const longRangeRepair = {
   id: "01a0657d-0240-7e6d-9dc6-f73e95d107a7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "long-range-repair",
   title: "Long-Range Repair",

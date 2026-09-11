@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const increasedIncome = {
   id: "01a06575-981e-75d9-bc42-45de90fe9791",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "increased-income",
   title: "Increased Income",

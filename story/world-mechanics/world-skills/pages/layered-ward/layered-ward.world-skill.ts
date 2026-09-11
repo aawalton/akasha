@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const layeredWard = {
   id: "01a06575-9822-7cde-825d-c7c6376f0ca4",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "layered-ward",
   title: "Layered Ward",

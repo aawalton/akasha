@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const garden = {
   id: "01a06575-9814-7cbf-a210-a46f945964d0",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "garden",
   title: "Garden",

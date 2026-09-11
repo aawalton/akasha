@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const keepThoseCamerasRolling = {
   id: "01a06575-9821-7229-b580-9ed54468371e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "keep-those-cameras-rolling",
   title: "Keep Those Cameras Rolling",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const holdUntilTheLast = {
   id: "01a06575-981a-7e73-af06-d1e03098062d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "hold-until-the-last",
   title: "Hold Until The Last",

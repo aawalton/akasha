@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const giveMeYourBest = {
   id: "01a06575-9815-7bd0-9087-44d91729ac9e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "give-me-your-best",
   title: "Give Me Your Best",

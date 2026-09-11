@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const increasedStatGain = {
   id: "01a06575-981e-742c-b5ca-6fd926a6e819",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "increased-stat-gain",
   title: "Increased Stat Gain",

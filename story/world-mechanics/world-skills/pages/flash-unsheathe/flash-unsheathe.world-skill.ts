@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const flashUnsheathe = {
   id: "01a06575-980e-7a86-b11e-c26666e07d2c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "flash-unsheathe",
   title: "Flash Unsheathe",

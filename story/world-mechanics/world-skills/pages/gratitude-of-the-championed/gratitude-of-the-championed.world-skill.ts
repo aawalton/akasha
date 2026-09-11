@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const gratitudeOfTheChampioned = {
   id: "01a06575-9816-7550-8d81-3b32449ca125",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "gratitude-of-the-championed",
   title: "Gratitude of the Championed",

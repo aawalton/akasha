@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const foragerSSenses = {
   id: "01a06575-980f-71c9-8d89-0a29edb9d19e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "forager-s-senses",
   title: "Forager’s Senses",

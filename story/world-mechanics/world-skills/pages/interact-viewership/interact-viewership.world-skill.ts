@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const interactViewership = {
   id: "01a06575-9820-7ca0-bad6-47bf2c487351",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "interact-viewership",
   title: "Interact: Viewership",

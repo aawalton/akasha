@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const fastGrowth = {
   id: "01a06575-980b-7c34-8c8e-f2d21429acb8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "fast-growth",
   title: "Fast Growth",

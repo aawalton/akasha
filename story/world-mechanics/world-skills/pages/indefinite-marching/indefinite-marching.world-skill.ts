@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const indefiniteMarching = {
   id: "01a06575-981e-7a66-a8be-07684ce2b0e4",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "indefinite-marching",
   title: "Indefinite Marching",

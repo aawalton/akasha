@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const longRangedVolley = {
   id: "01a0657d-0240-70b0-bafb-1957afc2092d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "long-ranged-volley",
   title: "Long-Ranged Volley",

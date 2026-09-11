@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const giftOfFriendshipSharperScents = {
   id: "01a06575-9815-77ea-b92a-b4aa6f442462",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "gift-of-friendship-sharper-scents",
   title: "Gift of Friendship: Sharper Scents",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const heLeftPrideInHisWake = {
   id: "01a06575-9818-796f-8b06-65db83e6d680",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "he-left-pride-in-his-wake",
   title: "He Left Pride in His Wake",

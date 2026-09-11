@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const iMAsGoodAsYouAre = {
   id: "01a06575-981c-7bc0-a7ad-cdcb728b3993",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "i-m-as-good-as-you-are",
   title: "I’m As Good As You Are",

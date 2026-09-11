@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const evasiveDive = {
   id: "01a06575-9809-7db9-9184-9a3a2bdcfeae",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "evasive-dive",
   title: "Evasive Dive",

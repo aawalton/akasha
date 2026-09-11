@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const lancingHydrastrike = {
   id: "01a06575-9821-754d-b7bc-0b0d91c9500b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "lancing-hydrastrike",
   title: "Lancing Hydrastrike",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const highlightForageables = {
   id: "01a06575-981a-795b-8c42-ef63ae4f3083",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "highlight-forageables",
   title: "Highlight Forageables",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const hourOfTheSecretary = {
   id: "01a06575-981a-7ff0-a006-dab7c9b6b234",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "hour-of-the-secretary",
   title: "Hour of the Secretary",

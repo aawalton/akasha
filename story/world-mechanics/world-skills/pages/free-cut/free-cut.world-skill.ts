@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const freeCut = {
   id: "01a06575-9810-7785-a6d5-b166dd63c003",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "free-cut",
   title: "Free Cut",

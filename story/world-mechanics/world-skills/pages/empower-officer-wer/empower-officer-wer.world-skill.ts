@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const empowerOfficerWer = {
   id: "01a06575-9808-76c5-935d-a15db6597bcd",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "empower-officer-wer",
   title: "Empower Officer: Wer",

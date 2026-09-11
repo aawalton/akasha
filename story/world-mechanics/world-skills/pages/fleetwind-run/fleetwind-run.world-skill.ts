@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const fleetwindRun = {
   id: "01a06575-980e-7a85-ac0f-ef490c585994",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "fleetwind-run",
   title: "Fleetwind Run",

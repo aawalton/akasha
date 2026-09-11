@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const ignoreAuthority = {
   id: "01a06575-981c-7ade-878b-ae4b3ae11bd8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "ignore-authority",
   title: "Ignore Authority",

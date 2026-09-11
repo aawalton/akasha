@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const eyesOfTheBanditLord = {
   id: "01a06575-980b-7ef8-b51e-f5b42982d57b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "eyes-of-the-bandit-lord",
   title: "Eyes of the Bandit Lord",

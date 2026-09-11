@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const instantRetributionThreat = {
   id: "01a06575-981f-7895-ab8d-30d865c1eec2",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "instant-retribution-threat",
   title: "Instant Retribution: Threat",

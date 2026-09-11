@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const frozenQuickshape = {
   id: "01a06575-9811-7c10-9be6-f49c73fff9ff",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "frozen-quickshape",
   title: "Frozen Quickshape",

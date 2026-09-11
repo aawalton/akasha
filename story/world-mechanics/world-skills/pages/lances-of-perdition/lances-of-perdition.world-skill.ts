@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const lancesOfPerdition = {
   id: "01a06575-9821-7eeb-979b-fa8f06ad9ddb",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "lances-of-perdition",
   title: "Lances of Perdition",

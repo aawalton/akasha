@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const heronSWingSlash = {
   id: "01a06575-9819-7772-bec4-de12368c6202",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "heron-s-wing-slash",
   title: "Heron’s Wing Slash",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const incredibleAdhesive = {
   id: "01a06575-981e-7fdb-bf17-de3eb61651a9",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "incredible-adhesive",
   title: "Incredible Adhesive",

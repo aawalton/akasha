@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const journalismUnderFireEmergencyProtection = {
   id: "01a06575-9820-7197-b57b-3766f6164ed3",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "journalism-under-fire-emergency-protection",
   title: "Journalism Under Fire: Emergency Protection",

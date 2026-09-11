@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const iGrewWithEveryBite = {
   id: "01a06575-981b-7587-961e-887dc5532af0",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "i-grew-with-every-bite",
   title: "I Grew With Every Bite",

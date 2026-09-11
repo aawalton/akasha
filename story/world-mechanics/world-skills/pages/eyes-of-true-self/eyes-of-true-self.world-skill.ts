@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const eyesOfTrueSelf = {
   id: "01a06575-980b-7572-8061-0226432e64c1",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "eyes-of-true-self",
   title: "Eyes of True Self",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const greaterResistanceMental = {
   id: "01a06575-9817-7de1-91e2-643c70b7dc1e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "greater-resistance-mental",
   title: "Greater Resistance: Mental",

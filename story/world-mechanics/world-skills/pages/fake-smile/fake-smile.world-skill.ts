@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const fakeSmile = {
   id: "01a06575-980b-749c-9927-41f4d1339e3f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "fake-smile",
   title: "Fake Smile",

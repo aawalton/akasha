@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const kitchenDelivery = {
   id: "01a06575-9821-7aa5-932e-fe5e9de7a414",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "kitchen-delivery",
   title: "Kitchen Delivery",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const improvedBracing = {
   id: "01a06575-981e-7cd3-92db-dac9d3a6dbe6",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "improved-bracing",
   title: "Improved Bracing",

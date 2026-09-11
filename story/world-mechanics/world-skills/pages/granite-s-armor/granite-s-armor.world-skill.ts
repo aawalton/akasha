@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const graniteSArmor = {
   id: "01a06575-9816-763a-a9b4-95fb0a3db4bc",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "granite-s-armor",
   title: "Granite’s Armor",

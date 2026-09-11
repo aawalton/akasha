@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const lesserBondFrostwing = {
   id: "01a06575-9822-7d35-ac1f-0fc3701d19c3",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "lesser-bond-frostwing",
   title: "Lesser Bond: Frostwing",

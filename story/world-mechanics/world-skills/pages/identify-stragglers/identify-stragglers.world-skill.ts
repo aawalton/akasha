@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const identifyStragglers = {
   id: "01a06575-981c-78d5-9e19-eb948c7f79de",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "identify-stragglers",
   title: "Identify Stragglers",

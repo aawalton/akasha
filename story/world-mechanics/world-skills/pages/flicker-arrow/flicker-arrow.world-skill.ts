@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const flickerArrow = {
   id: "01a06575-980e-769b-884e-d9d48fc628d0",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "flicker-arrow",
   title: "Flicker Arrow",

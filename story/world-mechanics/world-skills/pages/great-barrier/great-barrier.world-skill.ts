@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const greatBarrier = {
   id: "01a06575-9816-78fa-9bb2-b002197cdcd9",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "great-barrier",
   title: "Great Barrier",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const fangsOfTheDireWolf = {
   id: "01a06575-980b-7387-853f-675d7c063f12",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "fangs-of-the-dire-wolf",
   title: "Fangs of the Dire Wolf",

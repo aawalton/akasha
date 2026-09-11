@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const frozenStorage = {
   id: "01a06575-9811-74fc-a5d6-dc6a5d0e97e8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "frozen-storage",
   title: "Frozen Storage",

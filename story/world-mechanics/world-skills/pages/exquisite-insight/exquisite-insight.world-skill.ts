@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const exquisiteInsight = {
   id: "01a06575-980a-775e-95cb-c1e6b1b6b561",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "exquisite-insight",
   title: "Exquisite Insight",

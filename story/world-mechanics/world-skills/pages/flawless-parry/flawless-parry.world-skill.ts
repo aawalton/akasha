@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const flawlessParry = {
   id: "01a06575-980e-7216-b1f6-be26b5409ec6",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "flawless-parry",
   title: "Flawless Parry",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const flashKick = {
   id: "01a06575-980d-748e-9382-2e50494a021f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "flash-kick",
   title: "Flash Kick",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const forewarningMonsters = {
   id: "01a06575-9810-7d24-8936-d556306c922c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "forewarning-monsters",
   title: "Forewarning: Monsters",

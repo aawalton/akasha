@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const lifeshardAmmunition = {
   id: "01a0657d-023a-70ed-9666-98626b620758",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "lifeshard-ammunition",
   title: "Lifeshard Ammunition",

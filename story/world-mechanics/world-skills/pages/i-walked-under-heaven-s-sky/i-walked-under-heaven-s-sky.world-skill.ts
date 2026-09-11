@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const iWalkedUnderHeavenSSky = {
   id: "01a06575-981c-7f58-8d5b-325d1dabe7d7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "i-walked-under-heaven-s-sky",
   title: "I Walked Under Heaven’s Sky",

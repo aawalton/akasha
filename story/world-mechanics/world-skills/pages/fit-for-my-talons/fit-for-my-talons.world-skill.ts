@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const fitForMyTalons = {
   id: "01a06575-980d-7263-93ca-0e73381da9b6",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "fit-for-my-talons",
   title: "Fit For My Talons",

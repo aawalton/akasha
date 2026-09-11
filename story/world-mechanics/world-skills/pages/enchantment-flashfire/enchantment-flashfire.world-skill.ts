@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const enchantmentFlashfire = {
   id: "01a06575-9808-76c6-b501-adaafff23ffd",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "enchantment-flashfire",
   title: "Enchantment: Flashfire",

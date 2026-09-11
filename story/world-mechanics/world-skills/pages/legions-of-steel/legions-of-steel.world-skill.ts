@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const legionsOfSteel = {
   id: "01a06575-9822-7fc5-835f-b68f4d02c292",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "legions-of-steel",
   title: "Legions of Steel",

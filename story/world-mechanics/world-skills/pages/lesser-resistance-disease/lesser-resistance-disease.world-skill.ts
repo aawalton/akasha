@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const lesserResistanceDisease = {
   id: "01a06575-9823-7514-b832-0fbffd6bef99",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "lesser-resistance-disease",
   title: "Lesser Resistance: Disease",

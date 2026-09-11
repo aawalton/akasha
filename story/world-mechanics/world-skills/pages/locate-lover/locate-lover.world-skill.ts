@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const locateLover = {
   id: "01a0657d-0240-78cc-b788-a879f44d497d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "locate-lover",
   title: "Locate Lover",

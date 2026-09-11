@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const exhaustiveMemory = {
   id: "01a06575-9809-7e94-a968-eea719bd7e64",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "exhaustive-memory",
   title: "Exhaustive Memory",

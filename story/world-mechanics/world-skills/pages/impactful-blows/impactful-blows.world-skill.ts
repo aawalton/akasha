@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const impactfulBlows = {
   id: "01a06575-981d-744a-935f-1002635e71ec",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "impactful-blows",
   title: "Impactful Blows",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const heartyServingRejuvenation = {
   id: "01a06575-9819-7d05-a2a7-f9256ea92ac0",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "hearty-serving-rejuvenation",
   title: "Hearty Serving: Rejuvenation",

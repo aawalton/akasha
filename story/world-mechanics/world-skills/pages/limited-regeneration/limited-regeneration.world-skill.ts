@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const limitedRegeneration = {
   id: "01a0657d-023f-7dda-b2c5-c82981558992",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "limited-regeneration",
   title: "Limited Regeneration",

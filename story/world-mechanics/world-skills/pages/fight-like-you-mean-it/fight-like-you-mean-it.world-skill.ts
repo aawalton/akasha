@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const fightLikeYouMeanIt = {
   id: "01a06575-980c-786c-a6d2-0c5f27254c4e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "fight-like-you-mean-it",
   title: "Fight Like You Mean It",

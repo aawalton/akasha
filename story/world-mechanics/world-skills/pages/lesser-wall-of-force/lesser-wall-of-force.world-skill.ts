@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const lesserWallOfForce = {
   id: "01a06575-9823-7d76-87bc-feaeaba4537a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "lesser-wall-of-force",
   title: "Lesser Wall of Force",

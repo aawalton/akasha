@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const formationCatSGrace = {
   id: "01a06575-9810-7c6f-be17-ca693d330393",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "formation-cat-s-grace",
   title: "Formation: Cat’s Grace",

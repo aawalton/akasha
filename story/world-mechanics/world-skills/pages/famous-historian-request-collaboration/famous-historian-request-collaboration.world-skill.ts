@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const famousHistorianRequestCollaboration = {
   id: "01a06575-980b-75ae-b8bd-5eb82bc3c94b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "famous-historian-request-collaboration",
   title: "Famous Historian: Request Collaboration",

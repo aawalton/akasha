@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const greaterMiracle = {
   id: "01a06575-9817-7a5a-98be-4a9ca2971fa8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "greater-miracle",
   title: "Greater Miracle",

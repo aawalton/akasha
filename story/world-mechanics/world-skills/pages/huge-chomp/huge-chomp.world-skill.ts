@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const hugeChomp = {
   id: "01a06575-981b-7329-bf93-d934fd79e599",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "huge-chomp",
   title: "Huge Chomp",

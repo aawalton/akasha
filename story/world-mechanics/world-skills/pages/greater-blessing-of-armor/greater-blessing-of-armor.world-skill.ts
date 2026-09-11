@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const greaterBlessingOfArmor = {
   id: "01a06575-9816-708a-ae01-1336d8d71fab",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "greater-blessing-of-armor",
   title: "Greater Blessing of Armor",

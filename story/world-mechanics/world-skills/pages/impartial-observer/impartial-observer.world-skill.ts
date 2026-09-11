@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const impartialObserver = {
   id: "01a06575-981d-7cd7-9c62-9bf5662e1fae",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "impartial-observer",
   title: "Impartial Observer",

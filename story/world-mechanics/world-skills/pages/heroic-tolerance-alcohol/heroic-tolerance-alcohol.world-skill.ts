@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const heroicToleranceAlcohol = {
   id: "01a06575-9819-7425-8081-ac97693d9655",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "heroic-tolerance-alcohol",
   title: "Heroic Tolerance: Alcohol",

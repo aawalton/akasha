@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const iMovedLikeThunder = {
   id: "01a06575-981c-7440-9300-90cf36a8ec45",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "i-moved-like-thunder",
   title: "I Moved Like Thunder",

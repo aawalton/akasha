@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const hawkSSurveillance = {
   id: "01a06575-9818-7f99-8c1e-2c2e50533049",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "hawk-s-surveillance",
   title: "Hawk’s Surveillance",

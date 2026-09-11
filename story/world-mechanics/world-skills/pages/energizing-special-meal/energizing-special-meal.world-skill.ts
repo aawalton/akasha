@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const energizingSpecialMeal = {
   id: "01a06575-9808-7add-94a5-d61153d6ac33",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "energizing-special-meal",
   title: "Energizing Special Meal",

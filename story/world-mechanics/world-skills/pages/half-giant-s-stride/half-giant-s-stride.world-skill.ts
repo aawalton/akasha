@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const halfGiantSStride = {
   id: "01a06575-9818-73b0-ba3c-2dafce95c4b6",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "half-giant-s-stride",
   title: "Half-Giant’s Stride",

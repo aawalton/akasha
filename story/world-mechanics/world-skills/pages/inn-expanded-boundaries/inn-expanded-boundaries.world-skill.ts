@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const innExpandedBoundaries = {
   id: "01a06575-981e-724d-a778-f0ce50a514ad",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "inn-expanded-boundaries",
   title: "Inn: Expanded Boundaries",

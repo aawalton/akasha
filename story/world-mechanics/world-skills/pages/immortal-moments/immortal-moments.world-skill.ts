@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const immortalMoments = {
   id: "01a06575-981d-71e7-9b46-437eb4af2663",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "immortal-moments",
   title: "Immortal Moments",

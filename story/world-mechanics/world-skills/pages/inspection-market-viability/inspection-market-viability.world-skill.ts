@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const inspectionMarketViability = {
   id: "01a06575-981f-7842-949c-6a726afadeda",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "inspection-market-viability",
   title: "Inspection: Market Viability",

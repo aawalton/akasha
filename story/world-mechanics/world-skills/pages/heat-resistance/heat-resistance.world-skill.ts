@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const heatResistance = {
   id: "01a06575-9819-7f8e-bb21-105877c9ed80",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "heat-resistance",
   title: "Heat Resist—",

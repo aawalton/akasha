@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const instantDrying = {
   id: "01a06575-981f-7fe0-b95b-cbaf3d38d312",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "instant-drying",
   title: "Instant Drying",

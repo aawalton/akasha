@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const highlightTarget = {
   id: "01a06575-981a-7b64-ac92-bde5342d8366",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "highlight-target",
   title: "Highlight Target",

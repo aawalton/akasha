@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const extendedBlade = {
   id: "01a06575-980a-77d0-b2f3-b0377639f663",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "extended-blade",
   title: "Extended Blade",

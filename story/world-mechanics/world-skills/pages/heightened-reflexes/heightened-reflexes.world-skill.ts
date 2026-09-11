@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const heightenedReflexes = {
   id: "01a06575-9819-77d1-9e16-5534ebe623a4",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "heightened-reflexes",
   title: "Heightened Reflexes",

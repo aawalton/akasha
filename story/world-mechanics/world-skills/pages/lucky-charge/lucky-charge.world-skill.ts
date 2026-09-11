@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const luckyCharge = {
   id: "01a0657d-0241-7c87-902f-990e3f250906",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "lucky-charge",
   title: "Lucky Charge",

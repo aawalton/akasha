@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const ironguardFormation = {
   id: "01a06575-9820-7462-9d85-332d1eb1a629",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "ironguard-formation",
   title: "Ironguard Formation",

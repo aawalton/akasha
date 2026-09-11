@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const invisibleToDecency = {
   id: "01a06575-9820-789c-94e3-3645c76cd96d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "invisible-to-decency",
   title: "Invisible to Decency",

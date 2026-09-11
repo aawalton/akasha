@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const filteredEntry = {
   id: "01a06575-980c-758c-b578-972356ee5101",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "filtered-entry",
   title: "Filtered Entry",

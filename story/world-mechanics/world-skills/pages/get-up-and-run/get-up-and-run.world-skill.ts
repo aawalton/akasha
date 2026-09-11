@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const getUpAndRun = {
   id: "01a06575-9814-7e06-8704-1ca6978bd696",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "get-up-and-run",
   title: "Get Up and Run",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const evaluateFoundation = {
   id: "01a06575-9809-7684-bcc9-e4ae5d49e3fc",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "evaluate-foundation",
   title: "Evaluate Foundation",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const enchantmentAcidCoating = {
   id: "01a06575-9808-7917-82ab-95cc4055a248",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "enchantment-acid-coating",
   title: "Enchantment: Acid Coating",

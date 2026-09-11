@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const immunityPain = {
   id: "01a06575-981d-7854-89d0-d025ae99581f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "immunity-pain",
   title: "Immunity: Pain",

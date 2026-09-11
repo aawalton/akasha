@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const empireDarkskyRiders = {
   id: "01a06575-9807-7991-8894-25f695737b76",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "empire-darksky-riders",
   title: "Empire: Darksky Riders",

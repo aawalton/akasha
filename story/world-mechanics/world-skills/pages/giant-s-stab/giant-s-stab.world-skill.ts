@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const giantSStab = {
   id: "01a06575-9815-74ae-857d-dab125bd349b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "giant-s-stab",
   title: "Giant’s Stab",

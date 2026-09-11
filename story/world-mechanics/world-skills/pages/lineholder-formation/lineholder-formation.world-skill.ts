@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const lineholderFormation = {
   id: "01a0657d-023f-79d9-9aa4-475c6cde5000",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "lineholder-formation",
   title: "Lineholder Formation",

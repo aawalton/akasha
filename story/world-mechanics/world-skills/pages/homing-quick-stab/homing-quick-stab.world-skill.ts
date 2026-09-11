@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const homingQuickStab = {
   id: "01a06575-981a-7eea-9865-32400deee8b3",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "homing-quick-stab",
   title: "Homing Quick Stab",

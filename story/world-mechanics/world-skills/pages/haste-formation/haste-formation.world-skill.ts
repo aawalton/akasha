@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const hasteFormation = {
   id: "01a06575-9818-7ec0-a484-5c6bc4ad5bc5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "haste-formation",
   title: "Haste Formation",

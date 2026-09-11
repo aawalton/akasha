@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const loverSProficiency = {
   id: "01a0657d-0241-7ae4-a456-59534b061f69",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "lover-s-proficiency",
   title: "Lover’s Proficiency",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const empireTheChangingCitizenry = {
   id: "01a06575-9807-7b48-a62c-451ffc364284",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "empire-the-changing-citizenry",
   title: "Empire: The Changing Citizenry",

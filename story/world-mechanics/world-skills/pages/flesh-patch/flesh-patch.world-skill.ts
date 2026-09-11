@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const fleshPatch = {
   id: "01a06575-980e-7950-9679-d414dd341e36",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "flesh-patch",
   title: "Flesh Patch",

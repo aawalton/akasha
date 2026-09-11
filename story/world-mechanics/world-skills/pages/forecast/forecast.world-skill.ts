@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const forecast = {
   id: "01a06575-980f-7857-ac5d-b82598e8e8ea",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "forecast",
   title: "Forecast",

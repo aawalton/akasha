@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const maceArtBigHammer = {
   id: "01a0657d-0241-763e-9fb7-bb0f8a0f08d8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "mace-art-big-hammer",
   title: "Mace Art: Big Hammer",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const instantaneousRedirection = {
   id: "01a06575-981f-7efe-a50a-514cc7f10d43",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "instantaneous-redirection",
   title: "Instantaneous Redirection",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const healDamage = {
   id: "01a06575-9819-7a43-8f94-531f3b9f8870",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "heal-damage",
   title: "Heal Damage",

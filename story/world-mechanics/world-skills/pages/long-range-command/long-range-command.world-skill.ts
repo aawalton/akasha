@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const longRangeCommand = {
   id: "01a0657d-0240-729f-908e-a3ea4230d656",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "long-range-command",
   title: "Long-Range Command",

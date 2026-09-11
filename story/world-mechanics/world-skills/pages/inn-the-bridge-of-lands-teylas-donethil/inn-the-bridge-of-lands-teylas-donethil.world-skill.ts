@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const innTheBridgeOfLandsTeylasDonethil = {
   id: "01a06575-981f-74fa-84bf-06aef7d2c184",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "inn-the-bridge-of-lands-teylas-donethil",
   title: "Inn: The Bridge Of Lands, Teylas Donethil",

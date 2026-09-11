@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const foefinderSScan = {
   id: "01a06575-980f-715c-b054-92db11953a4f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "foefinder-s-scan",
   title: "Foefinder’s Scan",

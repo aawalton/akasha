@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const likeFlameBlowtorch = {
   id: "01a0657d-023f-7bde-b151-8bd09104cc4c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "like-flame-blowtorch",
   title: "Like Flame, Blowtorch",

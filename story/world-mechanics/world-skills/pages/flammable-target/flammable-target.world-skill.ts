@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const flammableTarget = {
   id: "01a06575-980d-7162-a1f0-8bcf4b2946b8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "flammable-target",
   title: "Flammable Target",

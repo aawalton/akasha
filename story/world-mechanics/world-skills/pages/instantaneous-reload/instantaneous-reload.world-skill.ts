@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const instantaneousReload = {
   id: "01a06575-981f-7fbc-b86f-99be65b11978",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "instantaneous-reload",
   title: "Instantaneous Reload",

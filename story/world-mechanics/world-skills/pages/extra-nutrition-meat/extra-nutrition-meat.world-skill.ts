@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const extraNutritionMeat = {
   id: "01a06575-980a-705c-8f44-f7fb1694bafd",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "extra-nutrition-meat",
   title: "Extra Nutrition: Meat",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const hearWhispers = {
   id: "01a06575-9819-7bf4-9750-623ff97a5b05",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "hear-whispers",
   title: "Hear Whispers",

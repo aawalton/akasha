@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const lieDetector = {
   id: "01a0657d-0239-7123-9a57-8cfd2314c358",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "lie-detector",
   title: "Lie Detector",

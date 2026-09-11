@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const ghostSHand = {
   id: "01a06575-9814-7c1c-87dc-71c1023ce4c1",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "ghost-s-hand",
   title: "Ghost’s Hand",

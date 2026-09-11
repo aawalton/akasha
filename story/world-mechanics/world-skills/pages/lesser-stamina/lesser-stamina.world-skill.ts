@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const lesserStamina = {
   id: "01a06575-9823-734d-aba0-eea21f8dd7a5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "lesser-stamina",
   title: "Lesser Stamina",

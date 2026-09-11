@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const gloveGrip = {
   id: "01a06575-9815-7bcd-9c2c-ff89853bc86b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "glove-grip",
   title: "Glove Grip",

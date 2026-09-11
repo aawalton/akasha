@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const increasedCarryWeight = {
   id: "01a06575-981e-76f9-89e2-5f1a1ebb24b8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "increased-carry-weight",
   title: "Increased Carry Weight",

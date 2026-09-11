@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const iMProbablyAllowedInHere = {
   id: "01a06575-981c-7aa7-b095-ce451684c0fa",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "i-m-probably-allowed-in-here",
   title: "I’m (Probably) Allowed in Here",

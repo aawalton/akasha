@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const howlOfTheVortex = {
   id: "01a06575-981a-70ce-a428-30a7acb4c72e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "howl-of-the-vortex",
   title: "Howl of the Vortex",

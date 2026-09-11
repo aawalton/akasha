@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const frozenGrip = {
   id: "01a06575-9811-7ec7-ad5e-dd8ae31d1164",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "frozen-grip",
   title: "Frozen Grip",

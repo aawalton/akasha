@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const iChallengeYou = {
   id: "01a06575-981b-7478-843f-6ccec863650e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "i-challenge-you",
   title: "I Challenge You",

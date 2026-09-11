@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const glaciersheetIce = {
   id: "01a06575-9815-7789-a46d-bbe038632625",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "glaciersheet-ice",
   title: "Glaciersheet Ice",

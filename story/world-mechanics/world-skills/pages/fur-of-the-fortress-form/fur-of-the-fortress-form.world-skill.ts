@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const furOfTheFortressForm = {
   id: "01a06575-9811-7833-aed2-526708cf42db",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "fur-of-the-fortress-form",
   title: "Fur of the Fortress form",

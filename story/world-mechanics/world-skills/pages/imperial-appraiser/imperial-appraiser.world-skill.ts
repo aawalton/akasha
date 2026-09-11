@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const imperialAppraiser = {
   id: "01a06575-981d-7237-8be0-bc3a5f707482",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "imperial-appraiser",
   title: "Imperial Appraiser",

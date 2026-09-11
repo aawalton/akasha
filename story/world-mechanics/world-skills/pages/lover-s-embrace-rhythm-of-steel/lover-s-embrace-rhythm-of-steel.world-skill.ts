@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const loverSEmbraceRhythmOfSteel = {
   id: "01a0657d-0241-732a-9ace-fb94ecf65f2b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "lover-s-embrace-rhythm-of-steel",
   title: "Lover’s Embrace: Rhythm of Steel",

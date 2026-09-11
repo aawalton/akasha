@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const lesserAuthorityBuildings = {
   id: "01a06575-9822-7133-995f-89eb0fccee88",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "lesser-authority-buildings",
   title: "Lesser Authority: Buildings",

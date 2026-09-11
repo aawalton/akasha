@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const keepUpWithMe = {
   id: "01a06575-9821-7cea-84bb-61cd4b1177eb",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "keep-up-with-me",
   title: "Keep Up With Me",

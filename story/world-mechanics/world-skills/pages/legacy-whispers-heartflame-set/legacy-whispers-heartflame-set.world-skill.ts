@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const legacyWhispersHeartflameSet = {
   id: "01a06575-9822-7d57-bd03-d44d48c41d85",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "legacy-whispers-heartflame-set",
   title: "Legacy Whispers: Heartflame Set",

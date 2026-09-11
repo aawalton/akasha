@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const magicPiercingThrow = {
   id: "01a0657d-0242-7d8f-a6cc-e4f9fdaa391b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "magic-piercing-throw",
   title: "Magic Piercing Throw",

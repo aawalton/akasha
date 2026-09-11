@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const infuseWitchcraftObjects = {
   id: "01a06575-981e-7311-9da5-4a8b6b77d735",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "infuse-witchcraft-objects",
   title: "Infuse Witchcraft: Objects",

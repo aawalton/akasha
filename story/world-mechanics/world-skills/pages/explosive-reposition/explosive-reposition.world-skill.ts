@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const explosiveReposition = {
   id: "01a06575-980a-786e-8e46-c5ad0c91f036",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "explosive-reposition",
   title: "Explosive Reposition",

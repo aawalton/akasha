@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const forcePalm = {
   id: "01a06575-980f-7a10-8676-0bb0dbb65055",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "force-palm",
   title: "Force Palm",

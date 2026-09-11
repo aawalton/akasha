@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const heRodeInAnyWeatherUndeterred = {
   id: "01a06575-9818-7b69-841f-fdd7d97b02fd",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "he-rode-in-any-weather-undeterred",
   title: "He Rode in Any Weather, Undeterred",

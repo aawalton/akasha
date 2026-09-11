@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const inductionRoyalBodyguard = {
   id: "01a06575-981e-7e09-bbfd-bc5365c31490",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "induction-royal-bodyguard",
   title: "Induction: Royal Bodyguard",

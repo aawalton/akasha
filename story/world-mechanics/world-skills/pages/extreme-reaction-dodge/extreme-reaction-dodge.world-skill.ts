@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const extremeReactionDodge = {
   id: "01a06575-980a-7937-8874-159bfa059210",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "extreme-reaction-dodge",
   title: "Extreme Reaction: Dodge",

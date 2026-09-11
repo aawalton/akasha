@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const ingredientsStabilization = {
   id: "01a06575-981e-728e-a618-d1616cba75bc",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "ingredients-stabilization",
   title: "Ingredients Stabilization",

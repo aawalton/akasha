@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const galeWings = {
   id: "01a06575-9811-7681-9335-3888bd6af6df",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "gale-wings",
   title: "Gale Wings",

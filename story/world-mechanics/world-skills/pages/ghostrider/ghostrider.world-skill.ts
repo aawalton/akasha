@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const ghostrider = {
   id: "01a06575-9814-7238-8b75-629f6b809adb",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "ghostrider",
   title: "Ghostrider",

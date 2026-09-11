@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const feintSlash = {
   id: "01a06575-980c-7517-bd93-ac0f4082504a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "feint-slash",
   title: "Feint Slash",

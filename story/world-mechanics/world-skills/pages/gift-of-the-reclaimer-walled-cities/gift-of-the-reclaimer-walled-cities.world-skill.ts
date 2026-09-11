@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const giftOfTheReclaimerWalledCities = {
   id: "01a06575-9815-78a8-be1f-b979127f1cad",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "gift-of-the-reclaimer-walled-cities",
   title: "Gift of the Reclaimer (Walled Cities)",

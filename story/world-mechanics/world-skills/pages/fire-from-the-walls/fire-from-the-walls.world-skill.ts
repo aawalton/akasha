@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const fireFromTheWalls = {
   id: "01a06575-980c-7dcf-bacb-48c7cb6125d5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "fire-from-the-walls",
   title: "Fire From the Walls",

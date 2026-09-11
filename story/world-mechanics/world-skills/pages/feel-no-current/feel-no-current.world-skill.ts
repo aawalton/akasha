@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const feelNoCurrent = {
   id: "01a06575-980c-78d9-b47a-351847c7a2b4",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "feel-no-current",
   title: "Feel No Current",

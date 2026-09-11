@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const honorSShieldSingleUse = {
   id: "01a06575-981a-73ba-8e2f-e1c34e532f7b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "honor-s-shield-single-use",
   title: "Honor’s Shield – Single Use",

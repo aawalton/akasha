@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const hurricaneThrow = {
   id: "01a06575-981b-70f0-9e79-31a245f2119f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "hurricane-throw",
   title: "Hurricane Throw",

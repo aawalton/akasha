@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const graceOfTheBastille = {
   id: "01a06575-9815-744a-997e-60c2a06289b8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "grace-of-the-bastille",
   title: "Grace of the Bastille",

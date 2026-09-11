@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const freeBlowSwallowSCut = {
   id: "01a06575-9810-751b-b140-ad1bdb146815",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "free-blow-swallow-s-cut",
   title: "Free Blow: Swallow’s Cut",

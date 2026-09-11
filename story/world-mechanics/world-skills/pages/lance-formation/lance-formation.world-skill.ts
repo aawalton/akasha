@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const lanceFormation = {
   id: "01a06575-9821-759f-ba86-90bf23b8c76d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "lance-formation",
   title: "Lance Formation",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const heRippedItAsunder = {
   id: "01a06575-9818-77f7-98fb-be6c87e32473",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "he-ripped-it-asunder",
   title: "He Ripped It Asunder",

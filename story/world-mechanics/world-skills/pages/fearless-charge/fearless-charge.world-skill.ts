@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const fearlessCharge = {
   id: "01a06575-980c-7c64-8aa4-2f68312d6b56",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "fearless-charge",
   title: "Fearless Charge",

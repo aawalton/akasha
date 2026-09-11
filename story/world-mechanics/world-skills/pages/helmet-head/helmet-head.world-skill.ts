@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const helmetHead = {
   id: "01a06575-9819-7f53-9be4-1b6fc9f8b6df",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "helmet-head",
   title: "Helmet Head",

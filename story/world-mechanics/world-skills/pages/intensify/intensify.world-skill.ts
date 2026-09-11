@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const intensify = {
   id: "01a06575-9820-70d4-9f81-38c0697fb24f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "intensify",
   title: "Intensify",

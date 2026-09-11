@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const infuseColor = {
   id: "01a06575-981e-717c-bfe5-44b9d95135b7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "infuse-color",
   title: "Infuse Color",

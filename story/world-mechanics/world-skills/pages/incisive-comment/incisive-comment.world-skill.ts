@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const incisiveComment = {
   id: "01a06575-981e-79c2-a1a0-5186f445753f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "incisive-comment",
   title: "Incisive Comment",
