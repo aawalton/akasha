@@ -5,7 +5,7 @@ import {
   requireDrivingState,
 } from "akasha/alan/harness/mobile-cli/sim-driver/sim-driver.module.code.ts"
 import type { SimSessionState } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
-import { whyOf } from "../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 
 export const APP_SAID = "--app"
 
