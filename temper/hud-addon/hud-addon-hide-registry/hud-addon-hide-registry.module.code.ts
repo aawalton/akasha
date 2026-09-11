@@ -3,24 +3,24 @@ import "akasha/temper/eso-types/eso-functions-06/eso-functions-06.type-declarati
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 
-import { HUD_SCENE_CATALOG } from "akasha/temper/hud-components/hud-scene-catalog/hud-scene-catalog.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import {
   computeHidePlan,
   indexInventoryById,
-} from "../hud-addon-hide-plan/hud-addon-hide-plan.module.code.ts"
+} from "akasha/temper/hud-addon/hud-addon-hide-plan/hud-addon-hide-plan.module.code.ts"
 import type {
   CompassHideTarget,
   RequestHideTarget,
   SupressHideTarget,
   TopLevelHideTarget,
   TutorialSuppressTarget,
-} from "../hud-addon-hide-targets/hud-addon-hide-targets.module.code.ts"
+} from "akasha/temper/hud-addon/hud-addon-hide-targets/hud-addon-hide-targets.module.code.ts"
 import type {
   HidePlanEntry,
   HideRegistration,
-} from "../hud-addon-hide-types/hud-addon-hide-types.module.code.ts"
+} from "akasha/temper/hud-addon/hud-addon-hide-types/hud-addon-hide-types.module.code.ts"
+import { HUD_SCENE_CATALOG } from "akasha/temper/hud-components/hud-scene-catalog/hud-scene-catalog.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 
 export interface HideRegistry {
   register: (this: void, registration: HideRegistration) => undefined

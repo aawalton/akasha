@@ -1,13 +1,13 @@
 import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
-import { registerHudField } from "../hud-addon-bar/hud-addon-bar.module.code.ts"
+import { registerHudField } from "akasha/temper/hud-addon/hud-addon-bar/hud-addon-bar.module.code.ts"
 import {
   formatDuration,
   formatFramerate,
   formatLatency,
-} from "../hud-addon-format/hud-addon-format.module.code.ts"
-import { getSavedVariables } from "../hud-addon-saved-variables/hud-addon-saved-variables.module.code.ts"
-import type { HudCell } from "../hud-addon-types/hud-addon-types.module.code.ts"
+} from "akasha/temper/hud-addon/hud-addon-format/hud-addon-format.module.code.ts"
+import { getSavedVariables } from "akasha/temper/hud-addon/hud-addon-saved-variables/hud-addon-saved-variables.module.code.ts"
+import type { HudCell } from "akasha/temper/hud-addon/hud-addon-types/hud-addon-types.module.code.ts"
 
 function framerateCell(): HudCell {
   return { text: formatFramerate(GetFramerate()) }

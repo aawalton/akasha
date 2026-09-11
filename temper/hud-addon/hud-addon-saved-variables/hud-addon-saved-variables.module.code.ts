@@ -3,13 +3,13 @@ import "akasha/temper/eso-types/eso-api/eso-api.type-declaration.d.ts"
 import {
   HUD_SAVED_VARIABLES_DEFAULTS,
   type HudSavedVariables,
-} from "../hud-addon-types/hud-addon-types.module.code.ts"
+} from "akasha/temper/hud-addon/hud-addon-types/hud-addon-types.module.code.ts"
 import {
   coerceStoredBoolean,
   migrateHiddenToVisible,
   needsFrameMigration,
   VISIBILITY_VERSION_CURRENT,
-} from "../hud-addon-visibility-version/hud-addon-visibility-version.module.code.ts"
+} from "akasha/temper/hud-addon/hud-addon-visibility-version/hud-addon-visibility-version.module.code.ts"
 
 const SAVED_VARIABLES_NAME = "TemperHud_SavedVariables"
 

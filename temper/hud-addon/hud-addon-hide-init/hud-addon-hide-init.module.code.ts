@@ -3,16 +3,16 @@ import "akasha/temper/eso-types/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 
-import { HUD_SCENE_CATALOG } from "akasha/temper/hud-components/hud-scene-catalog/hud-scene-catalog.module.code.ts"
 import {
   createHideRegistry,
   type HideRegistry,
-} from "../hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts"
+} from "akasha/temper/hud-addon/hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts"
 import {
   migrateComponentVisibility,
   readComponentVisible,
   writeComponentVisible,
-} from "../hud-addon-saved-variables/hud-addon-saved-variables.module.code.ts"
+} from "akasha/temper/hud-addon/hud-addon-saved-variables/hud-addon-saved-variables.module.code.ts"
+import { HUD_SCENE_CATALOG } from "akasha/temper/hud-components/hud-scene-catalog/hud-scene-catalog.module.code.ts"
 
 const registry: HideRegistry = createHideRegistry()
 let initialized: boolean | undefined

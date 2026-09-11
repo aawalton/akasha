@@ -1,4 +1,4 @@
-import type { TemperCommand } from "../hud-addon-types/hud-addon-types.module.code.ts"
+import type { TemperCommand } from "akasha/temper/hud-addon/hud-addon-types/hud-addon-types.module.code.ts"
 
 export interface CommandRegistry {
   register: (this: void, command: TemperCommand) => undefined

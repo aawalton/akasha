@@ -1,8 +1,8 @@
-import type { HudComponentRecord } from "akasha/temper/hud-components/hud-component-record/hud-component-record.module.code.ts"
 import type {
   HidePlanEntry,
   HideRegistration,
-} from "../hud-addon-hide-types/hud-addon-hide-types.module.code.ts"
+} from "akasha/temper/hud-addon/hud-addon-hide-types/hud-addon-hide-types.module.code.ts"
+import type { HudComponentRecord } from "akasha/temper/hud-components/hud-component-record/hud-component-record.module.code.ts"
 
 export function indexInventoryById(
   records: readonly HudComponentRecord[]

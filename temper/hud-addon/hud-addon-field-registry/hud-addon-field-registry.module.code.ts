@@ -1,4 +1,4 @@
-import type { HudField } from "../hud-addon-types/hud-addon-types.module.code.ts"
+import type { HudField } from "akasha/temper/hud-addon/hud-addon-types/hud-addon-types.module.code.ts"
 
 export interface FieldRegistry {
   register: (this: void, field: HudField) => undefined

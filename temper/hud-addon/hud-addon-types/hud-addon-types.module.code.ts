@@ -1,4 +1,4 @@
-import { VISIBILITY_VERSION_BASELINE } from "../hud-addon-visibility-version/hud-addon-visibility-version.module.code.ts"
+import { VISIBILITY_VERSION_BASELINE } from "akasha/temper/hud-addon/hud-addon-visibility-version/hud-addon-visibility-version.module.code.ts"
 
 export interface HudCell {
   text: string
