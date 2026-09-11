@@ -1,6 +1,10 @@
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import {
+  requestDone,
+  requestsIn,
+} from "akasha/checks/modules/audit-request/audit-request.module.code.ts"
+import {
   cleanAt,
   cleanly,
   type Verdict,
@@ -214,14 +218,25 @@ export type Serving = {
   readonly send?: Sent
 }
 
+export function roundOver(
+  every: readonly Gathered[],
+  asked: readonly string[]
+): readonly Gathered[] {
+  const held = new Set(asked)
+  const atAudit = checksAt(every, AUDIT)
+  const named = new Set(atAudit.map((one) => one.slug))
+  return [...atAudit, ...every.filter((one) => held.has(one.slug) && !named.has(one.slug))]
+}
+
 export async function serving(given: Serving): Promise<Told> {
   const send = given.send ?? sending
   const over = await overNow(given.root)
   const shadow = shadowAsked(over.change)
   const moved = movedIn(given.root, over.commit)
+  const asked = requestsIn(given.home)
   const ran: Ran[] = []
   const turned: string[] = []
-  for (const one of checksAt(checksIn(given.root), AUDIT)) {
+  for (const one of roundOver(checksIn(given.root), asked)) {
     const before = verdictsRead(given.home)[one.slug]
     const said = await auditOne({
       ...given,
@@ -234,6 +249,7 @@ export async function serving(given: Serving): Promise<Told> {
     ran.push(said)
     if (turnedRed(before, said.verdict)) turned.push(one.slug)
   }
+  for (const one of asked) requestDone(given.home, one)
   const red = ran.filter((one) => turned.includes(one.check))
   if (red.length === 0) return { ran, turned, refused: [] }
   const why = await send(TO, bodyFor(red, over.commit, given.home))

@@ -62,6 +62,30 @@ export const auditServing = {
     },
     {
       invariantKind: "departure",
+      statement: "A round runs the checks its phase names and the checks a request names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check a request names is run though no phase names that check.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check both name is run once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The requests a round was read for are taken away once that round is done.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A request naming no check is taken away rather than kept for ever.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A request written while a round runs is left for the round after.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A check that refused and a check that threw are told apart in the verdict.",
     },
     {

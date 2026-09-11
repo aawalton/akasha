@@ -9,6 +9,7 @@ import {
   keyFor,
   movedIn,
   type Over,
+  roundOver,
   turnAt,
   turnedRed,
   verdictOf,
@@ -104,6 +105,20 @@ test("a check turns red only where it was clean or unknown before", () => {
   expect(turnedRed(red, red)).toBe(false)
   expect(turnedRed(red, CLEAN)).toBe(false)
   expect(turnedRed(CLEAN, CLEAN)).toBe(false)
+})
+
+test("a round runs the checks its phase names and the checks a request names", () => {
+  const every: readonly Gathered[] = [
+    gathered("typecheck", "/r"),
+    { ...gathered("lint-clean", "/r"), runsOn: ["change"] },
+    { ...gathered("new-check", "/r"), runsOn: [] },
+  ]
+  const slugs = (asked: readonly string[]): readonly string[] =>
+    roundOver(every, asked).map((one) => one.slug)
+  expect(slugs([])).toEqual(["typecheck"])
+  expect(slugs(["new-check"])).toEqual(["typecheck", "new-check"])
+  expect(slugs(["typecheck"])).toEqual(["typecheck"])
+  expect(slugs(["nobody"])).toEqual(["typecheck"])
 })
 
 test("a turn is a path of its own for each check", () => {
