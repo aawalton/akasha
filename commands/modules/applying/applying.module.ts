@@ -226,6 +226,19 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An apply that was refused carries what the mechanisms said while the change was prepared.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What those mechanisms said is reported rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply that landed carries those same sayings.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every refusal an apply answers with is written beside the calling agent's page.",
     },
     {

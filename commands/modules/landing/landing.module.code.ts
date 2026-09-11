@@ -78,6 +78,7 @@ export type Landed = {
 
 export type Refused = {
   readonly refusals: readonly string[]
+  readonly said?: readonly string[]
 }
 
 export type Drafting = {

@@ -182,3 +182,38 @@ test("an apply refuses a page whose slug names no export", async () => {
   expect(said.refusals.join("\n")).toContain("which no `export const` may be declared under")
   expect(existsSync(join(root, UNEXPORTABLE_AT))).toBe(false)
 })
+
+const GENERATOR_AT = "akasha/held.page-type.ts"
+
+const GENERATOR_SAID = "states a type generator"
+
+const STATES_A_GENERATOR = `export const held = {
+  id: "01a04e11-0000-7000-8000-000000000041",
+  pageTypeSlug: "page-type",
+  slug: "held",
+  extends: ["page-type/page"],
+  typeGenerator: "ts",
+}
+`
+
+async function generatorStated(): Promise<string> {
+  const root = await indexed()
+  const rows = [rowAt(GENERATOR_AT, STATES_A_GENERATOR)]
+  const said = await applied(root, AGENT, "applied", ADMITS, null, [], { rows, running: OWES })
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  return root
+}
+
+test("an apply the gate refused carries what a mechanism said while the change was prepared", async () => {
+  const root = await generatorStated()
+  const said = await applied(root, AGENT, "applied", REFUSES, null, [], carrying(MORE))
+  if (!("refusals" in said)) throw new Error("the gate refused nothing")
+  expect((said.said ?? []).join("\n")).toContain(GENERATOR_SAID)
+})
+
+test("an apply that landed carries what that same mechanism said", async () => {
+  const root = await generatorStated()
+  const said = await applied(root, AGENT, "applied", ADMITS, null, [], carrying(MORE))
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  expect(said.said.join("\n")).toContain(GENERATOR_SAID)
+})

@@ -410,5 +410,13 @@ export const landing = {
       invariantKind: "departure",
       statement: "A path taken away that is a folder is taken away as a folder.",
     },
+    {
+      invariantKind: "absence",
+      statement: "A refusal answered here carries no saying of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal carries whatever the caller folding it has to say alongside it.",
+    },
   ],
 } as const satisfies Module

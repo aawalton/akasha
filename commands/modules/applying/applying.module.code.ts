@@ -180,7 +180,11 @@ export async function applying(
   try {
     const said = await applied(given.root, given.agentId, why, gate, given.writer, [], carried)
     if ("refusals" in said) {
-      return notLanded({ report: [], refusals: keeping(said.refusals), code: 3 })
+      return notLanded({
+        report: [...(said.said ?? [])],
+        refusals: keeping(said.refusals),
+        code: 3,
+      })
     }
     return {
       report: [
@@ -317,7 +321,7 @@ export async function applied(
       prepared.over
     )
   )
-  if ("refusals" in done) return done
+  if ("refusals" in done) return { refusals: done.refusals, said: prepared.said }
   const carries = carriedFrom(root, head, moving)
   carryLanded(root, head, running, prepared.changes, carries, holding.owed ?? new Map())
   if (agentId !== null) recordedAsLanded(root, agentId, prepared.authored)
