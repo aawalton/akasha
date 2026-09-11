@@ -14,5 +14,9 @@ export const cloudflared = {
       invariantKind: "departure",
       statement: "The pod template carries the hash of the cloudflared-creds secret.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The pod template carries the hash of the cloudflared-config configmap.",
+    },
   ],
 } as const satisfies Manifest
