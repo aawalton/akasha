@@ -1,9 +1,15 @@
+import { output } from "akasha/code-system/editor/extension/agent-tree-state/agent-tree-state.module.code.ts"
+import { invokedSeat } from "akasha/code-system/editor/extension/invoked-seat/invoked-seat.module.code.ts"
+import {
+  confirmTurnLoss,
+  type SeatAct,
+} from "akasha/code-system/editor/extension/seat-act-confirm/seat-act-confirm.module.code.ts"
+import { performPlan } from "akasha/code-system/editor/extension/seat-acts/seat-acts.module.code.ts"
+import type {
+  SeatStep,
+  SeatToggleState,
+} from "akasha/code-system/editor/extension/seat-toggles/seat-toggles.module.code.ts"
 import * as vscode from "vscode"
-import { output } from "../agent-tree-state/agent-tree-state.module.code.ts"
-import { invokedSeat } from "../invoked-seat/invoked-seat.module.code.ts"
-import { confirmTurnLoss, type SeatAct } from "../seat-act-confirm/seat-act-confirm.module.code.ts"
-import { performPlan } from "../seat-acts/seat-acts.module.code.ts"
-import type { SeatStep, SeatToggleState } from "../seat-toggles/seat-toggles.module.code.ts"
 
 export async function runPlan(
   node: unknown,
