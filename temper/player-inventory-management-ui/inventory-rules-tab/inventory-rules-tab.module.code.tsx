@@ -12,36 +12,36 @@ import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.t
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { classifyAllInventoryItems } from "akasha/temper/items-rules-matcher/inventory-item-classifier/inventory-item-classifier.module.code.ts"
-import { Package } from "lucide-react"
-import { useMemo, useRef } from "react"
-import { useInventory } from "../hooks-inventory/hooks-inventory.module.code.ts"
+import { useInventory } from "akasha/temper/player-inventory-management-ui/hooks-inventory/hooks-inventory.module.code.ts"
 import {
   useAutomationSettings,
   useBackpackSettings,
   useManagedGuildBanks,
-} from "../hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import type {
   ActiveStatusFilter,
   LockStatusFilter,
   RuleSortField,
-} from "../inventory-filter-types/inventory-filter-types.module.code.ts"
-import { InventoryRulesFilterBar } from "../inventory-rules-filter-bar/inventory-rules-filter-bar.module.code.tsx"
-import { EntityRulesPanels } from "../inventory-rules-tab-entity-rules-panels/inventory-rules-tab-entity-rules-panels.module.code.tsx"
-import { ItemRulesPanels } from "../inventory-rules-tab-item-rules-panels/inventory-rules-tab-item-rules-panels.module.code.tsx"
-import { inventoryRulePanelVisibility } from "../inventory-rules-tab-panel-visibility/inventory-rules-tab-panel-visibility.module.code.ts"
-import { useAssembledInventoryRules } from "../inventory-rules-tab-rule-assembly/inventory-rules-tab-rule-assembly.module.code.ts"
-import { InventoryScopeNote } from "../inventory-scope-note/inventory-scope-note.module.code.tsx"
-import { ManagementPlanPanelCard } from "../management-plan-panel-card/management-plan-panel-card.module.code.tsx"
-import { UnmappedItemsPanelCard } from "../unmapped-items-panel-card/unmapped-items-panel-card.module.code.tsx"
-import { useDestinationOptions } from "../use-destination-options/use-destination-options.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/inventory-filter-types/inventory-filter-types.module.code.ts"
+import { InventoryRulesFilterBar } from "akasha/temper/player-inventory-management-ui/inventory-rules-filter-bar/inventory-rules-filter-bar.module.code.tsx"
+import { EntityRulesPanels } from "akasha/temper/player-inventory-management-ui/inventory-rules-tab-entity-rules-panels/inventory-rules-tab-entity-rules-panels.module.code.tsx"
+import { ItemRulesPanels } from "akasha/temper/player-inventory-management-ui/inventory-rules-tab-item-rules-panels/inventory-rules-tab-item-rules-panels.module.code.tsx"
+import { inventoryRulePanelVisibility } from "akasha/temper/player-inventory-management-ui/inventory-rules-tab-panel-visibility/inventory-rules-tab-panel-visibility.module.code.ts"
+import { useAssembledInventoryRules } from "akasha/temper/player-inventory-management-ui/inventory-rules-tab-rule-assembly/inventory-rules-tab-rule-assembly.module.code.ts"
+import { InventoryScopeNote } from "akasha/temper/player-inventory-management-ui/inventory-scope-note/inventory-scope-note.module.code.tsx"
+import { ManagementPlanPanelCard } from "akasha/temper/player-inventory-management-ui/management-plan-panel-card/management-plan-panel-card.module.code.tsx"
+import { UnmappedItemsPanelCard } from "akasha/temper/player-inventory-management-ui/unmapped-items-panel-card/unmapped-items-panel-card.module.code.tsx"
+import { useDestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
 import {
   type DeferredRuleFilters,
   useInventoryRulesFilter,
-} from "../use-inventory-rules-filter/use-inventory-rules-filter.module.code.ts"
-import { useInventoryRulesSettingsState } from "../use-inventory-rules-settings-state/use-inventory-rules-settings-state.module.code.ts"
-import { useInventoryRulesTabAffectedItems } from "../use-inventory-rules-tab-affected-items/use-inventory-rules-tab-affected-items.module.code.ts"
-import { useInventoryRulesTabDescriptions } from "../use-inventory-rules-tab-descriptions/use-inventory-rules-tab-descriptions.module.code.ts"
-import { useRuleMatcherContext } from "../use-rule-matcher-context/use-rule-matcher-context.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/use-inventory-rules-filter/use-inventory-rules-filter.module.code.ts"
+import { useInventoryRulesSettingsState } from "akasha/temper/player-inventory-management-ui/use-inventory-rules-settings-state/use-inventory-rules-settings-state.module.code.ts"
+import { useInventoryRulesTabAffectedItems } from "akasha/temper/player-inventory-management-ui/use-inventory-rules-tab-affected-items/use-inventory-rules-tab-affected-items.module.code.ts"
+import { useInventoryRulesTabDescriptions } from "akasha/temper/player-inventory-management-ui/use-inventory-rules-tab-descriptions/use-inventory-rules-tab-descriptions.module.code.ts"
+import { useRuleMatcherContext } from "akasha/temper/player-inventory-management-ui/use-rule-matcher-context/use-rule-matcher-context.module.code.ts"
+import { Package } from "lucide-react"
+import { useMemo, useRef } from "react"
 
 interface InventoryRulesTabProps {
   ruleStatus: readonly ActiveStatusFilter[]

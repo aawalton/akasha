@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const inventoryByLocationTab = {
   id: "01a0636c-5d9a-7374-a500-82c80d66000f",

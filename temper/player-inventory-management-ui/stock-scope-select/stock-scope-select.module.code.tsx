@@ -13,10 +13,10 @@ import type {
   MoveToDestination,
   StockScope,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { ActionVariant } from "akasha/temper/player-inventory-management-ui/action-options/action-options.module.code.ts"
+import { useInventory } from "akasha/temper/player-inventory-management-ui/hooks-inventory/hooks-inventory.module.code.ts"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
-import type { ActionVariant } from "../action-options/action-options.module.code.ts"
-import { useInventory } from "../hooks-inventory/hooks-inventory.module.code.ts"
 
 interface StockScopeSelectProps {
   stockScope: StockScope | undefined

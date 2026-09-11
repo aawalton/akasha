@@ -12,10 +12,10 @@ import {
   type LockStatusFilter,
   type RuleFilterDef,
   type RuleFilterPopoverProps,
-} from "../inventory-filter-types/inventory-filter-types.module.code.ts"
-import { RuleActionFilterSelect } from "../rule-action-filter-select/rule-action-filter-select.module.code.tsx"
-import { RuleCategoryFilterSelect } from "../rule-category-filter-select/rule-category-filter-select.module.code.tsx"
-import { RuleLocationFilterSelect } from "../rule-location-filter-select/rule-location-filter-select.module.code.tsx"
+} from "akasha/temper/player-inventory-management-ui/inventory-filter-types/inventory-filter-types.module.code.ts"
+import { RuleActionFilterSelect } from "akasha/temper/player-inventory-management-ui/rule-action-filter-select/rule-action-filter-select.module.code.tsx"
+import { RuleCategoryFilterSelect } from "akasha/temper/player-inventory-management-ui/rule-category-filter-select/rule-category-filter-select.module.code.tsx"
+import { RuleLocationFilterSelect } from "akasha/temper/player-inventory-management-ui/rule-location-filter-select/rule-location-filter-select.module.code.tsx"
 
 const NULL_SENTINEL_VALUES = new Set(["none", "nothing"])
 

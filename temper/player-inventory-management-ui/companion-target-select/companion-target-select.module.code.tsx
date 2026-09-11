@@ -10,10 +10,10 @@ import {
 } from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import type { MoveToDestination } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { ActionVariant } from "akasha/temper/player-inventory-management-ui/action-options/action-options.module.code.ts"
+import { useInventory } from "akasha/temper/player-inventory-management-ui/hooks-inventory/hooks-inventory.module.code.ts"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
-import type { ActionVariant } from "../action-options/action-options.module.code.ts"
-import { useInventory } from "../hooks-inventory/hooks-inventory.module.code.ts"
 
 interface CompanionTargetSelectProps {
   destination: MoveToDestination | undefined

@@ -6,17 +6,16 @@ import type {
   CategoryRule,
   ItemRule,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { useCallback, useMemo, useRef } from "react"
 import type {
   ActiveStatusFilter,
   LockStatusFilter,
   RuleSortField,
-} from "../inventory-filter-types/inventory-filter-types.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/inventory-filter-types/inventory-filter-types.module.code.ts"
 import {
   ACTIVE_STATUS_ITEMS,
   GOAL_FILTER_ITEMS,
   LOCK_STATUS_ITEMS,
-} from "../inventory-rules-filter-items/inventory-rules-filter-items.module.code.tsx"
+} from "akasha/temper/player-inventory-management-ui/inventory-rules-filter-items/inventory-rules-filter-items.module.code.tsx"
 import {
   buildActionFilterPredicate,
   buildCategoryMatchIds,
@@ -25,11 +24,12 @@ import {
   matchesItemRule,
   matchItemLocation as matchItemLocationPure,
   partitionRules,
-} from "../inventory-rules-filter-predicates/inventory-rules-filter-predicates.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/inventory-rules-filter-predicates/inventory-rules-filter-predicates.module.code.ts"
 import {
   sortCategoryRules,
   sortItemRules,
-} from "../inventory-rules-sort/inventory-rules-sort.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/inventory-rules-sort/inventory-rules-sort.module.code.ts"
+import { useCallback, useMemo, useRef } from "react"
 
 export interface DeferredRuleFilters {
   ruleStatus: readonly ActiveStatusFilter[]

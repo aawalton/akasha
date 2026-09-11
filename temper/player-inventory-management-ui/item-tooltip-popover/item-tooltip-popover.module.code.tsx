@@ -6,9 +6,9 @@ import {
   PopoverTrigger,
 } from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
 import type { ItemTooltipInstance } from "akasha/temper/items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
+import { ItemTooltip } from "akasha/temper/player-inventory-management-ui/item-tooltip/item-tooltip.module.code.tsx"
+import { useItemTooltipData } from "akasha/temper/player-inventory-management-ui/use-item-tooltip-data/use-item-tooltip-data.module.code.ts"
 import { useState } from "react"
-import { ItemTooltip } from "../item-tooltip/item-tooltip.module.code.tsx"
-import { useItemTooltipData } from "../use-item-tooltip-data/use-item-tooltip-data.module.code.ts"
 
 interface ItemTooltipPopoverProps {
   itemLink: string

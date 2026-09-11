@@ -22,28 +22,31 @@ import {
   groupInventoryByType,
 } from "akasha/temper/items-core/inventory-grouping/inventory-grouping.module.code.ts"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
+import {
+  useInventory,
+  usePriceExtract,
+} from "akasha/temper/player-inventory-management-ui/hooks-inventory/hooks-inventory.module.code.ts"
+import { useManagedGuildBanks } from "akasha/temper/player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
+import { InventoryCurrencyPanelCard } from "akasha/temper/player-inventory-management-ui/inventory-currency-panel-card/inventory-currency-panel-card.module.code.tsx"
+import { InventoryFilterBar } from "akasha/temper/player-inventory-management-ui/inventory-filter-bar/inventory-filter-bar.module.code.tsx"
+import type {
+  FilterValues,
+  SortField,
+} from "akasha/temper/player-inventory-management-ui/inventory-filter-types/inventory-filter-types.module.code.ts"
+import { InventoryScopeNote } from "akasha/temper/player-inventory-management-ui/inventory-scope-note/inventory-scope-note.module.code.tsx"
+import { InventoryTypeSummaryPanelCard } from "akasha/temper/player-inventory-management-ui/inventory-summary-panel-card/inventory-summary-panel-card.module.code.tsx"
+import { InventoryTypePanelCard } from "akasha/temper/player-inventory-management-ui/inventory-type-panel-card/inventory-type-panel-card.module.code.tsx"
+import {
+  resolvePricingRegion,
+  resolvePricingRegionNote,
+} from "akasha/temper/player-inventory-management-ui/pricing-region/pricing-region.module.code.ts"
+import { PricingRegionNote } from "akasha/temper/player-inventory-management-ui/pricing-region-note/pricing-region-note.module.code.tsx"
+import { resolvePricingSourceNote } from "akasha/temper/player-inventory-management-ui/pricing-source/pricing-source.module.code.ts"
+import { PricingSourceNote } from "akasha/temper/player-inventory-management-ui/pricing-source-note/pricing-source-note.module.code.tsx"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import { lookupCurrencyConversionRates } from "akasha/temper/trading-pricing/currency-price-lookup/currency-price-lookup.module.code.ts"
 import { Package, Search } from "lucide-react"
 import { useMemo } from "react"
-import { useInventory, usePriceExtract } from "../hooks-inventory/hooks-inventory.module.code.ts"
-import { useManagedGuildBanks } from "../hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
-import { InventoryCurrencyPanelCard } from "../inventory-currency-panel-card/inventory-currency-panel-card.module.code.tsx"
-import { InventoryFilterBar } from "../inventory-filter-bar/inventory-filter-bar.module.code.tsx"
-import type {
-  FilterValues,
-  SortField,
-} from "../inventory-filter-types/inventory-filter-types.module.code.ts"
-import { InventoryScopeNote } from "../inventory-scope-note/inventory-scope-note.module.code.tsx"
-import { InventoryTypeSummaryPanelCard } from "../inventory-summary-panel-card/inventory-summary-panel-card.module.code.tsx"
-import { InventoryTypePanelCard } from "../inventory-type-panel-card/inventory-type-panel-card.module.code.tsx"
-import {
-  resolvePricingRegion,
-  resolvePricingRegionNote,
-} from "../pricing-region/pricing-region.module.code.ts"
-import { PricingRegionNote } from "../pricing-region-note/pricing-region-note.module.code.tsx"
-import { resolvePricingSourceNote } from "../pricing-source/pricing-source.module.code.ts"
-import { PricingSourceNote } from "../pricing-source-note/pricing-source-note.module.code.tsx"
 
 interface InventoryTypeDataContentProps {
   search: string

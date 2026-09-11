@@ -15,9 +15,9 @@ import { LOCKED_OPTIONS } from "akasha/temper/items-rules-core/locked-filter/loc
 import { QUEST_RELEVANT_OPTIONS } from "akasha/temper/items-rules-core/quest-relevant-filter/quest-relevant-filter.module.code.ts"
 import { STACK_FULLNESS_OPTIONS } from "akasha/temper/items-rules-core/stack-fullness-filter/stack-fullness-filter.module.code.ts"
 import { STOLEN_OPTIONS } from "akasha/temper/items-rules-core/stolen-filter/stolen-filter.module.code.ts"
+import type { RuleCardState } from "akasha/temper/player-inventory-management-ui/rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
+import { FilterLock } from "akasha/temper/player-inventory-management-ui/rule-card-filter-lock/rule-card-filter-lock.module.code.tsx"
 import type { ReactNode } from "react"
-import type { RuleCardState } from "../rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
-import { FilterLock } from "../rule-card-filter-lock/rule-card-filter-lock.module.code.tsx"
 
 interface StolenChipProps {
   state: Pick<

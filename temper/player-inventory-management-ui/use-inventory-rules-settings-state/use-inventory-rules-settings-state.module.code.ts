@@ -5,15 +5,15 @@ import {
   patchFurnitureVaultDestination,
 } from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { useCallback, useEffect, useRef, useState } from "react"
-import { toast } from "sonner"
-import { useCraftBagAccess } from "../hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
-import { useInventoryRulesHandlers } from "../inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
+import { useCraftBagAccess } from "akasha/temper/player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
+import { useInventoryRulesHandlers } from "akasha/temper/player-inventory-management-ui/inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
 import {
   rulesFingerprint,
   useInventoryRuleSettings,
   usePersistSettings,
-} from "../inventory-rules-state/inventory-rules-state.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/inventory-rules-state/inventory-rules-state.module.code.ts"
+import { useCallback, useEffect, useRef, useState } from "react"
+import { toast } from "sonner"
 
 interface InventoryRulesSettingsState {
   localSettings: InventoryRuleSettings

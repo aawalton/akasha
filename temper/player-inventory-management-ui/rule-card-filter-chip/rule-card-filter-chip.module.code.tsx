@@ -1,22 +1,22 @@
 "use client"
 
 import type { FilterId } from "akasha/temper/items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
-import type { ReactNode } from "react"
-import { RuleCardFilterChipCanLevelMorphs } from "../rule-card-filter-chip-can-level-morphs/rule-card-filter-chip-can-level-morphs.module.code.tsx"
-import { RuleCardFilterChipPotionEffects } from "../rule-card-filter-chip-potion-effects/rule-card-filter-chip-potion-effects.module.code.tsx"
-import { RuleCardFilterChipRequiredCurseState } from "../rule-card-filter-chip-required-curse-state/rule-card-filter-chip-required-curse-state.module.code.tsx"
-import { RuleCardFilterChipRequiredSkillLines } from "../rule-card-filter-chip-required-skill-lines/rule-card-filter-chip-required-skill-lines.module.code.tsx"
+import { RuleCardFilterChipCanLevelMorphs } from "akasha/temper/player-inventory-management-ui/rule-card-filter-chip-can-level-morphs/rule-card-filter-chip-can-level-morphs.module.code.tsx"
+import { RuleCardFilterChipPotionEffects } from "akasha/temper/player-inventory-management-ui/rule-card-filter-chip-potion-effects/rule-card-filter-chip-potion-effects.module.code.tsx"
+import { RuleCardFilterChipRequiredCurseState } from "akasha/temper/player-inventory-management-ui/rule-card-filter-chip-required-curse-state/rule-card-filter-chip-required-curse-state.module.code.tsx"
+import { RuleCardFilterChipRequiredSkillLines } from "akasha/temper/player-inventory-management-ui/rule-card-filter-chip-required-skill-lines/rule-card-filter-chip-required-skill-lines.module.code.tsx"
 import {
   type AbilityFilterId,
   RuleCardFilterChipAbility,
-} from "../rule-card-filter-chips-ability/rule-card-filter-chips-ability.module.code.tsx"
-import { RuleCardFilterChipItem } from "../rule-card-filter-chips-item/rule-card-filter-chips-item.module.code.tsx"
-import type { ItemPropertyFilterId } from "../rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/rule-card-filter-chips-ability/rule-card-filter-chips-ability.module.code.tsx"
+import { RuleCardFilterChipItem } from "akasha/temper/player-inventory-management-ui/rule-card-filter-chips-item/rule-card-filter-chips-item.module.code.tsx"
+import type { ItemPropertyFilterId } from "akasha/temper/player-inventory-management-ui/rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
 import {
   type QuantityFilterId,
   RuleCardFilterChipQuantity,
-} from "../rule-card-filter-chips-quantity/rule-card-filter-chips-quantity.module.code.tsx"
-import type { useRuleCard } from "../use-rule-card/use-rule-card.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/rule-card-filter-chips-quantity/rule-card-filter-chips-quantity.module.code.tsx"
+import type { useRuleCard } from "akasha/temper/player-inventory-management-ui/use-rule-card/use-rule-card.module.code.ts"
+import type { ReactNode } from "react"
 
 type RuleCardState = ReturnType<typeof useRuleCard>
 

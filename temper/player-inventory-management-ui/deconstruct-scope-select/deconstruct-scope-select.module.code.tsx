@@ -12,9 +12,9 @@ import type {
   CategoryRule,
   MoveToDestination,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { ActionVariant } from "akasha/temper/player-inventory-management-ui/action-options/action-options.module.code.ts"
+import { CharacterTargetSelect } from "akasha/temper/player-inventory-management-ui/character-target-select/character-target-select.module.code.tsx"
 import { ChevronRight } from "lucide-react"
-import type { ActionVariant } from "../action-options/action-options.module.code.ts"
-import { CharacterTargetSelect } from "../character-target-select/character-target-select.module.code.tsx"
 
 interface DeconstructScopeSelectProps {
   conditions: CategoryRule["conditions"]

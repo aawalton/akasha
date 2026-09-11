@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const ruleCardFilterChipsItemFlags = {
   id: "01a0636c-5da1-76b9-81c0-129f6af8004f",

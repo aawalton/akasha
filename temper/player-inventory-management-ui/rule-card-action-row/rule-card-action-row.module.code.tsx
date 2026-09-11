@@ -21,21 +21,21 @@ import type {
   MoveToDestination,
   StockScope,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { ChevronRight } from "lucide-react"
 import {
   ACTION_OPTIONS,
   type ActionVariant,
   NOTHING_ACTION,
   SELL_ACTIONS,
   SELL_DESTINATION_OPTIONS,
-} from "../action-options/action-options.module.code.ts"
-import { CharacterTargetSelect } from "../character-target-select/character-target-select.module.code.tsx"
-import { CompanionTargetSelect } from "../companion-target-select/companion-target-select.module.code.tsx"
-import { DeconstructScopeSelect } from "../deconstruct-scope-select/deconstruct-scope-select.module.code.tsx"
-import { DestinationCascade } from "../destination-cascade/destination-cascade.module.code.tsx"
-import { RuleCardDestinationChain } from "../rule-card-destination-chain/rule-card-destination-chain.module.code.tsx"
-import { StockScopeSelect } from "../stock-scope-select/stock-scope-select.module.code.tsx"
-import type { DestinationOptions } from "../use-destination-options/use-destination-options.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/action-options/action-options.module.code.ts"
+import { CharacterTargetSelect } from "akasha/temper/player-inventory-management-ui/character-target-select/character-target-select.module.code.tsx"
+import { CompanionTargetSelect } from "akasha/temper/player-inventory-management-ui/companion-target-select/companion-target-select.module.code.tsx"
+import { DeconstructScopeSelect } from "akasha/temper/player-inventory-management-ui/deconstruct-scope-select/deconstruct-scope-select.module.code.tsx"
+import { DestinationCascade } from "akasha/temper/player-inventory-management-ui/destination-cascade/destination-cascade.module.code.tsx"
+import { RuleCardDestinationChain } from "akasha/temper/player-inventory-management-ui/rule-card-destination-chain/rule-card-destination-chain.module.code.tsx"
+import { StockScopeSelect } from "akasha/temper/player-inventory-management-ui/stock-scope-select/stock-scope-select.module.code.tsx"
+import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
+import { ChevronRight } from "lucide-react"
 
 interface RuleCardActionRowProps {
   rule: CategoryRule

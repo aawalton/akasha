@@ -2,13 +2,13 @@
 
 import { LayoutLink } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import type { ReactNode } from "react"
 import {
   DEFAULT_PRICING_PLATFORM,
   DEFAULT_PRICING_SERVER,
   type PricingRegionNoteKind,
-} from "../pricing-region/pricing-region.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/pricing-region/pricing-region.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import type { ReactNode } from "react"
 
 export function PricingRegionNote({
   kind,

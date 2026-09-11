@@ -15,8 +15,6 @@ import {
   TabsList,
 } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { useFilterPersistence } from "akasha/design/interfaces/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
-import { LayoutList, MapPin, Scale } from "lucide-react"
-import { Suspense } from "react"
 import {
   type ActiveStatusFilter,
   type FilterValues,
@@ -36,10 +34,12 @@ import {
   type LockStatusFilter,
   type RuleSortField,
   type SortField,
-} from "../inventory-filter-types/inventory-filter-types.module.code.ts"
-import { InventoryLocationDataContent } from "../inventory-location-data-content/inventory-location-data-content.module.code.tsx"
-import { InventoryRulesTab } from "../inventory-rules-tab/inventory-rules-tab.module.code.tsx"
-import { InventoryTypeDataContent } from "../inventory-type-data-content/inventory-type-data-content.module.code.tsx"
+} from "akasha/temper/player-inventory-management-ui/inventory-filter-types/inventory-filter-types.module.code.ts"
+import { InventoryLocationDataContent } from "akasha/temper/player-inventory-management-ui/inventory-location-data-content/inventory-location-data-content.module.code.tsx"
+import { InventoryRulesTab } from "akasha/temper/player-inventory-management-ui/inventory-rules-tab/inventory-rules-tab.module.code.tsx"
+import { InventoryTypeDataContent } from "akasha/temper/player-inventory-management-ui/inventory-type-data-content/inventory-type-data-content.module.code.tsx"
+import { LayoutList, MapPin, Scale } from "lucide-react"
+import { Suspense } from "react"
 
 type TabValue = "type" | "location" | "rules"
 

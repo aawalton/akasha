@@ -9,8 +9,8 @@ import {
   getNodeChildren,
   getNodePath,
 } from "akasha/temper/items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
+import { CategoryBadgeSelect } from "akasha/temper/player-inventory-management-ui/rule-card-category-row/rule-card-category-row.module.code.tsx"
 import { useMemo } from "react"
-import { CategoryBadgeSelect } from "../rule-card-category-row/rule-card-category-row.module.code.tsx"
 
 export function RuleCategoryFilterSelect({
   ruleCategory,

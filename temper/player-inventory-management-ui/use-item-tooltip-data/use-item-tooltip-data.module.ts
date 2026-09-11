@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const useItemTooltipData = {
   id: "01a0636c-5da1-7bd1-b79f-7d8e39070068",

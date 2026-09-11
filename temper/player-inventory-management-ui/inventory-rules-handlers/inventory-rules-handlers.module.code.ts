@@ -32,11 +32,11 @@ import {
   type InventoryRuleSettings,
   type ItemRule,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { type RefObject, useCallback } from "react"
 import {
   preserveLocked,
   useStableSettingsHandler,
-} from "../inventory-rules-state/inventory-rules-state.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/inventory-rules-state/inventory-rules-state.module.code.ts"
+import { type RefObject, useCallback } from "react"
 
 export const DEFAULT_BUY_TARGET_QUANTITY = 200
 

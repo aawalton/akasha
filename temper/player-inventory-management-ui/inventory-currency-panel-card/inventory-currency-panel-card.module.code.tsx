@@ -3,8 +3,8 @@
 import { summarizeCurrencies } from "akasha/temper/items-core/inventory-currencies/inventory-currencies.module.code.ts"
 import type { InventoryNode } from "akasha/temper/items-core/inventory-node-types/inventory-node-types.module.code.ts"
 import type { InventoryCurrencies } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+import { InventoryPanelCard } from "akasha/temper/player-inventory-management-ui/inventory-panel-card/inventory-panel-card.module.code.tsx"
 import { useMemo } from "react"
-import { InventoryPanelCard } from "../inventory-panel-card/inventory-panel-card.module.code.tsx"
 
 function buildCurrencyNodes(
   currencies: InventoryCurrencies,

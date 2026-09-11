@@ -1,14 +1,12 @@
 "use client"
 
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import type { ReactNode } from "react"
-import type { RuleCardFilterChipItemProps } from "../rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
-import { ItemFlagChip } from "../rule-card-filter-chips-item-flags/rule-card-filter-chips-item-flags.module.code.tsx"
+import type { RuleCardFilterChipItemProps } from "akasha/temper/player-inventory-management-ui/rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
+import { ItemFlagChip } from "akasha/temper/player-inventory-management-ui/rule-card-filter-chips-item-flags/rule-card-filter-chips-item-flags.module.code.tsx"
 import {
   LocationChip,
   SetSourcesChip,
   TraitsChip,
-} from "../rule-card-filter-chips-item-selection-chips/rule-card-filter-chips-item-selection-chips.module.code.tsx"
+} from "akasha/temper/player-inventory-management-ui/rule-card-filter-chips-item-selection-chips/rule-card-filter-chips-item-selection-chips.module.code.tsx"
 import {
   BopTradeableChip,
   BoundChip,
@@ -17,11 +15,13 @@ import {
   QuestRelevantChip,
   StackFullnessChip,
   StolenChip,
-} from "../rule-card-filter-chips-item-state-chips/rule-card-filter-chips-item-state-chips.module.code.tsx"
+} from "akasha/temper/player-inventory-management-ui/rule-card-filter-chips-item-state-chips/rule-card-filter-chips-item-state-chips.module.code.tsx"
 import {
   LevelChip,
   QualityChip,
-} from "../rule-card-filter-chips-item-threshold-chips/rule-card-filter-chips-item-threshold-chips.module.code.tsx"
+} from "akasha/temper/player-inventory-management-ui/rule-card-filter-chips-item-threshold-chips/rule-card-filter-chips-item-threshold-chips.module.code.tsx"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import type { ReactNode } from "react"
 
 export function RuleCardFilterChipItem({ id, state }: RuleCardFilterChipItemProps): ReactNode {
   switch (id) {

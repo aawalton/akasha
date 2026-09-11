@@ -3,11 +3,11 @@
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import type { InventoryTypeGroup } from "akasha/temper/items-core/inventory-grouping-types/inventory-grouping-types.module.code.ts"
 import { buildInventoryTypeNodes } from "akasha/temper/items-core/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"
-import { useMemo } from "react"
 import {
   InventoryPanelCard,
   type InventorySortMode,
-} from "../inventory-panel-card/inventory-panel-card.module.code.tsx"
+} from "akasha/temper/player-inventory-management-ui/inventory-panel-card/inventory-panel-card.module.code.tsx"
+import { useMemo } from "react"
 
 interface InventoryTypePanelCardProps {
   group: InventoryTypeGroup

@@ -16,17 +16,17 @@ import type {
   PlanItem,
   VenueStop,
 } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { useCallback, useState } from "react"
 import {
   decideManagementPlanPanelState,
   type InventoryReadState,
   type ManagementPlanPanelState,
-} from "../rules-tab-panel-states/rules-tab-panel-states.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/rules-tab-panel-states/rules-tab-panel-states.module.code.ts"
 import {
   type ValueExplanationData,
   ValueExplanationDialog,
-} from "../value-explanation-dialog/value-explanation-dialog.module.code.tsx"
+} from "akasha/temper/player-inventory-management-ui/value-explanation-dialog/value-explanation-dialog.module.code.tsx"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { useCallback, useState } from "react"
 
 interface ManagementPlanPanelCardProps extends InventoryReadState {
   plan: ManagementPlan

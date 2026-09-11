@@ -9,7 +9,7 @@ import {
   type LocationTypeId,
   locationTypes,
 } from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
-import { InventoryPanelCard } from "../inventory-panel-card/inventory-panel-card.module.code.tsx"
+import { InventoryPanelCard } from "akasha/temper/player-inventory-management-ui/inventory-panel-card/inventory-panel-card.module.code.tsx"
 
 interface InventoryLocationSummaryPanelCardProps {
   summary: InventoryLocationSummary

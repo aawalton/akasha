@@ -12,15 +12,15 @@ import { CardTitleBadges } from "akasha/design/interfaces/primitives/card/card.m
 import type { ControlledRule } from "akasha/temper/items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { useCallback, useState } from "react"
 import type {
   ActiveStatusFilter,
   LockStatusFilter,
-} from "../inventory-filter-types/inventory-filter-types.module.code.ts"
-import type { InventoryRulesHandlers } from "../inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
-import { RuleBulkActionBadge } from "../rule-bulk-action-badge/rule-bulk-action-badge.module.code.tsx"
-import { RuleCard } from "../rule-card/rule-card.module.code.tsx"
-import type { DestinationOptions } from "../use-destination-options/use-destination-options.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/inventory-filter-types/inventory-filter-types.module.code.ts"
+import type { InventoryRulesHandlers } from "akasha/temper/player-inventory-management-ui/inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
+import { RuleBulkActionBadge } from "akasha/temper/player-inventory-management-ui/rule-bulk-action-badge/rule-bulk-action-badge.module.code.tsx"
+import { RuleCard } from "akasha/temper/player-inventory-management-ui/rule-card/rule-card.module.code.tsx"
+import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
+import { useCallback, useState } from "react"
 
 const EMPTY_AFFECTED_ITEMS: AffectedItem[] = []
 

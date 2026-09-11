@@ -2,7 +2,7 @@
 
 import type { InventoryTypeSummary } from "akasha/temper/items-core/inventory-grouping-types/inventory-grouping-types.module.code.ts"
 import type { InventoryNode } from "akasha/temper/items-core/inventory-node-types/inventory-node-types.module.code.ts"
-import { InventoryPanelCard } from "../inventory-panel-card/inventory-panel-card.module.code.tsx"
+import { InventoryPanelCard } from "akasha/temper/player-inventory-management-ui/inventory-panel-card/inventory-panel-card.module.code.tsx"
 
 interface InventoryTypeSummaryPanelCardProps {
   summary: InventoryTypeSummary

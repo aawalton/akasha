@@ -7,10 +7,10 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "akasha/design/interfaces/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
+import { RuleCardFilterChip } from "akasha/temper/player-inventory-management-ui/rule-card-filter-chip/rule-card-filter-chip.module.code.tsx"
+import type { useRuleCard } from "akasha/temper/player-inventory-management-ui/use-rule-card/use-rule-card.module.code.ts"
 import { Plus } from "lucide-react"
 import { Fragment } from "react"
-import { RuleCardFilterChip } from "../rule-card-filter-chip/rule-card-filter-chip.module.code.tsx"
-import type { useRuleCard } from "../use-rule-card/use-rule-card.module.code.ts"
 
 type RuleCardState = ReturnType<typeof useRuleCard>
 

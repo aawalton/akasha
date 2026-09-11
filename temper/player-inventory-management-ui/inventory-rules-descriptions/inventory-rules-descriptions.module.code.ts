@@ -6,7 +6,7 @@ import {
   type ItemRule,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { getNodePath } from "akasha/temper/items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
-import { getActionLabel } from "../action-options/action-options.module.code.ts"
+import { getActionLabel } from "akasha/temper/player-inventory-management-ui/action-options/action-options.module.code.ts"
 
 function describeCategoryRule(rule: CategoryRule): string {
   const actionLabel = getActionLabel(rule.action)

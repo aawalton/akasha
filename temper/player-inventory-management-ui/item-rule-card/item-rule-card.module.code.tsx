@@ -26,22 +26,22 @@ import {
   inventoryRuleGoals,
 } from "akasha/temper/items-rules-core/inventory-rule-goals/inventory-rule-goals.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { EllipsisVertical, Info } from "lucide-react"
-import { memo, useEffect, useState } from "react"
 import {
   ACTION_OPTIONS,
   NOTHING_ACTION,
   SELL_ACTIONS,
   SELL_DESTINATION_OPTIONS,
-} from "../action-options/action-options.module.code.ts"
-import { CharacterTargetSelect } from "../character-target-select/character-target-select.module.code.tsx"
-import { CompanionTargetSelect } from "../companion-target-select/companion-target-select.module.code.tsx"
-import { DestinationCascade } from "../destination-cascade/destination-cascade.module.code.tsx"
-import { itemRuleActionHandlers } from "../item-rule-card-action-handlers/item-rule-card-action-handlers.module.code.ts"
-import { ItemRuleCardDialogs } from "../item-rule-card-dialogs/item-rule-card-dialogs.module.code.tsx"
-import { RuleCardDestinationChain } from "../rule-card-destination-chain/rule-card-destination-chain.module.code.tsx"
-import { StockScopeSelect } from "../stock-scope-select/stock-scope-select.module.code.tsx"
-import type { DestinationOptions } from "../use-destination-options/use-destination-options.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/action-options/action-options.module.code.ts"
+import { CharacterTargetSelect } from "akasha/temper/player-inventory-management-ui/character-target-select/character-target-select.module.code.tsx"
+import { CompanionTargetSelect } from "akasha/temper/player-inventory-management-ui/companion-target-select/companion-target-select.module.code.tsx"
+import { DestinationCascade } from "akasha/temper/player-inventory-management-ui/destination-cascade/destination-cascade.module.code.tsx"
+import { itemRuleActionHandlers } from "akasha/temper/player-inventory-management-ui/item-rule-card-action-handlers/item-rule-card-action-handlers.module.code.ts"
+import { ItemRuleCardDialogs } from "akasha/temper/player-inventory-management-ui/item-rule-card-dialogs/item-rule-card-dialogs.module.code.tsx"
+import { RuleCardDestinationChain } from "akasha/temper/player-inventory-management-ui/rule-card-destination-chain/rule-card-destination-chain.module.code.tsx"
+import { StockScopeSelect } from "akasha/temper/player-inventory-management-ui/stock-scope-select/stock-scope-select.module.code.tsx"
+import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
+import { EllipsisVertical, Info } from "lucide-react"
+import { memo, useEffect, useState } from "react"
 
 interface ItemRuleCardProps {
   rule: ItemRule

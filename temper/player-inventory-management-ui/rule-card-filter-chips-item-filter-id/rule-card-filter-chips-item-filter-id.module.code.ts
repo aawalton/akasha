@@ -1,4 +1,4 @@
-import type { useRuleCard } from "../use-rule-card/use-rule-card.module.code.ts"
+import type { useRuleCard } from "akasha/temper/player-inventory-management-ui/use-rule-card/use-rule-card.module.code.ts"
 
 export type RuleCardState = ReturnType<typeof useRuleCard>
 

@@ -7,7 +7,7 @@ import type { RuleConstantKey } from "akasha/temper/items-rules-core/rule-consta
 import {
   buildConditions,
   resolveOptionalThreshold,
-} from "../rule-card-conditions-build/rule-card-conditions-build.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/rule-card-conditions-build/rule-card-conditions-build.module.code.ts"
 
 export function patchConditions(
   current: CategoryRule["conditions"],

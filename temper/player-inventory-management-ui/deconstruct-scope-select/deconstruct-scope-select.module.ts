@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const deconstructScopeSelect = {
   id: "01a0636c-5d97-7c22-964b-407b1edd000a",

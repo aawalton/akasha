@@ -5,9 +5,9 @@ import type {
   DestinationChain,
   Tier,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { RuleCardDestinationTier } from "akasha/temper/player-inventory-management-ui/rule-card-destination-tier/rule-card-destination-tier.module.code.tsx"
+import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
 import { Plus } from "lucide-react"
-import { RuleCardDestinationTier } from "../rule-card-destination-tier/rule-card-destination-tier.module.code.tsx"
-import type { DestinationOptions } from "../use-destination-options/use-destination-options.module.code.ts"
 
 interface RuleCardDestinationChainProps {
   chain: DestinationChain | undefined

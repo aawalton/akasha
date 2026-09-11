@@ -1,9 +1,9 @@
 "use client"
 
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
+import type { PricingSourceNoteKind } from "akasha/temper/player-inventory-management-ui/pricing-source/pricing-source.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import type { ReactNode } from "react"
-import type { PricingSourceNoteKind } from "../pricing-source/pricing-source.module.code.ts"
 
 export function PricingSourceNote({ kind }: { kind: PricingSourceNoteKind }): ReactNode {
   switch (kind) {

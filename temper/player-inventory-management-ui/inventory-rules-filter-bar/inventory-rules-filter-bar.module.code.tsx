@@ -8,21 +8,21 @@ import { SearchButton } from "akasha/design/interfaces/patterns/search-button/se
 import { SearchSortFilterRow } from "akasha/design/interfaces/patterns/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import { SortButton } from "akasha/design/interfaces/patterns/sort-button/sort-button.module.code.tsx"
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
-import { useMemo, useState } from "react"
 import type {
   ActiveStatusFilter,
   LockStatusFilter,
   RuleFilterId,
   RuleFilterPopoverProps,
   RuleSortField,
-} from "../inventory-filter-types/inventory-filter-types.module.code.ts"
-import { RULE_SORT_OPTIONS } from "../inventory-filter-types/inventory-filter-types.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/inventory-filter-types/inventory-filter-types.module.code.ts"
+import { RULE_SORT_OPTIONS } from "akasha/temper/player-inventory-management-ui/inventory-filter-types/inventory-filter-types.module.code.ts"
 import {
   ACTIVE_STATUS_ITEMS,
   GOAL_FILTER_ITEMS,
   LOCK_STATUS_ITEMS,
   RULE_VIEW_FILTERS,
-} from "../inventory-rules-filter-items/inventory-rules-filter-items.module.code.tsx"
+} from "akasha/temper/player-inventory-management-ui/inventory-rules-filter-items/inventory-rules-filter-items.module.code.tsx"
+import { useMemo, useState } from "react"
 
 interface InventoryRulesFilterBarProps {
   ruleStatus: readonly ActiveStatusFilter[]

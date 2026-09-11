@@ -11,12 +11,12 @@ import type {
   InventoryLeafNode,
   InventoryNode,
 } from "akasha/temper/items-core/inventory-node-types/inventory-node-types.module.code.ts"
-import { useState } from "react"
-import { ItemTooltipPopover } from "../item-tooltip-popover/item-tooltip-popover.module.code.tsx"
+import { ItemTooltipPopover } from "akasha/temper/player-inventory-management-ui/item-tooltip-popover/item-tooltip-popover.module.code.tsx"
 import {
   type ValueExplanationData,
   ValueExplanationDialog,
-} from "../value-explanation-dialog/value-explanation-dialog.module.code.tsx"
+} from "akasha/temper/player-inventory-management-ui/value-explanation-dialog/value-explanation-dialog.module.code.tsx"
+import { useState } from "react"
 
 export type InventorySortMode = "name" | "value" | "count" | "quality"
 

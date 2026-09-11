@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const ruleCardDestinationFormat = {
   id: "01a0636c-5d9b-71fc-ab4b-253da6d40046",

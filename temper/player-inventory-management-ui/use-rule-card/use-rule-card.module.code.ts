@@ -23,17 +23,17 @@ import {
   getTraitFamily,
   TRAIT_OPTIONS_BY_FAMILY,
 } from "akasha/temper/items-rules-core/traits-filter/traits-filter.module.code.ts"
-import { useMemo, useState } from "react"
 import {
   ACTION_OPTIONS,
   NOTHING_ACTION,
   SELL_ACTIONS,
-} from "../action-options/action-options.module.code.ts"
-import { deriveConditionValues } from "../rule-card-conditions-derive/rule-card-conditions-derive.module.code.ts"
-import { patchConditions } from "../rule-card-conditions-patch/rule-card-conditions-patch.module.code.ts"
-import { buildActionChangeHandler } from "../use-rule-card-action-handler/use-rule-card-action-handler.module.code.ts"
-import { buildCategorySelectHandler } from "../use-rule-card-category-handler/use-rule-card-category-handler.module.code.ts"
-import { useConditionHandlers } from "../use-rule-card-condition-handlers/use-rule-card-condition-handlers.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/action-options/action-options.module.code.ts"
+import { deriveConditionValues } from "akasha/temper/player-inventory-management-ui/rule-card-conditions-derive/rule-card-conditions-derive.module.code.ts"
+import { patchConditions } from "akasha/temper/player-inventory-management-ui/rule-card-conditions-patch/rule-card-conditions-patch.module.code.ts"
+import { buildActionChangeHandler } from "akasha/temper/player-inventory-management-ui/use-rule-card-action-handler/use-rule-card-action-handler.module.code.ts"
+import { buildCategorySelectHandler } from "akasha/temper/player-inventory-management-ui/use-rule-card-category-handler/use-rule-card-category-handler.module.code.ts"
+import { useConditionHandlers } from "akasha/temper/player-inventory-management-ui/use-rule-card-condition-handlers/use-rule-card-condition-handlers.module.code.ts"
+import { useMemo, useState } from "react"
 
 export type RuleCardOnUpdate = (
   ruleId: string,

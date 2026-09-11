@@ -8,8 +8,8 @@ import {
   DialogTitle,
 } from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import { AffectedItemsViews } from "akasha/temper/player-inventory-management-ui/affected-items-views/affected-items-views.module.code.tsx"
 import type { ReactNode } from "react"
-import { AffectedItemsViews } from "../affected-items-views/affected-items-views.module.code.tsx"
 
 interface AffectedItemsDialogProps {
   open: boolean

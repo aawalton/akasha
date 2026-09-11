@@ -7,8 +7,8 @@ import {
   PopoverTrigger,
 } from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
+import type { useRuleCard } from "akasha/temper/player-inventory-management-ui/use-rule-card/use-rule-card.module.code.ts"
 import type { ReactNode } from "react"
-import type { useRuleCard } from "../use-rule-card/use-rule-card.module.code.ts"
 
 type RuleCardState = ReturnType<typeof useRuleCard>
 

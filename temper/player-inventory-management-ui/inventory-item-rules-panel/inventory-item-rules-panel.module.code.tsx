@@ -11,18 +11,18 @@ import { Button } from "akasha/design/interfaces/primitives/button/button.module
 import { CardTitleBadges } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import type { MinedItemSearchResult } from "akasha/temper/items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { Plus } from "lucide-react"
-import { useState } from "react"
 import type {
   ActiveStatusFilter,
   LockStatusFilter,
-} from "../inventory-filter-types/inventory-filter-types.module.code.ts"
-import { ResetBadge } from "../inventory-reset-badge/inventory-reset-badge.module.code.tsx"
-import type { InventoryRulesHandlers } from "../inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
-import { ItemRuleCard } from "../item-rule-card/item-rule-card.module.code.tsx"
-import { ItemSearchDialog } from "../item-search-dialog/item-search-dialog.module.code.tsx"
-import { RuleBulkActionBadge } from "../rule-bulk-action-badge/rule-bulk-action-badge.module.code.tsx"
-import type { DestinationOptions } from "../use-destination-options/use-destination-options.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/inventory-filter-types/inventory-filter-types.module.code.ts"
+import { ResetBadge } from "akasha/temper/player-inventory-management-ui/inventory-reset-badge/inventory-reset-badge.module.code.tsx"
+import type { InventoryRulesHandlers } from "akasha/temper/player-inventory-management-ui/inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
+import { ItemRuleCard } from "akasha/temper/player-inventory-management-ui/item-rule-card/item-rule-card.module.code.tsx"
+import { ItemSearchDialog } from "akasha/temper/player-inventory-management-ui/item-search-dialog/item-search-dialog.module.code.tsx"
+import { RuleBulkActionBadge } from "akasha/temper/player-inventory-management-ui/rule-bulk-action-badge/rule-bulk-action-badge.module.code.tsx"
+import type { DestinationOptions } from "akasha/temper/player-inventory-management-ui/use-destination-options/use-destination-options.module.code.ts"
+import { Plus } from "lucide-react"
+import { useState } from "react"
 
 interface ItemRulesPanelProps {
   itemRules: readonly ItemRule[]

@@ -3,7 +3,7 @@
 import {
   describeInventoryScope,
   type InventoryScopeFacts,
-} from "../inventory-scope-note-text/inventory-scope-note-text.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/inventory-scope-note-text/inventory-scope-note-text.module.code.ts"
 
 export function InventoryScopeNote(props: InventoryScopeFacts) {
   return (

@@ -15,17 +15,17 @@ import {
   MoveToCascade,
   StockCascade,
   SubBadgeSelect,
-} from "../action-filter-cascades/action-filter-cascades.module.code.tsx"
+} from "akasha/temper/player-inventory-management-ui/action-filter-cascades/action-filter-cascades.module.code.tsx"
 import {
   buildActionFilter,
   NULL_SENTINEL,
   parseActionFilter,
-} from "../action-filter-utils/action-filter-utils.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/action-filter-utils/action-filter-utils.module.code.ts"
 import {
   ACTION_OPTIONS,
   NOTHING_ACTION,
   SELL_DESTINATION_OPTIONS,
-} from "../action-options/action-options.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/action-options/action-options.module.code.ts"
 
 export function RuleActionFilterSelect({
   ruleAction,

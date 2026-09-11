@@ -15,8 +15,8 @@ import {
 } from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import type { RequiredCurseStateCondition } from "akasha/temper/items-rules-core/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
+import type { useRuleCard } from "akasha/temper/player-inventory-management-ui/use-rule-card/use-rule-card.module.code.ts"
 import type { ReactNode } from "react"
-import type { useRuleCard } from "../use-rule-card/use-rule-card.module.code.ts"
 
 type RuleCardState = ReturnType<typeof useRuleCard>
 

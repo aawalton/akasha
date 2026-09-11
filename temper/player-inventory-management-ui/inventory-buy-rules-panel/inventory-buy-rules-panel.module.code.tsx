@@ -10,11 +10,11 @@ import {
 import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import type { MinedItemSearchResult } from "akasha/temper/items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
 import type { BuyRule } from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
+import { BuyRuleCard } from "akasha/temper/player-inventory-management-ui/buy-rule-card/buy-rule-card.module.code.tsx"
+import type { InventoryRulesHandlers } from "akasha/temper/player-inventory-management-ui/inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
+import { ItemSearchDialog } from "akasha/temper/player-inventory-management-ui/item-search-dialog/item-search-dialog.module.code.tsx"
 import { Plus } from "lucide-react"
 import { useState } from "react"
-import { BuyRuleCard } from "../buy-rule-card/buy-rule-card.module.code.tsx"
-import type { InventoryRulesHandlers } from "../inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
-import { ItemSearchDialog } from "../item-search-dialog/item-search-dialog.module.code.tsx"
 
 interface BuyRulesPanelProps {
   buyRules: readonly BuyRule[]

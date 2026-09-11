@@ -22,11 +22,11 @@ import type {
   InventoryCurrencies,
 } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import type { LocationTypeId } from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
-import { useMemo } from "react"
 import {
   InventoryPanelCard,
   type InventorySortMode,
-} from "../inventory-panel-card/inventory-panel-card.module.code.tsx"
+} from "akasha/temper/player-inventory-management-ui/inventory-panel-card/inventory-panel-card.module.code.tsx"
+import { useMemo } from "react"
 
 export interface LocationTypeCardData {
   locationType: LocationTypeId

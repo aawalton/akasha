@@ -5,14 +5,14 @@ import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.mod
 import { formatGold } from "akasha/design/interfaces/primitives/format-gold/format-gold.module.code.ts"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import { useMemo } from "react"
-import { AffectedItemsViews } from "../affected-items-views/affected-items-views.module.code.tsx"
+import { AffectedItemsViews } from "akasha/temper/player-inventory-management-ui/affected-items-views/affected-items-views.module.code.tsx"
 import {
   decideUnmappedItemsPanelState,
   type InventoryReadState,
   type UnmappedItemsPanelState,
-} from "../rules-tab-panel-states/rules-tab-panel-states.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/rules-tab-panel-states/rules-tab-panel-states.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { useMemo } from "react"
 
 interface UnmappedItemsPanelCardProps extends InventoryReadState {
   items: readonly AffectedItem[]

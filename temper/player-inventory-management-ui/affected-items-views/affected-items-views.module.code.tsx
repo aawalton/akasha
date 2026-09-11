@@ -25,12 +25,12 @@ import {
   buildAffectedItemNodes,
 } from "akasha/temper/items-rules-core/affected-items-tree-builder/affected-items-tree-builder.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import { LayoutList, List, MapPin } from "lucide-react"
-import { useMemo, useState } from "react"
 import {
   type ValueExplanationData,
   ValueExplanationDialog,
-} from "../value-explanation-dialog/value-explanation-dialog.module.code.tsx"
+} from "akasha/temper/player-inventory-management-ui/value-explanation-dialog/value-explanation-dialog.module.code.tsx"
+import { LayoutList, List, MapPin } from "lucide-react"
+import { useMemo, useState } from "react"
 
 interface AggregateResult {
   stackCount: number

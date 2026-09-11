@@ -12,7 +12,6 @@ import { SearchSortFilterRow } from "akasha/design/interfaces/patterns/search-so
 import { SortButton } from "akasha/design/interfaces/patterns/sort-button/sort-button.module.code.tsx"
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { TRAIT_OPTIONS_BY_FAMILY } from "akasha/temper/items-rules-core/traits-filter/traits-filter.module.code.ts"
-import { useState } from "react"
 import {
   type InventoryViewFilterDef,
   QUALITY_FILTER_ITEMS,
@@ -20,7 +19,8 @@ import {
   type SortField,
   type ViewFilterId,
   type ViewFilterPopoverProps,
-} from "../inventory-filter-types/inventory-filter-types.module.code.ts"
+} from "akasha/temper/player-inventory-management-ui/inventory-filter-types/inventory-filter-types.module.code.ts"
+import { useState } from "react"
 
 type TraitFamilyKey = "armor" | "weapon" | "jewelry" | "companion"
 

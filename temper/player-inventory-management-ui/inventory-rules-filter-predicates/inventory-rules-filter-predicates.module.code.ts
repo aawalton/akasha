@@ -16,11 +16,14 @@ import {
   getCategoryDescendantIds,
   getNodePath,
 } from "akasha/temper/items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
-import { getActionLabel, SELL_ACTIONS } from "../action-options/action-options.module.code.ts"
+import {
+  getActionLabel,
+  SELL_ACTIONS,
+} from "akasha/temper/player-inventory-management-ui/action-options/action-options.module.code.ts"
 
 const SELL_ACTION_VALUES: ReadonlySet<string> = SELL_ACTIONS
 
-import { parseActionFilter } from "../action-filter-utils/action-filter-utils.module.code.ts"
+import { parseActionFilter } from "akasha/temper/player-inventory-management-ui/action-filter-utils/action-filter-utils.module.code.ts"
 
 const LOCATION_TYPE_SET = new Set<string>(locationTypes.ids)
 
