@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const druidsBraid = {
   id: "019e668e-9a42-7d72-ba1a-b470483e437b",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "druids-braid",
   title: "Druid's Braid",

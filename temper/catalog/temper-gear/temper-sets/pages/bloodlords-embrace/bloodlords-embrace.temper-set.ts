@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const bloodlordsEmbrace = {
   id: "019e6484-6027-780d-adf4-1ec68ce09503",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "bloodlords-embrace",
   title: "Bloodlord's Embrace",

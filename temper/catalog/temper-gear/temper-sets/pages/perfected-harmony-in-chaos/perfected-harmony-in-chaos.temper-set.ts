@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const perfectedHarmonyInChaos = {
   id: "019e66e7-6a17-7d5f-87de-a3708bf3d4cc",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "perfected-harmony-in-chaos",
   title: "Perfected Harmony in Chaos",

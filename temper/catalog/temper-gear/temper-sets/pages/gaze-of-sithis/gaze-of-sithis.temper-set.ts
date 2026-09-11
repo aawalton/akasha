@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const gazeOfSithis = {
   id: "019e6484-602d-709f-b5b4-039483724c7c",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "gaze-of-sithis",
   title: "Gaze of Sithis",

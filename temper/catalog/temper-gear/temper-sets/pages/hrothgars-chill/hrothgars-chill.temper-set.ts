@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const hrothgarsChill = {
   id: "019e66ec-7778-7406-95d6-4c25dea8599b",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "hrothgars-chill",
   title: "Hrothgar's Chill",

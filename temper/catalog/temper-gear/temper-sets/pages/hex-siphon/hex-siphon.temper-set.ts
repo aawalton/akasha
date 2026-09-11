@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const hexSiphon = {
   id: "019e6484-5fb4-772d-81ca-4320128a2ddb",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "hex-siphon",
   title: "Hex Siphon",

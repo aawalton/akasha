@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const arkaysCharity = {
   id: "019e66e7-69f9-75fa-a40b-e16b0eaa65ba",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "arkays-charity",
   title: "Arkay's Charity",

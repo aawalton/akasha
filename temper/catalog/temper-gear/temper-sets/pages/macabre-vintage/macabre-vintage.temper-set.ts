@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const macabreVintage = {
   id: "019e66e7-6a6c-7791-a85f-4d8c093a8e1c",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "macabre-vintage",
   title: "Macabre Vintage",

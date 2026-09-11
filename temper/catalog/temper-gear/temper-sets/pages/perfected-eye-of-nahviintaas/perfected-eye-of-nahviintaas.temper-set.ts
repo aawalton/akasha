@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const perfectedEyeOfNahviintaas = {
   id: "019e66ec-7c8d-799e-9497-2f2c1619e0f5",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "perfected-eye-of-nahviintaas",
   title: "Perfected Eye of Nahviintaas",

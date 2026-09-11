@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const alessianOrder = {
   id: "019e66ec-760c-7981-984b-06b35e689d05",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "alessian-order",
   title: "Alessian Order",

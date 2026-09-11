@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const nerieneth = {
   id: "019e6484-600b-7f70-8c56-bee84db3fec7",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "nerieneth",
   title: "Nerien'eth",

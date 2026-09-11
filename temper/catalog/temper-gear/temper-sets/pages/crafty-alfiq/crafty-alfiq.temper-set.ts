@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const craftyAlfiq = {
   id: "019e66e7-6a52-7487-aab2-b273a946b20e",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "crafty-alfiq",
   title: "Crafty Alfiq",

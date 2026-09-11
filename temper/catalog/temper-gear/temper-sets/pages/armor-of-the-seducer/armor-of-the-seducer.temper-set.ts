@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const armorOfTheSeducer = {
   id: "019e668e-9a35-7ce6-b0bf-86ac1bdafcf9",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "armor-of-the-seducer",
   title: "Armor of the Seducer",

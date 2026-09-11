@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const eyesOfMara = {
   id: "019e668e-9a44-79c1-aae2-c9d79c2f0eae",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "eyes-of-mara",
   title: "Eyes of Mara",

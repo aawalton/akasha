@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const callOfTheUndertaker = {
   id: "019e66e7-6a4e-7b18-84cf-8e5ffd86b581",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "call-of-the-undertaker",
   title: "Call of the Undertaker",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const marksmansCrest = {
   id: "019e66ec-780f-7936-9456-00ffc220186c",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "marksmans-crest",
   title: "Marksman's Crest",

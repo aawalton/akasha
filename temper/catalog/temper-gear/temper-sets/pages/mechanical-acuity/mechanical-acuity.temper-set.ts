@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const mechanicalAcuity = {
   id: "019e668e-9a51-7f7f-8083-be71b7d00a70",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "mechanical-acuity",
   title: "Mechanical Acuity",

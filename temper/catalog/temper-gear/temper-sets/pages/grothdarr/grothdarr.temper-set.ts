@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const grothdarr = {
   id: "019e6484-5ff9-70e7-831e-db83ac174eb8",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "grothdarr",
   title: "Grothdarr",

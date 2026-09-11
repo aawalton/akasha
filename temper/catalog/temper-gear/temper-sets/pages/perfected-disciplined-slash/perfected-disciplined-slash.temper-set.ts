@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const perfectedDisciplinedSlash = {
   id: "019e66ec-7c7f-787f-86da-557a9ec99bf3",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "perfected-disciplined-slash",
   title: "Perfected Disciplined Slash",

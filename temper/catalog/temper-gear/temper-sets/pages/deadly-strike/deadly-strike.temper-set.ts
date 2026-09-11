@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const deadlyStrike = {
   id: "019e66ec-76dc-7cc4-a073-7263a20a874f",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "deadly-strike",
   title: "Deadly Strike",

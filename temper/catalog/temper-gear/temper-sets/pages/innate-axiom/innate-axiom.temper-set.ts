@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const innateAxiom = {
   id: "019e668e-9a4b-7807-9909-0827a7901901",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "innate-axiom",
   title: "Innate Axiom",

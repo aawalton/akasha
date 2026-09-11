@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const flameBlossom = {
   id: "019e66e6-a07f-709b-9af6-c7f0d5cc24ed",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "flame-blossom",
   title: "Flame Blossom",

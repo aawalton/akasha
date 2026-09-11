@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const jailbreaker = {
   id: "019e66e6-a094-71d3-ac8c-14cd7d0e9c82",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "jailbreaker",
   title: "Jailbreaker",

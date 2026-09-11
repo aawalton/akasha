@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const armorOfTheVeiledHeritance = {
   id: "019e66e7-6a41-731f-b013-1042492dfbe0",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "armor-of-the-veiled-heritance",
   title: "Armor of the Veiled Heritance",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const bloodMoon = {
   id: "019e66e6-a062-7763-b13b-0d8f86ed4d42",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "blood-moon",
   title: "Blood Moon",

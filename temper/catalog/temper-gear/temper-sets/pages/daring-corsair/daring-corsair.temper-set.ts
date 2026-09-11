@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const daringCorsair = {
   id: "019e668e-9a3d-790c-85a8-0ab654eda06e",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "daring-corsair",
   title: "Daring Corsair",

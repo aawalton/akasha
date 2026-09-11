@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const amberPlasm = {
   id: "019e66e6-a056-71ef-bf01-a3f69806e63c",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "amber-plasm",
   title: "Amber Plasm",

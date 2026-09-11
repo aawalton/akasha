@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const concentratedForce = {
   id: "019e66ec-7a9e-7489-bbe0-1ffc779498e8",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "concentrated-force",
   title: "Concentrated Force",

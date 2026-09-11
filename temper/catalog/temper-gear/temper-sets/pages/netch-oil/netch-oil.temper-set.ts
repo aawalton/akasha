@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const netchOil = {
   id: "019e66ec-7829-70c8-a276-25554a5919e7",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "netch-oil",
   title: "Netch Oil",

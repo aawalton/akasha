@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const domihaus = {
   id: "019e6484-5ff2-7ceb-b39a-3b131132b67d",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "domihaus",
   title: "Domihaus",

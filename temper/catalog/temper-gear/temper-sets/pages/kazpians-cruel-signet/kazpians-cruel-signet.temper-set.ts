@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const kazpiansCruelSignet = {
   id: "019e66e7-6a0c-7d62-960b-33d5a1b0500f",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "kazpians-cruel-signet",
   title: "Kazpian's Cruel Signet",

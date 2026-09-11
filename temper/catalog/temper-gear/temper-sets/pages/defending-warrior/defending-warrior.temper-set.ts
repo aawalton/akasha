@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const defendingWarrior = {
   id: "019e66ec-7abb-796d-b848-44be964ff0d0",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "defending-warrior",
   title: "Defending Warrior",

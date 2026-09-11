@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const belharzasBand = {
   id: "019e6484-6026-798d-a062-476c6c37f56b",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "belharzas-band",
   title: "Belharza's Band",

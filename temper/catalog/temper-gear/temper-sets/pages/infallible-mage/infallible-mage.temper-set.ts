@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const infallibleMage = {
   id: "019e66ec-7b57-7669-9c39-ee235c827c35",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "infallible-mage",
   title: "Infallible Mage",

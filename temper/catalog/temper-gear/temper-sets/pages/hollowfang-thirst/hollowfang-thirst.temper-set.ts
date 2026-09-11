@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const hollowfangThirst = {
   id: "019e66e6-a091-70c4-a5dc-dd5c5176a646",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "hollowfang-thirst",
   title: "Hollowfang Thirst",

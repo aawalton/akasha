@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const kvatchGladiator = {
   id: "019e668e-9a4e-7119-8fc2-9b22c4a9f1b3",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "kvatch-gladiator",
   title: "Kvatch Gladiator",

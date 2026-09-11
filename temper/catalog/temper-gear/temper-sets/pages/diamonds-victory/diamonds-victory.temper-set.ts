@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const diamondsVictory = {
   id: "019e668e-9a41-713c-aa67-f7b23b0e31d9",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "diamonds-victory",
   title: "Diamond's Victory",

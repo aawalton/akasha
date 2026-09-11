@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const impregnableArmor = {
   id: "019e66ec-7791-7b37-a1ab-1a2550855033",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "impregnable-armor",
   title: "Impregnable Armor",

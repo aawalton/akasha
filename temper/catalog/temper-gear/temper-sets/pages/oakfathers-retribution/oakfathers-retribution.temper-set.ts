@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const oakfathersRetribution = {
   id: "019e66ec-7850-7120-8422-6f02f8e66560",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "oakfathers-retribution",
   title: "Oakfather's Retribution",

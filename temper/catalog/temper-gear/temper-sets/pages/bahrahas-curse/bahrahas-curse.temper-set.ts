@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const bahrahasCurse = {
   id: "019e66e7-6a44-7bfc-8b62-4c84c842ef46",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "bahrahas-curse",
   title: "Bahraha's Curse",

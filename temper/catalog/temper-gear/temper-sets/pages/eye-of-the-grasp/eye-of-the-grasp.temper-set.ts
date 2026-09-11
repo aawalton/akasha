@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const eyeOfTheGrasp = {
   id: "019e66e7-6a5c-7d0c-bcdf-532e5bed1ba7",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "eye-of-the-grasp",
   title: "Eye of the Grasp",

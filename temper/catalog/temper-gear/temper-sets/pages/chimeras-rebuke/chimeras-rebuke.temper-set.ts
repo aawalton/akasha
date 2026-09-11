@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const chimerasRebuke = {
   id: "019e668e-9a38-75f6-b52d-794968843456",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "chimeras-rebuke",
   title: "Chimera's Rebuke",

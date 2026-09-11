@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const hanusCompassion = {
   id: "019e66e6-a08b-7940-ac31-5d4fbdfc1116",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "hanus-compassion",
   title: "Hanu's Compassion",

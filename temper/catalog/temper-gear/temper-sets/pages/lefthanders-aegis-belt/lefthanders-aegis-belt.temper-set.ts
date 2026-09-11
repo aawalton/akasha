@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const lefthandersAegisBelt = {
   id: "019e6484-602e-7ed5-9334-3cdff22510e8",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "lefthanders-aegis-belt",
   title: "Lefthander's Aegis Belt",

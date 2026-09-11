@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const heroicUnity = {
   id: "019e66e7-6a09-747c-b442-e3b95f46428c",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "heroic-unity",
   title: "Heroic Unity",

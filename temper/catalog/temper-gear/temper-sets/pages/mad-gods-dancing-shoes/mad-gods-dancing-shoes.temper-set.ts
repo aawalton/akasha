@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const madGodsDancingShoes = {
   id: "019e66e7-6a11-7dac-8290-69b68a4caa1e",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "mad-gods-dancing-shoes",
   title: "Mad God's Dancing Shoes",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const executionersBlade = {
   id: "019e6484-5faa-780b-86ae-ff58b7886b3c",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "executioners-blade",
   title: "Executioner's Blade",

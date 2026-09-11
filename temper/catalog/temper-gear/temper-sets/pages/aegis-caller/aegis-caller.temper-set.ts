@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const aegisCaller = {
   id: "019e66e6-a054-7c62-8e6c-63f7d706f86a",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "aegis-caller",
   title: "Aegis Caller",

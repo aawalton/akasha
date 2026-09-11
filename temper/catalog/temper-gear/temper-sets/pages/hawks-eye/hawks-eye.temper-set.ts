@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const hawksEye = {
   id: "019e66ec-775e-78af-9f85-3fffbdb0411d",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "hawks-eye",
   title: "Hawk's Eye",

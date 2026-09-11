@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const nobilityInDecay = {
   id: "019e6484-5fe4-71d7-bd87-5305193f871a",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "nobility-in-decay",
   title: "Nobility in Decay",

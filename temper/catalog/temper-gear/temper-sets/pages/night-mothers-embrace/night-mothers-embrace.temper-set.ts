@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const nightMothersEmbrace = {
   id: "019e66e7-6a74-7e22-88a6-ade5c30eaf2c",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "night-mothers-embrace",
   title: "Night Mother's Embrace",

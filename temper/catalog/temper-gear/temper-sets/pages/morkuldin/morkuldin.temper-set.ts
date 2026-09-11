@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const morkuldin = {
   id: "019e668e-9a53-7b7b-94e8-5c8796bac2a5",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "morkuldin",
   title: "Morkuldin",

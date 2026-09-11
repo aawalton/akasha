@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const farstrider = {
   id: "019e66ec-7728-7caf-a9ef-aea97d47de61",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "farstrider",
   title: "Farstrider",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const histBark = {
   id: "019e668e-9a48-7ea7-affa-cb477bd4a043",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "hist-bark",
   title: "Hist Bark",

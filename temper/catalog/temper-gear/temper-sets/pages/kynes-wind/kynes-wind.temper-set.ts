@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const kynesWind = {
   id: "019e66ec-7b7a-77ff-8a6d-c6b341b90716",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "kynes-wind",
   title: "Kyne's Wind",

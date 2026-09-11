@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const battlefieldAcrobat = {
   id: "019e66ec-764b-7068-bfe7-2f1261441e0e",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "battlefield-acrobat",
   title: "Battlefield Acrobat",

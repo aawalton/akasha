@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const graceOfGloom = {
   id: "019e66e7-6a61-78f3-ae5d-98282dedaddc",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "grace-of-gloom",
   title: "Grace of Gloom",

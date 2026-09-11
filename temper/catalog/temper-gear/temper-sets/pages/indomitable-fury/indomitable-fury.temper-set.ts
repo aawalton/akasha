@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const indomitableFury = {
   id: "019e66ec-779e-73cf-9e3f-dd2741ed3970",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "indomitable-fury",
   title: "Indomitable Fury",

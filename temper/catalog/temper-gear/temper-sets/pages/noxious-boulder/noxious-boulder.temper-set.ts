@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const noxiousBoulder = {
   id: "019e66e7-6a14-728d-ae1e-cf31fb6aa995",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "noxious-boulder",
   title: "Noxious Boulder",

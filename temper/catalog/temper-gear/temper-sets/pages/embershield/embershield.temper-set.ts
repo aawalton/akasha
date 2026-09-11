@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const embershield = {
   id: "019e66e6-a07c-7e33-a10a-7248690b441c",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "embershield",
   title: "Embershield",

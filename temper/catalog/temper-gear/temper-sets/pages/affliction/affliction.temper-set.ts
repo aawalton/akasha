@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const affliction = {
   id: "019e66ec-75f2-76dd-8728-c3fc3e33b1df",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "affliction",
   title: "Affliction",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const ladyThorn = {
   id: "019e6484-6002-7c80-bb71-087c7aef4e4f",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "lady-thorn",
   title: "Lady Thorn",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const explosiveRebuke = {
   id: "019e6484-5fab-7a61-84a2-2e65af7d1885",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "explosive-rebuke",
   title: "Explosive Rebuke",

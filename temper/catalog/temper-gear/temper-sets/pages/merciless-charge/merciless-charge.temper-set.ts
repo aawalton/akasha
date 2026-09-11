@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const mercilessCharge = {
   id: "019e6484-5fb7-736c-b2cf-dd661947d615",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "merciless-charge",
   title: "Merciless Charge",

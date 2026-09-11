@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const moonHunter = {
   id: "019e66e6-a0a5-781a-b267-8dbffaacedd9",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "moon-hunter",
   title: "Moon Hunter",

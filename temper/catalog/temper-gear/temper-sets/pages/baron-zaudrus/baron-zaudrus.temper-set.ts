@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const baronZaudrus = {
   id: "019e6484-5fef-7b86-aa10-e5cf9040a4a4",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "baron-zaudrus",
   title: "Baron Zaudrus",

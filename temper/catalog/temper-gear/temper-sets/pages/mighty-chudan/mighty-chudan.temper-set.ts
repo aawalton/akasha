@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const mightyChudan = {
   id: "019e6484-6007-7c51-916f-a58010dfa650",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "mighty-chudan",
   title: "Mighty Chudan",

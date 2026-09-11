@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const bonePiratesTatters = {
   id: "019e66e6-a064-7782-aaab-f78e05ab34ab",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "bone-pirates-tatters",
   title: "Bone Pirate's Tatters",

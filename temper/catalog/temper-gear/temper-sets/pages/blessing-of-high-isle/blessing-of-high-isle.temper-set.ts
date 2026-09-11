@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const blessingOfHighIsle = {
   id: "019e66e7-6a48-760e-9604-90de3dd4e258",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "blessing-of-high-isle",
   title: "Blessing of High Isle",

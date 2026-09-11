@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const basaltBloodedWarrior = {
   id: "019e6484-5fde-7b83-a3ef-2dd11eccaf68",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "basalt-blooded-warrior",
   title: "Basalt-Blooded Warrior",

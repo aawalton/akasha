@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const perfectedForceOverflow = {
   id: "019e6484-5fbd-738d-b172-5650ea4cd594",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "perfected-force-overflow",
   title: "Perfected Force Overflow",

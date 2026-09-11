@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const jerallMountainsWarchief = {
   id: "019e66ec-77aa-7c9f-8b90-b78aae664f61",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "jerall-mountains-warchief",
   title: "Jerall Mountains Warchief",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const apocryphalInspiration = {
   id: "019e66e6-a057-77b8-b338-4eaa9ecc1e8d",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "apocryphal-inspiration",
   title: "Apocryphal Inspiration",

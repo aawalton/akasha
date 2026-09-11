@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const orderOfDiagna = {
   id: "019e66e7-6a77-7571-be7c-c84bb672205a",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "order-of-diagna",
   title: "Order of Diagna",

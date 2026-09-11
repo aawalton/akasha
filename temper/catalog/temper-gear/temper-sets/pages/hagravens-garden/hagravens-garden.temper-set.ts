@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const hagravensGarden = {
   id: "019e66e6-a089-780c-ba3a-c081a0c41103",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "hagravens-garden",
   title: "Hagraven's Garden",

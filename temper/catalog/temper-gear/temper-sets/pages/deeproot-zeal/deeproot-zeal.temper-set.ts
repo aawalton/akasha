@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const deeprootZeal = {
   id: "019e66e6-a06f-7ac8-bd6e-e8e90c0b7962",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "deeproot-zeal",
   title: "Deeproot Zeal",

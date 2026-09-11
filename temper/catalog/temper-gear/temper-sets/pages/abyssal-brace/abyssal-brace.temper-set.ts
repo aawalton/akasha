@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const abyssalBrace = {
   id: "019e66e6-a053-73b6-93ec-2671978663d1",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "abyssal-brace",
   title: "Abyssal Brace",

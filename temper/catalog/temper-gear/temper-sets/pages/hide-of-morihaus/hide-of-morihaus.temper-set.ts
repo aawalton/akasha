@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const hideOfMorihaus = {
   id: "019e66e7-6a67-79e6-99a8-32a55eacbe40",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "hide-of-morihaus",
   title: "Hide of Morihaus",

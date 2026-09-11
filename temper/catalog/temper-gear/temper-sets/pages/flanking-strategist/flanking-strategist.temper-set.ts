@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const flankingStrategist = {
   id: "019e66e7-6a5f-7349-b9de-1a97ba7d90de",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "flanking-strategist",
   title: "Flanking Strategist",

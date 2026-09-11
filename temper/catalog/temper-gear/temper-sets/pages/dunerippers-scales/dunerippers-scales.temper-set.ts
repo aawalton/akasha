@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const dunerippersScales = {
   id: "019e66e6-a078-7614-8ac7-fde4e77c603f",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "dunerippers-scales",
   title: "Duneripper's Scales",

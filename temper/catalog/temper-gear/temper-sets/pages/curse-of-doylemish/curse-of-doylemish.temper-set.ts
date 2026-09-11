@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const curseOfDoylemish = {
   id: "019e66e6-a06d-7a30-95a8-65944f4d7256",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "curse-of-doylemish",
   title: "Curse of Doylemish",

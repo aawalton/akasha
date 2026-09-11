@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const bufferOfTheSwift = {
   id: "019e66ec-7687-7b47-b71d-ee249f3aa419",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "buffer-of-the-swift",
   title: "Buffer of the Swift",

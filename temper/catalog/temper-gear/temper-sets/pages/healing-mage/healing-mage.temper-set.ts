@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const healingMage = {
   id: "019e66ec-7b33-7c6c-91c1-fc2803cb1ead",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "healing-mage",
   title: "Healing Mage",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const aegisOfGalenwe = {
   id: "019e66ec-7a26-7ed5-a642-dd8406afada2",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "aegis-of-galenwe",
   title: "Aegis of Galenwe",

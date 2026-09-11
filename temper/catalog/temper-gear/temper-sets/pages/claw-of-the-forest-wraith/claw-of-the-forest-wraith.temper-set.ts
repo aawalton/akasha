@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const clawOfTheForestWraith = {
   id: "019e668e-9a39-741e-b14d-6de9d5880d71",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "claw-of-the-forest-wraith",
   title: "Claw of the Forest Wraith",

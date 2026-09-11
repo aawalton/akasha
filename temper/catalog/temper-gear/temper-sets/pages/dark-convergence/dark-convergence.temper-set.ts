@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const darkConvergence = {
   id: "019e66ec-76d0-7617-9cc6-1e8555e0cb36",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "dark-convergence",
   title: "Dark Convergence",

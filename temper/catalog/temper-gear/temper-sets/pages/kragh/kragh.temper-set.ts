@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const kragh = {
   id: "019e6484-6000-7d6f-97fa-f0972a15b69a",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "kragh",
   title: "Kra'gh",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const madTinkerer = {
   id: "019e66e7-6a6d-7c44-97ab-9ff9faba3f49",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "mad-tinkerer",
   title: "Mad Tinkerer",

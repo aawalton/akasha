@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const kraglensHowl = {
   id: "019e66e6-a09b-7baa-a527-7e04271d8675",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "kraglens-howl",
   title: "Kraglen's Howl",

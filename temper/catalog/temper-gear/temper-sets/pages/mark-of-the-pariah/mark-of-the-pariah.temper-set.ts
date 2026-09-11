@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const markOfThePariah = {
   id: "019e66e7-6a70-731e-b9ee-f93458e0097b",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "mark-of-the-pariah",
   title: "Mark of the Pariah",

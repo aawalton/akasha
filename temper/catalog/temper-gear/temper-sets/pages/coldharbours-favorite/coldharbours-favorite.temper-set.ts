@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const coldharboursFavorite = {
   id: "019e668e-9a3b-7084-9d38-41c74bbb3323",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "coldharbours-favorite",
   title: "Coldharbour's Favorite",

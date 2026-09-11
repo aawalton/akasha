@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const lightSpeaker = {
   id: "019e66e6-a09f-7e46-a6bc-ee9684c1539b",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "light-speaker",
   title: "Light Speaker",

@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const nocturnalsFavor = {
   id: "019e668e-9a58-7e92-8162-663ffb7be902",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "nocturnals-favor",
   title: "Nocturnal's Favor",

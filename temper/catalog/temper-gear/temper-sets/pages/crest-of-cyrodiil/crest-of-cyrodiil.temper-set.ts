@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const crestOfCyrodiil = {
   id: "019e66ec-76b7-7e0b-ad0c-b4d0fcc691c9",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "crest-of-cyrodiil",
   title: "Crest of Cyrodiil",

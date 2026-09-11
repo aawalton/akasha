@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const coupDeGrCe = {
   id: "019e66e7-6a00-7adc-9c2d-54cd683c8c97",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "coup-de-gr-ce",
   title: "Coup De GrÃ¢ce",

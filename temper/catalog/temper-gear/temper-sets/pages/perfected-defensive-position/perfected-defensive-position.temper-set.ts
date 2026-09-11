@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const perfectedDefensivePosition = {
   id: "019e66ec-7c71-774f-8b8e-b2f5d8f0c9e2",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "perfected-defensive-position",
   title: "Perfected Defensive Position",

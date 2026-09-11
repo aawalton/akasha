@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const orpheonTheTactician = {
   id: "019e66e7-6a15-76e0-9012-f200ae54bf77",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "orpheon-the-tactician",
   title: "Orpheon the Tactician",

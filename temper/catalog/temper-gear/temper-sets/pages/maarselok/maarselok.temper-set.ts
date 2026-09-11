@@ -2,7 +2,6 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-sets/te
 
 export const maarselok = {
   id: "019e6484-6004-7cc8-86a2-48695c6517fa",
-  pageTypeSlug: "temper-set",
   type: "temper-set",
   slug: "maarselok",
   title: "Maarselok",
