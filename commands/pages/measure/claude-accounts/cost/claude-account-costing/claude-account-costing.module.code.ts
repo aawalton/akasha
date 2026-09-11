@@ -1,8 +1,8 @@
 import { type Dirent, readdirSync, readFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
+import { parseSessionLine } from "akasha/agents/claude-code/session/jsonl/session-jsonl.module.code.ts"
 import type { TokenUsage } from "akasha/agents/claude-code/session/jsonl-schema/session-jsonl-schema.module.code.ts"
-import { parseSessionLine } from "akasha/seat-system/session-jsonl/session-jsonl.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const PER_MILLION = 1000000

@@ -5,7 +5,11 @@ export const claudeCodeSession = {
   type: "domain",
   slug: "claude-code-session",
   definition: "one conversation Claude Code can pick up again",
-  parts: ["domain/claude-code-session-store", "module/session-jsonl-schema"],
+  parts: [
+    "domain/claude-code-session-store",
+    "module/session-jsonl-schema",
+    "module/session-jsonl",
+  ],
   invariants: [
     {
       invariantKind: "departure",
