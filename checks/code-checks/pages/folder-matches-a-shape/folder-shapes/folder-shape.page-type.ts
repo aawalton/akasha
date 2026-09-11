@@ -68,7 +68,7 @@ export const folderShape = {
       statement: "A shape reserves no term against a shape matching that same term.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "No shape matches an empty folder.",
     },
     {
