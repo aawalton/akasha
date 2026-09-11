@@ -4,17 +4,7 @@ import {
   pollAndPersist,
 } from "akasha/alan/harness/inboxes/count-tick/inbox-count-tick.module.code.ts"
 
-async function main(): Promise<void> {
-  const args = process.argv.slice(2)
-
-  const known = new Set(["--json"])
-  for (const one of args) {
-    if (!known.has(one)) {
-      process.stderr.write(`\`${one}\` is not an argument this takes — run it with --help\n`)
-      process.exit(1)
-    }
-  }
-
+export async function runInboxTrackingPolling(args: readonly string[]): Promise<void> {
   const log = (level: "INFO" | "ERROR", message: string): undefined => {
     if (level === "ERROR") process.stderr.write(`${message}\n`)
     return undefined
@@ -50,7 +40,17 @@ async function main(): Promise<void> {
 }
 
 if (import.meta.main) {
-  main().catch((err) => {
+  const args = process.argv.slice(2)
+
+  const known = new Set(["--json"])
+  for (const one of args) {
+    if (!known.has(one)) {
+      process.stderr.write(`\`${one}\` is not an argument this takes — run it with --help\n`)
+      process.exit(1)
+    }
+  }
+
+  runInboxTrackingPolling(args).catch((err) => {
     console.error("inbox-tracking-poll fatal:", err)
     process.exit(1)
   })
