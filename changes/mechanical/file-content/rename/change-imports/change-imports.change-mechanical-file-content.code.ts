@@ -13,6 +13,7 @@ import {
   specifierFor,
   spelledIn,
 } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+import { landedAt } from "akasha/code-system/folder-spelling/folder-spelling.module.code.ts"
 import { runsIn } from "akasha/code-system/path-runs/path-runs.module.code.ts"
 
 const GENERATED = "+types"
@@ -29,6 +30,10 @@ const LINES = "\n"
 
 const MAPPED = new WeakMap<Readonly<Record<string, string>>, ReadonlyMap<string, string>>()
 
+const NOTHING_MOVED: Readonly<Record<string, string>> = {}
+
+export type Landing = (path: string) => string | null
+
 function stemOf(path: string): string {
   const name = basename(path)
   const tail = extname(name)
@@ -41,21 +46,16 @@ function generatedFor(was: string, now: string, said: string): string | null {
   return `.${UNDER}${GENERATED}${UNDER}${stemOf(now)}`
 }
 
-function beneathFor(
-  was: string,
-  dir: string,
-  said: string,
-  moved: ReadonlyMap<string, string>
-): string | null {
+function beneathFor(was: string, dir: string, said: string, landing: Landing): string | null {
   if (said.startsWith(UNDER) || !said.includes(UNDER)) return null
-  const there = moved.get(join(dirname(was), said))
-  return there === undefined ? null : relative(dir, there)
+  const there = landing(join(dirname(was), said))
+  return there === null ? null : relative(dir, there)
 }
 
-function rootedFor(said: string, moved: ReadonlyMap<string, string>): string | null {
+function rootedFor(said: string, landing: Landing): string | null {
   if (!said.startsWith(ROOT)) return null
-  const there = moved.get(said.slice(ROOT.length))
-  return there === undefined ? null : `${ROOT}${there}`
+  const there = landing(said.slice(ROOT.length))
+  return there === null ? null : `${ROOT}${there}`
 }
 
 function nextFor(
@@ -63,36 +63,31 @@ function nextFor(
   now: string,
   dir: string,
   said: string,
-  moved: ReadonlyMap<string, string>,
+  landing: Landing,
   specifier: boolean
 ): string | null {
   if (specifier) {
     const generated = generatedFor(was, now, said)
     if (generated !== null) return generated
   }
-  const under = rootedFor(said, moved)
+  const under = rootedFor(said, landing)
   if (under !== null) return under
-  const rooted = moved.get(said)
-  if (rooted !== undefined) return rooted
+  const rooted = landing(said)
+  if (rooted !== null) return rooted
   const landed = landingOf(was, said)
-  if (landed === null) return specifier ? null : beneathFor(was, dir, said, moved)
+  if (landed === null) return specifier ? null : beneathFor(was, dir, said, landing)
   if (said.startsWith(ROOT)) return null
-  const carried = moved.get(landed)
-  if (carried !== undefined) return specifierFor(dir, carried)
+  const carried = landing(landed)
+  if (carried !== null) return specifierFor(dir, carried)
   return specifier ? specifierFor(dir, landed) : null
 }
 
-export function changeImports(
-  was: string,
-  now: string,
-  text: string,
-  moved: ReadonlyMap<string, string>
-): Said {
+export function changeImports(was: string, now: string, text: string, landing: Landing): Said {
   const dir = dirname(now)
   const specifier = new Set(placedIn(now, text).map((one) => one.start))
   const splices: Splice[] = []
   for (const one of spelledIn(now, text)) {
-    const next = nextFor(was, now, dir, one.text, moved, specifier.has(one.start))
+    const next = nextFor(was, now, dir, one.text, landing, specifier.has(one.start))
     if (next === null || next === one.text) continue
     splices.push({ from: one.start, to: one.end, put: JSON.stringify(next) })
   }
@@ -105,28 +100,24 @@ type Pointed = {
   readonly put: string
 }
 
-function nearFor(
-  was: string,
-  dir: string,
-  run: string,
-  moved: ReadonlyMap<string, string>
-): Pointed | null {
+function endedAs(run: string, put: string): string {
+  return run.endsWith(UNDER) && !put.endsWith(UNDER) ? `${put}${UNDER}` : put
+}
+
+function nearFor(was: string, dir: string, run: string, landing: Landing): Pointed | null {
   if (!RELATIVE.test(run)) return null
   const landed = landingOf(was, run)
   if (landed === null) return null
-  const there = moved.get(landed)
-  return there === undefined ? null : { at: 0, said: run, put: specifierFor(dir, there) }
+  const there = landing(landed)
+  if (there === null) return null
+  return { at: 0, said: run, put: endedAs(run, specifierFor(dir, there)) }
 }
 
-function anchoredFor(
-  run: string,
-  said: readonly string[],
-  moved: ReadonlyMap<string, string>
-): Pointed | null {
+function anchoredFor(run: string, said: readonly string[], landing: Landing): Pointed | null {
   if (RELATIVE.test(run)) return null
   for (const one of said) {
-    const there = moved.get(one)
-    if (there !== undefined) return { at: run.length - one.length, said: one, put: there }
+    const there = landing(one)
+    if (there !== null) return { at: run.length - one.length, said: one, put: there }
   }
   return null
 }
@@ -141,12 +132,7 @@ function openingsIn(lines: readonly string[]): readonly number[] {
   return found
 }
 
-export function changeRuns(
-  was: string,
-  now: string,
-  text: string,
-  moved: ReadonlyMap<string, string>
-): Said {
+export function changeRuns(was: string, now: string, text: string, landing: Landing): Said {
   const dir = dirname(now)
   const lines = text.split(LINES)
   const opens = openingsIn(lines)
@@ -165,7 +151,7 @@ export function changeRuns(
     const found = line.indexOf(whole, cursor)
     if (found < 0) continue
     cursor = found + whole.length
-    const held = nearFor(was, dir, whole, moved) ?? anchoredFor(whole, run.said, moved)
+    const held = nearFor(was, dir, whole, landing) ?? anchoredFor(whole, run.said, landing)
     if (held === null || held.put === held.said) continue
     const from = open + found + held.at
     splices.push({ from, to: from + held.said.length, put: held.put })
@@ -173,10 +159,16 @@ export function changeRuns(
   return stating(splicing(now, text, splices))
 }
 
+export type Carried = {
+  readonly from: string
+  readonly to: string
+}
+
 export type Given = {
   readonly was: string
   readonly now: string
-  readonly moved: Readonly<Record<string, string>>
+  readonly moved?: Readonly<Record<string, string>>
+  readonly carried?: Carried
 }
 
 function mapFor(moved: Readonly<Record<string, string>>): ReadonlyMap<string, string> {
@@ -187,11 +179,18 @@ function mapFor(moved: Readonly<Record<string, string>>): ReadonlyMap<string, st
   return made
 }
 
+function landingFor(given: Given): Landing {
+  const carried = given.carried
+  if (carried !== undefined) return (path) => landedAt(path, carried.from, carried.to)
+  const moved = mapFor(given.moved ?? NOTHING_MOVED)
+  return (path) => moved.get(path) ?? null
+}
+
 export function runChange(world: World, given: Given): Said {
   const held = world.bodyOf(given.now) ?? world.bodyOf(given.was)
   if (notText(held)) return stating([])
   if (held === null) return refusing(`\`${given.now}\` holds no body, so nothing is repointed`)
-  const moved = mapFor(given.moved)
-  if (CODE.has(extname(given.now))) return changeImports(given.was, given.now, held, moved)
-  return changeRuns(given.was, given.now, held, moved)
+  const landing = landingFor(given)
+  if (CODE.has(extname(given.now))) return changeImports(given.was, given.now, held, landing)
+  return changeRuns(given.was, given.now, held, landing)
 }

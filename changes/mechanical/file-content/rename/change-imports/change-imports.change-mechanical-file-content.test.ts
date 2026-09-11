@@ -2,6 +2,8 @@ import { expect, test } from "bun:test"
 import {
   changeImports,
   changeRuns,
+  type Landing,
+  runChange,
 } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import {
   CONFIG,
@@ -24,7 +26,10 @@ import {
 } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.test-fixtures.ts"
 import { gathered } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { bodyOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import {
+  bodyOf,
+  worldOf,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   ARRIVES,
   CODE,
@@ -56,8 +61,12 @@ const TYPED_FOLLOWED = `import type { Route } from "./+types/addon-parcel.route.
 export const it: Route | null = null
 `
 
+function by(moved: ReadonlyMap<string, string>): Landing {
+  return (path) => moved.get(path) ?? null
+}
+
 function ranOn(was: string, now: string, text: string, moved: ReadonlyMap<string, string>): Answer {
-  return gathered([changeImports(was, now, text, moved)])
+  return gathered([changeImports(was, now, text, by(moved))])
 }
 
 function bodyIn(
@@ -81,14 +90,14 @@ test("a body naming nothing that moved is answered as no edit", () => {
 })
 
 test("a body that does not move states a replace rather than a move", () => {
-  const said = changeImports(HOLDER, HOLDER, CODE, new Map([[TARGET, ARRIVES]]))
+  const said = changeImports(HOLDER, HOLDER, CODE, by(new Map([[TARGET, ARRIVES]])))
 
   expect(said.edits).toHaveLength(1)
   expect(said.edits[0]).toMatchObject({ kind: "replace", path: HOLDER })
 })
 
 test("the passage a repointed import names is the line rather than the body", () => {
-  const said = changeImports(HOLDER, HOLDER, CODE, new Map([[TARGET, ARRIVES]]))
+  const said = changeImports(HOLDER, HOLDER, CODE, by(new Map([[TARGET, ARRIVES]])))
   const one = said.edits[0]
 
   expect(one?.kind === "replace" && one.contentFrom).toBe(
@@ -132,7 +141,7 @@ test("a body moving under the name it has keeps the types specifier it already s
   const now = "akasha/one/routes/under/keep.ts"
   const text = `import type { Route } from "./+types/keep"\n`
 
-  const said = changeImports(was, now, text, new Map([[was, now]]))
+  const said = changeImports(was, now, text, by(new Map([[was, now]])))
 
   expect(said.edits).toEqual([])
 })
@@ -140,7 +149,7 @@ test("a body moving under the name it has keeps the types specifier it already s
 test("a specifier naming a package is left alone though the file it reaches moved", () => {
   const text = `import { other } from "${ALIAS}"\n\nexport const held = other\n`
 
-  const said = changeImports(HOLDER, HOLDER, text, new Map([[TARGET, ARRIVES]]))
+  const said = changeImports(HOLDER, HOLDER, text, by(new Map([[TARGET, ARRIVES]])))
 
   expect(said.edits).toEqual([])
 })
@@ -148,7 +157,7 @@ test("a specifier naming a package is left alone though the file it reaches move
 test("a package name a body spells outside an import is left alone too", () => {
   const text = `export const at = "${ALIAS}"\n`
 
-  const said = changeImports(TABLE, TABLE, text, new Map([[TARGET, ARRIVES]]))
+  const said = changeImports(TABLE, TABLE, text, by(new Map([[TARGET, ARRIVES]])))
 
   expect(said.edits).toEqual([])
 })
@@ -177,7 +186,7 @@ function ranOverRuns(
   text: string,
   moved: ReadonlyMap<string, string>
 ): Answer {
-  return gathered([changeRuns(was, now, text, moved)])
+  return gathered([changeRuns(was, now, text, by(moved))])
 }
 
 function runBodyIn(
@@ -258,4 +267,64 @@ test("a body that is code is read by the parser rather than as runs", () => {
 
   expect(bodyIn(TYPED_ROUTE, TYPED_ROUTE_AT, TYPED_CODE, moved)).toBe(TYPED_FOLLOWED)
   expect(ranOverRuns(TYPED_ROUTE, TYPED_ROUTE_AT, TYPED_CODE, moved).edits).toEqual([])
+})
+
+const MOVING = { from: "code-system", to: "code" }
+
+const STYLES = "held/web/look/held-web-look.stylesheet.styles.css"
+
+const SOURCED = `@source "../../../code-system/router-apps/**/*.{ts,tsx}";\n`
+
+const SOURCED_AT = `@source "../../../code/router-apps/**/*.{ts,tsx}";\n`
+
+const SCRIPT = "code-system/ios-apps/scripts/stage.shell-script.sh"
+
+const RAN = `. "$AKASHA_ROOT/code-system/ios-apps/stage/stage.module.code.ts"\n`
+
+const RAN_AT = `. "$AKASHA_ROOT/code/ios-apps/stage/stage.module.code.ts"\n`
+
+function carriedOver(at: string, text: string): Answer {
+  return gathered([runChange(worldOf({ [at]: text }), { was: at, now: at, carried: MOVING })])
+}
+
+function carriedBody(at: string, text: string): string {
+  return bodyOf(carriedOver(at, text), (path) => (path === at ? text : null))
+}
+
+test("a run naming the folder that moved rather than a whole path follows that folder", () => {
+  expect(carriedBody(STYLES, SOURCED)).toBe(SOURCED_AT)
+})
+
+test("a run closing on a separator keeps that separator once the folder moves", () => {
+  expect(carriedBody(STYLES, SOURCED)).toContain("router-apps/**")
+})
+
+test("a run reached through a shell variable follows the folder that moved", () => {
+  expect(carriedBody(SCRIPT, RAN)).toBe(RAN_AT)
+})
+
+test("a page address opening with the folder's name is left alone", () => {
+  const text = `export const one = { domain: "domain/code-system" } as const\n`
+
+  expect(carriedOver(TABLE, text).edits).toEqual([])
+})
+
+test("a name with no separator is no path naming the folder that moved", () => {
+  const text = `const MOVED = "code-system"\n`
+
+  expect(carriedOver(TABLE, text).edits).toEqual([])
+})
+
+test("a name opening with the folder's letters but not at a separator is left alone", () => {
+  const text = `export const at = "code-systems/one.module.code.ts"\n`
+
+  expect(carriedOver(TABLE, text).edits).toEqual([])
+})
+
+test("a specifier spelled from the root under the folder that moved follows it", () => {
+  const text = `import { one } from "akasha/code-system/one/one.module.code.ts"\n`
+
+  expect(carriedBody(TABLE, text)).toBe(
+    `import { one } from "akasha/code/one/one.module.code.ts"\n`
+  )
 })

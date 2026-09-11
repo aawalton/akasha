@@ -37,6 +37,30 @@ export const changeImports = {
     },
     {
       invariantKind: "departure",
+      statement: "A caller hands in the paths that moved or the folder that moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller handing in the folder states the folder it was and the folder it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller handing in both is read as having handed in the folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where a path lands is one question asked the same way whichever was handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body naming the folder that moved, or a path under it, follows that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name with no separator is a name rather than a path naming that folder.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A specifier naming a package other than the root is left as it is whatever moved.",
     },
@@ -77,6 +101,10 @@ export const changeImports = {
     {
       invariantKind: "departure",
       statement: "The rest of the run around that reading is left as the body spells it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run closing on a separator closes on that separator once it is respelled.",
     },
     {
       invariantKind: "departure",
