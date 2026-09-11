@@ -23,11 +23,6 @@ export const dallaDeployCleanup = {
       workingMemory:
         "Every mechanical change takes a `body` of text, so `add-file` cannot write a `.dds` or a `.png`. The binaries akasha already holds, the persona wallpapers among them, were committed some other way, and `module/git-byte-pathspecs` beside them is the trace of it. Carrying an addon's art in needs this first.\n",
     },
-    {
-      statement: "The three kinds of service are named alike and sit together.",
-      workingMemory:
-        "Alan: rename all three, and the page types at least belong in `infrastructure/services/{inference|workstation|cluster}`. Today `cluster-service` sits at `infrastructure/cluster/services`, `workstation-service` at `services/workstation-services` and `inference-service` at `services/inference-services`. What each is renamed to is unsettled and is Alan's to say; the folders he named are settled.\n",
-    },
   ],
   constraints: [
     "The one deploy is `akasha deploy` at the root, and Alan reconciles that with the initiative pulling root commands into namespaces.",

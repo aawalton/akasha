@@ -16,4 +16,14 @@ export const service = {
     "service-workstation/service-watching",
     "page-type/service-inference",
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A kind of service is named `service` and then the thing running it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The three kinds of service sit in folders beside each other under this domain.",
+    },
+  ],
 } as const satisfies Domain
