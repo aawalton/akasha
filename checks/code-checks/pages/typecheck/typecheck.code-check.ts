@@ -187,6 +187,14 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
+      statement: "A name the placement misses is read from the link on disk.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "An install adds a link and takes none away.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A manifest the change has reaches the files its ways in name.",
     },
     {
