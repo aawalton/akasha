@@ -1,3 +1,4 @@
+import { __TS__CivilFromDays } from "akasha/language-design/lua-compiler/lualibs/civil-from-days/civil-from-days.lualib.code.ts"
 import { __TS__DaysFromCivil } from "akasha/language-design/lua-compiler/lualibs/days-from-civil/days-from-civil.lualib.code.ts"
 
 declare function GetTimeStamp(this: void): number
@@ -21,28 +22,6 @@ const MS_PER_DAY = 24 * MS_PER_HOUR
 
 let anchorEpochMs: number | undefined
 let anchorGameMs: number | undefined
-
-interface CivilDate {
-  year: number
-  month1: number
-  day: number
-}
-
-function civilFromDays(days: number): CivilDate {
-  const shifted = days + 719468
-  const era = Math.floor((shifted >= 0 ? shifted : shifted - 146096) / 146097)
-  const doe = shifted - era * 146097
-  const yoe = Math.floor(
-    (doe - Math.floor(doe / 1460) + Math.floor(doe / 36524) - Math.floor(doe / 146096)) / 365
-  )
-  const y = yoe + era * 400
-  const doy = doe - (365 * yoe + Math.floor(yoe / 4) - Math.floor(yoe / 100))
-  const mp = Math.floor((5 * doy + 2) / 153)
-  const d = doy - Math.floor((153 * mp + 2) / 5) + 1
-  const m = mp < 10 ? mp + 3 : mp - 9
-  const year = y + (m <= 2 ? 1 : 0)
-  return { year, month1: m, day: d }
-}
 
 interface DivMod {
   quotient: number
@@ -145,17 +124,17 @@ export class Date {
 
   public getFullYear(): number {
     const days = Math.floor(this.epochMs / MS_PER_DAY)
-    return civilFromDays(days).year
+    return __TS__CivilFromDays(days).year
   }
 
   public getMonth(): number {
     const days = Math.floor(this.epochMs / MS_PER_DAY)
-    return civilFromDays(days).month1 - 1
+    return __TS__CivilFromDays(days).month1 - 1
   }
 
   public getDate(): number {
     const days = Math.floor(this.epochMs / MS_PER_DAY)
-    return civilFromDays(days).day
+    return __TS__CivilFromDays(days).day
   }
 
   public getDay(): number {
@@ -182,7 +161,7 @@ export class Date {
 
   public toISOString(): string {
     const days = Math.floor(this.epochMs / MS_PER_DAY)
-    const civil = civilFromDays(days)
+    const civil = __TS__CivilFromDays(days)
     const dayMs = this.epochMs - days * MS_PER_DAY
     const hours = Math.floor(dayMs / MS_PER_HOUR)
     const afterHours = dayMs - hours * MS_PER_HOUR

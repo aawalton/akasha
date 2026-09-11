@@ -1,29 +1,10 @@
+import { __TS__CivilFromDays } from "akasha/language-design/lua-compiler/lualibs/civil-from-days/civil-from-days.lualib.code.ts"
 import { __TS__DaysFromCivil } from "akasha/language-design/lua-compiler/lualibs/days-from-civil/days-from-civil.lualib.code.ts"
 
 const SECONDS_PER_DAY = 86_400
 const RESET_OFFSET_SECONDS = 6 * 3600
 const EDT_OFFSET_SECONDS = -4 * 3600
 const EST_OFFSET_SECONDS = -5 * 3600
-
-function civilFromDays(daysSinceEpoch: number): {
-  year: number
-  month: number
-  day: number
-} {
-  const z = daysSinceEpoch + 719468
-  const era = Math.floor((z >= 0 ? z : z - 146096) / 146097)
-  const doe = z - era * 146097
-  const yoe = Math.floor(
-    (doe - Math.floor(doe / 1460) + Math.floor(doe / 36524) - Math.floor(doe / 146096)) / 365
-  )
-  const y = yoe + era * 400
-  const doy = doe - (365 * yoe + Math.floor(yoe / 4) - Math.floor(yoe / 100))
-  const mp = Math.floor((5 * doy + 2) / 153)
-  const day = doy - Math.floor((153 * mp + 2) / 5) + 1
-  const month = mp + (mp < 10 ? 3 : -9)
-  const year = y + (month <= 2 ? 1 : 0)
-  return { year, month, day }
-}
 
 function dowFromDays(daysSinceEpoch: number): number {
   const raw = (daysSinceEpoch + 4) % 7
@@ -39,7 +20,7 @@ function nthSundayOfMonthDays(year: number, month: number, n: number): number {
 
 function nyOffsetSec(utcSec: number): number {
   const days = Math.floor(utcSec / SECONDS_PER_DAY)
-  const { year } = civilFromDays(days)
+  const { year } = __TS__CivilFromDays(days)
   const springDays = nthSundayOfMonthDays(year, 3, 2)
   const fallDays = nthSundayOfMonthDays(year, 11, 1)
   const springSec = springDays * SECONDS_PER_DAY + 7 * 3600
@@ -70,8 +51,8 @@ export function getEsoDayStringFromSec(nowSec: number): string {
   const offset = nyOffsetSec(resetSec)
   const nyMidnightShifted = resetSec + offset - RESET_OFFSET_SECONDS
   const days = Math.floor(nyMidnightShifted / SECONDS_PER_DAY)
-  const { year, month, day } = civilFromDays(days)
-  const mm = month < 10 ? `0${month}` : `${month}`
+  const { year, month1, day } = __TS__CivilFromDays(days)
+  const mm = month1 < 10 ? `0${month1}` : `${month1}`
   const dd = day < 10 ? `0${day}` : `${day}`
   return `${year}-${mm}-${dd}`
 }

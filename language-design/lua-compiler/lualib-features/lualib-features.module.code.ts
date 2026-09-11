@@ -37,6 +37,7 @@ export const LuaLibFeature = {
   AsyncAwaiter: "AsyncAwaiter",
   Await: "Await",
   Coroutines: "Coroutines",
+  CivilFromDays: "CivilFromDays",
   Class: "Class",
   ClassExtends: "ClassExtends",
   CloneDescriptor: "CloneDescriptor",
