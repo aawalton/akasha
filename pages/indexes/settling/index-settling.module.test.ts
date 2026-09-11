@@ -6,6 +6,8 @@ import {
   aType,
   bodyOf,
   butTheStamp,
+  HELD_CODE,
+  HELD_PAGE,
   IDENTIFIERS,
   idOf,
   indexedRepo,
@@ -20,7 +22,7 @@ import {
   indexingAt,
   rebuiltFrom,
 } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedByPath, readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
 import { mergedIn, settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
 import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
@@ -188,6 +190,30 @@ test("a refusal the world already had is answered apart from the refusal a chang
   expect(settled.refused).toEqual([
     `${NAMER_PAGE}: \`note\` — no page admitting \`file-property\` carries the slug \`held\``,
   ])
+})
+
+const BESIDE_AT = "akasha/one/held.module.code.part2.ts"
+
+test("a change adding a file beside a page it leaves alone files that file under the page", () => {
+  const root = indexedRepo()
+  const textOf = textIn(root)
+  const reading = readingIn(root)
+
+  expect(listedByPath(reading, HELD_CODE).map((one) => one.path)).toEqual([HELD_PAGE])
+  expect(listedByPath(reading, BESIDE_AT)).toEqual([])
+
+  const settled = settlingOver(
+    reading,
+    root,
+    [{ path: BESIDE_AT, before: null, after: "export const two = 2\n" }],
+    (path) => {
+      const body = textOf(path)
+      return body === null ? null : valueIn(body)
+    },
+    textOf
+  )
+
+  expect(listedByPath(settled.reading, BESIDE_AT).map((one) => one.path)).toEqual([HELD_PAGE])
 })
 
 test("a rebuild agrees with the index a page taken from under a name left", () => {

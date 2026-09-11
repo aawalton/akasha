@@ -89,6 +89,15 @@ export const indexSettling = {
     },
     {
       invariantKind: "departure",
+      statement: "The path filing covers the page each file the change carries sits beside.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "That page's paths are worked out again both as the world was and as the change leaves it.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A change turning a property's key or target refiles the pages of that property's declaring types.",
     },

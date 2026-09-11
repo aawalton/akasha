@@ -2,6 +2,7 @@ import { type Rowing, rowsOver } from "akasha/pages/entries/page-entries.module.
 import { pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   idsUnnamed,
+  pagesBeside,
   pagesElsewhere,
   pagesNaming,
   pagesOfTypes,
@@ -269,13 +270,18 @@ export function settlingOver(
     carried
   )
   const beside = pagesTurned(reading, wasBesides, { fileProperties: filedBy, sidecars }, carriedAt)
+  const turnedAt = new Set(beside.map((one) => one.path))
+  const alongside = [
+    ...beside,
+    ...pagesBeside(reading, carriedAt).filter((one) => !turnedAt.has(one.path)),
+  ]
   const wasPaths = [
     ...held.flatMap((one) => (one.was === null ? [] : wasClaim(one.was, one.path, true))),
-    ...beside.flatMap((one) => wasClaim(one.value, one.path, true)),
+    ...alongside.flatMap((one) => wasClaim(one.value, one.path, true)),
   ]
   const nowPaths = [
     ...held.flatMap((one) => (one.now === null ? [] : claim(one.now, one.path, false))),
-    ...beside.flatMap((one) => claim(one.value, one.path, false)),
+    ...alongside.flatMap((one) => claim(one.value, one.path, false)),
   ]
   const paths = filingOf(reading, wasPaths, nowPaths)
   const listing = filingOf(reading, listedOf(wasPaths), listedOf(nowPaths))
