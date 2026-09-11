@@ -1,11 +1,11 @@
 import "akasha/temper/eso-types/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-02/eso-functions-02.type-declaration.d.ts"
-import { getSavedVariables } from "../trading-saved-variables/trading-saved-variables.module.code.ts"
+import { getSavedVariables } from "akasha/temper/trading-addon/trading-saved-variables/trading-saved-variables.module.code.ts"
 import type {
   LastSoldEntry,
   SavedVariablesData,
-} from "../trading-types/trading-types.module.code.ts"
+} from "akasha/temper/trading-addon/trading-types/trading-types.module.code.ts"
 
 function getLastSoldRecord(this: void): Record<string, LastSoldEntry> {
   const sv: SavedVariablesData = getSavedVariables()

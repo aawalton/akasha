@@ -2,8 +2,8 @@ import "akasha/temper/eso-types/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
-import { ADDON_NAME } from "../trading-constants/trading-constants.module.code.ts"
-import { getSavedVariables } from "../trading-saved-variables/trading-saved-variables.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/trading-addon/trading-constants/trading-constants.module.code.ts"
+import { getSavedVariables } from "akasha/temper/trading-addon/trading-saved-variables/trading-saved-variables.module.code.ts"
 
 export const EXPIRY_SECONDS = 14 * 24 * 60 * 60
 

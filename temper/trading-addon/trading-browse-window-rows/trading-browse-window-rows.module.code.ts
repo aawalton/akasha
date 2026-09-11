@@ -19,7 +19,7 @@ import {
   CONTROL_HEIGHT,
   PADDING_X,
 } from "akasha/temper/items-filters-addon/filter-bar-controls/filter-bar-controls.module.code.ts"
-import type { BrowseResultListing } from "../trading-browse-engine/trading-browse-engine.module.code.ts"
+import type { BrowseResultListing } from "akasha/temper/trading-addon/trading-browse-engine/trading-browse-engine.module.code.ts"
 
 export const ROW_HEIGHT = 20
 export const ROW_GAP = 2

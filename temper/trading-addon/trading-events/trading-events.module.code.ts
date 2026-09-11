@@ -10,8 +10,8 @@ import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import {
   captureOwnListings,
   captureSearchResults,
-} from "../trading-capture/trading-capture.module.code.ts"
-import { ADDON_NAME } from "../trading-constants/trading-constants.module.code.ts"
+} from "akasha/temper/trading-addon/trading-capture/trading-capture.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/trading-addon/trading-constants/trading-constants.module.code.ts"
 export function registerEvents(): undefined {
   const ns = ADDON_NAME
 

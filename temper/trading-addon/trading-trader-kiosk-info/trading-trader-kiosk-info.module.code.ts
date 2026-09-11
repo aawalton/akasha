@@ -6,7 +6,7 @@ import "akasha/temper/eso-types/eso-functions-03/eso-functions-03.type-declarati
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-objects-02/eso-objects-02.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
-import { ADDON_NAME } from "../trading-constants/trading-constants.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/trading-addon/trading-constants/trading-constants.module.code.ts"
 
 const WINDOW_NAME = "TemperListingsTraderInfo"
 const WINDOW_WIDTH = 280

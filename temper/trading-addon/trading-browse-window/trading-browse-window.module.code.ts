@@ -40,7 +40,7 @@ import type {
   FilterId,
   FilterValue,
 } from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
-import type { BrowseEngine } from "../trading-browse-engine/trading-browse-engine.module.code.ts"
+import type { BrowseEngine } from "akasha/temper/trading-addon/trading-browse-engine/trading-browse-engine.module.code.ts"
 import {
   buildHeader,
   buildRow,
@@ -50,11 +50,11 @@ import {
   type ResultRow,
   ROW_GAP,
   ROW_HEIGHT,
-} from "../trading-browse-window-rows/trading-browse-window-rows.module.code.ts"
+} from "akasha/temper/trading-addon/trading-browse-window-rows/trading-browse-window-rows.module.code.ts"
 import {
   createSavedSearchBar,
   SAVED_SEARCH_BAR_HEIGHT,
-} from "../trading-saved-search-bar/trading-saved-search-bar.module.code.ts"
+} from "akasha/temper/trading-addon/trading-saved-search-bar/trading-saved-search-bar.module.code.ts"
 
 const WINDOW_NAME = "TemperListingsBrowse"
 const SEARCH_WIDTH = 130

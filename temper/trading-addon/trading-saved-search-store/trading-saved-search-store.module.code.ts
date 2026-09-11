@@ -5,7 +5,7 @@ import type {
   SavedSearch,
   SavedSearchStore,
 } from "akasha/temper/items-filters-core/saved-search/saved-search.module.code.ts"
-import { getSavedVariables } from "../trading-saved-variables/trading-saved-variables.module.code.ts"
+import { getSavedVariables } from "akasha/temper/trading-addon/trading-saved-variables/trading-saved-variables.module.code.ts"
 
 export function getSavedSearches(this: void): SavedSearchStore {
   const sv = getSavedVariables()

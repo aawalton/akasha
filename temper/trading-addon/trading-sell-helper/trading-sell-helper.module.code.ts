@@ -21,6 +21,11 @@ import {
   PADDING_X,
   PADDING_Y,
 } from "akasha/temper/items-filters-addon/filter-bar-controls/filter-bar-controls.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/trading-addon/trading-constants/trading-constants.module.code.ts"
+import {
+  getLastSold,
+  putLastSold,
+} from "akasha/temper/trading-addon/trading-sell-price-store/trading-sell-price-store.module.code.ts"
 import {
   getItemPriceKey,
   suggestSellPrice,
@@ -29,11 +34,6 @@ import {
   createSellFlow,
   type SellFlow,
 } from "akasha/temper/trading-post/guild-store-poster/guild-store-poster.module.code.ts"
-import { ADDON_NAME } from "../trading-constants/trading-constants.module.code.ts"
-import {
-  getLastSold,
-  putLastSold,
-} from "../trading-sell-price-store/trading-sell-price-store.module.code.ts"
 
 const DIFFERENT_QUALITY_ITEMTYPES: Record<number, true> = {
   [ITEMTYPE_GLYPH_ARMOR]: true,

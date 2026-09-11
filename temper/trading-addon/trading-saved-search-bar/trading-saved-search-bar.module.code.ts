@@ -28,7 +28,7 @@ import {
   removeSavedSearch,
   renameSavedSearch,
   setActiveSavedSearchIndex,
-} from "../trading-saved-search-store/trading-saved-search-store.module.code.ts"
+} from "akasha/temper/trading-addon/trading-saved-search-store/trading-saved-search-store.module.code.ts"
 
 const SLOT_WIDTH = 110
 const DELETE_WIDTH = 20

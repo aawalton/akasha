@@ -4,8 +4,8 @@ import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declarati
 import "akasha/temper/eso-types/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
-import { ADDON_NAME } from "../trading-constants/trading-constants.module.code.ts"
-import { ensureGuild } from "../trading-saved-variables/trading-saved-variables.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/trading-addon/trading-constants/trading-constants.module.code.ts"
+import { ensureGuild } from "akasha/temper/trading-addon/trading-saved-variables/trading-saved-variables.module.code.ts"
 
 export function captureSearchResults(): undefined {
   const [numItems, currentPage] = GetTradingHouseSearchResultsInfo()
