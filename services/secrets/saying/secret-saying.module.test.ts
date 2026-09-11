@@ -1,14 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import type { SecretPage } from "../placing/secret-placing.module.code.ts"
+import { page } from "../placing/secret-placing.module.test-fixtures.ts"
 import { flagValues, heldBy, labelsOf, secretYaml } from "./secret-saying.module.code.ts"
-
-function page(slug: string, ...pairs: readonly (readonly [string, string])[]): SecretPage {
-  return {
-    slug,
-    relPath: `service-system/secrets/pages/${slug}.secret.ts`,
-    placements: pairs.map(([resourceName, resourceKey]) => ({ resourceName, resourceKey })),
-  }
-}
 
 describe("heldBy", () => {
   test("gathers every page placing a value in the resource", () => {

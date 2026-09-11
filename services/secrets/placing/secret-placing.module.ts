@@ -8,6 +8,7 @@ export const secretPlacing = {
     "the secret values a plan's manifests ask for, put into the cluster from secret pages",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

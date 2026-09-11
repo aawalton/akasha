@@ -1,18 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import {
-  DeployRefused,
-  placedAt,
-  placementsIn,
-  type SecretPage,
-} from "./secret-placing.module.code.ts"
-
-function page(slug: string, ...pairs: readonly (readonly [string, string])[]): SecretPage {
-  return {
-    slug,
-    relPath: `service-system/secrets/pages/${slug}.secret.ts`,
-    placements: pairs.map(([resourceName, resourceKey]) => ({ resourceName, resourceKey })),
-  }
-}
+import { DeployRefused, placedAt, placementsIn } from "./secret-placing.module.code.ts"
+import { page } from "./secret-placing.module.test-fixtures.ts"
 
 describe("placementsIn", () => {
   test("reads every resource and key a page names", () => {
