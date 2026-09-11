@@ -5,8 +5,7 @@ export const auditAstUnused = {
   pageTypeSlug: "domain",
   type: "domain",
   slug: "audit-ast-unused",
-  definition:
-    "the audit reading the code repository against what the instructions repository reaches into it",
+  definition: "the entry globs each workspace's reachability is worked out from",
   parts: ["page-type/ast-unused-config", "ast-unused-config/every-workspace"],
   invariants: [
     {
