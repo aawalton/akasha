@@ -5,11 +5,14 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy = {
   pageTypeSlug: "story-read",
   type: "story-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  author: "P_Magno",
+  unit: "words",
+  externalId: "167476",
+  externalLink:
+    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy",
   title: "Quiet Life Of The Mute Archmage (OP Archmage/ Academy/ XianXia/ LITRPG/ Mute MC)",
   world: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   source: "royal-road",
-  author: "P_Magno",
-  publicationStatus: "ongoing",
   externalTags: [
     "LitRPG",
     "Progression",
@@ -37,9 +40,6 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy = {
     "Supernatural",
     "Tower",
   ],
-  unit: "words",
-  externalLink:
-    "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy",
-  externalId: "167476",
+  publicationStatus: "hiatus",
   prose: "txt",
 } as const satisfies StoryRead
