@@ -1,3 +1,4 @@
+import { alterPointsDisplay } from "akasha/temper/skills-panel/skills-panel-points/skills-panel-points.module.code.ts"
 import { getAchievementIDs } from "akasha/temper/skyshards/skyshards-data-accessors/skyshards-data-accessors.module.code.ts"
 
 const GAMEPAD_SKYSHARD_SKILLSPANEL_FORMAT_DETAILED = "|cffffff<<1>>/<<2>>|r"
@@ -63,6 +64,5 @@ function postHookRefreshPointsDisplay(this: void, self: GamepadSkillsScene): und
 }
 
 export function alterSkyShardsIndicator(this: void): undefined {
-  getNumFoundSkyShards()
-  ZO_PostHook(GAMEPAD_SKILLS, "RefreshPointsDisplay", postHookRefreshPointsDisplay)
+  alterPointsDisplay(getNumFoundSkyShards, postHookRefreshPointsDisplay)
 }
