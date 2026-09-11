@@ -8,6 +8,7 @@ export const temperNarrow = {
   definition: "the narrowings add-on code needs that only the game's own Lua can do",
   parts: [
     "module/is-table",
+    "module/lua-string-contains",
     "module/parse-lua-capture",
     "module/require-numeric-key",
     "module/require-saved-variables",

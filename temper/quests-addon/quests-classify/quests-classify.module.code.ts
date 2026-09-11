@@ -1,3 +1,4 @@
+import { luaStringContains } from "akasha/temper/narrow/lua-string-contains/lua-string-contains.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/quests-addon/quests-constants/quests-constants.module.code.ts"
 import type { ChatterOptionKind } from "akasha/temper/quests-addon/quests-decide/quests-decide.module.code.ts"
 
@@ -14,11 +15,6 @@ export interface RawOption {
   readonly isImportant: boolean
   readonly chosenBefore: boolean
   kind: ChatterOptionKind
-}
-
-function luaStringContains(haystack: string, needle: string): boolean {
-  const [pos] = string.find(haystack, needle, 1, true)
-  return pos !== undefined
 }
 
 function isServiceOptionType(optionType: number): boolean {
