@@ -7,8 +7,15 @@ import {
   sameBody,
 } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { said as gitIn, told } from "akasha/git/running/git-running.module.code.ts"
+import {
+  type Facing,
+  facingOn,
+  writerAt,
+} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 
 const HERE = "."
+
+const NONE: ReadonlySet<string> = new Set()
 
 export const PUT_BACK = "so writing it would put back what moved in between"
 
@@ -68,7 +75,23 @@ function movedBetween(
   return moved.sort()
 }
 
-export function unfresh(
+export function machineWrote(given: Facing, paths: Iterable<string>): ReadonlySet<string> {
+  const made = new Set<string>()
+  for (const one of paths) if (writerAt(given, one) !== null) made.add(one)
+  return made
+}
+
+function groupWrote(root: string, paths: readonly string[]): ReadonlySet<string> {
+  if (paths.length === 0) return NONE
+  try {
+    return machineWrote(facingOn(root), paths)
+  } catch {
+    return NONE
+  }
+}
+
+function unfreshPast(
+  machine: ReadonlySet<string>,
   root: string,
   named: string | null,
   base: string,
@@ -76,7 +99,8 @@ export function unfresh(
   asRead: readonly Reading[],
   tail: string
 ): readonly string[] | null {
-  const moved = named === null || named === base ? [] : movedBetween(root, named, base, paths)
+  const held = paths.filter((one) => !machine.has(one))
+  const moved = named === null || named === base ? [] : movedBetween(root, named, base, held)
   if (named !== null && moved.length > 0) {
     return [
       ...moved.map(
@@ -86,12 +110,41 @@ export function unfresh(
       tail,
     ]
   }
-  const stirred = movedOnDisk(root, base, asRead)
+  const stirred = movedOnDisk(
+    root,
+    base,
+    asRead.filter((one) => !machine.has(one.path))
+  )
   if (stirred.length === 0) return null
   return [
     ...stirred.map((one) => `${one} — what is on disk is not the body you read, ${PUT_BACK}`),
     tail,
   ]
+}
+
+export function unfreshOver(
+  given: Facing,
+  root: string,
+  named: string | null,
+  base: string,
+  paths: readonly string[],
+  asRead: readonly Reading[],
+  tail: string
+): readonly string[] | null {
+  const pathed = [...paths, ...asRead.map((one) => one.path)]
+  return unfreshPast(machineWrote(given, pathed), root, named, base, paths, asRead, tail)
+}
+
+export function unfresh(
+  root: string,
+  named: string | null,
+  base: string,
+  paths: readonly string[],
+  asRead: readonly Reading[],
+  tail: string
+): readonly string[] | null {
+  const pathed = [...paths, ...asRead.map((one) => one.path)]
+  return unfreshPast(groupWrote(root, pathed), root, named, base, paths, asRead, tail)
 }
 
 export function commitNamed(root: string, named: string): string | null {

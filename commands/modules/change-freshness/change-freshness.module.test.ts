@@ -4,10 +4,12 @@ import { join } from "node:path"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import {
   commitNamed,
+  machineWrote,
   movedOnDisk,
   PUT_BACK,
   reachedSince,
   unfresh,
+  unfreshOver,
 } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
 import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import {
@@ -21,6 +23,8 @@ import {
 import { blobIdOf, type Reading } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { said as git } from "akasha/git/running/git-running.module.code.ts"
+import type { Facing } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"
 
 const scratch = scratchWorld()
@@ -250,4 +254,69 @@ test("a commit reaching nothing under `akasha/` while the change was judged refu
   expect("refusals" in said).toBe(false)
   expect(readFileSync(join(root, AT), "utf8")).toBe("written over")
   expect(readFileSync(join(root, "outside.txt"), "utf8")).toBe("landed elsewhere")
+})
+
+const GROUP_AT = "akasha/one.thing.shell.sh"
+
+const GROUP_CODE = "akasha/one.thing.scripting.code.ts"
+
+const SHELL_AT = "akasha/shell.file-property.ts"
+
+const GROUP_PAGE = "akasha/scripting.module-property-group.ts"
+
+const SAYING: ReadonlyMap<string, Value> = new Map([
+  [SHELL_AT, { propertySlug: "shell", writtenBy: "module-property-group/scripting" }],
+  [GROUP_PAGE, { slug: "scripting", propertySlug: "scripting" }],
+])
+
+const GROUPS: Facing = {
+  kindsUnder: (of) => (of === "file-property" ? ["file-property"] : []),
+  everyOfType: (kind) => {
+    if (kind === "file-property") return [{ path: SHELL_AT }]
+    if (kind === "module-property-group") return [{ path: GROUP_PAGE }]
+    return []
+  },
+  valueAt: (path) => SAYING.get(path) ?? null,
+  carryingOf: (named) =>
+    named === "file-property/shell"
+      ? {
+          carrying: [
+            { pageTypeSlug: "thing", path: "akasha/one.thing.ts", id: "held", within: null },
+          ],
+        }
+      : { refused: "no page property carries that slug" },
+  filesIn: () => [GROUP_CODE],
+}
+
+function repoWithGroup(): string {
+  return repoWith({ ...PAGES, [GROUP_AT]: "one\n", [GROUP_CODE]: "code\n" })
+}
+
+test("a path a group writes is held to no commit, and the code that group runs is held to one", () => {
+  const root = repoWithGroup()
+  const read = headOf(root)
+  writeFileSync(join(root, GROUP_AT), "two\n")
+  writeFileSync(join(root, GROUP_CODE), "other\n")
+  git(root, ["commit", "--quiet", "-a", "-m", "meanwhile"])
+  const said = unfreshOver(GROUPS, root, read, headOf(root), [GROUP_AT, GROUP_CODE], [], "tail")
+  expect(said?.join("\n") ?? "").toContain(GROUP_CODE)
+  expect(said?.join("\n") ?? "").not.toContain(GROUP_AT)
+})
+
+test("a reading of a path a group writes is held to nothing, and one of that group's code is not", () => {
+  const root = repoWithGroup()
+  const base = headOf(root)
+  writeFileSync(join(root, GROUP_AT), "two\n")
+  writeFileSync(join(root, GROUP_CODE), "other\n")
+  const held = [
+    asRead(GROUP_AT, blobIdOf(bytes("one\n"))),
+    asRead(GROUP_CODE, blobIdOf(bytes("code\n"))),
+  ]
+  const said = unfreshOver(GROUPS, root, null, base, [], held, "tail")
+  expect(said?.join("\n") ?? "").toContain(GROUP_CODE)
+  expect(said?.join("\n") ?? "").not.toContain(GROUP_AT)
+})
+
+test("the file a group writes is the only path of the three a machine wrote", () => {
+  expect([...machineWrote(GROUPS, [GROUP_AT, GROUP_CODE, AT])]).toEqual([GROUP_AT])
 })
