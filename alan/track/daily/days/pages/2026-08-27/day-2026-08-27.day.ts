@@ -1,4 +1,4 @@
-import type { Day } from "akasha/alan/track/daily/days/day.page-type.types.ts"
+import type { Day } from "../../day.page-type.types.ts"
 
 export const day20260827 = {
   id: "01a0439c-4fb9-7000-9661-3c3a22457907",
@@ -15,7 +15,7 @@ export const day20260827 = {
   sleepPoints: 595,
   funPoints: 0,
   learnPoints: 0,
-  nutritionPoints: 5240,
+  nutritionPoints: 0,
   breathingPoints: 0,
   inboxTasks: 21,
   inboxTasksClearedToday: false,
