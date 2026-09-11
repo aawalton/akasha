@@ -15,6 +15,7 @@ export const temperAddonBuild = {
     "module/global-name-dependents",
     "module/consolidation-migrations",
     "module/addon-compiling",
+    "module/addon-placing",
   ],
   invariants: [
     {
