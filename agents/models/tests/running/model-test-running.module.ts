@@ -26,6 +26,10 @@ export const modelTestRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "A judged case carries the prompt put for it beside the answer that came back.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A case a test asks nothing about is answered as reaching nothing.",
     },
     {

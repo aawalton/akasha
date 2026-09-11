@@ -12,6 +12,8 @@ export const BROKEN = "--broken"
 
 export const JSON_OUT = "--json"
 
+export const SHOW = "--show"
+
 const UNREACHED = "unreached"
 
 const SAID = 40
@@ -42,12 +44,14 @@ export function readIn(argv: readonly string[]): Read {
       at += 1
       continue
     }
-    if (one === BROKEN || one === JSON_OUT) {
+    if (one === BROKEN || one === JSON_OUT || one === SHOW) {
       on.add(one)
       continue
     }
     if (one.startsWith("-")) {
-      refusals.push(`\`${one}\` is no flag a run takes — it takes ${CASES}, ${BROKEN}, ${JSON_OUT}`)
+      refusals.push(
+        `\`${one}\` is no flag a run takes — it takes ${CASES}, ${BROKEN}, ${JSON_OUT}, ${SHOW}`
+      )
       continue
     }
     if (test !== null) {
@@ -77,6 +81,18 @@ export function scoreOf(every: readonly Judged[]): string {
   return `kept\t${every.filter((one) => one.kept).length} of ${every.length}`
 }
 
+export function shownOf(judged: Judged): readonly string[] {
+  const lines: string[] = [`${judged.kept ? "kept" : "broke"}\t${judged.one.id}`]
+  for (let at = 0; at < judged.asked.length; at += 1) {
+    const asked = judged.asked[at]
+    if (asked === undefined) continue
+    lines.push(`--- put about ${asked.about}`, asked.prompt)
+    lines.push(`--- said about ${asked.about}`, judged.got[at]?.said ?? "")
+  }
+  if (judged.asked.length === 0) lines.push(`--- ${UNREACHED}`)
+  return lines
+}
+
 function showing(every: readonly Judged[], on: ReadonlySet<string>): Answer {
   const shown = on.has(BROKEN) ? every.filter((one) => !one.kept) : every
   const broken = every.filter((one) => !one.kept).length
@@ -97,6 +113,13 @@ function showing(every: readonly Judged[], on: ReadonlySet<string>): Answer {
           })),
         }),
       ],
+      refusals: [],
+      code: broken === 0 ? 0 : 1,
+    }
+  }
+  if (on.has(SHOW)) {
+    return {
+      report: [...shown.flatMap(shownOf), scoreOf(every)],
       refusals: [],
       code: broken === 0 ? 0 : 1,
     }

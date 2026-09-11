@@ -6,7 +6,9 @@ import {
   JSON_OUT,
   readIn,
   rowOf,
+  SHOW,
   scoreOf,
+  shownOf,
 } from "akasha/commands/pages/model/test/model-test.command.code.ts"
 
 test("the test to score is the word carrying no hyphen", () => {
@@ -52,6 +54,10 @@ const ONE: Judged = {
     statement: "Shall I go on?",
     answer: "YES",
   },
+  asked: [
+    { about: "Act By Default", prompt: "put for Act By Default" },
+    { about: "Don't Stop!", prompt: "put for Don't Stop!" },
+  ],
   got: [
     { about: "Act By Default", said: "NO" },
     { about: "Don't Stop!", said: "YES" },
@@ -72,4 +78,30 @@ test("a case nothing could be asked of says so in place of an answer", () => {
 
 test("the score counts the cases kept out of every case", () => {
   expect(scoreOf([ONE, { ...ONE, kept: false }])).toBe("kept\t1 of 2")
+})
+
+test("the show flag is gathered with the rest", () => {
+  const read = readIn(["directive-kept", SHOW])
+  expect(read).toEqual({ test: "directive-kept", from: null, on: new Set([SHOW]) })
+})
+
+test("showing a case gives the whole prompt put and the whole answer back", () => {
+  expect(shownOf(ONE)).toEqual([
+    "broke\t01a09149-86b8-7a49-b3a0-96f054359ff3".replace("broke", "kept"),
+    "--- put about Act By Default",
+    "put for Act By Default",
+    "--- said about Act By Default",
+    "NO",
+    "--- put about Don't Stop!",
+    "put for Don't Stop!",
+    "--- said about Don't Stop!",
+    "YES",
+  ])
+})
+
+test("showing a case nothing was asked of says so", () => {
+  expect(shownOf({ ...ONE, asked: [], got: [], kept: false, reached: false })).toEqual([
+    "broke\t01a09149-86b8-7a49-b3a0-96f054359ff3",
+    "--- unreached",
+  ])
 })

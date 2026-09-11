@@ -13,6 +13,7 @@ export const modelTest = {
     { said: "--cases <test>", takes: "the model test whose cases are used, its own by default" },
     { said: "--broken", takes: "the cases the model got wrong and no others" },
     { said: "--json", takes: "the answer as one JSON object rather than as rows" },
+    { said: "--show", takes: "the whole prompt put for each case shown and the whole answer back" },
   ],
   helpNotes: [
     "a rival prompt is weighed by running it over the cases of the test it rivals, so both are scored on the same cases.",
@@ -31,6 +32,14 @@ export const modelTest = {
     {
       invariantKind: "departure",
       statement: "A case the model got wrong is reported with the answer the model gave.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row shortens the answer, and the whole prompt and answer are asked for apart.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The prompt shown is the one the run put rather than one composed again to show.",
     },
     {
       invariantKind: "departure",

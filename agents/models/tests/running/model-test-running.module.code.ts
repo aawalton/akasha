@@ -59,6 +59,7 @@ export type Beside = { readonly asking: Asking; readonly keeping: Keeping }
 
 export type Judged = {
   readonly one: Case
+  readonly asked: readonly Asked[]
   readonly got: readonly Got[]
   readonly kept: boolean
   readonly reached: boolean
@@ -173,7 +174,7 @@ export async function runningOf(
   for (const one of await everyCase(root, from)) {
     const asked = asking(one, reading)
     if (asked.length === 0) {
-      missed.push({ one, got: [], kept: false, reached: false })
+      missed.push({ one, asked: [], got: [], kept: false, reached: false })
       continue
     }
     spans.push({ one, opens: prompts.length, asked })
@@ -186,7 +187,7 @@ export async function runningOf(
       about: each.about,
       said: answers[span.opens + at] ?? "",
     }))
-    return { one: span.one, got, kept: keeping(span.one, got), reached: true }
+    return { one: span.one, asked: span.asked, got, kept: keeping(span.one, got), reached: true }
   })
   return [...judged, ...missed]
 }
