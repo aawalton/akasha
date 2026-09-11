@@ -1,18 +1,18 @@
 import { dirname, join } from "node:path"
-import { placedIn } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
-import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import {
   missing,
   refusing,
   splicing,
   stating,
-} from "../../../modules/answer/change-answer.module.code.ts"
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type {
   FileChange,
   Said,
   Splice,
-} from "../../../modules/answer/change-answer.module.types.ts"
-import type { World } from "../../../modules/shadow/change-shadow.module.code.ts"
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { placedIn } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 
 const AT = "at"
 

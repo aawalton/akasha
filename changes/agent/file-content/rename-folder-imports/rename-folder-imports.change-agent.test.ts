@@ -1,7 +1,13 @@
 import { expect, test } from "bun:test"
-import type { World } from "../../../modules/shadow/change-shadow.module.code.ts"
-import { bodyOf, worldOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { renameFolderImports, runChange } from "./rename-folder-imports.change-agent.code.ts"
+import {
+  renameFolderImports,
+  runChange,
+} from "akasha/changes/agent/file-content/rename-folder-imports/rename-folder-imports.change-agent.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
+  bodyOf,
+  worldOf,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const AT = "temper/held"
 

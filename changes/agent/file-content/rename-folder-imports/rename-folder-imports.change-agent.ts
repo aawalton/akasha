@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
+import type { ChangeAgent } from "akasha/changes/agent/change-agent.page-type.types.ts"
 
 export const renameFolderImports = {
   id: "01a08dc4-e449-7081-b339-7a0d9b4ca947",
