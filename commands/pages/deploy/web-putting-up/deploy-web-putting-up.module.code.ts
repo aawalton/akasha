@@ -32,7 +32,8 @@ export async function putUpWebApp(
   slug: string,
   sha: string,
   given: Given,
-  dryRun: boolean
+  dryRun: boolean,
+  codeAt: string
 ): Promise<Answer> {
   const read = deployableNamed(given.root, slug)
   if ("refused" in read) return refused(read.refused, DATA)
@@ -46,7 +47,7 @@ export async function putUpWebApp(
     `code\t${deployable.synthPath}`,
   ]
 
-  const plan = await planFor(given.root, workload, deployable.synthPath)
+  const plan = await planFor(codeAt, workload, deployable.synthPath)
   if (typeof plan === "string") return { report, refusals: [plan], code: DATA }
 
   const left = unfilledOf(plan)
@@ -111,7 +112,7 @@ export async function putUpWebApp(
     const installs = installableAt(given.root, sha)
     if ("why" in installs) return { report, refusals: [installs.why], code: DATA }
     report.push(`installs\t${sha}\tthe manifests it tracks`)
-    const declared = await declaredBuildEnv(join(given.root, deployable.synthPath))
+    const declared = await declaredBuildEnv(join(codeAt, deployable.synthPath))
     resolved = resolveBuildEnv(target.namespace, declared, sha)
     report.push(`build-env\t${resolved.env.map((one) => one.name).join(" ")}`)
     if (resolved.missing.length > 0) {

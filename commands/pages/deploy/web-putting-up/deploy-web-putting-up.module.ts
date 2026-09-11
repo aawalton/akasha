@@ -111,5 +111,10 @@ export const deployWebPuttingUp = {
       invariantKind: "departure",
       statement: "A dry run pushes nothing and says what the push would carry.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The manifests and what the build needs are read from the tree pinned at the commit.",
+    },
   ],
 } as const satisfies Module

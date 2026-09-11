@@ -74,6 +74,7 @@ export const PINNED: ReadonlySet<string> = new Set([
   INFERENCE_SERVICE,
   CONTAINER_RECIPE,
   CLUSTER_SERVICE,
+  WEB_APP,
 ])
 
 export interface RefNamed {
@@ -148,7 +149,7 @@ export async function putUp(
   if (bundle !== null && bundle.refusals.length > 0) {
     return answering(bundle.lines, bundle.refusals, OPERATIONAL)
   }
-  const up = await putUpWebApp(slug, commit, given, dryRun)
+  const up = await putUpWebApp(slug, commit, given, dryRun, at)
   if (bundle === null) return up
   return answering([...bundle.lines, ...up.report], up.refusals, up.code)
 }
