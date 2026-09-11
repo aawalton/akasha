@@ -11,6 +11,7 @@ export const moveFileOfAnyKind = {
   definition: "one file moved to another path, through the change moving that kind of path",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

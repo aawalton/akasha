@@ -1,11 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { movePage } from "akasha/changes/agent/file/move-page/move-page.change-agent.code.ts"
-import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as moveFileCode } from "akasha/changes/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
-import { runChange as moveFileOfAnyKind } from "akasha/changes/mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.code.ts"
-import { runChange as moveFilePage } from "akasha/changes/mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.code.ts"
-import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { MOVING } from "akasha/changes/mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.test-fixtures.ts"
+import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type World,
@@ -29,24 +25,7 @@ const MOVED_PAGE = "akasha/three/held.module.ts"
 const MOVED_CODE = "akasha/three/held.module.code.ts"
 
 function worldIn(root: string): World {
-  return worldAt(root, textIn(root), async (world, at, given) => {
-    if (at === "change-mechanical/move-file-of-any-kind") {
-      return await moveFileOfAnyKind(world, given as Parameters<typeof moveFileOfAnyKind>[1])
-    }
-    if (at === "change-mechanical-file/move-file-page") {
-      return await moveFilePage(world, given as Parameters<typeof moveFilePage>[1])
-    }
-    if (at === "change-mechanical/move-file-code") {
-      return await moveFileCode(world, given as Parameters<typeof moveFileCode>[1])
-    }
-    if (at === "change-mechanical-file/move-file") {
-      return moveFile(world, given as Parameters<typeof moveFile>[1])
-    }
-    if (at === "change-mechanical-file-content/change-imports") {
-      return changeImports(world, given as Parameters<typeof changeImports>[1])
-    }
-    return refusing(`\`${at}\` is reached by nothing here`)
-  })
+  return worldAt(root, textIn(root), MOVING)
 }
 
 test("a page carried into another folder carries the files beside that page", async () => {
