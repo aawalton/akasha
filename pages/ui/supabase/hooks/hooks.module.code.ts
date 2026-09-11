@@ -3,6 +3,7 @@
 import { flattenRow } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
 import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import { readTargetPageTypeId } from "akasha/pages/core/property-types/relation/relation.module.code.ts"
 import {
   useAcquireSlug,
   usePipelineLive,
@@ -26,7 +27,6 @@ import {
   type IdSuffixResult,
 } from "akasha/pages/ui-store/query/id-suffix-pipeline/id-suffix-pipeline.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { useEffect, useMemo, useRef, useState } from "react"
 
 export function usePageByIdSuffix({
@@ -93,12 +93,6 @@ export function useAllPages({ pageTypeSlug }: { pageTypeSlug: string }): {
   }, [hasMore, isLoading, loadMore])
   const pages = useMemo(() => result.rows.map((r) => toPageWithProperties(r)), [result.rows])
   return { pages, isLoading: isLoading || hasMore, isDegraded, error }
-}
-
-function readTargetPageTypeId(config: unknown): string | undefined {
-  if (!isRecord(config)) return undefined
-  const target = config.targetPageTypeId
-  return typeof target === "string" ? target : undefined
 }
 
 export function useRelatedPages({

@@ -7,4 +7,10 @@ export const relation = {
   slug: "relation",
   definition: "the operations a relation property supports",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The page type a relation points at is read here rather than by each reader.",
+    },
+  ],
 } as const satisfies Module

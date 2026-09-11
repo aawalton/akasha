@@ -2,12 +2,12 @@
 
 import { getPages } from "akasha/pages/access/get/get.module.code.ts"
 import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import { readTargetPageTypeId } from "akasha/pages/core/property-types/relation/relation.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
 import {
   type PageWithProperties,
   toPageWithProperties,
 } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { useEffect, useMemo, useRef, useState } from "react"
 
 export interface Referrer {
@@ -25,12 +25,6 @@ export interface InboundSpec {
 }
 
 const MAX_REFERRERS = 100
-
-function readTargetPageTypeId(config: unknown): string | undefined {
-  if (!isRecord(config)) return undefined
-  const target = config.targetPageTypeId
-  return typeof target === "string" ? target : undefined
-}
 
 export function computeInboundSpecs({
   pageTypeId,
