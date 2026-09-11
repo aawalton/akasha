@@ -1,4 +1,4 @@
-import { readFileSync } from "node:fs"
+import { scanningBundleFile } from "akasha/temper/build-deploy-checks/bundle-file-scan/bundle-file-scan.module.code.ts"
 import {
   ESO_AVAILABLE_COROUTINE,
   ESO_AVAILABLE_DEBUG,
@@ -203,8 +203,7 @@ export function scanBundle(
 }
 
 export function scanBundleFile(path: string): readonly Issue[] {
-  const source = readFileSync(path, "utf8")
-  return scanBundle(source, path)
+  return scanningBundleFile(path, scanBundle)
 }
 
 export function formatIssue(issue: Issue): string {
