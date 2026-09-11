@@ -65,8 +65,26 @@ export const typecheck = {
       statement: "A router app's generated route types stand outside the repository.",
     },
     {
-      invariantKind: "gap",
-      statement: "A file importing generated route types is judged by its own app's compile.",
+      invariantKind: "constraint",
+      statement: "Every router app augments one interface react-router declares.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Two apps' generated route types augment that interface incompatibly.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A program holding another app's route map types a route's params as an empty object.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A route file path two apps share is typed against whichever map the program holds.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A wrong route map draws a clean answer rather than a refusal.",
     },
     {
       invariantKind: "departure",
