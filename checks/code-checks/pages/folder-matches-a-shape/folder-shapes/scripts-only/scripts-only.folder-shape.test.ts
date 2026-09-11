@@ -7,8 +7,8 @@ const FOLDER = "akasha/code-system/ios-harnesses/scripts"
 const PAGE_TYPES = new Set<string>(["shell-script", "module"])
 
 function holdsAt(at: string): readonly string[] {
-  if (at.endsWith("/render-harness-run")) return ["shell-script/render-harness-run"]
-  if (at.endsWith("/notes")) return ["module/notes"]
+  if (at.endsWith("/a-script")) return ["shell-script/a-script"]
+  if (at.endsWith("/a-module")) return ["module/a-module"]
   return []
 }
 
@@ -17,7 +17,7 @@ function judged(deep: readonly string[], names: readonly string[]): readonly str
   return scriptsOnly(made(names))
 }
 
-const ONE_SCRIPT = ["render-harness-run/render-harness-run.shell-script.ts"]
+const ONE_SCRIPT = ["a-script/a-script.shell-script.ts"]
 
 test("a folder named scripts holding a folder for each script takes the shape", () => {
   expect(judged(ONE_SCRIPT, [])).toEqual([])
@@ -35,9 +35,9 @@ test("the refusal counts every file sitting in it", () => {
 })
 
 test("a subfolder holding a page that is no shell script is refused, and the reason names it", () => {
-  const said = judged([...ONE_SCRIPT, "notes/notes.module.ts"], [])
+  const said = judged([...ONE_SCRIPT, "a-module/a-module.module.ts"], [])
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("notes")
+  expect(said[0]).toContain("a-module")
   expect(said[0]).toContain("shell-script")
 })
 
@@ -48,6 +48,6 @@ test("a subfolder holding no page at all is refused too", () => {
 })
 
 test("the refusal counts every subfolder holding no script", () => {
-  const said = judged(["notes/notes.module.ts", "loose/held.module.code.ts"], [])
+  const said = judged(["a-module/a-module.module.ts", "loose/held.module.code.ts"], [])
   expect(said.some((each) => each.includes("2 subfolders"))).toBe(true)
 })
