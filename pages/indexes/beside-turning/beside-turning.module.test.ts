@@ -1,10 +1,12 @@
 import { expect, test } from "bun:test"
 import { filePropertiesIn } from "../entries/index-entries.module.code.ts"
 import { sidecarsIn } from "../path-claiming/path-claiming.module.code.ts"
+import { everyPath } from "../reading/index-reading.module.code.ts"
 import type { Reading } from "../shape/index-shape.module.code.ts"
 import {
   type Besides,
   besidesTurned,
+  pagesElsewhere,
   pagesStranded,
   pagesTurned,
 } from "./beside-turning.module.code.ts"
@@ -35,13 +37,21 @@ const BLAND = aType("bland", ["base"], [])
 
 const AT = "value/bland.jsonl"
 
+const PAGE = "one.bland.ts"
+
+const BESIDE = "one.bland.code.ts"
+
+const PATHS = "listing/path.jsonl"
+
 const READING: Reading = {
   holds: (at) => at === "",
-  listing: () => [],
-  lines: (at) =>
-    at === AT
-      ? [JSON.stringify({ path: "one.bland.ts", value: { pageTypeSlug: "bland", slug: "one" } })]
-      : [],
+  listing: (at) => (at === "value" ? [{ name: "bland.jsonl", directory: false }] : []),
+  lines: (at) => {
+    if (at === AT) {
+      return [JSON.stringify({ path: PAGE, value: { pageTypeSlug: "bland", slug: "one" } })]
+    }
+    return at === PATHS ? [PAGE, BESIDE] : []
+  },
 }
 
 function besidesOf(values: readonly Held[]): Besides {
@@ -80,4 +90,13 @@ test("a page already of a turned page type is answered, and one the change carri
 
   expect(pagesTurned(READING, was, now, new Set()).map((one) => one.path)).toEqual(["one.bland.ts"])
   expect(pagesTurned(READING, was, now, new Set(["one.bland.ts"]))).toEqual([])
+})
+
+test("a file that is no page is not answered though the index names that file", () => {
+  const turned = new Set(["id"])
+
+  expect(everyPath(READING)).toEqual([PAGE, BESIDE])
+  expect(pagesElsewhere(READING, turned, new Set()).map((one) => one.path)).toEqual([PAGE])
+  expect(pagesElsewhere(READING, new Set(), new Set())).toEqual([])
+  expect(pagesElsewhere(READING, turned, new Set([PAGE]))).toEqual([])
 })
