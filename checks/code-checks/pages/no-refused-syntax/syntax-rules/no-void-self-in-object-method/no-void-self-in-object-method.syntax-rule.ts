@@ -35,18 +35,13 @@ export const noVoidSelfInObjectMethod = {
       statement: "A method declaring no `this` parameter is left.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
         "That the generated call uses a colon is assumed rather than read from the transpiler's settings.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "A method put onto an object after the literal is written is not seen.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "A method put onto an object after the literal is written sits outside the object literal.",
     },
   ],
 } as const satisfies SyntaxRule
