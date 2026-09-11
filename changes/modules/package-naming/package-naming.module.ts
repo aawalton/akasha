@@ -8,6 +8,7 @@ export const packageNaming = {
   definition: "a package's name where a string has it",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
