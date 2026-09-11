@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const unitExtendedSpears = {
   id: "01a0657d-031f-7b24-8e7e-81242ca60579",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "unit-extended-spears",
   title: "Unit: Extended Spears",

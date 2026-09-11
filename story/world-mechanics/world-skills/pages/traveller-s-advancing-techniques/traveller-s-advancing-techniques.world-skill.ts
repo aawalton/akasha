@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const travellerSAdvancingTechniques = {
   id: "01a0657d-0316-782d-be07-89d5b48f0abc",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "traveller-s-advancing-techniques",
   title: "Traveller’s Advancing Techniques",

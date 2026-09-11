@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const wondrousDeedBeyondAnyLimit = {
   id: "01a0657d-0337-7e0b-ab93-ada2c4ee8c61",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "wondrous-deed-beyond-any-limit",
   title: "Wondrous Deed: Beyond Any Limit",

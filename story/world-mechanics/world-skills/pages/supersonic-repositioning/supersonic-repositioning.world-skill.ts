@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const supersonicRepositioning = {
   id: "01a0657d-0302-74cd-a0ab-fca130caab33",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "supersonic-repositioning",
   title: "Supersonic Repositioning",

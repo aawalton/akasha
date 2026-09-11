@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const speedwindCharge = {
   id: "01a0657d-02ed-7ac0-9ec9-75a1c22728c5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "speedwind-charge",
   title: "Speedwind Charge",

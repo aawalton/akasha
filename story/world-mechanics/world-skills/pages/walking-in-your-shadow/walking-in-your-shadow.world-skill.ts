@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const walkingInYourShadow = {
   id: "01a0657d-032c-7fc0-befe-9e15a68ff6aa",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "walking-in-your-shadow",
   title: "Walking in Your Shadow",

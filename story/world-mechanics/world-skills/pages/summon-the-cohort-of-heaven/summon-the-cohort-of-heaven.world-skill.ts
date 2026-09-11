@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const summonTheCohortOfHeaven = {
   id: "01a0657d-02ff-74e6-982c-bc144cbc801f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "summon-the-cohort-of-heaven",
   title: "Summon the Cohort of Heaven",

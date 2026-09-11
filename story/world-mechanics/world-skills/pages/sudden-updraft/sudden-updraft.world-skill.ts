@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const suddenUpdraft = {
   id: "01a0657d-02fe-7778-bd3f-8e22ab6d02ca",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sudden-updraft",
   title: "Sudden Updraft",

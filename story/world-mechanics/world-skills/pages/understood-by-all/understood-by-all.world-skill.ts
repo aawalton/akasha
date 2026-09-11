@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const understoodByAll = {
   id: "01a0657d-031e-7e4c-9d93-352b79d57098",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "understood-by-all",
   title: "Understood By All",

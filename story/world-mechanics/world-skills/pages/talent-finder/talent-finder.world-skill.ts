@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const talentFinder = {
   id: "01a0657d-0308-7834-a4b3-f32e0b35406b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "talent-finder",
   title: "Talent Finder",

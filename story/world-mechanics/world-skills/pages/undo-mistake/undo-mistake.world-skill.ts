@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const undoMistake = {
   id: "01a0657d-031e-75d6-a94f-73b10826c80e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "undo-mistake",
   title: "Undo Mistake",

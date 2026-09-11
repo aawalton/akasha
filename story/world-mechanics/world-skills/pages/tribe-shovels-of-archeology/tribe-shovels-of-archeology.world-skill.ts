@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const tribeShovelsOfArcheology = {
   id: "01a0657d-0317-7e82-bc06-e0ee2e3e6e97",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "tribe-shovels-of-archeology",
   title: "Tribe: Shovels of Archeology",

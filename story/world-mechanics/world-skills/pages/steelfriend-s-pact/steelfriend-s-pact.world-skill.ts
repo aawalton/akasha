@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const steelfriendSPact = {
   id: "01a0657d-02fa-7b0c-b02e-519ce56e7988",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "steelfriend-s-pact",
   title: "Steelfriend’s Pact",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const theAvidCollector = {
   id: "01a0657d-0311-7d72-aa0f-ad9ed97535ee",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "the-avid-collector",
   title: "The Avid Collector",

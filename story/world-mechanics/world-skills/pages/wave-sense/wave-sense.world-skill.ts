@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const waveSense = {
   id: "01a0657d-032c-7e05-b146-aa301d91488d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "wave-sense",
   title: "Wave Sense",

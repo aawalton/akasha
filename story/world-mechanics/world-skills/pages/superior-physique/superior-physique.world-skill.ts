@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const superiorPhysique = {
   id: "01a0657d-0302-7381-90b2-7d0b9b30d3e2",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "superior-physique",
   title: "Superior Physique",

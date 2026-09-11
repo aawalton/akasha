@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const stabilizeCondition = {
   id: "01a0657d-02ee-7e03-9b51-3138f7ae14f2",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "stabilize-condition",
   title: "Stabilize Condition",

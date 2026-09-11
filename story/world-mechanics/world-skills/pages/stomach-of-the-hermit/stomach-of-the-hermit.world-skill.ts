@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const stomachOfTheHermit = {
   id: "01a0657d-02fa-74c1-8113-10be52ff51c8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "stomach-of-the-hermit",
   title: "Stomach of the Hermit",

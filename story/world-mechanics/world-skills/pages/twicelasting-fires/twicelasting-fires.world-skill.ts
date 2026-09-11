@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const twicelastingFires = {
   id: "01a0657d-0317-7997-a086-5c4716b9db59",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "twicelasting-fires",
   title: "Twicelasting Fires",

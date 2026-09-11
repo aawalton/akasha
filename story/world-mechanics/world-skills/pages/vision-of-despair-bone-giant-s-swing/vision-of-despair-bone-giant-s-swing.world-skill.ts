@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const visionOfDespairBoneGiantSSwing = {
   id: "01a0657d-0320-7754-96eb-3ad0c6c8fefb",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "vision-of-despair-bone-giant-s-swing",
   title: "Vision of Despair: Bone Giant’s Swing",

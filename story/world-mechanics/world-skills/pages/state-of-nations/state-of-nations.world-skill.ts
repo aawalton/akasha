@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const stateOfNations = {
   id: "01a0657d-02ee-72e1-8542-f45feb3fac95",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "state-of-nations",
   title: "State of Nations",

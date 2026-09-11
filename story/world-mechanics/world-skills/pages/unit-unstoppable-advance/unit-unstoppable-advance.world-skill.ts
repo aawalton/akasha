@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const unitUnstoppableAdvance = {
   id: "01a0657d-031f-7908-ae82-dfd6ee44d716",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "unit-unstoppable-advance",
   title: "Unit: Unstoppable Advance",

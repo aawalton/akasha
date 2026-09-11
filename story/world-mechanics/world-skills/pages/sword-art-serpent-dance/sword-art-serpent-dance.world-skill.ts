@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const swordArtSerpentDance = {
   id: "01a0657d-0307-770a-b58b-6cc47a6213ad",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sword-art-serpent-dance",
   title: "Sword Art: Serpent Dance",

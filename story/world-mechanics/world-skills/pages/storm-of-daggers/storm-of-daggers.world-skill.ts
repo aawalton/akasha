@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const stormOfDaggers = {
   id: "01a0657d-02fb-7cf5-80e6-a981325751e9",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "storm-of-daggers",
   title: "Storm of Daggers",

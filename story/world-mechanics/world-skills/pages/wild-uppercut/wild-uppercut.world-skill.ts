@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const wildUppercut = {
   id: "01a0657d-032e-7aed-b5e0-24ac26b5ae63",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "wild-uppercut",
   title: "Wild Uppercut",

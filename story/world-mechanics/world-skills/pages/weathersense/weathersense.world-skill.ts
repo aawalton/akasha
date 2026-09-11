@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const weathersense = {
   id: "01a0657d-032d-76f8-92c2-5ae16d8836e1",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "weathersense",
   title: "Weathersense",

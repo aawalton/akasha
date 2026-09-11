@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const tribeDriveTowardsTheFutureCollectiveCompetenceEngineering = {
   id: "01a0657d-0316-763f-bc02-036110c43c69",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "tribe-drive-towards-the-future-collective-competence-engineering",
   title: "Tribe: Drive Towards the Future, Collective Competence: Engineering",

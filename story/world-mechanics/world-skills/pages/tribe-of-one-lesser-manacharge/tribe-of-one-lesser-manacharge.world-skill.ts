@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const tribeOfOneLesserManacharge = {
   id: "01a0657d-0316-7faa-92ab-2c33afcb3aed",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "tribe-of-one-lesser-manacharge",
   title: "Tribe of One: Lesser Manacharge",

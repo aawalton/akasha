@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const slowToss = {
   id: "01a0657d-02c7-76e4-ab45-172a58c63cd7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "slow-toss",
   title: "Slow Toss",

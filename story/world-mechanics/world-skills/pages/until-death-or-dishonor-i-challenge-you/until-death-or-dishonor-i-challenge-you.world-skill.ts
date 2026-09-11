@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const untilDeathOrDishonorIChallengeYou = {
   id: "01a0657d-031f-7413-ae13-1c1a36a985ba",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "until-death-or-dishonor-i-challenge-you",
   title: "Until Death or Dishonor, I Challenge You",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const uncontrolledLaughter = {
   id: "01a0657d-031e-73bf-bfd4-35491c2526b6",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "uncontrolled-laughter",
   title: "Uncontrolled Laughter",

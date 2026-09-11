@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const summonSkeletonArcherSquad = {
   id: "01a0657d-02fe-7796-b5c4-f469e46dafbe",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "summon-skeleton-archer-squad",
   title: "Summon Skeleton Archer Squad",

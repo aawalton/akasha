@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const voiceOfCommand = {
   id: "01a0657d-0320-7b1f-804e-340442c33844",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "voice-of-command",
   title: "Voice of Command",

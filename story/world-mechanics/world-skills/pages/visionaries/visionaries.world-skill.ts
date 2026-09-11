@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const visionaries = {
   id: "01a0657d-0320-7075-ad63-aba3c7245e9f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "visionaries",
   title: "Visionaries",

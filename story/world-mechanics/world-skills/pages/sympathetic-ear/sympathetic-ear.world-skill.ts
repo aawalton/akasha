@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const sympatheticEar = {
   id: "01a0657d-0307-73f5-a7d4-0027afcfd950",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sympathetic-ear",
   title: "Sympathetic Ear",

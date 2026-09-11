@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const voiceOfPersuasion = {
   id: "01a0657d-0320-7bad-947d-94d8fe72e993",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "voice-of-persuasion",
   title: "Voice of Persuasion",

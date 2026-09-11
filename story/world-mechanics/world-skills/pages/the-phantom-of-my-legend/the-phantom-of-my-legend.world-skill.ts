@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const thePhantomOfMyLegend = {
   id: "01a0657d-0312-7c49-977d-512b38e87151",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "the-phantom-of-my-legend",
   title: "The Phantom of My Legend",

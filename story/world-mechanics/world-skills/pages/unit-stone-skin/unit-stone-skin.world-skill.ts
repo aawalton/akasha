@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const unitStoneSkin = {
   id: "01a0657d-031f-79f1-a021-71914590ece7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "unit-stone-skin",
   title: "Unit: Stone Skin",

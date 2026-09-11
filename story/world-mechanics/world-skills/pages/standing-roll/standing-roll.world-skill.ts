@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const standingRoll = {
   id: "01a0657d-02ee-7d86-be74-816ca4c1ac09",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "standing-roll",
   title: "Standing Roll",

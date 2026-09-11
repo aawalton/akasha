@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const spectatorSConcealment = {
   id: "01a0657d-02ed-707e-a589-09643de21fd2",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "spectator-s-concealment",
   title: "Spectator’s Concealment",

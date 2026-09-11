@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const snapThrow = {
   id: "01a0657d-02c7-7816-8db3-69ffdcf35311",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "snap-throw",
   title: "Snap Throw",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const summonTheWatch = {
   id: "01a0657d-0302-790c-a61a-cbf8596fa3cf",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "summon-the-watch",
   title: "Summon the Watch",

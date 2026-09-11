@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const unlimitedMarkTarget = {
   id: "01a0657d-031f-7fd0-bf3b-79978a12080e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "unlimited-mark-target",
   title: "Unlimited Mark Target",

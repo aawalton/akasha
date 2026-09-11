@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const unstoppableCommand = {
   id: "01a0657d-031f-7559-b4be-ac695a85e28c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "unstoppable-command",
   title: "Unstoppable Command",

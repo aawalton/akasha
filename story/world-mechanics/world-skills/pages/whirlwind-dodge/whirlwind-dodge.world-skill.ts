@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const whirlwindDodge = {
   id: "01a0657d-032e-7b61-ba47-816e90e2b960",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "whirlwind-dodge",
   title: "Whirlwind Dodge",

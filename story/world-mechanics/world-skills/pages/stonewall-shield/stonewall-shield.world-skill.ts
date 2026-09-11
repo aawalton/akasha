@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const stonewallShield = {
   id: "01a0657d-02fa-7393-a281-79be726d9617",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "stonewall-shield",
   title: "Stonewall Shield",

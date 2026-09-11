@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const surveyTheCompetition = {
   id: "01a0657d-0303-7c92-8dbf-870b07f4db3a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "survey-the-competition",
   title: "Survey the Competition",

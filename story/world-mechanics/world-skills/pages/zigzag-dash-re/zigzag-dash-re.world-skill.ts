@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const zigzagDashRe = {
   id: "01a0657d-0338-7dc5-a069-9e1b51ae7c10",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "zigzag-dash-re",
   title: "Zigzag Dash Re",

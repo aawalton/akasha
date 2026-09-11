@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const summonFlameElemental = {
   id: "01a0657d-02fe-7589-ae31-9bfd761d0d53",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "summon-flame-elemental",
   title: "Summon Flame Elemental",

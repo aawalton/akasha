@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const unitAcidJarBlades = {
   id: "01a0657d-031e-7683-a06b-7b5bf7d6406b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "unit-acid-jar-blades",
   title: "Unit: Acid Jar Blades",

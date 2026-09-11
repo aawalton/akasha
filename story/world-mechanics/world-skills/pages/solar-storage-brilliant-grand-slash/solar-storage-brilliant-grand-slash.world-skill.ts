@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const solarStorageBrilliantGrandSlash = {
   id: "01a0657d-02c7-75a0-a01c-786405f2a2a1",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "solar-storage-brilliant-grand-slash",
   title: "Solar Storage – Brilliant Grand Slash",

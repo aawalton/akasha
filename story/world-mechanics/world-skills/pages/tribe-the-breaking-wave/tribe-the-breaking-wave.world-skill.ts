@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const tribeTheBreakingWave = {
   id: "01a0657d-0317-790e-b11b-92ccf26a5164",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "tribe-the-breaking-wave",
   title: "Tribe: The Breaking Wave",

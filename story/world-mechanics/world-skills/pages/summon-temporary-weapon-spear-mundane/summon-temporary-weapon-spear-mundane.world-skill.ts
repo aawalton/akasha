@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const summonTemporaryWeaponSpearMundane = {
   id: "01a0657d-02ff-74a1-a5fc-acd4492b1ec6",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "summon-temporary-weapon-spear-mundane",
   title: "Summon Temporary Weapon: Spear (Mundane)",

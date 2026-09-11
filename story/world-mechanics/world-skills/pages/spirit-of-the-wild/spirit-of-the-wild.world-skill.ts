@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const spiritOfTheWild = {
   id: "01a0657d-02ee-7133-ba92-c8a4a1041019",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "spirit-of-the-wild",
   title: "Spirit of the Wild",

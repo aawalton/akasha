@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const weaponArtTitanSCleaver = {
   id: "01a0657d-032d-7a5a-9035-cf474909008f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "weapon-art-titan-s-cleaver",
   title: "Weapon Art: Titan’s Cleaver",

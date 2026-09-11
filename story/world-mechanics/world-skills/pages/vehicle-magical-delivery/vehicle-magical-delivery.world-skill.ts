@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const vehicleMagicalDelivery = {
   id: "01a0657d-0320-7844-ab2c-39311287302a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "vehicle-magical-delivery",
   title: "Vehicle: Magical Delivery",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const steelboundHide = {
   id: "01a0657d-02fa-7426-9573-b6c4cdeed5bb",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "steelbound-hide",
   title: "Steelbound Hide",

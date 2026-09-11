@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const tremorBlow = {
   id: "01a0657d-0316-7851-98d3-6e396925cd06",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "tremor-blow",
   title: "Tremor Blow",

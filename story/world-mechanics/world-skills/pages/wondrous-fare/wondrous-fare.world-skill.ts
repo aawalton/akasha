@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const wondrousFare = {
   id: "01a0657d-0337-76c6-925f-eaad5fa336d8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "wondrous-fare",
   title: "Wondrous Fare",

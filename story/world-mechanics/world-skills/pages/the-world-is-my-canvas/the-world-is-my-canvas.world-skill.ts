@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const theWorldIsMyCanvas = {
   id: "01a0657d-0312-7975-9762-4caf39c4cf28",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "the-world-is-my-canvas",
   title: "The World is My Canvas",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const wailOfAgony = {
   id: "01a0657d-032c-7b5d-be48-d74d67701d66",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "wail-of-agony",
   title: "Wail of Agony",

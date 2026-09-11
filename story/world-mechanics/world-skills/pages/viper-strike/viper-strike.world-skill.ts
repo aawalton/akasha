@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const viperStrike = {
   id: "01a0657d-0320-743d-b44c-c612d0c4e8fb",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "viper-strike",
   title: "Viper Strike",

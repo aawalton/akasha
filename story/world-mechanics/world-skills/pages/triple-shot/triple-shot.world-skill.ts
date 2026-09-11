@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const tripleShot = {
   id: "01a0657d-0317-7d03-a011-dce614f5e641",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "triple-shot",
   title: "Triple Shot",

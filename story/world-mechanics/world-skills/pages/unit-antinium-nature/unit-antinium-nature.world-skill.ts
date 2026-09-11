@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const unitAntiniumNature = {
   id: "01a0657d-031e-7ff5-a0ab-6efa4797d06a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "unit-antinium-nature",
   title: "Unit: Antinium Nature",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const waterShot = {
   id: "01a0657d-032c-7a2f-914a-7297191d35c1",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "water-shot",
   title: "Water Shot",

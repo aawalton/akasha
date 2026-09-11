@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const tradeWar = {
   id: "01a0657d-0316-7c79-9523-9b97cc502397",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "trade-war",
   title: "Trade War",

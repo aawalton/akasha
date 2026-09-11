@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const wayOfTheElementsCurrentOfTheSea = {
   id: "01a0657d-032c-7a7d-920e-5c33cc64708c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "way-of-the-elements-current-of-the-sea",
   title: "Way of the Elements: Current of the Sea",

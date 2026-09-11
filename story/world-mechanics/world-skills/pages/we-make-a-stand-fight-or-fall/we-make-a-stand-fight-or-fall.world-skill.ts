@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const weMakeAStandFightOrFall = {
   id: "01a0657d-032d-7c8b-ad1b-46598b84ca1c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "we-make-a-stand-fight-or-fall",
   title: "We Make a Stand: Fight or Fall",

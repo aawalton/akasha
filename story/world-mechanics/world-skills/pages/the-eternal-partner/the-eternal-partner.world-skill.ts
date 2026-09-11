@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const theEternalPartner = {
   id: "01a0657d-0311-7c1a-bd33-d5b489f84e32",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "the-eternal-partner",
   title: "The Eternal Partner",

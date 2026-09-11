@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const unitMassedAttack = {
   id: "01a0657d-031f-7976-ba98-5671fda04f5e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "unit-massed-attack",
   title: "Unit: Massed Attack",

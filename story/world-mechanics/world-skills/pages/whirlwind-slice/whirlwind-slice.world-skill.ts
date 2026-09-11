@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const whirlwindSlice = {
   id: "01a0657d-032e-7b9a-8a1b-24fa90457917",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "whirlwind-slice",
   title: "Whirlwind Slice",

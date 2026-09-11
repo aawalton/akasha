@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const staffWeEscapedTheDreadWeFledThatDay = {
   id: "01a0657d-02ee-7546-ab30-0013ef57c2ef",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "staff-we-escaped-the-dread-we-fled-that-day",
   title: "Staff: We Escaped the Dread, We Fled That Day",

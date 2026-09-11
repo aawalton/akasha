@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const thouArtCut = {
   id: "01a0657d-0314-777f-a9eb-2d467b6a2b65",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "thou-art-cut",
   title: "Thou Art Cut",

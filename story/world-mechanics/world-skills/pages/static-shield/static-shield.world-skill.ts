@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const staticShield = {
   id: "01a0657d-02ef-7d4a-8259-0c5000adc70b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "static-shield",
   title: "Static Shield",

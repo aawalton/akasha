@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const supplyDrop = {
   id: "01a0657d-0302-7534-b76f-df2a367c411e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "supply-drop",
   title: "Supply Drop",

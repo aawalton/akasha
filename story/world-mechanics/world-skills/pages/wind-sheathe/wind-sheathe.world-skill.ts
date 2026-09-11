@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const windSheathe = {
   id: "01a0657d-0336-7288-9133-d08a84cd8876",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "wind-sheathe",
   title: "Wind Sheathe",

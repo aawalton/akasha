@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const tribute = {
   id: "01a0657d-0317-76ac-9265-9fbf4c27bf8b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "tribute",
   title: "Tribute",

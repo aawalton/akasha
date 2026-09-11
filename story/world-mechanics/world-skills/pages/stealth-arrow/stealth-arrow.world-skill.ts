@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const stealthArrow = {
   id: "01a0657d-02f9-7cd7-92e1-7e2c42a70b41",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "stealth-arrow",
   title: "Stealth Arrow",

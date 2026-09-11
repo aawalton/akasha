@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const weTookNoPrisoner = {
   id: "01a0657d-032d-7915-95ed-735e7365c47f",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "we-took-no-prisoner",
   title: "We Took No Prisoner",

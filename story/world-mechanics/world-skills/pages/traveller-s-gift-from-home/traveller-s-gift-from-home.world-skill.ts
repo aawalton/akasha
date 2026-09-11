@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const travellerSGiftFromHome = {
   id: "01a0657d-0316-744b-a3a3-f5fb3b50cd00",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "traveller-s-gift-from-home",
   title: "Traveller’s Gift From Home",

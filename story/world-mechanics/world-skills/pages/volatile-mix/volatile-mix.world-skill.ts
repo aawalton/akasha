@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const volatileMix = {
   id: "01a0657d-0321-739c-ac2d-914b767c17cf",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "volatile-mix",
   title: "Volatile Mix",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const spearDanceCrashingRapids = {
   id: "01a0657d-02ec-7126-9754-8287222d2d7a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "spear-dance-crashing-rapids",
   title: "Spear Dance: Crashing Rapids",

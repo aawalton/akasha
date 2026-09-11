@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const theInnkeeperSDailyBounty = {
   id: "01a0657d-0312-7cc8-a8dc-014c980d2ce5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "the-innkeeper-s-daily-bounty",
   title: "The Innkeeper’s Daily Bounty",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const transmutationFavoriteBeverage = {
   id: "01a0657d-0316-7870-b889-d929ef1c5d89",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "transmutation-favorite-beverage",
   title: "Transmutation: Favorite Beverage",

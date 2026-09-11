@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const waypoint = {
   id: "01a0657d-032c-7d31-9641-3785990a497d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "waypoint",
   title: "Waypoint",

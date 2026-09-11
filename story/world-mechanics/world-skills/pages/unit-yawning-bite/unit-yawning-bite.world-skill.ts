@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const unitYawningBite = {
   id: "01a0657d-031f-7e65-a1bc-459bbfbea6a7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "unit-yawning-bite",
   title: "Unit: Yawning Bite",

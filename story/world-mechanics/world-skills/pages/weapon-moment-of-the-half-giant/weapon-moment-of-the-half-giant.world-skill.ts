@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const weaponMomentOfTheHalfGiant = {
   id: "01a0657d-032d-7faa-b6d1-2fb7df62c15e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "weapon-moment-of-the-half-giant",
   title: "Weapon: Moment of the Half Giant",

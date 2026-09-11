@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const thePavilionOfSecrets = {
   id: "01a0657d-0312-76dd-9641-52073b54f19a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "the-pavilion-of-secrets",
   title: "The Pavilion of Secrets",

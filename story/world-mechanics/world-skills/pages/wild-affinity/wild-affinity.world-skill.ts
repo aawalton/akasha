@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const wildAffinity = {
   id: "01a0657d-032e-70c7-a238-309eb38e8f23",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "wild-affinity",
   title: "Wild Affinity",

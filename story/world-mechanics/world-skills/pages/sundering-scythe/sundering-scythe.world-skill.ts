@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const sunderingScythe = {
   id: "01a0657d-0302-74de-8f7f-6db7a970b1d0",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sundering-scythe",
   title: "Sundering Scythe",

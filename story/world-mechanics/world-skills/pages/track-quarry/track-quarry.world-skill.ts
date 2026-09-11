@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const trackQuarry = {
   id: "01a0657d-0316-721d-b662-9e38cedf58e4",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "track-quarry",
   title: "Track Quarry",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const spellReflectionBarrierLesser = {
   id: "01a0657d-02ed-7c76-9f5f-c5ce7eae1c4d",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "spell-reflection-barrier-lesser",
   title: "Spell Reflection Barrier (Lesser)",

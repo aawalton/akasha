@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const steelfleshCharge = {
   id: "01a0657d-02fa-7d71-bac5-b1d96e397666",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "steelflesh-charge",
   title: "Steelflesh Charge",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const windcutterStrikes = {
   id: "01a0657d-0336-7ff8-ac58-2bb23667c30a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "windcutter-strikes",
   title: "Windcutter Strikes",

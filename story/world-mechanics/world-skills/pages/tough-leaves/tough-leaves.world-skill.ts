@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const toughLeaves = {
   id: "01a0657d-0315-76f6-8d04-a40a34780629",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "tough-leaves",
   title: "Tough Leaves",

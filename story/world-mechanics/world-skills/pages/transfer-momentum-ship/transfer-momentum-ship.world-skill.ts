@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const transferMomentumShip = {
   id: "01a0657d-0316-735b-b5a0-d408bf9661f5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "transfer-momentum-ship",
   title: "Transfer Momentum: Ship",

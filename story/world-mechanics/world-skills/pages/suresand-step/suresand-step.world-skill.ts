@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const suresandStep = {
   id: "01a0657d-0303-7247-811c-d1b37a364e64",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "suresand-step",
   title: "Suresand Step",

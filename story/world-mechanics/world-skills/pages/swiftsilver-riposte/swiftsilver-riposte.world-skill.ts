@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const swiftsilverRiposte = {
   id: "01a0657d-0306-77af-a14b-e5de0fcbeb01",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "swiftsilver-riposte",
   title: "Swiftsilver Riposte",

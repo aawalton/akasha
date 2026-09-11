@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const tranquilSkies = {
   id: "01a0657d-0316-780c-aa2c-5ebc1f4d5d87",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "tranquil-skies",
   title: "Tranquil Skies",

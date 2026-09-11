@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const targetWeakPoint = {
   id: "01a0657d-0310-7a4b-af08-3d23085e64c6",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "target-weak-point",
   title: "Target Weak Point",

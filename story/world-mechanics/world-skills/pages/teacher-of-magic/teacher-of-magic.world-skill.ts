@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const teacherOfMagic = {
   id: "01a0657d-0310-7912-ab6e-e1832b829550",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "teacher-of-magic",
   title: "Teacher of Magic",

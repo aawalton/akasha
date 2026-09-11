@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const surefoot = {
   id: "01a0657d-0303-7053-904e-47968ac927c1",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "surefoot",
   title: "Surefoot",

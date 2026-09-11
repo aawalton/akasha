@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const speculationLogicalAnalysis = {
   id: "01a0657d-02ed-714a-a539-e7e2de8dc6cc",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "speculation-logical-analysis",
   title: "Speculation: Logical Analysis",

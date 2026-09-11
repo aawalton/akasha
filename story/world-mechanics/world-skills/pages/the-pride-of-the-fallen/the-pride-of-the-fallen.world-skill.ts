@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const thePrideOfTheFallen = {
   id: "01a0657d-0312-758b-9081-1f8357cf73ab",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "the-pride-of-the-fallen",
   title: "The Pride of the Fallen",

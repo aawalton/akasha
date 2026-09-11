@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const toughCarapace = {
   id: "01a0657d-0315-7961-83cb-814ef5eb5d81",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "tough-carapace",
   title: "Tough Carapace",

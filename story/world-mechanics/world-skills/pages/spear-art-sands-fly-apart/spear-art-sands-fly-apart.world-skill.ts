@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const spearArtSandsFlyApart = {
   id: "01a0657d-02c7-7c73-9550-121d5742a025",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "spear-art-sands-fly-apart",
   title: "Spear Art: Sands Fly Apart",

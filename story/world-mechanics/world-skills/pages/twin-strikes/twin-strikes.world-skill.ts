@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const twinStrikes = {
   id: "01a0657d-0317-7847-833e-5ea2df9cc493",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "twin-strikes",
   title: "Twin Strikes",

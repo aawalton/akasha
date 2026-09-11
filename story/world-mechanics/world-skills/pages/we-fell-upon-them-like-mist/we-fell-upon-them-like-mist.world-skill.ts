@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const weFellUponThemLikeMist = {
   id: "01a0657d-032d-7e33-8248-6fc3bd46ce11",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "we-fell-upon-them-like-mist",
   title: "We Fell Upon Them Like Mist",

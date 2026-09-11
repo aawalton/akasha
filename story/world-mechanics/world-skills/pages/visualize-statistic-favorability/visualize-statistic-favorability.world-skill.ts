@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const visualizeStatisticFavorability = {
   id: "01a0657d-0320-759f-807f-43775c3ee588",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "visualize-statistic-favorability",
   title: "Visualize Statistic: Favorability",

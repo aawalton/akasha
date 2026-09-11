@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const thousandFootSprint = {
   id: "01a0657d-0315-7f52-865f-2f97328d7521",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "thousand-foot-sprint",
   title: "Thousand Foot Sprint",

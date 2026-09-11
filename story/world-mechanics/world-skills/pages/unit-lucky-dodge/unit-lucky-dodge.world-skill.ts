@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const unitLuckyDodge = {
   id: "01a0657d-031f-7236-b045-ea5558433343",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "unit-lucky-dodge",
   title: "Unit: Lucky Dodge",

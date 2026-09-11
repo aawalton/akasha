@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const synergyGnollDrakeCommand = {
   id: "01a0657d-0307-7594-8820-f9f7c86c97cf",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "synergy-gnoll-drake-command",
   title: "Synergy: Gnoll-Drake Command",

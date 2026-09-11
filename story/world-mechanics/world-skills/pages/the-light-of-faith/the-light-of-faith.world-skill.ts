@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const theLightOfFaith = {
   id: "01a0657d-0312-7a4b-8fd4-cf22a8492a2c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "the-light-of-faith",
   title: "The Light of Faith",

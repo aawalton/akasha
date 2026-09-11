@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const spellRampantMagic = {
   id: "01a0657d-02ed-7116-841c-15f31f990cd5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "spell-rampant-magic",
   title: "Spell: Rampant Magic",

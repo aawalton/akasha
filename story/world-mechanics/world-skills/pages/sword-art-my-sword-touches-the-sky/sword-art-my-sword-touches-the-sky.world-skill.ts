@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const swordArtMySwordTouchesTheSky = {
   id: "01a0657d-0307-775a-b350-9eadacc47fa9",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sword-art-my-sword-touches-the-sky",
   title: "Sword Art: My Sword Touches the Sky",

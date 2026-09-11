@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const spearOfRadiance = {
   id: "01a0657d-02ed-7160-9044-4d84d2430d54",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "spear-of-radiance",
   title: "Spear of Radiance",

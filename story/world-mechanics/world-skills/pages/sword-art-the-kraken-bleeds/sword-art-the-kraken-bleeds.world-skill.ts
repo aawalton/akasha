@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const swordArtTheKrakenBleeds = {
   id: "01a0657d-0307-74b9-8cd4-41db97161762",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sword-art-the-kraken-bleeds",
   title: "Sword Art: The Kraken Bleeds",

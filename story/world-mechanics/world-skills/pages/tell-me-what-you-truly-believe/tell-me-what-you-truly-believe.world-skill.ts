@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const tellMeWhatYouTrulyBelieve = {
   id: "01a0657d-0311-7bad-b47b-4768261c4d3c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "tell-me-what-you-truly-believe",
   title: "Tell Me What You Truly Believe",

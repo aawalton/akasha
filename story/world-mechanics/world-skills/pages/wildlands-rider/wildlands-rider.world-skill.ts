@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const wildlandsRider = {
   id: "01a0657d-032e-7076-801d-3cdc0bfcbb73",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "wildlands-rider",
   title: "Wildlands Rider",

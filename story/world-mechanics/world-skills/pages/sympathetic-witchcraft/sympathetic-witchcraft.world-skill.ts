@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const sympatheticWitchcraft = {
   id: "01a0657d-0307-7bd8-8cf1-963a04d227f0",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sympathetic-witchcraft",
   title: "Sympathetic Witchcraft",

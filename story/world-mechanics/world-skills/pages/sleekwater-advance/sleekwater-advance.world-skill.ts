@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const sleekwaterAdvance = {
   id: "01a0657d-02c6-7607-8da7-4c1f3c753dd6",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sleekwater-advance",
   title: "Sleekwater Advance",

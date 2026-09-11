@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const tauntTheFoe = {
   id: "01a0657d-0310-761f-b978-83fdf78e86d9",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "taunt-the-foe",
   title: "Taunt the Foe",

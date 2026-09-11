@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const unitMatchSpeed = {
   id: "01a0657d-031f-7ce5-8138-4a3564fb422c",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "unit-match-speed",
   title: "Unit: Match Speed",

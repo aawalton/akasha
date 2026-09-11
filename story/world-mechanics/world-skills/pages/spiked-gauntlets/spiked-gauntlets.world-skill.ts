@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const spikedGauntlets = {
   id: "01a0657d-02ee-7b5c-be2d-b3ded31f44d7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "spiked-gauntlets",
   title: "Spiked Gauntlets",

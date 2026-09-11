@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const unitSpeedWing = {
   id: "01a0657d-031f-7035-bcbf-29f457d40450",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "unit-speed-wing",
   title: "Unit: Speed Wing",

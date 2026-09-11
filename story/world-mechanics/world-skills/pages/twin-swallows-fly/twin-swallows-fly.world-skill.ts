@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const twinSwallowsFly = {
   id: "01a0657d-0317-7996-9bbd-7890c0766f80",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "twin-swallows-fly",
   title: "Twin Swallows, Fly",

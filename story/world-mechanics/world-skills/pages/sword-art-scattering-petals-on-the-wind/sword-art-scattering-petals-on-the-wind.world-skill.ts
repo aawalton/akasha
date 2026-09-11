@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const swordArtScatteringPetalsOnTheWind = {
   id: "01a0657d-0307-7341-976d-3eb6fd45f47b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "sword-art-scattering-petals-on-the-wind",
   title: "Sword Art: Scattering Petals on the Wind",

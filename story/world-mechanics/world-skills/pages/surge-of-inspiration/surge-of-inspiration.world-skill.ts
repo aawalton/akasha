@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const surgeOfInspiration = {
   id: "01a0657d-0303-7b3f-a252-b87034fe2ae7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "surge-of-inspiration",
   title: "Surge of Inspiration",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const thunderHammerSBlow = {
   id: "01a0657d-0315-789f-bfd1-b07883673c4b",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "thunder-hammer-s-blow",
   title: "Thunder Hammer’s Blow",

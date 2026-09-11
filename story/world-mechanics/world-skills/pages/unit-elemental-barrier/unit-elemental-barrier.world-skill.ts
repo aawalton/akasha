@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const unitElementalBarrier = {
   id: "01a0657d-031f-7814-a964-5b05e19f10bb",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "unit-elemental-barrier",
   title: "Unit: Elemental Barrier",

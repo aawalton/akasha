@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const weaponArts = {
   id: "01a0657d-032d-7e4e-93e5-7d9bbeef3aae",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "weapon-arts",
   title: "Weapon Arts",

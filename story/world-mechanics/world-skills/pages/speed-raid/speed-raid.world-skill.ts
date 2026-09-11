@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const speedRaid = {
   id: "01a0657d-02ed-7960-a4e7-82655ba1cf9e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "speed-raid",
   title: "Speed Raid",

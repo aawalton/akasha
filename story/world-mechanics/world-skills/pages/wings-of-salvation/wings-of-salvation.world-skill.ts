@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const wingsOfSalvation = {
   id: "01a0657d-0337-786e-81b6-4ed431e5ef6e",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "wings-of-salvation",
   title: "Wings of Salvation",

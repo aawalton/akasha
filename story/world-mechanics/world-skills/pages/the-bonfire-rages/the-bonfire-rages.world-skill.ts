@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const theBonfireRages = {
   id: "01a0657d-0311-701c-abc7-41ecd43f80e5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "the-bonfire-rages",
   title: "The Bonfire Rages",

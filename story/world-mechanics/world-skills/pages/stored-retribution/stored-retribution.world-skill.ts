@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const storedRetribution = {
   id: "01a0657d-02fa-7883-8462-6d07739fab60",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "stored-retribution",
   title: "Stored Retribution",

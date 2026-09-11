@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const threefoldElementalBody = {
   id: "01a0657d-0315-78b8-977a-638cff42f7c4",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "threefold-elemental-body",
   title: "Threefold Elemental Body",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const teammateSideSkip = {
   id: "01a0657d-0311-7d5d-a40c-61de21ac1cd9",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "teammate-side-skip",
   title: "Teammate: Side Skip",

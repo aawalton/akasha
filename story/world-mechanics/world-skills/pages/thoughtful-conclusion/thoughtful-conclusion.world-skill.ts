@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const thoughtfulConclusion = {
   id: "01a0657d-0315-737e-a5b4-49d13f318173",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "thoughtful-conclusion",
   title: "Thoughtful Conclusion",

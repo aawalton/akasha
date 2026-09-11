@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const trueDamage = {
   id: "01a0657d-0317-7cab-b349-fe21ea938b44",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "true-damage",
   title: "True Damage",

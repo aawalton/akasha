@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const skysplittingSlash = {
   id: "01a0657d-02c6-7821-b986-207efd9e28b7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "skysplitting-slash",
   title: "Skysplitting Slash",

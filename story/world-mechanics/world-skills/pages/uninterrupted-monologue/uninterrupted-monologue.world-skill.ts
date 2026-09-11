@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const uninterruptedMonologue = {
   id: "01a0657d-031e-7b54-8b2e-6c6fc50fac46",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "uninterrupted-monologue",
   title: "Uninterrupted Monologue",

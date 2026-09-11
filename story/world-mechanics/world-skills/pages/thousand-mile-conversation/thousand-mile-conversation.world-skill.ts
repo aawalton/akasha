@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const thousandMileConversation = {
   id: "01a0657d-0315-7ea7-93b7-d1956b5c4985",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "thousand-mile-conversation",
   title: "Thousand Mile Conversation",

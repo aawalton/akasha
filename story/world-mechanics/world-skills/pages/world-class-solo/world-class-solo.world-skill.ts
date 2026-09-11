@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const worldClassSolo = {
   id: "01a0657d-0337-72f6-b403-bb7e5e20098a",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "world-class-solo",
   title: "World-Class Solo",

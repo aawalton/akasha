@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const swordmasterSDenial = {
   id: "01a0657d-0307-7881-a674-3de9789efd14",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "swordmaster-s-denial",
   title: "Swordmaster’s Denial",

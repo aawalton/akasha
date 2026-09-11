@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const unitRamSCharge = {
   id: "01a0657d-031f-71a9-acd9-b171aa56c790",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "unit-ram-s-charge",
   title: "Unit: Ram’s Charge",

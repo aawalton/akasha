@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const steadyHooves = {
   id: "01a0657d-02f2-7c69-9bdc-5c5834276fa7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "steady-hooves",
   title: "Steady Hooves",

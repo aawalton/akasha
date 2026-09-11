@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const unitBowsOfSand = {
   id: "01a0657d-031e-776d-b7c8-13ab85579df8",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "unit-bows-of-sand",
   title: "Unit: Bows of Sand",

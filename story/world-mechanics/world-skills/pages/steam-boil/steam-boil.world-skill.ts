@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const steamBoil = {
   id: "01a0657d-02fa-77ad-a06a-8a9e852925d5",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "steam-boil",
   title: "Steam Boil",

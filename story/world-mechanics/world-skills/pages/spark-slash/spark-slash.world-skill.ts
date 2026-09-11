@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const sparkSlash = {
   id: "01a0657d-02c7-7989-ab9d-85a7faa32119",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "spark-slash",
   title: "Spark Slash",

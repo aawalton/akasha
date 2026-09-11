@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const worldTravellerGrasshopperSRun = {
   id: "01a0657d-0338-776b-b665-b0281c909b16",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "world-traveller-grasshopper-s-run",
   title: "World Traveller: Grasshopper’s Run",

@@ -2,7 +2,6 @@ import type { WorldSkill } from "akasha/story/world-mechanics/world-skills/world
 
 export const wildGiftElephantSStrength = {
   id: "01a0657d-032e-7723-a96f-5b384ca27dc7",
-  pageTypeSlug: "world-skill",
   type: "world-skill",
   slug: "wild-gift-elephant-s-strength",
   title: "Wild Gift: Elephant’s Strength",
