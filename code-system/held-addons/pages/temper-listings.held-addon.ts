@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.types.ts"
+import type { HeldAddon } from "akasha/code-system/held-addons/held-addon.page-type.types.ts"
 
 export const temperListings = {
   id: "01a081a1-3011-72f6-89f4-926b6b886388",

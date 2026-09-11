@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.types.ts"
+import type { HeldAddon } from "akasha/code-system/held-addons/held-addon.page-type.types.ts"
 
 export const libMapPing = {
   id: "01a081a3-fa3e-7dd8-8c4e-d7e270a746c7",

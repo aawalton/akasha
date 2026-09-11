@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.types.ts"
+import type { HeldAddon } from "akasha/code-system/held-addons/held-addon.page-type.types.ts"
 
 export const libAddonMenu = {
   id: "01a081a2-dde3-7a10-b133-4888e090e188",

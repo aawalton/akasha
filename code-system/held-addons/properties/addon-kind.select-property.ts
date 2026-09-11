@@ -1,4 +1,4 @@
-import type { SelectProperty } from "../../../pages/select-properties/select-property.page-type.types.ts"
+import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const addonKind = {
   id: "01a0819d-3406-7d80-bea3-6be9825ecdca",
