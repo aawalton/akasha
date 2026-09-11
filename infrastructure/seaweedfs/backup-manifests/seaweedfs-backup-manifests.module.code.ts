@@ -3,6 +3,7 @@ import {
   capabilitySelector,
   HOSTNAME_KEY,
 } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
+import { secretEnv } from "akasha/infrastructure/cluster/k8s-types/k8s-secret-env/k8s-secret-env.module.code.ts"
 import {
   componentLabels,
   S3_GATEWAY_ENDPOINT,
@@ -20,10 +21,6 @@ export const CNPG_NAMESPACE = "seaweedfs-backup-cnpg"
 export const BULK_NAMESPACE = "seaweedfs-backup-bulk"
 const BACKUP_CAPACITY = "500Gi"
 const BACKUP_MOUNT = "/backup"
-
-function secretEnv(name: string, secretName: string, key: string) {
-  return { name, valueFrom: { secretKeyRef: { name: secretName, key } } }
-}
 
 function rcloneEnv(goMemLimit?: string) {
   return [

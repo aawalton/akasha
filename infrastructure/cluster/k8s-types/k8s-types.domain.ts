@@ -11,6 +11,7 @@ export const k8sTypes = {
     "module/hostnames",
     "module/hostnames-ci-enrollment",
     "module/k8s-container-probes",
+    "module/k8s-secret-env",
     "module/k8s-manifest-node-targeting",
     "module/k8s-manifest-scanner",
     "module/k8s-manifest-walker",

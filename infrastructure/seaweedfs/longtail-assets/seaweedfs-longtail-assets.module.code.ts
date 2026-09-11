@@ -1,5 +1,6 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
+import { secretEnv } from "akasha/infrastructure/cluster/k8s-types/k8s-secret-env/k8s-secret-env.module.code.ts"
 import {
   ASSETS_BUCKET,
   componentLabels,
@@ -24,10 +25,6 @@ const ASSET_BUDGET_BYTES = 50 * 1024 ** 3
 const ASSET_REVIEW_THRESHOLD = 0.8
 
 const ASSET_REVIEW_BYTES = ASSET_BUDGET_BYTES * ASSET_REVIEW_THRESHOLD
-
-function secretEnv(name: string, secretName: string, key: string) {
-  return { name, valueFrom: { secretKeyRef: { name: secretName, key } } }
-}
 
 function rcloneEnv() {
   return [
