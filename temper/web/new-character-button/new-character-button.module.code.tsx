@@ -2,39 +2,11 @@
 
 import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { Spinner } from "akasha/design/interfaces/primitives/spinner/spinner.module.code.tsx"
-import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
-import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
-import { encodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
-import { extractCharacterMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
-import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
-import { createNewCharacter } from "akasha/temper/character-build/build-factory/build-factory.module.code.ts"
-import { useCharacterLifecycle } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
-import { buildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
+import { useNewCharacter } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
 import { Plus } from "lucide-react"
-import { useState } from "react"
-import { toast } from "sonner"
 
 export function NewCharacterButton() {
-  const [isCreating, setIsCreating] = useState(false)
-  const router = usePagesUIRouter()
-  const userId = useUserId()
-  const { createNew } = useCharacterLifecycle()
-
-  const handleCreate = async () => {
-    if (userId == null) return
-    setIsCreating(true)
-    try {
-      const build = createNewCharacter()
-      const buildHash = encodeBuild(build)
-      const buildMetadata = extractCharacterMetadata(build)
-      const id = crypto.randomUUID()
-      await createNew({ id, userId, buildHash, buildMetadata })
-      router.push(`${characterUrl(buildId(id), build.name)}?tab=character`)
-    } catch (error) {
-      toast.error(error instanceof Error ? error.message : "Failed to create build")
-      setIsCreating(false)
-    }
-  }
+  const { isCreating, handleCreate } = useNewCharacter()
 
   return (
     <Button

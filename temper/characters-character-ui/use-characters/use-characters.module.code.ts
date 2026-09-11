@@ -4,23 +4,32 @@ import { createPage } from "akasha/pages/access/create/create.module.code.ts"
 import { deletePage } from "akasha/pages/access/deleting/deleting.module.code.ts"
 import { patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
+import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { useOptimisticDeletePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { usePages } from "akasha/pages/ui/supabase/use-pages/use-pages.module.code.ts"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
-import type { CharacterBuildMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+import { encodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
+import {
+  type CharacterBuildMetadata,
+  extractCharacterMetadata,
+} from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import {
   type BuildRow,
   mapBuildRow,
 } from "akasha/temper/build-support/build-row/build-row.module.code.ts"
+import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
+import { createNewCharacter } from "akasha/temper/character-build/build-factory/build-factory.module.code.ts"
 import type { CharacterVisibility } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import {
   type RoleId,
   characterRoles as roles,
 } from "akasha/temper/character-sources/character-roles/character-roles.module.code.ts"
+import { buildId as toBuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
-import { useMemo } from "react"
+import { useMemo, useState } from "react"
+import { toast } from "sonner"
 
 const CHARACTER_BUILD_PAGE_TYPE_SLUG = "character-build"
 
@@ -320,6 +329,31 @@ export function useCharacterLifecycle() {
     createTargetBuild,
     setTarget,
   }
+}
+
+export function useNewCharacter() {
+  const [isCreating, setIsCreating] = useState(false)
+  const router = usePagesUIRouter()
+  const userId = useUserId()
+  const { createNew } = useCharacterLifecycle()
+
+  const handleCreate = async () => {
+    if (userId == null) return
+    setIsCreating(true)
+    try {
+      const build = createNewCharacter()
+      const buildHash = encodeBuild(build)
+      const buildMetadata = extractCharacterMetadata(build)
+      const id = crypto.randomUUID()
+      await createNew({ id, userId, buildHash, buildMetadata })
+      router.push(`${characterUrl(toBuildId(id), build.name)}?tab=character`)
+    } catch (error) {
+      toast.error(error instanceof Error ? error.message : "Failed to create build")
+      setIsCreating(false)
+    }
+  }
+
+  return { isCreating, handleCreate }
 }
 
 export function useAllCharacterList(userId: string | null) {
