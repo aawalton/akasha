@@ -43,6 +43,10 @@ export const aelwynStrengthTraining = {
       statement:
         "A movement pattern's coverage is counted over the week rather than over one session.",
     },
+    {
+      statement:
+        "The next movement is chosen from what Alan has already done rather than planned as a session.",
+    },
   ],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
