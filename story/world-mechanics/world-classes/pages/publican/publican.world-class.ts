@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const publican = {
   id: "01a06586-0a19-77cd-823e-6913ced2b72d",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "publican",
   title: "Publican",

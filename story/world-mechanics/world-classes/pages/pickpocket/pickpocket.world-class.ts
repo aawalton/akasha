@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const pickpocket = {
   id: "01a0657e-0237-73f5-bb53-b07c5ccf3926",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "pickpocket",
   title: "Pickpocket",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const queenTemporary = {
   id: "01a06586-0a1a-7787-8fee-36448ccc8bac",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "queen-temporary",
   title: "Queen (Temporary)",

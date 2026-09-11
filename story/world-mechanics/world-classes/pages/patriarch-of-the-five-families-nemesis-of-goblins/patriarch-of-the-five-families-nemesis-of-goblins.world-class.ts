@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const patriarchOfTheFiveFamiliesNemesisOfGoblins = {
   id: "01a0657e-13b6-779d-ac70-a57230241cb8",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "patriarch-of-the-five-families-nemesis-of-goblins",
   title: "Patriarch of the Five Families, Nemesis of Goblins",

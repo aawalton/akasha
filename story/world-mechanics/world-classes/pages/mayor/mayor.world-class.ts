@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const mayor = {
   id: "01a0657e-0230-77d8-bab9-03b421f6e570",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "mayor",
   title: "Mayor",

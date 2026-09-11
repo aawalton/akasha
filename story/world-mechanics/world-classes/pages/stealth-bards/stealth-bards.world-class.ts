@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const stealthBards = {
   id: "01a06586-0a53-7806-a3ae-8f72ed2f8999",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "stealth-bards",
   title: "Stealth Bards",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const psychicGuardians = {
   id: "01a06586-0a19-7abe-a7ef-3ec42fed8a38",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "psychic-guardians",
   title: "Psychic Guardians",

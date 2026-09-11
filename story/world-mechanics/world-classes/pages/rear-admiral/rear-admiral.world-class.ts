@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const rearAdmiral = {
   id: "01a06586-0a1e-73e1-b038-08419fa73123",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "rear-admiral",
   title: "Rear Admiral",

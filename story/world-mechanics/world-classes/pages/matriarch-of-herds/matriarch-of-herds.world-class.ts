@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const matriarchOfHerds = {
   id: "01a0657e-0230-7514-9fab-971d3c8ec58a",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "matriarch-of-herds",
   title: "Matriarch of Herds",

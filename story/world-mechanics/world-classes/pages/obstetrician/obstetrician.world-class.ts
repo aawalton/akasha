@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const obstetrician = {
   id: "01a0657e-13b3-7d42-9936-8fad7b27739c",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "obstetrician",
   title: "Obstetrician",

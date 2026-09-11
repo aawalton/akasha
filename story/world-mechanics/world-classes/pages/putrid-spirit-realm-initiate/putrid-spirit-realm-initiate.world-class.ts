@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const putridSpiritRealmInitiate = {
   id: "01a0657e-0241-7340-9f27-7a4a8a77c238",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "putrid-spirit-realm-initiate",
   title: "Putrid Spirit Realm Initiate",

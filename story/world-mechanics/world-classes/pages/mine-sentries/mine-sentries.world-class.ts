@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const mineSentries = {
   id: "01a0657e-13a2-7a9e-a5bf-f2356ad9b55d",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "mine-sentries",
   title: "Mine Sentries",

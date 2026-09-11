@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const shopAssistant = {
   id: "01a0657e-0254-75ad-94c0-26c1c0ce15ac",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "shop-assistant",
   title: "Shop Assistant",

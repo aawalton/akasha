@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const spearCrusader = {
   id: "01a06586-0a4e-7ae2-adee-0cf1eeb61dd9",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "spear-crusader",
   title: "Spear Crusader",

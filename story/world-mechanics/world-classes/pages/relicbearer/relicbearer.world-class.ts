@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const relicbearer = {
   id: "01a06586-0a20-7729-bde5-9495287a5eed",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "relicbearer",
   title: "Relicbearer",

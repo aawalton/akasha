@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const organizedHarborworker = {
   id: "01a0657e-0235-7b60-88b6-f5efa2880c44",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "organized-harborworker",
   title: "Organized Harborworker",

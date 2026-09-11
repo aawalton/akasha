@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const princessOfHeartSLockAndQuietKey = {
   id: "01a0657e-023f-7489-99fd-f2b5224c2153",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "princess-of-heart-s-lock-and-quiet-key",
   title: "Princess of Heart’s Lock and Quiet Key",

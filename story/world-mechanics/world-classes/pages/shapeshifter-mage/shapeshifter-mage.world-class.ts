@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const shapeshifterMage = {
   id: "01a0657e-0254-7bcf-849a-509b8bba024e",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "shapeshifter-mage",
   title: "Shapeshifter Mage",

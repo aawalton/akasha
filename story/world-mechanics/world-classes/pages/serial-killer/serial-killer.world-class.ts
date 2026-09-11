@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const serialKiller = {
   id: "01a06586-0a31-7f4a-8331-7fe73083a88b",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "serial-killer",
   title: "Serial Killer",

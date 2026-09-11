@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const smelter = {
   id: "01a06586-0a43-7876-bb63-b83f7cfb0b8d",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "smelter",
   title: "Smelter",

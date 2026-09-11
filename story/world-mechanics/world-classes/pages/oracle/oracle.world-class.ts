@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const oracle = {
   id: "01a0657e-0235-79a0-982b-bd353a383c6a",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "oracle",
   title: "Oracle",

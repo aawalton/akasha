@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const mirmilinEsHivuleSekururu = {
   id: "01a0657e-13a2-7e90-bfb0-af76deb9f580",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "mirmilin-es-hivule-sekururu",
   title: "Mirmilin Es’hivule Sekururu",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const ossificNecromancer = {
   id: "01a0657e-0235-7adf-8500-1df13c2e0442",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "ossific-necromancer",
   title: "Ossific Necromancer",

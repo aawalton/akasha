@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const mountainrangeSniper = {
   id: "01a0657e-0233-70f5-925e-716f58de25c5",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "mountainrange-sniper",
   title: "Mountainrange Sniper",

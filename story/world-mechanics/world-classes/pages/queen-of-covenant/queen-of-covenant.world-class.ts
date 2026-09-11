@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const queenOfCovenant = {
   id: "01a06586-0a1a-73a2-ad42-61d208a18765",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "queen-of-covenant",
   title: "Queen of Covenant",

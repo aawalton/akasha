@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const sigilists = {
   id: "01a0657e-0255-7da3-a0fd-3f53752e0c00",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "sigilists",
   title: "Sigilists",

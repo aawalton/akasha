@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const stitchDoctor = {
   id: "01a0657e-025f-7ed1-8557-3d87ab41d2cb",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "stitch-doctor",
   title: "Stitch Doctor",

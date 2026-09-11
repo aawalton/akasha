@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const saucemaker = {
   id: "01a0657e-024a-7541-9f62-48422767accd",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "saucemaker",
   title: "Saucemaker",

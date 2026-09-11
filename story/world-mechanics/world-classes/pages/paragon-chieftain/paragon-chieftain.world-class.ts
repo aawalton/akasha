@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const paragonChieftain = {
   id: "01a0657e-13b5-7ebd-9c75-cbd9da6f7459",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "paragon-chieftain",
   title: "Paragon Chieftain",

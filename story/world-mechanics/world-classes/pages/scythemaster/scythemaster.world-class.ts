@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const scythemaster = {
   id: "01a06586-0a2d-7794-8e56-b0e69af8e82a",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "scythemaster",
   title: "Scythemaster",

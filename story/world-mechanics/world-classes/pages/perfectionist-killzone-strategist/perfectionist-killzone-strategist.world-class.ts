@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const perfectionistKillzoneStrategist = {
   id: "01a06586-0a06-7ce5-801d-06616646efb0",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "perfectionist-killzone-strategist",
   title: "Perfectionist Killzone Strategist",

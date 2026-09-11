@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const prayerHealers = {
   id: "01a0657e-023e-7a3e-a3f6-55cef9c193b1",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "prayer-healers",
   title: "Prayer Healers",

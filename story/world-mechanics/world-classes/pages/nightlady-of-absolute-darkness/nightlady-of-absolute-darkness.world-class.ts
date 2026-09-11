@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const nightladyOfAbsoluteDarkness = {
   id: "01a0657e-0234-77c1-aedc-2be7a5366c94",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "nightlady-of-absolute-darkness",
   title: "Nightlady of Absolute Darkness",

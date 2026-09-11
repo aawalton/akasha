@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const singlestrikeKiller = {
   id: "01a06586-0a3e-7bbe-b66e-a04ee18fe93e",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "singlestrike-killer",
   title: "Singlestrike Killer",

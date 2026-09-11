@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const snoop = {
   id: "01a06586-0a45-7bee-b21a-2e6c454dfedf",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "snoop",
   title: "Snoop",

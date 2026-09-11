@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const minder = {
   id: "01a0657e-13a2-7a7d-ab43-da7631dbc7a1",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "minder",
   title: "Minder",

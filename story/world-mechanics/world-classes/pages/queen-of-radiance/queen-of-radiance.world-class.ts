@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const queenOfRadiance = {
   id: "01a06586-0a1a-794a-aa97-fa3ad906f9c9",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "queen-of-radiance",
   title: "Queen of Radiance",

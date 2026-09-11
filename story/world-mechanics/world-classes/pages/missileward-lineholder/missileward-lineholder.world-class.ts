@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const missilewardLineholder = {
   id: "01a0657e-0233-7e85-a61f-3038b6f51187",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "missileward-lineholder",
   title: "Missileward Lineholder",

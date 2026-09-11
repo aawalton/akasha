@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const piper = {
   id: "01a0657e-0237-775b-88b1-977128f759dd",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "piper",
   title: "Piper",

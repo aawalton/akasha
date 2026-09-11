@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const racdelbearShapechanger = {
   id: "01a0657e-0243-779a-977c-7707cbb1456d",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "racdelbear-shapechanger",
   title: "Racdelbear Shapechanger",

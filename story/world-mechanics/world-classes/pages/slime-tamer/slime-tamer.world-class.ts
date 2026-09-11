@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const slimeTamer = {
   id: "01a0657e-0258-7468-8a01-985a0dc7b28b",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "slime-tamer",
   title: "Slime Tamer",

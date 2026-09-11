@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const sheathTender = {
   id: "01a06586-0a3a-7b31-a371-3c72efe02c40",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "sheath-tender",
   title: "Sheath Tender",

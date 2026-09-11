@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const scribblequillStudentLevel12 = {
   id: "01a06586-0a2c-77c6-befd-632beda6f19e",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "scribblequill-student-level-12",
   title: "Scribblequill Student Level 12.",

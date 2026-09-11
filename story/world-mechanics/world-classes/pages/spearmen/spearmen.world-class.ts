@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const spearmen = {
   id: "01a06586-0a50-75e5-a445-1cef60353beb",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "spearmen",
   title: "Spearmen",

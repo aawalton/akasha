@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const peerlessMagicSmith = {
   id: "01a0657e-13b6-70d0-83f8-df1b1085b7ae",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "peerless-magic-smith",
   title: "Peerless Magic Smith",

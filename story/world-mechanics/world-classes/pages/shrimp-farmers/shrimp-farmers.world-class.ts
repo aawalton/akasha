@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const shrimpFarmers = {
   id: "01a06586-0a3c-7cea-af82-7b46cb997455",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "shrimp-farmers",
   title: "Shrimp Farmers",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const spellDuelist = {
   id: "01a06586-0a50-7e61-b50a-d5755f5aa077",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "spell-duelist",
   title: "Spell Duelist",

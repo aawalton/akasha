@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const quartermaster = {
   id: "01a06586-0a1a-726f-98b4-b960a20bfbba",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "quartermaster",
   title: "Quartermaster",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const pursuitCommander = {
   id: "01a06586-0a1a-717f-b18e-70c0a342218a",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "pursuit-commander",
   title: "Pursuit Commander",

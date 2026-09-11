@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const royalChamberlain = {
   id: "01a06586-0a26-7137-abe5-836961ae6335",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "royal-chamberlain",
   title: "Royal Chamberlain",

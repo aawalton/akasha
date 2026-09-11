@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const mercenaryCommanders = {
   id: "01a0657e-0231-72ad-9a37-89d9cec8997c",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "mercenary-commanders",
   title: "Mercenary Commanders",

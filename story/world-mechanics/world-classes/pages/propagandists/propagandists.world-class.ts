@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const propagandists = {
   id: "01a06586-0a18-7459-b0ff-195fdc6a7890",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "propagandists",
   title: "Propagandists",

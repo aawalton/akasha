@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const seaChef = {
   id: "01a06586-0a2d-7bd1-85e6-cff61b492574",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "sea-chef",
   title: "Sea Chef",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const midnightGoth = {
   id: "01a0657e-13a2-7620-987d-e0fadd517e5d",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "midnight-goth",
   title: "Midnight Goth",

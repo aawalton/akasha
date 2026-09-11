@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const runemistressOfGer = {
   id: "01a06586-0a27-7200-bbd7-41e5bf91f3b1",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "runemistress-of-ger",
   title: "Runemistress of Ger",

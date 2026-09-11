@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const renownedMasterthiefOfTreasures = {
   id: "01a0657e-0245-795b-a795-57cf9bfecf2f",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "renowned-masterthief-of-treasures",
   title: "Renowned Masterthief of Treasures",

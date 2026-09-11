@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const steelforgedWhirlwindLevel39 = {
   id: "01a0657e-025f-748b-9b74-b6222d3da173",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "steelforged-whirlwind-level-39",
   title: "Steelforged Whirlwind Level 39…?",

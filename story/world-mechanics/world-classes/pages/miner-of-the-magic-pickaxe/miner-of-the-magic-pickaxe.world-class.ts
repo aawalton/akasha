@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const minerOfTheMagicPickaxe = {
   id: "01a0657e-0232-7526-9ea8-b442c24ac875",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "miner-of-the-magic-pickaxe",
   title: "Miner of the Magic Pickaxe",

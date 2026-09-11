@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const nightstalker = {
   id: "01a0657e-13b2-7452-b62b-9f5ffd54c28c",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "nightstalker",
   title: "Nightstalker",

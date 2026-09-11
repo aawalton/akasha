@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const politician = {
   id: "01a06586-0a0a-79cf-bf25-7df4ba6f63b8",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "politician",
   title: "Politician",

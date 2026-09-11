@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const scribblequillStudent = {
   id: "01a0657e-024b-7368-8bb3-4a8c123b9170",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "scribblequill-student",
   title: "Scribblequill Student",

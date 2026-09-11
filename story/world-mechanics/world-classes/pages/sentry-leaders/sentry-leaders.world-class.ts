@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const sentryLeaders = {
   id: "01a0657e-024c-72f4-b0ac-154c822d9c75",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "sentry-leaders",
   title: "Sentry Leaders",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const smithingChieftain = {
   id: "01a06586-0a44-7c51-b2f7-be9c55cacd5d",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "smithing-chieftain",
   title: "Smithing Chieftain",

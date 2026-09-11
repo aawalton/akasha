@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const sensorLookout = {
   id: "01a06586-0a2f-78d9-abc1-4fabd1e39d68",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "sensor-lookout",
   title: "Sensor Lookout",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const masterworkSellswordOfCorruption = {
   id: "01a0657e-022f-7ff5-a504-29152e1aa00a",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "masterwork-sellsword-of-corruption",
   title: "Masterwork Sellsword of Corruption",

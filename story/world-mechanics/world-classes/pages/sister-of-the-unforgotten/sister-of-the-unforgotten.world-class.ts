@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const sisterOfTheUnforgotten = {
   id: "01a06586-0a3e-7195-a59f-a1e880ac4cf5",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "sister-of-the-unforgotten",
   title: "Sister of the Unforgotten",

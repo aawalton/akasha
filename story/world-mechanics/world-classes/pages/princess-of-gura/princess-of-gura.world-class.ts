@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const princessOfGura = {
   id: "01a0657e-023f-79f2-aab9-9808bbd905ee",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "princess-of-gura",
   title: "Princess of Gura",

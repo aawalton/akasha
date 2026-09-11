@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const spellKnightOfMercy = {
   id: "01a0657e-025d-7120-9524-40948624a0a0",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "spell-knight-of-mercy",
   title: "Spell Knight of Mercy",

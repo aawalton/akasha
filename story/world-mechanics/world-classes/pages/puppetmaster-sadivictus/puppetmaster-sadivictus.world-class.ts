@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const puppetmasterSadivictus = {
   id: "01a06586-0a19-76e7-8134-01b9902c8a6f",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "puppetmaster-sadivictus",
   title: "Puppetmaster Sadivictus",

@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const seaDruids = {
   id: "01a0657e-024b-76bb-b909-7de1295d1154",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "sea-druids",
   title: "Sea Druids",

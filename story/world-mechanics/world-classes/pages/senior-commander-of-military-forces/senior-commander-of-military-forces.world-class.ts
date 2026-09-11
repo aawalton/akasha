@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const seniorCommanderOfMilitaryForces = {
   id: "01a06586-0a2f-7359-acff-36e9203874ca",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "senior-commander-of-military-forces",
   title: "Senior Commander of Military Forces",

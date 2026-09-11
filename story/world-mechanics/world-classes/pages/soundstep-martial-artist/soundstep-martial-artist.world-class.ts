@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const soundstepMartialArtist = {
   id: "01a06586-0a4e-745a-8420-9532fd3ca3c8",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "soundstep-martial-artist",
   title: "Soundstep Martial Artist",

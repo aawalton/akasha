@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const masterfulStaffFighter = {
   id: "01a0657e-139f-7559-b0f3-e835f28f149c",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "masterful-staff-fighter",
   title: "Masterful Staff Fighter",

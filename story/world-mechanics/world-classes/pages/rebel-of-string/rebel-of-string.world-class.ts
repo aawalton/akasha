@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const rebelOfString = {
   id: "01a06586-0a1e-7319-982b-1c19bed37da4",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "rebel-of-string",
   title: "Rebel of String",

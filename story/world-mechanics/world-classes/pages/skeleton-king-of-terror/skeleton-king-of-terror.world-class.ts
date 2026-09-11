@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const skeletonKingOfTerror = {
   id: "01a06586-0a3e-77b9-87b9-d0a4ad3aa74b",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "skeleton-king-of-terror",
   title: "Skeleton King of Terror",

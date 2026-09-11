@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const metallurgist = {
   id: "01a0657e-0232-7bbf-9118-52c80da1826b",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "metallurgist",
   title: "Metallurgist",

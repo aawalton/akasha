@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const secretChieftain = {
   id: "01a0657e-024b-7ba2-af75-b593a7368bfb",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "secret-chieftain",
   title: "Secret Chieftain",

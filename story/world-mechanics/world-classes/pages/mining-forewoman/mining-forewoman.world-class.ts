@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const miningForewoman = {
   id: "01a0657e-0233-7c82-a10d-f760a8598e9e",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "mining-forewoman",
   title: "Mining Forewoman",

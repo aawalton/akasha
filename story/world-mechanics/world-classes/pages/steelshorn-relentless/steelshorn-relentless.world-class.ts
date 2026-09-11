@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const steelshornRelentless = {
   id: "01a0657e-025f-7d46-9fec-58715c5f42ea",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "steelshorn-relentless",
   title: "Steelshorn Relentless",

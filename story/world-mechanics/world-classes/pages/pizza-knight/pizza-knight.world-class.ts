@@ -2,7 +2,6 @@ import type { WorldClass } from "akasha/story/world-mechanics/world-classes/worl
 
 export const pizzaKnight = {
   id: "01a06586-0a09-70f2-bfca-9d6b434e734f",
-  pageTypeSlug: "world-class",
   type: "world-class",
   slug: "pizza-knight",
   title: "Pizza Knight",
