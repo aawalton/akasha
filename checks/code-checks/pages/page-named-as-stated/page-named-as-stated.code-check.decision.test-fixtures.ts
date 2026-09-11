@@ -48,7 +48,6 @@ export function property(slug: string): Uint8Array {
   return bytesOf(
     [
       `export const ${slug} = {`,
-      '  id: "01a04b5e-39e5-7fa4-be61-f3fa8d7d1737",',
       '  pageTypeSlug: "file-property",',
       `  slug: "${slug}",`,
       `  propertySlug: "${slug}",`,
