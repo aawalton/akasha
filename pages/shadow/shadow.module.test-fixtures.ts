@@ -185,6 +185,16 @@ export function carriedOver(root: string): Change {
   }
 }
 
+export function rewrittenOver(root: string): Change {
+  const was = onDisk(root)
+  return {
+    root,
+    changed: [CODE_AT],
+    before: was,
+    after: (path) => (path === CODE_AT ? TEXT.encode("export const d = 2\n") : was(path)),
+  }
+}
+
 export function codeOf(cast: Cast): (path: string) => string | null {
   if ("refused" in cast) throw new Error(cast.refused)
   return cast.shadow.codeAt

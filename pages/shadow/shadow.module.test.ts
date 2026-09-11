@@ -23,6 +23,7 @@ import {
   NAME_AT,
   naming,
   onDisk,
+  rewrittenOver,
   SHARED_AT,
   scratch,
   seeded,
@@ -193,6 +194,11 @@ test("a body the change writes anew is at no path and is answered as nothing", (
 test("a body the change takes away stands at no path", () => {
   const repo = seeded()
   expect(codeOf(shadowFor(carriedOver(repo)))(CODE_AT)).toBe(null)
+})
+
+test("a body the change rewrites where the body already was is loaded from that path", () => {
+  const repo = seeded()
+  expect(codeOf(shadowFor(rewrittenOver(repo)))(CODE_AT)).toBe(CODE_AT)
 })
 
 test("a path the change does not carry holds its own body", () => {

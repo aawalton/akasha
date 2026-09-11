@@ -125,6 +125,11 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A body the change rewrites where the body already was is loaded as it was before.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body the change writes anew is at no path and is answered as nothing.",
     },
     {

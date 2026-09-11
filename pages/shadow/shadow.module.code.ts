@@ -110,7 +110,9 @@ function codeOver(change: Change): (path: string) => string | null {
     if (!carried.has(path)) return path
     const after = change.after(path)
     if (after === null) return null
-    return before().get(digestOf(after)) ?? null
+    const moved = before().get(digestOf(after))
+    if (moved !== undefined) return moved
+    return change.before(path) === null ? null : path
   }
 }
 
