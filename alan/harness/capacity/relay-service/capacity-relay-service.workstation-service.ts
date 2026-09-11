@@ -10,6 +10,20 @@ export const capacityRelayService = {
     "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts https://alanwalton.com",
     "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts https://smilingjenny.me",
   ],
+  starts: [
+    {
+      code: "module/readout-relay",
+      pages: ["readout/upkeep-capacity"],
+      arguments: ["https://alanwalton.com"],
+      lenient: true,
+    },
+    {
+      code: "module/readout-relay",
+      pages: ["readout/upkeep-capacity"],
+      arguments: ["https://smilingjenny.me"],
+      lenient: true,
+    },
+  ],
   enabled: true,
   needsSecrets: true,
   systemd: {

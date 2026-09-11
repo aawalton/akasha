@@ -14,6 +14,44 @@ export const attributesRelayService = {
     "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/attributes/readouts/attribute-intelligence/attribute-intelligence.readout.ts https://alanwalton.com",
     "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/attributes/readouts/attribute-charisma/attribute-charisma.readout.ts https://alanwalton.com",
   ],
+  starts: [
+    {
+      code: "module/readout-relay",
+      pages: ["readout/attribute-strength"],
+      arguments: ["https://alanwalton.com"],
+      lenient: true,
+    },
+    {
+      code: "module/readout-relay",
+      pages: ["readout/attribute-endurance"],
+      arguments: ["https://alanwalton.com"],
+      lenient: true,
+    },
+    {
+      code: "module/readout-relay",
+      pages: ["readout/attribute-constitution"],
+      arguments: ["https://alanwalton.com"],
+      lenient: true,
+    },
+    {
+      code: "module/readout-relay",
+      pages: ["readout/attribute-wisdom"],
+      arguments: ["https://alanwalton.com"],
+      lenient: true,
+    },
+    {
+      code: "module/readout-relay",
+      pages: ["readout/attribute-intelligence"],
+      arguments: ["https://alanwalton.com"],
+      lenient: true,
+    },
+    {
+      code: "module/readout-relay",
+      pages: ["readout/attribute-charisma"],
+      arguments: ["https://alanwalton.com"],
+      lenient: true,
+    },
+  ],
   enabled: true,
   needsSecrets: true,
   systemd: {

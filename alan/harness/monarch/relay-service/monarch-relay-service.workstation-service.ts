@@ -10,6 +10,20 @@ export const monarchRelayService = {
     "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts https://alanwalton.com",
     "-bun alan/harness/readouts/relay/readout-relay.module.code.ts alan/harness/readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts https://smilingjenny.me",
   ],
+  starts: [
+    {
+      code: "module/readout-relay",
+      pages: ["readout/monarch-unreviewed-transactions"],
+      arguments: ["https://alanwalton.com"],
+      lenient: true,
+    },
+    {
+      code: "module/readout-relay",
+      pages: ["readout/monarch-unreviewed-transactions"],
+      arguments: ["https://smilingjenny.me"],
+      lenient: true,
+    },
+  ],
   enabled: true,
   needsSecrets: true,
   systemd: {
