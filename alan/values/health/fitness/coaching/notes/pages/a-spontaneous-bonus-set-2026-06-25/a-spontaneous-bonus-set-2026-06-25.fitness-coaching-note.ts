@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
+import type { FitnessCoachingNote } from "akasha/alan/values/health/fitness/coaching/notes/fitness-coaching-note.page-type.types.ts"
 
 export const aSpontaneousBonusSet20260625 = {
   id: "01a08177-6309-7b24-82bc-33a720c333c6",

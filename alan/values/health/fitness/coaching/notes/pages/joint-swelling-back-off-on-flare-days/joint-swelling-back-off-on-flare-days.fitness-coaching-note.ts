@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
+import type { FitnessCoachingNote } from "akasha/alan/values/health/fitness/coaching/notes/fitness-coaching-note.page-type.types.ts"
 
 export const jointSwellingBackOffOnFlareDays = {
   id: "019f01e1-b952-783a-a931-b952d7a3a560",

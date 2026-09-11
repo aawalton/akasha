@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.types.ts"
+import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exercise.page-type.types.ts"
 
 export const declineDumbbellBenchPress = {
   id: "019ebc76-eeec-77e4-92d3-b77b636ea693",

@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
+import type { FitnessCoachingNote } from "akasha/alan/values/health/fitness/coaching/notes/fitness-coaching-note.page-type.types.ts"
 
 export const beatSaberReCueUpperDaysRestOnLegs = {
   id: "019f01e1-bd3c-7418-aff5-89f5f5ad3000",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.types.ts"
+import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exercise.page-type.types.ts"
 
 export const hackSquat = {
   id: "019ebc77-4aed-750c-af4a-ec59d7b485bf",

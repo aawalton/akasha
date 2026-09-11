@@ -1,4 +1,4 @@
-import type { EquipmentItem } from "../../equipment-item.page-type.types.ts"
+import type { EquipmentItem } from "akasha/alan/values/health/fitness/equipment-items/equipment-item.page-type.types.ts"
 
 export const weightedVest = {
   id: "019f01e1-b319-7702-9a89-953151f9dbf5",

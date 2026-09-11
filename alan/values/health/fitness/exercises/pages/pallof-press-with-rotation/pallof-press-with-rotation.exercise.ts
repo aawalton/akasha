@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.types.ts"
+import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exercise.page-type.types.ts"
 
 export const pallofPressWithRotation = {
   id: "019ebc77-be40-7a50-a5c9-de8bc6fc3e9e",

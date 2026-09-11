@@ -1,5 +1,5 @@
+import type { SetLog } from "akasha/alan/values/health/fitness/set-logs/set-log.page-type.types.ts"
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
-import type { SetLog } from "../set-log.page-type.types.ts"
 
 const LIFTER = "person/alan"
 

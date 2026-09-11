@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.types.ts"
+import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exercise.page-type.types.ts"
 
 export const sumoDeadliftWithChains = {
   id: "019ebc78-a629-7869-b099-fe6b022641ed",

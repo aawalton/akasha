@@ -1,4 +1,4 @@
-import type { Value } from "../value.page-type.types.ts"
+import type { Value } from "akasha/alan/values/value.page-type.types.ts"
 
 export const love = {
   id: "019eb7d0-f464-7d53-a897-4f98342c82e9",

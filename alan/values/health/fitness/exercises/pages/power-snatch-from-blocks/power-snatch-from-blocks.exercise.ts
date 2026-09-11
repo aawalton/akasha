@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.types.ts"
+import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exercise.page-type.types.ts"
 
 export const powerSnatchFromBlocks = {
   id: "019ebc77-c453-7539-af52-fa87a2a772f7",

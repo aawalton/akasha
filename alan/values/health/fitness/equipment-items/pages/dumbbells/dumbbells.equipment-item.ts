@@ -1,4 +1,4 @@
-import type { EquipmentItem } from "../../equipment-item.page-type.types.ts"
+import type { EquipmentItem } from "akasha/alan/values/health/fitness/equipment-items/equipment-item.page-type.types.ts"
 
 export const dumbbells = {
   id: "019f01e1-b0dc-72f8-9040-f0924d81a528",

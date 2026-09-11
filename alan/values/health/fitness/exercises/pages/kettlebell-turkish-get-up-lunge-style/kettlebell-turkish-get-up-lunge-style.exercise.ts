@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.types.ts"
+import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exercise.page-type.types.ts"
 
 export const kettlebellTurkishGetUpLungeStyle = {
   id: "019ebc77-861d-7ccf-a314-bb1a148704ac",

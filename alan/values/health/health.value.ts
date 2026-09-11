@@ -1,4 +1,4 @@
-import type { Value } from "../value.page-type.types.ts"
+import type { Value } from "akasha/alan/values/value.page-type.types.ts"
 
 export const health = {
   id: "019eb7d0-f6ed-73b7-8495-21dfdac80cd2",

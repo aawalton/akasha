@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.types.ts"
+import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exercise.page-type.types.ts"
 
 export const calfPressOnTheLegPressMachine = {
   id: "019ebc76-c5bc-7fe6-8d9a-8a6f779c3a6f",

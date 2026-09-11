@@ -1,4 +1,4 @@
-import type { SetLog } from "../set-log.page-type.types.ts"
+import type { SetLog } from "akasha/alan/values/health/fitness/set-logs/set-log.page-type.types.ts"
 
 export const fridayPull20260626105c11ffBentOverTwoDumbbellRowSet2 = {
   id: "019f054b-1775-7747-bb12-43acf996742e",

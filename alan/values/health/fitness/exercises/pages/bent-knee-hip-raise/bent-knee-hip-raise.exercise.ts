@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.types.ts"
+import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exercise.page-type.types.ts"
 
 export const bentKneeHipRaise = {
   id: "019ebc76-a1fe-77be-ba9a-d816d041bd4f",

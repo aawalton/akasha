@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.types.ts"
+import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exercise.page-type.types.ts"
 
 export const recumbentBike = {
   id: "019ebc77-cad1-722e-b5c4-f5628487ac9b",

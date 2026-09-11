@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.types.ts"
+import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exercise.page-type.types.ts"
 
 export const standingPelvicTilt = {
   id: "019ebc78-a0d6-725f-84a6-f9923e43b07d",

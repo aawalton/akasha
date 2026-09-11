@@ -1,4 +1,4 @@
-import type { EquipmentItem } from "../../equipment-item.page-type.types.ts"
+import type { EquipmentItem } from "akasha/alan/values/health/fitness/equipment-items/equipment-item.page-type.types.ts"
 
 export const handGripper = {
   id: "019f0aaa-882e-7851-b3e2-c733095ecb9c",

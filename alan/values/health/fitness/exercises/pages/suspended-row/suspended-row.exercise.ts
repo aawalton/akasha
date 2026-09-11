@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.types.ts"
+import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exercise.page-type.types.ts"
 
 export const suspendedRow = {
   id: "019ebc78-a84a-7d19-ae49-0f6a81659ef6",

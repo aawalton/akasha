@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.types.ts"
+import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exercise.page-type.types.ts"
 
 export const cableOneArmTricepExtension = {
   id: "019ebc76-b9b3-7713-bef3-0671e17e1153",

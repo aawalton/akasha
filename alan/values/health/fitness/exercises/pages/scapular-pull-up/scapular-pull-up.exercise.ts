@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.types.ts"
+import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exercise.page-type.types.ts"
 
 export const scapularPullUp = {
   id: "019ebc77-d475-710c-b9c2-bb3deb48e688",

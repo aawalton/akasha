@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
+import type { FitnessCoachingNote } from "akasha/alan/values/health/fitness/coaching/notes/fitness-coaching-note.page-type.types.ts"
 
 export const firstPullBackAfterTwoWeeksIll20260619 = {
   id: "01a08174-42c0-7d32-a673-59bcaae0ff60",

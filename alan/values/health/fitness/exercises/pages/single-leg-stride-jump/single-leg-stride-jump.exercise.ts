@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.types.ts"
+import type { Exercise } from "akasha/alan/values/health/fitness/exercises/exercise.page-type.types.ts"
 
 export const singleLegStrideJump = {
   id: "019ebc78-66e4-7fd8-a480-fa6c604ebd8c",

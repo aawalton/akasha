@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
+import type { FitnessCoachingNote } from "akasha/alan/values/health/fitness/coaching/notes/fitness-coaching-note.page-type.types.ts"
 
 export const wristStiffnessPushupsHistoricallyOnFists = {
   id: "019f2932-257d-7a4b-8a66-758cbace0c57",
