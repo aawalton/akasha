@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const designTokens = {
   id: "01a05c97-52ff-77b0-98f7-72e4e4e986e4",

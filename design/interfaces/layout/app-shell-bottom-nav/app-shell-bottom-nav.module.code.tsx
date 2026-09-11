@@ -1,20 +1,23 @@
 "use client"
 
+import { AppShellMoreDrawer } from "akasha/design/interfaces/layout/app-shell-more-drawer/app-shell-more-drawer.module.code.tsx"
+import { isNavItemActive } from "akasha/design/interfaces/layout/nav-active/nav-active.module.code.ts"
+import type {
+  AppNavConfig,
+  AppNavItem,
+  MoreDrawerGroup,
+} from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
+import {
+  LayoutLink,
+  useLayoutPathname,
+} from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
+import { selectBottomNavItems } from "akasha/design/interfaces/layout/select-bottom-nav-items/select-bottom-nav-items.module.code.ts"
+import { selectDrawerGroups } from "akasha/design/interfaces/layout/select-drawer-groups/select-drawer-groups.module.code.ts"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { Skeleton } from "akasha/design/interfaces/primitives/skeleton/skeleton.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { Ellipsis } from "lucide-react"
 import { useState } from "react"
-import { AppShellMoreDrawer } from "../app-shell-more-drawer/app-shell-more-drawer.module.code.tsx"
-import { isNavItemActive } from "../nav-active/nav-active.module.code.ts"
-import type {
-  AppNavConfig,
-  AppNavItem,
-  MoreDrawerGroup,
-} from "../nav-types/nav-types.module.code.ts"
-import { LayoutLink, useLayoutPathname } from "../router-context/router-context.module.code.tsx"
-import { selectBottomNavItems } from "../select-bottom-nav-items/select-bottom-nav-items.module.code.ts"
-import { selectDrawerGroups } from "../select-drawer-groups/select-drawer-groups.module.code.ts"
 
 interface AppShellBottomNavProps {
   config: AppNavConfig

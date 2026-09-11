@@ -18,7 +18,7 @@ import {
   TableHeader,
   TableRow,
 } from "akasha/design/interfaces/primitives/table/table.module.code.tsx"
-import { LayoutSpacingPanels } from "../layout-spacing-panels/layout-spacing-panels.module.code.tsx"
+import { LayoutSpacingPanels } from "akasha/design/interfaces/system/layout-spacing-panels/layout-spacing-panels.module.code.tsx"
 
 export function LayoutTabContent() {
   const columnCount = useColumnCount()

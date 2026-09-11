@@ -1,6 +1,5 @@
 "use client"
 
-import { useState } from "react"
 import {
   Dialog,
   DialogBody,
@@ -8,19 +7,20 @@ import {
   DialogDescription,
   DialogHeader,
   DialogTitle,
-} from "../dialog/dialog.module.code.tsx"
-import { Heading } from "../heading/heading.module.code.tsx"
-import { Label } from "../label/label.module.code.tsx"
+} from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
+import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
+import { Label } from "akasha/design/interfaces/primitives/label/label.module.code.tsx"
 import {
   groupByLayerAndGroup,
   isChorded,
-} from "../shortcut-surfaces/shortcut-surfaces.module.code.ts"
-import { Switch } from "../switch-control/switch-control.module.code.tsx"
+} from "akasha/design/interfaces/primitives/shortcut-surfaces/shortcut-surfaces.module.code.ts"
+import { Switch } from "akasha/design/interfaces/primitives/switch-control/switch-control.module.code.tsx"
 import {
   useKeyboardBinding,
   useKeyboardBindingDescriptors,
   useShortcutsEnabled,
-} from "../use-keyboard-registry/use-keyboard-registry.module.code.ts"
+} from "akasha/design/interfaces/primitives/use-keyboard-registry/use-keyboard-registry.module.code.ts"
+import { useState } from "react"
 
 const DISABLE_TOGGLE_ID = "disable-keyboard-shortcuts"
 

@@ -2,7 +2,7 @@
 
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
-import { TokenSwatch } from "../token-swatch/token-swatch.module.code.tsx"
+import { TokenSwatch } from "akasha/design/interfaces/system/token-swatch/token-swatch.module.code.tsx"
 
 export function SurfaceElevationPanel() {
   return (

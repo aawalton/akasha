@@ -1,4 +1,4 @@
-import type { Achievement } from "../achievement.page-type.types.ts"
+import type { Achievement } from "akasha/design/games/achievements/achievement.page-type.types.ts"
 
 export const reachTop4000InBeatSaber = {
   id: "01a06808-8818-7013-825f-b32e55f255ea",

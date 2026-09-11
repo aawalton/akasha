@@ -22,8 +22,8 @@ import {
   TableHeader,
   TableRow,
 } from "akasha/design/interfaces/primitives/table/table.module.code.tsx"
+import { PatternsUxLayoutPanels } from "akasha/design/interfaces/system/patterns-ux-layout-panels/patterns-ux-layout-panels.module.code.tsx"
 import { AlertCircle, FolderOpen, Search } from "lucide-react"
-import { PatternsUxLayoutPanels } from "../patterns-ux-layout-panels/patterns-ux-layout-panels.module.code.tsx"
 
 export function PatternsUxPanels() {
   return (

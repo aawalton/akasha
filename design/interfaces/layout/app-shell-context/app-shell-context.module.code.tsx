@@ -1,7 +1,7 @@
 "use client"
 
+import type { AppNavConfig } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
 import { createContext, useContext } from "react"
-import type { AppNavConfig } from "../nav-types/nav-types.module.code.ts"
 
 export interface AppShellContextValue {
   hasBottomNav: boolean

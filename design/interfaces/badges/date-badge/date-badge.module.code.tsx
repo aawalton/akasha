@@ -1,5 +1,11 @@
 "use client"
 
+import {
+  Badge,
+  type BadgeVariant,
+} from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
+import { useBadgeLayoutContext } from "akasha/design/interfaces/badges/badge-layout-context/badge-layout-context.module.code.tsx"
+import { ButtonBadge } from "akasha/design/interfaces/badges/button-badge/button-badge.module.code.tsx"
 import { Calendar } from "akasha/design/interfaces/forms/calendar/calendar.module.code.tsx"
 import {
   Popover,
@@ -8,9 +14,6 @@ import {
 } from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
 import { CalendarDays } from "lucide-react"
 import { useState } from "react"
-import { Badge, type BadgeVariant } from "../badge/badge.module.code.tsx"
-import { useBadgeLayoutContext } from "../badge-layout-context/badge-layout-context.module.code.tsx"
-import { ButtonBadge } from "../button-badge/button-badge.module.code.tsx"
 
 interface DateBadgeProps {
   label: string

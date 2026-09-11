@@ -1,10 +1,13 @@
-import { blue } from "../../colors/pages/blue.color.ts"
-import { green } from "../../colors/pages/green.color.ts"
-import { orange } from "../../colors/pages/orange.color.ts"
-import { purple } from "../../colors/pages/purple.color.ts"
-import { red } from "../../colors/pages/red.color.ts"
-import { yellow } from "../../colors/pages/yellow.color.ts"
-import { type Rgb, srgbOf } from "../surface-color/surface-color.module.code.ts"
+import { blue } from "akasha/design/interfaces/colors/pages/blue.color.ts"
+import { green } from "akasha/design/interfaces/colors/pages/green.color.ts"
+import { orange } from "akasha/design/interfaces/colors/pages/orange.color.ts"
+import { purple } from "akasha/design/interfaces/colors/pages/purple.color.ts"
+import { red } from "akasha/design/interfaces/colors/pages/red.color.ts"
+import { yellow } from "akasha/design/interfaces/colors/pages/yellow.color.ts"
+import {
+  type Rgb,
+  srgbOf,
+} from "akasha/design/interfaces/tokens/surface-color/surface-color.module.code.ts"
 
 export const GREEN: Rgb = srgbOf(green.hex)
 export const BLUE: Rgb = srgbOf(blue.hex)

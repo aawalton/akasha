@@ -1,7 +1,7 @@
 import type {
   KeyBindingDescriptor,
   KeyLayer,
-} from "../keyboard-registry/keyboard-registry.module.code.ts"
+} from "akasha/design/interfaces/primitives/keyboard-registry/keyboard-registry.module.code.ts"
 
 export const LAYER_ORDER: readonly KeyLayer[] = ["reserved", "conventional", "house"]
 

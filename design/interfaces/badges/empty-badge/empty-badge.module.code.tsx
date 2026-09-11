@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "../badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 
 interface EmptyBadgeProps {
   className?: string

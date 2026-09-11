@@ -1,6 +1,9 @@
 "use client"
 
-import { Badge, type BadgeVariant } from "../badge/badge.module.code.tsx"
+import {
+  Badge,
+  type BadgeVariant,
+} from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 
 interface JsonBadgeProps {
   value: unknown

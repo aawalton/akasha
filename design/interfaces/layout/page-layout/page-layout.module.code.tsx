@@ -1,20 +1,20 @@
 "use client"
 
+import { useAppShellOptional } from "akasha/design/interfaces/layout/app-shell-context/app-shell-context.module.code.tsx"
+import {
+  type ColumnLayout,
+  createGenericLayout,
+} from "akasha/design/interfaces/layout/column-layout/column-layout.module.code.ts"
+import {
+  getPageWidth,
+  PAGE_TITLE_CLASSES,
+} from "akasha/design/interfaces/layout/page-layout-data/page-layout-data.module.code.ts"
+import { ResponsiveColumnsSkeleton } from "akasha/design/interfaces/layout/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
+import { useColumnCount } from "akasha/design/interfaces/layout/use-column-count/use-column-count.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { Skeleton } from "akasha/design/interfaces/primitives/skeleton/skeleton.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import * as React from "react"
-import { useAppShellOptional } from "../app-shell-context/app-shell-context.module.code.tsx"
-import {
-  type ColumnLayout,
-  createGenericLayout,
-} from "../column-layout/column-layout.module.code.ts"
-import {
-  getPageWidth,
-  PAGE_TITLE_CLASSES,
-} from "../page-layout-data/page-layout-data.module.code.ts"
-import { ResponsiveColumnsSkeleton } from "../responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
-import { useColumnCount } from "../use-column-count/use-column-count.module.code.tsx"
 
 interface PageTitleProps {
   children: React.ReactNode

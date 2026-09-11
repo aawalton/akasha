@@ -1,5 +1,10 @@
 "use client"
 
+import {
+  Badge,
+  type BadgeVariant,
+} from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
+import { useBadgeLayoutContext } from "akasha/design/interfaces/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import { parseDateExpression } from "akasha/design/interfaces/forms/date-parser/date-parser.module.code.ts"
 import { formatTime12h } from "akasha/design/interfaces/forms/format-time/format-time.module.code.ts"
 import { normalizeBareNumericTime } from "akasha/design/interfaces/forms/normalize-bare-numeric-time/normalize-bare-numeric-time.module.code.ts"
@@ -10,8 +15,6 @@ import {
   PopoverTrigger,
 } from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
 import { useEffect, useRef, useState } from "react"
-import { Badge, type BadgeVariant } from "../badge/badge.module.code.tsx"
-import { useBadgeLayoutContext } from "../badge-layout-context/badge-layout-context.module.code.tsx"
 
 interface TimeBadgeProps {
   value: string | null

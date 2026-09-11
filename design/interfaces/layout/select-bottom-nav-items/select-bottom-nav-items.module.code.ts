@@ -1,4 +1,4 @@
-import type { AppNavItem } from "../nav-types/nav-types.module.code.ts"
+import type { AppNavItem } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
 
 export function selectBottomNavItems(
   primaryItems: readonly AppNavItem[],

@@ -1,12 +1,11 @@
 "use client"
 
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { GripVerticalIcon } from "lucide-react"
 import type * as React from "react"
 import { Panel, Group as PanelGroup, Separator as PanelResizeHandle } from "react-resizable-panels"
-
-import { cn } from "../cn/cn.module.code.ts"
-import { surfaceClass } from "../surface-class/surface-class.module.code.ts"
-import { useSurface } from "../surface-provider/surface-provider.module.code.tsx"
 
 function ResizablePanelGroup({ className, ...props }: React.ComponentProps<typeof PanelGroup>) {
   return (

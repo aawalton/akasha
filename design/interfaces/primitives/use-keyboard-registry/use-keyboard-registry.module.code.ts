@@ -1,6 +1,5 @@
 "use client"
 
-import { useCallback, useEffect, useRef, useSyncExternalStore } from "react"
 import {
   formatChord,
   type KeyBinding,
@@ -10,7 +9,8 @@ import {
   type OS,
   parseChord,
   selectBindingsById,
-} from "../keyboard-registry/keyboard-registry.module.code.ts"
+} from "akasha/design/interfaces/primitives/keyboard-registry/keyboard-registry.module.code.ts"
+import { useCallback, useEffect, useRef, useSyncExternalStore } from "react"
 
 const STORAGE_KEY = "keyboard-shortcuts-enabled"
 

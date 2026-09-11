@@ -3,8 +3,8 @@
 import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
-import { PatternsUxPanels } from "../patterns-ux-panels/patterns-ux-panels.module.code.tsx"
-import { PatternsVisualPanels } from "../patterns-visual-panels/patterns-visual-panels.module.code.tsx"
+import { PatternsUxPanels } from "akasha/design/interfaces/system/patterns-ux-panels/patterns-ux-panels.module.code.tsx"
+import { PatternsVisualPanels } from "akasha/design/interfaces/system/patterns-visual-panels/patterns-visual-panels.module.code.tsx"
 
 export function PatternsTabContent() {
   return (

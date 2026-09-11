@@ -1,10 +1,12 @@
 "use client"
 
+import {
+  Badge,
+  type BadgeVariant,
+} from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/interfaces/badges/button-badge/button-badge.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import * as React from "react"
-
-import { Badge, type BadgeVariant } from "../badge/badge.module.code.tsx"
-import { ButtonBadge } from "../button-badge/button-badge.module.code.tsx"
 
 interface NumberBadgeProps {
   value: number

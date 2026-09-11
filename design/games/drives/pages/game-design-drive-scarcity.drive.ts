@@ -1,4 +1,4 @@
-import type { Drive } from "../drive.page-type.types.ts"
+import type { Drive } from "akasha/design/games/drives/drive.page-type.types.ts"
 
 export const gameDesignDriveScarcity = {
   id: "01a06756-f717-781b-a67c-001849934e02",

@@ -1,8 +1,8 @@
 import {
   createGenericEditorLayout,
   createGenericLayout,
-} from "../column-layout/column-layout.module.code.ts"
-import type { PageLayoutSkeletonConfig } from "../page-layout/page-layout.module.code.tsx"
+} from "akasha/design/interfaces/layout/column-layout/column-layout.module.code.ts"
+import type { PageLayoutSkeletonConfig } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 
 export function listPageSkeleton(opts?: {
   titleWidth?: number

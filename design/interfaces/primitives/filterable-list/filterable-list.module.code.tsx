@@ -1,5 +1,8 @@
 "use client"
 
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { Check, SearchIcon } from "lucide-react"
 import {
   createContext,
@@ -14,9 +17,6 @@ import {
   useRef,
   useState,
 } from "react"
-import { cn } from "../cn/cn.module.code.ts"
-import { surfaceClass } from "../surface-class/surface-class.module.code.ts"
-import { useSurface } from "../surface-provider/surface-provider.module.code.tsx"
 
 interface ListFilterContextValue {
   filterText: string

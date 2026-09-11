@@ -1,5 +1,11 @@
 "use client"
 
+import { AddSortButton } from "akasha/design/interfaces/patterns/add-sort-button/add-sort-button.module.code.tsx"
+import { SortableSortList } from "akasha/design/interfaces/patterns/sort-group/sort-group.module.code.tsx"
+import type {
+  SortEntry,
+  SortOption,
+} from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
@@ -17,10 +23,6 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { ArrowUpDown } from "lucide-react"
 import { useState } from "react"
-import { AddSortButton } from "../add-sort-button/add-sort-button.module.code.tsx"
-import { SortableSortList } from "../sort-group/sort-group.module.code.tsx"
-
-import type { SortEntry, SortOption } from "../sort-types/sort-types.module.code.ts"
 
 export interface SortButtonProps<T extends string = string> {
   options: readonly SortOption<T>[]

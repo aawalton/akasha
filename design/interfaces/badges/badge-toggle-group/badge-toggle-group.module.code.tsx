@@ -1,10 +1,12 @@
 "use client"
 
+import {
+  Badge,
+  type badgeVariants,
+} from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { HorizontalScrollFade } from "akasha/design/interfaces/primitives/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
 import type { VariantProps } from "class-variance-authority"
 import type * as React from "react"
-
-import { Badge, type badgeVariants } from "../badge/badge.module.code.tsx"
 
 type BadgeVariant = NonNullable<VariantProps<typeof badgeVariants>["variant"]>
 

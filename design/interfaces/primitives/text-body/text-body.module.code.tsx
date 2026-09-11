@@ -1,7 +1,6 @@
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { cva, type VariantProps } from "class-variance-authority"
 import type * as React from "react"
-
-import { cn } from "../cn/cn.module.code.ts"
 
 const textVariants = cva("cursor-default", {
   variants: {

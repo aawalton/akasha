@@ -1,8 +1,10 @@
 "use client"
 
+import {
+  Badge,
+  type BadgeVariant,
+} from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { formatRelativeTime } from "akasha/design/interfaces/primitives/format-relative-time/format-relative-time.module.code.ts"
-
-import { Badge, type BadgeVariant } from "../badge/badge.module.code.tsx"
 
 interface InstantBadgeProps {
   value: number | null | undefined

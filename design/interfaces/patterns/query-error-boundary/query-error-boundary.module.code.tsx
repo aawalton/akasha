@@ -1,9 +1,5 @@
 "use client"
 
-import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
-import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
-import { FolderOpen } from "lucide-react"
-import { Component, type ReactNode } from "react"
 import {
   Empty,
   EmptyContent,
@@ -11,7 +7,11 @@ import {
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "../empty/empty.module.code.tsx"
+} from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
+import { FolderOpen } from "lucide-react"
+import { Component, type ReactNode } from "react"
 
 type QueryErrorBoundaryProps = {
   children: ReactNode

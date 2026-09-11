@@ -1,4 +1,4 @@
-import type { Achievement } from "../achievement.page-type.types.ts"
+import type { Achievement } from "akasha/design/games/achievements/achievement.page-type.types.ts"
 
 export const problems801900 = {
   id: "01a06808-8818-700a-9d13-b68b3f38bf74",

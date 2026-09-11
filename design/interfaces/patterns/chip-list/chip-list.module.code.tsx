@@ -1,5 +1,6 @@
 "use client"
 
+import type { ChipProps } from "akasha/design/interfaces/patterns/chip/chip.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Popover,
@@ -10,7 +11,6 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import type { ReactElement, ReactNode } from "react"
 import React from "react"
-import type { ChipProps } from "../chip/chip.module.code.tsx"
 
 export interface ChipListProps {
   maxChips?: number

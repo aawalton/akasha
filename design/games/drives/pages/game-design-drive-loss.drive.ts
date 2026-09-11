@@ -1,4 +1,4 @@
-import type { Drive } from "../drive.page-type.types.ts"
+import type { Drive } from "akasha/design/games/drives/drive.page-type.types.ts"
 
 export const gameDesignDriveLoss = {
   id: "01a06756-f756-773c-8f35-a24988307063",

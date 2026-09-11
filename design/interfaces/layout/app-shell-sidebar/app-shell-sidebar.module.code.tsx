@@ -1,5 +1,16 @@
 "use client"
 
+import { isNavItemActive } from "akasha/design/interfaces/layout/nav-active/nav-active.module.code.ts"
+import type {
+  AppNavConfig,
+  AppNavItem,
+} from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
+import {
+  LayoutLink,
+  useLayoutPathname,
+} from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
+import { SidebarNavGroup } from "akasha/design/interfaces/layout/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
+import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
@@ -9,11 +20,6 @@ import {
 } from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { PanelLeftClose, PanelLeftOpen } from "lucide-react"
-import { isNavItemActive } from "../nav-active/nav-active.module.code.ts"
-import type { AppNavConfig, AppNavItem } from "../nav-types/nav-types.module.code.ts"
-import { LayoutLink, useLayoutPathname } from "../router-context/router-context.module.code.tsx"
-import { SidebarNavGroup } from "../sidebar-nav-group/sidebar-nav-group.module.code.tsx"
-import { useSidebarState } from "../use-sidebar-state/use-sidebar-state.module.code.ts"
 
 interface AppShellSidebarProps {
   config: AppNavConfig

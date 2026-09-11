@@ -1,8 +1,7 @@
 "use client"
 
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
-
-import { cn } from "../cn/cn.module.code.ts"
 
 interface HorizontalScrollFadeProps {
   children: ReactNode

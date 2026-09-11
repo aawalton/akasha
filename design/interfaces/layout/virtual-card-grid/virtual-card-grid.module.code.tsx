@@ -1,9 +1,9 @@
 "use client"
 
 import { useWindowVirtualizer } from "@tanstack/react-virtual"
+import { COLUMN_GAP } from "akasha/design/interfaces/layout/layout-data/layout-data.module.code.ts"
+import { useColumnCount } from "akasha/design/interfaces/layout/use-column-count/use-column-count.module.code.tsx"
 import { type ReactNode, useMemo, useRef } from "react"
-import { COLUMN_GAP } from "../layout-data/layout-data.module.code.ts"
-import { useColumnCount } from "../use-column-count/use-column-count.module.code.tsx"
 
 const CARD_HEIGHT = 232
 

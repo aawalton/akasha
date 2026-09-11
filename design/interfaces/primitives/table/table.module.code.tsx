@@ -1,10 +1,14 @@
 "use client"
 
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import type * as React from "react"
-import { cn } from "../cn/cn.module.code.ts"
-import { Popover, PopoverContent, PopoverTrigger } from "../popover/popover.module.code.tsx"
-import { surfaceClass } from "../surface-class/surface-class.module.code.ts"
-import { useSurface } from "../surface-provider/surface-provider.module.code.tsx"
 
 function Table({ className, ...props }: React.ComponentProps<"table">) {
   return (

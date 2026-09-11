@@ -1,12 +1,12 @@
 "use client"
 
 import { useLayoutPathname } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
-import { useCallback, useDeferredValue, useEffect, useRef, useState } from "react"
-import { z } from "zod"
 import {
   buildValuesFromFields,
   type FilterField,
-} from "../build-values-from-fields/build-values-from-fields.module.code.ts"
+} from "akasha/design/interfaces/patterns/build-values-from-fields/build-values-from-fields.module.code.ts"
+import { useCallback, useDeferredValue, useEffect, useRef, useState } from "react"
+import { z } from "zod"
 
 const STORED_FILTERS_SCHEMA = z.record(z.string(), z.unknown())
 

@@ -1,23 +1,23 @@
 "use client"
 
-import type * as React from "react"
-import { useEffect, useRef, useState } from "react"
-import { cn } from "../cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Dialog,
   DialogContent,
   DialogDescription,
   DialogTitle,
-} from "../dialog/dialog.module.code.tsx"
-import { FilterTextField } from "../filterable-list/filterable-list.module.code.tsx"
-import { PALETTE_ONLY } from "../keyboard-registry/keyboard-registry.module.code.ts"
-import { filterDescriptorsByLabel } from "../shortcut-surfaces/shortcut-surfaces.module.code.ts"
+} from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
+import { FilterTextField } from "akasha/design/interfaces/primitives/filterable-list/filterable-list.module.code.tsx"
+import { PALETTE_ONLY } from "akasha/design/interfaces/primitives/keyboard-registry/keyboard-registry.module.code.ts"
+import { filterDescriptorsByLabel } from "akasha/design/interfaces/primitives/shortcut-surfaces/shortcut-surfaces.module.code.ts"
 import {
   triggerBinding,
   useKeyboardBinding,
   useKeyboardBindingDescriptors,
   useShortcutsEnabled,
-} from "../use-keyboard-registry/use-keyboard-registry.module.code.ts"
+} from "akasha/design/interfaces/primitives/use-keyboard-registry/use-keyboard-registry.module.code.ts"
+import type * as React from "react"
+import { useEffect, useRef, useState } from "react"
 
 export function CommandPalette() {
   const [open, setOpen] = useState(false)

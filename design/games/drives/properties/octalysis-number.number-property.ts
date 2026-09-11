@@ -1,4 +1,4 @@
-import type { NumberProperty } from "../../../../pages/number-properties/number-property.page-type.types.ts"
+import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
 export const octalysisNumber = {
   id: "01a06756-f622-7f90-8351-0d7ba794f2cf",

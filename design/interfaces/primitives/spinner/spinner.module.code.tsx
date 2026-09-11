@@ -1,6 +1,5 @@
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { Loader2Icon } from "lucide-react"
-
-import { cn } from "../cn/cn.module.code.ts"
 
 function Spinner({ className, ...props }: React.ComponentProps<"svg">) {
   return (

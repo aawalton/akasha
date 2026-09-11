@@ -1,18 +1,18 @@
 "use client"
 
-import { Command as CommandPrimitive } from "cmdk"
-import { SearchIcon } from "lucide-react"
-import type * as React from "react"
-import { cn } from "../cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Dialog,
   DialogContent,
   DialogDescription,
   DialogHeader,
   DialogTitle,
-} from "../dialog/dialog.module.code.tsx"
-import { surfaceClass } from "../surface-class/surface-class.module.code.ts"
-import { useSurface } from "../surface-provider/surface-provider.module.code.tsx"
+} from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { Command as CommandPrimitive } from "cmdk"
+import { SearchIcon } from "lucide-react"
+import type * as React from "react"
 
 function Command({ className, ...props }: React.ComponentProps<typeof CommandPrimitive>) {
   return (

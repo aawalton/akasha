@@ -1,9 +1,8 @@
 "use client"
 
 import * as LabelPrimitive from "@radix-ui/react-label"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import type * as React from "react"
-
-import { cn } from "../cn/cn.module.code.ts"
 
 function Label({ className, ...props }: React.ComponentProps<typeof LabelPrimitive.Root>) {
   return (

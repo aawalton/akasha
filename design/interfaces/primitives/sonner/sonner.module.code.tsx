@@ -1,7 +1,7 @@
 "use client"
 
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { Toaster as Sonner, type ToasterProps } from "sonner"
-import { surfaceClass } from "../surface-class/surface-class.module.code.ts"
 
 const Toaster = ({ ...props }: ToasterProps) => {
   return (

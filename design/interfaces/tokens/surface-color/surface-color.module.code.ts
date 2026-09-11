@@ -1,8 +1,8 @@
-import { ash } from "../../colors/pages/ash.color.ts"
-import { charcoal } from "../../colors/pages/charcoal.color.ts"
-import { graphite } from "../../colors/pages/graphite.color.ts"
-import { slate } from "../../colors/pages/slate.color.ts"
-import { soot } from "../../colors/pages/soot.color.ts"
+import { ash } from "akasha/design/interfaces/colors/pages/ash.color.ts"
+import { charcoal } from "akasha/design/interfaces/colors/pages/charcoal.color.ts"
+import { graphite } from "akasha/design/interfaces/colors/pages/graphite.color.ts"
+import { slate } from "akasha/design/interfaces/colors/pages/slate.color.ts"
+import { soot } from "akasha/design/interfaces/colors/pages/soot.color.ts"
 
 export type Rgb = readonly [number, number, number]
 

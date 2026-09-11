@@ -1,13 +1,12 @@
 "use client"
 
-import * as React from "react"
-
-import { cn } from "../cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   clampSurfaceLevel,
   type SurfaceLevel,
   surfaceClass,
-} from "../surface-class/surface-class.module.code.ts"
+} from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import * as React from "react"
 
 const SurfaceContext = React.createContext<SurfaceLevel>(0)
 

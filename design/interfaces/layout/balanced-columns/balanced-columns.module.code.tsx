@@ -1,19 +1,19 @@
 "use client"
 
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
-import type * as React from "react"
-import { isValidElement, useCallback, useLayoutEffect, useRef, useState } from "react"
 import {
   type BalancedLayout,
   decideBalancedLayout,
   GAP_PX,
   layoutEqual,
   type Measurement,
-} from "../balanced-columns-layout/balanced-columns-layout.module.code.ts"
+} from "akasha/design/interfaces/layout/balanced-columns-layout/balanced-columns-layout.module.code.ts"
 import {
   PanelDefaultOpenProvider,
   PanelSummaryProvider,
-} from "../panel-default-open-context/panel-default-open-context.module.code.tsx"
+} from "akasha/design/interfaces/layout/panel-default-open-context/panel-default-open-context.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import type * as React from "react"
+import { isValidElement, useCallback, useLayoutEffect, useRef, useState } from "react"
 
 export function BalancedColumns({
   childArray,

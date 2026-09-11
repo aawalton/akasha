@@ -1,8 +1,10 @@
 "use client"
 
+import {
+  Badge,
+  type BadgeVariant,
+} from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { ExternalLink } from "lucide-react"
-
-import { Badge, type BadgeVariant } from "../badge/badge.module.code.tsx"
 
 interface UrlBadgeProps {
   value: string

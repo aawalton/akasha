@@ -1,12 +1,11 @@
 "use client"
 
 import * as CheckboxPrimitive from "@radix-ui/react-checkbox"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { CheckIcon } from "lucide-react"
 import type * as React from "react"
-
-import { cn } from "../cn/cn.module.code.ts"
-import { surfaceClass } from "../surface-class/surface-class.module.code.ts"
-import { useSurface } from "../surface-provider/surface-provider.module.code.tsx"
 
 function Checkbox({ className, ...props }: React.ComponentProps<typeof CheckboxPrimitive.Root>) {
   const surface = useSurface()

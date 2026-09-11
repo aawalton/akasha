@@ -10,12 +10,12 @@ import {
   Tabs,
   TabsList,
 } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
+import { BrandTabContent } from "akasha/design/interfaces/system/brand-tab/brand-tab.module.code.tsx"
+import { ComponentsTabContent } from "akasha/design/interfaces/system/components-tab/components-tab.module.code.tsx"
+import { LayoutTabContent } from "akasha/design/interfaces/system/layout-tab/layout-tab.module.code.tsx"
+import { PatternsTabContent } from "akasha/design/interfaces/system/patterns-tab/patterns-tab.module.code.tsx"
+import { TokensTabContent } from "akasha/design/interfaces/system/tokens-tab/tokens-tab.module.code.tsx"
 import { BookOpen, Component, LayoutGrid, Palette, Puzzle } from "lucide-react"
-import { BrandTabContent } from "../brand-tab/brand-tab.module.code.tsx"
-import { ComponentsTabContent } from "../components-tab/components-tab.module.code.tsx"
-import { LayoutTabContent } from "../layout-tab/layout-tab.module.code.tsx"
-import { PatternsTabContent } from "../patterns-tab/patterns-tab.module.code.tsx"
-import { TokensTabContent } from "../tokens-tab/tokens-tab.module.code.tsx"
 
 interface DesignSystemPageContentProps {
   initialTab?: string

@@ -1,4 +1,8 @@
-import { COLUMN_GAP, COLUMN_WIDTH, PAGE_PADDING } from "../layout-data/layout-data.module.code.ts"
+import {
+  COLUMN_GAP,
+  COLUMN_WIDTH,
+  PAGE_PADDING,
+} from "akasha/design/interfaces/layout/layout-data/layout-data.module.code.ts"
 
 export const PAGE_TITLE_CLASSES =
   "font-bold text-2xl text-primary max-w-[50cqw] truncate select-none"

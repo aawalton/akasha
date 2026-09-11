@@ -1,5 +1,6 @@
 "use client"
 
+import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"
 import {
@@ -12,7 +13,6 @@ import type { IconName } from "akasha/pages/core/generated/icon-search-index/ico
 import { resolveIconName, searchIcons } from "akasha/pages/core/icon/icon.module.code.ts"
 import { ChevronLeft, ChevronRight, Search } from "lucide-react"
 import { useCallback, useMemo, useState } from "react"
-import { Icon } from "../lucide-icon/lucide-icon.module.code.tsx"
 
 const ICONS_PER_PAGE = 36
 

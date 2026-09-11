@@ -1,5 +1,14 @@
 "use client"
 
+import { PANEL_CARD_WIDTH_CLASSES } from "akasha/design/interfaces/layout/panel-card-data/panel-card-data.module.code.ts"
+import {
+  usePanelDefaultOpen,
+  usePanelIsSummary,
+} from "akasha/design/interfaces/layout/panel-default-open-context/panel-default-open-context.module.code.tsx"
+import {
+  usePanelToggle,
+  usePanelToggleIsLocal,
+} from "akasha/design/interfaces/layout/panel-toggle-context/panel-toggle-context.module.code.tsx"
 import {
   Card,
   CardContent,
@@ -15,15 +24,6 @@ import {
 import { ChevronDown } from "lucide-react"
 import type * as React from "react"
 import { useEffect, useLayoutEffect, useRef, useState } from "react"
-import { PANEL_CARD_WIDTH_CLASSES } from "../panel-card-data/panel-card-data.module.code.ts"
-import {
-  usePanelDefaultOpen,
-  usePanelIsSummary,
-} from "../panel-default-open-context/panel-default-open-context.module.code.tsx"
-import {
-  usePanelToggle,
-  usePanelToggleIsLocal,
-} from "../panel-toggle-context/panel-toggle-context.module.code.tsx"
 
 export interface PanelCardProps extends Omit<React.ComponentProps<"div">, "title" | "id" | "ref"> {
   id: string

@@ -1,8 +1,8 @@
 "use client"
 
+import { computeColumnCount } from "akasha/design/interfaces/layout/layout-data/layout-data.module.code.ts"
 import * as React from "react"
 import { flushSync } from "react-dom"
-import { computeColumnCount } from "../layout-data/layout-data.module.code.ts"
 
 interface LayoutContextValue {
   columnCount: number | null

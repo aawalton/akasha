@@ -1,6 +1,6 @@
 "use client"
 
-import { useLayoutContext } from "../layout-context/layout-context.module.code.tsx"
+import { useLayoutContext } from "akasha/design/interfaces/layout/layout-context/layout-context.module.code.tsx"
 
 export function useColumnCount(): number | null {
   const layoutContext = useLayoutContext()

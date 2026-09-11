@@ -1,14 +1,17 @@
 "use client"
 
-import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
-import type * as React from "react"
-import { Children } from "react"
-import { BalancedColumns, getChildId } from "../balanced-columns/balanced-columns.module.code.tsx"
+import {
+  BalancedColumns,
+  getChildId,
+} from "akasha/design/interfaces/layout/balanced-columns/balanced-columns.module.code.tsx"
 import {
   PanelDefaultOpenProvider,
   PanelSummaryProvider,
-} from "../panel-default-open-context/panel-default-open-context.module.code.tsx"
-import { useColumnCount } from "../use-column-count/use-column-count.module.code.tsx"
+} from "akasha/design/interfaces/layout/panel-default-open-context/panel-default-open-context.module.code.tsx"
+import { useColumnCount } from "akasha/design/interfaces/layout/use-column-count/use-column-count.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import type * as React from "react"
+import { Children } from "react"
 
 interface ResponsiveColumnsProps {
   children: React.ReactNode

@@ -1,4 +1,4 @@
-import type { Drive } from "../drive.page-type.types.ts"
+import type { Drive } from "akasha/design/games/drives/drive.page-type.types.ts"
 
 export const gameDesignDriveMeaning = {
   id: "01a06756-f676-7b89-a565-678d2e6631a7",
