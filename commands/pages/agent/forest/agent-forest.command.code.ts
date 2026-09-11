@@ -1,12 +1,12 @@
 import { resolve } from "node:path"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { readIn } from "akasha/commands/pages/agent/forest/no-word-reading/no-word-reading.module.code.ts"
 import {
   type SubagentPage,
   seatPageAt,
   subagentPagesStanding,
-} from "akasha/seat-system/agent-page-reading/agent-page-reading.module.code.ts"
+} from "akasha/agents/page-reading/agent-page-reading.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { readIn } from "akasha/commands/pages/agent/forest/no-word-reading/no-word-reading.module.code.ts"
 import {
   type ForestRow,
   readSeatForest,

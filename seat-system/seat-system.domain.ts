@@ -128,7 +128,6 @@ export const seatSystem = {
     "module/seat-reading",
     "module/seat-stating",
     "module/seat-stopping",
-    "module/agent-page-reading",
     "module/supervisor-decide",
     "module/supervisor-idle-decide",
     "module/supervisor-iteration-outcome-db",
