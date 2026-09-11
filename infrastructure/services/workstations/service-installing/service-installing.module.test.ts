@@ -31,11 +31,7 @@ const BASE = {
 } as const satisfies ServiceWorkstation
 
 function pageOf(more: Partial<ServiceWorkstation>) {
-  return {
-    service: { ...BASE, ...more },
-    pagePath: "akasha/a.service-workstation.ts",
-    wrapperRuns: "bun akasha/held-wrapper.ts",
-  }
+  return { service: { ...BASE, ...more }, pagePath: "akasha/a.service-workstation.ts" }
 }
 
 test("an unscheduled service is written one unit and a scheduled one is written two", () => {

@@ -8,11 +8,9 @@ const SIGTERM_EXIT = 143
 const DEFAULT_RESTART = "always"
 const DEFAULT_TARGET = "default.target"
 const TIMER_TARGET = "timers.target"
-const TYPESCRIPT_RUN = /(^|\s)\S+\.ts(\s|$)/
 const LENIENT = "-"
 const SECRETS_FILE = "%h/.secrets.env"
 
-export const RESTART_EXIT = 79
 export const WRITTEN_PREFIX = "# Written from "
 
 export type Started = ServiceWorkstation & { readonly runs: Runs }
@@ -20,7 +18,6 @@ export type Started = ServiceWorkstation & { readonly runs: Runs }
 export type Service = {
   readonly service: Started
   readonly pagePath: string
-  readonly wrapperRuns: string
 }
 
 export function scheduleOf(given: Service): string | null {
@@ -43,21 +40,9 @@ function header(given: Service): string {
   return `${WRITTEN_PREFIX}${given.pagePath} by akasha deploy. Edits here are lost.`
 }
 
-export function isWrapped(given: Service): boolean {
-  if (isScheduled(given)) return false
-  return given.service.runs.some((one) => TYPESCRIPT_RUN.test(one))
-}
-
-export function underWrapper(given: Service, command: string): string {
-  if (isScheduled(given)) return command
-  if (!TYPESCRIPT_RUN.test(command)) return command
-  return `${given.wrapperRuns} -- ${command}`
-}
-
-function wrapped(given: Service, one: string): string {
+function shelled(given: Service, one: string): string {
   const lenient = one.startsWith(LENIENT)
-  const command = lenient ? one.slice(1) : one
-  const run = underWrapper(given, command)
+  const run = lenient ? one.slice(1) : one
   const inner =
     given.service.needsSecrets === true
       ? `set -a; [ -f "${SECRETS_FILE}" ] && . "${SECRETS_FILE}"; exec ${run}`
@@ -66,7 +51,7 @@ function wrapped(given: Service, one: string): string {
 }
 
 export function execLines(given: Service): readonly string[] {
-  return given.service.runs.map((one) => `ExecStart=${wrapped(given, one)}`)
+  return given.service.runs.map((one) => `ExecStart=${shelled(given, one)}`)
 }
 
 function opening(given: Service): readonly string[] {
@@ -97,11 +82,9 @@ function joined(codes: readonly number[]): string {
 
 export function exitLines(given: Service): readonly string[] {
   const stated = given.service.systemd
-  const recycles = isWrapped(given) ? [RESTART_EXIT] : []
   const stops = stated?.successExitStatus === undefined ? [] : [stated.successExitStatus]
-  const forces = stated?.restartForceExitStatus === undefined ? [] : [stated.restartForceExitStatus]
-  const forced = [...recycles, ...forces]
-  const lines = [`SuccessExitStatus=${joined([SIGTERM_EXIT, ...recycles, ...stops])}`]
+  const forced = stated?.restartForceExitStatus === undefined ? [] : [stated.restartForceExitStatus]
+  const lines = [`SuccessExitStatus=${joined([SIGTERM_EXIT, ...stops])}`]
   if (forced.length > 0) lines.push(`RestartForceExitStatus=${joined(forced)}`)
   return lines
 }

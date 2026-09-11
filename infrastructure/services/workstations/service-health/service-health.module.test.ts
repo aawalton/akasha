@@ -22,14 +22,12 @@ const BASE = {
 
 const PAGE = "akasha/a.service-workstation.ts"
 
-const WRAPPER_RUNS = "bun akasha/held-wrapper.ts"
-
 const ROOT = process.cwd()
 
 const OFF = "workstation.alanwalton.ts.net"
 
 function pageOf(more: Partial<ServiceWorkstation>) {
-  return { service: { ...BASE, ...more }, pagePath: PAGE, wrapperRuns: WRAPPER_RUNS }
+  return { service: { ...BASE, ...more }, pagePath: PAGE }
 }
 
 const RUNNING: Watched = {

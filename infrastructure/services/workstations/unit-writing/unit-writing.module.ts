@@ -10,12 +10,7 @@ export const unitWriting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A unit is written from a page's value, the path that page is at, and the wrapper's run.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The run a wrapped service is started by is handed here rather than spelled here.",
+      statement: "A unit is written from a page's value and the path that page is at.",
     },
     {
       invariantKind: "departure",
@@ -36,24 +31,12 @@ export const unitWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A command naming a TypeScript file is run under the wrapper.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A scheduled service runs under no wrapper.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A command opening with a dash may fail without the unit failing.",
     },
     {
       invariantKind: "departure",
       statement:
         "A service stating that service needs secrets is handed those secrets by the shell its unit starts.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The exit the wrapper leaves on is the one systemd starts the service again for.",
     },
     {
       invariantKind: "departure",
@@ -78,7 +61,7 @@ export const unitWriting = {
     {
       invariantKind: "departure",
       statement:
-        "An exit code a service states joins the exit the wrapper leaves on rather than replacing that exit.",
+        "The exit codes a unit recycles on are the ones that service's page states and no others.",
     },
   ],
 } as const satisfies Module

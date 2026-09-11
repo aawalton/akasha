@@ -18,7 +18,6 @@ export const serviceWorkstation = {
     "module/service-reading",
     "module/service-watching",
     "module/service-wellness",
-    "module/service-wrapping",
     "module/tick-sleeping",
     "module/unit-writing",
     "boolean-property/catch-up",
@@ -104,19 +103,12 @@ export const serviceWorkstation = {
     },
     {
       invariantKind: "departure",
-      statement: "A workstation service runs under one wrapper.",
+      statement:
+        "A running workstation service is started again by the deploy that moved its kind's tree.",
     },
     {
       invariantKind: "departure",
-      statement: "The wrapper starts the service again when a file the service reaches changes.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A service's own imports settle which files start the service again.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An import reaching outside this repository starts nothing again.",
+      statement: "A service's own closure settles whether that deploy starts the service again.",
     },
     {
       invariantKind: "departure",

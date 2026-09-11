@@ -3,8 +3,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 import {
   installedUnitName,
   isScheduled,
-  isWrapped,
-  RESTART_EXIT,
   serviceUnitText,
   timerUnitText,
   unitFileNames,
@@ -16,9 +14,6 @@ const PAGE_PATH =
 const RUNS_TYPESCRIPT =
   "bun akasha/service-system/service-workstation/held-listening/held-listening.module.code.ts"
 
-const WRAPPER_RUNS =
-  "bun akasha/service-system/service-workstation/held-wrapping/held-wrapping.module.code.ts"
-
 const BASE = {
   id: "01a05a51-0000-7000-8000-00000000000a",
   pageTypeSlug: "service-workstation",
@@ -29,7 +24,7 @@ const BASE = {
 } as const satisfies ServiceWorkstation
 
 function pageOf(more: Partial<ServiceWorkstation>) {
-  return { service: { ...BASE, ...more }, pagePath: PAGE_PATH, wrapperRuns: WRAPPER_RUNS }
+  return { service: { ...BASE, ...more }, pagePath: PAGE_PATH }
 }
 
 test("a service stating no schedule is simple, wanted by the default target, and started again", () => {
@@ -37,14 +32,7 @@ test("a service stating no schedule is simple, wanted by the default target, and
   expect(text).toContain("Type=simple")
   expect(text).toContain("Restart=always")
   expect(text).toContain("WantedBy=default.target")
-  expect(text).toContain(`SuccessExitStatus=143 ${RESTART_EXIT}`)
-})
-
-test("a wrapper restart for a changed file counts as a success rather than a failure", () => {
-  expect(serviceUnitText(pageOf({}))).toContain(`SuccessExitStatus=143 ${RESTART_EXIT}`)
-  const bare = serviceUnitText(pageOf({ runs: ["/usr/bin/node-exporter"] }))
-  expect(bare).toContain("SuccessExitStatus=143\n")
-  expect(bare).not.toContain(`SuccessExitStatus=143 ${RESTART_EXIT}`)
+  expect(text).toContain("SuccessExitStatus=143\n")
 })
 
 test("the unit names the page it was written from", () => {
@@ -57,31 +45,20 @@ test("the description opens in upper case", () => {
   expect(serviceUnitText(pageOf({}))).toContain("Description=The service a test writes a unit for")
 })
 
-test("a command naming a TypeScript file runs under the wrapper and forces a restart on its exit", () => {
-  const service = pageOf({})
-  expect(isWrapped(service)).toBe(true)
-  const text = serviceUnitText(service)
-  expect(text).toContain(`${WRAPPER_RUNS} -- bun`)
-  expect(text).toContain(`RestartForceExitStatus=${RESTART_EXIT}`)
-})
-
-test("a command naming no TypeScript file runs under no wrapper", () => {
-  const service = pageOf({ runs: ["/usr/bin/node-exporter"] })
-  expect(isWrapped(service)).toBe(false)
-  const text = serviceUnitText(service)
-  expect(text).not.toContain(WRAPPER_RUNS)
+test("the command a page states is the one the unit starts", () => {
+  const text = serviceUnitText(pageOf({}))
+  expect(text).toContain(`ExecStart=/usr/bin/env bash -c 'exec ${RUNS_TYPESCRIPT}'`)
+  expect(text).not.toContain(" -- ")
   expect(text).not.toContain("RestartForceExitStatus")
 })
 
-test("a scheduled service is oneshot, runs under no wrapper, and states no install", () => {
+test("a scheduled service is oneshot and states no install", () => {
   const service = pageOf({ systemd: { schedule: "hourly" } })
   expect(isScheduled(service)).toBe(true)
-  expect(isWrapped(service)).toBe(false)
   const text = serviceUnitText(service)
   expect(text).toContain("Type=oneshot")
   expect(text).not.toContain("[Install]")
   expect(text).not.toContain("Restart=")
-  expect(text).not.toContain(WRAPPER_RUNS)
 })
 
 test("a scheduled service is written a timer stating its calendar", () => {
@@ -172,20 +149,15 @@ test("a start limit window a service states is written before the service sectio
   expect(text.indexOf("StartLimitIntervalSec=")).toBeLessThan(text.indexOf("[Service]"))
 })
 
-test("an exit code a service recycles on joins the wrapper's rather than replacing it", () => {
+test("an exit code a service recycles on joins the one a term leaves", () => {
   const text = serviceUnitText(
     pageOf({ systemd: { successExitStatus: 75, restartForceExitStatus: 75 } })
   )
-  expect(text).toContain(`SuccessExitStatus=143 ${RESTART_EXIT} 75`)
-  expect(text).toContain(`RestartForceExitStatus=${RESTART_EXIT} 75`)
+  expect(text).toContain("SuccessExitStatus=143 75")
+  expect(text).toContain("RestartForceExitStatus=75")
 })
 
-test("an exit code stated as the one the wrapper leaves on is written once", () => {
-  const text = serviceUnitText(pageOf({ systemd: { restartForceExitStatus: RESTART_EXIT } }))
-  expect(text).toContain(`RestartForceExitStatus=${RESTART_EXIT}\n`)
-})
-
-test("a service under no wrapper forces a restart on the code its page states", () => {
+test("a service forces a restart on the code its page states and on no other", () => {
   const text = serviceUnitText(
     pageOf({ runs: ["/usr/bin/held"], systemd: { restartForceExitStatus: 75 } })
   )
