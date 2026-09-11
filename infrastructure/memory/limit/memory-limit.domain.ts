@@ -50,11 +50,6 @@ export const memoryLimit = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A ceiling on one worker bounds nothing without a ceiling on how many workers run.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A limit states a ceiling for swap as well as for memory.",
     },
     {
@@ -65,6 +60,18 @@ export const memoryLimit = {
     {
       invariantKind: "gap",
       statement: "Every limit is set from a measured peak rather than chosen.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A limit states a share the thing limited always has as well as a ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The shares one host states add to no more than that host has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The ceilings one host states add to more than that host has.",
     },
   ],
 } as const satisfies Domain
