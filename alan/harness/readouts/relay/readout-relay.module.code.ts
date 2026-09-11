@@ -112,6 +112,27 @@ export function readoutPageAt(root: string, page: string): string | null {
   return existsSync(full) ? full : null
 }
 
+export function noReadingBeside(page: string): string {
+  return `${page} has no reading beside it, so there is none to carry`
+}
+
+export function readingCarried(at: string, to: string): string {
+  return `a reading taken ${at} carried to ${to}`
+}
+
+export async function carryReadingBeside(
+  root: string,
+  page: string,
+  to: string,
+  secret: string
+): Promise<string> {
+  if (readoutPageAt(root, page) === null) throw new Error(noReadoutPageAt(page))
+  const kept = readingKept(root, page)
+  if (kept === null) throw new Error(noReadingBeside(page))
+  await relayReading(to, secret, { ...kept, readout: readoutNamedBy(page) })
+  return readingCarried(kept.at, to)
+}
+
 if (import.meta.main) {
   const page = (process.argv[2] ?? "").trim()
   const to = (process.argv[3] ?? "").trim()
@@ -129,18 +150,8 @@ if (import.meta.main) {
     process.exit(2)
   }
   const root = optionalEnv("AKASHA_ROOT") ?? process.cwd()
-  if (readoutPageAt(root, page) === null) {
-    process.stderr.write(`${noReadoutPageAt(page)}\n`)
-    process.exit(3)
-  }
-  const kept = readingKept(root, page)
-  if (kept === null) {
-    process.stderr.write(`${page} has no reading beside it, so there is none to carry\n`)
-    process.exit(2)
-  }
   try {
-    await relayReading(to, secret, { ...kept, readout: readoutNamedBy(page) })
-    process.stdout.write(`a reading taken ${kept.at} carried to ${to}\n`)
+    process.stdout.write(`${await carryReadingBeside(root, page, to, secret)}\n`)
   } catch (thrown) {
     process.stderr.write(`${saidBy(thrown)}\n`)
     process.exit(1)
