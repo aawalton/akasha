@@ -16,7 +16,7 @@ export const theaChecksSystem = {
     {
       statement: "Every runtime helper the Lua compiler has is a page.",
       workingMemory:
-        "lualib/src has 51 files against 115, lualibs 88 pages, 135 features, suite 50 of 50. lua50-code is proven on sparse-array-spread, the one page with both code files: the 5.0 bundle emits the Unpack body and the other eight table.unpack. Left are 12 plain moves, 25 whose own import is repointed, 8 non-leaves, 4 twins. Prove a move by hashing the removed source against the added code file in the commit, then nine-target byte-identity, then /var/tmp/imip/thea-behaviour.lua.",
+        "lualib/src is gone: 135 pages, 135 features, all 51 files moved in 13 commits on 09-10. Those broke the Lua 5.0 bundle, which 0dbb243e460 mends: a 5.0 build resolves an import of a twin page's code to that page's lua50-code, derived from the pages. Nine targets build where eight did, the eight byte-identical, 5.0 proved by `local function __TS__Unpack(list, i, j)` rather than by no error. No test anywhere calls buildLuaLib, so 13 commits landed green over a broken build.",
     },
     {
       statement: "Every property file has the page whose property that file is.",
