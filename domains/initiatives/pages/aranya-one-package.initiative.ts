@@ -10,11 +10,6 @@ export const aranyaOnePackage = {
   parent: "initiative/akasha-folder-shape",
   intents: [
     {
-      statement: "A native app deploys naming no package but the root.",
-      workingMemory:
-        "`akasha deploy <app> --simulator` builds on the mac and reports BUILD_SIM_OK, so the build is proved from here with no phone and no signing; alanwalton is green on it. The checkout path is already rooted, since `--device` makes a whole worktree. The simulator path is the blocker: it rsyncs the shell folder and the shared files alone into ~/.akasha-ios-build and runs `npm install` there, so the app manifest is the install root. Write the manifest at that tree's root instead, off `tool-reached`.",
-    },
-    {
       statement: "No folder but the root is a workspace package.",
       workingMemory:
         "Three manifests are left, all ios-apps, waiting on the mac build installing at the root. ops-extension and vscode-typings are both gone: the editor link points at the repository root and reads the root manifest as vscode.akasha, and the ambient editor api is reached by the extension's own tsconfig rather than by a package name, which typechecks clean over the whole extension. linked-at moved to domain, so the root page states where the editor reaches it.\n",
