@@ -1,14 +1,20 @@
-import * as vscode from "vscode"
 import {
   followState,
   readState,
   stateAt,
-} from "../../../../alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
-import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
-import { recordObservation } from "../observation-store/observation-store.module.code.ts"
-import { REFRESH_COMMAND, VIEW_ID } from "../page-tree-ids/page-tree-ids.module.code.ts"
-import { countPages, countRows } from "../page-tree-reading/page-tree-reading.module.code.ts"
-import { createPageTree } from "../page-tree-view/page-tree-view.module.code.ts"
+} from "akasha/alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
+import { akashaRoot } from "akasha/code-system/editor/extension/harness-call/harness-call.module.code.ts"
+import { recordObservation } from "akasha/code-system/editor/extension/observation-store/observation-store.module.code.ts"
+import {
+  REFRESH_COMMAND,
+  VIEW_ID,
+} from "akasha/code-system/editor/extension/page-tree-ids/page-tree-ids.module.code.ts"
+import {
+  countPages,
+  countRows,
+} from "akasha/code-system/editor/extension/page-tree-reading/page-tree-reading.module.code.ts"
+import { createPageTree } from "akasha/code-system/editor/extension/page-tree-view/page-tree-view.module.code.ts"
+import * as vscode from "vscode"
 
 const FEATURE = "page-tree"
 const SLUG = "page-tree"
