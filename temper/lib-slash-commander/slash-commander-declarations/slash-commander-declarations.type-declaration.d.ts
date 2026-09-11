@@ -23,7 +23,7 @@ declare const GetTopMatchesByLevenshteinSubStringScore: (
   maxResults: number | undefined,
   returnList: boolean
 ) =>
-  | import("../slash-commander-types/slash-commander-types.module.code.ts").AutoCompleteProvider["results"][]
+  | import("akasha/temper/lib-slash-commander/slash-commander-types/slash-commander-types.module.code.ts").AutoCompleteProvider["results"][]
   | undefined
 
 declare const SI_SLASH_SCRIPT: number

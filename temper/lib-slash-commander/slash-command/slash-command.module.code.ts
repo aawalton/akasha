@@ -3,13 +3,13 @@ import {
   asCallableCommand,
   asCommandMeta,
   asOptionalString,
-} from "../slash-commander-casts/slash-commander-casts.module.code.ts"
-import { SLASH_COMMANDER } from "../slash-commander-surface/slash-commander-surface.module.code.ts"
+} from "akasha/temper/lib-slash-commander/slash-commander-casts/slash-commander-casts.module.code.ts"
+import { SLASH_COMMANDER } from "akasha/temper/lib-slash-commander/slash-commander-surface/slash-commander-surface.module.code.ts"
 import type {
   AutoCompleteProvider,
   Command,
   CommandClass,
-} from "../slash-commander-types/slash-commander-types.module.code.ts"
+} from "akasha/temper/lib-slash-commander/slash-commander-types/slash-commander-types.module.code.ts"
 
 function parseLuaCapture(this: void, captured: string | undefined): string | undefined {
   return captured

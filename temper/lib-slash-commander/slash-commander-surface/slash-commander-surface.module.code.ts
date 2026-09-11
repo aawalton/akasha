@@ -5,7 +5,7 @@ import {
   asStringArray,
   asValidator,
   asVarargFn,
-} from "../slash-commander-casts/slash-commander-casts.module.code.ts"
+} from "akasha/temper/lib-slash-commander/slash-commander-casts/slash-commander-casts.module.code.ts"
 import {
   ERROR_ALREADY_HAS_PARENT,
   ERROR_AUTOCOMPLETE_NOT_ACTIVE,
@@ -15,8 +15,11 @@ import {
   ERROR_HAS_NO_PARENT,
   ERROR_INVALID_TYPE,
   WARNING_ALREADY_HAS_ALIAS,
-} from "../slash-commander-messages/slash-commander-messages.module.code.ts"
-import type { Command, Lib } from "../slash-commander-types/slash-commander-types.module.code.ts"
+} from "akasha/temper/lib-slash-commander/slash-commander-messages/slash-commander-messages.module.code.ts"
+import type {
+  Command,
+  Lib,
+} from "akasha/temper/lib-slash-commander/slash-commander-types/slash-commander-types.module.code.ts"
 
 export const SLASH_COMMANDER: Lib = {
   loadedFiles: {},

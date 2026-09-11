@@ -4,9 +4,9 @@ import {
   COMMAND_TYPE_CHAT_SWITCH,
   COMMAND_TYPE_EMOTE,
   TYPE_COLOR,
-} from "../slash-commander-messages/slash-commander-messages.module.code.ts"
-import { SLASH_COMMANDER } from "../slash-commander-surface/slash-commander-surface.module.code.ts"
-import type { DescriptionValue } from "../slash-commander-types/slash-commander-types.module.code.ts"
+} from "akasha/temper/lib-slash-commander/slash-commander-messages/slash-commander-messages.module.code.ts"
+import { SLASH_COMMANDER } from "akasha/temper/lib-slash-commander/slash-commander-surface/slash-commander-surface.module.code.ts"
+import type { DescriptionValue } from "akasha/temper/lib-slash-commander/slash-commander-types/slash-commander-types.module.code.ts"
 
 SLASH_COMMANDER.descriptions = {
   [GetString(SI_SLASH_SCRIPT)]: "Executes the specified text as Lua code",

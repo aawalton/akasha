@@ -3,10 +3,10 @@ import {
   asCommandAliasMap,
   asPreHookHandler,
   type VarargFn,
-} from "../slash-commander-casts/slash-commander-casts.module.code.ts"
-import { keepDisplayTexts } from "../slash-commander-display-text/slash-commander-display-text.module.code.ts"
-import { SLASH_COMMANDER } from "../slash-commander-surface/slash-commander-surface.module.code.ts"
-import type { Command } from "../slash-commander-types/slash-commander-types.module.code.ts"
+} from "akasha/temper/lib-slash-commander/slash-commander-casts/slash-commander-casts.module.code.ts"
+import { keepDisplayTexts } from "akasha/temper/lib-slash-commander/slash-commander-display-text/slash-commander-display-text.module.code.ts"
+import { SLASH_COMMANDER } from "akasha/temper/lib-slash-commander/slash-commander-surface/slash-commander-surface.module.code.ts"
+import type { Command } from "akasha/temper/lib-slash-commander/slash-commander-types/slash-commander-types.module.code.ts"
 
 const NO_RESULTS: string[] = []
 

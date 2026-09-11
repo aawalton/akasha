@@ -1,7 +1,7 @@
 import type {
   AutoCompleteProvider,
   Command,
-} from "../slash-commander-types/slash-commander-types.module.code.ts"
+} from "akasha/temper/lib-slash-commander/slash-commander-types/slash-commander-types.module.code.ts"
 
 export function asCommand(value: unknown): Command {
   return value as Command
