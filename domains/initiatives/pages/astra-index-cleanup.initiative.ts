@@ -9,11 +9,6 @@ export const astraIndexCleanup = {
   persona: "astra",
   intents: [
     {
-      statement: "`.git/indexes` holds every akasha index and nothing else.",
-      workingMemory:
-        "`.git/index` is git's own staging area, 124194 entries at 28 MB, rewritten by every commit, so the indexes take the plural name rather than the singular Alan first said. No `.git/indexes` is there yet.",
-    },
-    {
       statement: "`.git/cache` holds every cache and nothing else.",
       workingMemory: "`.git/cache` holds `cache/parse` alone today.",
     },
