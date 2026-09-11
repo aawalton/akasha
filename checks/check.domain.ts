@@ -27,6 +27,7 @@ export const check = {
     "module/check-staging",
     "module/mortal-sparing",
     "module/audit-verdict",
+    "module/audit-serving",
   ],
   invariants: [
     {
