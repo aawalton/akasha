@@ -156,7 +156,7 @@ export const pageMatchesItsType = {
       statement: "No other sort a value has is judged here.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
         "A row leaving out a field its shape requires is refused, as a page leaving one out is.",
     },

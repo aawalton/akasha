@@ -1,4 +1,5 @@
 import {
+  COMPUTED,
   fieldsOf,
   fieldsReading,
   formatOf,
@@ -15,8 +16,6 @@ import type { Formatting } from "akasha/pages/name-formats/modules/format-reachi
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { numberAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-
-const COMPUTED = "computed-property"
 
 const NOTHING: ReadonlySet<string> = new Set()
 

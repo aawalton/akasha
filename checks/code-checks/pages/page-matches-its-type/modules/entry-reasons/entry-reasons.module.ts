@@ -69,6 +69,14 @@ export const entryReasons = {
     },
     {
       invariantKind: "departure",
+      statement: "A field the shape requires and the row leaves out gives a reason.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A field the shape keeps elsewhere or fixes or works out is not asked for.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An entry's own id is not judged as a field of the shape declaring the entry.",
     },
     {

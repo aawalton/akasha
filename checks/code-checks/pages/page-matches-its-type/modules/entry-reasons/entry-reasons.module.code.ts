@@ -89,6 +89,8 @@ const ONE_OF = "one-of-property"
 
 const MEMBERS = "members"
 
+export const COMPUTED = "computed-property"
+
 export const NOTHING_OPENED: Opened = { fields: NO_FIELDS, plain: true }
 
 export function memberNamesIn(page: Value): readonly string[] {
@@ -160,6 +162,15 @@ export function fieldsOf(
 ): readonly string[] {
   const said: string[] = []
   const { fields, slug, pageFor, formatting, fieldsIn } = shaping
+  for (const [key, shaped] of fields) {
+    if (unjudged.has(key)) continue
+    if (!shaped.required || shaped.uncommitted || shaped.secret) continue
+    if (shaped.fixed !== undefined) continue
+    if (shaped.pageTypeSlug === COMPUTED) continue
+    if (key in entry) continue
+    const field = shaped.pagePropertySlug
+    said.push(`does not state \`${slug} ${field}\`, which \`${slug}\` requires`)
+  }
   for (const [inner, stated] of Object.entries(entry)) {
     if (unjudged.has(inner)) continue
     const shaped = fields.get(inner)

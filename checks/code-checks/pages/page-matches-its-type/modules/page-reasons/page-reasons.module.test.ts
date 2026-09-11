@@ -165,10 +165,14 @@ test("a value whose property declares fields and holds no record is refused", ()
 })
 
 test("a record nested in a record field is judged against what declares that record", () => {
-  const rows = [{ pagePropertySlug: "x" }, { nope: 1 }]
+  const rows = [{ pagePropertySlug: "x" }, { pagePropertySlug: "y", nope: 1 }]
   const held = { id: "a", slug: "one", directives: [{ name: "go", properties: rows }] }
   expect(over(held, "told")).toEqual([
     "states `properties nope`, which `properties` does not declare",
+  ])
+  const short = { id: "a", slug: "one", directives: [{ name: "go", properties: [{}] }] }
+  expect(over(short, "told")).toEqual([
+    "does not state `properties page-property-slug`, which `properties` requires",
   ])
   const off = { id: "a", slug: "one", directives: [{ name: "go", properties: ["x"] }] }
   expect(over(off, "told")).toEqual([

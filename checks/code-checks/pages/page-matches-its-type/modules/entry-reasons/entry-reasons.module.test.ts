@@ -14,22 +14,38 @@ import {
 
 const OWN = new Set(["id"])
 
+const ANSWERED = { id: "one", answer: "YES" }
+
 test("a record nested in an entry row is judged against what declares that record", () => {
-  expect(fieldsOf({ id: "one", step: { tag: "hi" } }, nestedShapingFor(), OWN)).toEqual([])
-  expect(fieldsOf({ id: "one", step: { tag: "hello" } }, nestedShapingFor(), OWN)).toEqual([
+  expect(fieldsOf({ ...ANSWERED, step: { tag: "hi" } }, nestedShapingFor(), OWN)).toEqual([])
+  expect(fieldsOf({ ...ANSWERED, step: { tag: "hello" } }, nestedShapingFor(), OWN)).toEqual([
     "`step tag` runs to 5 characters, over the length of 4",
   ])
-  expect(fieldsOf({ id: "one", step: { nope: 1 } }, nestedShapingFor(), OWN)).toEqual([
+  expect(fieldsOf({ ...ANSWERED, step: { nope: 1 } }, nestedShapingFor(), OWN)).toEqual([
     "states `step nope`, which `step` does not declare",
   ])
 })
 
 test("a field whose property declares fields and holds no record is refused", () => {
-  expect(fieldsOf({ id: "one", step: "block-all" }, nestedShapingFor(), OWN)).toEqual([
+  expect(fieldsOf({ ...ANSWERED, step: "block-all" }, nestedShapingFor(), OWN)).toEqual([
     '`cases step` is "block-all", and a value whose property declares fields is a record',
   ])
-  expect(fieldsOf({ id: "one", step: 1 }, nestedShapingFor(), OWN)).toEqual([
+  expect(fieldsOf({ ...ANSWERED, step: 1 }, nestedShapingFor(), OWN)).toEqual([
     "`cases step` is 1, and a value whose property declares fields is a record",
+  ])
+})
+
+test("a row leaving out a field its shape requires is refused", () => {
+  expect(fieldsOf(ANSWERED, shapingFor(), OWN)).toEqual([])
+  expect(fieldsOf({ id: "one" }, shapingFor(), OWN)).toEqual([
+    "does not state `cases case-answer`, which `cases` requires",
+  ])
+})
+
+test("a field its shape leaves optional is not demanded of a row", () => {
+  expect(fieldsOf({ ...ANSWERED, step: { tag: "hi" } }, nestedShapingFor(), OWN)).toEqual([])
+  expect(fieldsOf({ id: "one", step: { tag: "hi" } }, nestedShapingFor(), OWN)).toEqual([
+    "does not state `cases case-answer`, which `cases` requires",
   ])
 })
 
@@ -49,15 +65,15 @@ test("a one-of property opens the one member that declares fields", () => {
 })
 
 test("a value a one-of's member with no fields admits gives no reason", () => {
-  expect(fieldsOf({ id: "one", step: "block-all" }, oneOfShapingFor(), OWN)).toEqual([])
-  expect(fieldsOf({ id: "one", step: { tag: "hello" } }, oneOfShapingFor(), OWN)).toEqual([
+  expect(fieldsOf({ ...ANSWERED, step: "block-all" }, oneOfShapingFor(), OWN)).toEqual([])
+  expect(fieldsOf({ ...ANSWERED, step: { tag: "hello" } }, oneOfShapingFor(), OWN)).toEqual([
     "`step tag` runs to 5 characters, over the length of 4",
   ])
 })
 
 test("an entry beside the page is judged against the fields its shape declares", () => {
-  expect(fieldsOf({ id: "one", answer: "YES" }, shapingFor(), OWN)).toEqual([])
-  expect(fieldsOf({ id: "one", nope: 1 }, shapingFor(), OWN)).toEqual([
+  expect(fieldsOf(ANSWERED, shapingFor(), OWN)).toEqual([])
+  expect(fieldsOf({ ...ANSWERED, nope: 1 }, shapingFor(), OWN)).toEqual([
     "states `cases nope`, which `cases` does not declare",
   ])
 })
