@@ -82,7 +82,6 @@ export const alanWeb = {
     "module/idle-lineup-view-config",
     "module/idle-lock-verb",
     "module/idle-portrait",
-    "module/idle-protected-user",
     "module/idle-reason-copy",
     "module/idle-remove-verb",
     "module/idle-reorder-verb",

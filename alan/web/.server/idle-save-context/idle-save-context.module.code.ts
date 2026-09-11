@@ -1,11 +1,11 @@
 import { createClient, type SupabaseClient } from "@supabase/supabase-js"
+import { assertCredentialPathAllowed } from "akasha/alan/harness/supabase-auth/protected-user/protected-user.module.code.ts"
 import {
   type AnonymousRequestContext,
   type AuthenticatedRequestContext,
   resolveRequestContext,
 } from "akasha/alan/harness/supabase-rr/request-context/request-context.module.code.ts"
 import { z } from "zod"
-import { assertNotProtectedSaveUser } from "../../idle-protected-user/idle-protected-user.module.code.ts"
 
 const optionalEnv = z.string().min(1).optional()
 function readEnv(name: string): string | undefined {
@@ -51,7 +51,7 @@ async function getDevTestUserContext(creds: {
   if (error != null || data.user == null) {
     throw new Error(`idle dev test-user sign-in failed: ${error?.message ?? "no user returned"}`)
   }
-  assertNotProtectedSaveUser(data.user.id)
+  assertCredentialPathAllowed({ resolvedUserId: data.user.id })
   return { supabase, userId: data.user.id }
 }
 

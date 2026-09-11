@@ -36,10 +36,6 @@ export function assertCanonicalRotationAllowed(params: {
   )
 }
 
-export function assertSafeProvisionTarget(userId: string): undefined {
-  return assertCredentialPathAllowed({ resolvedUserId: userId })
-}
-
 interface EnsureThrowawayUserResult {
   readonly userId: string
   readonly email: string
@@ -69,7 +65,7 @@ export async function ensureThrowawayUser(
   const existing = list.data.users.find((u) => u.email === options.email)
 
   if (existing) {
-    assertSafeProvisionTarget(existing.id)
+    assertCredentialPathAllowed({ resolvedUserId: existing.id })
     if (!options.resetPassword) {
       return { userId: existing.id, email: options.email, created: false, passwordSet: false }
     }
@@ -99,6 +95,6 @@ export async function ensureThrowawayUser(
   if (created.error) throw new Error(`ensure-user: createUser failed: ${created.error.message}`)
   const user = created.data.user
   if (!user) throw new Error("ensure-user: createUser returned no user")
-  assertSafeProvisionTarget(user.id)
+  assertCredentialPathAllowed({ resolvedUserId: user.id })
   return { userId: user.id, email: options.email, created: true, passwordSet: true, password }
 }
