@@ -39,11 +39,11 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "Every index is written as a change lands rather than only by a rebuild.",
+      statement: "Every index is written as a change lands.",
     },
     {
-      invariantKind: "departure",
-      statement: "A rebuild repairs an index rather than being how that index is kept current.",
+      invariantKind: "gap",
+      statement: "No index is ever built anew; every write lays a delta over what is there.",
     },
   ],
   types: "ts",
