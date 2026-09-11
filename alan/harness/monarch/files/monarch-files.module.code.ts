@@ -9,7 +9,7 @@ import {
   slugsOfType,
   valuesOfType,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const roots = resolveRoots()

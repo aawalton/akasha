@@ -10,7 +10,7 @@ import type {
   Rule,
 } from "akasha/alan/harness/monarch/rules/monarch-rules.module.code.ts"
 import { valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const RULES = "alan/harness/monarch/category-rules"
 

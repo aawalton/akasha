@@ -1,4 +1,4 @@
-import { slugOf } from "akasha/pages/value/page-value.module.code.ts"
+import { slugOf } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export interface QueryRow {
   readonly at: string

@@ -6,13 +6,13 @@ import {
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { everyOfType, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   slugAt,
   textAt,
   textsAt,
   type Value,
-  valueAt,
-} from "akasha/pages/value/page-value.module.code.ts"
+} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export interface MobileApp {
   readonly slug: string

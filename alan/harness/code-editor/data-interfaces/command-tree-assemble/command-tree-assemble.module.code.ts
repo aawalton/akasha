@@ -6,7 +6,7 @@ import {
   typeSlugById,
   valuesOfType,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { textAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const COMMAND_TYPE = "01a04bdd-596d-7b81-9204-1a882f474a5f"
 const NAMESPACE_TYPE = "01a06c7c-54b5-712b-b4a2-9ada10279dff"

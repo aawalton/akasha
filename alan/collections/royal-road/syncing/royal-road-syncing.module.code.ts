@@ -13,7 +13,7 @@ import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.co
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { asking, type Row } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { shortenedToWords } from "akasha/utils/narrow/shortened-to-words/shortened-to-words.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 
