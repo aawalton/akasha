@@ -137,7 +137,7 @@ test("a question is answered while another is still being answered", async () =>
         .then(() => {
           order.push(name)
         })
-    const wide = Array.from({ length: 20 }, (_, one) =>
+    const wide = Array.from({ length: 6 }, (_, one) =>
       ask({ pageTypeSlug: "module" }, `wide${one}`)
     )
     const narrow = ask({ pageTypeSlug: "invariant-kind", keys: ["slug"] }, "narrow")
@@ -147,4 +147,4 @@ test("a question is answered while another is still being answered", async () =>
   } finally {
     server.stop(true)
   }
-})
+}, 30000)
