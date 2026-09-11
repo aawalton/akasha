@@ -20,6 +20,16 @@ export function pageOf(value: Held): string {
   return bodyOf(value).replace("export const it", `export const ${exportedAs(String(value.slug))}`)
 }
 
+export function carriedPage(slug: string, id: string): string {
+  return pageOf({
+    id,
+    pageTypeSlug: "module",
+    slug,
+    definition: "a page a carried folder holds",
+    code: "ts",
+  })
+}
+
 export const scratch = scratchWorld()
 
 export function put(tree: string, at: string, body: string): string {

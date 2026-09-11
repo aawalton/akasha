@@ -11,8 +11,8 @@ import {
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { treeUnentered } from "akasha/changes/modules/shadow-tree/change-shadow-tree.module.code.ts"
 import {
+  carriedPage,
   indexedRepo,
-  pageOf,
   put,
   scratch,
   textIn,
@@ -34,25 +34,16 @@ const OUTER_CODE = "akasha/five/outer.module.code.ts"
 
 const CLAIMS = "01a04a4a-0002-7000-8000-000000000001"
 
-const pageBody = (slug: string, id: string): string =>
-  pageOf({
-    id,
-    pageTypeSlug: "module",
-    slug,
-    definition: "a page a carried folder holds",
-    code: "ts",
-  })
-
 const HELD: Readonly<Record<string, string>> = {
-  [`${FROM}/alpha.module.ts`]: pageBody("alpha", "01a04a4a-0002-7000-8000-000000000001"),
+  [`${FROM}/alpha.module.ts`]: carriedPage("alpha", "01a04a4a-0002-7000-8000-000000000001"),
   [ALPHA_CODE]:
     'import { beta } from "./beta.module.code.ts"\n\nexport type Alpha = number\n\nexport const alpha = beta + 1\n',
-  [`${FROM}/beta.module.ts`]: pageBody("beta", "01a04a4a-0002-7000-8000-000000000002"),
+  [`${FROM}/beta.module.ts`]: carriedPage("beta", "01a04a4a-0002-7000-8000-000000000002"),
   [BETA_CODE]:
     'import type { Alpha } from "./alpha.module.code.ts"\n\nexport const beta: Alpha = 1\n',
-  [`${FROM}/deep/gamma.module.ts`]: pageBody("gamma", "01a04a4a-0002-7000-8000-000000000003"),
+  [`${FROM}/deep/gamma.module.ts`]: carriedPage("gamma", "01a04a4a-0002-7000-8000-000000000003"),
   [GAMMA_CODE]: "export const gamma = 3\n",
-  "akasha/five/outer.module.ts": pageBody("outer", "01a04a4a-0002-7000-8000-000000000004"),
+  "akasha/five/outer.module.ts": carriedPage("outer", "01a04a4a-0002-7000-8000-000000000004"),
   [OUTER_CODE]:
     'import { gamma } from "../four/deep/gamma.module.code.ts"\n\nexport const outer = gamma + 1\n',
 }

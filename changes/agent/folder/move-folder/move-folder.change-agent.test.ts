@@ -15,8 +15,8 @@ import { landingFrom } from "akasha/commands/modules/edits-landing/edits-landing
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { movedOnto } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import {
+  carriedPage,
   indexedRepo,
-  pageOf,
   scratch,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
@@ -42,25 +42,16 @@ const GAMMA_ID = "01a04a4a-0002-7000-8000-000000000003"
 
 const OUTER_ID = "01a04a4a-0002-7000-8000-000000000004"
 
-const pageBody = (slug: string, id: string): string =>
-  pageOf({
-    id,
-    pageTypeSlug: "module",
-    slug,
-    definition: "a page a carried folder holds",
-    code: "ts",
-  })
-
 const HELD: Readonly<Record<string, string>> = {
-  [`${FROM}/alpha.module.ts`]: pageBody("alpha", ALPHA_ID),
+  [`${FROM}/alpha.module.ts`]: carriedPage("alpha", ALPHA_ID),
   [ALPHA_CODE]:
     'import { beta } from "./beta.module.code.ts"\n\nexport type Alpha = number\n\nexport const alpha = beta + 1\n',
-  [`${FROM}/beta.module.ts`]: pageBody("beta", BETA_ID),
+  [`${FROM}/beta.module.ts`]: carriedPage("beta", BETA_ID),
   [BETA_CODE]:
     'import type { Alpha } from "./alpha.module.code.ts"\n\nexport const beta: Alpha = 1\n',
-  [`${FROM}/deep/gamma.module.ts`]: pageBody("gamma", GAMMA_ID),
+  [`${FROM}/deep/gamma.module.ts`]: carriedPage("gamma", GAMMA_ID),
   [GAMMA_CODE]: "export const gamma = 3\n",
-  "akasha/five/outer.module.ts": pageBody("outer", OUTER_ID),
+  "akasha/five/outer.module.ts": carriedPage("outer", OUTER_ID),
   [OUTER_CODE]:
     'import { gamma } from "../four/deep/gamma.module.code.ts"\n\nexport const outer = gamma + 1\n',
 }
