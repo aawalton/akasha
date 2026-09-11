@@ -1,8 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, rmSync, writeFileSync } from "node:fs"
+import { rmSync } from "node:fs"
 import { join } from "node:path"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { said as git } from "../../../../git/running/git-running.module.code.ts"
 import { idIsAUuidVersion7 } from "./id-is-a-uuid-version-7.code-check.audit.code.ts"
 
 const scratch = scratchWorld()
@@ -17,21 +18,10 @@ const NOTES = "akasha/one/notes.md"
 
 const GONE = "akasha/one/gone.ts"
 
-function ranIn(root: string, asked: readonly string[]): undefined {
-  const done = ran(["git", "-C", root, ...asked])
-  if (done.code !== 0) throw new Error(`the tree at ${root} refused git — ${done.err.trim()}`)
-  return undefined
-}
-
-function written(root: string, at: string, body: string): undefined {
-  mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
-  writeFileSync(join(root, at), body)
-}
-
 function rootWith(bodies: Readonly<Record<string, string>>): string {
   const root = scratch.rootFor("akasha-id-audit-")
-  for (const [at, body] of Object.entries(bodies)) written(root, at, body)
-  ranIn(root, ["init", "-q"])
+  for (const [at, body] of Object.entries(bodies)) writing(root, at, body)
+  git(root, ["init", "-q"])
   return root
 }
 
@@ -62,8 +52,8 @@ test("an audit passes over a file that is no TypeScript, as the check does", () 
 
 test("a path the tree names and the disk no longer holds reads as nothing", () => {
   const root = rootWith({ [HELD]: page("01a04b5e-39e5-7730-9318-c34e7807c200") })
-  written(root, GONE, page("held-1"))
-  ranIn(root, ["add", "-A"])
+  writing(root, GONE, page("held-1"))
+  git(root, ["add", "-A"])
   rmSync(join(root, GONE))
 
   expect(idIsAUuidVersion7(root)).toEqual([])
