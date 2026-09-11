@@ -1,4 +1,4 @@
-import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
 export const narrowValues = {
   id: "01a063ee-2a3b-74ff-8037-ee9c7cf9f335",

@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
+import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 
 export const narrows = {
   id: "01a063ee-2a3b-732c-983b-68ef37a472f5",
