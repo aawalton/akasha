@@ -24,6 +24,7 @@ import { landTaskValues } from "akasha/temper/watcher/watcher-task-landing/watch
 import type { TaskFacts } from "akasha/temper/watcher/watcher-task-progress/watcher-task-progress.module.code.ts"
 import { refreshTaskProgress } from "akasha/temper/watcher/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts"
 import { tasksThatRoll } from "akasha/temper/watcher/watcher-task-rolling/watcher-task-rolling.module.code.ts"
+import { textIn } from "akasha/utils/narrow/text-in/text-in.module.code.ts"
 
 export const TASK_PAGE_TYPE_SLUG = "temper-task"
 
@@ -83,7 +84,7 @@ export function taskCompletionShape(): CompletionShape {
 }
 
 export function asText(value: unknown): string | undefined {
-  return typeof value === "string" && value !== "" ? value : undefined
+  return textIn(value) ?? undefined
 }
 
 export function asInstant(value: unknown): string | number | undefined {
