@@ -117,6 +117,10 @@ export const check = {
         "No check judges the imports a repository outside akasha takes from inside akasha.",
     },
     {
+      invariantKind: "absence",
+      statement: "No check judges whether a change made an invariant on another page false.",
+    },
+    {
       invariantKind: "stopgap",
       statement:
         "No check but the compiler check exists only to test the claims the compiler tests.",
