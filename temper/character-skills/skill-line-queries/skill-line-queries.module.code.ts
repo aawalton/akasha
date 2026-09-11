@@ -1,27 +1,30 @@
-import { armorWeights } from "akasha/temper/characters-equipment/armor-weights/armor-weights.module.code.ts"
-import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
-import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
-import type { ArmorWeightId } from "akasha/temper/equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
-import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
-import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
-import { valuesOf } from "../../formula-framework/record-parts/record-parts.module.code.ts"
-import { type SkillBarId, skillBars } from "../../skill-kinds/skill-bars/skill-bars.module.code.ts"
-import {
-  type SkillSlotId,
-  skillSlots,
-} from "../../skill-kinds/skill-slots/skill-slots.module.code.ts"
-import {
-  getSkillLineIdsForClass,
-  type SkillLineId,
-  skillLines,
-} from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
-import type { Skill } from "../character-skills/character-skills.module.code.ts"
-import { findSkillById } from "../find-skill-by-id/find-skill-by-id.module.code.ts"
+import type { Skill } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
+import { findSkillById } from "akasha/temper/character-skills/find-skill-by-id/find-skill-by-id.module.code.ts"
 import type {
   ArmorShape,
   SkillBarsState,
   WeaponBarShape,
-} from "../query-shapes/query-shapes.module.code.ts"
+} from "akasha/temper/character-skills/query-shapes/query-shapes.module.code.ts"
+import { armorWeights } from "akasha/temper/characters-equipment/armor-weights/armor-weights.module.code.ts"
+import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
+import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+import type { ArmorWeightId } from "akasha/temper/equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
+import type { ClassId } from "akasha/temper/formula-framework/class-id/class-id.module.code.ts"
+import { valuesOf } from "akasha/temper/formula-framework/record-parts/record-parts.module.code.ts"
+import {
+  type SkillBarId,
+  skillBars,
+} from "akasha/temper/skill-kinds/skill-bars/skill-bars.module.code.ts"
+import {
+  type SkillSlotId,
+  skillSlots,
+} from "akasha/temper/skill-kinds/skill-slots/skill-slots.module.code.ts"
+import {
+  getSkillLineIdsForClass,
+  type SkillLineId,
+  skillLines,
+} from "akasha/temper/skill-lines/skill-lines/skill-lines.module.code.ts"
+import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 
 export function getAvailableSkillLinesGrouped(
   playerClass: ClassId,

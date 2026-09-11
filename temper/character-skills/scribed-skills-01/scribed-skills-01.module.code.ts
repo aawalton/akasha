@@ -1,4 +1,4 @@
-import type { ScribedSkillTemplate } from "../scribed-skill-template/scribed-skill-template.module.code.ts"
+import type { ScribedSkillTemplate } from "akasha/temper/character-skills/scribed-skill-template/scribed-skill-template.module.code.ts"
 
 export const SCRIBED_SKILLS_01 = {
   "scribed-menders-bond-mitigation": {

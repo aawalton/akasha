@@ -1,4 +1,4 @@
-import type { SkillTemplate } from "../character-skill-template/character-skill-template.module.code.ts"
+import type { SkillTemplate } from "akasha/temper/character-skills/character-skill-template/character-skill-template.module.code.ts"
 
 export const CHARACTER_SKILLS_49 = {
   "puncture": {

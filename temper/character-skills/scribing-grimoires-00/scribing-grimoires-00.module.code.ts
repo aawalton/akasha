@@ -1,4 +1,4 @@
-import type { GrimoireTemplate } from "../grimoire-template/grimoire-template.module.code.ts"
+import type { GrimoireTemplate } from "akasha/temper/character-skills/grimoire-template/grimoire-template.module.code.ts"
 
 export const SCRIBING_GRIMOIRES_00 = {
   "vault": {

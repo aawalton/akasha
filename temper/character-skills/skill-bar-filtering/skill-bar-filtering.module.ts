@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const skillBarFiltering = {
   id: "01a06187-b3a3-78c4-bc72-3cc3411efc24",

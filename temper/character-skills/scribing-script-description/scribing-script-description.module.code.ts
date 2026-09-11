@@ -1,13 +1,16 @@
-import { getFromPartialRecord } from "../../formula-framework/record-parts/record-parts.module.code.ts"
-import type { AffixScriptId } from "../../skill-kinds/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
-import type { FocusScriptId } from "../../skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
-import type { SignatureScriptId } from "../../skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 import type {
   AffixVariantTemplate,
   SignatureVariantTemplate,
-} from "../grimoire-template/grimoire-template.module.code.ts"
-import { getScribedSkillByGrimoireAndFocus } from "../scribed-skills/scribed-skills.module.code.ts"
-import { type GrimoireId, grimoires } from "../scribing-grimoires/scribing-grimoires.module.code.ts"
+} from "akasha/temper/character-skills/grimoire-template/grimoire-template.module.code.ts"
+import { getScribedSkillByGrimoireAndFocus } from "akasha/temper/character-skills/scribed-skills/scribed-skills.module.code.ts"
+import {
+  type GrimoireId,
+  grimoires,
+} from "akasha/temper/character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
+import { getFromPartialRecord } from "akasha/temper/formula-framework/record-parts/record-parts.module.code.ts"
+import type { AffixScriptId } from "akasha/temper/skill-kinds/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
+import type { FocusScriptId } from "akasha/temper/skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
+import type { SignatureScriptId } from "akasha/temper/skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 
 export function getCombinedScriptDescription(
   grimoireId: GrimoireId,
