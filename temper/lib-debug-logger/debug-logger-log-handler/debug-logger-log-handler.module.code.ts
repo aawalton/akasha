@@ -14,12 +14,8 @@ import type {
 
 declare const debug: { traceback: (this: void, message?: string, level?: number) => string }
 
-function isString(value: unknown): value is string {
-  return type(value) === "string"
-}
-
 function isFormattingString(value: unknown): boolean {
-  if (isString(value)) {
+  if (typeof value === "string") {
     const [found] = string.find(value, "%%%S")
     if (found !== undefined) {
       return true
@@ -166,7 +162,7 @@ function doLog(
 
 function logFallbackMessage(message: unknown): undefined {
   let text: string
-  if (isString(message)) {
+  if (typeof message === "string") {
     text = string.sub(message, 1, INTERNAL.MAX_SAVE_DATA_LENGTH)
   } else {
     text = "Could not create log entry"

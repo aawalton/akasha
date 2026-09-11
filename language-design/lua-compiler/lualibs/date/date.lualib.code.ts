@@ -1,11 +1,14 @@
 declare function GetTimeStamp(this: void): number
 declare function GetGameTimeMilliseconds(this: void): number
 
-function parseLuaMatch(values: LuaMultiReturn<string[]>): LuaMultiReturn<string[]> {
+function parseLuaMatch(values: LuaMultiReturn<string[]>): LuaMultiReturn<(string | undefined)[]> {
   return values
 }
 
-function parseIsoMatchCaptures(iso: string, pattern: string): LuaMultiReturn<string[]> {
+function parseIsoMatchCaptures(
+  iso: string,
+  pattern: string
+): LuaMultiReturn<(string | undefined)[]> {
   return parseLuaMatch(string.match(iso, pattern))
 }
 
@@ -58,10 +61,6 @@ function floorDivMod(ms: number, divisor: number): DivMod {
   const quotient = Math.floor(ms / divisor)
   const remainder = ms - quotient * divisor
   return { quotient, remainder }
-}
-
-function isLuaString(value: unknown): value is string {
-  return type(value) === "string"
 }
 
 function pad2(n: number): string {
@@ -121,9 +120,9 @@ export class Date {
     const noMsPattern = "^(%d%d%d%d)%-(%d%d)%-(%d%d)T(%d%d):(%d%d):(%d%d)Z$"
 
     let [y, mo, d, h, mi, s, msStr] = parseIsoMatchCaptures(iso, withMsPattern)
-    if (!isLuaString(y)) {
+    if (y === undefined) {
       ;[y, mo, d, h, mi, s] = parseIsoMatchCaptures(iso, noMsPattern)
-      if (!isLuaString(y)) {
+      if (y === undefined) {
         return 0 / 0
       }
     }
@@ -133,7 +132,7 @@ export class Date {
     const hours = tonumber(h)
     const minutes = tonumber(mi)
     const seconds = tonumber(s)
-    const millis = !isLuaString(msStr) ? 0 : tonumber(msStr)
+    const millis = msStr === undefined ? 0 : tonumber(msStr)
     if (
       year === undefined ||
       month === undefined ||

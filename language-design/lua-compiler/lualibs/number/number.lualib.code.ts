@@ -1,15 +1,7 @@
-function isNumber(value: unknown): value is number {
-  return type(value) === "number"
-}
-
-function isString(value: unknown): value is string {
-  return type(value) === "string"
-}
-
 export function __TS__Number(this: void, value: unknown): number {
-  if (isNumber(value)) {
+  if (typeof value === "number") {
     return value
-  } else if (isString(value)) {
+  } else if (typeof value === "string") {
     const numberValue = tonumber(value)
     if (numberValue !== undefined) return numberValue
 
@@ -19,7 +11,7 @@ export function __TS__Number(this: void, value: unknown): number {
     if (stringWithoutSpaces === "") return 0
 
     return NaN
-  } else if (type(value) === "boolean") {
+  } else if (typeof value === "boolean") {
     return value ? 1 : 0
   } else {
     return NaN
