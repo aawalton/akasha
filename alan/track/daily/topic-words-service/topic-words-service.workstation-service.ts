@@ -8,6 +8,7 @@ export const topicWordsService = {
   definition:
     "the service counting Alan's wisdom and intelligence words onto the day he wrote them",
   runs: ["bun alan/track/daily/topic-words/topic-words.module.code.ts"],
+  starts: [{ code: "module/topic-words" }],
   enabled: true,
   systemd: {
     schedule: "*:0/15",
