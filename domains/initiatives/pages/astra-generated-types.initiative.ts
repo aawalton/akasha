@@ -29,7 +29,7 @@ export const astraGeneratedTypes = {
     {
       statement: "Every generated type is written by the generator the page it belongs to states.",
       workingMemory:
-        "Five generators ride `change-preparing`: the manifest lockfile, worked types, the change address map, spacing steps and source globs. The rest run from commands by hand. Four path heuristics disagree about what counts as generated, and the one machine-readable marker, `record-property/generated`, reaches type declarations alone.\n",
+        "A landing runs six writers through `change-preparing`. Four write no type: a lockfile, Swift spacing steps, source globs, a Containerfile. `type-generating` runs the generator a page type states, and `page-type` and `page-property` each state one. The sixth, `address-mapping`, writes the change runners' address maps, which are types, by hand. Porting it waits on the guard deciding whether a generator runs: `type-generating`'s reads path names and misses a change adding a change agent.",
     },
     {
       statement: "A calculation's return type is written from the kind its property states.",
