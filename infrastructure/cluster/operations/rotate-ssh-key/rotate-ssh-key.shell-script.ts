@@ -8,4 +8,5 @@ export const rotateSshKey = {
   definition: "a new node keypair minted, distributed to every node and the old one withdrawn",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
