@@ -4,6 +4,7 @@ import type { IdleSupabase } from "akasha/alan/web/.server/idle-save-context/idl
 import { unheld } from "akasha/alan/web/pages-unheld/pages-unheld.module.code.ts"
 import type { Query } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import { parseString } from "akasha/utils/narrow/parse-string/parse-string.module.code.ts"
 
 const PERSONA = "persona"
 
@@ -22,10 +23,6 @@ const EVERY_PERSONA: Query = {
   keys: ["id", "slug", "cover"],
 }
 
-function asString(v: unknown): string {
-  return typeof v === "string" ? v : ""
-}
-
 export async function loadPersonaInfoBySlug(
   _sb: IdleSupabase
 ): Promise<ReadonlyMap<string, { readonly id: string; readonly cover: string }>> {
@@ -33,10 +30,10 @@ export async function loadPersonaInfoBySlug(
   if ("refused" in asked) throw new Error(`\`${PERSONA}\` went unread: ${asked.refused}`)
   const bySlug = new Map<string, { readonly id: string; readonly cover: string }>()
   for (const row of asked.rows) {
-    const id = asString(row.id)
-    const slug = asString(row.slug)
+    const id = parseString(row.id)
+    const slug = parseString(row.slug)
     if (id.length === 0 || slug.length === 0) continue
-    bySlug.set(slug, { id, cover: asString(row.cover) })
+    bySlug.set(slug, { id, cover: parseString(row.cover) })
   }
   return bySlug
 }
