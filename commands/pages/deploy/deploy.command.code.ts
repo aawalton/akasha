@@ -41,6 +41,10 @@ import {
   WORKSTATION_SERVICE,
 } from "akasha/commands/pages/deploy/kind-reading/deploy-kind-reading.module.code.ts"
 import { installedOnSimulator } from "akasha/commands/pages/deploy/simulator-installing/deploy-simulator-installing.module.code.ts"
+import {
+  pinnedTree,
+  treeIn,
+} from "akasha/commands/pages/deploy/tree-pinning/deploy-tree-pinning.module.code.ts"
 import { putUpWebApp } from "akasha/commands/pages/deploy/web-putting-up/deploy-web-putting-up.module.code.ts"
 import {
   appliedWorkload,
@@ -119,7 +123,11 @@ export async function putUp(
   }
   if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, dryRun)
   if (read.kind === WORKSTATION_SERVICE) {
-    return putUpEvery(given.root, dryRun, restarting ?? new Set())
+    const every = restarting ?? new Set<string>()
+    if (dryRun) return putUpEvery(given.root, true, every, treeIn(given.root, read.kind) ?? "")
+    const pinned = pinnedTree(given.root, read.kind, commit)
+    if ("refused" in pinned) return refused(pinned.refused, OPERATIONAL)
+    return putUpEvery(given.root, false, every, pinned.at)
   }
   if (read.kind === INFERENCE_SERVICE) return await putUpInferenceService(given.root, slug, dryRun)
   if (read.kind === ESO_ADDON) return await putUpAddon(given.root, slug, read.pagePath, dryRun)

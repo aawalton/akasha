@@ -19,9 +19,10 @@ export interface PutUp {
 export function putUpEvery(
   root: string,
   dryRun: boolean,
-  restarting: ReadonlySet<string> = new Set()
+  restarting: ReadonlySet<string> = new Set(),
+  codeAt: string = ""
 ): PutUp {
-  const read = everyService(root)
+  const read = everyService(root, codeAt)
   if ("refused" in read) return { report: [], refusals: [read.refused], code: DATA }
 
   const home = homeAt()

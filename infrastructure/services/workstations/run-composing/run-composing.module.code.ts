@@ -110,10 +110,11 @@ export function runOf(root: string, named: string): Run | Refused {
   return { runner, path }
 }
 
-export function commandOf(root: string, start: Start): Composed {
+export function commandOf(root: string, start: Start, codeAt: string = ""): Composed {
   const run = runOf(root, start.code)
   if ("refused" in run) return run
-  const words: string[] = [...(start.before ?? []), run.runner, run.path]
+  const runAt = codeAt === "" ? run.path : join(codeAt, run.path)
+  const words: string[] = [...(start.before ?? []), run.runner, runAt]
   for (const named of start.pages ?? []) {
     const at = pathOf(root, named)
     if (typeof at !== "string") return at
@@ -161,10 +162,14 @@ export function startsIn(held: unknown): readonly Start[] | null {
   return took.length === 0 ? null : took
 }
 
-export function commandsOf(root: string, starts: readonly Start[]): readonly string[] | Refused {
+export function commandsOf(
+  root: string,
+  starts: readonly Start[],
+  codeAt: string = ""
+): readonly string[] | Refused {
   const found: string[] = []
   for (const one of starts) {
-    const said = commandOf(root, one)
+    const said = commandOf(root, one, codeAt)
     if ("refused" in said) return said
     found.push(said.command)
   }
