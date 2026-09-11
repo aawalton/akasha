@@ -1,4 +1,3 @@
-import { basename } from "node:path"
 import type { Adding } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { exportedAs, typedAs } from "../../export-name/page-export-name.module.code.ts"
 import { besideAt } from "../../file-name/page-file-name.module.code.ts"
@@ -100,7 +99,7 @@ function chosenIn(path: string, slug: string): Written {
   const named = exportedAs(slug)
   return {
     held: `(typeof ${named}.values)[number]`,
-    imports: [`import type { ${named} } from "./${basename(path)}"`],
+    imports: [`import type { ${named} } from "${PACKAGE}${path}"`],
   }
 }
 
@@ -158,11 +157,7 @@ function importedAt(line: string): string {
 }
 
 function importedBefore(one: string, two: string): number {
-  const here = importedAt(one)
-  const there = importedAt(two)
-  const near = Number(here.startsWith(".")) - Number(there.startsWith("."))
-  if (near !== 0) return near
-  return here < there ? -1 : 1
+  return importedAt(one) < importedAt(two) ? -1 : 1
 }
 
 export function bodyFor(slug: string, written: Written, many: boolean, nothing: boolean): string {

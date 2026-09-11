@@ -1,10 +1,11 @@
-import { dirname, relative } from "node:path"
 import type { Adding } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { exportedAs, typedAs } from "../export-name/page-export-name.module.code.ts"
 import { besideAt } from "../file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../shadow/shadow.module.code.ts"
 import { slugsIn } from "../value-reading/page-value-reading.module.code.ts"
+
+const ROOT = "akasha/"
 
 const PAGE_TYPE = "page-type"
 
@@ -66,9 +67,8 @@ export function typesAtOf(pageTypePath: string): string | null {
   return besideAt(pageTypePath, SECTION, HOLDS)
 }
 
-function specifierFor(from: string, to: string): string {
-  const said = relative(dirname(from), to)
-  return said.startsWith(".") ? said : `./${said}`
+function specifierFor(to: string): string {
+  return `${ROOT}${to}`
 }
 
 function narrowedIn(shaped: ReadonlyMap<string, Schema>): ReadonlyMap<string, Schema | null> {
@@ -143,10 +143,10 @@ function importedAs(slug: string, typeName: string): string {
   return called === typeName ? typeName : `${typeName} as ${called}`
 }
 
-function importsOf(at: string, slug: string, taken: readonly Taken[]): readonly string[] {
+function importsOf(slug: string, taken: readonly Taken[]): readonly string[] {
   const names = new Map<string, string[]>()
   for (const one of taken) {
-    const spec = specifierFor(at, one.at)
+    const spec = specifierFor(one.at)
     const said = importedAs(slug, one.typeName)
     const held = names.get(spec)
     if (held === undefined) names.set(spec, [said])
@@ -157,14 +157,8 @@ function importsOf(at: string, slug: string, taken: readonly Taken[]): readonly 
     .map(([spec, held]) => `import type { ${held.sort().join(", ")} } from "${spec}"`)
 }
 
-export function bodyFor(
-  pageTypePath: string,
-  slug: string,
-  parents: readonly Taken[],
-  keys: readonly Key[]
-): string {
-  const at = typesAtOf(pageTypePath) ?? pageTypePath
-  const imports = importsOf(at, slug, [...parents, ...keys])
+export function bodyFor(slug: string, parents: readonly Taken[], keys: readonly Key[]): string {
+  const imports = importsOf(slug, [...parents, ...keys])
   const head = [...parents.map((one) => calledIn(slug, one.typeName)), "{"].join(" & ")
   const lines = [
     ...imports,
@@ -191,7 +185,7 @@ export function generateTypes(_root: string, shadow: Shadow): readonly Adding[] 
     written.push({
       kind: "add",
       path: at,
-      content: bodyFor(listed.path, slug, parents, keys),
+      content: bodyFor(slug, parents, keys),
     })
   }
   return written
