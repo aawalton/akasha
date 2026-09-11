@@ -6,8 +6,6 @@ export const collectionsSecretsDatabaseUrl = {
   type: "secret",
   slug: "collections-secrets-database-url",
   placements: [
-    { resourceName: "collections-secrets", resourceKey: "DATABASE_URL" },
-    { resourceName: "collections-secrets", resourceKey: "ZERO_UPSTREAM_DB" },
     { resourceName: "alanwalton-secrets", resourceKey: "DATABASE_URL" },
     { resourceName: "temper-secrets", resourceKey: "DATABASE_URL" },
     { resourceName: "temper-secrets", resourceKey: "ZERO_UPSTREAM_DB" },
