@@ -13,6 +13,7 @@ import {
   MANIFEST,
   NEXT,
   NOTICED,
+  OTHER_PAGE,
   PACKAGED,
   PACKAGED_BODY,
   pathsRefused,
@@ -22,7 +23,7 @@ import {
 
 const READS_NEXT = 'import { next } from "./next.module.code.ts"\n\nexport const one = next\n'
 
-const OTHER = "elsewhere/other.workspace-package.ts"
+const OTHER = OTHER_PAGE
 
 test("the manifest beside the page stating `linked-at` is what the host loads", () => {
   expect(manifestIn(stating({ [LINKED_PAGE]: LINKED_TO }))).toBe(MANIFEST)
@@ -90,7 +91,7 @@ test("a specifier naming a package lands where that package's manifest says", ()
 test("a refusal names the files the host reaches the refused file from", () => {
   const said = refused({
     [ENTRY]: READS_NEXT,
-    [NEXT]: 'import { far } from "../../../utils/far/far.module.code.ts"\n',
+    [NEXT]: 'import { far } from "../utils/far/far.module.code.ts"\n',
     [FAR]: 'import "bun:sqlite"\n',
   })
   expect(said).toHaveLength(1)

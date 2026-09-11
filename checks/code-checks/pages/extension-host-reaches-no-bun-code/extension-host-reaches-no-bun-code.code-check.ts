@@ -16,7 +16,13 @@ export const extensionHostReachesNoBunCode = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder the editor is linked to is read from the page stating `linked-at`.",
+      statement:
+        "The folder the editor is linked to is read from the page at the checkout root stating `linked-at`.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page deeper in the tree states where its own folder is reached rather than the editor's.",
     },
     {
       invariantKind: "departure",

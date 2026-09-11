@@ -22,9 +22,11 @@ import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 export const ROOT = "/nowhere"
 
-export const MANIFEST = "editor-extension/ops-extension/package.json"
+export const MANIFEST = "package.json"
 
-export const LINKED_PAGE = "editor-extension/ops-extension/ops-extension.workspace-package.ts"
+export const LINKED_PAGE = "ops-extension.workspace-package.ts"
+
+export const OTHER_PAGE = "other.workspace-package.ts"
 
 export const LINKED_TO = "~/.local/share/code-editor/extensions/ops"
 
@@ -135,9 +137,9 @@ export function tracked(bodies: Readonly<Record<string, string>>): string {
   return packageFiled(root)
 }
 
-export const ENTRY = "editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts"
+export const ENTRY = "extension-entry/extension-entry.module.code.ts"
 
-export const NEXT = "editor-extension/ops-extension/extension-entry/next.module.code.ts"
+export const NEXT = "extension-entry/next.module.code.ts"
 
 export const FAR = "utils/far/far.module.code.ts"
 

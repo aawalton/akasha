@@ -22,6 +22,8 @@ const LINKED = "linked-at"
 
 const MANIFEST_PROPERTY = "manifest"
 
+const ROOT = "."
+
 const UNKNOWN = "so what the host loads is unknown"
 
 export type Indexing = {
@@ -36,6 +38,7 @@ export function linkedIn(index: Indexing): string {
   const key = exportedAs(LINKED)
   const found: string[] = []
   for (const one of carried.carrying) {
+    if (dirname(one.path) !== ROOT) continue
     const value = index.valuesByPath(one.pageTypeSlug).get(one.path)
     if (value === undefined || typeof value[key] !== "string") continue
     if (!found.includes(one.path)) found.push(one.path)
@@ -43,8 +46,8 @@ export function linkedIn(index: Indexing): string {
   const page = found[0]
   if (page === undefined || found.length > 1) {
     throw new Error(
-      `${found.length} pages state a \`${LINKED}\`, and the folder the editor is linked to ` +
-        `is the folder of the one page stating it, ${UNKNOWN}`
+      `${found.length} pages state a \`${LINKED}\` at the checkout root, and the folder the ` +
+        `editor is linked to is the folder of the one page stating it there, ${UNKNOWN}`
     )
   }
   return page
