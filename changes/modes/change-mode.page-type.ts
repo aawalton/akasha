@@ -15,6 +15,7 @@ export const changeMode = {
     "change-mode/change-mode-rename",
     "change-mode/change-mode-add-if-not-present",
     "change-mode/change-mode-append",
+    "change-mode/change-mode-divide",
   ],
   extends: ["page-type/domain"],
   invariants: [
