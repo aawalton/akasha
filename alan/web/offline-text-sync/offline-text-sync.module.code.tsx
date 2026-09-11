@@ -26,15 +26,13 @@ import {
   OFFLINE_COMPLETIONS_CHANGED_EVENT,
   positionPatches,
 } from "akasha/alan/web/offline-text-cache/offline-text-cache.module.code.ts"
-import {
-  describeThrown,
-  reportReadCompletionDiag,
-} from "akasha/alan/web/read-completion-diagnostics/read-completion-diagnostics.module.code.ts"
+import { reportReadCompletionDiag } from "akasha/alan/web/read-completion-diagnostics/read-completion-diagnostics.module.code.ts"
 import {
   POSITION_WRITE_EVENT,
   parsePositionWriteDetail,
 } from "akasha/pages/ui/components/position-write-event/position-write-event.module.code.ts"
 import { getContentPersistence } from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { useEffect, useRef } from "react"
 
 const DOWN_SYNC_CONCURRENCY = 5
@@ -96,7 +94,7 @@ export function OfflineTextSync() {
             synced.push(patch.pageId)
           } catch (error: unknown) {
             console.error("[offline-text-sync] up-sync write failed", patch.pageId, error)
-            if (firstDrainError == null) firstDrainError = describeThrown(error)
+            if (firstDrainError == null) firstDrainError = saidBy(error)
           }
         }
         await clearSyncedCompletions(synced)

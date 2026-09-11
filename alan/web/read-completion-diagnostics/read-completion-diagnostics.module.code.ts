@@ -7,10 +7,6 @@ export type ReadCompletionDiagReason =
   | "drain-skipped-busy"
   | "drain-result"
 
-export function describeThrown(error: unknown): string {
-  return error instanceof Error ? error.message : String(error)
-}
-
 export interface ReadCompletionReport {
   message: string
   stack: string
