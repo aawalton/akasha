@@ -1,4 +1,4 @@
-import type { Module } from "../../../modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const statusBarPanel = {
   id: "01a06816-69fa-7001-a0ca-bd4a904571ee",

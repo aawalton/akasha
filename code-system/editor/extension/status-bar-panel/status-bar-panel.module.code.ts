@@ -1,24 +1,27 @@
-import * as vscode from "vscode"
 import {
   followState,
   readState,
   stateAt,
-} from "../../../../alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
-import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
-import { recordObservation } from "../observation-store/observation-store.module.code.ts"
+} from "akasha/alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
+import { akashaRoot } from "akasha/code-system/editor/extension/harness-call/harness-call.module.code.ts"
+import { recordObservation } from "akasha/code-system/editor/extension/observation-store/observation-store.module.code.ts"
 import {
   applyToItems,
   type FreshAts,
   type ReadOutcomes,
   settleReads,
-} from "../status-bar-drawing/status-bar-drawing.module.code.ts"
+} from "akasha/code-system/editor/extension/status-bar-drawing/status-bar-drawing.module.code.ts"
 import {
   NO_LEGENDS,
   type StoplightLegends,
-} from "../status-bar-legends/status-bar-legends.module.code.ts"
-import { SLOTS } from "../status-bar-slots/status-bar-slots.module.code.ts"
-import { SEPARATOR_GLYPH, SEPARATOR_HEX } from "../status-bar-theme/status-bar-theme.module.code.ts"
-import type { UsageReading } from "../status-bar-usage/status-bar-usage.module.code.ts"
+} from "akasha/code-system/editor/extension/status-bar-legends/status-bar-legends.module.code.ts"
+import { SLOTS } from "akasha/code-system/editor/extension/status-bar-slots/status-bar-slots.module.code.ts"
+import {
+  SEPARATOR_GLYPH,
+  SEPARATOR_HEX,
+} from "akasha/code-system/editor/extension/status-bar-theme/status-bar-theme.module.code.ts"
+import type { UsageReading } from "akasha/code-system/editor/extension/status-bar-usage/status-bar-usage.module.code.ts"
+import * as vscode from "vscode"
 
 const FEATURE = "status-bar"
 const SLUG = "status-bar"
