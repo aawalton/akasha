@@ -1,4 +1,5 @@
 import { mkdirSync, rmSync, statSync, writeFileSync } from "node:fs"
+import { pause } from "akasha/utils/waiting/thread-pause/thread-pause.module.code.ts"
 import { alive, holderOf, markIn, startedAt } from "../lock-holder/lock-holder.module.code.ts"
 
 const SPIN_MS = 5
@@ -8,10 +9,6 @@ const WAIT_MS = 20_000
 const STALE_MS = 10_000
 
 const HOLDER = "held-by"
-
-function pause(ms: number): undefined {
-  Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms)
-}
 
 function agedOut(lock: string): boolean {
   try {

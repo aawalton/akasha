@@ -25,10 +25,6 @@ export const atomicWrite = {
     },
     {
       invariantKind: "departure",
-      statement: "The wait between attempts reaches no `Bun` global.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Only a retry ever waits.",
     },
     {

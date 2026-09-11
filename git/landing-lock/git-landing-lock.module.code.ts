@@ -2,10 +2,7 @@ import { readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { holderProcessRuns } from "akasha/files/lock-holder-runs/lock-holder-runs.module.code.ts"
 import { git } from "akasha/git/capping/git-capping.module.code.ts"
-
-function sleepSync(ms: number): undefined {
-  Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms)
-}
+import { pause } from "akasha/utils/waiting/thread-pause/thread-pause.module.code.ts"
 
 const LANDING_LOCK = "harness-landing.lock"
 
@@ -64,7 +61,7 @@ export function whileHoldingLanding<T>(
             "nothing was committed. Whoever holds it is alive and stuck mid-landing; read that process before clearing the file.",
         }
       }
-      sleepSync(Math.min(LANDING_POLL_MS, left))
+      pause(Math.min(LANDING_POLL_MS, left))
     }
   }
   try {

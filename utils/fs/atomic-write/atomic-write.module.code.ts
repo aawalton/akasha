@@ -1,5 +1,6 @@
 import { renameSync, rmSync, writeFileSync } from "node:fs"
 import { rename, rm, writeFile } from "node:fs/promises"
+import { pause } from "akasha/utils/waiting/thread-pause/thread-pause.module.code.ts"
 
 export interface AtomicWriteOptions {
   readonly mode?: number
@@ -20,10 +21,6 @@ function tempPathFor(path: string): string {
   return `${path}.tmp-${process.pid}-${Math.random().toString(36).slice(2, 10)}`
 }
 
-function sleepSync(ms: number): undefined {
-  Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms)
-}
-
 function sleep(ms: number): Promise<undefined> {
   return new Promise((resolve) => {
     setTimeout(() => resolve(undefined), ms)
@@ -37,7 +34,7 @@ function retrySync<T>(fn: () => T, label: string, onRetry?: (message: string) =>
     } catch (err) {
       if (!isBusyError(err) || attempt === MAX_ATTEMPTS) throw err
       onRetry?.(`retrying ${label} (attempt ${attempt}/${MAX_ATTEMPTS})`)
-      sleepSync(BACKOFF_MS[attempt - 1] ?? 3200)
+      pause(BACKOFF_MS[attempt - 1] ?? 3200)
     }
   }
   throw new Error("unreachable")

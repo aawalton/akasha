@@ -1,5 +1,6 @@
 import { lstatSync } from "node:fs"
 import { join } from "node:path"
+import { pause } from "akasha/utils/waiting/thread-pause/thread-pause.module.code.ts"
 import { said as gitIn, told as gitTold } from "../../../git/running/git-running.module.code.ts"
 
 export function unloadableIn(message: string, broken: string): string {
@@ -183,10 +184,6 @@ const INDEX_LOCK_FIRST_WAIT_MS = 100
 
 const INDEX_LOCK_LONGEST_WAIT_MS = 2_000
 
-function sleepFor(ms: number): undefined {
-  Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms)
-}
-
 function heldIndex(thrown: unknown): boolean {
   const said = thrown instanceof Error ? thrown.message : String(thrown)
   return said.includes("index.lock") && said.includes("File exists")
@@ -201,7 +198,7 @@ export function whileIndexFrees<T>(run: () => T, ceilingMs = INDEX_LOCK_CEILING_
     } catch (thrown) {
       const left = until - Date.now()
       if (!heldIndex(thrown) || left <= 0) throw thrown
-      sleepFor(Math.min(wait, left))
+      pause(Math.min(wait, left))
       wait = Math.min(wait * 2, INDEX_LOCK_LONGEST_WAIT_MS)
     }
   }
