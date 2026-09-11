@@ -20,6 +20,7 @@ export const computedProperty = {
     { pageProperty: "select-property/holds", required: true, many: false },
     { pageProperty: "code-file-property/code", required: true, many: false },
     { pageProperty: "code-file-property/test", required: false, many: false },
+    { pageProperty: "code-file-property/test-fixtures", required: false, many: false },
     { pageProperty: "text-property/select-values", required: false, many: true, maxCount: null },
   ],
   invariants: [
