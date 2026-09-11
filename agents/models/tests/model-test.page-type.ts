@@ -16,6 +16,7 @@ export const modelTest = {
     "select-property/case-answer",
     "text-property/case-statement",
     "text-property/prompt",
+    "text-property/case-against",
   ],
   extends: ["page-type/module"],
   properties: [
