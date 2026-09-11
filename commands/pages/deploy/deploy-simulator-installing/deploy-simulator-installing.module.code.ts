@@ -10,15 +10,13 @@ import { z } from "zod"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { SCRATCH_AT } from "../../../modules/scratching/scratching.module.code.ts"
 
-export const WWW = "--www"
+const DATA = 2
 
 const HOST_ENV = "AKASHA_MAC_HOST"
 
 const DEFAULT_HOST = "macbook"
 
 const RUN_ROOT = ".akasha-ios-build"
-
-const WWW_AT = "www-staged"
 
 const SPA_SOURCE = "NATIVE_SHELL_SPA_SOURCE_DIR"
 
@@ -30,43 +28,10 @@ const DONE = /BUILD_SIM_OK[^\n]*udid=([0-9A-Fa-f-]{8,})/
 
 const REPORTED = z.tuple([z.string(), z.string()])
 
-function parseInstalledUdid(said: string): string | null {
+function installedUdid(said: string): string | null {
   const found = DONE.exec(said)
   const read = REPORTED.safeParse(found)
   return read.success ? read.data[1] : null
-}
-
-export type Read =
-  | { readonly app: string; readonly www: string | null }
-  | { readonly refused: string }
-
-export function readIn(argv: readonly string[]): Read {
-  const bare: string[] = []
-  let www: string | null = null
-  for (let at = 0; at < argv.length; at += 1) {
-    const one = argv[at]
-    if (one === undefined) continue
-    if (one === WWW) {
-      const value = argv[at + 1]
-      if (value === undefined)
-        return { refused: `\`${WWW}\` names a directory, and nothing followed it` }
-      www = value
-      at += 1
-      continue
-    }
-    if (one.startsWith("-")) {
-      return { refused: `\`${one}\` is no flag this takes — it takes \`${WWW} <dir>\`` }
-    }
-    bare.push(one)
-  }
-  const [app, ...rest] = bare
-  if (app === undefined) return { refused: "this names an app, and nothing was said" }
-  if (rest.length > 0) {
-    return {
-      refused: `\`${rest.join("`, `")}\` follows the app \`${app}\`, and one call names one app`,
-    }
-  }
-  return { app, www }
 }
 
 type Ran = { readonly out: string; readonly code: number }
@@ -131,7 +96,7 @@ function stampOf(root: string, plan: Plan): string | null {
   return held.out.trim() === "" ? at : `${at}-dirty`
 }
 
-function scriptOf(root: string, plan: Plan, www: string | null, stamp: string): string {
+function scriptOf(root: string, plan: Plan, stamp: string): string {
   const shellDir = `$HOME/${RUN_ROOT}/${plan.shellPath}`
   const head = [
     MAC_PATH,
@@ -139,7 +104,6 @@ function scriptOf(root: string, plan: Plan, www: string | null, stamp: string): 
     `export NATIVE_SHELL_STAMP_COMMIT='${stamp}'`,
     ...plan.exports,
   ]
-  if (www !== null) head.push(`export STAGED_WWW_DIR="$HOME/${RUN_ROOT}/${WWW_AT}"`)
   return `${head.join("\n")}\n${readFileSync(join(root, plan.buildScriptPath), "utf8")}`
 }
 
@@ -157,17 +121,15 @@ function built(script: string, host: string): Ran {
   }
 }
 
-export function iosAppBuild(argv: readonly string[], given: Given): Answer {
-  const read = readIn(argv)
-  if ("refused" in read) return { report: [], refusals: [read.refused], code: 1 }
-  const plan = planFor(given.root, read.app)
-  if ("refused" in plan) return { report: [], refusals: [...plan.refused], code: 2 }
+export function installedOnSimulator(slug: string, given: Given): Answer {
+  const plan = planFor(given.root, slug)
+  if ("refused" in plan) return { report: [], refusals: [...plan.refused], code: DATA }
   const host = hostIn()
   const report = [
     `building ${plan.appSlug} on ${host} from ${plan.deliverPaths.length} directories` +
       ` and ${plan.deliverFiles.length} files of the pages every build compiles`,
   ]
-  if (read.www === null && plan.staging !== null) {
+  if (plan.staging !== null) {
     const from = join(given.root, plan.staging.sourcePath)
     const made = ran(["bash", join(given.root, plan.staging.scriptPath)], { [SPA_SOURCE]: from })
     report.push(made.out.trimEnd())
@@ -182,17 +144,6 @@ export function iosAppBuild(argv: readonly string[], given: Given): Answer {
   }
   const short = delivered(given.root, plan, host)
   if (short.length > 0) return { report, refusals: short, code: 3 }
-  if (read.www !== null) {
-    const sent = ran(["rsync", "-az", "--delete", `${read.www}/`, `${host}:${RUN_ROOT}/${WWW_AT}/`])
-    if (sent.code !== 0) {
-      return {
-        report,
-        refusals: [`${read.www} did not reach ${host} — ${sent.out.trim()}`],
-        code: 3,
-      }
-    }
-    report.push(`staged the site at ${read.www}`)
-  }
   const stamp = stampOf(given.root, plan)
   if (stamp === null) {
     return {
@@ -203,9 +154,9 @@ export function iosAppBuild(argv: readonly string[], given: Given): Answer {
       code: 3,
     }
   }
-  const done = built(scriptOf(given.root, plan, read.www, stamp), host)
+  const done = built(scriptOf(given.root, plan, stamp), host)
   report.push(done.out.trimEnd())
-  const udid = parseInstalledUdid(done.out)
+  const udid = installedUdid(done.out)
   if (udid === null) {
     return {
       report,

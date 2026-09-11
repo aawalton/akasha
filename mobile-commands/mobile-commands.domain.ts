@@ -31,7 +31,8 @@ export const mobileCommands = {
     },
     {
       invariantKind: "gap",
-      statement: "The build a command here installs to a simulator is taken by `ios-app build`.",
+      statement:
+        "The build a command here installs to a simulator is taken by `akasha deploy --simulator`.",
     },
   ],
 } as const satisfies Domain

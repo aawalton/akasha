@@ -1,0 +1,41 @@
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
+
+export const deploySimulatorInstalling = {
+  id: "01a08e07-611c-798a-bc99-55b321247e50",
+  pageTypeSlug: "module",
+  type: "module",
+  slug: "deploy-simulator-installing",
+  definition: "one iOS app built on the mac and installed on a simulator there",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The sources an app is built from are read from its page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A workstation that is not a mac hands the build to a mac.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An app's site is staged here before the tree reaches the mac.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No app's web directory is delivered, since the mac builds that directory.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A build reporting no sentinel counts as nothing installed.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Nothing is reported until the build has finished.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here uploads to App Store Connect.",
+    },
+  ],
+} as const satisfies Module

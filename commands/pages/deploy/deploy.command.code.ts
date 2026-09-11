@@ -16,6 +16,7 @@ import {
   WEB_APP,
   WORKSTATION_SERVICE,
 } from "./deploy-kind-reading/deploy-kind-reading.module.code.ts"
+import { installedOnSimulator } from "./deploy-simulator-installing/deploy-simulator-installing.module.code.ts"
 import { putUpWebApp } from "./deploy-web-putting-up/deploy-web-putting-up.module.code.ts"
 
 const INPUT = 1
@@ -24,7 +25,8 @@ const DRY_RUN = "--dry-run"
 const NO_UPLOAD = "--no-upload"
 const MEASURED = "--measured"
 const REF = "--ref"
-const FLAGS = [DRY_RUN, NO_UPLOAD, MEASURED]
+const SIMULATOR = "--simulator"
+const FLAGS = [DRY_RUN, NO_UPLOAD, MEASURED, SIMULATOR]
 const NAMED: Readonly<Record<string, string>> = {
   [CLUSTER_SERVICE]: "a cluster service",
   [WORKSTATION_SERVICE]: "a workstation service",
@@ -94,6 +96,15 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
   const read = kindNamed(given.root, slug)
   if ("refused" in read) return refused(read.refused, DATA)
   if (read.kind === IOS_APP) {
+    if (rest.includes(SIMULATOR)) {
+      if (rest.includes(NO_UPLOAD) || ref !== null) {
+        return refused(
+          `\`${SIMULATOR}\` installs on the mac's simulator rather than handing a build to Apple, so \`${NO_UPLOAD}\` and \`${REF}\` say nothing about it`,
+          INPUT
+        )
+      }
+      return installedOnSimulator(slug, given)
+    }
     if (rest.includes(DRY_RUN)) {
       return refused(
         `\`${slug}\` names an ios app, which is built and handed to Apple rather than applied to a cluster, so \`${DRY_RUN}\` says nothing about it — a build Apple validates and nobody is sent is \`${NO_UPLOAD}\``,
@@ -103,6 +114,12 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
     return shipIosApp(slug, read.pagePath, rest.includes(NO_UPLOAD), ref)
   }
   const what = NAMED[read.kind] as string
+  if (rest.includes(SIMULATOR)) {
+    return refused(
+      `\`${slug}\` names ${what}, which no simulator runs, so \`${SIMULATOR}\` says nothing about it`,
+      INPUT
+    )
+  }
   if (rest.includes(NO_UPLOAD)) {
     return refused(
       `\`${slug}\` names ${what}, which is put up rather than uploaded, so \`${NO_UPLOAD}\` says nothing about it — a run that applies nothing is \`${DRY_RUN}\``,

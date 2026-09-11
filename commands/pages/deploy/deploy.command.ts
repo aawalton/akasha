@@ -16,6 +16,7 @@ export const deploy = {
     "module/deploy-kind-reading",
     "module/deploy-web-putting-up",
     "module/deploy-image-pushing",
+    "module/deploy-simulator-installing",
   ],
   taking: [
     {
@@ -28,6 +29,10 @@ export const deploy = {
     {
       said: "--measured",
       takes: "run the whole deploy under no ceiling, so what it cost is recorded",
+    },
+    {
+      said: "--simulator",
+      takes: "install an ios app on a simulator rather than hand it to Apple",
     },
   ],
   helpNotes: [
@@ -60,6 +65,8 @@ export const deploy = {
     "a build already made from that commit is made again by nothing.",
     "what a build needs set is exported beside the manifest code, and a value it names that nothing holds refuses the call.",
     "a container recipe naming a repository is built and pushed here, which is how an image no cluster service names reaches the registry.",
+    "`--simulator` builds an ios app on the mac from this checkout's tree and installs it on a simulator there, and the site the app serves is staged first.",
+    "`--simulator` belongs to an ios app, and a call naming it on another kind is refused rather than ignored.",
   ],
   invariants: [
     {
@@ -128,6 +135,11 @@ export const deploy = {
     {
       invariantKind: "departure",
       statement: "A container recipe is put up as its image in the registry and nothing else.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An ios app told to go on a simulator is installed there rather than handed to Apple.",
     },
   ],
 } as const satisfies Command
