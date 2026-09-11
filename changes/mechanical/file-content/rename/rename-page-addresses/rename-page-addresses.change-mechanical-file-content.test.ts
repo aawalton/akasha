@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import {
   openingsIn,
-  pathsOver,
   renamePageAddresses,
 } from "akasha/changes/mechanical/file-content/rename/rename-page-addresses/rename-page-addresses.change-mechanical-file-content.code.ts"
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
@@ -9,6 +8,7 @@ import type { Answer } from "akasha/changes/modules/answer/change-answer.module.
 import {
   bodiesIn,
   NOTHING_OVER,
+  pathsThere,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
@@ -94,7 +94,7 @@ test("a path the answer writes is read beside the paths the index lists", () => 
     over: { edits: [{ kind: "move", pathFrom: CONST_AT, pathTo: MOVED_TO }], refused: null },
   }
 
-  expect(pathsOver(over)).toEqual([MOVED_TO])
+  expect(pathsThere(over)).toEqual([MOVED_TO])
 })
 
 test("a path the answer carries away is left out of the bodies read", () => {
@@ -104,7 +104,7 @@ test("a path the answer carries away is left out of the bodies read", () => {
     over: { edits: [{ kind: "remove", path: TAKEN }], refused: null },
   }
 
-  expect(pathsOver(over)).toEqual([CONST_AT])
+  expect(pathsThere(over)).toEqual([CONST_AT])
 })
 
 test("an address stating no page type refuses the whole answer", () => {

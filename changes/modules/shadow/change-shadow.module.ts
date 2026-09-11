@@ -296,6 +296,26 @@ export const changeShadow = {
 
     {
       invariantKind: "departure",
+      statement: "A world answers the paths there once the answer that world carries has landed.",
+    },
+
+    {
+      invariantKind: "departure",
+      statement: "A path that answer writes is among those paths beside the paths the index lists.",
+    },
+
+    {
+      invariantKind: "departure",
+      statement: "A path that answer takes away is left out of those paths.",
+    },
+
+    {
+      invariantKind: "departure",
+      statement: "A path that answer moves is among those paths at the path moved to.",
+    },
+
+    {
+      invariantKind: "departure",
       statement: "Carrying a world onto an answer is one act.",
     },
     {

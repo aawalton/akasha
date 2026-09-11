@@ -8,7 +8,7 @@ import type {
   Said,
   Splice,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { pathsThere, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
@@ -42,20 +42,6 @@ export function spellingsOver(
   return found
 }
 
-export function pathsOver(world: World): readonly string[] {
-  const found = new Set(world.index.everyPath())
-  for (const one of world.over.edits) {
-    if (one.kind === "move") {
-      found.delete(one.pathFrom)
-      found.add(one.pathTo)
-      continue
-    }
-    if (one.kind === "remove") found.delete(one.path)
-    else found.add(one.path)
-  }
-  return [...found]
-}
-
 export function openingsIn(moved: ReadonlyMap<string, string>): readonly string[] {
   const found = new Set<string>()
   for (const was of moved.keys()) found.add(was.slice(0, was.indexOf(PARTED_BY) + 1))
@@ -85,7 +71,7 @@ export function renamePageAddresses(world: World, given: RenamePageAddressesAske
   if (why !== null) return refusing(why)
   let paths: readonly string[]
   try {
-    paths = pathsOver(world)
+    paths = pathsThere(world)
   } catch (cause) {
     const held = cause instanceof Error ? cause.message : String(cause)
     return refusing(`${held}, so no address was restated`)

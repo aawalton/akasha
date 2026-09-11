@@ -152,6 +152,20 @@ export async function reach(world: World, at: Reaches, given: unknown): Promise<
   }
 }
 
+export function pathsThere(world: World): readonly string[] {
+  const found = new Set(world.index.everyPath())
+  for (const one of world.over.edits) {
+    if (one.kind === "move") {
+      found.delete(one.pathFrom)
+      found.add(one.pathTo)
+      continue
+    }
+    if (one.kind === "remove") found.delete(one.path)
+    else found.add(one.path)
+  }
+  return [...found]
+}
+
 export function bytesOf(body: Held | null): Uint8Array | null {
   return body === null || notText(body) ? null : BYTES.encode(body)
 }

@@ -1,13 +1,11 @@
 import { expect, test } from "bun:test"
-import {
-  pathsIn,
-  renamePageAddress,
-} from "akasha/changes/mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
+import { renamePageAddress } from "akasha/changes/mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   bodiesIn,
   NOTHING_OVER,
+  pathsThere,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
@@ -22,7 +20,7 @@ test("a path the answer writes is read beside the paths the index lists", () => 
     over: { edits: [{ kind: "move", pathFrom: CONST_AT, pathTo: MOVED_TO }], refused: null },
   }
 
-  expect(pathsIn(over)).toEqual([MOVED_TO])
+  expect(pathsThere(over)).toEqual([MOVED_TO])
 })
 
 test("a path the answer carries away is left out of the bodies read", () => {
@@ -32,7 +30,7 @@ test("a path the answer carries away is left out of the bodies read", () => {
     over: { edits: [{ kind: "remove", path: TAKEN }], refused: null },
   }
 
-  expect(pathsIn(over)).toEqual([CONST_AT])
+  expect(pathsThere(over)).toEqual([CONST_AT])
 })
 
 const WAS = ["held-kind", "held-one"].join("/")
