@@ -29,6 +29,7 @@ export const infrastructure = {
     "domain/memory",
     "domain/inference",
     "domain/cpu",
+    "domain/machines",
   ],
   invariants: [
     {
