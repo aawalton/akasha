@@ -22,7 +22,7 @@ export const theaChecksSystem = {
       statement:
         "Audits run in a dedicated singleton service and are requested by agents, never run directly.",
       workingMemory:
-        "service-workstation is the mechanism: 38 pages under systemd reached by deploy, and royal-road-sync already states schedule hourly. auditingIn at checking.module.code.ts:386 runs every audit in one process and nothing calls it. 55 run at a bare audit, 59 pages less 4 experimental. Nothing guards two audits at once: holding is the only lock and only landings and index refresh take it. Nothing holds the tree still either, the harder half at a commit every 13 seconds.",
+        "Alan's shape: the unit is one check's audit rather than the whole run, concurrency is one per check rather than one per service, and an agent asks at a commit, answered by a clean result for that check at a commit at or after it. One run serves every asker beneath it. That keying is also the answer to a tree moving under a run, a verdict being true of a commit rather than of a moment. service-workstation is the mechanism, hourly already in use by royal-road-sync.",
     },
     {
       statement:
