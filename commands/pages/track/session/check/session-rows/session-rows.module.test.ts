@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { RELATIONSHIP, saidEachFor, VALUED } from "./session-rows.module.code.ts"
+import {
+  RELATIONSHIP,
+  saidEachFor,
+  VALUED,
+} from "akasha/commands/pages/track/session/check/session-rows/session-rows.module.code.ts"
 
 test("the flag is one this command takes", () => {
   expect(VALUED).toContain(RELATIONSHIP)

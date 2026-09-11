@@ -1,11 +1,11 @@
-import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
-import { keepPointsBeforeToday } from "../../../../alan/attributes/points/attribute-points.module.code.ts"
+import { keepPointsBeforeToday } from "akasha/alan/attributes/points/attribute-points.module.code.ts"
 import {
   ATTRIBUTE_OF,
   takeReadings,
-} from "../../../../alan/harness/attributes/reading/attributes-reading.module.code.ts"
-import { totalAttributes } from "../../../../alan/harness/attributes/totalling/attributes-totalling.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+} from "akasha/alan/harness/attributes/reading/attributes-reading.module.code.ts"
+import { totalAttributes } from "akasha/alan/harness/attributes/totalling/attributes-totalling.module.code.ts"
+import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const NOTHING_REBUILT =
   "no attribute could be added up over the days before today, so nothing was rebuilt. A figure " +

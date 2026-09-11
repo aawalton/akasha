@@ -13,7 +13,7 @@ import {
   type Taken,
   taken,
   trackHealthImport,
-} from "./track-health-import.command.code.ts"
+} from "akasha/commands/pages/track/health-import/track-health-import.command.code.ts"
 
 const SOURCE = "/Users/nobody/Downloads/export.zip"
 

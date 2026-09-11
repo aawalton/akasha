@@ -13,7 +13,7 @@ import {
   totalOf,
   underRan,
   withinOf,
-} from "../../../../../checks/modules/measuring/check-measuring.module.code.ts"
+} from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
 
 export const COMMAND = "command"
 

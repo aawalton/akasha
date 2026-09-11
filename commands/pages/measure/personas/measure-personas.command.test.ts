@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
-import { linesOf } from "../../../modules/measure-tabling/measure-tabling.module.code.ts"
-import { measuredIn, type Named, untotalledOf } from "./measure-personas.command.code.ts"
+import { linesOf } from "akasha/commands/modules/measure-tabling/measure-tabling.module.code.ts"
+import {
+  measuredIn,
+  type Named,
+  untotalledOf,
+} from "akasha/commands/pages/measure/personas/measure-personas.command.code.ts"
 
 const NAMED: readonly Named[] = [
   { slug: "wren", label: "Wren", path: "lumen/pages/wren/wren.persona.ts" },

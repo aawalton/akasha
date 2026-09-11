@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { noSeat, personaIn, type Seated } from "./seat-messaged.command.code.ts"
+import {
+  noSeat,
+  personaIn,
+  type Seated,
+} from "akasha/commands/pages/seat/messaged/seat-messaged.command.code.ts"
 
 const SEATS: readonly Seated[] = [
   { slug: "amy", persona: "amy" },

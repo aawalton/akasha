@@ -1,7 +1,5 @@
 import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
-import { computeItemStock } from "akasha/temper/items-core/compute-item-stock/compute-item-stock.module.code.ts"
-import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
-import { computeBuyShortfall } from "akasha/temper/items-rules-core/buy-rule-eval/buy-rule-eval.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   answering,
   JSON_FLAG,
@@ -11,12 +9,14 @@ import {
   shapeOf,
   toldOf,
   toldRows,
-} from "../../../../../../temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   latestSnapshot,
   snapshotDatabase,
-} from "../../../../../../temper/commands/inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts"
-import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
+} from "akasha/temper/commands/inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts"
+import { computeItemStock } from "akasha/temper/items-core/compute-item-stock/compute-item-stock.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+import { computeBuyShortfall } from "akasha/temper/items-rules-core/buy-rule-eval/buy-rule-eval.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-buy-rule-list"
 

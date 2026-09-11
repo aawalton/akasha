@@ -6,7 +6,7 @@ import {
   noInitiative,
   readIn,
   saidFor,
-} from "./initiative-delete.command.code.ts"
+} from "akasha/commands/pages/initiative/delete/initiative-delete.command.code.ts"
 
 const SEAT = { path: "seat-system/seats/pages/hum/hum.seat.ts", propertySlug: "assignment-slug" }
 

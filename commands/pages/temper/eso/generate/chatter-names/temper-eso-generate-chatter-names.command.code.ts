@@ -2,14 +2,14 @@ import { realpathSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
-import { chatterNamesModule } from "../../../../../../temper/commands/eso-chatter-names/eso-chatter-names.module.code.ts"
+import { chatterNamesModule } from "akasha/temper/commands/eso-chatter-names/eso-chatter-names.module.code.ts"
 import {
   saidFor,
   saidShort,
-} from "../../../../../../temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
-import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
-import { answering, refused } from "../../../../../modules/calling/calling.module.code.ts"
+} from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const DATA = 2
 

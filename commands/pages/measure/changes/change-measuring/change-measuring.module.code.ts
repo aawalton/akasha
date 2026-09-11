@@ -1,6 +1,5 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   byCpu,
   type Chosen,
@@ -15,7 +14,8 @@ import {
   totalOf,
   underRan,
   withinOf,
-} from "../../../../../checks/modules/measuring/check-measuring.module.code.ts"
+} from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 export const CHANGE = "change"
 

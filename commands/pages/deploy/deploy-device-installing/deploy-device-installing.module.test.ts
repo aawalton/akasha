@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
-import { INPUT } from "../../../modules/answering/command-answering.module.code.ts"
-import { installedOnDevice, scriptOf } from "./deploy-device-installing.module.code.ts"
+import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import {
+  installedOnDevice,
+  scriptOf,
+} from "akasha/commands/pages/deploy/deploy-device-installing/deploy-device-installing.module.code.ts"
 
 const UDID = "00008030-000B0C0D0E0F1112"
 

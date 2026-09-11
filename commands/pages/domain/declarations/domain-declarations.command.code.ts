@@ -1,7 +1,10 @@
 import { resolve } from "node:path"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { answeredBy } from "../../../modules/report-answering/report-answering.module.code.ts"
-import { declarationLines, SUBJECTS } from "../dag/domain-drawing/domain-drawing.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answeredBy } from "akasha/commands/modules/report-answering/report-answering.module.code.ts"
+import {
+  declarationLines,
+  SUBJECTS,
+} from "akasha/commands/pages/domain/dag/domain-drawing/domain-drawing.module.code.ts"
 
 export const SUBJECT = "--subject"
 

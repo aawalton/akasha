@@ -1,6 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { put } from "akasha/testing-system/putting/putting.module.code.ts"
-import { scratchWorld } from "../../../../../modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   costOf,
   countedIn,
@@ -10,7 +9,8 @@ import {
   sinceOf,
   storeIn,
   totalOf,
-} from "./claude-account-costing.module.code.ts"
+} from "akasha/commands/pages/measure/claude-accounts/cost/claude-account-costing/claude-account-costing.module.code.ts"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 
 const scratch = scratchWorld()
 

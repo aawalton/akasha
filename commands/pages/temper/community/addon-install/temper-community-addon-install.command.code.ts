@@ -1,13 +1,13 @@
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { listDeployables } from "akasha/temper/addons-resolve/deployable-addons/deployable-addons.module.code.ts"
-import { installNamedAddon } from "akasha/temper/community-addons/install-named-addon/install-named-addon.module.code.ts"
-import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import {
   namesIn,
   valuesOf,
-} from "../../../../../temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
-import { saidBy as messageOf } from "../../../../../utils/narrow/said-by/said-by.module.code.ts"
-import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../../modules/calling/calling.module.code.ts"
+} from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
+import { installNamedAddon } from "akasha/temper/community-addons/install-named-addon/install-named-addon.module.code.ts"
+import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const SAID_WRONG = 1
 

@@ -1,7 +1,11 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
-import { refusingWith } from "../../../modules/calling/calling.module.test-fixtures.ts"
-import { folderOf, icloudFetch, readIn } from "./icloud-fetch.command.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refusingWith } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
+import {
+  folderOf,
+  icloudFetch,
+  readIn,
+} from "akasha/commands/pages/icloud/fetch/icloud-fetch.command.code.ts"
 
 const ALBUM = "https://share.icloud.com/photos/0ABCdef"
 

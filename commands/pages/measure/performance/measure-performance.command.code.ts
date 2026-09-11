@@ -1,9 +1,9 @@
 import { join } from "node:path"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { quoted } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt, slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
-import { quoted } from "../../../modules/seat-act-calling/seat-act-calling.module.code.ts"
 
 const PERFORMANCE = "performance"
 

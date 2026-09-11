@@ -1,8 +1,8 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join, relative, resolve, sep } from "node:path"
-import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../../../modules/calling/calling.module.code.ts"
-import { saidBy as messageOf } from "../../../../../../utils/narrow/said-by/said-by.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
@@ -13,7 +13,7 @@ import {
 } from "akasha/temper/addons-resolve/distributable-set/distributable-set.module.code.ts"
 import { readSiblingAddonNames, siblingDistDir } from "akasha/temper/addons-resolve/sibling-addons/sibling-addons.module.code.ts"
 import { type Zippable, zipSync } from "fflate"
-import { valuesOf } from "../../../../../../temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
+import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1
 

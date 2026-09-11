@@ -4,7 +4,7 @@ import {
   noInitiative,
   readIn,
   saidFor,
-} from "./initiative-delete-intent.command.code.ts"
+} from "akasha/commands/pages/initiative/delete-intent/initiative-delete-intent.command.code.ts"
 
 test("two words are read as an initiative and a statement", () => {
   expect(readIn(["amy-harness-improvements", "All of Jenny's widgets work."])).toEqual({

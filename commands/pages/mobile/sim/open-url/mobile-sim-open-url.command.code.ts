@@ -6,6 +6,12 @@ import {
 } from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
 import { loadSessionState } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
 import {
+  answering,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
   APP_SAID,
   appIn,
   bareWordAs,
@@ -13,13 +19,7 @@ import {
   type Reading,
   UDID_SAID,
   wordsIn,
-} from "../../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
-import {
-  answering,
-  refusedBy,
-  told,
-} from "../../../../modules/answering/command-answering.module.code.ts"
-import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
+} from "akasha/mobile-commands/mobile-answering/mobile-answering.module.code.ts"
 
 const ROUTE = "--route"
 

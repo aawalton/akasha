@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { given } from "akasha/commands/pages/deploy/deploy.command.test-fixtures.ts"
+import { putUpWebApp } from "akasha/commands/pages/deploy/deploy-web-putting-up/deploy-web-putting-up.module.code.ts"
+import { seededWorld } from "akasha/infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
 import { said } from "akasha/utils/run/running/running.module.code.ts"
-import { seededWorld } from "../../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
-import { given } from "../deploy.command.test-fixtures.ts"
-import { putUpWebApp } from "./deploy-web-putting-up.module.code.ts"
 
 const WORLD = seededWorld()
 const HOLD = "/var/tmp"

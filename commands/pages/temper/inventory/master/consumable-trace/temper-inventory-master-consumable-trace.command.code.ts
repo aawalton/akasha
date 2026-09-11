@@ -1,14 +1,14 @@
 import { resolve } from "node:path"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { readInventoryFileArgs } from "akasha/commands/modules/inventory-file-arguing/inventory-file-arguing.module.code.ts"
+import { numSaid } from "akasha/commands/modules/inventory-trace-saying/inventory-trace-saying.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { savedVariablesRootSchema } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
 import { luaArrayOrEmpty } from "akasha/temper/saved-variables/lua-array/lua-array.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import { z } from "zod"
-import type { Answer, Given } from "../../../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../../../modules/fault-saying/fault-saying.module.code.ts"
-import { readInventoryFileArgs } from "../../../../../modules/inventory-file-arguing/inventory-file-arguing.module.code.ts"
-import { numSaid } from "../../../../../modules/inventory-trace-saying/inventory-trace-saying.module.code.ts"
 
 const INPUT = 1
 

@@ -1,13 +1,13 @@
-import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-import { pointsTotalKept } from "../../../../alan/attributes/points/attribute-points.module.code.ts"
-import { levelOf } from "../../../../alan/attributes/properties/attribute-level.computed-property.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { pointsTotalKept } from "akasha/alan/attributes/points/attribute-points.module.code.ts"
+import { levelOf } from "akasha/alan/attributes/properties/attribute-level.computed-property.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   flooredTo,
   linesOf,
   type Measured,
   PLACES,
-} from "../../../modules/measure-tabling/measure-tabling.module.code.ts"
+} from "akasha/commands/modules/measure-tabling/measure-tabling.module.code.ts"
+import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 
 const READOUT = "readout"
 

@@ -8,8 +8,8 @@ import {
   type Topic,
   topicTreeIn,
 } from "akasha/alan/library/book-of-everything/topic-tree/topic-tree.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const INPUT = 1
 

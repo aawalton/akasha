@@ -1,7 +1,11 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
-import { MECHANICAL } from "../../../modules/calling/calling.module.test-fixtures.ts"
-import { BODYWEIGHT, poundsIn, trackWeight } from "./track-weight.command.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { MECHANICAL } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
+import {
+  BODYWEIGHT,
+  poundsIn,
+  trackWeight,
+} from "akasha/commands/pages/track/weight/track-weight.command.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",

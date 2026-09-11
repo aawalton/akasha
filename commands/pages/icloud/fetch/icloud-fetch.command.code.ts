@@ -14,8 +14,8 @@ import {
   parseShareToken,
   resolveOutputDir,
 } from "akasha/alan/harness/icloud-photos/album-pulling/album-pulling.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 
 const URL_FLAG = "--url"
 

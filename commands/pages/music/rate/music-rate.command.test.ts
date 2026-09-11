@@ -2,12 +2,12 @@ import { expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import type { Applied } from "../../../modules/applying/applying.module.code.ts"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
-import { refusingWith } from "../../../modules/calling/calling.module.test-fixtures.ts"
-import type { Refused } from "../../../modules/landing/landing.module.code.ts"
-import { rootOf } from "../../../modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "../../../modules/scratching/scratching.module.code.ts"
+import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refusingWith } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
+import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   ARTIST,
   type Landing,
@@ -17,7 +17,7 @@ import {
   taken,
   valuesFor,
   WRITE,
-} from "./music-rate.command.code.ts"
+} from "akasha/commands/pages/music/rate/music-rate.command.code.ts"
 
 const scratch = scratchWorld()
 

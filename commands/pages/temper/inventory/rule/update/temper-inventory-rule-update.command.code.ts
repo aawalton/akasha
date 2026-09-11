@@ -1,4 +1,4 @@
-import { bulkUpdateCategoryRules } from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ACTIVE,
   answering,
@@ -17,15 +17,15 @@ import {
   toldOf,
   unfound,
   webIn,
-} from "../../../../../../temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   narrowItemAction,
   narrowMoveToDestination,
   narrowStockScope,
   parseConditionsJson,
   parseDestinationChainJson,
-} from "../../../../../../temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
-import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
+} from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+import { bulkUpdateCategoryRules } from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-rule-update"
 

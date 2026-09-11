@@ -1,16 +1,16 @@
 import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, readFileSync, rmSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { notices, render } from "akasha/seat-system/compose-notices/compose-notices.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   OUT,
   pathOf,
   readIn,
   saidOf,
   seatComposeNotices,
-} from "./seat-compose-notices.command.code.ts"
+} from "akasha/commands/pages/seat/compose-notices/seat-compose-notices.command.code.ts"
+import { notices, render } from "akasha/seat-system/compose-notices/compose-notices.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const ROOT = resolve(import.meta.dir, "../../..")
 

@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import { RELATIONSHIP, saidEachFor } from "../session-rows/session-rows.module.code.ts"
 import {
   aliasesIn,
   carriedIn,
@@ -10,7 +9,11 @@ import {
   taggedFor,
   termOf,
   tokensIn,
-} from "./session-relationships.module.code.ts"
+} from "akasha/commands/pages/track/session/check/session-relationships/session-relationships.module.code.ts"
+import {
+  RELATIONSHIP,
+  saidEachFor,
+} from "akasha/commands/pages/track/session/check/session-rows/session-rows.module.code.ts"
 
 const ROOT = "/var/home/walton/repos/akasha"
 

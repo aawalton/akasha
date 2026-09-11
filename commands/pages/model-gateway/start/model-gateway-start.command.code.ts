@@ -1,4 +1,4 @@
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   type Asked,
   agentIdFor,
@@ -8,7 +8,7 @@ import {
   RUN_SEAMS,
   saidOf,
   startedOn,
-} from "./proxy-run/proxy-run.module.code.ts"
+} from "akasha/commands/pages/model-gateway/start/proxy-run/proxy-run.module.code.ts"
 
 const INPUT = 1
 

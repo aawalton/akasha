@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { pathIn, shownOf } from "./change-show.command.code.ts"
+import { pathIn, shownOf } from "akasha/commands/pages/change/show/change-show.command.code.ts"
 
 const ROOT = "/repo"
 

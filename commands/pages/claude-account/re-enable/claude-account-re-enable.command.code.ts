@@ -1,11 +1,11 @@
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   markedIn,
   subscriptionMarks,
-} from "../../../../agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 const TAKES_ONE = "this takes one account and no more, named as its page is named"
 

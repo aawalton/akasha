@@ -1,11 +1,11 @@
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { taking } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
+import { subagentIn } from "akasha/commands/modules/change-arguing/change-arguing.module.code.ts"
+import { noPageSaid } from "akasha/commands/modules/change-running/change-running.module.code.ts"
+import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { taking } from "../../../modules/change-acting/change-acting.module.code.ts"
-import { subagentIn } from "../../../modules/change-arguing/change-arguing.module.code.ts"
-import { noPageSaid } from "../../../modules/change-running/change-running.module.code.ts"
-import { inputIn } from "../../../modules/piping/piping.module.code.ts"
-import { mistaking } from "../../../modules/refusing/refusing.module.code.ts"
 
 const TAKES = "take"
 

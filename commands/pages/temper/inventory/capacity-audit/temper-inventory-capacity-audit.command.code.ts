@@ -1,13 +1,13 @@
 import { resolve } from "node:path"
-import type { CapacityAudit } from "akasha/temper/items-rules-routing/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   capacityFilter,
   planInputs,
   ruleMatcher,
-} from "../../../../../temper/commands/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
-import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
+} from "akasha/temper/commands/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
+import type { CapacityAudit } from "akasha/temper/items-rules-routing/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
 
 const INPUT = 1
 

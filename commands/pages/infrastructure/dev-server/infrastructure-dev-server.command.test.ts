@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
-import { readIn } from "./dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
-import { infrastructureDevServer } from "./infrastructure-dev-server.command.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { readIn } from "akasha/commands/pages/infrastructure/dev-server/dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
+import { infrastructureDevServer } from "akasha/commands/pages/infrastructure/dev-server/infrastructure-dev-server.command.code.ts"
 
 const root = join(import.meta.dir, "..", "..", "..", "..")
 

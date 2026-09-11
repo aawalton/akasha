@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { type Drawn, measuredIn } from "./measure-attributes.command.code.ts"
+import {
+  type Drawn,
+  measuredIn,
+} from "akasha/commands/pages/measure/attributes/measure-attributes.command.code.ts"
 
 const DRAWN: readonly Drawn[] = [
   { label: "Strength", place: 1, attributeSlug: "strength" },

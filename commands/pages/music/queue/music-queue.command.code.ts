@@ -11,16 +11,16 @@ import {
   addToQueue,
   startResumePlayback,
 } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../modules/calling/calling.module.code.ts"
-import type { Read, Starting } from "../play/music-play.command.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Read, Starting } from "akasha/commands/pages/music/play/music-play.command.code.ts"
 import {
   ARTIST,
   DEVICE_ID,
   JSON_FLAG,
   readingArgv,
   startedOn,
-} from "../play/music-play.command.code.ts"
+} from "akasha/commands/pages/music/play/music-play.command.code.ts"
 
 const INPUT = 1
 

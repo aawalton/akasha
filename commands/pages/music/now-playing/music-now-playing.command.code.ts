@@ -2,8 +2,8 @@ import {
   getCurrentlyPlaying,
   getPlaybackState,
 } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../modules/calling/calling.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const INPUT = 1
 

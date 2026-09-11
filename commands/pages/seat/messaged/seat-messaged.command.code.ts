@@ -1,3 +1,8 @@
+import {
+  raiseMessages,
+  sentIn,
+} from "akasha/alan/track/daily/day-messages/day-messages.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import {
   keepPointsToday,
@@ -7,11 +12,6 @@ import {
   keepLastMessagedAt,
   personaOr,
 } from "akasha/personas/reading/persona-reading.module.code.ts"
-import {
-  raiseMessages,
-  sentIn,
-} from "../../../../alan/track/daily/day-messages/day-messages.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 
 const SEAT = "seat"
 

@@ -1,13 +1,13 @@
 import { existsSync } from "node:fs"
 import { mkdir, mkdtemp, rm, stat } from "node:fs/promises"
 import { dirname, join } from "node:path"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { DEFAULT_CLUSTER_NAME } from "akasha/infrastructure/cluster/provisioning/talos/nodes/nodes.module.code.ts"
 import { clusterSecretsSopsPath } from "akasha/infrastructure/cluster/provisioning/talos/paths/paths.module.code.ts"
 import { encryptFile } from "akasha/infrastructure/cluster/provisioning/talos/sops/sops.module.code.ts"
 import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/talosctl/talosctl.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
-import { SCRATCH_AT } from "../../../modules/scratching/scratching.module.code.ts"
 
 export const CLUSTER = "--cluster"
 

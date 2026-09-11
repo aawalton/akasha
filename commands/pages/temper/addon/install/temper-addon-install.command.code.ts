@@ -1,6 +1,8 @@
 import { createHash } from "node:crypto"
 import { cpSync, existsSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { CONSOLIDATION_MIGRATIONS } from "akasha/temper/addon-build/consolidation-migrations/consolidation-migrations.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
@@ -22,6 +24,10 @@ import {
   siblingDistDir,
 } from "akasha/temper/addons-resolve/sibling-addons/sibling-addons.module.code.ts"
 import {
+  saidFor,
+  saidShort,
+} from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+import {
   addonsDir,
   savedVarsDir,
 } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
@@ -34,12 +40,6 @@ import {
   type ConsolidationMigration,
   migrateAddonSavedVars,
 } from "akasha/temper/saved-vars-migration/saved-vars-migration/saved-vars-migration.module.code.ts"
-import {
-  saidFor,
-  saidShort,
-} from "../../../../../temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
-import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
-import { answering, refused } from "../../../../modules/calling/calling.module.code.ts"
 
 const DATA = 2
 const FAILED = 3

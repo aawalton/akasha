@@ -4,20 +4,20 @@ import {
   renderAuditReading,
   summarizeAudit,
 } from "akasha/checks/modules/audit-reading/audit-reading.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
-import { parseEsoDocApiVersion } from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
-import { esouiDocPath } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import {
   buildEsoClonePopulation,
   WALK_ROOT,
-} from "../../../../../temper/build-deploy-checks/eso-clone-artifacts/eso-clone-artifacts.module.code.ts"
-import type { StampedArtifact } from "../../../../../temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
+} from "akasha/temper/build-deploy-checks/eso-clone-artifacts/eso-clone-artifacts.module.code.ts"
+import type { StampedArtifact } from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
 import {
   saidFor,
   saidShort,
-} from "../../../../../temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
-import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
-import { answering, refused } from "../../../../modules/calling/calling.module.code.ts"
+} from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+import { parseEsoDocApiVersion } from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
+import { esouiDocPath } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 
 const OPERATIONAL = 3
 

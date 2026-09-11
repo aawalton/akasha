@@ -1,3 +1,4 @@
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   answering,
   JSON_FLAG,
@@ -7,12 +8,11 @@ import {
   shapeOf,
   toldOf,
   toldRows,
-} from "../../../../../../temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   ITEM_RULE_COLUMNS,
   itemRuleRow,
-} from "../../../../../../temper/commands/inventory-rule-rows/inventory-rule-rows.module.code.ts"
-import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
+} from "akasha/temper/commands/inventory-rule-rows/inventory-rule-rows.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-item-rule-list"
 

@@ -1,8 +1,8 @@
 import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import type { Applied } from "../../../modules/applying/applying.module.code.ts"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
-import type { Refused } from "../../../modules/landing/landing.module.code.ts"
-import { rootOf } from "../../../modules/rooting/rooting.module.code.ts"
+import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   changesFor,
   heardPageIn,
@@ -13,7 +13,7 @@ import {
   type Plays,
   plannedOver,
   WRITE,
-} from "./music-capture.command.code.ts"
+} from "akasha/commands/pages/music/capture/music-capture.command.code.ts"
 
 export const ROOT = rootOf(process.cwd())
 

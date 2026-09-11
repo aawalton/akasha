@@ -1,9 +1,9 @@
+import { linesOf, windowIn } from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
-  linesOf,
-  windowIn,
-} from "../../../../checks/modules/measuring/check-measuring.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { CHANGE, costsIn } from "./change-measuring/change-measuring.module.code.ts"
+  CHANGE,
+  costsIn,
+} from "akasha/commands/pages/measure/changes/change-measuring/change-measuring.module.code.ts"
 
 export function measureChanges(argv: readonly string[], given: Given): Answer {
   const chose = windowIn(argv)

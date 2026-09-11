@@ -5,19 +5,19 @@ import {
   type Asking,
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import {
+  saidFor,
+  saidShort,
+} from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 import { parseEsoDocApiVersion } from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 import { esouiDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import type { HudComponentRecord } from "akasha/temper/hud-components/hud-component-record/hud-component-record.module.code.ts"
 import { HUD_SCENE_CATALOG_SCHEMA } from "akasha/temper/hud-components/hud-component-record/hud-component-record.module.code.ts"
 import { buildCatalog } from "akasha/temper/hud-components/hud-scene-parse/hud-scene-parse.module.code.ts"
 import { HUD_SCENE_SOURCE } from "akasha/temper/hud-components/hud-scene-source/hud-scene-source.module.code.ts"
-import {
-  saidFor,
-  saidShort,
-} from "../../../../../../temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
-import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
-import { answering, refused } from "../../../../../modules/calling/calling.module.code.ts"
 
 const DATA = 2
 

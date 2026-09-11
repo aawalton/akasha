@@ -1,13 +1,17 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { said as git } from "../../../../../git/running/git-running.module.code.ts"
-import type { Given } from "../../../../modules/calling/calling.module.code.ts"
-import { MECHANICAL } from "../../../../modules/calling/calling.module.test-fixtures.ts"
-import { baseOf } from "../../../../modules/landing/landing.module.code.ts"
-import { scratch } from "../../../../modules/landing/landing.module.test-fixtures.ts"
-import { DAY, dayRepo, ROWS_AT } from "../check/session-rows/session-rows.module.test-fixtures.ts"
-import { trackSessionLog } from "./track-session-log.command.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { MECHANICAL } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
+import { baseOf } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { scratch } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
+import {
+  DAY,
+  dayRepo,
+  ROWS_AT,
+} from "akasha/commands/pages/track/session/check/session-rows/session-rows.module.test-fixtures.ts"
+import { trackSessionLog } from "akasha/commands/pages/track/session/log/track-session-log.command.code.ts"
+import { said as git } from "akasha/git/running/git-running.module.code.ts"
 
 afterAll(scratch.sweep)
 

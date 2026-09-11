@@ -5,16 +5,16 @@ import {
   loadSessionState,
 } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
 import {
-  type Reading,
-  wordsIn,
-} from "../../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
-import {
   answering,
   flagsAloneIn,
   refusedBy,
   told,
-} from "../../../../modules/answering/command-answering.module.code.ts"
-import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  type Reading,
+  wordsIn,
+} from "akasha/mobile-commands/mobile-answering/mobile-answering.module.code.ts"
 
 const STOP_APPIUM = "--stop-appium"
 

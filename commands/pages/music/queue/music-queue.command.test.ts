@@ -1,9 +1,12 @@
 import { expect, test } from "bun:test"
 import { DataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { ResolvedTrack } from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
-import type { StartResumeOptions } from "../play/music-play.command.code.ts"
-import type { DeviceOption, Queueing } from "./music-queue.command.code.ts"
-import { queueing } from "./music-queue.command.code.ts"
+import type { StartResumeOptions } from "akasha/commands/pages/music/play/music-play.command.code.ts"
+import type {
+  DeviceOption,
+  Queueing,
+} from "akasha/commands/pages/music/queue/music-queue.command.code.ts"
+import { queueing } from "akasha/commands/pages/music/queue/music-queue.command.code.ts"
 
 function trackFor(name: string, artist: string): ResolvedTrack {
   return { name, uri: `spotify:track:${name}`, id: name, artists: [artist] }

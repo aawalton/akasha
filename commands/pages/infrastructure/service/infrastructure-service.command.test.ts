@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
-import { infrastructureService } from "./infrastructure-service.command.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { infrastructureService } from "akasha/commands/pages/infrastructure/service/infrastructure-service.command.code.ts"
 
 function given(root: string): Given {
   return {

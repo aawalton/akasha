@@ -1,19 +1,19 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import {
-  listedFiled,
-  valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { rootOf } from "../../../../modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "../../../../modules/scratching/scratching.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   domainsIn,
   type Entry,
   heldBy,
   kindsUnderDomain,
   treeLines,
-} from "./domain-drawing.module.code.ts"
+} from "akasha/commands/pages/domain/dag/domain-drawing/domain-drawing.module.code.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const ROOT = rootOf(import.meta.path)
 

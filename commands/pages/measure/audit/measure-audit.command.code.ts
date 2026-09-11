@@ -2,8 +2,8 @@ import {
   costsIn,
   linesOf,
   windowIn,
-} from "../../../../checks/modules/measuring/check-measuring.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+} from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 export function measureAudit(argv: readonly string[], given: Given): Answer {
   const chose = windowIn(argv)

@@ -1,13 +1,13 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { holding } from "akasha/commands/modules/holding/holding.module.code.ts"
+import { told as gitTold } from "akasha/git/running/git-running.module.code.ts"
 import { rebuiltWhole } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Drift } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
-import { told as gitTold } from "../../../../git/running/git-running.module.code.ts"
-import { counted } from "../../../../utils/text/counted/counted.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
-import { holding } from "../../../modules/holding/holding.module.code.ts"
+import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 
 export const DRY_RUN = "--dry-run"
 

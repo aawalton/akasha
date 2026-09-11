@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
-import { seatReset } from "./seat-reset.command.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { seatReset } from "akasha/commands/pages/seat/reset/seat-reset.command.code.ts"
 
 function given(root: string): Given {
   return { root, calledAs: "akasha seat reset", from: root, writer: null, agentId: null }

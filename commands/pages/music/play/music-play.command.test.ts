@@ -7,8 +7,11 @@ import type {
   ResolvableTrack,
   ResolvedTrack,
 } from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
-import type { Playing, StartResumeOptions } from "./music-play.command.code.ts"
-import { playing, readingArgv } from "./music-play.command.code.ts"
+import type {
+  Playing,
+  StartResumeOptions,
+} from "akasha/commands/pages/music/play/music-play.command.code.ts"
+import { playing, readingArgv } from "akasha/commands/pages/music/play/music-play.command.code.ts"
 
 const MOTION: ResolvedTrack = {
   name: "Motion Sickness",

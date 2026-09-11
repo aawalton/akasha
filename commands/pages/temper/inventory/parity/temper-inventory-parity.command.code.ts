@@ -1,5 +1,20 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import type { CharacterKnowledge } from "akasha/temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import {
+  allBagItems,
+  explainCapabilities,
+  resolveItemFromInventory,
+} from "akasha/temper/commands/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
+import {
+  type MatchedRoute,
+  type ParityAddonTrace,
+  parityAddonTrace,
+  parityRouting,
+} from "akasha/temper/commands/inventory-parity-capabilities/inventory-parity-capabilities.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type {
@@ -8,21 +23,6 @@ import type {
 } from "akasha/temper/items-rules-eval/eval-result/eval-result.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import type { CharacterKnowledge } from "../../../../../temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
-import {
-  allBagItems,
-  explainCapabilities,
-  resolveItemFromInventory,
-} from "../../../../../temper/commands/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
-import {
-  type MatchedRoute,
-  type ParityAddonTrace,
-  parityAddonTrace,
-  parityRouting,
-} from "../../../../../temper/commands/inventory-parity-capabilities/inventory-parity-capabilities.module.code.ts"
-import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const INPUT = 1
 

@@ -1,5 +1,4 @@
-import type { Given } from "../../../../modules/calling/calling.module.code.ts"
-import { namesDrawn } from "../../../infrastructure/service/name-drawing/name-drawing.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   heldOnce,
   numberIn as numbered,
@@ -8,7 +7,8 @@ import {
   type Shape,
   textIn,
   wholeIn,
-} from "../flag-arguing/flag-arguing.module.code.ts"
+} from "akasha/commands/pages/inference/wan/flag-arguing/flag-arguing.module.code.ts"
+import { namesDrawn } from "akasha/commands/pages/infrastructure/service/name-drawing/name-drawing.module.code.ts"
 
 export const GENERATE = "generate"
 

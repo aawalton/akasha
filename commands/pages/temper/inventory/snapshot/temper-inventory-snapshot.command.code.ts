@@ -2,6 +2,9 @@ import { existsSync } from "node:fs"
 import { readFile, writeFile } from "node:fs/promises"
 import { join, resolve } from "node:path"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   listedAt,
@@ -9,9 +12,6 @@ import {
   slugsOfType,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const INPUT = 1
 

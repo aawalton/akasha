@@ -1,15 +1,15 @@
 import { MUSIC_RATINGS } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { textAt } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import { type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { textAt } from "../../../modules/body-reaching/body-reaching.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { answering, refused } from "../../../modules/calling/calling.module.code.ts"
-import { mistaking } from "../../../modules/refusing/refusing.module.code.ts"
 
 const INPUT = 1
 

@@ -1,4 +1,4 @@
-import type { Namespace } from "../../namespaces/namespace.page-type.types.ts"
+import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.types.ts"
 
 export const seat = {
   id: "01a0797a-9a06-74a3-9d34-57124a4d5b45",

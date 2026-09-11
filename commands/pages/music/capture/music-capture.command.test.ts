@@ -2,8 +2,7 @@ import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import { refusingWith } from "../../../modules/calling/calling.module.test-fixtures.ts"
+import { refusingWith } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
 import {
   appendedOnto,
   askingFor,
@@ -20,7 +19,7 @@ import {
   rowsOf,
   taken,
   WRITE,
-} from "./music-capture.command.code.ts"
+} from "akasha/commands/pages/music/capture/music-capture.command.code.ts"
 import {
   bodyAt,
   changesOver,
@@ -41,7 +40,8 @@ import {
   ROOT,
   TOLD_NOTHING,
   type Told,
-} from "./music-capture.command.test-fixtures.ts"
+} from "akasha/commands/pages/music/capture/music-capture.command.test-fixtures.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 
 const refusalOf = refusingWith(taken)
 

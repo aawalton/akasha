@@ -1,13 +1,13 @@
-import { emailGoogle } from "akasha/alan/google/email/email-operations/email-operations.module.code.ts"
-import { readGoogleOauthAppCredentials } from "akasha/alan/google/oauth/oauth-app-credentials/oauth-app-credentials.module.code.ts"
-import { googleOauthConsentSaying } from "akasha/alan/google/oauth/oauth-consent/oauth-consent.module.code.ts"
 import {
   answeredBy,
   type Read,
   readTaking,
   refusing,
-} from "../../../../alan/google/email/email-command-reading/email-command-reading.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+} from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
+import { emailGoogle } from "akasha/alan/google/email/email-operations/email-operations.module.code.ts"
+import { readGoogleOauthAppCredentials } from "akasha/alan/google/oauth/oauth-app-credentials/oauth-app-credentials.module.code.ts"
+import { googleOauthConsentSaying } from "akasha/alan/google/oauth/oauth-consent/oauth-consent.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const CALLBACK_URL = "--callback-url"
 

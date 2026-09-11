@@ -1,15 +1,15 @@
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import type { Answer, Given } from "../../../../../modules/calling/calling.module.code.ts"
-import { filing } from "../../../../../modules/mechanical-filing/mechanical-filing.module.code.ts"
-import { mistaking } from "../../../../../modules/refusing/refusing.module.code.ts"
-import { SCRATCH_AT } from "../../../../../modules/scratching/scratching.module.code.ts"
-import type { ActivityDifficulty } from "../../amend/session-leveling/session-leveling.module.code.ts"
-import type { RelationshipPage } from "../../check/session-relationships/session-relationships.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { filing } from "akasha/commands/modules/mechanical-filing/mechanical-filing.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import type { ActivityDifficulty } from "akasha/commands/pages/track/session/amend/session-leveling/session-leveling.module.code.ts"
+import type { RelationshipPage } from "akasha/commands/pages/track/session/check/session-relationships/session-relationships.module.code.ts"
 import {
   relationshipsFor,
   relationshipsIn,
-} from "../../check/session-relationships/session-relationships.module.code.ts"
+} from "akasha/commands/pages/track/session/check/session-relationships/session-relationships.module.code.ts"
 import {
   activitiesIn,
   BARE,
@@ -22,13 +22,16 @@ import {
   type Row,
   saidFor,
   VALUED,
-} from "../../check/session-rows/session-rows.module.code.ts"
+} from "akasha/commands/pages/track/session/check/session-rows/session-rows.module.code.ts"
 import {
   besideArgv,
   type Landing,
   pathUnder,
-} from "../../file/day-landing/day-landing.module.code.ts"
-import { dayBefore, sleeping } from "../../switch/waking/waking.module.code.ts"
+} from "akasha/commands/pages/track/session/file/day-landing/day-landing.module.code.ts"
+import {
+  dayBefore,
+  sleeping,
+} from "akasha/commands/pages/track/session/switch/waking/waking.module.code.ts"
 
 export type Standing = {
   readonly day: string

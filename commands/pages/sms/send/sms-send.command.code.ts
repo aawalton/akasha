@@ -1,24 +1,24 @@
-import { requireEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import {
   JSON_SAID,
   proseIn,
   type Reading,
   TEXT,
   wordsIn,
-} from "../../../../alan/harness/sms-core/sms-command-reading/sms-command-reading.module.code.ts"
+} from "akasha/alan/harness/sms-core/sms-command-reading/sms-command-reading.module.code.ts"
 import {
   buildTelnyxSendRequest,
   parseTelnyxSendResponse,
-} from "../../../../alan/harness/sms-core/telnyx-send/telnyx-send.module.code.ts"
+} from "akasha/alan/harness/sms-core/telnyx-send/telnyx-send.module.code.ts"
 import {
   answering,
   asJson,
   OPERATIONAL,
   refusedBy,
   told,
-} from "../../../modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { wordFilling } from "../../../modules/filling/command-filling.module.code.ts"
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { wordFilling } from "akasha/commands/modules/filling/command-filling.module.code.ts"
+import { requireEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const TO = "--to"
 

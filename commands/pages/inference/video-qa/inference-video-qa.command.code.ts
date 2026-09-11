@@ -2,6 +2,13 @@ import { mkdtemp, readdir, readFile, rm } from "node:fs/promises"
 import { join } from "node:path"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
+  answering,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import {
   buildFrameExtractArgs,
   buildVideoQaRequest,
   MLX_VLM_MODEL,
@@ -11,14 +18,6 @@ import {
   toPngDataUrl,
 } from "akasha/inference/clients/mlx-vlm-client/mlx-vlm-client.module.code.ts"
 import {
-  buildInferenceRunRecord,
-  sha256Hex,
-} from "akasha/inference/runs/record/inference-run-record.module.code.ts"
-import {
-  finishInferenceRun,
-  startInferenceRun,
-} from "akasha/inference/runs/store/inference-run-store.module.code.ts"
-import {
   calledAs,
   countAt,
   heldOr,
@@ -26,14 +25,15 @@ import {
   serviceNamed,
   wasRefused,
   wordsIn,
-} from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
+} from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
 import {
-  answering,
-  refusedBy,
-  told,
-} from "../../../modules/answering/command-answering.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
-import { SCRATCH_AT } from "../../../modules/scratching/scratching.module.code.ts"
+  buildInferenceRunRecord,
+  sha256Hex,
+} from "akasha/inference/runs/record/inference-run-record.module.code.ts"
+import {
+  finishInferenceRun,
+  startInferenceRun,
+} from "akasha/inference/runs/store/inference-run-store.module.code.ts"
 
 const VIDEO = "--video"
 

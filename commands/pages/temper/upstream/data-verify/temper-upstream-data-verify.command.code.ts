@@ -1,5 +1,7 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { verifyHousing } from "akasha/temper/upstream-data/housing-upstream-verify/housing-upstream-verify.module.code.ts"
 import { verifyMapData } from "akasha/temper/upstream-data/map-data-upstream-verify/map-data-upstream-verify.module.code.ts"
@@ -14,9 +16,7 @@ import {
   UPSTREAM_LIBRARIES,
 } from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
 import { verifyZone } from "akasha/temper/upstream-data/zone-upstream-verify/zone-upstream-verify.module.code.ts"
-import { saidBy } from "../../../../../utils/narrow/said-by/said-by.module.code.ts"
-import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
-import { answering, refused } from "../../../../modules/calling/calling.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const DATA = 2
 const FAILED = 3

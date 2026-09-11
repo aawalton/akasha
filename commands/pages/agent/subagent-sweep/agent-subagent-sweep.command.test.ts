@@ -1,13 +1,11 @@
 import { expect, test } from "bun:test"
-import { pagesIn } from "akasha/seat-system/subagent-census/subagent-census.module.code.ts"
-import { entry } from "../../../../seat-system/seat-proc-liveness/seat-proc-liveness.module.test-fixtures.ts"
-import { scratchWorld } from "../../../modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   agentSubagentSweep,
   runningOwnIn,
   type SeatTranscripts,
   TAKE,
-} from "./agent-subagent-sweep.command.code.ts"
+} from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
 import {
   AGAIN,
   agentIdOf,
@@ -31,7 +29,9 @@ import {
   takeLine,
   there,
   UNREADABLE,
-} from "./agent-subagent-sweep.command.test-fixtures.ts"
+} from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"
+import { entry } from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.test-fixtures.ts"
+import { pagesIn } from "akasha/seat-system/subagent-census/subagent-census.module.code.ts"
 
 const ACTING = agentIdOf(SEAT_ID, OWN)
 

@@ -1,4 +1,17 @@
 import {
+  countIn,
+  missingOf,
+  wordsIn,
+} from "akasha/code-system/browser/commands/browser-command-arguing/browser-command-arguing.module.code.ts"
+import {
+  classifyExpectedText,
+  decideDiscriminatingSignal,
+  isRetryableSessionOpenTimeout,
+  planRenderSettleWait,
+  planTitleSettleWait,
+  planVerifyRenderSession,
+} from "akasha/code-system/browser/commands/verify-render-plan/verify-render-plan.module.code.ts"
+import {
   readBrowserTestEnv,
   readRealUserOptInEnv,
 } from "akasha/code-system/browser/test-harness/browser-test-env/browser-test-env.module.code.ts"
@@ -17,21 +30,8 @@ import {
   createReadOnlyRealUserHarness,
   createReadOnlyThrowawayHarness,
 } from "akasha/code-system/browser/test-harness/read-only-harness/read-only-harness.module.code.ts"
-import {
-  countIn,
-  missingOf,
-  wordsIn,
-} from "../../../../code-system/browser/commands/browser-command-arguing/browser-command-arguing.module.code.ts"
-import {
-  classifyExpectedText,
-  decideDiscriminatingSignal,
-  isRetryableSessionOpenTimeout,
-  planRenderSettleWait,
-  planTitleSettleWait,
-  planVerifyRenderSession,
-} from "../../../../code-system/browser/commands/verify-render-plan/verify-render-plan.module.code.ts"
-import { refusedBy } from "../../../modules/answering/command-answering.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+import { refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const URL_SAID = "--url"
 

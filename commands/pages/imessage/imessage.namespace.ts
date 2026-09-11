@@ -1,4 +1,4 @@
-import type { Namespace } from "../../namespaces/namespace.page-type.types.ts"
+import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.types.ts"
 
 export const imessage = {
   id: "01a07962-b0fa-7141-ae89-2d50447947d2",

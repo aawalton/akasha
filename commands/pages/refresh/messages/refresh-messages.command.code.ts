@@ -1,8 +1,8 @@
 import {
   mineMessages,
   saidOf,
-} from "../../../../alan/track/daily/day-messages-mining/day-messages-mining.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+} from "akasha/alan/track/daily/day-messages-mining/day-messages-mining.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const NOTHING_COUNTED =
   "no transcript on this machine holds a message Alan wrote a persona, so no day was counted. A " +

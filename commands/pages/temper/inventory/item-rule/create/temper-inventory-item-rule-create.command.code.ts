@@ -1,9 +1,4 @@
-import { narrowDestination } from "akasha/temper/items-rules-core/inventory-destination-parse/inventory-destination-parse.module.code.ts"
-import {
-  addItemRule,
-  bulkUpdateItemRules,
-} from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
-import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ACTIVE,
   answering,
@@ -20,9 +15,14 @@ import {
   toldOf,
   webIn,
   wholeOf,
-} from "../../../../../../temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
-import { narrowItemAction } from "../../../../../../temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
-import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
+} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+import { narrowItemAction } from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+import { narrowDestination } from "akasha/temper/items-rules-core/inventory-destination-parse/inventory-destination-parse.module.code.ts"
+import {
+  addItemRule,
+  bulkUpdateItemRules,
+} from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
+import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-item-rule-create"
 

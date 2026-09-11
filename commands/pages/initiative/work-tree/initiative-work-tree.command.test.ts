@@ -1,9 +1,5 @@
 import { expect, test } from "bun:test"
-import type {
-  InitiativeIntent,
-  InitiativeRow,
-} from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   colorsSaid,
   countOf,
@@ -12,7 +8,11 @@ import {
   render,
   treeOf,
   walk,
-} from "./initiative-work-tree.command.code.ts"
+} from "akasha/commands/pages/initiative/work-tree/initiative-work-tree.command.code.ts"
+import type {
+  InitiativeIntent,
+  InitiativeRow,
+} from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
 
 const ROOT = "/nowhere"
 

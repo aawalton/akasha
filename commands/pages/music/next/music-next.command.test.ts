@@ -2,9 +2,7 @@ import { expect, test } from "bun:test"
 import type { Catalog } from "akasha/alan/music/choosing/music-exploration/music-exploration.module.code.ts"
 import { selectNextExploration } from "akasha/alan/music/choosing/music-exploration/music-exploration.module.code.ts"
 import { MUSIC_RATINGS } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
-import { indexThere } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   catalogIn,
   gradeAmiss,
@@ -12,7 +10,9 @@ import {
   saidOf,
   selectionOf,
   undeclaredIn,
-} from "./music-next.command.code.ts"
+} from "akasha/commands/pages/music/next/music-next.command.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { indexThere } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const ROOT = codeRoot()
 

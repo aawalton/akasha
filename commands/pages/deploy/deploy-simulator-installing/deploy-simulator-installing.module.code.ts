@@ -4,11 +4,11 @@ import {
   type Plan,
   planFor,
 } from "akasha/code-system/ios-apps/app-building/app-building.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { ran as running } from "akasha/utils/run/running/running.module.code.ts"
 import { z } from "zod"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { SCRATCH_AT } from "../../../modules/scratching/scratching.module.code.ts"
 
 const DATA = 2
 

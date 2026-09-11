@@ -1,7 +1,11 @@
-import { writeDailyReading } from "../../../../alan/track/daily/write-daily-points/write-daily-points.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { mistaking } from "../../../modules/refusing/refusing.module.code.ts"
-import { DAY, dayNow, saidFor } from "../session/check/session-rows/session-rows.module.code.ts"
+import { writeDailyReading } from "akasha/alan/track/daily/write-daily-points/write-daily-points.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import {
+  DAY,
+  dayNow,
+  saidFor,
+} from "akasha/commands/pages/track/session/check/session-rows/session-rows.module.code.ts"
 
 export const BODYWEIGHT = "--bodyweight"
 

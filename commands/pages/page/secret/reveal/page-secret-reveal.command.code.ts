@@ -1,12 +1,12 @@
-import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   aiming,
   caught,
   FILE_PATH,
   KEY,
   wrongData,
-} from "../../../../../pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
-import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
+} from "akasha/pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
+import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
 
 export async function pageSecretReveal(argv: readonly string[], given: Given): Promise<Answer> {
   return await caught(() => {

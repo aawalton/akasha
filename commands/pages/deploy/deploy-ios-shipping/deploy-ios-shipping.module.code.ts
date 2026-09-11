@@ -13,11 +13,11 @@ import {
   shellRepoRoot,
 } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { runTestflightCut } from "akasha/alan/harness/mobile-cli/testflight-cut/testflight-cut.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { pushBranch } from "akasha/git/pushing/git-pushing.module.code.ts"
+import { said } from "akasha/git/running/git-running.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
-import { said } from "../../../../git/running/git-running.module.code.ts"
-import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const INPUT = 1
 

@@ -1,16 +1,16 @@
-import { reconcile } from "akasha/inference/pool/inference-reconcile/inference-reconcile.module.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
-import {
-  keyedLines,
-  wasRefused,
-  wordsIn,
-} from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
 import {
   answering,
   refusedBy,
   told,
-} from "../../../modules/answering/command-answering.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  keyedLines,
+  wasRefused,
+  wordsIn,
+} from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
+import { reconcile } from "akasha/inference/pool/inference-reconcile/inference-reconcile.module.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 export async function inferencePlan(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, [], [])

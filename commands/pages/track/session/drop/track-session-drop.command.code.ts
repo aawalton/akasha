@@ -1,18 +1,18 @@
-import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
-import { mistaking } from "../../../../modules/refusing/refusing.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import {
   addressed,
   DRY_RUN,
   faultsIn,
   MEND,
   shownOf,
-} from "../check/session-rows/session-rows.module.code.ts"
+} from "akasha/commands/pages/track/session/check/session-rows/session-rows.module.code.ts"
 import {
   landed,
   standingFor,
   taggingFor,
   telling,
-} from "../open/session-acting/session-acting.module.code.ts"
+} from "akasha/commands/pages/track/session/open/session-acting/session-acting.module.code.ts"
 
 export async function trackSessionDrop(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()

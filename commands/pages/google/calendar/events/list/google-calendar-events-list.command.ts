@@ -1,4 +1,4 @@
-import type { Command } from "../../../../../command.page-type.types.ts"
+import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const googleCalendarEventsList = {
   id: "01a08cf5-2233-7c51-b38b-a79082d4dc82",

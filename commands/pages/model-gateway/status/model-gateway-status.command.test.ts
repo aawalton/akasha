@@ -1,6 +1,11 @@
 import { expect, test } from "bun:test"
-import { driftOf, JSON_OUT, readIn, shortOf } from "./model-gateway-status.command.code.ts"
-import { modelGatewayStatus } from "./model-gateway-status.command.ts"
+import {
+  driftOf,
+  JSON_OUT,
+  readIn,
+  shortOf,
+} from "akasha/commands/pages/model-gateway/status/model-gateway-status.command.code.ts"
+import { modelGatewayStatus } from "akasha/commands/pages/model-gateway/status/model-gateway-status.command.ts"
 
 function statusRefusals(argv: readonly string[]): readonly string[] {
   const said = readIn(argv)

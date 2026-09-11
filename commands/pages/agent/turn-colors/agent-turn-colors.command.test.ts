@@ -1,14 +1,7 @@
 import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
-import {
-  colorIn,
-  WORKING_PAGE,
-} from "akasha/seat-system/seat-turn-color/seat-turn-color.module.test-fixtures.ts"
-import type { SeatTurnState } from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { z } from "zod"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   agentTurnColors,
   colorsOfStates,
@@ -16,7 +9,14 @@ import {
   readIn,
   STATE,
   statedAs,
-} from "./agent-turn-colors.command.code.ts"
+} from "akasha/commands/pages/agent/turn-colors/agent-turn-colors.command.code.ts"
+import {
+  colorIn,
+  WORKING_PAGE,
+} from "akasha/seat-system/seat-turn-color/seat-turn-color.module.test-fixtures.ts"
+import type { SeatTurnState } from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { z } from "zod"
 
 const ROOT = "/nowhere"
 

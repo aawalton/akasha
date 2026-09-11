@@ -23,8 +23,8 @@ import {
   OPERATIONAL,
   refusedBy,
   told,
-} from "../../../modules/answering/command-answering.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const CONFIGURATION = "Debug"
 

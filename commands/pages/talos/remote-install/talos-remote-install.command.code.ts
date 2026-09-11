@@ -1,3 +1,5 @@
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/build-schematic/build-schematic.module.code.ts"
 import { emitSchematicYaml } from "akasha/infrastructure/cluster/provisioning/talos/emit-yaml/emit-yaml.module.code.ts"
 import {
@@ -17,8 +19,6 @@ import type {
 } from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
 import { runSsh } from "akasha/infrastructure/cluster/provisioning/talos/ssh/ssh.module.code.ts"
 import { waitForPort } from "akasha/infrastructure/cluster/provisioning/talos/wait-for-port/wait-for-port.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
 export const NODE = "--node"
 

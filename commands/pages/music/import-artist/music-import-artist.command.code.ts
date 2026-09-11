@@ -1,28 +1,16 @@
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import {
-  composedFor,
-  type Put,
-} from "akasha/pages/service/page-composing/page-composing.module.code.ts"
-import { propertiesIfNamedOf } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { textIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { todayYYYYMMDD } from "akasha/utils/sync/today/today.module.code.ts"
-import { searchLyrics } from "../../../../alan/music/catalog/lrclib-client/lrclib-client.module.code.ts"
+import { searchLyrics } from "akasha/alan/music/catalog/lrclib-client/lrclib-client.module.code.ts"
 import {
   lyricsFieldsOf,
   pickBestLyrics,
   type SongLyrics,
-} from "../../../../alan/music/catalog/lrclib-map/lrclib-map.module.code.ts"
-import type { LrclibRecord } from "../../../../alan/music/catalog/lrclib-schema/lrclib-schema.module.code.ts"
+} from "akasha/alan/music/catalog/lrclib-map/lrclib-map.module.code.ts"
+import type { LrclibRecord } from "akasha/alan/music/catalog/lrclib-schema/lrclib-schema.module.code.ts"
 import {
   browseArtistRecordings,
   browseWorks,
   getArtist,
   searchArtist,
-} from "../../../../alan/music/catalog/musicbrainz-client/musicbrainz-client.module.code.ts"
+} from "akasha/alan/music/catalog/musicbrainz-client/musicbrainz-client.module.code.ts"
 import {
   dedupeRecordings,
   extractGenres,
@@ -33,22 +21,34 @@ import {
   performedWorkIds,
   pickBestArtist,
   type SongFields,
-} from "../../../../alan/music/catalog/musicbrainz-map/musicbrainz-map.module.code.ts"
+} from "akasha/alan/music/catalog/musicbrainz-map/musicbrainz-map.module.code.ts"
 import type {
   MbArtist,
   MbArtistSearchHit,
   MbRecording,
   MbWork,
-} from "../../../../alan/music/catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
+} from "akasha/alan/music/catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
 import {
   artistSlugOf,
   type SongNames,
   songNamesFrom,
   songSlugFor,
-} from "../../../../alan/music/catalog/song-slug/song-slug.module.code.ts"
-import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { answering, refused } from "../../../modules/calling/calling.module.code.ts"
+} from "akasha/alan/music/catalog/song-slug/song-slug.module.code.ts"
+import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  composedFor,
+  type Put,
+} from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+import { propertiesIfNamedOf } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import { todayYYYYMMDD } from "akasha/utils/sync/today/today.module.code.ts"
 
 const INPUT = 1
 

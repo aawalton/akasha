@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import { readIn, SUBJECT } from "./domain-declarations.command.code.ts"
-import { domainDeclarations } from "./domain-declarations.command.ts"
+import {
+  readIn,
+  SUBJECT,
+} from "akasha/commands/pages/domain/declarations/domain-declarations.command.code.ts"
+import { domainDeclarations } from "akasha/commands/pages/domain/declarations/domain-declarations.command.ts"
 
 function refusedIn(argv: readonly string[]): string {
   const read = readIn(argv)

@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { temperAddonResolve } from "akasha/commands/pages/temper/addon/resolve/temper-addon-resolve.command.code.ts"
 import { valueAlsoFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { manifestFor } from "../../../../../temper/commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
-import { scratchWorld } from "../../../../modules/scratching/scratching.module.code.ts"
-import { temperAddonResolve } from "./temper-addon-resolve.command.code.ts"
+import { manifestFor } from "akasha/temper/commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 

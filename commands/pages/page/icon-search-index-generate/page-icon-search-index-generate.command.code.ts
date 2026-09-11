@@ -6,7 +6,7 @@ import {
   landingAt,
   removingAt,
 } from "akasha/code-system/name-series/name-series.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   AGGREGATE,
   bytesIn,
@@ -17,8 +17,8 @@ import {
   rendered,
   type Staged,
   standingIn,
-} from "../../../../pages/commands/icon-index-rendering/icon-index-rendering.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+} from "akasha/pages/commands/icon-index-rendering/icon-index-rendering.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const CODE_ROOT = "--code-root"
 

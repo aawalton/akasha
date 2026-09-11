@@ -4,10 +4,10 @@ import {
   SNAPSHOT_METRICS,
   summarizeSnapshot,
 } from "akasha/alan/harness/health-samples-import/health-snapshot/health-snapshot.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
-import { lines } from "../../../modules/yaml-lines/yaml-lines.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { lines } from "akasha/commands/modules/yaml-lines/yaml-lines.module.code.ts"
 
 export const HEALTH_SNAPSHOT = "health-snapshot"
 

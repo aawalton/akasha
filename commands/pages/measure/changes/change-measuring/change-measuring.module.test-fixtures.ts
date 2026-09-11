@@ -1,12 +1,12 @@
 import {
+  agoOf,
+  HOUR,
+} from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
+import {
   listedFiled,
   nothingFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
-import {
-  agoOf,
-  HOUR,
-} from "../../../../../checks/modules/measuring/check-measuring.module.test-fixtures.ts"
 
 export const ONE = "01a08071-39a4-7000-9c6b-6cee59d30c10"
 

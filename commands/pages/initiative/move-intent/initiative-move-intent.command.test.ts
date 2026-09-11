@@ -1,5 +1,10 @@
 import { expect, test } from "bun:test"
-import { messageFor, noInitiative, readIn, saidFor } from "./initiative-move-intent.command.code.ts"
+import {
+  messageFor,
+  noInitiative,
+  readIn,
+  saidFor,
+} from "akasha/commands/pages/initiative/move-intent/initiative-move-intent.command.code.ts"
 
 const ASKED = { slug: "held", statement: "A thing is so.", onto: "Another thing is so." }
 

@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
-import { FLEET, JSON_OUT, readIn } from "./model-gateway-swap.command.code.ts"
-import { modelGatewaySwap } from "./model-gateway-swap.command.ts"
+import {
+  FLEET,
+  JSON_OUT,
+  readIn,
+} from "akasha/commands/pages/model-gateway/swap/model-gateway-swap.command.code.ts"
+import { modelGatewaySwap } from "akasha/commands/pages/model-gateway/swap/model-gateway-swap.command.ts"
 
 function swapRefused(argv: readonly string[]): string {
   const said = readIn(argv)

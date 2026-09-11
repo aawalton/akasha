@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   alanFood,
   freeStemIn,
@@ -9,7 +9,7 @@ import {
   stemFor,
   stemOfSlug,
   wallClockIn,
-} from "./alan-food.command.code.ts"
+} from "akasha/commands/pages/alan/food/alan-food.command.code.ts"
 
 function given(root: string): Given {
   return { root, calledAs: "akasha alan food", from: root, writer: null, agentId: null }

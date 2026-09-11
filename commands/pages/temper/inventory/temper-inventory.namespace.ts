@@ -1,4 +1,4 @@
-import type { Namespace } from "../../../namespaces/namespace.page-type.types.ts"
+import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.types.ts"
 
 export const temperInventory = {
   id: "01a07c18-25b3-7c50-9fbe-24e618f94df7",

@@ -1,14 +1,14 @@
 import { resolve } from "node:path"
-import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
-import { wholeNumberIn } from "akasha/utils/narrow/whole-number-in/whole-number-in.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   type CharacterKnowledge,
   loadTemperCharactersFromPath,
-} from "../../../../../temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
-import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
+} from "akasha/temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
+import { wholeNumberIn } from "akasha/utils/narrow/whole-number-in/whole-number-in.module.code.ts"
 
 const INPUT = 1
 

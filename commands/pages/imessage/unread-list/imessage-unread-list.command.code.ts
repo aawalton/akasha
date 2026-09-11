@@ -1,5 +1,5 @@
-import type { ImessageMessage } from "../../../../alan/harness/imessage/chat-db/chat-db.module.code.ts"
-import { buildUnreadListSql } from "../../../../alan/harness/imessage/chat-db/chat-db.module.code.ts"
+import type { ImessageMessage } from "akasha/alan/harness/imessage/chat-db/chat-db.module.code.ts"
+import { buildUnreadListSql } from "akasha/alan/harness/imessage/chat-db/chat-db.module.code.ts"
 import {
   CONTACT_SAID,
   countOf,
@@ -10,26 +10,26 @@ import {
   oldestFirst,
   type Reading,
   wordsIn,
-} from "../../../../alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
+} from "akasha/alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
 import {
   formatLocalMinute,
   messageLabel,
   type NameFor,
   singleLine,
-} from "../../../../alan/harness/imessage/message-lines/message-lines.module.code.ts"
+} from "akasha/alan/harness/imessage/message-lines/message-lines.module.code.ts"
 import {
   fetchContacts,
   fetchMessages,
   resolveContactHandleRowids,
-} from "../../../../alan/harness/imessage/remote/imessage-remote.module.code.ts"
+} from "akasha/alan/harness/imessage/remote/imessage-remote.module.code.ts"
 import {
   answering,
   asJson,
   flagsAloneIn,
   refusedBy,
   told,
-} from "../../../modules/answering/command-answering.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const VALUED = [LIMIT_SAID, CONTACT_SAID]
 

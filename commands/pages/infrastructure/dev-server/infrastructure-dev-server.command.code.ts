@@ -1,5 +1,22 @@
 import { existsSync, openSync, unlinkSync } from "node:fs"
 import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import {
+  APP,
+  BOOTSTRAP,
+  FORCE,
+  LOGS,
+  RESTART,
+  type Read,
+  readIn,
+  SEQ,
+  START,
+  STATUS,
+  STOP,
+} from "akasha/commands/pages/infrastructure/dev-server/dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
+import { lastLinesOf } from "akasha/commands/pages/infrastructure/dev-server/last-lines/last-lines.module.code.ts"
 import {
   readEnvLocal,
   resolveEnvLocalPath,
@@ -26,23 +43,6 @@ import {
 import { resolveWorktreePath } from "akasha/services/web-apps/dev-server-worktree/dev-server-worktree.module.code.ts"
 import { errnoCodeOf } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 import { enforceMemoryGuard } from "akasha/utils/system/memory-guard/memory-guard.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
-import {
-  APP,
-  BOOTSTRAP,
-  FORCE,
-  LOGS,
-  RESTART,
-  type Read,
-  readIn,
-  SEQ,
-  START,
-  STATUS,
-  STOP,
-} from "./dev-server-argument-reading/dev-server-argument-reading.module.code.ts"
-import { lastLinesOf } from "./last-lines/last-lines.module.code.ts"
 
 const TERM_POLL_MS = 100
 

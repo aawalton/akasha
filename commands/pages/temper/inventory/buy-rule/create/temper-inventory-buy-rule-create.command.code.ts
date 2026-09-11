@@ -1,11 +1,4 @@
-import {
-  addBuyRule,
-  bulkUpdateBuyRules,
-} from "akasha/temper/items-rules-core/buy-rule-settings/buy-rule-settings.module.code.ts"
-import type {
-  BuyRule,
-  BuySource,
-} from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ACTIVE,
   answering,
@@ -22,9 +15,16 @@ import {
   told,
   webIn,
   wholeOf,
-} from "../../../../../../temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
-import { BUY_SOURCE_VALUES } from "../../../../../../temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
-import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
+} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+import { BUY_SOURCE_VALUES } from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+import {
+  addBuyRule,
+  bulkUpdateBuyRules,
+} from "akasha/temper/items-rules-core/buy-rule-settings/buy-rule-settings.module.code.ts"
+import type {
+  BuyRule,
+  BuySource,
+} from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-buy-rule-create"
 

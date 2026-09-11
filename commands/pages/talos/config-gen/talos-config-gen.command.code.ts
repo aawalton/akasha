@@ -1,5 +1,8 @@
 import { writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { lines } from "akasha/commands/modules/yaml-lines/yaml-lines.module.code.ts"
 import {
   buildNodePatch,
   PLACEHOLDER_SCHEMATIC_ID,
@@ -16,9 +19,6 @@ import type {
   NodeIntent,
 } from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
-import { lines } from "../../../modules/yaml-lines/yaml-lines.module.code.ts"
 
 export const NODE = "--node"
 

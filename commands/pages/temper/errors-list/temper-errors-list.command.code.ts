@@ -1,7 +1,10 @@
 import { readFileSync } from "node:fs"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { listAllAddons } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import type { ErrorEntry } from "akasha/temper/capture-errors/errors-payload/errors-payload.module.code.ts"
+import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import {
   collectEntries,
   SAVED_VARIABLES_NAME,
@@ -20,11 +23,8 @@ import {
 } from "akasha/temper/errors-triage/errors-triage-gather/errors-triage-gather.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
+import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import { valuesOf } from "../../../../temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
-import { saidBy as messageOf } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../modules/calling/calling.module.code.ts"
 
 const SAID_WRONG = 1
 

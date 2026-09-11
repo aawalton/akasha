@@ -1,4 +1,4 @@
-import { buildSearchSql } from "../../../../alan/harness/imessage/chat-db/chat-db.module.code.ts"
+import { buildSearchSql } from "akasha/alan/harness/imessage/chat-db/chat-db.module.code.ts"
 import {
   CONTACT_SAID,
   countOf,
@@ -10,15 +10,18 @@ import {
   proseIn,
   type Reading,
   wordsIn,
-} from "../../../../alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
+} from "akasha/alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
 import {
   fetchContacts,
   fetchMessages,
   resolveContactHandleRowids,
-} from "../../../../alan/harness/imessage/remote/imessage-remote.module.code.ts"
-import { answering, refusedBy } from "../../../modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { filing, wordFilling } from "../../../modules/filling/command-filling.module.code.ts"
+} from "akasha/alan/harness/imessage/remote/imessage-remote.module.code.ts"
+import {
+  answering,
+  refusedBy,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { filing, wordFilling } from "akasha/commands/modules/filling/command-filling.module.code.ts"
 
 const QUERY = filing("--query")
 

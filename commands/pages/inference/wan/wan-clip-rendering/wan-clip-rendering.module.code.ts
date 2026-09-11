@@ -1,6 +1,25 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, dirname, join } from "node:path"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import type {
+  Act,
+  Taken,
+} from "akasha/commands/pages/inference/wan/wan-arguing/wan-arguing.module.code.ts"
+import {
+  at,
+  EXTEND,
+  GENERATE,
+  numberIn,
+} from "akasha/commands/pages/inference/wan/wan-arguing/wan-arguing.module.code.ts"
+import {
+  framesIn,
+  homeIn,
+  portIn,
+  sizeIn,
+} from "akasha/commands/pages/inference/wan/wan-hosting/wan-hosting.module.code.ts"
 import {
   fetchImage,
   runComfyGraph,
@@ -26,12 +45,6 @@ import {
   sha256Hex,
 } from "akasha/inference/runs/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
-import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
-import type { Act, Taken } from "../wan-arguing/wan-arguing.module.code.ts"
-import { at, EXTEND, GENERATE, numberIn } from "../wan-arguing/wan-arguing.module.code.ts"
-import { framesIn, homeIn, portIn, sizeIn } from "../wan-hosting/wan-hosting.module.code.ts"
 
 const SERVICE = "wan-i2v"
 

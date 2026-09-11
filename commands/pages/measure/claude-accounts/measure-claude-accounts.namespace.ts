@@ -1,4 +1,4 @@
-import type { Namespace } from "../../../namespaces/namespace.page-type.types.ts"
+import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.types.ts"
 
 export const measureClaudeAccounts = {
   id: "01a0796e-608f-717c-b6a8-4843088b5a0e",

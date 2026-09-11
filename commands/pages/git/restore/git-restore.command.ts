@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.types.ts"
+import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const gitRestore = {
   id: "01a07267-f795-738d-90c6-a5e16e277228",

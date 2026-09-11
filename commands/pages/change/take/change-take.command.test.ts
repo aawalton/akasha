@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { changeTake } from "./change-take.command.code.ts"
+import { changeTake } from "akasha/commands/pages/change/take/change-take.command.code.ts"
 
 const OUTSIDE = {
   root: "/elsewhere",

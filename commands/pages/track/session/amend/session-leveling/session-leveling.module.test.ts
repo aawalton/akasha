@@ -9,7 +9,7 @@ import {
   readSafety,
   SAFETY_HIGH,
   SAFETY_LOW,
-} from "./session-leveling.module.code.ts"
+} from "akasha/commands/pages/track/session/amend/session-leveling/session-leveling.module.code.ts"
 
 function levelIn(said: string): string | null {
   const read = readSafety(said)

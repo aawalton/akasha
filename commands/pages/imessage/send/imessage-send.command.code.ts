@@ -1,33 +1,33 @@
 import { readFileSync, statSync } from "node:fs"
 import { basename, resolve } from "node:path"
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { runSshCapture } from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
 import {
   JSON_SAID,
   proseIn,
   type Reading,
   wordsIn,
-} from "../../../../alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
+} from "akasha/alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
 import {
   isEmailLike,
   isPhoneLike,
   searchContacts,
-} from "../../../../alan/harness/imessage/contacts-db/contacts-db.module.code.ts"
-import { MACBOOK } from "../../../../alan/harness/imessage/host/imessage-host.module.code.ts"
-import { fetchContacts } from "../../../../alan/harness/imessage/remote/imessage-remote.module.code.ts"
+} from "akasha/alan/harness/imessage/contacts-db/contacts-db.module.code.ts"
+import { MACBOOK } from "akasha/alan/harness/imessage/host/imessage-host.module.code.ts"
+import { fetchContacts } from "akasha/alan/harness/imessage/remote/imessage-remote.module.code.ts"
 import {
   buildSendScript,
   type SendAttachment,
-} from "../../../../alan/harness/imessage/send/imessage-send.module.code.ts"
+} from "akasha/alan/harness/imessage/send/imessage-send.module.code.ts"
+import { runSshCapture } from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
 import {
   answering,
   asJson,
   refusedBy,
   told,
-} from "../../../modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
-import { filing, wordFilling } from "../../../modules/filling/command-filling.module.code.ts"
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { filing, wordFilling } from "akasha/commands/modules/filling/command-filling.module.code.ts"
 
 const TO = "--to"
 

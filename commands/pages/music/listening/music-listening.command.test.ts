@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { musicListening, saidOf, windowOf } from "./music-listening.command.code.ts"
+import {
+  musicListening,
+  saidOf,
+  windowOf,
+} from "akasha/commands/pages/music/listening/music-listening.command.code.ts"
 
 test("a window said short, medium or long is read as the term Spotify names", () => {
   expect(windowOf("short")).toBe("short_term")

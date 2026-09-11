@@ -1,10 +1,10 @@
 import { resolve } from "node:path"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { readInventoryFileArgs } from "akasha/commands/modules/inventory-file-arguing/inventory-file-arguing.module.code.ts"
+import { readBankProfile } from "akasha/temper/commands/bank-profile-reading/bank-profile-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import { readBankProfile } from "../../../../../../temper/commands/bank-profile-reading/bank-profile-reading.module.code.ts"
-import type { Answer, Given } from "../../../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../../../modules/fault-saying/fault-saying.module.code.ts"
-import { readInventoryFileArgs } from "../../../../../modules/inventory-file-arguing/inventory-file-arguing.module.code.ts"
 
 const INPUT = 1
 

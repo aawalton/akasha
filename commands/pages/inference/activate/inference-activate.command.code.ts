@@ -1,16 +1,16 @@
-import { copActivate, findCop } from "akasha/inference/pool/cop-admin/cop-admin.module.code.ts"
+import {
+  answering,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   aloneIn,
   heldOr,
   wasRefused,
   wordsIn,
-} from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
-import {
-  answering,
-  refusedBy,
-  told,
-} from "../../../modules/answering/command-answering.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+} from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
+import { copActivate, findCop } from "akasha/inference/pool/cop-admin/cop-admin.module.code.ts"
 
 export async function inferenceActivate(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, [], [])

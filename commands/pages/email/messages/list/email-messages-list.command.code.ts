@@ -1,4 +1,3 @@
-import { listMessages } from "akasha/alan/google/email/email-message-fetching/email-message-fetching.module.code.ts"
 import {
   answeredBy,
   answering,
@@ -9,8 +8,9 @@ import {
   type Read,
   readTaking,
   refusing,
-} from "../../../../../alan/google/email/email-command-reading/email-command-reading.module.code.ts"
-import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
+} from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
+import { listMessages } from "akasha/alan/google/email/email-message-fetching/email-message-fetching.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const QUERY = "--query"
 

@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   type Held,
   saidOf,
   seatTranscripts,
   transcriptsOver,
-} from "./seat-transcripts.command.code.ts"
+} from "akasha/commands/pages/seat/transcripts/seat-transcripts.command.code.ts"
 
 const ROOT = "/nowhere"
 

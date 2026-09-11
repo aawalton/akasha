@@ -1,10 +1,10 @@
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Holder } from "akasha/files/lock-holder/lock-holder.module.code.ts"
 import { alive } from "akasha/files/lock-holder/lock-holder.module.code.ts"
 import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { nameOf, supervisorOf } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
-import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../../modules/calling/calling.module.code.ts"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 

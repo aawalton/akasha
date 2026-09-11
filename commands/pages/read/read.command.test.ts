@@ -1,7 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { blobIdOf, partly, readingIn, sameBody } from "../../modules/reading/reading.module.code.ts"
+import {
+  blobIdOf,
+  partly,
+  readingIn,
+  sameBody,
+} from "akasha/commands/modules/reading/reading.module.code.ts"
 import {
   ANSWER_CEILING,
   costOf,
@@ -9,7 +14,7 @@ import {
   noSeatFor,
   readWith,
   restCall,
-} from "./read.command.code.ts"
+} from "akasha/commands/pages/read/read.command.code.ts"
 import {
   AGENT,
   BIN,
@@ -56,7 +61,7 @@ import {
   WARRANTED,
   wholeIn,
   wholeNumbered,
-} from "./read.command.test-fixtures.ts"
+} from "akasha/commands/pages/read/read.command.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

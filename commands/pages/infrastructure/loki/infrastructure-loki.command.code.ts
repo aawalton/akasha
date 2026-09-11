@@ -1,8 +1,11 @@
 import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   chooseLogsDiagnostic,
   describeBounds,
-} from "../../../../infrastructure/cluster/services/log-bound-saying/log-bound-saying.module.code.ts"
+} from "akasha/infrastructure/cluster/services/log-bound-saying/log-bound-saying.module.code.ts"
 import {
   fetchAllLokiLogs,
   fetchLokiLogs,
@@ -12,10 +15,7 @@ import {
   type LogEntry,
   parseLokiDuration,
   parseLokiPositiveInt,
-} from "../../../../infrastructure/cluster/services/loki-log-fetching/loki-log-fetching.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
+} from "akasha/infrastructure/cluster/services/loki-log-fetching/loki-log-fetching.module.code.ts"
 
 export const LOGS = "logs"
 

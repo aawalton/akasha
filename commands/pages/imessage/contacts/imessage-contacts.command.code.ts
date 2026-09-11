@@ -2,17 +2,17 @@ import {
   JSON_SAID,
   type Reading,
   wordsIn,
-} from "../../../../alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
-import { searchContacts } from "../../../../alan/harness/imessage/contacts-db/contacts-db.module.code.ts"
-import { fetchContacts } from "../../../../alan/harness/imessage/remote/imessage-remote.module.code.ts"
+} from "akasha/alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
+import { searchContacts } from "akasha/alan/harness/imessage/contacts-db/contacts-db.module.code.ts"
+import { fetchContacts } from "akasha/alan/harness/imessage/remote/imessage-remote.module.code.ts"
 import {
   answering,
   asJson,
   refusedBy,
   told,
-} from "../../../modules/answering/command-answering.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
-import { wordFilling } from "../../../modules/filling/command-filling.module.code.ts"
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { wordFilling } from "akasha/commands/modules/filling/command-filling.module.code.ts"
 
 const QUERY = "--query"
 

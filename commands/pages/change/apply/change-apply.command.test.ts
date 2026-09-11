@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { CHOSEN } from "./change-apply.command.code.ts"
+import { CHOSEN } from "akasha/commands/pages/change/apply/change-apply.command.code.ts"
 
 test("an apply lands rather than keeps", () => {
   expect(CHOSEN.drafts).toBe(false)

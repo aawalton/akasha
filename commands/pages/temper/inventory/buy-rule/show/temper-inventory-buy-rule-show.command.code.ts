@@ -1,3 +1,4 @@
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   answering,
   readIn,
@@ -5,8 +6,7 @@ import {
   shapeOf,
   shownRule,
   TSV,
-} from "../../../../../../temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
-import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
+} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-buy-rule-show"
 

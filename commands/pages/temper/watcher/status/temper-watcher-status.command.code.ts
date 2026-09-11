@@ -1,3 +1,5 @@
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   readState,
   workerLogPath,
@@ -6,8 +8,6 @@ import {
   isUnitActive,
   unitMainPid,
 } from "akasha/temper/watcher/watcher-unit/watcher-unit.module.code.ts"
-import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../../modules/calling/calling.module.code.ts"
 
 const INPUT = 1
 const JSON_SAID = "--json"

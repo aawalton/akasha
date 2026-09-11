@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { readIn } from "./measure-performance.command.code.ts"
+import { readIn } from "akasha/commands/pages/measure/performance/measure-performance.command.code.ts"
 
 const THERE: readonly string[] = ["landing-throughput"]
 

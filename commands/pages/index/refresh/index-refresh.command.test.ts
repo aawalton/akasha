@@ -1,6 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { DATA, INPUT, OK, OPERATIONAL } from "akasha/commands/modules/cli/cli.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import {
+  classed,
+  indexRefresh,
+  readIn,
+} from "akasha/commands/pages/index/refresh/index-refresh.command.code.ts"
+import { indexRefresh as indexCommand } from "akasha/commands/pages/index/refresh/index-refresh.command.ts"
+import { said as git } from "akasha/git/running/git-running.module.code.ts"
 import { indexNamed, indexThere } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   everythingFiled,
@@ -14,12 +24,6 @@ import {
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/pages/properties/slug.text-property.ts"
 import { textProperty } from "akasha/pages/text-properties/text-property.page-type.ts"
-import { said as git } from "../../../../git/running/git-running.module.code.ts"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
-import { DATA, INPUT, OK, OPERATIONAL } from "../../../modules/cli/cli.module.code.ts"
-import { scratchWorld } from "../../../modules/scratching/scratching.module.code.ts"
-import { classed, indexRefresh, readIn } from "./index-refresh.command.code.ts"
-import { indexRefresh as indexCommand } from "./index-refresh.command.ts"
 
 const TREE = "."
 

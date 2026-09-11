@@ -3,17 +3,21 @@ import { join } from "node:path"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { SubagentNode } from "akasha/code-system/editor/extension/subagent-reading/subagent-reading.module.code.ts"
+import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import type {
+  Landing,
+  RunningSaid,
+  SeatTranscripts,
+} from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
+import { said as gitIn } from "akasha/git/running/git-running.module.code.ts"
 import {
   rebuiltIn,
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
-import { said as gitIn } from "../../../../git/running/git-running.module.code.ts"
-import type { Applied } from "../../../modules/applying/applying.module.code.ts"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
-import type { Refused } from "../../../modules/landing/landing.module.code.ts"
-import { writing } from "../../../modules/scratching/scratching.module.test-fixtures.ts"
-import type { Landing, RunningSaid, SeatTranscripts } from "./agent-subagent-sweep.command.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 

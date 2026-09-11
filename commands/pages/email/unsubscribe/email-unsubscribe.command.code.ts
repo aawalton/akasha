@@ -1,4 +1,3 @@
-import { emailGoogle } from "akasha/alan/google/email/email-operations/email-operations.module.code.ts"
 import {
   answeredBy,
   answering,
@@ -6,8 +5,9 @@ import {
   type Read,
   readTaking,
   refusing,
-} from "../../../../alan/google/email/email-command-reading/email-command-reading.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+} from "akasha/alan/google/email/email-command-reading/email-command-reading.module.code.ts"
+import { emailGoogle } from "akasha/alan/google/email/email-operations/email-operations.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const HEADER = "List-Unsubscribe"
 

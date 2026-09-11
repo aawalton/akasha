@@ -1,4 +1,4 @@
-import type { Namespace } from "../../namespaces/namespace.page-type.types.ts"
+import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.types.ts"
 
 export const domain = {
   id: "01a07c03-e381-7406-89c5-7c74061fd947",

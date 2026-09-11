@@ -23,8 +23,13 @@ import {
   resolveWdaLocalPort,
   WDA_LOCAL_PORT_ENV,
 } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { z } from "zod"
+import {
+  answering,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   APP_SAID,
   appIn,
@@ -32,14 +37,9 @@ import {
   type Reading,
   UDID_SAID,
   wordsIn,
-} from "../../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
-import {
-  answering,
-  OPERATIONAL,
-  refusedBy,
-  told,
-} from "../../../../modules/answering/command-answering.module.code.ts"
-import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
+} from "akasha/mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { z } from "zod"
 
 const ROUTE = "--route"
 

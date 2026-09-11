@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
-import { at, inferenceZimage, readIn } from "./inference-zimage.command.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  at,
+  inferenceZimage,
+  readIn,
+} from "akasha/commands/pages/inference/zimage/inference-zimage.command.code.ts"
 
 function given(root: string): Given {
   return { root, calledAs: "akasha inference zimage", from: root, writer: null, agentId: null }

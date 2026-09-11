@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
-import { inferenceWan } from "./inference-wan.command.code.ts"
-import { at, readIn } from "./wan-arguing/wan-arguing.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { inferenceWan } from "akasha/commands/pages/inference/wan/inference-wan.command.code.ts"
+import {
+  at,
+  readIn,
+} from "akasha/commands/pages/inference/wan/wan-arguing/wan-arguing.module.code.ts"
 
 function given(root: string): Given {
   return { root, calledAs: "akasha inference wan", from: root, writer: null, agentId: null }

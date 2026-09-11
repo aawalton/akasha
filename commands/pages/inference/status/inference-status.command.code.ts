@@ -1,18 +1,18 @@
-import { HOSTS } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
-import { parseActualState } from "akasha/inference/pool/inference-reconcile/inference-reconcile.module.code.ts"
-import { runSshCapture } from "akasha/inference/pool/inference-ssh/inference-ssh.module.code.ts"
-import { buildQueryScript } from "akasha/inference/pool/provision-script/provision-script.module.code.ts"
-import {
-  targetOf,
-  wasRefused,
-  wordsIn,
-} from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
 import {
   answering,
   refusedBy,
   told,
-} from "../../../modules/answering/command-answering.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  targetOf,
+  wasRefused,
+  wordsIn,
+} from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
+import { HOSTS } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
+import { parseActualState } from "akasha/inference/pool/inference-reconcile/inference-reconcile.module.code.ts"
+import { runSshCapture } from "akasha/inference/pool/inference-ssh/inference-ssh.module.code.ts"
+import { buildQueryScript } from "akasha/inference/pool/provision-script/provision-script.module.code.ts"
 
 export async function inferenceStatus(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, [], [])

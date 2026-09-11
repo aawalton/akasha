@@ -1,8 +1,8 @@
 import { aliasIndexesIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
-import type { AliasEntry } from "../../../../seat-system/terminal-shell/terminal-bash/terminal-bash.module.code.ts"
-import { generateBashInit } from "../../../../seat-system/terminal-shell/terminal-bash/terminal-bash.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import type { AliasEntry } from "akasha/seat-system/terminal-shell/terminal-bash/terminal-bash.module.code.ts"
+import { generateBashInit } from "akasha/seat-system/terminal-shell/terminal-bash/terminal-bash.module.code.ts"
 
 const NO_ACCOUNT =
   "no claude account page was read, so the set would carry no account launcher at all — " +

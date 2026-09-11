@@ -1,3 +1,10 @@
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  flooredTo,
+  linesOf,
+  type Measured,
+  PLACES,
+} from "akasha/commands/modules/measure-tabling/measure-tabling.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { pointsTotalKept } from "akasha/personas/points/keeping/persona-points-keeping.module.code.ts"
 import { levelOf } from "akasha/personas/properties/persona-relationship-level.computed-property.code.ts"
@@ -5,13 +12,6 @@ import {
   displayNameOf,
   personasStanding,
 } from "akasha/personas/reading/persona-reading.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import {
-  flooredTo,
-  linesOf,
-  type Measured,
-  PLACES,
-} from "../../../modules/measure-tabling/measure-tabling.module.code.ts"
 
 const CLOSENESS_LEVEL = "closeness-level"
 

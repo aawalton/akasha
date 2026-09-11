@@ -10,12 +10,12 @@ import {
   DEFAULT_THROWAWAY_EMAIL,
   ensureThrowawayUser,
 } from "akasha/alan/harness/supabase-server/throwaway-user/throwaway-user.module.code.ts"
+import { wordsIn } from "akasha/code-system/browser/commands/browser-command-arguing/browser-command-arguing.module.code.ts"
 import { readBrowserTestEnv } from "akasha/code-system/browser/test-harness/browser-test-env/browser-test-env.module.code.ts"
 import { launchAndSignIn } from "akasha/code-system/browser/test-harness/harness-launch/harness-launch.module.code.ts"
+import { refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { playwrightStorageStatePath } from "akasha/seat-system/supervising/mcp-registry/mcp-registry.module.code.ts"
-import { wordsIn } from "../../../../code-system/browser/commands/browser-command-arguing/browser-command-arguing.module.code.ts"
-import { refusedBy } from "../../../modules/answering/command-answering.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
 
 const URL_SAID = "--url"
 

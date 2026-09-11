@@ -1,15 +1,15 @@
 import { expect, test } from "bun:test"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import type { LrclibRecord } from "../../../../alan/music/catalog/lrclib-schema/lrclib-schema.module.code.ts"
+import type { LrclibRecord } from "akasha/alan/music/catalog/lrclib-schema/lrclib-schema.module.code.ts"
 import type {
   MbArtist,
   MbRecording,
   MbWork,
-} from "../../../../alan/music/catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
-import type { Applied } from "../../../modules/applying/applying.module.code.ts"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
-import type { Refused } from "../../../modules/landing/landing.module.code.ts"
-import { rootOf } from "../../../modules/rooting/rooting.module.code.ts"
+} from "akasha/alan/music/catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
+import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   type Gathered,
   gathered,
@@ -20,7 +20,7 @@ import {
   rowsOf,
   taken,
   WRITE,
-} from "./music-import-artist.command.code.ts"
+} from "akasha/commands/pages/music/import-artist/music-import-artist.command.code.ts"
 
 const ROOT = rootOf(process.cwd())
 

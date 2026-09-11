@@ -1,15 +1,15 @@
 import { describe, expect, test } from "bun:test"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
+import {
+  infrastructureShellInitBash,
+  readIn,
+} from "akasha/commands/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.code.ts"
 import {
   listedFiled,
   pageFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
-import { scratchWorld } from "../../../modules/scratching/scratching.module.code.ts"
-import { writing } from "../../../modules/scratching/scratching.module.test-fixtures.ts"
-import {
-  infrastructureShellInitBash,
-  readIn,
-} from "./infrastructure-shell-init-bash.command.code.ts"
 
 const given: Given = {
   root: "/var/home/walton/repos/akasha",

@@ -1,4 +1,4 @@
-import type { Namespace } from "../../../../namespaces/namespace.page-type.types.ts"
+import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.types.ts"
 
 export const googleCalendarEvents = {
   id: "01a08cf6-9dc4-7aa5-9293-19e026970755",

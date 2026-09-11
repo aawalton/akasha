@@ -1,6 +1,12 @@
 import { expect, test } from "bun:test"
-import { AT_DOMAIN, DESCENT, PATHS, readIn, UP } from "./domain-dag.command.code.ts"
-import { domainDag } from "./domain-dag.command.ts"
+import {
+  AT_DOMAIN,
+  DESCENT,
+  PATHS,
+  readIn,
+  UP,
+} from "akasha/commands/pages/domain/dag/domain-dag.command.code.ts"
+import { domainDag } from "akasha/commands/pages/domain/dag/domain-dag.command.ts"
 
 function refusalsOf(argv: readonly string[]): readonly string[] {
   const read = readIn(argv)

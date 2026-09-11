@@ -1,13 +1,13 @@
 import { readFileSync } from "node:fs"
-import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import { TEMPER_QUESTS_SAVED_VARIABLES } from "akasha/temper/quests-trace/auto-quest-trace/auto-quest-trace.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   saidFor,
   saidShort,
-} from "../../../../temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../modules/calling/calling.module.code.ts"
+} from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { TEMPER_QUESTS_SAVED_VARIABLES } from "akasha/temper/quests-trace/auto-quest-trace/auto-quest-trace.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 
 const DATA = 2
 

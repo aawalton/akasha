@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { CHOSEN } from "./change-draft.command.code.ts"
+import { CHOSEN } from "akasha/commands/pages/change/draft/change-draft.command.code.ts"
 
 test("a draft keeps the edits rather than landing them", () => {
   expect(CHOSEN.drafts).toBe(true)

@@ -1,4 +1,12 @@
 import { expect, test } from "bun:test"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  agentForest,
+  type ForestSaid,
+  forestOver,
+  type Reading,
+  saidOf,
+} from "akasha/commands/pages/agent/forest/agent-forest.command.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { SubagentPage } from "akasha/seat-system/agent-page-reading/agent-page-reading.module.code.ts"
 import type { ForestRow } from "akasha/seat-system/seat-forest/seat-forest.module.code.ts"
@@ -7,14 +15,6 @@ import {
   type SeatTurnReading,
   type SeatTurnState,
 } from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
-import {
-  agentForest,
-  type ForestSaid,
-  forestOver,
-  type Reading,
-  saidOf,
-} from "./agent-forest.command.code.ts"
 
 const ROOT = "/nowhere"
 

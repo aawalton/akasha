@@ -9,7 +9,7 @@ import {
   recordFor,
   saidFor,
   statingIn,
-} from "./initiative-hand-intent.command.code.ts"
+} from "akasha/commands/pages/initiative/hand-intent/initiative-hand-intent.command.code.ts"
 
 const ASKED = { from: "one", statement: "A thing is so.", to: "two" }
 

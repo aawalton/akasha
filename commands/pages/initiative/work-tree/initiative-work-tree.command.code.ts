@@ -1,4 +1,6 @@
 import { resolve } from "node:path"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   type InitiativeRow,
   initiativesDrawn,
@@ -7,8 +9,6 @@ import {
   type Drawn,
   drawnNow,
 } from "akasha/seat-system/work-tree-drawn/work-tree-drawn.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
 export const JSON_OUT = "--json"
 

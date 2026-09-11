@@ -12,7 +12,7 @@ import {
   SUMMARY,
   type Wanted,
 } from "akasha/commands/modules/calendar-eventing/calendar-eventing.module.code.ts"
-import type { Answer, Given } from "../../../../../modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const WANTED: Wanted = {
   takes: [CALENDAR, ...SHAPING, SENDING],

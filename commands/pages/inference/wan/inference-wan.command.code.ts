@@ -1,9 +1,9 @@
 import { mkdir, readdir } from "node:fs/promises"
 import { basename, dirname, extname, join } from "node:path"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
-import type { Taken } from "./wan-arguing/wan-arguing.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import type { Taken } from "akasha/commands/pages/inference/wan/wan-arguing/wan-arguing.module.code.ts"
 import {
   at,
   EXTEND,
@@ -11,9 +11,16 @@ import {
   GENERATE,
   numberIn,
   readIn,
-} from "./wan-arguing/wan-arguing.module.code.ts"
-import { extending, generating } from "./wan-clip-rendering/wan-clip-rendering.module.code.ts"
-import { homeIn, imageIn, spawned } from "./wan-hosting/wan-hosting.module.code.ts"
+} from "akasha/commands/pages/inference/wan/wan-arguing/wan-arguing.module.code.ts"
+import {
+  extending,
+  generating,
+} from "akasha/commands/pages/inference/wan/wan-clip-rendering/wan-clip-rendering.module.code.ts"
+import {
+  homeIn,
+  imageIn,
+  spawned,
+} from "akasha/commands/pages/inference/wan/wan-hosting/wan-hosting.module.code.ts"
 
 const REJECTED_INPUTS = 2
 

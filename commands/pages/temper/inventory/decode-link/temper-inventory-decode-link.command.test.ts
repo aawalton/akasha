@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { temperInventoryDecodeLink } from "./temper-inventory-decode-link.command.code.ts"
+import { temperInventoryDecodeLink } from "akasha/commands/pages/temper/inventory/decode-link/temper-inventory-decode-link.command.code.ts"
 
 const TWENTY_ONE = [
   "45237",

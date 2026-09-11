@@ -1,5 +1,20 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Reading } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { blobIdOf, partly, readingIn } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import { numbered } from "akasha/commands/pages/read/long-body/long-body.module.code.ts"
+import {
+  ANSWER_CEILING,
+  costOf,
+  linesFor,
+  readWith,
+  restCall,
+  type SeatAt,
+  tellingWith,
+} from "akasha/commands/pages/read/read.command.code.ts"
+import { read as readCommand } from "akasha/commands/pages/read/read.command.ts"
 import {
   realAt,
   SEEDED_AT,
@@ -11,21 +26,6 @@ import {
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
 import { said as saying } from "akasha/utils/run/running/running.module.code.ts"
-import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
-import type { Reading } from "../../modules/reading/reading.module.code.ts"
-import { blobIdOf, partly, readingIn } from "../../modules/reading/reading.module.code.ts"
-import { scratchWorld } from "../../modules/scratching/scratching.module.code.ts"
-import { numbered } from "./long-body/long-body.module.code.ts"
-import {
-  ANSWER_CEILING,
-  costOf,
-  linesFor,
-  readWith,
-  restCall,
-  type SeatAt,
-  tellingWith,
-} from "./read.command.code.ts"
-import { read as readCommand } from "./read.command.ts"
 
 export const CALLED_AS = "akasha read"
 

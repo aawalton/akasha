@@ -1,11 +1,11 @@
-import { heldIn, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { fileKeysAt, pageTypesIn } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import {
   columnsOf,
   linesAt,
   madeBy,
   pathsIn,
-} from "../../repo/checkout-counting/checkout-counting.module.code.ts"
+} from "akasha/commands/pages/measure/repo/checkout-counting/checkout-counting.module.code.ts"
+import { heldIn, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { fileKeysAt, pageTypesIn } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 
 const TOTAL = "total"
 

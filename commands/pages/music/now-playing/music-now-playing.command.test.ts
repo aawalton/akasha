@@ -1,6 +1,13 @@
 import { expect, test } from "bun:test"
-import type { NowPlayingCurrent, NowPlayingState } from "./music-now-playing.command.code.ts"
-import { envelopeOf, lineOf, nowPlayingWith } from "./music-now-playing.command.code.ts"
+import type {
+  NowPlayingCurrent,
+  NowPlayingState,
+} from "akasha/commands/pages/music/now-playing/music-now-playing.command.code.ts"
+import {
+  envelopeOf,
+  lineOf,
+  nowPlayingWith,
+} from "akasha/commands/pages/music/now-playing/music-now-playing.command.code.ts"
 
 const PROGRESS = 1000
 

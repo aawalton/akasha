@@ -1,6 +1,6 @@
 import { mobileApps } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { pathsNamed } from "akasha/infrastructure/cluster/services/web-app-reading/web-app-reading.module.code.ts"
 import { slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { pathsNamed } from "../../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.code.ts"
 
 export const WEB_APP = "web-app"
 

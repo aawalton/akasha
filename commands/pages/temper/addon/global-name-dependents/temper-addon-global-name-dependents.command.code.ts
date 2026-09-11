@@ -1,5 +1,7 @@
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   type DependentSourceFile,
@@ -9,13 +11,11 @@ import {
 import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
 import { listAllAddons } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
-import { collectGlobalWritesFromSource } from "../../../../../temper/build-deploy-checks/addon-global-ownership/addon-global-ownership.module.code.ts"
+import { collectGlobalWritesFromSource } from "akasha/temper/build-deploy-checks/addon-global-ownership/addon-global-ownership.module.code.ts"
 import {
   namesIn,
   valuesOf,
-} from "../../../../../temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
-import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../../modules/calling/calling.module.code.ts"
+} from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 
 const DATA = 2
 

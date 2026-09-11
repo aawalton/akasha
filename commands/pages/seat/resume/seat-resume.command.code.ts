@@ -1,10 +1,10 @@
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   namedIn,
   quoted,
   ran,
-} from "../../../modules/seat-act-calling/seat-act-calling.module.code.ts"
+} from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
 
 const RESUME = "resume"
 

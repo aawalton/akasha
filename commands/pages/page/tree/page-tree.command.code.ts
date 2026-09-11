@@ -1,4 +1,10 @@
 import { resolve } from "node:path"
+import { sayAnswer } from "akasha/commands/modules/answer-bytes/answer-bytes.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { AUTHOR } from "akasha/commands/modules/committing/committing.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { writerIn } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { AKASHA } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   readingIn,
@@ -7,12 +13,6 @@ import {
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { slugAt, slugsIn, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { sayAnswer } from "../../../modules/answer-bytes/answer-bytes.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { AUTHOR } from "../../../modules/committing/committing.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
-import { writerIn } from "../../../modules/reading/reading.module.code.ts"
-import { rootOf } from "../../../modules/rooting/rooting.module.code.ts"
 
 const PROPERTY_ROOT = "page-property"
 

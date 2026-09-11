@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.types.ts"
+import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const initiativeHandIntent = {
   id: "01a08c64-750b-7bb5-b491-551e9cca63dd",

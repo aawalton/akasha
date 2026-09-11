@@ -1,10 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import {
   linesOf,
   partsIn,
   windowIn,
-} from "../../../../../checks/modules/measuring/check-measuring.module.code.ts"
+} from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
 import {
   agoOf,
   DAY,
@@ -12,9 +11,13 @@ import {
   HOUR,
   NOW,
   spacedOnce,
-} from "../../../../../checks/modules/measuring/check-measuring.module.test-fixtures.ts"
-import { scratchWorld } from "../../../../modules/scratching/scratching.module.code.ts"
-import { costsIn, heldIn, pagesIn } from "./change-measuring.module.code.ts"
+} from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
+import {
+  costsIn,
+  heldIn,
+  pagesIn,
+} from "akasha/commands/pages/measure/changes/change-measuring/change-measuring.module.code.ts"
 import {
   APPLY_AT,
   CHANGE_AT,
@@ -24,7 +27,8 @@ import {
   rowsInto,
   THREE,
   TWO,
-} from "./change-measuring.module.test-fixtures.ts"
+} from "akasha/commands/pages/measure/changes/change-measuring/change-measuring.module.test-fixtures.ts"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 
 const scratch = scratchWorld()
 

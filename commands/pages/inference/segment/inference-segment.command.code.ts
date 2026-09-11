@@ -1,5 +1,11 @@
 import { readFile, writeFile } from "node:fs/promises"
 import {
+  answering,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
   ensureOutputDir,
   resolveOutputPath,
 } from "akasha/inference/clients/inference-output-path/inference-output-path.module.code.ts"
@@ -9,11 +15,6 @@ import {
   runSegment,
 } from "akasha/inference/clients/segment-client/segment-client.module.code.ts"
 import {
-  buildInferenceRunRecord,
-  sha256Hex,
-} from "akasha/inference/runs/record/inference-run-record.module.code.ts"
-import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
-import {
   aloneIn,
   calledAs,
   countAt,
@@ -22,13 +23,12 @@ import {
   wasRefused,
   wordsIn,
   wroteTo,
-} from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
+} from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
 import {
-  answering,
-  refusedBy,
-  told,
-} from "../../../modules/answering/command-answering.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+  buildInferenceRunRecord,
+  sha256Hex,
+} from "akasha/inference/runs/record/inference-run-record.module.code.ts"
+import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
 
 const IMAGE = "--image"
 

@@ -6,13 +6,17 @@ import {
   DAYS_AT,
   FOOD_ENTRIES_AT,
   outsideTracked,
-} from "../../../../alan/track/landing/track-landing.module.code.ts"
-import type { Given } from "../../../modules/calling/calling.module.code.ts"
-import { MECHANICAL } from "../../../modules/calling/calling.module.test-fixtures.ts"
-import { builtIn } from "../../../modules/file-arguing/file-arguing.module.code.ts"
-import { scratch } from "../../../modules/landing/landing.module.test-fixtures.ts"
-import { inputIn } from "../../../modules/piping/piping.module.code.ts"
-import { alanTracking, NO_GLASS, strayIn } from "./alan-tracking.command.code.ts"
+} from "akasha/alan/track/landing/track-landing.module.code.ts"
+import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { MECHANICAL } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
+import { builtIn } from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
+import { scratch } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
+import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
+import {
+  alanTracking,
+  NO_GLASS,
+  strayIn,
+} from "akasha/commands/pages/alan/tracking/alan-tracking.command.code.ts"
 
 const ROOT = "/nowhere"
 

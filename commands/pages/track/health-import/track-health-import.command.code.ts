@@ -10,9 +10,9 @@ import {
   NO_LOWER_BOUND,
   runHealthImport,
 } from "akasha/alan/harness/health-samples-import/health-import-run/health-import-run.module.code.ts"
-import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../modules/calling/calling.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const INPUT = 1
 

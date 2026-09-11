@@ -4,8 +4,8 @@ import type {
   SearchResponse,
 } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
 import { searchResponseSchema } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
-import type { Finding } from "./music-search.command.code.ts"
-import { searchWith, toldIn } from "./music-search.command.code.ts"
+import type { Finding } from "akasha/commands/pages/music/search/music-search.command.code.ts"
+import { searchWith, toldIn } from "akasha/commands/pages/music/search/music-search.command.code.ts"
 
 const TOTAL = 2
 

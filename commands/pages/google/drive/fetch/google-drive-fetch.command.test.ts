@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import { refusingWith } from "../../../../modules/calling/calling.module.test-fixtures.ts"
-import { folderOf, readIn } from "./google-drive-fetch.command.code.ts"
+import { refusingWith } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
+import {
+  folderOf,
+  readIn,
+} from "akasha/commands/pages/google/drive/fetch/google-drive-fetch.command.code.ts"
 
 const refusedBy = refusingWith(readIn)
 

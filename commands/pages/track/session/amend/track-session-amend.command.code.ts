@@ -1,9 +1,9 @@
-import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
-import { mistaking } from "../../../../modules/refusing/refusing.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import {
   carriedIn,
   taggedFor,
-} from "../check/session-relationships/session-relationships.module.code.ts"
+} from "akasha/commands/pages/track/session/check/session-relationships/session-relationships.module.code.ts"
 import {
   addressed,
   DIFFICULTY,
@@ -13,13 +13,13 @@ import {
   saidFor,
   shownOf,
   TITLE,
-} from "../check/session-rows/session-rows.module.code.ts"
+} from "akasha/commands/pages/track/session/check/session-rows/session-rows.module.code.ts"
 import {
   landed,
   standingFor,
   taggingFor,
   telling,
-} from "../open/session-acting/session-acting.module.code.ts"
+} from "akasha/commands/pages/track/session/open/session-acting/session-acting.module.code.ts"
 
 export async function trackSessionAmend(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()

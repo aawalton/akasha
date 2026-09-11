@@ -1,12 +1,12 @@
 import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   type InitiativeIntent,
   type InitiativeRow,
   initiativesDrawn,
 } from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const PUT = "change-mechanical-file-content/add-property-record"
 

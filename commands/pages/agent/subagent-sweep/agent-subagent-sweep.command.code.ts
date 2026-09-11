@@ -6,11 +6,18 @@ import {
   createSubagentReader,
   type SubagentNode,
 } from "akasha/code-system/editor/extension/subagent-reading/subagent-reading.module.code.ts"
+import {
+  type Answer,
+  answering,
+  type Given,
+} from "akasha/commands/modules/calling/calling.module.code.ts"
+import { dropReadings } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { scanProcEntries } from "akasha/seat-system/proc-scan/proc-scan.module.code.ts"
 import { akashaHolderProcessOf } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { parseSeatProcKey } from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
 import type { ProcLivenessEntry } from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
+import { transcriptOf } from "akasha/seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import {
   censusOf,
   type Judged,
@@ -30,10 +37,7 @@ import {
   saidOf,
 } from "akasha/seat-system/subagent-recovering/subagent-recovering.module.code.ts"
 import { seatPageIn } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
-import { transcriptOf } from "../../../../seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
-import { subagentReturned } from "../../../../seat-system/subagents/properties/subagent-returned.boolean-property.ts"
-import { type Answer, answering, type Given } from "../../../modules/calling/calling.module.code.ts"
-import { dropReadings } from "../../../modules/reading/reading.module.code.ts"
+import { subagentReturned } from "akasha/seat-system/subagents/properties/subagent-returned.boolean-property.ts"
 
 const REMOVE = "--remove"
 

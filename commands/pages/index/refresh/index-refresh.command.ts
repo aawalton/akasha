@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.types.ts"
+import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const indexRefresh = {
   id: "01a04de1-13fa-7331-979e-d443758eefad",

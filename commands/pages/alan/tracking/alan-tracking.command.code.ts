@@ -2,18 +2,18 @@ import {
   landingTracked,
   outsideTracked,
   trackedIn,
-} from "../../../../alan/track/landing/track-landing.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { builtIn, VALUED } from "../../../modules/file-arguing/file-arguing.module.code.ts"
+} from "akasha/alan/track/landing/track-landing.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { builtIn, VALUED } from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
 import {
   BREAK_GLASS,
   FILE_PATH,
   REMOVE,
   valuesOf,
-} from "../../../modules/flags/command-flags.module.code.ts"
-import { inputIn } from "../../../modules/piping/piping.module.code.ts"
-import { mistaking } from "../../../modules/refusing/refusing.module.code.ts"
-import { pathAt } from "../../../modules/said-pathing/said-pathing.module.code.ts"
+} from "akasha/commands/modules/flags/command-flags.module.code.ts"
+import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
 
 export const NO_GLASS = `${BREAK_GLASS} is no flag this takes: a body the checks refuse is a fault in the program that composed it`
 

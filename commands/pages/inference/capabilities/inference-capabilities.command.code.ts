@@ -1,22 +1,22 @@
+import {
+  answering,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import {
+  boundTo,
+  targetOf,
+  wasRefused,
+  wordsIn,
+} from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
 import { getHost } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
 import { parseMfluxTools } from "akasha/inference/pool/inference-reconcile/inference-reconcile.module.code.ts"
 import type { InferenceService } from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
 import { SERVICES } from "akasha/inference/pool/inference-services/inference-services.module.code.ts"
 import { runSshCapture } from "akasha/inference/pool/inference-ssh/inference-ssh.module.code.ts"
 import { buildMfluxQueryScript } from "akasha/inference/pool/provision-script/provision-script.module.code.ts"
-import {
-  boundTo,
-  targetOf,
-  wasRefused,
-  wordsIn,
-} from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
-import {
-  answering,
-  refusedBy,
-  told,
-} from "../../../modules/answering/command-answering.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const MODEL_TYPE = "--model-type"
 

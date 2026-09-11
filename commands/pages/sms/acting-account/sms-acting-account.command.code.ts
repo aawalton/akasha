@@ -1,11 +1,11 @@
-import { extractActingAccountUserId } from "../../../../alan/harness/sms-core/acting-account/acting-account.module.code.ts"
+import { extractActingAccountUserId } from "akasha/alan/harness/sms-core/acting-account/acting-account.module.code.ts"
 import {
   heldAt,
   type Reading,
   wordsIn,
-} from "../../../../alan/harness/sms-core/sms-command-reading/sms-command-reading.module.code.ts"
-import { refusedBy, told } from "../../../modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+} from "akasha/alan/harness/sms-core/sms-command-reading/sms-command-reading.module.code.ts"
+import { refusedBy, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const SURFACE = "--surface-file"
 

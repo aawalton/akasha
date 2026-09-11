@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { seededWorld } from "../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
-import { deploy, refNamed } from "./deploy.command.code.ts"
-import { given } from "./deploy.command.test-fixtures.ts"
+import { deploy, refNamed } from "akasha/commands/pages/deploy/deploy.command.code.ts"
+import { given } from "akasha/commands/pages/deploy/deploy.command.test-fixtures.ts"
+import { seededWorld } from "akasha/infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
 
 const WORLD = seededWorld()
 

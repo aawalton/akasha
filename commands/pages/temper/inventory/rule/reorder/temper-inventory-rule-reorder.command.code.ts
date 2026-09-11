@@ -1,7 +1,4 @@
-import {
-  reorderCategoryRule,
-  resolveAnchorIndex,
-} from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   answering,
   DATA,
@@ -17,8 +14,11 @@ import {
   toldOf,
   unfound,
   wholeOf,
-} from "../../../../../../temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
-import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
+} from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+import {
+  reorderCategoryRule,
+  resolveAnchorIndex,
+} from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-rule-reorder"
 

@@ -1,4 +1,4 @@
-import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   aiming,
   caught,
@@ -10,8 +10,8 @@ import {
   mistaken,
   pipedIn,
   valueIn as valueSaid,
-} from "../../../../../pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
-import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
+} from "akasha/pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
+import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
 
 const ACT = "set"
 

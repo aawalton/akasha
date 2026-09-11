@@ -2,16 +2,9 @@ import { join } from "node:path"
 import { getRecentlyPlayed } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
 import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { entriesAt } from "akasha/pages/entries/page-entries.module.code.ts"
-import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import { textIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { saidBy } from "../../../../utils/narrow/said-by/said-by.module.code.ts"
-import { textAt } from "../../../modules/body-reaching/body-reaching.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { answering, refused } from "../../../modules/calling/calling.module.code.ts"
+import { textAt } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   buildPlayRow,
   esoDayOfPlay,
@@ -22,7 +15,14 @@ import {
   playKeyOf,
   resumeCursorMs,
   sumNewMusicMinutes,
-} from "../../../modules/play-row/play-row.module.code.ts"
+} from "akasha/commands/modules/play-row/play-row.module.code.ts"
+import { entriesAt } from "akasha/pages/entries/page-entries.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import { textIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const INPUT = 1
 

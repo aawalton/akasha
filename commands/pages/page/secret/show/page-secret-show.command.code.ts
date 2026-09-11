@@ -1,11 +1,11 @@
-import { keysBeside } from "akasha/pages/secret/page-secret.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { quoted as listed } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
 import {
   aiming,
   caught,
   FILE_PATH,
-} from "../../../../../pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
-import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
-import { quoted as listed } from "../../../../modules/seat-act-calling/seat-act-calling.module.code.ts"
+} from "akasha/pages/commands/page-secret-acting/page-secret-acting.module.code.ts"
+import { keysBeside } from "akasha/pages/secret/page-secret.module.code.ts"
 
 const NOTHING = "nothing"
 

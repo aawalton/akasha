@@ -3,17 +3,17 @@ import {
   championTree,
   type DomainRow,
 } from "akasha/code-system/editor/extension/champions-tree/champions-tree.module.code.ts"
+import { sayAnswer } from "akasha/commands/modules/answer-bytes/answer-bytes.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { AUTHOR } from "akasha/commands/modules/committing/committing.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { writerIn } from "akasha/commands/modules/reading/reading.module.code.ts"
+import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   type DomainRow as Drawn,
   domainsDrawn,
 } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { sayAnswer } from "../../../modules/answer-bytes/answer-bytes.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { AUTHOR } from "../../../modules/committing/committing.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
-import { writerIn } from "../../../modules/reading/reading.module.code.ts"
-import { rootOf } from "../../../modules/rooting/rooting.module.code.ts"
 
 export function rowsFrom(drawn: readonly Drawn[]): readonly DomainRow[] {
   return drawn.map((one) => ({

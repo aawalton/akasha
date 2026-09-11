@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { saidOf, slugsIn } from "./refresh-attributes.command.code.ts"
+import {
+  saidOf,
+  slugsIn,
+} from "akasha/commands/pages/refresh/attributes/refresh-attributes.command.code.ts"
 
 const AT = "alan/attributes/readouts"
 

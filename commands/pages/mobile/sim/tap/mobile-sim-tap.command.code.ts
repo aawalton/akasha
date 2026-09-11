@@ -4,18 +4,18 @@ import {
   tapCoordinates,
 } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
 import {
-  countOf,
-  driving,
-  type Reading,
-  wordsIn,
-} from "../../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
-import {
   answering,
   flagsAloneIn,
   refusedBy,
   told,
-} from "../../../../modules/answering/command-answering.module.code.ts"
-import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import {
+  countOf,
+  driving,
+  type Reading,
+  wordsIn,
+} from "akasha/mobile-commands/mobile-answering/mobile-answering.module.code.ts"
 
 const SELECTOR = "--selector"
 

@@ -1,4 +1,4 @@
-import type { Namespace } from "../../../../namespaces/namespace.page-type.types.ts"
+import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.types.ts"
 
 export const temperEsoGenerate = {
   id: "01a07c17-20a8-7ecd-bb3f-f70a9f102a4d",

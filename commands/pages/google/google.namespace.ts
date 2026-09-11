@@ -1,4 +1,4 @@
-import type { Namespace } from "../../namespaces/namespace.page-type.types.ts"
+import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.types.ts"
 
 export const google = {
   id: "01a08cd7-2c63-718b-88bf-b2c367f52826",

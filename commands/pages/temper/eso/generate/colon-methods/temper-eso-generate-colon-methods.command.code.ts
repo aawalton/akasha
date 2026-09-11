@@ -6,22 +6,22 @@ import {
   renderSeries,
   stageSeries,
 } from "akasha/code-system/name-series/name-series.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answering, refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
+import { extractColonMethodNames } from "akasha/temper/commands/eso-colon-methods/eso-colon-methods.module.code.ts"
+import {
+  saidFor,
+  saidShort,
+  stagingAt,
+} from "akasha/temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 import {
   esoCloneHeaderLines,
   parseEsoDocApiVersion,
 } from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 import { esouiSourceDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import { collectLuaFiles } from "akasha/temper/eso-paths/lua-files/lua-files.module.code.ts"
-import { esoDocPathForLuaRoot } from "../../../../../../temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
-import { extractColonMethodNames } from "../../../../../../temper/commands/eso-colon-methods/eso-colon-methods.module.code.ts"
-import {
-  saidFor,
-  saidShort,
-  stagingAt,
-} from "../../../../../../temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
-import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
-import { answering, refused } from "../../../../../modules/calling/calling.module.code.ts"
 
 const DATA = 2
 

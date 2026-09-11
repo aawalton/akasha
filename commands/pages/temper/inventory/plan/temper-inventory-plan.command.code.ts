@@ -1,5 +1,20 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import type { CharacterKnowledge } from "akasha/temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import {
+  capacityFilter,
+  classifyItem,
+  inventoryParser,
+  managementPlan,
+  parseCharacters,
+  parseConfig,
+  planChecklist,
+  planInputs,
+  ruleMatcher,
+} from "akasha/temper/commands/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import type { ClassifiableItem } from "akasha/temper/items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
@@ -11,21 +26,6 @@ import type {
   VenueStop,
 } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import type { CharacterKnowledge } from "../../../../../temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
-import {
-  capacityFilter,
-  classifyItem,
-  inventoryParser,
-  managementPlan,
-  parseCharacters,
-  parseConfig,
-  planChecklist,
-  planInputs,
-  ruleMatcher,
-} from "../../../../../temper/commands/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
-import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const INPUT = 1
 

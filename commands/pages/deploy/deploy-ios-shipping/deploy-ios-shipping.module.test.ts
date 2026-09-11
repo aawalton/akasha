@@ -10,7 +10,7 @@ import {
   saidOfUnpushed,
   UPLOAD_SAID,
   WHERE_HEAD_IS,
-} from "./deploy-ios-shipping.module.code.ts"
+} from "akasha/commands/pages/deploy/deploy-ios-shipping/deploy-ios-shipping.module.code.ts"
 
 test("the refusal over a branch that would not push names the checkout and the commit", () => {
   const refusal = saidOfUnpushed("/repos/akasha", "83e57975")

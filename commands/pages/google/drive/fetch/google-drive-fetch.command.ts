@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.types.ts"
+import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const googleDriveFetch = {
   id: "01a08cdb-485a-7511-90c8-8b12ad2e1662",

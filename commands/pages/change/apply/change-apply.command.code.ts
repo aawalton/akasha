@@ -1,19 +1,19 @@
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { loadedAt } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
-import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
   applyingKept,
   applyWith,
-} from "../../../modules/apply-running/apply-running.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { CHANGE_APPLY_SLUG } from "../../../modules/change-costing/change-costing.module.code.ts"
+} from "akasha/commands/modules/apply-running/apply-running.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { CHANGE_APPLY_SLUG } from "akasha/commands/modules/change-costing/change-costing.module.code.ts"
 import {
   type Chosen,
   changing,
   noPageSaid,
-} from "../../../modules/change-running/change-running.module.code.ts"
-import { inputIn } from "../../../modules/piping/piping.module.code.ts"
-import { mistaking } from "../../../modules/refusing/refusing.module.code.ts"
+} from "akasha/commands/modules/change-running/change-running.module.code.ts"
+import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
+import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 
 const APPLIES = "apply"
 

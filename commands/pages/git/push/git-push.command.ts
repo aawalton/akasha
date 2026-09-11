@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.types.ts"
+import type { Command } from "akasha/commands/command.page-type.types.ts"
 
 export const gitPush = {
   id: "01a06cce-9280-7c22-afc1-5cfcba8a5ac4",

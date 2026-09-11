@@ -2,18 +2,18 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import {
-  listedFiled,
-  valueAlsoFiled,
-} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { writingUnder } from "../../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
-import {
   type Apps,
   CLUSTER_SERVICE,
   IOS_APP,
   kindNamed,
   WEB_APP,
   WORKSTATION_SERVICE,
-} from "./deploy-kind-reading.module.code.ts"
+} from "akasha/commands/pages/deploy/deploy-kind-reading/deploy-kind-reading.module.code.ts"
+import { writingUnder } from "akasha/infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 
 const HOLD = "/var/tmp"
 

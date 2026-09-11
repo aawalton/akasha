@@ -2,6 +2,19 @@ import { createHash } from "node:crypto"
 import { copyFile, mkdir, rename, stat, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, dirname, join } from "node:path"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import {
+  heldOnce,
+  numberIn,
+  pathUnder,
+  routedIn,
+  type Shape,
+  textIn,
+  wholeIn,
+} from "akasha/commands/pages/inference/wan/flag-arguing/flag-arguing.module.code.ts"
+import { namesDrawn } from "akasha/commands/pages/infrastructure/service/name-drawing/name-drawing.module.code.ts"
 import {
   fetchImage,
   runComfyGraph,
@@ -14,19 +27,6 @@ import {
   toModelId,
 } from "akasha/inference/generations/zimage/models/zimage-models.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
-import { namesDrawn } from "../../infrastructure/service/name-drawing/name-drawing.module.code.ts"
-import {
-  heldOnce,
-  numberIn,
-  pathUnder,
-  routedIn,
-  type Shape,
-  textIn,
-  wholeIn,
-} from "../wan/flag-arguing/flag-arguing.module.code.ts"
 
 const GENERATE = "generate"
 

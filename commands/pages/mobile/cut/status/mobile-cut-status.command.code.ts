@@ -14,7 +14,14 @@ import {
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { shellRepoRoot } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { simRunSharedRepoPaths } from "akasha/alan/harness/mobile-cli/sim-run-tree/sim-run-tree.module.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import {
+  answering,
+  asJson,
+  flagsAloneIn,
+  refusedBy,
+  told,
+} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   APP_SAID,
   appIn,
@@ -22,15 +29,8 @@ import {
   keyedLines,
   type Reading,
   wordsIn,
-} from "../../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
-import {
-  answering,
-  asJson,
-  flagsAloneIn,
-  refusedBy,
-  told,
-} from "../../../../modules/answering/command-answering.module.code.ts"
-import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
+} from "akasha/mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 const MAIN = "origin/main"
 

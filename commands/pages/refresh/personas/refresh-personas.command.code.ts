@@ -2,8 +2,8 @@ import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.cod
 import {
   rebuildPoints,
   saidOf,
-} from "../../../../alan/harness/persona-points-rebuilding/persona-points-rebuilding.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+} from "akasha/alan/harness/persona-points-rebuilding/persona-points-rebuilding.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 const NOTHING_REBUILT =
   "no persona was written to on any day before today, so nothing was rebuilt. A figure Alan did " +

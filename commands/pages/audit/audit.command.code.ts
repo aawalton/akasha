@@ -7,15 +7,15 @@ import {
   judgingBy,
 } from "akasha/checks/modules/checking/checking.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { counted } from "../../../utils/text/counted/counted.module.code.ts"
-import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../modules/fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   pointerFor,
   refusalsPut,
-} from "../../modules/refusals-keeping/refusals-keeping.module.code.ts"
+} from "akasha/commands/modules/refusals-keeping/refusals-keeping.module.code.ts"
+import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { counted } from "akasha/utils/text/counted/counted.module.code.ts"
 
 export const ANSWER_CEILING = 28000
 

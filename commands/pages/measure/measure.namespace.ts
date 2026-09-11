@@ -1,4 +1,4 @@
-import type { Namespace } from "../../namespaces/namespace.page-type.types.ts"
+import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.types.ts"
 
 export const measure = {
   id: "01a0796e-6072-74f0-b75e-599b54481bb7",

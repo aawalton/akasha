@@ -1,5 +1,11 @@
 import { realpathSync } from "node:fs"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import {
+  namesIn,
+  valuesOf,
+} from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { port as portHousing } from "akasha/temper/upstream-data/housing-upstream-port/housing-upstream-port.module.code.ts"
 import { port as portMapData } from "akasha/temper/upstream-data/map-data-upstream-port/map-data-upstream-port.module.code.ts"
 import { port as portTreasure } from "akasha/temper/upstream-data/treasure-upstream-port/treasure-upstream-port.module.code.ts"
@@ -9,13 +15,7 @@ import {
   UPSTREAM_LIBRARIES,
 } from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
 import { port as portZone } from "akasha/temper/upstream-data/zone-upstream-port/zone-upstream-port.module.code.ts"
-import {
-  namesIn,
-  valuesOf,
-} from "../../../../../temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
-import { saidBy as messageOf } from "../../../../../utils/narrow/said-by/said-by.module.code.ts"
-import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../../modules/calling/calling.module.code.ts"
+import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const SAID_WRONG = 1
 

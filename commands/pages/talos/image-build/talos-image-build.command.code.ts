@@ -1,5 +1,7 @@
 import { writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/build-schematic/build-schematic.module.code.ts"
 import { emitSchematicYaml } from "akasha/infrastructure/cluster/provisioning/talos/emit-yaml/emit-yaml.module.code.ts"
 import {
@@ -14,8 +16,6 @@ import type {
   ClusterIntent,
   NodeIntent,
 } from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
 export const NODE = "--node"
 

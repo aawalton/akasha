@@ -1,16 +1,16 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
+import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { CATALOG_DOMAIN_KEYS } from "akasha/temper/catalog-core/domain-keys/domain-keys.module.code.ts"
 import { resolveSideFilePath } from "akasha/temper/catalog-side-file/catalog-file-paths/catalog-file-paths.module.code.ts"
 import {
   computeNextSideFile,
   parseSideFile,
   serializeSideFile,
 } from "akasha/temper/catalog-side-file/catalog-side-file/catalog-side-file.module.code.ts"
-import { CATALOG_DOMAIN_KEYS } from "../../../../../temper/catalog-core/domain-keys/domain-keys.module.code.ts"
-import { valuesOf } from "../../../../../temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
-import { saidBy as messageOf } from "../../../../../utils/narrow/said-by/said-by.module.code.ts"
-import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../../modules/calling/calling.module.code.ts"
+import { valuesOf } from "akasha/temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
+import { saidBy as messageOf } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const SAID_WRONG = 1
 

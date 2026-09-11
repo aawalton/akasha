@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { readIn } from "./no-word-reading.module.code.ts"
+import { readIn } from "akasha/commands/pages/agent/forest/no-word-reading/no-word-reading.module.code.ts"
 
 test("a call saying no word is read as asked", () => {
   expect(readIn([])).toEqual({ asked: true })
