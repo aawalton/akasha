@@ -2,7 +2,6 @@ import type { ComputedProperty } from "akasha/pages/computed-properties/computed
 
 export const funLevel = {
   id: "01a0720f-c6fb-73f1-9066-af41bb900c1c",
-  pageTypeSlug: "computed-property",
   type: "computed-property",
   slug: "fun-level",
   propertySlug: "fun-level",

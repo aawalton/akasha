@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const queryPerfEvaluatorAbsent = {
   id: "01a06755-62fb-79ff-b164-b3d423227783",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "query-perf-evaluator-absent",
   title: "Query perf evaluator absent",

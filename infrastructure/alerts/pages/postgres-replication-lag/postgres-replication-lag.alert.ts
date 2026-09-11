@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const postgresReplicationLag = {
   id: "01a06755-62fb-73a2-a2fb-eea6379bcf60",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "postgres-replication-lag",
   title: "Postgres replication lag",

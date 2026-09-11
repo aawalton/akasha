@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const targetDown = {
   id: "01a06755-62fb-7224-9bc4-151ce311e259",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "target-down",
   title: "Target down",

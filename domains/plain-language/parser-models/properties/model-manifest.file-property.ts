@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const modelManifest = {
   id: "01a06d3b-743f-7cf0-8f82-5c0f41cfeaf0",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "model-manifest",
   propertySlug: "model-manifest",

@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const lokiScrapeJobAbsent = {
   id: "01a06755-62fa-70b8-8b67-12316c66ad5c",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "loki-scrape-job-absent",
   title: "Loki scrape job absent",

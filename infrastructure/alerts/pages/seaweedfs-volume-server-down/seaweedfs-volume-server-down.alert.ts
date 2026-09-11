@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const seaweedfsVolumeServerDown = {
   id: "01a06755-62fb-7538-95b6-8c6185b09935",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "seaweedfs-volume-server-down",
   title: "SeaweedFS volume server down",

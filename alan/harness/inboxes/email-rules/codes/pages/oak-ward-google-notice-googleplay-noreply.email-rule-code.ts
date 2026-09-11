@@ -2,7 +2,6 @@ import type { EmailRuleCode } from "akasha/alan/harness/inboxes/email-rules/code
 
 export const oakWardGoogleNoticeGoogleplayNoreply = {
   id: "01a06860-54a2-7bb6-8f89-369136e62ec4",
-  pageTypeSlug: "email-rule-code",
   type: "email-rule-code",
   slug: "oak-ward-google-notice-googleplay-noreply",
   title: "Oak ward google notice googleplay noreply",

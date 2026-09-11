@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const gitIgnore = {
   id: "01a0591d-e23c-76ca-8764-552fd305e707",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "git-ignore",
   propertySlug: "git-ignore",

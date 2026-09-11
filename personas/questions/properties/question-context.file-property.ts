@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const questionContext = {
   id: "01a06823-89b2-7008-be90-ba24ce4e692b",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "question-context",
   propertySlug: "context",

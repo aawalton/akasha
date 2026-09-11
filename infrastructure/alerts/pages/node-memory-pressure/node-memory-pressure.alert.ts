@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const nodeMemoryPressure = {
   id: "01a06755-62fa-7f4c-83be-c05377088293",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "node-memory-pressure",
   title: "Node memory pressure",

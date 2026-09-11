@@ -2,7 +2,6 @@ import type { FalseProperty } from "akasha/pages/false-properties/false-property
 
 export const oneValued = {
   id: "01a090a6-1660-74de-8c75-808a36f6bcbc",
-  pageTypeSlug: "false-property",
   type: "false-property",
   slug: "one-valued",
   propertySlug: "many",

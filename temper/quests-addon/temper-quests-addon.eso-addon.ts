@@ -2,7 +2,6 @@ import type { EsoAddon } from "akasha/code-system/eso-addons/eso-addon.page-type
 
 export const temperQuestsAddon = {
   id: "01a0635f-391c-765a-af94-26f3ecd9702f",
-  pageTypeSlug: "eso-addon",
   type: "eso-addon",
   slug: "temper-quests-addon",
   definition: "the addon answering a quest giver's dialogue in the player's place",

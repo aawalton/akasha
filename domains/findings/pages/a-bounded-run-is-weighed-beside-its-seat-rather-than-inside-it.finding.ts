@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aBoundedRunIsWeighedBesideItsSeatRatherThanInsideIt = {
   id: "01a0919e-0485-710e-bd5c-d81a2e214a09",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-bounded-run-is-weighed-beside-its-seat-rather-than-inside-it",
   domain: "domain/cpu-limit",

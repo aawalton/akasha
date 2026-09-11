@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const typescriptBaseConfig = {
   id: "01a06cd1-f990-71cd-a153-80d09c4d327a",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "typescript-base-config",
   propertySlug: "typescript-base-config",

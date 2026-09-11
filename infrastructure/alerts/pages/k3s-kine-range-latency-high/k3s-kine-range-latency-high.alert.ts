@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const k3sKineRangeLatencyHigh = {
   id: "01a06755-62fa-79b1-985f-1a93d19f552e",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "k3s-kine-range-latency-high",
   title: "K3s kine range latency high",

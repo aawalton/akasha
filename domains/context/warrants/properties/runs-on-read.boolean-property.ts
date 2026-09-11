@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const runsOnRead = {
   id: "01a04f56-55c4-7001-b905-21873f81487f",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "runs-on-read",
   propertySlug: "runs-on-read",

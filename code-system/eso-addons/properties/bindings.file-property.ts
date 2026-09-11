@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const bindings = {
   id: "01a06036-9b78-70bc-b9c0-1204d0737652",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "bindings",
   propertySlug: "bindings",

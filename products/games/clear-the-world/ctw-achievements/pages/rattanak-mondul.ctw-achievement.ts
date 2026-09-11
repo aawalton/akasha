@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const rattanakMondul = {
   id: "019dbb6d-709a-7dc4-b586-b48ca1d23948",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "rattanak-mondul",
   title: "Rattanak Mondul",

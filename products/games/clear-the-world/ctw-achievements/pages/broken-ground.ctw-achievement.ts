@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const brokenGround = {
   id: "019dbb6e-07bc-7ab2-ba0f-2349291a8434",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "broken-ground",
   title: "Broken Ground",

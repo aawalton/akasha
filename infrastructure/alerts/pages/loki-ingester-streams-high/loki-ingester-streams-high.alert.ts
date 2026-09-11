@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const lokiIngesterStreamsHigh = {
   id: "01a06755-62fa-714e-a2d1-da3d32e6cde9",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "loki-ingester-streams-high",
   title: "Loki ingester streams high",

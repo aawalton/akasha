@@ -2,7 +2,6 @@ import type { FilePurpose } from "akasha/code/file-purposes/file-purpose.page-ty
 
 export const testTsx = {
   id: "01a06860-a0ef-7699-bc5d-c45850b551d2",
-  pageTypeSlug: "file-purpose",
   type: "file-purpose",
   slug: "test-tsx",
   definition: "a file of TypeScript source with markup, with tests",

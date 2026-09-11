@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const hyundaiSonataHybrid = {
   id: "019e4ae2-0564-7946-b5d4-7b521df0a784",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "hyundai-sonata-hybrid",
   title: "Sonata Hybrid",

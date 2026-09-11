@@ -2,7 +2,6 @@ import type { AppearanceExperiment } from "akasha/alan/style/appearance-experime
 
 export const experiment20260725ShoeCycleAgainstThePeasantShirt = {
   id: "019f994a-ccc9-715b-9a7d-15b49116c261",
-  pageTypeSlug: "appearance-experiment",
   type: "appearance-experiment",
   slug: "experiment-2026-07-25-shoe-cycle-against-the-peasant-shirt",
   title: "Experiment \u2014 2026-07-25 \u2014 shoe cycle against the peasant shirt",

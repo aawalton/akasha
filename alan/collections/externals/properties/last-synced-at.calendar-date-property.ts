@@ -2,7 +2,6 @@ import type { CalendarDateProperty } from "akasha/pages/calendar-date-properties
 
 export const lastSyncedAt = {
   id: "01a063de-2c60-701f-a275-5b8d3b2d03bb",
-  pageTypeSlug: "calendar-date-property",
   type: "calendar-date-property",
   slug: "last-synced-at",
   propertySlug: "last-synced-at",

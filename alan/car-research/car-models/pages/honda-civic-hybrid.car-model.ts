@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const hondaCivicHybrid = {
   id: "019e4ae0-d255-76ae-bbe8-4b9f192d0897",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "honda-civic-hybrid",
   title: "Civic Hybrid",

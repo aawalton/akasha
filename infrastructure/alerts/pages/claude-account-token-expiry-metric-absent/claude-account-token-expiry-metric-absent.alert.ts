@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const claudeAccountTokenExpiryMetricAbsent = {
   id: "01a06755-62f9-7592-a5bb-547779652be0",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "claude-account-token-expiry-metric-absent",
   title: "Claude account token expiry metric absent",

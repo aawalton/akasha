@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const testPreload = {
   id: "01a081a7-94db-7f89-b28d-d6b14b0058eb",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "test-preload",
   propertySlug: "test-preload",

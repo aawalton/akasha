@@ -2,7 +2,6 @@ import type { CtwTeam } from "akasha/products/games/clear-the-world/ctw-teams/ct
 
 export const haloTrust = {
   id: "019dbb6d-6092-7021-bb7e-3c14c51dcd74",
-  pageTypeSlug: "ctw-team",
   type: "ctw-team",
   slug: "halo-trust",
   title: "HALO Trust",

@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const sheetTemplate = {
   id: "01a06590-c57a-7201-a530-de554be9820c",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "sheet-template",
   propertySlug: "sheet-template",

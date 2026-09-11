@@ -2,7 +2,6 @@ import type { FitnessCoachingNote } from "akasha/alan/values/health/fitness/coac
 
 export const bilateralHingesAreLowBackLimited = {
   id: "019f01e1-bade-7bc2-9eca-331981f48361",
-  pageTypeSlug: "fitness-coaching-note",
   type: "fitness-coaching-note",
   slug: "bilateral-hinges-are-low-back-limited",
   title: "Bilateral hinges are low-back-limited",

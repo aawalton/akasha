@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const k3sApiserverListRequestErrors = {
   id: "01a06755-62fa-76b6-9995-9ef65d52174e",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "k3s-apiserver-list-request-errors",
   title: "K3s apiserver list request errors",

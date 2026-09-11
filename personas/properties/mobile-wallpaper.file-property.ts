@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const mobileWallpaper = {
   id: "01a0782e-1f17-71d7-90a2-279f0591ec44",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "mobile-wallpaper",
   propertySlug: "mobile-wallpaper",

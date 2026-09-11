@@ -2,7 +2,6 @@ import type { CpuKind } from "akasha/infrastructure/cpu/kinds/cpu-kind.page-type
 
 export const throttled = {
   id: "01a0918b-bdc8-77e7-834a-16d48b13473c",
-  pageTypeSlug: "cpu-kind",
   type: "cpu-kind",
   slug: "throttled",
   definition: "time a program was held off a processor by its own ceiling",

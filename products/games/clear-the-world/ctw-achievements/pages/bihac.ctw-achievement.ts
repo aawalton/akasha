@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const bihac = {
   id: "019dbb6d-7887-71c8-90f9-729286fb8022",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "bihac",
   title: "Bihać",

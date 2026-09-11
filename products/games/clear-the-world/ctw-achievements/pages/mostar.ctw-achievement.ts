@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const mostar = {
   id: "019dbb6d-a9a6-7a00-89d2-b4bc506bc020",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "mostar",
   title: "Mostar",

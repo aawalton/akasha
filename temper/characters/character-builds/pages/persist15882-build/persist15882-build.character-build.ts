@@ -2,7 +2,6 @@ import type { CharacterBuild } from "akasha/temper/characters/character-builds/c
 
 export const persist15882Build = {
   id: "01a06862-a02e-7015-8812-3531a83e5ea4",
-  pageTypeSlug: "character-build",
   type: "character-build",
   slug: "persist15882-build",
   title: "Persist15882 Build",

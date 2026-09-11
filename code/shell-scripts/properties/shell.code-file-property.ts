@@ -2,7 +2,6 @@ import type { CodeFileProperty } from "akasha/pages/code-file-properties/code-fi
 
 export const shell = {
   id: "01a05849-1564-7478-8fc5-2b62cc74068d",
-  pageTypeSlug: "code-file-property",
   type: "code-file-property",
   slug: "shell",
   propertySlug: "shell",

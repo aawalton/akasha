@@ -2,7 +2,6 @@ import type { CpuKind } from "akasha/infrastructure/cpu/kinds/cpu-kind.page-type
 
 export const burned = {
   id: "01a0918b-43ad-70b9-9ac7-5c3d0b94bcf3",
-  pageTypeSlug: "cpu-kind",
   type: "cpu-kind",
   slug: "burned",
   definition: "processor seconds a program has spent running",

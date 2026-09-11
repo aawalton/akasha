@@ -2,7 +2,6 @@ import type { ComputedProperty } from "akasha/pages/computed-properties/computed
 
 export const surplusHours = {
   id: "01a072ee-1b88-7b44-a2b4-9cb40106ef0e",
-  pageTypeSlug: "computed-property",
   type: "computed-property",
   slug: "surplus-hours",
   propertySlug: "surplus-hours",

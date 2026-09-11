@@ -2,7 +2,6 @@ import type { Drive } from "akasha/design/games/drives/drive.page-type.types.ts"
 
 export const gameDesignDriveNovelty = {
   id: "01a06756-f739-7bdf-8026-05da1c89a588",
-  pageTypeSlug: "drive",
   type: "drive",
   slug: "game-design-drive-novelty",
   definition: "not knowing what comes next",

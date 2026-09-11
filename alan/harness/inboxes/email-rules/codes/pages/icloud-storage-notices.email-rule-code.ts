@@ -2,7 +2,6 @@ import type { EmailRuleCode } from "akasha/alan/harness/inboxes/email-rules/code
 
 export const icloudStorageNotices = {
   id: "01a06860-54a2-723d-8c07-d50e3fd53a55",
-  pageTypeSlug: "email-rule-code",
   type: "email-rule-code",
   slug: "icloud-storage-notices",
   title: "Icloud storage notices",

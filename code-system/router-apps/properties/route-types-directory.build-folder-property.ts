@@ -2,7 +2,6 @@ import type { BuildFolderProperty } from "akasha/pages/build-folder-properties/b
 
 export const routeTypesDirectory = {
   id: "01a081ef-9db2-73df-a50c-49b9d87041b9",
-  pageTypeSlug: "build-folder-property",
   type: "build-folder-property",
   slug: "route-types-directory",
   propertySlug: "route-types-directory",

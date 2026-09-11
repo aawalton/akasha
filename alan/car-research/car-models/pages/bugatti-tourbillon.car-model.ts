@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const bugattiTourbillon = {
   id: "019e4ad5-a5fb-7df7-9d9b-0a8f4efa663b",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "bugatti-tourbillon",
   title: "Tourbillon",

@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const filesystemPredictedFull = {
   id: "01a06755-62f9-71ce-a1f7-7afd52da1193",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "filesystem-predicted-full",
   title: "Filesystem predicted full",

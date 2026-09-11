@@ -2,7 +2,6 @@ import type { EsoAddon } from "akasha/code-system/eso-addons/eso-addon.page-type
 
 export const temperLibShifterBox = {
   id: "01a06187-3642-7d90-9056-320280df2e42",
-  pageTypeSlug: "eso-addon",
   type: "eso-addon",
   slug: "temper-lib-shifter-box",
   definition: "two side-by-side lists an addon shifts entries between",

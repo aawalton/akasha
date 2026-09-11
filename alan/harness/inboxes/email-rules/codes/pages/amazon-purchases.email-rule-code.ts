@@ -2,7 +2,6 @@ import type { EmailRuleCode } from "akasha/alan/harness/inboxes/email-rules/code
 
 export const amazonPurchases = {
   id: "01a06860-54a1-72fd-8bcb-6ab142ea4831",
-  pageTypeSlug: "email-rule-code",
   type: "email-rule-code",
   slug: "amazon-purchases",
   title: "Amazon purchases",

@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const pomzGrove = {
   id: "019dbb6d-8d79-7211-9e89-15fee0fe68c1",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "pomz-grove",
   title: "POMZ Grove",

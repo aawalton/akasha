@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const ferrariSf90XxStradale = {
   id: "019e4ada-ab60-7ca3-b161-b6106d838565",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "ferrari-sf90-xx-stradale",
   title: "SF90 XX Stradale",

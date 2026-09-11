@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const gitMirrorRefsBehind = {
   id: "01a06755-62f9-7f02-9ed3-856e536f328e",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "git-mirror-refs-behind",
   title: "Git mirror refs behind",

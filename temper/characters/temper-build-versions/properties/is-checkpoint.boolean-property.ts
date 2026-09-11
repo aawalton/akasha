@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const isCheckpoint = {
   id: "01a0685d-89aa-709a-85e9-907d86ed7964",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "is-checkpoint",
   propertySlug: "is-checkpoint",

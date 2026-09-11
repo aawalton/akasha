@@ -2,7 +2,6 @@ import type { CodeFileProperty } from "akasha/pages/code-file-properties/code-fi
 
 export const lua50Code = {
   id: "01a0816a-2827-7fb0-812f-4e5959ef05ac",
-  pageTypeSlug: "code-file-property",
   type: "code-file-property",
   slug: "lua50-code",
   propertySlug: "lua50-code",

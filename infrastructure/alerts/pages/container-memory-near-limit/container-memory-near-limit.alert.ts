@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const containerMemoryNearLimit = {
   id: "01a06755-62f9-7e03-bd69-9caced3fcadb",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "container-memory-near-limit",
   title: "Container memory near limit",

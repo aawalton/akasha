@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const theSizeOfParis = {
   id: "019dbb6e-0a56-7afd-b9c3-f281ef9ec23f",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "the-size-of-paris",
   title: "The Size of Paris",

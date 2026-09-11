@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const hasSet = {
   id: "01a05fcd-f54f-71b0-a87e-a05b0a786f0d",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "has-set",
   propertySlug: "has-set",

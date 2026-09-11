@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const bopTradeable = {
   id: "01a06053-b37c-7c03-a83d-9646c904a9d3",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "bop-tradeable",
   propertySlug: "bop-tradeable",

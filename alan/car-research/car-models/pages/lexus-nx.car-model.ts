@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const lexusNx = {
   id: "019e4ae8-0ad0-70e4-8a1a-fa81fbfdb76d",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "lexus-nx",
   title: "NX",

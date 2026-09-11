@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const nodeCpuPressureHigh = {
   id: "01a06755-62fa-701d-b94b-ae150b97de31",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "node-cpu-pressure-high",
   title: "Node CPU pressure high",

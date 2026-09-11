@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const accreditation = {
   id: "019dbb6d-f76d-7dd4-a2dc-413b01ba36ec",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "accreditation",
   title: "Accreditation",

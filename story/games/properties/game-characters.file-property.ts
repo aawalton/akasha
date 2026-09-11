@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const gameCharacters = {
   id: "01a0673e-1000-7000-9c11-6a2d4b8f0011",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "game-characters",
   propertySlug: "characters",

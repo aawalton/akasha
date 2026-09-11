@@ -2,7 +2,6 @@ import type { CategoryRuleAgent } from "akasha/alan/harness/monarch/category-rul
 
 export const roadTripFuel = {
   id: "01a0655b-fcdc-7000-b2fd-46328aa7c667",
-  pageTypeSlug: "category-rule-agent",
   type: "category-rule-agent",
   slug: "road-trip-fuel",
   title: "Road trip fuel",

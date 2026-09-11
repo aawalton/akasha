@@ -2,7 +2,6 @@ import type { EsoInterface } from "akasha/code/eso-interfaces/eso-interface.page
 
 export const minimapAnimations = {
   id: "01a06269-2b17-76b4-a6e1-d7eb1d3b209f",
-  pageTypeSlug: "eso-interface",
   type: "eso-interface",
   slug: "minimap-animations",
   definition: "the animation the minimap window resizes and moves with",

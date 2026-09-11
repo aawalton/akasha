@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const macbookInferencePoolUnreachable = {
   id: "01a06755-62fa-7e03-b91a-373657781e93",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "macbook-inference-pool-unreachable",
   title: "MacBook inference pool unreachable",

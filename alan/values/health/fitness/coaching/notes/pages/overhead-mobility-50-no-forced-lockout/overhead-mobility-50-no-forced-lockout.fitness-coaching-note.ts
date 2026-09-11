@@ -2,7 +2,6 @@ import type { FitnessCoachingNote } from "akasha/alan/values/health/fitness/coac
 
 export const overheadMobility50NoForcedLockout = {
   id: "019f01e1-b43d-7dad-9e6d-e637aca78499",
-  pageTypeSlug: "fitness-coaching-note",
   type: "fitness-coaching-note",
   slug: "overhead-mobility-50-no-forced-lockout",
   title: "Overhead mobility ~50% — no forced lockout",

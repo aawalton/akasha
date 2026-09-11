@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const everySeatHoldsTheSameShareAndNothingHoldsTheLowerOne = {
   id: "01a09194-9c04-7dfb-9753-3d651d8bc17d",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "every-seat-holds-the-same-share-and-nothing-holds-the-lower-one",
   domain: "domain/cpu-limit",

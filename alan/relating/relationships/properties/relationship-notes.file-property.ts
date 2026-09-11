@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const relationshipNotes = {
   id: "01a06594-c6e2-7d44-a549-fae292dd4009",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "relationship-notes",
   propertySlug: "relationship-notes",

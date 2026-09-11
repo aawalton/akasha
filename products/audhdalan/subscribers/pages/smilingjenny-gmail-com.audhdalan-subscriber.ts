@@ -2,7 +2,6 @@ import type { AudhdalanSubscriber } from "akasha/products/audhdalan/subscribers/
 
 export const smilingjennyGmailCom = {
   id: "019e2760-e694-760b-8412-f015c4a530cb",
-  pageTypeSlug: "audhdalan-subscriber",
   type: "audhdalan-subscriber",
   slug: "smilingjenny-gmail-com",
   email: "smilingjenny@gmail.com",

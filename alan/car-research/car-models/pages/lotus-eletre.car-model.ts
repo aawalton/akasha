@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const lotusEletre = {
   id: "019e4aec-4045-73c9-ab8f-614a6347be1a",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "lotus-eletre",
   title: "Eletre",

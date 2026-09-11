@@ -2,7 +2,6 @@ import type { ComputedProperty } from "akasha/pages/computed-properties/computed
 
 export const effectiveFiveHourResetsAt = {
   id: "01a0916c-9192-72e8-ab13-1e5f620a30ed",
-  pageTypeSlug: "computed-property",
   type: "computed-property",
   slug: "effective-five-hour-resets-at",
   propertySlug: "effective-five-hour-resets-at",

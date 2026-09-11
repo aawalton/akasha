@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const kiaSorentoPlugInHybrid = {
   id: "019e4aed-b697-718f-8c8b-699e7ab2e305",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "kia-sorento-plug-in-hybrid",
   title: "Sorento Plug-in Hybrid",

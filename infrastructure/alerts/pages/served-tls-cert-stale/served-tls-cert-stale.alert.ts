@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const servedTlsCertStale = {
   id: "01a087cb-1b19-7002-b28a-25d4ab8d634e",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "served-tls-cert-stale",
   title: "Served TLS cert stale",

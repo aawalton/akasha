@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const siblingManifest = {
   id: "01a06237-19b4-7a06-aefd-0f827dda1054",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "sibling-manifest",
   propertySlug: "sibling-manifest",

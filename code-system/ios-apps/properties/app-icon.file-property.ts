@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const appIcon = {
   id: "01a0693a-5bbe-78fb-8ea4-9abb461c372c",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "app-icon",
   propertySlug: "icon",

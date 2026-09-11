@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const gateDimensions = {
   id: "01a06590-c57a-7c46-a898-fce1098205be",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "gate-dimensions",
   propertySlug: "gate-dimensions",

@@ -2,7 +2,6 @@ import type { ComputedProperty } from "akasha/pages/computed-properties/computed
 
 export const totalRemainingInWords = {
   id: "01a07231-dd66-79f2-9c4d-a9e07c6fc46b",
-  pageTypeSlug: "computed-property",
   type: "computed-property",
   slug: "total-remaining-in-words",
   propertySlug: "total-remaining-in-words",

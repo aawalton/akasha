@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const well = {
   id: "01a08c77-7bb7-706c-8b79-08bbd7620c7a",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "well",
   propertySlug: "well",

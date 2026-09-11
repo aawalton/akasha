@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const marchFirst = {
   id: "019dbb6e-3379-75aa-8761-58c2c6a2f5a8",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "march-first",
   title: "March First",

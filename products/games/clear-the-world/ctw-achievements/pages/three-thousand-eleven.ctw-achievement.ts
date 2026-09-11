@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const threeThousandEleven = {
   id: "019dbb6e-0f64-7a66-b6bf-608bb6e18f3b",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "three-thousand-eleven",
   title: "Three Thousand Eleven",

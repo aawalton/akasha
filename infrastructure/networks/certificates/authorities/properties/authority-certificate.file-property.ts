@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const authorityCertificate = {
   id: "01a0685e-1c21-7a40-9f3e-2b7c4d51e803",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "authority-certificate",
   propertySlug: "authority-certificate",

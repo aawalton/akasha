@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const nobelNinetySeven = {
   id: "019dbb6e-3603-706e-9046-a8d947745b47",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "nobel-ninety-seven",
   title: "Nobel Ninety-Seven",

@@ -2,7 +2,6 @@ import type { AgentSettings } from "akasha/seat-system/agent-settings/agent-sett
 
 export const mcpServers = {
   id: "01a0657b-ad40-7e45-b0c2-fbd79f5a4b35",
-  pageTypeSlug: "agent-settings",
   type: "agent-settings",
   slug: "mcp-servers",
   definition: "the tool servers the client is given",

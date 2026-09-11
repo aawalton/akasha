@@ -2,7 +2,6 @@ import type { ComputedProperty } from "akasha/pages/computed-properties/computed
 
 export const collectionCompletion = {
   id: "01a07231-dd66-7ecf-a99e-fe95f4120495",
-  pageTypeSlug: "computed-property",
   type: "computed-property",
   slug: "collection-completion",
   propertySlug: "completion",

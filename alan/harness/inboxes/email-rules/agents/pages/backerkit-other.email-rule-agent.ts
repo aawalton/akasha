@@ -2,7 +2,6 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inboxes/email-rules/age
 
 export const backerkitOther = {
   id: "01a06863-fbe8-79ff-9b14-76faf6830c13",
-  pageTypeSlug: "email-rule-agent",
   type: "email-rule-agent",
   slug: "backerkit-other",
   title: "Backerkit other",

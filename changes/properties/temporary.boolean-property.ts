@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const temporary = {
   id: "01a08be4-8304-781b-9ab3-9259cf4cdafd",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "temporary",
   propertySlug: "temporary",

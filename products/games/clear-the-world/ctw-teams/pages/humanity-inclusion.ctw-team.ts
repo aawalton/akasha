@@ -2,7 +2,6 @@ import type { CtwTeam } from "akasha/products/games/clear-the-world/ctw-teams/ct
 
 export const humanityInclusion = {
   id: "019dbb6d-65bb-7217-8738-f08a278142a6",
-  pageTypeSlug: "ctw-team",
   type: "ctw-team",
   slug: "humanity-inclusion",
   title: "Humanity & Inclusion",

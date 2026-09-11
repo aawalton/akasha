@@ -2,7 +2,6 @@ import type { EsoAddon } from "akasha/code-system/eso-addons/eso-addon.page-type
 
 export const temperLibMainMenu = {
   id: "01a0605b-c805-73f4-b1b0-5aa7831a19d4",
-  pageTypeSlug: "eso-addon",
   type: "eso-addon",
   slug: "temper-lib-main-menu",
   definition: "a shared library adding entries to the game's main menu bar",

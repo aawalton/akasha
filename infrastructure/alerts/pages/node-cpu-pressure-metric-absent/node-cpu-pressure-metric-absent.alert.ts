@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const nodeCpuPressureMetricAbsent = {
   id: "01a06755-62fa-7401-aa72-ada88b0eea14",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "node-cpu-pressure-metric-absent",
   title: "Node CPU pressure metric absent",

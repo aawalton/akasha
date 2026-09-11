@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const k3sApiserverStorageConsistencyCheckFailed = {
   id: "01a06755-62fa-7444-94b8-b66420795c5f",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "k3s-apiserver-storage-consistency-check-failed",
   title: "K3s apiserver storage consistency check failed",

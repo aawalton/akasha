@@ -2,7 +2,6 @@ import type { EsoAddon } from "akasha/code-system/eso-addons/eso-addon.page-type
 
 export const temperLibMapPing = {
   id: "01a0605f-625e-7267-be33-c5a31b618626",
-  pageTypeSlug: "eso-addon",
   type: "eso-addon",
   slug: "temper-lib-map-ping",
   definition: "the game's map ping functions wrapped in one place every addon reaches",

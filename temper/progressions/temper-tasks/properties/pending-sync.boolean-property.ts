@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const pendingSync = {
   id: "01a06d85-7b22-7be6-8897-ac848f243c69",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "pending-sync",
   propertySlug: "pending-sync",

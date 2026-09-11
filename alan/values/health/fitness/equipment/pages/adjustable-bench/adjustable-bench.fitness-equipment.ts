@@ -2,7 +2,6 @@ import type { FitnessEquipment } from "akasha/alan/values/health/fitness/equipme
 
 export const adjustableBench = {
   id: "019f01e1-b22e-7858-a88e-87c274072184",
-  pageTypeSlug: "fitness-equipment",
   type: "fitness-equipment",
   slug: "adjustable-bench",
   title: "Adjustable Bench",

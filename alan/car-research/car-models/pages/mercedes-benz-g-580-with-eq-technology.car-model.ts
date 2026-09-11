@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const mercedesBenzG580WithEqTechnology = {
   id: "019e4af0-940b-7129-98e3-239a47ab9775",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "mercedes-benz-g-580-with-eq-technology",
   title: "G 580 with EQ Technology",

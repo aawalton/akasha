@@ -2,7 +2,6 @@ import type { BuiltImage } from "akasha/infrastructure/container-image/dockerfil
 
 export const buildkit = {
   id: "01a08196-17bb-728a-95ac-3294061e39dc",
-  pageTypeSlug: "built-image",
   type: "built-image",
   slug: "buildkit",
   definition: "the image container images are built by",

@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const gmcHummerEvPickup = {
   id: "019e4adf-1297-796a-8b1b-5c6d486b9f51",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "gmc-hummer-ev-pickup",
   title: "Hummer EV Pickup",

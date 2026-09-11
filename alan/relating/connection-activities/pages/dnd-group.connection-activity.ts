@@ -2,7 +2,6 @@ import type { ConnectionActivity } from "akasha/alan/relating/connection-activit
 
 export const dndGroup = {
   id: "019e931f-59f4-7292-baeb-251dd6b4fc85",
-  pageTypeSlug: "connection-activity",
   type: "connection-activity",
   slug: "dnd-group",
   title: "DnD group",

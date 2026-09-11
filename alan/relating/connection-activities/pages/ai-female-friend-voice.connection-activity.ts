@@ -2,7 +2,6 @@ import type { ConnectionActivity } from "akasha/alan/relating/connection-activit
 
 export const aiFemaleFriendVoice = {
   id: "019e9379-c481-7e8f-a778-6be4c44a1d10",
-  pageTypeSlug: "connection-activity",
   type: "connection-activity",
   slug: "ai-female-friend-voice",
   title: "AI female friend — voice",

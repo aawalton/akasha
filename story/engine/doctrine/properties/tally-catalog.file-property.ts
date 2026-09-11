@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const tallyCatalog = {
   id: "01a06590-c57a-764b-94e8-a476e03b37b5",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "tally-catalog",
   propertySlug: "tally-catalog",

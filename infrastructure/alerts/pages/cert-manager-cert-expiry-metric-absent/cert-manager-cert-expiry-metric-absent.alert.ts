@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const certManagerCertExpiryMetricAbsent = {
   id: "01a06755-62f9-7946-98ea-7e85adabc2f5",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "cert-manager-cert-expiry-metric-absent",
   title: "Cert manager cert expiry metric absent",

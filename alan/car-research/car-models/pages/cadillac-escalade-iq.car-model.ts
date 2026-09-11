@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const cadillacEscaladeIq = {
   id: "019e4ad6-f045-7f75-9bd8-4bcc059272c0",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "cadillac-escalade-iq",
   title: "Escalade IQ",

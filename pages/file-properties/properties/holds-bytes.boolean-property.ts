@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const holdsBytes = {
   id: "01a0783e-bc03-787d-b886-e4476954adbe",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "holds-bytes",
   propertySlug: "holds-bytes",

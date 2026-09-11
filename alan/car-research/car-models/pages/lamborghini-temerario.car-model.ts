@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const lamborghiniTemerario = {
   id: "019e4ae5-035a-71ee-8e44-c7f5cf42c6a9",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "lamborghini-temerario",
   title: "Temerario",

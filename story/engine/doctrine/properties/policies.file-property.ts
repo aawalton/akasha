@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const policies = {
   id: "01a06590-c57a-759d-9dcc-73c83dba1a1a",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "policies",
   propertySlug: "policies",

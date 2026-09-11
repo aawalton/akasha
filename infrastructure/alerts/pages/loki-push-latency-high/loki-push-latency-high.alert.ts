@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const lokiPushLatencyHigh = {
   id: "01a06755-62fa-7ae7-bdf6-d55591a04cae",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "loki-push-latency-high",
   title: "Loki push latency high",

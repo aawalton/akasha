@@ -2,7 +2,6 @@ import type { ComputedProperty } from "akasha/pages/computed-properties/computed
 
 export const stoplights = {
   id: "01a07224-bf20-74dd-b1bc-270ef3cf98c8",
-  pageTypeSlug: "computed-property",
   type: "computed-property",
   slug: "stoplights",
   propertySlug: "stoplights",

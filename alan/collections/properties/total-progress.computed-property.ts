@@ -2,7 +2,6 @@ import type { ComputedProperty } from "akasha/pages/computed-properties/computed
 
 export const totalProgress = {
   id: "01a07231-dd66-7801-846b-93af55027f86",
-  pageTypeSlug: "computed-property",
   type: "computed-property",
   slug: "total-progress",
   propertySlug: "total-progress",

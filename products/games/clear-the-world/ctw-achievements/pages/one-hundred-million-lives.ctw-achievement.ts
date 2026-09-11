@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const oneHundredMillionLives = {
   id: "019dbb6e-1485-7687-aab2-305ec8c311ea",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "one-hundred-million-lives",
   title: "One Hundred Million Lives",

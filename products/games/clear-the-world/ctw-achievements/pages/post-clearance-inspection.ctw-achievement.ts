@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const postClearanceInspection = {
   id: "019dbb6d-f4d4-7320-8306-236f1d87cb01",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "post-clearance-inspection",
   title: "Post-Clearance Inspection",

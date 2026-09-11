@@ -2,7 +2,6 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inboxes/email-rules/age
 
 export const twitchOther = {
   id: "01a06863-fbe9-787c-a7b7-31046d56808e",
-  pageTypeSlug: "email-rule-agent",
   type: "email-rule-agent",
   slug: "twitch-other",
   title: "Twitch other",

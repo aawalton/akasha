@@ -2,7 +2,6 @@ import type { CalendarDateProperty } from "akasha/pages/calendar-date-properties
 
 export const endDate = {
   id: "01a06575-c2c0-7ab4-a4f9-89d4ebba10eb",
-  pageTypeSlug: "calendar-date-property",
   type: "calendar-date-property",
   slug: "end-date",
   propertySlug: "end-date",

@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const questRelevant = {
   id: "01a06053-b380-723f-b7d9-0551ccc5966a",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "quest-relevant",
   propertySlug: "quest-relevant",

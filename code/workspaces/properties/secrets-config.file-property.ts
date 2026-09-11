@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const secretsConfig = {
   id: "01a06cd1-f990-7d6c-b247-6d2cc89c820e",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "secrets-config",
   propertySlug: "secrets-config",

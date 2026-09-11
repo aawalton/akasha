@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const volkswagenId4 = {
   id: "019e4afb-f02d-7947-8b03-d57d20908e5f",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "volkswagen-id-4",
   title: "ID.4",

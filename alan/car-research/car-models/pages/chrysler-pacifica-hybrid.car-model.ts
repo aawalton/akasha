@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const chryslerPacificaHybrid = {
   id: "019e4ad6-a1d2-75ec-94ab-80cb1ad86583",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "chrysler-pacifica-hybrid",
   title: "Pacifica Hybrid",

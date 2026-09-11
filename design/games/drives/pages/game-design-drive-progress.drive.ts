@@ -2,7 +2,6 @@ import type { Drive } from "akasha/design/games/drives/drive.page-type.types.ts"
 
 export const gameDesignDriveProgress = {
   id: "01a06756-f697-794a-9d4f-21814410d87e",
-  pageTypeSlug: "drive",
   type: "drive",
   slug: "game-design-drive-progress",
   definition: "getting better at something",

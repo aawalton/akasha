@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const containerOomKilled = {
   id: "01a06755-62f9-7fe2-97ef-3a5b58a994c5",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "container-oom-killed",
   title: "Container OOM killed",

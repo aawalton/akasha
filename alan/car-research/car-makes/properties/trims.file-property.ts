@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const trims = {
   id: "01a0659e-e27e-78a9-bf4d-aa931e9a9cf8",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "trims",
   propertySlug: "trims",

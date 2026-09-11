@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const toyota4runnerHybrid = {
   id: "019e4b10-4720-77d8-8296-f40ebcc2d40d",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "toyota-4runner-hybrid",
   title: "4Runner Hybrid",

@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const nodeDiskPressure = {
   id: "01a06755-62fa-77f4-b722-505724308e48",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "node-disk-pressure",
   title: "Node disk pressure",

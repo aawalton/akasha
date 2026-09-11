@@ -2,7 +2,6 @@ import type { ComputedProperty } from "akasha/pages/computed-properties/computed
 
 export const attributeLevel = {
   id: "01a081cc-5b79-71ea-9492-1757bb05214d",
-  pageTypeSlug: "computed-property",
   type: "computed-property",
   slug: "attribute-level",
   propertySlug: "level",

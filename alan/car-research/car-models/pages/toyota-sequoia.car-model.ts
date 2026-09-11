@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const toyotaSequoia = {
   id: "019e4b0b-79a5-75d8-8e63-5d1c94a4dabb",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "toyota-sequoia",
   title: "Sequoia",

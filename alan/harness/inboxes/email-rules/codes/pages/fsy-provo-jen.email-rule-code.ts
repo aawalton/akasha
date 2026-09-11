@@ -2,7 +2,6 @@ import type { EmailRuleCode } from "akasha/alan/harness/inboxes/email-rules/code
 
 export const fsyProvoJen = {
   id: "01a06860-54a2-7902-b652-d121b4affcab",
-  pageTypeSlug: "email-rule-code",
   type: "email-rule-code",
   slug: "fsy-provo-jen",
   title: "Fsy provo jen",

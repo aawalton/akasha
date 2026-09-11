@@ -2,7 +2,6 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inboxes/email-rules/age
 
 export const disneyplusOther = {
   id: "01a06863-fbe8-77d7-a886-6636105341a1",
-  pageTypeSlug: "email-rule-agent",
   type: "email-rule-agent",
   slug: "disneyplus-other",
   title: "Disneyplus other",

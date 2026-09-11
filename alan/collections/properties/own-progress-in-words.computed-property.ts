@@ -2,7 +2,6 @@ import type { ComputedProperty } from "akasha/pages/computed-properties/computed
 
 export const ownProgressInWords = {
   id: "01a07231-dd65-7d2c-b7d0-3952fdd790d3",
-  pageTypeSlug: "computed-property",
   type: "computed-property",
   slug: "own-progress-in-words",
   propertySlug: "own-progress-in-words",

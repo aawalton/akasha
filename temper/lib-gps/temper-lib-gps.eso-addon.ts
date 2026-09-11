@@ -2,7 +2,6 @@ import type { EsoAddon } from "akasha/code-system/eso-addons/eso-addon.page-type
 
 export const temperLibGps = {
   id: "01a0614d-4767-7eb4-a5d6-68581039bf67",
-  pageTypeSlug: "eso-addon",
   type: "eso-addon",
   slug: "temper-lib-gps",
   definition: "one map's coordinates carried onto Tamriel's and onto the world's",

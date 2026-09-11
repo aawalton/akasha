@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const cgroupPsiCollectorStale = {
   id: "01a06755-62f9-7451-a703-53f3e5989f26",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "cgroup-psi-collector-stale",
   title: "Cgroup PSI collector stale",

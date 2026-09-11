@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const lokiRequestErrorRateHigh = {
   id: "01a06755-62fa-7253-9300-43463c53ede3",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "loki-request-error-rate-high",
   title: "Loki request error rate high",

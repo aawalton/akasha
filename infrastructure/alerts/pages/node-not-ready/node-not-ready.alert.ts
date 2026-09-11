@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const nodeNotReady = {
   id: "01a06755-62fa-7984-a4b9-20c29a73e619",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "node-not-ready",
   title: "Node not ready",

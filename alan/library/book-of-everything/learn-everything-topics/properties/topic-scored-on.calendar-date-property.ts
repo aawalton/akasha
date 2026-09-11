@@ -2,7 +2,6 @@ import type { CalendarDateProperty } from "akasha/pages/calendar-date-properties
 
 export const topicScoredOn = {
   id: "01a0659f-93da-7005-b11f-60f797d029d6",
-  pageTypeSlug: "calendar-date-property",
   type: "calendar-date-property",
   slug: "topic-scored-on",
   propertySlug: "scored-on",

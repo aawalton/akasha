@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const postgresBaseBackupStale = {
   id: "01a06755-62fa-7f5f-9575-b8816c5392a8",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "postgres-base-backup-stale",
   title: "Postgres base backup stale",

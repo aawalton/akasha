@@ -2,7 +2,6 @@ import type { Color } from "akasha/design/interfaces/colors/color.page-type.type
 
 export const silver = {
   id: "01a08220-20cb-7f62-ae88-9f2da45fb6c6",
-  pageTypeSlug: "color",
   type: "color",
   slug: "silver",
   title: "Silver",

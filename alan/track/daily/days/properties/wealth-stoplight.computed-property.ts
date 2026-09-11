@@ -2,7 +2,6 @@ import type { ComputedProperty } from "akasha/pages/computed-properties/computed
 
 export const wealthStoplight = {
   id: "01a0721c-cebf-70db-ae3f-c35938f2e542",
-  pageTypeSlug: "computed-property",
   type: "computed-property",
   slug: "wealth-stoplight",
   propertySlug: "wealth-stoplight",

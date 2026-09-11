@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const syncedLyrics = {
   id: "01a06243-144b-700d-853d-d8f519a6ff09",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "synced-lyrics",
   propertySlug: "synced-lyrics",

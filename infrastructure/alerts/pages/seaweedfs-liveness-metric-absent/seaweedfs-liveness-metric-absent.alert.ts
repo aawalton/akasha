@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const seaweedfsLivenessMetricAbsent = {
   id: "01a06755-62fb-79e5-8109-3cf37e9b47a9",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "seaweedfs-liveness-metric-absent",
   title: "SeaweedFS liveness metric absent",

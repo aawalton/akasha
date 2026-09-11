@@ -2,7 +2,6 @@ import type { CharacterBuild } from "akasha/temper/characters/character-builds/c
 
 export const zzverifyPlanclerk2 = {
   id: "019f99ae-d884-78ad-8c46-4d4b52db28d0",
-  pageTypeSlug: "character-build",
   type: "character-build",
   slug: "zzverify-planclerk-2",
   title: "Zzverify Planclerk",

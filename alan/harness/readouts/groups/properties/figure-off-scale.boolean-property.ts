@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const figureOffScale = {
   id: "01a06559-e74c-7248-9e76-67d17dce9bc4",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "figure-off-scale",
   propertySlug: "figure-off-scale",

@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const mapa = {
   id: "019dbb6d-e09d-7c2a-a441-98025f7fba5e",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "mapa",
   title: "MAPA",

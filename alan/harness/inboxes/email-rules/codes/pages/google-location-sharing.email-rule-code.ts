@@ -2,7 +2,6 @@ import type { EmailRuleCode } from "akasha/alan/harness/inboxes/email-rules/code
 
 export const googleLocationSharing = {
   id: "01a06860-54a2-79d8-97f8-7bdf524cc9b8",
-  pageTypeSlug: "email-rule-code",
   type: "email-rule-code",
   slug: "google-location-sharing",
   title: "Google location sharing",

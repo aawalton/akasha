@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const postgresHighConnections = {
   id: "01a06755-62fb-76c9-beb4-0890595ffdd3",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "postgres-high-connections",
   title: "Postgres high connections",

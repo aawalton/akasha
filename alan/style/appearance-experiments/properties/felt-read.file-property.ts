@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const feltRead = {
   id: "01a0685d-b81f-75fb-859d-dbff41d461c4",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "felt-read",
   propertySlug: "felt-read",

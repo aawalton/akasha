@@ -2,7 +2,6 @@ import type { ConnectionActivity } from "akasha/alan/relating/connection-activit
 
 export const phoneCallMaleFriend = {
   id: "019e935c-5eaf-741e-bf98-2cb95815d1e7",
-  pageTypeSlug: "connection-activity",
   type: "connection-activity",
   slug: "phone-call-male-friend",
   title: "Phone call — male friend",

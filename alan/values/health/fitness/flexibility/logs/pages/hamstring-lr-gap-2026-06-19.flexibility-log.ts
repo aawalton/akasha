@@ -2,7 +2,6 @@ import type { FlexibilityLog } from "akasha/alan/values/health/fitness/flexibili
 
 export const hamstringLrGap20260619 = {
   id: "019f01e1-c2b6-79a2-8cb4-6e84310a8ab1",
-  pageTypeSlug: "flexibility-log",
   type: "flexibility-log",
   slug: "hamstring-lr-gap-2026-06-19",
   title: "hamstring-lr-gap 2026-06-19",

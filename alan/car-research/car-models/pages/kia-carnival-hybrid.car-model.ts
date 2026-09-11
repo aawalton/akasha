@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const kiaCarnivalHybrid = {
   id: "019e4aee-c1bf-76c0-ad4d-c805995c5e5b",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "kia-carnival-hybrid",
   title: "Carnival Hybrid",

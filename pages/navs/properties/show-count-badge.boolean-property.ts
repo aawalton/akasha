@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const showCountBadge = {
   id: "01a0680e-5e00-7006-9d84-6f2b7a5e5107",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "show-count-badge",
   propertySlug: "show-count-badge",

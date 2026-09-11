@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const mitsubishiOutlander = {
   id: "019e4af2-69b7-7a33-a7d5-e7497d727de0",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "mitsubishi-outlander",
   title: "Outlander",

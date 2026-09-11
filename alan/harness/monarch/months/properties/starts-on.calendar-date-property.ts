@@ -2,7 +2,6 @@ import type { CalendarDateProperty } from "akasha/pages/calendar-date-properties
 
 export const startsOn = {
   id: "01a0680b-2b00-7000-9a17-4d2c8e6f2101",
-  pageTypeSlug: "calendar-date-property",
   type: "calendar-date-property",
   slug: "starts-on",
   propertySlug: "starts-on",

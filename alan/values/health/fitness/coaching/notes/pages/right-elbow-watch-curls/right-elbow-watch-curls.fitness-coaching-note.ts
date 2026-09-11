@@ -2,7 +2,6 @@ import type { FitnessCoachingNote } from "akasha/alan/values/health/fitness/coac
 
 export const rightElbowWatchCurls = {
   id: "019f01e1-b88f-7392-bd8a-bd1c13031cfc",
-  pageTypeSlug: "fitness-coaching-note",
   type: "fitness-coaching-note",
   slug: "right-elbow-watch-curls",
   title: "Right elbow — watch curls",

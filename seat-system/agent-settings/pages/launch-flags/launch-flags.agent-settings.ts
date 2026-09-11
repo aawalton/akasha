@@ -2,7 +2,6 @@ import type { AgentSettings } from "akasha/seat-system/agent-settings/agent-sett
 
 export const launchFlags = {
   id: "01a0657b-ad40-7216-8ef6-8986aaba140c",
-  pageTypeSlug: "agent-settings",
   type: "agent-settings",
   slug: "launch-flags",
   definition: "the flags the client is launched with",

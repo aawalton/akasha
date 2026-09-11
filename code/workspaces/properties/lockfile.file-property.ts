@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const lockfile = {
   id: "01a06cbb-60a1-700e-9f60-bf05f8f24dee",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "lockfile",
   propertySlug: "lockfile",

@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const theTeteCorridor = {
   id: "019dbb6d-b163-79d1-91f7-0ec011336e9d",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "the-tete-corridor",
   title: "The Tete Corridor",

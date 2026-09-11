@@ -2,7 +2,6 @@ import type { ComputedProperty } from "akasha/pages/computed-properties/computed
 
 export const learnStoplight = {
   id: "01a0721c-cebd-7846-93a8-470678b43ca6",
-  pageTypeSlug: "computed-property",
   type: "computed-property",
   slug: "learn-stoplight",
   propertySlug: "learn-stoplight",

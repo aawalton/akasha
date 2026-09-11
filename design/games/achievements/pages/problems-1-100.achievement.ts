@@ -2,7 +2,6 @@ import type { Achievement } from "akasha/design/games/achievements/achievement.p
 
 export const problems1100 = {
   id: "01a06808-8818-7002-9300-3e04a48d5e4a",
-  pageTypeSlug: "achievement",
   type: "achievement",
   slug: "problems-1-100",
   title: "Problems 1-100",

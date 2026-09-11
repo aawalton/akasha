@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const tokens = {
   id: "01a081b0-82e6-75b2-91dd-dc777765ee0b",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "tokens",
   propertySlug: "tokens",

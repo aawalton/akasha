@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const isMorph = {
   id: "01a05fca-cb83-7c29-9709-61ea9622a90d",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "is-morph",
   propertySlug: "is-morph",

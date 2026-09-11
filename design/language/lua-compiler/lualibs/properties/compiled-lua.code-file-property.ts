@@ -2,7 +2,6 @@ import type { CodeFileProperty } from "akasha/pages/code-file-properties/code-fi
 
 export const compiledLua = {
   id: "01a0816a-5592-72f4-bb18-b8c088a5bb4c",
-  pageTypeSlug: "code-file-property",
   type: "code-file-property",
   slug: "compiled-lua",
   propertySlug: "compiled-lua",

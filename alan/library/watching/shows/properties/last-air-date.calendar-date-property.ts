@@ -2,7 +2,6 @@ import type { CalendarDateProperty } from "akasha/pages/calendar-date-properties
 
 export const lastAirDate = {
   id: "01a06599-ee09-700d-9b99-fd8bc2af90cc",
-  pageTypeSlug: "calendar-date-property",
   type: "calendar-date-property",
   slug: "last-air-date",
   propertySlug: "last-air-date",

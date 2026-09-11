@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const domainRegistrationExpiringCritical = {
   id: "01a06755-62f9-74d6-83b8-852ac0c74cc7",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "domain-registration-expiring-critical",
   title: "Domain registration expiring critical",

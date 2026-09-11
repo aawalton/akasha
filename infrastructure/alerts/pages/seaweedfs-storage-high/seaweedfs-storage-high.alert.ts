@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const seaweedfsStorageHigh = {
   id: "01a06755-62fb-7a92-a2a3-57bd4c66511a",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "seaweedfs-storage-high",
   title: "SeaweedFS storage high",

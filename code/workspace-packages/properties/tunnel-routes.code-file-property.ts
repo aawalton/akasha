@@ -2,7 +2,6 @@ import type { CodeFileProperty } from "akasha/pages/code-file-properties/code-fi
 
 export const tunnelRoutes = {
   id: "01a07ca0-e76c-71da-8616-2c2018f4bfc0",
-  pageTypeSlug: "code-file-property",
   type: "code-file-property",
   slug: "tunnel-routes",
   propertySlug: "tunnel-routes",

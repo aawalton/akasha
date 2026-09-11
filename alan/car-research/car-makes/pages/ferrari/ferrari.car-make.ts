@@ -2,7 +2,6 @@ import type { CarMake } from "akasha/alan/car-research/car-makes/car-make.page-t
 
 export const ferrari = {
   id: "019e4ad9-8d6d-7bf1-87d2-678a838303e1",
-  pageTypeSlug: "car-make",
   type: "car-make",
   slug: "ferrari",
   title: "Ferrari",

@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const jeepWagoneerS = {
   id: "019e4ae2-5342-7fa9-8862-b50eb6a0ed74",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "jeep-wagoneer-s",
   title: "Wagoneer S",

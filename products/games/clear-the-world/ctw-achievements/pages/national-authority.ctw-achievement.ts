@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const nationalAuthority = {
   id: "019dbb6d-e838-7c13-b275-ac282c9aa167",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "national-authority",
   title: "National Authority",

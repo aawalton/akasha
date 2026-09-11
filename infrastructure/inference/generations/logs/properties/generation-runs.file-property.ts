@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const generationRuns = {
   id: "01a0685d-b81f-733c-884c-2ad8e70c0c6f",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "generation-runs",
   propertySlug: "runs",

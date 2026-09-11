@@ -2,7 +2,6 @@ import type { CpuKind } from "akasha/infrastructure/cpu/kinds/cpu-kind.page-type
 
 export const utilization = {
   id: "01a0918b-7688-7fb8-a940-bbcdee460ae4",
-  pageTypeSlug: "cpu-kind",
   type: "cpu-kind",
   slug: "utilization",
   definition: "the part of a processor a program spent over a stretch of time",

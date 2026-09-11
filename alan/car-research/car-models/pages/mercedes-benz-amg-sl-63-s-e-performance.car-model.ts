@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const mercedesBenzAmgSl63SEPerformance = {
   id: "019e4afc-40cf-7942-8a54-dc39d2f857ec",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "mercedes-benz-amg-sl-63-s-e-performance",
   title: "AMG SL 63 S E Performance",

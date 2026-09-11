@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const liveShell = {
   id: "01a06d9a-4c11-7000-8f2e-5b1d0a7c3e44",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "live-shell",
   propertySlug: "live-shell",

@@ -2,7 +2,6 @@ import type { CpuKind } from "akasha/infrastructure/cpu/kinds/cpu-kind.page-type
 
 export const stall = {
   id: "01a0918b-a51f-7d82-80da-02dff45a7313",
-  pageTypeSlug: "cpu-kind",
   type: "cpu-kind",
   slug: "stall",
   definition: "time work waited for a processor that work could have used",

@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const eightyPercent = {
   id: "019dbb6e-26c2-74d9-9c74-6312d9908cd1",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "eighty-percent",
   title: "Eighty Percent",

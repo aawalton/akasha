@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const mineAwarenessDay = {
   id: "019dbb6e-4069-7eed-868a-53344fe2196b",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "mine-awareness-day",
   title: "Mine Awareness Day",

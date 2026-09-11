@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const subscriberLag = {
   id: "01a06755-62fb-7e20-b27c-e1110a2c8e90",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "subscriber-lag",
   title: "Subscriber lag",

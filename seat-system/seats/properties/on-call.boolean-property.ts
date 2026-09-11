@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const onCall = {
   id: "01a0539b-d9f2-7d0c-80d9-1eabbdc9ec3e",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "on-call",
   propertySlug: "on-call",

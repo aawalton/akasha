@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const k3sApiserverTerminatedWatchers = {
   id: "01a06755-62fa-71d1-8a3b-76e01294ba19",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "k3s-apiserver-terminated-watchers",
   title: "K3s apiserver terminated watchers",

@@ -2,7 +2,6 @@ import type { CpuKind } from "akasha/infrastructure/cpu/kinds/cpu-kind.page-type
 
 export const load = {
   id: "01a0918b-8e9a-7420-a518-4753a2354569",
-  pageTypeSlug: "cpu-kind",
   type: "cpu-kind",
   slug: "load",
   definition: "how many threads were runnable or waiting on disk, averaged over a stretch",

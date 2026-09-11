@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const following = {
   id: "01a063de-2c60-700a-b99a-430529589ec1",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "following",
   propertySlug: "following",

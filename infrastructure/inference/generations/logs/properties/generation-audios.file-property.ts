@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const generationAudios = {
   id: "01a0685d-b81f-7b18-83d0-35da71ba6877",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "generation-audios",
   propertySlug: "audios",

@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const specializeLocked = {
   id: "01a06596-f0d5-7006-b7ce-ac38a3dd0a68",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "specialize-locked",
   propertySlug: "specialize-locked",

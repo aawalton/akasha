@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const domainRegistrationExpiryMetricAbsent = {
   id: "01a06755-62f9-728b-a173-bc576a971329",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "domain-registration-expiry-metric-absent",
   title: "Domain registration expiry metric absent",

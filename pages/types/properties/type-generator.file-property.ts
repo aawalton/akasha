@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const typeGenerator = {
   id: "01a0879f-931a-78e7-a5ea-03409cb5ee56",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "type-generator",
   propertySlug: "type-generator",

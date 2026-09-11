@@ -2,7 +2,6 @@ import type { ComputedProperty } from "akasha/pages/computed-properties/computed
 
 export const personaRelationshipLevel = {
   id: "01a082dd-bbc6-70a8-b7c5-94c16ef56e98",
-  pageTypeSlug: "computed-property",
   type: "computed-property",
   slug: "persona-relationship-level",
   propertySlug: "relationship-level",

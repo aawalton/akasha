@@ -2,7 +2,6 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inboxes/email-rules/age
 
 export const linkOther = {
   id: "01a06863-fbe9-715e-8c94-735511a5f944",
-  pageTypeSlug: "email-rule-agent",
   type: "email-rule-agent",
   slug: "link-other",
   title: "Link other",

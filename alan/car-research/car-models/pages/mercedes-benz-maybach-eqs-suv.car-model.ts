@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const mercedesBenzMaybachEqsSuv = {
   id: "019e4af0-52ac-7407-879e-b1f2463b78ed",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "mercedes-benz-maybach-eqs-suv",
   title: "Maybach EQS SUV",

@@ -2,7 +2,6 @@ import type { EmailRuleCode } from "akasha/alan/harness/inboxes/email-rules/code
 
 export const familyLinkActivity = {
   id: "01a06860-54a2-759a-92a2-93192deed6ad",
-  pageTypeSlug: "email-rule-code",
   type: "email-rule-code",
   slug: "family-link-activity",
   title: "Family link activity",

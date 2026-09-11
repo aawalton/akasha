@@ -2,7 +2,6 @@ import type { ConnectionActivity } from "akasha/alan/relating/connection-activit
 
 export const conversationWithAmy = {
   id: "019e931f-5872-769f-a9c1-eeb327436f83",
-  pageTypeSlug: "connection-activity",
   type: "connection-activity",
   slug: "conversation-with-amy",
   title: "Conversation with Amy",

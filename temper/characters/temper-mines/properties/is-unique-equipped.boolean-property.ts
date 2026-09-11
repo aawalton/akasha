@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const isUniqueEquipped = {
   id: "01a05fcd-f550-7988-b8c3-38d1296b72da",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "is-unique-equipped",
   propertySlug: "is-unique-equipped",

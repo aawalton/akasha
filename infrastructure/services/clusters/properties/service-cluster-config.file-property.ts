@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const serviceClusterConfig = {
   id: "01a07c92-3daf-72f1-8010-749415723ba4",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "service-cluster-config",
   propertySlug: "config",

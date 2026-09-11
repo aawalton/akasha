@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const isBallistic = {
   id: "01a0657e-2bbf-788d-a2d8-02eafb826a19",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "is-ballistic",
   propertySlug: "is-ballistic",

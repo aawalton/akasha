@@ -2,7 +2,6 @@ import type { Finding } from "akasha/domains/findings/finding.page-type.types.ts
 
 export const aSeatRunsInAScopeTmuxMadeWithNoCeilingAtAll = {
   id: "01a0918f-0301-75b3-9a69-6fb97647cdc1",
-  pageTypeSlug: "finding",
   type: "finding",
   slug: "a-seat-runs-in-a-scope-tmux-made-with-no-ceiling-at-all",
   domain: "domain/cpu-limit",

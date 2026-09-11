@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const lua50Config = {
   id: "01a06759-2aa6-7002-bb81-e64cbb1d51e4",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "lua50-config",
   propertySlug: "lua50-config",

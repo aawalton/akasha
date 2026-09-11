@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const nullable = {
   id: "01a08d70-c263-7e18-b970-543a49a8397c",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "nullable",
   propertySlug: "nullable",

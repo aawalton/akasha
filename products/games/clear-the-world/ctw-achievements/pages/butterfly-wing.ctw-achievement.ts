@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const butterflyWing = {
   id: "019dbb6d-8075-7aa9-81ee-471785c4839b",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "butterfly-wing",
   title: "Butterfly Wing",

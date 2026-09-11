@@ -2,7 +2,6 @@ import type { CharacterBuild } from "akasha/temper/characters/character-builds/c
 
 export const sweepTestChar = {
   id: "01a06862-a02d-760d-a3ce-ad864244e292",
-  pageTypeSlug: "character-build",
   type: "character-build",
   slug: "sweep-test-char",
   title: "sweep-test-char",

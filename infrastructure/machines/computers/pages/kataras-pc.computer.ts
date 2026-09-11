@@ -2,7 +2,6 @@ import type { Computer } from "akasha/infrastructure/machines/computers/computer
 
 export const katarasPc = {
   id: "019e8b92-3a42-758b-99e9-f9c73c1bc608",
-  pageTypeSlug: "computer",
   type: "computer",
   slug: "kataras-pc",
   title: "Katara’s PC",

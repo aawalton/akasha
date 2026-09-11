@@ -2,7 +2,6 @@ import type { ComputedProperty } from "akasha/pages/computed-properties/computed
 
 export const partsRemainingInWords = {
   id: "01a07231-dd65-75ec-9c0e-78571de7719b",
-  pageTypeSlug: "computed-property",
   type: "computed-property",
   slug: "parts-remaining-in-words",
   propertySlug: "parts-remaining-in-words",

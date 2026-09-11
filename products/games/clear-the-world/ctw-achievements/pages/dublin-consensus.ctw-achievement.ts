@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const dublinConsensus = {
   id: "019dbb6e-4591-7024-8ad4-f8df1122b008",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "dublin-consensus",
   title: "Dublin Consensus",

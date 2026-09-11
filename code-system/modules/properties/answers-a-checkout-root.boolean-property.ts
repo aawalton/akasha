@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const answersACheckoutRoot = {
   id: "01a08e6d-891c-7ef0-9e07-15a09351a84e",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "answers-a-checkout-root",
   propertySlug: "answers-a-checkout-root",

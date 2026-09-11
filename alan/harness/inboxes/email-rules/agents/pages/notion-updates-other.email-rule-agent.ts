@@ -2,7 +2,6 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inboxes/email-rules/age
 
 export const notionUpdatesOther = {
   id: "01a06863-fbe9-7635-b1fe-46f0733246a8",
-  pageTypeSlug: "email-rule-agent",
   type: "email-rule-agent",
   slug: "notion-updates-other",
   title: "Notion updates other",

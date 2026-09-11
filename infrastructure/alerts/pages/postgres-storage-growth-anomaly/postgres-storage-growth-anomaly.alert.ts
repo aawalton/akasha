@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const postgresStorageGrowthAnomaly = {
   id: "01a06755-62fb-7e54-93df-01d88f7d9d33",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "postgres-storage-growth-anomaly",
   title: "Postgres storage growth anomaly",

@@ -2,7 +2,6 @@ import type { FitnessCoachingNote } from "akasha/alan/values/health/fitness/coac
 
 export const beatSaberReCueUpperDaysRestOnLegs = {
   id: "019f01e1-bd3c-7418-aff5-89f5f5ad3000",
-  pageTypeSlug: "fitness-coaching-note",
   type: "fitness-coaching-note",
   slug: "beat-saber-re-cue-upper-days-rest-on-legs",
   title: "Beat Saber re-cue (upper days; rest on legs)",

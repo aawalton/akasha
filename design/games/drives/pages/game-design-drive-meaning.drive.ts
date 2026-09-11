@@ -2,7 +2,6 @@ import type { Drive } from "akasha/design/games/drives/drive.page-type.types.ts"
 
 export const gameDesignDriveMeaning = {
   id: "01a06756-f676-7b89-a565-678d2e6631a7",
-  pageTypeSlug: "drive",
   type: "drive",
   slug: "game-design-drive-meaning",
   definition: "being part of something bigger",

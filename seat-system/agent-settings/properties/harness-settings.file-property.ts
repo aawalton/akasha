@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const harnessSettings = {
   id: "01a0657b-ad40-7560-a9d3-d510dfab3cf8",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "harness-settings",
   propertySlug: "harness-settings",

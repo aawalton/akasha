@@ -2,7 +2,6 @@ import type { CarMake } from "akasha/alan/car-research/car-makes/car-make.page-t
 
 export const lucid = {
   id: "019e4aea-25d9-7113-b0e4-3922f1c54bfc",
-  pageTypeSlug: "car-make",
   type: "car-make",
   slug: "lucid",
   title: "Lucid",

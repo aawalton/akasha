@@ -2,7 +2,6 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inboxes/email-rules/age
 
 export const dmarcSenderOther = {
   id: "01a06863-fbe8-7e8f-b007-0de759a54215",
-  pageTypeSlug: "email-rule-agent",
   type: "email-rule-agent",
   slug: "dmarc-sender-other",
   title: "Dmarc sender other",

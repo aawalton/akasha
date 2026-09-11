@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const subagentEdits = {
   id: "01a08d62-417b-781b-9088-442ac476d7ae",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "subagent-edits",
   propertySlug: "subagent-edits",

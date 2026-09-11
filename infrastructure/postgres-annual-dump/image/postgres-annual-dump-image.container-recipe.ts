@@ -2,7 +2,6 @@ import type { ContainerRecipe } from "akasha/code/container-recipes/container-re
 
 export const postgresAnnualDumpImage = {
   id: "01a06865-c012-7003-8c4a-6d2e8b3f4a03",
-  pageTypeSlug: "container-recipe",
   type: "container-recipe",
   slug: "postgres-annual-dump-image",
   definition: "the image the yearly dump runs from, with the Postgres tools and rclone",

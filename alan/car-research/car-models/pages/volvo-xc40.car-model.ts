@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const volvoXc40 = {
   id: "019e4afd-5454-713f-a892-73fb2ffeb5b8",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "volvo-xc40",
   title: "XC40",

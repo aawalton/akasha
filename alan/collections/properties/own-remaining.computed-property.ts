@@ -2,7 +2,6 @@ import type { ComputedProperty } from "akasha/pages/computed-properties/computed
 
 export const ownRemaining = {
   id: "01a07231-dd65-7c1d-91f5-797951efdddd",
-  pageTypeSlug: "computed-property",
   type: "computed-property",
   slug: "own-remaining",
   propertySlug: "own-remaining",

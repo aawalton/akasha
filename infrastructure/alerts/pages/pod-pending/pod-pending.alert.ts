@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const podPending = {
   id: "01a06755-62fa-7081-8013-cdfa3b7c5c5b",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "pod-pending",
   title: "Pod pending",

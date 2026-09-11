@@ -2,7 +2,6 @@ import type { EmailRuleCode } from "akasha/alan/harness/inboxes/email-rules/code
 
 export const royalroadMarketing = {
   id: "01a06860-54a2-7ed1-a11d-0ecb41f0a11d",
-  pageTypeSlug: "email-rule-code",
   type: "email-rule-code",
   slug: "royalroad-marketing",
   title: "Royalroad marketing",

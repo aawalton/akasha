@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const whatTried = {
   id: "01a0685d-b81f-7f8e-8a19-41a2bcc1be19",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "what-tried",
   propertySlug: "what-tried",

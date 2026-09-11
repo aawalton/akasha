@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const frameEdgeToEdge = {
   id: "01a0683a-620a-782d-98a8-24d1f80e3ef8",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "frame-edge-to-edge",
   propertySlug: "edge-to-edge",

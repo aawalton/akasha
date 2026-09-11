@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const locationCollectionDescription = {
   id: "01a06589-d12e-7ac4-8ef8-cba8fb8d1b01",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "location-collection-description",
   propertySlug: "location-collection-description",

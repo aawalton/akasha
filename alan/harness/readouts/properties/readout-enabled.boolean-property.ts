@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const readoutEnabled = {
   id: "01a063bd-a526-7356-a7bd-00f589dcdc18",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "readout-enabled",
   propertySlug: "enabled",

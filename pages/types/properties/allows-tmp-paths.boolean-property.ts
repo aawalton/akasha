@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const allowsTmpPaths = {
   id: "01a0722b-2eaf-7edc-9104-bd5677e7020d",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "allows-tmp-paths",
   propertySlug: "allows-tmp-paths",

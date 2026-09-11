@@ -2,7 +2,6 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inboxes/email-rules/age
 
 export const gcpOther = {
   id: "01a06863-fbe9-7ae1-b4a1-79ba73d6bd94",
-  pageTypeSlug: "email-rule-agent",
   type: "email-rule-agent",
   slug: "gcp-other",
   title: "Gcp other",

@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const wideAreaSurvey = {
   id: "019dbb6d-a70e-7cbd-a5ca-cfdff6e2aa11",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "wide-area-survey",
   title: "Wide Area Survey",

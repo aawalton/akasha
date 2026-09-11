@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const trainsLengthenedRange = {
   id: "01a0657e-2bc0-7519-942f-92178841ec74",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "trains-lengthened-range",
   propertySlug: "trains-lengthened-range",

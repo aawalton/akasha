@@ -2,7 +2,6 @@ import type { Achievement } from "akasha/design/games/achievements/achievement.p
 
 export const projectEuler = {
   id: "01a06808-8818-700c-bbd4-3ff7aadd7f6e",
-  pageTypeSlug: "achievement",
   type: "achievement",
   slug: "project-euler",
   title: "Project Euler",

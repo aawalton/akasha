@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const kuito = {
   id: "019dbb6d-733b-7bbc-9864-86810bb30d3e",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "kuito",
   title: "Kuito",

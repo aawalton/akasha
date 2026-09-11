@@ -2,7 +2,6 @@ import type { ComputedProperty } from "akasha/pages/computed-properties/computed
 
 export const faithLevel = {
   id: "01a07211-0e16-72be-89cf-abcacd834c99",
-  pageTypeSlug: "computed-property",
   type: "computed-property",
   slug: "faith-level",
   propertySlug: "faith-level",

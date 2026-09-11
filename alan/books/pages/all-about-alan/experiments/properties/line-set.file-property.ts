@@ -2,7 +2,6 @@ import type { FileProperty } from "akasha/pages/file-properties/file-property.pa
 
 export const lineSet = {
   id: "01a0657f-a729-7826-9473-150f1db12554",
-  pageTypeSlug: "file-property",
   type: "file-property",
   slug: "line-set",
   propertySlug: "line-set",

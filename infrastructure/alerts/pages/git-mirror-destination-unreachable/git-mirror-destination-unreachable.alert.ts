@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const gitMirrorDestinationUnreachable = {
   id: "01a06755-62f9-7bf4-9544-04ea427cae2a",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "git-mirror-destination-unreachable",
   title: "Git mirror destination unreachable",

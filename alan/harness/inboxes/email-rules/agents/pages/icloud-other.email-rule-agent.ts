@@ -2,7 +2,6 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inboxes/email-rules/age
 
 export const icloudOther = {
   id: "01a06863-fbe9-722d-b3fd-000449f81109",
-  pageTypeSlug: "email-rule-agent",
   type: "email-rule-agent",
   slug: "icloud-other",
   title: "Icloud other",

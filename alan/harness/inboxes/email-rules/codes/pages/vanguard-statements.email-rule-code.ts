@@ -2,7 +2,6 @@ import type { EmailRuleCode } from "akasha/alan/harness/inboxes/email-rules/code
 
 export const vanguardStatements = {
   id: "01a06860-54a2-7cad-8083-f8e07513f892",
-  pageTypeSlug: "email-rule-code",
   type: "email-rule-code",
   slug: "vanguard-statements",
   title: "Vanguard statements",

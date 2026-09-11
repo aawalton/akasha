@@ -2,7 +2,6 @@ import type { EsoAddon } from "akasha/code-system/eso-addons/eso-addon.page-type
 
 export const temperCatalogAddon = {
   id: "01a063ba-94e5-7c5d-b338-174ed9b6a224",
-  pageTypeSlug: "eso-addon",
   type: "eso-addon",
   slug: "temper-catalog-addon",
   definition: "the add-on reading the game's own reference data and saving it for Temper to use",

@@ -2,7 +2,6 @@ import type { BannedTerm } from "akasha/domains/standard-agent-english/terms/ban
 
 export const carryHaving = {
   id: "01a08201-dca4-73e6-9ae8-de460a3cf483",
-  pageTypeSlug: "banned-term",
   type: "banned-term",
   slug: "carry-having",
   spelling: "carry",

@@ -2,7 +2,6 @@ import type { AuthorityKind } from "akasha/persons/authority-kinds/authority-kin
 
 export const featureRequest = {
   id: "01a0542d-4b9e-7b88-a0ce-733a68237a2b",
-  pageTypeSlug: "authority-kind",
   type: "authority-kind",
   slug: "feature-request",
   definition: "asking for work the system does not do yet",

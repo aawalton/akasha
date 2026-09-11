@@ -2,7 +2,6 @@ import type { BuildFolderProperty } from "akasha/pages/build-folder-properties/b
 
 export const outputDirectory = {
   id: "01a09122-8e2a-7a30-9e08-9d4fe5a01cc9",
-  pageTypeSlug: "build-folder-property",
   type: "build-folder-property",
   slug: "output-directory",
   propertySlug: "output-directory",

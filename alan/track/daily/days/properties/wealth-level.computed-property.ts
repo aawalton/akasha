@@ -2,7 +2,6 @@ import type { ComputedProperty } from "akasha/pages/computed-properties/computed
 
 export const wealthLevel = {
   id: "01a0720f-c6fc-740c-a8ac-1c3dbfad2809",
-  pageTypeSlug: "computed-property",
   type: "computed-property",
   slug: "wealth-level",
   propertySlug: "wealth-level",

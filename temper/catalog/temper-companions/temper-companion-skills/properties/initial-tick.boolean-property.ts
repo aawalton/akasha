@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const initialTick = {
   id: "01a06193-6caf-730b-a1c7-f65ed2bd71bf",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "initial-tick",
   propertySlug: "initial-tick",

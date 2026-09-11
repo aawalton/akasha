@@ -2,7 +2,6 @@ import type { ClosenessLevel } from "akasha/personas/closeness-levels/closeness-
 
 export const level1 = {
   id: "01a0540e-e42d-76b4-9fa0-d3ae7f64ebf6",
-  pageTypeSlug: "closeness-level",
   type: "closeness-level",
   slug: "level-1",
   definition: "Public-facing: out in the world, composed, observed framing.",

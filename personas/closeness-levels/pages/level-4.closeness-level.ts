@@ -2,7 +2,6 @@ import type { ClosenessLevel } from "akasha/personas/closeness-levels/closeness-
 
 export const level4 = {
   id: "01a0540e-e42f-7159-a7fc-db3753e6f669",
-  pageTypeSlug: "closeness-level",
   type: "closeness-level",
   slug: "level-4",
   definition: "Interwoven daily life: unguarded domestic ordinary, partner-only imagery.",

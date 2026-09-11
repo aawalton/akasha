@@ -2,7 +2,6 @@ import type { CalendarDateProperty } from "akasha/pages/calendar-date-properties
 
 export const transactionDay = {
   id: "01a0680b-2b00-7001-8c63-5f1a9d4b2102",
-  pageTypeSlug: "calendar-date-property",
   type: "calendar-date-property",
   slug: "transaction-day",
   propertySlug: "transaction-day",

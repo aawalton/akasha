@@ -2,7 +2,6 @@ import type { EsoAddon } from "akasha/code-system/eso-addons/eso-addon.page-type
 
 export const temperLibCustomMenu = {
   id: "01a0605a-581c-7eb1-aaf7-831f236462fa",
-  pageTypeSlug: "eso-addon",
   type: "eso-addon",
   slug: "temper-lib-custom-menu",
   definition: "an addon library adding sub-menus, dividers and headers to the game's context menus",

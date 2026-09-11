@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const preahVihear = {
   id: "019dbb6d-e335-7920-b64d-a63b793a8722",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "preah-vihear",
   title: "Preah Vihear",

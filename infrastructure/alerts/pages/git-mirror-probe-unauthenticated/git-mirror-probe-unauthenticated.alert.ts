@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const gitMirrorProbeUnauthenticated = {
   id: "01a06755-62f9-72b6-a674-1f6b0f2c2099",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "git-mirror-probe-unauthenticated",
   title: "Git mirror probe unauthenticated",

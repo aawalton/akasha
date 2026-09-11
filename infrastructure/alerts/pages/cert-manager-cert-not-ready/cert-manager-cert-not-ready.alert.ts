@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const certManagerCertNotReady = {
   id: "01a06755-62f9-760a-9e0d-94a487ad1a93",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "cert-manager-cert-not-ready",
   title: "Cert manager cert not ready",

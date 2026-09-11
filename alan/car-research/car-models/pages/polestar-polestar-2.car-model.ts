@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const polestarPolestar2 = {
   id: "019e4af2-a355-7d08-b5ca-1d789a4b80fa",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "polestar-polestar-2",
   title: "Polestar 2",

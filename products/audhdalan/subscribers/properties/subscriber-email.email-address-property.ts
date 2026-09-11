@@ -2,7 +2,6 @@ import type { EmailAddressProperty } from "akasha/pages/email-address-properties
 
 export const subscriberEmail = {
   id: "01a06589-3de2-783b-a7e9-c2869ea975e3",
-  pageTypeSlug: "email-address-property",
   type: "email-address-property",
   slug: "subscriber-email",
   propertySlug: "email",

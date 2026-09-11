@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const teslaCybertruck = {
   id: "019e4af8-3e13-72ad-991b-760723f4d8ee",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "tesla-cybertruck",
   title: "Cybertruck",

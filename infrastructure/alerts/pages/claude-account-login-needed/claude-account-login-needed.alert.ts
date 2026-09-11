@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const claudeAccountLoginNeeded = {
   id: "01a06755-62f9-7b9d-8e6a-3f512739d02d",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "claude-account-login-needed",
   title: "Claude account login needed",

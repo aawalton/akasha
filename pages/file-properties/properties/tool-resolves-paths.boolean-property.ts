@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const toolResolvesPaths = {
   id: "01a08de9-864d-748a-a2c0-0a5be50709bf",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "tool-resolves-paths",
   propertySlug: "tool-resolves-paths",

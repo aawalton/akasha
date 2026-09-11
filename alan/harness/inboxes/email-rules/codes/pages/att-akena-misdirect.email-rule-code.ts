@@ -2,7 +2,6 @@ import type { EmailRuleCode } from "akasha/alan/harness/inboxes/email-rules/code
 
 export const attAkenaMisdirect = {
   id: "01a06860-54a2-71bc-bd5d-a31796f3c32e",
-  pageTypeSlug: "email-rule-code",
   type: "email-rule-code",
   slug: "att-akena-misdirect",
   title: "Att akena misdirect",

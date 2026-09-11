@@ -2,7 +2,6 @@ import type { DeviceSecret } from "akasha/persons/device-secrets/device-secret.p
 
 export const alan936c8368Fa93462e866b2c3507949678 = {
   id: "01a05b5b-b5e0-7cdf-b1af-17f27e853568",
-  pageTypeSlug: "device-secret",
   type: "device-secret",
   slug: "alan-936c8368-fa93-462e-866b-2c3507949678",
   userId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",

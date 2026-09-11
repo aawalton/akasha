@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const isLargeEnchantSlot = {
   id: "01a05fd1-d43b-7ecc-85be-65ebd4600342",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "is-large-enchant-slot",
   propertySlug: "is-large-enchant-slot",

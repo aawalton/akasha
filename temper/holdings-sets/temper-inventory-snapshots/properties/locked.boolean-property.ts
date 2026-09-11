@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const locked = {
   id: "01a06053-b380-70ca-a7e1-de2fc777700b",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "locked",
   propertySlug: "locked",

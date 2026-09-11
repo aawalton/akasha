@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const useAccentColor = {
   id: "01a05fcb-d655-7cba-895a-f1c3ce49463c",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "use-accent-color",
   propertySlug: "use-accent-color",

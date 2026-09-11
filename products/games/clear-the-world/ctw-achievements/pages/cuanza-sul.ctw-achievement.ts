@@ -2,7 +2,6 @@ import type { CtwAchievement } from "akasha/products/games/clear-the-world/ctw-a
 
 export const cuanzaSul = {
   id: "019dbb6d-ac52-7305-a1d2-6ea14cbb2af0",
-  pageTypeSlug: "ctw-achievement",
   type: "ctw-achievement",
   slug: "cuanza-sul",
   title: "Cuanza Sul",

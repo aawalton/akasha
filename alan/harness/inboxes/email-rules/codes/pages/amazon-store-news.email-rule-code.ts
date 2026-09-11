@@ -2,7 +2,6 @@ import type { EmailRuleCode } from "akasha/alan/harness/inboxes/email-rules/code
 
 export const amazonStoreNews = {
   id: "01a06860-54a2-72ca-8867-f1457e9af4a7",
-  pageTypeSlug: "email-rule-code",
   type: "email-rule-code",
   slug: "amazon-store-news",
   title: "Amazon store news",

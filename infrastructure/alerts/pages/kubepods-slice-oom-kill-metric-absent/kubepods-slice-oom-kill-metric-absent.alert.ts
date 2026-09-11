@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const kubepodsSliceOomKillMetricAbsent = {
   id: "01a06755-62fa-72b8-b8f2-d882da3e6c54",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "kubepods-slice-oom-kill-metric-absent",
   title: "Kubepods slice OOM kill metric absent",

@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const supersedeCycle = {
   id: "01a06755-62fb-7f7f-a95d-62600889e3ec",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "supersede-cycle",
   title: "Supersede loop",

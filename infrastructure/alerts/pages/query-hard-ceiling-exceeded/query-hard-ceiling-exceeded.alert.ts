@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const queryHardCeilingExceeded = {
   id: "01a06755-62fb-7bbd-8803-3570c74b3247",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "query-hard-ceiling-exceeded",
   title: "Query hard ceiling exceeded",

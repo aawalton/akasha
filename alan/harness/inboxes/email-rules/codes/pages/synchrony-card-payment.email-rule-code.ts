@@ -2,7 +2,6 @@ import type { EmailRuleCode } from "akasha/alan/harness/inboxes/email-rules/code
 
 export const synchronyCardPayment = {
   id: "01a06860-54a2-71f9-9c21-085bc65204cf",
-  pageTypeSlug: "email-rule-code",
   type: "email-rule-code",
   slug: "synchrony-card-payment",
   title: "Synchrony card payment",

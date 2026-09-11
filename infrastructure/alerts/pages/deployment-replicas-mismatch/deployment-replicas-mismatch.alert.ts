@@ -2,7 +2,6 @@ import type { Alert } from "akasha/infrastructure/alerts/alert.page-type.types.t
 
 export const deploymentReplicasMismatch = {
   id: "01a06755-62f9-7d75-afac-24b03a961811",
-  pageTypeSlug: "alert",
   type: "alert",
   slug: "deployment-replicas-mismatch",
   title: "Deployment replicas mismatch",

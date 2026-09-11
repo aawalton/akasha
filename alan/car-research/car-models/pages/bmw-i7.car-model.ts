@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const bmwI7 = {
   id: "019e4ad6-fb84-78fa-a44c-02e511a9cde9",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "bmw-i7",
   title: "i7",

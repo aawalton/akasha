@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const porscheCayenneEHybrid = {
   id: "019e4af8-c19f-7724-986c-17e86f058579",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "porsche-cayenne-e-hybrid",
   title: "Cayenne E-Hybrid",

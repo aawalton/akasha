@@ -2,7 +2,6 @@ import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-pr
 
 export const markReadOnEnd = {
   id: "01a0683a-620a-702a-911f-7f996e1b3876",
-  pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "mark-read-on-end",
   propertySlug: "mark-read-on-end",

@@ -2,7 +2,6 @@ import type { EsoAddon } from "akasha/code-system/eso-addons/eso-addon.page-type
 
 export const temperCharactersAddon = {
   id: "01a062d2-92a3-7000-a57a-3584d7763d6e",
-  pageTypeSlug: "eso-addon",
   type: "eso-addon",
   slug: "temper-characters-addon",
   definition:

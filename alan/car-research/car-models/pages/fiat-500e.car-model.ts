@@ -2,7 +2,6 @@ import type { CarModel } from "akasha/alan/car-research/car-models/car-model.pag
 
 export const fiat500e = {
   id: "019e4ada-4be3-714d-99ea-fd86ac0a5771",
-  pageTypeSlug: "car-model",
   type: "car-model",
   slug: "fiat-500e",
   title: "500e",

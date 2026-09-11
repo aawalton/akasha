@@ -2,7 +2,6 @@ import type { EmailRuleCode } from "akasha/alan/harness/inboxes/email-rules/code
 
 export const appleDeveloperNoticesTestflightNoReply = {
   id: "01a06860-54a2-70ff-9565-a0c8d958fe8f",
-  pageTypeSlug: "email-rule-code",
   type: "email-rule-code",
   slug: "apple-developer-notices-testflight-no-reply",
   title: "Apple developer notices testflight no reply",
