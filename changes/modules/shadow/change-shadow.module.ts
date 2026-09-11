@@ -427,6 +427,15 @@ export const changeShadow = {
       statement: "The page type a body states is read from `type`, and from `pageTypeSlug` after.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "That page type is read from the body before and after rather than from the passage carried.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A replace carries the passage that turned rather than the body around it.",
+    },
+    {
       invariantKind: "absence",
       statement: "A replace leaving a page stating the page type it stated turns no such body.",
     },

@@ -396,15 +396,15 @@ test("a reach inside a change states an edit the reach around that change states
 })
 
 test("a replace leaving a page stating the page type it stated turns no generated body", () => {
-  const one = { kind: "replace", path: FRESH_PAGE, contentFrom: BOTH_KEYS, contentTo: TYPE_ONLY }
+  const one = { kind: "replace", path: FRESH_PAGE, contentFrom: SLUG_ONLY, contentTo: "" }
 
-  expect(turnsGenerated(one as never)).toBe(false)
+  expect(turnsGenerated(one as never, typeIn(BOTH_KEYS), typeIn(TYPE_ONLY))).toBe(false)
 })
 
 test("a replace leaving a page stating a second page type could turn those bodies", () => {
   const one = { kind: "replace", path: FRESH_PAGE, contentFrom: TYPE_ONLY, contentTo: SECOND_TYPE }
 
-  expect(turnsGenerated(one as never)).toBe(true)
+  expect(turnsGenerated(one as never, typeIn(TYPE_ONLY), typeIn(SECOND_TYPE))).toBe(true)
 })
 
 test("the page type a body states is read from `type`, and from `pageTypeSlug` after", () => {

@@ -87,12 +87,17 @@ export function typeIn(text: string): string | null {
   return said?.[1] ?? null
 }
 
-export function turnsGenerated(one: FileChange): boolean {
+export function turnsGenerated(one: FileChange, was: string | null, now: string | null): boolean {
   if (one.kind !== "replace") return true
   const named = partedIn(one.path)
   if (named === null) return true
   if (named.pageType === PAGE_TYPE || named.pageType.endsWith(PROPERTY)) return true
-  return typeIn(one.contentFrom) !== typeIn(one.contentTo)
+  return was !== now
+}
+
+export function typedIn(world: World, path: string): string | null {
+  const text = world.textOf(path)
+  return text === null ? null : typeIn(text)
 }
 
 function facingHeld(world: World): Facing {
@@ -149,10 +154,17 @@ export async function reach(world: World, at: Reaches, given: unknown): Promise<
   const facing = facingHeld(world)
   const said = await (world.reaching ?? REACHES_NOTHING)(world, at, given)
   if (said.refused !== null) return { said, world }
-  const turns = said.edits.some(turnsGenerated)
-  if (turns) FACING.delete(world)
+  const was = new Map<string, string | null>()
+  for (const one of said.edits) {
+    if (one.kind === "replace") was.set(one.path, typedIn(world, one.path))
+  }
   try {
     const over = carrying(world, said)
+    const turns = said.edits.some((one) => {
+      if (one.kind !== "replace") return true
+      return turnsGenerated(one, was.get(one.path) ?? null, typedIn(over, one.path))
+    })
+    if (turns) FACING.delete(world)
     return withheld(over, turns ? facingHeld(over) : facing, said)
   } catch (cause) {
     return { said: refusing(cause instanceof Error ? cause.message : String(cause)), world }
