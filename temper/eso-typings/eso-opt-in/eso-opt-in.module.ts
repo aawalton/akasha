@@ -10,8 +10,7 @@ export const esoOptIn = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The manifest is reached from this module's own place rather than from the checkout root.",
+      statement: "Where the manifest sits is asked of the index rather than spelled.",
     },
     {
       invariantKind: "departure",
