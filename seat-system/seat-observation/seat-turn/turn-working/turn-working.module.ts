@@ -24,6 +24,10 @@ export const turnWorking = {
     },
     {
       invariantKind: "departure",
+      statement: "A request interrupted while a tool ran is interrupted as any other is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An answer saying the user interrupted the request ends no turn.",
     },
     {

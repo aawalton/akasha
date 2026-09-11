@@ -23,6 +23,9 @@ const ASKED = '{"type":"user","message":{"role":"user"}}'
 const INTERRUPTED =
   '{"type":"user","message":{"role":"user","content":[{"type":"text","text":"[Request interrupted by user]"}]}}'
 
+const INTERRUPTED_TOOL =
+  '{"type":"user","message":{"role":"user","content":[{"type":"text","text":"[Request interrupted by user for tool use]"}]}}'
+
 const BETWEEN = '{"type":"bridge-session"}\n{"type":"cost-state"}\n{"type":"atis-latch"}'
 
 const SHELL_BEGAN = '{"type":"user","toolUseResult":{"backgroundTaskId":"b4mfbpvps"}}'
@@ -65,6 +68,16 @@ test("a prompt with nothing answering it yet is a turn still to finish", () => {
 
 test("a prompt saying the user interrupted the request ends the turn", () => {
   const said = scanRecords(`${MIDWAY}\n${INTERRUPTED}`, {}).answer
+
+  expect(said?.kind).toBe("user")
+  expect(said === null ? null : turnEnded(said)).toBe(true)
+})
+
+test("a prompt saying the user interrupted a tool call ends the turn", () => {
+  const text = "[Request interrupted by user for tool use]"
+  expect(interruptedIn({ message: { content: text } })).toBe(true)
+
+  const said = scanRecords(`${MIDWAY}\n${INTERRUPTED_TOOL}`, {}).answer
 
   expect(said?.kind).toBe("user")
   expect(said === null ? null : turnEnded(said)).toBe(true)

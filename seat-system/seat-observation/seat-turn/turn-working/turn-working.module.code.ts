@@ -13,7 +13,7 @@ const ANSWER_RECORD = "assistant"
 
 const ASKED_RECORD = "user"
 
-const INTERRUPTED_BY_USER = "[Request interrupted by user]"
+const INTERRUPTED_BY_USER = "[Request interrupted by user"
 
 const HARNESS_RECORD = "system"
 
