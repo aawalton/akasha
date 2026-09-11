@@ -42,5 +42,9 @@ export const alanwaltonHealthIntentPerform = {
       invariantKind: "departure",
       statement: "The notice is posted before the report is sent.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The work a run does is written once and asked for by both its callers.",
+    },
   ],
 } as const satisfies ShellScript

@@ -31,6 +31,10 @@ test("every part the drain sources is a file that is there", () => {
   expect(gone).toEqual([])
 })
 
-test("the drain sources the four parts of the health-samples seam", () => {
-  expect(partsIn(ROOT)).toHaveLength(4)
+test("the part closing the intent's braces is sourced before any part written beside it", () => {
+  const parts = partsIn(ROOT)
+  const closes = parts.findIndex((one) => one.includes("health-remembered-state"))
+  const beside = parts.findIndex((one) => one.includes("health-foreground-sync"))
+  expect(closes).toBeGreaterThanOrEqual(0)
+  expect(beside).toBeGreaterThan(closes)
 })

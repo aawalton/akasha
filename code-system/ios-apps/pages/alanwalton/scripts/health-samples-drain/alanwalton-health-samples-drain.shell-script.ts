@@ -5,7 +5,14 @@ export const alanwaltonHealthSamplesDrain = {
   pageTypeSlug: "shell-script",
   type: "shell-script",
   slug: "alanwalton-health-samples-drain",
-  definition: "the four parts of the health-samples drain, sourced in order",
+  definition: "the parts of the health-samples drain, sourced in order",
   shell: "sh",
   sourced: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "The part closing the intent's braces is sourced before any part written beside it.",
+    },
+  ],
 } as const satisfies ShellScript

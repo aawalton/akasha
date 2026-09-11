@@ -14,6 +14,7 @@ const SOURCED: readonly string[] = [
   "alanwalton-health-cursorless-backstop",
   "alanwalton-health-route-request",
   "alanwalton-health-remembered-state",
+  "alanwalton-health-foreground-sync",
 ]
 
 function ownFolder(given: string | Reading): string {

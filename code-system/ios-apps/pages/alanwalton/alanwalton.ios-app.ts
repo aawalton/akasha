@@ -79,5 +79,6 @@ export const alanwalton = {
     "shell-script/alanwalton-wallpaper-intent",
     "shell-script/alanwalton-widget-refresh",
     "shell-script/alanwalton-widget-target",
+    "shell-script/alanwalton-health-foreground-sync",
   ],
 } as const satisfies IosApp

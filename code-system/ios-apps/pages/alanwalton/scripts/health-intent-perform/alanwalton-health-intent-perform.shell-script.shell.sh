@@ -44,28 +44,41 @@ cat >> "$APPDELEGATE" <<'SWIFT_HEALTH_SAMPLES'
     /// report needs the network and the notice needs nothing, so the branch where the phone can
     /// reach nothing must have already told Alan before this waits on a route.
     ///
+    /// A RUN THE APP ITSELF STARTED POSTS NO NOTICE, and the notice is the only thing it skips.
+    /// The notice is for the run Alan cannot see; a run that happens because he just opened the
+    /// app is already in front of him, and a banner on every foreground is noise he would learn
+    /// to dismiss. What reaches akasha is the same either way.
+    ///
     /// Returns what it was handed, so the text Alan reads and the text the run returns cannot part.
-    private static func announce(_ outcome: String) async -> String {
+    private static func announce(_ outcome: String, noticing: Bool) async -> String {
         NSLog("[health-samples] \(outcome)")
-        let content = UNMutableNotificationContent()
-        content.title = "Health sync"
-        content.body = outcome
-        do {
-            try await UNUserNotificationCenter.current().add(
-                UNNotificationRequest(
-                    identifier: "healthSamples.lastRun", content: content, trigger: nil))
-        } catch {
-            NSLog("[health-samples] the notice could not be posted: \(error.localizedDescription)")
+        if noticing {
+            let content = UNMutableNotificationContent()
+            content.title = "Health sync"
+            content.body = outcome
+            do {
+                try await UNUserNotificationCenter.current().add(
+                    UNNotificationRequest(
+                        identifier: "healthSamples.lastRun", content: content, trigger: nil))
+            } catch {
+                NSLog(
+                    "[health-samples] the notice could not be posted: \(error.localizedDescription)"
+                )
+            }
         }
         await report(outcome)
         return outcome
     }
 
-    func perform() async throws -> some IntentResult & ReturnsValue<String> {
+    /// What a run does, told apart from who asked for it.
+    ///
+    /// Two callers want exactly this work: the App Intent below, which a Shortcut or a Shortcuts
+    /// automation fires, and the foreground seam, which runs it when the app comes forward. They
+    /// differ in one thing — whether a notice is worth posting — so the work is written once.
+    static func run(noticing: Bool) async -> String {
         guard HKHealthStore.isHealthDataAvailable() else {
-            return .result(
-                value: await StreamHealthSamplesIntent.announce(
-                    "Health data is not available on this device — nothing sent."))
+            return await announce(
+                "Health data is not available on this device — nothing sent.", noticing: noticing)
         }
         let resolved = StreamHealthSamplesIntent.metrics.compactMap {
             metric -> (Metric, HKQuantityType)? in
@@ -75,9 +88,8 @@ cat >> "$APPDELEGATE" <<'SWIFT_HEALTH_SAMPLES'
             return (metric, type)
         }
         guard !resolved.isEmpty else {
-            return .result(
-                value: await StreamHealthSamplesIntent.announce(
-                    "Neither metric is available on this device — nothing sent."))
+            return await announce(
+                "Neither metric is available on this device — nothing sent.", noticing: noticing)
         }
 
         // READ-ONLY, AND `toShare: []` IS NOW THE ONLY THING ENFORCING IT. Until #15990 there
@@ -108,10 +120,9 @@ cat >> "$APPDELEGATE" <<'SWIFT_HEALTH_SAMPLES'
         // from every side but the phone's, this branch and a phone that was never picked up are the
         // same reading.
         guard let secret = DeviceSecretKeychain.readSecret() else {
-            return .result(
-                value: await StreamHealthSamplesIntent.announce(
-                    "No usable device credential on this device — open the app and sign in once, then run this again. Nothing sent."
-                ))
+            return await announce(
+                "No usable device credential on this device — open the app and sign in once, then run this again. Nothing sent.",
+                noticing: noticing)
         }
 
         // Before any query, and exactly once per device per generation. See `stateGeneration`:
@@ -132,7 +143,12 @@ cat >> "$APPDELEGATE" <<'SWIFT_HEALTH_SAMPLES'
         // in code needs `stream` and `sweep` to report a shape, which is a change to the drain and
         // to the backstop rather than to this file. Alan reads them apart on sight, which is the
         // whole of what this had to buy back today.
-        return .result(
-            value: await StreamHealthSamplesIntent.announce(lines.joined(separator: " ")))
+        return await announce(lines.joined(separator: " "), noticing: noticing)
+    }
+
+    /// What Shortcuts calls. A run fired by hand or by an automation is the run Alan cannot see,
+    /// so this is the caller that asks for a notice.
+    func perform() async throws -> some IntentResult & ReturnsValue<String> {
+        .result(value: await StreamHealthSamplesIntent.run(noticing: true))
     }
 SWIFT_HEALTH_SAMPLES
