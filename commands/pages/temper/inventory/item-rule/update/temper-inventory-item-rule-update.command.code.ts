@@ -1,4 +1,4 @@
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ACTIVE,
   answeredCall,
@@ -22,8 +22,6 @@ import { narrowDestination } from "akasha/temper/items-rules-core/inventory-dest
 import { bulkUpdateItemRules } from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
-const CALLED_AS = "akasha temper-inventory-item-rule-update"
-
 const ACTION = "--action"
 
 const DESTINATION = "--destination"
@@ -39,7 +37,11 @@ const SHAPE = shapeOf([...CHANGES, FORCE], {
   namesARule: true,
 })
 
-async function changed(id: string, held: ReadonlyMap<string, string>): Promise<Answer> {
+async function changed(
+  id: string,
+  held: ReadonlyMap<string, string>,
+  given: Given
+): Promise<Answer> {
   const action = held.get(ACTION)
   const destinationSaid = held.get(DESTINATION)
   let destination: ReturnType<typeof narrowDestination>
@@ -66,7 +68,7 @@ async function changed(id: string, held: ReadonlyMap<string, string>): Promise<A
   }
   if (Object.keys(patch).length === 0) {
     return refusing(
-      `\`${CALLED_AS}\` names no field to change — it changes ${named(CHANGES)}`,
+      `\`${given.calledAs}\` names no field to change — it changes ${named(CHANGES)}`,
       INPUT
     )
   }
@@ -81,6 +83,9 @@ async function changed(id: string, held: ReadonlyMap<string, string>): Promise<A
   return toldOf((next.itemRules ?? []).find((one) => one.id === id) ?? rule)
 }
 
-export async function temperInventoryItemRuleUpdate(argv: readonly string[] = []): Promise<Answer> {
-  return await answeredCall(argv, CALLED_AS, SHAPE, (held, id) => changed(id, held))
+export async function temperInventoryItemRuleUpdate(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  return await answeredCall(argv, given.calledAs, SHAPE, (held, id) => changed(id, held, given))
 }

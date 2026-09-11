@@ -1,4 +1,4 @@
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ACTIVE,
   answeredCall,
@@ -21,8 +21,6 @@ import {
   bulkUpdateItemRules,
 } from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-
-const CALLED_AS = "akasha temper-inventory-item-rule-create"
 
 const ITEM_ID = "--item-id"
 
@@ -104,6 +102,9 @@ async function made(held: ReadonlyMap<string, string>): Promise<Answer> {
   return toldOf((next.itemRules ?? []).find((one) => one.id === created.id) ?? created)
 }
 
-export async function temperInventoryItemRuleCreate(argv: readonly string[] = []): Promise<Answer> {
-  return await answeredCall(argv, CALLED_AS, SHAPE, made)
+export async function temperInventoryItemRuleCreate(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  return await answeredCall(argv, given.calledAs, SHAPE, made)
 }

@@ -1,4 +1,4 @@
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   answeredCall,
   JSON_FLAG,
@@ -12,8 +12,6 @@ import {
   itemRuleRow,
 } from "akasha/temper/commands/inventory-rule-rows/inventory-rule-rows.module.code.ts"
 
-const CALLED_AS = "akasha temper-inventory-item-rule-list"
-
 const SHAPE = shapeOf([JSON_FLAG], { alone: [JSON_FLAG] })
 
 async function listed(held: ReadonlyMap<string, string>): Promise<Answer> {
@@ -23,6 +21,9 @@ async function listed(held: ReadonlyMap<string, string>): Promise<Answer> {
   return toldRows(rules.map(itemRuleRow), ITEM_RULE_COLUMNS)
 }
 
-export async function temperInventoryItemRuleList(argv: readonly string[] = []): Promise<Answer> {
-  return await answeredCall(argv, CALLED_AS, SHAPE, listed)
+export async function temperInventoryItemRuleList(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  return await answeredCall(argv, given.calledAs, SHAPE, listed)
 }
