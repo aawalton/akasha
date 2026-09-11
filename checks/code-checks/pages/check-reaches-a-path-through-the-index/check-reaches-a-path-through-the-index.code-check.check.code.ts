@@ -31,7 +31,6 @@ function facingFor(shadow: Shadow): Facing {
     everyOfType: (kind) => index.everyOfType(kind),
     valueAt: (path) => index.pageByPath(path),
     carryingOf: (named) => index.carryingOf(named),
-    filesIn: (folder) => index.filesIn(folder),
   }
   FACING.set(shadow, made)
   return made

@@ -75,7 +75,6 @@ export function facingIn(world: World): Facing {
     everyOfType: (kind) => world.index.everyOfType(kind),
     valueAt: (path) => world.index.pageByPath(path),
     carryingOf: (named) => world.index.carryingOf(named),
-    filesIn: (folder) => world.index.filesIn(folder),
   }
 }
 
