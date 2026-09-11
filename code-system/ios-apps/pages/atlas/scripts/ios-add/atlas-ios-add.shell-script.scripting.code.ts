@@ -13,11 +13,15 @@ const SEAM = "atlas-ios-seam"
 
 const CONFIG = "write-capacitor-config"
 
+const STAGING = "stage-web-entry"
+
 const APP = "ios-app"
 
 const WHOSE = "atlas"
 
 const CAPACITOR = "capacitor-config"
+
+const ENTRY = "web-entry"
 
 type Reaching = {
   readonly here: string
@@ -25,7 +29,10 @@ type Reaching = {
   readonly sharedAt: string
   readonly config: string
   readonly capacitor: string
+  readonly staging: string
+  readonly entry: string
   readonly seam: string
+  readonly files: readonly string[]
 }
 
 function shellOf(given: string | Reading, slug: string): string {
@@ -35,19 +42,25 @@ function shellOf(given: string | Reading, slug: string): string {
 function reachingIn(given: string | Reading): Reaching {
   const app = valuedAt(given, APP, WHOSE)
   const config = shellOf(given, CONFIG)
+  const capacitor = fileOf(given, app, APP, CAPACITOR)
+  const staging = shellOf(given, STAGING)
+  const entry = fileOf(given, app, APP, ENTRY)
+  const seam = shellOf(given, SEAM)
   return {
     here: dirname(valuedAt(given, SCRIPT, OWN).path),
     shellAt: dirname(app.path),
     sharedAt: dirname(dirname(config)),
     config,
-    capacitor: fileOf(given, app, APP, CAPACITOR),
-    seam: shellOf(given, SEAM),
+    capacitor,
+    staging,
+    entry,
+    seam,
+    files: [config, capacitor, staging, entry, seam],
   }
 }
 
 export function scriptFilesIn(given: string | Reading): readonly string[] {
-  const reached = reachingIn(given)
-  return [reached.config, reached.capacitor, reached.seam]
+  return reachingIn(given).files
 }
 
 export function bodyIn(given: string | Reading): string {
@@ -84,6 +97,10 @@ export function bodyIn(given: string | Reading): string {
     "",
     `bash "$SHARED/${relative(reached.sharedAt, reached.config)}" \\`,
     `  "$SHELL_DIR/${relative(reached.shellAt, reached.capacitor)}"`,
+    "# BEFORE the Capacitor call, which copies whatever is in webDir into the native",
+    "# sources. Staged after, this run would ship the page the run before it left there.",
+    `bash "$SHARED/${relative(reached.sharedAt, reached.staging)}" \\`,
+    `  "$SHELL_DIR/${relative(reached.shellAt, reached.entry)}"`,
     "",
     "# Capacitor reads its config out of the folder it runs in and refuses a folder",
     "# holding no manifest, so it runs at the root above. The config written there names",

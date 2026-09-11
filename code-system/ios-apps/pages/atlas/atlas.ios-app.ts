@@ -24,6 +24,7 @@ export const atlas = {
     "@capacitor/preferences",
     "@capgo/background-geolocation",
   ],
+  webDirectory: true,
   webEntry: "html",
   parts: [
     "shell-script/atlas-capture-device-console",

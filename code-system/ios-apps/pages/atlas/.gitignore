@@ -3,6 +3,10 @@
 ios/
 android/
 
+# The page the web view boots, staged here from the web-entry file beside the app
+# page by stage-web-entry, because Capacitor serves webDir and reads no other name.
+www/
+
 # Xcode build artifacts
 DerivedData/
 *.xcuserstate

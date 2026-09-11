@@ -29,6 +29,10 @@ CAP="$TREE_ROOT/node_modules/.bin/cap"
 
 bash "$SHARED/write-capacitor-config/write-capacitor-config.shell-script.shell.sh" \
   "$SHELL_DIR/atlas.ios-app.capacitor-config.json"
+# BEFORE the Capacitor call, which copies whatever is in webDir into the native
+# sources. Staged after, this run would ship the page the run before it left there.
+bash "$SHARED/stage-web-entry/stage-web-entry.shell-script.shell.sh" \
+  "$SHELL_DIR/atlas.ios-app.web-entry.html"
 
 # Capacitor reads its config out of the folder it runs in and refuses a folder
 # holding no manifest, so it runs at the root above. The config written there names
