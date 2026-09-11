@@ -19,7 +19,8 @@ import {
 } from "akasha/infrastructure/cluster/services/workload-deploying/workload-deploying.module.code.ts"
 import { publishedFor } from "akasha/infrastructure/container-image/image-publishing/image-publishing.module.code.ts"
 import { slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { textAt, valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const DATA = 2
 const OPERATIONAL = 3

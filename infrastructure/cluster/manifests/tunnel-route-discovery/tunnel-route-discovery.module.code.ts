@@ -4,7 +4,7 @@ import type { TunnelRoute } from "akasha/infrastructure/cluster/manifests/tunnel
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { pageTypesIn } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { textAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const REPO_ROOT = checkoutRootAbove(import.meta.dirname)
 

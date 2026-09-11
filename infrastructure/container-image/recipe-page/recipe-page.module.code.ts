@@ -2,7 +2,7 @@ import { exportedAs } from "akasha/pages/export-name/page-export-name.module.cod
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt, valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
-import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export type Held = {
   readonly path: string
