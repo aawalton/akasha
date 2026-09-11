@@ -77,3 +77,7 @@ export async function fileBackedPageTypes(
   )
   return pending
 }
+
+export async function isFileBacked(pageTypeSlug: string): Promise<boolean> {
+  return (await fileBackedPageTypes()).has(pageTypeSlug)
+}

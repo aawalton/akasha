@@ -1,7 +1,7 @@
+import { isFileBacked } from "akasha/pages/access/file-backed-roster/file-backed-roster.module.code.ts"
 import {
   type FileReadDeps,
   getFilePages,
-  isFileBacked,
 } from "akasha/pages/access/file-read/file-read.module.code.ts"
 import {
   fileShapeOf,

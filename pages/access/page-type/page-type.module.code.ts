@@ -1,5 +1,5 @@
 import { validateTemperTitlePrefix } from "akasha/pages/access/domain-title-prefix/domain-title-prefix.module.code.ts"
-import { isFileBacked } from "akasha/pages/access/file-read/file-read.module.code.ts"
+import { isFileBacked } from "akasha/pages/access/file-backed-roster/file-backed-roster.module.code.ts"
 import {
   createFilePage,
   patchFilePages,

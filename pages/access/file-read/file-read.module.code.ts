@@ -58,10 +58,6 @@ export function pageOf(raw: Readonly<Record<string, unknown>>): Page {
   return Object.keys(alsoRead).length === 0 ? page : asPage({ ...page, ...alsoRead })
 }
 
-export async function isFileBacked(pageTypeSlug: string): Promise<boolean> {
-  return (await fileBackedPageTypes()).has(pageTypeSlug)
-}
-
 const LIVE: FileReadDeps = { ask: (query) => askingFor(query), roster: fileBackedPageTypes }
 
 function comparing(order: PageOrder): (left: Page, right: Page) => number {
