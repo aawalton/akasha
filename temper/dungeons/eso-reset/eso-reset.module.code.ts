@@ -1,5 +1,5 @@
-import { __TS__CivilFromDays } from "akasha/language-design/lua-compiler/lualibs/civil-from-days/civil-from-days.lualib.code.ts"
-import { __TS__DaysFromCivil } from "akasha/language-design/lua-compiler/lualibs/days-from-civil/days-from-civil.lualib.code.ts"
+import { __TS__CivilFromDays } from "akasha/design/language/lua-compiler/lualibs/civil-from-days/civil-from-days.lualib.code.ts"
+import { __TS__DaysFromCivil } from "akasha/design/language/lua-compiler/lualibs/days-from-civil/days-from-civil.lualib.code.ts"
 
 const SECONDS_PER_DAY = 86_400
 const RESET_OFFSET_SECONDS = 6 * 3600

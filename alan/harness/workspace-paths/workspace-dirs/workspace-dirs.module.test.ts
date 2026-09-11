@@ -78,9 +78,9 @@ test("a doubled star carrying no prefix is expanded from the repository root", (
   const root = rootWith(["**"])
   packageAt(root, "temper")
   packageAt(root, "temper/temper-lib-table-functions")
-  packageAt(root, "language-design/lua-compiler")
+  packageAt(root, "design/language/lua-compiler")
   expect(listWorkspaceDirs(root)).toEqual([
-    "language-design/lua-compiler",
+    "design/language/lua-compiler",
     "temper",
     "temper/temper-lib-table-functions",
   ])

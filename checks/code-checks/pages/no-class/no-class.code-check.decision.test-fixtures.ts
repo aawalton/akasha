@@ -12,7 +12,7 @@ const LIBRARY_ID = "01a08842-4c6b-7c0e-9d1a-6a2a1c5ee2d1"
 
 export const ROOT = "/repo"
 
-export const LIBRARY = "language-design/lua-compiler/lualib/"
+export const LIBRARY = "design/language/lua-compiler/lualib/"
 
 export const LIBRARY_PAGE = `${LIBRARY}held.${KIND}.ts`
 

@@ -1,1 +1,1 @@
-/// <reference path="../../../language-design/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts" />
+/// <reference path="../../../design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts" />

@@ -5,7 +5,12 @@ export const design = {
   type: "domain",
   slug: "design",
   definition: "how something is done well",
-  parts: ["domain/design-interfaces", "domain/design-games", "domain/image"],
+  parts: [
+    "domain/design-interfaces",
+    "domain/design-games",
+    "domain/image",
+    "domain/design-language",
+  ],
   invariants: [
     {
       invariantKind: "departure",

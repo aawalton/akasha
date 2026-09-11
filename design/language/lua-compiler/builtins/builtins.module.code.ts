@@ -1,0 +1,380 @@
+import {
+  transformArrayConstructorCall,
+  transformArrayProperty,
+  transformArrayPrototypeCall,
+} from "akasha/design/language/lua-compiler/builtin-array/builtin-array.module.code.ts"
+import { transformConsoleCall } from "akasha/design/language/lua-compiler/builtin-console/builtin-console.module.code.ts"
+import {
+  transformFunctionProperty,
+  transformFunctionPrototypeCall,
+} from "akasha/design/language/lua-compiler/builtin-function/builtin-function.module.code.ts"
+import { tryTransformBuiltinGlobalCall } from "akasha/design/language/lua-compiler/builtin-global/builtin-global.module.code.ts"
+import { transformMapConstructorCall } from "akasha/design/language/lua-compiler/builtin-map/builtin-map.module.code.ts"
+import {
+  transformMathCall,
+  transformMathProperty,
+} from "akasha/design/language/lua-compiler/builtin-math/builtin-math.module.code.ts"
+import {
+  transformNumberConstructorCall,
+  transformNumberProperty,
+  transformNumberPrototypeCall,
+} from "akasha/design/language/lua-compiler/builtin-number/builtin-number.module.code.ts"
+import {
+  transformObjectConstructorCall,
+  tryTransformObjectPrototypeCall,
+} from "akasha/design/language/lua-compiler/builtin-object/builtin-object.module.code.ts"
+import {
+  transformStringConstructorMethodCall,
+  transformStringProperty,
+  transformStringPrototypeCall,
+} from "akasha/design/language/lua-compiler/builtin-string/builtin-string.module.code.ts"
+import { transformSymbolConstructorCall } from "akasha/design/language/lua-compiler/builtin-symbol/builtin-symbol.module.code.ts"
+import { LuaTarget } from "akasha/design/language/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import { createNaN } from "akasha/design/language/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "akasha/design/language/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import {
+  createStaticPromiseFunctionAccessor,
+  importLuaLibFeature,
+  transformLuaLibFunction,
+} from "akasha/design/language/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/design/language/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { getIdentifierSymbolId } from "akasha/design/language/lua-compiler/symbols/symbols.module.code.ts"
+import { maybeWrapThisVoidAsAdapter } from "akasha/design/language/lua-compiler/this-void-adapter/this-void-adapter.module.code.ts"
+import {
+  unsupportedBuiltinOptionalCall,
+  unsupportedProperty,
+} from "akasha/design/language/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import {
+  getCalledExpression,
+  isArrayType,
+  isFunctionType,
+  isStandardLibraryType,
+  isStringType,
+} from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import * as ts from "typescript"
+
+export function transformBuiltinPropertyAccessExpression(
+  context: TransformationContext,
+  node: ts.PropertyAccessExpression
+): luaExpressions.Expression | undefined {
+  const ownerType = context.checker.getTypeAtLocation(node.expression)
+
+  if (ts.isIdentifier(node.expression) && isStandardLibraryType(context, ownerType, undefined)) {
+    const ownerName = ownerType.symbol.name
+    if (ownerName === "NumberConstructor") return transformNumberProperty(context, node)
+    if (ownerName === "Math") return transformMathProperty(context, node)
+    if (ownerName === "SymbolConstructor")
+      importLuaLibFeature(context, LuaLibFeature.WellKnownSymbols)
+  }
+
+  if (isStringType(context, ownerType)) {
+    return transformStringProperty(context, node)
+  }
+
+  if (isArrayType(context, ownerType)) {
+    return transformArrayProperty(context, node)
+  }
+
+  if (isFunctionType(ownerType)) {
+    return transformFunctionProperty(context, node)
+  }
+}
+
+export function transformBuiltinCallExpression(
+  context: TransformationContext,
+  node: ts.CallExpression
+): luaExpressions.Expression | undefined {
+  const expressionType = context.checker.getTypeAtLocation(node.expression)
+  if (
+    ts.isIdentifier(node.expression) &&
+    isStandardLibraryType(context, expressionType, undefined)
+  ) {
+    checkForLuaLibType(context, expressionType)
+    const result = tryTransformBuiltinGlobalCall(context, node, expressionType)
+    if (result) return result
+  }
+
+  const calledMethod = ts.getOriginalNode(getCalledExpression(node))
+  if (ts.isPropertyAccessExpression(calledMethod)) {
+    const globalResult = tryTransformBuiltinGlobalMethodCall(context, node, calledMethod)
+    if (globalResult) return globalResult
+
+    const prototypeResult = tryTransformBuiltinPropertyCall(context, node, calledMethod)
+    if (prototypeResult) return prototypeResult
+
+    const objectResult = tryTransformObjectPrototypeCall(context, node, calledMethod)
+    if (objectResult) return objectResult
+  }
+}
+
+function tryTransformBuiltinGlobalMethodCall(
+  context: TransformationContext,
+  node: ts.CallExpression,
+  calledMethod: ts.PropertyAccessExpression
+) {
+  const ownerType = context.checker.getTypeAtLocation(calledMethod.expression)
+  const ownerSymbol = tryGetStandardLibrarySymbolOfType(context, ownerType)
+  if (!ownerSymbol || ownerSymbol.parent) return
+
+  let result: luaExpressions.Expression | undefined
+  switch (ownerSymbol.name) {
+    case "ArrayConstructor":
+      result = transformArrayConstructorCall(context, node, calledMethod)
+      break
+    case "Console":
+      result = transformConsoleCall(context, node, calledMethod)
+      break
+    case "MapConstructor":
+      result = transformMapConstructorCall(context, node, calledMethod)
+      break
+    case "Math":
+      result = transformMathCall(context, node, calledMethod)
+      break
+    case "StringConstructor":
+      result = transformStringConstructorMethodCall(context, node, calledMethod)
+      break
+    case "ObjectConstructor":
+      result = transformObjectConstructorCall(context, node, calledMethod)
+      break
+    case "SymbolConstructor":
+      result = transformSymbolConstructorCall(context, node, calledMethod)
+      break
+    case "NumberConstructor":
+      result = transformNumberConstructorCall(context, node, calledMethod)
+      break
+    case "PromiseConstructor":
+      result = transformPromiseConstructorCall(context, node, calledMethod)
+      break
+    default:
+      return undefined
+  }
+  if (result && calledMethod.questionDotToken) {
+    context.addDiagnostic(unsupportedBuiltinOptionalCall(calledMethod))
+  }
+  return result
+}
+
+function tryTransformBuiltinPropertyCall(
+  context: TransformationContext,
+  node: ts.CallExpression,
+  calledMethod: ts.PropertyAccessExpression
+) {
+  const functionType = context.checker.getTypeAtLocation(node.expression)
+  const callSymbol = tryGetStandardLibrarySymbolOfType(context, functionType)
+  if (!callSymbol) return
+  const ownerSymbol = callSymbol.parent
+  if (!ownerSymbol || ownerSymbol.parent) return
+
+  switch (ownerSymbol.name) {
+    case "String":
+      return transformStringPrototypeCall(context, node, calledMethod)
+    case "Number":
+      return transformNumberPrototypeCall(context, node, calledMethod)
+    case "Array":
+    case "ReadonlyArray":
+      return transformArrayPrototypeCall(context, node, calledMethod)
+    case "Function":
+    case "CallableFunction":
+    case "NewableFunction":
+      return transformFunctionPrototypeCall(context, node, calledMethod)
+    default:
+      return undefined
+  }
+}
+
+export function transformBuiltinIdentifierExpression(
+  context: TransformationContext,
+  node: ts.Identifier,
+  symbol: ts.Symbol | undefined
+): luaExpressions.Expression | undefined {
+  switch (node.text) {
+    case "NaN":
+      return createNaN(node)
+
+    case "Infinity":
+      if (context.luaTarget === LuaTarget.Lua50) {
+        const one = luaExpressions.createNumericLiteral(1)
+        const zero = luaExpressions.createNumericLiteral(0)
+        return luaExpressions.createBinaryExpression(one, zero, luaCore.SyntaxKind.DivisionOperator)
+      } else {
+        const math = luaExpressions.createIdentifier("math")
+        const huge = luaExpressions.createStringLiteral("huge")
+        return luaExpressions.createTableIndexExpression(math, huge, node)
+      }
+    case "globalThis":
+      return luaExpressions.createIdentifier(
+        "_G",
+        node,
+        getIdentifierSymbolId(context, node, symbol),
+        "globalThis"
+      )
+
+    case "Number":
+    case "String":
+    case "parseInt":
+    case "parseFloat":
+    case "structuredClone": {
+      const type = context.checker.getTypeAtLocation(node)
+      if (!isStandardLibraryType(context, type, undefined)) return undefined
+      const symbolId = getIdentifierSymbolId(context, node, symbol)
+      let polyfill: luaExpressions.Expression
+      switch (node.text) {
+        case "Number":
+          importLuaLibFeature(context, LuaLibFeature.Number)
+          polyfill = luaExpressions.createIdentifier("__TS__Number", node, symbolId, "Number")
+          break
+        case "String":
+          polyfill = luaExpressions.createIdentifier("tostring", node, symbolId, "String")
+          break
+        case "parseInt":
+          importLuaLibFeature(context, LuaLibFeature.ParseInt)
+          polyfill = luaExpressions.createIdentifier("__TS__ParseInt", node, symbolId, "parseInt")
+          break
+        case "parseFloat":
+          importLuaLibFeature(context, LuaLibFeature.ParseFloat)
+          polyfill = luaExpressions.createIdentifier(
+            "__TS__ParseFloat",
+            node,
+            symbolId,
+            "parseFloat"
+          )
+          break
+        case "structuredClone":
+          importLuaLibFeature(context, LuaLibFeature.StructuredClone)
+          polyfill = luaExpressions.createIdentifier(
+            "__TS__StructuredClone",
+            node,
+            symbolId,
+            "structuredClone"
+          )
+          break
+        default:
+          return assertNever(node.text)
+      }
+      return maybeWrapThisVoidAsAdapter(context, node, polyfill, "forced")
+    }
+
+    default:
+      return undefined
+  }
+}
+
+const builtinErrorFeatures = new Map<string, LuaLibFeature>([
+  ["Error", LuaLibFeature.Error],
+  ["ErrorConstructor", LuaLibFeature.Error],
+  ["RangeError", LuaLibFeature.RangeError],
+  ["RangeErrorConstructor", LuaLibFeature.RangeError],
+  ["ReferenceError", LuaLibFeature.ReferenceError],
+  ["ReferenceErrorConstructor", LuaLibFeature.ReferenceError],
+  ["SyntaxError", LuaLibFeature.SyntaxError],
+  ["SyntaxErrorConstructor", LuaLibFeature.SyntaxError],
+  ["TypeError", LuaLibFeature.TypeError],
+  ["TypeErrorConstructor", LuaLibFeature.TypeError],
+  ["URIError", LuaLibFeature.URIError],
+  ["URIErrorConstructor", LuaLibFeature.URIError],
+])
+
+export function checkForLuaLibType(context: TransformationContext, type: ts.Type): undefined {
+  const symbol = type.symbol
+  if (!symbol || symbol.parent) return
+  const name = symbol.name
+
+  switch (name) {
+    case "Map":
+    case "MapConstructor":
+      importLuaLibFeature(context, LuaLibFeature.Map)
+      return
+    case "Set":
+    case "SetConstructor":
+      importLuaLibFeature(context, LuaLibFeature.Set)
+      return
+    case "WeakMap":
+    case "WeakMapConstructor":
+      importLuaLibFeature(context, LuaLibFeature.WeakMap)
+      return
+    case "WeakSet":
+    case "WeakSetConstructor":
+      importLuaLibFeature(context, LuaLibFeature.WeakSet)
+      return
+    case "Promise":
+    case "PromiseConstructor":
+      importLuaLibFeature(context, LuaLibFeature.Promise)
+      return
+    case "JSON":
+      importLuaLibFeature(context, LuaLibFeature.JSON)
+      return
+    case "Performance":
+      importLuaLibFeature(context, LuaLibFeature.Performance)
+      return
+    default: {
+      const errorFeature = builtinErrorFeatures.get(name)
+      if (errorFeature !== undefined) {
+        importLuaLibFeature(context, errorFeature)
+      }
+      return
+    }
+  }
+}
+
+export function tryGetStandardLibrarySymbolOfType(
+  context: TransformationContext,
+  type: ts.Type
+): ts.Symbol | undefined {
+  if (type.isUnionOrIntersection()) {
+    for (const subType of type.types) {
+      const symbol = tryGetStandardLibrarySymbolOfType(context, subType)
+      if (symbol) return symbol
+    }
+  } else if (isStandardLibraryType(context, type, undefined)) {
+    return type.symbol
+  }
+
+  return undefined
+}
+
+export function isPromiseClass(context: TransformationContext, node: ts.Identifier) {
+  if (node.text !== "Promise") return false
+  const type = context.checker.getTypeAtLocation(node)
+  return isStandardLibraryType(context, type, undefined)
+}
+
+export function transformPromiseConstructorCall(
+  context: TransformationContext,
+  node: ts.CallExpression,
+  calledMethod: ts.PropertyAccessExpression
+): luaExpressions.Expression | undefined {
+  const signature = context.checker.getResolvedSignature(node)
+  const params = context.transformArguments(node.arguments, signature)
+
+  const expressionName = calledMethod.name.text
+  switch (expressionName) {
+    case "all":
+      return transformLuaLibFunction(context, LuaLibFeature.PromiseAll, node, ...params)
+    case "allSettled":
+      return transformLuaLibFunction(context, LuaLibFeature.PromiseAllSettled, node, ...params)
+    case "any":
+      return transformLuaLibFunction(context, LuaLibFeature.PromiseAny, node, ...params)
+    case "race":
+      return transformLuaLibFunction(context, LuaLibFeature.PromiseRace, node, ...params)
+    case "resolve":
+      importLuaLibFeature(context, LuaLibFeature.Promise)
+      return luaExpressions.createCallExpression(
+        createStaticPromiseFunctionAccessor("resolve", calledMethod),
+        params,
+        node
+      )
+    case "reject":
+      importLuaLibFeature(context, LuaLibFeature.Promise)
+      return luaExpressions.createCallExpression(
+        createStaticPromiseFunctionAccessor("reject", calledMethod),
+        params,
+        node
+      )
+    default:
+      context.addDiagnostic(unsupportedProperty(calledMethod.name, "Promise", expressionName))
+      return undefined
+  }
+}

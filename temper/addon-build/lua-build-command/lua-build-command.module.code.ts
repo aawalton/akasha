@@ -1,8 +1,8 @@
 import { dirname, join, relative } from "node:path"
-import { cliRun } from "akasha/language-design/lua-compiler/cli-run/cli-run.module.ts"
-import { luaCompiler } from "akasha/language-design/lua-compiler/lua-compiler.domain.ts"
-import { pluginNoMultiStore } from "akasha/language-design/lua-compiler/plugin-no-multi-store/plugin-no-multi-store.module.ts"
-import { pluginNoTruthyNumbers } from "akasha/language-design/lua-compiler/plugin-no-truthy-numbers/plugin-no-truthy-numbers.module.ts"
+import { cliRun } from "akasha/design/language/lua-compiler/cli-run/cli-run.module.ts"
+import { luaCompiler } from "akasha/design/language/lua-compiler/lua-compiler.domain.ts"
+import { pluginNoMultiStore } from "akasha/design/language/lua-compiler/plugin-no-multi-store/plugin-no-multi-store.module.ts"
+import { pluginNoTruthyNumbers } from "akasha/design/language/lua-compiler/plugin-no-truthy-numbers/plugin-no-truthy-numbers.module.ts"
 import {
   AKASHA,
   resolveRoots,

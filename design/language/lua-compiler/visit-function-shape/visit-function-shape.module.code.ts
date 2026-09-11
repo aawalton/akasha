@@ -1,0 +1,57 @@
+import type { TransformationContext } from "akasha/design/language/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import { getExtensionKindForType } from "akasha/design/language/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
+import * as luaCore from "akasha/design/language/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/design/language/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/design/language/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { isFunctionType } from "akasha/design/language/lua-compiler/typescript/typescript.module.code.ts"
+import type * as ts from "typescript"
+
+export function createCallableTable(
+  functionExpression: luaExpressions.Expression
+): luaExpressions.Expression {
+  if (luaExpressions.isFunctionExpression(functionExpression)) {
+    if (functionExpression.params) {
+      functionExpression.params = [
+        luaExpressions.createAnonymousIdentifier(),
+        ...functionExpression.params,
+      ]
+    }
+  } else {
+    functionExpression = luaExpressions.createFunctionExpression(
+      luaStatements.createBlock([
+        luaStatements.createReturnStatement([
+          luaExpressions.createCallExpression(functionExpression, [
+            luaExpressions.createDotsLiteral(),
+          ]),
+        ]),
+      ]),
+      [luaExpressions.createAnonymousIdentifier()],
+      luaExpressions.createDotsLiteral(),
+      luaCore.NodeFlags.Inline
+    )
+  }
+  return luaExpressions.createCallExpression(luaExpressions.createIdentifier("setmetatable"), [
+    luaExpressions.createTableExpression(),
+    luaExpressions.createTableExpression([
+      luaExpressions.createTableFieldExpression(
+        functionExpression,
+        luaExpressions.createStringLiteral("__call")
+      ),
+    ]),
+  ])
+}
+
+export function isFunctionTypeWithProperties(
+  context: TransformationContext,
+  functionType: ts.Type
+): boolean {
+  if (functionType.isUnion()) {
+    return functionType.types.some((t) => isFunctionTypeWithProperties(context, t))
+  } else {
+    return (
+      isFunctionType(functionType) &&
+      functionType.getProperties().length > 0 &&
+      getExtensionKindForType(context, functionType) === undefined
+    )
+  }
+}

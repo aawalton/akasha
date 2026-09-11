@@ -34,7 +34,6 @@ export const akasha = {
     "domain/mathematics",
     "domain/technology",
     "domain/machines",
-    "domain/design-language",
     "domain/smilingjenny",
     "domain/mobile-commands",
     "workspace/akasha-workspace",

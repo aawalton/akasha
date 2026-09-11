@@ -103,8 +103,8 @@
   "overrides": [
     {
       "includes": [
-        "language-design/lua-compiler/lualib/**",
-        "language-design/lua-compiler/lualibs/**"
+        "design/language/lua-compiler/lualib/**",
+        "design/language/lua-compiler/lualibs/**"
       ],
       "linter": {
         "rules": {
