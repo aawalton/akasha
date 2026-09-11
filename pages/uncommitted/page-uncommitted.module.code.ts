@@ -204,6 +204,7 @@ export function removeUncommitted(root: string, page: string): undefined {
   if (at === null) return
   const full = join(root, at)
   exclusively(full, () => {
+    sweptBeside(full)
     rmSync(full, { force: true })
   })
 }

@@ -119,6 +119,10 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
+      statement: "Taking the whole file away takes away every scratch file beside that file too.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A page's whole value merges the uncommitted values into the values the commit has.",
     },

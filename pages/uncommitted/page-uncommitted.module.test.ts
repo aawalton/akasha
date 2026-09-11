@@ -390,6 +390,16 @@ test("a scratch file of another page in that folder is left where it is", () => 
   expect(uncommittedIn(root, PAGE)).toEqual({ gateway: "up" })
 })
 
+test("taking the whole file away takes the scratch files beside it away too", () => {
+  const root = rooted()
+  keepUncommitted(root, PAGE, { held: "one" })
+  strayBeside(root, "4242", "")
+  writeFileSync(join(root, HERE, OTHER), "", "utf8")
+  removeUncommitted(root, PAGE)
+  expect(existsSync(join(root, BESIDE))).toBe(false)
+  expect(partsIn(root)).toEqual([OTHER])
+})
+
 test("a scratch file a killed writer left behind goes with the next write", async () => {
   const root = rooted()
   let left = false
