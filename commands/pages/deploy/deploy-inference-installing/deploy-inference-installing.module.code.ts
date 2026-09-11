@@ -10,32 +10,32 @@ import type { Answer } from "akasha/commands/modules/calling/calling.module.code
 import {
   buildGuiSessionProbeScript,
   decideGuiSession,
-} from "akasha/inference/pool/gui-session/gui-session.module.code.ts"
-import { getHost } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
+} from "akasha/infrastructure/inference/pool/gui-session/gui-session.module.code.ts"
+import { getHost } from "akasha/infrastructure/inference/pool/inference-hosts/inference-hosts.module.code.ts"
 import {
   serviceDir,
   TRAFFIC_COP_SERVICE_NAME,
-} from "akasha/inference/pool/inference-naming/inference-naming.module.code.ts"
-import type { ActualResource } from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
+} from "akasha/infrastructure/inference/pool/inference-naming/inference-naming.module.code.ts"
+import type { ActualResource } from "akasha/infrastructure/inference/pool/inference-schema/inference-schema.module.code.ts"
 import {
   runSsh,
   runSshCapture,
   syncDir,
-} from "akasha/inference/pool/inference-ssh/inference-ssh.module.code.ts"
-import { computeInputsHash } from "akasha/inference/pool/inputs-hash/inputs-hash.module.code.ts"
+} from "akasha/infrastructure/inference/pool/inference-ssh/inference-ssh.module.code.ts"
+import { computeInputsHash } from "akasha/infrastructure/inference/pool/inputs-hash/inputs-hash.module.code.ts"
 import {
   buildPoolConfig,
   buildWritePoolConfigScript,
   foldPoolConfigHash,
   serializePoolConfig,
-} from "akasha/inference/pool/pool-config-build/pool-config-build.module.code.ts"
+} from "akasha/infrastructure/inference/pool/pool-config-build/pool-config-build.module.code.ts"
 import {
   buildApplyScript,
   buildPruneScript,
   buildQueryScript,
   parseActualState,
-} from "akasha/inference/pool/provision-script/provision-script.module.code.ts"
-import { foldServiceManifest } from "akasha/inference/pool/service-hash/service-hash.module.code.ts"
+} from "akasha/infrastructure/inference/pool/provision-script/provision-script.module.code.ts"
+import { foldServiceManifest } from "akasha/infrastructure/inference/pool/service-hash/service-hash.module.code.ts"
 import {
   everyInference,
   type Inference,

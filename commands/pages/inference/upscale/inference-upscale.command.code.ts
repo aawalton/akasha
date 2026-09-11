@@ -10,7 +10,7 @@ import type { Answer } from "akasha/commands/modules/calling/calling.module.code
 import {
   ensureOutputDir,
   resolveOutputPath,
-} from "akasha/inference/clients/inference-output-path/inference-output-path.module.code.ts"
+} from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
 import {
   aloneIn,
   calledAs,
@@ -20,11 +20,11 @@ import {
   wasRefused,
   wordsIn,
   wroteTo,
-} from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
-import { runClusterUpscale } from "akasha/inference/generations/upscale/cluster/upscale-cluster.module.code.ts"
-import { runWorkstationUpscale } from "akasha/inference/generations/upscale/workstation/upscale-workstation.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/inference/runs/record/inference-run-record.module.code.ts"
-import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
+} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+import { runClusterUpscale } from "akasha/infrastructure/inference/generations/upscale/cluster/upscale-cluster.module.code.ts"
+import { runWorkstationUpscale } from "akasha/infrastructure/inference/generations/upscale/workstation/upscale-workstation.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
+import { recordInferenceRun } from "akasha/infrastructure/inference/runs/store/inference-run-store.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 

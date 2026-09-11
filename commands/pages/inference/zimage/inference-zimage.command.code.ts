@@ -17,14 +17,14 @@ import {
 import {
   fetchImage,
   runComfyGraph,
-} from "akasha/inference/clients/comfy-client/comfy-client.module.code.ts"
-import { drawSeed } from "akasha/inference/clients/inference-seed/inference-seed.module.code.ts"
-import { buildModelGraph } from "akasha/inference/generations/zimage/graph/zimage-graph.module.code.ts"
+} from "akasha/infrastructure/inference/clients/comfy-client/comfy-client.module.code.ts"
+import { drawSeed } from "akasha/infrastructure/inference/clients/inference-seed/inference-seed.module.code.ts"
+import { buildModelGraph } from "akasha/infrastructure/inference/generations/zimage/graph/zimage-graph.module.code.ts"
 import {
   MODEL_IDS,
   MODELS,
   toModelId,
-} from "akasha/inference/generations/zimage/models/zimage-models.module.code.ts"
+} from "akasha/infrastructure/inference/generations/zimage/models/zimage-models.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 

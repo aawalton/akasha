@@ -9,8 +9,11 @@ import {
   heldOr,
   wasRefused,
   wordsIn,
-} from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
-import { copActivate, findCop } from "akasha/inference/pool/cop-admin/cop-admin.module.code.ts"
+} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+import {
+  copActivate,
+  findCop,
+} from "akasha/infrastructure/inference/pool/cop-admin/cop-admin.module.code.ts"
 
 export async function inferenceActivate(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, [], [])

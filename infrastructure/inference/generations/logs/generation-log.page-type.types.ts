@@ -1,0 +1,10 @@
+import type { GenerationAudios } from "akasha/infrastructure/inference/generations/logs/properties/generation-audios.file-property.types.ts"
+import type { GenerationImages } from "akasha/infrastructure/inference/generations/logs/properties/generation-images.file-property.types.ts"
+import type { GenerationRuns } from "akasha/infrastructure/inference/generations/logs/properties/generation-runs.file-property.types.ts"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
+
+export type GenerationLog = Page & {
+  runs: GenerationRuns
+  images?: GenerationImages
+  audios?: GenerationAudios
+}

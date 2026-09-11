@@ -7,8 +7,11 @@ import type { Answer } from "akasha/commands/modules/calling/calling.module.code
 import {
   wasRefused,
   wordsIn,
-} from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
-import { copActive, findCop } from "akasha/inference/pool/cop-admin/cop-admin.module.code.ts"
+} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+import {
+  copActive,
+  findCop,
+} from "akasha/infrastructure/inference/pool/cop-admin/cop-admin.module.code.ts"
 
 export async function inferenceActive(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, [], [])

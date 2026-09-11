@@ -7,16 +7,16 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { SCRATCH_AT } from "akasha/commands/modules/scratching/scratching.module.code.ts"
-import { buildCopFetchInit } from "akasha/inference/clients/cop-fetch/cop-fetch.module.code.ts"
+import { buildCopFetchInit } from "akasha/infrastructure/inference/clients/cop-fetch/cop-fetch.module.code.ts"
 import {
   ensureOutputDir,
   resolveOutputPath,
-} from "akasha/inference/clients/inference-output-path/inference-output-path.module.code.ts"
-import { isRiff } from "akasha/inference/clients/riff-bytes/riff-bytes.module.code.ts"
+} from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
+import { isRiff } from "akasha/infrastructure/inference/clients/riff-bytes/riff-bytes.module.code.ts"
 import {
   buildSpeechRequestBody,
   copPriorityHeaders,
-} from "akasha/inference/clients/voice-clone-client/voice-clone-client.module.code.ts"
+} from "akasha/infrastructure/inference/clients/voice-clone-client/voice-clone-client.module.code.ts"
 import {
   calledAs,
   countAt,
@@ -29,10 +29,10 @@ import {
   wasRefused,
   wordsIn,
   wroteTo,
-} from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
-import { scpUpload } from "akasha/inference/pool/inference-ssh/inference-ssh.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/inference/runs/record/inference-run-record.module.code.ts"
-import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
+} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+import { scpUpload } from "akasha/infrastructure/inference/pool/inference-ssh/inference-ssh.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
+import { recordInferenceRun } from "akasha/infrastructure/inference/runs/store/inference-run-store.module.code.ts"
 
 const TEXT = "--text"
 

@@ -16,7 +16,7 @@ import {
   runVideoQa,
   selectFrameIndices,
   toPngDataUrl,
-} from "akasha/inference/clients/mlx-vlm-client/mlx-vlm-client.module.code.ts"
+} from "akasha/infrastructure/inference/clients/mlx-vlm-client/mlx-vlm-client.module.code.ts"
 import {
   calledAs,
   countAt,
@@ -25,12 +25,12 @@ import {
   serviceNamed,
   wasRefused,
   wordsIn,
-} from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/inference/runs/record/inference-run-record.module.code.ts"
+} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
 import {
   finishInferenceRun,
   startInferenceRun,
-} from "akasha/inference/runs/store/inference-run-store.module.code.ts"
+} from "akasha/infrastructure/inference/runs/store/inference-run-store.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
 
 const VIDEO = "--video"

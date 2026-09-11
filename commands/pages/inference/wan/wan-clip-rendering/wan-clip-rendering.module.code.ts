@@ -23,25 +23,25 @@ import {
 import {
   fetchImage,
   runComfyGraph,
-} from "akasha/inference/clients/comfy-client/comfy-client.module.code.ts"
-import { drawSeed } from "akasha/inference/clients/inference-seed/inference-seed.module.code.ts"
+} from "akasha/infrastructure/inference/clients/comfy-client/comfy-client.module.code.ts"
+import { drawSeed } from "akasha/infrastructure/inference/clients/inference-seed/inference-seed.module.code.ts"
 import {
   WAN_DEFAULT_NEGATIVE_PROMPT,
   WAN_FPS,
   WAN_FULL_STEPS,
   WAN_LIGHTNING_STEPS,
-} from "akasha/inference/generations/wan/backbone/wan-backbone.module.code.ts"
-import type { ExtendDirection } from "akasha/inference/generations/wan/extend-graph/wan-extend-graph.module.code.ts"
+} from "akasha/infrastructure/inference/generations/wan/backbone/wan-backbone.module.code.ts"
+import type { ExtendDirection } from "akasha/infrastructure/inference/generations/wan/extend-graph/wan-extend-graph.module.code.ts"
 import {
   buildExtendGraph,
   computeSkipFirstFrames,
   resolveComfyInputName,
   snapToVaeLength,
-} from "akasha/inference/generations/wan/extend-graph/wan-extend-graph.module.code.ts"
-import { buildI2vGraph } from "akasha/inference/generations/wan/i2v-graph/wan-i2v-graph.module.code.ts"
-import { parseSizeOrNull } from "akasha/inference/generations/wan/size/wan-size.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/inference/runs/record/inference-run-record.module.code.ts"
-import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
+} from "akasha/infrastructure/inference/generations/wan/extend-graph/wan-extend-graph.module.code.ts"
+import { buildI2vGraph } from "akasha/infrastructure/inference/generations/wan/i2v-graph/wan-i2v-graph.module.code.ts"
+import { parseSizeOrNull } from "akasha/infrastructure/inference/generations/wan/size/wan-size.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
+import { recordInferenceRun } from "akasha/infrastructure/inference/runs/store/inference-run-store.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
 
 const SERVICE = "wan-i2v"

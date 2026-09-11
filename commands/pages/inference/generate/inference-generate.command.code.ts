@@ -9,16 +9,16 @@ import type { Answer } from "akasha/commands/modules/calling/calling.module.code
 import {
   ensureOutputDir,
   resolveOutputPath,
-} from "akasha/inference/clients/inference-output-path/inference-output-path.module.code.ts"
+} from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
 import {
   drawSeed,
   resolveSeed,
-} from "akasha/inference/clients/inference-seed/inference-seed.module.code.ts"
+} from "akasha/infrastructure/inference/clients/inference-seed/inference-seed.module.code.ts"
 import {
   buildGenerationBody,
   parseGenerationSize,
   runGeneration,
-} from "akasha/inference/clients/mlx-image-client/mlx-image-client.module.code.ts"
+} from "akasha/infrastructure/inference/clients/mlx-image-client/mlx-image-client.module.code.ts"
 import {
   boundTo,
   calledAs,
@@ -29,11 +29,11 @@ import {
   wasRefused,
   wordsIn,
   wroteTo,
-} from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/inference/runs/record/inference-run-record.module.code.ts"
-import type { InferenceService } from "akasha/inference/runs/services/inference-run-services.module.code.ts"
-import { INFERENCE_SERVICES } from "akasha/inference/runs/services/inference-run-services.module.code.ts"
-import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
+} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
+import type { InferenceService } from "akasha/infrastructure/inference/runs/services/inference-run-services.module.code.ts"
+import { INFERENCE_SERVICES } from "akasha/infrastructure/inference/runs/services/inference-run-services.module.code.ts"
+import { recordInferenceRun } from "akasha/infrastructure/inference/runs/store/inference-run-store.module.code.ts"
 
 const PROMPT = "--prompt"
 

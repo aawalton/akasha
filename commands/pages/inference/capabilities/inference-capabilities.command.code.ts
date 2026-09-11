@@ -11,13 +11,13 @@ import {
   targetOf,
   wasRefused,
   wordsIn,
-} from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
-import { getHost } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
-import { runSshCapture } from "akasha/inference/pool/inference-ssh/inference-ssh.module.code.ts"
+} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+import { getHost } from "akasha/infrastructure/inference/pool/inference-hosts/inference-hosts.module.code.ts"
+import { runSshCapture } from "akasha/infrastructure/inference/pool/inference-ssh/inference-ssh.module.code.ts"
 import {
   buildMfluxQueryScript,
   parseMfluxTools,
-} from "akasha/inference/pool/provision-script/provision-script.module.code.ts"
+} from "akasha/infrastructure/inference/pool/provision-script/provision-script.module.code.ts"
 import {
   everyInference,
   type Inference,

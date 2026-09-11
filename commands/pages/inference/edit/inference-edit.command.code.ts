@@ -5,16 +5,16 @@ import {
   told,
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { GeminiImageConfig } from "akasha/inference/clients/gemini-image-client/gemini-image-client.module.code.ts"
+import type { GeminiImageConfig } from "akasha/infrastructure/inference/clients/gemini-image-client/gemini-image-client.module.code.ts"
 import {
   imageFormatForPath,
   runGeminiEdit,
   transcodeImage,
-} from "akasha/inference/clients/gemini-image-client/gemini-image-client.module.code.ts"
+} from "akasha/infrastructure/inference/clients/gemini-image-client/gemini-image-client.module.code.ts"
 import {
   ensureOutputDir,
   resolveOutputPath,
-} from "akasha/inference/clients/inference-output-path/inference-output-path.module.code.ts"
+} from "akasha/infrastructure/inference/clients/inference-output-path/inference-output-path.module.code.ts"
 import {
   calledAs,
   countAt,
@@ -24,9 +24,9 @@ import {
   wasRefused,
   wordsIn,
   wroteTo,
-} from "akasha/inference/commands/inference-answering/inference-answering.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/inference/runs/record/inference-run-record.module.code.ts"
-import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
+} from "akasha/infrastructure/inference/commands/inference-answering/inference-answering.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/record/inference-run-record.module.code.ts"
+import { recordInferenceRun } from "akasha/infrastructure/inference/runs/store/inference-run-store.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/sha256-hex/sha256-hex.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
