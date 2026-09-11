@@ -41,7 +41,16 @@ export const fileHasItsPage = {
     },
     {
       invariantKind: "departure",
-      statement: "The page that claims a path is asked of the index rather than worked out here.",
+      statement: "A file named as a page's uncommitted tail or sops tail names that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a file is let through by the page its name spells being filed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The page that claims any other path is asked of the index rather than worked out here.",
     },
     {
       invariantKind: "absence",

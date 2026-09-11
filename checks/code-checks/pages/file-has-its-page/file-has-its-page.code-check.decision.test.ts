@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import {
   type Claiming,
   claimingIn,
+  reservedBeside,
   UNCLAIMED,
   unclaimedAt,
 } from "akasha/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.decision.code.ts"
@@ -13,6 +14,10 @@ import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 const ID = "01a04d86-434f-75ff-8000-000000000003"
 
 const HELD = "akasha/a/held.module.ts"
+
+const HELD_UNCOMMITTED = "akasha/a/held.module.uncommitted.ts"
+
+const HELD_SECRET = "akasha/a/held.module.sops.yaml"
 
 const STRAY = "akasha/a/stray.ts"
 
@@ -41,4 +46,23 @@ test("whether a page claims a path is one read of what the index files at that p
   const claimed = claimingIn(shadowAt(root))
   expect(claimed(HELD)).toBe(true)
   expect(claimed(STRAY)).toBe(false)
+})
+
+test("a file named as a page's reserved tail is answered to the page that name spells", () => {
+  expect(reservedBeside(HELD_UNCOMMITTED)).toBe(HELD)
+  expect(reservedBeside(HELD_SECRET)).toBe(HELD)
+})
+
+test("a file named as no reserved tail is answered nothing and asked of the index itself", () => {
+  expect(reservedBeside(HELD)).toBe(null)
+  expect(reservedBeside(STRAY)).toBe(null)
+})
+
+test("a reserved tail is let through by the page beside it being filed, not by itself", () => {
+  const root = scratch.rootFor("akasha-file-has-its-page-reserved-")
+  noPathsFiled(root)
+  claiming(root, HELD, HELD, ID)
+  const claimed = claimingIn(shadowAt(root))
+  expect(claimed(HELD_UNCOMMITTED)).toBe(true)
+  expect(claimed(HELD_SECRET)).toBe(true)
 })
