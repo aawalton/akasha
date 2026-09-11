@@ -11,7 +11,7 @@ export const nimueCodeCleanup = {
     {
       statement: "No code spells a path as a string literal.",
       workingMemory:
-        "`check-reaches-a-path-through-the-index` judges every file, not a page's code alone. The remedy is a `module-property-group` whose `bodyIn` composes the file from the index, and `group-writing` runs every group off the `file-written-by` on the property naming the file, so a new group needs no new mechanism. A stylesheet is exempt, its paths being bundler specifiers. Mending a dead path raises the count rather than lowering it, because the check cannot see a run resolving to nothing.\n",
+        "Zero is real and measured. Two holes are left. `askingOver` drops a literal opening with `.`, so 15 relative path literals in a page's code reach a file the index holds unseen. `typedIn` asks the index with the whole literal rather than with the runs in it, as `ranIn` does, so 30 more page paths sit inside a larger string. A sweep of the TypeScript bodies finds no dead path literal left, and the 323 reasons `generated` hides all have a generator behind them.",
     },
     {
       statement: "A change moving a folder repoints the manifest naming that folder.",
