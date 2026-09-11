@@ -23,7 +23,7 @@ afterAll(() => rmSync(HOME, { recursive: true, force: true }))
 
 const BASE = {
   id: "01a05a51-0000-7000-8000-00000000000b",
-  pageTypeSlug: "service-workstation",
+  type: "service-workstation",
   slug: "held-service",
   definition: "the service a test writes a unit for",
   runs: ["bun a.ts"],
