@@ -87,6 +87,6 @@ export const persona = {
     "module/wallpaper-select",
     "module/wallpaper-order",
     "module/desktop-wallpaper-setting",
-    "workstation-service/desktop-wallpaper-setting",
+    "service-workstation/desktop-wallpaper-setting",
   ],
 } as const satisfies Domain

@@ -64,7 +64,7 @@ export const temperWatcher = {
     "module/watcher-dispatch",
     "module/watcher-main",
     "module/watcher-worker",
-    "workstation-service/temper-watcher",
+    "service-workstation/temper-watcher",
     "container-recipe/temper-watcher-image",
     "module/watcher-task-progress",
     "module/watcher-task-progress-landing",

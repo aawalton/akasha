@@ -6,5 +6,5 @@ export const alanReadouts = {
   type: "domain",
   slug: "alan-readouts",
   definition: "the readouts whose readings reach Alan",
-  parts: ["module/day-readout-watching", "workstation-service/day-readout-watch-service"],
+  parts: ["module/day-readout-watching", "service-workstation/day-readout-watch-service"],
 } as const satisfies Domain

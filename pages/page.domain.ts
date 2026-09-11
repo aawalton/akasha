@@ -96,7 +96,7 @@ export const page = {
     "domain/page-commands",
     "page-type/named-folder-property",
     "page-type/build-folder-property",
-    "workstation-service/sweep-page-answers",
+    "service-workstation/sweep-page-answers",
     "module/type-keys",
     "domain/identity",
     "domain/id",

@@ -11,7 +11,7 @@ export const cost = {
     "module/cost-reading",
     "module/cost-stoplight",
     "readout/cost-multiplier",
-    "workstation-service/cost-relay-service",
+    "service-workstation/cost-relay-service",
   ],
   invariants: [
     {

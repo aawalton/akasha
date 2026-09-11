@@ -6,12 +6,12 @@ import {
   ourInstalled,
   planFor,
   systemctl,
-} from "akasha/services/workstation-services/service-installing/service-installing.module.code.ts"
+} from "akasha/services/workstations/service-installing/service-installing.module.code.ts"
 import {
   everyService,
   readFor,
-} from "akasha/services/workstation-services/service-reading/service-reading.module.code.ts"
-import { installedUnitName } from "akasha/services/workstation-services/unit-writing/unit-writing.module.code.ts"
+} from "akasha/services/workstations/service-reading/service-reading.module.code.ts"
+import { installedUnitName } from "akasha/services/workstations/unit-writing/unit-writing.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const INPUT = 1

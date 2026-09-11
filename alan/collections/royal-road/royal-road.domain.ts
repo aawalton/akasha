@@ -9,7 +9,7 @@ export const royalRoad = {
   parts: [
     "module/royal-road-pages",
     "module/royal-road-syncing",
-    "workstation-service/royal-road-sync",
+    "service-workstation/royal-road-sync",
   ],
   invariants: [
     {

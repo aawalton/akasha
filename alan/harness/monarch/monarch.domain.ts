@@ -66,10 +66,10 @@ export const monarch = {
     "module/monarch-sync",
     "module/monarch-transaction",
     "module/monarch-transaction-create",
-    "workstation-service/monarch-reading-service",
-    "workstation-service/monarch-relay-service",
-    "workstation-service/monarch-poll",
-    "workstation-service/monarch-sync",
+    "service-workstation/monarch-reading-service",
+    "service-workstation/monarch-relay-service",
+    "service-workstation/monarch-poll",
+    "service-workstation/monarch-sync",
   ],
   invariants: [
     {

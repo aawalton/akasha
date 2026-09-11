@@ -55,8 +55,8 @@ export const claudeAccount = {
     "text-property/scopes",
     "text-property/subscription-disabled-reason",
     "text-property/subscription-type",
-    "workstation-service/claude-account-upkeep-service",
-    "workstation-service/claude-account-upkeep-stall",
+    "service-workstation/claude-account-upkeep-service",
+    "service-workstation/claude-account-upkeep-stall",
   ],
   properties: [
     { pageProperty: "text-property/account-uuid", required: false, many: false },

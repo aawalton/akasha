@@ -16,7 +16,7 @@ export const temperTradingPricing = {
     "module/pricing-types",
     "module/ttc-listing-schema",
     "module/ttc-listing-types",
-    "workstation-service/ttc-client",
+    "service-workstation/ttc-client",
   ],
   invariants: [
     {

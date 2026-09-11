@@ -20,6 +20,6 @@ export const clusterManifests = {
     "module/tunnel-config",
     "module/tunnel-route",
     "module/tunnel-route-discovery",
-    "workstation-service/orphaned-resources-sweep",
+    "service-workstation/orphaned-resources-sweep",
   ],
 } as const satisfies Domain

@@ -4,9 +4,9 @@ import { aWorkstationServiceWithItsParts } from "akasha/checks/code-checks/pages
 
 const FOLDER = "akasha/pages/service/workstation-services"
 
-const PAGE_TYPES = new Set<string>(["workstation-service", "module"])
+const PAGE_TYPES = new Set<string>(["service-workstation", "module"])
 
-const ONE = ["pages-service.workstation-service.ts"]
+const ONE = ["pages-service.service-workstation.ts"]
 
 function judged(names: readonly string[], deep: readonly string[] = []): readonly string[] {
   const made = folderFrom({ folder: FOLDER, pageTypes: PAGE_TYPES, deep })
@@ -22,7 +22,7 @@ test("a folder holding no page of its own is refused", () => {
 })
 
 test("a folder holding two services is refused, and the reason counts them", () => {
-  const said = judged([...ONE, "other-service.workstation-service.ts"])
+  const said = judged([...ONE, "other-service.service-workstation.ts"])
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("2 pages")
 })
@@ -31,7 +31,7 @@ test("a page of another type is refused, and the reason names both types", () =>
   const said = judged(["notes.module.ts"])
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("`module`")
-  expect(said[0]).toContain("`workstation-service`")
+  expect(said[0]).toContain("`service-workstation`")
 })
 
 test("a file that is no part of the service is refused, and the reason names it", () => {

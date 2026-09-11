@@ -23,7 +23,7 @@ import {
   appliedWorkload,
   servableNamed,
 } from "akasha/infrastructure/cluster/services/workload-applying/workload-applying.module.code.ts"
-import { putUpService } from "akasha/services/workstation-services/service-putting-up/service-putting-up.module.code.ts"
+import { putUpService } from "akasha/services/workstations/service-putting-up/service-putting-up.module.code.ts"
 
 const INPUT = 1
 const DATA = 2

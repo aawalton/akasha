@@ -15,7 +15,7 @@ import {
 import {
   sleptUntilStopped,
   stopsOnSignal,
-} from "akasha/services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+} from "akasha/services/workstations/tick-sleeping/tick-sleeping.module.code.ts"
 
 const LOG = "[claude-account-upkeep]"
 const TICK_INTERVAL_MS = UPKEEP_PERIOD_MS

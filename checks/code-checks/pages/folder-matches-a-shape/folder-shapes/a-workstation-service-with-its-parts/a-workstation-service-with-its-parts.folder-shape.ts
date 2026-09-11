@@ -20,7 +20,7 @@ export const aWorkstationServiceWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement: "That page is of the `workstation-service` page type.",
+      statement: "That page is of the `service-workstation` page type.",
     },
     {
       invariantKind: "departure",

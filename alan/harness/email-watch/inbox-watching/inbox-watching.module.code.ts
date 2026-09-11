@@ -9,7 +9,7 @@ import { recordToAgent } from "akasha/seat-system/agent-record/agent-record.modu
 import {
   sleptUntilStopped,
   stopsOnSignal,
-} from "akasha/services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
+} from "akasha/services/workstations/tick-sleeping/tick-sleeping.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const PERSON = optionalEnv("EMAIL_WORKER_PERSON") ?? "alan"

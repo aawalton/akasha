@@ -8,7 +8,7 @@ export const IOS_APP = "ios-app"
 
 export const CLUSTER_SERVICE = "cluster-service"
 
-export const WORKSTATION_SERVICE = "workstation-service"
+export const WORKSTATION_SERVICE = "service-workstation"
 
 export const CONTAINER_RECIPE = "container-recipe"
 

@@ -12,6 +12,6 @@ export const alanwaltonIosNotification = {
     "module/push-notifier-tick",
     "module/push-notifying",
     "module/push-payload",
-    "workstation-service/apns-push-notifier",
+    "service-workstation/apns-push-notifier",
   ],
 } as const satisfies Domain

@@ -9,7 +9,7 @@ export const reminderSystem = {
   parts: [
     "module/due-reminder-sending",
     "page-type/reminder",
-    "workstation-service/send-due-reminders",
+    "service-workstation/send-due-reminders",
   ],
   invariants: [
     {

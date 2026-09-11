@@ -8,7 +8,7 @@ export const attributes = {
   definition: "the points Alan's daily upkeep habits earned him on a day",
   parts: [
     "module/attributes-reading",
-    "workstation-service/attributes-relay-service",
+    "service-workstation/attributes-relay-service",
     "module/attributes-totalling",
   ],
   invariants: [

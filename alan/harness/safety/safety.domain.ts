@@ -9,7 +9,7 @@ export const safety = {
   parts: [
     "module/safety-reading",
     "readout/upkeep-safety",
-    "workstation-service/safety-relay-service",
+    "service-workstation/safety-relay-service",
   ],
   invariants: [
     {

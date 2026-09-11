@@ -41,7 +41,7 @@ import {
   dirsOf,
   followFolders,
   followWithin,
-} from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
+} from "akasha/services/workstations/file-following/file-following.module.code.ts"
 
 const INTERFACES_AT = "alan/harness/code-editor/data-interfaces/pages"
 const SCRATCH_AT = "alan/harness/code-editor/data-interfaces"

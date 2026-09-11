@@ -13,7 +13,7 @@ export const shellScript = {
     "shell-script/bash-env",
     "shell-script/repos-empty-dir-purge",
     "shell-script/statusline",
-    "workstation-service/repos-empty-dir-purge",
+    "service-workstation/repos-empty-dir-purge",
     "module-property-group/scripting",
   ],
   extends: ["page-type/domain"],

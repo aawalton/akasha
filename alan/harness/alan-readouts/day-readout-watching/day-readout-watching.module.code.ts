@@ -56,8 +56,8 @@ import {
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { followFolders } from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
-import { keepBeat } from "akasha/services/workstation-services/service-beating/service-beating.module.code.ts"
+import { followFolders } from "akasha/services/workstations/file-following/file-following.module.code.ts"
+import { keepBeat } from "akasha/services/workstations/service-beating/service-beating.module.code.ts"
 
 export const DAYS_AT = "alan/track/daily/days/pages"
 
@@ -71,7 +71,7 @@ export const ROLL_NO_SOONER_MS = 60_000
 
 export const BEAT_MS = 5 * 60_000
 
-const WATCH_SERVICE = "workstation-service"
+const WATCH_SERVICE = "service-workstation"
 
 export const WATCH_SLUG = "day-readout-watch-service"
 

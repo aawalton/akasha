@@ -17,7 +17,7 @@ const ROOT = join(import.meta.dir, "..", "..", "..")
 
 const NOWHERE = "this-name-is-nowhere.invalid"
 
-const PAGE = "held/a.workstation-service.ts"
+const PAGE = "held/a.service-workstation.ts"
 
 function onlyOne() {
   const bound = serversFor({ root: ROOT, port: 0, binds: [LOOPBACK] })

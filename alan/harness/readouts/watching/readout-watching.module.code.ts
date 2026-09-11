@@ -14,7 +14,7 @@ import {
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { fileFor } from "akasha/pages/indexes/value/index-value.index.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
-import { followWithin } from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
+import { followWithin } from "akasha/services/workstations/file-following/file-following.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export const SETTLE_MS = 250

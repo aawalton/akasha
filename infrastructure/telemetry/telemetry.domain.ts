@@ -18,7 +18,7 @@ export const telemetry = {
     "manifest/prometheus",
     "module/prometheus-constants",
     "page-type/dashboard",
-    "workstation-service/dcgm-exporter",
-    "workstation-service/node-exporter",
+    "service-workstation/dcgm-exporter",
+    "service-workstation/node-exporter",
   ],
 } as const satisfies Domain

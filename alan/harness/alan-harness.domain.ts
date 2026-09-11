@@ -57,9 +57,9 @@ export const alanHarness = {
     "page-type/notification-feed",
     "domain/money",
     "module/overdue-rolling",
-    "workstation-service/overdue-rolling",
+    "service-workstation/overdue-rolling",
     "module/persona-points-rebuilding",
-    "workstation-service/persona-points-rebuilding",
+    "service-workstation/persona-points-rebuilding",
   ],
   invariants: [
     {

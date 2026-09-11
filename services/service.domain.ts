@@ -8,11 +8,11 @@ export const service = {
   definition: "what the system runs without being asked each time",
   parts: [
     "page-type/service",
-    "page-type/workstation-service",
+    "page-type/service-workstation",
     "page-type/vendored-workload",
     "page-type/web-app",
     "page-type/secret",
-    "workstation-service/service-watching",
+    "service-workstation/service-watching",
     "page-type/service-inference",
   ],
 } as const satisfies Domain

@@ -38,8 +38,8 @@ export const trackDaily = {
     "module/task-completions",
     "module/task-points",
     "module/topic-words",
-    "workstation-service/topic-words-service",
-    "workstation-service/active-calories-service",
+    "service-workstation/topic-words-service",
+    "service-workstation/active-calories-service",
     "module/day-opening",
   ],
   invariants: [

@@ -5,7 +5,7 @@ export const aCrashLoopingWatchServiceReadsAsWell = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-crash-looping-watch-service-reads-as-well",
-  domain: "page-type/workstation-service",
+  domain: "page-type/service-workstation",
   claim:
     "A watch service that dies and restarts forever is never called broken. `service-health` counts `activating` among the states that are well and calls a unit broken only where systemd says `failed`, while every watch unit states restart on failure, a five second delay, and no window over which starts are counted. So systemd never gives up and never rests in `failed`, and a watch dying every five seconds spends most of each cycle in `activating`. This matters more as the readouts move from timers to watches, because a reading judged current by whether its watch is well would then rest on a signal a crash loop passes.",
   evidence:

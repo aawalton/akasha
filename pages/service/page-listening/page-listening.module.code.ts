@@ -10,7 +10,7 @@ import type { Value } from "akasha/pages/value-reading/page-value-reading.module
 import { numberAt, textsAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export const SERVICE_SLUG = "pages-service"
-export const SERVICE_PAGE_TYPE = "workstation-service"
+export const SERVICE_PAGE_TYPE = "service-workstation"
 export const LOOPBACK = "127.0.0.1"
 export const UNBOUND = "unbound"
 export const TRIED_AGAIN_MS = 30_000

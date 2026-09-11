@@ -25,7 +25,7 @@ const IOS_PAGES_AT = "akasha:pages/ios-app"
 
 const SERVICES_AT = "akasha/infrastructure/cluster/services/pages"
 
-const UNITS_AT = "akasha/services/workstation-services/pages"
+const UNITS_AT = "akasha/services/workstations/pages"
 
 type World = {
   readonly root: string
@@ -59,7 +59,7 @@ function seededWorld(): World {
   filed(SERVICES_AT, "oneService", "one-service", "cluster-service")
   filed(SERVICES_AT, "oneWebService", "one-web", "cluster-service")
   filed(SERVICES_AT, "bothWays", "both-ways", "cluster-service")
-  filed(UNITS_AT, "oneUnit", "one-unit", "workstation-service")
+  filed(UNITS_AT, "oneUnit", "one-unit", "service-workstation")
   return {
     root,
     sweep: (): undefined => {
@@ -139,7 +139,7 @@ test("a slug only a workstation service page carries is answered as a workstatio
   const read = kindNamed(WORLD.root, "one-unit", ios)
   expect(read).toEqual({
     kind: WORKSTATION_SERVICE,
-    pagePath: `${UNITS_AT}/one-unit.workstation-service.ts`,
+    pagePath: `${UNITS_AT}/one-unit.service-workstation.ts`,
   })
 })
 

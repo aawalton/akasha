@@ -17,9 +17,9 @@ export const inbox = {
     "module/inbox-tracking-polling",
     "readout/inboxes-email",
     "readout/inboxes-tasks",
-    "workstation-service/inbox-count-watch-service",
-    "workstation-service/inbox-relay-service",
-    "workstation-service/inbox-tracking-poll",
+    "service-workstation/inbox-count-watch-service",
+    "service-workstation/inbox-relay-service",
+    "service-workstation/inbox-tracking-poll",
     "page-type/email-rule",
   ],
   invariants: [

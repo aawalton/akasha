@@ -46,7 +46,7 @@ const DIAL_ADDRESS = `PROXY:${EGRESS_HOST}:${WORKSTATION_HOST}:${PAGE_STORE_PORT
 const ASK_PATH = "/ask"
 
 const READINESS_QUESTION = JSON.stringify({
-  pageTypeSlug: "workstation-service",
+  pageTypeSlug: "service-workstation",
   limit: 1,
   keys: ["slug"],
 })

@@ -6,9 +6,9 @@ import type { PythonVersion } from "akasha/services/inferences/properties/python
 import type { Warm } from "akasha/services/inferences/properties/warm.boolean-property.types.ts"
 import type { Workdir } from "akasha/services/inferences/properties/workdir.text-property.types.ts"
 import type { Service } from "akasha/services/service.page-type.types.ts"
-import type { Enabled } from "akasha/services/workstation-services/properties/enabled.boolean-property.types.ts"
-import type { Port } from "akasha/services/workstation-services/properties/port.number-property.types.ts"
-import type { Runs } from "akasha/services/workstation-services/properties/runs.text-property.types.ts"
+import type { Enabled } from "akasha/services/workstations/properties/enabled.boolean-property.types.ts"
+import type { Port } from "akasha/services/workstations/properties/port.number-property.types.ts"
+import type { Runs } from "akasha/services/workstations/properties/runs.text-property.types.ts"
 
 export type ServiceInference = Service & {
   host: InferenceHost

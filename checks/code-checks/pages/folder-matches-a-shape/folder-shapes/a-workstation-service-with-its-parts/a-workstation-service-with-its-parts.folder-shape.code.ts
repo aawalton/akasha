@@ -3,7 +3,7 @@ import { saidInside } from "akasha/checks/modules/shape-saying/shape-saying.modu
 
 export const HOLDS = ["workstation-services"]
 
-const SERVICE = "workstation-service"
+const SERVICE = "service-workstation"
 
 export function aWorkstationServiceWithItsParts(standing: Standing): readonly string[] {
   const page = standing.pages[0]
