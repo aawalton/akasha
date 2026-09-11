@@ -1,9 +1,9 @@
-import type { InferenceService } from "akasha/services/inference-services/inference-service.page-type.types.ts"
+import type { ServiceInference } from "akasha/services/inferences/service-inference.page-type.types.ts"
 
 export const mlxVlm = {
   id: "01a090a3-1740-747a-a45e-2af1a1123204",
-  pageTypeSlug: "inference-service",
-  type: "inference-service",
+  pageTypeSlug: "service-inference",
+  type: "service-inference",
   slug: "mlx-vlm",
   definition: "the Qwen3-VL model that reads a picture, served by mlx-vlm",
   host: "macbook",
@@ -17,4 +17,4 @@ export const mlxVlm = {
   port: 8096,
   internalPort: 18096,
   lifecycle: "pool",
-} as const satisfies InferenceService
+} as const satisfies ServiceInference

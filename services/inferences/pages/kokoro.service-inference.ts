@@ -1,9 +1,9 @@
-import type { InferenceService } from "akasha/services/inference-services/inference-service.page-type.types.ts"
+import type { ServiceInference } from "akasha/services/inferences/service-inference.page-type.types.ts"
 
 export const kokoro = {
   id: "01a090a2-5c24-724d-b01c-a733d03553e2",
-  pageTypeSlug: "inference-service",
-  type: "inference-service",
+  pageTypeSlug: "service-inference",
+  type: "service-inference",
   slug: "kokoro",
   definition: "the Kokoro voice model, served by mlx-audio",
   host: "macbook",
@@ -15,4 +15,4 @@ export const kokoro = {
   port: 8083,
   internalPort: 18083,
   lifecycle: "pool",
-} as const satisfies InferenceService
+} as const satisfies ServiceInference

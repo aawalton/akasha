@@ -1,9 +1,9 @@
-import type { InferenceService } from "akasha/services/inference-services/inference-service.page-type.types.ts"
+import type { ServiceInference } from "akasha/services/inferences/service-inference.page-type.types.ts"
 
 export const segmentRembg = {
   id: "01a090a2-fddd-7bf0-bfda-019b368cb78b",
-  pageTypeSlug: "inference-service",
-  type: "inference-service",
+  pageTypeSlug: "service-inference",
+  type: "service-inference",
   slug: "segment-rembg",
   definition: "the model that cuts a subject out of a picture",
   host: "macbook",
@@ -15,4 +15,4 @@ export const segmentRembg = {
   port: 8101,
   internalPort: 18101,
   lifecycle: "pool",
-} as const satisfies InferenceService
+} as const satisfies ServiceInference

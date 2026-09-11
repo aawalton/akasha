@@ -1,9 +1,9 @@
-import type { InferenceService } from "akasha/services/inference-services/inference-service.page-type.types.ts"
+import type { ServiceInference } from "akasha/services/inferences/service-inference.page-type.types.ts"
 
 export const whisperStt = {
   id: "01a090a2-876d-7ca6-b85d-4fd1d602345f",
-  pageTypeSlug: "inference-service",
-  type: "inference-service",
+  pageTypeSlug: "service-inference",
+  type: "service-inference",
   slug: "whisper-stt",
   definition: "the Whisper speech-to-text model, served by mlx-audio",
   host: "macbook",
@@ -15,4 +15,4 @@ export const whisperStt = {
   port: 8085,
   internalPort: 18085,
   lifecycle: "pool",
-} as const satisfies InferenceService
+} as const satisfies ServiceInference

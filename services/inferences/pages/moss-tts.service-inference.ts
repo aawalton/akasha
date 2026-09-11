@@ -1,9 +1,9 @@
-import type { InferenceService } from "akasha/services/inference-services/inference-service.page-type.types.ts"
+import type { ServiceInference } from "akasha/services/inferences/service-inference.page-type.types.ts"
 
 export const mossTts = {
   id: "01a090a1-e663-7f41-809c-ef0e35c0a233",
-  pageTypeSlug: "inference-service",
-  type: "inference-service",
+  pageTypeSlug: "service-inference",
+  type: "service-inference",
   slug: "moss-tts",
   definition: "the MOSS voice model, served by mlx-audio",
   host: "macbook",
@@ -16,4 +16,4 @@ export const mossTts = {
   internalPort: 18093,
   lifecycle: "pool",
   warm: true,
-} as const satisfies InferenceService
+} as const satisfies ServiceInference

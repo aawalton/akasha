@@ -12,7 +12,7 @@ export const WORKSTATION_SERVICE = "workstation-service"
 
 export const CONTAINER_RECIPE = "container-recipe"
 
-export const INFERENCE_SERVICE = "inference-service"
+export const INFERENCE_SERVICE = "service-inference"
 
 export const ESO_ADDON = "eso-addon"
 

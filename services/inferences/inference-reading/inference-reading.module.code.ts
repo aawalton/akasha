@@ -3,7 +3,7 @@ import { everyOfType, listedAt } from "akasha/pages/indexes/reading/index-readin
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
-export const INFERENCE_PAGE_TYPE = "inference-service"
+export const INFERENCE_PAGE_TYPE = "service-inference"
 
 const SCRIPT_PAGE_TYPE = "shell-script"
 

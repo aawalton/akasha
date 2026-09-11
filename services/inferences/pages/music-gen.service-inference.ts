@@ -1,9 +1,9 @@
-import type { InferenceService } from "akasha/services/inference-services/inference-service.page-type.types.ts"
+import type { ServiceInference } from "akasha/services/inferences/service-inference.page-type.types.ts"
 
 export const musicGen = {
   id: "01a090a3-3343-7623-808c-2d863b26130c",
-  pageTypeSlug: "inference-service",
-  type: "inference-service",
+  pageTypeSlug: "service-inference",
+  type: "service-inference",
   slug: "music-gen",
   definition: "the ACE-Step music model",
   host: "macbook",
@@ -17,4 +17,4 @@ export const musicGen = {
   port: 8097,
   internalPort: 18097,
   lifecycle: "pool",
-} as const satisfies InferenceService
+} as const satisfies ServiceInference

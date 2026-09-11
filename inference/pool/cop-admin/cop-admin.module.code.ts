@@ -6,7 +6,7 @@ import {
   type SshTarget,
 } from "akasha/inference/pool/inference-ssh/inference-ssh.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
-import { everyInference } from "akasha/services/inference-services/inference-reading/inference-reading.module.code.ts"
+import { everyInference } from "akasha/services/inferences/inference-reading/inference-reading.module.code.ts"
 import { z } from "zod"
 
 export interface CopHandle {

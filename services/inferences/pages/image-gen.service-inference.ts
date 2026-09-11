@@ -1,9 +1,9 @@
-import type { InferenceService } from "akasha/services/inference-services/inference-service.page-type.types.ts"
+import type { ServiceInference } from "akasha/services/inferences/service-inference.page-type.types.ts"
 
 export const imageGen = {
   id: "01a090a2-e6cb-721a-882d-350f1bbdcced",
-  pageTypeSlug: "inference-service",
-  type: "inference-service",
+  pageTypeSlug: "service-inference",
+  type: "service-inference",
   slug: "image-gen",
   definition: "the Z-Image Turbo picture model, served by mlx-openai-server",
   host: "macbook",
@@ -18,4 +18,4 @@ export const imageGen = {
   internalPort: 18086,
   lifecycle: "pool",
   warm: true,
-} as const satisfies InferenceService
+} as const satisfies ServiceInference

@@ -6,7 +6,7 @@ import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   type Inference,
   readFor,
-} from "akasha/services/inference-services/inference-reading/inference-reading.module.code.ts"
+} from "akasha/services/inferences/inference-reading/inference-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const PROSE_ROUTE = "-file"

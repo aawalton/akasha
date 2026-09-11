@@ -1,12 +1,12 @@
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
-export const inferenceService = {
+export const serviceInference = {
   id: "01a09099-06af-7cdb-a825-c9aaf68f155e",
   pageTypeSlug: "page-type",
   type: "page-type",
-  slug: "inference-service",
+  slug: "service-inference",
   definition: "a service a model runs behind, on a machine outside the cluster",
-  pluralSlug: "inference-services",
+  pluralSlug: "service-inferences",
   extends: ["page-type/service"],
   parts: [
     "boolean-property/warm",

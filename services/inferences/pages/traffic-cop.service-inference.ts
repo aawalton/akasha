@@ -1,9 +1,9 @@
-import type { InferenceService } from "akasha/services/inference-services/inference-service.page-type.types.ts"
+import type { ServiceInference } from "akasha/services/inferences/service-inference.page-type.types.ts"
 
 export const trafficCop = {
   id: "01a090a3-49cd-77e0-94ee-65778e11afc4",
-  pageTypeSlug: "inference-service",
-  type: "inference-service",
+  pageTypeSlug: "service-inference",
+  type: "service-inference",
   slug: "traffic-cop",
   definition: "the service settling which model is resident on the machine",
   host: "macbook",
@@ -14,4 +14,4 @@ export const trafficCop = {
   enabled: true,
   port: 8099,
   lifecycle: "always-on",
-} as const satisfies InferenceService
+} as const satisfies ServiceInference

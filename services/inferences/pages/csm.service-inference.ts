@@ -1,9 +1,9 @@
-import type { InferenceService } from "akasha/services/inference-services/inference-service.page-type.types.ts"
+import type { ServiceInference } from "akasha/services/inferences/service-inference.page-type.types.ts"
 
 export const csm = {
   id: "01a090a2-71a8-79b2-a532-b27c27e05122",
-  pageTypeSlug: "inference-service",
-  type: "inference-service",
+  pageTypeSlug: "service-inference",
+  type: "service-inference",
   slug: "csm",
   definition: "the Sesame CSM voice model, served by mlx-audio",
   host: "macbook",
@@ -15,4 +15,4 @@ export const csm = {
   port: 8084,
   internalPort: 18084,
   lifecycle: "pool",
-} as const satisfies InferenceService
+} as const satisfies ServiceInference

@@ -6,7 +6,7 @@ import {
   readFor,
   runIn,
   slugIn,
-} from "akasha/services/inference-services/inference-reading/inference-reading.module.code.ts"
+} from "akasha/services/inferences/inference-reading/inference-reading.module.code.ts"
 
 const ROOT = process.cwd()
 

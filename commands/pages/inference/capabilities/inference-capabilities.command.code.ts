@@ -22,7 +22,7 @@ import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   everyInference,
   type Inference,
-} from "akasha/services/inference-services/inference-reading/inference-reading.module.code.ts"
+} from "akasha/services/inferences/inference-reading/inference-reading.module.code.ts"
 
 const MODEL_TYPE = "--model-type"
 

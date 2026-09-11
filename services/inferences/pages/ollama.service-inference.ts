@@ -1,9 +1,9 @@
-import type { InferenceService } from "akasha/services/inference-services/inference-service.page-type.types.ts"
+import type { ServiceInference } from "akasha/services/inferences/service-inference.page-type.types.ts"
 
 export const ollama = {
   id: "01a090a2-cd03-701a-8161-c9b80aff3edc",
-  pageTypeSlug: "inference-service",
-  type: "inference-service",
+  pageTypeSlug: "service-inference",
+  type: "service-inference",
   slug: "ollama",
   definition: "the models ollama serves",
   host: "macbook",
@@ -17,4 +17,4 @@ export const ollama = {
   port: 11434,
   internalPort: 21434,
   lifecycle: "pool",
-} as const satisfies InferenceService
+} as const satisfies ServiceInference
