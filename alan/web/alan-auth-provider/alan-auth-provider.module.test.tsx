@@ -41,10 +41,13 @@ mock.module(
 const appVersionCheck = await import(
   "akasha/pages/ui/app-version/use-app-version-check/use-app-version-check.module.code.ts"
 )
-mock.module("@akasha/pages-ui/app-version/use-app-version-check", () => ({
-  ...appVersionCheck,
-  useAppVersionCheck: () => undefined,
-}))
+mock.module(
+  "akasha/pages/ui/app-version/use-app-version-check/use-app-version-check.module.code.ts",
+  () => ({
+    ...appVersionCheck,
+    useAppVersionCheck: () => undefined,
+  })
+)
 mock.module("akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts", () => ({
   emitStoreDiagnostic: () => undefined,
   setStoreDiagnosticsSink: () => undefined,
@@ -65,24 +68,33 @@ mock.module("akasha/pages/ui-store/singleton/singleton.module.code.ts", () => ({
 const offlineCacheNamespace = await import(
   "akasha/alan/web/offline-cache-namespace/offline-cache-namespace.module.code.ts"
 )
-mock.module("../offline-cache-namespace/offline-cache-namespace.module.code.ts", () => ({
-  ...offlineCacheNamespace,
-  setOfflineCacheUserKey: () => undefined,
-}))
+mock.module(
+  "akasha/alan/web/offline-cache-namespace/offline-cache-namespace.module.code.ts",
+  () => ({
+    ...offlineCacheNamespace,
+    setOfflineCacheUserKey: () => undefined,
+  })
+)
 
 const nullComponent = () => null
-mock.module("../deep-link-open-sync/deep-link-open-sync.module.code.tsx", () => ({
+mock.module("akasha/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx", () => ({
   DeepLinkOpenSync: nullComponent,
 }))
-mock.module("../native-auth-refresh-sync/native-auth-refresh-sync.module.code.tsx", () => ({
-  NativeAuthRefreshSync: nullComponent,
-}))
-mock.module("../offline-text-sync/offline-text-sync.module.code.tsx", () => ({
+mock.module(
+  "akasha/alan/web/native-auth-refresh-sync/native-auth-refresh-sync.module.code.tsx",
+  () => ({
+    NativeAuthRefreshSync: nullComponent,
+  })
+)
+mock.module("akasha/alan/web/offline-text-sync/offline-text-sync.module.code.tsx", () => ({
   OfflineTextSync: nullComponent,
 }))
-mock.module("../push-registration-sync/push-registration-sync.module.code.tsx", () => ({
-  PushRegistrationSync: nullComponent,
-}))
+mock.module(
+  "akasha/alan/web/push-registration-sync/push-registration-sync.module.code.tsx",
+  () => ({
+    PushRegistrationSync: nullComponent,
+  })
+)
 
 function IdentityRecorder() {
   const userID = useContext(UserIdContext)

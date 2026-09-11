@@ -15,6 +15,10 @@ export const alanAuthProvider = {
     },
     {
       invariantKind: "departure",
+      statement: "A module replaced under test is spelled as the code under test spells it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The account is cleared in a render of its own before the route changes.",
     },
     {
