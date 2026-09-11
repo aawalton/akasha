@@ -2,12 +2,13 @@ import { join, resolve } from "node:path"
 import { ranAsHook } from "akasha/agents/hooks/answer/hook-answer.module.code.ts"
 import { shownIn } from "akasha/agents/hooks/path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "akasha/agents/hooks/settling/settling.module.code.ts"
+import { dataAt } from "akasha/files/git-place/git-place.module.code.ts"
 
 const HOOK = "block-akasha-reads"
 
 const FILE_PATH = "file_path"
 
-const DATA_AT = ".git/data"
+const DATA_AT = dataAt()
 
 export const SCOPE: readonly string[] = [
   "block-akasha-reads refuses a Read landing anywhere inside this checkout, and stands aside",

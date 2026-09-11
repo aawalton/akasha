@@ -1,8 +1,9 @@
 import { createHash } from "node:crypto"
 import { type Dirent, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { dataAt } from "akasha/files/git-place/git-place.module.code.ts"
 
-export const READS_AT = ".git/data/reads"
+export const READS_AT = dataAt("reads")
 
 export const SUBAGENT_MARK = "--"
 
