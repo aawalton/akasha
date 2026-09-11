@@ -15,7 +15,7 @@ const ELSEWHERE_PAGE = "temper/temper-hum-late/temper-hum-late.eso-addon.ts"
 
 const ELSEWHERE_AT = "temper/temper-hum-late/temper-hum-late.eso-addon.addon-manifest.json"
 
-const HELD_PAGE = "code-system/held-addons/pages/hum-async.held-addon.ts"
+const HELD_PAGE = "code/held-addons/pages/hum-async.held-addon.ts"
 
 const ADDON_VALUE: Value = { slug: "temper-hum-async", addonManifest: "json" }
 
