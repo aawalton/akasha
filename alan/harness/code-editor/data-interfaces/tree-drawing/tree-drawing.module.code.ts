@@ -6,10 +6,10 @@ import {
   assembleForest,
   countRunning,
   subagentKey,
-} from "akasha/code-system/editor/extension/agent-forest/agent-forest.module.code.ts"
-import { readSeatPlaces } from "akasha/code-system/editor/extension/agent-tree-lookup/agent-tree-lookup.module.code.ts"
-import { championTree } from "akasha/code-system/editor/extension/champions-tree/champions-tree.module.code.ts"
-import type { SubagentNode } from "akasha/code-system/editor/extension/subagent-reading/subagent-reading.module.code.ts"
+} from "akasha/code/editor/extension/agent-forest/agent-forest.module.code.ts"
+import { readSeatPlaces } from "akasha/code/editor/extension/agent-tree-lookup/agent-tree-lookup.module.code.ts"
+import { championTree } from "akasha/code/editor/extension/champions-tree/champions-tree.module.code.ts"
+import type { SubagentNode } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import {
   type ForestSeat,
   forestOver,

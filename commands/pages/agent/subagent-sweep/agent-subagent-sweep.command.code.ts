@@ -4,7 +4,7 @@ import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-cha
 import {
   createSubagentReader,
   type SubagentNode,
-} from "akasha/code-system/editor/extension/subagent-reading/subagent-reading.module.code.ts"
+} from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import {
   type Answer,
   answering,

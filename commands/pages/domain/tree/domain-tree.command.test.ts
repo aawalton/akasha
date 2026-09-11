@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { DomainRow } from "akasha/code-system/editor/extension/champions-tree/champions-tree.module.code.ts"
+import type { DomainRow } from "akasha/code/editor/extension/champions-tree/champions-tree.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   domainTree,

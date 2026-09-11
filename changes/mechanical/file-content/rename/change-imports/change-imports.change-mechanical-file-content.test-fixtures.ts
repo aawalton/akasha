@@ -26,7 +26,7 @@ export const WRAPPED_AT =
 
 export const SERVICE = "infrastructure/services/pages/pages-service.service.ts"
 
-export const CONFIG = "code-system/editor/extension/tsconfig.json"
+export const CONFIG = "code/editor/extension/tsconfig.json"
 
 export const RECIPES = "inference/generations/upscale/up/upscale-up.shell-script.shell.sh"
 

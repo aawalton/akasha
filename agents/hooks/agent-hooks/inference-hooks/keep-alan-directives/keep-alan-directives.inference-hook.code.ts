@@ -21,7 +21,7 @@ import {
 import {
   createSubagentReader,
   type SubagentNode,
-} from "akasha/code-system/editor/extension/subagent-reading/subagent-reading.module.code.ts"
+} from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import { seatIn } from "akasha/commands/modules/reading/reading.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { valuedAt, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"

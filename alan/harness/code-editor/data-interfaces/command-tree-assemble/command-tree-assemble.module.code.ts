@@ -1,4 +1,4 @@
-import { championTree } from "akasha/code-system/editor/extension/champions-tree/champions-tree.module.code.ts"
+import { championTree } from "akasha/code/editor/extension/champions-tree/champions-tree.module.code.ts"
 import { domainRowsIn } from "akasha/commands/pages/domain/tree/domain-tree.command.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {

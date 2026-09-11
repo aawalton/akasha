@@ -2,7 +2,7 @@ import { resolve } from "node:path"
 import {
   championTree,
   type DomainRow,
-} from "akasha/code-system/editor/extension/champions-tree/champions-tree.module.code.ts"
+} from "akasha/code/editor/extension/champions-tree/champions-tree.module.code.ts"
 import { sayAnswer } from "akasha/commands/modules/answer-bytes/answer-bytes.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { AUTHOR } from "akasha/commands/modules/committing/committing.module.code.ts"

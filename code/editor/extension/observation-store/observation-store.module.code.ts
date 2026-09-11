@@ -1,0 +1,161 @@
+import {
+  foldSweep,
+  mergeObservation,
+  type ObservationPatch,
+} from "akasha/code/editor/extension/observation-merging/observation-merging.module.code.ts"
+import {
+  changeKey,
+  type Observation,
+} from "akasha/code/editor/extension/seat-observations/seat-observations.module.code.ts"
+
+export interface SweepReport {
+  readonly swept: number
+  readonly read: number
+  readonly noProcess: number
+  readonly neverAnswered: number
+  readonly boundMs: number
+  readonly ms: number
+  readonly trigger: string
+}
+
+export const SETTLE_MS = 250
+
+const WINDOW_PAGE_TYPE = "code-editor-window"
+
+const WRITER = "editor-observations"
+
+export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
+
+const REPRESENTS_AN_ORIGIN = "http://127.0.0.1:8787"
+
+export interface ObservationStore {
+  readonly record: (feature: string, patch: ObservationPatch) => void
+  readonly recordSweep: (feature: string, report: SweepReport) => void
+  readonly flush: () => Promise<void>
+  readonly dispose: () => Promise<void>
+  readonly url: string
+}
+
+export interface StoreOptions {
+  readonly window: string
+  readonly origin?: string
+  readonly fetch?: Fetcher
+  readonly now?: () => Date
+  readonly settleMs?: number
+  readonly onError?: (message: string) => void
+}
+
+export function createObservationStore(options: StoreOptions): ObservationStore {
+  const now = options.now ?? ((): Date => new Date())
+  const settleMs = options.settleMs ?? SETTLE_MS
+  const ask = options.fetch
+  const url = `${options.origin ?? REPRESENTS_AN_ORIGIN}/patch-state/${WINDOW_PAGE_TYPE}/${options.window}`
+
+  let features: Record<string, Observation> = {}
+  let writtenKey = changeKey({})
+  let timer: ReturnType<typeof setTimeout> | undefined
+  let writing: Promise<void> = Promise.resolve()
+
+  const write = async (): Promise<void> => {
+    if (ask === undefined) {
+      return
+    }
+    const key = changeKey(features)
+    if (key === writtenKey) {
+      return
+    }
+    const values = { features, "observed-at": now().toISOString() }
+    try {
+      const response = await ask(url, {
+        method: "POST",
+        headers: { "content-type": "application/json", accept: "application/json" },
+        body: JSON.stringify({ writer: WRITER, values }),
+      })
+      if (!response.ok) {
+        const said = (await response.text().catch(() => "")).trim()
+        options.onError?.(`observation write refused: ${response.status} ${said}`)
+        return
+      }
+    } catch (err) {
+      options.onError?.(`observation write failed: ${String(err)}`)
+      return
+    }
+    writtenKey = key
+  }
+
+  const schedule = (): undefined => {
+    if (ask === undefined) {
+      return undefined
+    }
+    if (timer !== undefined) {
+      clearTimeout(timer)
+    }
+    timer = setTimeout(() => {
+      timer = undefined
+      writing = writing.then(write)
+    }, settleMs)
+    return undefined
+  }
+
+  const self: ObservationStore = {
+    url,
+
+    recordSweep: (feature, report) => {
+      self.record(feature, {
+        sweep: foldSweep(features[feature]?.sweep, {
+          ...report,
+          at: now().toISOString(),
+        }),
+      })
+    },
+
+    record: (feature, patch) => {
+      const merged = mergeObservation(features[feature], patch, now().toISOString())
+      const candidate = { ...features, [feature]: merged }
+      if (changeKey(candidate) === changeKey(features)) {
+        return
+      }
+      features = candidate
+      if (changeKey(features) === writtenKey) {
+        return
+      }
+      schedule()
+    },
+
+    flush: async () => {
+      if (timer !== undefined) {
+        clearTimeout(timer)
+        timer = undefined
+      }
+      writing = writing.then(write)
+      await writing
+    },
+
+    dispose: async () => {
+      if (timer !== undefined) {
+        clearTimeout(timer)
+        timer = undefined
+      }
+      writing = writing.then(write)
+      await writing.catch(() => undefined)
+    },
+  }
+  return self
+}
+
+let store: ObservationStore | undefined
+
+export function setObservationStore(next: ObservationStore | undefined): undefined {
+  store = next
+  return undefined
+}
+
+export function recordObservation(feature: string, patch: ObservationPatch): undefined {
+  store?.record(feature, patch)
+  return undefined
+}
+
+export function recordSweep(feature: string, report: SweepReport): undefined {
+  store?.recordSweep(feature, report)
+  return undefined
+}

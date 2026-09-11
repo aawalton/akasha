@@ -17,7 +17,7 @@ import { type Rung, rungsIn } from "akasha/alan/harness/readouts/tier/readout-ti
 import {
   readingOf,
   type UsageReading,
-} from "akasha/code-system/editor/extension/status-bar-usage/status-bar-usage.module.code.ts"
+} from "akasha/code/editor/extension/status-bar-usage/status-bar-usage.module.code.ts"
 import { typeSlugOf, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { wholeValue } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"

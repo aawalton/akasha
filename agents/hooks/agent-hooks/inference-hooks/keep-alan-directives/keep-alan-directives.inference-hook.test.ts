@@ -5,7 +5,7 @@ import {
   stillWorking,
   type Valued,
 } from "akasha/agents/hooks/agent-hooks/inference-hooks/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"
-import type { SubagentNode } from "akasha/code-system/editor/extension/subagent-reading/subagent-reading.module.code.ts"
+import type { SubagentNode } from "akasha/code/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 
 const SEATS: readonly Valued[] = [
   { path: "one.seat.ts", value: { id: "a", person: "alan" } },

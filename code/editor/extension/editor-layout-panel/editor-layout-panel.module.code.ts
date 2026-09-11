@@ -1,0 +1,127 @@
+import type {
+  LayoutGroup,
+  LayoutTab,
+  TabKind,
+} from "akasha/code/editor/extension/editor-layout-columns/editor-layout-columns.module.code.ts"
+import {
+  recordObservation,
+  recordSweep,
+} from "akasha/code/editor/extension/observation-store/observation-store.module.code.ts"
+import {
+  readSeatLookup,
+  readSeatTerminals,
+} from "akasha/code/editor/extension/seat-terminals/seat-terminals.module.code.ts"
+import { PROCESS_ID_TIMEOUT_MS } from "akasha/code/editor/extension/terminal-pids/terminal-pids.module.code.ts"
+import { readProcess } from "akasha/code/editor/extension/window-identity/window-identity.module.code.ts"
+import * as vscode from "vscode"
+
+const FEATURE = "editor-layout"
+
+const SETTLE_MS = 250
+
+let output: vscode.OutputChannel
+let timer: ReturnType<typeof setTimeout> | undefined
+
+export function activate(context: vscode.ExtensionContext): undefined {
+  output = vscode.window.createOutputChannel("Ops Editor Layout")
+  context.subscriptions.push(output)
+  output.appendLine("activated; watching how the editor is arranged")
+
+  schedule("activate")
+
+  context.subscriptions.push(
+    vscode.window.tabGroups.onDidChangeTabs(() => schedule("tabs")),
+    vscode.window.tabGroups.onDidChangeTabGroups(() => schedule("groups")),
+    vscode.window.onDidOpenTerminal(() => schedule("terminal-open")),
+    vscode.window.onDidCloseTerminal(() => schedule("terminal-close")),
+    vscode.commands.registerCommand("opsEditorLayout.writeNow", () => write("manual"))
+  )
+  return undefined
+}
+
+function schedule(trigger: string): undefined {
+  if (timer !== undefined) {
+    clearTimeout(timer)
+  }
+  timer = setTimeout(() => {
+    timer = undefined
+    void write(trigger)
+  }, SETTLE_MS)
+  return undefined
+}
+
+async function write(trigger: string): Promise<undefined> {
+  try {
+    const groups = await readGroups()
+    const tabs = groups.reduce((n, g) => n + g.tabs.length, 0)
+    const seats = groups.reduce((n, g) => n + g.tabs.filter((t) => t.seat !== undefined).length, 0)
+    output.appendLine(`[${trigger}] ${groups.length} group(s), ${tabs} tab(s), ${seats} seat(s)`)
+    recordObservation(FEATURE, {
+      outcome: "ok",
+      counts: { groups: groups.length, tabs, seats },
+    })
+  } catch (err) {
+    output.appendLine(`[${trigger}] reading the arrangement failed: ${String(err)}`)
+    recordObservation(FEATURE, { outcome: "failed", failure: String(err) })
+  }
+  return undefined
+}
+
+async function readGroups(): Promise<readonly LayoutGroup[]> {
+  const seatByTerminal = new Map<vscode.Terminal, string>()
+  const processByTerminal = new Map<vscode.Terminal, string>()
+  const seatByShellPid = readSeatLookup()
+  if (seatByShellPid !== null) {
+    const { seats, counted, ms, pidByTerminal } = await readSeatTerminals(seatByShellPid)
+    recordSweep(FEATURE, { ...counted, boundMs: PROCESS_ID_TIMEOUT_MS, ms, trigger: "write" })
+    for (const seat of seats) {
+      seatByTerminal.set(seat.terminal, seat.name)
+    }
+    await Promise.all(
+      [...pidByTerminal].map(async ([terminal, pid]) => {
+        processByTerminal.set(terminal, await readProcess(pid))
+      })
+    )
+  }
+
+  const active = vscode.window.tabGroups.activeTabGroup
+  return vscode.window.tabGroups.all.map((group) => ({
+    column: group.viewColumn,
+    active: group === active,
+    tabs: group.tabs.map((tab) => describeTab(tab, seatByTerminal, processByTerminal)),
+  }))
+}
+
+function describeTab(
+  tab: vscode.Tab,
+  seatByTerminal: ReadonlyMap<vscode.Terminal, string>,
+  processByTerminal: ReadonlyMap<vscode.Terminal, string>
+): LayoutTab {
+  const input: unknown = tab.input
+  const base = { label: tab.label, active: tab.isActive }
+
+  if (input instanceof vscode.TabInputTerminal) {
+    const terminal = input.terminal
+    const seat = terminal === undefined ? undefined : seatByTerminal.get(terminal)
+    const running = terminal === undefined ? undefined : processByTerminal.get(terminal)
+    return {
+      ...base,
+      kind: "terminal",
+      ...(seat === undefined ? {} : { seat }),
+      ...(running === undefined ? {} : { process: running }),
+    }
+  }
+  if (input instanceof vscode.TabInputText) {
+    return { ...base, kind: "text", uri: input.uri.toString() }
+  }
+  if (input instanceof vscode.TabInputNotebook) {
+    return { ...base, kind: "notebook", uri: input.uri.toString() }
+  }
+  if (input instanceof vscode.TabInputTextDiff || input instanceof vscode.TabInputNotebookDiff) {
+    return { ...base, kind: "diff", uri: input.modified.toString() }
+  }
+  if (input instanceof vscode.TabInputWebview) {
+    return { ...base, kind: "webview" }
+  }
+  return { ...base, kind: "other" satisfies TabKind }
+}

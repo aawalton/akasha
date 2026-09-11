@@ -1,0 +1,135 @@
+import { readdir, readFile, stat } from "node:fs/promises"
+import * as path from "node:path"
+import { callHarness } from "akasha/code/editor/extension/harness-call/harness-call.module.code.ts"
+import { z } from "zod"
+
+export interface SeatTranscript {
+  readonly agentId: string
+  readonly seatName: string
+  readonly transcriptPath: string
+}
+
+export interface SubagentTranscript {
+  readonly toolUseId: string
+  readonly agentType: string | null
+  readonly description: string | null
+  readonly filePath: string
+}
+
+const CALL_TIMEOUT_MS = 30_000
+
+const TRANSCRIPTS_MODULE = "seat-transcripts"
+
+const TRANSCRIPTS_EXPORT = "seatTranscripts"
+
+const HOLD_MS = 5_000
+
+let held: { readonly at: number; readonly seats: readonly SeatTranscript[] } | null = null
+
+function parseSeats(answered: unknown): readonly SeatTranscript[] {
+  if (
+    answered === null ||
+    typeof answered !== "object" ||
+    !Array.isArray((answered as { seats?: unknown }).seats)
+  ) {
+    throw new Error("seat-transcripts: the answer carries no `seats` array")
+  }
+  return (answered as { seats: readonly unknown[] }).seats.map((raw, at) => {
+    if (raw === null || typeof raw !== "object") {
+      throw new Error(`seat-transcripts: seats[${at}] is not an object`)
+    }
+    const row = raw as Record<string, unknown>
+    if (
+      typeof row.agentId !== "string" ||
+      typeof row.seatName !== "string" ||
+      typeof row.transcriptPath !== "string"
+    ) {
+      throw new Error(
+        `seat-transcripts: seats[${at}] carries no agentId, seatName and transcriptPath`
+      )
+    }
+    return { agentId: row.agentId, seatName: row.seatName, transcriptPath: row.transcriptPath }
+  })
+}
+
+export async function readSeatTranscripts(): Promise<readonly SeatTranscript[]> {
+  const now = Date.now()
+  if (held !== null && now - held.at < HOLD_MS) {
+    return held.seats
+  }
+  const stdout = await callHarness(TRANSCRIPTS_MODULE, TRANSCRIPTS_EXPORT, [], {
+    timeout: CALL_TIMEOUT_MS,
+  })
+  let seats: readonly SeatTranscript[]
+  try {
+    seats = parseSeats(JSON.parse(stdout))
+  } catch (err) {
+    if (err instanceof SyntaxError) {
+      throw new Error(`seat-transcripts did not print JSON: ${String(err)}`)
+    }
+    throw err
+  }
+  held = { at: now, seats }
+  return seats
+}
+
+export async function seatTranscriptOf(agentId: string): Promise<SeatTranscript | null> {
+  return (await readSeatTranscripts()).find((seat) => seat.agentId === agentId) ?? null
+}
+
+const subagentMetaSchema = z.looseObject({
+  toolUseId: z.string(),
+  agentType: z.string().optional(),
+  description: z.string().optional(),
+})
+
+async function readSubagentMetaAt(
+  filePath: string
+): Promise<z.infer<typeof subagentMetaSchema> | null> {
+  try {
+    const text = await readFile(filePath, "utf8")
+    const parsed = subagentMetaSchema.safeParse(JSON.parse(text))
+    return parsed.success ? parsed.data : null
+  } catch {
+    return null
+  }
+}
+
+export async function readSubagentsIn(
+  subagentsDir: string
+): Promise<ReadonlyMap<string, SubagentTranscript>> {
+  const byToolUseId = new Map<string, SubagentTranscript>()
+
+  let names: readonly string[]
+  try {
+    names = await readdir(subagentsDir)
+  } catch {
+    return byToolUseId
+  }
+
+  for (const name of names) {
+    if (!name.endsWith(".meta.json")) {
+      continue
+    }
+    const meta = await readSubagentMetaAt(path.join(subagentsDir, name))
+    if (meta === null) {
+      continue
+    }
+
+    const jsonlName = name.replace(/\.meta\.json$/, ".jsonl")
+    const filePath = path.join(subagentsDir, jsonlName)
+    try {
+      await stat(filePath)
+    } catch {
+      continue
+    }
+
+    byToolUseId.set(meta.toolUseId, {
+      toolUseId: meta.toolUseId,
+      agentType: meta.agentType ?? null,
+      description: meta.description ?? null,
+      filePath,
+    })
+  }
+  return byToolUseId
+}
