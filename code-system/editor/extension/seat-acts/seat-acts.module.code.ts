@@ -1,15 +1,18 @@
-import * as vscode from "vscode"
-import { output } from "../agent-tree-state/agent-tree-state.module.code.ts"
-import { seatTerminalOptions } from "../editor-group/editor-group.module.code.ts"
-import { callHarness, LANDING_TIMEOUT_MS } from "../harness-call/harness-call.module.code.ts"
-import type { ToggleTarget } from "../invoked-seat/invoked-seat.module.code.ts"
-import { columnForSeat } from "../seat-showing/seat-showing.module.code.ts"
-import { readSeatLookup } from "../seat-terminals/seat-terminals.module.code.ts"
+import { output } from "akasha/code-system/editor/extension/agent-tree-state/agent-tree-state.module.code.ts"
+import { seatTerminalOptions } from "akasha/code-system/editor/extension/editor-group/editor-group.module.code.ts"
+import {
+  callHarness,
+  LANDING_TIMEOUT_MS,
+} from "akasha/code-system/editor/extension/harness-call/harness-call.module.code.ts"
+import type { ToggleTarget } from "akasha/code-system/editor/extension/invoked-seat/invoked-seat.module.code.ts"
+import { columnForSeat } from "akasha/code-system/editor/extension/seat-showing/seat-showing.module.code.ts"
+import { readSeatLookup } from "akasha/code-system/editor/extension/seat-terminals/seat-terminals.module.code.ts"
 import {
   attachCommandLine,
   resumePromptIn,
   type SeatStep,
-} from "../seat-toggles/seat-toggles.module.code.ts"
+} from "akasha/code-system/editor/extension/seat-toggles/seat-toggles.module.code.ts"
+import * as vscode from "vscode"
 
 const NOTICES_MODULE = "seat-compose-notices"
 
