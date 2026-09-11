@@ -10,6 +10,7 @@ export const personaRelationshipLevel = {
   holds: "number",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

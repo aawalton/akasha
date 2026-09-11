@@ -5,6 +5,7 @@ import {
   type Named,
   untotalledOf,
 } from "akasha/commands/pages/measure/personas/measure-personas.command.code.ts"
+import { rungAt } from "akasha/personas/properties/persona-relationship-level.computed-property.test-fixtures.ts"
 
 const NAMED: readonly Named[] = [
   { slug: "wren", label: "Wren", path: "lumen/pages/wren/wren.persona.ts" },
@@ -14,11 +15,7 @@ const NAMED: readonly Named[] = [
 
 const KEPT: Readonly<Record<string, number>> = { wren: 30.005, dove: 30.005, ash: 7 }
 
-const RUNGS: Readonly<Record<number, number>> = { 1: 7, 2: 28, 3: 88, 4: 268, 5: 808, 6: 2428 }
-
 const totalOf = (one: Named): number | null => KEPT[one.slug] ?? null
-
-const rungAt = (rung: number): number | null => RUNGS[rung] ?? null
 
 test("a persona carrying no total is left out of the lines", () => {
   const named = [...NAMED, { slug: "swift", label: "Swift", path: "lumen/pages/swift/swift.ts" }]
