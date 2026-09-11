@@ -1,7 +1,10 @@
 # shellcheck shell=bash
 
 _rr_self="$(readlink -f -- "${BASH_SOURCE[0]:-$0}")"
-_rr_own="$(cd -- "$(dirname -- "$_rr_self")/../../../.." && pwd -P)"
+_rr_own="$(cd -- "$(dirname -- "$_rr_self")" && pwd -P)"
+while [ "$_rr_own" != "/" ] && [ ! -f "$_rr_own/akasha.domain.ts" ]; do
+  _rr_own="$(dirname -- "$_rr_own")"
+done
 _rr_beside="$(dirname -- "$_rr_own")"
 
 if [ ! -f "$_rr_own/akasha.domain.ts" ]; then

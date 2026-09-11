@@ -8,4 +8,15 @@ export const repoRoots = {
   definition: "where this checkout is, exported to the shell that sourced this",
   shell: "sh",
   sourced: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "The checkout is found by walking up from this script to the folder holding akasha's own page.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No count of folders is written between this script and that root.",
+    },
+  ],
 } as const satisfies ShellScript
