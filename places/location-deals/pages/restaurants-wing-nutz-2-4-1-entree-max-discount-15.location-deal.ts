@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const restaurantsWingNutz241EntreeMaxDiscount15 = {
   id: "019f322c-ab80-723e-87dc-62d5d7db4b93",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "restaurants-wing-nutz-2-4-1-entree-max-discount-15",
   title: "Wing Nutz — 2-4-1! Entree! Max Discount $15!",

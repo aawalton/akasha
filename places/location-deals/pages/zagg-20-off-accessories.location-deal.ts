@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const zagg20OffAccessories = {
   id: "019f322c-acf5-7a25-a7b6-0d7c0d27e953",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "zagg-20-off-accessories",
   title:

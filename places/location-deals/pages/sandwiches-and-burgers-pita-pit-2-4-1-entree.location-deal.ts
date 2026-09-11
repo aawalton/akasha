@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const sandwichesAndBurgersPitaPit241Entree = {
   id: "019f322c-afe0-77df-a570-c1c2cbcfd735",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "sandwiches-and-burgers-pita-pit-2-4-1-entree",
   title: "Pita Pit — 2-4-1! Entree!",

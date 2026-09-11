@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const restaurantsRodizioGrillBuyAnyEntreeGetAnySpecialtyBeverageAndAnyDessertFree = {
   id: "019f322c-aaec-7de7-a254-f07fb911c50a",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "restaurants-rodizio-grill-buy-any-entree-get-any-specialty-beverage-and-any-dessert-free",
   title: "Rodizio Grill — Buy Any Entree, Get Any Specialty Beverage & Any Dessert FREE!",

@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const retailAutoAndMoreRevivePtCryo241CryoChamber = {
   id: "019f322c-ac8e-7c9b-8d8f-91fa294cbaad",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "retail-auto-and-more-revive-pt-cryo-2-4-1-cryo-chamber",
   title: "Revive PT Cryo — 2-4-1! Cryo Chamber!",

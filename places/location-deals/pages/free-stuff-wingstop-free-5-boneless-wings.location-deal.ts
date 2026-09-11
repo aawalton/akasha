@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffWingstopFree5BonelessWings = {
   id: "019f322c-a401-79f2-be98-86e81f93342e",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-wingstop-free-5-boneless-wings",
   title: "Wingstop — FREE! 5 Boneless Wings!",

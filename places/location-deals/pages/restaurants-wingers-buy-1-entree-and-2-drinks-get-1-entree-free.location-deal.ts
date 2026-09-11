@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const restaurantsWingersBuy1EntreeAnd2DrinksGet1EntreeFree = {
   id: "019f322c-ab82-7e5b-b3ab-503ee734004e",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "restaurants-wingers-buy-1-entree-and-2-drinks-get-1-entree-free",
   title: "Wingers — Buy 1 Entree & 2 Drinks, Get 1 Entree FREE!",

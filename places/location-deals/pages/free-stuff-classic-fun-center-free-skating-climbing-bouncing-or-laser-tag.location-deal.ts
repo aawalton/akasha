@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffClassicFunCenterFreeSkatingClimbingBouncingOrLaserTag = {
   id: "019f322c-9fb5-750b-8477-8630e8741368",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-classic-fun-center-free-skating-climbing-bouncing-or-laser-tag",
   title: "Classic Fun Center — FREE! Skating, Climbing, Bouncing or Laser Tag!",

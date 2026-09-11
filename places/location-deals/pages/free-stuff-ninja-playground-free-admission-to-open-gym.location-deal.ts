@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffNinjaPlaygroundFreeAdmissionToOpenGym = {
   id: "019f322c-a199-79ec-be57-152a4b1a68df",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-ninja-playground-free-admission-to-open-gym",
   title: "Ninja Playground — FREE! Admission to Open Gym!",

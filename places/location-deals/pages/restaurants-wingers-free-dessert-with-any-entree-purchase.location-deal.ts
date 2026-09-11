@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const restaurantsWingersFreeDessertWithAnyEntreePurchase = {
   id: "019f322c-ab85-772e-91d2-4a7d111ca457",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "restaurants-wingers-free-dessert-with-any-entree-purchase",
   title: "Wingers — FREE! Dessert With Any Entree Purchase!",

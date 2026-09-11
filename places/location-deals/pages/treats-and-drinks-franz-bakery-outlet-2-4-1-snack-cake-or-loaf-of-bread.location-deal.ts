@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const treatsAndDrinksFranzBakeryOutlet241SnackCakeOrLoafOfBread = {
   id: "019f322c-b0fe-762f-ac9b-f44ad262dd81",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "treats-and-drinks-franz-bakery-outlet-2-4-1-snack-cake-or-loaf-of-bread",
   title: "Franz Bakery Outlet — 2-4-1! Snack Cake or Loaf of Bread!",

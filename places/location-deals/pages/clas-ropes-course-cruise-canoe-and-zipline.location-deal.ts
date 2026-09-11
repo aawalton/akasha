@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const clasRopesCourseCruiseCanoeAndZipline = {
   id: "019f322c-9ce5-73f8-8e3d-63d0adcfec93",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "clas-ropes-course-cruise-canoe-and-zipline",
   title:

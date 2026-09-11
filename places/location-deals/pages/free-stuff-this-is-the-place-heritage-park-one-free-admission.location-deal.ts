@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffThisIsThePlaceHeritageParkOneFreeAdmission = {
   id: "019f322c-a3a5-7ff5-b75f-752fb4591bb1",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-this-is-the-place-heritage-park-one-free-admission",
   title: "This Is The Place Heritage Park — One FREE! Admission!",

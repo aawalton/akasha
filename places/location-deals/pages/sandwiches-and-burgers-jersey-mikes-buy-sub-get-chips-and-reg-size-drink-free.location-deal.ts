@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const sandwichesAndBurgersJerseyMikesBuySubGetChipsAndRegSizeDrinkFree = {
   id: "019f322c-afad-7543-bdc9-7f811bafbb45",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "sandwiches-and-burgers-jersey-mikes-buy-sub-get-chips-and-reg-size-drink-free",
   title: "Jersey Mikes — Buy Sub, Get Chips and Reg. Size Drink FREE!",

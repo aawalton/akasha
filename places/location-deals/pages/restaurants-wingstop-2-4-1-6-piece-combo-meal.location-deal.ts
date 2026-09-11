@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const restaurantsWingstop2416PieceComboMeal = {
   id: "019f322c-ab88-7e2d-8676-7b24f9018ca2",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "restaurants-wingstop-2-4-1-6-piece-combo-meal",
   title: "Wingstop — 2-4-1! 6 Piece Combo Meal!",

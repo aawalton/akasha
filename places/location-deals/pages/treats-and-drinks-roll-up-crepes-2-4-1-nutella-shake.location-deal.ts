@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const treatsAndDrinksRollUpCrepes241NutellaShake = {
   id: "019f322c-b14b-74a8-b2e8-6c222c61be04",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "treats-and-drinks-roll-up-crepes-2-4-1-nutella-shake",
   title: "Roll Up Crepes — 2-4-1! Nutella Shake!",

@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffStadiumCinemasFreeMovieTicket = {
   id: "019f322c-a31f-720e-8e5d-990f4b319e16",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-stadium-cinemas-free-movie-ticket",
   title: "Stadium Cinemas — FREE! Movie Ticket!",

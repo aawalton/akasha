@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffQuenchItFreePretzelBites = {
   id: "019f322c-a267-7ee9-b9cf-b7c61903f47f",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-quench-it-free-pretzel-bites",
   title: "Quench It! — FREE! Pretzel Bites!",

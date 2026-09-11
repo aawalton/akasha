@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const entertainmentLaserAssault50OffFridayNightFireFightPass = {
   id: "019f322c-9e29-79af-8d8a-a31a094bf96d",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "entertainment-laser-assault-50-off-friday-night-fire-fight-pass",
   title: "Laser Assault — 50% OFF! Friday Night Fire Fight Pass!",

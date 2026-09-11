@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const treatsAndDrinksYonutz241HalfDozenDonuts = {
   id: "019f322c-b2e4-7a32-9f30-d70cd3a75d39",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "treats-and-drinks-yonutz-2-4-1-half-dozen-donuts",
   title: "Yonutz — 2-4-1! Half Dozen Donuts!",

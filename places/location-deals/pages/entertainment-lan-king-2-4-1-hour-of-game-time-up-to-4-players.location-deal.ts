@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const entertainmentLanKing241HourOfGameTimeUpTo4Players = {
   id: "019f322c-9e13-7bc5-af3b-39e27b37cc56",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "entertainment-lan-king-2-4-1-hour-of-game-time-up-to-4-players",
   title: "LAN King — 2-4-1! Hour of Game Time! Up to 4 Players",

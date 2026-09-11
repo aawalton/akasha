@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const sandwichesAndBurgersCarlsJrBuyAWesternBaconCheeseburgerGet1Free = {
   id: "019f322c-ad5e-786e-92d4-98cbf972d075",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "sandwiches-and-burgers-carls-jr-buy-a-western-bacon-cheeseburger-get-1-free",
   title: "Carl's Jr — Buy a Western Bacon Cheeseburger, Get 1 FREE!",

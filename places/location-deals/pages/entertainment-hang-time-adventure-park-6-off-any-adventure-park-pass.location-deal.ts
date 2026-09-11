@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const entertainmentHangTimeAdventurePark6OffAnyAdventureParkPass = {
   id: "019f322c-9d62-7e76-b8a5-fd385b3a671b",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "entertainment-hang-time-adventure-park-6-off-any-adventure-park-pass",
   title: "Hang Time Adventure Park — $6 OFF! Any Adventure Park Pass!",

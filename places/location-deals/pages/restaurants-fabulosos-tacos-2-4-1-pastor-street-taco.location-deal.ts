@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const restaurantsFabulososTacos241PastorStreetTaco = {
   id: "019f322c-a7e1-7215-87d9-52baf0d07970",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "restaurants-fabulosos-tacos-2-4-1-pastor-street-taco",
   title: "Fabulosos Tacos — 2-4-1! Pastor Street Taco!",

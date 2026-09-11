@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const sandwichesAndBurgersMooyah50OffEntirePurchase = {
   id: "019f322c-afd1-7c2d-88ea-a830f87b09db",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "sandwiches-and-burgers-mooyah-50-off-entire-purchase",
   title: "Mooyah — 50% OFF! Entire Purchase!",

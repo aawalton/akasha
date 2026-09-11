@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffYogurtlandFreeFirst5OuncesOfYogurt = {
   id: "019f322c-a406-742d-ac46-9bdb74255a01",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-yogurtland-free-first-5-ounces-of-yogurt",
   title: "Yogurtland — FREE! First 5 Ounces of Yogurt!",

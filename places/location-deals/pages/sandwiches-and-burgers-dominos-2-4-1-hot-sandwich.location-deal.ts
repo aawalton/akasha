@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const sandwichesAndBurgersDominos241HotSandwich = {
   id: "019f322c-ae13-7fe8-9582-12d5bb23cae2",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "sandwiches-and-burgers-dominos-2-4-1-hot-sandwich",
   title: "Domino's — 2-4-1! Hot Sandwich!",

@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const bumblebeesKbbqAndGrillKPopFriesKPhillyKNoodlesOrDupBop = {
   id: "019f322c-a703-7af8-9b04-b7c3a3939c9a",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "bumblebees-kbbq-and-grill-k-pop-fries-k-philly-k-noodles-or-dup-bop",
   title:

@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const entertainmentImprovBroadwayBuy1AdmissionGet1Free = {
   id: "019f322c-9dbe-7914-bf5f-54225b21f934",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "entertainment-improv-broadway-buy-1-admission-get-1-free",
   title: "Improv Broadway — Buy 1 Admission, Get 1 FREE!",

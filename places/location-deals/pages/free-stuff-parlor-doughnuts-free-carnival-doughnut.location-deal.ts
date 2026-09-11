@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffParlorDoughnutsFreeCarnivalDoughnut = {
   id: "019f322c-a1a7-7d35-a308-ed2460588fee",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-parlor-doughnuts-free-carnival-doughnut",
   title: "Parlor Doughnuts — FREE! Carnival Doughnut!",

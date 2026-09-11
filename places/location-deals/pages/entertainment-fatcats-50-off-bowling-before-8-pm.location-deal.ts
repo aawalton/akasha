@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const entertainmentFatcats50OffBowlingBefore8Pm = {
   id: "019f322c-9d52-7dcb-9092-59bbe080e8a2",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "entertainment-fatcats-50-off-bowling-before-8-pm",
   title: "FatCats — 50% OFF! Bowling! Before 8 PM",

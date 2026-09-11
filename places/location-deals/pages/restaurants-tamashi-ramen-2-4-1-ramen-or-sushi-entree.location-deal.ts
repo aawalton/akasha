@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const restaurantsTamashiRamen241RamenOrSushiEntree = {
   id: "019f322c-ab55-723d-91e5-87f31f6c3760",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "restaurants-tamashi-ramen-2-4-1-ramen-or-sushi-entree",
   title: "Tamashi Ramen — 2-4-1! Ramen or Sushi Entree!",

@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const restaurantsElBetoBuyACombinationPlateGet1Free = {
   id: "019f322c-a78e-79a8-a5d7-c33bfb5a8177",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "restaurants-el-beto-buy-a-combination-plate-get-1-free",
   title: "El Beto — Buy a Combination Plate, Get 1 FREE!",

@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const entertainmentJackAndJillLanes241GameOfLaserTagForSamePlayer = {
   id: "019f322c-9dc7-7e75-aa3e-c90c7b1a137f",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "entertainment-jack-and-jill-lanes-2-4-1-game-of-laser-tag-for-same-player",
   title: "Jack & Jill Lanes — 2-4-1! Game of Laser Tag for Same Player!",

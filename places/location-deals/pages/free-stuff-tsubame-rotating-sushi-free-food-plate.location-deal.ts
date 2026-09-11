@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffTsubameRotatingSushiFreeFoodPlate = {
   id: "019f322c-a3ae-7754-a498-508cef786d38",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-tsubame-rotating-sushi-free-food-plate",
   title: "Tsubame Rotating Sushi — FREE! Food Plate!",

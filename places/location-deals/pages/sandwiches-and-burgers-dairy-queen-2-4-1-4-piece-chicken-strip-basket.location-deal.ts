@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const sandwichesAndBurgersDairyQueen2414PieceChickenStripBasket = {
   id: "019f322c-adac-7cc2-b6c2-ec1f882d330b",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "sandwiches-and-burgers-dairy-queen-2-4-1-4-piece-chicken-strip-basket",
   title: "Dairy Queen — 2-4-1! 4-Piece Chicken Strip Basket!",

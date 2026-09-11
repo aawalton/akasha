@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const restaurantsOmbuGrillBuy1MenuItemAnd2DrinksGet1MenuItemFree = {
   id: "019f322c-aa88-7778-a6db-e64d8f0f2a47",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "restaurants-ombu-grill-buy-1-menu-item-and-2-drinks-get-1-menu-item-free",
   title: "Ombu Grill — Buy 1 Menu Item and 2 Drinks, Get 1 Menu Item FREE!",

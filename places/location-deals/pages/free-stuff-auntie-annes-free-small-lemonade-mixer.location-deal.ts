@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffAuntieAnnesFreeSmallLemonadeMixer = {
   id: "019f322c-9f60-7ea3-9e0b-f5526156601e",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-auntie-annes-free-small-lemonade-mixer",
   title: "Auntie Anne's — FREE! Small Lemonade Mixer!",

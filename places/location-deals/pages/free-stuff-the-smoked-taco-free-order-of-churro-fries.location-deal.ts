@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffTheSmokedTacoFreeOrderOfChurroFries = {
   id: "019f322c-a39d-7a2e-a9a6-0741d3f7bcea",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-the-smoked-taco-free-order-of-churro-fries",
   title: "The Smoked Taco — FREE! Order of Churro Fries!",

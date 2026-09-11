@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const retailAutoAndMoreHealingMountainMassage241FootSpaMassage = {
   id: "019f322c-abe3-7128-803f-8ab702888647",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "retail-auto-and-more-healing-mountain-massage-2-4-1-foot-spa-massage",
   title: "Healing Mountain Massage — 2-4-1! Foot Spa Massage!",

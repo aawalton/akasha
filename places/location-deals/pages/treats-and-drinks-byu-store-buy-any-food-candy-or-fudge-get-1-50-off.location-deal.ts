@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const treatsAndDrinksByuStoreBuyAnyFoodCandyOrFudgeGet150Off = {
   id: "019f322c-b0d6-7e41-b151-01e4ee924a03",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "treats-and-drinks-byu-store-buy-any-food-candy-or-fudge-get-1-50-off",
   title: "BYU Store — Buy Any Food, Candy, or Fudge, Get 1 50% OFF!",

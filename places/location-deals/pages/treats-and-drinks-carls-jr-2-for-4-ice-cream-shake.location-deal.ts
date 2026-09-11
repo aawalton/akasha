@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const treatsAndDrinksCarlsJr2For4IceCreamShake = {
   id: "019f322c-b0da-7ed2-9677-d5d5653976cf",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "treats-and-drinks-carls-jr-2-for-4-ice-cream-shake",
   title: "Carl's Jr — 2 for $4 Ice Cream Shake!",

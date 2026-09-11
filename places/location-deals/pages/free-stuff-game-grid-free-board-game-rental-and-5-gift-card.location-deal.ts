@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffGameGridFreeBoardGameRentalAnd5GiftCard = {
   id: "019f322c-a082-738f-8d0f-2ea6459bb9ae",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-game-grid-free-board-game-rental-and-5-gift-card",
   title: "Game Grid — FREE! Board Game Rental and $5! Gift Card!",

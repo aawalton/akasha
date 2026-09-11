@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const retailAutoAndMoreForgeJewelryWorks30OffAnyJewelryItem = {
   id: "019f322c-abc7-7bdb-918e-7058cb26983d",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "retail-auto-and-more-forge-jewelry-works-30-off-any-jewelry-item",
   title: "FORGE Jewelry Works — 30% OFF! Any Jewelry Item!",

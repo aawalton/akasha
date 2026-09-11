@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffGetoutGamesFreeAdmitForOnePerson = {
   id: "019f322c-a086-7f5a-a78b-1a4b56f78ead",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-getout-games-free-admit-for-one-person",
   title: "GetOut Games — FREE! Admit for ONE Person!",

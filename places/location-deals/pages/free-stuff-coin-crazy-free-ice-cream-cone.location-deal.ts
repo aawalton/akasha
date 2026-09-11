@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffCoinCrazyFreeIceCreamCone = {
   id: "019f322c-a004-7709-8aa0-6ea7081f70ba",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-coin-crazy-free-ice-cream-cone",
   title: "Coin Crazy — FREE! Ice Cream Cone!",

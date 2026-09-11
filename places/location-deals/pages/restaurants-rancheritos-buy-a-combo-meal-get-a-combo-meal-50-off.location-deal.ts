@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const restaurantsRancheritosBuyAComboMealGetAComboMeal50Off = {
   id: "019f322c-aa9e-7b51-9006-b03f2091e69c",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "restaurants-rancheritos-buy-a-combo-meal-get-a-combo-meal-50-off",
   title: "Rancherito's — Buy a Combo Meal, Get a Combo Meal 50% OFF!",

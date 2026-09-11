@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const entertainmentKreativeKilnBuyOnePlayInTheClaySessionGetOneFree = {
   id: "019f322c-9e0a-72d0-9b42-fffe1e1f49a9",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "entertainment-kreative-kiln-buy-one-play-in-the-clay-session-get-one-free",
   title: 'Kreative Kiln — Buy One "Play in the Clay" Session, Get One FREE!',

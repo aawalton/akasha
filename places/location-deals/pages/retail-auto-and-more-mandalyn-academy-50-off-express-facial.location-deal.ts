@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const retailAutoAndMoreMandalynAcademy50OffExpressFacial = {
   id: "019f322c-ac34-713d-a795-c474a7c2caa0",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "retail-auto-and-more-mandalyn-academy-50-off-express-facial",
   title: "Mandalyn Academy — 50% OFF! Express Facial!",

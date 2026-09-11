@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const retailAutoAndMoreBodyBalanceMassageAndFloat2411HourFloatSensoryDeprivation = {
   id: "019f322c-ab90-763c-bc46-fc1c8c773f62",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "retail-auto-and-more-body-balance-massage-and-float-2-4-1-1-hour-float-sensory-deprivation",
   title: "Body Balance Massage and Float — 2-4-1! 1 Hour Float (Sensory Deprivation)",

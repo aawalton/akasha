@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const treatsAndDrinksBrustersIceCream241IceCreamSundae = {
   id: "019f322c-b0a0-7c31-8a84-df5dc9c5e309",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "treats-and-drinks-brusters-ice-cream-2-4-1-ice-cream-sundae",
   title: "Bruster's Ice Cream — 2-4-1! Ice Cream Sundae!",

@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuff5StarBbqFreeSideOrderOfFriedFuneralPotatoes = {
   id: "019f322c-9f5c-7170-a2e7-bb6cfef47290",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-5-star-bbq-free-side-order-of-fried-funeral-potatoes",
   title: "5 Star BBQ — FREE! Side Order of Fried Funeral Potatoes!",

@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const restaurantsFirebirdPizzaAndPasta50OffAnyPastaEntree = {
   id: "019f322c-a7e7-7cc8-bb81-678454ceabde",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "restaurants-firebird-pizza-and-pasta-50-off-any-pasta-entree",
   title: "Firebird Pizza & Pasta — 50% OFF! Any Pasta Entree!",

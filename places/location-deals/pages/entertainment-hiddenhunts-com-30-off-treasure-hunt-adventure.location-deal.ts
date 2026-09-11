@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const entertainmentHiddenhuntsCom30OffTreasureHuntAdventure = {
   id: "019f322c-9db3-7632-a72b-5d25bd83665c",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "entertainment-hiddenhunts-com-30-off-treasure-hunt-adventure",
   title: "HiddenHunts.com — 30% OFF! Treasure Hunt Adventure!",

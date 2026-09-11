@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const retailAutoAndMoreMandalynAcademy241AnyFacialOrLuxuryBackTreatment = {
   id: "019f322c-ac2f-7026-90e2-4206e74ff59a",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "retail-auto-and-more-mandalyn-academy-2-4-1-any-facial-or-luxury-back-treatment",
   title: "Mandalyn Academy — 2-4-1! Any Facial or Luxury Back Treatment!",

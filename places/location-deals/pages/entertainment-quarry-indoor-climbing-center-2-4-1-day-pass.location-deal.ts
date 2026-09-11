@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const entertainmentQuarryIndoorClimbingCenter241DayPass = {
   id: "019f322c-9e82-77a2-b1a8-fb27250961a7",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "entertainment-quarry-indoor-climbing-center-2-4-1-day-pass",
   title: "Quarry Indoor Climbing Center — 2-4-1! Day Pass!",

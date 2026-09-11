@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const restaurantsBuffaloWildWingsFreeAppetizerWPurchase25OrMore = {
   id: "019f322c-a6ad-7fe8-af6b-b5e77a4cacfb",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "restaurants-buffalo-wild-wings-free-appetizer-w-purchase-25-or-more",
   title: "Buffalo Wild Wings — FREE! Appetizer w/ Purchase $25 or More!",

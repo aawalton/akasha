@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffLowesXtremeAirSportsFreeAdmission = {
   id: "019f322c-a09c-7d7d-bb36-b50c4d869359",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-lowes-xtreme-air-sports-free-admission",
   title: "Lowes Xtreme Air Sports — FREE! Admission!",

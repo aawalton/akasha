@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffJambaJuiceFreeBelgianWafflePretzelOrCheddarTomatoTwist = {
   id: "019f322c-a08b-7d96-b8f1-3a3ebccf9371",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-jamba-juice-free-belgian-waffle-pretzel-or-cheddar-tomato-twist",
   title: "Jamba Juice — FREE! Belgian Waffle, Pretzel or Cheddar Tomato Twist!",

@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const treatsAndDrinksTwistedSugar50OffADozenCookies = {
   id: "019f322c-b2be-7a49-b4dd-eb672e0fc3f6",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "treats-and-drinks-twisted-sugar-50-off-a-dozen-cookies",
   title: "Twisted Sugar — 50% OFF! a Dozen Cookies!",

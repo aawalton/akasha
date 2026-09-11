@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const retailAutoAndMoreTaxFreedomFighters50OffTaxPreparation = {
   id: "019f322c-ac9d-77f6-aa5e-02af5eacabb4",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "retail-auto-and-more-tax-freedom-fighters-50-off-tax-preparation",
   title: "Tax Freedom Fighters — 50% OFF! Tax Preparation!",

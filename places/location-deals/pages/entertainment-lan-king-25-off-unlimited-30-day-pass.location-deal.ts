@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const entertainmentLanKing25OffUnlimited30DayPass = {
   id: "019f322c-9e1a-7dbf-ad25-fe31a4d5a162",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "entertainment-lan-king-25-off-unlimited-30-day-pass",
   title: "LAN King — 25% OFF! Unlimited 30-Day Pass!",

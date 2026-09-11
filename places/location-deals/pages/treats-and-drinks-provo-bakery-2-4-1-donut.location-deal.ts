@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const treatsAndDrinksProvoBakery241Donut = {
   id: "019f322c-b136-7c79-ab9e-2c78882f303c",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "treats-and-drinks-provo-bakery-2-4-1-donut",
   title: "Provo Bakery — 2-4-1! Donut!",

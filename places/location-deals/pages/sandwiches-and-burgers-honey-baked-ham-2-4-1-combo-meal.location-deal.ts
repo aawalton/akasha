@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const sandwichesAndBurgersHoneyBakedHam241ComboMeal = {
   id: "019f322c-aef4-76d9-989a-d79ec7c835e6",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "sandwiches-and-burgers-honey-baked-ham-2-4-1-combo-meal",
   title: "Honey Baked Ham — 2-4-1! Combo Meal!",

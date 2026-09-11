@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const retailAutoAndMoreFabulousFreddys241VipCarWash = {
   id: "019f322c-abc5-72d3-b185-1adb06b9da41",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "retail-auto-and-more-fabulous-freddys-2-4-1-vip-car-wash",
   title: "Fabulous Freddy's — 2-4-1! VIP Car Wash!",

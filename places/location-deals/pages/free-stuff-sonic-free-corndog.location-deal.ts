@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffSonicFreeCorndog = {
   id: "019f322c-a2d1-73bb-8060-fac4908b6f6b",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-sonic-free-corndog",
   title: "Sonic — FREE! Corndog!",

@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffFranzBakeryOutletFreeLoafOfBread = {
   id: "019f322c-a07c-75e6-a8f9-8d9a806f6104",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-franz-bakery-outlet-free-loaf-of-bread",
   title: "Franz Bakery Outlet — FREE! Loaf of Bread!",

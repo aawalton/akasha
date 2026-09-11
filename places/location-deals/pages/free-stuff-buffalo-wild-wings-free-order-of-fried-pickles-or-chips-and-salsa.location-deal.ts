@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffBuffaloWildWingsFreeOrderOfFriedPicklesOrChipsAndSalsa = {
   id: "019f322c-9f6a-7a47-a7bd-fa8643d762c5",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-buffalo-wild-wings-free-order-of-fried-pickles-or-chips-and-salsa",
   title: "Buffalo Wild Wings — FREE! Order of Fried Pickles or Chips & Salsa!",

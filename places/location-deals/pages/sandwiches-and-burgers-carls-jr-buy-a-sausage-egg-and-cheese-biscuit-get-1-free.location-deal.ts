@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const sandwichesAndBurgersCarlsJrBuyASausageEggAndCheeseBiscuitGet1Free = {
   id: "019f322c-ad59-71af-af1a-0c94455d0a0c",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "sandwiches-and-burgers-carls-jr-buy-a-sausage-egg-and-cheese-biscuit-get-1-free",
   title: "Carl's Jr — Buy a Sausage Egg and Cheese Biscuit, Get 1 FREE!",

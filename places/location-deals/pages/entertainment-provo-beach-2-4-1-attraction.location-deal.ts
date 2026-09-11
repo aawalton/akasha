@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const entertainmentProvoBeach241Attraction = {
   id: "019f322c-9e79-7e99-a49e-ed0ccd23a506",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "entertainment-provo-beach-2-4-1-attraction",
   title: "Provo Beach — 2-4-1! Attraction!",

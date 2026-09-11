@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const restaurantsFiveSushiBrothers241AnySushiRoll = {
   id: "019f322c-a7ed-74fd-8f80-9938eb71f3ff",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "restaurants-five-sushi-brothers-2-4-1-any-sushi-roll",
   title: "Five Sushi Brothers — 2-4-1! Any Sushi Roll!",

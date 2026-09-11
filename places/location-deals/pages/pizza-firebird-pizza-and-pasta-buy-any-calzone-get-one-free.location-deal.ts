@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const pizzaFirebirdPizzaAndPastaBuyAnyCalzoneGetOneFree = {
   id: "019f322c-a4ba-7bbe-8b20-b2daec02f50b",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "pizza-firebird-pizza-and-pasta-buy-any-calzone-get-one-free",
   title: "Firebird Pizza & Pasta — Buy Any Calzone, Get One FREE!",

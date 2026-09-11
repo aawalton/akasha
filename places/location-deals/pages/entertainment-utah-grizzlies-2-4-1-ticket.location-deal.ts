@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const entertainmentUtahGrizzlies241Ticket = {
   id: "019f322c-9f52-762f-9671-a3cb24ca4ea8",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "entertainment-utah-grizzlies-2-4-1-ticket",
   title: "Utah Grizzlies — 2-4-1! Ticket!",

@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const retailAutoAndMoreRevivePtCryo241AnySpaAmenity = {
   id: "019f322c-ac88-7054-9cb4-5b63431a7104",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "retail-auto-and-more-revive-pt-cryo-2-4-1-any-spa-amenity",
   title: "Revive PT Cryo — 2-4-1! Any Spa Amenity!",

@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const restaurantsHungryHawaiian241GuavaCake = {
   id: "019f322c-a9cd-766c-9483-24336eca2830",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "restaurants-hungry-hawaiian-2-4-1-guava-cake",
   title: "Hungry Hawaiian — 2-4-1! Guava Cake!",

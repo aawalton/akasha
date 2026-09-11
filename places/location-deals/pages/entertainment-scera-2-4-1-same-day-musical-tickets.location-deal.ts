@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const entertainmentScera241SameDayMusicalTickets = {
   id: "019f322c-9e9a-7034-b423-4c0e67b4c5d3",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "entertainment-scera-2-4-1-same-day-musical-tickets",
   title: "SCERA — 2-4-1! Same Day Musical Tickets!",

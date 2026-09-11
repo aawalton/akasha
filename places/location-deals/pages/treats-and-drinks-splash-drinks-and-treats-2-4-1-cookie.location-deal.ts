@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const treatsAndDrinksSplashDrinksAndTreats241Cookie = {
   id: "019f322c-b1b2-759b-bc86-a37929eb058a",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "treats-and-drinks-splash-drinks-and-treats-2-4-1-cookie",
   title: "Splash Drinks and Treats — 2-4-1! Cookie!",

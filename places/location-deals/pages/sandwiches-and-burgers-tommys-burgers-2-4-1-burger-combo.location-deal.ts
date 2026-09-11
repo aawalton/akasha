@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const sandwichesAndBurgersTommysBurgers241BurgerCombo = {
   id: "019f322c-b016-7207-b3b2-bfa2cdd1e1b1",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "sandwiches-and-burgers-tommys-burgers-2-4-1-burger-combo",
   title: "Tommy's Burgers — 2-4-1! Burger Combo!",

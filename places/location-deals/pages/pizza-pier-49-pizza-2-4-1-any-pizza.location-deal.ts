@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const pizzaPier49Pizza241AnyPizza = {
   id: "019f322c-a584-70ca-b8b3-56ce75517a5b",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "pizza-pier-49-pizza-2-4-1-any-pizza",
   title: "Pier 49 Pizza — 2-4-1! Any Pizza!",

@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const chiropracticAxcessAdjustmentOrAcupuncture = {
   id: "019f322c-aba1-7952-9569-a3314636e4d1",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "chiropractic-axcess-adjustment-or-acupuncture",
   title:

@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffKlucksKrispyChickenFreeOrderOfFriedChicken = {
   id: "019f322c-a091-77a0-aa88-923f08ad0f60",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-klucks-krispy-chicken-free-order-of-fried-chicken",
   title: "Klucks Krispy Chicken — FREE! Order of Fried Chicken!",

@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const sandwichesAndBurgersMcdonaldsBuyLargeDrinkAndFryGet1SandwichFree = {
   id: "019f322c-afc5-7af8-a802-d01f201f9bb0",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "sandwiches-and-burgers-mcdonalds-buy-large-drink-and-fry-get-1-sandwich-free",
   title: "McDonald's — Buy Large Drink & Fry, Get 1 Sandwich FREE!",

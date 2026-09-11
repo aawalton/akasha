@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const sandwichesAndBurgersSonic241SonicCheeseburger = {
   id: "019f322c-b00e-7c23-b849-5bf5a207586e",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "sandwiches-and-burgers-sonic-2-4-1-sonic-cheeseburger",
   title: "Sonic — 2-4-1! Sonic Cheeseburger!",

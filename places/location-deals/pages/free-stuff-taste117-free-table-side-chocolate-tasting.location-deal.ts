@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffTaste117FreeTableSideChocolateTasting = {
   id: "019f322c-a338-700a-bfbb-546eb6f45ff4",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-taste117-free-table-side-chocolate-tasting",
   title: "Taste117 — FREE! Table Side Chocolate Tasting!",

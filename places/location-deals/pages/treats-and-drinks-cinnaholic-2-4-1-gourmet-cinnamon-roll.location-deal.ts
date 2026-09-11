@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const treatsAndDrinksCinnaholic241GourmetCinnamonRoll = {
   id: "019f322c-b0e6-711b-ad29-09c6c4f4d026",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "treats-and-drinks-cinnaholic-2-4-1-gourmet-cinnamon-roll",
   title: "Cinnaholic — 2-4-1! Gourmet Cinnamon Roll!",

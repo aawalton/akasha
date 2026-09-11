@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const treatsAndDrinksFreddysFrozenCustardAndSteakburgers241CustardConeOrDish = {
   id: "019f322c-b100-789b-9e1a-1ae42fbab3d1",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "treats-and-drinks-freddys-frozen-custard-and-steakburgers-2-4-1-custard-cone-or-dish",
   title: "Freddy's Frozen Custard & Steakburgers — 2-4-1! Custard, Cone or Dish!",

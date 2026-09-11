@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const entertainmentRedlineRacing241Race = {
   id: "019f322c-9e8a-7e14-9fe3-ba3b49ed7818",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "entertainment-redline-racing-2-4-1-race",
   title: "Redline Racing — 2-4-1! Race!",

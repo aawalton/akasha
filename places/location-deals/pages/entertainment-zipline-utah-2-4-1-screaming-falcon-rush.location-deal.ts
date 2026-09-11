@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const entertainmentZiplineUtah241ScreamingFalconRush = {
   id: "019f322c-9f59-7b09-97fa-ece1a2673c9d",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "entertainment-zipline-utah-2-4-1-screaming-falcon-rush",
   title: "Zipline Utah — 2-4-1! Screaming Falcon Rush!",

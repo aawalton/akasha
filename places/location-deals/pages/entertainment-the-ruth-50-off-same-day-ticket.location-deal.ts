@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const entertainmentTheRuth50OffSameDayTicket = {
   id: "019f322c-9ef3-7d84-8dc4-f2ae16772dbe",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "entertainment-the-ruth-50-off-same-day-ticket",
   title: "The Ruth — 50% OFF! Same Day Ticket!",

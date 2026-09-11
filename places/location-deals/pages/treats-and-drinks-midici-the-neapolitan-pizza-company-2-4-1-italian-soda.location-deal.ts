@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const treatsAndDrinksMidiciTheNeapolitanPizzaCompany241ItalianSoda = {
   id: "019f322c-b117-73c2-a53d-7c811d23b983",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "treats-and-drinks-midici-the-neapolitan-pizza-company-2-4-1-italian-soda",
   title: "MidiCi The Neapolitan Pizza Company — 2-4-1! Italian Soda!",

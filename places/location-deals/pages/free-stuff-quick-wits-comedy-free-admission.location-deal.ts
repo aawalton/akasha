@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffQuickWitsComedyFreeAdmission = {
   id: "019f322c-a270-7272-b02d-6b7f21454c4a",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-quick-wits-comedy-free-admission",
   title: "Quick Wits Comedy — FREE! Admission!",

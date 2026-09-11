@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const treatsAndDrinksWaybackBurgers241AnyRegularMilkshake = {
   id: "019f322c-b2d7-715d-b4db-56acfb6c7a69",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "treats-and-drinks-wayback-burgers-2-4-1-any-regular-milkshake",
   title: "Wayback Burgers — 2-4-1! Any Regular Milkshake!",

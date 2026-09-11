@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const treatsAndDrinksAvenueBakery50Off1DozenDonuts = {
   id: "019f322c-b090-7c49-a20b-b0419048fd8e",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "treats-and-drinks-avenue-bakery-50-off-1-dozen-donuts",
   title: "Avenue Bakery — 50% OFF! 1 Dozen Donuts!",

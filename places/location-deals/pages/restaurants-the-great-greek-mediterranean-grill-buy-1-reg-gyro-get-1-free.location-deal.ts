@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const restaurantsTheGreatGreekMediterraneanGrillBuy1RegGyroGet1Free = {
   id: "019f322c-ab68-7d3c-b4d9-7cef29ba9ef6",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "restaurants-the-great-greek-mediterranean-grill-buy-1-reg-gyro-get-1-free",
   title: "The Great Greek Mediterranean Grill — Buy 1 Reg Gyro, Get 1 FREE!",

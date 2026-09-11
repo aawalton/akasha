@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const retailAutoAndMoreByuStudio10305OffHaircutService = {
   id: "019f322c-ab9c-73d9-8fa1-6b13ce7cf436",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "retail-auto-and-more-byu-studio-1030-5-off-haircut-service",
   title: "BYU Studio 1030 — $5 OFF! Haircut Service!",

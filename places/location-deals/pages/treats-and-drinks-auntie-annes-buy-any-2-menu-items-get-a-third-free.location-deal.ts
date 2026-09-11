@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const treatsAndDrinksAuntieAnnesBuyAny2MenuItemsGetAThirdFree = {
   id: "019f322c-b08b-73f2-9395-7dc4a459ad73",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "treats-and-drinks-auntie-annes-buy-any-2-menu-items-get-a-third-free",
   title: "Auntie Anne's — Buy Any 2 Menu Items, Get a Third FREE!",

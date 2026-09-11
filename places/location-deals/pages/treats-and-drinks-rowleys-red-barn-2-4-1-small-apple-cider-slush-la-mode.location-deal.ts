@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const treatsAndDrinksRowleysRedBarn241SmallAppleCiderSlushLaMode = {
   id: "019f322c-b154-782b-a81c-a45bb9d3d0f5",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "treats-and-drinks-rowleys-red-barn-2-4-1-small-apple-cider-slush-la-mode",
   title: "Rowley's Red Barn — 2-4-1! Small Apple Cider Slush à la Mode!",

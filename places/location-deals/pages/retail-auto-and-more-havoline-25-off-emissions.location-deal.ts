@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const retailAutoAndMoreHavoline25OffEmissions = {
   id: "019f322c-abdc-79e5-b9a2-33250ff2b24c",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "retail-auto-and-more-havoline-25-off-emissions",
   title: "Havoline — 25% OFF! Emissions!",

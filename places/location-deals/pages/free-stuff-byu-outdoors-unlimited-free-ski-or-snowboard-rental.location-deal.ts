@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const freeStuffByuOutdoorsUnlimitedFreeSkiOrSnowboardRental = {
   id: "019f322c-9f97-745a-a771-ba26e418f0eb",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "free-stuff-byu-outdoors-unlimited-free-ski-or-snowboard-rental",
   title: "BYU Outdoors Unlimited — FREE! Ski or Snowboard Rental!",

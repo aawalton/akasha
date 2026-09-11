@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const entertainmentThePicklr2413HrOpenPlaySession = {
   id: "019f322c-9eeb-7723-8e0e-d73dd46badcb",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "entertainment-the-picklr-2-4-1-3-hr-open-play-session",
   title: "The Picklr — 2-4-1! 3 Hr Open Play Session!",

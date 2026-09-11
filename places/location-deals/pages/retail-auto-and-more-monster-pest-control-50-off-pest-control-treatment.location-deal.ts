@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const retailAutoAndMoreMonsterPestControl50OffPestControlTreatment = {
   id: "019f322c-ac38-7bbb-b7ac-fa9263b10c45",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "retail-auto-and-more-monster-pest-control-50-off-pest-control-treatment",
   title: "Monster Pest Control — 50% OFF! Pest Control Treatment!",

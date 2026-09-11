@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const treatsAndDrinksYogurtlandBuyOneYogurtGetOneFree = {
   id: "019f322c-b2dc-7c2a-a709-2bb0b2d01239",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "treats-and-drinks-yogurtland-buy-one-yogurt-get-one-free",
   title: "Yogurtland — Buy One Yogurt, Get One FREE!",

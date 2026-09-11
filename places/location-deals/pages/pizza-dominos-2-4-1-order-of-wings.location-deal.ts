@@ -2,7 +2,6 @@ import type { LocationDeal } from "akasha/places/location-deals/location-deal.pa
 
 export const pizzaDominos241OrderOfWings = {
   id: "019f322c-a465-765a-9546-f222bd2aecdd",
-  pageTypeSlug: "location-deal",
   type: "location-deal",
   slug: "pizza-dominos-2-4-1-order-of-wings",
   title: "Domino's — 2-4-1! Order of Wings!",
