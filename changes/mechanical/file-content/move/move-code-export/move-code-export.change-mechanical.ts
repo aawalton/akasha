@@ -51,6 +51,10 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
+      statement: "An export naming something its own body declares under no export is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every kind of exported declaration is moved the same way.",
     },
     {

@@ -326,16 +326,32 @@ function exportedIn(at: string, text: string, of: string): boolean {
   return declared !== null && exported(declared)
 }
 
+function unexportedIn(source: ts.SourceFile, declared: Held, of: string): string | null {
+  const held = importsIn(source)
+  for (const name of namesIn(declared)) {
+    if (name === of || held.has(name)) continue
+    const one = declaredIn(source, name)
+    if (one !== null && !exported(one)) return name
+  }
+  return null
+}
+
 function planned(world: World, given: Asked): Plan | Refused {
   if (given.from === given.to) return { refused: `\`${given.to}\` is the path it already sits at` }
   const text = world.textOf(given.from)
   if (text === null) return { refused: `\`${given.from}\` could not be read` }
   const landed = world.textOf(given.to)
-  const declared = declaredIn(parsedAs(given.from, text), given.of)
+  const source = parsedAs(given.from, text)
+  const declared = declaredIn(source, given.of)
   if (declared === null) {
     return { refused: `\`${given.from}\` declares nothing named \`${given.of}\`` }
   }
   if (!exported(declared)) return { refused: `\`${given.of}\` is declared under no export` }
+  const behind = unexportedIn(source, declared, given.of)
+  if (behind !== null) {
+    const held = `\`${behind}\`, which \`${given.from}\` declares under no export`
+    return { refused: `\`${given.of}\` names ${held}` }
+  }
   const repointed = repointedIn(world, given)
   if ("refused" in repointed) return repointed
   const there = landed !== null && exportedIn(given.to, landed, given.of)

@@ -469,3 +469,23 @@ test("a landing body takes that carried import under that name too", async () =>
   expect(said.refused).toBeNull()
   expect(puttingAt(said, TO).join("")).toContain(`import { said as gitIn } from "./git.held.ts"`)
 })
+
+const PRIVATE = `function bodiedOf(one: string): string {
+  return one
+}
+
+export function changeOf(one: string): string {
+  return bodiedOf(one)
+}
+`
+
+test("an export naming something its own body declares under no export is refused", async () => {
+  const world = worldOf({ [FROM]: PRIVATE })
+
+  const said = await runChange(world, { from: FROM, to: TO, of: "changeOf" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    `\`changeOf\` names \`bodiedOf\`, which \`${FROM}\` declares under no export`
+  )
+})
