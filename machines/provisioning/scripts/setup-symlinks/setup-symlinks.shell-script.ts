@@ -8,4 +8,5 @@ export const setupSymlinks = {
   definition: "every provisioned file put where the thing that reads it looks",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
