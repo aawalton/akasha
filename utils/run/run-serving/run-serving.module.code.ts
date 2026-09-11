@@ -26,11 +26,12 @@ function answering(frame: Frame): Uint8Array {
       code: done.code,
       signal: done.signal,
       cpuSeconds: done.cpuSeconds,
+      peakBytes: done.peakBytes,
     }
     return framed(said, done.out, new TextEncoder().encode(done.err))
   } catch (raised) {
     const threw = raised instanceof Error ? raised.message : String(raised)
-    const said: Answer = { threw, code: NO_CODE, signal: null, cpuSeconds: 0 }
+    const said: Answer = { threw, code: NO_CODE, signal: null, cpuSeconds: 0, peakBytes: 0 }
     return framed(said, new Uint8Array(), new Uint8Array())
   }
 }

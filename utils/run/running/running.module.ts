@@ -62,6 +62,23 @@ export const running = {
     },
     {
       invariantKind: "departure",
+      statement: "A process is answered with the peak memory that process reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That peak is the highest the process and the children it waited on ever held.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The kernel counts that peak in kilobytes and a caller is answered in bytes.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A process the kernel reported no usage for is answered as having reached no peak.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A process given no ceiling is answered the seconds that process and its reaped children spent.",
     },

@@ -26,6 +26,10 @@ export const runServing = {
     },
     {
       invariantKind: "departure",
+      statement: "The peak answered is the peak the process the server started reached.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A ceiling is judged here rather than in the process that asked for the run.",
     },
     {

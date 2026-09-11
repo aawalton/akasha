@@ -41,6 +41,7 @@ export type Answer = {
   readonly code: number
   readonly signal: string | null
   readonly cpuSeconds: number
+  readonly peakBytes: number
 }
 
 export type Frame = {
@@ -187,6 +188,7 @@ function lostOn(raised: unknown): Held {
     out: new Uint8Array(),
     err: `runner channel lost: ${raised instanceof Error ? raised.message : String(raised)}`,
     cpuSeconds: 0,
+    peakBytes: 0,
   }
 }
 
@@ -211,5 +213,6 @@ export function relayed(argv: readonly string[], asked: Asked = {}): Held {
     out: answered.first,
     err: new TextDecoder().decode(answered.second),
     cpuSeconds: said.cpuSeconds,
+    peakBytes: said.peakBytes,
   }
 }

@@ -10,6 +10,8 @@ export const NO_CODE = -1
 
 const MICROS = 1_000_000
 
+const KIB = 1024
+
 const MOUNT = "/sys/fs/cgroup"
 
 const OWN = "/proc/self/cgroup"
@@ -120,6 +122,7 @@ export type Said = {
   readonly out: string
   readonly err: string
   readonly cpuSeconds: number
+  readonly peakBytes: number
 }
 
 export type Held = {
@@ -128,6 +131,7 @@ export type Held = {
   readonly out: Uint8Array
   readonly err: string
   readonly cpuSeconds: number
+  readonly peakBytes: number
 }
 
 export type Asked = {
@@ -161,6 +165,7 @@ export function spawnedHere(argv: readonly string[], asked: Asked = {}): Held {
       out: new Uint8Array(done.stdout),
       err: done.stderr.toString(),
       cpuSeconds: group ?? Number(done.resourceUsage?.cpuTime.total ?? 0n) / MICROS,
+      peakBytes: Number(done.resourceUsage?.maxRSS ?? 0) * KIB,
     }
   } finally {
     watch?.kill()
@@ -203,6 +208,7 @@ export function ran(argv: readonly string[], asked: Asked = {}): Said {
     out: new TextDecoder().decode(done.out),
     err: done.err,
     cpuSeconds: done.cpuSeconds,
+    peakBytes: done.peakBytes,
   }
 }
 

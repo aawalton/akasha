@@ -120,6 +120,20 @@ test("a process is answered with the processor seconds that process and its own 
   expect(idle).toBeLessThan(busy)
 })
 
+test("a process is answered with the peak memory that process reached", () => {
+  const small = ran(["true"]).peakBytes
+  const large = ran(["bun", "-e", "new Uint8Array(400e6).fill(1)"]).peakBytes
+  expect(small).toBeGreaterThan(0)
+  expect(large - small).toBeGreaterThan(300e6)
+})
+
+test("a run relayed is answered the peak a run made here is answered", () => {
+  const argv = ["bun", "-e", "new Uint8Array(200e6).fill(1)"]
+  const here = spawnedHere(argv).peakBytes
+  const there = relayed(argv).peakBytes
+  expect(Math.abs(there - here)).toBeLessThan(here / 2)
+})
+
 test("a process given a ceiling is ended at that many processor seconds", () => {
   const done = ran(["sh", "-c", "while :; do :; done"], { cpuCeiling: 1 })
   expect(done.signal).toBe("SIGKILL")

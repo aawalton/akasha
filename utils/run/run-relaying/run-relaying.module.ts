@@ -92,6 +92,18 @@ export const runRelaying = {
       statement: "A run the server threw on counts the seconds that run burned before throwing.",
     },
     {
+      invariantKind: "departure",
+      statement: "The peak memory a relayed run reached comes back with that run's answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run the server threw on is answered as having reached no peak.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A lost channel is answered as having reached no peak.",
+    },
+    {
       invariantKind: "absence",
       statement: "A lost channel that was told no seconds adds no seconds.",
     },
