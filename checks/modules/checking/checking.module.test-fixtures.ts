@@ -8,7 +8,7 @@ import {
   judgingBy,
 } from "akasha/checks/modules/checking/checking.module.code.ts"
 import type { Cost } from "akasha/checks/modules/cost/check-cost.module.code.ts"
-import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
+import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
@@ -298,6 +298,10 @@ const BURNS_CPU =
 
 export const BURNS_CHECK = [{ slug: BURNS, runsOn: ["change"], body: BURNS_CPU, checkCeiling: 0 }]
 
+export const BURNS_AT_DEPLOY = [
+  { slug: BURNS, runsOn: ["deploy"], body: BURNS_CPU, checkCeiling: 0 },
+]
+
 export const BURNS_AT_AUDIT = [
   {
     slug: BURNS,
@@ -355,6 +359,21 @@ export function taking(root: string, gone: readonly string[]): Change {
     before: disk,
     after: (path) => (gone.includes(path) ? null : disk(path)),
   }
+}
+
+export type Taken = {
+  readonly gate: Judging
+  readonly change: Change
+}
+
+export function gateTaking(gone: readonly string[]): Taken {
+  const root = rootWith(BOTH_CHECKS)
+  return { gate: judgingBy(checksIn(root), "change"), change: taking(root, gone) }
+}
+
+export function leftTaking(gone: readonly string[]): readonly string[] {
+  const held = gateTaking(gone)
+  return held.gate.checksFor(held.change)
 }
 
 export function overIn(root: string, changed: readonly string[]): Change {

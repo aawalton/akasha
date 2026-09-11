@@ -15,6 +15,7 @@ import {
   BOTH_CHECKS,
   BURNS,
   BURNS_AT_AUDIT,
+  BURNS_AT_DEPLOY,
   BURNS_CHECK,
   CHECK_TYPE,
   checkAt,
@@ -24,11 +25,13 @@ import {
   EXPERIMENTAL_CHECKS,
   GATHERED,
   GONE_TS,
+  gateTaking,
   HELD_CODE_AT,
   HELD_PAGE_AT,
   INPUT_THROWS_CHECKS,
   judgedAsleep,
   judgedOver,
+  leftTaking,
   NO_PHASE_CHECK,
   ONE_MD,
   ONE_TS,
@@ -128,34 +131,24 @@ test("a check saying it is experimental is left out of every phase its page stat
 })
 
 test("the check a change takes away no longer refuses the change taking it", async () => {
-  const root = rootWith(BOTH_CHECKS)
-  const gate = judgingBy(checksIn(root), "change")
-  const change = taking(root, [checkAt(REFUSES), checkCodeAt(REFUSES)])
+  const { gate, change } = gateTaking([checkAt(REFUSES), checkCodeAt(REFUSES)])
   expect(gate.named).toEqual([ADMITS, REFUSES])
   expect(gate.checksFor(change)).toEqual([ADMITS])
   expect(await gate.over(change)).toEqual([])
 })
 
 test("a check the change leaves still judges the change taking its neighbour away", async () => {
-  const root = rootWith(BOTH_CHECKS)
-  const gone = [checkAt(ADMITS), checkCodeAt(ADMITS)]
-  const gate = judgingBy(checksIn(root), "change")
-  expect(gate.checksFor(taking(root, gone))).toEqual([REFUSES])
-  expect((await gate.over(taking(root, gone))).map((one) => one.path)).toEqual(gone)
+  const { gate, change } = gateTaking([checkAt(ADMITS), checkCodeAt(ADMITS)])
+  expect(gate.checksFor(change)).toEqual([REFUSES])
+  expect((await gate.over(change)).map((one) => one.path)).toEqual([...change.changed])
 })
 
 test("a check whose code alone the change takes away does not run", () => {
-  const root = rootWith(BOTH_CHECKS)
-  expect(
-    judgingBy(checksIn(root), "change").checksFor(taking(root, [checkCodeAt(REFUSES)]))
-  ).toEqual([ADMITS])
+  expect(leftTaking([checkCodeAt(REFUSES)])).toEqual([ADMITS])
 })
 
 test("a check whose page alone the change takes away does not run", () => {
-  const root = rootWith(BOTH_CHECKS)
-  expect(judgingBy(checksIn(root), "change").checksFor(taking(root, [checkAt(REFUSES)]))).toEqual([
-    ADMITS,
-  ])
+  expect(leftTaking([checkAt(REFUSES)])).toEqual([ADMITS])
 })
 
 test("a change taking away every check is refused rather than judged clean", async () => {
@@ -321,6 +314,12 @@ test("a check over its ceiling refuses, and the refusal names the check's own pa
   expect(said[0]?.reason).toContain("over the 0 its page states, so what it judged does not land")
 })
 
+test("a check over its ceiling at deploy refuses by its check group", async () => {
+  const root = rootHolding(BURNS_AT_DEPLOY, [ONE_TS])
+  const said = await judgingBy(checksIn(root), "deploy").over(overIn(root, [ONE_TS]))
+  expect(said[0]?.reason).toContain("over the 0 its page states")
+})
+
 test("a check at its ceiling refuses nothing, and one over it names its own page", () => {
   const one = { ...GATHERED, checkCeiling: 1 }
   expect(ranOver(one, "check", costing(0.6, 0.4))).toBe(null)
@@ -348,8 +347,7 @@ test("the group whose code ran decides which group states the ceiling", () => {
 
 test("a run over some of the files is held by the check group though its phase is audit", async () => {
   const root = rootHolding(BURNS_AT_AUDIT, [ONE_TS])
-  const whole = judgingBy(checksIn(root), "audit", root)
-  expect(await whole.over(overIn(root, [ONE_TS]))).toEqual([])
+  expect(await judgingBy(checksIn(root), "audit", root).over(overIn(root, [ONE_TS]))).toEqual([])
   const some = await judgingBy(checksIn(root), "audit").over(overIn(root, [ONE_TS]))
   expect(some[0]?.reason).toContain("over the 0 its page states")
 })
