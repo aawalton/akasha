@@ -67,6 +67,14 @@ test("no file name at all picks out no manifest", () => {
   expect(manifestsAmong(PATHS, null)).toEqual([])
 })
 
+test("a path whose last part merely ends in the file name is no manifest", () => {
+  expect(manifestsAmong(["akasha/one/my-package.json"], "package.json")).toEqual([])
+})
+
+test("a manifest at the root of the repository is picked out", () => {
+  expect(manifestsAmong(["package.json"], "package.json")).toEqual(["package.json"])
+})
+
 test("each manifest names against the folder it stands in", () => {
   const held = reachingOf(["akasha/one/package.json", "akasha/two/package.json"], BODIES)
   expect(held.get("@akasha/one")).toBe("akasha/one/one.module.code.ts")

@@ -1,5 +1,5 @@
 import { existsSync, readFileSync } from "node:fs"
-import { basename, dirname, join } from "node:path"
+import { dirname, join } from "node:path"
 import type { Naming } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import {
   reachesIn,
@@ -18,16 +18,28 @@ import type { Value } from "akasha/pages/value-reading/page-value-reading.module
 
 const MANIFEST = "manifest"
 
+const SEPARATOR = "/"
+
 const HELD = new Map<string, Naming>()
 
 export type Body = (path: string) => string | null
+
+export function namesFile(path: string, fileName: string): boolean {
+  if (!path.endsWith(fileName)) return false
+  const at = path.length - fileName.length
+  return at === 0 || path[at - 1] === SEPARATOR
+}
 
 export function manifestsAmong(
   paths: Iterable<string>,
   fileName: string | null
 ): readonly string[] {
   if (fileName === null) return []
-  return [...paths].filter((one) => basename(one) === fileName)
+  const said: string[] = []
+  for (const one of paths) {
+    if (namesFile(one, fileName)) said.push(one)
+  }
+  return said
 }
 
 export function bodiesAt(repo: string): Body {
