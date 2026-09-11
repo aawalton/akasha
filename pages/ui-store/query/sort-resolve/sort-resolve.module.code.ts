@@ -24,6 +24,7 @@ import {
   type PageRow,
 } from "akasha/pages/ui-store/collection/page-row/page-row.module.code.ts"
 import { emitStoreDiagnostic } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
+import { instantIn } from "akasha/utils/narrow/instant-in/instant-in.module.code.ts"
 
 const warnedUnacquiredTargets = new Set<string>()
 
@@ -101,15 +102,6 @@ export function classifyKey(
   return { kind: "stored", type: def.type }
 }
 
-export function coerceInstantMs(value: unknown): number | null {
-  if (typeof value === "number") return Number.isNaN(value) ? null : value
-  if (typeof value === "string") {
-    const ms = Date.parse(value)
-    return Number.isNaN(ms) ? null : ms
-  }
-  return null
-}
-
 function promotedValue(row: PageRow, key: string): SortValue {
   if (!isPromotedKey(key)) return null
   const v = asPageRecord(row)[PROMOTED_COLUMN[key]]
@@ -130,7 +122,7 @@ function instantValue(row: PageRow, key: string): SortValue {
   if (!(key in attrs)) return null
   const v = attrs[key]
   if (v === null) return null
-  return coerceInstantMs(v)
+  return instantIn(v)
 }
 
 function relationValue(row: PageRow, key: string, ctx: ViewResolveCtx): SortValue {

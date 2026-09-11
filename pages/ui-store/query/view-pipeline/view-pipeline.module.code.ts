@@ -19,7 +19,6 @@ import {
 } from "akasha/pages/ui-store/query/condition-expr/condition-expr.module.code.ts"
 import {
   classifyKey,
-  coerceInstantMs,
   type KeyInfo,
   makeViewComparator,
   pageDataOf,
@@ -31,6 +30,7 @@ import {
   viewMatchesRow,
 } from "akasha/pages/ui-store/query/view-match/view-match.module.code.ts"
 import type { UseViewQueryOptions } from "akasha/pages/ui-store/sql/options/options.module.code.ts"
+import { instantIn } from "akasha/utils/narrow/instant-in/instant-in.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 
 const LOCAL_VIEW_QUERY_LIMIT = 10_000
@@ -153,7 +153,7 @@ function baseScope(options: UseViewQueryOptions): BoolExpr {
 function instantOverlay(row: PageRow, instantKeys: readonly string[]): ResolvedOverlay {
   const overlay: Record<string, number | null> = {}
   const attrs = attributesOf(row)
-  for (const key of instantKeys) overlay[key] = coerceInstantMs(attrs[key])
+  for (const key of instantKeys) overlay[key] = instantIn(attrs[key])
   return overlay
 }
 
