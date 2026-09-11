@@ -9,5 +9,6 @@ export const changeAgentPageProperty = {
   parts: [
     "change-agent/rename-page-property-property-slug",
     "change-agent/add-page-property-types",
+    "change-agent/add-file-property-extensions",
   ],
 } as const satisfies Domain
