@@ -1,19 +1,36 @@
 import { writeFileSync } from "node:fs"
 import {
   AKASHA,
+  ownRepoRoot,
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { bodyAt } from "akasha/pages/file-body/page-file-body.module.code.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { fail } from "akasha/seat-system/command-failing/command-failing.module.code.ts"
 
 const PAGE_TYPE = "notice"
 
 const TEXT = "text"
 
-const HELP = `compose-notices — render what a seat is told when it is put back to work
+const MODULE = "module"
+
+const OWN = "compose-notices"
+
+const CODE = "code"
+
+const TS = "ts"
+
+function ownPath(): string {
+  const page = listedAt(ownRepoRoot(), MODULE, OWN)[0]
+  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
+  if (at === null) throw new Error(`no \`${MODULE}\` is slugged \`${OWN}\``)
+  return at
+}
+
+function help(): string {
+  return `compose-notices — render what a seat is told when it is put back to work
 
 Every notice page the index files, as a JSON object of notice slug to composed text.
 Callers ask for them by slug, so a page renamed is a notice one of them no longer finds.
@@ -22,19 +39,20 @@ Wrapping is the author's convenience and not part of the text: the lines of a pa
 are joined with a space, and a blank line between paragraphs survives as one.
 
 Usage:
-  bun seat-system/compose-notices/compose-notices.module.code.ts [--out <path>]
+  bun ${ownPath()} [--out <path>]
 
 Flags:
   --out <path>   Write there rather than to stdout.
   --help         This.
 `
+}
 
 function parse(argv: readonly string[]): { readonly out: string | null } {
   let out: string | null = null
   for (let i = 0; i < argv.length; i += 1) {
     const arg = argv[i]
     if (arg === "--help") {
-      process.stdout.write(HELP)
+      process.stdout.write(help())
       process.exit(0)
     }
     if (arg === "--out") {
