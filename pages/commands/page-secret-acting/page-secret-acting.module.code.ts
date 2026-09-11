@@ -5,12 +5,12 @@ import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-cha
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { quoted as listed } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
 import { secretAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { cipherFor, type Secrets } from "akasha/pages/secret/page-secret.module.code.ts"
 import { propertiesOf } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const FILE_PATH = "--file-path"
 
@@ -69,7 +69,9 @@ export function readIn(
       continue
     }
     if (one.startsWith("-")) {
-      refusals.push(`\`${one}\` is no flag this takes — it takes ${listed([...taken, ...flagged])}`)
+      refusals.push(
+        `\`${one}\` is no flag this takes — it takes ${namesDrawn([...taken, ...flagged])}`
+      )
       continue
     }
     refusals.push(`\`${one}\` is said as no flag, and everything this takes is named by one`)
@@ -119,7 +121,7 @@ export function targetIn(root: string, path: string): Target | { readonly refuse
 export function undeclared(key: string, target: Target): string | null {
   if (target.declared.includes(key)) return null
   const named =
-    target.declared.length === 0 ? "declares none" : `declares ${listed(target.declared)}`
+    target.declared.length === 0 ? "declares none" : `declares ${namesDrawn(target.declared)}`
   return `\`${key}\` is no secret of ${target.path}'s page type, which ${named}`
 }
 

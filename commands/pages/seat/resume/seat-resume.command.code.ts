@@ -2,9 +2,9 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   namedIn,
-  quoted,
   ran,
 } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const RESUME = "resume"
 
@@ -33,8 +33,8 @@ function carriedIn(
       continue
     }
     return refused(
-      `\`${word}\` takes ${quoted(taking)} and nothing else, and ` +
-        `${quoted(flags.slice(at, at + 1))} followed it`,
+      `\`${word}\` takes ${namesDrawn(taking)} and nothing else, and ` +
+        `${namesDrawn(flags.slice(at, at + 1))} followed it`,
       1
     )
   }

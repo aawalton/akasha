@@ -10,7 +10,7 @@ import {
 import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { quoted } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const CALENDAR = "--calendar"
 
@@ -160,12 +160,12 @@ function valuing(wanted: Wanted, said: ReadonlyMap<string, string>, refusals: st
   }
   const status = said.get(STATUS)
   if (status !== undefined && !STATUSES.some((one) => one === status)) {
-    refusals.push(`\`${STATUS}\` takes ${quoted(STATUSES)}, and \`${status}\` is none of them`)
+    refusals.push(`\`${STATUS}\` takes ${namesDrawn(STATUSES)}, and \`${status}\` is none of them`)
   }
   const sending = said.get(SENDING)
   if (sending !== undefined && !SEND_UPDATES.some((one) => one === sending)) {
     refusals.push(
-      `\`${SENDING}\` takes ${quoted(SEND_UPDATES)}, and \`${sending}\` is none of them`
+      `\`${SENDING}\` takes ${namesDrawn(SEND_UPDATES)}, and \`${sending}\` is none of them`
     )
   }
   for (const one of wanted.needs) {

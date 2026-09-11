@@ -1,5 +1,4 @@
 import { resolve } from "node:path"
-import { quoted } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
 import {
   type AnalysisInputs,
   type CyclomaticRow,
@@ -11,6 +10,7 @@ import {
   percentile,
   resolveAnalysisInputs,
 } from "akasha/infrastructure/analysis-complexity/complexity-rows/complexity-rows.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const FILE = "--file"
 
@@ -84,8 +84,8 @@ export function readIn(argv: readonly string[], takes: Takes): Read {
     }
     refusals.push(
       one.startsWith("-")
-        ? `\`${one}\` is no flag this takes — it takes ${quoted(flags)}`
-        : `\`${one}\` is no word this takes — it takes ${quoted(flags)}`
+        ? `\`${one}\` is no flag this takes — it takes ${namesDrawn(flags)}`
+        : `\`${one}\` is no word this takes — it takes ${namesDrawn(flags)}`
     )
   }
   if (refusals.length > 0) return { refused: refusals }

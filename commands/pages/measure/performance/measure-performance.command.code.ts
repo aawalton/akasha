@@ -1,9 +1,9 @@
 import { join } from "node:path"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { quoted } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt, slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const PERFORMANCE = "performance"
 
@@ -26,13 +26,13 @@ export function readIn(argv: readonly string[], there: readonly string[]): Read 
   }
   const first = named[0]
   if (first === undefined) {
-    return { refused: [...refusals, `this names no performance — it carries ${quoted(there)}`] }
+    return { refused: [...refusals, `this names no performance — it carries ${namesDrawn(there)}`] }
   }
   for (const one of named.slice(1)) {
     refusals.push(`\`${one}\` follows \`${first}\`, and one call runs one performance`)
   }
   if (!there.includes(first)) {
-    refusals.push(`\`${first}\` is no performance — it carries ${quoted(there)}`)
+    refusals.push(`\`${first}\` is no performance — it carries ${namesDrawn(there)}`)
   }
   return refusals.length > 0 ? { refused: refusals } : { slug: first }
 }

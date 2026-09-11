@@ -4,10 +4,6 @@ import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 
 export type Named = { readonly name: string }
 
-export function quoted(every: readonly string[]): string {
-  return every.map((one) => `\`${one}\``).join(", ")
-}
-
 export function namedIn(word: string, act: string, rest: readonly string[]): Named | Answer {
   const name = rest[0]
   if (name === undefined) {

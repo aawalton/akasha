@@ -2,10 +2,7 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
-import {
-  namedIn,
-  quoted,
-} from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
+import { namedIn } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
 import { told } from "akasha/git/running/git-running.module.code.ts"
 import { valueAt, valueIn } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
@@ -14,6 +11,7 @@ import {
   type Stopped,
   stopping,
 } from "akasha/seat-system/seat-stopping/seat-stopping.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const STOP = "stop"
 
@@ -41,7 +39,7 @@ export async function seatSupervisorStop(argv: readonly string[], given: Given):
   const stray = flags.filter((one) => one !== FORCE)
   if (stray.length > 0) {
     return refused(
-      `\`${given.calledAs}\` takes \`${FORCE}\` and nothing else, and ${quoted(stray)} followed it`,
+      `\`${given.calledAs}\` takes \`${FORCE}\` and nothing else, and ${namesDrawn(stray)} followed it`,
       1
     )
   }
