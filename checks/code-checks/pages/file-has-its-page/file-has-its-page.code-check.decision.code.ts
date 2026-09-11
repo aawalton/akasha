@@ -6,6 +6,10 @@ import {
   secretNamed,
   uncommittedNamed,
 } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import {
+  extensionsFor,
+  heldNamed,
+} from "akasha/pages/indexes/extension-carrying/extension-carrying.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
 const TS = ".ts"
@@ -32,7 +36,14 @@ export function claimingIn(shadow: Shadow): Claiming {
     held.set(folder, made)
     return made
   }
-  return (path) => filed(reservedBeside(path) ?? path) || inside(folderOf(path))
+  const named = (path: string): boolean =>
+    heldNamed(
+      path,
+      extensionsFor(shadow.index),
+      () => true,
+      (one) => shadow.index.carryingOf(one)
+    )
+  return (path) => filed(reservedBeside(path) ?? path) || inside(folderOf(path)) || named(path)
 }
 
 export function unclaimedAt(path: string, claimed: Claiming): readonly string[] {

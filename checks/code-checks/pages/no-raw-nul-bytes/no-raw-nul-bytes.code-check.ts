@@ -64,6 +64,23 @@ export const noRawNulBytes = {
     },
     {
       invariantKind: "departure",
+      statement: "A body an extension property declares as bytes is let through.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That extension is read from the name the property states.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file closing that way is let through only where a page with the property sits in its folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file closing that way in a folder beneath that page is judged.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file with more than one NUL is reported at the first.",
     },
     {

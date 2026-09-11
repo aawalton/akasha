@@ -64,6 +64,16 @@ export const fileHasItsPage = {
       invariantKind: "departure",
       statement: "A file inside a folder a page claims is claimed by that page.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file beside a page closing with an extension that page's type names is claimed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file closing that way in a folder beneath that page is claimed by nothing here.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },

@@ -1,5 +1,9 @@
 import type { Body } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import {
+  extensionsFor,
+  heldNamed,
+} from "akasha/pages/indexes/extension-carrying/extension-carrying.module.code.ts"
+import {
   type Carried,
   foldersFor,
   heldBeside,
@@ -71,7 +75,8 @@ export function exemptIn(path: string, shadow: Shadow): boolean {
   if (sectionHeld(path, bytesHeld(shadow))) return true
   const carrying = (named: string): Carried => shadow.index.carryingOf(named)
   if (heldBeside(path, namingFor(shadow.index), holdingBytes, carrying)) return true
-  return heldUnder(path, foldersFor(shadow.index), holdingBytes, carrying)
+  if (heldUnder(path, foldersFor(shadow.index), holdingBytes, carrying)) return true
+  return heldNamed(path, extensionsFor(shadow.index), holdingBytes, carrying)
 }
 
 export function judgedIn(given: Body, shadow: Shadow): readonly string[] {

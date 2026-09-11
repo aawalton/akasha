@@ -2,6 +2,10 @@ import { textNamed } from "akasha/checks/modules/change-walking/change-walking.m
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
 import { partedIn, sectionedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
+  extensionsFor,
+  heldNamed,
+} from "akasha/pages/indexes/extension-carrying/extension-carrying.module.code.ts"
+import {
   type Carried,
   foldersFor,
   heldBeside,
@@ -68,7 +72,8 @@ export function exemptIn(path: string, shadow: Shadow): boolean {
   if (sectionOff(path, shadow)) return true
   const carrying = (named: string): Carried => shadow.index.carryingOf(named)
   if (heldBeside(path, namingFor(shadow.index), heldOff, carrying)) return true
-  return heldUnder(path, foldersFor(shadow.index), heldOff, carrying)
+  if (heldUnder(path, foldersFor(shadow.index), heldOff, carrying)) return true
+  return heldNamed(path, extensionsFor(shadow.index), heldOff, carrying)
 }
 
 function ceilingFor(path: string): number {
