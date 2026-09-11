@@ -1,8 +1,8 @@
-import type { TTCPriceEntry } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
 import {
   BUDGET_STRATEGY,
   type ItemBudget,
-} from "../ttc-shopping-types/ttc-shopping-types.module.code.ts"
+} from "akasha/temper/shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
+import type { TTCPriceEntry } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
 
 function selectBudgetStrategy(priceData: TTCPriceEntry | undefined): keyof typeof BUDGET_STRATEGY {
   if (!priceData) return "Normal"

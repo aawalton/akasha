@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const ttcBudgetStrategy = {
   id: "01a060cf-b0af-7945-b272-f1393abf11ca",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const ttcShoppingOptimizer = {
   id: "01a060cf-b0b0-7518-a8fe-69b071ba12a7",
