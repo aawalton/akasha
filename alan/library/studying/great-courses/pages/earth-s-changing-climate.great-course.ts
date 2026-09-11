@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const earthSChangingClimate = {
   id: "019db533-f39e-7cf9-854e-955dbd07107a",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "earth-s-changing-climate",
   title: "Earth's Changing Climate",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const jesusAndHisJewishInfluences = {
   id: "019db533-f39e-7a14-9f7e-ad4747b9b2aa",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "jesus-and-his-jewish-influences",
   title: "Jesus and His Jewish Influences",

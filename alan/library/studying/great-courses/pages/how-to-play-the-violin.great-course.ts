@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const howToPlayTheViolin = {
   id: "019db533-f3a0-7399-ab8f-ff39610e8cff",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "how-to-play-the-violin",
   title: "How to Play the Violin",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const learningJavaProgramming = {
   id: "019db533-f39e-72b0-b9f1-d46d93939b61",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "learning-java-programming",
   title: "Learning Java Programming",

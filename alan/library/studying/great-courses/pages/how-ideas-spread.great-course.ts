@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const howIdeasSpread = {
   id: "019db533-f39e-74ca-94d0-60f3fe6af9d4",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "how-ideas-spread",
   title: "How Ideas Spread",

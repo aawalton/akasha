@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const hannibalTheMilitaryGeniusWhoAlmostConqueredRome = {
   id: "019db533-f39f-7e82-afae-3e544484554c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "hannibal-the-military-genius-who-almost-conquered-rome",
   title: "Hannibal: The Military Genius Who Almost Conquered Rome",

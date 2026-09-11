@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const booksThatMatterTheFederalistPapers = {
   id: "019db533-f3a0-71a6-9cd5-a22e459c5b3c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "books-that-matter-the-federalist-papers",
   title: "Books That Matter: The Federalist Papers",

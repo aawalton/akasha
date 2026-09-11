@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const gutHealthExplained = {
   id: "019db533-f3a0-7924-bdb1-f7e088d8d6ff",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "gut-health-explained",
   title: "Gut Health Explained",

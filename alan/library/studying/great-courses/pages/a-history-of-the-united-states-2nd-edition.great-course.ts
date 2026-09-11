@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const aHistoryOfTheUnitedStates2ndEdition = {
   id: "019db533-f3a0-71e9-bb3f-f3cfc8797f8d",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "a-history-of-the-united-states-2nd-edition",
   title: "A History of the United States, 2nd Edition",

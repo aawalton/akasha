@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const blackHolesExplained = {
   id: "019db533-f39f-7332-a5a8-086a1aafc356",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "black-holes-explained",
   title: "Black Holes Explained",

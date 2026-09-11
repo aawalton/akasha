@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const foundationsOfWesternCivilizationIiAHistoryOfTheModernWestern = {
   id: "019db533-f39f-78c8-afc1-5c539e0ecd54",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "foundations-of-western-civilization-ii-a-history-of-the-modern-western",
   title: "Foundations of Western Civilization II: A History of the Modern Western World",

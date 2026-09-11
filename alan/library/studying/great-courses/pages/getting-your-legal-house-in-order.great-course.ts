@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const gettingYourLegalHouseInOrder = {
   id: "019db533-f39e-76da-b1d0-37c0c7f6b5bc",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "getting-your-legal-house-in-order",
   title: "Getting Your Legal House in Order",

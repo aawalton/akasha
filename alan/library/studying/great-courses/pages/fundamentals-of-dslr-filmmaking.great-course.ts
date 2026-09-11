@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const fundamentalsOfDslrFilmmaking = {
   id: "019db533-f39e-7322-b887-9a8be637a6ee",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "fundamentals-of-dslr-filmmaking",
   title: "Fundamentals of DSLR Filmmaking",

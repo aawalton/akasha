@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const howToPlayChessLessonsFromAnInternationalMaster = {
   id: "019db533-f39e-74e1-81ae-14514a792df4",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "how-to-play-chess-lessons-from-an-international-master",
   title: "How to Play Chess: Lessons from an International Master",

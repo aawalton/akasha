@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const essentialSeedBeadTechniques = {
   id: "019db533-f39f-7a33-8594-188211404bf0",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "essential-seed-bead-techniques",
   title: "Essential Seed Bead Techniques",

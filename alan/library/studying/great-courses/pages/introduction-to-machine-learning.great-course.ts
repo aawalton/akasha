@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const introductionToMachineLearning = {
   id: "019db533-f39f-72b3-9d23-f53c876fee01",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "introduction-to-machine-learning",
   title: "Introduction to Machine Learning",

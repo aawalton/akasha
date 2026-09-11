@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greatBoardGamesOfTheAncientWorld = {
   id: "019db533-f3a0-7487-bdd3-584c5e43448a",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "great-board-games-of-the-ancient-world",
   title: "Great Board Games of the Ancient World",

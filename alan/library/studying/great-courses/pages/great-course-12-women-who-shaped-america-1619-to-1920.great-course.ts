@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greatCourse12WomenWhoShapedAmerica1619To1920 = {
   id: "019db533-f3a0-71e4-9349-1a7d4bfb57b7",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "great-course-12-women-who-shaped-america-1619-to-1920",
   title: "12 Women Who Shaped America: 1619 to 1920",

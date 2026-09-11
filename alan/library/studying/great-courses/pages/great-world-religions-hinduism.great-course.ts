@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greatWorldReligionsHinduism = {
   id: "019db533-f39e-7d3a-86da-b0dc3c8ba0bc",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "great-world-religions-hinduism",
   title: "Great World Religions: Hinduism",

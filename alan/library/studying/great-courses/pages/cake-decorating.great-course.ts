@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const cakeDecorating = {
   id: "019db533-f39f-7abe-ad2b-3114d270e34f",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "cake-decorating",
   title: "Cake Decorating",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const howTheCrusadesChangedHistory = {
   id: "019db533-f39f-7f4a-a1be-47f3642c49c9",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "how-the-crusades-changed-history",
   title: "How the Crusades Changed History",

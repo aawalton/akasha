@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const advancedInvestments = {
   id: "019db533-f39e-7507-9d51-dbdc070cd64a",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "advanced-investments",
   title: "Advanced Investments",

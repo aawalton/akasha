@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const englishGrammarBootCamp = {
   id: "019db533-f39e-7765-a92b-ace7a7c97a99",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "english-grammar-boot-camp",
   title: "English Grammar Boot Camp",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const effectiveCommunicationSkills = {
   id: "019db533-f39e-78e5-a6d0-9d37c2f92ef9",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "effective-communication-skills",
   title: "Effective Communication Skills",

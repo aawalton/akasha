@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const howToListenToAndUnderstandGreatMusic3rdEdition = {
   id: "019db533-f3a0-7440-8a68-b677fa79c605",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "how-to-listen-to-and-understand-great-music-3rd-edition",
   title: "How to Listen to and Understand Great Music, 3rd Edition",

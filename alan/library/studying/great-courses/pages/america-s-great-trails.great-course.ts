@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const americaSGreatTrails = {
   id: "019db533-f39f-76c1-8c62-df2a0cafbb9f",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "america-s-great-trails",
   title: "America’s Great Trails",

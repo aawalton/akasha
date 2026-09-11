@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const lostWorldsOfSouthAmerica = {
   id: "019db533-f39f-7d25-a488-2ac80a066c04",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "lost-worlds-of-south-america",
   title: "Lost Worlds of South America",

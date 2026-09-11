@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greekTragedy = {
   id: "019db533-f39e-7912-bd35-17806a00eefe",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "greek-tragedy",
   title: "Greek Tragedy",

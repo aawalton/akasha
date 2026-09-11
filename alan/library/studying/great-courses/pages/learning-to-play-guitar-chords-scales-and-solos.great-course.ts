@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const learningToPlayGuitarChordsScalesAndSolos = {
   id: "019db533-f3a0-72f7-92f7-10fc8b9a90d3",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "learning-to-play-guitar-chords-scales-and-solos",
   title: "Learning to Play Guitar: Chords, Scales, and Solos",

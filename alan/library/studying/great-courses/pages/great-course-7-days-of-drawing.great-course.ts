@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greatCourse7DaysOfDrawing = {
   id: "019db533-f39f-7807-962a-19b34b4a4402",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "great-course-7-days-of-drawing",
   title: "7 Days of Drawing",

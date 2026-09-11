@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const forgottenAmericaRediscoveringEventsThatChangedTheNation = {
   id: "019db533-f39f-7ecc-b064-0b627ba2710a",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "forgotten-america-rediscovering-events-that-changed-the-nation",
   title: "Forgotten America: Rediscovering Events That Changed the Nation",

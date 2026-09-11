@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const everydayUrbanSketching = {
   id: "019db533-f39e-757c-b74e-2aa3e63b0642",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "everyday-urban-sketching",
   title: "Everyday Urban Sketching",

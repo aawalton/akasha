@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const extremeOffendersPsychologicalInsights = {
   id: "019db533-f39f-72f2-abc5-b60249916918",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "extreme-offenders-psychological-insights",
   title: "Extreme Offenders: Psychological Insights",

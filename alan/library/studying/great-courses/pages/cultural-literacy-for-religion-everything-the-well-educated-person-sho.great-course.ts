@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const culturalLiteracyForReligionEverythingTheWellEducatedPersonSho = {
   id: "019db533-f39e-7cbe-a825-f1df277cc5a8",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "cultural-literacy-for-religion-everything-the-well-educated-person-sho",
   title: "Cultural Literacy for Religion: Everything the Well-Educated Person Should Know",

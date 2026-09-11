@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const consciousnessAndItsImplications = {
   id: "019db533-f388-700a-a301-be7427dfa9b4",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "consciousness-and-its-implications",
   title: "Consciousness and Its Implications",

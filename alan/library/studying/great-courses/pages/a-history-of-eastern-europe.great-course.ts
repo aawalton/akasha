@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const aHistoryOfEasternEurope = {
   id: "019db533-f39f-7ade-a1fb-d3818350d039",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "a-history-of-eastern-europe",
   title: "A History of Eastern Europe",

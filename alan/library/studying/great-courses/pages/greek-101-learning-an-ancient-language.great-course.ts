@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greek101LearningAnAncientLanguage = {
   id: "019db533-f39f-7e58-be3e-9375920dcc65",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "greek-101-learning-an-ancient-language",
   title: "Greek 101: Learning an Ancient Language",

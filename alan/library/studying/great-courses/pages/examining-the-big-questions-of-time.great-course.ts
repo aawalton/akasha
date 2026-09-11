@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const examiningTheBigQuestionsOfTime = {
   id: "019db533-f39e-7cce-816a-eac85c693998",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "examining-the-big-questions-of-time",
   title: "Examining the Big Questions of Time",

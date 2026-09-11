@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const romans6 = {
   id: "01a06804-11b1-7030-8734-c330ad552c0e",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "romans-6",
   title: "Romans 6",

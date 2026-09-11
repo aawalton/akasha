@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const howToPaint = {
   id: "019db533-f39f-760a-9c4e-c0c5006665d3",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "how-to-paint",
   title: "How to Paint",

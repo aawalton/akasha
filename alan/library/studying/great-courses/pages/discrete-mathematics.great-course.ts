@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const discreteMathematics = {
   id: "019db533-f3a0-7554-8537-433732f12e3b",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "discrete-mathematics",
   title: "Discrete Mathematics",

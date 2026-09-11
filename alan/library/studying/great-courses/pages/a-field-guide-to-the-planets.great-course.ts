@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const aFieldGuideToThePlanets = {
   id: "019db533-f39f-73d0-a200-bfee62ffc8e4",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "a-field-guide-to-the-planets",
   title: "A Field Guide to the Planets",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const americanIdealsFoundingARepublicOfVirtue = {
   id: "019db533-f3a0-7192-a12c-5069d7c3e0b6",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "american-ideals-founding-a-republic-of-virtue",
   title: 'American Ideals: Founding a "Republic of Virtue"',

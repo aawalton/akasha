@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const handheldRouterTechniquesAndTips = {
   id: "019db533-f39e-7727-a7f3-1397e0367ee2",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "handheld-router-techniques-and-tips",
   title: "Handheld Router Techniques and Tips",

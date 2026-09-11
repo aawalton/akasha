@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const classicsOfRussianLiterature = {
   id: "019db533-f39f-7f6d-9f83-eae174b70082",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "classics-of-russian-literature",
   title: "Classics of Russian Literature",

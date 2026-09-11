@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greatWorldReligionsIslam = {
   id: "019db533-f39e-7d2b-8716-8ec902b253f4",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "great-world-religions-islam",
   title: "Great World Religions: Islam",

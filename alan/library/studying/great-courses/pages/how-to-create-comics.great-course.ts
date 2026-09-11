@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const howToCreateComics = {
   id: "019db533-f39e-7708-953a-db8ea0dc09a2",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "how-to-create-comics",
   title: "How to Create Comics",

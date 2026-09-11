@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const americaSBestStateParksForSummerFun = {
   id: "019db533-f39f-76d6-bf9e-e3b48ac3c330",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "america-s-best-state-parks-for-summer-fun",
   title: "America’s Best State Parks for Summer Fun",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const livingTheFrenchRevolutionAndTheAgeOfNapoleon = {
   id: "019db533-f39f-7d4f-a26c-bdded6d85cf9",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "living-the-french-revolution-and-the-age-of-napoleon",
   title: "Living the French Revolution and the Age of Napoleon",

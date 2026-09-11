@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const classicPiesMadeEasy = {
   id: "019db533-f38a-7564-bf26-46316ee43ab5",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "classic-pies-made-easy",
   title: "Classic Pies Made Easy",

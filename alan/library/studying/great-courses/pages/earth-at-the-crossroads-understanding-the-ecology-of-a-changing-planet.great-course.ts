@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const earthAtTheCrossroadsUnderstandingTheEcologyOfAChangingPlanet = {
   id: "019db533-f39f-7386-9416-64dfa66e5881",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "earth-at-the-crossroads-understanding-the-ecology-of-a-changing-planet",
   title: "Earth at the Crossroads: Understanding the Ecology of a Changing Planet",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const humanPrehistoryAndTheFirstCivilizations = {
   id: "019db533-f39e-7ec4-b716-15711fb458c2",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "human-prehistory-and-the-first-civilizations",
   title: "Human Prehistory and the First Civilizations",

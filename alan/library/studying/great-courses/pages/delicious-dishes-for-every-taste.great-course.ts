@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const deliciousDishesForEveryTaste = {
   id: "019db533-f39f-79fe-9734-1d1fd8370315",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "delicious-dishes-for-every-taste",
   title: "Delicious Dishes for Every Taste",

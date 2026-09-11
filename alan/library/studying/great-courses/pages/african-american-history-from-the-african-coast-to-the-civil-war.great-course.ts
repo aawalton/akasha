@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const africanAmericanHistoryFromTheAfricanCoastToTheCivilWar = {
   id: "019db533-f39f-7aa8-9dcc-6cc1e14240be",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "african-american-history-from-the-african-coast-to-the-civil-war",
   title: "African American History: From the African Coast to the Civil War",

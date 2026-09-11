@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const foundationsOfEasternCivilization = {
   id: "019db533-f3a0-718e-8ced-5bfa81b020cf",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "foundations-of-eastern-civilization",
   title: "Foundations of Eastern Civilization",

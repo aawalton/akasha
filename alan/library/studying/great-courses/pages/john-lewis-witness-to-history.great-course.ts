@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const johnLewisWitnessToHistory = {
   id: "019db533-f3a0-70ea-b306-6ff7bf727d4d",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "john-lewis-witness-to-history",
   title: "John Lewis: Witness to History",

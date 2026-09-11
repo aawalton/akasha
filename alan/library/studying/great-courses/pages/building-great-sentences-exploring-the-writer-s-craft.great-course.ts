@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const buildingGreatSentencesExploringTheWriterSCraft = {
   id: "019db533-f39e-79b4-86ed-fe3cbaaf0d82",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "building-great-sentences-exploring-the-writer-s-craft",
   title: "Building Great Sentences: Exploring the Writer's Craft",

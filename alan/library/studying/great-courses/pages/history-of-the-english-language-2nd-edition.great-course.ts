@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const historyOfTheEnglishLanguage2ndEdition = {
   id: "019db533-f39f-7676-9a72-272dc66706c7",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "history-of-the-english-language-2nd-edition",
   title: "History of the English Language, 2nd Edition",

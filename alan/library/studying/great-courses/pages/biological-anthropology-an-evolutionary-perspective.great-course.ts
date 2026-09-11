@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const biologicalAnthropologyAnEvolutionaryPerspective = {
   id: "019db533-f39e-7d0e-967f-38964db5e266",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "biological-anthropology-an-evolutionary-perspective",
   title: "Biological Anthropology: An Evolutionary Perspective",

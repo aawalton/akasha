@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const aBriefHistoryOfTheWorld = {
   id: "019db533-f3a0-7226-9c31-eb82b708497b",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "a-brief-history-of-the-world",
   title: "A Brief History of the World",

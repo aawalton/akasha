@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const joyceSUlysses = {
   id: "019db533-f387-7fcf-aaa1-8b6b0c8e6000",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "joyce-s-ulysses",
   title: "Joyce's “Ulysses”",

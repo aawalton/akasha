@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const historySGreatestVoyagesOfExploration = {
   id: "019db533-f3a0-73a8-b072-9bfc942a0a19",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "history-s-greatest-voyages-of-exploration",
   title: "History's Greatest Voyages of Exploration",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const leonardoDaVinciAndTheItalianHighRenaissance = {
   id: "019db533-f39f-75d6-9c33-72a3ed49478a",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "leonardo-da-vinci-and-the-italian-high-renaissance",
   title: "Leonardo da Vinci and the Italian High Renaissance",

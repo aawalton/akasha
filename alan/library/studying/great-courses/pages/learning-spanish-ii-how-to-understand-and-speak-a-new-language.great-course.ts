@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const learningSpanishIiHowToUnderstandAndSpeakANewLanguage = {
   id: "019db533-f39f-75cb-a462-f1c8d19bde47",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "learning-spanish-ii-how-to-understand-and-speak-a-new-language",
   title: "Learning Spanish II: How to Understand and Speak a New Language",

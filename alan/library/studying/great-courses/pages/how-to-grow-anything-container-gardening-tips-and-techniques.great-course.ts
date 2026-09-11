@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const howToGrowAnythingContainerGardeningTipsAndTechniques = {
   id: "019db533-f39e-74da-8429-8aca9b66c320",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "how-to-grow-anything-container-gardening-tips-and-techniques",
   title: "How to Grow Anything: Container Gardening Tips & Techniques",

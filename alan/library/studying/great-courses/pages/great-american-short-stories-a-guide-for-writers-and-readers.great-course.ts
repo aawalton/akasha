@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greatAmericanShortStoriesAGuideForWritersAndReaders = {
   id: "019db533-f39e-78de-b9ed-ec4dc0498762",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "great-american-short-stories-a-guide-for-writers-and-readers",
   title: "Great American Short Stories: A Guide for Writers and Readers",

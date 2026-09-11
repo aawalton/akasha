@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const historyOfAncientEgypt = {
   id: "019db533-f3a0-715d-950c-30946de5a067",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "history-of-ancient-egypt",
   title: "History of Ancient Egypt",

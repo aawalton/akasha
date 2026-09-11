@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const askTheExpert = {
   id: "019db533-f39f-737c-a7a8-45055b15e9ae",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "ask-the-expert",
   title: "Ask the Expert",

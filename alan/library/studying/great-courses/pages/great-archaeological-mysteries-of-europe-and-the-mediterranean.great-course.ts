@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greatArchaeologicalMysteriesOfEuropeAndTheMediterranean = {
   id: "019db533-f398-7368-ae99-a928b6365638",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "great-archaeological-mysteries-of-europe-and-the-mediterranean",
   title: "Great Archaeological Mysteries of Europe and the Mediterranean",

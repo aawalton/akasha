@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const booksThatMatterTheAnalectsOfConfucius = {
   id: "019db533-f39e-7c97-9e13-f3fccf3179a2",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "books-that-matter-the-analects-of-confucius",
   title: "Books That Matter: The Analects of Confucius",

@@ -2,7 +2,6 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const songOfSolomon6 = {
   id: "01a06804-11b1-70c7-98ed-20006f7bb4c5",
-  pageTypeSlug: "scripture-passage",
   type: "scripture-passage",
   slug: "song-of-solomon-6",
   title: "Song of Solomon 6",

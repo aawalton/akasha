@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const civilLibertiesAndTheBillOfRights = {
   id: "01a06578-6717-7002-95d0-d54d3f0aacae",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "civil-liberties-and-the-bill-of-rights",
   title: "Civil Liberties and the Bill of Rights",

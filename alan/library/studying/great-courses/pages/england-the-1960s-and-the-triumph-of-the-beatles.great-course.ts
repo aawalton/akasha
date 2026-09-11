@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const englandThe1960sAndTheTriumphOfTheBeatles = {
   id: "019db533-f3a0-74b9-8e03-a38dc656c311",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "england-the-1960s-and-the-triumph-of-the-beatles",
   title: "England, the 1960s, and the Triumph of the Beatles",

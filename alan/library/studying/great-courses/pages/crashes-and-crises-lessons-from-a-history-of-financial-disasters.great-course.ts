@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const crashesAndCrisesLessonsFromAHistoryOfFinancialDisasters = {
   id: "019db533-f39e-74f9-8298-321e43a2c5b5",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "crashes-and-crises-lessons-from-a-history-of-financial-disasters",
   title: "Crashes and Crises: Lessons from a History of Financial Disasters",

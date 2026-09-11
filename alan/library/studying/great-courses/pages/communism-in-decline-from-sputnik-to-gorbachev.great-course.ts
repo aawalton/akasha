@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const communismInDeclineFromSputnikToGorbachev = {
   id: "019db533-f3a0-71b4-84e9-284f28fe0a5d",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "communism-in-decline-from-sputnik-to-gorbachev",
   title: "Communism in Decline: From Sputnik to Gorbachev",

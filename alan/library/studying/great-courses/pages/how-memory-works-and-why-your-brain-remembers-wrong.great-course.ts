@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const howMemoryWorksAndWhyYourBrainRemembersWrong = {
   id: "019db533-f39f-72e8-a344-0011a8b61e1e",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "how-memory-works-and-why-your-brain-remembers-wrong",
   title: "How Memory Works and Why Your Brain Remembers Wrong",

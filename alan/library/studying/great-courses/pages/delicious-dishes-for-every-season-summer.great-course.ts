@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const deliciousDishesForEverySeasonSummer = {
   id: "019db533-f39f-7a08-ad16-bf14fa620328",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "delicious-dishes-for-every-season-summer",
   title: "Delicious Dishes for Every Season: Summer",

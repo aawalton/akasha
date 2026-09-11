@@ -2,7 +2,6 @@ import type { GreatCoursesSubject } from "akasha/alan/library/studying/great-cou
 
 export const businessAndFinanceGreatCourses = {
   id: "019db533-f3a0-78e5-99ec-525da754f01a",
-  pageTypeSlug: "great-courses-subject",
   type: "great-courses-subject",
   slug: "business-and-finance-great-courses",
   title: "Business & Finance Great Courses",

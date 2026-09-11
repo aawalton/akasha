@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greatCourse40TechniquesEverySewerShouldKnow = {
   id: "019db533-f39e-7794-8e00-c3baf3824ade",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "great-course-40-techniques-every-sewer-should-know",
   title: "40 Techniques Every Sewer Should Know",

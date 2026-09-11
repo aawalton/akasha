@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const historyOfRussiaFromPeterTheGreatToGorbachev = {
   id: "019db533-f39f-7852-bdc3-f100a9a3060f",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "history-of-russia-from-peter-the-great-to-gorbachev",
   title: "History of Russia: From Peter the Great to Gorbachev",

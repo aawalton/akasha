@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const internationalEconomicInstitutionsGlobalismVsNationalism = {
   id: "019db533-f39e-746c-9c98-322eb599c841",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "international-economic-institutions-globalism-vs-nationalism",
   title: "International Economic Institutions: Globalism vs. Nationalism",

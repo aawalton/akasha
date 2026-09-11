@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const americaInTheGildedAgeAndProgressiveEra = {
   id: "019db533-f3a0-7048-b2f5-a28d991bc8cc",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "america-in-the-gilded-age-and-progressive-era",
   title: "America in the Gilded Age and Progressive Era",

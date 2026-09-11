@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greatAncientCivilizationsOfAsiaMinor = {
   id: "019db533-f39f-7e38-bd4d-b669c4f3bb90",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "great-ancient-civilizations-of-asia-minor",
   title: "Great Ancient Civilizations of Asia Minor",

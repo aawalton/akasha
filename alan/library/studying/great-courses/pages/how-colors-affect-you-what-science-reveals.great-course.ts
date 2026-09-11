@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const howColorsAffectYouWhatScienceReveals = {
   id: "019db533-f39f-766a-a4ab-53c4e688de50",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "how-colors-affect-you-what-science-reveals",
   title: "How Colors Affect You: What Science Reveals",

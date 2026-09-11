@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const learningMedicalTerminology = {
   id: "019db533-f388-704f-b81b-d9266fd58536",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "learning-medical-terminology",
   title: "Learning Medical Terminology",

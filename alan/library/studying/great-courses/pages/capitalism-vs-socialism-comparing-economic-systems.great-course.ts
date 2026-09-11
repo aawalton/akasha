@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const capitalismVsSocialismComparingEconomicSystems = {
   id: "019db533-f39e-7483-b0f2-3b2ff0057905",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "capitalism-vs-socialism-comparing-economic-systems",
   title: "Capitalism vs. Socialism: Comparing Economic Systems",

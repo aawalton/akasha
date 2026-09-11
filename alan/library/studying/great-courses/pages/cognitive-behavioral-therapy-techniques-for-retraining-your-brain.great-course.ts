@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const cognitiveBehavioralTherapyTechniquesForRetrainingYourBrain = {
   id: "019db533-f3a0-78da-98ac-5b95f297cc3c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "cognitive-behavioral-therapy-techniques-for-retraining-your-brain",
   title: "Cognitive Behavioral Therapy: Techniques for Retraining Your Brain",

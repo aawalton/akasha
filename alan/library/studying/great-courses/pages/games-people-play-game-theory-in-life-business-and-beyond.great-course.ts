@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const gamesPeoplePlayGameTheoryInLifeBusinessAndBeyond = {
   id: "019db533-f3a0-74df-a8ac-ea431e9b9699",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "games-people-play-game-theory-in-life-business-and-beyond",
   title: "Games People Play: Game Theory in Life, Business, and Beyond",

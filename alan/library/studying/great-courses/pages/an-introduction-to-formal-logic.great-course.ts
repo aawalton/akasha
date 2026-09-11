@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const anIntroductionToFormalLogic = {
   id: "019db533-f3a0-79e3-b9bc-f0f2e2a6a5cf",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "an-introduction-to-formal-logic",
   title: "An Introduction to Formal Logic",

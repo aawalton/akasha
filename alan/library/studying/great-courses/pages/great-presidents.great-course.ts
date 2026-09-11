@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greatPresidents = {
   id: "019db533-f3a0-7357-b2e5-de642c8382b2",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "great-presidents",
   title: "Great Presidents",

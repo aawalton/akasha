@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const forensicHistoryCrimesFraudsAndScandals = {
   id: "019db533-f3a0-74d3-a6ae-2873a93f6d77",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "forensic-history-crimes-frauds-and-scandals",
   title: "Forensic History: Crimes, Frauds, and Scandals",

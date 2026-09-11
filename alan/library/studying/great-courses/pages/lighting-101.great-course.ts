@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const lighting101 = {
   id: "019db533-f39e-72c0-8deb-c4652ea69124",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "lighting-101",
   title: "Lighting 101",

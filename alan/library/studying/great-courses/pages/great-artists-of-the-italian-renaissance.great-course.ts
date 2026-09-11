@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greatArtistsOfTheItalianRenaissance = {
   id: "019db533-f39f-76ec-bab0-614a1a59d973",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "great-artists-of-the-italian-renaissance",
   title: "Great Artists of the Italian Renaissance",

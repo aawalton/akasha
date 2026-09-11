@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const existentialismAndTheAuthenticLife = {
   id: "019db533-f39e-7b10-849b-44c9c68fffe5",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "existentialism-and-the-authentic-life",
   title: "Existentialism and the Authentic Life",

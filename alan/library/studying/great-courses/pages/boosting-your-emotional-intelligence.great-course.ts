@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const boostingYourEmotionalIntelligence = {
   id: "019db533-f39e-7ca6-a290-e437387c6f9c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "boosting-your-emotional-intelligence",
   title: "Boosting Your Emotional Intelligence",

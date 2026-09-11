@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const before1776LifeInTheAmericanColonies = {
   id: "01a06578-6717-7001-9a27-a1b115d6012e",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "before-1776-life-in-the-american-colonies",
   title: "Before 1776: Life in the American Colonies",

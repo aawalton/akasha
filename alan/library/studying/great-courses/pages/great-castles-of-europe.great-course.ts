@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greatCastlesOfEurope = {
   id: "019db533-f3a0-716c-83cc-bf0aad693508",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "great-castles-of-europe",
   title: "Great Castles of Europe",

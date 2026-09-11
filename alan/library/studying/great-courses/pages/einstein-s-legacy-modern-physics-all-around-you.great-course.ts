@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const einsteinSLegacyModernPhysicsAllAroundYou = {
   id: "019db533-f39f-727e-abc1-b7411e1e13c7",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "einstein-s-legacy-modern-physics-all-around-you",
   title: "Einstein’s Legacy: Modern Physics All around You",

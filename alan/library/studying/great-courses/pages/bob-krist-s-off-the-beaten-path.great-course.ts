@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const bobKristSOffTheBeatenPath = {
   id: "019db533-f39f-76b6-bf59-aa3f0387dd03",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "bob-krist-s-off-the-beaten-path",
   title: "Bob Krist’s Off the Beaten Path",

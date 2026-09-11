@@ -2,7 +2,6 @@ import type { GreatCoursesSubject } from "akasha/alan/library/studying/great-cou
 
 export const healthAndMindfulnessGreatCourses = {
   id: "019db533-f3a0-7983-be9f-bb90d7e9b418",
-  pageTypeSlug: "great-courses-subject",
   type: "great-courses-subject",
   slug: "health-and-mindfulness-great-courses",
   title: "Health & Mindfulness Great Courses",

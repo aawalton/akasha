@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const beginningsOfJudaism = {
   id: "019db533-f39e-7d4e-8efc-2dcee2cd9fb3",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "beginnings-of-judaism",
   title: "Beginnings of Judaism",

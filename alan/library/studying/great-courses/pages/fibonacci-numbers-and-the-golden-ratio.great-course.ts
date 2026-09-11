@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const fibonacciNumbersAndTheGoldenRatio = {
   id: "019db533-f3a0-754a-b9ea-48824b66f934",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "fibonacci-numbers-and-the-golden-ratio",
   title: "Fibonacci Numbers and the Golden Ratio",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const howToPlayPiano = {
   id: "019db533-f3a0-73a0-9f3a-f6ccce473e5a",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "how-to-play-piano",
   title: "How to Play Piano",

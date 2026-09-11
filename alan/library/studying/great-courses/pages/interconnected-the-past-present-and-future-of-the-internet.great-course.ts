@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const interconnectedThePastPresentAndFutureOfTheInternet = {
   id: "019db533-f39f-7269-99b4-5c41f62f524b",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "interconnected-the-past-present-and-future-of-the-internet",
   title: "Interconnected: The Past, Present, and Future of the Internet",

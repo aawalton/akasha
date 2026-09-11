@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const gameOfTheCenturyHowBaseballSAllStarGameBegan = {
   id: "019db533-f3a0-7493-94d0-c3b5fee67336",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "game-of-the-century-how-baseball-s-all-star-game-began",
   title: "Game of the Century: How Baseball's All-Star Game Began",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const biologyTheScienceOfLife = {
   id: "019db533-f39f-72dd-a003-cbd2d837116b",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "biology-the-science-of-life",
   title: "Biology: The Science of Life",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greatMastersMozartHisLifeAndMusic = {
   id: "019db533-f3a0-7391-ae85-0a82d1eeb925",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "great-masters-mozart-his-life-and-music",
   title: "Great Masters: Mozart—His Life and Music",

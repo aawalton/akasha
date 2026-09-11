@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const bannedBooksBurnedBooksForbiddenLiteraryWorks = {
   id: "019db533-f39e-79fc-ad7f-fda55273facf",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "banned-books-burned-books-forbidden-literary-works",
   title: "Banned Books, Burned Books: Forbidden Literary Works",

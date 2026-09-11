@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const irestIntegrativeRestorationYogaNidraForDeepRelaxation = {
   id: "019db533-f3a0-7a58-8687-535ef41378ae",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "irest-integrative-restoration-yoga-nidra-for-deep-relaxation",
   title: "iRest: Integrative Restoration Yoga Nidra for Deep Relaxation",

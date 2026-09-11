@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const famousRomans = {
   id: "019db533-f3a0-755f-945c-b7a242915533",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "famous-romans",
   title: "Famous Romans",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greatAmericanMusicBroadwayMusicals = {
   id: "01a06578-671b-7002-8e90-6d3ab7028abf",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "great-american-music-broadway-musicals",
   title: "Great American Music: Broadway Musicals",

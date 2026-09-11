@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greatMastersLisztHisLifeAndMusic = {
   id: "019db533-f3a0-7514-8c33-739ff93c83ee",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "great-masters-liszt-his-life-and-music",
   title: "Great Masters: Liszt-His Life and Music",

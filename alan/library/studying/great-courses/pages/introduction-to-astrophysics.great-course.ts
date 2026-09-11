@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const introductionToAstrophysics = {
   id: "019db533-f39e-7f4d-ac81-921a7828df8f",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "introduction-to-astrophysics",
   title: "Introduction to Astrophysics",

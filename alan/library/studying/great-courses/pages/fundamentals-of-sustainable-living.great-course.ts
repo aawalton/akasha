@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const fundamentalsOfSustainableLiving = {
   id: "019db533-f39f-7274-b0be-797d495a15f4",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "fundamentals-of-sustainable-living",
   title: "Fundamentals of Sustainable Living",

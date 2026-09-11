@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const essentialsOfTaiChiAndQigong = {
   id: "019db533-f3a0-790f-90a3-998438e7a153",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "essentials-of-tai-chi-and-qigong",
   title: "Essentials of Tai Chi and Qigong",

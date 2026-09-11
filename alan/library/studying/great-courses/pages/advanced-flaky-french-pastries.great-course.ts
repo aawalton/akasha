@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const advancedFlakyFrenchPastries = {
   id: "019db533-f389-7102-88bb-0ebebce57553",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "advanced-flaky-french-pastries",
   title: "Advanced Flaky French Pastries",

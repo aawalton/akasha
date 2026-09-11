@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const decodingTheSecretsOfEgyptianHieroglyphs = {
   id: "019db533-f39f-7eb7-943e-b9e32672580b",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "decoding-the-secrets-of-egyptian-hieroglyphs",
   title: "Decoding the Secrets of Egyptian Hieroglyphs",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const homemadeHolidayBreads = {
   id: "019db533-f39f-7928-93be-179116ac183c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "homemade-holiday-breads",
   title: "Homemade Holiday Breads",

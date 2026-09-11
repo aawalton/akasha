@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const learningGermanAJourneyThroughLanguageAndCulture = {
   id: "019db533-f39f-74d8-ae6a-ba13c28285bb",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "learning-german-a-journey-through-language-and-culture",
   title: "Learning German: A Journey through Language and Culture",

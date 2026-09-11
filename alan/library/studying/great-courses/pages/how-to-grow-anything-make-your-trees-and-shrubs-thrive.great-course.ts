@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const howToGrowAnythingMakeYourTreesAndShrubsThrive = {
   id: "019db533-f39e-75a3-8629-b83a15a27a81",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "how-to-grow-anything-make-your-trees-and-shrubs-thrive",
   title: "How to Grow Anything: Make Your Trees and Shrubs Thrive",

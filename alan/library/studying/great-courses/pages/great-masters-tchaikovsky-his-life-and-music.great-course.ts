@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const greatMastersTchaikovskyHisLifeAndMusic = {
   id: "019db533-f3a0-746f-801e-655e4385b4d5",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "great-masters-tchaikovsky-his-life-and-music",
   title: "Great Masters: Tchaikovsky—His Life and Music",

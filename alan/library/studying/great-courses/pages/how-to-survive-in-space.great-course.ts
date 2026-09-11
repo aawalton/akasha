@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const howToSurviveInSpace = {
   id: "019db533-f39e-7ef8-8b9a-c0dba0934f52",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "how-to-survive-in-space",
   title: "How to Survive in Space",

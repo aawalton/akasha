@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const cookingBasicsWhatEveryoneShouldKnow = {
   id: "019db533-f39f-79f3-8c84-e650cba5c7be",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "cooking-basics-what-everyone-should-know",
   title: "Cooking Basics: What Everyone Should Know",

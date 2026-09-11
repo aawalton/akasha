@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const dutchMastersTheAgeOfRembrandt = {
   id: "019db533-f39f-7680-84b1-400c5827b97c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "dutch-masters-the-age-of-rembrandt",
   title: "Dutch Masters: The Age of Rembrandt",

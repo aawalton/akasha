@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const einsteinSRelativityAndTheQuantumRevolutionModernPhysicsForNo = {
   id: "019db533-f39f-7371-913f-f0143aa65245",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "einstein-s-relativity-and-the-quantum-revolution-modern-physics-for-no",
   title:

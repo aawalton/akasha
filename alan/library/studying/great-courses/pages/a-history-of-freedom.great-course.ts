@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const aHistoryOfFreedom = {
   id: "019db533-f388-7086-b839-cec06334f3e6",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "a-history-of-freedom",
   title: "A History of Freedom",

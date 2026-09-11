@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const adultEducationInTheAgeOfAiAPanelDiscussion = {
   id: "019db533-f39e-7526-b78a-1e93f2048a6b",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "adult-education-in-the-age-of-ai-a-panel-discussion",
   title: "Adult Education in the Age of AI: A Panel Discussion",

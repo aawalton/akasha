@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const betterBasicsForExceptionalCookies = {
   id: "019db533-f39f-7b28-bf11-c9f93bbf2e6c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "better-basics-for-exceptional-cookies",
   title: "Better Basics for Exceptional Cookies",

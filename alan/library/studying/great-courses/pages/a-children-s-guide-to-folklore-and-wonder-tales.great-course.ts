@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const aChildrenSGuideToFolkloreAndWonderTales = {
   id: "019db533-f39e-790b-9b9e-91582a6ce7a8",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "a-children-s-guide-to-folklore-and-wonder-tales",
   title: "A Children's Guide to Folklore and Wonder Tales",

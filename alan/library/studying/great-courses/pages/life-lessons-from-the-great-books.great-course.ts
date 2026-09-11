@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const lifeLessonsFromTheGreatBooks = {
   id: "019db533-f39e-7a21-bc18-652546c0dfd2",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "life-lessons-from-the-great-books",
   title: "Life Lessons from the Great Books",

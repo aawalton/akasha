@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const creativeFlavorsForCakesFillingsAndFrostings = {
   id: "019db533-f39f-7a28-81a1-a505fee15bcb",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "creative-flavors-for-cakes-fillings-and-frostings",
   title: "Creative Flavors for Cakes, Fillings & Frostings",

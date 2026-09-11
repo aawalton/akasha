@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const howToMakeStressWorkForYou = {
   id: "019db533-f3a0-7999-866f-f83d7efa6a83",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "how-to-make-stress-work-for-you",
   title: "How to Make Stress Work for You",

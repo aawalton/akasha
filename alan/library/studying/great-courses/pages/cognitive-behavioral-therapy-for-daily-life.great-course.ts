@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const cognitiveBehavioralTherapyForDailyLife = {
   id: "019db533-f3a0-7944-bedd-0ec833f0a32f",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "cognitive-behavioral-therapy-for-daily-life",
   title: "Cognitive Behavioral Therapy for Daily Life",

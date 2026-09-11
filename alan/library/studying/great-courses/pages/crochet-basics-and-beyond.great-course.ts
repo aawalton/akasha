@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const crochetBasicsAndBeyond = {
   id: "019db533-f39e-7674-afd7-debc393f582e",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "crochet-basics-and-beyond",
   title: "Crochet: Basics and Beyond",

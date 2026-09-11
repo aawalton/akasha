@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const fromJesusToConstantineAHistoryOfEarlyChristianity = {
   id: "019db533-f39e-7abb-8d3c-cee0168956a1",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "from-jesus-to-constantine-a-history-of-early-christianity",
   title: "From Jesus to Constantine: A History of Early Christianity",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const deathDyingAndTheAfterlifeLessonsFromWorldCultures = {
   id: "019db533-f39e-7d06-8601-b7bdf73aade3",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "death-dying-and-the-afterlife-lessons-from-world-cultures",
   title: "Death, Dying, and the Afterlife: Lessons from World Cultures",

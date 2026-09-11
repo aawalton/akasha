@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const introductionToNanotechnologyTheNewScienceOfSmall = {
   id: "019db533-f39f-72c8-a178-980f23db7e50",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "introduction-to-nanotechnology-the-new-science-of-small",
   title: "Introduction to Nanotechnology: The New Science of Small",

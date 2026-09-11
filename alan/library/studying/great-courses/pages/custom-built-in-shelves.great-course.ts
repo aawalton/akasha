@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const customBuiltInShelves = {
   id: "019db533-f39e-74d2-86f8-b317d706c4d5",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "custom-built-in-shelves",
   title: "Custom Built-In Shelves",

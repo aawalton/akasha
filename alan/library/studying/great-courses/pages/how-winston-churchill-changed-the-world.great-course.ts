@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const howWinstonChurchillChangedTheWorld = {
   id: "019db533-f39f-7993-b59b-3bfef01a94e4",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "how-winston-churchill-changed-the-world",
   title: "How Winston Churchill Changed the World",

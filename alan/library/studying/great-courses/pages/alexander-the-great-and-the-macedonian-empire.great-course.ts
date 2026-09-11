@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const alexanderTheGreatAndTheMacedonianEmpire = {
   id: "019db533-f3a0-7006-a96c-90983caa23bd",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "alexander-the-great-and-the-macedonian-empire",
   title: "Alexander the Great and the Macedonian Empire",

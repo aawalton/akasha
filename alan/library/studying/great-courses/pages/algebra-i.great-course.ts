@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const algebraI = {
   id: "019db533-f3a0-749f-9bac-63eacc66429c",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "algebra-i",
   title: "Algebra I",

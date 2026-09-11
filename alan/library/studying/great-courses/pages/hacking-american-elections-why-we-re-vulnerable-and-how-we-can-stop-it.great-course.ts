@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const hackingAmericanElectionsWhyWeReVulnerableAndHowWeCanStopIt = {
   id: "019db533-f3a0-71af-8db4-bcc068a77b48",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "hacking-american-elections-why-we-re-vulnerable-and-how-we-can-stop-it",
   title: "Hacking American Elections: Why We’re Vulnerable, and How We Can Stop It",

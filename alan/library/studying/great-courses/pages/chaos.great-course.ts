@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const chaos = {
   id: "019db533-f39f-7352-a7e4-ebaec20d2199",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "chaos",
   title: "Chaos",

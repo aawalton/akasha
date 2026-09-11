@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const creationStoriesOfTheAncientWorld = {
   id: "019db533-f39e-7cb6-ba2b-5146b752c579",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "creation-stories-of-the-ancient-world",
   title: "Creation Stories of the Ancient World",

@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const europeanThoughtAndCultureInThe20thCentury = {
   id: "019db533-f388-7022-99c3-49507983d540",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "european-thought-and-culture-in-the-20th-century",
   title: "European Thought and Culture in the 20th Century",

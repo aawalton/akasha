@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const electricalEngineeringForEveryone = {
   id: "019db533-f39f-70aa-ba55-5785dc127596",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "electrical-engineering-for-everyone",
   title: "Electrical Engineering for Everyone",

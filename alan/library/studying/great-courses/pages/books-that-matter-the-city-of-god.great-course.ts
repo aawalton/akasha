@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const booksThatMatterTheCityOfGod = {
   id: "019db533-f39e-7b27-9ccf-5944a681db7a",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "books-that-matter-the-city-of-god",
   title: "Books That Matter: The City of God",

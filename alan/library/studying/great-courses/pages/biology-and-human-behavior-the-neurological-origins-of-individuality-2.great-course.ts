@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const biologyAndHumanBehaviorTheNeurologicalOriginsOfIndividuality2 = {
   id: "019db533-f39e-7cae-8833-e694449752a8",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "biology-and-human-behavior-the-neurological-origins-of-individuality-2",
   title: "Biology and Human Behavior: The Neurological Origins of Individuality, 2nd Edition",

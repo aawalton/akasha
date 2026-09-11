@@ -2,7 +2,6 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-courses/gre
 
 export const exploringMetaphysics2ndEdition = {
   id: "01a06578-671c-7002-a64b-3935933d1ed4",
-  pageTypeSlug: "great-course",
   type: "great-course",
   slug: "exploring-metaphysics-2nd-edition",
   title: "Exploring Metaphysics, 2nd Edition",
