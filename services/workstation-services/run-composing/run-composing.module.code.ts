@@ -116,6 +116,44 @@ export function commandOf(root: string, start: Start): Composed {
   return { command: `${start.lenient === true ? LENIENT : ""}${words.join(SPACE)}` }
 }
 
+export function wordsIn(held: unknown): readonly string[] | null {
+  if (!Array.isArray(held)) return null
+  const took: string[] = []
+  for (const one of held) {
+    if (typeof one !== "string") return null
+    took.push(one)
+  }
+  return took.length === 0 ? null : took
+}
+
+export function startIn(held: unknown): Start | null {
+  if (held === null || typeof held !== "object" || Array.isArray(held)) return null
+  const said = held as Record<string, unknown>
+  const code = said.code
+  if (typeof code !== "string") return null
+  const before = wordsIn(said.before)
+  const pages = wordsIn(said.pages)
+  const words = wordsIn(said.arguments)
+  return {
+    code,
+    ...(before === null ? {} : { before }),
+    ...(pages === null ? {} : { pages }),
+    ...(words === null ? {} : { arguments: words }),
+    ...(said.lenient === true ? { lenient: true } : {}),
+  }
+}
+
+export function startsIn(held: unknown): readonly Start[] | null {
+  if (!Array.isArray(held)) return null
+  const took: Start[] = []
+  for (const one of held) {
+    const said = startIn(one)
+    if (said === null) return null
+    took.push(said)
+  }
+  return took.length === 0 ? null : took
+}
+
 export function commandsOf(root: string, starts: readonly Start[]): readonly string[] | Refused {
   const found: string[] = []
   for (const one of starts) {

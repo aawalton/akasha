@@ -55,6 +55,10 @@ export const runComposing = {
       statement: "The path a page sits at is read from the index rather than from the page.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page stating a start is composed from that start rather than from a fixture.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes a unit.",
     },
