@@ -16,7 +16,15 @@ export const foundation = {
     {
       invariantKind: "departure",
       statement:
-        "a bun install inside a native shell directory installs the whole workspace from the checkout root",
+        "An install inside a native shell reaches the manifest at the root of the tree above.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A build on a checkout has the akasha manifest as that root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A build on a delivered tree has a manifest written at that tree's root.",
     },
     {
       invariantKind: "departure",

@@ -45,6 +45,22 @@ export const mobileCli = {
     },
     {
       invariantKind: "departure",
+      statement: "A change to how an app is built is proved by `akasha deploy <app> --simulator`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That run needs no phone, no signing and no App Store Connect.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An agent at this workstation runs it rather than asking Alan to run it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A simulator run is delivered a few folders rather than a checkout.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The sources a program compiles are read off that program's `ios-program` page.",
     },
     {
