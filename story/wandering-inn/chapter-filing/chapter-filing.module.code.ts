@@ -85,7 +85,7 @@ export async function fileChapter(chapter: Filing): Promise<string> {
   const root = akashaRoot()
   const slug = chapterPageSlug(chapter.position, chapterSlugOf(chapter.title))
   const values: Value = {
-    pageTypeSlug: CHAPTER_PAGE_TYPE,
+    type: CHAPTER_PAGE_TYPE,
     slug,
     title: chapter.title,
     story: STORY_ADDRESS,

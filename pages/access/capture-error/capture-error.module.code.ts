@@ -33,7 +33,7 @@ export function slugFor(payload: ErrorCapturePayload): string {
 
 export function firstValuesFor(payload: ErrorCapturePayload, at: string): Value {
   const held: Value = {
-    pageTypeSlug: PAGE_TYPE,
+    type: PAGE_TYPE,
     slug: slugFor(payload),
     fingerprint: payload.fingerprint,
     app: payload.app,

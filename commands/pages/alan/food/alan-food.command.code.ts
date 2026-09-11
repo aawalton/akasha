@@ -308,7 +308,7 @@ async function logging(read: Logged, given: Given): Promise<Answer> {
   const foodId = Bun.randomUUIDv7()
   const values: Value = {
     id: foodId,
-    pageTypeSlug: FOOD_ENTRY_PAGE_TYPE_SLUG,
+    type: FOOD_ENTRY_PAGE_TYPE_SLUG,
     slug,
     title: read.title,
     happenedAt,
