@@ -9,7 +9,7 @@
   "className": "Necromancer",
   "classIcon": "/esoui/art/icons/class/class_necromancer.dds",
   "companionRapport": {
-    "13": 725
+    "13": 726
   },
   "quests": [
     465,
@@ -1051,7 +1051,7 @@
         "criteria": {
           "1": {
             "numRequired": 20,
-            "numCompleted": 18
+            "numCompleted": 19
           }
         },
         "completedSteps": 0,
@@ -1064,7 +1064,7 @@
         "criteria": {
           "1": {
             "numRequired": 30,
-            "numCompleted": 18
+            "numCompleted": 19
           }
         },
         "completedSteps": 0,
@@ -13429,7 +13429,7 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "date": "2026-09-10",
+    "date": "2026-09-11",
     "completed": 7
   },
   "dailyWritStates": {
@@ -13451,7 +13451,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-10"
+    "date": "2026-09-11"
   },
   "motifKnowledge": {
     "2": {
