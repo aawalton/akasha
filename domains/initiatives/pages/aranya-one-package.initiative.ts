@@ -10,6 +10,11 @@ export const aranyaOnePackage = {
   parent: "initiative/akasha-folder-shape",
   intents: [
     {
+      statement: "A native app deploys naming no package but the root.",
+      workingMemory:
+        "The mac build does `cd <nativeShellDir>`, `bun install`, `bun run ios:add` in `foundation.module.code.ts`, so each of the three ios-app folders is installed on its own — which `Package Only When Needed` names as exactly when a folder needs to be a package. Nothing reaches them by name: they are `@alanwalton/*-native-shell`, their dependencies are Capacitor plugins and their scripts are `cap` calls. So this intent waits on the mac build installing at the root instead.",
+    },
+    {
       statement: "No file names another file by a relative path.",
       workingMemory:
         "22 refusals over 124568 files, from 85324 at the start, and all 22 are subagent pages, which are mortal and drain as they are reaped. Every hand-written specifier is folded and all thirteen composers are mended, so nothing writes a relative specifier any more. A subagent page written after the mend is root-spelled, seen across two seats. The check runs at change now and refuses one there, proved by a deliberate violation that was refused and dropped.",
@@ -18,11 +23,6 @@ export const aranyaOnePackage = {
       statement: "A check refuses a relative path.",
       workingMemory:
         "The check runs at change and refuses a relative specifier there, proved by a deliberate violation that was refused and dropped. runsOnWorktree, runsOnDeploy and runsOnAudit are still false: each reads the whole tree, which holds 22 refusals, all subagent pages draining as they are reaped. The page type calls for running at change before the count reaches zero, which this check own invariant had contradicted; that invariant is restated.",
-    },
-    {
-      statement: "A native app deploys naming no package but the root.",
-      workingMemory:
-        "The mac build does `cd <nativeShellDir>`, `bun install`, `bun run ios:add` in `foundation.module.code.ts`, so each of the three ios-app folders is installed on its own — which `Package Only When Needed` names as exactly when a folder needs to be a package. Nothing reaches them by name: they are `@alanwalton/*-native-shell`, their dependencies are Capacitor plugins and their scripts are `cap` calls. So this intent waits on the mac build installing at the root instead.",
     },
     {
       statement: "No folder but the root is a workspace package.",
