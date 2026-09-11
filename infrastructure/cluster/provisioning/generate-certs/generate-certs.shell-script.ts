@@ -8,4 +8,5 @@ export const generateCerts = {
   definition: "the cluster authority and the PgBouncer certificate it signs, remade where stale",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
