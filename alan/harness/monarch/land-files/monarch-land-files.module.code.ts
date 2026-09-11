@@ -1,5 +1,5 @@
 import { readFile } from "node:fs/promises"
-import { join } from "node:path"
+import { dirname, join } from "node:path"
 import type { MonarchTransaction } from "akasha/alan/harness/monarch/client/monarch-client.module.code.ts"
 import type {
   PageFile,
@@ -10,6 +10,7 @@ import {
   accountPages,
   categoryPages,
   keyOf,
+  MONTHS_FOLDER,
   monthOf,
   monthPagePath,
   monthSlugs,
@@ -26,6 +27,8 @@ import { isMissing } from "akasha/utils/fs/missing/missing.module.code.ts"
 const PUT = "change-mechanical-file/add-if-not-present-file"
 
 const MONARCH_MONTH_TYPE = "01a0680b-2b00-7012-a659-4d8f2c7e2113"
+
+const ROOT = "akasha/"
 
 const MONTH_NAMES = [
   "January",
@@ -138,13 +141,15 @@ function monthPage(slug: string): string {
   const covered = slug.slice("month-".length)
   const year = Number.parseInt(covered.slice(0, 4), 10)
   const name = `${MONTH_NAMES[Number.parseInt(covered.slice(5, 7), 10) - 1]} ${year}`
+  const typeSlug = typeSlugOf(AKASHA, MONARCH_MONTH_TYPE)
+  const typesAt = `${ROOT}${dirname(MONTHS_FOLDER)}/${typeSlug}.page-type.types.ts`
   return [
-    `import type { MonarchMonth } from "../../monarch-month.page-type.types.ts"`,
+    `import type { MonarchMonth } from "${typesAt}"`,
     "",
     `export const ${exportedAs(slug)} = {`,
     `  id: "${Bun.randomUUIDv7()}",`,
-    `  pageTypeSlug: "${typeSlugOf(AKASHA, MONARCH_MONTH_TYPE)}",`,
-    `  type: "${typeSlugOf(AKASHA, MONARCH_MONTH_TYPE)}",`,
+    `  pageTypeSlug: "${typeSlug}",`,
+    `  type: "${typeSlug}",`,
     `  slug: "${slug}",`,
     `  title: ${JSON.stringify(name)},`,
     `  startsOn: "${covered}-01",`,

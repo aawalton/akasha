@@ -60,6 +60,10 @@ export const monarchLandFiles = {
     },
     {
       invariantKind: "departure",
+      statement: "A month page names its type from the root rather than by a relative path.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The change adding a file not there already lands each month rather than an edit composed here.",
     },
