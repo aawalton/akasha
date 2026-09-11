@@ -41,10 +41,7 @@ import {
   WORKSTATION_SERVICE,
 } from "akasha/commands/pages/deploy/kind-reading/deploy-kind-reading.module.code.ts"
 import { installedOnSimulator } from "akasha/commands/pages/deploy/simulator-installing/deploy-simulator-installing.module.code.ts"
-import {
-  pinnedTree,
-  treeIn,
-} from "akasha/commands/pages/deploy/tree-pinning/deploy-tree-pinning.module.code.ts"
+import { pinnedTree } from "akasha/commands/pages/deploy/tree-pinning/deploy-tree-pinning.module.code.ts"
 import { putUpWebApp } from "akasha/commands/pages/deploy/web-putting-up/deploy-web-putting-up.module.code.ts"
 import {
   appliedWorkload,
@@ -71,6 +68,8 @@ const NAMED: Readonly<Record<string, string>> = {
   [INFERENCE_SERVICE]: "an inference service",
   [ESO_ADDON]: "an ESO addon",
 }
+
+export const PINNED: ReadonlySet<string> = new Set([WORKSTATION_SERVICE])
 
 export interface RefNamed {
   readonly ref: string | null
@@ -118,16 +117,18 @@ export async function putUp(
   restarting: ReadonlySet<string> | null = null
 ): Promise<Answer> {
   const dryRun = rest.includes(DRY_RUN)
+  let at = ""
+  if (PINNED.has(read.kind)) {
+    const pinned = pinnedTree(given.root, read.kind, commit)
+    if ("refused" in pinned) return refused(pinned.refused, OPERATIONAL)
+    at = pinned.at
+  }
   if (read.kind === IOS_APP) {
     return shipIosApp(slug, read.pagePath, rest.includes(NO_UPLOAD), commit)
   }
   if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, dryRun)
   if (read.kind === WORKSTATION_SERVICE) {
-    const every = restarting ?? new Set<string>()
-    if (dryRun) return putUpEvery(given.root, true, every, treeIn(given.root, read.kind) ?? "")
-    const pinned = pinnedTree(given.root, read.kind, commit)
-    if ("refused" in pinned) return refused(pinned.refused, OPERATIONAL)
-    return putUpEvery(given.root, false, every, pinned.at)
+    return putUpEvery(given.root, dryRun, restarting ?? new Set<string>(), at)
   }
   if (read.kind === INFERENCE_SERVICE) return await putUpInferenceService(given.root, slug, dryRun)
   if (read.kind === ESO_ADDON) return await putUpAddon(given.root, slug, read.pagePath, dryRun)
