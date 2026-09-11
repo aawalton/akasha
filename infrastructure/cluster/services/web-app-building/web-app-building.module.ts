@@ -85,6 +85,11 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The builder is run from the checkout rather than through a script in the folder built.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A build is written into a scratch beside the folder the pod serves.",
     },
     {

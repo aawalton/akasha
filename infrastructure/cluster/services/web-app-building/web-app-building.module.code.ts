@@ -27,6 +27,7 @@ const SERVED_AT = "build"
 const NEXT_AT = "build.next"
 const PRIOR_AT = "build.old"
 const TOLD_BUILD_AT = "BUILD_DIRECTORY"
+const BUILDER_AT = "node_modules/.bin/react-router"
 const FETCHED = "FETCH_HEAD"
 const GOING = "\t"
 const ROLLOUT_WAIT = "5m"
@@ -312,7 +313,7 @@ export function buildScript(target: BuildTarget, sha: string, env: BuildEnv = []
     "bun install --frozen-lockfile",
     `cd ${REPO_PATH}/${target.packagePath}`,
     `rm -rf ${NEXT_AT} ${PRIOR_AT}`,
-    `${TOLD_BUILD_AT}=${NEXT_AT} bun run build`,
+    `${TOLD_BUILD_AT}=${NEXT_AT} ${REPO_PATH}/${BUILDER_AT} build`,
     `printf %s ${sha} > ${NEXT_AT}/${STAMP}`,
     `mkdir -p ${SERVED_AT}`,
     `mv ${SERVED_AT} ${PRIOR_AT}`,
