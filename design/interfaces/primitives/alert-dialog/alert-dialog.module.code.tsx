@@ -7,7 +7,10 @@ import {
   CardHeader,
 } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
-import { scheduleRestoreStuckBodyPointerEvents } from "akasha/design/interfaces/primitives/restore-body-pointer-events/restore-body-pointer-events.module.code.ts"
+import {
+  restoringOpenChange,
+  scheduleRestoreStuckBodyPointerEvents,
+} from "akasha/design/interfaces/primitives/restore-body-pointer-events/restore-body-pointer-events.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import * as React from "react"
@@ -23,15 +26,11 @@ function AlertDialog({
     prevOpen.current = open
   }, [open])
 
-  const handleOpenChange = (next: boolean) => {
-    onOpenChange?.(next)
-    if (!next) scheduleRestoreStuckBodyPointerEvents()
-  }
   return (
     <AlertDialogPrimitive.Root
       data-slot="alert-dialog"
       open={open}
-      onOpenChange={handleOpenChange}
+      onOpenChange={restoringOpenChange(onOpenChange)}
       {...props}
     />
   )

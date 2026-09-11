@@ -20,3 +20,12 @@ export function scheduleRestoreStuckBodyPointerEvents(): undefined {
   }
   setTimeout(restoreStuckBodyPointerEvents, 0)
 }
+
+export function restoringOpenChange(
+  onOpenChange: ((open: boolean) => void) | undefined
+): (next: boolean) => void {
+  return (next) => {
+    onOpenChange?.(next)
+    if (!next) scheduleRestoreStuckBodyPointerEvents()
+  }
+}
