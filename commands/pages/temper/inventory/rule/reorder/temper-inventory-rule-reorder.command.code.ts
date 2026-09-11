@@ -1,4 +1,4 @@
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   answering,
   DATA,
@@ -20,8 +20,6 @@ import {
   resolveAnchorIndex,
 } from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 
-const CALLED_AS = "akasha temper-inventory-rule-reorder"
-
 const TO = "--to"
 
 const BEFORE = "--before"
@@ -32,14 +30,18 @@ const WHERE = [TO, BEFORE, AFTER]
 
 const SHAPE = shapeOf([...WHERE, FORCE], { alone: [FORCE], whole: [TO], namesARule: true })
 
-async function moved(id: string, held: ReadonlyMap<string, string>): Promise<Answer> {
-  const given = WHERE.filter((one) => held.has(one))
-  if (given.length === 0) {
-    return refusing(`\`${CALLED_AS}\` takes one of ${named(WHERE)}, and it was given none`, INPUT)
+async function moved(
+  id: string,
+  held: ReadonlyMap<string, string>,
+  calledAs: string
+): Promise<Answer> {
+  const said = WHERE.filter((one) => held.has(one))
+  if (said.length === 0) {
+    return refusing(`\`${calledAs}\` takes one of ${named(WHERE)}, and it was given none`, INPUT)
   }
-  if (given.length > 1) {
+  if (said.length > 1) {
     return refusing(
-      `\`${CALLED_AS}\` takes one of ${named(WHERE)}, and it was given ${named(given)}`,
+      `\`${calledAs}\` takes one of ${named(WHERE)}, and it was given ${named(said)}`,
       INPUT
     )
   }
@@ -88,9 +90,12 @@ async function moved(id: string, held: ReadonlyMap<string, string>): Promise<Ans
   return toldOf({ id, toIndex })
 }
 
-export async function temperInventoryRuleReorder(argv: readonly string[] = []): Promise<Answer> {
-  const read = readIn(argv, CALLED_AS, SHAPE)
+export async function temperInventoryRuleReorder(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  const read = readIn(argv, given.calledAs, SHAPE)
   if ("refused" in read) return refusedAll(read.refused)
   const id = read.id ?? ""
-  return await answering(() => moved(id, read.said))
+  return await answering(() => moved(id, read.said, given.calledAs))
 }

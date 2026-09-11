@@ -1,4 +1,4 @@
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ACTIVE,
@@ -20,8 +20,6 @@ import {
 } from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
 import { addCategoryRule } from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-
-const CALLED_AS = "akasha temper-inventory-rule-create"
 
 const CATEGORY = "--category"
 
@@ -67,6 +65,9 @@ async function made(held: ReadonlyMap<string, string>): Promise<Answer> {
   return toldOf(merged)
 }
 
-export async function temperInventoryRuleCreate(argv: readonly string[] = []): Promise<Answer> {
-  return await answeredCall(argv, CALLED_AS, SHAPE, made)
+export async function temperInventoryRuleCreate(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  return await answeredCall(argv, given.calledAs, SHAPE, made)
 }

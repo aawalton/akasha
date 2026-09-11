@@ -1,4 +1,4 @@
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   answering,
   JSON_FLAG,
@@ -9,12 +9,13 @@ import {
   TSV,
 } from "akasha/temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 
-const CALLED_AS = "akasha temper-inventory-rule-show"
-
 const SHAPE = shapeOf([JSON_FLAG, TSV], { alone: [JSON_FLAG, TSV], namesARule: true })
 
-export async function temperInventoryRuleShow(argv: readonly string[] = []): Promise<Answer> {
-  const read = readIn(argv, CALLED_AS, SHAPE)
+export async function temperInventoryRuleShow(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  const read = readIn(argv, given.calledAs, SHAPE)
   if ("refused" in read) return refusedAll(read.refused)
   const id = read.id ?? ""
   return await answering(() => shownRule("category", id, read.said))

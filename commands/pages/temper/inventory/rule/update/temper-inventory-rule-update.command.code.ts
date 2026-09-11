@@ -1,4 +1,4 @@
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import {
   ACTIVE,
   answeredCall,
@@ -24,8 +24,6 @@ import {
   parseDestinationChainJson,
 } from "akasha/temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
 import { bulkUpdateCategoryRules } from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
-
-const CALLED_AS = "akasha temper-inventory-rule-update"
 
 const CATEGORY = "--category"
 
@@ -54,7 +52,11 @@ const CHANGES = [
 
 const SHAPE = shapeOf([...CHANGES, FORCE], { alone: [FORCE], yesNo: [ACTIVE], namesARule: true })
 
-async function changed(id: string, held: ReadonlyMap<string, string>): Promise<Answer> {
+async function changed(
+  id: string,
+  held: ReadonlyMap<string, string>,
+  calledAs: string
+): Promise<Answer> {
   const action = held.get(ACTION)
   const destination = held.get(DESTINATION)
   const scope = held.get(STOCK_SCOPE)
@@ -78,7 +80,7 @@ async function changed(id: string, held: ReadonlyMap<string, string>): Promise<A
   }
   if (Object.keys(patch).length === 0) {
     return refusing(
-      `\`${CALLED_AS}\` names no field to change — it changes ${named(CHANGES)}`,
+      `\`${calledAs}\` names no field to change — it changes ${named(CHANGES)}`,
       INPUT
     )
   }
@@ -93,6 +95,11 @@ async function changed(id: string, held: ReadonlyMap<string, string>): Promise<A
   return toldOf(next.rules.find((one) => one.id === id) ?? rule)
 }
 
-export async function temperInventoryRuleUpdate(argv: readonly string[] = []): Promise<Answer> {
-  return await answeredCall(argv, CALLED_AS, SHAPE, (held, id) => changed(id, held))
+export async function temperInventoryRuleUpdate(
+  argv: readonly string[],
+  given: Given
+): Promise<Answer> {
+  return await answeredCall(argv, given.calledAs, SHAPE, (held, id) =>
+    changed(id, held, given.calledAs)
+  )
 }
