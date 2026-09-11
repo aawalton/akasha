@@ -10,8 +10,12 @@ export const supervisorIterationOutcomeDb = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "A caller states the wait a call is given.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A call that has not answered in five seconds is at fault rather than still waiting.",
+        "A caller stating no wait gives that call five seconds, and a call past its wait is at fault.",
     },
     {
       invariantKind: "departure",
