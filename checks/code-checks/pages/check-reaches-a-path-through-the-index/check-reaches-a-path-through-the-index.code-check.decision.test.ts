@@ -1,9 +1,11 @@
 import { expect, test } from "bun:test"
 import {
+  type Asked,
   askingOver,
   basedOn,
   foldersOf,
   judgedBy,
+  judgingOver,
   reasonsIn,
 } from "./check-reaches-a-path-through-the-index.code-check.decision.code.ts"
 
@@ -194,4 +196,74 @@ test("a file whose last section is no code and no test is not judged", () => {
 
 test("a file named for a page type the index does not know is not judged", () => {
   expect(judgedBy(TYPES)("akasha/a.thing.code.ts")).toBe(false)
+})
+
+const STRAY = "akasha/stray.json"
+
+const MADE = "akasha/made.json"
+
+const ASKED: Asked = {
+  types: TYPES,
+  listed: (path) => path !== STRAY,
+  generated: (path) => path === MADE,
+}
+
+const SHELL = "akasha/one.thing.shell.sh"
+
+function ran(text: string): readonly string[] {
+  return reasonsIn(asking, SHELL, text)
+}
+
+test("a page's file that is no TypeScript is judged whatever section names that file", () => {
+  expect(judgingOver(ASKED)("akasha/one.thing.config.json")).toBe(true)
+})
+
+test("a page's TypeScript file is judged only where that file is the code or the test", () => {
+  const beside = "checks/code-checks/pages/a/a.code-check.test-fixtures.ts"
+  expect(judgingOver(ASKED)("checks/code-checks/pages/a/a.code-check.code.ts")).toBe(true)
+  expect(judgingOver(ASKED)(beside)).toBe(false)
+})
+
+test("a file the index names for no page is judged by nothing", () => {
+  expect(judgingOver(ASKED)(STRAY)).toBe(false)
+})
+
+test("a file a page property says a machine writes is judged by nothing", () => {
+  expect(judgingOver(ASKED)(MADE)).toBe(false)
+})
+
+test("a file held uncommitted is judged by nothing", () => {
+  const held = "checks/code-checks/pages/a/a.code-check.entries.uncommitted.jsonl"
+  expect(judgingOver(ASKED)(held)).toBe(false)
+})
+
+test("a run of a body whose language is not parsed that names a page is refused", () => {
+  const at = "akasha/one.thing.config.json"
+  const said = reasonsIn(asking, at, '{ "at": "design/colors/pages/yellow.color.ts" }\n')
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 1")
+})
+
+test("a run is read again from each separator, and a path after a variable is read", () => {
+  expect(ran("cp $ROOT/design/colors/pages/yellow.color.ts .\n")).toHaveLength(1)
+})
+
+test("a run naming a folder above a page is let through", () => {
+  expect(ran("ls design/colors/pages\n")).toEqual([])
+})
+
+test("one run is refused once however many readings of that run name the page", () => {
+  expect(ran("cat design/colors/pages/yellow.color.ts\n")).toHaveLength(1)
+})
+
+test("a body outside TypeScript holds no listing", () => {
+  expect(ran('readdirSync("design/colors")\n')).toEqual([])
+})
+
+test("a run the index knows a path ending with is refused", () => {
+  expect(ran("see hum-matching/hum-matching.module.code.ts\n")).toHaveLength(1)
+})
+
+test("the line a run sits on is the line the refusal names", () => {
+  expect(ran("one\ntwo\ncat design/colors/pages/yellow.color.ts\n")[0]).toContain("line 3")
 })

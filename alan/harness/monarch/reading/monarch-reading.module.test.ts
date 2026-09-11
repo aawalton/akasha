@@ -11,8 +11,7 @@ const TAKEN = new Date("2026-08-31T12:00:00.000Z")
 
 const READOUT = "readout"
 
-const READOUT_PAGE =
-  "alan/harness/readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"
+const READOUT_PAGE = "alan/harness/readouts/pages/probe-readout/probe-readout.readout.ts"
 
 const READOUT_ID = "01a057fa-c464-7f2b-9f87-031b5dbedab0"
 
