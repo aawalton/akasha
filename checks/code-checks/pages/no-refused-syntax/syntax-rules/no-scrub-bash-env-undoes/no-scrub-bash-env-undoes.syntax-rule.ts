@@ -52,12 +52,12 @@ export const noScrubBashEnvUndoes = {
       statement: "A call already refused is not read again through the arguments the call has.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement:
         "A script whose first line names a shell reading no startup file is refused with the rest.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "A shell file writing this call is judged by nothing here.",
     },
   ],
