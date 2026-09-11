@@ -122,10 +122,6 @@ export const check = {
     },
     {
       invariantKind: "gap",
-      statement: "A check asks the index for anything beyond the change the check was handed.",
-    },
-    {
-      invariantKind: "gap",
       statement: "Every phase a check states is reached by a caller that runs the check.",
     },
     {
