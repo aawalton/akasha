@@ -12,7 +12,7 @@ export const aranyaOnePackage = {
     {
       statement: "A native app deploys naming no package but the root.",
       workingMemory:
-        "The mac build does `cd <nativeShellDir>`, `bun install`, `bun run ios:add` in `foundation.module.code.ts`, so each of the three ios-app folders is installed on its own — which `Package Only When Needed` names as exactly when a folder needs to be a package. Nothing reaches them by name: they are `@alanwalton/*-native-shell`, their dependencies are Capacitor plugins and their scripts are `cap` calls. So this intent waits on the mac build installing at the root instead.",
+        "`akasha deploy <app> --simulator` builds on the mac and reports BUILD_SIM_OK, so the build is proved from here with no phone and no signing; alanwalton is green on it. The checkout path is already rooted, since `--device` makes a whole worktree. The simulator path is the blocker: it rsyncs the shell folder and the shared files alone into ~/.akasha-ios-build and runs `npm install` there, so the app manifest is the install root. Write the manifest at that tree's root instead, off `tool-reached`.",
     },
     {
       statement: "No folder but the root is a workspace package.",
