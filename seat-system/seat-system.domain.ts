@@ -42,7 +42,6 @@ export const seatSystem = {
     "module/claude-launch-args",
     "module/messages-agent-tools",
     "module/proc-scan",
-    "module/read-record",
     "module/resume-seat",
     "module/resume-verify",
     "module/seat-attribute",

@@ -1,3 +1,4 @@
+import { seatId } from "akasha/agents/read-record/read-record.module.code.ts"
 import {
   AKASHA,
   akashaRoot,
@@ -8,7 +9,6 @@ import {
   composeSeatName,
   personPrincipals,
 } from "akasha/seat-system/compose-seat-name/compose-seat-name.module.code.ts"
-import { seatId } from "akasha/seat-system/read-record/read-record.module.code.ts"
 import {
   handlerDerives,
   personaIsHers,

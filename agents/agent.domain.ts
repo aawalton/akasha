@@ -16,5 +16,6 @@ export const agent = {
     "module/last-said",
     "module/tool-access",
     "module/launch-flags",
+    "module/read-record",
   ],
 } as const satisfies Domain
