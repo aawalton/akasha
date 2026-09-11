@@ -122,10 +122,6 @@ export const check = {
     },
     {
       invariantKind: "gap",
-      statement: "A check runs over the changes the check was given rather than over the pages.",
-    },
-    {
-      invariantKind: "gap",
       statement: "A check asks the index for anything beyond the change the check was handed.",
     },
     {
