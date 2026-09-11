@@ -230,3 +230,6 @@ export function hideControl(controlName: string): undefined {
     control.ClearAnchors()
   }
 }
+
+export const mustControl = <T extends Control = Control>(name: string): T =>
+  WINDOW_MANAGER.GetControlByName<T>(name) ?? error(`TemperCrafting: missing control ${name}`)

@@ -6,15 +6,16 @@ import { type CraftedSetEntry, SETS } from "../craft-sets-data/craft-sets-data.m
 import * as StyleTracking from "../craft-style-tracking/craft-style-tracking.module.code.ts"
 import type { CsTooltipOwner } from "../craft-tooltips/craft-tooltips.module.code.ts"
 import * as Tooltips from "../craft-tooltips/craft-tooltips.module.code.ts"
-import { nilCheckSet, toChat } from "../crafting-helpers/crafting-helpers.module.code.ts"
+import {
+  mustControl,
+  nilCheckSet,
+  toChat,
+} from "../crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
 
 function asWidth(this: void, value: unknown): number {
   return value as number
 }
-
-const mustControl = <T extends Control = TemperCraftingControl>(name: string): T =>
-  WINDOW_MANAGER.GetControlByName<T>(name) ?? error(`TemperCrafting: missing control ${name}`)
 
 const allNamed = (
   sets: Record<number, CraftedSetEntry>
@@ -56,7 +57,7 @@ export function optionSetSelect(control: TemperCraftingButton, button: number): 
         travel = false
         cost = ""
       }
-      mustControl(`TemperCrafting_PanelButtonWayshrine${x}`).data = {
+      mustControl<TemperCraftingControl>(`TemperCrafting_PanelButtonWayshrine${x}`).data = {
         set: nr,
         travel: travel,
         info: `${nodename}\n${zonename}${cost}`,
@@ -112,7 +113,9 @@ export function traitToggle(control: TemperCraftingButton, char: string, text: s
       }
       if (STATE.SelectedPlayer === char) {
         ResearchGrid.updateStudyLine(
-          mustControl(`TemperCrafting_PanelCraft${craft}`).GetChild<TemperCraftingControl>(line),
+          mustControl<TemperCraftingControl>(
+            `TemperCrafting_PanelCraft${craft}`
+          ).GetChild<TemperCraftingControl>(line),
           value
         )
       }
@@ -236,7 +239,7 @@ export function styleInitialize(): undefined {
       }
       p.SetDimensions(750, 90)
     } else {
-      p = mustControl(`TemperCrafting_StyleRow${id}`)
+      p = mustControl<TemperCraftingControl>(`TemperCrafting_StyleRow${id}`)
     }
     let bg: BackdropControl
     if (
