@@ -47,12 +47,8 @@ export const noLocalMidnightParse = {
         "The fault is the pretence that a date names an instant rather than the joining itself.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "absence",
       statement: "A midnight held in a variable and joined on in a later statement is not seen.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "The two sit apart.",
     },
   ],
 } as const satisfies SyntaxRule
