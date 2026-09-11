@@ -100,10 +100,14 @@ export function settingIn(
   return { status: done.status, said: `${chosen.slug}: ${done.said}` }
 }
 
-if (import.meta.main) {
+export function runDesktopWallpaperSetting(): number {
   const setting = settingIn(akashaRoot())
   const said = `${setting.said}\n`
   if (setting.status === 0) process.stdout.write(said)
   else process.stderr.write(said)
-  process.exit(setting.status)
+  return setting.status
+}
+
+if (import.meta.main) {
+  process.exit(runDesktopWallpaperSetting())
 }
