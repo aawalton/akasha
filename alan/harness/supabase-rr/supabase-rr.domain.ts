@@ -25,6 +25,7 @@ export const supabaseRr = {
     "module/root-loader",
     "module/supabase-provider",
     "module/client-env-define",
+    "module/page-listing-loader",
   ],
   invariants: [
     {
