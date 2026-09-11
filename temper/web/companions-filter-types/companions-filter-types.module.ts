@@ -6,4 +6,10 @@ export const companionsFilterTypes = {
   slug: "companions-filter-types",
   definition: "the shapes a companion filter takes",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "absence",
+      statement: "A gear rule the shopping page narrows a query by is no companion filter.",
+    },
+  ],
 } as const satisfies Module

@@ -6,19 +6,11 @@ import {
 } from "akasha/temper/character-sources/target-armors/target-armors.module.code.ts"
 import { companionBaseRoles } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import {
-  type CompanionEquipmentQualityId,
-  companionEquipmentQualities,
-} from "akasha/temper/companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import {
   type CompanionId,
   companions,
 } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import type { TabValue } from "akasha/temper/web/build-page-tab/build-page-tab.module.code.ts"
 import type { SortField } from "akasha/temper/web/companions-filter-bar/companions-filter-bar.module.code.tsx"
-
-export function isValidGearOwnership(value: unknown): value is "owned" | "unowned" {
-  return value === "owned" || value === "unowned"
-}
 
 export const BASE_ROLES = companionBaseRoles.ids
 
@@ -76,27 +68,4 @@ export function isValidTargetCount(value: unknown): value is string {
 
 export function isValidTargetHealth(value: unknown): value is string {
   return value === "full" || value === "execute"
-}
-
-export function isValidGearQualities(
-  value: unknown
-): readonly CompanionEquipmentQualityId[] | undefined {
-  if (typeof value === "string") {
-    if (value === "") return []
-    const arr = value
-      .split(",")
-      .filter(companionEquipmentQualities.has.bind(companionEquipmentQualities))
-      .filter((q) => q !== "no-quality")
-    return arr.length > 0 ? arr : undefined
-  }
-  if (Array.isArray(value)) {
-    if (
-      value.every(
-        (v) => typeof v === "string" && companionEquipmentQualities.has(v) && v !== "no-quality"
-      )
-    )
-      return value
-    return undefined
-  }
-  return undefined
 }
