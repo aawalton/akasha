@@ -118,11 +118,6 @@ export const browserCodeReadsTheEnvironmentByAName = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A module two imports away from one reaching `process.env` by a key is seen by nothing here.",
-    },
-    {
-      invariantKind: "gap",
       statement: "A file outside every router app's package is judged by nothing here.",
     },
     {
