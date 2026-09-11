@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.types.ts"
+import type { IosComponent } from "akasha/code-system/ios-components/ios-component.page-type.types.ts"
 
 export const ring = {
   id: "01a05482-22dc-7b38-95b1-b7801f498a68",

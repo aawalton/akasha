@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.types.ts"
+import type { IosComponent } from "akasha/code-system/ios-components/ios-component.page-type.types.ts"
 
 export const fallingChecks = {
   id: "01a08c54-a75a-7c9b-b63f-c642ff505fb5",

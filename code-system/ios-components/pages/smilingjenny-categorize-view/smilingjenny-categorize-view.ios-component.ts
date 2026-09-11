@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.types.ts"
+import type { IosComponent } from "akasha/code-system/ios-components/ios-component.page-type.types.ts"
 
 export const smilingjennyCategorizeView = {
   id: "01a05835-69dd-7785-922c-62085d151883",

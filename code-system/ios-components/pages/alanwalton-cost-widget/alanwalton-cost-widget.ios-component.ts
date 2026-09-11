@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.types.ts"
+import type { IosComponent } from "akasha/code-system/ios-components/ios-component.page-type.types.ts"
 
 export const alanwaltonCostWidget = {
   id: "01a08bb4-3dee-7e6f-8126-950faba3221d",

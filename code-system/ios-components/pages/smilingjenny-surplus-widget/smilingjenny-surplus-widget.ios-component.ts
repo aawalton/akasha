@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.types.ts"
+import type { IosComponent } from "akasha/code-system/ios-components/ios-component.page-type.types.ts"
 
 export const smilingjennySurplusWidget = {
   id: "01a05835-69de-7765-85ea-e7141ffc0105",

@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.types.ts"
+import type { IosComponent } from "akasha/code-system/ios-components/ios-component.page-type.types.ts"
 
 export const scaleChecks = {
   id: "01a08c63-252c-77f1-b8be-c0d4bca74aaa",

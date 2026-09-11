@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.types.ts"
+import type { IosComponent } from "akasha/code-system/ios-components/ios-component.page-type.types.ts"
 
 export const costRing = {
   id: "01a08bbb-de99-7239-ae5c-c8f4b66aefa3",

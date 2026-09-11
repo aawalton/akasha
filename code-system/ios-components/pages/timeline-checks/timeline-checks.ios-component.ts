@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.types.ts"
+import type { IosComponent } from "akasha/code-system/ios-components/ios-component.page-type.types.ts"
 
 export const timelineChecks = {
   id: "01a08c75-6675-73c2-b0e1-37744996eaaf",

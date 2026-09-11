@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.types.ts"
+import type { IosComponent } from "akasha/code-system/ios-components/ios-component.page-type.types.ts"
 
 export const alanwaltonStoplightRing = {
   id: "01a05835-69dc-706e-a604-be35e231c198",
