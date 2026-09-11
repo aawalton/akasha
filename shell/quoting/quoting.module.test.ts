@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
+import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
 import { said } from "akasha/utils/run/running/running.module.code.ts"
-import { quoted } from "./quoting.module.code.ts"
 
 const TRICKY: readonly string[] = [
   "",
