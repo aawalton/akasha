@@ -10,11 +10,11 @@ import {
   asGetPerfectedSetDataFn,
   asIsPerfectedSetIdFn,
   asLibSlots,
-  asSafeReturnApiTableFn,
   asStrRecordEntryOpt,
   asVoidFn,
 } from "akasha/temper/lib-sets/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 import { asEquipTypeBoolMap } from "akasha/temper/lib-sets/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+import { safeReturnAPItable } from "akasha/temper/lib-sets/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
 
 const lib = LibSets
 
@@ -25,7 +25,6 @@ const isAPerfectedOrNonPerfectedSetId = asIsPerfectedSetIdFn(
 )
 const getPerfectedSetData = asGetPerfectedSetDataFn(slots["_getPerfectedSetData"])
 const fillPerfectedSetsTables = asVoidFn(slots["_fillPerfectedSetsTables"])
-const safeReturnAPItable = asSafeReturnApiTableFn(slots["_safeReturnAPItable"])
 const checkSet = asCheckSetFn(slots["_checkSet"])
 const checkNoSetIdSet = asCheckNoSetIdSetFn(slots["_checkNoSetIdSet"])
 
