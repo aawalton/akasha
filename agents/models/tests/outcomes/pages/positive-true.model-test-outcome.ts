@@ -1,4 +1,4 @@
-import type { ModelTestOutcome } from "../model-test-outcome.page-type.types.ts"
+import type { ModelTestOutcome } from "akasha/agents/models/tests/outcomes/model-test-outcome.page-type.types.ts"
 
 export const positiveTrue = {
   id: "01a05905-af38-741e-87f4-ec98aebe9361",

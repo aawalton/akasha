@@ -2,18 +2,21 @@ import {
   fetchWithIdleGuard,
   type IdleFetch,
   type IdleTimers,
-} from "../idle-timeout/idle-timeout.module.code.ts"
-import type { ObserverSlot } from "../observer-slot/observer-slot.module.code.ts"
+} from "akasha/agents/models/gateway/modules/idle-timeout/idle-timeout.module.code.ts"
+import type { ObserverSlot } from "akasha/agents/models/gateway/modules/observer-slot/observer-slot.module.code.ts"
 import {
   copyRequestHeaders,
   copyResponseHeaders,
-} from "../proxy-headers/proxy-headers.module.code.ts"
-import { pullFirstChunkAndWrap, type StreamClock } from "../retry/retry.module.code.ts"
+} from "akasha/agents/models/gateway/modules/proxy-headers/proxy-headers.module.code.ts"
+import {
+  pullFirstChunkAndWrap,
+  type StreamClock,
+} from "akasha/agents/models/gateway/modules/retry/retry.module.code.ts"
 import {
   buildStreamObserver,
   type ShutdownFlushRegistry,
   type TransportLogAt,
-} from "../transport-log/transport-log.module.code.ts"
+} from "akasha/agents/models/gateway/modules/transport-log/transport-log.module.code.ts"
 
 const UPSTREAM_BASE = "https://api.anthropic.com"
 

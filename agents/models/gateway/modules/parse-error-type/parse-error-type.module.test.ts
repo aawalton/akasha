@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { parseErrorType } from "./parse-error-type.module.code.ts"
+import { parseErrorType } from "akasha/agents/models/gateway/modules/parse-error-type/parse-error-type.module.code.ts"
 
 describe("parseErrorType", () => {
   test("an empty body text reads as no error type", () => {

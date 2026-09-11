@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
-import type { RefreshOutcome } from "../../../../claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
-import type { OAuthEffects } from "../oauth-effects/oauth-effects.module.code.ts"
-import type { OAuthProxy, StartOAuthProxyOptions } from "./proxy-start.module.code.ts"
+import type { RefreshOutcome } from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
+import type { OAuthEffects } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import type {
+  OAuthProxy,
+  StartOAuthProxyOptions,
+} from "akasha/agents/models/gateway/modules/proxy-start/proxy-start.module.code.ts"
 
 type Same<A, B> = (<T>() => T extends A ? 1 : 2) extends <T>() => T extends B ? 1 : 2 ? true : false
 

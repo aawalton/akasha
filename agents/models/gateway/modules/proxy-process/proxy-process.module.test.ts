@@ -1,10 +1,13 @@
 import { expect, test } from "bun:test"
-import type { OAuthProxy, StartOAuthProxyOptions } from "../proxy-start/proxy-start.module.code.ts"
 import {
   type ProcessDoors,
   type ProxyStateToWrite,
   runGatewayProcess,
-} from "./proxy-process.module.code.ts"
+} from "akasha/agents/models/gateway/modules/proxy-process/proxy-process.module.code.ts"
+import type {
+  OAuthProxy,
+  StartOAuthProxyOptions,
+} from "akasha/agents/models/gateway/modules/proxy-start/proxy-start.module.code.ts"
 
 const AGENT = "agent-one"
 

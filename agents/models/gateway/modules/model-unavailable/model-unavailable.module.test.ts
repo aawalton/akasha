@@ -5,7 +5,7 @@ import {
   isModelUnavailable,
   MODEL_UNAVAILABLE_STATUS,
   NOT_FOUND_ERROR_TYPE,
-} from "./model-unavailable.module.code.ts"
+} from "akasha/agents/models/gateway/modules/model-unavailable/model-unavailable.module.code.ts"
 
 const MISSING_BODY = JSON.stringify({
   type: "error",

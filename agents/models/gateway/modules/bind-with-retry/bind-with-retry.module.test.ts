@@ -1,5 +1,8 @@
 import { afterEach, beforeEach, expect, mock, spyOn, test } from "bun:test"
-import { type BindRetryClock, bindWithRetry } from "./bind-with-retry.module.code.ts"
+import {
+  type BindRetryClock,
+  bindWithRetry,
+} from "akasha/agents/models/gateway/modules/bind-with-retry/bind-with-retry.module.code.ts"
 
 const PORT = 4321
 

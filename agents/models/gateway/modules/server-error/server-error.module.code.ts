@@ -1,7 +1,7 @@
 import {
   ANTHROPIC_ERROR_ENVELOPE_SCHEMA,
   type AnthropicError,
-} from "../anthropic-error-envelope/anthropic-error-envelope.module.code.ts"
+} from "akasha/agents/models/gateway/modules/anthropic-error-envelope/anthropic-error-envelope.module.code.ts"
 
 export const OVERLOADED_ERROR_TYPE = "overloaded_error"
 

@@ -9,7 +9,7 @@ import {
   stripFastMode,
   stripFastModeBeta,
   stripSpeedFromBody,
-} from "./fast-mode-strip.module.code.ts"
+} from "akasha/agents/models/gateway/modules/fast-mode-strip/fast-mode-strip.module.code.ts"
 
 const encodeText = (text: string): ArrayBuffer => {
   const encoded = new TextEncoder().encode(text)

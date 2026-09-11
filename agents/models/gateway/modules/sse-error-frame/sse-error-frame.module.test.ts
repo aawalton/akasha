@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
+import { buildAnthropicSseErrorFrame } from "akasha/agents/models/gateway/modules/sse-error-frame/sse-error-frame.module.code.ts"
 import { z } from "zod"
-import { buildAnthropicSseErrorFrame } from "./sse-error-frame.module.code.ts"
 
 const DECODER = new TextDecoder()
 

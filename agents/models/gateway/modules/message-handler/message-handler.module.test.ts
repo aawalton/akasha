@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import type { ObserverSlot } from "../observer-slot/observer-slot.module.code.ts"
 import {
   BAD_GATEWAY,
   buildMessageHandler,
   fallthroughLine,
   type HandlerDoors,
   type MessageTurn,
-} from "./message-handler.module.code.ts"
+} from "akasha/agents/models/gateway/modules/message-handler/message-handler.module.code.ts"
+import type { ObserverSlot } from "akasha/agents/models/gateway/modules/observer-slot/observer-slot.module.code.ts"
 
 const PREFIX = "[gw]"
 

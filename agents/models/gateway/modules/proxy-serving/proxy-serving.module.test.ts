@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { startOAuthProxy } from "./proxy-serving.module.code.ts"
+import { startOAuthProxy } from "akasha/agents/models/gateway/modules/proxy-serving/proxy-serving.module.code.ts"
 import {
   gated,
   heldObserver,
@@ -15,7 +15,7 @@ import {
   startedProxy,
   streamedUpstream,
   ticked,
-} from "./proxy-serving.module.test-fixtures.ts"
+} from "akasha/agents/models/gateway/modules/proxy-serving/proxy-serving.module.test-fixtures.ts"
 
 const POSTED: RequestInit = { method: "POST", body: "{}" }
 

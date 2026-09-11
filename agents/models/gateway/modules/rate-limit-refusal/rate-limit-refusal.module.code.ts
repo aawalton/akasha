@@ -1,4 +1,4 @@
-import type { PoolSummary } from "../../../../claude-accounts/modules/selection/claude-account-selection.module.code.ts"
+import type { PoolSummary } from "akasha/agents/claude-accounts/modules/selection/claude-account-selection.module.code.ts"
 
 export const RATE_LIMIT_STATUS = 429
 

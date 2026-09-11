@@ -1,8 +1,9 @@
-import type { IdleFetch, IdleTimers } from "../idle-timeout/idle-timeout.module.code.ts"
-import type { MessageTurn } from "../message-handler/message-handler.module.code.ts"
-import type { OAuthEffects } from "../oauth-effects/oauth-effects.module.code.ts"
-import type { StartOAuthProxyOptions } from "../proxy-start/proxy-start.module.code.ts"
-import type { ArmableStreamObserver } from "../transport-log/transport-log.module.code.ts"
+import type {
+  IdleFetch,
+  IdleTimers,
+} from "akasha/agents/models/gateway/modules/idle-timeout/idle-timeout.module.code.ts"
+import type { MessageTurn } from "akasha/agents/models/gateway/modules/message-handler/message-handler.module.code.ts"
+import type { OAuthEffects } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import {
   type Answering,
   type Listening,
@@ -11,7 +12,9 @@ import {
   type ServingDoors,
   type ServingParts,
   startOAuthProxy,
-} from "./proxy-serving.module.code.ts"
+} from "akasha/agents/models/gateway/modules/proxy-serving/proxy-serving.module.code.ts"
+import type { StartOAuthProxyOptions } from "akasha/agents/models/gateway/modules/proxy-start/proxy-start.module.code.ts"
+import type { ArmableStreamObserver } from "akasha/agents/models/gateway/modules/transport-log/transport-log.module.code.ts"
 
 export const ROOT = "/var/tmp/proxy-serving-root"
 

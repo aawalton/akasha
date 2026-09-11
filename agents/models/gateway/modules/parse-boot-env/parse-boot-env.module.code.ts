@@ -1,5 +1,5 @@
+import { DEFAULT_DOWNSTREAM_KEEPALIVE_MS } from "akasha/agents/models/gateway/modules/keepalive/keepalive.module.code.ts"
 import { z } from "zod"
-import { DEFAULT_DOWNSTREAM_KEEPALIVE_MS } from "../keepalive/keepalive.module.code.ts"
 
 export const DEFAULT_UPSTREAM_IDLE_TIMEOUT_MS = 600_000
 

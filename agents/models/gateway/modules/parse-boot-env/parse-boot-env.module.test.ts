@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import { DEFAULT_DOWNSTREAM_KEEPALIVE_MS } from "../keepalive/keepalive.module.code.ts"
-import { DEFAULT_UPSTREAM_IDLE_TIMEOUT_MS, parseBootEnv } from "./parse-boot-env.module.code.ts"
+import { DEFAULT_DOWNSTREAM_KEEPALIVE_MS } from "akasha/agents/models/gateway/modules/keepalive/keepalive.module.code.ts"
+import {
+  DEFAULT_UPSTREAM_IDLE_TIMEOUT_MS,
+  parseBootEnv,
+} from "akasha/agents/models/gateway/modules/parse-boot-env/parse-boot-env.module.code.ts"
 
 const REQUIRED = {
   OAUTH_PROXY_AGENT_ID: "agent-1",

@@ -1,12 +1,12 @@
 import { afterEach, beforeEach, expect, mock, spyOn, test } from "bun:test"
-import type { Forward } from "../forward/forward.module.code.ts"
-import type { OAuthCredential } from "../oauth-types/oauth-types.module.code.ts"
-import type { ObserverSlot } from "../observer-slot/observer-slot.module.code.ts"
+import type { Forward } from "akasha/agents/models/gateway/modules/forward/forward.module.code.ts"
+import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import type { ObserverSlot } from "akasha/agents/models/gateway/modules/observer-slot/observer-slot.module.code.ts"
 import {
   attemptServerErrorRetry,
   mayBeServerError,
   type ServerErrorRetryArgs,
-} from "./server-error-retry.module.code.ts"
+} from "akasha/agents/models/gateway/modules/server-error-retry/server-error-retry.module.code.ts"
 
 const OVERLOADED = JSON.stringify({
   type: "error",

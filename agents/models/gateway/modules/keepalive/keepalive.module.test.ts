@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { buildKeepaliveEmitter, type KeepaliveTimers } from "./keepalive.module.code.ts"
+import {
+  buildKeepaliveEmitter,
+  type KeepaliveTimers,
+} from "akasha/agents/models/gateway/modules/keepalive/keepalive.module.code.ts"
 
 const INTERVAL_MS = 3500
 

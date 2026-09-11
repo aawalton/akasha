@@ -3,7 +3,7 @@ import {
   buildInFlightTracker,
   type IdleReading,
   type IdleWaitTimers,
-} from "./in-flight.module.code.ts"
+} from "akasha/agents/models/gateway/modules/in-flight/in-flight.module.code.ts"
 
 type HeldTimers = {
   readonly timers: IdleWaitTimers

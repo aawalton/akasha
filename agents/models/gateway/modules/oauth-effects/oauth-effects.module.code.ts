@@ -1,7 +1,3 @@
-import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { saidBy } from "../../../../../utils/narrow/said-by/said-by.module.code.ts"
 import {
   atLimitMarks,
   type Given,
@@ -9,7 +5,7 @@ import {
   pacingMarks,
   subscriptionMarks,
   usageFrom,
-} from "../../../../claude-accounts/modules/marking/claude-account-marking.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
 import {
   decideUsageRepoll,
   INITIAL_REPOLL_GATE_STATE,
@@ -18,8 +14,8 @@ import {
   recordRepollAttempt,
   recordUsageRateLimited,
   USAGE_URL,
-} from "../../../../claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
-import { hoursUntilReset } from "../../../../claude-accounts/modules/pacing/claude-account-pacing.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
+import { hoursUntilReset } from "akasha/agents/claude-accounts/modules/pacing/claude-account-pacing.module.code.ts"
 import {
   type AccountCredential,
   type AccountState as AccountReading,
@@ -27,16 +23,20 @@ import {
   everyAccountStateIn,
   everyCredentialIn,
   type SecretsRead,
-} from "../../../../claude-accounts/modules/reading/claude-account-reading.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
 import {
   parseFutureIsoMs,
   selectBestAccount,
-} from "../../../../claude-accounts/modules/selection/claude-account-selection.module.code.ts"
+} from "akasha/agents/claude-accounts/modules/selection/claude-account-selection.module.code.ts"
 import type {
   AccountState,
   CredentialPick,
   OAuthCredential,
-} from "../oauth-types/oauth-types.module.code.ts"
+} from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 const RATE_LIMITED = 429
 

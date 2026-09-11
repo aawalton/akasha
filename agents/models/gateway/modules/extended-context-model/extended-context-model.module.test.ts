@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import { z } from "zod"
 import {
   asksExtendedContext,
   baseSiblingOf,
   EXTENDED_CONTEXT_MARKER,
   marksExtendedContext,
   rewrittenToBaseSibling,
-} from "./extended-context-model.module.code.ts"
+} from "akasha/agents/models/gateway/modules/extended-context-model/extended-context-model.module.code.ts"
+import { z } from "zod"
 
 const REWRITTEN_BODY = z.record(z.string(), z.unknown())
 

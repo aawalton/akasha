@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { classifyCommittedServed, mapStatusToSseError } from "./committed-outcome.module.code.ts"
+import {
+  classifyCommittedServed,
+  mapStatusToSseError,
+} from "akasha/agents/models/gateway/modules/committed-outcome/committed-outcome.module.code.ts"
 
 test("a status from 200 to 299 is spliced through", () => {
   for (const status of [200, 201, 202, 204, 250, 299]) {

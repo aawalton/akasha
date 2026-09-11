@@ -4,7 +4,7 @@ import {
   isPermissionDenied,
   PERMISSION_DENIED_STATUS,
   PERMISSION_ERROR_TYPE,
-} from "./permission-denied.module.code.ts"
+} from "akasha/agents/models/gateway/modules/permission-denied/permission-denied.module.code.ts"
 
 const DENIED_BODY = JSON.stringify({
   type: "error",

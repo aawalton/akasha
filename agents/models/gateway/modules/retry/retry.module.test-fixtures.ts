@@ -1,14 +1,14 @@
-import type { IdleResettable } from "../idle-timeout/idle-timeout.module.code.ts"
+import type { IdleResettable } from "akasha/agents/models/gateway/modules/idle-timeout/idle-timeout.module.code.ts"
 import {
   KEEPALIVE_COMMENT_BYTES,
   type KeepaliveTimers,
-} from "../keepalive/keepalive.module.code.ts"
+} from "akasha/agents/models/gateway/modules/keepalive/keepalive.module.code.ts"
 import {
   pullFirstChunkAndWrap,
   type StreamObserver,
   type TransportSleep,
   withTransportRetry,
-} from "./retry.module.code.ts"
+} from "akasha/agents/models/gateway/modules/retry/retry.module.code.ts"
 
 export const NEVER = 2_147_483_647
 

@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import { UPSTREAM_IDLE_TIMEOUT_TOKEN } from "../idle-timeout/idle-timeout.module.code.ts"
-import { isTransientTransportError, pullFirstChunkAndWrap } from "./retry.module.code.ts"
+import { UPSTREAM_IDLE_TIMEOUT_TOKEN } from "akasha/agents/models/gateway/modules/idle-timeout/idle-timeout.module.code.ts"
+import {
+  isTransientTransportError,
+  pullFirstChunkAndWrap,
+} from "akasha/agents/models/gateway/modules/retry/retry.module.code.ts"
 import {
   BROKE,
   boom,
@@ -23,7 +26,7 @@ import {
   socketError,
   sourceOf,
   tick,
-} from "./retry.module.test-fixtures.ts"
+} from "akasha/agents/models/gateway/modules/retry/retry.module.test-fixtures.ts"
 
 test("a transient transport error is a TypeError whose message holds a known phrase", () => {
   expect(isTransientTransportError(new TypeError("ECONNRESET while reading"))).toBe(true)

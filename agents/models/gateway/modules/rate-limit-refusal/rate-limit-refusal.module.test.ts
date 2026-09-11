@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { PoolSummary } from "../../../../claude-accounts/modules/selection/claude-account-selection.module.code.ts"
+import type { PoolSummary } from "akasha/agents/claude-accounts/modules/selection/claude-account-selection.module.code.ts"
 import {
   buildRateLimitRefusal,
   DEFAULT_RETRY_AFTER_SECONDS,
@@ -8,7 +8,7 @@ import {
   resetPhraseFor,
   retryAfterSecondsFor,
   UNKNOWN_RESET_PHRASE,
-} from "./rate-limit-refusal.module.code.ts"
+} from "akasha/agents/models/gateway/modules/rate-limit-refusal/rate-limit-refusal.module.code.ts"
 
 const NOW = 1_700_000_000_000
 

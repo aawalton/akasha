@@ -1,4 +1,4 @@
-import type { ModelFamily } from "../model-family.page-type.types.ts"
+import type { ModelFamily } from "akasha/agents/models/families/model-family.page-type.types.ts"
 
 export const fable = {
   id: "01a0535c-f2cf-76a6-9f82-8913de63ae7e",

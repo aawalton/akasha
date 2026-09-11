@@ -1,4 +1,4 @@
-import { parseErrorType } from "../parse-error-type/parse-error-type.module.code.ts"
+import { parseErrorType } from "akasha/agents/models/gateway/modules/parse-error-type/parse-error-type.module.code.ts"
 
 export type PeekedResponse = {
   readonly errorType: string | null

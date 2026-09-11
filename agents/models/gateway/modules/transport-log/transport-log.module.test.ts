@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import { existsSync, mkdtempSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { z } from "zod"
 import {
   buildShutdownFlushRegistry,
   buildStreamObserver,
@@ -10,7 +9,8 @@ import {
   recordTransportEvent,
   type TransportEvent,
   transportLogFlushed,
-} from "./transport-log.module.code.ts"
+} from "akasha/agents/models/gateway/modules/transport-log/transport-log.module.code.ts"
+import { z } from "zod"
 
 const SCRATCH_AT = "/var/tmp"
 

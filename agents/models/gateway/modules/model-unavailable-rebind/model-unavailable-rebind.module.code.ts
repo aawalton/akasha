@@ -2,9 +2,9 @@ import {
   classifyModelUnavailable,
   decideModelUnavailableAction,
   MODEL_UNAVAILABLE_STATUS,
-} from "../model-unavailable/model-unavailable.module.code.ts"
-import type { OAuthCredential } from "../oauth-types/oauth-types.module.code.ts"
-import { peekResponse } from "../peek-response/peek-response.module.code.ts"
+} from "akasha/agents/models/gateway/modules/model-unavailable/model-unavailable.module.code.ts"
+import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import { peekResponse } from "akasha/agents/models/gateway/modules/peek-response/peek-response.module.code.ts"
 
 export type ModelUnavailableRebindOutcome =
   | { kind: "response"; response: Response }

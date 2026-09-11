@@ -1,7 +1,10 @@
-import type { Forward } from "../forward/forward.module.code.ts"
-import type { OAuthCredential } from "../oauth-types/oauth-types.module.code.ts"
-import type { ObserverSlot } from "../observer-slot/observer-slot.module.code.ts"
-import type { AccountWalkArgs, AccountWalkSeams } from "./account-walk.module.code.ts"
+import type {
+  AccountWalkArgs,
+  AccountWalkSeams,
+} from "akasha/agents/models/gateway/modules/account-walk/account-walk.module.code.ts"
+import type { Forward } from "akasha/agents/models/gateway/modules/forward/forward.module.code.ts"
+import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import type { ObserverSlot } from "akasha/agents/models/gateway/modules/observer-slot/observer-slot.module.code.ts"
 
 export type Said = {
   readonly output: string[]

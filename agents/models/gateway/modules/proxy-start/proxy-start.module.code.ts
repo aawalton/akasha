@@ -1,5 +1,5 @@
-import type { RefreshOutcome } from "../../../../claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
-import type { OAuthEffects } from "../oauth-effects/oauth-effects.module.code.ts"
+import type { RefreshOutcome } from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
+import type { OAuthEffects } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 
 export type OAuthProxy = {
   readonly port: number

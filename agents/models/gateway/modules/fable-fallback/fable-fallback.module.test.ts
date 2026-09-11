@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { FABLE_MODEL_PREFIX, isFableRequest } from "./fable-fallback.module.code.ts"
+import {
+  FABLE_MODEL_PREFIX,
+  isFableRequest,
+} from "akasha/agents/models/gateway/modules/fable-fallback/fable-fallback.module.code.ts"
 
 function bodyOf(text: string): ArrayBuffer {
   const bytes = new TextEncoder().encode(text)

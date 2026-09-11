@@ -1,13 +1,13 @@
 import { afterEach, beforeEach, expect, mock, spyOn, test } from "bun:test"
-import { buildHoldRegistry } from "../hold-registry/hold-registry.module.code.ts"
-import type { KeepaliveTimers } from "../keepalive/keepalive.module.code.ts"
-import type { ObserverSlot } from "../observer-slot/observer-slot.module.code.ts"
-import type { QueueOutcome } from "../pre-forward-queue/pre-forward-queue.module.code.ts"
 import {
   buildCommittedKeepaliveResponse,
   type CommittedKeepaliveArgs,
   DEFAULT_HOLD_POLL_MS,
-} from "./committed-keepalive.module.code.ts"
+} from "akasha/agents/models/gateway/modules/committed-keepalive/committed-keepalive.module.code.ts"
+import { buildHoldRegistry } from "akasha/agents/models/gateway/modules/hold-registry/hold-registry.module.code.ts"
+import type { KeepaliveTimers } from "akasha/agents/models/gateway/modules/keepalive/keepalive.module.code.ts"
+import type { ObserverSlot } from "akasha/agents/models/gateway/modules/observer-slot/observer-slot.module.code.ts"
+import type { QueueOutcome } from "akasha/agents/models/gateway/modules/pre-forward-queue/pre-forward-queue.module.code.ts"
 
 const HELD_FOREVER: QueueOutcome = {
   kind: "empty-pool",

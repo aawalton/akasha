@@ -9,7 +9,7 @@ import {
   SEVEN_DAY_STATUS_HEADER,
   STATUS_ALLOWED,
   STATUS_REJECTED,
-} from "./capacity-classification.module.code.ts"
+} from "akasha/agents/models/gateway/modules/capacity-classification/capacity-classification.module.code.ts"
 
 const headersOf = (entries: Record<string, string>): Headers => new Headers(entries)
 

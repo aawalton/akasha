@@ -1,5 +1,5 @@
+import { ANTHROPIC_ERROR_ENVELOPE_SCHEMA } from "akasha/agents/models/gateway/modules/anthropic-error-envelope/anthropic-error-envelope.module.code.ts"
 import { z } from "zod"
-import { ANTHROPIC_ERROR_ENVELOPE_SCHEMA } from "../anthropic-error-envelope/anthropic-error-envelope.module.code.ts"
 
 export const FORCED_TOOL_CHOICE_STATUS = 400
 

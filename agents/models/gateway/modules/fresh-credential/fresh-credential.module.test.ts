@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import type { OAuthCredential } from "../oauth-types/oauth-types.module.code.ts"
 import {
   behindLine,
   expiredLine,
   type FreshCredentialSeams,
   freshCredentialIn,
-} from "./fresh-credential.module.code.ts"
+} from "akasha/agents/models/gateway/modules/fresh-credential/fresh-credential.module.code.ts"
+import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 
 const PREFIX = "[oauth-proxy]"
 

@@ -1,7 +1,10 @@
+import type {
+  StreamClock,
+  StreamObserver,
+} from "akasha/agents/models/gateway/modules/retry/retry.module.code.ts"
 import { type Queue, queueAt } from "akasha/pages/entry-queue/page-entry-queue.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 import { z } from "zod"
-import { saidBy } from "../../../../../utils/narrow/said-by/said-by.module.code.ts"
-import type { StreamClock, StreamObserver } from "../retry/retry.module.code.ts"
 
 const TRANSPORT_PROPERTY_SLUG = "transport"
 

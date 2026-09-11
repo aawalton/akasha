@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { copyRequestHeaders, copyResponseHeaders } from "./proxy-headers.module.code.ts"
+import {
+  copyRequestHeaders,
+  copyResponseHeaders,
+} from "akasha/agents/models/gateway/modules/proxy-headers/proxy-headers.module.code.ts"
 
 const HOP_BY_HOP_HEADERS = [
   "connection",

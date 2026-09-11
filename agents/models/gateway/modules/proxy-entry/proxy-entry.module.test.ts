@@ -6,7 +6,7 @@ import {
   CONSOLE_SOURCE,
   consoleSentTo,
   processSeams,
-} from "./proxy-entry.module.code.ts"
+} from "akasha/agents/models/gateway/modules/proxy-entry/proxy-entry.module.code.ts"
 
 const SCRATCH = "/var/tmp"
 

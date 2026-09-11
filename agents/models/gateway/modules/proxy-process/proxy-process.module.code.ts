@@ -1,9 +1,12 @@
-import { saidBy } from "../../../../../utils/narrow/said-by/said-by.module.code.ts"
 import {
   type OAuthProxyBootEnv,
   parseBootEnv,
-} from "../parse-boot-env/parse-boot-env.module.code.ts"
-import type { OAuthProxy, StartOAuthProxyOptions } from "../proxy-start/proxy-start.module.code.ts"
+} from "akasha/agents/models/gateway/modules/parse-boot-env/parse-boot-env.module.code.ts"
+import type {
+  OAuthProxy,
+  StartOAuthProxyOptions,
+} from "akasha/agents/models/gateway/modules/proxy-start/proxy-start.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export const LOG_PREFIX = "[oauth-proxy]"
 

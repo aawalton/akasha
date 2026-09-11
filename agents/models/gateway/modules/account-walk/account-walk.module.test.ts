@@ -1,5 +1,5 @@
 import { afterEach, beforeEach, expect, mock, spyOn, test } from "bun:test"
-import { runAccountWalk } from "./account-walk.module.code.ts"
+import { runAccountWalk } from "akasha/agents/models/gateway/modules/account-walk/account-walk.module.code.ts"
 import {
   bodyOf,
   buildHarness,
@@ -10,7 +10,7 @@ import {
   overloaded,
   permissionDenied,
   unauthorized,
-} from "./account-walk.module.test-fixtures.ts"
+} from "akasha/agents/models/gateway/modules/account-walk/account-walk.module.test-fixtures.ts"
 
 const SAID: { output: string[]; error: string[]; warn: string[] } = {
   output: [],

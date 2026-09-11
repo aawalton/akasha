@@ -6,7 +6,7 @@ import {
   RESET_PROBE_MARGIN_MS,
   SILENT_QUEUE_BUDGET_MS,
   TRANSIENT_HOLD_HORIZON_MS,
-} from "./queue-step.module.code.ts"
+} from "akasha/agents/models/gateway/modules/queue-step/queue-step.module.code.ts"
 
 const NOW = 1_000_000
 

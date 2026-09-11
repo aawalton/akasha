@@ -1,9 +1,9 @@
 import { afterEach, beforeEach, expect, mock, spyOn, test } from "bun:test"
-import type { OAuthCredential } from "../oauth-types/oauth-types.module.code.ts"
 import {
   attemptModelUnavailableRebind,
   type ModelUnavailableRebindArgs,
-} from "./model-unavailable-rebind.module.code.ts"
+} from "akasha/agents/models/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.code.ts"
+import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 
 const MISSING = JSON.stringify({
   type: "error",

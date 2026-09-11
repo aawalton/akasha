@@ -1,5 +1,4 @@
 import { afterEach, beforeEach, describe, expect, mock, spyOn, test } from "bun:test"
-import { z } from "zod"
 import {
   AUTO_TOOL_CHOICE,
   attemptForcedToolChoiceRewrite,
@@ -7,7 +6,8 @@ import {
   type ForcedToolChoiceArgs,
   isForcedToolChoiceRejection,
   rewrittenToAutoToolChoice,
-} from "./forced-tool-choice.module.code.ts"
+} from "akasha/agents/models/gateway/modules/forced-tool-choice/forced-tool-choice.module.code.ts"
+import { z } from "zod"
 
 const REWRITTEN_BODY = z.record(z.string(), z.unknown())
 

@@ -1,9 +1,9 @@
 import { afterEach, beforeEach, expect, mock, spyOn, test } from "bun:test"
-import type { OAuthCredential } from "../oauth-types/oauth-types.module.code.ts"
+import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import {
   attemptPermissionDeniedRebind,
   type PermissionDeniedRebindArgs,
-} from "./permission-denied-rebind.module.code.ts"
+} from "akasha/agents/models/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.code.ts"
 
 const DENIED = JSON.stringify({
   type: "error",

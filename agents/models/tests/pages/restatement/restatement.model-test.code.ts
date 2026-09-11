@@ -1,4 +1,4 @@
-import { restatement as test } from "./restatement.model-test.ts"
+import { restatement as test } from "akasha/agents/models/tests/pages/restatement/restatement.model-test.ts"
 
 export type Judging = {
   readonly slug: string

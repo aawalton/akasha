@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   ANTHROPIC_ERROR_ENVELOPE_SCHEMA,
   parseAnthropicErrorEnvelope,
-} from "./anthropic-error-envelope.module.code.ts"
+} from "akasha/agents/models/gateway/modules/anthropic-error-envelope/anthropic-error-envelope.module.code.ts"
 
 const ENVELOPE = '{"type":"error","error":{"type":"permission_error","message":"nope"}}'
 

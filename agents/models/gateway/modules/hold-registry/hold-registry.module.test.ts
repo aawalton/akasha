@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { buildHoldRegistry, type HoldHandle } from "./hold-registry.module.code.ts"
+import {
+  buildHoldRegistry,
+  type HoldHandle,
+} from "akasha/agents/models/gateway/modules/hold-registry/hold-registry.module.code.ts"
 
 const START_MS = 1_000
 

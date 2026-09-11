@@ -1,4 +1,4 @@
-import { ANTHROPIC_ERROR_ENVELOPE_SCHEMA } from "../anthropic-error-envelope/anthropic-error-envelope.module.code.ts"
+import { ANTHROPIC_ERROR_ENVELOPE_SCHEMA } from "akasha/agents/models/gateway/modules/anthropic-error-envelope/anthropic-error-envelope.module.code.ts"
 
 export const PERMISSION_DENIED_STATUS = 403
 

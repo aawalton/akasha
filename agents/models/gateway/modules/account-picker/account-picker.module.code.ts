@@ -1,4 +1,4 @@
-import type { OAuthEffects } from "../oauth-effects/oauth-effects.module.code.ts"
+import type { OAuthEffects } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 
 export type PickResult = { readonly account: string }
 

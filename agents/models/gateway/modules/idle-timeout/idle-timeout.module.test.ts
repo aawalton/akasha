@@ -5,7 +5,7 @@ import {
   type IdleFetch,
   type IdleTimers,
   UPSTREAM_IDLE_TIMEOUT_TOKEN,
-} from "./idle-timeout.module.code.ts"
+} from "akasha/agents/models/gateway/modules/idle-timeout/idle-timeout.module.code.ts"
 
 const IDLE_MS = 2_000
 

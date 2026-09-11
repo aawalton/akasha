@@ -1,4 +1,4 @@
-import type { ObserverSlot } from "../observer-slot/observer-slot.module.code.ts"
+import type { ObserverSlot } from "akasha/agents/models/gateway/modules/observer-slot/observer-slot.module.code.ts"
 
 export const BAD_GATEWAY = 502
 

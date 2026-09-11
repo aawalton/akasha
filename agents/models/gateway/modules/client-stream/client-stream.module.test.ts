@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { parseClientStreamFlag } from "./client-stream.module.code.ts"
+import { parseClientStreamFlag } from "akasha/agents/models/gateway/modules/client-stream/client-stream.module.code.ts"
 
 function bodyOf(text: string): ArrayBuffer {
   const bytes = new TextEncoder().encode(text)

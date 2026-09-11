@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import { buildStreamObserver } from "../transport-log/transport-log.module.code.ts"
-import { buildEndInFlightOnce, type ObserverSlot } from "./observer-slot.module.code.ts"
+import {
+  buildEndInFlightOnce,
+  type ObserverSlot,
+} from "akasha/agents/models/gateway/modules/observer-slot/observer-slot.module.code.ts"
+import { buildStreamObserver } from "akasha/agents/models/gateway/modules/transport-log/transport-log.module.code.ts"
 
 const START_MS = 1_700_000_000_000
 

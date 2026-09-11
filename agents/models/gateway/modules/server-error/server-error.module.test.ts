@@ -9,7 +9,7 @@ import {
   RATE_LIMIT_STATUS,
   SERVER_ERROR_BACKOFF_MS,
   serverErrorBackoffMs,
-} from "./server-error.module.code.ts"
+} from "akasha/agents/models/gateway/modules/server-error/server-error.module.code.ts"
 
 const NO_ENVELOPE = "upstream said nothing parseable"
 

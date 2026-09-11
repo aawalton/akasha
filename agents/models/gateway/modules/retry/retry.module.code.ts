@@ -1,14 +1,14 @@
 import {
   type IdleResettable,
   UPSTREAM_IDLE_TIMEOUT_TOKEN,
-} from "../idle-timeout/idle-timeout.module.code.ts"
+} from "akasha/agents/models/gateway/modules/idle-timeout/idle-timeout.module.code.ts"
 import {
   buildKeepaliveEmitter,
   KEEPALIVE_COMMENT_BYTES,
   type KeepaliveEmitter,
   type KeepaliveOptions,
-} from "../keepalive/keepalive.module.code.ts"
-import { buildAnthropicSseErrorFrame } from "../sse-error-frame/sse-error-frame.module.code.ts"
+} from "akasha/agents/models/gateway/modules/keepalive/keepalive.module.code.ts"
+import { buildAnthropicSseErrorFrame } from "akasha/agents/models/gateway/modules/sse-error-frame/sse-error-frame.module.code.ts"
 
 export const TRANSPORT_RETRY_BACKOFF_MS = [200, 800] as const
 

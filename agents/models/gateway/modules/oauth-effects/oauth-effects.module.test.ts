@@ -5,7 +5,7 @@ import {
   oauthEffectsIn,
   pacingIn,
   pacingOf,
-} from "./oauth-effects.module.code.ts"
+} from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import {
   accountWritten,
   besideHeld,
@@ -22,7 +22,7 @@ import {
   tokenHanded,
   usageBody,
   worldMade,
-} from "./oauth-effects.module.test-fixtures.ts"
+} from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts"
 
 afterAll(sweep)
 

@@ -1,4 +1,4 @@
-import type { ArmableStreamObserver } from "../transport-log/transport-log.module.code.ts"
+import type { ArmableStreamObserver } from "akasha/agents/models/gateway/modules/transport-log/transport-log.module.code.ts"
 
 export type ObserverSlot = {
   current: ArmableStreamObserver | null

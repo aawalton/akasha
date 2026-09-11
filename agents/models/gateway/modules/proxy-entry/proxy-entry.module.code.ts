@@ -1,4 +1,13 @@
 import { join } from "node:path"
+import {
+  type ProcessDoors,
+  runGatewayProcess,
+} from "akasha/agents/models/gateway/modules/proxy-process/proxy-process.module.code.ts"
+import {
+  SURFACE,
+  startOAuthProxy,
+} from "akasha/agents/models/gateway/modules/proxy-serving/proxy-serving.module.code.ts"
+import { transportLogFlushed } from "akasha/agents/models/gateway/modules/transport-log/transport-log.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   clearProxyState,
@@ -11,9 +20,6 @@ import {
   seatPageSink,
 } from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
 import { supervisorSocketPath } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
-import { type ProcessDoors, runGatewayProcess } from "../proxy-process/proxy-process.module.code.ts"
-import { SURFACE, startOAuthProxy } from "../proxy-serving/proxy-serving.module.code.ts"
-import { transportLogFlushed } from "../transport-log/transport-log.module.code.ts"
 
 export const CONSOLE_SOURCE = "oauth-proxy-console"
 

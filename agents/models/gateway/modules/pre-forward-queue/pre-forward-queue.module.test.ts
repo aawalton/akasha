@@ -1,10 +1,6 @@
 import { expect, test } from "bun:test"
-import type { PoolSummary } from "../../../../claude-accounts/modules/selection/claude-account-selection.module.code.ts"
-import type { AccountState } from "../oauth-types/oauth-types.module.code.ts"
-import {
-  RESET_PROBE_MARGIN_MS,
-  SILENT_QUEUE_BUDGET_MS,
-} from "../queue-step/queue-step.module.code.ts"
+import type { PoolSummary } from "akasha/agents/claude-accounts/modules/selection/claude-account-selection.module.code.ts"
+import type { AccountState } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import {
   ceilingLine,
   ceilingSaid,
@@ -17,7 +13,11 @@ import {
   runPreForwardQueue,
   TURN_CEILING_SAID,
   waitLine,
-} from "./pre-forward-queue.module.code.ts"
+} from "akasha/agents/models/gateway/modules/pre-forward-queue/pre-forward-queue.module.code.ts"
+import {
+  RESET_PROBE_MARGIN_MS,
+  SILENT_QUEUE_BUDGET_MS,
+} from "akasha/agents/models/gateway/modules/queue-step/queue-step.module.code.ts"
 
 const RIG_TURN_GUARD = 200
 

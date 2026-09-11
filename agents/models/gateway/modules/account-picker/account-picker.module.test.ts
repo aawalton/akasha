@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import type { OAuthEffects } from "../oauth-effects/oauth-effects.module.code.ts"
-import type { CredentialPick } from "../oauth-types/oauth-types.module.code.ts"
 import {
   bindLine,
   buildAccountPicker,
   excludesFrom,
   type PickerDoors,
-} from "./account-picker.module.code.ts"
+} from "akasha/agents/models/gateway/modules/account-picker/account-picker.module.code.ts"
+import type { OAuthEffects } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import type { CredentialPick } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 
 const PREFIX = "[gw]"
 

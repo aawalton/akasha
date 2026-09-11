@@ -1,9 +1,9 @@
 import { afterEach, beforeEach, describe, expect, mock, spyOn, test } from "bun:test"
-import type { OAuthCredential } from "../oauth-types/oauth-types.module.code.ts"
 import {
   type AuthFailedRetryArgs,
   attemptAuthFailedRetry,
-} from "./auth-failed-retry.module.code.ts"
+} from "akasha/agents/models/gateway/modules/auth-failed-retry/auth-failed-retry.module.code.ts"
+import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 
 const BODY = '{"error":{"type":"authentication_error"}}'
 

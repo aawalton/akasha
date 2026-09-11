@@ -1,5 +1,11 @@
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import type {
+  Doors,
+  UsageRead,
+} from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import {
   listedFiled,
   pageFiled,
@@ -7,9 +13,6 @@ import {
   valueAlsoFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import { scratchWorld } from "../../../../../commands/modules/scratching/scratching.module.code.ts"
-import type { OAuthCredential } from "../oauth-types/oauth-types.module.code.ts"
-import type { Doors, UsageRead } from "./oauth-effects.module.code.ts"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 

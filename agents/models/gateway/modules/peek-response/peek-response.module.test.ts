@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { peekResponse } from "./peek-response.module.code.ts"
+import { peekResponse } from "akasha/agents/models/gateway/modules/peek-response/peek-response.module.code.ts"
 
 const ERROR_BODY = '{"error":{"type":"overloaded_error"}}'
 

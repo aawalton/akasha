@@ -1,15 +1,15 @@
-import type { Forward } from "../forward/forward.module.code.ts"
-import type { OAuthCredential } from "../oauth-types/oauth-types.module.code.ts"
-import type { ObserverSlot } from "../observer-slot/observer-slot.module.code.ts"
-import { peekResponse } from "../peek-response/peek-response.module.code.ts"
-import { withTransportRetry } from "../retry/retry.module.code.ts"
+import type { Forward } from "akasha/agents/models/gateway/modules/forward/forward.module.code.ts"
+import type { OAuthCredential } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import type { ObserverSlot } from "akasha/agents/models/gateway/modules/observer-slot/observer-slot.module.code.ts"
+import { peekResponse } from "akasha/agents/models/gateway/modules/peek-response/peek-response.module.code.ts"
+import { withTransportRetry } from "akasha/agents/models/gateway/modules/retry/retry.module.code.ts"
 import {
   classifyServerError,
   OVERLOADED_STATUS,
   RATE_LIMIT_STATUS,
   SERVER_ERROR_BACKOFF_MS,
   serverErrorBackoffMs,
-} from "../server-error/server-error.module.code.ts"
+} from "akasha/agents/models/gateway/modules/server-error/server-error.module.code.ts"
 
 const RETRIABLE_STATUSES: ReadonlySet<number> = new Set([
   RATE_LIMIT_STATUS,

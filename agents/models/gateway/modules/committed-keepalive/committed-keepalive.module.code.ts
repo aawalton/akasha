@@ -1,25 +1,25 @@
 import {
   classifyCommittedServed,
   mapStatusToSseError,
-} from "../committed-outcome/committed-outcome.module.code.ts"
-import type { HoldRegistry } from "../hold-registry/hold-registry.module.code.ts"
+} from "akasha/agents/models/gateway/modules/committed-outcome/committed-outcome.module.code.ts"
+import type { HoldRegistry } from "akasha/agents/models/gateway/modules/hold-registry/hold-registry.module.code.ts"
 import {
   buildKeepaliveEmitter,
   DEFAULT_DOWNSTREAM_KEEPALIVE_MS,
   KEEPALIVE_COMMENT_BYTES,
   type KeepaliveEmitter,
   type KeepaliveTimers,
-} from "../keepalive/keepalive.module.code.ts"
-import type { ObserverSlot } from "../observer-slot/observer-slot.module.code.ts"
-import type { QueueOutcome } from "../pre-forward-queue/pre-forward-queue.module.code.ts"
-import { buildAnthropicSseErrorFrame } from "../sse-error-frame/sse-error-frame.module.code.ts"
+} from "akasha/agents/models/gateway/modules/keepalive/keepalive.module.code.ts"
+import type { ObserverSlot } from "akasha/agents/models/gateway/modules/observer-slot/observer-slot.module.code.ts"
+import type { QueueOutcome } from "akasha/agents/models/gateway/modules/pre-forward-queue/pre-forward-queue.module.code.ts"
+import { buildAnthropicSseErrorFrame } from "akasha/agents/models/gateway/modules/sse-error-frame/sse-error-frame.module.code.ts"
 import {
   buildStreamObserver,
   buildTransportEvent,
   type ObservedStreamState,
   recordTransportEvent,
   type TransportLogAt,
-} from "../transport-log/transport-log.module.code.ts"
+} from "akasha/agents/models/gateway/modules/transport-log/transport-log.module.code.ts"
 
 export const DEFAULT_HOLD_POLL_MS = 2000
 

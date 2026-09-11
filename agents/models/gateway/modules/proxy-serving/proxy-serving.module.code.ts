@@ -1,35 +1,53 @@
 import { mkdirSync, rmSync } from "node:fs"
 import { dirname } from "node:path"
-import type { Server } from "bun"
-import { saidBy } from "../../../../../utils/narrow/said-by/said-by.module.code.ts"
-import { buildAccountPicker } from "../account-picker/account-picker.module.code.ts"
-import { type AccountWalkSeams, runAccountWalk } from "../account-walk/account-walk.module.code.ts"
-import { bindWithRetry } from "../bind-with-retry/bind-with-retry.module.code.ts"
-import { buildCommittedKeepaliveResponse } from "../committed-keepalive/committed-keepalive.module.code.ts"
-import { buildForward, type Forward } from "../forward/forward.module.code.ts"
-import { freshCredentialIn } from "../fresh-credential/fresh-credential.module.code.ts"
-import { buildHoldRegistry, type HoldRegistry } from "../hold-registry/hold-registry.module.code.ts"
-import type { IdleFetch, IdleTimers } from "../idle-timeout/idle-timeout.module.code.ts"
-import { buildInFlightTracker } from "../in-flight/in-flight.module.code.ts"
+import { buildAccountPicker } from "akasha/agents/models/gateway/modules/account-picker/account-picker.module.code.ts"
+import {
+  type AccountWalkSeams,
+  runAccountWalk,
+} from "akasha/agents/models/gateway/modules/account-walk/account-walk.module.code.ts"
+import { bindWithRetry } from "akasha/agents/models/gateway/modules/bind-with-retry/bind-with-retry.module.code.ts"
+import { buildCommittedKeepaliveResponse } from "akasha/agents/models/gateway/modules/committed-keepalive/committed-keepalive.module.code.ts"
+import {
+  buildForward,
+  type Forward,
+} from "akasha/agents/models/gateway/modules/forward/forward.module.code.ts"
+import { freshCredentialIn } from "akasha/agents/models/gateway/modules/fresh-credential/fresh-credential.module.code.ts"
+import {
+  buildHoldRegistry,
+  type HoldRegistry,
+} from "akasha/agents/models/gateway/modules/hold-registry/hold-registry.module.code.ts"
+import type {
+  IdleFetch,
+  IdleTimers,
+} from "akasha/agents/models/gateway/modules/idle-timeout/idle-timeout.module.code.ts"
+import { buildInFlightTracker } from "akasha/agents/models/gateway/modules/in-flight/in-flight.module.code.ts"
 import {
   buildMessageHandler,
   type MessageTurn,
-} from "../message-handler/message-handler.module.code.ts"
-import { type OAuthEffects, oauthEffectsIn } from "../oauth-effects/oauth-effects.module.code.ts"
+} from "akasha/agents/models/gateway/modules/message-handler/message-handler.module.code.ts"
+import {
+  type OAuthEffects,
+  oauthEffectsIn,
+} from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import {
   buildEndInFlightOnce,
   type ObserverSlot,
-} from "../observer-slot/observer-slot.module.code.ts"
+} from "akasha/agents/models/gateway/modules/observer-slot/observer-slot.module.code.ts"
 import {
   type QueueOutcome,
   runPreForwardQueue,
-} from "../pre-forward-queue/pre-forward-queue.module.code.ts"
-import type { OAuthProxy, StartOAuthProxyOptions } from "../proxy-start/proxy-start.module.code.ts"
-import { rateLimitResponse } from "../rate-limit-refusal/rate-limit-refusal.module.code.ts"
+} from "akasha/agents/models/gateway/modules/pre-forward-queue/pre-forward-queue.module.code.ts"
+import type {
+  OAuthProxy,
+  StartOAuthProxyOptions,
+} from "akasha/agents/models/gateway/modules/proxy-start/proxy-start.module.code.ts"
+import { rateLimitResponse } from "akasha/agents/models/gateway/modules/rate-limit-refusal/rate-limit-refusal.module.code.ts"
 import {
   buildShutdownFlushRegistry,
   type TransportLogAt,
-} from "../transport-log/transport-log.module.code.ts"
+} from "akasha/agents/models/gateway/modules/transport-log/transport-log.module.code.ts"
+import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
+import type { Server } from "bun"
 
 export const DEFAULT_LOG_PREFIX = "[oauth-proxy]"
 

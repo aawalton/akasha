@@ -4,7 +4,7 @@ import {
   type ProxySeatAgent,
   type ProxySeatState,
   seatsNewestFirst,
-} from "./proxy-seats.module.code.ts"
+} from "akasha/agents/models/gateway/modules/proxy-seats/proxy-seats.module.code.ts"
 
 function agent(id: string, activeAtMs: number, name: string | null = id): ProxySeatAgent {
   return { id, name, activeAtMs }
