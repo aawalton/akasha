@@ -11,7 +11,8 @@ export type Reading = {
 
 export type Filing = {
   readonly at: string
-  readonly lines: readonly string[]
+  readonly came: readonly string[]
+  readonly went: readonly string[]
 }
 
 export type Schema = {

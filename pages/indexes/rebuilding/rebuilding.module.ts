@@ -48,6 +48,19 @@ export const rebuilding = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An entry file a filing names is written by laying that filing over what is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line withdrawn that the file does not hold leaves that file as it was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line coming that the file already holds is held once.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file the pages no longer imply is found by walking the index.",
     },
     {

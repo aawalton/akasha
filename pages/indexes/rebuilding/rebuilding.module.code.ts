@@ -9,7 +9,7 @@ import {
 } from "node:fs"
 import { basename, dirname, join } from "node:path"
 import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import type { Filing } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Filing, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { INDEX_AT, indexAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { walkedUnder } from "akasha/pages/indexes/tree-reading/tree-reading.module.code.ts"
 import { textThere } from "akasha/utils/fs/text-there/text-there.module.code.ts"
@@ -20,10 +20,14 @@ export function wholeOf(lines: readonly string[]): string {
   return `${lines.join("\n")}\n`
 }
 
-export function bodiesFrom(filings: readonly Filing[]): ReadonlyMap<string, string | null> {
+export function bodiesFrom(
+  reading: Reading,
+  filings: readonly Filing[]
+): ReadonlyMap<string, string | null> {
   const held = new Map<string, string | null>()
   for (const one of filings) {
-    held.set(indexAt(one.at), one.lines.length === 0 ? null : wholeOf(one.lines))
+    const lines = reading.lines(one.at)
+    held.set(indexAt(one.at), lines.length === 0 ? null : wholeOf(lines))
   }
   return held
 }
@@ -56,6 +60,21 @@ export function keepWhole(at: string, lines: readonly string[], root: string): u
   const near = `${at}.${process.pid}.part`
   writeFileSync(near, wholeOf(lines))
   renameSync(near, at)
+}
+
+export function keepDelta(at: string, one: Filing, root: string): undefined {
+  const was = textThere(at)
+  const gone = new Set(one.went)
+  const coming = new Set(one.came)
+  const said: string[] = []
+  for (const line of (was ?? "").split("\n")) {
+    if (line === "" || gone.has(line) || coming.has(line)) continue
+    said.push(line)
+  }
+  for (const line of coming) said.push(line)
+  const lines = said.sort()
+  if (was === (lines.length === 0 ? null : wholeOf(lines))) return
+  keepWhole(at, lines, root)
 }
 
 export function sweptBeside(root: string, put: boolean): readonly string[] {

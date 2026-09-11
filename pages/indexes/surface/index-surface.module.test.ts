@@ -64,7 +64,11 @@ test("an entry file is read off the disk each time rather than held in memory", 
 test("a file the change touches answers its own lines, and every other file answers the index", () => {
   const under = readingAt(seeded())
   const reading = overlaidOn(under, [
-    { at: "import/path/akasha/held.ts.jsonl", lines: ['{"path":"one"}', '{"path":"three"}'] },
+    {
+      at: "import/path/akasha/held.ts.jsonl",
+      came: ['{"path":"three"}'],
+      went: ['{"path":"two"}'],
+    },
   ])
   expect(reading.lines("import/path/akasha/held.ts.jsonl")).toEqual([
     '{"path":"one"}',
@@ -79,7 +83,7 @@ test("a file the change touches answers its own lines, and every other file answ
 
 test("a file the change adds stands and lists, and the directories above it are listed too", () => {
   const reading = overlaidOn(readingAt(seeded()), [
-    { at: "identity/module/slug/new.jsonl", lines: ['{"slug":"new"}'] },
+    { at: "identity/module/slug/new.jsonl", came: ['{"slug":"new"}'], went: [] },
   ])
   expect(reading.holds("identity/module/slug/new.jsonl")).toBe(true)
   expect(namesIn(reading.listing("identity"))).toEqual(["domain", "module", "page"])
@@ -88,7 +92,9 @@ test("a file the change adds stands and lists, and the directories above it are 
 })
 
 test("a file the change empties does not stand and is not listed", () => {
-  const reading = overlaidOn(readingAt(seeded()), [{ at: "identity/page/id/one.jsonl", lines: [] }])
+  const reading = overlaidOn(readingAt(seeded()), [
+    { at: "identity/page/id/one.jsonl", came: [], went: ['{"id":"one"}'] },
+  ])
   expect(reading.holds("identity/page/id/one.jsonl")).toBe(false)
   expect(reading.lines("identity/page/id/one.jsonl")).toEqual([])
   expect(namesIn(reading.listing("identity/page/id"))).toEqual(["two.jsonl"])
@@ -96,7 +102,7 @@ test("a file the change empties does not stand and is not listed", () => {
 
 test("a directory left with nothing standing under it is not listed", () => {
   const reading = overlaidOn(readingAt(seeded()), [
-    { at: "identity/domain/slug/a.jsonl", lines: [] },
+    { at: "identity/domain/slug/a.jsonl", came: [], went: ['{"slug":"a"}'] },
   ])
   expect(namesIn(reading.listing("identity"))).toEqual(["page"])
   expect(reading.holds("identity/domain")).toBe(false)
@@ -104,15 +110,17 @@ test("a directory left with nothing standing under it is not listed", () => {
 })
 
 test("a directory keeping one file standing is still listed", () => {
-  const reading = overlaidOn(readingAt(seeded()), [{ at: "identity/page/id/one.jsonl", lines: [] }])
+  const reading = overlaidOn(readingAt(seeded()), [
+    { at: "identity/page/id/one.jsonl", came: [], went: ['{"id":"one"}'] },
+  ])
   expect(namesIn(reading.listing("identity"))).toEqual(["domain", "page"])
   expect(reading.holds("identity/page/id")).toBe(true)
 })
 
 test("a directory emptied and filled again in one change is listed", () => {
   const reading = overlaidOn(readingAt(seeded()), [
-    { at: "identity/domain/slug/a.jsonl", lines: [] },
-    { at: "identity/domain/slug/b.jsonl", lines: ['{"slug":"b"}'] },
+    { at: "identity/domain/slug/a.jsonl", came: [], went: ['{"slug":"a"}'] },
+    { at: "identity/domain/slug/b.jsonl", came: ['{"slug":"b"}'], went: [] },
   ])
   expect(namesIn(reading.listing("identity/domain/slug"))).toEqual(["b.jsonl"])
   expect(reading.holds("identity/domain")).toBe(true)
@@ -120,9 +128,9 @@ test("a directory emptied and filled again in one change is listed", () => {
 
 test("a walk over the laid reading answers what the change leaves and nothing else", () => {
   const reading = overlaidOn(readingAt(seeded()), [
-    { at: "identity/domain/slug/a.jsonl", lines: [] },
-    { at: "identity/module/slug/new.jsonl", lines: ['{"slug":"new"}'] },
-    { at: "import/path/akasha/held.ts.jsonl", lines: ['{"path":"one"}'] },
+    { at: "identity/domain/slug/a.jsonl", came: [], went: ['{"slug":"a"}'] },
+    { at: "identity/module/slug/new.jsonl", came: ['{"slug":"new"}'], went: [] },
+    { at: "import/path/akasha/held.ts.jsonl", came: [], went: ['{"path":"two"}'] },
   ])
   expect(everythingUnder(reading, "")).toEqual([
     "identity/module/slug/new.jsonl",
@@ -140,11 +148,11 @@ test("a reading laid over another with nothing to lay answers what stands under 
 })
 
 const ACTS = [
-  { at: "identity/domain/slug/a.jsonl", lines: [] },
-  { at: "identity/module/slug/new.jsonl", lines: ['{"slug":"new"}'] },
-  { at: "identity/page/id/one.jsonl", lines: ['{"id":"held"}'] },
-  { at: "identity/module/slug/new.jsonl", lines: [] },
-  { at: "identity/domain/slug/a.jsonl", lines: ['{"slug":"again"}'] },
+  { at: "identity/domain/slug/a.jsonl", came: [], went: ['{"slug":"a"}'] },
+  { at: "identity/module/slug/new.jsonl", came: ['{"slug":"new"}'], went: [] },
+  { at: "identity/page/id/one.jsonl", came: ['{"id":"held"}'], went: ['{"id":"one"}'] },
+  { at: "identity/module/slug/new.jsonl", came: [], went: ['{"slug":"new"}'] },
+  { at: "identity/domain/slug/a.jsonl", came: ['{"slug":"again"}'], went: [] },
 ]
 
 test("laying one act at a time answers what laying every act at once answers", () => {
@@ -165,10 +173,10 @@ test("laying one act at a time answers what laying every act at once answers", (
 test("a later act's lines are the ones a laid reading answers", () => {
   const at = seeded()
   const first = overlaidOn(readingAt(at), [
-    { at: "identity/page/id/one.jsonl", lines: ['{"id":"first"}'] },
+    { at: "identity/page/id/one.jsonl", came: ['{"id":"first"}'], went: ['{"id":"one"}'] },
   ])
   const second = overlaidOn(first, [
-    { at: "identity/page/id/one.jsonl", lines: ['{"id":"second"}'] },
+    { at: "identity/page/id/one.jsonl", came: ['{"id":"second"}'], went: ['{"id":"first"}'] },
   ])
 
   expect(second.lines("identity/page/id/one.jsonl")).toEqual(['{"id":"second"}'])
@@ -179,9 +187,11 @@ test("a later act's lines are the ones a laid reading answers", () => {
 test("a file filled in one lay and emptied in a later one is there no more", () => {
   const at = seeded()
   const first = overlaidOn(readingAt(at), [
-    { at: "identity/module/slug/new.jsonl", lines: ['{"slug":"new"}'] },
+    { at: "identity/module/slug/new.jsonl", came: ['{"slug":"new"}'], went: [] },
   ])
-  const second = overlaidOn(first, [{ at: "identity/module/slug/new.jsonl", lines: [] }])
+  const second = overlaidOn(first, [
+    { at: "identity/module/slug/new.jsonl", came: [], went: ['{"slug":"new"}'] },
+  ])
 
   expect(second.holds("identity/module/slug/new.jsonl")).toBe(false)
   expect(second.holds("identity/module")).toBe(false)
@@ -191,9 +201,11 @@ test("a file filled in one lay and emptied in a later one is there no more", () 
 
 test("a file emptied in one lay and filled in a later one is there again", () => {
   const at = seeded()
-  const first = overlaidOn(readingAt(at), [{ at: "identity/domain/slug/a.jsonl", lines: [] }])
+  const first = overlaidOn(readingAt(at), [
+    { at: "identity/domain/slug/a.jsonl", came: [], went: ['{"slug":"a"}'] },
+  ])
   const second = overlaidOn(first, [
-    { at: "identity/domain/slug/a.jsonl", lines: ['{"slug":"again"}'] },
+    { at: "identity/domain/slug/a.jsonl", came: ['{"slug":"again"}'], went: [] },
   ])
 
   expect(second.holds("identity/domain/slug/a.jsonl")).toBe(true)
@@ -205,10 +217,12 @@ test("a file emptied in one lay and filled in a later one is there again", () =>
 test("a directory is there while another file laid under it is still filled", () => {
   const at = seeded()
   const first = overlaidOn(readingAt(at), [
-    { at: "identity/module/slug/one.jsonl", lines: ['{"slug":"one"}'] },
-    { at: "identity/module/slug/two.jsonl", lines: ['{"slug":"two"}'] },
+    { at: "identity/module/slug/one.jsonl", came: ['{"slug":"one"}'], went: [] },
+    { at: "identity/module/slug/two.jsonl", came: ['{"slug":"two"}'], went: [] },
   ])
-  const second = overlaidOn(first, [{ at: "identity/module/slug/one.jsonl", lines: [] }])
+  const second = overlaidOn(first, [
+    { at: "identity/module/slug/one.jsonl", came: [], went: ['{"slug":"one"}'] },
+  ])
 
   expect(second.holds("identity/module")).toBe(true)
   expect(namesIn(second.listing("identity/module/slug"))).toEqual(["two.jsonl"])

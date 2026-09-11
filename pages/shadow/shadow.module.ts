@@ -108,7 +108,11 @@ export const shadow = {
     {
       invariantKind: "departure",
       statement:
-        "A shadow answers the entry files the change writes beside the index the change leaves.",
+        "A shadow answers the body of each entry file the change writes beside the index it leaves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those bodies are worked out at the first ask and held for that shadow.",
     },
     {
       invariantKind: "departure",

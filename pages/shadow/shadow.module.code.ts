@@ -7,14 +7,15 @@ import {
   answeringOver,
 } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import { readingIn, valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { bodiesFrom } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
 import { settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
-import type { Filing, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { valueAt, valueIn } from "akasha/pages/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export type Shadow = {
   readonly index: Answering
-  readonly filed: () => readonly Filing[]
+  readonly filed: () => ReadonlyMap<string, string | null>
   readonly refusals: () => readonly string[]
   readonly pageOf: (path: string) => Value | null
   readonly codeAt: (path: string) => string | null
@@ -141,7 +142,7 @@ function shadowOver(
   const pageOf = remembering(filedOver(reading, bodyOf, held.filed), held.values)
   return {
     index: answeringOver(reading, pageOf),
-    filed: () => [],
+    filed: () => new Map(),
     refusals: () => [],
     pageOf,
     codeAt: (path) => path,
@@ -171,7 +172,11 @@ function castFrom(was: Reading, change: Change, held: Remembered): Cast {
     )
     const reading = settled.reading
     const index = answeringOver(reading, pageOf)
-    const filed = (): readonly Filing[] => settled.filings
+    let bodies: ReadonlyMap<string, string | null> | null = null
+    const filed = (): ReadonlyMap<string, string | null> => {
+      if (bodies === null) bodies = bodiesFrom(reading, settled.filings)
+      return bodies
+    }
     const left = leftOver(settled.refusedBefore, settled.refused)
     const refusals = (): readonly string[] => left
     return { shadow: { index, filed, refusals, pageOf, codeAt: codeOver(change) }, reading }

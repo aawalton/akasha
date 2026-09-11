@@ -265,11 +265,13 @@ export function readingLaidOver(
   root: string,
   said: Readonly<Record<string, readonly unknown[]>>
 ): Reading {
+  const reading = readingIn(root)
   const filings = Object.entries(said).map(([at, lines]) => ({
     at,
-    lines: lines.map((one) => (typeof one === "string" ? one : JSON.stringify(one))),
+    came: lines.map((one) => (typeof one === "string" ? one : JSON.stringify(one))),
+    went: reading.lines(at),
   }))
-  return overlaidOn(readingIn(root), filings)
+  return overlaidOn(reading, filings)
 }
 
 export function everythingFiled(root: string): readonly string[] {

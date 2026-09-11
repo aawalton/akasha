@@ -48,6 +48,15 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A lay carries the lines that came and the lines that went rather than whole files.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A touched file's lines are worked out at the first ask and held for that lay.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reading laid over a laid reading is laid over the reading beneath that one.",
     },
     {

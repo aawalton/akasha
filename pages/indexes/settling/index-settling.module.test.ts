@@ -24,30 +24,12 @@ import {
 } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { listedByPath, readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
-import {
-  filingOf,
-  mergedIn,
-  settlingOver,
-} from "akasha/pages/indexes/settling/index-settling.module.code.ts"
+import { filingOf, settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
+import { overlaidOn } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
 import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
 
 afterAll(scratch.sweep, 5000)
-
-test("a merge with nothing coming answers the lines it was handed", () => {
-  expect(mergedIn(["a", "c"], [])).toEqual(["a", "c"])
-})
-
-test("a merge lays each line coming into its place among the lines already in order", () => {
-  expect(mergedIn(["b", "d"], ["e", "a", "c"])).toEqual(["a", "b", "c", "d", "e"])
-})
-
-test("a merge answers what sorting the two together answers", () => {
-  const held = ["alpha", "beta", "gamma"]
-  const coming = ["aardvark", "delta", "beta beta"]
-
-  expect(mergedIn(held, coming)).toEqual([...held, ...coming].sort())
-})
 
 const ONE_FILE = {
   holds: () => true,
@@ -58,20 +40,28 @@ const ONE_FILE = {
 test("a filing leaving a file's lines as they were answers no filing", () => {
   const entries = [{ at: "one.jsonl", line: "a" }]
 
-  expect(filingOf(ONE_FILE, entries, entries)).toEqual([])
+  expect(filingOf(entries, entries)).toEqual([])
 })
 
-test("a filing withdrawing a line the file does not hold answers no filing", () => {
-  expect(filingOf(ONE_FILE, [{ at: "one.jsonl", line: "z" }], [])).toEqual([])
+test("a filing answers the lines that came and the lines that went", () => {
+  expect(filingOf([{ at: "one.jsonl", line: "a" }], [])).toEqual([
+    { at: "one.jsonl", came: [], went: ["a"] },
+  ])
+  expect(filingOf([], [{ at: "one.jsonl", line: "c" }])).toEqual([
+    { at: "one.jsonl", came: ["c"], went: [] },
+  ])
 })
 
-test("a filing answers the file whose lines it turns", () => {
-  expect(filingOf(ONE_FILE, [{ at: "one.jsonl", line: "a" }], [])).toEqual([
-    { at: "one.jsonl", lines: ["b"] },
-  ])
-  expect(filingOf(ONE_FILE, [], [{ at: "one.jsonl", line: "c" }])).toEqual([
-    { at: "one.jsonl", lines: ["a", "b", "c"] },
-  ])
+test("a line withdrawn that the file does not hold leaves that file as it was", () => {
+  const laid = overlaidOn(ONE_FILE, filingOf([{ at: "one.jsonl", line: "z" }], []))
+
+  expect(laid.lines("one.jsonl")).toEqual(["a", "b"])
+})
+
+test("a line coming that the file already holds is held once", () => {
+  const laid = overlaidOn(ONE_FILE, filingOf([], [{ at: "one.jsonl", line: "b" }]))
+
+  expect(laid.lines("one.jsonl")).toEqual(["a", "b"])
 })
 
 const TARGET_ID = idOf("b")

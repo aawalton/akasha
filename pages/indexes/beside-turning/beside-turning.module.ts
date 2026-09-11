@@ -79,7 +79,7 @@ export const besideTurning = {
     },
     {
       invariantKind: "departure",
-      statement: "An id left under no name is read from the identity entries a change files.",
+      statement: "An id left under no name is read from the identity lines a change takes away.",
     },
     {
       invariantKind: "departure",

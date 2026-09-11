@@ -130,12 +130,11 @@ export const indexSettling = {
     },
     {
       invariantKind: "departure",
-      statement: "The lines a filing answers are in order.",
+      statement: "A filing answers the lines that came and the lines that went.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "A filing merges what comes in with the lines already there rather than sorting them again.",
+      invariantKind: "absence",
+      statement: "No entry file is read to work a filing out.",
     },
     {
       invariantKind: "departure",

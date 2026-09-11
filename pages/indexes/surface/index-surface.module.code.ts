@@ -94,106 +94,96 @@ function markedUp(at: string): readonly string[] {
   }
 }
 
-function anythingLeft(under: Reading, at: string, emptied: ReadonlySet<string>): boolean {
-  for (const one of under.listing(at)) {
-    const next = beneath(at, one.name)
-    if (one.directory) {
-      if (anythingLeft(under, next, emptied)) return true
-      continue
-    }
-    if (!emptied.has(next)) return true
-  }
-  return false
+type Edit = {
+  readonly came: ReadonlySet<string>
+  readonly went: ReadonlySet<string>
 }
 
-type Counted = {
-  readonly directory: boolean
-  readonly count: number
-}
-
-type Added = Map<string, ReadonlyMap<string, Counted>>
+type Named = Map<string, Map<string, boolean>>
 
 type Laid = {
   readonly base: Reading
-  readonly held: ReadonlyMap<string, readonly string[]>
-  readonly filled: ReadonlySet<string>
-  readonly emptied: ReadonlySet<string>
-  readonly added: ReadonlyMap<string, ReadonlyMap<string, Counted>>
-  readonly thinned: ReadonlyMap<string, number>
+  readonly edits: ReadonlyMap<string, Edit>
+  readonly named: ReadonlyMap<string, ReadonlyMap<string, boolean>>
+  readonly thinned: ReadonlySet<string>
 }
 
 const LAID = new WeakMap<Reading, Laid>()
 
-type Touched = Map<string, Map<string, Counted>>
+function editedBy(was: Edit | undefined, one: Filing): Edit {
+  const came = new Set(one.came)
+  const went = new Set(one.went)
+  for (const line of was?.came ?? []) {
+    if (!went.has(line)) came.add(line)
+  }
+  for (const line of was?.went ?? []) {
+    if (!came.has(line)) went.add(line)
+  }
+  return { came, went }
+}
 
-function owned(added: Added, touched: Touched, dir: string): Map<string, Counted> {
-  const found = touched.get(dir)
-  if (found !== undefined) return found
-  const made = new Map(added.get(dir))
-  touched.set(dir, made)
-  added.set(dir, made)
+function owned(named: Named, owns: Set<string>, dir: string): Map<string, boolean> {
+  const found = named.get(dir)
+  if (found !== undefined && owns.has(dir)) return found
+  const made = new Map(found)
+  owns.add(dir)
+  named.set(dir, made)
   return made
-}
-
-function countingIn(added: Added, touched: Touched, at: string, by: number): undefined {
-  for (const one of notedUp(at)) {
-    const held = owned(added, touched, one.dir)
-    const count = (held.get(one.name)?.count ?? 0) + by
-    if (count > 0) held.set(one.name, { directory: one.directory, count })
-    else held.delete(one.name)
-  }
-}
-
-function thinningIn(thinned: Map<string, number>, at: string, by: number): undefined {
-  for (const dir of markedUp(at)) {
-    const count = (thinned.get(dir) ?? 0) + by
-    if (count > 0) thinned.set(dir, count)
-    else thinned.delete(dir)
-  }
 }
 
 export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading {
   const laid = LAID.get(under)
   const base = laid?.base ?? under
-  const held = new Map<string, readonly string[]>(laid?.held)
-  const filled = new Set<string>(laid?.filled)
-  const emptied = new Set<string>(laid?.emptied)
-  const added: Added = new Map(laid?.added)
-  const thinned = new Map<string, number>(laid?.thinned)
-  const touched: Touched = new Map()
+  const edits = new Map<string, Edit>(laid?.edits)
+  const named: Named = new Map(laid?.named as ReadonlyMap<string, Map<string, boolean>>)
+  const thinned = new Set<string>(laid?.thinned)
+  const owns = new Set<string>()
 
   for (const one of filings) {
-    const was = held.get(one.at)
-    const wasFilled = was !== undefined && was.length > 0
-    const wasEmptied = was !== undefined && was.length === 0
-    const fills = one.lines.length > 0
-    if (wasFilled !== fills) countingIn(added, touched, one.at, fills ? 1 : -1)
-    if (wasEmptied === fills) thinningIn(thinned, one.at, fills ? -1 : 1)
-    held.set(one.at, one.lines)
-    if (fills) filled.add(one.at)
-    else filled.delete(one.at)
-    if (fills) emptied.delete(one.at)
-    else emptied.add(one.at)
+    edits.set(one.at, editedBy(edits.get(one.at), one))
+    for (const noted of notedUp(one.at)) {
+      owned(named, owns, noted.dir).set(noted.name, noted.directory)
+    }
+    if (one.went.length === 0) continue
+    for (const dir of markedUp(one.at)) thinned.add(dir)
   }
-  for (const [dir, names] of touched) {
-    if (names.size === 0) added.delete(dir)
+
+  const composed = new Map<string, readonly string[]>()
+
+  const linesAt = (at: string): readonly string[] => {
+    const edit = edits.get(at)
+    if (edit === undefined) return base.lines(at)
+    const found = composed.get(at)
+    if (found !== undefined) return found
+    const said: string[] = []
+    for (const line of base.lines(at)) {
+      if (!edit.went.has(line) && !edit.came.has(line)) said.push(line)
+    }
+    for (const line of edit.came) said.push(line)
+    const made = said.sort()
+    composed.set(at, made)
+    return made
   }
 
   const holds = (at: string): boolean => {
-    if (filled.has(at)) return true
-    if (emptied.has(at)) return false
-    if ((added.get(at)?.size ?? 0) > 0) return true
-    if (at === ROOT || !thinned.has(at)) return base.holds(at)
-    return anythingLeft(base, at, emptied)
+    if (edits.has(at)) return linesAt(at).length > 0
+    for (const name of named.get(at)?.keys() ?? []) {
+      if (holds(beneath(at, name))) return true
+    }
+    if (at === ROOT || !thinned.has(at) || !base.holds(at)) return base.holds(at)
+    for (const one of base.listing(at)) {
+      if (holds(beneath(at, one.name))) return true
+    }
+    return false
   }
 
   const laying: Reading = {
     holds: holds,
-    lines: (at) => held.get(at) ?? base.lines(at),
+    lines: linesAt,
     listing: (at) => {
       const found = new Map<string, boolean>()
       for (const one of base.listing(at)) found.set(one.name, one.directory)
-      for (const [name, counted] of added.get(at) ?? []) found.set(name, counted.directory)
+      for (const [name, directory] of named.get(at) ?? []) found.set(name, directory)
       const said: Child[] = []
       for (const [name, directory] of found) {
         if (thinned.has(at) && !holds(beneath(at, name))) continue
@@ -202,6 +192,6 @@ export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading 
       return said
     },
   }
-  LAID.set(laying, { base, held, filled, emptied, added, thinned })
+  LAID.set(laying, { base, edits, named, thinned })
   return laying
 }

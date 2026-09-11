@@ -61,58 +61,25 @@ function keyOf(one: Entry): string {
   return `${one.at} ${one.line}`
 }
 
-export function mergedIn(sorted: readonly string[], coming: readonly string[]): readonly string[] {
-  if (coming.length === 0) return sorted
-  const fresh = [...coming].sort()
-  const said: string[] = []
-  let at = 0
-  for (const one of fresh) {
-    for (; at < sorted.length; at += 1) {
-      const held = sorted[at]
-      if (held === undefined || held > one) break
-      said.push(held)
-    }
-    said.push(one)
-  }
-  for (; at < sorted.length; at += 1) {
-    const held = sorted[at]
-    if (held !== undefined) said.push(held)
-  }
-  return said
-}
-
-const WHOLE = new WeakMap<readonly string[], ReadonlySet<string>>()
-
-function wholeOf(lines: readonly string[]): ReadonlySet<string> {
-  const found = WHOLE.get(lines)
-  if (found !== undefined) return found
-  const made = new Set(lines)
-  WHOLE.set(lines, made)
-  return made
-}
-
-export function filingOf(
-  reading: Reading,
-  was: readonly Entry[],
-  now: readonly Entry[]
-): readonly Filing[] {
+export function filingOf(was: readonly Entry[], now: readonly Entry[]): readonly Filing[] {
   const kept = new Set(now.map(keyOf))
+  const had = new Set(was.map(keyOf))
   const withdrawn = Map.groupBy(
     was.filter((one) => !kept.has(keyOf(one))),
     (one) => one.at
   )
-  const added = Map.groupBy(now, (one) => one.at)
+  const added = Map.groupBy(
+    now.filter((one) => !had.has(keyOf(one))),
+    (one) => one.at
+  )
   const said: Filing[] = []
   for (const at of new Set([...withdrawn.keys(), ...added.keys()])) {
-    const whole = wholeOf(reading.lines(at))
-    const gone = new Set(
-      (withdrawn.get(at) ?? []).map((one) => one.line).filter((one) => whole.has(one))
+    const came = new Set((added.get(at) ?? []).map((one) => one.line))
+    const went = [...new Set((withdrawn.get(at) ?? []).map((one) => one.line))].filter(
+      (one) => !came.has(one)
     )
-    const come = new Set((added.get(at) ?? []).map((one) => one.line))
-    const coming = [...come].filter((one) => !whole.has(one))
-    if (gone.size === 0 && coming.length === 0) continue
-    const surviving = [...whole].filter((one) => !gone.has(one))
-    said.push({ at, lines: mergedIn(surviving, coming) })
+    if (came.size === 0 && went.length === 0) continue
+    said.push({ at, came: [...came], went })
   }
   return said
 }
@@ -206,7 +173,6 @@ export function settlingOver(
   const importing = [...held, ...reread]
 
   const imported = filingOf(
-    reading,
     importing.flatMap((one) =>
       one.before === null ? [] : importIn(one.before, one.path, repo, wasNaming)
     ),
@@ -216,15 +182,14 @@ export function settlingOver(
   )
 
   const ruled = filingOf(
-    reading,
     held.flatMap((one) => (one.before === null ? [] : ruleIn(one.before, one.path, repo))),
     held.flatMap((one) => (one.after === null ? [] : ruleIn(one.after, one.path, repo)))
   )
 
   const wasSchema = held.flatMap((one) => (one.was === null ? [] : schemaIn(one.was)))
   const nowSchema = held.flatMap((one) => (one.now === null ? [] : schemaIn(one.now)))
-  const schema = filingOf(reading, wasSchema, nowSchema)
-  const declaring = filingOf(reading, declaredOf(wasSchema), declaredOf(nowSchema))
+  const schema = filingOf(wasSchema, nowSchema)
+  const declaring = filingOf(declaredOf(wasSchema), declaredOf(nowSchema))
   const overSchema = overlaidOn(reading, [...schema, ...declaring])
   const wasUnique = uniquePropertiesAt(reading)
   const unique = uniquePropertiesAt(overSchema)
@@ -248,7 +213,6 @@ export function settlingOver(
   const elsewhere = pagesElsewhere(reading, turned, carriedAt)
   const stranded = pagesStranded(reading, before, left, carriedAt)
   const identity = filingOf(
-    reading,
     [
       ...held.flatMap((one) =>
         one.was === null ? [] : identityIn(one.was, one.path, repo, wasIdentifying)
@@ -297,11 +261,10 @@ export function settlingOver(
     ...held.flatMap((one) => (one.now === null ? [] : claim(one.now, one.path, false))),
     ...alongside.flatMap((one) => claim(one.value, one.path, false)),
   ]
-  const paths = filingOf(reading, wasPaths, nowPaths)
-  const listing = filingOf(reading, listedOf(wasPaths), listedOf(nowPaths))
+  const paths = filingOf(wasPaths, nowPaths)
+  const listing = filingOf(listedOf(wasPaths), listedOf(nowPaths))
 
   const valued = filingOf(
-    reading,
     held.flatMap((one) => (one.was === null ? [] : valueIn(one.was, one.path, repo))),
     held.flatMap((one) => (one.now === null ? [] : valueIn(one.now, one.path, repo)))
   )
@@ -332,7 +295,7 @@ export function settlingOver(
     typesDeclaring(reading, [wasSource, nowSource], turnedRelations),
     carriedAt
   )
-  const rebound = pagesNaming(reading, idsUnnamed(reading, identity), carriedAt)
+  const rebound = pagesNaming(reading, idsUnnamed(identity), carriedAt)
   const already = new Set(relating.map((one) => one.path))
   const refiling = [...relating, ...rebound.filter((one) => !already.has(one.path))]
   const was = [
@@ -368,7 +331,6 @@ export function settlingOver(
     ),
   ]
   const relation = filingOf(
-    reading,
     was.flatMap((one) => one.entries),
     now.flatMap((one) => one.entries)
   )

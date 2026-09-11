@@ -171,14 +171,12 @@ function idsIn(lines: readonly string[]): ReadonlySet<string> {
   return found
 }
 
-export function idsUnnamed(reading: Reading, identity: readonly Filing[]): ReadonlySet<string> {
+export function idsUnnamed(identity: readonly Filing[]): ReadonlySet<string> {
   const found = new Set<string>()
   for (const one of identity) {
-    const held = reading.lines(one.at)
-    if (held.length === 0) continue
-    const after = idsIn(one.lines)
-    for (const id of idsIn(held)) {
-      if (!after.has(id)) found.add(id)
+    const came = idsIn(one.came)
+    for (const id of idsIn(one.went)) {
+      if (!came.has(id)) found.add(id)
     }
   }
   return found

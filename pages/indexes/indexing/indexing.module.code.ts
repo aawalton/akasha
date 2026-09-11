@@ -28,7 +28,7 @@ import { sidecarsIn, under } from "akasha/pages/indexes/path-claiming/path-claim
 import { knownIn } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import {
   type Drift,
-  keepWhole,
+  keepDelta,
   reconcile,
   sweptBeside,
 } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
@@ -179,7 +179,7 @@ export function rebuiltWhole(repo: string, tree: string, put: boolean): Rebuilt 
 }
 
 export function filedInto(root: string, filings: readonly Filing[]): undefined {
-  for (const one of filings) keepWhole(join(root, one.at), one.lines, root)
+  for (const one of filings) keepDelta(join(root, one.at), one, root)
 }
 
 export function keepingIn(repo: string): Indexing {

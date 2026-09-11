@@ -22,7 +22,6 @@ import type {
   Link,
 } from "akasha/code-system/test-overlay/test-overlay.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { bodiesFrom } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { endingOf } from "akasha/utils/run/running/running.module.code.ts"
 
@@ -188,7 +187,7 @@ export function linksIn(change: Change): ReadonlyMap<string, Link> {
 export function bodiesOf(change: Change, shadow: Shadow): Bodies {
   const held: Record<string, Body> = {}
   for (const one of change.changed) held[one] = change.after(one)
-  for (const [at, body] of bodiesFrom(shadow.filed())) held[at] = body
+  for (const [at, body] of shadow.filed()) held[at] = body
   for (const [at, link] of linksIn(change)) held[at] = link
   return held
 }

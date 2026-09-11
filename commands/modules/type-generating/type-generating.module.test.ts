@@ -47,7 +47,7 @@ function shadowOf(pages: ReadonlyMap<string, Record<string, unknown>>): Shadow {
   } as never
   return {
     index,
-    filed: () => [],
+    filed: () => new Map(),
     refusals: () => [],
     pageOf: (path) => pages.get(path) ?? null,
     codeAt: (path) => path,
