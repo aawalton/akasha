@@ -22,7 +22,7 @@ export const aineMemoryManagement = {
     {
       statement: "The most memory each kind of work has taken is recorded.",
       workingMemory:
-        "Every cgroup keeps a lifetime peak in memory.peak and nothing reads it, so a restart throws it away. Per kind there is no number at all until each kind has a cgroup of its own. Host is 62.2 GiB with 80 GiB swap; the sixteen seat scopes peak at 32.2, 31.7, 28.8, 26.8, 22.7, 18.6, 9.2, 8.6, 7.8, 6.3, 5.3, 3.7, 3.6, 3.5, 3.0 and 1.7 GiB, and app.slice as a whole peaked at 55.5 GiB. Alan wants the log pattern check performance uses.\n",
+        "The pattern is check-cost: one jsonl line per run beside the page of what ran, uncommitted, rolling into a numbered part at 8 MiB. Its record already carries peakBytes, residentBeforeBytes, peakAddedBytes and peakMeasured, read from VmHWM after refs are cleared. Checks are measured already, commands and changes record under entries, and every other kind records nothing. A group may state max-memory-mb and nothing reads it.",
     },
   ],
   constraints: ["Every ceiling number is settled with Alan rather than chosen."],
