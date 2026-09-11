@@ -16,7 +16,50 @@ const SAID = "what sits under a path the index answers for is asked rather than 
 
 const SPELT = "where a page the index answers for sits is asked rather than spelled"
 
-const LISTING: ReadonlySet<string> = new Set(["readdirSync", "readdir", "Glob"])
+const LISTED = "the pages of a page type are asked of the index rather than listed"
+
+const LISTING: ReadonlySet<string> = new Set([
+  "readdirSync",
+  "readdir",
+  "opendirSync",
+  "opendir",
+  "Glob",
+  "glob",
+  "globSync",
+])
+
+const LS_FILES = "ls-files"
+
+const PARTED_AT = "."
+
+const SEGMENT = /^[a-z0-9-]+$/
+
+export type Naming = (said: string) => string | null
+
+function tailsOf(paths: readonly string[], types: ReadonlySet<string>): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const one of paths) {
+    const parts = one.slice(one.lastIndexOf(PARTED_BY) + 1).split(PARTED_AT)
+    for (let at = 1; at < parts.length; at += 1) {
+      if (types.has(parts[at] ?? "")) found.add(parts.slice(at).join(PARTED_AT))
+    }
+  }
+  return found
+}
+
+export function namingOver(paths: readonly string[], types: ReadonlySet<string>): Naming {
+  const tails = tailsOf(paths, types)
+  return (said) => {
+    const parts = said.split(PARTED_AT)
+    for (let at = 1; at < parts.length - 1; at += 1) {
+      const one = parts[at]
+      if (one === undefined || !types.has(one)) continue
+      if (!parts.slice(at + 1).every((each) => SEGMENT.test(each))) continue
+      if (tails.has(parts.slice(at).join(PARTED_AT))) return one
+    }
+    return null
+  }
+}
 
 type Found = { readonly at: string; readonly page: boolean }
 
@@ -144,26 +187,50 @@ function calledAs(node: ts.Expression): string | null {
   return null
 }
 
-function listedBy(node: ts.Node): readonly ts.Expression[] {
-  if (!ts.isCallExpression(node) && !ts.isNewExpression(node)) return []
-  const named = calledAs(node.expression)
-  if (named === null || !LISTING.has(named)) return []
-  return [...(node.arguments ?? [])]
+function saidIn(node: ts.Node, want: string): boolean {
+  if (ts.isStringLiteral(node) || ts.isNoSubstitutionTemplateLiteral(node)) {
+    return node.text === want
+  }
+  if (ts.isCallExpression(node) || ts.isNewExpression(node)) return false
+  return ts.forEachChild(node, (one) => (saidIn(one, want) ? true : undefined)) ?? false
 }
 
-function typedIn(asking: Asking, path: string, text: string): readonly string[] {
+function listedBy(node: ts.Node): readonly ts.Expression[] | null {
+  if (ts.isTaggedTemplateExpression(node)) {
+    return saidIn(node.template, LS_FILES) ? [] : null
+  }
+  if (!ts.isCallExpression(node) && !ts.isNewExpression(node)) return null
+  const args = [...(node.arguments ?? [])]
+  const named = calledAs(node.expression)
+  if (named !== null && LISTING.has(named)) return args
+  return args.some((one) => saidIn(one, LS_FILES)) ? args : null
+}
+
+function codedIn(path: string): boolean {
+  const said = partedIn(path)
+  return said !== null && said.sections[said.sections.length - 1] === CODE
+}
+
+function typedIn(asking: Asking, naming: Naming, path: string, text: string): readonly string[] {
   const source = parsedAs(path, text)
   const held = heldIn(source, asking)
   const said: string[] = []
+  const named: string[] = []
+  const coded = codedIn(path)
+  let lists = false
   const visit = (node: ts.Node): undefined => {
-    for (const one of listedBy(node)) {
-      const found = reachedIn(one, asking, held)
-      if (found === null || found.page) continue
-      said.push(
-        `line ${lineOf(source, node)} lists \`${shortened(found.said)}\`, ` +
-          `where \`${found.at}\` sits — ${SAID}`
-      )
-      break
+    const args = listedBy(node)
+    if (args !== null) {
+      lists = true
+      for (const one of args) {
+        const found = reachedIn(one, asking, held)
+        if (found === null || found.page) continue
+        said.push(
+          `line ${lineOf(source, node)} lists \`${shortened(found.said)}\`, ` +
+            `where \`${found.at}\` sits — ${SAID}`
+        )
+        break
+      }
     }
     const own = namingIn(node, asking)
     if (own?.page === true) {
@@ -172,10 +239,21 @@ function typedIn(asking: Asking, path: string, text: string): readonly string[] 
           `where the page \`${own.at}\` sits — ${SPELT}`
       )
     }
+    if (coded && own === null && !specified(node)) {
+      if (ts.isStringLiteral(node) || ts.isNoSubstitutionTemplateLiteral(node)) {
+        const kind = naming(node.text)
+        if (kind !== null) {
+          named.push(
+            `line ${lineOf(source, node)} spells the name of a \`${kind}\` page ` +
+              `and this file lists a folder — ${LISTED}`
+          )
+        }
+      }
+    }
     ts.forEachChild(node, visit)
   }
   ts.forEachChild(source, visit)
-  return said
+  return lists ? [...said, ...named] : said
 }
 
 function ranIn(asking: Asking, text: string): readonly string[] {
@@ -194,8 +272,13 @@ function ranIn(asking: Asking, text: string): readonly string[] {
   return said
 }
 
-export function reasonsIn(asking: Asking, path: string, text: string): readonly string[] {
-  return typed(path) ? typedIn(asking, path, text) : ranIn(asking, text)
+export function reasonsIn(
+  asking: Asking,
+  naming: Naming,
+  path: string,
+  text: string
+): readonly string[] {
+  return typed(path) ? typedIn(asking, naming, path, text) : ranIn(asking, text)
 }
 
 export function judgedBy(types: ReadonlySet<string>): (path: string) => boolean {

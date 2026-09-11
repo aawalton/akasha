@@ -26,7 +26,47 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "A directory listing is a call to `readdirSync` or `readdir` or `Glob`.",
+      statement: "A directory listing is a call naming a reader of a directory.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call handed `ls-files` lists a directory too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's code spelling a page file's name where that code lists is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name is a page file's where a page type the index knows sits between its dots.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What follows that page type in the name is a run of plain segments.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index answers a file whose own name closes with that name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name the index answers no file for names nothing and is let through.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name refused already as a path spelled is not refused a second time.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A page's test listing a folder is judged by no name that test spells.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A page type reached through a template rather than a plain string is not seen.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A listing through a mechanism named nowhere here is not seen.",
     },
     {
       invariantKind: "departure",

@@ -6,6 +6,7 @@ import {
   foldersOf,
   judgedBy,
   judgingOver,
+  namingOver,
   reasonsIn,
 } from "./check-reaches-a-path-through-the-index.code-check.decision.code.ts"
 
@@ -19,13 +20,15 @@ const AT = "checks/code-checks/pages/a/a.code-check.code.ts"
 
 const asking = askingOver(HELD)
 
-function only(text: string): readonly string[] {
-  return reasonsIn(asking, AT, text)
-}
-
 const NAMED = 'const AT = "design/colors"\n'
 
-const TYPES: ReadonlySet<string> = new Set(["code-check", "color"])
+const TYPES: ReadonlySet<string> = new Set(["code-check", "color", "module"])
+
+const naming = namingOver(HELD, TYPES)
+
+function only(text: string): readonly string[] {
+  return reasonsIn(asking, naming, AT, text)
+}
 
 test("a literal a listing is handed straight off is refused", () => {
   expect(only('readdirSync("design/colors")\n')).toHaveLength(1)
@@ -76,7 +79,8 @@ test("a listing of a path the index knows nothing at is let through", () => {
 })
 
 test("a tail that does not begin at a separator is no path", () => {
-  expect(only('readdirSync("matching/hum-matching.module.code.ts")\n')).toEqual([])
+  const said = only('readdirSync("matching/hum-matching.module.code.ts")\n')
+  expect(said.filter((one) => one.includes("sits"))).toEqual([])
 })
 
 test("a name holding no separator is no path", () => {
@@ -126,7 +130,7 @@ test("a name carries over the whole file rather than within one scope", () => {
 
 test("a long literal is shortened where the refusal names that literal", () => {
   const long = `${"pages/hum-formats/modules/hum-matching/hum-matching.module.code.ts"} is here`
-  const said = reasonsIn(askingOver([...HELD, long]), AT, `readdirSync("${long}")\n`)
+  const said = reasonsIn(askingOver([...HELD, long]), naming, AT, `readdirSync("${long}")\n`)
   expect(said).toHaveLength(1)
 })
 
@@ -149,6 +153,42 @@ test("a literal a listing reaches that names a page is refused once", () => {
 
 test("a literal ending in a separator names a folder rather than a page", () => {
   expect(only('const at = "design/colors/pages/yellow.color.ts/"\n')).toEqual([])
+})
+
+const SWEEPS = 'const held = said(["git", "-C", root, "ls-files", "-z", "--", "*.ts"])\n'
+
+test("a page's name spelled where the file lists a folder is refused", () => {
+  expect(only(`const SUFFIX = ".module.code.ts"\nreaddirSync(root)\n`)).toHaveLength(1)
+})
+
+test("a page's name spelled where the file lists nothing is let through", () => {
+  expect(only('const SUFFIX = ".module.code.ts"\n')).toEqual([])
+})
+
+test("a run of git ls-files is a listing like a directory read", () => {
+  expect(only(`const SUFFIX = ".module.code.ts"\n${SWEEPS}`)).toHaveLength(1)
+})
+
+test("a glob naming a page's name is refused where that glob is scanned", () => {
+  expect(only('new Glob("a/*-synth/*-synth.module.code.ts").scanSync(root)\n')).toHaveLength(1)
+})
+
+test("a name no page type carries is let through however the file lists", () => {
+  expect(only('const SUFFIX = ".thing.code.ts"\nreaddirSync(root)\n')).toEqual([])
+})
+
+test("a name the index answers no file for is let through", () => {
+  expect(only('const SUFFIX = ".module.uncommitted.jsonl"\nreaddirSync(root)\n')).toEqual([])
+})
+
+test("a tail carrying what is no plain segment is no page's name", () => {
+  expect(only('const MARK = ".module.ts — "\nreaddirSync(root)\n')).toEqual([])
+})
+
+test("a page's test listing a folder is not judged by the name it spells", () => {
+  const at = "checks/code-checks/pages/a/a.code-check.test.ts"
+  const said = reasonsIn(asking, naming, at, 'const S = ".module.code.ts"\nreaddirSync(root)\n')
+  expect(said).toEqual([])
 })
 
 test("every folder above a path is derived from that path", () => {
@@ -211,7 +251,7 @@ const ASKED: Asked = {
 const SHELL = "akasha/one.thing.shell.sh"
 
 function ran(text: string): readonly string[] {
-  return reasonsIn(asking, SHELL, text)
+  return reasonsIn(asking, naming, SHELL, text)
 }
 
 test("a page's file that is no TypeScript is judged whatever section names that file", () => {
@@ -239,7 +279,7 @@ test("a file held uncommitted is judged by nothing", () => {
 
 test("a run of a body whose language is not parsed that names a page is refused", () => {
   const at = "akasha/one.thing.config.json"
-  const said = reasonsIn(asking, at, '{ "at": "design/colors/pages/yellow.color.ts" }\n')
+  const said = reasonsIn(asking, naming, at, '{ "at": "design/colors/pages/yellow.color.ts" }\n')
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 1")
 })

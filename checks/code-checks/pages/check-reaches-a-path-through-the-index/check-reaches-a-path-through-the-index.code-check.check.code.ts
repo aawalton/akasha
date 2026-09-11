@@ -14,6 +14,8 @@ import {
   type Asking,
   askingOver,
   judgingOver,
+  type Naming,
+  namingOver,
   reasonsIn,
 } from "./check-reaches-a-path-through-the-index.code-check.decision.code.ts"
 
@@ -57,6 +59,16 @@ function askingFor(shadow: Shadow): Asking {
   return made
 }
 
+const NAMING = new WeakMap<Shadow, Naming>()
+
+function namingFor(shadow: Shadow): Naming {
+  const found = NAMING.get(shadow)
+  if (found !== undefined) return found
+  const made = namingOver(shadow.index.everyPath(), shadow.index.pageTypesIn())
+  NAMING.set(shadow, made)
+  return made
+}
+
 export const PAGE_FILES: Selector<Body> = {
   named: "the files a page holds",
   isInput: (path, shadow) => judgedFor(shadow)(path),
@@ -64,5 +76,5 @@ export const PAGE_FILES: Selector<Body> = {
 }
 
 export const checkReachesAPathThroughTheIndex = judgingEach(PAGE_FILES, (given, shadow) =>
-  reasonsIn(askingFor(shadow), given.path, textIn(given.bytes))
+  reasonsIn(askingFor(shadow), namingFor(shadow), given.path, textIn(given.bytes))
 )
