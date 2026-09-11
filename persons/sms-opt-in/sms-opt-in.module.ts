@@ -34,5 +34,9 @@ export const smsOptIn = {
       statement:
         "The wording and the links beside the box read as one sentence rather than as a row.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Each link beside the box reaches a whole document rather than a section here.",
+    },
   ],
 } as const satisfies Module

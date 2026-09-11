@@ -115,11 +115,11 @@ export function SmsOptInForm() {
           <a className="text-accent underline" href="/terms">
             Terms
           </a>{" "}
-          and the{" "}
-          <a className="text-accent underline" href="#privacy">
-            Privacy
-          </a>{" "}
-          section below.
+          and our{" "}
+          <a className="text-accent underline" href="/privacy">
+            Privacy Policy
+          </a>
+          .
         </Label>
       </div>
 
