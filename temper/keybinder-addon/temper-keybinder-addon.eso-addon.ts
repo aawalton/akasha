@@ -53,4 +53,5 @@ export const temperKeybinderAddon = {
       statement: "The game protects rebinding.",
     },
   ],
+  deployedCommit: "a8c5a436dda44a41f530f61c1c447fa433f0582e",
 } as const satisfies EsoAddon
