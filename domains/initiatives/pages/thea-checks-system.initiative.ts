@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "no-rule-in-two-files is the only check refusing: about 345 in 144 families. Folding rather than narrowing is the route, since one-literal bodies that cannot drift are only 14. It runs at audit only; at change it re-parses all 82k ts files for 6.4s, 5.4x the whole 48-check suite, so nothing stops the count rising, and the mend is filing the rule map beside the index. It reads a free name as written, so 7 of 150 families have a leg it cannot see.",
+        "Two checks refuse. no-rule-in-two-files carries nearly all of it, and about half of what it reports is an artefact of how ruleOf reads, so print the rule and blank every free name before believing a family. page-matches-its-type refuses where a companion skill's effect holds a slug rather than a record: two properties collide on one key and the declaration cannot say so. The rule map is filed beside the index and goes stale by reader, which a wholeness test keyed on paths cannot see.",
     },
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
