@@ -27,15 +27,25 @@ import { toast } from "sonner"
 import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import { formatTimeAgo } from "../format-time-ago/format-time-ago.module.code.ts"
 import { RestoreConfirmDialog } from "../restore-confirm-dialog/restore-confirm-dialog.module.code.tsx"
-import {
-  type CharacterVersion,
-  getCharacterVersions,
-} from "../version-actions/version-actions.module.code.ts"
+
+export interface BuildVersion {
+  id: string
+  versionNumber: number
+  isCheckpoint: boolean
+  checkpointName: string | null
+  createdAt: string
+  buildHash: string
+  buildMetadata: Record<string, unknown>
+}
 
 interface VersionHistoryDialogProps {
   open: boolean
   onOpenChange: (open: boolean) => void
   buildId: BuildId
+  buildPageTypeSlug: "character-build" | "companion-build"
+  loadVersions: (
+    buildId: BuildId
+  ) => Promise<{ versions: readonly BuildVersion[] } | { error: string }>
   onVersionRestored?: () => void
 }
 
@@ -47,6 +57,8 @@ export function VersionHistoryDialog({
   open,
   onOpenChange,
   buildId,
+  buildPageTypeSlug,
+  loadVersions,
   onVersionRestored,
 }: VersionHistoryDialogProps) {
   const surface = useSurface()
@@ -76,7 +88,7 @@ export function VersionHistoryDialog({
       buildMetadata: Record<string, unknown>
     }) => {
       await optimisticPatch({
-        pageTypeSlug: "character-build",
+        pageTypeSlug: buildPageTypeSlug,
         where: [{ key: "id", eq: args.buildId }],
         set: {
           buildHash: args.buildHash,
@@ -84,19 +96,19 @@ export function VersionHistoryDialog({
         },
       })
     },
-    [optimisticPatch]
+    [optimisticPatch, buildPageTypeSlug]
   )
-  const [versions, setVersions] = useState<CharacterVersion[]>([])
+  const [versions, setVersions] = useState<readonly BuildVersion[]>([])
   const [isLoading, setIsLoading] = useState(false)
   const [checkpointName, setCheckpointName] = useState("")
   const [isCreatingCheckpoint, setIsCreatingCheckpoint] = useState(false)
-  const [selectedVersion, setSelectedVersion] = useState<CharacterVersion | null>(null)
+  const [selectedVersion, setSelectedVersion] = useState<BuildVersion | null>(null)
   const [showRestoreConfirm, setShowRestoreConfirm] = useState(false)
   const [isRestoring, setIsRestoring] = useState(false)
 
   const fetchVersions = useCallback(async () => {
     setIsLoading(true)
-    const result = await getCharacterVersions(buildId)
+    const result = await loadVersions(buildId)
 
     if ("error" in result) {
       toast.error(result.error)
@@ -105,7 +117,7 @@ export function VersionHistoryDialog({
     }
 
     setIsLoading(false)
-  }, [buildId])
+  }, [buildId, loadVersions])
 
   useEffect(() => {
     if (open) {
@@ -134,7 +146,7 @@ export function VersionHistoryDialog({
     setIsCreatingCheckpoint(false)
   }
 
-  const handleRestoreClick = (version: CharacterVersion) => {
+  const handleRestoreClick = (version: BuildVersion) => {
     setSelectedVersion(version)
     setShowRestoreConfirm(true)
   }
@@ -258,7 +270,7 @@ export function VersionHistoryDialog({
 }
 
 interface VersionItemProps {
-  version: CharacterVersion
+  version: BuildVersion
   onRestore: () => void
 }
 

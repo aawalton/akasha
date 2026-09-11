@@ -19,6 +19,7 @@ import { useCharacter } from "akasha/temper/characters-character-ui/use-characte
 import { useState } from "react"
 import { toast } from "sonner"
 import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
+import { getCharacterVersions } from "../version-actions/version-actions.module.code.ts"
 import { VersionHistoryDialog } from "../version-history-dialog/version-history-dialog.module.code.tsx"
 
 interface CharacterManagementPanelCardProps {
@@ -77,6 +78,8 @@ export function CharacterManagementPanelCard({
         open={showVersionHistory}
         onOpenChange={setShowVersionHistory}
         buildId={buildId}
+        buildPageTypeSlug="character-build"
+        loadVersions={getCharacterVersions}
         onVersionRestored={handleVersionRestored}
       />
 

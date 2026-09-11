@@ -19,7 +19,8 @@ import { useCompanion } from "akasha/temper/companions-ui/use-companions/use-com
 import { useState } from "react"
 import { toast } from "sonner"
 import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
-import { VersionHistoryDialog } from "../companion-version-history-dialog/companion-version-history-dialog.module.code.tsx"
+import { getCompanionVersions } from "../companion-version-actions/companion-version-actions.module.code.ts"
+import { VersionHistoryDialog } from "../version-history-dialog/version-history-dialog.module.code.tsx"
 
 interface CompanionManagementPanelCardProps {
   buildId: BuildId
@@ -77,6 +78,8 @@ export function CompanionManagementPanelCard({
         open={showVersionHistory}
         onOpenChange={setShowVersionHistory}
         buildId={buildId}
+        buildPageTypeSlug="companion-build"
+        loadVersions={getCompanionVersions}
         onVersionRestored={handleVersionRestored}
       />
 

@@ -142,7 +142,6 @@ export const temperWeb = {
     "module/companion-target-panel-card",
     "module/companion-ultimate-slot-card",
     "module/companion-version-actions",
-    "module/companion-version-history-dialog",
     "module/companion-weapon-bar-panel-card",
     "module/companions-build-browse-tab",
     "module/companions-data-content",
