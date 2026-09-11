@@ -1,9 +1,9 @@
-import * as ts from "typescript"
 import {
   isFullyReached,
   type ReachabilityResult,
   resolveTargetSourceFile,
-} from "../transpile-reachability/transpile-reachability.module.code.ts"
+} from "akasha/language-design/lua-compiler/transpile-reachability/transpile-reachability.module.code.ts"
+import * as ts from "typescript"
 
 export function createPruneUnusedReexportsTransformer(
   program: ts.Program,

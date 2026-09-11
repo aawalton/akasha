@@ -1,16 +1,16 @@
-import * as ts from "typescript"
 import {
   AnnotationKind,
   getFileAnnotations,
   getNodeAnnotations,
-} from "../annotations/annotations.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+} from "akasha/language-design/lua-compiler/annotations/annotations.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import {
   findFirstNodeAbove,
   getAllCallSignatures,
   inferAssignedType,
-} from "../typescript/typescript.module.code.ts"
-import { isWorkspaceSourceFile } from "../workspace-source/workspace-source.module.code.ts"
+} from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { isWorkspaceSourceFile } from "akasha/language-design/lua-compiler/workspace-source/workspace-source.module.code.ts"
+import * as ts from "typescript"
 
 export const ContextType = {
   None: 0,

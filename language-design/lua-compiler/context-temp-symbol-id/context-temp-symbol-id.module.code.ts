@@ -1,3 +1,3 @@
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
 
 export const tempSymbolId = luaCore.SymbolId(-1)

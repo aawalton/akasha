@@ -1,20 +1,20 @@
-import type * as ts from "typescript"
-import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+import { LuaTarget } from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import {
   ContextType,
   getFunctionContextType,
-} from "../function-context/function-context.module.code.ts"
-import { createUnpackCall } from "../lua-ast/lua-ast.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
+} from "akasha/language-design/lua-compiler/function-context/function-context.module.code.ts"
+import { createUnpackCall } from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import { transformLuaLibFunction } from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
 import {
   unsupportedForTarget,
   unsupportedProperty,
   unsupportedSelfFunctionConversion,
-} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
+} from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import type * as ts from "typescript"
 
 export function transformFunctionPrototypeCall(
   context: TransformationContext,

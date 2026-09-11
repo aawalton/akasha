@@ -1,7 +1,7 @@
+import type { ProcessedFile } from "akasha/language-design/lua-compiler/transpile-emit-file/transpile-emit-file.module.code.ts"
+import type { LuaRequire } from "akasha/language-design/lua-compiler/transpile-find-lua-requires/transpile-find-lua-requires.module.code.ts"
+import { formatPathToLuaPath } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
 import { SourceNode } from "source-map"
-import type { ProcessedFile } from "../transpile-emit-file/transpile-emit-file.module.code.ts"
-import type { LuaRequire } from "../transpile-find-lua-requires/transpile-find-lua-requires.module.code.ts"
-import { formatPathToLuaPath } from "../utils/utils.module.code.ts"
 
 export function replaceRequireInCode(
   file: ProcessedFile,

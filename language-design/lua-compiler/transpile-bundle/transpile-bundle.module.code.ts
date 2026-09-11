@@ -1,22 +1,27 @@
 import * as path from "node:path"
-import { SourceNode } from "source-map"
-import type * as ts from "typescript"
 import {
   type CompilerOptions,
   LuaTarget,
-} from "../compiler-options/compiler-options.module.code.ts"
-import { escapeString } from "../lua-printer-helpers/lua-printer-helpers.module.code.ts"
-import { couldNotFindBundleEntryPoint } from "../transpile-diagnostics/transpile-diagnostics.module.code.ts"
+} from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import { escapeString } from "akasha/language-design/lua-compiler/lua-printer-helpers/lua-printer-helpers.module.code.ts"
+import { couldNotFindBundleEntryPoint } from "akasha/language-design/lua-compiler/transpile-diagnostics/transpile-diagnostics.module.code.ts"
 import type {
   EmitFile,
   ProcessedFile,
-} from "../transpile-emit-file/transpile-emit-file.module.code.ts"
+} from "akasha/language-design/lua-compiler/transpile-emit-file/transpile-emit-file.module.code.ts"
 import {
   getEmitOutDir,
   getEmitPathRelativeToOutDir,
   getProjectRoot,
-} from "../transpile-program-paths/transpile-program-paths.module.code.ts"
-import { cast, formatPathToLuaPath, isNonNull, trimExtension } from "../utils/utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/transpile-program-paths/transpile-program-paths.module.code.ts"
+import {
+  cast,
+  formatPathToLuaPath,
+  isNonNull,
+  trimExtension,
+} from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import { SourceNode } from "source-map"
+import type * as ts from "typescript"
 
 const createModulePath = (pathToResolve: string, program: ts.Program) =>
   escapeString(

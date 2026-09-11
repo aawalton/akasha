@@ -1,23 +1,29 @@
-import * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import { moduleLocalNameHolder } from "../export-deps/export-deps.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import { moduleLocalNameHolder } from "akasha/language-design/lua-compiler/export-deps/export-deps.module.code.ts"
 import {
   addExportToIdentifier,
   createExportedIdentifier,
   getIdentifierExportScope,
-} from "../export-scope/export-scope.module.code.ts"
+} from "akasha/language-design/lua-compiler/export-scope/export-scope.module.code.ts"
 import {
   createHoistableVariableDeclarationStatement,
   createLocalOrExportedOrGlobalDeclaration,
-} from "../lua-ast/lua-ast.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { createSafeName, isUnsafeName } from "../safe-names/safe-names.module.code.ts"
-import { performHoisting, ScopeType } from "../scope/scope.module.code.ts"
-import { getSymbolIdOfSymbol } from "../symbols/symbols.module.code.ts"
-import { transformIdentifier } from "../visit-identifier/visit-identifier.module.code.ts"
+} from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import {
+  createSafeName,
+  isUnsafeName,
+} from "akasha/language-design/lua-compiler/safe-names/safe-names.module.code.ts"
+import {
+  performHoisting,
+  ScopeType,
+} from "akasha/language-design/lua-compiler/scope/scope.module.code.ts"
+import { getSymbolIdOfSymbol } from "akasha/language-design/lua-compiler/symbols/symbols.module.code.ts"
+import { transformIdentifier } from "akasha/language-design/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
+import * as ts from "typescript"
 
 export function createModuleLocalName(
   context: TransformationContext,

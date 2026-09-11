@@ -1,10 +1,10 @@
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import { getExtensionKindForType } from "akasha/language-design/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { isFunctionType } from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
 import type * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import { getExtensionKindForType } from "../language-extension-kinds/language-extension-kinds.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { isFunctionType } from "../typescript/typescript.module.code.ts"
 
 export function createCallableTable(
   functionExpression: luaExpressions.Expression

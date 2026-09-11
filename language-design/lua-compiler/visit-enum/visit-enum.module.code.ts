@@ -1,18 +1,21 @@
-import * as ts from "typescript"
-import { AnnotationKind, getTypeAnnotations } from "../annotations/annotations.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
+import {
+  AnnotationKind,
+  getTypeAnnotations,
+} from "akasha/language-design/lua-compiler/annotations/annotations.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import {
   addExportToIdentifier,
   getSymbolExportScope,
-} from "../export-scope/export-scope.module.code.ts"
-import { createLocalOrExportedOrGlobalDeclaration } from "../lua-ast/lua-ast.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { isFirstDeclaration } from "../typescript/typescript.module.code.ts"
-import { transformIdentifier } from "../visit-identifier/visit-identifier.module.code.ts"
-import { transformPropertyName } from "../visit-property-name/visit-property-name.module.code.ts"
+} from "akasha/language-design/lua-compiler/export-scope/export-scope.module.code.ts"
+import { createLocalOrExportedOrGlobalDeclaration } from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { isFirstDeclaration } from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { transformIdentifier } from "akasha/language-design/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
+import { transformPropertyName } from "akasha/language-design/lua-compiler/visit-property-name/visit-property-name.module.code.ts"
+import * as ts from "typescript"
 
 export function tryGetConstEnumValue(
   context: TransformationContext,

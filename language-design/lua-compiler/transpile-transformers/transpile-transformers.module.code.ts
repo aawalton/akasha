@@ -1,6 +1,6 @@
+import { createPruneUnusedReexportsTransformer } from "akasha/language-design/lua-compiler/transpile-prune-unused-reexports/transpile-prune-unused-reexports.module.code.ts"
+import type { ReachabilityResult } from "akasha/language-design/lua-compiler/transpile-reachability/transpile-reachability.module.code.ts"
 import * as ts from "typescript"
-import { createPruneUnusedReexportsTransformer } from "../transpile-prune-unused-reexports/transpile-prune-unused-reexports.module.code.ts"
-import type { ReachabilityResult } from "../transpile-reachability/transpile-reachability.module.code.ts"
 
 export function getTransformers(
   program: ts.Program,

@@ -1,28 +1,31 @@
 import * as path from "node:path"
-import { type Mapping, SourceMapGenerator, type SourceNode } from "source-map"
-import type * as ts from "typescript"
-import { LuaLibImportKind, LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
-import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import type * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
+import {
+  LuaLibImportKind,
+  LuaTarget,
+} from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import type * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import type * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import {
   concatNodes,
   createLuaPrinterState,
   type LuaPrinterPrinters,
   printStatementArray,
-} from "../lua-printer-core/lua-printer-core.module.code.ts"
-import * as expr from "../lua-printer-expressions/lua-printer-expressions.module.code.ts"
+} from "akasha/language-design/lua-compiler/lua-printer-core/lua-printer-core.module.code.ts"
+import * as expr from "akasha/language-design/lua-compiler/lua-printer-expressions/lua-printer-expressions.module.code.ts"
 import type {
   Printer,
   PrintResult,
   SourceChunk,
-} from "../lua-printer-helpers/lua-printer-helpers.module.code.ts"
-import * as stmt from "../lua-printer-statements/lua-printer-statements.module.code.ts"
-import { lualibPrinterHolder } from "../lualib-builder-deps/lualib-builder-deps.module.code.ts"
+} from "akasha/language-design/lua-compiler/lua-printer-helpers/lua-printer-helpers.module.code.ts"
+import * as stmt from "akasha/language-design/lua-compiler/lua-printer-statements/lua-printer-statements.module.code.ts"
+import { lualibPrinterHolder } from "akasha/language-design/lua-compiler/lualib-builder-deps/lualib-builder-deps.module.code.ts"
 import {
   loadImportedLualibFeatures,
   loadInlineLualibFeatures,
-} from "../lualib-runtime/lualib-runtime.module.code.ts"
-import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
+} from "akasha/language-design/lua-compiler/lualib-runtime/lualib-runtime.module.code.ts"
+import type { EmitHost } from "akasha/language-design/lua-compiler/transpile-emit-host/transpile-emit-host.module.code.ts"
+import { type Mapping, SourceMapGenerator, type SourceNode } from "source-map"
+import type * as ts from "typescript"
 
 export function createPrinter(printers: readonly Printer[]): Printer {
   if (printers.length === 0) {

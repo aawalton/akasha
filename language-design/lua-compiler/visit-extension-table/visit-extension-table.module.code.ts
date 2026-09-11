@@ -1,17 +1,17 @@
-import type * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import {
   ExtensionKind,
   getBinaryCallExtensionArgs,
   getExtensionKindForNode,
   getNaryCallExtensionArgs,
   getUnaryCallExtensionArg,
-} from "../language-extension-kinds/language-extension-kinds.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { assert } from "../utils/utils.module.code.ts"
-import type { LanguageExtensionCallTransformerMap } from "../visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
+} from "akasha/language-design/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { assert } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import type { LanguageExtensionCallTransformerMap } from "akasha/language-design/lua-compiler/visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
+import type * as ts from "typescript"
 
 export function isTableNewCall(context: TransformationContext, node: ts.NewExpression) {
   return getExtensionKindForNode(context, node.expression) === ExtensionKind.TableNewType

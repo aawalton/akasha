@@ -1,17 +1,17 @@
-import type * as ts from "typescript"
 import {
   type Node,
   NodeFlags,
   SyntaxKind,
   setNodePositionFromTs,
-} from "../lua-ast-core/lua-ast-core.module.code.ts"
+} from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
 import type {
   AssignmentLeftHandSideExpression,
   Expression,
   Identifier,
-} from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import type { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { castArray } from "../utils/utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import type { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { castArray } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import type * as ts from "typescript"
 
 export interface File extends Node {
   kind: typeof SyntaxKind.File

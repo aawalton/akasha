@@ -1,22 +1,25 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import * as ts from "typescript"
-import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type { FunctionVisitor, Visitors } from "../context-visitors/context-visitors.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import type * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { trackSymbolReference } from "../symbols/symbols.module.code.ts"
+import { LuaTarget } from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type {
+  FunctionVisitor,
+  Visitors,
+} from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import type * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { transformLuaLibFunction } from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { trackSymbolReference } from "akasha/language-design/lua-compiler/symbols/symbols.module.code.ts"
 import {
   undefinedInArrayLiteral,
   unsupportedAccessorInObjectLiteral,
-} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isArrayType } from "../typescript/typescript.module.code.ts"
-import { transformFunctionLikeDeclaration } from "../visit-function/visit-function.module.code.ts"
-import { transformIdentifierWithSymbol } from "../visit-identifier/visit-identifier.module.code.ts"
-import { transformPropertyName } from "../visit-property-name/visit-property-name.module.code.ts"
+} from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import { isArrayType } from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { transformFunctionLikeDeclaration } from "akasha/language-design/lua-compiler/visit-function/visit-function.module.code.ts"
+import { transformIdentifierWithSymbol } from "akasha/language-design/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
+import { transformPropertyName } from "akasha/language-design/lua-compiler/visit-property-name/visit-property-name.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import * as ts from "typescript"
 
 export function createShorthandIdentifier(
   context: TransformationContext,

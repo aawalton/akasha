@@ -1,41 +1,44 @@
-import * as ts from "typescript"
 import {
   type Annotation,
   AnnotationKind,
   getNodeAnnotations,
-} from "../annotations/annotations.module.code.ts"
+} from "akasha/language-design/lua-compiler/annotations/annotations.module.code.ts"
 import {
   checkForLuaLibType,
   isPromiseClass,
   transformBuiltinIdentifierExpression,
-} from "../builtins/builtins.module.code.ts"
-import { tempSymbolId } from "../context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
+} from "akasha/language-design/lua-compiler/builtins/builtins.module.code.ts"
+import { tempSymbolId } from "akasha/language-design/lua-compiler/context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import {
   createExportedIdentifier,
   getSymbolExportScope,
-} from "../export-scope/export-scope.module.code.ts"
+} from "akasha/language-design/lua-compiler/export-scope/export-scope.module.code.ts"
 import {
   getExtensionKindForNode,
   getExtensionKindForSymbol,
-} from "../language-extension-kinds/language-extension-kinds.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import { createPromiseIdentifier } from "../lualib-call/lualib-call.module.code.ts"
+} from "akasha/language-design/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import { createPromiseIdentifier } from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
 import {
   getOptionalContinuationData,
   isOptionalContinuation,
-} from "../optional-chain-data/optional-chain-data.module.code.ts"
-import { createSafeName, hasUnsafeIdentifierName } from "../safe-names/safe-names.module.code.ts"
-import { getIdentifierSymbolId } from "../symbols/symbols.module.code.ts"
-import { maybeWrapThisVoidAsAdapter } from "../this-void-adapter/this-void-adapter.module.code.ts"
-import { invalidCallExtensionUse } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isStandardLibraryType } from "../typescript/typescript.module.code.ts"
-import { callExtensions } from "../visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
+} from "akasha/language-design/lua-compiler/optional-chain-data/optional-chain-data.module.code.ts"
+import {
+  createSafeName,
+  hasUnsafeIdentifierName,
+} from "akasha/language-design/lua-compiler/safe-names/safe-names.module.code.ts"
+import { getIdentifierSymbolId } from "akasha/language-design/lua-compiler/symbols/symbols.module.code.ts"
+import { maybeWrapThisVoidAsAdapter } from "akasha/language-design/lua-compiler/this-void-adapter/this-void-adapter.module.code.ts"
+import { invalidCallExtensionUse } from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import { isStandardLibraryType } from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { callExtensions } from "akasha/language-design/lua-compiler/visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
 import {
   isIdentifierExtensionValue,
   reportInvalidExtensionValue,
-} from "../visit-extension-identifier/visit-extension-identifier.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-extension-identifier/visit-extension-identifier.module.code.ts"
+import * as ts from "typescript"
 
 export function transformIdentifier(
   context: TransformationContext,

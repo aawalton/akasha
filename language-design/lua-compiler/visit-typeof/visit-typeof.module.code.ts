@@ -1,11 +1,11 @@
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import { transformLuaLibFunction } from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { transformTypeOfBinaryExpressionHolder } from "akasha/language-design/lua-compiler/visit-typeof-deps/visit-typeof-deps.module.code.ts"
+import { transformBinaryOperation } from "akasha/language-design/lua-compiler/visitors-binary-expression/visitors-binary-expression.module.code.ts"
 import * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { transformTypeOfBinaryExpressionHolder } from "../visit-typeof-deps/visit-typeof-deps.module.code.ts"
-import { transformBinaryOperation } from "../visitors-binary-expression/visitors-binary-expression.module.code.ts"
 
 export const transformTypeOfExpression: FunctionVisitor<ts.TypeOfExpression> = (node, context) => {
   const innerExpression = context.transformExpression(node.expression)

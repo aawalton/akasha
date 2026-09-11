@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { type LualibPage, sourcesFrom } from "./lualib-pages.module.code.ts"
+import {
+  type LualibPage,
+  sourcesFrom,
+} from "akasha/language-design/lua-compiler/lualib-pages/lualib-pages.module.code.ts"
 
 const SCANNED = [
   "/lua-compiler/lualib/src/ArrayAt.ts",

@@ -1,24 +1,27 @@
-import * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import {
   ContextType,
   getFunctionContextType,
-} from "../function-context/function-context.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
+} from "akasha/language-design/lua-compiler/function-context/function-context.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { transformLuaLibFunction } from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
 import {
   decoratorInvalidContext,
   incompleteFieldDecoratorWarning,
-} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isNonNull } from "../utils/utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import { isNonNull } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
 import {
   transformMemberExpressionOwnerName,
   transformMethodName,
-} from "../visit-method-name/visit-method-name.module.code.ts"
-import { transformPropertyName } from "../visit-property-name/visit-property-name.module.code.ts"
-import { isPrivateNode, isStaticNode } from "../visit-syntax/visit-syntax.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-method-name/visit-method-name.module.code.ts"
+import { transformPropertyName } from "akasha/language-design/lua-compiler/visit-property-name/visit-property-name.module.code.ts"
+import {
+  isPrivateNode,
+  isStaticNode,
+} from "akasha/language-design/lua-compiler/visit-syntax/visit-syntax.module.code.ts"
+import * as ts from "typescript"
 
 export function transformDecoratorExpression(
   context: TransformationContext,

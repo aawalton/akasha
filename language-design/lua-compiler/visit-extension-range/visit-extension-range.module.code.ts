@@ -1,13 +1,13 @@
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import * as extensions from "akasha/language-design/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
+import { getExtensionKindForNode } from "akasha/language-design/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { invalidRangeControlVariable } from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import { assert } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import { transformIdentifier } from "akasha/language-design/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
+import { getVariableDeclarationBinding } from "akasha/language-design/lua-compiler/visit-utils/visit-utils.module.code.ts"
 import * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import * as extensions from "../language-extension-kinds/language-extension-kinds.module.code.ts"
-import { getExtensionKindForNode } from "../language-extension-kinds/language-extension-kinds.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { invalidRangeControlVariable } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { assert } from "../utils/utils.module.code.ts"
-import { transformIdentifier } from "../visit-identifier/visit-identifier.module.code.ts"
-import { getVariableDeclarationBinding } from "../visit-utils/visit-utils.module.code.ts"
 
 export function isRangeFunction(
   context: TransformationContext,

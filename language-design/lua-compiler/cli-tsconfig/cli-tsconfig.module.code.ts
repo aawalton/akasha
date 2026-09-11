@@ -1,16 +1,16 @@
 import * as path from "node:path"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
-import * as ts from "typescript"
-import * as cliDiagnostics from "../cli-diagnostics/cli-diagnostics.module.code.ts"
+import * as cliDiagnostics from "akasha/language-design/lua-compiler/cli-diagnostics/cli-diagnostics.module.code.ts"
 import {
   type ParsedCommandLine,
   updateParsedConfigFile,
-} from "../cli-parse/cli-parse.module.code.ts"
+} from "akasha/language-design/lua-compiler/cli-parse/cli-parse.module.code.ts"
 import type {
   CompilerOptions,
   LuaCompilerOptions,
-} from "../compiler-options/compiler-options.module.code.ts"
-import { normalizeSlashes } from "../utils/utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import { normalizeSlashes } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import * as ts from "typescript"
 
 export function locateConfigFile(
   commandLine: ParsedCommandLine

@@ -1,14 +1,14 @@
-import * as ts from "typescript"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import {
   ContextType,
   getCallContextType,
-} from "../function-context/function-context.module.code.ts"
-import { wrapInToStringForConcat } from "../lua-ast/lua-ast.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import { isStringType } from "../typescript/typescript.module.code.ts"
-import { transformContextualCallExpression } from "../visit-call/visit-call.module.code.ts"
+} from "akasha/language-design/lua-compiler/function-context/function-context.module.code.ts"
+import { wrapInToStringForConcat } from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import { isStringType } from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { transformContextualCallExpression } from "akasha/language-design/lua-compiler/visit-call/visit-call.module.code.ts"
+import * as ts from "typescript"
 
 function getRawLiteral(node: ts.LiteralLikeNode): string {
   let text = node.getText()

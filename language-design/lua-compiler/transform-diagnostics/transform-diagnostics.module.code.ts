@@ -1,11 +1,11 @@
-import * as ts from "typescript"
-import type { AnnotationKind } from "../annotations/annotations.module.code.ts"
+import type { AnnotationKind } from "akasha/language-design/lua-compiler/annotations/annotations.module.code.ts"
 import {
   type LuaCompilerOptions,
   LuaTarget,
-} from "../compiler-options/compiler-options.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import { createSerialDiagnosticFactory } from "../utils/utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import { createSerialDiagnosticFactory } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import * as ts from "typescript"
 
 type MessageProvider<TArgs extends readonly unknown[]> = string | ((...args: TArgs) => string)
 

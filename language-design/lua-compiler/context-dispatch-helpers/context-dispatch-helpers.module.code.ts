@@ -1,16 +1,15 @@
 import assert from "node:assert"
-
+import { validateAssignment } from "akasha/language-design/lua-compiler/assignment-validation/assignment-validation.module.code.ts"
+import { tempSymbolId } from "akasha/language-design/lua-compiler/context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { transformLuaLibFunction } from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { isOptionalContinuation } from "akasha/language-design/lua-compiler/optional-chain-data/optional-chain-data.module.code.ts"
+import { transformInPrecedingStatementScope } from "akasha/language-design/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
+import { isConstIdentifier } from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
 import * as ts from "typescript"
-import { validateAssignment } from "../assignment-validation/assignment-validation.module.code.ts"
-import { tempSymbolId } from "../context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { isOptionalContinuation } from "../optional-chain-data/optional-chain-data.module.code.ts"
-import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
-import { isConstIdentifier } from "../typescript/typescript.module.code.ts"
 
 function validateArguments(
   context: TransformationContext,

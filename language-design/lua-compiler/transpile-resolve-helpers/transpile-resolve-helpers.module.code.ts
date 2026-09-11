@@ -1,8 +1,11 @@
 import * as path from "node:path"
+import { BuildMode } from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import type { LuaRequire } from "akasha/language-design/lua-compiler/transpile-find-lua-requires/transpile-find-lua-requires.module.code.ts"
+import {
+  formatPathToLuaPath,
+  trimExtension,
+} from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
 import * as ts from "typescript"
-import { BuildMode } from "../compiler-options/compiler-options.module.code.ts"
-import type { LuaRequire } from "../transpile-find-lua-requires/transpile-find-lua-requires.module.code.ts"
-import { formatPathToLuaPath, trimExtension } from "../utils/utils.module.code.ts"
 
 export function shouldRewriteRequires(resolvedDependency: string, program: ts.Program) {
   return !isBuildModeLibrary(program) || !isNodeModulesFile(resolvedDependency)

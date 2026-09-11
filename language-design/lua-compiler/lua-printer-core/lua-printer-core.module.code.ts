@@ -1,14 +1,17 @@
 import * as path from "node:path"
+import type { CompilerOptions } from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import type * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import type { SourceChunk } from "akasha/language-design/lua-compiler/lua-printer-helpers/lua-printer-helpers.module.code.ts"
+import type { EmitHost } from "akasha/language-design/lua-compiler/transpile-emit-host/transpile-emit-host.module.code.ts"
+import { getEmitPath } from "akasha/language-design/lua-compiler/transpile-program-paths/transpile-program-paths.module.code.ts"
+import {
+  intersperse,
+  normalizeSlashes,
+} from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
 import { SourceNode } from "source-map"
 import type * as ts from "typescript"
-import type { CompilerOptions } from "../compiler-options/compiler-options.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import type { SourceChunk } from "../lua-printer-helpers/lua-printer-helpers.module.code.ts"
-import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
-import { getEmitPath } from "../transpile-program-paths/transpile-program-paths.module.code.ts"
-import { intersperse, normalizeSlashes } from "../utils/utils.module.code.ts"
 
 export interface LuaPrinterPrinters {
   printStatement: (statement: luaStatements.Statement) => SourceNode

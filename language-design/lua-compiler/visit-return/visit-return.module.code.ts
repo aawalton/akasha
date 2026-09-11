@@ -1,13 +1,18 @@
-import * as ts from "typescript"
-import { validateAssignment } from "../assignment-validation/assignment-validation.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import { createUnpackCall, wrapInTable } from "../lua-ast/lua-ast.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { ScopeType, walkScopesUp } from "../scope/scope.module.code.ts"
-import { invalidMultiFunctionReturnType } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isInAsyncFunction } from "../typescript/typescript.module.code.ts"
+import { validateAssignment } from "akasha/language-design/lua-compiler/assignment-validation/assignment-validation.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import {
+  createUnpackCall,
+  wrapInTable,
+} from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import {
+  ScopeType,
+  walkScopesUp,
+} from "akasha/language-design/lua-compiler/scope/scope.module.code.ts"
+import { invalidMultiFunctionReturnType } from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import { isInAsyncFunction } from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
 import {
   canBeMultiReturnType,
   isInMultiReturnFunction,
@@ -15,7 +20,8 @@ import {
   isMultiReturnType,
   returnsMultiType,
   shouldMultiReturnCallBeWrapped,
-} from "../visit-extension-multi/visit-extension-multi.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-extension-multi/visit-extension-multi.module.code.ts"
+import * as ts from "typescript"
 
 function transformExpressionsInReturn(
   context: TransformationContext,

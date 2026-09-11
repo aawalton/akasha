@@ -1,12 +1,12 @@
-import type * as ts from "typescript"
 import {
   type CompilerOptions,
   LuaTarget,
-} from "../compiler-options/compiler-options.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import { isSymbolExported } from "../export-scope/export-scope.module.code.ts"
-import { invalidAmbientIdentifierName } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isAmbientNode } from "../typescript/typescript.module.code.ts"
+} from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import { isSymbolExported } from "akasha/language-design/lua-compiler/export-scope/export-scope.module.code.ts"
+import { invalidAmbientIdentifierName } from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import { isAmbientNode } from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import type * as ts from "typescript"
 
 export const shouldAllowUnicode = (options: CompilerOptions) =>
   options.luaTarget === LuaTarget.LuaJIT

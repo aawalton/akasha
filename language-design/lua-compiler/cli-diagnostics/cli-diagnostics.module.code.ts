@@ -1,8 +1,8 @@
-import * as ts from "typescript"
 import {
   createDiagnosticFactoryWithCode,
   createSerialDiagnosticFactory,
-} from "../utils/utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import * as ts from "typescript"
 
 export const optionsAreMovingToTheLuaCompilerObject = createSerialDiagnosticFactory(
   (stated: Record<string, unknown>) => ({

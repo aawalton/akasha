@@ -1,20 +1,24 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
-import { LoopContinued, performHoisting, ScopeType } from "../scope/scope.module.code.ts"
-import { isAssignmentPattern } from "../typescript/typescript.module.code.ts"
-import { transformAssignment } from "../visit-assignments/visit-assignments.module.code.ts"
-import { transformBlockOrStatement } from "../visit-block/visit-block.module.code.ts"
-import { transformAssignmentPattern } from "../visit-destructuring-assignments/visit-destructuring-assignments.module.code.ts"
-import { transformIdentifier } from "../visit-identifier/visit-identifier.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { transformInPrecedingStatementScope } from "akasha/language-design/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
+import {
+  LoopContinued,
+  performHoisting,
+  ScopeType,
+} from "akasha/language-design/lua-compiler/scope/scope.module.code.ts"
+import { isAssignmentPattern } from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { transformAssignment } from "akasha/language-design/lua-compiler/visit-assignments/visit-assignments.module.code.ts"
+import { transformBlockOrStatement } from "akasha/language-design/lua-compiler/visit-block/visit-block.module.code.ts"
+import { transformAssignmentPattern } from "akasha/language-design/lua-compiler/visit-destructuring-assignments/visit-destructuring-assignments.module.code.ts"
+import { transformIdentifier } from "akasha/language-design/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
 import {
   checkVariableDeclarationList,
   transformBindingPattern,
-} from "../visit-variable-declaration/visit-variable-declaration.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-variable-declaration/visit-variable-declaration.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import * as ts from "typescript"
 
 export function transformLoopBody(
   context: TransformationContext,

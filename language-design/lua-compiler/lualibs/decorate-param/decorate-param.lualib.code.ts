@@ -1,4 +1,4 @@
-import type { LegacyDecorator } from "../decorate-legacy/decorate-legacy.lualib.code.ts"
+import type { LegacyDecorator } from "akasha/language-design/lua-compiler/lualibs/decorate-legacy/decorate-legacy.lualib.code.ts"
 
 type ParamDecorator<TTarget extends AnyTable, TKey extends keyof TTarget> = (
   target: TTarget,

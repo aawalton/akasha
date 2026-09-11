@@ -1,10 +1,13 @@
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { transformInPrecedingStatementScope } from "akasha/language-design/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
+import { checkOnlyTruthyCondition } from "akasha/language-design/lua-compiler/visit-conditional/visit-conditional.module.code.ts"
+import {
+  invertCondition,
+  transformLoopBody,
+} from "akasha/language-design/lua-compiler/visit-utils/visit-utils.module.code.ts"
 import type * as ts from "typescript"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
-import { checkOnlyTruthyCondition } from "../visit-conditional/visit-conditional.module.code.ts"
-import { invertCondition, transformLoopBody } from "../visit-utils/visit-utils.module.code.ts"
 
 export const transformWhileStatement: FunctionVisitor<ts.WhileStatement> = (statement, context) => {
   checkOnlyTruthyCondition(statement.expression, context)

@@ -1,27 +1,27 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import * as ts from "typescript"
-import { tempSymbolId } from "../context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
+import { tempSymbolId } from "akasha/language-design/lua-compiler/context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import {
   createOptionalContinuationIdentifier,
   getOptionalContinuationData,
-} from "../optional-chain-data/optional-chain-data.module.code.ts"
-import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
+} from "akasha/language-design/lua-compiler/optional-chain-data/optional-chain-data.module.code.ts"
+import { transformInPrecedingStatementScope } from "akasha/language-design/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
 import {
   canBeFalsyWhenNotNull,
   expressionResultIsUsed,
-} from "../typescript/typescript.module.code.ts"
-import { assert, cast } from "../utils/utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { assert, cast } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
 import {
   transformElementAccessExpressionWithCapture,
   transformPropertyAccessExpressionWithCapture,
-} from "../visit-access/visit-access.module.code.ts"
-import { wrapInStatement } from "../visit-expression-statement/visit-expression-statement.module.code.ts"
-import { transformOptionalChainWithCaptureHolder } from "../visit-optional-chain-deps/visit-optional-chain-deps.module.code.ts"
-import type { ExpressionWithThisValue } from "../visit-this-value-capture/visit-this-value-capture.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-access/visit-access.module.code.ts"
+import { wrapInStatement } from "akasha/language-design/lua-compiler/visit-expression-statement/visit-expression-statement.module.code.ts"
+import { transformOptionalChainWithCaptureHolder } from "akasha/language-design/lua-compiler/visit-optional-chain-deps/visit-optional-chain-deps.module.code.ts"
+import type { ExpressionWithThisValue } from "akasha/language-design/lua-compiler/visit-this-value-capture/visit-this-value-capture.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import * as ts from "typescript"
 
 type NormalOptionalChain = ts.PropertyAccessChain | ts.ElementAccessChain | ts.CallChain
 

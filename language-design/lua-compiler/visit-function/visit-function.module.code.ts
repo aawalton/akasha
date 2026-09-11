@@ -1,40 +1,45 @@
-import * as ts from "typescript"
-import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
+import { LuaTarget } from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import {
   createDefaultExportStringLiteral,
   hasDefaultExportModifier,
-} from "../export-scope/export-scope.module.code.ts"
-import { createExportsIdentifier } from "../exports-identifier/exports-identifier.module.code.ts"
+} from "akasha/language-design/lua-compiler/export-scope/export-scope.module.code.ts"
+import { createExportsIdentifier } from "akasha/language-design/lua-compiler/exports-identifier/exports-identifier.module.code.ts"
 import {
   ContextType,
   getFunctionContextType,
-} from "../function-context/function-context.module.code.ts"
+} from "akasha/language-design/lua-compiler/function-context/function-context.module.code.ts"
 import {
   createLocalOrExportedOrGlobalDeclaration,
   createSelfIdentifier,
   wrapInTable,
-} from "../lua-ast/lua-ast.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
-import { peekScope, performHoisting, type Scope, ScopeType } from "../scope/scope.module.code.ts"
-import { assert } from "../utils/utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { transformLuaLibFunction } from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { transformInPrecedingStatementScope } from "akasha/language-design/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
+import {
+  peekScope,
+  performHoisting,
+  type Scope,
+  ScopeType,
+} from "akasha/language-design/lua-compiler/scope/scope.module.code.ts"
+import { assert } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
 import {
   isAsyncFunction,
   wrapInAsyncAwaiter,
-} from "../visit-async-await/visit-async-await.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-async-await/visit-async-await.module.code.ts"
 import {
   createCallableTable,
   isFunctionTypeWithProperties,
-} from "../visit-function-shape/visit-function-shape.module.code.ts"
-import { transformIdentifier } from "../visit-identifier/visit-identifier.module.code.ts"
-import { transformExpressionBodyToReturnStatement } from "../visit-return/visit-return.module.code.ts"
-import { transformBindingPattern } from "../visit-variable-declaration/visit-variable-declaration.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-function-shape/visit-function-shape.module.code.ts"
+import { transformIdentifier } from "akasha/language-design/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
+import { transformExpressionBodyToReturnStatement } from "akasha/language-design/lua-compiler/visit-return/visit-return.module.code.ts"
+import { transformBindingPattern } from "akasha/language-design/lua-compiler/visit-variable-declaration/visit-variable-declaration.module.code.ts"
+import * as ts from "typescript"
 
 function transformParameterDefaultValueDeclaration(
   context: TransformationContext,

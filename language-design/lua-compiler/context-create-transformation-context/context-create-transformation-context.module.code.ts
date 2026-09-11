@@ -1,5 +1,4 @@
-import * as ts from "typescript"
-import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
+import { LuaTarget } from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
 import {
   moveToPrecedingTemp as moveToPrecedingTempImpl,
   shouldMoveToTemp as shouldMoveToTempImpl,
@@ -7,28 +6,35 @@ import {
   transformCallAndArguments as transformCallAndArgumentsImpl,
   transformExpressionList as transformExpressionListImpl,
   transformOrderedExpressions as transformOrderedExpressionsImpl,
-} from "../context-dispatch-helpers/context-dispatch-helpers.module.code.ts"
+} from "akasha/language-design/lua-compiler/context-dispatch-helpers/context-dispatch-helpers.module.code.ts"
 import {
   assertAllStatements,
   assertIsExpression,
-} from "../context-lua-node-assertions/context-lua-node-assertions.module.code.ts"
-import { createTempNames } from "../context-temp-names/context-temp-names.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+} from "akasha/language-design/lua-compiler/context-lua-node-assertions/context-lua-node-assertions.module.code.ts"
+import { createTempNames } from "akasha/language-design/lua-compiler/context-temp-names/context-temp-names.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import type {
   ExpressionLikeNode,
   FunctionVisitor,
   StatementLikeNode,
   VisitorMap,
-} from "../context-visitors/context-visitors.module.code.ts"
-import { type OneToManyVisitorResult, unwrapVisitorResult } from "../lua-ast/lua-ast.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import type * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import type { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import type { Scope, ScopeType } from "../scope/scope.module.code.ts"
-import type { SymbolInfo } from "../symbols/symbols.module.code.ts"
-import { unsupportedNodeKind } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { assert, castArray } from "../utils/utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import {
+  type OneToManyVisitorResult,
+  unwrapVisitorResult,
+} from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import type * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import type { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import type {
+  Scope,
+  ScopeType,
+} from "akasha/language-design/lua-compiler/scope/scope.module.code.ts"
+import type { SymbolInfo } from "akasha/language-design/lua-compiler/symbols/symbols.module.code.ts"
+import { unsupportedNodeKind } from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import { assert, castArray } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import * as ts from "typescript"
 
 export function createTransformationContext(
   program: ts.Program,

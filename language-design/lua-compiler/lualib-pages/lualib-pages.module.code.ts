@@ -1,9 +1,9 @@
 import { existsSync, realpathSync } from "node:fs"
 import { basename, join } from "node:path"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 
 const PAGE = ".lualib.ts"
 

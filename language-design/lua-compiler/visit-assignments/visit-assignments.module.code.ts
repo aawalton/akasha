@@ -1,27 +1,33 @@
-import * as ts from "typescript"
-import { SyntaxKind } from "typescript"
-import { validateAssignment } from "../assignment-validation/assignment-validation.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+import { validateAssignment } from "akasha/language-design/lua-compiler/assignment-validation/assignment-validation.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import {
   createExportedIdentifier,
   getDependenciesOfSymbol,
   isSymbolExported,
-} from "../export-scope/export-scope.module.code.ts"
-import { createBoundedUnpackCall, wrapInTable } from "../lua-ast/lua-ast.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
+} from "akasha/language-design/lua-compiler/export-scope/export-scope.module.code.ts"
+import {
+  createBoundedUnpackCall,
+  wrapInTable,
+} from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { transformLuaLibFunction } from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { transformInPrecedingStatementScope } from "akasha/language-design/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
 import {
   cannotAssignToNodeOfKind,
   notAllowedOptionalAssignment,
-} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isArrayType, isDestructuringAssignment } from "../typescript/typescript.module.code.ts"
-import { transformElementAccessArgument } from "../visit-access/visit-access.module.code.ts"
-import { isArrayLength } from "../visit-array-length/visit-array-length.module.code.ts"
-import { requireTransformDestructuringAssignment } from "../visit-destructuring-deps/visit-destructuring-deps.module.code.ts"
-import { isMultiReturnCall } from "../visit-extension-multi/visit-extension-multi.module.code.ts"
+} from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import {
+  isArrayType,
+  isDestructuringAssignment,
+} from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { transformElementAccessArgument } from "akasha/language-design/lua-compiler/visit-access/visit-access.module.code.ts"
+import { isArrayLength } from "akasha/language-design/lua-compiler/visit-array-length/visit-array-length.module.code.ts"
+import { requireTransformDestructuringAssignment } from "akasha/language-design/lua-compiler/visit-destructuring-deps/visit-destructuring-deps.module.code.ts"
+import { isMultiReturnCall } from "akasha/language-design/lua-compiler/visit-extension-multi/visit-extension-multi.module.code.ts"
+import * as ts from "typescript"
+import { SyntaxKind } from "typescript"
 
 export function transformAssignmentLeftHandSideExpression(
   context: TransformationContext,

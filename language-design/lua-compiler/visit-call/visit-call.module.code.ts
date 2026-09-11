@@ -1,31 +1,31 @@
-import * as ts from "typescript"
-import { transformBuiltinCallExpression } from "../builtins/builtins.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
+import { transformBuiltinCallExpression } from "akasha/language-design/lua-compiler/builtins/builtins.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import {
   ContextType,
   getCallContextType,
-} from "../function-context/function-context.module.code.ts"
-import { wrapInTable } from "../lua-ast/lua-ast.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { getOptionalContinuationData } from "../optional-chain-data/optional-chain-data.module.code.ts"
-import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
-import { isValidLuaIdentifier } from "../safe-names/safe-names.module.code.ts"
-import { unsupportedBuiltinOptionalCall } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
+} from "akasha/language-design/lua-compiler/function-context/function-context.module.code.ts"
+import { wrapInTable } from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { getOptionalContinuationData } from "akasha/language-design/lua-compiler/optional-chain-data/optional-chain-data.module.code.ts"
+import { transformInPrecedingStatementScope } from "akasha/language-design/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
+import { isValidLuaIdentifier } from "akasha/language-design/lua-compiler/safe-names/safe-names.module.code.ts"
+import { unsupportedBuiltinOptionalCall } from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
 import {
   getCalledExpression,
   isExpressionWithEvaluationEffect,
-} from "../typescript/typescript.module.code.ts"
-import { transformElementAccessArgument } from "../visit-access/visit-access.module.code.ts"
-import { transformLanguageExtensionCallExpression } from "../visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
+} from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { transformElementAccessArgument } from "akasha/language-design/lua-compiler/visit-access/visit-access.module.code.ts"
+import { transformLanguageExtensionCallExpression } from "akasha/language-design/lua-compiler/visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
 import {
   isMultiReturnCall,
   shouldMultiReturnCallBeWrapped,
-} from "../visit-extension-multi/visit-extension-multi.module.code.ts"
-import { getCustomNameFromSymbol } from "../visit-identifier/visit-identifier.module.code.ts"
-import { transformImportExpression } from "../visit-import/visit-import.module.code.ts"
-import { transformOptionalChain } from "../visit-optional-chaining/visit-optional-chaining.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-extension-multi/visit-extension-multi.module.code.ts"
+import { getCustomNameFromSymbol } from "akasha/language-design/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
+import { transformImportExpression } from "akasha/language-design/lua-compiler/visit-import/visit-import.module.code.ts"
+import { transformOptionalChain } from "akasha/language-design/lua-compiler/visit-optional-chaining/visit-optional-chaining.module.code.ts"
+import * as ts from "typescript"
 
 function transformCallWithArguments(
   context: TransformationContext,

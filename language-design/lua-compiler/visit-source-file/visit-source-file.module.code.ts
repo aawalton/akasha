@@ -1,13 +1,16 @@
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import { createExportsIdentifier } from "akasha/language-design/lua-compiler/exports-identifier/exports-identifier.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { transformInPrecedingStatementScope } from "akasha/language-design/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
+import {
+  performHoisting,
+  ScopeType,
+} from "akasha/language-design/lua-compiler/scope/scope.module.code.ts"
+import { hasExportEquals } from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { assert } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
 import * as ts from "typescript"
 import { z } from "zod"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import { createExportsIdentifier } from "../exports-identifier/exports-identifier.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
-import { performHoisting, ScopeType } from "../scope/scope.module.code.ts"
-import { hasExportEquals } from "../typescript/typescript.module.code.ts"
-import { assert } from "../utils/utils.module.code.ts"
 
 export const transformSourceFileNode: FunctionVisitor<ts.SourceFile> = (node, context) => {
   let statements: readonly luaStatements.Statement[] = []

@@ -1,19 +1,19 @@
-import * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import {
   invalidMultiIterableWithoutDestructuring,
   invalidPairsIterableWithoutDestructuring,
-} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isReferenceType } from "../typescript/typescript.module.code.ts"
-import { cast } from "../utils/utils.module.code.ts"
-import { isMultiReturnType } from "../visit-extension-multi/visit-extension-multi.module.code.ts"
+} from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import { isReferenceType } from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { cast } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import { isMultiReturnType } from "akasha/language-design/lua-compiler/visit-extension-multi/visit-extension-multi.module.code.ts"
 import {
   getVariableDeclarationBinding,
   transformForInitializer,
-} from "../visit-utils/visit-utils.module.code.ts"
-import { transformArrayBindingElement } from "../visit-variable-declaration/visit-variable-declaration.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-utils/visit-utils.module.code.ts"
+import { transformArrayBindingElement } from "akasha/language-design/lua-compiler/visit-variable-declaration/visit-variable-declaration.module.code.ts"
+import * as ts from "typescript"
 
 function transformForOfMultiIterableStatement(
   context: TransformationContext,

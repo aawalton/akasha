@@ -1,13 +1,13 @@
-import type * as ts from "typescript"
-import { transformStringConstructorCall } from "../builtin-string/builtin-string.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import { transformStringConstructorCall } from "akasha/language-design/lua-compiler/builtin-string/builtin-string.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import {
   importLuaLibFeature,
   transformLuaLibFunction,
-} from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { isNumberType } from "../typescript/typescript.module.code.ts"
+} from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { isNumberType } from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import type * as ts from "typescript"
 
 const schedulingFeatures = new Map<string, LuaLibFeature>([
   ["clearInterval", LuaLibFeature.ClearInterval],

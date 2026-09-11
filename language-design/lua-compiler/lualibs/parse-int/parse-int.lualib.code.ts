@@ -1,4 +1,4 @@
-import { __TS__Match } from "../match/match.lualib.code.ts"
+import { __TS__Match } from "akasha/language-design/lua-compiler/lualibs/match/match.lualib.code.ts"
 
 const parseIntBasePattern = "0123456789aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTvVwWxXyYzZ"
 

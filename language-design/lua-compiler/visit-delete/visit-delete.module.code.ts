@@ -1,12 +1,15 @@
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import { addToNumericExpression } from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import { transformLuaLibFunction } from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { unsupportedProperty } from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import {
+  isArrayType,
+  isNumberType,
+} from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { transformOptionalDeleteExpression } from "akasha/language-design/lua-compiler/visit-optional-chaining/visit-optional-chaining.module.code.ts"
 import * as ts from "typescript"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import { addToNumericExpression } from "../lua-ast/lua-ast.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { unsupportedProperty } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isArrayType, isNumberType } from "../typescript/typescript.module.code.ts"
-import { transformOptionalDeleteExpression } from "../visit-optional-chaining/visit-optional-chaining.module.code.ts"
 
 export const transformDeleteExpression: FunctionVisitor<ts.DeleteExpression> = (node, context) => {
   if (ts.isOptionalChain(node.expression)) {

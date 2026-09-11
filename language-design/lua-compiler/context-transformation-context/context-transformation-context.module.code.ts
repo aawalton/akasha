@@ -1,20 +1,23 @@
-import type * as ts from "typescript"
 import type {
   CompilerOptions,
   LuaTarget,
-} from "../compiler-options/compiler-options.module.code.ts"
+} from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
 import type {
   ExpressionLikeNode,
   StatementLikeNode,
-} from "../context-visitors/context-visitors.module.code.ts"
-import type { OneToManyVisitorResult } from "../lua-ast/lua-ast.module.code.ts"
-import type * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import type * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import type { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import type { Scope, ScopeType } from "../scope/scope.module.code.ts"
-import type { SymbolInfo } from "../symbols/symbols.module.code.ts"
-import type { ClassSuperInfo } from "../visitors-class/visitors-class.module.code.ts"
+} from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import type { OneToManyVisitorResult } from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import type * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import type * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import type * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import type { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import type {
+  Scope,
+  ScopeType,
+} from "akasha/language-design/lua-compiler/scope/scope.module.code.ts"
+import type { SymbolInfo } from "akasha/language-design/lua-compiler/symbols/symbols.module.code.ts"
+import type { ClassSuperInfo } from "akasha/language-design/lua-compiler/visitors-class/visitors-class.module.code.ts"
+import type * as ts from "typescript"
 
 export interface AllAccessorDeclarations {
   firstAccessor: ts.AccessorDeclaration

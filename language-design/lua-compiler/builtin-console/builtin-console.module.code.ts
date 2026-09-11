@@ -1,7 +1,7 @@
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import { unsupportedProperty } from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
 import * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import { unsupportedProperty } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
 
 const isStringFormatTemplate = (node: ts.Expression) =>
   ts.isStringLiteral(node) && node.text.includes("%")

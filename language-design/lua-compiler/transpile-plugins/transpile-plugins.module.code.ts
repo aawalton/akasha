@@ -1,18 +1,18 @@
 import * as path from "node:path"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
-import * as resolve from "resolve"
-import type * as ts from "typescript"
-import * as cliDiagnostics from "../cli-diagnostics/cli-diagnostics.module.code.ts"
-import type { CompilerOptions } from "../compiler-options/compiler-options.module.code.ts"
-import type { Visitors } from "../context-visitors/context-visitors.module.code.ts"
-import type { Printer } from "../lua-printer-helpers/lua-printer-helpers.module.code.ts"
-import * as performance from "../measure-performance/measure-performance.module.code.ts"
-import * as diagnosticFactories from "../transpile-diagnostics/transpile-diagnostics.module.code.ts"
+import * as cliDiagnostics from "akasha/language-design/lua-compiler/cli-diagnostics/cli-diagnostics.module.code.ts"
+import type { CompilerOptions } from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import type { Visitors } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import type { Printer } from "akasha/language-design/lua-compiler/lua-printer-helpers/lua-printer-helpers.module.code.ts"
+import * as performance from "akasha/language-design/lua-compiler/measure-performance/measure-performance.module.code.ts"
+import * as diagnosticFactories from "akasha/language-design/lua-compiler/transpile-diagnostics/transpile-diagnostics.module.code.ts"
 import type {
   EmitFile,
   ProcessedFile,
-} from "../transpile-emit-file/transpile-emit-file.module.code.ts"
-import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
+} from "akasha/language-design/lua-compiler/transpile-emit-file/transpile-emit-file.module.code.ts"
+import type { EmitHost } from "akasha/language-design/lua-compiler/transpile-emit-host/transpile-emit-host.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import * as resolve from "resolve"
+import type * as ts from "typescript"
 
 export interface Plugin {
   visitors?: Visitors

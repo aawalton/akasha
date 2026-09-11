@@ -1,7 +1,7 @@
+import * as diagnosticFactories from "akasha/language-design/lua-compiler/transpile-diagnostics/transpile-diagnostics.module.code.ts"
+import type { Plugin } from "akasha/language-design/lua-compiler/transpile-plugins/transpile-plugins.module.code.ts"
 import type * as ts from "typescript"
 import { JsxEmit } from "typescript"
-import * as diagnosticFactories from "../transpile-diagnostics/transpile-diagnostics.module.code.ts"
-import type { Plugin } from "../transpile-plugins/transpile-plugins.module.code.ts"
 
 type OmitIndexSignature<T> = {
   [K in keyof T as string extends K ? never : number extends K ? never : K]: T[K]

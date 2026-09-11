@@ -1,16 +1,16 @@
-import * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import {
   ContextType,
   getFunctionContextType,
-} from "../function-context/function-context.module.code.ts"
-import { willWrapThisVoidAdapter } from "../this-void-adapter/this-void-adapter.module.code.ts"
+} from "akasha/language-design/lua-compiler/function-context/function-context.module.code.ts"
+import { willWrapThisVoidAdapter } from "akasha/language-design/lua-compiler/this-void-adapter/this-void-adapter.module.code.ts"
 import {
   unsupportedNoSelfFunctionConversion,
   unsupportedOverloadAssignment,
-} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isReferenceType } from "../typescript/typescript.module.code.ts"
-import { cast, getOrUpdate } from "../utils/utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import { isReferenceType } from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { cast, getOrUpdate } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import * as ts from "typescript"
 
 const typeValidationCache = new WeakMap<ts.Type, Set<ts.Type>>()
 

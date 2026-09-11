@@ -1,9 +1,9 @@
+import type { ExpressionLikeNode } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import type { OneToManyVisitorResult } from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import type * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import type * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import * as ts from "typescript"
-import type { ExpressionLikeNode } from "../context-visitors/context-visitors.module.code.ts"
-import type { OneToManyVisitorResult } from "../lua-ast/lua-ast.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import type * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 
 function isLuaStatement(node: luaCore.Node): node is luaStatements.Statement {
   return (

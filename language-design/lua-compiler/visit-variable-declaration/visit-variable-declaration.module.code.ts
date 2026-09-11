@@ -1,29 +1,29 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import * as ts from "typescript"
-import { validateAssignment } from "../assignment-validation/assignment-validation.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import { addExportToIdentifier } from "../export-scope/export-scope.module.code.ts"
+import { validateAssignment } from "akasha/language-design/lua-compiler/assignment-validation/assignment-validation.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import { addExportToIdentifier } from "akasha/language-design/lua-compiler/export-scope/export-scope.module.code.ts"
 import {
   createBoundedUnpackCall,
   createLocalOrExportedOrGlobalDeclaration,
   wrapInTable,
-} from "../lua-ast/lua-ast.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
-import { unsupportedVarDeclaration } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { assert, cast } from "../utils/utils.module.code.ts"
-import { isMultiReturnCall } from "../visit-extension-multi/visit-extension-multi.module.code.ts"
+} from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { transformLuaLibFunction } from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { transformInPrecedingStatementScope } from "akasha/language-design/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
+import { unsupportedVarDeclaration } from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import { assert, cast } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import { isMultiReturnCall } from "akasha/language-design/lua-compiler/visit-extension-multi/visit-extension-multi.module.code.ts"
 import {
   createCallableTable,
   isFunctionTypeWithProperties,
-} from "../visit-function-shape/visit-function-shape.module.code.ts"
-import { transformIdentifier } from "../visit-identifier/visit-identifier.module.code.ts"
-import { transformPropertyName } from "../visit-property-name/visit-property-name.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-function-shape/visit-function-shape.module.code.ts"
+import { transformIdentifier } from "akasha/language-design/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
+import { transformPropertyName } from "akasha/language-design/lua-compiler/visit-property-name/visit-property-name.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import * as ts from "typescript"
 
 export function transformArrayBindingElement(
   context: TransformationContext,

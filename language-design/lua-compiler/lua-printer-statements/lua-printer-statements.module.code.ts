@@ -1,7 +1,6 @@
-import type { SourceNode } from "source-map"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import {
   concatNodes,
   createSourceNode,
@@ -13,11 +12,12 @@ import {
   printComment,
   printStatementArray,
   pushIndent,
-} from "../lua-printer-core/lua-printer-core.module.code.ts"
+} from "akasha/language-design/lua-compiler/lua-printer-core/lua-printer-core.module.code.ts"
 import {
   isValidLuaFunctionDeclarationName,
   type SourceChunk,
-} from "../lua-printer-helpers/lua-printer-helpers.module.code.ts"
+} from "akasha/language-design/lua-compiler/lua-printer-helpers/lua-printer-helpers.module.code.ts"
+import type { SourceNode } from "source-map"
 
 export function printStatement(
   state: LuaPrinterState,

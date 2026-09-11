@@ -1,15 +1,15 @@
-import type * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import {
   ExtensionKind,
   getExtensionKindForNode,
-} from "../language-extension-kinds/language-extension-kinds.module.code.ts"
-import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import { operatorExtensionTransformers } from "../visit-extension-operators/visit-extension-operators.module.code.ts"
+} from "akasha/language-design/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
+import type * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import { operatorExtensionTransformers } from "akasha/language-design/lua-compiler/visit-extension-operators/visit-extension-operators.module.code.ts"
 import {
   tableExtensionTransformers,
   tableNewExtensions,
-} from "../visit-extension-table/visit-extension-table.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-extension-table/visit-extension-table.module.code.ts"
+import type * as ts from "typescript"
 
 const allCallExtensionHandlers: LanguageExtensionCallTransformerMap = {
   ...operatorExtensionTransformers,

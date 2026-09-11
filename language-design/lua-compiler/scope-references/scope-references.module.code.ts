@@ -1,7 +1,7 @@
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import { getOrUpdate } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
 import type * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import { getOrUpdate } from "../utils/utils.module.code.ts"
 
 export function markSymbolAsReferencedInCurrentScopes(
   context: TransformationContext,

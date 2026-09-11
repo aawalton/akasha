@@ -1,5 +1,5 @@
-import { __TS__Coroutines } from "../coroutines/coroutines.lualib.code.ts"
-import { __TS__Promise } from "../promise/promise.lualib.code.ts"
+import { __TS__Coroutines } from "akasha/language-design/lua-compiler/lualibs/coroutines/coroutines.lualib.code.ts"
+import { __TS__Promise } from "akasha/language-design/lua-compiler/lualibs/promise/promise.lualib.code.ts"
 
 const cocreate = __TS__Coroutines.create
 const coresume = __TS__Coroutines.resume

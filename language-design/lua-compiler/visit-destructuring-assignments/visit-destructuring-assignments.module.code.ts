@@ -1,22 +1,25 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
-import { isAssignmentPattern, isEqualsAssignment } from "../typescript/typescript.module.code.ts"
-import { cast } from "../utils/utils.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { transformLuaLibFunction } from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { transformInPrecedingStatementScope } from "akasha/language-design/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
+import {
+  isAssignmentPattern,
+  isEqualsAssignment,
+} from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { cast } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
 import {
   transformAssignment,
   transformAssignmentLeftHandSideExpression,
   transformAssignmentStatement,
-} from "../visit-assignments/visit-assignments.module.code.ts"
-import { requireTransformBinaryOperation } from "../visit-binary-operation-deps/visit-binary-operation-deps.module.code.ts"
-import { transformDestructuringAssignmentHolder } from "../visit-destructuring-deps/visit-destructuring-deps.module.code.ts"
-import { transformPropertyName } from "../visit-property-name/visit-property-name.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-assignments/visit-assignments.module.code.ts"
+import { requireTransformBinaryOperation } from "akasha/language-design/lua-compiler/visit-binary-operation-deps/visit-binary-operation-deps.module.code.ts"
+import { transformDestructuringAssignmentHolder } from "akasha/language-design/lua-compiler/visit-destructuring-deps/visit-destructuring-deps.module.code.ts"
+import { transformPropertyName } from "akasha/language-design/lua-compiler/visit-property-name/visit-property-name.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import * as ts from "typescript"
 
 export function transformDestructuringAssignment(
   context: TransformationContext,

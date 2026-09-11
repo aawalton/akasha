@@ -1,18 +1,18 @@
 import * as fs from "node:fs"
 import * as path from "node:path"
-import * as ts from "typescript"
-import { z } from "zod"
-import { parseConfigFileWithSystem } from "../cli-tsconfig/cli-tsconfig.module.code.ts"
-import type { CompilerOptions } from "../compiler-options/compiler-options.module.code.ts"
+import { parseConfigFileWithSystem } from "akasha/language-design/lua-compiler/cli-tsconfig/cli-tsconfig.module.code.ts"
+import type { CompilerOptions } from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
 import {
   createEmitOutputCollector,
   type TranspiledFile,
-} from "../transpile-output-collector/transpile-output-collector.module.code.ts"
+} from "akasha/language-design/lua-compiler/transpile-output-collector/transpile-output-collector.module.code.ts"
 import {
   createTranspiler,
   type EmitResult,
-} from "../transpile-transpiler/transpile-transpiler.module.code.ts"
-import { normalizeSlashes } from "../utils/utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/transpile-transpiler/transpile-transpiler.module.code.ts"
+import { normalizeSlashes } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import * as ts from "typescript"
+import { z } from "zod"
 
 export function transpileFiles(
   rootNames: readonly string[],

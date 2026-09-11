@@ -1,7 +1,7 @@
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import type { ExpressionWithThisValue } from "akasha/language-design/lua-compiler/visit-this-value-capture/visit-this-value-capture.module.code.ts"
 import type * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import type { ExpressionWithThisValue } from "../visit-this-value-capture/visit-this-value-capture.module.code.ts"
 
 export type TransformOptionalChainWithCaptureFn = (
   context: TransformationContext,

@@ -1,35 +1,38 @@
 import * as path from "node:path"
-import * as ts from "typescript"
 import {
   type CompilerOptions,
   isBundleEnabled,
   LuaLibImportKind,
   LuaTarget,
-} from "../compiler-options/compiler-options.module.code.ts"
-import { lualibTranspilerHolder } from "../lualib-builder-deps/lualib-builder-deps.module.code.ts"
+} from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import { lualibTranspilerHolder } from "akasha/language-design/lua-compiler/lualib-builder-deps/lualib-builder-deps.module.code.ts"
 import {
   buildMinimalLualibBundle,
   findUsedLualibFeatures,
   getLuaLibBundle,
-} from "../lualib-runtime/lualib-runtime.module.code.ts"
-import * as performance from "../measure-performance/measure-performance.module.code.ts"
-import { getBundleResult } from "../transpile-bundle/transpile-bundle.module.code.ts"
+} from "akasha/language-design/lua-compiler/lualib-runtime/lualib-runtime.module.code.ts"
+import * as performance from "akasha/language-design/lua-compiler/measure-performance/measure-performance.module.code.ts"
+import { getBundleResult } from "akasha/language-design/lua-compiler/transpile-bundle/transpile-bundle.module.code.ts"
 import type {
   EmitFile,
   ProcessedFile,
-} from "../transpile-emit-file/transpile-emit-file.module.code.ts"
-import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
-import { getPlugins, type Plugin } from "../transpile-plugins/transpile-plugins.module.code.ts"
+} from "akasha/language-design/lua-compiler/transpile-emit-file/transpile-emit-file.module.code.ts"
+import type { EmitHost } from "akasha/language-design/lua-compiler/transpile-emit-host/transpile-emit-host.module.code.ts"
+import {
+  getPlugins,
+  type Plugin,
+} from "akasha/language-design/lua-compiler/transpile-plugins/transpile-plugins.module.code.ts"
 import {
   getEmitPath,
   getSourceDir,
-} from "../transpile-program-paths/transpile-program-paths.module.code.ts"
-import { resolveDependencies } from "../transpile-resolve/transpile-resolve.module.code.ts"
+} from "akasha/language-design/lua-compiler/transpile-program-paths/transpile-program-paths.module.code.ts"
+import { resolveDependencies } from "akasha/language-design/lua-compiler/transpile-resolve/transpile-resolve.module.code.ts"
 import {
   getProgramTranspileResult,
   type TranspileOptions,
-} from "../transpile-transpile/transpile-transpile.module.code.ts"
-import { normalizeSlashes } from "../utils/utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/transpile-transpile/transpile-transpile.module.code.ts"
+import { normalizeSlashes } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import * as ts from "typescript"
 
 export interface TranspilerOptions {
   emitHost?: EmitHost

@@ -1,9 +1,9 @@
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import { createPrototypeName } from "akasha/language-design/lua-compiler/visit-constructor/visit-constructor.module.code.ts"
+import { transformPropertyName } from "akasha/language-design/lua-compiler/visit-property-name/visit-property-name.module.code.ts"
+import { isStaticNode } from "akasha/language-design/lua-compiler/visit-syntax/visit-syntax.module.code.ts"
 import type * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import { createPrototypeName } from "../visit-constructor/visit-constructor.module.code.ts"
-import { transformPropertyName } from "../visit-property-name/visit-property-name.module.code.ts"
-import { isStaticNode } from "../visit-syntax/visit-syntax.module.code.ts"
 
 export function transformMemberExpressionOwnerName(
   node: ts.PropertyDeclaration | ts.MethodDeclaration | ts.AccessorDeclaration,

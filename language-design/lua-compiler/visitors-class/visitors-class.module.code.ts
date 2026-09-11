@@ -1,46 +1,49 @@
-import * as ts from "typescript"
-import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
+import { LuaTarget } from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
 import type {
   AllAccessorDeclarations,
   TransformationContext,
-} from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
+} from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import {
   createDefaultExportExpression,
   createExportedIdentifier,
   hasDefaultExportModifier,
   isSymbolExported,
   shouldBeExported,
-} from "../export-scope/export-scope.module.code.ts"
-import { createSelfIdentifier } from "../lua-ast/lua-ast.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
-import { createSafeName, isUnsafeName } from "../safe-names/safe-names.module.code.ts"
-import { findFirstNodeAbove } from "../typescript/typescript.module.code.ts"
-import { transformAccessorDeclarations } from "../visit-accessors/visit-accessors.module.code.ts"
+} from "akasha/language-design/lua-compiler/export-scope/export-scope.module.code.ts"
+import { createSelfIdentifier } from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { transformInPrecedingStatementScope } from "akasha/language-design/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
+import {
+  createSafeName,
+  isUnsafeName,
+} from "akasha/language-design/lua-compiler/safe-names/safe-names.module.code.ts"
+import { findFirstNodeAbove } from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { transformAccessorDeclarations } from "akasha/language-design/lua-compiler/visit-accessors/visit-accessors.module.code.ts"
 import {
   createConstructorName,
   transformConstructorDeclaration,
-} from "../visit-constructor/visit-constructor.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-constructor/visit-constructor.module.code.ts"
 import {
   createClassDecoratingExpression,
   createClassPropertyDecoratingExpression,
   createConstructorDecoratingExpression,
-} from "../visit-decorators/visit-decorators.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-decorators/visit-decorators.module.code.ts"
 import {
   transformClassInstanceFields,
   transformStaticPropertyDeclaration,
-} from "../visit-fields/visit-fields.module.code.ts"
-import { transformIdentifier } from "../visit-identifier/visit-identifier.module.code.ts"
-import { transformMethodDeclaration } from "../visit-method/visit-method.module.code.ts"
-import { createClassSetup } from "../visit-setup/visit-setup.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-fields/visit-fields.module.code.ts"
+import { transformIdentifier } from "akasha/language-design/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
+import { transformMethodDeclaration } from "akasha/language-design/lua-compiler/visit-method/visit-method.module.code.ts"
+import { createClassSetup } from "akasha/language-design/lua-compiler/visit-setup/visit-setup.module.code.ts"
 import {
   getExtendedNode,
   getExtendedType,
   isStaticNode,
-} from "../visit-syntax/visit-syntax.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-syntax/visit-syntax.module.code.ts"
+import * as ts from "typescript"
 
 export const transformClassDeclaration: FunctionVisitor<ts.ClassLikeDeclaration> = (
   declaration,

@@ -1,6 +1,5 @@
-import { SourceNode } from "source-map"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import {
   createSourceNode,
   indent,
@@ -9,7 +8,7 @@ import {
   popIndent,
   printBlock,
   pushIndent,
-} from "../lua-printer-core/lua-printer-core.module.code.ts"
+} from "akasha/language-design/lua-compiler/lua-printer-core/lua-printer-core.module.code.ts"
 import {
   escapeString,
   isSimpleExpression,
@@ -17,8 +16,9 @@ import {
   operatorPrecedence,
   rightAssociativeOperators,
   type SourceChunk,
-} from "../lua-printer-helpers/lua-printer-helpers.module.code.ts"
-import { isValidLuaIdentifier } from "../safe-names/safe-names.module.code.ts"
+} from "akasha/language-design/lua-compiler/lua-printer-helpers/lua-printer-helpers.module.code.ts"
+import { isValidLuaIdentifier } from "akasha/language-design/lua-compiler/safe-names/safe-names.module.code.ts"
+import { SourceNode } from "source-map"
 
 export function printExpression(
   state: LuaPrinterState,

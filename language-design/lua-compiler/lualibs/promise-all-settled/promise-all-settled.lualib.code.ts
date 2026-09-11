@@ -1,4 +1,4 @@
-import { __TS__Promise } from "../promise/promise.lualib.code.ts"
+import { __TS__Promise } from "akasha/language-design/lua-compiler/lualibs/promise/promise.lualib.code.ts"
 
 type Resolved<T> = T extends PromiseLike<infer U> ? U : T
 

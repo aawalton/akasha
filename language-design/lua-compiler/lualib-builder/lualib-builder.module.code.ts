@@ -1,26 +1,29 @@
 import * as path from "node:path"
-import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
-import * as ts from "typescript"
-import { parseConfigFileWithSystem } from "../cli-tsconfig/cli-tsconfig.module.code.ts"
-import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
+import { parseConfigFileWithSystem } from "akasha/language-design/lua-compiler/cli-tsconfig/cli-tsconfig.module.code.ts"
+import { LuaTarget } from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import {
   requireLualibPrinter,
   requireLualibTranspiler,
-} from "../lualib-builder-deps/lualib-builder-deps.module.code.ts"
+} from "akasha/language-design/lua-compiler/lualib-builder-deps/lualib-builder-deps.module.code.ts"
 import {
   getLualibBundleReturn,
   LuaLibFeature,
   type LuaLibModulesInfo,
   resolveRecursiveLualibFeatures,
-} from "../lualib-features/lualib-features.module.code.ts"
-import { lualibPages, sourcesFrom } from "../lualib-pages/lualib-pages.module.code.ts"
-import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
-import type { Plugin } from "../transpile-plugins/transpile-plugins.module.code.ts"
-import { cast } from "../utils/utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import {
+  lualibPages,
+  sourcesFrom,
+} from "akasha/language-design/lua-compiler/lualib-pages/lualib-pages.module.code.ts"
+import type { EmitHost } from "akasha/language-design/lua-compiler/transpile-emit-host/transpile-emit-host.module.code.ts"
+import type { Plugin } from "akasha/language-design/lua-compiler/transpile-plugins/transpile-plugins.module.code.ts"
+import { cast } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
+import * as ts from "typescript"
 
 function isExportTable(node: luaCore.Node): node is luaExpressions.Identifier {
   return luaExpressions.isIdentifier(node) && node.text === "____exports"

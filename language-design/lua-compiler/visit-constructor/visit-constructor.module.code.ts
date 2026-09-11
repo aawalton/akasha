@@ -1,17 +1,17 @@
-import * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import { createSelfIdentifier } from "../lua-ast/lua-ast.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { ScopeType } from "../scope/scope.module.code.ts"
-import { transformClassInstanceFields } from "../visit-fields/visit-fields.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import { createSelfIdentifier } from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { ScopeType } from "akasha/language-design/lua-compiler/scope/scope.module.code.ts"
+import { transformClassInstanceFields } from "akasha/language-design/lua-compiler/visit-fields/visit-fields.module.code.ts"
 import {
   transformFunctionBodyContent,
   transformFunctionBodyHeader,
   transformParameters,
-} from "../visit-function/visit-function.module.code.ts"
-import { transformIdentifier } from "../visit-identifier/visit-identifier.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-function/visit-function.module.code.ts"
+import { transformIdentifier } from "akasha/language-design/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
+import * as ts from "typescript"
 
 export function createPrototypeName(
   className: luaExpressions.Identifier

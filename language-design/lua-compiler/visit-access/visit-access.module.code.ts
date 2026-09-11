@@ -1,37 +1,47 @@
-import * as ts from "typescript"
-import { SyntaxKind } from "typescript"
-import { AnnotationKind, getTypeAnnotations } from "../annotations/annotations.module.code.ts"
-import { transformBuiltinPropertyAccessExpression } from "../builtins/builtins.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import { getSymbolExportScope, isSymbolExported } from "../export-scope/export-scope.module.code.ts"
-import { createExportsIdentifier } from "../exports-identifier/exports-identifier.module.code.ts"
-import { getExtensionKindForNode } from "../language-extension-kinds/language-extension-kinds.module.code.ts"
-import { addToNumericExpression } from "../lua-ast/lua-ast.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { isOptionalContinuation } from "../optional-chain-data/optional-chain-data.module.code.ts"
-import { maybeWrapThisVoidAsAdapter } from "../this-void-adapter/this-void-adapter.module.code.ts"
+import {
+  AnnotationKind,
+  getTypeAnnotations,
+} from "akasha/language-design/lua-compiler/annotations/annotations.module.code.ts"
+import { transformBuiltinPropertyAccessExpression } from "akasha/language-design/lua-compiler/builtins/builtins.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import {
+  getSymbolExportScope,
+  isSymbolExported,
+} from "akasha/language-design/lua-compiler/export-scope/export-scope.module.code.ts"
+import { createExportsIdentifier } from "akasha/language-design/lua-compiler/exports-identifier/exports-identifier.module.code.ts"
+import { getExtensionKindForNode } from "akasha/language-design/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
+import { addToNumericExpression } from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import { transformLuaLibFunction } from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { isOptionalContinuation } from "akasha/language-design/lua-compiler/optional-chain-data/optional-chain-data.module.code.ts"
+import { maybeWrapThisVoidAsAdapter } from "akasha/language-design/lua-compiler/this-void-adapter/this-void-adapter.module.code.ts"
 import {
   invalidCallExtensionUse,
   invalidMultiReturnAccess,
   unsupportedOptionalCompileMembersOnly,
-} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isArrayType, isNumberType, isStringType } from "../typescript/typescript.module.code.ts"
-import { assert } from "../utils/utils.module.code.ts"
-import { tryGetConstEnumValue } from "../visit-enum/visit-enum.module.code.ts"
-import { callExtensions } from "../visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
+} from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import {
+  isArrayType,
+  isNumberType,
+  isStringType,
+} from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { assert } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import { tryGetConstEnumValue } from "akasha/language-design/lua-compiler/visit-enum/visit-enum.module.code.ts"
+import { callExtensions } from "akasha/language-design/lua-compiler/visit-extension-call-extension/visit-extension-call-extension.module.code.ts"
 import {
   isMultiReturnCall,
   returnsMultiType,
-} from "../visit-extension-multi/visit-extension-multi.module.code.ts"
-import { getCustomNameFromSymbol } from "../visit-identifier/visit-identifier.module.code.ts"
-import { requireTransformOptionalChainWithCapture } from "../visit-optional-chain-deps/visit-optional-chain-deps.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-extension-multi/visit-extension-multi.module.code.ts"
+import { getCustomNameFromSymbol } from "akasha/language-design/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
+import { requireTransformOptionalChainWithCapture } from "akasha/language-design/lua-compiler/visit-optional-chain-deps/visit-optional-chain-deps.module.code.ts"
 import {
   captureThisValue,
   type ExpressionWithThisValue,
-} from "../visit-this-value-capture/visit-this-value-capture.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-this-value-capture/visit-this-value-capture.module.code.ts"
+import * as ts from "typescript"
+import { SyntaxKind } from "typescript"
 
 function addOneToArrayAccessArgument(
   context: TransformationContext,

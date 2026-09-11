@@ -1,15 +1,18 @@
-import * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
 import {
   transformInPrecedingStatementScope,
   type WithPrecedingStatements,
-} from "../preceding-statements/preceding-statements.module.code.ts"
-import { ScopeType, separateHoistedStatements } from "../scope/scope.module.code.ts"
-import { createShortCircuitBinaryExpressionPrecedingStatements } from "../visitors-binary-expression/visitors-binary-expression.module.code.ts"
+} from "akasha/language-design/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
+import {
+  ScopeType,
+  separateHoistedStatements,
+} from "akasha/language-design/lua-compiler/scope/scope.module.code.ts"
+import { createShortCircuitBinaryExpressionPrecedingStatements } from "akasha/language-design/lua-compiler/visitors-binary-expression/visitors-binary-expression.module.code.ts"
+import * as ts from "typescript"
 
 const containsBreakOrReturn = (nodes: Iterable<ts.Node>): boolean => {
   for (const s of nodes) {

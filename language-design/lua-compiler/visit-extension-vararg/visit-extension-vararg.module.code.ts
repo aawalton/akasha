@@ -1,8 +1,11 @@
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import * as extensions from "akasha/language-design/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
+import { getExtensionKindForSymbol } from "akasha/language-design/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
+import {
+  type Scope,
+  ScopeType,
+} from "akasha/language-design/lua-compiler/scope/scope.module.code.ts"
 import type * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import * as extensions from "../language-extension-kinds/language-extension-kinds.module.code.ts"
-import { getExtensionKindForSymbol } from "../language-extension-kinds/language-extension-kinds.module.code.ts"
-import { type Scope, ScopeType } from "../scope/scope.module.code.ts"
 
 export function isGlobalVarargConstant(
   context: TransformationContext,

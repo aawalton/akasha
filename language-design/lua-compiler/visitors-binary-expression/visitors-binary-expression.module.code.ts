@@ -1,42 +1,42 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import * as ts from "typescript"
-import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import { wrapInToStringForConcat } from "../lua-ast/lua-ast.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
+import { LuaTarget } from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import { wrapInToStringForConcat } from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { transformLuaLibFunction } from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
 import {
   transformInPrecedingStatementScope,
   type WithPrecedingStatements,
-} from "../preceding-statements/preceding-statements.module.code.ts"
+} from "akasha/language-design/lua-compiler/preceding-statements/preceding-statements.module.code.ts"
 import {
   canBeFalsyWhenNotNull,
   isEqualsAssignment,
   isStandardLibraryType,
   isStringType,
-} from "../typescript/typescript.module.code.ts"
-import { assert, cast } from "../utils/utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { assert, cast } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
 import {
   transformAssignmentExpression,
   transformAssignmentStatement,
-} from "../visit-assignments/visit-assignments.module.code.ts"
-import { transformBinaryOperationHolder } from "../visit-binary-operation-deps/visit-binary-operation-deps.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-assignments/visit-assignments.module.code.ts"
+import { transformBinaryOperationHolder } from "akasha/language-design/lua-compiler/visit-binary-operation-deps/visit-binary-operation-deps.module.code.ts"
 import {
   type BitOperator,
   isBitOperator,
   transformBinaryBitOperation,
-} from "../visit-bit/visit-bit.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-bit/visit-bit.module.code.ts"
 import {
   isCompoundAssignmentToken,
   transformCompoundAssignmentExpression,
   transformCompoundAssignmentStatement,
   unwrapCompoundAssignmentToken,
-} from "../visit-compound/visit-compound.module.code.ts"
-import { requireTransformTypeOfBinaryExpression } from "../visit-typeof-deps/visit-typeof-deps.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-compound/visit-compound.module.code.ts"
+import { requireTransformTypeOfBinaryExpression } from "akasha/language-design/lua-compiler/visit-typeof-deps/visit-typeof-deps.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import * as ts from "typescript"
 
 type ShortCircuitOperator =
   | ts.SyntaxKind.AmpersandAmpersandToken

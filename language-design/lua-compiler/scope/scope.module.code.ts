@@ -1,14 +1,14 @@
-import * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { getSymbolInfo } from "../symbols/symbols.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import type * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { getSymbolInfo } from "akasha/language-design/lua-compiler/symbols/symbols.module.code.ts"
 import {
   findFirstNodeAbove,
   getFirstDeclarationInFile,
-} from "../typescript/typescript.module.code.ts"
-import { assert, isNonNull } from "../utils/utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { assert, isNonNull } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import * as ts from "typescript"
 
 export const ScopeType = {
   File: 1 << 0,

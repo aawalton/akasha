@@ -1,12 +1,12 @@
+import type { CompilerOptions } from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import type * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import type * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { shouldAllowUnicode } from "akasha/language-design/lua-compiler/safe-names/safe-names.module.code.ts"
+import type { EmitHost } from "akasha/language-design/lua-compiler/transpile-emit-host/transpile-emit-host.module.code.ts"
 import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 import type { SourceNode } from "source-map"
 import type * as ts from "typescript"
-import type { CompilerOptions } from "../compiler-options/compiler-options.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import type * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { shouldAllowUnicode } from "../safe-names/safe-names.module.code.ts"
-import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
 
 const escapeStringRegExp = /[\b\f\n\r\t\v\\"\0]/g
 const escapeStringMap = new Map<string, string>([

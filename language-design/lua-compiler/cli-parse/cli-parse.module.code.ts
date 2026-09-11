@@ -1,13 +1,13 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import * as ts from "typescript"
-import { z } from "zod"
-import * as cliDiagnostics from "../cli-diagnostics/cli-diagnostics.module.code.ts"
+import * as cliDiagnostics from "akasha/language-design/lua-compiler/cli-diagnostics/cli-diagnostics.module.code.ts"
 import {
   BuildMode,
   type CompilerOptions,
   LuaLibImportKind,
   LuaTarget,
-} from "../compiler-options/compiler-options.module.code.ts"
+} from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import * as ts from "typescript"
+import { z } from "zod"
 
 const JsonArraySchema = z.unknown()
 

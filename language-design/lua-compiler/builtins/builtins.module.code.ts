@@ -1,60 +1,60 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import * as ts from "typescript"
 import {
   transformArrayConstructorCall,
   transformArrayProperty,
   transformArrayPrototypeCall,
-} from "../builtin-array/builtin-array.module.code.ts"
-import { transformConsoleCall } from "../builtin-console/builtin-console.module.code.ts"
+} from "akasha/language-design/lua-compiler/builtin-array/builtin-array.module.code.ts"
+import { transformConsoleCall } from "akasha/language-design/lua-compiler/builtin-console/builtin-console.module.code.ts"
 import {
   transformFunctionProperty,
   transformFunctionPrototypeCall,
-} from "../builtin-function/builtin-function.module.code.ts"
-import { tryTransformBuiltinGlobalCall } from "../builtin-global/builtin-global.module.code.ts"
-import { transformMapConstructorCall } from "../builtin-map/builtin-map.module.code.ts"
+} from "akasha/language-design/lua-compiler/builtin-function/builtin-function.module.code.ts"
+import { tryTransformBuiltinGlobalCall } from "akasha/language-design/lua-compiler/builtin-global/builtin-global.module.code.ts"
+import { transformMapConstructorCall } from "akasha/language-design/lua-compiler/builtin-map/builtin-map.module.code.ts"
 import {
   transformMathCall,
   transformMathProperty,
-} from "../builtin-math/builtin-math.module.code.ts"
+} from "akasha/language-design/lua-compiler/builtin-math/builtin-math.module.code.ts"
 import {
   transformNumberConstructorCall,
   transformNumberProperty,
   transformNumberPrototypeCall,
-} from "../builtin-number/builtin-number.module.code.ts"
+} from "akasha/language-design/lua-compiler/builtin-number/builtin-number.module.code.ts"
 import {
   transformObjectConstructorCall,
   tryTransformObjectPrototypeCall,
-} from "../builtin-object/builtin-object.module.code.ts"
+} from "akasha/language-design/lua-compiler/builtin-object/builtin-object.module.code.ts"
 import {
   transformStringConstructorMethodCall,
   transformStringProperty,
   transformStringPrototypeCall,
-} from "../builtin-string/builtin-string.module.code.ts"
-import { transformSymbolConstructorCall } from "../builtin-symbol/builtin-symbol.module.code.ts"
-import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import { createNaN } from "../lua-ast/lua-ast.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+} from "akasha/language-design/lua-compiler/builtin-string/builtin-string.module.code.ts"
+import { transformSymbolConstructorCall } from "akasha/language-design/lua-compiler/builtin-symbol/builtin-symbol.module.code.ts"
+import { LuaTarget } from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import { createNaN } from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import {
   createStaticPromiseFunctionAccessor,
   importLuaLibFeature,
   transformLuaLibFunction,
-} from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { getIdentifierSymbolId } from "../symbols/symbols.module.code.ts"
-import { maybeWrapThisVoidAsAdapter } from "../this-void-adapter/this-void-adapter.module.code.ts"
+} from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { getIdentifierSymbolId } from "akasha/language-design/lua-compiler/symbols/symbols.module.code.ts"
+import { maybeWrapThisVoidAsAdapter } from "akasha/language-design/lua-compiler/this-void-adapter/this-void-adapter.module.code.ts"
 import {
   unsupportedBuiltinOptionalCall,
   unsupportedProperty,
-} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
+} from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
 import {
   getCalledExpression,
   isArrayType,
   isFunctionType,
   isStandardLibraryType,
   isStringType,
-} from "../typescript/typescript.module.code.ts"
+} from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import * as ts from "typescript"
 
 export function transformBuiltinPropertyAccessExpression(
   context: TransformationContext,

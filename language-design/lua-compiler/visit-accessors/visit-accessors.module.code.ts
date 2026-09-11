@@ -1,22 +1,22 @@
-import * as ts from "typescript"
 import type {
   AllAccessorDeclarations,
   TransformationContext,
-} from "../context-transformation-context/context-transformation-context.module.code.ts"
-import { createSelfIdentifier } from "../lua-ast/lua-ast.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { createPrototypeName } from "../visit-constructor/visit-constructor.module.code.ts"
-import { createClassAccessorDecoratingExpression } from "../visit-decorators/visit-decorators.module.code.ts"
+} from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import { createSelfIdentifier } from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { transformLuaLibFunction } from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { createPrototypeName } from "akasha/language-design/lua-compiler/visit-constructor/visit-constructor.module.code.ts"
+import { createClassAccessorDecoratingExpression } from "akasha/language-design/lua-compiler/visit-decorators/visit-decorators.module.code.ts"
 import {
   transformFunctionBody,
   transformParameters,
-} from "../visit-function/visit-function.module.code.ts"
-import { transformPropertyName } from "../visit-property-name/visit-property-name.module.code.ts"
-import { isStaticNode } from "../visit-syntax/visit-syntax.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-function/visit-function.module.code.ts"
+import { transformPropertyName } from "akasha/language-design/lua-compiler/visit-property-name/visit-property-name.module.code.ts"
+import { isStaticNode } from "akasha/language-design/lua-compiler/visit-syntax/visit-syntax.module.code.ts"
+import * as ts from "typescript"
 
 function transformAccessor(
   context: TransformationContext,

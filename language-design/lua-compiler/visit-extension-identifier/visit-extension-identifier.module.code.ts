@@ -1,11 +1,11 @@
-import type * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import { ExtensionKind } from "../language-extension-kinds/language-extension-kinds.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import { ExtensionKind } from "akasha/language-design/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
 import {
   invalidMultiFunctionUse,
   invalidRangeUse,
   invalidVarargUse,
-} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
+} from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import type * as ts from "typescript"
 
 const extensionKindToValueName: { [T in ExtensionKind]?: string } = {
   [ExtensionKind.MultiFunction]: "$multi",

@@ -1,5 +1,5 @@
+import { diagnosticSource } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
 import * as ts from "typescript"
-import { diagnosticSource } from "../utils/utils.module.code.ts"
 
 export const prepareDiagnosticForFormatting = (diagnostic: ts.Diagnostic): ts.Diagnostic =>
   diagnostic.source === diagnosticSource

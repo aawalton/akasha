@@ -1,6 +1,6 @@
-import { __TS__CloneDescriptor } from "../clone-descriptor/clone-descriptor.lualib.code.ts"
-import { __TS__DescriptorGet } from "../descriptor-get/descriptor-get.lualib.code.ts"
-import { __TS__DescriptorSet } from "../descriptor-set/descriptor-set.lualib.code.ts"
+import { __TS__CloneDescriptor } from "akasha/language-design/lua-compiler/lualibs/clone-descriptor/clone-descriptor.lualib.code.ts"
+import { __TS__DescriptorGet } from "akasha/language-design/lua-compiler/lualibs/descriptor-get/descriptor-get.lualib.code.ts"
+import { __TS__DescriptorSet } from "akasha/language-design/lua-compiler/lualibs/descriptor-set/descriptor-set.lualib.code.ts"
 
 const getmetatable = _G.getmetatable
 

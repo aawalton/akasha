@@ -1,5 +1,5 @@
-import { __TS__CountVarargs } from "../count-varargs/count-varargs.lualib.code.ts"
-import { __TS__Unpack } from "../unpack/unpack.lualib.code.ts"
+import { __TS__CountVarargs } from "akasha/language-design/lua-compiler/lualibs/count-varargs/count-varargs.lualib.code.ts"
+import { __TS__Unpack } from "akasha/language-design/lua-compiler/lualibs/unpack/unpack.lualib.code.ts"
 
 export interface GeneratorIterator {
   ____coroutine: LuaThread

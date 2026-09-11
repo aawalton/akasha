@@ -1,4 +1,4 @@
-import { __TS__Match } from "../match/match.lualib.code.ts"
+import { __TS__Match } from "akasha/language-design/lua-compiler/lualibs/match/match.lualib.code.ts"
 
 export function __TS__ParseFloat(this: void, numberString: string): number {
   const [infinityMatch] = __TS__Match(numberString, "^%s*(-?Infinity)")

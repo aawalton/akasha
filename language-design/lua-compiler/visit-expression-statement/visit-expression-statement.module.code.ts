@@ -1,10 +1,10 @@
+import { tempSymbolId } from "akasha/language-design/lua-compiler/context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { transformUnaryExpressionStatement } from "akasha/language-design/lua-compiler/visit-unary-expression/visit-unary-expression.module.code.ts"
+import { transformBinaryExpressionStatement } from "akasha/language-design/lua-compiler/visitors-binary-expression/visitors-binary-expression.module.code.ts"
 import type * as ts from "typescript"
-import { tempSymbolId } from "../context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { transformUnaryExpressionStatement } from "../visit-unary-expression/visit-unary-expression.module.code.ts"
-import { transformBinaryExpressionStatement } from "../visitors-binary-expression/visitors-binary-expression.module.code.ts"
 
 export const transformExpressionStatement: FunctionVisitor<ts.ExpressionStatement> = (
   node,

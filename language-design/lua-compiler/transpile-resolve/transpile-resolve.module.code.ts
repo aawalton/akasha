@@ -1,26 +1,22 @@
 import * as fs from "node:fs"
 import * as path from "node:path"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
-import * as resolve from "enhanced-resolve"
-import picomatch from "picomatch"
-import * as ts from "typescript"
-import type { CompilerOptions } from "../compiler-options/compiler-options.module.code.ts"
+import type { CompilerOptions } from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
 import {
   couldNotReadDependency,
   couldNotResolveRequire,
-} from "../transpile-diagnostics/transpile-diagnostics.module.code.ts"
-import type { ProcessedFile } from "../transpile-emit-file/transpile-emit-file.module.code.ts"
-import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
+} from "akasha/language-design/lua-compiler/transpile-diagnostics/transpile-diagnostics.module.code.ts"
+import type { ProcessedFile } from "akasha/language-design/lua-compiler/transpile-emit-file/transpile-emit-file.module.code.ts"
+import type { EmitHost } from "akasha/language-design/lua-compiler/transpile-emit-host/transpile-emit-host.module.code.ts"
 import {
   findLuaRequires,
   type LuaRequire,
-} from "../transpile-find-lua-requires/transpile-find-lua-requires.module.code.ts"
-import type { Plugin } from "../transpile-plugins/transpile-plugins.module.code.ts"
+} from "akasha/language-design/lua-compiler/transpile-find-lua-requires/transpile-find-lua-requires.module.code.ts"
+import type { Plugin } from "akasha/language-design/lua-compiler/transpile-plugins/transpile-plugins.module.code.ts"
 import {
   getEmitPathRelativeToOutDir,
   getProjectRoot,
   getSourceDir,
-} from "../transpile-program-paths/transpile-program-paths.module.code.ts"
+} from "akasha/language-design/lua-compiler/transpile-program-paths/transpile-program-paths.module.code.ts"
 import {
   fallbackResolve,
   findProgramFileByCanonicalPath,
@@ -32,12 +28,16 @@ import {
   removeTrailingDirectorySeparator,
   shouldIncludeDependency,
   shouldRewriteRequires,
-} from "../transpile-resolve-helpers/transpile-resolve-helpers.module.code.ts"
+} from "akasha/language-design/lua-compiler/transpile-resolve-helpers/transpile-resolve-helpers.module.code.ts"
 import {
   replaceRequireInCode,
   replaceRequireInSourceMap,
-} from "../transpile-resolve-require-replacement/transpile-resolve-require-replacement.module.code.ts"
-import { normalizeSlashes } from "../utils/utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/transpile-resolve-require-replacement/transpile-resolve-require-replacement.module.code.ts"
+import { normalizeSlashes } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import * as resolve from "enhanced-resolve"
+import picomatch from "picomatch"
+import * as ts from "typescript"
 
 const resolver = resolve.ResolverFactory.createResolver({
   extensions: [".lua"],

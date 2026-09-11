@@ -1,15 +1,15 @@
-import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
-import * as ts from "typescript"
-import { createTransformationContext } from "../context-create-transformation-context/context-create-transformation-context.module.code.ts"
+import { createTransformationContext } from "akasha/language-design/lua-compiler/context-create-transformation-context/context-create-transformation-context.module.code.ts"
 import type {
   ObjectVisitor,
   VisitorMap,
   Visitors,
-} from "../context-visitors/context-visitors.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { usingTransformer } from "../transform-using-transformer/transform-using-transformer.module.code.ts"
-import { getOrUpdate } from "../utils/utils.module.code.ts"
-import { standardVisitors } from "../visitors-visitors/visitors-visitors.module.code.ts"
+} from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { usingTransformer } from "akasha/language-design/lua-compiler/transform-using-transformer/transform-using-transformer.module.code.ts"
+import { getOrUpdate } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import { standardVisitors } from "akasha/language-design/lua-compiler/visitors-visitors/visitors-visitors.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
+import * as ts from "typescript"
 
 function isSyntaxKind(value: number): value is ts.SyntaxKind {
   return value in ts.SyntaxKind

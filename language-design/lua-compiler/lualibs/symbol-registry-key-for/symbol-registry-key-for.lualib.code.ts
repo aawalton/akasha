@@ -1,4 +1,4 @@
-import { __TS__SymbolRegistry } from "../symbol-registry/symbol-registry.lualib.code.ts"
+import { __TS__SymbolRegistry } from "akasha/language-design/lua-compiler/lualibs/symbol-registry/symbol-registry.lualib.code.ts"
 
 const symbolRegistry = __TS__SymbolRegistry
 

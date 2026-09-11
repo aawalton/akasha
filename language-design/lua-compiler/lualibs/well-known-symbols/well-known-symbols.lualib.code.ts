@@ -1,4 +1,4 @@
-import { __TS__Symbol } from "../symbol/symbol.lualib.code.ts"
+import { __TS__Symbol } from "akasha/language-design/lua-compiler/lualibs/symbol/symbol.lualib.code.ts"
 
 interface SymbolLike {
   asyncDispose: symbol

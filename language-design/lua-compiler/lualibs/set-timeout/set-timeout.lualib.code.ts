@@ -1,4 +1,4 @@
-import { __TS__Timers } from "../timers/timers.lualib.code.ts"
+import { __TS__Timers } from "akasha/language-design/lua-compiler/lualibs/timers/timers.lualib.code.ts"
 
 declare function zo_callLater(this: void, fn: (this: void) => void, ms: number): undefined
 

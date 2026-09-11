@@ -1,25 +1,31 @@
-import * as ts from "typescript"
-import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import { createUnpackCall } from "../lua-ast/lua-ast.module.code.ts"
-import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { type Scope, ScopeType } from "../scope/scope.module.code.ts"
+import { LuaTarget } from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import { createUnpackCall } from "akasha/language-design/lua-compiler/lua-ast/lua-ast.module.code.ts"
+import * as luaCore from "akasha/language-design/lua-compiler/lua-ast-core/lua-ast-core.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { transformLuaLibFunction } from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import {
+  type Scope,
+  ScopeType,
+} from "akasha/language-design/lua-compiler/scope/scope.module.code.ts"
 import {
   unsupportedForTarget,
   unsupportedForTargetButOverrideAvailable,
-} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isInAsyncFunction, isInGeneratorFunction } from "../typescript/typescript.module.code.ts"
-import { cast } from "../utils/utils.module.code.ts"
-import { wrapInAsyncAwaiter } from "../visit-async-await/visit-async-await.module.code.ts"
-import { transformScopeBlock } from "../visit-block/visit-block.module.code.ts"
-import { isInMultiReturnFunction } from "../visit-extension-multi/visit-extension-multi.module.code.ts"
-import { transformIdentifier } from "../visit-identifier/visit-identifier.module.code.ts"
-import { createReturnStatement } from "../visit-return/visit-return.module.code.ts"
+} from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import {
+  isInAsyncFunction,
+  isInGeneratorFunction,
+} from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
+import { cast } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import { wrapInAsyncAwaiter } from "akasha/language-design/lua-compiler/visit-async-await/visit-async-await.module.code.ts"
+import { transformScopeBlock } from "akasha/language-design/lua-compiler/visit-block/visit-block.module.code.ts"
+import { isInMultiReturnFunction } from "akasha/language-design/lua-compiler/visit-extension-multi/visit-extension-multi.module.code.ts"
+import { transformIdentifier } from "akasha/language-design/lua-compiler/visit-identifier/visit-identifier.module.code.ts"
+import { createReturnStatement } from "akasha/language-design/lua-compiler/visit-return/visit-return.module.code.ts"
+import * as ts from "typescript"
 
 const transformAsyncTry: FunctionVisitor<ts.TryStatement> = (statement, context) => {
   const [tryBlock] = transformScopeBlock(context, statement.tryBlock, ScopeType.Try)

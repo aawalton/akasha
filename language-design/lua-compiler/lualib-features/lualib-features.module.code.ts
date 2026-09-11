@@ -1,4 +1,4 @@
-import type { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
+import type { LuaTarget } from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
 
 export const LuaLibFeature = {
   ArrayAt: "ArrayAt",

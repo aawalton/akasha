@@ -1,10 +1,10 @@
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import { requireCreateModuleLocalName } from "akasha/language-design/lua-compiler/export-deps/export-deps.module.code.ts"
+import { createExportsIdentifier } from "akasha/language-design/lua-compiler/exports-identifier/exports-identifier.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import { getSymbolInfo } from "akasha/language-design/lua-compiler/symbols/symbols.module.code.ts"
+import { findFirstNodeAbove } from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
 import * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import { requireCreateModuleLocalName } from "../export-deps/export-deps.module.code.ts"
-import { createExportsIdentifier } from "../exports-identifier/exports-identifier.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import { getSymbolInfo } from "../symbols/symbols.module.code.ts"
-import { findFirstNodeAbove } from "../typescript/typescript.module.code.ts"
 
 export function hasDefaultExportModifier(node: ts.Node): boolean {
   return (

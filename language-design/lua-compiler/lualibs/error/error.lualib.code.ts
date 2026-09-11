@@ -1,4 +1,4 @@
-import { __TS__ErrorClassing } from "../error-classing/error-classing.lualib.code.ts"
+import { __TS__ErrorClassing } from "akasha/language-design/lua-compiler/lualibs/error-classing/error-classing.lualib.code.ts"
 
 function getErrorStack(): string {
   if (_VERSION === "Lua 5.1") {

@@ -1,29 +1,29 @@
-import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
-import * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
 import {
   getIterableExtensionKindForNode,
   IterableExtensionKind,
-} from "../language-extension-kinds/language-extension-kinds.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
-import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import { isArrayType } from "../typescript/typescript.module.code.ts"
+} from "akasha/language-design/lua-compiler/language-extension-kinds/language-extension-kinds.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { transformLuaLibFunction } from "akasha/language-design/lua-compiler/lualib-call/lualib-call.module.code.ts"
+import { LuaLibFeature } from "akasha/language-design/lua-compiler/lualib-features/lualib-features.module.code.ts"
+import { isArrayType } from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
 import {
   transformForOfIterableStatement,
   transformForOfPairsIterableStatement,
   transformForOfPairsKeyIterableStatement,
-} from "../visit-extension-iterable/visit-extension-iterable.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-extension-iterable/visit-extension-iterable.module.code.ts"
 import {
   isRangeFunction,
   transformRangeStatement,
-} from "../visit-extension-range/visit-extension-range.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-extension-range/visit-extension-range.module.code.ts"
 import {
   transformForInitializer,
   transformLoopBody,
-} from "../visit-utils/visit-utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-utils/visit-utils.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import * as ts from "typescript"
 
 function transformForOfArrayStatement(
   context: TransformationContext,

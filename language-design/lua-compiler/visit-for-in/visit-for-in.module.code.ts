@@ -1,13 +1,13 @@
-import type * as ts from "typescript"
-import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
-import { forbiddenForIn } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import { isArrayType } from "../typescript/typescript.module.code.ts"
+import type { FunctionVisitor } from "akasha/language-design/lua-compiler/context-visitors/context-visitors.module.code.ts"
+import * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "akasha/language-design/lua-compiler/lua-ast-statements/lua-ast-statements.module.code.ts"
+import { forbiddenForIn } from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import { isArrayType } from "akasha/language-design/lua-compiler/typescript/typescript.module.code.ts"
 import {
   transformForInitializer,
   transformLoopBody,
-} from "../visit-utils/visit-utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/visit-utils/visit-utils.module.code.ts"
+import type * as ts from "typescript"
 
 export const transformForInStatement: FunctionVisitor<ts.ForInStatement> = (statement, context) => {
   if (isArrayType(context, context.checker.getTypeAtLocation(statement.expression))) {

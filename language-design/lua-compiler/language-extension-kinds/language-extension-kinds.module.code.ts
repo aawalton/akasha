@@ -1,9 +1,9 @@
-import * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import {
   invalidMethodCallExtensionUse,
   invalidSpreadInCallExtension,
-} from "../transform-diagnostics/transform-diagnostics.module.code.ts"
+} from "akasha/language-design/lua-compiler/transform-diagnostics/transform-diagnostics.module.code.ts"
+import * as ts from "typescript"
 
 export const ExtensionKind = {
   MultiFunction: "MultiFunction",

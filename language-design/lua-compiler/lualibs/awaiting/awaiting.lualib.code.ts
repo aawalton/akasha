@@ -1,4 +1,4 @@
-import { __TS__Coroutines } from "../coroutines/coroutines.lualib.code.ts"
+import { __TS__Coroutines } from "akasha/language-design/lua-compiler/lualibs/coroutines/coroutines.lualib.code.ts"
 
 const coyield = __TS__Coroutines.yield
 

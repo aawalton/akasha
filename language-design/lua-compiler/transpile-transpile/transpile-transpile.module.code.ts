@@ -1,23 +1,23 @@
 import * as path from "node:path"
-import * as ts from "typescript"
-import { validateOptions } from "../compiler-options/compiler-options.module.code.ts"
-import { createPrinter } from "../lua-printer/lua-printer.module.code.ts"
-import * as performance from "../measure-performance/measure-performance.module.code.ts"
+import { validateOptions } from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import { createPrinter } from "akasha/language-design/lua-compiler/lua-printer/lua-printer.module.code.ts"
+import * as performance from "akasha/language-design/lua-compiler/measure-performance/measure-performance.module.code.ts"
 import {
   createVisitorMap,
   transformSourceFile,
-} from "../transformation/transformation.module.code.ts"
-import type { ProcessedFile } from "../transpile-emit-file/transpile-emit-file.module.code.ts"
-import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
-import type { Plugin } from "../transpile-plugins/transpile-plugins.module.code.ts"
-import { getProjectRoot } from "../transpile-program-paths/transpile-program-paths.module.code.ts"
-import { createPruneUnusedReexportsTransformer } from "../transpile-prune-unused-reexports/transpile-prune-unused-reexports.module.code.ts"
+} from "akasha/language-design/lua-compiler/transformation/transformation.module.code.ts"
+import type { ProcessedFile } from "akasha/language-design/lua-compiler/transpile-emit-file/transpile-emit-file.module.code.ts"
+import type { EmitHost } from "akasha/language-design/lua-compiler/transpile-emit-host/transpile-emit-host.module.code.ts"
+import type { Plugin } from "akasha/language-design/lua-compiler/transpile-plugins/transpile-plugins.module.code.ts"
+import { getProjectRoot } from "akasha/language-design/lua-compiler/transpile-program-paths/transpile-program-paths.module.code.ts"
+import { createPruneUnusedReexportsTransformer } from "akasha/language-design/lua-compiler/transpile-prune-unused-reexports/transpile-prune-unused-reexports.module.code.ts"
 import {
   computeReachability,
   type ReachabilityResult,
-} from "../transpile-reachability/transpile-reachability.module.code.ts"
-import { getTransformers } from "../transpile-transformers/transpile-transformers.module.code.ts"
-import { isNonNull } from "../utils/utils.module.code.ts"
+} from "akasha/language-design/lua-compiler/transpile-reachability/transpile-reachability.module.code.ts"
+import { getTransformers } from "akasha/language-design/lua-compiler/transpile-transformers/transpile-transformers.module.code.ts"
+import { isNonNull } from "akasha/language-design/lua-compiler/utils/utils.module.code.ts"
+import * as ts from "typescript"
 
 export interface TranspileOptions {
   program: ts.Program

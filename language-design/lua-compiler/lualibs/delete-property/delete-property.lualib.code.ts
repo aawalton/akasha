@@ -1,4 +1,4 @@
-import { __TS__ObjectGetOwnPropertyDescriptors } from "../object-get-own-property-descriptors/object-get-own-property-descriptors.lualib.code.ts"
+import { __TS__ObjectGetOwnPropertyDescriptors } from "akasha/language-design/lua-compiler/lualibs/object-get-own-property-descriptors/object-get-own-property-descriptors.lualib.code.ts"
 
 export function __TS__Delete(this: void, target: any, key: any): boolean {
   const descriptors = __TS__ObjectGetOwnPropertyDescriptors(target)

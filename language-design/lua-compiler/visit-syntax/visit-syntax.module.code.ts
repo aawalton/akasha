@@ -1,5 +1,5 @@
+import type { TransformationContext } from "akasha/language-design/lua-compiler/context-transformation-context/context-transformation-context.module.code.ts"
 import * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 
 export function isPrivateNode(node: ts.HasModifiers): boolean {
   return node.modifiers?.some((m) => m.kind === ts.SyntaxKind.PrivateKeyword) === true

@@ -1,5 +1,5 @@
+import type * as luaExpressions from "akasha/language-design/lua-compiler/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as ts from "typescript"
-import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
 
 export interface OptionalContinuation {
   contextualCall?: luaExpressions.CallExpression

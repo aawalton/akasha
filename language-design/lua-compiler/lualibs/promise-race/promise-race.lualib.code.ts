@@ -1,4 +1,4 @@
-import { __TS__Promise } from "../promise/promise.lualib.code.ts"
+import { __TS__Promise } from "akasha/language-design/lua-compiler/lualibs/promise/promise.lualib.code.ts"
 
 export function __TS__PromiseRace<T>(
   this: void,

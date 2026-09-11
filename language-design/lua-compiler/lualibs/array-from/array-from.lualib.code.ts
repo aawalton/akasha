@@ -1,4 +1,4 @@
-import { __TS__Iterator } from "../iterator/iterator.lualib.code.ts"
+import { __TS__Iterator } from "akasha/language-design/lua-compiler/lualibs/iterator/iterator.lualib.code.ts"
 
 function arrayLikeStep(
   this: ArrayLike<unknown>,

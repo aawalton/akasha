@@ -1,20 +1,23 @@
 #!/usr/bin/env bun
-import * as ts from "typescript"
-import * as cliDiagnostics from "../cli-diagnostics/cli-diagnostics.module.code.ts"
-import { getHelpString, name } from "../cli-information/cli-information.module.code.ts"
-import { parseCommandLine } from "../cli-parse/cli-parse.module.code.ts"
-import { createDiagnosticReporter } from "../cli-report/cli-report.module.code.ts"
+import * as cliDiagnostics from "akasha/language-design/lua-compiler/cli-diagnostics/cli-diagnostics.module.code.ts"
+import {
+  getHelpString,
+  name,
+} from "akasha/language-design/lua-compiler/cli-information/cli-information.module.code.ts"
+import { parseCommandLine } from "akasha/language-design/lua-compiler/cli-parse/cli-parse.module.code.ts"
+import { createDiagnosticReporter } from "akasha/language-design/lua-compiler/cli-report/cli-report.module.code.ts"
 import {
   createConfigFileUpdater,
   locateConfigFile,
   parseConfigFileWithSystem,
-} from "../cli-tsconfig/cli-tsconfig.module.code.ts"
+} from "akasha/language-design/lua-compiler/cli-tsconfig/cli-tsconfig.module.code.ts"
 import {
   type CompilerOptions,
   isBundleEnabled,
-} from "../compiler-options/compiler-options.module.code.ts"
-import * as performance from "../measure-performance/measure-performance.module.code.ts"
-import { createTranspiler } from "../transpile-transpiler/transpile-transpiler.module.code.ts"
+} from "akasha/language-design/lua-compiler/compiler-options/compiler-options.module.code.ts"
+import * as performance from "akasha/language-design/lua-compiler/measure-performance/measure-performance.module.code.ts"
+import { createTranspiler } from "akasha/language-design/lua-compiler/transpile-transpiler/transpile-transpiler.module.code.ts"
+import * as ts from "typescript"
 
 const shouldBePretty = ({ pretty }: ts.CompilerOptions = {}) =>
   typeof pretty === "boolean" ? pretty : (ts.sys.writeOutputIsTTY?.() ?? false)
