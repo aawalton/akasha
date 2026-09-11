@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import {
   type Rule,
+  readersOf,
   refusalsIn,
   rulesIn,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.code.ts"
@@ -8,6 +9,8 @@ import {
   BEFORE,
   CARRIED,
   changing,
+  modulesFiled,
+  NO_READERS,
   nowhereOnDisk,
   PROBE_AT,
   PROBE_SLUG,
@@ -27,16 +30,21 @@ import type { SourceFile } from "typescript"
 afterAll(scratch.sweep)
 
 test("a refusal carries the line, the reason, and the rule that gave it", () => {
-  const said = refusalsIn([ruling("loud", 7, "it is wrong")], PROBE_AT, TEXT)
+  const said = refusalsIn([ruling("loud", 7, "it is wrong")], PROBE_AT, TEXT, NO_READERS)
   expect(said).toEqual(["line 7: it is wrong — `loud`"])
 })
 
 test("a rule refusing nothing refuses nothing", () => {
-  expect(refusalsIn([QUIET], PROBE_AT, TEXT)).toEqual([])
+  expect(refusalsIn([QUIET], PROBE_AT, TEXT, NO_READERS)).toEqual([])
 })
 
 test("two rules refusing one file refuse it twice, and neither hides the other", () => {
-  const said = refusalsIn([ruling("one", 1, "first"), ruling("two", 2, "second")], PROBE_AT, TEXT)
+  const said = refusalsIn(
+    [ruling("one", 1, "first"), ruling("two", 2, "second")],
+    PROBE_AT,
+    TEXT,
+    NO_READERS
+  )
   expect(said).toHaveLength(2)
   expect(said[0]).toContain("`one`")
   expect(said[1]).toContain("`two`")
@@ -51,7 +59,7 @@ test("every rule is handed the very same parse, so a file is read the once", () 
       return []
     },
   })
-  refusalsIn([watching("one"), watching("two"), watching("three")], PROBE_AT, TEXT)
+  refusalsIn([watching("one"), watching("two"), watching("three")], PROBE_AT, TEXT, NO_READERS)
   expect(seen).toHaveLength(3)
   expect(seen[0]).toBe(seen[1] as SourceFile)
   expect(seen[1]).toBe(seen[2] as SourceFile)
@@ -66,7 +74,7 @@ test("a rule is handed the path of the file it judges", () => {
       return []
     },
   }
-  refusalsIn([watching], PROBE_AT, TEXT)
+  refusalsIn([watching], PROBE_AT, TEXT, NO_READERS)
   expect(held).toBe(PROBE_AT)
 })
 
@@ -88,7 +96,7 @@ test("a rule this change introduces is judged by the body the change carries", (
   const rules = rulesIn(root, nowhereOnDisk(root), changing(root, null, CARRIED))
   expect(rules).toHaveLength(1)
   expect(rules[0]?.slug).toBe(PROBE_SLUG)
-  expect(refusalsIn(rules, PROBE_AT, TEXT)).toEqual([
+  expect(refusalsIn(rules, PROBE_AT, TEXT, NO_READERS)).toEqual([
     "line 1: the body the change carries — `probe`",
   ])
 })
@@ -98,9 +106,20 @@ test("a change rewriting a rule's code is judged by the body the change carries"
   ruleFiled(root)
   const rules = rulesIn(root, nowhereOnDisk(root), changing(root, BEFORE, CARRIED))
   expect(rules).toHaveLength(1)
-  expect(refusalsIn(rules, PROBE_AT, TEXT)).toEqual([
+  expect(refusalsIn(rules, PROBE_AT, TEXT, NO_READERS)).toEqual([
     "line 1: the body the change carries — `probe`",
   ])
+})
+
+test("the readers of page bodies are the names the module pages declare and no others", () => {
+  const root = scratch.rootFor("akasha-syntax-rule-")
+  modulesFiled(root)
+  const found = readersOf(shadowAt(root))
+
+  expect([...found.keys()].sort()).toEqual(["accountValuesIn", "valueAt"])
+  expect([...(found.get("valueAt") ?? [])]).toEqual(["page-value"])
+  expect([...(found.get("accountValuesIn") ?? [])]).toEqual(["claude-account-reading"])
+  expect(found.has("quiet")).toBe(false)
 })
 
 test("a rule whose code no change carries and no disk holds is refused", () => {

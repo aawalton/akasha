@@ -41,11 +41,20 @@ export const noBodyReadBesideAnIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "A page body is read by `valueAt`.",
+      statement: "A page body is read by a name a module's page declares as a reader of one.",
     },
     {
       invariantKind: "departure",
-      statement: "A page body is read by any function wrapping `valueAt`.",
+      statement: "A page body is read by any function wrapping such a name.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A name reads a page body only where the name is bound from the module declaring that name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reader is what a module declares rather than what a body is seen to do.",
     },
     {
       invariantKind: "departure",

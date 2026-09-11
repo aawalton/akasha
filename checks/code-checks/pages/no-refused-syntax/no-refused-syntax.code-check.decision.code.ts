@@ -3,6 +3,7 @@ import { dirname, join } from "node:path"
 import type {
   Given,
   Judging,
+  Readers,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import {
   overEachFile,
@@ -25,6 +26,10 @@ const RULE = "syntax-rule"
 const CODE = "code"
 
 const TS = "ts"
+
+const MODULE = "module"
+
+const DECLARES = "pageBodyReaders"
 
 const loadFrom = createRequire(import.meta.url)
 
@@ -151,8 +156,29 @@ export function rulesIn(
   return [...found].sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }
 
-export function refusalsIn(rules: readonly Rule[], path: string, text: string): readonly string[] {
-  const parsed: Given = { path, source: parsedAs(path, text) }
+export function readersOf(shadow: Shadow): Readers {
+  const found = new Map<string, Set<string>>()
+  for (const value of shadow.index.valuesByPath(MODULE).values()) {
+    const declared = value[DECLARES]
+    const slug = value.slug
+    if (!Array.isArray(declared) || typeof slug !== "string") continue
+    for (const one of declared) {
+      if (typeof one !== "string") continue
+      const held = found.get(one)
+      if (held === undefined) found.set(one, new Set([slug]))
+      else held.add(slug)
+    }
+  }
+  return found
+}
+
+export function refusalsIn(
+  rules: readonly Rule[],
+  path: string,
+  text: string,
+  readers: Readers
+): readonly string[] {
+  const parsed: Given = { path, source: parsedAs(path, text), readers }
   const said: string[] = []
   for (const rule of rules) {
     for (const one of rule.judge(parsed)) {
@@ -164,8 +190,9 @@ export function refusalsIn(rules: readonly Rule[], path: string, text: string): 
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
   const rules = rulesIn(change.root, shadow, change)
+  const readers = readersOf(shadow)
   return overEachFile(
     change,
-    overEachText((path, text) => refusalsIn(rules, path, text))
+    overEachText((path, text) => refusalsIn(rules, path, text, readers))
   )
 }

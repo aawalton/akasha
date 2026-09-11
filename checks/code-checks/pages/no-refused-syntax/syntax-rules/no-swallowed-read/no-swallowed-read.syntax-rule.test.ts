@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { PROBE_AT } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import {
+  NO_READERS,
+  PROBE_AT,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { noSwallowedRead } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-swallowed-read/no-swallowed-read.syntax-rule.code.ts"
 import type { Refusal } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
@@ -12,7 +15,7 @@ const SWALLOWED =
   "function one(at: string) { try { return readFileSync(at) } catch { return null } }\n"
 
 function over(text: string): readonly Refusal[] {
-  return noSwallowedRead({ path: PROBE_AT, source: parsedAs(PROBE_AT, text) })
+  return noSwallowedRead({ path: PROBE_AT, source: parsedAs(PROBE_AT, text), readers: NO_READERS })
 }
 
 function walking(body: string): readonly Refusal[] {

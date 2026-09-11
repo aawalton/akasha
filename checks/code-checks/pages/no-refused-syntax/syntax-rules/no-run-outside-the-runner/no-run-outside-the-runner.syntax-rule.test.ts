@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import {
+  NO_READERS,
+  parsed,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { noRunOutsideTheRunner } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-run-outside-the-runner/no-run-outside-the-runner.syntax-rule.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 
@@ -77,7 +80,9 @@ test("Bun.which is permitted", () => {
 test("a file in the runner's own folder is refused nothing", () => {
   const at = "utils/run/running/held.module.code.ts"
   const text = 'import { spawnSync } from "node:child_process"\nspawnSync(argv)\n'
-  expect(noRunOutsideTheRunner({ path: at, source: parsedAs(at, text) })).toEqual([])
+  expect(
+    noRunOutsideTheRunner({ path: at, source: parsedAs(at, text), readers: NO_READERS })
+  ).toEqual([])
 })
 
 test("execFileSync taken from anywhere else is permitted", () => {

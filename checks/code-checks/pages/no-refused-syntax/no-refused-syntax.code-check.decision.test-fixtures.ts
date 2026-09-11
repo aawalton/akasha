@@ -1,5 +1,8 @@
 import type { Rule } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.code.ts"
-import type { Given } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
+import type {
+  Given,
+  Readers,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/commands/modules/scratching/scratching.module.test-fixtures.ts"
@@ -14,6 +17,8 @@ import { ran } from "akasha/utils/run/running/running.module.code.ts"
 export const PROBE_AT = "akasha/one/probe.module.code.ts"
 
 export const RULE = "syntax-rule"
+
+const MODULE = "module"
 
 export const TEXT = "export const one = 1\n"
 
@@ -73,8 +78,47 @@ export function ruling(slug: string, line: number, reason: string): Rule {
   return { slug, judge: () => [{ line, reason }] }
 }
 
+export const NO_READERS: Readers = new Map()
+
+export const READERS_FILED: Readers = new Map([
+  ["valueAt", new Set(["page-value"])],
+  ["accountValuesIn", new Set(["claude-account-reading"])],
+])
+
+export function modulesFiled(root: string): undefined {
+  valueAlsoFiled(root, MODULE, [
+    {
+      path: "akasha/pages/value/page-value.module.ts",
+      value: {
+        id: "01a0596b-0000-7000-8000-000000000002",
+        pageTypeSlug: MODULE,
+        slug: "page-value",
+        pageBodyReaders: ["valueAt"],
+      },
+    },
+    {
+      path: "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.ts",
+      value: {
+        id: "01a0596b-0000-7000-8000-000000000003",
+        pageTypeSlug: MODULE,
+        slug: "claude-account-reading",
+        pageBodyReaders: ["accountValuesIn"],
+      },
+    },
+    {
+      path: "akasha/one/quiet.module.ts",
+      value: {
+        id: "01a0596b-0000-7000-8000-000000000004",
+        pageTypeSlug: MODULE,
+        slug: "quiet",
+      },
+    },
+  ])
+  return undefined
+}
+
 export function parsed(text: string): Given {
-  return { path: PROBE_AT, source: parsedAs(PROBE_AT, text) }
+  return { path: PROBE_AT, source: parsedAs(PROBE_AT, text), readers: READERS_FILED }
 }
 
 export function ruled(prefix: string): string {

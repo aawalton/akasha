@@ -11,11 +11,6 @@ const FACES: ReadonlyMap<string, ReadonlySet<string>> = new Map([
   ["Shadow", new Set(["shadow"])],
 ])
 
-const READERS: ReadonlyMap<string, ReadonlySet<string>> = new Map([
-  ["valueAt", new Set(["page-value"])],
-  ["accountValuesIn", new Set(["claude-account-reading"])],
-])
-
 const ROOT_WORDS: ReadonlySet<string> = new Set(["root", "repo", "repository"])
 
 const INSTEAD =
@@ -185,7 +180,7 @@ export function noBodyReadBesideAnIndex(given: Given): readonly Refusal[] {
   const source = given.source
   const faces = boundTo(source, FACES)
   if (faces.size === 0) return []
-  const imported = boundTo(source, READERS)
+  const imported = boundTo(source, given.readers)
   if (imported.size === 0) return []
   const readers = readersOver(source, imported)
   const found: Refusal[] = []

@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { parsed } from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
+import {
+  parsed,
+  READERS_FILED,
+} from "akasha/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { noBodyReadBesideAnIndex } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-body-read-beside-an-index/no-body-read-beside-an-index.syntax-rule.code.ts"
 import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 
@@ -16,8 +19,13 @@ const BESIDE = 'import { uncommittedIn, wholeValue } from "@akasha/pages/page-un
 const TRIPS = `${ANSWERING}${VALUE_AT}export function one(root: string, path: string, index: Answering): Value | null {\n  index.everyPath()\n  return valueAt(path, root)\n}\n`
 
 function at(path: string, text: string) {
-  return { path, source: parsedAs(path, text) }
+  return { path, source: parsedAs(path, text), readers: READERS_FILED }
 }
+
+test("a name no module declares as a reader of page bodies is no reader", () => {
+  const text = `${ANSWERING}import { heldAt } from "@akasha/pages/page-value"\nexport function one(root: string, path: string, index: Answering) {\n  index.everyPath()\n  return heldAt(path, root)\n}\n`
+  expect(noBodyReadBesideAnIndex(parsed(text))).toEqual([])
+})
 
 test("a file naming no index is refused nothing", () => {
   const text = `${VALUE_AT}export function one(root: string, path: string) {\n  return valueAt(path, root)\n}\n`
