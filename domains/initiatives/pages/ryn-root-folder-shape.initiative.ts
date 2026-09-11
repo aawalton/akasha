@@ -12,7 +12,7 @@ export const rynRootFolderShape = {
     {
       statement: "The root akasha folder matches its folder shape.",
       workingMemory:
-        "The root may not hold 16 folders: mathematics, mobile-commands, personas, places, required-reading, roles, seat-system, shell, smilingjenny, story, technology, testing-system, text, type, utils, verdict. Files sit there too and none is allowed yet. Alan takes one at a time: `instruments` went, `ki` merged into Ki's page, `language-design` became `design/language`, `machines` went under `infrastructure`. A whole-folder move can refuse where its subfolders move one by one.\n",
+        "The root may not hold 15 folders: mobile-commands, personas, places, required-reading, roles, seat-system, shell, smilingjenny, story, technology, testing-system, text, type, utils, verdict. Files sit there too, none allowed yet. Alan takes one at a time: `ki` merged into Ki's page, `language-design` became `design/language`, `machines` went under `infrastructure`, `mathematics` under `alan/values/learn`. A whole-folder move can refuse where its subfolders move one by one.\n",
     },
   ],
   constraints: [
