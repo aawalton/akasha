@@ -13,7 +13,8 @@ function pathOf(href: string): string | null {
 }
 
 export function dirOf(absolute: string): string {
-  return absolute.slice(0, absolute.lastIndexOf("/"))
+  const cut = absolute.lastIndexOf("/")
+  return cut === -1 ? "" : absolute.slice(0, cut)
 }
 
 export function relativeBetween(fromDir: string, target: string): string {

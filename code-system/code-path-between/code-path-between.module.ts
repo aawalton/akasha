@@ -19,6 +19,10 @@ export const codePathBetween = {
     },
     {
       invariantKind: "departure",
+      statement: "A path with no separator sits in no folder rather than in a clipped one.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A href is read to the path the href names without any anchor and without any query.",
     },
