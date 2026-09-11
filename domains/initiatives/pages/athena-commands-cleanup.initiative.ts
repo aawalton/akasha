@@ -76,6 +76,11 @@ export const athenaCommandsCleanup = {
       workingMemory:
         "One page is one argument concept, shared: `--dry-run` written once and named by every command taking it, as a page property is by every page type. The shape a page states is the union three parsers carry already — `Shape` at `inventory-rule-calling.module.code.ts:60-67`, `Taking` at `email-command-reading.module.code.ts:49-57`, and the reader at `index-refresh.command.code.ts:30-54`: value or none, placeholder, repeats, number, true or false, path, sibling, positional, exclusive.\n",
     },
+    {
+      statement: "A command names the arguments it takes and narrows each.",
+      workingMemory:
+        "Required belongs to the command rather than the argument: `--subject` is needed by a send and by nothing else, at `email-command-reading.module.code.ts:73`. Repeating belongs to the argument. `properties.one-of-property.ts:15-40` already has a page type declare what it adds and narrow what it inherits, optional becoming required, and the type generator runs off that shape. A command's declaration of an argument narrows it the same way.\n",
+    },
   ],
   constraints: [
     "Every landing in this repository runs through the command system, so a fault landed here stops every agent at once.",
