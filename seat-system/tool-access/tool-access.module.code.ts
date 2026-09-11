@@ -1,4 +1,4 @@
-import { harnessSettings } from "akasha/seat-system/agent-settings/harness-settings-reading/harness-settings-reading.module.code.ts"
+import { harnessSettings } from "akasha/agents/settings/harness-settings-reading/harness-settings-reading.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const SETTINGS_SLUG = "tool-access"

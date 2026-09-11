@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   bodyIn,
   ranBy,
-} from "akasha/seat-system/agent-settings/pages/mcp-servers/mcp-servers.agent-settings.telling.code.ts"
+} from "akasha/agents/settings/pages/mcp-servers/mcp-servers.agent-settings.telling.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 

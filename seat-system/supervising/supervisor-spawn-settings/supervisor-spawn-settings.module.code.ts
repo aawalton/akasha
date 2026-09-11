@@ -1,8 +1,8 @@
 import { createHash } from "node:crypto"
 import { existsSync, renameSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { harnessSettingsAt } from "akasha/agents/settings/harness-settings-reading/harness-settings-reading.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { harnessSettingsAt } from "akasha/seat-system/agent-settings/harness-settings-reading/harness-settings-reading.module.code.ts"
 import {
   agentSettings,
   isSettingsDocumentFault,

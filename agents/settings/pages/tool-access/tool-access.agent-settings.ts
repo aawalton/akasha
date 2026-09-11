@@ -1,4 +1,4 @@
-import type { AgentSettings } from "akasha/seat-system/agent-settings/agent-settings.page-type.types.ts"
+import type { AgentSettings } from "akasha/agents/settings/agent-settings.page-type.types.ts"
 
 export const toolAccess = {
   id: "01a0657b-ad40-7a30-a01e-7d2c05b081b3",

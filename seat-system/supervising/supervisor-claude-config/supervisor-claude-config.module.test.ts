@@ -45,6 +45,6 @@ test("nothing readable at the path is no declaration", () => {
 
 test("the declared settings the supervisor reconciles from are inside akasha", () => {
   expect(CLAUDE_CONFIG_PATH.startsWith(new URL("../../../", import.meta.url).pathname)).toBe(true)
-  expect(CLAUDE_CONFIG_PATH).toContain("/seat-system/agent-settings/")
+  expect(CLAUDE_CONFIG_PATH).toContain("/agents/settings/")
   expect(readClaudeConfigDeclaration()).not.toBeNull()
 })

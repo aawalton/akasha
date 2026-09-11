@@ -1,4 +1,4 @@
-import type { AgentSettings } from "akasha/seat-system/agent-settings/agent-settings.page-type.types.ts"
+import type { AgentSettings } from "akasha/agents/settings/agent-settings.page-type.types.ts"
 
 export const remoteControl = {
   id: "01a0657b-ad40-7fe7-b386-20d7f0224102",

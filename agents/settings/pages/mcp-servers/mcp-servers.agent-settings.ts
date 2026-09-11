@@ -1,4 +1,4 @@
-import type { AgentSettings } from "akasha/seat-system/agent-settings/agent-settings.page-type.types.ts"
+import type { AgentSettings } from "akasha/agents/settings/agent-settings.page-type.types.ts"
 
 export const mcpServers = {
   id: "01a0657b-ad40-7e45-b0c2-fbd79f5a4b35",
