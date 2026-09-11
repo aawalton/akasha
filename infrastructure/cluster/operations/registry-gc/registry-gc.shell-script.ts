@@ -8,4 +8,5 @@ export const registryGc = {
   definition: "old build tags dropped from the registry and the freed blobs collected",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
