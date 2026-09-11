@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { join } from "node:path"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import {
   markedLine,
@@ -7,6 +8,8 @@ import {
   pipedIn,
 } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { TERMINAL } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const INSTEAD = "`--old-file` and `--new-file`"
@@ -18,8 +21,23 @@ const SAYING = {
 
 const HELD_OPEN = 30
 
+const ROOT = process.cwd()
+
+const MODULE = "module"
+
+const PIPES = "piping"
+
+function pipingAt(): string {
+  const page = listedAt(ROOT, MODULE, PIPES)[0]
+  const at = page === undefined ? null : besideAt(page.path, "code", "ts")
+  if (at === null) {
+    throw new Error(`no \`${MODULE}\` is slugged \`${PIPES}\`, so nothing says where its code sits`)
+  }
+  return join(ROOT, at)
+}
+
 const READS =
-  `import {inputIn} from ${JSON.stringify(new URL("./piping.module.code.ts", import.meta.url).pathname)};` +
+  `import {inputIn} from ${JSON.stringify(pipingAt())};` +
   "const held=inputIn();" +
   'console.log("bytes" in held?`bytes ${held.bytes.byteLength}`' +
   ':"tty" in held?"tty":`unreadable ${held.unreadable}`)'
