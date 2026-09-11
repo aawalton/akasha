@@ -8,7 +8,6 @@ export const startMode = {
   definition: "how an agent in a seat is started",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
-  unique: "unique-kind/page-type",
   invariants: [
     {
       invariantKind: "stopgap",
