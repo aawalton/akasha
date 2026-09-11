@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichBodySignalsRunLoudest = {
   id: "01a077f1-13b7-71b5-a67b-ef82471d8425",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-body-signals-run-loudest",
   topic: "the-body-signals-i-can-barely-hear",

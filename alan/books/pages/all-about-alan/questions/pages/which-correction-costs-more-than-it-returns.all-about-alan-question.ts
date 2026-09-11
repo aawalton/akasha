@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichCorrectionCostsMoreThanItReturns = {
   id: "01a077e8-9d27-70ff-a379-110e88f11b65",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-correction-costs-more-than-it-returns",
   topic: "self-improvement",

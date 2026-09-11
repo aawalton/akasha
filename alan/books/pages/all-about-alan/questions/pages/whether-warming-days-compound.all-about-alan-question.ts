@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherWarmingDaysCompound = {
   id: "01a077e7-ad57-79ee-88f4-706ef4df1e96",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-warming-days-compound",
   topic: "warming-up-what-i-will-need",

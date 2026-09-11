@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichFeminineCuesIReachFor = {
   id: "01a077eb-e695-7dd1-acf3-6f68bc828310",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-feminine-cues-i-reach-for",
   topic: "singing-out-loud",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichPlacesWeEatAreWorthCultivating = {
   id: "01a077e4-76d2-79db-a413-8827dd58453f",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-places-we-eat-are-worth-cultivating",
   topic: "trusting-a-person-not-an-institution",

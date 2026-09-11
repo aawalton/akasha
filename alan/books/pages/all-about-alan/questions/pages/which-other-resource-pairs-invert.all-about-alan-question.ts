@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichOtherResourcePairsInvert = {
   id: "01a077e3-a518-7036-ac36-8055cc381cf3",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-other-resource-pairs-invert",
   topic: "how-the-bars-pull-on-each-other",

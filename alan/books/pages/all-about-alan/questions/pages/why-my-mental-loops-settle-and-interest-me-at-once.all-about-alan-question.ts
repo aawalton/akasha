@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whyMyMentalLoopsSettleAndInterestMeAtOnce = {
   id: "01a077e4-49a7-7d6d-be42-dac08219cfe6",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "why-my-mental-loops-settle-and-interest-me-at-once",
   topic: "the-repeating-i-do-to-settle",

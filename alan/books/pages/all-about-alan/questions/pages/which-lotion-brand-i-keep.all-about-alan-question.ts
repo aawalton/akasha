@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichLotionBrandIKeep = {
   id: "01a077e7-2639-79d1-bcf2-485c316e3559",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-lotion-brand-i-keep",
   topic: "keeping-my-hands-lotioned",

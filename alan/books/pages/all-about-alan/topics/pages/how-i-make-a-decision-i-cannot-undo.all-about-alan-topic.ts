@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const howIMakeADecisionICannotUndo = {
   id: "01a06559-9d65-74bf-8edc-41ce72c7375d",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "how-i-make-a-decision-i-cannot-undo",
   title: "How I Make A Decision I Cannot Undo",

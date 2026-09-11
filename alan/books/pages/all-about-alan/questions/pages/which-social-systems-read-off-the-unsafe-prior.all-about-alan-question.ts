@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichSocialSystemsReadOffTheUnsafePrior = {
   id: "01a077ec-5cc3-72d2-850d-fb6d53139c2b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-social-systems-read-off-the-unsafe-prior",
   topic: "why-people-read-as-unsafe",

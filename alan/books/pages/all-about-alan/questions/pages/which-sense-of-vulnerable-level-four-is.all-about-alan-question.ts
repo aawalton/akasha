@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichSenseOfVulnerableLevelFourIs = {
   id: "01a077e8-1a55-7681-bbc4-ae7e57223329",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-sense-of-vulnerable-level-four-is",
   topic: "safety-level",

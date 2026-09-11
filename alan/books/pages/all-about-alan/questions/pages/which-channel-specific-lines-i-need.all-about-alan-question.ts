@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichChannelSpecificLinesINeed = {
   id: "01a077eb-4f47-7a63-90e7-64673eba15d8",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-channel-specific-lines-i-need",
   topic: "my-rules-about-other-women",

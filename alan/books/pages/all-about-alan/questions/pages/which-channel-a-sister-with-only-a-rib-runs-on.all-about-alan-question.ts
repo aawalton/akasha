@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichChannelASisterWithOnlyARibRunsOn = {
   id: "01a077ed-ff3c-7b0d-bdad-55d954bd909b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-channel-a-sister-with-only-a-rib-runs-on",
   topic: "which-channel-each-one-cuts-through",

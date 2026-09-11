@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichSourceOfBeingKnownCostsLeast = {
   id: "01a077ec-a00d-7072-b78e-c0ed1fe1fe0f",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-source-of-being-known-costs-least",
   topic: "how-much-being-known-i-need",

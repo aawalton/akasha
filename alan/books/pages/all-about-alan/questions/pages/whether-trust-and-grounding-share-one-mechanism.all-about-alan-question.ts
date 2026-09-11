@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTrustAndGroundingShareOneMechanism = {
   id: "01a077ef-db06-7db5-bb25-101db6072401",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-trust-and-grounding-share-one-mechanism",
   topic: "which-organisations-i-trust",

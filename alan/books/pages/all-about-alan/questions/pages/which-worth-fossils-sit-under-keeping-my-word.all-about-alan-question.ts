@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichWorthFossilsSitUnderKeepingMyWord = {
   id: "01a077e8-a719-74ac-a2dd-1cd9c0595354",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-worth-fossils-sit-under-keeping-my-word",
   topic: "keeping-my-word",

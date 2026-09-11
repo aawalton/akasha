@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichSongsOpenTheDoor = {
   id: "01a077e6-608a-71d8-9b35-bf6e7b879223",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-songs-open-the-door",
   topic: "how-a-song-reaches-me",

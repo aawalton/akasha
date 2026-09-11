@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const beingAnInventorNotACoder = {
   id: "01a04615-3063-7254-b8ed-cc437fdfe056",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "being-an-inventor-not-a-coder",
   title: "Being An Inventor Not A Coder",

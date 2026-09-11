@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichAxisOfSimilarityLowersTheCost = {
   id: "01a077e4-3d41-7a49-979e-5e750938196d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-axis-of-similarity-lowers-the-cost",
   topic: "being-known",

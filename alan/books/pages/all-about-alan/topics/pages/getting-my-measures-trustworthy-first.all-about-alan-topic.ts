@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const gettingMyMeasuresTrustworthyFirst = {
   id: "01a07895-54aa-7c6c-8ee4-72d75a79263e",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "getting-my-measures-trustworthy-first",
   title: "Getting My Measures Trustworthy First",

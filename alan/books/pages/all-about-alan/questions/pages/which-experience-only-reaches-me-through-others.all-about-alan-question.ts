@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichExperienceOnlyReachesMeThroughOthers = {
   id: "01a077f0-5406-7112-bd51-a5c6987ab156",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-experience-only-reaches-me-through-others",
   topic: "working-out-how-she-thinks",

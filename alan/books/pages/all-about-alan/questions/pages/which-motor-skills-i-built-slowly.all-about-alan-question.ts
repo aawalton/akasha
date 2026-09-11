@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichMotorSkillsIBuiltSlowly = {
   id: "01a077e5-63de-73dd-87dc-da74031c7cf2",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-motor-skills-i-built-slowly",
   topic: "how-i-learned-to-feel-my-body",

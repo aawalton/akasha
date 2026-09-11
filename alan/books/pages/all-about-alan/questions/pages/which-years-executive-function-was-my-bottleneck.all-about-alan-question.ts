@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichYearsExecutiveFunctionWasMyBottleneck = {
   id: "01a077ec-8fbc-78a2-960c-a764f6169afc",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-years-executive-function-was-my-bottleneck",
   topic: "what-limits-me",

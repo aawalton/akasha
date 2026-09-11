@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichReflexesAMemoryStillFires = {
   id: "01a077e9-7935-7e2e-922a-b39cbb53beaf",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-reflexes-a-memory-still-fires",
   topic: "what-still-fires-off-a-memory",

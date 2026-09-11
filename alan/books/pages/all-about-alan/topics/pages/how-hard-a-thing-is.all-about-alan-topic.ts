@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const howHardAThingIs = {
   id: "01a06559-9d65-7c0b-aee2-9f2d6f58096c",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "how-hard-a-thing-is",
   title: "How Hard A Thing Is",

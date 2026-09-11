@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichChoicesAreAlreadySettledOnEitherSide = {
   id: "01a077e8-6f23-77ab-af23-84e7cb5630e4",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-choices-are-already-settled-on-either-side",
   topic: "where-her-say-ends",

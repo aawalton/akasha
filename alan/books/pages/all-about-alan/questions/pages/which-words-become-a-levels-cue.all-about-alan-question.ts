@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichWordsBecomeALevelsCue = {
   id: "01a077e1-dcf7-7df8-8e8a-10d190bc0ecf",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-words-become-a-levels-cue",
   topic: "how-i-remember-anything",

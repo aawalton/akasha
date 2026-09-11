@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whyTheChargeKeysToFinishingSetup = {
   id: "01a077eb-6c35-7220-b1c3-faccde48f5a3",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "why-the-charge-keys-to-finishing-setup",
   topic: "why-making-things-hurts",

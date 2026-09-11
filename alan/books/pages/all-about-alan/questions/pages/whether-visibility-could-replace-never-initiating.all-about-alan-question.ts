@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherVisibilityCouldReplaceNeverInitiating = {
   id: "01a077eb-4f46-7f55-b639-7813e060fa30",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-visibility-could-replace-never-initiating",
   topic: "my-rules-about-other-women",

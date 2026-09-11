@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichProxyTracksMyStressLoad = {
   id: "01a077ee-213e-775a-961f-87621641285e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-proxy-tracks-my-stress-load",
   topic: "what-wears-my-body-down",

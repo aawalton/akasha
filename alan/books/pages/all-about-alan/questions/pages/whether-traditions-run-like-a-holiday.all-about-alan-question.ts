@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTraditionsRunLikeAHoliday = {
   id: "01a077f1-67bc-778b-a102-55dc506ba230",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-traditions-run-like-a-holiday",
   topic: "why-a-holiday-costs-me",

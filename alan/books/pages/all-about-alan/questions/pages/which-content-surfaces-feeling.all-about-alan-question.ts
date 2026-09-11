@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichContentSurfacesFeeling = {
   id: "01a077e9-608e-7713-b470-167681256f76",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-content-surfaces-feeling",
   topic: "letting-a-feeling-in-through-a-story",

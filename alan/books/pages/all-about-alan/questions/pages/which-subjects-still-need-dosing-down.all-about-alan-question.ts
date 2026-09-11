@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichSubjectsStillNeedDosingDown = {
   id: "01a077e5-50a1-716f-be0a-548ac8f62a82",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-subjects-still-need-dosing-down",
   topic: "how-a-hard-talk-with-jen-gets-safer",

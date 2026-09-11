@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichSocialSituationsIMisread = {
   id: "01a077ec-5cc4-7fb6-8bd4-f7db6b072273",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-social-situations-i-misread",
   topic: "why-people-read-as-unsafe",

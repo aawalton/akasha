@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichWitnessesAttestedWhat = {
   id: "01a077e7-c40e-77e1-bc96-2a1f6e73a02e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-witnesses-attested-what",
   topic: "why-i-hold-the-book-true",

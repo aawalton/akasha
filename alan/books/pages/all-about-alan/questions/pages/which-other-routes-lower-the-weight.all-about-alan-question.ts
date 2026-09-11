@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichOtherRoutesLowerTheWeight = {
   id: "01a077e9-608f-7872-ae44-71856c026c59",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-other-routes-lower-the-weight",
   topic: "letting-a-feeling-in-through-a-story",

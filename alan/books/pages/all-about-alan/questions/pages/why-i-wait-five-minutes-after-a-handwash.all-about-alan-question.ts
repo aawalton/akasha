@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whyIWaitFiveMinutesAfterAHandwash = {
   id: "01a077e7-263b-7c2f-ad7f-e9196bb0f698",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "why-i-wait-five-minutes-after-a-handwash",
   topic: "keeping-my-hands-lotioned",

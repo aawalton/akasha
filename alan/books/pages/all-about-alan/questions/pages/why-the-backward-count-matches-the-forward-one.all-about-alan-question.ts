@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whyTheBackwardCountMatchesTheForwardOne = {
   id: "01a077ec-34d9-75ab-b747-dae1ccf0e2da",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "why-the-backward-count-matches-the-forward-one",
   topic: "the-ones-i-have-not-been-yet",

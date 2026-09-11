@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherWatchingASignalIsWhatMakesItLoud = {
   id: "01a077e2-8351-7bc9-8424-55167cfaedc1",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-watching-a-signal-is-what-makes-it-loud",
   topic: "being-alone-on-purpose",

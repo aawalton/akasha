@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheRenegotiationStartsAtAll = {
   id: "01a077ea-9242-7dd6-a912-a0b030e27014",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-renegotiation-starts-at-all",
   topic: "deciding-together",

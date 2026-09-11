@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheSafeMiddleHolds = {
   id: "01a077eb-dc04-7218-9599-769a74c058d5",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-safe-middle-holds",
   topic: "whether-any-closeness-escapes-it",

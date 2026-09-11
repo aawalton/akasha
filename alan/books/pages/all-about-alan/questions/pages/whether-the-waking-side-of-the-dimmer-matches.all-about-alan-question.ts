@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheWakingSideOfTheDimmerMatches = {
   id: "01a077ee-6624-718e-b3c5-c97a9941d3f3",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-waking-side-of-the-dimmer-matches",
   topic: "the-pictures-at-the-edge-of-sleep",

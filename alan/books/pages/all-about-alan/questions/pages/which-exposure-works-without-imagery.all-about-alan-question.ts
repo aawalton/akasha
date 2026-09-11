@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichExposureWorksWithoutImagery = {
   id: "01a077f1-b1c1-7176-9ef9-303a8deac57d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-exposure-works-without-imagery",
   topic: "why-a-threat-stays-fresh",

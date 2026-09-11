@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichRitchieMyGrandfatherIntroduced = {
   id: "01a077f2-9a82-7091-9183-18b1d755167d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-ritchie-my-grandfather-introduced",
   topic: "the-code-in-my-family",

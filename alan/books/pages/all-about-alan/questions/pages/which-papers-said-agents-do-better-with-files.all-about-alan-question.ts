@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichPapersSaidAgentsDoBetterWithFiles = {
   id: "01a077e5-deba-7b2b-afd1-52f188cbf1ca",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-papers-said-agents-do-better-with-files",
   topic: "what-i-invented-and-what-i-read",

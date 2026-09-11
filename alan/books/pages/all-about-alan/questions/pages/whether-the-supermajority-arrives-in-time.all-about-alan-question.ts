@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheSupermajorityArrivesInTime = {
   id: "01a077ea-9241-7bad-8047-ac59354a5d0c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-supermajority-arrives-in-time",
   topic: "deciding-together",

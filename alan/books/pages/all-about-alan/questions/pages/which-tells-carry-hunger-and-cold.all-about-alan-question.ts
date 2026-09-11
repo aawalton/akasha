@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichTellsCarryHungerAndCold = {
   id: "01a077e2-8a80-78c7-b6c3-6d5f0c892f1a",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-tells-carry-hunger-and-cold",
   topic: "reading-a-feeling-off-my-behaviour",

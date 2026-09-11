@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheStateLiftWantsItsOwnPlace = {
   id: "01a077f0-e7be-7871-8d7b-3a15b8649d83",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-state-lift-wants-its-own-place",
   topic: "when-it-actually-lands",

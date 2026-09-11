@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichIdentitiesSurvivedTheCollapse = {
   id: "01a077f0-49e8-7957-b19f-e3af489f455c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-identities-survived-the-collapse",
   topic: "when-i-lost-who-i-was",

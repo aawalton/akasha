@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichOtherKnobsSitInTheArousalLoop = {
   id: "01a077e3-2cdb-7a87-a3e7-b9db2baf9377",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-other-knobs-sit-in-the-arousal-loop",
   topic: "how-stimulated-i-am",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichWayEachCompensationBecomesAutomatic = {
   id: "01a077e7-68cf-707b-89b6-08698013de3e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-way-each-compensation-becomes-automatic",
   topic: "the-five-ways-something-becomes-automatic",

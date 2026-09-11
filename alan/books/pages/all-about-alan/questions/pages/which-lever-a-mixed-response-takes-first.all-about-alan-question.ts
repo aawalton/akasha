@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichLeverAMixedResponseTakesFirst = {
   id: "01a077ef-73b8-7d3b-be33-2c9562f4dcb2",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-lever-a-mixed-response-takes-first",
   topic: "which-lever-reaches-a-response",

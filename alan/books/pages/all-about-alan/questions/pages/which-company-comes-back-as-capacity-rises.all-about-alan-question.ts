@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichCompanyComesBackAsCapacityRises = {
   id: "01a077ef-889f-75a9-8f7a-1cc3f8bf5bde",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-company-comes-back-as-capacity-rises",
   topic: "the-year-i-cut-everyone-out",

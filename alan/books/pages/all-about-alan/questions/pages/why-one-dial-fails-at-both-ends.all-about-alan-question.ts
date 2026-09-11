@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whyOneDialFailsAtBothEnds = {
   id: "01a077e5-3da5-7f00-8aa0-ac18e5ccc6a5",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "why-one-dial-fails-at-both-ends",
   topic: "how-warm-i-run",

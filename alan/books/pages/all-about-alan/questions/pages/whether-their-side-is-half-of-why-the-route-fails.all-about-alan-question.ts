@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheirSideIsHalfOfWhyTheRouteFails = {
   id: "01a077ef-254e-7054-8363-d2281cafeb06",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-their-side-is-half-of-why-the-route-fails",
   topic: "why-the-peace-holds",

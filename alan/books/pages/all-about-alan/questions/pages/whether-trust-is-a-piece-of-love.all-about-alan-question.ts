@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTrustIsAPieceOfLove = {
   id: "01a077f0-df9c-7d29-8841-3ee779b62ec8",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-trust-is-a-piece-of-love",
   topic: "working-out-what-love-is",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheWeightedBlanketCanFire = {
   id: "01a077e9-a250-7b58-be74-e16c6759f34f",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-weighted-blanket-can-fire",
   topic: "sharing-a-bed",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichWayIGoWhenNuanceWillNotFit = {
   id: "01a077e8-8944-7ae9-ad6c-802d4114b603",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-way-i-go-when-nuance-will-not-fit",
   topic: "what-a-model-leaves-out",

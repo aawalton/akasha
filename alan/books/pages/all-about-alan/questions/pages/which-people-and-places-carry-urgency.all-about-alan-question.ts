@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichPeopleAndPlacesCarryUrgency = {
   id: "01a077e4-25dd-76da-aaa2-7d852eaa77e7",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-people-and-places-carry-urgency",
   topic: "how-i-keep-urgency-out",

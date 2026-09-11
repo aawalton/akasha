@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichResponsesAreWorthRetraining = {
   id: "01a077ec-a1a1-711f-8b52-23aa1d9a97d4",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-responses-are-worth-retraining",
   topic: "nothing-i-do-starts-with-a-decision",

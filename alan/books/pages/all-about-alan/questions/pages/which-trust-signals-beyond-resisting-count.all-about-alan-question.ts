@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichTrustSignalsBeyondResistingCount = {
   id: "01a077ef-db06-7b21-bef4-1089497a9aa4",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-trust-signals-beyond-resisting-count",
   topic: "which-organisations-i-trust",

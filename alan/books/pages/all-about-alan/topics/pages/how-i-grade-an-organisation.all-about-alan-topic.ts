@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const howIGradeAnOrganisation = {
   id: "01a06559-9d65-7464-a706-4605f215e681",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "how-i-grade-an-organisation",
   title: "How I Grade An Organisation",

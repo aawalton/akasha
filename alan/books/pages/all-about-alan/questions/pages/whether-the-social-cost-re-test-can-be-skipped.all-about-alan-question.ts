@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheSocialCostReTestCanBeSkipped = {
   id: "01a077ef-73ba-769a-b5fa-8b3c3219244b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-social-cost-re-test-can-be-skipped",
   topic: "which-lever-reaches-a-response",

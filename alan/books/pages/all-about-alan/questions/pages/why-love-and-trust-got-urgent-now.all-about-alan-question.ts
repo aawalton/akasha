@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whyLoveAndTrustGotUrgentNow = {
   id: "01a077ea-0a8f-7a2c-a73d-b788e17abfd0",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "why-love-and-trust-got-urgent-now",
   topic: "living-with-jen",

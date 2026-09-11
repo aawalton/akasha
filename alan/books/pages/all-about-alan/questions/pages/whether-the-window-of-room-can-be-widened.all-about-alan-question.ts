@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheWindowOfRoomCanBeWidened = {
   id: "01a077e9-010c-7a3e-b664-61a946464682",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-window-of-room-can-be-widened",
   topic: "what-it-costs-someone-to-know-me",

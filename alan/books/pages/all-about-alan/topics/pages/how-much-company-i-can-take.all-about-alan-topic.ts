@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const howMuchCompanyICanTake = {
   id: "01a06559-9d65-7165-b495-c35f4ece6c27",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "how-much-company-i-can-take",
   title: "How Much Company I Can Take",

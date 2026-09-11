@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichRulesIRunWhileRecovering = {
   id: "01a077e3-c2be-72ad-b49a-8c0504dfc150",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-rules-i-run-while-recovering",
   topic: "what-i-do-not-have-to-fight",

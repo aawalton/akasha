@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichAutomaticToolsMisjudge = {
   id: "01a077e7-14bc-76bc-b6a5-714f645e9e8b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-automatic-tools-misjudge",
   topic: "how-i-pick-a-sensory-tool",

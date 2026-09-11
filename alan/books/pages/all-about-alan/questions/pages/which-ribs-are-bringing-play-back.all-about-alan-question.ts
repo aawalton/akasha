@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichRibsAreBringingPlayBack = {
   id: "01a077ee-840d-79a3-9c8c-bb3745a1794c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-ribs-are-bringing-play-back",
   topic: "playing-again",

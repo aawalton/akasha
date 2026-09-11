@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichDisciplinesCarryMyCompactnessCase = {
   id: "01a077e7-c40d-721d-9c2a-1ddc5c44c50f",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-disciplines-carry-my-compactness-case",
   topic: "why-i-hold-the-book-true",

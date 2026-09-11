@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheSomaticFloorIsAHardGate = {
   id: "01a077e8-81d4-7cc0-a6d3-ae127c7a5fb6",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-somatic-floor-is-a-hard-gate",
   topic: "the-three-parts-of-me",

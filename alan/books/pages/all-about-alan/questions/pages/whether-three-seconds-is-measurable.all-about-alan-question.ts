@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherThreeSecondsIsMeasurable = {
   id: "01a077e9-5955-78e6-8844-01903371395d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-three-seconds-is-measurable",
   topic: "the-three-seconds-i-am",

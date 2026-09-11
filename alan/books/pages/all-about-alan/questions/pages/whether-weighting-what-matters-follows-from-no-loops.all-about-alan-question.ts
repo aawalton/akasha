@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherWeightingWhatMattersFollowsFromNoLoops = {
   id: "01a077ee-add9-7a08-80a6-ccac670f286c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-weighting-what-matters-follows-from-no-loops",
   topic: "what-matters-against-what-shouts",

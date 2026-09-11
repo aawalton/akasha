@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const howFarBackIExpectToCome = {
   id: "01a06559-9d65-706c-8860-b679893eaae7",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "how-far-back-i-expect-to-come",
   title: "How Far Back I Expect To Come",

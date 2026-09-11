@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichUncapturedResourcePullsHold = {
   id: "01a077e3-a519-75bc-ba79-812d68522ee8",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-uncaptured-resource-pulls-hold",
   topic: "how-the-bars-pull-on-each-other",

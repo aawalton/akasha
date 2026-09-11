@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheSocialRulesWereEverConcepts = {
   id: "01a077eb-1904-7f61-918b-d721e40e93e4",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-social-rules-were-ever-concepts",
   topic: "building-a-people-skill-by-hand",

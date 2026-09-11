@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichYesEachFeelingWordRunsOn = {
   id: "01a077ef-c2cd-7abc-bd86-714a15672407",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-yes-each-feeling-word-runs-on",
   topic: "when-i-agree-a-feeling-word-fits",

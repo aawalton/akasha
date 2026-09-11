@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichAnchorAtTheSleepEdgeBreaksFirst = {
   id: "01a077ee-6625-74da-b728-cbdc07151fd5",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-anchor-at-the-sleep-edge-breaks-first",
   topic: "the-pictures-at-the-edge-of-sleep",

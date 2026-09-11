@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const gettingOutFromUnderADependency = {
   id: "01a06559-9d65-7364-b67e-9512b86395b0",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "getting-out-from-under-a-dependency",
   title: "Getting Out From Under A Dependency",

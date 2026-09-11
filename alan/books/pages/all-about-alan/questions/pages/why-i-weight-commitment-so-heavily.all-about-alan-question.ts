@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whyIWeightCommitmentSoHeavily = {
   id: "01a077ef-254f-7b53-badd-d18c9332c2ac",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "why-i-weight-commitment-so-heavily",
   topic: "why-the-peace-holds",

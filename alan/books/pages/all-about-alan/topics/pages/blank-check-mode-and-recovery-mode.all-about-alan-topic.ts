@@ -2,7 +2,6 @@ import type { AllAboutAlanTopic } from "akasha/alan/books/pages/all-about-alan/t
 
 export const blankCheckModeAndRecoveryMode = {
   id: "01a0784f-0bde-7fdb-9262-4615d39727ad",
-  pageTypeSlug: "all-about-alan-topic",
   type: "all-about-alan-topic",
   slug: "blank-check-mode-and-recovery-mode",
   title: "Blank Check Mode And Recovery Mode",

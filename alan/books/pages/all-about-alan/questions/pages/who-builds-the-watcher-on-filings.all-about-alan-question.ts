@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whoBuildsTheWatcherOnFilings = {
   id: "01a077ee-d27a-7329-94a9-3bfb659ce040",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "who-builds-the-watcher-on-filings",
   topic: "when-a-company-changes-hands",

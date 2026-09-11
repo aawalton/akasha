@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichChangesArrivedThisWay = {
   id: "01a077e9-5ccb-755d-bfa7-e1dfde2560d1",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-changes-arrived-this-way",
   topic: "how-god-reaches-me",

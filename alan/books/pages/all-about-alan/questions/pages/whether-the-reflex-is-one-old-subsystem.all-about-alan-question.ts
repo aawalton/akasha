@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheReflexIsOneOldSubsystem = {
   id: "01a077e9-7936-7f6e-ae0d-9b44a671355e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-reflex-is-one-old-subsystem",
   topic: "what-still-fires-off-a-memory",

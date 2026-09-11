@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichMachoTraitsCarryTheCost = {
   id: "01a077ea-d1ce-7927-8b8d-8593469796c9",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-macho-traits-carry-the-cost",
   topic: "why-macho-costs-me-so-much",

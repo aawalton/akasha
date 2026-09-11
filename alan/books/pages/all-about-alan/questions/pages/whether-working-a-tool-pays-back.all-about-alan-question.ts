@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherWorkingAToolPaysBack = {
   id: "01a077e7-14bb-73e1-895c-df888e061f9c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-working-a-tool-pays-back",
   topic: "how-i-pick-a-sensory-tool",

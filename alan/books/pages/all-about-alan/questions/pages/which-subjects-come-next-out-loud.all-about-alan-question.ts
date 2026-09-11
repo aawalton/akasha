@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichSubjectsComeNextOutLoud = {
   id: "01a077e6-7bdf-7eb8-b9bd-d3b1af943ab5",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-subjects-come-next-out-loud",
   topic: "walking-a-hard-subject-out-loud",

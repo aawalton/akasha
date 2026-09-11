@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichRulesCameFromWhatWasNearby = {
   id: "01a077e5-8834-7f30-94e6-4450253d49fb",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-rules-came-from-what-was-nearby",
   topic: "rules-instead-of-a-brake",

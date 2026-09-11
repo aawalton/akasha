@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheWeatherGateRunsBothWays = {
   id: "01a077ea-1093-7a1a-bcad-21a81d711353",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-weather-gate-runs-both-ways",
   topic: "calling-something-weather",

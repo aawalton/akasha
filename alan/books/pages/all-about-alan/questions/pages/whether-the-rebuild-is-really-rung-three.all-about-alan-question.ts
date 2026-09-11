@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheRebuildIsReallyRungThree = {
   id: "01a077e9-c886-7f2f-a47c-363bf18cdc12",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-rebuild-is-really-rung-three",
   topic: "how-hard-a-thing-is",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichPhysicalSymptomsTraceToUndischargedFeeling = {
   id: "01a077e3-561c-75e0-a936-74e9e6927a50",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-physical-symptoms-trace-to-undischarged-feeling",
   topic: "health-bar",

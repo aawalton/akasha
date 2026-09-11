@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whoStandsBehindMyPractitioners = {
   id: "01a077e4-76d1-72ba-80ab-383b8a16bd75",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "who-stands-behind-my-practitioners",
   topic: "trusting-a-person-not-an-institution",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whetherTheToolOrderMapsInward = {
   id: "01a077e7-14bc-75ba-822a-1b1e311765d8",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "whether-the-tool-order-maps-inward",
   topic: "how-i-pick-a-sensory-tool",

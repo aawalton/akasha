@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichSafetyScaleAQuotedLevelUses = {
   id: "01a077e8-7dda-7e5e-9548-ed9039b46115",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-safety-scale-a-quoted-level-uses",
   topic: "how-i-read-my-safety-level",

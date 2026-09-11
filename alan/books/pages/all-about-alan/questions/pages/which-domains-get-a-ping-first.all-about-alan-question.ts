@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whichDomainsGetAPingFirst = {
   id: "01a077e2-5c0c-75a8-9b9f-e633fd7cbcfa",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "which-domains-get-a-ping-first",
   topic: "how-i-hold-a-goal",
