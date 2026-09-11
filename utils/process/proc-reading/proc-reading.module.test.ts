@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { environValue, procEntries, statedIn } from "./proc-reading.module.code.ts"
+import {
+  environValue,
+  procEntries,
+  statedIn,
+} from "akasha/utils/process/proc-reading/proc-reading.module.code.ts"
 
 test("an environment variable is read off the block by its own name", () => {
   const block = "PATH=/usr/bin\0AGENT_ID=abc\0HOME=/root\0"

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
-import { relayed, SERVING_MARKER } from "../run-relaying/run-relaying.module.code.ts"
+import { relayed, SERVING_MARKER } from "akasha/utils/run/run-relaying/run-relaying.module.code.ts"
 import {
   bytes,
   delegatedAt,
@@ -9,7 +9,7 @@ import {
   said,
   shown,
   spawnedHere,
-} from "./running.module.code.ts"
+} from "akasha/utils/run/running/running.module.code.ts"
 
 const CODE = `${import.meta.dir}/running.module.code.ts`
 

@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { isMissing } from "../missing/missing.module.code.ts"
+import { isMissing } from "akasha/utils/fs/missing/missing.module.code.ts"
 
 export function textOnDisk(path: string): string | null {
   try {

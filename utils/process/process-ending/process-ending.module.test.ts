@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { type Ending, ending, type Sign } from "./process-ending.module.code.ts"
+import {
+  type Ending,
+  ending,
+  type Sign,
+} from "akasha/utils/process/process-ending/process-ending.module.code.ts"
 
 type Bench = {
   readonly how: Ending

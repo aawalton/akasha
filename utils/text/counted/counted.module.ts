@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const counted = {
   id: "01a08ccc-aca8-7215-b4dd-560d25d104b5",

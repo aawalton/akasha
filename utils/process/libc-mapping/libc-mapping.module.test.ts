@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
-import { resolveMappedLibc } from "./libc-mapping.module.code.ts"
+import { resolveMappedLibc } from "akasha/utils/process/libc-mapping/libc-mapping.module.code.ts"
 
 const MAPS = "/proc/self/maps"
 

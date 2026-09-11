@@ -2,7 +2,7 @@ import { collapse, folds, refuses } from "akasha/utils/narrow/collapse/collapse.
 import {
   classifyPidSignalError,
   pidAliveOrAssumeAlive,
-} from "../pid-signal/pid-signal.module.code.ts"
+} from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 
 export type Sign = "SIGTERM" | "SIGKILL"
 

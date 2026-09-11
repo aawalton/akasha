@@ -6,7 +6,7 @@ import {
   record,
   tuple,
   union,
-} from "../shape-object/shape-object.module.code.ts"
+} from "akasha/utils/narrow/shape-object/shape-object.module.code.ts"
 import {
   booleanShape,
   coerceNumber,
@@ -16,7 +16,7 @@ import {
   numberShape,
   stringShape,
   unknownShape,
-} from "../shape-scalar/shape-scalar.module.code.ts"
+} from "akasha/utils/narrow/shape-scalar/shape-scalar.module.code.ts"
 
 export const shape = {
   string: stringShape,

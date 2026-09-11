@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
-import { relayed } from "../run-relaying/run-relaying.module.code.ts"
-import { NO_CODE } from "../running/running.module.code.ts"
+import { relayed } from "akasha/utils/run/run-relaying/run-relaying.module.code.ts"
+import { NO_CODE } from "akasha/utils/run/running/running.module.code.ts"
 
 test("a code other than zero is answered by the server as data", () => {
   const done = relayed(["sh", "-c", "printf out; printf err 1>&2; exit 3"])

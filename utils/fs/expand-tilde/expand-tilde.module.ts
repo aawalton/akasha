@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const expandTilde = {
   id: "01a05c4c-9442-70c2-948c-b1d7ad5a033f",

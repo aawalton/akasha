@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const memoryGuard = {
   id: "01a05c67-00ad-77fa-b6c0-e677644ff621",

@@ -1,7 +1,7 @@
 import { dlopen, FFIType } from "bun:ffi"
 import { closeSync, readSync, writeSync } from "node:fs"
-import { resolveMappedLibc } from "../../process/libc-mapping/libc-mapping.module.code.ts"
-import type { Asked, Held } from "../running/running.module.code.ts"
+import { resolveMappedLibc } from "akasha/utils/process/libc-mapping/libc-mapping.module.code.ts"
+import type { Asked, Held } from "akasha/utils/run/running/running.module.code.ts"
 
 export const SERVING_MARKER = "AKASHA_RUN_SERVING"
 

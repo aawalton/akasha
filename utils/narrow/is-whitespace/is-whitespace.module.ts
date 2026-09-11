@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const isWhitespace = {
   id: "01a080db-00f0-784c-b0de-cdbaaca339dc",

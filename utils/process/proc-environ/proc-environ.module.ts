@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const procEnviron = {
   id: "01a0691b-4f63-79be-84d6-4d9546e6c1be",

@@ -4,7 +4,7 @@ import {
   parseServingMarker,
   relayed,
   SERVING_MARKER,
-} from "../run-relaying/run-relaying.module.code.ts"
+} from "akasha/utils/run/run-relaying/run-relaying.module.code.ts"
 
 export const NO_CODE = -1
 

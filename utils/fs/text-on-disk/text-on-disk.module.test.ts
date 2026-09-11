@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { textOnDisk } from "./text-on-disk.module.code.ts"
+import { textOnDisk } from "akasha/utils/fs/text-on-disk/text-on-disk.module.code.ts"
 
 const SCRATCH = "/var/tmp"
 

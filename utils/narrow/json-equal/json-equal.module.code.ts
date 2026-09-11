@@ -1,4 +1,4 @@
-import { isRecord } from "../is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 
 export function jsonEqual(a: unknown, b: unknown): boolean {
   if (a === b) return true

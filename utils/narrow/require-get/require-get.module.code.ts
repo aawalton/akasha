@@ -1,4 +1,4 @@
-import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
+import { NarrowError } from "akasha/utils/narrow/narrow-error/narrow-error.module.code.ts"
 
 export function requireGet<K, V>(map: ReadonlyMap<K, V>, key: K, label?: string): V {
   for (const [k, v] of map) {

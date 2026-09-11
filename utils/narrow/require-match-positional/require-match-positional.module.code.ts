@@ -1,5 +1,5 @@
+import { NarrowError } from "akasha/utils/narrow/narrow-error/narrow-error.module.code.ts"
 import { z } from "zod"
-import { NarrowError } from "../narrow-error/narrow-error.module.code.ts"
 
 const RAW_MATCH_SCHEMA = z.array(z.string()).min(1)
 

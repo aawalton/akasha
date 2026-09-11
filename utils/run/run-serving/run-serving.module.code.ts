@@ -1,6 +1,15 @@
-import type { Answer, Frame, Request } from "../run-relaying/run-relaying.module.code.ts"
-import { askedOf, framed, unframed, written } from "../run-relaying/run-relaying.module.code.ts"
-import { spawnedHere } from "../running/running.module.code.ts"
+import type {
+  Answer,
+  Frame,
+  Request,
+} from "akasha/utils/run/run-relaying/run-relaying.module.code.ts"
+import {
+  askedOf,
+  framed,
+  unframed,
+  written,
+} from "akasha/utils/run/run-relaying/run-relaying.module.code.ts"
+import { spawnedHere } from "akasha/utils/run/running/running.module.code.ts"
 
 const ASKED_ON = 0
 

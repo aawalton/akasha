@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const requireMatchPositional = {
   id: "01a05c94-2c02-7a7a-acb9-cfa5c6a7d695",

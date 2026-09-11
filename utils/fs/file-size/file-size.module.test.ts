@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { sizeOnDisk } from "./file-size.module.code.ts"
+import { sizeOnDisk } from "akasha/utils/fs/file-size/file-size.module.code.ts"
 
 const SCRATCH = "/var/tmp"
 

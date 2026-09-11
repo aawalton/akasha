@@ -10,8 +10,8 @@ import {
   type ShapeIssue,
   type ShapePath,
   type SomeShape,
-} from "../shape-core/shape-core.module.code.ts"
-import type { LiteralShape } from "../shape-scalar/shape-scalar.module.code.ts"
+} from "akasha/utils/narrow/shape-core/shape-core.module.code.ts"
+import type { LiteralShape } from "akasha/utils/narrow/shape-scalar/shape-scalar.module.code.ts"
 
 export type Fields = { readonly [key: string]: SomeShape }
 

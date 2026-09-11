@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
 import { closeSync } from "node:fs"
-import { bytes } from "../running/running.module.code.ts"
 import {
   framed,
   piped,
@@ -9,7 +8,8 @@ import {
   spentRelaying,
   unframed,
   written,
-} from "./run-relaying.module.code.ts"
+} from "akasha/utils/run/run-relaying/run-relaying.module.code.ts"
+import { bytes } from "akasha/utils/run/running/running.module.code.ts"
 
 const HERE = `${import.meta.dir}/run-relaying.module.code.ts`
 

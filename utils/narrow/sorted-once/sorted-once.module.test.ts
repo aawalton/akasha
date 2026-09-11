@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { sortedOnce } from "./sorted-once.module.code.ts"
+import { sortedOnce } from "akasha/utils/narrow/sorted-once/sorted-once.module.code.ts"
 
 test("a value given more than once comes back once", () => {
   expect(sortedOnce(["b", "a", "b"])).toEqual(["a", "b"])

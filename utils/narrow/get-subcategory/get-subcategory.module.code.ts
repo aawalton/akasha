@@ -1,4 +1,4 @@
-import type { DataFile } from "../create-data-file/create-data-file.module.code.ts"
+import type { DataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 
 export function getSubcategory<K extends string, V, S extends string>(
   file: DataFile<K, V, S>,
