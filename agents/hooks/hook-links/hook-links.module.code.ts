@@ -1,5 +1,5 @@
 import { existsSync, mkdirSync, readlinkSync, renameSync, symlinkSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { dirname, isAbsolute, join, relative } from "node:path"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
@@ -14,6 +14,8 @@ const TS = "ts"
 const HOME = "HOME"
 
 const UNDER = [".local", "state", "akasha", "hooks"]
+
+const OUTSIDE = ".."
 
 export function linksAt(): string {
   const home = process.env[HOME]
@@ -47,7 +49,14 @@ export function dispatchAt(root: string): string {
   return at
 }
 
-export function linkedTo(at: string, event: string): undefined {
+export function anothersIn(held: string | null, root: string): boolean {
+  if (held === null) return false
+  const under = relative(root, held)
+  if (under !== "" && !under.startsWith(OUTSIDE) && !isAbsolute(under)) return false
+  return existsSync(held)
+}
+
+export function linkedTo(at: string, event: string, root: string): undefined {
   const link = linkFor(event)
   let held: string | null
   try {
@@ -56,6 +65,7 @@ export function linkedTo(at: string, event: string): undefined {
     held = null
   }
   if (held === at) return undefined
+  if (anothersIn(held, root)) return undefined
   mkdirSync(dirname(link), { recursive: true })
   const tmp = `${link}.tmp-${process.pid}`
   symlinkSync(at, tmp)
@@ -65,6 +75,6 @@ export function linkedTo(at: string, event: string): undefined {
 
 export function linksMade(root: string, events: readonly string[]): undefined {
   const at = dispatchAt(root)
-  for (const event of events) linkedTo(at, event)
+  for (const event of events) linkedTo(at, event, root)
   return undefined
 }

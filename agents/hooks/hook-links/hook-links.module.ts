@@ -7,6 +7,7 @@ export const hookLinks = {
   slug: "hook-links",
   definition: "the fixed path outside the repository a hook is registered through",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -32,6 +33,18 @@ export const hookLinks = {
     {
       invariantKind: "departure",
       statement: "A link already pointing where it should is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link pointing into another checkout at a file that is there is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link pointing at a file that is gone is written again from here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tree mounted for one run is another checkout, so a run there claims no link.",
     },
     {
       invariantKind: "departure",
