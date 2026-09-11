@@ -9,4 +9,5 @@ export const content = {
   slug: "content",
   propertySlug: "content",
   definition: "the body a provisioned file is put in place with",
+  extensions: ["sh", "conf", "json"],
 } as const satisfies FileProperty
