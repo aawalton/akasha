@@ -55,9 +55,9 @@ type Held = {
 function addonIn(root: string, name: string, held: Held): string {
   const at = `akasha/temper/${held.folder}`
   const dir = join(root, at)
-  valueAlsoFiled(root, "eso-addon", [
-    { path: `${at}/${held.folder}.eso-addon.ts`, value: { slug: held.folder } },
-  ])
+  const value =
+    held.entry === null ? { slug: held.folder } : { slug: held.folder, bundleEntry: held.entry }
+  valueAlsoFiled(root, "eso-addon", [{ path: `${at}/${held.folder}.eso-addon.ts`, value }])
   mkdirSync(dir, { recursive: true })
   writeFileSync(join(dir, "addon.json"), manifestFor(name))
   writeFileSync(
