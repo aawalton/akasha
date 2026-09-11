@@ -1,3 +1,10 @@
+import { LocationMap } from "akasha/alan/atlas-web/location-map/location-map.module.code.tsx"
+import {
+  TIME_BUCKET_TOKENS,
+  type TimeBucket,
+  timeBucket,
+} from "akasha/alan/atlas-web/pin-time-color/pin-time-color.module.code.ts"
+import { type LocationPin, toPins } from "akasha/alan/atlas-web/pins/pins.module.code.ts"
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import {
   PageLayout,
@@ -9,13 +16,6 @@ import { parsePageHrefParam } from "akasha/pages/url/page-href/page-href.module.
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { data } from "react-router"
 import { z } from "zod"
-import { LocationMap } from "../../location-map/location-map.module.code.tsx"
-import {
-  TIME_BUCKET_TOKENS,
-  type TimeBucket,
-  timeBucket,
-} from "../../pin-time-color/pin-time-color.module.code.ts"
-import { type LocationPin, toPins } from "../../pins/pins.module.code.ts"
 
 const COLLECTION_SLUG = "location-collection"
 

@@ -1,11 +1,10 @@
 import { Capacitor } from "@capacitor/core"
-import { z } from "zod"
 import {
   ingestResponseSchema,
   type LocationPoint,
   locationPointSchema,
   MAX_BATCH_POINTS,
-} from "../location-batch/location-batch.module.code.ts"
+} from "akasha/alan/atlas-web/location-batch/location-batch.module.code.ts"
 import {
   addPoint,
   mapPluginLocation,
@@ -13,7 +12,8 @@ import {
   nextSeq,
   type PluginLocation,
   removePoints,
-} from "../location-capture/location-capture.module.code.ts"
+} from "akasha/alan/atlas-web/location-capture/location-capture.module.code.ts"
+import { z } from "zod"
 
 const DEVICE_ID_KEY = "atlas.capture.deviceId"
 const SEQ_KEY = "atlas.capture.clientSeq"

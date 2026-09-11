@@ -1,3 +1,6 @@
+import { ATLAS_APP_SLUG } from "akasha/alan/atlas-web/atlas-app-id/atlas-app-id.module.code.ts"
+import { AppShell } from "akasha/alan/atlas-web/atlas-app-shell/atlas-app-shell.module.code.tsx"
+import { AuthProvider } from "akasha/alan/atlas-web/atlas-auth-provider/atlas-auth-provider.module.code.tsx"
 import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
@@ -5,9 +8,6 @@ import { Toaster } from "akasha/design/interfaces/primitives/sonner/sonner.modul
 import { getPages } from "akasha/pages/access/get/get.module.code.ts"
 import { useEffect } from "react"
 import { data, Outlet } from "react-router"
-import { ATLAS_APP_SLUG } from "../atlas-app-id/atlas-app-id.module.code.ts"
-import { AppShell } from "../atlas-app-shell/atlas-app-shell.module.code.tsx"
-import { AuthProvider } from "../atlas-auth-provider/atlas-auth-provider.module.code.tsx"
 import type { Route } from "./+types/_app-layout"
 
 export async function loader({ request }: Route.LoaderArgs) {
@@ -38,7 +38,9 @@ export async function loader({ request }: Route.LoaderArgs) {
 export default function AppLayout({ loaderData }: Route.ComponentProps) {
   useEffect(() => {
     let cancelled = false
-    void import("../location-capture-client/location-capture-client.module.code.ts").then((m) => {
+    void import(
+      "akasha/alan/atlas-web/location-capture-client/location-capture-client.module.code.ts"
+    ).then((m) => {
       if (!cancelled) void m.startLocationCapture()
     })
     return () => {

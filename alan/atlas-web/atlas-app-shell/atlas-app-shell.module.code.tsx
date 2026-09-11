@@ -1,3 +1,8 @@
+import {
+  ATLAS_APP_ID,
+  ATLAS_APP_SLUG,
+} from "akasha/alan/atlas-web/atlas-app-id/atlas-app-id.module.code.ts"
+import { primaryNavItems } from "akasha/alan/atlas-web/atlas-nav-items/atlas-nav-items.module.code.ts"
 import { AppShell as SharedAppShell } from "akasha/design/interfaces/layout/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
 import {
@@ -15,8 +20,6 @@ import {
 import { LogIn, LogOut } from "lucide-react"
 import { type ReactNode, useMemo } from "react"
 import { Link, useLocation, useNavigate, useSearchParams } from "react-router"
-import { ATLAS_APP_ID, ATLAS_APP_SLUG } from "../atlas-app-id/atlas-app-id.module.code.ts"
-import { primaryNavItems } from "../atlas-nav-items/atlas-nav-items.module.code.ts"
 
 interface AppShellProps {
   children: React.ReactNode

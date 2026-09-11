@@ -1,3 +1,5 @@
+import { LocationMap } from "akasha/alan/atlas-web/location-map/location-map.module.code.tsx"
+import { toPins } from "akasha/alan/atlas-web/pins/pins.module.code.ts"
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import {
   PageLayout,
@@ -6,8 +8,6 @@ import {
 import { collectPages } from "akasha/pages/access/iterate/iterate.module.code.ts"
 import { data } from "react-router"
 import { z } from "zod"
-import { LocationMap } from "../../location-map/location-map.module.code.tsx"
-import { toPins } from "../../pins/pins.module.code.ts"
 
 const BasemapUrlSchema = z.string().url()
 

@@ -1,4 +1,9 @@
 import {
+  addResponseSchema,
+  type PlaceCandidate,
+  searchResponseSchema,
+} from "akasha/alan/atlas-web/place-candidate/place-candidate.module.code.ts"
+import {
   InputGroup,
   InputGroupAddon,
   InputGroupButton,
@@ -13,11 +18,6 @@ import { Card } from "akasha/design/interfaces/primitives/card/card.module.code.
 import { Search } from "lucide-react"
 import { useState } from "react"
 import { Link } from "react-router"
-import {
-  addResponseSchema,
-  type PlaceCandidate,
-  searchResponseSchema,
-} from "../../place-candidate/place-candidate.module.code.ts"
 
 export function meta() {
   return [{ title: "Search places — Atlas" }]

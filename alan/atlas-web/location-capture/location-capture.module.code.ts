@@ -1,7 +1,7 @@
 import {
   type LocationPoint,
   MAX_BATCH_POINTS,
-} from "../location-batch/location-batch.module.code.ts"
+} from "akasha/alan/atlas-web/location-batch/location-batch.module.code.ts"
 
 export interface PluginLocation {
   latitude: number

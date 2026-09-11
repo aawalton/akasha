@@ -1,7 +1,7 @@
+import { resolveLocationIngestContext } from "akasha/alan/atlas-web/.server/location-ingest-context/location-ingest-context.module.code.ts"
+import { locationBatchSchema } from "akasha/alan/atlas-web/location-batch/location-batch.module.code.ts"
 import { insertLocationTraces } from "akasha/alan/harness/location-traces-access/trace-insert/trace-insert.module.code.ts"
 import type { LocationTraceInsert } from "akasha/alan/harness/location-traces-access/trace-shape/trace-shape.module.code.ts"
-import { resolveLocationIngestContext } from "../../.server/location-ingest-context/location-ingest-context.module.code.ts"
-import { locationBatchSchema } from "../../location-batch/location-batch.module.code.ts"
 
 export async function action({ request }: { request: Request }): Promise<Response> {
   if (request.method !== "POST") {
