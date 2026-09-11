@@ -8,7 +8,7 @@ import {
   refOf,
 } from "akasha/infrastructure/container-image/image-ref/image-ref.module.code.ts"
 
-test("a ref is the registry, the repository and the tag", () => {
+test("a ref is the registry, the repository and then the tag", () => {
   expect(refFor("infra/auth-proxy", "abc")).toBe(`${REGISTRY}/infra/auth-proxy:abc`)
 })
 

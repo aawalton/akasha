@@ -37,6 +37,6 @@ test("a manifest naming an image in the registry claims that image", () => {
   expect(claimedIn([yaml]).map((one) => one.slug)).toEqual(["auth-proxy"])
 })
 
-test("a manifest naming no image of ours claims nothing", () => {
+test("a manifest naming no image of our own claims nothing", () => {
   expect(claimedIn(["      image: alpine:3.20\n"])).toHaveLength(0)
 })

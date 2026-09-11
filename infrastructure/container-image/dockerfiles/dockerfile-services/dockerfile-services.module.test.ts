@@ -14,7 +14,7 @@ function isDirectory(path: string): boolean {
 const entries = Object.entries(SERVICES)
 
 describe("ROOT", () => {
-  test("names a checkout, which the `.git` at its top marks", () => {
+  test("names a checkout, which the `.git` at the top of it marks", () => {
     expect(existsSync(join(ROOT, ".git"))).toBe(true)
   })
 

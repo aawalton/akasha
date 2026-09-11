@@ -10,7 +10,7 @@ test("the Dockerfile written for the authenticating proxy runs what its extensio
   )
 })
 
-test("the same call twice writes the same Dockerfile", () => {
+test("the same call twice over writes the same Dockerfile", () => {
   expect(dockerfileFor("auth-proxy")).toBe(dockerfileFor("auth-proxy"))
 })
 

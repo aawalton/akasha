@@ -28,7 +28,7 @@ test("the authenticating proxy's inputs hash to twelve hex characters", () => {
   expect(inputsFor(PROXY).hash).toMatch(/^[0-9a-f]{12}$/)
 })
 
-test("the same inputs hash the same twice", () => {
+test("the same inputs hash the same twice over", () => {
   expect(inputsFor(PROXY).hash).toBe(inputsFor(PROXY).hash)
 })
 

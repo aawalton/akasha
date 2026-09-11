@@ -24,6 +24,6 @@ test("the recipe composed here is the recipe committed beside this test, byte fo
   expect(recipeIn()).toBe(committedRecipe(HERE))
 })
 
-test("the recipe copies no path out of this repository", () => {
+test("the recipe copies no path out of this repository at all", () => {
   expect(copiedFrom(recipeIn())).toEqual([])
 })
