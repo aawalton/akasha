@@ -17,15 +17,32 @@ import {
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { said as git } from "akasha/git/running/git-running.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   idFiledIn,
   listedFiledIn,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"
 
+const ROOT = process.cwd()
+
+const MODULE = "module"
+
+const LANDS = "landing"
+
+function landingAt(): string {
+  const page = listedAt(ROOT, MODULE, LANDS)[0]
+  const at = page === undefined ? null : besideAt(page.path, "code", "ts")
+  if (at === null) {
+    throw new Error(`no \`${MODULE}\` is slugged \`${LANDS}\`, so nothing says where its code sits`)
+  }
+  return join(ROOT, at)
+}
+
 const HOLDING_AT = join(import.meta.dir, "holding.module.code.ts")
 
-const LANDING_AT = join(import.meta.dir, "../landing/landing.module.code.ts")
+const LANDING_AT = landingAt()
 
 const scratch = scratchWorld()
 
