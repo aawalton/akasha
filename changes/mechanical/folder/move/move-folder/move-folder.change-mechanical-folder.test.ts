@@ -1,7 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as changeManifestWays } from "akasha/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts"
-import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange } from "akasha/changes/mechanical/folder/move/move-folder/move-folder.change-mechanical-folder.code.ts"
 import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
@@ -52,10 +49,6 @@ const UNDER: readonly string[] = Object.keys(HELD)
   .filter((one) => one.startsWith(`${FROM}/`))
   .sort()
 
-const MOVE_FILE = "change-mechanical-file/move-file"
-
-const CHANGE_MANIFEST_WAYS = "change-mechanical-file-content/change-manifest-ways"
-
 const MANIFEST = "akasha/package.json"
 
 const NOT_TEXT = "akasha/five/weights.onnx"
@@ -69,17 +62,7 @@ const MANIFEST_BODY = `{
 `
 
 function worldOn(root: string, read: (path: string) => string | null): World {
-  return worldAt(root, read, (world, at, given) => {
-    if (at === MOVE_FILE) {
-      return Promise.resolve(moveFile(world, given as Parameters<typeof moveFile>[1]))
-    }
-    if (at === CHANGE_MANIFEST_WAYS) {
-      return Promise.resolve(
-        changeManifestWays(world, given as Parameters<typeof changeManifestWays>[1])
-      )
-    }
-    return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
-  })
+  return worldAt(root, read)
 }
 
 function worldIn(root: string): World {
@@ -262,7 +245,7 @@ test("a folder inside the folder that moves is refused", async () => {
   expect(said.refused ?? "").toMatch(/sits under/)
 })
 
-test("each body that moves is repointed by the change reached at its address", async () => {
+test("every file under the folder is answered for without reaching a rung", async () => {
   const reached: string[] = []
   const root = indexedRepo(HELD)
   const world = worldAt(root, textIn(root), (_world, at) => {
@@ -270,9 +253,8 @@ test("each body that moves is repointed by the change reached at its address", a
     return Promise.resolve({ edits: [], refused: null })
   })
 
-  await runChange(world, { from: FROM, to: INTO })
+  const said = await runChange(world, { from: FROM, to: INTO })
 
-  expect(new Set(reached)).toEqual(
-    new Set([MOVE_FILE, "change-mechanical-file-content/change-imports"])
-  )
+  expect(said.refused).toBeNull()
+  expect(reached).toEqual([])
 })

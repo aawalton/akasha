@@ -51,6 +51,19 @@ export const moveFolder = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Every file under the folder is answered for in one answer rather than one a file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body is read as the world before the move holds that body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rungs repointing a body are called rather than reached.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Which bodies are read is answered by the last part of the folder's own name.",
     },
     {

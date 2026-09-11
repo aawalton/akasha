@@ -1,20 +1,20 @@
 import { dirname, join, relative } from "node:path"
-import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { renameManifestWays } from "akasha/changes/mechanical/file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts"
+import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
+import {
+  refusing,
+  replayed,
+  stating,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type {
   Answer,
   FileChange,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { reachesIn } from "akasha/code/package-manifest/package-manifest.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import { spellersIn } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
-
-const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
-
-const CHANGE_MANIFEST_WAYS = "change-mechanical-file-content/change-manifest-ways"
-
-const MOVE_FILE = "change-mechanical-file/move-file"
 
 const OUTSIDE = ".."
 
@@ -57,13 +57,25 @@ function searchable(world: World): (path: string) => string | null {
   }
 }
 
-function waysNaming(world: World, at: string, moved: ReadonlyMap<string, string>): boolean {
-  const held = world.textOf(at)
+type Text = (path: string) => string | null
+
+function waysNaming(textAt: Text, at: string, moved: ReadonlyMap<string, string>): boolean {
+  const held = textAt(at)
   if (held === null) return false
   for (const one of reachesIn(dirname(at), held).values()) {
     if (moved.has(one)) return true
   }
   return false
+}
+
+function textOver(world: World, edits: readonly FileChange[]): Text | string {
+  const held = replayed(stating(edits), world.bodyOf)
+  if ("refused" in held) return held.refused
+  return (path) => {
+    if (!held.has(path)) return world.textOf(path)
+    const one = held.get(path) ?? null
+    return typeof one === "string" ? one : null
+  }
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
@@ -102,31 +114,26 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   const ways = Object.fromEntries(moved)
   const manifests = manifestsIn(world.index.everyPath(), world.index.fileKeysAt())
   const edits: FileChange[] = []
-  let seen = world
   for (const [one, next] of moved) {
-    const going = await reach(seen, MOVE_FILE, { from: one, to: next })
-    if (going.said.refused !== null) return going.said
-    edits.push(...going.said.edits)
-    seen = going.world
-    const answer = await reach(seen, CHANGE_IMPORTS, { was: one, now: next, carried })
-    if (answer.said.refused !== null) return answer.said
-    edits.push(...answer.said.edits)
-    seen = answer.world
+    edits.push({ kind: "move", pathFrom: one, pathTo: next })
+    const answer = changeImports(world, { was: one, now: next, carried })
+    if (answer.refused !== null) return answer
+    edits.push(...answer.edits)
   }
   const folder = new Map([[given.from, given.to]])
   const known = new Set(moved.keys())
-  for (const path of spellersIn(seen.index.everyPath(), searchable(seen), folder, known)) {
-    const answer = await reach(seen, CHANGE_IMPORTS, { was: path, now: path, carried })
-    if (answer.said.refused !== null) return answer.said
-    edits.push(...answer.said.edits)
-    seen = answer.world
+  for (const path of spellersIn(world.index.everyPath(), searchable(world), folder, known)) {
+    const answer = changeImports(world, { was: path, now: path, carried })
+    if (answer.refused !== null) return answer
+    edits.push(...answer.edits)
   }
+  const textAt = textOver(world, edits)
+  if (typeof textAt === "string") return refusing(textAt)
   for (const at of manifests) {
-    if (moved.has(at) || !waysNaming(seen, at, moved)) continue
-    const answer = await reach(seen, CHANGE_MANIFEST_WAYS, { at, moved: ways })
-    if (answer.said.refused !== null) return answer.said
-    edits.push(...answer.said.edits)
-    seen = answer.world
+    if (moved.has(at) || !waysNaming(textAt, at, moved)) continue
+    const answer = renameManifestWays({ at, moved: ways }, textAt)
+    if (answer.refused !== null) return answer
+    edits.push(...answer.edits)
   }
   return stating(edits)
 }
