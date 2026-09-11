@@ -13,10 +13,7 @@ import {
 } from "akasha/temper/items-rules-eval/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import type { BrowseListing } from "akasha/temper/trading-listings/browse-listings/browse-listings.module.code.ts"
-
-function asNumber(value: unknown): number | undefined {
-  return typeof value === "number" ? value : undefined
-}
+import { parseNumber } from "akasha/utils/narrow/parse-number/parse-number.module.code.ts"
 
 function asString(value: unknown): string | undefined {
   return typeof value === "string" ? value : undefined
@@ -103,9 +100,9 @@ export function readResultListing(index: number): BrowseListing<ItemFacts> | und
     purchasePricePerUnitRaw,
   ] = GetTradingHouseSearchResultItemInfo(index)
 
-  const stackCount = asNumber(stackCountRaw)
-  const purchasePrice = asNumber(purchasePriceRaw)
-  const purchasePricePerUnit = asNumber(purchasePricePerUnitRaw)
+  const stackCount = parseNumber(stackCountRaw)
+  const purchasePrice = parseNumber(purchasePriceRaw)
+  const purchasePricePerUnit = parseNumber(purchasePricePerUnitRaw)
   if (
     stackCount === undefined ||
     purchasePrice === undefined ||
