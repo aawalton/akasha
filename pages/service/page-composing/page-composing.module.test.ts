@@ -346,13 +346,13 @@ test("a write that does not merge keeps only the keys the caller names", () => {
   expect(content).not.toContain("caption:")
 })
 
-test("a write that does not merge states both keys naming the page type", () => {
+test("a write that does not merge states the key naming the page type", () => {
   const said = foldedFor(ROOT, [
     { pageTypeSlug: "thing", slug: HELD_THING, values: { title: "a new title" } },
   ])
   const content = "puts" in said ? said.puts[0]?.content : ""
-  expect(content).toContain('pageTypeSlug: "thing"')
   expect(content).toContain('type: "thing"')
+  expect(content).not.toContain("pageTypeSlug:")
 })
 
 test("a merge naming nothing composes the body the page already carries", () => {
