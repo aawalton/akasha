@@ -82,6 +82,11 @@ export const typeGenerating = {
       statement: "Nothing here writes a file.",
     },
     {
+      invariantKind: "absence",
+      statement:
+        "`loadedBy` names a page type, and only one stating a generator is loaded, so nothing declares it.",
+    },
+    {
       invariantKind: "departure",
       statement:
         "A path a generated body imports could turn a type whether the change writes or takes it.",
