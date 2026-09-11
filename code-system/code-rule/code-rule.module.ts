@@ -111,5 +111,25 @@ export const codeRule = {
       statement:
         "A parameter's type annotation is a name the function does not bind and is read as written.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A function's type predicate is read as part of that function's rule.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A type predicate is read between the parameters and the body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The name a type predicate narrows is read as its order.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A return type that is no type predicate is read as nothing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Two names for one type are two rules here.",
+    },
   ],
 } as const satisfies Module

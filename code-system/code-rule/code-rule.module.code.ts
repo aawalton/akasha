@@ -83,6 +83,10 @@ function ruleOf(fn: ts.FunctionLikeDeclaration, source: ts.SourceFile): string |
     said.push(ts.isIdentifier(node) ? (names.get(node.text) ?? text) : text)
   }
   for (const one of fn.parameters) emit(one)
+  if (fn.type !== undefined && ts.isTypePredicateNode(fn.type)) {
+    said.push(":")
+    emit(fn.type)
+  }
   said.push("=>")
   emit(fn.body)
   return said.join(" ")

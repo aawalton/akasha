@@ -215,6 +215,47 @@ test("a rule bound to nothing is not read, because only a function is", () => {
   expect(speltIn("one.ts", said)).toEqual([])
 })
 
+test("two guards narrowing to different types say different rules", () => {
+  const one = `function isHeld(said: unknown): said is Held {
+  return typeof said === "object" && said !== null
+}
+`
+  const two = `function isHeld(said: unknown): said is Other {
+  return typeof said === "object" && said !== null
+}
+`
+  expect(ruleFor(one, "isHeld")).not.toBe(ruleFor(two, "isHeld"))
+})
+
+test("one narrowing is one rule however the name it narrows is spelled", () => {
+  const one = `function isHeld(said: unknown): said is Held {
+  return typeof said === "object" && said !== null
+}
+`
+  const two = `function isHeld(given: unknown): given is Held {
+  return typeof given === "object" && given !== null
+}
+`
+  expect(ruleFor(one, "isHeld")).toBe(ruleFor(two, "isHeld"))
+})
+
+test("a return type that is no type predicate says nothing, two names for one type included", () => {
+  const said = `function wordsOf(text: string): string[] {
+  return text.split(" ").filter((one) => one !== "")
+}
+`
+  const named = `function wordsOf(text: string): Word[] {
+  return text.split(" ").filter((one) => one !== "")
+}
+`
+  const bare = `function wordsOf(text: string) {
+  return text.split(" ").filter((one) => one !== "")
+}
+`
+  expect(ruleFor(named, "wordsOf")).toBe(ruleFor(said, "wordsOf"))
+  expect(ruleFor(bare, "wordsOf")).toBe(ruleFor(said, "wordsOf"))
+})
+
 test("a declaration with no body says no rule", () => {
   expect(speltIn("one.d.ts", "export declare function held(one: string): string\n")).toEqual([])
 })
