@@ -1,3 +1,4 @@
+import { defined } from "../craft-defined/craft-defined.module.code.ts"
 import type { NameSortable } from "../craft-player-state/craft-player-state.module.code.ts"
 import * as PlayerState from "../craft-player-state/craft-player-state.module.code.ts"
 import * as ResearchGrid from "../craft-research-grid/craft-research-grid.module.code.ts"
@@ -14,9 +15,6 @@ function asWidth(this: void, value: unknown): number {
 
 const mustControl = <T extends Control = TemperCraftingControl>(name: string): T =>
   WINDOW_MANAGER.GetControlByName<T>(name) ?? error(`TemperCrafting: missing control ${name}`)
-
-const defined = <T>(value: T | undefined): T =>
-  value ?? error("TemperCrafting: unexpected nil value")
 
 const allNamed = (
   sets: Record<number, CraftedSetEntry>

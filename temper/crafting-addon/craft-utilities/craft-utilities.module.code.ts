@@ -1,10 +1,8 @@
 import * as Characters from "../craft-characters/craft-characters.module.code.ts"
+import { defined } from "../craft-defined/craft-defined.module.code.ts"
 import { SETS } from "../craft-sets-data/craft-sets-data.module.code.ts"
 import { CB_UPDATE_PLAYER } from "../crafting-constants/crafting-constants.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-
-const defined = <T>(value: T | undefined): T =>
-  value ?? error("TemperCrafting: unexpected nil value")
 
 interface TimerEntry {
   id: string

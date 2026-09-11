@@ -1,3 +1,4 @@
+import { defined } from "../craft-defined/craft-defined.module.code.ts"
 import * as PlayerState from "../craft-player-state/craft-player-state.module.code.ts"
 import { type CsQualityColor, QUALITY } from "../craft-quality/craft-quality.module.code.ts"
 import * as Tooltips from "../craft-tooltips/craft-tooltips.module.code.ts"
@@ -21,13 +22,6 @@ export interface CsBlueprintButton extends ButtonControl {
 
 function asBlueprintButton(c: ButtonControl): CsBlueprintButton {
   return c as CsBlueprintButton
-}
-
-function defined<T>(value: T | undefined): T {
-  if (value === undefined) {
-    error("TemperCrafting: unexpected nil value")
-  }
-  return value
 }
 
 export function closeBlueprintWindow(): undefined {

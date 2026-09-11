@@ -1,3 +1,4 @@
+import { defined } from "../craft-defined/craft-defined.module.code.ts"
 import * as PlayerState from "../craft-player-state/craft-player-state.module.code.ts"
 import { type CsQualityColor, QUALITY } from "../craft-quality/craft-quality.module.code.ts"
 import * as Tooltips from "../craft-tooltips/craft-tooltips.module.code.ts"
@@ -5,9 +6,6 @@ import { hideControl, toChat } from "../crafting-helpers/crafting-helpers.module
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
 
 const WM = WINDOW_MANAGER
-
-const defined = <T>(value: T | undefined): T =>
-  value ?? error("TemperCrafting: unexpected nil value")
 
 export interface CsRecipeButtonData {
   link: string

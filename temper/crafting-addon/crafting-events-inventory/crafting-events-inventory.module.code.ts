@@ -1,12 +1,10 @@
+import { defined } from "../craft-defined/craft-defined.module.code.ts"
 import { isLocked, updateStored } from "../craft-inventory/craft-inventory.module.code.ts"
 import { LANG } from "../craft-lang-index/craft-lang-index.module.code.ts"
 import { applyStorageCounts } from "../craft-storage-counts/craft-storage-counts.module.code.ts"
 import { isValidEquip } from "../craft-validation/craft-validation.module.code.ts"
 import { stripLink, updateMatsInfo } from "../crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
-
-const defined = <T>(value: T | undefined): T =>
-  value ?? error("TemperCrafting: unexpected nil value")
 
 const asSharedInventorySlotData = (value: { bagId: number }): SharedInventorySlotData =>
   value as SharedInventorySlotData

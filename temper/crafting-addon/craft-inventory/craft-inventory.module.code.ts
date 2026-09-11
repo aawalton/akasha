@@ -1,4 +1,5 @@
 import type { AccountData } from "../craft-account-init/craft-account-init.module.code.ts"
+import { defined } from "../craft-defined/craft-defined.module.code.ts"
 import { RawItemTypes } from "../craft-item-types/craft-item-types.module.code.ts"
 import { LANG } from "../craft-lang-index/craft-lang-index.module.code.ts"
 import { pruneEmptyStorage } from "../craft-storage-prune/craft-storage-prune.module.code.ts"
@@ -12,13 +13,6 @@ import { STATE } from "../crafting-state/crafting-state.module.code.ts"
 
 function asSaveResult(this: void, value: unknown): LuaMultiReturn<[boolean, string | undefined]> {
   return value as LuaMultiReturn<[boolean, string | undefined]>
-}
-
-function defined<T>(value: T | undefined): T {
-  if (value === undefined) {
-    error("TemperCrafting: unexpected nil value")
-  }
-  return value
 }
 
 export function scanBagResearch(

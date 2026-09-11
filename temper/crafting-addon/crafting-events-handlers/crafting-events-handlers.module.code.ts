@@ -1,6 +1,7 @@
 import { blueprintLearned } from "../craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"
 import { characterInitialize } from "../craft-character-panel-init/craft-character-panel-init.module.code.ts"
 import { cookShow, cookShowCategory } from "../craft-cooking/craft-cooking.module.code.ts"
+import { defined } from "../craft-defined/craft-defined.module.code.ts"
 import { updateBag } from "../craft-inventory/craft-inventory.module.code.ts"
 import { migrateJewelryIdSwap } from "../craft-mig-jewelry-swap/craft-mig-jewelry-swap.module.code.ts"
 import { migrateStoragePrune } from "../craft-mig-storage-prune/craft-mig-storage-prune.module.code.ts"
@@ -42,9 +43,6 @@ import {
   runeInitialize,
   runeView,
 } from "../rune-panel/rune-panel.module.code.ts"
-
-const defined = <T>(value: T | undefined): T =>
-  value ?? error("TemperCrafting: unexpected nil value")
 
 type RuneJob = RuneTable["job"]
 const asRuneJob = (value: { amount: number }): RuneJob => value as RuneJob
