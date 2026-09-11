@@ -16,4 +16,5 @@ export const serviceWatching = {
     jitterSeconds: 5,
     startTimeoutSeconds: 120,
   },
+  deployedCommit: "c1535d315a7637462607486074d6574063b98f88",
 } as const satisfies ServiceWorkstation
