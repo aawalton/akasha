@@ -1,4 +1,4 @@
-import type { TextureFn } from "../main-menu-casts/main-menu-casts.module.code.ts"
+import type { TextureFn } from "akasha/temper/lib-main-menu/main-menu-casts/main-menu-casts.module.code.ts"
 import {
   asLmmCategoryInfo,
   asLmmCategoryLayoutInfo,
@@ -7,11 +7,14 @@ import {
   asMenuBarHost,
   asMultiIcon,
   asTextureArray,
-} from "../main-menu-casts/main-menu-casts.module.code.ts"
-import { getMainMenu } from "../main-menu-keyboard/main-menu-keyboard.module.code.ts"
-import { initMenu } from "../main-menu-setup/main-menu-setup.module.code.ts"
-import type { Lib } from "../main-menu-shape/main-menu-shape.module.code.ts"
-import { MAJOR, MINOR } from "../main-menu-version/main-menu-version.module.code.ts"
+} from "akasha/temper/lib-main-menu/main-menu-casts/main-menu-casts.module.code.ts"
+import { getMainMenu } from "akasha/temper/lib-main-menu/main-menu-keyboard/main-menu-keyboard.module.code.ts"
+import { initMenu } from "akasha/temper/lib-main-menu/main-menu-setup/main-menu-setup.module.code.ts"
+import type { Lib } from "akasha/temper/lib-main-menu/main-menu-shape/main-menu-shape.module.code.ts"
+import {
+  MAJOR,
+  MINOR,
+} from "akasha/temper/lib-main-menu/main-menu-version/main-menu-version.module.code.ts"
 
 export const LIB: Lib = { name: MAJOR, version: MINOR } as Lib
 

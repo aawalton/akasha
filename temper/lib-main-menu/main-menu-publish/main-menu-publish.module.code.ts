@@ -1,6 +1,6 @@
-import type { GlobalTable } from "../main-menu-casts/main-menu-casts.module.code.ts"
+import type { GlobalTable } from "akasha/temper/lib-main-menu/main-menu-casts/main-menu-casts.module.code.ts"
 
-import { LIB } from "../main-menu-library/main-menu-library.module.code.ts"
+import { LIB } from "akasha/temper/lib-main-menu/main-menu-library/main-menu-library.module.code.ts"
 
 function publish(): undefined {
   if (IsConsoleUI()) {

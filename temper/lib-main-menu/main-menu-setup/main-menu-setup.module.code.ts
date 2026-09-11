@@ -1,4 +1,7 @@
-import type { GlobalTable, IpairsFn } from "../main-menu-casts/main-menu-casts.module.code.ts"
+import type {
+  GlobalTable,
+  IpairsFn,
+} from "akasha/temper/lib-main-menu/main-menu-casts/main-menu-casts.module.code.ts"
 import {
   asCategoryLayoutArray,
   asIpairsFn,
@@ -6,10 +9,10 @@ import {
   asMenuMetatable,
   asRefreshFn,
   asTabClickable,
-} from "../main-menu-casts/main-menu-casts.module.code.ts"
-import { getMainMenu } from "../main-menu-keyboard/main-menu-keyboard.module.code.ts"
-import type { Lib } from "../main-menu-shape/main-menu-shape.module.code.ts"
-import { MAJOR } from "../main-menu-version/main-menu-version.module.code.ts"
+} from "akasha/temper/lib-main-menu/main-menu-casts/main-menu-casts.module.code.ts"
+import { getMainMenu } from "akasha/temper/lib-main-menu/main-menu-keyboard/main-menu-keyboard.module.code.ts"
+import type { Lib } from "akasha/temper/lib-main-menu/main-menu-shape/main-menu-shape.module.code.ts"
+import { MAJOR } from "akasha/temper/lib-main-menu/main-menu-version/main-menu-version.module.code.ts"
 
 export function initMenu(self: Lib): undefined {
   const menu = getMainMenu()
