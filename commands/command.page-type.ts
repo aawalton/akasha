@@ -66,6 +66,7 @@ export const command = {
     "module/file-arguing",
     "module/inventory-file-arguing",
     "module/inventory-trace-saying",
+    "module/measure-tabling",
     "module/mechanical-filing",
     "module/command-stopping",
     "module/prose-routing",

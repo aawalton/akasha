@@ -6,6 +6,12 @@ import {
   personasStanding,
 } from "akasha/personas/reading/persona-reading.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import {
+  flooredTo,
+  linesOf,
+  type Measured,
+  PLACES,
+} from "../../../modules/measure-tabling/measure-tabling.module.code.ts"
 
 const CLOSENESS_LEVEL = "closeness-level"
 
@@ -13,20 +19,11 @@ const LEVEL = "level"
 
 const POINTS_TO_HERE = "pointsToHere"
 
-const PLACES = 2
-
 const NOTHING_KEPT =
   "no persona carries a total, so there is nothing to say. A figure Alan did not earn her would " +
   "be a lie, and no figure at all is not a figure of zero."
 
 export type Named = { readonly slug: string; readonly label: string; readonly path: string }
-
-export type Measured = { readonly label: string; readonly level: number; readonly figure: number }
-
-export function flooredTo(value: number, places: number): number {
-  const scale = 10 ** places
-  return Math.floor(value * scale) / scale
-}
 
 export function rungsIn(root: string): ReadonlyMap<number, number> {
   const found = new Map<number, number>()
@@ -62,25 +59,6 @@ export function measuredIn(
   return [...found].sort(
     (one, two) =>
       two.figure - one.figure || (one.label < two.label ? -1 : one.label > two.label ? 1 : 0)
-  )
-}
-
-function widestOf(values: readonly string[]): number {
-  return values.reduce((most, one) => Math.max(most, one.length), 0)
-}
-
-export function linesOf(measured: readonly Measured[]): readonly string[] {
-  const cells = measured.map((one) => ({
-    label: one.label,
-    level: String(one.level),
-    figure: one.figure.toFixed(PLACES),
-  }))
-  const labels = widestOf(cells.map((one) => one.label))
-  const levels = widestOf(cells.map((one) => one.level))
-  const figures = widestOf(cells.map((one) => one.figure))
-  return cells.map(
-    (one) =>
-      `${one.label.padEnd(labels)}  ${one.level.padStart(levels)}  ${one.figure.padStart(figures)}`
   )
 }
 

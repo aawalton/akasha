@@ -1,11 +1,6 @@
 import { expect, test } from "bun:test"
-import {
-  flooredTo,
-  linesOf,
-  measuredIn,
-  type Named,
-  untotalledOf,
-} from "./measure-personas.command.code.ts"
+import { linesOf } from "../../../modules/measure-tabling/measure-tabling.module.code.ts"
+import { measuredIn, type Named, untotalledOf } from "./measure-personas.command.code.ts"
 
 const NAMED: readonly Named[] = [
   { slug: "wren", label: "Wren", path: "lumen/pages/wren/wren.persona.ts" },
@@ -20,10 +15,6 @@ const RUNGS: Readonly<Record<number, number>> = { 1: 7, 2: 28, 3: 88, 4: 268, 5:
 const totalOf = (one: Named): number | null => KEPT[one.slug] ?? null
 
 const rungAt = (rung: number): number | null => RUNGS[rung] ?? null
-
-test("a total is floored rather than rounded", () => {
-  expect(flooredTo(0.999, 2)).toBe(0.99)
-})
 
 test("a persona carrying no total is left out of the lines", () => {
   const named = [...NAMED, { slug: "swift", label: "Swift", path: "lumen/pages/swift/swift.ts" }]
