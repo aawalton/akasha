@@ -49,6 +49,42 @@ export const indexRule = {
     },
     {
       invariantKind: "departure",
+      statement: "A rule a file spells is a function of that file's body and of the reader.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rebuild files which reader spelled the rules that rebuild filed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That reader is named by what the reader spells for the reader's own body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing files no reader, one landing refiling one path rather than the map.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A map another reader filed is not whole however many paths were read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A map naming no reader is not whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reader that changed leaves the map to be filed again rather than read.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No reader is named by a number someone keeps by hand.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A parse moving no rule in the reader's own body is not answered for here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reader answers the paths for one rule ordered by path and then by place.",
     },
     {

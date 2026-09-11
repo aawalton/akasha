@@ -4,6 +4,7 @@ import { keptAt, scratchWorld } from "akasha/commands/modules/scratching/scratch
 import { said as git } from "akasha/git/running/git-running.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { rebuiltWhole } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+import { readerAt } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/pages/properties/slug.text-property.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
@@ -39,8 +40,10 @@ export function put(tree: string, at: string, body: string): string {
   return path
 }
 
-export const butTheStamp = (found: readonly string[]): readonly string[] =>
-  found.filter((one) => !one.startsWith("/stamp.jsonl "))
+export function butTheStamp(found: readonly string[]): readonly string[] {
+  const stamped = ["/stamp.jsonl ", `/${readerAt()} `]
+  return found.filter((one) => !stamped.some((at) => one.startsWith(at)))
+}
 
 export type Named = readonly [string, Held]
 

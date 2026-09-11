@@ -13,11 +13,13 @@ import {
   thePage,
   VOCABULARY,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { indexingAt } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+import { indexingAt, rebuiltFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+import { readerAt } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
 import { readingAt } from "akasha/pages/indexes/surface/index-surface.module.code.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
 
 export const A = idOf("a")
 export const B = idOf("b")
@@ -147,6 +149,27 @@ export function aWrittenWorld(): Pair {
   indexing.wrote(put(tree, "deep/a.module.code.ts", seen), seen, null)
   indexing.settle()
   return { tree, root }
+}
+
+export type Stamps = {
+  readonly rebuilt: readonly string[]
+  readonly landed: readonly string[]
+}
+
+export type Worlds = { readonly landed: string; readonly rebuilt: string }
+
+export function worldsApart(): Worlds {
+  const { tree, root } = aWrittenWorld()
+  const rebuilt = heldAt()
+  rebuiltFrom(tree, rebuilt, tree)
+  return { landed: root, rebuilt }
+}
+
+export function stampsApart(): Stamps {
+  const { landed, rebuilt } = worldsApart()
+  const stamped = (at: string): readonly string[] =>
+    everyFileUnder(at).filter((one) => one.startsWith(`/${readerAt()} `))
+  return { rebuilt: stamped(rebuilt), landed: stamped(landed) }
 }
 
 export function aWorldDeclaringNoUnique(): Pair {

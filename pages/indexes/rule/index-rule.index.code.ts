@@ -1,3 +1,4 @@
+import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { digestOf } from "akasha/code-system/carried-file/carried-file.module.code.ts"
 import { speltIn } from "akasha/code-system/code-rule/code-rule.module.code.ts"
@@ -12,6 +13,11 @@ const RULE = indexRule.name
 const SAID = "said"
 
 const READ = "read/at-path"
+
+const BY_READER = "read/by-reader"
+
+const READER = new URL("../../../code-system/code-rule/code-rule.module.code.ts", import.meta.url)
+  .pathname
 
 const ENDING = ".jsonl"
 
@@ -40,6 +46,24 @@ export function ruleIn(body: string, path: string, repo: string): readonly Entry
   ]
 }
 
+export function readerNow(): string {
+  return digestOf(BYTES.encode(JSON.stringify(speltIn(READER, readFileSync(READER, "utf8")))))
+}
+
+export function readerAt(): string {
+  return join(RULE, `${BY_READER}${ENDING}`)
+}
+
+export function readerIn(): Entry {
+  return { at: readerAt(), line: JSON.stringify({ reader: readerNow() }) }
+}
+
+export function readerFiled(reading: Reading): string | null {
+  const [line] = reading.lines(readerAt())
+  if (line === undefined) return null
+  return (JSON.parse(line) as { readonly reader: string }).reader
+}
+
 export function pathsRead(reading: Reading): ReadonlySet<string> {
   const found = new Set<string>()
   for (const line of reading.lines(join(RULE, `${READ}${ENDING}`))) {
@@ -50,6 +74,7 @@ export function pathsRead(reading: Reading): ReadonlySet<string> {
 
 export function ruleWhole(reading: Reading, named: readonly string[]): boolean {
   if (!reading.holds(RULE)) return false
+  if (readerFiled(reading) !== readerNow()) return false
   const read = pathsRead(reading)
   return named.every((one) => !typed(one) || read.has(one))
 }

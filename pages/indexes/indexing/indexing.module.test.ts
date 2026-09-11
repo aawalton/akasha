@@ -5,6 +5,7 @@ import {
   aProperty,
   aType,
   bodyOf,
+  butTheStamp,
   put,
   scratch,
   thePage,
@@ -16,7 +17,6 @@ import {
   aTarget,
   aWorldDeclaringNothing,
   aWorldDeclaringNoUnique,
-  aWrittenWorld,
   B,
   BLAND,
   BLAND_CODE,
@@ -41,13 +41,16 @@ import {
   schemaFile,
   settled,
   slugFile,
+  stampsApart,
   TYPE_SLUG,
   tookAway,
   uniqueKindRespelled,
+  worldsApart,
   writingTo,
   wrotePages,
   wroteText,
 } from "akasha/pages/indexes/indexing/indexing.module.test-fixtures.ts"
+import { readerNow } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
 import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
 
 afterAll(scratch.sweep, 5000)
@@ -280,15 +283,18 @@ test("a bare value narrowing to more than one page is refused rather than resolv
   expect(existsSync(edgeFile(root, B, "part-slugs", A))).toBe(false)
 })
 
-test("a rebuild from the pages agrees with the index a write left", () => {
-  const { tree, root: landed } = aWrittenWorld()
+test("a rebuild from the pages agrees with the index a write left but for the reader", () => {
+  const { landed, rebuilt } = worldsApart()
   expect(existsSync(importFile(landed, "deep/a.module.ts"))).toBe(true)
-
-  const rebuilt = heldAt()
-  rebuiltFrom(tree, rebuilt, tree)
-
   expect(existsSync(pathFile(landed, "deep/a.module.code.ts"))).toBe(true)
-  expect(everyFileUnder(rebuilt)).toEqual(everyFileUnder(landed))
+  expect(butTheStamp(everyFileUnder(rebuilt))).toEqual(butTheStamp(everyFileUnder(landed)))
+})
+
+test("the rebuild names the reader that filed the rules and a write names none", () => {
+  const { landed, rebuilt } = stampsApart()
+  expect(rebuilt.length).toBe(1)
+  expect(rebuilt[0] ?? "").toContain(readerNow())
+  expect(landed).toEqual([])
 })
 
 test("pages carrying no property that declares a unique are refused rather than filed empty", () => {

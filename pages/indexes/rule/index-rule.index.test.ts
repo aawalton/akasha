@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
 import {
   pathsRead,
+  readerFiled,
+  readerIn,
+  readerNow,
   ruleIn,
   ruleWhole,
   saidAt,
@@ -68,10 +71,36 @@ test("a reader answers the paths for one rule ordered by path and then by place"
   expect(saidOf(reading, "elsewhere")).toEqual([])
 })
 
+function filedBy(reader: string): Reading {
+  return readingOf({
+    "rule/read/at-path.jsonl": [`{"path":"${ONE}"}`],
+    "rule/read/by-reader.jsonl": [JSON.stringify({ reader })],
+  })
+}
+
 test("an index that has not read every typed path the index names is not whole", () => {
-  const reading = readingOf({ "rule/read/at-path.jsonl": [`{"path":"${ONE}"}`] })
+  const reading = filedBy(readerNow())
   expect(pathsRead(reading)).toEqual(new Set([ONE]))
   expect(ruleWhole(reading, [ONE, "held.md"])).toBe(true)
   expect(ruleWhole(reading, [ONE, TWO])).toBe(false)
   expect(ruleWhole(readingOf({}), [ONE])).toBe(false)
+})
+
+test("a map another reader filed is not whole though every path it names was read", () => {
+  const reading = filedBy("the rules some other reader spelled")
+  expect(pathsRead(reading)).toEqual(new Set([ONE]))
+  expect(readerFiled(reading)).toBe("the rules some other reader spelled")
+  expect(ruleWhole(reading, [ONE])).toBe(false)
+})
+
+test("a map naming no reader is not whole", () => {
+  const reading = readingOf({ "rule/read/at-path.jsonl": [`{"path":"${ONE}"}`] })
+  expect(readerFiled(reading)).toBe(null)
+  expect(ruleWhole(reading, [ONE])).toBe(false)
+})
+
+test("the reader names itself by what that reader spells for its own body", () => {
+  expect(readerNow()).toMatch(/^[0-9a-f]{64}$/)
+  expect(readerIn().at).toBe("rule/read/by-reader.jsonl")
+  expect(readerFiled(readingOf({ [readerIn().at]: [readerIn().line] }))).toBe(readerNow())
 })

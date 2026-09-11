@@ -109,6 +109,11 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The filed rules are read only where the reader that filed them is the one asking.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run whose filed rules fall short of that parses every file named instead.",
     },
     {
