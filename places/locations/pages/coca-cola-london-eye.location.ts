@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const cocaColaLondonEye = {
   id: "019f1b49-55e3-73ae-8302-f54e747b23cf",
-  pageTypeSlug: "location",
   type: "location",
   slug: "coca-cola-london-eye",
   title: "Coca-Cola London Eye",

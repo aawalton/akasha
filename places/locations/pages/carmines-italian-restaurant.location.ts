@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const carminesItalianRestaurant = {
   id: "019f1aec-0d26-706b-94b7-7b152050aaaa",
-  pageTypeSlug: "location",
   type: "location",
   slug: "carmines-italian-restaurant",
   title: "Carmine's Italian Restaurant",

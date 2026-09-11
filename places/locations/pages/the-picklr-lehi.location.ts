@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const thePicklrLehi = {
   id: "019f322c-9bc7-7aac-b9a3-a2301dc1cfea",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-picklr-lehi",
   title: "The Picklr (Lehi)",

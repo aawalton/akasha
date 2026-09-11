@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const nemoScienceMuseum = {
   id: "019f1b49-5557-731c-9fb2-793ca9612aa5",
-  pageTypeSlug: "location",
   type: "location",
   slug: "nemo-science-museum",
   title: "NEMO Science Museum",

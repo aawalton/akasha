@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const museeDeLorangerie = {
   id: "019f1aec-0dc4-707c-8f0c-e1ab5f1bb3bd",
-  pageTypeSlug: "location",
   type: "location",
   slug: "musee-de-lorangerie",
   title: "Musée de l'Orangerie",

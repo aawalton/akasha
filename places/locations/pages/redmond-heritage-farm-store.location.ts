@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const redmondHeritageFarmStore = {
   id: "019f1aec-0cfc-799c-82d0-920340baaa88",
-  pageTypeSlug: "location",
   type: "location",
   slug: "redmond-heritage-farm-store",
   title: "Redmond Heritage Farm Store",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const pointDefianceZooAquarium = {
   id: "019f1aec-0c8e-7a3f-ac78-6e1b3cb5b503",
-  pageTypeSlug: "location",
   type: "location",
   slug: "point-defiance-zoo-aquarium",
   title: "Point Defiance Zoo & Aquarium",

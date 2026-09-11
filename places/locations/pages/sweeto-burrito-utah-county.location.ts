@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const sweetoBurritoUtahCounty = {
   id: "019f322c-9b9b-7a99-8a6b-bf8fc1716940",
-  pageTypeSlug: "location",
   type: "location",
   slug: "sweeto-burrito-utah-county",
   title: "Sweeto Burrito (Utah County)",

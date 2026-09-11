@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const tinRoofGrill = {
   id: "019f1aec-0cea-7cf0-bc20-406156ea3c2e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "tin-roof-grill",
   title: "Tin Roof Grill",

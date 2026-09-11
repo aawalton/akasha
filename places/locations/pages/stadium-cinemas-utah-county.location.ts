@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const stadiumCinemasUtahCounty = {
   id: "019f322c-9b95-72c0-bddb-c96f7cfb94aa",
-  pageTypeSlug: "location",
   type: "location",
   slug: "stadium-cinemas-utah-county",
   title: "Stadium Cinemas (Utah County)",

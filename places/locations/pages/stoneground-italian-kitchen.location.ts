@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const stonegroundItalianKitchen = {
   id: "019f1b49-51da-70f6-a9fc-34e6a803a43b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "stoneground-italian-kitchen",
   title: "Stoneground Italian Kitchen",

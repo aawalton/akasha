@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const gOATHaircutsUtahCounty = {
   id: "019f322c-95fd-76b3-bb35-74eeeb3d3c29",
-  pageTypeSlug: "location",
   type: "location",
   slug: "g-o-a-t-haircuts-utah-county",
   title: "G.O.A.T Haircuts (Utah County)",

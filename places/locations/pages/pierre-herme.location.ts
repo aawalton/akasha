@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const pierreHerme = {
   id: "019f1aec-0dc2-7cc4-8146-635459d75aaa",
-  pageTypeSlug: "location",
   type: "location",
   slug: "pierre-herme",
   title: "Pierre Hermé",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const tilikumPlaceCafe = {
   id: "019f1aec-0ca3-7f6c-83e9-edb34e8c3610",
-  pageTypeSlug: "location",
   type: "location",
   slug: "tilikum-place-cafe",
   title: "Tilikum Place Cafe",

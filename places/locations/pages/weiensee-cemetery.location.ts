@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const weienseeCemetery = {
   id: "019f1aec-0d5a-7098-8085-8db3e828f6ef",
-  pageTypeSlug: "location",
   type: "location",
   slug: "weiensee-cemetery",
   title: "Weißensee cemetery",

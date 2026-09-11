@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const churchOfOurLadyOfVictoriesAtTheSablon = {
   id: "019f1b49-56f4-71e1-83ff-8937465c10a6",
-  pageTypeSlug: "location",
   type: "location",
   slug: "church-of-our-lady-of-victories-at-the-sablon",
   title: "Church of Our Lady of Victories at the Sablon",

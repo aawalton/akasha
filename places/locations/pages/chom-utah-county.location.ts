@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const chomUtahCounty = {
   id: "019f322c-92c3-7ffd-9730-18e856fae7f5",
-  pageTypeSlug: "location",
   type: "location",
   slug: "chom-utah-county",
   title: "CHOM (Utah County)",

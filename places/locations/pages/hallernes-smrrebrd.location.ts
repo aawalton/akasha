@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const hallernesSmrrebrd = {
   id: "019f1aec-0d82-7ba1-b824-38f0974dfc19",
-  pageTypeSlug: "location",
   type: "location",
   slug: "hallernes-smrrebrd",
   title: "Hallernes Smørrebrød",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const kokoHead = {
   id: "019f1b49-52be-78b2-8180-a561793315f3",
-  pageTypeSlug: "location",
   type: "location",
   slug: "koko-head",
   title: "Koko Head",

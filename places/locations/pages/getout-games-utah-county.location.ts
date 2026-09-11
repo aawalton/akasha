@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const getoutGamesUtahCounty = {
   id: "019f322c-9657-77b7-b303-5df20e9c8f77",
-  pageTypeSlug: "location",
   type: "location",
   slug: "getout-games-utah-county",
   title: "GetOut Games (Utah County)",

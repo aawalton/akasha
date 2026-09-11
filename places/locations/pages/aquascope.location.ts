@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const aquascope = {
   id: "019f1aec-0cb2-7004-ac8a-516b276795ca",
-  pageTypeSlug: "location",
   type: "location",
   slug: "aquascope",
   title: "Aquascope",

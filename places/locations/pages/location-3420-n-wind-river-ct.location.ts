@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const location3420NWindRiverCt = {
   id: "019f1b49-5350-7a41-83e6-d2d50e77f748",
-  pageTypeSlug: "location",
   type: "location",
   slug: "location-3420-n-wind-river-ct",
   title: "3420 N Wind River Ct",

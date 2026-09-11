@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const theEscapeGameNashville = {
   id: "019f1aec-0df1-7c82-92dc-15172f9b5f59",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-escape-game-nashville",
   title: "The Escape Game Nashville",

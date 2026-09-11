@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const peggyGuggenheimCollection = {
   id: "019f1aec-0e1a-76c0-9467-6385ac46db8a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "peggy-guggenheim-collection",
   title: "Peggy Guggenheim Collection",

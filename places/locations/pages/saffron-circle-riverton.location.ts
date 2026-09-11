@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const saffronCircleRiverton = {
   id: "019f1b49-516d-7322-a25c-2f8920b4d5ea",
-  pageTypeSlug: "location",
   type: "location",
   slug: "saffron-circle-riverton",
   title: "Saffron Circle - Riverton",

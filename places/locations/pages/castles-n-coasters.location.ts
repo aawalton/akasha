@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const castlesNCoasters = {
   id: "019f1aec-0cb9-77b1-aa18-5c797f0ba739",
-  pageTypeSlug: "location",
   type: "location",
   slug: "castles-n-coasters",
   title: "Castles N' Coasters",

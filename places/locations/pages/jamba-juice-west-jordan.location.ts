@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const jambaJuiceWestJordan = {
   id: "019f322c-989a-734b-b4b2-3464b228f5e8",
-  pageTypeSlug: "location",
   type: "location",
   slug: "jamba-juice-west-jordan",
   title: "Jamba Juice (West Jordan)",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const barefootBeachBonitaSpringsFl = {
   id: "019f1b49-5774-7402-a325-b32081a12d12",
-  pageTypeSlug: "location",
   type: "location",
   slug: "barefoot-beach-bonita-springs-fl",
   title: "Barefoot beach Bonita Springs,FL",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const duPainEtDesIdees = {
   id: "019f1aec-0dd8-7475-a7ec-42d696e15b2d",
-  pageTypeSlug: "location",
   type: "location",
   slug: "du-pain-et-des-idees",
   title: "Du Pain et des Idées",

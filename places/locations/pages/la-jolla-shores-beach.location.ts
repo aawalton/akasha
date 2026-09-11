@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const laJollaShoresBeach = {
   id: "019f1aec-0e5e-7ddc-8e80-7b5f01093666",
-  pageTypeSlug: "location",
   type: "location",
   slug: "la-jolla-shores-beach",
   title: "La Jolla Shores Beach",

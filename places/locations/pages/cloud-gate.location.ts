@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const cloudGate = {
   id: "019f1aec-0eb4-7cf1-bf24-0f2d8f9c3b03",
-  pageTypeSlug: "location",
   type: "location",
   slug: "cloud-gate",
   title: "Cloud Gate",

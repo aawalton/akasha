@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const auroraTeagardenMysteriesHoneymoonHoneymurder = {
   id: "019f1b49-577b-7aec-a45c-3e8a657ad61b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "aurora-teagarden-mysteries-honeymoon-honeymurder",
   title: "Aurora Teagarden Mysteries: Honeymoon Honeymurder",

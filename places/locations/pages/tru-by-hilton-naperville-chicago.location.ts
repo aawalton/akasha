@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const truByHiltonNapervilleChicago = {
   id: "019f1b49-54af-7e51-ab33-dee7b4270d1c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "tru-by-hilton-naperville-chicago",
   title: "Tru by Hilton Naperville Chicago",

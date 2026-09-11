@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const chubbysUtahCounty = {
   id: "019f322c-92d0-77ba-8e77-347b142a109f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "chubbys-utah-county",
   title: "Chubby's (Utah County)",

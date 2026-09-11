@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const culversUtahCounty = {
   id: "019f322c-9457-7685-8afb-d261143aa86b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "culvers-utah-county",
   title: "Culver's (Utah County)",

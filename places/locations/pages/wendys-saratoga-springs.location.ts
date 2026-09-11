@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const wendysSaratogaSprings = {
   id: "019f322c-9c7e-7967-a39b-b170d036dd98",
-  pageTypeSlug: "location",
   type: "location",
   slug: "wendys-saratoga-springs",
   title: "Wendy's (Saratoga Springs)",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const highCountryAdventureProvo = {
   id: "019f322c-9707-7dc2-967c-c575101ce223",
-  pageTypeSlug: "location",
   type: "location",
   slug: "high-country-adventure-provo",
   title: "High Country Adventure (Provo)",

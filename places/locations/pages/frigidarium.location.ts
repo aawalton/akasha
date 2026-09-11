@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const frigidarium = {
   id: "019f1aec-0d9c-7770-b9dc-c8f426b651b6",
-  pageTypeSlug: "location",
   type: "location",
   slug: "frigidarium",
   title: "Frigidarium",

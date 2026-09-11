@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const costcoWholesale = {
   id: "019f1b49-52bd-7241-a24e-97852339d2ae",
-  pageTypeSlug: "location",
   type: "location",
   slug: "costco-wholesale",
   title: "Costco Wholesale",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const aulaniADisneyResortSpa = {
   id: "019f1b49-52bf-7ed9-a839-69d6abe09b92",
-  pageTypeSlug: "location",
   type: "location",
   slug: "aulani-a-disney-resort-spa",
   title: "Aulani, A Disney Resort & Spa",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const elBarrilBreakfastLunch = {
   id: "019f1b49-5249-7e03-af65-0659b9f9af1c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "el-barril-breakfast-lunch",
   title: "El Barril Breakfast & Lunch",

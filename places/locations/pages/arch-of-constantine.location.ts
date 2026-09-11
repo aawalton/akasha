@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const archOfConstantine = {
   id: "019f1aec-0db6-7744-aad5-2c472b0922c3",
-  pageTypeSlug: "location",
   type: "location",
   slug: "arch-of-constantine",
   title: "Arch of Constantine",

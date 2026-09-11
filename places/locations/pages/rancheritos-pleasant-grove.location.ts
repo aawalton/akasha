@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const rancheritosPleasantGrove = {
   id: "019f322c-9b3e-7309-8f00-a8faa4db22be",
-  pageTypeSlug: "location",
   type: "location",
   slug: "rancheritos-pleasant-grove",
   title: "Rancherito's (Pleasant Grove)",

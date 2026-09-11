@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const byuStoreUtahCounty = {
   id: "019f322c-9251-7ede-9f2a-21785c15c8f7",
-  pageTypeSlug: "location",
   type: "location",
   slug: "byu-store-utah-county",
   title: "BYU Store (Utah County)",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const pearlHarborHistoricSitesVisitorCenter = {
   id: "019f1b49-52d9-7e4e-91f6-0c196878dacd",
-  pageTypeSlug: "location",
   type: "location",
   slug: "pearl-harbor-historic-sites-visitor-center",
   title: "Pearl Harbor Historic Sites Visitor Center",

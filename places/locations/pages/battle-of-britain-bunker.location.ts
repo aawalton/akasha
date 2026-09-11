@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const battleOfBritainBunker = {
   id: "019f1aec-0cfd-7cdc-8e90-4cdfe8a0685b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "battle-of-britain-bunker",
   title: "Battle of Britain Bunker",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const oakWoodFireKitchen = {
   id: "019f1aec-0ce0-770b-862d-3bab6f7b859a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "oak-wood-fire-kitchen",
   title: "OAK Wood Fire Kitchen",

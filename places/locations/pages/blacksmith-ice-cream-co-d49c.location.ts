@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const blacksmithIceCreamCoD49c = {
   id: "019f1b49-54b7-754d-b4d0-6f655c19d49c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "blacksmith-ice-cream-co-d49c",
   title: "Blacksmith Ice Cream Co.",

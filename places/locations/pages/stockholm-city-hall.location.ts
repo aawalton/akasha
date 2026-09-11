@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const stockholmCityHall = {
   id: "019f1aec-0e10-7d97-96a1-cff0668220b8",
-  pageTypeSlug: "location",
   type: "location",
   slug: "stockholm-city-hall",
   title: "Stockholm City Hall",

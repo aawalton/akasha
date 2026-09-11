@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const forgeJewelryWorksUtahCounty = {
   id: "019f322c-95ee-7c2c-81bf-0348e97066f0",
-  pageTypeSlug: "location",
   type: "location",
   slug: "forge-jewelry-works-utah-county",
   title: "FORGE Jewelry Works (Utah County)",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const pomodoroRistoranteItaliano = {
   id: "019f1b49-559e-720a-ba7c-ca82aef60bd0",
-  pageTypeSlug: "location",
   type: "location",
   slug: "pomodoro-ristorante-italiano",
   title: "Pomodoro Ristorante Italiano",

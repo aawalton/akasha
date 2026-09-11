@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const slurpUtahCounty = {
   id: "019f322c-9b85-746c-a76c-70a1c2ef315b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "slurp-utah-county",
   title: "Slurp (Utah County)",

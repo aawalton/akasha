@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const rauschSchokoladenhaus = {
   id: "019f1aec-0d58-7cee-8985-69683d2ddd9f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "rausch-schokoladenhaus",
   title: "Rausch Schokoladenhaus",

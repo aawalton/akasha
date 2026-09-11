@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const gadernheim = {
   id: "019f1b49-5625-744e-a047-4eb25db9034b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "gadernheim",
   title: "Gadernheim",

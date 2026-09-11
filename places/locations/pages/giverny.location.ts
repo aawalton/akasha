@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const giverny = {
   id: "019f1b49-541a-7809-ab93-1dc29d924c51",
-  pageTypeSlug: "location",
   type: "location",
   slug: "giverny",
   title: "Giverny",

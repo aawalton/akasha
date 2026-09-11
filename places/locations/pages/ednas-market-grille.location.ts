@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const ednasMarketGrille = {
   id: "019f1b49-54a4-7318-ad09-baf0c82d8ea0",
-  pageTypeSlug: "location",
   type: "location",
   slug: "ednas-market-grille",
   title: "Ednas Market & Grille",

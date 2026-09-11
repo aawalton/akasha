@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const seaLifeParkHawaii = {
   id: "019f1b49-52c2-7c03-844c-511411973bfb",
-  pageTypeSlug: "location",
   type: "location",
   slug: "sea-life-park-hawaii",
   title: "Sea Life Park Hawaii",

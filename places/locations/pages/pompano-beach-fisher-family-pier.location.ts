@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const pompanoBeachFisherFamilyPier = {
   id: "019f1b49-5763-7599-b24c-078163567dc6",
-  pageTypeSlug: "location",
   type: "location",
   slug: "pompano-beach-fisher-family-pier",
   title: "Pompano Beach Fisher Family Pier",

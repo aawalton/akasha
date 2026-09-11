@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const madameTussaudsAmsterdam = {
   id: "019f1aec-0e32-785f-8a33-158d212beeec",
-  pageTypeSlug: "location",
   type: "location",
   slug: "madame-tussauds-amsterdam",
   title: "Madame Tussauds Amsterdam",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const jugendburgLudwigstein = {
   id: "019f1aec-0ef6-73d0-9aca-c9148a5178c5",
-  pageTypeSlug: "location",
   type: "location",
   slug: "jugendburg-ludwigstein",
   title: "Jugendburg Ludwigstein",

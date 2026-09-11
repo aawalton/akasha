@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const toshiosTeriyaki = {
   id: "019f1aec-0c6e-72e4-a8c0-74ca9ffb3a8a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "toshios-teriyaki",
   title: "Toshio's Teriyaki",

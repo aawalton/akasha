@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const mercatoDiSanCosimato = {
   id: "019f1aec-0daa-7224-9b8a-dd3fcd8755da",
-  pageTypeSlug: "location",
   type: "location",
   slug: "mercato-di-san-cosimato",
   title: "Mercato di San Cosimato",

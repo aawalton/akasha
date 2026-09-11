@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const navyPier = {
   id: "019f1aec-0eb2-7dcf-8f3d-8edd5224686a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "navy-pier",
   title: "Navy Pier",

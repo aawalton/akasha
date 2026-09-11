@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const beechersHandmadeCheese = {
   id: "019f1aec-0ca2-7a7f-823a-93864e87cc35",
-  pageTypeSlug: "location",
   type: "location",
   slug: "beechers-handmade-cheese",
   title: "Beecher's Handmade Cheese",

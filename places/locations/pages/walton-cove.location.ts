@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const waltonCove = {
   id: "019f1aec-0f05-7c98-84aa-9a8838ed2aa8",
-  pageTypeSlug: "location",
   type: "location",
   slug: "walton-cove",
   title: "Walton Cove",

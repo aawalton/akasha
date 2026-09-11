@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const timeOutMarketLisbon = {
   id: "019f1aec-0ec7-79fd-a843-5bfdf8a88c24",
-  pageTypeSlug: "location",
   type: "location",
   slug: "time-out-market-lisbon",
   title: "Time Out Market Lisbon",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const cinnaholicUtahCounty = {
   id: "019f322c-9326-7f3a-81a1-18b10430ee9c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "cinnaholic-utah-county",
   title: "Cinnaholic (Utah County)",

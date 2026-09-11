@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const sainteChapelle = {
   id: "019f1aec-0dc0-74f0-8665-72f7bfee3e18",
-  pageTypeSlug: "location",
   type: "location",
   slug: "sainte-chapelle",
   title: "Sainte-Chapelle",

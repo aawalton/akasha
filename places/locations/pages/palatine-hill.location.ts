@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const palatineHill = {
   id: "019f1aec-0dba-711c-9247-d8a445445854",
-  pageTypeSlug: "location",
   type: "location",
   slug: "palatine-hill",
   title: "Palatine Hill",

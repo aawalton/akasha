@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const begijnhofkapel = {
   id: "019f1aec-0e38-7975-b36e-e1e88229750a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "begijnhofkapel",
   title: "Begijnhofkapel",

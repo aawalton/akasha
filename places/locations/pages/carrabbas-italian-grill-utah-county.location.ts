@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const carrabbasItalianGrillUtahCounty = {
   id: "019f322c-9271-7bba-ade1-ed967ad0b07f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "carrabbas-italian-grill-utah-county",
   title: "Carrabba's Italian Grill (Utah County)",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const theKaniakapupuRuins = {
   id: "019f1b49-52ac-70aa-8336-844834a52e38",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-kaniakapupu-ruins",
   title: "The Kaniakapupu Ruins",

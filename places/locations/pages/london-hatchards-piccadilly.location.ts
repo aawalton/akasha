@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const londonHatchardsPiccadilly = {
   id: "019f1b49-55d9-7e64-8f5c-c7a3e656528f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "london-hatchards-piccadilly",
   title: "London - Hatchards - Piccadilly",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const salsaAtSouthworthUtahCounty = {
   id: "019f322c-9b72-7a3d-a5e4-588bd960256a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "salsa-at-southworth-utah-county",
   title: "Salsa at Southworth (Utah County)",

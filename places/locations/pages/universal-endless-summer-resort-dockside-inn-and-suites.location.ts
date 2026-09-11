@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const universalEndlessSummerResortDocksideInnAndSuites = {
   id: "019f1b49-5760-7440-b387-221702ee616d",
-  pageTypeSlug: "location",
   type: "location",
   slug: "universal-endless-summer-resort-dockside-inn-and-suites",
   title: "Universal Endless Summer Resort - Dockside Inn and Suites",

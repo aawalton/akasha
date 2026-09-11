@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const farini = {
   id: "019f1aec-0e17-796b-af97-f24c1fc34dc3",
-  pageTypeSlug: "location",
   type: "location",
   slug: "farini",
   title: "Farini",

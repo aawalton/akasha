@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const hashHouseAGoGo = {
   id: "019f1b49-55a7-75b5-9de8-517973eb5ea8",
-  pageTypeSlug: "location",
   type: "location",
   slug: "hash-house-a-go-go",
   title: "Hash House A Go Go",

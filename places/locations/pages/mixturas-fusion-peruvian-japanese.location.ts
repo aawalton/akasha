@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const mixturasFusionPeruvianJapanese = {
   id: "019f1aec-0fa6-707b-8c5a-1a6e2b74ac32",
-  pageTypeSlug: "location",
   type: "location",
   slug: "mixturas-fusion-peruvian-japanese",
   title: "MIXTURAS FUSION | Peruvian • Japanese",

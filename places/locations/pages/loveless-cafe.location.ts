@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const lovelessCafe = {
   id: "019f1aec-0de8-7eba-bb09-e06a3623cac8",
-  pageTypeSlug: "location",
   type: "location",
   slug: "loveless-cafe",
   title: "Loveless Cafe",

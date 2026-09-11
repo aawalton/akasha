@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const burgersSupremeUtahCounty = {
   id: "019f322c-91f4-7c57-a866-7dbaf63066c8",
-  pageTypeSlug: "location",
   type: "location",
   slug: "burgers-supreme-utah-county",
   title: "Burgers Supreme (Utah County)",

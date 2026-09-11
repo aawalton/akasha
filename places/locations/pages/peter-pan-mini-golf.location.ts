@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const peterPanMiniGolf = {
   id: "019f1aec-0e4f-762a-a448-29793926a96c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "peter-pan-mini-golf",
   title: "Peter Pan Mini-Golf",

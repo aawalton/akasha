@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const hanaumaBay = {
   id: "019f1b49-52d8-7819-bd3a-9f81378452e5",
-  pageTypeSlug: "location",
   type: "location",
   slug: "hanauma-bay",
   title: "Hanauma Bay",

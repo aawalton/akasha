@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const waybackBurgersWestJordan = {
   id: "019f322c-9c6a-7aa2-abbd-163ef7952336",
-  pageTypeSlug: "location",
   type: "location",
   slug: "wayback-burgers-west-jordan",
   title: "Wayback Burgers (West Jordan)",

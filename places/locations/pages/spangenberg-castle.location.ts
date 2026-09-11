@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const spangenbergCastle = {
   id: "019f1aec-0ef3-7ab4-a026-cf4458d9d19b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "spangenberg-castle",
   title: "Spangenberg Castle",

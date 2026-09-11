@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const madridSpainTemple = {
   id: "019f1b49-534d-7648-a278-9ec74eb76261",
-  pageTypeSlug: "location",
   type: "location",
   slug: "madrid-spain-temple",
   title: "Madrid Spain Temple",

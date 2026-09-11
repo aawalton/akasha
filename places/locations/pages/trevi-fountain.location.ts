@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const treviFountain = {
   id: "019f1aec-0db8-7dcb-9721-cbf2421a9baf",
-  pageTypeSlug: "location",
   type: "location",
   slug: "trevi-fountain",
   title: "Trevi Fountain",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const thompsomCenturyFarmFireflies = {
   id: "019f1b49-5180-7e05-ac74-9344d52f71ad",
-  pageTypeSlug: "location",
   type: "location",
   slug: "thompsom-century-farm-fireflies",
   title: "Thompsom Century Farm Fireflies",

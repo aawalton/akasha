@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const gelateriaArtigianaleLaCorona = {
   id: "019f1b49-53c0-7234-9fed-7fad968dbec4",
-  pageTypeSlug: "location",
   type: "location",
   slug: "gelateria-artigianale-la-corona",
   title: 'Gelateria Artigianale "La Corona"',

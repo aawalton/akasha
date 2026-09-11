@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const stPetersBasilica = {
   id: "019f1aec-0db1-7770-9fdd-5f6a10ccd508",
-  pageTypeSlug: "location",
   type: "location",
   slug: "st-peters-basilica",
   title: "St. Peter's Basilica",

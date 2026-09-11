@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const elCamino = {
   id: "019f1aec-0ca5-73b6-a4c8-bbbdc0700e4e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "el-camino",
   title: "El Camino",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const shriKailasaTempleEllora = {
   id: "019f1b49-5198-78bb-a919-73abe6273d48",
-  pageTypeSlug: "location",
   type: "location",
   slug: "shri-kailasa-temple-ellora",
   title: "Shri Kailasa Temple, Ellora",

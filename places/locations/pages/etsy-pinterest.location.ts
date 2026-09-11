@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const etsyPinterest = {
   id: "019f1b49-5669-7930-b581-856b19aa199e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "etsy-pinterest",
   title: "Etsy - Pinterest",

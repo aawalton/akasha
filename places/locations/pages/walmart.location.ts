@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const walmart = {
   id: "019f1b49-52c4-729a-8bab-bec7f46cb7a3",
-  pageTypeSlug: "location",
   type: "location",
   slug: "walmart",
   title: "Walmart",

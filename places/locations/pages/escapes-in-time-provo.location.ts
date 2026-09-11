@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const escapesInTimeProvo = {
   id: "019f322c-9570-7a05-a23b-2000383b57b0",
-  pageTypeSlug: "location",
   type: "location",
   slug: "escapes-in-time-provo",
   title: "Escapes In Time (Provo)",

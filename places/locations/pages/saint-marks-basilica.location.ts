@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const saintMarksBasilica = {
   id: "019f1b49-5516-798f-8064-d77132656bdc",
-  pageTypeSlug: "location",
   type: "location",
   slug: "saint-marks-basilica",
   title: "Saint Mark's Basilica",

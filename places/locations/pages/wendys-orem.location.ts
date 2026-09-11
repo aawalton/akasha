@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const wendysOrem = {
   id: "019f322c-9c77-79f3-9d08-3d3218da4a26",
-  pageTypeSlug: "location",
   type: "location",
   slug: "wendys-orem",
   title: "Wendy's (Orem)",

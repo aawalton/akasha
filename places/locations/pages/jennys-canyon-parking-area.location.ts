@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const jennysCanyonParkingArea = {
   id: "019f1b49-560b-71af-8c37-d136195f65f6",
-  pageTypeSlug: "location",
   type: "location",
   slug: "jennys-canyon-parking-area",
   title: "Jenny's Canyon Parking Area",

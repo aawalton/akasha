@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const wendysUtahCounty = {
   id: "019f322c-9c82-7231-922e-2fbb4e968184",
-  pageTypeSlug: "location",
   type: "location",
   slug: "wendys-utah-county",
   title: "Wendy's (Utah County)",

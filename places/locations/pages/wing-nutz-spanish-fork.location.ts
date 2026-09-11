@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const wingNutzSpanishFork = {
   id: "019f322c-9c88-766b-b6b8-d6304a450087",
-  pageTypeSlug: "location",
   type: "location",
   slug: "wing-nutz-spanish-fork",
   title: "Wing Nutz (Spanish Fork)",

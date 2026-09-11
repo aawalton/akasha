@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const auntieAnnesLehi = {
   id: "019f322c-914a-761a-a75a-0d594b3a19a9",
-  pageTypeSlug: "location",
   type: "location",
   slug: "auntie-annes-lehi",
   title: "Auntie Anne's (Lehi)",

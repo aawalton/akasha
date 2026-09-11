@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const wendysAmericanFork = {
   id: "019f322c-9c6d-7f58-9b19-cea5ab4bb5b7",
-  pageTypeSlug: "location",
   type: "location",
   slug: "wendys-american-fork",
   title: "Wendy's (American Fork)",

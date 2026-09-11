@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const boroughMarket = {
   id: "019f1aec-0e75-7a64-811a-5fe47f56a260",
-  pageTypeSlug: "location",
   type: "location",
   slug: "borough-market",
   title: "Borough Market",

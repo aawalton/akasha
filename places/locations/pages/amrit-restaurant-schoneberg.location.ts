@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const amritRestaurantSchoneberg = {
   id: "019f1aec-0d53-7470-96fb-c4787e59d2b5",
-  pageTypeSlug: "location",
   type: "location",
   slug: "amrit-restaurant-schoneberg",
   title: "AMRIT Restaurant Schoneberg",

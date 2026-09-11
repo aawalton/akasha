@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const voltageEbikeUtahCounty = {
   id: "019f322c-9c5d-730d-abfb-af045c779fcf",
-  pageTypeSlug: "location",
   type: "location",
   slug: "voltage-ebike-utah-county",
   title: "Voltage eBike (Utah County)",

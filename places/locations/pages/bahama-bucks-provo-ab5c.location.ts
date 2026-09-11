@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const bahamaBucksProvoAb5c = {
   id: "019f322c-919d-7ff1-a182-5992a2c2ab5c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "bahama-bucks-provo-ab5c",
   title: "Bahama Buck's (Provo)",

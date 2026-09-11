@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const paneraBread = {
   id: "019f1aec-0f13-7e4a-9358-ad8ea6e7e68f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "panera-bread",
   title: "Panera Bread",

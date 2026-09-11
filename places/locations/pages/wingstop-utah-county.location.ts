@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const wingstopUtahCounty = {
   id: "019f322c-9c8f-76da-8c27-c9edf093562e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "wingstop-utah-county",
   title: "Wingstop (Utah County)",

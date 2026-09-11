@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const hubByPremierInnEdinburghRoyalMile = {
   id: "019f1b49-5620-7e67-b150-659bed21a535",
-  pageTypeSlug: "location",
   type: "location",
   slug: "hub-by-premier-inn-edinburgh-royal-mile",
   title: "hub by Premier Inn Edinburgh Royal Mile",

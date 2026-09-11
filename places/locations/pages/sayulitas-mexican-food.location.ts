@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const sayulitasMexicanFood = {
   id: "019f1b49-5252-7878-a118-2029850d2863",
-  pageTypeSlug: "location",
   type: "location",
   slug: "sayulitas-mexican-food",
   title: "Sayulitas Mexican Food",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const miradouroDeSantaLuzia = {
   id: "019f1aec-0ec0-7b9e-90d6-d5d526b42c37",
-  pageTypeSlug: "location",
   type: "location",
   slug: "miradouro-de-santa-luzia",
   title: "Miradouro de Santa Luzia",

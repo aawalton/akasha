@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const craftSuppliesUsa = {
   id: "019f1aec-0cbe-7874-a9f8-18c0dd42f376",
-  pageTypeSlug: "location",
   type: "location",
   slug: "craft-supplies-usa",
   title: "Craft Supplies USA",

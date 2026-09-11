@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const vikingValley = {
   id: "019f1aec-0ee7-76af-bad9-33fc5899028d",
-  pageTypeSlug: "location",
   type: "location",
   slug: "viking-valley",
   title: "Viking Valley",

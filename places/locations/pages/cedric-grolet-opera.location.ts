@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const cedricGroletOpera = {
   id: "019f1aec-0dc1-7898-b7ee-18941385022d",
-  pageTypeSlug: "location",
   type: "location",
   slug: "cedric-grolet-opera",
   title: "Cédric Grolet Opéra",

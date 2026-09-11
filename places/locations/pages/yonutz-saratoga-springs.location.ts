@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const yonutzSaratogaSprings = {
   id: "019f322c-9c96-78ac-b582-43e88423aec6",
-  pageTypeSlug: "location",
   type: "location",
   slug: "yonutz-saratoga-springs",
   title: "Yonutz (Saratoga Springs)",

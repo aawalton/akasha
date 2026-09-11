@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const fatcatsProvo = {
   id: "019f322c-9598-78c4-865e-0e1a37cbc017",
-  pageTypeSlug: "location",
   type: "location",
   slug: "fatcats-provo",
   title: "FatCats (Provo)",

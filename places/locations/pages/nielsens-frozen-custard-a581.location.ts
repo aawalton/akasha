@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const nielsensFrozenCustardA581 = {
   id: "019f1aec-0f7e-7ac5-aa10-a61b3b82a581",
-  pageTypeSlug: "location",
   type: "location",
   slug: "nielsens-frozen-custard-a581",
   title: "Nielsen's Frozen Custard",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const theTajIndianRestaurant = {
   id: "019f1b49-564c-7803-b44d-8c5fce7d46aa",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-taj-indian-restaurant",
   title: "The TAJ - Indian Restaurant",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const fantoftStaveChurch = {
   id: "019f1b49-572d-7f5a-aaa3-32c691eced8e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "fantoft-stave-church",
   title: "Fantoft Stave Church",

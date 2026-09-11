@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const maisonKuntzVersaillesCarnot = {
   id: "019f1b49-540a-72c6-8489-b7946e465981",
-  pageTypeSlug: "location",
   type: "location",
   slug: "maison-kuntz-versailles-carnot",
   title: "Maison Kuntz Versailles Carnot",

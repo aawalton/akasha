@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const theRuthUtahCounty = {
   id: "019f322c-9bf2-7aad-a3cd-859ed07cc6ea",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-ruth-utah-county",
   title: "The Ruth (Utah County)",

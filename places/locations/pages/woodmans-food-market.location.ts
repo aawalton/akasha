@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const woodmansFoodMarket = {
   id: "019f1aec-0f6c-7ccb-80ee-ea4cf137b801",
-  pageTypeSlug: "location",
   type: "location",
   slug: "woodmans-food-market",
   title: "Woodman's Food Market",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const escapesInTimeUtahCounty = {
   id: "019f322c-9582-75bb-8a29-1e9d1af639be",
-  pageTypeSlug: "location",
   type: "location",
   slug: "escapes-in-time-utah-county",
   title: "Escapes In Time (Utah County)",

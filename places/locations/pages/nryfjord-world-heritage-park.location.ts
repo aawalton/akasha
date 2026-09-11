@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const nryfjordWorldHeritagePark = {
   id: "019f1b49-5731-7188-a9af-ca5a31b02cb2",
-  pageTypeSlug: "location",
   type: "location",
   slug: "nryfjord-world-heritage-park",
   title: "Nærøyfjord World Heritage Park",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const museumOfGlassA1f2 = {
   id: "019f1b49-5511-7bcd-b5f4-1215f8eea1f2",
-  pageTypeSlug: "location",
   type: "location",
   slug: "museum-of-glass-a1f2",
   title: "Museum of Glass",

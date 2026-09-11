@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const rijksmuseum = {
   id: "019f1aec-0e3f-71a4-b8f6-f9feef400c93",
-  pageTypeSlug: "location",
   type: "location",
   slug: "rijksmuseum",
   title: "Rijksmuseum",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const pier49PizzaAmericanFork = {
   id: "019f322c-9b00-73d3-b518-5ae4b7fcd0e0",
-  pageTypeSlug: "location",
   type: "location",
   slug: "pier-49-pizza-american-fork",
   title: "Pier 49 Pizza (American Fork)",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const tommysBurgersUtahCounty = {
   id: "019f322c-9c2f-7f97-98e4-880f4d18b233",
-  pageTypeSlug: "location",
   type: "location",
   slug: "tommys-burgers-utah-county",
   title: "Tommy's Burgers (Utah County)",

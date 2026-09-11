@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const mooyahUtahCounty = {
   id: "019f322c-9ac4-7cf9-87ae-d2099489b154",
-  pageTypeSlug: "location",
   type: "location",
   slug: "mooyah-utah-county",
   title: "Mooyah (Utah County)",

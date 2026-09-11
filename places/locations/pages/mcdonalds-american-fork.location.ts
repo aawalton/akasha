@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const mcdonaldsAmericanFork = {
   id: "019f322c-9a4d-70c6-96bf-1ede9ae225c2",
-  pageTypeSlug: "location",
   type: "location",
   slug: "mcdonalds-american-fork",
   title: "McDonald's (American Fork)",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const foxRentACarDenver = {
   id: "019f1aec-0ffd-77eb-b7e1-92ab55b9c304",
-  pageTypeSlug: "location",
   type: "location",
   slug: "fox-rent-a-car-denver",
   title: "Fox Rent A Car Denver",

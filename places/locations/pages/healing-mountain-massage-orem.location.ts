@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const healingMountainMassageOrem = {
   id: "019f322c-96ce-7892-a8b0-422646e59409",
-  pageTypeSlug: "location",
   type: "location",
   slug: "healing-mountain-massage-orem",
   title: "Healing Mountain Massage (Orem)",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const baskinRobbinsOrem = {
   id: "019f322c-91a7-7d2d-8748-06f960d85411",
-  pageTypeSlug: "location",
   type: "location",
   slug: "baskin-robbins-orem",
   title: "Baskin Robbins (Orem)",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const quintaDaRegaleira = {
   id: "019f1aec-0ecc-7aba-a353-a8cd3c6477a3",
-  pageTypeSlug: "location",
   type: "location",
   slug: "quinta-da-regaleira",
   title: "Quinta da Regaleira",

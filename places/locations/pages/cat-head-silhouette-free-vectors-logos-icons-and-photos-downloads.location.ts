@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const catHeadSilhouetteFreeVectorsLogosIconsAndPhotosDownloads = {
   id: "019f1b49-5668-7105-b472-0ce955db36c1",
-  pageTypeSlug: "location",
   type: "location",
   slug: "cat-head-silhouette-free-vectors-logos-icons-and-photos-downloads",
   title: "Cat head silhouette ⋆ Free Vectors, Logos, Icons and Photos Downloads",

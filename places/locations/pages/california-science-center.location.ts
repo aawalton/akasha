@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const californiaScienceCenter = {
   id: "019f1aec-0f66-74aa-b283-9f0eeadebe46",
-  pageTypeSlug: "location",
   type: "location",
   slug: "california-science-center",
   title: "California Science Center",

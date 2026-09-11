@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const laCasaDelTamal = {
   id: "019f1aec-0d2d-74c3-95b4-064467b050fc",
-  pageTypeSlug: "location",
   type: "location",
   slug: "la-casa-del-tamal",
   title: "La Casa Del Tamal",

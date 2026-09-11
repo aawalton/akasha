@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const roxberryJuiceCoSpanishFork = {
   id: "019f322c-9b69-7509-ad53-b46177747454",
-  pageTypeSlug: "location",
   type: "location",
   slug: "roxberry-juice-co-spanish-fork",
   title: "Roxberry Juice Co. (Spanish Fork)",

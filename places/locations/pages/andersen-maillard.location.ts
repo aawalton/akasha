@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const andersenMaillard = {
   id: "019f1aec-0d7f-7212-b54a-1f05144ba448",
-  pageTypeSlug: "location",
   type: "location",
   slug: "andersen-maillard",
   title: "Andersen & Maillard",

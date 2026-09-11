@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const clasRopesCourseOrem = {
   id: "019f322c-9330-79b1-bbb5-fda0a94815b7",
-  pageTypeSlug: "location",
   type: "location",
   slug: "clas-ropes-course-orem",
   title: "CLAS Ropes Course (Orem)",

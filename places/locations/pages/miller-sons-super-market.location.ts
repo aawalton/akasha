@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const millerSonsSuperMarket = {
   id: "019f1aec-0f6f-76fc-a331-a0e159240a4e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "miller-sons-super-market",
   title: "Miller & Sons Super Market",

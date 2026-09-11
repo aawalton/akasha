@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const tropicalSmoothieCafeUtahCounty = {
   id: "019f322c-9c34-785d-b1fa-54b588773a0c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "tropical-smoothie-cafe-utah-county",
   title: "Tropical Smoothie Café (Utah County)",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const bryantJohnsonStateFarmInsuranceAgent = {
   id: "019f1aec-0fc3-7cc3-8dd8-9e416f0cd59d",
-  pageTypeSlug: "location",
   type: "location",
   slug: "bryant-johnson-state-farm-insurance-agent",
   title: "Bryant Johnson - State Farm Insurance Agent",

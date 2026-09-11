@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const elMexsal = {
   id: "019f1aec-0d18-7625-bc2a-a821cfad3ed2",
-  pageTypeSlug: "location",
   type: "location",
   slug: "el-mexsal",
   title: "El Mexsal",

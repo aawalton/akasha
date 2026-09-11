@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const rumbiIslandGrillUtahCounty = {
   id: "019f322c-9b6f-7b8c-9e9e-3002d7d5883e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "rumbi-island-grill-utah-county",
   title: "Rumbi Island Grill (Utah County)",

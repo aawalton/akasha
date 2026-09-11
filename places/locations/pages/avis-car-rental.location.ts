@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const avisCarRental = {
   id: "019f1aec-0f04-7886-a7fe-bf162b183c13",
-  pageTypeSlug: "location",
   type: "location",
   slug: "avis-car-rental",
   title: "Avis Car Rental",

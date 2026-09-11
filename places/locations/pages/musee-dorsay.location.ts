@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const museeDorsay = {
   id: "019f1aec-0dc5-740b-b348-f5625ef1745e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "musee-dorsay",
   title: "Musée d'Orsay",

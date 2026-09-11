@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const sistineChapel = {
   id: "019f1b49-53e7-7c71-820f-99344c5cfce1",
-  pageTypeSlug: "location",
   type: "location",
   slug: "sistine-chapel",
   title: "Sistine Chapel",

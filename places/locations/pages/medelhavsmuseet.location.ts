@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const medelhavsmuseet = {
   id: "019f1aec-0e0d-7309-bc97-97e57fec1806",
-  pageTypeSlug: "location",
   type: "location",
   slug: "medelhavsmuseet",
   title: "Medelhavsmuseet",

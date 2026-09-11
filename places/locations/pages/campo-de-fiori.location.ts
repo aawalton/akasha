@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const campoDeFiori = {
   id: "019f1aec-0dab-7573-968f-7bfa5c1a5770",
-  pageTypeSlug: "location",
   type: "location",
   slug: "campo-de-fiori",
   title: "Campo de' Fiori",

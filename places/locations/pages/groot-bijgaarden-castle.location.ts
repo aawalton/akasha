@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const grootBijgaardenCastle = {
   id: "019f1b49-56f7-7f3c-a401-6ff9a09dde35",
-  pageTypeSlug: "location",
   type: "location",
   slug: "groot-bijgaarden-castle",
   title: "Groot-Bijgaarden Castle",

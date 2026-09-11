@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const relaisDeLentrecoteSaintGermain = {
   id: "019f1b49-5439-7036-af43-d1b91bf5b081",
-  pageTypeSlug: "location",
   type: "location",
   slug: "relais-de-lentrecote-saint-germain",
   title: "Relais de l'Entrecôte Saint-Germain",

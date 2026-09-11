@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const ombuGrillUtahCounty = {
   id: "019f322c-9ae1-7559-a28d-eeb4c5061ed6",
-  pageTypeSlug: "location",
   type: "location",
   slug: "ombu-grill-utah-county",
   title: "Ombu Grill (Utah County)",

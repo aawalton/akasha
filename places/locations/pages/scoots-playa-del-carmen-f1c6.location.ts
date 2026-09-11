@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const scootsPlayaDelCarmenF1c6 = {
   id: "019f1aec-0f72-7071-9cd3-9e0ba60ef1c6",
-  pageTypeSlug: "location",
   type: "location",
   slug: "scoots-playa-del-carmen-f1c6",
   title: "Scoots Playa Del Carmen",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const puertaDelSol = {
   id: "019f1aec-0d6d-7e43-acdf-1c96291bf0c6",
-  pageTypeSlug: "location",
   type: "location",
   slug: "puerta-del-sol",
   title: "Puerta del Sol",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const elBetoUtahCounty = {
   id: "019f322c-9518-794f-b627-dff961364f95",
-  pageTypeSlug: "location",
   type: "location",
   slug: "el-beto-utah-county",
   title: "El Beto (Utah County)",

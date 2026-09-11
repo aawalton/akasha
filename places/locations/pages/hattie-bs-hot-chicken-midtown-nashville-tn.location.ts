@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const hattieBsHotChickenMidtownNashvilleTn = {
   id: "019f1b49-5467-7b2b-b40f-a8b08583ae82",
-  pageTypeSlug: "location",
   type: "location",
   slug: "hattie-bs-hot-chicken-midtown-nashville-tn",
   title: "Hattie B's Hot Chicken - Midtown Nashville, TN",

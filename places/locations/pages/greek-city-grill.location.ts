@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const greekCityGrill = {
   id: "019f1b49-54e5-7b56-9487-5309b5edf473",
-  pageTypeSlug: "location",
   type: "location",
   slug: "greek-city-grill",
   title: "Greek City Grill",

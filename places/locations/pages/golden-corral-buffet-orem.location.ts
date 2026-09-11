@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const goldenCorralBuffetOrem = {
   id: "019f322c-96a3-70f7-9e67-2803f5be39b9",
-  pageTypeSlug: "location",
   type: "location",
   slug: "golden-corral-buffet-orem",
   title: "Golden Corral Buffet (Orem)",

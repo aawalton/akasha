@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const minhKyRestaurantChinese = {
   id: "019f1aec-0ff1-7f42-bb67-624e9bad4ead",
-  pageTypeSlug: "location",
   type: "location",
   slug: "minh-ky-restaurant-chinese",
   title: "Minh Ky Restaurant | Chinese",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const theTacoStand = {
   id: "019f1aec-0e58-749b-957c-c72e3a555475",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-taco-stand",
   title: "The Taco Stand",

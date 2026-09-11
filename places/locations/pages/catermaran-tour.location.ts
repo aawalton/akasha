@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const catermaranTour = {
   id: "019f1aec-0f37-74e0-84f0-cbcd94781b8f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "catermaran-tour",
   title: "Catermaran tour",

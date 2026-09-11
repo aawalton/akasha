@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const fountainOfJustice = {
   id: "019f1b49-5632-78a8-bc47-68a8b077c986",
-  pageTypeSlug: "location",
   type: "location",
   slug: "fountain-of-justice",
   title: "Fountain of Justice",

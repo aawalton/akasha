@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const hamachiSushiBarLehi = {
   id: "019f1aec-0cde-79c0-b0bd-e73c589d13f9",
-  pageTypeSlug: "location",
   type: "location",
   slug: "hamachi-sushi-bar-lehi",
   title: "Hamachi Sushi Bar Lehi",

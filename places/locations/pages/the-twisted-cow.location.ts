@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const theTwistedCow = {
   id: "019f1aec-0f8f-775d-ade3-127c80ef3d30",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-twisted-cow",
   title: "The Twisted Cow",

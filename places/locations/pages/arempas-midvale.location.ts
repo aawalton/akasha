@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const arempasMidvale = {
   id: "019f1b49-51de-7d3d-a159-07eed0552794",
-  pageTypeSlug: "location",
   type: "location",
   slug: "arempas-midvale",
   title: "Arempas - Midvale",

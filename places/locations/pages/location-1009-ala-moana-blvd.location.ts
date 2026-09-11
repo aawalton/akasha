@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const location1009AlaMoanaBlvd = {
   id: "019f1b49-52b5-7ec4-b9a0-70c757a611ea",
-  pageTypeSlug: "location",
   type: "location",
   slug: "location-1009-ala-moana-blvd",
   title: "1009 Ala Moana Blvd",

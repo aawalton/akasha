@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const bloemenmarkt = {
   id: "019f1aec-0e39-7dd1-9710-8b7a917c0285",
-  pageTypeSlug: "location",
   type: "location",
   slug: "bloemenmarkt",
   title: "Bloemenmarkt",

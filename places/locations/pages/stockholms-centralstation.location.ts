@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const stockholmsCentralstation = {
   id: "019f1aec-0e12-719d-8a4d-9ac5689f8691",
-  pageTypeSlug: "location",
   type: "location",
   slug: "stockholms-centralstation",
   title: "Stockholms Centralstation",

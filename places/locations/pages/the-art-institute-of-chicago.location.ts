@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const theArtInstituteOfChicago = {
   id: "019f1aec-0ea6-7db0-b653-aecd4201278e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-art-institute-of-chicago",
   title: "The Art Institute of Chicago",

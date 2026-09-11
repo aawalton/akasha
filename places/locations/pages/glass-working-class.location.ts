@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const glassWorkingClass = {
   id: "019f1aec-0f34-7b03-82c6-d7cf3eea6dda",
-  pageTypeSlug: "location",
   type: "location",
   slug: "glass-working-class",
   title: "Glass Working Class",

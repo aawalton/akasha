@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const berlinWallMemorial = {
   id: "019f1aec-0d5f-7379-b8c7-eee3e41eff6f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "berlin-wall-memorial",
   title: "Berlin Wall Memorial",

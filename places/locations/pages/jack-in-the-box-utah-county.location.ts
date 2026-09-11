@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const jackInTheBoxUtahCounty = {
   id: "019f322c-9730-77c7-8742-d8ef5d068ab2",
-  pageTypeSlug: "location",
   type: "location",
   slug: "jack-in-the-box-utah-county",
   title: "Jack in the Box (Utah County)",

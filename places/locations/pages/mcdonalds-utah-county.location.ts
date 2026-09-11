@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const mcdonaldsUtahCounty = {
   id: "019f322c-9aab-702a-bf87-0b4d72caa460",
-  pageTypeSlug: "location",
   type: "location",
   slug: "mcdonalds-utah-county",
   title: "McDonald's (Utah County)",

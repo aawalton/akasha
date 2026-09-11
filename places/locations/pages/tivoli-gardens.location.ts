@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const tivoliGardens = {
   id: "019f1aec-0d97-788b-a335-bad500a04fb3",
-  pageTypeSlug: "location",
   type: "location",
   slug: "tivoli-gardens",
   title: "Tivoli Gardens",

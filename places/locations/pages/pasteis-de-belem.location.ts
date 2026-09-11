@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const pasteisDeBelem = {
   id: "019f1aec-0ec4-7b13-bde3-5326d8101821",
-  pageTypeSlug: "location",
   type: "location",
   slug: "pasteis-de-belem",
   title: "Pastéis de Belém",

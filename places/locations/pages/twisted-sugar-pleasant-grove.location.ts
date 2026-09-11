@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const twistedSugarPleasantGrove = {
   id: "019f322c-9c3b-7fb3-ade3-0a060d832d68",
-  pageTypeSlug: "location",
   type: "location",
   slug: "twisted-sugar-pleasant-grove",
   title: "Twisted Sugar (Pleasant Grove)",

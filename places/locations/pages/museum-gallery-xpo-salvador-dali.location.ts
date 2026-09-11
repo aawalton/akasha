@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const museumGalleryXpoSalvadorDali = {
   id: "019f1b49-5705-7886-b5ef-87a563d5348f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "museum-gallery-xpo-salvador-dali",
   title: "Museum - Gallery XPO Salvador Dalí",

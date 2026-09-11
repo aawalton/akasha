@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const improvBroadwayUtahCounty = {
   id: "019f322c-9720-74dd-b05e-fb1c7ec4036d",
-  pageTypeSlug: "location",
   type: "location",
   slug: "improv-broadway-utah-county",
   title: "Improv Broadway (Utah County)",

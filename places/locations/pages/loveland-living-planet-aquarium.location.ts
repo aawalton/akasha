@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const lovelandLivingPlanetAquarium = {
   id: "019f1aec-0fd6-7e6f-ad2e-fec2384109d3",
-  pageTypeSlug: "location",
   type: "location",
   slug: "loveland-living-planet-aquarium",
   title: "Loveland Living Planet Aquarium",

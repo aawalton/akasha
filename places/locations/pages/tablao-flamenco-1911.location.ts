@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const tablaoFlamenco1911 = {
   id: "019f1aec-0d66-7a12-a263-7b0da16d5702",
-  pageTypeSlug: "location",
   type: "location",
   slug: "tablao-flamenco-1911",
   title: "Tablao Flamenco 1911",

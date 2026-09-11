@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const sweetalyGelatoE5fa = {
   id: "019f1aec-0ef2-73c8-8546-13ddc374e5fa",
-  pageTypeSlug: "location",
   type: "location",
   slug: "sweetaly-gelato-e5fa",
   title: "Sweetaly Gelato",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const sonicUtahCounty = {
   id: "019f322c-9b88-7fae-b15e-8b9947745550",
-  pageTypeSlug: "location",
   type: "location",
   slug: "sonic-utah-county",
   title: "Sonic (Utah County)",

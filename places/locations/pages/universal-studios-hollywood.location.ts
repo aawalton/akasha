@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const universalStudiosHollywood = {
   id: "019f1aec-0f63-7b4f-bebd-54ef3e560a7f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "universal-studios-hollywood",
   title: "Universal Studios Hollywood",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const garageGrillSaltFlatsBarHerriman = {
   id: "019f1b49-573e-74b3-9e5b-e444ece83596",
-  pageTypeSlug: "location",
   type: "location",
   slug: "garage-grill-salt-flats-bar-herriman",
   title: "Garage Grill & Salt Flats Bar Herriman",

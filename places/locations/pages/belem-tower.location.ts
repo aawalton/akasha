@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const belemTower = {
   id: "019f1aec-0eca-72cc-a3a7-baea1e649bba",
-  pageTypeSlug: "location",
   type: "location",
   slug: "belem-tower",
   title: "Belém Tower",

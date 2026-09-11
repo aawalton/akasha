@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const muranoGlassNativitySet = {
   id: "019f1b49-5781-76f4-846c-3c627162389a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "murano-glass-nativity-set",
   title:

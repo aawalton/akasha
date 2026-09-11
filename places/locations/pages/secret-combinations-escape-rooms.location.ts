@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const secretCombinationsEscapeRooms = {
   id: "019f1aec-0d28-766d-bca0-d6c6b3c1febf",
-  pageTypeSlug: "location",
   type: "location",
   slug: "secret-combinations-escape-rooms",
   title: "Secret Combinations Escape Rooms",

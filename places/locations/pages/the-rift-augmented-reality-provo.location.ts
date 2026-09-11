@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const theRiftAugmentedRealityProvo = {
   id: "019f322c-9bea-7e5b-a492-995e29254c87",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-rift-augmented-reality-provo",
   title: "The Rift Augmented Reality (Provo)",

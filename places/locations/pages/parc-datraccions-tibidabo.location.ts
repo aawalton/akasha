@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const parcDatraccionsTibidabo = {
   id: "019f1aec-0e70-7a89-b4dc-54c5345279dc",
-  pageTypeSlug: "location",
   type: "location",
   slug: "parc-datraccions-tibidabo",
   title: "Parc d'atraccions Tibidabo",

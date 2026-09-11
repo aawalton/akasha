@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const papaMurphysParkCity = {
   id: "019f322c-9aea-7f79-b594-8287e972e26b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "papa-murphys-park-city",
   title: "Papa Murphy's (Park City)",

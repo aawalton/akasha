@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const kanarraFalls = {
   id: "019f1b49-5660-7609-acdf-8cca94423dc6",
-  pageTypeSlug: "location",
   type: "location",
   slug: "kanarra-falls",
   title: "Kanarra Falls",

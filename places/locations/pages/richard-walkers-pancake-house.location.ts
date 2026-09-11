@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const richardWalkersPancakeHouse = {
   id: "019f1aec-0e59-784e-bb8b-b350464afdb1",
-  pageTypeSlug: "location",
   type: "location",
   slug: "richard-walkers-pancake-house",
   title: "Richard Walker's Pancake House",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const laVerneHeritagePark = {
   id: "019f1aec-0f67-792d-9811-0b3aba0f1b2b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "la-verne-heritage-park",
   title: "La Verne Heritage Park",

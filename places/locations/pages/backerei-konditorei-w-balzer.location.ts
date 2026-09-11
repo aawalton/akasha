@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const backereiKonditoreiWBalzer = {
   id: "019f1b49-52ed-747b-9a98-2ac23eb046d7",
-  pageTypeSlug: "location",
   type: "location",
   slug: "backerei-konditorei-w-balzer",
   title: "Bäckerei & Konditorei W. Balzer",

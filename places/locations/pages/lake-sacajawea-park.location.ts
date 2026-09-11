@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const lakeSacajaweaPark = {
   id: "019f1aec-0c92-79ab-88cc-6299c4272317",
-  pageTypeSlug: "location",
   type: "location",
   slug: "lake-sacajawea-park",
   title: "Lake Sacajawea Park",

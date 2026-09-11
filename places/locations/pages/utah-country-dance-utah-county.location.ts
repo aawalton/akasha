@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const utahCountryDanceUtahCounty = {
   id: "019f322c-9c4b-73ef-95b7-d9504236377b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "utah-country-dance-utah-county",
   title: "Utah Country Dance (Utah County)",

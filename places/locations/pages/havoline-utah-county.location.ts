@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const havolineUtahCounty = {
   id: "019f322c-96cb-7276-b261-accdb65992a8",
-  pageTypeSlug: "location",
   type: "location",
   slug: "havoline-utah-county",
   title: "Havoline (Utah County)",

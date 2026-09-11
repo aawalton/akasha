@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const giovannisAlohaShrimp = {
   id: "019f1b49-52b3-7247-838c-536e97998278",
-  pageTypeSlug: "location",
   type: "location",
   slug: "giovannis-aloha-shrimp",
   title: "Giovanni's Aloha Shrimp",

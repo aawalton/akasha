@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const byuBowlingGamesCenterUtahCounty = {
   id: "019f322c-9200-7bce-8bf9-a5b032097b0e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "byu-bowling-games-center-utah-county",
   title: "BYU Bowling & Games Center (Utah County)",

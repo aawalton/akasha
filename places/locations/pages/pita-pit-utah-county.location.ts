@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const pitaPitUtahCounty = {
   id: "019f322c-9b06-754b-b98d-9d2bc188ad29",
-  pageTypeSlug: "location",
   type: "location",
   slug: "pita-pit-utah-county",
   title: "Pita Pit (Utah County)",

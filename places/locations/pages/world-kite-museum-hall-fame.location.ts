@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const worldKiteMuseumHallFame = {
   id: "019f1b49-50e3-7cfd-bf6a-3fff9c6e8314",
-  pageTypeSlug: "location",
   type: "location",
   slug: "world-kite-museum-hall-fame",
   title: "World Kite Museum & Hall-Fame",

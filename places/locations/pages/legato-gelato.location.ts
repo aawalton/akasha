@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const legatoGelato = {
   id: "019f1aec-0df9-76e2-bf26-b23abea9588b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "legato-gelato",
   title: "Legato Gelato",

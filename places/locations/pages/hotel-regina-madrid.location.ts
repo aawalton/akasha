@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const hotelReginaMadrid = {
   id: "019f1aec-0d67-7de6-bd43-e113c740f65e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "hotel-regina-madrid",
   title: "Hotel Regina Madrid",

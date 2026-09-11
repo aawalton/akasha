@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const elMatadorRestaurant = {
   id: "019f1b49-54dd-71b7-9d9d-59ab834aca3e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "el-matador-restaurant",
   title: "El Matador Restaurant",

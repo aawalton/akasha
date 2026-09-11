@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const bingCrosbyHouse = {
   id: "019f1aec-0c9e-7640-bf85-a6654e8a007c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "bing-crosby-house",
   title: "Bing Crosby House",

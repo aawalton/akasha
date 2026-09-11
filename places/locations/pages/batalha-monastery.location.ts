@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const batalhaMonastery = {
   id: "019f1b49-56b9-7e7a-bae9-f2c8c27202bc",
-  pageTypeSlug: "location",
   type: "location",
   slug: "batalha-monastery",
   title: "Batalha Monastery",

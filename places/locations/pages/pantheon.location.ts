@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const pantheon = {
   id: "019f1aec-0db0-744d-89f1-2b6a9091ab49",
-  pageTypeSlug: "location",
   type: "location",
   slug: "pantheon",
   title: "Pantheon",

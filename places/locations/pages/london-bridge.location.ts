@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const londonBridge = {
   id: "019f1aec-0e7d-7414-aa8e-2175ed12e9d8",
-  pageTypeSlug: "location",
   type: "location",
   slug: "london-bridge",
   title: "London Bridge",

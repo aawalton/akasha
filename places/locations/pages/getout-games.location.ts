@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const getoutGames = {
   id: "019f1aec-1027-7e80-815f-31373c15733a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "getout-games",
   title: "Getout Games",

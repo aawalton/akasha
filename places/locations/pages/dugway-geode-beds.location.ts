@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const dugwayGeodeBeds = {
   id: "019f1aec-0cc9-7c24-b9aa-fe63df3da853",
-  pageTypeSlug: "location",
   type: "location",
   slug: "dugway-geode-beds",
   title: "Dugway Geode Beds",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const willisTower = {
   id: "019f1aec-0ea8-7d32-8cc2-a6f5867ce839",
-  pageTypeSlug: "location",
   type: "location",
   slug: "willis-tower",
   title: "Willis Tower",

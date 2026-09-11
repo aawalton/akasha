@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const fatamorgana = {
   id: "019f1aec-0da8-7dd5-a2fd-973a5ada7513",
-  pageTypeSlug: "location",
   type: "location",
   slug: "fatamorgana",
   title: "Fatamorgana",

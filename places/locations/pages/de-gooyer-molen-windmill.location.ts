@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const deGooyerMolenWindmill = {
   id: "019f1b49-555d-7feb-b9b1-307da99c6ad3",
-  pageTypeSlug: "location",
   type: "location",
   slug: "de-gooyer-molen-windmill",
   title: "De Gooyer Molen (windmill)",

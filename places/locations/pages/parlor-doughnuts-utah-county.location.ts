@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const parlorDoughnutsUtahCounty = {
   id: "019f322c-9af2-71fd-ac09-2baa3f1ec393",
-  pageTypeSlug: "location",
   type: "location",
   slug: "parlor-doughnuts-utah-county",
   title: "Parlor Doughnuts (Utah County)",

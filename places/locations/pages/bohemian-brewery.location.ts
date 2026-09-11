@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const bohemianBrewery = {
   id: "019f1aec-0ccf-7fcd-921f-a789860a8454",
-  pageTypeSlug: "location",
   type: "location",
   slug: "bohemian-brewery",
   title: "Bohemian Brewery",

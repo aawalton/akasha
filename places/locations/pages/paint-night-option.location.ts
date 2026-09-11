@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const paintNightOption = {
   id: "019f1aec-0f45-7fb6-9056-698b70092f39",
-  pageTypeSlug: "location",
   type: "location",
   slug: "paint-night-option",
   title: "Paint Night Option",

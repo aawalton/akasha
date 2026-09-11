@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const discoveryCubeLosAngeles = {
   id: "019f1aec-0f64-7fb2-ba00-23f9271bd847",
-  pageTypeSlug: "location",
   type: "location",
   slug: "discovery-cube-los-angeles",
   title: "Discovery Cube Los Angeles",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const midiciTheNeapolitanPizzaCompanyUtahCounty = {
   id: "019f322c-9ab4-7f03-b05b-3c369de41332",
-  pageTypeSlug: "location",
   type: "location",
   slug: "midici-the-neapolitan-pizza-company-utah-county",
   title: "MidiCi The Neapolitan Pizza Company (Utah County)",

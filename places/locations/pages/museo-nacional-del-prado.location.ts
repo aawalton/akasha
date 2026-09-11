@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const museoNacionalDelPrado = {
   id: "019f1aec-0d72-7fdc-b6d2-a9ee93342a4a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "museo-nacional-del-prado",
   title: "Museo Nacional del Prado",

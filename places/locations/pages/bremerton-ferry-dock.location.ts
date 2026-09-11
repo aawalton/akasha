@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const bremertonFerryDock = {
   id: "019f1b49-5105-7f88-8fba-3c3d8571175f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "bremerton-ferry-dock",
   title: "Bremerton Ferry Dock",

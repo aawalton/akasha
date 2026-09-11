@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const brightPediatricDentistry = {
   id: "019f1aec-0f8c-74ed-903f-5987023e54ad",
-  pageTypeSlug: "location",
   type: "location",
   slug: "bright-pediatric-dentistry",
   title: "Bright Pediatric Dentistry",

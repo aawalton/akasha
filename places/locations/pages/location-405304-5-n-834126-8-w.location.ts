@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const location4053045N8341268W = {
   id: "019f1aec-0f24-7ed1-9f1b-ee1a77d3d218",
-  pageTypeSlug: "location",
   type: "location",
   slug: "location-405304-5-n-834126-8-w",
   title: "40°53'04.5\"N 83°41'26.8\"W",

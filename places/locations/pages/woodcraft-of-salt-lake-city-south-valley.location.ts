@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const woodcraftOfSaltLakeCitySouthValley = {
   id: "019f1b49-512c-74bb-a44c-c7e3142ef5a5",
-  pageTypeSlug: "location",
   type: "location",
   slug: "woodcraft-of-salt-lake-city-south-valley",
   title: "Woodcraft of Salt Lake City/South Valley",

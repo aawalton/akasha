@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const theHolyGrillAndBar = {
   id: "019f1b49-57a4-74b4-8955-af6d6dcc720e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-holy-grill-and-bar",
   title: "The Holy Grill And Bar",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const dominosEagleMountain = {
   id: "019f322c-94af-7adc-983a-2932c2fe1e59",
-  pageTypeSlug: "location",
   type: "location",
   slug: "dominos-eagle-mountain",
   title: "Domino's (Eagle Mountain)",

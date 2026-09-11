@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const laDolceVitaRistoranteItaliano = {
   id: "019f1aec-0fd2-7f65-bd67-b467a305a8ac",
-  pageTypeSlug: "location",
   type: "location",
   slug: "la-dolce-vita-ristorante-italiano",
   title: "La Dolce Vita Ristorante Italiano",

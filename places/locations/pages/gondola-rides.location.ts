@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const gondolaRides = {
   id: "019f1b49-5515-72f4-b143-6b0a3fd746f8",
-  pageTypeSlug: "location",
   type: "location",
   slug: "gondola-rides",
   title: "Gondola Rides",

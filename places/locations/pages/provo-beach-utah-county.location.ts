@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const provoBeachUtahCounty = {
   id: "019f322c-9b24-72e7-b61e-570bfc219355",
-  pageTypeSlug: "location",
   type: "location",
   slug: "provo-beach-utah-county",
   title: "Provo Beach (Utah County)",

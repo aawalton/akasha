@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const magicFountainOfMontjuic = {
   id: "019f1aec-0e6f-7623-a3ee-6dbba7c17074",
-  pageTypeSlug: "location",
   type: "location",
   slug: "magic-fountain-of-montjuic",
   title: "Magic Fountain of Montjuïc",

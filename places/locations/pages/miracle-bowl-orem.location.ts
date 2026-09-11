@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const miracleBowlOrem = {
   id: "019f322c-9abc-70c8-bcec-92a59557de00",
-  pageTypeSlug: "location",
   type: "location",
   slug: "miracle-bowl-orem",
   title: "Miracle Bowl (Orem)",

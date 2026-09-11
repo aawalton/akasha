@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const efteling = {
   id: "019f1aec-0e2f-7151-a46b-c6c543ce0ec3",
-  pageTypeSlug: "location",
   type: "location",
   slug: "efteling",
   title: "Efteling",

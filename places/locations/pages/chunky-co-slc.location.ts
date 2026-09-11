@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const chunkyCoSlc = {
   id: "019f1b49-5191-7ef1-8863-f8d906002438",
-  pageTypeSlug: "location",
   type: "location",
   slug: "chunky-co-slc",
   title: "Chunky & Co SLC",

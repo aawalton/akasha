@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const berthillonGlacier = {
   id: "019f1b49-543a-76d4-99b4-17f11497a182",
-  pageTypeSlug: "location",
   type: "location",
   slug: "berthillon-glacier",
   title: "Berthillon Glacier",

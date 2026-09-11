@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const campidoglio = {
   id: "019f1aec-0db3-7f9f-aa59-165f7ee44a5a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "campidoglio",
   title: "Campidoglio",

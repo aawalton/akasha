@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const woodbineFoodHall = {
   id: "019f1aec-0d02-78b1-8696-ae198325cb94",
-  pageTypeSlug: "location",
   type: "location",
   slug: "woodbine-food-hall",
   title: "Woodbine Food Hall",

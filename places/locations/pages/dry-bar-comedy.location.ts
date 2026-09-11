@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const dryBarComedy = {
   id: "019f1aec-102f-76a8-8e97-a44262b4777a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "dry-bar-comedy",
   title: "Dry Bar Comedy",

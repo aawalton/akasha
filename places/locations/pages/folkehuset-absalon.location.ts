@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const folkehusetAbsalon = {
   id: "019f1aec-0d83-7f18-877d-8d5b35808004",
-  pageTypeSlug: "location",
   type: "location",
   slug: "folkehuset-absalon",
   title: "Folkehuset Absalon",

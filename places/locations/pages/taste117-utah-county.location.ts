@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const taste117UtahCounty = {
   id: "019f322c-9ba9-7d59-8227-bd9605659d4a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "taste117-utah-county",
   title: "Taste117 (Utah County)",

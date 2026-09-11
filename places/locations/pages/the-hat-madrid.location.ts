@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const theHatMadrid = {
   id: "019f1aec-0d70-75dc-b8e3-b7c346442ccd",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-hat-madrid",
   title: "The Hat Madrid",

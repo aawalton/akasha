@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const hotelDaBaixa = {
   id: "019f1aec-0eb6-7c9f-82d2-7e6ee32fa37e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "hotel-da-baixa",
   title: "Hotel da Baixa",

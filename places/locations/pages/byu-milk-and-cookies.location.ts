@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const byuMilkAndCookies = {
   id: "019f1aec-0fc6-7e87-85f0-af7b11c0ec02",
-  pageTypeSlug: "location",
   type: "location",
   slug: "byu-milk-and-cookies",
   title: "BYU Milk and Cookies",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const interlaken = {
   id: "019f1aec-0f08-7680-8770-5a88db5688d3",
-  pageTypeSlug: "location",
   type: "location",
   slug: "interlaken",
   title: "Interlaken",

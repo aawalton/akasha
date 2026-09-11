@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const hamptonInnSuitesDownersGroveChicago = {
   id: "019f1b49-54b1-7524-8f62-851b4050ef7b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "hampton-inn-suites-downers-grove-chicago",
   title: "Hampton Inn & Suites Downers Grove Chicago",

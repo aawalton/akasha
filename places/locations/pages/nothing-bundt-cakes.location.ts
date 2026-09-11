@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const nothingBundtCakes = {
   id: "019f1aec-1033-7f22-9769-7a1b1d3fc823",
-  pageTypeSlug: "location",
   type: "location",
   slug: "nothing-bundt-cakes",
   title: "Nothing Bundt Cakes",

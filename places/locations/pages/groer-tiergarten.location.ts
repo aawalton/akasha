@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const groerTiergarten = {
   id: "019f1aec-0d5b-7395-b4c7-f6287b3cc60b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "groer-tiergarten",
   title: "Großer Tiergarten",

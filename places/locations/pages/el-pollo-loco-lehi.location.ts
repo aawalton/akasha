@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const elPolloLocoLehi = {
   id: "019f322c-9523-7509-904d-b6e13131c92e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "el-pollo-loco-lehi",
   title: "El Pollo Loco (Lehi)",

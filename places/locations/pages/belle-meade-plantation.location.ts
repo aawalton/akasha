@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const belleMeadePlantation = {
   id: "019f1aec-0df4-7791-9426-c8977bb94aa0",
-  pageTypeSlug: "location",
   type: "location",
   slug: "belle-meade-plantation",
   title: "Belle Meade Plantation",

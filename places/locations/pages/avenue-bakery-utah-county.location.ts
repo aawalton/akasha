@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const avenueBakeryUtahCounty = {
   id: "019f322c-914f-7516-9004-ec27d21d16ef",
-  pageTypeSlug: "location",
   type: "location",
   slug: "avenue-bakery-utah-county",
   title: "Avenue Bakery (Utah County)",

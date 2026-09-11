@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const littleManIceCream = {
   id: "019f1aec-0d48-7e7c-b5b1-10e3bdbe425d",
-  pageTypeSlug: "location",
   type: "location",
   slug: "little-man-ice-cream",
   title: "Little Man Ice Cream",

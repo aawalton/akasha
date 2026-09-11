@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const haleiwa = {
   id: "019f1b49-52aa-782c-bba7-ac6b4f94d607",
-  pageTypeSlug: "location",
   type: "location",
   slug: "haleiwa",
   title: "Haleiwa",

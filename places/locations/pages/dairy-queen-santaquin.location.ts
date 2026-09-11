@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const dairyQueenSantaquin = {
   id: "019f322c-9475-7e92-8921-f3093bbc6dca",
-  pageTypeSlug: "location",
   type: "location",
   slug: "dairy-queen-santaquin",
   title: "Dairy Queen (Santaquin)",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const marsWrigleyConfectionery = {
   id: "019f1aec-0e96-745a-b155-58ca73cbff6b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "mars-wrigley-confectionery",
   title: "Mars Wrigley Confectionery",

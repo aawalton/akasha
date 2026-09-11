@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const mcdonaldsOrem = {
   id: "019f322c-9a9b-75a0-99af-86157605cebe",
-  pageTypeSlug: "location",
   type: "location",
   slug: "mcdonalds-orem",
   title: "McDonald's (Orem)",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const centreComercialDiagonalMar = {
   id: "019f1aec-0e69-710e-b326-efcfa8c6b13c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "centre-comercial-diagonal-mar",
   title: "Centre Comercial Diagonal Mar",

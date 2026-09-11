@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const barcelonetaBeach = {
   id: "019f1aec-0e6a-756d-a5ed-dfc90add5dca",
-  pageTypeSlug: "location",
   type: "location",
   slug: "barceloneta-beach",
   title: "Barceloneta Beach",

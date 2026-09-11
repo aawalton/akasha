@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const casaPiriquita = {
   id: "019f1aec-0eb8-7c6a-9bad-5fe330d38d1e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "casa-piriquita",
   title: "Casa Piriquita",

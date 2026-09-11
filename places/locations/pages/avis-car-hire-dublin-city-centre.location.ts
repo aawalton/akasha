@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const avisCarHireDublinCityCentre = {
   id: "019f1b49-531c-77de-a15c-3b32be0d305d",
-  pageTypeSlug: "location",
   type: "location",
   slug: "avis-car-hire-dublin-city-centre",
   title: "Avis Car Hire Dublin City Centre",

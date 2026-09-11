@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const laieHawaiiTemple = {
   id: "019f1b49-52db-74cd-8aa1-5d53e18f0e7a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "laie-hawaii-temple",
   title: "Laie Hawaii Temple",

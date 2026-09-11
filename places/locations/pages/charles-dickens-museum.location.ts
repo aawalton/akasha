@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const charlesDickensMuseum = {
   id: "019f1aec-0e79-7691-a7f3-374d26a3b4a6",
-  pageTypeSlug: "location",
   type: "location",
   slug: "charles-dickens-museum",
   title: "Charles Dickens Museum",

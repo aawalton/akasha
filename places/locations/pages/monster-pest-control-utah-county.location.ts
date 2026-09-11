@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const monsterPestControlUtahCounty = {
   id: "019f322c-9abf-7962-ba2c-ec77ae2973ff",
-  pageTypeSlug: "location",
   type: "location",
   slug: "monster-pest-control-utah-county",
   title: "Monster Pest Control (Utah County)",

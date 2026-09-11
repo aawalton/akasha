@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const mokuleiaBeach = {
   id: "019f1b49-52ad-7779-aa81-67708ad5a21f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "mokuleia-beach",
   title: "Mokulē‘Ia Beach",

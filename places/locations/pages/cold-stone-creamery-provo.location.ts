@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const coldStoneCreameryProvo = {
   id: "019f322c-93a0-7411-85b0-f98651752ca1",
-  pageTypeSlug: "location",
   type: "location",
   slug: "cold-stone-creamery-provo",
   title: "Cold Stone Creamery (Provo)",

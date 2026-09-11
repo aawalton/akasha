@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const littleIndiaFineDining = {
   id: "019f1aec-0e03-71ce-aa85-b76af03c54cb",
-  pageTypeSlug: "location",
   type: "location",
   slug: "little-india-fine-dining",
   title: "Little India Fine Dining",

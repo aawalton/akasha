@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const theSouthernSteakOyster = {
   id: "019f1aec-0de5-7384-86db-bb6bb6bd794a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-southern-steak-oyster",
   title: "The Southern Steak & Oyster",

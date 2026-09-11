@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const jardinsArtigas = {
   id: "019f1aec-0e67-7d3a-8828-70a20dadf17c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "jardins-artigas",
   title: "Jardins Artigas",

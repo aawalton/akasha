@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const berlinTegelAirportTxl = {
   id: "019f1b49-52fa-7b74-8142-230b653f9704",
-  pageTypeSlug: "location",
   type: "location",
   slug: "berlin-tegel-airport-txl",
   title: "Berlin-Tegel Airport (TXL)",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const laCocinaMexicanStreetFood = {
   id: "019f1b49-5603-7567-8c5f-f535cb753003",
-  pageTypeSlug: "location",
   type: "location",
   slug: "la-cocina-mexican-street-food",
   title: "La Cocina Mexican Street Food",

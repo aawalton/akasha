@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const auntysHawaiianKitchenRiverton = {
   id: "019f1b49-5188-742a-a012-c16a80e40a0c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "auntys-hawaiian-kitchen-riverton",
   title: "Aunty's Hawaiian Kitchen - Riverton",

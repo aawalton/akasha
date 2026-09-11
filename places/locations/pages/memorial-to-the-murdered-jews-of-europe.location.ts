@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const memorialToTheMurderedJewsOfEurope = {
   id: "019f1aec-0d5d-79f4-86ea-255990a6a202",
-  pageTypeSlug: "location",
   type: "location",
   slug: "memorial-to-the-murdered-jews-of-europe",
   title: "Memorial to the Murdered Jews of Europe",

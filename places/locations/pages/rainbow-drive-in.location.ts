@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const rainbowDriveIn = {
   id: "019f1b49-52ce-7972-987d-423be6b0737b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "rainbow-drive-in",
   title: "Rainbow Drive-In",

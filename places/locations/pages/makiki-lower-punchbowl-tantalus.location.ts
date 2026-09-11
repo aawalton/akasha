@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const makikiLowerPunchbowlTantalus = {
   id: "019f1b49-52c6-7f4b-8066-732f66e1e540",
-  pageTypeSlug: "location",
   type: "location",
   slug: "makiki-lower-punchbowl-tantalus",
   title: "Makiki - Lower Punchbowl - Tantalus",

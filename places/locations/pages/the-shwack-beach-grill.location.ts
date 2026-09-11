@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const theShwackBeachGrill = {
   id: "019f1b49-557d-7b79-ad47-d8b4d357d91b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-shwack-beach-grill",
   title: "The Shwack Beach Grill",

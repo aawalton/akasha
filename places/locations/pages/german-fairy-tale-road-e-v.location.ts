@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const germanFairyTaleRoadEV = {
   id: "019f1b49-5637-710f-be7e-fde25e038c4e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "german-fairy-tale-road-e-v",
   title: "German Fairy Tale Road e.V.",

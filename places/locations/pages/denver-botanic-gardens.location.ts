@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const denverBotanicGardens = {
   id: "019f1aec-0d46-78db-9dc9-101b9ff90fa9",
-  pageTypeSlug: "location",
   type: "location",
   slug: "denver-botanic-gardens",
   title: "Denver Botanic Gardens",

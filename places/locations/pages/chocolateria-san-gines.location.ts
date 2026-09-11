@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const chocolateriaSanGines = {
   id: "019f1aec-0d71-7c2e-a02c-149ebd724962",
-  pageTypeSlug: "location",
   type: "location",
   slug: "chocolateria-san-gines",
   title: "Chocolatería San Ginés",

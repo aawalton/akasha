@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const rialtoBridge = {
   id: "019f1aec-0e20-705f-88be-ed15c029cb49",
-  pageTypeSlug: "location",
   type: "location",
   slug: "rialto-bridge",
   title: "Rialto Bridge",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const theRoyalPalace = {
   id: "019f1b49-54f9-7089-a03b-5fd472c0a1da",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-royal-palace",
   title: "The Royal Palace",

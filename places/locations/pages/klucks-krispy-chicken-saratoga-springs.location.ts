@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const klucksKrispyChickenSaratogaSprings = {
   id: "019f322c-9969-70cd-af1e-3fbce1fc163b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "klucks-krispy-chicken-saratoga-springs",
   title: "Klucks Krispy Chicken (Saratoga Springs)",

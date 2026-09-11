@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const dollarTree = {
   id: "019f1aec-0c7f-724c-83af-160115dbf39a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "dollar-tree",
   title: "Dollar Tree",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const keplerMuseum = {
   id: "019f1b49-5622-75c6-9e2e-9463cf655df8",
-  pageTypeSlug: "location",
   type: "location",
   slug: "kepler-museum",
   title: "Kepler-Museum",

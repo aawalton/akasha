@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const elev8Fun = {
   id: "019f1aec-0efe-71fc-84c8-f616085bd8ca",
-  pageTypeSlug: "location",
   type: "location",
   slug: "elev8-fun",
   title: "Elev8 Fun",

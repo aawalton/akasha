@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const sagatoBakeryCafe = {
   id: "019f1aec-0d27-736f-a1e6-017584430800",
-  pageTypeSlug: "location",
   type: "location",
   slug: "sagato-bakery-cafe",
   title: "Sagato Bakery & Cafe",

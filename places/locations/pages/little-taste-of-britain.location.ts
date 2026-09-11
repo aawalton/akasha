@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const littleTasteOfBritain = {
   id: "019f1aec-0d34-79aa-8b78-c9916130e15a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "little-taste-of-britain",
   title: "Little Taste of Britain",

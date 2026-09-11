@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const salonDeTheTheSmallestHouseInAmsterdam = {
   id: "019f1b49-5520-741b-baf2-475f9c4f1098",
-  pageTypeSlug: "location",
   type: "location",
   slug: "salon-de-the-the-smallest-house-in-amsterdam",
   title: "Salon de Thé (The Smallest House in Amsterdam)",

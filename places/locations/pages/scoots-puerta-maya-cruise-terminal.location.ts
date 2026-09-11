@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const scootsPuertaMayaCruiseTerminal = {
   id: "019f1aec-0f3b-74aa-803c-c89272e23aaa",
-  pageTypeSlug: "location",
   type: "location",
   slug: "scoots-puerta-maya-cruise-terminal",
   title: "Scoots Puerta Maya Cruise Terminal",

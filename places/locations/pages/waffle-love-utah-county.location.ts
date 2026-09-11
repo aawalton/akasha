@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const waffleLoveUtahCounty = {
   id: "019f322c-9c60-71b3-b488-07ee14aab066",
-  pageTypeSlug: "location",
   type: "location",
   slug: "waffle-love-utah-county",
   title: "Waffle Love (Utah County)",

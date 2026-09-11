@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const laSalsaPermanentlyClosed = {
   id: "019f1aec-0fef-7273-85eb-f57151c57b08",
-  pageTypeSlug: "location",
   type: "location",
   slug: "la-salsa-permanently-closed",
   title: "La Salsa - Permanently Closed",

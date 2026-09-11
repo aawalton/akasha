@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const superChixChickenCustard = {
   id: "019f1aec-0f7d-722c-8cde-b2f40dd47f0a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "super-chix-chicken-custard",
   title: "Super Chix - Chicken & Custard",

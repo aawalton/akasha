@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const honeyBakedHamUtahCounty = {
   id: "019f322c-970f-7ea7-ad7b-5ca0afd1ac0a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "honey-baked-ham-utah-county",
   title: "Honey Baked Ham (Utah County)",

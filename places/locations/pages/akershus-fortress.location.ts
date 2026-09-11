@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const akershusFortress = {
   id: "019f1aec-0ee1-7156-9d6e-ab989c0ce87c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "akershus-fortress",
   title: "Akershus Fortress",

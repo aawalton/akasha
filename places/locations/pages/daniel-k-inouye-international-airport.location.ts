@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const danielKInouyeInternationalAirport = {
   id: "019f1b49-52d5-7b1e-ad96-31b2ec346abd",
-  pageTypeSlug: "location",
   type: "location",
   slug: "daniel-k-inouye-international-airport",
   title: "Daniel K. Inouye International Airport",

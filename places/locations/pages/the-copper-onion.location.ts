@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const theCopperOnion = {
   id: "019f1aec-0cc3-7929-9c28-386533faddbd",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-copper-onion",
   title: "The Copper Onion",

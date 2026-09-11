@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const chickFilA = {
   id: "019f1aec-1004-7065-a43f-beacb6eb0235",
-  pageTypeSlug: "location",
   type: "location",
   slug: "chick-fil-a",
   title: "Chick-fil-A",

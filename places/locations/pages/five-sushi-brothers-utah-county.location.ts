@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const fiveSushiBrothersUtahCounty = {
   id: "019f322c-95e6-7af8-b0c8-2871745af2f0",
-  pageTypeSlug: "location",
   type: "location",
   slug: "five-sushi-brothers-utah-county",
   title: "Five Sushi Brothers (Utah County)",

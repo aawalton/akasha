@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const polynesianCulturalCenter = {
   id: "019f1b49-52dc-7aee-9957-cd197fd5b267",
-  pageTypeSlug: "location",
   type: "location",
   slug: "polynesian-cultural-center",
   title: "Polynesian Cultural Center",

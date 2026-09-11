@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const kinderdijk = {
   id: "019f1aec-0e26-75d2-a823-501fd1fdd5f8",
-  pageTypeSlug: "location",
   type: "location",
   slug: "kinderdijk",
   title: "Kinderdijk",

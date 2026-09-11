@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const jeronimosMonastery = {
   id: "019f1aec-0ec8-7e11-8b4a-a078beedaf49",
-  pageTypeSlug: "location",
   type: "location",
   slug: "jeronimos-monastery",
   title: "Jerónimos Monastery",

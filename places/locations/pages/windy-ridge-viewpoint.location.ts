@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const windyRidgeViewpoint = {
   id: "019f1aec-0c96-78d9-9630-27609073182e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "windy-ridge-viewpoint",
   title: "Windy Ridge Viewpoint",

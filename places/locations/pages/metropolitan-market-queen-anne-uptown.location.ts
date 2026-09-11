@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const metropolitanMarketQueenAnneUptown = {
   id: "019f1aec-0c87-7883-a6ab-93d6f86dec5b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "metropolitan-market-queen-anne-uptown",
   title: "Metropolitan Market Queen Anne (Uptown)",

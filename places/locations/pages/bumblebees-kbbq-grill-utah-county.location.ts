@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const bumblebeesKbbqGrillUtahCounty = {
   id: "019f322c-91c7-77a7-bfb9-6578c462ceb4",
-  pageTypeSlug: "location",
   type: "location",
   slug: "bumblebees-kbbq-grill-utah-county",
   title: "Bumblebees KBBQ & Grill (Utah County)",

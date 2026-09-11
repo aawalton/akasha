@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const lisbonPortugalTemple = {
   id: "019f1aec-0eba-7cde-be4d-8bd1ba52508d",
-  pageTypeSlug: "location",
   type: "location",
   slug: "lisbon-portugal-temple",
   title: "Lisbon Portugal Temple",

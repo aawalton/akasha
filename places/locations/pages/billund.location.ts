@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const billund = {
   id: "019f1aec-0d93-7ebc-8b08-888705f74487",
-  pageTypeSlug: "location",
   type: "location",
   slug: "billund",
   title: "Billund",

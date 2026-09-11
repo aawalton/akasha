@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const burgHayn = {
   id: "019f1b49-562e-7f04-b56d-4d0ca0dbd9b4",
-  pageTypeSlug: "location",
   type: "location",
   slug: "burg-hayn",
   title: "Burg Hayn",

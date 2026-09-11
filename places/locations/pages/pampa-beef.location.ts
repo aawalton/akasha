@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const pampaBeef = {
   id: "019f1aec-0d65-7692-956a-3b9aa77d17ec",
-  pageTypeSlug: "location",
   type: "location",
   slug: "pampa-beef",
   title: "Pampa Beef",

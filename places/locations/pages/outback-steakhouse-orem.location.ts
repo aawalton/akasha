@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const outbackSteakhouseOrem = {
   id: "019f322c-9ae7-7de3-a866-74ec2f11c8c0",
-  pageTypeSlug: "location",
   type: "location",
   slug: "outback-steakhouse-orem",
   title: "Outback Steakhouse (Orem)",

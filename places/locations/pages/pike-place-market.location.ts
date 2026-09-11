@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const pikePlaceMarket = {
   id: "019f1aec-0ca7-7c18-9fc1-ce44849702c2",
-  pageTypeSlug: "location",
   type: "location",
   slug: "pike-place-market",
   title: "Pike Place Market",

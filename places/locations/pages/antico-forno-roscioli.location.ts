@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const anticoFornoRoscioli = {
   id: "019f1aec-0d9b-73eb-90cf-d814b7aebbba",
-  pageTypeSlug: "location",
   type: "location",
   slug: "antico-forno-roscioli",
   title: "Antico Forno Roscioli",

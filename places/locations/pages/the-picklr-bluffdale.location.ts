@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const thePicklrBluffdale = {
   id: "019f322c-9bc4-790a-a94d-db174cdd803f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-picklr-bluffdale",
   title: "The Picklr (Bluffdale)",

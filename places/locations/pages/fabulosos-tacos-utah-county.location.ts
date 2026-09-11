@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const fabulososTacosUtahCounty = {
   id: "019f322c-958c-79d9-a0b5-6cc28374f18c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "fabulosos-tacos-utah-county",
   title: "Fabulosos Tacos (Utah County)",

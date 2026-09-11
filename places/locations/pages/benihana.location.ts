@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const benihana = {
   id: "019f1b49-54d8-7d75-b9d3-9efa23d42bcf",
-  pageTypeSlug: "location",
   type: "location",
   slug: "benihana",
   title: "Benihana",

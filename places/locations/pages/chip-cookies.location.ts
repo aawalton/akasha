@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const chipCookies = {
   id: "019f1aec-0f87-7da6-b3eb-532cdd9d084a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "chip-cookies",
   title: "Chip Cookies",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const shinyShellCarwashUtahCounty = {
   id: "019f322c-9b7e-767e-8860-92fda3a1d0cd",
-  pageTypeSlug: "location",
   type: "location",
   slug: "shiny-shell-carwash-utah-county",
   title: "Shiny Shell Carwash (Utah County)",

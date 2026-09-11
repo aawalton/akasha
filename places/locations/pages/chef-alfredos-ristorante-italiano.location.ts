@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const chefAlfredosRistoranteItaliano = {
   id: "019f1b49-5648-7e06-beb6-bdeb565be35a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "chef-alfredos-ristorante-italiano",
   title: "Chef Alfredo's Ristorante Italiano",

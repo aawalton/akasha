@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const hotelDeLondresEiffel = {
   id: "019f1b49-5447-759e-b235-ffd25bd9d78c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "hotel-de-londres-eiffel",
   title: "Hôtel de Londres Eiffel",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const chicagoIllinoisTemple = {
   id: "019f1b49-56af-7577-a459-8acbb1391704",
-  pageTypeSlug: "location",
   type: "location",
   slug: "chicago-illinois-temple",
   title: "Chicago Illinois Temple",

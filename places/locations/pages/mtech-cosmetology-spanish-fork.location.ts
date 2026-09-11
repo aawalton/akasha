@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const mtechCosmetologySpanishFork = {
   id: "019f322c-9acf-7df6-a4a1-e4713ad0689c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "mtech-cosmetology-spanish-fork",
   title: "MTECH Cosmetology (Spanish Fork)",

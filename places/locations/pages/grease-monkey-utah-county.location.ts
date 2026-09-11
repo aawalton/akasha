@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const greaseMonkeyUtahCounty = {
   id: "019f322c-96ba-70da-8ad2-a9c05fe55b0a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "grease-monkey-utah-county",
   title: "Grease Monkey (Utah County)",

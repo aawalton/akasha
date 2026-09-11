@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const coronadoBeach = {
   id: "019f1aec-0e50-7a1a-b79a-97479143a0de",
-  pageTypeSlug: "location",
   type: "location",
   slug: "coronado-beach",
   title: "Coronado Beach",

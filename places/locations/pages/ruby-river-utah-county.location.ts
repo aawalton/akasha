@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const rubyRiverUtahCounty = {
   id: "019f322c-9b6c-7642-b2a0-2dc78998647c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "ruby-river-utah-county",
   title: "Ruby River (Utah County)",

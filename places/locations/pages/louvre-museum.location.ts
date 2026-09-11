@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const louvreMuseum = {
   id: "019f1aec-0dd6-7729-8a7a-66cc0c105276",
-  pageTypeSlug: "location",
   type: "location",
   slug: "louvre-museum",
   title: "Louvre Museum",

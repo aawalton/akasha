@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const stGeorgeUtahTemple = {
   id: "019f1aec-0e87-7374-9b3b-1a1363885fcf",
-  pageTypeSlug: "location",
   type: "location",
   slug: "st-george-utah-temple",
   title: "St. George Utah Temple",

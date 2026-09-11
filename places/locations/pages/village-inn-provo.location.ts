@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const villageInnProvo = {
   id: "019f322c-9c5a-755d-ac95-e95eef275dbb",
-  pageTypeSlug: "location",
   type: "location",
   slug: "village-inn-provo",
   title: "Village Inn (Provo)",

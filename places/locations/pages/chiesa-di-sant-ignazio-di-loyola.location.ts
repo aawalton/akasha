@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const chiesaDiSantIgnazioDiLoyola = {
   id: "019f1b49-53ba-7a46-9762-7787cc1b1e63",
-  pageTypeSlug: "location",
   type: "location",
   slug: "chiesa-di-sant-ignazio-di-loyola",
   title: "Chiesa di Sant' Ignazio di Loyola",

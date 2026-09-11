@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const uvuScoopsUtahCounty = {
   id: "019f322c-9c54-7658-a4f5-a09b5292dabb",
-  pageTypeSlug: "location",
   type: "location",
   slug: "uvu-scoops-utah-county",
   title: "UVU Scoops (Utah County)",

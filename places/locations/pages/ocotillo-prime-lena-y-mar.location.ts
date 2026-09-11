@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const ocotilloPrimeLenaYMar = {
   id: "019f1b49-513f-75a3-8b97-e96b6410cb23",
-  pageTypeSlug: "location",
   type: "location",
   slug: "ocotillo-prime-lena-y-mar",
   title: "Ocotillo Prime Leña Y Mar",

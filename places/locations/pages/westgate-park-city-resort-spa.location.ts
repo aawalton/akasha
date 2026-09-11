@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const westgateParkCityResortSpa = {
   id: "019f1b49-574c-7b52-9e0b-723742c23fe0",
-  pageTypeSlug: "location",
   type: "location",
   slug: "westgate-park-city-resort-spa",
   title: "Westgate Park City Resort & Spa",

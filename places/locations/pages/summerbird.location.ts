@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const summerbird = {
   id: "019f1aec-0d87-7ac5-93ff-2f854394c45a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "summerbird",
   title: "Summerbird",

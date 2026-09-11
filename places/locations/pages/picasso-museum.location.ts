@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const picassoMuseum = {
   id: "019f1aec-0e6e-7263-a5cf-0a9792781f07",
-  pageTypeSlug: "location",
   type: "location",
   slug: "picasso-museum",
   title: "Picasso Museum",

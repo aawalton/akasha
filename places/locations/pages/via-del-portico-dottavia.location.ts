@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const viaDelPorticoDottavia = {
   id: "019f1aec-0da6-7564-bbdb-b865d9c48444",
-  pageTypeSlug: "location",
   type: "location",
   slug: "via-del-portico-dottavia",
   title: "Via del Portico d'Ottavia",

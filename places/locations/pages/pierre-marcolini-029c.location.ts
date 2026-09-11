@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const pierreMarcolini029c = {
   id: "019f1aec-0ed0-77f4-9e42-1b48c361029c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "pierre-marcolini-029c",
   title: "Pierre Marcolini",

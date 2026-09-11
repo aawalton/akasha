@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const vanWonderenStroopwafels = {
   id: "019f1aec-0e27-7ad2-b0e5-365d50bd3e7f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "van-wonderen-stroopwafels",
   title: "van Wonderen Stroopwafels",

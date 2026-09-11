@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const classicFunCenterOrem = {
   id: "019f322c-937d-70d0-afb7-5674bc078d1c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "classic-fun-center-orem",
   title: "Classic Fun Center (Orem)",

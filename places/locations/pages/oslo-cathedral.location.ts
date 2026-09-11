@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const osloCathedral = {
   id: "019f1aec-0ee2-756f-a35b-32d3a8325889",
-  pageTypeSlug: "location",
   type: "location",
   slug: "oslo-cathedral",
   title: "Oslo Cathedral",

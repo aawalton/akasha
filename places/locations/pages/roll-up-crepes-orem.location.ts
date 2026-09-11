@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const rollUpCrepesOrem = {
   id: "019f322c-9b59-7e9a-a86c-3d6f5f3ca944",
-  pageTypeSlug: "location",
   type: "location",
   slug: "roll-up-crepes-orem",
   title: "Roll Up Crepes (Orem)",

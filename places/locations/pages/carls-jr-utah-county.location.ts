@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const carlsJrUtahCounty = {
   id: "019f322c-926a-7471-af8f-cdbe0c16e6a0",
-  pageTypeSlug: "location",
   type: "location",
   slug: "carls-jr-utah-county",
   title: "Carl's Jr (Utah County)",

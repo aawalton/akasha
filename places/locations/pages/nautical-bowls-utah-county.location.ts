@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const nauticalBowlsUtahCounty = {
   id: "019f322c-9ad3-7510-a6c6-55def99901a4",
-  pageTypeSlug: "location",
   type: "location",
   slug: "nautical-bowls-utah-county",
   title: "Nautical Bowls (Utah County)",

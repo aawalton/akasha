@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const monellsDiningAndCatering = {
   id: "019f1aec-0dee-701c-833e-f212952d68d6",
-  pageTypeSlug: "location",
   type: "location",
   slug: "monells-dining-and-catering",
   title: "Monell's Dining and Catering",

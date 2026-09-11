@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const lakeBled = {
   id: "019f1aec-0f10-708b-a2f5-69b3b4ce0128",
-  pageTypeSlug: "location",
   type: "location",
   slug: "lake-bled",
   title: "Lake Bled",

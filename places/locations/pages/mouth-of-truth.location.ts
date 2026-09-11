@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const mouthOfTruth = {
   id: "019f1aec-0db5-73ab-a889-e7d23c698534",
-  pageTypeSlug: "location",
   type: "location",
   slug: "mouth-of-truth",
   title: "Mouth of Truth",

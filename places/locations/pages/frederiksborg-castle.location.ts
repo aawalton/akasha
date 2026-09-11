@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const frederiksborgCastle = {
   id: "019f1aec-0d96-7546-9995-d83fefdb16b4",
-  pageTypeSlug: "location",
   type: "location",
   slug: "frederiksborg-castle",
   title: "Frederiksborg Castle",

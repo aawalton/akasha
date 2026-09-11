@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const springhillSuitesByMarriottSaltLakeCitySouthJordan = {
   id: "019f1aec-0f91-77f6-bb58-fbcef9193f15",
-  pageTypeSlug: "location",
   type: "location",
   slug: "springhill-suites-by-marriott-salt-lake-city-south-jordan",
   title: "SpringHill Suites by Marriott Salt Lake City-South Jordan",

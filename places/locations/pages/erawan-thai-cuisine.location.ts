@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const erawanThaiCuisine = {
   id: "019f1aec-0e9a-7c51-930d-55435329b187",
-  pageTypeSlug: "location",
   type: "location",
   slug: "erawan-thai-cuisine",
   title: "Erawan | Thai Cuisine",

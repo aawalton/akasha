@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const jambaJuiceUtahCounty = {
   id: "019f322c-982f-7f8b-92e1-30bf7a6a41a3",
-  pageTypeSlug: "location",
   type: "location",
   slug: "jamba-juice-utah-county",
   title: "Jamba Juice (Utah County)",

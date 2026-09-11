@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const mtechCosmetologyLehi = {
   id: "019f322c-9acc-74d8-9df5-d73c4a7ebdc2",
-  pageTypeSlug: "location",
   type: "location",
   slug: "mtech-cosmetology-lehi",
   title: "MTECH Cosmetology (Lehi)",

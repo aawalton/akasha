@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const firebirdPizzaPastaUtahCounty = {
   id: "019f322c-95de-7003-b15e-80ceb5258801",
-  pageTypeSlug: "location",
   type: "location",
   slug: "firebird-pizza-pasta-utah-county",
   title: "Firebird Pizza & Pasta (Utah County)",

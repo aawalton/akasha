@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const theHagueNetherlandsTemple = {
   id: "019f1b49-552d-74ea-a55c-5b9827453f7f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-hague-netherlands-temple",
   title: "The Hague Netherlands Temple",

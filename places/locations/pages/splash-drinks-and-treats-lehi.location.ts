@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const splashDrinksAndTreatsLehi = {
   id: "019f322c-9b8d-74fc-9e92-0ccdeb421b0c",
-  pageTypeSlug: "location",
   type: "location",
   slug: "splash-drinks-and-treats-lehi",
   title: "Splash Drinks and Treats (Lehi)",

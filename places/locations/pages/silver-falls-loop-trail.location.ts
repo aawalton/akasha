@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const silverFallsLoopTrail = {
   id: "019f1aec-0c82-727d-947c-0951e59c9bab",
-  pageTypeSlug: "location",
   type: "location",
   slug: "silver-falls-loop-trail",
   title: "Silver Falls Loop Trail",

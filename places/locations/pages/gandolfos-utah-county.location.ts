@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const gandolfosUtahCounty = {
   id: "019f322c-9643-7b9a-be53-bcdc431e856f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "gandolfos-utah-county",
   title: "Gandolfo's (Utah County)",

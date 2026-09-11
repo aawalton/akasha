@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const hellsBackboneGrillFarm = {
   id: "019f1b49-5274-7cd8-ba6a-7aa7a141f209",
-  pageTypeSlug: "location",
   type: "location",
   slug: "hells-backbone-grill-farm",
   title: "Hell's Backbone Grill & Farm",

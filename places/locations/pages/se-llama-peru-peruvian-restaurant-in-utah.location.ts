@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const seLlamaPeruPeruvianRestaurantInUtah = {
   id: "019f1aec-1009-7b6a-94b9-b7752813aa5b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "se-llama-peru-peruvian-restaurant-in-utah",
   title: "Se Llama Perú: Peruvian Restaurant in Utah",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const costaVidaUtahCounty = {
   id: "019f322c-93ff-7064-b361-39560ddd3dec",
-  pageTypeSlug: "location",
   type: "location",
   slug: "costa-vida-utah-county",
   title: "Costa Vida (Utah County)",

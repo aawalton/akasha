@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const teriGaoAsianCafeUtahCounty = {
   id: "019f322c-9bb6-71f0-8c4e-3293a7fe76e5",
-  pageTypeSlug: "location",
   type: "location",
   slug: "teri-gao-asian-cafe-utah-county",
   title: "Teri Gao Asian Cafe (Utah County)",

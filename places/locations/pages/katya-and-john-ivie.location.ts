@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const katyaAndJohnIvie = {
   id: "019f1aec-0f4b-7587-9f31-77d8b2560e7f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "katya-and-john-ivie",
   title: "Katya and John Ivie",

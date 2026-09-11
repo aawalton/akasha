@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const burgEppstein = {
   id: "019f1b49-5628-74b5-826f-b3a96e17ed5b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "burg-eppstein",
   title: "Burg Eppstein",

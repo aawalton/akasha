@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const spitzLehi = {
   id: "019f1aec-0cee-7541-8e7c-e0c766a0decc",
-  pageTypeSlug: "location",
   type: "location",
   slug: "spitz-lehi",
   title: "Spitz - Lehi",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const jerseyMikesUtahCounty = {
   id: "019f322c-98fc-7af8-9e1a-ed5d7407f6d9",
-  pageTypeSlug: "location",
   type: "location",
   slug: "jersey-mikes-utah-county",
   title: "Jersey Mikes (Utah County)",

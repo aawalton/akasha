@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const brusselsAirportBruEuropeExit = {
   id: "019f37a9-8a8e-7f90-adaa-beec3b3d5ab1",
-  pageTypeSlug: "location",
   type: "location",
   slug: "brussels-airport-bru-europe-exit",
   title: "Brussels Airport (BRU) — Europe exit",

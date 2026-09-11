@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const pizzaPieCafeOrem = {
   id: "019f322c-9b14-735c-a660-409365159d23",
-  pageTypeSlug: "location",
   type: "location",
   slug: "pizza-pie-cafe-orem",
   title: "Pizza Pie Café (Orem)",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const charlesDeGaulleAirport = {
   id: "019f1b49-5435-7a79-9631-e7dbb159fb1a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "charles-de-gaulle-airport",
   title: "Charles de Gaulle Airport",

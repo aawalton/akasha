@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const bruderGrimmHaus = {
   id: "019f1b49-5635-77e2-8371-2f9347f06332",
-  pageTypeSlug: "location",
   type: "location",
   slug: "bruder-grimm-haus",
   title: "Brüder-Grimm-Haus",

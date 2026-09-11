@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const heberHatchetsUtahCounty = {
   id: "019f322c-96d1-7e3e-9433-f501fa53e2f9",
-  pageTypeSlug: "location",
   type: "location",
   slug: "heber-hatchets-utah-county",
   title: "Heber Hatchets (Utah County)",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const bruderGrimmMuseumKassel = {
   id: "019f1b49-5638-7874-a2f3-9f72071c89e1",
-  pageTypeSlug: "location",
   type: "location",
   slug: "bruder-grimm-museum-kassel",
   title: "Brüder Grimm-Museum Kassel",

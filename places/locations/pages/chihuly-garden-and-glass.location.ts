@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const chihulyGardenAndGlass = {
   id: "019f1aec-0caf-755d-8fb5-7c90e4ec55d0",
-  pageTypeSlug: "location",
   type: "location",
   slug: "chihuly-garden-and-glass",
   title: "Chihuly Garden and Glass",

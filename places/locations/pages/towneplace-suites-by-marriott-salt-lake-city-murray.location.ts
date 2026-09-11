@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const towneplaceSuitesByMarriottSaltLakeCityMurray = {
   id: "019f1b49-54c8-7125-9ad7-3a8423021e50",
-  pageTypeSlug: "location",
   type: "location",
   slug: "towneplace-suites-by-marriott-salt-lake-city-murray",
   title: "TownePlace Suites by Marriott Salt Lake City Murray",

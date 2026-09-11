@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const lasRamblas = {
   id: "019f1aec-0e6b-7936-a4c9-0fec0f0150a4",
-  pageTypeSlug: "location",
   type: "location",
   slug: "las-ramblas",
   title: "Las Ramblas",

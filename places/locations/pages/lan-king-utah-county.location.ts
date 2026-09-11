@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const lanKingUtahCounty = {
   id: "019f322c-99d5-7dc3-8911-2d875a28dff7",
-  pageTypeSlug: "location",
   type: "location",
   slug: "lan-king-utah-county",
   title: "LAN King (Utah County)",

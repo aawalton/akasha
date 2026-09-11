@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const redCliffsNationalConservationArea = {
   id: "019f1b49-560c-792f-84e7-f635a639ba40",
-  pageTypeSlug: "location",
   type: "location",
   slug: "red-cliffs-national-conservation-area",
   title: "Red Cliffs National Conservation Area",

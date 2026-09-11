@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const sipNUtahCounty = {
   id: "019f322c-9b81-7a26-9258-87b7f5f60314",
-  pageTypeSlug: "location",
   type: "location",
   slug: "sip-n-utah-county",
   title: "Sip-N (Utah County)",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const eclairFrenchPastry = {
   id: "019f1aec-0d38-74e0-a40b-a1a93144c346",
-  pageTypeSlug: "location",
   type: "location",
   slug: "eclair-french-pastry",
   title: "Eclair French Pastry",

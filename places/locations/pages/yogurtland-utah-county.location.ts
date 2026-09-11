@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const yogurtlandUtahCounty = {
   id: "019f322c-9c92-79d3-82cd-2a0629eeb4fc",
-  pageTypeSlug: "location",
   type: "location",
   slug: "yogurtland-utah-county",
   title: "Yogurtland (Utah County)",

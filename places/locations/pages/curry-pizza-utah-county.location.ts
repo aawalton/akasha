@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const curryPizzaUtahCounty = {
   id: "019f322c-9468-79f8-ad2e-88dd224c8084",
-  pageTypeSlug: "location",
   type: "location",
   slug: "curry-pizza-utah-county",
   title: "Curry Pizza (Utah County)",

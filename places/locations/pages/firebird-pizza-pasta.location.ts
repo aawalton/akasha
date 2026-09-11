@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const firebirdPizzaPasta = {
   id: "019f1aec-0d1f-7b66-9086-6b39428eafab",
-  pageTypeSlug: "location",
   type: "location",
   slug: "firebird-pizza-pasta",
   title: "Firebird Pizza & Pasta",

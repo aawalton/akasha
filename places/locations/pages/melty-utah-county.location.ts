@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const meltyUtahCounty = {
   id: "019f322c-9ab0-7597-82f6-ef2a16a77d57",
-  pageTypeSlug: "location",
   type: "location",
   slug: "melty-utah-county",
   title: "Melty (Utah County)",

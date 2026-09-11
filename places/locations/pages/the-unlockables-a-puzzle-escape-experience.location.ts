@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const theUnlockablesAPuzzleEscapeExperience = {
   id: "019f1b49-558d-75ef-b464-02b625258bf8",
-  pageTypeSlug: "location",
   type: "location",
   slug: "the-unlockables-a-puzzle-escape-experience",
   title: "The Unlockables: A Puzzle Escape Experience",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const matsumotoShaveIce = {
   id: "019f1b49-52cc-795b-a6da-26f3ce1c831a",
-  pageTypeSlug: "location",
   type: "location",
   slug: "matsumoto-shave-ice",
   title: "Matsumoto Shave Ice",

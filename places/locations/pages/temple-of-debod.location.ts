@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const templeOfDebod = {
   id: "019f1aec-0d6a-74c6-955a-c34c3d2b1d79",
-  pageTypeSlug: "location",
   type: "location",
   slug: "temple-of-debod",
   title: "Temple of Debod",

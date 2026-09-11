@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const ristoranteLeManiInPasta = {
   id: "019f1aec-0da1-76bb-916f-e8e6ff17d0b2",
-  pageTypeSlug: "location",
   type: "location",
   slug: "ristorante-le-mani-in-pasta",
   title: "Ristorante le Mani in Pasta",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const romeItalyTemple = {
   id: "019f1aec-0dbf-711b-868d-ca5d21a14f70",
-  pageTypeSlug: "location",
   type: "location",
   slug: "rome-italy-temple",
   title: "Rome Italy Temple",

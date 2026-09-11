@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const museeMarmottanMonet = {
   id: "019f1aec-0dc6-77bf-8162-36016a2c8412",
-  pageTypeSlug: "location",
   type: "location",
   slug: "musee-marmottan-monet",
   title: "Musée Marmottan Monet",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const frankfurtAirportFraEuropeEntry = {
   id: "019f37a9-67d8-7994-8f02-5b305de72fd6",
-  pageTypeSlug: "location",
   type: "location",
   slug: "frankfurt-airport-fra-europe-entry",
   title: "Frankfurt Airport (FRA) — Europe entry",

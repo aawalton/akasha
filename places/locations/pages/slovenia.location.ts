@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const slovenia = {
   id: "019f1aec-0cf7-7dd3-b6b8-c6f8136fe7f1",
-  pageTypeSlug: "location",
   type: "location",
   slug: "slovenia",
   title: "Slovenia",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const dominosSaratogaSprings = {
   id: "019f322c-94bd-720e-b53d-3de16bc6fc54",
-  pageTypeSlug: "location",
   type: "location",
   slug: "dominos-saratoga-springs",
   title: "Domino's (Saratoga Springs)",

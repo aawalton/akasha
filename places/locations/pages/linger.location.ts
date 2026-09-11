@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const linger = {
   id: "019f1aec-0d47-7bc2-bb5a-4ce323e3c4c7",
-  pageTypeSlug: "location",
   type: "location",
   slug: "linger",
   title: "Linger",

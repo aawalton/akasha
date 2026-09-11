@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const chocolateKingdomFactoryAdventureTour = {
   id: "019f1aec-0f02-7015-830b-62a70cc5aac2",
-  pageTypeSlug: "location",
   type: "location",
   slug: "chocolate-kingdom-factory-adventure-tour",
   title: "Chocolate Kingdom - Factory Adventure Tour",

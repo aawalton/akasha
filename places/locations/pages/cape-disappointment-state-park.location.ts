@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const capeDisappointmentStatePark = {
   id: "019f1aec-0c9a-7920-9593-03999779730d",
-  pageTypeSlug: "location",
   type: "location",
   slug: "cape-disappointment-state-park",
   title: "Cape Disappointment State Park",

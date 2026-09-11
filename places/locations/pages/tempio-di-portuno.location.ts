@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const tempioDiPortuno = {
   id: "019f1aec-0da5-713f-9b44-ceecf7f0eaf3",
-  pageTypeSlug: "location",
   type: "location",
   slug: "tempio-di-portuno",
   title: "Tempio di Portuno",

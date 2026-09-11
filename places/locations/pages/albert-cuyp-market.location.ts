@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const albertCuypMarket = {
   id: "019f1aec-0e45-751d-aeaf-721f1db058aa",
-  pageTypeSlug: "location",
   type: "location",
   slug: "albert-cuyp-market",
   title: "Albert Cuyp Market",

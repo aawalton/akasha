@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const rosatisAuthenticChicagoPizzaUtahCounty = {
   id: "019f322c-9b61-7273-a04b-a11bfdde7946",
-  pageTypeSlug: "location",
   type: "location",
   slug: "rosatis-authentic-chicago-pizza-utah-county",
   title: "Rosati's Authentic Chicago Pizza (Utah County)",

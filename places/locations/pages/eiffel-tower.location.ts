@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const eiffelTower = {
   id: "019f197c-4b5c-7c8a-8056-927458dcfb86",
-  pageTypeSlug: "location",
   type: "location",
   slug: "eiffel-tower",
   title: "Eiffel Tower",

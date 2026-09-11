@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const seattleChinatownInternationalDistrict = {
   id: "019f1aec-0c86-7353-b69c-ee13f7bc37b0",
-  pageTypeSlug: "location",
   type: "location",
   slug: "seattle-chinatown-international-district",
   title: "Seattle Chinatown-International District",

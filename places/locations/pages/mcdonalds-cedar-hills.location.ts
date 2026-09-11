@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const mcdonaldsCedarHills = {
   id: "019f322c-9a8f-7b88-8aa3-f40699a4536e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "mcdonalds-cedar-hills",
   title: "McDonald's (Cedar Hills)",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const squattersRoadhouseGrill = {
   id: "019f1b49-5715-78ac-bcb3-c639d7e9280e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "squatters-roadhouse-grill",
   title: "Squatters Roadhouse Grill",

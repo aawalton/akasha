@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const trastevere = {
   id: "019f1aec-0dbc-7818-ba5e-c14cd25d377e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "trastevere",
   title: "Trastevere",

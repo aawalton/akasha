@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const paletasGourmetCreamsicles = {
   id: "019f1aec-0ccc-737c-b26d-eba2b5e282ae",
-  pageTypeSlug: "location",
   type: "location",
   slug: "paletas-gourmet-creamsicles",
   title: "Paletas gourmet creamsicles",

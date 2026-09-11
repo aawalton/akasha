@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const klondikeGoldRushNationalHistoricalPark = {
   id: "019f1aec-0c8a-72f0-b360-74b865b27870",
-  pageTypeSlug: "location",
   type: "location",
   slug: "klondike-gold-rush-national-historical-park",
   title: "Klondike Gold Rush National Historical Park",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const kailuaBeachPark = {
   id: "019f1b49-52b0-7570-9495-9a67412028f8",
-  pageTypeSlug: "location",
   type: "location",
   slug: "kailua-beach-park",
   title: "Kailua Beach Park",

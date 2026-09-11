@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const greatHarvestBreadCoProvo = {
   id: "019f322c-96be-79e6-9df0-1347bf177846",
-  pageTypeSlug: "location",
   type: "location",
   slug: "great-harvest-bread-co-provo",
   title: "Great Harvest Bread Co. (Provo)",

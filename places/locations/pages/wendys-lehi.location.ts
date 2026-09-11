@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const wendysLehi = {
   id: "019f322c-9c74-76f9-a23a-f772afd95efb",
-  pageTypeSlug: "location",
   type: "location",
   slug: "wendys-lehi",
   title: "Wendy's (Lehi)",

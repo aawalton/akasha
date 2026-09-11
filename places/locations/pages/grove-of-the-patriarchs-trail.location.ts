@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const groveOfThePatriarchsTrail = {
   id: "019f1aec-0ca0-7f50-9ba1-8b227654bba4",
-  pageTypeSlug: "location",
   type: "location",
   slug: "grove-of-the-patriarchs-trail",
   title: "Grove of the Patriarchs Trail",

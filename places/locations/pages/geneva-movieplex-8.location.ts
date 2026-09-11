@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const genevaMovieplex8 = {
   id: "019f1aec-1038-709e-a7a4-e7466f58f319",
-  pageTypeSlug: "location",
   type: "location",
   slug: "geneva-movieplex-8",
   title: "Geneva Movieplex 8",

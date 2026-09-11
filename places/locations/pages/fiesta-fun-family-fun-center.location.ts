@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const fiestaFunFamilyFunCenter = {
   id: "019f1b49-5614-7de4-a1a5-10d4c7efe829",
-  pageTypeSlug: "location",
   type: "location",
   slug: "fiesta-fun-family-fun-center",
   title: "Fiesta Fun Family Fun Center",

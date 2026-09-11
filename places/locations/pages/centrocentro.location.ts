@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const centrocentro = {
   id: "019f1aec-0d69-7112-a9c4-b1dd15fe4132",
-  pageTypeSlug: "location",
   type: "location",
   slug: "centrocentro",
   title: "CentroCentro",

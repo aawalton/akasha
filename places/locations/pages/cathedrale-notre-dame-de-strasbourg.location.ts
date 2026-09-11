@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const cathedraleNotreDameDeStrasbourg = {
   id: "019f1b49-5408-79dc-9585-2d09dd4ccc97",
-  pageTypeSlug: "location",
   type: "location",
   slug: "cathedrale-notre-dame-de-strasbourg",
   title: "Cathédrale Notre-Dame-de-Strasbourg",

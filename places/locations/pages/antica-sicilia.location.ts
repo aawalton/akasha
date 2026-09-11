@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const anticaSicilia = {
   id: "019f1aec-0cbb-7f4b-a696-1fc993d68445",
-  pageTypeSlug: "location",
   type: "location",
   slug: "antica-sicilia",
   title: "Antica Sicilia",

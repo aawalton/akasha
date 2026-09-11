@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const dragonsKeepUtahCounty = {
   id: "019f322c-94c6-71b9-940d-5d9cbd75d583",
-  pageTypeSlug: "location",
   type: "location",
   slug: "dragons-keep-utah-county",
   title: "Dragon's Keep (Utah County)",

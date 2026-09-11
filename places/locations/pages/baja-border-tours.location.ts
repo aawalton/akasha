@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const bajaBorderTours = {
   id: "019f1b49-529e-71a4-a621-f530ded773d4",
-  pageTypeSlug: "location",
   type: "location",
   slug: "baja-border-tours",
   title: "Baja Border Tours",

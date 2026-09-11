@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const lanikaiBeach = {
   id: "019f1b49-52ae-7eff-ab87-c8e934e9c317",
-  pageTypeSlug: "location",
   type: "location",
   slug: "lanikai-beach",
   title: "Lanikai Beach",

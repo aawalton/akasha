@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const taqueriaLosChachalacos = {
   id: "019f1aec-0d4a-7197-b607-0ef38a97adea",
-  pageTypeSlug: "location",
   type: "location",
   slug: "taqueria-los-chachalacos",
   title: "Taqueria Los Chachalacos",

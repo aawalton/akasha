@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const berlinSchonefeldAirport = {
   id: "019f1b49-52fc-7329-8a83-604fc779bc49",
-  pageTypeSlug: "location",
   type: "location",
   slug: "berlin-schonefeld-airport",
   title: "Berlin Schönefeld Airport",

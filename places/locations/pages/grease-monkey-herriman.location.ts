@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const greaseMonkeyHerriman = {
   id: "019f322c-96ae-7207-b7bc-643464e5dd34",
-  pageTypeSlug: "location",
   type: "location",
   slug: "grease-monkey-herriman",
   title: "Grease Monkey (Herriman)",

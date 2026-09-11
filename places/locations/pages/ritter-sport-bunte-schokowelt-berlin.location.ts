@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const ritterSportBunteSchokoweltBerlin = {
   id: "019f1aec-0d57-77fd-860b-bc4d69ecfa83",
-  pageTypeSlug: "location",
   type: "location",
   slug: "ritter-sport-bunte-schokowelt-berlin",
   title: "Ritter Sport Bunte Schokowelt Berlin",

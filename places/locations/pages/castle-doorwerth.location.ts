@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const castleDoorwerth = {
   id: "019f1aec-0e2a-7471-a94a-8edee5d19c9d",
-  pageTypeSlug: "location",
   type: "location",
   slug: "castle-doorwerth",
   title: "Castle Doorwerth",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const backereiLadewig = {
   id: "019f1b49-52eb-7e19-a123-e2a3ce5d6348",
-  pageTypeSlug: "location",
   type: "location",
   slug: "backerei-ladewig",
   title: "Bäckerei Ladewig",

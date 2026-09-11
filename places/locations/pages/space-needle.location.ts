@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const spaceNeedle = {
   id: "019f1aec-0ca9-708e-a354-8a0fc9055f1f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "space-needle",
   title: "Space Needle",

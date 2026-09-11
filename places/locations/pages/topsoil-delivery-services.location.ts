@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const topsoilDeliveryServices = {
   id: "019f1b49-5293-7887-977b-0d72b842599e",
-  pageTypeSlug: "location",
   type: "location",
   slug: "topsoil-delivery-services",
   title: "Topsoil Delivery & Services",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const banburyCrossDonuts = {
   id: "019f1aec-0d30-7fc9-93ef-6a24ce5524cc",
-  pageTypeSlug: "location",
   type: "location",
   slug: "banbury-cross-donuts",
   title: "Banbury Cross Donuts",

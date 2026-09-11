@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const ghirardelliSodaFountainChocolateShopDisneyland = {
   id: "019f1aec-0f5e-781f-8a90-a26a39fcc6a9",
-  pageTypeSlug: "location",
   type: "location",
   slug: "ghirardelli-soda-fountain-chocolate-shop-disneyland",
   title: "Ghirardelli Soda Fountain & Chocolate Shop (Disneyland)",

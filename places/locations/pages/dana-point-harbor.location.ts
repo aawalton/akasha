@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const danaPointHarbor = {
   id: "019f1b49-558b-7ed8-8756-a0d234496a79",
-  pageTypeSlug: "location",
   type: "location",
   slug: "dana-point-harbor",
   title: "Dana Point Harbor",

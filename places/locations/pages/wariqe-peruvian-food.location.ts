@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const wariqePeruvianFood = {
   id: "019f1aec-0fd0-70bc-9f03-7be25cfe67d7",
-  pageTypeSlug: "location",
   type: "location",
   slug: "wariqe-peruvian-food",
   title: "Wariqe Peruvian Food",

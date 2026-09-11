@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const reedsDairy = {
   id: "019f1aec-0f19-742b-958e-bffb00f72871",
-  pageTypeSlug: "location",
   type: "location",
   slug: "reeds-dairy",
   title: "Reed's Dairy",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const siragusasTasteOfItaly = {
   id: "019f1b49-54e2-7754-92b3-ce043e8f7411",
-  pageTypeSlug: "location",
   type: "location",
   slug: "siragusas-taste-of-italy",
   title: "Siragusa's Taste of Italy",

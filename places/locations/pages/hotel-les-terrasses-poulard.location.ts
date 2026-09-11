@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const hotelLesTerrassesPoulard = {
   id: "019f1aec-0f1d-72c3-a2a8-df7566ad7a31",
-  pageTypeSlug: "location",
   type: "location",
   slug: "hotel-les-terrasses-poulard",
   title: "Hôtel Les Terrasses Poulard",

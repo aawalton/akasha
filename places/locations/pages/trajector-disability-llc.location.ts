@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const trajectorDisabilityLlc = {
   id: "019f1aec-0f81-7e16-b981-ceed786cc5cf",
-  pageTypeSlug: "location",
   type: "location",
   slug: "trajector-disability-llc",
   title: "Trajector Disability LLC",

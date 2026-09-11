@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const atlasVerifyPinAlpha = {
   id: "019f18e8-c8e9-773a-8f6c-a6dd28e9d7c9",
-  pageTypeSlug: "location",
   type: "location",
   slug: "atlas-verify-pin-alpha",
   title: "Atlas Verify Pin Alpha",

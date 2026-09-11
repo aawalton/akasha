@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const dangerousPretzel = {
   id: "019f1aec-0cf3-70a9-9f4b-dd7aa649d6fb",
-  pageTypeSlug: "location",
   type: "location",
   slug: "dangerous-pretzel",
   title: "Dangerous Pretzel",

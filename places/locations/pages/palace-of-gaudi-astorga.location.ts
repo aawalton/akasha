@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const palaceOfGaudiAstorga = {
   id: "019f1b49-55b7-7489-ab3c-d53ef5d30081",
-  pageTypeSlug: "location",
   type: "location",
   slug: "palace-of-gaudi-astorga",
   title: "Palace of Gaudì Astorga",

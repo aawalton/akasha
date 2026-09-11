@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const sanDiegoCaliforniaTemple = {
   id: "019f1aec-0e55-7c80-b816-a7c400cfe036",
-  pageTypeSlug: "location",
   type: "location",
   slug: "san-diego-california-temple",
   title: "San Diego California Temple",

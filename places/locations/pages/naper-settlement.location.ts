@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const naperSettlement = {
   id: "019f1b49-566c-7fb0-b11a-de8e14931dba",
-  pageTypeSlug: "location",
   type: "location",
   slug: "naper-settlement",
   title: "Naper Settlement",

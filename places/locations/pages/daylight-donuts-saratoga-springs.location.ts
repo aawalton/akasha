@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const daylightDonutsSaratogaSprings = {
   id: "019f322c-947d-7521-a71d-b91d4717517b",
-  pageTypeSlug: "location",
   type: "location",
   slug: "daylight-donuts-saratoga-springs",
   title: "Daylight Donuts (Saratoga Springs)",

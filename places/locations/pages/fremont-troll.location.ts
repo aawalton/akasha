@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const fremontTroll = {
   id: "019f1aec-0c8b-7db6-9ebf-edd10d092055",
-  pageTypeSlug: "location",
   type: "location",
   slug: "fremont-troll",
   title: "Fremont Troll",

@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const fossilLakeSafari = {
   id: "019f1b49-5166-772f-81e6-c2f50fa482c6",
-  pageTypeSlug: "location",
   type: "location",
   slug: "fossil-lake-safari",
   title: "Fossil Lake Safari",

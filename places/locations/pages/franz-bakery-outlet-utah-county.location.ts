@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const franzBakeryOutletUtahCounty = {
   id: "019f322c-95f4-77e8-95c3-7f9bb8d10384",
-  pageTypeSlug: "location",
   type: "location",
   slug: "franz-bakery-outlet-utah-county",
   title: "Franz Bakery Outlet (Utah County)",

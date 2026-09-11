@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const escherInHetPaleis = {
   id: "019f1aec-0e47-7e81-8746-10862314086f",
-  pageTypeSlug: "location",
   type: "location",
   slug: "escher-in-het-paleis",
   title: "Escher in Het Paleis",

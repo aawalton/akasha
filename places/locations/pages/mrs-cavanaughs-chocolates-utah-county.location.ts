@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const mrsCavanaughsChocolatesUtahCounty = {
   id: "019f322c-9ac8-7d12-8666-650554c6d3ac",
-  pageTypeSlug: "location",
   type: "location",
   slug: "mrs-cavanaughs-chocolates-utah-county",
   title: "Mrs. Cavanaugh's Chocolates (Utah County)",

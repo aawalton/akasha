@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const hiddenhuntsComUtahCounty = {
   id: "019f322c-96d5-7473-8004-dc721b741932",
-  pageTypeSlug: "location",
   type: "location",
   slug: "hiddenhunts-com-utah-county",
   title: "HiddenHunts.com (Utah County)",

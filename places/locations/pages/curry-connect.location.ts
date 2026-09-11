@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const curryConnect = {
   id: "019f1aec-0ce9-795e-9711-0bc5ebcbc041",
-  pageTypeSlug: "location",
   type: "location",
   slug: "curry-connect",
   title: "Curry Connect",

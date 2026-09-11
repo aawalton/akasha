@@ -2,7 +2,6 @@ import type { Location } from "akasha/places/locations/location.page-type.types.
 
 export const bartolosParkCity = {
   id: "019f1aec-0cf9-70eb-a5cb-665e55cd43bb",
-  pageTypeSlug: "location",
   type: "location",
   slug: "bartolos-park-city",
   title: "Bartolo's Park City",
