@@ -9,7 +9,7 @@ import {
   valuesByPath,
   valuesOfType,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Filing, Reading, Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Filing, Reading, Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {
   identityOf,
   propertiesIfNamed,
@@ -143,8 +143,8 @@ export function typesDeclaring(
 }
 
 export function relationsTurned(
-  was: ReadonlyMap<string, Schema>,
-  now: ReadonlyMap<string, Schema>
+  was: ReadonlyMap<string, Shape>,
+  now: ReadonlyMap<string, Shape>
 ): ReadonlySet<string> {
   const found = new Set<string>()
   for (const named of new Set([...was.keys(), ...now.keys()])) {

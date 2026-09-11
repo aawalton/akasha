@@ -1,7 +1,7 @@
 import { join } from "node:path"
 import { indexDeclaring } from "akasha/pages/indexes/declaring/index-declaring.index.ts"
 import type { Entry } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
-import type { Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {
   slugAt,
   textAt,
@@ -23,7 +23,7 @@ export function declaredIn(value: Value): readonly Entry[] {
   if (slug === null) return []
   const propertySlug = textAt(value, "propertySlug")
   if (propertySlug === null) return []
-  const held: Schema = {
+  const held: Shape = {
     pageTypeSlug,
     targetPageTypeSlug: slugAt(value, TARGET_PAGE_TYPE),
     unique: slugAt(value, "unique"),

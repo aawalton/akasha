@@ -3,7 +3,7 @@ import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import type { Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { keysFor, resolvingIn } from "akasha/pages/types/page-type.page-type.type-generator.ts"
 import { turnedBy } from "akasha/pages/types/type-turning/type-turning.module.code.ts"
@@ -155,7 +155,7 @@ export type Asked = {
   readonly at: string
   readonly kind: string
   readonly path: string
-  readonly resolving: (named: string) => Schema | null
+  readonly resolving: (named: string) => Shape | null
   readonly slug: string
   readonly value: Record<string, unknown>
 }

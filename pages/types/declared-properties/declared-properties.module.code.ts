@@ -6,7 +6,7 @@ import type {
 } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import { shapeOf } from "akasha/pages/indexes/property-shaping/property-shaping.module.code.ts"
 import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Reading, Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Reading, Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
 import {
   numberAt,
@@ -51,7 +51,7 @@ export type Carried = {
 
 export type Source = {
   readonly pageTypeAt: (slug: string) => Value | null
-  readonly schemaFor: (said: string) => Schema | null
+  readonly schemaFor: (said: string) => Shape | null
 }
 
 export type Identifying = (pageTypeSlug: string) => ReadonlyMap<string, Identifier>
@@ -329,13 +329,13 @@ export function membersIfNamedOf(
   return membersIfNamed(pageTypeSlug, sourceIn(given, pageOf))
 }
 
-function schemaAmong(schemas: ReadonlyMap<string, Schema>, said: string): Schema | null {
+function schemaAmong(schemas: ReadonlyMap<string, Shape>, said: string): Shape | null {
   const address = addressIn(said)
   if (address.kind === "qualified") {
     return schemas.get(`${address.pageTypeSlug}/${address.slug}`) ?? null
   }
   const slug = address.kind === "id" ? address.id : address.slug
-  const found: Schema[] = []
+  const found: Shape[] = []
   for (const one of schemas.values()) {
     if (one.slug === slug) found.push(one)
   }
@@ -358,7 +358,7 @@ export function sourceAmong(values: readonly Value[], source: Source): Source {
 
 export function sourceOver(values: readonly Value[]): Source {
   const types = new Map<string, Value>()
-  const schemas = new Map<string, Schema>()
+  const schemas = new Map<string, Shape>()
   for (const value of values) {
     const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
     const slug = textAt(value, "slug")

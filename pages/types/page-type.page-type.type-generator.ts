@@ -3,7 +3,7 @@ import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import type { Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Shape } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { turnedBy } from "akasha/pages/types/type-turning/type-turning.module.code.ts"
 import { slugsIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
@@ -60,23 +60,23 @@ export type Key = Taken & {
 }
 
 type Known = {
-  readonly shaped: ReadonlyMap<string, Schema>
-  readonly bare: ReadonlyMap<string, Schema | null>
+  readonly shaped: ReadonlyMap<string, Shape>
+  readonly bare: ReadonlyMap<string, Shape | null>
 }
 
 export function typesAtOf(pageTypePath: string): string | null {
   return besideAt(pageTypePath, SECTION, HOLDS)
 }
 
-function narrowedIn(shaped: ReadonlyMap<string, Schema>): ReadonlyMap<string, Schema | null> {
-  const found = new Map<string, Schema | null>()
+function narrowedIn(shaped: ReadonlyMap<string, Shape>): ReadonlyMap<string, Shape | null> {
+  const found = new Map<string, Shape | null>()
   for (const filed of shaped.values()) {
     found.set(filed.slug, found.has(filed.slug) ? null : filed)
   }
   return found
 }
 
-export function resolvingIn(shadow: Shadow): (named: string) => Schema | null {
+export function resolvingIn(shadow: Shadow): (named: string) => Shape | null {
   let held: Known | null = null
   const known = (): Known => {
     if (held === null) {
@@ -106,7 +106,7 @@ export function parentsFor(shadow: Shadow, value: Record<string, unknown>): read
 export function keysFor(
   shadow: Shadow,
   value: Record<string, unknown>,
-  resolving: (named: string) => Schema | null
+  resolving: (named: string) => Shape | null
 ): readonly Key[] {
   const declared = value[PROPERTIES]
   if (!Array.isArray(declared)) return []

@@ -15,7 +15,7 @@ export type Filing = {
   readonly went: readonly string[]
 }
 
-export type Schema = {
+export type Shape = {
   readonly pageTypeSlug: string
   readonly targetPageTypeSlug: string | null
   readonly unique: string | null

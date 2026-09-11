@@ -43,10 +43,7 @@ import {
   valuesByPath,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { ruleWhole, type Said, saidOf } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
-import type {
-  Schema as Filed,
-  Reading,
-} from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import type { Shape as Filed, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {
   type Carried,
   carriedIn,
