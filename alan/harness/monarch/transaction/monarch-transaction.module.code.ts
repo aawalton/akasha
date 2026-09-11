@@ -63,3 +63,7 @@ export function unattendedFrom(now: Date = new Date()): string {
   at.setUTCDate(at.getUTCDate() - UNATTENDED_DAYS)
   return at.toISOString().slice(0, 10)
 }
+
+export function money(amount: number): string {
+  return amount < 0 ? `-$${Math.abs(amount).toFixed(2)}` : `+$${amount.toFixed(2)}`
+}

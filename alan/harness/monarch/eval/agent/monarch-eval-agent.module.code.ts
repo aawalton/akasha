@@ -1,4 +1,5 @@
 import { array, num, object, str } from "../../shape/monarch-shape.module.code.ts"
+import { money } from "../../transaction/monarch-transaction.module.code.ts"
 import type { Candidate } from "../population/monarch-eval-population.module.code.ts"
 
 export const MODEL = "sonnet"
@@ -21,10 +22,6 @@ export interface BatchResult {
   readonly proposals: readonly Proposal[]
   readonly costUsd: number
   readonly ids: readonly string[]
-}
-
-function money(amount: number): string {
-  return amount < 0 ? `-$${Math.abs(amount).toFixed(2)}` : `+$${amount.toFixed(2)}`
 }
 
 function line(candidate: Candidate, index: number): string {

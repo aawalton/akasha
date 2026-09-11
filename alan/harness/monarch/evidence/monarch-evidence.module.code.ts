@@ -5,6 +5,7 @@ import { readAllTransactions } from "../files/monarch-files.module.code.ts"
 import { categoryTitles } from "../rule-pages/monarch-rule-pages.module.code.ts"
 import {
   dayGap,
+  money,
   TRUSTED_MONTHS,
   trustedFrom,
   UNCATEGORIZED,
@@ -103,10 +104,6 @@ export async function rowsMatching(
 
 export async function countMatching(filter: Filter): Promise<number> {
   return (await allRows()).filter((row) => matches(row, filter)).length
-}
-
-function money(amount: number): string {
-  return amount < 0 ? `-$${Math.abs(amount).toFixed(2)}` : `+$${amount.toFixed(2)}`
 }
 
 function categoryOf(row: Row): string {

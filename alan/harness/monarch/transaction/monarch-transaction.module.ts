@@ -29,6 +29,10 @@ export const monarchTransaction = {
     },
     {
       invariantKind: "departure",
+      statement: "An amount written out carries its sign and two places after the point.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A day gap is whole days from midnight UTC rather than elapsed time.",
     },
     {
