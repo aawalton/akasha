@@ -33,7 +33,7 @@ export function commandFor(event: string): string {
   return `${BUN} ${linkFor(event)}`
 }
 
-function runnableIn(root: string, listed: readonly Valued[]): undefined {
+export function runnableIn(root: string, listed: readonly Valued[]): undefined {
   for (const one of listed) {
     const slug = String(one.value["slug"])
     const runsAt = one.value["runsAt"]

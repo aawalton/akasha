@@ -7,6 +7,7 @@ export const agentHookRegistration = {
   slug: "agent-hook-registration",
   definition: "what the agent hook pages register with a client at spawn",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
