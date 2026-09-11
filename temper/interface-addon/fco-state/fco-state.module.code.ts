@@ -12,15 +12,15 @@ import {
   SAVED_VARIABLES_NAME,
   SAVED_VARS_VERSION,
   SPIN_FRAGMENTS,
-} from "../fco-constants/fco-constants.module.code.ts"
-import { buildEmptySettings } from "../fco-settings-empty/fco-settings-empty.module.code.ts"
+} from "akasha/temper/interface-addon/fco-constants/fco-constants.module.code.ts"
+import { buildEmptySettings } from "akasha/temper/interface-addon/fco-settings-empty/fco-settings-empty.module.code.ts"
 import type {
   AddonVars,
   CtrlVars,
   OtherAddonsState,
   PreventerVars,
   SettingsVars,
-} from "../fco-types/fco-types.module.code.ts"
+} from "akasha/temper/interface-addon/fco-types/fco-types.module.code.ts"
 
 export interface FcocsState {
   addonVars: AddonVars

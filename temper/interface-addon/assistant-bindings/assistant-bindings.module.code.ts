@@ -1,4 +1,4 @@
-import { ASSISTANT_COLLECTIBLES } from "../assistant-collectibles/assistant-collectibles.module.code.ts"
+import { ASSISTANT_COLLECTIBLES } from "akasha/temper/interface-addon/assistant-collectibles/assistant-collectibles.module.code.ts"
 
 declare const _G: Record<string, number | undefined>
 

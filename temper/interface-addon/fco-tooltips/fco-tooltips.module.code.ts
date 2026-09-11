@@ -1,4 +1,4 @@
-import { STATE } from "../fco-state/fco-state.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 
 export function tooltipBorderSizeHack(this: void): undefined {
   const settings = STATE.settingsVars.settings

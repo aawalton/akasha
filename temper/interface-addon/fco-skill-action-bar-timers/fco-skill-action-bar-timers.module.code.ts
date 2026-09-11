@@ -1,4 +1,4 @@
-import { STATE } from "../fco-state/fco-state.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 
 const EM = EVENT_MANAGER
 const WM = WINDOW_MANAGER

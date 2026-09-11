@@ -1,10 +1,10 @@
+import { DEFAULTS } from "akasha/temper/interface-addon/quiet-defaults/quiet-defaults.module.code.ts"
+import { handleLuaErrorEvent } from "akasha/temper/interface-addon/quiet-lua-errors/quiet-lua-errors.module.code.ts"
+import { getSavedVariables } from "akasha/temper/interface-addon/quiet-saved-variables/quiet-saved-variables.module.code.ts"
+import { header } from "akasha/temper/interface-addon/quiet-settings-header/quiet-settings-header.module.code.ts"
+import { STRINGS } from "akasha/temper/interface-addon/quiet-strings/quiet-strings.module.code.ts"
+import { noGuildLeave } from "akasha/temper/interface-addon/quiet-world/quiet-world.module.code.ts"
 import { dropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
-import { DEFAULTS } from "../quiet-defaults/quiet-defaults.module.code.ts"
-import { handleLuaErrorEvent } from "../quiet-lua-errors/quiet-lua-errors.module.code.ts"
-import { getSavedVariables } from "../quiet-saved-variables/quiet-saved-variables.module.code.ts"
-import { header } from "../quiet-settings-header/quiet-settings-header.module.code.ts"
-import { STRINGS } from "../quiet-strings/quiet-strings.module.code.ts"
-import { noGuildLeave } from "../quiet-world/quiet-world.module.code.ts"
 
 function questDivider(this: void): LamTextureData {
   return {

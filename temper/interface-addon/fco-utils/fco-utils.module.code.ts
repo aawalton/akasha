@@ -1,4 +1,4 @@
-import { ADDON_NAME } from "../fco-constants/fco-constants.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/interface-addon/fco-constants/fco-constants.module.code.ts"
 
 export interface AddButtonData {
   parentControl: Control

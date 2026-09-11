@@ -1,6 +1,6 @@
-import { smithingImproveBlockImprovement } from "../fco-crafting-smithing-improve/fco-crafting-smithing-improve.module.code.ts"
-import { STATE } from "../fco-state/fco-state.module.code.ts"
-import { createOrGet } from "../fco-utils/fco-utils.module.code.ts"
+import { smithingImproveBlockImprovement } from "akasha/temper/interface-addon/fco-crafting-smithing-improve/fco-crafting-smithing-improve.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
+import { createOrGet } from "akasha/temper/interface-addon/fco-utils/fco-utils.module.code.ts"
 
 interface HorizontalScrollListControl extends Control {
   GetSelectedIndex: (this: HorizontalScrollListControl) => number | undefined

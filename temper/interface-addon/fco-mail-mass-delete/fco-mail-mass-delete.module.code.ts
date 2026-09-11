@@ -2,7 +2,7 @@ import {
   getMailSettings,
   LSM_CONTEXT_MENU_SETTINGS_DEFAULT_OPTIONS,
   MAIL_CONTEXT_MENU_BUTTONS,
-} from "../fco-mail-data/fco-mail-data.module.code.ts"
+} from "akasha/temper/interface-addon/fco-mail-data/fco-mail-data.module.code.ts"
 
 interface MailInboxEntry {
   mailId?: Id64

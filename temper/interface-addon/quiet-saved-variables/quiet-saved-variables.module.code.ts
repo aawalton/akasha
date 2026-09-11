@@ -2,8 +2,8 @@ import {
   DEFAULTS,
   fillGuildDefaults,
   type NoThankYouSettings,
-} from "../quiet-defaults/quiet-defaults.module.code.ts"
-import { SAVED_VARIABLES_NAME } from "../quiet-identity/quiet-identity.module.code.ts"
+} from "akasha/temper/interface-addon/quiet-defaults/quiet-defaults.module.code.ts"
+import { SAVED_VARIABLES_NAME } from "akasha/temper/interface-addon/quiet-identity/quiet-identity.module.code.ts"
 
 let savedVarsInstance: NoThankYouSettings | undefined
 

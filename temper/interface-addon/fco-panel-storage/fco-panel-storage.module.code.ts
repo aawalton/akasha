@@ -1,11 +1,14 @@
-import { enableCharacterFragment } from "../fco-bank/fco-bank.module.code.ts"
-import { guildHistoryNavigationHelper } from "../fco-guild-history/fco-guild-history.module.code.ts"
+import { enableCharacterFragment } from "akasha/temper/interface-addon/fco-bank/fco-bank.module.code.ts"
+import { guildHistoryNavigationHelper } from "akasha/temper/interface-addon/fco-guild-history/fco-guild-history.module.code.ts"
 import {
   easyDestroy,
   noNewMenuCategoryFlashAnimation,
-} from "../fco-inventory/fco-inventory.module.code.ts"
-import { verticalScrollbarHacks } from "../fco-inventory-scrollbar/fco-inventory-scrollbar.module.code.ts"
-import type { AddonSettings, IconPosBox } from "../fco-types/fco-types.module.code.ts"
+} from "akasha/temper/interface-addon/fco-inventory/fco-inventory.module.code.ts"
+import { verticalScrollbarHacks } from "akasha/temper/interface-addon/fco-inventory-scrollbar/fco-inventory-scrollbar.module.code.ts"
+import type {
+  AddonSettings,
+  IconPosBox,
+} from "akasha/temper/interface-addon/fco-types/fco-types.module.code.ts"
 
 export function buildInventoryControls(
   this: void,

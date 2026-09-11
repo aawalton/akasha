@@ -1,4 +1,4 @@
-import { STATE } from "../fco-state/fco-state.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 
 const LOCKED_MOUNT_NAME_COLOR_PREFIX = "|cFF0000"
 const LOCKED_MOUNT_NAME_COLOR_SUFFIX = "|r"

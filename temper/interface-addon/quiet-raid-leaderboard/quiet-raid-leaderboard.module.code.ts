@@ -1,6 +1,9 @@
-import { safePrint } from "../quiet-print/quiet-print.module.code.ts"
-import { getSavedVariables } from "../quiet-saved-variables/quiet-saved-variables.module.code.ts"
-import { RAID_COMPLETE, RAID_OTHERS } from "../quiet-strings/quiet-strings.module.code.ts"
+import { safePrint } from "akasha/temper/interface-addon/quiet-print/quiet-print.module.code.ts"
+import { getSavedVariables } from "akasha/temper/interface-addon/quiet-saved-variables/quiet-saved-variables.module.code.ts"
+import {
+  RAID_COMPLETE,
+  RAID_OTHERS,
+} from "akasha/temper/interface-addon/quiet-strings/quiet-strings.module.code.ts"
 
 interface LeaderboardProviderSelf {
   list: Record<number, unknown>

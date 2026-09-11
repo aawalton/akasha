@@ -1,4 +1,4 @@
-import { mailContextMenuSetup } from "../fco-mail-buttons/fco-mail-buttons.module.code.ts"
+import { mailContextMenuSetup } from "akasha/temper/interface-addon/fco-mail-buttons/fco-mail-buttons.module.code.ts"
 
 export function mailStuff(this: void, whatType?: string): undefined {
   const typesToPrepare: Record<string, boolean> = {

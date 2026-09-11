@@ -1,4 +1,4 @@
-import { STATE } from "../fco-state/fco-state.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 
 let questTrackerHeader1: QuestTrackerHeaderControl | undefined
 let QUEST_TRACKER_ON_MOVE_HOOKED = false

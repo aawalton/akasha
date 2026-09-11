@@ -1,11 +1,11 @@
 import {
   addMassHandlingNotificationsButton,
   cameraSpinChanges,
-} from "../fco-mainmenu/fco-mainmenu.module.code.ts"
-import { mapStuff } from "../fco-map/fco-map.module.code.ts"
-import { overallSetDoNotInterruptInWorldOnMenuOpen } from "../fco-overall/fco-overall.module.code.ts"
-import { STATE } from "../fco-state/fco-state.module.code.ts"
-import type { AddonSettings } from "../fco-types/fco-types.module.code.ts"
+} from "akasha/temper/interface-addon/fco-mainmenu/fco-mainmenu.module.code.ts"
+import { mapStuff } from "akasha/temper/interface-addon/fco-map/fco-map.module.code.ts"
+import { overallSetDoNotInterruptInWorldOnMenuOpen } from "akasha/temper/interface-addon/fco-overall/fco-overall.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
+import type { AddonSettings } from "akasha/temper/interface-addon/fco-types/fco-types.module.code.ts"
 
 export function buildKeybindControls(
   this: void,

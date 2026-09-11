@@ -3,23 +3,23 @@ import {
   updateExcludedMountIdsLibShifterBox,
   updateExcludedMountIdsLibShifterBoxEntries,
   updateExcludedMountIdsLibShifterBoxState,
-} from "../fco-collectibles/fco-collectibles.module.code.ts"
-import { buildFavoriteMountsContextMenu } from "../fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"
-import { collectibleChanges } from "../fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"
-import { mailStuff } from "../fco-mail/fco-mail.module.code.ts"
-import { questTrackerMovable } from "../fco-quest/fco-quest.module.code.ts"
+} from "akasha/temper/interface-addon/fco-collectibles/fco-collectibles.module.code.ts"
+import { buildFavoriteMountsContextMenu } from "akasha/temper/interface-addon/fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"
+import { collectibleChanges } from "akasha/temper/interface-addon/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"
+import { mailStuff } from "akasha/temper/interface-addon/fco-mail/fco-mail.module.code.ts"
+import { questTrackerMovable } from "akasha/temper/interface-addon/fco-quest/fco-quest.module.code.ts"
 import {
   DISABLE_SOUNDS_SHIFTER_BOX_CONTROL,
   muteMountSound,
   updateDisabledSoundsLibShifterBoxState,
   updateDisableSoundsLibShifterBoxEntries,
   updateSoundsLibShifterBox,
-} from "../fco-sounds/fco-sounds.module.code.ts"
-import type { AddonSettings } from "../fco-types/fco-types.module.code.ts"
+} from "akasha/temper/interface-addon/fco-sounds/fco-sounds.module.code.ts"
+import type { AddonSettings } from "akasha/temper/interface-addon/fco-types/fco-types.module.code.ts"
 import {
   promotionalEventTrackerUiChanges,
   statsPanelUiChanges,
-} from "../fco-ui/fco-ui.module.code.ts"
+} from "akasha/temper/interface-addon/fco-ui/fco-ui.module.code.ts"
 
 export function buildCollectiblesControls(
   this: void,

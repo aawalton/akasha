@@ -9,7 +9,7 @@ import {
   MAIL_TEXTS_SAVED_LOWER,
   type MailFieldType,
   type MailProfileData,
-} from "../fco-mail-data/fco-mail-data.module.code.ts"
+} from "akasha/temper/interface-addon/fco-mail-data/fco-mail-data.module.code.ts"
 
 export interface NotAlreadyInResult {
   isNotIn: boolean

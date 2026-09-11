@@ -1,5 +1,8 @@
-import { isNumber, isStringOrNumber } from "../quiet-narrow/quiet-narrow.module.code.ts"
-import { getSavedVariables } from "../quiet-saved-variables/quiet-saved-variables.module.code.ts"
+import {
+  isNumber,
+  isStringOrNumber,
+} from "akasha/temper/interface-addon/quiet-narrow/quiet-narrow.module.code.ts"
+import { getSavedVariables } from "akasha/temper/interface-addon/quiet-saved-variables/quiet-saved-variables.module.code.ts"
 
 let recentMessages: ZO_RecentMessagesInstance | undefined
 

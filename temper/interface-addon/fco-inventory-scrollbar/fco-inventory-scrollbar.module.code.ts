@@ -1,4 +1,4 @@
-import { STATE } from "../fco-state/fco-state.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 
 export const VERTICAL_SCROLLBAR_PARENT_CONTROLS: ScrollbarParentControl[] = [
   ZO_PlayerInventoryList,

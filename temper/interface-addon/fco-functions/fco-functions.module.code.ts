@@ -1,5 +1,5 @@
-import { STATE } from "../fco-state/fco-state.module.code.ts"
-import { createOrGet } from "../fco-utils/fco-utils.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
+import { createOrGet } from "akasha/temper/interface-addon/fco-utils/fco-utils.module.code.ts"
 
 const WM = WINDOW_MANAGER
 

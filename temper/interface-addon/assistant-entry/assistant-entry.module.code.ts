@@ -1,5 +1,5 @@
-import { createBindings } from "../assistant-bindings/assistant-bindings.module.code.ts"
-import { ASSISTANT_COLLECTIBLES } from "../assistant-collectibles/assistant-collectibles.module.code.ts"
+import { createBindings } from "akasha/temper/interface-addon/assistant-bindings/assistant-bindings.module.code.ts"
+import { ASSISTANT_COLLECTIBLES } from "akasha/temper/interface-addon/assistant-collectibles/assistant-collectibles.module.code.ts"
 
 const ADDON_NAME = "TemperPersonalAssistant"
 

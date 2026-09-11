@@ -1,11 +1,14 @@
-import { soundLowerAtCraftingCheck } from "../fco-crafting/fco-crafting.module.code.ts"
-import { smithingCreateAddArmorTypeSwitchButton } from "../fco-crafting-smithing/fco-crafting-smithing.module.code.ts"
-import { cPStuff, groupElectionStuff } from "../fco-group/fco-group.module.code.ts"
+import { soundLowerAtCraftingCheck } from "akasha/temper/interface-addon/fco-crafting/fco-crafting.module.code.ts"
+import { smithingCreateAddArmorTypeSwitchButton } from "akasha/temper/interface-addon/fco-crafting-smithing/fco-crafting-smithing.module.code.ts"
+import {
+  cPStuff,
+  groupElectionStuff,
+} from "akasha/temper/interface-addon/fco-group/fco-group.module.code.ts"
 import {
   checkIfOtherStableButtonsAreMaxedOut,
   STABLE_SKILLS,
-} from "../fco-stable/fco-stable.module.code.ts"
-import type { AddonSettings } from "../fco-types/fco-types.module.code.ts"
+} from "akasha/temper/interface-addon/fco-stable/fco-stable.module.code.ts"
+import type { AddonSettings } from "akasha/temper/interface-addon/fco-types/fco-types.module.code.ts"
 
 export function buildGroupControls(
   this: void,

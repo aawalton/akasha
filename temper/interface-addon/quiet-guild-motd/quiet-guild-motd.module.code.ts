@@ -1,5 +1,5 @@
-import { safePrint } from "../quiet-print/quiet-print.module.code.ts"
-import { getSavedVariables } from "../quiet-saved-variables/quiet-saved-variables.module.code.ts"
+import { safePrint } from "akasha/temper/interface-addon/quiet-print/quiet-print.module.code.ts"
+import { getSavedVariables } from "akasha/temper/interface-addon/quiet-saved-variables/quiet-saved-variables.module.code.ts"
 
 interface MotDProviderSelf {
   sv?: Record<string, string | undefined>

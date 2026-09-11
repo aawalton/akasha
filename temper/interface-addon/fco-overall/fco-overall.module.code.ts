@@ -1,5 +1,5 @@
-import { asSceneFragment } from "../fco-casts/fco-casts.module.code.ts"
-import { STATE } from "../fco-state/fco-state.module.code.ts"
+import { asSceneFragment } from "akasha/temper/interface-addon/fco-casts/fco-casts.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 
 declare const _G: Record<string, unknown>
 

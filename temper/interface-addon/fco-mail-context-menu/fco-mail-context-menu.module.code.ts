@@ -1,7 +1,7 @@
 import {
   checkMaxFavoritesAndCreateSubMenus,
   checkMaxProfilesAndCreateSubMenus,
-} from "../fco-mail-context-submenus/fco-mail-context-submenus.module.code.ts"
+} from "akasha/temper/interface-addon/fco-mail-context-submenus/fco-mail-context-submenus.module.code.ts"
 import {
   addAsFavoriteString,
   addAsProfileString,
@@ -21,7 +21,7 @@ import {
   mailTextShortener,
   profilesText,
   validateTextField,
-} from "../fco-mail-data/fco-mail-data.module.code.ts"
+} from "akasha/temper/interface-addon/fco-mail-data/fco-mail-data.module.code.ts"
 import {
   addToFavorites,
   addToProfile,
@@ -29,7 +29,7 @@ import {
   getCurrentText,
   removeSavedValue,
   setMailValue,
-} from "../fco-mail-store/fco-mail-store.module.code.ts"
+} from "akasha/temper/interface-addon/fco-mail-store/fco-mail-store.module.code.ts"
 
 let MAIL_CONTEXT_MENUS_AT_EDIT_FIELDS_HOOKED = false
 

@@ -1,4 +1,4 @@
-import { getSavedVariables } from "../quiet-saved-variables/quiet-saved-variables.module.code.ts"
+import { getSavedVariables } from "akasha/temper/interface-addon/quiet-saved-variables/quiet-saved-variables.module.code.ts"
 
 const UNOWNED_HOUSE_ICON = "/esoui/art/icons/poi/poi_group_house_unowned.dds"
 const OWNED_HOUSE_ICON = "/esoui/art/icons/poi/poi_group_house_owned.dds"

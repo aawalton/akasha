@@ -1,5 +1,8 @@
-import { bGHUDMoveable, bGHUDReset } from "../fco-battleground/fco-battleground.module.code.ts"
-import type { AddonSettings } from "../fco-types/fco-types.module.code.ts"
+import {
+  bGHUDMoveable,
+  bGHUDReset,
+} from "akasha/temper/interface-addon/fco-battleground/fco-battleground.module.code.ts"
+import type { AddonSettings } from "akasha/temper/interface-addon/fco-types/fco-types.module.code.ts"
 
 export function buildBattlegroundControls(
   this: void,

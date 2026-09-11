@@ -1,57 +1,63 @@
-import "../fco-global/fco-global.module.code.ts"
+import "akasha/temper/interface-addon/fco-global/fco-global.module.code.ts"
 
 import {
   afterLoginOrReloaduiFunctions,
   noEnlightenedSound,
-} from "../fco-after-login/fco-after-login.module.code.ts"
-import { bankChanges } from "../fco-bank/fco-bank.module.code.ts"
+} from "akasha/temper/interface-addon/fco-after-login/fco-after-login.module.code.ts"
+import { bankChanges } from "akasha/temper/interface-addon/fco-bank/fco-bank.module.code.ts"
 import {
   bGHUDStandardSave,
   bgModifications,
-} from "../fco-battleground/fco-battleground.module.code.ts"
-import { asString } from "../fco-casts/fco-casts.module.code.ts"
+} from "akasha/temper/interface-addon/fco-battleground/fco-battleground.module.code.ts"
+import { asString } from "akasha/temper/interface-addon/fco-casts/fco-casts.module.code.ts"
 import {
   chatBlacklist,
   chatDisableNotificationStuff,
   chatWhisperAndFlaggedAsOffline,
-} from "../fco-chat/fco-chat.module.code.ts"
-import { favoriteMountChanges } from "../fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"
-import { collectibleChanges } from "../fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"
+} from "akasha/temper/interface-addon/fco-chat/fco-chat.module.code.ts"
+import { favoriteMountChanges } from "akasha/temper/interface-addon/fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"
+import { collectibleChanges } from "akasha/temper/interface-addon/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"
 import {
   ADDON_NAME,
   BINDING_NAME_STRINGS,
   SCENE_DELAYS,
   SCENES_BLACKLISTED,
-} from "../fco-constants/fco-constants.module.code.ts"
+} from "akasha/temper/interface-addon/fco-constants/fco-constants.module.code.ts"
 import {
   craftingModifications,
   onEventCraftingStationOpened,
   saveVolumeLevels,
-} from "../fco-crafting/fco-crafting.module.code.ts"
-import { dialogsChanges } from "../fco-dialogs/fco-dialogs.module.code.ts"
-import { snapCursor } from "../fco-functions/fco-functions.module.code.ts"
-import { cPStuff, groupElectionStuff } from "../fco-group/fco-group.module.code.ts"
-import { guildHistoryChanges } from "../fco-guild-history/fco-guild-history.module.code.ts"
-import { inventoryChanges } from "../fco-inventory/fco-inventory.module.code.ts"
-import { mailStuff } from "../fco-mail/fco-mail.module.code.ts"
+} from "akasha/temper/interface-addon/fco-crafting/fco-crafting.module.code.ts"
+import { dialogsChanges } from "akasha/temper/interface-addon/fco-dialogs/fco-dialogs.module.code.ts"
+import { snapCursor } from "akasha/temper/interface-addon/fco-functions/fco-functions.module.code.ts"
+import {
+  cPStuff,
+  groupElectionStuff,
+} from "akasha/temper/interface-addon/fco-group/fco-group.module.code.ts"
+import { guildHistoryChanges } from "akasha/temper/interface-addon/fco-guild-history/fco-guild-history.module.code.ts"
+import { inventoryChanges } from "akasha/temper/interface-addon/fco-inventory/fco-inventory.module.code.ts"
+import { mailStuff } from "akasha/temper/interface-addon/fco-mail/fco-mail.module.code.ts"
 import {
   addMainMenuButtons,
   addNotificationsButtons,
   fixPlayerSpinFragments,
   hideStuff,
-} from "../fco-mainmenu/fco-mainmenu.module.code.ts"
-import { mapStuff } from "../fco-map/fco-map.module.code.ts"
-import { overallFunctions } from "../fco-overall/fco-overall.module.code.ts"
-import { questChanges } from "../fco-quest/fco-quest.module.code.ts"
-import { getSettings } from "../fco-settings/fco-settings.module.code.ts"
-import { buildAddonMenu } from "../fco-settings-menu/fco-settings-menu.module.code.ts"
-import { skillChanges } from "../fco-skills/fco-skills.module.code.ts"
-import { slashCommands } from "../fco-slash-commands/fco-slash-commands.module.code.ts"
-import { soundChanges } from "../fco-sounds/fco-sounds.module.code.ts"
-import { hookStableScene, mountChanges } from "../fco-stable/fco-stable.module.code.ts"
-import { STATE } from "../fco-state/fco-state.module.code.ts"
-import { tooltipChanges } from "../fco-tooltips/fco-tooltips.module.code.ts"
-import { uiChanges } from "../fco-ui/fco-ui.module.code.ts"
+} from "akasha/temper/interface-addon/fco-mainmenu/fco-mainmenu.module.code.ts"
+import { mapStuff } from "akasha/temper/interface-addon/fco-map/fco-map.module.code.ts"
+import { overallFunctions } from "akasha/temper/interface-addon/fco-overall/fco-overall.module.code.ts"
+import { questChanges } from "akasha/temper/interface-addon/fco-quest/fco-quest.module.code.ts"
+import { getSettings } from "akasha/temper/interface-addon/fco-settings/fco-settings.module.code.ts"
+import { buildAddonMenu } from "akasha/temper/interface-addon/fco-settings-menu/fco-settings-menu.module.code.ts"
+import { skillChanges } from "akasha/temper/interface-addon/fco-skills/fco-skills.module.code.ts"
+import { slashCommands } from "akasha/temper/interface-addon/fco-slash-commands/fco-slash-commands.module.code.ts"
+import { soundChanges } from "akasha/temper/interface-addon/fco-sounds/fco-sounds.module.code.ts"
+import {
+  hookStableScene,
+  mountChanges,
+} from "akasha/temper/interface-addon/fco-stable/fco-stable.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
+import { tooltipChanges } from "akasha/temper/interface-addon/fco-tooltips/fco-tooltips.module.code.ts"
+import { uiChanges } from "akasha/temper/interface-addon/fco-ui/fco-ui.module.code.ts"
 
 const EM = EVENT_MANAGER
 

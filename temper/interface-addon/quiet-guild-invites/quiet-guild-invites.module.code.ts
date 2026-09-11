@@ -1,4 +1,4 @@
-import { getSavedVariables } from "../quiet-saved-variables/quiet-saved-variables.module.code.ts"
+import { getSavedVariables } from "akasha/temper/interface-addon/quiet-saved-variables/quiet-saved-variables.module.code.ts"
 
 interface GuildInviteProviderSelf {
   list: Record<number, unknown>

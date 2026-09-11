@@ -1,4 +1,4 @@
-import { STATE } from "../fco-state/fco-state.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 
 function isSmithingPanel(this: void, value: unknown): value is SmithingPanelWithImprovement {
   return typeof value === "object" && value !== undefined

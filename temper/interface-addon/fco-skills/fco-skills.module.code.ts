@@ -1,5 +1,5 @@
-import { installActionBarTimerHooks } from "../fco-skill-action-bar-timers/fco-skill-action-bar-timers.module.code.ts"
-import { STATE } from "../fco-state/fco-state.module.code.ts"
+import { installActionBarTimerHooks } from "akasha/temper/interface-addon/fco-skill-action-bar-timers/fco-skill-action-bar-timers.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 
 const skillsWindow = SKILLS_WINDOW
 

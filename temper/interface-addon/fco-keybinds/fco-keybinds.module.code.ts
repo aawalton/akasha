@@ -1,8 +1,8 @@
 import {
   KEYBIND_TOGGLE_SETTINGS_COMPASS_QUEST_GIVERS,
   KEYBIND_TOGGLE_SETTINGS_INNOCENT_ATTACK,
-} from "../fco-constants/fco-constants.module.code.ts"
-import { STATE } from "../fco-state/fco-state.module.code.ts"
+} from "akasha/temper/interface-addon/fco-constants/fco-constants.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 
 function toggledZeroOne(this: void, settingType: number, settingId: number): string | undefined {
   const current = tonumber(GetSetting(settingType, settingId))

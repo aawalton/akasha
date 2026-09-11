@@ -1,4 +1,4 @@
-import { STATE } from "../fco-state/fco-state.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 
 const CURRENTLY_OWNED_TEXTURE = "/esoui/art/buttons/accept_up.dds"
 const CURRENTLY_NOT_OWNED_TEXTURE = "/esoui/art/buttons/cancel_up.dds"

@@ -1,4 +1,4 @@
-import { STATE } from "../fco-state/fco-state.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 
 const PROMO_TRACKER_COMPONENT_ID = "promotional-event-tracker-fragment"
 const PROMO_TRACKER_HIDE_REASON = "NoTrackedPromotionalEvent"

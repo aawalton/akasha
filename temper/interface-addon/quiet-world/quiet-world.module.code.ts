@@ -1,6 +1,9 @@
-import { ADDON_NAME } from "../quiet-identity/quiet-identity.module.code.ts"
-import { getSavedVariables } from "../quiet-saved-variables/quiet-saved-variables.module.code.ts"
-import { INSECT_NAMES, INTERACTION_TAKE } from "../quiet-strings/quiet-strings.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/interface-addon/quiet-identity/quiet-identity.module.code.ts"
+import { getSavedVariables } from "akasha/temper/interface-addon/quiet-saved-variables/quiet-saved-variables.module.code.ts"
+import {
+  INSECT_NAMES,
+  INTERACTION_TAKE,
+} from "akasha/temper/interface-addon/quiet-strings/quiet-strings.module.code.ts"
 
 export function hookFriendsMessages(this: void): undefined {
   const savedVars = getSavedVariables()

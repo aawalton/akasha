@@ -1,24 +1,24 @@
 import {
   checkIfEditBoxContextMenusNeedAnUpdate,
   updateMailContextMenuButtonContextMenus,
-} from "../fco-mail-context-menu/fco-mail-context-menu.module.code.ts"
+} from "akasha/temper/interface-addon/fco-mail-context-menu/fco-mail-context-menu.module.code.ts"
 import {
   allowedMailContextMenuOwners,
   getMailSettings,
   LSM_CONTEXT_MENU_SETTINGS_DEFAULT_OPTIONS,
   MAIL_CONTEXT_MENU_BUTTONS,
   type MailFieldType,
-} from "../fco-mail-data/fco-mail-data.module.code.ts"
+} from "akasha/temper/interface-addon/fco-mail-data/fco-mail-data.module.code.ts"
 import {
   afterMailWasSend,
   checkAndEnabledEventHandlersIfNeeded,
   checkAndSaveMailValuesOfEnabledFields,
   loadMailBuddyData,
-} from "../fco-mail-events/fco-mail-events.module.code.ts"
-import { getMailReceivedMassChangeContextMenu } from "../fco-mail-mass-delete/fco-mail-mass-delete.module.code.ts"
-import { updateLowercaseTextTables } from "../fco-mail-store/fco-mail-store.module.code.ts"
-import { STATE } from "../fco-state/fco-state.module.code.ts"
-import { addButton } from "../fco-utils/fco-utils.module.code.ts"
+} from "akasha/temper/interface-addon/fco-mail-events/fco-mail-events.module.code.ts"
+import { getMailReceivedMassChangeContextMenu } from "akasha/temper/interface-addon/fco-mail-mass-delete/fco-mail-mass-delete.module.code.ts"
+import { updateLowercaseTextTables } from "akasha/temper/interface-addon/fco-mail-store/fco-mail-store.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
+import { addButton } from "akasha/temper/interface-addon/fco-utils/fco-utils.module.code.ts"
 
 const addonVars = STATE.addonVars
 

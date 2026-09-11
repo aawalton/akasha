@@ -1,5 +1,9 @@
-import { asNumber, asString, asStringRecord } from "../fco-casts/fco-casts.module.code.ts"
-import { STATE } from "../fco-state/fco-state.module.code.ts"
+import {
+  asNumber,
+  asString,
+  asStringRecord,
+} from "akasha/temper/interface-addon/fco-casts/fco-casts.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
 
 let MY_PLAYER_NAME = ""
 let MY_PLAYER_NAME_RAW = ""

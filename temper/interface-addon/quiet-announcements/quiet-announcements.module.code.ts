@@ -1,10 +1,10 @@
-import { isNumber } from "../quiet-narrow/quiet-narrow.module.code.ts"
-import { safePrint } from "../quiet-print/quiet-print.module.code.ts"
-import { getSavedVariables } from "../quiet-saved-variables/quiet-saved-variables.module.code.ts"
+import { isNumber } from "akasha/temper/interface-addon/quiet-narrow/quiet-narrow.module.code.ts"
+import { safePrint } from "akasha/temper/interface-addon/quiet-print/quiet-print.module.code.ts"
+import { getSavedVariables } from "akasha/temper/interface-addon/quiet-saved-variables/quiet-saved-variables.module.code.ts"
 import {
   ENTERING_GROUP_AREA,
   LEAVING_GROUP_AREA,
-} from "../quiet-strings/quiet-strings.module.code.ts"
+} from "akasha/temper/interface-addon/quiet-strings/quiet-strings.module.code.ts"
 
 export function hookAvAMessages(this: void): undefined {
   const savedVars = getSavedVariables()

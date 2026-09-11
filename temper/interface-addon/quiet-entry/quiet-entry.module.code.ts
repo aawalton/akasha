@@ -5,19 +5,19 @@ import {
   hookPlaySound,
   repairAlertsHook,
   screenshotAlertHook,
-} from "../quiet-alerts/quiet-alerts.module.code.ts"
+} from "akasha/temper/interface-addon/quiet-alerts/quiet-alerts.module.code.ts"
 import {
   dontShowLoreDiscoveries,
   dontShowSkillProgression,
   enlightenedAlertHook,
   hookAvAMessages,
   hookGroupZoneMessages,
-} from "../quiet-announcements/quiet-announcements.module.code.ts"
+} from "akasha/temper/interface-addon/quiet-announcements/quiet-announcements.module.code.ts"
 import {
   disableChatMinimize,
   dontRotateGameCamera,
-} from "../quiet-camera/quiet-camera.module.code.ts"
-import { hookCraftBagNotifications } from "../quiet-craft-bag/quiet-craft-bag.module.code.ts"
+} from "akasha/temper/interface-addon/quiet-camera/quiet-camera.module.code.ts"
+import { hookCraftBagNotifications } from "akasha/temper/interface-addon/quiet-craft-bag/quiet-craft-bag.module.code.ts"
 import {
   deleteEmptyMailHook,
   hookBindAlerts,
@@ -27,17 +27,17 @@ import {
   hookLargeGroupDialog,
   hookMarketAnnouncement,
   noPortToLeader,
-} from "../quiet-dialogs/quiet-dialogs.module.code.ts"
-import { hookGuildNewApplicationsNotifications } from "../quiet-guild-applications/quiet-guild-applications.module.code.ts"
+} from "akasha/temper/interface-addon/quiet-dialogs/quiet-dialogs.module.code.ts"
+import { hookGuildNewApplicationsNotifications } from "akasha/temper/interface-addon/quiet-guild-applications/quiet-guild-applications.module.code.ts"
 import {
   hookGuildInvitesNotifications,
   hookPlayerToPlayerGuildInvite,
-} from "../quiet-guild-invites/quiet-guild-invites.module.code.ts"
-import { hookMotDNotifications } from "../quiet-guild-motd/quiet-guild-motd.module.code.ts"
-import { guildRosterAlertsHook } from "../quiet-guild-roster/quiet-guild-roster.module.code.ts"
-import { handleLuaErrorEvent } from "../quiet-lua-errors/quiet-lua-errors.module.code.ts"
-import { removePinsFromMaps } from "../quiet-map-pins/quiet-map-pins.module.code.ts"
-import { hookRaidNotifications } from "../quiet-raid-leaderboard/quiet-raid-leaderboard.module.code.ts"
+} from "akasha/temper/interface-addon/quiet-guild-invites/quiet-guild-invites.module.code.ts"
+import { hookMotDNotifications } from "akasha/temper/interface-addon/quiet-guild-motd/quiet-guild-motd.module.code.ts"
+import { guildRosterAlertsHook } from "akasha/temper/interface-addon/quiet-guild-roster/quiet-guild-roster.module.code.ts"
+import { handleLuaErrorEvent } from "akasha/temper/interface-addon/quiet-lua-errors/quiet-lua-errors.module.code.ts"
+import { removePinsFromMaps } from "akasha/temper/interface-addon/quiet-map-pins/quiet-map-pins.module.code.ts"
+import { hookRaidNotifications } from "akasha/temper/interface-addon/quiet-raid-leaderboard/quiet-raid-leaderboard.module.code.ts"
 import {
   disableChatAutoComplete,
   dontInterruptHarvesting,
@@ -48,10 +48,10 @@ import {
   noGuildLeave,
   noGuildLeavePreHook,
   noUniversalStones,
-} from "../quiet-world/quiet-world.module.code.ts"
-import "../quiet-camera-keybind/quiet-camera-keybind.module.code.ts"
-import { initializeSavedVariables } from "../quiet-saved-variables/quiet-saved-variables.module.code.ts"
-import { buildSettingsMenu } from "../quiet-settings-menu/quiet-settings-menu.module.code.ts"
+} from "akasha/temper/interface-addon/quiet-world/quiet-world.module.code.ts"
+import "akasha/temper/interface-addon/quiet-camera-keybind/quiet-camera-keybind.module.code.ts"
+import { initializeSavedVariables } from "akasha/temper/interface-addon/quiet-saved-variables/quiet-saved-variables.module.code.ts"
+import { buildSettingsMenu } from "akasha/temper/interface-addon/quiet-settings-menu/quiet-settings-menu.module.code.ts"
 
 export function initNoThankYou(this: void): undefined {
   initializeSavedVariables()

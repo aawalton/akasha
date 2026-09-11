@@ -1,5 +1,5 @@
-import type { ListProviderSelf } from "../quiet-list-provider/quiet-list-provider.module.code.ts"
-import { getSavedVariables } from "../quiet-saved-variables/quiet-saved-variables.module.code.ts"
+import type { ListProviderSelf } from "akasha/temper/interface-addon/quiet-list-provider/quiet-list-provider.module.code.ts"
+import { getSavedVariables } from "akasha/temper/interface-addon/quiet-saved-variables/quiet-saved-variables.module.code.ts"
 
 export function hookGuildNewApplicationsNotifications(this: void): undefined {
   const savedVars = getSavedVariables()

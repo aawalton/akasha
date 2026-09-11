@@ -1,4 +1,4 @@
-import type { AddonSettings } from "../fco-types/fco-types.module.code.ts"
+import type { AddonSettings } from "akasha/temper/interface-addon/fco-types/fco-types.module.code.ts"
 
 export interface PreventEndlessLoopHolder {
   current: boolean

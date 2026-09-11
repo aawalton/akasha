@@ -1,15 +1,14 @@
-import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 import {
   noEnlightenedSound,
   noShopAdvertisement,
-} from "../fco-after-login/fco-after-login.module.code.ts"
-import { updateExcludedMountIdsLibShifterBox } from "../fco-collectibles/fco-collectibles.module.code.ts"
+} from "akasha/temper/interface-addon/fco-after-login/fco-after-login.module.code.ts"
+import { updateExcludedMountIdsLibShifterBox } from "akasha/temper/interface-addon/fco-collectibles/fco-collectibles.module.code.ts"
 import {
   buildActionBarsControls,
   type PreventEndlessLoopHolder,
-} from "../fco-panel-action-bars/fco-panel-action-bars.module.code.ts"
-import { buildBattlegroundControls } from "../fco-panel-battleground/fco-panel-battleground.module.code.ts"
-import { buildChatControls } from "../fco-panel-chat/fco-panel-chat.module.code.ts"
+} from "akasha/temper/interface-addon/fco-panel-action-bars/fco-panel-action-bars.module.code.ts"
+import { buildBattlegroundControls } from "akasha/temper/interface-addon/fco-panel-battleground/fco-panel-battleground.module.code.ts"
+import { buildChatControls } from "akasha/temper/interface-addon/fco-panel-chat/fco-panel-chat.module.code.ts"
 import {
   buildCollectiblesControls,
   buildDialogsControls,
@@ -18,30 +17,31 @@ import {
   buildQuestsControls,
   buildSoundsControls,
   buildUIControls,
-} from "../fco-panel-features/fco-panel-features.module.code.ts"
-import { buildLoginReloaduiControls } from "../fco-panel-login/fco-panel-login.module.code.ts"
-import { buildLootControls } from "../fco-panel-loot/fco-panel-loot.module.code.ts"
+} from "akasha/temper/interface-addon/fco-panel-features/fco-panel-features.module.code.ts"
+import { buildLoginReloaduiControls } from "akasha/temper/interface-addon/fco-panel-login/fco-panel-login.module.code.ts"
+import { buildLootControls } from "akasha/temper/interface-addon/fco-panel-loot/fco-panel-loot.module.code.ts"
 import {
   buildKeybindControls,
   buildMainMenuControls,
   buildMapControls,
   buildNotificationsControls,
   buildOverallControls,
-} from "../fco-panel-main/fco-panel-main.module.code.ts"
+} from "akasha/temper/interface-addon/fco-panel-main/fco-panel-main.module.code.ts"
 import {
   buildCraftingControls,
   buildGroupControls,
   buildStableControls,
-} from "../fco-panel-progression/fco-panel-progression.module.code.ts"
-import { buildSkillsControls } from "../fco-panel-skills/fco-panel-skills.module.code.ts"
+} from "akasha/temper/interface-addon/fco-panel-progression/fco-panel-progression.module.code.ts"
+import { buildSkillsControls } from "akasha/temper/interface-addon/fco-panel-skills/fco-panel-skills.module.code.ts"
 import {
   buildBankControls,
   buildGuildBankControls,
   buildGuildHistoryControls,
   buildInventoryControls,
-} from "../fco-panel-storage/fco-panel-storage.module.code.ts"
-import { buildTooltipsControls } from "../fco-panel-tooltips/fco-panel-tooltips.module.code.ts"
-import { STATE } from "../fco-state/fco-state.module.code.ts"
+} from "akasha/temper/interface-addon/fco-panel-storage/fco-panel-storage.module.code.ts"
+import { buildTooltipsControls } from "akasha/temper/interface-addon/fco-panel-tooltips/fco-panel-tooltips.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 
 const FAVORITES_EXCLUDED_LIST_STATUS_ICON = "/esoui/art/buttons/cancel_down.dds"
 const favoritesExcludedListStatusIconText = zo_iconTextFormatNoSpace(

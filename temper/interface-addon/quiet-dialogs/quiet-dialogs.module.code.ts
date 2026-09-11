@@ -1,6 +1,9 @@
+import {
+  isNumber,
+  isString,
+} from "akasha/temper/interface-addon/quiet-narrow/quiet-narrow.module.code.ts"
+import { getSavedVariables } from "akasha/temper/interface-addon/quiet-saved-variables/quiet-saved-variables.module.code.ts"
 import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
-import { isNumber, isString } from "../quiet-narrow/quiet-narrow.module.code.ts"
-import { getSavedVariables } from "../quiet-saved-variables/quiet-saved-variables.module.code.ts"
 
 interface FenceDialogData {
   bag: number

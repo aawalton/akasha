@@ -1,4 +1,4 @@
-import type { DefaultsSettings } from "../fco-settings-defaults/fco-settings-defaults.module.code.ts"
+import type { DefaultsSettings } from "akasha/temper/interface-addon/fco-settings-defaults/fco-settings-defaults.module.code.ts"
 
 export interface AddonVars {
   addonVersion: number

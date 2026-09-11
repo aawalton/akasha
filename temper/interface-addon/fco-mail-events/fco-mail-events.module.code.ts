@@ -1,11 +1,11 @@
-import { checkIfEditBoxContextMenusNeedAnUpdate } from "../fco-mail-context-menu/fco-mail-context-menu.module.code.ts"
+import { checkIfEditBoxContextMenusNeedAnUpdate } from "akasha/temper/interface-addon/fco-mail-context-menu/fco-mail-context-menu.module.code.ts"
 import {
   getMailSettings,
   isMailFieldType,
   MAIL_SEND_EDIT_FIELDS,
   type MailFieldType,
   UNIQUE_SAVE_MAIL_VALUES_UPDATER_NAME,
-} from "../fco-mail-data/fco-mail-data.module.code.ts"
+} from "akasha/temper/interface-addon/fco-mail-data/fco-mail-data.module.code.ts"
 import {
   addToFavorites,
   loadLastUsedValue,
@@ -13,9 +13,9 @@ import {
   saveLastUsedValue,
   saveMailValue,
   updateLowercaseTextTables,
-} from "../fco-mail-store/fco-mail-store.module.code.ts"
-import { STATE } from "../fco-state/fco-state.module.code.ts"
-import { throttledUpdate } from "../fco-utils/fco-utils.module.code.ts"
+} from "akasha/temper/interface-addon/fco-mail-store/fco-mail-store.module.code.ts"
+import { STATE } from "akasha/temper/interface-addon/fco-state/fco-state.module.code.ts"
+import { throttledUpdate } from "akasha/temper/interface-addon/fco-utils/fco-utils.module.code.ts"
 
 const addonName = STATE.addonVars.addonName
 const addonPrefix = `[${addonName}]`

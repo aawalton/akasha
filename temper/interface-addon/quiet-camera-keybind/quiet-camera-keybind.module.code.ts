@@ -1,6 +1,6 @@
-import { dontRotateGameCamera } from "../quiet-camera/quiet-camera.module.code.ts"
-import { getSavedVariables } from "../quiet-saved-variables/quiet-saved-variables.module.code.ts"
-import { BINDING_NAME_NOCAMROTATE_TOGGLE } from "../quiet-strings/quiet-strings.module.code.ts"
+import { dontRotateGameCamera } from "akasha/temper/interface-addon/quiet-camera/quiet-camera.module.code.ts"
+import { getSavedVariables } from "akasha/temper/interface-addon/quiet-saved-variables/quiet-saved-variables.module.code.ts"
+import { BINDING_NAME_NOCAMROTATE_TOGGLE } from "akasha/temper/interface-addon/quiet-strings/quiet-strings.module.code.ts"
 
 ZO_CreateStringId("SI_BINDING_NAME_NOCAMROTATE_TOGGLE", BINDING_NAME_NOCAMROTATE_TOGGLE)
 

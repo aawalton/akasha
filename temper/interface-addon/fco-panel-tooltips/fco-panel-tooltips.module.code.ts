@@ -1,8 +1,8 @@
 import {
   tooltipBorderSizeHack,
   tooltipScalingHack,
-} from "../fco-tooltips/fco-tooltips.module.code.ts"
-import type { AddonSettings } from "../fco-types/fco-types.module.code.ts"
+} from "akasha/temper/interface-addon/fco-tooltips/fco-tooltips.module.code.ts"
+import type { AddonSettings } from "akasha/temper/interface-addon/fco-types/fco-types.module.code.ts"
 
 export function buildTooltipsControls(
   this: void,
