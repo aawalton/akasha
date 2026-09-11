@@ -5,5 +5,5 @@ export const fitnessCoaching = {
   type: "domain",
   slug: "fitness-coaching",
   definition: "the limits and cues Alan's training is programmed by",
-  parts: ["page-type/fitness-coaching-note"],
+  parts: ["page-type/fitness-coaching-note", "domain/coaching-schedule"],
 } as const satisfies Domain
