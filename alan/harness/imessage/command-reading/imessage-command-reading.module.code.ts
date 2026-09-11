@@ -18,6 +18,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Filing } from "akasha/commands/modules/filling/command-filling.module.code.ts"
 import { inputIn, type Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const JSON_SAID = "--json"
 
@@ -81,7 +82,7 @@ export function wordsIn(
       continue
     }
     if (word.startsWith("--")) {
-      const every = [...valued, ...switches].map((one) => `\`${one}\``).join(", ")
+      const every = namesDrawn([...valued, ...switches])
       refusals.push(`\`${word}\` is no flag this takes — it takes ${every}`)
       continue
     }
