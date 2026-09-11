@@ -8,6 +8,7 @@ export const faultSaying = {
   definition: "what a thrown thing says, for a refusal to carry",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

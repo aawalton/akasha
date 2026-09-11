@@ -4,6 +4,11 @@ import {
   oneLine,
   whyOf,
 } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import {
+  EVERY_FRAME,
+  FIRST_FRAME,
+  PATHLESS,
+} from "akasha/commands/modules/fault-saying/fault-saying.module.test-fixtures.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 test("an Error says its message and nothing about its kind", () => {
@@ -47,13 +52,6 @@ function threwHere(): unknown {
   }
 }
 
-const PATHLESS =
-  "Error: ENOENT: no such file or directory, open\n" +
-  "    at cpSync (unknown)\n" +
-  "    at /repo/akasha/code-system/code-tests/code-tests.module.code.ts:207:11\n" +
-  "    at worldOf (/repo/akasha/code-system/code-tests/code-tests.module.code.ts:244:7)\n" +
-  "    at /repo/akasha/checks/one.code-check.code.ts:31:3\n"
-
 function pathless(): Error {
   const held = new Error("ENOENT: no such file or directory, open")
   held.stack = PATHLESS
@@ -67,17 +65,11 @@ test("where a fault was thrown is read off the stack it carries, as file, line a
 })
 
 test("a frame the runtime names no file for is passed over, so a native throw still names a caller", () => {
-  expect(framesOf(pathless(), 1)).toEqual([
-    "/repo/akasha/code-system/code-tests/code-tests.module.code.ts:207:11",
-  ])
+  expect(framesOf(pathless(), 1)).toEqual(FIRST_FRAME)
 })
 
 test("a frame is read whether the runtime names the function it belongs to or not", () => {
-  expect(framesOf(pathless(), 3)).toEqual([
-    "/repo/akasha/code-system/code-tests/code-tests.module.code.ts:207:11",
-    "/repo/akasha/code-system/code-tests/code-tests.module.code.ts:244:7",
-    "/repo/akasha/checks/one.code-check.code.ts:31:3",
-  ])
+  expect(framesOf(pathless(), 3)).toEqual(EVERY_FRAME)
 })
 
 test("how many frames come back is what the caller asked for and no more", () => {
