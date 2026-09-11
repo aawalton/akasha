@@ -69,6 +69,31 @@ export async function asideTook(): Promise<{
   }
 }
 
+const ASIDE_FOLDER = "deep"
+
+const ASIDE_BESIDE = `${ASIDE_FOLDER}/page.txt`
+
+const ASIDE_UNDER = `${ASIDE_FOLDER}/page.uncommitted.json`
+
+export async function asideCleared(): Promise<{
+  readonly cleared: readonly string[]
+  readonly left: readonly string[]
+}> {
+  const root = await asideRepo()
+  const up = rowsIn(root, [{ path: ASIDE_BESIDE, body: bytesOf("the page\n") }])
+  const first = await landing(root, up, "the page goes up", ADMITS)
+  if ("refusals" in first) throw new Error(first.refusals.join("; "))
+  writeFileSync(join(root, ASIDE_UNDER), "beside")
+  const down = rowsIn(root, [
+    { path: ASIDE_BESIDE, body: null },
+    { path: ASIDE_UNDER, body: null },
+  ])
+  const said = await landing(root, down, "the page comes down", ADMITS)
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  const might = [ASIDE_FOLDER, ASIDE_BESIDE, ASIDE_UNDER]
+  return { cleared: said.cleared, left: might.filter((one) => existsSync(join(root, one))) }
+}
+
 export async function asidePutBack(): Promise<{
   readonly why: string
   readonly held: string | null

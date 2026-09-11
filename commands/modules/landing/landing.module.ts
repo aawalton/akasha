@@ -156,8 +156,12 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "The names renamed aside are unlinked before the folders are cleared.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A landing that throws after the rename puts each body back at the path it came from.",
+        "A landing that throws between the rename and the unlink puts each body back where it came from.",
     },
     {
       invariantKind: "departure",
@@ -177,6 +181,11 @@ export const landing = {
     {
       invariantKind: "departure",
       statement: "A folder left with nothing by a path taken away is cleared off the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A folder left with nothing by a path the repository ignores is cleared off the disk.",
     },
     {
       invariantKind: "departure",

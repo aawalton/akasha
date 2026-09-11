@@ -386,11 +386,11 @@ export async function landing(
         try {
           const rest = split.uncommitted.filter((one) => !held.has(one.path))
           const ignoredGone = wroteOnto(root, rest)
-          const gone = [...put.took, ...then.took, ...moves.map((one) => one.from)]
-          const cleared = clearedOff(root, gone)
-          const linked = linkedOver(root, moves, homedir())
           const untracked = [...new Set([...aside.took, ...ignoredGone.took])].sort()
           aside.done()
+          const gone = [...put.took, ...then.took, ...moves.map((one) => one.from), ...untracked]
+          const cleared = clearedOff(root, gone)
+          const linked = linkedOver(root, moves, homedir())
           return { base, commit, wrote, took, noted, cleared, linked, untracked }
         } catch (failed) {
           aside.back()

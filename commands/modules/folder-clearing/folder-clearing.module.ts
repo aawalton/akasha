@@ -27,6 +27,11 @@ export const folderClearing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The paths handed in are every path that went, whether git tracks that path or not.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The folders are taken innermost first.",
     },
     {

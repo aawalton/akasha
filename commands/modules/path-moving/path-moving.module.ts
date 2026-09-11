@@ -95,6 +95,11 @@ export const pathMoving = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The paths a move aside took are answered, so the folder those paths empty is cleared.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path moved away that something still imports refuses the change unwritten.",
     },
   ],

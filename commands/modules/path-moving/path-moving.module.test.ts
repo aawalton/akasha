@@ -17,6 +17,7 @@ import { baseOf } from "akasha/commands/modules/landing-change-composing/landing
 import { asideOnto } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
 import {
   ASIDE_OUT,
+  asideCleared,
   asidePutBack,
   asidesIn,
   asideTook,
@@ -113,6 +114,12 @@ test("an ignored path taken away is moved aside, answered, and the aside name un
   expect(said.untracked).toEqual([ASIDE_OUT])
   expect(said.there).toBe(false)
   expect(said.aside).toEqual([])
+})
+
+test("a page taken away with an ignored path beside it leaves no folder behind", async () => {
+  const said = await asideCleared()
+  expect(said.left).toEqual([])
+  expect(said.cleared).toEqual(["deep"])
 })
 
 test("a landing that throws after the move aside puts the ignored body back", async () => {
