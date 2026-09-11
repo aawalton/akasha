@@ -7,4 +7,14 @@ export const tunnelRouteDiscovery = {
   slug: "tunnel-route-discovery",
   definition: "the tunnel routes the checkout declares, gathered and checked for clashes",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A routes file is the file of a page stating the routes property.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No name for that file is spelled here.",
+    },
+  ],
 } as const satisfies Module

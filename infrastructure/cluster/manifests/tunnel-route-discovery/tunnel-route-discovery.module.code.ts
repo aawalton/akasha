@@ -1,7 +1,10 @@
 import { existsSync } from "node:fs"
-import { readdir } from "node:fs/promises"
-import { dirname, join, relative } from "node:path"
+import { dirname, join } from "node:path"
 import type { TunnelRoute } from "akasha/infrastructure/cluster/manifests/tunnel-route/tunnel-route.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { pageTypesIn } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { textAt } from "akasha/pages/value/page-value.module.code.ts"
 
 const REPO_ROOT = checkoutRootAbove(import.meta.dirname)
 
@@ -14,41 +17,55 @@ function checkoutRootAbove(from: string): string {
     at = up
   }
 }
-const EXCLUDED_DIRS = new Set(["node_modules", ".git", ".next", ".turbo", ".cache"])
+
+const CODE_FILE_PROPERTY = "code-file-property"
+
+const TUNNEL_ROUTES = "tunnel-routes"
+
+const SLUG = "slug"
+
+const FILE_NAME = "file-name"
 
 export interface DiscoveredRoute {
   readonly route: TunnelRoute
   readonly sourceFile: string
 }
 
+function routesFileName(root: string): string {
+  for (const one of valuesOfType(root, CODE_FILE_PROPERTY)) {
+    if (textAt(one.value, SLUG) !== TUNNEL_ROUTES) continue
+    const named = textAt(one.value, exportedAs(FILE_NAME))
+    if (named !== null) return named
+  }
+  throw new Error(
+    `no \`${CODE_FILE_PROPERTY}\` page carries the slug \`${TUNNEL_ROUTES}\` with a file name, so nothing says what a routes file is called`
+  )
+}
+
+export function routeFilesIn(root: string): readonly string[] {
+  const named = routesFileName(root)
+  const key = exportedAs(TUNNEL_ROUTES)
+  const found: string[] = []
+  for (const pageTypeSlug of pageTypesIn(root)) {
+    for (const one of valuesOfType(root, pageTypeSlug)) {
+      if (textAt(one.value, key) === null) continue
+      found.push(join(dirname(one.path), named))
+    }
+  }
+  return found.sort()
+}
+
 export async function discoverTunnelRoutes(): Promise<readonly DiscoveredRoute[]> {
-  const files = await walkForRoutes(REPO_ROOT)
   const sourced: DiscoveredRoute[] = []
-  for (const file of files) {
-    const mod = await import(file)
+  for (const sourceFile of routeFilesIn(REPO_ROOT)) {
+    const mod = await import(join(REPO_ROOT, sourceFile))
     const routes: TunnelRoute[] = mod.routes ?? mod.default ?? []
     for (const route of routes) {
-      sourced.push({ route, sourceFile: relative(REPO_ROOT, file) })
+      sourced.push({ route, sourceFile })
     }
   }
   validateRoutes(sourced)
   return sourced
-}
-
-async function walkForRoutes(dir: string): Promise<readonly string[]> {
-  const entries = await readdir(dir, { withFileTypes: true })
-  const results: string[] = []
-  for (const entry of entries) {
-    if (entry.isDirectory()) {
-      if (entry.name.startsWith(".") || EXCLUDED_DIRS.has(entry.name)) continue
-      results.push(...(await walkForRoutes(join(dir, entry.name))))
-      continue
-    }
-    if (entry.name === "tunnel-routes.ts") {
-      results.push(join(dir, entry.name))
-    }
-  }
-  return results
 }
 
 export function validateRoutes(sourced: readonly DiscoveredRoute[]): undefined {
