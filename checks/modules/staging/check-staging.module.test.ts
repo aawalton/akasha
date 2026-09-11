@@ -70,7 +70,7 @@ test("what a body the checkout is asked for imports is filed in the import index
 test("the pages the import index and its edge are sit in the checkout too", () => {
   const root = staged({})
   for (const one of GRAPHED) {
-    const [listed] = listedAt(root, one.pageTypeSlug, one.slug)
+    const [listed] = listedAt(root, one.type, one.slug)
     if (listed === undefined) throw new Error(`\`${one.slug}\` is named by nothing there`)
     expect(listed.id).toBe(one.id)
     expect(readFileSync(join(root, listed.path), "utf8")).toBe(bodied(one))

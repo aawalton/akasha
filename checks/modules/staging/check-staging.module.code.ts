@@ -26,11 +26,11 @@ export function bodied(held: unknown): string {
 export function named(
   root: string,
   at: string,
-  pageTypeSlug: string,
+  pageType: string,
   slug: string,
   id: string
 ): undefined {
-  listedFiled(root, pageTypeSlug, slug, [{ path: at, id }])
+  listedFiled(root, pageType, slug, [{ path: at, id }])
 }
 
 function reaching(root: string, files: Readonly<Record<string, string>>): undefined {
@@ -47,8 +47,8 @@ function paged(root: string, at: string, held: unknown): undefined {
 function graphed(root: string): undefined {
   paged(root, EDGE_PAGE_AT, importEdge)
   paged(root, INDEX_PAGE_AT, indexImport)
-  named(root, EDGE_PAGE_AT, importEdge.pageTypeSlug, importEdge.slug, importEdge.id)
-  named(root, INDEX_PAGE_AT, indexImport.pageTypeSlug, indexImport.slug, indexImport.id)
+  named(root, EDGE_PAGE_AT, importEdge.type, importEdge.slug, importEdge.id)
+  named(root, INDEX_PAGE_AT, indexImport.type, indexImport.slug, indexImport.id)
   pathFiled(root, EDGE_PAGE_AT, [{ path: EDGE_PAGE_AT, id: importEdge.id }])
   pathFiled(root, INDEX_PAGE_AT, [{ path: INDEX_PAGE_AT, id: indexImport.id }])
 }
