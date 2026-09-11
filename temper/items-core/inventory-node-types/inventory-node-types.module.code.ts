@@ -29,3 +29,14 @@ export interface InventoryLeafNode {
 }
 
 export type InventoryNode = InventoryBranchNode | InventoryLeafNode
+
+export function hasAnyValue(nodes: readonly InventoryNode[]): boolean {
+  for (const node of nodes) {
+    if ("children" in node) {
+      if (hasAnyValue(node.children)) return true
+    } else if (node.totalValue !== undefined || node.value !== undefined) {
+      return true
+    }
+  }
+  return false
+}

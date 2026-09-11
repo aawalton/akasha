@@ -11,6 +11,7 @@ import type {
   InventoryLeafNode,
   InventoryNode,
 } from "akasha/temper/items-core/inventory-node-types/inventory-node-types.module.code.ts"
+import { hasAnyValue } from "akasha/temper/items-core/inventory-node-types/inventory-node-types.module.code.ts"
 import { ItemTooltipPopover } from "akasha/temper/player-inventory-management-ui/item-tooltip-popover/item-tooltip-popover.module.code.tsx"
 import {
   type ValueExplanationData,
@@ -61,17 +62,6 @@ function aggregate(node: InventoryNode): AggregateResult {
     slotCount: node.slotCount ?? (allHaveSlots ? slotCount : undefined),
     bagCapacity: node.bagCapacity,
   }
-}
-
-function hasAnyValue(nodes: readonly InventoryNode[]): boolean {
-  for (const node of nodes) {
-    if ("children" in node) {
-      if (hasAnyValue(node.children)) return true
-    } else if (node.totalValue !== undefined || node.value !== undefined) {
-      return true
-    }
-  }
-  return false
 }
 
 function maxQuality(node: InventoryNode): number {

@@ -16,9 +16,10 @@ import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
-import type {
-  InventoryLeafNode,
-  InventoryNode,
+import {
+  hasAnyValue,
+  type InventoryLeafNode,
+  type InventoryNode,
 } from "akasha/temper/items-core/inventory-node-types/inventory-node-types.module.code.ts"
 import {
   buildAffectedItemLocationNodes,
@@ -60,17 +61,6 @@ function aggregate(node: InventoryNode): AggregateResult {
     stackCount,
     totalValue: hasValue ? totalValue : undefined,
   }
-}
-
-function hasAnyValue(nodes: readonly InventoryNode[]): boolean {
-  for (const node of nodes) {
-    if ("children" in node) {
-      if (hasAnyValue(node.children)) return true
-    } else if (node.totalValue !== undefined || node.value !== undefined) {
-      return true
-    }
-  }
-  return false
 }
 
 function leafToValueData(node: InventoryLeafNode): ValueExplanationData {
