@@ -1,3 +1,4 @@
+import { stripXmlComments } from "akasha/utils/narrow/strip-xml-comments/strip-xml-comments.module.code.ts"
 import ts from "typescript"
 
 const REGISTRATION_FNS: ReadonlySet<string> = new Set([
@@ -209,10 +210,6 @@ function collectLamBindings(
   }
   visit(sf)
   return refs
-}
-
-function stripXmlComments(source: string): string {
-  return source.replace(/<!--[\s\S]*?-->/g, (m) => m.replace(/[^\n]/g, " "))
 }
 
 function collectXmlRefs(source: string, global: string, file: string): readonly DependentRef[] {

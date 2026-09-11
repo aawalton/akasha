@@ -47,6 +47,7 @@ export const utilsNarrow = {
     "module/said-by",
     "module/shortened-to-words",
     "module/sorted-once",
+    "module/strip-xml-comments",
     "module/string-at",
     "module/text-at",
     "module/is-whitespace",

@@ -1,4 +1,5 @@
 import { escapeRegExp } from "akasha/utils/narrow/escape-reg-exp/escape-reg-exp.module.code.ts"
+import { stripXmlComments } from "akasha/utils/narrow/strip-xml-comments/strip-xml-comments.module.code.ts"
 import ts from "typescript"
 
 export type OrphanReason = "undefined-symbol" | "onupdate-storm-vector"
@@ -75,10 +76,6 @@ export function collectSourceSymbols(source: string, filePath: string): SourceSy
   }
   visit(sf)
   return { namespaces: [...namespaces].sort(), members: [...members].sort() }
-}
-
-function stripXmlComments(xml: string): string {
-  return xml.replace(/<!--[\s\S]*?-->/g, (m) => m.replace(/[^\n]/g, " "))
 }
 
 const HANDLER_RE = /<(On[A-Z][A-Za-z0-9]*)\b[^>]*>([\s\S]*?)<\/\1\s*>/g
