@@ -2,7 +2,6 @@ import type { TemperLocationType } from "akasha/temper/catalog/temper-world/temp
 
 export const house = {
   id: "019e3103-270c-7bdd-bf4f-7b47ea7c4f7a",
-  pageTypeSlug: "temper-location-type",
   type: "temper-location-type",
   slug: "house",
   title: "Houses",

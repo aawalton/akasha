@@ -2,7 +2,6 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuits
 
 export const theTrialOfEyevea = {
   id: "01a06343-f9fa-7041-8479-380cad790bf0",
-  pageTypeSlug: "temper-lore-collection",
   type: "temper-lore-collection",
   slug: "the-trial-of-eyevea",
   title: "The Trial of Eyevea",

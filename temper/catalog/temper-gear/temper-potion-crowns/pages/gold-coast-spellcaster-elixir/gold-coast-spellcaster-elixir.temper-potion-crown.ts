@@ -2,7 +2,6 @@ import type { TemperPotionCrown } from "akasha/temper/catalog/temper-gear/temper
 
 export const goldCoastSpellcasterElixir = {
   id: "019e21f5-7537-7b7b-afa1-7e09c321abb0",
-  pageTypeSlug: "temper-potion-crown",
   type: "temper-potion-crown",
   slug: "gold-coast-spellcaster-elixir",
   title: "Gold Coast Spellcaster Elixir",

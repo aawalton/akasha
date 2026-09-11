@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const celestial = {
   id: "019e5a46-c3de-7a96-b436-c8fd412985d5",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "celestial",
   title: "Celestial",

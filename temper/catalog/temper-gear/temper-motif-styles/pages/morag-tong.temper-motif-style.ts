@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const moragTong = {
   id: "019e5a46-c3bd-7815-b1c9-1d043f131ac4",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "morag-tong",
   title: "Morag Tong",

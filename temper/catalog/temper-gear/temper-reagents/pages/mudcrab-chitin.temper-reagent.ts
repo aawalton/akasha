@@ -2,7 +2,6 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const mudcrabChitin = {
   id: "019e21f7-3b1f-7598-8279-e510dfe1a76a",
-  pageTypeSlug: "temper-reagent",
   type: "temper-reagent",
   slug: "mudcrab-chitin",
   title: "Mudcrab Chitin",

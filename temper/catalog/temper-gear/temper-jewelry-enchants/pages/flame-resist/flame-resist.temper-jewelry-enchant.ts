@@ -2,7 +2,6 @@ import type { TemperJewelryEnchant } from "akasha/temper/catalog/temper-gear/tem
 
 export const flameResist = {
   id: "019e5c85-d952-75c2-8e1c-23698b58c47c",
-  pageTypeSlug: "temper-jewelry-enchant",
   type: "temper-jewelry-enchant",
   slug: "flame-resist",
   title: "Flame Resist",

@@ -2,7 +2,6 @@ import type { TemperPotionDropped } from "akasha/temper/catalog/temper-gear/temp
 
 export const essenceOfHealth = {
   id: "019e21f5-bdb2-75ed-8a74-8c81eb26af73",
-  pageTypeSlug: "temper-potion-dropped",
   type: "temper-potion-dropped",
   slug: "essence-of-health",
   title: "Essence of Health",

@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const wakingFlame = {
   id: "019e5a46-c47a-7f60-ba76-979afa8d9d20",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "waking-flame",
   title: "Waking Flame",

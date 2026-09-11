@@ -2,7 +2,6 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const restoreStamina = {
   id: "019e21f7-0f5f-7afa-81bb-e7056a972eac",
-  pageTypeSlug: "temper-poison-effect",
   type: "temper-poison-effect",
   slug: "restore-stamina",
   title: "Restore Stamina",

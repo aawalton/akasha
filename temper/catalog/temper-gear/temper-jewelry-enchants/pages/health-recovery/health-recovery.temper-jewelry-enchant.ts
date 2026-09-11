@@ -2,7 +2,6 @@ import type { TemperJewelryEnchant } from "akasha/temper/catalog/temper-gear/tem
 
 export const healthRecovery = {
   id: "019e5c85-d949-7117-b9fc-f50cc02b56ed",
-  pageTypeSlug: "temper-jewelry-enchant",
   type: "temper-jewelry-enchant",
   slug: "health-recovery",
   title: "Health Recovery",

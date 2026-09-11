@@ -2,7 +2,6 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const dragonRheum = {
   id: "019e21f7-3b16-7b50-8048-57cdd4919874",
-  pageTypeSlug: "temper-reagent",
   type: "temper-reagent",
   slug: "dragon-rheum",
   title: "Dragon Rheum",

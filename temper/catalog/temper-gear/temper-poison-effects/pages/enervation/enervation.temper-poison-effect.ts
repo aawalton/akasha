@@ -2,7 +2,6 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const enervation = {
   id: "019e21f7-0f71-7de9-89e5-1da9106ccb55",
-  pageTypeSlug: "temper-poison-effect",
   type: "temper-poison-effect",
   slug: "enervation",
   title: "Enervation",

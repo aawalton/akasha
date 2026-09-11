@@ -2,7 +2,6 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const luminousRussula = {
   id: "019e21f7-3b1d-7345-9a92-ca157efe1883",
-  pageTypeSlug: "temper-reagent",
   type: "temper-reagent",
   slug: "luminous-russula",
   title: "Luminous Russula",

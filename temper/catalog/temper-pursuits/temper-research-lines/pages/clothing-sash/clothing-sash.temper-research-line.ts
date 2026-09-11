@@ -2,7 +2,6 @@ import type { TemperResearchLine } from "akasha/temper/catalog/temper-pursuits/t
 
 export const clothingSash = {
   id: "01a0616b-2ce1-7000-ab6f-1785dc306baa",
-  pageTypeSlug: "temper-research-line",
   type: "temper-research-line",
   slug: "clothing-sash",
   title: "Sash",

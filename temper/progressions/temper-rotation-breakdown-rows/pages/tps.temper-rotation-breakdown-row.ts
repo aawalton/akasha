@@ -2,7 +2,6 @@ import type { TemperRotationBreakdownRow } from "akasha/temper/progressions/temp
 
 export const tps = {
   id: "019e5d79-3e5c-7ef5-bf06-fa5a7d27e26a",
-  pageTypeSlug: "temper-rotation-breakdown-row",
   type: "temper-rotation-breakdown-row",
   slug: "tps",
   title: "TPS",

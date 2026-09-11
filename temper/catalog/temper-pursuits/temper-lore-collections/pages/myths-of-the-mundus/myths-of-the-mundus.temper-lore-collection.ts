@@ -2,7 +2,6 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuits
 
 export const mythsOfTheMundus = {
   id: "01a06343-f9fa-70ab-97a3-9da5448391df",
-  pageTypeSlug: "temper-lore-collection",
   type: "temper-lore-collection",
   slug: "myths-of-the-mundus",
   title: "Myths of the Mundus",

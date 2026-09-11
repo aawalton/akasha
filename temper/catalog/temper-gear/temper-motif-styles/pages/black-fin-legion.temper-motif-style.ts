@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const blackFinLegion = {
   id: "019e5a46-c481-70ec-ae80-812f8b903850",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "black-fin-legion",
   title: "Black Fin Legion",

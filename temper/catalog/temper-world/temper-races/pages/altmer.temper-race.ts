@@ -2,7 +2,6 @@ import type { TemperRace } from "akasha/temper/catalog/temper-world/temper-races
 
 export const altmer = {
   id: "019e2fc3-a986-716c-9ff3-32a385297c37",
-  pageTypeSlug: "temper-race",
   type: "temper-race",
   slug: "altmer",
   title: "High Elf",

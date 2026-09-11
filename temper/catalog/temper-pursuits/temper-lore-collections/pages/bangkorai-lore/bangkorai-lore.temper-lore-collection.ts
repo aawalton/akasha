@@ -2,7 +2,6 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuits
 
 export const bangkoraiLore = {
   id: "01a06343-f9fa-7020-bdd2-bca0ec04e784",
-  pageTypeSlug: "temper-lore-collection",
   type: "temper-lore-collection",
   slug: "bangkorai-lore",
   title: "Bangkorai Lore",

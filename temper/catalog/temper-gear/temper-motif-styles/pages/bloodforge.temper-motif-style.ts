@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const bloodforge = {
   id: "019e5a46-c3fb-794f-bbea-bb19bff5ca52",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "bloodforge",
   title: "Bloodforge",

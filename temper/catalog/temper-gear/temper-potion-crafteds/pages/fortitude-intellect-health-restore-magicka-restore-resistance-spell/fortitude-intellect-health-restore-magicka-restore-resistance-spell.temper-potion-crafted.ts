@@ -2,7 +2,6 @@ import type { TemperPotionCrafted } from "akasha/temper/catalog/temper-gear/temp
 
 export const fortitudeIntellectHealthRestoreMagickaRestoreResistanceSpell = {
   id: "019e21f6-405a-7332-9b71-6af20ac7bfbf",
-  pageTypeSlug: "temper-potion-crafted",
   type: "temper-potion-crafted",
   slug: "fortitude-intellect-health-restore-magicka-restore-resistance-spell",
   title: "Essence of Health",

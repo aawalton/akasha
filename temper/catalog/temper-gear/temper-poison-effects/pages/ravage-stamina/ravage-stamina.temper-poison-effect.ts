@@ -2,7 +2,6 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const ravageStamina = {
   id: "019e21f7-0f61-7f87-92c1-26e91cb96127",
-  pageTypeSlug: "temper-poison-effect",
   type: "temper-poison-effect",
   slug: "ravage-stamina",
   title: "Ravage Stamina",

@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const deadKeeper = {
   id: "019e5a46-c4b9-76dd-862a-8a73e36a670b",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "dead-keeper",
   title: "Dead Keeper",

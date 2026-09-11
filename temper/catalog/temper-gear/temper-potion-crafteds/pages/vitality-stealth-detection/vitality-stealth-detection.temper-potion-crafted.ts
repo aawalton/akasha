@@ -2,7 +2,6 @@ import type { TemperPotionCrafted } from "akasha/temper/catalog/temper-gear/temp
 
 export const vitalityStealthDetection = {
   id: "019e21f6-4048-78df-a946-724662503ccb",
-  pageTypeSlug: "temper-potion-crafted",
   type: "temper-potion-crafted",
   slug: "vitality-stealth-detection",
   title: "Essence of Detection",

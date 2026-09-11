@@ -2,7 +2,6 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuits
 
 export const biographies = {
   id: "01a06343-f9fa-7051-b097-89f67fd7e88f",
-  pageTypeSlug: "temper-lore-collection",
   type: "temper-lore-collection",
   slug: "biographies",
   title: "Biographies",

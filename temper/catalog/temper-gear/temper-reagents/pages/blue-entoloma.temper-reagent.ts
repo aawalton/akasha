@@ -2,7 +2,6 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const blueEntoloma = {
   id: "019e21f7-3b05-7e64-bbca-b537ab77410a",
-  pageTypeSlug: "temper-reagent",
   type: "temper-reagent",
   slug: "blue-entoloma",
   title: "Blue Entoloma",

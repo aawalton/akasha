@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const minotaur = {
   id: "019e5a46-c3d9-7cc0-b8c3-f7c852e633c6",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "minotaur",
   title: "Minotaur",

@@ -2,7 +2,6 @@ import type { TemperJewelryTrait } from "akasha/temper/catalog/temper-gear/tempe
 
 export const ornate = {
   id: "019e5b97-6d98-7607-a4f1-04b7bf79f0a3",
-  pageTypeSlug: "temper-jewelry-trait",
   type: "temper-jewelry-trait",
   slug: "ornate",
   title: "Ornate",

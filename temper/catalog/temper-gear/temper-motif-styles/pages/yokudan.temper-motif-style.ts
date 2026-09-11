@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const yokudan = {
   id: "019e5a46-c3a6-7cd2-b268-45fad9f4abc4",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "yokudan",
   title: "Yokudan",

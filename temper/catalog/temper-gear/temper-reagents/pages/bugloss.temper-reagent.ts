@@ -2,7 +2,6 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const bugloss = {
   id: "019e21f7-3b08-742e-8c13-d4033e20e18a",
-  pageTypeSlug: "temper-reagent",
   type: "temper-reagent",
   slug: "bugloss",
   title: "Bugloss",

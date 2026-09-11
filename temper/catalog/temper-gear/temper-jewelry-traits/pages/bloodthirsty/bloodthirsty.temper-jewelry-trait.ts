@@ -2,7 +2,6 @@ import type { TemperJewelryTrait } from "akasha/temper/catalog/temper-gear/tempe
 
 export const bloodthirsty = {
   id: "019e5b97-6d87-7ebe-8b8a-90f7afd5b457",
-  pageTypeSlug: "temper-jewelry-trait",
   type: "temper-jewelry-trait",
   slug: "bloodthirsty",
   title: "Bloodthirsty",

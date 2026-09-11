@@ -2,7 +2,6 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuits
 
 export const tamrielHistory = {
   id: "01a06343-f9fa-70cc-8f2e-1824bfa2e28c",
-  pageTypeSlug: "temper-lore-collection",
   type: "temper-lore-collection",
   slug: "tamriel-history",
   title: "Tamriel History",

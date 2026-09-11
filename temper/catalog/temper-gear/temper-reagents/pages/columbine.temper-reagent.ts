@@ -2,7 +2,6 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const columbine = {
   id: "019e21f7-3b0f-7979-8b5f-b4e6365d7863",
-  pageTypeSlug: "temper-reagent",
   type: "temper-reagent",
   slug: "columbine",
   title: "Columbine",

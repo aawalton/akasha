@@ -2,7 +2,6 @@ import type { TemperJewelryTrait } from "akasha/temper/catalog/temper-gear/tempe
 
 export const triune = {
   id: "019e5b97-6d96-7db5-902b-64e6d928282a",
-  pageTypeSlug: "temper-jewelry-trait",
   type: "temper-jewelry-trait",
   slug: "triune",
   title: "Triune",

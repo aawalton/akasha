@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const ancestralOrc = {
   id: "019e5a46-c459-765e-8735-3e1c95f3bc22",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "ancestral-orc",
   title: "Ancestral Orc",

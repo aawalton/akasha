@@ -2,7 +2,6 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const increaseWeaponPower = {
   id: "019e21f7-0f6c-77a9-a08d-1a513e9fdac0",
-  pageTypeSlug: "temper-poison-effect",
   type: "temper-poison-effect",
   slug: "increase-weapon-power",
   title: "Increase Weapon Power",

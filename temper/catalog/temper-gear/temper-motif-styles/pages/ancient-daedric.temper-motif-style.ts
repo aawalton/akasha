@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const ancientDaedric = {
   id: "019e5a46-c47e-706c-829f-952adfe3610f",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "ancient-daedric",
   title: "Ancient Daedric",

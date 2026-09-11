@@ -2,7 +2,6 @@ import type { TemperRecipeList } from "akasha/temper/catalog/temper-pursuits/tem
 
 export const alcoholicDrinks = {
   id: "01a0626e-c111-7a97-961c-e0d23b79696b",
-  pageTypeSlug: "temper-recipe-list",
   type: "temper-recipe-list",
   slug: "alcoholic-drinks",
   title: "Alcoholic Drinks",

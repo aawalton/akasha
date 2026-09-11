@@ -2,7 +2,6 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const whiteCap = {
   id: "019e21f7-3b29-73cb-8b36-4fffb8b204f7",
-  pageTypeSlug: "temper-reagent",
   type: "temper-reagent",
   slug: "white-cap",
   title: "White Cap",

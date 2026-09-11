@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const pyreWatch = {
   id: "019e5a46-c447-708e-867e-18dea4743ed9",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "pyre-watch",
   title: "Pyre Watch",

@@ -2,7 +2,6 @@ import type { TemperRotationBreakdownRow } from "akasha/temper/progressions/temp
 
 export const healing = {
   id: "019e5d79-3e52-7c78-9ca0-3fb2c336ea7e",
-  pageTypeSlug: "temper-rotation-breakdown-row",
   type: "temper-rotation-breakdown-row",
   slug: "healing",
   title: "Healing",

@@ -2,7 +2,6 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const stinkhorn = {
   id: "019e21f7-3b25-713e-bb1a-86b2b005caf4",
-  pageTypeSlug: "temper-reagent",
   type: "temper-reagent",
   slug: "stinkhorn",
   title: "Stinkhorn",

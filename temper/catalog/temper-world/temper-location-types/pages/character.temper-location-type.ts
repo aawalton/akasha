@@ -2,7 +2,6 @@ import type { TemperLocationType } from "akasha/temper/catalog/temper-world/temp
 
 export const character = {
   id: "019e3103-2705-7edb-a0fc-a172e916fbbb",
-  pageTypeSlug: "temper-location-type",
   type: "temper-location-type",
   slug: "character",
   title: "Characters",

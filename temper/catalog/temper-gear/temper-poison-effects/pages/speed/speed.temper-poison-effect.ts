@@ -2,7 +2,6 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const speed = {
   id: "019e21f7-0f76-7c03-b681-748d33683851",
-  pageTypeSlug: "temper-poison-effect",
   type: "temper-poison-effect",
   slug: "speed",
   title: "Speed",

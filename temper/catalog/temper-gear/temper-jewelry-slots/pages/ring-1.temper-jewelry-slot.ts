@@ -2,7 +2,6 @@ import type { TemperJewelrySlot } from "akasha/temper/catalog/temper-gear/temper
 
 export const ring1 = {
   id: "019e4cb1-de17-775e-8622-d79fba19efd3",
-  pageTypeSlug: "temper-jewelry-slot",
   type: "temper-jewelry-slot",
   slug: "ring-1",
   title: "Ring 1",

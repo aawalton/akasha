@@ -2,7 +2,6 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const dragonsBile = {
   id: "019e21f7-3b14-71cb-989c-b634ad936d67",
-  pageTypeSlug: "temper-reagent",
   type: "temper-reagent",
   slug: "dragons-bile",
   title: "Dragon's Bile",

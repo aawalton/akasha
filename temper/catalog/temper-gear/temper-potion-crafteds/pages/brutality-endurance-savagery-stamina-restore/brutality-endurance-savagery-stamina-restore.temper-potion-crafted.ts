@@ -2,7 +2,6 @@ import type { TemperPotionCrafted } from "akasha/temper/catalog/temper-gear/temp
 
 export const brutalityEnduranceSavageryStaminaRestore = {
   id: "019e21f6-4056-7458-a358-6888e3680c5a",
-  pageTypeSlug: "temper-potion-crafted",
   type: "temper-potion-crafted",
   slug: "brutality-endurance-savagery-stamina-restore",
   title: "Essence of Weapon Power",

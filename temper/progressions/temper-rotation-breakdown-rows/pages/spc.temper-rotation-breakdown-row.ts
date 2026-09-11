@@ -2,7 +2,6 @@ import type { TemperRotationBreakdownRow } from "akasha/temper/progressions/temp
 
 export const spc = {
   id: "019e5d79-3e57-7096-8ad9-c35397f47c51",
-  pageTypeSlug: "temper-rotation-breakdown-row",
   type: "temper-rotation-breakdown-row",
   slug: "spc",
   title: "SPC",

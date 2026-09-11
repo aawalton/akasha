@@ -2,7 +2,6 @@ import type { TemperRuleGoal } from "akasha/temper/progressions/temper-rule-goal
 
 export const equip = {
   id: "01a071f5-ae74-70f2-a6cf-061afdb8c173",
-  pageTypeSlug: "temper-rule-goal",
   type: "temper-rule-goal",
   slug: "equip",
   title: "Equip",

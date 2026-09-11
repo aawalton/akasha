@@ -2,7 +2,6 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const fracture = {
   id: "019e21f7-0f68-75f6-9e3d-fc3dc0eeaa27",
-  pageTypeSlug: "temper-poison-effect",
   type: "temper-poison-effect",
   slug: "fracture",
   title: "Fracture",

@@ -2,7 +2,6 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const ladysSmock = {
   id: "019e21f7-3b1c-7253-87bc-fdf867a99938",
-  pageTypeSlug: "temper-reagent",
   type: "temper-reagent",
   slug: "ladys-smock",
   title: "Lady's Smock",

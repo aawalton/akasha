@@ -2,7 +2,6 @@ import type { TemperJewelryEnchant } from "akasha/temper/catalog/temper-gear/tem
 
 export const potionBoost = {
   id: "019e5c85-d962-7c52-8074-8d27ca9e6822",
-  pageTypeSlug: "temper-jewelry-enchant",
   type: "temper-jewelry-enchant",
   slug: "potion-boost",
   title: "Potion Boost",

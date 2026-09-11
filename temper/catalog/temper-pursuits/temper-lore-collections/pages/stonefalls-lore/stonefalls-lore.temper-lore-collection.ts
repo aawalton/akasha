@@ -2,7 +2,6 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuits
 
 export const stonefallsLore = {
   id: "01a06343-f9fa-70d7-8a8a-ee74811ed38c",
-  pageTypeSlug: "temper-lore-collection",
   type: "temper-lore-collection",
   slug: "stonefalls-lore",
   title: "Stonefalls Lore",

@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const ancestralNord = {
   id: "019e5a46-c453-737e-bfc4-60d87f69c103",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "ancestral-nord",
   title: "Ancestral Nord",

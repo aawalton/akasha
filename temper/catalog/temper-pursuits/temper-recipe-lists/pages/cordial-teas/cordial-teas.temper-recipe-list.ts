@@ -2,7 +2,6 @@ import type { TemperRecipeList } from "akasha/temper/catalog/temper-pursuits/tem
 
 export const cordialTeas = {
   id: "01a0626e-c111-7264-be07-c1044ab1f4b4",
-  pageTypeSlug: "temper-recipe-list",
   type: "temper-recipe-list",
   slug: "cordial-teas",
   title: "Cordial Teas",

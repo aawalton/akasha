@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const silverRose = {
   id: "019e5a46-c48c-7e5d-a9aa-73f6aa320c41",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "silver-rose",
   title: "Silver Rose",

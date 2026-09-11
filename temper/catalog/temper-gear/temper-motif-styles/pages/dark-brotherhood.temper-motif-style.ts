@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const darkBrotherhood = {
   id: "019e5a46-c3e0-7f87-aa94-5615d28fd39f",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "dark-brotherhood",
   title: "Dark Brotherhood",

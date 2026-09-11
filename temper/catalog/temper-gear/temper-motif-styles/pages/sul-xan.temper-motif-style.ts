@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const sulXan = {
   id: "019e5a46-c486-7deb-9fc0-fbe8dcf58196",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "sul-xan",
   title: "Sul-Xan",

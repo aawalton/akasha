@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const mazzatun = {
   id: "019e5a46-c3e6-7263-819f-1fd80702601a",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "mazzatun",
   title: "Mazzatun",

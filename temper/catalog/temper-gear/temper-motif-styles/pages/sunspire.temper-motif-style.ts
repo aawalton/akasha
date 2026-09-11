@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const sunspire = {
   id: "019e5a46-c432-7d49-9f34-2bb9e052b5c8",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "sunspire",
   title: "Sunspire",

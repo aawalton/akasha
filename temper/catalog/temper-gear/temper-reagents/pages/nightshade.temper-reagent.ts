@@ -2,7 +2,6 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const nightshade = {
   id: "019e21f7-3b20-7fa2-9748-abb3c5b67fee",
-  pageTypeSlug: "temper-reagent",
   type: "temper-reagent",
   slug: "nightshade",
   title: "Nightshade",

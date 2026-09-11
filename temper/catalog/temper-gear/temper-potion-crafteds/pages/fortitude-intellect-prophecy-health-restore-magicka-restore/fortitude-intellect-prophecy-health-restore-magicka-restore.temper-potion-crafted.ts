@@ -2,7 +2,6 @@ import type { TemperPotionCrafted } from "akasha/temper/catalog/temper-gear/temp
 
 export const fortitudeIntellectProphecyHealthRestoreMagickaRestore = {
   id: "019e21f6-405d-700c-8033-aab4d9498ed0",
-  pageTypeSlug: "temper-potion-crafted",
   type: "temper-potion-crafted",
   slug: "fortitude-intellect-prophecy-health-restore-magicka-restore",
   title: "Essence of Spell Critical",

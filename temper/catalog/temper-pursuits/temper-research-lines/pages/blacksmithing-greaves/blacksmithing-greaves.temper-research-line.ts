@@ -2,7 +2,6 @@ import type { TemperResearchLine } from "akasha/temper/catalog/temper-pursuits/t
 
 export const blacksmithingGreaves = {
   id: "01a0616b-2ce0-700b-854e-ed58ce247fe3",
-  pageTypeSlug: "temper-research-line",
   type: "temper-research-line",
   slug: "blacksmithing-greaves",
   title: "Greaves",

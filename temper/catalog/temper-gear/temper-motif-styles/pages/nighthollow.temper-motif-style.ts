@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const nighthollow = {
   id: "019e5a46-c46c-70f3-b49f-83f9887e1dae",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "nighthollow",
   title: "Nighthollow",

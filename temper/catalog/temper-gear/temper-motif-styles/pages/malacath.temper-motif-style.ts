@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const malacath = {
   id: "019e5a46-c3ba-7f3f-ba5a-bccc0bee726e",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "malacath",
   title: "Malacath",

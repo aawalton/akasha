@@ -2,7 +2,6 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const timidity = {
   id: "019e21f7-0f7e-76b2-9990-71d542447533",
-  pageTypeSlug: "temper-poison-effect",
   type: "temper-poison-effect",
   slug: "timidity",
   title: "Timidity",

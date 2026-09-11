@@ -2,7 +2,6 @@ import type { TemperPoisonEffect } from "akasha/temper/catalog/temper-gear/tempe
 
 export const defile = {
   id: "019e21f7-0f7c-7854-a0c1-63580dc90e94",
-  pageTypeSlug: "temper-poison-effect",
   type: "temper-poison-effect",
   slug: "defile",
   title: "Defile",

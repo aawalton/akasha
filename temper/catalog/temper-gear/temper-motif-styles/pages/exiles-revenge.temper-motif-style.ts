@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const exilesRevenge = {
   id: "019e5a46-c4ce-7a6d-8851-52d7fd0e9952",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "exiles-revenge",
   title: "Exile's Revenge",

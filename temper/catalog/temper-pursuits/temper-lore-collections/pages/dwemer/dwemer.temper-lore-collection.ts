@@ -2,7 +2,6 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuits
 
 export const dwemer = {
   id: "01a06343-f9fa-7079-b291-22dd8d434b26",
-  pageTypeSlug: "temper-lore-collection",
   type: "temper-lore-collection",
   slug: "dwemer",
   title: "Dwemer",

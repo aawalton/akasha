@@ -2,7 +2,6 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const nirnroot = {
   id: "019e21f7-3b21-7c57-8f17-5af0fa934677",
-  pageTypeSlug: "temper-reagent",
   type: "temper-reagent",
   slug: "nirnroot",
   title: "Nirnroot",

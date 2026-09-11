@@ -2,7 +2,6 @@ import type { TemperPotionCrafted } from "akasha/temper/catalog/temper-gear/temp
 
 export const enduranceIntellectHeroismMagickaRestoreStaminaRestore = {
   id: "019e21f6-4063-7fbc-a10b-e986b832e77f",
-  pageTypeSlug: "temper-potion-crafted",
   type: "temper-potion-crafted",
   slug: "endurance-intellect-heroism-magicka-restore-stamina-restore",
   title: "Essence of Magicka",

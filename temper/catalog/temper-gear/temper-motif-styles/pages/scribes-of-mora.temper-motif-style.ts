@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const scribesOfMora = {
   id: "019e5a46-c4b0-7808-b34c-a2b107e316ba",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "scribes-of-mora",
   title: "Scribes of Mora",

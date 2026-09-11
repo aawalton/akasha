@@ -2,7 +2,6 @@ import type { TemperRuleGoal } from "akasha/temper/progressions/temper-rule-goal
 
 export const destroy = {
   id: "01a071f5-ae73-7e72-b1b2-025070392cf0",
-  pageTypeSlug: "temper-rule-goal",
   type: "temper-rule-goal",
   slug: "destroy",
   title: "Destroy",

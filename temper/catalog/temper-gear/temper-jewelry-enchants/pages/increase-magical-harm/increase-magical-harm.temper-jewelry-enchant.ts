@@ -2,7 +2,6 @@ import type { TemperJewelryEnchant } from "akasha/temper/catalog/temper-gear/tem
 
 export const increaseMagicalHarm = {
   id: "019e5c85-d942-701a-886b-f0e90fb4751f",
-  pageTypeSlug: "temper-jewelry-enchant",
   type: "temper-jewelry-enchant",
   slug: "increase-magical-harm",
   title: "Increase Magical Harm",

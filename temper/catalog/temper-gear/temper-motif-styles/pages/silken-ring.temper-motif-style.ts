@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const silkenRing = {
   id: "019e5a46-c3e3-78a9-bd96-3e2ecc7ec310",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "silken-ring",
   title: "Silken Ring",

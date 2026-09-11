@@ -2,7 +2,6 @@ import type { TemperPotionDropped } from "akasha/temper/catalog/temper-gear/temp
 
 export const essenceOfPotentStamina = {
   id: "019e21f5-bdc0-7210-86f1-c72a0e82c699",
-  pageTypeSlug: "temper-potion-dropped",
   type: "temper-potion-dropped",
   slug: "essence-of-potent-stamina",
   title: "Essence of Potent Stamina",

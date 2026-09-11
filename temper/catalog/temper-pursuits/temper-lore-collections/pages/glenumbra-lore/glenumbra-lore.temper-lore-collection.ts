@@ -2,7 +2,6 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuits
 
 export const glenumbraLore = {
   id: "01a06343-f9f9-7000-9866-8c0c978d0cda",
-  pageTypeSlug: "temper-lore-collection",
   type: "temper-lore-collection",
   slug: "glenumbra-lore",
   title: "Glenumbra Lore",

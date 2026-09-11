@@ -2,7 +2,6 @@ import type { TemperRecipeList } from "akasha/temper/catalog/temper-pursuits/tem
 
 export const fruitDishes = {
   id: "01a0626e-c111-7f20-8052-b40e012fa131",
-  pageTypeSlug: "temper-recipe-list",
   type: "temper-recipe-list",
   slug: "fruit-dishes",
   title: "Fruit Dishes",

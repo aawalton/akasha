@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const ancestralHighElf = {
   id: "019e5a46-c456-7408-a953-bde6f5a84ac2",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "ancestral-high-elf",
   title: "Ancestral High Elf",

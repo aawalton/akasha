@@ -2,7 +2,6 @@ import type { TemperResearchLine } from "akasha/temper/catalog/temper-pursuits/t
 
 export const blacksmithingBattleAxe = {
   id: "01a0616b-2ce0-7003-aea6-f930a51dff09",
-  pageTypeSlug: "temper-research-line",
   type: "temper-research-line",
   slug: "blacksmithing-battle-axe",
   title: "Battle Axe",

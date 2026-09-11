@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const greymoor = {
   id: "019e5a46-c44d-734a-ae2f-108d0591d598",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "greymoor",
   title: "Greymoor",

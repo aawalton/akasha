@@ -2,7 +2,6 @@ import type { TemperPotionCrafted } from "akasha/temper/catalog/temper-gear/temp
 
 export const heroismVanishHealthRestore = {
   id: "019e21f6-4067-7a27-b972-2d109d92401f",
-  pageTypeSlug: "temper-potion-crafted",
   type: "temper-potion-crafted",
   slug: "heroism-vanish-health-restore",
   title: "Essence of Invisible",

@@ -2,7 +2,6 @@ import type { TemperQuality } from "akasha/temper/catalog/temper-gear/temper-qua
 
 export const epic = {
   id: "019e2fc4-de19-7eef-8453-c739d6f0f683",
-  pageTypeSlug: "temper-quality",
   type: "temper-quality",
   slug: "epic",
   title: "Epic",

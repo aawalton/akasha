@@ -2,7 +2,6 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const chaurusEgg = {
   id: "019e21f7-3b0c-7757-bdb2-01abe41fb21a",
-  pageTypeSlug: "temper-reagent",
   type: "temper-reagent",
   slug: "chaurus-egg",
   title: "Chaurus Egg",

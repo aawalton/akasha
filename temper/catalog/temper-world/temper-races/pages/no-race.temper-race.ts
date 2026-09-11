@@ -2,7 +2,6 @@ import type { TemperRace } from "akasha/temper/catalog/temper-world/temper-races
 
 export const noRace = {
   id: "019e2fc3-a982-7de1-8f83-c35c6c7957d5",
-  pageTypeSlug: "temper-race",
   type: "temper-race",
   slug: "no-race",
   title: "No Race",

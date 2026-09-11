@@ -2,7 +2,6 @@ import type { TemperQuality } from "akasha/temper/catalog/temper-gear/temper-qua
 
 export const noQuality = {
   id: "019e2fc4-de0e-7488-a429-384e5d0630eb",
-  pageTypeSlug: "temper-quality",
   type: "temper-quality",
   slug: "no-quality",
   title: "No Quality",

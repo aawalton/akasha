@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const xivkyn = {
   id: "019e5a46-c3b0-7117-8c48-cb911aa99af5",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "xivkyn",
   title: "Xivkyn",

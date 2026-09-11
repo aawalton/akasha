@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const ashlander = {
   id: "019e5a46-c3f0-7f85-96ad-0f3980c6e24f",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "ashlander",
   title: "Ashlander",

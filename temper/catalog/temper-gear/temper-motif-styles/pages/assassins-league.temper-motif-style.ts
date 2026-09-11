@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const assassinsLeague = {
   id: "019e5a46-c3cf-7a83-81ad-e48e57d26740",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "assassins-league",
   title: "Assassins League",

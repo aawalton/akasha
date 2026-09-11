@@ -2,7 +2,6 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuits
 
 export const malabalTorLore = {
   id: "01a06343-f9fa-70e2-ac1c-ccd90510810e",
-  pageTypeSlug: "temper-lore-collection",
   type: "temper-lore-collection",
   slug: "malabal-tor-lore",
   title: "Malabal Tor Lore",

@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const firesong = {
   id: "019e5a46-c4aa-77ed-98d5-24d3daa03b44",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "firesong",
   title: "Firesong",

@@ -2,7 +2,6 @@ import type { TemperRuleGoal } from "akasha/temper/progressions/temper-rule-goal
 
 export const hoard = {
   id: "01a071f5-ae75-700e-ba16-3d0dbd282cea",
-  pageTypeSlug: "temper-rule-goal",
   type: "temper-rule-goal",
   slug: "hoard",
   title: "Hoard",

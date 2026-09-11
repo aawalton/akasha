@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const meridian = {
   id: "019e5a46-c42a-75be-bae0-33dd5c1d3c65",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "meridian",
   title: "Meridian",

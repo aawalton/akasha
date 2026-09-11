@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const akaviri = {
   id: "019e5a46-c3a3-76fe-8d73-a4f54445187a",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "akaviri",
   title: "Akaviri",

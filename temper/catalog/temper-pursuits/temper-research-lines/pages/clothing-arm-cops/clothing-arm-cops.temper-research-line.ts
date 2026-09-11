@@ -2,7 +2,6 @@ import type { TemperResearchLine } from "akasha/temper/catalog/temper-pursuits/t
 
 export const clothingArmCops = {
   id: "01a0616b-2ce1-7006-928c-8caa45505af9",
-  pageTypeSlug: "temper-research-line",
   type: "temper-research-line",
   slug: "clothing-arm-cops",
   title: "Arm Cops",

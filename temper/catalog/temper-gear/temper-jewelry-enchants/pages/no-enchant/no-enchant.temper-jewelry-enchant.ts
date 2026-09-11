@@ -2,7 +2,6 @@ import type { TemperJewelryEnchant } from "akasha/temper/catalog/temper-gear/tem
 
 export const noEnchant = {
   id: "019e5c85-d93a-7ad5-92d7-1e6c2fb01b64",
-  pageTypeSlug: "temper-jewelry-enchant",
   type: "temper-jewelry-enchant",
   slug: "no-enchant",
   title: "No Enchant",

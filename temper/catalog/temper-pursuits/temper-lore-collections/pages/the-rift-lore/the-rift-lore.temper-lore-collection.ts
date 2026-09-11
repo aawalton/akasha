@@ -2,7 +2,6 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuits
 
 export const theRiftLore = {
   id: "01a06343-f9fa-7103-9bb8-8e970ee0e26f",
-  pageTypeSlug: "temper-lore-collection",
   type: "temper-lore-collection",
   slug: "the-rift-lore",
   title: "The Rift Lore",

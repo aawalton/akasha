@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const honorGuard = {
   id: "019e5a46-c41f-73eb-a080-d91401b88c50",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "honor-guard",
   title: "Honor Guard",

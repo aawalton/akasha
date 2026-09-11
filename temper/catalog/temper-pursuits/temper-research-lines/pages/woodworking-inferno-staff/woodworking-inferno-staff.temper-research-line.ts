@@ -2,7 +2,6 @@ import type { TemperResearchLine } from "akasha/temper/catalog/temper-pursuits/t
 
 export const woodworkingInfernoStaff = {
   id: "01a0616b-2ce1-700a-844b-c96ef8f46c08",
-  pageTypeSlug: "temper-research-line",
   type: "temper-research-line",
   slug: "woodworking-inferno-staff",
   title: "Inferno Staff",

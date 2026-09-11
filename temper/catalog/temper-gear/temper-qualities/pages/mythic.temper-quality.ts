@@ -2,7 +2,6 @@ import type { TemperQuality } from "akasha/temper/catalog/temper-gear/temper-qua
 
 export const mythic = {
   id: "019e2fc4-de1e-725f-99b3-94c57a242948",
-  pageTypeSlug: "temper-quality",
   type: "temper-quality",
   slug: "mythic",
   title: "Mythic",

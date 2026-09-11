@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const glass = {
   id: "019e5a46-c3a9-7fd6-8485-33f9cb77bcfe",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "glass",
   title: "Glass",

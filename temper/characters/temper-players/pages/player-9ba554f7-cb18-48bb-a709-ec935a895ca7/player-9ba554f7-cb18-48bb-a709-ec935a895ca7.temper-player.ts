@@ -2,7 +2,6 @@ import type { TemperPlayer } from "akasha/temper/characters/temper-players/tempe
 
 export const player9ba554f7Cb1848bbA709Ec935a895ca7 = {
   id: "01a05fda-9354-7712-90ec-1c69cd0bf9f7",
-  pageTypeSlug: "temper-player",
   type: "temper-player",
   slug: "player-9ba554f7-cb18-48bb-a709-ec935a895ca7",
   title: "9ba554f7-cb18-48bb-a709-ec935a895ca7",

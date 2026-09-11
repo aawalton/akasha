@@ -2,7 +2,6 @@ import type { TemperQuestGiver } from "akasha/temper/catalog/temper-world/temper
 
 export const urgarlagChiefBane = {
   id: "019e121f-c744-7eee-8487-370f70f4a93d",
-  pageTypeSlug: "temper-quest-giver",
   type: "temper-quest-giver",
   slug: "urgarlag-chief-bane",
   title: "Urgarlag Chief-bane",

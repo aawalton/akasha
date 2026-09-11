@@ -2,7 +2,6 @@ import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-
 
 export const ebonheartPact = {
   id: "019e5a46-c3c5-70f9-8e30-f19a68a574d6",
-  pageTypeSlug: "temper-motif-style",
   type: "temper-motif-style",
   slug: "ebonheart-pact",
   title: "Ebonheart Pact",

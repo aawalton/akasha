@@ -2,7 +2,6 @@ import type { TemperMine } from "akasha/temper/characters/temper-mines/temper-mi
 
 export const eso = {
   id: "01a01d1a-a9eb-7000-aece-4fc7f8d2be92",
-  pageTypeSlug: "temper-mine",
   type: "temper-mine",
   slug: "eso",
   title: "ESO",

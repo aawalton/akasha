@@ -2,7 +2,6 @@ import type { TemperResearchLine } from "akasha/temper/catalog/temper-pursuits/t
 
 export const woodworkingShield = {
   id: "01a0616b-2ce1-700e-a152-853421cd2318",
-  pageTypeSlug: "temper-research-line",
   type: "temper-research-line",
   slug: "woodworking-shield",
   title: "Shield",

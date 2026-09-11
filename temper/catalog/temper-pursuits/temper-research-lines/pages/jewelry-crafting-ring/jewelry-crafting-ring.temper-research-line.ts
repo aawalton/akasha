@@ -2,7 +2,6 @@ import type { TemperResearchLine } from "akasha/temper/catalog/temper-pursuits/t
 
 export const jewelryCraftingRing = {
   id: "01a0616b-2ce1-7010-8ff6-7a252a2d62fd",
-  pageTypeSlug: "temper-research-line",
   type: "temper-research-line",
   slug: "jewelry-crafting-ring",
   title: "Ring",
