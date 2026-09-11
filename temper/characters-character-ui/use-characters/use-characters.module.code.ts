@@ -20,8 +20,8 @@ import {
   mapBuildRow,
 } from "akasha/temper/build-support/build-row/build-row.module.code.ts"
 import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
+import type { SettableBuildVisibility } from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
 import { createNewCharacter } from "akasha/temper/character-build/build-factory/build-factory.module.code.ts"
-import type { CharacterVisibility } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import {
   type RoleId,
   characterRoles as roles,
@@ -152,7 +152,7 @@ export function useCharacter(buildId: string) {
     })
   }
 
-  const setVisibility = async (visibility: Exclude<CharacterVisibility, "live" | "target">) => {
+  const setVisibility = async (visibility: SettableBuildVisibility) => {
     await runPatch({
       pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
       where: [{ key: "id", eq: buildId }],

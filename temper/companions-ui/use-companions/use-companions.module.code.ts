@@ -19,6 +19,7 @@ import {
   mapBuildRow,
 } from "akasha/temper/build-support/build-row/build-row.module.code.ts"
 import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
+import type { SettableBuildVisibility } from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
 import { encodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import {
   type CompanionBaseRoleId,
@@ -29,7 +30,6 @@ import {
   type CompanionRoleId,
   companionRoles,
 } from "akasha/temper/companions-core/companion-roles/companion-roles.module.code.ts"
-import type { CompanionVisibility } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { useMemo, useState } from "react"
@@ -156,7 +156,7 @@ export function useCompanion(buildId: string) {
     })
   }
 
-  const setVisibility = async (visibility: Exclude<CompanionVisibility, "live" | "target">) => {
+  const setVisibility = async (visibility: SettableBuildVisibility) => {
     await runPatch({
       pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
       where: [{ key: "id", eq: buildId }],

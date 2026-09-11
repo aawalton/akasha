@@ -17,9 +17,9 @@ import {
   applyCharacterMetadata,
   applyCompanionMetadata,
 } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+import { toBuildVisibility } from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
 import { createEmptyCharacter } from "akasha/temper/character-build/build-factory/build-factory.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
-import { toCharacterVisibility } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import { skills } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
 import { setsAll } from "akasha/temper/characters-equipment/sets-all/sets-all.module.code.ts"
 import {
@@ -27,7 +27,6 @@ import {
   encodeCompanion,
 } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { createEmptyCompanion } from "akasha/temper/companions-core/companion-factory/companion-factory.module.code.ts"
-import { toVisibility } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   buildHash as toBuildHash,
   buildId as toBuildId,
@@ -209,7 +208,7 @@ async function loadCharacterDetail(page: Record<string, unknown>, request: Reque
       initialBuild,
       initialBuildHash,
       isOwner,
-      initialVisibility: toCharacterVisibility(visibility),
+      initialVisibility: toBuildVisibility(visibility),
       isTargetBuild,
       decodeFailed,
     },
@@ -267,7 +266,7 @@ async function loadCompanionDetail(page: Record<string, unknown>, request: Reque
       initialBuild,
       initialBuildHash,
       isOwner,
-      initialVisibility: toVisibility(visibility),
+      initialVisibility: toBuildVisibility(visibility),
       isTargetBuild,
       decodeFailed,
     },

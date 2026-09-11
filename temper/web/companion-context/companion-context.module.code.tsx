@@ -5,14 +5,14 @@ import {
   type CompanionBuildMetadata,
 } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import {
+  type BuildVisibility,
+  toBuildVisibility,
+} from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
+import {
   decodeCompanion,
   encodeCompanion,
 } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
-import {
-  type CompanionState,
-  type CompanionVisibility,
-  toVisibility,
-} from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import { useCompanion as useCompanionZero } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
@@ -35,7 +35,7 @@ interface CompanionProviderProps {
   initialBuildHash: string
   buildId: BuildId
   isOwner: boolean
-  initialVisibility: CompanionVisibility
+  initialVisibility: BuildVisibility
   isTargetBuild: boolean
 }
 
@@ -111,7 +111,7 @@ export function CompanionProvider({
     extractMetadata: extractMetadataForSync,
   })
 
-  const visibility = zeroRow ? toVisibility(zeroRow.visibility) : initialVisibility
+  const visibility = zeroRow ? toBuildVisibility(zeroRow.visibility) : initialVisibility
   const name = zeroBuildMetadata?.name ?? initialBuild.name
   const description = zeroBuildMetadata?.description ?? initialBuild.description
 

@@ -1,9 +1,7 @@
 "use client"
 
-import type {
-  CharacterState,
-  CharacterVisibility,
-} from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import type { BuildVisibility } from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import type { Skill } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
@@ -16,7 +14,7 @@ interface CharacterEditorProps {
   initialBuild: CharacterState
   initialBuildHash: string
   isOwner: boolean
-  initialVisibility: CharacterVisibility
+  initialVisibility: BuildVisibility
   isTargetBuild: boolean
   availableSkills: readonly Skill[]
   availableSets: readonly SetsAll[]

@@ -9,10 +9,11 @@ import {
   type CharacterBuildMetadata,
 } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import {
-  type CharacterState,
-  type CharacterVisibility,
-  toCharacterVisibility,
-} from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+  type BuildVisibility,
+  type SettableBuildVisibility,
+  toBuildVisibility,
+} from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import type { Skill } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
 import { useCharacter as useCharacterZero } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
@@ -31,11 +32,11 @@ export const CharacterDispatchContext = createContext<React.Dispatch<CharacterAc
 export interface CharacterMetadata {
   buildId: BuildId
   isOwner: boolean
-  visibility: CharacterVisibility
+  visibility: BuildVisibility
   isTargetBuild: boolean
   name: string
   description: string
-  setVisibility: (v: Exclude<CharacterVisibility, "live" | "target">) => void
+  setVisibility: (v: SettableBuildVisibility) => void
   updateMeta: (meta: {
     name?: string
     description?: string
@@ -54,7 +55,7 @@ interface CharacterProviderProps {
   initialBuildHash: string
   buildId: BuildId
   isOwner: boolean
-  initialVisibility: CharacterVisibility
+  initialVisibility: BuildVisibility
   isTargetBuild: boolean
   availableSkills: readonly Skill[]
   availableSets: readonly SetsAll[]
@@ -134,7 +135,7 @@ export function CharacterProvider({
     extractMetadata: extractMetadataForSync,
   })
 
-  const visibility = zeroRow ? toCharacterVisibility(zeroRow.visibility) : initialVisibility
+  const visibility = zeroRow ? toBuildVisibility(zeroRow.visibility) : initialVisibility
   const name = zeroBuildMetadata?.name ?? initialBuild.name
   const description = zeroBuildMetadata?.description ?? initialBuild.description
 

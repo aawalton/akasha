@@ -72,11 +72,3 @@ export interface CharacterState {
     esoPlus: EsoPlusId
   }
 }
-
-export type CharacterVisibility = "private" | "unlisted" | "public" | "live" | "target"
-
-export function toCharacterVisibility(value: string | undefined): CharacterVisibility {
-  if (value === "public" || value === "unlisted" || value === "live" || value === "target")
-    return value
-  return "private"
-}

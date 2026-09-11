@@ -44,14 +44,6 @@ export type CompanionWeaponSlotItem =
   | { itemType: "weapon"; data: CompanionWeaponItem }
   | { itemType: "empty"; data: null }
 
-export type CompanionVisibility = "private" | "unlisted" | "public" | "live" | "target"
-
-export function toVisibility(value: string | undefined): CompanionVisibility {
-  if (value === "public" || value === "unlisted" || value === "live" || value === "target")
-    return value
-  return "private"
-}
-
 export type CompanionTargetArmorId = TargetArmorId
 
 export type CompanionTargetHealthId = "full" | "execute"

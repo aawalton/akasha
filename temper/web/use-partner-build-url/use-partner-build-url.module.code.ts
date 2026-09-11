@@ -1,5 +1,5 @@
 import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
-import type { CharacterVisibility } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import type { BuildVisibility } from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
 import type { useCharacterList } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import type { useCompletionCharacters } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
@@ -9,7 +9,7 @@ type CompletionCharacters = ReturnType<typeof useCompletionCharacters>["characte
 type CharacterBuilds = ReturnType<typeof useCharacterList>["builds"]
 
 export function usePartnerBuildUrl(
-  visibility: CharacterVisibility | undefined,
+  visibility: BuildVisibility | undefined,
   buildId: string,
   completionCharacters: CompletionCharacters,
   characterBuilds: CharacterBuilds

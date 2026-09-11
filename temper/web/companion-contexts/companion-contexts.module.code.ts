@@ -1,9 +1,10 @@
 "use client"
 
 import type {
-  CompanionState,
-  CompanionVisibility,
-} from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
+  BuildVisibility,
+  SettableBuildVisibility,
+} from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/branded-id/branded-id.module.code.ts"
 import type { CompanionAction } from "akasha/temper/web/companion-actions/companion-actions.module.code.ts"
 import { createContext } from "react"
@@ -15,11 +16,11 @@ export const CompanionDispatchContext = createContext<React.Dispatch<CompanionAc
 export interface CompanionMetadata {
   buildId: BuildId
   isOwner: boolean
-  visibility: CompanionVisibility
+  visibility: BuildVisibility
   isTargetBuild: boolean
   name: string
   description: string
-  setVisibility: (v: Exclude<CompanionVisibility, "live" | "target">) => void
+  setVisibility: (v: SettableBuildVisibility) => void
   updateMeta: (meta: { name?: string; description?: string; targetCount?: number }) => void
 }
 

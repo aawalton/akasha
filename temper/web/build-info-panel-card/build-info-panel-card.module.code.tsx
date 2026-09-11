@@ -11,7 +11,7 @@ import {
 } from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
-import { toCharacterVisibility } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import { toBuildVisibility } from "akasha/temper/build-support/build-visibility/build-visibility.module.code.ts"
 import { useCharacterMetadata } from "akasha/temper/web/use-character/use-character.module.code.ts"
 import { useEffect, useState } from "react"
 
@@ -79,7 +79,7 @@ export function BuildInfoPanelCard({
           <Select
             value={visibility}
             onValueChange={(v) => {
-              const parsed = toCharacterVisibility(v)
+              const parsed = toBuildVisibility(v)
               if (parsed !== "live" && parsed !== "target") setVisibility(parsed)
             }}
             disabled={readOnly}
