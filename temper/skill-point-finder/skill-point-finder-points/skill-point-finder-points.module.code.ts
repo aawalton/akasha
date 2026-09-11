@@ -1,15 +1,15 @@
-import { GAME_DATA } from "../skill-point-finder-game-data/skill-point-finder-game-data.module.code.ts"
-import { updateGuiTable } from "../skill-point-finder-gui-table/skill-point-finder-gui-table.module.code.ts"
-import { questCompleted } from "../skill-point-finder-helpers/skill-point-finder-helpers.module.code.ts"
+import { GAME_DATA } from "akasha/temper/skill-point-finder/skill-point-finder-game-data/skill-point-finder-game-data.module.code.ts"
+import { updateGuiTable } from "akasha/temper/skill-point-finder/skill-point-finder-gui-table/skill-point-finder-gui-table.module.code.ts"
+import { questCompleted } from "akasha/temper/skill-point-finder/skill-point-finder-helpers/skill-point-finder-helpers.module.code.ts"
 import {
   requireSVar,
   STATE,
-} from "../skill-point-finder-state/skill-point-finder-state.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-state/skill-point-finder-state.module.code.ts"
 import type {
   PointsData,
   PointTotals,
   Settings,
-} from "../skill-point-finder-types/skill-point-finder-types.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-types/skill-point-finder-types.module.code.ts"
 
 export function calculateTotalPoints(this: void): PointTotals {
   let quests = 0

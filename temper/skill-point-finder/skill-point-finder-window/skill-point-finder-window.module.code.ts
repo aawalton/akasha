@@ -1,7 +1,7 @@
 import {
   LIST_DATA_TYPE,
   LIST_SEPARATOR_TYPE,
-} from "../skill-point-finder-constants/skill-point-finder-constants.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-constants/skill-point-finder-constants.module.code.ts"
 import {
   type ListLine,
   setupGdqItem,
@@ -9,13 +9,13 @@ import {
   setupSqsItem,
   type UspfRowControl,
   updateDataLines,
-} from "../skill-point-finder-data-lines/skill-point-finder-data-lines.module.code.ts"
-import { refreshData } from "../skill-point-finder-points/skill-point-finder-points.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-data-lines/skill-point-finder-data-lines.module.code.ts"
+import { refreshData } from "akasha/temper/skill-point-finder/skill-point-finder-points/skill-point-finder-points.module.code.ts"
 import {
   requireGui,
   requireOptions,
   STATE,
-} from "../skill-point-finder-state/skill-point-finder-state.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-state/skill-point-finder-state.module.code.ts"
 
 export function toggleWindow(this: void): undefined {
   STATE.active = !STATE.active

@@ -1,9 +1,9 @@
-import { GAME_DATA } from "../skill-point-finder-game-data/skill-point-finder-game-data.module.code.ts"
-import { getSV } from "../skill-point-finder-helpers/skill-point-finder-helpers.module.code.ts"
+import { GAME_DATA } from "akasha/temper/skill-point-finder/skill-point-finder-game-data/skill-point-finder-game-data.module.code.ts"
+import { getSV } from "akasha/temper/skill-point-finder/skill-point-finder-helpers/skill-point-finder-helpers.module.code.ts"
 import {
   requirePtsTots,
   STATE,
-} from "../skill-point-finder-state/skill-point-finder-state.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-state/skill-point-finder-state.module.code.ts"
 import {
   getGDQuestTooltipText,
   getMainQuestTooltip,
@@ -13,13 +13,13 @@ import {
   getTooltipPvPRank,
   getZoneName,
   getZoneTooltipText,
-} from "../skill-point-finder-tooltips/skill-point-finder-tooltips.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-tooltips/skill-point-finder-tooltips.module.code.ts"
 import type {
   DungeonRow,
   GeneralRow,
   PointsData,
   QuestSkyshardRow,
-} from "../skill-point-finder-types/skill-point-finder-types.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-types/skill-point-finder-types.module.code.ts"
 
 export function updateGuiTable(this: void, sVarPtsData: PointsData): undefined {
   const tots = requirePtsTots()

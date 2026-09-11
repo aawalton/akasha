@@ -4,11 +4,11 @@ import {
   requireOptions,
   requireSVar,
   STATE,
-} from "../skill-point-finder-state/skill-point-finder-state.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-state/skill-point-finder-state.module.code.ts"
 import type {
   Rgb,
   Settings,
-} from "../skill-point-finder-types/skill-point-finder-types.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-types/skill-point-finder-types.module.code.ts"
 
 function fontInfo(this: void, font: FontObject): string {
   const [face] = font.GetFontInfo()

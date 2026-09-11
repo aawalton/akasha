@@ -1,13 +1,13 @@
-import { checkSavedVars } from "../skill-point-finder-points/skill-point-finder-points.module.code.ts"
+import { checkSavedVars } from "akasha/temper/skill-point-finder/skill-point-finder-points/skill-point-finder-points.module.code.ts"
 import {
   requireSVar,
   STATE,
-} from "../skill-point-finder-state/skill-point-finder-state.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-state/skill-point-finder-state.module.code.ts"
 import type {
   PointsData,
   Rgb,
   Settings,
-} from "../skill-point-finder-types/skill-point-finder-types.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-types/skill-point-finder-types.module.code.ts"
 
 interface LegacySettings extends Settings {
   MWC?: boolean

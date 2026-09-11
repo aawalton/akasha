@@ -1,4 +1,4 @@
-import type { Rgb } from "../skill-point-finder-types/skill-point-finder-types.module.code.ts"
+import type { Rgb } from "akasha/temper/skill-point-finder/skill-point-finder-types/skill-point-finder-types.module.code.ts"
 
 export function redText(this: void, text: string | number): string {
   return `|cFF0000${tostring(text)}|r`

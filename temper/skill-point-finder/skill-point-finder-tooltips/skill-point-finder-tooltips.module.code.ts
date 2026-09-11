@@ -1,19 +1,19 @@
 import {
   colorCompletion,
   formatQuestName,
-} from "../skill-point-finder-colors/skill-point-finder-colors.module.code.ts"
-import { GAME_DATA } from "../skill-point-finder-game-data/skill-point-finder-game-data.module.code.ts"
-import { questCompleted } from "../skill-point-finder-helpers/skill-point-finder-helpers.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-colors/skill-point-finder-colors.module.code.ts"
+import { GAME_DATA } from "akasha/temper/skill-point-finder/skill-point-finder-game-data/skill-point-finder-game-data.module.code.ts"
+import { questCompleted } from "akasha/temper/skill-point-finder/skill-point-finder-helpers/skill-point-finder-helpers.module.code.ts"
 import {
   requirePtsTots,
   requireSVar,
   STATE,
-} from "../skill-point-finder-state/skill-point-finder-state.module.code.ts"
-import type { ZoneData } from "../skill-point-finder-types/skill-point-finder-types.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-state/skill-point-finder-state.module.code.ts"
+import type { ZoneData } from "akasha/temper/skill-point-finder/skill-point-finder-types/skill-point-finder-types.module.code.ts"
 import type {
   GroupDungeonEntry,
   PublicDungeonEntry,
-} from "../skill-point-sources/skill-point-sources.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-sources/skill-point-sources.module.code.ts"
 
 function progressVsTotal(this: void, points: number | string, total: number): string {
   const complete = typeof points === "number" && points >= total

@@ -6,7 +6,7 @@ import type {
   PointTotals,
   SavedVariablesData,
   Settings,
-} from "../skill-point-finder-types/skill-point-finder-types.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-types/skill-point-finder-types.module.code.ts"
 
 export function buildDefaultSettings(this: void): Settings {
   return {

@@ -1,4 +1,4 @@
-import { resetSelectedCharacter } from "../skill-point-finder-char-list/skill-point-finder-char-list.module.code.ts"
+import { resetSelectedCharacter } from "akasha/temper/skill-point-finder/skill-point-finder-char-list/skill-point-finder-char-list.module.code.ts"
 
 export function skillPointsUpdate(this: void): undefined {
   resetSelectedCharacter()

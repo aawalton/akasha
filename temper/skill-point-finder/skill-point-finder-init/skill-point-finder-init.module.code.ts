@@ -1,12 +1,12 @@
-import "../skill-point-finder-api/skill-point-finder-api.module.code.ts"
+import "akasha/temper/skill-point-finder/skill-point-finder-api/skill-point-finder-api.module.code.ts"
 
-import { initSetup } from "../skill-point-finder-char-list/skill-point-finder-char-list.module.code.ts"
+import { initSetup } from "akasha/temper/skill-point-finder/skill-point-finder-char-list/skill-point-finder-char-list.module.code.ts"
 import {
   ADDON_NAME,
   SAVED_VARIABLES_NAME,
   SAVED_VARIABLES_VERSION,
   SLASH_COMMAND,
-} from "../skill-point-finder-constants/skill-point-finder-constants.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-constants/skill-point-finder-constants.module.code.ts"
 import {
   achComplete,
   levelUp,
@@ -14,23 +14,23 @@ import {
   playerDeactivated,
   questRemoved,
   skillPointsUpdate,
-} from "../skill-point-finder-events/skill-point-finder-events.module.code.ts"
-import { setupMenu } from "../skill-point-finder-menu/skill-point-finder-menu.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-events/skill-point-finder-events.module.code.ts"
+import { setupMenu } from "akasha/temper/skill-point-finder/skill-point-finder-menu/skill-point-finder-menu.module.code.ts"
 import {
   loadSettings,
   migrateSavedVariables,
-} from "../skill-point-finder-saved-state/skill-point-finder-saved-state.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-saved-state/skill-point-finder-saved-state.module.code.ts"
 import {
   buildDefaultSavedVariables,
   STATE,
-} from "../skill-point-finder-state/skill-point-finder-state.module.code.ts"
-import { registerStrings } from "../skill-point-finder-strings/skill-point-finder-strings.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-state/skill-point-finder-state.module.code.ts"
+import { registerStrings } from "akasha/temper/skill-point-finder/skill-point-finder-strings/skill-point-finder-strings.module.code.ts"
 import {
   badSlash,
   helpSlash,
   setupValues,
   toggleWindow,
-} from "../skill-point-finder-window/skill-point-finder-window.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-finder-window/skill-point-finder-window.module.code.ts"
 
 registerStrings()
 

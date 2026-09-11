@@ -2,7 +2,7 @@ import type {
   GroupDungeonEntry,
   PublicDungeonEntry,
   Tutorials,
-} from "../skill-point-sources/skill-point-sources.module.code.ts"
+} from "akasha/temper/skill-point-finder/skill-point-sources/skill-point-sources.module.code.ts"
 
 export type Rgb = number[]
 
