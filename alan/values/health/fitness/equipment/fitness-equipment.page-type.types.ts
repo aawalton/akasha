@@ -1,18 +1,18 @@
-import type { EquipmentAvailable } from "akasha/alan/values/health/fitness/equipment/properties/equipment-available.boolean-property.types.ts"
-import type { EquipmentCategory } from "akasha/alan/values/health/fitness/equipment/properties/equipment-category.select-property.types.ts"
-import type { EquipmentConfiguration } from "akasha/alan/values/health/fitness/equipment/properties/equipment-configuration.select-property.types.ts"
-import type { EquipmentLoads } from "akasha/alan/values/health/fitness/equipment/properties/equipment-loads.number-property.types.ts"
-import type { EquipmentNotes } from "akasha/alan/values/health/fitness/equipment/properties/equipment-notes.text-property.types.ts"
-import type { EquipmentSortOrder } from "akasha/alan/values/health/fitness/equipment/properties/equipment-sort-order.number-property.types.ts"
+import type { FitnessEquipmentAvailable } from "akasha/alan/values/health/fitness/equipment/properties/fitness-equipment-available.boolean-property.types.ts"
+import type { FitnessEquipmentCategory } from "akasha/alan/values/health/fitness/equipment/properties/fitness-equipment-category.select-property.types.ts"
+import type { FitnessEquipmentConfiguration } from "akasha/alan/values/health/fitness/equipment/properties/fitness-equipment-configuration.select-property.types.ts"
+import type { FitnessEquipmentLoads } from "akasha/alan/values/health/fitness/equipment/properties/fitness-equipment-loads.number-property.types.ts"
+import type { FitnessEquipmentNotes } from "akasha/alan/values/health/fitness/equipment/properties/fitness-equipment-notes.text-property.types.ts"
+import type { FitnessEquipmentSortOrder } from "akasha/alan/values/health/fitness/equipment/properties/fitness-equipment-sort-order.number-property.types.ts"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { Title } from "akasha/pages/properties/title.text-property.types.ts"
 
 export type FitnessEquipment = Page & {
   title: Title
-  category: EquipmentCategory
-  configuration: EquipmentConfiguration
-  available: EquipmentAvailable
-  loads?: EquipmentLoads
-  notes?: EquipmentNotes
-  sortOrder?: EquipmentSortOrder
+  category: FitnessEquipmentCategory
+  configuration: FitnessEquipmentConfiguration
+  available: FitnessEquipmentAvailable
+  loads?: FitnessEquipmentLoads
+  notes?: FitnessEquipmentNotes
+  sortOrder?: FitnessEquipmentSortOrder
 }

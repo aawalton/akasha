@@ -1,10 +1,10 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export const equipmentLoads = {
+export const fitnessEquipmentLoads = {
   id: "01a06865-7f45-7d1f-b0db-1e4af78cdf9c",
   pageTypeSlug: "number-property",
   type: "number-property",
-  slug: "equipment-loads",
+  slug: "fitness-equipment-loads",
   propertySlug: "loads",
   definition: "the weights a piece of kit is available at, in pounds",
   max: null,

@@ -1,3 +1,3 @@
 import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
-export type EquipmentLoads = List<number>
+export type FitnessEquipmentLoads = List<number>
