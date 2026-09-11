@@ -158,15 +158,29 @@ function indexAt(): string {
   return under
 }
 
+const FILING = [UNDER]
+
 test("a file at the index's own top is taken away and the index's folders are left", () => {
   const under = indexAt()
   writeFileSync(join(under, STAMP), "{}\n")
   writing(under, AT, "{}\n")
 
-  const taken = sweptBeside(under, true)
+  const taken = sweptBeside(under, true, FILING)
 
   expect(taken).toEqual([join(under, STAMP)])
   expect(existsSync(join(under, STAMP))).toBe(false)
+  expect(bodyAt(under, AT)).toBe("{}\n")
+})
+
+test("a folder at the index's own top that no index names goes away whole", () => {
+  const under = indexAt()
+  writing(under, AT, "{}\n")
+  writing(under, "gone/deep/one.jsonl", "{}\n")
+
+  const taken = sweptBeside(under, true, FILING)
+
+  expect(taken).toEqual([join(under, "gone")])
+  expect(existsSync(join(under, "gone"))).toBe(false)
   expect(bodyAt(under, AT)).toBe("{}\n")
 })
 
@@ -176,7 +190,7 @@ test("a folder beside the index opening with the index's name and a dot goes, an
   writing(beside, "indexes.refreshing.1/held/one.jsonl", "{}\n")
   writing(beside, "index/one.jsonl", "{}\n")
 
-  const taken = sweptBeside(under, true)
+  const taken = sweptBeside(under, true, FILING)
 
   expect(taken).toEqual([join(beside, "indexes.refreshing.1")])
   expect(existsSync(join(beside, "indexes.refreshing.1"))).toBe(false)
@@ -186,7 +200,7 @@ test("a folder beside the index opening with the index's name and a dot goes, an
 test("an index that is not there yet sweeps nothing rather than refusing", () => {
   const root = scratch.rootFor("akasha-swept-")
 
-  expect(sweptBeside(indexIn(root), true)).toEqual([])
+  expect(sweptBeside(indexIn(root), true, FILING)).toEqual([])
 })
 
 test("a root under any other name sweeps nothing, so a test's scratch is safe", () => {
@@ -195,7 +209,7 @@ test("a root under any other name sweeps nothing, so a test's scratch is safe", 
   writing(under, "one.jsonl", "{}\n")
   writing(root, "indexes.other/one.jsonl", "{}\n")
 
-  const taken = sweptBeside(under, true)
+  const taken = sweptBeside(under, true, FILING)
 
   expect(taken).toEqual([])
   expect(bodyAt(under, "one.jsonl")).toBe("{}\n")
@@ -208,7 +222,7 @@ test("a sweep putting nothing in place answers the paths and leaves them where t
   writeFileSync(join(under, STAMP), "{}\n")
   writing(beside, "indexes.refreshing.1/held/one.jsonl", "{}\n")
 
-  const taken = sweptBeside(under, false)
+  const taken = sweptBeside(under, false, FILING)
 
   expect(taken).toEqual([join(beside, "indexes.refreshing.1"), join(under, STAMP)].sort())
   expect(existsSync(join(under, STAMP))).toBe(true)

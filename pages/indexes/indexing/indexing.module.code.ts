@@ -67,6 +67,8 @@ const RULE = indexRule.name
 
 const VALUE = indexValue.name
 
+const FILING = [DECLARING_UNDER, IDENTITY, IMPORT, LISTED_UNDER, PATH, RELATION, RULE, VALUE]
+
 type Pending = {
   readonly before: string | null
   readonly after: string | null
@@ -169,7 +171,7 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
 
 export function rebuiltWhole(repo: string, tree: string, put: boolean): Rebuilt {
   const root = indexIn(repo)
-  const swept = sweptBeside(root, put)
+  const swept = sweptBeside(root, put, FILING)
   return { ...rebuiltFrom(tree, root, repo, put), swept }
 }
 

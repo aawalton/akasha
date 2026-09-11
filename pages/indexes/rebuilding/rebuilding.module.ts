@@ -85,6 +85,14 @@ export const rebuilding = {
     },
     {
       invariantKind: "departure",
+      statement: "The names the indexes file under are handed to the sweep.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder at the index's own top under none of those names is taken away whole.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A folder beside the index whose name opens with the index's name and a dot is swept too.",
     },

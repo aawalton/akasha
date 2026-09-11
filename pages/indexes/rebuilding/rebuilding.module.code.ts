@@ -77,13 +77,18 @@ export function keepDelta(at: string, one: Filing, root: string): undefined {
   keepWhole(at, lines, root)
 }
 
-export function sweptBeside(root: string, put: boolean): readonly string[] {
+export function sweptBeside(
+  root: string,
+  put: boolean,
+  named: readonly string[]
+): readonly string[] {
   if (basename(root) !== INDEX || !existsSync(root)) return []
+  const filing = new Set(named)
   const taken: string[] = []
   for (const one of readdirSync(root, { withFileTypes: true })) {
-    if (one.isDirectory()) continue
+    if (one.isDirectory() && filing.has(one.name)) continue
     const at = join(root, one.name)
-    if (put) rmSync(at)
+    if (put) rmSync(at, { recursive: true })
     taken.push(at)
   }
   for (const one of readdirSync(dirname(root), { withFileTypes: true })) {
