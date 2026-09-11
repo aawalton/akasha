@@ -12,6 +12,7 @@ import { runChange as renameExport } from "akasha/changes/mechanical/file-conten
 import { runChange as renamePageAddress } from "akasha/changes/mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
 import { runChange as renamePageAddresses } from "akasha/changes/mechanical/file-content/rename/rename-page-addresses/rename-page-addresses.change-mechanical-file-content.code.ts"
 import { runChange as renamePageSlug } from "akasha/changes/mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-file-content.code.ts"
+import { runChange as renamePageTypePages } from "akasha/changes/mechanical/page-type/rename/rename-page-type-pages/rename-page-type-pages.change-mechanical-page-type.code.ts"
 import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
@@ -88,6 +89,9 @@ const RUNS: Reaching = async (world, at, given) => {
   }
   if (at === "change-mechanical-file-content/rename-page-address") {
     return await renamePageAddress(world, given as Parameters<typeof renamePageAddress>[1])
+  }
+  if (at === "change-mechanical-page-type/rename-page-type-pages") {
+    return await renamePageTypePages(world, given as Parameters<typeof renamePageTypePages>[1])
   }
   if (at === RESTATES) {
     return await renamePageAddresses(world, given as Parameters<typeof renamePageAddresses>[1])

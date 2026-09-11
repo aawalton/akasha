@@ -47,23 +47,15 @@ export const renameFilePageType = {
     },
     {
       invariantKind: "departure",
-      statement: "A file a page claims has the new slug where the old slug named a section.",
+      statement: "Every page of the page type is carried by one call to the rung acting on them.",
     },
     {
       invariantKind: "departure",
-      statement: "A claimed file naming the old slug nowhere is refused rather than left behind.",
+      statement: "That call comes before the page type's own file is renamed.",
     },
     {
       invariantKind: "departure",
-      statement: "A file under a TypeScript name is moved by the change moving a code file.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file under no TypeScript name is moved by the change moving a file alone.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The page type a page states is restated at the path that page landed at.",
+      statement: "The files a page claims are read while the page type still declares them.",
     },
     {
       invariantKind: "departure",
@@ -77,17 +69,14 @@ export const renameFilePageType = {
       invariantKind: "departure",
       statement: "A body importing that worked type imports the type the new slug names.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A page naming its page type under both keys has both keys restated.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A body importing the type a page type's types file exports imports the new name.",
     },
     {
       invariantKind: "departure",
-      statement: "A page's file is read at the path the page type's own rename left that file.",
+      statement: "A page's file is read from the index as the page type's own rename left it.",
     },
   ],
   changeKind: "change-mechanical",

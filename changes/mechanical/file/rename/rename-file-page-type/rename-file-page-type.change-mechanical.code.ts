@@ -1,7 +1,5 @@
-import { dirname, extname } from "node:path"
 import { gathered, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { claimedIn } from "akasha/changes/modules/page-claiming/page-claiming.module.code.ts"
 import {
   type Reaches,
   reach,
@@ -16,21 +14,11 @@ const RENAME_FILE_PAGE = "change-mechanical/rename-file-page"
 
 const RENAME_PAGE_ADDRESSES = "change-mechanical-file-content/rename-page-addresses"
 
-const CHANGE_FILE_CONTENT = "change-mechanical-file-content/change-file-content"
-
-const MOVE_FILE_CODE = "change-mechanical/move-file-code"
-
-const MOVE_FILE = "change-mechanical-file/move-file"
+const RENAME_PAGE_TYPE_PAGES = "change-mechanical-page-type/rename-page-type-pages"
 
 const RENAME_EXPORT = "change-mechanical-file-content/rename-export"
 
 const PAGE_TYPE = "page-type"
-
-const PAGE_TYPE_KEY = "type"
-
-const PAGE_TYPE_SLUG = "pageTypeSlug"
-
-const CODE = new Set([".ts", ".tsx"])
 
 const WORKED = "worked"
 
@@ -46,46 +34,24 @@ export type Asked = {
   readonly plural?: string
 }
 
-type Filed = {
-  readonly at: string
-  readonly slug: string
-  readonly claimed: readonly string[]
-}
-
-type Read = { readonly filed: readonly Filed[] } | { readonly refused: string }
+type Read = { readonly slugs: readonly string[] } | { readonly refused: string }
 
 type Carried =
   | { readonly answers: readonly Answer[]; readonly world: World }
   | { readonly refused: string }
 
 function readIn(world: World, was: string): Read {
-  const found: Filed[] = []
+  const found: string[] = []
   try {
-    for (const [path, value] of world.index.valuesByPath(was)) {
+    for (const path of world.index.valuesByPath(was).keys()) {
       const said = partedIn(path)
       if (said === null) return { refused: `\`${path}\` reads as no page file` }
-      found.push({ at: path, slug: said.slug, claimed: claimedIn(world, path, value) })
+      found.push(said.slug)
     }
-    return { filed: found }
+    return { slugs: found }
   } catch (cause) {
     return { refused: saidBy(cause) }
   }
-}
-
-function renamedInto(
-  world: World,
-  claimed: readonly string[],
-  was: string,
-  now: string
-): ReadonlyMap<string, string> | string {
-  const said = new Map<string, string>()
-  for (const one of claimed) {
-    const held = one.replace(`.${was}.`, `.${now}.`)
-    if (held === one) return `\`${one}\` names no \`${was}\`, so that file is carried nowhere`
-    if (world.bodyOf(held) !== null) return `\`${held}\` is a body already`
-    said.set(one, held)
-  }
-  return said
 }
 
 async function heldOver(
@@ -99,69 +65,10 @@ async function heldOver(
   return { answers: [...answers, carried.said], world: carried.world }
 }
 
-function addressesIn(filed: readonly Filed[], was: string, now: string): Record<string, string> {
+function addressesIn(slugs: readonly string[], was: string, now: string): Record<string, string> {
   const moved: Record<string, string> = {}
-  for (const one of filed) moved[`${was}/${one.slug}`] = `${now}/${one.slug}`
+  for (const one of slugs) moved[`${was}/${one}`] = `${now}/${one}`
   return moved
-}
-
-async function carriedOver(held: Carried, moved: ReadonlyMap<string, string>): Promise<Carried> {
-  let carried = held
-  for (const [from, to] of moved) {
-    if ("refused" in carried) return carried
-    const named = CODE.has(extname(from)) ? MOVE_FILE_CODE : MOVE_FILE
-    carried = await heldOver(carried.world, carried.answers, named, { from, to })
-  }
-  return carried
-}
-
-function keysAt(world: World, at: string, was: string): readonly string[] {
-  const text = world.textOf(at) ?? ""
-  const held = [PAGE_TYPE_KEY, PAGE_TYPE_SLUG].filter((key) => text.includes(`${key}: "${was}"`))
-  return held.length === 0 ? [PAGE_TYPE_KEY] : held
-}
-
-async function pageAnew(
-  world: World,
-  answers: readonly Answer[],
-  one: Filed,
-  was: string,
-  now: string
-): Promise<Carried> {
-  const moved = renamedInto(world, one.claimed, was, now)
-  if (typeof moved === "string") return { refused: moved }
-  const lands = moved.get(one.at)
-  if (lands === undefined) return { refused: `\`${one.at}\` names no file the page type carries` }
-  const held = await carriedOver({ answers, world }, moved)
-  if ("refused" in held) return held
-  let carried: Carried = held
-  for (const key of keysAt(held.world, lands, was)) {
-    if ("refused" in carried) return carried
-    carried = await heldOver(carried.world, carried.answers, CHANGE_FILE_CONTENT, {
-      at: lands,
-      old: `${key}: "${was}"`,
-      new: `${key}: "${now}"`,
-    })
-  }
-  return carried
-}
-
-function shifted(world: World, at: string, now: string): ((path: string) => string) | null {
-  const listed = world.index.listedAt(PAGE_TYPE, now)
-  const lands = listed.length === 1 ? listed[0]?.path : undefined
-  if (lands === undefined) return null
-  const from = dirname(at)
-  const to = dirname(lands)
-  if (from === to) return null
-  return (path) => (path.startsWith(`${from}/`) ? `${to}/${path.slice(from.length + 1)}` : path)
-}
-
-function rebasedIn(filed: readonly Filed[], move: (path: string) => string): readonly Filed[] {
-  return filed.map((one) => ({
-    at: move(one.at),
-    slug: one.slug,
-    claimed: one.claimed.map(move),
-  }))
 }
 
 function besideIn(world: World, now: string, section: string): string | null {
@@ -199,30 +106,31 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   const was = said.slug
   const read = readIn(world, was)
   if ("refused" in read) return refusing(`${read.refused}, so no page type is renamed`)
-  const typed = await reach(world, RENAME_FILE_PAGE, {
+  let answers: readonly Answer[] = []
+  let seen = world
+  if (read.slugs.length > 0) {
+    const restated = await heldOver(seen, answers, RENAME_PAGE_ADDRESSES, {
+      moved: addressesIn(read.slugs, was, given.to),
+    })
+    if ("refused" in restated) return refusing(restated.refused)
+    answers = restated.answers
+    seen = restated.world
+    const carried = await heldOver(seen, answers, RENAME_PAGE_TYPE_PAGES, {
+      at: given.at,
+      to: given.to,
+    })
+    if ("refused" in carried) return refusing(carried.refused)
+    answers = carried.answers
+    seen = carried.world
+  }
+  const typed = await reach(seen, RENAME_FILE_PAGE, {
     at: given.at,
     to: given.to,
     plural: given.plural,
   })
   if (typed.said.refused !== null) return typed.said
-  let answers: readonly Answer[] = [typed.said]
-  let seen = typed.world
-  const move = shifted(seen, given.at, given.to)
-  const filed = move === null ? read.filed : rebasedIn(read.filed, move)
-  if (filed.length > 0) {
-    const restated = await heldOver(seen, answers, RENAME_PAGE_ADDRESSES, {
-      moved: addressesIn(filed, was, given.to),
-    })
-    if ("refused" in restated) return refusing(restated.refused)
-    answers = restated.answers
-    seen = restated.world
-  }
-  for (const one of filed) {
-    const carried = await pageAnew(seen, answers, one, was, given.to)
-    if ("refused" in carried) return refusing(carried.refused)
-    answers = carried.answers
-    seen = carried.world
-  }
+  answers = [...answers, typed.said]
+  seen = typed.world
   const worked = await renamedAnew(
     seen,
     answers,
