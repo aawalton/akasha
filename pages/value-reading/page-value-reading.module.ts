@@ -26,6 +26,10 @@ export const pageValueReading = {
         "One reader here answers empty text as empty text and another answers empty text as nothing.",
     },
     {
+      invariantKind: "absence",
+      statement: "Neither reader is exchanged for a module, because a module answers only one.",
+    },
+    {
       invariantKind: "departure",
       statement: "A browser reaches this module and never the module loading a value from a file.",
     },
