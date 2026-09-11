@@ -1,5 +1,5 @@
 import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.module.code.ts"
-import { readOwnTranscriptTail } from "akasha/seat-system/agent-io-probe/agent-io-probe.module.code.ts"
+import { readOwnTranscriptTail } from "akasha/seat-system/io-probe/io-probe.module.code.ts"
 import { reconcileClaimedRedelivery } from "akasha/seat-system/messaging/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.code.ts"
 import {
   readClaimedBefore,

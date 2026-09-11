@@ -5,7 +5,7 @@ import {
   operationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { parseArgs } from "akasha/commands/modules/parse-args/parse-args.module.code.ts"
-import { readTranscriptMtimeMs } from "akasha/seat-system/agent-io-probe/agent-io-probe.module.code.ts"
+import { readTranscriptMtimeMs } from "akasha/seat-system/io-probe/io-probe.module.code.ts"
 import {
   holdSeatPaneOpen,
   killSeatSession,

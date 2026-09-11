@@ -36,7 +36,7 @@ export const seatSystem = {
     "module/subagent-recovering",
     "module/takeover-seat",
     "module/transcript-materialize",
-    "module/agent-io-probe",
+    "module/io-probe",
     "module/agent-name-bind",
     "module/agent-record",
     "module/agent-turn-drawn",

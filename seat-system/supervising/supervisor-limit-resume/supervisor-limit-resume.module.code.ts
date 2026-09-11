@@ -7,7 +7,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { readOwnTranscriptTail } from "akasha/seat-system/agent-io-probe/agent-io-probe.module.code.ts"
+import { readOwnTranscriptTail } from "akasha/seat-system/io-probe/io-probe.module.code.ts"
 import {
   type AskDecide,
   askLimitResume,
