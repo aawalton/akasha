@@ -1,4 +1,4 @@
-import type { WorldMiracle } from "../../world-miracle.page-type.types.ts"
+import type { WorldMiracle } from "akasha/story/world-mechanics/world-miracles/world-miracle.page-type.types.ts"
 
 export const purifyWounds = {
   id: "01a0655a-7b7c-7c0e-87eb-525dea46cbe5",

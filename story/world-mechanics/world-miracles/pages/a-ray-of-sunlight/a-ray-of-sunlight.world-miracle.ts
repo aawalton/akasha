@@ -1,4 +1,4 @@
-import type { WorldMiracle } from "../../world-miracle.page-type.types.ts"
+import type { WorldMiracle } from "akasha/story/world-mechanics/world-miracles/world-miracle.page-type.types.ts"
 
 export const aRayOfSunlight = {
   id: "01a0655a-7b7b-702e-a80c-55ab3d721c01",

@@ -1,4 +1,4 @@
-import type { WorldMiracle } from "../../world-miracle.page-type.types.ts"
+import type { WorldMiracle } from "akasha/story/world-mechanics/world-miracles/world-miracle.page-type.types.ts"
 
 export const holySword = {
   id: "01a0655a-7b7c-791a-a216-650d972d3e94",

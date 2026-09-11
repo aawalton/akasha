@@ -1,4 +1,4 @@
-import type { WorldMiracle } from "../../world-miracle.page-type.types.ts"
+import type { WorldMiracle } from "akasha/story/world-mechanics/world-miracles/world-miracle.page-type.types.ts"
 
 export const biblicalEarthquake = {
   id: "01a0655a-7b7c-7044-8885-4c8e007eecb5",
