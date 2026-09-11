@@ -1,6 +1,11 @@
 import { expect, test } from "bun:test"
 import { createHash, randomBytes } from "node:crypto"
-import { bytesOfHex, hexOf, sha1Bytes, sha1HexOfText } from "./sha1-digest.module.code.ts"
+import {
+  bytesOfHex,
+  hexOf,
+  sha1Bytes,
+  sha1HexOfText,
+} from "akasha/pages/identity/sha1-digest/sha1-digest.module.code.ts"
 
 const AT_NAMESPACE = "6ba7b8129dad11d180b400c04fd430c8"
 
