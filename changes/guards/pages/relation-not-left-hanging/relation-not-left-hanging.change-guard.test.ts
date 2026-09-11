@@ -1,4 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
+import { relationNotLeftHanging } from "akasha/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"
+import { stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { guardedBy, NOT_READ } from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
+import {
+  heldAt,
+  tookAway,
+} from "akasha/changes/modules/guarding/change-guarding.module.test-fixtures.ts"
+import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   bodyOf,
   HELD_PAGE,
@@ -11,12 +20,6 @@ import {
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { schemaFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { NOT_WORKED_OUT } from "akasha/pages/shadow/shadow.module.code.ts"
-import { stating } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
-import { guardedBy, NOT_READ } from "../../../modules/guarding/change-guarding.module.code.ts"
-import { heldAt, tookAway } from "../../../modules/guarding/change-guarding.module.test-fixtures.ts"
-import { worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
-import { relationNotLeftHanging } from "./relation-not-left-hanging.change-guard.code.ts"
 
 afterAll(scratch.sweep)
 

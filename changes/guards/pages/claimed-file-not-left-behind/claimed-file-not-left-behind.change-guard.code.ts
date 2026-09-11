@@ -1,13 +1,16 @@
-import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   carriedIn,
   holdsAfter,
   takingIn,
   unreadable,
-} from "../../../modules/guarding/change-guarding.module.code.ts"
-import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
-import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
-import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
+} from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
+import type {
+  Guard,
+  Guarding,
+} from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
+import { claimedIn } from "akasha/changes/modules/page-claiming/page-claiming.module.code.ts"
+import { pageIn } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
+import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
 
 function behindAt(given: Guarding, at: string): string | null {
   const value = pageIn(given.before, at)

@@ -1,4 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
+import { folderNotLeftNamed } from "akasha/changes/guards/pages/folder-not-left-named/folder-not-left-named.change-guard.code.ts"
+import { pathsIn, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { guardedBy } from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
+import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   HELD_CODE,
   HELD_PAGE,
@@ -9,11 +14,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { pathsIn, stating } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
-import { guardedBy } from "../../../modules/guarding/change-guarding.module.code.ts"
-import { worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
-import { folderNotLeftNamed } from "./folder-not-left-named.change-guard.code.ts"
 
 afterAll(scratch.sweep)
 

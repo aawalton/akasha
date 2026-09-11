@@ -1,4 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
+import { fieldKeyNotCarriedTwice } from "akasha/changes/guards/pages/field-key-not-carried-twice/field-key-not-carried-twice.change-guard.code.ts"
+import { stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { guardedBy } from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
+import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   bodyOf,
   idOf,
@@ -7,11 +12,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { stating } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
-import { guardedBy } from "../../../modules/guarding/change-guarding.module.code.ts"
-import { worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
-import { fieldKeyNotCarriedTwice } from "./field-key-not-carried-twice.change-guard.code.ts"
 
 afterAll(scratch.sweep)
 

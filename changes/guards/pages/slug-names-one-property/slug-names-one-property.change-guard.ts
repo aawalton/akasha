@@ -1,4 +1,4 @@
-import type { ChangeGuard } from "../../change-guard.page-type.types.ts"
+import type { ChangeGuard } from "akasha/changes/guards/change-guard.page-type.types.ts"
 
 export const slugNamesOneProperty = {
   id: "01a087a8-1eb3-77b4-bc4e-82237084862d",

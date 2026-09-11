@@ -1,15 +1,18 @@
 import { dirname, extname, join } from "node:path"
 import {
+  holdsAfter,
+  textAfter,
+  writtenIn,
+} from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
+import type {
+  Guard,
+  Guarding,
+} from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
+import {
   landingOf,
   placedIn,
 } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import { objectIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
-import {
-  holdsAfter,
-  textAfter,
-  writtenIn,
-} from "../../../modules/guarding/change-guarding.module.code.ts"
-import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
 
 const CODE = new Set([".ts", ".tsx"])
 

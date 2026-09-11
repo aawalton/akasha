@@ -1,14 +1,17 @@
 import { dirname } from "node:path"
-import { spelledIn } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
-import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
-import { runsIn } from "akasha/code-system/path-runs/path-runs.module.code.ts"
 import {
   carriedIn,
   takingIn,
   unreadable,
   writtenIn,
-} from "../../../modules/guarding/change-guarding.module.code.ts"
-import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
+} from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
+import type {
+  Guard,
+  Guarding,
+} from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
+import { spelledIn } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import { runsIn } from "akasha/code-system/path-runs/path-runs.module.code.ts"
 
 const UNDER = "/"
 

@@ -1,7 +1,13 @@
+import {
+  unreadable,
+  writtenIn,
+} from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
+import type {
+  Guard,
+  Guarding,
+} from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
 import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { slugOf, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
-import { unreadable, writtenIn } from "../../../modules/guarding/change-guarding.module.code.ts"
-import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
 
 const PAGE_TYPE = "page-type"
 

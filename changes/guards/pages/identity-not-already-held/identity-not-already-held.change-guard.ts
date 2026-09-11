@@ -1,4 +1,4 @@
-import type { ChangeGuard } from "../../change-guard.page-type.types.ts"
+import type { ChangeGuard } from "akasha/changes/guards/change-guard.page-type.types.ts"
 
 export const identityNotAlreadyHeld = {
   id: "01a0797f-d415-717a-919e-cc0760a816fd",

@@ -1,4 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
+import { pageTypeCarriesNoPages } from "akasha/changes/guards/pages/page-type-carries-no-pages/page-type-carries-no-pages.change-guard.code.ts"
+import { stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type {
+  Answer,
+  FileChange,
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { guardedBy, NOT_READ } from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
+import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   bodyOf,
   idOf,
@@ -8,11 +16,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { stating } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Answer, FileChange } from "../../../modules/answer/change-answer.module.types.ts"
-import { guardedBy, NOT_READ } from "../../../modules/guarding/change-guarding.module.code.ts"
-import { worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
-import { pageTypeCarriesNoPages } from "./page-type-carries-no-pages.change-guard.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,14 +1,17 @@
 import {
-  type Facing,
-  generatedIn,
-} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
-import {
   carriedIn,
   holdsAfter,
   judgingOver,
   takingIn,
-} from "../../../modules/guarding/change-guarding.module.code.ts"
-import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
+} from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
+import type {
+  Guard,
+  Guarding,
+} from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
+import {
+  type Facing,
+  generatedIn,
+} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 
 function facingFor(given: Guarding): Facing {
   const index = given.shadow.index
