@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import { comfyUpBody } from "akasha/infrastructure/inference/generations/comfy-up-body/comfy-up-body.module.code.ts"
-
-const RECIPE = "image/Containerfile"
+import { RECIPE } from "akasha/infrastructure/inference/generations/comfy-up-body/comfy-up-body.module.test-fixtures.ts"
 
 const PROVEN = { name: "zimage", port: 8678, smoke: "zimage-smoke" }
 
@@ -49,9 +48,7 @@ test("the guard and the build sit between the opening and the run", () => {
 })
 
 test("the recipe handed in is the one the build is given", () => {
-  expect(linesOf(BARE)).toContain(
-    '  podman build -t "$IMAGE" -f "$PKG_DIR/image/Containerfile" "$PKG_DIR"'
-  )
+  expect(linesOf(BARE)).toContain(`  podman build -t "$IMAGE" -f "$PKG_DIR/${RECIPE}" "$PKG_DIR"`)
 })
 
 test("a body ends with a newline", () => {

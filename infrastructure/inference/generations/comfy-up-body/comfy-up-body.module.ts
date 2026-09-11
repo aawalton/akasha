@@ -7,6 +7,7 @@ export const comfyUpBody = {
   definition: "the one body every ComfyUI up script is written from",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
