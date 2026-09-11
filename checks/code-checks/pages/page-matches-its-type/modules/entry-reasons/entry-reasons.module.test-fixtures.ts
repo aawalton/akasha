@@ -106,7 +106,8 @@ export function nestedShapingFor(): Shaping {
     slug: "cases",
     pageFor: () => null,
     formatting: allows,
-    fieldsIn: (one) => (one.key === "step" ? { fields: WITHIN, plain: false } : NOTHING_OPENED),
+    fieldsIn: (one) =>
+      one.key === "step" ? { among: [], fields: WITHIN, plain: false } : NOTHING_OPENED,
   }
 }
 
@@ -119,13 +120,55 @@ export function oneOfShapingFor(): Shaping {
     slug: "cases",
     pageFor: () => null,
     formatting: allows,
-    fieldsIn: (one) => (one.key === "step" ? { fields: WITHIN, plain: true } : NOTHING_OPENED),
+    fieldsIn: (one) =>
+      one.key === "step" ? { among: [], fields: WITHIN, plain: true } : NOTHING_OPENED,
+  }
+}
+
+const KIND: Carried = { ...TAG, key: "kind", maxLength: null, propertySlug: "kind", required: true }
+
+const COUNT: Carried = {
+  ...TAG,
+  key: "count",
+  maxLength: null,
+  propertySlug: "count",
+  required: true,
+}
+
+const ONE_ARM: ReadonlyMap<string, Carried> = new Map([
+  ["kind", KIND],
+  ["tag", { ...TAG, required: true }],
+])
+
+const TWO_ARM: ReadonlyMap<string, Carried> = new Map([
+  ["kind", KIND],
+  ["count", COUNT],
+])
+
+export function amongShapingFor(): Shaping {
+  return {
+    fields: new Map([
+      ["answer", ANSWER],
+      ["step", STEP],
+    ]),
+    slug: "cases",
+    pageFor: () => null,
+    formatting: allows,
+    fieldsIn: (one) =>
+      one.key === "step"
+        ? { among: [ONE_ARM, TWO_ARM], fields: new Map(), plain: false }
+        : NOTHING_OPENED,
   }
 }
 
 export function openedFor(members: readonly string[]): readonly [readonly string[], boolean] {
   const opened = openedAmong({ members: [...members] }, shadowAt(REPO))
   return [[...opened.fields.keys()].sort(), opened.plain]
+}
+
+export function amongFor(members: readonly string[]): readonly (readonly string[])[] {
+  const opened = openedAmong({ members: [...members] }, shadowAt(REPO))
+  return opened.among.map((fields) => [...fields.keys()].sort())
 }
 
 const CASES = `${RESTATEMENT.slice(0, -3)}.cases`

@@ -1,6 +1,8 @@
 import { expect, test } from "bun:test"
 import { fieldsOf } from "akasha/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"
 import {
+  amongFor,
+  amongShapingFor,
   entriesJudged,
   groupFieldsFor,
   ID_LESS,
@@ -59,10 +61,39 @@ test("a one-of property opens the one member that declares fields", () => {
     [],
     true,
   ])
-  expect(openedFor(["record-property/invariants", "record-property/directives"])).toEqual([
-    [],
-    true,
+})
+
+test("a property whose members declare fields more than once holds each of those fields", () => {
+  const members = ["record-property/invariants", "record-property/directives"]
+
+  expect(openedFor(members)).toEqual([[], false])
+  expect(amongFor(members)).toEqual([
+    ["invariantKind", "statement"],
+    ["act", "aids", "directiveKind", "name", "warrant"],
   ])
+})
+
+const FITS_NONE =
+  "`cases step` holds a record fitting no one member, and such a record is judged " +
+  "against the one member whose fields that record fits"
+
+test("a record among members is judged against the one member whose fields it fits", () => {
+  const shaping = amongShapingFor()
+
+  expect(fieldsOf({ ...ANSWERED, step: { kind: "a", tag: "hi" } }, shaping, OWN)).toEqual([])
+  expect(fieldsOf({ ...ANSWERED, step: { kind: "a", count: "1" } }, shaping, OWN)).toEqual([])
+  expect(fieldsOf({ ...ANSWERED, step: { kind: "a", tag: "hello" } }, shaping, OWN)).toEqual([
+    "`step tag` runs to 5 characters, over the length of 4",
+  ])
+})
+
+test("a record among members fitting no one of them refuses the page", () => {
+  const shaping = amongShapingFor()
+
+  expect(fieldsOf({ ...ANSWERED, step: { kind: "a" } }, shaping, OWN)).toEqual([FITS_NONE])
+  expect(
+    fieldsOf({ ...ANSWERED, step: { kind: "a", tag: "hi", count: "1" } }, shaping, OWN)
+  ).toEqual([FITS_NONE])
 })
 
 test("a value a one-of's member with no fields admits gives no reason", () => {

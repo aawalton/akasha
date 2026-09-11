@@ -57,6 +57,7 @@ export function twiceIn(held: readonly unknown[], slug: string): string | null {
 }
 
 export type Opened = {
+  readonly among: readonly ReadonlyMap<string, Carried>[]
   readonly fields: ReadonlyMap<string, Carried>
   readonly plain: boolean
 }
@@ -87,7 +88,7 @@ const MEMBERS = "members"
 
 export const COMPUTED = "computed-property"
 
-export const NOTHING_OPENED: Opened = { fields: NO_FIELDS, plain: true }
+export const NOTHING_OPENED: Opened = { among: [], fields: NO_FIELDS, plain: true }
 
 export function memberNamesIn(page: Value): readonly string[] {
   const said = page[MEMBERS]
@@ -96,22 +97,50 @@ export function memberNamesIn(page: Value): readonly string[] {
 }
 
 export function openedAmong(page: Value, shadow: Shadow): Opened {
-  let fields: ReadonlyMap<string, Carried> = NO_FIELDS
-  let held = 0
+  const among: ReadonlyMap<string, Carried>[] = []
   let plain = false
   for (const named of memberNamesIn(page)) {
     const address = addressIn(named)
     if (address.kind !== "qualified") continue
     const member = shadow.index.pageAt(address.pageTypeSlug, address.slug)
     const said = member === null ? NO_FIELDS : fieldsFor(member, shadow, address.slug)
-    if (said.size === 0) {
-      plain = true
-      continue
-    }
-    held += 1
-    fields = said
+    if (said.size === 0) plain = true
+    else among.push(said)
   }
-  return held === 1 ? { fields, plain } : NOTHING_OPENED
+  const one = among[0]
+  if (one === undefined) return NOTHING_OPENED
+  if (among.length === 1) return { among: [], fields: one, plain }
+  return { among, fields: NO_FIELDS, plain }
+}
+
+function fitsIn(fields: ReadonlyMap<string, Carried>, entry: Value): boolean {
+  for (const key of Object.keys(entry)) {
+    if (!fields.has(key)) return false
+  }
+  for (const [key, shaped] of fields) {
+    if (!shaped.required || shaped.uncommitted || shaped.secret) continue
+    if (shaped.fixed !== undefined || shaped.pageTypeSlug === COMPUTED) continue
+    if (!(key in entry)) return false
+  }
+  return true
+}
+
+export function fittingIn(
+  opened: Opened,
+  shaped: ReadonlyMap<string, Carried>,
+  entry: Value
+): ReadonlyMap<string, Carried> | null {
+  if (opened.among.length === 0) return shaped
+  const fitting = opened.among.filter((fields) => fitsIn(fields, entry))
+  const one = fitting[0]
+  return fitting.length === 1 && one !== undefined ? one : null
+}
+
+export function noMemberIn(slug: string): string {
+  return (
+    `\`${slug}\` holds a record fitting no one member, and such a record is judged ` +
+    `against the one member whose fields that record fits`
+  )
 }
 
 export function fieldsReading(shadow: Shadow, pageFor: (one: Carried) => Value | null): Fielding {
@@ -120,7 +149,7 @@ export function fieldsReading(shadow: Shadow, pageFor: (one: Carried) => Value |
     if (page === null) return NOTHING_OPENED
     if (one.pageTypeSlug === ONE_OF) return openedAmong(page, shadow)
     const fields = fieldsFor(page, shadow, one.pagePropertySlug)
-    return fields.size === 0 ? NOTHING_OPENED : { fields, plain: false }
+    return fields.size === 0 ? NOTHING_OPENED : { among: [], fields, plain: false }
   }
 }
 
@@ -195,12 +224,17 @@ export function fieldsOf(
       if (why !== null) said.push(why)
       const off = offFormat(each, format, formatting, `${slug} ${field}`)
       if (off !== null) said.push(off)
-      if (inside.fields.size === 0) continue
+      if (inside.fields.size === 0 && inside.among.length === 0) continue
       if (typeof each !== "object" || each === null || Array.isArray(each)) {
         if (!inside.plain) said.push(noRecordIn(each, `${slug} ${field}`))
         continue
       }
-      const within: Shaping = { ...shaping, fields: inside.fields, slug: field }
+      const fitting = fittingIn(inside, inside.fields, each as Value)
+      if (fitting === null) {
+        said.push(noMemberIn(`${slug} ${field}`))
+        continue
+      }
+      const within: Shaping = { ...shaping, fields: fitting, slug: field }
       said.push(...fieldsOf(each as Value, within, NOTHING))
     }
   }

@@ -187,6 +187,15 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A record among several members declaring fields is judged against the one whose fields it fits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record fitting no one of those members refuses the page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A value a member declaring no field admits refuses nothing.",
     },
   ],

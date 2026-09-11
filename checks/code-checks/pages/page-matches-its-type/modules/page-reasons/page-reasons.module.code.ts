@@ -2,8 +2,10 @@ import {
   COMPUTED,
   fieldsOf,
   fieldsReading,
+  fittingIn,
   formatOf,
   groupedFor,
+  noMemberIn,
   noRecordIn,
   offFormat,
   overLength,
@@ -96,14 +98,20 @@ export function reasonsIn(
       if (off !== null) said.push(off)
     }
     const opened = recordFieldsIn(one, fieldsIn)
+    const among = opened.among.length > 0
     const shaped = opened.fields.size > 0 ? opened.fields : groupedFor(one, held, shadow)
-    if (shaped.size === 0) continue
-    const shaping: Shaping = { fields: shaped, slug, pageFor, formatting, fieldsIn }
+    if (shaped.size === 0 && !among) continue
     for (const entry of listed ? held : [held]) {
       if (typeof entry !== "object" || entry === null || Array.isArray(entry)) {
-        if (opened.fields.size > 0 && !opened.plain) said.push(noRecordIn(entry, slug))
+        if ((opened.fields.size > 0 || among) && !opened.plain) said.push(noRecordIn(entry, slug))
         continue
       }
+      const fields = fittingIn(opened, shaped, entry as Value)
+      if (fields === null) {
+        said.push(noMemberIn(slug))
+        continue
+      }
+      const shaping: Shaping = { fields, slug, pageFor, formatting, fieldsIn }
       said.push(...fieldsOf(entry as Value, shaping, NOTHING))
     }
   }

@@ -57,7 +57,27 @@ export const entryReasons = {
     },
     {
       invariantKind: "departure",
-      statement: "A property whose members declare fields twice over opens against neither.",
+      statement: "A property whose members declare fields more than once holds each of them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record among those members is judged against the one member its fields fit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record fits a member declaring every key that record states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record fits a member only where it states every key that member requires.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record fitting no one member gives a reason rather than being passed over.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No value a record states picks the member that record is judged against.",
     },
     {
       invariantKind: "departure",

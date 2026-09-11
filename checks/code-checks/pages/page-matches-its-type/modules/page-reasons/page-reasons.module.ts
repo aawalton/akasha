@@ -59,5 +59,10 @@ export const pageReasons = {
       invariantKind: "departure",
       statement: "A value whose property declares a group's members alone gives no such reason.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A record whose property names members is judged against the member whose fields it fits.",
+    },
   ],
 } as const satisfies Module
