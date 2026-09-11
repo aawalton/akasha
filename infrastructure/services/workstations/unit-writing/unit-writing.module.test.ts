@@ -16,6 +16,9 @@ const PAGE_PATH =
 const RUNS_TYPESCRIPT =
   "bun akasha/service-system/service-workstation/held-listening/held-listening.module.code.ts"
 
+const WRAPPER_RUNS =
+  "bun akasha/service-system/service-workstation/held-wrapping/held-wrapping.module.code.ts"
+
 const BASE = {
   id: "01a05a51-0000-7000-8000-00000000000a",
   pageTypeSlug: "service-workstation",
@@ -26,7 +29,7 @@ const BASE = {
 } as const satisfies ServiceWorkstation
 
 function pageOf(more: Partial<ServiceWorkstation>) {
-  return { service: { ...BASE, ...more }, pagePath: PAGE_PATH }
+  return { service: { ...BASE, ...more }, pagePath: PAGE_PATH, wrapperRuns: WRAPPER_RUNS }
 }
 
 test("a service stating no schedule is simple, wanted by the default target, and started again", () => {
@@ -58,7 +61,7 @@ test("a command naming a TypeScript file runs under the wrapper and forces a res
   const service = pageOf({})
   expect(isWrapped(service)).toBe(true)
   const text = serviceUnitText(service)
-  expect(text).toContain("service-wrapping.module.code.ts -- bun")
+  expect(text).toContain(`${WRAPPER_RUNS} -- bun`)
   expect(text).toContain(`RestartForceExitStatus=${RESTART_EXIT}`)
 })
 
@@ -66,7 +69,7 @@ test("a command naming no TypeScript file runs under no wrapper", () => {
   const service = pageOf({ runs: ["/usr/bin/node-exporter"] })
   expect(isWrapped(service)).toBe(false)
   const text = serviceUnitText(service)
-  expect(text).not.toContain("service-wrapping")
+  expect(text).not.toContain(WRAPPER_RUNS)
   expect(text).not.toContain("RestartForceExitStatus")
 })
 
@@ -78,7 +81,7 @@ test("a scheduled service is oneshot, runs under no wrapper, and states no insta
   expect(text).toContain("Type=oneshot")
   expect(text).not.toContain("[Install]")
   expect(text).not.toContain("Restart=")
-  expect(text).not.toContain("service-wrapping")
+  expect(text).not.toContain(WRAPPER_RUNS)
 })
 
 test("a scheduled service is written a timer stating its calendar", () => {

@@ -4,8 +4,6 @@ import type { ServiceWorkstation } from "akasha/infrastructure/services/workstat
 const PATH_ENV =
   "%h/.bun/bin:%h/.local/bin:/home/linuxbrew/.linuxbrew/bin:/usr/local/bin:/usr/bin:/bin"
 const CHECKOUT = "%h/repos/akasha"
-const WRAPPER_RUNS =
-  "bun infrastructure/services/workstations/service-wrapping/service-wrapping.module.code.ts"
 const SIGTERM_EXIT = 143
 const DEFAULT_RESTART = "always"
 const DEFAULT_TARGET = "default.target"
@@ -22,6 +20,7 @@ export type Started = ServiceWorkstation & { readonly runs: Runs }
 export type Service = {
   readonly service: Started
   readonly pagePath: string
+  readonly wrapperRuns: string
 }
 
 export function scheduleOf(given: Service): string | null {
@@ -52,7 +51,7 @@ export function isWrapped(given: Service): boolean {
 export function underWrapper(given: Service, command: string): string {
   if (isScheduled(given)) return command
   if (!TYPESCRIPT_RUN.test(command)) return command
-  return `${WRAPPER_RUNS} -- ${command}`
+  return `${given.wrapperRuns} -- ${command}`
 }
 
 function wrapped(given: Service, one: string): string {

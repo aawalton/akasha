@@ -1,5 +1,6 @@
 import type { Systemd } from "akasha/infrastructure/services/workstations/properties/systemd.record-property.types.ts"
 import {
+  commandOf,
   commandsOf,
   type Refused,
   startsIn,
@@ -13,6 +14,8 @@ import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export const SERVICE_PAGE_TYPE = "service-workstation"
+
+const WRAPPER_PAGE = "module/service-wrapping"
 
 const SYSTEMD_TEXT_KEYS = ["restart", "schedule", "partOf", "wantedBy"] as const
 const SYSTEMD_NUMBER_KEYS = [
@@ -93,7 +96,12 @@ export function serviceIn(root: string, value: Value): Started | null {
   }
 }
 
-function serviceAt(root: string, path: string): Service | string {
+export function wrapperRunsIn(root: string): string | Refused {
+  const said = commandOf(root, { code: WRAPPER_PAGE })
+  return "refused" in said ? said : said.command
+}
+
+function serviceAt(root: string, path: string, wrapperRuns: string): Service | string {
   const value = valueAt(path, root)
   if (value === null) return `${path} did not load, so the service it states is not read`
   const runs = runsFrom(root, value)
@@ -102,24 +110,28 @@ function serviceAt(root: string, path: string): Service | string {
   if (service === null) {
     return `${path} states no slug, definition, runs and enabled, so it is no workstation service`
   }
-  return { service, pagePath: path }
+  return { service, pagePath: path, wrapperRuns }
 }
 
 export function readFor(root: string, slug: string): Read {
+  const wrapperRuns = wrapperRunsIn(root)
+  if (typeof wrapperRuns !== "string") return { refused: wrapperRuns.refused }
   const found = listedAt(root, SERVICE_PAGE_TYPE, slug)
   const one = found[0]
   if (one === undefined) return { refused: `no ${SERVICE_PAGE_TYPE} is slugged \`${slug}\`` }
-  const read = serviceAt(root, one.path)
+  const read = serviceAt(root, one.path, wrapperRuns)
   return typeof read === "string" ? { refused: read } : { services: [read] }
 }
 
 export function everyService(root: string): Read {
+  const wrapperRuns = wrapperRunsIn(root)
+  if (typeof wrapperRuns !== "string") return { refused: wrapperRuns.refused }
   const found = [...everyOfType(root, SERVICE_PAGE_TYPE)].sort((a, b) =>
     a.path < b.path ? -1 : a.path > b.path ? 1 : 0
   )
   const services: Service[] = []
   for (const one of found) {
-    const read = serviceAt(root, one.path)
+    const read = serviceAt(root, one.path, wrapperRuns)
     if (typeof read === "string") return { refused: read }
     services.push(read)
   }

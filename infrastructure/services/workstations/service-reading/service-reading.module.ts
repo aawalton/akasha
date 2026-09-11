@@ -51,6 +51,10 @@ export const serviceReading = {
       statement: "A start naming a page that is not there refuses the reading by name.",
     },
     {
+      invariantKind: "departure",
+      statement: "The run wrapping a service is composed from the wrapper's page once a reading.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes a unit.",
     },

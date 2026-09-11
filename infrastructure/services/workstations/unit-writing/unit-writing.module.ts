@@ -11,7 +11,12 @@ export const unitWriting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A unit is written from a page's value and the path that page is at.",
+      statement:
+        "A unit is written from a page's value, the path that page is at, and the wrapper's run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The run a wrapped service is started by is handed here rather than spelled here.",
     },
     {
       invariantKind: "departure",

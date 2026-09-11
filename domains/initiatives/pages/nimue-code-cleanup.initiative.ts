@@ -11,7 +11,7 @@ export const nimueCodeCleanup = {
     {
       statement: "No code spells a path as a string literal.",
       workingMemory:
-        "The reach is right and what is left is remediation that is owned. Two refusals stay on purpose for the ratchet to catch: `unit-writing` prescribes a stable entrypoint rather than an index reach, and `addon-dist-bundles` wants a `folderOf` beside `fileOf` that one caller does not earn. Alan has approved taking `experimental` off once the false positives land. That is the moment the check binds every writer, and the ratchet drains the rest.",
+        "The reach is right and what is left is remediation that is owned. The check binds every writer at change and at audit. `unit-writing` is handed the wrapper's run rather than spelling it, and `service-reading` composes that run from `module/service-wrapping` once a reading. One refusal stays for the ratchet to catch: `addon-dist-bundles` wants a `folderOf` beside `fileOf` that one caller does not earn.",
     },
     {
       statement: "All code-system files are in the code/ folder.",
