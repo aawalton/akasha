@@ -14,7 +14,7 @@ const REMOVE_FILE = "change-mechanical/remove-file-of-any-kind"
 
 const ORDINARY = "akasha/notes.md"
 
-const PAGE = "changes/change.page-type.ts"
+const PAGE = "thrumming/thrum.page-type.ts"
 
 const SHAPED = "alan/web/routes/api.surplus.ts"
 
