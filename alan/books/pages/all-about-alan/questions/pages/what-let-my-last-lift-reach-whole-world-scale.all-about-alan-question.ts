@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatLetMyLastLiftReachWholeWorldScale = {
   id: "01a077e4-c6cf-7a51-93a7-765f7d2d721a",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-let-my-last-lift-reach-whole-world-scale",
   topic: "why-climbing-sets-off-the-fall",

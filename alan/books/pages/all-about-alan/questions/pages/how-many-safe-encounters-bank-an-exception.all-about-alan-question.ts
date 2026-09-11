@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howManySafeEncountersBankAnException = {
   id: "01a077e9-7d74-798a-9b08-0098af796ba5",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-many-safe-encounters-bank-an-exception",
   topic: "how-i-read-whether-someone-is-safe",

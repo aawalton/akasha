@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howLongACueStaysCleanBeforeItIsSafe = {
   id: "01a077e5-95f0-74c4-94c3-1f64ff114f57",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-long-a-cue-stays-clean-before-it-is-safe",
   topic: "how-an-alarm-wears-off",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatEachJobCostMeYearByYear = {
   id: "01a077ea-6a07-77f9-b877-dbeb44a33a06",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-each-job-cost-me-year-by-year",
   topic: "why-i-stopped-working",

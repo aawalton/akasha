@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howToReproduceInterestAndNonDefensiveness = {
   id: "01a077e4-3d41-76b7-8d0f-ba16ea51e36d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-to-reproduce-interest-and-non-defensiveness",
   topic: "being-known",

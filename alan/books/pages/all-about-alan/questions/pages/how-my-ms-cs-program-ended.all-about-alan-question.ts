@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howMyMsCsProgramEnded = {
   id: "01a077e2-fc04-7cde-9ac2-b063334ee0e7",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-my-ms-cs-program-ended",
   topic: "being-an-inventor-not-a-coder",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatBridgeEachBlockedPieceNeeds = {
   id: "01a077ed-363e-7058-b175-0976bda8ba88",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-bridge-each-blocked-piece-needs",
   topic: "noticing-what-she-needs",

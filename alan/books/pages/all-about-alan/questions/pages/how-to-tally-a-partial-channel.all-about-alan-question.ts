@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howToTallyAPartialChannel = {
   id: "01a077ed-3182-7ec8-b38a-770e65744dd1",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-to-tally-a-partial-channel",
   topic: "how-much-company-i-can-take",

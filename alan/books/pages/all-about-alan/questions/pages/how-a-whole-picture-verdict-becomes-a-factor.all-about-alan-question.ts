@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howAWholePictureVerdictBecomesAFactor = {
   id: "01a077e5-d96b-7c6f-b4db-2fc4ab4f34a8",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-a-whole-picture-verdict-becomes-a-factor",
   topic: "how-i-make-a-decision-i-cannot-undo",

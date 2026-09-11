@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howIEstimateMyOneSigmaLow = {
   id: "01a077e6-544a-7421-a9d1-e8611c42cdc3",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-i-estimate-my-one-sigma-low",
   topic: "what-i-let-myself-take-on",

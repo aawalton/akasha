@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howFastEachSafetyLeverRuns = {
   id: "01a077ef-7e97-7420-b12f-83e017618fe4",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-fast-each-safety-lever-runs",
   topic: "how-safety-climbs",

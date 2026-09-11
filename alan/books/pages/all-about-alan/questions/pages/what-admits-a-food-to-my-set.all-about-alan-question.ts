@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatAdmitsAFoodToMySet = {
   id: "01a077e7-b528-7362-82c4-f2d6310ccdbd",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-admits-a-food-to-my-set",
   topic: "the-foods-i-can-still-manage",

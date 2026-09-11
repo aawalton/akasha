@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatAStressStatementRefersTo = {
   id: "01a077ef-53a8-7e7e-a42b-ea7f4314f579",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-a-stress-statement-refers-to",
   topic: "stress-level",

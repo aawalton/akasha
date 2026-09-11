@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howLongICanKeepWhatSheDoesNotKnow = {
   id: "01a077f0-94d5-7662-93e4-27fb41a82cc1",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-long-i-can-keep-what-she-does-not-know",
   topic: "what-i-cannot-say-to-her",

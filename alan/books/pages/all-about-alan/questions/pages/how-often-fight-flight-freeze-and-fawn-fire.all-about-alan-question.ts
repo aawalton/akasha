@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howOftenFightFlightFreezeAndFawnFire = {
   id: "01a077e4-89f9-7e11-a7a9-f2f302d3863c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-often-fight-flight-freeze-and-fawn-fire",
   topic: "what-i-do-when-i-am-past-bearing",

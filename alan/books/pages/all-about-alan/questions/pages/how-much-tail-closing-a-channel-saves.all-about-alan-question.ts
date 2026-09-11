@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howMuchTailClosingAChannelSaves = {
   id: "01a077eb-432f-7be0-9233-11ce8b1edeea",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-much-tail-closing-a-channel-saves",
   topic: "shutting-a-channel-after-it-hurt-me",

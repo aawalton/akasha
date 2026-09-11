@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howFarTheInescapableJudgeReaches = {
   id: "01a077e6-2beb-7cdc-9052-b7cdb71eccc6",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-far-the-inescapable-judge-reaches",
   topic: "why-getting-close-hurts",

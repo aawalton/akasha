@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatIDoWhenEveryTrustedOrganisationFails = {
   id: "01a077ef-db05-77e1-b424-a68c19963466",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-i-do-when-every-trusted-organisation-fails",
   topic: "which-organisations-i-trust",

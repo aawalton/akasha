@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatActivitySitsAtTheLowestRung = {
   id: "01a077eb-39a2-7726-9ccb-ace5ae144e34",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-activity-sits-at-the-lowest-rung",
   topic: "what-comes-back-into-reach-as-i-climb",

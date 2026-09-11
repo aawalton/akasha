@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howTheThreeSafetySignalsCombine = {
   id: "01a077e9-7d73-74d1-b3b2-1caa4dfc3944",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-the-three-safety-signals-combine",
   topic: "how-i-read-whether-someone-is-safe",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatFractionOfMyUnderstandingMatchesWhatOthersFeel = {
   id: "01a077e2-4d4d-74d8-9085-f8d317bbd023",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-fraction-of-my-understanding-matches-what-others-feel",
   topic: "getting-to-a-feeling-through-an-idea",

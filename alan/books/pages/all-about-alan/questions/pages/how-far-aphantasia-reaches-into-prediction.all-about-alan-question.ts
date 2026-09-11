@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howFarAphantasiaReachesIntoPrediction = {
   id: "01a0786e-2579-739f-977e-91c00fe3ba07",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-far-aphantasia-reaches-into-prediction",
   topic: "the-odds-of-a-hard-evening",

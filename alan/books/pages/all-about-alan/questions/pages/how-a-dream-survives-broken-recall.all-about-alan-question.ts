@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howADreamSurvivesBrokenRecall = {
   id: "01a077ed-6e27-7c8b-abb1-7d83b1766b77",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-a-dream-survives-broken-recall",
   topic: "what-happens-when-i-sleep",

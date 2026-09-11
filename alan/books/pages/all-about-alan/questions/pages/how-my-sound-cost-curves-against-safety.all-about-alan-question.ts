@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howMySoundCostCurvesAgainstSafety = {
   id: "01a077e3-7ac0-772a-ad30-e245b52c290b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-my-sound-cost-curves-against-safety",
   topic: "how-i-keep-sound-down",

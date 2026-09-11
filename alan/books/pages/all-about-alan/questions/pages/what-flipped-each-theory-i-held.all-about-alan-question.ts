@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatFlippedEachTheoryIHeld = {
   id: "01a077e4-c71c-71b9-a047-bcbe59f48296",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-flipped-each-theory-i-held",
   topic: "how-i-know-things",

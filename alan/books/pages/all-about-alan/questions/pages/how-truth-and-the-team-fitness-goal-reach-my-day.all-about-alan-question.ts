@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howTruthAndTheTeamFitnessGoalReachMyDay = {
   id: "01a077eb-8578-7905-92f1-a0033a0eccfa",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-truth-and-the-team-fitness-goal-reach-my-day",
   topic: "what-i-value-in-order",

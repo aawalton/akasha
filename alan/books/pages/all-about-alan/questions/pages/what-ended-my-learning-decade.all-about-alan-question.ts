@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatEndedMyLearningDecade = {
   id: "01a077ef-1288-741c-972a-bbd0360ff1da",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-ended-my-learning-decade",
   topic: "playing-the-long-game",

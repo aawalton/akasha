@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatFinishesTheUnfinishedSister = {
   id: "01a077ed-ff3c-764b-bc1d-11093619c277",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-finishes-the-unfinished-sister",
   topic: "which-channel-each-one-cuts-through",

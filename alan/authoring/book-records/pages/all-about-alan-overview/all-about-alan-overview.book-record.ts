@@ -2,7 +2,6 @@ import type { BookRecord } from "akasha/alan/authoring/book-records/book-record.
 
 export const allAboutAlanOverview = {
   id: "01a0657d-b91d-7600-a17e-e29618171ec3",
-  pageTypeSlug: "book-record",
   type: "book-record",
   slug: "all-about-alan-overview",
   title: "All About Alan — Overview",

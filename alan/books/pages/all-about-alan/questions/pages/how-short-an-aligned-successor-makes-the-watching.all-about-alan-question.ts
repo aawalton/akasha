@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howShortAnAlignedSuccessorMakesTheWatching = {
   id: "01a077ee-d279-7cdf-ab71-41868e2f9fd3",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-short-an-aligned-successor-makes-the-watching",
   topic: "when-a-company-changes-hands",

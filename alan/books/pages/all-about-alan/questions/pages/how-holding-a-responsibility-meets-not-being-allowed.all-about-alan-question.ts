@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howHoldingAResponsibilityMeetsNotBeingAllowed = {
   id: "01a077e3-98a5-7692-a299-019dd38b067a",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-holding-a-responsibility-meets-not-being-allowed",
   topic: "holding-a-responsibility",

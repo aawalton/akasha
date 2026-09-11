@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howMyWholeSetOfValuesOrders = {
   id: "01a077ec-4d9c-72bc-b561-6f2ae32c17ff",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-my-whole-set-of-values-orders",
   topic: "the-values-i-have-not-placed",

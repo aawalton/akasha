@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howTheFootprintSortsIntoAvoidanceAndArmour = {
   id: "01a077ea-c744-7f68-babf-4b08afbdb485",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-the-footprint-sorts-into-avoidance-and-armour",
   topic: "where-the-scar-ends",

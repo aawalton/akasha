@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howManyHoursFeelingMyBodyTook = {
   id: "01a077e5-63dc-7c6e-8654-d862eec5c2cb",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-many-hours-feeling-my-body-took",
   topic: "how-i-learned-to-feel-my-body",

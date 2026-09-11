@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howIBuildAnExternalGauge = {
   id: "01a077e9-0816-7030-8513-afce5c121172",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-i-build-an-external-gauge",
   topic: "how-i-read-myself",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatIsLeftToBuildOnTheFileStore = {
   id: "01a077e5-043d-787e-9e10-575b213215ae",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-is-left-to-build-on-the-file-store",
   topic: "what-i-gave-up-leaving-postgres",

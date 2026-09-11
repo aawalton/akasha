@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatBuildingTheGraphCosts = {
   id: "01a077e8-b61b-7988-8169-82f2c3e53e5e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-building-the-graph-costs",
   topic: "the-graph-i-built-to-run-my-checks",

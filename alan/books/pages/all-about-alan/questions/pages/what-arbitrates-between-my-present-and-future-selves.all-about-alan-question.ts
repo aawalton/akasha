@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatArbitratesBetweenMyPresentAndFutureSelves = {
   id: "01a077ec-34d9-7c0a-832e-9b70fa427b2e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-arbitrates-between-my-present-and-future-selves",
   topic: "the-ones-i-have-not-been-yet",

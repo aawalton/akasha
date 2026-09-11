@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howManyPointsICarryForATalk = {
   id: "01a077ee-6097-70d6-a8a0-0d71b911619c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-many-points-i-carry-for-a-talk",
   topic: "how-i-give-a-talk",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howMuchOfMyNarrowBandIsRecovery = {
   id: "01a077e3-2cd9-7f2f-8040-edbb0434ea71",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-much-of-my-narrow-band-is-recovery",
   topic: "how-stimulated-i-am",

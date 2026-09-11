@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatBeingCorrectedOnCoveredGroundCostsMe = {
   id: "01a077e1-758b-7431-8d82-09603a4d339b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-being-corrected-on-covered-ground-costs-me",
   topic: "arriving-ahead-of-whoever-teaches-me",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howFastARelationshipReadDecays = {
   id: "01a077e2-2607-797a-9b1d-888101dd68b0",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-fast-a-relationship-read-decays",
   topic: "how-stale-my-read-on-a-relationship-gets",

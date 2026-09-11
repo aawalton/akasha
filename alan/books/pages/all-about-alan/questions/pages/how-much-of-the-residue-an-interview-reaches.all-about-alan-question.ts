@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howMuchOfTheResidueAnInterviewReaches = {
   id: "01a077e7-fd11-7680-aae2-64d9743c5e0c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-much-of-the-residue-an-interview-reaches",
   topic: "how-i-prevent-a-category-of-wrong",

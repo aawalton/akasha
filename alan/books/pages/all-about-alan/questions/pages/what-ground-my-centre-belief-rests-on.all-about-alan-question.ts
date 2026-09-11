@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatGroundMyCentreBeliefRestsOn = {
   id: "01a077f0-1413-73b6-b1d1-4a9da9de5a1f",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-ground-my-centre-belief-rests-on",
   topic: "testing-the-thing-at-my-centre",

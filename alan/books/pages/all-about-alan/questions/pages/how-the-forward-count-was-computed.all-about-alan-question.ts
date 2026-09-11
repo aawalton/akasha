@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howTheForwardCountWasComputed = {
   id: "01a077ec-34d8-701e-92f0-e4989b593185",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-the-forward-count-was-computed",
   topic: "the-ones-i-have-not-been-yet",

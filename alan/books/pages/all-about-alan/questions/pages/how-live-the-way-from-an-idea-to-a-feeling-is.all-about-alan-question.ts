@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howLiveTheWayFromAnIdeaToAFeelingIs = {
   id: "01a077e2-4d4e-71c8-b14f-e7b1f6271f87",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-live-the-way-from-an-idea-to-a-feeling-is",
   topic: "getting-to-a-feeling-through-an-idea",

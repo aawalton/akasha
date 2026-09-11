@@ -2,7 +2,6 @@ import type { BookRecord } from "akasha/alan/authoring/book-records/book-record.
 
 export const bookOfEverythingRotation = {
   id: "01a0657d-b91d-7900-bcf9-9b0cca35747a",
-  pageTypeSlug: "book-record",
   type: "book-record",
   slug: "book-of-everything-rotation",
   title: "Book of Everything — Rotation Queue",

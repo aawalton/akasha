@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howMuchMoreOfTheThreeMillionGoes = {
   id: "01a077e9-e11a-7626-8507-d43e823b6018",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-much-more-of-the-three-million-goes",
   topic: "why-i-rebuilt-everything",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatHappensWhenAPersonaTipsYellow = {
   id: "01a077f3-1085-7ce1-9edd-aaa3be70c8c0",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-happens-when-a-persona-tips-yellow",
   topic: "the-coloured-circles-i-run-on",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatAGameSuppliesToSpareAttention = {
   id: "01a077eb-177f-7857-a1e5-fb920575c1c2",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-a-game-supplies-to-spare-attention",
   topic: "how-much-attention-i-have",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howMyGenderArchetypeRankingWorks = {
   id: "01a077e8-b06c-70d7-8c96-b4975afefd0e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-my-gender-archetype-ranking-works",
   topic: "where-i-land-on-gender",

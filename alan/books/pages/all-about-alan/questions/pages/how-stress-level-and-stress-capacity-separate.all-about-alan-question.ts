@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howStressLevelAndStressCapacitySeparate = {
   id: "01a077e3-561a-78d9-9606-a02fe8c9191c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-stress-level-and-stress-capacity-separate",
   topic: "health-bar",

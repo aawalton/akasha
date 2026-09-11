@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatHappensWhenAThingResistsChunking = {
   id: "01a077ef-f641-7687-a917-84c2db248f77",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-happens-when-a-thing-resists-chunking",
   topic: "how-something-joins-the-rotation",

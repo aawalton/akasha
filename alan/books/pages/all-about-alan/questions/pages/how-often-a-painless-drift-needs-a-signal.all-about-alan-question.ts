@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howOftenAPainlessDriftNeedsASignal = {
   id: "01a077ec-a1a0-7895-a470-9122375f37d3",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-often-a-painless-drift-needs-a-signal",
   topic: "nothing-i-do-starts-with-a-decision",

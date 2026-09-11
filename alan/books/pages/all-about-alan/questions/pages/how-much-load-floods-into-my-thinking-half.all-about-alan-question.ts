@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howMuchLoadFloodsIntoMyThinkingHalf = {
   id: "01a077e8-81d2-79e9-a7cd-ab55a4dbde49",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-much-load-floods-into-my-thinking-half",
   topic: "the-three-parts-of-me",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatClosingLooksLikeOnAChannelThatStaysOpen = {
   id: "01a077eb-4331-7384-9ae3-f3ccb5fbdc89",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-closing-looks-like-on-a-channel-that-stays-open",
   topic: "shutting-a-channel-after-it-hurt-me",

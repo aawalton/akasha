@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatBrokeInGithubsTeamPlan = {
   id: "01a077ee-76c6-7bc2-9856-bfc6f48b7936",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-broke-in-githubs-team-plan",
   topic: "how-my-services-decide-to-deploy",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatAutismsHalfOfMyExecutiveFunctionIs = {
   id: "01a077ee-12cd-74d1-94fe-087b316d051c",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-autisms-half-of-my-executive-function-is",
   topic: "how-i-get-anything-done",

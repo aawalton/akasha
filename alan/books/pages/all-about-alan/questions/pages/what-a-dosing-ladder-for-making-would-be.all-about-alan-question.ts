@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatADosingLadderForMakingWouldBe = {
   id: "01a077eb-6c35-7b2b-9d26-226a07b08b9d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-a-dosing-ladder-for-making-would-be",
   topic: "why-making-things-hurts",

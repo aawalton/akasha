@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatIBuiltThatFitsNeitherLine = {
   id: "01a077ee-94ff-7a69-9a82-8bb64a626824",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-i-built-that-fits-neither-line",
   topic: "what-happens-when-something-gets-cheap",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatLivingWithTheOppositeImageryPoleMeans = {
   id: "01a077ea-b02e-7d5e-acbe-bb379defb842",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-living-with-the-opposite-imagery-pole-means",
   topic: "the-twenty-years-we-remember-differently",

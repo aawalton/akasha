@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howChastityTeachingMeetsTheBodilyDemand = {
   id: "01a077ed-8934-7368-9119-5727c07679a0",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-chastity-teaching-meets-the-bodily-demand",
   topic: "whether-the-rule-survives",

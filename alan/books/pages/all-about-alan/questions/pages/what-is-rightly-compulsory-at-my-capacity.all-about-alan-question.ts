@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatIsRightlyCompulsoryAtMyCapacity = {
   id: "01a077e5-862b-7abf-bfdb-adbe254b6b24",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-is-rightly-compulsory-at-my-capacity",
   topic: "what-i-have-stopped-treating-as-compulsory",

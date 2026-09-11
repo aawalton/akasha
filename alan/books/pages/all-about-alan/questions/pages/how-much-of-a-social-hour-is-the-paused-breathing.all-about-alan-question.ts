@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howMuchOfASocialHourIsThePausedBreathing = {
   id: "01a077e7-9807-77db-b4fa-07a64cb84da2",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-much-of-a-social-hour-is-the-paused-breathing",
   topic: "what-interrupts-my-breathing",

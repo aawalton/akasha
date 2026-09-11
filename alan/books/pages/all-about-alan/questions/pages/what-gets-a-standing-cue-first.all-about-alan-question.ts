@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatGetsAStandingCueFirst = {
   id: "01a077e9-2550-7536-b405-68d98dbe66d7",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-gets-a-standing-cue-first",
   topic: "building-my-wants-into-the-room",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatCountsAsAnHourOfBeingKnown = {
   id: "01a077ec-a00f-7b8d-a5e0-30f9156ed2cb",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-counts-as-an-hour-of-being-known",
   topic: "how-much-being-known-i-need",

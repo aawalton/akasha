@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatGivesMyInstinctiveChannelAwayEarlier = {
   id: "01a077e6-d93d-7aa5-82a1-a9168454b041",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-gives-my-instinctive-channel-away-earlier",
   topic: "what-pulls-me-into-doing-something",

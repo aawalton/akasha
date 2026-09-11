@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatDecidesWhichJobASittingDoes = {
   id: "01a077e9-608f-7d44-b03a-959dc38fae1a",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-decides-which-job-a-sitting-does",
   topic: "letting-a-feeling-in-through-a-story",

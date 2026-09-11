@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howDependenceAndReachComposeIntoSafety = {
   id: "01a077f0-d5c5-75f3-be7a-b91d2f9a0a31",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-dependence-and-reach-compose-into-safety",
   topic: "who-is-safe-to-be-around",

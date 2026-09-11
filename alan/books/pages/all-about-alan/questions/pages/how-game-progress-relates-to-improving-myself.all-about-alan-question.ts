@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howGameProgressRelatesToImprovingMyself = {
   id: "01a077e2-906c-7738-8676-18bd6946002d",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-game-progress-relates-to-improving-myself",
   topic: "the-progress-i-get-to-keep",

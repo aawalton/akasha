@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatKeepingAnAgendaInCuesCosts = {
   id: "01a077e9-2551-7ce6-a1d5-8da0fd04aa01",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-keeping-an-agenda-in-cues-costs",
   topic: "building-my-wants-into-the-room",

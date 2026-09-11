@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howReachingForFoodMovesTheLight = {
   id: "01a077ee-526f-7928-88ae-c9bf709da104",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-reaching-for-food-moves-the-light",
   topic: "what-makes-me-start-eating",

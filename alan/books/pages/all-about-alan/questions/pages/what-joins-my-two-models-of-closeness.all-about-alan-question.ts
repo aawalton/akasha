@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatJoinsMyTwoModelsOfCloseness = {
   id: "01a077e6-2bea-7d59-9465-5bbda8d85b3b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-joins-my-two-models-of-closeness",
   topic: "why-getting-close-hurts",

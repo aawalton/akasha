@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howACapabilityAlternativeStopsBeingMaintainable = {
   id: "01a077e1-ff90-7f9c-bf20-79e5ff82caaa",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-a-capability-alternative-stops-being-maintainable",
   topic: "getting-out-from-under-a-dependency",

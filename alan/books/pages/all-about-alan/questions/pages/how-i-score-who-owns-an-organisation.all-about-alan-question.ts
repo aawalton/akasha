@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howIScoreWhoOwnsAnOrganisation = {
   id: "01a077e1-e829-791a-8b86-8e5b6138ba50",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-i-score-who-owns-an-organisation",
   topic: "how-i-grade-an-organisation",

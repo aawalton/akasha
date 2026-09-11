@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howTheThreeReadoutsTrackAgainstBeingAlone = {
   id: "01a077e2-8352-7ef1-927c-40cfa16a9e7f",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-the-three-readouts-track-against-being-alone",
   topic: "being-alone-on-purpose",

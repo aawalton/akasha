@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howBadSocialOutcomesBuildAnEncoding = {
   id: "01a077f1-b1c0-757e-9435-76de589b530a",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-bad-social-outcomes-build-an-encoding",
   topic: "why-a-threat-stays-fresh",

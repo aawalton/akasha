@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howOneSubstrateReshapesTheWriting = {
   id: "01a077e5-990c-7e20-a483-825b5e268c19",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-one-substrate-reshapes-the-writing",
   topic: "two-conditions-or-one",

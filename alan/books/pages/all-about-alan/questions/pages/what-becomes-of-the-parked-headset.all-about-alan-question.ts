@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatBecomesOfTheParkedHeadset = {
   id: "01a077e9-2b3b-7870-9d2c-f4c6a1c5398e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-becomes-of-the-parked-headset",
   topic: "sex",

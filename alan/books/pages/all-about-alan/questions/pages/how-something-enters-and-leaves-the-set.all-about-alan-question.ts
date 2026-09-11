@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howSomethingEntersAndLeavesTheSet = {
   id: "01a077ed-fdcb-7aae-8689-959d8361a371",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-something-enters-and-leaves-the-set",
   topic: "small-bites-of-many-things",

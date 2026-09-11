@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howManyRepetitionsMoveWhatAThingCosts = {
   id: "01a077e7-6eb2-7bfc-9057-fe4c7b4d5fed",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-many-repetitions-move-what-a-thing-costs",
   topic: "what-repetition-encodes",

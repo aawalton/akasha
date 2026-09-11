@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howLongICanWearEarbuds = {
   id: "01a077e3-7abf-7c72-b9e8-55e687348f68",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-long-i-can-wear-earbuds",
   topic: "how-i-keep-sound-down",

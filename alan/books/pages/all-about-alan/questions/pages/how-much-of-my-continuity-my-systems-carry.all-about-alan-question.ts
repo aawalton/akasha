@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howMuchOfMyContinuityMySystemsCarry = {
   id: "01a077e9-5957-71fb-85dc-60819e064281",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-much-of-my-continuity-my-systems-carry",
   topic: "the-three-seconds-i-am",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatCountsAsTheComputeHorizonPassing = {
   id: "01a077ea-9e63-7a89-a136-1ddd9098a6ca",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-counts-as-the-compute-horizon-passing",
   topic: "the-money-we-are-living-on",

@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howFarAheadADoseCanBeScheduled = {
   id: "01a077ed-3182-7646-9a2b-08a9247d7655",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-far-ahead-a-dose-can-be-scheduled",
   topic: "how-much-company-i-can-take",

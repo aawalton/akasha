@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatALostAgentTeamCostsMyContinuity = {
   id: "01a077e9-5957-713d-b67c-600cf1c56b9e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-a-lost-agent-team-costs-my-continuity",
   topic: "the-three-seconds-i-am",

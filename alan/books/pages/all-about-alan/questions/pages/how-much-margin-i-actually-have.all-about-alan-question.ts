@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howMuchMarginIActuallyHave = {
   id: "01a077e3-14c5-7b5a-b95e-00cbc12b2bbe",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-much-margin-i-actually-have",
   topic: "having-no-margin",

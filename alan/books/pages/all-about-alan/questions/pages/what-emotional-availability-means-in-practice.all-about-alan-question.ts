@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatEmotionalAvailabilityMeansInPractice = {
   id: "01a077f1-e2fd-7d86-b4e2-e3ebfb46f420",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-emotional-availability-means-in-practice",
   topic: "when-she-is-in-pain",

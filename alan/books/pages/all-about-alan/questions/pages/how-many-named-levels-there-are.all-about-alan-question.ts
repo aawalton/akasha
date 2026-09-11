@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howManyNamedLevelsThereAre = {
   id: "01a077f3-1084-7ff8-8d2c-5ab82718c73e",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-many-named-levels-there-are",
   topic: "the-coloured-circles-i-run-on",

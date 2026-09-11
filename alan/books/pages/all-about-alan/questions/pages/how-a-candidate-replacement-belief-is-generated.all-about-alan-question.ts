@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const howACandidateReplacementBeliefIsGenerated = {
   id: "01a077eb-ffdc-7383-9e3d-23604620d11b",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "how-a-candidate-replacement-belief-is-generated",
   topic: "digging-up-an-old-belief",

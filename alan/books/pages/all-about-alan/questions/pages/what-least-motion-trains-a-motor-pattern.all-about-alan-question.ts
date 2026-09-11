@@ -2,7 +2,6 @@ import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-ala
 
 export const whatLeastMotionTrainsAMotorPattern = {
   id: "01a077e5-e07e-795f-ad30-526937c844dd",
-  pageTypeSlug: "all-about-alan-question",
   type: "all-about-alan-question",
   slug: "what-least-motion-trains-a-motor-pattern",
   topic: "how-a-skill-gets-into-me",
