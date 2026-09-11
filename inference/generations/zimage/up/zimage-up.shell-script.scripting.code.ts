@@ -1,4 +1,5 @@
 import { dirname, relative } from "node:path"
+import { buildingFrom } from "akasha/inference/generations/comfy-up-building/comfy-up-building.module.code.ts"
 import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
@@ -58,18 +59,6 @@ function checking(): readonly string[] {
   ]
 }
 
-function building(given: string | Reading): readonly string[] {
-  return [
-    'mkdir -p "$DATA/cache" "$DATA/models" "$DATA/inputs" "$DATA/outputs"',
-    "",
-    'if ! podman image exists "$IMAGE"; then',
-    '  echo "==> Building $IMAGE…"',
-    `  podman build -t "$IMAGE" -f "$PKG_DIR/${recipeAt(given)}" "$PKG_DIR"`,
-    "fi",
-    "",
-  ]
-}
-
 function running(): readonly string[] {
   return [
     'if podman container exists "$CONTAINER"; then',
@@ -98,6 +87,6 @@ function running(): readonly string[] {
 }
 
 export function bodyIn(given: string | Reading): string {
-  const lines = [...opening(), ...checking(), ...building(given), ...running()]
+  const lines = [...opening(), ...checking(), ...buildingFrom(recipeAt(given)), ...running()]
   return `${lines.join("\n")}\n`
 }
