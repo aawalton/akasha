@@ -1,4 +1,4 @@
-import { pageStem } from "../page-stem/page-stem.module.code.ts"
+import { pageStem } from "akasha/pages/naming/named-for/page-stem/page-stem.module.code.ts"
 
 const HOLE = /\{([a-z0-9-]+)\}/g
 
