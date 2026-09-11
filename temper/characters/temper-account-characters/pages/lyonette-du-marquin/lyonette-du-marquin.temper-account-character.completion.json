@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATAHwsTAAIBhBRNiU_lYlP5WLmCVi5glYuYJWLmCVi5glEKjtRBAp0QQKdJjkx2xEEx1sAAAHNtZABE8AAAAAAAAAAAAAgDWEgBgGEACQAIAAQAACEAADJwIrAGYADkABKA4oARDJIHAnEQAwgAAACAMwHNAgQdIAADg4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWNo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBw2SNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAEBkGIJA1gA",
+  "buildHash": "ATQHwsTAAIBhBRNiU_lYlP5WLmCVi5glYuYJWLmCVi5glEKjtRBAp0QQKdJjkx2xEEx1sAAAHNtZABE8AAAAAAAAAAAAAgDWEgBgGEACQAIAAQAACEAADJwIrAGYADkABKA4oARDJIHAnEQAwgAAACAMwHNAgQdIAADg4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWNo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBw2SNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAEBkGIJA1gA",
   "gender": 1,
   "level": 50,
   "classId": 6,
@@ -9,7 +9,7 @@
   "className": "Templar",
   "classIcon": "/esoui/art/icons/class/class_templar.dds",
   "companionRapport": {
-    "6": 3143,
+    "6": 3148,
     "13": 772
   },
   "quests": [
@@ -13190,7 +13190,7 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-10"
+    "date": "2026-09-11"
   },
   "dailyWritStates": {
     "completed": {
@@ -13211,7 +13211,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-10"
+    "date": "2026-09-11"
   },
   "motifKnowledge": {
     "1": {
