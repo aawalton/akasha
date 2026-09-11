@@ -24,11 +24,6 @@ export const eppieSpotifyCleanup = {
         "`basicAuthHeader` takes the client id and secret out of `getCredentials()`, which `requireEnv`s `SPOTIFY_REDIRECT_URI` beside them and throws where it is unset. `forceRefresh` reaches it, so a refresh demands a redirect URI it never sends. `alanwalton-web` and `alanwalton-atlas` mount only the client id and secret, and no `alanwalton-secrets-spotify-redirect-uri` page exists. The only such page is `collections-secrets-spotify-redirect-uri`, mounted by nothing.\n",
     },
     {
-      statement: "One way of paging serves every Spotify read.",
-      workingMemory:
-        "Three exist. `paginateOffset` in `spotify-client` slices to `max` and is right. `searchPaginate` in `spotify-search` breaks on `items.length >= options.max` without slicing, so a page wider than `max` overshoots; its test uses a one-item page, which hides it. `paginateCursor` in `spotify-client` has no caller and no test, because `getRecentlyPlayed` hands back the raw cursor page instead.",
-    },
-    {
       statement: "Consent asks for no scope the spotify domain never uses.",
       workingMemory:
         "`SPOTIFY_SCOPES` names sixteen. Five are never exercised: `playlist-modify-public`, `playlist-modify-private`, `user-library-modify`, `user-follow-modify` and `ugc-image-upload`. The domain reads the player, search, one track and the top items, and commands the player; it writes no playlist, saves no track, follows no artist and uploads no image. Dropping a scope means asking Alan for consent again, so this waits on the next consent rather than calling for one.",
