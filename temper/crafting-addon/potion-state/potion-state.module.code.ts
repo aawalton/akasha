@@ -169,11 +169,7 @@ const ACCOUNT_DEFAULTS: AccountSettings = {
   favorites: {},
 }
 
-function asPotMaker(value: unknown): PotMaker {
-  return value as PotMaker
-}
-
-export const PotMaker: PotMaker = asPotMaker({
+const POT_MAKER_SEED: Partial<PotMaker> = {
   name: "TemperPotions",
   version: "5.10.2",
   descriptorPotion: "TemperPotions",
@@ -219,4 +215,6 @@ export const PotMaker: PotMaker = asPotMaker({
     [ITEMTYPE_POTION_BASE]: new Map<Control, boolean>(),
     [ITEMTYPE_POISON_BASE]: new Map<Control, boolean>(),
   },
-})
+}
+
+export const PotMaker = POT_MAKER_SEED as PotMaker
