@@ -83,6 +83,10 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "absence",
+      statement: "A body that is only a literal is read as a rule though nothing in it can change.",
+    },
+    {
+      invariantKind: "absence",
       statement: "A writer is never sent to add a module to quiet this check.",
     },
     {
@@ -183,6 +187,16 @@ export const noRuleInTwoFiles = {
       invariantKind: "absence",
       statement:
         "A module-private name two files share reads as one rule, so never repeating one hides a duplicate.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "Two files repeating one private name pair as one rule though each name reads a different thing.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A body reading `import.meta` is one rule text naming a different file wherever that body sits.",
     },
   ],
   check: { maxCpuSeconds: 10 },
