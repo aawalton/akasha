@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "One check refuses, at 253. page-matches-its-type is at zero: a one-of whose members the check opens, landed only after widening proved the count still 11. What is left of no-rule-in-two-files is half artefact of how ruleOf reads, so print the rule and blank every free name before believing a family. Worse, it sees only declarations: the same rule is written inline 25 more times inside bigger functions, and it pairs none of them. A count is the least a fold is worth, never a measure.",
+        "One check refuses, at 235. 34 of those answer a constant, like a body returning null in six files and a route title in four, which the check's own departure that a body with nothing to change cannot drift already covers and no work can mend. Half of the rest is artefact of how ruleOf reads, so print the rule and blank every free name before believing a family. It pairs declarations only: one folded family is still written inline 25 more times.",
     },
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
