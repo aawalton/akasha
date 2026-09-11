@@ -20,4 +20,5 @@ export const repoRoot = {
       statement: "No root is derived from where this file itself sits.",
     },
   ],
+  answersACheckoutRoot: true,
 } as const satisfies Module

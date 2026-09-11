@@ -51,4 +51,5 @@ export const checkoutRoots = {
         "A root taken from the environment is kept, and answered even after the environment names none.",
     },
   ],
+  answersACheckoutRoot: true,
 } as const satisfies Module

@@ -26,4 +26,5 @@ export const codeRoot = {
       statement: "The `code` repository is now part of akasha.",
     },
   ],
+  answersACheckoutRoot: true,
 } as const satisfies Module
