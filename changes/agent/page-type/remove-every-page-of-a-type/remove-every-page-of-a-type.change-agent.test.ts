@@ -1,5 +1,21 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  removeEveryPageOfAType,
+  runChange,
+} from "akasha/changes/agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.code.ts"
+import { runChange as removeFile } from "akasha/changes/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
+import { runChange as removeCodeFile } from "akasha/changes/mechanical/file/remove/remove-file-code/remove-file-code.change-mechanical.code.ts"
+import { runChange as removePage } from "akasha/changes/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts"
+import { removePropertyValue } from "akasha/changes/mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
+import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import {
+  bodiesIn,
+  ledgerAt,
+  type Reaching,
+  type World,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
   aType,
   bodyOf,
   idOf,
@@ -8,22 +24,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { runChange as removeFile } from "../../../mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
-import { runChange as removeCodeFile } from "../../../mechanical/file/remove/remove-file-code/remove-file-code.change-mechanical.code.ts"
-import { runChange as removePage } from "../../../mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts"
-import { removePropertyValue } from "../../../mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
-import { pathsIn, refusing } from "../../../modules/answer/change-answer.module.code.ts"
-import {
-  bodiesIn,
-  ledgerAt,
-  type Reaching,
-  type World,
-  worldAt,
-} from "../../../modules/shadow/change-shadow.module.code.ts"
-import {
-  removeEveryPageOfAType,
-  runChange,
-} from "./remove-every-page-of-a-type.change-agent.code.ts"
 
 const REMOVE_FILE_PAGE = "change-mechanical-file/remove-file-page"
 

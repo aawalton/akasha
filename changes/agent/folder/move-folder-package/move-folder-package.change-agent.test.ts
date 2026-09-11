@@ -1,9 +1,12 @@
 import { expect, test } from "bun:test"
 import {
+  moveFolderPackage,
+  runChange,
+} from "akasha/changes/agent/folder/move-folder-package/move-folder-package.change-agent.code.ts"
+import {
   type Carried,
   worldRecording,
-} from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { moveFolderPackage, runChange } from "./move-folder-package.change-agent.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const AT = "akasha/code-system/code-system.workspace-package.ts"
 

@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import { refusing, stating } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Reaching, World } from "../../../modules/shadow/change-shadow.module.code.ts"
-import { worldOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   removePropertyFromPageType,
   runChange,
-} from "./remove-property-from-page-type.change-agent.code.ts"
+} from "akasha/changes/agent/page-type/remove-property-from-page-type/remove-property-from-page-type.change-agent.code.ts"
+import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Reaching, World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const OWNER_AT = "held/ios-apps/ios-app.page-type.ts"
 

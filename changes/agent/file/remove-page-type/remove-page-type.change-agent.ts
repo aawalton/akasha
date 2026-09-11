@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
+import type { ChangeAgent } from "akasha/changes/agent/change-agent.page-type.types.ts"
 
 export const removePageType = {
   id: "01a0783a-11c0-7891-a250-63a80bef1c95",

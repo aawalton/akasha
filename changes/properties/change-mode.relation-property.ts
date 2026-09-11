@@ -1,4 +1,4 @@
-import type { RelationProperty } from "../../pages/relation-properties/relation-property.page-type.types.ts"
+import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
 
 export const changeMode = {
   id: "01a07c24-7fb6-7822-ae49-528d32267cb2",

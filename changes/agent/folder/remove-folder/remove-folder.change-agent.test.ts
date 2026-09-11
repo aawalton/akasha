@@ -1,8 +1,14 @@
 import { expect, test } from "bun:test"
-import { refusing } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
-import { NOTHING_OVER, type World } from "../../../modules/shadow/change-shadow.module.code.ts"
-import { removeFolder, runChange } from "./remove-folder.change-agent.code.ts"
+import {
+  removeFolder,
+  runChange,
+} from "akasha/changes/agent/folder/remove-folder/remove-folder.change-agent.code.ts"
+import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  NOTHING_OVER,
+  type World,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const AT = "akasha/code-system"
 

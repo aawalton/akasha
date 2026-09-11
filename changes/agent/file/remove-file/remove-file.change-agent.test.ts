@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import { runChange as removeFileMechanical } from "../../../mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
-import { refusing } from "../../../modules/answer/change-answer.module.code.ts"
+import { removeFile } from "akasha/changes/agent/file/remove-file/remove-file.change-agent.code.ts"
+import { runChange as removeFileMechanical } from "akasha/changes/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
+import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
   type Reaching,
   type World,
-} from "../../../modules/shadow/change-shadow.module.code.ts"
-import { removeFile } from "./remove-file.change-agent.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const ASKED = "the world was asked"
 

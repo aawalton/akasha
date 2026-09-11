@@ -2,20 +2,23 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  moveFolder,
+  runChange,
+} from "akasha/changes/agent/folder/move-folder/move-folder.change-agent.code.ts"
+import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
+import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
+import { runChange as moveFolderMechanical } from "akasha/changes/mechanical/folder/move/move-folder/move-folder.change-mechanical-folder.code.ts"
+import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { bodyIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { type World, worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { landingFrom } from "akasha/commands/modules/edits-landing/edits-landing.module.code.ts"
+import { baseOf } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { movedOnto } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
+import {
   indexedRepo,
   pageOf,
   scratch,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { landingFrom } from "../../../../commands/modules/edits-landing/edits-landing.module.code.ts"
-import { baseOf } from "../../../../commands/modules/landing/landing.module.code.ts"
-import { movedOnto } from "../../../../commands/modules/path-moving/path-moving.module.code.ts"
-import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { runChange as moveFolderMechanical } from "../../../mechanical/folder/move/move-folder/move-folder.change-mechanical-folder.code.ts"
-import { pathsIn } from "../../../modules/answer/change-answer.module.code.ts"
-import { bodyIn } from "../../../modules/edits-keeping/edits-keeping.module.code.ts"
-import { type World, worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
-import { moveFolder, runChange } from "./move-folder.change-agent.code.ts"
 
 afterAll(scratch.sweep)
 

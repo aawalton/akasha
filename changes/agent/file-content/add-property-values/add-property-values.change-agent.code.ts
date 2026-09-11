@@ -1,6 +1,9 @@
-import { reaches } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
-import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
+import {
+  gathered,
+  missing,
+  refusing,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   afterIn,
   declaresIn,
@@ -10,8 +13,9 @@ import {
   spelledIn,
   targetsIn,
   typeIn,
-} from "../../../modules/page-knowing/page-knowing.module.code.ts"
-import { reach, type World } from "../../../modules/shadow/change-shadow.module.code.ts"
+} from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
+import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { reaches } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 
 const ADD_PROPERTY_VALUE = "change-mechanical-file-content/add-property-value"
 

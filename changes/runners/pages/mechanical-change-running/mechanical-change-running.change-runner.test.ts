@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import { refusing, stating } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Answer as Said } from "../../../modules/answer/change-answer.module.types.ts"
-import { ledgerAt, type Reaching } from "../../../modules/shadow/change-shadow.module.code.ts"
+import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer as Said } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { ledgerAt, type Reaching } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   type Asking,
   foldedOver,
   runMechanicalChange,
-} from "./mechanical-change-running.change-runner.code.ts"
+} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 
 const ADD = "change-mechanical-file/add-file"
 

@@ -1,4 +1,12 @@
 import {
+  gathered,
+  missing,
+  pathsIn,
+  refusing,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
   declaredNamed,
   declaredOn,
   exportsNamed,
@@ -12,16 +20,8 @@ import {
 } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { importingOf } from "akasha/pages/indexes/path-naming/path-naming.module.code.ts"
 import ts from "typescript"
-import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
-import {
-  gathered,
-  missing,
-  pathsIn,
-  refusing,
-} from "../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../modules/shadow/change-shadow.module.code.ts"
 
 export const LINE = "--line"
 

@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
+import type { ChangeAgent } from "akasha/changes/agent/change-agent.page-type.types.ts"
 
 export const addFilePropertyExtensions = {
   id: "01a08e26-f9a5-707a-9db0-7a5b52d73384",

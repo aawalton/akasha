@@ -1,4 +1,16 @@
 import {
+  gathered,
+  missing,
+  refusing,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  isLedger,
+  ledgerAt,
+  reach,
+  type World,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
   type ProseAt,
   proseFrom,
   type Reach,
@@ -12,14 +24,6 @@ import {
 } from "akasha/domains/standard-agent-english/prose-restating/prose-restating.module.code.ts"
 import type { Pattern } from "akasha/domains/standard-agent-english/prose-rewrite/prose-rewrite.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
-import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
-import {
-  isLedger,
-  ledgerAt,
-  reach,
-  type World,
-} from "../../../modules/shadow/change-shadow.module.code.ts"
 
 const BANNED_TERM = "banned-term"
 

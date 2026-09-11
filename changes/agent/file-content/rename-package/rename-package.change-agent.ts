@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
+import type { ChangeAgent } from "akasha/changes/agent/change-agent.page-type.types.ts"
 
 export const renamePackage = {
   id: "01a079db-f6e1-71b9-af6e-fd2b77ce7f9d",

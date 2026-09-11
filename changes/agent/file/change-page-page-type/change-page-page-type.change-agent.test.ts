@@ -1,4 +1,17 @@
 import { afterAll, expect, test } from "bun:test"
+import { changePagePageType } from "akasha/changes/agent/file/change-page-page-type/change-page-page-type.change-agent.code.ts"
+import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
+import { runChange as changeFile } from "akasha/changes/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
+import { runChange as restatePageType } from "akasha/changes/mechanical/file-content/change/change-page-page-type/change-page-page-type.change-mechanical-file-content.code.ts"
+import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
+import { runChange as renamePageAddress } from "akasha/changes/mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
+import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import {
+  bodiesIn,
+  type Reaching,
+  type World,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   bodyOf,
   idOf,
@@ -7,19 +20,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as changeFile } from "../../../mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
-import { runChange as restatePageType } from "../../../mechanical/file-content/change/change-page-page-type/change-page-page-type.change-mechanical-file-content.code.ts"
-import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { runChange as renamePageAddress } from "../../../mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
-import { pathsIn, refusing } from "../../../modules/answer/change-answer.module.code.ts"
-import {
-  bodiesIn,
-  type Reaching,
-  type World,
-  worldAt,
-} from "../../../modules/shadow/change-shadow.module.code.ts"
-import { changePagePageType } from "./change-page-page-type.change-agent.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,6 +1,6 @@
-import { missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Said } from "../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../modules/shadow/change-shadow.module.code.ts"
+import { missing, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Said } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const MOVE_FOLDER = "change-mechanical-folder/move-folder"
 

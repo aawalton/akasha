@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import { refusing, stating } from "../../../modules/answer/change-answer.module.code.ts"
+import { appendLinesCommand } from "akasha/changes/agent/file-content/append-lines/append-lines.change-agent.code.ts"
+import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
   type Reaching,
   type World,
-} from "../../../modules/shadow/change-shadow.module.code.ts"
-import { appendLinesCommand } from "./append-lines.change-agent.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const AT = "akasha/one/held.jsonl"
 

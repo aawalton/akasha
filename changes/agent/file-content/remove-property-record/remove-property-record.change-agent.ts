@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
+import type { ChangeAgent } from "akasha/changes/agent/change-agent.page-type.types.ts"
 
 export const removePropertyRecord = {
   id: "01a081ee-d2ea-7846-af0b-049ae0500371",

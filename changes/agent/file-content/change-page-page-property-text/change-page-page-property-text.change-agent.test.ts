@@ -1,18 +1,18 @@
 import { expect, test } from "bun:test"
-import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import { runChange as changeValue } from "../../../mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
-import { refusing } from "../../../modules/answer/change-answer.module.code.ts"
+import {
+  changePagePropertyText,
+  runChange,
+} from "akasha/changes/agent/file-content/change-page-page-property-text/change-page-page-property-text.change-agent.code.ts"
+import { runChange as changeValue } from "akasha/changes/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
+import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   NOTHING_OVER,
   type Reaching,
   type World,
-} from "../../../modules/shadow/change-shadow.module.code.ts"
-import {
-  changePagePropertyText,
-  runChange,
-} from "./change-page-page-property-text.change-agent.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file-content/change-page-page-property") {

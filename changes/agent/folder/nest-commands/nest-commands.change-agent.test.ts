@@ -1,18 +1,18 @@
 import { afterAll, expect, test } from "bun:test"
 import {
-  indexedRepo,
-  scratch,
-  textIn,
-} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { type World, worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
-import {
   folderFor,
   folderUnder,
   heldBy,
   namedUnder,
   nestCommands,
   runChange,
-} from "./nest-commands.change-agent.code.ts"
+} from "akasha/changes/agent/folder/nest-commands/nest-commands.change-agent.code.ts"
+import { type World, worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
+  indexedRepo,
+  scratch,
+  textIn,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 afterAll(scratch.sweep)
 

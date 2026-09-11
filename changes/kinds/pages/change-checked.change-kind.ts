@@ -1,4 +1,4 @@
-import type { ChangeKind } from "../change-kind.page-type.types.ts"
+import type { ChangeKind } from "akasha/changes/kinds/change-kind.page-type.types.ts"
 
 export const changeChecked = {
   id: "01a0725c-56f6-7761-b210-d08f0ff70c22",

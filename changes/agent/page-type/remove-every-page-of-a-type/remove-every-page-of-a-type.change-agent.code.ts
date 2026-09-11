@@ -1,11 +1,15 @@
-import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
+import {
+  gathered,
+  missing,
+  refusing,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   isLedger,
   ledgerAt,
   reach,
   type World,
-} from "../../../modules/shadow/change-shadow.module.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const REMOVE_FILE_PAGE = "change-mechanical-file/remove-file-page"
 

@@ -1,5 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  aliasedTo,
+  aliasGoingIn,
+  removePackageAlias,
+  runChange,
+} from "akasha/changes/agent/file-content/remove-package-alias/remove-package-alias.change-agent.code.ts"
+import {
+  bodiesIn,
+  type World,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
   bodyOf,
   indexedRepo,
   pageOf,
@@ -7,13 +18,6 @@ import {
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import ts from "typescript"
-import { bodiesIn, type World, worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
-import {
-  aliasedTo,
-  aliasGoingIn,
-  removePackageAlias,
-  runChange,
-} from "./remove-package-alias.change-agent.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,16 +1,20 @@
-import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { partsOf } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
-import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
-import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
+import {
+  gathered,
+  missing,
+  refusing,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { pageIn } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
 import {
   isLedger,
   ledgerAt,
   type Reaches,
   reach,
   type World,
-} from "../../../modules/shadow/change-shadow.module.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { partsOf } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 
 const CHANGE_PAGE_PROPERTY = "change-mechanical-file-content/change-page-page-property"
 

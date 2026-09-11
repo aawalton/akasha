@@ -1,11 +1,14 @@
 import { expect, test } from "bun:test"
-import type { World } from "../../../modules/shadow/change-shadow.module.code.ts"
-import { catching, worldOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   addPropertyToPageType,
   recordFor,
   runChange,
-} from "./add-property-to-page-type.change-agent.code.ts"
+} from "akasha/changes/agent/page-type/add-property-to-page-type/add-property-to-page-type.change-agent.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
+  catching,
+  worldOf,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const OWNER_AT = "held/ios-apps/ios-app.page-type.ts"
 

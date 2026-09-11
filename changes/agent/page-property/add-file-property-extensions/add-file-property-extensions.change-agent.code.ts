@@ -1,16 +1,16 @@
-import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
-import { typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import ts from "typescript"
-import { gathered, refusing } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
-import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
+import { gathered, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { pageIn } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
 import {
   isLedger,
   ledgerAt,
   reach,
   type World,
-} from "../../../modules/shadow/change-shadow.module.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import ts from "typescript"
 
 const ADD_PAGE_PROPERTY = "change-mechanical-file-content/add-page-property"
 

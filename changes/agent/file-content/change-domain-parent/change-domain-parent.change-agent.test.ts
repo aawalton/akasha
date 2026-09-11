@@ -1,9 +1,12 @@
 import { expect, test } from "bun:test"
 import {
+  changeDomainParent,
+  runChange,
+} from "akasha/changes/agent/file-content/change-domain-parent/change-domain-parent.change-agent.code.ts"
+import {
   type Carried,
   worldRecording,
-} from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { changeDomainParent, runChange } from "./change-domain-parent.change-agent.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const PAGE = "command/imessage-contacts"
 

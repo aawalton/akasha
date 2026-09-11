@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
+import type { ChangeAgent } from "akasha/changes/agent/change-agent.page-type.types.ts"
 
 export const addPropertyValues = {
   id: "01a08881-c01c-75fd-94e8-42afd3afb064",

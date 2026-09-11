@@ -1,12 +1,15 @@
 import { join } from "node:path"
+import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer, Said } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { guardedBy } from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
+import type { Guard } from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
+import { type World, worldBefore } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { kindOf } from "akasha/changes/modules/target-kinding/target-kinding.module.code.ts"
+import {
+  narrows,
+  slugIn,
+} from "akasha/changes/modules/target-narrowing/target-narrowing.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
-import { refusing } from "../../modules/answer/change-answer.module.code.ts"
-import type { Answer, Said } from "../../modules/answer/change-answer.module.types.ts"
-import { guardedBy } from "../../modules/guarding/change-guarding.module.code.ts"
-import type { Guard } from "../../modules/guarding/change-guarding.module.types.ts"
-import { type World, worldBefore } from "../../modules/shadow/change-shadow.module.code.ts"
-import { kindOf } from "../../modules/target-kinding/target-kinding.module.code.ts"
-import { narrows, slugIn } from "../../modules/target-narrowing/target-narrowing.module.code.ts"
 
 const CODE = "code"
 const TS = "ts"

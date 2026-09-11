@@ -1,8 +1,14 @@
 import { expect, test } from "bun:test"
+import {
+  removePropertyValue,
+  runChange,
+} from "akasha/changes/agent/file-content/remove-property-value/remove-property-value.change-agent.code.ts"
+import {
+  NOTHING_OVER,
+  type World,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { knownOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import { NOTHING_OVER, type World } from "../../../modules/shadow/change-shadow.module.code.ts"
-import { knownOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { removePropertyValue, runChange } from "./remove-property-value.change-agent.code.ts"
 
 const AT = "held/held.domain.ts"
 

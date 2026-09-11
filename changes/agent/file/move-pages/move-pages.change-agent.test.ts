@@ -1,4 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
+import { runChange } from "akasha/changes/agent/file/move-pages/move-pages.change-agent.code.ts"
+import { runChange as moveFile } from "akasha/changes/mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
+import { runChange as moveFileCode } from "akasha/changes/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
+import { runChange as moveFileOfAnyKind } from "akasha/changes/mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.code.ts"
+import { runChange as moveFilePage } from "akasha/changes/mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.code.ts"
+import { runChange as changeImports } from "akasha/changes/mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
+import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import {
+  bodiesIn,
+  type World,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   HELD_CODE,
   HELD_PAGE,
@@ -8,14 +20,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
-import { runChange as moveFileCode } from "../../../mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
-import { runChange as moveFileOfAnyKind } from "../../../mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.code.ts"
-import { runChange as moveFilePage } from "../../../mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.code.ts"
-import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { pathsIn, refusing } from "../../../modules/answer/change-answer.module.code.ts"
-import { bodiesIn, type World, worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
-import { runChange } from "./move-pages.change-agent.code.ts"
 
 afterAll(scratch.sweep)
 

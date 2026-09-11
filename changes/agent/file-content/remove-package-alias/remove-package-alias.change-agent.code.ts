@@ -1,3 +1,23 @@
+import {
+  missing,
+  refusing,
+  splicing,
+  stating,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type {
+  FileChange,
+  Said,
+  Splice,
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  entriesGoingIn,
+  objectAt,
+} from "akasha/changes/modules/json-entries/json-entries.module.code.ts"
+import {
+  aliasIn,
+  nameFor,
+} from "akasha/changes/modules/package-naming/package-naming.module.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { placedIn } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import {
@@ -7,20 +27,6 @@ import {
 } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import ts from "typescript"
-import {
-  missing,
-  refusing,
-  splicing,
-  stating,
-} from "../../../modules/answer/change-answer.module.code.ts"
-import type {
-  FileChange,
-  Said,
-  Splice,
-} from "../../../modules/answer/change-answer.module.types.ts"
-import { entriesGoingIn, objectAt } from "../../../modules/json-entries/json-entries.module.code.ts"
-import { aliasIn, nameFor } from "../../../modules/package-naming/package-naming.module.code.ts"
-import type { World } from "../../../modules/shadow/change-shadow.module.code.ts"
 
 const AT = "at"
 

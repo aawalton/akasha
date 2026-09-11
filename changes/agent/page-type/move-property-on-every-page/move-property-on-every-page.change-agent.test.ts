@@ -1,19 +1,19 @@
 import { expect, test } from "bun:test"
-import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { runChange as addKey } from "../../../mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.code.ts"
-import { runChange as removeKey } from "../../../mechanical/file-content/remove/remove-page-property/remove-page-property.change-mechanical-file-content.code.ts"
-import { refusing } from "../../../modules/answer/change-answer.module.code.ts"
+import {
+  movePropertyOnEveryPage,
+  runChange,
+} from "akasha/changes/agent/page-type/move-property-on-every-page/move-property-on-every-page.change-agent.code.ts"
+import { runChange as addKey } from "akasha/changes/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.code.ts"
+import { runChange as removeKey } from "akasha/changes/mechanical/file-content/remove/remove-page-property/remove-page-property.change-mechanical-file-content.code.ts"
+import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type Reaching,
   type World,
-} from "../../../modules/shadow/change-shadow.module.code.ts"
-import { worldOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { spelledAs } from "../../../modules/value-carrying/value-carrying.module.code.ts"
-import {
-  movePropertyOnEveryPage,
-  runChange,
-} from "./move-property-on-every-page.change-agent.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import { spelledAs } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
+import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file-content/add-page-property") {

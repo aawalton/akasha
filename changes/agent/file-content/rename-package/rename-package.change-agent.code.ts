@@ -1,5 +1,21 @@
 import { dirname } from "node:path"
 import {
+  missing,
+  refusing,
+  splicing,
+  stating,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type {
+  FileChange,
+  Said,
+  Splice,
+} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  aliasIn,
+  spelledAnew,
+} from "akasha/changes/modules/package-naming/package-naming.module.code.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
   namingIn,
   refusalOf,
 } from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
@@ -14,19 +30,6 @@ import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/fo
 import type { Matching } from "akasha/pages/name-formats/modules/name-matching/name-matching.module.code.ts"
 import { lowerKebabCase } from "akasha/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.ts"
 import ts from "typescript"
-import {
-  missing,
-  refusing,
-  splicing,
-  stating,
-} from "../../../modules/answer/change-answer.module.code.ts"
-import type {
-  FileChange,
-  Said,
-  Splice,
-} from "../../../modules/answer/change-answer.module.types.ts"
-import { aliasIn, spelledAnew } from "../../../modules/package-naming/package-naming.module.code.ts"
-import type { World } from "../../../modules/shadow/change-shadow.module.code.ts"
 
 const AT = "at"
 

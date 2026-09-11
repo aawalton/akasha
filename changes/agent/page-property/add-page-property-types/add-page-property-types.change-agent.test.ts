@@ -1,11 +1,14 @@
 import { expect, test } from "bun:test"
-import type { Reaching, World } from "../../../modules/shadow/change-shadow.module.code.ts"
+import {
+  addPagePropertyTypes,
+  runChange,
+} from "akasha/changes/agent/page-property/add-page-property-types/add-page-property-types.change-agent.code.ts"
+import type { Reaching, World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   catching,
   refusingAt,
   worldOf,
-} from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { addPagePropertyTypes, runChange } from "./add-page-property-types.change-agent.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const KIND = "boolean-property"
 

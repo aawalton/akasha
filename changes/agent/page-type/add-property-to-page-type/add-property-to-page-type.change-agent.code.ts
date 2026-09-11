@@ -1,12 +1,16 @@
-import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
-import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
+import {
+  gathered,
+  missing,
+  refusing,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { pageIn } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
 import {
   isLedger,
   ledgerAt,
   reach,
   type World,
-} from "../../../modules/shadow/change-shadow.module.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const ADD_RECORD = "change-mechanical-file-content/add-property-record"
 

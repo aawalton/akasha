@@ -1,4 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
+import { runChange } from "akasha/changes/agent/file-content/add-property-values/add-property-values.change-agent.code.ts"
+import { runChange as addPropertyValue } from "akasha/changes/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.code.ts"
+import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import {
+  bodiesIn,
+  NOTHING_OVER,
+  type World,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { knownOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   indexedRepo,
   NAMER_PAGE,
@@ -7,16 +17,6 @@ import {
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import { runChange as addPropertyValue } from "../../../mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.code.ts"
-import { pathsIn, refusing } from "../../../modules/answer/change-answer.module.code.ts"
-import {
-  bodiesIn,
-  NOTHING_OVER,
-  type World,
-  worldAt,
-} from "../../../modules/shadow/change-shadow.module.code.ts"
-import { knownOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { runChange } from "./add-property-values.change-agent.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
+import type { ChangeAgent } from "akasha/changes/agent/change-agent.page-type.types.ts"
 
 export const dividePageProperty = {
   id: "01a08df3-43fc-70b7-b21c-a996acd3d268",

@@ -1,17 +1,20 @@
 import { expect, test } from "bun:test"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import { runChange as changeField } from "../../../mechanical/file-content/change/change-property-record-field/change-property-record-field.change-mechanical-file-content.code.ts"
-import { refusing } from "../../../modules/answer/change-answer.module.code.ts"
+import {
+  changePropertyRecordField,
+  runChange,
+} from "akasha/changes/agent/file-content/change-property-record-field/change-property-record-field.change-agent.code.ts"
+import { runChange as changeField } from "akasha/changes/mechanical/file-content/change/change-property-record-field/change-property-record-field.change-mechanical-file-content.code.ts"
+import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
   type Reaching,
   type World,
-} from "../../../modules/shadow/change-shadow.module.code.ts"
-import { bodyOf, worldFor } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
-  changePropertyRecordField,
-  runChange,
-} from "./change-property-record-field.change-agent.code.ts"
+  bodyOf,
+  worldFor,
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 
 const ADDRESS = "change-mechanical-file-content/change-property-record-field"
 

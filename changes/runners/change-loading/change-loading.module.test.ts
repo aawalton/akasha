@@ -1,20 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
-import {
-  HELD_PAGE,
-  indexedRepo,
-  scratch,
-  textIn,
-} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { refusing, stating } from "../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../modules/answer/change-answer.module.types.ts"
-import type { Guard } from "../../modules/guarding/change-guarding.module.types.ts"
+import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { Guard } from "akasha/changes/modules/guarding/change-guarding.module.types.ts"
 import {
   addedTo,
   isLedger,
   ledgerAt,
   NOTHING_OVER,
   type World,
-} from "../../modules/shadow/change-shadow.module.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   codeAt,
   loadedAt,
@@ -22,7 +16,13 @@ import {
   ranBy,
   sittingAt,
   targetRefusal,
-} from "./change-loading.module.code.ts"
+} from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
+import {
+  HELD_PAGE,
+  indexedRepo,
+  scratch,
+  textIn,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 
 afterAll(scratch.sweep)
 

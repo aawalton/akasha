@@ -1,19 +1,23 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  dependingIn,
+  objectPut,
+  removePackageManifest,
+  runChange,
+  waysIn,
+} from "akasha/changes/agent/file/remove-package-manifest/remove-package-manifest.change-agent.code.ts"
+import {
+  bodiesIn,
+  type World,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
   bodyOf,
   indexedRepo,
   pageOf,
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { bodiesIn, type World, worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
-import {
-  dependingIn,
-  objectPut,
-  removePackageManifest,
-  runChange,
-  waysIn,
-} from "./remove-package-manifest.change-agent.code.ts"
 
 afterAll(scratch.sweep)
 

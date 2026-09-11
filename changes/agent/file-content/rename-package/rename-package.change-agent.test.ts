@@ -1,14 +1,21 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  renamePackage,
+  runChange,
+} from "akasha/changes/agent/file-content/rename-package/rename-package.change-agent.code.ts"
+import type { Said } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  bodiesIn,
+  type World,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
   bodyOf,
   indexedRepo,
   pageOf,
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import type { Said } from "../../../modules/answer/change-answer.module.types.ts"
-import { bodiesIn, type World, worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
-import { renamePackage, runChange } from "./rename-package.change-agent.code.ts"
 
 afterAll(scratch.sweep)
 

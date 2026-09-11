@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import { refusing, stating } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Reaching, World } from "../../../modules/shadow/change-shadow.module.code.ts"
-import { worldOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   renamePagePropertyPropertySlug,
   runChange,
-} from "./rename-page-property-property-slug.change-agent.code.ts"
+} from "akasha/changes/agent/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-agent.code.ts"
+import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Reaching, World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { worldOf } from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 
 const CODE_AT = "akasha/code/code.file-property.ts"
 

@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
+import { runChange } from "akasha/changes/agent/file/rename-pages/rename-pages.change-agent.code.ts"
 import {
   type Carried,
   worldRecording,
-} from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
-import { runChange } from "./rename-pages.change-agent.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.test-fixtures.ts"
 
 const ONE = "akasha/one/held.module.ts"
 

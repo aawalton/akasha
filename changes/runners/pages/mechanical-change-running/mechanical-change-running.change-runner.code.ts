@@ -1,23 +1,23 @@
-import {
-  type Applied,
-  applied,
-} from "../../../../commands/modules/applying/applying.module.code.ts"
-import type { Running } from "../../../../commands/modules/drafting/drafting.module.code.ts"
-import { landingFrom } from "../../../../commands/modules/edits-landing/edits-landing.module.code.ts"
-import { NO_GATE } from "../../../../commands/modules/gate-building/gate-building.module.code.ts"
-import { baseOf, type Refused } from "../../../../commands/modules/landing/landing.module.code.ts"
-import { gathered } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
-import { bodyIn } from "../../../modules/edits-keeping/edits-keeping.module.code.ts"
-import { guardedBy } from "../../../modules/guarding/change-guarding.module.code.ts"
+import { gathered } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { bodyIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { guardedBy } from "akasha/changes/modules/guarding/change-guarding.module.code.ts"
 import {
   ledgerAt,
   reach,
   type World,
   worldBefore,
-} from "../../../modules/shadow/change-shadow.module.code.ts"
-import { guardsOver, runAt } from "../../change-loading/change-loading.module.code.ts"
-import type { Changes } from "./mechanical-change-running.change-runner.addressed.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import {
+  guardsOver,
+  runAt,
+} from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
+import type { Changes } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"
+import { type Applied, applied } from "akasha/commands/modules/applying/applying.module.code.ts"
+import type { Running } from "akasha/commands/modules/drafting/drafting.module.code.ts"
+import { landingFrom } from "akasha/commands/modules/edits-landing/edits-landing.module.code.ts"
+import { NO_GATE } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
+import { baseOf, type Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
 
 const NOTHING_ASKED = "no change was named, so nothing is run and nothing lands"
 

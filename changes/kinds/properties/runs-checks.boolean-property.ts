@@ -1,4 +1,4 @@
-import type { BooleanProperty } from "../../../pages/boolean-properties/boolean-property.page-type.types.ts"
+import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
 export const runsChecks = {
   id: "01a05e19-7ffa-7929-bb78-9aadbdefcc15",

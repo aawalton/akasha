@@ -1,4 +1,4 @@
-import type { RelationProperty } from "../../../../pages/relation-properties/relation-property.page-type.types.ts"
+import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
 
 export const changeTargetSubtypeParent = {
   id: "01a07c70-3907-751a-a23e-6e2b0bb761be",

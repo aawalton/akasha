@@ -1,4 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
+import { renameCodeToken } from "akasha/changes/agent/file-content/rename-code-token/rename-code-token.change-agent.code.ts"
+import { runChange as renameExport } from "akasha/changes/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
+import { runChange as renameLocalVariable } from "akasha/changes/mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.code.ts"
+import { pathsIn, refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import {
+  bodiesIn,
+  type World,
+  worldAt,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   HELD_CODE,
   HELD_EXPORT,
@@ -7,11 +16,6 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
-import { runChange as renameLocalVariable } from "../../../mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.code.ts"
-import { pathsIn, refusing } from "../../../modules/answer/change-answer.module.code.ts"
-import { bodiesIn, type World, worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
-import { renameCodeToken } from "./rename-code-token.change-agent.code.ts"
 
 afterAll(scratch.sweep)
 

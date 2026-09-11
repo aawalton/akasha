@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import { NOTHING_OVER, type World } from "../../../modules/shadow/change-shadow.module.code.ts"
-import { runChange } from "./divide-page-property.change-agent.code.ts"
+import { runChange } from "akasha/changes/agent/file/divide-page-property/divide-page-property.change-agent.code.ts"
+import {
+  NOTHING_OVER,
+  type World,
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const ASKED = "the world was asked"
 

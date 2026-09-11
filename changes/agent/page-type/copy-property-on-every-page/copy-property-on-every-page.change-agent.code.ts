@@ -1,13 +1,13 @@
-import { refusing } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
-import type { World } from "../../../modules/shadow/change-shadow.module.code.ts"
+import { refusing } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import {
   type Asked,
   askedIn,
   carriedIn,
   carryingOver,
   type ValueCarryingAsked,
-} from "../../../modules/value-carrying/value-carrying.module.code.ts"
+} from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
 
 const ADD_PAGE_PROPERTY = "change-mechanical-file-content/add-page-property"
 

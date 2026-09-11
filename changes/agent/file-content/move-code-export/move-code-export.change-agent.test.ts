@@ -1,14 +1,14 @@
 import { expect, test } from "bun:test"
-import { runChange as changeFileContent } from "../../../mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
-import { runChange as moveCodeExport } from "../../../mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.code.ts"
-import { refusing, stating } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
+import { moveCodeExportCommand } from "akasha/changes/agent/file-content/move-code-export/move-code-export.change-agent.code.ts"
+import { runChange as changeFileContent } from "akasha/changes/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
+import { runChange as moveCodeExport } from "akasha/changes/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.code.ts"
+import { refusing, stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   NOTHING_OVER,
   type Reaching,
   type World,
-} from "../../../modules/shadow/change-shadow.module.code.ts"
-import { moveCodeExportCommand } from "./move-code-export.change-agent.code.ts"
+} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const MOVED = "change-mechanical/move-code-export"
 

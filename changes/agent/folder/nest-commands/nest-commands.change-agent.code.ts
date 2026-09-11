@@ -1,7 +1,11 @@
 import { basename, dirname, join } from "node:path"
-import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../modules/shadow/change-shadow.module.code.ts"
+import {
+  gathered,
+  missing,
+  refusing,
+} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { Answer } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 
 const CHANGE_DOMAIN_PARENT = "change-mechanical-file-content/change-domain-parent"
 

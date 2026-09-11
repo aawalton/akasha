@@ -1,4 +1,4 @@
-import type { ChangeTargetType } from "../change-target-type.page-type.types.ts"
+import type { ChangeTargetType } from "akasha/changes/targets/types/change-target-type.page-type.types.ts"
 
 export const folder = {
   id: "01a07c72-8d36-7c31-93e3-5752f3dbad61",
