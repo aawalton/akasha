@@ -4,8 +4,8 @@ import {
   extractMinedQuestRows,
   isFullyRead,
   readMinedAccountWide,
-} from "./mined-data-parse.module.code.ts"
-import { minedLua } from "./mined-data-parse.module.test-fixtures.ts"
+} from "akasha/temper/capture-datamining-reader/mined-data-parse/mined-data-parse.module.code.ts"
+import { minedLua } from "akasha/temper/capture-datamining-reader/mined-data-parse/mined-data-parse.module.test-fixtures.ts"
 
 const READ_ALL = minedLua([{ id: 700001 }, { id: 700002 }, { id: 700003 }], [800001, 800002])
 

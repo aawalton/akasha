@@ -2,14 +2,14 @@ import type {
   MinedItemEntry,
   MinedQuestEntry,
 } from "akasha/temper/capture-datamining/datamining-payload/datamining-payload.module.code.ts"
+import {
+  minedItemSchema,
+  minedQuestSchema,
+} from "akasha/temper/capture-datamining-reader/saved-variables-schema/saved-variables-schema.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import type { z } from "zod"
-import {
-  minedItemSchema,
-  minedQuestSchema,
-} from "../saved-variables-schema/saved-variables-schema.module.code.ts"
 
 const SAVED_VARIABLES_NAME = "TemperDataMining_SavedVariables"
 
