@@ -27,7 +27,8 @@ test("the indexes folder is where the index's place is said, so it is passed ove
 })
 
 test("a path built segment by segment is seen as the path it builds", () => {
-  const said = reasonsIn(given(HELD, 'const at = join(".git", "data", "index")\n'))
+  const parts = AT.split("/").map((one) => JSON.stringify(one))
+  const said = reasonsIn(given(HELD, `const at = join(${parts.join(", ")})\n`))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("segment by segment")
 })
