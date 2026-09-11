@@ -2,8 +2,11 @@ import {
   foldSweep,
   mergeObservation,
   type ObservationPatch,
-} from "../observation-merging/observation-merging.module.code.ts"
-import { changeKey, type Observation } from "../seat-observations/seat-observations.module.code.ts"
+} from "akasha/code-system/editor/extension/observation-merging/observation-merging.module.code.ts"
+import {
+  changeKey,
+  type Observation,
+} from "akasha/code-system/editor/extension/seat-observations/seat-observations.module.code.ts"
 
 export interface SweepReport {
   readonly swept: number

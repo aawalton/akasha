@@ -1,7 +1,10 @@
+import type { Fetcher } from "akasha/code-system/editor/extension/observation-store/observation-store.module.code.ts"
+import {
+  createObservationStore,
+  type ObservationStore,
+} from "akasha/code-system/editor/extension/observation-store/observation-store.module.code.ts"
+import type { Observation } from "akasha/code-system/editor/extension/seat-observations/seat-observations.module.code.ts"
 import { z } from "zod"
-import type { Observation } from "../seat-observations/seat-observations.module.code.ts"
-import type { Fetcher } from "./observation-store.module.code.ts"
-import { createObservationStore, type ObservationStore } from "./observation-store.module.code.ts"
 
 const sentBody = z.object({
   writer: z.string(),
