@@ -15,8 +15,16 @@ export const page = {
     { pageProperty: "text-property/title", required: false, many: false },
     { pageProperty: "text-property/description", required: false, many: false },
     { pageProperty: "text-property/cover", required: false, many: false },
+    {
+      pageProperty: "file-property/entries",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
+    },
   ],
   parts: [
+    "file-property/entries",
     "relation-property/page-page-type",
     "relation-property/page-type-slug",
     "text-property/cover",
@@ -65,6 +73,10 @@ export const page = {
     {
       invariantKind: "departure",
       statement: "Some page property files are not TypeScript files.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page carries what each run of that page's work cost.",
     },
     {
       invariantKind: "departure",

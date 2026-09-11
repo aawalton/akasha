@@ -127,13 +127,6 @@ export const command = {
     { pageProperty: "record-property/taking", required: false, many: true, maxCount: null },
     { pageProperty: "text-property/help-notes", required: false, many: true, maxCount: null },
     { pageProperty: "number-property/timeout", required: false, many: false },
-    {
-      pageProperty: "file-property/entries",
-      required: false,
-      many: false,
-      uncommitted: true,
-      default: "jsonl",
-    },
   ],
   invariants: [
     {

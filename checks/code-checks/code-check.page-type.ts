@@ -12,7 +12,6 @@ export const codeCheck = {
     "boolean-property/runs-on-deploy",
     "boolean-property/runs-on-change",
     "boolean-property/runs-on-worktree",
-    "file-property/entries",
     "module-property-group/audit",
     "module-property-group/check",
     "module-property-group/decision",
@@ -88,13 +87,6 @@ export const codeCheck = {
     { pageProperty: "boolean-property/runs-on-worktree", required: true, many: false },
     { pageProperty: "boolean-property/runs-on-deploy", required: true, many: false },
     { pageProperty: "boolean-property/runs-on-audit", required: true, many: false },
-    {
-      pageProperty: "file-property/entries",
-      required: false,
-      many: false,
-      uncommitted: true,
-      default: "jsonl",
-    },
     { pageProperty: "boolean-property/experimental", required: false, many: false },
   ],
   invariants: [

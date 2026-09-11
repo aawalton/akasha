@@ -1,5 +1,6 @@
 import type { Cover } from "akasha/pages/properties/cover.text-property.types.ts"
 import type { Description } from "akasha/pages/properties/description.text-property.types.ts"
+import type { Entries } from "akasha/pages/properties/entries.file-property.types.ts"
 import type { Id } from "akasha/pages/properties/id.text-property.types.ts"
 import type { PagePageType } from "akasha/pages/properties/page-page-type.relation-property.types.ts"
 import type { PageTypeSlug } from "akasha/pages/properties/page-type-slug.relation-property.types.ts"
@@ -14,4 +15,5 @@ export type Page = {
   title?: Title
   description?: Description
   cover?: Cover
+  entries?: Entries
 }

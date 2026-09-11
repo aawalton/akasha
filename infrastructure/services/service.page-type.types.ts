@@ -1,4 +1,3 @@
-import type { Entries } from "akasha/checks/code-checks/properties/entries.file-property.types.ts"
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 import type { DeployedCommit } from "akasha/infrastructure/services/properties/deployed-commit.text-property.types.ts"
 import type { RefusedCommit } from "akasha/infrastructure/services/properties/refused-commit.text-property.types.ts"
@@ -6,5 +5,4 @@ import type { RefusedCommit } from "akasha/infrastructure/services/properties/re
 export type Service = Domain & {
   deployedCommit?: DeployedCommit
   refusedCommit?: RefusedCommit
-  entries?: Entries
 }

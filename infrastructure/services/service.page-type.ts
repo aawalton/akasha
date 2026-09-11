@@ -21,13 +21,6 @@ export const service = {
       many: false,
       uncommitted: true,
     },
-    {
-      pageProperty: "file-property/entries",
-      required: false,
-      many: false,
-      uncommitted: true,
-      default: "jsonl",
-    },
   ],
   invariants: [
     {
