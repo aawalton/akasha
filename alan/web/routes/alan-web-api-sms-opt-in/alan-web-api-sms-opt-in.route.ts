@@ -10,10 +10,6 @@ export const alanWebApiSmsOptIn = {
   urlPath: "api/sms/opt-in",
   invariants: [
     {
-      invariantKind: "absence",
-      statement: "No consent given here is written down.",
-    },
-    {
       invariantKind: "departure",
       statement: "A visitor whose consent was not written down is told so rather than told yes.",
     },
@@ -24,6 +20,14 @@ export const alanWebApiSmsOptIn = {
     {
       invariantKind: "departure",
       statement: "A number is taken only as ten US digits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A consent given here is written down as an `sms-consent` page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages system service places that page and commits it into akasha.",
     },
   ],
 } as const satisfies Route

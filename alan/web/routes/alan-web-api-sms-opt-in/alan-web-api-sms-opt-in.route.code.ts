@@ -1,10 +1,13 @@
 import { capacitorCorsHeaders } from "akasha/alan/web/capacitor-cors/capacitor-cors.module.code.ts"
-import { unwritten } from "akasha/alan/web/pages-unheld/pages-unheld.module.code.ts"
+import { writingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import { CONSENT_TEXT_VERSION } from "akasha/persons/sms-consent/sms-consent.module.code.ts"
 import { z } from "zod"
 
 const CORS_METHODS = "POST, OPTIONS"
 
 const CONSENT_PAGE_TYPE_SLUG = "sms-consent"
+
+const CONSENT_WRITER = "alanwalton web <web@alanwalton.com>"
 
 export function consentNamed(e164: string, submittedAt: string): string {
   return `${e164.replace(/\D/g, "")}-${submittedAt.slice(0, 10)}`
@@ -23,6 +26,13 @@ function toE164Us(raw: string): string | null {
   let digits = raw.replace(/\D/g, "")
   if (digits.length === 11 && digits.startsWith("1")) digits = digits.slice(1)
   return digits.length === 10 ? `+1${digits}` : null
+}
+
+function addressOf(request: Request): string | null {
+  const forwarded = request.headers.get("x-forwarded-for")?.split(",")[0]?.trim()
+  if (forwarded !== undefined && forwarded !== "") return forwarded
+  const real = request.headers.get("x-real-ip")?.trim()
+  return real === undefined || real === "" ? null : real
 }
 
 export async function loader({ request }: { request: Request }): Promise<Response> {
@@ -56,7 +66,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
       { status: 400, headers: cors }
     )
   }
-  const { phone, website } = parsed.data
+  const { name, phone, website } = parsed.data
 
   if (website != null && website.length > 0) {
     return Response.json({ ok: true }, { headers: cors })
@@ -70,10 +80,36 @@ export async function action({ request }: { request: Request }): Promise<Respons
     )
   }
 
-  const named = consentNamed(e164, new Date().toISOString())
-  const why = unwritten(CONSENT_PAGE_TYPE_SLUG, `the consent named \`${named}\``)
-  return Response.json(
-    { error: `Could not record your consent: ${why}` },
-    { status: 503, headers: cors }
-  )
+  const submittedAt = new Date().toISOString()
+  const named = consentNamed(e164, submittedAt)
+  const address = addressOf(request)
+  const agent = request.headers.get("user-agent")
+  const wrote = await writingFor({
+    writer: CONSENT_WRITER,
+    message: `the consent named \`${named}\` is written down`,
+    pages: [
+      {
+        pageTypeSlug: CONSENT_PAGE_TYPE_SLUG,
+        slug: named,
+        values: {
+          pageTypeSlug: CONSENT_PAGE_TYPE_SLUG,
+          slug: named,
+          title: name,
+          phone: e164,
+          consent: true,
+          consentTextVersion: CONSENT_TEXT_VERSION,
+          submittedAt,
+          ...(address === null ? {} : { ipAddress: address }),
+          ...(agent === null || agent === "" ? {} : { userAgent: agent }),
+        },
+      },
+    ],
+  })
+  if ("refused" in wrote) {
+    return Response.json(
+      { error: `Could not record your consent: ${wrote.refused}` },
+      { status: 503, headers: cors }
+    )
+  }
+  return Response.json({ ok: true }, { headers: cors })
 }
