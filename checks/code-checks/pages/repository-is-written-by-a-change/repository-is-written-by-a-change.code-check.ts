@@ -155,19 +155,19 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "gap",
-      statement: "A rule in a `.gitignore` below the root is not read.",
+      statement: "A rule in a `.gitignore` below the root is read.",
     },
     {
       invariantKind: "gap",
-      statement: "A write through a wrapper of another module is not seen.",
+      statement: "A write through a wrapper of another module is seen.",
     },
     {
       invariantKind: "gap",
-      statement: "A root reached through a function of another module is not seen.",
+      statement: "A root reached through a function of another module is seen.",
     },
     {
       invariantKind: "gap",
-      statement: "A descriptor opened for writing is not seen.",
+      statement: "A descriptor opened for writing is seen.",
     },
     {
       invariantKind: "absence",
