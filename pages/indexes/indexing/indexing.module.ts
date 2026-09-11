@@ -54,5 +54,10 @@ export const indexing = {
       invariantKind: "departure",
       statement: "A world carrying pages and declaring no property unique is refused.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A settle's report names the refusals the world had beside the refusals a change leaves.",
+    },
   ],
 } as const satisfies Module

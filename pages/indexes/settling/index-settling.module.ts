@@ -93,6 +93,11 @@ export const indexSettling = {
         "A change turning a property's key or target refiles the pages of that property's declaring types.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The refusals a change leaves are answered apart from the refusals the world already had.",
+    },
+    {
       invariantKind: "gap",
       statement: "A page the index cannot read is reported rather than answered as empty.",
     },

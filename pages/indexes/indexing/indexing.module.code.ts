@@ -178,7 +178,7 @@ export function indexingAt(root: string, repo: string): Indexing {
       pending.clear()
       const found = settlingOver(readingAt(root), repo, moving, (path) => valueAt(path, repo))
       filedInto(root, found.filings)
-      return [...found.noted, ...found.refused]
+      return [...found.noted, ...found.refusedBefore, ...found.refused]
     },
   }
 }

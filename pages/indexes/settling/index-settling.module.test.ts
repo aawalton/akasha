@@ -8,16 +8,22 @@ import {
   butTheStamp,
   IDENTIFIERS,
   idOf,
+  indexedRepo,
+  NAMER_PAGE,
   type Named,
   put,
   scratch,
+  textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import {
   type Indexing,
   indexingAt,
   rebuiltFrom,
 } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
+import { settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
+import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
 import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
 
 afterAll(scratch.sweep, 5000)
@@ -54,6 +60,17 @@ const SOURCE_PAGE: Named = [
 
 const heldAt = (): string => scratch.rootFor("akasha-settling-")
 
+const NOTE_AT = "akasha/note.relation-property.ts"
+
+const notePointing = (target: string): string =>
+  bodyOf({
+    id: idOf("b"),
+    pageTypeSlug: "relation-property",
+    slug: "note",
+    propertySlug: "note",
+    targetPageType: target,
+  })
+
 const edgeAt = (root: string, property: string): string =>
   join(root, indexRelation.name, "page", "id", TARGET_ID, property, `${SOURCE_ID}.jsonl`)
 
@@ -88,6 +105,31 @@ test("a rebuild from the pages agrees with the index a turned relation name left
   expect(existsSync(edgeAt(root, "piece-slugs"))).toBe(true)
   expect(existsSync(edgeAt(root, "part-slugs"))).toBe(false)
   expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))
+})
+
+test("a refusal the world already had is answered apart from the refusal a change leaves", () => {
+  const root = indexedRepo({ [NOTE_AT]: notePointing("page-property") })
+  const textOf = textIn(root)
+  const was = textOf(NOTE_AT) ?? ""
+  const now = notePointing("file-property")
+
+  const settled = settlingOver(
+    readingIn(root),
+    root,
+    [{ path: NOTE_AT, before: was, after: now }],
+    (path) => {
+      const body = textOf(path)
+      return body === null ? null : valueIn(body)
+    },
+    textOf
+  )
+
+  expect(settled.refusedBefore).toEqual([
+    `${NAMER_PAGE}: \`note\` — no page admitting \`page-property\` carries the slug \`held\``,
+  ])
+  expect(settled.refused).toEqual([
+    `${NAMER_PAGE}: \`note\` — no page admitting \`file-property\` carries the slug \`held\``,
+  ])
 })
 
 test("a rebuild agrees with the index a page taken from under a name left", () => {

@@ -102,6 +102,7 @@ export type Settling = {
   readonly reading: Reading
   readonly filings: readonly Filing[]
   readonly noted: readonly string[]
+  readonly refusedBefore: readonly string[]
   readonly refused: readonly string[]
 }
 
@@ -307,6 +308,7 @@ export function settlingOver(
     reading: overlaidOn(given, filings),
     filings,
     noted,
-    refused: [...was, ...now].flatMap((one) => one.refused),
+    refusedBefore: was.flatMap((one) => one.refused),
+    refused: now.flatMap((one) => one.refused),
   }
 }
