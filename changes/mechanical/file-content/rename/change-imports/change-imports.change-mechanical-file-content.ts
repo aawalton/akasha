@@ -25,6 +25,10 @@ export const changeImports = {
     },
     {
       invariantKind: "departure",
+      statement: "Such a name reading the same from where the body lands is left as it is spelled.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The paths that moved arrive as a plain object rather than as a map.",
     },
     {

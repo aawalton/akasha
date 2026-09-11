@@ -48,8 +48,12 @@ function generatedFor(was: string, now: string, said: string): string | null {
 
 function beneathFor(was: string, dir: string, said: string, landing: Landing): string | null {
   if (said.startsWith(UNDER) || !said.includes(UNDER)) return null
-  const there = landing(join(dirname(was), said))
-  return there === null ? null : relative(dir, there)
+  const home = dirname(was)
+  const from = join(home, said)
+  const there = landing(from)
+  if (there === null) return null
+  const put = relative(dir, there)
+  return put === relative(home, from) ? null : put
 }
 
 function rootedFor(said: string, landing: Landing): string | null {

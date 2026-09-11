@@ -321,6 +321,19 @@ test("a name opening with the folder's letters but not at a separator is left al
   expect(carriedOver(TABLE, text).edits).toEqual([])
 })
 
+const HELD = "code-system/held/held.module.test.ts"
+
+const HELD_AT = "code/held/held.module.test.ts"
+
+test("a name read against the body's own folder is left as the body spells it", () => {
+  const text = `export const said = ["a/b/", "b/", "a/./b"]\n`
+  const world = worldOf({ [HELD_AT]: text })
+
+  expect(gathered([runChange(world, { was: HELD, now: HELD_AT, carried: MOVING })]).edits).toEqual(
+    []
+  )
+})
+
 test("a specifier spelled from the root under the folder that moved follows it", () => {
   const text = `import { one } from "akasha/code-system/one/one.module.code.ts"\n`
 
