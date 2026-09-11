@@ -8,7 +8,7 @@ import {
   textIn,
   wholeIn,
 } from "akasha/commands/pages/inference/wan/flag-arguing/flag-arguing.module.code.ts"
-import { namesDrawn } from "akasha/commands/pages/infrastructure/service/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const GENERATE = "generate"
 

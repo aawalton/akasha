@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { namesDrawn } from "akasha/commands/pages/infrastructure/service/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 describe("names drawn for a line a caller reads", () => {
   test("each name is drawn in backticks and parted by a comma", () => {

@@ -6,5 +6,5 @@ export const utilsText = {
   type: "domain",
   slug: "utils-text",
   definition: "how a value is written out as the English a reader reads",
-  parts: ["module/counted", "module/capitalize", "module/seconds"],
+  parts: ["module/counted", "module/capitalize", "module/seconds", "module/name-drawing"],
 } as const satisfies Domain

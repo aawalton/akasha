@@ -9,7 +9,7 @@ export const infrastructureService = {
   code: "ts",
   test: "ts",
   changeKind: "change-none",
-  parts: ["module/name-drawing"],
+  parts: [],
   taking: [
     {
       said: "sweep",

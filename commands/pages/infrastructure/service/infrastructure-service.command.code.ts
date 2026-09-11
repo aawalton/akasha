@@ -1,6 +1,5 @@
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { refused } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { namesDrawn } from "akasha/commands/pages/infrastructure/service/name-drawing/name-drawing.module.code.ts"
 import {
   homeAt,
   installing,
@@ -13,6 +12,7 @@ import {
   readFor,
 } from "akasha/services/workstation-services/service-reading/service-reading.module.code.ts"
 import { installedUnitName } from "akasha/services/workstation-services/unit-writing/unit-writing.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const INPUT = 1
 const DATA = 2
