@@ -50,6 +50,11 @@ export const typeDeclaration = {
       statement:
         "A member carrying the augmenting package's own type belongs on a subtype that package declares.",
     },
+    {
+      invariantKind: "absence",
+      statement:
+        "No compiler diagnostic marks a member restated with only its default type argument changed.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
