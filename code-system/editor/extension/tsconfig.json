@@ -1,5 +1,15 @@
 {
   "extends": "../../../tsconfig.base.json",
   "include": ["**/*.ts"],
-  "files": ["vscode-api/vscode-api.type-declaration.d.ts"]
+  "files": [
+    "vscode-api/vscode-api.type-declaration.d.ts",
+    "../../../alan/harness/code-editor/data-interfaces/tree-row/tree-row.type-declaration.d.ts",
+    "../../../alan/harness/code-editor/data-interfaces/pages/agent-tree/agent-tree.code-editor-data-interface.d.ts",
+    "../../../alan/harness/code-editor/data-interfaces/pages/command-tree/command-tree.code-editor-data-interface.d.ts",
+    "../../../alan/harness/code-editor/data-interfaces/pages/domain-tree/domain-tree.code-editor-data-interface.d.ts",
+    "../../../alan/harness/code-editor/data-interfaces/pages/page-tree/page-tree.code-editor-data-interface.d.ts",
+    "../../../alan/harness/code-editor/data-interfaces/pages/status-bar/status-bar.code-editor-data-interface.d.ts",
+    "../../../alan/harness/code-editor/data-interfaces/pages/terminal-tabs/terminal-tabs.code-editor-data-interface.d.ts",
+    "../../../alan/harness/code-editor/data-interfaces/pages/work-tree/work-tree.code-editor-data-interface.d.ts"
+  ]
 }
