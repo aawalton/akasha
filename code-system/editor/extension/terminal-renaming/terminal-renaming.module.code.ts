@@ -1,22 +1,22 @@
-import * as vscode from "vscode"
-import { followState } from "../../../../alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
-import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
-import { newestWins } from "../newest-wins/newest-wins.module.code.ts"
+import { followState } from "akasha/alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
+import { akashaRoot } from "akasha/code-system/editor/extension/harness-call/harness-call.module.code.ts"
+import { newestWins } from "akasha/code-system/editor/extension/newest-wins/newest-wins.module.code.ts"
 import {
   recordObservation,
   recordSweep,
-} from "../observation-store/observation-store.module.code.ts"
-import { colorNamed } from "../palette/palette.module.code.ts"
+} from "akasha/code-system/editor/extension/observation-store/observation-store.module.code.ts"
+import { colorNamed } from "akasha/code-system/editor/extension/palette/palette.module.code.ts"
 import {
   lastAppliedByTerminal,
   lastColorByTerminal,
-} from "../terminal-marks/terminal-marks.module.code.ts"
+} from "akasha/code-system/editor/extension/terminal-marks/terminal-marks.module.code.ts"
 import {
   PROCESS_ID_TIMEOUT_MS,
   readProcessIds,
   tally,
-} from "../terminal-pids/terminal-pids.module.code.ts"
-import { syncTerminal } from "../terminal-sync/terminal-sync.module.code.ts"
+} from "akasha/code-system/editor/extension/terminal-pids/terminal-pids.module.code.ts"
+import { syncTerminal } from "akasha/code-system/editor/extension/terminal-sync/terminal-sync.module.code.ts"
+import * as vscode from "vscode"
 
 const FEATURE = "terminal-rename"
 const SLUG = "terminal-tabs"
