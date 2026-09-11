@@ -1,4 +1,5 @@
 import { dirname, relative } from "node:path"
+import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { fileOf } from "akasha/pages/indexes/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
@@ -29,8 +30,6 @@ const ACCOUNT = "telnyx-account"
 
 const OUTBOUND = "outbound"
 
-const PACKAGE = "akasha/"
-
 function shellOf(given: string | Reading, slug: string): string {
   return fileOf(given, valuedAt(given, SCRIPT, slug), SCRIPT, SHELL)
 }
@@ -56,7 +55,7 @@ export function dispatcherIn(given: string | Reading): string {
 }
 
 export function manifestIn(given: string | Reading): string {
-  return `${PACKAGE}${codeOf(given, MANIFEST)}`
+  return importedFrom(codeOf(given, MANIFEST))
 }
 
 export function accountIn(given: string | Reading): string {
