@@ -111,14 +111,18 @@ export function watchInboxCounts(to: string, log: WatchLogger): () => undefined 
   return following.stop
 }
 
+export function runInboxCountWatch(to: string): () => undefined {
+  return watchInboxCounts(to, (level, message) => {
+    const out = level === "ERROR" ? process.stderr : process.stdout
+    out.write(`${message}\n`)
+  })
+}
+
 if (import.meta.main) {
   const to = (process.argv[2] ?? "").trim()
   if (to === "") {
     process.stderr.write(`${NO_SITE_NAMED}\n`)
     process.exit(2)
   }
-  watchInboxCounts(to, (level, message) => {
-    const out = level === "ERROR" ? process.stderr : process.stdout
-    out.write(`${message}\n`)
-  })
+  runInboxCountWatch(to)
 }
