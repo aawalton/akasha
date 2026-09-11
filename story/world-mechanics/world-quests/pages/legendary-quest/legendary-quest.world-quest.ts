@@ -1,4 +1,4 @@
-import type { WorldQuest } from "../../world-quest.page-type.types.ts"
+import type { WorldQuest } from "akasha/story/world-mechanics/world-quests/world-quest.page-type.types.ts"
 
 export const legendaryQuest = {
   id: "01a0655a-0688-72f0-8d16-874303f95a54",
