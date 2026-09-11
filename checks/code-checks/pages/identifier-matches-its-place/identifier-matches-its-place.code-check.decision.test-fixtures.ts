@@ -14,6 +14,16 @@ import type { Places } from "./identifier-matches-its-place.code-check.decision.
 
 const FORMAT = "name-format"
 
+export const AT = "akasha/held.ts"
+
+export const DRAWN_AT = "akasha/held.tsx"
+
+export const PAGE_AT = "akasha/held-over.module.ts"
+
+export const BESIDE_AT = "akasha/held-over.module.code.ts"
+
+export const HELD_AT = "akasha/held-over.module.uncommitted.ts"
+
 type Formatted = {
   readonly slug: string
   readonly named: string
