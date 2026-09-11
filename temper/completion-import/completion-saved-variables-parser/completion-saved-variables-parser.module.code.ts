@@ -3,15 +3,15 @@ import type {
   CharacterCompletion,
   CompanionCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
-import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
-import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import {
   cleanAccountCompletionInput,
   cleanCharacterCompletionInput,
   cleanCompanionCompletionInput,
-} from "../completion-input-schema/completion-input-schema.module.code.ts"
+} from "akasha/temper/completion-import/completion-input-schema/completion-input-schema.module.code.ts"
+import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 
 export type AddonCharacterRecord = { name: string; priorityOrder?: number } & CharacterCompletion
 
