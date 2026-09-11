@@ -21,9 +21,7 @@ _cluster_nodes_table=""
 
 _cluster_nodes_load() {
   if [ -n "$_cluster_nodes_table" ]; then return 0; fi
-  local root
-  root="$(cd "${_DEPLOY_LIB_DIR}/../../.." && pwd)"
-  _cluster_nodes_table="$(bun "${root}/machines/hosts/cluster-nodes/cluster-nodes.module.code.ts")" \
+  _cluster_nodes_table="$(bun "${_DEPLOY_LIB_DIR}/../../../../machines/hosts/cluster-nodes/cluster-nodes.module.code.ts")" \
     || die "cluster-nodes did not answer"
   [ -n "$_cluster_nodes_table" ] || die "cluster-nodes answered nothing"
 }

@@ -4,7 +4,7 @@ import { basename, dirname, join } from "node:path"
 import {
   bodyIn,
   dnsBesideIn,
-  nodesCodeIn,
+  nodesBesideIn,
   ownShellIn,
 } from "akasha/infrastructure/cluster/operations/deploy-functions/deploy-functions.shell-script.scripting.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
@@ -21,7 +21,7 @@ test("the body written here is the script committed beside this test, byte for b
 
 test("every path the body names is a file that is there", () => {
   const under = dirname(join(ROOT, ownShellIn(ROOT)))
-  const named = [join(ROOT, nodesCodeIn(ROOT)), join(under, dnsBesideIn(ROOT))]
+  const named = [join(under, nodesBesideIn(ROOT)), join(under, dnsBesideIn(ROOT))]
   expect(named.filter((one) => !existsSync(one))).toEqual([])
 })
 

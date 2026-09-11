@@ -21,8 +21,12 @@ export function ownShellIn(given: string | Reading): string {
   return fileOf(given, valuedAt(given, SCRIPT, OWN), SCRIPT, SHELL)
 }
 
-export function nodesCodeIn(given: string | Reading): string {
+function nodesCodeIn(given: string | Reading): string {
   return fileOf(given, valuedAt(given, MODULE, NODES), MODULE, CODE)
+}
+
+export function nodesBesideIn(given: string | Reading): string {
+  return relative(dirname(ownShellIn(given)), nodesCodeIn(given))
 }
 
 export function dnsBesideIn(given: string | Reading): string {
@@ -60,9 +64,7 @@ function nodesReading(nodes: string): readonly string[] {
     "",
     "_cluster_nodes_load() {",
     '  if [ -n "$_cluster_nodes_table" ]; then return 0; fi',
-    "  local root",
-    '  root="$(cd "${_DEPLOY_LIB_DIR}/../../.." && pwd)"',
-    `  _cluster_nodes_table="$(bun "\${root}/${nodes}")" \\`,
+    `  _cluster_nodes_table="$(bun "\${_DEPLOY_LIB_DIR}/${nodes}")" \\`,
     '    || die "cluster-nodes did not answer"',
     '  [ -n "$_cluster_nodes_table" ] || die "cluster-nodes answered nothing"',
     "}",
@@ -253,7 +255,7 @@ function sourcing(dns: string): readonly string[] {
 export function bodyIn(given: string | Reading): string {
   const lines = [
     ...heading(basename(ownShellIn(given))),
-    ...nodesReading(nodesCodeIn(given)),
+    ...nodesReading(nodesBesideIn(given)),
     ...authorizing(),
     ...building(),
     ...rolling(),
