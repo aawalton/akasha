@@ -46,7 +46,7 @@ export const theaChecksSystem = {
     {
       statement: "No gap invariant is written on checks-system or any part beneath it.",
       workingMemory:
-        "95 gap invariants sit under checks. repository-is-written-by-a-change carries 11 alone, then no-body-read-beside-an-index and check.domain.ts at 5 each, check-cost and no-tmp at 4. The tests-pass gap went this morning, replaced by four departures saying what the code does. A gap claims a thing is not yet true, so each is mended and deleted or was no gap.",
+        "87 gaps on 49 pages under checks: 37 limits, 38 shortfalls, 12 plain behaviour. 23 limits sit on 15 pages carrying limits only, and 16 of the 27 syntax-rule gaps are limits whose test file settles them. repository-is-written-by-a-change keeps both voices apart on one page, so a limit wearing gap is mis-kinded rather than house style. Voice says which to read first, never the cure: of five sorted, two were bound elsewhere, two absences, one departure.",
     },
   ],
   constraints: [
