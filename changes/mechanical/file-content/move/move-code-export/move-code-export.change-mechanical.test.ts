@@ -1,8 +1,11 @@
 import { expect, test } from "bun:test"
 import { runChange } from "akasha/changes/mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.code.ts"
 import {
+  ALREADY,
   addedAt,
   BACK_ALREADY,
+  BARE,
+  CLASHES,
   DEEP,
   ELSEWHERE,
   FAR,
@@ -10,11 +13,15 @@ import {
   FROM,
   FUNCTIONED,
   HELD,
+  IMPORTS_IT,
   LANDED,
   LANDED_FAR,
   NAMED,
   NAMED_AT,
+  NAMES_LANDING,
   OTHER_PATH,
+  OWN_USING,
+  PRIVATE,
   puttingAt,
   ROOT,
   ROOT_AT,
@@ -126,24 +133,6 @@ test("the import back joins the line that body already takes from there", async 
   expect(put.split(`from "./two.held.ts"`).length - 1).toBe(1)
 })
 
-const ALREADY = `import { join } from "node:path"
-
-export const OTHER = join("x", "y")
-`
-
-const BARE = `export const OTHER = 1
-`
-
-const CLASHES = `import { join } from "./other.held.ts"
-
-export const OTHER = join("x", "y")
-`
-
-const IMPORTS_IT = `import { AT } from "./one.held.ts"
-
-export const OTHER = AT
-`
-
 test("a landing body already naming that import takes the declaration at its end", async () => {
   const world = worldOf({ [FROM]: VALUED, [TO]: ALREADY })
 
@@ -164,13 +153,6 @@ test("a landing body naming no such import takes the import with the declaration
   ])
 })
 
-const OWN_USING = `import type { Reached } from "../two/two.held.ts"
-
-export function reaches(): Reached {
-  return { absent: true }
-}
-`
-
 test("an import naming the landing body itself is left out of what lands", async () => {
   const world = worldOf({ [FROM]: OWN_USING })
 
@@ -179,13 +161,6 @@ test("an import naming the landing body itself is left out of what lands", async
   expect(said.refused).toBeNull()
   expect(addedAt(said, ELSEWHERE)).not.toContain("import")
 })
-
-const NAMES_LANDING = `import { childOf } from "tree/${TO}"
-
-export function searchOf(one: number): number {
-  return childOf(one)
-}
-`
 
 test("an import naming the landing body by the root is left out of what lands", async () => {
   const held = { [FROM]: NAMES_LANDING, [NAMED_AT]: NAMED, [ROOT_AT]: ROOT }
@@ -374,15 +349,6 @@ test("a landing body takes that carried import under that name too", async () =>
   expect(said.refused).toBeNull()
   expect(puttingAt(said, TO).join("")).toContain(`import { said as gitIn } from "./git.held.ts"`)
 })
-
-const PRIVATE = `function bodiedOf(one: string): string {
-  return one
-}
-
-export function changeOf(one: string): string {
-  return bodiedOf(one)
-}
-`
 
 test("an export naming something its own body declares under no export is refused", async () => {
   const world = worldOf({ [FROM]: PRIVATE })

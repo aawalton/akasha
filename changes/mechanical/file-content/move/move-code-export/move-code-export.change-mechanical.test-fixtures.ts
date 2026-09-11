@@ -171,6 +171,47 @@ export const SIBLING_BACK = `${SIBLING}
 export const FIRST = searchOf(1)
 `
 
+export const ALREADY = `import { join } from "node:path"
+
+export const OTHER = join("x", "y")
+`
+
+export const BARE = `export const OTHER = 1
+`
+
+export const CLASHES = `import { join } from "./other.held.ts"
+
+export const OTHER = join("x", "y")
+`
+
+export const IMPORTS_IT = `import { AT } from "./one.held.ts"
+
+export const OTHER = AT
+`
+
+export const OWN_USING = `import type { Reached } from "../two/two.held.ts"
+
+export function reaches(): Reached {
+  return { absent: true }
+}
+`
+
+export const NAMES_LANDING = `import { childOf } from "tree/${TO}"
+
+export function searchOf(one: number): number {
+  return childOf(one)
+}
+`
+
+export const PRIVATE = `function bodiedOf(one: string): string {
+  return one
+}
+
+export function changeOf(one: string): string {
+  return bodiedOf(one)
+}
+`
+
 type Passage = { at: string; old: string; new: string }
 
 type Adding = { at: string; body: string }
