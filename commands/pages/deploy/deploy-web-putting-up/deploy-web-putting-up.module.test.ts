@@ -18,6 +18,11 @@ afterAll(() => {
 
 const HERE = given(WORLD.root)
 
+function tracked(root: string): undefined {
+  said(["git", "-C", root, "init", "-q"])
+  said(["git", "-C", root, "add", "-A"])
+}
+
 function committed(root: string, message: string): undefined {
   said([
     "git",
@@ -68,6 +73,7 @@ test("a commit origin main does not carry is pushed there rather than refused", 
   const world = seededWorld()
   const origin = mkdtempSync(join(HOLD, ORIGIN_PREFIX))
   try {
+    tracked(world.root)
     committed(world.root, "what origin carries")
     said(["git", "-C", origin, "init", "-q", "--bare", "-b", "main"])
     tracking(world.root, origin)
@@ -85,6 +91,7 @@ test("a push the remote refuses refuses the call rather than building on", async
   const origin = mkdtempSync(join(HOLD, ORIGIN_PREFIX))
   const other = mkdtempSync(join(HOLD, OTHER_PREFIX))
   try {
+    tracked(world.root)
     committed(world.root, "what origin carries")
     said(["git", "-C", origin, "init", "-q", "--bare", "-b", "main"])
     tracking(world.root, origin)
@@ -108,6 +115,7 @@ test("a dry run says what the push would carry and pushes none of it", async () 
   const world = seededWorld()
   const origin = mkdtempSync(join(HOLD, ORIGIN_PREFIX))
   try {
+    tracked(world.root)
     committed(world.root, "what origin carries")
     said(["git", "-C", origin, "init", "-q", "--bare", "-b", "main"])
     tracking(world.root, origin)
