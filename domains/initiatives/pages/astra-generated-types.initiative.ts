@@ -14,9 +14,6 @@ export const astraGeneratedTypes = {
   ],
   intents: [
     {
-      statement: "A page property states the code that writes its type.",
-    },
-    {
       statement: "A page property's written type says everything its hand-written type said.",
       workingMemory:
         "A written type names a property's type rather than restating it, so an extension the data leaves out and a relation that collapses to a slug bar nothing. Naming bars it. Of 1773 property pages, 1743 export the type named for the page's slug and 30 do not: 23 are named for the property slug, 7 for neither. Forty export an element type as well, and in every one the property's own type is the one named for the slug.\n",
