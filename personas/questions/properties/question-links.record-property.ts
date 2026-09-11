@@ -1,5 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { LinkLabel } from "akasha/personas/questions/properties/link-label.text-property.types.ts"
 import type { LinkPlatform } from "akasha/personas/questions/properties/link-platform.select-property.types.ts"
 import type { LinkTarget } from "akasha/personas/questions/properties/link-target.text-property.types.ts"
@@ -9,8 +8,6 @@ export type QuestionLink = {
   target: LinkTarget
   platform: LinkPlatform
 }
-
-export type QuestionLinks = List<QuestionLink>
 
 export const questionLinks = {
   id: "01a06823-89b2-7009-9d8b-67cd69c12142",
@@ -34,4 +31,5 @@ export const questionLinks = {
       statement: "A question has links only where Alan has to look at something to answer.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

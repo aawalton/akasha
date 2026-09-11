@@ -1,6 +1,6 @@
 import { everyOfType, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt, type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import type { Systemd } from "../properties/systemd.record-property.ts"
+import type { Systemd } from "../properties/systemd.record-property.types.ts"
 import type { Service } from "../unit-writing/unit-writing.module.code.ts"
 import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 

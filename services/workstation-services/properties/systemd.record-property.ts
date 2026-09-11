@@ -1,37 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { AccuracySeconds } from "./accuracy-seconds.number-property.types.ts"
-import type { After } from "./after.text-property.types.ts"
-import type { CatchUp } from "./catch-up.boolean-property.types.ts"
-import type { JitterSeconds } from "./jitter-seconds.number-property.types.ts"
-import type { PartOf } from "./part-of.text-property.types.ts"
-import type { Restart } from "./restart.select-property.types.ts"
-import type { RestartDelaySeconds } from "./restart-delay-seconds.number-property.types.ts"
-import type { RestartForceExitStatus } from "./restart-force-exit-status.number-property.types.ts"
-import type { Schedule } from "./schedule.text-property.types.ts"
-import type { StartLimitIntervalSeconds } from "./start-limit-interval-seconds.number-property.types.ts"
-import type { StartTimeoutSeconds } from "./start-timeout-seconds.number-property.types.ts"
-import type { Stops } from "./stops.text-property.types.ts"
-import type { SuccessExitStatus } from "./success-exit-status.number-property.types.ts"
-import type { WantedBy } from "./wanted-by.text-property.types.ts"
-import type { Wants } from "./wants.text-property.types.ts"
-
-export type Systemd = {
-  after?: After
-  wants?: Wants
-  partOf?: PartOf
-  restart?: Restart
-  restartDelaySeconds?: RestartDelaySeconds
-  restartForceExitStatus?: RestartForceExitStatus
-  successExitStatus?: SuccessExitStatus
-  startTimeoutSeconds?: StartTimeoutSeconds
-  stops?: Stops
-  startLimitIntervalSeconds?: StartLimitIntervalSeconds
-  schedule?: Schedule
-  jitterSeconds?: JitterSeconds
-  accuracySeconds?: AccuracySeconds
-  catchUp?: CatchUp
-  wantedBy?: WantedBy
-}
 
 export const systemd = {
   id: "01a05a3f-b42d-7f99-8339-43009bbd74bb",
@@ -76,4 +43,5 @@ export const systemd = {
         "The exit code preventing a restart is the one option a service states uncarried here.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

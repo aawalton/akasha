@@ -1,5 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { Said } from "./said.text-property.types.ts"
 import type { Takes } from "./takes.text-property.types.ts"
 
@@ -7,8 +6,6 @@ export type Take = {
   said: Said
   takes: Takes
 }
-
-export type Taking = List<Take>
 
 export const taking = {
   id: "01a05027-c468-74f9-99df-98fc7bd0c372",
@@ -52,4 +49,5 @@ export const taking = {
       statement: "Its code states only how the said text is worked out.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

@@ -1,5 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { Lenient } from "./lenient.boolean-property.types.ts"
 import type { RunArgument } from "./run-argument.text-property.types.ts"
 import type { RunBefore } from "./run-before.text-property.types.ts"
@@ -13,8 +12,6 @@ export type Start = {
   arguments?: RunArgument
   lenient?: Lenient
 }
-
-export type Starts = List<Start>
 
 export const starts = {
   id: "01a08e09-01aa-7087-947d-3ba243cffb36",
@@ -48,4 +45,5 @@ export const starts = {
       statement: "A command running a program outside this repository is stated as a run instead.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

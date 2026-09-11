@@ -1,5 +1,4 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { ResourceName } from "../../../infrastructure/cluster/services/properties/resource-name.text-property.types.ts"
 import type { ResourceKey } from "./resource-key.text-property.types.ts"
 
@@ -7,8 +6,6 @@ export type Placement = {
   resourceName: ResourceName
   resourceKey: ResourceKey
 }
-
-export type Placements = List<Placement>
 
 export const placements = {
   id: "01a0765c-3223-7d78-a54c-e8653b46a958",
@@ -39,4 +36,5 @@ export const placements = {
       statement: "Two placements naming one resource and one key are one placement written twice.",
     },
   ],
+  types: "ts",
 } as const satisfies RecordProperty

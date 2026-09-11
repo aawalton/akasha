@@ -5,7 +5,7 @@ import type { QuestionAskedBy } from "akasha/personas/questions/properties/quest
 import type { QuestionAskedIn } from "akasha/personas/questions/properties/question-asked-in.text-property.types.ts"
 import type { QuestionClosedAt } from "akasha/personas/questions/properties/question-closed-at.instant-property.types.ts"
 import type { QuestionContext } from "akasha/personas/questions/properties/question-context.file-property.ts"
-import type { QuestionLinks } from "akasha/personas/questions/properties/question-links.record-property.ts"
+import type { QuestionLinks } from "akasha/personas/questions/properties/question-links.record-property.types.ts"
 import type { QuestionOffered } from "akasha/personas/questions/properties/question-offered.text-property.types.ts"
 import type { QuestionStatus } from "akasha/personas/questions/properties/question-status.select-property.types.ts"
 
