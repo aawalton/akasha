@@ -1,9 +1,9 @@
 import { createHash } from "node:crypto"
 import { appendFileSync, mkdirSync, readFileSync } from "node:fs"
-import { isAbsolute, join, resolve } from "node:path"
+import { join } from "node:path"
 import type { ParsedSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
 import { CACHE } from "akasha/files/git-place/git-place.module.code.ts"
-import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { gitDirIn } from "akasha/git/dir/git-dir.module.code.ts"
 
 const OFF = "AKASHA_PARSE_CACHE_OFF"
 const SHARD_WIDTH = 2
@@ -41,18 +41,6 @@ export function keyFor(model: string, text: string): string {
     .update(text)
     .digest("hex")
     .slice(0, KEY_WIDTH)
-}
-
-export function sharedGitDirAt(from: string): string | null {
-  try {
-    const done = ran(["git", "rev-parse", "--git-common-dir"], { cwd: from })
-    if (done.code !== 0) return null
-    const said = done.out.trim()
-    if (said === "") return null
-    return isAbsolute(said) ? said : resolve(from, said)
-  } catch {
-    return null
-  }
 }
 
 export function makeParseCacheAt(model: string, at: string): ParseCache {
@@ -113,7 +101,7 @@ export function makeParseCacheAt(model: string, at: string): ParseCache {
 
 export function makeParseCache(model: string | undefined, from: string): ParseCache {
   if (turnedOff()) return NOTHING_CACHED
-  const shared = sharedGitDirAt(from)
+  const shared = gitDirIn(from)
   if (shared === null) return NOTHING_CACHED
   return makeParseCacheAt(model ?? NO_MODEL, join(shared, ...CACHE_PARTS, model ?? NO_MODEL))
 }
