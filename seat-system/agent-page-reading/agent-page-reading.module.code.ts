@@ -1,7 +1,7 @@
 import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textIn, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
-import { akashaSeatPathForAgent } from "../seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaSeatPathForAgent } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 const SUBAGENT = "subagent"
 

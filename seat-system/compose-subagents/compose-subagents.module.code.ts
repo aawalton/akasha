@@ -5,10 +5,10 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { besideAt } from "../../pages/file-name/page-file-name.module.code.ts"
-import { everyOfType, type Listed } from "../../pages/indexes/reading/index-reading.module.code.ts"
-import { valueAt } from "../../pages/value/page-value.module.code.ts"
-import { textAt, type Value } from "../../pages/value-reading/page-value-reading.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { everyOfType, type Listed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const PAGE_TYPE = "subagent-kind"
 

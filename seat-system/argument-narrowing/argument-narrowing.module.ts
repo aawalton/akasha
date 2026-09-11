@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const argumentNarrowing = {
   id: "01a069da-b9b3-7c68-b5aa-1d269342aa9e",

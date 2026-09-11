@@ -2,7 +2,7 @@ import {
   ATTRIBUTES,
   type Attributes,
   attributesOf,
-} from "../seat-attributes/seat-attributes.module.code.ts"
+} from "akasha/seat-system/seat-attributes/seat-attributes.module.code.ts"
 
 function claim(attributes: Attributes): string {
   const named = ATTRIBUTES.flatMap((key) => {

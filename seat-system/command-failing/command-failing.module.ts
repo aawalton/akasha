@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const commandFailing = {
   id: "01a069da-b9b3-70b0-a181-941ada376275",

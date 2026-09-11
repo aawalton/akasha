@@ -2,9 +2,9 @@ import { existsSync } from "node:fs"
 import {
   flagsAlwaysPassed,
   flagsPassedWithMcpConfig,
-} from "../launch-flags/launch-flags.module.code.ts"
-import type { SeatResume } from "../supervising/supervisor-args/supervisor-args.module.code.ts"
-import { alwaysAllowedTools } from "../tool-access/tool-access.module.code.ts"
+} from "akasha/seat-system/launch-flags/launch-flags.module.code.ts"
+import type { SeatResume } from "akasha/seat-system/supervising/supervisor-args/supervisor-args.module.code.ts"
+import { alwaysAllowedTools } from "akasha/seat-system/tool-access/tool-access.module.code.ts"
 
 export type McpServerConfig =
   | { type: "http"; url: string; headers?: Record<string, string> }

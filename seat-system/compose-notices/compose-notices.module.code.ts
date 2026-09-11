@@ -7,7 +7,7 @@ import {
 import { bodyAt } from "akasha/pages/file-body/page-file-body.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { fail } from "../command-failing/command-failing.module.code.ts"
+import { fail } from "akasha/seat-system/command-failing/command-failing.module.code.ts"
 
 const PAGE_TYPE = "notice"
 

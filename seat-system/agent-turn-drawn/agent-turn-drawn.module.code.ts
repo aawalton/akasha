@@ -1,6 +1,6 @@
-import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
-import { colorOfState } from "../seat-turn-color/seat-turn-color.module.code.ts"
-import { seatTurnStateOf } from "../seat-turn-state/seat-turn-state.module.code.ts"
+import { seatNameForAgent } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
+import { seatTurnStateOf } from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
 
 export function colorDrawnFor(agent: string): string | null {
   if (seatNameForAgent(agent) === null) return null
