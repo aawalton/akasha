@@ -1,6 +1,9 @@
-import { S } from "../async-state/async-state.module.code.ts"
-import { taskProto } from "../async-task-class/async-task-class.module.code.ts"
-import type { FuncOfTask, TaskInstance } from "../async-types/async-types.module.code.ts"
+import { S } from "akasha/temper/lib-async/async-state/async-state.module.code.ts"
+import { taskProto } from "akasha/temper/lib-async/async-task-class/async-task-class.module.code.ts"
+import type {
+  FuncOfTask,
+  TaskInstance,
+} from "akasha/temper/lib-async/async-types/async-types.module.code.ts"
 
 taskProto.Call = function (this: TaskInstance, funcOfTask: FuncOfTask): TaskInstance {
   this.lastCallIndex = this.lastCallIndex + 1

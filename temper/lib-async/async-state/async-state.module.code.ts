@@ -1,15 +1,15 @@
-import { asAsyncLib } from "../async-casts/async-casts.module.code.ts"
+import { asAsyncLib } from "akasha/temper/lib-async/async-casts/async-casts.module.code.ts"
 import {
   ASYNC_DEFAULT_STALL_THRESHOLD,
   MAJOR,
   VSYNC_FRAME_TIME_MS,
-} from "../async-constants/async-constants.module.code.ts"
+} from "akasha/temper/lib-async/async-constants/async-constants.module.code.ts"
 import type {
   FuncOfTask,
   JobsTable,
   LogFunc,
   TaskInstance,
-} from "../async-types/async-types.module.code.ts"
+} from "akasha/temper/lib-async/async-types/async-types.module.code.ts"
 
 export const EM = EVENT_MANAGER
 

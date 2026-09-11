@@ -1,8 +1,12 @@
-import { MIN_DELAY_FOR_ASYNC } from "../async-constants/async-constants.module.code.ts"
-import { luaTruthy } from "../async-lua-truthy/async-lua-truthy.module.code.ts"
-import { EM } from "../async-state/async-state.module.code.ts"
-import { taskProto } from "../async-task-class/async-task-class.module.code.ts"
-import type { FuncOfTask, TaskInstance, WaitFunc } from "../async-types/async-types.module.code.ts"
+import { MIN_DELAY_FOR_ASYNC } from "akasha/temper/lib-async/async-constants/async-constants.module.code.ts"
+import { luaTruthy } from "akasha/temper/lib-async/async-lua-truthy/async-lua-truthy.module.code.ts"
+import { EM } from "akasha/temper/lib-async/async-state/async-state.module.code.ts"
+import { taskProto } from "akasha/temper/lib-async/async-task-class/async-task-class.module.code.ts"
+import type {
+  FuncOfTask,
+  TaskInstance,
+  WaitFunc,
+} from "akasha/temper/lib-async/async-types/async-types.module.code.ts"
 
 taskProto.Delay = function (
   this: TaskInstance,

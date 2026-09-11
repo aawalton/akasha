@@ -5,7 +5,7 @@ import type {
   FuncOfTask,
   PairsIter,
   TaskInstance,
-} from "../async-types/async-types.module.code.ts"
+} from "akasha/temper/lib-async/async-types/async-types.module.code.ts"
 
 export function asAsyncLib(value: unknown): AsyncLib {
   return value as AsyncLib

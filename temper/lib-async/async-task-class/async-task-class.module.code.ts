@@ -1,6 +1,10 @@
-import { asTaskInstance } from "../async-casts/async-casts.module.code.ts"
-import { JOBS, lib, S } from "../async-state/async-state.module.code.ts"
-import type { FuncOfTask, TaskClass, TaskInstance } from "../async-types/async-types.module.code.ts"
+import { asTaskInstance } from "akasha/temper/lib-async/async-casts/async-casts.module.code.ts"
+import { JOBS, lib, S } from "akasha/temper/lib-async/async-state/async-state.module.code.ts"
+import type {
+  FuncOfTask,
+  TaskClass,
+  TaskInstance,
+} from "akasha/temper/lib-async/async-types/async-types.module.code.ts"
 
 export const taskProto: TaskClass = ZO_InitializingCallbackObject.Subclass<TaskClass>()
 lib.task = taskProto

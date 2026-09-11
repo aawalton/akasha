@@ -3,17 +3,17 @@ import {
   asForMarkerFunc,
   asFuncOfTask,
   asPairsIter,
-} from "../async-casts/async-casts.module.code.ts"
-import { luaTruthy } from "../async-lua-truthy/async-lua-truthy.module.code.ts"
-import { lib, S } from "../async-state/async-state.module.code.ts"
-import { taskProto } from "../async-task-class/async-task-class.module.code.ts"
+} from "akasha/temper/lib-async/async-casts/async-casts.module.code.ts"
+import { luaTruthy } from "akasha/temper/lib-async/async-lua-truthy/async-lua-truthy.module.code.ts"
+import { lib, S } from "akasha/temper/lib-async/async-state/async-state.module.code.ts"
+import { taskProto } from "akasha/temper/lib-async/async-task-class/async-task-class.module.code.ts"
 import type {
   ConditionFunc,
   FuncOfTask,
   LoopBodyFunc,
   PairsIter,
   TaskInstance,
-} from "../async-types/async-types.module.code.ts"
+} from "akasha/temper/lib-async/async-types/async-types.module.code.ts"
 
 taskProto.For = function (
   this: TaskInstance,

@@ -1,11 +1,14 @@
-import { asFuncOfTask, asTaskInstance } from "../async-casts/async-casts.module.code.ts"
+import {
+  asFuncOfTask,
+  asTaskInstance,
+} from "akasha/temper/lib-async/async-casts/async-casts.module.code.ts"
 import {
   DEBUG_FREEZE_THRESHOLD_MS,
   DEBUG_TIME_MULTIPLIER,
   VSYNC_FRAME_TIME_MS,
-} from "../async-constants/async-constants.module.code.ts"
-import { JOBS, lib, S, Warn } from "../async-state/async-state.module.code.ts"
-import type { TaskInstance } from "../async-types/async-types.module.code.ts"
+} from "akasha/temper/lib-async/async-constants/async-constants.module.code.ts"
+import { JOBS, lib, S, Warn } from "akasha/temper/lib-async/async-state/async-state.module.code.ts"
+import type { TaskInstance } from "akasha/temper/lib-async/async-types/async-types.module.code.ts"
 
 function removeCall(job: TaskInstance, callstackIndex: number): undefined {
   job.callstack.splice(callstackIndex - 1, 1)

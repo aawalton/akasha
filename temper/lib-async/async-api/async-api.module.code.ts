@@ -1,19 +1,19 @@
-import type { GlobalTable } from "../async-casts/async-casts.module.code.ts"
+import type { GlobalTable } from "akasha/temper/lib-async/async-casts/async-casts.module.code.ts"
 
 import {
   ASYNC_DEFAULT_STALL_THRESHOLD,
   ASYNC_MIN_STALL_THRESHOLD,
   UPPER_FPS_BOUND,
-} from "../async-constants/async-constants.module.code.ts"
-import { lib, S } from "../async-state/async-state.module.code.ts"
-import { taskProto } from "../async-task-class/async-task-class.module.code.ts"
+} from "akasha/temper/lib-async/async-constants/async-constants.module.code.ts"
+import { lib, S } from "akasha/temper/lib-async/async-state/async-state.module.code.ts"
+import { taskProto } from "akasha/temper/lib-async/async-task-class/async-task-class.module.code.ts"
 import type {
   CompareFunc,
   ConditionFunc,
   FuncOfTask,
   TaskInstance,
   WaitFunc,
-} from "../async-types/async-types.module.code.ts"
+} from "akasha/temper/lib-async/async-types/async-types.module.code.ts"
 
 lib.GetDebug = function (this: typeof lib): boolean {
   return S.debug

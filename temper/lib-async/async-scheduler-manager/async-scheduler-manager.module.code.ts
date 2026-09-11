@@ -1,7 +1,10 @@
-import { INIT_DELAY_MS, MAJOR } from "../async-constants/async-constants.module.code.ts"
-import { initSavedVar } from "../async-saved-vars/async-saved-vars.module.code.ts"
-import { doMeasure } from "../async-scheduler/async-scheduler.module.code.ts"
-import { EM, lib } from "../async-state/async-state.module.code.ts"
+import {
+  INIT_DELAY_MS,
+  MAJOR,
+} from "akasha/temper/lib-async/async-constants/async-constants.module.code.ts"
+import { initSavedVar } from "akasha/temper/lib-async/async-saved-vars/async-saved-vars.module.code.ts"
+import { doMeasure } from "akasha/temper/lib-async/async-scheduler/async-scheduler.module.code.ts"
+import { EM, lib } from "akasha/temper/lib-async/async-state/async-state.module.code.ts"
 
 interface SchedulerManagerState {
   schedulerId: string | undefined

@@ -1,6 +1,9 @@
-import { luaTruthy } from "../async-lua-truthy/async-lua-truthy.module.code.ts"
-import { taskProto } from "../async-task-class/async-task-class.module.code.ts"
-import type { CompareFunc, TaskInstance } from "../async-types/async-types.module.code.ts"
+import { luaTruthy } from "akasha/temper/lib-async/async-lua-truthy/async-lua-truthy.module.code.ts"
+import { taskProto } from "akasha/temper/lib-async/async-task-class/async-task-class.module.code.ts"
+import type {
+  CompareFunc,
+  TaskInstance,
+} from "akasha/temper/lib-async/async-types/async-types.module.code.ts"
 
 function simpleCompare(this: void, a: unknown, b: unknown): boolean {
   return (a as number) < (b as number)
