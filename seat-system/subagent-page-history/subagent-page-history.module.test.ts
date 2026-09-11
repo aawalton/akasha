@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitIn } from "../../git/running/git-running.module.code.ts"
+import { committed } from "../subagent-page/subagent-page.module.test-fixtures.ts"
 import { pageInHistory, subagentPageInHistory } from "./subagent-page-history.module.code.ts"
 
 const AT = "seat-system/subagents/pages/akasha-a38f63805f9b94edf.subagent.ts"
@@ -32,11 +33,6 @@ function repoIn(root: string): string {
   gitIn(root, ["config", "user.email", "held@nowhere"])
   gitIn(root, ["config", "user.name", "Held"])
   return root
-}
-
-function committed(root: string, why: string): undefined {
-  gitIn(root, ["add", "-A"])
-  gitIn(root, ["commit", "--quiet", "-m", why])
 }
 
 function pageGone(root: string, at: string): undefined {
