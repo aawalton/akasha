@@ -1,4 +1,4 @@
-import type { PinType } from "../lost-treasure-constants/lost-treasure-constants.module.code.ts"
+import type { PinType } from "akasha/temper/lost-treasure/lost-treasure-constants/lost-treasure-constants.module.code.ts"
 
 export interface PinPlacement {
   itemId: number

@@ -1,14 +1,14 @@
 import {
   API_VERSION,
   LOST_TREASURE_BLANK_SAVED_VARS,
-} from "../lost-treasure-constants/lost-treasure-constants.module.code.ts"
-import { createLogger } from "../lost-treasure-logger/lost-treasure-logger.module.code.ts"
+} from "akasha/temper/lost-treasure/lost-treasure-constants/lost-treasure-constants.module.code.ts"
+import { createLogger } from "akasha/temper/lost-treasure/lost-treasure-logger/lost-treasure-logger.module.code.ts"
 import {
   deleteAllNotificationsInDatabase,
   notificationsAdd,
-} from "../lost-treasure-notifications/lost-treasure-notifications.module.code.ts"
-import { getSavedVars } from "../lost-treasure-saved-vars/lost-treasure-saved-vars.module.code.ts"
-import type { PinData } from "../lost-treasure-types/lost-treasure-types.module.code.ts"
+} from "akasha/temper/lost-treasure/lost-treasure-notifications/lost-treasure-notifications.module.code.ts"
+import { getSavedVars } from "akasha/temper/lost-treasure/lost-treasure-saved-vars/lost-treasure-saved-vars.module.code.ts"
+import type { PinData } from "akasha/temper/lost-treasure/lost-treasure-types/lost-treasure-types.module.code.ts"
 
 const logger = createLogger("mining")
 

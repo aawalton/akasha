@@ -1,13 +1,4 @@
 import {
-  type LamDropdownData,
-  valueDropdown,
-} from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
-import {
-  header,
-  type LamHeaderData,
-} from "akasha/temper/settings-panel/header/header.module.code.ts"
-import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
-import {
   ADDON_DISPLAY_NAME,
   ADDON_NAME,
   getAddonAuthor,
@@ -17,20 +8,29 @@ import {
   LOST_TREASURE_MARK_OPTIONS_USING,
   LOST_TREASURE_PIN_TYPE_DATA,
   type MarkOption,
-} from "../lost-treasure-constants/lost-treasure-constants.module.code.ts"
+} from "akasha/temper/lost-treasure/lost-treasure-constants/lost-treasure-constants.module.code.ts"
 import {
   disableDebug,
   enableDebug,
   getDebugState,
-} from "../lost-treasure-debug/lost-treasure-debug.module.code.ts"
-import { createLogger } from "../lost-treasure-logger/lost-treasure-logger.module.code.ts"
-import { markOnUsingClear } from "../lost-treasure-mark-on-using/lost-treasure-mark-on-using.module.code.ts"
-import * as lostTreasure from "../lost-treasure-opened-map/lost-treasure-opened-map.module.code.ts"
-import * as pins from "../lost-treasure-pins/lost-treasure-pins.module.code.ts"
+} from "akasha/temper/lost-treasure/lost-treasure-debug/lost-treasure-debug.module.code.ts"
+import { createLogger } from "akasha/temper/lost-treasure/lost-treasure-logger/lost-treasure-logger.module.code.ts"
+import { markOnUsingClear } from "akasha/temper/lost-treasure/lost-treasure-mark-on-using/lost-treasure-mark-on-using.module.code.ts"
+import * as lostTreasure from "akasha/temper/lost-treasure/lost-treasure-opened-map/lost-treasure-opened-map.module.code.ts"
+import * as pins from "akasha/temper/lost-treasure/lost-treasure-pins/lost-treasure-pins.module.code.ts"
 import {
   getDefaults,
   getSavedVars,
-} from "../lost-treasure-saved-vars/lost-treasure-saved-vars.module.code.ts"
+} from "akasha/temper/lost-treasure/lost-treasure-saved-vars/lost-treasure-saved-vars.module.code.ts"
+import {
+  type LamDropdownData,
+  valueDropdown,
+} from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
+import {
+  header,
+  type LamHeaderData,
+} from "akasha/temper/settings-panel/header/header.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 
 const logger = createLogger("settings")
 

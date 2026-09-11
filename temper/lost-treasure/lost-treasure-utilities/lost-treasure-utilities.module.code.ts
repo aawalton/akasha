@@ -1,8 +1,8 @@
 import {
   LOST_TREASURE_NO_PIN_TYPE,
   LOST_TREASURE_PIN_TYPE_DATA,
-} from "../lost-treasure-constants/lost-treasure-constants.module.code.ts"
-import { createLogger } from "../lost-treasure-logger/lost-treasure-logger.module.code.ts"
+} from "akasha/temper/lost-treasure/lost-treasure-constants/lost-treasure-constants.module.code.ts"
+import { createLogger } from "akasha/temper/lost-treasure/lost-treasure-logger/lost-treasure-logger.module.code.ts"
 
 const logger = createLogger("utilities")
 

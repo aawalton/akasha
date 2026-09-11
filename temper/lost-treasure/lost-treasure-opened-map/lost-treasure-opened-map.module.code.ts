@@ -5,20 +5,20 @@ import {
   LOST_TREASURE_NO_PIN_TYPE,
   LOST_TREASURE_PIN_TYPE_DATA,
   type PinType,
-} from "../lost-treasure-constants/lost-treasure-constants.module.code.ts"
-import { createLogger } from "../lost-treasure-logger/lost-treasure-logger.module.code.ts"
+} from "akasha/temper/lost-treasure/lost-treasure-constants/lost-treasure-constants.module.code.ts"
+import { createLogger } from "akasha/temper/lost-treasure/lost-treasure-logger/lost-treasure-logger.module.code.ts"
 import {
   markOnUsingAdd,
   markOnUsingDoesExist,
-} from "../lost-treasure-mark-on-using/lost-treasure-mark-on-using.module.code.ts"
-import { miningAdd } from "../lost-treasure-mining/lost-treasure-mining.module.code.ts"
+} from "akasha/temper/lost-treasure/lost-treasure-mark-on-using/lost-treasure-mark-on-using.module.code.ts"
+import { miningAdd } from "akasha/temper/lost-treasure/lost-treasure-mining/lost-treasure-mining.module.code.ts"
 import {
   getSettingDeletionDelay,
   getSettingsFromPinType,
-} from "../lost-treasure-pin-settings/lost-treasure-pin-settings.module.code.ts"
-import * as pins from "../lost-treasure-pins/lost-treasure-pins.module.code.ts"
-import { getSavedVars } from "../lost-treasure-saved-vars/lost-treasure-saved-vars.module.code.ts"
-import type { PinData } from "../lost-treasure-types/lost-treasure-types.module.code.ts"
+} from "akasha/temper/lost-treasure/lost-treasure-pin-settings/lost-treasure-pin-settings.module.code.ts"
+import * as pins from "akasha/temper/lost-treasure/lost-treasure-pins/lost-treasure-pins.module.code.ts"
+import { getSavedVars } from "akasha/temper/lost-treasure/lost-treasure-saved-vars/lost-treasure-saved-vars.module.code.ts"
+import type { PinData } from "akasha/temper/lost-treasure/lost-treasure-types/lost-treasure-types.module.code.ts"
 import {
   getPinTypeFromString,
   getPlayerPositionInfo,
@@ -26,7 +26,7 @@ import {
   requestRefreshMap,
   runCallbackAsync,
   secondsToMilliseconds,
-} from "../lost-treasure-utilities/lost-treasure-utilities.module.code.ts"
+} from "akasha/temper/lost-treasure/lost-treasure-utilities/lost-treasure-utilities.module.code.ts"
 
 const logger = createLogger("main")
 

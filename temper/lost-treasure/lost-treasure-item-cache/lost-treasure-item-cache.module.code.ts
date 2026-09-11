@@ -3,24 +3,24 @@ import {
   itemCacheAdd,
   itemCacheBuildMasterLists,
   itemCacheRemove,
-} from "../lost-treasure-bag-cache/lost-treasure-bag-cache.module.code.ts"
+} from "akasha/temper/lost-treasure/lost-treasure-bag-cache/lost-treasure-bag-cache.module.code.ts"
 import {
   ADDON_NAME,
   LOST_TREASURE_MARK_OPTIONS_INVENTORY,
   LOST_TREASURE_PIN_TYPE_DATA,
   LOST_TREASURE_PIN_TYPE_TREASURE,
-} from "../lost-treasure-constants/lost-treasure-constants.module.code.ts"
-import { createLogger } from "../lost-treasure-logger/lost-treasure-logger.module.code.ts"
+} from "akasha/temper/lost-treasure/lost-treasure-constants/lost-treasure-constants.module.code.ts"
+import { createLogger } from "akasha/temper/lost-treasure/lost-treasure-logger/lost-treasure-logger.module.code.ts"
 import {
   markOnUsingDoesExist,
   markOnUsingRemove,
-} from "../lost-treasure-mark-on-using/lost-treasure-mark-on-using.module.code.ts"
-import { miningIsActive } from "../lost-treasure-mining/lost-treasure-mining.module.code.ts"
-import * as lostTreasure from "../lost-treasure-opened-map/lost-treasure-opened-map.module.code.ts"
-import { getSettingsFromPinType } from "../lost-treasure-pin-settings/lost-treasure-pin-settings.module.code.ts"
-import * as pins from "../lost-treasure-pins/lost-treasure-pins.module.code.ts"
-import type { SlotData } from "../lost-treasure-types/lost-treasure-types.module.code.ts"
-import { isTreasureOrSurveyItemType } from "../lost-treasure-utilities/lost-treasure-utilities.module.code.ts"
+} from "akasha/temper/lost-treasure/lost-treasure-mark-on-using/lost-treasure-mark-on-using.module.code.ts"
+import { miningIsActive } from "akasha/temper/lost-treasure/lost-treasure-mining/lost-treasure-mining.module.code.ts"
+import * as lostTreasure from "akasha/temper/lost-treasure/lost-treasure-opened-map/lost-treasure-opened-map.module.code.ts"
+import { getSettingsFromPinType } from "akasha/temper/lost-treasure/lost-treasure-pin-settings/lost-treasure-pin-settings.module.code.ts"
+import * as pins from "akasha/temper/lost-treasure/lost-treasure-pins/lost-treasure-pins.module.code.ts"
+import type { SlotData } from "akasha/temper/lost-treasure/lost-treasure-types/lost-treasure-types.module.code.ts"
+import { isTreasureOrSurveyItemType } from "akasha/temper/lost-treasure/lost-treasure-utilities/lost-treasure-utilities.module.code.ts"
 
 const logger = createLogger("itemCache")
 

@@ -1,4 +1,4 @@
-import { registerUiStrings } from "../lost-treasure-ui-strings/lost-treasure-ui-strings.module.code.ts"
+import { registerUiStrings } from "akasha/temper/lost-treasure/lost-treasure-ui-strings/lost-treasure-ui-strings.module.code.ts"
 
 registerUiStrings()
 

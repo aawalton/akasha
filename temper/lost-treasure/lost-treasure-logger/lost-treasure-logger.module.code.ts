@@ -1,4 +1,4 @@
-import { ADDON_NAME } from "../lost-treasure-constants/lost-treasure-constants.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/lost-treasure/lost-treasure-constants/lost-treasure-constants.module.code.ts"
 
 function requireLibDebugLogger(this: void): LibDebugLogger {
   if (LibDebugLogger === undefined) {

@@ -1,6 +1,6 @@
-import { createLogger } from "../lost-treasure-logger/lost-treasure-logger.module.code.ts"
-import type { ItemCacheEntry } from "../lost-treasure-types/lost-treasure-types.module.code.ts"
-import { isTreasureOrSurveyItemType } from "../lost-treasure-utilities/lost-treasure-utilities.module.code.ts"
+import { createLogger } from "akasha/temper/lost-treasure/lost-treasure-logger/lost-treasure-logger.module.code.ts"
+import type { ItemCacheEntry } from "akasha/temper/lost-treasure/lost-treasure-types/lost-treasure-types.module.code.ts"
+import { isTreasureOrSurveyItemType } from "akasha/temper/lost-treasure/lost-treasure-utilities/lost-treasure-utilities.module.code.ts"
 
 const logger = createLogger("itemCache")
 

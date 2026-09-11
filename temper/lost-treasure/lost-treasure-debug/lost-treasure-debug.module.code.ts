@@ -3,7 +3,7 @@ import {
   LOG_LEVEL_DEBUG,
   LOG_LEVEL_INFO,
   setMinLogLevelToAllTags,
-} from "../lost-treasure-logger/lost-treasure-logger.module.code.ts"
+} from "akasha/temper/lost-treasure/lost-treasure-logger/lost-treasure-logger.module.code.ts"
 
 const logger = createLogger("debug")
 

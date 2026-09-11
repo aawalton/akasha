@@ -8,13 +8,13 @@ import {
   type PinType,
   SAVED_VARIABLES_ACCOUNT,
   SAVED_VARIABLES_CHARACTER,
-} from "../lost-treasure-constants/lost-treasure-constants.module.code.ts"
-import { createLogger } from "../lost-treasure-logger/lost-treasure-logger.module.code.ts"
-import type { PinData } from "../lost-treasure-types/lost-treasure-types.module.code.ts"
+} from "akasha/temper/lost-treasure/lost-treasure-constants/lost-treasure-constants.module.code.ts"
+import { createLogger } from "akasha/temper/lost-treasure/lost-treasure-logger/lost-treasure-logger.module.code.ts"
+import type { PinData } from "akasha/temper/lost-treasure/lost-treasure-types/lost-treasure-types.module.code.ts"
 import {
   doesPathContainsFileName,
   getFileNameFromPath,
-} from "../lost-treasure-utilities/lost-treasure-utilities.module.code.ts"
+} from "akasha/temper/lost-treasure/lost-treasure-utilities/lost-treasure-utilities.module.code.ts"
 
 const logger = createLogger("savedVars")
 
