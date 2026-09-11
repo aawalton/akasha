@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
-import { join } from "node:path"
+import { dirname, join } from "node:path"
 import {
   claimedIn,
   configOf,
@@ -124,8 +124,9 @@ test("what a config's include names is read as a pattern rather than as plain te
 
 test("a file a lua runtime library's config names is compiled by that config rather than here", () => {
   const held = change(HERE, {})
-  const claimed = claimedIn(held, shadowAsked(held).index)
-  const lua = "language-design/lua-compiler"
+  const index = shadowAsked(held).index
+  const claimed = claimedIn(held, index)
+  const lua = dirname(dirname(index.everyOfType("lua-runtime-library")[0]?.path ?? ""))
   expect(claimed(`${lua}/performance-global/performance-global.type-declaration.d.ts`)).toBe(true)
   expect(claimed(`${lua}/lualibs/whatever/whatever.lualib.code.ts`)).toBe(true)
   expect(claimed("humming/humming.hum.code.ts")).toBe(false)

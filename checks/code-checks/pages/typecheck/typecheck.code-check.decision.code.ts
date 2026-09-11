@@ -284,7 +284,7 @@ export async function foundIn(given: Change, shadow: Shadow): Promise<readonly F
   const root = resolve(change.root)
   const every = [...new Set([...shadow.index.everyPath(), ...change.changed])]
   const placed = placingOver(every, (one) => textOf(change.after(one)))
-  const declared = declaringIn(change, shadow.index)
+  const declared = declaringIn(change, shadow.index).filter((one) => !claimed(one))
   const named = [...new Set([...roots, ...declared])]
   const asked = orphaned.length === 0 ? roots : named
   if (asked.length === 0) return []
