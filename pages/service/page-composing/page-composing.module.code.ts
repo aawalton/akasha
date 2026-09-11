@@ -109,9 +109,14 @@ const RUN_OF_SPACE = /\s+/g
 
 const BYTES = new TextEncoder()
 
+const EVERY_PAGE = "page"
+
 export function besideItsPage(root: string, carried: readonly Carried[]): boolean {
   const filed = filePropertiesAt(root)
-  return carried.some((one) => filed.get(one.declaredBy)?.get(one.propertySlug) === null)
+  return carried.some(
+    (one) =>
+      one.declaredBy !== EVERY_PAGE && filed.get(one.declaredBy)?.get(one.propertySlug) === null
+  )
 }
 
 export function folderFor(plural: string, pageTypeSlug: string, slug: string): string {

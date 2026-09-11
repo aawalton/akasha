@@ -11,6 +11,8 @@ import {
   slugRefused,
 } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
 import {
+  AN_INSTANT,
+  carrying,
   DEVICE_TOKENS_AT,
   HELD_CRATE_ID,
   HELD_THING_BODY,
@@ -18,28 +20,8 @@ import {
   pageTypeAt,
   ROOT,
 } from "akasha/pages/service/page-composing/page-composing.module.test-fixtures.ts"
-import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 
 afterAll(scratch.sweep)
-
-const AN_INSTANT = "2026-09-01T12:00:00.000Z"
-
-function carrying(key: string, declaredBy: string): Carried {
-  return {
-    pagePropertySlug: key,
-    pageTypeSlug: "text-property",
-    propertySlug: key,
-    key,
-    unique: null,
-    declaredBy,
-    required: false,
-    many: false,
-    maxCount: null,
-    maxLength: null,
-    uncommitted: false,
-    secret: false,
-  }
-}
 
 test("the keys are written in the order they are declared, the deepest type first", () => {
   const said = orderedIn([
@@ -117,6 +99,11 @@ test("a type declaring no property held in a file carries none", () => {
 
 test("a type whose only file is named of its own carries none beside its page", () => {
   const carried = [carrying("slug", "thing"), carrying("manifest", "crate")]
+  expect(besideItsPage(ROOT, carried)).toBe(false)
+})
+
+test("a file the root page type declares carries none beside the page", () => {
+  const carried = [carrying("slug", "thing"), carrying("entries", "page")]
   expect(besideItsPage(ROOT, carried)).toBe(false)
 })
 

@@ -78,6 +78,10 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
+      statement: "A property the root `page` type declares is no reason for a folder of its own.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "That folder is the page's slug with the name above the folder taken off the front.",
     },
