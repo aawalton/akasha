@@ -20,6 +20,11 @@ import {
   workTreeLine,
 } from "akasha/alan/harness/code-editor/data-interfaces/tree-drawing/tree-drawing.module.code.ts"
 import {
+  dirsOf,
+  followFolders,
+  followWithin,
+} from "akasha/infrastructure/services/workstations/file-following/file-following.module.code.ts"
+import {
   everyOfType,
   indexNamed,
   typeSlugOf,
@@ -37,11 +42,6 @@ import {
   seatByShellPid,
   seatMarksAt,
 } from "akasha/seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
-import {
-  dirsOf,
-  followFolders,
-  followWithin,
-} from "akasha/services/workstations/file-following/file-following.module.code.ts"
 
 const INTERFACES_AT = "alan/harness/code-editor/data-interfaces/pages"
 const SCRATCH_AT = "alan/harness/code-editor/data-interfaces"

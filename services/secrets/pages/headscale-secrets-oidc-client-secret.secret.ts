@@ -1,9 +1,0 @@
-import type { Secret } from "akasha/services/secrets/secret.page-type.types.ts"
-
-export const headscaleSecretsOidcClientSecret = {
-  id: "01a0768b-1a0b-793a-a6a3-3c5abb756f0c",
-  pageTypeSlug: "secret",
-  type: "secret",
-  slug: "headscale-secrets-oidc-client-secret",
-  placements: [{ resourceName: "headscale-secrets", resourceKey: "oidc_client_secret" }],
-} as const satisfies Secret

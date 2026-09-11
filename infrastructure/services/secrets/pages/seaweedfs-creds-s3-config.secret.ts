@@ -1,0 +1,9 @@
+import type { Secret } from "akasha/infrastructure/services/secrets/secret.page-type.types.ts"
+
+export const seaweedfsCredsS3Config = {
+  id: "01a06832-cf2d-745b-b397-adb52c0acad7",
+  pageTypeSlug: "secret",
+  type: "secret",
+  slug: "seaweedfs-creds-s3-config",
+  placements: [{ resourceName: "seaweedfs-creds", resourceKey: "s3-config.json" }],
+} as const satisfies Secret

@@ -1,4 +1,4 @@
-import type { ServiceWorkstation } from "akasha/services/workstations/service-workstation.page-type.types.ts"
+import type { ServiceWorkstation } from "akasha/infrastructure/services/workstations/service-workstation.page-type.types.ts"
 
 export const capacityRelayService = {
   id: "01a06230-614f-7c7a-b4f2-d985546de7af",

@@ -1,9 +1,0 @@
-import type { Secret } from "akasha/services/secrets/secret.page-type.types.ts"
-
-export const subnetRouterAuth = {
-  id: "01a06832-cf2d-739c-b805-44e0c58b4757",
-  pageTypeSlug: "secret",
-  type: "secret",
-  slug: "subnet-router-auth",
-  placements: [{ resourceName: "subnet-router-auth", resourceKey: "TS_AUTHKEY" }],
-} as const satisfies Secret

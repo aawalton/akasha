@@ -22,8 +22,8 @@ import { putUpWebApp } from "akasha/commands/pages/deploy/deploy-web-putting-up/
 import {
   appliedWorkload,
   servableNamed,
-} from "akasha/services/clusters/workload-applying/workload-applying.module.code.ts"
-import { putUpService } from "akasha/services/workstations/service-putting-up/service-putting-up.module.code.ts"
+} from "akasha/infrastructure/services/clusters/workload-applying/workload-applying.module.code.ts"
+import { putUpService } from "akasha/infrastructure/services/workstations/service-putting-up/service-putting-up.module.code.ts"
 
 const INPUT = 1
 const DATA = 2

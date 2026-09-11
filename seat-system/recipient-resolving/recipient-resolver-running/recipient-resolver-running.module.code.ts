@@ -1,4 +1,8 @@
 import {
+  sleptUntilStopped,
+  stopsOnSignal,
+} from "akasha/infrastructure/services/workstations/tick-sleeping/tick-sleeping.module.code.ts"
+import {
   listPersonaSlugs,
   listPersonaWakeSources,
 } from "akasha/personas/targets/persona-targets.module.code.ts"
@@ -10,10 +14,6 @@ import {
 import { defaultRecipientResolverDeps } from "akasha/seat-system/recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts"
 import { assembleRecipientResolverSpecs } from "akasha/seat-system/recipient-resolving/recipient-resolver-registry/recipient-resolver-registry.module.code.ts"
 import { runRecipientResolverTick } from "akasha/seat-system/recipient-resolving/recipient-resolver-tick/recipient-resolver-tick.module.code.ts"
-import {
-  sleptUntilStopped,
-  stopsOnSignal,
-} from "akasha/services/workstations/tick-sleeping/tick-sleeping.module.code.ts"
 
 async function main(): Promise<void> {
   const ac = stopsOnSignal()

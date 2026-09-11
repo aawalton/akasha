@@ -5,7 +5,7 @@ import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.
 import {
   chooseLogsDiagnostic,
   describeBounds,
-} from "akasha/services/clusters/log-bound-saying/log-bound-saying.module.code.ts"
+} from "akasha/infrastructure/services/clusters/log-bound-saying/log-bound-saying.module.code.ts"
 import {
   fetchAllLokiLogs,
   fetchLokiLogs,
@@ -15,7 +15,7 @@ import {
   type LogEntry,
   parseLokiDuration,
   parseLokiPositiveInt,
-} from "akasha/services/clusters/loki-log-fetching/loki-log-fetching.module.code.ts"
+} from "akasha/infrastructure/services/clusters/loki-log-fetching/loki-log-fetching.module.code.ts"
 
 export const LOGS = "logs"
 

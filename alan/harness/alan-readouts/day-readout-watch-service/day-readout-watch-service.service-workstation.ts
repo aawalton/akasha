@@ -1,4 +1,4 @@
-import type { ServiceWorkstation } from "akasha/services/workstations/service-workstation.page-type.types.ts"
+import type { ServiceWorkstation } from "akasha/infrastructure/services/workstations/service-workstation.page-type.types.ts"
 
 export const dayReadoutWatchService = {
   id: "01a08c12-a327-7694-af88-2d20734ad347",

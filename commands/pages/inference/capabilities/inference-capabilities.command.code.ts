@@ -18,11 +18,11 @@ import {
   buildMfluxQueryScript,
   parseMfluxTools,
 } from "akasha/inference/pool/provision-script/provision-script.module.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   everyInference,
   type Inference,
-} from "akasha/services/inferences/inference-reading/inference-reading.module.code.ts"
+} from "akasha/infrastructure/services/inferences/inference-reading/inference-reading.module.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 const MODEL_TYPE = "--model-type"
 

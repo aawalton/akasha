@@ -1,0 +1,15 @@
+import type { ServiceCluster } from "akasha/infrastructure/services/clusters/service-cluster.page-type.types.ts"
+
+export const postgresAnnualDump = {
+  id: "01a06865-c012-7a1d-b102-3faf8416b98f",
+  pageTypeSlug: "service-cluster",
+  type: "service-cluster",
+  slug: "postgres-annual-dump",
+  definition: "what writes a whole copy of the database once a year",
+  resourceKind: "CronJob",
+  namespace: "postgres",
+  resourceName: "postgres-annual-dump",
+  image: "registry.registry.svc.cluster.local:5000/cluster/postgres-annual-dump:r1",
+  schedule: "13 5 1 1 *",
+  manifest: "postgres-annual-dump-manifests",
+} as const satisfies ServiceCluster

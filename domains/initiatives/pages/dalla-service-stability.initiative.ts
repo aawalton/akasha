@@ -16,7 +16,7 @@ export const dallaServiceStability = {
     {
       statement: "A unit names the wrapper by something a folder move cannot break.",
       workingMemory:
-        "The unit runs `bun services/workstations/service-wrapping/service-wrapping.module.code.ts -- bun <the service>`. The wrapper is the target, so when its own path moved, bun exited 1 before a line of wrapper code ran, and a wrapper cannot alert about the wrapper not being there. That path was spelled three ways in three days. A unit naming a stable entrypoint that resolves the wrapper through the index is what the alerting intent rests on.\n",
+        "The unit runs `bun infrastructure/services/workstations/service-wrapping/service-wrapping.module.code.ts -- bun <the service>`. The wrapper is the target, so when its own path moved, bun exited 1 before a line of wrapper code ran, and a wrapper cannot alert about the wrapper not being there. That path was spelled three ways in three days. A unit naming a stable entrypoint that resolves the wrapper through the index is what the alerting intent rests on.\n",
     },
     {
       statement: "A change moving a file a deployed unit names rewrites that unit or is refused.",

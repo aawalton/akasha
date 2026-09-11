@@ -1,0 +1,15 @@
+import type { ServiceCluster } from "akasha/infrastructure/services/clusters/service-cluster.page-type.types.ts"
+
+export const dcgmExporterDaemonset = {
+  id: "01a06812-2380-779b-83b3-f7f564f62401",
+  pageTypeSlug: "service-cluster",
+  type: "service-cluster",
+  slug: "dcgm-exporter-daemonset",
+  definition: "the daemon that publishes each node's graphics card as metrics",
+  resourceKind: "DaemonSet",
+  namespace: "kube-system",
+  resourceName: "dcgm-exporter",
+  image: "nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04",
+  containerPort: 9400,
+  manifest: "dcgm-exporter-daemonset",
+} as const satisfies ServiceCluster

@@ -40,7 +40,7 @@ import {
   everyInference,
   type Inference,
   readFor,
-} from "akasha/services/inferences/inference-reading/inference-reading.module.code.ts"
+} from "akasha/infrastructure/services/inferences/inference-reading/inference-reading.module.code.ts"
 
 const HEALTH_PROBED = "image-gen"
 

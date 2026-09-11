@@ -2,11 +2,11 @@ import { readFile } from "node:fs/promises"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { getHost } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
 import type { InferenceHost } from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
-import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   type Inference,
   readFor,
-} from "akasha/services/inferences/inference-reading/inference-reading.module.code.ts"
+} from "akasha/infrastructure/services/inferences/inference-reading/inference-reading.module.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const PROSE_ROUTE = "-file"

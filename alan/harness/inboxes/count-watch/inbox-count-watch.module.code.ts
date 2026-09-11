@@ -17,6 +17,7 @@ import {
   relayReading,
   statedIn,
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+import { followFolders } from "akasha/infrastructure/services/workstations/file-following/file-following.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -24,7 +25,6 @@ import {
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
-import { followFolders } from "akasha/services/workstations/file-following/file-following.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/said-by/said-by.module.code.ts"
 
 export const SETTLE_MS = 250

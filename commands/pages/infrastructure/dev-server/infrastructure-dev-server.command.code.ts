@@ -21,13 +21,13 @@ import {
   readEnvLocal,
   resolveEnvLocalPath,
   writeEnvLocalFromPages,
-} from "akasha/services/web-apps/dev-server-env-writing/dev-server-env-writing.module.code.ts"
+} from "akasha/infrastructure/services/web-apps/dev-server-env-writing/dev-server-env-writing.module.code.ts"
 import {
   type DevServerRecord,
   devServerTsvLine,
   recordFromState,
   stoppedRecord,
-} from "akasha/services/web-apps/dev-server-recording/dev-server-recording.module.code.ts"
+} from "akasha/infrastructure/services/web-apps/dev-server-recording/dev-server-recording.module.code.ts"
 import {
   computePort,
   type DevServerState,
@@ -39,8 +39,8 @@ import {
   readStateFile,
   stateFilePath,
   writeStateFile,
-} from "akasha/services/web-apps/dev-server-stating/dev-server-stating.module.code.ts"
-import { resolveWorktreePath } from "akasha/services/web-apps/dev-server-worktree/dev-server-worktree.module.code.ts"
+} from "akasha/infrastructure/services/web-apps/dev-server-stating/dev-server-stating.module.code.ts"
+import { resolveWorktreePath } from "akasha/infrastructure/services/web-apps/dev-server-worktree/dev-server-worktree.module.code.ts"
 import { errnoCodeOf } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 import { enforceMemoryGuard } from "akasha/utils/system/memory-guard/memory-guard.module.code.ts"
 

@@ -8,14 +8,14 @@ import {
   upkeepPassIn,
 } from "akasha/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.code.ts"
 import {
+  sleptUntilStopped,
+  stopsOnSignal,
+} from "akasha/infrastructure/services/workstations/tick-sleeping/tick-sleeping.module.code.ts"
+import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import {
-  sleptUntilStopped,
-  stopsOnSignal,
-} from "akasha/services/workstations/tick-sleeping/tick-sleeping.module.code.ts"
 
 const LOG = "[claude-account-upkeep]"
 const TICK_INTERVAL_MS = UPKEEP_PERIOD_MS

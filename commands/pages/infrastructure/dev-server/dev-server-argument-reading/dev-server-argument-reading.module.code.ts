@@ -1,4 +1,4 @@
-import { appNamesIn } from "akasha/services/web-apps/dev-server-stating/dev-server-stating.module.code.ts"
+import { appNamesIn } from "akasha/infrastructure/services/web-apps/dev-server-stating/dev-server-stating.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 export const BOOTSTRAP = "bootstrap"
