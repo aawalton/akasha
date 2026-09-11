@@ -1,5 +1,6 @@
 "use client"
 
+import { stripDisplayOnlyClasses } from "akasha/design/interfaces/forms/display-only-classes/display-only-classes.module.code.ts"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
@@ -14,16 +15,6 @@ interface InlineEditableTextProps {
   validate?: (value: string) => string | null
   maxLength?: number
   displayValue?: string
-}
-
-const DISPLAY_ONLY_CLASS_RE = /^(truncate|overflow-hidden|select-none|max-w-)/
-
-function stripDisplayOnlyClasses(className: string | undefined): string {
-  if (className == null) return ""
-  return className
-    .split(" ")
-    .filter((cls) => !DISPLAY_ONLY_CLASS_RE.test(cls))
-    .join(" ")
 }
 
 export function InlineEditableText({

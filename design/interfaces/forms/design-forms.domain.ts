@@ -10,6 +10,7 @@ export const designForms = {
   parts: [
     "module/calendar",
     "module/date-parser",
+    "module/display-only-classes",
     "module/editable-number",
     "module/field",
     "module/form",

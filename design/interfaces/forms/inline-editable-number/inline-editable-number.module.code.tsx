@@ -1,5 +1,6 @@
 "use client"
 
+import { stripDisplayOnlyClasses } from "akasha/design/interfaces/forms/display-only-classes/display-only-classes.module.code.ts"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { useEffect, useRef, useState } from "react"
 
@@ -13,16 +14,6 @@ export interface InlineEditableNumberProps {
   max?: number
   step?: number
   suffix?: string
-}
-
-const DISPLAY_ONLY_CLASS_RE = /^(truncate|overflow-hidden|select-none|max-w-)/
-
-function stripDisplayOnlyClasses(className: string | undefined): string {
-  if (className == null) return ""
-  return className
-    .split(" ")
-    .filter((cls) => !DISPLAY_ONLY_CLASS_RE.test(cls))
-    .join(" ")
 }
 
 export function InlineEditableNumber({
