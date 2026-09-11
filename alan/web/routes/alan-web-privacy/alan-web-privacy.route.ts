@@ -13,5 +13,9 @@ export const alanWebPrivacy = {
       invariantKind: "departure",
       statement: "The page carries verbatim the sentence a carrier requires on mobile information.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The page names every field the opt-in form writes into a consent page.",
+    },
   ],
 } as const satisfies Route

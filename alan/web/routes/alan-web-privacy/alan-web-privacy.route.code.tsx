@@ -24,12 +24,24 @@ export default function PrivacyRoute() {
         </header>
 
         <PanelCard id="data" title="What we collect and how we use it">
-          <p className="text-secondary text-sm">
-            The data collected is the phone numbers and message content exchanged with the service.
-            This data is used only to provide the personal-assistant messaging service. It is not
-            sold and not shared with third parties. No mobile information will be sold or shared
-            with third parties for promotional or marketing purposes.
-          </p>
+          <div className="space-y-3">
+            <p className="text-secondary text-sm">
+              The data collected is the phone numbers and message content exchanged with the
+              service. This data is used only to provide the personal-assistant messaging service.
+              It is not sold and not shared with third parties. No mobile information will be sold
+              or shared with third parties for promotional or marketing purposes.
+            </p>
+            <p className="text-secondary text-sm">
+              When you submit the digital opt-in form at{" "}
+              <a href="/sms" className="text-accent underline">
+                alanwalton.com/sms
+              </a>
+              , we record your name, mobile number, the fact of your consent, the version of the
+              consent wording shown to you, a timestamp, and your IP address and browser user-agent.
+              This information is kept as proof that you consented to receive messages. It is used
+              only to operate the service and is not sold or shared with third parties.
+            </p>
+          </div>
         </PanelCard>
 
         <PanelCard id="retention" title="Retention">
