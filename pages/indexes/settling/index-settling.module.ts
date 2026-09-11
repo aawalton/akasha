@@ -137,5 +137,9 @@ export const indexSettling = {
       statement:
         "A filing merges what comes in with the lines already there rather than sorting them again.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A file whose lines a filing leaves as they were is not filed.",
+    },
   ],
 } as const satisfies Module

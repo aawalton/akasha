@@ -81,6 +81,16 @@ export function mergedIn(sorted: readonly string[], coming: readonly string[]): 
   return said
 }
 
+const WHOLE = new WeakMap<readonly string[], ReadonlySet<string>>()
+
+function wholeOf(lines: readonly string[]): ReadonlySet<string> {
+  const found = WHOLE.get(lines)
+  if (found !== undefined) return found
+  const made = new Set(lines)
+  WHOLE.set(lines, made)
+  return made
+}
+
 export function filingOf(
   reading: Reading,
   was: readonly Entry[],
@@ -94,11 +104,15 @@ export function filingOf(
   const added = Map.groupBy(now, (one) => one.at)
   const said: Filing[] = []
   for (const at of new Set([...withdrawn.keys(), ...added.keys()])) {
-    const gone = new Set((withdrawn.get(at) ?? []).map((one) => one.line))
+    const whole = wholeOf(reading.lines(at))
+    const gone = new Set(
+      (withdrawn.get(at) ?? []).map((one) => one.line).filter((one) => whole.has(one))
+    )
     const come = new Set((added.get(at) ?? []).map((one) => one.line))
-    const surviving = new Set([...reading.lines(at)].filter((one) => !gone.has(one)))
-    const coming = [...come].filter((one) => !surviving.has(one))
-    said.push({ at, lines: mergedIn([...surviving], coming) })
+    const coming = [...come].filter((one) => !whole.has(one))
+    if (gone.size === 0 && coming.length === 0) continue
+    const surviving = [...whole].filter((one) => !gone.has(one))
+    said.push({ at, lines: mergedIn(surviving, coming) })
   }
   return said
 }

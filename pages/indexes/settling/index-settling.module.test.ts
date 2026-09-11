@@ -24,7 +24,11 @@ import {
 } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { listedByPath, readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { indexRelation } from "akasha/pages/indexes/relation/index-relation.index.ts"
-import { mergedIn, settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
+import {
+  filingOf,
+  mergedIn,
+  settlingOver,
+} from "akasha/pages/indexes/settling/index-settling.module.code.ts"
 import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
 import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
 
@@ -43,6 +47,31 @@ test("a merge answers what sorting the two together answers", () => {
   const coming = ["aardvark", "delta", "beta beta"]
 
   expect(mergedIn(held, coming)).toEqual([...held, ...coming].sort())
+})
+
+const ONE_FILE = {
+  holds: () => true,
+  listing: () => [],
+  lines: (at: string) => (at === "one.jsonl" ? ["a", "b"] : []),
+}
+
+test("a filing leaving a file's lines as they were answers no filing", () => {
+  const entries = [{ at: "one.jsonl", line: "a" }]
+
+  expect(filingOf(ONE_FILE, entries, entries)).toEqual([])
+})
+
+test("a filing withdrawing a line the file does not hold answers no filing", () => {
+  expect(filingOf(ONE_FILE, [{ at: "one.jsonl", line: "z" }], [])).toEqual([])
+})
+
+test("a filing answers the file whose lines it turns", () => {
+  expect(filingOf(ONE_FILE, [{ at: "one.jsonl", line: "a" }], [])).toEqual([
+    { at: "one.jsonl", lines: ["b"] },
+  ])
+  expect(filingOf(ONE_FILE, [], [{ at: "one.jsonl", line: "c" }])).toEqual([
+    { at: "one.jsonl", lines: ["a", "b", "c"] },
+  ])
 })
 
 const TARGET_ID = idOf("b")
