@@ -8,4 +8,5 @@ export const alanwaltonIosSeam = {
   definition: "the native layer written into Alan's generated Xcode project",
   shell: "sh",
   sourced: false,
+  scripting: {},
 } as const satisfies ShellScript
