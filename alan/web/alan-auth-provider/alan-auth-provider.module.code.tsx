@@ -1,6 +1,13 @@
 "use client"
 
 import { useSupabase } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
+import { isNativeShell } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
+import { DeepLinkOpenSync } from "akasha/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx"
+import { DeviceSecretSync } from "akasha/alan/web/device-secret-sync/device-secret-sync.module.code.tsx"
+import { NativeAuthRefreshSync } from "akasha/alan/web/native-auth-refresh-sync/native-auth-refresh-sync.module.code.tsx"
+import { setOfflineCacheUserKey } from "akasha/alan/web/offline-cache-namespace/offline-cache-namespace.module.code.ts"
+import { OfflineTextSync } from "akasha/alan/web/offline-text-sync/offline-text-sync.module.code.tsx"
+import { PushRegistrationSync } from "akasha/alan/web/push-registration-sync/push-registration-sync.module.code.tsx"
 import { useAppVersionCheck } from "akasha/pages/ui/app-version/use-app-version-check/use-app-version-check.module.code.ts"
 import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { emitStoreDiagnostic } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
@@ -13,13 +20,6 @@ import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.m
 import { useEffect, useRef, useState } from "react"
 import { useNavigate } from "react-router"
 import { z } from "zod"
-import { isNativeShell } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
-import { DeepLinkOpenSync } from "../deep-link-open-sync/deep-link-open-sync.module.code.tsx"
-import { DeviceSecretSync } from "../device-secret-sync/device-secret-sync.module.code.tsx"
-import { NativeAuthRefreshSync } from "../native-auth-refresh-sync/native-auth-refresh-sync.module.code.tsx"
-import { setOfflineCacheUserKey } from "../offline-cache-namespace/offline-cache-namespace.module.code.ts"
-import { OfflineTextSync } from "../offline-text-sync/offline-text-sync.module.code.tsx"
-import { PushRegistrationSync } from "../push-registration-sync/push-registration-sync.module.code.tsx"
 
 const PAGE_TYPE_SLUG = toPageTypeSlug("page-type")
 const PROPERTY_DEFINITION_SLUG = toPageTypeSlug("page-property-definition")

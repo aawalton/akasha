@@ -9,8 +9,11 @@ import {
 } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.test-fixtures.ts"
 import { dropRelayed } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
 import { relayedFor } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
+import {
+  GROUP,
+  WIRE_KEY_NAME,
+} from "akasha/alan/web/attribute-stoplights/attribute-stoplights.module.code.ts"
 import { z } from "zod"
-import { GROUP, WIRE_KEY_NAME } from "./attribute-stoplights.module.code.ts"
 
 globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
 

@@ -1,5 +1,5 @@
+import { unheld } from "akasha/alan/web/pages-unheld/pages-unheld.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
-import { unheld } from "../../pages-unheld/pages-unheld.module.code.ts"
 
 const IDLE_GAME_SLUG = toPageTypeSlug("idle-game")
 

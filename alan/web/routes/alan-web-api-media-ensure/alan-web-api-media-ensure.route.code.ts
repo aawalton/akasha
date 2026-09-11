@@ -1,10 +1,10 @@
 import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
-import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import {
   ensureReadAloudRendition,
   resolveChapterKokoroSegments,
-} from "../../kokoro-render/kokoro-render.module.code.ts"
-import { resolveMediaPage } from "../../media-page/media-page.module.code.ts"
+} from "akasha/alan/web/kokoro-render/kokoro-render.module.code.ts"
+import { resolveMediaPage } from "akasha/alan/web/media-page/media-page.module.code.ts"
+import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 
 const SHELL_ORIGINS: readonly string[] = ["https://alanwalton.com", "capacitor://localhost"]
 

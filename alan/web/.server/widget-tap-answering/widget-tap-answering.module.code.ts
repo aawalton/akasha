@@ -2,11 +2,14 @@ import {
   countTap,
   type Tapped,
 } from "akasha/alan/harness/readouts/widget-tap-counting/widget-tap-counting.module.code.ts"
-import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
 import {
   type DeviceTokenContext,
   resolveDeviceTokenContext,
-} from "../device-token-context/device-token-context.module.code.ts"
+} from "akasha/alan/web/.server/device-token-context/device-token-context.module.code.ts"
+import {
+  capacitorCorsHeaders,
+  withCors,
+} from "akasha/alan/web/capacitor-cors/capacitor-cors.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"
 

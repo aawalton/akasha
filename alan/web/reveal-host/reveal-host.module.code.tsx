@@ -1,19 +1,19 @@
 "use client"
 
 import type { DrawReveal } from "akasha/alan/harness/idle-system/idle-draw/idle-draw.module.code.ts"
+import {
+  clearReveal,
+  getRevealSnapshot,
+  subscribeReveal,
+} from "akasha/alan/web/idle-reveal-store/idle-reveal-store.module.code.ts"
+import { StarRow } from "akasha/alan/web/star-row/star-row.module.code.tsx"
 import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { DegradingImage } from "akasha/pages/ui/components/degrading-image/degrading-image.module.code.tsx"
 import { useSyncExternalStore } from "react"
-import {
-  clearReveal,
-  getRevealSnapshot,
-  subscribeReveal,
-} from "../idle-reveal-store/idle-reveal-store.module.code.ts"
-import { StarRow } from "../star-row/star-row.module.code.tsx"
-import "../reveal-host-look/reveal-host-look.stylesheet.styles.css"
+import "akasha/alan/web/reveal-host-look/reveal-host-look.stylesheet.styles.css"
 
 function imageSrc(id: string): string {
   return `/api/image/${id}`

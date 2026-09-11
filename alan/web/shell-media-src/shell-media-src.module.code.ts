@@ -1,6 +1,6 @@
+import { apiFetch } from "akasha/alan/web/api-fetch/api-fetch.module.code.ts"
+import { API_ORIGIN } from "akasha/alan/web/api-origin/api-origin.module.code.ts"
 import { z } from "zod"
-import { apiFetch } from "../api-fetch/api-fetch.module.code.ts"
-import { API_ORIGIN } from "../api-origin/api-origin.module.code.ts"
 
 const mediaTokenResponseSchema = z.object({ token: z.string().min(1) }).strict()
 

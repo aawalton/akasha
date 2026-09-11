@@ -7,7 +7,7 @@ import {
   type ActionIntent,
   type ActionResult,
   applyIntent,
-} from "../idle-actions/idle-actions.module.code.ts"
+} from "akasha/alan/web/idle-actions/idle-actions.module.code.ts"
 
 export function commitIntent(state: GameState, intent: ActionIntent, now: number): ActionResult {
   const banked = withLatches(bankAccrual(state, now))

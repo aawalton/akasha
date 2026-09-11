@@ -1,4 +1,28 @@
 import { BASE_IMAGE_ID } from "akasha/alan/harness/idle-system/idle-constants/idle-constants.module.code.ts"
+import {
+  ensureCatalogLoaded,
+  getCatalogSnapshot,
+  subscribeCatalog,
+} from "akasha/alan/web/idle-catalog-store/idle-catalog-store.module.code.ts"
+import { ErrorMessage } from "akasha/alan/web/idle-error-message/idle-error-message.module.code.tsx"
+import { idleGameStore } from "akasha/alan/web/idle-game-store/idle-game-store.module.code.ts"
+import { portraitSrc } from "akasha/alan/web/idle-portrait/idle-portrait.module.code.ts"
+import {
+  deriveCollectionCounts,
+  deriveRosterView,
+  deriveVariantIds,
+  type GirlCardVM,
+  hasBaseCover,
+} from "akasha/alan/web/idle-roster-view/idle-roster-view.module.code.ts"
+import {
+  closeRosterGallery,
+  getRosterGallerySnapshot,
+  subscribeRosterGallery,
+} from "akasha/alan/web/roster-gallery-store/roster-gallery-store.module.code.ts"
+import {
+  type IdleActions,
+  useIdleActions,
+} from "akasha/alan/web/use-idle-actions/use-idle-actions.module.code.ts"
 import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Dialog,
@@ -11,30 +35,6 @@ import { useSurface } from "akasha/design/interfaces/primitives/surface-provider
 import { formatShortNumber as fmt } from "akasha/pages/core/property-types/number/number.module.code.ts"
 import { DegradingImage } from "akasha/pages/ui/components/degrading-image/degrading-image.module.code.tsx"
 import { useEffect, useSyncExternalStore } from "react"
-import {
-  ensureCatalogLoaded,
-  getCatalogSnapshot,
-  subscribeCatalog,
-} from "../idle-catalog-store/idle-catalog-store.module.code.ts"
-import { ErrorMessage } from "../idle-error-message/idle-error-message.module.code.tsx"
-import { idleGameStore } from "../idle-game-store/idle-game-store.module.code.ts"
-import { portraitSrc } from "../idle-portrait/idle-portrait.module.code.ts"
-import {
-  deriveCollectionCounts,
-  deriveRosterView,
-  deriveVariantIds,
-  type GirlCardVM,
-  hasBaseCover,
-} from "../idle-roster-view/idle-roster-view.module.code.ts"
-import {
-  closeRosterGallery,
-  getRosterGallerySnapshot,
-  subscribeRosterGallery,
-} from "../roster-gallery-store/roster-gallery-store.module.code.ts"
-import {
-  type IdleActions,
-  useIdleActions,
-} from "../use-idle-actions/use-idle-actions.module.code.ts"
 
 function imageSrc(id: string): string {
   return `/api/image/${id}`

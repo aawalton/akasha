@@ -1,7 +1,7 @@
 import type {
   AppPlugin,
   PluginListenerHandle,
-} from "../capacitor-bridge/capacitor-bridge.module.code.ts"
+} from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
 
 export interface AutoRefreshControl {
   startAutoRefresh: () => Promise<void>

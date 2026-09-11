@@ -1,10 +1,10 @@
 "use client"
 
+import { isNativeShell } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
+import { downloadChapter } from "akasha/alan/web/offline-downloads/offline-downloads.module.code.ts"
 import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { useState } from "react"
 import { useSearchParams } from "react-router"
-import { isNativeShell } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
-import { downloadChapter } from "../offline-downloads/offline-downloads.module.code.ts"
 
 type Status = "idle" | "downloading" | "done" | "error"
 

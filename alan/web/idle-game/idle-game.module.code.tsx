@@ -1,5 +1,19 @@
-import "../idle-look/idle-look.stylesheet.styles.css"
+import "akasha/alan/web/idle-look/idle-look.stylesheet.styles.css"
 import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
+import { ActiveBoosts } from "akasha/alan/web/active-boosts/active-boosts.module.code.tsx"
+import { apiFetch } from "akasha/alan/web/api-fetch/api-fetch.module.code.ts"
+import { IdleCardView } from "akasha/alan/web/idle-card-view/idle-card-view.module.code.tsx"
+import {
+  type IdleGameSnapshot,
+  idleGameStore,
+} from "akasha/alan/web/idle-game-store/idle-game-store.module.code.ts"
+import { AddSeatPicker } from "akasha/alan/web/lineup-header/lineup-header.module.code.tsx"
+import { PrestigeCard } from "akasha/alan/web/prestige-card/prestige-card.module.code.tsx"
+import { UniversalTitleBar } from "akasha/alan/web/universal-title-bar/universal-title-bar.module.code.tsx"
+import {
+  type IdleActions,
+  useIdleActions,
+} from "akasha/alan/web/use-idle-actions/use-idle-actions.module.code.ts"
 import { PageLayout } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import {
   Tabs,
@@ -12,20 +26,6 @@ import { DisplayFrame } from "akasha/pages/ui/frame/display-frame/display-frame.
 import { FrameViewPropertiesMenu } from "akasha/pages/ui/frame/frame-view-properties-menu/frame-view-properties-menu.module.code.tsx"
 import { useEffect, useState, useSyncExternalStore } from "react"
 import { z } from "zod"
-import { ActiveBoosts } from "../active-boosts/active-boosts.module.code.tsx"
-import { apiFetch } from "../api-fetch/api-fetch.module.code.ts"
-import { IdleCardView } from "../idle-card-view/idle-card-view.module.code.tsx"
-import {
-  type IdleGameSnapshot,
-  idleGameStore,
-} from "../idle-game-store/idle-game-store.module.code.ts"
-import { AddSeatPicker } from "../lineup-header/lineup-header.module.code.tsx"
-import { PrestigeCard } from "../prestige-card/prestige-card.module.code.tsx"
-import { UniversalTitleBar } from "../universal-title-bar/universal-title-bar.module.code.tsx"
-import {
-  type IdleActions,
-  useIdleActions,
-} from "../use-idle-actions/use-idle-actions.module.code.ts"
 
 const RENDER_MS = 100
 

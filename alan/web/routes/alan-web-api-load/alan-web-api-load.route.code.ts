@@ -1,6 +1,9 @@
-import { resolveIdleSaveContext } from "../../.server/idle-save-context/idle-save-context.module.code.ts"
-import { loadSave } from "../../.server/idle-saves/idle-saves.module.code.ts"
-import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
+import { resolveIdleSaveContext } from "akasha/alan/web/.server/idle-save-context/idle-save-context.module.code.ts"
+import { loadSave } from "akasha/alan/web/.server/idle-saves/idle-saves.module.code.ts"
+import {
+  capacitorCorsHeaders,
+  withCors,
+} from "akasha/alan/web/capacitor-cors/capacitor-cors.module.code.ts"
 
 const CORS_METHODS = "GET, OPTIONS"
 

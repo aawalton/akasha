@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { pagesReady } from "./pages-ready.route.code.ts"
+import { pagesReady } from "akasha/alan/web/routes/pages-ready/pages-ready.route.code.ts"
 
 globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
 

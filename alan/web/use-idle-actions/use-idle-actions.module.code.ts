@@ -1,6 +1,6 @@
+import type { ActionIntent } from "akasha/alan/web/idle-actions/idle-actions.module.code.ts"
+import { idleGameStore } from "akasha/alan/web/idle-game-store/idle-game-store.module.code.ts"
 import { useSyncExternalStore } from "react"
-import type { ActionIntent } from "../idle-actions/idle-actions.module.code.ts"
-import { idleGameStore } from "../idle-game-store/idle-game-store.module.code.ts"
 
 export type ActionError = { readonly key: string; readonly reason: string }
 

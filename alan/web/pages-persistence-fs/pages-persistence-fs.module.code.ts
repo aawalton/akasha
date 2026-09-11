@@ -1,18 +1,18 @@
+import { getFilesystem } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
+import {
+  deleteDocumentsFile,
+  listDocumentsFiles,
+} from "akasha/alan/web/offline-cache-fs/offline-cache-fs.module.code.ts"
+import { namespacedPath } from "akasha/alan/web/offline-cache-namespace/offline-cache-namespace.module.code.ts"
+import {
+  parsePagesSnapshot,
+  serializePagesSnapshot,
+} from "akasha/alan/web/pages-persistence-core/pages-persistence-core.module.code.ts"
 import type {
   PagesPersistencePort,
   PersistedPagesSnapshot,
 } from "akasha/pages/ui-store/collection/persistence/persistence.module.code.ts"
 import { z } from "zod"
-import { getFilesystem } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
-import {
-  deleteDocumentsFile,
-  listDocumentsFiles,
-} from "../offline-cache-fs/offline-cache-fs.module.code.ts"
-import { namespacedPath } from "../offline-cache-namespace/offline-cache-namespace.module.code.ts"
-import {
-  parsePagesSnapshot,
-  serializePagesSnapshot,
-} from "../pages-persistence-core/pages-persistence-core.module.code.ts"
 
 const SNAPSHOT_BASENAME = "pages-collection.json"
 

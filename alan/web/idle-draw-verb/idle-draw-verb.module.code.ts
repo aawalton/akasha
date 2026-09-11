@@ -1,7 +1,7 @@
+import { apiFetch } from "akasha/alan/web/api-fetch/api-fetch.module.code.ts"
+import { idleGameStore } from "akasha/alan/web/idle-game-store/idle-game-store.module.code.ts"
+import { pushReveal } from "akasha/alan/web/idle-reveal-store/idle-reveal-store.module.code.ts"
 import { z } from "zod"
-import { apiFetch } from "../api-fetch/api-fetch.module.code.ts"
-import { idleGameStore } from "../idle-game-store/idle-game-store.module.code.ts"
-import { pushReveal } from "../idle-reveal-store/idle-reveal-store.module.code.ts"
 
 const drawRevealSchema = z.object({
   slug: z.string(),

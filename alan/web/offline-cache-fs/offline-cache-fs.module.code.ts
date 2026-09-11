@@ -1,5 +1,5 @@
+import { getFilesystem } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { z } from "zod"
-import { getFilesystem } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
 
 const ReaddirResultSchema = z.object({
   files: z.array(z.union([z.string(), z.object({ name: z.string() }).passthrough()])),

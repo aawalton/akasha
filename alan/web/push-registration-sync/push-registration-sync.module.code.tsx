@@ -1,17 +1,17 @@
 "use client"
 
+import { apiFetch } from "akasha/alan/web/api-fetch/api-fetch.module.code.ts"
+import {
+  getPushNotifications,
+  isNativeShell,
+  type PluginListenerHandle,
+} from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { decidePermissionAction } from "akasha/persons/push-permission/push-permission.module.code.ts"
 import { registerDeviceTokenSchema } from "akasha/persons/push-register-body/push-register-body.module.code.ts"
 import { decidePushRoute } from "akasha/persons/push-routing/push-routing.module.code.ts"
 import { useContext, useEffect, useRef } from "react"
 import { useNavigate } from "react-router"
-import { apiFetch } from "../api-fetch/api-fetch.module.code.ts"
-import {
-  getPushNotifications,
-  isNativeShell,
-  type PluginListenerHandle,
-} from "../capacitor-bridge/capacitor-bridge.module.code.ts"
 
 async function postDeviceToken(deviceToken: string): Promise<void> {
   const body = registerDeviceTokenSchema.safeParse({ deviceToken, platform: "ios" })

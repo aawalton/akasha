@@ -1,9 +1,12 @@
-import { useEffect } from "react"
-import { getStatusBar, isNativeShell } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
+import {
+  getStatusBar,
+  isNativeShell,
+} from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
 import {
   classifyStatusBarBridge,
   decideStatusBarCall,
-} from "../status-bar-chrome/status-bar-chrome.module.code.ts"
+} from "akasha/alan/web/status-bar-chrome/status-bar-chrome.module.code.ts"
+import { useEffect } from "react"
 
 export function StatusBarSync() {
   useEffect(() => {

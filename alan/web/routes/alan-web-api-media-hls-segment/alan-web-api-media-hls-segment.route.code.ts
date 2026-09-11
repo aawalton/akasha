@@ -1,4 +1,10 @@
 import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
+import {
+  capacitorCorsHeaders,
+  corsPreflight,
+  corsResponder,
+} from "akasha/alan/web/capacitor-cors/capacitor-cors.module.code.ts"
+import { isMediaPageId } from "akasha/alan/web/media-page/media-page.module.code.ts"
 import { hlsSegmentObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import {
   type ObjectStreamResult,
@@ -12,12 +18,6 @@ import {
   MEDIA_VARIANT_PATTERN,
   mediaPageExists,
 } from "akasha/pages/ui/media/serve-media/serve-media.module.code.ts"
-import {
-  capacitorCorsHeaders,
-  corsPreflight,
-  corsResponder,
-} from "../../capacitor-cors/capacitor-cors.module.code.ts"
-import { isMediaPageId } from "../../media-page/media-page.module.code.ts"
 
 const SEGMENT_PATTERN = /^seg[0-9]{5}\.mp3$/
 

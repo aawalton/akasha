@@ -2,7 +2,7 @@ import {
   buildReadoutRefusal,
   READOUT_CACHE_CONTROL,
 } from "akasha/alan/harness/readouts/credential/readout-credential.module.code.ts"
-import { readDeviceSecretAdmission } from "../../.server/device-secret-context/device-secret-context.module.code.ts"
+import { readDeviceSecretAdmission } from "akasha/alan/web/.server/device-secret-context/device-secret-context.module.code.ts"
 import type { Route } from "./+types/device-secret-admission.route.code"
 
 export async function loader({ request }: Route.LoaderArgs): Promise<Response> {

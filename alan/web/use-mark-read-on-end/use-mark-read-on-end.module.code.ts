@@ -1,5 +1,11 @@
 "use client"
 
+import { isNativeShell } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
+import { enqueueChapterCompletion } from "akasha/alan/web/offline-text/offline-text.module.code.ts"
+import {
+  isCompletionAlreadySet,
+  selectCompletionWriteMode,
+} from "akasha/alan/web/read-completion/read-completion.module.code.ts"
 import { patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { useAllPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
@@ -7,12 +13,6 @@ import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-o
 import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback } from "react"
-import { isNativeShell } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
-import { enqueueChapterCompletion } from "../offline-text/offline-text.module.code.ts"
-import {
-  isCompletionAlreadySet,
-  selectCompletionWriteMode,
-} from "../read-completion/read-completion.module.code.ts"
 
 const COMPLETED_AT_PROPERTY_ID = "completedAt"
 const PAGE_TYPE_SLUG = "page-type"

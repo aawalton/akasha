@@ -1,9 +1,9 @@
-import { Loader2, RefreshCw } from "lucide-react"
-import { useEffect, useRef, useState } from "react"
 import {
   type ScrollableAncestor,
   shouldArm,
-} from "../pull-to-refresh-decider/pull-to-refresh-decider.module.code.ts"
+} from "akasha/alan/web/pull-to-refresh-decider/pull-to-refresh-decider.module.code.ts"
+import { Loader2, RefreshCw } from "lucide-react"
+import { useEffect, useRef, useState } from "react"
 
 function collectScrollableAncestors(target: EventTarget | null): readonly ScrollableAncestor[] {
   const chain: ScrollableAncestor[] = []

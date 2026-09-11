@@ -1,7 +1,10 @@
 import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
+import {
+  capacitorCorsHeaders,
+  withCors,
+} from "akasha/alan/web/capacitor-cors/capacitor-cors.module.code.ts"
+import { isMediaPageId } from "akasha/alan/web/media-page/media-page.module.code.ts"
 import { serveMedia } from "akasha/pages/ui/media/serve-media/serve-media.module.code.ts"
-import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
-import { isMediaPageId } from "../../media-page/media-page.module.code.ts"
 
 const DOWNLOAD_CORS = {
   allowHeaders: "Authorization, Range",

@@ -1,4 +1,5 @@
 import { DEFAULT_VOICE_INFER_URL } from "akasha/alan/harness/voice-core/infer-endpoint/infer-endpoint.module.code.ts"
+import { readAloudKey } from "akasha/alan/web/read-aloud-persist/read-aloud-persist.module.code.ts"
 import {
   type HlsKeyOpts,
   hlsPlaylistObjectKey,
@@ -7,7 +8,6 @@ import {
 import type { ObjectStore } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { inFlightKeys } from "akasha/utils/narrow/in-flight-keys/in-flight-keys.module.code.ts"
 import { z } from "zod"
-import { readAloudKey } from "../read-aloud-persist/read-aloud-persist.module.code.ts"
 
 const KOKORO_VOICE = "af_heart"
 

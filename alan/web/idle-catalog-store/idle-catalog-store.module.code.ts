@@ -1,6 +1,6 @@
+import type { Catalog } from "akasha/alan/web/idle-catalog/idle-catalog.module.code.ts"
 import { listenerSet } from "akasha/design/interfaces/primitives/listener-set/listener-set.module.code.ts"
 import { z } from "zod"
-import type { Catalog } from "../idle-catalog/idle-catalog.module.code.ts"
 
 const catalogSchema = z.looseObject({
   roster: z.array(

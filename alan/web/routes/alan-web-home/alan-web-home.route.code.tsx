@@ -1,12 +1,12 @@
 import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { getRequestServerClient } from "akasha/alan/harness/supabase-rr/request-session-cache/request-session-cache.module.code.ts"
+import { readHomeNavItemParam } from "akasha/alan/web/.server/home-dni-param/home-dni-param.module.code.ts"
 import {
   PageLayout,
   PageTitle,
 } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { ViewPageContent } from "akasha/pages/ui/components/view-page-content/view-page-content.module.code.tsx"
 import { data, redirect } from "react-router"
-import { readHomeNavItemParam } from "../../.server/home-dni-param/home-dni-param.module.code.ts"
 
 export function meta() {
   return [{ title: "Home" }]

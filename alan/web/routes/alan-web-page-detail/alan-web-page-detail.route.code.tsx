@@ -1,3 +1,7 @@
+import { loader as pageDetailLoader } from "akasha/alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts"
+import { OfflineDownloadButton } from "akasha/alan/web/offline-download-button/offline-download-button.module.code.tsx"
+import { PageDetailErrorBoundary } from "akasha/alan/web/page-detail-error-boundary/page-detail-error-boundary.module.code.tsx"
+import { ReaderNarrationDetail } from "akasha/alan/web/reader-narration-detail/reader-narration-detail.module.code.tsx"
 import { PageDetailContent } from "akasha/pages/ui/components/page-detail-content/page-detail-content.module.code.tsx"
 import { ViewPageContent } from "akasha/pages/ui/components/view-page-content/view-page-content.module.code.tsx"
 import { ViewPageFrame } from "akasha/pages/ui/components/view-page-frame/view-page-frame.module.code.tsx"
@@ -12,14 +16,10 @@ import {
   type ShouldRevalidateFunctionArgs,
   useSearchParams,
 } from "react-router"
-import { loader as pageDetailLoader } from "../../.server/page-detail-loading/page-detail-loading.module.code.ts"
-import { OfflineDownloadButton } from "../../offline-download-button/offline-download-button.module.code.tsx"
-import { PageDetailErrorBoundary } from "../../page-detail-error-boundary/page-detail-error-boundary.module.code.tsx"
-import { ReaderNarrationDetail } from "../../reader-narration-detail/reader-narration-detail.module.code.tsx"
 
 type PageDetailLoaderData = Awaited<ReturnType<typeof pageDetailLoader>>["data"]
 
-const IdleGame = lazy(() => import("../../idle-game/idle-game.module.code.tsx"))
+const IdleGame = lazy(() => import("akasha/alan/web/idle-game/idle-game.module.code.tsx"))
 
 const ChessBoard = lazy(() => import("akasha/alan/chess/board/chess-board.module.code.tsx"))
 

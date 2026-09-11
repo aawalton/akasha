@@ -1,5 +1,19 @@
 import { signOut } from "akasha/alan/harness/supabase-rr/auth-client/auth-client.module.code.ts"
 import {
+  ALANWALTON_APP_ID,
+  ALANWALTON_APP_SLUG,
+} from "akasha/alan/web/alan-app-id/alan-app-id.module.code.ts"
+import {
+  getNavItemProducts,
+  navItemContent,
+  navItemTech,
+  primaryNavItems,
+} from "akasha/alan/web/alan-nav-items/alan-nav-items.module.code.ts"
+import { EdgeSwipeNav } from "akasha/alan/web/edge-swipe-nav/edge-swipe-nav.module.code.tsx"
+import { MiniPlayerBar } from "akasha/alan/web/mini-player-bar/mini-player-bar.module.code.tsx"
+import { DynamicNavCommands } from "akasha/alan/web/nav-commands/nav-commands.module.code.tsx"
+import { PullToRefresh } from "akasha/alan/web/pull-to-refresh/pull-to-refresh.module.code.tsx"
+import {
   LayoutRouterAdapter,
   PagesUIRouterAdapter,
 } from "akasha/code-system/router-apps/router-context-adapters/router-context-adapters.module.code.tsx"
@@ -24,17 +38,6 @@ import { LogIn, LogOut } from "lucide-react"
 import { useCallback, useEffect, useMemo, useState } from "react"
 import { Link } from "react-router"
 import { z } from "zod"
-import { ALANWALTON_APP_ID, ALANWALTON_APP_SLUG } from "../alan-app-id/alan-app-id.module.code.ts"
-import {
-  getNavItemProducts,
-  navItemContent,
-  navItemTech,
-  primaryNavItems,
-} from "../alan-nav-items/alan-nav-items.module.code.ts"
-import { EdgeSwipeNav } from "../edge-swipe-nav/edge-swipe-nav.module.code.tsx"
-import { MiniPlayerBar } from "../mini-player-bar/mini-player-bar.module.code.tsx"
-import { DynamicNavCommands } from "../nav-commands/nav-commands.module.code.tsx"
-import { PullToRefresh } from "../pull-to-refresh/pull-to-refresh.module.code.tsx"
 
 interface AppShellProps {
   children: React.ReactNode

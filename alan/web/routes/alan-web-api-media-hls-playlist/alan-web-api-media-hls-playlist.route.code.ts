@@ -1,4 +1,17 @@
 import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
+import {
+  capacitorCorsHeaders,
+  corsPreflight,
+  corsResponder,
+} from "akasha/alan/web/capacitor-cors/capacitor-cors.module.code.ts"
+import { forwardedOrigin } from "akasha/alan/web/forwarded-origin/forwarded-origin.module.code.ts"
+import { ensureHlsPlaylist } from "akasha/alan/web/hls-render/hls-render.module.code.ts"
+import { resolveChapterKokoroSegments } from "akasha/alan/web/kokoro-render/kokoro-render.module.code.ts"
+import {
+  isMediaPageId,
+  resolveMediaPage,
+} from "akasha/alan/web/media-page/media-page.module.code.ts"
+import { rewriteHlsPlaylist } from "akasha/alan/web/rewrite-hls-playlist/rewrite-hls-playlist.module.code.ts"
 import { hlsPlaylistObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import {
   type ObjectStore,
@@ -12,16 +25,6 @@ import {
   MEDIA_VARIANT_PATTERN,
   mediaPageExists,
 } from "akasha/pages/ui/media/serve-media/serve-media.module.code.ts"
-import {
-  capacitorCorsHeaders,
-  corsPreflight,
-  corsResponder,
-} from "../../capacitor-cors/capacitor-cors.module.code.ts"
-import { forwardedOrigin } from "../../forwarded-origin/forwarded-origin.module.code.ts"
-import { ensureHlsPlaylist } from "../../hls-render/hls-render.module.code.ts"
-import { resolveChapterKokoroSegments } from "../../kokoro-render/kokoro-render.module.code.ts"
-import { isMediaPageId, resolveMediaPage } from "../../media-page/media-page.module.code.ts"
-import { rewriteHlsPlaylist } from "../../rewrite-hls-playlist/rewrite-hls-playlist.module.code.ts"
 
 async function readPlaylist(
   store: ObjectStore,

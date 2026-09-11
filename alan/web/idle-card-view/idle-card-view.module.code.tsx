@@ -5,6 +5,22 @@ import {
   maxAffordableTrainCount,
 } from "akasha/alan/harness/idle-system/idle-accrual/idle-accrual.module.code.ts"
 import { displayedResource } from "akasha/alan/harness/idle-system/idle-rate/idle-rate.module.code.ts"
+import { bucketPageRowsByGroup } from "akasha/alan/web/idle-card-grouping/idle-card-grouping.module.code.ts"
+import {
+  IDLE_CARD_PROPERTY_DEFINITIONS,
+  IDLE_PERSONA_CARD_ICON,
+  IDLE_PERSONA_CARD_PAGE_TYPE_SLUG,
+  ROSTER_GALLERY_CAPABILITY,
+} from "akasha/alan/web/idle-card-page-type/idle-card-page-type.module.code.ts"
+import { deriveCardRows } from "akasha/alan/web/idle-card-rows/idle-card-rows.module.code.ts"
+import {
+  ensureCatalogLoaded,
+  getCatalogSnapshot,
+  subscribeCatalog,
+} from "akasha/alan/web/idle-catalog-store/idle-catalog-store.module.code.ts"
+import { idleGameStore } from "akasha/alan/web/idle-game-store/idle-game-store.module.code.ts"
+import { buildLineupViewConfig } from "akasha/alan/web/idle-lineup-view-config/idle-lineup-view-config.module.code.ts"
+import { buildRosterViewConfig } from "akasha/alan/web/idle-roster-view-config/idle-roster-view-config.module.code.ts"
 import type { GalleryCardSize } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
 import { resolveGalleryCardSize } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
 import { PageCardRenderer } from "akasha/pages/ui/components/page-card-renderer/page-card-renderer.module.code.tsx"
@@ -13,22 +29,6 @@ import { useReorderViewWiring } from "akasha/pages/ui/components/use-reorder-vie
 import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useMemo, useState, useSyncExternalStore } from "react"
-import { bucketPageRowsByGroup } from "../idle-card-grouping/idle-card-grouping.module.code.ts"
-import {
-  IDLE_CARD_PROPERTY_DEFINITIONS,
-  IDLE_PERSONA_CARD_ICON,
-  IDLE_PERSONA_CARD_PAGE_TYPE_SLUG,
-  ROSTER_GALLERY_CAPABILITY,
-} from "../idle-card-page-type/idle-card-page-type.module.code.ts"
-import { deriveCardRows } from "../idle-card-rows/idle-card-rows.module.code.ts"
-import {
-  ensureCatalogLoaded,
-  getCatalogSnapshot,
-  subscribeCatalog,
-} from "../idle-catalog-store/idle-catalog-store.module.code.ts"
-import { idleGameStore } from "../idle-game-store/idle-game-store.module.code.ts"
-import { buildLineupViewConfig } from "../idle-lineup-view-config/idle-lineup-view-config.module.code.ts"
-import { buildRosterViewConfig } from "../idle-roster-view-config/idle-roster-view-config.module.code.ts"
 
 const EMPTY_AGGREGATES: ReadonlyMap<string, Record<string, number | null>> = new Map()
 const EMPTY_PLURAL_SLUGS: ReadonlyMap<string, string> = new Map()

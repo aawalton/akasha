@@ -1,6 +1,6 @@
 import { getBrowserClient } from "akasha/alan/harness/supabase-rr/browser-client/browser-client.module.code.ts"
-import { API_ORIGIN } from "../api-origin/api-origin.module.code.ts"
-import { isNativeShell } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
+import { API_ORIGIN } from "akasha/alan/web/api-origin/api-origin.module.code.ts"
+import { isNativeShell } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
 
 export function buildApiRequest(
   input: string,

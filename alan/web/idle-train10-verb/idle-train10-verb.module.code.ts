@@ -1,3 +1,8 @@
+import {
+  IDLE_LOCK_STATE_UNLOCKED,
+  IDLE_TRAIN10_VERB_ID,
+} from "akasha/alan/web/idle-card-page-type/idle-card-page-type.module.code.ts"
+import { idleGameStore } from "akasha/alan/web/idle-game-store/idle-game-store.module.code.ts"
 import { formatShortNumber as fmt } from "akasha/pages/core/property-types/number/number.module.code.ts"
 import {
   type ActionPresentation,
@@ -5,11 +10,6 @@ import {
   registerActionVerb,
 } from "akasha/pages/ui/action-verbs/action-verb-registry/action-verb-registry.module.code.ts"
 import { z } from "zod"
-import {
-  IDLE_LOCK_STATE_UNLOCKED,
-  IDLE_TRAIN10_VERB_ID,
-} from "../idle-card-page-type/idle-card-page-type.module.code.ts"
-import { idleGameStore } from "../idle-game-store/idle-game-store.module.code.ts"
 
 const train10CardSchema = z.object({
   cardSlug: z.string().min(1),

@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import type { Asked } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import {
   ACCOUNT,
   askingsAt,
   buildClaudeUsageResponse,
   type ClaudeUsageAnswers,
   type UsageWidgetPayload,
-} from "./claude-usage.route.code.ts"
+} from "akasha/alan/web/routes/claude-usage/claude-usage.route.code.ts"
+import type { Asked } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 
 const NOW = Date.parse("2026-09-01T20:00:00.000Z")
 const HOUR = 3_600_000

@@ -9,7 +9,7 @@ import {
 import { nextStarThreshold } from "akasha/alan/harness/idle-system/idle-gacha-state/idle-gacha-state.module.code.ts"
 import { effectiveRate } from "akasha/alan/harness/idle-system/idle-rate/idle-rate.module.code.ts"
 import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
-import type { Catalog } from "../idle-catalog/idle-catalog.module.code.ts"
+import type { Catalog } from "akasha/alan/web/idle-catalog/idle-catalog.module.code.ts"
 
 export type GirlCardVM = {
   readonly slug: string

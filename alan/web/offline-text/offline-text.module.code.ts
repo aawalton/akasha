@@ -1,8 +1,8 @@
-import { getFilesystem } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
+import { getFilesystem } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
 import {
   readDocumentsFile,
   writeDocumentsFile,
-} from "../offline-cache-fs/offline-cache-fs.module.code.ts"
+} from "akasha/alan/web/offline-cache-fs/offline-cache-fs.module.code.ts"
 import {
   CacheIndexPersistedSchema,
   type CompletionQueue,
@@ -20,11 +20,11 @@ import {
   removeQueuedCompletions,
   removeSyncedPositions,
   setLocalPosition,
-} from "../offline-text-cache/offline-text-cache.module.code.ts"
+} from "akasha/alan/web/offline-text-cache/offline-text-cache.module.code.ts"
 import {
   describeThrown,
   reportReadCompletionDiag,
-} from "../read-completion-diagnostics/read-completion-diagnostics.module.code.ts"
+} from "akasha/alan/web/read-completion-diagnostics/read-completion-diagnostics.module.code.ts"
 
 const CACHE_INDEX_PATH = "chapters-cache.json"
 const COMPLETION_QUEUE_PATH = "completion-queue.json"

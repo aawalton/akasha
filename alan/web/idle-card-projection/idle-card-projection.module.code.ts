@@ -6,9 +6,9 @@ import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-
 import {
   IDLE_LOCK_STATE_LOCKED,
   IDLE_LOCK_STATE_UNLOCKED,
-} from "../idle-card-page-type/idle-card-page-type.module.code.ts"
-import { portraitSrc } from "../idle-portrait/idle-portrait.module.code.ts"
-import type { GirlCardVM } from "../idle-roster-view/idle-roster-view.module.code.ts"
+} from "akasha/alan/web/idle-card-page-type/idle-card-page-type.module.code.ts"
+import { portraitSrc } from "akasha/alan/web/idle-portrait/idle-portrait.module.code.ts"
+import type { GirlCardVM } from "akasha/alan/web/idle-roster-view/idle-roster-view.module.code.ts"
 
 export type LockInputs = {
   readonly specializeUnlocked: boolean

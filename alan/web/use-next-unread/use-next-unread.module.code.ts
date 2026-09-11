@@ -1,7 +1,7 @@
 "use client"
 
+import { resolveNextUnreadHref } from "akasha/alan/web/next-unread/next-unread.module.code.ts"
 import { useEffect, useRef, useState } from "react"
-import { resolveNextUnreadHref } from "../next-unread/next-unread.module.code.ts"
 
 export function useNextUnreadHref(storyId: string | undefined): string | null {
   const [href, setHref] = useState<string | null>(null)

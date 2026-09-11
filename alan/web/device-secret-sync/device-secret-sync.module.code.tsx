@@ -1,5 +1,11 @@
 "use client"
 
+import { apiFetch } from "akasha/alan/web/api-fetch/api-fetch.module.code.ts"
+import {
+  type DeviceSecretPlugin,
+  getDeviceSecret,
+  isNativeShell,
+} from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import {
   mintDeviceSecretResponseSchema,
@@ -16,12 +22,6 @@ import {
   routeRead,
 } from "akasha/persons/device-secret-minting/device-secret-minting.module.code.ts"
 import { useContext, useEffect, useRef } from "react"
-import { apiFetch } from "../api-fetch/api-fetch.module.code.ts"
-import {
-  type DeviceSecretPlugin,
-  getDeviceSecret,
-  isNativeShell,
-} from "../capacitor-bridge/capacitor-bridge.module.code.ts"
 
 async function probeKeychain(plugin: DeviceSecretPlugin, userId: string): Promise<PeekProbe> {
   try {

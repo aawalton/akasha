@@ -1,6 +1,6 @@
+import { HOME_NAV_SLUG } from "akasha/alan/web/home-dni/home-dni.module.code.ts"
 import type { Asked, Query } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
-import { HOME_NAV_SLUG } from "../../home-dni/home-dni.module.code.ts"
 
 const HOME_NAV_ITEM = `the \`${HOME_NAV_SLUG}\` nav item`
 

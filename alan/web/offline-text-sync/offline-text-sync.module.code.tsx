@@ -12,30 +12,30 @@ import {
   writeChapterPosition,
 } from "akasha/alan/library/reading/offline-reading/offline-reading.module.code.ts"
 import { loadStoryCatalog } from "akasha/alan/library/reading/story-catalog/story-catalog.module.code.ts"
-import {
-  POSITION_WRITE_EVENT,
-  parsePositionWriteDetail,
-} from "akasha/pages/ui/components/position-write-event/position-write-event.module.code.ts"
-import { getContentPersistence } from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
-import { useEffect, useRef } from "react"
-import { isNativeShell } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
+import { isNativeShell } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
 import {
   clearSyncedCompletions,
   clearSyncedPositions,
   readCompletionQueue,
   readPositionStore,
   writeLocalPosition,
-} from "../offline-text/offline-text.module.code.ts"
+} from "akasha/alan/web/offline-text/offline-text.module.code.ts"
 import {
   chunk,
   completionPatches,
   OFFLINE_COMPLETIONS_CHANGED_EVENT,
   positionPatches,
-} from "../offline-text-cache/offline-text-cache.module.code.ts"
+} from "akasha/alan/web/offline-text-cache/offline-text-cache.module.code.ts"
 import {
   describeThrown,
   reportReadCompletionDiag,
-} from "../read-completion-diagnostics/read-completion-diagnostics.module.code.ts"
+} from "akasha/alan/web/read-completion-diagnostics/read-completion-diagnostics.module.code.ts"
+import {
+  POSITION_WRITE_EVENT,
+  parsePositionWriteDetail,
+} from "akasha/pages/ui/components/position-write-event/position-write-event.module.code.ts"
+import { getContentPersistence } from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
+import { useEffect, useRef } from "react"
 
 const DOWN_SYNC_CONCURRENCY = 5
 

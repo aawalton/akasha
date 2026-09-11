@@ -1,6 +1,8 @@
 "use client"
 
 import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
+import { PageDetailWithReadMark } from "akasha/alan/web/page-detail-with-read-mark/page-detail-with-read-mark.module.code.tsx"
+import { useReaderActiveMarks } from "akasha/alan/web/use-reader-active-marks/use-reader-active-marks.module.code.ts"
 import {
   KOKORO_STREAM_VARIANT,
   STORED_READ_ALOUD_VARIANT,
@@ -10,8 +12,6 @@ import type { ActiveSessionInit } from "akasha/pages/ui/media/playing-session/pl
 import { useOptionalPlayingSession } from "akasha/pages/ui/media/playing-session-context/playing-session-context.module.code.tsx"
 import { type ComponentProps, useCallback, useMemo } from "react"
 import { useLocation } from "react-router"
-import { PageDetailWithReadMark } from "../page-detail-with-read-mark/page-detail-with-read-mark.module.code.tsx"
-import { useReaderActiveMarks } from "../use-reader-active-marks/use-reader-active-marks.module.code.ts"
 
 const EMPTY_MARKS: readonly SentenceMark[] = []
 

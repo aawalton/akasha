@@ -1,15 +1,15 @@
 "use client"
 
 import { widgetTapped } from "akasha/alan/harness/readouts/widget-tap-link/widget-tap-link.module.code.ts"
-import { decideOpenUrlRoute } from "akasha/persons/push-routing/push-routing.module.code.ts"
-import { useEffect, useRef } from "react"
-import { useNavigate } from "react-router"
-import { apiFetch } from "../api-fetch/api-fetch.module.code.ts"
+import { apiFetch } from "akasha/alan/web/api-fetch/api-fetch.module.code.ts"
 import {
   getApp,
   isNativeShell,
   type PluginListenerHandle,
-} from "../capacitor-bridge/capacitor-bridge.module.code.ts"
+} from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
+import { decideOpenUrlRoute } from "akasha/persons/push-routing/push-routing.module.code.ts"
+import { useEffect, useRef } from "react"
+import { useNavigate } from "react-router"
 
 function countTap(url: string): undefined {
   const widget = widgetTapped(url)

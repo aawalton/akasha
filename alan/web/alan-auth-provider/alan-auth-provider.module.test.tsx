@@ -63,7 +63,7 @@ mock.module("akasha/pages/ui-store/singleton/singleton.module.code.ts", () => ({
     }),
 }))
 const offlineCacheNamespace = await import(
-  "../offline-cache-namespace/offline-cache-namespace.module.code.ts"
+  "akasha/alan/web/offline-cache-namespace/offline-cache-namespace.module.code.ts"
 )
 mock.module("../offline-cache-namespace/offline-cache-namespace.module.code.ts", () => ({
   ...offlineCacheNamespace,
@@ -100,7 +100,9 @@ mock.module("react-router", () => ({
   },
 }))
 
-const { AuthProvider } = await import("./alan-auth-provider.module.code.tsx")
+const { AuthProvider } = await import(
+  "akasha/alan/web/alan-auth-provider/alan-auth-provider.module.code.tsx"
+)
 
 async function settle(): Promise<void> {
   for (let i = 0; i < 5; i++) {

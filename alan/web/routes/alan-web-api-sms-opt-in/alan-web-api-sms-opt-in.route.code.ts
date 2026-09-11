@@ -1,6 +1,6 @@
+import { capacitorCorsHeaders } from "akasha/alan/web/capacitor-cors/capacitor-cors.module.code.ts"
+import { unwritten } from "akasha/alan/web/pages-unheld/pages-unheld.module.code.ts"
 import { z } from "zod"
-import { capacitorCorsHeaders } from "../../capacitor-cors/capacitor-cors.module.code.ts"
-import { unwritten } from "../../pages-unheld/pages-unheld.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"
 

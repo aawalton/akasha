@@ -1,5 +1,5 @@
-import { resolveMediaPage } from "../../media-page/media-page.module.code.ts"
-import { resolveMediaVariants } from "../../media-variants/media-variants.module.code.ts"
+import { resolveMediaPage } from "akasha/alan/web/media-page/media-page.module.code.ts"
+import { resolveMediaVariants } from "akasha/alan/web/media-variants/media-variants.module.code.ts"
 
 const SHELL_ORIGINS: readonly string[] = ["https://alanwalton.com", "capacitor://localhost"]
 

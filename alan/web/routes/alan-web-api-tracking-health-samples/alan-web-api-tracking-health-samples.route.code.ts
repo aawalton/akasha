@@ -1,8 +1,11 @@
 import type { HealthSample } from "akasha/alan/harness/health-samples-access/sample-shape/sample-shape.module.code.ts"
 import { upsertHealthSamples } from "akasha/alan/harness/health-samples-access/sample-upsert/sample-upsert.module.code.ts"
+import { resolveDeviceSecretContext } from "akasha/alan/web/.server/device-secret-context/device-secret-context.module.code.ts"
+import {
+  capacitorCorsHeaders,
+  withCors,
+} from "akasha/alan/web/capacitor-cors/capacitor-cors.module.code.ts"
 import { healthSamplesIngestSchema } from "akasha/persons/health-samples-body/health-samples-body.module.code.ts"
-import { resolveDeviceSecretContext } from "../../.server/device-secret-context/device-secret-context.module.code.ts"
-import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"
 const CORS_ALLOW_HEADERS = "Authorization, Content-Type, X-Device-Secret"

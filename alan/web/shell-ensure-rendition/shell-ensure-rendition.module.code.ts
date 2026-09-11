@@ -1,5 +1,5 @@
+import { apiFetch } from "akasha/alan/web/api-fetch/api-fetch.module.code.ts"
 import { z } from "zod"
-import { apiFetch } from "../api-fetch/api-fetch.module.code.ts"
 
 const ensureResponseSchema = z.object({
   status: z.enum(["ready", "generating", "unavailable"]),

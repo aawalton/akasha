@@ -1,9 +1,8 @@
-import { z } from "zod"
-import { apiFetch } from "../api-fetch/api-fetch.module.code.ts"
+import { apiFetch } from "akasha/alan/web/api-fetch/api-fetch.module.code.ts"
 import {
   type FilesystemPlugin,
   getFilesystem,
-} from "../capacitor-bridge/capacitor-bridge.module.code.ts"
+} from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
 import {
   type ChunkObservation,
   type DownloadProgress,
@@ -13,7 +12,8 @@ import {
   resolveProgressFraction,
   shouldResetPartial,
   verifyComplete,
-} from "../offline-download-plan/offline-download-plan.module.code.ts"
+} from "akasha/alan/web/offline-download-plan/offline-download-plan.module.code.ts"
+import { z } from "zod"
 
 const INDEX_PATH = "downloads-index.json"
 

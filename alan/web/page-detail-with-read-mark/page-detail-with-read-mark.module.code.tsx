@@ -1,8 +1,8 @@
 "use client"
 
+import { useMarkReadOnEnd } from "akasha/alan/web/use-mark-read-on-end/use-mark-read-on-end.module.code.ts"
 import { PageDetailContent } from "akasha/pages/ui/components/page-detail-content/page-detail-content.module.code.tsx"
 import type { ComponentProps } from "react"
-import { useMarkReadOnEnd } from "../use-mark-read-on-end/use-mark-read-on-end.module.code.ts"
 
 type Props = Omit<ComponentProps<typeof PageDetailContent>, "onReadToEnd">
 

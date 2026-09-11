@@ -1,11 +1,11 @@
+import { IDLE_REMOVE_VERB_ID } from "akasha/alan/web/idle-card-page-type/idle-card-page-type.module.code.ts"
+import { idleGameStore } from "akasha/alan/web/idle-game-store/idle-game-store.module.code.ts"
+import { removeFromTeam } from "akasha/alan/web/lineup-slots-draft/lineup-slots-draft.module.code.ts"
 import {
   type ActionVerbContext,
   registerActionVerb,
 } from "akasha/pages/ui/action-verbs/action-verb-registry/action-verb-registry.module.code.ts"
 import { z } from "zod"
-import { IDLE_REMOVE_VERB_ID } from "../idle-card-page-type/idle-card-page-type.module.code.ts"
-import { idleGameStore } from "../idle-game-store/idle-game-store.module.code.ts"
-import { removeFromTeam } from "../lineup-slots-draft/lineup-slots-draft.module.code.ts"
 
 const removeCardSchema = z.object({ cardSlug: z.string().min(1) }).partial()
 

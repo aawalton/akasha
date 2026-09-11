@@ -6,6 +6,10 @@ import {
   type SentenceMark,
   sentenceMarkSchema,
 } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
+import { resolveReaderNeighbors } from "akasha/alan/web/alan-reader-neighbors/alan-reader-neighbors.module.code.ts"
+import { resolveMediaVariants } from "akasha/alan/web/media-variants/media-variants.module.code.ts"
+import { resolveNextUnreadHref } from "akasha/alan/web/next-unread/next-unread.module.code.ts"
+import { selectPageDisplayKind } from "akasha/alan/web/page-display-kind/page-display-kind.module.code.ts"
 import {
   getPage,
   getPageByIdSuffix,
@@ -28,10 +32,6 @@ import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.m
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { data, type LoaderFunctionArgs } from "react-router"
 import { z } from "zod"
-import { resolveReaderNeighbors } from "../../alan-reader-neighbors/alan-reader-neighbors.module.code.ts"
-import { resolveMediaVariants } from "../../media-variants/media-variants.module.code.ts"
-import { resolveNextUnreadHref } from "../../next-unread/next-unread.module.code.ts"
-import { selectPageDisplayKind } from "../../page-display-kind/page-display-kind.module.code.ts"
 
 const NAV_SLUG = "nav"
 const GAME_KEYS = ["externalId", "gameEngine"] as const

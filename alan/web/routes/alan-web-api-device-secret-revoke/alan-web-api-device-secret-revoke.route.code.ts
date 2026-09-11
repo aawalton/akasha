@@ -1,11 +1,11 @@
-import { revokeDeviceSecretSchema } from "akasha/persons/device-secret-body/device-secret-body.module.code.ts"
-import { revokeDeviceSecret } from "../../.server/device-secret-context/device-secret-context.module.code.ts"
-import { resolveDeviceTokenContext } from "../../.server/device-token-context/device-token-context.module.code.ts"
+import { revokeDeviceSecret } from "akasha/alan/web/.server/device-secret-context/device-secret-context.module.code.ts"
+import { resolveDeviceTokenContext } from "akasha/alan/web/.server/device-token-context/device-token-context.module.code.ts"
 import {
   actionOnlyLoader,
   capacitorCorsHeaders,
   withCors,
-} from "../../capacitor-cors/capacitor-cors.module.code.ts"
+} from "akasha/alan/web/capacitor-cors/capacitor-cors.module.code.ts"
+import { revokeDeviceSecretSchema } from "akasha/persons/device-secret-body/device-secret-body.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"
 

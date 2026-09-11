@@ -1,4 +1,4 @@
-import { unwritten } from "../../pages-unheld/pages-unheld.module.code.ts"
+import { unwritten } from "akasha/alan/web/pages-unheld/pages-unheld.module.code.ts"
 
 const MESSAGE_PAGE_TYPE_SLUG = "message"
 

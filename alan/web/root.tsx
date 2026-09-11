@@ -4,6 +4,10 @@ import { reportError } from "akasha/alan/harness/errors-client/error-reporting/e
 import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
 import type { AuthRouteConfig } from "akasha/alan/harness/supabase-rr/auth-guard/auth-guard.module.code.ts"
 import { guardedRootData } from "akasha/alan/harness/supabase-rr/root-loader/root-loader.module.code.ts"
+import { isNativeShell } from "akasha/alan/web/capacitor-bridge/capacitor-bridge.module.code.ts"
+import { createNativeFsContentPersistence } from "akasha/alan/web/content-pages-fs/content-pages-fs.module.code.ts"
+import { readLocalPosition } from "akasha/alan/web/offline-text/offline-text.module.code.ts"
+import { createNativeFsPagesPersistence } from "akasha/alan/web/pages-persistence-fs/pages-persistence-fs.module.code.ts"
 import { CommandPalette } from "akasha/design/interfaces/primitives/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/interfaces/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
@@ -25,15 +29,11 @@ import {
   useRouteLoaderData,
 } from "react-router"
 import type { Route } from "./+types/root"
-import { isNativeShell } from "./capacitor-bridge/capacitor-bridge.module.code.ts"
-import { createNativeFsContentPersistence } from "./content-pages-fs/content-pages-fs.module.code.ts"
-import { readLocalPosition } from "./offline-text/offline-text.module.code.ts"
-import { createNativeFsPagesPersistence } from "./pages-persistence-fs/pages-persistence-fs.module.code.ts"
-import "./look/alan-web-look.stylesheet.styles.css"
-import "./capability-registrations/capability-registrations.module.code.ts"
+import "akasha/alan/web/look/alan-web-look.stylesheet.styles.css"
+import "akasha/alan/web/capability-registrations/capability-registrations.module.code.ts"
+import { NavCommands } from "akasha/alan/web/nav-commands/nav-commands.module.code.tsx"
+import { StatusBarSync } from "akasha/alan/web/status-bar-sync/status-bar-sync.module.code.tsx"
 import { PagesUICapabilityHosts } from "akasha/pages/ui/capabilities/capability-hosts/capability-hosts.module.code.tsx"
-import { NavCommands } from "./nav-commands/nav-commands.module.code.tsx"
-import { StatusBarSync } from "./status-bar-sync/status-bar-sync.module.code.tsx"
 
 configurePagesPersistence(isNativeShell() ? createNativeFsPagesPersistence() : null)
 

@@ -1,6 +1,6 @@
 import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
+import { unheld } from "akasha/alan/web/pages-unheld/pages-unheld.module.code.ts"
 import { z } from "zod"
-import { unheld } from "../../pages-unheld/pages-unheld.module.code.ts"
 
 const PROPERTY_DEFINITION_PAGE_TYPE = "page-property-definition"
 

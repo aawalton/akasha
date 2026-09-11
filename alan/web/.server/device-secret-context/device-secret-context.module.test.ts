@@ -1,4 +1,8 @@
 import { expect, test } from "bun:test"
+import {
+  readDeviceSecretAdmission,
+  resolveDeviceSecretContext,
+} from "akasha/alan/web/.server/device-secret-context/device-secret-context.module.code.ts"
 import type {
   Fetcher,
   Sleeper,
@@ -9,10 +13,6 @@ import {
   hashDeviceSecret,
 } from "akasha/persons/device-secret-keeping/device-secret-keeping.module.code.ts"
 import { z } from "zod"
-import {
-  readDeviceSecretAdmission,
-  resolveDeviceSecretContext,
-} from "./device-secret-context.module.code.ts"
 
 const ALAN_ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 

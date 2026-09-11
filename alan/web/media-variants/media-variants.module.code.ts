@@ -1,4 +1,5 @@
 import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
+import { resolveReadAloudSentenceMarks } from "akasha/alan/web/read-aloud-marks/read-aloud-marks.module.code.ts"
 import { mediaRenderObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { getPage } from "akasha/pages/access/get/get.module.code.ts"
@@ -17,7 +18,6 @@ import {
 } from "akasha/pages/ui/media/media-src/media-src.module.code.ts"
 import type { MediaVariant } from "akasha/pages/ui/media/page-media-player/page-media-player.module.code.tsx"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
-import { resolveReadAloudSentenceMarks } from "../read-aloud-marks/read-aloud-marks.module.code.ts"
 
 const READING_STORY_SLUG = "reading-story"
 

@@ -1,4 +1,4 @@
-import { reasonText } from "../idle-reason-copy/idle-reason-copy.module.code.ts"
+import { reasonText } from "akasha/alan/web/idle-reason-copy/idle-reason-copy.module.code.ts"
 
 export function ErrorMessage({ reason }: { reason: string | null | undefined }) {
   if (reason === null || reason === undefined) {

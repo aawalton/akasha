@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { audioActionsFor } from "./alan-web-page-detail.route.code.tsx"
+import { audioActionsFor } from "akasha/alan/web/routes/alan-web-page-detail/alan-web-page-detail.route.code.tsx"
 
 const CHAPTER = {
   id: "01a08833-1672-716a-8f04-9183f3106bcc",

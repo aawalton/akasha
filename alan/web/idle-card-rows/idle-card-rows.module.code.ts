@@ -1,17 +1,17 @@
 import { boostedRateMap } from "akasha/alan/harness/idle-system/idle-rate/idle-rate.module.code.ts"
 import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
-import { toPageDataRecord } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
-import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import {
   buildLockInputs,
   deriveCardProjections,
-} from "../idle-card-projection/idle-card-projection.module.code.ts"
-import type { Catalog } from "../idle-catalog/idle-catalog.module.code.ts"
+} from "akasha/alan/web/idle-card-projection/idle-card-projection.module.code.ts"
+import type { Catalog } from "akasha/alan/web/idle-catalog/idle-catalog.module.code.ts"
 import {
   deriveRosterView,
   formatCollectedBadge,
   formatStarsDetail,
-} from "../idle-roster-view/idle-roster-view.module.code.ts"
+} from "akasha/alan/web/idle-roster-view/idle-roster-view.module.code.ts"
+import { toPageDataRecord } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 
 export function deriveCardRows(state: GameState, catalog: Catalog): readonly PageRow[] {
   const cards = deriveRosterView(state, catalog, state.lastTickAt)

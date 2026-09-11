@@ -1,7 +1,7 @@
 import {
   answerWidgetTap,
   answerWidgetTapAsked,
-} from "../../.server/widget-tap-answering/widget-tap-answering.module.code.ts"
+} from "akasha/alan/web/.server/widget-tap-answering/widget-tap-answering.module.code.ts"
 import type { Route } from "./+types/widget-tap.route.code"
 
 export function loader({ request }: Route.LoaderArgs): Response {

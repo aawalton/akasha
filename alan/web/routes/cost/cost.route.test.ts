@@ -12,8 +12,8 @@ import {
   type Relaying,
   relayingTo,
 } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
+import { action } from "akasha/alan/web/routes/readout-relay/readout-relay.route.code.ts"
 import { z } from "zod"
-import { action } from "../readout-relay/readout-relay.route.code.ts"
 
 globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
 
