@@ -14,6 +14,7 @@ import {
   textAt,
   type Value,
 } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/name-drawing/name-drawing.module.code.ts"
 
 const RECORD = "record-property"
 
@@ -225,9 +226,7 @@ export function eachTarget(wanted: Wanted): readonly string[] {
   return typeof wanted === "string" ? [wanted] : wanted
 }
 
-function saidAs(every: readonly string[]): string {
-  return every.map((one) => `\`${one}\``).join(" or ")
-}
+const OR = " or "
 
 function onceEach(found: readonly Listed[]): readonly Listed[] {
   const seen = new Set<string>()
@@ -243,7 +242,9 @@ function onceEach(found: readonly Listed[]): readonly Listed[] {
 function admitsNone(named: string, pageTypeSlug: string, every: readonly string[]): string {
   const one = every[0]
   const admits =
-    every.length === 1 && one !== undefined ? `\`${one}\` and what extends it` : saidAs(every)
+    every.length === 1 && one !== undefined
+      ? `\`${one}\` and what extends it`
+      : namesDrawn(every, OR)
   return `\`${named}\` names a \`${pageTypeSlug}\`, and this property admits only ${admits}`
 }
 
@@ -311,7 +312,7 @@ export function reaches(named: string, wanted: Wanted, known: Known): Reached {
   const single = only(reached)
   if (single !== null) return { id: single.id }
   if (reached.length === 0)
-    return { refused: `no page admitting ${saidAs(every)} carries the slug \`${named}\`` }
+    return { refused: `no page admitting ${namesDrawn(every, OR)} carries the slug \`${named}\`` }
   return { refused: among(named, reached) }
 }
 
