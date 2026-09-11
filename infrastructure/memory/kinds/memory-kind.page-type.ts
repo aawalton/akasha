@@ -8,6 +8,15 @@ export const memoryKind = {
   definition: "one measure a reading of memory is taken in",
   pluralSlug: "memory-kinds",
   extends: ["page-type/domain"],
+  parts: [
+    "memory-kind/resident",
+    "memory-kind/virtual",
+    "memory-kind/shared",
+    "memory-kind/proportional",
+    "memory-kind/available",
+    "memory-kind/cached",
+    "memory-kind/swap",
+  ],
   invariants: [
     {
       invariantKind: "departure",
