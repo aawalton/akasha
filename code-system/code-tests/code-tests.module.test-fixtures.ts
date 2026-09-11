@@ -15,6 +15,8 @@ export const BURNS =
   'test("one", () => { const until = Bun.nanoseconds() + 2e9\n' +
   "  while (Bun.nanoseconds() < until) {} })\n"
 
+export const THROWS = 'throw new Error("this file will not load")\n'
+
 export const SETS = "globalThis.held = true\n"
 
 export const NEEDS =

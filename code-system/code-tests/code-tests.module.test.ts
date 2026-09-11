@@ -26,6 +26,7 @@ import {
   NEEDS,
   PASSES,
   SETS,
+  THROWS,
 } from "akasha/code-system/code-tests/code-tests.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/commands/modules/scratching/scratching.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
@@ -163,6 +164,15 @@ check("a run holding a failing test answers a failing verdict", () => {
   const root = repo({ "one.test.ts": PASSES, "two.test.ts": FAILS })
   const done = ranOver(root, ["akasha"], 2)
   expect(done.summary.failed).toBe(1)
+  expect(done.verdict).toBe("fail")
+})
+
+check("a run holding a file that throws as it loads counts that file and answers fail", () => {
+  const root = repo({ "one.test.ts": PASSES, "two.test.ts": THROWS })
+  const done = ranOver(root, ["akasha"], 2)
+  expect(done.summary).toEqual({ files: 2, failed: 1, passed: 1 })
+  expect(errorsIn(done.output)).toBe(1)
+  expect(plain(done.output)).toContain("# Unhandled error between tests")
   expect(done.verdict).toBe("fail")
 })
 
